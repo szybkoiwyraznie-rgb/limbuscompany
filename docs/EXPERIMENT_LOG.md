@@ -31,6 +31,17 @@ Najnowszy wpis na górze. Szablon:
   - Lochy: 106 tys. słów, ok. 330 stron.
   - Interfejs: 101 tys. słów, ok. 330 stron.
   - **Razem: ok. 1,42 mln słów, ok. 3,5 mln znaków KR, ok. 4400 stron.**
+- Wynik w liniach (pozycje KR z Hangulem):
+  - Razem 152 678 pozycji, w tym około 97 tys. unikalnych.
+  - Kwestie w scenach (`StoryData`, pole `content`): 56 502.
+    - Fabuła główna: 27 144 (Prolog 393; Canto I–IX: 1183, 1237, 1710,
+      2493, 3578, 3101, 3647, 5312, 4490, licząc z lochami fabularnymi).
+    - Wydarzenia i Intervallo: 16 641.
+    - Opowieści osobowości: 12 717.
+  - ID, E.G.O, umiejętności i wrogowie: 44 550 pozycji, w tym 21 329 unikalnych.
+  - Głosy: 13 261 pozycji, w tym 7974 unikalne.
+  - Lochy: 7129 pozycji, w tym 4982 unikalne.
+  - Interfejs: 11 065 pozycji, w tym 7601 unikalnych.
 - Rodzaj dowodu: szacunek z publicznej kopii.
 - Ograniczenia: kopia jest z sierpnia 2026, więc treści dodane później
   doliczy pomiar na zbiorze właściciela. Kategorie przypisano po nazwach
