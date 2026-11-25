@@ -298,9 +298,18 @@ function Main {
     for ($p = 0; $p -lt $parts.Count; $p++) {
         $bytesInPart = [long] 0
         foreach ($item in $parts[$p]) { $bytesInPart += $item.rozmiar }
-        $summary += ,([ordered]@{ czesc = $p + 1; plikow = $parts[$p].Count; bajtow = $bytesInPart })
+        $summaryItem = [ordered]@{}
+        $summaryItem['czesc'] = $p + 1
+        $summaryItem['plikow'] = $parts[$p].Count
+        $summaryItem['bajtow'] = $bytesInPart
+        $summary += ,$summaryItem
     }
 
+    $languagesSorted = [object[]] @($languages | Sort-Object)
+    $langExists = Test-Path -LiteralPath $langDir -PathType Container
+    $langFolders = [object[]] @($langFolders)
+    $removed = [object[]] @($removed)
+    $summary = [object[]] @($summary)
     $written = New-Object 'System.Collections.Generic.List[string]'
     for ($p = 0; $p -lt $parts.Count; $p++) {
         $suffix = ''
@@ -328,25 +337,56 @@ function Main {
                 $complete = ($script:Problems.Count -eq 0)
                 $state = 'niepelny'
                 if ($complete) { $state = 'kompletny' }
-                $report = [ordered]@{
-                    format = 'lc-zbior-v1'
-                    zbieracz = $script:Version
-                    tryb = $Tryb
-                    zbior_id = $id
-                    utworzono_utc = [DateTime]::UtcNow.ToString('o')
-                    czesc = $p + 1
-                    czesci = $parts.Count
-                    gra = [ordered]@{ appid = $script:AppId; buildid = $buildId; folder_gry = (Split-Path -Leaf $root) }
-                    localize = [ordered]@{ istnieje = $localizeExists; jezyki = @($languages | Sort-Object) }
-                    lang = [ordered]@{ istnieje = (Test-Path -LiteralPath $langDir -PathType Container); podfoldery = @($langFolders); config_json = $langConfig }
-                    stan = [ordered]@{ uzyty = $useState; plikow_w_stanie = $previous.Count; niezmienione = $unchanged; usuniete = @($removed) }
-                    inwentarz = [ordered]@{ w_tej_czesci = ($p -eq 0); wierszy = $inventoryRows; ograniczony = $inventoryLimited }
-                    wszystkie_czesci = @($summary)
-                    pliki = @($records)
-                    pominiete = @($script:Skipped)
-                    problemy = @($script:Problems)
-                    stan_zbioru = $state
-                }
+                # Windows PowerShell 5.1 nie kompiluje potokow/@() w zagniezdzonych
+                # literalach [ordered] ('Argument types do not match'), wiec
+                # wszystkie wartosci sa najpierw zwyklymi zmiennymi.
+                $partNumber = $p + 1
+                $partCount = $parts.Count
+                $createdUtc = [DateTime]::UtcNow.ToString('o')
+                $folderName = Split-Path -Leaf $root
+                $inventoryHere = ($p -eq 0)
+                $previousCount = $previous.Count
+                $recordsArray = $records.ToArray()
+                $skippedArray = $script:Skipped.ToArray()
+                $problemsArray = $script:Problems.ToArray()
+                $gameInfo = [ordered]@{}
+                $gameInfo['appid'] = $script:AppId
+                $gameInfo['buildid'] = $buildId
+                $gameInfo['folder_gry'] = $folderName
+                $localizeInfo = [ordered]@{}
+                $localizeInfo['istnieje'] = $localizeExists
+                $localizeInfo['jezyki'] = $languagesSorted
+                $langInfo = [ordered]@{}
+                $langInfo['istnieje'] = $langExists
+                $langInfo['podfoldery'] = $langFolders
+                $langInfo['config_json'] = $langConfig
+                $stateInfo = [ordered]@{}
+                $stateInfo['uzyty'] = $useState
+                $stateInfo['plikow_w_stanie'] = $previousCount
+                $stateInfo['niezmienione'] = $unchanged
+                $stateInfo['usuniete'] = $removed
+                $inventoryInfo = [ordered]@{}
+                $inventoryInfo['w_tej_czesci'] = $inventoryHere
+                $inventoryInfo['wierszy'] = $inventoryRows
+                $inventoryInfo['ograniczony'] = $inventoryLimited
+                $report = [ordered]@{}
+                $report['format'] = 'lc-zbior-v1'
+                $report['zbieracz'] = $script:Version
+                $report['tryb'] = $Tryb
+                $report['zbior_id'] = $id
+                $report['utworzono_utc'] = $createdUtc
+                $report['czesc'] = $partNumber
+                $report['czesci'] = $partCount
+                $report['gra'] = $gameInfo
+                $report['localize'] = $localizeInfo
+                $report['lang'] = $langInfo
+                $report['stan'] = $stateInfo
+                $report['inwentarz'] = $inventoryInfo
+                $report['wszystkie_czesci'] = $summary
+                $report['pliki'] = $recordsArray
+                $report['pominiete'] = $skippedArray
+                $report['problemy'] = $problemsArray
+                $report['stan_zbioru'] = $state
                 $json = ConvertTo-Json -InputObject $report -Depth 8
                 Add-ZipEntry $zip 'RAPORT.json' ($script:Utf8.GetBytes($json + "`n"))
                 $txt = @(
