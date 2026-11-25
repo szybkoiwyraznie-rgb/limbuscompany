@@ -180,3 +180,43 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   źródła; wygenerowane `czytanki/` nie zmieniają ani jednego znaku.
 - **Ograniczenia:** `StaticData` pochodzi nadal z lustra OpenLethe (`8f24cba5`),
   ponieważ gra nie trzyma `StaticData` jako luźnych JSON-ów w katalogu Steam.
+
+## E-008 · 2026-11-25 · kompletny pakiet dla tłumacza 100% gry (`sceny.zip` + `widoki.zip`, build `26652290`) (fakt z pomiaru)
+
+- **Cel:** rozszerzyć `tools/build_package.py` (z nowym modułem
+  `tools/package_views.py`) tak, aby pakiet dla tłumacza obejmował **100%
+  tekstów do lokalizacji** w całym `index/localize/{kr,en}` (zarówno `StoryData/`,
+  jak i wszystkie 1458 pozostałych plików logicznych), z maksymalnym kontekstem
+  z `index/static-data/`.
+- **Rozpoznanie pól niefabularnych (1458 plików logicznych: 1401 wspólnych,
+  47 tylko w `kr`, 10 tylko w `en`):**
+  - łącznie **103 871** niepustych liści tekstowych podlegających lokalizacji
+    (`103 476` w obu językach, `299` tylko w `kr`, `96` tylko w `en` — m.in.
+    sztandary i bilety z sezonów 5–6 oraz 3 przydomki w `ScenarioModelCodes`);
+  - pola nietłumaczone (identyfikatory, kolory hex, assety, kody klasyfikacji
+    Anomalii `codeName`, warunki techniczne `usage`, wykonawcy `songWriter`,
+    daty `timeline`, puste `undefined = "-"`): potwierdzono **0 różnic** między
+    `kr` a `en` w całym korpusie;
+  - w `BgmLyrics/*` (6 plików z tagami stylu) `kr` używa arkusza czcionki
+    `<style="DKR_…">` / `<style="dkr…">`, natomiast `en` łacińskiego
+    `<style="DEN_…">` / `<style="den…">` — narzędzie podaje w `tokeny:` styl
+    łaciński z `en` wraz z jawną uwagą dla tłumacza.
+- **Grupowanie kontekstowe i deduplikacja:**
+  - złączenie identycznych napisów pomiędzy poziomami ulepszeń 1–4 tej samej
+    umiejętności (`Skills*`) redukuje 28 832 liści do 21 354 elementów (−7478
+    duplikatów ulepszeń) przy zachowaniu pełnej listy adresów JSON w `źródło:`;
+  - powtarzalne pola mówców poza `StoryData/` (`RPGSystem/*.speaker`: 5989
+    wystąpień → 106 unikalnych mówców; `AbDlg_*.teller`: 169 wystąpień → 23
+    unikalnych mówców) trafiają do `mowcy-rpg-i-anomalii.md`, a w dialogach są
+    wyświetlane jako etykieta mówcy;
+  - uzupełniono również 80 liści tylko-EN (`title`, `teller`, `place`) w
+    `StoryData/` w słowniku `mowcy-i-miejsca.md` (1533 pozycje zamiast 1529).
+- **Wynik (`plik_dla_tlumacza_v2.zip`):** 11 449 704 B, SHA-256
+  `9bb4dcad41ffebf64e3fb6547c894b4d17a4608a27afc2901f38d851551a5006`
+  (deterministyczny bit w bit w dwóch niezależnych przebiegach):
+  - `sceny.zip`: 68 plików `.md` (max 7998 linii), 1001 scen, 63 010 elementów,
+    60 362 do przetłumaczenia + 1533 pozycje słownika mówców/miejsc;
+  - `widoki.zip`: 104 pliki `.md` (max 6340 linii, 0 plików w awaryjnym dziale
+    `09_pozostale`), 93 069 elementów, 68 148 unikalnych do przetłumaczenia;
+  - niezależny audyt round-trip adresów `źródło:` + `słownik:` potwierdza
+    pokrycie `103 871 / 103 871` liści JSON (`missing = 0`, `duplicates = 0`).

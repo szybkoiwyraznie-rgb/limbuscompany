@@ -113,12 +113,24 @@ Polecenie właściciela:
 
 Szczegóły: [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md), [CZYTANKI.md](CZYTANKI.md).
 
+### D-08 · 2026-11-25 · Jeden kompletny pakiet dla tłumacza obejmujący 100% gry
+
+Polecenie właściciela (zamyka O-02): pakiet dla tłumacza zawiera **wszystkie
+teksty gry do przetłumaczenia** naraz, nie tylko fabułę — tj. `sceny.zip` (całe
+`StoryData/`) oraz `widoki.zip` (wszystkie pozostałe 1458 plików `Localize`:
+słownik bojowy, karty i kwestie Tożsamości połączone ze statystykami per
+Grzesznik, E.G.O i Dary E.G.O, Anomalie, wydarzenia i wrogowie, komentatorzy,
+piosenki, tryb RPG z Canto X, Notatki Dantego, Teatr, Lochy, UI, samouczki,
+wydarzenia sezonowe i sklep) z maksymalnym zachowaniem kontekstu z danych gry.
+Tłumacz sam wybiera kolejność i tempo pracy, odsyłając dowolne partie plików
+`.md` (zalecany start w `README.md`: słownik bojowy i słowniki mówców).
+
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
 
 | Nr | Pytanie | Kiedy potrzebne | Uwagi |
 |---|---|---|---|
 | O-01 | Nazwa języka w `config.json` / folderu (`Polski`? `PL`?) | przed pierwszą paczką testową | nazwa widoczna w grze; inna niż w istniejącej fanowskiej paczce `Polish`, by mogły współistnieć |
-| O-02 | Kolejność prac: interfejs najpierw czy fabuła (Prologue + Canto I) najpierw | przed pierwszym pakietem | sugestia agenta: mały pakiet UI (test drogi end-to-end), potem fabuła |
+| ~~O-02~~ | ~~Kolejność prac / zakres pierwszego pakietu~~ | — | **zamknięte 2026-11-25: od razu cała gra (`sceny.zip` + `widoki.zip`, 100% tekstów z kontekstem)** → D-08 |
 | O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | przed testem w grze | właściciel: prawdopodobnie tak — **najpierw test bez własnych czcionek**; zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
 | O-04 | Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX) | po lekturze próbek | układ wg D-07; po akceptacji zamrożony |
 | ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |

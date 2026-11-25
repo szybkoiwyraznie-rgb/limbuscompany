@@ -63,7 +63,7 @@ tabeli.
 | Teksty gry → `index/` | `tools/import_data.py` | gotowe; teraz z luster, potem z paczki zbieracza ([INDEX_FORMAT.md](INDEX_FORMAT.md)) |
 | Audyt różnic buildów | `tools/audit_update.py` | planowane |
 | Indeks fabuły (kolejność scen z danych gry) | `tools/story_index.py` (+ `tools/static_data.py`) → `wiedza/indeks_fabuly.json` | gotowe, testy syntetyczne; uruchamiane po nowym rozdziale |
-| Pakiet dla Tłumacza | `tools/build_package.py` | część fabularna: prototyp (lustro), testy syntetyczne; część `widoki` (UI, umiejętności) jeszcze w przygotowaniu ([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
+| Pakiet dla Tłumacza | `tools/build_package.py` (+ `tools/package_views.py`) | gotowe (`sceny.zip` + `widoki.zip` = 100% tekstów gry, testy syntetyczne i bramka pokrycia — [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
 | Import zwrotki | `tools/import_zwrotki.py` | planowane |
 | Paczka `Lang/` | `tools/build_lang.py` | planowane ([LANG_FORMAT.md](LANG_FORMAT.md)) |
 | Kolejność fabuły (heurystyka storylogs, kontrola indeksu) | `tools/story_order.py` → `wiedza/kolejnosc_fabuly.json` | gotowe, testy syntetyczne |
