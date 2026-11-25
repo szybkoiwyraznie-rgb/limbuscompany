@@ -62,11 +62,13 @@ tabeli.
 | Rozpoznanie korpusu | `tools/inspect_localize.py` (czyta `tools/localize.py`) | gotowe, testy syntetyczne |
 | Wyciąg → `index/` | `tools/extract.py` | **planowane** po pierwszej inspekcji |
 | Audyt różnic buildów | `tools/audit_update.py` | planowane |
-| Pakiet dla Tłumacza | `tools/bundle.py` | planowane ([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
+| Indeks fabuły (kolejność scen z danych gry) | `tools/story_index.py` (+ `tools/static_data.py`) → `wiedza/indeks_fabuly.json` | gotowe, testy syntetyczne; uruchamiane po nowym rozdziale |
+| Pakiet dla Tłumacza | `tools/build_package.py` | część fabularna: prototyp (lustro), testy syntetyczne; część `widoki` (UI, umiejętności) jeszcze w przygotowaniu ([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
 | Import zwrotki | `tools/import_zwrotki.py` | planowane |
 | Paczka `Lang/` | `tools/build_lang.py` | planowane ([LANG_FORMAT.md](LANG_FORMAT.md)) |
-| Kolejność fabuły | `tools/story_order.py` → `wiedza/kolejnosc_fabuly.json` | gotowe, testy syntetyczne; uruchamiane ręcznie po nowym rozdziale |
-| Czytanki | `tools/czytanki.py` | planowane ([CZYTANKI.md](CZYTANKI.md)) |
+| Kolejność fabuły (heurystyka storylogs, kontrola indeksu) | `tools/story_order.py` → `wiedza/kolejnosc_fabuly.json` | gotowe, testy syntetyczne |
+| Czytanki fabularne | `tools/build_reading.py` (+ `tools/lcb_text.py`) | prototyp, testy syntetyczne ([CZYTANKI.md](CZYTANKI.md)) |
+| Plik ID (profile Identity) | `tools/build_profiles.py` | prototyp, testy syntetyczne ([CZYTANKI.md](CZYTANKI.md)) |
 
 ## Bramki między etapami
 

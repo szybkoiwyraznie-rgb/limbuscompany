@@ -81,3 +81,52 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   służą do projektu narzędzi, nie jako fakty o wersji gry. Wynik czcionek nie
   mówi, czy gra poprawnie wyrenderuje polskie znaki — to rozstrzygnie test w
   grze.
+
+## E-005 · 2026-11-25 · źródła kontekstu: chronologia, etapy, mówcy, statystyki (test na kopii plików)
+
+- **Wejście (lokalnie, D-06):** lustro TW `LimbusTraditionalMandarin/story-data`
+  commit `f218bbec` (2026-11-19; `kr/ en/ jp/`, 1002 pliki StoryData) oraz
+  `StaticData/static-data` z `LEAGUE-OF-NINE/OpenLethe` commit `8f24cba`
+  (dane 2026-11-12; ~2340 plików JSON, część z BOM, jeden z przecinkiem przed
+  `]`). Build Steam **nieznany**.
+- **Chronologia:** `storytheater-main` (Canto: rozdział → lista scen w
+  kolejności menu gry, węzeł etapu, `Before`/`After`/`Inter`) i
+  `storytheater-other` (Intervalla i opowiadania z `sortingOrder` i warunkiem
+  odblokowania). Do tego `StageChapterText` (Localize: kolejność rozdziałów z
+  datą w świecie gry), `story` (etap → scena bieżącego Canto), `battle-story`
+  i `battle-ab` (sceny w trakcie walki: `enter` → `others` → `exit`),
+  `RPGSystem/EndingRoute*` (trasy Canto X), `storytheater-personality`
+  (historie Identity).
+- **Wynik** (`tools/story_index.py` → `wiedza/indeks_fabuly.json`): 36
+  rozdziałów, 808 scen (667 z Teatru, 5 z etapów, 82 z walk, 54 z reguły nazw),
+  184 historie Identity, 11 bez miejsca (`E000X`–`E003X`, `RPG1`,
+  `S9991B`/`S9992B`). **Kolejność 34 rozdziałów wspólnych ze storylogs (E-004)
+  identyczna**; doszły Canto X i 10. Noc Walpurgii. Canto VII nie ma wpisu w
+  `StageChapterText` — ustawione wyłącznie z warunków odblokowania (przed
+  opowiadaniem odblokowywanym przez Canto VII), zgodnie ze storylogs.
+- **Kontekst sceny:** wiersz StoryData = `content` + opcjonalnie `model`
+  (koreański klucz postaci → `ScenarioModelCodes`: imię), `teller` (imię
+  wyświetlane, np. „???”), `title` (**epitet mówcy**, nie tytuł sceny),
+  `place` (zmiana miejsca; 147 razy liczba zamiast tekstu — pomijane). Tytuły,
+  miejsca i opisy etapów: `StageNode*`; motta rozdziałów:
+  `StoryTheaterMain`. EN↔KR: wiersze parują się po `id` (1 plik z różnicą:
+  `P10511`).
+- **Statystyki Identity:** `personality` (HP + przyrost, szybkość per
+  ulepszenie, poziom obrony, odporności, progi Stagger, grzech, słowa
+  kluczowe), `skill` (moc bazowa, moc i liczba monet, grzech, typ ataku per
+  ulepszenie — kolejne ulepszenia nadpisują tylko zmienione pola),
+  `personality-passive` + `passive` (pasywki i wymagania). Opisy z Localize
+  (`Skills_personality-NN`, `Passives`, `Bufs`/`SkillTag`/`BattleKeywords`
+  dla `[Słów]`, `IntroduceCharacter`, `PersonalityVoiceDlg`).
+- **Prototypy** (testy syntetyczne `tests/test_story_tools.py`):
+  `tools/build_reading.py` (36 Czytanek EN, Prolog + Canto I KR),
+  `tools/build_profiles.py` (12 plików ID), `tools/build_package.py`
+  (`plik_dla_tlumacza_v1.zip`: 1001 scen, 63 010 elementów, 60 362 do
+  przetłumaczenia, 1529 napisów słownika, limit kwestii 340 = 99,9. centyl
+  długości EN; 4 897 791 B, SHA-256 `1a0b02f1…1c39`). Próbki na Dysku
+  właściciela (folder „Limbus Company”): `LCB_PROBKI_2026-11-25.zip`
+  (2 083 386 B, `edd13310…89df`) i `plik_dla_tlumacza_v1.zip`.
+- **Ograniczenia:** dane z luster, nie z paczki właściciela; w Canto X
+  kolejność scen tras wynika z numeracji plików; limit 340 to miara z
+  danych, nie test w grze; nazwy przynależności (`MOLAR`) bez tłumaczenia w
+  danych — pokazywane jako klucz.

@@ -4,39 +4,37 @@ Stan na **2026-11-25**.
 
 ## Gdzie jesteśmy
 
-**Etap 0 — fundamenty gotowe; czekamy na pierwszą paczkę od zbieracza.**
+**Etap 0 gotowy; Czytanki, plik ID i pakiet fabularny działają jako prototypy
+na publicznych lustrach (E-005). Czekamy na paczkę ze zbieracza i uwagi do
+układu.**
 
 - Repozytorium urządzone według wzorców WWM/SRW: zasady (`AGENTS.md`),
   środowisko, lekcje, decyzje, polityka danych, workflow, CI (Ubuntu + Windows).
-- Zbieracz `LCB_ZBIERZ_DANE 1.0.0` gotowy; na Windows CI przechodzi testy
-  integracyjne z prawdziwym PowerShell 5.1 na sztucznej instalacji
-  ([EXPERIMENT_LOG.md](EXPERIMENT_LOG.md), E-002). **Nie był jeszcze uruchomiony
-  na prawdziwej grze.**
-- Walidator zwrotki i inspekcja korpusu gotowe (testy syntetyczne).
-- Na Dysku właściciela utworzono folder „Limbus Company” z zestawem
-  `LCB_ZBIERZ_DANE.zip` (1.0.0, SHA-256 `f12f73d4…656c`).
-- **Przegląd projektów społeczności (E-004):** oryginalne pliki KR/EN/JP są
-  w publicznych lustrach; zrobiona wstępna inspekcja formatu, statystyka
-  znaczników, stabilne adresy po identyfikatorach, kolejność fabuły
-  (`wiedza/kolejnosc_fabuly.json`, 728/922 plików StoryData). Polskie znaki
-  są w czcionkach OFL używanych przez społeczność.
-  [PRIOR_ART.md](PRIOR_ART.md).
+- Zbieracz `LCB_ZBIERZ_DANE 1.0.0` gotowy (testy na Windows CI, E-002); **nie
+  był jeszcze uruchomiony na prawdziwej grze**. Zestaw na Dysku (folder
+  „Limbus Company”).
+- Decyzje z 2026-11-25: źródło przekładu **KR** potwierdzone (D-05), pliki gry i
+  lustra tylko poza repo (D-06), pakiet i Czytanki w układzie SRW (D-07);
+  czcionki — najpierw domyślna czcionka gry (O-03).
+- **Kolejność fabuły z danych gry** (Teatr Opowieści, etapy, walki):
+  `wiedza/indeks_fabuly.json` — 36 rozdziałów, 808 scen + 184 historie
+  Identity; 34 rozdziały zgodne ze storylogs co do kolejności.
+- **Próbki na Dysku:** `LCB_PROBKI_2026-11-25.zip` (36 Czytanek EN, Prolog +
+  Canto I po koreańsku, 12 plików ID) i `plik_dla_tlumacza_v1.zip` (1001 scen,
+  60 362 elementy do przetłumaczenia).
 
 ## Następny krok
 
-1. **Właściciel:** z Dysku (folder „Limbus Company”) pobrać
-   `LCB_ZBIERZ_DANE.zip`, rozpakować poza grą, uruchomić `URUCHOM.bat`,
-   wgrać powstały `LCB_DANE_*.zip` do tego samego folderu. Instrukcja:
-   `CZYTAJ_TO.txt` w zestawie.
-2. **Właściciel (równolegle):** potwierdzić, czy tłumacz czyta po koreańsku
-   (O-05; od tego zależy, czy źródłem pakietów będzie `kr` (D-05), czy `en`)
-   oraz czy agent może pracować na publicznych lustrach plików (O-07).
-3. **Agent:** walidacja + inspekcja (szczególnie parowanie `kr`↔`en`), wpis E-005, uzupełnienie
-   [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md) faktami, pytanie O-06 (publiczne
-   repo a `index/`), projekt `index/` i `tools/extract.py`.
-4. Potem: pakiet próbny 000 (UI) + paczka testowa „Clear all caches” z
-   polskimi znakami → pierwszy test w grze ([ROADMAP.md](ROADMAP.md)).
+1. **Właściciel:** przejrzeć próbki (układ Czytanki, pliku ID, pakietu) i
+   zgłosić uwagi — po akceptacji układ zamrażamy (O-04). Pakiet można już dać
+   tłumaczowi do oceny formy.
+2. **Właściciel:** uruchomić zbieracz (`LCB_ZBIERZ_DANE.zip` z Dysku →
+   `URUCHOM.bat`) i wgrać `LCB_DANE_*.zip` — wtedy budujemy pakiety z Twojego
+   buildu zamiast z lustra.
+3. **Agent:** `widoki.zip` (interfejs, słowa kluczowe, umiejętności pogrupowane
+   po Identity), import zwrotki, paczka testowa `Lang/` z polskimi znakami w
+   domyślnej czcionce.
 
 ## Otwarte decyzje
 
-O-01…O-07 w [DECYZJE.md](DECYZJE.md).
+O-01…O-04 i O-06 w [DECYZJE.md](DECYZJE.md) (O-05 i O-07 zamknięte).

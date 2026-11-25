@@ -23,7 +23,9 @@ diff przeglądaj samodzielnie.
 
 - Kod, testy na danych wymyślonych, dokumentacja, manifesty.
 - **`wiedza/`:** wiedza o strukturze gry bez tekstu gry (nazwy plików,
-  identyfikatory, liczby), np. `kolejnosc_fabuly.json`.
+  identyfikatory, liczby), np. `indeks_fabuly.json`, `kolejnosc_fabuly.json`.
+- Pliki gry i lustra (także StaticData) są analizowane tylko poza repo
+  (`local/`, `/tmp`; D-06); do Git trafiają wyłącznie pochodne identyfikatory.
 - **`index/` (planowane, D-02):** znormalizowany wyciąg tekstów z
   `Localize/kr` (źródło, D-05), `en` (odniesienie) i `jp` z manifestem buildu Steam i SHA-256 plików
   źródłowych. Budowanie Pakietów, paczki `Lang/` i Czytanek czyta tylko stąd.

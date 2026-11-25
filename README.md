@@ -57,7 +57,8 @@ Pakietów, właściciel decyduje i testuje w grze — [docs/WORKFLOW.md](docs/WO
 | [docs/CZYTANKI.md](docs/CZYTANKI.md) | Czytanki |
 | [docs/EXPERIMENT_LOG.md](docs/EXPERIMENT_LOG.md) | dziennik badań z liczbami i hashami |
 | [docs/PRIOR_ART.md](docs/PRIOR_ART.md) | projekty społeczności: lustra plików, narzędzia, co przejmujemy |
-| [wiedza/kolejnosc_fabuly.json](wiedza/kolejnosc_fabuly.json) | kolejność plików fabuły (bez tekstu gry) |
+| [wiedza/indeks_fabuly.json](wiedza/indeks_fabuly.json) | kolejność rozdziałów i scen z danych gry (tylko identyfikatory) |
+| [wiedza/kolejnosc_fabuly.json](wiedza/kolejnosc_fabuly.json) | wcześniejsza kolejność heurystyczna (kontrola) |
 | [docs/ROADMAP.md](docs/ROADMAP.md) | etapy |
 
 ## Dla deweloperów

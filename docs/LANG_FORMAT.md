@@ -25,19 +25,24 @@ w `Lang/`.
 
 ## Czcionki i polskie znaki
 
-- Gra wymaga po jednej czcionce na slot (`Context`, `Title`).
-- Istniejąca polska paczka fanowska zawiera `Font/replacement_map.json`, ale
-  ta mapa przenosi **cyrylicę** do prywatnego obszaru Unicode (PUA): 203
-  znaki, 0 polskich liter. Najpewniej skopiowano ją z narzędzi rosyjskich
-  paczek; polskich znaków nie dotyczy (E-004).
-- Czcionki z paczek PL/IT/FR/RCR — **Mikodacs** (tytuły; autor gluk, SIL
-  OFL 1.1, Reserved Font Name „Mikodacs”) i **Pretendard** (tekst; SIL OFL
-  1.1) — mają komplet `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`. Plan pierwszego testu w grze:
-  oryginalne Mikodacs/Pretendard ze źródeł autorów (nie zmodyfikowane kopie z
-  cudzych paczek), bez żadnej mapy. Zmodyfikowana Mikodacs nie może nosić tej
-  nazwy (warunek OFL).
-- W repo trzymamy tylko czcionki z licencją pozwalającą na redystrybucję, w
-  `assets/fonts/` z plikiem licencji.
+**Plan: najpierw domyślna czcionka gry** (uwaga właściciela, 2026-11-25:
+domyślna czcionka najpewniej ma polskie znaki, więc zewnętrzne czcionki mogą
+być zbędne).
+
+- Za tym przemawiają dane z publicznych paczek: w `config.json` pola
+  `titleFont`/`contextFont` bywają **pustym ciągiem**, a paczka TH ma tylko
+  `lang` (E-004, [PRIOR_ART.md](PRIOR_ART.md)) — mechanizm najpewniej działa
+  bez własnych czcionek.
+- **Pierwszy test w grze:** paczka bez folderu `Font/`, `config.json` z pustymi
+  `titleFont`/`contextFont`, kilka tekstów z `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ` w różnych
+  miejscach (menu, kwestia fabularna, nazwa umiejętności). Jeśli wszystko się
+  wyświetla — zostajemy przy domyślnej czcionce i O-03 się zamyka.
+- **Tylko awaryjnie** (gdyby brakowało znaków albo gra wymagała pliku):
+  czcionki OFL z kompletem polskich liter, sprawdzone w E-004 — Pretendard
+  (tekst) i Mikodacs (tytuły; zmodyfikowana kopia nie może nosić tej nazwy),
+  pobrane od autorów, w `assets/fonts/` z licencją.
+- `Font/replacement_map.json` z istniejącej paczki fanowskiej przenosi
+  cyrylicę do PUA i polskich znaków nie dotyczy — nie jest nam potrzebny.
 
 ## Zasady budowania (planowany `tools/build_lang.py`)
 

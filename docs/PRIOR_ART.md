@@ -53,6 +53,9 @@ z nich nic poza liczbami, nazwami plików i pól.
 | [LimbusTraditionalMandarin/story-data](https://github.com/LimbusTraditionalMandarin/story-data) | `kr/` 2449, `en/` 2406, `jp/` 2464 plików; nazwy z prefiksem `KR_`… jak w grze | commit co aktualizację (ostatni 2026-11-19) | **najlepszy kandydat**: pełny `Localize`, historia commitów = historia wersji gry; z tej historii TW liczy różnice (`update-kor.yml`) |
 | [x1bViolet/Limbus-Localization-Files](https://github.com/x1bViolet/Limbus-Localization-Files) | gałęzie `English`, `Korean`, `Japanese`; ~2406 JSON | 2026-11-19 | układ bez prefiksów |
 | [LocalizeLimbusCompany/LocalizeLimbusCompany](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) `EN/ KR/ JP/` | ~2090/2074/2116 plików | **nieaktualne**: `KR/` zmienione ostatnio 2026-08-06 | na nim zrobiono inspekcję E-004 |
+| [LEAGUE-OF-NINE/OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) `src/OpenLethe.Resources/StaticData/static-data` | **StaticData** gry (~2340 JSON `{"list": […]}`, część z BOM, jeden z przecinkiem na końcu): Teatr Opowieści, etapy, walki, Identity, umiejętności, pasywki, E.G.O | commit danych 2026-11-12 (repo 2026-11-20) | **struktura i liczby** (E-005): kolejność scen, statystyki do plików ID. Repozytorium serwera prywatnego — używamy wyłącznie danych, lokalnie (D-06) |
+| [monthofjune/limbus_data](https://github.com/monthofjune/limbus_data) | przetworzone JSON Identity/umiejętności | 2026-07 | zapasowe źródło statystyk |
+| flaglow/LimbusStaticData, SyxP/ObiterDicta.jl | StaticData | **nieaktualne** (2025-01 / 2024) | nie używać |
 
 ## Projekty tłumaczeń i narzędzia
 
@@ -62,7 +65,7 @@ z nich nic poza liczbami, nazwami plików i pól.
 | [LocalizeLimbusCompany/PRTS](https://github.com/LocalizeLimbusCompany/PRTS) | MIT | własny klon ParaTranz (serwer + baza): ciężka infrastruktura, nie dla nas |
 | [LimbusTraditionalMandarin/storyline](https://github.com/LimbusTraditionalMandarin/storyline) (+ `storyline-template`) | GPL-3 | Python (`uv`), CLI `ptsd`: `update-kor.yml` porównuje `kr/` między commitami lustra (A/M/D, zmiana nazwy = D+A) i wysyła zmiany na ParaTranz z EN/JP jako kontekstem; `processor.py` przywraca przekład po `id`/`key`, potem po tekście oryginału; pomija pola `id`, `model`, `key` i oryginały złożone z samych znaczników. **Najbliższy naszemu przepływowi KR→PL** |
 | [EnderDremurr/rainbus-toolbox](https://github.com/EnderDremurr/rainbus-toolbox) (RU) | GPL-3 | ~70 typowanych schematów plików (`Models/LimbusSerialization`; StoryData = `model/teller/title/place/content`); scalanie nowej wersji po `id` ze szczególnym przypadkiem `levelList`; spacja między znacznikami (`>\s+<`) psuje wyświetlanie |
-| [kimght/LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager) | GPL-3 | instalator wielu tłumaczeń (Tauri/Rust): rejestr `data/localizations.toml` (repo, format, czcionki z MD5); szuka folderu z `StoryData` w ZIP-ie wydania; instaluje do `LimbusCompany_Data/Lang/<id>`. **Możliwy kanał dystrybucji** naszej paczki (etap 8) |
+| [kimght/LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager) | GPL-3 | instalator wielu tłumaczeń (Tauri/Rust): rejestr `data/localizations.toml` (repo, format, czcionki z MD5); szuka folderu z `StoryData` w ZIP-ie wydania; instaluje do `LimbusCompany_Data/Lang/<id>`. Społecznościowy instalator — **niepotrzebny** (paczkę instaluje się rozpakowaniem folderu); najwyżej opcjonalny kanał, gdyby właściciel chciał udostępnić przekład innym |
 | [kazhu233/Limbus-Company-Translation-Merge](https://github.com/kazhu233/Limbus-Company-Translation-Merge) | brak | uzupełnia brakujące `id` z oryginału po aktualizacji gry, „żeby nie było Unknown i zawieszeń” |
 | [SunZheee/LimbusCompany-Bilingual-zh-CN](https://github.com/SunZheee/LimbusCompany-Bilingual-zh-CN) | brak (tekst CC BY-NC-SA) | paczka dwujęzyczna EN+ZH: `StoryFields.json` = 13 wzorców plików fabularnych (StoryData, AbnormalityGuides, StoryTheater*, DanteNote*, Egos, Personalities…) i pola wykluczone (`id`, `codeName`, `abilityID`, `model`, `fileName`, `level`); skrypty PowerShell scal/zweryfikuj. **Wzór dla Czytanek dwujęzycznych** |
 | [x1bViolet/Limbus-Localization-UI](https://github.com/x1bViolet/Limbus-Localization-UI) | MIT | edytor z podglądem dla `Skills`, `Passives`, `EGOgift`, `Bufs`/`BattleKeywords`, `AbnormalityGuides`; własny parser znaczników TMP i słów kluczowych; dokumentacja na GitBook. Może się przydać tłumaczowi do podglądu opisów umiejętności |
@@ -87,7 +90,7 @@ konwertery JSON→CSV, talia Anki.
 | zakres plików fabularnych dla Czytanek (SunZheee) | kod GPL (rainbus, TW, kimght) |
 | kolejność stron fabuły (storylogs) jako dane wejściowe, zweryfikowane regułą nazw | |
 | czcionki OFL, które już mają polskie znaki (decyzja O-03) | |
-| instalator kimght jako kanał wydawania (decyzja na etapie 8) | |
+| Teatr Opowieści i tabele etapów/walk ze StaticData jako źródło chronologii (E-005) | kopie tabel StaticData w repozytorium (OpenLethe bez licencji) |
 
 Projekty właściciela, z których przejęliśmy sposób pracy: WWM i SRW
 ([LESSONS.md](../LESSONS.md)).

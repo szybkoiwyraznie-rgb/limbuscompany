@@ -109,3 +109,11 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
     2026-11-25.) `<…>` łapało dialogi w nawiasach ostrych (3190 tekstów).
     Przy okazji: czytnik zwraca bajty — zawsze przez `load_json`, inaczej
     statystyka po cichu wychodzi zerowa.
+27. **Chronologię bierz z menu gry, nie z heurystyk.** (LCB, 2026-11-25.)
+    Teatr Opowieści (`storytheater-*` w StaticData) podaje kolejność scen,
+    węzeł etapu i moment walki; heurystyka po nazwach plików i dopasowanie do
+    fanowskiej biblioteki były tylko przybliżeniem. Zawsze sprawdź, czy gra
+    sama nie trzyma potrzebnej tabeli.
+28. **Dane gry bywają „luźnym” JSON-em i mają BOM.** (LCB, 2026-11-25.)
+    StaticData: część plików z BOM, jeden z przecinkiem przed `]`. Czytnik
+    toleruje oba przypadki i raportuje pominięte pliki zamiast się wywracać.

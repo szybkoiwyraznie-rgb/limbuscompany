@@ -69,10 +69,42 @@ koreańsku, a angielski to już przekład. Tłumaczenie z angielskiego byłoby
 - Paczka `Lang/` i fallback dla nieprzetłumaczonych tekstów: bez zmian (tekst
   angielski, który gracz w Polsce zrozumie), z wpisem w raporcie pokrycia.
 
-**Warunek:** tłumacz czyta po koreańsku (O-05). Jeśli nie, wracamy do
-schematu z D-03 (źródło EN, KR do wglądu), a właściciel decyduje, czy szukać
-tłumacza KR→PL. Narzędzia piszemy niezależnie od języka źródłowego (parametr
-`--zrodlo kr|en`), więc zmiana nie wymaga przepisywania kodu.
+**Potwierdzone 2026-11-25:** tłumacz czyta po koreańsku (O-05 = tak). Pakiet
+fabularny ma koreański w linii elementu i `EN:` jako odniesienie
+([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)).
+
+### D-06 · 2026-11-25 · Lustra i pliki gry — swobodnie w piaskownicy, nigdy w repozytorium
+
+Odpowiedź właściciela na O-07: wolno pracować na plikach gry i publicznych
+lustrach (TW `story-data`, OpenLethe `StaticData`, także binaria), ale **tylko
+poza repozytorium** (`local/`, `/tmp`). W piaskownicy można je dowolnie
+analizować i przetwarzać.
+
+- Do Git trafiają wyłącznie **narzędzia, testy na danych wymyślonych i
+  pochodne identyfikatory/liczby** (np. `wiedza/indeks_fabuly.json`: numery
+  rozdziałów, węzłów, nazwy plików scen) — bez tekstu gry i bez kopii tabel.
+- OpenLethe nie ma licencji: nie kopiujemy jego plików do repozytorium; służy
+  jako lokalne źródło struktury (Teatr Opowieści, etapy, walki, statystyki).
+- Czytanki i pakiety zbudowane z luster są próbkami do oceny układu; wersje
+  „oficjalne” (pakiety dla tłumacza, `index/`) budujemy z paczki zbieracza
+  właściciela (znany build), gdy przyjdzie. Narzędzia czytają oba źródła tak
+  samo.
+
+### D-07 · 2026-11-25 · Pakiet i Czytanki w układzie SRW, z maksimum kontekstu
+
+Polecenie właściciela:
+
+- **Pakiet dla tłumacza** wzorowany na SRW Y: README + `sceny.zip`, element
+  `N. [Dialog - mówca] źródło` / `limit:` / `tokeny:` / `EN:` / `PL:`, nagłówek
+  sceny z kontekstem (rozdział, etap, miejsce, moment walki, sąsiednie sceny,
+  uczestnicy), spisy rozdziałów i scen, mówcy/miejsca tłumaczone raz.
+- **Czytanka** w „ludzkim” układzie: dokładna chronologia, nazwy Canto i etapów
+  we właściwych miejscach, mówcy jak w SRW (`**Imię:** tekst`), bez
+  identyfikatorów w tekście.
+- **Plik ID** (profile Identity): co naprawdę jest w danej Identity —
+  statystyki, umiejętności, pasywki, opisy i kwestie w czytelnej formie.
+
+Szczegóły: [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md), [CZYTANKI.md](CZYTANKI.md).
 
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
 
@@ -80,8 +112,8 @@ tłumacza KR→PL. Narzędzia piszemy niezależnie od języka źródłowego (par
 |---|---|---|---|
 | O-01 | Nazwa języka w `config.json` / folderu (`Polski`? `PL`?) | przed pierwszą paczką testową | nazwa widoczna w grze; inna niż w istniejącej fanowskiej paczce `Polish`, by mogły współistnieć |
 | O-02 | Kolejność prac: interfejs najpierw czy fabuła (Prologue + Canto I) najpierw | przed pierwszym pakietem | sugestia agenta: mały pakiet UI (test drogi end-to-end), potem fabuła |
-| O-03 | Czcionki: które wolne czcionki z polskimi znakami (Context/Title) | przed testem w grze | licencja OFL; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
-| O-04 | Format Czytanek (HTML, EPUB, DOCX, Markdown) i zakres pierwszej | przed pierwszą Czytanką | w SRW i WWM sprawdził się HTML + DOCX |
-| O-05 | Czy tłumacz czyta po koreańsku — **warunek D-05** | **przed pierwszym pakietem** | jeśli nie: źródło EN (D-03) albo szukanie tłumacza KR→PL |
+| O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | przed testem w grze | właściciel: prawdopodobnie tak — **najpierw test bez własnych czcionek**; zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
+| O-04 | Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX) | po lekturze próbek | układ wg D-07; po akceptacji zamrożony |
+| ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |
 | O-06 | Czy repozytorium ma pozostać publiczne, skoro `index/` zawiera tekst gry | przed pierwszym commitem `index/` | patrz [DATA_POLICY.md](DATA_POLICY.md) |
-| O-07 | Czy wolno pracować na **publicznych lustrach** oryginalnych plików (TW `story-data`, x1bViolet, LLC), zanim przyjdzie paczka ze zbieracza | teraz (przyspiesza etapy 1–2 i Czytanki) | propozycja agenta: tak, ale tylko lokalnie (`local/`) do projektu narzędzi i próbnych Czytanek; `index/` i pakiety dla tłumacza wyłącznie z paczki właściciela (znany build). [PRIOR_ART.md](PRIOR_ART.md) |
+| ~~O-07~~ | ~~Czy wolno pracować na publicznych lustrach~~ | — | **zamknięte 2026-11-25: tak, poza repozytorium** → D-06 |
