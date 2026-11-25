@@ -26,11 +26,26 @@ class LocalizeHelpersTests(unittest.TestCase):
             {"content": "e"},
         ]}
         found = dict(iter_strings(doc))
-        self.assertEqual(found["dataList[id=7].levelList[#0].desc"], "a")
+        self.assertEqual(found["dataList[id=7].levelList[level=1].desc"], "a")
         self.assertEqual(found["dataList[id=x].content"], "c")
         self.assertEqual(found["dataList[id=x#2].content"], "d")
         self.assertEqual(found["dataList[#3].content"], "e")
-        self.assertEqual(field_name("dataList[id=7].levelList[#1].desc"), "desc")
+        self.assertEqual(field_name("dataList[id=7].levelList[level=2].desc"), "desc")
+
+    def test_natural_identifiers_keep_addresses_stable_when_rows_are_inserted(self):
+        before = {"list": [
+            {"abilityID": 11, "simpleDesc": "p"},
+            {"key": "AskToMove", "text": "q"},
+            {"level": 3, "coinlist": [{"coindescs": [{"desc": "r"}]}]},
+        ]}
+        after = {"list": [{"abilityID": 10, "simpleDesc": "new"}] + before["list"]}
+        old, new = dict(iter_strings(before)), dict(iter_strings(after))
+        for address in ("list[abilityID=11].simpleDesc", "list[key=AskToMove].text",
+                        "list[level=3].coinlist[#0].coindescs[#0].desc"):
+            with self.subTest(address=address):
+                self.assertEqual(old[address], new[address])
+        # "id" wins over the other identifiers when an item has several.
+        self.assertIn("x[id=5].name", dict(iter_strings({"x": [{"id": 5, "level": 1, "name": "n"}]})))
 
     def test_snapshot_reads_zip_and_directory_identically(self):
         with tempfile.TemporaryDirectory() as tmp:

@@ -49,12 +49,26 @@ def _id_label(value: object) -> str | None:
     return None
 
 
+IDENTIFIER_FIELDS = ("id", "key", "level", "abilityID")
+
+
+def _identifier(item: dict) -> tuple[str, str] | None:
+    for name in IDENTIFIER_FIELDS:
+        label = _id_label(item.get(name))
+        if label is not None:
+            return name, label
+    return None
+
+
 def iter_strings(node: object, path: str = "") -> Iterator[tuple[str, str]]:
     """Yield ``(address, text)`` for every string leaf of a JSON value.
 
     Dict members become ``.key``; list items that are objects with a scalar
-    ``id`` become ``[id=X]`` (repeated ids get ``#2``, ``#3``...), other items
-    ``[#i]``. ``id`` values themselves are yielded too, under ``.id``; callers
+    identifier become ``[field=X]`` using the first of ``IDENTIFIER_FIELDS``
+    present (``id``, then ``key``, ``level``, ``abilityID``; repeats get
+    ``#2``, ``#3``...), other items ``[#i]``. Positional ``[#i]`` addresses
+    shift when the game inserts rows (seen by other translation teams), so
+    they are the last resort. ``id`` values themselves are yielded too, under ``.id``; callers
     decide which fields are translatable.
     """
     if isinstance(node, str):
@@ -65,12 +79,13 @@ def iter_strings(node: object, path: str = "") -> Iterator[tuple[str, str]]:
     elif isinstance(node, list):
         seen: dict[str, int] = {}
         for index, item in enumerate(node):
-            label = _id_label(item.get("id")) if isinstance(item, dict) else None
-            if label is None:
+            ident = _identifier(item) if isinstance(item, dict) else None
+            if ident is None:
                 step = f"[#{index}]"
             else:
+                label = f"{ident[0]}={ident[1]}"
                 seen[label] = seen.get(label, 0) + 1
-                step = f"[id={label}]" if seen[label] == 1 else f"[id={label}#{seen[label]}]"
+                step = f"[{label}]" if seen[label] == 1 else f"[{label}#{seen[label]}]"
             yield from iter_strings(item, path + step)
 
 

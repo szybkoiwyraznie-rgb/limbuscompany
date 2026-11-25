@@ -28,7 +28,7 @@ from tools.localize import Snapshot, field_name, iter_strings, load_json
 ROOT = Path(__file__).resolve().parent.parent
 WORD = re.compile(r"\w+", re.UNICODE)
 STORY_DIR = "StoryData"
-DUPLICATE_ID = re.compile(r"\[id=[^\]]*#\d+\]")
+DUPLICATE_ID = re.compile(r"\[\w+=[^\]]*#\d+\]")
 
 
 def shape(value: object) -> str:
