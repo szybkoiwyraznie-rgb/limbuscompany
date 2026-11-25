@@ -390,6 +390,6 @@ try {
     $result = @(Main)
     exit ([int] $result[-1])
 } catch {
-    Write-Host ('BLAD: ' + $_.Exception.Message)
+    Write-Host ('BLAD: ' + $_.Exception.Message + ' (linia ' + $_.InvocationInfo.ScriptLineNumber + ': ' + $_.InvocationInfo.Line.Trim() + ')')
     exit 1
 }
