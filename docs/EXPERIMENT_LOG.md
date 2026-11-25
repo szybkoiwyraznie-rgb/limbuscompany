@@ -33,3 +33,14 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   brak języka → kod 2 i stan `partial`, wykrycie gry przez bibliotekę Steam
   i `appmanifest_1973530.acf`, kolejne uruchomienia bez nadpisania.
 - Ograniczenie: nie uruchomiono na prawdziwej grze ani u właściciela.
+
+## E-003 · 2026-11-25 · dostarczenie zestawu przez Dysk (test na kopii)
+
+- `python tools/build_collector_kit.py` → `LCB_ZBIERZ_DANE.zip`, 29 652 B,
+  SHA-256 `f12f73d4d4d5496ecca9518cff7b1589ff6a25319443402f299d8b7a4426656c`,
+  członkowie: `CZYTAJ_TO.txt`, `URUCHOM.bat`, `zbierz.ps1`.
+- Utworzono folder Dysku „Limbus Company” i wgrano zestaw konektorem; Dysk
+  zwraca ten sam rozmiar i `sha256Checksum` — bajty nienaruszone. (W WWM
+  konektor odrzucał ZIP z `.ps1`; tutaj nie.)
+- Ograniczenie: nie sprawdzono, czy Windows/przeglądarka u właściciela nie
+  zablokuje pobranego ZIP-a; BAT i tak zdejmuje znacznik pobrania z `*.ps1`.

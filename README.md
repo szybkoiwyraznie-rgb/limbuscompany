@@ -11,10 +11,12 @@ modyfikuje plików gry, a odinstalowanie to usunięcie folderu.
 
 ## Dla właściciela — co zrobić teraz
 
-1. Na GitHubie: **Code → Download ZIP**, rozpakuj na Pulpicie.
+1. Z Dysku Google (folder „Limbus Company”) pobierz `LCB_ZBIERZ_DANE.zip` i
+   rozpakuj na Pulpicie (zapasowo: tu na GitHubie **Code → Download ZIP**,
+   folder `collector/`).
 2. Jeśli gra była właśnie aktualizowana: uruchom ją raz, poczekaj na
    pobieranie danych, zamknij.
-3. Kliknij dwa razy `collector/URUCHOM.bat`. Na Pulpicie powstanie
+3. Kliknij dwa razy `URUCHOM.bat`. Na Pulpicie powstanie
    `LCB_DANE_<data>_<id>.zip`.
 4. Wgraj ten ZIP na Dysk Google (folder „Limbus Company”) i daj znać.
 

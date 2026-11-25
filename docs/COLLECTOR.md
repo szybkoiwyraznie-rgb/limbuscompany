@@ -14,12 +14,13 @@ administratora. Wzorzec: zbieracz WWM ([LESSONS.md](../LESSONS.md), lekcje 14–
 
 ## Jak właściciel dostaje zestaw
 
-Najprościej: na GitHubie **Code → Download ZIP** (z gałęzi z PR lub `main`),
-rozpakować i uruchomić `collector/URUCHOM.bat`. `.gitattributes` gwarantuje
-właściwe bajty (CRLF, BOM) także w takim ZIP-ie. Alternatywnie agent buduje
-`artifacts/LCB_ZBIERZ_DANE.zip` (`python tools/build_collector_kit.py`) i
-przekazuje go — ale konektor Dysku w WWM odrzucał ZIP-y z plikiem `.ps1`, więc
-ta droga może nie działać.
+Najprościej: z Dysku, folder **„Limbus Company” → `LCB_ZBIERZ_DANE.zip`**.
+Agent buduje go `python tools/build_collector_kit.py` i wgrywa konektorem Dysku;
+2026-11-25 wgranie się udało, a SHA-256 na Dysku zgadzał się z buildem
+(E-003). Po zmianie zbieracza agent wgrywa nową wersję i podaje jej SHA-256.
+
+Zapasowo: na GitHubie **Code → Download ZIP** i `collector/URUCHOM.bat`;
+`.gitattributes` gwarantuje właściwe bajty (CRLF, BOM) także w takim ZIP-ie.
 
 ## Co robi
 

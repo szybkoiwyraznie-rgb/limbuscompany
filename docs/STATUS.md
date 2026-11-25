@@ -13,13 +13,15 @@ Stan na **2026-11-25**.
   ([EXPERIMENT_LOG.md](EXPERIMENT_LOG.md), E-002). **Nie był jeszcze uruchomiony
   na prawdziwej grze.**
 - Walidator zwrotki i inspekcja korpusu gotowe (testy syntetyczne).
-- Na Dysku właściciela brak plików Limbus (wyszukiwanie 2026-11-25: 0 wyników).
+- Na Dysku właściciela utworzono folder „Limbus Company” z zestawem
+  `LCB_ZBIERZ_DANE.zip` (1.0.0, SHA-256 `f12f73d4…656c`).
 
 ## Następny krok
 
-1. **Właściciel:** pobrać repozytorium (Code → Download ZIP), uruchomić
-   `collector/URUCHOM.bat`, wgrać `LCB_DANE_*.zip` na Dysk (folder
-   „Limbus Company”). Instrukcja: `collector/CZYTAJ_TO.txt`.
+1. **Właściciel:** z Dysku (folder „Limbus Company”) pobrać
+   `LCB_ZBIERZ_DANE.zip`, rozpakować poza grą, uruchomić `URUCHOM.bat`,
+   wgrać powstały `LCB_DANE_*.zip` do tego samego folderu. Instrukcja:
+   `CZYTAJ_TO.txt` w zestawie.
 2. **Agent:** walidacja + inspekcja, wpis E-003, uzupełnienie
    [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md) faktami, pytanie O-06 (publiczne
    repo a `index/`), projekt `index/` i `tools/extract.py`.

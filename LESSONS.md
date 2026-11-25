@@ -64,9 +64,10 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
 16. **Ścieżki z polskimi znakami, spacjami i nawiasami są normą.** (WWM.)
     Testy integracyjne zbieracza używają takich ścieżek celowo.
 17. **Kanał zwrotny: Dysk Google.** (WWM.) Zbieracz zapisuje ZIP na Pulpicie;
-    właściciel wrzuca go na Dysk. Uwaga: konektor Dysku w WWM odrzucał ZIP
-    zawierający `.ps1` — dlatego zestaw zbieracza najlepiej pobierać z GitHuba
-    („Code → Download ZIP”), a nie przez Dysk.
+    właściciel wrzuca go na Dysk. W WWM konektor Dysku odrzucał ZIP z `.ps1`;
+    w LCB (2026-11-25) wgranie zestawu się udało, z zgodnym SHA-256 (E-003).
+    Zawsze sprawdzaj `sha256Checksum` po wgraniu; zapasowo — „Code → Download
+    ZIP” z GitHuba.
 
 ## Pakiety dla Tłumacza
 
