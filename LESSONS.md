@@ -9,9 +9,16 @@ Wnioski przeniesione z WWM/SRW są oznaczone źródłem.
   zastępują pusha. (WWM, SRW)
 - **Nie zgłaszaj działania w grze bez zgłoszenia właściciela.** Testy
   syntetyczne i CI to dowody innego rodzaju — nazywaj je wprost. (WWM)
-- **Nie pytaj o rzeczy rozstrzygnięte w `docs/CEL.md`** ani o tematy, które
-  właściciel wyłączył z projektu (np. AI — „nie jest tematem tego projektu”). Otwarte pytania zbieraj
-  w jednym miejscu i zadawaj razem. (SRW)
+- **Nie pytaj o rzeczy rozstrzygnięte w `docs/CEL.md`** ani o tematy
+  wyłączone przez właściciela (np. AI — „nie jest tematem tego projektu”).
+  Otwarte pytania zbieraj w jednym miejscu i zadawaj razem. (SRW)
+- **Najpierw sprawdź, jak to rozwiązali inni** (decyzja właściciela): reguły
+  tokenów, klucze, zapas EN i kontrole są już opisane w
+  [docs/METODA.md](docs/METODA.md). Repozytoria bez licencji — tylko reguły,
+  kod od nowa. Analiza: sklonuj płytko do `/tmp`, czytaj README/config/
+  skrypty, zapisz wnioski od razu (klony znikają).
+- **`<…>` w tekście gry to nie zawsze tag.** Ogólny wzorzec `<[^>]+>`
+  psuje dialogi (nawiasy jako cudzysłów) — tylko zamknięta lista nazw.
 - **Dostawa na Dysk = rozmiar + SHA-256 + pobranie z powrotem.** Dysk raz
   zablokował ZIP zbieracza; plan awaryjny: archiwum repozytorium z GitHub. (WWM)
 - **Agent nie tłumaczy**; korekty techniczne zawsze jawne. Patch = 100%

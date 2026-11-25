@@ -99,5 +99,8 @@ patcherze.** Limbus ma oficjalny mechanizm tłumaczeń (Custom Language Support,
   wskazywać aktualny stan i następny krok.
 - Dostawy na Dysk: rozmiar, SHA-256, pobranie z powrotem i porównanie bajtów.
 - Wnioski, które przydadzą się kolejnym sesjom, dopisz do `LESSONS.md`.
-- Nie uruchamiaj automatycznej publikacji wydań, dopóki proces wydania nie
-  zostanie zaprojektowany i sprawdzony ([docs/ROADMAP.md](docs/ROADMAP.md)).
+- **Bez wydań** (decyzja właściciela): żadnych GitHub Releases ani workflowów
+  publikacji. Pakiety patcha idą na Dysk (folder „Limbus Company”) z sumami
+  SHA-256 i sprawdzeniem pobrania.
+- Zanim coś zaprojektujesz, sprawdź [docs/METODA.md](docs/METODA.md) — metody
+  i indeksy przejęte z innych projektów tłumaczeń Limbus (decyzja właściciela).

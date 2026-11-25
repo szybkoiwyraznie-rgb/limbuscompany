@@ -77,6 +77,11 @@ class RozpoznanieTests(unittest.TestCase):
         for fragment in ("Lorem", "가나다", "あいう", "cios", "moneta"):
             self.assertNotIn(fragment, dump)
 
+    def test_token_inventory_per_language(self):
+        self.assertEqual(sorted(self.raport["tokeny"]), ["en", "jp", "kr"])
+        for spis in self.raport["tokeny"].values():
+            self.assertIn("kandydaci_na_nowe_tagi", spis)
+
     def test_cli_on_collector_zip_writes_json_and_markdown(self):
         with tempfile.TemporaryDirectory() as tmp:
             archive = Path(tmp) / "LC_DANE_x.zip"

@@ -33,7 +33,8 @@ format tłumaczeń (CLS) i niewielkie pliki tekstowe JSON.
 ## Zasady przekazywania
 
 - **Na Dysk** (folder „Limbus Company”): zestawy BAT (zbieracz, instalator),
-  zwroty zbieracza od właściciela, ZIP-y Pakietów dla Tłumacza. Każda dostawa:
+  zwroty zbieracza od właściciela, ZIP-y Pakietów dla Tłumacza i **pakiety
+  patcha** (deterministyczny ZIP + `SUMY.sha256`). Bez GitHub Releases. Każda dostawa:
   rozmiar + SHA-256, pobranie z powrotem i porównanie bajtów.
 - **W Git**: wyciąg, indeksy, Czytanki, pakiety (rozpakowane), zwrotki i
   przekład — bez binariów i surowych plików gry ([DATA_POLICY.md](DATA_POLICY.md)).
@@ -48,13 +49,16 @@ Limbus aktualizuje się zwykle w czwartki. Po aktualizacji:
 2. Agent: walidacja, diff względem poprzedniego wyciągu na poziomie jednostek
    (nowe / zmienione źródło / usunięte), wpis w `EXPERIMENT_LOG.md`.
 3. Jednostki ze zmienionym źródłem tracą status „przetłumaczone” (klucz zawiera
-   hash źródła) i trafiają do kolejnego pakietu. Patch zawsze budowany dla
+   hash źródła KR) i trafiają do kolejnego pakietu; do tego czasu w grze widać
+   tekst EN. Identyczny tekst KR → propozycja z pamięci tłumaczeniowej
+   ([METODA.md](METODA.md), punkt 6). Patch zawsze budowany dla
    konkretnego `buildid`; niezgodność → ostrzeżenie w instalatorze.
 4. Nowy rozdział/wydarzenie → osobny pakiet; Czytanki dostają nową część.
 
 ## Kontrola jakości przekładu (techniczna, nie językowa)
 
-Agent sprawdza i raportuje — nie poprawia treści:
+Agent sprawdza i raportuje — nie poprawia treści. Pełna lista i reguły
+tokenów: [METODA.md](METODA.md), punkty 4 i 8.
 
 - zgodność tokenów: znaczniki `<color=…>`, `<sprite…>`, `<link…>`, `{0}`, `\n`;
 - puste/nieprzetłumaczone pozycje, pozostałe w PL znaki hangul/kana;

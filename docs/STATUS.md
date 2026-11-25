@@ -3,7 +3,28 @@
 Najnowszy wpis na górze. Każdy wpis: data, co jest gotowe, co sprawdzono (jak),
 czego **nie** sprawdzono, następny krok.
 
-## Najnowsze — 2026-11-25: fundamenty repozytorium i zbieracz 1.0.0
+## Najnowsze — 2026-11-25: analiza innych projektów Limbus, decyzje (zapas EN, bez wydań)
+
+**Gotowe:**
+
+- Decyzje właściciela w [CEL.md](CEL.md): zapas **EN** dla nieprzetłumaczonych
+  pozycji; **bez wydań** — pakiety patcha na Dysk; przejmujemy metody i indeksy
+  innych projektów. Otwarte zostaje tylko pytanie o font.
+- Przegląd 14 repozytoriów tłumaczeń/narzędzi Limbus ([PRIOR_ART.md](PRIOR_ART.md))
+  i spis tego, co przejmujemy ([METODA.md](METODA.md)): klucze
+  `zakres/plik#id~n#ścieżka`, biała lista pól (kryterium: Hangul w KR),
+  zamknięta lista tagów i reguły nawiasów, budowa patcha na bazie EN z kompletem
+  plików, mówcy z `ScenarioModelCodes`, stany jednostek i pamięć
+  tłumaczeniowa, kontrole, indeksy (postacie, słowa kluczowe, rozdziały).
+- `tools/lc_tokeny.py` (rozpoznawanie i kontrola tokenów) + testy; raport
+  `rozpoznanie_localize.py` ma teraz spis tokenów per język (bez treści).
+
+**Sprawdzone:** testy syntetyczne (Linux lokalnie, CI). **Niesprawdzone:** reguły
+tokenów na prawdziwych danych KR — sprawdzi je pierwsze rozpoznanie
+(`tokeny.kandydaci_na_nowe_tagi`).
+**Następny krok:** jak niżej — zbiór `LC_DANE_*.zip` od właściciela.
+
+## 2026-11-25: fundamenty repozytorium i zbieracz 1.0.0
 
 **Gotowe (w PR #2, gałąź sesji):**
 

@@ -13,7 +13,8 @@ polskiego) ani zasobów.
   i wykorzystanie występów aktorów głosowych przez AI. Zgłoszenia miały ruszyć
   od 2025-10-13; według społeczności aktualizacja się opóźniła i obowiązują
   stare zasady. Tłumaczenia przez CLS są przez społeczność uznawane za
-  dozwolone. **Do ponownego sprawdzenia przed publicznym wydaniem.**
+  dozwolone. Wydań na GitHub nie robimy (patch idzie na Dysk), ale zasady warto
+  sprawdzić ponownie, gdy zostaną zaktualizowane.
 
 ## Polskie tłumaczenie fanowskie (istniejące)
 
@@ -25,26 +26,32 @@ polskiego) ani zasobów.
 - **Decyzja właściciela (2026-11-25): ignorujemy.** Projekt jest niezależny —
   bez kontaktu, bez porównywania i bez korzystania z jego tekstu.
 
-## Inne społeczności (format CLS)
+## Inne projekty tłumaczeń Limbus Company (przegląd 2026-11-25)
 
-| Projekt | Wnioski |
-|---|---|
-| FR — Eden-Office/LimbusCompanyBusFR (GitHub) | Pełna struktura `Lang/fr/` (~2430 plików), `config.json`, katalogi `StoryData`, `PersonalityVoiceDlg`, `RPGSystem`, `BattleAnnouncerDlg`, `BgmLyrics`, `EGOVoiceDig`, `Font/`. Źródło liczb w CLS_FORMAT. |
-| PT-BR — CLT District | Launcher/instalator; FAQ z ograniczeniami CLS (jeden font, teksty na sprite'ach, tylko PC). |
-| ES — Dreams-Office | Paczka CLS, aktualizowana po każdej łatce. |
-| RU — Crescent-Corporation; kimght/LimbusCompanyRuMTL | Ręczny przekład vs. maszynowy (MTL) — przykład, jak społeczność odróżnia oba. |
-| zh-CN — LLC_zh-CN („都市零协会”) | Największa paczka; konwencje: `model` bez tłumaczenia, imiona przez `ScenarioModelCodes-AutoCreated.json`. |
-| WhenThe1 (dialogi bitewne) | Pliki `BattleSpeechBubbleDlg*`. |
+Właściciel zdecydował (2026-11-25), że przejmujemy ich metody i indeksy. Co
+dokładnie przejmujemy i jak dostosowujemy do źródła KR:
+**[METODA.md](METODA.md)**. Kodu z repozytoriów bez licencji nie kopiujemy,
+tylko implementujemy reguły od nowa. Tekstów przekładów nie kopiujemy z żadnego
+repozytorium.
 
-## Narzędzia społeczności (pomysły do przejęcia)
-
-- **Cynanchum0109/AutoLocalization** — automatyczne łączenie zmian po
-  aktualizacjach; potwierdza: `model` = identyfikator zasobu, duplikaty `id`
-  (`-1` dla dźwięków), potrzeba kluczy z numerem wystąpienia (`#-1~2`).
-- **Noplch0/limbus-ai-localization** — **biała lista tłumaczonych pól**
-  (`translatable_keys.json`): tłumaczone są tylko pola z listy, reszta JSON
-  bez zmian. Przejmujemy ideę białej listy pól.
-- **Ian1254/LCPatch-Localization-Builder** — budowanie paczki z różnic.
+| Projekt (GitHub) | Licencja | Co z niego bierzemy |
+|---|---|---|
+| `LocalizeLimbusCompany/LocalizeLimbusCompany` (zh-CN, „都市零协会”, ~1200★) | własna (CC BY-NC-SA 4.0 w README) | Skala i rodziny plików (pełne drzewa `KR/EN/JP` w repo). Praca w Paratranz, synchronizacja `LLC_Release`, instalator `LLC_MOD_Toolbox`. |
+| `LocalizeLimbusCompany/LLC_Wiki` | MIT | Wytyczne: wypełniacze `{0}` przestawiane według gramatyki; nazwa statusu + spacja = automatyczny link do `BattleKeywords`; stałe formuły opisów umiejętności; archiwum decyzji o nazwach; karty stylu wypowiedzi postaci. Wzór dla `tlumaczenie/` (glosariusz, styl). |
+| `Cynanchum0109/AutoLocalization` | brak | Schemat kluczy `zakres/plik#id~n#ścieżka`, biała lista pól, zamknięta lista tagów, reguły nawiasów, stany jednostek, pamięć tłumaczeniowa, kontrole `check.py`. Instalator BAT+PS1 podobny do naszego zbieracza. |
+| `Crescent-Corporation/LimbusCompanyBusRUS` (RU) | brak | Budowanie z **zapasem EN** dla brakujących plików i wpisów; StoryData łączone według kolejności, reszta według `id`; reguły fontu per pole; skrót słów kluczowych (nie przejmujemy). |
+| `kazhu233/Limbus-Company-Translation-Merge` | brak | Potwierdzenie: po aktualizacji brakujące pliki lub wpisy dają „Unknown” albo zawieszenie, więc patch musi być kompletny. |
+| `Ian1254/LCPatch-Localization-Builder` | brak | Mówcy z `ScenarioModelCodes-AutoCreated.json` według `model`; `merge-report.json` + `checksums.sha256`; odrzucanie niebezpiecznych ścieżek i złego JSON. |
+| `Noplch0/limbus-ai-localization` | brak | Biała lista pól (`translatable_keys.json`); własny folder w `Lang/`; wykrywanie Steam z `libraryfolders.vdf`. |
+| `HKStudio011/trans-limbus` (VI) | brak | Kontrola wyrównania rekordów i `id` względem EN/KR oraz liczby `[]<>{}` i `\n`; kodowanie zapisu jak w źródle; własne fonty w `Font/`. |
+| `kermond369-nsis/Limbus-glyph-zero-pack` | MIT | Fail-fast pokrycia znaków przez font (`safe_charset`); deterministyczny ZIP + SHA-256. |
+| `Eden-Office/LimbusCompanyBusFR` (FR) | brak | Pełna struktura `Lang/fr/` (~2430 plików), `config.json` (`samplingPointSize` 78, `padding` 8), własne `.ttf` w `Font/`. Źródło liczb w CLS_FORMAT. |
+| `Dreams-Office/LimbusCompanySpanishTranslationTeam` (ES) | MIT | Paczka CLS aktualizowana po łatkach; tłumaczone sprite'y opisane osobno. |
+| PT-BR — CLT District, Uniao | — | FAQ ograniczeń CLS: jeden font, teksty na sprite'ach, tylko PC. |
+| `kimght/LimbusLocalizationManager` | GPL-3.0 | Katalog 14 tłumaczeń społeczności (`data/localizations.toml`). Instalatora nie przejmujemy. |
+| `x1bViolet/Limbus-Localization-UI` | MIT | Edytor z podglądem `Skills`/`Passives`/`EGOgift`/`Bufs`/`BattleKeywords`: wskazówka, które pliki mają bogate formatowanie. |
+| `EnderDremurr/rainbus-toolbox` | GPL-3.0 | Tylko informacyjnie. |
+| kimght/LimbusCompanyRuMTL, WhenThe1 | — | Rozróżnienie przekład ręczny / maszynowy; `BattleSpeechBubbleDlg*`. |
 
 ## Własne projekty właściciela (źródło sposobu pracy)
 
@@ -55,7 +62,7 @@ polskiego) ani zasobów.
 
 ## Do sprawdzenia (gdy będzie potrzebne)
 
-- Jak inne paczki rozwiązują font z polskimi/łacińskimi znakami
-  diakrytycznymi (FR/ES mają podobne potrzeby) i jakie wartości
-  `samplingPointSize`/`padding` stosują.
-- Jak PT-BR i ES radzą sobie z cotygodniowymi aktualizacjami (diff, narzędzia).
+- Font: test w grze z wartościami z paczki FR (`samplingPointSize` 78,
+  `padding` 8) — [METODA.md](METODA.md), punkt 9.
+- Czy automatyczne linki słów kluczowych (nazwa + spacja) działają w CLS dla
+  polskich nazw — test pilotażowy.

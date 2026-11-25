@@ -24,6 +24,7 @@ if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from tools import lc_localize as lc  # noqa: E402
+from tools import lc_tokeny  # noqa: E402
 from tools.validate_collector_return import validate  # noqa: E402
 
 
@@ -39,6 +40,7 @@ def analizuj(zbior: lc.ZbiorLokalizacji) -> dict[str, object]:
     wzorce: Counter = Counter()
     pliki_raport = []
     bledne: Counter = Counter()
+    spisy = {j: lc_tokeny.Spis() for j in jezyki}
 
     for jezyk in jezyki:
         pliki = zbior.pliki[jezyk]
@@ -67,6 +69,7 @@ def analizuj(zbior: lc.ZbiorLokalizacji) -> dict[str, object]:
             hangul = 0
             for wzorzec, wartosc in lc.liscie_tekstowe(obiekt):
                 pola[wzorzec] += 1
+                spisy[jezyk].dodaj(wartosc)
                 if wartosc.strip():
                     niepuste += 1
                     znaki += len(wartosc)
@@ -114,6 +117,8 @@ def analizuj(zbior: lc.ZbiorLokalizacji) -> dict[str, object]:
         "katalogi": dict(sorted(katalogi.items())),
         "rodziny_nazw": dict(sorted(wzorce.items(), key=lambda kv: (-kv[1], kv[0]))),
         "pola": {k: dict(v) for k, v in sorted(pola_razem.items(), key=lambda kv: (-kv[1]["wystapien"], kv[0]))},
+        # Spis tokenów (nazwy i liczby, bez treści) — weryfikuje zamkniętą listę tagów z lc_tokeny.
+        "tokeny": {j: spisy[j].jako_dict() for j in jezyki},
         "pliki": pliki_raport,
     }
 
@@ -139,6 +144,12 @@ def podsumowanie_md(raport: dict[str, object], opis: dict[str, object]) -> str:
     linie += ["", "## Najczęstsze pola z napisami (wzorce)", "", "| pole | plików | wystąpień |", "|---|---:|---:|"]
     for pole, dane in list(raport["pola"].items())[:40]:
         linie.append(f"| `{pole}` | {dane['plikow']} | {dane['wystapien']} |")
+    linie += ["", "## Tokeny formatowania", "", "| język | znane tagi | kandydaci na nowe tagi | wypełniacze | `[Słowo]` | `\\n` |", "|---|---|---|---:|---:|---:|"]
+    for jezyk, spis in raport.get("tokeny", {}).items():
+        znane = ", ".join(f"{k}×{v}" for k, v in spis["tagi_znane"].items()) or "—"
+        nowe = ", ".join(f"{k}×{v}" for k, v in spis["kandydaci_na_nowe_tagi"].items()) or "—"
+        linie.append(f"| {jezyk} | {znane} | {nowe} | {sum(spis['wypelniacze'].values())} | "
+                     f"{spis['slowa_kluczowe_w_nawiasach']} | {spis['nowe_linie']} |")
     linie += ["", "## Rodziny nazw plików (top 40)", "", "| wzorzec | plików |", "|---|---:|"]
     for wzorzec, liczba in list(raport["rodziny_nazw"].items())[:40]:
         linie.append(f"| `{wzorzec}` | {liczba} |")

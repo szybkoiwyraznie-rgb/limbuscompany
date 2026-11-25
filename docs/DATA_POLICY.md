@@ -22,7 +22,7 @@ repozytorium.** W polityce: `repozytorium_publiczne: true`,
 | Zwrotki Tłumacza (`zwrotki/`), przekład (`tlumaczenie/`), glosariusz, korekty | Git |
 | Surowe pliki lokalizacji (`KR_/EN_/JP_*.json`), katalogi `LimbusCompany_Data/`, `Resources_moved/`, `Localize/` | **poza Git**: `local/` + Dysk |
 | ZIP-y zbieracza `LC_DANE_*.zip` | **poza Git**: Dysk (folder „Limbus Company”) + `local/zwroty/` |
-| Zbudowane ZIP-y (zbieracz, patch CLS, instalator) | **poza Git**: `dist/` → Dysk |
+| Zbudowane ZIP-y (zbieracz, patch CLS, instalator) | **poza Git**: `dist/` → Dysk (bez GitHub Releases — decyzja 2026-11-25) |
 | Binaria Unity, archiwa, pliki wykonywalne, fonty spoza `assets/fonts/` | **nigdy** w Git |
 
 Wyciąg to tekst w formacie projektu, a nie kopia plików gry: patch CLS jest

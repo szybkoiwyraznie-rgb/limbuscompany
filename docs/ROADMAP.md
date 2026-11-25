@@ -14,7 +14,11 @@ gra). Szczegóły etapów: [WORKFLOW.md](WORKFLOW.md).
 - [ ] Uzupełnienie [CLS_FORMAT.md](CLS_FORMAT.md) faktami (liczby, pola, tokeny).
 - [ ] `config/pola_tlumaczone.json` — biała lista pól tekstowych.
 - [x] Decyzje: źródło KR, publiczne repo z tekstami jak WWM/SRW, niezależnie od
-      istniejącego PL (2026-11-25). Otwarte: język zapasowy, wydawanie, font.
+      istniejącego PL; zapas EN; bez wydań — patch na Dysk; metody i indeksy z
+      innych projektów Limbus ([METODA.md](METODA.md)) (2026-11-25). Otwarte: font.
+- [x] Moduł tokenów `tools/lc_tokeny.py` + spis tokenów w rozpoznaniu.
+- [ ] Indeksy z danych: postacie (`ScenarioModelCodes`), słowa kluczowe
+      (`BattleKeywords`/`Bufs`), rozdziały ([METODA.md](METODA.md), punkt 7).
 
 ## Faza 2 — test CLS w grze (dowód mechanizmu)
 
@@ -39,11 +43,12 @@ gra). Szczegóły etapów: [WORKFLOW.md](WORKFLOW.md).
 - [ ] Cotygodniowy cykl aktualizacji: diff jednostek, pakiety przyrostowe.
 - [ ] Czytanki PL.
 
-## Faza 5 — wydanie (tylko po decyzji właściciela)
+## Faza 5 — dostawa patcha na Dysk (bez wydań)
 
 - [ ] Font z licencją pozwalającą na redystrybucję w `assets/fonts/` + licencja.
-- [ ] Proces wydania (numeracja, `buildid` w nazwie, sumy SHA-256, instrukcja).
-- [ ] Ponowne sprawdzenie zasad fanowskich Project Moon.
+- [ ] Deterministyczny ZIP patcha (`buildid` w nazwie, `RAPORT.json`,
+      `SUMY.sha256`) → Dysk, folder „Limbus Company” → pobranie i porównanie.
+- [ ] Instrukcja instalacji dla właściciela (lub prosty instalator BAT).
 
-Nie włączaj automatycznej publikacji wydań, dopóki proces z fazy 5 nie jest
-zaprojektowany i sprawdzony.
+Decyzja właściciela (2026-11-25): **żadnych GitHub Releases** ani publikacji;
+nie dodawaj workflowów wydań.

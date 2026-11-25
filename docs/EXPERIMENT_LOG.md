@@ -13,6 +13,24 @@ Najnowszy wpis na górze. Szablon:
 - Następny krok:
 ```
 
+## 2026-11-25 — przegląd innych projektów tłumaczeń Limbus
+
+- Cel: przejąć sprawdzone metody i indeksy zamiast projektować od zera
+  (decyzja właściciela).
+- Wejście: 14 publicznych repozytoriów GitHub (lista i licencje w
+  [PRIOR_ART.md](PRIOR_ART.md)); płytkie klony 10 z nich + drzewa plików.
+- Metoda: `gh search repos`, `gh api …/git/trees`, odczyt README, konfiguracji,
+  skryptów budowania/kontroli i wytycznych (LLC Wiki); bez kopiowania kodu
+  ani tekstów do repozytorium.
+- Wynik: [METODA.md](METODA.md) — 10 punktów; `tools/lc_tokeny.py` (8 testów);
+  spis tokenów w raporcie rozpoznania.
+- Rodzaj dowodu: analiza cudzych publicznych materiałów + testy syntetyczne.
+- Ograniczenia: reguły tagów zweryfikowane przez autorów AutoLocalization na
+  parach EN–zh, nie na naszych danych; licencje części repozytoriów nieokreślone
+  (tylko reguły, kod własny).
+- Następny krok: indeksy (postacie, słowa kluczowe) i specyfikacja
+  `lc-wyciag-v1` na pierwszym zbiorze właściciela.
+
 ## 2026-11-25 — rozpoznanie publiczne formatu CLS (bez danych właściciela)
 
 - Cel: ustalić format paczki CLS i strukturę plików przed pierwszym zbiorem.

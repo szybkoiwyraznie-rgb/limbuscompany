@@ -37,7 +37,7 @@ następny krok: [docs/STATUS.md](docs/STATUS.md).
 - [Sposób pracy (Git, PR, obieg tłumaczenia)](docs/WORKFLOW.md) · [Lekcje z poprzednich projektów](LESSONS.md)
 - [Format tłumaczeń CLS](docs/CLS_FORMAT.md) · [Zbieracz plików gry](docs/COLLECTOR.md)
 - [Pakiet dla Tłumacza — projekt](docs/PAKIET_TLUMACZA.md) · [Czytanki — projekt](docs/CZYTANKI.md)
-- [Dane gry, prywatność i Git](docs/DATA_POLICY.md) · [Wzorce i cudze projekty](docs/PRIOR_ART.md)
+- [Dane gry, prywatność i Git](docs/DATA_POLICY.md) · [Wzorce i cudze projekty](docs/PRIOR_ART.md) · [Metoda i indeksy przejęte od innych](docs/METODA.md)
 - [Dziennik eksperymentów](docs/EXPERIMENT_LOG.md) · [Środowisko i kontrole](ENVIRONMENT.md) · [Instrukcje dla agentów](AGENTS.md)
 
 ## Kontrole

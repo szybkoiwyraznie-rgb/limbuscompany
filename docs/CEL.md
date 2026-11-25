@@ -38,8 +38,18 @@
 - **2026-11-25 — Język źródłowy: koreański (oryginał).** Tłumacz przekłada z
   KR. EN (oficjalny przekład wydawcy) i JP są w wyciągu i w pakiecie jako
   odniesienie, ale tokeny, klucze i kompletność sprawdzamy względem KR.
-  Patch CLS budujemy na bazie plików `kr` (nieprzetłumaczone pozycje zostają
-  po koreańsku, chyba że właściciel zdecyduje o EN jako zapasie — zob. pytania).
+  Klucze i hashe źródła liczone są na KR.
+- **2026-11-25 — Zapas EN.** Pozycje bez (aktualnego) polskiego przekładu
+  pokazują w grze tekst **angielski**. Patch budujemy na bazie plików `en` z
+  podmienionymi polami przetłumaczonymi; zawiera komplet plików
+  ([METODA.md](METODA.md), punkt 5).
+- **2026-11-25 — Bez wydań.** Nie robimy GitHub Releases ani publikacji.
+  Pakiety patcha (ZIP + sumy SHA-256) agenci wgrywają na Dysk do folderu
+  „Limbus Company”; właściciel instaluje je u siebie.
+- **2026-11-25 — Korzystamy z dorobku innych projektów tłumaczeń Limbus.**
+  Przejmujemy ich metody i indeksy (klucze, biała lista pól, tokeny, zapas EN,
+  kontrole) zamiast wymyślać od nowa; kod piszemy od nowa, tekstów przekładów
+  nie kopiujemy ([METODA.md](METODA.md), [PRIOR_ART.md](PRIOR_ART.md)).
 - **2026-11-25 — Istniejące polskie tłumaczenie fanowskie ignorujemy.** Projekt
   jest niezależny; bez kontaktu, bez korzystania z jego tekstu.
 - **Konwencje z WWM/SRW:** sesyjna gałąź + wczesny PR, STATUS/EXPERIMENT_LOG/
@@ -50,13 +60,7 @@
 
 Stan na 2026-11-25. Po odpowiedzi przenieś punkt wyżej z datą.
 
-1. **Zapas dla nieprzetłumaczonych pozycji:** gdy fragment nie ma jeszcze
-   polskiego przekładu, patch ma pokazywać tekst **angielski** (czytelny dla
-   gracza) czy **koreański** (oryginał)? Propozycja: EN — można grać, zanim
-   całość będzie przetłumaczona.
-2. **Wydawanie:** tylko dla siebie, czy publicznie (Steam Guide / GitHub
-   Releases)? Wpływa na instalator, nazwę folderu `Lang/` i kredyty.
-3. **Font:** CLS pozwala na jeden font tytułów i jeden treści (`Font/Title`,
+1. **Font:** CLS pozwala na jeden font tytułów i jeden treści (`Font/Title`,
    `Font/Context`). Domyślny font gry może nie mieć polskich znaków — trzeba
    wybrać font z licencją pozwalającą na redystrybucję (np. OFL). Do ustalenia
-   po teście w grze.
+   po teście w grze (punkt wyjścia: [METODA.md](METODA.md), punkt 9).

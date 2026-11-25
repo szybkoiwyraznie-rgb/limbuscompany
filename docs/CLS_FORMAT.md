@@ -71,22 +71,25 @@ Liczby dla aktualnej wersji gry ustali `tools/rozpoznanie_localize.py`.
 - **Dialogi bitewne** (`BattleSpeechBubbleDlg*.json`), `PersonalityVoiceDlg/`
   **[P]**: osobne pliki z kwestiami.
 - **Znaczniki w tekście** **[P/H]**: Unity rich text (`<color=#…>`, `<b>`,
-  `<size=…>`, `<sprite name=…>`), linki do słów kluczowych, `\n`. Lista
-  tokenów do pilnowania przy imporcie powstanie z rozpoznania.
+  `<size=…>`, `<sprite name=…>`), linki do słów kluczowych, `\n`. Uwaga: `<…>`
+  bywa też cudzysłowem w dialogach — tagi rozpoznajemy po zamkniętej liście
+  nazw (`tools/lc_tokeny.py`, [METODA.md](METODA.md), punkt 4); rozpoznanie
+  raportuje kandydatów na nowe nazwy.
 
 ## Wnioski dla narzędzi
 
 1. Wyciąg działa na **nazwach logicznych** (bez prefiksu) i wiąże pliki
    kr/en/jp po tej nazwie (`tools/lc_localize.py`).
-2. Patch odtwarza **pełny JSON** pliku bazowego (KR albo EN jako język zapasowy,
+2. Patch odtwarza **pełny JSON** pliku bazowego (**EN** — język zapasowy,
    [CEL.md](CEL.md)) z podmienionymi tylko polami
    tekstowymi z białej listy (wzór: `translatable_keys.json` z
    Noplch0/limbus-ai-localization); pola identyfikatorów (`id`, `model`, klucze
    techniczne) pozostają bez zmian.
 3. Biała lista pól powstaje z rozpoznania (`pola` w raporcie) i jest wersjonowana
    w Git (`config/pola_tlumaczone.json` — do zrobienia).
-4. Klucz jednostki: `plik_logiczny` + ścieżka w JSON (z `id`, numerem wystąpienia)
-   + hash źródła — zmiana źródła po aktualizacji gry unieważnia przekład.
+4. Klucz jednostki: `<zakres>/<plik_logiczny>#<id>[~n]#<ścieżka_pola>` (schemat
+   AutoLocalization) + hash źródła KR — zmiana źródła po aktualizacji gry
+   unieważnia przekład ([METODA.md](METODA.md), punkt 2).
 
 ## Niewiadome do sprawdzenia na danych właściciela
 

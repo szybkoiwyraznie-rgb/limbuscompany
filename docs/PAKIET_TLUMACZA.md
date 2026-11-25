@@ -52,8 +52,10 @@ PL:
   samego klucza. Raport: plik + numer linii, bez cytowania treści.
 - Wynik: `tlumaczenie/<obszar>.jsonl` (`{"klucz", "pl", "zrodlo_hash", "pakiet"}`)
   w Git. Korekty techniczne agentów: `tlumaczenie/KOREKTY.json`.
-- Patch zawiera 100% zaakceptowanych pozycji; pozostałe zostają w języku
-  zapasowym (EN albo KR — [CEL.md](CEL.md), pytanie 1).
+- Patch zawiera 100% zaakceptowanych pozycji; pozostałe (oraz nieaktualne po
+  zmianie tekstu KR) pokazują tekst **EN** ([CEL.md](CEL.md)).
+- Reguły tokenów i nawiasów, stany jednostek i kontrole jakości:
+  [METODA.md](METODA.md), punkty 4, 6 i 8 (moduł `tools/lc_tokeny.py`).
 
 ## Kolejność pakietów (propozycja)
 
