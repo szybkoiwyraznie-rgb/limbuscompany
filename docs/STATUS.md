@@ -21,7 +21,12 @@ czego **nie** sprawdzono, następny krok.
 - CI: Ubuntu i Windows × Python 3.11/3.12; na Windows test integracyjny
   zbieracza na sztucznej instalacji gry (`tests/test_collector_windows.py`).
 
-**Sprawdzone:** testy syntetyczne (Linux lokalnie; Windows w CI — wynik w PR).
+**Sprawdzone:** testy syntetyczne — Linux lokalnie i w CI; Windows w CI
+(`windows-latest`, PowerShell 5.1, Python 3.11/3.12): zbieracz na sztucznej
+instalacji — tryb pełny, aktualizacja, części, brak gry — zielone.
+**Dostarczone:** `LC_ZBIERZ_DANE.zip` (28 200 B, SHA-256
+`2138f49adf00394e766db96d1ec3c222996277c026d17a1ead27c668d0b3ee7f`) w folderze
+Dysku „Limbus Company”; pobrany z powrotem — bajty identyczne.
 **Niesprawdzone:** zbieracz na prawdziwej instalacji właściciela; prawdziwa
 struktura `Localize` w aktualnej wersji gry (znana tylko z publicznych paczek
 CLS, [CLS_FORMAT.md](CLS_FORMAT.md)).

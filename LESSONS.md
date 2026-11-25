@@ -27,6 +27,11 @@ Wnioski przeniesione z WWM/SRW są oznaczone źródłem.
 - **Wartość zwracana z funkcji PowerShell to cały potok.** Każde
   `.Add()`/`New-Item` itp. bez `[void]` dokłada wartość; dlatego kod wyjścia
   bierzemy jako ostatni element: `$result = @(Main); exit ([int] $result[-1])`.
+- **PowerShell 5.1: nie wstawiaj potoków ani `@(…)` do zagnieżdżonych literałów
+  `[ordered]@{ … }`** — kompilator zgłasza „Argument types do not match”.
+  Najpierw zmienna, potem `$dict['klucz'] = $zmienna`.
+- **Komunikat `BLAD:` ma numer linii** (`$_.InvocationInfo.ScriptLineNumber`) —
+  bez tego błędy z CI Windows są trudne do zlokalizowania.
 - **pwsh nie da się zainstalować w sandboksie** (blokada pobrań z GitHub
   release assets). PowerShell testujemy tylko w CI na `windows-latest`.
 

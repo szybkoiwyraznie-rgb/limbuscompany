@@ -35,7 +35,13 @@ Najnowszy wpis na górze. Szablon:
 - Wejście: wymyślone drzewo `Localize` (`tests/syntetyczne.py`).
 - Metoda: `python3 tools/run_tests.py` (Linux, lokalnie); CI `windows-latest`
   uruchamia `tests/test_collector_windows.py` z prawdziwym PowerShell 5.1.
-- Wynik: Linux — wszystkie testy OK; Windows — patrz checki PR #2.
+- Wynik: Linux — wszystkie testy OK; Windows (CI) — 4/4 testy integracyjne OK po
+  poprawce: Windows PowerShell 5.1 zgłaszał „Argument types do not match” przy
+  `@(… | Sort-Object)` w zagnieżdżonym literale `[ordered]@{}` — raport składany
+  teraz ze zwykłych zmiennych (wniosek w LESSONS.md).
+- Dostawa: `LC_ZBIERZ_DANE.zip`, 28 200 B, SHA-256
+  `2138f49adf00394e766db96d1ec3c222996277c026d17a1ead27c668d0b3ee7f`, Dysk →
+  pobranie z powrotem → `cmp` identyczne.
 - Rodzaj dowodu: test syntetyczny.
 - Ograniczenia: brak testu na prawdziwej instalacji (rejestr Steam,
   `libraryfolders.vdf` testowane tylko pośrednio).
