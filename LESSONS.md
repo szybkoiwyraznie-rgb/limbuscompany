@@ -48,6 +48,10 @@ Wnioski przeniesione z WWM/SRW są oznaczone źródłem.
 
 ## Sandbox / narzędzia
 
+- **Lokalna historia Git potrafi wrócić do commita bazowego** między turami
+  (pliki zostają). Przed pushem: `git fetch` i `git diff --stat origin/<gałąź> HEAD`;
+  jeśli różnica to tylko nowa praca — `git reset --soft origin/<gałąź>` i commit.
+  Nigdy `--force`.
 - Klon bez blobów (`--filter=blob:none`) potrafi zawiesić `git ls-tree`/`show`
   na leniwym pobieraniu: `GIT_NO_LAZY_FETCH=1` i `timeout`.
 - `gh repo view --json isPrivate` (pole `visibility` nie jest wspierane).
