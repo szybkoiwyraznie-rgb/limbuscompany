@@ -153,3 +153,30 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   ponowny import daje ten sam manifest; `.gitattributes` wyłącza konwersję
   końców wierszy w `index/localize` i `index/static-data` (28 plików z BOM
   zostaje nietkniętych).
+
+## E-007 · 2026-11-25 · pierwsza paczka ze zbieracza właściciela: Steam build `26652290` (fakt ze źródła)
+
+- **Wejście:** `LCB_DANE_20261125_190908_2e6403.zip` (19 086 393 B,
+  SHA-256 `169c774e771dcb58f5bcd0fb2a57b230d179b2921a959aab285a49d403036f90`),
+  zebrany narzędziem `LCB_ZBIERZ_DANE 1.0.0` na instalacji właściciela.
+  `status = complete`, `problems = 0`, `skipped = 0`, build Steam
+  **`26652290`**, `app.info` = `ProjectMoon` / `LimbusCompany`.
+- **Walidacja** (`tools/validate_collector_return.py`): `passed`; 7320 plików
+  zadeklarowanych i zgodnych po SHA-256 (`Localize`: 2449 `kr`, 2406 `en`,
+  2464 `jp`; 1 × `app.info`; 0 × `Lang/config.json` — brak zainstalowanej
+  paczki językowej), 78 813 543 B ładunku. `INWENTARZ.jsonl`: 9136 wpisów
+  (7322 w `LimbusCompany_Data/Assets`, 1746 w `StreamingAssets` — banki FMOD
+  `.bank` i konfiguracja usług; w katalogu instalacji Steam nie ma luźnych
+  plików `StaticData`).
+- **Import** (`tools/import_data.py` → `index/localize/`):
+  `kr` — 2449 plików / 25 222 309 B (SHA-256 katalogu `7adf1c18…f832`);
+  `en` — 2406 plików / 26 225 485 B (`12c225b0…892b`).
+- **Porównanie z lustrem TW (`f218bbec`):** `git diff --ignore-space-at-eol`
+  na całym `index/localize/` daje **0 różnic** — liczba plików, nazwy i cała
+  treść JSON w `kr` i `en` są w 100% identyczne z buildem Steam `26652290`;
+  różnica rozmiaru bajtowego (+628 132 B w `kr`, +732 568 B w `en`) wynika
+  wyłącznie z zachowania oryginalnych końców linii CRLF z gry (lustro Git
+  miało LF). Przebudowa `wiedza/indeks_fabuly.json` aktualizuje metadane
+  źródła; wygenerowane `czytanki/` nie zmieniają ani jednego znaku.
+- **Ograniczenia:** `StaticData` pochodzi nadal z lustra OpenLethe (`8f24cba5`),
+  ponieważ gra nie trzyma `StaticData` jako luźnych JSON-ów w katalogu Steam.

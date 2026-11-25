@@ -2,7 +2,7 @@
  "format": "lcb-indeks-fabuly-v1",
  "zrodla": {
   "static_data": "lustro LEAGUE-OF-NINE/OpenLethe, commit 8f24cba5721482c85a7ab22ba2d2105914d175ac (dane 2026-11-12); build Steam nieznany; repozytorium bez pliku licencji",
-  "localize": "lustro LimbusTraditionalMandarin/story-data, commit f218bbec3c1df855c5786bb7c2b2479cf3ce3354 (2026-11-19); build Steam nieznany"
+  "localize": "zbieracz LCB_DANE_20261125_190908_2e6403.zip (build Steam 26652290, SHA-256 169c774e771dcb58f5bcd0fb2a57b230d179b2921a959aab285a49d403036f90)"
  },
  "liczby": {
   "pliki_storydata": 1001,

@@ -1,17 +1,17 @@
 {
  "format": "lcb-index-v1",
  "localize": {
-  "zrodlo": "lustro LimbusTraditionalMandarin/story-data, commit f218bbec3c1df855c5786bb7c2b2479cf3ce3354 (2026-11-19); build Steam nieznany",
+  "zrodlo": "zbieracz LCB_DANE_20261125_190908_2e6403.zip (build Steam 26652290, SHA-256 169c774e771dcb58f5bcd0fb2a57b230d179b2921a959aab285a49d403036f90)",
   "jezyki": {
    "kr": {
     "pliki": 2449,
-    "bajty": 24594177,
-    "sha256": "7762f110716d84a3bfc861523967755104346687ed3c36f01feb1cc5fe5c77bb"
+    "bajty": 25222309,
+    "sha256": "7adf1c1861d150e5bb8cd6508f434702cff6ae751dfe1f97985ee069183ef832"
    },
    "en": {
     "pliki": 2406,
-    "bajty": 25492917,
-    "sha256": "1958134f0455644ab1f5f6f761fe921649cb38042777c1fa86884c7a835e91ea"
+    "bajty": 26225485,
+    "sha256": "12c225b050c262b45c57c39de51816d1128d05273f7947518e41f3bdec2f892b"
    }
   }
  },
