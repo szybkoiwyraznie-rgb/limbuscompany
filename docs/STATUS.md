@@ -24,9 +24,11 @@ układu.**
 - **Kolejność fabuły z danych gry** (Teatr Opowieści, etapy, walki):
   `wiedza/indeks_fabuly.json` — 36 rozdziałów, 807 scen + 184 historie
   Identity; 34 rozdziały zgodne ze storylogs co do kolejności.
-- **Próbki na Dysku:** `LCB_PROBKI_2026-11-25.zip` (36 Czytanek EN, Prolog +
-  Canto I po koreańsku, 12 plików ID) i `plik_dla_tlumacza_v1.zip` (1001 scen,
-  60 362 elementy do przetłumaczenia).
+- **Próbki na Dysku:** `LCB_PROBKI_2026-11-25_v2.zip` (36 Czytanek EN, Prolog +
+  Canto I po koreańsku, 12 plików ID — po poprawkach układu Czytanki: pojedynczy
+  `\n` między kwestiami, `■…` → `***`, `"Me"` → `"Ja"`, kwestie Dantego bez
+  `\<…>`) i `plik_dla_tlumacza_v1.zip` (1001 scen, 60 362 elementy do
+  przetłumaczenia).
 
 ## Następny krok
 

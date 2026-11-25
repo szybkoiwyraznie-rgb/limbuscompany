@@ -1946,7 +1946,7 @@ Moneta 1: [Unbreakable Coin]
 | 1 | Glut. | obrona: blok | 2 | +8 | 1 | +0 | 1 |
 
 [Clashable Guard]  
-This Skill counts as Assist Defense[TabExplain] only for the unit that uses the Skill, and does not trigger the effects of other characters that have conditionals that check for [Assist Defense] activation.  
+This Skill counts as Assist Defense only for the unit that uses the Skill, and does not trigger the effects of other characters that have conditionals that check for [Assist Defense] activation.  
 [On Use] If target has 3+ types of negative effects, Clash Power +1  
 Moneta 1: [Unbreakable Coin]
 
@@ -1986,7 +1986,7 @@ In this Encounter, when this unit takes damage that brings their HP down to 0, n
   
 This unit's Skills deal +3% damage for every [Tarnished Blood] on self  
   
-When activating the E.G.O Skill 'Tears[TabExplain] of the Tarnished Blood[TabExplain] - The End', nullify the death effect in its Attack End effects; instead, heal 60% HP. Starting next turn, gain 1 [Damage Up] at every Turn Start (once per Encounter)
+When activating the E.G.O Skill 'Tears of the Tarnished Blood - The End', nullify the death effect in its Attack End effects; instead, heal 60% HP. Starting next turn, gain 1 [Damage Up] at every Turn Start (once per Encounter)
 
 #### Pasywka wsparcia: Please be traceless in your deeds.
 

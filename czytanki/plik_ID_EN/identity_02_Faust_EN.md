@@ -2159,7 +2159,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, the Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At 6+ [Grace of the Prescript], the effect above prioritizes Skill 3  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion
 
 #### Pasywka bojowa: Will of the Prescript
 
@@ -2181,7 +2181,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, the Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At 6+ [Grace of the Prescript], the effect above prioritizes Skill 3  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion
 
 #### Pasywka bojowa: Will of the Prescript
 
@@ -2722,7 +2722,7 @@ Moneta 2: [Reuse - On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor
 | 3 | Wrath | Slash | 3 | +4 | 3 | +4 | 1 |
 | 4 | Wrath | Slash | 5 | +4 | 3 | +4 | 1 |
 
-*Od ulepszenia 3:* [Before Use] At 30 [Fire Butterfly Coffin], activate "Eject - High Noon[TabExplain]" instead (once per turn)  
+*Od ulepszenia 3:* [Before Use] At 30 [Fire Butterfly Coffin], activate "Eject - High Noon" instead (once per turn)  
 [On Use] If target has 6+ ([Burn] + [Tremor]), Coin Power +1  
 [On Use] Gain 5 [Fire Butterfly Coffin]  
 [On Use] For every 10 [Fire Butterfly Coffin], gain the following effects:  
@@ -2735,7 +2735,7 @@ Moneta 2: [On Hit] Trigger [Amplitude Conversion] into [Tremor - Scorch]
 Moneta 3: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1 (2 times per Skill)  
 Moneta 3: [Reuse - On Hit] Inflict 1 [Burn]
 
-*Od ulepszenia 4:* [Before Use] At 30 [Fire Butterfly Coffin], activate "Eject - High Noon[TabExplain]" instead (once per turn)  
+*Od ulepszenia 4:* [Before Use] At 30 [Fire Butterfly Coffin], activate "Eject - High Noon" instead (once per turn)  
 [On Use] Coin Power +1 for every 6 ([Burn] + [Tremor]) on target (max 2)  
 [On Use] Gain 8 [Fire Butterfly Coffin]  
 [On Use] For every 10 [Fire Butterfly Coffin], gain the following effects:  
@@ -2830,7 +2830,7 @@ Moneta 1: [On Hit] Inflict 1 [Burn] (2 times per turn)
 Moneta 2: [On Hit] Inflict 1 [Tremor] (2 times per turn)
 
 *Od ulepszenia 3:* [Clashable Counter]  
-[Before Use] At 30 [Fire Butterfly Coffin], activate "Dismemberment at High Noon[TabExplain]" instead (once per turn)  
+[Before Use] At 30 [Fire Butterfly Coffin], activate "Dismemberment at High Noon" instead (once per turn)  
 - If this unit has [Overheated Coffin], the effect above does not activate  
 [On Use] At 5+ [Burn], Coin Power +1  
 [On Use] Lose 5 [Burn] (once per turn)  
@@ -2840,7 +2840,7 @@ Moneta 2: [On Hit] Inflict 1 [Tremor] (2 times per turn)
 
 *Od ulepszenia 4:* [Clashable Counter]  
 [Combat Start] Gain 6 [Fire Butterfly Coffin] (once per Encounter)  
-[Before Use] At 30 [Fire Butterfly Coffin], activate "Dismemberment at High Noon[TabExplain]" instead (once per turn)  
+[Before Use] At 30 [Fire Butterfly Coffin], activate "Dismemberment at High Noon" instead (once per turn)  
 - If this unit has [Overheated Coffin], the effect above does not activate  
 [On Use] Coin Power +1 for every 5 [Burn] on self (max 2)  
 [On Use] Lose 5 [Burn] (once per turn)  
@@ -2911,9 +2911,9 @@ Take -50% damage from [Burn] effects (rounded down)
 
 *od ulepszenia 1*
 
-If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:  
-- Dawn Office[TabExplain] Fixer Sinclair gains [High Noon]  
-- Turn Start: If Dawn Office[TabExplain] Fixer Faust is defeated, convert [High Noon] on Dawn Office[TabExplain] Fixer Sinclair into [Loneliness at High Noon]
+If Dawn Office Fixer Sinclair is on the field, activate the following effects:  
+- Dawn Office Fixer Sinclair gains [High Noon]  
+- Turn Start: If Dawn Office Fixer Faust is defeated, convert [High Noon] on Dawn Office Fixer Sinclair into [Loneliness at High Noon]
 
 #### Pasywka bojowa: Heatproof Coat
 
@@ -2929,22 +2929,22 @@ Take -50% damage from [Burn] effects (rounded down)
 
 *od ulepszenia 2*
 
-If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:  
-- Dawn Office[TabExplain] Fixer Sinclair gains [High Noon]  
-- Turn Start: If Dawn Office[TabExplain] Fixer Faust is defeated, convert [High Noon] on Dawn Office[TabExplain] Fixer Sinclair into [Loneliness at High Noon]
+If Dawn Office Fixer Sinclair is on the field, activate the following effects:  
+- Dawn Office Fixer Sinclair gains [High Noon]  
+- Turn Start: If Dawn Office Fixer Faust is defeated, convert [High Noon] on Dawn Office Fixer Sinclair into [Loneliness at High Noon]
 
 #### Pasywka bojowa: Feuerfalter [Stigma Workshop]
 
 *od ulepszenia 2; posiadane 3× Wrath*
 
-When other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Fixer Faust uses the "Seconded Offensive" Skill against the targeted enemy (once per turn per Identity)  
+When other Dawn Office Identities meet the following conditions, Dawn Office Fixer Faust uses the "Seconded Offensive" Skill against the targeted enemy (once per turn per Identity)  
 - At Base Skill Attack End: If the enemy that was hit is Staggered, use "Seconded Offensive" against said enemy  
 (Does not activate if the said enemy was already Staggered Before Attack of the said Skill)  
 - At Attack End of the following Skills, use "Seconded Offensive" on the enemy they hit (prioritizes Staggered targets):  
-  · Dawn Office[TabExplain] Rep Gregor's "Dawnsplitter" and "Crack of Dawn"  
-  · Dawn Office[TabExplain] Fixer Sinclair's "Stigmatize" and "Blazing[TabExplain] Strike"  
+  · Dawn Office Rep Gregor's "Dawnsplitter" and "Crack of Dawn"  
+  · Dawn Office Fixer Sinclair's "Stigmatize" and "Blazing Strike"  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Reused Coins of Dawn Office[TabExplain] Fixer Faust's Base Skills, deal additional Wrath damage equal to [Burn] on targeted enemy (max 10; max 20 per turn)  
+If Dawn Office Fixer Sinclair is on the field: On Hit using Reused Coins of Dawn Office Fixer Faust's Base Skills, deal additional Wrath damage equal to [Burn] on targeted enemy (max 10; max 20 per turn)  
 - Counts as activating [Burn]
 
 #### Pasywka bojowa: Heatproof Coat
@@ -2961,9 +2961,9 @@ Take -50% damage from [Burn] effects (rounded down)
 
 *od ulepszenia 3*
 
-If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:  
-- Dawn Office[TabExplain] Fixer Sinclair gains [High Noon]  
-- Turn Start: If Dawn Office[TabExplain] Fixer Faust is defeated, convert [High Noon] on Dawn Office[TabExplain] Fixer Sinclair into [Loneliness at High Noon]
+If Dawn Office Fixer Sinclair is on the field, activate the following effects:  
+- Dawn Office Fixer Sinclair gains [High Noon]  
+- Turn Start: If Dawn Office Fixer Faust is defeated, convert [High Noon] on Dawn Office Fixer Sinclair into [Loneliness at High Noon]
 
 #### Pasywka bojowa: Feuerfalter [Stigma Workshop]
 
@@ -2971,14 +2971,14 @@ If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the followin
 
 Combat Start: When this unit has [Battle Instinct], gain (Stack x 3) [Fire Butterfly Coffin]  
   
-When other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Fixer Faust uses the "Seconded Offensive" Skill against the targeted enemy (once per turn per Identity)  
+When other Dawn Office Identities meet the following conditions, Dawn Office Fixer Faust uses the "Seconded Offensive" Skill against the targeted enemy (once per turn per Identity)  
 - At Base Skill Attack End: If the enemy that was hit is Staggered, use "Seconded Offensive" against said enemy  
 (Does not activate if the said enemy was already Staggered Before Attack of the said Skill)  
 - At Attack End of the following Skills, use "Seconded Offensive" on the enemy they hit (prioritizes Staggered targets):  
-  · Dawn Office[TabExplain] Rep Gregor's "Dawnsplitter" and "Crack of Dawn"  
-  · Dawn Office[TabExplain] Fixer Sinclair's "Stigmatize" and "Blazing[TabExplain] Strike"  
+  · Dawn Office Rep Gregor's "Dawnsplitter" and "Crack of Dawn"  
+  · Dawn Office Fixer Sinclair's "Stigmatize" and "Blazing Strike"  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Reused Coins of Dawn Office[TabExplain] Fixer Faust's Base Skills, deal additional Wrath damage equal to [Burn] on the targeted enemy (max 10; max 20 per turn)  
+If Dawn Office Fixer Sinclair is on the field: On Hit using Reused Coins of Dawn Office Fixer Faust's Base Skills, deal additional Wrath damage equal to [Burn] on the targeted enemy (max 10; max 20 per turn)  
 - Counts as activating [Burn]
 
 #### Pasywka wsparcia: The Lone Fixer

@@ -30,12 +30,20 @@ przyjętego przekładu; tam, gdzie przekładu brak — tekst EN, oznaczony).
 > The ride is awkward and intimidating. …                 ← opis etapu z gry
 *— Przed walką —*                                         ← moment: przed / w trakcie walki / po walce
 #### Aboard Mephistopheles                               ← zmiana miejsca w scenie (place)
-**Charon:** Verg.                                         ← mówca jak w SRW
+**Charon:** Verg.                                         ← mówca jak w SRW (pojedynczy \n między kwestiami)
 **Dongrang** (*K Corp. Dept. of Food Resource Development*): …   ← epitet przy pierwszym wystąpieniu w scenie
-The chatter was what finally got me to open my eyes.      ← narracja: zwykły akapit
-**Dante:** \<Hey...>                                     ← tykanie Dantego zostaje w nawiasach
+The chatter was what finally got me to open my eyes.      ← narracja: zwykły wiersz w scenie
+**Dante:** Hey...                                        ← kwestie Dantego bez nawiasów <…>
 ```
 
+- **Pojedynczy znak nowej linii (`\n`)** między kolejnymi kwestiami i narracją
+  w obrębie sceny/miejsca (jak w czytankach WWM/SRW); pusta linia oddziela
+  dopiero zmianę miejsca, moment walki i kolejną scenę.
+- **Kwestie Dantego bez `<` i `>`** — w grze nawiasy ostre oznaczają tykanie
+  zegara, w Czytance są zdejmowane (w pakiecie dla tłumacza i w `Lang/` zostają).
+- **Mówca i epitet `"Me"` → `"Ja"`** w prologu przed poznaniem imienia Dantego.
+- **Cenzura / luki w pamięci (`■…`) → `***`** — ciągi czarnych kwadratów z
+  plików gry zastępowane są w Czytance i plikach ID zapisem `***`.
 - **Bez identyfikatorów w tekście**; nazwa pliku sceny jest tylko w
   niewidocznym komentarzu HTML (do sprawdzania).
 - Sceny eksploracji (lochy `nD…`) mają nagłówek „Eksploracja”; rozdziały z

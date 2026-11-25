@@ -1448,7 +1448,7 @@ Moneta 3: [On Hit] Inflict 1 [Bleed]
 | 3 | Lust | Pierce | 3 | +4 | 3 | +3 | 1 |
 | 4 | Lust | Pierce | 4 | +4 | 3 | +3 | 1 |
 
-*Od ulepszenia 3:* [Before Use] At 25+ [Blooming Thorn], activate 'Ascendant Don Quixote Hardblood[TabExplain] Arts - The Finale' instead  
+*Od ulepszenia 3:* [Before Use] At 25+ [Blooming Thorn], activate 'Ascendant Don Quixote Hardblood Arts - The Finale' instead  
 [On Use] To self and (highest Reson.) allies: apply (3 + (1 for every 50 [Bloodfeast Consumed] by this unit) [Festive Fever] this turn and next turn (max 10)  
 [On Use] To self and (highest Reson.) allies: apply 3 [Blooming Thorn]  
 Moneta 1: [On Hit] Inflict +1 [Rupture] Count  
@@ -1458,7 +1458,7 @@ Moneta 2: [On Hit] Inflict 1 [Bleed]
 Moneta 3: [On Hit] Inflict 1 [Rupture]  
 Moneta 3: [On Hit] Inflict 1 [Bleed]
 
-*Od ulepszenia 4:* [Before Use] At 25+ [Blooming Thorn], activate 'Ascendant Don Quixote Hardblood[TabExplain] Arts - The Finale' instead  
+*Od ulepszenia 4:* [Before Use] At 25+ [Blooming Thorn], activate 'Ascendant Don Quixote Hardblood Arts - The Finale' instead  
 [On Use] If target has 6+ [Bleed], Coin Power +1  
 [On Use] To self and (highest Reson.) allies: apply (3 + (1 for every 50 [Bloodfeast Consumed] by this unit) [Festive Fever] this turn and next turn (max 10)  
 [On Use] To self and (highest Reson.) allies: apply 3 [Blooming Thorn]  
@@ -2280,7 +2280,7 @@ At less than 35% HP, Base Attack Skills gain Final Power +1
 
 *od ulepszenia 3; posiadane 4× Gloom*
 
-1 ally with the lowest SP: Skills that consume [Charge] or Unique Charge[TabExplain] and have effects that inflict [Sinking] against enemies deal +10% damage (except E.G.O Skills)
+1 ally with the lowest SP: Skills that consume [Charge] or Unique Charge and have effects that inflict [Sinking] against enemies deal +10% damage (except E.G.O Skills)
 
 #### Kwestie
 
@@ -2836,7 +2836,7 @@ Moneta 5: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count 
 
 *Od ulepszenia 1:* [Clashable Counter]  
 [On Use] Lose 3 [Eye of Precognition] on self  
-[Turn End] If this unit has less than 5 [Acceleration Round], reload[TabExplain] [Acceleration Round] to 5 (once per turn)  
+[Turn End] If this unit has less than 5 [Acceleration Round], reload [Acceleration Round] to 5 (once per turn)  
 Moneta 1: [On Hit] Inflict 1 [Burn]  
 Moneta 1: [On Hit] Inflict 1 [Tremor]  
 Moneta 2: [On Hit] Inflict 1 [Burn]  
@@ -2845,7 +2845,7 @@ Moneta 2: [On Hit] Inflict 1 [Tremor]
 *Od ulepszenia 4:* [Clashable Counter]  
 [On Use] Final Power +1 for every 4 ([Burn] + [Tremor]) on target (max 2)  
 [On Use] Lose 4 [Eye of Precognition] on self  
-[Turn End] If this unit has less than 5 [Acceleration Round], reload[TabExplain] [Acceleration Round] to 5 (once per turn)  
+[Turn End] If this unit has less than 5 [Acceleration Round], reload [Acceleration Round] to 5 (once per turn)  
 Moneta 1: [On Hit] Inflict 1 [Burn]  
 Moneta 1: [On Hit] Inflict 1 [Tremor]  
 Moneta 2: [On Hit] Inflict 1 [Burn]  

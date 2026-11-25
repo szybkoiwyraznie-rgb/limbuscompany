@@ -41,6 +41,18 @@ PHASE_TEXT = {
     "walka": "W trakcie walki",
 }
 LANG_NAMES = {"en": "angielskiej", "kr": "koreańskiej", "jp": "japońskiej"}
+SPEAKER_OVERRIDES = {"Me": "Ja"}
+
+
+def _is_dante(model: object, teller: object) -> bool:
+    return (isinstance(model, str) and "단테" in model) or teller in ("Dante", "단테", "Me", "나", "Ja")
+
+
+def _format_speaker(name: str, title: str | None) -> str:
+    if title:
+        epithet = f"({title})" if not title.strip("*") else f"(*{title}*)"
+        return f"{name} {epithet}:" if not name.strip("*") else f"**{name}** {epithet}:"
+    return f"{name}:" if not name.strip("*") else f"**{name}:**"
 
 
 def slug(text: str) -> str:
@@ -109,27 +121,38 @@ def render_scene(lines: list[dict], texts: Texts, out: list[str], place_state: d
             continue
         place = one_line(to_markdown(row.get("place")))
         if place and place != place_state.get("place"):
+            if out and out[-1] != "":
+                out.append("")
             out += [f"#### {place}", ""]
             place_state["place"] = place
-        content = to_markdown(row.get("content"), keywords)
+        model = row.get("model")
+        teller = row.get("teller")
+        content = to_markdown(
+            row.get("content"),
+            keywords,
+            strip_ticking=True,
+            dante=_is_dante(model, teller),
+        )
         if not content:
             continue
         content = re.sub(r"\n+", " ", content)
-        model = row.get("model")
-        teller = row.get("teller")
         if model or teller:
             name = one_line(to_markdown(teller)) if teller else ""
             if not name and isinstance(model, str):
                 name = one_line(to_markdown(models.get(model, {}).get("name"))) or model
+            name = SPEAKER_OVERRIDES.get(name, name)
             title = one_line(to_markdown(row.get("title")))
+            title = SPEAKER_OVERRIDES.get(title, title)
+            shown_title: str | None = None
             if title and title != name and (name, title) not in introduced:
                 introduced.add((name, title))
-                out += [f"**{name}** (*{title}*): {content}", ""]
-            else:
-                out += [f"**{name}:** {content}", ""]
+                shown_title = title
+            out.append(f"{_format_speaker(name, shown_title)} {content}")
         else:
-            out += [content, ""]
+            out.append(content)
         written += 1
+    if out and out[-1] != "":
+        out.append("")
     return written
 
 

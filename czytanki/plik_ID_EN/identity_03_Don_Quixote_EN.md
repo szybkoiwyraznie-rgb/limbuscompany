@@ -1437,19 +1437,19 @@ Moneta 2: [On Hit] Inflict +3 [Bleed] Count
 If this unit is on field, or is one of the units that can appear on this Stage, increase Bloodfeast value by the amount of [Bleed] damage collectively received by every unit.  
 When this unit enters the field, the sleeping blood drenching the battlefield will fill the surface.  
   
-When consuming [Bloodfeast], if there are \<La Manchaland[TabExplain]> Kindreds of the same generation as this unit, this unit takes precedence.  
+When consuming [Bloodfeast], if there are \<La Manchaland> Kindreds of the same generation as this unit, this unit takes precedence.  
   
-When using 'Variant Sancho Hardblood[TabExplain] Arts 6 - Whip', HP cannot drop below 1 due to Bleed damage.
+When using 'Variant Sancho Hardblood Arts 6 - Whip', HP cannot drop below 1 due to Bleed damage.
 
 #### Pasywka bojowa: Variant Sancho Hardblood Arts
 
 *od ulepszenia 1*
 
 Turn Start: At 15+ [Hardblood], if each following unit is either defeated or participating in the Encounter, empower this unit's leftmost Slot.  
-The Priest of La Manchaland[TabExplain] Gregor: Empower Skill 1  
-The Barber of La Manchaland[TabExplain] Outis: Empower Skill 2  
+The Priest of La Manchaland Gregor: Empower Skill 1  
+The Barber of La Manchaland Outis: Empower Skill 2  
 This Unit: Empower Skill 3  
-The Princess of La Manchaland[TabExplain] Rodion: Empower Defense Skill[TabExplain]  
+The Princess of La Manchaland Rodion: Empower Defense Skill  
   
 When other units among allies take [Bleed] damage or consume [Bloodfeast], gain 2 [Hardblood] on self (3 times per turn)
 
@@ -1457,9 +1457,9 @@ When other units among allies take [Bleed] damage or consume [Bloodfeast], gain 
 
 *od ulepszenia 1*
 
-In an Encounter, if another allied \<La Manchaland[TabExplain]> unit is defeated:  
+In an Encounter, if another allied \<La Manchaland> unit is defeated:  
 - Gain 1 more [Hardblood] when gaining [Hardblood] from this unit's Base Attack Skills  
-- When 3+ other allied \<La Manchaland[TabExplain]> units are defeated: gain 3 additional [Hardblood]; at Turn Start, gain 1 [Responsibility]
+- When 3+ other allied \<La Manchaland> units are defeated: gain 3 additional [Hardblood]; at Turn Start, gain 1 [Responsibility]
 
 #### Pasywka bojowa: Bloodfeast
 
@@ -1468,19 +1468,19 @@ In an Encounter, if another allied \<La Manchaland[TabExplain]> unit is defeated
 If this unit is on field, or is one of the units that can appear on this Stage, increase Bloodfeast value by the amount of [Bleed] damage collectively received by every unit.  
 When this unit enters the field, the sleeping blood drenching the battlefield will fill the surface.  
   
-When consuming [Bloodfeast], if there are \<La Manchaland[TabExplain]> Kindreds of the same generation as this unit, this unit takes precedence.  
+When consuming [Bloodfeast], if there are \<La Manchaland> Kindreds of the same generation as this unit, this unit takes precedence.  
   
-When using 'Variant Sancho Hardblood[TabExplain] Arts 6 - Whip', HP cannot drop below 1 due to Bleed damage.
+When using 'Variant Sancho Hardblood Arts 6 - Whip', HP cannot drop below 1 due to Bleed damage.
 
 #### Pasywka bojowa: Variant Sancho Hardblood Arts
 
 *od ulepszenia 2*
 
 Turn Start: At 15+ [Hardblood], if each following unit is either defeated or participating in the Encounter, empower this unit's leftmost Slot.  
-The Priest of La Manchaland[TabExplain] Gregor: Empower Skill 1  
-The Barber of La Manchaland[TabExplain] Outis: Empower Skill 2  
+The Priest of La Manchaland Gregor: Empower Skill 1  
+The Barber of La Manchaland Outis: Empower Skill 2  
 This Unit: Empower Skill 3  
-The Princess of La Manchaland[TabExplain] Rodion: Empower Defense Skill[TabExplain]  
+The Princess of La Manchaland Rodion: Empower Defense Skill  
   
 When other units among allies take [Bleed] damage or consume [Bloodfeast], gain 2 [Hardblood] on self (3 times per turn)
 
@@ -1488,9 +1488,9 @@ When other units among allies take [Bleed] damage or consume [Bloodfeast], gain 
 
 *od ulepszenia 2*
 
-In an Encounter, if another allied \<La Manchaland[TabExplain]> unit is defeated:  
+In an Encounter, if another allied \<La Manchaland> unit is defeated:  
 - Gain 1 more [Hardblood] when gaining [Hardblood] from this unit's Base Attack Skills  
-- When 3+ other allied \<La Manchaland[TabExplain]> units are defeated: gain 3 additional [Hardblood]; at Turn Start, gain 1 [Responsibility]
+- When 3+ other allied \<La Manchaland> units are defeated: gain 3 additional [Hardblood]; at Turn Start, gain 1 [Responsibility]
 
 #### Pasywka bojowa: Armadura de Sangre
 
@@ -2490,7 +2490,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, the Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At [Unlock - II]+, the effect above prioritizes Skill 3  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]  
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion  
   
 If this unit has [Unlock - III] at Turn Start, gain [Shin (心) - Procuration]
 
@@ -2529,7 +2529,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, the Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At [Unlock - II]+, the effect above prioritizes Skill 3  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]  
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion  
   
 If this unit has [Unlock - III] at Turn Start, gain [Shin (心) - Procuration]
 
@@ -2576,7 +2576,7 @@ On hit using Base Skill attacks against targets that have [The Prescript's Targe
 Combat Start: Heal 15 SP for the ally that has the lowest SP  
 - This effect prioritizes Plus Coin Identities  
 - If the affected unit is in The Index faction, they gain 1 [Damage Up] as well  
-- This effect does not apply to units under effects that prevent SP recovery such as E.G.O Corrosion[TabExplain], Panic, etc.
+- This effect does not apply to units under effects that prevent SP recovery such as E.G.O Corrosion, Panic, etc.
 
 #### Kwestie
 

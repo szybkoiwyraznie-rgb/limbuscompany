@@ -104,7 +104,10 @@ Polecenie właściciela:
   uczestnicy), spisy rozdziałów i scen, mówcy/miejsca tłumaczone raz.
 - **Czytanka** w „ludzkim” układzie: dokładna chronologia, nazwy Canto i etapów
   we właściwych miejscach, mówcy jak w SRW (`**Imię:** tekst`), bez
-  identyfikatorów w tekście.
+  identyfikatorów w tekście. Poprawki właściciela z 2026-11-25 po lekturze
+  próbki: pojedynczy `\n` między kwestiami w scenie (bez pustych linii między
+  wierszami dialogu), kwestie Dantego bez nawiasów `<…>` / `\<…>`, `"Me"` →
+  `"Ja"`, ciągi `■…` (cenzura / zaniki pamięci z gry) → `***`.
 - **Plik ID** (profile Identity): co naprawdę jest w danej Identity —
   statystyki, umiejętności, pasywki, opisy i kwestie w czytelnej formie.
 

@@ -69,8 +69,10 @@ class Texts:
             names: dict[str, str] = {}
             for prefix in ("BattleKeywords", "Bufs", "SkillTag"):
                 for key, row in self.by_id(prefix).items():
-                    if isinstance(row.get("name"), str) and row["name"].strip():
-                        names[key] = row["name"].strip()
+                    if isinstance(row.get("name"), str):
+                        clean = TAG.sub("", row["name"]).strip()
+                        if clean or prefix == "SkillTag":
+                            names[key] = clean
             self.__dict__["_keywords"] = names
         return self.__dict__["_keywords"]
 
@@ -80,11 +82,19 @@ TAG_NAMES = ("i", "b", "u", "s", "color", "size", "sprite", "link", "style", "fo
              "noparse", "voffset", "line-height", "cspace", "material", "sup", "sub", "nobr", "br")
 TAG = re.compile(r"</?(?:" + "|".join(re.escape(t) for t in TAG_NAMES) + r")(?:[= ][^<>]*)?>", re.I)
 KEYWORD = re.compile(r"\[([A-Za-z][A-Za-z0-9_]*)\]")
+REDACTED = re.compile(r"■+")
 
 
-def to_markdown(text: object, keywords: dict[str, str] | None = None) -> str:
+def to_markdown(
+    text: object,
+    keywords: dict[str, str] | None = None,
+    *,
+    strip_ticking: bool = False,
+    dante: bool = False,
+) -> str:
     """Game markup → Markdown: italics/bold kept, colours/sizes dropped, ruby as ``base (reading)``,
-    ``[Keyword]`` resolved to its display name, other ``<…>`` (e.g. Dante's ticking) shown literally."""
+    ``■…`` censorship/amnesia blocks replaced with ``***``, ``[Keyword]`` resolved to its display name,
+    and (when ``strip_ticking=True``) Dante's ``<…>`` ticking brackets removed."""
     if not isinstance(text, str):
         return ""
     out = RUBY.sub(lambda m: f"{m[2]} ({m[1]})" if m[1] else m[2], text)
@@ -100,15 +110,26 @@ def to_markdown(text: object, keywords: dict[str, str] | None = None) -> str:
         return ""
 
     out = TAG.sub(tag, out)
+    out = REDACTED.sub("***", out)
     if keywords:
         def keyword(match: re.Match) -> str:
             name = keywords.get(match[1])
             if name is None:
                 return match[0]
+            if not name:
+                return ""
             return name if name.startswith("[") else f"[{name}]"
 
         out = KEYWORD.sub(keyword, out)
-    out = out.replace("\\n", "\n")
+    out = out.replace("\\n", "\n").strip()
+    if strip_ticking and out:
+        out = re.sub(r"^(\*{1,3})\s*<([^<>]*)>\s*(\1)$", lambda m: f"{m[1]}{m[2].strip()}{m[3]}", out)
+        if out.startswith("<") and out.endswith(">") and "<" not in out[1:-1] and ">" not in out[1:-1]:
+            out = out[1:-1].strip()
+        elif out.startswith("<") and ">" not in out[1:]:
+            out = out[1:].strip()
+        elif dante and out.endswith(">") and "<" not in out[:-1]:
+            out = out[:-1].strip()
     out = out.replace("<", "\\<")
     return out.strip()
 

@@ -2181,7 +2181,7 @@ When activating [Exalted Command], The Lord of Hongyuan Hong Lu gains the follow
 If Family Hierarch Candidate Ishmael is on the field, activate the following:  
 - When Family Hierarch Candidate Ishmael inflicts [Rupture] or [Rupture] Count using its Skill effects, that unit gains 3 [Poise] Potency (2 times per turn; excluding E.G.O Skills)  
 - Turn Start: Apply 1 [Attack Power Up] on Family Hierarch Candidate Ishmael. If Ishmael has 10+ [Poise] Potency, apply 1 more [Attack Power Up]  
-- After this unit uses the Skill "Obsidian Stormrider's Crescent Decapitator", Family Hierarch Candidate Ishmael uses "Crimson Spring" as Assist Attack[TabExplain] (once per turn)
+- After this unit uses the Skill "Obsidian Stormrider's Crescent Decapitator", Family Hierarch Candidate Ishmael uses "Crimson Spring" as Assist Attack (once per turn)
 
 #### Pasywka bojowa: Adept Vanguard
 
@@ -2200,7 +2200,7 @@ When activating [Exalted Command], The Lord of Hongyuan Hong Lu gains the follow
 If Family Hierarch Candidate Ishmael is on the field, activate the following:  
 - When Family Hierarch Candidate Ishmael inflicts [Rupture] or [Rupture] Count using its Skill effects, that unit gains 3 [Poise] Potency (2 times per turn; excluding E.G.O Skills)  
 - Turn Start: Apply 1 [Attack Power Up] on Family Hierarch Candidate Ishmael. If Ishmael has 10+ [Poise] Potency, apply 1 more [Attack Power Up]  
-- After this unit uses the Skill "Obsidian Stormrider's Crescent Decapitator", Family Hierarch Candidate Ishmael uses "Crimson Spring" as Assist Attack[TabExplain] (once per turn)
+- After this unit uses the Skill "Obsidian Stormrider's Crescent Decapitator", Family Hierarch Candidate Ishmael uses "Crimson Spring" as Assist Attack (once per turn)
 
 #### Pasywka bojowa: Adept Vanguard
 
@@ -2229,7 +2229,7 @@ When activating [Exalted Command], The Lord of Hongyuan Hong Lu gains the follow
 If Family Hierarch Candidate Ishmael is on the field, activate the following:  
 - When Family Hierarch Candidate Ishmael inflicts [Rupture] or [Rupture] Count using its Skill effects, that unit gains 3 [Poise] Potency (2 times per turn; excluding E.G.O Skills)  
 - Turn Start: Apply 1 [Attack Power Up] on Family Hierarch Candidate Ishmael. If Ishmael has 10+ [Poise] Potency, apply 1 more [Attack Power Up]  
-- After this unit uses the Skill "Obsidian Stormrider's Crescent Decapitator", Family Hierarch Candidate Ishmael uses "Crimson Spring" as Assist Attack[TabExplain] (once per turn)
+- After this unit uses the Skill "Obsidian Stormrider's Crescent Decapitator", Family Hierarch Candidate Ishmael uses "Crimson Spring" as Assist Attack (once per turn)
 
 #### Pasywka bojowa: Adept Vanguard
 
@@ -2485,7 +2485,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, a Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At [Unlock - II]+, the effect above prioritizes Skill 3 (prioritizes empowered Skill)  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion
 
 #### Pasywka bojowa: The Oracle's Proxy / Unlock
 
@@ -2539,7 +2539,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, a Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At [Unlock - II]+, the effect above prioritizes Skill 3 (prioritizes empowered Skill)  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion
 
 #### Pasywka bojowa: The Oracle's Proxy / Unlock
 
@@ -2603,7 +2603,7 @@ Turn Start:
 - Inflict [The Prescript's Target] to a random enemy (in Focused Encounters, a Part)  
 - Apply [Mark of the Prescript] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)  
 · At [Unlock - II]+, the effect above prioritizes Skill 3 (prioritizes empowered Skill)  
-- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]
+- All of the effects above and [Prescript] execution checks do not trigger when this unit is Staggered, Immobilized, in Panic, or in E.G.O Corrosion
 
 #### Pasywka bojowa: The Oracle's Proxy / Unlock
 

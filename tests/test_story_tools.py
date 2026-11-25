@@ -28,8 +28,10 @@ def _write(path: Path, doc: object, bom: bool = False, raw: str | None = None) -
 def _scene(lang: str, stem: str, place: bool = False) -> dict:
     rows = [{"id": -1, "content": f"Episode {stem}"},
             {"id": 0, "model": "모델", "content": f"<i>Line</i> {lang} {stem} one"},
-            {"id": 1, "content": f"Narration {lang} {stem}"},
-            {"id": 2, "teller": f"Teller {lang}", "title": f"Epithet {lang}", "content": f"<Tick {lang}>"}]
+            {"id": 1, "content": f"Narration {lang} {stem} ■■■"},
+            {"id": 2, "teller": f"Teller {lang}", "title": f"Epithet {lang}", "content": f"<Tick {lang}>"},
+            {"id": 3, "teller": "Me", "title": "■■■", "content": "<Ghaagh…! ■■■■■■>"},
+            {"id": 4, "teller": "Dante", "title": "Me", "content": "<Second tick>"}]
     if place:
         rows[1]["place"] = f"Place {lang}"
     return {"dataList": rows}
@@ -142,10 +144,20 @@ class StoryToolsTests(unittest.TestCase):
         self.assertIn("### Etap 1-1 · Stage en", text)
         self.assertIn("*Miejsce: Stage place en*", text)
         self.assertIn("#### Place en", text)
-        self.assertIn("**Model en:** *Line* en S101B one", text)
-        self.assertIn("**Teller en** (*Epithet en*): \\<Tick en>", text)
+        self.assertIn(
+            "**Model en:** *Line* en S101B one\n"
+            "Narration en S101B ***\n"
+            "**Teller en** (*Epithet en*): Tick en\n"
+            "**Ja** (***): Ghaagh…! ***\n"
+            "**Dante** (*Ja*): Second tick\n\n"
+            "<!-- S101I -->",
+            text,
+        )
+        self.assertNotIn("■", text)
+        self.assertNotIn("**Me", text)
+        self.assertNotIn("(*Me*)", text)
+        self.assertNotIn("\\<", text)
         self.assertIn("*— W trakcie walki —*", text)
-        self.assertIn("<!-- S101I -->", text)
         self.assertEqual(stats["sceny"], 5)
 
     def test_profile(self) -> None:
@@ -199,8 +211,11 @@ class StoryToolsTests(unittest.TestCase):
 
     def test_markup(self) -> None:
         self.assertEqual(to_markdown("<ruby=cannon>pao</ruby> <color=#fff>x</color> <b>y</b>"), "pao (cannon) x **y**")
-        self.assertEqual(to_markdown("[Burn]", {"Burn": "Burn"}), "[Burn]")
+        self.assertEqual(to_markdown("[Burn][TabExplain]", {"Burn": "Burn", "TabExplain": ""}), "[Burn]")
         self.assertEqual(to_markdown("<Hey>"), "\\<Hey>")
+        self.assertEqual(to_markdown("<Ghaagh…!>", strip_ticking=True), "Ghaagh…!")
+        self.assertEqual(to_markdown("<i><Are these photos?></i>", strip_ticking=True), "*Are these photos?*")
+        self.assertEqual(to_markdown("engraving the ■■■■■■ and ■■■"), "engraving the *** and ***")
 
 
 if __name__ == "__main__":

@@ -2112,16 +2112,16 @@ Moneta 2: [On Hit] Inflict 1 [Bleed]
 [On Use] Heal 5 SP  
 Moneta 1: [On Hit] Inflict +2 [Bleed] Count  
 Moneta 2: [On Hit] Inflict 1 [Bleed]  
-Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], inflict 1 [Bind] next turn (once per turn)
+Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], inflict 1 [Bind] next turn (once per turn)
 
 *Od ulepszenia 4:* Coin Power +1 for every 6 ([Burn] + [Bleed]) on target (max 2)  
 [Before Use] If this unit has [Lævateinn], activate as "I'll Gut You Like a Fish"  
-[On Use] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], convert Coin 2 into [Unbreakable Coin]  
+[On Use] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], convert Coin 2 into [Unbreakable Coin]  
 [On Use] Heal 5 SP  
 Moneta 1: [On Hit] Inflict +2 [Bleed] Count  
 Moneta 1: [On Hit] Raise Stagger Threshold by 5  
 Moneta 2: [On Hit] Inflict 1 [Bleed]  
-Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], inflict 1 [Bind] next turn (once per turn)
+Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], inflict 1 [Bind] next turn (once per turn)
 
 #### Umiejętność 2 (×2): Don't Let Somethin' Like This Break You!
 
@@ -2156,12 +2156,12 @@ Moneta 1: [On Hit] Inflict 1 [Bleed]
 Moneta 1: [On Hit] Inflict 1 [Bind] next turn (once per turn)  
 Moneta 2: [On Hit] Inflict 1 [Bleed]  
 Moneta 3: [On Hit] Inflict 1 [Bleed]  
-Moneta 3: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], deal Blunt damage equal to ([Burn] on target + [Bleed] on target)% of this Coin's final damage (max 20%)
+Moneta 3: [On Hit] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], deal Blunt damage equal to ([Burn] on target + [Bleed] on target)% of this Coin's final damage (max 20%)
 
 *Od ulepszenia 4:* Coin Power +1 for every 6 ([Burn] + [Bleed]) on target (max 2)  
 [Before Use] If this unit has [Lævateinn], activate as "Gut Stab"  
 [On Use] This Skill gains Offense Level equal to (highest Reson. / 2) (max 3, rounded down)  
-[On Use] Convert this Skill's Coins equal to [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] on this unit into [Unbreakable Coin]s, beginning with Coin 3  
+[On Use] Convert this Skill's Coins equal to [The Middle - Vengeance Tattoo [Great Sister]] on this unit into [Unbreakable Coin]s, beginning with Coin 3  
 [On Use] If this unit's sword is at [First Seal Removed] or [Second Seal Removed] stage, inflict [Burn] by the base amount of [Bleed] the Skill inflicts On Coin Hit  
 [On Use] Gain +5 [Aggro] to this Skill Slot next turn  
 Moneta 1: [On Hit] Inflict 1 [Bleed]  
@@ -2169,7 +2169,7 @@ Moneta 1: [On Hit] Inflict 1 [Bind] next turn (once per turn)
 Moneta 2: [On Hit] Inflict 1 [Bleed]  
 Moneta 2: [On Hit] Inflict 1 [Paralyze] next turn (once per turn)  
 Moneta 3: [On Hit] Inflict 1 [Bleed]  
-Moneta 3: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], deal Blunt damage equal to ([Burn] on target + [Bleed] on target)% of this Coin's final damage (max 20%)
+Moneta 3: [On Hit] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], deal Blunt damage equal to ([Burn] on target + [Bleed] on target)% of this Coin's final damage (max 20%)
 
 #### Umiejętność 3 (×1): Stamp of Vengeance
 
@@ -2181,7 +2181,7 @@ Moneta 3: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Si
 *Od ulepszenia 3:* Final Power +1 for every 4 ([Burn] + [Bleed]) on target (max 3)  
 [Before Use] If this unit has [Lævateinn], activate as "Complete and Total Extermination"  
 [On Use] This Skill gains Offense Level equal to (highest Reson.) (max 6)  
-[On Use] Final Power +1 for every [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] on self (max 3)  
+[On Use] Final Power +1 for every [The Middle - Vengeance Tattoo [Great Sister]] on self (max 3)  
 [On Use] If this unit's sword is at [First Seal Removed] or [Second Seal Removed] stage, inflict [Burn] by the base amount of [Bleed] the Skill inflicts On Coin Hit  
 [Attack End] Consume all [The Middle - Grudge] on self  
 Moneta 1: [On Hit] Inflict 2 [Bleed]  
@@ -2194,8 +2194,8 @@ Moneta 4: [On Hit] Inflict +1 [Bleed] Count
 At 6+ Envy A-Reson., Coin Power +1  
 [Before Use] If this unit has [Lævateinn], activate as "Complete and Total Extermination"  
 [On Use] This Skill gains Offense Level equal to (highest Reson.) (max 6)  
-[On Use] Final Power +1 for every [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] on self (max 3)  
-[On Use] Convert this Skill's Coins into [Unbreakable Coin]s equal to [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] on this unit, beginning with Coin 3  
+[On Use] Final Power +1 for every [The Middle - Vengeance Tattoo [Great Sister]] on self (max 3)  
+[On Use] Convert this Skill's Coins into [Unbreakable Coin]s equal to [The Middle - Vengeance Tattoo [Great Sister]] on this unit, beginning with Coin 3  
 [On Use] If this unit's sword is at [First Seal Removed] or [Second Seal Removed] stage, inflict [Burn] by the base amount of [Bleed] the Skill inflicts On Coin Hit  
 [Attack End] Consume all [The Middle - Grudge] on self  
 [Attack End] If this Skill was activated as a Counter Skill, gain 1 [Blunt DMG Up] next turn (once per turn)  
@@ -2222,12 +2222,12 @@ Moneta 1: [On Hit] Inflict +2 [Bleed] Count
 Moneta 1: [On Hit] Raise Stagger Threshold by 5  
 Moneta 2: [Unbreakable Coin]  
 Moneta 2: [On Hit] Inflict 4 [Burn] and +2 [Burn] Count  
-Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], inflict 1 [Bind] next turn (once per turn)
+Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], inflict 1 [Bind] next turn (once per turn)
 
 *Od ulepszenia 4:* [Lævateinn] Exclusive Skill  
 Coin Power +1 for every 6 ([Burn] + [Bleed]) on target (max 2)  
 [On Use] This Skill gains Offense Level equal to (highest Reson. / 2) (max 3, rounded down)  
-[On Use] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], inflict 1 [Bleed] On Coin Hit  
+[On Use] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], inflict 1 [Bleed] On Coin Hit  
 [Before Attack] Gain [Burn] equal to the number of Coins in this Skill  
 [Attack End] Lose 5 SP  
 Moneta 1: [Unbreakable Coin]  
@@ -2235,7 +2235,7 @@ Moneta 1: [On Hit] Inflict +2 [Bleed] Count
 Moneta 1: [On Hit] Raise Stagger Threshold by 10  
 Moneta 2: [Unbreakable Coin]  
 Moneta 2: [On Hit] Inflict 4 [Burn] and +2 [Burn] Count  
-Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], inflict 1 [Bind] and 1 [Paralyze] next turn (once per turn)
+Moneta 2: [On Hit] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], inflict 1 [Bind] and 1 [Paralyze] next turn (once per turn)
 
 #### Umiejętność 5 (×0): Gut Stab [Lævateinn]
 
@@ -2289,7 +2289,7 @@ Moneta 5: [On Hit] Inflict 1 [Bind] and 1 [Paralyze] next turn (once per turn)
 Final Power +1 for every 4 ([Burn] + [Bleed]) on target (max 3)  
 Deal +1% damage for every 1 ([Burn] + [Bleed]) on target (max 20%)  
 [On Use] This Skill gains Offense Level equal to (highest Reson.) (max 6)  
-[On Use] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], Coin Power +1  
+[On Use] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], Coin Power +1  
 [Before Attack] Gain [Burn] equal to the number of Coins of this Skill  
 [Attack End] Lose 5 SP  
 [Attack End] Consume all [The Middle - Grudge] on self  
@@ -2309,8 +2309,8 @@ Moneta 5: [On Hit] Deal Blunt damage equal to ([Burn] on target + [Bleed] on tar
 Final Power +1 for every 4 ([Burn] + [Bleed]) on target (max 3)  
 Deal +1% damage for every 1 ([Burn] + [Bleed]) on target (max 40%)  
 [On Use] This Skill gains Offense Level equal to (highest Reson.) (max 6)  
-[On Use] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], Coin Power +1  
-[On Use] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], inflict 1 [Bleed] Potency On Coin Hit  
+[On Use] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], Coin Power +1  
+[On Use] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], inflict 1 [Bleed] Potency On Coin Hit  
 [Before Attack] Gain [Burn] equal to the number of Coins of this Skill  
 [Attack End] Lose 5 SP  
 [Attack End] Consume all [The Middle - Grudge] on self  
@@ -2347,7 +2347,7 @@ Moneta 4: [Unbreakable Coin]
 Moneta 4: [On Hit] Inflict 2 [Envy Fragility] next turn
 
 *Od ulepszenia 3:* External effects cannot trigger this Skill to be Reused  
-[On Use] If this unit has [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]], deal Slash damage equal to (25% of each Coin's final damage) On Coin Hit  
+[On Use] If this unit has [The Middle - Vengeance Tattoo [Great Sister]], deal Slash damage equal to (25% of each Coin's final damage) On Coin Hit  
 [Attack End] Remove a seal from the sword  
 Moneta 1: [Unbreakable Coin]  
 Moneta 1: [On Hit] Inflict 3 [Burn]  
@@ -2369,7 +2369,7 @@ Moneta 4: [On Hit] Inflict 2 [Envy Fragility] next turn
 [Target Fixed]  
 External effects cannot trigger this Skill to be Reused, and this Skill does not trigger Defense Skills  
 Final Power +1 for every 4 ([Burn] + [Bleed]) on the main target (max 3)  
-[On Use] Final Power +1 and deal +10% damage for every [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] on self (max 3, max 100%)  
+[On Use] Final Power +1 and deal +10% damage for every [The Middle - Vengeance Tattoo [Great Sister]] on self (max 3, max 100%)  
 [On Use] If The House of Spiders: The Middle Apprentice Ishmael is among targets, deal +100% damage  
 [Attack End] Consume all [The Middle - Grudge] on self and gain 5 [The Middle - Grudge]  
 [Attack End] If a targeted ally is killed, gain 10 [The Middle - Grudge]  
@@ -2501,7 +2501,7 @@ If the following conditions are met during the Combat Phase, gain 1 [The Middle 
   
 When this unit gains [The Middle - Grudge], if the target has [Vengeance Mark], gain an additional Stack of [The Middle - Grudge]  
   
-Gain 1 [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] every time this unit consumes 5 [The Middle - Grudge]  
+Gain 1 [The Middle - Vengeance Tattoo [Great Sister]] every time this unit consumes 5 [The Middle - Grudge]  
   
 【Effects apply only to The House of Spiders: The Middle Apprentice Ishmael】  
 When The House of Spiders: The Middle Nursefather Outis is hit by another unit's Skill, Ishmael gains 2 [The Middle - Grudge] (once per turn)
@@ -2591,7 +2591,7 @@ If the following conditions are met during the Combat Phase, gain 1 [The Middle 
   
 When this unit gains [The Middle - Grudge], if the target has [Vengeance Mark], gain an additional Stack of [The Middle - Grudge]  
   
-Gain 1 [The Middle - Vengeance Tattoo [\<s>Great Sister\</s>]] every time this unit consumes 5 [The Middle - Grudge]  
+Gain 1 [The Middle - Vengeance Tattoo [Great Sister]] every time this unit consumes 5 [The Middle - Grudge]  
   
 【Effects apply only to The House of Spiders: The Middle Apprentice Ishmael】  
 When The House of Spiders: The Middle Nursefather Outis is hit by another unit's Skill, Ishmael gains 2 [The Middle - Grudge] (once per turn)
@@ -2680,14 +2680,14 @@ Moneta 3: [On Crit] Inflict +1 [Tremor] Count
 | 1 | Sloth | Pierce | 4 | +5 | 2 | +3 | 1 |
 | 3 | Sloth | Pierce | 4 | +6 | 2 | +3 | 1 |
 
-*Od ulepszenia 1:* [Combat Start] Apply 1 [Pierce DMG Up] to all allied "Wedge Office[TabExplain]" Identities, including this unit (once per turn)  
+*Od ulepszenia 1:* [Combat Start] Apply 1 [Pierce DMG Up] to all allied "Wedge Office" Identities, including this unit (once per turn)  
 [On Use] If the other Skill in the same Skill Slot is "High-speed Stabbing", Discard that Skill  
 [On Use] Gain +2 [Poise] Count  
 Moneta 1: [On Hit] Gain 3 [Poise]  
 Moneta 2: [On Hit] Inflict 2 [Tremor] and +1 [Tremor] Count  
 Moneta 2: [On Crit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1
 
-*Od ulepszenia 2:* [Combat Start] Apply 1 [Pierce DMG Up] to all allied "Wedge Office[TabExplain]" Identities, including this unit (once per turn)  
+*Od ulepszenia 2:* [Combat Start] Apply 1 [Pierce DMG Up] to all allied "Wedge Office" Identities, including this unit (once per turn)  
 [On Use] If the other Skill in the same Skill Slot is "High-speed Stabbing", Discard that Skill  
 [On Use] At 6+ ([Poise] Potency on self + [Tremor] Potency on target), Coin Power +1  
 [On Use] Final Power +1 for every [Wedge Office] on self (max 3)  
@@ -2696,7 +2696,7 @@ Moneta 1: [On Hit] Gain 3 [Poise]
 Moneta 2: [On Hit] Inflict 2 [Tremor] and +1 [Tremor] Count  
 Moneta 2: [On Crit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1
 
-*Od ulepszenia 4:* [Combat Start] Apply 1 [Pierce DMG Up] to all allied "Wedge Office[TabExplain]" Identities, including this unit (once per turn)  
+*Od ulepszenia 4:* [Combat Start] Apply 1 [Pierce DMG Up] to all allied "Wedge Office" Identities, including this unit (once per turn)  
 [On Use] If the other Skill in the same Skill Slot is "High-speed Stabbing", Discard that Skill  
 [On Use] Coin Power +1 for every 6 ([Poise] Potency on self + [Tremor] Potency on target) (max 2)  
 [On Use] Final Power +1 for every [Wedge Office] on self (max 3)  
@@ -2716,7 +2716,7 @@ Moneta 2: [On Crit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count
 [On Use] Gain 2 [Poise]  
 [On Use] Gain +3 [Poise] Count  
   
-[Joint Combo]: Dawn Office[TabExplain] Rep Gregor  
+[Joint Combo]: Dawn Office Rep Gregor  
 - [On Use] Gain 1 [Dawn's Camaraderie] (once per Skill)  
 Moneta 1: [Unbreakable Coin]  
 Moneta 1: If target is in either [Amplitude Conversion] or [Amplitude Entanglement] states, this Coin deals +50% damage  
@@ -2725,7 +2725,7 @@ Moneta 1: [On Hit] Inflict 2 [Tremor]
 Moneta 1: [On Hit] Inflict +2 [Tremor] Count  
 Moneta 1: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 1: [On Hit] Deal Pierce damage equal to 100% of this Coin's final damage  
-Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor  
+Moneta 1: [Joint Combo]: Dawn Office Rep Gregor  
 - Deal +30% damage  
 - [On Hit] Inflict +2 [Tremor] Count
 
@@ -2736,7 +2736,7 @@ Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor
 [On Use] Gain 2 [Poise]  
 [On Use] Gain +3 [Poise] Count  
   
-[Joint Combo]: Dawn Office[TabExplain] Rep Gregor  
+[Joint Combo]: Dawn Office Rep Gregor  
 - [On Use] Gain 1 [Dawn's Camaraderie] (once per Skill)  
 Moneta 1: [Unbreakable Coin]  
 Moneta 1: If target is in either [Amplitude Conversion] or [Amplitude Entanglement] states, this Coin deals +50% damage  
@@ -2746,7 +2746,7 @@ Moneta 1: [On Hit] Inflict +2 [Tremor] Count
 Moneta 1: [On Hit] Inflict 2 [Pierce Fragility] (once per turn)  
 Moneta 1: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 1: [On Hit] Deal Pierce damage equal to 100% of this Coin's final damage  
-Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor  
+Moneta 1: [Joint Combo]: Dawn Office Rep Gregor  
 - Deal +30% damage  
 - [On Hit] Inflict +2 [Tremor] Count
 
@@ -2762,14 +2762,14 @@ Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor
 [On Use] Gain +3 [Poise] Count  
 [Attack End]  
 - Consume 25 [Momentum] on self  
-- Apply 1 [Pierce Power Up] next turn to other allied "Wedge Office[TabExplain]" Identities  
+- Apply 1 [Pierce Power Up] next turn to other allied "Wedge Office" Identities  
 - Gain 1 [Dawn's Camaraderie]  
 Moneta 1: [On Hit] Inflict +3 [Tremor] Count  
-Moneta 1: [Joint Combo]: Wedge Office[TabExplain] Fixer Don Quixote  
+Moneta 1: [Joint Combo]: Wedge Office Fixer Don Quixote  
 - Deal +30% damage  
 - On final Coin Hit, trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 2: [On Hit] Inflict 2 [Tremor]  
-Moneta 2: [Joint Combo]: Wedge Office[TabExplain] Fixer Sinclair  
+Moneta 2: [Joint Combo]: Wedge Office Fixer Sinclair  
 - Deal +30% damage  
 - On final Coin Hit, trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 3: Deal +30% damage on Critical Hit  
@@ -2786,29 +2786,29 @@ Moneta 3: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count 
 [On Use] Final Power +1 for every 8 [Tremor] Potency on target (max 2)  
 [On Use]  
 - Gain +3 [Poise] Count  
-- Gain Atk Weight equal to the number of other non-immobilized[TabExplain] allied "Wedge Office[TabExplain]" Identities (max 2)  
+- Gain Atk Weight equal to the number of other non-immobilized allied "Wedge Office" Identities (max 2)  
 [On Use] Deal +60% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)  
 [Attack End]  
 - Consume all [Dawn's Camaraderie] on self  
 Moneta 1: [On Hit] Inflict +3 [Tremor] Count  
 Moneta 1: [On Hit] Trigger [Amplitude Entanglement] into [Tremor - Decay]  
 Moneta 1: [On Hit] Deal Pierce damage equal to 15% of this Coin's final damage  
-Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Fixer Faust  
+Moneta 1: [Joint Combo]: Dawn Office Fixer Faust  
 - Deal +20% damage  
 - [On Hit] Inflict 3 [Burn]  
 - [On Hit] Trigger [Amplitude Conversion] into [Tremor - Scorch]  
 Moneta 2: [On Hit] Inflict 1 [Tremor]  
 Moneta 2: [On Hit] Deal Pierce damage equal to 15% of this Coin's final damage  
-Moneta 2: [Joint Combo]: Wedge Office[TabExplain] Fixer Don Quixote  
+Moneta 2: [Joint Combo]: Wedge Office Fixer Don Quixote  
 - Deal +20% damage on Critical Hit  
 - [On Hit] Inflict 2 [Tremor]  
-Moneta 2: [Joint Combo]: Wedge Office[TabExplain] Fixer Sinclair  
+Moneta 2: [Joint Combo]: Wedge Office Fixer Sinclair  
 - Deal +20% damage on Critical Hit  
 - [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 3: [On Hit] Inflict 2 [Tremor]  
 Moneta 3: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 3: [On Hit] Deal Pierce damage equal to 15% of this Coin's final damage  
-Moneta 3: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor  
+Moneta 3: [Joint Combo]: Dawn Office Rep Gregor  
 - Deal +20% damage  
 - [On Hit] Inflict 2 [Burn]  
 - [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
@@ -2824,28 +2824,28 @@ Moneta 3: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor
 [On Use] Final Power +1 for every 8 [Tremor] Potency on target (max 2)  
 [On Use]  
 - Gain +3 [Poise] Count  
-- Gain Atk Weight equal to the number of other non-immobilized[TabExplain] allied "Wedge Office[TabExplain]" Identities (max 2)  
+- Gain Atk Weight equal to the number of other non-immobilized allied "Wedge Office" Identities (max 2)  
 [On Use] Deal +60% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)  
 [Clash Win] Trigger [Amplitude Entanglement] into [Tremor - Decay]  
 [Attack End]  
 - Consume all [Dawn's Camaraderie] on self  
 Moneta 1: [On Hit] Inflict +3 [Tremor] Count  
 Moneta 1: [On Hit] Deal Pierce damage equal to 20% of this Coin's final damage  
-Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Fixer Faust  
+Moneta 1: [Joint Combo]: Dawn Office Fixer Faust  
 - Deal +20% damage  
 - [On Hit] Inflict 3 [Burn]  
 - [On Hit] Trigger [Amplitude Conversion] into [Tremor - Scorch]  
-Moneta 1: [Joint Combo]: Dawn Office[TabExplain] Rep Gregor  
+Moneta 1: [Joint Combo]: Dawn Office Rep Gregor  
 - Deal +20% damage  
 - [On Hit] Inflict 2 [Burn]  
 - [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 - [On Hit] Activate [Burn] on target. Target loses 1 [Burn] Count  
 Moneta 2: [On Hit] Inflict 1 [Tremor]  
 Moneta 2: [On Hit] Deal Pierce damage equal to 20% of this Coin's final damage  
-Moneta 2: [Joint Combo]: Wedge Office[TabExplain] Fixer Don Quixote  
+Moneta 2: [Joint Combo]: Wedge Office Fixer Don Quixote  
 - Deal +20% damage on Critical Hit  
 - [On Hit] Inflict 2 [Tremor]  
-Moneta 2: [Joint Combo]: Wedge Office[TabExplain] Fixer Sinclair  
+Moneta 2: [Joint Combo]: Wedge Office Fixer Sinclair  
 - Deal +20% damage on Critical Hit  
 - [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1  
 Moneta 3: Deal +100% damage on Critical Hit  
@@ -2903,7 +2903,7 @@ In this Encounter, when this unit takes damage that brings its HP down to 0, app
 
 *od ulepszenia 1*
 
-Turn Start: If there are 2+ allied "Wedge Office[TabExplain]" Identities (including this unit) on the field, apply [Wedge Office] Stack on all allied "Wedge Office[TabExplain]" Identities equal to the number of the said Identities on the field
+Turn Start: If there are 2+ allied "Wedge Office" Identities (including this unit) on the field, apply [Wedge Office] Stack on all allied "Wedge Office" Identities equal to the number of the said Identities on the field
 
 #### Pasywka bojowa: Unrelenting
 
@@ -2918,7 +2918,7 @@ In this Encounter, when this unit takes damage that brings its HP down to 0, app
 
 *od ulepszenia 2*
 
-Turn Start: If there are 2+ allied "Wedge Office[TabExplain]" Identities (including this unit) on the field, apply [Wedge Office] Stack on all allied "Wedge Office[TabExplain]" Identities equal to the number of the said Identities on the field
+Turn Start: If there are 2+ allied "Wedge Office" Identities (including this unit) on the field, apply [Wedge Office] Stack on all allied "Wedge Office" Identities equal to the number of the said Identities on the field
 
 #### Pasywka bojowa: Wedge-style Spearmanship
 
@@ -2940,14 +2940,14 @@ In this Encounter, when this unit takes damage that brings its HP down to 0, app
 
 *od ulepszenia 3*
 
-Turn Start: If there are 2+ allied "Wedge Office[TabExplain]" Identities (including this unit) on the field, apply [Wedge Office] Stack on all allied "Wedge Office[TabExplain]" Identities equal to the number of the said Identities on the field
+Turn Start: If there are 2+ allied "Wedge Office" Identities (including this unit) on the field, apply [Wedge Office] Stack on all allied "Wedge Office" Identities equal to the number of the said Identities on the field
 
 #### Pasywka bojowa: Assistance of the Wedge
 
 *od ulepszenia 3*
 
 On Skill Use by an allied Identity (including this unit), gain 1 [Momentum] (once per turn per Identity)  
-On Clash Win by an allied "Wedge Office[TabExplain]" or "Dawn Office[TabExplain]" Identity, gain 2 [Momentum] (once per turn per Identity)  
+On Clash Win by an allied "Wedge Office" or "Dawn Office" Identity, gain 2 [Momentum] (once per turn per Identity)  
   
 At this unit's Attack End, if this unit has 25+ [Momentum], use "Assume Wedge Formation" (once per turn)
 
@@ -2955,10 +2955,10 @@ At this unit's Attack End, if this unit has 25+ [Momentum], use "Assume Wedge Fo
 
 *od ulepszenia 3*
 
-Apply the following when allied Dawn Office[TabExplain] Rep Gregor Identity uses the "Crack of Dawn" Skill:  
-- [Joint Combo]: Wedge Office[TabExplain] Rep Outis  
+Apply the following when allied Dawn Office Rep Gregor Identity uses the "Crack of Dawn" Skill:  
+- [Joint Combo]: Wedge Office Rep Outis  
  · [On Use] Deal +30% damage  
- · [On Use] Allied Wedge Office[TabExplain] Rep Outis gains 1 [Dawn's Camaraderie]  
+ · [On Use] Allied Wedge Office Rep Outis gains 1 [Dawn's Camaraderie]  
   
 Turn Start: Convert one of this unit's Base Skills based on [Dawn's Camaraderie] Stack on self  
  · At 4 [Dawn's Camaraderie], convert the said Skill into "... All units, engage for collision."  

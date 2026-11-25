@@ -1072,14 +1072,14 @@ Moneta 3: [On Hit] Inflict +1 [Burn] Count
 | 3 | Wrath | Pierce | 4 | +7 | 2 | +3 | 1 |
 
 *Od ulepszenia 3:* If target has 10+ [Burn], Coin Power +1  
-When in a Volatile E.G.O State, activate Blazing[TabExplain] Strike instead  
+When in a Volatile E.G.O State, activate Blazing Strike instead  
 [Clash Win] Heal 10 SP  
 [Clash Lose] Lose 10 SP  
 Moneta 1: [On Hit] Inflict 3 [Burn]  
 Moneta 2: [On Hit] Inflict 3 [Burn]
 
 *Od ulepszenia 4:* Coin Power +1 for every 7 [Burn] on target (max 2)  
-When in a Volatile E.G.O state, activate Blazing[TabExplain] Strike instead  
+When in a Volatile E.G.O state, activate Blazing Strike instead  
 [Clash Win] Heal 10 SP  
 [Clash Lose] Lose 10 SP  
 Moneta 1: [On Hit] Inflict 3 [Burn]  

@@ -934,7 +934,7 @@ Moneta 2: [Heads Hit] Gain 1 [Poise]
 Moneta 1: [On Hit] Gain 1 [Poise]  
 Moneta 2: [On Hit] Gain 1 [Poise]
 
-*Od ulepszenia 3:* [\<color=#93f13e>[Combat Start]\</color>] Apply 1 [Sword of the Homeland - Rending] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
+*Od ulepszenia 3:* [Combat Start] Apply 1 [Sword of the Homeland - Rending] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
 [On Use] Gain +2 [Poise] Count  
 Moneta 1: [On Hit] Gain 1 [Poise]  
 Moneta 2: [On Hit] Gain 1 [Poise]
@@ -964,7 +964,7 @@ Moneta 3: +30% Damage on Critical Hit
 Moneta 1: [On Hit] Gain 3 [Poise]  
 Moneta 3: +40% Damage on Critical Hit
 
-*Od ulepszenia 3:* [\<color=#93f13e>[Combat Start]\</color>] Apply 1 [Sword of the Homeland - Penetrating] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
+*Od ulepszenia 3:* [Combat Start] Apply 1 [Sword of the Homeland - Penetrating] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)  
 [On Use] Gain +2 [Poise] Count  
 [Clash Win] Gain 1 Slash Power Up next turn  
 Moneta 1: [On Hit] Gain 3 [Poise]  

@@ -920,7 +920,7 @@ Moneta 1: [Heads Hit] Inflict +1 [Bleed] Count
 [Clash Win] Inflict 1 [Bleed]  
 Moneta 1: [On Hit] Inflict +1 [Bleed] Count
 
-*Od ulepszenia 3:* [\<color=#26cfff>[On Use]\</color>] If target has 7+ [Bleed], Clash Power +1  
+*Od ulepszenia 3:* [On Use] If target has 7+ [Bleed], Clash Power +1  
 [Clash Win] Inflict 1 [Bleed]  
 Moneta 1: [On Hit] Inflict +1 [Bleed] Count
 
@@ -2560,7 +2560,7 @@ Moneta 3: [On Hit] Inflict +1 [Tremor] Count
 | 3 | Wrath | Slash | 4 | +3 | 4 | +4 | 1 |
 
 *Od ulepszenia 3:* [Combat Start] Apply 2 [Protection] on 2 random other allies  
-(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office[TabExplain] allies)  
+(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office allies)  
 [Before Use] At 30 [Light of Daybreak], activate "Crack of Dawn" instead (once per turn)  
 [On Use] At 20+ [Light of Daybreak], activate the following effects:  
 - Final Power +1  
@@ -2576,7 +2576,7 @@ Moneta 4: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count 
 
 *Od ulepszenia 4:* Deal +([Burn] on self + [Burn] on target)% damage (max 30%)  
 [Combat Start] Apply 2 [Protection] on 2 random other allies  
-(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office[TabExplain] allies)  
+(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office allies)  
 [Before Use] At 30 [Light of Daybreak], activate "Crack of Dawn" instead (once per turn)  
 [On Use] Coin Power +1 for every 6 ([Burn] + [Tremor]) on target (max 2)  
 [On Use] At 20+ [Light of Daybreak], activate the following effects:  
@@ -2600,7 +2600,7 @@ Moneta 4: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count 
 
 *Od ulepszenia 3:* Deal +50% damage for every excess Atk Weight beyond the # of actual targets (for Focused Encounters, Parts)  
 [On Use] Apply 2 [Protection] next turn on 2 random other allies  
-(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office[TabExplain] allies)  
+(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office allies)  
 [On Use] At 15+ [Burn], Coin Power +1  
 [Attack End] Activate the following effects:  
 - Apply 3 [Dawnherald] next turn on all allies  
@@ -2620,7 +2620,7 @@ Moneta 4: [On Hit] Activate [Burn] on target; then, reduce target's [Burn] Count
 
 *Od ulepszenia 4:* Deal +75% damage for every excess Atk Weight beyond the # of actual targets (for Focused Encounters, Parts)  
 [On Use] Apply 2 [Protection] next turn on 2 random other allies  
-(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office[TabExplain] allies)  
+(prioritize allies that do not have [Protection]; among them, prioritize Dawn Office allies)  
 [On Use] At 15+ [Burn], Coin Power +1  
 [On Use] Coin Power +1 for every 6 ([Burn] + [Tremor]) on the main target (max 2)  
 [Attack End] Activate the following effects:  
@@ -2717,12 +2717,12 @@ Take -50% damage from [Burn] effects (rounded down)
 
 *od ulepszenia 1*
 
-Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office[TabExplain] Identities (including this unit) on the field, apply [Dawn Office] Stack on all Dawn Office[TabExplain] Identities equal to the number of Dawn Office[TabExplain] Identities on the field  
+Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office Identities (including this unit) on the field, apply [Dawn Office] Stack on all Dawn Office Identities equal to the number of Dawn Office Identities on the field  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:  
-- Dawn Office[TabExplain] Fixer Sinclair gains [From Dawnbreak to Sunset]  
-- Turn Start: If Dawn Office[TabExplain] Rep Gregor is defeated, convert [From Dawnbreak to Sunset] on Dawn Office[TabExplain] Fixer Sinclair into [Blazing Sunset]  
-- Turn Start: If Dawn Office[TabExplain] Fixer Sinclair has less than 50% HP, apply [Escape Apparatus] on that unit (once per Encounter)
+If Dawn Office Fixer Sinclair is on the field, activate the following effects:  
+- Dawn Office Fixer Sinclair gains [From Dawnbreak to Sunset]  
+- Turn Start: If Dawn Office Rep Gregor is defeated, convert [From Dawnbreak to Sunset] on Dawn Office Fixer Sinclair into [Blazing Sunset]  
+- Turn Start: If Dawn Office Fixer Sinclair has less than 50% HP, apply [Escape Apparatus] on that unit (once per Encounter)
 
 #### Pasywka bojowa: The Fixer at the Crack of Dawn
 
@@ -2738,25 +2738,25 @@ Take -50% damage from [Burn] effects (rounded down)
 
 *od ulepszenia 2*
 
-Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office[TabExplain] Identities (including this unit) on the field, apply [Dawn Office] Stack on all Dawn Office[TabExplain] Identities equal to the number of Dawn Office[TabExplain] Identities on the field  
+Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office Identities (including this unit) on the field, apply [Dawn Office] Stack on all Dawn Office Identities equal to the number of Dawn Office Identities on the field  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:  
-- Dawn Office[TabExplain] Fixer Sinclair gains [From Dawnbreak to Sunset]  
-- Turn Start: If Dawn Office[TabExplain] Rep Gregor is defeated, convert [From Dawnbreak to Sunset] on Dawn Office[TabExplain] Fixer Sinclair into [Blazing Sunset]  
-- Turn Start: If Dawn Office[TabExplain] Fixer Sinclair has less than 50% HP, apply [Escape Apparatus] on that unit (once per Encounter)
+If Dawn Office Fixer Sinclair is on the field, activate the following effects:  
+- Dawn Office Fixer Sinclair gains [From Dawnbreak to Sunset]  
+- Turn Start: If Dawn Office Rep Gregor is defeated, convert [From Dawnbreak to Sunset] on Dawn Office Fixer Sinclair into [Blazing Sunset]  
+- Turn Start: If Dawn Office Fixer Sinclair has less than 50% HP, apply [Escape Apparatus] on that unit (once per Encounter)
 
 #### Pasywka bojowa: Morgenfeuer [Stigma Workshop]
 
 *od ulepszenia 2; posiadane 2× Wrath, posiadane 2× Sloth*
 
-When other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Rep Gregor uses the "Flash of Sunup" Skill against the targeted enemy (once per turn per Identity)  
+When other Dawn Office Identities meet the following conditions, Dawn Office Rep Gregor uses the "Flash of Sunup" Skill against the targeted enemy (once per turn per Identity)  
 - At Base Skill Attack End: If the enemy that was hit is Staggered, use "Flash of Sunup" against said enemy  
 (Does not activate if the said enemy was already Staggered Before Attack of the said Skill)  
 - At Attack End of the following Skills, use "Flash of Sunup" on the enemy they hit (prioritizes Staggered targets):  
-  · Dawn Office[TabExplain] Fixer Faust's "Eject", "Eject - High Noon[TabExplain]", and "Dismemberment at High Noon[TabExplain]"  
-  · Dawn Office[TabExplain] Fixer Sinclair's "Stigmatize" and "Blazing[TabExplain] Strike"  
+  · Dawn Office Fixer Faust's "Eject", "Eject - High Noon", and "Dismemberment at High Noon"  
+  · Dawn Office Fixer Sinclair's "Stigmatize" and "Blazing Strike"  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Coins added to Dawn Office[TabExplain] Rep Gregor's Base Skills, deal additional Wrath damage equal to [Burn] on targeted enemy (max 10; max 20 per turn)  
+If Dawn Office Fixer Sinclair is on the field: On Hit using Coins added to Dawn Office Rep Gregor's Base Skills, deal additional Wrath damage equal to [Burn] on targeted enemy (max 10; max 20 per turn)  
 - Counts as activating [Burn]
 
 #### Pasywka bojowa: The Fixer at the Crack of Dawn
@@ -2773,12 +2773,12 @@ Take -50% damage from [Burn] effects (rounded down)
 
 *od ulepszenia 3*
 
-Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office[TabExplain] Identities (including this unit) on the field, apply [Dawn Office] Stack on all Dawn Office[TabExplain] Identities equal to the number of Dawn Office[TabExplain] Identities on the field  
+Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office Identities (including this unit) on the field, apply [Dawn Office] Stack on all Dawn Office Identities equal to the number of Dawn Office Identities on the field  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:  
-- Dawn Office[TabExplain] Fixer Sinclair gains [From Dawnbreak to Sunset]  
-- Turn Start: If Dawn Office[TabExplain] Rep Gregor is defeated, convert [From Dawnbreak to Sunset] on Dawn Office[TabExplain] Fixer Sinclair into [Blazing Sunset]  
-- Turn Start: If Dawn Office[TabExplain] Fixer Sinclair has less than 50% HP, apply [Escape Apparatus] on that unit (once per Encounter)
+If Dawn Office Fixer Sinclair is on the field, activate the following effects:  
+- Dawn Office Fixer Sinclair gains [From Dawnbreak to Sunset]  
+- Turn Start: If Dawn Office Rep Gregor is defeated, convert [From Dawnbreak to Sunset] on Dawn Office Fixer Sinclair into [Blazing Sunset]  
+- Turn Start: If Dawn Office Fixer Sinclair has less than 50% HP, apply [Escape Apparatus] on that unit (once per Encounter)
 
 #### Pasywka bojowa: Morgenfeuer [Stigma Workshop]
 
@@ -2786,14 +2786,14 @@ If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the followin
 
 When this unit has [Dawnherald], gain 2 [Light of Daybreak] On Hit using Base Attack Skills  
   
-When other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Rep Gregor uses the "Flash of Sunup" Skill against the targeted enemy (once per turn per Identity)  
+When other Dawn Office Identities meet the following conditions, Dawn Office Rep Gregor uses the "Flash of Sunup" Skill against the targeted enemy (once per turn per Identity)  
 - At Base Skill Attack End: If the enemy that was hit is Staggered, use "Flash of Sunup" against said enemy  
 (Does not activate if the said enemy was already Staggered Before Attack of the said Skill)  
 - At Attack End of the following Skills, use "Flash of Sunup" on the enemy they hit (prioritizes Staggered targets):  
-  · Dawn Office[TabExplain] Fixer Faust's "Eject", "Eject - High Noon[TabExplain]", and "Dismemberment at High Noon[TabExplain]"  
-  · Dawn Office[TabExplain] Fixer Sinclair's "Stigmatize" and "Blazing[TabExplain] Strike"  
+  · Dawn Office Fixer Faust's "Eject", "Eject - High Noon", and "Dismemberment at High Noon"  
+  · Dawn Office Fixer Sinclair's "Stigmatize" and "Blazing Strike"  
   
-If Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Coins added to Dawn Office[TabExplain] Rep Gregor's Base Skills, deal additional Wrath damage equal to [Burn] on the targeted enemy (max 10; max 20 per turn)  
+If Dawn Office Fixer Sinclair is on the field: On Hit using Coins added to Dawn Office Rep Gregor's Base Skills, deal additional Wrath damage equal to [Burn] on the targeted enemy (max 10; max 20 per turn)  
 - Counts as activating [Burn]
 
 #### Pasywka wsparcia: Stigma Workshop Prosthesis
