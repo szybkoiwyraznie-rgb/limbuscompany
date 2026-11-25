@@ -8,6 +8,7 @@ import contextlib
 import io
 import json
 from pathlib import Path
+import struct
 import tempfile
 import unittest
 import zipfile
@@ -420,12 +421,14 @@ class LangPipelineTests(unittest.TestCase):
                     }
                     self.assertEqual(src_addrs, out_addrs, logical)
 
-    def test_optional_font_slots_keep_five_key_config(self) -> None:
+    def test_font_slots_filter_non_fonts_and_enforce_required_directories(self) -> None:
         fonts_dir = self.root / "fonts"
         (fonts_dir / "Title").mkdir(parents=True)
         (fonts_dir / "Context").mkdir(parents=True)
         (fonts_dir / "Title" / "SyntheticTitle.otf").write_bytes(b"SYNTH_TITLE")
+        (fonts_dir / "Title" / "00_notes.txt").write_text("must not enter Font/Title\n", encoding="utf-8")
         (fonts_dir / "Context" / "SyntheticContext.ttf").write_bytes(b"SYNTH_CONTEXT")
+        (fonts_dir / "Context" / "README.md").write_text("must not enter Font/Context\n", encoding="utf-8")
         (fonts_dir / "OFL-LICENSE.txt").write_text("Synthetic OFL\n", encoding="utf-8")
 
         out_zip = self.root / "dist" / "LCB_PL_Polski_fonts.zip"
@@ -438,6 +441,7 @@ class LangPipelineTests(unittest.TestCase):
             out_zip=out_zip,
         )
         with zipfile.ZipFile(out_zip) as zf:
+            names = set(zf.namelist())
             cfg = json.loads(zf.read("LimbusCompany_Data/Lang/config.json").decode("utf-8"))
             self.assertEqual(
                 cfg,
@@ -457,14 +461,88 @@ class LangPipelineTests(unittest.TestCase):
                 zf.read("LimbusCompany_Data/Lang/Polski/Font/Context/SyntheticContext.ttf"),
                 b"SYNTH_CONTEXT",
             )
-            self.assertIn(
-                "LimbusCompany_Data/Lang/Polski/Font/OFL-LICENSE.txt",
-                zf.namelist(),
-            )
+            self.assertNotIn("LimbusCompany_Data/Lang/Polski/Font/Title/00_notes.txt", names)
+            self.assertNotIn("LimbusCompany_Data/Lang/Polski/Font/Context/README.md", names)
+            self.assertIn("LICENCJE_CZCIONEK/OFL-LICENSE.txt", names)
+            self.assertNotIn("LimbusCompany_Data/Lang/Polski/Font/OFL-LICENSE.txt", names)
             manifest = json.loads(zf.read("MANIFEST.json").decode("utf-8"))
             self.assertFalse(manifest["fonts"]["uses_default_game_font"])
             self.assertEqual(manifest["fonts"]["bundled_title_font"], "Font/Title/SyntheticTitle.otf")
             self.assertEqual(manifest["fonts"]["bundled_context_font"], "Font/Context/SyntheticContext.ttf")
+
+        # Missing Font/Title or Font/Context must fail fast unless require_fonts=False
+        empty_fonts = self.root / "empty_fonts"
+        empty_fonts.mkdir()
+        with self.assertRaises(ValueError):
+            build_lang.build_lang_pack(
+                localize_path=self.snap,
+                index_manifest_path=self.manifest_path,
+                tlumaczenie_dir=self.root / "empty_tlum",
+                fonts_dir=empty_fonts,
+                lang_name="Polski",
+                out_zip=self.root / "dist" / "should_fail.zip",
+            )
+
+    def test_repository_ofl_fonts_cover_all_polish_glyphs(self) -> None:
+        repo_fonts = build_lang.ROOT / "assets" / "fonts"
+        title_fonts = [
+            p for p in (repo_fonts / "Title").iterdir()
+            if p.is_file() and p.suffix.lower() in {".ttf", ".otf"}
+        ]
+        context_fonts = [
+            p for p in (repo_fonts / "Context").iterdir()
+            if p.is_file() and p.suffix.lower() in {".ttf", ".otf"}
+        ]
+        self.assertGreaterEqual(len(title_fonts), 1)
+        self.assertGreaterEqual(len(context_fonts), 1)
+        self.assertTrue((repo_fonts / "OFL-Mikodacs.txt").is_file())
+        self.assertTrue((repo_fonts / "OFL-Pretendard.txt").is_file())
+
+        required = set("ąćęłńóśźżĄĆĘŁŃÓŚŹŻ„”«»–—…•")
+        for font_path in title_fonts + context_fonts:
+            data = font_path.read_bytes()
+            _, num_tables = struct.unpack_from(">4sH", data, 0)
+            tables = {
+                struct.unpack_from(">4sIII", data, 12 + i * 16)[0].decode("latin1"): struct.unpack_from(
+                    ">4sIII", data, 12 + i * 16
+                )[2]
+                for i in range(num_tables)
+            }
+            cmap_off = tables["cmap"]
+            _, num_sub = struct.unpack_from(">HH", data, cmap_off)
+            cps: set[int] = set()
+            for i in range(num_sub):
+                _, _, sub_off = struct.unpack_from(">HHI", data, cmap_off + 4 + i * 8)
+                p = cmap_off + sub_off
+                fmt = struct.unpack_from(">H", data, p)[0]
+                if fmt == 4:
+                    seg_count = struct.unpack_from(">H", data, p + 6)[0] // 2
+                    end_count = struct.unpack_from(f">{seg_count}H", data, p + 14)
+                    start_count = struct.unpack_from(f">{seg_count}H", data, p + 16 + seg_count * 2)
+                    id_delta = struct.unpack_from(f">{seg_count}h", data, p + 16 + seg_count * 4)
+                    iro_pos = p + 16 + seg_count * 6
+                    iro = struct.unpack_from(f">{seg_count}H", data, iro_pos)
+                    for s in range(seg_count):
+                        if start_count[s] == 0xFFFF:
+                            continue
+                        for c in range(start_count[s], end_count[s] + 1):
+                            if iro[s] == 0:
+                                gid = (c + id_delta[s]) & 0xFFFF
+                            else:
+                                roff = iro_pos + s * 2 + iro[s] + (c - start_count[s]) * 2
+                                gid = struct.unpack_from(">H", data, roff)[0]
+                                if gid != 0:
+                                    gid = (gid + id_delta[s]) & 0xFFFF
+                            if gid != 0:
+                                cps.add(c)
+                elif fmt == 12:
+                    n_groups = struct.unpack_from(">I", data, p + 12)[0]
+                    for g in range(n_groups):
+                        sc, ec, sg = struct.unpack_from(">III", data, p + 16 + g * 12)
+                        if sg != 0:
+                            cps.update(range(sc, ec + 1))
+            missing = sorted(ch for ch in required if ord(ch) not in cps)
+            self.assertEqual(missing, [], f"{font_path.name} missing Polish glyphs: {missing}")
 
 
 if __name__ == "__main__":

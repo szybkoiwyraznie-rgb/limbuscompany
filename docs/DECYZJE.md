@@ -150,7 +150,7 @@ Polecenie właściciela (zamyka O-01) oraz uściślenie po pierwszym teście w g
 |---|---|---|---|
 | ~~O-01~~ | ~~Nazwa języka w `config.json` / folderu (`Polski`? `PL`?)~~ | — | **zamknięte 2026-11-25: `Polski`** → D-09 |
 | ~~O-02~~ | ~~Kolejność prac / zakres pierwszego pakietu~~ | — | **zamknięte 2026-11-25: od razu cała gra (`sceny.zip` + `widoki.zip`, 100% tekstów z kontekstem)** → D-08 |
-| O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | test w grze (`LCB_TEST_DROGI_Polski_26652290_v2.zip`) | wykrycie `Lang/Polski/` potwierdzone w grze (`E-010`); czeka na sprawdzenie 18 polskich liter po aktywacji `Polski` i restarcie — **najpierw bez własnych czcionek**, zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
+| O-03 | Czcionki i wyświetlanie polskich znaków w `Lang/Polski/` | test w grze (`LCB_TEST_DROGI_Polski_26652290_v3.zip`) | drugi test w grze (`E-011`, `v.1.119.1`) rozstrzygnął, że bez `Font/Context/` i `Font/Title/` gra nie ładuje języka mimo wybranego `Polski`; do `assets/fonts/` dodano niemodyfikowane czcionki SIL OFL 1.1 (`Pretendard-Regular.ttf` + `Mikodacs.otf`, `18/18` polskich liter) — czeka na potwierdzenie w grze na paczce `v3`; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
 | ~~O-04~~ | ~~Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX)~~ | — | **zamknięte 2026-11-25: układ zaakceptowany i zamrożony; ewentualne usterki zgłaszane na bieżąco w trakcie czytania** → D-07 |
 | ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |
 | ~~O-06~~ | ~~Czy teksty gry mają być w repozytorium (publicznym)~~ | — | **zamknięte 2026-11-25: tak, jako JSON/MD; binaria nigdy** → D-06 |

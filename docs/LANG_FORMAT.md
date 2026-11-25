@@ -6,13 +6,13 @@ Docelowa instalacja u gracza:
 LimbusCompany_Data/Lang/
 ├── config.json            ← {"lang": "Polski", "titleFont": "", "contextFont": "", "samplingPointSize": 78, "padding": 5}
 └── Polski/                ← nazwa ustalona w D-09 (zamyka O-01)
+    ├── Font/              ← WYMAGANE przez grę od 1.74.0 (potwierdzone w v.1.119.1, E-011)
+    │   ├── Context/Pretendard-Regular.ttf
+    │   └── Title/Mikodacs.otf
     ├── LoginUIText.json   ← ta sama ścieżka logiczna co w Localize/en, bez prefiksu EN_
     ├── MainUIText.json
     ├── …
-    ├── StoryData/…
-    └── Font/              ← tylko jeśli O-03 wykaże potrzebę zewnętrznych czcionek OFL
-        ├── Context/<czcionka>.ttf|otf
-        └── Title/<czcionka>.ttf|otf
+    └── StoryData/…
 ```
 
 ## `config.json` i aktywacja języka w grze
@@ -47,32 +47,39 @@ Pełny schemat używany przez grę i narzędzia społeczności (`v.1.119.1`):
   zapisuje wybór — od tej pory każde kolejne uruchomienie startuje od razu po
   polsku.
 
-## Czcionki i polskie znaki
+## Czcionki i polskie znaki (`assets/fonts/`, E-011)
 
-**Plan: najpierw domyślna czcionka gry** (uwaga właściciela, 2026-11-25:
-domyślna czcionka najpewniej ma polskie znaki, więc zewnętrzne czcionki mogą
-być zbędne).
-
-- Za tym przemawiają dane z publicznych paczek: w `config.json` pola
-  `titleFont`/`contextFont` bywają **pustym ciągiem**, a paczka TH ma tylko
-  `lang` (E-004, [PRIOR_ART.md](PRIOR_ART.md)) — mechanizm najpewniej działa
-  bez własnych czcionek.
-- **Pierwszy test w grze:** paczka bez folderu `Font/`, `config.json` z pustymi
-  `titleFont`/`contextFont`, kilka tekstów z `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ` w różnych
-  miejscach (menu, kwestia fabularna, nazwa umiejętności). Jeśli wszystko się
-  wyświetla — zostajemy przy domyślnej czcionce i O-03 się zamyka.
-- **Tylko awaryjnie** (gdyby brakowało znaków albo gra wymagała pliku):
-  czcionki OFL z kompletem polskich liter, sprawdzone w E-004 — Pretendard
-  (tekst) i Mikodacs (tytuły; zmodyfikowana kopia nie może nosić tej nazwy),
-  pobrane od autorów, w `assets/fonts/` z licencją.
+- **Wynik testu w grze bez folderu `Font/` (`v.1.119.1`, E-011):** nawet po
+  wcześniejszym wybraniu `Polski` na liście `Select Custom Language` i restarcie
+  gry paczka bez `Font/Context/` i `Font/Title/` **nie ładuje się w ogóle**
+  (ekran tytułowy i lobby pozostają w 100% po angielsku). Porównanie z
+  działającymi paczkami dla `v.1.119.1` (m.in. `Limbus-RU-Full`: identyczne
+  `2406/2406` ścieżek JSON z naszym `index/localize/en`) oraz walidatorami
+  instalatorów (`LimbusLLmTranslate`, `llc-rs`) potwierdziło, że silnik wymaga
+  obecności plików `.ttf`/`.otf` w `Font/Context/` i `Font/Title/`.
+- **Dołączone czcionki (`assets/fonts/`, licencja SIL OFL 1.1):** w 100%
+  **niemodyfikowane** pliki z oficjalnych źródeł odpowiadające krojom samej gry:
+  - `Font/Context/Pretendard-Regular.ttf` (`orioncactus/pretendard` v1.309,
+    `2 725 828` B, SHA-256 `6d0af525…a324`, `14 336` znaków, `18/18` polskich
+    liter + `8/8` znaków polskiej typografii);
+  - `Font/Title/Mikodacs.otf` (Grzegorz Luk `gluk`, `glukfonts.pl`, v0.28,
+    `110 228` B, SHA-256 `d685ef7f…8d30`, `18/18` polskich liter + `8/8`
+    znaków polskiej typografii — polski autor zawarł komplet polskich znaków w
+    oryginale, dzięki czemu nie trzeba modyfikować pliku i zastrzeżona nazwa
+    `Mikodacs` jest w pełni zgodna z SIL OFL 1.1).
+- W `Font/Context/` i `Font/Title/` umieszczamy **wyłącznie** pliki `.ttf`/`.otf`
+  (przy `titleFont: ""` i `contextFont: ""` gra wybiera pierwszy plik z każdego
+  katalogu), a pełne teksty licencji (`OFL-Pretendard.txt`, `OFL-Mikodacs.txt`)
+  trafiają do archiwum w katalogu `LICENCJE_CZCIONEK/` (poza `LimbusCompany_Data/`).
 - `Font/replacement_map.json` z istniejącej paczki fanowskiej przenosi
   cyrylicę do PUA i polskich znaków nie dotyczy — nie jest nam potrzebny.
 
 ## Zasady budowania (`tools/build_lang.py`)
 
 - Wejście: `index/` (struktura i teksty źródłowe danego buildu) +
-  `tlumaczenie/` (przyjęte przekłady z `tools/import_zwrotki.py`) + opcjonalnie
-  `assets/fonts/`. **Nigdy** `local/`.
+  `tlumaczenie/` (przyjęte przekłady z `tools/import_zwrotki.py`) +
+  `assets/fonts/` (wymagane czcionki OFL w `Title/` i `Context/` — brak czcionki
+  przerywa budowanie z błędem). **Nigdy** `local/`.
 - Dla każdego pliku z `Localize/en` (oraz każdego przetłumaczonego pliku
   obecnego wyłącznie w `Localize/kr`) powstaje plik o tej samej ścieżce
   logicznej i **tej samej strukturze JSON**; podmieniane są tylko pola tekstowe

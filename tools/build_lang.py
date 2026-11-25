@@ -2,14 +2,18 @@
 """Build an official Limbus Company Custom Language archive (``LimbusCompany_Data/Lang/``).
 
 Reads strictly from versioned repository inputs (``index/localize``,
-``index/MANIFEST.json``, ``tlumaczenie/``, and optionally ``assets/fonts/``) —
-never from ``local/`` — and produces a deterministic ``.zip`` ready to unpack
-into the game directory:
+``index/MANIFEST.json``, ``tlumaczenie/``, and ``assets/fonts/``) — never from
+``local/`` — and produces a deterministic ``.zip`` ready to unpack into the
+game directory:
 
 * ``LimbusCompany_Data/Lang/config.json`` with the full 5-key schema
   (``"lang": "<Nazwa>"``, ``"titleFont": ""``, ``"contextFont": ""``,
   ``"samplingPointSize": 78``, ``"padding": 5``; default language ``Polski``
   per decision D-09 / O-01);
+* ``LimbusCompany_Data/Lang/<Nazwa>/Font/Context/`` and ``Font/Title/``
+  populated with unmodified SIL OFL 1.1 ``.ttf``/``.otf`` fonts from
+  ``assets/fonts/`` (required by Limbus Company ``v.1.119.1`` to load a Custom
+  Language; font license texts are included under ``LICENCJE_CZCIONEK/``);
 * ``LimbusCompany_Data/Lang/<Nazwa>/...`` mirroring 100% of ``Localize/en``
   (with ``EN_`` file prefixes stripped) plus any translated ``kr``-only files,
   keeping untouched English strings as safe fallback so missing keys never
@@ -17,7 +21,7 @@ into the game directory:
 * ``--probe`` builds a non-translation diagnostic archive
   (``LCB_TEST_DROGI_<Nazwa>_<build>.zip``) appending the 18 Polish diacritics
   ``ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`` to ``Clear all caches`` and 3 UI/story/skill
-  checkpoints to test boot & default font coverage in-game (O-03).
+  checkpoints to test boot & Polish glyph rendering in-game (O-03).
 
 Specification: docs/LANG_FORMAT.md, docs/FEASIBILITY.md, docs/DECYZJE.md.
 """
@@ -148,36 +152,62 @@ class BuildSummary:
     build_warnings: list[str] = field(default_factory=list)
 
 
-def _discover_fonts(fonts_dir: Path | None) -> tuple[str, str, dict[str, bytes]]:
-    """Discover optional Title/Context fonts and license files under ``assets/fonts/``.
+FONT_EXTENSIONS = {".ttf", ".otf"}
 
-    Limbus Company scans ``Lang/<lang>/Font/Title/`` and ``Lang/<lang>/Font/Context/``
-    automatically while ``titleFont`` / ``contextFont`` in ``Lang/config.json`` remain
-    empty strings ``""``.  Returns ``(bundled_title_rel, bundled_context_rel, members)``.
+
+def _discover_fonts(
+    fonts_dir: Path | None,
+    require_fonts: bool = True,
+) -> tuple[str, str, dict[str, bytes], dict[str, bytes]]:
+    """Discover Title/Context ``.ttf``/``.otf`` fonts and license files under ``assets/fonts/``.
+
+    Limbus Company (``v.1.119.1``) requires font files inside
+    ``Lang/<lang>/Font/Title/`` and ``Lang/<lang>/Font/Context/`` to load a
+    Custom Language; when ``titleFont`` and ``contextFont`` in ``Lang/config.json``
+    are empty strings ``""``, the game loads the first font file in each folder.
+    Only ``.ttf`` / ``.otf`` files are placed inside ``Font/{Title,Context}/``,
+    while license texts go to ``LICENCJE_CZCIONEK/`` at the archive root.
     """
-    if fonts_dir is None or not fonts_dir.is_dir():
-        return "", "", {}
-    bundled: dict[str, bytes] = {}
+    bundled_fonts: dict[str, bytes] = {}
+    bundled_licenses: dict[str, bytes] = {}
     bundled_title = ""
     bundled_context = ""
-    for slot in ("Title", "Context"):
-        slot_dir = fonts_dir / slot
-        if not slot_dir.is_dir():
-            continue
-        for f in sorted(slot_dir.iterdir()):
-            if not f.is_file():
+
+    if fonts_dir is not None and fonts_dir.is_dir():
+        for slot in ("Title", "Context"):
+            slot_dir = fonts_dir / slot
+            if not slot_dir.is_dir():
                 continue
-            rel = f"Font/{slot}/{f.name}"
-            bundled[rel] = f.read_bytes()
-            if f.suffix.lower() in {".ttf", ".otf"}:
+            for f in sorted(slot_dir.iterdir()):
+                if not f.is_file() or f.suffix.lower() not in FONT_EXTENSIONS:
+                    continue
+                raw = f.read_bytes()
+                if not raw:
+                    continue
+                rel = f"Font/{slot}/{f.name}"
+                bundled_fonts[rel] = raw
                 if slot == "Title" and not bundled_title:
                     bundled_title = rel
                 elif slot == "Context" and not bundled_context:
                     bundled_context = rel
-    for lic in sorted(fonts_dir.glob("*LICENSE*")) + sorted(fonts_dir.glob("*OFL*")):
-        if lic.is_file():
-            bundled[f"Font/{lic.name}"] = lic.read_bytes()
-    return bundled_title, bundled_context, bundled
+        seen_lic: set[str] = set()
+        for lic in sorted(fonts_dir.glob("*LICENSE*")) + sorted(fonts_dir.glob("*OFL*")):
+            if lic.is_file() and lic.name not in seen_lic:
+                seen_lic.add(lic.name)
+                bundled_licenses[f"LICENCJE_CZCIONEK/{lic.name}"] = lic.read_bytes()
+
+    if require_fonts and (not bundled_title or not bundled_context):
+        missing = [
+            slot
+            for slot, val in (("Font/Title", bundled_title), ("Font/Context", bundled_context))
+            if not val
+        ]
+        raise ValueError(
+            f"brak wymaganych czcionek .ttf/.otf ({', '.join(missing)}) w {fonts_dir}: "
+            "Limbus Company v.1.119.1 wymaga plików czcionek w Font/Title/ i Font/Context/"
+        )
+
+    return bundled_title, bundled_context, bundled_fonts, bundled_licenses
 
 
 def _build_instructions(
@@ -186,6 +216,8 @@ def _build_instructions(
     probe: bool,
     translated_leaves: int,
     total_translatable: int,
+    bundled_title: str,
+    bundled_context: str,
     warnings: list[str],
 ) -> bytes:
     pct = (100.0 * translated_leaves / total_translatable) if total_translatable else 0.0
@@ -194,6 +226,10 @@ def _build_instructions(
         "=" * 60,
         f"Build Steam: {buildid}",
     ]
+    if bundled_title or bundled_context:
+        lines.append(
+            f"Czcionki (SIL OFL 1.1, LICENCJE_CZCIONEK/): {bundled_context or '-'}, {bundled_title or '-'}"
+        )
     if probe:
         lines += [
             "TRYB: PACZKA DIAGNOSTYCZNA (test uruchomienia i polskich znaków O-03)",
@@ -202,9 +238,9 @@ def _build_instructions(
             f"znacznik testowy z 18 polskimi literami ({PL_ALL})",
             "do 4 miejsc w grze, aby sprawdzić w praktyce:",
             f"  1) aktywację języka '{lang_name}' w oficjalnym mechanizmie Lang/,",
-            "  2) czy domyślna czcionka gry wyświetla wszystkie polskie znaki bez kwadratów.",
+            "  2) poprawne wyświetlanie wszystkich 18 polskich znaków w tytułach i tekście.",
             "",
-            "GDZIE SPOJRZEĆ PO AKTYWACJI JĘZYKA (wystarczy 30 sekund):",
+            "GDZIE SPOJRZEĆ PO URUCHOMIENIU GRY (wystarczy 30 sekund):",
             "  1. Ekran startowy (lewy dolny róg, przed wejściem do lobby):",
             f"     przycisk 'Clear all caches [PL: {PL_ALL}]'",
             "  2. Dolny pasek w głównym oknie (Window / Lobby):",
@@ -226,19 +262,21 @@ def _build_instructions(
     lines += [
         "",
         "INSTALACJA (Steam, Windows):",
-        "  1. W Steam kliknij prawym przyciskiem na 'Limbus Company' ->",
-        "     'Zarządzaj' -> 'Przeglądaj pliki lokalne'.",
+        "  1. Przy wyłączonej grze w Steam kliknij prawym przyciskiem na",
+        "     'Limbus Company' -> 'Zarządzaj' -> 'Przeglądaj pliki lokalne'.",
         "  2. Rozpakuj folder 'LimbusCompany_Data' z tego archiwum wprost do",
-        "     otwartego katalogu gry (obok pliku LimbusCompany.exe).",
-        "     Powstanie ścieżka:",
-        f"       LimbusCompany_Data\\Lang\\config.json",
-        f"       LimbusCompany_Data\\Lang\\{lang_name}\\...",
-        "     Żaden oryginalny plik gry nie jest nadpisywany.",
-        "  3. Uruchom grę. Jeśli to pierwsza instalacja i gra nadal wyświetla",
-        "     angielski, na ekranie startowym (lewy dolny róg, obok 'Clear all caches')",
-        f"     kliknij 'Select Custom Language' -> wybierz '{lang_name}' ->",
-        "     zamknij i uruchom grę ponownie. Od kolejnego uruchomienia gra będzie",
-        f"     startować od razu w języku '{lang_name}'.",
+        "     otwartego katalogu gry (obok pliku LimbusCompany.exe; jeśli system",
+        "     zapyta o zastąpienie wcześniejszego pliku Lang\\config.json, potwierdź).",
+        "     Powstaną ścieżki:",
+        "       LimbusCompany_Data\\Lang\\config.json",
+        f"       LimbusCompany_Data\\Lang\\{lang_name}\\Font\\Context\\...",
+        f"       LimbusCompany_Data\\Lang\\{lang_name}\\Font\\Title\\...",
+        f"       LimbusCompany_Data\\Lang\\{lang_name}\\*.json",
+        "     Żaden oryginalny plik gry poza katalogiem Lang\\ nie jest dotykany.",
+        f"  3. Uruchom grę — powinna od razu wystartować w języku '{lang_name}'.",
+        "     Gdyby nadal wyświetlała angielski, na ekranie startowym kliknij",
+        f"     'Select Custom Language' -> wybierz '{lang_name}' -> zamknij i uruchom",
+        "     grę ponownie.",
         "",
         "ODINSTALOWANIE / WYŁĄCZENIE:",
         "  Usuń folder 'LimbusCompany_Data\\Lang' (lub przełącz w 'Select Custom Language').",
@@ -263,11 +301,12 @@ def build_lang_pack(
     localize_path: Path = ROOT / "index" / "localize",
     index_manifest_path: Path = ROOT / "index" / "MANIFEST.json",
     tlumaczenie_dir: Path = ROOT / "tlumaczenie",
-    fonts_dir: Path | None = None,
+    fonts_dir: Path | None = ROOT / "assets" / "fonts",
     lang_name: str = DEFAULT_LANG_NAME,
     out_zip: Path | None = None,
     unpacked_dir: Path | None = None,
     probe: bool = False,
+    require_fonts: bool = True,
 ) -> BuildSummary:
     """Build the ``LimbusCompany_Data/Lang/`` archive and validate every JSON file."""
     if not SAFE_LANG_RE.match(lang_name):
@@ -305,7 +344,9 @@ def build_lang_pack(
         for p_file, p_addr, p_mode, p_text in PROBE_TARGETS:
             probe_lookup.setdefault(p_file, []).append((p_addr, p_mode, p_text))
 
-    bundled_title, bundled_context, font_members = _discover_fonts(fonts_dir)
+    bundled_title, bundled_context, font_members, license_members = _discover_fonts(
+        fonts_dir, require_fonts=require_fonts
+    )
 
     zip_members: dict[str, bytes] = {}
     lang_prefix = f"LimbusCompany_Data/Lang/{lang_name}"
@@ -323,6 +364,8 @@ def build_lang_pack(
 
     for rel_font, font_bytes in font_members.items():
         zip_members[f"{lang_prefix}/{rel_font}"] = font_bytes
+    for rel_lic, lic_bytes in license_members.items():
+        zip_members[rel_lic] = lic_bytes
 
     stale_warnings: list[str] = []
     files_written = 0
@@ -501,6 +544,8 @@ def build_lang_pack(
         probe=probe,
         translated_leaves=translated_leaves,
         total_translatable=total_translatable,
+        bundled_title=bundled_title,
+        bundled_context=bundled_context,
         warnings=build_warnings,
     )
 
@@ -571,7 +616,17 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--localize", type=Path, default=ROOT / "index" / "localize")
     parser.add_argument("--index-manifest", type=Path, default=ROOT / "index" / "MANIFEST.json")
     parser.add_argument("--tlumaczenie", type=Path, default=ROOT / "tlumaczenie")
-    parser.add_argument("--fonts", type=Path, help="opcjonalny katalog czcionek OFL (np. assets/fonts)")
+    parser.add_argument(
+        "--fonts",
+        type=Path,
+        default=ROOT / "assets" / "fonts",
+        help="katalog czcionek OFL (domyślnie: assets/fonts)",
+    )
+    parser.add_argument(
+        "--allow-missing-fonts",
+        action="store_true",
+        help="pozwól zbudować paczkę bez Font/Title i Font/Context (tylko diagnostycznie)",
+    )
     parser.add_argument("--lang-name", default=DEFAULT_LANG_NAME, help="nazwa folderu i języka w config.json (domyślnie: Polski)")
     parser.add_argument("--out", type=Path, help="ścieżka wynikowego archiwum .zip (domyślnie w dist/)")
     parser.add_argument("--unpack-to", type=Path, help="opcjonalny katalog do rozpakowania struktury")
@@ -591,6 +646,7 @@ def main(argv: list[str] | None = None) -> int:
         out_zip=args.out,
         unpacked_dir=args.unpack_to,
         probe=args.probe,
+        require_fonts=not args.allow_missing_fonts,
     )
     mode_txt = "DIAGNOSTYCZNA (--probe)" if summary.probe else "PRODUKCYJNA"
     print(

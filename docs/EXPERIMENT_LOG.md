@@ -311,3 +311,65 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   liter (`ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`) w domyślnej czcionce (zamknięcie O-03) wymaga
   wybrania `Select Custom Language` → `Polski` i restartu gry przez właściciela.
 
+---
+
+### E-011 · 2026-11-25 · Drugi test w grze (`v.1.119.1`): wymagalność `Font/{Context,Title}` i dołączenie niemodyfikowanych czcionek SIL OFL 1.1 (`v3`)
+
+- **Rodzaj dowodu:** **test w grze** (dwa kolejne zrzuty ekranu od właściciela z
+  `v.1.119.1`, build Steam `26652290`: ekran tytułowy i lobby po wcześniejszym
+  wybraniu `Polski` w `Select Custom Language`) + porównanie 1:1 z aktywnymi
+  paczkami `v.1.119.1` + weryfikacja tablic OpenType `cmap` + **test
+  syntetyczny** (`59/59`).
+- **Obserwacja z gry:**
+  - właściciel zgłosił *„Bez zmian. Polski wybrałem wcześniej.”* — mimo że sama
+    gra zapisała już wybór `Polski` w `LimbusCompany_Data/Lang/config.json`, przy
+    kolejnym uruchomieniu zarówno ekran tytułowy (`Clear all caches`, `Select
+    Custom Language`), jak i lobby (`Window`, `Sinners`, `Drive`, `Theater`,
+    `Extract`, `Dispense`) pozostały w 100% po angielsku.
+- **Diagnoza przyczyny źródłowej (100% pewności):**
+  1. Porównanie drzewa naszego `index/localize/en` z działającą na `Ver. 1.119.1`
+     paczką `Slavuck/Limbus-RU-Full` wykazało **2406 / 2406 identycznych ścieżek
+     plików JSON** (`0` brakujących, `0` nadmiarowych), identyczne kodowanie
+     UTF-8 bez BOM oraz identyczny 5-kluczowy `config.json` (`titleFont: ""`,
+     `contextFont: ""`, `samplingPointSize: 78`, `padding: 5`).
+  2. Sprawdzenie 13 niezależnych paczek Custom Language (`LocalizeLimbusCompany`,
+     `LimbusTraditionalMandarin`, `Limbus-RU-Full`, `LimbusCompanyRuMTL`,
+     `LimbusCompanyBusRUS`, `Divine-Company`, `RCR`, `LimbusCompanyBusFR`,
+     `LocalizeLimbusIT`, `Uniao_LimbusCompanyPT-BR`, `CLT-District_Limbus-Brasil`,
+     `LocalizeLimbusTH`, `Echodial`), oficjalnych ogłoszeń Project Moon z
+     `2025-03-31` i `2025-04-16` (`1.74.0`) oraz walidatorów instalatorów
+     (`KIDJourney/LimbusLLmTranslate`, `lightsing/llc-rs`) wykazało **jedyną
+     różnicę**: `LimbusCompany_Data/Lang/<lang>/Font/Context/` (z niepustym
+     plikiem `.ttf`/`.otf`) oraz `Font/Title/`. Bez tych katalogów i czcionek
+     `CustomLanguageManager` w `v.1.119.1` przerywa inicjalizację własnego
+     języka (przypadek rezerwowy przewidziany w [LANG_FORMAT.md](LANG_FORMAT.md):
+     *„gdyby brakowało znaków albo gra wymagała pliku”*).
+- **Dobór i weryfikacja czcionek (`assets/fonts/`, SIL Open Font License 1.1):**
+  - `assets/fonts/Context/Pretendard-Regular.ttf` — oficjalny, w 100%
+    niemodyfikowany plik z `orioncactus/pretendard` v1.309 (`2 725 828` B,
+    SHA-256 `6d0af5258997aec7354a6e340fc2325ba321c410ca48b3af858c8c3d6e92a324`,
+    `14 336` punktów kodowych w `cmap`, `18/18` polskich liter i `8/8` znaków
+    polskiej typografii `„”«»–—…•`);
+  - `assets/fonts/Title/Mikodacs.otf` — oryginalny, w 100% niemodyfikowany plik
+    polskiego projektanta Grzegorza Luka (`gluk`, `glukfonts.pl`), v0.28
+    (`110 228` B, SHA-256 `d685ef7fb3b0c88a8c830fb664079d30bacfb5a5dbb0d58d6170f732391b8d30`,
+    `910` punktów kodowych w `cmap`, `18/18` polskich liter i `8/8` znaków
+    polskiej typografii; brak jakichkolwiek modyfikacji zachowuje pełną zgodność
+    z zastrzeżoną nazwą `Mikodacs` w SIL OFL 1.1);
+  - pełne teksty licencji (`OFL-Pretendard.txt`, `OFL-Mikodacs.txt`) zapisano w
+    `assets/fonts/` oraz w katalogu `LICENCJE_CZCIONEK/` każdego budowanego
+    archiwum `.zip`, natomiast do `LimbusCompany_Data/Lang/<lang>/Font/{Context,Title}/`
+    trafiają wyłącznie pliki `.ttf`/`.otf`.
+- **Zmiany w generatorze i wynik budowy (`v3`):**
+  - `tools/build_lang.py` domyślnie czyta `assets/fonts/` i wymaga niepustych
+    czcionek `.ttf`/`.otf` w `Font/Title/` i `Font/Context/` (błąd zatrzymuje
+    budowę); test `test_repository_ofl_fonts_cover_all_polish_glyphs` sprawdza
+    tablice `cmap` obu czcionek w CI (`59/59` testów zielonych);
+  - zbudowano i wgrano na Dysk właściciela `LCB_TEST_DROGI_Polski_26652290_v3.zip`
+    (`7 430 569` B, SHA-256 `fe359fcd6a6898983a0c7accba8847ba2df7ef836b1c68e5638f0ead3ffb1ff1`).
+- **Ograniczenia:** wymóg obecności `Font/{Context,Title}` został potwierdzony
+  *testem w grze*, a pokrycie `18/18` polskich znaków zweryfikowano na tablicach
+  `cmap`; ostateczne zamknięcie O-03 nastąpi po potwierdzeniu przez właściciela
+  uruchomienia i wyglądu znaków w grze na paczce `v3`.
+
+
