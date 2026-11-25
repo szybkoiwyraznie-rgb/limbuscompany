@@ -1,0 +1,17 @@
+# Tekst w repozytorium ma stabilne LF; pliki binarne nie są konwertowane.
+* text=auto eol=lf
+
+# Pliki dla Windows zachowują zapisane bajty również w GitHub Download ZIP
+# (wzorzec z wherewindsmeet i SRW). Zapisuj je z CRLF; .ps1 z UTF-8 BOM,
+# .bat wyłącznie ASCII. Builder i testy sprawdzają te bajty.
+*.bat -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.cmd -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.ps1 -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+
+# Czcionki (wyłącznie własne lub na wolnej licencji, w assets/fonts/).
+*.ttf binary
+*.otf binary
+
+# Teksty gry (JSON) w index/ zachowują dokładnie bajty z gry (BOM, końce linii).
+index/localize/** -text
+index/static-data/** -text

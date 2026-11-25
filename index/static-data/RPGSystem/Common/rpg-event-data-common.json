@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "key": "E90001",
+      "canRepeat": false,
+      "action1": "PlayEnding"
+    },
+    {
+      "key": "E90002",
+      "canRepeat": false
+    },
+    {
+      "key": "E90003",
+      "canRepeat": false,
+      "action1": "GiveItem",
+      "actionValue1": "I990933, 1"
+    }
+  ]
+}

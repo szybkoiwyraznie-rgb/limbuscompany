@@ -1,0 +1,188 @@
+{
+  "dataList": [
+    {
+      "id": 9284,
+      "name": "Out-of-style Rouge Clothing",
+      "desc": "When allies heal HP through Base Attack Skills' Skill or Coin effects, heal +50% HP (3 times per turn; rounded down)\n\n[Haute Couture::Boutique du Rouge Ishmael Exclusive Effect]\nIf Haute Couture::The Crimson God of Le Rouge Sinclair is with this unit on the field, gain 1 [RougeIshmaelCocoon] at Turn Start and enter [RougeIshmaelCocoon] state (once per Encounter)\n- If \"In this Encounter, when this unit takes damage that brings its HP down to 0, nullify that damage; then, immediately gain 2 [RougeIshmaelCocoon] and enter the [RougeIshmaelCocoon] state (once per Encounter)\" from the Passive \"Into the <noparse>Changing Room</noparse>…\" activated, the exclusive effect does not activate\n- When the exclusive effect activates, the effect \"In this Encounter, when this unit takes damage that brings its HP down to 0, nullify that damage; then, immediately gain 2 [RougeIshmaelCocoon] and enter the [RougeIshmaelCocoon] state (once per Encounter)\" from the Passive \"Into the <noparse>Changing Room</noparse>…\" does not activate",
+      "simpleDesc": [
+        {
+          "abilityID": 9284,
+          "simpleDesc": "Immediately enter [RougeIshmaelCocoon]"
+        },
+        {
+          "abilityID": 92841,
+          "simpleDesc": "Heal more HP"
+        }
+      ]
+    },
+    {
+      "id": 9285,
+      "name": "Soda Pop",
+      "desc": "Sinners who attempt to heal HP on self this turn using Skill or Coin effects gain the following effects next turn:\n- Skills deal +10% damage\n- Gain [AttackUp] equal to (sum of HP healed during the turn (including excess healing) / 10) (max 6; rounded down)\n\nIf there are other Identities on the field that are in the same faction as the units that activated the above effect, they gain half of the [AttackUp] the above units gained (min 1, max 3 per turn; rounded down)",
+      "simpleDesc": [
+        {
+          "abilityID": 9285,
+          "simpleDesc": "Deal more damage and gain [AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9286,
+      "name": "Maison du Noir Slacks",
+      "desc": "When allies that have 2+ [Charge] Potency trigger [VibrationExplosion], apply the following effects:\n- Deal ([Charge] Potency on self x [Charge] Count) Envy Damage (2 times per skill, max 100 damage per tick)\n- Every 2 times the above effect deals Envy Damage, inflict 3 [Binding] next turn on target\n\nEvery time an ally triggers [VibrationExplosion] using a Skill, gain ([Charge] Potency on self / 3) [AttackUp] next turn (max 5 per turn; rounded down)",
+      "simpleDesc": [
+        {
+          "abilityID": 9286,
+          "simpleDesc": "Deal Envy Damage and inflict [Binding]"
+        },
+        {
+          "abilityID": 92861,
+          "simpleDesc": "Gain [AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9287,
+      "name": "Le Noir Mary Janes",
+      "desc": "Combat Start: On Hit from an Identity that has the highest Shield, deal (current Shield / 2) Sloth Damage (2 times per Skill, max 100 damage per tick; rounded down)\n- If 2+ Identities have the same Shield HP, applies to the Identity with the earlier Deployment Order\n\nIf the affected Identity is a [PersonalityCharge], deal Sloth Damage equal to current Shield instead (3 times per skill, max 100 per tick; rounded down)",
+      "simpleDesc": [
+        {
+          "abilityID": 9287,
+          "simpleDesc": "Deal Sloth Damage based on Shield"
+        }
+      ]
+    },
+    {
+      "id": 9288,
+      "name": "Straight Pin of the King of Needleworks",
+      "desc": "Turn Start: If no enemies have [SewingKingMark], inflict [SewingKingMark] on a random enemy (in Focused Encounters, a Part)",
+      "simpleDesc": [
+        {
+          "abilityID": 9288,
+          "simpleDesc": "Inflict [SewingKingMark]; deal fixed damage on death"
+        }
+      ]
+    },
+    {
+      "id": 9289,
+      "name": "Cartilage",
+      "desc": "Skills that consume [Charge] Count or Unique [Charge] deal +([Charge] Potency on self x 2)% damage (max 10%)\n\nTurn End: Units that consumed [Charge] Count or Unique [Charge] this turn gain 1 [Agility] next turn\n\nIf a unit's Speed is faster than the target's, Clash Power +1\n- If the said unit is a \"Sisyphe\" Identity, gain Final Power +1 instead",
+      "simpleDesc": [
+        {
+          "abilityID": 9289,
+          "simpleDesc": "Deal more damage, gain [Agility], and gain Clash/Final Power"
+        }
+      ]
+    },
+    {
+      "id": 9290,
+      "name": "Blanket",
+      "desc": "Identities that equipped Defense Skills this turn take -20% damage from enemy attacks\n- Combat End: If the affected Identity is a [PersonalityCharge], gain 2 [AttackUp] next turn\n- Combat End: If the affected Identity is a \"Sisyphe\" Identity, gain 1 [ResultEnhancement] next turn",
+      "simpleDesc": [
+        {
+          "abilityID": 9290,
+          "simpleDesc": "Take less damage and gain [AttackUp]/[ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9291,
+      "name": "Blossom Scissors",
+      "desc": "[Effects apply only to #1 Deployed Identity]\n\n\"Sisyphe\" Identity or [PersonalityCharge]: On Base Skill final Coin Hit, deal Slash Damage equal to 5% of the said Coin's final damage on the main target (once per Skill)",
+      "simpleDesc": [
+        {
+          "abilityID": 9291,
+          "simpleDesc": "Deal Slash Damage on the main target"
+        }
+      ]
+    },
+    {
+      "id": 19291,
+      "name": "Blossom Scissors+",
+      "desc": "[Effects apply only to #1 Deployed Identity]\n\n\"Sisyphe\" Identity or [PersonalityCharge]: On Base Skill final Coin Hit, deal Slash Damage equal to <style=\"upgradeHighlight\">10%</style> of the said Coin's final damage on the main target (once per Skill)",
+      "simpleDesc": [
+        {
+          "abilityID": 19291,
+          "simpleDesc": "Deal Slash Damage on the main target"
+        }
+      ]
+    },
+    {
+      "id": 29291,
+      "name": "Blossom Scissors++",
+      "desc": "[Effects apply only to #1 Deployed Identity]\n\n\"Sisyphe\" Identity or [PersonalityCharge]: On Base Skill final Coin Hit, deal Slash Damage equal to <style=\"upgradeHighlight\">15%</style> of the said Coin's final damage on the main target (once per Skill)",
+      "simpleDesc": [
+        {
+          "abilityID": 29291,
+          "simpleDesc": "Deal Slash Damage on the main target"
+        }
+      ]
+    },
+    {
+      "id": 9301,
+      "name": "Wuthering Heights",
+      "desc": "Turn End: when Staggered, recover from Stagger; then, at the next Turn Start, inflict 4 [Sinking] Potency and +4 [Sinking] Count to all enemies (once per Encounter; in Focused Encounters, on all Parts)\n- The above effect activates ((deployed \"Wuthering Heights\" Identities + deployed \"Edgar Family\" Identities) / 2) more times per Encounter (max 4 times per Encounter; including Backup Units)\n\nOn Kill, 1 enemy that has the least [Sinking] Count gains +2 [Sinking] Count (in Focused Encounters, the Part)\n\nOn Hit against SP Units, if target has -45 SP, deal Gloom damage equal to [Sinking] Potency on target\n\nIn Focused Encounters, On Hit against enemies that have 10+ ([Sinking] Potency + [Sinking] Count):\nDeal (([Sinking] Potency on target) / 2) Gloom damage (once per Skill)\n\nIf the Skill that hit an enemy inflicts [Sinking] (including [Sinking] Count and Unique [Sinking]), instead of dealing ([Sinking] Potency on target / 2) Gloom damage, deal ([Sinking] Potency on target) Gloom damage\n(Each turn, this applies only to the first Sinking-inflicting Skill that hits)\n\n[<noparse>Wild Hunt</noparse> Heathcliff exclusive effect]\nTurn Start: If this unit does not have [NightPathfinding], gain 1 [NightPathfinding]\n- At 5/10 [Coffin], gain 2/3 [NightPathfinding]\n- Apply 1 [SoundOfStorm] on \"Wuthering Heights\" and \"Edgar Family\" Identities (3 times per Identity per Encounter)\n\nDouble the amount of [Coffin] gained\n- Gain 2 [Coffin] when \"Wuthering Heights\" or \"Edgar Family\" Identities defeat an enemy\n\n\"Lament, Mourn, and Despair\" Skill effects:\n- Lose 15 more SP from the \"On Use\" effect\n  · The effects of the Skill or this E.G.O Gift cannot reduce this unit's SP below -40\n- On final Coin Hit, if the enemy has 20+ [Sinking] deal Gloom damage equal to 100% of this Coin's final damage",
+      "simpleDesc": [
+        {
+          "abilityID": 9432,
+          "simpleDesc": "Inflict 4 [Sinking] Potency and Count against all enemies next turn"
+        },
+        {
+          "abilityID": 94321,
+          "simpleDesc": "The enemy with the least [Sinking] Count gains +2 [Sinking] Count"
+        },
+        {
+          "abilityID": 9436,
+          "simpleDesc": "Deal Gloom damage based on [Sinking] on target"
+        },
+        {
+          "abilityID": 94361,
+          "simpleDesc": "Deal Gloom damage based on [Sinking] on target"
+        },
+        {
+          "abilityID": 93011,
+          "simpleDesc": "Gain [NightPathfinding]; apply [SoundOfStorm] to Identities of certain trait keywords"
+        },
+        {
+          "abilityID": 93012,
+          "simpleDesc": "Double the amount of [Coffin] gained"
+        },
+        {
+          "abilityID": 93013,
+          "simpleDesc": "Gain [Coffin] when Identities of certain trait keywords defeat an enemy"
+        },
+        {
+          "abilityID": 93014,
+          "simpleDesc": "\"Lament, Mourn, and Despair\" loses more SP On Use"
+        },
+        {
+          "abilityID": 93015,
+          "simpleDesc": "\"Lament, Mourn, and Despair\" deals Gloom damage on final Coin Hit"
+        }
+      ]
+    },
+    {
+      "id": 9302,
+      "name": "The Measure of Frost",
+      "desc": "Turn Start: At 40+ SP, or at -40 SP or lower, gain 1 [GainSinStockAdder]\n\n[Effect exclusive to Identities that have 2 or more Minus Coin Skills]\nTurn Start: Lose 15 SP (this unit's SP does not drop below -40 from this effect)\n\nIn this Encounter, when taking SP damage that would reduce this unit's SP to -45, this unit's SP cannot drop below -44 for the turn (once per Encounter)\n(※ Applies only to SP damage; does not apply to SP-changing effects, or SP-consuming effects such as using E.G.O Skills)\n\nBefore Attack using Skill 3 or an E.G.O Skill, consume up to 5 E.G.O Resources of the same Affinity as the said Skill to deal +(E.G.O Resources consumed x 10)% damage",
+      "simpleDesc": [
+        {
+          "abilityID": 9302,
+          "simpleDesc": "Gain [GainSinStockAdder] when SP conditions are met"
+        },
+        {
+          "abilityID": 93021,
+          "simpleDesc": "Turn Start: Lose SP"
+        },
+        {
+          "abilityID": 93022,
+          "simpleDesc": "Maintain SP at -44 once when taking SP damage that would reduce SP to -45"
+        },
+        {
+          "abilityID": 93023,
+          "simpleDesc": "Consume E.G.O Resources to deal more damage using Skill 3 and E.G.O Skills"
+        }
+      ]
+    }
+  ]
+}

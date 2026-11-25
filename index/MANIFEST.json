@@ -1,0 +1,83 @@
+{
+ "format": "lcb-index-v1",
+ "localize": {
+  "zrodlo": "lustro LimbusTraditionalMandarin/story-data, commit f218bbec3c1df855c5786bb7c2b2479cf3ce3354 (2026-11-19); build Steam nieznany",
+  "jezyki": {
+   "kr": {
+    "pliki": 2449,
+    "bajty": 24594177,
+    "sha256": "7762f110716d84a3bfc861523967755104346687ed3c36f01feb1cc5fe5c77bb"
+   },
+   "en": {
+    "pliki": 2406,
+    "bajty": 25492917,
+    "sha256": "1958134f0455644ab1f5f6f761fe921649cb38042777c1fa86884c7a835e91ea"
+   }
+  }
+ },
+ "static_data": {
+  "zrodlo": "lustro LEAGUE-OF-NINE/OpenLethe, commit 8f24cba5721482c85a7ab22ba2d2105914d175ac (dane 2026-11-12); build Steam nieznany; repozytorium bez pliku licencji",
+  "tabele": {
+   "storytheater-main": {
+    "pliki": 13,
+    "bajty": 83981,
+    "sha256": "9ba3da4059e99678f3cf925a3c3546e9b1c465de9116efd56ee595edcff97189"
+   },
+   "storytheater-other": {
+    "pliki": 24,
+    "bajty": 46166,
+    "sha256": "395c281ebc803605d740f2a80073f5349094560015e9863c8ba64ee85c5f2d2a"
+   },
+   "storytheater-personality": {
+    "pliki": 12,
+    "bajty": 94431,
+    "sha256": "c821ac1d2e39a848e18cc6ee55676791a6c9f6d3a02587fb57bc46ffbb5448e9"
+   },
+   "storytheater-mirrorworld": {
+    "pliki": 1,
+    "bajty": 7209,
+    "sha256": "8d51776337fad41b9104058e9e05924f03f710a2e04dedfa2c7da08b9f1cd79a"
+   },
+   "story": {
+    "pliki": 13,
+    "bajty": 10120,
+    "sha256": "1304fef6cad0737ffd355d74f9a099a6996b096dff690cdeea45543abd1ea894"
+   },
+   "battle-story": {
+    "pliki": 48,
+    "bajty": 880994,
+    "sha256": "6201dcf905e5fad391c634173cd40d4fdf0a941313ab9c1698235167fc1c7f24"
+   },
+   "battle-ab": {
+    "pliki": 20,
+    "bajty": 230309,
+    "sha256": "6ad9b827660764a42bacbf5ab5a6359f2425d3e3b98bbd009254ffa0d7410c92"
+   },
+   "RPGSystem": {
+    "pliki": 762,
+    "bajty": 4859356,
+    "sha256": "f739c36dc28eae3f8d9e07843626af74c5883ef75ef99f3d228585e8047ed173"
+   },
+   "personality": {
+    "pliki": 17,
+    "bajty": 445526,
+    "sha256": "d6b88534f287a7a9bdf99521495e600da1b89c9022074d0e6cbaa3629cbf67f6"
+   },
+   "skill": {
+    "pliki": 147,
+    "bajty": 14629086,
+    "sha256": "dad9bfc63b576aa77cd585e2ff6f97065c2780cf2fa3f964095d38b5fbb16c9a"
+   },
+   "personality-passive": {
+    "pliki": 18,
+    "bajty": 94153,
+    "sha256": "ebaf53695147132f0d7e25374734a10eb092f95375c7fbf3b3d1570607e30e3c"
+   },
+   "passive": {
+    "pliki": 78,
+    "bajty": 239259,
+    "sha256": "7b81d0a3bd290110c132bdd439d2cd2cd66ebb9f48bf0808d18ea01ea6c52ad6"
+   }
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+  "list": [
+    {
+      "id": 99999101,
+      "eventKey": "E90002",
+      "activeCondition": "CompleteDialogue",
+      "activeConditionValue": "D100061"
+    },
+    {
+      "id": 99999102,
+      "eventKey": "E90003",
+      "activeCondition": "EnterLocationPlayer",
+      "activeConditionValue": "999999",
+      "passiveCondition1": "EventCompleted",
+      "passiveConditionValue1": "E90002"
+    }
+  ]
+}

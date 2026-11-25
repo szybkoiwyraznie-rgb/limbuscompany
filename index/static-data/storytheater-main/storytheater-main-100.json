@@ -1,0 +1,57 @@
+{
+  "list": [
+    {
+      "chapterId": 1,
+      "subChapterId": 100,
+      "storyList": [
+        {
+          "id": 1,
+          "storyId": "S001B",
+          "nodeId": 10001,
+          "stageDetail": "Before"
+        },
+        {
+          "id": 2,
+          "storyId": "S001A",
+          "nodeId": 10001,
+          "stageDetail": "After",
+          "fullBannerId": "Assets/Resources_moved/Sprite/StoryTheater/SubChapter100/S001B"
+        },
+        {
+          "id": 3,
+          "storyId": "S002B",
+          "nodeId": 10002,
+          "stageDetail": "Before",
+          "fullBannerId": "Story_BG/Dark_Forest"
+        },
+        {
+          "id": 4,
+          "storyId": "S003B",
+          "nodeId": 10003,
+          "stageDetail": "Before",
+          "fullBannerId": "Story_BG/Mephitz_Inside"
+        },
+        {
+          "id": 5,
+          "storyId": "S003A",
+          "nodeId": 10003,
+          "stageDetail": "After",
+          "fullBannerId": "Story_BG/Mephitz_Inside"
+        },
+        {
+          "id": 6,
+          "storyId": "S004B",
+          "nodeId": 10004,
+          "stageDetail": "Before"
+        },
+        {
+          "id": 7,
+          "storyId": "S004A",
+          "nodeId": 10004,
+          "stageDetail": "After",
+          "fullBannerId": "Assets/Resources_moved/Sprite/StoryTheater/SubChapter100/S004B"
+        }
+      ]
+    }
+  ]
+}

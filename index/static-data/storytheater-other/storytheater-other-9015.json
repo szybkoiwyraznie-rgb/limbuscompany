@@ -1,0 +1,23 @@
+{
+  "list": [
+    {
+      "chapterId": 90,
+      "subChapterId": 9015,
+      "codition": "StageClear",
+      "sortingOrder": 10,
+      "unLockCondition": {
+        "chapterId": 91,
+        "subChapterId": 9107,
+        "nodeId": 910712
+      },
+      "storyList": [
+        {
+          "id": 1,
+          "storyId": "E054X",
+          "nodeId": 901501,
+          "fullBannerId": "Assets/Resources_moved/Sprite/StoryTheater/EventChapter9014/E053X"
+        }
+      ]
+    }
+  ]
+}
