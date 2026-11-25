@@ -1,0 +1,7 @@
+{
+  "format": "lc-polityka-danych-v1",
+  "repozytorium_publiczne": true,
+  "tekst_gry_w_git": false,
+  "katalogi_tekstu_gry": ["wyciag", "czytanki"],
+  "uzasadnienie": "Repozytorium jest publiczne, a Project Moon zapowiedział egzekwowanie zakazu nieautoryzowanego udostępniania zasobów gry (komunikat z 2025-09-26). Dopóki właściciel nie zmieni repozytorium na prywatne i nie przestawi tej flagi, wyciąg tekstu gry (KR/EN/JP) i Czytanki zostają w local/ i na prywatnym Dysku. Szczegóły: docs/DATA_POLICY.md."
+}

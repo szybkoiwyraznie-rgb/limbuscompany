@@ -1,0 +1,73 @@
+# Prywatne dane, oryginały gry i lokalne wyniki (w dowolnym podkatalogu).
+local/
+google_drive/
+build/
+dist/
+out/
+artifacts/
+downloads/
+
+# Pliki gry Limbus Company skopiowane przez pomyłkę (pełne kopie Localize/Lang).
+LimbusCompany_Data/
+Resources_moved/
+Localize/
+
+# Sekrety i środowiska lokalne.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.venv/
+venv/
+.direnv/
+
+# Typowe binaria gry (Unity), archiwa, kopie, zapisy i zrzuty.
+# Rozszerzenie nie gwarantuje wykrycia wszystkich chronionych plików.
+*.bundle
+*.assetbundle
+*.assets
+*.resS
+*.resource
+*.unity3d
+*.bin
+*.dat
+*.exe
+*.dll
+*.so
+*.dylib
+*.iso
+*.img
+*.sav
+*.save
+*.dmp
+*.bak
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.zst
+*.log
+*.ttf
+*.otf
+!assets/fonts/**/*.ttf
+!assets/fonts/**/*.otf
+
+# Python, edytory i system operacyjny.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+.cache/
+node_modules/
+.DS_Store
+Thumbs.db

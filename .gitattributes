@@ -1,0 +1,8 @@
+# Tekst w repozytorium ma stabilne LF; pliki binarne nie są konwertowane.
+* text=auto eol=lf
+
+# Pliki dla Windows zachowują zapisane bajty również w GitHub Download ZIP.
+# Przed dodaniem zapisz je z CRLF; PowerShell 5.1 wymaga UTF-8 z BOM.
+*.bat -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.cmd -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.ps1 -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
