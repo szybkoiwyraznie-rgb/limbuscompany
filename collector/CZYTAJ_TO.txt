@@ -1,0 +1,72 @@
+LIMBUS COMPANY — ZBIERACZ DANYCH (Windows, tylko odczyt)
+========================================================
+
+To nie jest spolszczenie ani instalator. Zestaw tylko odczytuje teksty
+lokalizacji gry i przygotowuje jeden ZIP do przekazania do dalszej analizy.
+Nie zmienia ani nie usuwa plików gry. Nie wysyła danych przez internet.
+Nie trzeba instalować Pythona. Potrzebne są Windows i Windows PowerShell 5.1
+(jest częścią Windows 10 i 11).
+
+CO ZROBIĆ KROK PO KROKU
+
+1. Jeśli Steam właśnie zaktualizował grę: uruchom Limbus Company raz,
+   poczekaj, aż gra skończy pobierać dane (ekran pobierania po starcie),
+   a potem ZAMKNIJ grę. Część tekstów gra pobiera sama, już po aktualizacji
+   ze Steam — dopiero wtedy pliki na dysku są aktualne.
+2. Rozpakuj cały ten ZIP do nowego folderu POZA folderem gry, np. na Pulpicie.
+3. Kliknij dwa razy URUCHOM.bat. Program sam poszuka gry w bibliotekach
+   Steam. Jeśli jest kilka instalacji, poprosi o numer. Jeśli jej nie znajdzie,
+   otworzy okno wyboru folderu — wskaż główny folder gry (ten, w którym jest
+   folder LimbusCompany_Data). Możesz też przeciągnąć folder gry na URUCHOM.bat.
+4. Poczekaj (zwykle od kilkunastu sekund do kilku minut). Na Pulpicie powstanie
+   LCB_DANE_<data>_<losowy-id>.zip. Okno pokaże rozmiar i SHA-256 i zostanie
+   otwarte.
+5. Wgraj ten ZIP na swój Dysk Google (folder „Limbus Company”) i napisz,
+   że jest. Jeśli okno pokaże UWAGA o niepełnym wyniku — wyślij ZIP mimo to,
+   raport w środku mówi, czego brakuje. Jeśli ZIP ma ponad 95 MiB, napisz
+   o tym najpierw (połączenie z Dyskiem ma limit 100 MiB na jedno pobranie).
+
+Po każdej aktualizacji gry (zwykle w czwartki) powtórz kroki 1–5 tym samym
+zestawem. Każde uruchomienie tworzy nowy ZIP i nie nadpisuje starszych.
+Nie kasuj starszych paczek z Dysku — służą do porównania wersji.
+
+CO JEST W WYNIKOWYM ZIP-IE
+
+- Localize/en, Localize/kr, Localize/jp: kopie plików .json z folderu
+  LimbusCompany_Data/Assets/Resources_moved/Localize — oficjalne teksty gry
+  po angielsku, koreańsku i japońsku. To jedyne pliki gry, które są kopiowane.
+- Lang/config.json: jeśli masz już folder Lang (np. z innym tłumaczeniem),
+  kopiowany jest tylko mały plik config.json. Z pozostałych podfolderów Lang
+  zapisywane są wyłącznie nazwy, liczby plików i rozmiary.
+- app.info: mały plik z nazwą produktu Unity (jeśli istnieje).
+- INWENTARZ.jsonl: względne nazwy, rozmiary i daty plików pod
+  LimbusCompany_Data (bez ich treści). Pomaga zaplanować dalsze badania.
+- RAPORT.json i RAPORT.txt: numer buildu Steam, liczby plików, SHA-256 każdej
+  kopii, pominięcia i problemy.
+
+PRYWATNOŚĆ I BEZPIECZEŃSTWO
+
+Zbieracz nie kopiuje plików wykonywalnych, zapisów, logów, danych konta ani
+zrzutów ekranu. Nie szuka niczego poza folderem gry, z wyjątkiem odczytu
+położenia Steam i numeru buildu z manifestu Steam. Pełna ścieżka do gry nie
+trafia do raportu — tylko nazwa ostatniego folderu.
+
+URUCHOM.bat uruchamia Windows PowerShell z parametrem -ExecutionPolicy Bypass.
+Parametr dotyczy wyłącznie tego jednego procesu: nie zmienia ustawień
+systemowych, rejestru ani zapisanej polityki, nie wymaga administratora
+i niczego nie instaluje. BAT zdejmuje też znacznik „pobrane z internetu”
+(Unblock-File) z plików *.ps1 w swoim folderze, żeby Windows ich nie blokował.
+Jeśli mimo to system odmówi uruchomienia, przerwij i prześlij komunikat —
+nie zmieniaj polityki wykonywania na stałe.
+
+Podczas pracy na Pulpicie istnieje tymczasowy folder .LCB_ZBIERANIE_...,
+usuwany po zakończeniu; po awaryjnym przerwaniu można go skasować ręcznie.
+
+W RAZIE PROBLEMU
+
+- „Gra jest uruchomiona”: zamknij Limbus Company i uruchom ponownie.
+- Nie znaleziono gry: wskaż jej główny folder albo przeciągnij go na BAT.
+- Brak miejsca: zwolnij miejsce na Pulpicie i uruchom ponownie.
+- Jeśli ZIP nie powstał, przepisz komunikat z okna (bez haseł).
+
+Projekt nieoficjalny, niezwiązany z Project Moon.
