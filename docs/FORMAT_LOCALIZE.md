@@ -81,7 +81,11 @@ projektujemy `index/`.
    tokenów do zachowania ([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)).
 4. Kolejność scen: czy `id` w StoryData i nazwy plików wystarczą do odtworzenia
    kolejności fabuły ([CZYTANKI.md](CZYTANKI.md)).
-5. Różnice `en`/`kr`/`jp`: pliki i klucze obecne tylko w jednym języku.
-6. Słowa kluczowe (`Bufs`, `BattleKeywords`, `SkillTag`): czy w `Lang/` muszą
+5. **Parowanie `kr`↔`en` (kluczowe przy D-05):** pliki i adresy obecne tylko
+   w jednym języku; czy `id` się zgadzają; czy znaczniki w tekście są te same.
+   Gdy `kr` ma teksty, których nie ma w `en` (albo odwrotnie), trzeba ustalić,
+   który zestaw wyznacza strukturę paczki `Lang/`.
+6. Kodowanie i normalizacja koreańskiego (BOM, NFC/NFD, znaki specjalne).
+7. Słowa kluczowe (`Bufs`, `BattleKeywords`, `SkillTag`): czy w `Lang/` muszą
    być kompletne (wg poradnika podglądu — `Localize/en` jest dla nich
    fallbackiem).

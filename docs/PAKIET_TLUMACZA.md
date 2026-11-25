@@ -8,7 +8,7 @@ tokeny, podział plików). Narzędzia `tools/bundle.py` (budowa) i
 ## Obieg
 
 ```text
-Localize/en|kr|jp (prywatne, ZIP od zbieracza)
+Localize/kr (źródło) + en (odniesienie) + jp (prywatne, ZIP od zbieracza)
       │ tools/extract.py                    wyciąg + manifest buildu
       ▼
 index/ (Git)                                teksty źródłowe, adresy, sceny
@@ -41,7 +41,7 @@ LCB_PAKIET_001_<build>/
 │   ├── 03_slowa_kluczowe.md   (statusy, efekty, tagi — tłumaczone raz, spójnie)
 │   ├── 04_postacie_identity_ego.md
 │   └── …
-├── slowniczek.md          ustalone terminy (rośnie z każdym pakietem)
+├── slowniczek.md          KR | oficjalne EN | PL — ustalone terminy (rośnie z każdym pakietem)
 └── MANIFEST.json          build, SHA-256 index/, numer → adres + SHA tekstu EN
 ```
 
@@ -52,12 +52,18 @@ Pliki dłuższe niż ~8000 linii dzielone na `_a`/`_b` (lekcja SRW Y).
 ```text
 ## Scena 1D101A · miejsce: <place> · tytuł: <title>
 
-14. [Dialog - Dante]
-   EN: <tekst angielski z gry>
-   KR: <oryginał koreański — tylko do wglądu, opcjonalnie>
+14. [Dialog - 단테 / Dante]
+   KR: <oryginał koreański — TO tłumaczymy>
+   EN: <oficjalny angielski — odniesienie>
    tokeny: zachowaj dokładnie: <color=#f8c200>, </color>
    PL:
 ```
+
+Źródłem jest koreański, angielski jest odniesieniem ([DECYZJE.md](DECYZJE.md)
+D-05). Jeśli tłumacz nie czyta po koreańsku, pakiet buduje się z
+`--zrodlo en` i kolejność linii się odwraca (EN jako źródło, KR do wglądu).
+Teksty, które istnieją tylko w jednym języku, są oznaczone jawnie, np.
+`[tylko EN]`.
 
 - Tłumacz wypełnia **jedną linię** po `PL:`; łamanie i ewentualne `\n` to
   zadanie narzędzi (chyba że inspekcja pokaże, że `\n` w źródle ma znaczenie —
@@ -70,14 +76,18 @@ Pliki dłuższe niż ~8000 linii dzielone na `_a`/`_b` (lekcja SRW Y).
 - Mówca (`teller`) i miejsce (`place`) z danych sceny; brak mówcy = narracja.
   Mówców **nie zgadujemy**.
 - Numer elementu jest lokalny w pliku; tożsamość niesie `MANIFEST.json`
-  (ścieżka logiczna + adres + SHA-256 tekstu EN). Import sprawdza, że linia
-  `EN:` w zwrotce nie została zmieniona.
+  (ścieżka logiczna + adres + SHA-256 tekstu źródłowego KR oraz EN). Import
+  sprawdza, że linie `KR:` i `EN:` w zwrotce nie zostały zmienione.
+- `tokeny:` pochodzą z tekstu KR; jeśli zbiór znaczników w EN jest inny,
+  element ma uwagę `różnica znaczników KR/EN` (do decyzji, nie błąd).
+- `limit:` szacujemy względem EN i testu w grze, nie względem liczby znaków
+  koreańskich (koreański jest dużo zwięźlejszy).
 
 ## Import zwrotki — bramki
 
 1. `MANIFEST.json` pakietu pasuje do aktualnego `index/` (build/SHA) —
    inaczej odmowa albo jawny tryb „przenieś na nowy build” z raportem.
-2. Każdy element: niezmieniony `EN:`, poprawne tokeny, niepusty `PL:` (pusty =
+2. Każdy element: niezmienione `KR:` i `EN:`, poprawne tokeny, niepusty `PL:` (pusty =
    brak, raportowany).
 3. Zapis atomowy do `tlumaczenie/` i raport importu w `zwrotki/<nr>/`
    (liczby przyjętych, pustych, odrzuconych i powód).

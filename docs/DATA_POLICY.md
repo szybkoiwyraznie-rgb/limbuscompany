@@ -20,8 +20,8 @@ diff przeglądaj samodzielnie.
 ## W Git
 
 - Kod, testy na danych wymyślonych, dokumentacja, manifesty.
-- **`index/` (planowane, D-02):** znormalizowany wyciąg tekstów z `Localize/en`
-  (oraz pomocniczo `kr`/`jp`) z manifestem buildu Steam i SHA-256 plików
+- **`index/` (planowane, D-02):** znormalizowany wyciąg tekstów z
+  `Localize/kr` (źródło, D-05), `en` (odniesienie) i `jp` z manifestem buildu Steam i SHA-256 plików
   źródłowych. Budowanie Pakietów, paczki `Lang/` i Czytanek czyta tylko stąd.
   Format zostanie opisany w `docs/INDEX_FORMAT.md` przy pierwszym wyciągu.
 - **`tlumaczenie/`, `zwrotki/` (planowane):** przyjęte przekłady i rejestr

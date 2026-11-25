@@ -40,7 +40,7 @@
 | Mechanizm instalacji | wyłącznie oficjalny Custom Language (`Lang/`) | [FEASIBILITY.md](FEASIBILITY.md) |
 | Dostarczanie plików gry | zbieracz `URUCHOM.bat` → ZIP → Dysk Google | [DECYZJE.md](DECYZJE.md) D-01 |
 | Teksty w Git | tak, znormalizowany wyciąg w `index/` | [DATA_POLICY.md](DATA_POLICY.md) |
-| Język źródłowy przekładu | angielski (`en`), `kr`/`jp` jako pomoc kontekstowa | [DECYZJE.md](DECYZJE.md) D-03 |
+| Język źródłowy przekładu | **koreański (`kr`)**, angielski (`en`) jako odniesienie, `jp` do wglądu; warunek: tłumacz czyta po koreańsku (O-05) | [DECYZJE.md](DECYZJE.md) D-05 |
 | Cudze tłumaczenia (także PL) | tylko wiedza techniczna, zero tekstu | [PRIOR_ART.md](PRIOR_ART.md) |
 
 Otwarte decyzje właściciela są w [DECYZJE.md](DECYZJE.md) (sekcja „Otwarte”).

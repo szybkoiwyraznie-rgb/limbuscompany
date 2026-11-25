@@ -41,7 +41,9 @@ Z poradników PT-BR/RU/FR i paczek fanowskich ([PRIOR_ART.md](PRIOR_ART.md)):
 | Ogromny wolumen fabuły (~1000 plików StoryData) | długi czas przekładu | priorytety (O-02), przyrostowe pakiety |
 | Czcionki i polskie znaki | „krzaki” lub kwadraty w grze | wczesny test w grze z małą paczką |
 | Znaczniki w tekście (kolory, linki do słów kluczowych) | zepsute opisy | walidacja tokenów przy imporcie |
-| Klucze tylko w `kr`/`jp`, brak w `en` | luki w źródle | inspekcja parowania języków |
+| Klucze tylko w `kr`/`jp`, brak w `en` (lub odwrotnie) | luki, niejasna struktura paczki | inspekcja parowania języków |
+| Tłumaczy KR→PL jest mało (D-05) | brak tłumacza, wyższy koszt | narzędzia działają też ze źródłem EN (`--zrodlo en`) |
+| Terminy: gracze znają angielskie nazwy (Sinking, Tremor…) | niespójność z wiki i społecznością | słowniczek KR / EN / PL ustalony na początku |
 
 ## Wniosek
 

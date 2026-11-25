@@ -22,10 +22,12 @@ Stan na **2026-11-25**.
    `LCB_ZBIERZ_DANE.zip`, rozpakować poza grą, uruchomić `URUCHOM.bat`,
    wgrać powstały `LCB_DANE_*.zip` do tego samego folderu. Instrukcja:
    `CZYTAJ_TO.txt` w zestawie.
-2. **Agent:** walidacja + inspekcja, wpis E-003, uzupełnienie
+2. **Właściciel (równolegle):** potwierdzić, czy tłumacz czyta po koreańsku
+   (O-05). Od tego zależy, czy źródłem pakietów będzie `kr` (D-05), czy `en`.
+3. **Agent:** walidacja + inspekcja (szczególnie parowanie `kr`↔`en`), wpis E-004, uzupełnienie
    [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md) faktami, pytanie O-06 (publiczne
    repo a `index/`), projekt `index/` i `tools/extract.py`.
-3. Potem: pakiet próbny 000 (UI) + paczka testowa „Clear all caches” z
+4. Potem: pakiet próbny 000 (UI) + paczka testowa „Clear all caches” z
    polskimi znakami → pierwszy test w grze ([ROADMAP.md](ROADMAP.md)).
 
 ## Otwarte decyzje
