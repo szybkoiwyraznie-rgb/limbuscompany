@@ -199,7 +199,17 @@ function Relative-To([string] $Base, [string] $Path) {
 }
 
 function Get-Sha256([string] $Path) {
-    return (Get-FileHash -LiteralPath $Path -Algorithm SHA256).Hash.ToLowerInvariant()
+    # .NET zamiast cmdletu skrotu pliku: ten cmdlet jest w module skryptowym i nie dziala,
+    # gdy PSModulePath wskazuje moduly PowerShell 7 (wykryte na Windows CI).
+    $stream = [System.IO.File]::Open($Path, [System.IO.FileMode]::Open, [System.IO.FileAccess]::Read, [System.IO.FileShare]::ReadWrite)
+    $sha = [System.Security.Cryptography.SHA256]::Create()
+    try {
+        $bytes = $sha.ComputeHash($stream)
+    } finally {
+        $sha.Dispose()
+        $stream.Dispose()
+    }
+    return (([System.BitConverter]::ToString($bytes)) -replace '-', '').ToLowerInvariant()
 }
 
 function Copy-Verified([string] $Source, [string] $ArchiveName, [string] $Kind) {

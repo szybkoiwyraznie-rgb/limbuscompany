@@ -58,6 +58,19 @@ class CollectorKitTests(unittest.TestCase):
         self.assertIn("'1973530'", ps)
         self.assertIn("Resources_moved\\Localize", ps)
 
+    def test_powershell_avoids_script_module_cmdlets(self):
+        # In Windows PowerShell 5.1 these live in .psm1 script modules and are
+        # unavailable when PSModulePath points at PowerShell 7 modules (seen on
+        # Windows CI with Get-FileHash). Use .NET instead.
+        ps = (COLLECTOR / "zbierz.ps1").read_text(encoding="utf-8-sig")
+        fragile = re.search(
+            r"(?i)(?<![A-Za-z-])(Get-FileHash|Format-Hex|New-Guid|Import-PowerShellDataFile"
+            r"|Compress-Archive|Expand-Archive|New-TemporaryFile)(?![A-Za-z-])",
+            ps,
+        )
+        self.assertIsNone(fragile, fragile and fragile.group(0))
+        self.assertIn("SHA256]::Create()", ps)
+
 
 if __name__ == "__main__":
     unittest.main()
