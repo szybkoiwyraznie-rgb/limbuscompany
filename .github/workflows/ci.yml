@@ -37,3 +37,5 @@ jobs:
         run: python tools/check_repository.py
       - name: Uruchom testy bez danych gry
         run: python tools/run_tests.py
+      - name: Zbuduj zestaw zbieracza
+        run: python tools/build_collector_kit.py --output dist/LC_ZBIERZ_DANE.zip

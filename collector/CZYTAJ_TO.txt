@@ -1,0 +1,59 @@
+LIMBUS COMPANY — ZBIERANIE DANYCH DO TŁUMACZENIA (Windows)
+=========================================================
+
+To nie jest tłumaczenie ani instalator. Pakiet tylko ODCZYTUJE pliki tekstów
+gry i przygotowuje ZIP do przekazania do dalszej analizy. Nie zmienia ani nie
+usuwa plików gry. Nie wysyła niczego przez internet. Nie trzeba instalować
+Pythona — wystarczy Windows z wbudowanym Windows PowerShell 5.1.
+
+KTÓRY PLIK URUCHOMIĆ
+
+- Pierwszy raz albo „wyślij wszystko od nowa”: kliknij dwa razy URUCHOM.bat.
+  Zbiera komplet plików tekstów gry (folder Localize: kr, en, jp).
+- Po aktualizacji gry (zwykle w czwartek): kliknij dwa razy
+  URUCHOM_AKTUALIZACJE.bat. Program pamięta sumy SHA-256 wcześniej wysłanych
+  plików (%LOCALAPPDATA%\LC_ZBIERACZ_STAN\stan_wyslanych.json) i zbiera tylko
+  pliki nowe lub zmienione. Jeśli nic się nie zmieniło, nie tworzy ZIP-a.
+
+CO ZROBIĆ KROK PO KROKU
+
+1. Zamknij grę i poczekaj, aż Steam zakończy aktualizację.
+2. Rozpakuj cały ZIP z tym pakietem do nowego folderu POZA grą, np. na Pulpicie.
+3. Kliknij dwa razy właściwy plik .bat. Program sam znajdzie grę w bibliotekach
+   Steam. Jeśli jest kilka instalacji, poprosi o numer; jeśli nie znajdzie,
+   otworzy okno wyboru folderu (wskaż folder „Limbus Company”, ten z folderem
+   LimbusCompany_Data). Możesz też przeciągnąć folder gry na plik .bat.
+4. Na Pulpicie powstanie LC_DANE_<data>_<id>.zip (przy bardzo dużym zbiorze:
+   kilka części _czesc1, _czesc2 ...). Okno pokaże rozmiar i SHA-256.
+5. Wgraj ZIP (wszystkie części) na swój Dysk Google do folderu „Limbus Company”
+   i napisz, że jest. Jeśli pojawi się UWAGA o niepełnym wyniku — wyślij mimo
+   to, raport opisuje powód. Jeśli ZIP ma ponad 95 MiB, napisz najpierw.
+
+CO JEST W WYNIKOWYM ZIP-IE
+
+- RAPORT.txt i RAPORT.json: tryb, numer wersji gry ze Steam (buildid), języki,
+  lista skopiowanych plików z rozmiarem i SHA-256, pominięte pliki i problemy.
+- INWENTARZ.jsonl: same nazwy, rozmiary i daty plików z LimbusCompany_Data
+  (bez ich zawartości i bez pełnej ścieżki do Twojego dysku).
+- pliki/: kopie plików tekstów gry z Assets\Resources_moved\Localize oraz
+  Lang\config.json (jeśli istnieje).
+
+PRYWATNOŚĆ I BEZPIECZEŃSTWO
+
+Zbieracz nie kopiuje zapisów, logów, danych logowania, zrzutów ekranu ani
+plików wykonywalnych i nie zagląda poza folder gry (poza odczytem lokalizacji
+Steam z rejestru i numeru wersji z manifestu Steam). Wynik zawiera teksty gry:
+nie publikuj go, przekazuj tylko prywatnie.
+
+Pliki .bat uruchamiają Windows PowerShell z parametrem -ExecutionPolicy Bypass.
+Dotyczy on wyłącznie tego jednego procesu: nie zmienia ustawień systemu ani
+rejestru, nie wymaga administratora i niczego nie instaluje. BAT zdejmuje też
+znacznik „pobrane z internetu” (Unblock-File) z plików *.ps1 w swoim folderze.
+Jeśli mimo to system odmówi uruchomienia — przerwij i prześlij komunikat; nie
+zmieniaj polityki wykonywania na stałe.
+
+W RAZIE PROBLEMU
+
+- „Limbus Company jest uruchomione”: zamknij grę (także w zasobniku) i powtórz.
+- Nie znaleziono gry: wskaż jej folder albo przeciągnij go na plik .bat.
+- Jeżeli ZIP nie powstał, przepisz komunikat z okna. Haseł nigdy nie wysyłaj.
