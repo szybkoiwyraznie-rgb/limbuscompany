@@ -259,3 +259,55 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   plików gry z buildu `26652290` — rzeczywiste uruchomienie gry po polsku oraz
   poprawność wyświetlania 18 polskich znaków w domyślnej czcionce wymagają
   potwierdzenia przez właściciela w grze (*test w grze*, O-03).
+
+---
+
+### E-010 · 2026-11-25 · Pierwszy test w grze paczki diagnostycznej (`v.1.119.1`) i korekta `Lang/config.json`
+
+- **Rodzaj dowodu:** **test w grze** (dwa zrzuty ekranu od właściciela z wersji
+  `v.1.119.1`, build Steam `26652290`) + analiza formatu + **test syntetyczny**
+  i **walidacja na kopii plików** dla poprawionej paczki `v2`.
+- **Obserwacja z gry (`LCB_TEST_DROGI_Polski_26652290.zip`, v1):**
+  - na ekranie tytułowym (`v.1.119.1`, lewy dolny róg) obok przycisku
+    `Clear all caches` pojawił się przycisk **`Select Custom Language`**
+    (`custom_localize_button` w `LoginUIText.json`), nieobecny w czystej
+    instalacji — potwierdza to w 100%, że katalog
+    `LimbusCompany_Data/Lang/Polski/` został rozpakowany we właściwe miejsce i
+    wykryty przez grę (obala też wcześniejsze założenie, że przycisk pojawia się
+    dopiero przy ≥2 językach);
+  - mimo obecności 3-kluczowego `LimbusCompany_Data/Lang/config.json`
+    (`{"lang": "Polski", "titleFont": "", "contextFont": ""}`) gra przy
+    pierwszym uruchomieniu wyświetliła czysto angielskie napisy (`Clear all
+    caches`, w lobby `Window` / `Sinners` / `Drive` / `Theater` / `Extract` /
+    `Dispense`) bez znaczników `[PL: ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ]`.
+- **Diagnoza techniczna:**
+  1. W pełnym schemacie `LimbusCompany_Data/Lang/config.json` używanym przez
+     grę i aktywne paczki dla `v.1.119.1` (`Limbus-RU-Full`, `LimbusCompanyBusFR`,
+     `LocalizeLimbusIT`, `LLC_MOD_Toolbox`, `LLC-update-tool`) występują **5
+     kluczy**: `lang`, `titleFont`, `contextFont`, `samplingPointSize` (`78`)
+     oraz `padding` (`5`). Pominięcie `samplingPointSize` i `padding` daje w
+     deserializacji C# wartość `0` dla parametrów atlasu SDF czcionki TMP.
+  2. Zgodnie z oficjalnym komunikatem gry (`LoginUIText.json ::
+     custom_localize_desc`: *„※ Restart the game to apply the language change.”*)
+     oraz instrukcjami instalacji dla `v.1.119.1`, przy pierwszej instalacji
+     wybór języka przyciskiem **`Select Custom Language` → `Polski`** na ekranie
+     tytułowym i restart gry aktywuje język na stałe dla kolejnych uruchomień.
+  3. Przy okazji wykryto i naprawiono w `_discover_fonts()` (`tools/build_lang.py`)
+     wpisywanie ścieżki `Font/Title/<plik>` do `titleFont`/`contextFont` w
+     `config.json` — w Limbus Company pola te pozostają pustymi ciągami `""`,
+     gdyż silnik sam skanuje `Lang/<lang>/Font/Title/` i `Font/Context/`.
+- **Wprowadzone poprawki i wynik walidacji (`v2`):**
+  - zaktualizowano `tools/build_lang.py` (pełny 5-kluczowy `Lang/config.json` z
+    `samplingPointSize: 78`, `padding: 5`, obsługa slotów `Font/Title` i
+    `Font/Context`, poprawiona `INSTRUKCJA.txt` wskazująca lewy dolny róg oraz
+    jednorazowy wybór `Select Custom Language` → `Polski` + restart);
+  - dodano test syntetyczny `test_optional_font_slots_keep_five_key_config`
+    (`58/58` testów zielonych);
+  - zbudowano i wgrano na Dysk właściciela `LCB_TEST_DROGI_Polski_26652290_v2.zip`
+    (`6 204 710` B, SHA-256 `e63b43c536b75db3d2ee0da1c56d5784922ed4a7a4b97e08bb536013c6537673`,
+    suma SHA-256 potwierdzona po stronie Dysku).
+- **Ograniczenia:** wykrycie folderu `Lang/Polski/` przez grę jest już
+  potwierdzone *testem w grze*, natomiast sprawdzenie wszystkich 18 polskich
+  liter (`ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`) w domyślnej czcionce (zamknięcie O-03) wymaga
+  wybrania `Select Custom Language` → `Polski` i restartu gry przez właściciela.
+

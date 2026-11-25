@@ -6,8 +6,10 @@ Reads strictly from versioned repository inputs (``index/localize``,
 never from ``local/`` — and produces a deterministic ``.zip`` ready to unpack
 into the game directory:
 
-* ``LimbusCompany_Data/Lang/config.json`` with ``"lang": "<Nazwa>"`` (default:
-  ``Polski`` per decision D-09 / O-01) so the game launches directly in Polish;
+* ``LimbusCompany_Data/Lang/config.json`` with the full 5-key schema
+  (``"lang": "<Nazwa>"``, ``"titleFont": ""``, ``"contextFont": ""``,
+  ``"samplingPointSize": 78``, ``"padding": 5``; default language ``Polski``
+  per decision D-09 / O-01);
 * ``LimbusCompany_Data/Lang/<Nazwa>/...`` mirroring 100% of ``Localize/en``
   (with ``EN_`` file prefixes stripped) plus any translated ``kr``-only files,
   keeping untouched English strings as safe fallback so missing keys never
@@ -55,6 +57,8 @@ from tools.package_views import NON_TRANSLATABLE_FIELDS, encode_view_text
 ROOT = Path(__file__).resolve().parent.parent
 ZIP_TIME = (2026, 1, 1, 0, 0, 0)
 DEFAULT_LANG_NAME = "Polski"
+DEFAULT_SAMPLING_POINT_SIZE = 78
+DEFAULT_PADDING = 5
 PL_LOWER = "ąćęłńóśźż"
 PL_UPPER = "ĄĆĘŁŃÓŚŹŻ"
 PL_ALL = f"{PL_LOWER} {PL_UPPER}"
@@ -145,12 +149,17 @@ class BuildSummary:
 
 
 def _discover_fonts(fonts_dir: Path | None) -> tuple[str, str, dict[str, bytes]]:
-    """Discover optional Title/Context fonts and license files under ``assets/fonts/``."""
+    """Discover optional Title/Context fonts and license files under ``assets/fonts/``.
+
+    Limbus Company scans ``Lang/<lang>/Font/Title/`` and ``Lang/<lang>/Font/Context/``
+    automatically while ``titleFont`` / ``contextFont`` in ``Lang/config.json`` remain
+    empty strings ``""``.  Returns ``(bundled_title_rel, bundled_context_rel, members)``.
+    """
     if fonts_dir is None or not fonts_dir.is_dir():
         return "", "", {}
     bundled: dict[str, bytes] = {}
-    title_font = ""
-    context_font = ""
+    bundled_title = ""
+    bundled_context = ""
     for slot in ("Title", "Context"):
         slot_dir = fonts_dir / slot
         if not slot_dir.is_dir():
@@ -161,14 +170,14 @@ def _discover_fonts(fonts_dir: Path | None) -> tuple[str, str, dict[str, bytes]]
             rel = f"Font/{slot}/{f.name}"
             bundled[rel] = f.read_bytes()
             if f.suffix.lower() in {".ttf", ".otf"}:
-                if slot == "Title" and not title_font:
-                    title_font = f"Font/Title/{f.name}"
-                elif slot == "Context" and not context_font:
-                    context_font = f"Font/Context/{f.name}"
+                if slot == "Title" and not bundled_title:
+                    bundled_title = rel
+                elif slot == "Context" and not bundled_context:
+                    bundled_context = rel
     for lic in sorted(fonts_dir.glob("*LICENSE*")) + sorted(fonts_dir.glob("*OFL*")):
         if lic.is_file():
             bundled[f"Font/{lic.name}"] = lic.read_bytes()
-    return title_font, context_font, bundled
+    return bundled_title, bundled_context, bundled
 
 
 def _build_instructions(
@@ -192,11 +201,11 @@ def _build_instructions(
             "Ta paczka NIE zawiera jeszcze tłumaczenia fabuły — dopisuje wyłącznie",
             f"znacznik testowy z 18 polskimi literami ({PL_ALL})",
             "do 4 miejsc w grze, aby sprawdzić w praktyce:",
-            f"  1) czy gra od razu startuje z aktywnym językiem '{lang_name}',",
+            f"  1) aktywację języka '{lang_name}' w oficjalnym mechanizmie Lang/,",
             "  2) czy domyślna czcionka gry wyświetla wszystkie polskie znaki bez kwadratów.",
             "",
-            "GDZIE SPOJRZEĆ PO URUCHOMIENIU GRY (wystarczy 30 sekund):",
-            "  1. Ekran startowy (prawy górny róg, przed wejściem do lobby):",
+            "GDZIE SPOJRZEĆ PO AKTYWACJI JĘZYKA (wystarczy 30 sekund):",
+            "  1. Ekran startowy (lewy dolny róg, przed wejściem do lobby):",
             f"     przycisk 'Clear all caches [PL: {PL_ALL}]'",
             "  2. Dolny pasek w głównym oknie (Window / Lobby):",
             f"     przyciski 'Sinners [{PL_LOWER}]' oraz 'Theater [{PL_UPPER}]'",
@@ -225,11 +234,14 @@ def _build_instructions(
         f"       LimbusCompany_Data\\Lang\\config.json",
         f"       LimbusCompany_Data\\Lang\\{lang_name}\\...",
         "     Żaden oryginalny plik gry nie jest nadpisywany.",
-        "  3. Uruchom grę — dzięki plikowi Lang\\config.json gra od razu",
-        f"     wczyta język '{lang_name}' przy starcie.",
+        "  3. Uruchom grę. Jeśli to pierwsza instalacja i gra nadal wyświetla",
+        "     angielski, na ekranie startowym (lewy dolny róg, obok 'Clear all caches')",
+        f"     kliknij 'Select Custom Language' -> wybierz '{lang_name}' ->",
+        "     zamknij i uruchom grę ponownie. Od kolejnego uruchomienia gra będzie",
+        f"     startować od razu w języku '{lang_name}'.",
         "",
         "ODINSTALOWANIE / WYŁĄCZENIE:",
-        "  Usuń folder 'LimbusCompany_Data\\Lang' (lub zmień w config.json).",
+        "  Usuń folder 'LimbusCompany_Data\\Lang' (lub przełącz w 'Select Custom Language').",
         "",
     ]
     return "\r\n".join(lines).encode("utf-8")
@@ -293,15 +305,17 @@ def build_lang_pack(
         for p_file, p_addr, p_mode, p_text in PROBE_TARGETS:
             probe_lookup.setdefault(p_file, []).append((p_addr, p_mode, p_text))
 
-    title_font, context_font, font_members = _discover_fonts(fonts_dir)
+    bundled_title, bundled_context, font_members = _discover_fonts(fonts_dir)
 
     zip_members: dict[str, bytes] = {}
     lang_prefix = f"LimbusCompany_Data/Lang/{lang_name}"
 
     config_obj = {
         "lang": lang_name,
-        "titleFont": title_font,
-        "contextFont": context_font,
+        "titleFont": "",
+        "contextFont": "",
+        "samplingPointSize": DEFAULT_SAMPLING_POINT_SIZE,
+        "padding": DEFAULT_PADDING,
     }
     zip_members["LimbusCompany_Data/Lang/config.json"] = (
         json.dumps(config_obj, ensure_ascii=False, indent=2) + "\n"
@@ -499,9 +513,13 @@ def build_lang_pack(
         "localize_kr_sha256": cur_kr_sha,
         "localize_en_sha256": cur_en_sha,
         "fonts": {
-            "titleFont": title_font,
-            "contextFont": context_font,
-            "uses_default_game_font": not (title_font or context_font),
+            "titleFont": "",
+            "contextFont": "",
+            "samplingPointSize": DEFAULT_SAMPLING_POINT_SIZE,
+            "padding": DEFAULT_PADDING,
+            "bundled_title_font": bundled_title,
+            "bundled_context_font": bundled_context,
+            "uses_default_game_font": not (bundled_title or bundled_context),
         },
         "files_written": files_written,
         "files_modified": files_modified,

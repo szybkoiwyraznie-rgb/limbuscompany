@@ -5,10 +5,11 @@ Stan na **2026-11-25**.
 ## Gdzie jesteśmy
 
 **Pełny rurociąg lokalizacji (`build_package.py` → `import_zwrotki.py` →
-`build_lang.py`) jest gotowy i przetestowany; na Dysku właściciela czekają
-`plik_dla_tlumacza_v2.zip` (100% gry, E-008) oraz paczka diagnostyczna
-`LCB_TEST_DROGI_Polski_26652290.zip` (test startu gry po polsku i polskich
-znaków w domyślnej czcionce, E-009).**
+`build_lang.py`) jest gotowy i przetestowany; pierwszy test w grze (`v.1.119.1`,
+E-010) potwierdził wykrycie `LimbusCompany_Data/Lang/Polski/` przez przycisk
+`Select Custom Language`, a na Dysku właściciela czeka poprawiona paczka
+diagnostyczna `LCB_TEST_DROGI_Polski_26652290_v2.zip` (pełny 5-kluczowy
+`Lang/config.json`) oraz `plik_dla_tlumacza_v2.zip` (100% gry, E-008).**
 
 - Repozytorium urządzone według wzorców WWM/SRW: zasady (`AGENTS.md`),
   środowisko, lekcje, decyzje, polityka danych, workflow, CI (Ubuntu + Windows).
@@ -34,21 +35,25 @@ znaków w domyślnej czcionce, E-009).**
     `BgmLyrics/*`, automatycznie dziedziczy powtórzenia i zapisuje `tlumaczenie/`
     atomowo (sprawdzone na wszystkich `157 612` pozycjach pakietu: 0 błędów);
   - `tools/build_lang.py` buduje deterministyczne archiwum
-    `LimbusCompany_Data/Lang/config.json` (`"lang": "Polski"`) +
-    `LimbusCompany_Data/Lang/Polski/` z pełnym drzewem 2406 plików `Localize/en`
-    (fallback EN chroniący przed `"Unknown"`).
-- **Paczka diagnostyczna na Dysku (`LCB_TEST_DROGI_Polski_26652290.zip`, E-009):**
-  6 204 533 B (~5,9 MiB), SHA-256 `b897db11…f292` — do 30-sekundowego testu w
-  grze (`Clear all caches [PL: ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ]` na ekranie startowym oraz
-  3 punkty kontrolne w lobby, Prologu i karcie Yi Sanga).
+    `LimbusCompany_Data/Lang/config.json` (pełny schemat 5 kluczy: `"lang":
+    "Polski"`, `titleFont`, `contextFont`, `samplingPointSize: 78`, `padding: 5`)
+    + `LimbusCompany_Data/Lang/Polski/` z pełnym drzewem 2406 plików
+    `Localize/en` (fallback EN chroniący przed `"Unknown"`).
+- **Paczka diagnostyczna na Dysku (`LCB_TEST_DROGI_Polski_26652290_v2.zip`, E-009, E-010):**
+  6 204 710 B (~5,9 MiB), SHA-256 `e63b43c5…7673` — wykrycie folderu
+  `Lang/Polski/` na ekranie tytułowym (`Select Custom Language` obok `Clear all
+  caches`) potwierdzone w `v.1.119.1`; czeka na jednorazowy wybór `Polski` +
+  restart gry, aby potwierdzić wyświetlanie 18 polskich liter (`O-03`).
 
 ## Następny krok
 
-1. **Właściciel:** rozpakować `LimbusCompany_Data` z
-   `LCB_TEST_DROGI_Polski_26652290.zip` do katalogu gry i uruchomić Limbus
-   Company, aby potwierdzić w grze start języka `Polski` oraz wyświetlanie
-   wszystkich 18 polskich znaków w domyślnej czcionce (zamknięcie ostatniej
-   otwartej decyzji **O-03**); przekazać `plik_dla_tlumacza_v2.zip` tłumaczowi.
+1. **Właściciel:** podmienić `LimbusCompany_Data/Lang/config.json` z
+   `LCB_TEST_DROGI_Polski_26652290_v2.zip` (lub usunąć stary 3-kluczowy
+   `config.json`), na ekranie startowym w lewym dolnym rogu kliknąć **`Select
+   Custom Language` → `Polski`** i uruchomić grę ponownie, po czym sprawdzić
+   polskie znaki na `Clear all caches [PL: ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ]` i w lobby
+   (zamknięcie ostatniej otwartej decyzji **O-03**); przekazać
+   `plik_dla_tlumacza_v2.zip` tłumaczowi.
 2. **Agent:** po zgłoszeniu wyniku testu z gry zapisać wpis w
    `EXPERIMENT_LOG.md` i zamknąć O-03 (albo dołożyć czcionki OFL w
    `assets/fonts/`, gdyby brakowało znaków), a następnie przygotować

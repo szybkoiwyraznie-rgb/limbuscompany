@@ -4,7 +4,7 @@ Docelowa instalacja u gracza:
 
 ```
 LimbusCompany_Data/Lang/
-├── config.json            ← {"lang": "Polski", "titleFont": "", "contextFont": ""}
+├── config.json            ← {"lang": "Polski", "titleFont": "", "contextFont": "", "samplingPointSize": 78, "padding": 5}
 └── Polski/                ← nazwa ustalona w D-09 (zamyka O-01)
     ├── LoginUIText.json   ← ta sama ścieżka logiczna co w Localize/en, bez prefiksu EN_
     ├── MainUIText.json
@@ -15,14 +15,37 @@ LimbusCompany_Data/Lang/
         └── Title/<czcionka>.ttf|otf
 ```
 
-## `config.json` — obserwacja z publicznych paczek
+## `config.json` i aktywacja języka w grze
 
-Klucze: `lang` (= nazwa folderu), `titleFont`, `contextFont`,
-`samplingPointSize` (np. 78), `padding` (np. 5–8). Dokładne znaczenie
-`samplingPointSize`/`padding` (generowanie atlasu SDF czcionki w grze) —
-**hipoteza**, ustalimy testem w grze. Zbieracz kopiuje istniejący
-`Lang/config.json` właściciela, jeśli jest, i spisuje nazwy innych folderów
-w `Lang/`.
+Pełny schemat używany przez grę i narzędzia społeczności (`v.1.119.1`):
+
+```json
+{
+  "lang": "Polski",
+  "titleFont": "",
+  "contextFont": "",
+  "samplingPointSize": 78,
+  "padding": 5
+}
+```
+
+- `lang` — nazwa podkatalogu w `LimbusCompany_Data/Lang/`.
+- `titleFont`, `contextFont` — puste ciągi `""` (nawet gdy używany jest katalog
+  `Font/Title/` i `Font/Context/`, gra sama skanuje oba podkatalogi; wpisanie
+  tam ścieżki względnej zdublowałoby podkatalog).
+- `samplingPointSize` (`78`) i `padding` (`5`) — parametry dynamicznego atlasu
+  SDF czcionki w Unity TextMeshPro; przy ich pominięciu deserializacja w C#
+  podstawia `0`, a nasz pierwszy test w grze (`E-010`, `v.1.119.1`) pokazał, że
+  3-kluczowy `config.json` nie aktywuje języka przy pierwszym uruchomieniu.
+- **Aktywacja przy pierwszej instalacji (`v.1.119.1`, E-010):** po wykryciu
+  choćby jednego podkatalogu w `LimbusCompany_Data/Lang/` gra wyświetla na
+  ekranie tytułowym (lewy dolny róg, obok `Clear all caches`) przycisk
+  **`Select Custom Language`** (`custom_localize_button` w `LoginUIText.json`).
+  Jeśli pierwsze uruchomienie po rozpakowaniu otworzy się po angielsku,
+  jednorazowy wybór `Select Custom Language` → `Polski` i ponowne uruchomienie
+  gry (`custom_localize_desc`: *„Restart the game to apply the language change”*)
+  zapisuje wybór — od tej pory każde kolejne uruchomienie startuje od razu po
+  polsku.
 
 ## Czcionki i polskie znaki
 
@@ -61,10 +84,9 @@ być zbędne).
   musi być identyczny ze zbiorem adresów źródła, a tokeny/znaczniki TMP,
   zmienne `{0}` i słowa kluczowe `[Keyword]` muszą przejść bramkę.
 - Wynik produkcyjny: `dist/LCB_PL_Polski_<build>.zip` z układem
-  `LimbusCompany_Data/Lang/config.json` + `LimbusCompany_Data/Lang/Polski/…`,
-  `INSTRUKCJA.txt` oraz `MANIFEST.json` (build Steam, SHA-256 źródeł,
-  pokrycie i ostrzeżenia wersji). Dzięki `Lang/config.json` z `"lang": "Polski"`
-  gra po rozpakowaniu do katalogu głównego gry uruchamia się od razu po polsku.
+  `LimbusCompany_Data/Lang/config.json` (pełny schemat 5 kluczy) +
+  `LimbusCompany_Data/Lang/Polski/…`, `INSTRUKCJA.txt` oraz `MANIFEST.json`
+  (build Steam, SHA-256 źródeł, pokrycie i ostrzeżenia wersji).
 - Wynik diagnostyczny (`python3 tools/build_lang.py --probe`):
   `dist/LCB_TEST_DROGI_Polski_<build>.zip` — nie zapisuje nic do `tlumaczenie/`
   ani nie tłumaczy tekstów gry, lecz dopisuje znacznik `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ` do

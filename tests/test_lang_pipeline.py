@@ -265,9 +265,16 @@ class LangPipelineTests(unittest.TestCase):
 
         with zipfile.ZipFile(out_zip) as zf:
             cfg = json.loads(zf.read("LimbusCompany_Data/Lang/config.json").decode("utf-8"))
-            self.assertEqual(cfg["lang"], "Polski")
-            self.assertEqual(cfg["titleFont"], "")
-            self.assertEqual(cfg["contextFont"], "")
+            self.assertEqual(
+                cfg,
+                {
+                    "lang": "Polski",
+                    "titleFont": "",
+                    "contextFont": "",
+                    "samplingPointSize": 78,
+                    "padding": 5,
+                },
+            )
 
             # Story S001B checks: content, Dante <I ...>, ruby, newline, glossary teller/title/place
             s1 = load_json(zf.read("LimbusCompany_Data/Lang/Polski/StoryData/S001B.json"))
@@ -386,7 +393,16 @@ class LangPipelineTests(unittest.TestCase):
 
         with zipfile.ZipFile(probe_zip) as zf:
             cfg = json.loads(zf.read("LimbusCompany_Data/Lang/config.json").decode("utf-8"))
-            self.assertEqual(cfg, {"lang": "Polski", "titleFont": "", "contextFont": ""})
+            self.assertEqual(
+                cfg,
+                {
+                    "lang": "Polski",
+                    "titleFont": "",
+                    "contextFont": "",
+                    "samplingPointSize": 78,
+                    "padding": 5,
+                },
+            )
 
             login = load_json(zf.read("LimbusCompany_Data/Lang/Polski/LoginUIText.json"))
             login_map = {r["id"]: r["content"] for r in login["dataList"]}
@@ -403,6 +419,52 @@ class LangPipelineTests(unittest.TestCase):
                         )
                     }
                     self.assertEqual(src_addrs, out_addrs, logical)
+
+    def test_optional_font_slots_keep_five_key_config(self) -> None:
+        fonts_dir = self.root / "fonts"
+        (fonts_dir / "Title").mkdir(parents=True)
+        (fonts_dir / "Context").mkdir(parents=True)
+        (fonts_dir / "Title" / "SyntheticTitle.otf").write_bytes(b"SYNTH_TITLE")
+        (fonts_dir / "Context" / "SyntheticContext.ttf").write_bytes(b"SYNTH_CONTEXT")
+        (fonts_dir / "OFL-LICENSE.txt").write_text("Synthetic OFL\n", encoding="utf-8")
+
+        out_zip = self.root / "dist" / "LCB_PL_Polski_fonts.zip"
+        build_lang.build_lang_pack(
+            localize_path=self.snap,
+            index_manifest_path=self.manifest_path,
+            tlumaczenie_dir=self.root / "empty_tlum",
+            fonts_dir=fonts_dir,
+            lang_name="Polski",
+            out_zip=out_zip,
+        )
+        with zipfile.ZipFile(out_zip) as zf:
+            cfg = json.loads(zf.read("LimbusCompany_Data/Lang/config.json").decode("utf-8"))
+            self.assertEqual(
+                cfg,
+                {
+                    "lang": "Polski",
+                    "titleFont": "",
+                    "contextFont": "",
+                    "samplingPointSize": 78,
+                    "padding": 5,
+                },
+            )
+            self.assertEqual(
+                zf.read("LimbusCompany_Data/Lang/Polski/Font/Title/SyntheticTitle.otf"),
+                b"SYNTH_TITLE",
+            )
+            self.assertEqual(
+                zf.read("LimbusCompany_Data/Lang/Polski/Font/Context/SyntheticContext.ttf"),
+                b"SYNTH_CONTEXT",
+            )
+            self.assertIn(
+                "LimbusCompany_Data/Lang/Polski/Font/OFL-LICENSE.txt",
+                zf.namelist(),
+            )
+            manifest = json.loads(zf.read("MANIFEST.json").decode("utf-8"))
+            self.assertFalse(manifest["fonts"]["uses_default_game_font"])
+            self.assertEqual(manifest["fonts"]["bundled_title_font"], "Font/Title/SyntheticTitle.otf")
+            self.assertEqual(manifest["fonts"]["bundled_context_font"], "Font/Context/SyntheticContext.ttf")
 
 
 if __name__ == "__main__":
