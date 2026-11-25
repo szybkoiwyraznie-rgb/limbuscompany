@@ -345,6 +345,20 @@ def git_head(path: Path) -> str | None:
     return out.stdout.strip() or None
 
 
+def source_label(path: Path, section: str) -> str | None:
+    """Where ``path`` came from: ``index/MANIFEST.json`` for imported data, else the git commit of a mirror."""
+    for parent in (path, *path.parents):
+        manifest = parent / "MANIFEST.json"
+        if manifest.is_file():
+            try:
+                return json.loads(manifest.read_text(encoding="utf-8")).get(section, {}).get("zrodlo")
+            except (OSError, ValueError):
+                return None
+        if (parent / ".git").exists():
+            return git_head(parent)
+    return None
+
+
 def build(static: StaticData, snapshot: Snapshot) -> dict:
     chapters = collect_chapters(static)
     placed: set[str] = set()
@@ -372,8 +386,8 @@ def build(static: StaticData, snapshot: Snapshot) -> dict:
         ordered.append(chapter)
     return {
         "format": FORMAT,
-        "zrodla": {"static_data_commit": git_head(static.root), "localize_commit": git_head(snapshot.source)
-                   if snapshot.source.is_dir() else None},
+        "zrodla": {"static_data": source_label(static.root, "static_data"),
+                   "localize": source_label(snapshot.source, "localize") if snapshot.source.is_dir() else None},
         "liczby": {
             "pliki_storydata": len(stems),
             "sceny_w_indeksie": len(placed),
@@ -402,8 +416,10 @@ def dumps(index: dict) -> str:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("static_data", type=Path, help="directory with static-data tables")
-    parser.add_argument("snapshot", type=Path, help="collector ZIP or directory with <lang>/ Localize files")
+    parser.add_argument("static_data", type=Path, nargs="?", default=ROOT / "index" / "static-data",
+                        help="static-data tables (default: index/static-data)")
+    parser.add_argument("snapshot", type=Path, nargs="?", default=ROOT / "index" / "localize",
+                        help="Localize: index/localize (default), a collector ZIP or a directory with <lang>/")
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
     args = parser.parse_args(argv)
     static = StaticData(args.static_data)

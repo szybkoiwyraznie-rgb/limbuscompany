@@ -1,0 +1,23 @@
+{
+  "list": [
+    {
+      "comboKey": "MeurBasic3Combo",
+      "conditionType": "Item",
+      "conditionValue": ["I990915"],
+      "steps": [
+        { "attackId": "Basic" },
+        { "attackId": "BasicB" },
+        { "attackId": "BasicC" }
+      ]
+    },
+    {
+      "comboKey": "MeurBasicCombo",
+      "conditionType": "Item",
+      "conditionValue": ["I990004"],
+      "steps": [
+        { "attackId": "Basic" },
+        { "attackId": "BasicB" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "dataList": [
+    {
+      "id": "main_ui_rpg_battle_defeated_title",
+      "content": "전투 패배"
+    },
+    {
+      "id": "main_ui_rpg_battle_defeated_desc",
+      "content": "<color=#990000>모든 수감자가 사망했습니다.</color>\n이후 진행을 선택해주세요."
+    },
+    {
+      "id": "main_ui_rpg_retry",
+      "content": "재도전"
+    },
+    {
+      "id": "main_ui_rpg_retry_desc",
+      "content": "해당 전투를 처음부터 다시 시작"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat",
+      "content": "포기"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat_desc",
+      "content": "마지막 저장 상태의 샘터로 복귀"
+    },
+    {
+      "id": "ContinueConfirm_Desc_Rpg_Stage",
+      "content": "10-4 스테이지는 전투 중 컨티뉴 기능을 사용하여도 \n최종 클리어 시 EX 클리어로 기록됩니다.\n\n단, 컨티뉴 사용 이후 <color=#990000>재도전, 패배, 포기 없이 전투에서 승리하고 진행도가 저장</color>된 경우,\n<color=#990000>10-4 스테이지를 중도 포기하여도 컨티뉴에 사용된 재화가 반환되지 않습니다.</color>\n또한 사용된 광기는 청약철회가 불가능합니다."
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned_desc",
+      "content": "현재 보유한 E.G.O 자원의 수량입니다."
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned",
+      "content": "보유 E.G.O 자원"
+    },
+    {
+      "id": "9128_chapter_notice_button_title",
+      "content": "챕터 유의사항"
+    },
+    {
+      "id": "9128_chapter_notice_popup_title",
+      "content": "현재 플레이하고 있는 챕터는 <color=#3246AB>[{0}장 {1}]</color>입니다."
+    },
+    {
+      "id": "9128_chapter_notice_enter_title",
+      "content": "<color=#3246AB>[{0}장 {1}]</color>에 진입하시겠습니까?"
+    },
+    {
+      "id": "9128_chapter_notice_popup_desc",
+      "content": "◆ 이전 챕터를 클리어하지 않았더라도 <color=#ff6000><mark color=#ff000040><b><u>주요 이야기 10장의 플레이가 가능</color></mark></b></u>합니다.\n◆ <color=#ff6000><mark color=#ff000040><b><u>9.5장까지의 스포일러</color></mark></b></u>를 담고 있습니다.\n◆ 10장을 클리어했을 때 이전 챕터를 클리어하지 않은 경우, 거울 던전, 거울굴절철도, 채광, 사영전투 등 <color=#ff6000><mark color=#ff000040><b><u>이전 챕터를 클리어해야 개방되는 콘텐츠를 이용할 수 없습니다.</color></mark></b></u> 모든 콘텐츠를 이용하기 위해 개방 조건을 충족해주시기 바랍니다.\n◆ 10장 클리어를 조건으로 하는 콘텐츠(향후 업데이트 예정)는 <color=#ff6000><mark color=#ff000040><b><u>10장 및 9.5-26 스테이지를 클리어</color></mark></b></u>해주시기 바랍니다.\n◆ 10장 플레이 시, <color=#ff6000><mark color=#ff000040><b><u>뫼르소의 일부 인격이 지원</color></mark></b></u>됩니다. (지원 인격 및 E.G.O에는 동기화/환상 해석 4단계가 적용됩니다.)\n◆ 10장 플레이 시, <color=#ff6000><mark color=#ff000040><b><u>모든 아군의 인격 동기화 3단계가 지원</color></mark></b></u>됩니다. E.G.O는 별도로 환상 해석이 보정되지 않습니다."
+    },
+    {
+      "id": "settings_battle_effect_gate",
+      "content": "중요 전투 진행 시 인격/E.G.O 연출용 오브젝트 숨김"
+    },
+    {
+      "id": "exp_dungeon_10_open_condition",
+      "content": "9.5-26 및 10-4 클리어"
+    },
+    {
+      "id": "formation_deck_code_condition_reset",
+      "content": "편성 조건에 맞지 않는 인격은 기본 인격으로 적용되었습니다."
+    },
+    {
+      "id": "character_list_friend_support_companion_impossible",
+      "content": "함께 지정되는 {0}의 지원 인격을 지정할 수 없는 스테이지입니다."
+    },
+    {
+      "id": "gacha_additional_explain_button_label",
+      "content": "동시 획득 인격 안내"
+    },
+    {
+      "id": "gacha_307_additional_explain_title",
+      "content": "동시 획득 인격 안내"
+    },
+    {
+      "id": "gacha_307_additional_explain_desc",
+      "content": "쐐기 사무소 해결사 돈키호테와 쐐기 사무소 해결사 싱클레어는 추출에서 하나의 3성 인격으로 취급되며,\n등장 시 두 인격을 항상 함께 획득합니다.\n\n· 쐐기 사무소 해결사 돈키호테 & 쐐기 사무소 해결사 싱클레어의 등장 확률은 아래와 같습니다.\n- 두 인격이 대표 3성 인격(픽업)인 특정 추출: 대표 3성 인격 1명의 등장 확률과 동일\n- 그 외 두 인격이 등장하는 추출: 대표가 아닌 3성 인격 1명의 등장 확률과 동일\n(자세한 확률은 각 추출의 [확률 상세보기]에서 확인할 수 있습니다.)\n \n· 별빛도 3성 인격 1명분으로 계산되어, 추출에서 첫 획득 시 두 인격을 합쳐 별빛 300개를 얻습니다.\n\n· 두 인격이 대표 3성 인격인 특정 추출에서는 이상[理想] 200개로 두 인격을 함께 교환할 수 있습니다.\n\n· 두 인격을 이미 보유한 상태에서 다시 획득하면,\n등급에 따른 자아 파편 대신 현재 시즌의 돈키호테 자아 파편 25개와 싱클레어 자아 파편 25개를 획득합니다.\n\n· 자판기에 추가된 후에는 돈키호테 자아 파편과 싱클레어 자아 파편을 합쳐 400개로 두 인격을 함께 구입할 수 있습니다. 두 자아 파편을 각각 1개 이상 사용해야 하며, 비율은 자유롭게 정할 수 있습니다.\n\n· 인격 레벨 상승, 동기화, 외형 투영 시 두 인격을 각각 따로 진행해야하며, 인격마다 일반 3성 인격과 같은 재료가 필요합니다. 이때 자아 파편은 해당 수감자의 자아 파편을 사용합니다."
+    },
+    {
+      "id": "formation_ui_panel_start_battle_lor",
+      "content": "접대 시작"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_ashes",
+      "content": "밝은 모든 것들을 남김없이 태워버리기 위해…"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_nostalgic_embrace",
+      "content": "나를 꼬옥 안아주지 않을래? 마음이 편해질 거야."
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_gluttony",
+      "content": "우리가 네 곁을 지키는 이유?\n당연히 보호하기 위해서지!"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have_companion",
+      "content": "선택한 인격을 모두 이미 보유 중입니다. 이상[理想] 200개를 소모하여 각 수감자의 파편을 25개씩 교환하시겠습니까?"
+    },
+    {
+      "id": "notice_of_vending_machine_companion_1",
+      "content": "돈키호테 자아 파편과 싱클레어 자아 파편을 합쳐 400개로 두 인격을 함께 구입할 수 있습니다. 두 자아 파편을 각각 1개 이상 사용해야 하며, 비율은 자유롭게 정할 수 있습니다."
+    },
+    {
+      "id": "notice_of_story_same_content",
+      "content": "{0}와 동일한 내용으로, 보상만 수령되었습니다."
+    },
+    {
+      "id": "10th_anniversary_event_desc",
+      "content": "기간 내 접속 시 3성 인격 출현 추출 티켓 및 광기 증정"
+    }
+  ]
+}

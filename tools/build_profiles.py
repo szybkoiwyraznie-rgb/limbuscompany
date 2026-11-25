@@ -13,8 +13,8 @@ files:
   defense level, resistances, Stagger thresholds, keywords), skills with power
   per Uptie and their texts, passives with requirements, voice lines.
 
-The output contains game text, so it goes to ``local/`` or the owner's Drive,
-never to Git.
+Output: ``czytanki/plik_ID_<LANG>/`` (Markdown, versioned in Git like the
+source texts in ``index/``).
 """
 from __future__ import annotations
 
@@ -247,16 +247,21 @@ class Library:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("static_data", type=Path)
-    parser.add_argument("snapshot", type=Path, help="collector ZIP or directory with <lang>/ Localize files")
+    parser.add_argument("static_data", type=Path, nargs="?", default=ROOT / "index" / "static-data",
+                        help="static-data tables (default: index/static-data)")
+    parser.add_argument("snapshot", type=Path, nargs="?", default=ROOT / "index" / "localize",
+                        help="Localize: index/localize (default), a collector ZIP or a directory with <lang>/")
     parser.add_argument("--lang", default="en")
-    parser.add_argument("--out", type=Path, default=ROOT / "local" / "profile")
+    parser.add_argument("--out", type=Path, help="default: czytanki/plik_ID_<LANG>")
     parser.add_argument("--only", action="append", type=int, help="character id(s), e.g. 1 = Yi Sang")
     args = parser.parse_args(argv)
     static = StaticData(args.static_data)
+    args.out = args.out or ROOT / "czytanki" / f"plik_ID_{args.lang.upper()}"
     args.out.mkdir(parents=True, exist_ok=True)
     with Snapshot.open(args.snapshot) as snapshot:
         library = Library(static, Texts(snapshot, args.lang))
+        english = (Library(static, Texts(snapshot, "en")) if args.lang != "en" and "en" in snapshot.languages
+                   else library)
         characters = sorted({row.get("characterId") for row in library.personalities.values()
                              if isinstance(row.get("characterId"), int)})
         written = 0
@@ -264,7 +269,8 @@ def main(argv: list[str] | None = None) -> int:
             if args.only and character not in args.only:
                 continue
             name, text = library.sinner_file(character, args.lang)
-            ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+            en_name = one_line(to_markdown(english.characters.get(str(character), {}).get("name"))) or name
+            ascii_name = unicodedata.normalize("NFKD", en_name).encode("ascii", "ignore").decode()
             file_name = f"identity_{character:02d}_{re.sub(r'[^A-Za-z0-9]+', '_', ascii_name).strip('_')}_{args.lang.upper()}.md"
             (args.out / file_name).write_text(text, encoding="utf-8")
             written += 1

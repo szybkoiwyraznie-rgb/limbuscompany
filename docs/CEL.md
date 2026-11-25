@@ -39,7 +39,7 @@
 | Kto tłumaczy | zewnętrzny tłumacz z Pakietów; agenci tylko technika | właściciel, 2026-11-25 |
 | Mechanizm instalacji | wyłącznie oficjalny Custom Language (`Lang/`) | [FEASIBILITY.md](FEASIBILITY.md) |
 | Dostarczanie plików gry | zbieracz `URUCHOM.bat` → ZIP → Dysk Google | [DECYZJE.md](DECYZJE.md) D-01 |
-| Teksty w Git | tak, znormalizowany wyciąg w `index/` | [DATA_POLICY.md](DATA_POLICY.md) |
+| Teksty w Git | tak — pliki JSON gry w `index/` (bez binariów), Czytanki MD w `czytanki/` | [DATA_POLICY.md](DATA_POLICY.md) |
 | Język źródłowy przekładu | **koreański (`kr`)**, angielski (`en`) jako odniesienie, `jp` do wglądu; warunek: tłumacz czyta po koreańsku (O-05) | [DECYZJE.md](DECYZJE.md) D-05 |
 | Cudze tłumaczenia (także PL) | tylko wiedza techniczna, zero tekstu | [PRIOR_ART.md](PRIOR_ART.md) |
 

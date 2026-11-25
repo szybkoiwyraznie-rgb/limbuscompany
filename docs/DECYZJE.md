@@ -27,9 +27,10 @@ i hashy źródłowych.
 ### D-02 · 2026-11-25 · Wyciąg tekstów jest wersjonowany w `index/`
 
 Jak w WWM i SRW: teksty potrzebne do budowania pakietów, paczki `Lang/` i
-Czytanek są w Git (znormalizowane, z manifestem buildu). Pozwala to budować bez
+Czytanek są w Git (z manifestem źródła). Pozwala to budować bez
 dostępu do Dysku i robić diffy między wersjami gry. Szczegóły i granice:
-[DATA_POLICY.md](DATA_POLICY.md).
+[DATA_POLICY.md](DATA_POLICY.md). Wykonanie (E-006): pliki JSON gry bajt w
+bajt, bez normalizacji — [INDEX_FORMAT.md](INDEX_FORMAT.md).
 
 ### D-03 · 2026-11-25 · ~~Przekład z angielskiego~~ — ZASTĄPIONA przez D-05
 
@@ -73,22 +74,25 @@ koreańsku, a angielski to już przekład. Tłumaczenie z angielskiego byłoby
 fabularny ma koreański w linii elementu i `EN:` jako odniesienie
 ([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)).
 
-### D-06 · 2026-11-25 · Lustra i pliki gry — swobodnie w piaskownicy, nigdy w repozytorium
+### D-06 · 2026-11-25 · Teksty gry w repozytorium (JSON/MD), binaria nigdy
 
-Odpowiedź właściciela na O-07: wolno pracować na plikach gry i publicznych
-lustrach (TW `story-data`, OpenLethe `StaticData`, także binaria), ale **tylko
-poza repozytorium** (`local/`, `/tmp`). W piaskownicy można je dowolnie
-analizować i przetwarzać.
+Odpowiedzi właściciela na O-07 i O-06 (poprawka tego samego dnia — pierwsza
+wersja tej decyzji błędnie trzymała teksty poza repo):
 
-- Do Git trafiają wyłącznie **narzędzia, testy na danych wymyślonych i
-  pochodne identyfikatory/liczby** (np. `wiedza/indeks_fabuly.json`: numery
-  rozdziałów, węzłów, nazwy plików scen) — bez tekstu gry i bez kopii tabel.
-- OpenLethe nie ma licencji: nie kopiujemy jego plików do repozytorium; służy
-  jako lokalne źródło struktury (Teatr Opowieści, etapy, walki, statystyki).
-- Czytanki i pakiety zbudowane z luster są próbkami do oceny układu; wersje
-  „oficjalne” (pakiety dla tłumacza, `index/`) budujemy z paczki zbieracza
-  właściciela (znany build), gdy przyjdzie. Narzędzia czytają oba źródła tak
-  samo.
+- Wolno pracować na plikach gry i publicznych lustrach (TW `story-data`,
+  OpenLethe `StaticData`, także binaria) w piaskownicy — swobodnie.
+- **Teksty gry są w repozytorium** jako JSON/MD, jak w WWM i SRW:
+  `index/localize/{kr,en}` (pliki Localize bajt w bajt), `index/static-data/`
+  (potrzebne tabele) z `index/MANIFEST.json`, wygenerowane `czytanki/`.
+  Opis: [INDEX_FORMAT.md](INDEX_FORMAT.md), zasady: [DATA_POLICY.md](DATA_POLICY.md).
+- **Binaria gry nigdy nie trafiają do repozytorium** (bundle, `*.assets`,
+  pliki wykonywalne, archiwa, czcionki gry); pilnuje tego `.gitignore` i
+  `tools/check_repository.py`.
+- Repozytorium zostaje publiczne.
+- Źródło jest zapisane w manifeście. Obecnie są to lustra o nieznanym buildzie
+  Steam; po paczce zbieracza właściciela (`LCB_DANE_*.zip`) podmieniamy
+  `index/` jednym poleceniem (`tools/import_data.py`), a `git diff` pokaże
+  różnice. OpenLethe nie ma pliku licencji — w manifeście jest to zaznaczone.
 
 ### D-07 · 2026-11-25 · Pakiet i Czytanki w układzie SRW, z maksimum kontekstu
 
@@ -115,5 +119,5 @@ Szczegóły: [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md), [CZYTANKI.md](CZYTANKI.md
 | O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | przed testem w grze | właściciel: prawdopodobnie tak — **najpierw test bez własnych czcionek**; zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
 | O-04 | Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX) | po lekturze próbek | układ wg D-07; po akceptacji zamrożony |
 | ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |
-| O-06 | Czy repozytorium ma pozostać publiczne, skoro `index/` zawiera tekst gry | przed pierwszym commitem `index/` | patrz [DATA_POLICY.md](DATA_POLICY.md) |
-| ~~O-07~~ | ~~Czy wolno pracować na publicznych lustrach~~ | — | **zamknięte 2026-11-25: tak, poza repozytorium** → D-06 |
+| ~~O-06~~ | ~~Czy teksty gry mają być w repozytorium (publicznym)~~ | — | **zamknięte 2026-11-25: tak, jako JSON/MD; binaria nigdy** → D-06 |
+| ~~O-07~~ | ~~Czy wolno pracować na publicznych lustrach~~ | — | **zamknięte 2026-11-25: tak** → D-06 |

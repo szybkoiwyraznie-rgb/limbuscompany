@@ -11,9 +11,10 @@ Repozytorium jest **publiczne**. Zasady przejęte z WWM i SRW
   ignorowanym `google_drive/` lub `local/`.
 - Dane konta, zapisy, logi gry, prywatne zrzuty ekranu, identyfikatory i linki
   do prywatnych plików Dysku, pełne ścieżki z nazwą użytkownika Windows.
-- Teksty innych fanowskich tłumaczeń ([PRIOR_ART.md](PRIOR_ART.md)).
-- Kopie publicznych luster oryginalnych plików (O-07) i raporty z nich —
-  wyłącznie w ignorowanym `local/`.
+- Teksty innych fanowskich tłumaczeń ([PRIOR_ART.md](PRIOR_ART.md)) — także
+  chińskie/inne przekłady z luster (do `index/` kopiujemy tylko `kr` i `en`).
+- Całe klony luster (`.git`, skrypty, inne języki) — tylko w `/tmp` lub
+  `local/`; do repo trafiają skopiowane z nich pliki JSON z tekstami gry.
 
 `tools/check_repository.py` odrzuca pliki > 10 MiB, typowe rozszerzenia
 binariów gry i czcionki poza `assets/fonts/`. To nie jest skaner treści —
@@ -22,24 +23,25 @@ diff przeglądaj samodzielnie.
 ## W Git
 
 - Kod, testy na danych wymyślonych, dokumentacja, manifesty.
-- **`wiedza/`:** wiedza o strukturze gry bez tekstu gry (nazwy plików,
-  identyfikatory, liczby), np. `indeks_fabuly.json`, `kolejnosc_fabuly.json`.
-- Pliki gry i lustra (także StaticData) są analizowane tylko poza repo
-  (`local/`, `/tmp`; D-06); do Git trafiają wyłącznie pochodne identyfikatory.
-- **`index/` (planowane, D-02):** znormalizowany wyciąg tekstów z
-  `Localize/kr` (źródło, D-05), `en` (odniesienie) i `jp` z manifestem buildu Steam i SHA-256 plików
-  źródłowych. Budowanie Pakietów, paczki `Lang/` i Czytanek czyta tylko stąd.
-  Format zostanie opisany w `docs/INDEX_FORMAT.md` przy pierwszym wyciągu.
+- **Teksty gry jako JSON/MD (D-06, jak w WWM i SRW):**
+  - **`index/`** — pliki tekstowe gry w formie JSON: `index/localize/kr` (źródło,
+    D-05) i `index/localize/en` (odniesienie) bajt w bajt jak w grze oraz
+    potrzebne tabele `index/static-data/` (Teatr Opowieści, etapy, walki,
+    Identity, umiejętności, pasywki), z `index/MANIFEST.json` (źródło, liczby,
+    SHA-256). Opis: [INDEX_FORMAT.md](INDEX_FORMAT.md). Wszystkie narzędzia domyślnie czytają
+    stąd, a `git diff index/` po aktualizacji pokazuje, co zmieniła gra.
+  - **`czytanki/`** — wygenerowane Czytanki i pliki ID w Markdown
+    ([CZYTANKI.md](CZYTANKI.md)).
+- **`wiedza/`:** wiedza o strukturze gry (nazwy plików, identyfikatory,
+  liczby), np. `indeks_fabuly.json`, `kolejnosc_fabuly.json`.
 - **`tlumaczenie/`, `zwrotki/` (planowane):** przyjęte przekłady i rejestr
   zwrotek tłumacza z raportami importu.
 - **`assets/fonts/` (planowane):** wyłącznie czcionki na licencji pozwalającej
   na redystrybucję (np. SIL OFL) razem z plikiem licencji.
 
-> **Do potwierdzenia przez właściciela (O-06 w [DECYZJE.md](DECYZJE.md)):**
-> w WWM i SRW właściciel zgodził się na teksty gry w repozytorium. Przed
-> pierwszym commitem `index/` agent pyta jednym zdaniem, czy repozytorium
-> pozostaje publiczne, czy ma zostać przełączone na prywatne. Do tego czasu
-> prawdziwe wyciągi zostają w `local/`.
+Teksty gry w repozytorium potwierdził właściciel 2026-11-25 (O-06 zamknięte;
+repozytorium zostaje publiczne, jak WWM i SRW). Pliki binarne gry nadal
+**nigdy** nie trafiają do Git.
 
 ## Wyjścia narzędzi
 
@@ -48,7 +50,8 @@ diff przeglądaj samodzielnie.
 - `inspect_localize.py` — na standardowe wyjście tylko liczby; plik raportu w
   `local/inspekcja/` zawiera nazwy plików i pól, a z `--probki N` także
   **fragmenty tekstu gry** → prywatny, nie wklejać do PR.
-- Testy i CI nigdy nie dotykają prawdziwych danych.
+- Testy jednostkowe działają na danych wymyślonych (szybkie, niezależne od
+  aktualizacji gry); `index/` służy do budowania wyników, nie do testów CI.
 
 ## Przekazywanie tekstów
 

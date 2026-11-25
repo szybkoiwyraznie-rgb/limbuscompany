@@ -130,3 +130,26 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   kolejność scen tras wynika z numeracji plików; limit 340 to miara z
   danych, nie test w grze; nazwy przynależności (`MOLAR`) bez tłumaczenia w
   danych — pokazywane jako klucz.
+
+## E-006 · 2026-11-25 · teksty gry w repozytorium: `index/` i `czytanki/`
+
+- **Powód:** korekta właściciela — teksty gry mają być w repozytorium jako
+  JSON/MD (jak w WWM i SRW), binaria nigdy. Wcześniejsze D-06 i raport E-005
+  mówiły błędnie „bez tekstu gry w repo” (lekcja 29).
+- **Narzędzie:** `tools/import_data.py` kopiuje pliki JSON bajt w bajt do
+  `index/localize/<lang>/` i `index/static-data/<tabela>/`, zapisuje
+  `index/MANIFEST.json` (źródło, liczby, SHA-256). Generatory domyślnie
+  czytają `index/`; Czytanki i pliki ID trafiają do `czytanki/`.
+- **Liczby:** `localize/kr` 2449 plików / 24 594 177 B (SHA-256 katalogu
+  `7762f110…77bb`), `localize/en` 2406 / 25 492 917 B (`1958134f…91ea`) z
+  lustra TW @ `f218bbec`; `static-data` 12 tabel, 1153 pliki / 21 620 590 B z
+  OpenLethe @ `8f24cba5`. Największy plik < 5 MB. `czytanki/`: 2 × 37 plików
+  fabuły (spis + 36 rozdziałów) i 2 × 12 plików ID.
+- **Zmiana w indeksie fabuły:** 1001 plików StoryData zamiast 1002 —
+  `S1002A` istnieje w lustrze tylko po japońsku (bez KR/EN), a JP nie jest
+  kopiowany. Reszta indeksu bez zmian; `zrodla` podaje teraz opis z manifestu
+  zamiast commitu katalogu.
+- **Kontrola:** `diff -r` lustra z `index/localize/kr` — identyczne;
+  ponowny import daje ten sam manifest; `.gitattributes` wyłącza konwersję
+  końców wierszy w `index/localize` i `index/static-data` (28 plików z BOM
+  zostaje nietkniętych).

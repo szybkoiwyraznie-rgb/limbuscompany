@@ -23,8 +23,8 @@ they are translated once in ``mowcy-i-miejsca.md`` and only shown as context in
 the scenes. Repeated lines in one file are marked ``(powtórzenie elementu N)``.
 
 Sources: the story index (``wiedza/indeks_fabuly.json``) and a Localize
-snapshot with ``kr`` (source) and ``en`` (reference). The output contains game
-text: ``local/`` or the owner's Drive only.
+snapshot with ``kr`` (source) and ``en`` (reference), by default ``index/localize``.
+The ZIP goes to ``local/pakiet/`` and the owner's Drive (ZIPs are not versioned).
 """
 from __future__ import annotations
 
@@ -383,7 +383,8 @@ def write_zip(path: Path, files: dict[str, bytes]) -> None:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("snapshot", type=Path, help="collector ZIP or directory with kr/ and en/ Localize files")
+    parser.add_argument("snapshot", type=Path, nargs="?", default=ROOT / "index" / "localize",
+                        help="Localize: index/localize (default), a collector ZIP or a directory with <lang>/")
     parser.add_argument("--index", type=Path, default=ROOT / "wiedza" / "indeks_fabuly.json")
     parser.add_argument("--version", type=int, default=1)
     parser.add_argument("--out", type=Path, default=ROOT / "local" / "pakiet")

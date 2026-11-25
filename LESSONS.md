@@ -117,3 +117,8 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
 28. **Dane gry bywają „luźnym” JSON-em i mają BOM.** (LCB, 2026-11-25.)
     StaticData: część plików z BOM, jeden z przecinkiem przed `]`. Czytnik
     toleruje oba przypadki i raportuje pominięte pliki zamiast się wywracać.
+29. **Nie zaostrzaj zasad właściciela na własną rękę.** (LCB, 2026-11-25.)
+    Zgoda „wolno pracować na plikach gry” została błędnie zawężona do „teksty
+    tylko poza repo”, choć w WWM i SRW teksty gry są w Git. Zasada jest prosta:
+    **teksty gry (JSON/MD) w repozytorium, binaria nigdy**. Przy wątpliwości
+    zapytaj, zamiast pisać w raporcie ograniczenie, którego nikt nie ustalił.

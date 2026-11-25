@@ -26,7 +26,7 @@ Szczegóły i prywatność: [collector/CZYTAJ_TO.txt](collector/CZYTAJ_TO.txt),
 ## Jak to działa
 
 ```text
-gra właściciela ──URUCHOM.bat──▶ LCB_DANE_*.zip ──Dysk──▶ agent: walidacja, wyciąg → index/
+gra właściciela ──URUCHOM.bat──▶ LCB_DANE_*.zip ──Dysk──▶ agent: walidacja, import → index/
                                                               │
      tłumacz ◀── Pakiet dla Tłumacza (sceny w kolejności, mówcy, tokeny) ◀┘
         │
@@ -57,7 +57,9 @@ Pakietów, właściciel decyduje i testuje w grze — [docs/WORKFLOW.md](docs/WO
 | [docs/CZYTANKI.md](docs/CZYTANKI.md) | Czytanki |
 | [docs/EXPERIMENT_LOG.md](docs/EXPERIMENT_LOG.md) | dziennik badań z liczbami i hashami |
 | [docs/PRIOR_ART.md](docs/PRIOR_ART.md) | projekty społeczności: lustra plików, narzędzia, co przejmujemy |
-| [wiedza/indeks_fabuly.json](wiedza/indeks_fabuly.json) | kolejność rozdziałów i scen z danych gry (tylko identyfikatory) |
+| [docs/INDEX_FORMAT.md](docs/INDEX_FORMAT.md) | `index/`: teksty gry (JSON: Localize kr/en, tabele StaticData) z manifestem — bez binariów |
+| [czytanki/](czytanki/fabula_EN/00_spis_EN.md) | Czytanki (fabuła EN/KR) i pliki ID w Markdown |
+| [wiedza/indeks_fabuly.json](wiedza/indeks_fabuly.json) | kolejność rozdziałów i scen z danych gry (identyfikatory) |
 | [wiedza/kolejnosc_fabuly.json](wiedza/kolejnosc_fabuly.json) | wcześniejsza kolejność heurystyczna (kontrola) |
 | [docs/ROADMAP.md](docs/ROADMAP.md) | etapy |
 
@@ -71,5 +73,5 @@ python tools/run_tests.py
 ```
 
 Testy używają wyłącznie danych wymyślonych; testy zbieracza z prawdziwym
-PowerShell działają w Windows CI. Pliki binarne gry nigdy nie trafiają do Git
+PowerShell działają w Windows CI. Teksty gry są w Git jako JSON/MD (`index/`, `czytanki/`); pliki binarne gry nigdy nie trafiają do Git
 ([docs/DATA_POLICY.md](docs/DATA_POLICY.md)).

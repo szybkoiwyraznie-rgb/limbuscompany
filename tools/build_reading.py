@@ -13,8 +13,8 @@ SRW/OE layout:
   scene), narration as plain paragraphs, no identifiers in the visible text
   (scene file names are kept in HTML comments for traceability).
 
-The output contains game text, so it goes to ``local/`` or the owner's Drive,
-never to Git.
+Output: ``czytanki/fabula_<LANG>/`` (Markdown, versioned in Git like the
+source texts in ``index/``).
 """
 from __future__ import annotations
 
@@ -22,6 +22,7 @@ import argparse
 import json
 from pathlib import Path
 import re
+import unicodedata
 import sys
 
 if __package__ in (None, ""):
@@ -43,7 +44,9 @@ LANG_NAMES = {"en": "angielskiej", "kr": "koreańskiej", "jp": "japońskiej"}
 
 
 def slug(text: str) -> str:
-    text = re.sub(r"[^\w]+", "_", text.lower(), flags=re.UNICODE).strip("_")
+    """ASCII file-name part (portable on Windows/zip/Drive); empty for non-Latin titles."""
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
+    text = re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
     return text[:40] or "rozdzial"
 
 
@@ -181,13 +184,15 @@ def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str) ->
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("snapshot", type=Path, help="collector ZIP or directory with <lang>/ Localize files")
+    parser.add_argument("snapshot", type=Path, nargs="?", default=ROOT / "index" / "localize",
+                        help="Localize: index/localize (default), a collector ZIP or a directory with <lang>/")
     parser.add_argument("--index", type=Path, default=ROOT / "wiedza" / "indeks_fabuly.json")
     parser.add_argument("--lang", default="en")
-    parser.add_argument("--out", type=Path, default=ROOT / "local" / "czytanki")
+    parser.add_argument("--out", type=Path, help="default: czytanki/fabula_<LANG>")
     parser.add_argument("--only", action="append", type=int, help="sub-chapter id(s) to build, e.g. 101")
     args = parser.parse_args(argv)
     index = json.loads(args.index.read_text(encoding="utf-8"))
+    args.out = args.out or ROOT / "czytanki" / f"fabula_{args.lang.upper()}"
     args.out.mkdir(parents=True, exist_ok=True)
     toc = [f"# {GAME} — Czytanki: spis rozdziałów", "",
            f"Wersja językowa: {args.lang}. Kolejność: `{args.index.name}`.", "",
@@ -195,11 +200,13 @@ def main(argv: list[str] | None = None) -> int:
     with Snapshot.open(args.snapshot) as snapshot:
         texts = Texts(snapshot, args.lang)
         chapters = Chapters(texts)
+        # File names come from the English titles, so every language has the same names.
+        naming = Chapters(Texts(snapshot, "en")) if args.lang != "en" and "en" in snapshot.languages else chapters
         for chapter in index["rozdzialy"]:
             if args.only and chapter["id"] not in args.only:
                 continue
             name, text, stats = build_chapter(chapter, texts, chapters, args.lang)
-            file_name = f"{chapter['kolejnosc']:02d}_{slug(name)}_{args.lang.upper()}.md"
+            file_name = f"{chapter['kolejnosc']:02d}_{slug(naming.heading(chapter)[0])}_{args.lang.upper()}.md"
             (args.out / file_name).write_text(text, encoding="utf-8")
             toc.append(f"| {chapter['kolejnosc']} | {name} | {stats['sceny']} | {stats['kwestie']} | "
                        f"[{file_name}]({file_name}) |")

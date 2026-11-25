@@ -12,9 +12,9 @@ import zwrotki są jeszcze **planowane**.
 ## Obieg
 
 ```text
-Localize/kr (źródło) + en (odniesienie) — ZIP od zbieracza (docelowo) / lustro (prototyp)
-StaticData (struktura: Teatr Opowieści, etapy, walki) — lustro, tylko lokalnie
-      │ tools/story_index.py                 kolejność scen, tylko identyfikatory
+index/localize/kr (źródło) + en (odniesienie) — w Git; z lustra, potem z ZIP-a zbieracza
+index/static-data (struktura: Teatr Opowieści, etapy, walki) — w Git
+      │ tools/story_index.py                 kolejność scen (identyfikatory)
       ▼
 wiedza/indeks_fabuly.json (Git)
       │ tools/build_package.py               teksty z Localize + kontekst
@@ -129,7 +129,8 @@ powtórzenia), 1529 napisów w `mowcy-i-miejsca.md`, ZIP 4,9 MB.
 ## Odtworzenie
 
 ```text
-python3 tools/story_index.py <static-data> <Localize lub ZIP zbieracza>
-python3 tools/build_package.py <Localize lub ZIP zbieracza> --version 1
-python3 tools/build_package.py <…> --only 100 --only 101    # próbka: Prolog + Canto I
+python3 tools/story_index.py                       # domyślnie index/static-data + index/localize
+python3 tools/build_package.py --version 1          # → local/pakiet/plik_dla_tlumacza_v1.zip
+python3 tools/build_package.py --only 100 --only 101    # próbka: Prolog + Canto I
+# inne źródło: python3 tools/build_package.py <Localize lub ZIP zbieracza> …
 ```

@@ -9,8 +9,8 @@ Decyzja o układzie: [DECYZJE.md](DECYZJE.md) D-07.
 
 | Seria | Narzędzie | Zawartość | Stan |
 |---|---|---|---|
-| **Fabuła** | `tools/build_reading.py` | jeden plik na rozdział (Prolog, Canto, Intervallo, opowiadania) w kolejności gry | **prototyp** (36 rozdziałów EN/KR z lustra) |
-| **Plik ID (Identity)** | `tools/build_profiles.py` | jeden plik na Grzesznika: akta, katalog Identity, profile z liczbami, umiejętnościami, pasywkami i kwestiami | **prototyp** (12 plików EN z lustra) |
+| **Fabuła** | `tools/build_reading.py` | jeden plik na rozdział (Prolog, Canto, Intervallo, opowiadania) w kolejności gry | **prototyp** — [`czytanki/fabula_EN`](../czytanki/fabula_EN/00_spis_EN.md), [`czytanki/fabula_KR`](../czytanki/fabula_KR/00_spis_KR.md) (po 36 rozdziałów) |
+| **Plik ID (Identity)** | `tools/build_profiles.py` | jeden plik na Grzesznika: akta, katalog Identity, profile z liczbami, umiejętnościami, pasywkami i kwestiami | **prototyp** — `czytanki/plik_ID_EN`, `czytanki/plik_ID_KR` (po 12 plików) |
 | **E.G.O** | planowane (to samo narzędzie) | opisy, statystyki, kwestie, powiązane Abnormality | planowane |
 | **Miasto (lore)** | planowane | słowniczek pojęć: Skrzydła, Dystrykty, Palce… | planowane |
 
@@ -73,15 +73,17 @@ zmienia.
   Niepewność = jawna uwaga w dokumencie, nie zgadywanie.
 - Układ zaakceptowany przez właściciela jest **zamrożony** (lekcja SRW Y);
   bieżący jest propozycją do akceptacji (O-04).
-- Czytanki z tekstem gry są prywatne: `local/` albo Dysk właściciela, nie Git
-  (w Git — generatory i testy na danych wymyślonych).
+- Czytanki są częścią projektu i leżą w repozytorium: `czytanki/fabula_EN`,
+  `czytanki/fabula_KR` (fabuła) i `czytanki/plik_ID_EN`, `czytanki/plik_ID_KR`
+  (pliki ID), zbudowane z `index/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)). Po zmianie `index/` lub
+  generatorów budujemy je od nowa i commitujemy razem.
 
 ## Kolejność fabuły
 
 Plik **[`wiedza/indeks_fabuly.json`](../wiedza/indeks_fabuly.json)** (narzędzie
 `tools/story_index.py`) zawiera rozdziały w kolejności czytania i sceny w
-każdym z nich — **tylko identyfikatory** (numery rozdziałów, węzłów etapów,
-walk, nazwy plików scen i moment), bez tekstu gry. Źródła, w kolejności
+każdym z nich jako identyfikatory (numery rozdziałów, węzłów etapów, walk,
+nazwy plików scen i moment); teksty dokłada generator z `index/`. Źródła, w kolejności
 ważności (E-005):
 
 1. **Teatr Opowieści** gry (`storytheater-main`, `storytheater-other`): lista
@@ -162,3 +164,16 @@ wynika z numeracji plików, nie z przejścia gry; Czytanka mówi to wprost.
   do kolejnej serii.
 - Jak Czytanka ma pokazywać trasy Canto X (osobne pliki na trasę czy jeden
   plik z oznaczeniami) — do decyzji właściciela po lekturze próbki.
+
+## Odtworzenie
+
+```sh
+python tools/story_index.py                       # index/ → wiedza/indeks_fabuly.json
+python tools/build_reading.py --lang en           # → czytanki/fabula_EN/
+python tools/build_reading.py --lang kr           # → czytanki/fabula_KR/
+python tools/build_profiles.py --lang en          # → czytanki/plik_ID_EN/
+python tools/build_profiles.py --lang kr          # → czytanki/plik_ID_KR/
+```
+
+Domyślnym wejściem jest `index/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)); można
+podać inny katalog lub ZIP zbieracza jako argument.

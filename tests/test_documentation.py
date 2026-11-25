@@ -20,6 +20,7 @@ GUIDES = (
     "docs/COLLECTOR.md",
     "docs/DATA_POLICY.md",
     "docs/FORMAT_LOCALIZE.md",
+    "docs/INDEX_FORMAT.md",
     "docs/LANG_FORMAT.md",
     "docs/PAKIET_TLUMACZA.md",
     "docs/CZYTANKI.md",

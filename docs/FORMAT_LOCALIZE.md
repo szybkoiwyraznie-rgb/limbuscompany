@@ -59,7 +59,7 @@ Na podstawie danych i list z TW/rainbus/SunZheee: `id`, `key`, `level`,
 `abilityID`, `model` (nazwa modelu postaci w StoryData — klucz, nie imię;
 imię to `teller`), `codeName`, `fileName`, `colorCode`, `outlineColorCode`,
 `mainTextColor`, `imgStr`, `iconId`/`iconID` oraz klucze `debugNodeId `
-(ze spacją na końcu). Ostateczną listę ustali wyciąg (`tools/extract.py`).
+(ze spacją na końcu). Ostateczną listę ustali paczka właściciela (E-005); teksty gry leżą w `index/localize/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)).
 
 ### Znaczniki w tekście (en / kr)
 
@@ -125,7 +125,7 @@ Raport `lcb-inspekcja-v1` (prywatny, domyślnie `local/inspekcja/<nazwa>.json`):
 
 Na standardowe wyjście trafiają tylko liczby. Inspekcja niczego nie
 rozstrzyga — na jej podstawie uzupełniamy ten dokument (fakty z liczbami) i
-projektujemy `index/`.
+sprawdzamy `index/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)).
 
 ## Do potwierdzenia na paczce właściciela (E-005)
 

@@ -11,3 +11,7 @@
 # Czcionki (wyłącznie własne lub na wolnej licencji, w assets/fonts/).
 *.ttf binary
 *.otf binary
+
+# Teksty gry (JSON) w index/ zachowują dokładnie bajty z gry (BOM, końce linii).
+index/localize/** -text
+index/static-data/** -text

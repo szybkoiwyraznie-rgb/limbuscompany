@@ -26,7 +26,7 @@ BLOCKED_DIRECTORIES = frozenset(
         ".venv", "venv", ".direnv", "__pycache__", ".pytest_cache", ".mypy_cache",
         ".ruff_cache", ".cache", "coverage", "node_modules",
         # A raw copy of the game's data directory never belongs in Git; the
-        # normalised text extract lives in index/ instead.
+        # game's text files (JSON) live in index/ instead.
         "limbuscompany_data",
     }
 )

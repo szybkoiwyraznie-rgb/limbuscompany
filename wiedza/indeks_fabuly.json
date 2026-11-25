@@ -1,16 +1,16 @@
 {
  "format": "lcb-indeks-fabuly-v1",
  "zrodla": {
-  "static_data_commit": "8f24cba5721482c85a7ab22ba2d2105914d175ac",
-  "localize_commit": "f218bbec3c1df855c5786bb7c2b2479cf3ce3354"
+  "static_data": "lustro LEAGUE-OF-NINE/OpenLethe, commit 8f24cba5721482c85a7ab22ba2d2105914d175ac (dane 2026-11-12); build Steam nieznany; repozytorium bez pliku licencji",
+  "localize": "lustro LimbusTraditionalMandarin/story-data, commit f218bbec3c1df855c5786bb7c2b2479cf3ce3354 (2026-11-19); build Steam nieznany"
  },
  "liczby": {
-  "pliki_storydata": 1002,
-  "sceny_w_indeksie": 808,
+  "pliki_storydata": 1001,
+  "sceny_w_indeksie": 807,
   "z_teatru": 667,
   "z_etapow": 5,
   "z_walk": 82,
-  "z_reguly_nazw": 54,
+  "z_reguly_nazw": 53,
   "sceny_bez_pliku": 1,
   "historie_identity": 184,
   "nieprzypisane": 11
@@ -1103,7 +1103,6 @@
     {"plik": "S1000B", "etap": null, "zrodlo": "regula_nazw"},
     {"plik": "S1001B", "etap": null, "zrodlo": "regula_nazw", "trasa": "A"},
     {"plik": "S1002B", "etap": null, "zrodlo": "regula_nazw", "trasa": "A"},
-    {"plik": "S1002A", "etap": null, "zrodlo": "regula_nazw"},
     {"plik": "S1003B", "etap": "przed", "wezel": 11001},
     {"plik": "S1004B", "etap": "przed", "wezel": 11002},
     {"plik": "S1005B", "etap": "przed", "wezel": 11003},
@@ -1167,7 +1166,7 @@
     {"plik": "S1043C", "etap": null, "zrodlo": "regula_nazw"}
    ],
    "kolejnosc": 35,
-   "w_storydata": 65
+   "w_storydata": 64
   },
   {
    "id": 9022,

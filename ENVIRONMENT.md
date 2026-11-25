@@ -40,6 +40,8 @@ wynik każdego commita sprawdzaj osobno.
 | `tools/validate_collector_return.py` | sprawdza ZIP od właściciela bez rozpakowania | `LCB_DANE_*.zip` → podsumowanie liczbowe |
 | `tools/inspect_localize.py` | pierwsze rozpoznanie korpusu | ZIP lub katalog `Localize/` → prywatny raport `local/inspekcja/*.json` |
 | `tools/localize.py` | wspólne czytniki (prefiksy, adresy tekstów) | biblioteka |
+| `tools/import_data.py` | kopiuje teksty gry (JSON) do repo | ZIP zbieracza / lustro + StaticData → `index/` + `MANIFEST.json` |
+| `tools/story_index.py`, `tools/build_reading.py`, `tools/build_profiles.py`, `tools/build_package.py` | indeks fabuły, Czytanki, plik ID, pakiet | `index/` → `wiedza/`, `czytanki/`, `local/pakiet/*.zip` |
 | `tools/check_repository.py`, `tools/run_tests.py` | kontrole repozytorium | — |
 
 Przykład pracy z paczką od właściciela:
@@ -58,7 +60,9 @@ python tools/inspect_localize.py google_drive/LCB_DANE_....zip
 | `collector/` | tak | źródła zbieracza Windows (CRLF; `.ps1` z UTF-8 BOM, ASCII) |
 | `tools/`, `tests/` | tak | narzędzia i testy na danych wymyślonych |
 | `docs/` | tak | stan, decyzje, formaty, workflow, dziennik |
-| `index/` *(planowany)* | tak | znormalizowany wyciąg tekstów gry (patrz [DATA_POLICY.md](docs/DATA_POLICY.md)) |
+| `index/` | tak | teksty gry jako JSON: Localize `kr`/`en` bajt w bajt + tabele StaticData, `MANIFEST.json` ([INDEX_FORMAT.md](docs/INDEX_FORMAT.md)) |
+| `czytanki/` | tak | wygenerowane Czytanki i pliki ID (Markdown) |
+| `wiedza/` | tak | indeks i kolejność fabuły (identyfikatory) |
 | `tlumaczenie/` *(planowany)* | tak | magazyn przyjętych przekładów |
 | `zwrotki/` *(planowany)* | tak | rejestr zwrotek tłumacza (manifesty, raporty importu) |
 | `assets/fonts/` *(planowany)* | tak | wyłącznie czcionki na wolnej licencji + plik licencji |
@@ -66,7 +70,7 @@ python tools/inspect_localize.py google_drive/LCB_DANE_....zip
 | `build/`, `dist/`, `artifacts/` | **nie** | wyniki budowania (ZIP-y) |
 
 **Budowanie czyta wyłącznie repozytorium.** Pakiety dla Tłumacza, paczka
-`Lang/`, Czytanki i audyt aktualizacji będą brały dane z `index/`,
+`Lang/`, Czytanki i audyt aktualizacji biorą dane z `index/`,
 `tlumaczenie/` i `zwrotki/` — nie z `local/`, nie z `google_drive/` i nie z
 Dysku. Pliki od właściciela służą tylko do zbudowania lub odświeżenia `index/`.
 
