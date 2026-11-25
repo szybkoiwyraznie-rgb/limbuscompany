@@ -38,6 +38,9 @@ if os.name == "nt":
             self.write("Lang/config.json", b'{"lang": "inne"}')
             self.write("Lang/inne/MainUIText.json", b'{"dataList": []}')
             self.write("Assets/Resources_moved/Localize/en/obraz.png", b"\x89PNG")
+            for relative, data in syn.drzewo_pomocnicze().items():
+                self.write(relative, data)
+            self.write("Assets/Resources_moved/StaticData/static-data/blob.bytes", b"\x00\x01")
             self.write("Managed/fake.dll", b"MZ")
             self.write("output_log.log", b"fake log")
             (self.game.parent.parent / "appmanifest_1973530.acf").write_text(
@@ -84,7 +87,8 @@ if os.name == "nt":
             self.assertEqual(verified["buildid"], "7654321")
             self.assertEqual(verified["plikow_wg_jezyka"], {"en": 5, "jp": 3, "kr": 4})
             self.assertTrue(verified["lang_config"])
-            self.assertEqual(verified["pominietych"], 1)  # obraz.png
+            self.assertEqual(verified["plikow_pomocniczych"], {"StaticData": 2, "Story": 1})
+            self.assertEqual(verified["pominietych"], 2)  # obraz.png, blob.bytes
             with zipfile.ZipFile(paths[0]) as archive:
                 names = archive.namelist()
                 report = json.loads(archive.read("RAPORT.json").decode("utf-8-sig"))
@@ -93,6 +97,9 @@ if os.name == "nt":
             self.assertIn("Managed/fake.dll", inventory)  # tylko nazwa w spisie
             self.assertNotIn(str(self.root), inventory)
             self.assertEqual(report["lang"]["podfoldery"], ["inne"])
+            self.assertEqual(report["zbieracz"], "LC_ZBIERZ_DANE 1.1.0")
+            self.assertEqual(report["dodatkowe"]["Assets/Resources_moved/StaticData"],
+                             {"istnieje": True, "plikow": 2})
             self.assertTrue((self.state / "stan_wyslanych.json").is_file())
 
         def test_update_mode_sends_only_changes(self):
@@ -125,7 +132,7 @@ if os.name == "nt":
                 verified = validate(path)
                 self.assertEqual(verified["czesci"], len(paths))
                 total += verified["plikow"]
-            self.assertEqual(total, 13)
+            self.assertEqual(total, 16)
             self.assertFalse((self.state / "stan_wyslanych.json").exists())
 
         def test_missing_game_folder_is_an_error(self):

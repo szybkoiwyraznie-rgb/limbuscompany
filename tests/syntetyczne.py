@@ -40,6 +40,27 @@ def drzewo_localize() -> dict[str, bytes]:
     return pliki
 
 
+def drzewo_pomocnicze() -> dict[str, bytes]:
+    """Dane pomocnicze (StaticData, Story) — ścieżki względne od ``LimbusCompany_Data``.
+
+    Układ pól naśladuje publicznie opisany format (docs/CZYTANKI.md); wartości są zmyślone.
+    """
+    sd = "Assets/Resources_moved/StaticData/static-data/"
+    return {
+        sd + "storytheater-main/storytheater-main-101.json": _json({"list": [{
+            "chapterId": 1, "subChapterId": 101, "storyList": [
+                {"id": 1, "storyId": "S101B", "nodeId": 10101, "stageDetail": "Before"},
+                {"id": 2, "storyId": "S101A", "nodeId": 10101, "stageDetail": "After"},
+            ]}]}),
+        sd + "personality/personality-01.json": _json({"list": [{
+            "id": 10101, "characterId": 1, "rank": 1,
+            "hp": {"defaultStat": 70, "incrementByLevel": 2.5},
+            "minSpeedList": [3, 3, 3], "maxSpeedList": [6, 7, 8]}]}),
+        "Assets/Resources_moved/Story/Effect/S101B.json": _json({"dataList": [
+            {"id": 0, "characterlist": "postac_a:5", "bg": "Tlo_Testowe"}]}),
+    }
+
+
 def zapisz_drzewo(korzen: Path, pliki: dict[str, bytes]) -> None:
     for wzgledna, dane in pliki.items():
         sciezka = korzen / wzgledna
@@ -48,12 +69,17 @@ def zapisz_drzewo(korzen: Path, pliki: dict[str, bytes]) -> None:
 
 
 def zwrot_zbieracza(pliki: dict[str, bytes], *, tryb: str = "pelny", buildid: str = "123456",
-                    lang_config: bytes | None = b'{"lang": "x"}', psuj: str | None = None) -> bytes:
+                    lang_config: bytes | None = b'{"lang": "x"}', psuj: str | None = None,
+                    dodatkowe: dict[str, bytes] | None = None) -> bytes:
     """Zbuduj ZIP w formacie ``lc-zbior-v1`` tak, jak robi to zbierz.ps1."""
     rekordy = []
     czlonki: dict[str, bytes] = {}
     for wzgledna, dane in sorted(pliki.items()):
         sciezka = "Assets/Resources_moved/Localize/" + wzgledna
+        czlonki["pliki/" + sciezka] = dane
+        rekordy.append({"sciezka": sciezka, "czlon": "pliki/" + sciezka, "rozmiar": len(dane),
+                        "sha256": hashlib.sha256(dane).hexdigest()})
+    for sciezka, dane in sorted((dodatkowe or {}).items()):
         czlonki["pliki/" + sciezka] = dane
         rekordy.append({"sciezka": sciezka, "czlon": "pliki/" + sciezka, "rozmiar": len(dane),
                         "sha256": hashlib.sha256(dane).hexdigest()})
@@ -65,7 +91,7 @@ def zwrot_zbieracza(pliki: dict[str, bytes], *, tryb: str = "pelny", buildid: st
         json.dumps({"p": r["sciezka"], "s": r["rozmiar"], "m": "2026-11-25T00:00:00Z"}) + "\n" for r in rekordy
     )
     raport = {
-        "format": "lc-zbior-v1", "zbieracz": "LC_ZBIERZ_DANE 1.0.0", "tryb": tryb, "zbior_id": "abcdef01",
+        "format": "lc-zbior-v1", "zbieracz": "LC_ZBIERZ_DANE 1.1.0", "tryb": tryb, "zbior_id": "abcdef01",
         "utworzono_utc": "2026-11-25T00:00:00Z", "czesc": 1, "czesci": 1,
         "gra": {"appid": "1973530", "buildid": buildid, "folder_gry": "Limbus Company"},
         "localize": {"istnieje": True, "jezyki": ["en", "jp", "kr"]},

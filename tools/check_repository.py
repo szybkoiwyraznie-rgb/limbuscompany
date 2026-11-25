@@ -7,7 +7,8 @@ nie ukryje dodanego pliku. Dodatkowo:
 
 * kopie surowych plików lokalizacji gry (``KR_*.json``, ``EN_*.json``,
   ``JP_*.json``, ścieżki ``Resources_moved/Localize`` i ``LimbusCompany_Data``)
-  są zawsze odrzucane;
+  oraz surowe dane pomocnicze (katalogi ``StaticData``/``static-data``) są
+  zawsze odrzucane;
 * katalogi z tekstem gry (``config/polityka_danych.json`` →
   ``katalogi_tekstu_gry``) są dozwolone tylko przy ``tekst_gry_w_git: true``
   (decyzja właściciela, zob. docs/DATA_POLICY.md); wyłączenie flagi blokuje je.
@@ -36,6 +37,8 @@ BLOCKED_DIRECTORIES = frozenset(
         ".venv", "venv", ".direnv", "__pycache__", ".pytest_cache", ".mypy_cache",
         ".ruff_cache", ".cache", "coverage", "node_modules",
         "limbuscompany_data", "resources_moved", "localize",
+        # surowe dane pomocnicze gry (od zbieracza 1.1.0): tylko local/ + Dysk
+        "staticdata", "static-data",
     }
 )
 BLOCKED_SUFFIXES = frozenset(

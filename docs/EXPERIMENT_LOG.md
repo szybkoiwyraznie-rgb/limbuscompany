@@ -13,6 +13,27 @@ Najnowszy wpis na górze. Szablon:
 - Następny krok:
 ```
 
+## 2026-11-25 — format danych pomocniczych (chronologia, statystyki) i zbieracz 1.1.0
+
+- Cel: ustalić, skąd wziąć dokładną chronologię scen i statystyki ID dla
+  Czytanek i nagłówków Pakietu (wymagania właściciela).
+- Wejście: publiczne repozytoria `LocalizeLimbusCompany/LocalizeLimbusCompany`
+  (drzewo i kilka plików EN: `StageChapterText`, `StagePartText`,
+  `StoryTheaterMain`, `StageNode1-1`, `DungeonNode1-1`, `Personalities`,
+  `Skills`, `ScenarioModelCodes`, jedna scena) i `PGGB/limbus-company-data`
+  (kopia folderu gry z 2023 r.: `storytheater-main-100/101`, `personality-01`,
+  `personality-skill-01`, `storybattle1-1`, `Story/Effect/1D101A`).
+- Metoda: `gh api` (drzewa, pojedyncze pliki do `/tmp`), odczyt schematów;
+  nic z treści nie trafiło do repozytorium.
+- Wynik: chronologia = `storytheater-main` (`storyList`: scena, węzeł,
+  Before/After); Canto/etapy = `StageChapterText`/`StageNode*`; statystyki =
+  `personality`/`personality-skill`; tła = `Story/Effect`. Zbieracz 1.1.0
+  zbiera `StaticData` i `Story`; walidator i testy (w tym Windows) rozszerzone.
+- Rodzaj dowodu: analiza publicznych kopii + testy syntetyczne.
+- Ograniczenia: dane pomocnicze znane z kopii z 2023 r.; bieżący układ
+  potwierdzi pierwszy zbiór (raport `dodatkowe` + `INWENTARZ.jsonl`).
+- Następny krok: zbiór od właściciela zestawem 1.1.0.
+
 ## 2026-11-25 — przegląd innych projektów tłumaczeń Limbus
 
 - Cel: przejąć sprawdzone metody i indeksy zamiast projektować od zera

@@ -184,7 +184,9 @@ Każdy indeks podaje KR i EN, a po przekładzie także PL. Indeksy trafiają do
 |---|---|---|
 | Postacie i mówcy | `ScenarioModelCodes-AutoCreated.json` (`model` → `teller`/`title`) | Nagłówki scen, glosariusz imion, Czytanki. |
 | Słowa kluczowe i statusy | `BattleKeywords*.json`, `Bufs*.json` | Jedna polska nazwa na status (automatyczne linki, p. 4); kolory buff/debuff. |
-| Rozdziały i sceny | `StoryData/` + nazwy plików, `StageNode*`, `ChapterBannerConfig` **[?]** | Kolejność fabuły w Czytankach i Pakietach. |
+| Rozdziały i sceny (chronologia) | `StaticData/static-data/storytheater-main/*` (`storyList`: scena, etap, Before/After) + `StageChapterText`, `StagePartText`, `StageNode*`, `DungeonNode*` | Dokładna kolejność fabuły w Czytankach i Pakietach ([CZYTANKI.md](CZYTANKI.md), sekcja 3). |
+| Statystyki ID i E.G.O | `StaticData/static-data/{personality,skill,passive,ego}/*` (HP, szybkość, obrona, odporności, moc i monety) | Karty ID w Czytankach; kontekst umiejętności w Pakiecie. |
+| Tła i postacie na scenie | `Story/Effect/<scena>.json` (`bg`, `characterlist`) | Zmiany miejsca w nagłówkach scen. |
 | Osobowości i E.G.O | `Personalities*`, `Skills*`, `Passives*`, `EGO*`, `PersonalityVoiceDlg/` | Pakiety „osobowość + jej kwestie” razem. |
 | Lista plików gry | odpowiednik `RemoteLocalizeFileList.json` (HKStudio011) **[?]** | Kontrola kompletności patcha. |
 
@@ -204,16 +206,21 @@ klucze i liczby, bez cytowania treści:
 - **pokrycie fontu**: każdy znak PL występuje w wybranym foncie. Fail-fast jak
   `safe_charset` w glyph-zero-pack **[1]**.
 
-## 9. Font (jedyne otwarte pytanie)
+## 9. Font
+
+**Decyzja (2026-11-25): najpierw domyślny font gry** ([CEL.md](CEL.md)).
+Pilot w grze pokaże, czy domyślne fonty mają polskie znaki we wszystkich
+miejscach: dialog, UI, tytuły. Własny font tylko przy brakach. Poniżej punkt
+wyjścia na taki wypadek:
 
 - Pakiet FR (Eden-Office) ma w `Lang/fr/Font/{Context,Title}/` własne pliki
   `.ttf`. Jego `config.json` ma `"titleFont": ""`, `"contextFont": ""`,
   `"samplingPointSize": 78`, `"padding": 8`. To punkt wyjścia do testu **[1]**.
 - Wietnamski (HKStudio011) też ma własne fonty w `Font/Context` i `Font/Title`.
   zh-CN rozprowadza `ChineseFont.ttf`, około 24 MB.
-- U nas: font z licencją pozwalającą na redystrybucję (np. OFL) i z polskimi
-  znakami. Licencja trafia do `assets/fonts/`, a pokrycie sprawdza kontrola z
-  punktu 8. Wybór po teście pilotażowym w grze.
+- Gdyby był potrzebny: font z licencją pozwalającą na redystrybucję (np. OFL)
+  i z polskimi znakami. Licencja trafia do `assets/fonts/`, a pokrycie sprawdza
+  kontrola z punktu 8.
 
 ## 10. Czego świadomie nie przejmujemy
 

@@ -47,6 +47,7 @@ repozytorium.
 | `kermond369-nsis/Limbus-glyph-zero-pack` | MIT | Fail-fast pokrycia znaków przez font (`safe_charset`); deterministyczny ZIP + SHA-256. |
 | `Eden-Office/LimbusCompanyBusFR` (FR) | brak | Pełna struktura `Lang/fr/` (~2430 plików), `config.json` (`samplingPointSize` 78, `padding` 8), własne `.ttf` w `Font/`. Źródło liczb w CLS_FORMAT. |
 | `Dreams-Office/LimbusCompanySpanishTranslationTeam` (ES) | MIT | Paczka CLS aktualizowana po łatkach; tłumaczone sprite'y opisane osobno. |
+| `PGGB/limbus-company-data` (kopia folderu gry z 2023 r.) | brak | Tylko **format** danych pomocniczych: `StaticData/static-data/*` (kolejność scen w `storytheater-main`, statystyki ID/umiejętności), `Story/Effect/*` (tła scen), `Localize/RemoteLocalizeFileList.json`. Stąd zbieracz 1.1.0. Treści nie używamy. |
 | PT-BR — CLT District, Uniao | — | FAQ ograniczeń CLS: jeden font, teksty na sprite'ach, tylko PC. |
 | `kimght/LimbusLocalizationManager` | GPL-3.0 | Katalog 14 tłumaczeń społeczności (`data/localizations.toml`). Instalatora nie przejmujemy. |
 | `x1bViolet/Limbus-Localization-UI` | MIT | Edytor z podglądem `Skills`/`Passives`/`EGOgift`/`Bufs`/`BattleKeywords`: wskazówka, które pliki mają bogate formatowanie. |

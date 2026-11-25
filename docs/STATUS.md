@@ -3,7 +3,33 @@
 Najnowszy wpis na górze. Każdy wpis: data, co jest gotowe, co sprawdzono (jak),
 czego **nie** sprawdzono, następny krok.
 
-## Najnowsze — 2026-11-25: analiza innych projektów Limbus, decyzje (zapas EN, bez wydań)
+## Najnowsze — 2026-11-25: Pakiet wzorem SRW, Czytanki „ludzkie”, font domyślny, zbieracz 1.1.0
+
+**Gotowe:**
+
+- Decyzje właściciela w [CEL.md](CEL.md): font **domyślny gry** (własny tylko
+  przy brakach w teście); Pakiet wzorowany na **SRW** z maksimum kontekstu;
+  Czytanki w „ludzkim” układzie z kartami ID. Brak otwartych pytań.
+- Specyfikacje: [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md) (układ SRW Y v8:
+  `sceny.zip`/`widoki.zip`, nagłówek sceny z chronologią, Canto, etapem,
+  miejscem i uczestnikami; manifest importu zamiast kluczy w pliku) i
+  [CZYTANKI.md](CZYTANKI.md) (chronologia z Teatru Opowieści, `**Imię:** tekst`,
+  karty ID ze statystykami i umiejętnościami w ludzkiej formie).
+- Rozpoznanie formatu (publiczne kopie danych): dokładna kolejność scen jest w
+  `StaticData/static-data/storytheater-main`, statystyki ID w
+  `StaticData/static-data/personality|skill`, tła scen w `Story/Effect`
+  ([CLS_FORMAT.md](CLS_FORMAT.md)).
+- **Zbieracz 1.1.0**: zbiera także `StaticData` i `Story` (tylko pliki
+  tekstowe, brak folderów nie jest błędem); walidator przyjmuje i liczy je
+  (`plikow_pomocniczych`); kontrola indeksu blokuje surowe `StaticData` w Git.
+
+**Sprawdzone:** testy syntetyczne (Linux lokalnie; Windows w CI — patrz
+EXPERIMENT_LOG). **Niesprawdzone:** czy bieżąca wersja gry nadal ma
+`StaticData` jako zwykłe JSON-y (format znany z kopii z 2023 r.).
+**Następny krok:** właściciel uruchamia **nowy** zestaw `LC_ZBIERZ_DANE.zip`
+(1.1.0) z Dysku i wgrywa `LC_DANE_*.zip`.
+
+## 2026-11-25: analiza innych projektów Limbus, decyzje (zapas EN, bez wydań)
 
 **Gotowe:**
 

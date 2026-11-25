@@ -26,6 +26,11 @@ SHA256 = re.compile(r"^[0-9a-f]{64}$")
 ALLOWED_SUFFIXES = frozenset({".json", ".txt", ".csv", ".tsv", ".xml", ".yaml", ".yml", ".md"})
 LOCALIZE_PREFIX = "pliki/Assets/Resources_moved/Localize/"
 LANG_CONFIG = "pliki/Lang/config.json"
+# Dane pomocnicze od zbieracza 1.1.0 (kolejność scen, statystyki, tła scen).
+EXTRA_PREFIXES = {
+    "StaticData": "pliki/Assets/Resources_moved/StaticData/",
+    "Story": "pliki/Assets/Resources_moved/Story/",
+}
 FIXED_MEMBERS = frozenset({"RAPORT.json", "RAPORT.txt", "INWENTARZ.jsonl"})
 
 
@@ -58,10 +63,17 @@ def is_localize(name: str) -> bool:
     return name.casefold().startswith(LOCALIZE_PREFIX.casefold())
 
 
+def extra_area(name: str) -> str | None:
+    for area, prefix in EXTRA_PREFIXES.items():
+        if name.casefold().startswith(prefix.casefold()):
+            return area
+    return None
+
+
 def payload_allowed(name: str) -> bool:
     if name.casefold() == LANG_CONFIG.casefold():
         return True
-    if not is_localize(name):
+    if not is_localize(name) and extra_area(name) is None:
         return False
     return PurePosixPath(name).suffix.lower() in ALLOWED_SUFFIXES
 
@@ -117,6 +129,7 @@ def validate(path: Path) -> dict[str, object]:
         require(payload == set(listed), "archive payload does not match the report")
 
         languages: dict[str, int] = {}
+        extras: dict[str, int] = {}
         payload_bytes = 0
         for member in sorted(payload):
             data = archive.read(member)  # odczyt sprawdza też CRC
@@ -128,6 +141,8 @@ def validate(path: Path) -> dict[str, object]:
                 rest = member[len(LOCALIZE_PREFIX):].split("/", 1)
                 language = rest[0] if len(rest) == 2 else "(korzen)"
                 languages[language] = languages.get(language, 0) + 1
+            elif (area := extra_area(member)) is not None:
+                extras[area] = extras.get(area, 0) + 1
 
         inventory_rows = 0
         if inventory_here:
@@ -148,6 +163,7 @@ def validate(path: Path) -> dict[str, object]:
         "plikow": len(listed),
         "bajtow": payload_bytes,
         "plikow_wg_jezyka": dict(sorted(languages.items())),
+        "plikow_pomocniczych": dict(sorted(extras.items())),
         "lang_config": any(m.casefold() == LANG_CONFIG.casefold() for m in payload),
         "inwentarz_wierszy": inventory_rows,
         "pominietych": len(report["pominiete"]),

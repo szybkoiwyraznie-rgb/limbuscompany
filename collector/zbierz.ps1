@@ -1,7 +1,9 @@
-﻿# LC_ZBIERZ_DANE 1.0.0 - Windows PowerShell 5.1; odczyt gry, zapis tylko poza nia.
+﻿# LC_ZBIERZ_DANE 1.1.0 - Windows PowerShell 5.1; odczyt gry, zapis tylko poza nia.
 # Limbus Company (Steam 1973530): kopiuje pliki lokalizacji z
-# LimbusCompany_Data\Assets\Resources_moved\Localize (kr/en/jp), spis nazw plikow
-# LimbusCompany_Data oraz Lang\config.json. Niczego nie zmienia w grze i nie laczy sie z siecia.
+# LimbusCompany_Data\Assets\Resources_moved\Localize (kr/en/jp), dane pomocnicze
+# (Resources_moved\StaticData i Resources_moved\Story - kolejnosc scen, statystyki,
+# tla scen; tylko pliki tekstowe), spis nazw plikow LimbusCompany_Data oraz
+# Lang\config.json. Niczego nie zmienia w grze i nie laczy sie z siecia.
 [CmdletBinding()]
 param(
     [Parameter(Position = 0)] [string] $GameRoot = '',
@@ -16,10 +18,12 @@ param(
 
 $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
-$script:Version = 'LC_ZBIERZ_DANE 1.0.0'
+$script:Version = 'LC_ZBIERZ_DANE 1.1.0'
 $script:AppId = '1973530'
 $script:DataDirName = 'LimbusCompany_Data'
 $script:LocalizeRelative = 'Assets/Resources_moved/Localize'
+# Dane pomocnicze do Czytanek i kontekstu (opcjonalne: brak folderu nie jest problemem).
+$script:ExtraRelatives = @('Assets/Resources_moved/StaticData', 'Assets/Resources_moved/Story')
 $script:AllowedSuffixes = @('.json', '.txt', '.csv', '.tsv', '.xml', '.yaml', '.yml', '.md')
 $script:MaxSingleFile = 67108864
 $script:MaxInventory = 250000
@@ -243,6 +247,28 @@ function Main {
             [void] $candidates.Add($file)
         }
     }
+    $extraInfo = [ordered]@{}
+    $extraTotal = 0
+    foreach ($extraRel in $script:ExtraRelatives) {
+        $extraDir = Join-Path $data ($extraRel -replace '/', '\')
+        $extraExists = Test-Path -LiteralPath $extraDir -PathType Container
+        $extraCount = 0
+        if ($extraExists) {
+            foreach ($file in (Get-ChildItem -LiteralPath $extraDir -Recurse -File -Force)) {
+                $rel = Get-RelativePath $data $file.FullName
+                if (Test-Reparse $file) { Add-Skipped $rel 'link' $file.Length; continue }
+                if ($script:AllowedSuffixes -notcontains $file.Extension.ToLowerInvariant()) { Add-Skipped $rel 'typ' $file.Length; continue }
+                if ($file.Length -gt $script:MaxSingleFile) { Add-Skipped $rel 'limit' $file.Length; continue }
+                [void] $candidates.Add($file)
+                $extraCount++
+            }
+        }
+        $extraOne = [ordered]@{}
+        $extraOne['istnieje'] = $extraExists
+        $extraOne['plikow'] = $extraCount
+        $extraInfo[$extraRel] = $extraOne
+        $extraTotal += $extraCount
+    }
     $langDir = Join-Path $data 'Lang'
     $langFolders = @()
     $langConfig = $false
@@ -380,6 +406,7 @@ function Main {
                 $report['gra'] = $gameInfo
                 $report['localize'] = $localizeInfo
                 $report['lang'] = $langInfo
+                $report['dodatkowe'] = $extraInfo
                 $report['stan'] = $stateInfo
                 $report['inwentarz'] = $inventoryInfo
                 $report['wszystkie_czesci'] = $summary
@@ -394,6 +421,7 @@ function Main {
                     ('Tryb: ' + $Tryb + ', czesc ' + ($p + 1) + ' z ' + $parts.Count + ', zbior ' + $id),
                     ('Steam buildid: ' + $buildId),
                     ('Jezyki w Localize: ' + (($languages | Sort-Object) -join ', ')),
+                    ('Dane pomocnicze (StaticData, Story) - plikow kandydatow: ' + $extraTotal),
                     ('Plikow w tej czesci: ' + $records.Count),
                     ('Niezmienione (pominiete dzieki stanowi): ' + $unchanged),
                     ('Usuniete od ostatniego razu: ' + $removed.Count),

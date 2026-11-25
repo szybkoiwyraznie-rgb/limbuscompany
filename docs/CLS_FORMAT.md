@@ -91,6 +91,38 @@ Liczby dla aktualnej wersji gry ustali `tools/rozpoznanie_localize.py`.
    AutoLocalization) + hash źródła KR — zmiana źródła po aktualizacji gry
    unieważnia przekład ([METODA.md](METODA.md), punkt 2).
 
+## Dane pomocnicze poza `Localize` (nie trafiają do patcha)
+
+Źródło: publiczna kopia folderu gry z 2023 r. (`PGGB/limbus-company-data`,
+**[1]**, stara wersja). Opisujemy tylko format, bez treści. Zbieracz 1.1.0
+zbiera te foldery, a bieżący układ potwierdzi pierwszy zbiór.
+
+- `Assets/Resources_moved/StaticData/static-data/<kategoria>/*.json`, czyli
+  zwykłe JSON-y `{"list": [...]}`. Kategorie to m.in. `personality`, `skill`,
+  `passive`, `ego`, `storytheater-main`, `storytheater-other`,
+  `storytheater-personality`, `battle-story`, `enemy`, `character`.
+  - `storytheater-main-<n>.json`: `chapterId`, `subChapterId` (100 = Prolog,
+    101 = Canto I …) oraz `storyList[{id, storyId, nodeId, stageDetail}]`, gdzie
+    `stageDetail` to `Before`/`After`. Daje to **kolejność scen** w Teatrze
+    Opowieści.
+  - `personality-NN.json`: `id`, `characterId`, `rank`, `season`,
+    `hp{defaultStat, incrementByLevel}`, `def{…}`, `minSpeedList`/`maxSpeedList`
+    (dla poziomów Uptie), `uniqueAttribute`, `breakSection.sectionList` (progi
+    Stagger), `resistInfo.atkResistList[{type, value}]`, `attributeList[{skillId,
+    number}]`, `passiveSet`, `supporterPassiveSet`.
+  - `personality-skill-NN.json`: `skillData[]` dla każdego `gaksungLevel`
+    (Uptie), z polami `attributeType`, `atkType`, `defaultValue` (moc bazowa),
+    `coinList[{operatorType, scale, abilityScriptList}]`, `targetNum`.
+  - `battle-story/storybattleX-Y.json`: etap (`id` = węzeł), fale, wrogowie,
+    `story.enter[]`, czyli sceny przypięte do etapu.
+- `Assets/Resources_moved/Story/Effect/<scena>.json`:
+  `dataList[{id, characterlist, bg, bgm, voice, …}]`, równoległe do
+  `StoryData/<scena>.json` po `id`. Zawiera tło sceny i postacie na ekranie.
+- Nazwy plików scen: `S<canto><etap>{A|B|I…}` (fabuła główna),
+  `<canto>D<…>` (lochy w Canto), `E…` (wydarzenia), `P…` (opowieści
+  osobowości). Litera nie wyznacza kolejności, bo w 2023 r. `S001B` = Before,
+  `S001A` = After. Kolejność bierzemy ze `storyList`.
+
 ## Niewiadome do sprawdzenia na danych właściciela
 
 - [?] Aktualna liczba i układ plików, rozmiar `Localize` (spodziewane: setki MB).

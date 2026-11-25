@@ -38,7 +38,12 @@ narzędziem zapisującym LF przekonwertuj plik i uruchom testy.
    (`INWENTARZ.jsonl`, ≤250 000 wierszy, bez treści) — pozwala zobaczyć zmiany
    układu gry bez wysyłania assetów.
 4. Kopiuje pliki z `Assets/Resources_moved/Localize` o rozszerzeniach
-   json/txt/csv/tsv/xml/yaml/yml/md do 64 MiB (inne → `pominiete`) oraz
+   json/txt/csv/tsv/xml/yaml/yml/md do 64 MiB (inne → `pominiete`), od wersji
+   **1.1.0** z tymi samymi filtrami także **dane pomocnicze**
+   `Assets/Resources_moved/StaticData` i `Assets/Resources_moved/Story`
+   (kolejność scen z Teatru Opowieści, statystyki ID/E.G.O, tła scen — potrzebne
+   Czytankom i nagłówkom scen w Pakiecie; brak tych folderów nie jest błędem,
+   raport `dodatkowe` podaje `istnieje`/`plikow`), oraz
    `Lang/config.json` (≤64 KiB). Z `Lang/` zapisuje tylko nazwy podfolderów —
    nie kopiuje cudzych paczek tłumaczeń.
 5. Liczy SHA-256 każdego pliku; przy pakowaniu liczy ponownie i oznacza pliki

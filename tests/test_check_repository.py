@@ -58,8 +58,10 @@ class CheckRepositoryTests(unittest.TestCase):
     def test_game_directories_are_blocked(self):
         self.write("LimbusCompany_Data/Lang/config.json", "{}")
         self.write("x/Resources_moved/Localize/en/StoryData/S1.json", "{}")
+        self.write("notatki/static-data/personality/personality-01.json", "{}")
+        self.write("x/StaticData/a.json", "{}")
         found = self.violations()
-        self.assertEqual(sum("protected directory" in v for v in found), 2)
+        self.assertEqual(sum("protected directory" in v for v in found), 4)
 
     def test_game_text_directory_requires_policy_flag(self):
         self.write("wyciag/teksty_0.jsonl", "{}\n")

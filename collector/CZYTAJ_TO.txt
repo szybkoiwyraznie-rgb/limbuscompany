@@ -9,7 +9,9 @@ Pythona — wystarczy Windows z wbudowanym Windows PowerShell 5.1.
 KTÓRY PLIK URUCHOMIĆ
 
 - Pierwszy raz albo „wyślij wszystko od nowa”: kliknij dwa razy URUCHOM.bat.
-  Zbiera komplet plików tekstów gry (folder Localize: kr, en, jp).
+  Zbiera komplet plików tekstów gry (folder Localize: kr, en, jp) oraz
+  tekstowe dane pomocnicze (StaticData i Story: kolejność scen, statystyki
+  postaci) potrzebne do Czytanek.
 - Po aktualizacji gry (zwykle w czwartek): kliknij dwa razy
   URUCHOM_AKTUALIZACJE.bat. Program pamięta sumy SHA-256 wcześniej wysłanych
   plików (%LOCALAPPDATA%\LC_ZBIERACZ_STAN\stan_wyslanych.json) i zbiera tylko
@@ -35,8 +37,9 @@ CO JEST W WYNIKOWYM ZIP-IE
   lista skopiowanych plików z rozmiarem i SHA-256, pominięte pliki i problemy.
 - INWENTARZ.jsonl: same nazwy, rozmiary i daty plików z LimbusCompany_Data
   (bez ich zawartości i bez pełnej ścieżki do Twojego dysku).
-- pliki/: kopie plików tekstów gry z Assets\Resources_moved\Localize oraz
-  Lang\config.json (jeśli istnieje).
+- pliki/: kopie plików tekstów gry z Assets\Resources_moved\Localize,
+  tekstowe pliki z Assets\Resources_moved\StaticData i ...\Story (jeśli są)
+  oraz Lang\config.json (jeśli istnieje).
 
 PRYWATNOŚĆ I BEZPIECZEŃSTWO
 

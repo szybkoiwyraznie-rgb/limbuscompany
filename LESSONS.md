@@ -17,6 +17,14 @@ Wnioski przeniesione z WWM/SRW są oznaczone źródłem.
   [docs/METODA.md](docs/METODA.md). Repozytoria bez licencji — tylko reguły,
   kod od nowa. Analiza: sklonuj płytko do `/tmp`, czytaj README/config/
   skrypty, zapisz wnioski od razu (klony znikają).
+- **Kontekst i chronologia są w danych pomocniczych, nie w `Localize`.**
+  Kolejność scen: `StaticData/static-data/storytheater-main` (nie nazwy plików —
+  `S001B` to *Before*). Statystyki ID: `StaticData/.../personality|skill`.
+  Zanim zgadniesz z nazw, sprawdź te pliki.
+- **Element pakietu jak w SRW — bez technicznych kluczy w widoku Tłumacza.**
+  Klucze trzyma manifest importu; Tłumacz widzi numer, etykietę, KR, `tokeny:`,
+  EN, `PL:`. Właściciel w SRW odrzucał techniczne dodatki („czemu podajesz
+  jakieś cele zamiast ilości liter”). (SRW)
 - **`<…>` w tekście gry to nie zawsze tag.** Ogólny wzorzec `<[^>]+>`
   psuje dialogi (nawiasy jako cudzysłów) — tylko zamknięta lista nazw.
 - **Dostawa na Dysk = rozmiar + SHA-256 + pobranie z powrotem.** Dysk raz

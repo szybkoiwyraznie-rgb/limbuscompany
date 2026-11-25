@@ -21,6 +21,7 @@ repozytorium.** W polityce: `repozytorium_publiczne: true`,
 | Pakiety dla Tłumacza (`paczki/<nazwa>/`, rozpakowane pliki tekstowe + `paczka.json`) | Git; ZIP do przekazania — Dysk |
 | Zwrotki Tłumacza (`zwrotki/`), przekład (`tlumaczenie/`), glosariusz, korekty | Git |
 | Surowe pliki lokalizacji (`KR_/EN_/JP_*.json`), katalogi `LimbusCompany_Data/`, `Resources_moved/`, `Localize/` | **poza Git**: `local/` + Dysk |
+| Surowe dane pomocnicze (`StaticData/static-data/*`, `Story/Effect/*`) — od zbieracza 1.1.0 | **poza Git**: `local/` + Dysk; w Git tylko wyniki (indeks chronologii, karty ID w Czytankach) |
 | ZIP-y zbieracza `LC_DANE_*.zip` | **poza Git**: Dysk (folder „Limbus Company”) + `local/zwroty/` |
 | Zbudowane ZIP-y (zbieracz, patch CLS, instalator) | **poza Git**: `dist/` → Dysk (bez GitHub Releases — decyzja 2026-11-25) |
 | Binaria Unity, archiwa, pliki wykonywalne, fonty spoza `assets/fonts/` | **nigdy** w Git |

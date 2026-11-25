@@ -15,7 +15,9 @@ gra). Szczegóły etapów: [WORKFLOW.md](WORKFLOW.md).
 - [ ] `config/pola_tlumaczone.json` — biała lista pól tekstowych.
 - [x] Decyzje: źródło KR, publiczne repo z tekstami jak WWM/SRW, niezależnie od
       istniejącego PL; zapas EN; bez wydań — patch na Dysk; metody i indeksy z
-      innych projektów Limbus ([METODA.md](METODA.md)) (2026-11-25). Otwarte: font.
+      innych projektów Limbus ([METODA.md](METODA.md)); font domyślny gry;
+      Pakiet wzorowany na SRW; Czytanki „ludzkie” (2026-11-25). Brak otwartych pytań.
+- [x] Zbieracz 1.1.0: także `StaticData` i `Story` (kolejność scen, statystyki ID).
 - [x] Moduł tokenów `tools/lc_tokeny.py` + spis tokenów w rozpoznaniu.
 - [ ] Indeksy z danych: postacie (`ScenarioModelCodes`), słowa kluczowe
       (`BattleKeywords`/`Bufs`), rozdziały ([METODA.md](METODA.md), punkt 7).
@@ -28,14 +30,18 @@ gra). Szczegóły etapów: [WORKFLOW.md](WORKFLOW.md).
 - [ ] Instalator BAT+PS1 (kopia `Lang/config.json`, instalacja tylko w `Lang/`,
       cofanie, sprawdzenie `buildid`) + test w CI na Windows.
 - [ ] Test w grze: patch „znacznikowy” (np. `[PL]` przed kilkoma napisami UI —
-      techniczny znacznik, nie przekład) + test polskich znaków i fontu.
+      techniczny znacznik, nie przekład) + test polskich znaków w **domyślnym**
+      foncie gry (dialog, UI, tytuły).
 
 ## Faza 3 — pierwszy pakiet i pilot przekładu
 
 - [ ] Wyciąg `lc-wyciag-v1` (jednostki z kluczami, mówcą, kontekstem, tokenami).
-- [ ] Generator Pakietu `lc-paczka-v1` + import zwrotki + kontrole.
-- [ ] Pilot: UI + krótki fragment fabuły → Tłumacz → patch → test w grze.
-- [ ] Czytanki źródłowe (fabuła główna) — pierwsze części.
+- [ ] Indeks chronologii (`storytheater-main` + `StageChapterText`/`StageNode*`)
+      → `spis-rozdzialow.md`/`spis-scen.md`.
+- [ ] Generator Pakietu `lc-paczka-v1` w układzie SRW (`sceny.zip`/`widoki.zip`,
+      nagłówki scen z kontekstem, manifest importu) + import zwrotki + kontrole.
+- [ ] Pilot: UI + Prolog → Tłumacz → patch → test w grze.
+- [ ] Czytanki źródłowe EN: fabuła (Prolog, Canto I…) i karty ID — pierwsze części.
 
 ## Faza 4 — tłumaczenie właściwe
 
@@ -45,7 +51,8 @@ gra). Szczegóły etapów: [WORKFLOW.md](WORKFLOW.md).
 
 ## Faza 5 — dostawa patcha na Dysk (bez wydań)
 
-- [ ] Font z licencją pozwalającą na redystrybucję w `assets/fonts/` + licencja.
+- [ ] (Tylko jeśli test fontu domyślnego wykaże braki) font z licencją na
+      redystrybucję w `assets/fonts/` + licencja.
 - [ ] Deterministyczny ZIP patcha (`buildid` w nazwie, `RAPORT.json`,
       `SUMY.sha256`) → Dysk, folder „Limbus Company” → pobranie i porównanie.
 - [ ] Instrukcja instalacji dla właściciela (lub prosty instalator BAT).
