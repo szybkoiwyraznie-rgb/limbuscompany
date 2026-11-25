@@ -13,6 +13,29 @@ Najnowszy wpis na górze. Szablon:
 - Następny krok:
 ```
 
+## 2026-11-25 — szacunek objętości tekstu do przekładu
+
+- Cel: odpowiedzieć właścicielowi, ile jest tekstu (stan fabuły do Canto IX
+  i Intervallo VII).
+- Wejście: publiczna kopia `Localize` KR/EN w
+  `LocalizeLimbusCompany/LocalizeLimbusCompany`, commit `231a8bc` z 2026-08-06.
+  Skrypt jednorazowy działał w `/tmp`, a wyniki zapisano tylko tutaj.
+- Metoda: liczone są wartości KR z Hangulem, bez pól `id` i `model` i bez
+  tagów; EN brany z tej samej ścieżki. Powtórzenia KR liczone raz.
+- Wynik: wartości unikalne, słowa EN i strony po 1800 znaków EN.
+  - Fabuła główna: 330 tys. słów, ok. 1000 stron.
+  - Wydarzenia i Intervallo: 220 tys. słów, ok. 680 stron.
+  - Opowieści osobowości: 187 tys. słów, ok. 580 stron.
+  - ID, E.G.O, umiejętności, statusy i wrogowie: 341 tys. słów, ok. 1040 stron.
+  - Kwestie głosowe: 133 tys. słów, ok. 410 stron.
+  - Lochy: 106 tys. słów, ok. 330 stron.
+  - Interfejs: 101 tys. słów, ok. 330 stron.
+  - **Razem: ok. 1,42 mln słów, ok. 3,5 mln znaków KR, ok. 4400 stron.**
+- Rodzaj dowodu: szacunek z publicznej kopii.
+- Ograniczenia: kopia jest z sierpnia 2026, więc treści dodane później
+  doliczy pomiar na zbiorze właściciela. Kategorie przypisano po nazwach
+  plików.
+
 ## 2026-11-25 — format danych pomocniczych (chronologia, statystyki) i zbieracz 1.1.0
 
 - Cel: ustalić, skąd wziąć dokładną chronologię scen i statystyki ID dla
