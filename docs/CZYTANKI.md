@@ -17,17 +17,16 @@ projektów WWM/SRW (Markdown w częściach ~2,5 MB z indeksem `README.md`).
 
 ## Wersje
 
-- **Źródłowa (EN, opcjonalnie KR obok)** — możliwa od razu po pierwszym zbiorze.
+- **Źródłowa (KR z EN obok)** — możliwa od razu po pierwszym zbiorze.
 - **Polska** — z przekładu Tłumacza, gdy dany fragment jest przetłumaczony;
   nieprzetłumaczone fragmenty oznaczone i w języku źródłowym.
 
 ## Zasady
 
-- Czytanki zawierają tekst gry → przy `tekst_gry_w_git: false` leżą w `local/`
-  i na Dysku (folder „Limbus Company/Czytanki”), nie w Git
-  ([DATA_POLICY.md](DATA_POLICY.md)). W Git jest tylko generator i testy.
-- Generator jest deterministyczny i nie dodaje treści od siebie — żadnych
-  streszczeń ani komentarzy AI bez zgody właściciela ([CEL.md](CEL.md), pyt. 4).
+- Czytanki leżą w repozytorium w `czytanki/` (jak w WWM/SRW,
+  [DATA_POLICY.md](DATA_POLICY.md)); generator i testy w `tools/`/`tests/`.
+- Generator jest deterministyczny: ten sam wyciąg → te same pliki, więc diff
+  po aktualizacji gry pokazuje tylko nowe/zmienione sceny.
 - Kolejność scen: z danych gry (nazwy/ID rozdziałów); gdzie kolejność jest
   hipotezą, Czytanka to zaznacza.
 - Format: Markdown UTF-8, części ~2,5 MB, `README.md` ze spisem treści i

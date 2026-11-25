@@ -78,7 +78,8 @@ Liczby dla aktualnej wersji gry ustali `tools/rozpoznanie_localize.py`.
 
 1. Wyciąg działa na **nazwach logicznych** (bez prefiksu) i wiąże pliki
    kr/en/jp po tej nazwie (`tools/lc_localize.py`).
-2. Patch odtwarza **pełny JSON** źródła (np. EN) z podmienionymi tylko polami
+2. Patch odtwarza **pełny JSON** pliku bazowego (KR albo EN jako język zapasowy,
+   [CEL.md](CEL.md)) z podmienionymi tylko polami
    tekstowymi z białej listy (wzór: `translatable_keys.json` z
    Noplch0/limbus-ai-localization); pola identyfikatorów (`id`, `model`, klucze
    techniczne) pozostają bez zmian.

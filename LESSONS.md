@@ -9,7 +9,8 @@ Wnioski przeniesione z WWM/SRW są oznaczone źródłem.
   zastępują pusha. (WWM, SRW)
 - **Nie zgłaszaj działania w grze bez zgłoszenia właściciela.** Testy
   syntetyczne i CI to dowody innego rodzaju — nazywaj je wprost. (WWM)
-- **Nie pytaj o rzeczy rozstrzygnięte w `docs/CEL.md`.** Otwarte pytania zbieraj
+- **Nie pytaj o rzeczy rozstrzygnięte w `docs/CEL.md`** ani o tematy, które
+  właściciel wyłączył z projektu (np. AI — „nie jest tematem tego projektu”). Otwarte pytania zbieraj
   w jednym miejscu i zadawaj razem. (SRW)
 - **Dostawa na Dysk = rozmiar + SHA-256 + pobranie z powrotem.** Dysk raz
   zablokował ZIP zbieracza; plan awaryjny: archiwum repozytorium z GitHub. (WWM)

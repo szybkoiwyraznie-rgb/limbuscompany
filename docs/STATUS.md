@@ -10,8 +10,8 @@ czego **nie** sprawdzono, następny krok.
 - Zasady pracy: `AGENTS.md`, `ENVIRONMENT.md`, `LESSONS.md`, dokumenty w `docs/`.
 - Polityka danych `config/polityka_danych.json` + kontrola indeksu
   `tools/check_repository.py` (blokuje surowe pliki `KR_/EN_/JP_*.json`,
-  katalogi gry, binaria Unity, archiwa, fonty poza `assets/fonts/`, katalogi
-  tekstu gry przy `tekst_gry_w_git: false`).
+  katalogi gry, binaria Unity, archiwa, fonty poza `assets/fonts/`). Wyciąg,
+  indeksy, Czytanki i tłumaczenia mogą być w Git (decyzja 2026-11-25).
 - Zbieracz Windows `collector/` (BAT + PowerShell 5.1), tryby `pelny` i
   `aktualizacja`, budowany przez `tools/build_collector_kit.py` do
   `dist/LC_ZBIERZ_DANE.zip`.
@@ -38,6 +38,6 @@ CLS, [CLS_FORMAT.md](CLS_FORMAT.md)).
 2. Agent: walidacja (`validate_collector_return.py`), rozpoznanie
    (`rozpoznanie_localize.py`), wpis w `EXPERIMENT_LOG.md`, uzupełnienie
    `CLS_FORMAT.md` o fakty z prawdziwych danych.
-3. Odpowiedzi na otwarte pytania z [CEL.md](CEL.md) → projekt wyciągu
-   (`lc-wyciag-v1`) i pierwszego Pakietu dla Tłumacza (pilot: UI + jeden
-   rozdział fabuły).
+3. Projekt wyciągu `lc-wyciag-v1` (źródło KR, EN/JP obok) do `wyciag/` w
+   Git, Czytanki źródłowe, pierwszy Pakiet dla Tłumacza (pilot: UI + jeden
+   rozdział fabuły). Decyzje z 2026-11-25 są w [CEL.md](CEL.md).

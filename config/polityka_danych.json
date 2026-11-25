@@ -1,7 +1,10 @@
 {
   "format": "lc-polityka-danych-v1",
   "repozytorium_publiczne": true,
-  "tekst_gry_w_git": false,
-  "katalogi_tekstu_gry": ["wyciag", "czytanki"],
-  "uzasadnienie": "Repozytorium jest publiczne, a Project Moon zapowiedział egzekwowanie zakazu nieautoryzowanego udostępniania zasobów gry (komunikat z 2025-09-26). Dopóki właściciel nie zmieni repozytorium na prywatne i nie przestawi tej flagi, wyciąg tekstu gry (KR/EN/JP) i Czytanki zostają w local/ i na prywatnym Dysku. Szczegóły: docs/DATA_POLICY.md."
+  "tekst_gry_w_git": true,
+  "katalogi_tekstu_gry": [
+    "wyciag",
+    "czytanki"
+  ],
+  "uzasadnienie": "Decyzja właściciela z 2026-11-25: jak w projektach WWM i SRW repozytorium jest publiczne, bez plików binarnych i bez surowych plików gry, ale wyciągnięte teksty (wyciag/), indeksy, Czytanki (czytanki/), pakiety i tłumaczenia są w Git. Surowe pliki lokalizacji (KR_/EN_/JP_*.json, katalogi Localize/LimbusCompany_Data) i ZIP-y zbieracza zostają poza Git. Szczegóły: docs/DATA_POLICY.md."
 }

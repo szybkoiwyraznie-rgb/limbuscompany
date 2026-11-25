@@ -5,8 +5,8 @@ Wejście: części ZIP zbieracza (``LC_DANE_*.zip``, walidowane przed odczytem)
 albo katalog (folder gry, ``LimbusCompany_Data`` lub ``Localize``).
 Wynik: raport JSON (``lc-rozpoznanie-v1``) z liczbami, nazwami plików i
 wzorcami pól oraz opcjonalne podsumowanie Markdown. Raport nie zawiera treści
-napisów, ale nazwy plików i pól są metadanymi gry: zapisuj go w ``dist/``
-albo ``local/``; do Git trafiają tylko zagregowane liczby, po przeglądzie.
+napisów (do jej przetwarzania służy wyciąg). Po przeglądzie raport może trafić
+do Git (np. ``wyciag/rozpoznanie/``), zob. docs/DATA_POLICY.md.
 
 Przykład::
 

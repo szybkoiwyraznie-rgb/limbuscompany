@@ -65,15 +65,16 @@ class CheckRepositoryTests(unittest.TestCase):
         self.write("wyciag/teksty_0.jsonl", "{}\n")
         self.assertTrue(any("game-text directory" in v for v in self.violations()))
 
-    def test_game_text_flag_requires_private_repository(self):
+    def test_game_text_allowed_in_public_repository_when_flag_is_set(self):
         self.write("config/polityka_danych.json", policy(allowed=True, public=True))
-        with self.assertRaises(RuntimeError):
-            cr.scan_index(self.repo)
-
-    def test_game_text_allowed_in_private_repository(self):
-        self.write("config/polityka_danych.json", policy(allowed=True, public=False))
         self.write("wyciag/teksty_0.jsonl", "{}\n")
+        self.write("czytanki/README.md", "# x\n")
         self.assertEqual(self.violations(), ())
+
+    def test_raw_localization_files_blocked_even_when_text_allowed(self):
+        self.write("config/polityka_danych.json", policy(allowed=True, public=True))
+        self.write("wyciag/KR_MainUIText.json", "{}")
+        self.assertTrue(any("raw game localization" in v for v in self.violations()))
 
     def test_binary_archives_secrets_and_fonts(self):
         self.write("dist/x.txt", "x")
@@ -99,10 +100,12 @@ class CheckRepositoryTests(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             cr.scan_index(self.repo)
 
-    def test_real_repository_policy_is_conservative(self):
+    def test_real_repository_policy_matches_owner_decision(self):
         data = json.loads((cr.ROOT / "config" / "polityka_danych.json").read_text("utf-8"))
+        # Decyzja właściciela 2026-11-25: publiczne repo, wyciąg i Czytanki w Git.
         self.assertTrue(data["repozytorium_publiczne"])
-        self.assertFalse(data["tekst_gry_w_git"])
+        self.assertTrue(data["tekst_gry_w_git"])
+        self.assertEqual(sorted(data["katalogi_tekstu_gry"]), ["czytanki", "wyciag"])
 
 
 if __name__ == "__main__":

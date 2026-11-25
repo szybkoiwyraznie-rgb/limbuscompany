@@ -3,50 +3,46 @@
 Plik maszynowy: [`config/polityka_danych.json`](../config/polityka_danych.json)
 (`lc-polityka-danych-v1`). Egzekwuje go `tools/check_repository.py` w CI.
 
-## Stan obecny (2026-11-25)
+## Decyzja (2026-11-25, właściciel)
 
-- Repozytorium jest **publiczne** i nie ma licencji.
-- `tekst_gry_w_git: false` — wyciąg tekstu gry (`wyciag/`) i Czytanki
-  (`czytanki/`) **nie mogą** być w indeksie Git. Kontrola odrzuca też surowe
-  pliki lokalizacji (`KR_*.json`, `EN_*.json`, `JP_*.json`), katalogi
-  `LimbusCompany_Data/`, `Resources_moved/`, `Localize/`, binaria Unity, archiwa
-  i fonty poza `assets/fonts/`.
-
-## Uzasadnienie
-
-- Teksty gry są własnością Project Moon. Publiczne repo z pełnym tekstem
-  koreańskim/angielskim to „udostępnianie zasobów gry” — Project Moon wymienił
-  je wśród naruszeń w komunikacie o zasadach twórczości fanowskiej (2025-09-26),
-  obok modyfikacji klienta i trenowania AI.
-- Paczka CLS z polskim tekstem to praktyka akceptowana przez wydawcę (sam
-  zapowiedział i opisał CLS dla tłumaczeń fanowskich). Polskie przekłady
-  Tłumacza są pracą zależną — publikujemy je w formie patcha, tak jak inne
-  społeczności (PT-BR, ES, FR, RU, zh-CN).
-- Zasady fanowskie Project Moon są w trakcie aktualizacji; obowiązują stare.
-  Przy każdej zmianie zasad wydawcy zaktualizuj ten plik i `PRIOR_ART.md`.
+Tak jak w projektach WWM i SRW: **repozytorium publiczne, żadnych binariów ani
+surowych plików gry, ale wyciągnięte teksty, indeksy i tłumaczenia są w
+repozytorium.** W polityce: `repozytorium_publiczne: true`,
+`tekst_gry_w_git: true`, `katalogi_tekstu_gry: ["wyciag", "czytanki"]`.
 
 ## Co gdzie leży
 
 | Dane | Miejsce |
 |---|---|
 | Kod, testy (dane **wymyślone**), dokumentacja, polityka | Git |
-| Statystyki struktury: liczby, nazwy plików i pól, SHA-256, `buildid` | Git (po przeglądzie) |
-| Przekład Tłumacza (`tlumaczenie/`), glosariusz, korekty | Git |
-| Zwroty zbieracza `LC_DANE_*.zip` | Dysk (folder „Limbus Company”) + `local/zwroty/` |
-| Wyciąg tekstu gry, Czytanki | `local/` + Dysk (przy `tekst_gry_w_git: false`) |
-| Pakiety dla Tłumacza (zawierają źródło) | Dysk; w `paczki/` tylko `paczka.json` (manifest bez treści) |
-| Zbudowane ZIP-y (zbieracz, patch, instalator) | `dist/` (ignorowane) → Dysk / Releases po decyzji |
+| Wyciąg tekstu (`wyciag/`): jednostki KR/EN/JP z kluczami, mówcami, kontekstem, tokenami; indeksy (sceny, postaci, pliki) | Git |
+| Raporty rozpoznania i manifesty (liczby, SHA-256, `buildid`) | Git |
+| Czytanki (`czytanki/`) | Git |
+| Pakiety dla Tłumacza (`paczki/<nazwa>/`, rozpakowane pliki tekstowe + `paczka.json`) | Git; ZIP do przekazania — Dysk |
+| Zwrotki Tłumacza (`zwrotki/`), przekład (`tlumaczenie/`), glosariusz, korekty | Git |
+| Surowe pliki lokalizacji (`KR_/EN_/JP_*.json`), katalogi `LimbusCompany_Data/`, `Resources_moved/`, `Localize/` | **poza Git**: `local/` + Dysk |
+| ZIP-y zbieracza `LC_DANE_*.zip` | **poza Git**: Dysk (folder „Limbus Company”) + `local/zwroty/` |
+| Zbudowane ZIP-y (zbieracz, patch CLS, instalator) | **poza Git**: `dist/` → Dysk |
+| Binaria Unity, archiwa, pliki wykonywalne, fonty spoza `assets/fonts/` | **nigdy** w Git |
+
+Wyciąg to tekst w formacie projektu, a nie kopia plików gry: patch CLS jest
+budowany ze źródłowych JSON-ów z `local/` (albo odtwarzany z wyciągu, jeśli
+wyciąg przechowuje pełną strukturę — decyzja przy projektowaniu `lc-wyciag-v1`).
+
+## Limity techniczne
+
+- Pojedynczy plik w Git ≤ 10 MiB (kontrola indeksu). Wyciąg i Czytanki dzielimy
+  na części (Czytanki ~2,5 MB, wyciąg według plików/katalogów gry).
+- Pliki tekstowe UTF-8, LF (`.gitattributes`), deterministyczne (stała
+  kolejność, bez znaczników czasu w treści) — żeby diff po aktualizacji gry
+  pokazywał tylko rzeczywiste zmiany.
 
 ## Zmiana polityki
 
-Przestawienie na `tekst_gry_w_git: true` wymaga:
-
-1. decyzji właściciela (zapisanej w [CEL.md](CEL.md));
-2. repozytorium prywatnego (`gh repo view --json isPrivate` → `true`) i
-   ustawienia `"repozytorium_publiczne": false` w polityce;
-3. osobnego commita zmieniającego tylko politykę, przed dodaniem tekstu.
-
-Kontrola odrzuci flagę `true` przy `repozytorium_publiczne: true`.
+Zmiana flag w `config/polityka_danych.json` wymaga decyzji właściciela, wpisu
+w [CEL.md](CEL.md) i osobnego commita zawierającego tylko politykę.
+`tekst_gry_w_git: false` natychmiast zablokuje w kontroli katalogi
+`wyciag/` i `czytanki/`.
 
 ## Prywatność właściciela
 
@@ -54,9 +50,3 @@ Kontrola odrzuci flagę `true` przy `repozytorium_publiczne: true`.
   folderu gry; nie zbiera zapisów, logów, poświadczeń.
 - W publicznych logach, PR i CI nie podawaj ścieżek z nazwą użytkownika ani ID
   prywatnych plików na Dysku.
-
-## AI
-
-- Nie wysyłaj tekstu gry do zewnętrznych modeli/usług bez zgody właściciela.
-- Nie trenuj ani nie dostrajaj modeli na tekście gry.
-- Czy Tłumacz może używać AI — decyduje właściciel ([CEL.md](CEL.md), pytanie 4).

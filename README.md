@@ -12,14 +12,14 @@ fanowskie** (Custom Language Support): tłumaczenie to folder z plikami JSON w
 ## Obieg
 
 ```text
-gra u właściciela ──ZBIERACZ (BAT+PS1)──► ZIP na Pulpicie ──Dysk──► local/ (prywatnie)
+gra u właściciela ──ZBIERACZ (BAT+PS1)──► ZIP na Pulpicie ──Dysk──► local/ (poza Git)
         │                                                              │
         │                                         tools/rozpoznanie_localize.py
         │                                         (struktura, bez treści)
         │                                                              ▼
-        │                                     wyciąg KR/EN/JP + sceny + mówcy
+        │                                 wyciag/ (KR źródło + EN/JP) + sceny + mówcy
         │                                         │                  │
-        │                       Pakiet dla Tłumacza (.md)        Czytanki (EN → PL)
+        │                       Pakiet dla Tłumacza (KR→PL)     czytanki/ (KR/EN → PL)
         │                                         │
         │                         zwrotka Tłumacza → import z kontrolami → tlumaczenie/
         │                                         │
@@ -52,15 +52,15 @@ python tools/run_tests.py
 ```text
 .github/       CI (Ubuntu i Windows × Python 3.11/3.12), szablony PR i zgłoszeń
 collector/     źródła zbieracza Windows (BAT + PowerShell 5.1, tylko odczyt)
-config/        polityka danych (czy tekst gry może trafić do Git)
+config/        polityka danych (co z danych gry może trafić do Git)
 docs/          cel, stan, format CLS, projekty pakietu i Czytanek, dziennik
 tools/         kontrola repozytorium, budowa i walidacja zbieracza, rozpoznanie
 tests/         testy na wymyślonych danych (bez plików gry)
-local/         prywatne pliki gry i wyniki — ignorowane przez Git
+local/         surowe pliki gry i ZIP-y zbieracza — ignorowane przez Git
 build/, dist/  lokalne wyniki (ZIP-y) — ignorowane przez Git
 ```
 
-Planowane katalogi (powstaną, gdy będą potrzebne): `tlumaczenie/` (magazyn
-przekładów), `paczki/` (manifesty wysłanych pakietów), `zwrotki/`,
-`instalator/`, `assets/fonts/` (czcionki z licencją), `wyciag/` (tylko po
-decyzji z [DATA_POLICY.md](docs/DATA_POLICY.md)).
+Planowane katalogi (powstaną, gdy będą potrzebne): `wyciag/` (wyciągnięte
+teksty KR/EN/JP z kluczami i indeksami), `czytanki/`, `paczki/` (wysłane Pakiety
+dla Tłumacza), `zwrotki/`, `tlumaczenie/` (magazyn przekładów), `instalator/`,
+`assets/fonts/` (czcionki z licencją). Zasady: [DATA_POLICY.md](docs/DATA_POLICY.md).

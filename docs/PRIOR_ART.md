@@ -22,9 +22,8 @@ polskiego) ani zasobów.
   Selva Obscura, Canto I), karty ID, umiejętności.
 - Poradnik Steam „(Nieoficjalne) Polskie Tłumaczenie Limbus Company”
   (wrzesień 2026, sekcja poradników gry na Steam).
-- Wniosek: istnieje równoległa inicjatywa. Decyzja właściciela, czy ją
-  ignorować, czy nawiązać kontakt ([CEL.md](CEL.md), pyt. 3). Nie kopiujemy
-  jej tekstu; można porównać zakres i podejście (np. font, nazewnictwo).
+- **Decyzja właściciela (2026-11-25): ignorujemy.** Projekt jest niezależny —
+  bez kontaktu, bez porównywania i bez korzystania z jego tekstu.
 
 ## Inne społeczności (format CLS)
 
@@ -44,7 +43,7 @@ polskiego) ani zasobów.
   (`-1` dla dźwięków), potrzeba kluczy z numerem wystąpienia (`#-1~2`).
 - **Noplch0/limbus-ai-localization** — **biała lista tłumaczonych pól**
   (`translatable_keys.json`): tłumaczone są tylko pola z listy, reszta JSON
-  bez zmian. Przejmujemy ideę (bez części AI).
+  bez zmian. Przejmujemy ideę białej listy pól.
 - **Ian1254/LCPatch-Localization-Builder** — budowanie paczki z różnic.
 
 ## Własne projekty właściciela (źródło sposobu pracy)

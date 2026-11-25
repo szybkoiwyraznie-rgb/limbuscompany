@@ -53,27 +53,26 @@ patcherze.** Limbus ma oficjalny mechanizm tłumaczeń (Custom Language Support,
 
 ### Dane gry i Git
 
-- Repozytorium jest **publiczne**. Pliki gry (także surowe JSON-y z `Localize`),
-  ich kopie, archiwa zbieracza, zapisy i zrzuty zostają poza Git — w
-  ignorowanym `local/` i na prywatnym Dysku. **Wyciąg tekstu gry i Czytanki
-  nie trafiają do Git**, dopóki `config/polityka_danych.json` ma
-  `"tekst_gry_w_git": false`. Przestawienie flagi wymaga decyzji właściciela i
-  prywatnego repozytorium (`gh repo view --json isPrivate`). Pilnuje tego
-  `tools/check_repository.py`, ale ręczny przegląd diffu jest obowiązkowy.
-- Do Git trafiają: kod, testy na **wymyślonych** danych, dokumentacja, manifesty
-  z liczbami i SHA-256, zwrotki/przekłady Tłumacza (`tlumaczenie/`) oraz
-  zagregowane statystyki struktury (nazwy plików i pól, liczby — bez treści).
-- Do publicznych logów, PR i CI nie wpisuj tekstu gry, prywatnych ścieżek z
-  nazwą użytkownika ani identyfikatorów prywatnych plików z Dysku.
-- Tekstu gry nie wysyłaj do zewnętrznych modeli/usług bez zgody właściciela
-  (Project Moon zakazuje trenowania AI na swoich materiałach).
+- Jak w WWM i SRW: repozytorium jest **publiczne**, **bez binariów i bez
+  surowych plików gry**, ale **wyciągnięte teksty, indeksy, Czytanki, pakiety i
+  tłumaczenia są w Git** (decyzja właściciela 2026-11-25,
+  `config/polityka_danych.json` → `"tekst_gry_w_git": true`).
+- Poza Git (w ignorowanym `local/` i na Dysku): surowe JSON-y z `Localize`
+  (`KR_/EN_/JP_*.json`), katalogi gry, ZIP-y zbieracza, archiwa, zapisy, zrzuty,
+  binaria Unity, fonty bez licencji. Pilnuje tego `tools/check_repository.py`,
+  ale ręczny przegląd diffu jest obowiązkowy.
+- Wyciąg (`wyciag/`) to przetworzony tekst w formacie projektu (jednostki z
+  kluczami), nie kopia plików gry; Czytanki — w `czytanki/`; pakiety — w `paczki/`.
+- Do publicznych logów, PR i CI nie wpisuj prywatnych ścieżek z nazwą
+  użytkownika ani identyfikatorów prywatnych plików z Dysku.
 
 ### Tłumaczenie
 
 - **Agent nie tłumaczy linii gry.** Jedyne dopuszczalne zmiany tekstu to
   poprawki techniczne (tokeny, znaczniki, limity) zapisane jako jawne korekty
   z uzasadnieniem. Nic po cichu.
-- Nie kopiuj cudzych tłumaczeń fanowskich (także istniejącego polskiego).
+- Nie kopiuj cudzych tłumaczeń fanowskich. Istniejące polskie tłumaczenie
+  fanowskie ignorujemy — projekt jest niezależny (decyzja 2026-11-25).
   Analizować wolno ich **format i narzędzia** ([docs/PRIOR_ART.md](docs/PRIOR_ART.md)).
 - Nie zgaduj dopasowań. Błąd tokenu, niezgodność wersji źródła albo nieznany
   klucz zatrzymuje operację — bez częściowego, cichego zapisu.

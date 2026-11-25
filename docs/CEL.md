@@ -32,8 +32,16 @@
   CI na Windows. Szczegóły: [COLLECTOR.md](COLLECTOR.md).
 - **2026-11-25 — Tylko oficjalny CLS.** Wynik: `Lang/<pl>/` + `Font/` +
   `config.json`. Żadnego BepInEx/MelonLoader ani patchowania assetów.
-- **2026-11-25 — Tekst gry poza publicznym Git** (do decyzji właściciela o
-  prywatnym repozytorium), zob. [DATA_POLICY.md](DATA_POLICY.md).
+- **2026-11-25 — Repozytorium publiczne jak WWM/SRW:** żadnych binariów ani
+  surowych plików gry, ale wyciągnięte teksty, indeksy, Czytanki, pakiety i
+  tłumaczenia są w repozytorium ([DATA_POLICY.md](DATA_POLICY.md)).
+- **2026-11-25 — Język źródłowy: koreański (oryginał).** Tłumacz przekłada z
+  KR. EN (oficjalny przekład wydawcy) i JP są w wyciągu i w pakiecie jako
+  odniesienie, ale tokeny, klucze i kompletność sprawdzamy względem KR.
+  Patch CLS budujemy na bazie plików `kr` (nieprzetłumaczone pozycje zostają
+  po koreańsku, chyba że właściciel zdecyduje o EN jako zapasie — zob. pytania).
+- **2026-11-25 — Istniejące polskie tłumaczenie fanowskie ignorujemy.** Projekt
+  jest niezależny; bez kontaktu, bez korzystania z jego tekstu.
 - **Konwencje z WWM/SRW:** sesyjna gałąź + wczesny PR, STATUS/EXPERIMENT_LOG/
   LESSONS, pakiety dla Tłumacza z kluczami SHA-256 i tokenami, import tylko
   `klucz`/`PL`, patch = 100% zwrotki, korekty agentów jawne.
@@ -42,20 +50,13 @@
 
 Stan na 2026-11-25. Po odpowiedzi przenieś punkt wyżej z datą.
 
-1. **Język źródłowy dla Tłumacza:** EN (najwygodniejszy, oficjalny przekład
-   wydawcy), KR (oryginał) czy EN z KR do wglądu? Domyślnie planowane: **EN jako
-   źródło + KR obok** jako odniesienie przy niejasnościach.
-2. **Prywatność repozytorium:** czy repo ma zostać publiczne (tekst gry tylko
-   na Dysku/`local/`), czy przestawić je na prywatne i trzymać wyciąg oraz
-   Czytanki w Git (`tekst_gry_w_git: true`)?
-3. **Istniejące polskie tłumaczenie fanowskie** (@st0nek i współpracownicy,
-   [PRIOR_ART.md](PRIOR_ART.md)): ignorować, czy spróbować kontaktu (np.
-   współpraca, uniknięcie dublowania pracy)? Agenci nie kopiują jego tekstu.
-4. **Przekłady wspomagane AI:** Project Moon ostro reaguje na AI. Czy Tłumacz
-   może używać narzędzi AI, i czy wolno wysyłać tekst gry do zewnętrznych
-   modeli (np. do Czytanek/streszczeń)? Domyślnie: **nie**, bez zgody.
-5. **Wydawanie:** tylko dla siebie, czy publicznie (Steam Guide / GitHub
+1. **Zapas dla nieprzetłumaczonych pozycji:** gdy fragment nie ma jeszcze
+   polskiego przekładu, patch ma pokazywać tekst **angielski** (czytelny dla
+   gracza) czy **koreański** (oryginał)? Propozycja: EN — można grać, zanim
+   całość będzie przetłumaczona.
+2. **Wydawanie:** tylko dla siebie, czy publicznie (Steam Guide / GitHub
    Releases)? Wpływa na instalator, nazwę folderu `Lang/` i kredyty.
-6. **Font:** CLS pozwala na jeden font tytułów i jeden treści (`Font/Title`,
+3. **Font:** CLS pozwala na jeden font tytułów i jeden treści (`Font/Title`,
    `Font/Context`). Domyślny font gry może nie mieć polskich znaków — trzeba
-   wybrać font z licencją pozwalającą na redystrybucję (np. OFL).
+   wybrać font z licencją pozwalającą na redystrybucję (np. OFL). Do ustalenia
+   po teście w grze.

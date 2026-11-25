@@ -27,7 +27,7 @@ W Windows zamiast `python` można użyć `py -3.11`.
 
 ## Katalogi i wejścia
 
-- `local/` — prywatne wejścia (ZIP-y zbieracza, rozpakowane `Localize`,
+- `local/` — wejścia spoza Git (ZIP-y zbieracza, rozpakowane `Localize`,
   zwrotki przed importem). Ignorowany, regularnie czyszczony, **nie jest
   kopią zapasową**.
 - `build/`, `dist/`, `artifacts/` — wyniki (ZIP zbieracza, raporty, pakiety).

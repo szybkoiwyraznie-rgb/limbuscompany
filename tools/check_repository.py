@@ -9,8 +9,8 @@ nie ukryje dodanego pliku. Dodatkowo:
   ``JP_*.json``, ścieżki ``Resources_moved/Localize`` i ``LimbusCompany_Data``)
   są zawsze odrzucane;
 * katalogi z tekstem gry (``config/polityka_danych.json`` →
-  ``katalogi_tekstu_gry``) są odrzucane, dopóki właściciel nie przestawi flagi
-  ``tekst_gry_w_git`` (wymaga prywatnego repozytorium, zob. docs/DATA_POLICY.md).
+  ``katalogi_tekstu_gry``) są dozwolone tylko przy ``tekst_gry_w_git: true``
+  (decyzja właściciela, zob. docs/DATA_POLICY.md); wyłączenie flagi blokuje je.
 """
 
 from __future__ import annotations
@@ -137,10 +137,8 @@ def read_policy(repo: Path, entries: list[IndexEntry]) -> Policy:
     directories = data.get("katalogi_tekstu_gry")
     if not isinstance(allowed, bool) or not isinstance(directories, list):
         raise RuntimeError(f"{POLICY}: invalid fields")
-    if allowed and data.get("repozytorium_publiczne") is not False:
-        raise RuntimeError(
-            f"{POLICY}: game text in Git requires 'repozytorium_publiczne': false"
-        )
+    if not isinstance(data.get("repozytorium_publiczne"), bool):
+        raise RuntimeError(f"{POLICY}: invalid fields")
     return Policy(
         game_text_allowed=allowed,
         game_text_directories=frozenset(str(d).casefold() for d in directories),

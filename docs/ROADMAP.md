@@ -13,7 +13,8 @@ gra). Szczegóły etapów: [WORKFLOW.md](WORKFLOW.md).
 - [ ] Pierwszy zbiór (`URUCHOM.bat`) → Dysk → walidacja → rozpoznanie.
 - [ ] Uzupełnienie [CLS_FORMAT.md](CLS_FORMAT.md) faktami (liczby, pola, tokeny).
 - [ ] `config/pola_tlumaczone.json` — biała lista pól tekstowych.
-- [ ] Decyzje z [CEL.md](CEL.md) (język źródłowy, prywatność repo, AI, wydawanie).
+- [x] Decyzje: źródło KR, publiczne repo z tekstami jak WWM/SRW, niezależnie od
+      istniejącego PL (2026-11-25). Otwarte: język zapasowy, wydawanie, font.
 
 ## Faza 2 — test CLS w grze (dowód mechanizmu)
 

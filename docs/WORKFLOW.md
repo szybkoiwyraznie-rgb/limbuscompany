@@ -20,7 +20,7 @@ format tłumaczeń (CLS) i niewielkie pliki tekstowe JSON.
 | 0 | Zbieranie | Właściciel | gra → `LC_DANE_*.zip` na Dysku | `collector/` (gotowe) |
 | 1 | Przyjęcie | Agent | ZIP → `local/zwroty/…`, wynik walidacji | `validate_collector_return.py` (gotowe) |
 | 2 | Rozpoznanie | Agent | ZIP → `dist/rozpoznanie.json/.md`, fakty w `CLS_FORMAT.md` | `rozpoznanie_localize.py` (gotowe) |
-| 3 | Wyciąg | Agent | ZIP → `wyciag/` (lokalnie, `lc-wyciag-v1`): jednostki tekstu z kluczami, mówcą, kontekstem, tokenami | do zrobienia |
+| 3 | Wyciąg | Agent | ZIP → `wyciag/` (w Git, `lc-wyciag-v1`): jednostki KR (źródło) + EN/JP z kluczami, mówcą, kontekstem, tokenami; indeksy | do zrobienia |
 | 4 | Pakiet | Agent | wyciąg → `paczki/<nazwa>/` (README, pliki tekstowe, `paczka.json`) | do zrobienia, [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md) |
 | 5 | Przekład | Tłumacz | pakiet → zwrotka (pliki z wypełnionym `PL:`) | — |
 | 6 | Import | Agent | zwrotka → `tlumaczenie/` (`klucz → PL`), raport odrzuceń | do zrobienia |
@@ -32,15 +32,13 @@ format tłumaczeń (CLS) i niewielkie pliki tekstowe JSON.
 
 ## Zasady przekazywania
 
-- **Na Dysk** (folder „Limbus Company”, do utworzenia przez agenta przy
-  pierwszej dostawie): zestawy BAT (zbieracz, instalator), zwroty zbieracza od
-  właściciela, Pakiety dla Tłumacza, Czytanki (dopóki nie mogą być w Git). Każda
-  dostawa: rozmiar + SHA-256, pobranie z powrotem i porównanie bajtów.
-- **W Git**: wszystko, co nie jest tekstem gry (zob. [DATA_POLICY.md](DATA_POLICY.md)),
-  oraz przekład Tłumacza.
+- **Na Dysk** (folder „Limbus Company”): zestawy BAT (zbieracz, instalator),
+  zwroty zbieracza od właściciela, ZIP-y Pakietów dla Tłumacza. Każda dostawa:
+  rozmiar + SHA-256, pobranie z powrotem i porównanie bajtów.
+- **W Git**: wyciąg, indeksy, Czytanki, pakiety (rozpakowane), zwrotki i
+  przekład — bez binariów i surowych plików gry ([DATA_POLICY.md](DATA_POLICY.md)).
 - **Pakiety są deterministyczne**: ten sam wyciąg i te same parametry → te same
-  bajty. Kopia przekazanego pakietu (bez tekstu gry, jeśli repo publiczne —
-  sam `paczka.json`) zostaje w `paczki/`.
+  bajty. Kopia przekazanego pakietu zostaje w `paczki/<nazwa>/`.
 
 ## Tygodniowy cykl aktualizacji gry
 
@@ -59,7 +57,7 @@ Limbus aktualizuje się zwykle w czwartki. Po aktualizacji:
 Agent sprawdza i raportuje — nie poprawia treści:
 
 - zgodność tokenów: znaczniki `<color=…>`, `<sprite…>`, `<link…>`, `{0}`, `\n`;
-- puste/nieprzetłumaczone pozycje, pozostałe znaki hangul/kana;
+- puste/nieprzetłumaczone pozycje, pozostałe w PL znaki hangul/kana;
 - spójność nazw własnych z glosariuszem (`tlumaczenie/glosariusz.*`, ustala Tłumacz);
 - długość względem źródła (ostrzeżenie, nie błąd — limity UI ustala test w grze).
 
