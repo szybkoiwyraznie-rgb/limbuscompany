@@ -12,6 +12,8 @@ Repozytorium jest **publiczne**. Zasady przejęte z WWM i SRW
 - Dane konta, zapisy, logi gry, prywatne zrzuty ekranu, identyfikatory i linki
   do prywatnych plików Dysku, pełne ścieżki z nazwą użytkownika Windows.
 - Teksty innych fanowskich tłumaczeń ([PRIOR_ART.md](PRIOR_ART.md)).
+- Kopie publicznych luster oryginalnych plików (O-07) i raporty z nich —
+  wyłącznie w ignorowanym `local/`.
 
 `tools/check_repository.py` odrzuca pliki > 10 MiB, typowe rozszerzenia
 binariów gry i czcionki poza `assets/fonts/`. To nie jest skaner treści —
@@ -20,6 +22,8 @@ diff przeglądaj samodzielnie.
 ## W Git
 
 - Kod, testy na danych wymyślonych, dokumentacja, manifesty.
+- **`wiedza/`:** wiedza o strukturze gry bez tekstu gry (nazwy plików,
+  identyfikatory, liczby), np. `kolejnosc_fabuly.json`.
 - **`index/` (planowane, D-02):** znormalizowany wyciąg tekstów z
   `Localize/kr` (źródło, D-05), `en` (odniesienie) i `jp` z manifestem buildu Steam i SHA-256 plików
   źródłowych. Budowanie Pakietów, paczki `Lang/` i Czytanek czyta tylko stąd.

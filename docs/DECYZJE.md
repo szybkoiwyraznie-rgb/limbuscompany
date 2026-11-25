@@ -84,3 +84,4 @@ tłumacza KR→PL. Narzędzia piszemy niezależnie od języka źródłowego (par
 | O-04 | Format Czytanek (HTML, EPUB, DOCX, Markdown) i zakres pierwszej | przed pierwszą Czytanką | w SRW i WWM sprawdził się HTML + DOCX |
 | O-05 | Czy tłumacz czyta po koreańsku — **warunek D-05** | **przed pierwszym pakietem** | jeśli nie: źródło EN (D-03) albo szukanie tłumacza KR→PL |
 | O-06 | Czy repozytorium ma pozostać publiczne, skoro `index/` zawiera tekst gry | przed pierwszym commitem `index/` | patrz [DATA_POLICY.md](DATA_POLICY.md) |
+| O-07 | Czy wolno pracować na **publicznych lustrach** oryginalnych plików (TW `story-data`, x1bViolet, LLC), zanim przyjdzie paczka ze zbieracza | teraz (przyspiesza etapy 1–2 i Czytanki) | propozycja agenta: tak, ale tylko lokalnie (`local/`) do projektu narzędzi i próbnych Czytanek; `index/` i pakiety dla tłumacza wyłącznie z paczki właściciela (znany build). [PRIOR_ART.md](PRIOR_ART.md) |

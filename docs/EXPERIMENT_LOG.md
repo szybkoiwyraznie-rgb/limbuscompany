@@ -44,3 +44,40 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   konektor odrzucał ZIP z `.ps1`; tutaj nie.)
 - Ograniczenie: nie sprawdzono, czy Windows/przeglądarka u właściciela nie
   zablokuje pobranego ZIP-a; BAT i tak zdejmuje znacznik pobrania z `*.ps1`.
+
+## E-004 · 2026-11-25 · przegląd projektów społeczności i lustro oryginału (test na kopii plików)
+
+- **Wejście:** publiczne repozytoria GitHub (lista i licencje w
+  [PRIOR_ART.md](PRIOR_ART.md)); lustro oryginalnych plików
+  `LocalizeLimbusCompany/LocalizeLimbusCompany` commit `231a8bc` (foldery
+  `EN/ KR/ JP/`, ostatnia zmiana `KR/` 2026-08-06); biblioteka fabuły
+  `retcons/limbus-storylogs` commit `c530489`. Wszystko lokalnie, wyniki
+  pośrednie w ignorowanym `local/survey/`. Build Steam lustra **nieznany**.
+- **Inspekcja** (`tools/inspect_localize.py`, 2,6 s): 2090/2074/2116 plików
+  en/kr/jp, 0 błędów parsowania, 214 110 / 213 387 / 214 929 tekstów;
+  2059 ścieżek wspólnych dla trzech języków; adresy `en`↔`kr`: 213 359
+  wspólnych, 123 tylko `en`, 28 tylko `kr`. Pełna tabela:
+  [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md).
+- **Znaczniki** (skrypt jednorazowy, lista nazw znaczników TMP): 22 603 / 18 452
+  znaczników en/kr, 52 415 / 50 483 słów kluczowych `[…]` (963 różne),
+  3050 / 3027 zmiennych `{n}`. Zbiory tokenów KR = EN w 22 921 tekstach,
+  różne w 3474 (~13%). Ogólny wzorzec `<…>` dawał fałszywe trafienia w 3190
+  tekstach dialogów — odrzucony.
+- **Adresowanie:** przy kluczu tylko `id` 31 778 z 229 413 niepustych tekstów
+  EN (13,9%) miało adres pozycyjny `[#i]`; po dodaniu `key`/`level`/`abilityID`
+  (`c1ac5e0`) — 19 177 (8,4%). Reszta to głównie monety umiejętności.
+- **Kolejność fabuły** (`tools/story_order.py` → `wiedza/kolejnosc_fabuly.json`):
+  34 strony, 728 z 922 plików StoryData przypisane; reguła nazw
+  `S < nD < E…; numer; B < I < A` zgodna dla 685 z 694 sąsiednich par.
+- **Czcionki** (`fontTools`, pliki z publicznych paczek): Mikodacs i
+  Pretendard z paczek PL (`Echodial`), IT (`louzhee`), FR (`Eden-Office`) i
+  RCR — wszystkie mają 18/18 polskich liter; licencja w pliku: SIL OFL 1.1
+  (Mikodacs: gluk, Reserved Font Name „Mikodacs”). `replacement_map.json`
+  paczki PL: 5 czcionek × 203 znaki, w tym 66 cyrylicy i **0 polskich liter**.
+- **Świeżość luster:** TW `story-data` i `x1bViolet/Limbus-Localization-Files`
+  — ostatni commit 2026-11-19; lustro LLC — 2026-08-06 (nieaktualne,
+  niepełne: 2090 plików EN wobec 2406 w TW).
+- **Ograniczenia:** to nie są pliki właściciela ani bieżący build; liczby
+  służą do projektu narzędzi, nie jako fakty o wersji gry. Wynik czcionek nie
+  mówi, czy gra poprawnie wyrenderuje polskie znaki — to rozstrzygnie test w
+  grze.

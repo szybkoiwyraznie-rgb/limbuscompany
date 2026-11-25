@@ -97,3 +97,15 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
     Windows CI `Get-FileHash` był „nierozpoznany”, bo PSModulePath wskazywał
     moduły PowerShell 7 — to samo może się zdarzyć u właściciela.) Używaj .NET;
     pilnuje tego `tests/test_collector_kit.py`.
+
+## Rozpoznanie (LCB)
+
+25. **Najpierw sprawdź, co zrobiła społeczność.** (LCB, 2026-11-25.) Lustra
+    oryginalnych plików, kolejność fabuły i znane pułapki formatu (przesunięcia
+    wierszy, „Unknown” przy braku elementu) były gotowe w publicznych repo.
+    Bierzemy wiedzę i dane strukturalne, nigdy tekst przekładu ani kod GPL;
+    każdą liczbę z cudzego lustra potwierdzamy na plikach właściciela.
+26. **Tokeny wykrywaj listą znanych nazw, nie ogólnym wzorcem.** (LCB,
+    2026-11-25.) `<…>` łapało dialogi w nawiasach ostrych (3190 tekstów).
+    Przy okazji: czytnik zwraca bajty — zawsze przez `load_json`, inaczej
+    statystyka po cichu wychodzi zerowa.

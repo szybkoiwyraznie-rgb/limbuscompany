@@ -25,6 +25,11 @@
                                        poprawki techniczne
 ```
 
+Wczesne ostrzeżenie (jeśli O-07 = tak): publiczne lustro TW `story-data`
+dostaje commit po każdej aktualizacji gry, więc agent może policzyć różnice
+`kr` i przygotować audyt jeszcze przed paczką właściciela. Pakiet dla
+tłumacza powstaje dopiero z paczki właściciela (znany build).
+
 Komunikacja z właścicielem: krótko, po polsku, z jednym konkretnym krokiem do
 zrobienia. Pytania tylko o otwarte decyzje z [DECYZJE.md](DECYZJE.md).
 
@@ -60,6 +65,7 @@ tabeli.
 | Pakiet dla Tłumacza | `tools/bundle.py` | planowane ([PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
 | Import zwrotki | `tools/import_zwrotki.py` | planowane |
 | Paczka `Lang/` | `tools/build_lang.py` | planowane ([LANG_FORMAT.md](LANG_FORMAT.md)) |
+| Kolejność fabuły | `tools/story_order.py` → `wiedza/kolejnosc_fabuly.json` | gotowe, testy syntetyczne; uruchamiane ręcznie po nowym rozdziale |
 | Czytanki | `tools/czytanki.py` | planowane ([CZYTANKI.md](CZYTANKI.md)) |
 
 ## Bramki między etapami

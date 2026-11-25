@@ -26,12 +26,16 @@ w `Lang/`.
 ## Czcionki i polskie znaki
 
 - Gra wymaga po jednej czcionce na slot (`Context`, `Title`).
-- Istniejąca polska paczka fanowska zawiera `Font/replacement_map.json`
-  mapujący znaki na kody z prywatnego obszaru Unicode (PUA). Możliwe przyczyny:
-  czcionka gry/atlas nie obejmuje `ą ć ę ł ń ó ś ź ż`, albo trzeba było
-  podmienić glify w zmodyfikowanej czcionce. **Hipoteza do sprawdzenia** —
-  pierwszy test w grze: wolna czcionka z pełnym zestawem polskich znaków
-  (np. z rodziny Noto/Source/Pretendard na OFL) bez żadnej mapy.
+- Istniejąca polska paczka fanowska zawiera `Font/replacement_map.json`, ale
+  ta mapa przenosi **cyrylicę** do prywatnego obszaru Unicode (PUA): 203
+  znaki, 0 polskich liter. Najpewniej skopiowano ją z narzędzi rosyjskich
+  paczek; polskich znaków nie dotyczy (E-004).
+- Czcionki z paczek PL/IT/FR/RCR — **Mikodacs** (tytuły; autor gluk, SIL
+  OFL 1.1, Reserved Font Name „Mikodacs”) i **Pretendard** (tekst; SIL OFL
+  1.1) — mają komplet `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`. Plan pierwszego testu w grze:
+  oryginalne Mikodacs/Pretendard ze źródeł autorów (nie zmodyfikowane kopie z
+  cudzych paczek), bez żadnej mapy. Zmodyfikowana Mikodacs nie może nosić tej
+  nazwy (warunek OFL).
 - W repo trzymamy tylko czcionki z licencją pozwalającą na redystrybucję, w
   `assets/fonts/` z plikiem licencji.
 
@@ -42,7 +46,8 @@ w `Lang/`.
 - Dla każdego pliku z `Localize/en` powstaje plik o tej samej ścieżce logicznej
   i **tej samej strukturze JSON**; podmieniane są tylko pola tekstowe z
   przekładem. Teksty bez przekładu: zostaje angielski oryginał i wpis w
-  raporcie pokrycia (nie usuwamy kluczy).
+  raporcie pokrycia (nie usuwamy kluczy). Brak elementu daje w grze
+  „Unknown”, a według społeczności nawet zawieszenie (E-004).
 - Walidacja: każdy JSON się parsuje, zbiór adresów = zbiór adresów źródła,
   tokeny/znaczniki zachowane, brak znaków spoza zestawu czcionki.
 - Wynik: `dist/LCB_PL_<build>_<data>.zip` z folderem `<Nazwa>/`, przykładowym

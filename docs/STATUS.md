@@ -15,6 +15,12 @@ Stan na **2026-11-25**.
 - Walidator zwrotki i inspekcja korpusu gotowe (testy syntetyczne).
 - Na Dysku właściciela utworzono folder „Limbus Company” z zestawem
   `LCB_ZBIERZ_DANE.zip` (1.0.0, SHA-256 `f12f73d4…656c`).
+- **Przegląd projektów społeczności (E-004):** oryginalne pliki KR/EN/JP są
+  w publicznych lustrach; zrobiona wstępna inspekcja formatu, statystyka
+  znaczników, stabilne adresy po identyfikatorach, kolejność fabuły
+  (`wiedza/kolejnosc_fabuly.json`, 728/922 plików StoryData). Polskie znaki
+  są w czcionkach OFL używanych przez społeczność.
+  [PRIOR_ART.md](PRIOR_ART.md).
 
 ## Następny krok
 
@@ -23,8 +29,9 @@ Stan na **2026-11-25**.
    wgrać powstały `LCB_DANE_*.zip` do tego samego folderu. Instrukcja:
    `CZYTAJ_TO.txt` w zestawie.
 2. **Właściciel (równolegle):** potwierdzić, czy tłumacz czyta po koreańsku
-   (O-05). Od tego zależy, czy źródłem pakietów będzie `kr` (D-05), czy `en`.
-3. **Agent:** walidacja + inspekcja (szczególnie parowanie `kr`↔`en`), wpis E-004, uzupełnienie
+   (O-05; od tego zależy, czy źródłem pakietów będzie `kr` (D-05), czy `en`)
+   oraz czy agent może pracować na publicznych lustrach plików (O-07).
+3. **Agent:** walidacja + inspekcja (szczególnie parowanie `kr`↔`en`), wpis E-005, uzupełnienie
    [FORMAT_LOCALIZE.md](FORMAT_LOCALIZE.md) faktami, pytanie O-06 (publiczne
    repo a `index/`), projekt `index/` i `tools/extract.py`.
 4. Potem: pakiet próbny 000 (UI) + paczka testowa „Clear all caches” z
@@ -32,4 +39,4 @@ Stan na **2026-11-25**.
 
 ## Otwarte decyzje
 
-O-01…O-06 w [DECYZJE.md](DECYZJE.md).
+O-01…O-07 w [DECYZJE.md](DECYZJE.md).
