@@ -60,6 +60,22 @@ def _identifier(item: dict) -> tuple[str, str] | None:
     return None
 
 
+def list_row_steps(items: list) -> list[tuple[str, object]]:
+    """Return ``(step, item)`` pairs using the exact addressing rules of ``iter_strings``."""
+    seen: dict[str, int] = {}
+    out: list[tuple[str, object]] = []
+    for index, item in enumerate(items):
+        ident = _identifier(item) if isinstance(item, dict) else None
+        if ident is None:
+            step = f"[#{index}]"
+        else:
+            label = f"{ident[0]}={ident[1]}"
+            seen[label] = seen.get(label, 0) + 1
+            step = f"[{label}]" if seen[label] == 1 else f"[{label}#{seen[label]}]"
+        out.append((step, item))
+    return out
+
+
 def iter_strings(node: object, path: str = "") -> Iterator[tuple[str, str]]:
     """Yield ``(address, text)`` for every string leaf of a JSON value.
 
@@ -77,16 +93,40 @@ def iter_strings(node: object, path: str = "") -> Iterator[tuple[str, str]]:
         for key, value in node.items():
             yield from iter_strings(value, f"{path}.{key}" if path else str(key))
     elif isinstance(node, list):
-        seen: dict[str, int] = {}
-        for index, item in enumerate(node):
-            ident = _identifier(item) if isinstance(item, dict) else None
-            if ident is None:
-                step = f"[#{index}]"
-            else:
-                label = f"{ident[0]}={ident[1]}"
-                seen[label] = seen.get(label, 0) + 1
-                step = f"[{label}]" if seen[label] == 1 else f"[{label}#{seen[label]}]"
+        for step, item in list_row_steps(node):
             yield from iter_strings(item, path + step)
+
+
+def transform_strings(
+    node: object,
+    updates: dict[str, str],
+    path: str = "",
+) -> tuple[object, set[str]]:
+    """Return a copy of ``node`` with string leaves at ``updates`` replaced, plus matched addresses."""
+    if isinstance(node, str):
+        if path in updates:
+            return updates[path], {path}
+        return node, set()
+    if isinstance(node, dict):
+        out_dict: dict = {}
+        applied: set[str] = set()
+        for key, value in node.items():
+            child_path = f"{path}.{key}" if path else str(key)
+            if key in IDENTIFIER_FIELDS and child_path in updates:
+                raise ValueError(f"cannot overwrite identifier field {child_path}")
+            new_val, child_applied = transform_strings(value, updates, child_path)
+            out_dict[key] = new_val
+            applied |= child_applied
+        return out_dict, applied
+    if isinstance(node, list):
+        out_list: list = []
+        applied = set()
+        for step, item in list_row_steps(node):
+            new_item, item_applied = transform_strings(item, updates, path + step)
+            out_list.append(new_item)
+            applied |= item_applied
+        return out_list, applied
+    return node, set()
 
 
 def field_name(address: str) -> str:

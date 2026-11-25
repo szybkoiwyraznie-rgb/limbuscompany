@@ -44,7 +44,7 @@ if __package__ in (None, ""):
 
 from tools.build_reading import Chapters, PHASE_TEXT, slug
 from tools.lcb_text import Texts, one_line, stage_label
-from tools.localize import Snapshot
+from tools.localize import Snapshot, list_row_steps
 from tools.package_views import build_views
 from tools.static_data import StaticData
 
@@ -53,8 +53,10 @@ ROOT = Path(__file__).resolve().parent.parent
 LINES_PER_FILE = 8000
 SCENE_LIMIT_QUANTILE = 0.999
 TOKEN = re.compile(r"<[^<>]+>|\{\d+\}")
-TMP_TAG = re.compile(r"</?(?:i|b|u|s|color|size|sprite|link|style|font|mark|align|ruby|noparse|br)(?:[= ][^<>]*)?>",
-                     re.I)
+TMP_TAG = re.compile(
+    r"</?(?:(?:i|b|u|s|br|sup|sub|nobr|noparse)|(?:color|size|sprite|link|style|font|mark|align|ruby|voffset|line-height|cspace|material)(?:[= ][^<>]*)?)>",
+    re.I,
+)
 ZIP_TIME = (2026, 1, 1, 0, 0, 0)
 
 
@@ -107,12 +109,16 @@ class Story:
 
     def pair(self, stem: str) -> list[tuple[int, dict, dict]]:
         src_rows = self.src.story(stem) or []
-        ref_rows = by_id(self.ref.story(stem))
+        ref_by_step = {
+            step: row
+            for step, row in list_row_steps(self.ref.story(stem) or [])
+            if isinstance(row, dict)
+        }
         out = []
-        for row in src_rows:
-            if row.get("id") == -1:
+        for step, row in list_row_steps(src_rows):
+            if not isinstance(row, dict) or row.get("id") == -1:
                 continue
-            out.append((len(out) + 1, row, ref_rows.get(row.get("id"), {})))
+            out.append((len(out) + 1, row, ref_by_step.get(step, {})))
         return out
 
     def speaker(self, src: dict, ref: dict) -> tuple[str, str] | None:

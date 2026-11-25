@@ -4,12 +4,13 @@ Docelowa instalacja u gracza:
 
 ```
 LimbusCompany_Data/Lang/
-├── config.json            ← wskazuje aktywny język
-└── <Nazwa>/               ← nazwa = O-01 w DECYZJE.md
-    ├── MainUIText.json    ← ta sama ścieżka logiczna co w Localize/en, bez prefiksu
+├── config.json            ← {"lang": "Polski", "titleFont": "", "contextFont": ""}
+└── Polski/                ← nazwa ustalona w D-09 (zamyka O-01)
+    ├── LoginUIText.json   ← ta sama ścieżka logiczna co w Localize/en, bez prefiksu EN_
+    ├── MainUIText.json
     ├── …
     ├── StoryData/…
-    └── Font/
+    └── Font/              ← tylko jeśli O-03 wykaże potrzebę zewnętrznych czcionek OFL
         ├── Context/<czcionka>.ttf|otf
         └── Title/<czcionka>.ttf|otf
 ```
@@ -44,22 +45,32 @@ być zbędne).
 - `Font/replacement_map.json` z istniejącej paczki fanowskiej przenosi
   cyrylicę do PUA i polskich znaków nie dotyczy — nie jest nam potrzebny.
 
-## Zasady budowania (planowany `tools/build_lang.py`)
+## Zasady budowania (`tools/build_lang.py`)
 
 - Wejście: `index/` (struktura i teksty źródłowe danego buildu) +
-  `tlumaczenie/` (przyjęte przekłady) + `assets/fonts/`. **Nigdy** `local/`.
-- Dla każdego pliku z `Localize/en` powstaje plik o tej samej ścieżce logicznej
-  i **tej samej strukturze JSON**; podmieniane są tylko pola tekstowe z
-  przekładem. Teksty bez przekładu: zostaje angielski oryginał i wpis w
-  raporcie pokrycia (nie usuwamy kluczy). Brak elementu daje w grze
-  „Unknown”, a według społeczności nawet zawieszenie (E-004).
-- Walidacja: każdy JSON się parsuje, zbiór adresów = zbiór adresów źródła,
-  tokeny/znaczniki zachowane, brak znaków spoza zestawu czcionki.
-- Wynik: `dist/LCB_PL_<build>_<data>.zip` z folderem `<Nazwa>/`, przykładowym
-  `config.json`, instrukcją instalacji i `MANIFEST.json` (build Steam, SHA-256
-  źródeł i zwrotek, pokrycie).
-- Paczka zbudowana dla innego buildu/hashy niż bieżące źródło → ostrzeżenie w
-  raporcie i w instrukcji.
+  `tlumaczenie/` (przyjęte przekłady z `tools/import_zwrotki.py`) + opcjonalnie
+  `assets/fonts/`. **Nigdy** `local/`.
+- Dla każdego pliku z `Localize/en` (oraz każdego przetłumaczonego pliku
+  obecnego wyłącznie w `Localize/kr`) powstaje plik o tej samej ścieżce
+  logicznej i **tej samej strukturze JSON**; podmieniane są tylko pola tekstowe
+  z przekładem (wraz ze słownikami mówców i miejsc). Teksty bez przekładu:
+  zostaje angielski oryginał i wpis w raporcie pokrycia (nie usuwamy kluczy).
+  Brak elementu daje w grze „Unknown”, a według społeczności nawet zawieszenie
+  (E-004).
+- Walidacja: każdy wygenerowany JSON jest ponownie parsowany, zbiór adresów
+  musi być identyczny ze zbiorem adresów źródła, a tokeny/znaczniki TMP,
+  zmienne `{0}` i słowa kluczowe `[Keyword]` muszą przejść bramkę.
+- Wynik produkcyjny: `dist/LCB_PL_Polski_<build>.zip` z układem
+  `LimbusCompany_Data/Lang/config.json` + `LimbusCompany_Data/Lang/Polski/…`,
+  `INSTRUKCJA.txt` oraz `MANIFEST.json` (build Steam, SHA-256 źródeł,
+  pokrycie i ostrzeżenia wersji). Dzięki `Lang/config.json` z `"lang": "Polski"`
+  gra po rozpakowaniu do katalogu głównego gry uruchamia się od razu po polsku.
+- Wynik diagnostyczny (`python3 tools/build_lang.py --probe`):
+  `dist/LCB_TEST_DROGI_Polski_<build>.zip` — nie zapisuje nic do `tlumaczenie/`
+  ani nie tłumaczy tekstów gry, lecz dopisuje znacznik `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ` do
+  4 punktów kontrolnych (`LoginUIText.json :: switch_allcacheclear`,
+  `MainUIText.json :: mainui_main_button1/2`, `StoryData/S001B.json :: id=0`,
+  `Skills.json :: id=1010101`).
 
 ## Test w grze (właściciel)
 

@@ -125,14 +125,28 @@ wydarzenia sezonowe i sklep) z maksymalnym zachowaniem kontekstu z danych gry.
 Tłumacz sam wybiera kolejność i tempo pracy, odsyłając dowolne partie plików
 `.md` (zalecany start w `README.md`: słownik bojowy i słowniki mówców).
 
+### D-09 · 2026-11-25 · Nazwa języka `Polski` i automatyczny start gry po polsku
+
+Polecenie właściciela (zamyka O-01):
+
+- Nazwa katalogu i wartość klucza `"lang"` w `LimbusCompany_Data/Lang/config.json`
+  to **`Polski`** (`LimbusCompany_Data/Lang/Polski/`).
+- Nazwa składa się wyłącznie ze znaków ASCII (brak ryzyka problemów ze
+  ścieżkami w Windows/Unity) i nie koliduje z cudzą paczką `Polish`.
+- Archiwum wynikowe (`tools/build_lang.py`) dostarcza gotowy plik
+  `LimbusCompany_Data/Lang/config.json` z wpisanym `"lang": "Polski"`, dzięki
+  czemu po rozpakowaniu folderu `LimbusCompany_Data` do katalogu gry Limbus
+  Company wczytuje język `Polski` automatycznie przy starcie, bez konieczności
+  ręcznego przełączania w menu.
+
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
 
 | Nr | Pytanie | Kiedy potrzebne | Uwagi |
 |---|---|---|---|
-| O-01 | Nazwa języka w `config.json` / folderu (`Polski`? `PL`?) | przed pierwszą paczką testową | nazwa widoczna w grze; inna niż w istniejącej fanowskiej paczce `Polish`, by mogły współistnieć |
+| ~~O-01~~ | ~~Nazwa języka w `config.json` / folderu (`Polski`? `PL`?)~~ | — | **zamknięte 2026-11-25: `Polski` (gra startuje od razu po polsku przez `Lang/config.json`)** → D-09 |
 | ~~O-02~~ | ~~Kolejność prac / zakres pierwszego pakietu~~ | — | **zamknięte 2026-11-25: od razu cała gra (`sceny.zip` + `widoki.zip`, 100% tekstów z kontekstem)** → D-08 |
-| O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | przed testem w grze | właściciel: prawdopodobnie tak — **najpierw test bez własnych czcionek**; zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
-| O-04 | Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX) | po lekturze próbek | układ wg D-07; po akceptacji zamrożony |
+| O-03 | Czcionki: czy domyślna czcionka gry wystarcza dla polskich znaków | test w grze (`LCB_TEST_DROGI_Polski_26652290.zip`) | właściciel: prawdopodobnie tak — **najpierw test bez własnych czcionek**; zewnętrzne (OFL) tylko awaryjnie; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
+| ~~O-04~~ | ~~Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX)~~ | — | **zamknięte 2026-11-25: układ zaakceptowany i zamrożony; ewentualne usterki zgłaszane na bieżąco w trakcie czytania** → D-07 |
 | ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |
 | ~~O-06~~ | ~~Czy teksty gry mają być w repozytorium (publicznym)~~ | — | **zamknięte 2026-11-25: tak, jako JSON/MD; binaria nigdy** → D-06 |
 | ~~O-07~~ | ~~Czy wolno pracować na publicznych lustrach~~ | — | **zamknięte 2026-11-25: tak** → D-06 |

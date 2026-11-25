@@ -220,3 +220,42 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
     `09_pozostale`), 93 069 elementów, 68 148 unikalnych do przetłumaczenia;
   - niezależny audyt round-trip adresów `źródło:` + `słownik:` potwierdza
     pokrycie `103 871 / 103 871` liści JSON (`missing = 0`, `duplicates = 0`).
+
+## E-009 · 2026-11-25 · `import_zwrotki.py`, `build_lang.py` i paczka diagnostyczna `Polski` dla buildu `26652290` (test syntetyczny + test na kopii plików)
+
+- **Cel:** domknąć techniczny rurociąg od zwrotki tłumacza do gotowego archiwum
+  `LimbusCompany_Data/Lang/` (D-09: `lang = Polski`, O-01 zamknięte; O-04
+  zamknięte) oraz zbudować deterministyczną paczkę diagnostyczną Etapu 3 pod
+  test w grze (O-03).
+- **Ustalenia podczas walidacji na pełnym korpusie (`157 612` pozycji pakietu):**
+  - doprecyzowano wyrażenie regularne znaczników TMP (`TMP_TAG`), aby
+    jednoliterowe znaczniki (`<i>`, `<b>`, `<u>`, `<s>`) nie przyjmowały spacji
+    po nazwie — eliminuje to fałszywe trafienia na kwestiach Dantego w nawiasach
+    `<I …>` (w tym po polsku `<I wtedy…>`);
+  - w `<ruby=…>…</ruby>` (np. `StoryData/S830B.json`) odczyt wewnątrz atrybutu
+    podlega tłumaczeniu — bramka sprawdza zbalansowanie i niepusty odczyt zamiast
+    wymuszać koreański tekst atrybutu;
+  - w 27 plikach `StoryData/` (690 wierszy bez pola `id`, m.in. `S202A` oraz 8
+    historii Identity `P10210`–`P11110`) oraz 2 plikach ze zduplikowanym `id`
+    (`S737B`, `P10916`) poprawiono parowanie `Story.pair()` na `list_row_steps`,
+    zachowując w `import_zwrotki.py` pełną zgodność wsteczną z
+    `plik_dla_tlumacza_v2.zip` (przebieg kontrolny na archiwum `v2`:
+    `169` plików `.md`, `157 612` pozycji, `0` błędów).
+- **Wynik (`LCB_TEST_DROGI_Polski_26652290.zip`):**
+  - `python3 tools/build_lang.py --probe` → 6 204 533 B, SHA-256
+    `b897db11f3c2e2bc57da8e81e0c488397750413d7f1e1b8adcd20ed82bbff292`
+    (identyczny bit w bit w dwóch przebiegach);
+  - zawartość: `LimbusCompany_Data/Lang/config.json` (`{"lang": "Polski",
+    "titleFont": "", "contextFont": ""}`), `2406` plików JSON w
+    `LimbusCompany_Data/Lang/Polski/` (`191 140` liści tekstowych z fallbackiem
+    EN, `100%` zgodności zbiorów adresów ze źródłem `Localize/en`), `4` pliki ze
+    znacznikiem diagnostycznym `ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ` (`10` liści:
+    `LoginUIText.json :: switch_allcacheclear`, `MainUIText.json ::
+    mainui_main_button1/2`, `StoryData/S001B.json :: id=0`, `Skills.json ::
+    id=1010101`), `INSTRUKCJA.txt` oraz `MANIFEST.json`;
+  - archiwum wgrano na Dysk właściciela (suma SHA-256 potwierdzona po stronie
+    Dysku).
+- **Ograniczenia:** to jest wynik testów syntetycznych i walidacji na kopii
+  plików gry z buildu `26652290` — rzeczywiste uruchomienie gry po polsku oraz
+  poprawność wyświetlania 18 polskich znaków w domyślnej czcionce wymagają
+  potwierdzenia przez właściciela w grze (*test w grze*, O-03).

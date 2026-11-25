@@ -47,7 +47,7 @@ from tools.static_data import StaticData
 
 LINES_PER_FILE = 8000
 TMP_TAG = re.compile(
-    r"</?(?:i|b|u|s|color|size|sprite|link|style|font|mark|align|ruby|noparse|voffset|line-height|cspace|material|sup|sub|nobr|br)(?:[= ][^<>]*)?>",
+    r"</?(?:(?:i|b|u|s|br|sup|sub|nobr|noparse)|(?:color|size|sprite|link|style|font|mark|align|ruby|voffset|line-height|cspace|material)(?:[= ][^<>]*)?)>",
     re.I,
 )
 PLACEHOLDER = re.compile(r"\{\d+\}|%[ds]")
