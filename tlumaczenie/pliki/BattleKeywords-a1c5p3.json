@@ -1,0 +1,232 @@
+{
+  "entries": {
+    "dataList[id=AaCePcBa].desc": {
+      "pl": "Staje się głównym celem ataków.\nPrzy trafieniu zyskuje dodatkowo podwójną ilość Siły Podpalenia i Licznika Podpalenia",
+      "kr_sha256": "dd48d4935101c0c674cfe67c7c60bb5ba5141a7e351fdfcd7e219293826e0ba0",
+      "en_sha256": "4ce9c0dc6bc9f91c4f7273efe4892cb1bfadaea392003489aa1cfbe2a64e5691",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBa].name": {
+      "pl": "Oznaczony",
+      "kr_sha256": "7e8f90bd8ee5bc408867138e5704da86cac544457a56105612663e35710f72f0",
+      "en_sha256": "9a2e1f2d2519b988e481b7e4f1188ff69bc4efbb9196d0ab2c9c22b215745eef",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBb].desc": {
+      "pl": "Na początku tury zyskuje 3 Oddechu i Licznik Oddechu +2",
+      "kr_sha256": "7a9d0a1e311dd057090c84bbf91265fa8c6d73cb9d2e8c26cda03eaf63e91c0d",
+      "en_sha256": "3096cd24f12d4a3b65b4970e05d6c792c927ed18ff4d133cb088467976730260",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBb].name": {
+      "pl": "Odłamek Świetlówki",
+      "kr_sha256": "e20efc63777b8742c5572e0b1acdf811093d9d05ab4f53b822137390d521425a",
+      "en_sha256": "5b3cd753e8909d9b251ab50ecd5728ccde2d863cbfe06d784bc3ba84dc011d86",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBc].desc": {
+      "pl": "Przy wartości 3 lub większej jednostka zostaje oszołomiona.",
+      "kr_sha256": "18745ebbf10b05258b0a530144329e18ae7bbe528554632bdaa46d3f7e678be8",
+      "en_sha256": "e083821a4c0ff4f8df09ff9f59d511234fafc5bab46cd6f6965f245a68f89943",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBc].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBe].desc": {
+      "pl": "Wydajność utraty Poczytalności +2",
+      "kr_sha256": "e0833352b7ad80b4b9af751d329068f5e7da89b418d6a2df92e91a54e4bfa232",
+      "en_sha256": "9b1e3ca487cc40f5ffd5471ee2fedda4756b661a519bd23fa81ca00a00dd2fd4",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBe].name": {
+      "pl": "Blada Panika",
+      "kr_sha256": "b9b27e82c875d793229d15575de7bd6b7c671c4cb42584cbe5fd87f92a8c2259",
+      "en_sha256": "1a506700eb7d8266737d0cb6af41024c09256cf8ac8045f91ca262141485404c",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBf].desc": {
+      "pl": "Na koniec tury zyskuje 2 Spętania.\nWszystkie Monety tej jednostki zawsze wypadają jako Rewers.",
+      "kr_sha256": "cfa6d1c4ae3708a682d5703b7f37f5589b67efddc9763872d7846f770066463d",
+      "en_sha256": "96e544ecf16098a8a1f85c5c58a7e95f2e035600043114a7b038afee62000d9a",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBf].name": {
+      "pl": "Blada Panika",
+      "kr_sha256": "b9b27e82c875d793229d15575de7bd6b7c671c4cb42584cbe5fd87f92a8c2259",
+      "en_sha256": "1a506700eb7d8266737d0cb6af41024c09256cf8ac8045f91ca262141485404c",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBg].desc": {
+      "pl": "Na koniec tury Larwa przenosi się na sojusznika z najwyższym HP.\nNa początku tury traci Poczytalność równą wartości Larwy.",
+      "kr_sha256": "666366461b95d68a8bbfdd5ab7bb1df24dc542416863275816037e5aa6b9d3a3",
+      "en_sha256": "57730ce733581de36b2a82b4a37bfd52373d874a59764e153f19bdf7435d437b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBg].name": {
+      "pl": "Larwa",
+      "kr_sha256": "1298aa9fcd63cccd581f44e0732fa92b6b46c03f604dcaf2a7db58d14ceb5d21",
+      "en_sha256": "6edb87024ee3700cd2f0a2045cdee4be588fd6299bce77025affb264399b04f6",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBh].desc": {
+      "pl": "Za każdym razem, gdy wartość maleje, w następnej turze tworzy Zielony Śluz.",
+      "kr_sha256": "e7af64947797024faeee5f69f3cfc6507a27925d2004d2a92d73d5f41cfcc3b4",
+      "en_sha256": "73faecc910e6a02277b6f2a7243031ba9f26eb0e4d6064a7c2cf9d308878a865",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBh].name": {
+      "pl": "Zielony Śluz",
+      "kr_sha256": "00c5339a42d34ae9b39f223f708751fb14b8a298c20ccd286a1addbeac42ae70",
+      "en_sha256": "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBi].desc": {
+      "pl": "Na koniec tury traci 5 Oddechu.\nZadaje obrażenia +50% i otrzymuje +50%.",
+      "kr_sha256": "6a59644fb419a067b87af0fadefe517ec369b2c3b543b54e7bade12cf0933094",
+      "en_sha256": "2b66d538fb8305310a5219f9d9eda18cb305f5bb59969b51c5ded908f4321c91",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBi].name": {
+      "pl": "Nierówny Oddech",
+      "kr_sha256": "435bf613444898eb0119575857c64e8aac35fc639f8b29e880f2299b644b9e28",
+      "en_sha256": "30f3d37da74a356ae8bb1140809e97107c75e0224dd366fd4b6d6185d895f897",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBj].desc": {
+      "pl": "Wszyscy członkowie załogi Pequoda celują w tę jednostkę\nOtrzymuje +50% obrażeń od członków załogi Pequoda",
+      "kr_sha256": "dac6a7ea701066618a56343d52f5026549ba23005ef3d2982da0840b1ab69ca0",
+      "en_sha256": "8b95def592472257711c0b6e3197994c429ebaaca3f9baf4d7bc2725c0cacd18",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBj].name": {
+      "pl": "Piętno Zdobyczy",
+      "kr_sha256": "97a4110722da310020c0a0e401fbfc10a0ed9dc0ad451e0b46d872ba910eb05e",
+      "en_sha256": "a832490e2a0696e0558cf937ed34b68d783a300ffb7f4bc94f836a7d7e03486c",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBk].desc": {
+      "pl": "Jeżeli nałożony na cel posiadający „Pojmanie”, cel zostaje oszołomiony. Na celach, które już są oszołomione, ten efekt nie działa.",
+      "kr_sha256": "966489bd94a3a8bf0f60916344f73e4ea988e8442bc13453e5faaafc02efb969",
+      "en_sha256": "d96d949d72e698e933cce848e105282d822467536b7a136ba08b88c79793db06",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBk].name": {
+      "pl": "Splecenie",
+      "kr_sha256": "3a9625194edc0f0009ea8905fdac62db4320cad4a7cb9f56d7a5e8d444c40677",
+      "en_sha256": "0c12daf3fc929eb99c1309cb2f73304129723958ee74337ba0bb9452aef63866",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBl].desc": {
+      "pl": "Jeżeli nałożony na cel posiadający „Splecenie”, cel zostaje oszołomiony. Na celach, które już są oszołomione, ten efekt nie działa.",
+      "kr_sha256": "4d26dfa7f8a9ebe97702e63b078c8ab408cbe203edfe8cd58b52afb75dc31f06",
+      "en_sha256": "c00a15ad5ddc4823913f0252996f758a662682c6a0a46154505a7eab50e33a6e",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBl].name": {
+      "pl": "Pojmanie",
+      "kr_sha256": "310da02bd21e76527175e12c38301184c534d8e28d2991f9cdfde02e1a1ad3b6",
+      "en_sha256": "1900b478a5860384597f32d4b22c4bfb537daf25016106d3657d44442b183f2b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBn].desc": {
+      "pl": "Przy użyciu Umiejętności traci 10% obecnego HP; Moc Końcowa +1,\nPrzy trafieniu Ahab odzyskuje 8 Poczytalności, a jednostka i Ahab otrzymują 2 Oddechu",
+      "kr_sha256": "df9fef3e22cd974b1ad3ec75bcebd123c5d2e323538f98c7dfc85bf7f859ebe0",
+      "en_sha256": "9e768404647c5e89f960c3df00a6cb7ef051bf46aa48543e2f0eda7179316ab7",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBn].name": {
+      "pl": "Rozkaz Bez Dyskusji",
+      "kr_sha256": "e135a6817b0296ecb3becfc87b98165323c0f2b4189a10ba522022fb184e258a",
+      "en_sha256": "98dd38ed60041c82ac62e23d61fd66bbfa8d54f4c5bc28bb52f78b75bd38616a",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBn].summary": {
+      "pl": "Przy użyciu Umiejętności traci HP; Moc Końcowa +1.",
+      "kr_sha256": "adf80625e033cefc59bbe8beca8168f9a723a35dead9f12671d98c924aa86e22",
+      "en_sha256": "e45a84055d42e86b3cacb56d2eff3154e1249d055b4d645622531e452464de30",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBo].desc": {
+      "pl": "Na początku tury odzyskuje 3 Poczytalności za wartość.\nMaleje przy nieudanym Uniku i użyciu „Ciężaru Poczucia Winy”.\nNa koniec tury przy 0 — Oszołomienie.",
+      "kr_sha256": "54a36bd6820cc6f9a4e02c6db9723a50f2beee19c834ac5c00e873d2fdad793e",
+      "en_sha256": "78a5b43a6c7f4cc9f38c4ce90123980b713a9e5de80cd9d876204311d554844d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBo].name": {
+      "pl": "Ego Pipa",
+      "kr_sha256": "67a9e7e261ab0f25f69c6abf9d919eecca4649425cd25f4b6c167ca114f5cd86",
+      "en_sha256": "0ee7656cb2f0e2615d78813c175de91010d240fd8d174ba0d51b8c93e0ea047e",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBo].summary": {
+      "pl": "Odzyskuje Poczytalność zależnie od wartości. Maleje przy nieudanym Uniku oraz przy użyciu pewnej Umiejętności.",
+      "kr_sha256": "87c45e2e80ddb851148b9e1fefc0bdb1fb136da185fce112309787e5ecdc9c59",
+      "en_sha256": "b64576ff9cc8bb47df251931166bc4b9e52ff9f90c620e69afe3f1f2f50a9514",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBp].desc": {
+      "pl": "Na początku tury zyskuje 1 Ochrony za każde 5 wartości.\nMaleje o liczbę Monet zniszczonych w Starciu z celem posiadającym „Piętno Zdobyczy”.\nNa koniec tury przy wartości 0 jednostka zostaje oszołomiona.",
+      "kr_sha256": "dcba7f0d8ee2332946e71d60a20db0d1c0a7f9687007568815743f7b806819cf",
+      "en_sha256": "a32d4c5f5079d6a028dc61bdaf68306ca8bcc255bd49b5b9ca0d930ffc1d0980",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBp].name": {
+      "pl": "Ego Starbucka",
+      "kr_sha256": "292edfe1dbf7eec6acc50516f17fa3f3a2660776241c84e5adaafaab8498d793",
+      "en_sha256": "cd63ca5376e20461861b3f951d290f6520722b1ace57f474748a0b1476d6640c",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBp].summary": {
+      "pl": "Zyskuje Ochronę zależnie od wartości. Maleje po przegranej w Starciu z pewnymi celami.",
+      "kr_sha256": "fb8de9a5f1b134cda34951edae2daac0d88d0333e9142f9a59810443cc8449cc",
+      "en_sha256": "119e23a7534d793d4de8e7f9225a81a08da8f96d5c2f8b7dee475162b154b7b0",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBq].desc": {
+      "pl": "Na koniec tury, gdy jest Tarcza, wartość rośnie\nNa koniec tury maleje bez Tarczy lub przy użyciu „Wybielonej Pokuty”.\nNa koniec tury przy 0 — Oszołomienie.",
+      "kr_sha256": "ef1548e56ea975f2b143792aa2d217b225ff872f68bae263731820907f625838",
+      "en_sha256": "071a478ba1f9351838dd6f4d800ffea52d1336bcb9461a420f6593f0251a9416",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBq].name": {
+      "pl": "Ego Queequeg",
+      "kr_sha256": "02e709b210b1c8d72d76e811f59ced7a48b0e5f3e291dd0186cce1358e5a18f5",
+      "en_sha256": "d0c80d3cfb6969f8fc43a1db4b9bee777dfc238927eb2235e723acdf55a98c2a",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBq].summary": {
+      "pl": "Na koniec tury wartość rośnie lub maleje zależnie od obecności Tarczy.",
+      "kr_sha256": "b1315d2e8235efcfc145b50dda063e95d83e27dec7770579df81a0fbbe5873f1",
+      "en_sha256": "f68a2306b6ee2e4657a870fa07b857a5d76d71d1c011cd99959a1b232607a71f",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBr].desc": {
+      "pl": "Przy trafieniu maleje o ilość otrzymanych obrażeń.\nNie znika na koniec tury.\nNa koniec tury przy wartości 0 jednostka zostaje oszołomiona w następnej turze.",
+      "kr_sha256": "07d31604b352accb3e89d546963be7c8a51eb438f70e260e44260edae9567998",
+      "en_sha256": "9f2dd101f2d8f300cf9c19a0660a5520f3beba43d4a1e83aae311fc16acaea0f",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBr].name": {
+      "pl": "Tarcza Obrony Wsparcia",
+      "kr_sha256": "86c28678d4e59086f582889cc5ac4ff0ab244f8923d9194bcb6b2a51fa400eeb",
+      "en_sha256": "7a0c5b4c9016cd61057161e254fc84d756f3e5173def6c85bb3441b1eaac0d39",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBs].desc": {
+      "pl": "Umiejętności atakujące Ahaba przenoszą celowanie na slot tej jednostki.\nWaga Slotu jednostki z tym efektem rośnie bez limitu.",
+      "kr_sha256": "2eb317e4d350f821d19bb336368c25c4be84e860d23c5c99592710d2ff21a882",
+      "en_sha256": "b14edcec9da342cdd310251c5582df9c9a424dc79bf6c12a5162ad1a504e081b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBs].name": {
+      "pl": "Obrona Wsparcia",
+      "kr_sha256": "2b75b44459f2b77353b3b14eb0bdc063ebd3478fdccda6188b1c74dce3a87d2d",
+      "en_sha256": "de461859082d74863600cac17287fc4f6a7233a57e38e69d688120398466d004",
+      "origin": "ai"
+    }
+  }
+}
