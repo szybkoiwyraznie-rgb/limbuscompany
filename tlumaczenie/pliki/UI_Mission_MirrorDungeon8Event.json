@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=mission_ui_condition_tags_201004011].content": {
+      "pl": "Ukończ Lustrzane Lochy, wydając {0} Kosztu na Dary E.G.O w jednej wizycie w Sklepie",
+      "kr_sha256": "5f5e345d8662115c3bc1a2c10726d1a20dd1401dabeb8d92cfe5457237e1cc59",
+      "en_sha256": "16a3c858e499d7e73e2d00e02b638356b693e10fb07adea1661c09d4845b8d37",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004012].content": {
+      "pl": "Ukończ Lustrzane Lochy, zdobywając łącznie {0} Kosztu ze sprzedaży Darów w Sklepie w jednym przebiegu",
+      "kr_sha256": "f4c434cff0b2b00d7aff91e20c7cd0414d476e23506270f1e6ec1448729f11dd",
+      "en_sha256": "02b87a542d66b2155900955fccb80787591b9ff90af1aabc01e34f8f8d4e6a22",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004013].content": {
+      "pl": "Ukończ piętro {0} lub wyższy Lustrzanych Loch, nie używając ani razu Odświeżenia ani odświeżania słów kluczowych",
+      "kr_sha256": "aaa53aa0330fe675cf2de1ef2261fe2efb97f511e4c4fda2b86398309c6905db",
+      "en_sha256": "ada68f19119a3162a1fe651d413e2b951e7dabc37b91afa912249539ac819e92",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004014].content": {
+      "pl": "Ukończ Lustrzane Lochy po łącznym {0} aktywacjach efektu Żetonu Rabatowego Darów E.G.O w jednym przebiegu",
+      "kr_sha256": "996cbac212a761d9637605ecdd9fa0a1f5329f9432ce041f3e67152d69f6784f",
+      "en_sha256": "4510fac74453dec73c6c51b1d93b9e76b97dd4ae5ccd55aee8626db7ce045480",
+      "origin": "ai"
+    }
+  }
+}

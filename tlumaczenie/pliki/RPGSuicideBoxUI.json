@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=rpg_suicidebox_coming_soon].content": {
+      "pl": "Planowana aktualizacja: {0}.{1} (KST)",
+      "kr_sha256": "4bacc95710dc6909658e90373951135272f750df59219a6b13367305a3e1a21e",
+      "en_sha256": "936902764ad02ac05265f3a31fc1010dc9ffb3cbb721fbaf8db5fd8a666caaf5",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_enter_notice_condition_b].content": {
+      "pl": "- Tożsamość: Synchronizacja 4. stopnia",
+      "kr_sha256": "a518a319fcbe6d643136a133558bc2c431b3ad35dd53feff2de1d1bb36e957ea",
+      "en_sha256": "8dbe26ed9c149c27a3a85dd649c5ab11c68974f4fe4f73e77fb48fe99759c232",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_enter_notice_condition_c].content": {
+      "pl": "- Tożsamość: Synchronizacja 4. stopnia",
+      "kr_sha256": "a518a319fcbe6d643136a133558bc2c431b3ad35dd53feff2de1d1bb36e957ea",
+      "en_sha256": "8dbe26ed9c149c27a3a85dd649c5ab11c68974f4fe4f73e77fb48fe99759c232",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_enter_notice_question_b].content": {
+      "pl": "Skorzystać z Samobójczego Automatu?",
+      "kr_sha256": "5b6d6f61a51fea7d3b3b7fbd0937cf8a2c1392af281a495b470b259217010290",
+      "en_sha256": "17819c1bbbda650d4425027be77d7b02aac1b6811febeba3ea95fa51b79ee291",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_enter_notice_question_c].content": {
+      "pl": "Skorzystać z Samobójczego Automatu?",
+      "kr_sha256": "5b6d6f61a51fea7d3b3b7fbd0937cf8a2c1392af281a495b470b259217010290",
+      "en_sha256": "17819c1bbbda650d4425027be77d7b02aac1b6811febeba3ea95fa51b79ee291",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_hardreset_button_text].content": {
+      "pl": "Zamknięcie firmy\n(Twardy reset)",
+      "kr_sha256": "54619ba7b5b278b4e27d0273d458e5dfc9ce070ffabf480736cd84a0f84a134c",
+      "en_sha256": "d7efbaade8ad34185f81ebc5487c5778743a9fd2d85a6e756239db5d16bd9736",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_hardreset_confirm_desc].content": {
+      "pl": "Zamknąć wszystkie Sklepy?\n\nPo wyborze zapisy wszystkich przebiegów zostaną zresetowane i nie da się ich odzyskać.",
+      "kr_sha256": "a0089522a93dda6817cc84713b1c2b4fbdcdcfb08c20b3f029e2185bf5ef2c4d",
+      "en_sha256": "13dc3557725fcb6952bc5ab5196ad37c3a1a1d5e5f6a794b0115176587f2695f",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_intro_ab_1].content": {
+      "pl": "Jedyny w życiu moment, jeszcze wyraźniej.\nDziś również dziękujemy za skorzystanie\nz naszego Samobójczego Automatu.",
+      "kr_sha256": "2810a181e8feb4d713de6056f6b65e65dd52f0a930e361fce09ae3317eee1400",
+      "en_sha256": "a7164803dfc36a5d48d60fdc6448d9baea7e81d6bb35ce956fccd468baaa6155",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_intro_ab_2].content": {
+      "pl": "Ten model to urządzenie do wspólnych przeżyć,\nprzeznaczone dla większej liczby osób: rodziny, przyjaciół, par.",
+      "kr_sha256": "82e574d64d8b3b94a0772a2739ac2167d21455041405c11b43872d5b27adb954",
+      "en_sha256": "4a58ae844e292d032b9e5c28568c2bd58e382f707a9ebe5b9a83adf7f82f60b1",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_intro_ab_3].content": {
+      "pl": "Niektórych samobójczych doświadczeń — jak szkwał na wielkim jeziorze, katastrofa pociągu, przedawkowanie, porażenie piorunem, hipotermia — nie można wybrać.\nDla tych, którzy pragną bogatszych wrażeń",
+      "kr_sha256": "ca756233d992253f03117cb506f9ef38fbcc664b367c2af7ae8088bc32749bab",
+      "en_sha256": "9d5c49d51babce04e1c9bd98f71e8732e94ce917bd2bcc4c293068f79f7530c0",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_intro_ab_4].content": {
+      "pl": "Dreszczyk grozy i emocji bez żadnego obciążenia.\nWciśnij jeden z poniższych przycisków i zaznaj specjalną śmierć.",
+      "kr_sha256": "cd9ee1222164a925f6dd83567f420431e3de6c9f22f9ba688d58e143668e59b2",
+      "en_sha256": "8167a377dd307354767ff0a0d6f3ed50681e920220b9a21ea772633ecafd3abc",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_main_screen_desc_default].content": {
+      "pl": "Pożegnać się z własnym życiem\nto nie coś innego niż wyznanie,\nże życia nie dało się pojąć.\nCzym więc oddasz je, kończąc je?",
+      "kr_sha256": "c79204c6ae6a486ddc49fc0f607971f04450f2c00a0b8743416273b88e7ec10c",
+      "en_sha256": "cb7fc28c1d1170938321a5482cc774dc7c958683d078041dbd694bf8dcd29ce5",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_pressed_dialog_ab].content": {
+      "pl": "Kobiety w ciąży, osoby starsze, osoby pod wpływem środków oraz chorzy na schorzenia sercowo-naczyniowe: korzystajcie ostrożnie.\nW razie wypadku wynikłego z nadużywania, cała odpowiedzialność spada na użytkownika",
+      "kr_sha256": "5b9840d5c7f92b14e3ec0ac5330f4f61e202df4714c3af8135ba61e0ae421c32",
+      "en_sha256": "44794b9c5ed7812936e4bacf86887c566453d632dc13a0124a267aaf07341184",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_pressed_dialog_c].content": {
+      "pl": "Wielość rzeczy więzi go. By nie mógł się ruszać, by nie czuł bólu.",
+      "kr_sha256": "172af0a6927fcd4be201468f45c6705cecf4e0e080f5e3ad43c2f92ca25029c8",
+      "en_sha256": "83a8f2862d8118f161cb0b1055b607d97020fe36a690e861812bcce140c4d525",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_reset_button_text].content": {
+      "pl": "Liquidacja zapasów\n(Reset)",
+      "kr_sha256": "256745f42e63c0f1464c5fd5ec8f829225ef9748a9ea807623235a5641776360",
+      "en_sha256": "a43abc226675deaa4b52d5a5a79cf1258a17ae46cf4625586b3134d602b5049b",
+      "origin": "ai"
+    },
+    "dataList[id=rpg_suicidebox_reset_confirm_desc].content": {
+      "pl": "Przeprowadzić liquidację zapasów?\n\nPo wyborze zapis bieżącego przebiegu zostanie zresetowany i nie da się go odzyskać.\n※ Przedmioty, których nie udało się zdobyć w trakcie,",
+      "kr_sha256": "757616729c607de5f9a71fcf19f5134c0d2812db1e92a0da3d22aca4d599869b",
+      "en_sha256": "c3cada532387498e060140eb34d0d75632e498892d9546127cefd2d43f666ab8",
+      "origin": "ai"
+    }
+  }
+}

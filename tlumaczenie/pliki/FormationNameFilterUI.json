@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=change_formation_name_title].content": {
+      "pl": "Edytuj nazwę składu",
+      "kr_sha256": "1d9fe196ff274ddcf5faf61c53307e36076352bb2db47b86ed8ece6ad7f4516d",
+      "en_sha256": "5ced8c35e530a2b22430bc67f64559c2750b3e9c8acc99f6ecc06e0f48cd0911",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_event].content": {
+      "pl": "Wydarzenie",
+      "kr_sha256": "46b289bb0a9e2a002985007cea757de883ff09dd885b2d91f5f1f2452f7208cb",
+      "en_sha256": "4e1f49a9c8ae8a158434e647c0c410352d718984a4fcd144d26cca3c394caa02",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_exp_mining].content": {
+      "pl": "Kopalnia PD",
+      "kr_sha256": "0e0bd4555b7c86c664838710f91710d1b803ba572911f7553e780379ade96bf2",
+      "en_sha256": "cd00b9f0c0ec64eaca8b904e828fa04096e79a5124a189c7a12911b3224568ec",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_mirrordungeon].content": {
+      "pl": "Lustrzane Lochy",
+      "kr_sha256": "2317f4133280cdc740348b484a5e263c6c1757d20935498dd9fa7d6a05f418b5",
+      "en_sha256": "ebc92da1e44bbb8daac1a063cb5ef965d4adbe1c23c5b249ce1e0e6851ab2577",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_practice].content": {
+      "pl": "Testowanie",
+      "kr_sha256": "3906aa577b0627036d72a953b43d996ad397cc2b6159bbd886c9af5fa21fd83f",
+      "en_sha256": "e806a291cfc3e61f83b98d344ee57e3e8933cccece4fb45e1481f1f560e70eb1",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_raid].content": {
+      "pl": "Walka Projekcyjna",
+      "kr_sha256": "b434bcdbec69b70038646e62c70bf4394fdf0399d97e87d9fa81c9c4c4584a2d",
+      "en_sha256": "7e8e89da7dd575c88060fd38e5166c3dbc2d556e25f07c35e2fb9caba30f2447",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_railwaydungeon].content": {
+      "pl": "Kolej Załamania",
+      "kr_sha256": "7d4c2cf4fdf075a881dea9e887bbdf49b2d60b48fb8af5161116666de78acf57",
+      "en_sha256": "3e12c46fd5da496aecf67f22d3c525b984ebb6362cb0e108dc24193cc0e4bfba",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_story].content": {
+      "pl": "Fabuła",
+      "kr_sha256": "69ec5575f841092b16852c7194633fee1b423dea01790887b6605211e5d7a409",
+      "en_sha256": "e9e509dcd358f8eb150d15470ce48970d0b05c4cf9207c6d90ef063152d718fc",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_thread_mining].content": {
+      "pl": "Kopalnia Nici",
+      "kr_sha256": "37ab84558f4a35c5487accaeb18d363ffa0eb329f51ea0636345980d7e9c1f63",
+      "en_sha256": "bfdb1263dfb9a0fafa0c570cd31694d183dbcb0f9b1d33f206b30ea794b5290e",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_title].content": {
+      "pl": "Treści",
+      "kr_sha256": "62911dc4c82b39df2cb5b85d0951b062c1e783d54bf65d5b565c4f0249072cf1",
+      "en_sha256": "437aea62a5bd6ad4762e494c81b88532809a231477c82bdecf6fd6636908b7ab",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_contents_walpurgisnacht].content": {
+      "pl": "Noc Walpurgii",
+      "kr_sha256": "721a47b63d4017b9cd794700b23c6cf21994f338aee707849d63559b96d918ee",
+      "en_sha256": "5d3c5bb300dbe05b7fcc5bb19f3f569f3f27f6ee956ba4a3eaf5212729e07a42",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_total_tag_count_limitation].content": {
+      "pl": "※ Można wybrać maksymalnie 10 tagów.",
+      "kr_sha256": "c7228fa287d476337aaee739cca068395903179a74ced25966acb5083523713d",
+      "en_sha256": "180e1d98e0c4c938c4bdfafdb1086b976b679f1efbb70c867886b28eb87889e9",
+      "origin": "ai"
+    }
+  }
+}

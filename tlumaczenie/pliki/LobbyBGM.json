@@ -1685,6 +1685,198 @@
       "kr_sha256": "3f495e31ce91891bf7a55fc0bc1f1e2ae4205d98022ca1718ff15374066c5a49",
       "en_sha256": "3f495e31ce91891bf7a55fc0bc1f1e2ae4205d98022ca1718ff15374066c5a49",
       "origin": "ai"
+    },
+    "dataList[id=200278].name": {
+      "pl": "Canto IX Battle 07",
+      "kr_sha256": "d33f704ebd07155a93e1bddb85025de5846dffa095cfbde097a7e74f38b197f0",
+      "en_sha256": "d33f704ebd07155a93e1bddb85025de5846dffa095cfbde097a7e74f38b197f0",
+      "origin": "ai"
+    },
+    "dataList[id=200279].name": {
+      "pl": "Canto IX Battle 08",
+      "kr_sha256": "09a6e92b72e07bab67600f9d113ef0d779d9bb020fc6efad8b1b48103573c03b",
+      "en_sha256": "09a6e92b72e07bab67600f9d113ef0d779d9bb020fc6efad8b1b48103573c03b",
+      "origin": "ai"
+    },
+    "dataList[id=200280].name": {
+      "pl": "Canto IX Battle 09",
+      "kr_sha256": "d47e2aacb2e5644c744ddf41f42ad86ffbee8d0f820d039886062468e94d3f4f",
+      "en_sha256": "d47e2aacb2e5644c744ddf41f42ad86ffbee8d0f820d039886062468e94d3f4f",
+      "origin": "ai"
+    },
+    "dataList[id=200281].name": {
+      "pl": "Canto IX Battle 10",
+      "kr_sha256": "cece99bd713acaff5db3061bd6f6d1128aa669813ca90cc7f4b64ce0e14e9da7",
+      "en_sha256": "cece99bd713acaff5db3061bd6f6d1128aa669813ca90cc7f4b64ce0e14e9da7",
+      "origin": "ai"
+    },
+    "dataList[id=200282].name": {
+      "pl": "Canto IX Battle 11",
+      "kr_sha256": "36dc97df37c9ced15ed818ce7f5ae3c64b7f401c71f55df7bbe6df7e17f08a11",
+      "en_sha256": "36dc97df37c9ced15ed818ce7f5ae3c64b7f401c71f55df7bbe6df7e17f08a11",
+      "origin": "ai"
+    },
+    "dataList[id=200283].name": {
+      "pl": "Canto IX Battle 12",
+      "kr_sha256": "7fb54bc9695f193606c7e5218818888d4744cb3b3fdfd52f39c58fcf4810c24f",
+      "en_sha256": "7fb54bc9695f193606c7e5218818888d4744cb3b3fdfd52f39c58fcf4810c24f",
+      "origin": "ai"
+    },
+    "dataList[id=200284].name": {
+      "pl": "Canto IX Battle 13",
+      "kr_sha256": "0cba0eccfdaa257b5552c0dc05c303a8c20303840bcaaa7245afcfc89f3add6d",
+      "en_sha256": "0cba0eccfdaa257b5552c0dc05c303a8c20303840bcaaa7245afcfc89f3add6d",
+      "origin": "ai"
+    },
+    "dataList[id=200285].name": {
+      "pl": "Shattered Dream",
+      "kr_sha256": "2597f5445baea0bd968a9772ae0c4a65f58c20a90f7be8343442e15ef8755102",
+      "en_sha256": "2597f5445baea0bd968a9772ae0c4a65f58c20a90f7be8343442e15ef8755102",
+      "origin": "ai"
+    },
+    "dataList[id=200286].name": {
+      "pl": "Recall",
+      "kr_sha256": "71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207",
+      "en_sha256": "71e2046e4c01f20a72081a8dc83202405da38fa75c2e4549fbb51c9daddbe207",
+      "origin": "ai"
+    },
+    "dataList[id=200287].name": {
+      "pl": "Middle Finger Taijou",
+      "kr_sha256": "80504d5e32029776f70f85911b87bbbb87f5527271c777879e0e0dc9f82903e8",
+      "en_sha256": "80504d5e32029776f70f85911b87bbbb87f5527271c777879e0e0dc9f82903e8",
+      "origin": "ai"
+    },
+    "dataList[id=200288].name": {
+      "pl": "Fallen Rings",
+      "kr_sha256": "4a0ef1401fddfe296ffb4f4147332d679e7a8d8f7fd6fda184f833b9344814d9",
+      "en_sha256": "4a0ef1401fddfe296ffb4f4147332d679e7a8d8f7fd6fda184f833b9344814d9",
+      "origin": "ai"
+    },
+    "dataList[id=200289].name": {
+      "pl": "Sainokawara",
+      "kr_sha256": "6d8daf409520351fa0c9c87680276339a7a6f26fa86ff1c4519bd3ee09303fe9",
+      "en_sha256": "6d8daf409520351fa0c9c87680276339a7a6f26fa86ff1c4519bd3ee09303fe9",
+      "origin": "ai"
+    },
+    "dataList[id=200290].name": {
+      "pl": "Savagery",
+      "kr_sha256": "ca5e66c09641c1c56f44301821e920d44e7baacfe08cb44264d3492b123f314a",
+      "en_sha256": "ca5e66c09641c1c56f44301821e920d44e7baacfe08cb44264d3492b123f314a",
+      "origin": "ai"
+    },
+    "dataList[id=200291].name": {
+      "pl": "Ordinary Walkway",
+      "kr_sha256": "ad62c44eab013eac9c029126cd590651aa6abf1dad2ce7862e1f1db6535bc622",
+      "en_sha256": "ad62c44eab013eac9c029126cd590651aa6abf1dad2ce7862e1f1db6535bc622",
+      "origin": "ai"
+    },
+    "dataList[id=200292].name": {
+      "pl": "Mist on Waves",
+      "kr_sha256": "8979ce87fc4afc48048b457e3f452fd3c66407faf0d2e4a14b905f7f7ab2a6e4",
+      "en_sha256": "8979ce87fc4afc48048b457e3f452fd3c66407faf0d2e4a14b905f7f7ab2a6e4",
+      "origin": "ai"
+    },
+    "dataList[id=200293].name": {
+      "pl": "River and Lake",
+      "kr_sha256": "25b393e41ef366190627ed2974cda611e01e37653375f17eb5b40aa460c43d0e",
+      "en_sha256": "25b393e41ef366190627ed2974cda611e01e37653375f17eb5b40aa460c43d0e",
+      "origin": "ai"
+    },
+    "dataList[id=200294].name": {
+      "pl": "Vengeance",
+      "kr_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
+      "en_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
+      "origin": "ai"
+    },
+    "dataList[id=200295].name": {
+      "pl": "Mise-en-scène",
+      "kr_sha256": "44a99ad99a9d1e560710b8e7657eca6c99548bb1accf593db77b98de3627d7e9",
+      "en_sha256": "44a99ad99a9d1e560710b8e7657eca6c99548bb1accf593db77b98de3627d7e9",
+      "origin": "ai"
+    },
+    "dataList[id=200296].name": {
+      "pl": "Twining Threads Battle 01",
+      "kr_sha256": "86f6aa8dae174981ddbc09534f57677d8f2fa2d8be863a8511aaede7e5d2478b",
+      "en_sha256": "86f6aa8dae174981ddbc09534f57677d8f2fa2d8be863a8511aaede7e5d2478b",
+      "origin": "ai"
+    },
+    "dataList[id=200297].name": {
+      "pl": "Twining Threads Battle 02",
+      "kr_sha256": "a7bab122369738cedbde6dea26ae382bfad206cd784445bcc949f3bd062d358b",
+      "en_sha256": "a7bab122369738cedbde6dea26ae382bfad206cd784445bcc949f3bd062d358b",
+      "origin": "ai"
+    },
+    "dataList[id=200298].name": {
+      "pl": "Mnestic Experience Battle 01",
+      "kr_sha256": "73facb6a05914cb8f311a4f8e8caa60c59b2968badf84beb568b78b34ae7eb3d",
+      "en_sha256": "73facb6a05914cb8f311a4f8e8caa60c59b2968badf84beb568b78b34ae7eb3d",
+      "origin": "ai"
+    },
+    "dataList[id=200299].name": {
+      "pl": "Mnestic Experience Battle 02",
+      "kr_sha256": "f410f8ed5d4598fccf5453fec8963c1a556eeefad2015a011fe684e0b2fbb16e",
+      "en_sha256": "f410f8ed5d4598fccf5453fec8963c1a556eeefad2015a011fe684e0b2fbb16e",
+      "origin": "ai"
+    },
+    "dataList[id=200300].name": {
+      "pl": "Mnestic Experience Battle 03",
+      "kr_sha256": "e0d3d2ccfe9c91f04c0ee2420ff2a026a14755e50e97671af9192e8845877f27",
+      "en_sha256": "e0d3d2ccfe9c91f04c0ee2420ff2a026a14755e50e97671af9192e8845877f27",
+      "origin": "ai"
+    },
+    "dataList[id=200301].name": {
+      "pl": "Tandem sentitis",
+      "kr_sha256": "6fa54511b45462a0333f8fff78043d87c0a2faf55847dda093e4900e954ef5b2",
+      "en_sha256": "6fa54511b45462a0333f8fff78043d87c0a2faf55847dda093e4900e954ef5b2",
+      "origin": "ai"
+    },
+    "dataList[id=200302].name": {
+      "pl": "Tandem lugetis",
+      "kr_sha256": "9c69d95d5e93fcb564a6091677075b2b068b21f410383c77f4e27e90eacd9022",
+      "en_sha256": "9c69d95d5e93fcb564a6091677075b2b068b21f410383c77f4e27e90eacd9022",
+      "origin": "ai"
+    },
+    "dataList[id=300011].name": {
+      "pl": "Church of Gears Alpha",
+      "kr_sha256": "824682b18545136bae541282b2ae851ebdd3eef600d46d464b2fc6916fd1683a",
+      "en_sha256": "824682b18545136bae541282b2ae851ebdd3eef600d46d464b2fc6916fd1683a",
+      "origin": "ai"
+    },
+    "dataList[id=300012].name": {
+      "pl": "Church of Gears Beta",
+      "kr_sha256": "1237d53d5fd505fda79e40a4237d7e59d9eb28d069d7c1bc8f8f5bb0aeacf303",
+      "en_sha256": "1237d53d5fd505fda79e40a4237d7e59d9eb28d069d7c1bc8f8f5bb0aeacf303",
+      "origin": "ai"
+    },
+    "dataList[id=400001].name": {
+      "pl": "Friends with the Rain",
+      "kr_sha256": "f9df62a75db45e096b5dbe73e556074c8e491c8d1f39d6864794a69448205203",
+      "en_sha256": "f9df62a75db45e096b5dbe73e556074c8e491c8d1f39d6864794a69448205203",
+      "origin": "ai"
+    },
+    "dataList[id=400002].name": {
+      "pl": "Radiant Bubbles",
+      "kr_sha256": "35818ff572919eee6f657295391a12f9cea2ac9bba7a4cdefa42509d348edf2d",
+      "en_sha256": "35818ff572919eee6f657295391a12f9cea2ac9bba7a4cdefa42509d348edf2d",
+      "origin": "ai"
+    },
+    "dataList[id=400003].name": {
+      "pl": "Meet Cute",
+      "kr_sha256": "fd31e42b3bcc7608c3d3fd62fe32e19ca06e2de48458366c2ad99dd09c4567e6",
+      "en_sha256": "fd31e42b3bcc7608c3d3fd62fe32e19ca06e2de48458366c2ad99dd09c4567e6",
+      "origin": "ai"
+    },
+    "dataList[id=400004].name": {
+      "pl": "WAW!",
+      "kr_sha256": "b7f358bc9b2a7789bfd402e2f4f339e2b953b2c4d62058b64983b4ac46f3f5ea",
+      "en_sha256": "b7f358bc9b2a7789bfd402e2f4f339e2b953b2c4d62058b64983b4ac46f3f5ea",
+      "origin": "ai"
+    },
+    "dataList[id=400005].name": {
+      "pl": "Run Bongy, Run",
+      "kr_sha256": "2ecfb6b04be97aaf8c8cfe9de6af3f52083cce598ff314d97ac03edb77f75bb3",
+      "en_sha256": "2ecfb6b04be97aaf8c8cfe9de6af3f52083cce598ff314d97ac03edb77f75bb3",
+      "origin": "ai"
     }
   }
 }

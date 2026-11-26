@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=dui_mode_name_1].content": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=dui_mode_name_2].content": {
+      "pl": "Ciemny",
+      "kr_sha256": "f1c3b57377016c9c29076b3c776831f89ebac35f4a37a7785427763ae9eea5b6",
+      "en_sha256": "60acc53f13a5d1bf115878c4a785e9a43e8286c4139a8402a6ac7d23966f9153",
+      "origin": "ai"
+    },
+    "dataList[id=dui_skin_name_0].content": {
+      "pl": "Domyślny",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=dui_skin_name_1].content": {
+      "pl": "Ciemny",
+      "kr_sha256": "f1c3b57377016c9c29076b3c776831f89ebac35f4a37a7785427763ae9eea5b6",
+      "en_sha256": "60acc53f13a5d1bf115878c4a785e9a43e8286c4139a8402a6ac7d23966f9153",
+      "origin": "ai"
+    },
+    "dataList[id=localize_dui_select_popup_change_button].content": {
+      "pl": "Zmień",
+      "kr_sha256": "16f64fe47b163b818b136db270665271f82a2ffb37c856d29917fe30dade7291",
+      "en_sha256": "c0bf75bd78bf9572596720d596bd5a20a5b9145cde0fe50dec1e783cb184d69b",
+      "origin": "ai"
+    },
+    "dataList[id=localize_dui_select_popup_selecting].content": {
+      "pl": "Wybrany",
+      "kr_sha256": "9e658eb716d43ad969d272c76929c343a1444664441599f029705ed89371c798",
+      "en_sha256": "57fd7a0cf33f2666eede69e44f8857159653f2f28e4fd7482a5e16d4af628d2a",
+      "origin": "ai"
+    },
+    "dataList[id=localize_dui_select_popup_using].content": {
+      "pl": "W użyciu",
+      "kr_sha256": "053c773abb66ad2c08423df622a2818a474686b16616aef5557ee5f7ba24f376",
+      "en_sha256": "ba0eb24926ce4a1d4384fbefe8f345f3d8492e1488c5c28fc097a60835af9c7f",
+      "origin": "ai"
+    }
+  }
+}

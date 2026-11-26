@@ -1,0 +1,208 @@
+{
+  "entries": {
+    "dataList[id=btn_exchange_popup_cancel_btn_text_exchange_controller].content": {
+      "pl": "Wybierz walutę",
+      "kr_sha256": "b5af407124a6b3c07f3729d4de8dcab638163123f2651b82a5c1efb4a5be893f",
+      "en_sha256": "6e1bcaffc78d4a5e9d870f0ec055aa830498e58e7959c9a4c80903ffc7356685",
+      "origin": "ai"
+    },
+    "dataList[id=btn_exchange_popup_cancel_btn_text_select_character].content": {
+      "pl": "Anuluj",
+      "kr_sha256": "be876433993ab7ba221512b5703b32060626f390aa50d7ed464a847a34539a6c",
+      "en_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_can_not_equip_skin].content": {
+      "pl": "Projektowanie niemożliwe",
+      "kr_sha256": "e601f704eb9aebe6e9d19648097bcc352fef5763ce3ad38d56353bb1514a0575",
+      "en_sha256": "5200ccd568e68f7d5b0e1b73a6d26ac09dc9b174fea4f34ca86cb83ffe2eacc7",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_craft_skin].content": {
+      "pl": "Utkaj Fasadowe",
+      "kr_sha256": "5a3bbcd767c8419cc3e44b9c8a2fd55f402b5e25baf60ed8e1b3dd463a0b3db1",
+      "en_sha256": "c0249d1bbb514db03acc1d115ad159a8a2cb92b49bba1095423f9b4cf4af3b5d",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_deck_unequip_skin].content": {
+      "pl": "Zdejmij Fasadowe\nze wszystkich Tożsamości w tym składzie",
+      "kr_sha256": "1b8c97d3dfc27b0006de98b80ca9e5363bd7f291bd1df2d08cb0ff453ab121d1",
+      "en_sha256": "32bf81ff43a5337dde7b42318e8d3ad05cc04ec77d0f2870fa76c616d8786a4c",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_equip_skin].content": {
+      "pl": "Projektuj Fasadowe",
+      "kr_sha256": "b6465a332205d3a5ca345d51c2a74c4c87c807b20a4bf60df8a32777f15f3071",
+      "en_sha256": "444b1db55666ae3b28643a45e759014e9de3a1b7e64d2ada7b03606d85315ddf",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_expected_skin].content": {
+      "pl": "Projektowanie niemożliwe",
+      "kr_sha256": "e601f704eb9aebe6e9d19648097bcc352fef5763ce3ad38d56353bb1514a0575",
+      "en_sha256": "5200ccd568e68f7d5b0e1b73a6d26ac09dc9b174fea4f34ca86cb83ffe2eacc7",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_open_UnitInformationPanel].content": {
+      "pl": "Przejdź do menu Synchronizacji",
+      "kr_sha256": "d2599048feff1144834bf7c6eb58276b651c6d78cf0dfd9eef38f28a6ea146cb",
+      "en_sha256": "bba31c3da1d6c7b90bf9c4980829f80e24682d98e4121181ded460bf94dd24e3",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_skin_acquisition].content": {
+      "pl": "Źródło Fasadowego",
+      "kr_sha256": "c4b67c0a401e38a1cb50d80a2a89b4545b51c91450ac0b644ec2255e8bc32f41",
+      "en_sha256": "025e9ffe3b2e277c8b3e3380dcab60da750d0a282765f760f5ac47e0586cb088",
+      "origin": "ai"
+    },
+    "dataList[id=btn_title_unequip_skin].content": {
+      "pl": "Usuń Fasadowe",
+      "kr_sha256": "f5bebadc4494c2683e7b9cccc3706761a4ac104ec1209c4099e642781eb748f2",
+      "en_sha256": "f0df57ce8d38d974adf9b118e60fd2d0648ac05a655ac5f517863d562da6fb42",
+      "origin": "ai"
+    },
+    "dataList[id=button_title_source_item_reset].content": {
+      "pl": "Cofnij wybraną walutę",
+      "kr_sha256": "0c9413ec65dd6b23ad3afe949639d93ee0b9e727bf87e81f5c278bee2b603ca6",
+      "en_sha256": "2fa590da0dd0b2bae8eab8466100f1b37c722f5cb8a9199894fd05c4d8f69b07",
+      "origin": "ai"
+    },
+    "dataList[id=craft_purchase_confirm_popup_title].content": {
+      "pl": "Potwierdź utkanie",
+      "kr_sha256": "1f10192d6d4328356564c7496090220dcf5b99e8292d71c122828c03e0caa1ea",
+      "en_sha256": "4bc55bd5847f3412ba90fbf767fff078a94675b51a8b986a3c7aa979340e64ae",
+      "origin": "ai"
+    },
+    "dataList[id=desc_skin_acquisition_Gacksung].content": {
+      "pl": "Po zdobyciu tej Tożsamości i osiągnięciu Synchronizacji 4. stopnia — do zdobycia przez Utkanie Fasadowego",
+      "kr_sha256": "3cd4ad2887221d351b0627a7e97a983ce3a6b2e97c24cbf15736142f7103dcd9",
+      "en_sha256": "ac5508f5eb7c3970028ed6fb78d8d41a480c323115c4a580d0090ee5708943a0",
+      "origin": "ai"
+    },
+    "dataList[id=desc_skin_acquisition_Reward_40501].content": {
+      "pl": "Walka Projekcyjna — ograniczona nagroda za Doświadczenie Mnemiczne",
+      "kr_sha256": "b676d24371389ecc344d366af9c1611729dd4ae5c0b214f216c3677efb2f7ca6",
+      "en_sha256": "0bce161bc2ebc7934fc8dcb499a48444c840ac2e27d8dd9210c7a4b20868e6df",
+      "origin": "ai"
+    },
+    "dataList[id=exchange_confirm_popup_exchange_skin_currency].content": {
+      "pl": "UNUSED TEXT {0} {1}",
+      "kr_sha256": "78a8d9c5385e8145e0e9c1a7003efd50cf4a54d69cbfccddf365a2f32547b7d1",
+      "en_sha256": "185fbe048a96ddcabe44ebb6ba0ac96206608c2e87b0909619e058c881a8dbae",
+      "origin": "ai"
+    },
+    "dataList[id=exchange_confirm_popup_title].content": {
+      "pl": "Potwierdź wymianę",
+      "kr_sha256": "c15e83560be8c9d65231d1230103efeefbf479679a87b6c76bc3368a5b5e46cc",
+      "en_sha256": "c04c91e60174bf86c7bfb53ca193b5c60cc46c3eb76f310dde6250a8b937514a",
+      "origin": "ai"
+    },
+    "dataList[id=exchange_result_popup_desc].content": {
+      "pl": "Utkano {1} × {0}.",
+      "kr_sha256": "cbca4cccd8919dec36bc492679c4e1a26904d99ff361ae4ebd8b80b7cdea077e",
+      "en_sha256": "e6188d0f2c67509a43a0779709c28b5f6ff7978227e1530149ff248fe3ba7d6b",
+      "origin": "ai"
+    },
+    "dataList[id=exchange_result_popup_title].content": {
+      "pl": "Wymiana zakończona",
+      "kr_sha256": "c1a97f71398f14fe7dabc34297dc1f133bc0b109c4649bc8f55391256032055d",
+      "en_sha256": "7bd2c30140b363ed69bbdbe41e5a6e8237555e666f3f1206fa25f79222536bb7",
+      "origin": "ai"
+    },
+    "dataList[id=label_can_craft].content": {
+      "pl": "Można utkać",
+      "kr_sha256": "5aca663e53b6caacb6bd0105982883537f61128c147f2a0d11af8f4ae20d1181",
+      "en_sha256": "95ac8d2a3f51ca998c750cb8557e9c10ff1cb5ceb68e20e1ae8d82387b0ab3d4",
+      "origin": "ai"
+    },
+    "dataList[id=label_cannot_craft].content": {
+      "pl": "Nie można utkać",
+      "kr_sha256": "18f8a5ca2a9e5d3abfb33daed0e15a45e43930736c0dde84f32b68455689958d",
+      "en_sha256": "b1677badc7f91b221dbdd7b353d3b40495f1d38055adc702d650647a3ed572d4",
+      "origin": "ai"
+    },
+    "dataList[id=label_equip_skin_list].content": {
+      "pl": "Projektowane",
+      "kr_sha256": "0619d3235c59fd2325da029938ae6cdaac1b63b50620529e73d052c3fd058f93",
+      "en_sha256": "e394afaf05044f8f646998c00336aa796d6c3a4d203d1622868d459d56d7721f",
+      "origin": "ai"
+    },
+    "dataList[id=label_equip_skin_main].content": {
+      "pl": "<Aktualnie projektowane>",
+      "kr_sha256": "e0b1230527aaf4142276dfd62e47e3b782821093e4c126aef22b882dacc9dd98",
+      "en_sha256": "06bad4c46e10205cd93c1fd6cbbd6d3972d908ee8199e16aa62ed200e33addfd",
+      "origin": "ai"
+    },
+    "dataList[id=label_have_skin_craft_item_count].content": {
+      "pl": "Posiadana liczba",
+      "kr_sha256": "3a7e12ba935ba6d601e37a88799e95141991a6e37a58a6ddd83438418b1f6a94",
+      "en_sha256": "6a7decfc4317a4ebe64fe172086fe9b21972dd715afe90c2a84efeca14b7acc6",
+      "origin": "ai"
+    },
+    "dataList[id=label_invalid_personality].content": {
+      "pl": "Nieposiadane",
+      "kr_sha256": "129499b2ae6bc278ec11f249f426ed3596fa981f204e6446064a1cfd04fbbd77",
+      "en_sha256": "e5c03daa88458c4bca5210f2efe3dc7390a88a85349eaa93cc2429c2f2d726c3",
+      "origin": "ai"
+    },
+    "dataList[id=label_skin_equip_warning].content": {
+      "pl": "Projektując Fasadowe na Tożsamości, można napotkać niepełną zgodność wizualną.",
+      "kr_sha256": "31ad347fe82a407830ce24d934414cfc65704fb6a3c11b0169110a8914f3d744",
+      "en_sha256": "f69f8b213c8fc882d3ba33d6a21ffb3e5f9b51911445f04d40ddc79c3f5edcfc",
+      "origin": "ai"
+    },
+    "dataList[id=modal_desc_craft_skin_caution].content": {
+      "pl": "Niektóre Tożsamości mogą nie obsługiwać Fasadowych albo ich projekcja może wyglądać niepoprawnie.\n\nUtknąć Fasadowe dla tej Tożsamości?",
+      "kr_sha256": "34baafb8699b99421f4e2c5e39260a8dab46a15bd679cfd96b13ff2d19e7c577",
+      "en_sha256": "8f653de31e7e7d64e8424ab4798ea17fb8bd551774c33d063a2d79240516f67a",
+      "origin": "ai"
+    },
+    "dataList[id=popup_desc_craft_skin_confirm].content": {
+      "pl": "Utknąć to Fasadowe?",
+      "kr_sha256": "38deaad8a60ff14f0d76b3974a4091f9ce8a5f5b3d492253d1bf15ef93c13b25",
+      "en_sha256": "16982e741135b4cf306d371a8a99afdbff79b251ddc7486fdaedddbdf38b29d9",
+      "origin": "ai"
+    },
+    "dataList[id=popup_desc_exchange_craft_skin_item].content": {
+      "pl": "Wymienić na {0}?",
+      "kr_sha256": "25966f76e3aca7fe82404ab7dd04f13e9b21cdb303346cff45b0287033b7830e",
+      "en_sha256": "2e4aeff65abb98cc5e35ad3963dddca1abdee83d90ec663efaf3c4177e35774c",
+      "origin": "ai"
+    },
+    "dataList[id=popup_desc_exchange_craft_skin_item_count].content": {
+      "pl": "Posiadana liczba",
+      "kr_sha256": "3a7e12ba935ba6d601e37a88799e95141991a6e37a58a6ddd83438418b1f6a94",
+      "en_sha256": "6a7decfc4317a4ebe64fe172086fe9b21972dd715afe90c2a84efeca14b7acc6",
+      "origin": "ai"
+    },
+    "dataList[id=popup_desc_exchange_skin_cost_item].content": {
+      "pl": "Wymienić na {0}?",
+      "kr_sha256": "25966f76e3aca7fe82404ab7dd04f13e9b21cdb303346cff45b0287033b7830e",
+      "en_sha256": "2e4aeff65abb98cc5e35ad3963dddca1abdee83d90ec663efaf3c4177e35774c",
+      "origin": "ai"
+    },
+    "dataList[id=popup_title_craft_skin].content": {
+      "pl": "Utkaj Fasadowe",
+      "kr_sha256": "5a3bbcd767c8419cc3e44b9c8a2fd55f402b5e25baf60ed8e1b3dd463a0b3db1",
+      "en_sha256": "c0249d1bbb514db03acc1d115ad159a8a2cb92b49bba1095423f9b4cf4af3b5d",
+      "origin": "ai"
+    },
+    "dataList[id=popup_title_exchange_craft_skin_item].content": {
+      "pl": "Wymień",
+      "kr_sha256": "727bf610db6d3427dd38b09dc52b143263c7274af0c2175b9b9a05a72f4ab642",
+      "en_sha256": "d60a318dd8a0cdc8795c2c7da003c336dbfb37c6ce68aacd491137d2322f04a0",
+      "origin": "ai"
+    },
+    "dataList[id=title_skin].content": {
+      "pl": "Fasadowe",
+      "kr_sha256": "b6465a332205d3a5ca345d51c2a74c4c87c807b20a4bf60df8a32777f15f3071",
+      "en_sha256": "a9b399d1a7823dedacc23776f9e514e8bd952dadcb93bc4247ade67363c5f15f",
+      "origin": "ai"
+    },
+    "dataList[id=view_skin_status_button_label].content": {
+      "pl": "Projekcja Fasadowych",
+      "kr_sha256": "b6465a332205d3a5ca345d51c2a74c4c87c807b20a4bf60df8a32777f15f3071",
+      "en_sha256": "1b3f98d88b7e0c901e07da63f2a64994219735e76ac6c3473ac4966ba4e1682f",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "entries": {
+    "dataList[id=mission_ui_condition_tags_201000001].content": {
+      "pl": "Ukończ wszystkie osiągnięcia (bez osiągnięć „Ukrytych”)",
+      "kr_sha256": "d09e7fa7e56703e1db9ae8b321accaa7ecf7f7908792961c6412efdc6008a2e7",
+      "en_sha256": "2a69916883dc4f0a90bdda876ddc02a924b15b5b049c05e2a0d2265506f4c738",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001025].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając co najmniej {0} Darów E.G.O Syntezy na wyłączność Pakietu Tematycznego",
+      "kr_sha256": "68182d6a24d9916b7c7f5bb97e55030c38479d1216ffa1a655fac4e27e58f0b3",
+      "en_sha256": "536e1d05444e4a7e7369d4f7beb891aa06681dc6b02791dc115ae9e96ff7247b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201001026].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając {0} lub więcej Darów E.G.O 5. stopnia albo EX",
+      "kr_sha256": "a869117bc9913600433b65547cfcab30f0ea1bd8263933f4a2ab6e3f58895779",
+      "en_sha256": "d88b0182419d08f9663925ff6aab95a496bf56ba71c562d1667d16f4aa5aa3dd",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201002004].content": {
+      "pl": "Ukończ Lustrzane Lochy do piętra {0} {1} razy",
+      "kr_sha256": "72a147f639726acba4f0bfb2d492cdeaab19f604ae0f94e548f1ce71b24e70be",
+      "en_sha256": "99f6a098b16c3a64c56806529f97a0e9e43b38393315c12666b4865f56134c58",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201002005].content": {
+      "pl": "W jednym przebiegu Lustrzanych Loch ukończ {0} Pakietów Tematycznych powiązanych z Koleją Załamania",
+      "kr_sha256": "8d38ae82da89b4a28c4f287e2bcbfa959feb3869bdf32fed055baf494b88eee1",
+      "en_sha256": "75396147f9143ce43535bbae6bcbe9392edf375714c969aacbdfdc6b31fed7df",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201002006].content": {
+      "pl": "W jednym przebiegu Lustrzanych Loch ukończ {0} lub więcej Pakietów Tematycznych o nazwach Cantów",
+      "kr_sha256": "c84605e866107b1d7a853fbea2543d4f9b9067534de8dc9f3b11df4bdaf9ac2d",
+      "en_sha256": "798849c06aa22323a1602daa42f1dc59cad4329e3fb785918f3d5d6e07cf5bb3",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003019].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {2} lub wyższym, mając w składzie {0} Tożsamości T Corp. i {1} Tożsamości Jurodiwi w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "f441b62abf2c6709ad6e9674840d18ec405f49d8d252907838a9b3024c09132a",
+      "en_sha256": "367b3f68d8d505c8ac030434b0bc5b6678dcf74545b8ff8a663a29f60325ed1e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003020].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości R Corp. w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "cbd68f1178cb12bebc0c9f80a873065e3d300bec407db6d85f5fdd01837b106f",
+      "en_sha256": "ab7b5849ddfa92f159d53ae8909cc3070dd9119c8b5111363bd5468117fa86cf",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003021].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Zwei w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "f2ec4870d9a9be8167081b0ca7e982583a9f6dd4aa7d4da72313fbb6bf545f50",
+      "en_sha256": "fb4d6ecbfd03b8e45a4858350b0c9e63acf91cd31039ca38c913028c383e096a",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003022].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Cinq w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "cae6ab2ead30bb84603c6526ac45c397503507787935d54ae5a2eec8b0b73ddb",
+      "en_sha256": "8fdb0db32f8886317178ee391e54e6c523e97de89509c6a6c98976e527b5e944",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003023].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Warsztatu Różanego Klucza w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "b45913d9362244b5a4a9a499516f95db86145386bb5f4c0bb371db6afeb0cfce",
+      "en_sha256": "f4d119efac9eb0f30f6d665fc18e1b1edec95aa4426cabe04c693055f7601555",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003024].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {1} lub wyższym, mając w składzie co najmniej {0} Tożsamości Watahy Heishou w momencie ukończenia (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "46e39a79c33c4d5192081a259dd4c68ff689124d4f55d79744b36afa94b76634",
+      "en_sha256": "00f5a5fc77562fb80897505dbca8e29c0d3ab16c2f219e1624d4de4260abbcd9",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003025].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Unikający”, mając w składzie (wliczając rezerwę) co najmniej {0} Tożsamości Fanatyków Korp. N, w tym „Ten, który będzie dzierżył Sinclair”",
+      "kr_sha256": "332ae87f0472cc7e06aeeeb93f37ef0f336cfb9710cc87efacd9bf25afd969cc",
+      "en_sha256": "5695b13c4f843703f22e219a7261b60f99156ef6f28207392b197a1e65b56fec",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003026].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Niezmienny”, mając w składzie (wliczając rezerwę) co najmniej {0} Tożsamości Sojuszu Wyzwolenia Technologii, w tym „Rozkwitłe E.G.O::Krzew Korzenny Yi Sang”",
+      "kr_sha256": "9344c7cb07bb58d691f9a087de0b47b072d692515aff3ad14db616a9655d9134",
+      "en_sha256": "a143f030fb509ed46f246c40d9f99db9ec9e5b704e081ca16658992cbbf645d4",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003027].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Naznaczające Zło”, mając w składzie (wliczając rezerwę) co najmniej {0} Tożsamości Pequoda, w tym „Kapitan Pequoda Ishmael”",
+      "kr_sha256": "3fb7798f0f75e9218bdbed4e7db6f0f143b517ab2cdda03a7dac3451c3473b2d",
+      "en_sha256": "9cbbc1c4450641e18f38b8133bf4ff56e530244890e29a90db30f04c64e9826c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003028].content": {
+      "pl": "Pokonaj bossa Pakietu Tematycznego „Skazany na Patrzenie”, mając {0} lub więcej Tożsamości (wliczając rezerwę), w tym 2: „Władca Hongyuanu Hong Lu” i „Kandydatka na Głowę Rodu Ishmael” oraz co najmniej 4 Tożsamości Watahy Heishou (nieosiągalne przy składzie wypożyczonym)",
+      "kr_sha256": "30c70dae38b04fd64aee65de9cda905d1bf4f764fae50c42970c32fff13b8875",
+      "en_sha256": "855dd66c11287ef235f8e3e301075e50cffc3fc7523c5ed792db05a58dc94591",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201003029].content": {
+      "pl": "Ukończ piętro {0} Lustrzanych Loch składem wypożyczonym",
+      "kr_sha256": "3e42410e04fe579bec57933b22a75d9b15c6f97bdee3140a5bf28b7dd7276ba6",
+      "en_sha256": "0fe31850b4f31871213529bd4bf99fabb1ba8bcbcac451f2bfac93e35a4795e2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004007].content": {
+      "pl": "U jednego sojusznika zamień w Sklepie wszystkie kopie Umiejętności 1 i Umiejętności 2 na Umiejętność 3; potem ukończ piętro {0} lub wyższy",
+      "kr_sha256": "3f21e5ab66519955e0ca2cba2c0a5b954f11fce83731c794b52cbf2fb0ede0ab",
+      "en_sha256": "03e0b0e30b4c2a14ca0db7d3b0d1fef5453dbcadc26695f8f666ea54fb2c6c53",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004008].content": {
+      "pl": "W jednym przebiegu wykonaj łącznie {0} syntez i ukończ piętro {1} lub wyższy",
+      "kr_sha256": "3576e7dc1360268d619ef3e329fa7e8c19549c239c423add33d7d5d5a54e3935",
+      "en_sha256": "de6054ce3c9ce823c5ef9540615612f54f6ffec2d2cc9d1714f8f278195b94b3",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201004009].content": {
+      "pl": "Ukończ Lustrzane Lochy na piętrze {0} lub wyższym, wychodząc ze Sklepu na końcowym piętrze z 0 Kosztu",
+      "kr_sha256": "7469e35d5eec062833f6c0b084b5a90026d65f17c1e86b09883e28f07d67274d",
+      "en_sha256": "70b97b150fb0f24195fd5192f08593993974922d861dfa5b013c605830909349",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005016_6].content": {
+      "pl": "Zadaj wrogowi {0} lub więcej obrażeń Umiejętnością jednym użyciem (liczą się obrażenia Tarczy oraz obrażenia przy trafieniu, jak Potop Zatonięcia czy Zawieszenie Czasu; nie liczą się obrażenia słów kluczowych i inne źródła)",
+      "kr_sha256": "9c777e4652742ab36d76ad4e42e017fe9ea9be0164d3206f9354070e7fc833a5",
+      "en_sha256": "51ee53084fe97e51b61e688d9f7e4ddfa54e2c53e4206ac79db6a3fb20d5d2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005017_6].content": {
+      "pl": "W jednym przebiegu ukończ Lustrzane Lochy na piętrze {1} lub wyższym, gdy wszystkie Tożsamości mają poziom {0} lub wyższy",
+      "kr_sha256": "5e3c08d825cae34490dea0b13aeb500022321c2e253e795471e87f58333dab24",
+      "en_sha256": "94dd0aacc4606f982c96afe8817615ba8b0af98bfc0ed349572634273aa5c59b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005018_6].content": {
+      "pl": "W walce spraw, by {0} Skazańców trafiło główny cel krytycznie wszystkimi pozostałymi monetami w pierwszej turze",
+      "kr_sha256": "c77235debf4561fc03d67aa236b90676821a9a9e17cf31d6773b3c38d080383c",
+      "en_sha256": "c3059949d4819c2f9980102a747cea86490ead0a7dcb8a1e1d4598fe53a323e4",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005019_6].content": {
+      "pl": "W walce osiągnij Moc Starcia {0} lub wyższą",
+      "kr_sha256": "616d66f876bac909b2aaf32492d29236747bb83d9e621042f49cd54fa8f73386",
+      "en_sha256": "883afb2368b953a8f81188960a000511e24b4f16420b86042cd3d0e788117015",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005020].content": {
+      "pl": "W walce z bossem Lustrzanych Loch na piętrze {0} lub wyższym aktywuj po turze {1} efekt Daru „Narzucona Waga” i ukończ",
+      "kr_sha256": "9c7157a6b1f7de2b7bb1c882eb18c770e4c02dacf0994b45940b62eac248fe79",
+      "en_sha256": "0ec53d100e0480b3485a79de84eff4fa45bfb5496fc500bd51eaf6b743ffc38b",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005021].content": {
+      "pl": "Wyposaż w jednej turze {0} lub więcej Umiejętności różnych atrybutów grzechów naraz",
+      "kr_sha256": "edd040a370f4d8017d6e01ee3e196ecf0947b47446ae53f2c830af11450d3fc2",
+      "en_sha256": "bae834fcc6e18f90e3c7cca823597880a8bafb84f40801f54ce26953587b82a4",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201005022].content": {
+      "pl": "W walce osiągnij Szybkość {0} lub wyższą u jednego Skazańca",
+      "kr_sha256": "6e958c532c7c61b5a0c48a564d769aa47d07a0c25780feaaba3ffa2329962733",
+      "en_sha256": "d3dd048e9337525899e485402f206d37020a3483bb2365a66a7fc4dbb9dcc34d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006001].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Wzrost Poziomu”",
+      "kr_sha256": "46934eca993bc99aea718ee975d90d1406a87061edf459bb3a461ecd535f1835",
+      "en_sha256": "8e90bedc0040abe63381ab4a5a153bb62d8b3fad9def7c5ce6a02f3324ff6f31",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006002].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Wyniszczenie”",
+      "kr_sha256": "c2fbc83e4bd140c31f4272c3b2a5fdece667643e135f2505fb20b6cdb2f964d3",
+      "en_sha256": "af6d035b38e777ff8b160639fab230f39a78ac960f28b186886063f15127e533",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006003].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Znamię Ognia”",
+      "kr_sha256": "ec7a1c7d75f478f5dbfc9612b577d9d8b7a6ea2bc11088f4190f45ddd10481ba",
+      "en_sha256": "85f2d51045281e53d83cf30061215e2ab7bd3de35da5ce43bb4a31a1eff40c87",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006004].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Inflacja”",
+      "kr_sha256": "7449cab3c005e74cacfb5c03faa79a1c5605a6d6d96ae6820e01a6c40f1ef62b",
+      "en_sha256": "7f2321c5704c63f084e0e265aca72ee01b1f2da5fde7e0ee6beb331e246846f2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006005].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Interferencja Ego”",
+      "kr_sha256": "e67a698891dff140cffdf65a09229ed0e1544fbdbdc9d071c1fb6401679c16b7",
+      "en_sha256": "6b738bfb51da8af9d9c5b5a832a91bcf132af07286bf79876b8ce27589fe510c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006006].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Psychoza”",
+      "kr_sha256": "e47ba357d69690ea98ae1ff4e559dfa93ba1911b8e36c737d1d6ef36574b9661",
+      "en_sha256": "c790b24cfe1da408fd6a65a795c945cbaa2ba68c18cbff9b9cf2955b167d90f1",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006007].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Przyspieszenie Nerwów”",
+      "kr_sha256": "fd56f1fc38900bc1df1aa36b28d614ddab1285449d9e9560eecbdbd18e6f4a84",
+      "en_sha256": "e4d87d3a2fc6204c8735394f1136382396509730ff208d3eb3d80b5c3e35e212",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006008].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Wyczerpanie Poczytalności”",
+      "kr_sha256": "184d2384516d1b3add204cb63665ca5e7b8c919fcd12287727523e820b5f18d9",
+      "en_sha256": "8d7a63bceb115e6a926bae5e0d85e524b8d348ca7fd0b05424c9bd045f9adf9c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006009].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Bariera Wstrząsu”",
+      "kr_sha256": "6e2833ef010de047f145abb4edd407f1a088be9c1c671c6e0c2f4d9acc356a33",
+      "en_sha256": "ac8ed313e286c0e2dd07d4baeed82e0f6de85b5d501271f3f5ff2ed9cb8da9c3",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006010].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Wzmocnienie Witalności”",
+      "kr_sha256": "8b7ef15c7df08b506e3b11fdf57835bde9800558d6cfbb847368e815cb3d5868",
+      "en_sha256": "3720d511c64f7ee96706c1fa1845cec7d311a7ede7272b96287bdd8e9934d2ce",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006011].content": {
+      "pl": "Ukończ Lustrzane Lochy, wybierając co najmniej 1 Utrudnienie „Siła Niszczenia”",
+      "kr_sha256": "0908845c82e80eac21a7160ec73fef1c5dbbbb946eed612cd99709d23546336e",
+      "en_sha256": "4228aeba1a2bb0f547fb68caed010f1221632b483f9e52f7783d0542ef7c28f2",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201006012].content": {
+      "pl": "Ukończ Lustrzane Lochy z wynikiem Utrudnień {0} lub wyższym",
+      "kr_sha256": "257ac412f3f32690699825e429b8c3b4fd979e7a335889a767474f74d49d6c91",
+      "en_sha256": "52b0e8450057ef58ba21e07f67eaac59bd8bb295a12c3b24a026eafd94ea052f",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201100005].content": {
+      "pl": "Odblokuj Dar E.G.O EX „Bogactwo” w Kompendium Darów E.G.O",
+      "kr_sha256": "af2fb7d1485fc25f8f0794faf55101e9ea90f8ae15ba6254fb2f53008507e9af",
+      "en_sha256": "344406de27914f32a287dae407d60e270619792f77f4132020a747ec698330f8",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_201100006].content": {
+      "pl": "Odblokuj Dar E.G.O EX „Pewna Filozofia” w Kompendium Darów E.G.O",
+      "kr_sha256": "6069d7d3df116e8238acea1ed7dd3de82b01aa308f06f78f48505471a3a07abf",
+      "en_sha256": "aaff81c45d082558283e883bf766008bd60149ffd8e9e6755cec4ff6bec69ce8",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100001_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Don Quixote",
+      "kr_sha256": "cc199db25e1bb1de0c6b26487558569dd9684434432c83e8d48f253f3e3b6e76",
+      "en_sha256": "178a10d91a26c85958150ae7a340b1c747861c15f586a39271c60c23ccc56fb8",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100001_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100002_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Lei Heng",
+      "kr_sha256": "64f067c2992678043a00881ee613ff93ce5874a06fdef5d01b2427938fb478ca",
+      "en_sha256": "dbeb400051a449f7edb5cefeef9148f8420af4b9cda24813706634fb59615b08",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100002_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100003_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Ricardo",
+      "kr_sha256": "df10bfd281ff06bc5fb01b0ef04cf640c1b4db9a9599fd8c243f8be402670402",
+      "en_sha256": "eab2b21f142f303fe437f106dee53b2f6940f861b051a4cd9d205c5583c0b14a",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100003_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100004_CLEAR].content": {
+      "pl": "Ukończ Ukryty Węzeł — Kkomi i Wergiliusz",
+      "kr_sha256": "49d5dc8c57e1cbca71ec3af31dfef1e3cab478d16b88028259049bb104d1574f",
+      "en_sha256": "c9ca189da0e3d049759781f6584dad60801f941eca0e80c9f9a64c5962d8fb76",
+      "origin": "ai"
+    },
+    "dataList[id=ui_condition_clear_201100004_NONE].content": {
+      "pl": "Ukończ Ukryty Węzeł — ???",
+      "kr_sha256": "116371dfad7b23f5da700454444636b601a6d600335b70d9feba205faa8859b1",
+      "en_sha256": "f33f989a389f1856c606f4760492f636343f5b7f75e535c0b2fc15f8ebccb175",
+      "origin": "ai"
+    }
+  }
+}

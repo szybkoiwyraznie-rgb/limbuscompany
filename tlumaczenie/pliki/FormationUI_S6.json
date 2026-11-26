@@ -1,0 +1,376 @@
+{
+  "entries": {
+    "dataList[id=character_list_collect_rate].content": {
+      "pl": "Stan kolekcji",
+      "kr_sha256": "e463ace62345a80ad1c66310caf0ba879f9c746c4af38b16e8dad54406367cf9",
+      "en_sha256": "af0dde247173805edf12a481e9696e00c6da641f63ecacda100f65ae37b6a34a",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_ego_not_existed].content": {
+      "pl": "Brak pasujących E.G.O",
+      "kr_sha256": "ec6a2aacad00e9e71d9e349c911f8f17e80b28802a0042a36d9a831500ee3879",
+      "en_sha256": "a77db57115b4f10442cb3df40604fbda8b5e44d0582bcd2fcc919807181897f6",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_friend_support_impossible].content": {
+      "pl": "Nie można ustawić Tożsamości wsparcia dla tego Skazańca.",
+      "kr_sha256": "cdad0d539841dfbfaca77ba796a20507a33a80662147e82869a1d3c30df06d95",
+      "en_sha256": "8440342bf02eeafbec16dd78136d4ca42cef3d0ed1d2d4e933b2b49f3ab00e28",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_friend_support_not_existed].content": {
+      "pl": "Brak Tożsamości wsparcia dla tego Skazańca.",
+      "kr_sha256": "cb5f12f01b9ec5239339a210da55737d0ffd305762e3d000dcca6e661e3b1f6c",
+      "en_sha256": "99d60e9a5df5f07a798ae912666fddcfee0367c063eb0ff52b062767d4b166b6",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_owned_toggle_label].content": {
+      "pl": "Posiadane",
+      "kr_sha256": "9de9b5092f1c0ba90f7b54a4b7a440b9c38662ae74a82f2d39cddf93bde7d8de",
+      "en_sha256": "15d44d1ff3334302a21f21fda2437c2e4273e82f8af8d642fa5f1f0f19ceb054",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_personality_not_existed].content": {
+      "pl": "Brak pasujących Tożsamości.",
+      "kr_sha256": "366a2c5003478a6da1ecd9f695ae5ce5871a0fe5939ed96ea7f8b6248cf44662",
+      "en_sha256": "e12c751f3eed362bb9e3b96f8df029de79d7eb9b99fab76cb4ed3e7c42e22df2",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_skin_not_existed].content": {
+      "pl": "Brak pasujących Fasadowych",
+      "kr_sha256": "6cad4bb73a95fb4ac8f5a13223fb6f4bc117b69b36643048f45e2560154ecb58",
+      "en_sha256": "32da88cee9f97e1382cf14556d936361d571e10b923acf0477e0eb4d3218b7e0",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_sort_label].content": {
+      "pl": "Sortuj według",
+      "kr_sha256": "3788952da26f77aa4d89f76d1551e58ce32b6c3986f71700fef1dc1456b76664",
+      "en_sha256": "6d2227555fccff99c70e5dcb281ee3a6ac06a7412d8ffa0e0cdd73c89c32dfe8",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_all_ego].content": {
+      "pl": "E.G.O",
+      "kr_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "en_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_all_ego_with_character_name].content": {
+      "pl": "E.G.O: {0}",
+      "kr_sha256": "d0eb29d210bd43566034779f5a12b82d100ae79e5c2e17e77a9104a34f6de557",
+      "en_sha256": "471e4910f08e19d8d3266c32df1cac835463d0f0cdc90b297055c99de0d48560",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_all_personality].content": {
+      "pl": "Tożsamości",
+      "kr_sha256": "6d270e76fd91b9dfc77fcb9a6f5601ea61ca74046f8914bcb74fcb83c74426ab",
+      "en_sha256": "8d4d8fef65ea881d9f2b04af4b3de0161c7664bcbfd69753529446fc85845b4f",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_all_personality_with_character_name].content": {
+      "pl": "Tożsamości: {0}",
+      "kr_sha256": "07925472e9da1fc852d9f9558c5187b75a9464d9db62e3b1d9437441a1da7606",
+      "en_sha256": "8b28c8ab77d8a1d48f538a5eecd6040962b1ae269ca7c6bdd127728897dd2c94",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_all_skin].content": {
+      "pl": "Fasadowe",
+      "kr_sha256": "b6465a332205d3a5ca345d51c2a74c4c87c807b20a4bf60df8a32777f15f3071",
+      "en_sha256": "a9b399d1a7823dedacc23776f9e514e8bd952dadcb93bc4247ade67363c5f15f",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_all_skin_with_character_name].content": {
+      "pl": "Fasadowe: {0}",
+      "kr_sha256": "4d0da4c2facbd2ee2f3ad556f5853cd4656d3ff43f1a8f64cd857cd8916efa5f",
+      "en_sha256": "c38f5824228f7a3ef1f49bb7a53d12d1c1001eb1f067a2ad67c5e93750d0303a",
+      "origin": "ai"
+    },
+    "dataList[id=character_list_title_friend_support].content": {
+      "pl": "Tożsamości wsparcia: {0}",
+      "kr_sha256": "71e8f2e175b176bcd9cf5810289ea512893b9a79c3219ad438381d75430a3294",
+      "en_sha256": "3c210e2fcd29633235b4f1865e9ebbf2107e39080d213fab2efd1408790499c7",
+      "origin": "ai"
+    },
+    "dataList[id=ego_filter_label_attack_type].content": {
+      "pl": "Typ ataku E.G.O",
+      "kr_sha256": "917329ebe2950d5db2ca3955b63f6fe6975f9c13f620158c545213b748797434",
+      "en_sha256": "0a141bee09ffc63ef33335e014bc4f02283b3d7535ab600dbcf9f24683bfd9db",
+      "origin": "ai"
+    },
+    "dataList[id=ego_filter_label_attribute_type].content": {
+      "pl": "Atrybut E.G.O",
+      "kr_sha256": "8674d29d8735f4702dd1048bc389706f719ff1c90be7d95aed8bb1ed4860a758",
+      "en_sha256": "da1a44acbdaf696ae042d0b43868c140a02a82c824100ee331b8f654596fe61f",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_amber_resist].content": {
+      "pl": "Odporność na Lenistwo",
+      "kr_sha256": "69c7c9aa28e740082cd57acc0e562651a23648f591a13f972ee95cd5bf7d8890",
+      "en_sha256": "cf57069c3366c399a8c659dc5b3ea11c1d5c3f2fa75ba803d3da65acb60a4086",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_azure_resist].content": {
+      "pl": "Odporność na Posępność",
+      "kr_sha256": "750faca25e214131671a70142e9a5d06e9ac207b7aae17e3820172b8c66f43d4",
+      "en_sha256": "d86c227ce948031df6f40fad9cd33ca5f33fe3f031aa8e38ce5812eed752ebc9",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_crimson_resist].content": {
+      "pl": "Odporność na Gniew",
+      "kr_sha256": "399f949c4a26a752c4c80d65fe2488da26a51a27c38eabd151f5ede808c0f82b",
+      "en_sha256": "5c1e0c6cef8750455ec300402c31babdb7afb37e81d2bacc6cd7cdfe43fff320",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_indigo_resist].content": {
+      "pl": "Odporność na Pychę",
+      "kr_sha256": "c26a3ce55abc76d63db9927d259353cffb0faddf5e4f024728e7b5a2f8782e2c",
+      "en_sha256": "eeb2da0c1f5d0fd2e6c21162511d1fee639ea460de663f424e28bd4f10d23cb4",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_rarity].content": {
+      "pl": "Rzadkość",
+      "kr_sha256": "8f679824c3656cd5d9cacc35671f11e7d6921987b2063068d35361ec842df472",
+      "en_sha256": "feddcf308625463b129c9019c7ff68dbac24d299d33320828a498a2cf365f38a",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_scarlet_resist].content": {
+      "pl": "Odporność na Żądzę",
+      "kr_sha256": "08e39c463f2964ee87022572b73aaa8d4ddec6a41f1ccf439c61b0744a7e8473",
+      "en_sha256": "554d6b0c253ba2c1f4fb4fce042efc79cdd9ec288ebbf2920012f8d7343145df",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_shamrock_resist].content": {
+      "pl": "Odporność na Obżarstwo",
+      "kr_sha256": "f02264a18f048b65beff212d835323485aff602fe3b0d29235806900216877ef",
+      "en_sha256": "5a09bf7d1e8f975f638706bbc4c0cc04cf4d7dbc1400b0d0fb19b3773f6042f4",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_syncLevel].content": {
+      "pl": "Analiza Anomalii",
+      "kr_sha256": "92c48bfa94cdf90c990c236c2c639ea41b2489a704a8ce9a00f55787edc271dc",
+      "en_sha256": "2f9e7f5666e06fb81797f10de9a40e38cc63d83ef533aada97813df36ae987d2",
+      "origin": "ai"
+    },
+    "dataList[id=ego_sort_label_violet_resist].content": {
+      "pl": "Odporność na Zazdrość",
+      "kr_sha256": "f290174e4e66a402e731874f8f89ec6b0a4f0dade75728f71afa9087abe87793",
+      "en_sha256": "5d93df5b4e04876577cbd1ee14023f6e05a08dcdf50f990fdece82eb1f29d89b",
+      "origin": "ai"
+    },
+    "dataList[id=filter_condition_defense].content": {
+      "pl": "Poziom Obrony",
+      "kr_sha256": "406c88f88dfb25ceba429481efaac14d34cb1fd561dc0cc28a69bdcecba4cb8e",
+      "en_sha256": "39a80f435dc1de01ca816f0f027f33e748d885f90bff9cdaf482682906e58c84",
+      "origin": "ai"
+    },
+    "dataList[id=filter_condition_grade].content": {
+      "pl": "Stopień {0}",
+      "kr_sha256": "eea0212cede24df189b73f086cb4dcd4e3aeee1e8e2eba9f1fcb243d1af35bf7",
+      "en_sha256": "2830648b6aa81bc700f7c1ecb59d7b0757ddf18b27b3a464127cec6f03cf54e5",
+      "origin": "ai"
+    },
+    "dataList[id=filter_condition_speed].content": {
+      "pl": "Szybkość",
+      "kr_sha256": "c03f7e871a4127c448d96aa2c9754fb390b54eaaed7b58ff6be042d20ee0258e",
+      "en_sha256": "c372fee9b4566b85a592ae6e98e571f3929c8e262cf2feff7acba63a65a50f14",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_copy].content": {
+      "pl": "Kopiuj kod składu",
+      "kr_sha256": "d40f9bed72182f6fbd1d1c3f13cf91bef09197f3b544c2d2c7c4660526e12c14",
+      "en_sha256": "ca6cbe07a22d42d0ffa51bd4b65ae3e71f15d615a509aea92cd1cf0f24ea6203",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_copy_success].content": {
+      "pl": "Kod składu skopiowany",
+      "kr_sha256": "7261dc8f495f92d7c276a06f7138f390274f17a861d4c18dc803fe61fbd6c3a4",
+      "en_sha256": "09f477e74e3cd5a04042d931559f7c5f430dafae57126c4bb6ff429d7da75e6b",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_desc].content": {
+      "pl": "Kodem składu można:\n- kopiować i udostępniać składy\n- wkleić i wczytać skład",
+      "kr_sha256": "79f5ea80c6e866ae7a27ca6fbfd96b99dd78a812dc0a8bff1a93cf1a107bc65b",
+      "en_sha256": "8e129864d16fb232fa764bf3a9071276da3b1d18af34760721ee6c6522302b8d",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_paste].content": {
+      "pl": "Wczytaj kod składu",
+      "kr_sha256": "40d9d63e45ec58aa0d5a524cfb5a034d7b98abad25f59d0516153aa1fb746760",
+      "en_sha256": "223485a6a211f7fc5d911de70fa53ff5e05b6ee201535b03ba154419a5471062",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_paste_desc].content": {
+      "pl": "Wklej skopiowany kod składu,\naby utworzyć nowy skład.",
+      "kr_sha256": "2d38e36d50c7cbbd48d1c873e10e7ab3cb3157ab88dba44bc49408bb62b0353e",
+      "en_sha256": "748fbbf298df1353c98484519461d646cb569042a64ba3627b01788240593a34",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_paste_input].content": {
+      "pl": "Wpisz kod",
+      "kr_sha256": "1c0c0732a0fb35952937af012a9fd9ff0db1d6e4b6b6aff5fb033a46e5698adb",
+      "en_sha256": "a2c02b164e115734e9844df82ca09f2a971ad40c8f15cd39d29fb90abe210e7e",
+      "origin": "ai"
+    },
+    "dataList[id=formation_code_popup_title].content": {
+      "pl": "Kod składu",
+      "kr_sha256": "a42cb086a70c1a2f6a2e434e59ee7956a07756757dc319af13fef7ab46109eef",
+      "en_sha256": "49f83126820212ed0105f4c5a9b2e337c74a0cf08bc17653c94d27525424e346",
+      "origin": "ai"
+    },
+    "dataList[id=formation_current_personality].content": {
+      "pl": "Wybrana Tożsamość",
+      "kr_sha256": "2fc790c57369a9acae6e8764cde7f303125f788acad9bdadd1dc28241b2e9911",
+      "en_sha256": "d5773b1392238a25b9baa467653cc4480bc89404588d2df79534f3181b8bf387",
+      "origin": "ai"
+    },
+    "dataList[id=formation_deck_code_auto_filled].content": {
+      "pl": "Nieposiadane Tożsamości i E.G.O zostały zastąpione podstawowymi Tożsamościami i E.G.O.",
+      "kr_sha256": "fc128a54e91d440713f85099a2e996213c0bd88a933e893d01f4b2c938acff7f",
+      "en_sha256": "4edc7b800fabce8521541d2de7d992afdffef07a083e677635caa39cdabef5b6",
+      "origin": "ai"
+    },
+    "dataList[id=formation_deck_code_invalid_code].content": {
+      "pl": "Ten kod składu jest nieprawidłowy.",
+      "kr_sha256": "157e48db4495370ab71af2d320193384c8e2243f51222b707b30de497362e6aa",
+      "en_sha256": "1d7afa986690481e745897175c0d3cb7179a465e4125d5a29d07059da7fcb96c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_deck_filled_complete].content": {
+      "pl": "Wczytywanie kodu składu zakończone",
+      "kr_sha256": "390f123ec3202c19c5614395c6ecf6c4bdf973031586522bb0ad05f73292f027",
+      "en_sha256": "26c240f557033cd414ff74cd1d3501ab55cd55eff123ffe1849bd662428a98dd",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_detail].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "d211d97f6bc061212e81e013ceb937f3bf451a0da59d5b6bbca76d783b8d717a",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_ego].content": {
+      "pl": "Zużycie zasobów E.G.O",
+      "kr_sha256": "190111b2cd825c0d79ca1e71430e5b321e0c8bded030d80f48ef2c6bd5323b04",
+      "en_sha256": "89c45c74da13fdc48132af65bae71d0e98b26cbc56f8582cb76c9334bc3c412d",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_ego_desc].content": {
+      "pl": "Zużycie zasobów przez każde wyposażone E.G.O.",
+      "kr_sha256": "fece7856b1de4fac30e79d8825932103336fa17c854dad324898dc04124af91a",
+      "en_sha256": "d222d5fdbc54d0760c5220b80aafbfe2749d8f4a319d9ac05ea6733d988f22f9",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_personality].content": {
+      "pl": "Zasoby Tożsamości",
+      "kr_sha256": "e625ce02562e2e45c555d5122f9ae8b6c416520403eb040cb6b679c02d562323",
+      "en_sha256": "1fc9c72d5d48b540e1fc1950f9cad70f03daa2a0f39786268758a476ed0a6162",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_personality_desc].content": {
+      "pl": "Przegląd łącznej liczby zasobów E.G.O, które mogą zebrać Tożsamości w składzie, oraz liczby zasobów każdej Tożsamości.",
+      "kr_sha256": "be68b7a955af907488ffdcc80e7b994a351f5b2887c636c1604ff08d182ec094",
+      "en_sha256": "26bdfc16f7ac7a6e2600203d971d847f1349407cab2a13ab9973729c1da6a71c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_title].content": {
+      "pl": "Przegląd zasobów E.G.O składu",
+      "kr_sha256": "93eb81d03004f60779ed17a02a77aaddb839318c9954e9944cd2a928f3d5ba9b",
+      "en_sha256": "c1fcd08901121114c6e6cc7e51a8ed28709789f23c5d67b10ebef22fc276f7e3",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_total_acquirable].content": {
+      "pl": "Łączna liczba zasobów E.G.O:",
+      "kr_sha256": "013494ea880963bf207eab98be756ab4165b987755ed8a354638b4dd13f810e4",
+      "en_sha256": "7893143f4490f147dcca293e3db665f29d26df3f5c1af1b0d71724d423ae11ec",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ego_resource_popup_total_used].content": {
+      "pl": "Łączne zużycie zasobów E.G.O:",
+      "kr_sha256": "7bc63b25e21fa29c6531d393853eae65734d38cb0d7bf500e01eedbff1f684fe",
+      "en_sha256": "f407fb779212ec5aabcaa6b80347c6e94e80906240fde3d5ab71520cf1981322",
+      "origin": "ai"
+    },
+    "dataList[id=formation_must_participate_specific_character_with_baton].content": {
+      "pl": "{0} musi wziąć udział w walce jako aktywny uczestnik (nie może wejść z rezerwy).",
+      "kr_sha256": "e9a44056dc41e15b48452a32e37c00328156b73b074e26469021fa9959d7cc3e",
+      "en_sha256": "210c8ddb2abcdf47fe102332246072b07de95d03ef8fb26f46fb0ee5e5cdf627",
+      "origin": "ai"
+    },
+    "dataList[id=formation_set_to_default].content": {
+      "pl": "Zresetować ten skład?\n\n<size=80%>Reset przywróci stan z podstawowymi Tożsamościami i E.G.O.</size>",
+      "kr_sha256": "403050a9d6d206a738899e3abd439bd4ac6323650f7a58992e8f7941f8eff670",
+      "en_sha256": "52b6bc932ca6cef0fb0d62f4e02ca4712d55406d2076957973e93dde67b35789",
+      "origin": "ai"
+    },
+    "dataList[id=formation_side_button_all_ego].content": {
+      "pl": "Wszystkie E.G.O",
+      "kr_sha256": "c68b1fa2da8abd28a3ed7bc5ad3cbce93f3051d2eb0c9d744d58b4d2523caf83",
+      "en_sha256": "42e3627f88606ee5562300adeb64648d5f8bd140fdd687f8de29e3f041572d4c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_side_button_all_personality].content": {
+      "pl": "Wszystkie Tożsamości",
+      "kr_sha256": "9eae3756d4233b680b08a48bf9ccede6366298f268da1d80bf6f31322367359d",
+      "en_sha256": "cc3d7c5fcf45d73de7891eaff43aa5aa1293baabc92c3ee1ce1f8a7da7c5ba2f",
+      "origin": "ai"
+    },
+    "dataList[id=formation_side_button_friend_support].content": {
+      "pl": "Wsparcie",
+      "kr_sha256": "0e7cfc63937a14176353649c8722176f3395046c0aa3b523f13c623fee3c15f1",
+      "en_sha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3",
+      "origin": "ai"
+    },
+    "dataList[id=formation_side_button_skin].content": {
+      "pl": "Fasadowe",
+      "kr_sha256": "b6465a332205d3a5ca345d51c2a74c4c87c807b20a4bf60df8a32777f15f3071",
+      "en_sha256": "a9b399d1a7823dedacc23776f9e514e8bd952dadcb93bc4247ade67363c5f15f",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ui_announcer].content": {
+      "pl": "Komentatorzy",
+      "kr_sha256": "9de89526fae7b1603dc3ebae72c53640b7d5d120895c1969a8eb85898998f476",
+      "en_sha256": "363bbac5bac1509c4e2322e301b078755aac20696848607e9f3bd3ad1554766a",
+      "origin": "ai"
+    },
+    "dataList[id=formation_ui_announcer_detail].content": {
+      "pl": "Szczegóły Komentatora",
+      "kr_sha256": "c2db75f89b2b4c8fd100c72958fb8cf338a048607fc6574b675627d21dc90a23",
+      "en_sha256": "027e66278adaaa8a3ca7ddc03bc6fffda03c8a65b11d45637031c1d701d309df",
+      "origin": "ai"
+    },
+    "dataList[id=formation_unable_to_set_default].content": {
+      "pl": "Nie można zresetować składu bazowego.",
+      "kr_sha256": "b6e626452bfbe53fefcfa72348ca2023393c881f89e737abe0dfd1e001df53d6",
+      "en_sha256": "4c89467d6e99b7a3f2cb41f82a04ff9b6afef33bda1bc3ed57cda48301e8363a",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_common_skin].content": {
+      "pl": "Fasadowe",
+      "kr_sha256": "b6465a332205d3a5ca345d51c2a74c4c87c807b20a4bf60df8a32777f15f3071",
+      "en_sha256": "a9b399d1a7823dedacc23776f9e514e8bd952dadcb93bc4247ade67363c5f15f",
+      "origin": "ai"
+    },
+    "dataList[id=personality_filter_label_attack_type].content": {
+      "pl": "Typ ataku Umiejętności",
+      "kr_sha256": "74c20a23a37691abd863fa54ff042ac8be740e13687a2f7c0fcae210041b63b5",
+      "en_sha256": "c7ab9c10064145f3aa8494fd7602ad3f23fb768312a0e757060c31d6c5b55953",
+      "origin": "ai"
+    },
+    "dataList[id=personality_filter_label_attribute_type].content": {
+      "pl": "Atrybut Umiejętności",
+      "kr_sha256": "6576a5030d277ce843bf4ffccd92e2f58ce911d5ed2aa5078230fb65576b619b",
+      "en_sha256": "9caadc696b1c34631340759822460f74eb3a42511bbe0a712817eb24c3f42843",
+      "origin": "ai"
+    },
+    "dataList[id=personality_info_list_not_owned].content": {
+      "pl": "Nieposiadane",
+      "kr_sha256": "129499b2ae6bc278ec11f249f426ed3596fa981f204e6446064a1cfd04fbbd77",
+      "en_sha256": "858494a5393b7d23e61534f73b2f3fabd5ba12578fec04b137665ff6fdda5bc4",
+      "origin": "ai"
+    },
+    "dataList[id=view_personality_status_button_label].content": {
+      "pl": "Tożsamości",
+      "kr_sha256": "6d270e76fd91b9dfc77fcb9a6f5601ea61ca74046f8914bcb74fcb83c74426ab",
+      "en_sha256": "8d4d8fef65ea881d9f2b04af4b3de0161c7664bcbfd69753529446fc85845b4f",
+      "origin": "ai"
+    }
+  }
+}

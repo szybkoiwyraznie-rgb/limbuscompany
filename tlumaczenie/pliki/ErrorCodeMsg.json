@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=networkingerror_content].content": {
+      "pl": "Połączenie sieciowe jest niestabilne.\nSprawdź stan połączenia",
+      "kr_sha256": "05cb005ee8a4a95d6801b7c59e04460aec08882a18b8396ee1d57a6e2319a48a",
+      "en_sha256": "d0a0c7424298fa44fde878679c6b16fa8e626e01cddb81c240d3734e98504c59",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_already_entered_stage].content": {
+      "pl": "Etap jest już w trakcie.\nZaloguj się ponownie, aby zsynchronizować postęp.",
+      "kr_sha256": "b52e5f532e4925e5fa535d51590cfe0473c0dae8f1a063b92cdbcdc553b4702f",
+      "en_sha256": "ad587df2bd9b9b2bef6924be758925a5c2a4d9cd6d953edf9ce589c97dc4fffa",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_content].content": {
+      "pl": "Wystąpił błąd serwera.\nSpróbuj ponownie za chwilę.",
+      "kr_sha256": "b1d4181232d8908eed3df075385184c0e307958c9cada91864cfca6143b9de15",
+      "en_sha256": "311e5b4453451337e49c81c1ae4585f20719e4160254a7a4ec03a3bc214d3587",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_egogift_not_exist].content": {
+      "pl": "Synchronizacja posiadanych Darów E.G.O nie powiodła się,\nnie można ukończyć zadania.",
+      "kr_sha256": "f9def27ea65516d5107a9bc79c328fee8ad150ed5d2b371f5be6c8c9638689dd",
+      "en_sha256": "f53bb34d51d1fee2d197bd7548fc98ab231c8ca357ba62e79d00a08b2e94044e",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_invalid_battle_version].content": {
+      "pl": "Wersja została zaktualizowana.\nPobierz nowe zasoby i spróbuj ponownie.",
+      "kr_sha256": "57b540033907040c83dbd49d07634cecfb4c052371c0c01f2a5b1d38d0553715",
+      "en_sha256": "cfdb2b59b9ad90fc53f7fe3866264605659b73b0faf656861bb44d8f4d903863",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_invalid_date].content": {
+      "pl": "Ustawienia czasu urządzenia różnią się.\nZsynchronizuj czas urządzenia z czasem internetowym i spróbuj ponownie.",
+      "kr_sha256": "8a7213693e49edee4e1d01e3f36dc1d707166518b584ce8567bf5fb16f5636a4",
+      "en_sha256": "af915a11e62a4e44e9b0f5f5656f6cd0b8321eafbecc9c1bfa40705d324f4d49",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_invalid_purchasing_package].content": {
+      "pl": "Transakcja nie powiodła się.",
+      "kr_sha256": "0abf76e038754369d3328463b8b0c16620078b1c26418e4c2da2e0efa7aad46e",
+      "en_sha256": "395d65e0734619266302cd9fc8512da6d0e533efe4f429d186ae232935e8dbe6",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_lack_of_stamina].content": {
+      "pl": "Synchronizacja posiadanego Enkefalinu nie powiodła się.\nSprawdź, czy ustawienie czasu urządzenia to „Automatyczne”.",
+      "kr_sha256": "9470128c5688c9b368f62a4aceeecc50942bca52fa9d535c66b0a947e06cdf90",
+      "en_sha256": "233c68c7acdb7b287c8be01cdbe21454aaf542ddc6320bdc80d237d559945b2c",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_remain_restore_purchasing].content": {
+      "pl": "Transakcja jest jeszcze w toku.\nWciśnij przycisk [Odzyskaj zakup] i spróbuj ponownie.",
+      "kr_sha256": "fe94a1a3f832b02c5ea3015fac40bffe082985359ebe5c6af2bc442144a6ae88",
+      "en_sha256": "f0cf1bf9647c110f92f8a48c1c4896698eb88d2f28c8310c536d23e8f696d8eb",
+      "origin": "ai"
+    },
+    "dataList[id=servererror_steam_auth_error].content": {
+      "pl": "Logowanie przez Steam nie powiodło się.\nSprawdź stan logowania Steam i spróbuj ponownie za chwilę.",
+      "kr_sha256": "def4b9118f9e0bf7c6dd60d9acd7a7b240757acbfa75182f494621e32bd03aee",
+      "en_sha256": "99f0304bdc6e278b4288a0fe31f762f6143234b070121292a04aca2c3c9b330a",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_blocking_endpoint].content": {
+      "pl": "Ta funkcja jest aktualnie w konserwacji.",
+      "kr_sha256": "2cfa498cd428052e567f9c628f5bab0a80f7fed76b7ee246448361e1d83f5f2f",
+      "en_sha256": "b67913b538fe033ae5d6463059b98f4cd612633d49d24e344dbc6130172f446e",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_error_thirdparty_api].content": {
+      "pl": "Wystąpił problem z komunikacją z serwerem zewnętrznym. Spróbuj ponownie za chwilę.",
+      "kr_sha256": "d89453ae786d6d5ed0dea8a7b801004c8a4c1672de3a1e8c2fb01db8f3a1ded2",
+      "en_sha256": "2276ae9c057a6772d47e325da4e0d319a732820307e5f07e7590c7cf58c60fc4",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_openpreparation].content": {
+      "pl": "Trwają przygotowania do otwarcia!",
+      "kr_sha256": "aba53b89b04ec0084ddc27b844f6a6bb6f42aa4abddc2c53db03d375288c6255",
+      "en_sha256": "3001e91674494f46160ee139e113fd8a6a015d1230f93aff1b141ef8df919785",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_regularcheck].content": {
+      "pl": "Serwer jest w trakcie rutynowej konserwacji.",
+      "kr_sha256": "e1b891ab657b2120ff3d5fbc52e4d416b564dee0c28febcaea063ea6c06a20f8",
+      "en_sha256": "84e956e97b08bb10b74a47d8f7007314baa3479c7f733b741d67b44bed43c276",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_temporary_check].content": {
+      "pl": "Serwer jest w trakcie tymczasowej konserwacji.",
+      "kr_sha256": "0e4592277d74ebeb8ff01686a403058b29c89cbf3bc0450fddd2be14eb93661c",
+      "en_sha256": "7f202b83f15627230613b132b4fa4e41489b6904a00ad5e29475c0cc138402c4",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_ban].content": {
+      "pl": "Konto ma zablokowaną możliwość grania.",
+      "kr_sha256": "69250a0fb7f9866a8f49d7db9beb8753e8015b101c397cd3d02aafbf411626ae",
+      "en_sha256": "7123ba6a9f5d0ac5b6bd85135bee282ebc2a2fb74ba9f3e641ae6fe8996ceb13",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invalidauth].content": {
+      "pl": "Wystąpił błąd.\nZaloguj się ponownie.",
+      "kr_sha256": "f0980f1b152964e4a6c34bd2c82cb8134246fdd6bf0ecdeac3ad55dd1b7f53c9",
+      "en_sha256": "470c1e0d971810bf1feecaa4ad776fa481616cf378cec26b4c3f463f85470ce9",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invalidclientversion].content": {
+      "pl": "Klient gry nie jest w najnowszej wersji.\nZaktualizuj grę.",
+      "kr_sha256": "234ed026f2f54391de7e517474af520bddf2071eeb11d0b40c6caaa3d6254803",
+      "en_sha256": "3a50f963cd13709d0fa5056f881afa2e4452d761919cffab94e6019442dbba39",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invaliduser].content": {
+      "pl": "Konto nie istnieje albo zostało usunięte.",
+      "kr_sha256": "474ed83b7a1450d2e38197cf77343617ba886b295f826712a684783ac7a54660",
+      "en_sha256": "cf2618a073026d1c7e52b89f816421ed5043ac91fd8540d23364a50de8a7336b",
+      "origin": "ai"
+    },
+    "dataList[id=serverstate_verify_invaliduuid].content": {
+      "pl": "To żądanie zostało już przetworzone.\nUruchom grę ponownie, aby zsynchronizować.",
+      "kr_sha256": "ba4cf40d57e5d2bd2362abe1c47fef4158243eacab36be3c840b26c1730ad3bf",
+      "en_sha256": "91e7d8e0a48d363239bbd6c3e4f8e378f1a766ffc6fdc9befd945d18a20e70d9",
+      "origin": "ai"
+    }
+  }
+}

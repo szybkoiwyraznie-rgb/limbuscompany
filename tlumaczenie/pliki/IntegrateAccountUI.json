@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[id=alarm_unlink_account].content": {
+      "pl": "Konta rozłączono",
+      "kr_sha256": "91493fc33719ce7d89c6ca9222540f7cf1349f20ee5e13e42ebfc84664d61eb2",
+      "en_sha256": "5793ce76e44682b82b66ef0c36138aae66d43b93de04705af7d80d1973816d33",
+      "origin": "ai"
+    },
+    "dataList[id=ask_to_integrate_account].content": {
+      "pl": "Przeprowadzić łączenie na wybrane konto?",
+      "kr_sha256": "6e29322f5bd4c5818e5f020d8d07f46bd2a8c01e8c9b05a65dd8499dfa3e1c2c",
+      "en_sha256": "c9bcd01f25b68ce8021c4e3d6a1f47b5d894252009801f1220f748dc1acabc99",
+      "origin": "ai"
+    },
+    "dataList[id=ask_to_integrate_account_warning].content": {
+      "pl": "Przeprowadzić łączenie na wybrane konto?",
+      "kr_sha256": "6e29322f5bd4c5818e5f020d8d07f46bd2a8c01e8c9b05a65dd8499dfa3e1c2c",
+      "en_sha256": "c9bcd01f25b68ce8021c4e3d6a1f47b5d894252009801f1220f748dc1acabc99",
+      "origin": "ai"
+    },
+    "dataList[id=current_account].content": {
+      "pl": "Obecne konto",
+      "kr_sha256": "d7ccf7be14e9e92337dbde75f8e4a810c617b79b3d6bfd4276f33f17d08db0a6",
+      "en_sha256": "2b98b27bb3158dfc4140d4fc29d29f42aefd603be3ba2f6c01fdb8daea3e526e",
+      "origin": "ai"
+    },
+    "dataList[id=input_code].content": {
+      "pl": "Wpisz kod",
+      "kr_sha256": "1c0c0732a0fb35952937af012a9fd9ff0db1d6e4b6b6aff5fb033a46e5698adb",
+      "en_sha256": "a2c02b164e115734e9844df82ca09f2a971ad40c8f15cd39d29fb90abe210e7e",
+      "origin": "ai"
+    },
+    "dataList[id=input_integrate_account_code].content": {
+      "pl": "Wpisz kod łączenia",
+      "kr_sha256": "d3dab70608442eb30b795752a25dcb5b5cd8e1eee7ebcd59e6277c5edd792a3f",
+      "en_sha256": "afcd181953ab86a43529619b124b70b7f5d5340a77caf10e631197ae7d4d4f9f",
+      "origin": "ai"
+    },
+    "dataList[id=input_integrate_account_code_description].content": {
+      "pl": "Wpisz UID i otrzymany kod.",
+      "kr_sha256": "8e629edb8bb3abc049f36bdbc86fdc3572f7a4b3750447675de7cb9c87e59518",
+      "en_sha256": "b0ee4c91f343b44f47cb2e093e0d86b1c0c615686d83f16bead83521a7f6d962",
+      "origin": "ai"
+    },
+    "dataList[id=input_unlink_account].content": {
+      "pl": "Rozłącz konta",
+      "kr_sha256": "d41b3ee1166b95cff4c5a36a75ec07b69c6b35111f3fe95737e85b9c26bed6f4",
+      "en_sha256": "554b2ab7ffa2c0dce37b80035efc5aacc5f3e676052f694b36155301d59f9657",
+      "origin": "ai"
+    },
+    "dataList[id=integrate_account_code].content": {
+      "pl": "Kod łączenia konta",
+      "kr_sha256": "377e8a2799e236884cfdb725db5124ab3fa346281f3a5aedc78f788928d91274",
+      "en_sha256": "3c8d3e1da3873c767e01009cfb899de7bc0558f05a1618881c40470fa8f97e35",
+      "origin": "ai"
+    },
+    "dataList[id=link_error].content": {
+      "pl": "Łączenie konta nie powiodło się.\nNie można łączyć z kontem gościa ani z kontem tej samej platformy.",
+      "kr_sha256": "df6c2d5b70dc6a83c8fdb62a7070f5a42e2a1fef47f522d23c163925f80b2fce",
+      "en_sha256": "33bbca890687f8cce54032151e20fbe1f6330921b54a8bad9fd19022849f5d1c",
+      "origin": "ai"
+    },
+    "dataList[id=link_error_expired].content": {
+      "pl": "Kod łączenia wygasł.",
+      "kr_sha256": "cb3aac3703f550b49e7f463ee8536ebd30d052adcf60e6e6a6297f3ce8672930",
+      "en_sha256": "e4a6ea983f39d51b1d0bf14760814cca8945af426a7527425b6b842d0e533336",
+      "origin": "ai"
+    },
+    "dataList[id=link_error_link_failed].content": {
+      "pl": "Łączenie niemożliwe",
+      "kr_sha256": "53174491656db5066d115cf5ce28daea91e901532ee0da5974021172eeebee31",
+      "en_sha256": "f1ac8c2706d3a8fbb124b973b5d60440cc12169319a7b77e272c3819f0db651b",
+      "origin": "ai"
+    },
+    "dataList[id=new_account].content": {
+      "pl": "Nowe konto",
+      "kr_sha256": "68d2a1b5d6eb48bd49768759d19e25dc036d7fab9bea8e5f61bbae9df73dbf8c",
+      "en_sha256": "495931de246d7029dc6eab5b42726f20673a4d3d53785146f2568d9e9d975bd2",
+      "origin": "ai"
+    },
+    "dataList[id=not_exist_integrate_code].content": {
+      "pl": "Kod łączenia nie istnieje.",
+      "kr_sha256": "b05ce7c2e8e0e669f0b9ece786823fd81c5bb5f23845b30e363683c00a62675f",
+      "en_sha256": "00ea03ad2fd4b0448de7cad9ff702f71102e1981713e2f9374e84a42ded2e0be",
+      "origin": "ai"
+    },
+    "dataList[id=receive_integrate_account_code].content": {
+      "pl": "Wystaw kod łączenia",
+      "kr_sha256": "9c576b17864fccc16c3bcdbf317d1dbf78425c30e58b16ce3c9594ce193ebae6",
+      "en_sha256": "89411642dc6847a310a918aae3a07f020c3313220041fa5f7433d57142c95412",
+      "origin": "ai"
+    },
+    "dataList[id=receive_integrate_account_code_description].content": {
+      "pl": "Po otrzymaniu kodu łączenia konta zrealizuj go przed upływem czasu.",
+      "kr_sha256": "5f84941b06d5c24aa69074dac3ed1b4e3d87cdfee29cd390821c9b17fa84ab3a",
+      "en_sha256": "1671b8b85a44e2a82b9fb4b1d1a54e63af8ab69d08067e746bd418ff03d6a0bf",
+      "origin": "ai"
+    },
+    "dataList[id=receiving_integrate_account_code].content": {
+      "pl": "Wystawianie kodu…",
+      "kr_sha256": "644c5191f872be6b8abcacb3f28e59fbbb36505cf5b7f258bdb6d204c9a600a7",
+      "en_sha256": "e6ddec3d9dee454e4ca8e36900bbcf052d5f23711c013cf87362e617fb2d0fd9",
+      "origin": "ai"
+    },
+    "dataList[id=request_integrate_account_code].content": {
+      "pl": "Poproś o kod",
+      "kr_sha256": "4aa6cde9d75a6ed7b818fb762599cb34edc616c67fe7b608d27bdf8ab7f52a45",
+      "en_sha256": "44339961cb6c231ebd7b65184b2f223b02c7062d636560406eb71d9ef4875d0c",
+      "origin": "ai"
+    },
+    "dataList[id=select_account_for_integrate].content": {
+      "pl": "Wybierz konto do łączenia.",
+      "kr_sha256": "ab92bf9e0f9af31697cd5cc3ac2e6448174f9a25ce16948373df5f2c98f09f5c",
+      "en_sha256": "f1a34c896f31895867b2d1b713cf6636279123225039e07cea75075c31a2a9f7",
+      "origin": "ai"
+    },
+    "dataList[id=success_integrate_account_message].content": {
+      "pl": "Łączenie konta przebiegło pomyślnie.",
+      "kr_sha256": "7f2f980f769f7ef6b37c4f0ba44a22c8614089927a6ab82790bca1cda1aa136a",
+      "en_sha256": "e38a47cdf55edf20e8fbf7ec0de378843dda1ee96d2899c2d2a878516947ee96",
+      "origin": "ai"
+    },
+    "dataList[id=unable_to_integrate_account].content": {
+      "pl": "Nie można przeprowadzić łączenia.",
+      "kr_sha256": "12eeb4dbef435791dba2c340d1ea0bca1dbd04157a6235277f0a78bd22ca0e0a",
+      "en_sha256": "42e95b0d361abdc002b6ad152094daf6a6c0d543243f9e1dd5b286b10f3a48a1",
+      "origin": "ai"
+    },
+    "dataList[id=unlink_account_ask_content].content": {
+      "pl": "Rozłączy te konta.\nPo rozłączeniu ponowne łączenie będzie niemożliwe przez {0} dni.",
+      "kr_sha256": "8c278fd0aade8bdced3eb508ea5b9f69b005d2883049a12b7f3ac545748e9860",
+      "en_sha256": "cbd6ea091cc425ee70f868ade017bbfb48217b5743ab3ef83873f151fdc99b0e",
+      "origin": "ai"
+    },
+    "dataList[id=unlink_account_ask_title].content": {
+      "pl": "Rozłącz konta",
+      "kr_sha256": "d41b3ee1166b95cff4c5a36a75ec07b69c6b35111f3fe95737e85b9c26bed6f4",
+      "en_sha256": "554b2ab7ffa2c0dce37b80035efc5aacc5f3e676052f694b36155301d59f9657",
+      "origin": "ai"
+    },
+    "dataList[id=warning_before_integrate].content": {
+      "pl": "<color=red>Niezaznaczone konto zostanie usunięte.</color>",
+      "kr_sha256": "eb8ed960241a3ccba189caa1111ffbac3024902dcdd264da800f5a59bfb9679a",
+      "en_sha256": "e8fd02fbd2c4e0262595f8ef2f945ec34817b2ba33a84d95c93195d99994fd7a",
+      "origin": "ai"
+    },
+    "dataList[id=warning_none_integrate_account_removed].content": {
+      "pl": "※ Niezaznaczone konto zostanie usunięte.",
+      "kr_sha256": "e6fea11a9ff685de53134bf46d2c843f57761a6ff5030a35b97c9cb24c0a9fca",
+      "en_sha256": "656a4a526ceffe033fc1ab03a9a0d7b821b980eb0345a5e868bd4222ecde697f",
+      "origin": "ai"
+    }
+  }
+}

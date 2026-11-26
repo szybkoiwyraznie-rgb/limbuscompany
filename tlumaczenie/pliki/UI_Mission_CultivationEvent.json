@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=mission_ui_condition_tags_10059].content": {
+      "pl": "Zalicz pierwszy egzamin połówkowy.",
+      "kr_sha256": "f70a5409a7a8258c80adbd23c1cc0171e201d85b261d4a5dfe4d116037328ddb",
+      "en_sha256": "45b63b002fe56873606e814eb2fbca5d3786927c3765e24d323b1a8b5a74957f",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10060].content": {
+      "pl": "Zalicz drugi egzamin połówkowy.",
+      "kr_sha256": "29baf9bc6fcee0b020b763a7e02151c1fb829042fac02d9f1022569c91201e92",
+      "en_sha256": "70445b0fca15ddbd810f6645dd00510454e8b7ac0539332eeab7149b22ce7dba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10061].content": {
+      "pl": "Zalicz trzeci egzamin połówkowy.",
+      "kr_sha256": "4e1b2f2e85b3213cd58d57139bb85c0ba09618bd0936472487c8dff3c1938d78",
+      "en_sha256": "d29ce2b1926cc204fc81dd7568f337b80992eb047b10c0202b9d65529462c693",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10062].content": {
+      "pl": "Zalicz czwarty egzamin połówkowy.",
+      "kr_sha256": "56f2706ce86a4053977737c5af752bd8146870e4223e49fb9109cea2a3c34132",
+      "en_sha256": "630082b6dce22bfdf115fc0cdaf5fa6e55044e51aae320cc9011132e33d4c786",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10063].content": {
+      "pl": "Odbierz zajęcia każdego nauczyciela.",
+      "kr_sha256": "b17745223edc5f7afaf321aa8a54fb0ffa84c5a03dddd5dd5793adfe14b295d0",
+      "en_sha256": "a29af7f47567f0a03842614662f1c02803f294782f3e69542d9525e8720f38cf",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10064].content": {
+      "pl": "Utrzymuj kondycję Jia Xichun na najwyższym poziomie przez {0} dni.",
+      "kr_sha256": "416674ab517ed447291a085346f6ffd8c7698791871b89cd46729a71c099d370",
+      "en_sha256": "f73b00f81a791eed17624313ca79457950ccd87499b0870de09f36788e45061d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10065].content": {
+      "pl": "Bezpiecznie ukończ szkolenie Jia Xichun.",
+      "kr_sha256": "556c34c90385e728b6dbf1349dfca0d41786f3d99095c74c61042a2fd92786a0",
+      "en_sha256": "18c8546f998e7cec06ad64052463c718d56f3a7dd1efdf07aa6df03799300a1d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10066].content": {
+      "pl": "Odbierz zajęcia Yi Sanga 3 razy.",
+      "kr_sha256": "089bf5e7bd49fdde3df1c979eb33e206f57c11161ac3a98439d2e4ec7e5729f4",
+      "en_sha256": "ef0a1e15044b6c9d0fada4419cfad50750bc8df22ce830d3503f2fde634becff",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10067].content": {
+      "pl": "Odbierz zajęcia Faust 3 razy.",
+      "kr_sha256": "d4162d6a2a156119d7ac131057fd0b520a20c9243f8b399089947cfe3618d5e3",
+      "en_sha256": "1d2e0eab3f7ee3d51ea0168d9df483ae9e8322319c576b91254ffeb139be9efe",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10068].content": {
+      "pl": "Odbierz zajęcia Don Quixote 3 razy.",
+      "kr_sha256": "ccc6d454c4fee43e29f36efe75eb0ea4e54d08236971c9aecfe40d4ba651e95a",
+      "en_sha256": "42e786ac2ec9059e84ebf80aea79f09cd6797a9cb244c452aacd8a10f592ccc5",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10069].content": {
+      "pl": "Odbierz zajęcia Ryōshū 3 razy.",
+      "kr_sha256": "6f7917af12a258a5c744be63c9a559c3c0c46b8ad755cd378d96561dc0088540",
+      "en_sha256": "fdf8c6a9e051c8c3e13b962016d07124a7d0107d32f7a2ec1e26a1fdd52c4894",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10070].content": {
+      "pl": "Odbierz zajęcia Meursaulta 3 razy.",
+      "kr_sha256": "e1dd6149eb901ad893a852204e125d4aad17bb93041bc5dd757d27370278a354",
+      "en_sha256": "4a6a810f37b9d2c2527f55df243cbb85631dd11b20d3ecce5e6ccadb03ea26ba",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10071].content": {
+      "pl": "Odbierz zajęcia Hong Lu 3 razy.",
+      "kr_sha256": "f00dd3094d1f0377e95186cb4c47e0bcff7cb3579828d0fe71a973e5894bd94e",
+      "en_sha256": "6fb9e5bdbcbebed55def553c3895d48d0f8375303f94383ea33502ea6e8e8491",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10072].content": {
+      "pl": "Odbierz zajęcia Heathcliffa 3 razy.",
+      "kr_sha256": "23d28297c33b2a314f697684a284bc9c02f34d28c8e3fb9c66fd4a8efc9c33ba",
+      "en_sha256": "5df913318378e05ed24ce4afedd8d9713718805798d421090aaa49f6daedee67",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10073].content": {
+      "pl": "Odbierz zajęcia Ishmael 3 razy.",
+      "kr_sha256": "e5cfb8914ae3b622165f0c596b35e3bf3e14adffcd3a59dd8fd2f70497b9e645",
+      "en_sha256": "b1c3d51bb3236c3687cb3affe1cc4c3741b98df45e3594a7d930b0ab9565f37d",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10074].content": {
+      "pl": "Odbierz zajęcia Rodion 3 razy.",
+      "kr_sha256": "287e08604a98f2e7641d7ec08434fc47428fcf921fc5f54d4fe4af731e696134",
+      "en_sha256": "7331f1d385bbdce62bafb494a6b7136fae715b60d5aafea6e46f93bfdeae493c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10075].content": {
+      "pl": "Odbierz zajęcia Outis 3 razy.",
+      "kr_sha256": "ead4aa9354c61b48d5122582beefb2fae68176a64a1a6fe6ad3776b6322bf053",
+      "en_sha256": "028a335fd947421298a0186d03fbc968d4fc6d222f343d2f6fba95ba0258120e",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10076].content": {
+      "pl": "Odbierz zajęcia Gregora 3 razy.",
+      "kr_sha256": "177629e2584dce6c61e8f27faa1d21bb70a31748802e9eeb17c5272bf128d0ae",
+      "en_sha256": "342b44a29f15a91b21620cf679c4b1092996385aaa5539ebdb29682e6c58a223",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10077].content": {
+      "pl": "Podnieś statystykę „Zhi” Jia Xichun do {0}.",
+      "kr_sha256": "76a6d9c90c9caf94426867beb7a04474c5439627aecf8eacbaba1efa3de9c175",
+      "en_sha256": "6936b90f5dc8645eeb96697a8b51aa79322ab8ae85fc100dc2e9fbe19907dc77",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10079].content": {
+      "pl": "Podnieś statystykę „Yong” Jia Xichun do {0}.",
+      "kr_sha256": "9247847339ff259541823a6f588ff525eb1ee50235fb4fd70f5e27047178052e",
+      "en_sha256": "976884f6685448e200ec3845a01bf3b1204e67ab9fa231e60d7f63dfa94fbd64",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10081].content": {
+      "pl": "Podnieś statystykę „Ren” Jia Xichun do {0}.",
+      "kr_sha256": "b94ccf561b301edbda3b0196661c41e87647a778793dfc533ce1910862e99d0f",
+      "en_sha256": "ea029bfd325b991bc1de41579fe3c282eb959b2268360235bf80d94584d52d9c",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10083].content": {
+      "pl": "Odkryj {0} kombinacji zajęć.",
+      "kr_sha256": "e1368cb8581c30695a86369e4e9aa30d4ebc3be5b8c3b3eff8a6f04298eed47b",
+      "en_sha256": "146ec12a5a76840635f246932b58488d5dc643920f528742674f4eca130a2cbb",
+      "origin": "ai"
+    },
+    "dataList[id=mission_ui_condition_tags_10086].content": {
+      "pl": "Ukończ wszystkie osiągnięcia.",
+      "kr_sha256": "86818f177440b21addf97dc422de14d39696608ecaa40a1b456db61ce18efc40",
+      "en_sha256": "039145e506b2d6d406de0c4f862e36e74ee2988e8e087cc7b853d15d7089ba88",
+      "origin": "ai"
+    }
+  }
+}

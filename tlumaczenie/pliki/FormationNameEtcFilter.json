@@ -1,0 +1,226 @@
+{
+  "entries": {
+    "dataList[id=formation_name_filter_Etc_ATL].content": {
+      "pl": "Sojusz Wyzwolenia Technologii",
+      "kr_sha256": "09b236bcd96f150391ca1627d4a38bb47183e33c25b482f1b9c80b9911460e1f",
+      "en_sha256": "7c52e5c7e0cd56cd54c6a032749b4c1b6c18cb4ae3d5b2d44cb6ded7fd175747",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_BLACK_BEAST].content": {
+      "pl": "Heishou",
+      "kr_sha256": "960dc3897754f974d5c81d35197b4dc0c1ae20650c2b724d959175b163ba7561",
+      "en_sha256": "7239ccd2accee9a33cad1cfaa687d80bd101dc674694bfa4685fee802e63b527",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_BLACK_CLOUD].content": {
+      "pl": "Klan Kurokumo",
+      "kr_sha256": "1792e0c659d20b2f261f180c879ec14467948d7ebf54431547025bffd18ffd24",
+      "en_sha256": "3870f3eab78c504db332859af8028fcbbb65223ab9eb8d5e944208d88602a9eb",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_BLADE_LINEAGE].content": {
+      "pl": "Ród Ostrza",
+      "kr_sha256": "129303ae9e75ea3c4a4d1d6ac563bb142a05e76e72ef193136ad9e45bf5b19f2",
+      "en_sha256": "c20ef31147430fd5b44cb715e99b697595af95f35650a0b11fb6f3fcfa120fa5",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_BLOODFIEND].content": {
+      "pl": "Krwiożerczy",
+      "kr_sha256": "7983603bf6eb46b6231f871978bd9204ec568cb0b75ec0725fd565a67919cb5f",
+      "en_sha256": "4887e2b67064bcb6c64deeb7ff8412e386128f0f7ea73c315b096ab541524b67",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_BULLET].content": {
+      "pl": "Amunicja",
+      "kr_sha256": "10befe9e09e597991b1026105c405e48bea69ea2bd831e281b43fefc41fa863b",
+      "en_sha256": "c16338e2b0b465610d89bba50db1b577d72e95e63bf892fa351a7fd7597c4c0c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_CINQ].content": {
+      "pl": "Cinq",
+      "kr_sha256": "895f741a8abd84458cc38f7f2136ded781788ac7601b8fc2713059633ba8a6a9",
+      "en_sha256": "fc75af83259a017d9eceae9227df1ba810d83c14f6606c8642e43e7794681645",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_DEVYAT].content": {
+      "pl": "Diewiet'",
+      "kr_sha256": "51f036c9afd2d922bed9535681283b9edadeb15fe3200d9b5b3753ca24483221",
+      "en_sha256": "faeac248165a05879068a94a599f16568bfc19edba1e174d0dc2cc525e492d14",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_DIECI].content": {
+      "pl": "Dieci",
+      "kr_sha256": "45d5f294f7b936f1d986a4620d45c4a336e873c3b4054c225243887ab5b35675",
+      "en_sha256": "bb7934c50795e251ba5141462ab89756de06bfc7d471eac5fe353bc76d9accd0",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_DISCARD_SKILL].content": {
+      "pl": "Wyrzuć",
+      "kr_sha256": "9f3d7a16574eb1688ef272eb6e42677dab15b84e77fc4253e08110cab02a0c99",
+      "en_sha256": "eb1a70e39274bb762b5d7c1adb5debeea2b05e12af28207f21a375b596853273",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_EGO_EQUIPMENT].content": {
+      "pl": "Sprzęt E.G.O",
+      "kr_sha256": "13e75100b98168e2aa809fb88c4bb7be2dd64dc4ce33f0363462522a3b52a8e4",
+      "en_sha256": "75581a7d235cbd7e974bc7de85c3fd1f40b9cde9d6ee615d27f8942ea75c71f2",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_FINGER].content": {
+      "pl": "Palce",
+      "kr_sha256": "72b09f1f28b0fd5244a2e90dd8a63560d3ab17453ff29bcfcea21552325513cb",
+      "en_sha256": "e36c9ed4208ec3dfb71fd9dc7dbdaa5d2c7e7b23007ef1ef42b9b7f69ac9055d",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_H_CORP].content": {
+      "pl": "H Corp.",
+      "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_INDEX_FINGER].content": {
+      "pl": "Wskazujący",
+      "kr_sha256": "97d0cc0e32bb24a74e0de1f3d4d14cbba104b42f6da65e85ef3293f4fbcb9780",
+      "en_sha256": "612bcb87f4a613658040693316c5da3c4af764b3af384494dbc1f439ff5927c0",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_LE_NOIR].content": {
+      "pl": "Le Noir",
+      "kr_sha256": "684101dc5f6507a4e9cc656f6b5c8aca315d76ed27b402b27a2a45f45f9327c4",
+      "en_sha256": "f7ff04a00a1b641681c19e9359d20fe135e2be20261eb1075d57b556ba70ace9",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_LE_ROUGE].content": {
+      "pl": "Le Rouge",
+      "kr_sha256": "4d035093a57679e0b3f2ee8ba2c5bc94e1269c6bcc166b6f2c4e16ec48ff9b44",
+      "en_sha256": "68af9a0f01cfb0d20b2c10cbbb506d09abf975995185499e13ef6286ab0302ce",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_LIMBUS_COMPANY].content": {
+      "pl": "Limbus Company",
+      "kr_sha256": "d19f74604eb5468429c7458ce1e79137a1714fed721bbd3f4b492493b493976e",
+      "en_sha256": "e6090d79d97583b7eb2ba74fe9e4cdb43cb785e2d2d690720f74e49fa51703db",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_LIMBUS_COMPANY_LCE].content": {
+      "pl": "LCE",
+      "kr_sha256": "370e728450bf7fae3cd84e75503a2a25fe5cb8348d3a7ab1d5ceb8425daefcdc",
+      "en_sha256": "370e728450bf7fae3cd84e75503a2a25fe5cb8348d3a7ab1d5ceb8425daefcdc",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_LITTLE_FINGER].content": {
+      "pl": "Mały Palec",
+      "kr_sha256": "6d810555c4b7919fdb8047545ae29a6fe2502ee1a99b0e5b2d83d0addf276a7a",
+      "en_sha256": "a156460c2cdb12c7a84b34de0b6aa4751ae45b169354390fe717caeb53e3d5ba",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_LIU].content": {
+      "pl": "Liu",
+      "kr_sha256": "75fc50a68387d98044df6e50c8d1ac0b974b06043bf107282819927476901d33",
+      "en_sha256": "0bfc8598ed08f40f294d77791ac7ccbb374bc3b424550092d854791bde564161",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_L_CORP].content": {
+      "pl": "Centrala Lobotomy",
+      "kr_sha256": "10839596a349e756fd6f64624fc72fd9108eb641df1844c27190a15f2041c3cf",
+      "en_sha256": "43dafe14dd03ab9ceaf1cd16895adfca1bea691c238cf95ee0e4f8fd939ff219",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_MIDDLE_FINGER].content": {
+      "pl": "Środkowy",
+      "kr_sha256": "92cdef3c5bc09f842a88991dc306d5fdcc015dcbadb3b675c19f7a3f7f6ccee5",
+      "en_sha256": "f26dd6afe3cfc0d5692438a915403e3cfad32a4c8405bc337611716949fa3281",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_N_CORP].content": {
+      "pl": "N Corp.",
+      "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_OUFI].content": {
+      "pl": "Öufi",
+      "kr_sha256": "dc67f94b1d63590f1a008aef93bcd72047ce4c8429c40fa32282ba8daf818c9b",
+      "en_sha256": "862a0ac3a16bb300a9bb31604f8992e9855d2686f7b9a656d1b762fcbfa61f19",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_PEQUOD_CREW].content": {
+      "pl": "Pequod",
+      "kr_sha256": "03fe5ef4b91a37f7372abe92556a5ec1d74cc0c4c9cc693ae2434c4ca28f9725",
+      "en_sha256": "4f88d933e6b3b1e43c711ed8c7315c129814a6d36e0bea67288f2191c1ec665f",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_RING_FINGER].content": {
+      "pl": "Serdeczny",
+      "kr_sha256": "d6048d1f5f3d6431def3ac8e4297de287e81e3d57350b827b211c40b11c5abe5",
+      "en_sha256": "72cea89b509605b879a2f3d80837c59616467314fdfb113dcecb962e8d4f2ce2",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_R_CORP].content": {
+      "pl": "R Corp.",
+      "kr_sha256": "7a9faf4ee45c0c085613ac9c1627f09c56a833a2907b13554f0e7e8b2e6443b6",
+      "en_sha256": "578558412493aca859fc180afeea30c174d10547fabd58da6bcf3578350d1261",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_SEVEN].content": {
+      "pl": "Seven",
+      "kr_sha256": "8f7093662006be3012a73b1409e9808eb9c6c3dea5defabc13a62cad35f978bc",
+      "en_sha256": "9092f169630f2d453e0e56ea1eec773b7dc3996ea2fcf311e00a26b6bffddc4d",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_SHI].content": {
+      "pl": "Shi",
+      "kr_sha256": "bfa42cf6a12e912330383a28e28d31dbf769281307df1f2ea3b22541c5c71697",
+      "en_sha256": "3d91a03ed870ec533147dfa1b13a738a819d32f2f09c64afbd6948b97030012c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_SISYPHE].content": {
+      "pl": "Sisyphe",
+      "kr_sha256": "dabfee969e68967477937579ae124fd70682f67134e7b3334c6be4bc3e085edd",
+      "en_sha256": "4c60f00b7f1981812d952e2503b799e4a8f7d132fe2e8fdcf2080e2b9e6bc2c8",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_SPIDER_HOUSE].content": {
+      "pl": "Dom Pajęczyn",
+      "kr_sha256": "06cee8329c6ddae3a8f35acf1fe17a20a8423576a96c984d91a6244cbfc6cda3",
+      "en_sha256": "b74e70d906210794ab86a6a0b37cfbcf8ab9b4e64fbb476e5483380f1ccb171e",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_THUMB_FINGER].content": {
+      "pl": "Kciuk",
+      "kr_sha256": "c6074807bf7d2262dd3dcd65009c681c6a662e3e5878fe0cb6c34288e532ff82",
+      "en_sha256": "1cf89f22a3575bc0bab00d2fc360b789269ee9b6aaafd90e4c84847eca221f4c",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_T_CORP].content": {
+      "pl": "T Corp.",
+      "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_WUTHERING_HEIGHTS].content": {
+      "pl": "Wuthering Heights",
+      "kr_sha256": "290ea0114f389fb7db1c3cd2185e06415a7d4d2361031d07b748082b94451b8e",
+      "en_sha256": "404fcf69f65aa086b9797b4b9794c128e8102b48b7ea4c5afba4a8363ecb63db",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_W_CORP].content": {
+      "pl": "W Corp.",
+      "kr_sha256": "6de0755c0dedabd159df88879f7b6b6de8bab184fdc47917bd1b085aa501b3f6",
+      "en_sha256": "837a8506767e9199657a0c3c0ac6bd4f705f51af6ca6f4a23260fa9c99d72a35",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_ZWEI].content": {
+      "pl": "Zwei",
+      "kr_sha256": "269e7c46c61a3a9dcbd6fde6559fd39bd7dc5d4c1f6e973c594bac4780f29d2b",
+      "en_sha256": "451fa65b549bd13b82d62ea3fd15e8133e0b9a11cd4940db19ee384c32c11b39",
+      "origin": "ai"
+    },
+    "dataList[id=formation_name_filter_Etc_title].content": {
+      "pl": "Inne",
+      "kr_sha256": "2991f61ced07a61e82f4b66ec330b106efa81d6bd622bcfd0650e8a819554f9a",
+      "en_sha256": "f97e9da0e3b879f0a9df979ae260a5f7e1371edb127c1862d4f861981166cdc1",
+      "origin": "ai"
+    }
+  }
+}
