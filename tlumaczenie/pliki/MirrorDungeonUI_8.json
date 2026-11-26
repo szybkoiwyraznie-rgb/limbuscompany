@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_110].content": {
+      "pl": "Pakiet dostępny po spełnieniu warunków odblokowania: ukończ 9.5-26 oraz Canto X.",
+      "kr_sha256": "8cd9000c921a368a386fb23ababde8530e53d48c445f7f535d868a7e305cf52d",
+      "en_sha256": "80f54574d2f39c0f86b33b97b2b1ffb5007b2d33c85fe656c18131b0ddb0d83d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_8].content": {
+      "pl": "Lustro Sisyphe — {0}. piętro",
+      "kr_sha256": "6a2f3b84db53a895a2a705882b2ebc2fb2bb3c3f6c7d6646522fff73e8cec9be",
+      "en_sha256": "9ab1870567dfea1fefb1e869221a86632304b18786ffae996c1d2179ad4e4849",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_Panel_title_md8].content": {
+      "pl": "Błogosławieństwo Gwiazdy Sisyphe",
+      "kr_sha256": "bb42f4fe8d0fcf1af21d2d2bc238add9b84316c90b35060a9bc519133dbd65b3",
+      "en_sha256": "4f883c299a7256ab46efb99b26ada1b233b2c267917b55a5922eed0018642a46",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_hard_blocked_8].content": {
+      "pl": "Odblokowanie po ukończeniu Canto IX.",
+      "kr_sha256": "f7d69d94f08bb82e8e5a283b4bb64a67d4aa038449ed8fcc099b5dead6546bc9",
+      "en_sha256": "d7f1c8316e16233d9283f8605c7988d20434e3489b3a7986e8fe1b9f99d47cbd",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_hard_blocked_short_8].content": {
+      "pl": "Ukończ Canto IX",
+      "kr_sha256": "0ea196108df1c64f19b4c427b6cd475dc6e3a24a5cfe8a3ed9971f3a220572e9",
+      "en_sha256": "e526b24759b9e85be41d71e7c2737a740179b13f92e4c71c976470414fee081a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_pack_blocked_short_110].content": {
+      "pl": "Ukończ 9.5-26 oraz Canto X",
+      "kr_sha256": "540e840b3ab0bac21f7c5a6009dca67c63b9b8a65dfcc57a703ec478280f9f5e",
+      "en_sha256": "26655434338853391a543605eafb6452112a413a95e9814788a035bd7bf6e3f6",
+      "origin": "ai"
+    }
+  }
+}

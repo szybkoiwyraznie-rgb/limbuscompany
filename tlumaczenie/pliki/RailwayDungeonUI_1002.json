@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=railway_1001_bgm_reward_desc].content": {
+      "pl": "Ukończ Kolej Załamania — Linię 1 BokGak",
+      "kr_sha256": "dfcd43be776475f75f24b10f9fa5142f84507cc694cff489bf180edc1fcd7160",
+      "en_sha256": "3b3adbb6f680618cb5034e3a46d5c7f178688b5825021a7370cd1d98145980d5",
+      "origin": "ai"
+    },
+    "dataList[id=railway_1002_bgm_reward_desc].content": {
+      "pl": "Ukończ Kolej Załamania — Linię 2 BokGak",
+      "kr_sha256": "198e81bb5d5b8367f44398e51fee9c73cad6b44daec360b1c5db7a1793cb5cbd",
+      "en_sha256": "aa3fbbcc8bdaecae8832137badaaa81252416a2df6536896a4d7606c02e82ae9",
+      "origin": "ai"
+    },
+    "dataList[id=railway_1002_must_participate_all].content": {
+      "pl": "Nie wszyscy Grzesznicy zostali wystawieni.",
+      "kr_sha256": "ed1007b04a5c644c182fd511bbc886777bf5811538b6395eaafe2f1f132f30bb",
+      "en_sha256": "2fe398f94a66eb769dd4968b0968fc4099a259e6ddadf1240357b038fb045031",
+      "origin": "ai"
+    },
+    "dataList[id=railway_1002_no_buff_in_list].content": {
+      "pl": "Brak wybranych wzmocnień.",
+      "kr_sha256": "dd0761d0f7c1521b492ae30dcd3aedc5c8f5ddd3ac01d3e809b14939a092eaa5",
+      "en_sha256": "dea456dfc4c301304032922248546c64a394625bead45ec59774547bf7817786",
+      "origin": "ai"
+    },
+    "dataList[id=railway_6_bgm_reward_desc].content": {
+      "pl": "Ukończ Kolej Załamania — Linię 6",
+      "kr_sha256": "06b824666e113712c04b79550039052b7ab292b3c9209d723fc80ebecc0a16d8",
+      "en_sha256": "1daee5ebc7619f74da56730bff30a5b6cfda3971fee5914c11e8d27ea8765794",
+      "origin": "ai"
+    },
+    "dataList[id=railway_clear_reward_popup_item_column_desc].content": {
+      "pl": "Nagrody",
+      "kr_sha256": "9444bc762474483a32354518a78024f291675dfd3bd5a3748d0820bf118c7464",
+      "en_sha256": "59afe47d9d3772675632ee5ebbffeeb325d9a094387c87e3818357f4bd46fcc7",
+      "origin": "ai"
+    },
+    "dataList[id=railway_clear_reward_popup_title].content": {
+      "pl": "Nagrody za ukończenie",
+      "kr_sha256": "3913de22f1f9a64f7bda3831c3368fb0e75649879e71f60b23af432e76ce9bb7",
+      "en_sha256": "d6b2f365e6630c9c9d3d13c0f50429bfacc273059ed88e9321fa0f1241a46caf",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1002_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 BokGak przy min. {1} cyklach i w maks. <color=#005823>{0}</color> łącznych turach.",
+      "kr_sha256": "1ef2ac2d1d4f71aa0884117fcb5d8828273449717425ccb02a90654f10a53873",
+      "en_sha256": "e986ecbfce8b26ce975e9a2e891772db98de384c99a1d5026c9133e423c66631",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1002_change_rotation_alarm].content": {
+      "pl": "Ukończono {0}. cykl",
+      "kr_sha256": "ef780ddbe2666347ddf1a1486bf35ba987535162855425a1e66cf95eb00e6f91",
+      "en_sha256": "339ab40ace6451e30ba8592473b93bc5bf7402fef0e4362f2e30ebbca986a740",
+      "origin": "ai"
+    },
+    "dataList[id=railway_node_clear_info_ui_buff_list].content": {
+      "pl": "Wybrane wzmocnienia",
+      "kr_sha256": "d9e0507710d25b058a8282b20909da45b83c2b9d23241002ee83bce4dedc17d1",
+      "en_sha256": "84e752f04be5e4fe785be69b71c98f179ef61f13a307d4155b829108013e7cb2",
+      "origin": "ai"
+    },
+    "dataList[id=ui_railway_dungeon_reward_condition_clear_boss_after_cycle].content": {
+      "pl": "Po ukończeniu Stacji końcowej",
+      "kr_sha256": "5a9709280b733bc62b07919b7aee8b4b91211a82c4857c04d6c8f9e89d591534",
+      "en_sha256": "77c1f3cecf8cca515388e2da2218aca1806e55c9d7dd136127f3e8bc0d476cf6",
+      "origin": "ai"
+    },
+    "dataList[id=ui_railway_dungeon_rotation_count].content": {
+      "pl": "Liczba cykli",
+      "kr_sha256": "c6121404adafeb193e6159047e04ba3a6badbcc7e72e74dc633690e224a3ffd6",
+      "en_sha256": "912cc1c26ec9a48e7f37dc9f08fcd40d212bce8e34f3da54e8ec21ea4d6214c4",
+      "origin": "ai"
+    },
+    "dataList[id=ui_railway_dungeon_upper_status_ui_rotation_count].content": {
+      "pl": "Ukończone cykle",
+      "kr_sha256": "091e5f022d5f43764c4b31d91ece24832e1340d0f3cc9301edd7d1e51b0965db",
+      "en_sha256": "5f4fa14f9012bc7f547e8a10c2afff8538e4a7284462486fef49a64b97d64e6e",
+      "origin": "ai"
+    }
+  }
+}

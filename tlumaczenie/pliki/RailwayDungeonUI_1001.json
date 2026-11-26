@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=railwayBannerTitle].content": {
+      "pl": "Otwarcie Kolei Załamania",
+      "kr_sha256": "974086d5f9049a37515d1095d3bed3a1764151d4976bc300bd1a539b161832bf",
+      "en_sha256": "8507df5b856e1528a3ffcfaf77072343d78516d473b90da7500b19f96e2c48db",
+      "origin": "ai"
+    },
+    "dataList[id=railwayDungeonEntranceItemTitle_1001].content": {
+      "pl": "Linia 1",
+      "kr_sha256": "38b37e6b57637f8bab894fb391e3d3d684e60ec307be4a4cab4c2647b38f533a",
+      "en_sha256": "f65eb5539b742c495786c95d8c4f330bcd466a441b05d59b9e8693a970c311af",
+      "origin": "ai"
+    },
+    "dataList[id=railwayDungeonEntranceItemTitle_5].content": {
+      "pl": "Linia 5",
+      "kr_sha256": "9a27fb3e2e4b2473320a76b1675583ba2a0be4ca023df0c6dc55d944d3a4da17",
+      "en_sha256": "eb443fa7b54e15493242164bfab82311384beea9021de59e3af7f86266067180",
+      "origin": "ai"
+    },
+    "dataList[id=railway_1001_must_participate_all].content": {
+      "pl": "Nie wszyscy Grzesznicy zostali wystawieni.",
+      "kr_sha256": "ed1007b04a5c644c182fd511bbc886777bf5811538b6395eaafe2f1f132f30bb",
+      "en_sha256": "2fe398f94a66eb769dd4968b0968fc4099a259e6ddadf1240357b038fb045031",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1001_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Linii 1 BokGak w maks. <color=#005823>{0}</color> łącznych turach.",
+      "kr_sha256": "c220547cd7e02bc9dd5fcc8497ab119c533e0a0e1d801c3dcdbf6f00a1e6ab82",
+      "en_sha256": "98a959cf511598d1ead74e715e605224780117b2d1e1af72a516404396f4c8c8",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1001_entrance_recommended_gacksung].content": {
+      "pl": "- E.G.O: Splot Nici poz. 4",
+      "kr_sha256": "acfd64c6e48791b5a62b177fb6e3560f6656f7e77d2abc2abf3ce0fbbbf7cb90",
+      "en_sha256": "edf27e92e93875c4aa75d21044fc254a127586109162950adc269a407029f1b3",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1001_entrance_recommended_level].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. 4, poziom 55 (limit poziomu: 55)",
+      "kr_sha256": "57476f74700a4b14c22642928072a45ca32c593c046c7a18458169ede503923f",
+      "en_sha256": "c171000aa1f65cc29de22aa8444683a846a78ae1ff440b4069dfc31bbda1367b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1001_reward_condition_special_ticket].content": {
+      "pl": "Zdobywane za ukończenie Linii 1 BokGak w maks. 120 łącznych turach.",
+      "kr_sha256": "b852af8510a5f6ee917de6295520acb78c64c96e052d7d29c105ef43207d56cb",
+      "en_sha256": "4888302b862517dd1d1d2172c179bcfe162b1167d83c0cb5f3d09130d12e7552",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_advice_1001_level_desc].content": {
+      "pl": "- Tożsamości: Synchronizacja poz. 4, poziom 55\n- E.G.O: Splot Nici poz. 4",
+      "kr_sha256": "346916fb3b3138ca9037c2e5f518fbebada4bb5e2351359aa2377dd73b8c6f3d",
+      "en_sha256": "4559ea5953bc1b8983486dc6fd166cbd230db33b7374f8fb2875fcb265f8b0bc",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_advice_1001_openCondition_desc].content": {
+      "pl": "Ukończ Canto VIII",
+      "kr_sha256": "2b622cd726406b356bc3df0232ed980061bd57ab77ef0483c6463813a0a93803",
+      "en_sha256": "d7ea58e9b12a9a4d09f291d191eb18615a1d602fbd02de73f77e3365b5c895f6",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_advice_level_title].content": {
+      "pl": "Zalecane parametry",
+      "kr_sha256": "7cfbd93f944faa379ea039ea46bdf968472c8a7e410686740d083daf1c1f032c",
+      "en_sha256": "d010fd65c720540bf3330abbf43aa9b68238301db3df9b43eb7237baee58993c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_advice_openCondition_title].content": {
+      "pl": "Warunki odblokowania",
+      "kr_sha256": "40ceb6e896cfe436b386610903c1c1d2f9a008ca77503a0aa9a3b0739bf69897",
+      "en_sha256": "0181c8b533248b0c20488919b98f229f1852cf5d8883f54d9790a8b895c5f77a",
+      "origin": "ai"
+    }
+  }
+}

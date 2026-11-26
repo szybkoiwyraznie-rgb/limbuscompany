@@ -1,0 +1,346 @@
+{
+  "entries": {
+    "dataList[id=railway_dungeon_2_ally_buff].content": {
+      "pl": "Wzmocnienia sojuszników",
+      "kr_sha256": "3afa8b8723fc58ef24e873c7ffc0b1511fe6b3ef5545e457c38588920d9f1d80",
+      "en_sha256": "521de4542997ac3d086845a16ed4dea53a8320aaaeb58dfb8963d6637d96bf1a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_ask_retry_when_all_died].content": {
+      "pl": "Wszyscy Grzesznicy polegli — nie można kontynuować.\nWrócić do stanu bezpośrednio sprzed wejścia na bieżący etap?",
+      "kr_sha256": "8a1f8b450c35fa91eeb92c7bb98d1930b55dec70752ea740794be75506386f49",
+      "en_sha256": "7a52bc1f9dcb6424cf8c0b476c33a5802667ee063e781e7bb905cf3a051f5f6e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_ask_retry_when_all_died_turn_count].content": {
+      "pl": "※ <style=\"yellow\">Tury z bieżącego etapu</style> są doliczane do <style=\"yellow\">łącznej liczby tur</style> wyłącznie po ukończeniu etapu.",
+      "kr_sha256": "70468ddf5133f894e8f128a3d8f47037085849eff87afe9692db0456d93fdc69",
+      "en_sha256": "1c826053a644bc178f3ac27dc0ef6ee05d4391e12f830d8a6e8a7bca631b68c4",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_ask_retry_when_defeat].content": {
+      "pl": "Wrócić do stanu bezpośrednio sprzed wejścia na bieżący etap?",
+      "kr_sha256": "51229ce9e049e3b56ebbf5070d2b444a1455cf376295ab3a0ec57f2ee3eb171c",
+      "en_sha256": "e78b74ac21cb7fbb2406e5181198bc20383ae7cdb2c291759a0c11d67a0a62ea",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_ask_retry_when_defeat_info].content": {
+      "pl": "※ W przeciwnym razie będziesz kontynuować walkę pozostałymi Tożsamościami przy zachowaniu PŻ wrogów i efektów wzmocnień.",
+      "kr_sha256": "8067d185bfb89804689ff1d58a39a9746468bedf81962ed59368997d8b7deeb9",
+      "en_sha256": "e2ea5c31bb081da8ab889f92bb91bb873eeef176a6704e0024232f002ce50e3f",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_ask_retry_when_defeat_info_save_battle].content": {
+      "pl": "W przypadku kontynuacji dalszą walkę stoczysz pozostałymi Tożsamościami przy zachowaniu PŻ wrogów i efektów wzmocnień.",
+      "kr_sha256": "9f26a267970598ffedc64dcb9defb15d8a56a14d3faa08504b6b400cd9550e42",
+      "en_sha256": "060f9aff43467c80dd27ffaca9bcbd656845b1f17adf0fb76f2183a53b194c58",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_ask_retry_when_defeat_info_turn_count].content": {
+      "pl": "※ Po ukończeniu etapu <style=\"yellow\">tury z bieżącego etapu</style> zostaną doliczone do <style=\"yellow\">łącznej liczby tur</style>.",
+      "kr_sha256": "2b015bcf7681293178078bcb0a8a8fe92f27ae2812c383f7e39f9df3dc3c3f68",
+      "en_sha256": "d8c1c3bebdc07d28f8b0f50d21a315424ea1fcca69827100b06f1866b0f2a73b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_1].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach",
+      "kr_sha256": "da825b680ba423e0266f10746a7e7fb06497732af0b990aa38e3360833bb449d",
+      "en_sha256": "f8124f10b710af5e1437c7fdae214f654dcf05336bc895280cbb72b3f1feb9f1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_2].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach",
+      "kr_sha256": "da825b680ba423e0266f10746a7e7fb06497732af0b990aa38e3360833bb449d",
+      "en_sha256": "f8124f10b710af5e1437c7fdae214f654dcf05336bc895280cbb72b3f1feb9f1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_3].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach i w maks. {0} łącznych turach",
+      "kr_sha256": "7c8d1e8021838f65060193fc8c6493f4ca9e3d3cafdbf6da6f782df497a5f707",
+      "en_sha256": "ccb5b5a4bdb7723d7d9b103e2397d4829b3354a768c3868c734938f4793634bc",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_4].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach przed końcem <color=#d6e7f2>Sezonu 2: Reminiscencja</color>",
+      "kr_sha256": "b3141c89f99b67cb8a72a21f71748aabea6cafc1bff3eb153da41e6f8089be26",
+      "en_sha256": "a67f162ce0d489ca155fff1c750a33b5f7beebbacfe65b8c50ebeec13966ae83",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_5].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach przed końcem <color=#d6e7f2>Sezonu 2: Reminiscencja</color>",
+      "kr_sha256": "b3141c89f99b67cb8a72a21f71748aabea6cafc1bff3eb153da41e6f8089be26",
+      "en_sha256": "a67f162ce0d489ca155fff1c750a33b5f7beebbacfe65b8c50ebeec13966ae83",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_6].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach i w maks. {0} łącznych turach przed końcem <color=#d6e7f2>Sezonu 2: Reminiscencja</color>",
+      "kr_sha256": "69ace40a6db0fbd529b4e8859129062da79b4f774f869caded6442c178407939",
+      "en_sha256": "c2fa5ac0c3cdecfac07a38c879b5ae37f2835f9f9ccd49a9116637456e8e54e7",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_banner_reward_condition_7].content": {
+      "pl": "Zdobywane za ukończenie Linii 2 przy min. {1} cyklach i w maks. {0} łącznych turach przed końcem <color=#d6e7f2>Sezonu 2: Reminiscencja</color>\n(dotyczy przejazdów rozpoczętych po 15.09.2023 20:15 KST)",
+      "kr_sha256": "b0eade37d3e9e97a316fe7d19506839570a9ba5a0467ea6a8959aec25edf70ce",
+      "en_sha256": "ddf9fed50aca89a486ff4b7cdd212b08c797baa8322407dbd38e99f7a205649a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_buff_acquire_ally_buff].content": {
+      "pl": "Wybierz 1 <style=\"railwayDungeonAlly\">wzmocnienie sojuszników</style>.",
+      "kr_sha256": "6c2025f12db6b0042c08086459b47b9befb2a1237fb008ffb87a4655ff52cba1",
+      "en_sha256": "a99c56ca7da12a5066704bc848659393a61b28088a7cb27c53858e72aac17d8d",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_buff_acquire_enemy_buff].content": {
+      "pl": "Wybierz 1 <style=\"railwayDungeonEnemy\">wzmocnienie wrogów</style>.",
+      "kr_sha256": "39648bdf5ea85ff484769b6eefc2e3ac1e44857b020bb946258954157f8b3921",
+      "en_sha256": "66999df44b54e74bfea302db4f56f12c5dbf61d9459df82f7d97605ce634575a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_buff_effect_title].content": {
+      "pl": "Lista wybranych wzmocnień",
+      "kr_sha256": "d9e0507710d25b058a8282b20909da45b83c2b9d23241002ee83bce4dedc17d1",
+      "en_sha256": "b973a29cf4709037d3edd9be05df767f8fddd93c4ffbc6dcaff3b701975832a1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_buff_fixed_selection].content": {
+      "pl": "Stały wybór",
+      "kr_sha256": "72f6f51ce48c957ad7f572b3ac01cbdc95d8a4c192129363323363f6d1454308",
+      "en_sha256": "a2d357081ed5875ddf078936e6b270c9b2578415db5bf8ec2c8adcd24e33aebc",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_buff_list].content": {
+      "pl": "Lista wzmocnień",
+      "kr_sha256": "3acceb33cd586f5d5ba3ed5322fe11f200118bc92fcce211cc1e8ade74e977be",
+      "en_sha256": "2faaa97ad1741b2a653eed5548817b0c596be778c806aef40a7eb7cec7c09eca",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_buff_not_selectable].content": {
+      "pl": "Niedostępne w tym cyklu",
+      "kr_sha256": "4520a5d4570e1ee137cbe28286c98506a3ec4cad6b890891208115af5a918cad",
+      "en_sha256": "ecfa0c65eb3515d6d20cd80517dabaa1de9c61a0165774ce95cfd054a81a2752",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_current_battle_turn_count].content": {
+      "pl": "Tury na bieżącym etapie: <style=\"number_highlight\"><size=\"60%\">{0}</size></style>",
+      "kr_sha256": "b7b9f0188dd580579157e56ee6997d321e771ba8f3c92564bfaa65f1e6e44527",
+      "en_sha256": "03931a0cb5dd06420ae6568e26a17c0641ae4a2917ab4591f101fb3466c459e6",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_current_buff].content": {
+      "pl": "Stan wzmocnień",
+      "kr_sha256": "bdf010e1ed51de554f9b6fcadb65803846bd5f21aac45123968a4d49b695f87b",
+      "en_sha256": "15d8b2fa9494790c4da5c5eaca119d491f0277125d14f235bbfbae04c8f9f1ea",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_dummy_buff_name_1].content": {
+      "pl": "Nazwa wzmocnienia 1 (atrapa)",
+      "kr_sha256": "9e996549cd40aad75352d41f82156314fcc0a30661bc3be7508e515de765d37b",
+      "en_sha256": "bef5d6d655920253ac9e55142e3cb4e1711a40ef24f017adbb2e9118c5f90023",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_dummy_buff_name_2].content": {
+      "pl": "Nazwa wzmocnienia 2 (atrapa)",
+      "kr_sha256": "d9ccfaaf5163cb97462570b771567d38c5a9383ff56d363e8198373fbb650a1a",
+      "en_sha256": "428fd05ef0fb0c1f5dd25ff39f2f1dbc32d0e7362048cc55fb98bccf93222f16",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_dummy_buff_name_3].content": {
+      "pl": "Nazwa wzmocnienia 3 (atrapa)",
+      "kr_sha256": "d5ca8b79ab75c13f5cfe71ee541800f3847f9077cef535bf9d0ff8cb79d1f59f",
+      "en_sha256": "1fbba3c98e47f2b1f0c2e63b42728aad520dd4ef09c9c8019d73aaf3b0a3d55d",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_dummy_buff_name_4].content": {
+      "pl": "Nazwa wzmocnienia 4 (atrapa)",
+      "kr_sha256": "e067cf73fa0dc7035395c6eb1e52f07156ad5b0210df2d1e644e2f07d127d1ad",
+      "en_sha256": "d3a5f74c753dcdf3d9a2f17e4e0244b3a2637557cd21257e4ed3a4144aa1eaa7",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_dummy_buff_name_5].content": {
+      "pl": "Nazwa wzmocnienia 5 (atrapa)",
+      "kr_sha256": "d467bf3991fa75440bfdb952a0d1231d29e09bafe93d4db83889baf90e9ddbc6",
+      "en_sha256": "3933bf05d77535b979ffd851dd8c2faf6cc588916a9919d1f9a8708b5d83639d",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_empty_selected_buffs].content": {
+      "pl": "Brak wybranych wzmocnień.",
+      "kr_sha256": "9f17ab727d7a88545c2e265902c9066b52161bf06fd52667bda6cc5303a018b0",
+      "en_sha256": "dea456dfc4c301304032922248546c64a394625bead45ec59774547bf7817786",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_enemy_buff].content": {
+      "pl": "Wzmocnienia wrogów",
+      "kr_sha256": "203f334b08f92fe1445b11dff40bc48ecddeb36116abd76529ad0c1c835f8259",
+      "en_sha256": "f1f2d31a852cec14fdcf077a7d6bb26eefa968f84be935fb4bf5210082007822",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_final_station].content": {
+      "pl": "Stacja końcowa",
+      "kr_sha256": "b499138752f58eca702041911f4515106f3b8990fb765abf8fd9cd070cc80dc0",
+      "en_sha256": "c80e639e3cb3df202220860a6de386bfd8cca6333206d34fa6e2ac9bd4bfe5de",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_fixed_enemy_buff].content": {
+      "pl": "Stałe wzmocnienia wrogów",
+      "kr_sha256": "55ec43015df7f8ffa2b338271a38b3d90bec2ea645b114a6327f95ea7f465db4",
+      "en_sha256": "4de71263db1a87d1bf61475b4f1362fd1df64e2bbef36879226aa8cba77ea22e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_next_station].content": {
+      "pl": "Następna stacja",
+      "kr_sha256": "6239253b31fd9abc0875f6d529e77e76de7a35d03580e68f45e752e5e8004c59",
+      "en_sha256": "cece2b89e97099d3ea5e75c432f4c8986fec735d287af57d58986711caf76d2e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_no_owned_buff_desc].content": {
+      "pl": "Brak aktywnych wzmocnień.",
+      "kr_sha256": "35d67548aaffab78eefca7788b6c249f0ef06f1cf0a8d3b9286b58a1e0d2e5c3",
+      "en_sha256": "294da8d3caefc8cc928cd19c4ef0c92ef9ee496ae1f3679390cdd12d8afbea2e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_pass_station].content": {
+      "pl": "Bez postoju",
+      "kr_sha256": "1cabe41972069bb82175306bb0b128b6f66b9bdd8c6758d69c54ddb95d07ac9b",
+      "en_sha256": "055ece8af58d5b4c9cef57a7adf1dca951cfee4d749832325c18fa07824811da",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_retry_popup_continue].content": {
+      "pl": "Kontynuuj",
+      "kr_sha256": "98c4d7238697f13b914c10c6e7c89e8cf098b3309e04e1b9274156fd20a35096",
+      "en_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_retry_popup_exit].content": {
+      "pl": "Zakończ",
+      "kr_sha256": "cef77e1bb223fc56e05cc1dabe1d4def3ec9a87ee79ba294e3c0a1705ce3cadc",
+      "en_sha256": "5e3d874cf6d9fc9c0b61268e55ab470e28b7040eee0197b1fb2a9e3df8123004",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_retry_popup_retry].content": {
+      "pl": "Ponów próbę",
+      "kr_sha256": "e84f627ba8ba9ec0f42303c49ef21939fa84bc5267e26f7164e06d744b9193f5",
+      "en_sha256": "df0fe9e00d354b01c502bf2d9c755a2b0d8a1ec3719a389d086ad2f8667ef8f4",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_retry_stage].content": {
+      "pl": "Ponów etap",
+      "kr_sha256": "5b35d3d89a3a6de9cc9154c33e010689adf76383ff9ebdf80a1ea557da74b94d",
+      "en_sha256": "c9410bf1e2633d6dda46dc67015f1992b2e42150ad14017c1d1e5073f8fbf28c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_reward_condition_special_ticket].content": {
+      "pl": "※ Zdobywane za ukończenie Stacji końcowej przy min. <color=#005823>{1}</color> cyklach i w maks. <color=#005823>{0}</color> łącznych turach\nprzed końcem <color=#32434f>Sezonu 2: Reminiscencja</color>",
+      "kr_sha256": "c9c04021da9a3f113249e5db3d760370de2a44c9b65018cb7e11bf698d9878d4",
+      "en_sha256": "2fb745b58cb37385035a15592ef9121ba0caef763dd421e5f58fe3a6b73f348f",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_reward_condition_special_ticket_14].content": {
+      "pl": "※ Zdobywane za ukończenie Stacji końcowej przy min. <color=#005823>{1}</color> cyklach i w maks. <color=#005823>{0}</color> łącznych turach przed końcem <color=#32434f>Sezonu 2: Reminiscencja</color>\n(dotyczy przejazdów rozpoczętych po 15.09.2023 20:15 KST)",
+      "kr_sha256": "519182423533512a4c245aa2b53845a16c5a3327444f5b265a5c2e69b24de555",
+      "en_sha256": "cb05a25a772b6a87f27ef0d02b1aa2529b8dff9124e97442c9499c49be57ed2a",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_rotation_count].content": {
+      "pl": "(liczba cykli: {0})",
+      "kr_sha256": "28b5711e7aa9e9472e4d4ea7a09a19efd649a47aca7fcae3ae79b9ea6fe190f5",
+      "en_sha256": "b4f91b706f762410a29f4901c2310a734d55fcc29f1e06d81df09f37bad3bcf4",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_rotation_count_short].content": {
+      "pl": "Cykle: {0}",
+      "kr_sha256": "40700bed8b56ffa05e15a21d51d9c442d78f81dfac6e482e8d48981b31a912b5",
+      "en_sha256": "604dc8d9350349debe27da0fe679501a895ae2c8fce087b9b701b17c9f6c084e",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_rotation_node].content": {
+      "pl": "Cykl",
+      "kr_sha256": "f16e733fcdca8685bc98265e29c79191e9f336ec1b9391d271541d6769d9dd0d",
+      "en_sha256": "518653530449cca8e2fb27b7d3c3d3c10394feac2cfa74769e6c125206477d81",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_select_ally_buff].content": {
+      "pl": "Wybierz wzmocnienie sojuszników",
+      "kr_sha256": "bea44a8e371437c85b9058f7b00d8aeb6c0788e9b9d1323feb361333e18a0a18",
+      "en_sha256": "c9b84c4f1933dded24a71217dafd16452beaf4aa2da2bbd2e0472aafe62ee999",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_select_buff_popup_title].content": {
+      "pl": "Wybór wzmocnień",
+      "kr_sha256": "1512c0a2696cfadec2aeae44d19721fc97a9883f17b21f42b8ded55224f995b2",
+      "en_sha256": "bf0d52e717c75cc2fd2ff7de5cadef4e2382556adb4c17bffa550cb86668eb7c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_select_enemy_buff].content": {
+      "pl": "Wybierz wzmocnienie wrogów",
+      "kr_sha256": "3dc998d0ab8b640407048d7097758d87386dc7e874932fda9f2bfdaea9995d39",
+      "en_sha256": "b4794efcad41977e5a487a9cd04e9fc59682171bd9ea9b84df8736ec5866f0b0",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_select_resurrect].content": {
+      "pl": "Wybierz Tożsamość do wskrzeszenia",
+      "kr_sha256": "b178b0f106080750b325d3f107ae4b653e76a9c9cf679d8a16c15e6e7f9c1f3f",
+      "en_sha256": "629354ed9d89be79179d127e605e506e8b6606396f15f6065e9764d1c191b55b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_special_reward_title].content": {
+      "pl": "Nagrody specjalne",
+      "kr_sha256": "5d006f5f1c013507623b731298144fff4af9e13bb3daeb67bcdeb182d3a67c79",
+      "en_sha256": "6155181fb0289429dbae3ab2a563d3e8f23c9994d61247b97237c986ef588006",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_2_turn_count_short].content": {
+      "pl": "Tury: {0}",
+      "kr_sha256": "5205a5f3bd34373ff162a5483444bd66886373b6526d928d6b82035d95bae1de",
+      "en_sha256": "18225ca92c2f502ca8fe2e6afb5266a4bf3bc878d1b1e93d819101f2d3865c86",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_alarm_buff_no_one_select_for_heal].content": {
+      "pl": "Brak Tożsamości do uleczenia",
+      "kr_sha256": "67e27b9fa1a90f6e6ad5a20666820cbaf4bbd86e4d2df69a222442b99364550e",
+      "en_sha256": "2081f98dafca0b8753e21d9efecc031683101e0f0a35f8d8069b24f4823b7dce",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_alarm_buff_no_one_select_for_resurrect].content": {
+      "pl": "Brak Tożsamości do wskrzeszenia",
+      "kr_sha256": "218809cd8b95584283cb00e3488bcad599370c9ed145ece46df076d2f560e739",
+      "en_sha256": "985d706d32cb55e19ca4d3f648169e7199da34f79f955e516598c4f6d6bb35e4",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_ask_to_select_buff_and_rotate].content": {
+      "pl": "Przejść trasą na <color=#0f7137>Stację początkową</color>?\n\n<size=90%>Zwiększy to liczbę cykli i pozwoli wybrać\npo jednym <color=#0f7137>wzmocnieniu sojuszników</color> oraz <color=#990000>wzmocnieniu wrogów</color>.</size>",
+      "kr_sha256": "eab185e6af2768e11f4a3fd93f39a4531b406e39d7d304d587b96a26ffd63e0b",
+      "en_sha256": "e5dfe5b12304c6d51f7426e0ff26d62187591012ecb3dd158b241fd33c6e1799",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_cumulative_turn_count].content": {
+      "pl": "Łączna liczba tur",
+      "kr_sha256": "23492556fe9eb3fc580441ea2d6c3fbfb889e3f057f3c304973ffe1fc5facc65",
+      "en_sha256": "0bf2f409d596825f33ef8cd4a083610f6e971edac0a39d53dc8c4f1b965f50e1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_current_rotation_count_title].content": {
+      "pl": "Bieżąca liczba cykli:",
+      "kr_sha256": "a39e40119208bb67094b629fcd38fdd5a5c6b81246c09b50c7aa154aa6e2a94f",
+      "en_sha256": "d3dfe56cbc2bd66c5ee03820da90b8d780e6621197e890d82a7993ceea1a6eb1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_healable].content": {
+      "pl": "Można uleczyć",
+      "kr_sha256": "11d5e43833c18a8be2f6313927ca60e63f5549763ab297c792ec922e09afc9e3",
+      "en_sha256": "0dea75663d1bb216a9f7f0a4f7d077f7aa5cd1841646de0bee955d312bfec92c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_resurrectable].content": {
+      "pl": "Można wskrzesić",
+      "kr_sha256": "6c5783e941e3258b6f4d04ebbd1c85b8102bddf7defb0105e2bde4939b873116",
+      "en_sha256": "2d8f5b8defae7b77012d4ac7834f3cffb33a2d5d4ac6a59cfdc8b8bc654c12bd",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_rotation_count].content": {
+      "pl": "Liczba cykli",
+      "kr_sha256": "c6121404adafeb193e6159047e04ba3a6badbcc7e72e74dc633690e224a3ffd6",
+      "en_sha256": "912cc1c26ec9a48e7f37dc9f08fcd40d212bce8e34f3da54e8ec21ea4d6214c4",
+      "origin": "ai"
+    }
+  }
+}

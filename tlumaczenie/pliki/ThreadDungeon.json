@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=10].name": {
+      "pl": "Wróżkowy Dżentelmen",
+      "kr_sha256": "e23e5a9a7e2c1c1d68583f7f74a8a123325ae1fc90cc99cbe0c86f75d7b1b0f0",
+      "en_sha256": "9e73cfce0aad0c0e914038930f9d254c361d6e551c16a7797e29a2293f8535b8",
+      "origin": "ai"
+    },
+    "dataList[id=11].name": {
+      "pl": "Długonoga Wróżka",
+      "kr_sha256": "3f9fdc150789304a9c321e502144e7f271541222a769fdd130571b5f204cfd20",
+      "en_sha256": "a7430a50b0b5cb78f5cc5503028f7e61f6df160ad67db8d5b58152bf2def9804",
+      "origin": "ai"
+    },
+    "dataList[id=12].name": {
+      "pl": "Spiżowy Byk — Łzawiący",
+      "kr_sha256": "1c5404374e42d495151949e75d4b56fca0555a5ee1f7f915e30087ffc610925c",
+      "en_sha256": "6074430456a3f06815d5d23e7a71bc47e108fc2523d05c13c5733d2744b8cca2",
+      "origin": "ai"
+    },
+    "dataList[id=13].name": {
+      "pl": "kqe-1j-23",
+      "kr_sha256": "96369d123d0b490b069f3b4780e2f95328a77fee5ca39d26ca360f158f6ddf5c",
+      "en_sha256": "96369d123d0b490b069f3b4780e2f95328a77fee5ca39d26ca360f158f6ddf5c",
+      "origin": "ai"
+    },
+    "dataList[id=14].name": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=15].name": {
+      "pl": "Łowca Róż",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=16].name": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=17].name": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=18].name": {
+      "pl": "Zbłąkany Pasażer",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=19].name": {
+      "pl": "Ćma Szkarłatnego Płomienia",
+      "kr_sha256": "e62537de8100f88a4a00a3df455754b4cc28d307f814c5f56a08fb201f26204e",
+      "en_sha256": "90d6003c546111f17f336276bf94abb5ee1edc2c92b00cfa9e70eec1e0e94a8f",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Jabłko Hebanowej Królowej",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=20].name": {
+      "pl": "Jabłko Hebanowej Królowej",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=21].name": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Bezgłowy Ichtis",
+      "kr_sha256": "b4f6872f9cd092e6b1d3a3099cd7b873be9d5292431fea651a91b11291e45047",
+      "en_sha256": "a8fa217d2974000b703cfab2e142f009e2d799d6a9abebdbbc2d292307c9f24b",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Pies Stróżujący Zaułków",
+      "kr_sha256": "c4f0cb1fa9dbfc6198496adb1e4756fc86484268658a0eeaf69b070e3b2760b3",
+      "en_sha256": "c80a0ef10c8fb477b5ac1b5cfe46e25ae2119d761a3158d3a93536388b64ce7a",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Chcesz oberwać? Mocno?",
+      "kr_sha256": "3c1e371850d6a8d1196513697733e52bee6a7027f1eacbd43549213a832bd395",
+      "en_sha256": "b8f1af451626169eb310f17b346c6ef536ce91eb00d2af56c951515d60a1998f",
+      "origin": "ai"
+    },
+    "dataList[id=6].name": {
+      "pl": "Urzekające Różowe Buciki",
+      "kr_sha256": "16e8175839f6cd1afa8cc6f496c54f36531e36deaacf40672aefc1e8d98f28f3",
+      "en_sha256": "2b88953038ca0b2cf34387e3fc7a13eabded5e8d30fc8725917fce16f418db31",
+      "origin": "ai"
+    },
+    "dataList[id=7].name": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "d10b53aad087a34c1e56593081a3d2c627e9c58019a7082c9d3fd21ac14d1584",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=8].name": {
+      "pl": "By Nikt Nie Płakał",
+      "kr_sha256": "2c54ae6796f8f632ca927767e50556d5f7ea02e127cf782f8a6fc4423a34d8c6",
+      "en_sha256": "5b0d4e31944a59cebca590808f82da35e272f3b52ec801ab3aa76c70685b457e",
+      "origin": "ai"
+    },
+    "dataList[id=9].name": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    }
+  }
+}

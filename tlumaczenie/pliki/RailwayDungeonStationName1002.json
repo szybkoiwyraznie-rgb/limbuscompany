@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=1002].nameList[id=0].content": {
+      "pl": "Przed wejściem na Linię 2",
+      "kr_sha256": "560128eede3f6a3d9114da2d0ab19acf77b67385de469000573d452efc145aef",
+      "en_sha256": "189bd04896af6dbec9fe1bf2526ce935358371ca3ef02438406b7fb3d8d5776d",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=0].shortName": {
+      "pl": "Przed wejściem na Linię 2",
+      "kr_sha256": "560128eede3f6a3d9114da2d0ab19acf77b67385de469000573d452efc145aef",
+      "en_sha256": "189bd04896af6dbec9fe1bf2526ce935358371ca3ef02438406b7fb3d8d5776d",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=1].content": {
+      "pl": "Cykl 1: Klątwa–Kierat–Ulewa",
+      "kr_sha256": "3413c301853f8578508106ed80868049330b51c60fa5801c965ab86b46252a7b",
+      "en_sha256": "b75ad5a34101e66d302832c6e9831fd745a9f9b2e016642a6f2f5f8efa0d5ffd",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=1].shortName": {
+      "pl": "Cykl 1",
+      "kr_sha256": "12864012e3864dcda7e91ccdf5bfb90eb6784a46cb5075b3bd4b410a63f00368",
+      "en_sha256": "4188a853a7242858de35493d2af70a02a27c81354b92ef6373a58c8b282c0f67",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=2].content": {
+      "pl": "Cykl 2: Klątwa–Odór–Wyzysk–Kierat",
+      "kr_sha256": "2e2008afa4cc92f863d85ad29c00fc474f806bcce94a6fd9a0ee95ab0c51682a",
+      "en_sha256": "9a2a2f26ed2ac37755e2356cd348834ae304b74fc5e3541b0040520871a9339a",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=2].shortName": {
+      "pl": "Cykl 2",
+      "kr_sha256": "7a41a380ad0d6ed7947712f6a2451e7c7a47dc0c50331f093e7ccb214079f50a",
+      "en_sha256": "4fb13e151148c57f805f443e09194503a6c3af6c6b3175906b43ba8aa115af51",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=3].content": {
+      "pl": "Cykl 3: Klątwa–Zwłoka–Odór–Ulewa",
+      "kr_sha256": "2c8a5bde0cb1b214b7742578da7a89bd9b7ee4b7b2f4aa96424665cbf909a139",
+      "en_sha256": "922c339853ca995a3a04337e921f3882c4957c886a31e53cbaeeb008ee2f8a8a",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=3].shortName": {
+      "pl": "Cykl 3",
+      "kr_sha256": "63f45aa29998c15bb934ccaec311925e988ae57e83d1c95f5f96165741bb08ea",
+      "en_sha256": "182640e42a1675a00233306db4baf7acfa5fdb797045c2f2e1c452d263be9aa6",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=4].content": {
+      "pl": "Cykl 4: Klątwa–Wabik–Odór–Zwłoka–Cykl",
+      "kr_sha256": "907f83033ce19ed2daa535fac65e45b2d2287af9c59069910f45fe2e92c557c7",
+      "en_sha256": "9a9ebcb87877172bd1fdd290a0b557df7d3f4d0e50a0a7e48885613725811840",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=4].shortName": {
+      "pl": "Cykl 4",
+      "kr_sha256": "ba6b6eb7d77b73815be3883f5beecec5e1ae6f1a4378b25ddf89948e82b11ea7",
+      "en_sha256": "f402b3f6068c4c1ad5967dec2ec75b23b4a148344a1173bfac067a12ae4618a0",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=5].content": {
+      "pl": "Ostatni Cykl: Klątwa–Kierat–Ulewa–Zwłoka–Wabik–Wyzysk–Odór–Cykl",
+      "kr_sha256": "7fd1db9a837653d3008e0e122607b0f01b2f501e44c096330851fe334064add9",
+      "en_sha256": "3a1e821c6c8f2798c30d65e8f3b984ef299968e206a6f4bb05196037c73ac604",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=5].shortName": {
+      "pl": "Ostatni Cykl",
+      "kr_sha256": "8b4a72b380147a0a7bb2456c34074735b81d35974f86bdc6f9fa5a68325470d0",
+      "en_sha256": "b51cabe39a1d929bedaa48b2988b9ef2b4eda09e7aaf831f3de135cfc9c375d0",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=6].content": {
+      "pl": "Ostatni Cykl: Klątwa–Kierat–Ulewa–Zwłoka–Wabik–Wyzysk–Odór–Cykl",
+      "kr_sha256": "7fd1db9a837653d3008e0e122607b0f01b2f501e44c096330851fe334064add9",
+      "en_sha256": "3a1e821c6c8f2798c30d65e8f3b984ef299968e206a6f4bb05196037c73ac604",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=6].shortName": {
+      "pl": "Ostatni Cykl",
+      "kr_sha256": "8b4a72b380147a0a7bb2456c34074735b81d35974f86bdc6f9fa5a68325470d0",
+      "en_sha256": "b51cabe39a1d929bedaa48b2988b9ef2b4eda09e7aaf831f3de135cfc9c375d0",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=7].content": {
+      "pl": "Stacja końcowa: Ogród",
+      "kr_sha256": "176ccb64b39f61361a26b71c9c3a73e20d2675c4304e1c377bde0c97edf6c5a8",
+      "en_sha256": "f9cd57862f1aaca95b56176270bde8a72326a6585a1c57139fe170eb9fa0e563",
+      "origin": "ai"
+    },
+    "dataList[id=1002].nameList[id=7].shortName": {
+      "pl": "Stacja końcowa",
+      "kr_sha256": "b499138752f58eca702041911f4515106f3b8990fb765abf8fd9cd070cc80dc0",
+      "en_sha256": "c6284f61ee1924c1bd5c6a44f34fbfbff968f9994084fb2a67e54515ca275653",
+      "origin": "ai"
+    }
+  }
+}

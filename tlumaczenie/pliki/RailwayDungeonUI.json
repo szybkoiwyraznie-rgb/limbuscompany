@@ -1,0 +1,262 @@
+{
+  "entries": {
+    "dataList[id=able_to_acquire_rewards_without_using_enkephalin_module].content": {
+      "pl": "※ Dodatkowe nagrody zdobyte w trakcie wydarzenia można później odbierać w dowolnej chwili bez ponownego zużywania Modułów Enkefaliny.",
+      "kr_sha256": "0c751bc0fa419cf7512db608482271d257dac742b1e5b4fee6080f9b705cae03",
+      "en_sha256": "ebe4848349bf56fd93bf40c7ddd209f993f4f29550730e9359fb90cda85a30e2",
+      "origin": "ai"
+    },
+    "dataList[id=accumulated_records].content": {
+      "pl": "Archiwum przejazdów",
+      "kr_sha256": "40a2e500ab7a0f0b9241ef756beb8a43065d0209b4d845d90b17a37ea5623fba",
+      "en_sha256": "454790b731a31fc088c6dfd31cb7308067f43f541ab83fc4df12f40b3167667d",
+      "origin": "ai"
+    },
+    "dataList[id=accumulated_turn].content": {
+      "pl": "Łączne tury",
+      "kr_sha256": "3fbfb4e79660a4a6368f546f5dc832907658ea2af41b8bada942d8f480747e44",
+      "en_sha256": "0bf2f409d596825f33ef8cd4a083610f6e971edac0a39d53dc8c4f1b965f50e1",
+      "origin": "ai"
+    },
+    "dataList[id=clear_turn].content": {
+      "pl": "Tury ukończenia",
+      "kr_sha256": "c8d185d8f7eec9c062c2cd58716dd3b159ad65c9e1e370cbb8ae2aac46b09384",
+      "en_sha256": "0464dafd7b399fd699da74eb2a435b148bb8cd91ebd9c996b13615e2ff595ae2",
+      "origin": "ai"
+    },
+    "dataList[id=final_accumulated_turn].content": {
+      "pl": "Końcowa liczba tur",
+      "kr_sha256": "56ea939f34eacd45089720b3a18a5377a346bfdb175b5f0e682e8644349aaaab",
+      "en_sha256": "a1151f2193af9f6c85ca186172f45c81154b19c29b540ede75318b4762737759",
+      "origin": "ai"
+    },
+    "dataList[id=final_clear_accumulated_round].content": {
+      "pl": "Końcowa liczba cykli",
+      "kr_sha256": "0095d5023c2f4a3d62f6adec1351d803efd516b280df75f76cab9b27b6c794f9",
+      "en_sha256": "05bd1d266579b8e159559735294c5e2b37c38360befd2d6e7690d3192328e797",
+      "origin": "ai"
+    },
+    "dataList[id=final_clear_accumulated_turn].content": {
+      "pl": "Końcowa łączna liczba tur",
+      "kr_sha256": "dcba2bc76caa35486c5cdcc1bf2927dd2e3b799ee5f0f3711231ed7741ab81fe",
+      "en_sha256": "a1151f2193af9f6c85ca186172f45c81154b19c29b540ede75318b4762737759",
+      "origin": "ai"
+    },
+    "dataList[id=lost_and_found].content": {
+      "pl": "Biuro Rzeczy Znalezionych",
+      "kr_sha256": "8db29c7cf59439f7434c0b4edf362d12e459cc254d2e6ac88f3cc9fd8812b910",
+      "en_sha256": "b9b39c7466af834408b38509368419784487466557996d0888fc25209b23370a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_refraction_railway].content": {
+      "pl": "Kolej Załamania",
+      "kr_sha256": "2a2f9172b7795d19e6445d1822ee181791ea22687d5d8974d79521aa2c7577ff",
+      "en_sha256": "0df76f43cdb9a2602865257e2458cb5f412812bb7c110074163b5f0dea11e2f3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_refraction_railway_with_dungeon_name].content": {
+      "pl": "Kolej Załamania — {0}",
+      "kr_sha256": "0d82c705860ef227d4c1b4383a4a02f3112038293c5c41a59c222808fee40ec1",
+      "en_sha256": "c77bb137f21af9fc5f87ad37b61981b57dd558178cb80216ff8b33ae63eb8a39",
+      "origin": "ai"
+    },
+    "dataList[id=no_more_rewards_remains_desc].content": {
+      "pl": "Brak nagród do odebrania.",
+      "kr_sha256": "b2438db915b6959bc7e879c50deabcd98ab92d3c7247df815c05fa25db80c08f",
+      "en_sha256": "b5d6ae6c9e130e5a3c08d1fedfb82705533222435aaaad24a68331825b9ee5fd",
+      "origin": "ai"
+    },
+    "dataList[id=no_records_description].content": {
+      "pl": "Brak zapisanych przejazdów.",
+      "kr_sha256": "48cd3ee02e18053dbc6e7683b363776f896e0de86a66b492eb257ccf1e803d1e",
+      "en_sha256": "cb26373a9a9e07bd9659d404e387cf0bf44fe7776fbb836f366a3d0510b77011",
+      "origin": "ai"
+    },
+    "dataList[id=open_railway_dungeon_records].content": {
+      "pl": "Pokaż zapis",
+      "kr_sha256": "218043acb2ae213e9355fbd00d8b304be433e37eb0a47b50f7303662d47ce92b",
+      "en_sha256": "ea2100dc89ae9fe21fa9b08ab1bf18662dca1e53a3eebd7d03afebcaf5d57515",
+      "origin": "ai"
+    },
+    "dataList[id=progressing_railway_line].content": {
+      "pl": "Aktualna trasa: {0}",
+      "kr_sha256": "43e53c00b70d150e7b36900ed45edc36370b78ead221738f51c39e053df659c3",
+      "en_sha256": "faab2a8cbc4315dea0c0d6c40db604afd067987a3c93f599272d50aeaa320b86",
+      "origin": "ai"
+    },
+    "dataList[id=railway_clear_date].content": {
+      "pl": "Data zapisu",
+      "kr_sha256": "61af1b233effc03e6630ee79ff179476282e387bd27024e711e11eb7a3b9f07a",
+      "en_sha256": "57ab19d327cfa9f9646bdbe196b5cf18450941d536f864c378a0f53b8765de2b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_clear_turn_count].content": {
+      "pl": "Łączna liczba tur ukończenia",
+      "kr_sha256": "f047a5e368029e388bf7a1b53581bd109015a1bbe018b0b2f6dba75996a172b7",
+      "en_sha256": "bdb7fe1a615d0a414b98e3cebd4b78a9ad62a955d35564c70e5f075a4078c057",
+      "origin": "ai"
+    },
+    "dataList[id=railway_clear_turn_count_by_stage].content": {
+      "pl": "Tury ukończenia wg odcinków",
+      "kr_sha256": "7689c882fd4ab4a6dc0dd410e651611b98127aa3f1b6826377d8875790fa3182",
+      "en_sha256": "148b8d2e6f1e51be73141f74ed14129393879f43ab62cfa1d35c62de22983e28",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1_banner_reward_condition_1].content": {
+      "pl": "Kolej Załamania — ukończ stację {0}",
+      "kr_sha256": "87f3787f8d2a4dfcaff8cd441dbfe3808d0565d453e8caa4353426f9a51e49c6",
+      "en_sha256": "17d068c864ff138de56b944b7df90c9795ff4be172ba1364ac740077e09e28d1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1_banner_reward_condition_2].content": {
+      "pl": "Kolej Załamania — ukończ stację {0} w maks. {1} łącznych turach",
+      "kr_sha256": "0eba61b56a9baa71b659ac050a943b4eabfa21abb6bdd40c677a126ddc720b06",
+      "en_sha256": "db692969ef17c9d572e8478a43cb2700e56b0e1e683e3ef713c32683e00a92e1",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_1_banner_reward_condition_3].content": {
+      "pl": "(Spełnij powyższy warunek przed {0})",
+      "kr_sha256": "87fa02acab92a8611c541a71e68fd9b325ed4423a88f5e90d5ba0088bf1aabe9",
+      "en_sha256": "154684c355a86e8a17da075ac53e92f662090690ad468606d60efd85ce945cf5",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_ask_for_re_enter].content": {
+      "pl": "Trwa przejazd na etapie <color=#990000>{0}-{1}</color>.\nKontynuować?",
+      "kr_sha256": "b246d4a8598890458b17e7bb495246f84d63eaae6d4602e89d3d12b84d1d089d",
+      "en_sha256": "f2e4ee7f1514188324d6c37a9201b18d0aa2340babf9bcdb20b45c2730d5e7dd",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_ask_stop_desc].content": {
+      "pl": "Przerwać wyprawę Koleją Załamania?",
+      "kr_sha256": "6a5f919b17a05a0e726d03fa84265ba26f653c525efe8e03136b723d838fbcb8",
+      "en_sha256": "77f82fc62f0346fe5a6132a2db8132b74cd65b74d77f54677322c874cd2b4079",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_banner_reward_condition_title].content": {
+      "pl": "Warunki zdobycia sztandaru",
+      "kr_sha256": "0a5c14cb9c347bc79f264b437852ddbdbbc51f29b460a313427e4ca372c3d8a1",
+      "en_sha256": "06479652806cbf1225325d27ffb57afbc4dad5b50a14ab108fda7ebcb05c9988",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_banner_reward_unable_over].content": {
+      "pl": "(Niedostępne po przekroczeniu {0} łącznych tur)",
+      "kr_sha256": "e1172dd3ac1f739707be0088c9f1f9cfe278b0aa708aa44c91aa1eccfaa8ac5e",
+      "en_sha256": "f6ea8efb4ef7db76ba76057490b1b7ce17e6a8e69a9655f9ed9133985b3229c8",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_current_running].content": {
+      "pl": "{0}-{1} w toku",
+      "kr_sha256": "64648abd00d23e6bf6328b18e4e77fbb2da3b8c37450074e7398865a8b366d6f",
+      "en_sha256": "208ea6d5412a991a23f5788589f65e18c79d7e2598b5c0d68d68cc54876fa468",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_current_station].content": {
+      "pl": "{0}",
+      "kr_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73",
+      "en_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_detailed_info].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "d6a8c525cd47a79d05e3e588124ecdebdd6a51e8a471a75da38e2761a11984ed",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_finished_description].content": {
+      "pl": "※ W przypadku równej liczby tur nadpisany zostanie zapis z większą liczbą zgonów,\na jeśli ta również jest identyczna — najstarszy zapis.",
+      "kr_sha256": "54d6050c4bc2b0be00785ece50353693b894bf2019c11f75091e4cb8f2abe00c",
+      "en_sha256": "ecab7d0734fb5915e078212fae7a0203fdc3147e3f3351d76c708a0a3844af68",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_open_duration].content": {
+      "pl": "Okres kursowania",
+      "kr_sha256": "a4cccf75a23941dba58ad4eeae859fbfd676e77121d33bee882e16216180942b",
+      "en_sha256": "02b5df753ed56ca0260981447d9b4f91e57646ce22e12e7dbde6bf00dbbd66ee",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_operation_closed].content": {
+      "pl": "Kursowanie zakończone",
+      "kr_sha256": "1325307817267a22d6bccddf3bfe92c21ef8b374ab5337e3f24af9e3d584669d",
+      "en_sha256": "7776c53bae3b585f49ca74f910c8682d4605441c4188c0aebf9cf97d3778573b",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_resume_operation].content": {
+      "pl": "Wznów przejazd",
+      "kr_sha256": "0a7983eb0c2cd479d085efc9c709a0c031f05b9d18957bbd93c52e1487da19a1",
+      "en_sha256": "2945da9d24b602445c2e2b1343b451153b8d58ff1ebfcf98b1680f1747a51739",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_route_map].content": {
+      "pl": "Schemat trasy",
+      "kr_sha256": "60b1f3208602f78b2f33fe155e3e87a2f66ecc63998152c2dd671c1c1ad7f92e",
+      "en_sha256": "4c5f0ae84dd8c80bdbbf87495c6a66e93c07c073f6bc2d68ac40532b5864b9a7",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_station_info].content": {
+      "pl": "Informacje o linii",
+      "kr_sha256": "73bc2961509ee50e3280456cd9293941eb67a4e590f6fba83dfb57c718ae70ed",
+      "en_sha256": "f35c73f6e6cd6c090119ff855ffff1308ee783675a13d3e1bdb0f47bd01d68ed",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_stop_operation].content": {
+      "pl": "Zakończ przejazd",
+      "kr_sha256": "8f5ddd8ed39101f93eac38ff430ea9ae9513ac75a82779b2b664dd491aaa845f",
+      "en_sha256": "aebd1b10afb3f701e3b4443e021103c3743c5e7bcc9258ebe4287a40213b7e0c",
+      "origin": "ai"
+    },
+    "dataList[id=railway_dungeon_try_last_node].content": {
+      "pl": "Po wejściu na Stację końcową nie można wrócić do poprzednich stacji.\n\nWejść na Stację końcową?",
+      "kr_sha256": "c0daf115bd5322834bd6b0b5dd6a27366553db9a54b9a7be40a01a8307fd6f7f",
+      "en_sha256": "c60ee8e15dc4e7373d2e1d6b1bf5bfbe88c9258af22c34d674619a7599c56920",
+      "origin": "ai"
+    },
+    "dataList[id=railway_line].content": {
+      "pl": "Linia {0}",
+      "kr_sha256": "bb8b50e209449c812df91b92775bc98f50048ef7874c3f5c4a31c6642110f486",
+      "en_sha256": "12fef34f020dda4f6a0729e9c314b005c62ca63488e491c64e69aa87f3b76380",
+      "origin": "ai"
+    },
+    "dataList[id=rank_with_number].content": {
+      "pl": "Miejsce #{0}",
+      "kr_sha256": "172f69c6aca7613dc7375a1e5bcbbd7300d64c1a0e3916716904bd7979d19e36",
+      "en_sha256": "1d1f2f3c43d7e226988ee3777ede06e1c7207d5fb5b0eaae139a2671fad682b0",
+      "origin": "ai"
+    },
+    "dataList[id=recover_after_resting_battle].content": {
+      "pl": "Odpoczynek w tej walce\nresetuje stan\ni w pełni leczy PŻ",
+      "kr_sha256": "3fdb874597ef6133c904fb9a51f0cdf826ce1fd732617838284c68ec84c7119d",
+      "en_sha256": "a99233a4e8c77c7aa3a9e77dd79032ed78b4f9e2f1a80246cd2118bfcc61a5d4",
+      "origin": "ai"
+    },
+    "dataList[id=reward_after_clear].content": {
+      "pl": "Nagrody za ukończenie",
+      "kr_sha256": "52d695abb21db49ea1fe276377686299ad8f459a319e4b8748a3ecbb5cfd6d30",
+      "en_sha256": "d6b2f365e6630c9c9d3d13c0f50429bfacc273059ed88e9321fa0f1241a46caf",
+      "origin": "ai"
+    },
+    "dataList[id=select_railway_line].content": {
+      "pl": "Wybierz linię",
+      "kr_sha256": "93e7faa351ced7c7827ac5d306fc7bba58a2dc0616b96278816e03f0053389c6",
+      "en_sha256": "fb56be7858d577d5f2f3d3e0b9a9f78ded83cf4dc444100e4c9531802fede82d",
+      "origin": "ai"
+    },
+    "dataList[id=stage_info].content": {
+      "pl": "Informacje o stacji",
+      "kr_sha256": "58f35bdbe845cb7459715cac5d7b31119ed82474bf2b70cb2655a6bafbc191bb",
+      "en_sha256": "7e8f4374604f8304e1ad78dad53d880108210714eac898d905b31a3fac575772",
+      "origin": "ai"
+    },
+    "dataList[id=stage_number].content": {
+      "pl": "Stacja {0}",
+      "kr_sha256": "62c6d21209c7d05c21dc888f4827a9ad9b9df669af267b3f8845ad03aa36cec3",
+      "en_sha256": "0f87976c5c3e44ee3ddbb767d8c7b9f964a4a80a59443d69794f31d10cde773e",
+      "origin": "ai"
+    },
+    "dataList[id=use_enkephalin_module_to_acquire_rewards].content": {
+      "pl": "Wydać <color=#990000>{0} Modułów Enkefaliny</color>,\naby odebrać nagrody?",
+      "kr_sha256": "e1b1ec41e98773b0c313b704be3c0a4f63ca172d12ee54f92b9c06b0d2145dc8",
+      "en_sha256": "83b50abf34c1bc6312411ba362acc5885ed6b5e8a47fe905f7286eaf55b0a919",
+      "origin": "ai"
+    }
+  }
+}

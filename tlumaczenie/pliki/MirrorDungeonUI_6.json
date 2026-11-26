@@ -1,0 +1,784 @@
+{
+  "entries": {
+    "dataList[id=InfinityFloor_Extreme_CheckEnter_Modal_Desc].content": {
+      "pl": "Możesz dodatkowo włączyć tryb EXTREME.\n\nAktywować tryb EXTREME\ni przejść na następne piętro?",
+      "kr_sha256": "d6127699e846988cc5428670e189ad531499518f6d35b35e7a614531c0be6860",
+      "en_sha256": "b0815fc377525ec5dd5d006e0ac0af9ecc53f6a7f2a3558e8d323643ee1d93aa",
+      "origin": "ai"
+    },
+    "dataList[id=InfinityFloor_Extreme_CheckEnter_Modal_Title].content": {
+      "pl": "Superpozycja Równoległa EXTREME",
+      "kr_sha256": "3e556f6e15bfa4d8a5464b37ee6327d76f107dd569a1d890cf25575946626817",
+      "en_sha256": "66933f7094872a52ea945f7f88caed2005088529c8b714a5fb56e924f288b646",
+      "origin": "ai"
+    },
+    "dataList[id=combineUI_enableStarlight].content": {
+      "pl": "Wypowiedz życzenie",
+      "kr_sha256": "6d15be7792d5ffe07f492dce12d036561e2792e45d9f13aff60346715b39e598",
+      "en_sha256": "458b66aad30287945efa5044641e4ef093f0d0d69af91c9c6a5e4d3107cfe9d3",
+      "origin": "ai"
+    },
+    "dataList[id=combineUI_enableStarlight_confirm_desc].content": {
+      "pl": "Wydać 5 Gwiezdnego Blasku, aby zwiększyć szansę Syntezy?",
+      "kr_sha256": "6022413a62085c9a8e8f9c007bacdf5fc3cd7316468e2cd64bf2872bc9f1f46d",
+      "en_sha256": "bddcdafd9d09ff45f695baf630c33e1a466c4dbc76fe7f71df54780eecade2b8",
+      "origin": "ai"
+    },
+    "dataList[id=combine_egogift_not_allow].content": {
+      "pl": "Niedostępny",
+      "kr_sha256": "49e86c3288d491e77bb29e4845967e5b3fc9fcae2b6cd4467e16be2a5885a30d",
+      "en_sha256": "3e2ee4e5969b595a75699cd2946a4d56044653f5b608096157adbe2841b4b8e9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_cleared_floor_count_over_6].content": {
+      "pl": "Piętra ukończone w Superpozycji Równoległej",
+      "kr_sha256": "f15cab82ca4bd1ebef78a7abdab1d92451dcef57c4f0a7a619d9fa6ba80b8359",
+      "en_sha256": "166ca996e6630f22b0f00503b973ff9ceda9da21d60222aa38c4114bd202ae35",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_cleared_railway_theme_pack_count].content": {
+      "pl": "Ukończone pakiety Kolei Załamania",
+      "kr_sha256": "738533a335869618db67ad0b49aa5b9671bd75ee5554a24826e37748cca6c7e5",
+      "en_sha256": "6e552e52643cfce8fad57f7de2081c92ef306f8929d67e08cf7774538661dae0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_constrain_buff].content": {
+      "pl": "Utrudnienia",
+      "kr_sha256": "b592d4c88961bc1eb1183490e4bdd82f0748bd6458e4ccf8ee498f9d383e4491",
+      "en_sha256": "70eb7abbe61369dca1fee34b9c269aac65155703f7506cbf313c07dc995fe1dc",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_constraint_button].content": {
+      "pl": "Wyzwanie",
+      "kr_sha256": "c2a235ade830219fb74c743a4481d3e23076a88dc451af91f50cd5ac0e0732ff",
+      "en_sha256": "27cf1792f7bb4da955117bb4a15cb33f4e4705984cacfac9055a2884b061e4e1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_accept_desc].content": {
+      "pl": "Zachowuje bieżący wynik walki (w tym poległych Grzeszników) i wraca do ekranu wejścia na etap.",
+      "kr_sha256": "704f0ab4f3941bb6dcc57ca30259be16d4b8d0ef8a17587143d86d17c98b10c5",
+      "en_sha256": "797726ee7ecd3a0f7955b74d5c5780657178c7ee566948892eba218350ebf05b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_accept_title].content": {
+      "pl": "Zapisz wynik i wróć do ekranu etapu",
+      "kr_sha256": "7f5bbd3fffe061be55c34204d6d41ce1cd92e547b54f2137e1aec1c23e12820b",
+      "en_sha256": "cb2b839b87361e68315f26bf86f8b511e14730e1b3f0a5cee3a1b0767858eb68",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_current_floor].content": {
+      "pl": "Bieżące piętro",
+      "kr_sha256": "611b694ed957e053d28ccfc8b2ecc452d553159242be3f933655077a5152b21d",
+      "en_sha256": "25c5b79f255f51a7a673117cfe137c6ed9c4f2b581f54c4df16c46577c416c02",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_desc].content": {
+      "pl": "Wszyscy Grzesznicy biorący udział w walce polegli.",
+      "kr_sha256": "80238968e3c4412cd244081ff73cb3d282b4e85ed73e0a5c76fc21a96eef1535",
+      "en_sha256": "717edf5a7cfdd7502499b729bb5b54b880f890f967fdc69216bcaa93857b8742",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_remain_unit_desc].content": {
+      "pl": "Pozostali uczestnicy:",
+      "kr_sha256": "10bfd358324ee59c1de7060df105d11c237f1b59b8c4413e85a891795059b153",
+      "en_sha256": "92951ad92462078865fb74a2289d4c15ce95675d916e50bf230bbb377b11f8d9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_retry_desc].content": {
+      "pl": "Ponawia etap od pierwszej fali.\nKolejność wystawienia wybrana w oknie składu zostaje zachowana.",
+      "kr_sha256": "be3e32ab2c577c3860ea0d8c8efbd825b656bb7d581f052a585ecd0ca9111121",
+      "en_sha256": "9b5d4e7ff835bca9a14b910117c845b44f595b5536163a2f30be721c0f298d5b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_retry_title].content": {
+      "pl": "Ponów etap",
+      "kr_sha256": "5b35d3d89a3a6de9cc9154c33e010689adf76383ff9ebdf80a1ea557da74b94d",
+      "en_sha256": "c9410bf1e2633d6dda46dc67015f1992b2e42150ad14017c1d1e5073f8fbf28c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_return_desc].content": {
+      "pl": "Powrót do ekranu wejścia na etap.\nMożesz ponownie ustawić kolejność wystawienia.",
+      "kr_sha256": "24274b993afabe7e8ec52513f7f7e10000b3ee6c497793057863b79c55aa120e",
+      "en_sha256": "da4f1ef065bb3f98025d0af94ca0bb2306b6f55ba096900b336bf5a27b1c0d36",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_after_defeat_return_title].content": {
+      "pl": "Wróć do ekranu wejścia na etap",
+      "kr_sha256": "a44655450cb41f76082620048251144ce685439058b25d40b5892405d911e199",
+      "en_sha256": "190587c901b972af087d46d2e2cc3a3b3724d4cd7dcd701e25672b37ca9c214a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_confirm_ego_gift_observation].content": {
+      "pl": "Wydać {0} Gwiezdnego Blasku, aby przeprowadzić Obserwację Darów E.G.O?",
+      "kr_sha256": "e26a6fd066db11ca94064c6593fbb1fcc4016cef69d217f491fff90166c69e08",
+      "en_sha256": "d27452e8e6c60273d3c8b68f0d6316ab5daa90226d26809243186aa4910cc533",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ask_give_up_ego_gift_observation].content": {
+      "pl": "Pominąć Obserwację Darów E.G.O?",
+      "kr_sha256": "d82468fb76b40480d90d6dae9fb489314e314489d753a6fa6d2b37ea0ac31854",
+      "en_sha256": "387bac3db1755646aad1210c3488082616c64caa674e2998aa3c6b1ff9f5b671",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_auto_participate_order_adjustment_notice].content": {
+      "pl": "Kolejność wystawienia została przywrócona po wskrzeszeniu sojuszników",
+      "kr_sha256": "62c4acaccaa0bb915d8aaa285fb947448f194b8df886ae4885f9e7cc8b198c30",
+      "en_sha256": "bd4dd8b75d58bc4478748673e7ba458fb6dfa0761e77edf3b25e540542fba3a1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_available_starlight].content": {
+      "pl": "Dostępne",
+      "kr_sha256": "cc8139c27894ec91591539901563a8f93831d0bd7c8c4d790835c05262296e65",
+      "en_sha256": "e674447337e83c1346f6122ed69f35bf5526e2a11842b2f2b788f3fb67d714ca",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_button].content": {
+      "pl": "Obserwacja Pakietów",
+      "kr_sha256": "e20cecd05bd1d4c9dd69bc0685c788fbe8ae2fc6a5346cca01e37103cfa808f3",
+      "en_sha256": "073969662ccb5ac2cd6181cba1a0f5dc9883c846c44067661bfdb81338327fa6",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_comfirm_modal_desc_format].content": {
+      "pl": "Pakiet Tematyczny „{0}” zostanie zastąpiony pakietem „{1}”.",
+      "kr_sha256": "abd0eefb274a97dd2f61d7362b12708e67316c571990a3a54ac73499fcce33a0",
+      "en_sha256": "5714a01d4fdce2bc23d880c5cef6350a745a52093de1e29ce634cb1558dfa8d8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_list_popup_title_format].content": {
+      "pl": "Obserwacja Pakietów Tematycznych — {0}. piętro",
+      "kr_sha256": "e2abb00b47531f9e4a85d7c3382edb5cdf3f59174b3a48ccf0784468792e64c1",
+      "en_sha256": "2152875f20046314dba87aeb0fe08f73a9c42c88ea08e27e1ef209fee5956b88",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_not_enough_point].content": {
+      "pl": "Za mało Gwiezdnego Blasku do Obserwacji Pakietów Tematycznych.",
+      "kr_sha256": "3f782f63d844b03edb8fc2aaaf94f9bc675ea56722f288fd0a4bb089e255aa27",
+      "en_sha256": "e1e69fd85d0628676c201c9593a80df5f0b88c954fb66cb74f8d3ddd842b68bd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_side_popup_already_in_pool].content": {
+      "pl": "Ten Pakiet Tematyczny znajduje się już na liście.",
+      "kr_sha256": "00718b7a0714a2135714a695c6a23e02785c0536fde4f0cdbaad8246569e753f",
+      "en_sha256": "1aa1983609cd7a603f316099054508480f8caa5d42e5a7629f8c21ff0f79aef1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_1].content": {
+      "pl": "Ten Pakiet Tematyczny wymaga spełnienia warunków odblokowania.",
+      "kr_sha256": "067137b7cb2d67defba6c607900f38182c5b2395aa15b5aa19dda56aac43bbb3",
+      "en_sha256": "4b94b8ca5036423d07a08dfa3b925ec3429888765722b3dba7b4ce8e3a3f1f65",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_2_format].content": {
+      "pl": "Pakiet dostępny po spełnieniu warunku odblokowania: ukończ Canto {0}.",
+      "kr_sha256": "4a184dcb5814ec4806f586e5c448fa88fab3acf2d9926d1ad70604e58f6408b3",
+      "en_sha256": "1f88c47363c319ddc545253667dc7c8f773d29b1860b44224bf7e9a4376e061d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_detect_theme_pack_side_popup_passed_pack].content": {
+      "pl": "Ten Pakiet Tematyczny został już wybrany na wcześniejszym piętrze.",
+      "kr_sha256": "1672a768521f45d49a480a16f23f954c344f44131230ddb8e261391b9b765e45",
+      "en_sha256": "3348a1f15858f12ce0cdd7e02f06cfff2ace5801452d87762d2aa1b24edb52c8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_not_selected_startBuff].content": {
+      "pl": "Nie wybrano Błogosławieństw Gwiazd",
+      "kr_sha256": "d0eabe27016ece1ca6cb68f11f1cb61b866a618271e03a583e01f4a64cca9a8a",
+      "en_sha256": "33a8009f647e4dbe4729bbb9c12b0856b2a6bd0185be02dbee1a4d9fd0b608fe",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_preview_version_confirm_button].content": {
+      "pl": "Zamknij",
+      "kr_sha256": "1e8c10206f5b35bd96122e14038b5afd38e326a758874332b3931d6db9b25259",
+      "en_sha256": "7d9eb7acb13e24625c404401d8e88b2350e32162455885f18276cf802f7701ed",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_preview_version_last_sector_label].content": {
+      "pl": "Bieżący obszar",
+      "kr_sha256": "20f91b0c992bfdd8ec33d9703860e39a2b0a556973784eb56db65602ac57a4ad",
+      "en_sha256": "f8a3a9d42b4e34d53621008521148447cd0dd57d736cf6579fd0fe3930a06d37",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_preview_version_progress_percent_label].content": {
+      "pl": "Bieżący postęp",
+      "kr_sha256": "ae71fca28a73bf95f65a089cc1a4f12335ee5fccc778726d88b56d44f3d4f4c4",
+      "en_sha256": "957642f3910d86f904d79230bc574f36cc75050eb0142f972b40b1ccd8a24937",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_preview_version_title].content": {
+      "pl": "Wyprawa w toku",
+      "kr_sha256": "9774bb28d1e2e8acd04a80d8be8abea8d1230e85b49a0c72283e8ed8e8dfeb9d",
+      "en_sha256": "39c32394761c042bafddebed718e62ebeaa15c090f7ab5ec3f30038a04f8fc5f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_selected_startBuff].content": {
+      "pl": "Wybrane Błogosławieństwa Gwiazd",
+      "kr_sha256": "9185d68415b30ad703ca259574b39827744f514f100146c43eb25dac67f52c60",
+      "en_sha256": "23fdf4c01c9445e8816b848d29c4857b911f800eb2b0c0d7dbb7bc5b2051789e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hidden_stage_description].content": {
+      "pl": "Po wejściu\nnie będzie można opuścić tego etapu\naż do ukończenia walki.\n\nWejść mimo to?\n※ Po ukończeniu wszyscy polegli sojusznicy zostaną wskrzeszeni, a cała drużyna w pełni uleczona.",
+      "kr_sha256": "bcf6a56d14efb9fd9f959a7c547d503555f8f53a313bb304e5e3c096e6e77741",
+      "en_sha256": "1957800cb50610fcd9dd72a5b31cf96b9214dfb11471edd5663b35ebda6e92e5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hidden_stage_title].content": {
+      "pl": "Strefa Odwrócenia Wymiaru — UWAGA: BŁĄD POZNAWCZY",
+      "kr_sha256": "3649b7b21442558c2b643dde22684d6e6ed6519bec9e9cd1630c2ed10bb33f73",
+      "en_sha256": "61dd3113cadd521ee7e3d21387ff3759f6089da610d6ad591557715c668a6c58",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_observation_filter_reset].content": {
+      "pl": "Resetuj",
+      "kr_sha256": "893f3d9463683c71bf5eeca6a25c54fac365b5dbd5d7b69bbc0f5e82f5f72c70",
+      "en_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_option_participation_modification].content": {
+      "pl": "Automatyczne przywracanie kolejności składu w Lustrzanych Lochach",
+      "kr_sha256": "5834039ffbef5c8ea77088f30d56d66edd0684b2d657a7792e5441d3d20742e0",
+      "en_sha256": "87a113b1faa81543206f81d56f7c9bf5f9b5018e7a67243e35bb3c5ede42d79c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_popup_reward_preview_button].content": {
+      "pl": "Stan wyprawy",
+      "kr_sha256": "b0f62316e860ff3ce3a1efeda633003598091edbe74c1309c068beb079472904",
+      "en_sha256": "4664827f8e89019280ba99cd889f9ea31eaeecf6fc1bb7541c4a0e546685599f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_6].content": {
+      "pl": "Lustro Nieśmiertelności — {0}. piętro",
+      "kr_sha256": "ad67022e6a812d3d2cc327bff03debacf438ab1678adb64e5eb79ee3e1ed2e40",
+      "en_sha256": "ef3d236639a2f030bf9ae4fe3200a4d4009311ea003a1d20e532775a9e4ea2ba",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_revive_after_hidden_boss_alarm].content": {
+      "pl": "Wskrzeszono poległych sojuszników i uleczono całą drużynę",
+      "kr_sha256": "d165ba3c2008e36a9eb20456c0a6ac280da875c2af8414cb133f4e9b14fd20ba",
+      "en_sha256": "0a7c7321b9301bbcafcec27032380dbddd6761727937f2e230d23cdf0116572f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_reward_popup_exp_limit].content": {
+      "pl": "Tygodniowy limit Stopnia Projekcji",
+      "kr_sha256": "710c9c75b42c44cc008f9c05f361796e40ce89adb97548fb16a579ec9600bbb4",
+      "en_sha256": "8c0ad26d1fad229d01f29d6db048a4f9f434dea3b07c6c01886e491b13fdff03",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_reward_popup_mirror_pass_exp].content": {
+      "pl": "Stopień Projekcji",
+      "kr_sha256": "379b817bf453f035777814d36194d978d43696709657c1d7c6244519637649ae",
+      "en_sha256": "83edfd2ec2362b1f86b71d0cd008fa47e921e1bedda57aca2122b15204f6a89b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_select_constraint_accumulated_score].content": {
+      "pl": "Łączne punkty Utrudnień",
+      "kr_sha256": "c58d5b3ad96db7209b501ccfedeacd37e3894f73713476ff6644881ef7ec153b",
+      "en_sha256": "6836b04fb0e21b12648d608e723e34cbcba3d132f7ab2b6eee06e07d4f10dc4c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_Panel_title_md6].content": {
+      "pl": "Błogosławieństwo Nieśmiertelnej Gwiazdy",
+      "kr_sha256": "0f1e0330041fdcafcca807a081597c8679af6f50daf9b296140c39a8994ec9f9",
+      "en_sha256": "d890a95d4a8b20cca8ca2c51172f170cd886cb656ebf73172bcbb62bda8a93b0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_card_enhancement].content": {
+      "pl": "Ulepsz",
+      "kr_sha256": "5384b3b94d8db8936c6314e0b9c220e23e9ae9455ecb3295ee3c1e0d9d1715e4",
+      "en_sha256": "a91c19f549360567fcc16f614789919066a9c0883084d75d4ad376061b9dd09b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_battle_pass_exp_label_name_format].content": {
+      "pl": "Przepustka Bitewna Sezonu {0}",
+      "kr_sha256": "2aaa537ef5cbbc0683f7288f731dedc39a72f014c482e1c663c9a110eee21589",
+      "en_sha256": "47822c6cd160b37139cbc92f2b78bdfaf2359f6b1d1805dff7d267f8c400495f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_constraint_bonus_starlight].content": {
+      "pl": "Premia za Utrudnienia",
+      "kr_sha256": "dbe3eb8e04add2fef36b53afc3335cd19c57d9055c557457062c5d8371bf7012",
+      "en_sha256": "a90a4b4fe490eed989b818cfe7e250a5ed5bfed1e5e231bfb437affe531c231c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_constraint_bonus_starlight_tooltip_desc].content": {
+      "pl": "Punkty Utrudnień",
+      "kr_sha256": "5de34c1ee1efcc1fdd6b8a70f4286a55e63da12376ea2d4b769282eebc833ac4",
+      "en_sha256": "cacd065eb0f53be1cea0eb6bc5dfee86962eec655d39e4c6b5d92d009a4f6c32",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_constraint_bonus_starlight_tooltip_title].content": {
+      "pl": "Mnożnik premii za Utrudnienia",
+      "kr_sha256": "ae370658bd8c1a31a8dbce119df01bd0cbb5f32ff4d918872c2c7022fd5bb0ac",
+      "en_sha256": "ded04dc6f275efac8e48a368e01913f20ae4bfc754cc185852ee05ce2c885caa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_constraint_section_title].content": {
+      "pl": "Wybrane Utrudnienia",
+      "kr_sha256": "afc92cb908e15a32d64e75cebcf9a8e65653871fcfb115cb87181c37160ef7cc",
+      "en_sha256": "f782ca98ea644a4d9053239e413b3ff90a9d0781eab6ffcbc90c7939623e48c2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_enemy_buff_section_title].content": {
+      "pl": "Wybrane Próby",
+      "kr_sha256": "c9bf88d8e952af83df0581a80226582c4259ef4a9688164654a41d8a051a840b",
+      "en_sha256": "5991804a78161fc09835ad075324e326ee96bc4559666b59e4ceb178a7af9a47",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_exp_reward_label].content": {
+      "pl": "Nagroda",
+      "kr_sha256": "9444bc762474483a32354518a78024f291675dfd3bd5a3748d0820bf118c7464",
+      "en_sha256": "55ac8cbae095aacceaf1e9d9efdf022f597a39780820ed9bc24e2f3e5271c351",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_floor_format].content": {
+      "pl": "{0}. piętro",
+      "kr_sha256": "5bc7b807a26bffdb69bb82a3b783733e963b3a81b079a4315132ec32ba2fb82f",
+      "en_sha256": "dbbcc53e0c953e3adc610b3245037fd5ce2640c02d04345110430a6d2626390b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_detail_constraint_bonus].content": {
+      "pl": "Premia za Utrudnienia",
+      "kr_sha256": "dbe3eb8e04add2fef36b53afc3335cd19c57d9055c557457062c5d8371bf7012",
+      "en_sha256": "a90a4b4fe490eed989b818cfe7e250a5ed5bfed1e5e231bfb437affe531c231c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_detail_default].content": {
+      "pl": "Podstawa",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_detail_infinite].content": {
+      "pl": "Superpozycja Równoległa",
+      "kr_sha256": "497cf4b1d320e5b16acb6023dd4f8b490a97e29f5b7bf5354b7319b35cd7e19a",
+      "en_sha256": "a585f06babf7e92a33c524e8079254d7d3e8793e47e50465cd1bfa24fc3acf3b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_detail_total].content": {
+      "pl": "Suma",
+      "kr_sha256": "149df7a8bd3e6659b07cf3d93118f27be2585ec4639af3aecfcfe90303b3ccf7",
+      "en_sha256": "a21d7df04c33f5076ceee7d9b9c58339aa8c29bb9a53808233ba5b480fffd0e3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_detail_weekly_limit].content": {
+      "pl": "Osiągnięto limit tygodniowy",
+      "kr_sha256": "53001ce54e962987c0be3c2040c8e0c1ac3d6fc97f853d8c7a83a82bed0e5726",
+      "en_sha256": "10943b032a1d5d80666320b49293b0561cdaea7c3912d6f82529b8cd26ce3415",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_detail_weekly_limit_tag].content": {
+      "pl": "Limit tygodniowy",
+      "kr_sha256": "7ce1c36056d78f324abe46a436054965a57780dff5e1743e0a28635fb191a403",
+      "en_sha256": "3295132723b421e17f744f00565aecb70b612549874c772448184ffae1eba5c4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_exp_reward_label_name_format].content": {
+      "pl": "Projekcja Lustra Nieśmiertelności",
+      "kr_sha256": "96235f60177d391fa29b4f34a0e15f5e3700eb0a7e9f42c2ced81c7e20621a05",
+      "en_sha256": "021def4e24ff0b2556e73528d3a39785aae5165036bc618b820574ceb1218000",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_hard_recommended_level_popup_desctiption].content": {
+      "pl": "Średni poziom wybranych Tożsamości jest <color=#990000>niższy</color> od zalecanego.\nRozpocząć walkę mimo to?",
+      "kr_sha256": "ba6a4b69bc032d59900284169ce75573d9f04a0f7b431130208bd889042ff829",
+      "en_sha256": "d64248010bf170dcec7d1c34dede67630ad620cd0d878bc69d629c7590330f5c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_hard_recommended_level_popup_detail_desctiption].content": {
+      "pl": "Obecny śr. poziom: {0}\n<color=#f8c200>Zalecany poziom: {1}</color>",
+      "kr_sha256": "7bc386b8714c641c2a8e518bf23048da001aa64e20672b1e30f82795c3d9504d",
+      "en_sha256": "72f5158b2c02065e6c863499ad4fa4b794c269e4f6cb3f74588cd1f263f7775f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_hidden_stage_information_enter_button].content": {
+      "pl": "Wejdź",
+      "kr_sha256": "313416dc1509fceb95fd454e99c5c056b66e5a5902991d20776d35dd44e700b6",
+      "en_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_hidden_stage_information_quit_button].content": {
+      "pl": "Omiń",
+      "kr_sha256": "05709ae5b6286dc701f7ebc5290450e23865bce4a3d2ed3045e89e4f1032b0d0",
+      "en_sha256": "28d03596d24eeb4eab2d6fe21ca1cb95be7cb1fa6f92933db05e2cc4f4cdfa06",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_ego_gift_confirm].content": {
+      "pl": "Wybierz",
+      "kr_sha256": "8d1a750c9351d1b803fc94973fe32aad800263e2cc68f1d13e8eb3539fc6a4ab",
+      "en_sha256": "2a78025de6aae5e7ff88e5a951bb3a78ddd67388913529cf9e2dd9653e62b02d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_ego_gift_select_list].content": {
+      "pl": "Wybrane Dary E.G.O",
+      "kr_sha256": "9d5fb820e88dcb9e5646939ef4321af5126be413341d85be583c93b0f4dd0ff0",
+      "en_sha256": "11159c1963c62b7d89d8a2aa5245742d5ff53f81c83fa6dda5c78a0e9a6ff0a8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_ego_gift_title].content": {
+      "pl": "Obserwacja Darów E.G.O",
+      "kr_sha256": "d81216c35cfaf8249bfec24a978f39523a68fdca0a44223175c2ae4dfbc31ab8",
+      "en_sha256": "a075b7a76f21b60ace1d73dff4e06b44118e0fd0f978784d00951c9f953554df",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_ego_gift_title_toggle].content": {
+      "pl": "Aktywuj Obserwację\nDarów",
+      "kr_sha256": "5f4adf6e731f0baf85c11e6c99056b74f6dfa7c8c44f4150019260bb1cc0332a",
+      "en_sha256": "961913a8fffd8d50a7737de0601c295f769d794ea3656c5132c439b9f5c72515",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_have_starlight].content": {
+      "pl": "Posiadane",
+      "kr_sha256": "9de9b5092f1c0ba90f7b54a4b7a440b9c38662ae74a82f2d39cddf93bde7d8de",
+      "en_sha256": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_lack_starlight_desc].content": {
+      "pl": "Masz za mało dostępnego Gwiezdnego Blasku do Obserwacji Darów.",
+      "kr_sha256": "c5a89898866f8326dc780e55ff7c5729eb6650ac0d0f5daaef868422420aacf7",
+      "en_sha256": "7c8f2c190542cfcbe5456454d6bb9913c6d10234d92c509f3f3e450f63d0501d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_observation_lack_starlight_title].content": {
+      "pl": "Obserwacja Darów\nniedostępna",
+      "kr_sha256": "3d9224adccf966df886545c75d8860d14eacb88f27e8ff72e255a818439a900e",
+      "en_sha256": "a55604d9233cc808af4983ee114be97ffd3ea7b2a34a264964e5766ff059a161",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_select_constraint_slot_achievement].content": {
+      "pl": "Ukończone",
+      "kr_sha256": "fc8a3b57e6ecab8754586a05c3c3b7591ab0ff7ab4a98835b81a15d8d6bdb1e4",
+      "en_sha256": "22a970d2e5b1cc233e462be7c7b64e135a275bb09d83d87683bf4236c43113a1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_select_constraint_slot_reward_title].content": {
+      "pl": "Nagrody za Utrudnienia",
+      "kr_sha256": "99ebcb6d90632b4c0d5642f3493a05a5aac42eaa036c2bb84266c21ac7f75ab1",
+      "en_sha256": "bb48aec63aa4980f4aa1f0c3392efaa45b6153b391e0bff138a24c535f8f6117",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_select_constraint_slot_unachieved].content": {
+      "pl": "Nieukończone",
+      "kr_sha256": "67eda6d82870b618a2214a19184a638777491c32408ae0e78ff1140452c9c425",
+      "en_sha256": "75f33cdfc8e52098ea07f853e36473fe35bbe128d6c320019185bc888f9b3ca3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_select_constraint_title].content": {
+      "pl": "Ustawienia Utrudnień",
+      "kr_sha256": "dd0355a72b48ac9655b4288cc44edac17fd303f9b36de464afd547f2f47cdf32",
+      "en_sha256": "87bfe7867f22871cb4f668ded907e128ac121749f81c0dd6df4beacb1e56dea4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_base_point].content": {
+      "pl": "Podstawa",
+      "kr_sha256": "3603b4581160941a6c8f1fc2974898b1dd28b8ad037eb53e01538e33c1246be2",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_battle_reward_card].content": {
+      "pl": "Karty nagród za walkę",
+      "kr_sha256": "eca5dc2cda6456d8f135c607e44db3efad2e00d990ce70534f7a2e1b6050df3f",
+      "en_sha256": "288b5c938bdb09d712b85142340b41e19d06736e5be42a14cd39ec47f2afa760",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_consumed_during_dungeon_play].content": {
+      "pl": "Zużyto w trakcie wyprawy",
+      "kr_sha256": "70a0a61d7c8b899674d2e9fcfc16caa50de73e9f4ca96252e4a2ca64efdcb2f9",
+      "en_sha256": "df2f5941bef8c06a58907a019d8473102184638710c96ad46afb36aa746dcd67",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_consumed_during_dungeon_play_tooltip_title].content": {
+      "pl": "Zużyto w trakcie wyprawy",
+      "kr_sha256": "70a0a61d7c8b899674d2e9fcfc16caa50de73e9f4ca96252e4a2ca64efdcb2f9",
+      "en_sha256": "df2f5941bef8c06a58907a019d8473102184638710c96ad46afb36aa746dcd67",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_consumed_points_on_start].content": {
+      "pl": "Gwiezdny Blask zużyty na starcie",
+      "kr_sha256": "eed89d1655459f5b3ab5a817fb189a4be7c468e5a83ad423d4cf6b80d4b58109",
+      "en_sha256": "352b9e71b187dd8cc342549a6b1b52e95dd5fe4c51168f34308ddb1ee6ab7bb9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_consumed_points_on_start_tooltip_item_converted_to_cost].content": {
+      "pl": "Zamiana na Koszt",
+      "kr_sha256": "0a01b6937d9fdf70da099ca74edd3aa547ccb21a834b73e9461dd9400d4046cd",
+      "en_sha256": "3857636683ca3d10b87839d126f2892c4f7b726412a9e575e1fa5ac1f91ef786",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_consumed_points_on_start_tooltip_item_purchased].content": {
+      "pl": "Zakup Błogosławieństw Gwiazd",
+      "kr_sha256": "51b2935840e008b26e49428ef04b01607eceaf91abdf4cd85feac032d2d0abd5",
+      "en_sha256": "5051524f89e81fc2f6a8d24adcd2fa4600d898fed50b57937a4abba4d6c1fc55",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_consumed_points_on_start_tooltip_title].content": {
+      "pl": "Gwiezdny Blask zużyty na starcie",
+      "kr_sha256": "eed89d1655459f5b3ab5a817fb189a4be7c468e5a83ad423d4cf6b80d4b58109",
+      "en_sha256": "352b9e71b187dd8cc342549a6b1b52e95dd5fe4c51168f34308ddb1ee6ab7bb9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_dungeon_play_point].content": {
+      "pl": "Punkty eksploracji",
+      "kr_sha256": "f783879b37772bffce06164ea0fa9ff958622413f9c0c937c7f952d2261a44de",
+      "en_sha256": "5b58ed1d1e2b7580061d9d216c147959e631af253eac87fa9da8d8d34756a661",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_dungeon_play_point_tooltip_item_cleared_floor].content": {
+      "pl": "Ukończone piętra",
+      "kr_sha256": "b12e414669bfe584a2ed43ed7c6254d4ed3ca0c20b2826c10864e34fbfed2b3d",
+      "en_sha256": "2e11a68ec3344b504d59cbcfb0081aede454b5a1b9720aec0667a3ebce1333df",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_dungeon_play_point_tooltip_item_hard_difficulty].content": {
+      "pl": "Poziom Trudny",
+      "kr_sha256": "00520d19f85bf7288f358a198a300eee37f91d182f187393c1b132d537f94721",
+      "en_sha256": "ad78c067a4b5a5bc85fbed0e34b1452c68632955691057128edae5db2f09de38",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_dungeon_play_point_tooltip_item_railway_theme_pack].content": {
+      "pl": "Pakiet Kolei Załamania",
+      "kr_sha256": "9e2192c071a7a4579a5652bb1ec6976d26ffe269e15baee449659361619c17ae",
+      "en_sha256": "fd16885de69103a4314f6804dca08f8e98ebe355af4f218b43276f2258fb7cb6",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_dungeon_play_point_tooltip_title].content": {
+      "pl": "Szczegóły punktów eksploracji",
+      "kr_sha256": "6a2a4599dee7646e3e6ff96ada6516c4567fd9fc7ec7e7f75f53302a6c2d1791",
+      "en_sha256": "82d86f921982680a71852abe04dcacf3d2d9e0f45ebcff10911339e61cf76d94",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus].content": {
+      "pl": "Premia składu",
+      "kr_sha256": "ea5df0314a00a4fbfdc29ae9709c767369aa3f5578f9f3f1523c1183e4f0ef9c",
+      "en_sha256": "c9828b23a01d6b777800d78fe4e8b4c85b720c0807088c47758d0149c42e135a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus_multiplier].content": {
+      "pl": "Mnożnik premii składu",
+      "kr_sha256": "a65f036b046d99451b8616bbd3500f7a38740438b458fd7a4b5e94a8ff353386",
+      "en_sha256": "0a5e6e67eab31d608615521ff2d621cab8b40fb029d50082eb1966416db60411",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus_multiplier_tooltip_item_combine_ego_gift].content": {
+      "pl": "Wypowiedz życzenie",
+      "kr_sha256": "6d15be7792d5ffe07f492dce12d036561e2792e45d9f13aff60346715b39e598",
+      "en_sha256": "458b66aad30287945efa5044641e4ef093f0d0d69af91c9c6a5e4d3107cfe9d3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus_multiplier_tooltip_item_desc].content": {
+      "pl": "※ Wartości ułamkowe są zaokrąglane w dół.",
+      "kr_sha256": "58aee0bd8e1d91e389b3b90b7b647a1e0c0fd38180af20fa3c8129a066c1cc94",
+      "en_sha256": "e512ffa806875fb0d36a58a1bb91bb746122a864a6bcb0b5d6862244c09a612e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus_multiplier_tooltip_item_detect_egogift].content": {
+      "pl": "Obserwacja Darów E.G.O",
+      "kr_sha256": "d81216c35cfaf8249bfec24a978f39523a68fdca0a44223175c2ae4dfbc31ab8",
+      "en_sha256": "a075b7a76f21b60ace1d73dff4e06b44118e0fd0f978784d00951c9f953554df",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus_multiplier_tooltip_item_detect_theme_pack].content": {
+      "pl": "Obserwacja Pakietów Tematycznych",
+      "kr_sha256": "e20cecd05bd1d4c9dd69bc0685c788fbe8ae2fc6a5346cca01e37103cfa808f3",
+      "en_sha256": "34510a7406ba33eb3dec68c49bd8137f0379cbe9fa8a03d1825fd61f81e8cdc4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_bonus_multiplier_tooltip_title].content": {
+      "pl": "Mnożnik Premii Gwiezdnego Blasku składu",
+      "kr_sha256": "d7b09ba69fdbd8e585ec1b5ca2109d2bd865b9a9012c086625f33565a2055bb4",
+      "en_sha256": "14a550c100014974b0085c21cc2f211d56dcc4f9bc1a3b1c978bfcf4d7e3eb19",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_formation_total_consumed_point].content": {
+      "pl": "Łączne zużycie",
+      "kr_sha256": "877bb949d06264905cecf5245f6365b894ab46743d6cbaebec8762d4fe8351b7",
+      "en_sha256": "738a7af421fe140a4b071172fc4ee76f6d2d618d63cb27ea244c3e4589b184d8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_owned_before_enter_dungeon].content": {
+      "pl": "Zapas przed wejściem",
+      "kr_sha256": "1dff9abf2236cab60a31ea019aff98b6e15fe74fee0d8c4e1638c1b694d94955",
+      "en_sha256": "6f4967c8a97781e11f7eca55c1041a88159429f14e11adb5243eda494def0572",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_reward_point].content": {
+      "pl": "Nagroda",
+      "kr_sha256": "9444bc762474483a32354518a78024f291675dfd3bd5a3748d0820bf118c7464",
+      "en_sha256": "55ac8cbae095aacceaf1e9d9efdf022f597a39780820ed9bc24e2f3e5271c351",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_tooltip_button].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "3d65ff858a390ddf057aa2d71a1a9a58a5b8c93e4e8df7b5dacc340785194d1c",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_total_owned_point_after_dungeon_play].content": {
+      "pl": "Łączny stan posiadania",
+      "kr_sha256": "6ea30e1eb6cdfcff54695a69f0e12faf7acefee5e90cb7f200d4e7297e187aa6",
+      "en_sha256": "5ed9542323a3e502d6c686e2143a71f36e196d1cd063b308c01dfdcc433bc9b6",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_unlock_condition_lack_of_current_point].content": {
+      "pl": "Za mało Gwiezdnego Blasku",
+      "kr_sha256": "1f98e8c71e1550ee3c5ce79b75107cd20fc84bf45767d28c9579aff140956485",
+      "en_sha256": "0415acf1ddb61621f1f44c8974cff66615b1ee2b89c03b2d33b4270e5fd3bf72",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_unlock_condition_needs_held_buff_points].content": {
+      "pl": "Gwiezdny Blask min. {0}",
+      "kr_sha256": "a558e11c43a2f3f457725adb2adcfcdf825d020388fac4792c768687068872c8",
+      "en_sha256": "e02d67b6eb8116086255c77b51bcdffbb7e856c4baabe03b687d53214cc312c9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_check_box].content": {
+      "pl": "Zamień Gwiezdny Blask na Koszt",
+      "kr_sha256": "c9e3e997f438e410a770839e04f245c6cdaeaebaf346085734834f63e4b3775e",
+      "en_sha256": "0ede63e2e208780a4787ded866676aedbdec19110575097c12d1df9b461df609",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_desc_md6_toggle_off].content": {
+      "pl": "Gwiezdny Blask pozostały po zakupie\nBłogosławieństw Gwiazd odbierzesz po ukończeniu lochu.",
+      "kr_sha256": "725c71dd3f055b6d5db70f319bc375191640b515eb2e842e899e6e97c9571c09",
+      "en_sha256": "b318160b0afff49eae92ffed8f3dadb5fd8599c08cfdfed69251cb83a43823d4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_desc_md6_toggle_on].content": {
+      "pl": "Zamienia Gwiezdny Blask pozostały po zakupie\nBłogosławieństw Gwiazd na Koszt.\n\n※ Posiadany zapas Gwiezdnego Blasku\nnie jest zamieniany na Koszt.",
+      "kr_sha256": "d4601de6a28b371e93c1fd896be5b5eb6263a3674cba70092d0b243b20fa08aa",
+      "en_sha256": "b596cbd0cab6dfedb7e5f328638d423ba630b4a544a13dae74d090a1eddc0bff",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_left_cost].content": {
+      "pl": "Pozostały Gwiezdny Blask",
+      "kr_sha256": "065448872b34e651edc004440c813c761fa77dcadd63d866cfc4ddf507521722",
+      "en_sha256": "fffbd140794dba39b0767312962c1d2409e73e631540f18908b11fd90295cacb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_unavailable_purchase].content": {
+      "pl": "Za mało posiadanego Gwiezdnego Blasku.",
+      "kr_sha256": "677592ed10014e85fa3c765d1f1cbec08dc2a22eeca507b309bb7ba6175abb1b",
+      "en_sha256": "fba38baec316accdfef0e140949964389fbd31d9273899a3e3c97e5c063c80c9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_unavailable_purchase_modal_title].content": {
+      "pl": "Za mało Gwiezdnego Blasku",
+      "kr_sha256": "1f98e8c71e1550ee3c5ce79b75107cd20fc84bf45767d28c9579aff140956485",
+      "en_sha256": "0415acf1ddb61621f1f44c8974cff66615b1ee2b89c03b2d33b4270e5fd3bf72",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_theme_list_pack_tag_not_selectable].content": {
+      "pl": "Niedostępny",
+      "kr_sha256": "49e86c3288d491e77bb29e4845967e5b3fc9fcae2b6cd4467e16be2a5885a30d",
+      "en_sha256": "3e2ee4e5969b595a75699cd2946a4d56044653f5b608096157adbe2841b4b8e9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_theme_list_pack_tag_required_extra_point].content": {
+      "pl": "Dodatkowy koszt",
+      "kr_sha256": "461d342bfd68c6b30ae9593c5ece806787eec4c7e2457aa8a0407fcdb891a18a",
+      "en_sha256": "b64bc35aa22da45510943354ce8b0cc5ffa13f7b4c844035b26ad293355ca15e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_unobservable_egogift_reason].content": {
+      "pl": "Obserwacja niemożliwa",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_unobservable_egogift_reason_is_owned].content": {
+      "pl": "Posiadany",
+      "kr_sha256": "70802961d12a801bba22e249241cb512f77fada40473a9d88f91245ebcff5b0e",
+      "en_sha256": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_user_starlight_buff].content": {
+      "pl": "Błogosławieństwo Gwiazd",
+      "kr_sha256": "03d9c1dd7e57c7a1b60277b3962ac354dfa72a083d854e2d091641bb51e8c795",
+      "en_sha256": "714b44bc498e1553c883d1f56383965233fc2a3338aac96980fa72687f5568a0",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_additional_reserved_starlight_from_startBuff].content": {
+      "pl": "Niewykorzystany Gwiezdny Blask został przeniesiony do nagród za ukończenie.",
+      "kr_sha256": "3781ce648f1d707875697261943d095599da43f536da7ee3731dbebbf84d230a",
+      "en_sha256": "8783541f4cad71faddae974044b08b4759e9abbb9fdbd6585859ef087ab0814d",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_infinity_open_condition_no_have_infinity_data].content": {
+      "pl": "W budowie",
+      "kr_sha256": "b1626a019e40d6e121228ad08eeecc32d994ea98a3d43ece3216c088667ee78a",
+      "en_sha256": "425da235f1da34bdf6d4e817b69e3b108ec18c2d826ba185455c5a68c3d6a878",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_starlight_personality_button_label].content": {
+      "pl": "Zachowanie Gwiezdnego Blasku",
+      "kr_sha256": "095d5311d1e3127de8681da898bc08c149418ba5f6a4e187921a81ba8d219d8d",
+      "en_sha256": "b8a5c8d3568796def3c711c51454bb0e40b9bd6011da236d24eb3c2ad2d3dc7c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_starlight_personality_desc].content": {
+      "pl": "W okresie zachowania ukończenie Lustrzanego Lochu tymi Tożsamościami nie zużywa ich Premii Gwiezdnego Blasku.",
+      "kr_sha256": "5a08977dc49dfd8ba009a7eb235913122d95f66ea6d4335a5252e43dff0a7334",
+      "en_sha256": "8be8c4c6bde0ca236d93c4d352a2e091c3860d78104848f7a4a0b3a93ab37b68",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_starlight_personality_title].content": {
+      "pl": "Zachowanie Gwiezdnego Blasku",
+      "kr_sha256": "095d5311d1e3127de8681da898bc08c149418ba5f6a4e187921a81ba8d219d8d",
+      "en_sha256": "b8a5c8d3568796def3c711c51454bb0e40b9bd6011da236d24eb3c2ad2d3dc7c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_difficulty_button_no_hard_data].content": {
+      "pl": "Poziom Trudny zostanie dodany w aktualizacji.",
+      "kr_sha256": "c5fb5a93fcfee7bbfdd90233ebb99ff49073750c72ed99afbeed31745ce7efbb",
+      "en_sha256": "948879205a4b4588f895c1e92e6f825a44b6101ff33b87fc3c3d4247242f5bba",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_hard_blocked_6].content": {
+      "pl": "Odblokowanie po ukończeniu Canto VII.",
+      "kr_sha256": "d67cb2ef253ec040f00f6fb8742f560090e7fdae972a3e74d979231248426cb5",
+      "en_sha256": "3ad3112690800e09a81528d79ee7a159b78326dcb734b267011ee96be89c40a9",
+      "origin": "ai"
+    },
+    "dataList[id=number_of_cleared_hard_floors].content": {
+      "pl": "Piętra ukończone z pakietem Trudnym",
+      "kr_sha256": "24516b40f36183d9b0edf6575ecd2c48170dae022a3fd95c5a3f788928ed38e4",
+      "en_sha256": "b5c54be0ecd03596e693f5ad989c80298e1d0f03e70dd05e0e5cb058ddabbe4f",
+      "origin": "ai"
+    },
+    "dataList[id=on_click_mirrordungeon_theme_list_hard_button].content": {
+      "pl": "W przyszłej aktualizacji",
+      "kr_sha256": "aefa052abf912f3343e8e588b343fffa4c07665746d975bdf05223705547d5ec",
+      "en_sha256": "a77002d3ee3112fbaa4755d62bd561f166cdaf69a21fdf97a84a946d20ab5361",
+      "origin": "ai"
+    },
+    "dataList[id=side_desc_is_all_collect_egogift].content": {
+      "pl": "Szansa na losowe słowo kluczowe.",
+      "kr_sha256": "fffdcd70024a1056ab6609e939efcd215dc36fc082718195b30e549ef46cb741",
+      "en_sha256": "ad67a0251a89b726ff7f48d94e7949789b68f45128fb9a58f5081777b4fcdd85",
+      "origin": "ai"
+    },
+    "dataList[id=side_desc_is_already_success_percent].content": {
+      "pl": "Szansa Syntezy nie może przekroczyć 100%.",
+      "kr_sha256": "6ce4420c62c9fe5fd40ed4df930b5171bed86c88a5c79febe59adc5a84b0d6ea",
+      "en_sha256": "425bfc56d580e3f48871bb06f3991e5b501e96cebcf11004d17e18e4427b6782",
+      "origin": "ai"
+    },
+    "dataList[id=side_desc_is_fixed_combine_egogift].content": {
+      "pl": "To receptura gwarantowanej Syntezy Daru E.G.O.",
+      "kr_sha256": "d3219fa3b026cb306d6353c80e5c5fc7798a837fa4bc1fbb3843bf51eb93fa2a",
+      "en_sha256": "f416e355565a15f05ab2f3ea55a558ec30dcc36d2b4c3dc402d4dbfa322670c0",
+      "origin": "ai"
+    },
+    "dataList[id=side_title_not_enough_starlight].content": {
+      "pl": "Za mało Gwiezdnego Blasku.",
+      "kr_sha256": "18059131f079990730a3429b41f26e0716ef7dd2dfb08a5a13c661454d8f9576",
+      "en_sha256": "fba38baec316accdfef0e140949964389fbd31d9273899a3e3c97e5c063c80c9",
+      "origin": "ai"
+    },
+    "dataList[id=side_title_not_use_starlight].content": {
+      "pl": "Nie można wydać Gwiezdnego Blasku.",
+      "kr_sha256": "532a982fc8dd0b8b82ee67c5d5fe223e591f5b3b6e7717d2ef4722be46d8e706",
+      "en_sha256": "931824f40a85858c030d6116eeca545afb66a480166b1cdfd3662f29180f4b4a",
+      "origin": "ai"
+    }
+  }
+}

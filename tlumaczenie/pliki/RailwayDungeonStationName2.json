@@ -1,0 +1,118 @@
+{
+  "entries": {
+    "dataList[id=2].nameList[id=0].content": {
+      "pl": "Przed wejściem na Linię 2",
+      "kr_sha256": "560128eede3f6a3d9114da2d0ab19acf77b67385de469000573d452efc145aef",
+      "en_sha256": "189bd04896af6dbec9fe1bf2526ce935358371ca3ef02438406b7fb3d8d5776d",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=1].content": {
+      "pl": "Stacja początkowa — Klątwa",
+      "kr_sha256": "e8d703c6c18f17f8ce9dbfe82fa85256ae18c4eb6d3af487c3faa445c208f4ce",
+      "en_sha256": "efd1a1e30facb9015d7c26b0d55644f58e8d6884e94ac1ed922c1812bb6a433b",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=1].shortName": {
+      "pl": "Stacja pocz.",
+      "kr_sha256": "06a7acb50db16ed0a9e9dce9f2a0ec890bf05274b72dedfb77b20284fc152f8c",
+      "en_sha256": "4083b32b35ee56441995353cf1f10638c8a2674bc3a09fb10daf7d4f5f560edf",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=2].content": {
+      "pl": "Stacja 2 — Kierat",
+      "kr_sha256": "8dba394452b64022252f310639128dd01b71346e63aa108d5838277f8d2b27b7",
+      "en_sha256": "2aed9894d0f07cf7d16f9b51e3a25a4f427469a15bcf6dd67c625cd10ee9dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=2].shortName": {
+      "pl": "Stacja 2",
+      "kr_sha256": "2cbc8de0fc6d4215ba4274c66048d6a74b87b8beed7437629620d37f60665a2d",
+      "en_sha256": "c9d185c6dfbedb6aae867fb41e23d1a82355d14702a6f7c2287f19ed1470632c",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=3].content": {
+      "pl": "Stacja 3 — Ulewa",
+      "kr_sha256": "ee22bdbd095ad05df8d94ace2a91cab6d6ee1c9e67c0b30921057f6a22e8ec45",
+      "en_sha256": "b3eae775044368c109be6ba869143e8f1bada30dfb0cb7ff3e0987754d9cf99c",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=3].shortName": {
+      "pl": "Stacja 3",
+      "kr_sha256": "7fda7c3625b0fcc7b71a64167d63d9f24f17055746638487904354ac16fd4f3f",
+      "en_sha256": "e73488e6cb7084dcd8fff7ce973f3eaade9fa3a0033340c6270ec319ffcfb765",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=4].content": {
+      "pl": "Stacja 4 — Zwłoka",
+      "kr_sha256": "0f0fd0ddaec15be57b82f5b514fdee4edffa30095b019a6bd4b00a621a51b483",
+      "en_sha256": "5f60d0f0f7bc1ab394aa324afae79736ab98eef33856eaa52710c607097147ed",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=4].shortName": {
+      "pl": "Stacja 4",
+      "kr_sha256": "3330037920392d1819e1063f9b2988311b7f4ae7bdc607e9a706bf16ad9bc0db",
+      "en_sha256": "eaa9c3de0a80c80d68aec4ff4a90f110da6a38671fcb6291578ddb69064d3114",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=5].content": {
+      "pl": "Stacja 5 — Wabik",
+      "kr_sha256": "b925d22594f3df7abcfbb11d7afb56e45e0108518382ff63d1f0a0341c0206aa",
+      "en_sha256": "3f7d2f573499f88b1db04dca33c8b304c73ebb8aa9bec347bc1655fdc8be7175",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=5].shortName": {
+      "pl": "Stacja 5",
+      "kr_sha256": "7ba8254b624a50295d52a27ad5cffdcf80c14ec2c0f5e7ed629041220de95b63",
+      "en_sha256": "d29973699ee3b8451caaa43747cb1e6550aeda9b7cd20133ff53270357b06206",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=6].content": {
+      "pl": "Stacja 6 — Wyzysk",
+      "kr_sha256": "07ca3731225e1d8ad675b47d425f6000c008a8976b582a7964525a7fdbe1287c",
+      "en_sha256": "a01074b53a3eedc71bf8c9ab187cf3809209b994527f024d81f9ea9d80cdd64d",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=6].shortName": {
+      "pl": "Stacja 6",
+      "kr_sha256": "59ee305e119cdcf44f52565cce4f16f02ce5089f7cb813cbb6a885bcef18ff4d",
+      "en_sha256": "b26a14d786b8c0f6ad3b2245fa10f6923080ed7132ebf36f036a536fee07897c",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=7].content": {
+      "pl": "Stacja 7 — Odór",
+      "kr_sha256": "25fc2ddec3447d1c3d0d4afc5d7619c55d3c92ac52d2791f01e374767ceee7fe",
+      "en_sha256": "0e23f0cd7bbe3faa1e4add346cdd37e2269e9368d2bb49a9d98a1ecab4961990",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=7].shortName": {
+      "pl": "Stacja 7",
+      "kr_sha256": "fbea1a21be6c1d8d3d6ef8a75b67d8ce44f743b9088331d2221ec2e90eecb65e",
+      "en_sha256": "00c919b26094221c7ae3471466390572788bab976100c3562c93391554fee37c",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=8].content": {
+      "pl": "Stacja 8 — Cykl",
+      "kr_sha256": "1daccdf3fc18ec0427747b94dcb8d25b7763f9ff61d7061d334a8cdd9f23ebf7",
+      "en_sha256": "b51550217a9a02677a8ec3f175aec8ab32aa65a33d374f25e30a388941706456",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=8].shortName": {
+      "pl": "Stacja 8",
+      "kr_sha256": "bdec57993e1b816ee0625bbb29571101cb57fb9d3726d53ecc5c98c7420724d9",
+      "en_sha256": "68cdb784844205ce720182ee9ea1cf814d41c2bc6ec0ab853015d72f30b08739",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=9].content": {
+      "pl": "Stacja końcowa — Ogród",
+      "kr_sha256": "8d7b4b79a15f7544b4e8598020b86d3c21fd9fa9af82dc994606dfe4142e1c59",
+      "en_sha256": "f9cd57862f1aaca95b56176270bde8a72326a6585a1c57139fe170eb9fa0e563",
+      "origin": "ai"
+    },
+    "dataList[id=2].nameList[id=9].shortName": {
+      "pl": "Stacja końcowa",
+      "kr_sha256": "b499138752f58eca702041911f4515106f3b8990fb765abf8fd9cd070cc80dc0",
+      "en_sha256": "c6284f61ee1924c1bd5c6a44f34fbfbff968f9994084fb2a67e54515ca275653",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=Friday].content": {
+      "pl": "Piątek",
+      "kr_sha256": "a594e9b583050ec46ff96c92e61e26cb111f568bb104bc3c2ce18144be13d161",
+      "en_sha256": "d992f7d647ec3c31b567c65815122c7f9a9b840769c355018fee17b322bf25b1",
+      "origin": "ai"
+    },
+    "dataList[id=Monday].content": {
+      "pl": "Poniedziałek",
+      "kr_sha256": "6c95540e90f1a66864be896a441a4a5d4cc012901b4f7494e1faceab210cdd98",
+      "en_sha256": "2b76b5a38ce556db480eb4e18cddb9a97fdaed871f59e347acd22fdad46a598c",
+      "origin": "ai"
+    },
+    "dataList[id=Saturday].content": {
+      "pl": "Sobota",
+      "kr_sha256": "9f4eef79554b65d023ca308aca474d4e9e73498e728e347288e29b7232893caa",
+      "en_sha256": "f541ab1317c950702502c5b935a42ba95e5fd5072fb4dd286f95bb2d342451ea",
+      "origin": "ai"
+    },
+    "dataList[id=Sunday].content": {
+      "pl": "Niedziela",
+      "kr_sha256": "1094b7d96a9a4109f16265ec0ed9215b12dfc6765095bf25f8359c0e794ac5ca",
+      "en_sha256": "d44fa953853bae3a2ab71f5d5236ede3b67f31aeff84aa56235be191d78f7eb5",
+      "origin": "ai"
+    },
+    "dataList[id=Thursday].content": {
+      "pl": "Czwartek",
+      "kr_sha256": "42d1a6367432ff8ec3d4eefa412f57cf2d7fc0ddf5f0357b9ab70fbf1df4ea28",
+      "en_sha256": "74d1052f85c343e729c8cd480092148f585e19cc5f7cfc08ef3e4340e45afb40",
+      "origin": "ai"
+    },
+    "dataList[id=Tuesday].content": {
+      "pl": "Wtorek",
+      "kr_sha256": "94e234f76b8eab7e261fee8d55a02c56e03d7e9062c163d645815b0dc9aa1d0c",
+      "en_sha256": "be0898683160c494a6f04b4e8ea41b78f496629241629d4f3eaeeda85b7caa6a",
+      "origin": "ai"
+    },
+    "dataList[id=Wednesday].content": {
+      "pl": "Środa",
+      "kr_sha256": "4ee1e5308220dcf13ba5a5d48645d477f1fa4a4f69949738846e22f48c053554",
+      "en_sha256": "10ccb2e1c6fd204b3ff79ea4ec4e1eb68328bea08c44c2fd42df59110b7d5f60",
+      "origin": "ai"
+    },
+    "dataList[id=daily_bonus_count].content": {
+      "pl": "Premia dzienna",
+      "kr_sha256": "564e470cb80e2a0520d85aac0e65012b9b6bfce2abf8b22b31c0c56fbf551696",
+      "en_sha256": "4b1f1b53177f2028acab394f6a00052be74cd7a79f7affa52339b35602905f8f",
+      "origin": "ai"
+    },
+    "dataList[id=enter_count].content": {
+      "pl": "Wejścia",
+      "kr_sha256": "830bfdd46b0c4017055296dea2adc336e044783fe551d076e11e8afa07b9ab57",
+      "en_sha256": "7cb76b4af12abb80d576251aa088332aa69ef709dc04c00499ce973fa5f4255f",
+      "origin": "ai"
+    },
+    "dataList[id=enter_exp_dungeon].content": {
+      "pl": "Lochy Wydobywcze PD",
+      "kr_sha256": "0e0bd4555b7c86c664838710f91710d1b803ba572911f7553e780379ade96bf2",
+      "en_sha256": "86e8d0457cca802ff56c5d982c2f034f5d425c141486b13dd253d1154c8b301e",
+      "origin": "ai"
+    },
+    "dataList[id=enter_mirror_dungeon].content": {
+      "pl": "Lustrzane Lochy",
+      "kr_sha256": "2317f4133280cdc740348b484a5e263c6c1757d20935498dd9fa7d6a05f418b5",
+      "en_sha256": "a35363b9f083591460a3edb04d6f661f8f27f7238689f2319cdadfa4cad1cdee",
+      "origin": "ai"
+    },
+    "dataList[id=enter_thread_dungeon].content": {
+      "pl": "Lochy Wydobywcze Nici",
+      "kr_sha256": "37ab84558f4a35c5487accaeb18d363ffa0eb329f51ea0636345980d7e9c1f63",
+      "en_sha256": "536c4988ff58ed14e9bfdb9cb7398d1cde0c0961a9d339f63531c7807e8b74ea",
+      "origin": "ai"
+    },
+    "dataList[id=equal_or_more].content": {
+      "pl": "lub wyższy",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "b125b0303d140afe541fed5346b443cb97e9c755f423465785cda453a392f007",
+      "origin": "ai"
+    },
+    "dataList[id=exp_dungeon_index].content": {
+      "pl": "Wydobycie PD #{0}",
+      "kr_sha256": "f4b350a0850191bed2bdd334e5b2d11e2a20989e5b567271be7feb9a5fb53c2d",
+      "en_sha256": "a169ae42ebd01ad71ea4d1711ab105e0bf28c252c65bf6d1db868c31bb315b20",
+      "origin": "ai"
+    },
+    "dataList[id=open_at_day_of_the_week].content": {
+      "pl": "Otwarte w: {0}",
+      "kr_sha256": "5f725a119928e1de4f3aa04b4e157857f880d0d0b46ec0f7b761ab933b9e3bca",
+      "en_sha256": "8003ed56f02c9bada862b22daf24b6d0f6bff04460f745cdd9d8db9e8fe5e081",
+      "origin": "ai"
+    },
+    "dataList[id=recommended_level].content": {
+      "pl": "Zalecany poz.",
+      "kr_sha256": "103d80f23f7502108e283454b6ebe42c9628d4b1eec778b5ec6a4d106663b924",
+      "en_sha256": "be44133ed57f9e44f829282224b15981f033e9b0acc5458070e10104509eb398",
+      "origin": "ai"
+    },
+    "dataList[id=remain_time].content": {
+      "pl": "Pozostały czas",
+      "kr_sha256": "ea352bcbaf0d5dcdb844e0b7747e3753a3cefd46cdade392f8a61fc78dcf46f6",
+      "en_sha256": "b8f6d4b2c44f60cd8dd9e94215618c6b5f05932c9ba5746bf4f6e981d07d0a62",
+      "origin": "ai"
+    },
+    "dataList[id=require_clear_story_stage].content": {
+      "pl": "Ukończ główną fabułę {0}-{1}",
+      "kr_sha256": "5ee10082c3bec3f539cca3f42f2185fb5505ad384e65b5f1112787571ebebe29",
+      "en_sha256": "e1d4bd23f36852139a83e75204823cd05a56eecb4a461cc6af9b3025f78c53ab",
+      "origin": "ai"
+    },
+    "dataList[id=reward_dungeon_exp].content": {
+      "pl": "PD",
+      "kr_sha256": "edd9ffb4e3266bc3e3f7af78ac6b8a7b1f7cd0884a924a6372715f7dd77ab68f",
+      "en_sha256": "06a1ad637e7f4fbad56e29164490368f0526f429ee39a31dd1180c3722af1e4e",
+      "origin": "ai"
+    },
+    "dataList[id=reward_dungeon_mining].content": {
+      "pl": "Wydobycie",
+      "kr_sha256": "bbc76db575f0e7584cc1ed415b6ff009a157fc0a9c36baf2169f6df576381b6e",
+      "en_sha256": "424406b6870777482bd636fa99f53e423f47da2deb4a396cfe8b4c518cf2c316",
+      "origin": "ai"
+    },
+    "dataList[id=reward_dungeon_thread].content": {
+      "pl": "Nić",
+      "kr_sha256": "56df27bab5f87c437abf9e58f58cd56440618e7bc058f4a140f0e49825eeed30",
+      "en_sha256": "5373c7f8a5a69019e959540ef127be3302afdd5e2313244e6d08cbd5e975d06d",
+      "origin": "ai"
+    },
+    "dataList[id=select_level].content": {
+      "pl": "Wybór poziomu",
+      "kr_sha256": "44a7dc4133a5fd5f9c4a8ef0da177c6663308623eac68aa7cab8d5e7f81e398d",
+      "en_sha256": "eefbe43616f77596eb1a3bd1c402ec9ddd0236f031f81c6ee2634a8cd366e02c",
+      "origin": "ai"
+    },
+    "dataList[id=thread_dungeon_stage_name_with_attribute].content": {
+      "pl": "Wydobycie Nici ({0})",
+      "kr_sha256": "7e1065fb55c86f90a1bc60e558408d67f13ce621b0e9770754bb2c39fb356ebb",
+      "en_sha256": "1d752b8d5f6edb50fa90a6038f73d3406adf45f4ccff5b5b0bb45948421e257f",
+      "origin": "ai"
+    },
+    "dataList[id=valid_attack_type].content": {
+      "pl": "Skuteczne typy",
+      "kr_sha256": "76613692e585d587336a987b06999a5fe46934dae28559f2ab3b616823fbbe26",
+      "en_sha256": "a2b75585fead89c2a9e6312d5d339e0368c54b0dd5efad473064e4a227ed5b3f",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=100101].title": {
+      "pl": "Stacja początkowa: Spotkanie",
+      "kr_sha256": "b9172c7b7f269463cdc6bb76219e8e024846fc219d10425f650a1e3143c1ef5b",
+      "en_sha256": "dc5f92bd3943499d3eb48d0122dfa4e1f75a7745d565b361f119123dc01e2297",
+      "origin": "ai"
+    },
+    "dataList[id=100102].title": {
+      "pl": "Stacja 2: Przywrócenie",
+      "kr_sha256": "77dd65b869d53264230ca6561f4a545e133d639be0ec271664a104e00d20b316",
+      "en_sha256": "f503ed5a1c4db9a329b8c16de0d97e95a8809eb27e6445be9aad0115bc84835c",
+      "origin": "ai"
+    },
+    "dataList[id=100103].title": {
+      "pl": "Stacja 3: Zatonięcie",
+      "kr_sha256": "ef5705fd4d934ef3cd2adf8b50eaa9377fa1aae37848e2efaf4bb4712937f6f0",
+      "en_sha256": "984b2095268a54e351f05199d63ba8b6612a4250963f9aff213355e29b97cba3",
+      "origin": "ai"
+    },
+    "dataList[id=100104].title": {
+      "pl": "Stacja 4: Ponowne spotkanie",
+      "kr_sha256": "562a070a6314867388dd570355ab3012290397a363f5528d0078ae10fd312d28",
+      "en_sha256": "d5b50e762287fdc6a456e19b964d2c7a2188f70eafb70483995f3a9768197db5",
+      "origin": "ai"
+    },
+    "dataList[id=100105].title": {
+      "pl": "Stacja 5: Izolacja",
+      "kr_sha256": "e89b2d7b37116c3b6cba4293726f0440e8a080394e6ebf476935466a726b87a2",
+      "en_sha256": "8406e6dcc84a209b78c5340d34912556b08a11dcc4105e3051b5173d665276fc",
+      "origin": "ai"
+    },
+    "dataList[id=100106].title": {
+      "pl": "Stacja 6: Selekcja",
+      "kr_sha256": "6570000a0aee26ea27521bfd6368115a8523442ecae0f49ff00d19500973e338",
+      "en_sha256": "2cfaa6910ea4d1501f0e9694ef16b719840f62958db7623cde1dabdd410ab167",
+      "origin": "ai"
+    },
+    "dataList[id=100107].title": {
+      "pl": "Stacja 7: Bezgłowość",
+      "kr_sha256": "59485325797d289ada3b703778a52f26a8daabd15ac8d3046d6b13420ecd9bbb",
+      "en_sha256": "6729960611799de9c622f10cff06921daaeb9a3c77c1f16b7f20b0052847dcda",
+      "origin": "ai"
+    },
+    "dataList[id=100108].title": {
+      "pl": "Stacja 8: Istnienie",
+      "kr_sha256": "e2808a4485671190ddae574f29469d19d055de7547befadd866e3a022286d4ea",
+      "en_sha256": "4d2c48fe04fb8ebd287af3db26b50776943985659eb20847a8df3573a8e50ee6",
+      "origin": "ai"
+    },
+    "dataList[id=100109].title": {
+      "pl": "Stacja 9: Surowica",
+      "kr_sha256": "ace721204017df69a3596853173d8405ad93cfd54a510ad0273070650e9b1e5a",
+      "en_sha256": "54f7e4d63e2fd1f96257269554c9167eb86f0f46a19cda134f09a950e5eac429",
+      "origin": "ai"
+    },
+    "dataList[id=100110].title": {
+      "pl": "Stacja 10: Rozwidlony język",
+      "kr_sha256": "328227bf3820ba7f4efc3dc09bac6b988a9cbadfae90c1b6d21049c7545b931d",
+      "en_sha256": "058e640f7c467c4d13878982e9f35cc363e2224c860cfa8e536a75425e5b0663",
+      "origin": "ai"
+    },
+    "dataList[id=100111].title": {
+      "pl": "Stacja 11: Przewodnictwo",
+      "kr_sha256": "8f9760e62ac09ca50e3291f53121836a64d60cd3e6ade94bd74e5ada89715899",
+      "en_sha256": "511d1e3ca319a2f2d41eeec9d318039a434af49070a3a756dd620ae61ca5d451",
+      "origin": "ai"
+    },
+    "dataList[id=100112].title": {
+      "pl": "Stacja 12: Czystość",
+      "kr_sha256": "eb5194e0ab32d310c7e597547596f98a4cabdd1e4460f3751b97aa7b1c452acb",
+      "en_sha256": "de896b788dfa510a218b9f3a1411adae9b2a89fe0a971ad3dfd5e230d799cdf3",
+      "origin": "ai"
+    },
+    "dataList[id=100113].title": {
+      "pl": "Stacja końcowa: Nie-ja",
+      "kr_sha256": "515cb5846e9718349bd7e76c5ae715adf40d7685d7d76cf0018abf7974d18d34",
+      "en_sha256": "43d2c07270840636ef498d09bb941bc88ab9db0491df7c25dc04c8c13b77508d",
+      "origin": "ai"
+    },
+    "dataList[id=101].title": {
+      "pl": "Przed wejściem na Linię 1",
+      "kr_sha256": "15a0de2de95eb1d1a1082f9b463ee9358ad31ba79cb6df1d6eb1e9b613888736",
+      "en_sha256": "8e94161db29e9dc79fdcd9906bf90c96281b831f080094aa456f5d0cf3519e63",
+      "origin": "ai"
+    },
+    "dataList[id=102].title": {
+      "pl": "Linia 1",
+      "kr_sha256": "38b37e6b57637f8bab894fb391e3d3d684e60ec307be4a4cab4c2647b38f533a",
+      "en_sha256": "f65eb5539b742c495786c95d8c4f330bcd466a441b05d59b9e8693a970c311af",
+      "origin": "ai"
+    }
+  }
+}

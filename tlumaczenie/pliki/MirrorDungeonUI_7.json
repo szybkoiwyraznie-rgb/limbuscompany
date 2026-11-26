@@ -1,0 +1,358 @@
+{
+  "entries": {
+    "dataList[id=EgoGiftListPopupTabType_CLEAR_THEME_REWARD].content": {
+      "pl": "Nagrody za ukończenie",
+      "kr_sha256": "3913de22f1f9a64f7bda3831c3368fb0e75649879e71f60b23af432e76ce9bb7",
+      "en_sha256": "d6b2f365e6630c9c9d3d13c0f50429bfacc273059ed88e9321fa0f1241a46caf",
+      "origin": "ai"
+    },
+    "dataList[id=EgoGiftListPopupTabType_EGO_GIFT_POOL_IN_CURRENT_THEME].content": {
+      "pl": "Dostępne",
+      "kr_sha256": "1b865235dd84d9dfaf7af91a98323a845d4b497cf369e50d9f0eb87b8b19bc86",
+      "en_sha256": "c533cafab69e4033784a7d3857a806e551a95fee2ce47207bdd9a5528a24fb25",
+      "origin": "ai"
+    },
+    "dataList[id=EgoGiftListPopupTabType_OWNED_WITH_DETAIL_TAG].content": {
+      "pl": "Posiadane",
+      "kr_sha256": "9de9b5092f1c0ba90f7b54a4b7a440b9c38662ae74a82f2d39cddf93bde7d8de",
+      "en_sha256": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "origin": "ai"
+    },
+    "dataList[id=EgoGiftListPopupTabType_THEME_LIMITED_EGO_GIFT].content": {
+      "pl": "Wyłącznie w tym pakiecie",
+      "kr_sha256": "960871f9a290141120b3ca5a7d37f96ff11c69a9ac3b8c444e97bae7f8429af3",
+      "en_sha256": "8b48862d2a097bac283aac05111b2044fdc5de5382e3d4eb91ed81e41707723e",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_detect_personality_skill].content": {
+      "pl": "Obserwacja umiejętności Tożsamości",
+      "kr_sha256": "069818812d6dd7f524879102ca7a0c283e15f10cc734d3cc4613d79c8c634641",
+      "en_sha256": "008e7821ab97a972e24ca1051c1d1abfbba0482ee1ff19c1cc319fbfbd518a94",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_list_default].content": {
+      "pl": "Dary E.G.O",
+      "kr_sha256": "92eb16c2f8c5a7d468fbe2e0ae40b6e970f3afa405d2463f785c84ae07ac9315",
+      "en_sha256": "62203a689073286965bc24516ebfc1a0ef510b59b4567b413acabe402d95b898",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_settings_select_lack_of_ego_gift_warning].content": {
+      "pl": "Okno wyboru Daru",
+      "kr_sha256": "d6708161edd4be6600eaa8e62ac14f184f4b31d484a276fbb37561d2fa08eceb",
+      "en_sha256": "a44f3af530f06bb99d258f4f4af239a562a3008f3a8a77a195e0089cf696465f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_acquire_material_ego_gift_by_start_buff_notice].content": {
+      "pl": "Błogosławieństwo Gwiazd <{0}>: zdobyto Powidok",
+      "kr_sha256": "18254f65e541094e3b71d683e042f6ca73a21bfe655d7794d3dcfa9eac67870f",
+      "en_sha256": "371bffabb780613feb1254036f8cc8720fa00e22a8077e33f4ecc2f28a92be25",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_cannot_combine].content": {
+      "pl": "Synteza niemożliwa",
+      "kr_sha256": "91e9ee096409abd03e6b17b813d2a3541db97f083b24195735380c11014471f6",
+      "en_sha256": "e5e360b0fc4c0f704080d9bb83f7d6b58b6c8ca907838c237c40c0c8ae77e428",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_card_theme_appear_floor].content": {
+      "pl": "Piętra występowania",
+      "kr_sha256": "e06142e0f9ea89affa1de88636934fb7ea2ea0c9a2e6478b580aa802698ba724",
+      "en_sha256": "a84a3b98275aefb93e5e8f1e1e7438d9dcb87fa8211b5d173c5b28640f238ce7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_combine_panel_combinable_egoGift_tag].content": {
+      "pl": "Możliwa Synteza",
+      "kr_sha256": "3945950527697c051a7e40c8c91d0c82bccab6a8259662eea1abac0d42db8851",
+      "en_sha256": "20f57ddc90fe1419ad61dbeed90769092b03924078c38e48f127ad6d1cc0485f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_combine_panel_owned_egoGift_tag].content": {
+      "pl": "Posiadane Dary E.G.O",
+      "kr_sha256": "3b6da70991d9a6abb061f8efa0bcb760a73cdfdd49685156a526fd0c1c38b351",
+      "en_sha256": "d41715f0374e06b8783b08b0162e3371acd7ff3dd1bac5b89fd409a2b4783b03",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_acquire_status_filter].content": {
+      "pl": "Filtr — stan posiadania",
+      "kr_sha256": "f761eb686fae364e071d386f4b8cd0094d7eea685f9bd21bc90752fdb7369053",
+      "en_sha256": "694f05d1ff8a412b10d965b8c3185156beb4ca4a347b66ad95a5a2a6efa87ea8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_acquire_status_filter_content_0].content": {
+      "pl": "Zdobyte",
+      "kr_sha256": "2d00d14fe14bdbdce8853e2db7506763f6ca18935d06ba529f362ab7c4b21983",
+      "en_sha256": "22d603c6a09a14c27e2881d3e9dc77dac499318b07b620a135b6ebd97b4ae817",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_acquire_status_filter_content_1].content": {
+      "pl": "Niezdobyte",
+      "kr_sha256": "129499b2ae6bc278ec11f249f426ed3596fa981f204e6446064a1cfd04fbbd77",
+      "en_sha256": "e5c03daa88458c4bca5210f2efe3dc7390a88a85349eaa93cc2429c2f2d726c3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_cursed_to_blessing_remain_count].content": {
+      "pl": "(obecnie: {0})",
+      "kr_sha256": "1463445ebf10aa0b90c4431c2e06326c81946f853b297adf10878ee0e03ac8f3",
+      "en_sha256": "4c25085a641cb3fa97a6ac1429c6632ac03a6f693e079e7df92a0c0535d8f02d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_inventory_no_owned_ego_gift].content": {
+      "pl": "Brak posiadanych Darów E.G.O",
+      "kr_sha256": "193bc99edd58908cf8b1723c2a5fd5d3e3f2fc5b53ecb8af729edb69c85e8528",
+      "en_sha256": "02f3dfdf2aaf4052f73c131d69b84042fe43125a527b93d9e125f7540c918430",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_keyword_filter].content": {
+      "pl": "Filtr — słowo kluczowe",
+      "kr_sha256": "dc8b6b144f89f903a59d1932e72cdfa000d6c006d05cbaf7722ee78635a1e3f9",
+      "en_sha256": "38a619339f9968fc69a3277ca07470321b6349e89d6c8fb3a007dc0c1bda4a1e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_clear_scroll_tag_theme_default].content": {
+      "pl": "Zwykłe",
+      "kr_sha256": "9fc77664c060608b7210ac43db497de30e4d1ca85e02a4fda5b90198937f4230",
+      "en_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_clear_scroll_tag_theme_limited].content": {
+      "pl": "Wyłącznie w pakiecie",
+      "kr_sha256": "6c4ef2e10c5ef50cfeb2598892a1f7631a61bf27d11dca834eaa8d5109c0fc5f",
+      "en_sha256": "36ceff9e8671fb36d2b3ee798812ea7c6497ab31e82f7e0c10e3a30a264f94ad",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_combine_scroll_tag_theme_limited].content": {
+      "pl": "Wyłącznie w pakiecie",
+      "kr_sha256": "df1ede613a4aa1a1da6ab07fd7e06a2dbcef680b81e40815c999573177c565ac",
+      "en_sha256": "36ceff9e8671fb36d2b3ee798812ea7c6497ab31e82f7e0c10e3a30a264f94ad",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_combine_scroll_tag_theme_limited_combine_ego_gift].content": {
+      "pl": "Wyłącznie w bieżącym pakiecie — Synteza",
+      "kr_sha256": "ee4d73008f76499f5083205e436ea707a97c7b7cf1db078dbf781eec7cbb38cc",
+      "en_sha256": "46ea70543710a6cf5e5e252cacc0a1131e589930decbaa3c3af872ea1733145f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_no_owned_ego_gift].content": {
+      "pl": "Brak posiadanych Darów E.G.O",
+      "kr_sha256": "193bc99edd58908cf8b1723c2a5fd5d3e3f2fc5b53ecb8af729edb69c85e8528",
+      "en_sha256": "02f3dfdf2aaf4052f73c131d69b84042fe43125a527b93d9e125f7540c918430",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_owned_scroll_tag_default].content": {
+      "pl": "Zwykłe",
+      "kr_sha256": "9fc77664c060608b7210ac43db497de30e4d1ca85e02a4fda5b90198937f4230",
+      "en_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_owned_scroll_tag_theme_limited].content": {
+      "pl": "Wyłącznie w pakiecie",
+      "kr_sha256": "6c4ef2e10c5ef50cfeb2598892a1f7631a61bf27d11dca834eaa8d5109c0fc5f",
+      "en_sha256": "36ceff9e8671fb36d2b3ee798812ea7c6497ab31e82f7e0c10e3a30a264f94ad",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_theme_ego_gift_pool_scroll_tag_appearable].content": {
+      "pl": "Dostępne",
+      "kr_sha256": "1b865235dd84d9dfaf7af91a98323a845d4b497cf369e50d9f0eb87b8b19bc86",
+      "en_sha256": "c533cafab69e4033784a7d3857a806e551a95fee2ce47207bdd9a5528a24fb25",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_theme_ego_gift_pool_scroll_tag_rate_up].content": {
+      "pl": "Większa szansa",
+      "kr_sha256": "6b9c8b6e75db8b553b2e4a85ae57c92a199910479b09dea072b9199adfb185d2",
+      "en_sha256": "506d70bd8491806211b14133e528e531767e86cd6423d98a2f56ce074e5c4ea5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_list_popup_theme_limited_scroll_tag_theme_limited].content": {
+      "pl": "Wyłącznie w bieżącym pakiecie",
+      "kr_sha256": "45bee99ebbe7c4b68c707287cc30c4c11249e4d738f43bf4f6687d09c0f13de8",
+      "en_sha256": "8b48862d2a097bac283aac05111b2044fdc5de5382e3d4eb91ed81e41707723e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_sort_by_id].content": {
+      "pl": "Domyślnie",
+      "kr_sha256": "e93ace72614db51cb651fca325a7e7906523bea69c4085f9c14e71e1280b816c",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_sort_by_tier].content": {
+      "pl": "Ranga",
+      "kr_sha256": "655637e090439fa3db5cc61c3672fdc2218a10bed37efc2a5d88f36394647f7e",
+      "en_sha256": "cb9e8664edea8cf5965fb4d4d013974ef10caeaad734702b19617210828cd7ab",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ego_gift_upgrade_level].content": {
+      "pl": "Stopień ulepszenia",
+      "kr_sha256": "78fe10f6bca2948679bde657894dabaa0f42cae2ded6bd0b2264cfc90d868003",
+      "en_sha256": "897ca8a39d284615edd77e656ed839c27b57dc8923325ba138f42ba502bd930f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_7].content": {
+      "pl": "Lustro Imion i Pająków — {0}. piętro",
+      "kr_sha256": "52de17cc70b8a7eed56d76903b3f3154530debcc0a980112c48290839bb5edd0",
+      "en_sha256": "0b14f7113aca6cc2e8558e71664406c01ec6655118a4f1702101c04452a9bf57",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_back_to_heal_again_button].content": {
+      "pl": "Ulecz ponownie.",
+      "kr_sha256": "69c5dc9a197ca6e0a3d09d233b73e68de76a5970b58fc9e2ba650529ec9406e0",
+      "en_sha256": "62f3c6fbd76490d6894c37c9273afbc923a8731a1910bcbad154a269956f777c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_back_to_heal_again_button_desc].content": {
+      "pl": "Wybór rodzaju leczenia",
+      "kr_sha256": "958240db757d52910c80240e9b2a1bb394db764dc4c7a1067f9b2cbdda7e637a",
+      "en_sha256": "dc742218cd36d5d797a7658cabf3b536c1afa83615dafeeaa897cf58eacc1f96",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_cannot_detect_personality_skill_desc].content": {
+      "pl": "Zakup niemożliwy",
+      "kr_sha256": "06748de6d95b2b2abc4abd784635762a607801c552c0c6cf94517ea71b0157e7",
+      "en_sha256": "c2c42018149418b0ca82ffc83ca9462d2f224db5cf7ef48c91d5ccf9bd34b24e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_free_refresh_side_popup].content": {
+      "pl": "Darmowe odświeżenie",
+      "kr_sha256": "842bfe7a60a8fd876c5dc88f83fbad34a9008fd4a28f0820f3a8024d8c99d6f5",
+      "en_sha256": "4cd1ff9fc431d49978dd1376c079428cabb79644b50ee454faac1f1ae2b3cafa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_refresh_cost_returned_side_popup].content": {
+      "pl": "Zwrócono koszt odświeżenia",
+      "kr_sha256": "efe491b8c1fcab9e139d1c784094b163d12b10ae455a382d4e322629eceec02e",
+      "en_sha256": "58e09d43f00713a195455a48644fe96d82420f20051e8c114b5963c6fb4a1a61",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_side_notice_desc_already_upgraded_ego_gift].content": {
+      "pl": "Nie można ulepszyć do obecnego stopnia ulepszenia.",
+      "kr_sha256": "8e7c987c5b0ecb46a3d3e3eb51978b042c4a44483ba82bafc29eacbc7b23baa3",
+      "en_sha256": "a0bf1569a15212aeedea5b177973a772e1ddb7aa7b1e126f3fbfa08de579e5ea",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_side_notice_desc_cannot_refresh_by_lack_of_egogift_pool].content": {
+      "pl": "Brak dostępnych Darów E.G.O do odświeżenia.",
+      "kr_sha256": "4dc4db3e89d361812e00f5ceefb6424d100ebab45988ea60a7c1a68df596498a",
+      "en_sha256": "f9fd3037140baec122c466e13db5f265fc018899d8dd7459d2ec54753364ae6b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_side_notice_desc_cannot_refresh_by_lack_of_starlight].content": {
+      "pl": "Za mało Gwiezdnego Blasku do odświeżenia.",
+      "kr_sha256": "4e87f6ba7e2a74b1b20519290a274a5a9ad3b1cde25afb80a320ccf82dcdba79",
+      "en_sha256": "b2200ea8f0e6097ba004e80e642621e6deaf6c8b0211b30fa2cf23d543ae8edf",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_side_notice_desc_cannot_upgrade_ego_gift_by_low_cost].content": {
+      "pl": "Za mało Kosztu do ulepszenia Daru E.G.O.",
+      "kr_sha256": "a9b2befe6fa0fb752ee462175211c701af6b121daf6b24b0e18b46c31c062d4c",
+      "en_sha256": "1d53b7b77ee6b49b9bbd4964cacf7cdde2d9f4663cef8ca0bc8dad317daeb60b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_side_notice_desc_not_exist_level].content": {
+      "pl": "Tego Daru nie można ulepszyć do wybranego stopnia.",
+      "kr_sha256": "75d629d99b68cf59c0f5d9a9e99c29cbc499f70a8e57d29ec2afbc19a8393a09",
+      "en_sha256": "a4aa7d4f98aa3d6a427ca4d5f96944464ea163e7917f669c7861d94bd1cd7f2f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_side_popup_cannot_combine_requireds_prior_combine].content": {
+      "pl": "Za mało miejsc Syntezy, aby od razu połączyć ten Dar.",
+      "kr_sha256": "6aad10aab4e81b74bcb32304d1b58abe5ca96307da6c8a696e7b3074dfea12e2",
+      "en_sha256": "ab6b59ec1bd112037d6ad25266ed9618010dd117aa0b39c0267caf4791dc9c92",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_Panel_title_md7].content": {
+      "pl": "Błogosławieństwo Gwiazdy Imion i Pająków",
+      "kr_sha256": "0bbe35d105298e16ba1c59024439d85090844c83c43c461e768aabae4d8d54e3",
+      "en_sha256": "9b58ede66c4d96cf3a6968a932ac0385c398ed77bdd7bb400805f1a74a0573ab",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_select_all].content": {
+      "pl": "Wybierz wszystkie Błogosławieństwa",
+      "kr_sha256": "64628fc3b2bd901c657594d4a40fd363a67b433afba080e5a88061aa3cc2b30e",
+      "en_sha256": "83d3af7db124b314f1f899630ab3630c2f52e3d5c68c6bd4c776a2d883454122",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_select_all_level].content": {
+      "pl": "Ulepsz wszystkie",
+      "kr_sha256": "dc312899eb8899d4a8918a1ea66a0943e25f215f3a910d6b1adeb0b898e9a6a0",
+      "en_sha256": "9b4bbd65acd95049a9278bdc39d190fff3a3d60faac93ba82ed2f11e3cd88b80",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_theme_list_popup_no_selected_theme_on_list].content": {
+      "pl": "Brak wybranych Pakietów Tematycznych.",
+      "kr_sha256": "fb169a8112457dd93215240d0fd4e21b06018eb0b44ad4092ae85050d04027d1",
+      "en_sha256": "f811004071bef69e15e7ace414be00a7afba84ee0137241016d277722d3133c0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_theme_list_popup_no_theme_on_list].content": {
+      "pl": "Brak odblokowanych Pakietów Tematycznych.",
+      "kr_sha256": "7f00e08ca7ff2b4b327de047fe17292d2e2e56f25666a65611fc724ffefef274",
+      "en_sha256": "e62e0344b3dc18dbb9e86f4e1913f979544e74582852af18796115242e73eafa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_ui_purchase_exp_loss_warning].content": {
+      "pl": "※ Po osiągnięciu maksymalnego poziomu nadmiarowy Stopień Projekcji przepada.",
+      "kr_sha256": "126259b28a08f0bd985701cdd50fa8616167d8f5aba6ce3d1c32d05bd9df4e48",
+      "en_sha256": "4ed13c1560bfcdc8b73b838f19ad09e1a35451087c9bb6439d2cdbc523a30915",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_will_be_uncombineable].content": {
+      "pl": "Synteza niemożliwa\n[Splot]",
+      "kr_sha256": "3b5b9215a2e68865aa31d72f914df6b30d330bad713ac33fdbb1a0e711c2a0a2",
+      "en_sha256": "2075a9c19c150516ccd16a7bf3f9c1981b7f478a88bb98f6f9853a297e7eda2b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_finished_panel_mirror_pass_exp_reward_label_name_format_base].content": {
+      "pl": "Projekcja: {0}",
+      "kr_sha256": "dfd6d551a97da0c2900ead0d4e5bb97fc861d64acd0c7bc95f5993ea4059e206",
+      "en_sha256": "6375d757991e4e1d01f4f8bb51e1d81c8a1fc922339d6224c56f8d12ebae3d12",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_tooltip_item_detect_personality_skill].content": {
+      "pl": "Obserwacja umiejętności Tożsamości",
+      "kr_sha256": "069818812d6dd7f524879102ca7a0c283e15f10cc734d3cc4613d79c8c634641",
+      "en_sha256": "008e7821ab97a972e24ca1051c1d1abfbba0482ee1ff19c1cc319fbfbd518a94",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_starlight_result_tooltip_item_refresh_egogift].content": {
+      "pl": "Odświeżenie Darów E.G.O",
+      "kr_sha256": "9156442abba1117db1ba025d290f75bce99a9be19201115ea7fcbe21b1ccd6ff",
+      "en_sha256": "b8b7acc07a49399e22286746c674a67438e62c56087cf2af12d60ae17021ae32",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_ego_gift_sort_by_acquired_order].content": {
+      "pl": "Wg zdobycia",
+      "kr_sha256": "5938d9c9be03ebc7b4a267cdc0c4455ec06a4eab8e4e4ba645af3ff5477300e3",
+      "en_sha256": "690dbe9dc0993c4256683738fc3fd541cfa96f60d299be33343615dd58179d93",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_change_skill_popup_skill_pool_desc].content": {
+      "pl": "Posiadane umiejętności",
+      "kr_sha256": "62902091baa1f40dd37e157e0f95fdf3338bc85ad6d317ef0b6f26372aa64fa3",
+      "en_sha256": "515f5fd00d15af0bdcd78824809ca1cdeb617fe5974dbc4ff06a47da2a7074db",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_hard_blocked_7].content": {
+      "pl": "Odblokowanie po ukończeniu Canto VIII.",
+      "kr_sha256": "d3b3685f93163f398545b912f81e02ece19366d9aa0343d0c90cd2ac818699a5",
+      "en_sha256": "58b5a683abab3c455256a066715a11ca64ef76a8f637251bcf26653f62a57201",
+      "origin": "ai"
+    },
+    "dataList[id=purchase_personality_skill_by_starlight_desc].content": {
+      "pl": "Wydać <color=#f8c200>{0}</color> Gwiezdnego Blasku, aby wymienić umiejętność?",
+      "kr_sha256": "c4d775ac8334b237e1c51cebd5f6c2832261b47dea3cd4bb5a193ea3263bb412",
+      "en_sha256": "08434412736a4ffd45f81a219aa2b34036fd854b554e661d9374a63ec90815ba",
+      "origin": "ai"
+    },
+    "dataList[id=ui_blocker_mirror_dungeon_detect_personality_skill].content": {
+      "pl": "Wybierz Grzesznika do wymiany umiejętności.",
+      "kr_sha256": "feecc8119d38dfeb3c2e5aed9377a6cad957c9dc307410ea9e15df133e5e0ab1",
+      "en_sha256": "d977540e34cfae92fed8c2b44ca062428ed56f2943edbe437d63986d1dfd04d6",
+      "origin": "ai"
+    },
+    "dataList[id=warning_select_lack_of_ego_gift_desc].content": {
+      "pl": "Pozostała niewykorzystana szansa wyboru Daru.\nKontynuować bez wyboru?",
+      "kr_sha256": "be61beb1f70154f5201e819efdd0e3c64189d99c131ca7e95d804cd7065c85b6",
+      "en_sha256": "a13212daec25c1f6972c83d829d989f9cfde1e0849ee4c8ee8fcbb6f94e9b489",
+      "origin": "ai"
+    }
+  }
+}

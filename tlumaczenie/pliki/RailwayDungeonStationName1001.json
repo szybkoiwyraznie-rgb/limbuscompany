@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=1001].nameList[id=0].content": {
+      "pl": "Przed wejściem na Linię 1",
+      "kr_sha256": "15a0de2de95eb1d1a1082f9b463ee9358ad31ba79cb6df1d6eb1e9b613888736",
+      "en_sha256": "8e94161db29e9dc79fdcd9906bf90c96281b831f080094aa456f5d0cf3519e63",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=0].shortName": {
+      "pl": "Przed wejściem na Linię 1",
+      "kr_sha256": "15a0de2de95eb1d1a1082f9b463ee9358ad31ba79cb6df1d6eb1e9b613888736",
+      "en_sha256": "8e94161db29e9dc79fdcd9906bf90c96281b831f080094aa456f5d0cf3519e63",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=10].content": {
+      "pl": "Stacja 10 — Rozwidlony język",
+      "kr_sha256": "314db6c494795f2625c84f023f06b89b916f938635182a5f1a8e6291790fee89",
+      "en_sha256": "058e640f7c467c4d13878982e9f35cc363e2224c860cfa8e536a75425e5b0663",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=10].shortName": {
+      "pl": "Stacja 10 — Rozwidlony język",
+      "kr_sha256": "314db6c494795f2625c84f023f06b89b916f938635182a5f1a8e6291790fee89",
+      "en_sha256": "058e640f7c467c4d13878982e9f35cc363e2224c860cfa8e536a75425e5b0663",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=11].content": {
+      "pl": "Stacja 11 — Przewodnictwo",
+      "kr_sha256": "0cba6a4dd6e63b541864e8f3cdbaf92425c530932c533a70a617725af8f72a7a",
+      "en_sha256": "511d1e3ca319a2f2d41eeec9d318039a434af49070a3a756dd620ae61ca5d451",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=11].shortName": {
+      "pl": "Stacja 11 — Przewodnictwo",
+      "kr_sha256": "0cba6a4dd6e63b541864e8f3cdbaf92425c530932c533a70a617725af8f72a7a",
+      "en_sha256": "511d1e3ca319a2f2d41eeec9d318039a434af49070a3a756dd620ae61ca5d451",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=12].content": {
+      "pl": "Stacja 12 — Czystość",
+      "kr_sha256": "68f03eadb0f865564f420e662e96984c2e8038f9e106ee9a87e23cd02ac56600",
+      "en_sha256": "de896b788dfa510a218b9f3a1411adae9b2a89fe0a971ad3dfd5e230d799cdf3",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=12].shortName": {
+      "pl": "Stacja 12 — Czystość",
+      "kr_sha256": "68f03eadb0f865564f420e662e96984c2e8038f9e106ee9a87e23cd02ac56600",
+      "en_sha256": "de896b788dfa510a218b9f3a1411adae9b2a89fe0a971ad3dfd5e230d799cdf3",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=13].content": {
+      "pl": "Stacja końcowa: Nie-ja",
+      "kr_sha256": "515cb5846e9718349bd7e76c5ae715adf40d7685d7d76cf0018abf7974d18d34",
+      "en_sha256": "43d2c07270840636ef498d09bb941bc88ab9db0491df7c25dc04c8c13b77508d",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=13].shortName": {
+      "pl": "Stacja końcowa: Nie-ja",
+      "kr_sha256": "515cb5846e9718349bd7e76c5ae715adf40d7685d7d76cf0018abf7974d18d34",
+      "en_sha256": "43d2c07270840636ef498d09bb941bc88ab9db0491df7c25dc04c8c13b77508d",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=1].content": {
+      "pl": "Stacja początkowa: Spotkanie",
+      "kr_sha256": "b9172c7b7f269463cdc6bb76219e8e024846fc219d10425f650a1e3143c1ef5b",
+      "en_sha256": "dc5f92bd3943499d3eb48d0122dfa4e1f75a7745d565b361f119123dc01e2297",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=1].shortName": {
+      "pl": "Stacja początkowa: Spotkanie",
+      "kr_sha256": "b9172c7b7f269463cdc6bb76219e8e024846fc219d10425f650a1e3143c1ef5b",
+      "en_sha256": "dc5f92bd3943499d3eb48d0122dfa4e1f75a7745d565b361f119123dc01e2297",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=2].content": {
+      "pl": "Stacja 2 — Przywrócenie",
+      "kr_sha256": "87bd268a765bfca263413b1f833938dadd6cfbf90d17bb728843df0408af048c",
+      "en_sha256": "f503ed5a1c4db9a329b8c16de0d97e95a8809eb27e6445be9aad0115bc84835c",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=2].shortName": {
+      "pl": "Stacja 2 — Przywrócenie",
+      "kr_sha256": "87bd268a765bfca263413b1f833938dadd6cfbf90d17bb728843df0408af048c",
+      "en_sha256": "f503ed5a1c4db9a329b8c16de0d97e95a8809eb27e6445be9aad0115bc84835c",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=3].content": {
+      "pl": "Stacja 3 — Zatonięcie",
+      "kr_sha256": "1efeb828d1a9be2ed11e443bd2c9e6c0e968ce5ba3ead6e89e13e1a90c6df532",
+      "en_sha256": "984b2095268a54e351f05199d63ba8b6612a4250963f9aff213355e29b97cba3",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=3].shortName": {
+      "pl": "Stacja 3 — Zatonięcie",
+      "kr_sha256": "1efeb828d1a9be2ed11e443bd2c9e6c0e968ce5ba3ead6e89e13e1a90c6df532",
+      "en_sha256": "984b2095268a54e351f05199d63ba8b6612a4250963f9aff213355e29b97cba3",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=4].content": {
+      "pl": "Stacja 4 — Ponowne spotkanie",
+      "kr_sha256": "85df1804ea5d3e63bef850eceea7883d13eb217d25487f9b0fe2e558f1457e91",
+      "en_sha256": "d5b50e762287fdc6a456e19b964d2c7a2188f70eafb70483995f3a9768197db5",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=4].shortName": {
+      "pl": "Stacja 4 — Ponowne spotkanie",
+      "kr_sha256": "85df1804ea5d3e63bef850eceea7883d13eb217d25487f9b0fe2e558f1457e91",
+      "en_sha256": "d5b50e762287fdc6a456e19b964d2c7a2188f70eafb70483995f3a9768197db5",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=5].content": {
+      "pl": "Stacja 5 — Izolacja",
+      "kr_sha256": "da8ecd67147aaf5b27a5a2b4082f69a328c5b2736c0183984df7d9334a602363",
+      "en_sha256": "8406e6dcc84a209b78c5340d34912556b08a11dcc4105e3051b5173d665276fc",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=5].shortName": {
+      "pl": "Stacja 5 — Izolacja",
+      "kr_sha256": "da8ecd67147aaf5b27a5a2b4082f69a328c5b2736c0183984df7d9334a602363",
+      "en_sha256": "8406e6dcc84a209b78c5340d34912556b08a11dcc4105e3051b5173d665276fc",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=6].content": {
+      "pl": "Stacja 6 — Selekcja",
+      "kr_sha256": "b1798fd2d75bc652ba6389c80b49aae8452bc313266b9805af1f774a714a323d",
+      "en_sha256": "2cfaa6910ea4d1501f0e9694ef16b719840f62958db7623cde1dabdd410ab167",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=6].shortName": {
+      "pl": "Stacja 6 — Selekcja",
+      "kr_sha256": "b1798fd2d75bc652ba6389c80b49aae8452bc313266b9805af1f774a714a323d",
+      "en_sha256": "2cfaa6910ea4d1501f0e9694ef16b719840f62958db7623cde1dabdd410ab167",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=7].content": {
+      "pl": "Stacja 7 — Bezgłowość",
+      "kr_sha256": "ea4e5579a0a5c1d3a87ecf8f0e687028019c0f65557dfed3be1cc65610ebbab1",
+      "en_sha256": "6729960611799de9c622f10cff06921daaeb9a3c77c1f16b7f20b0052847dcda",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=7].shortName": {
+      "pl": "Stacja 7 — Bezgłowość",
+      "kr_sha256": "ea4e5579a0a5c1d3a87ecf8f0e687028019c0f65557dfed3be1cc65610ebbab1",
+      "en_sha256": "6729960611799de9c622f10cff06921daaeb9a3c77c1f16b7f20b0052847dcda",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=8].content": {
+      "pl": "Stacja 8 — Istnienie",
+      "kr_sha256": "6f21056c8679684a13e84da0d9ecdf5e0a95ae43d82043dca19207fbe9750385",
+      "en_sha256": "4d2c48fe04fb8ebd287af3db26b50776943985659eb20847a8df3573a8e50ee6",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=8].shortName": {
+      "pl": "Stacja 8 — Istnienie",
+      "kr_sha256": "6f21056c8679684a13e84da0d9ecdf5e0a95ae43d82043dca19207fbe9750385",
+      "en_sha256": "4d2c48fe04fb8ebd287af3db26b50776943985659eb20847a8df3573a8e50ee6",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=9].content": {
+      "pl": "Stacja 9 — Surowica",
+      "kr_sha256": "1e9cb056056b8bfe2c64dd4ea9c30c1f7f1c767a449a400e42a9cfaba920ab12",
+      "en_sha256": "54f7e4d63e2fd1f96257269554c9167eb86f0f46a19cda134f09a950e5eac429",
+      "origin": "ai"
+    },
+    "dataList[id=1001].nameList[id=9].shortName": {
+      "pl": "Stacja 9 — Surowica",
+      "kr_sha256": "1e9cb056056b8bfe2c64dd4ea9c30c1f7f1c767a449a400e42a9cfaba920ab12",
+      "en_sha256": "54f7e4d63e2fd1f96257269554c9167eb86f0f46a19cda134f09a950e5eac429",
+      "origin": "ai"
+    }
+  }
+}

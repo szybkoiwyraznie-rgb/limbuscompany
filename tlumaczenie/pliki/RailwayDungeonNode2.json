@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=201].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 0%] </b></color>\n\nZnów tu jesteśmy.\nWspomnienie wyczerpujących walk i osobliwe uczucie\nzałamania na nowo przeszywają całe ciało.\n\nCiekawe, czy i tym razem zdołamy przywyknąć.",
+      "kr_sha256": "09a33a6fa987485f466de2e06080d211850964d70cf28025c2146b80e308e4d4",
+      "en_sha256": "05fac23b38f4b69972d3a8549ef7ce31e9765fe9522111c988cdede1bb00ab93",
+      "origin": "ai"
+    },
+    "dataList[id=201].title": {
+      "pl": "Stacja początkowa: Klątwa",
+      "kr_sha256": "392e622935f6410d1ab03017e60a7232166ad23fc5c882f0a1ad689c4b4e236c",
+      "en_sha256": "efd1a1e30facb9015d7c26b0d55644f58e8d6884e94ac1ed922c1812bb6a433b",
+      "origin": "ai"
+    },
+    "dataList[id=202].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 14%] </b></color>\n\nPracowało bez wytchnienia.\nOdkąd rozgrzana pod ciśnieniem para po raz pierwszy\nwprawiła żelastwo w ruch, nie zatrzymało się ani na chwilę.\nAby ruszyć dalej, musimy przerwać\nten ciągnący się od wieków krąg.",
+      "kr_sha256": "bb965fae535f464cf877fec54a76165f07ebfc13dc9a913b3cfd60eda7a458c9",
+      "en_sha256": "d7289b48d569ddbd1f9f8b88256e813ce5ac6cf5a0c37b379170cb0f640f6d5c",
+      "origin": "ai"
+    },
+    "dataList[id=202].title": {
+      "pl": "Stacja 2: Kierat",
+      "kr_sha256": "98336a3bfa4ac7d86cc70da4f1495d5617da64f9b933b50d58c8a4086c5e19ed",
+      "en_sha256": "2aed9894d0f07cf7d16f9b51e3a25a4f427469a15bcf6dd67c625cd10ee9dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=203].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 21%] </b></color>\n\nLis czasem płacze.\nNie wiadomo, czy z żalu, czy tylko zaklina deszcz.\nWiemy jednak, że parasole wbite w jego ciało\nnigdy nie chroniły go przed ulewą.\nAni razu nie rozłożył ich dla samego siebie.",
+      "kr_sha256": "f9af6d41c2abac987c1cab91f190e834b2d3ab9244a9fe4d1ece910c9b6566d6",
+      "en_sha256": "1caf3350ecdd9ac2b3ee0d510a53e4be78b2ed254ad672133c51116d2d6f201c",
+      "origin": "ai"
+    },
+    "dataList[id=203].title": {
+      "pl": "Stacja 3: Ulewa",
+      "kr_sha256": "69ad87867cd37227b1ce854c6a75f4ed661c635dedf6a961fd625205ff2eb1b6",
+      "en_sha256": "b3eae775044368c109be6ba869143e8f1bada30dfb0cb7ff3e0987754d9cf99c",
+      "origin": "ai"
+    },
+    "dataList[id=204].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 37%] </b></color>\n\nMówią, że czas to pieniądz.\nSłyszałem też kiedyś opowieść o skąpcu gromadzącym złoto w głębokim podziemnym skarbcu.\nMoże więc gromadzenie i odbieranie czasu jak pieniędzy też nie powinno dziwić.\n\n…Nie rozumiem tylko, dlaczego od patrzenia na ich zegary pęka mi głowa.",
+      "kr_sha256": "9b8e1353b4a5f78c874f3dd46cb02556cb7e98641825087421f63456804e525b",
+      "en_sha256": "ccca9db1efea846ec8691047385c5802e9a23145034487e9cb6195ab46cd1753",
+      "origin": "ai"
+    },
+    "dataList[id=204].title": {
+      "pl": "Stacja 4: Zwłoka",
+      "kr_sha256": "555375371b00c8303147a9e86db6623417c8b4770cc5d4c68c9ca67715ef4dad",
+      "en_sha256": "5f60d0f0f7bc1ab394aa324afae79736ab98eef33856eaa52710c607097147ed",
+      "origin": "ai"
+    },
+    "dataList[id=205].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 49%] </b></color>\n\nW tym pociągu współczynnik załamania rośnie wyjątkowo stromo.\nKażda kolejna stacja ciąży coraz bardziej.\nTen gruby pień i las skąpany w błękitnym blasku wyglądają jak wymarzone miejsce na chwilę wytchnienia…\nTurkusowe światełko na gałęzi kołysze się, jakby przyzywało nas do siebie…",
+      "kr_sha256": "93ec5278ae02eb080e5f44b4d42ed6c70edf8259e67c8dfb3297ae107b770e0d",
+      "en_sha256": "81986c22f74de05766d133a160a5e0b68a6fabe1f887ed72f8cf1c6af97e4854",
+      "origin": "ai"
+    },
+    "dataList[id=205].title": {
+      "pl": "Stacja 5: Wabik",
+      "kr_sha256": "b865d1a1a34cab3e124046d5416d789a9c5fab9c5361b52558841d5c612e6ebd",
+      "en_sha256": "3f7d2f573499f88b1db04dca33c8b304c73ebb8aa9bec347bc1655fdc8be7175",
+      "origin": "ai"
+    },
+    "dataList[id=206].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 63%] </b></color>\n\nCzasem, by przetrwać, stajemy się bezwzględni i samolubni.\nŻeby samemu uniknąć cierpienia,\nskazujemy na nie innych.\nPrzed dwoma przyciskami na stacji ogarnia mnie chwila wahania.\nCzy na pewno postępuję słusznie…?",
+      "kr_sha256": "d2c2d89f56e3c774ec7b2e18734d72d6165248d9452c915214a4b7ae73571486",
+      "en_sha256": "e89a14c0f64a49b2960737ddbb1309883ba46d609acd90bfeec51c74b795b842",
+      "origin": "ai"
+    },
+    "dataList[id=206].title": {
+      "pl": "Stacja 6: Wyzysk",
+      "kr_sha256": "3572be594fddbab39fbc92f683f1db1d4ece27892b5229ddfe463cfc257d1bff",
+      "en_sha256": "a01074b53a3eedc71bf8c9ab187cf3809209b994527f024d81f9ea9d80cdd64d",
+      "origin": "ai"
+    },
+    "dataList[id=207].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 86%] </b></color>\n\n„Wypijcie po jednym!”\nDrzwi wagonu jeszcze się nie otworzyły, a do środka już wlewa się mdlący odór alkoholu.\n„Śmiało~ Cha! Nie ma to jak wróżkowy trunek, co nie?”\n…To nie wygląda na coś, co w ogóle nadaje się do picia.\nSądząc po tym, że jednego z naszych Grzeszników aż skręca, nie tylko ja mam takie wrażenie.",
+      "kr_sha256": "ad06a47316163d625510d70db7907c2d39aa41082e5b5d254c4d4a6e9bad941d",
+      "en_sha256": "9e990537e4ec5d0449c28116f17a2eb3db1a66bca904c54b6d6dd6e25439e63d",
+      "origin": "ai"
+    },
+    "dataList[id=207].title": {
+      "pl": "Stacja 7: Odór",
+      "kr_sha256": "280a9d141c3426577da177bcde2d5cad7ce23991036284f07334279244a498b0",
+      "en_sha256": "0e23f0cd7bbe3faa1e4add346cdd37e2269e9368d2bb49a9d98a1ecab4961990",
+      "origin": "ai"
+    },
+    "dataList[id=208].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 96%] </b></color>\n\nPociąg czeka na naszą decyzję.\nPrzebić się przez sięgający granicy współczynnik załamania, czy…\nodbić się i jeszcze raz zatoczyć krąg po tych torach?\nTak czy inaczej, musimy wybrać rozważnie.\nNie możemy przecież zabłądzić… jak to coś stojące przed stacją.",
+      "kr_sha256": "87c2ab5c0af6b5754f7a3821c57f477e9d46e66f612ca61fedb8673948305506",
+      "en_sha256": "8e5a9b82a7bba26e8b5519151379316185f6e4d69ec55242db2962841cc48500",
+      "origin": "ai"
+    },
+    "dataList[id=208].title": {
+      "pl": "Stacja 8: Cykl",
+      "kr_sha256": "eabd2377fbb6f3d22da4e9252b58f13a3a799bb349a2631340a28cbb2dd79281",
+      "en_sha256": "b51550217a9a02677a8ec3f175aec8ab32aa65a33d374f25e30a388941706456",
+      "origin": "ai"
+    },
+    "dataList[id=209].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 37%] </b></color>\n\nMówią, że czas to pieniądz.\nSłyszałem też kiedyś opowieść o skąpcu gromadzącym złoto w głębokim podziemnym skarbcu.\nMoże więc gromadzenie i odbieranie czasu jak pieniędzy też nie powinno dziwić.\n\n…Nie rozumiem tylko, dlaczego od patrzenia na ich zegary pęka mi głowa.",
+      "kr_sha256": "9b8e1353b4a5f78c874f3dd46cb02556cb7e98641825087421f63456804e525b",
+      "en_sha256": "7e19ca27d7453855ab067b82c787f7ee88432ea8e5acb001d6e04bb96c6eb2bb",
+      "origin": "ai"
+    },
+    "dataList[id=209].title": {
+      "pl": "Stacja 4: Zwłoka",
+      "kr_sha256": "555375371b00c8303147a9e86db6623417c8b4770cc5d4c68c9ca67715ef4dad",
+      "en_sha256": "5f60d0f0f7bc1ab394aa324afae79736ab98eef33856eaa52710c607097147ed",
+      "origin": "ai"
+    },
+    "dataList[id=210].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 86%] </b></color>\n\n„Wypijcie po jednym!”\nDrzwi wagonu jeszcze się nie otworzyły, a do środka już wlewa się mdlący odór alkoholu.\n„Śmiało~ Cha! Nie ma to jak wróżkowy trunek, co nie?”\n…To nie wygląda na coś, co w ogóle nadaje się do picia.\nSądząc po tym, że jednego z naszych Grzeszników aż skręca, nie tylko ja mam takie wrażenie.",
+      "kr_sha256": "244e7ef5d1c4a026c1ff6a3bc5385821a5d49d233aaf842ed43870d7bcd8b947",
+      "en_sha256": "2f0dba1caf7b01d482988da6226ce08376822a78b324a5fdfda4109017d45bba",
+      "origin": "ai"
+    },
+    "dataList[id=210].title": {
+      "pl": "Stacja 7: Odór",
+      "kr_sha256": "280a9d141c3426577da177bcde2d5cad7ce23991036284f07334279244a498b0",
+      "en_sha256": "0e23f0cd7bbe3faa1e4add346cdd37e2269e9368d2bb49a9d98a1ecab4961990",
+      "origin": "ai"
+    },
+    "dataList[id=211].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: ∞%] </b></color>\n\nOto prawdziwa stacja końcowa.\n\nWłaściwe miejsce, by wysiąść z tego pociągu i nie stać się zbłąkaną duszą.\nWspółczynnika załamania nie sposób już zmierzyć.\nPo raz pierwszy odkąd wsiedliśmy do tego składu…\nzobaczyłem drogowskaz.\nCzy mówi nam, że to koniec trasy?\nCzy może… że tutaj kończymy się my.",
+      "kr_sha256": "15c98fd3c840be4d087eb34e40fb68532a5b6bb9693661a084c805cbcb151c16",
+      "en_sha256": "f7728817d67837b217a55585bc7e3782d6e93b75fcb1da6d390c511994580d82",
+      "origin": "ai"
+    },
+    "dataList[id=211].title": {
+      "pl": "Stacja końcowa: Ogród",
+      "kr_sha256": "8cb43dfb54eb961509c4611e47a8c4c061ddb7cf7e8cbd262ce93d58d2abe7af",
+      "en_sha256": "f9cd57862f1aaca95b56176270bde8a72326a6585a1c57139fe170eb9fa0e563",
+      "origin": "ai"
+    }
+  }
+}

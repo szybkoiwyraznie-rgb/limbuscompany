@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[id=3].nameList[id=0].content": {
+      "pl": "Przed wejściem na Linię 3",
+      "kr_sha256": "beab2571fc836c06b5b845c4e4b23def263aa20fcaf13e9efd33774a80b3f319",
+      "en_sha256": "c6b3a23b25da421cd8eb8264fa96e35cd715f837da2d61c44ff59fc640b799ce",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=10].content": {
+      "pl": "Stacja 10 — Pranie mózgu",
+      "kr_sha256": "b5745472e37adfc2327a6de4af59ff4151226b4eafee4d9e84d38e311c92a215",
+      "en_sha256": "3b3f30147cc12c1d1b764e87c8958bbf80afc4e8f883bbef97b4f8ca20b8c4c8",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=10].shortName": {
+      "pl": "Stacja 10",
+      "kr_sha256": "4e22e68644c446033f51b48b72ef33b24bbb0e072b8dc100b1409529de8a6e42",
+      "en_sha256": "16aaf3fc78d05a95e5d38e8b351c6af637220d850ae1ebd42ecd278c4ccb2ad9",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=11].content": {
+      "pl": "Stacja 11 — Lampa gazowa",
+      "kr_sha256": "a1853d5745723d26def5dcebfa907c71ede4ba156c83b6c3e3d7a5d3fbe69d95",
+      "en_sha256": "5c1a712504e81dea7d47b1778f6fa355c6f211c842ec63ce3a472b7ea41b0617",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=11].shortName": {
+      "pl": "Stacja 11",
+      "kr_sha256": "ca888a7451561e19c3a24e12502684bdf064367af2ffb7f0fa00b88d61eab53b",
+      "en_sha256": "8eaab1a9cc14089d28b1383c37947aa25beb4d29eb93eaf96f6f4f2c168ad7b0",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=12].content": {
+      "pl": "Stacja 12 — Postój",
+      "kr_sha256": "779797de67778770dbf66342dddbabaa4e023bf2347d62052b66130a15df4689",
+      "en_sha256": "fe4a1480cfd82092acf7495463ea789ae47742f7079170d89475b3a067813f17",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=12].shortName": {
+      "pl": "Stacja 12",
+      "kr_sha256": "d6b93bb19e89cddde56a076463a6da305329f1130396f4df8c4a2d9c7337b692",
+      "en_sha256": "d24d9dfebf78af03803c5523cdd41313976c6dc0b528134dce3a2e8751097a2b",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=13].content": {
+      "pl": "Stacja końcowa — Spirala",
+      "kr_sha256": "a0de237a64469c751d7c5e651e6f98273a6d985a15f9468a9f22fb3a4f391125",
+      "en_sha256": "e6d3348d751a0c93eb7f97151b0f7ba2a9990521fdd84534383b9e6f00ac0f1e",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=13].shortName": {
+      "pl": "Stacja końcowa",
+      "kr_sha256": "b499138752f58eca702041911f4515106f3b8990fb765abf8fd9cd070cc80dc0",
+      "en_sha256": "c6284f61ee1924c1bd5c6a44f34fbfbff968f9994084fb2a67e54515ca275653",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=1].content": {
+      "pl": "Stacja początkowa — Tryby",
+      "kr_sha256": "0866d2389d3ca65fcd6d5900bb99d5b321c129e7a1866982ad3fbd834125a10f",
+      "en_sha256": "99225b9b159677bf7a6f4bfcc9ad2520a1a582c1d39fe2aef63f1e0623e03228",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=1].shortName": {
+      "pl": "Stacja pocz.",
+      "kr_sha256": "06a7acb50db16ed0a9e9dce9f2a0ec890bf05274b72dedfb77b20284fc152f8c",
+      "en_sha256": "4083b32b35ee56441995353cf1f10638c8a2674bc3a09fb10daf7d4f5f560edf",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=2].content": {
+      "pl": "Stacja 2 — Fale",
+      "kr_sha256": "a494020c42ada722052d40f76bc5f0bbee1414835e636a8d605156199e39282c",
+      "en_sha256": "b49aa3e7d165e2adba6d05a1e9d9707ec725661ba69dae2eb24214fcea2a284f",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=2].shortName": {
+      "pl": "Stacja 2",
+      "kr_sha256": "2cbc8de0fc6d4215ba4274c66048d6a74b87b8beed7437629620d37f60665a2d",
+      "en_sha256": "c9d185c6dfbedb6aae867fb41e23d1a82355d14702a6f7c2287f19ed1470632c",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=3].content": {
+      "pl": "Stacja 3 — Nostalgia",
+      "kr_sha256": "b02561b93e796453c0beca35ba4a0ed9dd9e11a14337bc9f894150fca03b496a",
+      "en_sha256": "3875638dba13d514883db439f12688b90916b8a8b65103abcef385f9e56da97a",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=3].shortName": {
+      "pl": "Stacja 3",
+      "kr_sha256": "7fda7c3625b0fcc7b71a64167d63d9f24f17055746638487904354ac16fd4f3f",
+      "en_sha256": "e73488e6cb7084dcd8fff7ce973f3eaade9fa3a0033340c6270ec319ffcfb765",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=4].content": {
+      "pl": "Stacja 4 — Postój",
+      "kr_sha256": "5cd02f04e744943ca0090de976a1bf75d6c7375bf0e8dbdb5944d6d63190e668",
+      "en_sha256": "094e60f73b389812a8c77f985d608542a772bda3f676c227d18c854beb46b3ea",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=4].shortName": {
+      "pl": "Stacja 4",
+      "kr_sha256": "3330037920392d1819e1063f9b2988311b7f4ae7bdc607e9a706bf16ad9bc0db",
+      "en_sha256": "eaa9c3de0a80c80d68aec4ff4a90f110da6a38671fcb6291578ddb69064d3114",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=5].content": {
+      "pl": "Stacja 5 — Umartwienie",
+      "kr_sha256": "a942255178a064065247b1d049ad3e2de4083d7b7be9696f414c3bc81749829f",
+      "en_sha256": "3c891dfbe594172a5c834ef4264496b10621f6856526b023dde760e7db1b68ed",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=5].shortName": {
+      "pl": "Stacja 5",
+      "kr_sha256": "7ba8254b624a50295d52a27ad5cffdcf80c14ec2c0f5e7ed629041220de95b63",
+      "en_sha256": "d29973699ee3b8451caaa43747cb1e6550aeda9b7cd20133ff53270357b06206",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=6].content": {
+      "pl": "Stacja 6 — Prawda",
+      "kr_sha256": "3180cdef2fb3caf227cc1b7ec7a454aa9253c795d6b5329911f79f10162af993",
+      "en_sha256": "029b8968413f5c34f83121bfcc8014ad93d40feb4b431608cc12941444ca5ca1",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=6].shortName": {
+      "pl": "Stacja 6",
+      "kr_sha256": "59ee305e119cdcf44f52565cce4f16f02ce5089f7cb813cbb6a885bcef18ff4d",
+      "en_sha256": "b26a14d786b8c0f6ad3b2245fa10f6923080ed7132ebf36f036a536fee07897c",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=7].content": {
+      "pl": "Stacja 7 — Przeobrażenie",
+      "kr_sha256": "bbaeeb66a09a5128f3e2209041db0d0430d0736a09e77fe0cd1c3f1fb0b42c23",
+      "en_sha256": "ae1769c8c4f2df3162b1a3806218e68d27185c0cfec642aa54709d7fc0e60b72",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=7].shortName": {
+      "pl": "Stacja 7",
+      "kr_sha256": "fbea1a21be6c1d8d3d6ef8a75b67d8ce44f743b9088331d2221ec2e90eecb65e",
+      "en_sha256": "00c919b26094221c7ae3471466390572788bab976100c3562c93391554fee37c",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=8].content": {
+      "pl": "Stacja 8 — Postój",
+      "kr_sha256": "7cf2ecf7dfd8586bfe71a5c32e8c0c339a5384d4685c2db7c1c7288937b1fe73",
+      "en_sha256": "87c0b3fea9d3e2a4621e06d18c14a10317e2a09a4ff08d34559b81527d8e3e12",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=8].shortName": {
+      "pl": "Stacja 8",
+      "kr_sha256": "bdec57993e1b816ee0625bbb29571101cb57fb9d3726d53ecc5c98c7420724d9",
+      "en_sha256": "68cdb784844205ce720182ee9ea1cf814d41c2bc6ec0ab853015d72f30b08739",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=9].content": {
+      "pl": "Stacja 9 — Zblednięcie",
+      "kr_sha256": "dab87d6d77ec21e2e2a14dfa058c412e00f349027ed2cf9cb90bcaac9b019a37",
+      "en_sha256": "05849c7e691136ffab5822a1830b9ea8f2615e613a7a34798854aad383b5ee8b",
+      "origin": "ai"
+    },
+    "dataList[id=3].nameList[id=9].shortName": {
+      "pl": "Stacja 9",
+      "kr_sha256": "8aa18e35b9238c378a9d895fd48886859f878a5d2610f42bf337c1c2a3c568dc",
+      "en_sha256": "05bb3ba24012211cc559d2bb4eae981557e8b36d709fa1a2cf495d6298e7fca3",
+      "origin": "ai"
+    }
+  }
+}

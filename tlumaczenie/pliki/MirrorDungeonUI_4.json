@@ -1,0 +1,1774 @@
+{
+  "entries": {
+    "dataList[id=combine_tooltip_desc1].content": {
+      "pl": "Gdy zdobyto już wszystkie dostępne Dary E.G.O wybranego słowa kluczowego w prognozowanej randze",
+      "kr_sha256": "2a28ec81617c8eccb932ed382f26fe09b931113aa2d7c805bf871d60d724baf5",
+      "en_sha256": "d319ed62b239dfbc23e4183adabeab3dda8c38a3e738288c38221bc19b50c33b",
+      "origin": "ai"
+    },
+    "dataList[id=combine_tooltip_desc2].content": {
+      "pl": "Gdy wszystkie Dary E.G.O wybranego słowa kluczowego w prognozowanej randze zostały już przypisane do wydarzeń lub nagród za bossa na bieżącym piętrze (dostępne od kolejnego piętra)",
+      "kr_sha256": "3b8c3e48a79bf79ff44b19ec79f4f6c4f6bb647602ac181d769261b3ce5a8bcd",
+      "en_sha256": "d6052cf9098fa561fe3146a5218c6a6cad630127e4376834839c3c24791e7785",
+      "origin": "ai"
+    },
+    "dataList[id=combine_tooltip_notice].content": {
+      "pl": "Gdy zdobyto już wszystkie Dary E.G.O prognozowanej rangi, przeprowadzenie Syntezy jest niemożliwe.",
+      "kr_sha256": "95f62c0426b7486ec863d244c9eacb4dd9cdc15b14bfd637c7486e2a856a82f4",
+      "en_sha256": "50cca41f3c0380ae65a985fbc15e067ce578e6629cd1f3d595be38116860a725",
+      "origin": "ai"
+    },
+    "dataList[id=combine_tooltip_title].content": {
+      "pl": "W poniższych sytuacjach wynik Syntezy Darów E.G.O może odbiegać od standardowej formuły — prognozowane słowo kluczowe jest wówczas oznaczone jako „? (Losowe)”:",
+      "kr_sha256": "a97cc2087c155a26dafb1795f55f2e1df4e552bc9e41691384b9945c7bd32a21",
+      "en_sha256": "b9c5dc411abf508969ad47d4f04e0a16fb777ec360394e5c4032090c6a57f413",
+      "origin": "ai"
+    },
+    "dataList[id=confirmed].content": {
+      "pl": "Gwarantowane",
+      "kr_sha256": "5689404bc1e8d75f4d5732d1a4d9fd03a8541aba1ee772ac811da2ad176cb1c1",
+      "en_sha256": "d3ab7a7b023e7741e071fa053c733d72c6a08d20dab931e02ff622df58d98ddc",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reawrd_card_selection].content": {
+      "pl": "Wybierz kartę nagrody za walkę",
+      "kr_sha256": "9961f9c3e5975e8ae320065bc83ebebf8ba4daa352b9062627fedb3a3b91ac25",
+      "en_sha256": "2d65e9eae1eb0cc709736e3cd65ab45b84f79110544bf09f8005499a357bcd91",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_elite_battle].content": {
+      "pl": "Starcie elitarne",
+      "kr_sha256": "6ee2a61d5845a52c88b5cfd4df839b30b07241a5bb685f6019b3fa9e5856b03a",
+      "en_sha256": "edc1a518301cc6f59bd918a9e557e6a495ecbba50e309b9df4d2b3215deb8af8",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_opportunity_to_select_rewards_remaining].content": {
+      "pl": "Pozostała niewykorzystana szansa wyboru nagrody.\nKontynuować bez jej odebrania?",
+      "kr_sha256": "a5e5abe399dca8780aa8219ac7ddddeb1bd6fd0cea41b090a932a08cdd715348",
+      "en_sha256": "46a6b8e4e0b0628b51e11072aafe45515df561ac08585c8a6779014aaf47ce8c",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_selectable].content": {
+      "pl": "Dostępne",
+      "kr_sha256": "9a1a616927617d3e6a61812853eebc492db2363c861c513f10d4ecdc38387458",
+      "en_sha256": "f84a01b259a815177e8a0df58f3ed4260a945c6f9223ca86b7ff439a92669870",
+      "origin": "ai"
+    },
+    "dataList[id=easy_difficulty_simple].content": {
+      "pl": "Łatwy",
+      "kr_sha256": "dd0c5cb040fb29116e6c3c2fced2ffdb0727ad147174245e409fd05ebbe98f54",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_combine_ui_plz_select_keyword].content": {
+      "pl": "Wybierz słowo kluczowe.",
+      "kr_sha256": "21b49fa73bf8260f69c85025ce2472ee5df064ad17944332081778868dad5331",
+      "en_sha256": "f54a41f4b555ec8b72a663d62998752ed14a5c2c929e71134821d065e7a8265d",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_select_keyword_ui_desc].content": {
+      "pl": "Wybierz docelowe słowo kluczowe Syntezy.",
+      "kr_sha256": "7dad06e776a2779adb9e3ac59780f919bfaa20c80dd0e867fa2965e4941e3cef",
+      "en_sha256": "3b86d4d790fd0379d5c49538277c04cc3bbb00d60fbb1480b39655092b8cfca1",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_select_keyword_ui_title].content": {
+      "pl": "Synteza — wybór słowa kluczowego",
+      "kr_sha256": "967feff72f47707da5857e6c2f2516b978606e2b394be6d18c8e4e92d8af526c",
+      "en_sha256": "9f3ea9ba7c6c34d3667ed3b2bb63ac87089f226973996b89dc9f276cb85cff45",
+      "origin": "ai"
+    },
+    "dataList[id=enter_ritournelle_difficulty].content": {
+      "pl": "Wejdź (Ritornello)",
+      "kr_sha256": "8f146546cb00518bbdc697e5edd09fa0fc7037074365fd1c9bd5635470eca26f",
+      "en_sha256": "09ce4e894fa1c5cad79da52ea6dbf48f7440ede828caf2374bfb0bf16d133bf0",
+      "origin": "ai"
+    },
+    "dataList[id=enter_simulation_difficulty].content": {
+      "pl": "Wejdź (Symulacja)",
+      "kr_sha256": "6bd84cb48ca79669959e1b39652eebf70583c3babb10a57804ed0cde8b5125fe",
+      "en_sha256": "c26a4b11c58b7b65e359399d072da4ea71fefa89fab3b14f40832aab5ce241d2",
+      "origin": "ai"
+    },
+    "dataList[id=expected_result].content": {
+      "pl": "Prognoza wyniku",
+      "kr_sha256": "a49aeda3ea508a99c676f5e0c29a60d0b720d7d2b3d239585a5da86c75441bea",
+      "en_sha256": "075c7457cf4778c7b6b9859b70e21fd758ec662ed29da6a2ae72588c1ecf96ae",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_100].content": {
+      "pl": "[Jednorazowe]\nPo wyryciu gwiazdy zyskaj 200 Gwiezdnego Blasku (tylko za 1. razem, niezależnie od aktywacji)",
+      "kr_sha256": "2ddfab4f9d1622c601f70094c7dea10998f3c6a93c3ebe56ed71c42c6768fbd5",
+      "en_sha256": "534ad8bf3860486061b29bb7a8ee45d2272c675a0889bd3ae802c75e51d56e90",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1011].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Podpalenie",
+      "kr_sha256": "516a688e9cdcec19acb8f9ef28b1b25f04a963ca1772b6136b6cb08b43ccfbf8",
+      "en_sha256": "a23fcc5e332a8a41dc81c8325fa9b430d18c058b5d5590b4169cecf14014d2f0",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1012].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Krwawienie",
+      "kr_sha256": "74c90ab4f34d874f8fe7b517b9c05cad7cfd0401e319f6399529d755f71f12a0",
+      "en_sha256": "f91d5b5081c4eff593acba478acb51214e3141ab673ace7e584d496f9bd49355",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1013].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Wstrząs",
+      "kr_sha256": "2fc9c046fe989eb75590060893a0e3f43e06594d99fa76c651fbfe0bc817f38a",
+      "en_sha256": "bd829de3956694eb5b64c5cc887475710a83ba3963705e7ac7af9f2dc3da5c98",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1014].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Rozdarcie",
+      "kr_sha256": "6c68a927cbcd3764e383e5130b40da3761ffe2d100a2344eb5edc78607834df8",
+      "en_sha256": "de8d6469125cf80a52669c88b74adab3641e3a2b43490d8942bc1f4783fcd500",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1015].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Zatonięcie",
+      "kr_sha256": "87eac59cd524bea0376bd0b8065046da656b954f25a32f8860ebab0a8b20576f",
+      "en_sha256": "baa3f5c8e771bbe28cdb99b2db700954d61bb567f8de375ea89b7ed0bf9e2cbb",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1016].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Oddech",
+      "kr_sha256": "99a178be31399bb14ec655ce4308c9e2ac85aa9a3f6ec2acb14d07fb55c83bd4",
+      "en_sha256": "2b5af2491cc3e96a466e2991fb16c82dfdf625b5bdb7f2dfbaa06ad57a966cd3",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1017].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Ładunek",
+      "kr_sha256": "29c66cc3a77b3e725354c6a892b517227b45ef09999b99371bef52e6e97c1743",
+      "en_sha256": "8eb45d8a584763bc73fcbc48bc080cc80f9d0790f5b8d89f133236d871317036",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_101].content": {
+      "pl": "[Początkowy Dar E.G.O]\nDodaje 7 nowych Darów E.G.O do puli początkowych Darów E.G.O",
+      "kr_sha256": "87d66475be95693d526996c44f1dd707f5f76af8a27866b032428a8522491861",
+      "en_sha256": "103f3a3871ca8aa683e3a8fe271345325bd805760328e7b4556bfac092e74202",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1021].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Cięcie",
+      "kr_sha256": "93efb9f1286c630fee06d0f18e9a3ce6921d9cde9f27c498a0aacdda1a3d420f",
+      "en_sha256": "3cd68502c523492c355bbe86ba4ff4355901733be708b0d65e347bc0a87f9c78",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1022].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Kłucie",
+      "kr_sha256": "c401000bda748b2f9f349efaa9be51d2df76b662f8b522086e2eb874b256289b",
+      "en_sha256": "6d78f8d74fee50cfa776cc9db7fa3889a481b2e2ac6b5fe2112ac5a3be16bdc4",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1023].content": {
+      "pl": "[Początkowy Dar E.G.O]\nOdblokowuje kategorię Darów E.G.O: Obuch",
+      "kr_sha256": "51fc217676aaa55d0f0c2a2e46c8c266d06e527588c0371fd68e9c63dd56c13c",
+      "en_sha256": "ee8cd87f52804775eb99e7b999b0fc2bef5eded432fa8310ce64ba36611c922f",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1024].content": {
+      "pl": "(NIEUŻYWANE)",
+      "kr_sha256": "4bdadf375ec63f3a6758fc504db39a864d53b2edf733ef8ee13eb4296d0da6a4",
+      "en_sha256": "329d315627bf22f473b55fe25a42ad20824f08c257589d3a0d16be9a07b2b8cc",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_102].content": {
+      "pl": "[Początkowy Dar E.G.O]\nDodaje 6 nowych Darów E.G.O do puli początkowych Darów E.G.O",
+      "kr_sha256": "b1be75fdd88a86f0b7499e512f33246c028320b87f28ce62b7ac2c97bfc805ff",
+      "en_sha256": "9e1567ed297c635f89b84a284459cd78491b35165ed314f4aab42c0ae31041d1",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1031].content": {
+      "pl": "[Ogólne]\nPoczątkowy Koszt +50",
+      "kr_sha256": "8a4486b16cb0448add13b963d43713362b65d942de8101089673c144a3e3f286",
+      "en_sha256": "126c2676281cfcf5fae16917e30c94bd6bafd5e9ec4008eb7be707b009f2b2f8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1032].content": {
+      "pl": "[Ogólne]\nPoczątkowy Koszt +50",
+      "kr_sha256": "8a4486b16cb0448add13b963d43713362b65d942de8101089673c144a3e3f286",
+      "en_sha256": "126c2676281cfcf5fae16917e30c94bd6bafd5e9ec4008eb7be707b009f2b2f8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1033].content": {
+      "pl": "[Ogólne]\nPoczątkowy Koszt +50",
+      "kr_sha256": "8a4486b16cb0448add13b963d43713362b65d942de8101089673c144a3e3f286",
+      "en_sha256": "126c2676281cfcf5fae16917e30c94bd6bafd5e9ec4008eb7be707b009f2b2f8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_103].content": {
+      "pl": "[Ogólne]\nPoczątkowy Koszt +50",
+      "kr_sha256": "77a52e8641e1a746662268676e749f64b59b1aadd43b7fb20b152081b01827cc",
+      "en_sha256": "126c2676281cfcf5fae16917e30c94bd6bafd5e9ec4008eb7be707b009f2b2f8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1041].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Podpalenia +1",
+      "kr_sha256": "7c438e2c5347e6f44e5c16b41d32cb7be019d7b490c5e2c6ff9300ec3aba3fee",
+      "en_sha256": "37a8b6258600ff81f24ad29159ee3d0f9b74a069d222bfb82e737b53ad747b2a",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1042].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Krwawienia +1",
+      "kr_sha256": "e0f5255eab1d1788936a146f2b8834d15ef2304e5f8ecf67cfcacae8130a57c2",
+      "en_sha256": "c0c2c4e336c5378c975f98ca33f0a663b522a89a82fd7dcc893bec752ad6b954",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1043].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Wstrząsu +1",
+      "kr_sha256": "991bd749b88fdeb38f1be17f7f54d58d90624d560f548dedea12dddbfc93e805",
+      "en_sha256": "af0d0fdb98e0ce1130762bc1b2fe9000938122a256e7c3835d8d3d6022d2679d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1044].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Rozdarcia +1",
+      "kr_sha256": "c51a73e5134ccb8e3d90c3975ba3165692444e15491eb4483cec1c6bfdd0122f",
+      "en_sha256": "8dc8daa4cdbea701660961f95b5ecd480399a9490957666ae0bf9bb35d156f7d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1045].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Zatonięcia +1",
+      "kr_sha256": "958657303bdf5b91fc2dabda86cd060e166afd1d649d144c6257ef46b7d538e3",
+      "en_sha256": "dd016d157a71055980cb89498faff664120209c9ebb0c4a9a5577e10bc534c93",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1046].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Oddechu +1",
+      "kr_sha256": "6285f861ac17d0a29c8e5cec36e95b6942c5adf4c6595da1368fa63c40beaee5",
+      "en_sha256": "9c62e596107505705d54237b24a88f2834ac0e3f560ed532083bc614d1237c5d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1047].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Ładunku +1",
+      "kr_sha256": "6e4b2797d61a7c3a34be80a7874f1de795e282e8e4c829f1747331b6875d6f5e",
+      "en_sha256": "098e83524e830afb4df5f461fe450311919231968da2e69756536722563ec29c",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_104].content": {
+      "pl": "[Ogólne]\nDodaje 16 nowych Darów E.G.O rangi 2 do Sklepu, wyników Syntezy i nagród za walkę",
+      "kr_sha256": "563e7db4834bb158c17b80b93ff1bd1738025c6acff92fbb5990dea91e63f3bb",
+      "en_sha256": "4ca02cf5adbfb75e36abdea88a45aa849438bc6a365e7d379cdf8c6eb6c24cb8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1051].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Cięcia +1",
+      "kr_sha256": "7790f33a0f9d2595996c7c427e3168333ee00d63f9e53ec3d2bd18d62db1d85a",
+      "en_sha256": "1a43c5ebc995fcbe690b46af0fd1425f06a1012fbf1a7c05e164fb7a31f82884",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1052].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Kłucia +1",
+      "kr_sha256": "9e4614c8118cfd5731c7bfd5150f23db23cc46424ac40b5b3038b955805a5f0b",
+      "en_sha256": "892b02f3493a8dde6611abae804e97154c0bb479e7e37f54813979b86275d2f2",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1053].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się Darów E.G.O Obuchu +1",
+      "kr_sha256": "f7064ea67b91a63528c83559237cf6720dbfb391a03040f2579f124cc0294124",
+      "en_sha256": "6eae69d3da665c32c95b198ef8c8ccc23dec63a903d06b44fbb5904fc95b0be5",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1054].content": {
+      "pl": "[Początkowy Dar E.G.O]\nLiczba pojawiających się losowych Darów E.G.O +1",
+      "kr_sha256": "4d16e27d6bcc6b823e3ac4d34a40ac62c5b9c950da093c391f694902d3b41e46",
+      "en_sha256": "06f07f708c5c1ba9d36b7080fc00e0e9623fe4ff4eea8f436a96c06ce03406ed",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_105].content": {
+      "pl": "[Ogólne]\nDodaje 28 nowych Darów E.G.O rangi 3~4 do Sklepu, wyników Syntezy i nagród za walkę",
+      "kr_sha256": "acb663dfffec3706be470da8d579896d4340215cc69216a7f873d953a541723e",
+      "en_sha256": "49a3d782febb9616bef87189189e69130e3f6fc812496dba48ce9f348f6a96b0",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_106].content": {
+      "pl": "[Sklep]\nLiczba Darów E.G.O do wyboru w Sklepie +1",
+      "kr_sha256": "0d3564190df6f5e1c8e011d3e3a19167bab435601335c3ca17749e61d7d72f09",
+      "en_sha256": "62594c0b8b23edf27e23d9e0f608bde9da110e4d21d81dcf0ed9a41d8504533d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1111].content": {
+      "pl": "[Sklep]\nWyższa ranga pojawiających się Darów E.G.O",
+      "kr_sha256": "db3385bd9afc63928b66f5d8c915aec71b7dda52f8f2aa7184b7638be85a1a42",
+      "en_sha256": "bd004947934826a3dcdbc9c17300929e581c3a3ba24a9c09d9f954bb14c4c729",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1112].content": {
+      "pl": "[Sklep]\nWyższa ranga pojawiających się Darów E.G.O",
+      "kr_sha256": "db3385bd9afc63928b66f5d8c915aec71b7dda52f8f2aa7184b7638be85a1a42",
+      "en_sha256": "bd004947934826a3dcdbc9c17300929e581c3a3ba24a9c09d9f954bb14c4c729",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1113].content": {
+      "pl": "[Sklep]\nWyższa ranga pojawiających się Darów E.G.O",
+      "kr_sha256": "db3385bd9afc63928b66f5d8c915aec71b7dda52f8f2aa7184b7638be85a1a42",
+      "en_sha256": "bd004947934826a3dcdbc9c17300929e581c3a3ba24a9c09d9f954bb14c4c729",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_111].content": {
+      "pl": "[Sklep]\nWyższa ranga pojawiających się Darów E.G.O",
+      "kr_sha256": "db3385bd9afc63928b66f5d8c915aec71b7dda52f8f2aa7184b7638be85a1a42",
+      "en_sha256": "bd004947934826a3dcdbc9c17300929e581c3a3ba24a9c09d9f954bb14c4c729",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1121].content": {
+      "pl": "[Sklep]\nKoszt odświeżenia -20%",
+      "kr_sha256": "55bde0f80daad5c565984500c68054cdace3df178c7d7a67bd4e2ca4664b5102",
+      "en_sha256": "a1703760851df2bfbd6e02085aa0b58b5cb9a32d5b625c77edea09054ad5943c",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1122].content": {
+      "pl": "[Sklep]\nKoszt odświeżenia -20%",
+      "kr_sha256": "55bde0f80daad5c565984500c68054cdace3df178c7d7a67bd4e2ca4664b5102",
+      "en_sha256": "a1703760851df2bfbd6e02085aa0b58b5cb9a32d5b625c77edea09054ad5943c",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_112].content": {
+      "pl": "[Sklep]\nLiczba pojawiających się Darów E.G.O +1",
+      "kr_sha256": "73cb9240b9359abef20e5bb86c33d73fc0730b87e156820ad751176b970b7b22",
+      "en_sha256": "62594c0b8b23edf27e23d9e0f608bde9da110e4d21d81dcf0ed9a41d8504533d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1131].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O rangi 1 -7,5%",
+      "kr_sha256": "addc6a955d49bca4a43f923941e3ec9155d61e789eec6cbef66830cbaa9b50d8",
+      "en_sha256": "e23f7d22770dcf10a21ec41817075b829012b715267ee93b40bc0b6895e03db8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1132].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O rangi 2 -7,5%",
+      "kr_sha256": "04632fe4f3016d41873e034dfa331741890a5e71e4844626120ee0f88a98f840",
+      "en_sha256": "3b333ae268ae92599e713cafb0f1429c5e45acb42b012ba519cdba5dc703eea2",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1133].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O rangi 3 -7,5%",
+      "kr_sha256": "5d829cf7831a8d3e3dd21ae838904062b44f1bde9534d5fea74ef5e956022ebb",
+      "en_sha256": "7c33a02e03348d457b59aab7cc3f22fdb93644edf6cbb12ccbc5d9d473944d42",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1134].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O rangi 4+ -7,5%",
+      "kr_sha256": "cca3e888d0267cd627902bd1309c15eba224d27d13328facae5c9901ad50a808",
+      "en_sha256": "570f241387da36df437c20f3aa42a59e448919dab5cf8093a1019bfb95e1f40b",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_113].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O -5%",
+      "kr_sha256": "42c5fc6e1e4d2e87cd5e7048f688de51f0810308496ef96149973ebc4ad4b2ce",
+      "en_sha256": "401bdd9bf9c4c5eb62706698b86c315a59a79344646ab76426d48f31e5f8733a",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1141].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Podpalenia -7,5%",
+      "kr_sha256": "c82bbf3809e68af18e82b22b57e38d73eb6899023a8b4bba7a468b57bf2829e0",
+      "en_sha256": "87264b6d33011107844c1640cd796a533cc893d5098120c091602b8bef7e219f",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1142].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Krwawienia -7,5%",
+      "kr_sha256": "9702776be2860f6d60cb7f6f2d4b06c11ffb2ae2ec0e950705e4ac776843030b",
+      "en_sha256": "aef9dbbacd61e9acc32b344217f4964423ad1e19dc6a4b0c2d736d916fc43e98",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1143].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Wstrząsu -7,5%",
+      "kr_sha256": "903dc455c0d61781f4451593303ea118a323234d316948b1e662f34927b35d2b",
+      "en_sha256": "da548d7c64bb20c2d19c2083847277f018041a8bc65c3fcbd844196a9bb857e9",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1144].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Rozdarcia -7,5%",
+      "kr_sha256": "2bebd32c09414f9db972d9c4a83738ffc15089f7b26c7ec5f7d75c9907fdf609",
+      "en_sha256": "b5e77707f6dd4931b2e40293e9735bec3b3e4207a94ece1798c9a72aac8a1d0d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1145].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Zatonięcia -7,5%",
+      "kr_sha256": "7821f3f2dcdc9325671af5e8d7b2198bbb42ed85705321bff66186fc0e829927",
+      "en_sha256": "1cb63e9e9e9628ddd19187ac2e17354dfc93475e27ce899006e42e98ede3134d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1146].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Oddechu -7,5%",
+      "kr_sha256": "6a25979fff1b4b1eabf571b89ef14f6a9f962b589160df3faab9f5ccc9c9ab2a",
+      "en_sha256": "dae378fbdd8c5869502259f34219886e020a9d442ad4935cee0be9f3669522a1",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1147].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Ładunku -7,5%",
+      "kr_sha256": "c5d4f9fd6b11c74db41334963f8f00f6f933f40ead624f619952f7ff3631cbc2",
+      "en_sha256": "fb5bf4650051cf04eaee782aca00f64d5f7a066418159996b746f8bf2b458d5a",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_114].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O -5%",
+      "kr_sha256": "42c5fc6e1e4d2e87cd5e7048f688de51f0810308496ef96149973ebc4ad4b2ce",
+      "en_sha256": "401bdd9bf9c4c5eb62706698b86c315a59a79344646ab76426d48f31e5f8733a",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1151].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Cięcia -7,5%",
+      "kr_sha256": "1dcbfefb0af0ba515b939e6a59f0cbd35531c9e80a554ac960afddca5ef2346e",
+      "en_sha256": "cd0e5ae426acc2221e48f83ca0f0c299706e01b76b4d3b401fe67f3b36fcd05d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1152].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Kłucia -7,5%",
+      "kr_sha256": "e7ecb4f63aefcbb698ff55bad1778658ca088320a198b352372d4a194bbad338",
+      "en_sha256": "aee332ffe44a8da59fa7191dba86fd5ebceb1b4b06e06ec1fb11cd027b56d269",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1153].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O Obuchu -7,5%",
+      "kr_sha256": "32d504ab1cf5340933d4c0fa00e0ea036d648505df07ed824b4e34e13d847ea3",
+      "en_sha256": "39f073c202b1861ad00cf0f527de4df1993f6ca342179935ac7dcf01dfb604e1",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1154].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O bez słowa kluczowego -7,5%",
+      "kr_sha256": "588df8208a7ef6d444419ce181a77b4b15cdc68d9b8cf52cfcb96444459eba74",
+      "en_sha256": "98a690441bcb01b9d0981f5ed38805d8b50bd2870655c80480494ceb1a234e09",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_115].content": {
+      "pl": "[Sklep]\nKoszt zakupu Darów E.G.O -5%",
+      "kr_sha256": "42c5fc6e1e4d2e87cd5e7048f688de51f0810308496ef96149973ebc4ad4b2ce",
+      "en_sha256": "401bdd9bf9c4c5eb62706698b86c315a59a79344646ab76426d48f31e5f8733a",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1161].content": {
+      "pl": "[Sklep]\nCena sprzedaży Darów E.G.O rangi 1 +20%",
+      "kr_sha256": "2c7896edff9f2c99d734ac1363e3e3fee9b722bb6a421a9bf95b6b44a2cf917e",
+      "en_sha256": "0e7bf256c28bb17be988ec254499b67232a3c3e1a63ba9de6c317a3bbec542e6",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1162].content": {
+      "pl": "[Sklep]\nCena sprzedaży Darów E.G.O rangi 2 +20%",
+      "kr_sha256": "abf69d03a6ca8f1ca48cb57f2e8b2e685272c521f564ee03cbe1d02e4c25a14a",
+      "en_sha256": "0f6a01f36becc5e5940f45261a9270223f4712d63b33a2b3200fab97b2a14a0b",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1163].content": {
+      "pl": "[Sklep]\nCena sprzedaży Darów E.G.O rangi 3 +20%",
+      "kr_sha256": "67c39b378b7886c850cc4669209cc0896dc329f4ee1a6c233170725b5446207f",
+      "en_sha256": "7a2eaa032136450075d90674b9e6971a7fd29fdd461c538be232d7dfe30ffe38",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1164].content": {
+      "pl": "[Sklep]\nCena sprzedaży Darów E.G.O rangi 4+ +20%",
+      "kr_sha256": "a7ae57dcacaaa203703735bda3ee4786debc134a0651a05acca05514bd51e880",
+      "en_sha256": "9e85ca7a009857df1606ca580f66a10129683f98a04980ef20d24428647fe64f",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1165].content": {
+      "pl": "[Sklep]\nKoszt wymiany umiejętności -20%",
+      "kr_sha256": "495c42112ed0799a614685337d6ebf03daa8c2000fbdd5963ed9bc6d3693442e",
+      "en_sha256": "21ab7092d74ee1f2d520d0c3c1e12dd78610f24de23c92a23b690e1f40fb200e",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1166].content": {
+      "pl": "[Sklep]\nKoszt wymiany umiejętności -20%",
+      "kr_sha256": "495c42112ed0799a614685337d6ebf03daa8c2000fbdd5963ed9bc6d3693442e",
+      "en_sha256": "21ab7092d74ee1f2d520d0c3c1e12dd78610f24de23c92a23b690e1f40fb200e",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_116].content": {
+      "pl": "[Sklep]\nLiczba pojawiających się Darów E.G.O +1",
+      "kr_sha256": "d2ee1d13207c96bd0f5f87e47bc95b7c98252e4a93e3c014bf96518f4e518347",
+      "en_sha256": "62594c0b8b23edf27e23d9e0f608bde9da110e4d21d81dcf0ed9a41d8504533d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1211].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O rangi 1 -7,5%",
+      "kr_sha256": "555a8c6c83744de200f29e37ce9ce8ea1e2e60b296e654f3f1c04ff534613b05",
+      "en_sha256": "7fb5c02aacb62fbbd410345ec82ee669db2cfcc0acf94d8cfbee77638e155be0",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1212].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O rangi 2 -7,5%",
+      "kr_sha256": "0b08ada3ce3dab7bb9cb2976d641c34ee061a930b6b81c83fc52f54d6c76f5b8",
+      "en_sha256": "87129ed2f22b48849b234568405570c29b37c4867873b0e9f9d932aa2695a717",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1213].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O rangi 3 -7,5%",
+      "kr_sha256": "15c29aa99f14aa7c4b23d2de85fed58f822c438674b43d4eb0ac37c682400b36",
+      "en_sha256": "897e2d4d4d9d0b22ea9bfa08a98d0c907d08391c018e6371f031b0fd30c3022d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1214].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O rangi 4+ -7,5%",
+      "kr_sha256": "ed77a46a07d091dce3a7c88e2a0ef686d5a8173b3b21bb9d284a6c1dec0dc57e",
+      "en_sha256": "ee84275497ebe4f3a0521a51fec8d054960b3d8025fb9f0a4a75a060a16d034e",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_121].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O -7,5%",
+      "kr_sha256": "81b1536b3f23a62bf60619dfea2277b043bf3da64cbd826c71d91a5bdaf02bb3",
+      "en_sha256": "81b41832213e381596d26f11e7b51dbdc309e3090a5c5042a060ee871a9bf0b4",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_122].content": {
+      "pl": "[Sklep]\n20% szansy na darmowe odświeżenie",
+      "kr_sha256": "f74304cc8991a90af4ee994ee75cc288071e2db4d100d846617a5d0c90900b93",
+      "en_sha256": "4bdfab3dc20639c2d65352ab7f03a31d38290efd13253e153de7e4a318b5b2c4",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1231].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Podpalenia -7,5%",
+      "kr_sha256": "31a8a6cd6fb59a790bf2173867971996e1b9710ebbf0a9581794084b37f62c8f",
+      "en_sha256": "9c801e17a15b69a930d1dd36c2c40f66348f3718c1afd8f6f52d28c131375e89",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1232].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Krwawienia -7,5%",
+      "kr_sha256": "2829162ff22d498d9ab3889ad7ad72cb4f84123fc2e746886fcf34d67596589e",
+      "en_sha256": "71d40daebeded2a96bb2242d8d7802eb2f17a3cda72f6a8f036c10fb6c74a14c",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1233].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Wstrząsu -7,5%",
+      "kr_sha256": "40bf67c039f0afa7b4aedd04ab4fb085f347f0ea607f4f4fa1d85874277b6c9a",
+      "en_sha256": "3af7db2db2f39fe72830c136d4ef10cfc74f39caae45e3f908d0d49bf1215cf1",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1234].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Rozdarcia -7,5%",
+      "kr_sha256": "8937a9b72769e7d0719552c39d84de8bfb9987666e64bc6fb29e080bad601002",
+      "en_sha256": "e7f6b60d608d97746eb602241df8f26985e30203498e11fabde7bac1d5a4211d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1235].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Zatonięcia -7,5%",
+      "kr_sha256": "53854d54e9862d7fe2cf120a0097a02c2d5fb11813d3cc83121cea9d63875e02",
+      "en_sha256": "6026293cdfb45965288af4a5d778c69905e20161811f2b77f2f506e8fcc48588",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1236].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Oddechu -7,5%",
+      "kr_sha256": "4280515004d8c984b875988b1cc6f398c8f5f6df726527b8bd7ca6c4c5b21491",
+      "en_sha256": "932c8040042348e93c65c9f275670bdf613f17e9ebd4390475c1229eb9971e1a",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1237].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Ładunku -7,5%",
+      "kr_sha256": "da0344b6817260a33cf02fc85a45e08c4989f99e46feb05d37b18c6725622d98",
+      "en_sha256": "1e08481b22f29253d4a7bb742f5e0357ec2c4c9e824b11e93457f8eff86b3227",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_123].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O -7,5%",
+      "kr_sha256": "81b1536b3f23a62bf60619dfea2277b043bf3da64cbd826c71d91a5bdaf02bb3",
+      "en_sha256": "81b41832213e381596d26f11e7b51dbdc309e3090a5c5042a060ee871a9bf0b4",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_124].content": {
+      "pl": "[Przystanek]\n20% szansy na zwrot Kosztu przy ulepszeniu",
+      "kr_sha256": "4ae872e45ee3c708a48731e92881f1c8064ad5cb06f2d7f4a330d98479f64172",
+      "en_sha256": "e5d0ab4c4de5c4e8ba3db3f1a3234117c29e5b10196fef863a0845dbe6d62b46",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1251].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Cięcia -7,5%",
+      "kr_sha256": "1167bf5c31099e3ffde59d5501f7a8c73da2fe81440c4b3e1560bc1496a8109b",
+      "en_sha256": "f313f246d88be14096f1fc1647f2b9c7760dd64f00098096bd5d34a87095a677",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1252].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Kłucia -7,5%",
+      "kr_sha256": "ff1cb69d8b977cbb1fb0236f7c22679106d4dece7dcb8b236d477c1dc465b866",
+      "en_sha256": "d3607706039c50a5538aeb0b3ff9ca347973ebf5f8664d59270490bb573d85d6",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1253].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O Obuchu -7,5%",
+      "kr_sha256": "70ca8aef8ebc6028138af4fc58c253b4ebcfb8c18e70007ce2d82bb1c7dde4d1",
+      "en_sha256": "2c68cb6d557a7cc72c626c8f79767ed454f0ac5eddacaa3dbd774663e0cd477b",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1254].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O bez słowa kluczowego -7,5%",
+      "kr_sha256": "00e018a81121ecb925846a3794ccf623e525c32ce9e257af59b5ef9cb4892843",
+      "en_sha256": "efae9914938bacfed891081cc9bdcc421977c3a88bfa0a17f81f8802e80b1c4b",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_125].content": {
+      "pl": "[Przystanek]\nKoszt ulepszenia Darów E.G.O -10%",
+      "kr_sha256": "b388a18551163c3472ff4b102e32c6771e554558bf92d485fac84f40490ce096",
+      "en_sha256": "2e94b867eeaf4d2e8d5fb904e740a0fd8d52899456ae03befed9fab008a7de51",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1261].content": {
+      "pl": "[Ogólne]\nZdobywany Koszt za wygrane zwykłe starcie +10%",
+      "kr_sha256": "30f094b8432df3a5683899ad3ef41d945c96f39b86bb99ae58b99457e1fcce60",
+      "en_sha256": "effa367a0743899eee93f28e7e2a0a70643c05b4a990236b1b76c788f1a48810",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1262].content": {
+      "pl": "[Ogólne]\nZdobywany Koszt za wygrane starcie skupione +10%",
+      "kr_sha256": "8f088ad8fbc690ac5b6d87f4ddc0635328c31da53fc50c037339c81defccc024",
+      "en_sha256": "bd7819fdab2d656a92d86f0235334f72a54aba1dea1f1fbe35e8b7b2e73c9e74",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1263].content": {
+      "pl": "[Ogólne]\nZdobywany Koszt za wygrane starcie elitarne +10%",
+      "kr_sha256": "bc8a400f1b13402b179ec044b1bb568054875de63b9b36bef415fbb1f0438f8a",
+      "en_sha256": "190c5c9fa6782d536f19125825bdc1515b76994f853d8caa7e21d7843a18375f",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1264].content": {
+      "pl": "[Ogólne]\nZdobywany Koszt za wygraną walkę z bossem +10%",
+      "kr_sha256": "fa101e2076ded6277ff008016ad5593bbf981d5b8b125bd447ff76e6dbecd2e2",
+      "en_sha256": "b6830bcb0beebf8bb8329bcbc408d9fdef0ca93265512d17112c9c8ac00ec9f8",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_126].content": {
+      "pl": "[Ogólne]\nZdobywany Koszt za wygraną walkę +10%",
+      "kr_sha256": "988fbdeca4d2674ef0f0573ba9c89bfb46adaf3f405246b4eabd1cda6216c3a7",
+      "en_sha256": "b07eb54dc874da706e64b038b5ddc37270e5efa5ad7e5e9664f4b478e81a101d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_131].content": {
+      "pl": "[Motyw piętra]\nLiczba pojawiających się motywów piętra +1",
+      "kr_sha256": "f0cb7256aeba2d5eac51511a69a6396ba18260c0ab244e05d2ec39750b8f1486",
+      "en_sha256": "2521fe14152963854734a5f536fa08a1272a4abca998872dd90ea092836a7b48",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1321].content": {
+      "pl": "[Walka]\nZadawane obrażenia +2,5%",
+      "kr_sha256": "61f25841979d5c4cbca4f8d10f38c98524007f3e4b85e38367fa3c2d2da130b5",
+      "en_sha256": "8f1d9fdc9c2e14f0e0b6c15a9d24e6524d806f9b5fe0ebb1610aec0f8741a881",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1322].content": {
+      "pl": "[Walka]\nZadawane obrażenia +2,5%",
+      "kr_sha256": "61f25841979d5c4cbca4f8d10f38c98524007f3e4b85e38367fa3c2d2da130b5",
+      "en_sha256": "8f1d9fdc9c2e14f0e0b6c15a9d24e6524d806f9b5fe0ebb1610aec0f8741a881",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1323].content": {
+      "pl": "[Walka]\nZadawane obrażenia +2,5%",
+      "kr_sha256": "61f25841979d5c4cbca4f8d10f38c98524007f3e4b85e38367fa3c2d2da130b5",
+      "en_sha256": "8f1d9fdc9c2e14f0e0b6c15a9d24e6524d806f9b5fe0ebb1610aec0f8741a881",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1324].content": {
+      "pl": "[Walka]\nPoziom Ataku +1",
+      "kr_sha256": "ac5c25df3d04398101e336b9962b65631ec918fe34f853d11d7fd56123fab89a",
+      "en_sha256": "4eb253c5f8f860aefc2010baf6c51fc4323f7b826d3d5ff606f38444d5a95ff4",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1325].content": {
+      "pl": "[Walka]\nPoziom Ataku +1",
+      "kr_sha256": "ac5c25df3d04398101e336b9962b65631ec918fe34f853d11d7fd56123fab89a",
+      "en_sha256": "4eb253c5f8f860aefc2010baf6c51fc4323f7b826d3d5ff606f38444d5a95ff4",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_132].content": {
+      "pl": "[Walka]\nZadawane obrażenia +2,5%",
+      "kr_sha256": "61f25841979d5c4cbca4f8d10f38c98524007f3e4b85e38367fa3c2d2da130b5",
+      "en_sha256": "8f1d9fdc9c2e14f0e0b6c15a9d24e6524d806f9b5fe0ebb1610aec0f8741a881",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_133].content": {
+      "pl": "[Karty nagród]\nLiczba kart nagród po walce do wyboru +1",
+      "kr_sha256": "ecefec6b7f34ec32d4f1d59fae33a7ce0a40acf0638551772e6389160f1e0d8c",
+      "en_sha256": "3769583e80318d325b792a2bccc0128b1ad81348ac1516ca5577bc2f62e48e42",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1341].content": {
+      "pl": "[Walka]\nOtrzymywane obrażenia -2,5%",
+      "kr_sha256": "b2a798ad6f360f1b85a5b43010cff0e51abd65bcffdab1d7e6446eb4cb68e51d",
+      "en_sha256": "f2ee4f3907ab2592a89c07378f91c7e11f3d57c5c7c8efc8e730d3ac85541837",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1342].content": {
+      "pl": "[Walka]\nOtrzymywane obrażenia -2,5%",
+      "kr_sha256": "b2a798ad6f360f1b85a5b43010cff0e51abd65bcffdab1d7e6446eb4cb68e51d",
+      "en_sha256": "f2ee4f3907ab2592a89c07378f91c7e11f3d57c5c7c8efc8e730d3ac85541837",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1343].content": {
+      "pl": "[Walka]\nOtrzymywane obrażenia -2,5%",
+      "kr_sha256": "b2a798ad6f360f1b85a5b43010cff0e51abd65bcffdab1d7e6446eb4cb68e51d",
+      "en_sha256": "f2ee4f3907ab2592a89c07378f91c7e11f3d57c5c7c8efc8e730d3ac85541837",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1344].content": {
+      "pl": "[Walka]\nPoziom Obrony +1",
+      "kr_sha256": "18bf5dfe1a7bee174a5f2d90241abe11a082d92f03aacee176c24148a18af7de",
+      "en_sha256": "2a23f12eb7bdab58d7a081496ecbed34770c0a144a79fdbc012ba27fc411fb94",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1345].content": {
+      "pl": "[Walka]\nPoziom Obrony +1",
+      "kr_sha256": "18bf5dfe1a7bee174a5f2d90241abe11a082d92f03aacee176c24148a18af7de",
+      "en_sha256": "2a23f12eb7bdab58d7a081496ecbed34770c0a144a79fdbc012ba27fc411fb94",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1346].content": {
+      "pl": "[Walka]\nPoziom Obrony +1",
+      "kr_sha256": "18bf5dfe1a7bee174a5f2d90241abe11a082d92f03aacee176c24148a18af7de",
+      "en_sha256": "2a23f12eb7bdab58d7a081496ecbed34770c0a144a79fdbc012ba27fc411fb94",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_134].content": {
+      "pl": "[Walka]\nOtrzymywane obrażenia -2,5%",
+      "kr_sha256": "b2a798ad6f360f1b85a5b43010cff0e51abd65bcffdab1d7e6446eb4cb68e51d",
+      "en_sha256": "f2ee4f3907ab2592a89c07378f91c7e11f3d57c5c7c8efc8e730d3ac85541837",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_135].content": {
+      "pl": "[Motyw piętra]\nLiczba pojawiających się motywów piętra +1",
+      "kr_sha256": "f0cb7256aeba2d5eac51511a69a6396ba18260c0ab244e05d2ec39750b8f1486",
+      "en_sha256": "2521fe14152963854734a5f536fa08a1272a4abca998872dd90ea092836a7b48",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1361].content": {
+      "pl": "[Walka]\nZasoby E.G.O wszystkich Grzechów +1",
+      "kr_sha256": "ac9b6c84050da68a6fe8d0f4ef81aa7c7fbdb2e1684937e5dd3035f47beaaf89",
+      "en_sha256": "b03892fa5d86803f0a9c75b30f5c071b16b7366e367de3eb48dacda36006e220",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1362].content": {
+      "pl": "[Walka]\nMaks. Szybkość +1",
+      "kr_sha256": "603c92b27a5c924dc0b3ef5d5e5816140d30d3ff2bfef1d3790e036af2075699",
+      "en_sha256": "a591b14eb36ec946ed9d4f72efd39cca8b8c0dcb09e2f2122508eefb263c53a3",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_1363].content": {
+      "pl": "[Walka]\nMaks. Szybkość +1",
+      "kr_sha256": "603c92b27a5c924dc0b3ef5d5e5816140d30d3ff2bfef1d3790e036af2075699",
+      "en_sha256": "a591b14eb36ec946ed9d4f72efd39cca8b8c0dcb09e2f2122508eefb263c53a3",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_136].content": {
+      "pl": "[Walka]\nZasoby E.G.O wszystkich Grzechów +1",
+      "kr_sha256": "ac9b6c84050da68a6fe8d0f4ef81aa7c7fbdb2e1684937e5dd3035f47beaaf89",
+      "en_sha256": "b03892fa5d86803f0a9c75b30f5c071b16b7366e367de3eb48dacda36006e220",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_141].content": {
+      "pl": "Liczba wybieranych Darów E.G.O +1",
+      "kr_sha256": "be03144d041ab9ad228b7b026ad37a4b4d2447fb3e00ac273231e2775997001b",
+      "en_sha256": "fe3db1920e253d63eddde8df32a07868ebaebe705bc495e5f6d99dc31510287d",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_142].content": {
+      "pl": "Początkowy Koszt +250",
+      "kr_sha256": "ed296fd37f6094e05fdf3f2e1e1ecb0c053a521382dae4a51930bd210b026a38",
+      "en_sha256": "a98db78043297dbc135e29336deb7a7810ef400258697a9ea70487a544ed89a7",
+      "origin": "ai"
+    },
+    "dataList[id=md4_buffs_summaryDesc_14].content": {
+      "pl": "Po wyborze początkowego Daru E.G.O otrzymujesz dodatkowo losowy Dar E.G.O rangi 4 wybranej kategorii",
+      "kr_sha256": "2902dc1f6efed06fcca0a3ab8cc2f317674651f6c8c18eec457d8392dddf2b8d",
+      "en_sha256": "2a7f68634319aa3a4c16bf48d00e1bd29f34e88e1d6af40e5da837b13dda83cd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_popup_title].content": {
+      "pl": "Przewodnik po kartach nagród za walkę",
+      "kr_sha256": "13fdf0c4e1c30fc877e742cd3c8abf511efee3fc54203b74006ad4636c6c185f",
+      "en_sha256": "14240f6e7a2fd7cf4906a6e2cd6f9e74f68171b87deb6e08c42f1763560e8e13",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_0_1].content": {
+      "pl": "Lustrzany Loch — Symulacja",
+      "kr_sha256": "1d6c24c72d031b5acacdf7a3cc02e3b81418ce1a9103e74ab4acf11b9f2efa4e",
+      "en_sha256": "9f1df2b637694570067225aa5e6967269fbfe5b286e9d105977b1713d7585916",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_0_2].content": {
+      "pl": "Lustrzany Loch — Ritornello",
+      "kr_sha256": "2ce14eeedfc50d687b69977a4d1b94dcf280be4e1e6d608200c0f392ae1d21d0",
+      "en_sha256": "2066a39a2a9f708d57c7fcccb65ff0526dc88032d6390b50765cbabfc8121a6c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_1_0].content": {
+      "pl": "1. piętro",
+      "kr_sha256": "0b7df0692f1ae58e53682502aeabc516026e053be96dfab57e377f20264c7f21",
+      "en_sha256": "5ae8deef6e00ae41fdabcf9afc64f00ae74b72b7eafa7e527a2d5d2152523874",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_1_1].content": {
+      "pl": "Zwykłe starcie: 7,5%\nStarcie skupione: -\nStarcie elitarne: -\nWalka z bossem: 100%",
+      "kr_sha256": "cfe59b99dbb9ab5cfec60a5b526e991c4790aaed190498192a37b7716e101b34",
+      "en_sha256": "299649fa79012151269ac09937545c6564743c3217cca9138d6fd6dc4314907e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_1_2].content": {
+      "pl": "Zwykłe starcie: 7,5%\nStarcie skupione: -\nStarcie elitarne: -\nWalka z bossem: 100%",
+      "kr_sha256": "cfe59b99dbb9ab5cfec60a5b526e991c4790aaed190498192a37b7716e101b34",
+      "en_sha256": "299649fa79012151269ac09937545c6564743c3217cca9138d6fd6dc4314907e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_2_0].content": {
+      "pl": "2. piętro",
+      "kr_sha256": "acaf707d8b320630efe53da566bbe45f49d6e1d02218bf80772d4574634eb1e4",
+      "en_sha256": "0d299fa3a73c724e4c887bef0ed18d5f57fceb8031a1a419c2335862c879a009",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_2_1].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z bossem: 100%",
+      "kr_sha256": "e24d963b2bf3ebd2158a571b86162576e5ad24900615bdfa8ed5c26fac847cb2",
+      "en_sha256": "909a25dc9c8c4728efc82598450cd7a5ce28cbaefdff592a57116cbfadbb7caa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_2_2].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z bossem: 100%",
+      "kr_sha256": "e24d963b2bf3ebd2158a571b86162576e5ad24900615bdfa8ed5c26fac847cb2",
+      "en_sha256": "909a25dc9c8c4728efc82598450cd7a5ce28cbaefdff592a57116cbfadbb7caa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_3_0].content": {
+      "pl": "3. piętro",
+      "kr_sha256": "13641dffce20558cd1b850c4fd9be387a7674940a95f6cdb56383caee1462057",
+      "en_sha256": "c4e60e2b996d0abe54b4618e7c3aa15f4f2218debeb30fcf9492c43a12b27943",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_3_1].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z bossem: 100%",
+      "kr_sha256": "e24d963b2bf3ebd2158a571b86162576e5ad24900615bdfa8ed5c26fac847cb2",
+      "en_sha256": "909a25dc9c8c4728efc82598450cd7a5ce28cbaefdff592a57116cbfadbb7caa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_3_2].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z bossem: 100%",
+      "kr_sha256": "e24d963b2bf3ebd2158a571b86162576e5ad24900615bdfa8ed5c26fac847cb2",
+      "en_sha256": "909a25dc9c8c4728efc82598450cd7a5ce28cbaefdff592a57116cbfadbb7caa",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_4_0].content": {
+      "pl": "4. piętro",
+      "kr_sha256": "31a694cda31676c8e0f916d72c0723794cc442c234cbe467d10559cc2d4f4d21",
+      "en_sha256": "7b5e13139f08bd6195431df76b7b20b8e5f893618165066c622176668107318b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_4_1].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z bossem: -",
+      "kr_sha256": "827d5b476626c8fabaa80e83c1647c514cadd69d0e1b886d1f85c468c5df5db1",
+      "en_sha256": "765b556a113fec6a09f4f991e85661fd3c5c1804b5240c859633ac5b9560d5e9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_4_2].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z bossem: 100%",
+      "kr_sha256": "ef946e561e4d320051624bc7a95a00d0eeea2bf904a175aa987b49d26da3d97e",
+      "en_sha256": "5924632c548077900af69740b6bf6a4da919dac10ee6d33147e883a0e27aaecc",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_5_0].content": {
+      "pl": "5. piętro i dalej",
+      "kr_sha256": "f864cb5d36ee3f0d3b3595194905c54011f052a28910fe7e9e55b51d5f30bd12",
+      "en_sha256": "a7aac53bbbb2d29d51fa41dab2dcd09afe20189eec22f467008a5cadb587c6e1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_5_1].content": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_table_1_desc_5_2].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z bossem: -",
+      "kr_sha256": "827d5b476626c8fabaa80e83c1647c514cadd69d0e1b886d1f85c468c5df5db1",
+      "en_sha256": "765b556a113fec6a09f4f991e85661fd3c5c1804b5240c859633ac5b9560d5e9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_text_1].content": {
+      "pl": "Po ukończeniu walki możesz otrzymać kartę nagrody za walkę w zależności od trudności Lustrzanego Lochu oraz bieżącego piętra.",
+      "kr_sha256": "e4740f1c9069a76f54f970b073550eaee3ef59d734ce4904bd9fce625484d3ad",
+      "en_sha256": "97f0dc6ee2ee395720689b4c298ea65862257b67a1ec0c44fb804095f032923c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_battle_reward_card_guide_text_2].content": {
+      "pl": "Szanse pojawienia się kart nagród za walkę przedstawiają się następująco:",
+      "kr_sha256": "04c86cfcc8057c2ec7127c33e3847ab91c2a8231a4a8785baf58c62213ec79ce",
+      "en_sha256": "36e244c32eb6caf1a2e218b0164bb70d509a94b4d94a37aeee89622e2856f0be",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon4_entrance_hard_hint_after_release].content": {
+      "pl": "[Warunki odblokowania]\nUkończ etap 5-36\nUkończ Lustro Wichury (Symulacja)",
+      "kr_sha256": "f23be0aa3270e9d43e9d39288492cfe71895a0a3c8567c7dd3a1f0e04479dd5d",
+      "en_sha256": "775a19d8614a75a0d917c444516bb366242663afa6c103db49fa2bd8f58d8c16",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_10].content": {
+      "pl": "Czarna Noc Polarna",
+      "kr_sha256": "86b377f4dff1d64759e5957a8eac68468fd812c1a67c834667856911120043b6",
+      "en_sha256": "f8085de8dab1bfa3a179b07ca24ac68a592c81a3cc1c6be7c76d738bc9b38762",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_11].content": {
+      "pl": "Cichy Świt",
+      "kr_sha256": "f9157775bb8a96feb243bc3052b4c028d1ec026668848d80a81a6cc4ae2d4e32",
+      "en_sha256": "ae33c8f28e35ff56b5978d845c076e7b081679d604464c7059db5b44294587c7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_12].content": {
+      "pl": "Mroźny Brzask",
+      "kr_sha256": "49a10657a9c8f073b193660b8db817933a02eebe67b02c4782ec9504ae4ac13a",
+      "en_sha256": "5667b3e8d98fbde675e47809e5dc398c32db3ff9002fd1ab03976553df95ae47",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_13].content": {
+      "pl": "Bezsenne Miasto",
+      "kr_sha256": "50bc3d72922b488915ecb353243607f9cd1da51ea316f629c0e8f34601e765c7",
+      "en_sha256": "8070529a94a9ded1ee1b2157afe4c06e501a2242595783dfade092a8f4494f7d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_14].content": {
+      "pl": "Obłoki Barankowe",
+      "kr_sha256": "6ab43e5575e2bf15d7e7c7df1ce92a21da441fda50ccd3b502a8db53f6a95473",
+      "en_sha256": "e5c644ffc30bc667e64efda7e52ee92bd4f75497348a774fd24f720d8058f1b9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_15].content": {
+      "pl": "Bezkresne Morze Chmur",
+      "kr_sha256": "6f3ee38488e5a9a52cf4741e6d2f07c5749263132a2a9cbc084e57fb94a820b4",
+      "en_sha256": "703b7ab8c48cf2c8a72d447eb95455dcce22679deb56196b9b7bf37e9ef62cab",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_16].content": {
+      "pl": "Wiatr znad Przełęczy",
+      "kr_sha256": "61753f93db10a3935869ed68cab6464ea14a4d7d1dec3e50fadafda4c3de147b",
+      "en_sha256": "f72e499abf198178ec5b9f77c1796eae44ffcd306d889a99f2b8b2c062650a34",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_17].content": {
+      "pl": "Porywisty Szkwał",
+      "kr_sha256": "e96e263397402150d03350436b90e7269663d9ad46bec9ee56d10c16d321c58f",
+      "en_sha256": "7e962fa66a78055bab51392e00d191ca496b908721e123d05d0b5569f416c982",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_18].content": {
+      "pl": "Szlak Zachodniego Wiatru",
+      "kr_sha256": "0cbe271cdcf1d24c0afde03c7aa46097d53d7bedc2a26cc9a57e11f4a6fa48fc",
+      "en_sha256": "6692d9b12f5631ee1231f150936c0d408342aa4386bda991f8f7de1d174b04fb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_19].content": {
+      "pl": "Prąd Wznoszący",
+      "kr_sha256": "512abb21827045d7048400ab72524993a65bb07bac102a61ee9a82291f756cbc",
+      "en_sha256": "8a1c1b37694da17d702c1a99087f33b04e0abd9a02abff0bb680f5ef31b44a7e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_19_1].content": {
+      "pl": "Nocna Ulewa",
+      "kr_sha256": "58d7b8dbc3370fd039fcc5b8a9e58982143cb38d234bcadf7e746a76f2b58c58",
+      "en_sha256": "e9c1f516d33b9fc2f0caa69ca3ff48f2ce5add14c6cb38ce1a893ca16110c374",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_1].content": {
+      "pl": "Oko Cyklonu",
+      "kr_sha256": "2ac6d2e74c744bb57769cdd52cb04703a0a5a0b9307d33e809a571b5df7acb8e",
+      "en_sha256": "665b2a3395e91bee072ed5b5e151717cc65bfbc41e03271f963bd88830aadfd3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_20].content": {
+      "pl": "Uczta Piorunów",
+      "kr_sha256": "1527d90575d6e5ee6faeae1559f158b95cb2c79bc9a3d40c51f60b30411dab90",
+      "en_sha256": "ba3b15307a6c56c4c4e45350c8e48ab5eb1e87ce941940037c81b792836f6216",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_21].content": {
+      "pl": "Nadciągający Grzmot",
+      "kr_sha256": "ab7b5a19259b6d209619741c22fa96acb47719b5b3d021072c9bef7d31c05c1f",
+      "en_sha256": "548656989900a622f905ff630c0f35650f5e762c6b3f97a115c2814f2ca058e5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_22].content": {
+      "pl": "Gęsta Mgła",
+      "kr_sha256": "b2de2d36b19d5003c2146d964df904a05f69b3a7b02727e1b2427d08f17ff2ee",
+      "en_sha256": "45ed434d2140d34d75079b5a6105b2ff3de337da84f4c5e48f1fbb37d829776b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_23].content": {
+      "pl": "Wędrowny Deszcz",
+      "kr_sha256": "283d57e119f9e783fb3dc8eda8ede1219143c2859030e6996a580649fe160f84",
+      "en_sha256": "4661128d316e439ae65571b227f66fc4d719f47b08c942abcf62d6ce656f7ae4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_24].content": {
+      "pl": "Nieustanna Konwekcja",
+      "kr_sha256": "fbf14816da59fa21588e29a956ad3d66398ddcd3bd9ebe89ed5dcc17cf7f62c6",
+      "en_sha256": "7d9821f1753696c8f0a9969d594af70258d3177370718f7a13e60071ae59be8e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_25].content": {
+      "pl": "Horyzont Zdarzeń",
+      "kr_sha256": "22a2b0a01f7a30d280c75ad5ac490bb72c861f5c8ff5a4a6cd2a6020085be751",
+      "en_sha256": "db9b8fd3b7de6692b98cf2e8eb2735e75f9436850bff26c25a029ae0c332146d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_26].content": {
+      "pl": "Droga Mleczna",
+      "kr_sha256": "b5895ce809377c63464174e1e2d126561ed2df063295f82226b247c0ae401e16",
+      "en_sha256": "69be0ac6da9ffb9b9527f83876adbf1c93b8c8735245a2bc53c09fbb0fb5da4b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_27].content": {
+      "pl": "Nadciągająca Kometa",
+      "kr_sha256": "4140b67a3611613d1b93da609f3ad56758144b77efc5f9aa3bef00d898cca57f",
+      "en_sha256": "dd5f3b759682e197b4ccba7aa2eefcf03eaa78638dc2651e05b9567cc12e489c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_2].content": {
+      "pl": "Grom",
+      "kr_sha256": "37be2eb390a150c583a5372c7115394cc921eab414801117189125e50f4b6412",
+      "en_sha256": "519bce7bc2dab47f9794b45e2e2c4f6d63f90d340f44a80f3504d5ad9f82ed9b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_3].content": {
+      "pl": "Przejmujący Wicher",
+      "kr_sha256": "609ffcd630ca2cfdb7e9d9d8230cf899ff7acf335331079d6de82c0a3514c2c8",
+      "en_sha256": "9478f0d227317d670e02c9e476bb093d141f19fc54ba970bcf4bc7668c061eb3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_4].content": {
+      "pl": "Pomyślny Wiatr",
+      "kr_sha256": "52130740b9ed3d839acdd56a280b408423b99244ba1438436721fb7c83725935",
+      "en_sha256": "fc8f1634cccd85d53dfe6509f13363396013b3bd385f5329995598507775ee9b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_5].content": {
+      "pl": "Kaskada Błyskawic",
+      "kr_sha256": "812bd3138844687289b90dd8249e8ed121c3e9c52f2f34c64d5496f378a6f961",
+      "en_sha256": "9d99d3fa033fad2179ed095c54a7ef8a228cb36de74e40abdfbb7891a75359a2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_6].content": {
+      "pl": "Zbierająca się Burza",
+      "kr_sha256": "b40f4f60f803808d542bf69a4c11c6bfee54f64693fcfa8297b249270b824018",
+      "en_sha256": "f16ad31b08aba4653b6f5955008a75af071e9c5d164fabadaba6c0abe82eb722",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_7].content": {
+      "pl": "Trąba Powietrzna",
+      "kr_sha256": "4c19d7f36ffc5427570511d4b0783457338b9c9c5e117364b270edd39f52bc72",
+      "en_sha256": "3582d91acb1d5e8bf692fc192bc4eabc4dbd0a99fedfc65cecfb99e0c06879ba",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_8].content": {
+      "pl": "Dzwon Ostatniej Nocy Roku",
+      "kr_sha256": "60c84e6a39e23d2913f8af5a04367ce76d11d646b954815b5c2899eba5210ced",
+      "en_sha256": "b4804a5e6ee5982b5afdcedae5a30498ff5a594fad14cd45372fea8f8b747391",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_buffs_title_9].content": {
+      "pl": "Nikły Zmierzch",
+      "kr_sha256": "8a8c8a59f4a9e2748ed100e11520ec8fbea454bdaeb2661baf5fbed2c1233776",
+      "en_sha256": "f117505fd6ad7cc6d4da844d90a1f1b8e92a33f2f5706ffc292a6c49cd3e66f5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_4_start_buff_name].content": {
+      "pl": "Ścieżka Gwiazd",
+      "kr_sha256": "a0deae8be8c0676b5aa0e2b78d4419730466bcb5f7bef6a2298f7c1dbd6949d2",
+      "en_sha256": "a0826dcf24b08de3bc92732ca0696a8b7d498cebd3259e11af966a1f4bfb230e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_appeared_ego_gift].content": {
+      "pl": "Dostępne Dary E.G.O",
+      "kr_sha256": "7d172ea85dcf2eacd87ca09c3dff9b8ca707dafd03943f5b4968c548bf38908e",
+      "en_sha256": "cfdc82157764223e5a6520072b79397e37fa4e1577429427229e5232ce3a9dde",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_cannot_acquired_ego_gift].content": {
+      "pl": "Nie zdobyto Daru E.G.O",
+      "kr_sha256": "f8b8d7fc9ab3379fe28c830966652352cc6a8bedabd4a13711f2c5654a9e00d9",
+      "en_sha256": "67254d59a408ec04115a71135b87fc29ab3e6c210bff1116cce9b8a59e648e52",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_battle_reward].content": {
+      "pl": "Karty nagród za walkę",
+      "kr_sha256": "7e0b96e3fa6f708672de25187d6fcf17e0b48dc92003ebb5b8f74bb93044ca6d",
+      "en_sha256": "288b5c938bdb09d712b85142340b41e19d06736e5be42a14cd39ec47f2afa760",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_floor_theme].content": {
+      "pl": "Motyw piętra",
+      "kr_sha256": "d0472231ff6c9657f85d92c0b432dd7e77738171c680ac70ac0923bd18ee43d9",
+      "en_sha256": "56c2a08baa7b45d5a987dc7448a09f298e07f5fbcaf3cf30975d1386402a02b8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_finished_panel_used].content": {
+      "pl": "Zużyty Gwiezdny Blask",
+      "kr_sha256": "fb8b0c0a0715191e56f12eacfb714e07e3026e08b95c782fd7638a6027f18738",
+      "en_sha256": "a21047d1b332d118298b6cf97dced91b96cbc2c4a0cc8714ae78679646bdc05e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_4_hard].content": {
+      "pl": "Ritornello — piętro {0}",
+      "kr_sha256": "939ad058a2358060d0d50bd79be941454f63d45996e3ddf537802fcd527aa84b",
+      "en_sha256": "8c474e7b7705bd7d91d092a796bcd287e373a0e8b300f92c0fde534dbddf57f8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_4_normal].content": {
+      "pl": "Symulacja — piętro {0}",
+      "kr_sha256": "d335785360d6f2eea12629cc53b3fc07155c98045ce2b1b2554cfcd26d8bd890",
+      "en_sha256": "0caa518722ee5d2ceb5c03e93ef79d75eae8536be6dc1012ee2e44aa47e2d420",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_before_exploration].content": {
+      "pl": "Przed wejściem",
+      "kr_sha256": "e9b41f78377f47a503ba29926b134d705ac18b8df59476b7a0a7abfa348f653d",
+      "en_sha256": "a7d8610bc34b677998b8167e3c4143b11ce088382cdbc6425750f4e67820d834",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_select_theme_drag].content": {
+      "pl": "Przeciągnij",
+      "kr_sha256": "ac451b8e99043a1bf311cce4e785878070e282704bc9914d33dcbf54db1387a5",
+      "en_sha256": "7083a786b91231389aa80271d4283a66b7d952b3edc62f88462c726ac0f0a65c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_keyword_refresh].content": {
+      "pl": "Odświeżenie wg słowa kluczowego",
+      "kr_sha256": "2b21c2e6152eeb222e6ab0891ba685cc6175d423c260a4536a80ea6c1f5e38af",
+      "en_sha256": "ff0578a43418edba5758cc2fbee09141a29664b596847ad0ecbe80ae2b3fadb7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_keyword_refresh_popup_desc].content": {
+      "pl": "Znacząco zwiększa szansę pojawienia się Darów E.G.O wybranego słowa kluczowego.\nWydać {0} Kosztu na odświeżenie wg słowa kluczowego?",
+      "kr_sha256": "fccadfc86dd0663e949d956a81ff690a8ddb7e000eb39130e4c73ca8020cb5ff",
+      "en_sha256": "5ec07356c2c7f3789f95c0d5af94d1b158d923ddd45360849407aed9eda8f3bc",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_keyword_refresh_popup_title].content": {
+      "pl": "Sklep — odświeżenie wg słowa kluczowego",
+      "kr_sha256": "ddc02c2b949c79c094f31eb202ae5196fa59ec2570ef4836c3442531d92db12b",
+      "en_sha256": "7e674df9d4c2807afee4444fdd2931884d23d47d59f6196b1259b3e177ecceee",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_shop_refresh_by_chip].content": {
+      "pl": "Gwiezdne odświeżenie",
+      "kr_sha256": "178c447fd2325f67ab7e54961ab181b6fa8bc6887d56b2d04f3a8ebec1e0ca30",
+      "en_sha256": "4cd6dc6f56fecd0008a797daab3d3b294431d7d94551a0568027ac9fcddaa8af",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_theme_ego_gift_popup_valid_atk].content": {
+      "pl": "Skuteczne Grzechy",
+      "kr_sha256": "76613692e585d587336a987b06999a5fe46934dae28559f2ab3b616823fbbe26",
+      "en_sha256": "eab029ce815f54196918e6350076f93fd943e078823d4b800e8ec56a133c57dc",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_desc_1].content": {
+      "pl": "W Syntezowaniu <color=#f8c200>połączenie Darów E.G.O o tym samym słowie kluczowym</color> zwiększa szansę na uzyskanie Daru E.G.O z tym słowem kluczowym.",
+      "kr_sha256": "d6c043d386dcbb517f2fe2096ba8adc16c1946e807b6c24f0bcb40ac47cfff53",
+      "en_sha256": "c9d9f9fbc6e2cafef4e8a14a9f042ce86808d57a3e947be3fd0a7ddb30d39512",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_desc_2].content": {
+      "pl": "Przy łączeniu 2 Darów E.G.O prognozowana ranga wyniku przedstawia się następująco:",
+      "kr_sha256": "a8501f214753acf7af1e31bc44766becdb7ca81fac61f845848f7ad58138f4d8",
+      "en_sha256": "fb9a7e17045337d1404cdb2d61dff8daf754c6c1cb61200feb17f13e7c961182",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_desc_3].content": {
+      "pl": "Przy łączeniu 2 Darów E.G.O prognozowane słowo kluczowe wyniku przedstawia się następująco:",
+      "kr_sha256": "825b16cd471bcebe72568374cbd24b9762f253b4238722885795d2834ff4c1e6",
+      "en_sha256": "3bb49399e9b4c8910b33d79e2003e72547b31ca3ba2385e21386c44516e8aea2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_desc_4].content": {
+      "pl": "Przy łączeniu 3 Darów E.G.O prognozowana ranga wyniku przedstawia się następująco:",
+      "kr_sha256": "3bb0cf63784b9e6dd7d3c356d9de82bb56d52ed361e40388ee623b8004588015",
+      "en_sha256": "6f18959cefdf410055e99877e948a88c00095c2ea534e50112d31de5f00a8f28",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_desc_5].content": {
+      "pl": "Przy łączeniu 3 Darów E.G.O prognozowane słowo kluczowe wyniku przedstawia się następująco:",
+      "kr_sha256": "620e5745547b867c8d16b2f7b7f553b6436c4c076a9ea429033f0a0d6c13323b",
+      "en_sha256": "9d3660c6e68f9739362952cc38b666b345600269ea1d1c72e67eff2705751344",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_desc_6].content": {
+      "pl": "※ Jeśli w chwili Syntezy nie ma już dostępnych Darów E.G.O spełniających powyższe warunki, wynikiem może być Dar E.G.O innej rangi lub słowa kluczowego.",
+      "kr_sha256": "ad4750f26cd43503bd86af92f766968c679d4f7a065d0d85d4a2ce20065e08b5",
+      "en_sha256": "478ce70e082b9b2031a4935fa76f0e9643ec9361d6137b659abe0e6eca29275a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_popup_title].content": {
+      "pl": "Zasady Syntezy",
+      "kr_sha256": "466efafe3aa42ed1c7fe98b6382e72adff3ec4f7526676e72bc948538b3d7510",
+      "en_sha256": "7a74835df636fd07338f534b4c36c9241e7bc719d8809e8e13be3c36c3770157",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_1_0].content": {
+      "pl": "Ranga 1 + Ranga 1 => Ranga 1",
+      "kr_sha256": "e63a50700fb3ae04abf8295073e391c0740019c7404dc49aa960a2c3e8877e0e",
+      "en_sha256": "0bdff7ce42d71ff24bb82cac08fdb606d6c821e9900d87cd49650fc99fa5da46",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_1_1].content": {
+      "pl": "Ranga 1 + Ranga 1 => <color=#f8c200>Ranga 2</color>",
+      "kr_sha256": "5a8a9d4ed8fd84ddcbd7b3d3c87fb258df2365cf95db09a4826d67a1e2b57c24",
+      "en_sha256": "7b9e968f787a867c38f2a09b407dfe98b6f0c66fe4d6f61a4e896f9864377afd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_2_0].content": {
+      "pl": "Ranga 1 + Ranga 2 => Ranga 1",
+      "kr_sha256": "e048263905c27131d71dc3935780a3951429a36b42c6504f94144da7a4797b4a",
+      "en_sha256": "ddf7f8ca38cc31a7136b7b6c1719095794cff9598eda2cfedfdc057c4df6042e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_2_1].content": {
+      "pl": "Ranga 1 + Ranga 2 => <color=#f8c200>Ranga 2</color>",
+      "kr_sha256": "6a97080c3dff046e2a405a0bca35aa3d55abe6288d6da4e899072a7ea86d4f8f",
+      "en_sha256": "4993948692952a1315085d983a0bbb4da432ad45e8ac645d8b3eb8ec0f95b948",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_3_0].content": {
+      "pl": "Ranga 1 + Ranga 3 => Ranga 2",
+      "kr_sha256": "064e4e2e288569d831df48b9960be48e0b9b6347a49ec4e9ddec305f8e89ed95",
+      "en_sha256": "c61f91c26f608d16d38a65a47a75180337eb7996c9e910de8ef95c295a871b14",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_3_1].content": {
+      "pl": "Ranga 1 + Ranga 3 => Ranga 2",
+      "kr_sha256": "064e4e2e288569d831df48b9960be48e0b9b6347a49ec4e9ddec305f8e89ed95",
+      "en_sha256": "c61f91c26f608d16d38a65a47a75180337eb7996c9e910de8ef95c295a871b14",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_4_0].content": {
+      "pl": "Ranga 2 + Ranga 2 => Ranga 2",
+      "kr_sha256": "8c9c4076285ecd9b9dc29173e0833ebb95b21f4ca8a378649a5501a547db2a33",
+      "en_sha256": "a35a5decf402f8083dc4da3133812f987f6f84b91299d0e6bfbdf49c9b2e302c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_4_1].content": {
+      "pl": "Ranga 2 + Ranga 2 => Ranga 2",
+      "kr_sha256": "8c9c4076285ecd9b9dc29173e0833ebb95b21f4ca8a378649a5501a547db2a33",
+      "en_sha256": "a35a5decf402f8083dc4da3133812f987f6f84b91299d0e6bfbdf49c9b2e302c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_5_0].content": {
+      "pl": "Ranga 2 + Ranga 3 => Ranga 2",
+      "kr_sha256": "241d0be1d34a0d4345a09158814d20c3ff56a614cd02648a18e02ec0bae0bfad",
+      "en_sha256": "7a512ffd56c18703d6647abcb51197805d832e2702de82ce234698e623456944",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_5_1].content": {
+      "pl": "Ranga 2 + Ranga 3 => Ranga 2",
+      "kr_sha256": "241d0be1d34a0d4345a09158814d20c3ff56a614cd02648a18e02ec0bae0bfad",
+      "en_sha256": "7a512ffd56c18703d6647abcb51197805d832e2702de82ce234698e623456944",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_6_0].content": {
+      "pl": "Ranga 3 + Ranga 3 => Ranga 3",
+      "kr_sha256": "dd43ca1dfd2c0e69293383a05a0dcb37e6c253b8f2dbc29f90f717f9cb80fa92",
+      "en_sha256": "2789e4602c2d9cd08363d60fcd0d7ea4ff6125c5b30e9ee0f20140623844fcae",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_1_desc_6_1].content": {
+      "pl": "Ranga 3 + Ranga 3 => Ranga 3",
+      "kr_sha256": "dd43ca1dfd2c0e69293383a05a0dcb37e6c253b8f2dbc29f90f717f9cb80fa92",
+      "en_sha256": "2789e4602c2d9cd08363d60fcd0d7ea4ff6125c5b30e9ee0f20140623844fcae",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_2_desc_1_0].content": {
+      "pl": "Szansa na słowo kluczowe każdego ze składników: po 37,5%\nŁączna szansa na pozostałe słowa kluczowe: 25%",
+      "kr_sha256": "2f4c782a32ef795fa32c2d7343f725ccadee97dceebb2dd83843d86a1a6beee0",
+      "en_sha256": "4d6c1ddfe593fc65e7e3d488654fc698f819f87ba95698ebebb48fb5bd554288",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_2_desc_1_1].content": {
+      "pl": "Szansa na wspólne słowo kluczowe składników: 75%\nŁączna szansa na pozostałe słowa kluczowe: 25%",
+      "kr_sha256": "9e5b3edf467029f19c3c6bfebdd1aacb168d0003e3bc352b9543e013284a66b1",
+      "en_sha256": "5efdbb53c99619da2c8fa8df93323ac6eb503943325af7f2ef77396d63768b98",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_10_0].content": {
+      "pl": "Ranga 3 + Ranga 3 + Ranga 3 => Ranga 4",
+      "kr_sha256": "d6a8ea37c21dea412d7ab8963d62797a1137903a63b0cab38d8edd70bb93e43a",
+      "en_sha256": "ce1fad18364680146aa628183a1e81c01f687e755a9795703e0ea22b7b8f2dde",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_10_1].content": {
+      "pl": "Ranga 3 + Ranga 3 + Ranga 3 => Ranga 4",
+      "kr_sha256": "d6a8ea37c21dea412d7ab8963d62797a1137903a63b0cab38d8edd70bb93e43a",
+      "en_sha256": "ce1fad18364680146aa628183a1e81c01f687e755a9795703e0ea22b7b8f2dde",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_1_0].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 1 => Ranga 1",
+      "kr_sha256": "17cb69448851e9d655258d7a2f5f4ef5b6d18a2ac746c5b0246cf66a6ae0979f",
+      "en_sha256": "5e822f09b7301400a37ac199ebbe1597f935ea8e2f2a59b0ea12f09dcf96f213",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_1_1].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 1 => <color=#f8c200>Ranga 2</color>",
+      "kr_sha256": "07bb5231f44813eddddfd2df2b75701b72b7f20c6fcf49b6706ad0ce4b09f013",
+      "en_sha256": "b6bb37dfdfdf41b4a6b81e09985a06cebf14be11b1cf31c44c27043a7fc3c5bd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_2_0].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 2 => Ranga 1",
+      "kr_sha256": "7395d20ca4e71624c4ec13fe19f93109e681fab54e9b674c3c4c48a39b63bce8",
+      "en_sha256": "bad857549a4cc9331b90f7ae18863f1ee08d77052df85e8d9263858b741c6316",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_2_1].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 2 => <color=#f8c200>Ranga 2</color>",
+      "kr_sha256": "1a1e140758650b0e7b6f4085c79ac17fb6cd27df36cbf4a78cb0093e310efb20",
+      "en_sha256": "5d8a92e37bf0bafa1be8c26dc07c26d290dab562e6757c069cb708c18bc92429",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_3_0].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 3 => Ranga 2",
+      "kr_sha256": "eca2ecbcebb466c8402bb133e955e524cea38d7c9e1aa74f5ea9d66dfc33dd7e",
+      "en_sha256": "67e7cce5c90f09ab79c31e0d36a8d19f9e2c51493a8cc6bbf5d2bc9b9207ac0d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_3_1].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 3 => Ranga 2",
+      "kr_sha256": "eca2ecbcebb466c8402bb133e955e524cea38d7c9e1aa74f5ea9d66dfc33dd7e",
+      "en_sha256": "67e7cce5c90f09ab79c31e0d36a8d19f9e2c51493a8cc6bbf5d2bc9b9207ac0d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_4_0].content": {
+      "pl": "Ranga 1 + Ranga 2 + Ranga 2 => Ranga 2",
+      "kr_sha256": "1f62ead39a51c3059ef50105c10503c87b731766d43b41f725e6b3fb80ee37a3",
+      "en_sha256": "1a91d50b81486816d78205c39ec095f4e6876184e8b226b045283a460ab92f04",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_4_1].content": {
+      "pl": "Ranga 1 + Ranga 2 + Ranga 2 => Ranga 2",
+      "kr_sha256": "1f62ead39a51c3059ef50105c10503c87b731766d43b41f725e6b3fb80ee37a3",
+      "en_sha256": "1a91d50b81486816d78205c39ec095f4e6876184e8b226b045283a460ab92f04",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_5_0].content": {
+      "pl": "Ranga 1 + Ranga 2 + Ranga 3 => Ranga 2",
+      "kr_sha256": "f71e2adc7836a6a62f8666a1e5ad47136e861fa0cbfc426ee234f68fce8327e8",
+      "en_sha256": "60271b3d4b20b18ea5e205fdeec6830ade00e2a424ef8022133d9da8d4bd4436",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_5_1].content": {
+      "pl": "Ranga 1 + Ranga 2 + Ranga 3 => <color=#f8c200>Ranga 3</color>",
+      "kr_sha256": "6fc14465260dc6779c0790a5f48ca702806a38efe3ded21a26ec4dd48598827b",
+      "en_sha256": "19e4f557e11d72ca593a579d6362a716245155ceb700c0e059699fc0f6962a2b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_6_0].content": {
+      "pl": "Ranga 1 + Ranga 3 + Ranga 3 => Ranga 3",
+      "kr_sha256": "55964a5d969078e2206661880356e04518a738094982cbabe956238d8252cb7a",
+      "en_sha256": "ab0540471f36e85b2f9e45fc38bb8f0de5124f604f0b397706bb596cf4fb6b5a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_6_1].content": {
+      "pl": "Ranga 1 + Ranga 3 + Ranga 3 => Ranga 3",
+      "kr_sha256": "55964a5d969078e2206661880356e04518a738094982cbabe956238d8252cb7a",
+      "en_sha256": "ab0540471f36e85b2f9e45fc38bb8f0de5124f604f0b397706bb596cf4fb6b5a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_7_0].content": {
+      "pl": "Ranga 2 + Ranga 2 + Ranga 2 => Ranga 3",
+      "kr_sha256": "843284af226b21096278e74f2be0f1d4f140fd83e6d381de605116910277fc2e",
+      "en_sha256": "d87023dcc5f43210adc6f1b2ff1ccd8cd0ad9d873de78c48e55fd636c2f12ac9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_7_1].content": {
+      "pl": "Ranga 2 + Ranga 2 + Ranga 2 => Ranga 3",
+      "kr_sha256": "843284af226b21096278e74f2be0f1d4f140fd83e6d381de605116910277fc2e",
+      "en_sha256": "d87023dcc5f43210adc6f1b2ff1ccd8cd0ad9d873de78c48e55fd636c2f12ac9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_8_0].content": {
+      "pl": "Ranga 2 + Ranga 2 + Ranga 3 => Ranga 3",
+      "kr_sha256": "58e21ea6a46108cbeaf0adff557de5e065a83c7fd64004d0f84b3f3107cd08df",
+      "en_sha256": "cd5e95fb4eaf8edf5159a6b198f1d84b001616d58003671c1de9261f804fb70a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_8_1].content": {
+      "pl": "Ranga 2 + Ranga 2 + Ranga 3 => Ranga 3",
+      "kr_sha256": "58e21ea6a46108cbeaf0adff557de5e065a83c7fd64004d0f84b3f3107cd08df",
+      "en_sha256": "d87023dcc5f43210adc6f1b2ff1ccd8cd0ad9d873de78c48e55fd636c2f12ac9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_9_0].content": {
+      "pl": "Ranga 2 + Ranga 3 + Ranga 3 => Ranga 3",
+      "kr_sha256": "2834f6f9a105cdaeb876a2266be6578c5489d9c101a342fd18c8254217f56fc3",
+      "en_sha256": "4b36e4f22f0e5f2ca9e0930455e09958c4ac58a0bd13a009b05ef532b2113722",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_3_desc_9_1].content": {
+      "pl": "Ranga 2 + Ranga 3 + Ranga 3 => <color=#f8c200>Ranga 4</color>",
+      "kr_sha256": "3edf8de9a5789d74b31546f08fade24a0122dbe12bc433be92b45d9bf314595c",
+      "en_sha256": "9bdf7a61defa7614082cad600cc0448b467f948f01bae21dff67232b4bbf2bf5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_4_desc_1_0].content": {
+      "pl": "Szansa na słowo kluczowe każdego ze składników: po 25%\n\nŁączna szansa na pozostałe słowa kluczowe: 25%",
+      "kr_sha256": "872cff5d865e0165bdf2c4591db013158c32f1ea7c0839a9f0bc8ee4f113a87b",
+      "en_sha256": "2c037a16c3839a6838b6ad3ca36d30c5d7780e073ce83cd8c0c9c6a0c3bca0bf",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_4_desc_1_1].content": {
+      "pl": "Szansa na wspólne słowo kluczowe 2 składników: 50%\n\nSzansa na słowo kluczowe trzeciego składnika: 25%\n\nŁączna szansa na pozostałe słowa kluczowe: 25%",
+      "kr_sha256": "c8d1da33dba1cfe88f729301807fd62937d89c3be515b486bcde4ccb1564f0c5",
+      "en_sha256": "4d64d0bbe1e9f37e4762d89eedc40e39894f8e665b9012dc1e007ea780a17a6b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_4_desc_1_2].content": {
+      "pl": "Szansa na wspólne słowo kluczowe składników: 75%\n\nŁączna szansa na pozostałe słowa kluczowe: 25%",
+      "kr_sha256": "e7bb8148f42cc8644bb9594f01f3b4ea9e8fdd49f6b1b4d778c8e32f5bf3a425",
+      "en_sha256": "76c85c3aaf20ee1c709cbcf50f7ff657ceca31fcc4018b73ccd1fedee3414546",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_diffrent_keyword].content": {
+      "pl": "Różne słowa kluczowe",
+      "kr_sha256": "8d5d15be905400dad8402c7a25ad39fa1bdb88a40e0181adc3bbd71508dcdf2c",
+      "en_sha256": "1d7db604c139940b713a3a75a1bb71e66b9a4a95db1eeb9156349a44a1e0a873",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_identical_keyword].content": {
+      "pl": "Wszystkie słowa kluczowe identyczne",
+      "kr_sha256": "3387e166fbcf4b51f2cd35c5d511d146d765e1885101aa4d5621cb48967335d6",
+      "en_sha256": "cbaff85d779d002905bf1a0ebf19b2240ec91b90f2948894411c76eebdf4e327",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_ego_gift_combine_guide_table_two_same_keywords].content": {
+      "pl": "Dwa takie same słowa kluczowe i jedno inne",
+      "kr_sha256": "41d457cad05a44c33bc3fd34c124cb8f8653a17b1b8a340db0901e50d7786787",
+      "en_sha256": "def9d4b9db2ecc6062b2bbeff0aa52d490f41d506906d0c010f4281f709c1c6a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordunge_theme_pack_history_button_label].content": {
+      "pl": "Kompendium Pakietów Tematycznych",
+      "kr_sha256": "306621713188b3732a5c68f0bf4608f71d5e1f39faace2b04791c1f34ebec137",
+      "en_sha256": "b681374d719b73f98479532692c97f0d541c89513a634e39c3cfecf3bd1efb8a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_appear_able_theme_pack_title].content": {
+      "pl": "{0} — Dostępne Pakiety Tematyczne",
+      "kr_sha256": "fa1a1ceb99f8f7ace1f1f8a37639a2b54164d4953b349061686400a904e23bc0",
+      "en_sha256": "4734618706bbeee105babad183c7979bf4272be229ebfaee7b1822f6e8886b0f",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_ego_gift_appear_rate_up].content": {
+      "pl": "Większa szansa",
+      "kr_sha256": "6b9c8b6e75db8b553b2e4a85ae57c92a199910479b09dea072b9199adfb185d2",
+      "en_sha256": "506d70bd8491806211b14133e528e531767e86cd6423d98a2f56ce074e5c4ea5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_ego_gift_appearable].content": {
+      "pl": "Dostępne",
+      "kr_sha256": "1b865235dd84d9dfaf7af91a98323a845d4b497cf369e50d9f0eb87b8b19bc86",
+      "en_sha256": "c533cafab69e4033784a7d3857a806e551a95fee2ce47207bdd9a5528a24fb25",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_ego_gift_sort_by_keyword].content": {
+      "pl": "Wg słowa kluczowego",
+      "kr_sha256": "cc473bb9fe4cb17cd1fe9ab8a4b9a39c6176a7b766858a144668135e9fc49e6e",
+      "en_sha256": "f639b95a7530412fd217c86e6bfddbe44cff6868eb4f6139ede3bdfa71367a72",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_ego_gift_sort_by_tier].content": {
+      "pl": "Wg rangi",
+      "kr_sha256": "ff2a0f42ff9e03a6b56fc8e93d023c04db2096651738b0da0e274d9c09fda252",
+      "en_sha256": "c452a5590306c8f041b34247dcfd3d8d3dd04f617656cfef423b9cc940d40e26",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_select_theme_pack_at_floor].content": {
+      "pl": "Wybór Pakietu Tematycznego — piętro {0}",
+      "kr_sha256": "5b20a62e589adf7070b2fd5ef4a72c4c5a03425b88a12a79318d1f258416b60b",
+      "en_sha256": "6cfda8642cc1bec81f6f18ed832ab4a05207b574f9c25d811f35958f662bd886",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_selected_floor_theme_label].content": {
+      "pl": "Wybrany motyw piętra",
+      "kr_sha256": "04f18c15b5e8b88db2ab6778839b717b5c133845c5b8f00f2641d8040f7b1ff0",
+      "en_sha256": "14fbe86846a67c239830138112567613fac3f4abfef3639aaf9bb70c217159e2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_pack_boss].content": {
+      "pl": "Pojawiający się boss",
+      "kr_sha256": "ffef5265e82de2a96d98854d8c420cb64c148375477866692254e76137a5b0ea",
+      "en_sha256": "9e82cc5f4534855d571bd8f292157ffb557b227ee438afb8d8ac6d4e696d27b2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_pack_ego_gift].content": {
+      "pl": "Pojawiające się Dary E.G.O",
+      "kr_sha256": "5a8a5bd99e23181020d1500278c81cb97e1bd6b1c3176a1d4241532c12808975",
+      "en_sha256": "cfdc82157764223e5a6520072b79397e37fa4e1577429427229e5232ce3a9dde",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_desc_1].content": {
+      "pl": "Po ustawieniu słowa kluczowego w oknie „Synteza — wybór słowa kluczowego” szanse na słowo kluczowe wyniku przedstawiają się następująco:",
+      "kr_sha256": "16a38c002e9e2d2c5593f87f9a53d3a8c19b46da9e0abbf96ae4367d58d86557",
+      "en_sha256": "95ea6d1686c3587ddd6476f76c154841b8dc69525f7a98bba63f3dda4e29014f",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_desc_2].content": {
+      "pl": "Przy łączeniu 2 Darów E.G.O można uzyskać maksymalnie rangę 3, a prognozowana ranga wyniku przedstawia się następująco:",
+      "kr_sha256": "9575393cb46f80e03c4153ec10a741cf78a2986c3dc1a18f5175286e90f728b0",
+      "en_sha256": "7c134a56090660e964eef6b64120edba0e31562aee9b06c02e56e7f97f801ade",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_desc_3].content": {
+      "pl": "Przy łączeniu 3 Darów E.G.O można uzyskać maksymalnie rangę 4, a prognozowana ranga wyniku przedstawia się następująco:",
+      "kr_sha256": "31b8562170f49a9d2ea05aa02ba51a1fe6b103845b1d0cc06bd11ec91c6eb62e",
+      "en_sha256": "6d51420c211a317b664dff52c1605d2803ce64847f1711d25faa938b831a6313",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_desc_4].content": {
+      "pl": "Jeśli jednak zdobyto już wszystkie Dary E.G.O danej rangi i wybranego słowa kluczowego albo zostały one już przypisane do wydarzeń lub nagród za bossa na bieżącym piętrze, <u><b>możesz otrzymać Dar E.G.O tej samej rangi z innym słowem kluczowym</b></u>.",
+      "kr_sha256": "bbf90feafa0cd0c39f1ce98f9b141d660bdffed9f8f0b8902b757e1dd5525af0",
+      "en_sha256": "22071a9c019473fe4fcae69f844a6883c997dd528beac79bf30dd87c53592795",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_desc_5].content": {
+      "pl": "Jeśli zdobyto już wszystkie Dary E.G.O danej rangi bez względu na słowo kluczowe lub nie można ich uzyskać z powyższych przyczyn, <u><b>przeprowadzenie Syntezy jest niemożliwe</b></u>.",
+      "kr_sha256": "17e7f46cb4a55cd9e01182399d590b0b061181be93e12969f34d288fbaf50124",
+      "en_sha256": "e88fe06ca5b872431fe58e985230bbd33dbcd53b7d97b6aac5fff0fb0fea46c3",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_diffrent_keyword_notice].content": {
+      "pl": "※ Słowa kluczowe Darów E.G.O użytych jako składniki nie wpływają na słowo kluczowe wyniku.",
+      "kr_sha256": "05cc3cfbf1bf260471150d62cbb477ac16937cc2a5f6d2f0b6bcd1ad808641cf",
+      "en_sha256": "259465896643e1aea9e834378a2b706a56605fe585f84f794ba06e3400806ffe",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_col_1_title].content": {
+      "pl": "Liczba Darów E.G.O użytych jako składniki",
+      "kr_sha256": "68df89d834797ca774d530707480ee5d6bddf4af96755997c7d59e15fc1e67c3",
+      "en_sha256": "9ab980163e47b7dfe7c424c9c533467d590dc794e820aa53bebf4cad070b1162",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_col_2_title].content": {
+      "pl": "Szansa na wybrane słowo kluczowe",
+      "kr_sha256": "5e74707212c48503df29358b09a3a6fc9295e1861fc548d4720705a1c2c59daa",
+      "en_sha256": "55761e1ce8ae2b678ab1b390a45410f4c71a4ca0156aac867facb9de879a1bb7",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_desc_1_0].content": {
+      "pl": "2 szt.",
+      "kr_sha256": "276aca83ba2d4a2a662910b3e06ce6d5ee815e247dc73bb75be1c0ad72ab4a85",
+      "en_sha256": "ec707a3cd32064400b0fd465b9dde66ee73604caaa829bb4e833d9c8832817c1",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_desc_1_1].content": {
+      "pl": "60%",
+      "kr_sha256": "f3586438923090c61a133d885dc5ae63c33bdbeeeab5c7efe1a63b7ff6db1156",
+      "en_sha256": "f3586438923090c61a133d885dc5ae63c33bdbeeeab5c7efe1a63b7ff6db1156",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_desc_2_0].content": {
+      "pl": "3 szt.",
+      "kr_sha256": "36b34144f8625b4e5d1b3a153e81fa94505cb217aff6bdf7865be81f7d1cdf8f",
+      "en_sha256": "274669f1842f728b64bee6868d87f4cdac405a8c77f58eda832590e5a59db5da",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_desc_2_1].content": {
+      "pl": "90%",
+      "kr_sha256": "883caeb7ca1165a22441d8487203cc8aa9284ad7c0f5664c704f98ecb10849b4",
+      "en_sha256": "883caeb7ca1165a22441d8487203cc8aa9284ad7c0f5664c704f98ecb10849b4",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_col_1_title].content": {
+      "pl": "Rangi składników Darów E.G.O",
+      "kr_sha256": "2b9344cecb639d64a42d59696e605993a3eaa9c12e1bf0a4d1b58ce65e37beb4",
+      "en_sha256": "a3ece157c5e739de7f44a55140074b4fc22b6eeafdfcfac2ab014b57d692282a",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_col_2_title].content": {
+      "pl": "Prognozowana ranga Daru E.G.O",
+      "kr_sha256": "28a7d6742224295a243f8ffc416ac49f5b8c3e567648fa1aa5fac0fce3d41766",
+      "en_sha256": "290c3bcc43beaa2d99d78db2c4077ad45a58c756490d8f8dfb9476dd89fac9bd",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_desc_1_0].content": {
+      "pl": "Ranga 1 + Ranga 1",
+      "kr_sha256": "7973bc52e158ae1fcc72722c1629c4b41d7790445edcb2c9518fbd1035ec8122",
+      "en_sha256": "1428b1eef1a8f8051c883d9f84723789d83f7e4037551c9f3f46e7bef9a96a5d",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_desc_2_0].content": {
+      "pl": "Ranga 1 + Ranga 2",
+      "kr_sha256": "720286efa3868979e199ce13b40eb8578372c49da9d7d55a61cc9e8374e7882b",
+      "en_sha256": "7542ae929c7ce7e27919e0759a55c15aaec9b7c165efd5bca65487fccf171813",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_desc_3_0].content": {
+      "pl": "Ranga 1 + Ranga 3",
+      "kr_sha256": "9e02fd15364257ae9726b1d29d0f7faeafeb283af8e6ac96623265631db84d92",
+      "en_sha256": "186c320e6da88b1e191a5f84d7699275abae6b1d87f09321ce10fc68da2c4fce",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_desc_4_0].content": {
+      "pl": "Ranga 2 + Ranga 2",
+      "kr_sha256": "a6b0316765a22bf046d93e1ed27b9d9e93a05b93a06b85a1210265d32578bb4d",
+      "en_sha256": "b38b3aef761d1959e2ac02f519a3fc7350debd228fe2226d3d559fe479549263",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_desc_5_0].content": {
+      "pl": "Ranga 2 + Ranga 3",
+      "kr_sha256": "abf86326210d572a24007667b043618b53f621c7e98bb52fd838d63640bba9e5",
+      "en_sha256": "ef4669ba68faf0c13259d83c160dec52944015f68ed0711705173867f80732d1",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_2_desc_6_0].content": {
+      "pl": "Ranga 3 + Ranga 3",
+      "kr_sha256": "90d04e8eed846e5eedb68ad6f5eb0e2d6c0ac121fc94b646703cff9b0a857bf4",
+      "en_sha256": "3603a214f02d5d6a8cab2767b9e653be4ed2147397b35d594588afc509b1e0c5",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_col_1_title].content": {
+      "pl": "Różne słowa kluczowe",
+      "kr_sha256": "8d5d15be905400dad8402c7a25ad39fa1bdb88a40e0181adc3bbd71508dcdf2c",
+      "en_sha256": "1d7db604c139940b713a3a75a1bb71e66b9a4a95db1eeb9156349a44a1e0a873",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_col_2_title].content": {
+      "pl": "Prognozowana ranga Daru E.G.O",
+      "kr_sha256": "28a7d6742224295a243f8ffc416ac49f5b8c3e567648fa1aa5fac0fce3d41766",
+      "en_sha256": "290c3bcc43beaa2d99d78db2c4077ad45a58c756490d8f8dfb9476dd89fac9bd",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_10_0].content": {
+      "pl": "Ranga 3 + Ranga 3 + Ranga 3",
+      "kr_sha256": "d37ce4c8389f193cd33c7dac98511bd5e6c75b34b283adf3bc5dd308a94ec1d0",
+      "en_sha256": "ebf4eeda09e0cb05923af8a729ca5079528fb3cf233a79730b4ed4cf0c4d3e2f",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_1_0].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 1",
+      "kr_sha256": "ede78a1f0baea6a52ca2bd590443ee5eefc736e46141ba96cf3d05f5ec668046",
+      "en_sha256": "b8bfdb211d82029747a986bda86b49c0452a00fa6bd012b14e9731862ddc6b5e",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_2_0].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 2",
+      "kr_sha256": "7733d30957acc0f53a0187aa9adf4d788c94e671f1846797791a5e33b575deeb",
+      "en_sha256": "1f55cc3a6277722557558235cea4b40c5e95c28131f8ff714151f23178c2cc13",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_3_0].content": {
+      "pl": "Ranga 1 + Ranga 1 + Ranga 3",
+      "kr_sha256": "08cfe17cb070c5e0bdddfd068bde9d5d9331fe140492c63267afb24c5335719b",
+      "en_sha256": "bc904edcab674b7cb22f520af2894ea21aa93996aa1d0d94145af6b4df3e9f28",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_4_0].content": {
+      "pl": "Ranga 1 + Ranga 2 + Ranga 2",
+      "kr_sha256": "6254cf7fd91358d579a2ad3b9490ff9f39955bfb027bfaa51d692102f621a35b",
+      "en_sha256": "55f1def3a71ca78e87d470075249dbffcb1c151bf379943a2e7295d42b5f5c31",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_5_0].content": {
+      "pl": "Ranga 1 + Ranga 2 + Ranga 3",
+      "kr_sha256": "4c109286205891bd7b808347377b5936456f08831e7775d774eace7a90ecff3f",
+      "en_sha256": "ee160bb7efd4042396b01f01d5677a4ca6b990d15e759ba82b256c831675f0fb",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_6_0].content": {
+      "pl": "Ranga 1 + Ranga 3 + Ranga 3",
+      "kr_sha256": "2dfe2ded87973a5b34159a9838f7ca1385e0acd0ffbc419087234318c2437150",
+      "en_sha256": "816899c561f437781dfa469adf527d66f82eb009e76c3ea217910eb721fb81e6",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_7_0].content": {
+      "pl": "Ranga 2 + Ranga 2 + Ranga 2",
+      "kr_sha256": "8e5a770bf4a79a3f0b0f3e940b52cd07ec5fedb7e049d5ce0037982bc6b687a0",
+      "en_sha256": "b85ee323ee630fa9fd00aec8625ce0e86b9efa4909f9670069aa43f5fd29274c",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_8_0].content": {
+      "pl": "Ranga 2 + Ranga 2 + Ranga 3",
+      "kr_sha256": "c344defd869e23f6e906cf08f23451a891354f53bda308b26a8693e3617be6a9",
+      "en_sha256": "f7dfdf71ea454ac761854801979f93cc5f2cdeffeffdf36a5e3e64295740042e",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_3_desc_9_0].content": {
+      "pl": "Ranga 2 + Ranga 3 + Ranga 3",
+      "kr_sha256": "597ba58816988907c8b2e23883270177eff8221516f1fac7cd6460e33df61996",
+      "en_sha256": "af91095eee82167d38fb28b9d5642cebee842103c657279581dbbd1bf1ba2a67",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_tier_1].content": {
+      "pl": "Ranga 1",
+      "kr_sha256": "750114638039488a1252607403537aba5d4507df9bde86fe33f05c4f62d5e486",
+      "en_sha256": "c97454a01ccf4b6c837aef1567132c3f93da668db78edd99e6caf0f1378b414c",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_tier_2].content": {
+      "pl": "Ranga 2",
+      "kr_sha256": "9b8ae7b9f3fb228eaa65dd2d5be40f295c972c0dcf643f63c773bf5153d71a79",
+      "en_sha256": "aa91161f1c7bd0919d78534c75503063d9306214b60ea65b2e046091a0fc13e2",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_tier_3].content": {
+      "pl": "Ranga 3",
+      "kr_sha256": "2b72aaa7fd250e8ac4fa1200edfeb5b44e8e11085d5cdb875797b3acde599e94",
+      "en_sha256": "5020877c279708104f605e131a00ef38772444bf386873543e7d1d0fe7f601b5",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_tier_4].content": {
+      "pl": "Ranga 4",
+      "kr_sha256": "50b168812c694ca9d52e94e527c6eee30b8d92112fe8d14cfed2caabdd48b8bf",
+      "en_sha256": "61cd6a94c013cf08555842723f33be9bc915cc101b9d2b7c1d20824c420969a2",
+      "origin": "ai"
+    },
+    "dataList[id=purchase_ego_gift].content": {
+      "pl": "Zakup Darów E.G.O",
+      "kr_sha256": "0949fd42b2536b35f7badf59af4cb6bf5246ce4b615940818d11160f78e749b0",
+      "en_sha256": "a4e835dfaf8b2b757895a63fc5923720a11400f88150afd4bb6d2a5e8886b122",
+      "origin": "ai"
+    },
+    "dataList[id=purchase_personality_skill_desc].content": {
+      "pl": "Wydać <color=#f8c200>{0}</color> Kosztu, aby wymienić umiejętność?",
+      "kr_sha256": "11e4c199ba5c206aa37c807850a2715f410a37c346429afe284ca01d85819c99",
+      "en_sha256": "96e93f90697079b07fb760369e96f815264ef7a33c1ee20e229a0f2be63fa333",
+      "origin": "ai"
+    },
+    "dataList[id=refresh_shop_item_by_chip_warning].content": {
+      "pl": "Zużyć Gwiezdny Blask, aby odświeżyć?\n\n<size=70%>※ „Gwiezdne odświeżenie” zużywa <color=#990000>Gwiezdny Blask posiadany przy wejściu</color> oraz <color=#990000>\nGwiezdny Blask zdobyty w trakcie wyprawy</color>.\nNie można wydać więcej niż posiadana pula.</size>\n\n<size=85%>Gwiezdny Blask przy wejściu: {0}</size>",
+      "kr_sha256": "e2f4fcbdb9c60af2f77e006079e2c62107656606a6d88c6bd7f19dd10511bb53",
+      "en_sha256": "896afe4db4cfe5333eb67cf9547304f6b040957acc4e450b342e3fdfed0c866d",
+      "origin": "ai"
+    },
+    "dataList[id=ritournelle_difficulty].content": {
+      "pl": "Ritornello",
+      "kr_sha256": "23d98551d49ab359de8b666d504dbb5e0da5954f874f78849a8aba88f4574151",
+      "en_sha256": "3bda99af573b5557f9e63e379b13bf6acb66023dc2ecc4ff2a40efa88d4cb5a0",
+      "origin": "ai"
+    },
+    "dataList[id=ritournelle_difficulty_short].content": {
+      "pl": "Ritornello",
+      "kr_sha256": "ee0928e5688cf40853c239aef701d5d793bce23ff5cdbfc95d53101541791a87",
+      "en_sha256": "3bda99af573b5557f9e63e379b13bf6acb66023dc2ecc4ff2a40efa88d4cb5a0",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_cannot_acquire_specific_ego_gift].content": {
+      "pl": "W bieżącym motywie piętra nie ma dostępnych Darów E.G.O rangi {0}.",
+      "kr_sha256": "b728aaf757b972fe73f4590e1256de4f38b11864d06c4e23437085d0a400eabc",
+      "en_sha256": "a22d08fe65a3778026d63c43fa9e3a49e56f5fb772eabf28ba9974efba314051",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_egogift_free_upgrade].content": {
+      "pl": "Aktywowano [Żeton Rabatowy]\nZwrócono Koszt ulepszenia",
+      "kr_sha256": "68b4efe4f505371137428f52ceca91cc93b6817ef5a66794240c4dcb1101a068",
+      "en_sha256": "8db8f76755939038e27fd21b9caf1d6730c1acd5d43730b3b2e3c7b613a756f0",
+      "origin": "ai"
+    },
+    "dataList[id=side_content_free_refresh].content": {
+      "pl": "Aktywowano [Ulotkę Nowości]\nZwrócono Koszt odświeżenia",
+      "kr_sha256": "c79a0e82e256e844fdaf4e9782318e7b0cc9a06464dfb5ed611d0de70b522047",
+      "en_sha256": "dbf0c47302fd5e8e6436e7cc0c9a2ee8cd855d0fde73c7ada85acade6d766576",
+      "origin": "ai"
+    },
+    "dataList[id=simulation_difficulty].content": {
+      "pl": "Symulacja",
+      "kr_sha256": "337fec6e3f3313bf26b5d45021d560b3b4c622d592c239e5a7553b4a05496a4c",
+      "en_sha256": "45314e97b0c26a862b5411d0a943d801583e13bb5d104382ed7a2f4773969e66",
+      "origin": "ai"
+    },
+    "dataList[id=simulation_difficulty_short].content": {
+      "pl": "Symulacja",
+      "kr_sha256": "e86faa0dd585bcff7d46a7d84bb178853e291991066236b1523c04f27b32e6a0",
+      "en_sha256": "45314e97b0c26a862b5411d0a943d801583e13bb5d104382ed7a2f4773969e66",
+      "origin": "ai"
+    }
+  }
+}

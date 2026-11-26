@@ -1,0 +1,832 @@
+{
+  "entries": {
+    "dataList[id=dungeon_encounter_guide_mirror_hard_ab_battle].content": {
+      "pl": "Walka z Anomalią",
+      "kr_sha256": "50c3bfdd4229f19dfe9acddf8a7487772f67ad1bf5781a402e78be33fdbfa6ee",
+      "en_sha256": "3da584eafb7debf62c5aebe2a737792ba20b927fa76066137a4142072ccedc24",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_all].content": {
+      "pl": "Odnowiono PŻ i SP wszystkich Grzeszników.",
+      "kr_sha256": "455dfa9793258d3f7b92e46a0675468705933845d9b256deea3e36ebb0684bd4",
+      "en_sha256": "71dd368479b968570d3f967901ce878641080ae7e1384f34171a547b4f6bf6d6",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_desc_all_revive].content": {
+      "pl": "Wskrześ wszystkich Grzeszników",
+      "kr_sha256": "1a3ef99241b9c7093067c9e8d377a4805816c26f3540d65eb22d05cf4b5cfdf3",
+      "en_sha256": "f0fd8836998c7686310115b6517aa8018504f572044da388ee87b2e5175da32d",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_desc_one_revive].content": {
+      "pl": "Wskrześ wybranego Grzesznika",
+      "kr_sha256": "b256e25d1b5ee084f85ea5880daa545e5eaabe716e5c0fce175fa4696f7624bd",
+      "en_sha256": "bd8e1670b530940a2ee0caa2451cb9ad00c9eafaae117c0142c43cd64d8ff88a",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_enter].content": {
+      "pl": "Można tu uleczyć lub wskrzesić Grzeszników.\nCo robimy?",
+      "kr_sha256": "e94cef12d23ba8313acca38bb27566a85821b9e138bf20db88dbb96e2544871c",
+      "en_sha256": "69a29f4d5d4da9743e89b59a7df763fe944271d81f8580f61c459d74c42f046b",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_revive_select_one].content": {
+      "pl": "{0} powstaje z martwych i wraca do walki.",
+      "kr_sha256": "462654f3fbd7a86813901cec86a15760afcde4bbcc02d09324664f2285b768cc",
+      "en_sha256": "5af78ccf2067166f5828ebb3e51168e496214d255983ec4ef6d18770104873f7",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_select_one].content": {
+      "pl": "Odnowiono PŻ i SP Grzesznika: {0}.",
+      "kr_sha256": "135ed95dbce8e717254eab59afe6d9e642379cc60f0d204f823ef83a8d6fc033",
+      "en_sha256": "b8dc228dccee6e351729077b1162aabcdfac64795af3a8d4c7cbc0e86c8cfab7",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_title_all_season5].content": {
+      "pl": "Ulecz po trochu wszystkich Grzeszników.",
+      "kr_sha256": "6bc38617c2dc3946b499181f3659a32a9ee49828a01cd34c5b850ea905eac4fd",
+      "en_sha256": "b6b780df245a19e48bc142ea24d400e30e39a8b43b36977063e1358f10b30bc9",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_title_one_season5].content": {
+      "pl": "Znacząco ulecz jednego Grzesznika.",
+      "kr_sha256": "78f300ec68e6d01d3be971cc288dbaa2ef730c48f6e5ffd8cafb1e56817e110f",
+      "en_sha256": "eb232dc98e8aa7863f186d48f02f16f376b03cc904cf0357754729c7a28720fa",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_revive_one_select_ask].content": {
+      "pl": "Wybierz Grzesznika do wskrzeszenia.",
+      "kr_sha256": "ac2459d6d095021ee5b0487b638d073a22180d5a5096479dc16269ec78d6a881",
+      "en_sha256": "607637e6dd5d16744b791a92b51cf61d660579ec785fd2601232185bf009b49f",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_revive_title_one_season5].content": {
+      "pl": "Wskrześ jednego Grzesznika.",
+      "kr_sha256": "64b90930bf4055387e0c225ea01144a339a4315702962a3a9e770648ee263bd1",
+      "en_sha256": "5795fa4a42ad5f0ecd4932fa1b50ecd64316fbb48d3c3dc228ac9a95e288dd43",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_point_for_shop_without_new_line].content": {
+      "pl": "Za mało Kosztu",
+      "kr_sha256": "df83f721fe154bab2113552607b85fdca669228e9183b767ed6176bdca1c1a96",
+      "en_sha256": "e89d7365cfd05551f1bbe40372a65b580687cc5c45cd0adb00ddcdfbd6e9d71f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_0_1].content": {
+      "pl": "NORMAL",
+      "kr_sha256": "be88b72a5a6c1e78376475ff763ffe225d0d8b3e88253541b51fbdcd62773b0b",
+      "en_sha256": "db2cb3fe28e2c54fce50bd9c03fd2b131091229c0ceda79289527aaba47226ad",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_0_2].content": {
+      "pl": "HARD",
+      "kr_sha256": "b1d8d783c8771d29209eebf2ba0b170cf0ab3bfe944a2b705413a5e2cc07548a",
+      "en_sha256": "0e24076baf990d55aa1511d1af1d6741b19c9a2e9e9911f9ec7b5d5dbe5a5e9f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_1_1].content": {
+      "pl": "Zwykłe starcie: 7,5%\nStarcie skupione: -\nStarcie elitarne: -\nWalka z Anomalią: -\nWalka z bossem: 100%",
+      "kr_sha256": "c6bf2828000d2417366d2c0160691e00a968117f0f4919f09f9d2e1f07bd95aa",
+      "en_sha256": "3542623346de18b573781faff056eee221417fb93a388bb75f13e8f3124c18fd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_1_2].content": {
+      "pl": "Zwykłe starcie: 7,5%\nStarcie skupione: -\nStarcie elitarne: -\nWalka z Anomalią: -\nWalka z bossem: 100%",
+      "kr_sha256": "c6bf2828000d2417366d2c0160691e00a968117f0f4919f09f9d2e1f07bd95aa",
+      "en_sha256": "3542623346de18b573781faff056eee221417fb93a388bb75f13e8f3124c18fd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_2_1].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z Anomalią: -\nWalka z bossem: 100%",
+      "kr_sha256": "97915a6f8cff88ced44722a91327a83049bc31684e55f9ed8d7b0b07838ad964",
+      "en_sha256": "fc19a56d7a46aea7521e6e564c3535648fc987ef16a827cf80d92d9e9bc1d7cb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_2_2].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z Anomalią: -\nWalka z bossem: 100%",
+      "kr_sha256": "97915a6f8cff88ced44722a91327a83049bc31684e55f9ed8d7b0b07838ad964",
+      "en_sha256": "fc19a56d7a46aea7521e6e564c3535648fc987ef16a827cf80d92d9e9bc1d7cb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_3_1].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z Anomalią: 100%\nWalka z bossem: 100%",
+      "kr_sha256": "3f5a1a16d768ffa1a39d265cd8e96561274c7f2c9d814c67e2f18d639a67bf2c",
+      "en_sha256": "952412d1df6c35b24cec6b0f3558e4028a0344ee2cf9db9effb633b3564dddf9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_3_2].content": {
+      "pl": "Zwykłe starcie: 10%\nStarcie skupione: 20%\nStarcie elitarne: 33%\nWalka z Anomalią: 100%\nWalka z bossem: 100%",
+      "kr_sha256": "3f5a1a16d768ffa1a39d265cd8e96561274c7f2c9d814c67e2f18d639a67bf2c",
+      "en_sha256": "952412d1df6c35b24cec6b0f3558e4028a0344ee2cf9db9effb633b3564dddf9",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_4_1].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z Anomalią: 100%\nWalka z bossem: 100%",
+      "kr_sha256": "13b753e8aadf37dc4302a64cc35cad54c449768d23224b5c2d86b7eb7c132e58",
+      "en_sha256": "b89a8fdb6cf20cc72f2b61ac274138e79e6cfd1c8a3680b3ae438a26fcbf8d37",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_4_2].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z Anomalią: 100%\nWalka z bossem: 100%",
+      "kr_sha256": "13b753e8aadf37dc4302a64cc35cad54c449768d23224b5c2d86b7eb7c132e58",
+      "en_sha256": "b89a8fdb6cf20cc72f2b61ac274138e79e6cfd1c8a3680b3ae438a26fcbf8d37",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_5_1].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z Anomalią: 100%\nWalka z bossem: -",
+      "kr_sha256": "4e19ffed68c96fafbd3e45feb5ca8004e3691f5704d8a905f5ecc39009f37cfc",
+      "en_sha256": "090c63696a7116188d8b58e151a457c2d471e8b6bbb674384436418460aa0aa4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_5_battle_reward_card_guide_table_1_desc_5_2].content": {
+      "pl": "Zwykłe starcie: 12,5%\nStarcie skupione: 25%\nStarcie elitarne: 50%\nWalka z Anomalią: 100%\nWalka z bossem: -",
+      "kr_sha256": "4e19ffed68c96fafbd3e45feb5ca8004e3691f5704d8a905f5ecc39009f37cfc",
+      "en_sha256": "090c63696a7116188d8b58e151a457c2d471e8b6bbb674384436418460aa0aa4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_acquired_enemy_buff_popup_desc].content": {
+      "pl": "Dodano nową Próbę.",
+      "kr_sha256": "2d7e7aa35528233668170e50cb6a75a235308294047c36c850afcc181f2d76e3",
+      "en_sha256": "385bbe20dc381b55e8e4f62ca73175821dce03f51ae552f2d6f5572010896295",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_acquired_random_enemy_buff_popup_title].content": {
+      "pl": "Dodano Próbę",
+      "kr_sha256": "8f42b5d134562f9e4a997e7a52b1fdceff311d94a72d7e0468781027c2b6828f",
+      "en_sha256": "539788944b77c774c8d0a97834d203f3c9e1e674ef08d8089e8b798d643f5f19",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_card_pack].content": {
+      "pl": "Pakiet Tematyczny",
+      "kr_sha256": "4deee212ac04d50c1f83e3fc6cf8711a0908cbfc7fe32b9b291a60929433a8eb",
+      "en_sha256": "fbdfdbf1b0394d64e4cc8c0533b127185ba1330386fdc426d85d700687de1aea",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs__over50].content": {
+      "pl": "Premia Gwiezdnego Blasku min. [50]",
+      "kr_sha256": "3a954acc000406d15f7829ffbf05f5c057cf8c7b69828f42e6bfff8c45b30440",
+      "en_sha256": "bd1b4ea0ba15301f6a6a8c2c750f00698b8d1ea22b174585c50ef161e8ad86f1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs__over60].content": {
+      "pl": "Premia Gwiezdnego Blasku min. [60]",
+      "kr_sha256": "8896ad0eac604a9eb3a269434f9d0ef64fc9fc503dff848d5be172eee3c4361d",
+      "en_sha256": "097d88af406ac6f51af6a8325405edffe6bff697cfe9a02513fc51d820de0055",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_over10].content": {
+      "pl": "Premia Gwiezdnego Blasku min. [10]",
+      "kr_sha256": "5f4aac6bc5706ae3ba386594afc7997e6507be4f896d8f23e5948fd009e13cf0",
+      "en_sha256": "8a23adfdd4223ad6edcce3612c3234e72bf68a4fcd93afb9137e4be8c7780b37",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_over20].content": {
+      "pl": "Premia Gwiezdnego Blasku min. [20]",
+      "kr_sha256": "92aa707feaee5125c4d192bcc416265094a798da33b1c1503539fd9db3169067",
+      "en_sha256": "373676791242a460180e9e8712a52e8681011cbfe1d095ff9f10650e8421aad4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_over30].content": {
+      "pl": "Premia Gwiezdnego Blasku min. [30]",
+      "kr_sha256": "2dcf93f0c28a00bdfdfe5532ffb3eafe1a6f4df1edf0ce198b7fb05c5a359cfe",
+      "en_sha256": "057feb35f5a6cbfb62bf5af7971d208d8c3c66c03dbec05e5e087596bfcd82a8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_over40].content": {
+      "pl": "Premia Gwiezdnego Blasku min. [40]",
+      "kr_sha256": "5c490314f729f58b8ac5b78da9ec9c972a89f33a515ad4bc6d414bdda5c90388",
+      "en_sha256": "f946154d73c09a1122adcd4cb76f84a8bea13d8ef6048bb3ba81a37dbf66898c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_100].content": {
+      "pl": "Gwiazda Początku",
+      "kr_sha256": "0cad47375724dc97e946470d71ad38d08b4deb95d0f3ac7b2f781d95a16118e7",
+      "en_sha256": "7e8893c21af14ef80cbe6af437e2a3709df03b3847a29eb1deb5adab8c58ec46",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_101].content": {
+      "pl": "Gęstniejąca Gromada Gwiazd",
+      "kr_sha256": "835b41f083d6351b0f553eeb6d07de0246cd1cc1d8f71a68e2bee891ec261977",
+      "en_sha256": "fc9f7a792d0fbed813fecdc8d537cd348c37436c667aa41c64e84c49fe330798",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_102].content": {
+      "pl": "Podróż Międzygwiezdna",
+      "kr_sha256": "a8b306561d32c090536659202ee7681c5cd0b6cea89cdb9d57be490b3f7a6a44",
+      "en_sha256": "ad3b92dedb43151e76600df01a76078a8bbcbb5468c65bb530adc670d25d64bd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_103].content": {
+      "pl": "Deszcz Meteorów",
+      "kr_sha256": "04533035eb4462934ec85768a0589f56f0e0307f8496632b2d78b415f0d103ab",
+      "en_sha256": "d6335a5a0fa50c46a9c61fcc03dd3ffe116c7ca1804eea51d8beee6ed54e1df3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_104].content": {
+      "pl": "Sklep Układu Podwójnego",
+      "kr_sha256": "5a6f1f78ee21de2ea42bc1b8dd20293c631cce330a3befb449c4c12e435cd08b",
+      "en_sha256": "6c669acf18eb2a024d40897deddfa667fd5b7929e42fc48c5223370bf0bd9325",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_105].content": {
+      "pl": "Sklep Układu Księżycowego",
+      "kr_sha256": "cacf843e910102055686d84965b16bc0ce51f7960bb28fc80916f742f12e6911",
+      "en_sha256": "714b060b7bebde0831875f3dd960dcfa3c2dabddf49882f7f16624e8e187e033",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_106].content": {
+      "pl": "Łaska Mgławicy",
+      "kr_sha256": "5a044864bf948204f6a683ce3d9f45625e13ff9d48d39483d9674f11d3b41da5",
+      "en_sha256": "a5911f78e2a576be94b4f000f30b29849162027f0ade8243d50b3bb5edad8516",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_107].content": {
+      "pl": "Przewodnictwo Gwiezdnego Blasku",
+      "kr_sha256": "d6cb3d34c77652353b50fe2c4d2982dff4154aa8009cac73229b946b1b7c6378",
+      "en_sha256": "295bd5221c115259f1a661dbac3d5e2f5ce855bb4b078afae92d9e1c1a5197e8",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_108].content": {
+      "pl": "Przypadkowa Kometa",
+      "kr_sha256": "61ce44db71403b34eca3d0b97b60e0ca7b23dfb1d5ae4a855644df9cf0fa69e7",
+      "en_sha256": "536f445a7db6cfc6a70d6407763dc52b500d0a6de023dab74bc1076d3f9cbc56",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_5_buffs_title_109].content": {
+      "pl": "Doskonała Możliwość",
+      "kr_sha256": "5f9f2b52324247812ed75d10b0d171854b61241b604523512b63faf482abac74",
+      "en_sha256": "2e9b58bddd9211a0632be5ef491e9d7d3d68f052b950c3fa3449098a783caba2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_block_to_click_extream_theme_list].content": {
+      "pl": "Odblokowanie po ukończeniu\nCanto VIII",
+      "kr_sha256": "d2adb5588fe4261cdf7a71d8c8aec7ef301d2dabadb424f5846413d600e35ef1",
+      "en_sha256": "db495259cca7f99f9526ea9a87449b040f2736cda71fd3e171800c3e13fda747",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_block_to_click_hard_theme_list].content": {
+      "pl": "Odblokowanie po ukończeniu\nCanto VIII",
+      "kr_sha256": "d2adb5588fe4261cdf7a71d8c8aec7ef301d2dabadb424f5846413d600e35ef1",
+      "en_sha256": "db495259cca7f99f9526ea9a87449b040f2736cda71fd3e171800c3e13fda747",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_easy_difficulty].content": {
+      "pl": "Normal",
+      "kr_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_extream_difficulty].content": {
+      "pl": "EXTREME",
+      "kr_sha256": "14a576823e211cf54779365082c382bf900b1cef6d59031ce4cbe1c090538e41",
+      "en_sha256": "14a576823e211cf54779365082c382bf900b1cef6d59031ce4cbe1c090538e41",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_get_ego_gift_with_enemy_buff_less_count].content": {
+      "pl": "Pozostały niewykorzystane wybory Darów E.G.O.\n\nKontynuować bez wyboru Daru E.G.O?\n\n(※ Pominięcie wyboru nałoży losowe Próby w liczbie równej pozostałym wyborom.)",
+      "kr_sha256": "692e5d74583eb49c47d2300237c56c8606fe860cb693392f4ed275a80f487668",
+      "en_sha256": "910f21c6f04c0f70bf5c4c151e5f1a5385901872a346085dfcc8c8684dade865",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_give_up_ego_gift_ask_with_random_category].content": {
+      "pl": "Kontynuować bez wyboru Daru E.G.O?\n\nW takim przypadku słowo kluczowe początkowego Daru E.G.O\nzostanie wybrane losowo.",
+      "kr_sha256": "d222ce04467d907eabb339ce9d374fc414b2601c03b7f1eb8b0c586563eba08d",
+      "en_sha256": "e45966dbadab677b5998e8345997c672d10f4d9a543be7f368255d98dc70ca7d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hard_difficulty].content": {
+      "pl": "Hard",
+      "kr_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_awaiting_reward_claim].content": {
+      "pl": "Oczekiwanie na odbiór nagród",
+      "kr_sha256": "e623ac980b05f2c99faf20a8aad8a3f70623e0a2c8c66e31601d736529d7fc10",
+      "en_sha256": "fa47443934dbcdf2385d71545c92af59892c615b53276ac914af0b9540949578",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_progress_text_5].content": {
+      "pl": "Lustro Snu — {0}. piętro",
+      "kr_sha256": "739dc109d5b9b40da5af5842fdeba91c520026bc0f89f0a02432a034e6d84ae7",
+      "en_sha256": "a81c278015c2120dba576801b6a3391c51ac479a578507c995ed81e07ade6413",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_reward_popup_rest_bonus_guide].content": {
+      "pl": "Premia Gwiezdnego Blasku niewystawionych Tożsamości wzrasta o 1",
+      "kr_sha256": "ec1be7ca3359f081e2aa5db51a9e8cf451e36fef6ad4dbeb71ae2a9195557729",
+      "en_sha256": "086c46d9427b963200485b81072a6b6a429a8457f0d86443b93794af18942f2e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_bonus_formation_rest_point].content": {
+      "pl": "Premia Gwiezdnego Blasku",
+      "kr_sha256": "5b380f2c630af115fea3e3274837047bcac7c86866ba893015819e2f3e589270",
+      "en_sha256": "264e2fe39b07c394d6a602f043fafc6c759ef643726580efa849a29e0f58f57d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_bonus_formation_total].content": {
+      "pl": "Premia\nBlasku",
+      "kr_sha256": "fd55063cac7a807e2a34ec6969d532d9ccc77586dc16dc0e6311c0b5bd713402",
+      "en_sha256": "81b01a5bf8dc2dc625a60bb4dd6e8e2e22a676c99ce281eb80e4aac2d1b31494",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_Panel_applied_effect].content": {
+      "pl": "Wybrane efekty",
+      "kr_sha256": "0cf65c85e89138a8a5f4f4f051cd9ebcc9aa2201148dd74ad73fe3bdfc8d3787",
+      "en_sha256": "4115e4bfcc90c26ef5111faba45d2c6b0955c189567953d5243953fd30dc6325",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_Panel_reset_selection].content": {
+      "pl": "Resetuj wybór efektów",
+      "kr_sha256": "f9e71455c4fb3b3508e7c56f3788c2643c24d1c3e791f9accd72e727f689d68e",
+      "en_sha256": "cc227ca23daf19756e2add361d6d2368015e15d7239a92dc64292f2251fc892d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buff_Panel_title].content": {
+      "pl": "Błogosławieństwo Śniącej Gwiazdy",
+      "kr_sha256": "830a54cda15dfd3d5a55331f51b6554bced93f5125c9e5ff91e760c8cc79c9e8",
+      "en_sha256": "cf58f409a81a8e6c4c99ddef3439b97d9895cc5c5d08ebc42588b50d6e28a1f0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_enemy_addenemylevel_desc].content": {
+      "pl": "Poziom wrogów +{0}",
+      "kr_sha256": "c0dd824d70582aa6380670d04cfac5a186e589580364829e122db7ed865cf4a6",
+      "en_sha256": "2ef99d752ee765fad09bf3664ad25be6107d8c9ec0df524e5d131aff3c066950",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_enemy_buff].content": {
+      "pl": "Próby",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "9d3e674e1c363b5f13a043437f4049d6c13fce7acdb39a81df7116a8d3ad78d7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_recovered_unit_status].content": {
+      "pl": "Wskrzeszono poległych sojuszników i uleczono całą drużynę\n(z wyjątkiem jednostek niepodlegających wskrzeszeniu)",
+      "kr_sha256": "b5f5def8c97842bae1c37e2d44c59b004e0dca3983bf5a3d0989d1ecd974b8fb",
+      "en_sha256": "aea33aa12a9a1b3c5b81a879b4eb317e2b07bc840bc52362756ebd59924167d1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_shop_purchase_complete].content": {
+      "pl": "Zakupiono",
+      "kr_sha256": "4f820e76051a11c4b7d819f689125f4435b5e3c7c0af09e95730f9566a435090",
+      "en_sha256": "5fa14d9aa5232fc0768296f8f313c29cee57f9543bb7a03341a239814a7becd4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_applied_passive].content": {
+      "pl": "Pasywka Błogosławieństwa Gwiazd",
+      "kr_sha256": "95238008388a006d0ce8cd35f8103abf4f5a45d6bbc3fdf340051e636533f2cf",
+      "en_sha256": "c5a1151d05b4207efa1893c69845ed1d55922cf7fea636eff04dbee6b747884c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_cannot_purchase_side_popup_desc].content": {
+      "pl": "Za mało Premii Gwiezdnego Blasku",
+      "kr_sha256": "14fc9b264495ffa22915ed80ff55faa03d23c80dbaf2859858b413d2a40abc56",
+      "en_sha256": "a988371688cee8d19d26d4dab738f929bd7aba306236965b645d50ea2ecab178",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_cannot_purchase_side_popup_title].content": {
+      "pl": "Nie można kontynuować",
+      "kr_sha256": "4de3270d829550cefb4848f97756ec65a55715f4d0338d823d6f248c02227f5a",
+      "en_sha256": "95a117a82fbcc0679aba15f0f367b9b1cb8bd15873eedbc60a99f9561c2bd470",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_button].content": {
+      "pl": "Wejdź",
+      "kr_sha256": "313416dc1509fceb95fd454e99c5c056b66e5a5902991d20776d35dd44e700b6",
+      "en_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_complete_modal_desc].content": {
+      "pl": "Zatwierdzono wybór Błogosławieństwa Gwiazd.",
+      "kr_sha256": "5daa70e1f879ce96cc87d5834d681682c8ea5e60b1442b73101e68b58f5bf256",
+      "en_sha256": "85994fc2fd7bf55d4c07c6b3906b5d9b4c6c4d1be4733f19ef8b063c5acb5106",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_complete_modal_title].content": {
+      "pl": "Wybrano Błogosławieństwo Gwiazd",
+      "kr_sha256": "12810c1a2f3f13ab8c2bb04a4b8dc8aca7ec6eef3410f79219c2e738a871fbc1",
+      "en_sha256": "5dbf9d7bac0e5857cb355bc6cabf91bb3bfabaee00ffdfd57e38914cb318a0c7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_after_selected_bonus].content": {
+      "pl": "Pozostała Premia Gwiezdnego Blasku",
+      "kr_sha256": "3f5691487d12935208a15d78e25c33f2549b84db449cd0bf284e668030ead420",
+      "en_sha256": "65c9193642b446bea07b646a1f97256db4bf49b414f94a67c0ac7486ce0cdf28",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_description].content": {
+      "pl": "Kontynuować z wybranymi efektami?",
+      "kr_sha256": "164128fdeec9447bcd7225686b1bac295bac44c9ca30986b91a59f8f7d873557",
+      "en_sha256": "641248b752f570b060c0503df0c652d38539261b48c9e369357d299efa1133a2",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_exchanged_cost].content": {
+      "pl": "Koszt",
+      "kr_sha256": "e5df62817e945c95ba0af2ad92ef888688d420bb620edb7732caeee19ea9152e",
+      "en_sha256": "204a5eb2cd28bcfdf3be9f8c765948e9e831609e3c57048cdbd6b8a94cf49126",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_not_selected_any_buff].content": {
+      "pl": "Brak wyboru",
+      "kr_sha256": "ca48634428832d99a3914d2f65ab93341f7de0bbbdfd91ca372d4e359007c1dc",
+      "en_sha256": "94e1a1d52fc496a62498e49e79d07beedfbb51efab1477deb44e3e3ce0ad23af",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_purchase_description].content": {
+      "pl": "Pozostała Premia Gwiezdnego Blasku zostanie zamieniona na Koszt",
+      "kr_sha256": "79baccfef8a469f2e73a27354e8a40bb9c109aa46c311152960d862a067431b7",
+      "en_sha256": "949b00199a06a1aeafcb9aae288b4ef256379cf31a55aa77e713a682a9eb93b6",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_purchase_modal_title].content": {
+      "pl": "Wybór Błogosławieństwa Gwiazd",
+      "kr_sha256": "30b01870cb913bf9a112e76846d0bfceeb1577ff6db4bc2c927e7c94c4a9297c",
+      "en_sha256": "ab93561df56ef171041342d6a1196a27fb90ff20d112b57ba8ff0a9ddbce90ee",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_type].content": {
+      "pl": "Łaska Gromady Gwiazd",
+      "kr_sha256": "88a5da792c376f698ceef4324bea0cb5dd395eb5a8a00b11fc78e47392c49a0c",
+      "en_sha256": "b3c70761518c942820b9540711432aad4a6be28bd846204194f7d78ec31bd6ca",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_unlock_condition_lack_of_current_point].content": {
+      "pl": "Za mało Premii Gwiezdnego Blasku",
+      "kr_sha256": "14fc9b264495ffa22915ed80ff55faa03d23c80dbaf2859858b413d2a40abc56",
+      "en_sha256": "a988371688cee8d19d26d4dab738f929bd7aba306236965b645d50ea2ecab178",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_buff_unlock_condition_needs_held_buff_points].content": {
+      "pl": "Premia Gwiezdnego Blasku min. {0}",
+      "kr_sha256": "632ece87696e03263bd587b0da4567ffcd33906e86bc7105a31927579c2d8231",
+      "en_sha256": "72c56000bcc75fa614bda7b96a9c826049d4e8e79a3171e3308c7ca0084d5587",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_start_set_buff_type].content": {
+      "pl": "Błogosławieństwo Gwiazd",
+      "kr_sha256": "03d9c1dd7e57c7a1b60277b3962ac354dfa72a083d854e2d091641bb51e8c795",
+      "en_sha256": "714b44bc498e1553c883d1f56383965233fc2a3338aac96980fa72687f5568a0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_theme_pack_baton].content": {
+      "pl": "Długa walka",
+      "kr_sha256": "763a793adc3bfb6ece60267bf82a7ff0c7479e8bfb938f8dedfcad114d7c6d4b",
+      "en_sha256": "c5b1f2315fc63fd1c67d218a9f2e6b3683d730655b28dc10c1b7f4c86ee2c522",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_user_start_buff].content": {
+      "pl": "Premia Gwiezdnego Blasku",
+      "kr_sha256": "5b380f2c630af115fea3e3274837047bcac7c86866ba893015819e2f3e589270",
+      "en_sha256": "264e2fe39b07c394d6a602f043fafc6c759ef643726580efa849a29e0f58f57d",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_achievement_max_level].content": {
+      "pl": "Osiągnięto maksymalny poziom",
+      "kr_sha256": "cc5b2af4617f963e33c5b55ec367c985ef3a002c7596324b55cc2a903412261f",
+      "en_sha256": "9264ae0d87dd958835be60d6c9b86192aa4e55127e2a0eef7238a6597976dc69",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_achievement_progress].content": {
+      "pl": "Postęp osiągnięć",
+      "kr_sha256": "9078a7871df82cb549eac236f25b0d1e75fbe305571e687c33bee3defb1ba23f",
+      "en_sha256": "4664827f8e89019280ba99cd889f9ea31eaeecf6fc1bb7541c4a0e546685599f",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_additional_cost_by_start_bonus].content": {
+      "pl": "Aktywowano Błogosławieństwo Gwiazd\nZdobyto Koszt",
+      "kr_sha256": "4d219a02b80e8db329f30196588945569c12829c0e118304c2c4aeaf645053f4",
+      "en_sha256": "e51a8ee7dfffe549e5117f1b5bc6b0d72054e739ba9aa5c1b8f8fc5060adb053",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_bonus_gift].content": {
+      "pl": "Aktywowano Błogosławieństwo Gwiazd\nZdobyto Dar do Syntezy/Sprzedaży",
+      "kr_sha256": "4ccb0f1ad2f4677138be628f8c15329276bb711e31962c5b3cbc1a4573ce892a",
+      "en_sha256": "d85003c45e940ae39e79801ef9b9410c0fb2b2700904e43580e08308f10805fa",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_label].content": {
+      "pl": "Podczas Syntezy ranga powstającego Daru E.G.O zależy od sumy punktów składników:",
+      "kr_sha256": "f12a18defc3ebafa178474ca9547ad0b65fadf25536136332defa44a4b2ca2b7",
+      "en_sha256": "40671d8290a80ac66f6ab1c8d363787ee2d84fe64fc19c95d7cb36a368347a05",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_label_upgrade].content": {
+      "pl": "Podczas Syntezy we Wzmocnionym Sklepie wymagane progi punktowe ulegają obniżeniu:",
+      "kr_sha256": "f26466ddde66395f743dd1e45df41c64a3f6a5abd8b3aefeee4584e08d93f9f5",
+      "en_sha256": "ddd8fd1282087777bd74c3d7cf67f5fec5c124308b4f2be51b303b561ae1e50d",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_tier_1].content": {
+      "pl": "Ranga 1",
+      "kr_sha256": "750114638039488a1252607403537aba5d4507df9bde86fe33f05c4f62d5e486",
+      "en_sha256": "c97454a01ccf4b6c837aef1567132c3f93da668db78edd99e6caf0f1378b414c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_tier_2].content": {
+      "pl": "Ranga 2",
+      "kr_sha256": "9b8ae7b9f3fb228eaa65dd2d5be40f295c972c0dcf643f63c773bf5153d71a79",
+      "en_sha256": "aa91161f1c7bd0919d78534c75503063d9306214b60ea65b2e046091a0fc13e2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_tier_3].content": {
+      "pl": "Ranga 3",
+      "kr_sha256": "2b72aaa7fd250e8ac4fa1200edfeb5b44e8e11085d5cdb875797b3acde599e94",
+      "en_sha256": "5020877c279708104f605e131a00ef38772444bf386873543e7d1d0fe7f601b5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_tier_4].content": {
+      "pl": "Ranga 4",
+      "kr_sha256": "50b168812c694ca9d52e94e527c6eee30b8d92112fe8d14cfed2caabdd48b8bf",
+      "en_sha256": "61cd6a94c013cf08555842723f33be9bc915cc101b9d2b7c1d20824c420969a2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_tier_header].content": {
+      "pl": "Ranga Daru z Syntezy",
+      "kr_sha256": "366cac93b3867819a3bc8116f7246c610fb998b073e47fb8bff39b36197c6080",
+      "en_sha256": "eee3cd7e346596cade9fe81ef1fe69d9e66347ec82008a7644a7a939d4ba511f",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_1].content": {
+      "pl": "Maks. 10 pkt",
+      "kr_sha256": "4e1847f20068572dd1809d995b8bedc79dcb9b5dbe1724177eb87b1583ed5f1e",
+      "en_sha256": "7819326206954fea12f9b580702d79d279b4f8b1a49405349fb32cf76cb249a8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_1_upgrade].content": {
+      "pl": "Maks. 9 pkt",
+      "kr_sha256": "de8a8612a5288b706880af7319b01e973ebf92b80006815d38bb5df320c8cdc2",
+      "en_sha256": "3438dd2c5fa8a85ac9e82bb2f6e1961234367357e4aad41f61b779455af612ec",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_2].content": {
+      "pl": "11 ~ 16 pkt",
+      "kr_sha256": "6bb2b3068700f92c5dd8d2045d5152412ff6237f4a4486683060d1dd4426efb2",
+      "en_sha256": "1c64e28ba360ee86a6f3d8b4c02718968635e92abbf1c0123ce4c31bfc22cc5f",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_2_upgrade].content": {
+      "pl": "10 ~ 14 pkt",
+      "kr_sha256": "089270712445e892631b9ace6780c57e580920ac41509dae735c608f2463fece",
+      "en_sha256": "f7f99849d6161b27532ae70788841a290a845fca9ad0efc3ef3879d2f5d03e90",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_3].content": {
+      "pl": "17 ~ 24 pkt",
+      "kr_sha256": "012f570735b878cd37108f6c3b70f2a3e69ec954b8e5f7c3f5987ffcd0d153a1",
+      "en_sha256": "148ea7c909d53865bd5f3f4eaf3c8594930af4545fb155e80974c2a7f1951d9e",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_3_upgrade].content": {
+      "pl": "15 ~ 21 pkt",
+      "kr_sha256": "7e1f57ae162530a640f7d82d554d3f713f2f51fe544fc4a2123076575ecfcb6d",
+      "en_sha256": "7c38c545c095e7eabf6a566e8db249f2d50ffa339e344e6da530d1309363950b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_4].content": {
+      "pl": "Min. 25 pkt",
+      "kr_sha256": "21dbb9a81bbc2412c6e238e88e0b4a23f0a3fb20f7ae80bd6eb883a676455eaf",
+      "en_sha256": "1bb528f0451c3792a2c7ea9bf6bc54029b9090bd4868a718aed6c29bc96d2e21",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_4_upgrade].content": {
+      "pl": "Min. 22 pkt",
+      "kr_sha256": "a27eb7086cd17301d447f26defac1f34cfac81134de3eb746ae8d40fa0078b8f",
+      "en_sha256": "c112712b55b8f77827bdfc6f11990551a91d019952c25ddb57641fa3ff15dac8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_result_total_header].content": {
+      "pl": "Suma punktów",
+      "kr_sha256": "2ce0f7a9dee090cf1e9e326ce816c951d48ddeeda6a2f992d08605cf0df8e6ad",
+      "en_sha256": "c5656b45ea3df608d1eeb77f1467e242eecebafb2be8c9a3f6c24e5c9ac0a60a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_desc].content": {
+      "pl": "W zależności od rangi Daru E.G.O jego wartość punktowa jako składnika Syntezy wynosi:",
+      "kr_sha256": "119599a4103f1214269f71294b7908db2664e0169afac446d2c29eab5cdd8fbd",
+      "en_sha256": "7cf1cfd0651d974483671108391ff1a32a28d5766f56597f681b5b6f62f8d1bd",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_score_header].content": {
+      "pl": "Punkty",
+      "kr_sha256": "276516218c1cd12752625e1c759b0db2a4225dbfb52a0b6621239e390e82fc2f",
+      "en_sha256": "77deabe238de2f6dddc88c17dbe14221918571838d8fc1228843f9387b0b69f7",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_1].content": {
+      "pl": "Ranga 1",
+      "kr_sha256": "750114638039488a1252607403537aba5d4507df9bde86fe33f05c4f62d5e486",
+      "en_sha256": "c97454a01ccf4b6c837aef1567132c3f93da668db78edd99e6caf0f1378b414c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_1_score].content": {
+      "pl": "3",
+      "kr_sha256": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "en_sha256": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_2].content": {
+      "pl": "Ranga 2",
+      "kr_sha256": "9b8ae7b9f3fb228eaa65dd2d5be40f295c972c0dcf643f63c773bf5153d71a79",
+      "en_sha256": "aa91161f1c7bd0919d78534c75503063d9306214b60ea65b2e046091a0fc13e2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_2_score].content": {
+      "pl": "6",
+      "kr_sha256": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "en_sha256": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_3].content": {
+      "pl": "Ranga 3",
+      "kr_sha256": "2b72aaa7fd250e8ac4fa1200edfeb5b44e8e11085d5cdb875797b3acde599e94",
+      "en_sha256": "5020877c279708104f605e131a00ef38772444bf386873543e7d1d0fe7f601b5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_3_score].content": {
+      "pl": "10",
+      "kr_sha256": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "en_sha256": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_4].content": {
+      "pl": "Ranga 4",
+      "kr_sha256": "50b168812c694ca9d52e94e527c6eee30b8d92112fe8d14cfed2caabdd48b8bf",
+      "en_sha256": "61cd6a94c013cf08555842723f33be9bc915cc101b9d2b7c1d20824c420969a2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_4_score].content": {
+      "pl": "15",
+      "kr_sha256": "e629fa6598d732768f7c726b4b621285f9c3b85303900aa912017db7617d8bdb",
+      "en_sha256": "e629fa6598d732768f7c726b4b621285f9c3b85303900aa912017db7617d8bdb",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_5].content": {
+      "pl": "Ranga 5",
+      "kr_sha256": "742f8cbba35e3573cf26288ccebcfe496f5d3d0581e26c3dabafb0305cdf8cf0",
+      "en_sha256": "71dc60c40bd1d7b46b6dbd33354a4d96fb8b4ec53ad83fe8ac72b04f862168cd",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_5_score].content": {
+      "pl": "30",
+      "kr_sha256": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4",
+      "en_sha256": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_score_tier_header].content": {
+      "pl": "Ranga Daru E.G.O",
+      "kr_sha256": "e3433384f11ef00026f8cc70329481b09e15970b589ed0210bc9601a8decdd96",
+      "en_sha256": "fd1e4d86771f53bfe542bcee03760452f27860004a872b3faccb5d5cae44d698",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_season_5_etc_1].content": {
+      "pl": "※ Aktualnie posiadane Dary E.G.O są wykluczone z puli wyników Syntezy.",
+      "kr_sha256": "fc5c85734ebd8d030900d14949b038591935ca9f214328cf7f03dbb668d7a119",
+      "en_sha256": "50ee7b2dae2aa3b1ace46bc2f938a330baab1db6eacfda40a6c12a54c0025e21",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_season_5_etc_2].content": {
+      "pl": "※ Dary E.G.O użyte jako składniki danej Syntezy nie mogą pojawić się jako jej bezpośredni wynik (mogą jednak pojawić się ponownie w kolejnych Syntezach).",
+      "kr_sha256": "2ef1e1660fad6489c6a704cfa19d68b5dced4a45fd2bfe214ab1b719229ea56c",
+      "en_sha256": "73b5f2c5bdd94bd4e719193386bcf1e2bd4b46d2e453cd5397f24926174e2f06",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_season_5_etc_3].content": {
+      "pl": "※ Jeśli nie można już zdobyć kolejnych Darów E.G.O danej rangi i słowa kluczowego, otrzymasz Dar E.G.O tej samej rangi z innym słowem kluczowym.",
+      "kr_sha256": "b20b330eca562cd017e1c745f778945d861a9d1c00100964413b696d1a21992a",
+      "en_sha256": "aeec8e255a28990ff0d4af9e9b82341ba93c1f64282bbe74692392a067f30610",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_egogift_combine_guide_season_5_etc_4].content": {
+      "pl": "※ Jeśli nie można już zdobyć żadnych zwykłych Darów E.G.O danej rangi, otrzymasz Dar E.G.O do Syntezy/Sprzedaży tej samej rangi.",
+      "kr_sha256": "0cabc4276244c154a57c5692eb6f3deb0bc8fe54ce5c5e673ffd4657df78f51e",
+      "en_sha256": "3499357fa9a5294e4b80c1dd58373e99cddffa62733450469924870f312b7304",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_level_up_by_long_battle_theme].content": {
+      "pl": "Nagroda za długą walkę\nPoziom Tożsamości +3",
+      "kr_sha256": "124a9e5996958d41ee34bea52589afadd1cec90594523a8f413a10d027083999",
+      "en_sha256": "24a879c44eadf912da28dc47d425fe68dae3c2ed5e310c4ba19bdf8119716c0b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_purchase_achievement_block_by_max_level].content": {
+      "pl": "Przekroczono maksymalny poziom do zakupu",
+      "kr_sha256": "bbfd2f50af21b79063a71da9d2e5a8f9ff73c5ca494e28387c764bba406da7a7",
+      "en_sha256": "d7249602065d68814c838aefad01383660397cfdf3c01235c55ff60047740958",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_purchase_achievement_level_ask_using_lunacy].content": {
+      "pl": "Wydać {0} Płatnego Szaleństwa, aby kupić Stopień Projekcji?",
+      "kr_sha256": "7e591cef0d0110fe4db0fe6a8ef8079c8e1a08c2381085a8fa2f723ceb105efd",
+      "en_sha256": "0973ed059049624d6b60c0f0b1fc9ff8da7c1dc52524aef2d76f6024e9a013a1",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_purchase_achievement_level_using_lunacy_desc].content": {
+      "pl": "※ Zakup {0} pkt Stopnia Projekcji kosztuje {1} Płatnego Szaleństwa",
+      "kr_sha256": "14f4599fc3d656378d3b6841a4fe08093f256ca37341ab4ef73fc46897921e77",
+      "en_sha256": "3b857e44cc8b5691cac47a307ba0836fb98699a93d0cf4371b1b8ac510e1f5cb",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_purchase_achievement_title].content": {
+      "pl": "Zakup Stopnia Projekcji",
+      "kr_sha256": "71d4b2618ca09f21c198d7b35311e7672be685648b9fc523340a66df88798350",
+      "en_sha256": "ccc59b9707557f6e09dd90d6c6a0abb3b5d421f91988a322f1effcbc45600bb6",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_revive_log].content": {
+      "pl": "Aktywowano Błogosławieństwo Gwiazd\nWskrzeszono Grzesznika [{0}]",
+      "kr_sha256": "2b496606771ed06b9098c31353d4e3d35b59314ac20f0d69b8bd7ab0d3453888",
+      "en_sha256": "6013682b8ae9f79f9bb2a13f5ce4fc1ea1e064c114de2e16d2e5919409c4544b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_heal_title].content": {
+      "pl": "Leczenie Grzeszników",
+      "kr_sha256": "742fa6096d2ee5ebf7dfffa6c18e5c9934fe127ca7faba9b8a5b1a32f981e524",
+      "en_sha256": "a77b6d93af151963550e85db0733fe058a1c63265bdce35764de87d336b22291",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_title].content": {
+      "pl": "Sklep",
+      "kr_sha256": "de9d31548e094efd2662817e016df5b801698752a92f7dff333280378a7584a9",
+      "en_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_start_bonus_personality_button_label].content": {
+      "pl": "Jednostki zachowujące Premię Blasku",
+      "kr_sha256": "9ca41e8bf6160c9a5e6cb3bbb04f54e2c2706b2f453cc5b6feba9265f14df6af",
+      "en_sha256": "d3aeb8fb0498bf99f29788161732f8b83ae161bf9a492f637964785562c6a9b0",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_start_bonus_personality_desc].content": {
+      "pl": "W okresie zachowania Premii ukończenie Lustrzanego Lochu tymi Tożsamościami nie zużywa ich Premii Gwiezdnego Blasku.",
+      "kr_sha256": "a84cff8bf1733fea24ee92c2fa2f6ca2f34755f3964641e6a2cd4feef31f128c",
+      "en_sha256": "8be8c4c6bde0ca236d93c4d352a2e091c3860d78104848f7a4a0b3a93ab37b68",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_start_bonus_personality_label].content": {
+      "pl": "Objęte Tożsamości",
+      "kr_sha256": "03d58c841529201b2225901a0997366771fff09f3bab9cfab0fcfcd56e6267ec",
+      "en_sha256": "bd1ab640f5d138461150dbe3b9d3b907c45d38063f224efe969fefa9ea2e2e23",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_start_bonus_personality_period].content": {
+      "pl": "Do {0}",
+      "kr_sha256": "b9b95f7511a85276f841c4facd5bcbe209331e8b836fb9a35c9e40ae4282f9d1",
+      "en_sha256": "d1ac0d865d8a5d79b6cfe6c0e5d402586f05bc91f160201c662300131bf67692",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_start_bonus_personality_title].content": {
+      "pl": "Jednostki zachowujące Premię Blasku",
+      "kr_sha256": "9ca41e8bf6160c9a5e6cb3bbb04f54e2c2706b2f453cc5b6feba9265f14df6af",
+      "en_sha256": "d3aeb8fb0498bf99f29788161732f8b83ae161bf9a492f637964785562c6a9b0",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_hard_blocked].content": {
+      "pl": "Odblokowanie po ukończeniu\nCanto VIII",
+      "kr_sha256": "d2adb5588fe4261cdf7a71d8c8aec7ef301d2dabadb424f5846413d600e35ef1",
+      "en_sha256": "db495259cca7f99f9526ea9a87449b040f2736cda71fd3e171800c3e13fda747",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_theme_hard_no_pool].content": {
+      "pl": "Spełniono warunki odblokowania poziomu Hard. Możesz przełączyć trudność od następnego ekranu wyboru Pakietu Tematycznego.",
+      "kr_sha256": "42f4915c01a0b92e2bcc08bc1ce8f8b722de4305f635e395ed669db5780c54b0",
+      "en_sha256": "2f3a4c239d9cb5e67997d8a7741e90e7f09c8549292dea28892658c4fa69800a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_upgrade_shop_rate_in_next_floor].content": {
+      "pl": "Szansa na Wzmocniony Sklep\nna następnym piętrze",
+      "kr_sha256": "dc244f7489d2fed2efd7b03fce0225567f2b91139ae67d1f8933e944d55b619c",
+      "en_sha256": "e31eacd132f3c12bfd65dd2d243895c46fdfd7aa4c0ad9b8aa7075d7d8cdb2a8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_upgrade_shop_title].content": {
+      "pl": "<color=#990000>Wzmocniony Sklep</color>",
+      "kr_sha256": "8b05f23ad3a9e98fec6d3b2184d8e156fef73765ab05ce33b8306d139614e6bd",
+      "en_sha256": "5ff639361467c4cfd88a55c177b3c9211800d9a2878f19f036d039d8ce7f8eb9",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_desc_3_0].content": {
+      "pl": "Min. 4 szt.",
+      "kr_sha256": "9c6739e95a2d1963a90174a87a3a4e6292a2bc3a5302945994bb5a475ff60836",
+      "en_sha256": "dee915b52ae0de28d30c8220c88fdc5adfa74894e39a2c75552ddadcc703b899",
+      "origin": "ai"
+    },
+    "dataList[id=new_ego_gift_combine_guide_table_1_desc_3_1].content": {
+      "pl": "99%",
+      "kr_sha256": "73952e0680a8f44b1b8e001b4f608dc891b6b11bd9905f0d32a6a65de1645a8e",
+      "en_sha256": "73952e0680a8f44b1b8e001b4f608dc891b6b11bd9905f0d32a6a65de1645a8e",
+      "origin": "ai"
+    },
+    "dataList[id=user_enemy_buff_empty_list].content": {
+      "pl": "Brak aktywnych efektów",
+      "kr_sha256": "c49c400521641119edd7d44a045d33ff03fc2b587465ea6ee013da4d57e2bbb4",
+      "en_sha256": "9492e5b9b1b9e3e98ef9b74129007673629102241848a8a06d61e147b73bf754",
+      "origin": "ai"
+    },
+    "dataList[id=user_enemy_buff_select_event_buff].content": {
+      "pl": "Efekty wydarzeń",
+      "kr_sha256": "4e4ab10d867e80ca8fd28a37b2491942d262c1c4b3937f949bea56350c85c310",
+      "en_sha256": "0ace68e53c8d53c9b277b508979f9f369d8f28804b47204f86c30619d73e80bc",
+      "origin": "ai"
+    }
+  }
+}

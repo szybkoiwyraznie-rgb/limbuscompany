@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=10].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 71%] </b></color>\n\nŚmigający język rozdziela się na dwoje.\nJakby sam nie wiedział, w którą stronę się zwrócić,\nnerwowo wysuwa się i chowa.\nZarówno on, jak i my balansujemy na krawędzi.\nJeden fałszywy ruch wyrzuci nas z tej płaszczyzny.",
+      "kr_sha256": "f2482aa52ea8e62176caba7984268e891d2617824ead7befb59fab3ef7946a1f",
+      "en_sha256": "be9fdbf5d0dd7d641a7b808e6ee005e179025d3c67d873b171a191494cd38248",
+      "origin": "ai"
+    },
+    "dataList[id=10].title": {
+      "pl": "Stacja 10: Rozwidlony język",
+      "kr_sha256": "795f23e2a2b97683e512a90bcca9c0a7c2c07e9149db3078433d94d6091cad09",
+      "en_sha256": "058e640f7c467c4d13878982e9f35cc363e2224c860cfa8e536a75425e5b0663",
+      "origin": "ai"
+    },
+    "dataList[id=11].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 84%] </b></color>\n\nTe istoty widzieliśmy już kilka stacji wcześniej.\nDlaczego znalazły się tu razem —\ntego nie sposób pojąć.\nMoże kolejne załamanie rzuciło je w tę samą przestrzeń.\nA może połączyły się tak naturalnie, jak woda przewodzi prąd.",
+      "kr_sha256": "66b2eafd38318b926969f7d973969593a60ce160bc9af417e0511606e1713091",
+      "en_sha256": "41c751db2b1bf3f2b88c2b50b7bfc9ac03e47c27a4fedd5bb5ee4764670d42d0",
+      "origin": "ai"
+    },
+    "dataList[id=11].title": {
+      "pl": "Stacja 11: Przewodnictwo",
+      "kr_sha256": "7a8fdab993f1f28133603a3f141bffb5f88fc32958db111d917d1377555ae2f7",
+      "en_sha256": "511d1e3ca319a2f2d41eeec9d318039a434af49070a3a756dd620ae61ca5d451",
+      "origin": "ai"
+    },
+    "dataList[id=12].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 92%] </b></color>\n\nTrwało tam w postaci, którą uważało za najczystszą.\nKtóryś z Grzeszników krzyknął, że to niemożliwe,\nlecz w świecie tak głęboko wypaczonym, że nawet słowa ulegają odbiciu,\ngłos ten nie zdołał nigdzie dotrzeć.\nPozostała nam już tylko wymiana ciosów żelazem i ołowiem.",
+      "kr_sha256": "fe16ee2bec9fbafc5ed190f41a44ade325575f7e4e100f376192bc22f96f734e",
+      "en_sha256": "e0ecc9a023d3299b733bfea92b3b30f8655cfaf5cd133216547156840b374beb",
+      "origin": "ai"
+    },
+    "dataList[id=12].title": {
+      "pl": "Stacja 12: Czystość",
+      "kr_sha256": "b7adf33dbee385b2fa524e1a4a5def2a7cb9bf10f224c2668502ba1ffd65184e",
+      "en_sha256": "de896b788dfa510a218b9f3a1411adae9b2a89fe0a971ad3dfd5e230d799cdf3",
+      "origin": "ai"
+    },
+    "dataList[id=13].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 99%] </b></color>\n\nTo już granica. Nawet krótki postój grozi tym,\nże wyrzuci nas z powrotem do pierwotnej przestrzeni.\nJedna chwila nieuwagi obróci cały dotychczasowy trud wniwecz.\nJeśli zdołamy się przebić, dotrzemy do końca trasy.\nOpróżnijmy umysły i ruszajmy naprzód — jakby nic tam nie istniało.",
+      "kr_sha256": "a1866fe204830aea30740c0de7f19eae454469a1b2c220443beff457efeead4f",
+      "en_sha256": "9688f1fde6a17f53a65994fc5fc8486ad2ad735d0d91b581fdcbc22d4110baf2",
+      "origin": "ai"
+    },
+    "dataList[id=13].title": {
+      "pl": "Stacja końcowa: Nie-ja",
+      "kr_sha256": "a9564c2eeb4a90df7c5cf4947ae68377e29b9c87e953f6433b4660ac6d5c54da",
+      "en_sha256": "43d2c07270840636ef498d09bb941bc88ab9db0491df7c25dc04c8c13b77508d",
+      "origin": "ai"
+    },
+    "dataList[id=1].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 3%] </b></color>\n\nLedwie skręciliśmy w głąb torów,\na pociąg już się zatrzymał.\n\nTo wciąż obce uczucie,\nlecz po paru starciach powinniśmy przywyknąć.",
+      "kr_sha256": "c658599772ea96ff35ae2923de82b2962eafe430df50bd20939a8fff66d67209",
+      "en_sha256": "fc610a547f15d4d99de966e8d4cce84103dce5aa2fd305b42b876512f7279ba0",
+      "origin": "ai"
+    },
+    "dataList[id=1].title": {
+      "pl": "Stacja początkowa: Spotkanie",
+      "kr_sha256": "d77b41d559f7cd98e98bfa8d2c9f8dba0c3f4db316d3adc875ec40b77d4727a5",
+      "en_sha256": "dc5f92bd3943499d3eb48d0122dfa4e1f75a7745d565b361f119123dc01e2297",
+      "origin": "ai"
+    },
+    "dataList[id=2].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 8%] </b></color>\n\nIstoty, które już kiedyś napotkaliśmy.\nMoże i tym razem znamy je z przeszłości.\nA może dopiero przyjdzie nam je spotkać.",
+      "kr_sha256": "f157c96851e84478ad17a9ed4db4b22079ca8ad7ed49d93f648e178beb7d2308",
+      "en_sha256": "28235418fa1ce147d9cede0fa52b7fda3ff61d24aad0fb11bfa7df798d097005",
+      "origin": "ai"
+    },
+    "dataList[id=2].title": {
+      "pl": "Stacja 2: Przywrócenie",
+      "kr_sha256": "5759ebdb0d9bf4e2f451438a7e2ad7f127deb086dd74735b2738950aca6bbd99",
+      "en_sha256": "f503ed5a1c4db9a329b8c16de0d97e95a8809eb27e6445be9aad0115bc84835c",
+      "origin": "ai"
+    },
+    "dataList[id=3].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 13%] </b></color>\n\nNiesie się żałosny szloch.\nChoć chciałoby się przystanąć i wysłuchać tego płaczu,\nnie możemy zatrzymywać się na długo.\nAby ruszyć do następnej stacji, musimy stawić mu czoła.",
+      "kr_sha256": "5aa59b4cdeb34d507bea6602daa916d0119a51ab31de72091e1022289a5a5017",
+      "en_sha256": "1f14fdded8aa6b6b979d7db418589b8ba1d9c16e1259763cd2cc1ca5eed94977",
+      "origin": "ai"
+    },
+    "dataList[id=3].title": {
+      "pl": "Stacja 3: Zatonięcie",
+      "kr_sha256": "6d0580419db20f17bc192d7fafc9a2395b80423384960ba3394ba01dd72d4630",
+      "en_sha256": "984b2095268a54e351f05199d63ba8b6612a4250963f9aff213355e29b97cba3",
+      "origin": "ai"
+    },
+    "dataList[id=4].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 19%] </b></color>\n\nTo te same byty, które kiedyś bez wytchnienia nas ścigały.\nNa sam widok, że znów stoją nam na drodze,\npodchodzi mi do gardła mdłość.",
+      "kr_sha256": "4328e5686ddc738ab5903e879568101f30d57de72dd9db24d6592164bb69be87",
+      "en_sha256": "40f67ffff36e8f25f9e85025f6fdace6fd9c0c2592116cfcd47b526c1a0b9d5d",
+      "origin": "ai"
+    },
+    "dataList[id=4].title": {
+      "pl": "Stacja 4: Ponowne spotkanie",
+      "kr_sha256": "f0329b7013dac7356c373db588bc91cb62390c3a234ca2b3134d1aa19ce35ffd",
+      "en_sha256": "d5b50e762287fdc6a456e19b964d2c7a2188f70eafb70483995f3a9768197db5",
+      "origin": "ai"
+    },
+    "dataList[id=5].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 23%] </b></color>\n\nZe wszystkich stron przetacza się grzmot.\nMrok raz po raz rozdziera fioletowa błyskawica.\nOdległy huk przybliża się z każdą chwilą,\na blask staje coraz wyraźniejszy.\nChyba wiemy już, co na nas czeka.",
+      "kr_sha256": "d8bbfa2ba51c50c7c3c2d530376ba53382cf39563245eb79f09092ad77b6e6b9",
+      "en_sha256": "09a2e12f0a29e00605e6691ef6473437239d5b09d44e24d56301da268da051be",
+      "origin": "ai"
+    },
+    "dataList[id=5].title": {
+      "pl": "Stacja 5: Izolacja",
+      "kr_sha256": "12ac2e581a24aa22f866d237f5bced435a4c301a1ffbad436a73506042378b4a",
+      "en_sha256": "8406e6dcc84a209b78c5340d34912556b08a11dcc4105e3051b5173d665276fc",
+      "origin": "ai"
+    },
+    "dataList[id=6].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 34%] </b></color>\n\nZdaje się, że pomruk gromu jeszcze nie ucichł.\nNie — to coś innego.\nDźwięk łudząco podobny, a jednak odmienny.\nW powietrzu unosi się woń rdzawej wody i przypalonego mięsa.",
+      "kr_sha256": "9f3c23ae4fa9008a7a1afdca78264c44b9dcabca0086f773043015608ef7d85c",
+      "en_sha256": "e0db7562dd9849c6c3a037b0b4d1ccb28b2842f9b9f2b79a74fb1878ada3e984",
+      "origin": "ai"
+    },
+    "dataList[id=6].title": {
+      "pl": "Stacja 6: Selekcja",
+      "kr_sha256": "c75bd33341f3394abb01689cfe135a9a835b8eed4e709b06e2a12382a9a2db59",
+      "en_sha256": "2cfaa6910ea4d1501f0e9694ef16b719840f62958db7623cde1dabdd410ab167",
+      "origin": "ai"
+    },
+    "dataList[id=7].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 42%] </b></color>\n\nOdbijało nas i załamywało na wszystkie strony.\nZawrót głowy był tak nieznośny, że miałem ochotę własnoręcznie ją sobie urwać.\nGdy zdusiłem niemożliwe mdłości i podniosłem wzrok na peronie,\nujrzałem przed sobą coś, na widok czego odetchnąłem,\nże skończyło się tylko na myśli.",
+      "kr_sha256": "a50ec99d9199f55d1be4a996348655899523ca59396146828e7642f02a8fdece",
+      "en_sha256": "2e46715454b20762f6c53b2401f5a1ea2fbef453f988333274487a1d1afcaf92",
+      "origin": "ai"
+    },
+    "dataList[id=7].title": {
+      "pl": "Stacja 7: Bezgłowość",
+      "kr_sha256": "38200cb35a23dead5b608884ef5e44e427bcb495fca918109be9b607b34983c9",
+      "en_sha256": "6729960611799de9c622f10cff06921daaeb9a3c77c1f16b7f20b0052847dcda",
+      "origin": "ai"
+    },
+    "dataList[id=8].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 51%] </b></color>\n\nNie tylko tamci odrastali bez końca mimo kolejnych cięć.\nGdy sięgnąć pamięcią… był też byt, który w walce wydzierał wszystko\ni czynił to własnym.\nIstota przykrywająca własne istnienie cudzym.",
+      "kr_sha256": "56a6b9ea77f3778e10e92eb36d0bbfb649292c6637ebd4e79e2fa66ce7c61705",
+      "en_sha256": "f9c28c5eaa6fc644ffb528e4a3aebb39aa8c1e961bfa11e88375f9adae89ff3b",
+      "origin": "ai"
+    },
+    "dataList[id=8].title": {
+      "pl": "Stacja 8: Istnienie",
+      "kr_sha256": "ee144b56397b5559ce508b314f1865ef776f751d87dac512b6c17489eee470c1",
+      "en_sha256": "4d2c48fe04fb8ebd287af3db26b50776943985659eb20847a8df3573a8e50ee6",
+      "origin": "ai"
+    },
+    "dataList[id=9].desc": {
+      "pl": "<color=#990000><b> [Współczynnik załamania: 59%] </b></color>\n\nWidać emblemat korporacji, która kiedyś przyprawiła nas o zawrót głowy.\n\nIle by ich nie ciąć, rany natychmiast się zasklepiają…\nTrzeba będzie mocno trzymać nerwy na wodzy.",
+      "kr_sha256": "de0fe7a7bf5a5c219c87dcefa96c0beb7ecda2a420b753f6db4ecb24ac585ca9",
+      "en_sha256": "9e40da31b86a565720f0c00987e32450c1ad1d6da38fedc7adcdddbad837ddae",
+      "origin": "ai"
+    },
+    "dataList[id=9].title": {
+      "pl": "Stacja 9: Surowica",
+      "kr_sha256": "47f55d8c09d18f8e7b3d555488013278bf4a16773b80917d956d082b709d44b2",
+      "en_sha256": "54f7e4d63e2fd1f96257269554c9167eb86f0f46a19cda134f09a950e5eac429",
+      "origin": "ai"
+    }
+  }
+}

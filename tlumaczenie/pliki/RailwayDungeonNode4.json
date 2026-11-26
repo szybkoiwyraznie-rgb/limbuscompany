@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=401].title": {
+      "pl": "Odcinek 1: Bankiet–Dno Studni–Wypaczenie",
+      "kr_sha256": "fc75cce12c700a866874d52803a146f1d8df244fac2ffb538ed91003bd0dbead",
+      "en_sha256": "7c932e9b6fc21e2ccf7263279e386ec0b002d92eae8c56de059571c229727f84",
+      "origin": "ai"
+    },
+    "dataList[id=402].title": {
+      "pl": "Stacja 4: Antrakt",
+      "kr_sha256": "e7c61c7a7381594b17ec72f8be70938d4d41956370b6dbc065aeedeaa6dc4e1b",
+      "en_sha256": "43f2b99419a865258821b4b1a76bd0e0ee7da721d550f06221546c7be8c6f81c",
+      "origin": "ai"
+    },
+    "dataList[id=403].title": {
+      "pl": "Odcinek 2: Dłutowanie–Mgławica–Ciało i Kość",
+      "kr_sha256": "2cb7cbfbbad858ff13064a3071426e708b82120f7c6999ff2401a55789334b2b",
+      "en_sha256": "5e3db84cf55f62ad71ae8d2bd93084d00bf997c3bdbae14c6382358ce0b4b588",
+      "origin": "ai"
+    },
+    "dataList[id=404].title": {
+      "pl": "Stacja 8: Antrakt",
+      "kr_sha256": "daaf178072104b18a06fb81869937d9a984737eb84a598928694166772125cff",
+      "en_sha256": "6b78c2c35d1f9846fe73b2ecd7a8b09c6e966b716a14fc785825a7f30bcd8ce6",
+      "origin": "ai"
+    },
+    "dataList[id=405].title": {
+      "pl": "Odcinek 3: Falsyfikat–Marzenie",
+      "kr_sha256": "9dc79b135dac3bbaf1c10002e54d8bf80e27fa746dd11655bb924fb8421344e4",
+      "en_sha256": "a8a7118b9c45086fd2daaada4d370af204bfc1af83f51b77547bb881f2d8e570",
+      "origin": "ai"
+    },
+    "dataList[id=406].title": {
+      "pl": "Stacja 11: Antrakt",
+      "kr_sha256": "5f9ea8ab7527dc631899e47ed11ca0a23c663f06123a348c6d5db3d04089464d",
+      "en_sha256": "d770171107b0f7f9432eba43aa0a54cab0327eea58d141f5c2dac2eee0972103",
+      "origin": "ai"
+    },
+    "dataList[id=407].title": {
+      "pl": "Odcinek 4: Zapora–Uczta",
+      "kr_sha256": "0d45ca2a41bd10b2126ec1babb454e1876665ec4bf95180cb6293864e4e58d57",
+      "en_sha256": "dd18bc323a299c71b00e041ce83975bc4e361454eeaef189e6d2f4b0cece01ed",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=501].title": {
+      "pl": "Odcinek 1: Przywiązanie–Łowy–Źródło–Rozpylenie",
+      "kr_sha256": "400738c796a93e933e423d3aa7abeb5cbc357e2361d1d9eee131a2a8551f6fc9",
+      "en_sha256": "71782125e3eafdc9dfd4cda0b8ef90724657cd703d3ce4eb4a2b318b70655347",
+      "origin": "ai"
+    },
+    "dataList[id=502].title": {
+      "pl": "Odcinek 2: Kurek–Szał–Zapomnienie",
+      "kr_sha256": "4d21c9f085c26e9fed393e160dc02620bcb5962d4d8066bf42733eb639437611",
+      "en_sha256": "c3343fbec3edb19d7341c92c022d09ff15e36ad7156254143d366a456e8a6501",
+      "origin": "ai"
+    },
+    "dataList[id=503].title": {
+      "pl": "Odcinek 3: Macierzyństwo–Zdrada–Grzech Krwi–Pragnienie",
+      "kr_sha256": "9146343cc8bf473147071a7310d3680ea21dd83e4ef867ad33ee346b1f56c6a4",
+      "en_sha256": "a814221ce48020cd57b48b71d3507eb12aaa095183664fd4d84d1c5d8c4bbdd0",
+      "origin": "ai"
+    }
+  }
+}

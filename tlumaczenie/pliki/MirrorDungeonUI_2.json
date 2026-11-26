@@ -228,6 +228,642 @@
       "en_sha256": "8919e914db9e706d9e38371925f24d9387583c1380e78e82289683748340a26c",
       "origin": "ai"
     },
+    "dataList[id=md3_buffs_summaryDesc_1011].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Podpalenia",
+      "kr_sha256": "77e9b8f65ca3b71acfd869879a74cca3cd868c93b5b8dfe9c42fb1149fd81a5d",
+      "en_sha256": "48c1c81f5567486b2b206ca367d93a577cb340a8db2b7b0915efcbdfe88183b2",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1012].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Krwawienia",
+      "kr_sha256": "2a8d9a261e96e5355f84cf307037f130395c1ab80723f5201109fa98741deda8",
+      "en_sha256": "362361e9d0ba31c4882615cef2813092cd9d9c988bcf515cca7b1958a2fd5149",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1013].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Wstrząsu",
+      "kr_sha256": "7643f49feafb1315bc17456e1e1b8f1aac3f21154bae6d244ceb4c6f670e4879",
+      "en_sha256": "bc515418b21919b2b9c70a0180693fe0d12f3ca38711626d9b25590ba6d9a0d2",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1014].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Rozdarcia",
+      "kr_sha256": "80bfbeeed822f8e8e866217fd1d0d8d648e214447d93373dc94ddef249e1c4b5",
+      "en_sha256": "ef14b78871541eaa63548eaf2001bbe463bbf2a392a0c97fc6e6faf09e045c52",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1015].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Zatonięcia",
+      "kr_sha256": "a62342d9136532f4b4b1ee540315af476d3380efb568cf9cad67e8d582893e7d",
+      "en_sha256": "9887e4ffbe7eaaea890be79d6262cc21744f2db411ce47e09148018f0471389a",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1016].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Oddechu",
+      "kr_sha256": "42dc26979d5a494c3ab9dc910227ce7f30af3a18c2be2469e27938f83b58eb98",
+      "en_sha256": "867bf363957e4df214874eef821c170954afd7501e0173c8d302904dbbb3933a",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1017].content": {
+      "pl": "Wyższa ranga pojawiających się Darów Ładunku",
+      "kr_sha256": "facec471b185aa34a2c12cfaf1d8f5a3704e51180b8c723c0c5641e7e7cd8c34",
+      "en_sha256": "78596fa42dddf4ba1240358030b450ae222e5094fed2e496294a2a0c37b48e7d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1018].content": {
+      "pl": "Wyższa ranga pojawiających się Darów losowych",
+      "kr_sha256": "9a662a6bad68a3f82bcfd100bab1c114142476351802b2591607c68968782e33",
+      "en_sha256": "cc9308308691f21684913bd3aebfe1a658fdd59471542e1177e262e54649484b",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_101].content": {
+      "pl": "Pojawianie się Darów rangi 3",
+      "kr_sha256": "7bd6c6cb685b339545250806420e2c243d3a8d87fb017d301c4f228515e7ade8",
+      "en_sha256": "1d21ceab1ecbb037a01c151064f32d0519a9f62bbbfe649ab02f322d2a2344ac",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1021].content": {
+      "pl": "Wyższa ranga pojawiających się Darów",
+      "kr_sha256": "406d4c9736513c56a9bfac9a3b8b5686b1649874bc8b341133b8805286b66583",
+      "en_sha256": "62f129b3344f6c00f123446d6500553c4eb75f9c3b1116ad591467af46b49a0e",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1022].content": {
+      "pl": "Wyższa ranga pojawiających się Darów",
+      "kr_sha256": "406d4c9736513c56a9bfac9a3b8b5686b1649874bc8b341133b8805286b66583",
+      "en_sha256": "62f129b3344f6c00f123446d6500553c4eb75f9c3b1116ad591467af46b49a0e",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1023].content": {
+      "pl": "Wyższa ranga pojawiających się Darów",
+      "kr_sha256": "406d4c9736513c56a9bfac9a3b8b5686b1649874bc8b341133b8805286b66583",
+      "en_sha256": "62f129b3344f6c00f123446d6500553c4eb75f9c3b1116ad591467af46b49a0e",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_102].content": {
+      "pl": "Pojawianie się Darów rangi 4+ oraz wzrost rangi Darów",
+      "kr_sha256": "5521eb8bb967df989774cc2b557199efbbcac1e7b193fc845a49caf480fad41f",
+      "en_sha256": "0697c8de6e086c071d4fc85d0a4f0a0b2307d36f974e84cc959af21591419c02",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1031].content": {
+      "pl": "Liczba pojawiających się Darów +1",
+      "kr_sha256": "d80ef72abb1bfb3c7528f6e840e434d2786cc28c95decc02ad01707a3b75fc5a",
+      "en_sha256": "28e683623eb8ee9e47b34312dd215313770e47bd0148bfc1d2ec0b17ce5d9227",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_103].content": {
+      "pl": "Liczba pojawiających się Darów +1",
+      "kr_sha256": "d80ef72abb1bfb3c7528f6e840e434d2786cc28c95decc02ad01707a3b75fc5a",
+      "en_sha256": "28e683623eb8ee9e47b34312dd215313770e47bd0148bfc1d2ec0b17ce5d9227",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1041].content": {
+      "pl": "Liczba pojawiających się Darów Podpalenia +1",
+      "kr_sha256": "46bf687339163edaa49234d3a791be55790491c3ec732623ea450f1e86f6803b",
+      "en_sha256": "86e4e922f0e40ece17dedc4581f69feac6cb11f6e6de9cec43d07b8036f0fd85",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1042].content": {
+      "pl": "Liczba pojawiających się Darów Krwawienia +1",
+      "kr_sha256": "c442a40345bdff7726b72cf7d245ef6753542362e59e80acf7c6f0a7d92fd792",
+      "en_sha256": "39770eb39ab80fc031fa1ef17eb80d041419584649e3497d1fb4fd95c1dd3098",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1043].content": {
+      "pl": "Liczba pojawiających się Darów Wstrząsu +1",
+      "kr_sha256": "1fa4ba771bd9cdb745aa00a86a7d207065d84d6291c451de0c3ae76b7ed71865",
+      "en_sha256": "21c1cbf58e3c9ad394c2ef82ba0ea7f0e49765196f48c52e4be18110ceac3704",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1044].content": {
+      "pl": "Liczba pojawiających się Darów Rozdarcia +1",
+      "kr_sha256": "048bef5502ffe21c7b1b63221e2a55aeb3c3c7c852f1d057fedeaea4fdac1a7f",
+      "en_sha256": "a9c2d454085c8ac9c9f34e344c93e2676bf534059768a6bb00d331957cca633a",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1045].content": {
+      "pl": "Liczba pojawiających się Darów Zatonięcia +1",
+      "kr_sha256": "8dbf813c9b618c23a4706b78bd3ec9132ea8cf09eb5a9d3aa9049fc3ef6a8a11",
+      "en_sha256": "4af8a3da458dfd17440d1c334da3cb6f7225369186a7e8520fba067e485e41c7",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1046].content": {
+      "pl": "Liczba pojawiających się Darów Oddechu +1",
+      "kr_sha256": "f0cfffb3caada970506283bed0594f90f753d8f7e57f358942c7176a01009e9f",
+      "en_sha256": "fbc6bd183b2670c245d6976f2b03b0d69a741a2f4b34d2e3b42442dcfb9536b5",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1047].content": {
+      "pl": "Liczba pojawiających się Darów Ładunku +1",
+      "kr_sha256": "efb2ab8edf2f491eda4434067e188f2f7bab2cf782c9c9cb957424fd84fbbedd",
+      "en_sha256": "0d0ff950c4ea4768f78e831ee97be59c6b2a4b94754098665fec09902b8f1e97",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1048].content": {
+      "pl": "Liczba pojawiających się Darów losowych +1",
+      "kr_sha256": "2cdaf7416a451f851a25cc52fbd4a96b456a2e140517a81c423fc3afe5c017a0",
+      "en_sha256": "f5597367dc6f5c499128c9abde4639aca8d089d80439b917e7a6df93f1d6d585",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_104].content": {
+      "pl": "Liczba pojawiających się Darów +1",
+      "kr_sha256": "d80ef72abb1bfb3c7528f6e840e434d2786cc28c95decc02ad01707a3b75fc5a",
+      "en_sha256": "28e683623eb8ee9e47b34312dd215313770e47bd0148bfc1d2ec0b17ce5d9227",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1051].content": {
+      "pl": "Początkowy Koszt +50",
+      "kr_sha256": "73813516799cf2e22bf8853a3e58cd7d60fbe64d57892616c74a71faf1cd9697",
+      "en_sha256": "d2f5c7f534a532dd9bc2bae623dbe1eab48db2d0e6628c8835f4851806883ac9",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1052].content": {
+      "pl": "Początkowy Koszt +50",
+      "kr_sha256": "73813516799cf2e22bf8853a3e58cd7d60fbe64d57892616c74a71faf1cd9697",
+      "en_sha256": "d2f5c7f534a532dd9bc2bae623dbe1eab48db2d0e6628c8835f4851806883ac9",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1053].content": {
+      "pl": "Początkowy Koszt +50",
+      "kr_sha256": "73813516799cf2e22bf8853a3e58cd7d60fbe64d57892616c74a71faf1cd9697",
+      "en_sha256": "d2f5c7f534a532dd9bc2bae623dbe1eab48db2d0e6628c8835f4851806883ac9",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_105].content": {
+      "pl": "Zyskaj 50 początkowego Kosztu",
+      "kr_sha256": "7eb95eac71289ae55017e3c094a923d74786477ed17ddcd461a54cbd195d2f62",
+      "en_sha256": "bd5a75998fd53ec3bb2194c497764d5d7580d2868d41911684b3f4edb954f9ed",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1061].content": {
+      "pl": "Odblokowanie 2 nowych Darów Podpalenia",
+      "kr_sha256": "3ed964c8ff1d01d499132f6c80f95dd049181029847088bc8381eb4a700fcd4f",
+      "en_sha256": "fb455fac0213b54a107d385841bf84f3cef112f5e0e1b5b20848107756c900c4",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1062].content": {
+      "pl": "Odblokowanie 2 nowych Darów Krwawienia",
+      "kr_sha256": "fc4097e387ab9a9d589d3fabff4c46c431bf43727baaebdf69945794de58f63f",
+      "en_sha256": "d5fd0939e41c5933fa435e2c8db58dc81abb476f3cd15a7dae0ccd65d2e2adc2",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1063].content": {
+      "pl": "Odblokowanie 2 nowych Darów Wstrząsu",
+      "kr_sha256": "848444be813289ce0d5dba4171053d8ff78cb97c8d33073319581f34110ff377",
+      "en_sha256": "9f8e573d3aa9e6d24d0cc7184b0711bc82ac120d0b0114978fba2885d4a5a831",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1064].content": {
+      "pl": "Odblokowanie 2 nowych Darów Rozdarcia",
+      "kr_sha256": "a4baddd68632269051eaad09ed03fd8b38c5264d2c25e5f1dce9dc64dbdc0d85",
+      "en_sha256": "40ac7e639875a1dc7e3a1c7aee596788ed96b54df7adbd7ad4b7fac203003030",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1065].content": {
+      "pl": "Odblokowanie 2 nowych Darów Zatonięcia",
+      "kr_sha256": "750d3545d0d62e006c5a5e30075617ed51b739f58583dd538aaa8200ea147101",
+      "en_sha256": "dfafb57f2a854c3d3581598eaf1334f5351b1d1ee0a2ffb07ce123e0e0e08d6e",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1066].content": {
+      "pl": "Odblokowanie 2 nowych Darów Oddechu",
+      "kr_sha256": "0cbd50563fd4fa421317100f8ea8d57913c5c6409c32e3cd9437e2f624079723",
+      "en_sha256": "091e1e5508bc3a71ee991adabe45bcd510bd9a8a939a646c6af97edb79776edd",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1067].content": {
+      "pl": "Odblokowanie 2 nowych Darów Ładunku",
+      "kr_sha256": "07ccecdf5ab862eefa76b530209c5d1d65f382a45d31368087ae0429a3bb8142",
+      "en_sha256": "b63adf344ba3954a2485462ee7e8e01eb7331bf6fcdce6cad1f756145f2023ee",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_106].content": {
+      "pl": "Odblokowanie 3 nowych Darów",
+      "kr_sha256": "dea91638280e3ee7b67f1c2c85c598ce75eb7272fd72e1b36eacd6c77df3b52e",
+      "en_sha256": "d5c4e4f1f709d656b17dc571104939b20e83d2009b5194bdeb05d63ba3d8eb55",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1071].content": {
+      "pl": "Więcej Kosztu zdobywanego w zwykłych starciach",
+      "kr_sha256": "6bc053e3df533789151b6c5c4cbe47affee5e7f6c1e0a6a0bc7f6d6deb8141a4",
+      "en_sha256": "4bac0853a73a77885896be5cacc10617548b0d9c0c6fd37c0b56605c4f542e8d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1072].content": {
+      "pl": "Więcej Kosztu zdobywanego w starciach skupionych",
+      "kr_sha256": "cb6b8f7f6d62241c6dff7d060492bdf38459d0be76c3eed379ab939c5cdec18a",
+      "en_sha256": "1086742b3d527bb5e8d1dfc1cb25adf410a7dea9add4a1a00b6364fa533412f4",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1073].content": {
+      "pl": "Więcej Kosztu zdobywanego w starciach ryzykownych",
+      "kr_sha256": "2e86f0041ad4750a7e51eff122ee3e9d5ad6c8d16b0869a7e667cad4e6c50537",
+      "en_sha256": "60b2f59f40549218e8774c97d6ced664203c504bb2bb2dee29db75beaff931e4",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1074].content": {
+      "pl": "Więcej Kosztu zdobywanego w walkach z bossami pięter",
+      "kr_sha256": "e8a802268a71ccba336d7ccb84938d7d5f5fbbf6488c0bdaa841dbd735a93e1f",
+      "en_sha256": "a22665c2da8d77bbffa45e2a821b6e0c4e97443045b3ba6ad29e4aa7d1681dda",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_107].content": {
+      "pl": "Więcej Kosztu zdobywanego w walkach",
+      "kr_sha256": "a2b7e39eb8316611c2265cd95cd99d5b147c1a0ce48003bfb41eec449e7fda5d",
+      "en_sha256": "c6a0dc3d4e7038dc066591a967f49759b58d8f32cfde70c42b405e2b5203e3b6",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_108].content": {
+      "pl": "Liczba wybieranych Darów +1",
+      "kr_sha256": "7276086ec5a1356da774fba14ef073cd213e138aca282599d1b32df8435f9fcc",
+      "en_sha256": "d4db31fe0c3f838ea241bd56ccd0be35006e3b40d01d3b3a614ae721562655f3",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1091].content": {
+      "pl": "Niższy koszt odświeżenia",
+      "kr_sha256": "6d3b08dd66b60013212c2da801bf9440135d3042cc8461af457224d009337e11",
+      "en_sha256": "7b6be602b4a9dee40fd69b1dfc8091e718781f1222e800ff3608c02a559f5c8d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1092].content": {
+      "pl": "Niewielka szansa na darmowe odświeżenie",
+      "kr_sha256": "5f5efcdb8ed459a749d7758e2660d7dc704bafca0a80b4f5c70dbea344178adb",
+      "en_sha256": "89c9b07c967ddfa98235d903c800f0ec93ebe9b9c64ecccae375397434b25cbb",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1093].content": {
+      "pl": "Niższy koszt wymiany umiejętności",
+      "kr_sha256": "4103536c639024fe5c38a3759ab797bbc41937abf72e22b0faf35d92bd9755eb",
+      "en_sha256": "cdd007814c5599683e9f959570badc91be8668ab48a96b0b56e734c23bc817a8",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1094].content": {
+      "pl": "Niższy koszt wymiany umiejętności",
+      "kr_sha256": "4103536c639024fe5c38a3759ab797bbc41937abf72e22b0faf35d92bd9755eb",
+      "en_sha256": "cdd007814c5599683e9f959570badc91be8668ab48a96b0b56e734c23bc817a8",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_109].content": {
+      "pl": "Niższy koszt odświeżenia",
+      "kr_sha256": "6d3b08dd66b60013212c2da801bf9440135d3042cc8461af457224d009337e11",
+      "en_sha256": "7b6be602b4a9dee40fd69b1dfc8091e718781f1222e800ff3608c02a559f5c8d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1101].content": {
+      "pl": "Niewielka szansa na darmowe ulepszenie",
+      "kr_sha256": "22f8dcc7d0b1a31547b66c10482e9b4d0bf6d988a2a0c440351e78814dab1091",
+      "en_sha256": "46d18df30c6d1623236e4bd6bc6c33deaea61647d5e3e54cce9967d1e667de29",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1102].content": {
+      "pl": "Niższy koszt ulepszenia Darów Podpalenia",
+      "kr_sha256": "55c94b93fdbaa16710a7a1cc81aa68aca6e934720aef0e5b265e3dacc648b7de",
+      "en_sha256": "aa6675fab6023e5faeb72790667fcc6a22254d35e8c2d13742ba523307c663d5",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1103].content": {
+      "pl": "Niższy koszt ulepszenia Darów Krwawienia",
+      "kr_sha256": "e6079d7cd27c1f43678bc8eac424f76e49263bf2a4c37628a7b9ffce3c2c5030",
+      "en_sha256": "465e2e5e751870c18d6ff2f37c19e5083e98be3056f346aeb847fd6a82d1b660",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1104].content": {
+      "pl": "Niższy koszt ulepszenia Darów Wstrząsu",
+      "kr_sha256": "8baecbb5600b3c89d337d57e5cf243bf65fdeda4ab2640e8de28e67a39921e0d",
+      "en_sha256": "aa16dc0e5239c3740a872acd3466adb15a843af94917048d574775f27a923924",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1105].content": {
+      "pl": "Niższy koszt ulepszenia Darów Rozdarcia",
+      "kr_sha256": "7afa20e3e525b3944c705071dca0a11be7af4a1653090fb62d30736ce80efcca",
+      "en_sha256": "4c2beff6cd24daea5022ef429561d08ebec5858030b21adf087e269a829bb3db",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1106].content": {
+      "pl": "Niższy koszt ulepszenia Darów Zatonięcia",
+      "kr_sha256": "de7cf9a0308ec965eb6ac2b1586c8f24c140e6698645093a3732f8655602eed6",
+      "en_sha256": "8de28b9ff4b6b4bf8cb839e24350035ad39cc2e21e3a788b3e1fb39dc36acbf4",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1107].content": {
+      "pl": "Niższy koszt ulepszenia Darów Oddechu",
+      "kr_sha256": "caf17d9d6ac7d1118365570d0ceb4316818f92224fda670864837c9999a0e989",
+      "en_sha256": "ca7ef9a6231d1c380ee0e208cf60dd70b53782c9abaefde6a9c91171bb77d377",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1108].content": {
+      "pl": "Niższy koszt ulepszenia Darów Ładunku",
+      "kr_sha256": "e0f0315dcd0816e8b47ced6369653303f1c84178a68ba674c1385795352995ff",
+      "en_sha256": "74587c9048d3d59ab2a85bc30e0cf07ced2d89335313ebeb9d27f82283629178",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_110].content": {
+      "pl": "Niższy koszt ulepszenia",
+      "kr_sha256": "8ad62aaa83862ba77f42944e5c550bb2111bd56c088a5a518e7932fa622fb35b",
+      "en_sha256": "dd9b5b2f38ee9f5caeb431531c69cee813e4a2f0bfcadef2d357045e4cceaea8",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1111].content": {
+      "pl": "Wyższa cena sprzedaży Darów",
+      "kr_sha256": "c1118514c5ca10d0b7f717187cc1a7ea836c02ba2f00e85fe500a1241294129c",
+      "en_sha256": "a191a3e9e5807981e8fecdce7c140c7fbd7d50a22c5a753234f831ced16d156d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_111].content": {
+      "pl": "Wyższa cena sprzedaży Darów",
+      "kr_sha256": "c1118514c5ca10d0b7f717187cc1a7ea836c02ba2f00e85fe500a1241294129c",
+      "en_sha256": "a191a3e9e5807981e8fecdce7c140c7fbd7d50a22c5a753234f831ced16d156d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1121].content": {
+      "pl": "Niższy koszt zakupu Darów Podpalenia",
+      "kr_sha256": "04aa9b8ec0440602b8aa86bf773275b2aaa0e41ee52e83b847bffc956ddc70fe",
+      "en_sha256": "bec1f608de5a2104ca46a968c236491176f306e11d4ca254f5f0b88d76c69d92",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1122].content": {
+      "pl": "Niższy koszt zakupu Darów Krwawienia",
+      "kr_sha256": "6386be5788677dddf76e6d1fdfa41a33d1716f430896dd85670e93a573c9dc23",
+      "en_sha256": "c7c4d1b3b5aed297df6b9f5c064fa0e2d6c82b82c984cdbc137343a81e6a6fd5",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1123].content": {
+      "pl": "Niższy koszt zakupu Darów Wstrząsu",
+      "kr_sha256": "f87080b9fceb88d6f1b69ae7f146607f88afaa140695e8fea353a23e7e8d296b",
+      "en_sha256": "f00d6653f41fea7deef206d1cab85aa44bf7986a30d493c10c0c1d82d561689b",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1124].content": {
+      "pl": "Niższy koszt zakupu Darów Rozdarcia",
+      "kr_sha256": "21ca07caf1bee6f8740bcc411e4541d3de6db2efdf3a057b56b93a2bbc1cdce7",
+      "en_sha256": "f0ae55bd666fbd5b7b0e84e04e1e493a8468216e27bbef0179e36c3670d6c0bb",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1125].content": {
+      "pl": "Niższy koszt zakupu Darów Zatonięcia",
+      "kr_sha256": "0dcf1446ad6bdef323826124c96ba626ec48725d940c9cb62c2b01e44d022f34",
+      "en_sha256": "d57fe79c89e048d968da3cbe9865930c7aca71bad72193d99f344697345cb5fe",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1126].content": {
+      "pl": "Niższy koszt zakupu Darów Oddechu",
+      "kr_sha256": "30f81f67af1babdfa4bcd9c0944f6727f421c7866ef64e4642432c582544f527",
+      "en_sha256": "533e8a8cc59cdfe177f4c34de5ab127eaae91001a2db566cb45bb4a71b90b655",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1127].content": {
+      "pl": "Niższy koszt zakupu Darów Ładunku",
+      "kr_sha256": "2db14c745c6b1b1f409e518ac236a93e4aeef0f5bd40553eab88df2aa94bb504",
+      "en_sha256": "68195c971ca83e11bbe46863301494a6a97833d78038dacf0dba53942314212a",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1128].content": {
+      "pl": "Niższy koszt zakupu Darów uniwersalnych",
+      "kr_sha256": "cbb1447e99244751460b0347ea4034ce94ae0c54045cd2aeb3a15f4574401df9",
+      "en_sha256": "56836214e828e7e22f3fa0084a4f520ec5904e7e21e1a3cbf22eb21b34d65330",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_112].content": {
+      "pl": "Niższy koszt zakupu Darów",
+      "kr_sha256": "fcf03d98d8c88ceab70a52264889e3fcdea4ea184261245a34c37aacde4cf461",
+      "en_sha256": "c144d82e87af0c48c3d45bf064cb7dafa1f7375e2a9a8dd652e4444a634c566e",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1211].content": {
+      "pl": "Zasoby E.G.O wszystkich Grzechów +1",
+      "kr_sha256": "e871028fe9e8d50c5bc7895b2b3968005bb43cd77b8c5b1f0a95217eb1bec177",
+      "en_sha256": "dbdb20159c17da79dc1e635185b1e900fbc44af74423da460af86f0047609fa1",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1212].content": {
+      "pl": "Maks. Szybkość +1",
+      "kr_sha256": "211a792ee1b7a6c7b8ee799876e9c34a3f1c2ea2ea0d41ed77f565d14ca12868",
+      "en_sha256": "2779ec964031c346f91dfc536f11f728f506e0699df59d435923cf2f534ca2c9",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1213].content": {
+      "pl": "Maks. Szybkość +1",
+      "kr_sha256": "211a792ee1b7a6c7b8ee799876e9c34a3f1c2ea2ea0d41ed77f565d14ca12868",
+      "en_sha256": "2779ec964031c346f91dfc536f11f728f506e0699df59d435923cf2f534ca2c9",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_121].content": {
+      "pl": "Zasoby E.G.O wszystkich Grzechów +1",
+      "kr_sha256": "e871028fe9e8d50c5bc7895b2b3968005bb43cd77b8c5b1f0a95217eb1bec177",
+      "en_sha256": "dbdb20159c17da79dc1e635185b1e900fbc44af74423da460af86f0047609fa1",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1221].content": {
+      "pl": "Zadawane obrażenia +3%",
+      "kr_sha256": "1389ef99bf717995c2b3c5a4e173dcf5020abd2ccf22fc21bec398c2b9b8645e",
+      "en_sha256": "f6873c750cc0f750a925b320897e63d9af95a6596aa50cca8019823422de822b",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1222].content": {
+      "pl": "Poziom Ataku +1",
+      "kr_sha256": "7123ada53a37603882ba895a99520ad2fc5bec138eff5eed97409677b3fedbf3",
+      "en_sha256": "b43d37e59838605dc576ce9938903d170d36bcc122f70f6b57bbfd10a86c4ad0",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1223].content": {
+      "pl": "Poziom Ataku +1",
+      "kr_sha256": "7123ada53a37603882ba895a99520ad2fc5bec138eff5eed97409677b3fedbf3",
+      "en_sha256": "b43d37e59838605dc576ce9938903d170d36bcc122f70f6b57bbfd10a86c4ad0",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1224].content": {
+      "pl": "Zadawane obrażenia Cięte +4%",
+      "kr_sha256": "ce342e5c072c4998bf0f0cab9b9fa5bbcf4db4db427fdb9b63596234ec84b6b7",
+      "en_sha256": "70ea8599d11e840e9d45b42bc9896005b382a1fa2aa0300d758839ea6d57f443",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1225].content": {
+      "pl": "Zadawane obrażenia Kłute +4%",
+      "kr_sha256": "f3eeef2aa3df2ef5ae2b62556e84f035dcfeb1063b667c7f3bed9a2bb631f01f",
+      "en_sha256": "8c631dc5edc39f57ca46348b4c0f7ef98613fdec3ff78c6511f86a852231111e",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1226].content": {
+      "pl": "Zadawane obrażenia Obuchowe +4%",
+      "kr_sha256": "30ec5d6d3e9bd39a3b88d26c946d1bb1ddfe7d3c1ce352900fce8270e2b01d69",
+      "en_sha256": "561992307a8aa79143a6cbe912678c7ffb74f175fed0ac8def3e2aacada5c0ab",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_122].content": {
+      "pl": "Zadawane obrażenia +3%",
+      "kr_sha256": "1389ef99bf717995c2b3c5a4e173dcf5020abd2ccf22fc21bec398c2b9b8645e",
+      "en_sha256": "f6873c750cc0f750a925b320897e63d9af95a6596aa50cca8019823422de822b",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1231].content": {
+      "pl": "Otrzymywane obrażenia -3%",
+      "kr_sha256": "b1e7b2db2c37c005f50dc1ecc658e261d4e9fecc55b995660c6473b2c86e8d76",
+      "en_sha256": "99a474fb575325b140d0161bcabc9b0f9f9aaeee91299f95bfe12ac2322913c5",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1232].content": {
+      "pl": "Poziom Obrony +1",
+      "kr_sha256": "54c55691c727ffe1f666815e42f81c589ff658dc505d3623b449ed6209d98dbf",
+      "en_sha256": "12cf06ab8bf573d8de2ac83abbc99f472ad12db997f1fabf69413dc018b10233",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1233].content": {
+      "pl": "Poziom Obrony +2",
+      "kr_sha256": "302873263579d20218968daf0b606d0ec02b7b7bc7e40fa5d5e2c92e8624323c",
+      "en_sha256": "1ff3c4deaf5cdcc1ac4527265f43bad434b96a18b24944c35713744282f85f73",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1234].content": {
+      "pl": "Odporność na Cięcie -0,1",
+      "kr_sha256": "c9ac0f07fc3af55348a2fc651f1090884ed487968aec1b81507859c2bcf96445",
+      "en_sha256": "ddb5e83259bc93e408a506eeb415b5dd5bbccbb1f15f04e253cdbb6a16306694",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1235].content": {
+      "pl": "Odporność na Kłucie -0,1",
+      "kr_sha256": "7b089d317bb4abb17f715bdec76f5a76a67999620ad63cd9eff048675658891b",
+      "en_sha256": "53e0118f0d2d661163adf9d37d1b993632294530f21c4b50f52c43d4c4a203b3",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_1236].content": {
+      "pl": "Odporność na Obuch -0,1",
+      "kr_sha256": "cbeb23f67f82caf3e8e32840adb17aabaa63edc731fe6a5e46a75753e0b69775",
+      "en_sha256": "80ea130c9996a5147dc6cd05350fdfb241db08c9bdb2e2668bd5752146cec127",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_123].content": {
+      "pl": "Otrzymywane obrażenia -3%",
+      "kr_sha256": "b1e7b2db2c37c005f50dc1ecc658e261d4e9fecc55b995660c6473b2c86e8d76",
+      "en_sha256": "99a474fb575325b140d0161bcabc9b0f9f9aaeee91299f95bfe12ac2322913c5",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_151].content": {
+      "pl": "Liczba wybieranych Darów E.G.O +1",
+      "kr_sha256": "be03144d041ab9ad228b7b026ad37a4b4d2447fb3e00ac273231e2775997001b",
+      "en_sha256": "fe3db1920e253d63eddde8df32a07868ebaebe705bc495e5f6d99dc31510287d",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_152].content": {
+      "pl": "Początkowy Koszt +250",
+      "kr_sha256": "ed296fd37f6094e05fdf3f2e1e1ecb0c053a521382dae4a51930bd210b026a38",
+      "en_sha256": "a98db78043297dbc135e29336deb7a7810ef400258697a9ea70487a544ed89a7",
+      "origin": "ai"
+    },
+    "dataList[id=md3_buffs_summaryDesc_153].content": {
+      "pl": "Po wyborze początkowego Daru E.G.O otrzymujesz dodatkowo losowy Dar E.G.O rangi 4 wybranej kategorii",
+      "kr_sha256": "2902dc1f6efed06fcca0a3ab8cc2f317674651f6c8c18eec457d8392dddf2b8d",
+      "en_sha256": "2a7f68634319aa3a4c16bf48d00e1bd29f34e88e1d6af40e5da837b13dda83cd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_10].content": {
+      "pl": "Nieustanny Szlif",
+      "kr_sha256": "42ba297142661e622d924a125dadf1ffe457134d28c03a484e1c27a8cffc7c91",
+      "en_sha256": "4d6f86da7b333b1e014ba61831c2c695f7071b8243e8964a54affe0ae88eb9f7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_11].content": {
+      "pl": "Waga Imienia",
+      "kr_sha256": "8413ea074c794799b94a55bdf90277f3fd90e6a84d2038a12a5c0ee930d08201",
+      "en_sha256": "11efb0b68cb31b43e7aeae7f14135b81db27261420e4ae217eeb879b3e96c170",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_12].content": {
+      "pl": "Sława i Czyny",
+      "kr_sha256": "d804f585948a66704ba639e2781b7712d391e0b232b17827cb24985808670a4c",
+      "en_sha256": "100ca4641de544e2126d063b4793918248ded37f89fe28a517b9cd31ffe5be16",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_13].content": {
+      "pl": "Prawa",
+      "kr_sha256": "357a3b70edbb6e831aa743e1f712a913ab4b067d9421b2708ec827580103e346",
+      "en_sha256": "2aeb052830593a0918e2467a4d0332106712e14050a654a397e64f424b579b2c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_14].content": {
+      "pl": "Triumfalny Powrót",
+      "kr_sha256": "e477631e434669ed1e6c569b28a97d5e85d9f0cc86f771dfc3a612b112123928",
+      "en_sha256": "8f62b618b59c7f65b6e739d2538ce1eb094cb47887d312a5c2e6fd4337bb9ffb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_15].content": {
+      "pl": "Cel",
+      "kr_sha256": "3182dd7d3d31e49a00b946d7651b21a13beed68948e0a1a40c2444718d98503c",
+      "en_sha256": "116cd3982a9bc435ecd50e5978b68f5f1d542c0ef071fdb598f06a9000dd33cb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_16].content": {
+      "pl": "Gotowość",
+      "kr_sha256": "6d220b9bdc48502f02f24c7a2ff04be0db9ee52cc6f2dc2724de5fb78b4e8445",
+      "en_sha256": "d53d98c1774966ba468529b735a17d59131becf86e929e1f143bc7f057a73a03",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_17].content": {
+      "pl": "Wola Parcia Naprzód",
+      "kr_sha256": "6a152046e3571a58cfca303f4a26d5e51b6285d7d70941b906c0719e1fdcf9eb",
+      "en_sha256": "f7123b36bd4c43950e31858b4ac3e457ef5daeb6ec99ca0a46a4142ae4de2728",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_18].content": {
+      "pl": "Trening Wytrzymałościowy",
+      "kr_sha256": "25bd9223071c7cc8163232dabd59d73e00ceee2490b3be58a5232aab0bf5f219",
+      "en_sha256": "4146f578f2a30a4501f93540776dfb6be4121ccdc96c0d114ff70f8e0a91cfcd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_1].content": {
+      "pl": "Początek Podróży",
+      "kr_sha256": "22d7b981b47c901bc937fecfeb9fed614467b732d6cf8b49633a3fd5d1701a71",
+      "en_sha256": "3a0fa6d0f54208295c857762267ed45b55fd1e39d22521cbfaf9c3c3771c1a9d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_2].content": {
+      "pl": "Chwytanie Okazji",
+      "kr_sha256": "2cad27303c63c7ee710a558518dbacb1a289b0dc8bee7feec7c6b92713e3f039",
+      "en_sha256": "38c70aaaeffc5c5ff68cabcb0c0c8c16cb7554204c12a31bfb26800a104bea47",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_3].content": {
+      "pl": "Przezorny Zawsze Ubezpieczony",
+      "kr_sha256": "25dd70560772c3b3a0bd9a0a71441185c22708f29b805f76171ffd01dc19acc7",
+      "en_sha256": "9e8c5fc1db1b152b4399cbfdc9689c90f85db098eb328dea2171ea14d2abdb0d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_4].content": {
+      "pl": "Owoce Pracy",
+      "kr_sha256": "f782700a82ecc62618a60343cb75a0a3e15602900bb30fecb8add9c8e9213992",
+      "en_sha256": "1bff7115ea554af21a81b81bb2d68635da440e24fbd715ff1f19212bf1bc70cb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_5].content": {
+      "pl": "Cenny Plon",
+      "kr_sha256": "2ed118accc6e8428d451a2ee256d2f7d458c98c9097ce1068b57603f030796c8",
+      "en_sha256": "3744ae7c5131dcbe0ffdd5ca647f0cea177affd07094aaac3e3d2380a4c88cb0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_6].content": {
+      "pl": "Nowe Odkrycie",
+      "kr_sha256": "d762d82aaf83f77f8b2a8992d27eec25c67da671d7007783dde291e5b88f9433",
+      "en_sha256": "220da9a0686815264f73f3d9cdf688e5aecba3ba3b4df7251efd6e075a365122",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_7].content": {
+      "pl": "Łupy Wojenne",
+      "kr_sha256": "b1b54c3f4c748bf61df9981008f016f2852840442c8e7d43d544a4fd8b9a98dc",
+      "en_sha256": "95ca27c01a22ddf9b26535105e506d48f3af2723ac60c474f716a4846fbabe89",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_8].content": {
+      "pl": "Im Więcej, Tym Lepiej",
+      "kr_sha256": "e32491f9267d3e8d5247ea7d3a935620765926f1b74e6fb67950a8d55d4cadf2",
+      "en_sha256": "10492ed624028ee4a0d646bf4a82680400973d1f0c661d220e7ae7c5c5b73ad3",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_3_buffs_title_9].content": {
+      "pl": "Ugruntowane Zaufanie",
+      "kr_sha256": "650ba6193898a00f7579b0954101e5304b3b6273b940628b32ba591d64a61960",
+      "en_sha256": "04188fd75ba084c80cd32851725992159a582ceb0607b9d92fbb643908ac9e59",
+      "origin": "ai"
+    },
     "dataList[id=mirror_dungeon_buffs_title_10].content": {
       "pl": "Zazębione Możliwości",
       "kr_sha256": "3bfcb277aa431debf58b5b2be5822c15d8ea6fce8b7bf91d47dd68be01a807b1",
@@ -390,10 +1026,28 @@
       "en_sha256": "24cd20d760c41326ff41f35eb90fb8f93215e5ef139ff41230136293be8100ca",
       "origin": "ai"
     },
+    "dataList[id=mirror_dungeon_hard_require_condition_ego_gacksung].content": {
+      "pl": "- Splot Nici E.G.O poz. 3",
+      "kr_sha256": "2f5a86c8945f19e97c072d9187be7e10186ee81fd88e425664b8d9c253fc7d7a",
+      "en_sha256": "191c245c24971d6b3377e2626ca8946923f53995c15afc53561b1d52d5d000bc",
+      "origin": "ai"
+    },
     "dataList[id=mirror_dungeon_hard_require_condition_level].content": {
       "pl": "- Poziom Tożsamości: 45",
       "kr_sha256": "0f382a46b293246e407f049e8d0da715995880c7fc9d0cd1b8f82f967f00c9e6",
       "en_sha256": "30a47190317d885dde3c47cdbd5ddc119c050512a4695a4bc4e8757571f44207",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hard_require_condition_personality_gacksung].content": {
+      "pl": "- Synchronizacja Tożsamości poz. 3",
+      "kr_sha256": "a052ed95ab701c8205e366e5ea5a4a86bc164b6a2f40c11c926c42409542cf03",
+      "en_sha256": "facd725513312737e99c533a2de2fe67fc31f66ffe4beae77d9be457e87dd168",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hard_require_condition_start_buf].content": {
+      "pl": "- Wszystkie wzmocnienia początkowe aktywne",
+      "kr_sha256": "cdcdeed8b94392aa561fc0b5267f7a17ff3598afda52d45fbbda425599d39c3a",
+      "en_sha256": "610b5ad61883cf2ec2ca1e22cbb5053a95c9eb6289ded8dad643a5b25087172f",
       "origin": "ai"
     },
     "dataList[id=mirror_dungeon_hard_require_condition_title].content": {
@@ -474,16 +1128,70 @@
       "en_sha256": "00166e6f0d2fa47753ecc4befcc6abdccf96606a55bf23b1de4cc60daf236827",
       "origin": "ai"
     },
+    "dataList[id=mirrordungeon_acquire_rewards_no_hard_chance_no_chance_desc].content": {
+      "pl": "Odebrać nagrody?",
+      "kr_sha256": "2f6a236c709662d55d2056d4fc440dd9bcfad9fcd602ed56e655385308939569",
+      "en_sha256": "00166e6f0d2fa47753ecc4befcc6abdccf96606a55bf23b1de4cc60daf236827",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_no_hard_chance_not_using_chance_desc].content": {
+      "pl": "Masz dostępne <color=#a16a3b>Cotygodniowe Premie</color>.\n\nOdebrać nagrody bez ich zużywania?",
+      "kr_sha256": "06d897e8fb6454166f0988644f64c0e68d2e23630e7a7d7c339838398b29cebd",
+      "en_sha256": "0e61d4591f5229401377a179743d2f429564e544b815cff786909ad6bc31d83b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_no_hard_chance_using_chance_desc].content": {
+      "pl": "Zużyć <color=#a16a3b>Cotygodniową Premię</color>, aby odebrać nagrody?",
+      "kr_sha256": "265a42563c4c6557c958e2993cce98c364ea3560a2a0d0512a18695fdb4f2d8d",
+      "en_sha256": "2dcc3876fe370827abf21e215296906154ff9e8c97c4064d75d94cf6163185f5",
+      "origin": "ai"
+    },
     "dataList[id=mirrordungeon_acquire_rewards_not_using_chance_desc].content": {
       "pl": "Masz niewykorzystaną szansę na 「Cotygodniową Premię」. Czy na pewno chcesz odebrać nagrody bez jej użycia?",
       "kr_sha256": "fbfda2b3ed867b3f1c774c0a292fb0aeeea3a0aebb645769de4d4fca969b9074",
       "en_sha256": "9bdf7fe8667dc842d0240ac5bb9e162a1278ea8f1e7c30fb188099907c64ebe6",
       "origin": "ai"
     },
+    "dataList[id=mirrordungeon_acquire_rewards_not_using_hard_chance_no_chance_desc].content": {
+      "pl": "Masz dostępne <color=#ff0000>Nagrody poz. Trudnego</color>.\n\nOdebrać nagrody bez ich zużywania?",
+      "kr_sha256": "f05a1856775f0c8b4d419d4fccec2afa72ae8551db30656b76e3cfeb31649912",
+      "en_sha256": "94a575c6ee323721aefb4c28de159f3dbcb806a929507d74ae8a6a76f48c8428",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_not_using_hard_chance_not_using_chance_desc].content": {
+      "pl": "Masz dostępne <color=#a16a3b>Cotygodniowe Premie</color> oraz <color=#ff0000>Nagrody poz. Trudnego</color>.\n\nOdebrać nagrody bez ich zużywania?",
+      "kr_sha256": "aa46b7ff7682dff18703a3994a102f7b1395165d44495bab6ca00113ac4adc04",
+      "en_sha256": "3b858cffc079606d21dbea6d810dbb5380202caf32082d8eaf3fa91b6a9c2d98",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_not_using_hard_chance_using_chance_desc].content": {
+      "pl": "Masz dostępne <color=#ff0000>Nagrody poz. Trudnego</color>.\n\nZużyć wyłącznie <color=#a16a3b>Cotygodniową Premię</color>, by odebrać nagrody?",
+      "kr_sha256": "ae11ee1bea45af9c95b162c8f570ebd5840e8da908a022921796f79aeb03a61a",
+      "en_sha256": "c796aa3b06946133932e015fcb641499486d7ccb8aaf4fd430733ec1a30d955e",
+      "origin": "ai"
+    },
     "dataList[id=mirrordungeon_acquire_rewards_using_chance_desc].content": {
       "pl": "Zużyć szansę na 「Cotygodniową Premię」, aby odebrać dodatkowe nagrody?",
       "kr_sha256": "3c57cd89b7d124f5c8efef128d68643e96f95036f99fae9945ef6f356a20d552",
       "en_sha256": "9e2caa513d16628097f4c4346a293ecc34e01514e58ed36ef8423b3c58b03d54",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_using_hard_no_chance_desc].content": {
+      "pl": "Zużyć <color=#ff0000>Nagrody poz. Trudnego</color>, aby odebrać nagrody?",
+      "kr_sha256": "6ce0baa48c2b2ff45dd47a0646a310c56345bab001bd51622540a9d6fcedabd3",
+      "en_sha256": "1ae461e260f8cac7f2d4f16b881710a76f7a7631c7618779336996ed835d15d8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_using_hard_not_using_chance_desc].content": {
+      "pl": "Masz dostępne <color=#a16a3b>Cotygodniowe Premie</color>.\n\nZużyć wyłącznie <color=#ff0000>Nagrody poz. Trudnego</color>, by odebrać nagrody?",
+      "kr_sha256": "5842ca0de612e649f802f644ff112248f5d0cfaea703586f3b5f60a99f3ed2b6",
+      "en_sha256": "b018851e1d4e6b90ce5e41192060d994eb8632fffdf450daf5a2498146e41303",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_using_hard_using_chance_desc].content": {
+      "pl": "Zużyć wszystkie pozostałe <color=#a16a3b>Cotygodniowe Premie</color> oraz <color=#ff0000>Nagrody poz. Trudnego</color>, by odebrać nagrody?",
+      "kr_sha256": "9b2effecfc1bc03efae518a027c7753e9dbd10d26753b204f19baffaffea84e5",
+      "en_sha256": "86143d411bc78bb8792604043b3203a0f0c645a788b71c7182785b855ce711c1",
       "origin": "ai"
     },
     "dataList[id=mirrordungeon_change_formation_confirm_exact_participants].content": {
@@ -508,6 +1216,12 @@
       "pl": "Opuścić Sklep?",
       "kr_sha256": "ed3468a8db556c037d3806bfd941df4e0ed905a282d758ec3b7d2b8444e603ff",
       "en_sha256": "a999b42437c1f4997a1f2a098350729ae65296e3553ef22220dab848aaa3a646",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_hard_no_reward_desc].content": {
+      "pl": "<color=#ff0000>Nagrody za tę zawartość zostały już odebrane.</color>",
+      "kr_sha256": "a28fbf0c831c4ed41ac65eac38cf08de668ec018a53c2f7f2fd24a8a3080810c",
+      "en_sha256": "38a7b0008349d97bc9bf32c90948000c8b9b82522fc035d1749f79eb7757a16a",
       "origin": "ai"
     },
     "dataList[id=mirrordungeon_product_list].content": {
