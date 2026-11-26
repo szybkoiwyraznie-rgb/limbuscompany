@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[id=mirrordungeon_name_1].content": {
+      "pl": "Lustro Początku",
+      "kr_sha256": "343a5a43c360b2b177d792fc46d0249298fa343d244932bca6deb2aeacb919b4",
+      "en_sha256": "8ebaa76589110a75aabc5b75962ba02bc5f1fe3a76e73b1788573fe6a153b1f8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_1_0].content": {
+      "pl": "Lustro Początku",
+      "kr_sha256": "343a5a43c360b2b177d792fc46d0249298fa343d244932bca6deb2aeacb919b4",
+      "en_sha256": "8ebaa76589110a75aabc5b75962ba02bc5f1fe3a76e73b1788573fe6a153b1f8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_2].content": {
+      "pl": "Lustro Luster",
+      "kr_sha256": "8f26358990bcbd6fe18b6f3a7c83f4660335ef9301bf058f7bb3f054c4850b4e",
+      "en_sha256": "dc7208e366d5f0bfb2eab74e43a4d0e546818a4394ae559dbde95f236b11570c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_2_0].content": {
+      "pl": "Lustro Luster — Normalny",
+      "kr_sha256": "9ec88a44415a0f80b042b00f8769575857b8f66474f64dcb1030cf68b337d402",
+      "en_sha256": "67de9831d40f445b30c133c0d56889a7ae7ffe8d6b9bf8eb929bad5265084b7c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_2_1].content": {
+      "pl": "Lustro Luster — Trudny",
+      "kr_sha256": "f2d1cbb3177215e3b4ebe9ead66b089b3f910a7d27eb37879f59626c73b8299a",
+      "en_sha256": "486caa8f2617b541600666467c02a8bb21e818c5a4bc20b89c328351cf253896",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_3].content": {
+      "pl": "Lustro Jeziora",
+      "kr_sha256": "cea403ac39bc8a9c9d42f9114af3ef80dcb35f9931475bb64f2b60b7efaf11c9",
+      "en_sha256": "5c0df1fa6d5278aa974ab0d68ed599167e9e743e4fa6d93be6540dcc61312603",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_3_0].content": {
+      "pl": "Lustro Jeziora — Normalny",
+      "kr_sha256": "90d012e0380ba21b99ef8cdfb3b9b1bb048708c8c8cfa7eb4c95c2c7f1c07adb",
+      "en_sha256": "8c2e7216b8a2bb86d68345039d098dc5857f1fc21138fdca4b12d39e2979d5c9",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_3_1].content": {
+      "pl": "Lustro Jeziora — Trudny",
+      "kr_sha256": "3da76ae0754e59e713899f4ce1cf7bced43fe71d37f295358bc03a24a5b25d8d",
+      "en_sha256": "1bea8c6aef8ff14cba925a5edaa66e3b850aadf2906a77755a36e2a287421e81",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_4].content": {
+      "pl": "Lustro Wichury",
+      "kr_sha256": "7c55bc82611caf664ca7363be85a7be33c6052f5770a42f9100f83fc65d9d945",
+      "en_sha256": "65b697c50d98bff674c8f2df7934c977fef2e0575e8cd5529667c48158cfa076",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_4_0].content": {
+      "pl": "Lustro Wichury — Symulacja",
+      "kr_sha256": "5fab1413b6e4cf40536cd73aff4fb4893c51702cb9a04ed2c4c0c8c3f30bc47b",
+      "en_sha256": "9a399ecec74a45f1cb0a6bb2cf59dc9cb04eeb45ee9ecd65cbb33e8ec4d839ec",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_4_1].content": {
+      "pl": "Lustro Wichury — Ritornello",
+      "kr_sha256": "c029120d4fc1668e86021743834815e960ca9246f0128414ec768a13ca7e6230",
+      "en_sha256": "7c6696ca7a5a632435a9ca2413667071508b606c09048194910ee1ae07880c7c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_5].content": {
+      "pl": "Lustro Snu",
+      "kr_sha256": "23841b903a6e37ddecc9269623a6044c5ebae2a9034e4191c7b91bbfc0c592e2",
+      "en_sha256": "a2a411ee7cc6e6a8347eacfc07684e4213586ef3189ac41a32ac9beea4699098",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_5_0].content": {
+      "pl": "Lustro Snu [NORMAL]",
+      "kr_sha256": "9b86d7fcc44ddac5cbdd345b8bad4a124d79ce57bf50a9c2a9cbdd6bdd96a66e",
+      "en_sha256": "7bdf69203573868861fd1c17c70a76749bab42c117dd78096a3e9c1ec67337cf",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_5_1].content": {
+      "pl": "Lustro Snu [HARD]",
+      "kr_sha256": "6641017c81b47d293d720bea2d0bc7a511178c53d9551ea66c220ed72b74d246",
+      "en_sha256": "bd8be54fc33611023e60db497e5dceb86aa550e544d7b0b408bd0a8a511134e2",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_6].content": {
+      "pl": "Lustro Nieśmiertelności",
+      "kr_sha256": "479b2ea3bb7da80fddbedda0045db9f20294ae7b4f1c888b7cf341903dbaaa20",
+      "en_sha256": "8270e79913dcea6855338550c3bc6503c0cd99d1fe1afbfd940da355e49e8b23",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_6_0].content": {
+      "pl": "Lustro Nieśmiertelności [NORMAL]",
+      "kr_sha256": "2523a32b850a97136d1976312b3d7cc7dc39b324ed6f77f9cf304c1211b00462",
+      "en_sha256": "fabd215c1530437c8bf8b2b7f998ed9c2968c89388d4f5571492e4f54b2645c4",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_6_1].content": {
+      "pl": "Lustro Nieśmiertelności [HARD]",
+      "kr_sha256": "4d62dda381f00cd448e35dd427f345cc6705405ef1f208948ecca6dd4734355f",
+      "en_sha256": "6ed12b1d642cd665ea0818d269228d9557dc2dd29fb498f9e5d3e36fc8e0ddea",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_7].content": {
+      "pl": "Lustro Imion i Pająków",
+      "kr_sha256": "21c9000737d523250c0168afba3223acd9a3a161dcf4f3d435bb9f73d818d230",
+      "en_sha256": "935989bbd0d43c5637ab81520a515aff5712d100b358e6c799bd1b26e23bbd7b",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_7_0].content": {
+      "pl": "Lustro Imion i Pająków [NORMAL]",
+      "kr_sha256": "df6649f710d66d0d943e2146c2f8527fbeec815f5fd73ebd63d62c3fc8fff4c8",
+      "en_sha256": "ee46182b87cb26d85c8e7e7a7aa210f0bf4c35bef6cb8433203a6e0bd4e18154",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_7_1].content": {
+      "pl": "Lustro Imion i Pająków [HARD]",
+      "kr_sha256": "c3b91d3fcda82fa191cf89005bb99cc50e4b9a4aef1633f562e3a3d5e3fe048e",
+      "en_sha256": "5925bc519e5b2d98859f6a05c8f36ac6ed90aa2072510e3bee6bde9ac1fbe849",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_8].content": {
+      "pl": "Lustro Sisyphe",
+      "kr_sha256": "97bd6ae71a4aee334963801ea7f019aab58d71dfa165ceabfa084d2c1539ac7a",
+      "en_sha256": "6f86282d4b43518a916e199fee8fd56fda112b27bdacc6e8ffcc9a106320254c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_8_0].content": {
+      "pl": "Lustro Sisyphe [NORMAL]",
+      "kr_sha256": "b15516ee5af3194482a22eb9a76d656275b082854936a914612fc0498a30549e",
+      "en_sha256": "3dc2ddcd4f926418d78054c8116ddebe779ff0b29b5c4cd813fa4c2c2ac7b283",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_name_8_1].content": {
+      "pl": "Lustro Sisyphe [HARD]",
+      "kr_sha256": "6d1a3d0d1cf8f4dcb60434407ba74172b0a7b1b59394a613fe9aa217f3c2ae61",
+      "en_sha256": "479b4ee0eff31e4f8b366d6c7747a5d35a4780ac93c2b40bea491cfaf846b8d9",
+      "origin": "ai"
+    }
+  }
+}

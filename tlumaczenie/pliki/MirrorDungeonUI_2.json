@@ -1,0 +1,694 @@
+{
+  "entries": {
+    "dataList[id=acquire_additional_rewards].content": {
+      "pl": "Odbierz dodatkowe nagrody",
+      "kr_sha256": "22b2c93dea51b67a1b795084abbe2a68638247f8ca3b2f08efe33acb806ab8d1",
+      "en_sha256": "8a7410631d831682dc93f9a4f1e4637ea6389d3301e6ab22c7768ed356eb2f02",
+      "origin": "ai"
+    },
+    "dataList[id=activation_complete].content": {
+      "pl": "Aktywowano",
+      "kr_sha256": "4cf6655baa0006b329cb7cc65ce0c1b68eb71aefe5d6ade393127544316939ba",
+      "en_sha256": "7e7b3a01539b5dd82108fe0dc455a76294708bb782f8f7590b06f0975fdf93c1",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_mirror_select_event].content": {
+      "pl": "Przystanek Odpoczynku",
+      "kr_sha256": "17b098e4bc6766315d0f1acbc171c5037eb6280a8f7cdf6027b97ff8d6f27825",
+      "en_sha256": "2d67fb643d4cab3d09977185565efbaa7ac79d7080f28cccc723b74c1f61027e",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_encounter_guide_mirror_shop].content": {
+      "pl": "Sklep",
+      "kr_sha256": "de9d31548e094efd2662817e016df5b801698752a92f7dff333280378a7584a9",
+      "en_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_explore_floor].content": {
+      "pl": "Eksploracja {0}. piętra",
+      "kr_sha256": "e2afb448b9bf662fa2c51f1a13598e704fcc29136fc0a6f574e8bdcb0b3e1e2d",
+      "en_sha256": "5a7266ac72d395a31d34d09ce7ca35bfa837075dec9674d2d62da89473e49346",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_resting_change_formation_desc].content": {
+      "pl": "Dodaj nową Tożsamość lub E.G.O do bieżącego składu",
+      "kr_sha256": "aa19997d73ef159f10bbbd6be1282b71db0ec72bd9dfdf5d615f5586693922f6",
+      "en_sha256": "8a5b51159d2cbd3d354af8c550fcd87d6dba65d44b89209e8dfcbbd6adb814da",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_resting_change_formation_title].content": {
+      "pl": "Podnieś odłamek lustra spomiędzy okruchów.",
+      "kr_sha256": "3420939c5044b56776fd9555211d51e4e147c9558a3bd1b31a2b04a0cef06ccf",
+      "en_sha256": "e0c8f28cd15d452dccd79b661ed578a0fc36eb2879624bc2aafa08c65d89fd11",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_resting_heal_title_all].content": {
+      "pl": "Wszyscy Grzesznicy przysiadają na krzesłach, by odpocząć.",
+      "kr_sha256": "7d5142463f9fc6970cf636948be53b244297e1f465d04c292b9014c2bbe67ead",
+      "en_sha256": "6e59caa7baf2677e7d65284b31ec51102781dd0d79f4df5c79c91ccb0da5285f",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_resting_heal_title_one].content": {
+      "pl": "Połóż na krześle najbardziej wyczerpanego Grzesznika.",
+      "kr_sha256": "21c53d08f4e8771a53ed35571a9ecad5c9c44935fa373ec5fa5d278eab1c4e57",
+      "en_sha256": "b970abed982a2a12c59c73eefc3005c45947a4fc05fcd77d1dd4ba2cab1278d9",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_change_formation].content": {
+      "pl": "Skład",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "5985039f106df054b43c3529139613bf7c2372937539f344c7c5ee47d00a0d63",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_change_formation_desc].content": {
+      "pl": "Dodaj nową Tożsamość lub E.G.O do bieżącego składu",
+      "kr_sha256": "aa19997d73ef159f10bbbd6be1282b71db0ec72bd9dfdf5d615f5586693922f6",
+      "en_sha256": "8a5b51159d2cbd3d354af8c550fcd87d6dba65d44b89209e8dfcbbd6adb814da",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_change_formation_title].content": {
+      "pl": "Podnieś odłamek lustra spomiędzy okruchów.",
+      "kr_sha256": "3420939c5044b56776fd9555211d51e4e147c9558a3bd1b31a2b04a0cef06ccf",
+      "en_sha256": "e0c8f28cd15d452dccd79b661ed578a0fc36eb2879624bc2aafa08c65d89fd11",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_character].content": {
+      "pl": "Ulecz Grzesznika",
+      "kr_sha256": "742fa6096d2ee5ebf7dfffa6c18e5c9934fe127ca7faba9b8a5b1a32f981e524",
+      "en_sha256": "c7867f3929ae6652178d37ce75ef95c0ee8ee17d53f075cc3036092a8a960880",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_desc_all_hp_perc_mp_int].content": {
+      "pl": "Wszyscy Grzesznicy odzyskują {0}% PŻ i {1} SP",
+      "kr_sha256": "e9f1271f451bd815eb3b9a16d411e19c32d0fb5b650ee5bb8c146fff00185f00",
+      "en_sha256": "5cf056f82b73a4ea095b00b370e4d9c587ef9ae0b04251c463ac010924bcdcd4",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_desc_one_hp_perc_mp_int].content": {
+      "pl": "Wybrany Grzesznik odzyskuje {0}% PŻ i {1} SP",
+      "kr_sha256": "18011f7186581521efd37706e5069be427aa5639ef3896990d3e05c1a56ff168",
+      "en_sha256": "54578b7b8bd1bb720a499cedf4e4cdc1444fa4b851ff59fc2d4b023505dc6e7f",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_title_all].content": {
+      "pl": "Wybierz napoje energetyczne.",
+      "kr_sha256": "88a3bdfd49ba0f599576cb63e4c4da03eb895b56f9e0a366af32c40c7b9d8a1e",
+      "en_sha256": "05584ac910def381ca6ef40a40993cc73611cc280f8a0aac54c3b0b5b8ce99f6",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_heal_title_one].content": {
+      "pl": "Wybierz drogi tonik wzmacniający.",
+      "kr_sha256": "0b1e0f66a986e69885e6354f4d297bcc7931b4616f80fa069b375190e853f960",
+      "en_sha256": "1890238d87c577351acb0208538b1fe9317063633f615630077d924229cabe79",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_out].content": {
+      "pl": "Wyjdź",
+      "kr_sha256": "22bfa6072aee5d1ee030ad3fc8df0389725a657c94c339bcad830380920860ec",
+      "en_sha256": "fc6e4a408d56be9670c14ee7be21e1a39c93c2df82f7c95975485e90ca6371c3",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_purchase_title].content": {
+      "pl": "Kup.",
+      "kr_sha256": "e96a8d7cf44e888718aa6e7fea7c50c560c77e37285b931a5bdc5aa2048e3f9b",
+      "en_sha256": "08da5755a1c3ae9888399287369dca45c13d7fab938c6972806747152c49fbdb",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_return_desc].content": {
+      "pl": "Wróć do Sklepu",
+      "kr_sha256": "9d98cf949eb5f673dfb24041f824afde8b6e80540f3e7dd183b8c9c38781c16a",
+      "en_sha256": "afa1b89d5f12fe0b7a90830104a5654241059c975adda89786134944b3807b68",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_return_title].content": {
+      "pl": "Nie kupuj.",
+      "kr_sha256": "535b896f79a9091a348963b65f7bab609447ac2b2967aed10df6988184602442",
+      "en_sha256": "e65703687d1276e80ac2b0b60bc78d1ab3b6b060003f70195c36b89657e1f1d2",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_upgrade_personality].content": {
+      "pl": "Wymień umiejętność: {0}",
+      "kr_sha256": "a483ca0a2e9e7260d1132928c5d0e50bfcf52a67911962af5135c92f42249057",
+      "en_sha256": "0deec4702ac2fa922ee8e8079b9bf3f7bf5a6b00e448f9ac2a3eeaea77a21ab1",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_upgrade_personality_0_title].content": {
+      "pl": "Zapłać umiarkowaną cenę.",
+      "kr_sha256": "d16c2a2bb2fb9a8db4200fc7a1f3dbc2c061f78cbac0e23c2dbe368f6605bd8c",
+      "en_sha256": "d011ff0c74cd0739e4099242503037ee45a7aea79fe801820a29206d80b40a38",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_upgrade_personality_1_title].content": {
+      "pl": "Zapłać wysoką cenę.",
+      "kr_sha256": "99e54894fdaf2823feddd23d955335b2aeb0be3c4a361491892b9b6da2831204",
+      "en_sha256": "1354e56ab0c9a1de8348bf1e585a3236df79c5705007514888403bba80b612ca",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_upgrade_personality_2_title].content": {
+      "pl": "Zapłać astronomiczną cenę.",
+      "kr_sha256": "5a1235fdf1dd609097f0c31cdd39a0e34468a9d5c35d3ea6a88523d4084eb628",
+      "en_sha256": "8cf88c1423e0cdd4436206179441d9e32dcb2a905d9bfc7dd268f591c7ba0e73",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_shop_upgrade_personality_desc].content": {
+      "pl": "Zmień jedną z posiadanych przez Tożsamość [umiejętności {2} — {0}] na [umiejętność {3} — {1}]",
+      "kr_sha256": "a6e7475a7f7b617fddbcc90aa298a0c02b385a5992a016b7f2bf833915e12732",
+      "en_sha256": "7a49ebe27dfbcebdc7563e678ea5778d1894c168bb4165f6696409fa2e264f3b",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_info].content": {
+      "pl": "Informacje o Darze E.G.O",
+      "kr_sha256": "d5a9a0278f8957a9e77dee60b130243a8d3db648d19381bbcfce704a26c4ddce",
+      "en_sha256": "ff4cb3c0b6dbaa1bee10455ee5461f61d932d6aa8bdfef1964bd2e625cc9b8e2",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gift_list].content": {
+      "pl": "Posiadane Dary E.G.O",
+      "kr_sha256": "3b6da70991d9a6abb061f8efa0bcb760a73cdfdd49685156a526fd0c1c38b351",
+      "en_sha256": "d41715f0374e06b8783b08b0162e3371acd7ff3dd1bac5b89fd409a2b4783b03",
+      "origin": "ai"
+    },
+    "dataList[id=enter_hard_difficulty].content": {
+      "pl": "Wejdź (Trudny)",
+      "kr_sha256": "211473890032a94848ec8608575a2e24136e3720e69939678ae9717667d34e64",
+      "en_sha256": "874f8ce15682ad863f87e95b855983bcd76f83aa89c2bda107fa313c73a0416f",
+      "origin": "ai"
+    },
+    "dataList[id=enter_normal_difficulty].content": {
+      "pl": "Wejdź (Normalny)",
+      "kr_sha256": "9b34e4e545b0cace9c94f4245ba2b011ef499a3396210ed0306d0ee3167eb5e9",
+      "en_sha256": "a914e73114a1dd2cef0e2b08e19a90ac394f90a1d2a7cbfe0ccdff203b0c8b1c",
+      "origin": "ai"
+    },
+    "dataList[id=give_up_rewards].content": {
+      "pl": "Zrezygnuj z nagród",
+      "kr_sha256": "3365ef460d761280090b362d9ea86c0a50760fbbc2e63026e9d8ab00f228be52",
+      "en_sha256": "cb685486f4c5daa512ac3a3b28636d1c15cc822a0d99c6fd51e18057b817455d",
+      "origin": "ai"
+    },
+    "dataList[id=hard_difficulty].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=hard_difficulty_en].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=hard_dungeon_reward].content": {
+      "pl": "Nagrody poz. Trudnego",
+      "kr_sha256": "9db0ac4036939e66a372c9139ecd9be6e0f105bea9cb7c55aa803afd2ab7d1b5",
+      "en_sha256": "1c01974508c0d8f8313e99bd8dd312983e91163b6db6717a82ded3b96998422c",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_point_for_shop].content": {
+      "pl": "Za mało Kosztu",
+      "kr_sha256": "df83f721fe154bab2113552607b85fdca669228e9183b767ed6176bdca1c1a96",
+      "en_sha256": "e89d7365cfd05551f1bbe40372a65b580687cc5c45cd0adb00ddcdfbd6e9d71f",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_points].content": {
+      "pl": "Za mało Gwiezdnego Blasku.",
+      "kr_sha256": "3611d11f62664206e2b5b1a3efba60ecb0c85b355cf52049e9020b18cc34479c",
+      "en_sha256": "fba38baec316accdfef0e140949964389fbd31d9273899a3e3c97e5c063c80c9",
+      "origin": "ai"
+    },
+    "dataList[id=list_of_applied_effects].content": {
+      "pl": "Aktywne efekty",
+      "kr_sha256": "95cf6e3630a46e97637b22bcb77e9c1fa73d5a4cbf5338453d0463c0def32d7d",
+      "en_sha256": "d01db4d8cfb04929e24ca8bc61708e46690e27d9fe86c067222725e0e826f272",
+      "origin": "ai"
+    },
+    "dataList[id=list_of_applied_effects_is_empty].content": {
+      "pl": "Brak aktywnych efektów.",
+      "kr_sha256": "c48d32d53e7dab72a6a7d99ecdfd5d098d464565878be06b6a13a30760fbadd5",
+      "en_sha256": "8919e914db9e706d9e38371925f24d9387583c1380e78e82289683748340a26c",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_10].content": {
+      "pl": "Zazębione Możliwości",
+      "kr_sha256": "3bfcb277aa431debf58b5b2be5822c15d8ea6fce8b7bf91d47dd68be01a807b1",
+      "en_sha256": "e4908ea851cdf1ae10b169a5fbb361e2d7295c5dadda2656f24f17b5021f8da1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_11].content": {
+      "pl": "Tylko Jedna Kieszeń",
+      "kr_sha256": "cb93b2919eed9acfc45197191df7041f1b19bb33bd8d885759841142a69527ed",
+      "en_sha256": "45871d561afdfa1e481bf981045a1b7d9359f47b6085cd47c34933ceba555650",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_12].content": {
+      "pl": "Jeden Krok Dalej",
+      "kr_sha256": "948b4ca7bd32ebf1a0b50bf8096e27a6555179b943294dc4cbab14f07ace335e",
+      "en_sha256": "434f30652ae48fd212d2f46b4ad82930a295fe8ccd18682783aad841044dd639",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_13].content": {
+      "pl": "Szczęśliwe Znalezisko",
+      "kr_sha256": "cd10acd259fd7e99cf38f97660d32d20bd820d9039e08ecf9e42a884b2103d03",
+      "en_sha256": "28ba72d6fe3067aad1f1f4534d335feb6946a6a2d98c88cf6f40d3c2f163fccf",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_14].content": {
+      "pl": "Wyróżniająca się Kieszeń",
+      "kr_sha256": "6adc7eed20d44bd09e27d2d5aa958a21e0084fd80dddf86c4e824c89ff239878",
+      "en_sha256": "3728e45c017361abb4e479bf6ebed1aab2f412bd61a37af199f3f458a44ede7a",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_15].content": {
+      "pl": "Solidna Obrona",
+      "kr_sha256": "6bb049ed54f5c79428a6fb70a9f3360c827b917cb2c736d467af4888f4afe7c6",
+      "en_sha256": "4be9d8d528d70e3b36032612eb52b10bb50c4c5e726eaebb20fd35aaa4a2635d",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_16].content": {
+      "pl": "Zwinne Nogi",
+      "kr_sha256": "a22835b97205b4ebcfa94a677feafe570b310b8e0d05d03d385139176433ac1c",
+      "en_sha256": "8428ccc911e6a842a0875064e1c07944e8897f96a7752684597c04fe1d6c50bb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_17].content": {
+      "pl": "Chyżonogi",
+      "kr_sha256": "1831ea761eabd6a1d0d2be2bc11218e0eb8b5a4a19e1bfa81e0823efdd07e351",
+      "en_sha256": "0f7cd8d0aaac2861fad4b585d1fd2dc1652fc78d0dd2e6c5cc309b630cd5563f",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_18].content": {
+      "pl": "Draśnięcie",
+      "kr_sha256": "03637f4b118c4997b940498056537b814761bfa06a7e7c82202556f32daee2ce",
+      "en_sha256": "cf58a0cd3d8ca981604a770e76bcb3efaaff82abbe2773e89d78aa35733fdff6",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_19].content": {
+      "pl": "Niezłomny Duch",
+      "kr_sha256": "396afe3ae1204a171488e5fc90efed40ef8bfef37eec411deb9d086921561419",
+      "en_sha256": "036aaf4d765515b7cdf7e4839e93f9e1c3c9465cb5f5a55d75fe04c4f16aeea1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_1].content": {
+      "pl": "Pół Kroku Dalej",
+      "kr_sha256": "346de5066626404841e7a48718223d9874c1d4fad7c1668b32d9e8a4f08c0eb4",
+      "en_sha256": "9b9c40d114a7c96390c6e437938cf17e8747db715bd8341235589ab0494f44b5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_2].content": {
+      "pl": "Duch Walki",
+      "kr_sha256": "c06cc9e8a933514dbcde9500e7168882353d9ac47559d31e0a650ba432857472",
+      "en_sha256": "44dd9246edee7e23facea9ace1e149d9cbcca4e9436cb8931235802c20aef7ac",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_3].content": {
+      "pl": "Wypatrzenie Słabości",
+      "kr_sha256": "111e22910224249de1e26fc674ac61c51bdabe50a77e2115f58d1131a9320b7b",
+      "en_sha256": "e7205de1d4cee023629d4d2c60ba79c1db5185df3300dc33ab4f543b655541a7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_4].content": {
+      "pl": "Wola Parcia Naprzód",
+      "kr_sha256": "6a152046e3571a58cfca303f4a26d5e51b6285d7d70941b906c0719e1fdcf9eb",
+      "en_sha256": "f7123b36bd4c43950e31858b4ac3e457ef5daeb6ec99ca0a46a4142ae4de2728",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_5].content": {
+      "pl": "Skupienie na Słabościach",
+      "kr_sha256": "183dd80cca168b6418c05a5d889f4d9e94718f9c711f898323ca291e7cc54e77",
+      "en_sha256": "4c8dc02037cbd69ea76ec1f3c9270f3a338bafe801d6cf9b4536c7dfe0e19a55",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_6].content": {
+      "pl": "Trening Wytrzymałościowy",
+      "kr_sha256": "25bd9223071c7cc8163232dabd59d73e00ceee2490b3be58a5232aab0bf5f219",
+      "en_sha256": "4146f578f2a30a4501f93540776dfb6be4121ccdc96c0d114ff70f8e0a91cfcd",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_7].content": {
+      "pl": "Przebłysk Żarliwości",
+      "kr_sha256": "17c6c948c55953afae57f9f5c55d389ddf7888ccd549791902b20d0c7a1b9078",
+      "en_sha256": "5acc107b2105ddc8878e7d51111b34b6723bc8fcbc6e704ba256783e389c4bc7",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_8].content": {
+      "pl": "Intensywny Trening Wytrzymałościowy",
+      "kr_sha256": "f1c04e4a68c33969b904a67e45b33dba0fa9b71a7a865e6294925a584e9d26bb",
+      "en_sha256": "43702f4485b815ec0ee0ee31fc4622d4c7315d3b323419b934b5c5711ff9fea4",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_buffs_title_9].content": {
+      "pl": "Samoregeneracja",
+      "kr_sha256": "6e3f6ca031aae231ee323cdc5e739d93520d0d596ce02ebe02b7bdac9936dfd6",
+      "en_sha256": "4038ae1d1273a1cd3ae2d56bc2096d89eea28029eda3a4dbbb6a66ac6058247b",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_challenge_mode].content": {
+      "pl": "Tryb Wyzwania",
+      "kr_sha256": "5954dc486782657649a3656650b6e8e1ef6acd5d1bab911ecbb62146405f4c0e",
+      "en_sha256": "e88c57d72cc63b3e1a0d40ea08a233e66d0a59a627bdc2af58021c6cfb49cfe0",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_challenge_mode_ask].content": {
+      "pl": "Włączyć Tryb Wyzwania?",
+      "kr_sha256": "0caf6bce65a3caf486e2aa5fb379c65527ce21d14a33b34e6177c15053754e80",
+      "en_sha256": "fa757222a2a5a906aa39a2dd0063b513af05a955c81f83c5ea6d68e8be03c0a6",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_challenge_mode_description].content": {
+      "pl": "Po włączeniu Trybu Wyzwania skład drużyny zostanie wylosowany.\nWylosowany skład nie zmieni się aż do odebrania nim nagród za wyprawę.\nUkończenie w Trybie Wyzwania zwiększa nagrody.",
+      "kr_sha256": "ac817a8be1776ea47e9a23afd9a94c37272d2a0b668c4d3c736914e970fd55d0",
+      "en_sha256": "2a2f9b2e711aeb5d9c9139c7fa9d87087415ab7dfb0e1b7263feea96632d23f5",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_change_formation_release_character].content": {
+      "pl": "Odznacz wszystko",
+      "kr_sha256": "1aa378fa02066c93a6a3bce7be96e58c35ff2c6ea3c86e7bf82003e8d91b69c5",
+      "en_sha256": "c6a6897dfb6451aab734253ef15bd8d22187908ed46a524142e82ea6ebc5ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_clear_battle_reward_label].content": {
+      "pl": "Nagrody za ukończenie",
+      "kr_sha256": "3913de22f1f9a64f7bda3831c3368fb0e75649879e71f60b23af432e76ce9bb7",
+      "en_sha256": "d6b2f365e6630c9c9d3d13c0f50429bfacc273059ed88e9321fa0f1241a46caf",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_exit_without_acquire_rewards].content": {
+      "pl": "Zakończyć wyprawę bez odbierania nagród?",
+      "kr_sha256": "9363d919e99fe087f4d3255cf496dcf69988b6fc65ed82adbab9e31f88a7eed0",
+      "en_sha256": "41127392887c236769bbfc14d208aabf8de58262e59c093c29c86760b042958e",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_give_up_ego_gift].content": {
+      "pl": "Pomiń wybór",
+      "kr_sha256": "ca48634428832d99a3914d2f65ab93341f7de0bbbdfd91ca372d4e359007c1dc",
+      "en_sha256": "83e903eecdccbded871f0af21dc088caf1244771b32dc18741866368bf6b91cb",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_give_up_ego_gift_ask].content": {
+      "pl": "Kontynuować bez wyboru Daru E.G.O?",
+      "kr_sha256": "407b09a71fb6f0d061db97d2280efbf4b3012384e2a19023d9a78c613352fe0e",
+      "en_sha256": "24cd20d760c41326ff41f35eb90fb8f93215e5ef139ff41230136293be8100ca",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hard_require_condition_level].content": {
+      "pl": "- Poziom Tożsamości: 45",
+      "kr_sha256": "0f382a46b293246e407f049e8d0da715995880c7fc9d0cd1b8f82f967f00c9e6",
+      "en_sha256": "30a47190317d885dde3c47cdbd5ddc119c050512a4695a4bc4e8757571f44207",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_hard_require_condition_title].content": {
+      "pl": "Zalecane warunki",
+      "kr_sha256": "738e431971ca791676623c75d20123e42cec41cffb6123ffc5b8d5c900c1c51e",
+      "en_sha256": "0738ee00b61bc3afc0edf2dc46e06cbe4cdafdc9637644ee7b71237a0cebe284",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_rewards_back_to_lobby_button].content": {
+      "pl": "Do Okna",
+      "kr_sha256": "d5a863f39a5f176e9b7dad8dd1df274df33be0d391838178f188f45d2cb345b9",
+      "en_sha256": "1f307acfabfb94d80e8482204c1103a9b335cb2b5c169d1eeab137760fc861ab",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_rewards_back_to_lobby_button_lobby].content": {
+      "pl": "Do listy",
+      "kr_sha256": "9289cc6decae250ab3309f1e2c3db1a57cad1062c72bc8b5d65d0ed622ed78dd",
+      "en_sha256": "f4520cbff79ece98db0a5ba442bdebecf277085768fdfee332b113cb9b2779b1",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_rewards_back_to_lobby_desc].content": {
+      "pl": "Przejść do Okna?\nOkno odbioru nagród za wyprawę pojawi się ponownie przy kolejnym wejściu do Lustrzanych Lochów.",
+      "kr_sha256": "71b1dddd7d5b1418e651e479d4b99a240e415c4f087a17bfe6764b72e8f336cb",
+      "en_sha256": "dcffd50a7f4fcb66a68b424570b4b0ce5861351b935f12b62649b54fd9de0081",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_buffs_chip_name].content": {
+      "pl": "Gwiezdny Blask",
+      "kr_sha256": "4e5ce0107d7f6371700f9b147ecd1588297165312c62f9b901754db47613f58a",
+      "en_sha256": "01acc2c38fe0b1cc4f3465e5316d0b9938975d78aa3183eacb8c9fb015f32647",
+      "origin": "ai"
+    },
+    "dataList[id=mirror_dungeon_start_change_formation_but_button].content": {
+      "pl": "Kup",
+      "kr_sha256": "33500a787e27c7408655c0c3b4d8f2920a51792a196946fefeada30bbab88eb3",
+      "en_sha256": "64e3cb0e4960ba69298843d481376d1ce7b92cd43cf70e61a982da651c0335f3",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_2_hard_open_at].content": {
+      "pl": "Odblokowanie po ukończeniu Lustra Luster (Normalny)",
+      "kr_sha256": "a6f066eb2169ea5bdcee3cadb15cfa181e28f82b68d164f3c51ef61a1993acd5",
+      "en_sha256": "8c070d8d09c24d21d5da3924a18c2a17c15742673926007ca0f19c0f1ffd7390",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_2_normal_open_at].content": {
+      "pl": "Odblokowanie po ukończeniu etapu 4-54 oraz Lustra Początku",
+      "kr_sha256": "e66b04e9516a81160f13f357109cb22a0ffa59d3f11768f02ea13798c9a984bc",
+      "en_sha256": "6e0b79f50361f21d508c28ce2c51ab2c8d616640ce61471afb67399d22ea2d0c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_2_resting_stageinfo_desc].content": {
+      "pl": "Pogrzeb swój ból w ciszy\nlub przywołaj kogoś, kto pomoże ci go dźwigać.",
+      "kr_sha256": "f76d317ffd3d1e15ceafd5ecb6681ef659b1d9b35aaddf5f80b663b3820d58ae",
+      "en_sha256": "a80d27e008630589c3a79b31713492ffb29c13ed062ebc095ffca0690ffb4729",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_2_resting_stageinfo_title].content": {
+      "pl": "Przestrzeń Gęstej Ciszy",
+      "kr_sha256": "cc3f9712155729ccf57166ccc1a89c73a826a23f246720236cee987a47ccf144",
+      "en_sha256": "2cf3b0775f7a1921b8efb4064e9db3aca9142477e3a50f291d1515a62852c2fd",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_2_shop_stageinfo_desc].content": {
+      "pl": "Upiornie pustą przestrzeń wypełnia niskie buczenie dobiegające z automatu.\n\nGłos przemawia: „Oddajcie posiadany okruch, a wymienię go na coś pożytecznego”.\n\nJak urzeczony podchodzisz do tajemniczej maszyny.",
+      "kr_sha256": "65f1f8a647e4d93399df505323e3bfead87911cdf61e2be35bdcebace3dc4ed4",
+      "en_sha256": "9d6a58ea38e6e42a10b18be8940b5c2a40b6052be431f65b67d8a1666069737a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_2_shop_stageinfo_title].content": {
+      "pl": "Przestrzeń Głębokiego Buczenia",
+      "kr_sha256": "e0a84aca2b917ca9691d874d0597025e4bb97953efa290919313ec4b7aae36e2",
+      "en_sha256": "5e0b8ece04a62e6bb72fa58f3cab1a4d3bd75763837a7df231118b571708a66a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_no_chance_desc].content": {
+      "pl": "Odebrać nagrody?",
+      "kr_sha256": "2f6a236c709662d55d2056d4fc440dd9bcfad9fcd602ed56e655385308939569",
+      "en_sha256": "00166e6f0d2fa47753ecc4befcc6abdccf96606a55bf23b1de4cc60daf236827",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_not_using_chance_desc].content": {
+      "pl": "Masz niewykorzystaną szansę na 「Cotygodniową Premię」. Czy na pewno chcesz odebrać nagrody bez jej użycia?",
+      "kr_sha256": "fbfda2b3ed867b3f1c774c0a292fb0aeeea3a0aebb645769de4d4fca969b9074",
+      "en_sha256": "9bdf7fe8667dc842d0240ac5bb9e162a1278ea8f1e7c30fb188099907c64ebe6",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_acquire_rewards_using_chance_desc].content": {
+      "pl": "Zużyć szansę na 「Cotygodniową Premię」, aby odebrać dodatkowe nagrody?",
+      "kr_sha256": "3c57cd89b7d124f5c8efef128d68643e96f95036f99fae9945ef6f356a20d552",
+      "en_sha256": "9e2caa513d16628097f4c4346a293ecc34e01514e58ed36ef8423b3c58b03d54",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_change_formation_confirm_exact_participants].content": {
+      "pl": "Wydać Koszt, aby dodać wybrane Tożsamości i E.G.O do składu?",
+      "kr_sha256": "a2c3854b3ed7e485451c7a0ac56adb9124b2eefc675117c59ab8cfa58491175e",
+      "en_sha256": "3f2a833389c5ba53310de60e62ae41e7e2dcb2b01029246c0d610738d19ad83e",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_change_formation_confirm_less_participants].content": {
+      "pl": "Pozostały jeszcze niewykorzystane wybory.\nZatwierdzić taki skład?",
+      "kr_sha256": "f7dcfc801d88c7d48faab145980cd4573c25718f6c04e675dcdb7ad16a71f4d0",
+      "en_sha256": "cd5a54c32e1a148a2f2bf1950f7ee8d92778b497cb4b95e5a4f8b1c46f353ae7",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_exit_resting].content": {
+      "pl": "Opuścić Przystanek Odpoczynku?",
+      "kr_sha256": "7367700bcce9e768e1fb3e97e5ffe198a02719c1db0d025640c57764c9af7e60",
+      "en_sha256": "3b1b401a8ffc5d4bf7502b5d113a564851b8ea90dedcada957333a7e83c0ecb8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_exit_shop].content": {
+      "pl": "Opuścić Sklep?",
+      "kr_sha256": "ed3468a8db556c037d3806bfd941df4e0ed905a282d758ec3b7d2b8444e603ff",
+      "en_sha256": "a999b42437c1f4997a1f2a098350729ae65296e3553ef22220dab848aaa3a646",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_product_list].content": {
+      "pl": "Katalog towarów",
+      "kr_sha256": "2a523eb29a927c67462356c9ca09cd1cd12375a193842c80c774182c4df261cd",
+      "en_sha256": "42ae59afdf48daeff29738fae20ec8940a6cfbe0ac818fef1caefdc5bc0813c3",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_reenter].content": {
+      "pl": "Kupić coś jeszcze?",
+      "kr_sha256": "cf780cb1d266cee8f22ee5ecc82f7fbf20fea4b73e2c96a93bee0cf7267f7054",
+      "en_sha256": "93668864746654ce4f531e02176d26e2354bead0d42f4d80e7e2cce1ee65f9e1",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_change_formation_desc].content": {
+      "pl": "Dodaj nową Tożsamość lub E.G.O do bieżącego składu",
+      "kr_sha256": "aa19997d73ef159f10bbbd6be1282b71db0ec72bd9dfdf5d615f5586693922f6",
+      "en_sha256": "8a5b51159d2cbd3d354af8c550fcd87d6dba65d44b89209e8dfcbbd6adb814da",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_change_formation_title].content": {
+      "pl": "Połóż okruch na stole.",
+      "kr_sha256": "6479edddaea0653f7665c991d7d66aa094ed586e8e23ed4d9cd7633a9e0cb4c8",
+      "en_sha256": "b12ac53adccbaf7ea10fcf96e0da40497a5493267b7ee12dc481320225585584",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_all_answer].content": {
+      "pl": "Trochę ciasno było usiąść wszystkim naraz,\nale chwila wytchnienia okazała się zbawienna.",
+      "kr_sha256": "126f90b7f59740f2f7045fdb345d0b5c1b9b26130fba2c0169fc29e731f5faa2",
+      "en_sha256": "948ea12d65d891659ef364238eb4ddca563048a905b65a16e7be1b6de9e2487c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_desc].content": {
+      "pl": "Uleczenie Grzeszników",
+      "kr_sha256": "742fa6096d2ee5ebf7dfffa6c18e5c9934fe127ca7faba9b8a5b1a32f981e524",
+      "en_sha256": "50a6271c4bfa37d9bbc1b41a92814adec695799f701afaab103cc3a81a2eb7f8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_desc_1].content": {
+      "pl": "Wybrany Grzesznik odzyskuje {0}% PŻ",
+      "kr_sha256": "441c952997b42828ea99a71fd6c38b6a851771856b271779a2fd4f651900f3aa",
+      "en_sha256": "4317252f86c27bc847b13506adcd30284153026662bba6671c1e84939abde837",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_desc_2].content": {
+      "pl": "Wszyscy Grzesznicy odzyskują {0}% PŻ",
+      "kr_sha256": "a4fb30f90799a832dbaaa4d01e4c92355217e4657dd54f311782a00c4b2057c2",
+      "en_sha256": "652364b67c195c530467c1039e0f4180b761f91d3e4a1cfd174e4a793dd079b0",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_one_answer].content": {
+      "pl": "Pozwoliłem Grzesznikowi położyć się na krótką drzemkę.\nNa szczęście pod koniec przerwy wyglądał już na znacznie pokrzepionego.",
+      "kr_sha256": "f57e63a4287ab58481fd53d86f4d9ef05c14d54cc79545297d527fe684058028",
+      "en_sha256": "a04fb44d92b86f7c436ba553beee16a0d7b70be73aab70d9f9e375cf2da7692a",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_one_who].content": {
+      "pl": "Miejsca nie ma tu zbyt wiele.\nKomu pozwolić odpocząć?",
+      "kr_sha256": "e8f8897d9dfd7552e11af9f842673d712717ad0ddbf4fa8589517f67e4ebd878",
+      "en_sha256": "962330c1c430011f7e559878a133ac53f6a0caff818393ce9d92b61c0c5dc633",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_one_who_right].content": {
+      "pl": "Wybierz zmęczonego Grzesznika.",
+      "kr_sha256": "af347e72c7d737ac2124061fac6e236c4703a667bf712a2c2ab80639ba326a58",
+      "en_sha256": "0083138360a76868a7a558afee71755681c1c8ec9f1a96aeb10893416967c656",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_heal_title].content": {
+      "pl": "Odpocznij.",
+      "kr_sha256": "30cfc1eedc40097b25ba2e7c44c4fd98568b2552a1f447f8af09ac28b00d77e7",
+      "en_sha256": "27b3e50a6cbd7d1719b39c5661ec12f185d85ba3e9effa05b8ff531c09dcd4a8",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_resting_open].content": {
+      "pl": "Odpocznijcie tu wygodnie!\n\nA jeśli pragniecie spotkania, połóżcie to na biurku.\n\n— Właściciel sklepiku wędrujący przez labirynt w poszukiwaniu automatu",
+      "kr_sha256": "ac55191c54a831125c1da8569219ebe01cfb58fb97f79304d9cbd796d830235e",
+      "en_sha256": "4701c01d1830945e7963b36d296fc7616cfd439e62d3db151b8867ce1829abe7",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_select_buffs_title].content": {
+      "pl": "Wybierz efekt wydarzenia",
+      "kr_sha256": "e0b84738f7dde6c5a9d0a3be9a864892ac312e28a43214ecbac1d5b9ddc11819",
+      "en_sha256": "a322c9758ea05f13a338259c91452ac4557d7f5ca8cc44ccc80a872d141c9026",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_select_less_character_at_start].content": {
+      "pl": "Wybrano mniej Grzeszników niż wynosi limit składu.\nCzy mimo to kontynuować?",
+      "kr_sha256": "5cdcb870f6bcb7341463bb9da31d7b4af5eae34093a869fff5b250d7d749f086",
+      "en_sha256": "5f59398820b5a836986349adfaee9e42fbf18feaa855670008cb514c1c9e0755",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_gift_entrance].content": {
+      "pl": "Wzrok raz po raz przyciągają osobliwe i tajemnicze przedmioty.",
+      "kr_sha256": "07345566625b103754263ac9ff14833ad10d081954b6c7589a0727877c59fde1",
+      "en_sha256": "429563045d710b34f58a1482fdd55a8f670570780fe14970251c7be73a8b97c1",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_gift_purchase].content": {
+      "pl": "Słychać metaliczny szczęk wypadającego przedmiotu.",
+      "kr_sha256": "11bebd41fdab30e40c4feee1f1b4af104e62e4c46ea5f02aeb2cc6ecfe939f4e",
+      "en_sha256": "7c96419fc0f93905e459feec88377102755f14a6feffcdb35be2e8448ee20fa5",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_heal_all_answer].content": {
+      "pl": "Wybrano z automatu napoje energetyczne dla wszystkich Grzeszników.\nSłodko-kwaśny łyk wyraźnie zdejmuje zmęczenie z ich twarzy.",
+      "kr_sha256": "02f726fb3d1d90d8a6c6b84e8637e451bc40af42ac309d35b9d8b034199cb938",
+      "en_sha256": "42c57c081dfff6d9d90b4ac3f511125c3e62411585c4ab561169c9942b146751",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_heal_one_after].content": {
+      "pl": "Trochę ciasno było usiąść wszystkim naraz,\nale chwila wytchnienia okazała się zbawienna.",
+      "kr_sha256": "126f90b7f59740f2f7045fdb345d0b5c1b9b26130fba2c0169fc29e731f5faa2",
+      "en_sha256": "948ea12d65d891659ef364238eb4ddca563048a905b65a16e7be1b6de9e2487c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_heal_one_answer].content": {
+      "pl": "Drogi specyfik był wart swojej ceny.\nNa twarzy Grzesznika po wypiciu toniku zamiast zmęczenia maluje się blask wigoru.",
+      "kr_sha256": "e05b5dc071315a7780db95a98160943f19d6af9c5daf343e29439b48c12e4267",
+      "en_sha256": "5a155f79334ddd99768a9d206e6f7e2d1a3c567e59bb0018a1657f4d84e50c2e",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_heal_one_who].content": {
+      "pl": "Niestety ten cenny napój regenerujący jest tylko jeden.\nKto powinien go wypić?",
+      "kr_sha256": "0cfe6c49b7e28d8524dd51e73c62d45f7e79b9754b059d7458f94e8ca9d23962",
+      "en_sha256": "46ea7694d8e40b9c91431782edf8ce812ac99f0273e0facb5ca3941e647d7c9c",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_heal_one_who_right].content": {
+      "pl": "Wybierz zmęczonego Grzesznika.",
+      "kr_sha256": "af347e72c7d737ac2124061fac6e236c4703a667bf712a2c2ab80639ba326a58",
+      "en_sha256": "0083138360a76868a7a558afee71755681c1c8ec9f1a96aeb10893416967c656",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_open].content": {
+      "pl": "Buczenie automatu wypełnia całą przestrzeń.\n\nOn wie, czego pragniemy.\n\nA my wiemy, czego on pragnie od nas.",
+      "kr_sha256": "6a738d46816b1a07e3f6eff3a708ab27562f6bce0469c8364b0b5f18291df6cd",
+      "en_sha256": "703ffe0292756eedfb22aaa8c8e722e87816a8400b1ea31c4cf77ea19e911461",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_shop_upgrade_start_left].content": {
+      "pl": "Czy wewnątrz tego automatu naprawdę kryją się nieskończone możliwości?",
+      "kr_sha256": "f8b6065048cbac5ebe9dc2956235e1c4da38043002d301c7da8103cef3601f1b",
+      "en_sha256": "ddce0e61d673c5539e71ee1dc02f607c9cb73a624707f400dbe93987e7034aa0",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_unable_to_purchase_buffs_when_running_dungeon].content": {
+      "pl": "Nie można kupować wzmocnień początkowych podczas trwającej wyprawy.",
+      "kr_sha256": "e1f177b3898593d8d8a8ad4312a7f73ed995a76b110b82950bfd6937915445b0",
+      "en_sha256": "6dffbc33b59d149cba8111fae8ad065b25a0eec9228b0a0591b23e7e06f307a7",
+      "origin": "ai"
+    },
+    "dataList[id=mirrordungeon_with_number].content": {
+      "pl": "Lustrzany Loch {0}",
+      "kr_sha256": "f4c655850f84986769fb689315e7746dd508e20fdb077d8a6471cf14e43beb68",
+      "en_sha256": "48f54bf38a5861d5a847e8817b81e9f5778ea0ae04144ec088d21b6a11979bc5",
+      "origin": "ai"
+    },
+    "dataList[id=normal_difficulty].content": {
+      "pl": "Normalny",
+      "kr_sha256": "54ca33ea350613bcd6ffae4b0d5b80ac504e0142c75b1cae6dd8512d7a63fa43",
+      "en_sha256": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+      "origin": "ai"
+    },
+    "dataList[id=require_to_activate_former_buffs].content": {
+      "pl": "Najpierw wyryj gwiazdy\npoprzedniego etapu wzmocnień.",
+      "kr_sha256": "89d4073316a34052972c70bbe57efe0bd5fcf837ec74a05ac1e8476cc1b86161",
+      "en_sha256": "73f9fe7333234071def05fe74252f87848c4001cc90cc19ac8d8e6e39a9e151a",
+      "origin": "ai"
+    },
+    "dataList[id=start_buffs].content": {
+      "pl": "Aktywne efekty",
+      "kr_sha256": "95cf6e3630a46e97637b22bcb77e9c1fa73d5a4cbf5338453d0463c0def32d7d",
+      "en_sha256": "d01db4d8cfb04929e24ca8bc61708e46690e27d9fe86c067222725e0e826f272",
+      "origin": "ai"
+    },
+    "dataList[id=weekly_bonus_reward].content": {
+      "pl": "Cotygodniowa Premia",
+      "kr_sha256": "22dcc0ca23c099fee59b1b38509ed363bd92e3309b0331df98dbfc8f3b836e66",
+      "en_sha256": "9e993541f39a1f42fc7a85e03946da705a74be101b634a0a565097793b4811ae",
+      "origin": "ai"
+    }
+  }
+}

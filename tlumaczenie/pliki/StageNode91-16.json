@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=911601].title": {
+      "pl": "Nowy Rok",
+      "kr_sha256": "54a41ddbb1042100da9937e8a259b2a77d94ce15b307c50fcfa4a2e7e81aeab6",
+      "en_sha256": "d2b85fa6a231e708bd7dfa023a6e6a51c9ddb8eaf3786e6428b10b1bbc158da5",
+      "origin": "ai"
+    },
+    "dataList[id=911602].title": {
+      "pl": "Pojedynek",
+      "kr_sha256": "5ec6dbd05140745741d226acb63782b508129e6ad3f18c5f07c1cd837a07bebf",
+      "en_sha256": "5f60161aa6679c1b286aa102231cc7d343339a5b7ce5dcff27a8743d8a3fc857",
+      "origin": "ai"
+    },
+    "dataList[id=911603].title": {
+      "pl": "Przewodnik",
+      "kr_sha256": "2d3ccbc79e795d84937624066ad2f0f7b4a76df013302e3b4364fd1bc82dcb38",
+      "en_sha256": "fc30e9fa7f265aa77490fe27d5d71ae103663b853934ff0a23ac37def20293d5",
+      "origin": "ai"
+    },
+    "dataList[id=911604].title": {
+      "pl": "Zasadzka",
+      "kr_sha256": "41ea986c343945d4638a01d5569d0ec65ccff6ab13131a300a0de697fc0b9ce9",
+      "en_sha256": "a29c74269a8c224dc302f1e9140f2d3147828dfd130f6b79698cee3ba9fb17e6",
+      "origin": "ai"
+    },
+    "dataList[id=911605].title": {
+      "pl": "Kezhan",
+      "kr_sha256": "e245e5c9ef2e38d1d45544ac1be3c4efdf9491f5042492462f04dfbf7101eff7",
+      "en_sha256": "a0d4703ab2ba98910dd26a96cd2fc5232e843783844686005f974985625bd214",
+      "origin": "ai"
+    },
+    "dataList[id=911606].title": {
+      "pl": "Podejrzenie",
+      "kr_sha256": "77f0499ee995a056f4cc5638bed40efb92ab487cda5c44dbf5357cc83380225a",
+      "en_sha256": "dc66c9d5dc7423d52351897210cf7e790689656f642f42adb6dfd6d7cbc293fb",
+      "origin": "ai"
+    },
+    "dataList[id=911607].title": {
+      "pl": "Obserwacja",
+      "kr_sha256": "b0e93f1c2082736286360df94e6ae9293074c2fb2988c090f722e55d347dfdcf",
+      "en_sha256": "3dd7f291e2da68226fa477810432a912f9a01fd14fd83eb8188b03549a63e66d",
+      "origin": "ai"
+    },
+    "dataList[id=911608].title": {
+      "pl": "Wataha Heishou",
+      "kr_sha256": "960dc3897754f974d5c81d35197b4dc0c1ae20650c2b724d959175b163ba7561",
+      "en_sha256": "bbbcde3adfdce3bc3db7fbc25481859d630dedfaa7331ad926f543c316c37776",
+      "origin": "ai"
+    },
+    "dataList[id=911609].title": {
+      "pl": "Shi Yihua",
+      "kr_sha256": "add9eab54a4e807192a9566b9ded9a4d4c23cd219071499499bf3114902826e4",
+      "en_sha256": "59368d6029930b0594bd4e68e4715432a21955f68111cea22caeeabed7364d00",
+      "origin": "ai"
+    },
+    "dataList[id=911610].title": {
+      "pl": "Niespodziewany Wróg",
+      "kr_sha256": "f5107ef8d1b545f33768256e08647ddf268cd2c3e6aaa75f3d6a4e6da4fff64c",
+      "en_sha256": "68978d268c69b821044c44c5ad5f4ba372cfcd460b396a286984c53dfec11298",
+      "origin": "ai"
+    },
+    "dataList[id=911611].title": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    },
+    "dataList[id=911612].title": {
+      "pl": "Sojusz",
+      "kr_sha256": "76077e13cece28e7fdc14dcc2bd61dee9a1bb169bc12df4a4c2300f841c4a360",
+      "en_sha256": "afe3c1947d3b3a6e5e04159d81d9ceba8ab63094c8f67abf717ad752f86bd4f6",
+      "origin": "ai"
+    }
+  }
+}

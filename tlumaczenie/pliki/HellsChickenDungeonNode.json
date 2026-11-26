@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=910301].desc": {
+      "pl": "Skądś unosi się smakowity zapach chrupiącej pieczeni.",
+      "kr_sha256": "38ecb235bb0445993bc82ac601656e9bf7df672086f5b91ffbdd22d27e5e4835",
+      "en_sha256": "e921d717efa3ef7965cf3244a2366893c3096f81efa41a053ebbdd1ef38d3132",
+      "origin": "ai"
+    },
+    "dataList[id=910301].title": {
+      "pl": "Śladem Chrupiącego Aromatu",
+      "kr_sha256": "b16fb6eb7e5009fbf0e5ed884f23066add06e7d8503e6a5cdcd8ec58749690d6",
+      "en_sha256": "48644d7fd1302f05d3b74dff0f639d89fcc460ec4dff0cb3d166f787be5b773e",
+      "origin": "ai"
+    },
+    "dataList[id=910701].desc": {
+      "pl": "W falującej głębi ego\nrozpościera się przed nami przejmująco błękitny nocny trakt.",
+      "kr_sha256": "1aad6420c1d9501f756611168447534cae28e61209822ee38d23cc49c313cebd",
+      "en_sha256": "dd642d1f90e914697c52a2fa7d9be47e9e3062194efebd0d88a2efa6def35a29",
+      "origin": "ai"
+    },
+    "dataList[id=910701].title": {
+      "pl": "Głębia Kima w Słomkowym Kapeluszu",
+      "kr_sha256": "698e2474b0bc3f8c83741a932562a9cdf041bcf1425d48fb757ed60072ace74e",
+      "en_sha256": "313b51bc15bc07d4aa9586716d947cb1484b7b9f930dd91f99ff8512293ccfd3",
+      "origin": "ai"
+    },
+    "dataList[id=910901].title": {
+      "pl": "Głębia Rozpruwacza Czasu",
+      "kr_sha256": "3fb4f7cd52589c1901182a53926f319f81a45cc9ad5bbc6d1d6e35e27ec08cba",
+      "en_sha256": "0a1be2b336267ba832cc4b3d6a09a81462a068b2225a7daf9a80847814c5b8e2",
+      "origin": "ai"
+    },
+    "dataList[id=911401].title": {
+      "pl": "Głębia Hohenheima",
+      "kr_sha256": "96fd4c4e0f518305542374b3ecc1137fd0b4be70f75e5c4436aebe032a78e550",
+      "en_sha256": "3fa510d4d2c4acdaaaab6d2c22fbd751aba2e83a83e44774e0fb845efdd51a2a",
+      "origin": "ai"
+    },
+    "dataList[id=912401].title": {
+      "pl": "Głębia Hohenheima",
+      "kr_sha256": "96fd4c4e0f518305542374b3ecc1137fd0b4be70f75e5c4436aebe032a78e550",
+      "en_sha256": "3fa510d4d2c4acdaaaab6d2c22fbd751aba2e83a83e44774e0fb845efdd51a2a",
+      "origin": "ai"
+    },
+    "dataList[id=912711].title": {
+      "pl": "Głębia ???",
+      "kr_sha256": "d8fbe872b08002f623508fb489a42d903bf7880bcd62bb909e96850b95aab1f4",
+      "en_sha256": "541e65f94a4d608b40eb18700f12aed1cf714571ec91da650fbe53c0c3a4de0f",
+      "origin": "ai"
+    }
+  }
+}

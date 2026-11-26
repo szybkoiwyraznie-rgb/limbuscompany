@@ -1,0 +1,184 @@
+{
+  "entries": {
+    "dataList[id=910901].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "52beb9c94aaa656d92cfdb8581fc84c35a1698fff24fd80a7cb1886636105c3d",
+      "en_sha256": "846ad2704a034501bd541a0ff4de34ebd5317fd1be9285cecc9cb44553438109",
+      "origin": "ai"
+    },
+    "dataList[id=910901].title": {
+      "pl": "Skandal Podatku Czasowego",
+      "kr_sha256": "32acc6ebda50934474f61da8df94eda671bf7eb6887b943297a231ced4adbfa2",
+      "en_sha256": "8cd4205aa7b015872281d9712500c0ac36361391b975e4fc986ff5dd26b760bf",
+      "origin": "ai"
+    },
+    "dataList[id=910902].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "52beb9c94aaa656d92cfdb8581fc84c35a1698fff24fd80a7cb1886636105c3d",
+      "en_sha256": "846ad2704a034501bd541a0ff4de34ebd5317fd1be9285cecc9cb44553438109",
+      "origin": "ai"
+    },
+    "dataList[id=910902].title": {
+      "pl": "Urzędnik Zarządu Czasu",
+      "kr_sha256": "5c3aaaf5dae30032fe6af6e0a62a06c2d001eb81310510986b67db5fb99cc0e0",
+      "en_sha256": "51401241afefb341af92f14907fa70d13348779819fa07a410360ef130233e63",
+      "origin": "ai"
+    },
+    "dataList[id=910903].place": {
+      "pl": "Biuro Zarządu Czasu T Corp.",
+      "kr_sha256": "ec54f82c379e123a9a94ed2285c9090037f67b034edf6b61ae818870b974340c",
+      "en_sha256": "b4870ae495caf688177bc6814106598b664e0f8cfd7b6be3836c84b0b003bd60",
+      "origin": "ai"
+    },
+    "dataList[id=910903].title": {
+      "pl": "Zagadka Szubienicy",
+      "kr_sha256": "fb11b7c94525523063bbf759f1bbd93a9e391b35ee6e7eb8e9cb917d29b2ca26",
+      "en_sha256": "63f6e1eaa7d7939b3bcabdd729424c2faecee7c6f1589ad3f310bb57da35a97a",
+      "origin": "ai"
+    },
+    "dataList[id=910904].place": {
+      "pl": "Biuro Zarządu Czasu T Corp.",
+      "kr_sha256": "ec54f82c379e123a9a94ed2285c9090037f67b034edf6b61ae818870b974340c",
+      "en_sha256": "b4870ae495caf688177bc6814106598b664e0f8cfd7b6be3836c84b0b003bd60",
+      "origin": "ai"
+    },
+    "dataList[id=910904].title": {
+      "pl": "Przygoda Trójki Detektywów",
+      "kr_sha256": "47f12945804f7586ab8f2b9007259e78b632248d5d4be3350c863d79f3b6771c",
+      "en_sha256": "395715f3b8001302e9e59a38d42f0ae149f48d38eded3fed5933bc29f89f816f",
+      "origin": "ai"
+    },
+    "dataList[id=910905].place": {
+      "pl": "Fabryka Zegarków T Corp.",
+      "kr_sha256": "5a4d219697e52f77bc41849c16f24036edbe875a18e004d034b54e9fbc5cf94f",
+      "en_sha256": "efe3510bcdaedff8e87d213cafddfc1fd8f7e78e8e54d76ef14344a9e405c058",
+      "origin": "ai"
+    },
+    "dataList[id=910905].title": {
+      "pl": "Zagadka Zabijania Czasu",
+      "kr_sha256": "dc0c18fd902c6d36000400d99e6f91f13c59cae97799aedf2c5a494f61fbf765",
+      "en_sha256": "1f80f5c21f5aad37cb902ff32cd65a170bafdea0379741e24bb7c9f8abf955aa",
+      "origin": "ai"
+    },
+    "dataList[id=910906].place": {
+      "pl": "Fabryka Zegarków T Corp.",
+      "kr_sha256": "5a4d219697e52f77bc41849c16f24036edbe875a18e004d034b54e9fbc5cf94f",
+      "en_sha256": "efe3510bcdaedff8e87d213cafddfc1fd8f7e78e8e54d76ef14344a9e405c058",
+      "origin": "ai"
+    },
+    "dataList[id=910906].title": {
+      "pl": "Liga Białych Szalików",
+      "kr_sha256": "3c75bdca93fe195e171260411e977af5e8333a1afde6ede91e2d58e58c69e8b5",
+      "en_sha256": "51c0fc6762f23f458e14100b7a6bdd4dbe522a52f5fce5bfe023f45b9fe62a52",
+      "origin": "ai"
+    },
+    "dataList[id=910907].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "52beb9c94aaa656d92cfdb8581fc84c35a1698fff24fd80a7cb1886636105c3d",
+      "en_sha256": "846ad2704a034501bd541a0ff4de34ebd5317fd1be9285cecc9cb44553438109",
+      "origin": "ai"
+    },
+    "dataList[id=910907].title": {
+      "pl": "Cofający się Zegar",
+      "kr_sha256": "c269ed7631baaca2bedbc220a3d630656d5fe9d5a15b222af61464bd7db38bfd",
+      "en_sha256": "af29f5c0940a2002fa8a8a9cefc4f336cb373046216fb923f72bb02a89471d55",
+      "origin": "ai"
+    },
+    "dataList[id=910908].place": {
+      "pl": "Mroczne zaułki T Corp.",
+      "kr_sha256": "ef4647472d902fa570582f472bfc097dd7290a5662b612b13a8a350ef13a4612",
+      "en_sha256": "1dd160b2113795f752416723098be9b1aa83828f4e25afa15c4f1ebd0ec778b7",
+      "origin": "ai"
+    },
+    "dataList[id=910908].title": {
+      "pl": "Urwany Trop",
+      "kr_sha256": "5352323a461183e344fcf48737b2008febd3153e1b1dbc578e80f18b5242c918",
+      "en_sha256": "489d3760aa87d5189e6860a43d7610045cf7ec2721851ba18f73ee89b922d2df",
+      "origin": "ai"
+    },
+    "dataList[id=910909].place": {
+      "pl": "Tajna kryjówka Jurodiwych",
+      "kr_sha256": "dc33fb05b095bfdaa126427381a5e0f9acc0fc4a2e2b857eb55b5be7b7172812",
+      "en_sha256": "5301c1405bc833be78f546853a33dfd2922031ddb3807193c19424bfab6123fd",
+      "origin": "ai"
+    },
+    "dataList[id=910909].title": {
+      "pl": "Umierający Detektyw",
+      "kr_sha256": "0838c92fe3209604c5555e36843dcd3a571447b23d79c493a0c67f86a6ffb612",
+      "en_sha256": "73dc3ea2ef506383ff11d142f9732007d1b8375e23d0107fa0c38dc28dd813be",
+      "origin": "ai"
+    },
+    "dataList[id=910910].place": {
+      "pl": "Tajna kryjówka Jurodiwych",
+      "kr_sha256": "dc33fb05b095bfdaa126427381a5e0f9acc0fc4a2e2b857eb55b5be7b7172812",
+      "en_sha256": "5301c1405bc833be78f546853a33dfd2922031ddb3807193c19424bfab6123fd",
+      "origin": "ai"
+    },
+    "dataList[id=910910].title": {
+      "pl": "Tajemnica Jurodiwych",
+      "kr_sha256": "c6adf422e82ced7b85b198a452a6bbc53972008cc4db5ebe65852a554cd6d57b",
+      "en_sha256": "0969a33b36df5c7bbb3740dc67b5e5adc5bdbca51d8bfae5bf2c5f8748e71ac2",
+      "origin": "ai"
+    },
+    "dataList[id=910911].place": {
+      "pl": "Mroczne zaułki T Corp.",
+      "kr_sha256": "ef4647472d902fa570582f472bfc097dd7290a5662b612b13a8a350ef13a4612",
+      "en_sha256": "1dd160b2113795f752416723098be9b1aa83828f4e25afa15c4f1ebd0ec778b7",
+      "origin": "ai"
+    },
+    "dataList[id=910911].title": {
+      "pl": "Osobliwa Recenzja",
+      "kr_sha256": "8b88e903b24144f329327899008e968a7d8e8c57047373f6d400f58b7baf08f6",
+      "en_sha256": "7119c693cad891588282be5c8c99b0ecfb581aa7365dc11f1dac00de07f1e4b9",
+      "origin": "ai"
+    },
+    "dataList[id=910912].place": {
+      "pl": "Mroczne zaułki T Corp.",
+      "kr_sha256": "ef4647472d902fa570582f472bfc097dd7290a5662b612b13a8a350ef13a4612",
+      "en_sha256": "1dd160b2113795f752416723098be9b1aa83828f4e25afa15c4f1ebd0ec778b7",
+      "origin": "ai"
+    },
+    "dataList[id=910912].title": {
+      "pl": "Rozpruwacz Czasu",
+      "kr_sha256": "b1b59c590de456e802a3b9d44e5b148b638e1f2bf856f45d8c6a131586244e78",
+      "en_sha256": "f385f98dcb3224d134be8b31a02b27c1d3a16d5e21ecef90a59516f0d16278b1",
+      "origin": "ai"
+    },
+    "dataList[id=910913].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "52beb9c94aaa656d92cfdb8581fc84c35a1698fff24fd80a7cb1886636105c3d",
+      "en_sha256": "846ad2704a034501bd541a0ff4de34ebd5317fd1be9285cecc9cb44553438109",
+      "origin": "ai"
+    },
+    "dataList[id=910913].title": {
+      "pl": "Skrzywiony Czas",
+      "kr_sha256": "1c7eb28c5688f0cb6fca6e8867a4f20b849cf6cabd7e7e678b166423c4df301e",
+      "en_sha256": "f01235e4e994b8fd231f261b8028022daf14180c836f8a45dc01e68cdea9e6a9",
+      "origin": "ai"
+    },
+    "dataList[id=910914].place": {
+      "pl": "Wieża Zegarowa",
+      "kr_sha256": "463f593038232fa18ac9902803b59a47dbe11add2230746f4c7ffa6b36eeba1d",
+      "en_sha256": "a570a0670c557bfa0d143fb4149a2806ec4b2af4026614a772d7a95abe23ee19",
+      "origin": "ai"
+    },
+    "dataList[id=910914].title": {
+      "pl": "Wieża Zegarowa Strachu",
+      "kr_sha256": "27af5eb50130e5f5bfa029fc613eba7a50a347ee2e9b706e0624e94c5e596588",
+      "en_sha256": "4bce9264705744d802ca557f49791bc7dad9700313b7e14cafb41a713a1e0c1b",
+      "origin": "ai"
+    },
+    "dataList[id=910915].place": {
+      "pl": "Lustrzany Loch Głębi",
+      "kr_sha256": "e95257d3895317273fbe51bcc5a512ec41413abe6453ca1b17b1c99392651016",
+      "en_sha256": "7e1742e032e9548fbe011d083577943f529af3e4de1273a85c594ef77fb76c7b",
+      "origin": "ai"
+    },
+    "dataList[id=910915].title": {
+      "pl": "Ostatnia Sprawa",
+      "kr_sha256": "91c27bbf3749152e543bc8970241978396c92e7605cca12e5719fea570e99a3d",
+      "en_sha256": "1b980cd65a6eec25b2f643e346cd69eec48ce6ec981ff55671f5506c9de52a82",
+      "origin": "ai"
+    }
+  }
+}

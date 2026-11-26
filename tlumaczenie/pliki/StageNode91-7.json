@@ -1,0 +1,214 @@
+{
+  "entries": {
+    "dataList[id=910701].desc": {
+      "pl": "Ile minęło, odkąd wjechaliśmy w Zaułki T Corp.?\nŚwiat za oknami autobusu jeszcze bardziej wyblakł z barw, zamieniając się w mętną, szarą przestrzeń.\nWpatrujący się w szybę Heathcliff nagle marszczy brwi.",
+      "kr_sha256": "ed0946ee070ba0da15c074f1699290963b0b4d8a935f385d5a9b4eaa5b35a511",
+      "en_sha256": "986bf6bc715e7ecd26ffa9a7d56359db339d39a66c7b9599022538610697b3d7",
+      "origin": "ai"
+    },
+    "dataList[id=910701].place": {
+      "pl": "Wnętrze Mefistofelesa",
+      "kr_sha256": "a3064f2606c0d998f9aef2cb12b6518b9481c365a1ac5b60a98ff284bff19685",
+      "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb",
+      "origin": "ai"
+    },
+    "dataList[id=910701].title": {
+      "pl": "Zaułki Dystryktu 20",
+      "kr_sha256": "3e6b4d6856e0835a446823604f2cb5412ea853f1d24c68f2215fb6a933aefb18",
+      "en_sha256": "78afb6d6d0dfa2354fb50885c30236fc36a142e0758f63260ab68e97efe713d8",
+      "origin": "ai"
+    },
+    "dataList[id=910702].desc": {
+      "pl": "Gdy tylko wysiedliśmy z autobusu, ujrzeliśmy dwie grupy szermierzy w powiewających czarnych szatach, ścierające się ze sobą na miecze.\nJedna strona walczyła głośno i z rozmachem, druga zaś — może zepchnięta do obrony — zdawała się ciężka i posępna.\nCo właściwie mamy tu zdobyć?",
+      "kr_sha256": "cb2d340e68d2dd1a9d897d4eb1829370c8eadd827a83d92589a3ecdf6e4f98d9",
+      "en_sha256": "94828921bbc162bbf12dfb42bc754c3b24b6e9f64886511116bfca64448eda54",
+      "origin": "ai"
+    },
+    "dataList[id=910702].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "78b869614c5a4b804f6d00ade684f2932b8feb1d441b1a160ca1deffcc5b9aa0",
+      "en_sha256": "915c128b879ce31a88a302b4fff9f4c5430c473785c6b9abe95fce64f9b76dac",
+      "origin": "ai"
+    },
+    "dataList[id=910702].title": {
+      "pl": "Starcie",
+      "kr_sha256": "11d450d39b59b0a6edb27524def131846cf63cbdf69ae8225acc8e3fb59a666d",
+      "en_sha256": "9c9dd476e1eb5704f4021f7f33a4bf91d703d0530628d7fe6747b668d96255b4",
+      "origin": "ai"
+    },
+    "dataList[id=910703].desc": {
+      "pl": "Zabraliśmy ranną, nieprzytomną kobietę do autobusu.\nNasłuchałem się wprawdzie od Vergiliusa, ale… czułem, że tak należy postąpić, więc zamierzam doprowadzić sprawę do końca.\n…Właśnie odzyskuje przytomność.",
+      "kr_sha256": "3cbbadff3a10451c7af15ae35baf82e6ba7245acf96f4477deef019969889204",
+      "en_sha256": "c449e69582aed8a47ee20e1116e1f6f10f3faf32fc405e9b0c1ecaa0bfd22e3e",
+      "origin": "ai"
+    },
+    "dataList[id=910703].place": {
+      "pl": "Wnętrze Mefistofelesa",
+      "kr_sha256": "a3064f2606c0d998f9aef2cb12b6518b9481c365a1ac5b60a98ff284bff19685",
+      "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb",
+      "origin": "ai"
+    },
+    "dataList[id=910703].title": {
+      "pl": "Ród Władający Ostrzem",
+      "kr_sha256": "eb1dc766bc04f99eefc854e9a8dfdc460e0318e4868d06e204b3e672e9875b89",
+      "en_sha256": "f691131d9c9b012c113943378f00aed2f65841a1ef456405454b7c5b29f3b1d0",
+      "origin": "ai"
+    },
+    "dataList[id=910704].desc": {
+      "pl": "Po powrocie zastaliśmy w autobusie osobę, której nigdy wcześniej nie widzieliśmy, a która mimo to wydała nam się dziwnie znajoma.\nGdyby miała na sobie błękitny mundur i nieco inną kamizelkę… przypominałaby kilkoro dawnych znajomych.\nDlaczego Vergilius wpuścił ją na pokład?",
+      "kr_sha256": "6efbb32294d469e2fa60760638275014adc6ffb45c9ddb938518394391bc1f48",
+      "en_sha256": "8fe901269e42f0c3c3611c9d038df18111f4364bd2983713b118a7a61153b5a7",
+      "origin": "ai"
+    },
+    "dataList[id=910704].place": {
+      "pl": "Wnętrze Mefistofelesa",
+      "kr_sha256": "a3064f2606c0d998f9aef2cb12b6518b9481c365a1ac5b60a98ff284bff19685",
+      "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb",
+      "origin": "ai"
+    },
+    "dataList[id=910704].title": {
+      "pl": "Nieproszony Gość",
+      "kr_sha256": "940a89feaeaedb02574dae398ff72fca1bfd3fffdb7db32c78c316c7b2f9b645",
+      "en_sha256": "36dc68eb41f319104abc87437a7aed7f12dec63b554c4c96131e0a7c50a0f64b",
+      "origin": "ai"
+    },
+    "dataList[id=910705].desc": {
+      "pl": "Góra Limbus Company zażądała odzyskania z „Budynku Yong-jin” obiektu powiązanego z Wypaczeniem.\nNie widzę w tym żadnego związku ze Złotymi Gałęziami, lecz zaczynam rozumieć, że polecenia firmy nie podlegają dyskusji.\nTylko…\nVergilius zdawał się od początku wiedzieć, dokąd zmierzamy. Po co więc kazał nam nadkładać drogi?",
+      "kr_sha256": "8d514b96f40e61b2d2e5804cc3cea30b4e31d696264c7e959ec75547864015bc",
+      "en_sha256": "ed931db37b0e82b6bff5998b53c7511bede4a752d0892a5ffdc5fe8908db0009",
+      "origin": "ai"
+    },
+    "dataList[id=910705].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "78b869614c5a4b804f6d00ade684f2932b8feb1d441b1a160ca1deffcc5b9aa0",
+      "en_sha256": "915c128b879ce31a88a302b4fff9f4c5430c473785c6b9abe95fce64f9b76dac",
+      "origin": "ai"
+    },
+    "dataList[id=910705].title": {
+      "pl": "W Stronę Budynku Yong-jin",
+      "kr_sha256": "f0a49388de4579c3c63e91f2404d52be396b65e27bc7cfbf9a0f5b89986914b9",
+      "en_sha256": "6363dae3d92ca9912a172148ab36c8ff9d8b0972dc933c2f72911c88a805993c",
+      "origin": "ai"
+    },
+    "dataList[id=910706].desc": {
+      "pl": "Góra Limbus Company zażądała odzyskania z „Budynku Yong-jin” obiektu powiązanego z Wypaczeniem.\nNie widzę w tym żadnego związku ze Złotymi Gałęziami, lecz zaczynam rozumieć, że polecenia firmy nie podlegają dyskusji.\nTylko…\nVergilius zdawał się od początku wiedzieć, dokąd zmierzamy. Po co więc kazał nam nadkładać drogi?",
+      "kr_sha256": "8d514b96f40e61b2d2e5804cc3cea30b4e31d696264c7e959ec75547864015bc",
+      "en_sha256": "ed931db37b0e82b6bff5998b53c7511bede4a752d0892a5ffdc5fe8908db0009",
+      "origin": "ai"
+    },
+    "dataList[id=910706].place": {
+      "pl": "Zaułki T Corp.",
+      "kr_sha256": "78b869614c5a4b804f6d00ade684f2932b8feb1d441b1a160ca1deffcc5b9aa0",
+      "en_sha256": "915c128b879ce31a88a302b4fff9f4c5430c473785c6b9abe95fce64f9b76dac",
+      "origin": "ai"
+    },
+    "dataList[id=910706].title": {
+      "pl": "W Stronę Budynku Yong-jin 2",
+      "kr_sha256": "2e4e4ed294e753022a156bc2f1db7cbf1999b38c5a365833fb313c2d64ec900f",
+      "en_sha256": "f9355e18d00e89869cc4a171e1500b20632fc36beeb3b8758fa692f58a496c27",
+      "origin": "ai"
+    },
+    "dataList[id=910707].desc": {
+      "pl": "Aeng-du bez wytchnienia wycina kolejnych wrogów w budynku, rozpaczliwie szukając swojego mentora — Kima w Słomkowym Kapeluszu.\nJej rany z pewnością jeszcze się nie zagoiły… To musi być czysta determinacja.\nJakim człowiekiem był właściwie Kim w Słomkowym Kapeluszu?",
+      "kr_sha256": "295b531c55a012332ee24a70a8b93b68745fe82d739d4113450da62fc9e49574",
+      "en_sha256": "677cbf4acd140eaa33cc695d6674ee4f9300aeda3784164a00a6906618578367",
+      "origin": "ai"
+    },
+    "dataList[id=910707].place": {
+      "pl": "Budynek Yong-jin",
+      "kr_sha256": "7e1e8f6e09789df37171b8a7657e6d6ba23dca19d4f55390af33652e1739fc87",
+      "en_sha256": "cc9a5bc6849b5d19c77f99fdad1e7e28c3e1ea11c763b42803d5512c60a98104",
+      "origin": "ai"
+    },
+    "dataList[id=910707].title": {
+      "pl": "Kim w Słomkowym Kapeluszu i Towarzysze",
+      "kr_sha256": "467a881d5479cc6388bd50b0294bce01438f02da4d68c2d418716b72ad2fe71d",
+      "en_sha256": "00858e6fb52a1bf9dd874ad31839150a31a1a3d1715fbf9f6e4a946a84a1617c",
+      "origin": "ai"
+    },
+    "dataList[id=910708].desc": {
+      "pl": "Aeng-du bez wytchnienia wycina kolejnych wrogów w budynku, rozpaczliwie szukając swojego mentora — Kima w Słomkowym Kapeluszu.\nJej rany z pewnością jeszcze się nie zagoiły… To musi być czysta determinacja.\nJakim człowiekiem był właściwie Kim w Słomkowym Kapeluszu?",
+      "kr_sha256": "295b531c55a012332ee24a70a8b93b68745fe82d739d4113450da62fc9e49574",
+      "en_sha256": "677cbf4acd140eaa33cc695d6674ee4f9300aeda3784164a00a6906618578367",
+      "origin": "ai"
+    },
+    "dataList[id=910708].place": {
+      "pl": "Budynek Yong-jin",
+      "kr_sha256": "7e1e8f6e09789df37171b8a7657e6d6ba23dca19d4f55390af33652e1739fc87",
+      "en_sha256": "cc9a5bc6849b5d19c77f99fdad1e7e28c3e1ea11c763b42803d5512c60a98104",
+      "origin": "ai"
+    },
+    "dataList[id=910708].title": {
+      "pl": "Kim w Słomkowym Kapeluszu i Towarzysze 2",
+      "kr_sha256": "ace81ca0421398fbb0b749a0e11a64d5f240d69dbc9e05a0574c580a979065fb",
+      "en_sha256": "cb34454f40e3962a3afc5c4da82e389124c4738d9f9a1ac45ac5d7b2385e50dd",
+      "origin": "ai"
+    },
+    "dataList[id=910709].desc": {
+      "pl": "Gęsta, lepka posępność i palący gniew przyprawiają mnie o zawrót głowy.\nSkąd tutaj odczucie obecności Peccatulów…?\nCo więcej…\njest nieporównanie silniejsze niż wszystko, co czułem dotąd!",
+      "kr_sha256": "2a5bff0247e069b271fe6622158dcc6675f1902fe1a370516593e6e0e298e31c",
+      "en_sha256": "2973732bdc77cff2871f2d38e04630210529c7c8be6df23a35a0bf3eec0b10e1",
+      "origin": "ai"
+    },
+    "dataList[id=910709].place": {
+      "pl": "Budynek Yong-jin",
+      "kr_sha256": "7e1e8f6e09789df37171b8a7657e6d6ba23dca19d4f55390af33652e1739fc87",
+      "en_sha256": "cc9a5bc6849b5d19c77f99fdad1e7e28c3e1ea11c763b42803d5512c60a98104",
+      "origin": "ai"
+    },
+    "dataList[id=910709].title": {
+      "pl": "Źródło Grzechu",
+      "kr_sha256": "26548bc312220bb8c8de5e16bb6c2f763ee74b9fa4b71451081d84826c437b54",
+      "en_sha256": "a42636f6931492464259c13f874f3299671bca7a04820314dbf496b405d9774e",
+      "origin": "ai"
+    },
+    "dataList[id=910710].desc": {
+      "pl": "Na najwyższym, szóstym piętrze budynku zastaliśmy mężczyznę nerwowo zerkającego na zegarek kieszonkowy.\nWspierał ramię na wielkim mieczu, a jego twarz wykrzywiał groźny grymas.\nBez pytania widać, że przewodzi ludziom z Klanu Kurokumo, których pokonaliśmy po drodze.",
+      "kr_sha256": "19cf4fdf913f8bfe3c863d48cc855fd321c253067df2f9fd0881f066ab4db314",
+      "en_sha256": "89d589ea0f5e959d89b43c7c4196750a81d849b00666a7efb1500b5d856779bd",
+      "origin": "ai"
+    },
+    "dataList[id=910710].place": {
+      "pl": "Budynek Yong-jin",
+      "kr_sha256": "7e1e8f6e09789df37171b8a7657e6d6ba23dca19d4f55390af33652e1739fc87",
+      "en_sha256": "cc9a5bc6849b5d19c77f99fdad1e7e28c3e1ea11c763b42803d5512c60a98104",
+      "origin": "ai"
+    },
+    "dataList[id=910710].title": {
+      "pl": "Czarna Chmura",
+      "kr_sha256": "a78d90dd37259bc3499aefdb0b70ca700cac68f47f61182b677c6167c0c05a0a",
+      "en_sha256": "7ac9278d906d3a24f0fda320e63ee212ff99925c3d1e98cfe520a6844d9c9f34",
+      "origin": "ai"
+    },
+    "dataList[id=910711].desc": {
+      "pl": "Stanęliśmy wreszcie twarzą w twarz z mentorem Aeng-du.\nSpod przekrzywionego, pękniętego słomkowego kapelusza sączy się lodowaty, błękitny blask jego oczu.\n…Nie obejdzie się bez walki.",
+      "kr_sha256": "8017424b01f0627f25fe223c6de73e2264943687609aa3f9a3b9f4c54cd8e61e",
+      "en_sha256": "f76bacdc8045c453b5ef4b89a254f0f8cc4dfd6720dc7968c6bd6d361b24d9fd",
+      "origin": "ai"
+    },
+    "dataList[id=910711].place": {
+      "pl": "Budynek Yong-jin",
+      "kr_sha256": "7e1e8f6e09789df37171b8a7657e6d6ba23dca19d4f55390af33652e1739fc87",
+      "en_sha256": "cc9a5bc6849b5d19c77f99fdad1e7e28c3e1ea11c763b42803d5512c60a98104",
+      "origin": "ai"
+    },
+    "dataList[id=910711].title": {
+      "pl": "Kim w Słomkowym Kapeluszu",
+      "kr_sha256": "c5821d9ab78d47b0c740e118449c2341ecd507076936bf49f2c0ab60b39916e5",
+      "en_sha256": "5dfaa54722c0a4c2483a0368f56be63b2324f3e09406403237defb65cd049527",
+      "origin": "ai"
+    },
+    "dataList[id=910712].place": {
+      "pl": "Lustrzany Loch Głębi",
+      "kr_sha256": "e95257d3895317273fbe51bcc5a512ec41413abe6453ca1b17b1c99392651016",
+      "en_sha256": "7e1742e032e9548fbe011d083577943f529af3e4de1273a85c594ef77fb76c7b",
+      "origin": "ai"
+    },
+    "dataList[id=910712].title": {
+      "pl": "Głębia Demona Miecza",
+      "kr_sha256": "316bc6eaaf7789e0242bff670d70fd45fb7341637a77cfd3643442e442ffc0da",
+      "en_sha256": "494364f4c03324470e31dfecf45c4ce6b5858fd64f45a415f8588b49084c6c90",
+      "origin": "ai"
+    }
+  }
+}

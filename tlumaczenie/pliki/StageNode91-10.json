@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=911001].title": {
+      "pl": "Pierwsza Klasa",
+      "kr_sha256": "0de55473dc2bab7b00a49527c88b6438a4ec8b6ea4bcc1f88d6e034c8b7812aa",
+      "en_sha256": "05f37b334b1948b898f9994dd79c254974d5ea8d96bbef19a57a752b82b42a12",
+      "origin": "ai"
+    },
+    "dataList[id=911002].title": {
+      "pl": "Fikser z Północy",
+      "kr_sha256": "209f0f7422970549c12d968e283e28b072f6bde9788bec9b0b8dea21cfbb7992",
+      "en_sha256": "f8b8053256d369baf27c2f6cb8efab7a1446b8ae61a35b4bcc883adac7da435a",
+      "origin": "ai"
+    },
+    "dataList[id=911003].title": {
+      "pl": "Znikający Pasażerowie",
+      "kr_sha256": "81b0fa09746066715ff40863d3e6f665e953698cd38035d44e1d4b7857ae883a",
+      "en_sha256": "2375e4196e6bf4639d8397f2ca7dfd77dacaa039651da3bce1c241daf17a7048",
+      "origin": "ai"
+    },
+    "dataList[id=911004].title": {
+      "pl": "Brak Dostępu",
+      "kr_sha256": "da797deb8d4dfd3df5fde0af4a3bfdc221c730a583e5e3c2ef99278feee47f2b",
+      "en_sha256": "3f0806bdeddb6eb8bda587a22db3cbec89ae98ae0a3b715e3486e1a8880c4f21",
+      "origin": "ai"
+    },
+    "dataList[id=911005].title": {
+      "pl": "Biuro MultiCrack",
+      "kr_sha256": "e8960c26cf4b4ccdd1f94bcbb3f194a49cf0b571a70f3b5073a96d9ef7c0ce8d",
+      "en_sha256": "60af09b9ff3b6157ab2cf7eeccfac4818b321a2c0ba639a96e3611c945f54e5a",
+      "origin": "ai"
+    },
+    "dataList[id=911006].title": {
+      "pl": "Obraz Piekła",
+      "kr_sha256": "9b166134d7adc8665f2a7057b2f757e69796edf4b22ad1761c8c785b0baf3119",
+      "en_sha256": "c6169ea8b4efec672574a013b4139e426f5c67db1be5ce4347491f681ccfc4a2",
+      "origin": "ai"
+    },
+    "dataList[id=911007].title": {
+      "pl": "Obraz Piekła 2",
+      "kr_sha256": "0084ca2a4fabc0362c88d9fe9ddc065b289c771604faef883c410ace31fb9d6c",
+      "en_sha256": "10b0b99882f623b465ffbf338e5ad0fd2ce84678311f8b229336b3a9507a4f97",
+      "origin": "ai"
+    },
+    "dataList[id=911008].title": {
+      "pl": "Krwiożercy",
+      "kr_sha256": "7983603bf6eb46b6231f871978bd9204ec568cb0b75ec0725fd565a67919cb5f",
+      "en_sha256": "42540b562898517a4e1971e5475fc1a5ada6bbbd346ab75e0724bdb79503e1fc",
+      "origin": "ai"
+    },
+    "dataList[id=911009].title": {
+      "pl": "Agent Porządkowy",
+      "kr_sha256": "4fcf334e1a8607db4f0d4e048428fa95b2907efa73b9c2a66d3a3e8063b1853d",
+      "en_sha256": "8f40292e61a1b8896da76c0bc299439df5126ace41a79eb2dd3a031a098fd452",
+      "origin": "ai"
+    },
+    "dataList[id=911010].title": {
+      "pl": "Do Następnego Wagonu",
+      "kr_sha256": "6cf7a4b066bb8c67eda201fab0abc0a9ccc67f7b19bd570482cffedf42102c17",
+      "en_sha256": "a40ffc0a5e74df750fd061791dd30b80fb44e221eb2877b292fc72b0c0c306fb",
+      "origin": "ai"
+    },
+    "dataList[id=911011].title": {
+      "pl": "Do Następnego Wagonu 2",
+      "kr_sha256": "c9f8461c5a0ea7cee9558f2c46b246340c7b94845b009152b8565f92b04b0a6f",
+      "en_sha256": "2a854bc6620a665b5510743c9bb4ad68b83082958dfff648ae8fc62f339f97c3",
+      "origin": "ai"
+    },
+    "dataList[id=911012].title": {
+      "pl": "Fikserzy z Protezami",
+      "kr_sha256": "95fc057bc62d9d2c4e00d7dcb7cded9e9a888585c5146b2e73bbc79a1c35eeed",
+      "en_sha256": "04a049f37c53e0b2659988cae403d9a49b4cfe90c5f2fbd6b4495836c4aacba8",
+      "origin": "ai"
+    },
+    "dataList[id=911013].title": {
+      "pl": "Władca Orszaku",
+      "kr_sha256": "954c4e7704228f893c6e23ee1a9aa5b7608166ccf5b374d28aa0163151bc0331",
+      "en_sha256": "bbd3479d29fef42c678c323a3b22e4ac21f15c5f8e4bb6b48906a709302fdebc",
+      "origin": "ai"
+    },
+    "dataList[id=911014].title": {
+      "pl": "Negocjacje",
+      "kr_sha256": "ba7bffee6411c7ee061886fd6ce129dfad838610d3e3d2dda4b13f8d14327fa1",
+      "en_sha256": "10e9b6d546e84e61709e4762e73e14211176fc4a454339097edd67b39fea252d",
+      "origin": "ai"
+    },
+    "dataList[id=911015].title": {
+      "pl": "Niepewność",
+      "kr_sha256": "82101e665b5a9f129316c298dfe5ce906222b2d2f7f3532594be238e2266098c",
+      "en_sha256": "77b9ebf987ea64c6c250fa553f2377c314292279180aaff1242e7f2787a382b8",
+      "origin": "ai"
+    }
+  }
+}

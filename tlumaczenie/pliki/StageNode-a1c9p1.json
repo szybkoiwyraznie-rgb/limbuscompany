@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[id=10901].title": {
+      "pl": "Zasadzka w Mroku",
+      "kr_sha256": "2c9c95f3daf0e441fe3e36045fb8b849ee0e7cc6c910da5306f7a085e5f14ca1",
+      "en_sha256": "ee154f797cdde86c591c462d8c9aef8f11816dba72604f3ce78981edf2228570",
+      "origin": "ai"
+    },
+    "dataList[id=10902].title": {
+      "pl": "Pajęcza Nić",
+      "kr_sha256": "5806eb3f0ec42e5a771d5be37889b507ea11772d0946aa00adc1d88c6d1743a6",
+      "en_sha256": "aa0a2989289560fdf38199e4304a225003b3498fb19878ecbda7fdb68e6de5df",
+      "origin": "ai"
+    },
+    "dataList[id=10903].title": {
+      "pl": "Podręcznik",
+      "kr_sha256": "a849ca740ba90accb71732bf3c456eeac8c5ae9fed0924b3143298d756e36a86",
+      "en_sha256": "884786adffa34d9b1e4f9dcfb10e3a0eb8ca236d6dd7fee9c9b5871fbd6bd3a3",
+      "origin": "ai"
+    },
+    "dataList[id=10904].title": {
+      "pl": "Poszatkowane Wspomnienia",
+      "kr_sha256": "f58417fbb9b5e4dba52ef145d2ada4300fe52abbe5356cb3cb79f8e12b8b2ccf",
+      "en_sha256": "34bbf7f7cefb809a163bd69f17e5826558a59afe9061eb2850d7ecff7ce970a6",
+      "origin": "ai"
+    },
+    "dataList[id=10905].title": {
+      "pl": "Abikyōkan",
+      "kr_sha256": "d1e55d88d4f4cf0c09cebd3ba7f994d6924eadee17d268043c5b051519766de8",
+      "en_sha256": "a4d48117cf78572a7d72a596c667fe4c88dc94dbd18da7f6379ed640a87febfe",
+      "origin": "ai"
+    },
+    "dataList[id=10906].title": {
+      "pl": "Abikyōkan 2",
+      "kr_sha256": "25fee7540c5d7bc2ae9369e3743e51783c011a35c0b1eab855c7315087860cc5",
+      "en_sha256": "e2d6eb45f1c395e840c8348fa0105e595fd89a7399b5f3ea12958d171efefd1d",
+      "origin": "ai"
+    },
+    "dataList[id=10907].title": {
+      "pl": "Paradoks Spirali",
+      "kr_sha256": "dbc15cd83a34f8b00efa2abd720958a040adc07b3d1d4beb7b99147fcb7b0b45",
+      "en_sha256": "190031db03a7390ab63c37f8526cc24292e7b06b6749aa7d3095b03dce2b99e0",
+      "origin": "ai"
+    },
+    "dataList[id=10908].title": {
+      "pl": "Ułuda",
+      "kr_sha256": "d24d07694e980ef509760b93e668eb72159a000c09c9750795459663c8f52bff",
+      "en_sha256": "cb202ce740ea23b09a039a51724a26f05a05cbd44cb1fb5692f72a7c406b4201",
+      "origin": "ai"
+    },
+    "dataList[id=10909].title": {
+      "pl": "Błądzenie",
+      "kr_sha256": "ebe40c675af67b327b1088ce9ec3c1199cd0b86f03086c8fa56b2c490faad660",
+      "en_sha256": "cbe34ccaf7cd003d726bc3cb897803c7e4f2cafb7565d06a416fba8776a51cca",
+      "origin": "ai"
+    },
+    "dataList[id=10910].title": {
+      "pl": "Nieufność",
+      "kr_sha256": "4fa0c857c7d7472a1ca712bdb990da9bb93cb29ee7d45b8908397d38b7741dac",
+      "en_sha256": "df47b2f305e51058831ec93657e4f9a1b8d262f3695175bd14e169485569c908",
+      "origin": "ai"
+    },
+    "dataList[id=10911].title": {
+      "pl": "Splot Przeznaczenia",
+      "kr_sha256": "a5d525a66fcdc2a3034e3fc490859c5eb1be5d5a089125dc34d3d4d4b81485ba",
+      "en_sha256": "2e818e0ed0874479f97d9e589b55f0ac15bb798a07ddf8c629ee96c275071152",
+      "origin": "ai"
+    },
+    "dataList[id=10912].title": {
+      "pl": "Domniemany Cel",
+      "kr_sha256": "8ea7ffc69a5193ef645d987209e19223bc9d11f43980368663ff193050b9fa9c",
+      "en_sha256": "06a3d29a73cb15663c2cfeec53f6d73666029afea08440e820a25470b3e74fc5",
+      "origin": "ai"
+    },
+    "dataList[id=10913].title": {
+      "pl": "Shurajō",
+      "kr_sha256": "f90aa49413731ab541071b79279aa969a945b49f0c31ff89dad2ce3c6f228838",
+      "en_sha256": "c4bc9c6f6dac5f0b683ce26f5f752635cb908761d8abe569b341f5151f63d1f9",
+      "origin": "ai"
+    },
+    "dataList[id=10914].title": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "8eee68d760cca0e8ddb54b9be0e1e3206fb4b0e076deecab5b34cd18d1c0ccd0",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=10915].title": {
+      "pl": "Szkarłatna Sztuka",
+      "kr_sha256": "25d3246fef48f9dfe1cab0c1ed44623a337c5d925661e552c4de1347c7f56862",
+      "en_sha256": "46496c563d135f20c1987eadcbe580aa4e913dc4680ae35fedd29a6d6bec235e",
+      "origin": "ai"
+    },
+    "dataList[id=10916].title": {
+      "pl": "Palce",
+      "kr_sha256": "72b09f1f28b0fd5244a2e90dd8a63560d3ab17453ff29bcfcea21552325513cb",
+      "en_sha256": "e36c9ed4208ec3dfb71fd9dc7dbdaa5d2c7e7b23007ef1ef42b9b7f69ac9055d",
+      "origin": "ai"
+    },
+    "dataList[id=10917].title": {
+      "pl": "Ojcowie-Piastuni",
+      "kr_sha256": "e7f9d90d76c5d04c246bcc91b6091805619fd775873d4ead2a3fc51229a16c10",
+      "en_sha256": "3d8cac853edafe6575950cff6f21c82349a3412f9693c9d87586e67a3312d269",
+      "origin": "ai"
+    },
+    "dataList[id=10918].title": {
+      "pl": "Papierosy i Ojciec-Piastun",
+      "kr_sha256": "aa8f8803ed86e5f6473ff61fc0a2c38f697f437da2cfa35500276d67df911048",
+      "en_sha256": "0cd58930e0bf17669d333b318439cd8911f531ce49b53346ce33c20d05801b81",
+      "origin": "ai"
+    }
+  }
+}

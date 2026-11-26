@@ -59,6 +59,42 @@
       "kr_sha256": "69cfa3b753b647de3745c0320c87ee46e8d8d996689f0256de7df1cf54526cc5",
       "en_sha256": "8018ee000d7690bdf00c3451e214ebb6e016c49051244b88eb492d36ebfc02c5",
       "origin": "ai"
+    },
+    "dataList[id=10730].title": {
+      "pl": "W KTÓRYM MOWA O TAŃCZĄCYCH KRWIOŻERCACH I WYSTAWNEJ PARADZIE",
+      "kr_sha256": "4e12a7b8ba3b9f34960641c4e7a7df5e064f49ababa708f395fd99ba7be15ea4",
+      "en_sha256": "b50d18b682175f29bc32a4f4f0825144030aeffd87b7c6f82cb1466428abf4b0",
+      "origin": "ai"
+    },
+    "dataList[id=10731].title": {
+      "pl": "O WALKACH GRZESZNIKÓW W DRODZE NA CZOŁO PARADY",
+      "kr_sha256": "f0a3de57e54631abcbb9b91eebff8da8b6d249d6631c94cb1b5d15bb4792f931",
+      "en_sha256": "d1b4646dc79abe2f386c6c08cce2847c85185461b63ebc43f41f64625a2a782d",
+      "origin": "ai"
+    },
+    "dataList[id=10732].title": {
+      "pl": "W KTÓRYM OPOWIEDZIANO O NIEWDZIĘCZNOŚCI CASSETTIEGO I ŻAŁOSNYCH SŁOWACH PIEŚNI",
+      "kr_sha256": "f38b29b5ab85ec5b99f43700712fc0efc4bd55816527d64b49a395557ad60f34",
+      "en_sha256": "a601dbcbf990a5ce322443214dd557f38a314944e716c7556d0d6b3500f0fa1a",
+      "origin": "ai"
+    },
+    "dataList[id=10733].title": {
+      "pl": "W KTÓRYM TRWA DALEJ PARADA ROZPACZY",
+      "kr_sha256": "063c9f9c93cdc8df6ce1c7cb83c42675882f9a174e290a2fa474e0051bec6559",
+      "en_sha256": "757fd31400db0d944b53af5b26c11f006509e9e9d1d18c54a5dd2a7f148c0d21",
+      "origin": "ai"
+    },
+    "dataList[id=10734].title": {
+      "pl": "O TYM, CO PRZYTRAFIŁO SIĘ PIĘKNEJ DULCYNEI I DON QUIXOTE",
+      "kr_sha256": "ac2f5eadb203f8188de3a49c6f63c2bef62c27cac746de40d574df5b95b92722",
+      "en_sha256": "a760c316fbf4867094dc6c600cf8ec389bac70c3f9aa0d92dd31e90bc9352cba",
+      "origin": "ai"
+    },
+    "dataList[id=10735].title": {
+      "pl": "CIĄG DALSZY, W KTÓRYM MOWA O WSPOMNIENIACH NIEZBĘDNYCH DO WYJAŚNIENIA TEJ OPOWIEŚCI PRZYGODOWEJ",
+      "kr_sha256": "ee023c202e6b2586935a3899610a322830d8ebd397ac375da7e1e127b5b8a080",
+      "en_sha256": "8500b442709c6fac0451a24db77ef9d6a63b116e4d2c7ab0d8bd8f7693979e02",
+      "origin": "ai"
     }
   }
 }

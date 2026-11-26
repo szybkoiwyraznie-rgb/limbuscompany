@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[id=10919].title": {
+      "pl": "Dzieci",
+      "kr_sha256": "b642f4b4b990f8387501ff7d8662e47b7ac272e56846eeb0595dcf691140dd60",
+      "en_sha256": "3583a358a585b13b6d6228f12d2baf3ef937fcf50bed4a521b70f95a520bc933",
+      "origin": "ai"
+    },
+    "dataList[id=10920].title": {
+      "pl": "Dzieci 2",
+      "kr_sha256": "0d96d1c725fc354fbb2e79240973a03e9e7230ed64eb443f888e29b5f9b9972e",
+      "en_sha256": "2130124ca871fe0493f959087a0b801393d70d7c49983a1d5c227fc69d17c601",
+      "origin": "ai"
+    },
+    "dataList[id=10921].title": {
+      "pl": "Nowi Pracownicy",
+      "kr_sha256": "71eb9d1a1f8f77f5821eef6d946b4d2bad02d3d65c030d10718913a5379dc549",
+      "en_sha256": "051d64ae1cae2020fd6e8c362a3cd9e0506d98e0cc87fa77123f73fc4fc1bade",
+      "origin": "ai"
+    },
+    "dataList[id=10922].title": {
+      "pl": "Nowi Pracownicy 2",
+      "kr_sha256": "abf4be000cd7a098feeb5fe27b8ebb4184277f504c5ac879295055ef0ee79c1f",
+      "en_sha256": "b9a0a77b97422391825acb94b548f94579ddb5e66cfd26b38e3bbb0fee7997ef",
+      "origin": "ai"
+    },
+    "dataList[id=10923].title": {
+      "pl": "Widownia",
+      "kr_sha256": "c7ab8ce28a53cfd0982631fd648a6a3357d86d775621605e593173d4acdd6aca",
+      "en_sha256": "545c02357695a6ffed97b01a94a46b9aeb4686f4480173da6d0faeae8eb85053",
+      "origin": "ai"
+    },
+    "dataList[id=10924].title": {
+      "pl": "Zabawa w Chowanego",
+      "kr_sha256": "ab4b3265b7d77823750f2729510bec747a0c6e3b7a6c032bdd4a73c08dedf16e",
+      "en_sha256": "c8dda5cff63d709f3dc910b39c14bc24427679c20be4e05a0b24f723ae78a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=10925].title": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "7da0f622536e8ea677e7fb98547199ad0aaf1d7d5133b8c63203de47569a6d90",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=10926].title": {
+      "pl": "Wstrząsowa Stonoga 2",
+      "kr_sha256": "607f41ebd2bbc383cd4e8a59c2b2ddfbe9cc5b20a746df13e80ab452961355d8",
+      "en_sha256": "df3f1b278d24aa79d753f7b6deb9f3da45e719f51477228d9b30335a49d04ad9",
+      "origin": "ai"
+    },
+    "dataList[id=10927].title": {
+      "pl": "Kontrakt",
+      "kr_sha256": "38de236ecca580401830f545a5204df6535003694fe8d62b2d23328fb3114cf7",
+      "en_sha256": "becd2d24dc0523fde61c6020366613896f2035ca17419c13ab3be5424a8e0760",
+      "origin": "ai"
+    },
+    "dataList[id=10928].title": {
+      "pl": "Kontrakt 2",
+      "kr_sha256": "b21c2e50badc97a95a1833c37a063ecbfd80eedb83dd7e1e78b7484cecf7dab7",
+      "en_sha256": "e9dcddec155c85a6a659e2c3c64534fcc8dd768908753a12f448710e5289d4b4",
+      "origin": "ai"
+    },
+    "dataList[id=10929].title": {
+      "pl": "Kontrakt 3",
+      "kr_sha256": "0a817a0f7cd7ec75c32f031a72f5f598cba1b77f39fb1d84659b9a1074b37e88",
+      "en_sha256": "e1c0a169ab2a9e396e5672fe68df96bba84b8c2c8ff80bdbf3dc2c2a054df3d4",
+      "origin": "ai"
+    },
+    "dataList[id=10930].title": {
+      "pl": "Wola Nakazu",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=10931].title": {
+      "pl": "Nasiąknięta Bawełna",
+      "kr_sha256": "ae37e39c4db348b50949238fff54c2f6c40bd5c7e0ad7f06c56cdbe730d6f789",
+      "en_sha256": "18a0a4cf63a63d4dcad7970583b449127e65a6780d613b66cc18719181429656",
+      "origin": "ai"
+    },
+    "dataList[id=10932].title": {
+      "pl": "Piękny Błękitny Blask",
+      "kr_sha256": "1656e8debaf821b4a7ae74ce8b0064c365f9e8cab9100e145ec649272bf0d518",
+      "en_sha256": "b731deeb85c6a2c8481add007767fd26420986d4d94eedaab02cae36a552a6cc",
+      "origin": "ai"
+    },
+    "dataList[id=10933].title": {
+      "pl": "Jedna Wyraźna Nić",
+      "kr_sha256": "34a6c04cea36eee5b53a6bca6d03284592cea4eee1e51c17d22aa0c036196615",
+      "en_sha256": "d584da8f116abe2aa584a62a398bb574290bc79563d4e5ba68b5dcb68d1245cc",
+      "origin": "ai"
+    },
+    "dataList[id=10934].title": {
+      "pl": "Do Domu",
+      "kr_sha256": "8a97350e9fb8cc1c83d48bbb9d00bc3d20dc2f5aafc84bb1e4d5f8b9a34432e4",
+      "en_sha256": "a6ebbadff605c87c4d814e550f56440ab06721ce93f25d8e62551854486e44e2",
+      "origin": "ai"
+    },
+    "dataList[id=10935].title": {
+      "pl": "Sejf",
+      "kr_sha256": "378616ed43b6ef63a4c556144b9a041ca5daa2156d64cc05fbc8d6bb1f2dc9b9",
+      "en_sha256": "eb74ad790f3c90e37a9781e88a3f87c566637280045fb59070ce4b23f49ba436",
+      "origin": "ai"
+    }
+  }
+}

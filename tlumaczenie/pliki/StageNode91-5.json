@@ -1,0 +1,238 @@
+{
+  "entries": {
+    "dataList[id=910501].desc": {
+      "pl": "Oczekiwanie na Jeziorze dłuży się bez końca, a Grzesznicy niemal padają z nudów.\nWtem zniecierpliwiony Heathcliff zagaduje Vergiliusa…",
+      "kr_sha256": "434e845d0a55bae5062cc5abd1830156ce40e5babdd8854b6610df0654bf7242",
+      "en_sha256": "121de5a4569f5ddc5d1ab498e58e4adb773f1ed4d4b3aee0c8540d5e81105e63",
+      "origin": "ai"
+    },
+    "dataList[id=910501].place": {
+      "pl": "Autobus-Łódź Mefistofeles",
+      "kr_sha256": "fd0a83494dae30ebf5d8a3e796201199b2dc87e4d4bd0b1e731f38811a8a69e3",
+      "en_sha256": "a2b7c10180b9e2bf6609240d55d4154bd0d2fa7c53ac1f16fe3cbd295837967c",
+      "origin": "ai"
+    },
+    "dataList[id=910501].title": {
+      "pl": "Nuda",
+      "kr_sha256": "b8fb53470843c312b5c33bab22fc26c736376812457e708e101494fd3d78ae7b",
+      "en_sha256": "5d0f9fbba120f7b0ca18f11407dc3e04454a6a1a28546783b07d6418871033ba",
+      "origin": "ai"
+    },
+    "dataList[id=910502].desc": {
+      "pl": "Don Quixote z tajemniczą miną zaprowadziła nas do sterówki.\nWidniał tam monitor, w który Faust wpatrywała się przy każdym wahaniu Tylnych Drzwi… a na ekranie ciągnęły się nieznane znaki.",
+      "kr_sha256": "41e343ea69262c5318078b8d87dcc32ae2b4fc70d0fd93a1816d51c89240928b",
+      "en_sha256": "475c7f1645b4d9b5bf35cea19e5f49a2a7deec993625fdf22189f511758b0bad",
+      "origin": "ai"
+    },
+    "dataList[id=910502].place": {
+      "pl": "Autobus-Łódź Mefistofeles",
+      "kr_sha256": "fd0a83494dae30ebf5d8a3e796201199b2dc87e4d4bd0b1e731f38811a8a69e3",
+      "en_sha256": "a2b7c10180b9e2bf6609240d55d4154bd0d2fa7c53ac1f16fe3cbd295837967c",
+      "origin": "ai"
+    },
+    "dataList[id=910502].title": {
+      "pl": "Kusząca Propozycja",
+      "kr_sha256": "b577eb1df5efddd467b14eb49d3f2d214da48a9ed7c1cfa9d6da770ad6214316",
+      "en_sha256": "3c5cbef5fe63f7348ed58d976d9f6b85981375d04368bb1b21d3b9a7c01896ed",
+      "origin": "ai"
+    },
+    "dataList[id=910503].desc": {
+      "pl": "Gdy otworzyliśmy wypatrzone przez Don Quixote Tylne Drzwi i weszliśmy do środka, naszym oczom ukazało się wnętrze przypominające fabrykę.\nDon Quixote, najwyraźniej nie będąc tu po raz pierwszy, swobodnie kogoś woła…",
+      "kr_sha256": "1ef0241ea6d8059dc7d37790a4f83625dd4cb56d0508a78a7093afe39543c604",
+      "en_sha256": "189525f0d40931f0961e8b0f66dec7e34f21c69662c5bc416591eb1b2c6f50d3",
+      "origin": "ai"
+    },
+    "dataList[id=910503].place": {
+      "pl": "Tylne Drzwi Autobusu",
+      "kr_sha256": "2b603748dca02245a92775b2fae548de470d2892ed26ac2f07bd7c59c126f064",
+      "en_sha256": "df9f60a992ebdaca755a916643b98e0b3bf43caeeaa05078697948abdfdfdde8",
+      "origin": "ai"
+    },
+    "dataList[id=910503].title": {
+      "pl": "Nieoczekiwana Wyprawa",
+      "kr_sha256": "c067ea68d6b077ea55e6a20e9e36c722ea7ba50b2c10298964a609de0fc375b1",
+      "en_sha256": "ec48a231f1f6d98eb4a4d6a12821fe1b57048d86e7a594ac03e2b5570dcc7b0d",
+      "origin": "ai"
+    },
+    "dataList[id=910504].desc": {
+      "pl": "Z worka spoczywającego na saniach wypadło małe dziecko oraz kilkoro okaleczonych ludzi.\nWygląda na to, że zostali tu uprowadzeni… Co tu się właściwie dzieje?",
+      "kr_sha256": "92555bf8fddada1a3f00a9338aba09c02e8d6c1e732fb2677c452ffda928566e",
+      "en_sha256": "fb4d7d0de8b9bd45720417ec83cce2e63d599268a28017f8ec7ec53f0ef196bf",
+      "origin": "ai"
+    },
+    "dataList[id=910504].place": {
+      "pl": "Salon Fabryki Prezentów",
+      "kr_sha256": "e1d03c84dcafb407207f4373a4a861d21caa8213efdfd8a4b9a813ed68b2f696",
+      "en_sha256": "e0b52438340a16037839a8bf60170991bd3676796a49ccf277a69b6f785c466a",
+      "origin": "ai"
+    },
+    "dataList[id=910504].title": {
+      "pl": "Prezenty Potworów",
+      "kr_sha256": "78fb14d76f3082635493b8bfb0c318b329e5b66b3c3df64d057dcad54c4797a3",
+      "en_sha256": "e019d088406875e693e510dc057528cf3a2858a1011d3bef676930c939536595",
+      "origin": "ai"
+    },
+    "dataList[id=910505].desc": {
+      "pl": "Gdy Heathcliff i Don Quixote padli nieprzytomni, a moje życie zawisło na włosku, ocalili mnie nadbiegający Grzesznicy.\nNigdzie jednak… nie widać dwójki uśpionej gazem.",
+      "kr_sha256": "4c72cb069167f79f71bf7695bee3329e8c80d160cd6bbbf7dd0dd222c655cb4b",
+      "en_sha256": "96ea3e565d55536d6c0e74f83a01f9f3fca76919eeb9e8939ca7a3f8880415ea",
+      "origin": "ai"
+    },
+    "dataList[id=910505].place": {
+      "pl": "Sortownia Prezentów",
+      "kr_sha256": "94b14da4de7394de72bf9f5dda7f8d29e7ff8d4753dd133793d6d790384363ec",
+      "en_sha256": "9a346950e4821eea1b8fd30ad075f32d459cef8b77cdd4a0dc7d9ffb565733e2",
+      "origin": "ai"
+    },
+    "dataList[id=910505].title": {
+      "pl": "Wzruszające Spotkanie",
+      "kr_sha256": "10fc25990f2b0d024d1574cc7f08c953c08f4f1acaa866f1827f136e5728f3b1",
+      "en_sha256": "5b93b1b8eddff3c04e162c16d068b94c2f3a8e0ac6c2b7fc6bbfddc7099c4f8a",
+      "origin": "ai"
+    },
+    "dataList[id=910506].desc": {
+      "pl": "Musieli zostać zaciągnięci w głąb fabryki — pewnie razem z małą Crayon… Musimy jak najszybciej ich odnaleźć i wracać.",
+      "kr_sha256": "a598b3fa9a4ed9fc2566db4ee30679a9e2b1892ecd0e276d24176f7e86611937",
+      "en_sha256": "6833185b75503d0b892489e9d4dab3764980b93c1a9e836b9bc7553f8ae09fb7",
+      "origin": "ai"
+    },
+    "dataList[id=910506].place": {
+      "pl": "Sortownia Prezentów",
+      "kr_sha256": "94b14da4de7394de72bf9f5dda7f8d29e7ff8d4753dd133793d6d790384363ec",
+      "en_sha256": "9a346950e4821eea1b8fd30ad075f32d459cef8b77cdd4a0dc7d9ffb565733e2",
+      "origin": "ai"
+    },
+    "dataList[id=910506].title": {
+      "pl": "W Poszukiwaniu Dwójki",
+      "kr_sha256": "c192195eb378a6159340107fb9640381186f4704a29f764bbe02475ac5c7f365",
+      "en_sha256": "ca8d1563c7e64108cd4f85e76966a60953a86f456958c690fa1190e4279efe18",
+      "origin": "ai"
+    },
+    "dataList[id=910507].desc": {
+      "pl": "Musieli zostać zaciągnięci w głąb fabryki — pewnie razem z małą Crayon… Musimy jak najszybciej ich odnaleźć i wracać.",
+      "kr_sha256": "a598b3fa9a4ed9fc2566db4ee30679a9e2b1892ecd0e276d24176f7e86611937",
+      "en_sha256": "6833185b75503d0b892489e9d4dab3764980b93c1a9e836b9bc7553f8ae09fb7",
+      "origin": "ai"
+    },
+    "dataList[id=910507].place": {
+      "pl": "Sortownia Prezentów",
+      "kr_sha256": "94b14da4de7394de72bf9f5dda7f8d29e7ff8d4753dd133793d6d790384363ec",
+      "en_sha256": "9a346950e4821eea1b8fd30ad075f32d459cef8b77cdd4a0dc7d9ffb565733e2",
+      "origin": "ai"
+    },
+    "dataList[id=910507].title": {
+      "pl": "W Poszukiwaniu Dwójki",
+      "kr_sha256": "c192195eb378a6159340107fb9640381186f4704a29f764bbe02475ac5c7f365",
+      "en_sha256": "ca8d1563c7e64108cd4f85e76966a60953a86f456958c690fa1190e4279efe18",
+      "origin": "ai"
+    },
+    "dataList[id=910508].desc": {
+      "pl": "Fabryka okazała się znacznie większa i bardziej zawiła, niż przypuszczaliśmy. Dla kogo i po co właściwie powstają te prezenty?",
+      "kr_sha256": "d88b2588d96bbe8245ec77ba6569d15628efe8380c6ff9467ed02fa38e239197",
+      "en_sha256": "bcf6f292c3f75ea43ee1dd4af3b1a12008e87d75592ca1d893245a3ab1b8c146",
+      "origin": "ai"
+    },
+    "dataList[id=910508].place": {
+      "pl": "Hala Zbiorcza Prezentów",
+      "kr_sha256": "7a3b6d833738aea5bbe0277d9c6687d3c1100414db841db14e7b80a33ea8eaca",
+      "en_sha256": "e9c97d9518d4993b91a0282b800cfc53a44e6fc6d736d252c23bdbd314a7c0c9",
+      "origin": "ai"
+    },
+    "dataList[id=910508].title": {
+      "pl": "Komu Pakują Prezenty",
+      "kr_sha256": "d34ff5c1e72c7ef7e45a0670d3415857d6831b66af549dea238faa19a630bd70",
+      "en_sha256": "2b65bc136702771e813a627a5af33577ff781a8e870862c24bed3e35da91c418",
+      "origin": "ai"
+    },
+    "dataList[id=910509].desc": {
+      "pl": "Fabryka okazała się znacznie większa i bardziej zawiła, niż przypuszczaliśmy. Dla kogo i po co właściwie powstają te prezenty?",
+      "kr_sha256": "d88b2588d96bbe8245ec77ba6569d15628efe8380c6ff9467ed02fa38e239197",
+      "en_sha256": "bcf6f292c3f75ea43ee1dd4af3b1a12008e87d75592ca1d893245a3ab1b8c146",
+      "origin": "ai"
+    },
+    "dataList[id=910509].place": {
+      "pl": "Hala Zbiorcza Prezentów",
+      "kr_sha256": "7a3b6d833738aea5bbe0277d9c6687d3c1100414db841db14e7b80a33ea8eaca",
+      "en_sha256": "e9c97d9518d4993b91a0282b800cfc53a44e6fc6d736d252c23bdbd314a7c0c9",
+      "origin": "ai"
+    },
+    "dataList[id=910509].title": {
+      "pl": "Komu Pakują Prezenty",
+      "kr_sha256": "d34ff5c1e72c7ef7e45a0670d3415857d6831b66af549dea238faa19a630bd70",
+      "en_sha256": "2b65bc136702771e813a627a5af33577ff781a8e870862c24bed3e35da91c418",
+      "origin": "ai"
+    },
+    "dataList[id=910510].desc": {
+      "pl": "Wskazane przez Meursaulta miejsce okazało się linią produkcyjną prezentów. Widok podarków tłoczonych z porwanych „surowców” był wstrząsający.\nCo gorsza, odnaleziona wreszcie dwójka Grzeszników lada chwila sama miała stać się prezentami…",
+      "kr_sha256": "e6f114ddc1be3c7f412fff723daac0519016140e67f4a040deb181fbce3287ce",
+      "en_sha256": "c2dc909619efec10997226be91f0e195c10fe0d2b4af3f54add5a275fb418a9d",
+      "origin": "ai"
+    },
+    "dataList[id=910510].place": {
+      "pl": "Wytwórnia Prezentów",
+      "kr_sha256": "1297073e49edeba6d684f4da072fc2b3a67621c2c21f5394dcea7e6ef65a4cd7",
+      "en_sha256": "19a5db67fdf2b819d58369f9d2b7b11e0bf932509ace23267c136569f8c9709b",
+      "origin": "ai"
+    },
+    "dataList[id=910510].title": {
+      "pl": "Prezent Wykuty z Nienawiści",
+      "kr_sha256": "7c0f3a4089b269122f38fa67b222d09ada1c13453461c6626540ad275f9db10d",
+      "en_sha256": "9c45a52802940a79038314cc91495862767782080caa6c8b1bbb2c8abda8ea2f",
+      "origin": "ai"
+    },
+    "dataList[id=910511].desc": {
+      "pl": "Na negocjacje z brodatym olbrzymem Santatą nie było co liczyć. Musimy pokonać go tutaj.",
+      "kr_sha256": "99fb4d6465b9bb1313feeed5b97422634f8c9f6ca11a3da15655f234933a0640",
+      "en_sha256": "2228bc85d57dff9791d55bd06853c253a9da5c22cdcf23073440412d7a6f4f44",
+      "origin": "ai"
+    },
+    "dataList[id=910511].place": {
+      "pl": "Wytwórnia Prezentów",
+      "kr_sha256": "1297073e49edeba6d684f4da072fc2b3a67621c2c21f5394dcea7e6ef65a4cd7",
+      "en_sha256": "19a5db67fdf2b819d58369f9d2b7b11e0bf932509ace23267c136569f8c9709b",
+      "origin": "ai"
+    },
+    "dataList[id=910511].title": {
+      "pl": "Olbrzym Rozwożący Prezenty",
+      "kr_sha256": "7795b386002c4dfb9d974fa98588b07f805e5e9c797c30238631841fbedb02d3",
+      "en_sha256": "c2d99bfbbfa2a0d17b682b1eefa1b05563f104d2a5cac5f1af57cb115edb7769",
+      "origin": "ai"
+    },
+    "dataList[id=910512].desc": {
+      "pl": "Santata padł, lecz jego ciało zaczęło pęcznieć, jakby szykował się do samozniszczenia. W tej samej chwili skądś dobiegł nieznajomy głos…",
+      "kr_sha256": "ce1f077bd766c51105d64629ac20321bb20e0fd95be08f2e70fc671a42d1be2b",
+      "en_sha256": "a24870b359467c1892a90c56290a63df1b27396055924a176e183e1c84093812",
+      "origin": "ai"
+    },
+    "dataList[id=910512].place": {
+      "pl": "Wytwórnia Prezentów",
+      "kr_sha256": "1297073e49edeba6d684f4da072fc2b3a67621c2c21f5394dcea7e6ef65a4cd7",
+      "en_sha256": "19a5db67fdf2b819d58369f9d2b7b11e0bf932509ace23267c136569f8c9709b",
+      "origin": "ai"
+    },
+    "dataList[id=910512].title": {
+      "pl": "Kres Wyprawy",
+      "kr_sha256": "f309b7efa2e21e486de85f8bfa3e9158d5a8a79b2314c4a3e0e59380f7418ce2",
+      "en_sha256": "9b585140bc3ef08891738f492d18ef1ada9b6db7954f68c498d23d8ab18e0fb3",
+      "origin": "ai"
+    },
+    "dataList[id=910513].desc": {
+      "pl": "Na negocjacje z brodatym olbrzymem Santatą nie było co liczyć. Pozostaje rozprawić się z nim własnoręcznie.",
+      "kr_sha256": "9ca3de9961867599b89d86b17fba490cb57b18680c0427f509b20d0811ece637",
+      "en_sha256": "2228bc85d57dff9791d55bd06853c253a9da5c22cdcf23073440412d7a6f4f44",
+      "origin": "ai"
+    },
+    "dataList[id=910513].place": {
+      "pl": "Wytwórnia Prezentów",
+      "kr_sha256": "1297073e49edeba6d684f4da072fc2b3a67621c2c21f5394dcea7e6ef65a4cd7",
+      "en_sha256": "19a5db67fdf2b819d58369f9d2b7b11e0bf932509ace23267c136569f8c9709b",
+      "origin": "ai"
+    },
+    "dataList[id=910513].title": {
+      "pl": "Santata",
+      "kr_sha256": "641f924256649d3435c57970f5e68d06a9a278c217f16ce73a248209d82f69a8",
+      "en_sha256": "5c4da9674b3e14c635d0888a0658e03db8387b37e9a2e1140a0b7cbaecf4b1f0",
+      "origin": "ai"
+    }
+  }
+}

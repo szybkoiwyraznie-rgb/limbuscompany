@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=dungeon_battle_reward_case_format_chip_acquisition].content": {
+      "pl": "Po końcowym ukończeniu zyskaj dodatkowo {0} Gwiezdnego Blasku",
+      "kr_sha256": "14434d90025489493db1da47b2151cdf45cdf12d2ebb767f96a6f9c334c94ff7",
+      "en_sha256": "ba53bc4f93dcf41b38c4a9867393fc3a5833fc8d1cf5bbc39b819a49d20ad9bb",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_cost_acquisition].content": {
+      "pl": "Zyskaj {0} Kosztu",
+      "kr_sha256": "a1d1647bf7ebc61e61c84ba13c3971a2c0078bb2102738c5a26e07c2437af042",
+      "en_sha256": "ecf91f310cb5730a7c44960174f4e50a7a5798bab6f4ae10af8619e0ee873f52",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition].content": {
+      "pl": "Zyskaj {0} Kosztu\n{1}% szansy na losowy Dar E.G.O",
+      "kr_sha256": "1a1493be873b3cb7b10f5e8d736b7b397eb92753de6fc182a47a72f87b1ee718",
+      "en_sha256": "ab34923dbb5efdc7731cd057fec3623e659ac718b85882c782a527d90a97c4e6",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_cost_and_gift_acquisition].content": {
+      "pl": "Zyskaj {0} Kosztu\n{1}% szansy na losowy Dar E.G.O rangi {2} lub niższej (z kategorii słowa kluczowego wybranego na starcie)",
+      "kr_sha256": "f5ed629a6165d7b14ff66b3cdaf96dc64c1104a4aafaf239dd44d62decdc48fe",
+      "en_sha256": "ee9a0f1ec391c8aadbf2944bece0bbc73c7cdaf6f1ac665a551b0a99adff6a7d",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword].content": {
+      "pl": "Zyskaj {0} Kosztu\n{1}% szansy na losowy Dar E.G.O ({3}) rangi {2}",
+      "kr_sha256": "533273e36409f08429183a9f546fb89c1be8209f77444be20c632e5fba9c7c7a",
+      "en_sha256": "d2e8b24dfa60d3704ae9a5cbb197cd2893cac30b67f9e4fb71d336aaf5a9cc90",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword_none_or_random].content": {
+      "pl": "Zyskaj {0} Kosztu\n{1}% szansy na losowy Dar E.G.O rangi {2}",
+      "kr_sha256": "a5e275b1d0c1b1b64c888c75bf1ec2b7d3c074499e08525dc16aad7c5b485216",
+      "en_sha256": "e97550d20eda90b7ee9ab830d58e08cecbd29db2088a8f5f9cf59eb424adc0de",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_least_ego_resource_acquisition].content": {
+      "pl": "{0} najrzadsze rodz. zasobów E.G.O +{1}",
+      "kr_sha256": "baf42fabdec43cd1135168a28692b97d4f4d3881682f230806c1f7143f885237",
+      "en_sha256": "9697e1f1e3a9341f9395dd2395e44d79450c7cfa7bf4c128b7f2679339fe72f2",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_random_ego_resource_acquisition].content": {
+      "pl": "{0} los. rodz. zasobów E.G.O +{1}",
+      "kr_sha256": "ae738ee73e09eb2967cb2147d5253910d065fc1e449acba717e2dccff43205cd",
+      "en_sha256": "25a17c028a5bb24379f70f3386303f0492fa348aacff24f95310f3f7d37dcb09",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_battle_reward_case_format_random_gift_acquisition].content": {
+      "pl": "Zyskaj losowy Dar E.G.O rangi {0}",
+      "kr_sha256": "d3bf4737fa8dc9214506b9da6f76f350e438503d6feb082ee27441c02422d088",
+      "en_sha256": "fb486a9fbfeb09d007292630c614aefe0de7a9c4136309303679cdd5c8a2d585",
+      "origin": "ai"
+    }
+  }
+}

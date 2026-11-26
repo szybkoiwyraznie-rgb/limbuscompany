@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=10821].title": {
+      "pl": "Głowa Rodu Hongyuanu",
+      "kr_sha256": "a4fb03aacf4ce46071588e16f712ddbeb7ed069caccd846d5a459869d9c5eb5c",
+      "en_sha256": "3f70e4e17b03910ac0df221a76bdf1b02287c64c69dc06f3edc0f37d7fe3b92f",
+      "origin": "ai"
+    },
+    "dataList[id=10822].title": {
+      "pl": "Chwilowy Wakat",
+      "kr_sha256": "6d9bb82ea3000f4b7ad4717789df50fe2a98f4951bec8321978ffad9b964a1a1",
+      "en_sha256": "58a1a6749580d9f91c0e438f27eff2040f1fc952ff30e5510110ae5d333074c7",
+      "origin": "ai"
+    },
+    "dataList[id=10823].title": {
+      "pl": "Cudza Sprawiedliwość",
+      "kr_sha256": "c1321aba0916206c491bad932a2876e36327ad7e3400d1d98a3a6fc3ff3edae6",
+      "en_sha256": "c7f509697e4df05904269aec14f0b27ceb6145158cb08b0a3158f321988d2775",
+      "origin": "ai"
+    },
+    "dataList[id=10824].title": {
+      "pl": "Postępek Złodzieja",
+      "kr_sha256": "43e43c02b35938fc66096ac6906b9a42550b0d5583bad59616b3f6214497ac64",
+      "en_sha256": "022a0707155771b1228ee2ef55d127261d15e66f8f3bea030bac4d162487e863",
+      "origin": "ai"
+    },
+    "dataList[id=10825].title": {
+      "pl": "Wola Zmiany",
+      "kr_sha256": "18418b6485172a543c8783fb013c5ff948933b8cd6eefb1d4eef7ea53a2df639",
+      "en_sha256": "4b49eb9edcdae4b3ddf5f2a48f51cf5d96fc32af6010aca96756dc561d22c3b2",
+      "origin": "ai"
+    },
+    "dataList[id=10826].title": {
+      "pl": "Niedorzeczny Pomysł",
+      "kr_sha256": "9881805f50af93a7b419026410e5cb6816e8d9b9a47c38aa52ff58b15a38f0bf",
+      "en_sha256": "149a4497f65e2ba97ec3cfafcdf209d12e8d4fa6bc6a1da5f34221e8a5bfbb4a",
+      "origin": "ai"
+    },
+    "dataList[id=10827].title": {
+      "pl": "Drugie Pole Bitwy",
+      "kr_sha256": "67292a4546ec9860d78f0936506d175e0aceeb148c3db3f81d87830e3e1a13f1",
+      "en_sha256": "0fb26b48ae67ec99627d3d6ed720b382a84c730894639f2c472caab09cd59f1f",
+      "origin": "ai"
+    },
+    "dataList[id=10828].title": {
+      "pl": "Ci, Którzy Nie Osądzają",
+      "kr_sha256": "1bbd51e618190ec55ea6c980ddcf7bae32b55c27a591403e0c5b771a9754b771",
+      "en_sha256": "ae7e42c487b0a3145056627573d8469695861e5ac2ddf6de5352ea6aa502c7ca",
+      "origin": "ai"
+    },
+    "dataList[id=10829].title": {
+      "pl": "Ci, Którzy Nie Osądzają 2",
+      "kr_sha256": "ee4bf24eca311ab445805ab28cb51dc38204183b507763e4db5c5746be43c485",
+      "en_sha256": "627128a617e677b855942b037b75aaec080ef49b99d0b7d52b09abf67e8f1220",
+      "origin": "ai"
+    },
+    "dataList[id=10830].title": {
+      "pl": "Serce",
+      "kr_sha256": "aa9cbf25b5381e2c30cdba3cd4e0f89e9c434f8f6339a6a752f5b0fdea6981e7",
+      "en_sha256": "8f36f6e4a17e2c8f53a44c9dc6e3a325b5911cb984e3c33e44d4a67c30075e02",
+      "origin": "ai"
+    },
+    "dataList[id=10831].title": {
+      "pl": "Chwilowy Rozejm",
+      "kr_sha256": "3a1b55dc0915f14be076f51f259dbad12c585efec8d8f44f014968bdd06450d6",
+      "en_sha256": "70fe86155914b89fd24cc3656c15426e4196d8fa37f30fa496c174b5be83b581",
+      "origin": "ai"
+    },
+    "dataList[id=10832].title": {
+      "pl": "Wieczna Młodość i Nieśmiertelność",
+      "kr_sha256": "1fda666a6a7a40d0836b3b444bf8b150836b0eca3fc158ee72af319717438de4",
+      "en_sha256": "0e369d8fbe1310d07513cb0bfc71b35dbe3cbc6572022bd7482edd78356ddf1c",
+      "origin": "ai"
+    },
+    "dataList[id=10833].title": {
+      "pl": "Radość, Gniew, Smutek i Uciecha",
+      "kr_sha256": "c77ff8d4f1e8953246094c08e2036cd9f9bd59c17ac9228a3495d8636d990196",
+      "en_sha256": "a614e2e0bfe739f4b578ef17dcf5997bc177d9c0e276f454a96bc1331dd27258",
+      "origin": "ai"
+    }
+  }
+}

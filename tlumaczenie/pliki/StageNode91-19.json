@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=911901].title": {
+      "pl": "Dowód Głowy Rodu",
+      "kr_sha256": "9714601dac199b7fbf2ac70cd2326eca5b2130d6d4a5360507e22f9e753aff70",
+      "en_sha256": "2f2cc3fb3e4774c579d9d4d0280126b6b1555af873a0f0bdb32ad49b3adb7361",
+      "origin": "ai"
+    },
+    "dataList[id=911902].title": {
+      "pl": "Dwunastu Nauczycieli",
+      "kr_sha256": "5ef72bbb33b78cd0d281ddef9eeb18dbc80c735d8d3091c4e8f11408beecff33",
+      "en_sha256": "135d3f3358abb487cc6900c743969dd6a2af000b1adbee39d33afe390473c9be",
+      "origin": "ai"
+    },
+    "dataList[id=911903].title": {
+      "pl": "Jeszcze Jeden Uczeń",
+      "kr_sha256": "4b75799602d01eb7a67f07be94819f538c1733c5c93824a1237a5737fa3505af",
+      "en_sha256": "84d266cbf4105b4a771917857b8fd6bf729b7f7d4b100a5ad44582fc04cf9e54",
+      "origin": "ai"
+    },
+    "dataList[id=911904].title": {
+      "pl": "Trzydzieści Dni Lekcji",
+      "kr_sha256": "bdd3f71b6a7026be6fa21e5a02cbfcaa177a7b8cd46215466a7988e78e3076fd",
+      "en_sha256": "1a019ed0323ef3bdd5f80d9008ca5726397cbefca47bbf429ebb4d19e9485b75",
+      "origin": "ai"
+    },
+    "dataList[id=911905].title": {
+      "pl": "Egzamin Końcowy",
+      "kr_sha256": "436cb6190ee4038cef8a2977471ab77b920dd92bec70b0ab0985ef057a93e982",
+      "en_sha256": "9da3b513f6533d26e5cc843375344057e8fece6f63ebd19549c02ffb36d0710c",
+      "origin": "ai"
+    },
+    "dataList[id=911906].title": {
+      "pl": "Operacja Ratowania Głowy Rodu",
+      "kr_sha256": "c1b5172f9ebdc7c19697fdf5f7a7f546ef526accdee0eeeb9e3d40b26ac2e2aa",
+      "en_sha256": "11ea74329988d7a3b79ba5f97174390b5ee87445d2881eb2c67c4517e586a0d3",
+      "origin": "ai"
+    },
+    "dataList[id=911907].title": {
+      "pl": "Operacja Ratowania Głowy Rodu 2",
+      "kr_sha256": "f6316efa51d73a117c40736158bbf17a86368780d1638a647dcf0bbeced672a2",
+      "en_sha256": "4fffa8390b065af5aa598037d7e57bda55b56bf4f4789625f0e676ea63dea877",
+      "origin": "ai"
+    },
+    "dataList[id=911908].title": {
+      "pl": "Adeptka",
+      "kr_sha256": "699c8f7710f891f182b1cf9e1a79af2f64d82bda2a216c59cc864437c9f30d6e",
+      "en_sha256": "d082f248d08de47b2ae369eae505f767aeb7e9cd147027a90d8027dd88a48cdb",
+      "origin": "ai"
+    },
+    "dataList[id=911909].title": {
+      "pl": "Mistrz",
+      "kr_sha256": "6609d9a72a83a9d33d918bd29e7101870f1b2feee18fb3955548646c3df4d43f",
+      "en_sha256": "c40f6a29700db1e23e5094b482a07c3f675f1bdab686132a78463bf4d8abaec8",
+      "origin": "ai"
+    },
+    "dataList[id=911910].title": {
+      "pl": "Operacja Ratowania Głowy Rodu 3",
+      "kr_sha256": "ad22532fb2ad9bdd3d22f2b520a4b3f7ecafa19c34d772b294f14b23042948a6",
+      "en_sha256": "09884aeefa68a601eccaa438b8c49091dda9432d5b91732d964c1258c77bbbb1",
+      "origin": "ai"
+    },
+    "dataList[id=911911].title": {
+      "pl": "Gdy Uczeń Przerasta Mistrza",
+      "kr_sha256": "fa945adc99e5b4a3c79a2034d5a11e3298d7b0805f904b0af87372746ba946ec",
+      "en_sha256": "2d59f5940b1d6a37e8fb16a91fbab14e164eebb651e29465ae442c29d3d1d3e3",
+      "origin": "ai"
+    },
+    "dataList[id=911912].title": {
+      "pl": "Dowód",
+      "kr_sha256": "a0fb0ecb75744bcd096b0a37f8407c0bf0f914aee2634fa04f8a5dca558d8540",
+      "en_sha256": "3a56e2f3df2f71268cc55d9c0291b18793ea397073402ca70dc7e71e50f89362",
+      "origin": "ai"
+    }
+  }
+}

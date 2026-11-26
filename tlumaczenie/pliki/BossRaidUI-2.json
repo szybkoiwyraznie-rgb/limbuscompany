@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=boss_raid_10002_banner_title].content": {
+      "pl": "Nocne Sprzątanie",
+      "kr_sha256": "0e5d3b316cc6023f3e65d07f618dd0b16950d03736e7c5c88382863bde671114",
+      "en_sha256": "0f36a2f9ac9610687d75510e61862a902fab0ae6e8260394e567b107a7d7b9d9",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_10002_boss_title].content": {
+      "pl": "Ricardo, Starszy Brat Środkowego Palca",
+      "kr_sha256": "26964db6204fcd013efb7dae86cda2065ad367e30dcb6a7a8ae10464db9fe974",
+      "en_sha256": "482cdd85528addf2eac832d3d1e54a05c0e9ce281b8d88fdc203ed2b109a11b4",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_desc].content": {
+      "pl": "Ukończ Walkę Projekcyjną][ąnjyckejorP ęklaW, aby zdobyć <color=#f8c200>[Wypaloną Soczewkę]</color>.\n\nWymieniaj <color=#f8c200>[Wypalone Soczewki]</color> na rozmaite nagrody.",
+      "kr_sha256": "6e5edc86e64bc0742da4707eb13768655bbd3906b9a4f5d637a28e8294c49baf",
+      "en_sha256": "49a96e6b793d652e1a6815b862ae495851763da91991e9a3b328d7b49572c117",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_event_item_count].content": {
+      "pl": "Posiadana waluta",
+      "kr_sha256": "ca911bbad887d748e7e906cfcb7c74050eb287ac8ada815241ce3d513c6695d7",
+      "en_sha256": "959f2c7fcd3eb5e59776a115eefa773dd98b076523db0fde8ff83fef7bb5ec72",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_limited_reward_tab_label].content": {
+      "pl": "Nagrody limitowane",
+      "kr_sha256": "8562b896ec70fe71044160cbf587f150ddd34e845e57a3f5fbcb677d95f23120",
+      "en_sha256": "8e1f6eff14d91a0809117974787cd4cc12017ea1ad53e9431ea991cb2390cf6b",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_reward_ui_permanent_reward_tab_label].content": {
+      "pl": "Nagrody stałe",
+      "kr_sha256": "5a5979ae10b713e5a094431438d3ca126edf2266ae3506183265a6528a9424ae",
+      "en_sha256": "639368a16c61ff8c655b0101de31e45372c5c4402e5d011ae71527a593fec158",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_rule_popup_desc_10002].content": {
+      "pl": "- „Walka Projekcyjna][anjyckejorP aklaW” to <color=#ff0000>wyzwanie o wysokim poziomie trudności</color>.\nZalecamy przystąpienie do walki dopiero po <color=#ff0000>odpowiednim rozwinięciu Tożsamości i E.G.O</color> zgodnie z zalecanymi parametrami.\n(※ Nie można korzystać z Tożsamości Wsparcia.)\n\n- Każda walka z bossem posiada unikalne efekty.\nEfekty Odbicia działają na wszystkich poziomach trudności, natomiast <color=#f8c200>Próby wyłącznie na poziomie Trudnym</color>.\n\n- W walce można użyć kolejno maksymalnie <color=#f8c200>3 składów drużyny</color>.\nTożsamości użyte we wcześniejszym składzie nie mogą jednak zostać wybrane ponownie w kolejnych składach.\n\n- Każdy skład drużyny może walczyć przez maksymalnie <color=#f8c200>12 tur</color>.\nPo przekroczeniu 12 tur lub ręcznym zakończeniu walki dla bieżącego składu\nfaza bossa, jego PŻ i SP oraz pozostałe zasoby E.G.O zostaną zapisane,\nco pozwoli kontynuować starcie kolejnym składem.\n(※ Schemat ataków bossa, PŻ i SP pozostałych wrogów oraz nałożone na wrogów efekty nie są zapisywane.)\n\n- Począwszy od drugiego składu, przy wejściu do walki proporcjonalnie do łącznej liczby tur\n<color=#f8c200>wzrasta początkowe SP</color> sojuszników (※ +5 za turę).\n\nW przypadku Tożsamości z Monetami Ujemnymi początkowe SP przyjmuje wartości ujemne (※ -5 za turę, min. -25).",
+      "kr_sha256": "362c4285e405e6db64fc225d7579966006bdb7676527fbf39b268c3c982e3978",
+      "en_sha256": "c2bd0459ea8a0513a800edbb238f5ad0c0bd172c53faeb4842ebe9210813c630",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_enter_battle_button_label_impossible].content": {
+      "pl": "Wejście niedostępne",
+      "kr_sha256": "a3357ac545fd72f9a86b21705adf550c113a63270695178955c7535dca69ad8e",
+      "en_sha256": "b47f097dd45ac6c494469d24cb2f308598dad3e3377cc1bbc6041157fcc1fb4a",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_reward_button_label].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "80e13fbbc9cc1d155288fcbe531e783f0456c8f60e1bccae491b82dcf95e62eb",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=boss_raid_ui_tab_timer_label_event_finished].content": {
+      "pl": "Wydarzenie zakończone",
+      "kr_sha256": "10c1a7fb6ac0beea563fd4a9919506b1709388ed4b621086ee28062fe8d16a13",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    }
+  }
+}

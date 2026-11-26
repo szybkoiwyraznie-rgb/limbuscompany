@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=10001].desc": {
+      "pl": "Pośród czarnego, mrocznego lasu zgubiłem drogę.",
+      "kr_sha256": "5c6224a762579194ff25fd3a186b98e99f761322e574c430b8d0790f22ca3b14",
+      "en_sha256": "42809534530aeaaf697905560f2634f25edc5a5e73c46ae777080538c76e0d37",
+      "origin": "ai"
+    },
+    "dataList[id=10001].place": {
+      "pl": "Czarny las",
+      "kr_sha256": "b017d5e0b6a888a650214e2661f74371526438f9480b5e1a7cdb1cc030f1045f",
+      "en_sha256": "4f72ee362d0362b4853952ad3934334fdaaf303f1a3a6bef3d4da298110be721",
+      "origin": "ai"
+    },
+    "dataList[id=10001].title": {
+      "pl": "Pantera, Lew i Wilk",
+      "kr_sha256": "238e20f42a3f8b77a4e456ee7c06d45d588fb854f8ae399d0f0c413b13dd17c4",
+      "en_sha256": "da4b7586bd4c8edea4a3d30242e1df587779b5cb2397f77ca9e1e8d1b83fe588",
+      "origin": "ai"
+    },
+    "dataList[id=10002].desc": {
+      "pl": "Gdy otworzyłem oczy, znajdowałem się w osobliwym autobusie. Mężczyzna przedstawiający się jako Vergilius oznajmił, że jestem Kierownikiem, i zaprezentował dwanaścioro podległych mi Grzeszników…",
+      "kr_sha256": "c761468fb95497644dafcc31acb9859c69ea262dc9c50e933f9b1fc426444868",
+      "en_sha256": "028e45230335badab75b0b054f18e068bc75c342979e73821418021c68ba4832",
+      "origin": "ai"
+    },
+    "dataList[id=10002].place": {
+      "pl": "Czarny las",
+      "kr_sha256": "b017d5e0b6a888a650214e2661f74371526438f9480b5e1a7cdb1cc030f1045f",
+      "en_sha256": "4f72ee362d0362b4853952ad3934334fdaaf303f1a3a6bef3d4da298110be721",
+      "origin": "ai"
+    },
+    "dataList[id=10002].title": {
+      "pl": "Przedstawienie się",
+      "kr_sha256": "329e3cb8532b31cab4fe16bcd622b6052bbf98f093b53b9cba02c50f0c65c53f",
+      "en_sha256": "0d654bf97be021e4dc1202f547f538d5198e79cf8b265711d7b22a464ac1ce29",
+      "origin": "ai"
+    },
+    "dataList[id=10003].desc": {
+      "pl": "Stopniowo oswajam się z walką u boku Grzeszników. Pytanie tylko, czy oni oswajają się z moją obecnością…",
+      "kr_sha256": "027f44df7b80dd7e2d85f24273f853dcac74eba6694a2e75bd6baf97c32b7a31",
+      "en_sha256": "4d8f1f99d1dbc4c1a4c5df4c3250d4ee87ca75eb70b09d885868f8b10329ab63",
+      "origin": "ai"
+    },
+    "dataList[id=10003].place": {
+      "pl": "Czarny las",
+      "kr_sha256": "b017d5e0b6a888a650214e2661f74371526438f9480b5e1a7cdb1cc030f1045f",
+      "en_sha256": "4f72ee362d0362b4853952ad3934334fdaaf303f1a3a6bef3d4da298110be721",
+      "origin": "ai"
+    },
+    "dataList[id=10003].title": {
+      "pl": "W Drogę",
+      "kr_sha256": "3f55ca49c87018a7a1044d02cac4b671970df028119923bca28a81c2f227dd09",
+      "en_sha256": "8bdc3497f5fb7cd6c9e266a89136fdff460344c62fddc5c3bbfb5560e12e6da1",
+      "origin": "ai"
+    },
+    "dataList[id=10004].desc": {
+      "pl": "Z lustra wyłoniły się rozmaite możliwości. Faust twierdzi, że zarządzanie nimi należy do moich obowiązków. W co ja się właściwie wpakowałem w przeszłości…?",
+      "kr_sha256": "685ce4321de3e29727e8a3ae23ec14111c9c5566201b47e362cf97807206e273",
+      "en_sha256": "cd044f04946a2fe1d173f0ea636c5c33d1ef86b9d61da9adb759eef687699cb7",
+      "origin": "ai"
+    },
+    "dataList[id=10004].place": {
+      "pl": "Czarny las",
+      "kr_sha256": "b017d5e0b6a888a650214e2661f74371526438f9480b5e1a7cdb1cc030f1045f",
+      "en_sha256": "4f72ee362d0362b4853952ad3934334fdaaf303f1a3a6bef3d4da298110be721",
+      "origin": "ai"
+    },
+    "dataList[id=10004].title": {
+      "pl": "Możliwości",
+      "kr_sha256": "bea2936c94aed0807c97b0097b1ef94558fbc2aeecadcd6c23008b7f2e64f2e5",
+      "en_sha256": "c4099180e002d05a90780b6999cd2c5c031771033f3dbb3982d5a369a58fe261",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=2010000].desc": {
+      "pl": "W powietrzu unosi się cichy szum. Nie sposób odgadnąć, dokąd zaprowadzi postawienie kroku za próg.\nWnętrze przesyca też woń — w jednej chwili słodka, zaraz potem kwaśna i zatęchła, by po chwili stać się rześka i czysta.\n\nWrażenia zmieniają się raz po raz już przed samymi drzwiami.",
+      "kr_sha256": "795e21079d7ff7a1b3717c77f36ffd8f3b8e8bb4e4580a2727bfab5ab62d2f7a",
+      "en_sha256": "0445513ef8820e6789c69b796d0b4cb2a90d9dc2e1e00fced132b4abdd5db8ab",
+      "origin": "ai"
+    },
+    "dataList[id=2010000].title": {
+      "pl": "Nieokreślona Przestrzeń",
+      "kr_sha256": "c0d8120b4b8ac3589170a798fc7090d57489bef89c36d8cfaa52fe6a29b89ada",
+      "en_sha256": "be9004a476ddea95188f36202d6bb7d48b8adca094af94848de1e8a8aa4e0397",
+      "origin": "ai"
+    },
+    "dataList[id=2011000].desc": {
+      "pl": "Pośród tych osobliwych przestrzeni widok ten przynosi dziwną ulgę.\nZ głębi bije wprawdzie wyraźna wrogość, lecz dobrze wiesz, że w tej spirali czają się miejsca o wiele bardziej przerażające.\n\nNie wolno jednak tracić czujności — tutejsi wrogowie w każdej chwili mogą zmiażdżyć Grzeszników.",
+      "kr_sha256": "0754a927000c908a32c89c4a5da67fb9d93ba428b506e519854b7d5df93ffc57",
+      "en_sha256": "53195de5144ce2aa80edb71d1a24da8ce2e1279a0c4e77c7237d1b2b834dac44",
+      "origin": "ai"
+    },
+    "dataList[id=2011000].title": {
+      "pl": "Przestrzeń Ziejąca Wrogością",
+      "kr_sha256": "fece5312ad6a33d7908b203ad95a36e6f983c0668f7010705cdbc4ef68677f66",
+      "en_sha256": "8527f375432ae3007c7e3c21bc1ceac7d073cae81a907decc17012ed6b4019a1",
+      "origin": "ai"
+    },
+    "dataList[id=2011001].desc": {
+      "pl": "Przestrzeń ta zieje jeszcze gęstszą wrogością niż poprzednie.\nGrzesznicy nie są już w pełni sił — schodząc coraz niżej, powłóczą zmęczonymi nogami.\nChwila nieuwagi sprawi, że stracimy ich nawet w najzwyklejszym pomieszczeniu.",
+      "kr_sha256": "ce3a9c7180b246bcd4759beac189a163c8b9bc8b827075fca3f0d6848835ec3f",
+      "en_sha256": "c090913cc6ca2f6ec1ffe1132254a82678f44c3c58b92e1bbd5c20278f47ebea",
+      "origin": "ai"
+    },
+    "dataList[id=2011001].title": {
+      "pl": "Przestrzeń Ziejąca Wrogością",
+      "kr_sha256": "fece5312ad6a33d7908b203ad95a36e6f983c0668f7010705cdbc4ef68677f66",
+      "en_sha256": "8527f375432ae3007c7e3c21bc1ceac7d073cae81a907decc17012ed6b4019a1",
+      "origin": "ai"
+    },
+    "dataList[id=2011002].desc": {
+      "pl": "Ciężar tej przestrzeni nie przypomina już tego z początku drogi.\nKażde kolejne przejście coraz mocniej wyczerpuje Grzeszników.\n\nJeśli nie zapanujemy nad zmęczeniem, pierwsze groźniejsze starcie rozerwie nas na strzępy.",
+      "kr_sha256": "90d27fd689940f24117ab4321aa7c98f0278d9836295a0ab6e7972b2db1f8f60",
+      "en_sha256": "7cd8786716a9acfc8348adcff65bc236a883fe15b02ad2d8cdae41e37a52cd33",
+      "origin": "ai"
+    },
+    "dataList[id=2011002].title": {
+      "pl": "Przestrzeń Ziejąca Wrogością",
+      "kr_sha256": "fece5312ad6a33d7908b203ad95a36e6f983c0668f7010705cdbc4ef68677f66",
+      "en_sha256": "8527f375432ae3007c7e3c21bc1ceac7d073cae81a907decc17012ed6b4019a1",
+      "origin": "ai"
+    },
+    "dataList[id=2012000].desc": {
+      "pl": "Włosy jeżą się na całym ciele.\nChoć niczego jeszcze nie widać, czujesz wyraźnie, że tuż przed nami czai się coś niepojętego.\n\nLada chwila staniemy oko w oko z istotą nie z tego świata.",
+      "kr_sha256": "0c090ce927bce9542a136ca83717d26c9f31e3f7dae1f9e8cabde16d2cc02c26",
+      "en_sha256": "c2357a172c21e6f0172220e9da57a55752aa5711cae6239e44b8b199d1bb94cd",
+      "origin": "ai"
+    },
+    "dataList[id=2012000].title": {
+      "pl": "Przestrzeń Dziwnych Przeczuć",
+      "kr_sha256": "78bced15a860006c1fbf072230477e79fefa1c57fdd620a32f0ca98e97e437ae",
+      "en_sha256": "6aa9d483994b6b898dabba08e90e8f5fb050d2473e853f514f9d243ee524b354",
+      "origin": "ai"
+    },
+    "dataList[id=2012001].desc": {
+      "pl": "Dreszcz przebiegający po karku natychmiast zdradza naturę tego miejsca.\nTe istoty nie należą do naszego świata — nie powstrzyma ich ani ścięcie głowy, ani przetrącenie kręgosłupa. Nie wiadomo, co przyjdzie nam tu spotkać.\n\nJedyne, co możemy zrobić,\nto jak najszybciej rozpoznać wroga.",
+      "kr_sha256": "c0ed99184d2ef86fbc6e7c2f2410cb03f7b497019be76f479132e60e6b453fde",
+      "en_sha256": "70ab25ee64bc9d9fb58b6b1bb7a3c27f2847c201f0f7b977f67d3f0a63416c9a",
+      "origin": "ai"
+    },
+    "dataList[id=2012001].title": {
+      "pl": "Przestrzeń Dziwnych Przeczuć",
+      "kr_sha256": "78bced15a860006c1fbf072230477e79fefa1c57fdd620a32f0ca98e97e437ae",
+      "en_sha256": "6aa9d483994b6b898dabba08e90e8f5fb050d2473e853f514f9d243ee524b354",
+      "origin": "ai"
+    },
+    "dataList[id=2013000].desc": {
+      "pl": "Przed nami czeka coś groźniejszego niż dotychczas.\nNie chodzi wyłącznie o gęsty odór zwierzęcej krwi ani złowieszczo migoczące światła.\nNieuchwytne dla pięciu zmysłów przeczucie spływa po całym ciele wyraźnym ostrzeżeniem.\n\nBez solidnego przygotowania trudno będzie przebić się dalej.",
+      "kr_sha256": "d954cd03f2c4e32c02f1119473be845285ac72a2d96d2663396b98d5cf0b8d02",
+      "en_sha256": "71cf2e5fd2b7c5e4c0722e6710dc70e37417d7091cb182695e65ad0d4318c8fe",
+      "origin": "ai"
+    },
+    "dataList[id=2013000].title": {
+      "pl": "Przestrzeń Nieznanych Wrzasków",
+      "kr_sha256": "dc2d2a853b666b3ff24c25a7a386c6385b96b2de83efefd46f0bf114b1735e9a",
+      "en_sha256": "1c648624c3a928389ffc31c021376cd6edaf6344e76f60857a073231b16e6394",
+      "origin": "ai"
+    },
+    "dataList[id=2013001].desc": {
+      "pl": "Poczucie zagrożenia na karku zgęstniało jeszcze bardziej. Ze wszystkich stron wybuchają koszmarne wizje, obłąkańcze wrzaski i obrzydliwy odgłos wyciskanego miąższu.\nW pewnej chwili uda zaczynają drżeć w skurczu — własne ciało ostrzega, by nie stawiać kolejnego kroku.\n\nWiesz jednak dobrze, że jedyna droga prowadzi naprzód.",
+      "kr_sha256": "af220df6fae378a24a28505e4b268b76f42f90531ba5148827b1c3ec86880dd9",
+      "en_sha256": "cf7020552bd715bf0cc87325f7e99001df4bd988c8a2d16a5a547fe41b75c7d3",
+      "origin": "ai"
+    },
+    "dataList[id=2013001].title": {
+      "pl": "Przestrzeń Nieznanych Wrzasków",
+      "kr_sha256": "dc2d2a853b666b3ff24c25a7a386c6385b96b2de83efefd46f0bf114b1735e9a",
+      "en_sha256": "1c648624c3a928389ffc31c021376cd6edaf6344e76f60857a073231b16e6394",
+      "origin": "ai"
+    },
+    "dataList[id=2014000].desc": {
+      "pl": "Wygląda na to, że tutaj znów nastąpi załamanie ścieżki — o ile zdołamy przejść cało.\nGłęboko w środku kiełkuje jednak przeczucie, że zamiast zejść głębiej, zostaniemy odbici na zewnątrz. Niezależnie od kierunku odwrotu już nie będzie.\n\nPrzytłacza cię strach twardy niczym mur.",
+      "kr_sha256": "80cf2356c1a3bff3c7c51a33c37ef6a13b8d3528bb798f70fa907888a37308b0",
+      "en_sha256": "073de560112dbb9f2f8a9fb5540671456be1462f8281206f7de5e8f526474bb6",
+      "origin": "ai"
+    },
+    "dataList[id=2014000].title": {
+      "pl": "Przestrzeń Skrajnego Załamania",
+      "kr_sha256": "94e602fb9bdab28fd4527cc6338b64e4d1aa51d86c78349e97bead5c5e7bb37e",
+      "en_sha256": "f75d2b7231cc88885bbd0a250993fcacbca17555501bdb4c7f93d5a5609866b8",
+      "origin": "ai"
+    },
+    "dataList[id=2014001].desc": {
+      "pl": "Byliśmy już kiedyś w podobnym miejscu,\nlecz groza wciąż wznosi się przed nami jak warowny mur.\nCzy i tym razem załamiemy się ku głębszym warstwom?\nCzy też odbijemy się w szczelinach pękniętego lustra i przepadniemy w nicości?\n\nNa odwrót jest już za późno.\nPozostaje przyjąć to, co przyniesie los.",
+      "kr_sha256": "8cdc8fc063e5f75bbf6e82eeccc008ca2e958f5e9d2cf42375979867043cabb1",
+      "en_sha256": "d60c07053c7e4ca71f03548a3da09b3529ba81245e7fd5a748f62f5d4b23bd4a",
+      "origin": "ai"
+    },
+    "dataList[id=2014001].title": {
+      "pl": "Przestrzeń Skrajnego Załamania",
+      "kr_sha256": "94e602fb9bdab28fd4527cc6338b64e4d1aa51d86c78349e97bead5c5e7bb37e",
+      "en_sha256": "f75d2b7231cc88885bbd0a250993fcacbca17555501bdb4c7f93d5a5609866b8",
+      "origin": "ai"
+    },
+    "dataList[id=2014002].desc": {
+      "pl": "Znów stanęliśmy przed tym murem.\nZdaje się, że w każdej chwili może runąć i zmiażdżyć Grzeszników.\nBiegniemy w lewo i w prawo w poszukiwaniu obejścia, lecz mur nie ma końca. O ile nie zawrócimy,\njedyne wyjście to przebić go na wylot.\n\nTylko stawiając czoła lękowi, ocalimy własne życie.",
+      "kr_sha256": "1d3f1851c40182912ab5961c48f1d917624d608fc0bbded01d807af1a19bea29",
+      "en_sha256": "b752fa773fd1e63600abbb16fb09158daefbe13de365d174971cfcbbae7e06e9",
+      "origin": "ai"
+    },
+    "dataList[id=2014002].title": {
+      "pl": "Przestrzeń Skrajnego Załamania",
+      "kr_sha256": "94e602fb9bdab28fd4527cc6338b64e4d1aa51d86c78349e97bead5c5e7bb37e",
+      "en_sha256": "f75d2b7231cc88885bbd0a250993fcacbca17555501bdb4c7f93d5a5609866b8",
+      "origin": "ai"
+    }
+  }
+}

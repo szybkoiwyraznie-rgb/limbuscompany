@@ -1,0 +1,268 @@
+{
+  "entries": {
+    "dataList[id=ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR].description": {
+      "pl": "Przy wejściu na 1. piętro otrzymujesz {0} los. <color=#5bffde>Dar(y) E.G.O</color> rangi 1",
+      "kr_sha256": "461c821200e90d5aa70246f6c151553254fe5a903b05b7414c545a9b3336e1db",
+      "en_sha256": "f5f846fde7ee18c4072507ca7fa62c57a43561a02e990182e0c16c122f4d85d1",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR_TEXT_HIGHLIGHT].description": {
+      "pl": "Przy wejściu na 1. piętro otrzymujesz <color=#f8c200>{0}</color> los. <color=#5bffde>Dar(y) E.G.O</color> rangi 1",
+      "kr_sha256": "c65fadfd3f86dfe488ffd1f27ae52b2d313e84a7873c06948aa44592261aa000",
+      "en_sha256": "a76dfbeeae1ef9ffa0c4563e9c6aaa457cd7333e54a9600cb06e8b8879c0445e",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3F_5F].description": {
+      "pl": "Przy wejściu na 3.<color=#f8c200>/5. piętro</color> otrzymujesz 1 los. <color=#5bffde>Dar E.G.O</color> rangi 3 z <color=#f8c200>wybranego słowa kluczowego</color>",
+      "kr_sha256": "53539d245696f768d4dea6e65f3a7478793587c35b28d7d33d481fb35d09fc43",
+      "en_sha256": "5b8ae7b993cfbe3e8338cdf710080065ed31e18bfa3f67176d52305d1c4e3310",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR].description": {
+      "pl": "Przy wejściu na 3. piętro otrzymujesz {0} los. <color=#5bffde>Dar(y) E.G.O</color> rangi 3",
+      "kr_sha256": "8ea9ac928eb880929115e00d1da5a563ec6048e51224cc901a3bd6dc98da01e3",
+      "en_sha256": "c4a49d2317789b4ed0868b4622403f608e8420f5c3cc48fad930e0aa9d1c2373",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR].description": {
+      "pl": "Przy wejściu wybierasz {0} spośród losowych <color=#5bffde>Darów E.G.O</color> rangi 3 wybranego słowa kluczowego (w razie braku — niższej rangi)",
+      "kr_sha256": "efba32d369c2795d31420c9ab66c462ecdb5351cc879c07395cf6daa6a512acf",
+      "en_sha256": "e8fca3fe3063a957abe5bf4ab3c5486a5dd287ce5c6b3d8778ab38c2316a3cd6",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR_TEXT_HIGHLIGHT].description": {
+      "pl": "Przy wejściu <color=#f8c200>wybierasz {0}</color> spośród losowych <color=#5bffde>Darów E.G.O</color> rangi 3 wybranego słowa kluczowego (w razie braku — niższej rangi)",
+      "kr_sha256": "63829ff1cd2a63208b4c9df4a192cd1c5450c50ba8f8d6b8ecd50096e1d63740",
+      "en_sha256": "a7ee3229854a1fdba7e32da69333dacf6e11a811640818b855698eb7625085f8",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP].description": {
+      "pl": "Przy wejściu do Sklepu otrzymujesz {0} los. <color=#5bffde>Dar(y) E.G.O do Syntezy/Sprzedaży</color> rangi 3 lub niższej",
+      "kr_sha256": "a77fc8e36a5cfe7bb1a424e385f9408cf615e09c5ee795b9b81ae8892db16255",
+      "en_sha256": "44f887d905fefbcb36609143b6e28f3440e5cbf70e2b76263fa4a062b3cb465e",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP_2].description": {
+      "pl": "Przy wejściu do Sklepu otrzymujesz 1 <color=#5bffde>Dar E.G.O do Syntezy/Sprzedaży</color>\n<color=#f8c200>· Piętro 5 lub niższe: ranga 1~3\n· Piętro 6 lub wyższe: ranga 2~3</color>",
+      "kr_sha256": "8ab8f2c3cabd5d567b1a02a1f17fdf33a231852ebb232e910fc8bc3417fd04a6",
+      "en_sha256": "c9fecabacb8919202bf5a724aa6e45a1ebfd19f767a1b9b6daea9dd9c040b9e9",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP_3].description": {
+      "pl": "Przy wejściu do Sklepu otrzymujesz 1 <color=#5bffde>Dar E.G.O do Syntezy/Sprzedaży</color>\n<color=#f8c200>· Piętro 5 lub niższe: ranga 2~3\n· Piętro 6 lub wyższe: ranga 3~4</color>",
+      "kr_sha256": "6e0bcfd0f8093a1a816ce64c16a0dccfac793773fa28189d6aa24c611a6319f7",
+      "en_sha256": "d71ad1048e1ca71ca9cbb0ef1ec245bbab0fa06e2f02b1da2d2ca031de03c115",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_4_TIER_RANDOM_EGO_GIFT_ON_ENTER_3F_5F_7F].description": {
+      "pl": "Przy wejściu na 3.<color=#f8c200>/5./7. piętro</color> otrzymujesz {0} los. <color=#5bffde>Dar(y) E.G.O</color> <color=#f8c200>rangi 4</color> z <color=#f8c200>wybranego słowa kluczowego</color>",
+      "kr_sha256": "e977c07249fa6017ac6ef3e627e8b28465d1f608d5cca87fd8b3684581a21c16",
+      "en_sha256": "1d92ee06bb9ee255c86ffd9884e1d125575d789dbe1b94755b22670494b75913",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_COST_AFTER_SELECT_STARLIGHT_BATTLE_REWARD].description": {
+      "pl": "<color=#f8c200>Przy wyborze Gwiezdnego Blasku z kart nagród po walce: Koszt +{0}</color>",
+      "kr_sha256": "5e8bd369265d9437a82d4773755e92edea9b8e8dca18f541cc0156e580552074",
+      "en_sha256": "dde6fe2a0c1a20d3d38d0aa006abc33888f134de27baf1532d657ec9265fd1ae",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_COST_BY_EGOGIFT_TIER_TOTAL_ON_ENTER_SHOP].description": {
+      "pl": "<color=#f8c200>Przy wejściu do Sklepu zyskujesz Koszt równy sumie rang posiadanych Darów E.G.O (maks. {1})</color>",
+      "kr_sha256": "f7787e524290a478f97dd11ff8a2fa43f0ea91e2d21f591d87b4c1f2c72ff1a7",
+      "en_sha256": "344ff47e3295494c8da9bf7a25bcf3d11d59ac8295076c53069764730603edc3",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE].description": {
+      "pl": "Przy Syntezowaniu otrzymujesz losowy <color=#5bffde>Dar E.G.O</color> o 2 rangi niższy od wyniku Syntezy (min. ranga 3; 1 raz na Sklep)",
+      "kr_sha256": "174ed2d89ff873fa41f38ef3484656dc5f2e827332d8c5bc4beca1759348adaf",
+      "en_sha256": "f72ba10fccdad37e8fcc782fbde3045afa6ac2ecbeed10b6760fac2c72e3507b",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE_1].description": {
+      "pl": "Przy Syntezowaniu otrzymujesz losowy <color=#5bffde>Dar E.G.O</color> o <color=#f8c200>1 rangę</color> niższy od wyniku Syntezy (min. ranga 3; 1 raz na Sklep)",
+      "kr_sha256": "0053ffd185d85324bdf3c5d7e2c2da511adfd014809ae8d6f39cf6e4bf184de7",
+      "en_sha256": "3add801a8032677b58d074be0a567f3f32f4e4881998a13efb8df4f3096a1d43",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_COST_AFTER_WIN_BATTLE].description": {
+      "pl": "<color=#5bffde>Koszt</color> z nagród za walkę +{0}%",
+      "kr_sha256": "a53f2b312c1d70a0bbe5a46c3f10ac8f111c39efb94ab6860b79894216aa2e68",
+      "en_sha256": "0bda2ba7e91394ebf7a855ea32301b879b78c7f18e4b6af0e27a733dc65363c8",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_COST_AFTER_WIN_BATTLE_TEXT_HIGHLIGHT].description": {
+      "pl": "<color=#5bffde>Koszt</color> z nagród za walkę <color=#f8c200>+{0}%</color>",
+      "kr_sha256": "0f03fb398aaaad638bfa520d3f8ed6ee7a747e2c0bdf641787b67942968c4e84",
+      "en_sha256": "12834ec683479bbffd4b1cccae53eee20a9d6a6002159b6b5ad1e08fef5c253f",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR].description": {
+      "pl": "Przy przejściu na kolejne piętro posiadany <color=#5bffde>Koszt</color> wzrasta o {0}% (maks. {1})",
+      "kr_sha256": "e6b6c1d78be435a40dd94504951a261b08905c143e327664f343a4a9165a0521",
+      "en_sha256": "32b6a41071dde251a1c05733932118d54202c1e905c6583cac6db150c5da9e49",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR_TEXT_HIGHLIGHT].description": {
+      "pl": "Przy przejściu na kolejne piętro posiadany <color=#5bffde>Koszt</color> wzrasta o <color=#f8c200>{0}%</color> (maks. <color=#f8c200>{1}</color>)",
+      "kr_sha256": "207e4f8225d40c28f43303a2be4b1005103777d99fc7761ea4033282909b067f",
+      "en_sha256": "10bb27777fc87eb77d3a2cc4ea4fa2069dd9b5fe78b55dad0b2f030601251ec3",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_ENHANCED_SHOP_APPEARANCE_PROB].description": {
+      "pl": "<color=#f8c200>Szansa na pojawienie się Wzmocnionego Sklepu +{0}%</color>",
+      "kr_sha256": "a3744d3561ce09959fa8cd999633fccd896288f8e81cbea1fe1054c0d6d4402b",
+      "en_sha256": "3422348563d06fc6d25fd9666dd5cd27ccdb4941cd1a7616bf85c8e912cdde0f",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_FLOOR_THEME_REFRESH].description": {
+      "pl": "Liczba <color=#5bffde>odświeżeń Pakietów Tematycznych</color> +{0}",
+      "kr_sha256": "44217f96adbffcde055abf74fe6a0b5c144a54b41bc5a0a0c17c0354c16c6e65",
+      "en_sha256": "fc5e4cdbf98df7e2905a486a8912c3bb5d9efb4c953aa9d5898fd1d9e7f325fe",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_FLOOR_THEME_REFRESH_TEXT_HIGHLIGHT].description": {
+      "pl": "Liczba <color=#5bffde>odświeżeń Pakietów Tematycznych</color> <color=#f8c200>+{0}</color>",
+      "kr_sha256": "ca397cfc7441b7eacadacbbafeaf96f8637c612284b7ae4124adb4a7c15c0647",
+      "en_sha256": "9a5132b0fe161f9f1a310d69ac9cd6c4d355a87608b35e695b00cce5a315adec",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_FLOOR_THEME_SLOT].description": {
+      "pl": "Wybór <color=#5bffde>Pakietów Tematycznych</color> +{0}",
+      "kr_sha256": "b7585063fe366968f5cddb763f762819efc4ebb99f5ecdad89d6138e0c92c7c6",
+      "en_sha256": "fe226fd5c0fd3b2fc7de7c8dddd8796cd6047caa8e92b0f12f186e7770cf29e1",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR].description": {
+      "pl": "Po ukończeniu piętra <color=#5bffde>poziom Tożsamości</color> +{0} (maks. {1})",
+      "kr_sha256": "6d8b26c832346409df833d25e9a2b35a4a21b3db4ecb50df8bbe211184ba248f",
+      "en_sha256": "339aae0a89e3901193bd4b97bec72c14ce93d6986f3fe57c186fdf7640790219",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR_TEXT_HIGHLIGHT].description": {
+      "pl": "Po ukończeniu piętra <color=#5bffde>poziom Tożsamości</color> +{0} (maks. <color=#f8c200>{1}</color>)",
+      "kr_sha256": "32dd07c9cc3a25d20cfbaf1d52265886926998d86f5675dfd5ab231d9cef8189",
+      "en_sha256": "1f948f77460ecceab82265b57eeded152601009863fcb457b76e960f87032bc4",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR].description": {
+      "pl": "Przy wejściu na 1. piętro <color=#5bffde>poziom Tożsamości</color> +{0}",
+      "kr_sha256": "a84be946537a0d6d50305c809bba3d5f5726e0c8b2fc9bd02a4d8ed0c1f04864",
+      "en_sha256": "3a8b3b50d8b7920fdcea958538b12012c622aa8e9af1cb5b399463f6cc6168b4",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_6TH_FLOOR].description": {
+      "pl": "<color=#f8c200>Przy wejściu na 6. piętro poziom Tożsamości +{0}</color>",
+      "kr_sha256": "92f565662d3fe2fb504502749e9efee5aca8517c4831a12dd0d3c52ac03ff546",
+      "en_sha256": "a0271dec144355ad443200c207ed2eb9954c83d60f814aaaeb2d47f00b281380",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_PERSONALITY_LEVEL_ON_SELECT_NEW_FLOOR_THEME].description": {
+      "pl": "Przy wyborze nieodkrytego Pakietu Tematycznego <color=#5bffde>poziom wszystkich Tożsamości</color> +{0} (maks. 9)",
+      "kr_sha256": "6bb08237164408a2817dfb92a8355b014181e82c72d567506f65b9a6dccdf435",
+      "en_sha256": "030837a4c37546be7c7c26ea4786cb0da1bc769610c461bc5e24257ddf95a8cd",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_SHOP_EGO_GIFT_SLOT].description": {
+      "pl": "Oferta <color=#5bffde>Darów E.G.O w Sklepie</color> +{0}",
+      "kr_sha256": "3ad21d9d8460c9c1a223a16b1d1e56bcee4ecc2c6e51d055388df7e993a57568",
+      "en_sha256": "dad0806d9398981b53db40b9fd17f2df75eb16495263959a7c64855e7bfda4ae",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE].description": {
+      "pl": "<color=#5bffde>Większa szansa na Dary E.G.O wysokiej rangi</color> w Sklepie",
+      "kr_sha256": "c720871a7b943f17d8af86240cb671d4781cf1e48a0097db831015cc7cb5ecc0",
+      "en_sha256": "17bc88425b3805d234f27e6dad88248b46d6215d9051037e0a154f617ae34415",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE].description": {
+      "pl": "<color=#5bffde>Cena sprzedaży Darów E.G.O</color> +{0}% (1 raz na Sklep)",
+      "kr_sha256": "b52f176636918982c4b832ff41f7fe4804efdc86f00c9d79495e4d86676e58c8",
+      "en_sha256": "d2516fed721ff526351169d2c4230db7d28e781529510e26bb72204730695ade",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE_TEXT_HIGHLIGHT].description": {
+      "pl": "<color=#5bffde>Cena sprzedaży Darów E.G.O</color> +<color=#f8c200>{0}%</color> (1 raz na Sklep)",
+      "kr_sha256": "c5f8e5ca245ecb4cefb07868779fd2fdd4d427982323e068a1bde036082edf9e",
+      "en_sha256": "3a28f0773a542786064226a3cbaf78a995c86ef4c119946aa7ffe2141ad34472",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_START_COST].description": {
+      "pl": "Początkowy <color=#5bffde>Koszt</color> +{0}",
+      "kr_sha256": "86fe5e4cf0e27b7325dc47a09024f6b8d4f42d00732b006b6c3f03ef604d162f",
+      "en_sha256": "d4943991fe13b8516ce4ac6a56fbbdae61373eb50911f0d5fd0c1b538d6a065e",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_START_COST_TEXT_HIGHLIGHT].description": {
+      "pl": "Początkowy <color=#5bffde>Koszt</color> <color=#f8c200>+{0}</color>",
+      "kr_sha256": "120c11e5ce2d2d13348bc7b5afb842bc82bec479b366c6bd7e9b4b0e49e0ad6a",
+      "en_sha256": "815c010e0f02d8d25f42215aba9a42573e1d47346a50df2f06bc20a69d70daf3",
+      "origin": "ai"
+    },
+    "dataList[id=ADDITIONAL_START_EGO_GIFT_SELECT].description": {
+      "pl": "Liczba początkowych <color=#5bffde>Darów E.G.O</color> +{0}",
+      "kr_sha256": "1616ec6a37ac0d6b13fdc94050c35d30f27f8ad29c9c5aab274a64e50c43e431",
+      "en_sha256": "d65373e3acfe36f3c21f127bbdedf57bce7ccb9df602b3bf975d94a360916217",
+      "origin": "ai"
+    },
+    "dataList[id=FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE].description": {
+      "pl": "{0} darm. <color=#5bffde>odświeżenie Sklepu wg słowa kluczowego</color>",
+      "kr_sha256": "864533d3ede66ae5f784c187ddf72e3a1e1407d1b468c919a3fe5a677e0f1e6d",
+      "en_sha256": "7b0ec165fe7835b856ad6e864c5eb74979c079e48a528ad30db711721d2ce4b3",
+      "origin": "ai"
+    },
+    "dataList[id=FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE_TEXT_HIGHLIGHT].description": {
+      "pl": "<color=#f8c200>{0}</color> darm. <color=#5bffde>odświeżenie Sklepu wg słowa kluczowego</color>",
+      "kr_sha256": "a2ce21cdca028a802160d8ffb559e8d28ef3a1f9d2984a2386d40a8a966db016",
+      "en_sha256": "bb199a16f3b3f8052a7cfc872d011ca98175073ec8cae412ccadf63810079819",
+      "origin": "ai"
+    },
+    "dataList[id=FREE_SHOP_REFRESH_EGO_GIFT_ONCE].description": {
+      "pl": "{0} darm. <color=#5bffde>zwykłe odświeżenie Sklepu</color>",
+      "kr_sha256": "bdb6487b0f1b4bc37f480b9c7e293c4c5ce93979e6d599cb4da2392b1acbb6bf",
+      "en_sha256": "c8e0ab7fe7d0670dcdfd45569e4fdf36304d9eba01ef6ce0ce0a2c401c01ee13",
+      "origin": "ai"
+    },
+    "dataList[id=FREE_SHOP_REFRESH_EGO_GIFT_ONCE_TEXT_HIGHLIGHT].description": {
+      "pl": "<color=#f8c200>{0}</color> darm. <color=#5bffde>zwykłe odświeżenie Sklepu</color>",
+      "kr_sha256": "8f4637de42bb6a86dba4dfbc5373d04ae416c256932009b83144e3ce75c49b9a",
+      "en_sha256": "e3661fb40132e1327ad2897d3c2b15fd76fabad27074dda1280fce4a31702f3e",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRSOnNewFloorTheme].description": {
+      "pl": "<color=#f8c200>W walkach nieodkrytego Pakietu Tematycznego (piętro {4} lub niższe) zyskujesz {2} {1}</color>",
+      "kr_sha256": "f95a49016c69a428c68a6f3238afebd1a8b6d74ae33a2a2fdaf3e07e290c6721",
+      "en_sha256": "33443ee14d605578c5575ab44b4e20c5a41689415620e18e11fe7491c6dda367",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRSOnThemePackUnlockCount].description": {
+      "pl": "<color=#f8c200>Jeśli w Kompendium odblokowano min. {4} Pakietów Tematycznych, zyskujesz {2} {1}</color>",
+      "kr_sha256": "be96584dcc6efe75c6c94f644b9591960ca565a30eeccb88dcacd5d665cf419a",
+      "en_sha256": "baf79dc81968c3e8cc388bc76935b14f9e50100fd659c9a9e4d6c268b27d6b2f",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStart].description": {
+      "pl": "Zyskujesz {2} <color=#5bffde>{1}</color>",
+      "kr_sha256": "8f71da6227b0297899f29bf3c72696d9f566d61fb4f8a2a69bf164a1edea79e4",
+      "en_sha256": "6cdcca237eec10b343b3d4698bc30510bb0b41cae08bf42dd21b8ad238f0de6d",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStart_TEXT_HIGHLIGHT].description": {
+      "pl": "Zyskujesz <color=#f8c200>{2}</color> <color=#5bffde>{1}</color>",
+      "kr_sha256": "05ba92ebe00b4a0e1474895e090f31ddd0071120f0c6d4a40e93e654e9c6df32",
+      "en_sha256": "60ff55166072e7382bc64303fa7582630030282c279a455a72e000420b1bc1b8",
+      "origin": "ai"
+    },
+    "dataList[id=MaxSpeedUpAdder].description": {
+      "pl": "<color=#5bffde>Maks. Szybkość</color> +{0}",
+      "kr_sha256": "266b36b7dce0ec8eda32f6147b9c4333ad905b232aa50f042645d10b94479d31",
+      "en_sha256": "698a9cae356622d9e824cdaa2c723e0bad083b42554bc8e439a7fa1752dec951",
+      "origin": "ai"
+    },
+    "dataList[id=MaxSpeedUpAdder_TEXT_HIGHLIGHT].description": {
+      "pl": "<color=#5bffde>Maks. Szybkość</color> <color=#f8c200>+{0}</color>",
+      "kr_sha256": "279ba268f281da4b2aeacce3b51a5401b8e25606fe712e70553fda73ed96df25",
+      "en_sha256": "eed5af4c3cc2143d0890175a6927100d39e1a33113ba91844e528daa9b180cf2",
+      "origin": "ai"
+    }
+  }
+}
