@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=80].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 8",
+      "kr_sha256": "80f66f826f6a5185e461ca175ad2b2fa00e72fa6b6118d2a1ab7fc03cba89b99",
+      "en_sha256": "723af13274e87858d65993066fee136c616d87988281735cc90ac242716265ee",
+      "origin": "ai"
+    },
+    "dataList[id=80].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=81].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 8",
+      "kr_sha256": "eeebdf8a59d8c488bf912cdad7625811ea21257eaf11adb496b868abbfe57403",
+      "en_sha256": "fd003414f8d8beaa31e83811140cb89cc7c6b6ba8820776088b36f0da822c30f",
+      "origin": "ai"
+    },
+    "dataList[id=81].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=82].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 8",
+      "kr_sha256": "71ab23a8b7e4f59fa2d038579ca456e1f2185abd61a8e6bf48fb6a155530dae4",
+      "en_sha256": "58b96380bd65bde629884e9a4eeb568b753dc4d70e4f2a7c2fdb575f0a9a1b92",
+      "origin": "ai"
+    },
+    "dataList[id=82].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    }
+  }
+}

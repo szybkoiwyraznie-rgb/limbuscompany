@@ -216,10 +216,40 @@
       "en_sha256": "618c1e1e6f449fb5a93f6dd2aa21dd2d68715e90df3d4b78cea73a7513fc2849",
       "origin": "ai"
     },
+    "dataList[id=27].desc": {
+      "pl": "Zdobyto za ukończenie stacji końcowej Linii 3 z limitem 100 tur łącznych przed końcem Sezonu 3: Bon Voyage",
+      "kr_sha256": "8ff64b065510205f43ceeff7db22470600e0c8a9b836181b0341174497a039b6",
+      "en_sha256": "0fc880e370314b034e8b32a585eabb3c1b2c74627007b480be83779b06ddf753",
+      "origin": "ai"
+    },
     "dataList[id=27].name": {
       "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 3 I",
       "kr_sha256": "0f7aa2258773011c9cc6b925de27541e4fdbecbf1e73401774ad01cec587fba9",
       "en_sha256": "f737ced47482315042e5ebd5548400fb04bed604b4998c8b8b6727b82774a24d",
+      "origin": "ai"
+    },
+    "dataList[id=28].desc": {
+      "pl": "Zdobyto z wydarzenia „Oddam Ciało, by Złamać Ich Kości”",
+      "kr_sha256": "602069e079d813e3aaf730b9c9db6bd58631482f342b7285dea9a0a9b8f48c06",
+      "en_sha256": "a9159748acd8c345ad9955b90560f3d74b411e015e3a9507e6ffd09e1ba6db57",
+      "origin": "ai"
+    },
+    "dataList[id=28].name": {
+      "pl": "Oddam Ciało, by Złamać Ich Kości",
+      "kr_sha256": "9509ec09eb2b43783f11239f2ca90599d3658ab19069fb09a3ca4b93231cb723",
+      "en_sha256": "c720dfea4335cbf0876933d387d947209aeb83862fd66e0f451e965431a88374",
+      "origin": "ai"
+    },
+    "dataList[id=29].desc": {
+      "pl": "Zdobyto z wydarzenia „Oddam Ciało, by Złamać Ich Kości”",
+      "kr_sha256": "602069e079d813e3aaf730b9c9db6bd58631482f342b7285dea9a0a9b8f48c06",
+      "en_sha256": "a9159748acd8c345ad9955b90560f3d74b411e015e3a9507e6ffd09e1ba6db57",
+      "origin": "ai"
+    },
+    "dataList[id=29].name": {
+      "pl": "Oddam Ciało, by Złamać Ich Kości — Specjalny Banner",
+      "kr_sha256": "91797de2b9e5491e05e7df328d0534b6dffc90d1c0711805a7005ef08c46d744",
+      "en_sha256": "ad85f29fdb2c3b83d7155715fa6874278b7e8f41a5ff226a8f8db82b0a07f3ce",
       "origin": "ai"
     },
     "dataList[id=2].desc": {
@@ -234,6 +264,126 @@
       "en_sha256": "9811170a3c7aa2b2ecf5ca92817ef5664a7e3a9fc107b2a129605a0d83e292dd",
       "origin": "ai"
     },
+    "dataList[id=30].desc": {
+      "pl": "Zdobyto z wydarzenia 1. Rocznicy",
+      "kr_sha256": "3e47b8d8e2f7f80c2debd3932fe841f00c8cddbe29677accbba3a70578a36657",
+      "en_sha256": "e7d96cea581b3cc206c03e568c0b449548f804145b5db5dd4982ebb603175880",
+      "origin": "ai"
+    },
+    "dataList[id=30].name": {
+      "pl": "Banner Pamiątkowy 1. Rocznicy Limbus Company",
+      "kr_sha256": "195a10848f850a7874b89674c96ea6d82239c416ddf68b87959c7231796a2a6b",
+      "en_sha256": "c6c41a5d2ffcc477253a1757dca04399393138799b36ecbbae2b8067188a2a4a",
+      "origin": "ai"
+    },
+    "dataList[id=31].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 4: Clear All Cathy",
+      "kr_sha256": "14f266d7928e9ea411859872908fe9dd9682c1629ce7b3c9c488c3c4b5f940c4",
+      "en_sha256": "c32c2c58d0a5a84ceacab56315551a4e129a619189822362599359a6d306bc17",
+      "origin": "ai"
+    },
+    "dataList[id=31].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 4",
+      "kr_sha256": "216787fc2d35f1ba6dccef3862413e3db7901f1a24e770cb4dba19d275475d00",
+      "en_sha256": "e33061c6bf5679faa375ab740cfeb65d017d61f341e658f0d2d743cc86020f84",
+      "origin": "ai"
+    },
+    "dataList[id=32].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 4: Clear All Cathy",
+      "kr_sha256": "85a7b9b017e91c590d2a1dc670ec326b177918db9fe149994784df9c4760aa52",
+      "en_sha256": "a5ae6f3d9150de63f6503debbdb10f314fda41238b06af595be28a34ac71bb64",
+      "origin": "ai"
+    },
+    "dataList[id=32].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 4",
+      "kr_sha256": "5ea8d165b2d9ca9b9f3476a2d3182366122658095e38079a0def4ec846d04671",
+      "en_sha256": "e956f854de2651529ade54d9978d4325792a1b8af64ab9208d7d743075dd51dc",
+      "origin": "ai"
+    },
+    "dataList[id=33].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 4",
+      "kr_sha256": "694c2fddb1f5d74dd6027117a8d8276e15b1f286ea5e2aea8a2fd5d3fcd9f20b",
+      "en_sha256": "9a72ce0d694131691cf2d8dd05f49392a9d4b7d941ec98614660c824a1c47905",
+      "origin": "ai"
+    },
+    "dataList[id=33].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 4",
+      "kr_sha256": "98e3c5aed10ac725785f5ed30cc8dc19f76cb78e99827a1d395be2a8545d8142",
+      "en_sha256": "cc3515a982cca4745510674200e696f7e5351727344390ab4f658123dacf0205",
+      "origin": "ai"
+    },
+    "dataList[id=34].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 4",
+      "kr_sha256": "694c2fddb1f5d74dd6027117a8d8276e15b1f286ea5e2aea8a2fd5d3fcd9f20b",
+      "en_sha256": "9a72ce0d694131691cf2d8dd05f49392a9d4b7d941ec98614660c824a1c47905",
+      "origin": "ai"
+    },
+    "dataList[id=34].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 4 II",
+      "kr_sha256": "f4e5f2ec49fa87b90446eecfb93996fad1ff2be6e0dfe81fc94a991cd8724760",
+      "en_sha256": "f4b352ae159283fa98bdcb4ec12161309ae573e07e11942b0011fe92eb6e1f0e",
+      "origin": "ai"
+    },
+    "dataList[id=35].desc": {
+      "pl": "Zdobyto po wpisaniu kodu kuponu specjalnego bonusu Library of Ruina",
+      "kr_sha256": "07c71b5cfaecb83fa2aa1b8a30d2d13f0bdac3915441da67c3e489fe4954c688",
+      "en_sha256": "7579f25e7ca390ba779b06b2000bec25ca10b8bab271508511f8b1e555415e81",
+      "origin": "ai"
+    },
+    "dataList[id=35].name": {
+      "pl": "Library of Ruina",
+      "kr_sha256": "ea2d700f9a62cb70ae8e1a546fa45cf5849d6ee29497db54b4f07e581321877f",
+      "en_sha256": "1ec0e024b7a68c7db0fc8aff74e746234878428b16f012a44cd9470dc960c5b6",
+      "origin": "ai"
+    },
+    "dataList[id=36].desc": {
+      "pl": "Zdobyto z wydarzenia 3. Nocy Walpurgii",
+      "kr_sha256": "563465e429e1e40cd2b7bd36364711a5f208c3c155fa833d0e0ed2b79e786308",
+      "en_sha256": "29d83c280cbc4488c30d78e35c1c8c80cbfbb6a65b47add6387445e239760c1a",
+      "origin": "ai"
+    },
+    "dataList[id=36].name": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=37].desc": {
+      "pl": "Zdobyto z wydarzenia Czas Zabijania Czasu",
+      "kr_sha256": "d1e30ba194078e40b5b5692cd77f097e792d7e8ef36102f8865c29de8f9a7126",
+      "en_sha256": "75d6b4936612f2a63ff6ecf16f0ee19f7a089986274704fc8629a59f76e83c8f",
+      "origin": "ai"
+    },
+    "dataList[id=37].name": {
+      "pl": "Czas Zabijania Czasu",
+      "kr_sha256": "c69542103a65b1ae48bbc11729f9d1fe743394e73df134c756cca95aeb4e4ed0",
+      "en_sha256": "4f6bb38b5d15b5696ef94bc157228a44c4e1f9b13f394949b1eeab46e961ae3a",
+      "origin": "ai"
+    },
+    "dataList[id=38].desc": {
+      "pl": "Zdobyto z wydarzenia Czas Zabijania Czasu",
+      "kr_sha256": "d1e30ba194078e40b5b5692cd77f097e792d7e8ef36102f8865c29de8f9a7126",
+      "en_sha256": "75d6b4936612f2a63ff6ecf16f0ee19f7a089986274704fc8629a59f76e83c8f",
+      "origin": "ai"
+    },
+    "dataList[id=38].name": {
+      "pl": "Czas Zabijania Czasu — Specjalny Banner",
+      "kr_sha256": "a4f0d91387a295ddbba1d5c5a9057244230d33fc8527722f82e0a65480efce9d",
+      "en_sha256": "5c30a46ed714bf5a19fe43874b14fb04b772ae06a6356991fcb64a51dbc3e8f3",
+      "origin": "ai"
+    },
+    "dataList[id=39].desc": {
+      "pl": "Zdobyto za ukończenie Odcinka 4 Kolei Załamania — Linia 4",
+      "kr_sha256": "010e5b713fa5dfe5bd0385f690bfc4d7f511ec14c717132843a992fa2bb07fc9",
+      "en_sha256": "8de7a703687fa9bc769d0564bce9bb0f751b0962edd6dd94823580a3a3a63038",
+      "origin": "ai"
+    },
+    "dataList[id=39].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 4",
+      "kr_sha256": "b15a2c9861b8327868bbf107ff64523e44217c7fef2bfe0f381183d104d112f6",
+      "en_sha256": "1c1655ea68e48f2bdcf32ca403b506d2ebbd2a47a34d0fdc5c1b7c0a8a1d9866",
+      "origin": "ai"
+    },
     "dataList[id=3].desc": {
       "pl": "Zdobyto z wydarzenia nagród obecności nowo zatrudnionych Zarządców.",
       "kr_sha256": "f5b596984e106d8e9924abf096530865f0c56dee93573762cdf29aed9acb31d9",
@@ -244,6 +394,126 @@
       "pl": "Świadectwo Pilnej Obecności",
       "kr_sha256": "acd32eb0668559b8120c2be001ee252528055813cc23aa7b1cf17c692ce0dd1e",
       "en_sha256": "aebc52b9382b60afc69ffb422e479c6c16c5a585f8bca01740b0b4dd4103291b",
+      "origin": "ai"
+    },
+    "dataList[id=40].desc": {
+      "pl": "Zdobyto za ukończenie Odcinka 4 Linii 4 z limitem 100 tur łącznych przed końcem Sezonu 4: Clear All Cathy",
+      "kr_sha256": "d798de184fc4ebf004a960704de7b22a972f4cdbe71baca8aadece5878b43579",
+      "en_sha256": "fd4e8fc66605b6b0ca3ca0f4f765c6bc73f3af898e57f5f2c6395083dc50f37b",
+      "origin": "ai"
+    },
+    "dataList[id=40].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 4",
+      "kr_sha256": "1186c20d5b8504e2e6e28197edbd7be93ef41106372341ffc410a8b27689e4c6",
+      "en_sha256": "08f027c45ed425f0709d38f6258da2c34a786d038f7f0814ff0011505249e6f7",
+      "origin": "ai"
+    },
+    "dataList[id=41].desc": {
+      "pl": "Zdobyto z wydarzenia Morderstwo w Ekspresie WARP",
+      "kr_sha256": "5270e569935df54494d3f58b8e06a6246c7c9d6f3a376b0f5ca2f27ad4503f4a",
+      "en_sha256": "22deb80cc5f9ca461050c1c762e361bc8acfd96e2035ba7f4b57668f2b3d44e7",
+      "origin": "ai"
+    },
+    "dataList[id=41].name": {
+      "pl": "Morderstwo w Ekspresie WARP",
+      "kr_sha256": "318990182fc982c44a6bba37ac09862e88c03d83d0e7cbf3fcc7c238e20814ca",
+      "en_sha256": "3b0ffebe3a4479ed6d080e22cfdd588937949981eebddfef7079bf342adf51a4",
+      "origin": "ai"
+    },
+    "dataList[id=42].desc": {
+      "pl": "Zdobyto z wydarzenia Morderstwo w Ekspresie WARP",
+      "kr_sha256": "5270e569935df54494d3f58b8e06a6246c7c9d6f3a376b0f5ca2f27ad4503f4a",
+      "en_sha256": "22deb80cc5f9ca461050c1c762e361bc8acfd96e2035ba7f4b57668f2b3d44e7",
+      "origin": "ai"
+    },
+    "dataList[id=42].name": {
+      "pl": "Morderstwo w Ekspresie WARP — Specjalny Banner",
+      "kr_sha256": "6623170920c99058d84581d8fb6b36cfad71aa30810f9aee6ffe893fcb400ce1",
+      "en_sha256": "a0a80c408f12d06c19840b3df1d9067765c8610ca3d5f7506e481284f17ce384",
+      "origin": "ai"
+    },
+    "dataList[id=43].desc": {
+      "pl": "Zdobyto z wydarzenia 4. Nocy Walpurgii",
+      "kr_sha256": "4bff332272d9fd90f76ac5e7c1dc49a7fe049f11e211593121d0d94e3c8e8f9b",
+      "en_sha256": "a56c41167c1c53a1f105ac400066aded533122c4212fe89629f89ef1c013e965",
+      "origin": "ai"
+    },
+    "dataList[id=43].name": {
+      "pl": "Fioletowe Południe",
+      "kr_sha256": "0d5d8373547c9cd8c03680ac118ea4a2975a49d246b92a3a7de41fa0ec3f1087",
+      "en_sha256": "c6a601752b845ca2a5963d08d477fd6c68a4e2dabb728438a05874665715a5e5",
+      "origin": "ai"
+    },
+    "dataList[id=44].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 5: Oblivion",
+      "kr_sha256": "b5839c57887e7fd083772a05fa570aa9de315b6e45d2570ce3296f577eaa94ff",
+      "en_sha256": "8ad2ea6f828a20b09ce151ac67c7a777db7ae7c5d5759f21b682fbe49abfed9d",
+      "origin": "ai"
+    },
+    "dataList[id=44].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 5",
+      "kr_sha256": "5f3cb6ca128e3f53733212a98b89badde42459a485b89bb68c9c2cc134e68f20",
+      "en_sha256": "a8ae5964fce22c886b8d49ac0c2d84ac7ad53413ae60f37290c6922555bf2430",
+      "origin": "ai"
+    },
+    "dataList[id=45].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 5: Oblivion",
+      "kr_sha256": "3646e8bcfdb98d0ad41ec480fb512cb0cd6e18610ec21fb9a6fb902b3e9f39cc",
+      "en_sha256": "df96693e514f14333e233ca64a3257f56c23fc5ab12bceb57ca2cdc45e613498",
+      "origin": "ai"
+    },
+    "dataList[id=45].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 5",
+      "kr_sha256": "c28f0296141794ff077186adaa96f3d50ea2d67edb2b8cce1358d48d7c6cec59",
+      "en_sha256": "ef9a49014b47e06a768a867ae3585d2b00cd6618d2ad0d5fd9bacf0396d966cf",
+      "origin": "ai"
+    },
+    "dataList[id=46].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 5",
+      "kr_sha256": "33bd91fc2a1fed825e08bb27c969a806cca0e5a5d81f4a7a52a80eb1643bfbd5",
+      "en_sha256": "e25d47b1849b43c70a345ed72c7eb561e1913c826913f11e89b02b6144c1cd86",
+      "origin": "ai"
+    },
+    "dataList[id=46].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 5",
+      "kr_sha256": "46329db1b0304cc8a6ec558123ecfcca895b661d1e61b2bc4cf4f901eca4caf4",
+      "en_sha256": "be4f66c9f04d3d40444d6f101fd9b8c297c453b4eb6215e1d912a714cd59293f",
+      "origin": "ai"
+    },
+    "dataList[id=47].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 5",
+      "kr_sha256": "33bd91fc2a1fed825e08bb27c969a806cca0e5a5d81f4a7a52a80eb1643bfbd5",
+      "en_sha256": "e25d47b1849b43c70a345ed72c7eb561e1913c826913f11e89b02b6144c1cd86",
+      "origin": "ai"
+    },
+    "dataList[id=47].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 5 II",
+      "kr_sha256": "3969752edd9a960afcdd169aa72861ef27ef76fdaf05c524484052242bf48ede",
+      "en_sha256": "96ed9aee8a8f9c9577089805c6e8335eb777d7f73971fd904bb5349de71ec5ee",
+      "origin": "ai"
+    },
+    "dataList[id=48].desc": {
+      "pl": "Zdobyto z wydarzenia 5. Nocy Walpurgii",
+      "kr_sha256": "21ea00530bc62fcae5558413c130c4703237183d6ef199b7fd87b7914c75bf35",
+      "en_sha256": "58475831ba6c1f87b209f80a2a0c9e10ead6ac76325a3b90ab99a3edb4d223f5",
+      "origin": "ai"
+    },
+    "dataList[id=48].name": {
+      "pl": "Biuro Kropki",
+      "kr_sha256": "5050ca5ee8c12ed176ec53af225a67bb9d19191622b48deedb910818c7190b41",
+      "en_sha256": "a214a1f3b673875e22bec77b00f3642b48a2be4249a1d1525231491968cb358c",
+      "origin": "ai"
+    },
+    "dataList[id=49].desc": {
+      "pl": "Zdobyto z wydarzenia Okresowe Badania LCB",
+      "kr_sha256": "b98fe7c9ebbd7d1a9c7d5b8595942e56e90036790f8695dd642d8e00d24c4536",
+      "en_sha256": "86eefe91d24d2145aead122effc7ca4d287e8ce3452fbfa074381f9e877a0599",
+      "origin": "ai"
+    },
+    "dataList[id=49].name": {
+      "pl": "Okresowe Badania LCB",
+      "kr_sha256": "65c5e58a8bd7a86fe398040bee99a7add09898b4b1b363a24746832ccc2c98d6",
+      "en_sha256": "5a1f00b1efc7ac94c8e8c40a3ba4610ee90675355389d7025457fdcaf18b741a",
       "origin": "ai"
     },
     "dataList[id=4].desc": {
@@ -258,6 +528,126 @@
       "en_sha256": "f57b68285dc8025e7d1b270c5a84cc543703555af38f21765dea5947fab9b592",
       "origin": "ai"
     },
+    "dataList[id=50].desc": {
+      "pl": "Zdobyto z wydarzenia Okresowe Badania LCB",
+      "kr_sha256": "b98fe7c9ebbd7d1a9c7d5b8595942e56e90036790f8695dd642d8e00d24c4536",
+      "en_sha256": "86eefe91d24d2145aead122effc7ca4d287e8ce3452fbfa074381f9e877a0599",
+      "origin": "ai"
+    },
+    "dataList[id=50].name": {
+      "pl": "Okresowe Badania LCB — Specjalny Banner",
+      "kr_sha256": "244bcce039742b0ed48df5ee0d497f7ebaa90e128c8db9430adcba321e21fbde",
+      "en_sha256": "95df1abce2fdd20600225421874f11d76b0bead0f6ede24c5258ad4c31877cf4",
+      "origin": "ai"
+    },
+    "dataList[id=51].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 5",
+      "kr_sha256": "44f35a380ed49b5dc974d18fb85e0290c785c0f957e3345bfd148b3065e15f99",
+      "en_sha256": "47e7c2ed6e525e806819cf637745a4fa99055a7cd226936f00dc3754b6a79ed0",
+      "origin": "ai"
+    },
+    "dataList[id=51].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 5",
+      "kr_sha256": "33763b2801105a85117f8005064c7ec575a5e07e25367597a3bf5caceb5035ce",
+      "en_sha256": "9243a1663f864efd336a2ebd5471b4230b66670342d5fa1ca5a976655f0004de",
+      "origin": "ai"
+    },
+    "dataList[id=52].desc": {
+      "pl": "Zdobyto za ukończenie Linii 5 z limitem 100 tur łącznych przed końcem Sezonu 5: Oblivion",
+      "kr_sha256": "8cae2568831841f0ea555618affead820727fcc62a489aa4c1facba54d6b8e02",
+      "en_sha256": "4631003a1c1dff6644212da4d6bd6c89b7a0dd4dcc212e988577384b0632c845",
+      "origin": "ai"
+    },
+    "dataList[id=52].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 5",
+      "kr_sha256": "30a7423b892a975007cf1e52d9368ec6009653b61f09f46927396339c247acba",
+      "en_sha256": "c3bd9de54f9bf70d607f42a489824562c4a9c00b36e25bb0ed992ed695ba80d5",
+      "origin": "ai"
+    },
+    "dataList[id=53].desc": {
+      "pl": "Zdobyto z wydarzenia 2. Rocznicy",
+      "kr_sha256": "afbe71e61232fac3b5cab3e218fd1ea71c9a784c7c84f66eb3e1e68f47d4f678",
+      "en_sha256": "9e4f1c67f0c9c1f8149450627f2a53f3272a2d3e19d4e5e51608053eea01079d",
+      "origin": "ai"
+    },
+    "dataList[id=53].name": {
+      "pl": "Banner Pamiątkowy 2. Rocznicy Limbus Company",
+      "kr_sha256": "7931690a24eb733cb4701ad41fc53f9cdae5c8c2bd4f1a3845e860fc054303e3",
+      "en_sha256": "ed26bdee24d7c15b0de3b7b63dea324d1e0d9d461a10a21e9528dd8b003657f3",
+      "origin": "ai"
+    },
+    "dataList[id=54].desc": {
+      "pl": "Zdobyto z wydarzenia 2. Rocznicy",
+      "kr_sha256": "afbe71e61232fac3b5cab3e218fd1ea71c9a784c7c84f66eb3e1e68f47d4f678",
+      "en_sha256": "9e4f1c67f0c9c1f8149450627f2a53f3272a2d3e19d4e5e51608053eea01079d",
+      "origin": "ai"
+    },
+    "dataList[id=54].name": {
+      "pl": "Specjalny Banner Pamiątkowy 2. Rocznicy Limbus Company",
+      "kr_sha256": "12114e473945bab5a57eff372473a742687b6943a1dbfd3c6e84af9173bafe9b",
+      "en_sha256": "b19d8e13d45c34a95f36d22631eccc727a38e97238a549a0e3528c48742a4c3f",
+      "origin": "ai"
+    },
+    "dataList[id=55].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Snu\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 5 — Lustro Snu”.",
+      "kr_sha256": "22e65f4bbecbbfc0fae5af0e8ca0162b928b356c04ef3477406dacb1bd13a3ce",
+      "en_sha256": "53a29e1ad6054960f634ffb244477f64dab346e81685a1d6db5a1a33a9d459e8",
+      "origin": "ai"
+    },
+    "dataList[id=55].name": {
+      "pl": "Banner Pamiątkowy Sezonu 5: Lustro Snu",
+      "kr_sha256": "27c7b4e48e22063989d6d054f804351dba6a9fd2853139c0129012d3980785b0",
+      "en_sha256": "bbf356563b8e59cac5409c7bef410ab3533d67381d461bb4761bfda1c8a9b511",
+      "origin": "ai"
+    },
+    "dataList[id=56].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Snu\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 5 — Lustro Snu”.",
+      "kr_sha256": "22e65f4bbecbbfc0fae5af0e8ca0162b928b356c04ef3477406dacb1bd13a3ce",
+      "en_sha256": "53a29e1ad6054960f634ffb244477f64dab346e81685a1d6db5a1a33a9d459e8",
+      "origin": "ai"
+    },
+    "dataList[id=56].name": {
+      "pl": "Specjalny Banner Pamiątkowy Sezonu 5: Lustro Snu",
+      "kr_sha256": "b5ce2e1b9fb9311cf6b8205986dfd0802ebafbf76c596237d1ddf7bf455ee697",
+      "en_sha256": "fc69da9bed7b03547e119d2f9a4fd62a6c605d189b0381dd873c3a41f94baa63",
+      "origin": "ai"
+    },
+    "dataList[id=57].desc": {
+      "pl": "Zdobyto z wydarzenia Nocne Sprzątanie",
+      "kr_sha256": "9dba66ee5eb4e65e86b0155d05cf53e78a1555a3a84d75d0fb0fa5bb0c16b684",
+      "en_sha256": "0eba506c0b3dcf955299938c3c3604a803ab1ff37947485891d5759eb10cd5b0",
+      "origin": "ai"
+    },
+    "dataList[id=57].name": {
+      "pl": "Nocne Sprzątanie",
+      "kr_sha256": "0e5d3b316cc6023f3e65d07f618dd0b16950d03736e7c5c88382863bde671114",
+      "en_sha256": "0f36a2f9ac9610687d75510e61862a902fab0ae6e8260394e567b107a7d7b9d9",
+      "origin": "ai"
+    },
+    "dataList[id=58].desc": {
+      "pl": "Zdobyto z wydarzenia Nocne Sprzątanie",
+      "kr_sha256": "9dba66ee5eb4e65e86b0155d05cf53e78a1555a3a84d75d0fb0fa5bb0c16b684",
+      "en_sha256": "0eba506c0b3dcf955299938c3c3604a803ab1ff37947485891d5759eb10cd5b0",
+      "origin": "ai"
+    },
+    "dataList[id=58].name": {
+      "pl": "Nocne Sprzątanie — Specjalny Banner",
+      "kr_sha256": "c91a914813727b28aaeda695889426b5f3382107323dc47b19f1335de0d809c9",
+      "en_sha256": "411eeed4826f70cd2153c5a551d423a42e8632f2c4030b6a826571a92c96ad6c",
+      "origin": "ai"
+    },
+    "dataList[id=59].desc": {
+      "pl": "Zdobyto za osiągnięcie wszystkich Osiągnięć Lustra Snu\n\nPo otrzymaniu tego przedmiotu Banner Pamiątkowy Sezonu 5: Lustro Snu oraz Specjalny Banner Pamiątkowy zmienią wygląd na Specjalny Banner Osiągnięć.\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 5 — Lustro Snu”.",
+      "kr_sha256": "a79c169ac85fd7cbd6e27d9a1a008cec5b5ebd7b1726cb4c7b06ca891d5832a3",
+      "en_sha256": "b51431f1466c4414b622fec86c80efa75522ba9b7f3ef669c01248a17fa66d4d",
+      "origin": "ai"
+    },
+    "dataList[id=59].name": {
+      "pl": "Specjalny Banner Osiągnięć Sezonu 5: Lustro Snu",
+      "kr_sha256": "d6c5129a3d27d78e9864d2905a64c7f980a08ab869b2c6f3ece30731c39b1748",
+      "en_sha256": "0be73282c7ac0158220ad1acec51c27f406666bf3fca06fc3f6956b686663f5f",
+      "origin": "ai"
+    },
     "dataList[id=5].desc": {
       "pl": "Zdobyto za ukończenie 13. Stacji Kolei Załamania — Linia 1.",
       "kr_sha256": "bad711804205199a3c89105696047d2c34ac29b7b774b383c5716706e8a8a6c4",
@@ -268,6 +658,126 @@
       "pl": "Banner Pamiątkowy Kolei Załamania — Linia 1 I",
       "kr_sha256": "df26cfec4c0cc1bd901ec2910561b0709469962993ba2b619c60a0b41aa32922",
       "en_sha256": "5655dc20a1c68d981407f32d402940dfd48af31fd02f7c101a8ca874f30c758c",
+      "origin": "ai"
+    },
+    "dataList[id=60].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 6: Zàng Huā Yín",
+      "kr_sha256": "3093f8ae458ab583d2d56460bd26cebb4c5338ff1bb98bbb4c7b16a30ffa1cbe",
+      "en_sha256": "0dfafbcd36f3c7f86cdee920c51bc902bda600e5a90a3d806af515de6ea21400",
+      "origin": "ai"
+    },
+    "dataList[id=60].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 6",
+      "kr_sha256": "c163fcbb1893bc990394f088b238fbf796554ff692f71a6605c8b90c30d8551e",
+      "en_sha256": "fe869d288145b6e28824ea10ba458e37a6098dcbf6c1b41532c23793f6968845",
+      "origin": "ai"
+    },
+    "dataList[id=61].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 6: Zàng Huā Yín",
+      "kr_sha256": "85bbe8b99235163604232fd552257af1f3bfb5c625d8882e6b9a7e10f752a427",
+      "en_sha256": "405cbe3316c33d164f3d61ec15a2918ab6954a11e0f72666ff9d16065ed57967",
+      "origin": "ai"
+    },
+    "dataList[id=61].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 6",
+      "kr_sha256": "e1890b24c8349e7e49519848730fddf7fcf4e59689b840a2a4e2a7ae364374d9",
+      "en_sha256": "c08685467a5508106a87e8c1da0fec2306b0d3322b8d44907dc2f3ca2a930f7f",
+      "origin": "ai"
+    },
+    "dataList[id=62].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 6",
+      "kr_sha256": "bbccc4c8b204cd4bd180d55bfe8f1b3d0935d89b71f54b7da9440f8cf5c0ce9d",
+      "en_sha256": "2068495d0d0e8712cb5deb13aeb55e4ab9c3fcf2c0ca15f7ea0aa59d139e8cd2",
+      "origin": "ai"
+    },
+    "dataList[id=62].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 6",
+      "kr_sha256": "5c4d72474c457a026f4aff3a575e9649ff69a2db86b10fac4745049e0181a413",
+      "en_sha256": "208bd751fa2356711b9443ace8d6243633dce93d4b88831f45cdf53e37c36762",
+      "origin": "ai"
+    },
+    "dataList[id=63].desc": {
+      "pl": "Zdobyto z wydarzenia 6. Nocy Walpurgii",
+      "kr_sha256": "93ef617ce32489be674789c868994bb79a1aae8b24d533b640ba7d5529ee5fa1",
+      "en_sha256": "4389b4df69ca69cf673544b5e166f09df67823f8bd7ffb4b223a0c58abff08ca",
+      "origin": "ai"
+    },
+    "dataList[id=63].name": {
+      "pl": "Czarodziejska Panienka",
+      "kr_sha256": "a33855e39ac0ab5e77fbcab0afcf5047562a924c8b1d66d131f2c1e8924ab464",
+      "en_sha256": "7a637b1aff315a0c274f1b7e7efd27455285b7083eb134acf7195d1aac8a77a6",
+      "origin": "ai"
+    },
+    "dataList[id=64].desc": {
+      "pl": "Zdobyto z wydarzenia Wiosenny Szlif",
+      "kr_sha256": "470bbd429f0efd1e0d6ceb727136f3f17f2d47c0bbd80c08fee5d8f15a4cd0d2",
+      "en_sha256": "4d3014405be9b549be200c657543a6e078d7a9ed99775d0f27bf119d90f2e37b",
+      "origin": "ai"
+    },
+    "dataList[id=64].name": {
+      "pl": "Wiosenny Szlif",
+      "kr_sha256": "6752961b28158e5ae4597a751f56155788f1bbb4bbc35d15401c371d23dd20f0",
+      "en_sha256": "f67d2577b913960a2f6a63f1557db66fc048cea270a266f4d964a9f0c39cb129",
+      "origin": "ai"
+    },
+    "dataList[id=65].desc": {
+      "pl": "Zdobyto z wydarzenia Wiosenny Szlif",
+      "kr_sha256": "470bbd429f0efd1e0d6ceb727136f3f17f2d47c0bbd80c08fee5d8f15a4cd0d2",
+      "en_sha256": "4d3014405be9b549be200c657543a6e078d7a9ed99775d0f27bf119d90f2e37b",
+      "origin": "ai"
+    },
+    "dataList[id=65].name": {
+      "pl": "Wiosenny Szlif — Specjalny Banner",
+      "kr_sha256": "48d7718dea6f60338d4614cd9df6256c0eaa5191dad31036ae125edceeaac73c",
+      "en_sha256": "be0ce8ab246503af2a217de67ddbbe4d2c6ec50e6160c4fb61eafb8a92fe94fe",
+      "origin": "ai"
+    },
+    "dataList[id=66].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Nieśmiertelności\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 6 — Lustro Nieśmiertelności” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "8a86259748d7862b10772de551f8fb97619ab312e3972253d29c902db3b44804",
+      "en_sha256": "5013ef08097e1efd1c4d44f6ccd32ce6424fa9372e7713f229dd1e1dd98615b3",
+      "origin": "ai"
+    },
+    "dataList[id=66].name": {
+      "pl": "Banner Pamiątkowy Sezonu 6: Lustro Nieśmiertelności",
+      "kr_sha256": "87557639a16b9d62df23be21e1e34b35b30a2000740039494b20e0c83e180ac5",
+      "en_sha256": "c76700cfe525a43b2d693a9cb6b3b2f6defbcbfc2657b4a18df1f372f9042dcb",
+      "origin": "ai"
+    },
+    "dataList[id=67].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Nieśmiertelności\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 6 — Lustro Nieśmiertelności” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "8a86259748d7862b10772de551f8fb97619ab312e3972253d29c902db3b44804",
+      "en_sha256": "5013ef08097e1efd1c4d44f6ccd32ce6424fa9372e7713f229dd1e1dd98615b3",
+      "origin": "ai"
+    },
+    "dataList[id=67].name": {
+      "pl": "Specjalny Banner Pamiątkowy Sezonu 6: Lustro Nieśmiertelności",
+      "kr_sha256": "c012b6099379d533b73cf1724b372f7b571d47d26804c3f219dc94b417af4c44",
+      "en_sha256": "affcec8282e4accbc3d19bf68f9d7a88b294fe87364193a6d8c6a9f1d8e3e56f",
+      "origin": "ai"
+    },
+    "dataList[id=68].desc": {
+      "pl": "Zdobyto za osiągnięcie wszystkich Osiągnięć Lustra Nieśmiertelności\n\nPo otrzymaniu tego przedmiotu Banner Pamiątkowy Sezonu 6: Lustro Nieśmiertelności oraz Specjalny Banner Pamiątkowy zmienią wygląd na Specjalny Banner Osiągnięć.\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 6 — Lustro Nieśmiertelności” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "31d1c631f093f97d785225fcc76601796acb2fa6db3f8e13f054eae646a59fc3",
+      "en_sha256": "d0af7dc454be5ffa674f03ca7462c8649d8f12129388e65d5a4a7d5dd6514b71",
+      "origin": "ai"
+    },
+    "dataList[id=68].name": {
+      "pl": "Specjalny Banner Osiągnięć Sezonu 6: Lustro Nieśmiertelności",
+      "kr_sha256": "2a66c37775b2eb3538382840e6542f1561801502f99d69e4580519b505321348",
+      "en_sha256": "36fc7e432a9b2735feae76473b0779a1f987db7415f91c5bddd8036b663aabf6",
+      "origin": "ai"
+    },
+    "dataList[id=69].desc": {
+      "pl": "Zdobyto z wydarzenia Pielgrzymka Współczucia",
+      "kr_sha256": "96cb24610f6375c5b9322d50606d1084fa2b80b2f0e9b34797a6229f3e691cf8",
+      "en_sha256": "626b9d57ab9a9084df72befbc97532ea0ccb70e941d1d8656f04f8af13850fba",
+      "origin": "ai"
+    },
+    "dataList[id=69].name": {
+      "pl": "Pielgrzymka Współczucia",
+      "kr_sha256": "263eaa64c692918a03c19ea0e799baa8140fc83a9cc391374af2db249f56dd05",
+      "en_sha256": "50f5016d85c6ff8d894bd5a6f1c6cc72c3b8a6d9fa36df52b16f97745eedbadd",
       "origin": "ai"
     },
     "dataList[id=6].desc": {
@@ -282,6 +792,126 @@
       "en_sha256": "ec6c1a6336bd1e8b45e4b571ca68a2c302f1c070195ecf18da4c7e321ea184c9",
       "origin": "ai"
     },
+    "dataList[id=70].desc": {
+      "pl": "Zdobyto z wydarzenia Pielgrzymka Współczucia",
+      "kr_sha256": "96cb24610f6375c5b9322d50606d1084fa2b80b2f0e9b34797a6229f3e691cf8",
+      "en_sha256": "626b9d57ab9a9084df72befbc97532ea0ccb70e941d1d8656f04f8af13850fba",
+      "origin": "ai"
+    },
+    "dataList[id=70].name": {
+      "pl": "Pielgrzymka Współczucia — Specjalny Banner",
+      "kr_sha256": "b31e83e57cc215d1ff4d0c94f97a9eb872f7c46c3366843303bddc8ae9e5f755",
+      "en_sha256": "cafcd2d0b608d7b6a4793d56ec3609562f4dc4f24051699af58e9e52b96ed035",
+      "origin": "ai"
+    },
+    "dataList[id=71].desc": {
+      "pl": "Zdobyto z wydarzenia 7. Nocy Walpurgii",
+      "kr_sha256": "14f311a4c09bc71d1200ca6b7bbfc68eff5bc2d46593281cb39b700b0abdb48c",
+      "en_sha256": "755492fdf07f093bf6759b7ddf8b71a921a00029a4454d3003beaabbcb2bab6a",
+      "origin": "ai"
+    },
+    "dataList[id=71].name": {
+      "pl": "Zwykłe Zaproszenie z Pewnej Biblioteki",
+      "kr_sha256": "ea1f6e9dff103ff3e08f99fdf7fb3eaeae4cf12e5436fb37ded4fa9481e3cf9c",
+      "en_sha256": "9dedd203f689b906b66416acbee9386c60da83456f24e5838a37484cbdd52d34",
+      "origin": "ai"
+    },
+    "dataList[id=72].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 1 BokGak w limicie 120 tur łącznych",
+      "kr_sha256": "2ffbdce35251e1d764d418599a39f251a69c4a623993a344883bfb1c3107850c",
+      "en_sha256": "d8b106e2ce507b2b4b92e19e086d7c5da3c1e926e428557c45acf60de2077ed0",
+      "origin": "ai"
+    },
+    "dataList[id=72].name": {
+      "pl": "Specjalny Banner BokGak Kolei Załamania — Linia 1",
+      "kr_sha256": "657fac5b6e309e598f2ebe65756deb68ce9039db38962e9d77057ad494b6d062",
+      "en_sha256": "6e1f05aefb0d639bd4e638f0d0ebb214c03aaed04f527754e00b1d42e5429e0a",
+      "origin": "ai"
+    },
+    "dataList[id=73].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 7",
+      "kr_sha256": "85228090dd335be9b06d2b6b3d7f3e4bd44f63930b964f65f103e7ea3016d591",
+      "en_sha256": "961bc83adcba33b37f834ff04d8fc2ea109ac29af130ad40bec8864f3616e620",
+      "origin": "ai"
+    },
+    "dataList[id=73].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 7",
+      "kr_sha256": "2945ea35d88cc5eb16611417ef100b9a693c4126553179500b6392942f44d9c4",
+      "en_sha256": "daa66e566eefdcfa51104b690b6cde08caef32a390a17ef7d704bbffecdc2c23",
+      "origin": "ai"
+    },
+    "dataList[id=74].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 7",
+      "kr_sha256": "2114d106813a55f6bf418f43dcfae8502fe704c9908e56b0a286d371fb9c6a99",
+      "en_sha256": "6986ff49913a22ef6f733a6d27ca4aef3413fa91c589864e67e20c1c5f153a1b",
+      "origin": "ai"
+    },
+    "dataList[id=74].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 7",
+      "kr_sha256": "14418863b4a584384e3647c3fa2c075c6478debbe754fb38bacd2442160558bb",
+      "en_sha256": "41bd3e98ca8bea753cef163e4028b9021885f854ea9a1e37b5eab7b6eb60dc4a",
+      "origin": "ai"
+    },
+    "dataList[id=75].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 7",
+      "kr_sha256": "e9bb14020e2dcdf1ce820a7fb7eec9682b38210d8ba4fe33d37461ba0ff01a45",
+      "en_sha256": "59944af6d1c510ace227192eda0dcad75358e178dac6459f892579f2c6eeb70e",
+      "origin": "ai"
+    },
+    "dataList[id=75].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 7",
+      "kr_sha256": "c276be883bca3435118476bc437b02f7c82ae9940ae3d006fb57a62e1e18fb11",
+      "en_sha256": "bb12c55a9617194a2272729ab9bec1b77460aa69ed9ece7a3ad1f6a5b6a1748c",
+      "origin": "ai"
+    },
+    "dataList[id=76].desc": {
+      "pl": "Zdobyto z wydarzenia 3. Rocznicy",
+      "kr_sha256": "669b88a25e6fdce0d22218c6b82894f62e45a0322cf7f55fc37cc70287aa72ff",
+      "en_sha256": "7a161a5c09ef9a94d0e17400df3ec2650f20bb874324369ee8daa34d48efc44c",
+      "origin": "ai"
+    },
+    "dataList[id=76].name": {
+      "pl": "Banner Pamiątkowy 3. Rocznicy Limbus Company",
+      "kr_sha256": "bc494e2b75e80c696c459c1904224b32ac76844adb226b1cbc4025e49e843aac",
+      "en_sha256": "18ca5d2269b99a7e87ba63bd6c16ee53f7cf7dcc8048423c90aed34b11445bf4",
+      "origin": "ai"
+    },
+    "dataList[id=77].desc": {
+      "pl": "Zdobyto z wydarzenia 3. Rocznicy",
+      "kr_sha256": "669b88a25e6fdce0d22218c6b82894f62e45a0322cf7f55fc37cc70287aa72ff",
+      "en_sha256": "7a161a5c09ef9a94d0e17400df3ec2650f20bb874324369ee8daa34d48efc44c",
+      "origin": "ai"
+    },
+    "dataList[id=77].name": {
+      "pl": "Specjalny Banner Pamiątkowy 3. Rocznicy Limbus Company",
+      "kr_sha256": "fafc0ac3b9e89d2d4b079bf4bb2626685ddbb5fe8e940181f9d9ac9177c67353",
+      "en_sha256": "788761a562ffeffd89d0dd357c1f5d0aa1f4e6f99d9e719d1fd3d982be3baa25",
+      "origin": "ai"
+    },
+    "dataList[id=78].desc": {
+      "pl": "Zdobyto z wydarzenia 8. Nocy Walpurgii",
+      "kr_sha256": "5ee9147f92d8f9418046a35f4b89c2b7bc45e6f57709ff2ca9e3733ba1155d0f",
+      "en_sha256": "9eeb048826dc156537b923a075518000dda56c04f8770c8136f6bbfd3129d0be",
+      "origin": "ai"
+    },
+    "dataList[id=78].name": {
+      "pl": "Bursztynowy Zmierzch",
+      "kr_sha256": "39606586eca5b2f62f8735a9a27e4aae6bc9217c7d70875b0f46d74b0921217f",
+      "en_sha256": "99c189a8a5719c3ac11df0f882bb83373085754f61a5d6f26055f3b43a761190",
+      "origin": "ai"
+    },
+    "dataList[id=79].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Imion i Pająków\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 7 — Lustro Imion i Pająków” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "1943e3b2784fd675512ff3e8bd9135578539b408048be94778e7527bdf15b0a2",
+      "en_sha256": "ab566f6e3cd5a424cd35f2cd189e7545d500220e38d3e0e37ad0d8a2bb4c57bd",
+      "origin": "ai"
+    },
+    "dataList[id=79].name": {
+      "pl": "Banner Pamiątkowy Sezonu 7: Lustro Imion i Pająków",
+      "kr_sha256": "6fd705d1433b879054eabc45ca9aabe7f6130bcf53e39ec904f84050800047d8",
+      "en_sha256": "e903c081640d1f42cd846b0651227b3c2ae8bc4b801eb0bc44993858eb45fd8b",
+      "origin": "ai"
+    },
     "dataList[id=7].desc": {
       "pl": "Zdobyto za ukończenie 13. Stacji Kolei Załamania — Linia 1 w limicie 120 tur łącznych w pierwszych dwóch tygodniach wydarzenia.",
       "kr_sha256": "3944b0a0e6f3eefa20bf3ece70456605716c1be54fe10c62c60bc0f4747a170c",
@@ -294,6 +924,126 @@
       "en_sha256": "9dc62427efe93e8d130ca7c46f67bf7525c8a4c9ed69e619a9bf30263d3d34dc",
       "origin": "ai"
     },
+    "dataList[id=80].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Imion i Pająków\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 7 — Lustro Imion i Pająków” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "1943e3b2784fd675512ff3e8bd9135578539b408048be94778e7527bdf15b0a2",
+      "en_sha256": "ab566f6e3cd5a424cd35f2cd189e7545d500220e38d3e0e37ad0d8a2bb4c57bd",
+      "origin": "ai"
+    },
+    "dataList[id=80].name": {
+      "pl": "Specjalny Banner Pamiątkowy Sezonu 7: Lustro Imion i Pająków",
+      "kr_sha256": "01b9f7f70f2d3743e2d3426b81f02f710fe2df9c6fa76a7e9728d0cc52cd64a3",
+      "en_sha256": "5bc6b52068986a969c13d38f6719aeb4a7bd150c489d56bccdad131515d60a60",
+      "origin": "ai"
+    },
+    "dataList[id=81].desc": {
+      "pl": "Zdobyto za osiągnięcie wszystkich Osiągnięć Lustra Imion i Pająków\n\nPo otrzymaniu tego przedmiotu Banner Pamiątkowy Sezonu 7: Lustro Imion i Pająków oraz Specjalny Banner Pamiątkowy zmienią wygląd na Specjalny Banner Osiągnięć.\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 7 — Lustro Imion i Pająków” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "6791f7f94ce071cd52164ff638fe22bd92046577d4c0c1858601439ca85a7052",
+      "en_sha256": "9afece56f68bd7020fdd4dc3ceda7505767939de1e8029588bddee4f0c1b8bef",
+      "origin": "ai"
+    },
+    "dataList[id=81].name": {
+      "pl": "Specjalny Banner Osiągnięć Sezonu 7: Lustro Imion i Pająków",
+      "kr_sha256": "6f484f3c6eb59cc3c25c8711f88fb89ac92da68aeb48fc1df30296479b754c12",
+      "en_sha256": "a80d5f3b212433547f2981cb6deb05059b9b10c780856f2092c7a060021ecf2f",
+      "origin": "ai"
+    },
+    "dataList[id=82].desc": {
+      "pl": "Zdobyto z wydarzenia Splatanie Pasm",
+      "kr_sha256": "e1cf3fa61b0312fe58441d90acb27b1bde7c38f773376212a71ea73e233d25a9",
+      "en_sha256": "c359d5da040f8b35be765962b4a519d69ec8886bd484a9615bea41872b0a862f",
+      "origin": "ai"
+    },
+    "dataList[id=82].name": {
+      "pl": "Splatanie Pasm",
+      "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
+      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36",
+      "origin": "ai"
+    },
+    "dataList[id=83].desc": {
+      "pl": "Zdobyto z wydarzenia Splatanie Pasm",
+      "kr_sha256": "e1cf3fa61b0312fe58441d90acb27b1bde7c38f773376212a71ea73e233d25a9",
+      "en_sha256": "c359d5da040f8b35be765962b4a519d69ec8886bd484a9615bea41872b0a862f",
+      "origin": "ai"
+    },
+    "dataList[id=83].name": {
+      "pl": "Splatanie Pasm — Specjalny Banner",
+      "kr_sha256": "198cc2ba13c794b057a9661d923a524b571b1291f11dbfb6328e2e30ebdd99ca",
+      "en_sha256": "8899baffaff95c12cc71a0e1cf804c6935028589704e6d77f5a3afd0c1778089",
+      "origin": "ai"
+    },
+    "dataList[id=84].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 6",
+      "kr_sha256": "764871a68edfc18d0354d59c2b66c76b948fa326c10a60efc1525cdbbe1e0178",
+      "en_sha256": "3e887f60bcea473b2e0b9829cfa4152da41c1c44c97f131101caecb9352c9523",
+      "origin": "ai"
+    },
+    "dataList[id=84].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 6",
+      "kr_sha256": "da5f070cbfecce0c46f753c8ac5ba32df383ad77b9a47ce1412121abac5267b9",
+      "en_sha256": "780d020a9898eff3b7a3d7c0ec660854050744db6eed568f766ad3b904149204",
+      "origin": "ai"
+    },
+    "dataList[id=85].desc": {
+      "pl": "Zdobyto za ukończenie Linii 6 z limitem 111 tur łącznych przed końcem Sezonu 7: Kumo no Ito · otI on akA",
+      "kr_sha256": "027c65459a079c9f593b49d8d1f06d7c82d8c7706a9a2840cea1ae4eaa55d1f8",
+      "en_sha256": "38106e64b5c298919c8efb67fedca2ef7507e2428b38eb161573a6a4364fb3c2",
+      "origin": "ai"
+    },
+    "dataList[id=85].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 6",
+      "kr_sha256": "ce5cfc87847109be95b20c88a88489bcf57c35996765d0c2cfb209804787b7de",
+      "en_sha256": "a2fad468188870a27aef48540c46973c16ec73f5aa5313f061df06c85dad24d1",
+      "origin": "ai"
+    },
+    "dataList[id=86].desc": {
+      "pl": "Zdobyto z wydarzenia Pamięć Doświadczenia",
+      "kr_sha256": "e69988285f4cb230e46f43010d5faa4929f34a9a92c08d7edba4f75c22d8a5a4",
+      "en_sha256": "0b0017748fd00e5c7e40eba25275431ebfcecf04050d2f65d3b588d6a5c87015",
+      "origin": "ai"
+    },
+    "dataList[id=86].name": {
+      "pl": "Pamięć Doświadczenia",
+      "kr_sha256": "f9eb86699cc3a3ef89e3845d4f72b1be96dcd5b68ad7cad3f55e08ab7a938439",
+      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4",
+      "origin": "ai"
+    },
+    "dataList[id=87].desc": {
+      "pl": "Zdobyto z wydarzenia Pamięć Doświadczenia",
+      "kr_sha256": "e69988285f4cb230e46f43010d5faa4929f34a9a92c08d7edba4f75c22d8a5a4",
+      "en_sha256": "0b0017748fd00e5c7e40eba25275431ebfcecf04050d2f65d3b588d6a5c87015",
+      "origin": "ai"
+    },
+    "dataList[id=87].name": {
+      "pl": "Pamięć Doświadczenia — Specjalny Banner",
+      "kr_sha256": "bff2152ff70365148e58c1ceea3d7473baf5e8944c30b2c7ea01286f86871c2e",
+      "en_sha256": "619729326bd48c392f5be24b08e65c4907a48b4462594deed652a0061595f447",
+      "origin": "ai"
+    },
+    "dataList[id=88].desc": {
+      "pl": "Zdobyto z wydarzenia 9. Nocy Walpurgii",
+      "kr_sha256": "1bdd06d63f5cce7854c82bffa3336a6221283d4bbecbcfec425cae28e937da21",
+      "en_sha256": "8517dabc35acde4ce2adb48696dfde97e2b3bfb0c27dbc480d54212b75301270",
+      "origin": "ai"
+    },
+    "dataList[id=88].name": {
+      "pl": "Fikser o Świcie",
+      "kr_sha256": "9acb7d0c46c0560bab54a7544efd0d6f870ca5edca2be5ccc8d90d5e130394c9",
+      "en_sha256": "50adf92df3203e210a5c6202c62388d87aaf102c72d03c8ce0b850196f54a965",
+      "origin": "ai"
+    },
+    "dataList[id=89].desc": {
+      "pl": "Zdobyto za ukończenie Kolei Załamania — Linia 2 BokGak z liczbą Cykli 5 lub więcej i limitem 150 tur łącznych",
+      "kr_sha256": "2289b71df280b5b22e0f480abd8977c01f5f59f982fa6a9acf6c2115cb8eeb5a",
+      "en_sha256": "64d245d503d92da44db322689864c243840ab8d161b8621edfed8d2cd8417e4a",
+      "origin": "ai"
+    },
+    "dataList[id=89].name": {
+      "pl": "Specjalny Banner BokGak Kolei Załamania — Linia 2",
+      "kr_sha256": "8a1bfab3540c14669f903f4eb58c60d292abc4c8769eff61f233b6867b1401e9",
+      "en_sha256": "d0a87233e2200a73398443836a36d60a4cb8eb22aacfcceea5ebb3dae6474a16",
+      "origin": "ai"
+    },
     "dataList[id=8].desc": {
       "pl": "Zdobyto z wydarzenia Piekielnego Kurczaka.",
       "kr_sha256": "c962097b7ee3d3ec5e62cce7d9867da3a801ef0c9cdb34f92b63a2599d2986e3",
@@ -304,6 +1054,126 @@
       "pl": "Piekielny Kurczak",
       "kr_sha256": "524f9d3406b7fc30ae0b30ab471fec49a64e31eecf39212d299e9c563aa8adf1",
       "en_sha256": "ed8443d8d315e84ce9175aa488434ac45b1d3fdf0348536827dbedcc9b01d33b",
+      "origin": "ai"
+    },
+    "dataList[id=90].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 8",
+      "kr_sha256": "6c2ae728365b893f6c73da647e14903178e18c90342bdd7d1cac4b2e129ffb15",
+      "en_sha256": "311d0a34ba31a45518391d024905e7016941fd2edd916530a3b03f94eae17016",
+      "origin": "ai"
+    },
+    "dataList[id=90].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 8",
+      "kr_sha256": "8cfc9bae3c8d72bb975d35f708be351787935f7f5d92ee40af208d50d187371b",
+      "en_sha256": "089b4a5a9656aef9945da5b67cef341c4499bcbe8b43e087225d5b5d21211ecb",
+      "origin": "ai"
+    },
+    "dataList[id=91].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 8",
+      "kr_sha256": "7b28f2509918d44edfba0890de491e3e8d3bc02fdfddb67ef07af4baf420fef8",
+      "en_sha256": "14fcd0b816f3da2e68549c41804d84fdf6febbb02c06d9619ac4c218ca3a6d0c",
+      "origin": "ai"
+    },
+    "dataList[id=91].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 8",
+      "kr_sha256": "47b0ef77f581589cc69ef6dce0babfaac849d1760944ec46603caa188c0a1b61",
+      "en_sha256": "e2554b9824703e4a56e739bad83400954e947d8da9710d7a52cabbc6d08ba64f",
+      "origin": "ai"
+    },
+    "dataList[id=92].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 8",
+      "kr_sha256": "ef6db79883736f758c27f42ae92f2a3ab76a670871c49c2aebb2592918624737",
+      "en_sha256": "d97e22642ff3b2cefe0c28bb6f1c6f3a932e4a5a429188590d9035b102383893",
+      "origin": "ai"
+    },
+    "dataList[id=92].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Sezonu 8",
+      "kr_sha256": "8333012650e0a8808cdb34055d51e86eb932eb2da476621dda97c1e409228943",
+      "en_sha256": "460a320ef6af7eb0182326be799cf4a00cac25a965637a9c6edc0f29143efffa",
+      "origin": "ai"
+    },
+    "dataList[id=93].desc": {
+      "pl": "Zdobyto za ukończenie Reflectrial][lairtcelfeR — Chachihu na poziomie trudności Normal w limicie 24 tur",
+      "kr_sha256": "d034f3abe1d8d0ff3b3c0b72fa579ae96c39c3f0a0f42d79de66dba351d5f5c0",
+      "en_sha256": "4c27b0f5671ffcd8b38486dc3bc9f1bdb2986b38e2f1acf1c6f90a83cff9fabb",
+      "origin": "ai"
+    },
+    "dataList[id=93].name": {
+      "pl": "Chachihu",
+      "kr_sha256": "ff3cce715d1362ed06af6d47b85c8d1e88e91bad4b370a57a4d75b2bc915d611",
+      "en_sha256": "c3ebafc36e1dc22930d564c625593b2f3b2081abbcc6411e4dfca152fe2c69c7",
+      "origin": "ai"
+    },
+    "dataList[id=94].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Sisyphe\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 8 — Lustro Sisyphe” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "2280ca1ba2a1f98fc22d591228db19864f4669cf2d4191830e069f9e287eaa2d",
+      "en_sha256": "bc639e02907204f1bb80fa95d8fad74a2dddaf77915da0715fda040fddce9746",
+      "origin": "ai"
+    },
+    "dataList[id=94].name": {
+      "pl": "Banner Pamiątkowy Sezonu 8: Lustro Sisyphe",
+      "kr_sha256": "40c017f8d67e71256c53267b7ae22e954c3f83a963ec738e614ee4af347ac4ec",
+      "en_sha256": "2167f49b33db1587434611e12bdb7517e6b5910a10b7e840850198680c6d3413",
+      "origin": "ai"
+    },
+    "dataList[id=95].desc": {
+      "pl": "Zdobyto jako nagroda osiągnięć Lustra Sisyphe\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 8 — Lustro Sisyphe” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "2280ca1ba2a1f98fc22d591228db19864f4669cf2d4191830e069f9e287eaa2d",
+      "en_sha256": "bc639e02907204f1bb80fa95d8fad74a2dddaf77915da0715fda040fddce9746",
+      "origin": "ai"
+    },
+    "dataList[id=95].name": {
+      "pl": "Specjalny Banner Pamiątkowy Sezonu 8: Lustro Sisyphe",
+      "kr_sha256": "14da8f5614cd1818d76da62d248aca7b4fb516399cea06afc50c39d68dd05aeb",
+      "en_sha256": "d2179162b310dca91ed0e633096333489a62b36f5ed19e6ccc84795f49062020",
+      "origin": "ai"
+    },
+    "dataList[id=96].desc": {
+      "pl": "Zdobyto za osiągnięcie wszystkich Osiągnięć Lustra Sisyphe\n\nPo otrzymaniu tego przedmiotu Banner Pamiątkowy Sezonu 8: Lustro Sisyphe oraz Specjalny Banner Pamiątkowy zmienią wygląd na Specjalny Banner Osiągnięć.\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu 8 — Lustro Sisyphe” oraz najwyższe osiągnięte piętro.",
+      "kr_sha256": "c04ff34c5e933e1b87a5b272ef0f793bc0b3c91b13a25c2d1445a296318be9a4",
+      "en_sha256": "a6a2ac5e80560524c36f7bf1259136d8ef5ec2e866233232521d4295d3f1f8e8",
+      "origin": "ai"
+    },
+    "dataList[id=96].name": {
+      "pl": "Specjalny Banner Osiągnięć Sezonu 8: Lustro Sisyphe",
+      "kr_sha256": "d98c38b545657f681f3f1eb28a22c51d043d5841f9abb77845afe5b32a2f3315",
+      "en_sha256": "2dbb1de1dca5940be940d524d84152cb3b829ca42d56da9d912ea13d4b67688e",
+      "origin": "ai"
+    },
+    "dataList[id=97].desc": {
+      "pl": "Zdobyto z wydarzenia 10. Nocy Walpurgii",
+      "kr_sha256": "4aacd0a3d166d5452e1b335507073fcf767805c007a97f4b950486e7a5da2fc6",
+      "en_sha256": "76ea8bcad38ac347115592b3052fbcaa1be782ab9d5ce307e8256e35dbc0e1ff",
+      "origin": "ai"
+    },
+    "dataList[id=97].name": {
+      "pl": "Biuro Klinów",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=98].desc": {
+      "pl": "Zdobyto z nagrody przepustki Konstrukcji Schematów Beta",
+      "kr_sha256": "87e0ef82a477905620c6b8e1aca5e18354057844802b65f46a0b5b481e661dd0",
+      "en_sha256": "b4a120af923265a854c7dc198360479cf1600bc0f3348cf865b0a9d6c01d4ee7",
+      "origin": "ai"
+    },
+    "dataList[id=98].name": {
+      "pl": "Banner Świętowania Konstrukcji Schematów Beta",
+      "kr_sha256": "e1b67db12274315d09cf9029b92245baa704697c90c9199bf5bec74e5619ab31",
+      "en_sha256": "52bb4649abdef5082c6675c01f3d9b8fcfc52bc9cae1cf74a4ba171d4c9ff71c",
+      "origin": "ai"
+    },
+    "dataList[id=99].desc": {
+      "pl": "Zdobyto z nagrody przepustki Konstrukcji Schematów Beta",
+      "kr_sha256": "87e0ef82a477905620c6b8e1aca5e18354057844802b65f46a0b5b481e661dd0",
+      "en_sha256": "b4a120af923265a854c7dc198360479cf1600bc0f3348cf865b0a9d6c01d4ee7",
+      "origin": "ai"
+    },
+    "dataList[id=99].name": {
+      "pl": "Specjalny Banner Świętowania Konstrukcji Schematów Beta",
+      "kr_sha256": "46933cc1e5c2fbac978ed0d1e2635a65da2c73e3906d82ba3f6a60654434d9c7",
+      "en_sha256": "157d1e4edd7f04df4e278fc455eb1c0617eb13336a1a2dbd49c7ddc4af96386d",
       "origin": "ai"
     },
     "dataList[id=9].desc": {

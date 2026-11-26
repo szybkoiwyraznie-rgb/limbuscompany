@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=38].desc": {
+      "pl": "Zdobyto na 70. Poziomie Darmowej Przepustki Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "d7a3520a26cc121696708bee2ec143d6198417b20d9df1ec2b6397f05d44e5b9",
+      "origin": "ai"
+    },
+    "dataList[id=38].name": {
+      "pl": "La Manchaland Koszmarów",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "e275b1ed37dc3bfda25961ab6d4273ba1575ac0b24b333ba88794a89592f0ffb",
+      "origin": "ai"
+    },
+    "dataList[id=39].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "27be60a1e1b26ba4a50a46819e03c559d925535675aefc5923bf0a3a0d0cb312",
+      "origin": "ai"
+    },
+    "dataList[id=39].name": {
+      "pl": "Latarnia w Ruinach (Kołyska)",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "6c0cfab576c1e6345f445b5418ea273f0b847b97d382fd1dff9115c68ea092fd",
+      "origin": "ai"
+    },
+    "dataList[id=40].desc": {
+      "pl": "Zdobyto na 110. Poziomie Darmowej Przepustki Sezonu 5",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "96091a0df9783ef3d28db576012d93b2b29c725e2412b1ba60f35297dcac9f9d",
+      "origin": "ai"
+    },
+    "dataList[id=40].name": {
+      "pl": "La Manchaland Snów",
+      "kr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "en_sha256": "505c8c2cffc021b4e635613969b1990f346034968bd8f05d0f1ee8c74d28c5de",
+      "origin": "ai"
+    }
+  }
+}

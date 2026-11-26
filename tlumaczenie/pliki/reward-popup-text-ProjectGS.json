@@ -1,0 +1,232 @@
+{
+  "entries": {
+    "dataList[id=ACQUIRE_PASSIVE].add": {
+      "pl": "{0} zdobywa [{1}] Pasywkę",
+      "kr_sha256": "c6b55a8d8efcce687ad50bd254f52793564d4d6d155e11f02ebd79cd9df330d4",
+      "en_sha256": "0d2e15fae240e14ab06143fce61d0244c65a28d13783555f9fabe356e3b70589",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_PASSIVE].min": {
+      "pl": "{0} traci [{1}] Pasywkę",
+      "kr_sha256": "9d4055b12784ae413927489b11e3f27825b472a45ae6e1a834dbafea0e26c358",
+      "en_sha256": "1297a58b539583003aff5e383763d774073d545ae1e981024c045249f5a01b10",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_SKILL].add": {
+      "pl": "{0} zdobywa [{1}] Umiejętność",
+      "kr_sha256": "21fa13ad5fb3b7fc007d513bd9913f293e9207b180ad10145638ef32286d0c7e",
+      "en_sha256": "b757195b911b5f5e3ca8c2cf858c2256a9322df2d8c9f6d56a47043737359ff6",
+      "origin": "ai"
+    },
+    "dataList[id=ACQUIRE_SKILL].min": {
+      "pl": "{0} traci [{1}] Umiejętność",
+      "kr_sha256": "24931bab842fad7ea0319791acbae9778f83d3db498a89f8ea5868545bfef07b",
+      "en_sha256": "b0587b66fb0fd29bb8212606203b649a8803a8fd54db09836ce01f637295deb2",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_HIT_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Uderzenie {0}: {1}",
+      "kr_sha256": "63a384dac10b96baa55735530bdb02b115da421688069918477d886b82dceda5",
+      "en_sha256": "b167189bf8fe4dae585f3d341bba8d5b3d16ee812dc841e76065a49c5b3b78fc",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_HIT_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Uderzenie {0}: +{1}",
+      "kr_sha256": "33b7ddc7d6168136ef9c92ca3db85c03be014969f04121eee264a349fb02a05a",
+      "en_sha256": "08256ae306a9beb3a59d9d09a5e8a21eac084b53acfa0d2cbfb5af60a20b010a",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_PENETRATE_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Kłucie {0}: {1}",
+      "kr_sha256": "0c79036567701252fde29c9e387d40f5b3610d2e12e5fc7af4271272279cbf61",
+      "en_sha256": "00a6cd22e74e561404933915b568b9af5a3d2435e87dca330450b77fa77fd226",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_PENETRATE_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Kłucie {0}: +{1}",
+      "kr_sha256": "fd974cb0cce0b1709b6893ab28c2d99c5b7ba6e19af37f8bbb9ccf822eb071aa",
+      "en_sha256": "b836de7b49103c9f05df8a7f977ffed3c0924e1a415c0eb189bd27c88d01a4c9",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_SLASH_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Cięcie {0}: {1}",
+      "kr_sha256": "e5cd12c61292f50c4e3763005b24c3c2712b52da3672a8a770230defad20e060",
+      "en_sha256": "2c82649f1afdd573f9acffb7decf2b916700c7416d94b4143d58163b52622234",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_SLASH_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Cięcie {0}: +{1}",
+      "kr_sha256": "fa1e0df9c15af05c53465567d85546e560fa52e076105d83e5edb8574ad6da5d",
+      "en_sha256": "3634cbf1b8c435f02efa8faeaaae2257cc0f94b90d53fa70191681c4e47ad93c",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_UPGRADE].add": {
+      "pl": "Poziom Ataku {0} rośnie o {1}",
+      "kr_sha256": "a837ae005d8c6629fdadabbf472081bdc272384bd89bd211acac49782fd3cf97",
+      "en_sha256": "45e682f020a4731eee103bc0c6efbf3e14b26d71bcd89c85453cf3fd0714d9ad",
+      "origin": "ai"
+    },
+    "dataList[id=ATK_UPGRADE].min": {
+      "pl": "Poziom Ataku {0} spada o {1}",
+      "kr_sha256": "be7834899179af723944e0c3052cb48d6e891a0e4dc0605bb7fa863ccf772770",
+      "en_sha256": "768cb250050f87111e593c09dc7673091f64dd3f60802351cc03345e4ad4ee16",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_AMBER_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Lenistwo {0}: {1}",
+      "kr_sha256": "392571eb1c0240a2b5a7960307899a3fad0b22adab979ad1ae459188693f7283",
+      "en_sha256": "40e260764d8db2737a78425d0d1c77142c6f9df6a7c73e1ac6cf9ca506b6664c",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_AMBER_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Lenistwo {0}: +{1}",
+      "kr_sha256": "586ee91b3128dbd5cf571b37a7d2399c620667a5d96672c57dcf18b395b7ca45",
+      "en_sha256": "f2844901cff4dce07e4eac6fc7c64096503e56e7ff37452cae2a681e88e3ad60",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_AZURE_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Smutek {0}: {1}",
+      "kr_sha256": "5b4632aee7b98f6b763c262c2ffc58458e4c5de6d670fc60ec73c8fbf01069a0",
+      "en_sha256": "fb3c95bd387c270041369ccef3a2894744810f86e3c911413d170d4a7e03847a",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_AZURE_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Smutek {0}: +{1}",
+      "kr_sha256": "edc72075befdf00c5637ab453771074f9aeb41c1cc9414ded4284015e5e29180",
+      "en_sha256": "0f087552e0153a96a0250598a25ce98c42359730775910007950f9e122e6d199",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_CRIMSON_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Gniew {0}: {1}",
+      "kr_sha256": "861ac8f5516e4d101fc16b83cacbe3a9fc80473c59f182651a735b33211b1483",
+      "en_sha256": "00dcd869e5f904f875b244439726db46fa7a5a28aa2b82047f3864fbbfaee396",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_CRIMSON_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Gniew {0}: +{1}",
+      "kr_sha256": "c9a910a337032ff2ed95a18a30e2127eddbeb910a387517331906cebc99d70ba",
+      "en_sha256": "f8dd13ce2bb318ea93d7a5d5461251d0bfa667813bfbde0bc6ad5003bf83e821",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_INDIGO_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Pychę {0}: {1}",
+      "kr_sha256": "17a7d30804d561043c54947f1986fdd7f4e4cbac3000e6bf1eb8f1347c9b019d",
+      "en_sha256": "5cd6e83af02f4f35cec8c11b7974e54103c45612549a71b4179912f4b232b797",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_INDIGO_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Pychę {0}: +{1}",
+      "kr_sha256": "841239cb00a5b0f551bb8ee19554c6a1a7b793987325733deaf4e8ae5772a35a",
+      "en_sha256": "63d8d562101108d707369a2ebc4f28c3d1f6c568411f7cbc711744aba2963266",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_SCARLET_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Żądzę {0}: {1}",
+      "kr_sha256": "17a68b8ffa5c48d348e02d27033d86b4baad8fb7b0fea27e543e504e4997a04f",
+      "en_sha256": "c3536c1954916fc609911fbb6f925dde1cbb094246e85fe60ac7a8068bbb674d",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_SCARLET_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Żądzę {0}: +{1}",
+      "kr_sha256": "1f5a51c0e5c6d6d018637caef209d2034019e0261fc8e1efd400c2f220fd3bba",
+      "en_sha256": "7dbcb632be7d761170e754470cc40fb55c598a99d86ed694e7260b2e6bf76cfa",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_SHAMROCK_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Obżarstwo {0}: {1}",
+      "kr_sha256": "beb1592ec83427a3dab3cc325e2cdf091d31cd3d7b9228e928d78890dc1aa75c",
+      "en_sha256": "ebae0a774b27b486e1cd43da0d1688b7e5d0e94c5adab91d181009495cd2268d",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_SHAMROCK_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Obżarstwo {0}: +{1}",
+      "kr_sha256": "1d661d720f4208ff7e2c9fd02f19a21193fc0d5fd7a6ba44820e758867c46f00",
+      "en_sha256": "d972fa6b850378714b78b58e91fe45c5f90eca6e721aa9f1b3baf7978fc8fa21",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_VIOLET_RESIST_UPGRADE].add": {
+      "pl": "Odporność na Zazdrość {0}: {1}",
+      "kr_sha256": "c04cb9e9c307e31dbc7cff2b81c2c7d4a08b75f662476417374a34e0d55f7e22",
+      "en_sha256": "7d5fb3bef0b1f70ddef0806844051933256731de884eba9b268dd11b6ec78260",
+      "origin": "ai"
+    },
+    "dataList[id=ATTRIBUTE_VIOLET_RESIST_UPGRADE].min": {
+      "pl": "Odporność na Zazdrość {0}: +{1}",
+      "kr_sha256": "7718236039bfbacdc1221df0a9e80300b1e491a94ba98e59d35ed45bc457c62e",
+      "en_sha256": "719e3df33880accce2f23087c05954b25b850f131b418552e7068ce7eba63e35",
+      "origin": "ai"
+    },
+    "dataList[id=DEF_UPGRADE].add": {
+      "pl": "Poziom Obrony {0} rośnie o {1}",
+      "kr_sha256": "84869c9f4de7c254f84d3c971a92b3c379d66e855614a0f01ac93968bd605943",
+      "en_sha256": "9f466efc55c68bc6529c8698df686f688c6d2cf35d202ab3814aea752ab89ca3",
+      "origin": "ai"
+    },
+    "dataList[id=DEF_UPGRADE].min": {
+      "pl": "Poziom Obrony {0} spada o {1}",
+      "kr_sha256": "ecdbad7ee3adef5e18f6b2d832fbada66c30adcb93bb10317af8db4b7a9fae60",
+      "en_sha256": "bc1fddae5f26d1b5bacc4ebbc6bef1c2fd23028c619999cca0cb5b6e67a6241a",
+      "origin": "ai"
+    },
+    "dataList[id=MAX_HP_ADD_UPGRADE].add": {
+      "pl": "Maks. PZ {0} rośnie o {1}",
+      "kr_sha256": "5cb76345ddbfc8ad5d792e527a4e643c995099f61222533af5890d226609e68f",
+      "en_sha256": "56c7d11eadbd5d2e4b522d985a7fcdc919f18b124fcc0c80102f1cc8a9ae0daa",
+      "origin": "ai"
+    },
+    "dataList[id=MAX_HP_ADD_UPGRADE].min": {
+      "pl": "Maks. PZ {0} spada o {1}",
+      "kr_sha256": "90c9683d67b49f13d4b4bb93ff0e920d06bc61bb23ade67f953c452e05993029",
+      "en_sha256": "d6d1308cb284059e94018cd60a18de4c8fb3d4b641bea2607489bbdc150f61c2",
+      "origin": "ai"
+    },
+    "dataList[id=PASSIVE_UPGRADE].add": {
+      "pl": "[{1}] Pasywka {0} wzmocniona!",
+      "kr_sha256": "8354e34e558cbd5b7453add8e7ba40a0f0558f257c7394c7aa556f85083248b2",
+      "en_sha256": "76316c7da18b39cda3bfb5a559c0b56b20d07b6186aced7f05507e8890750000",
+      "origin": "ai"
+    },
+    "dataList[id=PASSIVE_UPGRADE].min": {
+      "pl": "[{1}] Pasywka {0} osłabiona",
+      "kr_sha256": "03ab0a7fa489f177e3c224bfde61ccf7cdf8fc277005b71c1d59920ad1fb14d9",
+      "en_sha256": "17430ef4b0a73dad4463de35cbc04fdc74bd956c7deb9d0328120b1cffe1d96f",
+      "origin": "ai"
+    },
+    "dataList[id=SKILL_UPGRADE].add": {
+      "pl": "[{1}] Umiejętność {0} wzmocniona!",
+      "kr_sha256": "1f0a40b07d3af94900d035513b625410754fd7ee523022cbc27b382126d5447b",
+      "en_sha256": "4d59203561fbc7e688a079510ebd6d5ee6aa55b70420592a56ebf938e9700a60",
+      "origin": "ai"
+    },
+    "dataList[id=SKILL_UPGRADE].min": {
+      "pl": "[{1}] Umiejętność {0} osłabiona",
+      "kr_sha256": "6f5e3559c0ea8d46a4089ad2c2d96b753feb85a33b4bfed8295ae28bce2d9b03",
+      "en_sha256": "285a1db5d4bca3f8e87e013890420d4c61640fc4e8a8f65516dca07fa7919081",
+      "origin": "ai"
+    },
+    "dataList[id=SPEED_RANGE_UPGRADE].add": {
+      "pl": "Min. i Maks. Szybkość {0} rosną o {1}",
+      "kr_sha256": "56c1cc36d2c137e9b8f7790b1645df9c6864c1ff85bc7024ffc25f199be83fa2",
+      "en_sha256": "d8f5e1f231327ba8597e57f26a2f7f9517cfbeab83810cfa52b48b61e23ee205",
+      "origin": "ai"
+    },
+    "dataList[id=SPEED_RANGE_UPGRADE].min": {
+      "pl": "Min. i Maks. Szybkość {0} spadają o {1}",
+      "kr_sha256": "752a7142d324982bee82e11471273f863f458ab36d7746ceab84ce4b3a311f35",
+      "en_sha256": "8cba89c19dea198ff3baab6e68ae6efe5e4f4b4d955484f11af7235cb95f29ac",
+      "origin": "ai"
+    },
+    "dataList[id=UNIT_LEVEL_UPGRADE].add": {
+      "pl": "Poziom {0} rośnie o {1}",
+      "kr_sha256": "6ca29405c4b4eed5b834cd1d3acb5e1c92c80e46f9943a396358c58cb24bc4e1",
+      "en_sha256": "205f4c7759c284a1755196997a6633c2eb8f83fcb6924ab7ac7657773d743e65",
+      "origin": "ai"
+    },
+    "dataList[id=UNIT_LEVEL_UPGRADE].min": {
+      "pl": "Poziom {0} spada o {1}",
+      "kr_sha256": "2557778a1b3099c23aa8c960b2176586ccc29dd1780eedee49278c8a3bc1a71a",
+      "en_sha256": "1cf9182f2ec0fca1414502e5f861ce4b4fab505d44a9e37cf6414f14bed902d0",
+      "origin": "ai"
+    }
+  }
+}

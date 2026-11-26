@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=80].desc": {
+      "pl": "Zdobyto na 70. Poziomie darmowych nagród Sezonu 8",
+      "kr_sha256": "80f66f826f6a5185e461ca175ad2b2fa00e72fa6b6118d2a1ab7fc03cba89b99",
+      "en_sha256": "723af13274e87858d65993066fee136c616d87988281735cc90ac242716265ee",
+      "origin": "ai"
+    },
+    "dataList[id=80].name": {
+      "pl": "Plac Korporacji N",
+      "kr_sha256": "0c59bb37213c54dac9168fd918604bb124cd1daa59b3f4d7b2974ba93d830480",
+      "en_sha256": "6edbefe360957225870ac5438af5e021a5bc2f53b54cafdfd3e986583ff30dfb",
+      "origin": "ai"
+    },
+    "dataList[id=81].desc": {
+      "pl": "Zdobyto na 90. Poziomie Limbus Pass Sezonu 8",
+      "kr_sha256": "eeebdf8a59d8c488bf912cdad7625811ea21257eaf11adb496b868abbfe57403",
+      "en_sha256": "fd003414f8d8beaa31e83811140cb89cc7c6b6ba8820776088b36f0da822c30f",
+      "origin": "ai"
+    },
+    "dataList[id=81].name": {
+      "pl": "Samobójczy Automat",
+      "kr_sha256": "0ccf72f929db4e72ae3dc0cf49d93e662953eeda274bf880d10911faeec117e0",
+      "en_sha256": "23435ab0d62b09dfdd3acb6ac4b7d8a51f2b2ecd0ae67c39a771f68d0147e88b",
+      "origin": "ai"
+    },
+    "dataList[id=82].desc": {
+      "pl": "Zdobyto na 110. Poziomie darmowych nagród Sezonu 8",
+      "kr_sha256": "71ab23a8b7e4f59fa2d038579ca456e1f2185abd61a8e6bf48fb6a155530dae4",
+      "en_sha256": "58b96380bd65bde629884e9a4eeb568b753dc4d70e4f2a7c2fdb575f0a9a1b92",
+      "origin": "ai"
+    },
+    "dataList[id=82].name": {
+      "pl": "Grand Magasin Sisyphe",
+      "kr_sha256": "ece981d4b3d91d81efb97b76b6727d3d3c2ceae1a0ff9517006de80c20a8c217",
+      "en_sha256": "b48e3eeb97b86b5e651c56157dcb5372350ea30642def253868a0227d5412b45",
+      "origin": "ai"
+    }
+  }
+}

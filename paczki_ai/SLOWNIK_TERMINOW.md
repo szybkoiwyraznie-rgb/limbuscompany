@@ -289,6 +289,17 @@ Ten plik obowiązuje wszystkie agenty Arena wykonujące tymczasowy przekład int
 - Walidacja: 8 issues → 6 fixów LEN (nazwy biletów Wzmocnienia) + NUM 322 (V→5) + 607 (size 75%) → 0; import --ai 0 warnings
 
 
+### Bannery/Bilety tła E.G.O + ProjectGS popupy — zwroty profilu (`Fala 2: P38`)
+- 297 items, 9 sekcji: UserBanner 1..144 (127), UserTicket-EGOBg-a1c10p1/p3/a1c7p3/a1c8p1/a1c9p1 (146..185), UserTicket-EGOBg 186..350, UserTicket-R 627, reward-popup-text-ProjectGS 764..801 (popupy poczytalności — bez sekcji puste seqs reguła)
+- AUTO 19 krmatch bez override'ów (육참골단, 새벽 사무소=`Biuro Świtu`, 시간살인시간, 워프특급 살인사건, 마침표 사무소, LCB 정기검진, 심야청소, 절차탁춘, 선의의 순례, 타래 엮기=`Splatanie Pasm`, 경험기억=`Pamięć Doświadczenia`, 삽시호=`Chachihu`, 쐐기 사무소=`Biuro Klinów`, 우.미.다, 2호선~6호선=`Linia N`)
+- Locki krmap P38: 꿈결의 거울 = `Lustro Snu` (≠ „Lustro Snów”!), 영생의 거울 = `Lustro Nieśmiertelności`, 이름과 거미의 거울 = `Lustro Imion i Pająków`, 시지프의 거울 = `Lustro Sisyphe`, 업적 = `Osiągnięcia`, 기본 = `Domyślny`, 종착역 = `Stacja końcowa`, 제 N 구간 = `Odcinek N`, 난이도 = `Poziom trudności`, 시즌 5 오블리비언 = `Sezon 5: Oblivion`, 시즌 6 장화인 = `Sezon 6: Zàng Huā Yín`, 참격/관통/타격 내성 = `Odporność na Cięcie/Kłucie/Uderzenie`; grzechy: Gniew/Żądza/Lenistwo/Obżarstwo/Smutek/Pycha/Zazdrość; 스킬 = `Umiejętność`, 패시브 = `Pasywka`
+- ProjectGS: 증가 = `rośnie o {1}` / 감소 = `spada o {1}` (szybkość: rosną/spadają); resist = `Odporność na X {0}: {1}` (+{1} bez zmiany słowa); 습득 = `zdobywa`, 상실 = `traci`, 강화 = `wzmocniona!`, 약화 = `osłabiona`
+- Nazwy EN 1:1 latin: Library of Ruina, Pequod Town, Wuthering Heights, 1st/2nd/3rd Anniversary, Daguanyuan, Dongbaek, Grand Magasin Sisyphe, MirrorClock OrangeRoad, Masquerade, Merry Go Round, Maru no Uchi no Sanzu no Kawa, Madness, Möbius, Reflectrial][lairtcelfeR — Chachihu; PL: 메리 크리스마스 = `Wesołych Świąt`, 악몽/꿈의 라만차랜드 = `La Manchaland Koszmarów/Snów`, 자살 자판기 = `Samobójczy Automat`, N사 광장 = `Plac Korporacji N`, 항구 컨테이너 = `Kontener Portowy`, 푼크툼/쿠모노 이토 (Level-strings S7/S8) = bez nazwy (EN też pomija; 117 „Sezonu 7: Kumo no Ito · otI on akA”)
+- UserBanner wzorce: „Banner Uczczenia Startu/Ukończenia Sezonu N”, „Banner Pamiątkowy N. Rocznicy Limbus Company”, „Specjalny Banner Pakietu Limbus Sezonu N”, „Specjalny/Specjalny Pamiątkowy Banner Kolei Załamania — Linia N”, „Specjalny Banner Osiągnięć Sezonu N: Lustro X”, descs luster: „Zdobyto jako nagroda osiągnięć Lustra X\n\n※ Banner wyświetla liczbę ukończeń od 5. Piętra wzwyż w „Lustrzanym Lochu Sezonu N — Lustro X”...”; BokGak = BokGak (1:1); - 특별 티켓 = `— Specjalny Bilet`, - 특별 배너 = `— Specjalny Banner`
+- L Corp. zespoły: 지휘팀=`Zespół Kontroli L Corp.`, 교육팀=`Zespół Szkoleniowy L Corp.`, 중앙본부팀=`Zespół Dowodzenia Centralnego L Corp.`, 복지팀=`Zespół Dobrobytu L Corp.`
+- Walidacja: 0 issues (poprawka buildera: 4 pominięte seqy 114/124/134/214 uzupełnione przed apply); import --ai 0 warnings; duplikaty fresh∩krmatch (252/268/328 Linia N) — kr wygrywa, wartości zgodne
+
+
 ## 4. Twarde reguły techniczne walidatora (`tools/import_zwrotki.py --ai`)
 
 1. **Nigdy nie tłumacz identyfikatorów w nawiasach kwadratowych `[…]` należących do silnika gry** (np. `[OnSucceedAttack]`, `[Combustion]`, `[Laceration]`, `[Vibration]`, `[Burst]`, `[Sinking]`, `[Breath]`, `[Charge]`, `[Protection]`) — gra sama podmienia je na przetłumaczone nazwy z `SkillTag.json` i `BattleKeywords.json`! (Wyjątkiem są dosłowne napisy w samym `SkillTag.json`, gdzie cały tekst źródłowy to np. `[On Hit]` i nie ma on linii `tokeny: zachowaj dokładnie: [...]`).
