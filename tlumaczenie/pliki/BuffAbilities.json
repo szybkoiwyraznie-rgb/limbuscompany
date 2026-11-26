@@ -1,0 +1,850 @@
+{
+  "entries": {
+    "dataList[id=AddSinStockOnKillTargetByUsedSkillAttribute].desc": {
+      "pl": "Po zakończeniu Umiejętności ataku lub kontrataku, jeśli wróg ginie, zyskuje {0} zasobu E.G.O atrybutu użytej Umiejętności (raz na Umiejętność, w tym Umiejętności E.G.O)",
+      "kr_sha256": "b0c93367a08e14fb160ea1b585a30619b2534b67cbd4fa2e2a8177f0a88bfd75",
+      "en_sha256": "111748c08f670f1e5e6f5b5e6275119b72620e1fe111583ff3b7bfd133ddc8b9",
+      "origin": "ai"
+    },
+    "dataList[id=AtkAdderIfNotDamagedPrevTurn].desc": {
+      "pl": "Poziom Ataku {0} w następnej turze, jeśli przez turę nie otrzymał obrażeń HP\n(obrażenia Tarczy się nie liczą)",
+      "kr_sha256": "d880656cd61a0e71bd4ce3e5dc3992e85eb3a4e6fd6dd0c5373e3e830d7f9703",
+      "en_sha256": "792655ef32157595928a4fc390ea50e5eda46908353a41fbc3ad37312cda2352",
+      "origin": "ai"
+    },
+    "dataList[id=AtkAdder].desc": {
+      "pl": "Poziom Ataku {0}",
+      "kr_sha256": "86bed89f137b39e7fbf9f28747895e3240957a338d66a97bad0138f585f07004",
+      "en_sha256": "4519c18981099762f3c56642e0a36b6cfca2f7537b58e8fe862b04088dd262da",
+      "origin": "ai"
+    },
+    "dataList[id=AtkAndDefAdder].desc": {
+      "pl": "Poziom Ataku {0}, Poziom Obrony {0}",
+      "kr_sha256": "30eb0d5a432b53249b1c7dc96a7a516fb8cfe5243f1634abd039ae3ea050fd94",
+      "en_sha256": "ba8824fdad5f71c34d6202657f3dba95af4c2754e7f6abf0696b2f795ae1ce80",
+      "origin": "ai"
+    },
+    "dataList[id=AtkAndTakeAtkDamageMultiplier].desc": {
+      "pl": "Zadawane / otrzymywane obrażenia {0}%",
+      "kr_sha256": "10cea8069a2d945cdfa0b22afabb41f2fb8797fdf13577ab5f2dc1202c02317e",
+      "en_sha256": "23729b83dedfbd843bdb2abe2826d695e50d52b39d2c21175925e12fe312e8f8",
+      "origin": "ai"
+    },
+    "dataList[id=AtkAndTakeAtkDamageMultiplier].variation": {
+      "pl": "{1}% obrażeń zadawanych / otrzymywanych Umiejętnościami atrybutu {0}",
+      "kr_sha256": "6552ab23a95ee25862204ea10e109d236ae5a2b62576883fdb7a7d7d259166f1",
+      "en_sha256": "be87d16557502bf5279b50d0dfd43fcf8c13f609e5ff0e0570fa153eccd51c53",
+      "origin": "ai"
+    },
+    "dataList[id=AtkDamageMultiplier].desc": {
+      "pl": "Zadawane obrażenia {0}%",
+      "kr_sha256": "7796204e089a2da7e112c70aa4afe4750989aea6ac9858358d03c2117b41e4b3",
+      "en_sha256": "ac0eecb077ff8b3b87a64969fa7b460ae698e2d0db3c78211c18067f83e5865d",
+      "origin": "ai"
+    },
+    "dataList[id=AtkDamageMultiplier].variation": {
+      "pl": "{1}% obrażeń Umiejętnościami atrybutu {0}",
+      "kr_sha256": "4ed0a939c92ca16e3653bf28071965b3a888c99df866a29af96557c6927d3f6f",
+      "en_sha256": "868fe029c3a96d10d505419f70b5004ed8b651f025357900205772256a5ed0b5",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgMultiplierSpecificType].desc": {
+      "pl": "Umiejętności atrybutu {0} zadają +30% obrażeń",
+      "kr_sha256": "f4d1a7c05dae2b9a38bf484bdb38aa02b86eee313993dff3d3da0d4bba91a8f5",
+      "en_sha256": "5935feea627ecf8ee8ce71851cb163f9695d779a1055a0437e835e4eceb2acef",
+      "origin": "ai"
+    },
+    "dataList[id=CantRecoverMpOverValue].desc": {
+      "pl": "Poczytalność nie może przekroczyć {0}",
+      "kr_sha256": "7187d9bec328d1d16178e971db52cc856d4601f0b37ad0ba25f64b06e5d50657",
+      "en_sha256": "21a08dd12cdf54812811aa0fdd9d1ae463289bc87525c388feb3a3332b87e969",
+      "origin": "ai"
+    },
+    "dataList[id=CoinScaleAdderByAtkType].desc": {
+      "pl": "Umiejętności atrybutu {0} zyskują Moc Monet Plus +{1} i Moc Monet Minus -{1}",
+      "kr_sha256": "a2e50b6398213b8aace9fe7217c15b003d8eac053abc19e825ca98527b635538",
+      "en_sha256": "e843349ec1b86e6dffb296af530bce971b45a727509123147f7fe18b0f197341",
+      "origin": "ai"
+    },
+    "dataList[id=Crack].desc": {
+      "pl": "W stanie Oszołomienia, przy sumie Mocy i Licznika Wstrząsu wynoszącej 20 lub więcej, Poziom Oszołomienia rośnie o 1\nTen efekt nie może przekroczyć maksymalnego Poziomu Oszołomienia",
+      "kr_sha256": "8afed584c28e07bab44cbc7ccd2f4cbc44f2ce028f7c1417933c3924fc4df14b",
+      "en_sha256": "5d4f2fc118b59db8c71d6c047956ee6ae5cebed905dd8f3c7e2de606794a2379",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalDamageBoostWithBuffUse].desc": {
+      "pl": "Przy trafieniu krytycznym, jeśli posiadana Moc {0} przekracza {1}, zużywa nadwyżkę Mocy {0} (maks. {1}), zadając przy trafieniu krytycznym +(zużyta wartość x {2})% obrażeń (maks. {3}%)",
+      "kr_sha256": "83fb53e12a34558b0132d379734ebc3a9f99d6906ffb4010a0f1f41aa77d9bdb",
+      "en_sha256": "b115c6e8c0602783b2f8fcb95e8d2b05eb29e76747d1f3f53f82f04fbbac63da",
+      "origin": "ai"
+    },
+    "dataList[id=DefAdderByStackCeilToInt].desc": {
+      "pl": "Poziom Obrony maleje o 1 za każde 4 Mocy Wstrząsu",
+      "kr_sha256": "9e8b75c3fe2102c12c1c3a04324695d8f60a6638761d3e8da71f29b4bdb7201c",
+      "en_sha256": "6af6b28cd67c40467974e2ce9bd8e64b9693ebaa167f01efdef046992958e99b",
+      "origin": "ai"
+    },
+    "dataList[id=DefAdder].desc": {
+      "pl": "Poziom Obrony {0}",
+      "kr_sha256": "c66673f8caad1be21eef72672e6d5b2b8ce0190a3bdbdc3ee4e1a4cdc7c50efb",
+      "en_sha256": "2a5f5df63606874e1ed862e308d7020ba489fb3c0b40c82890d17ff01f223a41",
+      "origin": "ai"
+    },
+    "dataList[id=DefSkillPowerResultAdder].desc": {
+      "pl": "Moc Końcowa Umiejętności obrony {0}",
+      "kr_sha256": "a2faf424ccb7867481f89348b920212f3fccc3e0418fe818848dc340cd89bf4a",
+      "en_sha256": "13c83319870acf3ca88a6cede83781b9d97eb9da9df537acc5e41eafc3b16d0f",
+      "origin": "ai"
+    },
+    "dataList[id=DefaultLevelAdder].desc": {
+      "pl": "Bazowy Poziom Ataku {0}, bazowy Poziom Obrony {0}, bazowy Poziom Obrony jednostki {0}",
+      "kr_sha256": "8b803fae337a84ea6ec36cb7cd0318d13d8e74e8cbd25582660aa71d7cfb1072",
+      "en_sha256": "b844f800faa42f2ab72814e873d6cc9347402ea7c67d946926d8f1f226b59ad2",
+      "origin": "ai"
+    },
+    "dataList[id=DefaultMaxHpMultiplierBossRoomOnly].desc": {
+      "pl": "Maks. HP bossa {0}%",
+      "kr_sha256": "5dc70ec92a40121a646b404aac2235131c16863b9ea2268bc96259863eb19cc1",
+      "en_sha256": "e17532be2b48747e5b4ac1fb7d75b94845f450316a6ac0d703520eb7fc1f303f",
+      "origin": "ai"
+    },
+    "dataList[id=DefaultMaxHpMultiplier].desc": {
+      "pl": "Maks. HP {0}%",
+      "kr_sha256": "183efbbcc2d9c47d3c4ca30d30b5172d06faa3035ba0d0b42bb26ea96b4fee54",
+      "en_sha256": "dfc9442e7fb324b63703cec559f29400cd350b04546bc5d535e150fcf3a41124",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyLevelTextOnly].desc": {
+      "pl": "Poziom wroga {0}",
+      "kr_sha256": "3d57565d25c7469dfcae689a98b0d6f7315f53c12ed3877da07f9d79ac5f4ac8",
+      "en_sha256": "52013c9dd070a61af4b982d24e0b4f8cadeee04ac9d58a96ead554d04e3eca1b",
+      "origin": "ai"
+    },
+    "dataList[id=GainSinStockOnDieByDefaultSkill].desc": {
+      "pl": "Po śmierci zyskuje zasoby E.G.O odpowiadające atrybutom i rangom posiadanych Umiejętności ataku",
+      "kr_sha256": "0e2a5f2a6a831b9c6c38aafd9b0425662fd3f31289c83711325dcfa6eb224f1d",
+      "en_sha256": "818f10a5e85dd5b16da6a7fe7f0ef91fe1a13ef8caa111171cbf15b94c45740e",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnBattleStartAR].desc": {
+      "pl": "Na początku walki, przy aktywnym rezonansie {0}, wszyscy sojusznicy zyskują {2} Mocy {1} i {3} Licznika {1}",
+      "kr_sha256": "075e606571f6195ea1ce88c8e64932ec89742eb56a6130f852b787a22087af10",
+      "en_sha256": "3231d504478d6d0d9c35682eace5f32a0f7f98f8fb2712eb2a4d2972720a62a0",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnFirstRoundStartPerWave].desc": {
+      "pl": "Na pierwszy początek tury fali zyskuje {1} Mocy {0} i {2} Licznika {0}",
+      "kr_sha256": "826bbbc2ea3803766e76dd20b1483e38dc5e0fddfe478085d93f93fcd23f8326",
+      "en_sha256": "2ccd5d87932f412654c163b9dde7dfdb332ba83a0702ba1f4e098a0a94a9c961",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnReleaseStandBy].desc": {
+      "pl": "Gdy wchodzi z rezerwy, zyskuje {1} Mocy {0}",
+      "kr_sha256": "328e147a1d7d36f8091018285b22b92471222f08312f7fac71982d964e2922c9",
+      "en_sha256": "0b64b06b5c375a6f97078369dcace754dbca363347676b89bedabe2e6c1d1ef2",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStartToAllAllyExtra].desc": {
+      "pl": "Na początek tury nadaje wszystkim sojusznikom {1} Mocy {0}, a sojusznikom z {0} dodatkowo {2} Licznika {0}",
+      "kr_sha256": "63bfbfe1a36be1cce7755db2ac3fa0445acd080da68b21b24694eef2f5e08a7b",
+      "en_sha256": "d123e965454de826723a4ac0113a301069eea37f0f99cf828c5443c845bc01b0",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStartToAllAlly].desc": {
+      "pl": "Na początek tury nadaje wszystkim sojusznikom {1} Mocy {0} i {2} Licznika {0}",
+      "kr_sha256": "f6324bc521ee3d729f39e625d05be03d6bc39e10854ae23d178e07fc7e0109f3",
+      "en_sha256": "3a5fbf43330e0b2161e966b6116b3f65fe8c6d46002f7476f1d8936097628af7",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStartToAllAlly].variation": {
+      "pl": "Na początek tury nadaje wszystkim sojusznikom {1} Mocy {0}",
+      "kr_sha256": "74aa7105d0adbccf6756f00a4fa860a51b23053dd240a8b083e48c0bb83a26bf",
+      "en_sha256": "5f5fa0ea470d2401fc8061947d973b2e8c77f869e0da5f8962b3f5d8aebd888c",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStartToAllAlly].variation2": {
+      "pl": "Na początek tury nadaje wszystkim sojusznikom {1} Licznika {0}",
+      "kr_sha256": "5e6561912223799d353ab886a4926730593b054fc17ee601fbd9d2093b2ef62b",
+      "en_sha256": "eadb57b14f503ef669ab862b8c18e040d7d568a7ab0ea0b965f6e5902e8130a4",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnRoundStartToAllEnemyExtra].desc": {
+      "pl": "Na początek tury nadaje wszystkim wrogom {1} Mocy {0}, a wrogom z {0} dodatkowo {2} Licznika {0}",
+      "kr_sha256": "78f01a2fa1eeb0429d064212e3838ee4a049ad3d4f3ad2c5cbe8a602246b8045",
+      "en_sha256": "91d407b079a33e8da2c063a704eb5089f090632dfe4378f5fd71db0e8e262457",
+      "origin": "ai"
+    },
+    "dataList[id=GiveBuffOnSucceedAttack].desc": {
+      "pl": "Przy trafieniu nadaje {0} {1}",
+      "kr_sha256": "ad59098c629a0bd226e481fb85e3937f1482845af23c2c23f6a153e5b5fb8103",
+      "en_sha256": "5b4b851c64c904b43a5bb0ee12b191a96a011d3de664b80dacff87f288c3fc6c",
+      "origin": "ai"
+    },
+    "dataList[id=GiveHpDmgAsValueAndIncreaseOnRESelf].desc": {
+      "pl": "Na koniec tury sojusznicy otrzymują {0} stałych obrażeń HP. Obrażenia rosną o {1} co turę (maks. {2})",
+      "kr_sha256": "ec007e32b0ed12b1ca85f949d0691cca1f147720216723ac419528b89ed3f193",
+      "en_sha256": "fdd12b039eeb70496d9ff8abf1124b03b4ab47dea1a7becf041b6811bcf14d38",
+      "origin": "ai"
+    },
+    "dataList[id=GiveMpDmgAsValueOnRESelf].desc": {
+      "pl": "Na koniec tury sojusznicy tracą {0} Poczytalności",
+      "kr_sha256": "333f5e9abd86ec36488722ac8dd9dc2c9c0f589292d20cf7e55fa5a8119733ea",
+      "en_sha256": "4322115ca448b1da6a48336bae5b80cd13e127db9fe6ad0d74e4548c9b041e84",
+      "origin": "ai"
+    },
+    "dataList[id=GiveRandomNegativeSinbuffOnRoundStart].desc": {
+      "pl": "Na początek tury zyskuje losowo {0} z: Podpalenia, Krwawienia, Wstrząsu, Rozdarcia, Zatonięcia",
+      "kr_sha256": "be75eba21bfaca3e8ab79ddefbcb25d434e5b08a9c8b4cb79da7671c625d0c61",
+      "en_sha256": "9780435d6cf432cf005109e2f5f9104045f58365831d0f9a8ae608824ec9924b",
+      "origin": "ai"
+    },
+    "dataList[id=HealSelfOnSucceedAttackByDmgRatio].desc": {
+      "pl": "Przy trafieniu, jeśli HP celu zostało zredukowane, leczy HP o {0}% zadanych obrażeń",
+      "kr_sha256": "f98a818ac63f08c698f84a9d3cb1c477f4a1b5a0e867218deb6615df91721c8f",
+      "en_sha256": "03cd7f973e0eac095e5c406595c901fc4b846ff240d44cba653954037be08d69",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou10114].desc": {
+      "pl": "Wataha Heishou - Gałąź Wu, Adept Yi Sang: przy trafieniu ostatnią monetą Umiejętności bazowej wywołuje Wybuch Wstrząsu (raz na turę)",
+      "kr_sha256": "ae757e2c644517c1e334ba291e4f49750ab767394bffffe94cd32aabc548c2f2",
+      "en_sha256": "f8925eaacf940284fd858564f32c8e544441fa6ce36a7d5ca96431c4560222c0",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou10212].desc": {
+      "pl": "Wataha Heishou - Gałąź Mao, Adept Faust: otrzymuje -5% obrażeń od Umiejętności",
+      "kr_sha256": "c2ada5a00c1f5523da54fec0927af2cdabc0b4d153388ce0283ee622b27a18b4",
+      "en_sha256": "09befcdf4116a3ad16e623611221f36dfce751db5f23d07bf7f63bb6293c656c",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou10313].desc": {
+      "pl": "Wataha Heishou - Gałąź Wei, Don Quixote: nakładając Rozdarcie Umiejętnością, nadaje 1 Zatonięcia (3 razy na turę)",
+      "kr_sha256": "3a8285e2875524d3820c1fa96702a24619914e79dfde2dfd69b51495e83b30ae",
+      "en_sha256": "0d174d3ccbabb38106326dab0b5f5c03ab012fce4e31c64a7d0bfd7be86ccdb0",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou10411].desc": {
+      "pl": "Wataha Heishou - Gałąź Mao, Ryōshū: jeśli jego Szybkość jest większa niż Szybkość celu, zadaje +5% obrażeń",
+      "kr_sha256": "e6e6372426e697408081cfd7225dbaf1f2f26192a008ab8655a010b4c638e895",
+      "en_sha256": "3c00c3befe86bf16c9e13f3854c621dc3dc19cdeb089ef5b060f7c24cf29c9a6",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou10714].desc": {
+      "pl": "Wataha Heishou - Gałąź You, Adept Heathcliff: zadaje obrażenia Gniewu równe 5% obrażeń Obżarstwa zadanych Umiejętnościami bazowymi",
+      "kr_sha256": "7e0ba27b809abefe4ef21fb8ae95701a0c566a48c37a0f8f7e13591208c8560c",
+      "en_sha256": "fe77d4f5398c8019361cc541856f4ed32efaf86768e535c727dda987ba164681",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou10912].desc": {
+      "pl": "Wataha Heishou - Gałąź Si, Rodion: przy trafieniu krytycznym nadaje 1 Rozdarcia (3 razy na turę)",
+      "kr_sha256": "ca4d05132e2d8d86b82dece8423d25bcf8ec1e287920eb39b2d4eea10a70c1c5",
+      "en_sha256": "cff87aed4a52eee7407f83e6b4383dc53fdcde2951b3fb127ff4d8d9a1d2b2ea",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou11014].desc": {
+      "pl": "Wataha Heishou - Gałąź You, Sinclair: nakładając Rozdarcie Umiejętnością, nadaje 1 Podpalenia (3 razy na turę)",
+      "kr_sha256": "3be4bcdbefd61fae34ac65b6ed9aedd1d030c43acaddcbccb5732ed61294b067",
+      "en_sha256": "da2aac41793629c582f204622948ede5a9d72c9953f8a0c26260f698abfb399f",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou11112].desc": {
+      "pl": "Wataha Heishou - Gałąź Mao, Outis: przy trafieniu atakiem jednostronnym zwiększa Licznik Rozdarcia o 1 (raz na turę)",
+      "kr_sha256": "5531cbf5845f08003d29ef29e0ef1d7b51220116f0fda42b424aff6c06cdb857",
+      "en_sha256": "65848b0b1b3dbf64b51b94d8fe23b176783ca5ce12e883d627a0e002a428aead",
+      "origin": "ai"
+    },
+    "dataList[id=Heishou11212].desc": {
+      "pl": "Wataha Heishou - Gałąź Si, Gregor: zadając obrażenia Rozdarcia, zyskuje 1 Licznika Oddechu (raz na turę)",
+      "kr_sha256": "92b91bfaa8ef445d93937a528a1b499197506681ac330d3aebe609d7f154558a",
+      "en_sha256": "4c946753f8c53c7269d042e71db9ff0cc4e8646376122f3b54bd6d87fdfb79a9",
+      "origin": "ai"
+    },
+    "dataList[id=LacerationStackAndTurnAdderIfNotZero].desc": {
+      "pl": "Umiejętności i monety nakładają +{0} Mocy i Licznika {1}",
+      "kr_sha256": "f93273532419a161b282d9452ff7bd98fdcc854f684cda1421d94b41251c7ed0",
+      "en_sha256": "915a748ace6d5a62b02fed99265a9cd6e1e1806e0f9ba7448597ba71d1deca63",
+      "origin": "ai"
+    },
+    "dataList[id=LacerationStackAndTurnAdder].desc": {
+      "pl": "Umiejętności i monety nakładają +{0} Mocy i Licznika {1}",
+      "kr_sha256": "f93273532419a161b282d9452ff7bd98fdcc854f684cda1421d94b41251c7ed0",
+      "en_sha256": "915a748ace6d5a62b02fed99265a9cd6e1e1806e0f9ba7448597ba71d1deca63",
+      "origin": "ai"
+    },
+    "dataList[id=LoseTurnOnRoundEnd].desc": {
+      "pl": "Na koniec tury Licznik maleje o {0}",
+      "kr_sha256": "aea54619f128256d2e824fff2d39773920ba2e7f32304c6c137625a6ed6c569c",
+      "en_sha256": "8c3e03c1cf5c8ba625657647609b9019dd70ce90dc23469dacb5cd192f7c19b2",
+      "origin": "ai"
+    },
+    "dataList[id=MD6LimitTest105].desc": {
+      "pl": "Zmienia zużycie zasobów E.G.O x{0}",
+      "kr_sha256": "82d2291830b3b8a79b312a81ffff4387446ac274313b389a292e3ebfe899074f",
+      "en_sha256": "760febe5108d6932714af8c3a4259ddea806276b0ad11cfeb433c6ce4b6fe69c",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveBuffAllyDieAlt].desc": {
+      "pl": "Po śmierci sojusznika zyskuje w następnej turze {1} Mocy {0} i {2} Licznika {0} ({3} razy na turę)",
+      "kr_sha256": "383fba79f8281e6d3ae0345304f16ce4bbc62ea45fe91efb90d7340d168b0b19",
+      "en_sha256": "f39ce015d649e88142c50f0388ac06c7d7a0b6979834d3a37aa6f1683ca7c961",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveBuffAllyDieAlt].variation": {
+      "pl": "Po śmierci sojusznika zyskuje w następnej turze {1} Mocy {0} ({2} razy na turę)",
+      "kr_sha256": "105bb69117024d1e2693ce34984b63d375a47056e71c0fa4e25514a365bea4a9",
+      "en_sha256": "e51149a3e2e2a0c46cd1fd1a4b44f17f451a8f9743465d166c21d15ab8300bff",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveBuffAllyDieAlt].variation2": {
+      "pl": "Po śmierci sojusznika zyskuje w następnej turze {1} Licznika {0} ({2} razy na turę)",
+      "kr_sha256": "e3a0c3df099ddef2b056d0ec89a03af610b5539078155bb1928519662f1618f2",
+      "en_sha256": "0ddb193147416be316e59aa58a095b42be5187032bdfb77eed5c6bcbad56a083",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveBuffAllyDie].desc": {
+      "pl": "Po śmierci sojusznika zyskuje w następnej turze {1} Mocy {0} i {2} Licznika {0} ({3} razy na turę)",
+      "kr_sha256": "383fba79f8281e6d3ae0345304f16ce4bbc62ea45fe91efb90d7340d168b0b19",
+      "en_sha256": "f39ce015d649e88142c50f0388ac06c7d7a0b6979834d3a37aa6f1683ca7c961",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveBuffAllyDie].variation": {
+      "pl": "Po śmierci sojusznika zyskuje w następnej turze {1} Mocy {0} ({2} razy na turę)",
+      "kr_sha256": "105bb69117024d1e2693ce34984b63d375a47056e71c0fa4e25514a365bea4a9",
+      "en_sha256": "e51149a3e2e2a0c46cd1fd1a4b44f17f451a8f9743465d166c21d15ab8300bff",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveBuffAllyDie].variation2": {
+      "pl": "Po śmierci sojusznika zyskuje w następnej turze {1} Licznika {0} ({2} razy na turę)",
+      "kr_sha256": "e3a0c3df099ddef2b056d0ec89a03af610b5539078155bb1928519662f1618f2",
+      "en_sha256": "0ddb193147416be316e59aa58a095b42be5187032bdfb77eed5c6bcbad56a083",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitGiveShield].desc": {
+      "pl": "Zyskuje {0} Tarczy",
+      "kr_sha256": "7ecfcbd90ba74835e6173f5fa9739ed67bce357a3e6f696f42d9cb37d893e661",
+      "en_sha256": "f01e52aa2186a0bef0c6866354172853fe489494f2b8190742bef470ef586a58",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitMpAdjuster].desc": {
+      "pl": "Na początek tury odzyskuje {0} Poczytalności\n- Przy samych monetach Minus zamiast tego traci {1} Poczytalności",
+      "kr_sha256": "3fd11ade2d45d313371aa7c1dd1f27e2a80a9eab3a62252824f33305b191d8da",
+      "en_sha256": "23945a2b329694eab8705bf638967882e687d75cb5653ecc43e55fca19c35bd6",
+      "origin": "ai"
+    },
+    "dataList[id=MD7LimitSinBuffGiveBooster].desc": {
+      "pl": "Umiejętności i monety nakładają x{0} więcej Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia",
+      "kr_sha256": "c9bbf40ee762c1f60d043eeb86f3277153010bd51ea07157f2bb44dfc0ed552f",
+      "en_sha256": "d589a4471569a358d3d4483ec9feaf4efcf9c9caf428e91884bed3ac4f8156e9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR501].desc": {
+      "pl": "Umiejętności i monety nakładają na wrogów +{0} Mocy Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia",
+      "kr_sha256": "6ef62e13b5ca32e7e0df05875e57a30297d6931f2817e4ae621cff6288b67fe1",
+      "en_sha256": "adb8cb775c9fc8ba49d389502f833ce1e7b5aea135fddb5019ab3068897fc640",
+      "origin": "ai"
+    },
+    "dataList[id=MRR503].desc": {
+      "pl": "Na koniec tury {0} sojuszników z najniższą Poczytalnością odzyskuje {1} Poczytalności (z wyłączeniem sojuszników w Panice lub Korozji)",
+      "kr_sha256": "15be5bf2013d58c2b4228a1a676cabc9f535c3fa7d524b0a16b38824c09c2143",
+      "en_sha256": "2c1b9b6d020057634401103186ea3c7dc054a6b94f7108982123452f66b55dc3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR5051].desc": {
+      "pl": "Przy trafieniu Umiejętnością zużywającą 8 lub więcej Licznika {0}: odporność {1} celu +0.1 na czas tej walki\n- Działa raz na Umiejętność na wroga\n- Ten efekt może zwiększyć odporność jednego wroga maksymalnie o 0.3",
+      "kr_sha256": "dde6ce4565439423e71ef11039cf138e3268029055f3b37bff528d1555a02aec",
+      "en_sha256": "1d1dda043e3b72388e9b70e0d7a4af2b64f80f1d74023856a3d68408ed4c8c05",
+      "origin": "ai"
+    },
+    "dataList[id=MRR5052].desc": {
+      "pl": "Umiejętności zyskujące lub zużywające {0} Licznika zadają +(10 + zużyta wartość x 2)% obrażeń (maks. 50%)",
+      "kr_sha256": "7f8855749c85db49be94e08dc629239d0001c896f228bb6e4135c5bdd1eb511e",
+      "en_sha256": "92e963c46164520e5787a59f6a6e11e69fe2398ce65e25c22b3fb6a5dbd5d066",
+      "origin": "ai"
+    },
+    "dataList[id=MRR506].desc": {
+      "pl": "Na koniec tury: dla każdego słowa kluczowego z Licznikiem 2 lub więcej zadaje wszystkim częściom obrażenia {1} równe Mocy {0}, zmniejsza Licznik {0} o 1, wywołuje {2} raz i zmniejsza Licznik {3} o 1",
+      "kr_sha256": "fa6e355fd96a2f60f73859f6e2c696d9b209d401d9d18acddd2e93dcb7c7e4fb",
+      "en_sha256": "43a1db092774e85559dc95c0fa4d4b20707ee7eed95c7a7cd6298725e17b84e7",
+      "origin": "ai"
+    },
+    "dataList[id=MRR507].desc": {
+      "pl": "Umiejętności nadające {0} Mocy lub Licznika zyskują Moc Końcową +2",
+      "kr_sha256": "18d40b8567d4d70c28bc74bb8cb77ef2a792f5289c371b238e89aef7b875cf21",
+      "en_sha256": "bc6f3121c3ef11e3f77d75dfa01f3787087e4eaa2df326d1e436561de2c0aa3b",
+      "origin": "ai"
+    },
+    "dataList[id=MRR508].desc": {
+      "pl": "Zadaje +(Moc {0} celu)% obrażeń celom bez Poczytalności lub z Poczytalnością poniżej 0 (maks. 45%)",
+      "kr_sha256": "355d67b73af003de3d86315443366a91a3df137d9c94cc048d1ab2d8c1530d67",
+      "en_sha256": "f40ee7fd74c1600b7755ff4e5dd8aee61da1839f7e37bdd2f601e2e54944349a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR509P].desc": {
+      "pl": "Zadaje +{0}% obrażeń zniszczonym lub oszołomionym częściom",
+      "kr_sha256": "dcfdfd45b6c7257ca82396ab0feb01e30e6441c6a6e34b3fb462ef23a2a66844",
+      "en_sha256": "1552f218da47b8a929a333ad0ae11ddc417683ed9884d28d04befaf6fe0c91a3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR511PMaxSpeedAdder].desc": {
+      "pl": "Sojusznik rozmieszczony jako #1: Maksymalna Szybkość +1",
+      "kr_sha256": "52c767c28dd8c25b379a2f37cba8f8ed3a58ffa17f5d3618863d85330f9bcb21",
+      "en_sha256": "85eafd4f14f12fe2cbcd5e4949ffb1da67a7c3c06deb496758868c1164b868e6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR511PMinSpeedAdder].desc": {
+      "pl": "Sojusznik rozmieszczony jako #1: Minimalna Szybkość +1",
+      "kr_sha256": "a6fc5ae8cc7d9cb22043981114472ea6dd8115073d45fa22efdd8d8fef6889a3",
+      "en_sha256": "74b84a7d9a967cb165bd5e884ef0cc1698c9b7e304d6ec57090f0adbeb64dafa",
+      "origin": "ai"
+    },
+    "dataList[id=MRR511PMinSpeedChangeSkill].desc": {
+      "pl": "Sojusznik rozmieszczony jako #1: traci 1 Umiejętność 1, zyskuje 1 Umiejętność 3",
+      "kr_sha256": "91247f53a5bae56d9c6d61842dc351f0853b79b4d5bc09cd1144a5258cb65532",
+      "en_sha256": "2cc976b3ceb688c53cd4fdbfcf50903c0e004bfb59f287ed8c0d63e6ce963a64",
+      "origin": "ai"
+    },
+    "dataList[id=MRR512].desc": {
+      "pl": "Od rozmieszczenia #7, przy wejściu z rezerwy na początku tej samej tury: leczy {0} Poczytalności, zyskuje {2} Mocy {1} na czas tej walki i {3} zasobów E.G.O atrybutu każdej z Umiejętności 1, 2 i 3",
+      "kr_sha256": "e44c359d123b42221878215b90864b29a44e67fb6893d71fa3de94f032e437a1",
+      "en_sha256": "90a50eb54d647049888bb2730e4b7c0693dac4af2875cc172abd6543ddc9d5fa",
+      "origin": "ai"
+    },
+    "dataList[id=MRR514].desc": {
+      "pl": "Gdy wzmocnienia wprowadzą nowych wrogów, na początku ich walki nakłada na nich 5 Krwawienia i 3 Licznika Krwawienia. Jeśli wśród sojuszników jest <Krwiożerca>, po spełnieniu powyższego warunku wywołuje Krwawienie wszystkich wrogów i maleje Licznik Krwawienia wszystkich wrogów o 1",
+      "kr_sha256": "7e1135f333bae3adca7c45deec0199e84bdebf4e8f355253c07a7dfbc95c39e9",
+      "en_sha256": "d78732c6158416d9bbea63c28c5be30adf4cc1dae29de8727438b40ce72cacd9",
+      "origin": "ai"
+    },
+    "dataList[id=MRR517].desc": {
+      "pl": "Za każde otrzymanie trafienia Umiejętnością zyskuje 2 Wzrosty Poziomu Ataku w następnej turze (maks. 6)",
+      "kr_sha256": "1b367c10bdc236e8aacfc4b910c145fb42b70548d406c1bed3b3463154cda5fa",
+      "en_sha256": "cc4f02d8f94968ead0fb2691cf5db38de7cce8eb6656e581132975d3533cac09",
+      "origin": "ai"
+    },
+    "dataList[id=MRR518P].desc": {
+      "pl": "Na początku walki 3 sojuszników rozmieszczonych najwcześniej zyskuje 10 Mocy Oddechu",
+      "kr_sha256": "9d3be6e5e853d5305dc7dd6343b67093e47aceed2b3cccf0fc0068445b1ab25e",
+      "en_sha256": "72351dc3946ee0afc12e991c765b1a3192b4f9b453fcd781b15ccb8feca10bd6",
+      "origin": "ai"
+    },
+    "dataList[id=MRR519P].desc": {
+      "pl": "Za każdą śmierć sojusznika wszyscy wrogowie otrzymują stałe obrażenia równe 20% Maks. HP zmarłego sojusznika",
+      "kr_sha256": "ecd27427ba02bca8a95e3cc4e5d02e21334e13e0961869ef634ed28730cfccbe",
+      "en_sha256": "00a0e3395b5c0f4f88cce06cca598e2b6b81752f0761750563f6c21090a6eaa8",
+      "origin": "ai"
+    },
+    "dataList[id=MRR520P].desc": {
+      "pl": "Po śmierci zadaje wszystkim wrogom stałe obrażenia równe {0}% Maks. HP zmarłego (w walkach skupionych dotyczy części)",
+      "kr_sha256": "5a501d64a672e6738b71cd9a1b91435aa7d6d804bba95319d7b1179139738fcc",
+      "en_sha256": "f915d3bd93e32db13fcc71fb66561630bea45608299e5a2e23c81cd1b38dd5ea",
+      "origin": "ai"
+    },
+    "dataList[id=MRR521].desc": {
+      "pl": "Usuwa pierwszy Próg Oszołomienia",
+      "kr_sha256": "fd0166afdf0b707f4d44f7a8befbd0edaa5525b5774715311e858c643697382b",
+      "en_sha256": "4b12860926f237367be79fda19fdda88480089d0b6a744aae1da6345113ff216",
+      "origin": "ai"
+    },
+    "dataList[id=MRR524P].desc": {
+      "pl": "Wszystkie Umiejętności zadają +1% obrażeń za każde 10 {0} tej jednostki (maks. 30%)",
+      "kr_sha256": "18d6160c78fb05c6496f357b8910d200b311d75a3eb28e30cfa57f84cd6b9366",
+      "en_sha256": "b963af1caa2a512f04db3a2c530522108be95f03bdb4451bf389111fe9cb2d86",
+      "origin": "ai"
+    },
+    "dataList[id=MRR525].desc": {
+      "pl": "Na koniec tury Licznik {0} maleje o {1}",
+      "kr_sha256": "980b7c36f22ad05009ddd7ebde656cd5fa075f47fcda31b525f7828c655f1202",
+      "en_sha256": "3a11f8d2c8649b17d443f4d3fb0d759541ed3ceb624b695c1f3cc37e7768294f",
+      "origin": "ai"
+    },
+    "dataList[id=MRR532].desc": {
+      "pl": "Po zakończeniu ataku Umiejętnością Przebudzenia E.G.O zużywa po 1 zasobie E.G.O z 2 losowych atrybutów posiadających co najmniej 1 zasób (łącznie 2)",
+      "kr_sha256": "ceede6dbef1f824c1a668ed5643f985fa076163b5adbc557e188c09ee10be28e",
+      "en_sha256": "cc40cb40f247e00b3f7927314a3cff0c0f246476f8d74ece721a2320c8fed2b1",
+      "origin": "ai"
+    },
+    "dataList[id=MRR536].desc": {
+      "pl": "Za każde otrzymanie trafienia Umiejętnością zyskuje w następnej turze losowo 1 Mocy {0} albo 1 Mocy {1} (maks. 4 razy)",
+      "kr_sha256": "68c2a641ce4f2892956798a5a21c8cbc623bb5cac30eee7fa5be28705add363d",
+      "en_sha256": "563e27420f32ce1f3050c30686ad981fde9d4baf8eb7b3f3840bc4bd79b7a882",
+      "origin": "ai"
+    },
+    "dataList[id=MRR540].desc": {
+      "pl": "Umiejętności zużywające {0} zyskują Moc Końcową +1 i zadają +10% obrażeń",
+      "kr_sha256": "cbcc6ad6f8c64223661136b1a37429638089bef77ccde3827bc02f785b7d63e4",
+      "en_sha256": "0f48a39e8ef1bd6742add595496e11205c4b2e9de08f94a3880769dcb0a07b7a",
+      "origin": "ai"
+    },
+    "dataList[id=MRR541].desc": {
+      "pl": "Jeśli głównym celem jest jednostka z najniższą wartością {1}, Moc Końcowa Umiejętności +{0}",
+      "kr_sha256": "429959c86963cf089078a1d370f9cd347460147a0484619d9f0cb4a7eb455d8e",
+      "en_sha256": "e30c5acb453b30c249877e61221af75e33aacc5b42e40a0a79eaa6772a80cfe3",
+      "origin": "ai"
+    },
+    "dataList[id=MRR544].desc": {
+      "pl": "Na początek tury wszystkie Umiejętności sojuszników zyskują Moc Końcową +1~3",
+      "kr_sha256": "cd9ab42c15093c677ce2d23bdc31d05c67345cba63a3acbce2621f01a29d5073",
+      "en_sha256": "51e24a098eb8e8f56b302da652c571a2a6afdd58175856a47dc30c78440a3409",
+      "origin": "ai"
+    },
+    "dataList[id=MRR547].desc": {
+      "pl": "Na początek tury Moc Końcowa Umiejętności wrogów +1~3",
+      "kr_sha256": "3f9674e8ac3901f086fba20fa42eb4169efc1a18c3e2c8a3c560c3b15e1598ac",
+      "en_sha256": "cb30c9841b034e6fab1f49918861d0c54d52300cb5e802f7cfd813e954ac88b5",
+      "origin": "ai"
+    },
+    "dataList[id=MRR551].desc": {
+      "pl": "Na początek tury, przy pełnym HP, zyskuje {1} Mocy {0} i {2} Licznika {0} (raz na walkę na wroga na część)",
+      "kr_sha256": "229087c5d98094b6c93568e564e1a1b12f3f7179551cfbf72d9b0cda4abd0823",
+      "en_sha256": "9b8cc8beaf33db9d6dce9cf23a1fa23a3569298275bcb976ebe8a3649911f661",
+      "origin": "ai"
+    },
+    "dataList[id=MRR552].desc": {
+      "pl": "Po śmierci 1 sojusznik z najniższym obecnym HP zyskuje {1} Mocy {0} w następnej turze",
+      "kr_sha256": "ab520912576250951c26b9646832a5c22846c4cc5c85f7127847caac98d8b226",
+      "en_sha256": "8616de4ab231946b60b082e6e294b803da33f878e2ebcb874a58a6a9d70a032c",
+      "origin": "ai"
+    },
+    "dataList[id=MRR553].desc": {
+      "pl": "Umiejętności E.G.O zadają +{0}% obrażeń",
+      "kr_sha256": "ae6d6c4b4caf24926693d187f00aec7c17ed884a9c30173f66f3fab66b003c55",
+      "en_sha256": "0b41a1f007560e0d03997bdad5f5417fa89ac88bb8a958878fcf816ca05c81c0",
+      "origin": "ai"
+    },
+    "dataList[id=MRR557].desc": {
+      "pl": "Zadaje +(10 + suma Mocy i Licznika {0})% obrażeń przy trafieniu krytycznym (maks. 50%)",
+      "kr_sha256": "c2bc534a847deea73baf0fafb66e27b90c7cb84f5de60dbea12c8c5eca74e528",
+      "en_sha256": "7121d54daec0bbdc30b0e8b8b5beae63e752ead0cc33a11f9b6fee2beeaea418",
+      "origin": "ai"
+    },
+    "dataList[id=MRR565MaxSpeedAdder].desc": {
+      "pl": "Maksymalna Szybkość {0}",
+      "kr_sha256": "ff91442ea4ad25536f0614634a2f0fccb18e075e4060bfa0bf06311af173e4f0",
+      "en_sha256": "8a1f801a17c076680fa20c5d62e271adc54cc313228a9d0ba608112c0146f732",
+      "origin": "ai"
+    },
+    "dataList[id=MRR565MinSpeedAdder].desc": {
+      "pl": "Minimalna Szybkość {0}",
+      "kr_sha256": "63d3dcee73c2d80a99e28318085eee8dcdc7eb7c1bfb37c352eb0add9dfb3fb9",
+      "en_sha256": "5097dc7e4dfe3bb48ae9ca1fd939997a23f8f2adc75c93f3588d9528aaaae531",
+      "origin": "ai"
+    },
+    "dataList[id=MaxHpMultiplierRail].desc": {
+      "pl": "Maks. HP {0}%",
+      "kr_sha256": "183efbbcc2d9c47d3c4ca30d30b5172d06faa3035ba0d0b42bb26ea96b4fee54",
+      "en_sha256": "dfc9442e7fb324b63703cec559f29400cd350b04546bc5d535e150fcf3a41124",
+      "origin": "ai"
+    },
+    "dataList[id=MaxHpMultiplier].desc": {
+      "pl": "Maks. HP {0}%",
+      "kr_sha256": "183efbbcc2d9c47d3c4ca30d30b5172d06faa3035ba0d0b42bb26ea96b4fee54",
+      "en_sha256": "dfc9442e7fb324b63703cec559f29400cd350b04546bc5d535e150fcf3a41124",
+      "origin": "ai"
+    },
+    "dataList[id=MaxHpReducerMirrorDungeonPersonality].desc": {
+      "pl": "Maks. HP {0}%",
+      "kr_sha256": "183efbbcc2d9c47d3c4ca30d30b5172d06faa3035ba0d0b42bb26ea96b4fee54",
+      "en_sha256": "dfc9442e7fb324b63703cec559f29400cd350b04546bc5d535e150fcf3a41124",
+      "origin": "ai"
+    },
+    "dataList[id=MaxSpeedAdderAsStack].desc": {
+      "pl": "Maksymalna Szybkość {0}",
+      "kr_sha256": "ff91442ea4ad25536f0614634a2f0fccb18e075e4060bfa0bf06311af173e4f0",
+      "en_sha256": "8a1f801a17c076680fa20c5d62e271adc54cc313228a9d0ba608112c0146f732",
+      "origin": "ai"
+    },
+    "dataList[id=MaxSpeedAdderIncludeFirstTurn].desc": {
+      "pl": "Maksymalna Szybkość {0}",
+      "kr_sha256": "ff91442ea4ad25536f0614634a2f0fccb18e075e4060bfa0bf06311af173e4f0",
+      "en_sha256": "8a1f801a17c076680fa20c5d62e271adc54cc313228a9d0ba608112c0146f732",
+      "origin": "ai"
+    },
+    "dataList[id=MaxSpeedAdder].desc": {
+      "pl": "Maksymalna Szybkość {0}",
+      "kr_sha256": "ff91442ea4ad25536f0614634a2f0fccb18e075e4060bfa0bf06311af173e4f0",
+      "en_sha256": "8a1f801a17c076680fa20c5d62e271adc54cc313228a9d0ba608112c0146f732",
+      "origin": "ai"
+    },
+    "dataList[id=MinSpeedAdderIncludeFirstTurn].desc": {
+      "pl": "Minimalna Szybkość {0}",
+      "kr_sha256": "63d3dcee73c2d80a99e28318085eee8dcdc7eb7c1bfb37c352eb0add9dfb3fb9",
+      "en_sha256": "5097dc7e4dfe3bb48ae9ca1fd939997a23f8f2adc75c93f3588d9528aaaae531",
+      "origin": "ai"
+    },
+    "dataList[id=MinSpeedAdder].desc": {
+      "pl": "Minimalna Szybkość {0}",
+      "kr_sha256": "63d3dcee73c2d80a99e28318085eee8dcdc7eb7c1bfb37c352eb0add9dfb3fb9",
+      "en_sha256": "5097dc7e4dfe3bb48ae9ca1fd939997a23f8f2adc75c93f3588d9528aaaae531",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinScaleAdder].desc": {
+      "pl": "Moc Monet Minus {0}",
+      "kr_sha256": "fbe033464fa51d1280c576bc11177fbcf99acbce3ed7c063cc915cc9473ec75a",
+      "en_sha256": "12579aa08592355762bcd9f86d3d09d7d4b6136fda317905d13d9070751b1826",
+      "origin": "ai"
+    },
+    "dataList[id=ParryingResultAdder].desc": {
+      "pl": "Moc Starcia {0}",
+      "kr_sha256": "0e2fefc80c9e6f051b90e055fa34b71b488bc373cd467675a60f42afb69cc3bb",
+      "en_sha256": "eb7b9b0bafac1995487e73d34f9f453c038bb448e63ae1064f449abda2b97f57",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinScaleAdder].desc": {
+      "pl": "Moc Monet Plus {0}",
+      "kr_sha256": "bfc932e8d64aba2f5414f189f11ce7a2308621eaeb3328ffad82371dc5a2569c",
+      "en_sha256": "9828526128bd9b657048bb143ebf78a6a96b8950fc861ad964a343244b1d4060",
+      "origin": "ai"
+    },
+    "dataList[id=RailEnemyBuffF].desc": {
+      "pl": "Ilość zasobów E.G.O zużywanych przez Skazanych przy użyciu Umiejętności E.G.O {0}",
+      "kr_sha256": "750b85a7633133a74a828ceb838edf1428a079ca24e50eeed7097acc3e7b401e",
+      "en_sha256": "dc306db186bc80a38074f51fd890b99d6819a310fe9be676d4985c92fd984ca4",
+      "origin": "ai"
+    },
+    "dataList[id=Railway6PowderBuff].desc": {
+      "pl": "- Odporność {0} +{2}; odporność {1} +{2}",
+      "kr_sha256": "8478469360778d8519024b943e09f8afd0ac97ac2f1125eccd71e05c7bab518d",
+      "en_sha256": "b7d48a8dc3ec4bd36203404d225cde8ff31107b0d1582b6f6981c80a958f1e42",
+      "origin": "ai"
+    },
+    "dataList[id=Railway6PowderBuff].variation": {
+      "pl": "- Odporność {0} +{1}",
+      "kr_sha256": "4027eaaca963a01dac905daa37ee31d2de2120a4ecba7c4ed3ec35ba64ff273f",
+      "en_sha256": "27e8c1fe51eb71c66c40e83134733d8ccdc89f8d6aa1db5650b1534d17743e5a",
+      "origin": "ai"
+    },
+    "dataList[id=Railway6PowderBuff].variation2": {
+      "pl": "- Brak efektów",
+      "kr_sha256": "d2744af6464e940b8b70bdd88b9f4487398901707f7bc1edc6986f15884cee4f",
+      "en_sha256": "1fcb4d203b61d97cdc54bf12fb26e8f9697b2e6add260df63c7a39279cb00e5f",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverSelfHpOnSucceedAttackByDmgRR2].desc": {
+      "pl": "Leczy HP o {0}% zadanych obrażeń",
+      "kr_sha256": "e7fc48aaef7495623e491f7a892e2d4c1dcb793f68ffdb4250a0b75c60fc4a2d",
+      "en_sha256": "678e1329a24965b07225df9810034f25b8917863f63dfb484e00ce9ae259cf3f",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverSelfHpOnSucceedAttackByDmg].desc": {
+      "pl": "Leczy HP o {0}% zadanych obrażeń",
+      "kr_sha256": "e7fc48aaef7495623e491f7a892e2d4c1dcb793f68ffdb4250a0b75c60fc4a2d",
+      "en_sha256": "678e1329a24965b07225df9810034f25b8917863f63dfb484e00ce9ae259cf3f",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverSelfMpOnRoundStart].desc": {
+      "pl": "Na początek tury odzyskuje {0} Poczytalności",
+      "kr_sha256": "14eba83214a790fe8e2274767a6c26d9b5d2d995a4c41f02450ac15a5044e5f2",
+      "en_sha256": "6351ba41fe8752f39608631a0985383fa572e9bdfa6ac0070f41e9340193e857",
+      "origin": "ai"
+    },
+    "dataList[id=RemoveFirstBreakSection].desc": {
+      "pl": "Usuwa pierwszy Próg Oszołomienia",
+      "kr_sha256": "bc8d74bb4e02636b5701c4688665f195311cffc3fb083e83e5bb27ee7b208983",
+      "en_sha256": "91e5f5d3557c0b9415e36219e1103fc548a45799906552c98f1d341ff119c4d8",
+      "origin": "ai"
+    },
+    "dataList[id=ResistAdderForLastBoss].desc": {
+      "pl": "Odporność {0} ostatniego bossa 3. sekcji: {1}",
+      "kr_sha256": "97929c5564bb2c0288f3752c7653bd7f9ae1817d410f9a4f3633f4ba345c7b35",
+      "en_sha256": "65be3f7c641251e3d650f36f6cb293c72ad4f8555dd94372e2c14f973af54c03",
+      "origin": "ai"
+    },
+    "dataList[id=RougeFamily10717].desc": {
+      "pl": "Haute Couture::Le Rouge King of Needleworks Heathcliff\n- Przy trafieniu monetą Umiejętności „La Demande” zyskuje 1 Licznika Pulsacji i leczy HP równe 5% Maks. HP",
+      "kr_sha256": "219886596d2ecfc24249e29c2606f47020c671f30a84076b43b6a2ead9b34d4c",
+      "en_sha256": "ede8f50875ddf60ac495939387de12f3643bbd37d61d8cee95724982b2150bd6",
+      "origin": "ai"
+    },
+    "dataList[id=RougeFamily10816].desc": {
+      "pl": "Haute Couture::Boutique du Rouge Ishmael\n- Jeśli Ishmael jest w stanie „Nowych Szat”, Maks. HP tej jednostki +10%; przy trafieniu Umiejętnością ataku bazowej leczy HP równe 5% własnego Maks. HP (zaokrąglone w górę, 5 razy na turę)",
+      "kr_sha256": "73ffba42bba1871c4bc30aeef2268b98052bfe931651b116caad9915c639ee8b",
+      "en_sha256": "3e008f9cbd55f883f5a160c6eebe9d1b3d9ea60f041355e69aee48fefbada094",
+      "origin": "ai"
+    },
+    "dataList[id=RougeFamily11217].desc": {
+      "pl": "Haute Couture::Le Rouge B2F Skein Nest Gregor\n- Maks. Licznika Pulsacji +5\nPrzy użyciu Umiejętności „La Voracité” lub „La Castration” zyskuje 5 Licznika Pulsacji",
+      "kr_sha256": "04991c1a802193cc2ad7b39c12c3305aa152ac94403cc517c3ff1ff907d4249b",
+      "en_sha256": "b9b028186e963f1fa4caead1a236d0ea1de7ac9d0173d0c0fbcde93514d52bac",
+      "origin": "ai"
+    },
+    "dataList[id=RougeFamilySinclair].desc": {
+      "pl": "- Gdy sojusznicy frakcji Le Rouge (poza tą jednostką) spełnią warunki, wywoływane są następujące efekty\n- Efekty pozostają aktywne nawet, gdy odpowiednia postać zginie",
+      "kr_sha256": "9eb2b4bacd4b0c956db502b5a9e2aae7d0cea330ff36a3a81605dda5886eb6b9",
+      "en_sha256": "5f87bb66162f5739753f407bb761291426de12a754c6b1a207b465c97bbde231",
+      "origin": "ai"
+    },
+    "dataList[id=SkillPowerAdder].desc": {
+      "pl": "Moc bazowa {0}",
+      "kr_sha256": "cb5ee30068c95d5a392e51d29dad1a8986a0d25eb9038b7934e42827d7fdd2fb",
+      "en_sha256": "52f19735303a31b6fbada94ecfafba1ffead92b665ca78515a8b23d33d7ffa13",
+      "origin": "ai"
+    },
+    "dataList[id=SkillPowerResultAdder].desc": {
+      "pl": "Moc Końcowa {0}",
+      "kr_sha256": "7285e13cdda2a9c6ca9e226b0d7d67019d5686e344cd0b845e153b43906d3b2e",
+      "en_sha256": "88076047ea18618bc8f9939a69cfd6ee31dd3a9ae6cbcb56cfc937c03dfce56e",
+      "origin": "ai"
+    },
+    "dataList[id=SlotWeightAdder].desc": {
+      "pl": "Waga Slotów {0}",
+      "kr_sha256": "db0bd6354c819c76834669ae8b7d8eb90896440456f454853bd05bccde058339",
+      "en_sha256": "c529e65f4c6e5eaa668898f6ec171585398714f380c8ccb975c78e48671e9d6b",
+      "origin": "ai"
+    },
+    "dataList[id=SojiRyoshuEntangle].desc": {
+      "pl": "- Maks.: 4\n- Zyskuje 1 wartości za każdą pokonaną osobowość sojuszniczego Ojca Domu Pajęczyn\n- Zyskuje unikalny efekt zależnie od tego, która sojusznicza osobowość Domu Pajęczyn poległa\n- Otrzymuje -7,5% obrażeń za każdą wartość",
+      "kr_sha256": "67bf6a346b090fafa7ec53acee0188a87d67b51be9a975729ef05816032755d5",
+      "en_sha256": "d83156b110fbb492078d7319af583212859fe9a25a749eb832fba15165bd9da9",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10115].desc": {
+      "pl": "Dom Pajęczyn: Ojciec Wskazującego Yi Sang\n- Przy użyciu Umiejętności ataku bazowej zamienia ostatnią monetę w Niezniszczalną Monetę. Niezniszczalne Monety Umiejętności ataku bazowej zadają +10% obrażeń",
+      "kr_sha256": "a3dda90c8aa203b0a186fcb1ba6a2617059d586d220d8d4212c8172355f66095",
+      "en_sha256": "98facce3f01cd2ef193189afaa49e729e7442033b8d84b57fa7573f2ad82750e",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10215].desc": {
+      "pl": "Dom Pajęczyn: Uczeń Serdecznego Faust\n- Na początek tury zyskuje Tarczę równą 10% HP",
+      "kr_sha256": "c8e63b6f37a637a1e9c43c0674ed41fb7e631acb55e77766eb0fca51a5163dcc",
+      "en_sha256": "07d42afa738875fa69a8b1a9e5beffa00cb0daa7f1aaee56adac6aaf07cde394",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10314].desc": {
+      "pl": "Pełnomocnik Wskazującego - Rozkwitłe E.G.O::Pełnomocnictwo Don Quixote\n- Przy użyciu Umiejętności ataku bazowej zyskuje 2 Oddechu; przy trafieniu krytycznym nadaje 1 Zatonięcia",
+      "kr_sha256": "9ffedae76272aef05d906de9d9368214e3700b4906f3f54b5b2ad0bdecbd6436",
+      "en_sha256": "a8cd1e58d686e6cdcf88e346054490593e1228273d4c24ec6e9f1a6b0a4d8cc4",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10614].desc": {
+      "pl": "Dom Pajęczyn: Ojciec Serdecznego Hong Lu\n- Zyskuje Melodię Drgającego Ciała",
+      "kr_sha256": "1f56cdcee129a070633ebf962dfedc235a0763bdd462c7eb92b80f0a21ce0684",
+      "en_sha256": "ba6a7b30f3eb8c81de2bf9870604887758dda555a2cbad32c07b616f0dce53d0",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10716].desc": {
+      "pl": "Dom Pajęczyn: Uczeń Kciuka Heathcliff: wygrywając Starcie Umiejętnością bazową, nadaje 2 Wstrząsu i wywołuje Wybuch Wstrząsu; Licznik Wstrząsu celu maleje o 1 (2 razy na turę)",
+      "kr_sha256": "e9995b76f47147eb5d35cf2d79158e62213e28c6c41c2608b173000fbc933a9e",
+      "en_sha256": "91f91943f9cc3c6738623f74723b1249dbbc3f85e1df5338cf23bfe17742f196",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10814].desc": {
+      "pl": "Dom Pajęczyn: Uczeń Środkowego Ishmael\n- Poziom Obrony +2; Umiejętności bazowe nadają +1 Mocy Podpalenia",
+      "kr_sha256": "b4f44a4dc1798fd2af43cef56fa473ab8b2cf9ebf1df4e30f5456767da603718",
+      "en_sha256": "0aedf9c6d37ea54a196a6efb866eeece70b0d8107a87309990a55c2854c7ae4d",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse10916].desc": {
+      "pl": "Dom Pajęczyn: Ojciec Kciuka Rodion: Moc Monet Umiejętności obrony +1; Umiejętności ataku bazowe zadają +10% obrażeń celom z Tarczą",
+      "kr_sha256": "b9f468ff73a6800ef3fbcddb8af6eac43b4de0be9fcabe3419369df4e7d3414d",
+      "en_sha256": "a50e4811585b587401d439f7b898c65eafb657a7e9dd2ae1a87d96d4303606d3",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse11015].desc": {
+      "pl": "Dom Pajęczyn: Uczeń Małego Palca Sinclair\n- Na początek tury zyskuje 1 Licznika Oddechu i 1 Wzrostu Obrażeń Krytycznych",
+      "kr_sha256": "f06e6b9b668c3305715f956d22bdeb45fa1ce199a21c161ac8482652f583a331",
+      "en_sha256": "660ffddeb58e2782af0ed68220a65830b5780b5e6ae86da759de0349b128a4db",
+      "origin": "ai"
+    },
+    "dataList[id=SpiderHouse11115].desc": {
+      "pl": "Dom Pajęczyn: Ojciec Środkowego Outis: otrzymuje -20% obrażeń; przy trafieniu zyskuje 1 Wzrost Poziomu Ataku (2 razy na turę)",
+      "kr_sha256": "91ccdc1020872b24f8fad8354da52c861e0b5304220b52f561081bc571d280da",
+      "en_sha256": "55e04903c54ac4d325d8cb1dfd2b4a0945275b9814e02ebbeb6ead81f08b770e",
+      "origin": "ai"
+    },
+    "dataList[id=TakeAtkDamageMultiplier].desc": {
+      "pl": "Otrzymywane obrażenia {0}%",
+      "kr_sha256": "69354e615c8e052ad6175cf0fb807d4b51fb674a81da2fc6dcad8e399decf302",
+      "en_sha256": "a6f04df76b10cc092ca36373c0ec067ee557157a6df1cbbc5aea2d00a1e99adc",
+      "origin": "ai"
+    },
+    "dataList[id=TakeBuffTurnAdder].desc": {
+      "pl": "Sojusznicy zyskują {1} Licznika {0} z efektów Umiejętności i Monet",
+      "kr_sha256": "b2d6f63991d2b918d981e9ed97b2872bf66701f6e44f40cb3e9606140605f32d",
+      "en_sha256": "14aa8dc0d3b6252f60982a52facfacd711cfc2e7685b055d5912bb4556816759",
+      "origin": "ai"
+    },
+    "dataList[id=TakeHpHealMultiplier].desc": {
+      "pl": "Leczenie HP z efektów Umiejętności i Monet {0}%",
+      "kr_sha256": "46035f3729ffe0199320bde543ced554c99d3556f1e29f3329719a948d6f9e2e",
+      "en_sha256": "d3a512982f15bf8fcd59efa41471d24280f0205ce9f48552a4c0d6434a17f560",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRentalTwoPersonality].desc": {
+      "pl": "Na koniec tury zyskuje w następnej turze {1} Pośpiechu, Wzrostu Mocy Starcia i Wrażliwości\nPrzy Liczniku 1 zamiast tego zyskuje {0} Spętań",
+      "kr_sha256": "59ae38264f0bbab6c714161927cc0c5e67e28df8540e8ea4d7c53c37eec4e1a1",
+      "en_sha256": "e90d998f7a4eaa12787e897dc896c0cb8fe1ecaaa4d5b2356129977af02df056",
+      "origin": "ai"
+    },
+    "dataList[id=TimeRentalTwoPersonality].name": {
+      "pl": "Pożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "a47c6ba0532a3c1f10432e94dbb8cd9629abbc74bd057b4af48be665af617038",
+      "origin": "ai"
+    },
+    "dataList[id=TimeSuspend].desc": {
+      "pl": "Przy aktywacji efektu zadaje {3} obrażeń Lenistwem i wywołuje Wybuch Wstrząsu {0} razy",
+      "kr_sha256": "65f845d41fd97f6cd38ae08cd2023e15e925b410970d1279ab199fbf03384f17",
+      "en_sha256": "87208249a0a76ba6fbeb2a6a5af10365435565b1d4321baa6e1fdea5c241cab2",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationBleeding].desc": {
+      "pl": "Przez {1} tur, przy Wybuchu Wstrząsu, otrzymuje ({0} + Moc Krwawienia) / 2 obrażeń atrybutu Żądzy, a Licznik Krwawienia maleje o 1",
+      "kr_sha256": "351a3fb86c6239657900708a580aa270c8857dca19890696650ed8d06509cfae",
+      "en_sha256": "f043641236c0857431a48f5c3af46603c27cee5d2d9da61e70770033e905444f",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationChainPersonality].desc": {
+      "pl": "Moc Starcia maleje o 1 za każde 10 Mocy Wstrząsu (maks. 3)",
+      "kr_sha256": "d5eca22f2a095be1bbc9905ddb2a1ea91284ed3c0628cd6c7bace316301313bc",
+      "en_sha256": "603302dda99d9ccec3c81ac9f0800aaa22790f9687d6a347c4bd22037a53772b",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationChainPersonality].name": {
+      "pl": "Wstrząs - Łańcuch",
+      "kr_sha256": "9a87c3e0184be2b5a467f4bca5582f2e952e715c9689a83c29ba74b30995ad26",
+      "en_sha256": "a9f02cd5bbb5d130cbc8d28e49dad668a8389605eb470667a72e4d040cef8aaa",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationChain].desc": {
+      "pl": "Moc Starcia maleje o 1 za każde 10 Mocy Wstrząsu celu (maks. 3)",
+      "kr_sha256": "4138e33dd08c3e38e52c4fe80711389fe16a90548aa6ab4e18387a3e39c858f4",
+      "en_sha256": "f8a5d9e95ffedaafc6b086a2676fe92141b4352cd685a84169caf60a3b2946b5",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationContinue].desc": {
+      "pl": "- Przy wywołaniu Wybuchu Wstrząsu efektem Umiejętności lub Monety, {0}% szans na wywołanie dodatkowego Wybuchu Wstrząsu (maks. 50%)\n- Przy wywołaniu Wybuchu Wstrząsu efektem Umiejętności lub Monety, {1}% szans na wywołanie dodatkowego Wybuchu Wstrząsu (maks. 50%)",
+      "kr_sha256": "8e5cfca50c7e42044520145fa62212425df1e2daf39f88721f9a6c69c9e0351e",
+      "en_sha256": "8c664c69d8e9bd3ce5e12383629f388b977adaa654afb442fa4e29fd2e11a0af",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationDistribution].desc": {
+      "pl": "Na koniec tury zyskuje Wzrost Poziomu Ataku w następnej turze równy (suma Liczników Wstrząsu - Rozdzielania sojuszników / liczba sojuszników z Wstrząsem - Rozdzielaniem) (maks. 5)",
+      "kr_sha256": "963f3a2bc688cd1eb704658dd60366774c61c8c4e92e2be5872c3d9f6972735b",
+      "en_sha256": "6c862ea11964b4d830c4be19d4e60e3416a3237d0868e520b096e808d67fc7f6",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationEcho].desc": {
+      "pl": "Przez {1} tur przy trafieniu atakami wywołującymi Wyładowanie Wstrząsu otrzymuje {0} obrażeń Lenistwa",
+      "kr_sha256": "20e018cd57a22da64fe4e739074379cdbc23cd4f8c0e28f6d38ff46680598407",
+      "en_sha256": "e3038eec46af90646c1d6734acced76b2ff3bd7c9c1341e1ee49ddbe428672ef",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationFocusing].desc": {
+      "pl": "Przez {1} tur, przy Wybuchu Wstrząsu, otrzymuje obrażenia Lenistwa równe {0} x (60 + suma Mocy Ładowania lub Szczególnego Ładowania atakującego x 8)%, a Licznik maleje o 1\n· Przy Wybuchu Wstrząsu wywołanym Umiejętnościami i Pasywami postaci frakcji Le Noir Licznik nie maleje",
+      "kr_sha256": "e46491d478823f3fd871ca9add340160f09ba7f907ab7e2fed534b983629f942",
+      "en_sha256": "8a7899b146c7a782c01f727979716a3b3b66e4695b49197393beb2d8c2d7cfad",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationIgnition].desc": {
+      "pl": "Przez {1} tur, przy Wybuchu Wstrząsu, otrzymuje ({0} + Moc Podpalenia) / 2 obrażeń Gniewu, a Licznik Wstrząsu maleje o 1",
+      "kr_sha256": "0a55f5f8c296e6ae1cb3801b8018dd187a39bb250c59c9c39b97383fbf13aef9",
+      "en_sha256": "82e2bb9c0a8555ce1b473d9d35db19b39665c2e2bb865e2e0450a0a24e960f73",
+      "origin": "ai"
+    },
+    "dataList[id=Vibration].desc": {
+      "pl": "Przez {1} tur przy trafieniu atakami wywołującymi Wyładowanie Wstrząsu Próg Oszołomienia rośnie o {0}",
+      "kr_sha256": "3c29307eb37321483e399173031aa7a2bdff7551e9d706a18de9aa1793921bab",
+      "en_sha256": "02f3e2f972453bc5fb44e58f9adb1a00e10868ece3d2eadfc115d155a9f9460c",
+      "origin": "ai"
+    }
+  }
+}

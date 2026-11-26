@@ -1,0 +1,262 @@
+{
+  "entries": {
+    "dataList[id=200303].name": {
+      "pl": "Rendezvous",
+      "kr_sha256": "6bcbdfc693341a317bfe1c11103d9fc44dfee9a131e87431b2b218b00d2ccd19",
+      "en_sha256": "6bcbdfc693341a317bfe1c11103d9fc44dfee9a131e87431b2b218b00d2ccd19",
+      "origin": "ai"
+    },
+    "dataList[id=200304].name": {
+      "pl": "Sarajinae (Pass On) - ver. Meursault",
+      "kr_sha256": "7b0d2975bb2a1ab9f2cc9a862903e0ba1a9fc5e0a07b1c7ce8a0a4b464977ed0",
+      "en_sha256": "6a58a96b8f3e462f1db513e4979611e558f8059f22641de1b74c37cf11ff1654",
+      "origin": "ai"
+    },
+    "dataList[id=200305].name": {
+      "pl": "Punctum",
+      "kr_sha256": "366e328fa75847cd5dc8902b0d7da49a79b9ae8f49cd9df7244ffebbf64045e4",
+      "en_sha256": "366e328fa75847cd5dc8902b0d7da49a79b9ae8f49cd9df7244ffebbf64045e4",
+      "origin": "ai"
+    },
+    "dataList[id=200306].name": {
+      "pl": "Affliction",
+      "kr_sha256": "ed64274fc49b6791542e1a8567101224dcd13879acd3111a43fab574fbd0b1c9",
+      "en_sha256": "ed64274fc49b6791542e1a8567101224dcd13879acd3111a43fab574fbd0b1c9",
+      "origin": "ai"
+    },
+    "dataList[id=200307].name": {
+      "pl": "Floor Nobody",
+      "kr_sha256": "1d2b53f35cbb291fdb1b81865f8b0f7a4b01df86540cff77ab1c8a336f86647e",
+      "en_sha256": "1d2b53f35cbb291fdb1b81865f8b0f7a4b01df86540cff77ab1c8a336f86647e",
+      "origin": "ai"
+    },
+    "dataList[id=200308].name": {
+      "pl": "Precious Than Your Brain",
+      "kr_sha256": "ad15c93239311088269c03154c827515e0dfa594b9958280fb0d66c4ab2b7a58",
+      "en_sha256": "ad15c93239311088269c03154c827515e0dfa594b9958280fb0d66c4ab2b7a58",
+      "origin": "ai"
+    },
+    "dataList[id=200309].name": {
+      "pl": "And There",
+      "kr_sha256": "91b5f92dfa3629ea56fa72f27e4edd3b117e8c800ed2f29eb1dc3413915ea214",
+      "en_sha256": "91b5f92dfa3629ea56fa72f27e4edd3b117e8c800ed2f29eb1dc3413915ea214",
+      "origin": "ai"
+    },
+    "dataList[id=200310].name": {
+      "pl": "Passion Red",
+      "kr_sha256": "48506e6a3269705549dbf98021985c038942cef13f576004ede7e1474f3b59ae",
+      "en_sha256": "48506e6a3269705549dbf98021985c038942cef13f576004ede7e1474f3b59ae",
+      "origin": "ai"
+    },
+    "dataList[id=200311].name": {
+      "pl": "Run, Not Walk",
+      "kr_sha256": "35dcc8d80e94669b0e8bf5796a06ac1760b46ee2fbe81d0923253f720614c16d",
+      "en_sha256": "35dcc8d80e94669b0e8bf5796a06ac1760b46ee2fbe81d0923253f720614c16d",
+      "origin": "ai"
+    },
+    "dataList[id=200312].name": {
+      "pl": "Timewalker",
+      "kr_sha256": "a2feec1c56897d781db2435466496ab550743f1937cfa9ccf3cdb0438fda2ce9",
+      "en_sha256": "a2feec1c56897d781db2435466496ab550743f1937cfa9ccf3cdb0438fda2ce9",
+      "origin": "ai"
+    },
+    "dataList[id=200313].name": {
+      "pl": "Reason Black",
+      "kr_sha256": "f318c5055c0ff669b0c0a59bbf6747e6c0c7d7fe1885098031ba9e8c70ed54b0",
+      "en_sha256": "f318c5055c0ff669b0c0a59bbf6747e6c0c7d7fe1885098031ba9e8c70ed54b0",
+      "origin": "ai"
+    },
+    "dataList[id=200314].name": {
+      "pl": "Never Look Back",
+      "kr_sha256": "c482170e4f72dc006e0e09e6d7ded8dfa0b2b2210c91c645195a479d31908ff0",
+      "en_sha256": "c482170e4f72dc006e0e09e6d7ded8dfa0b2b2210c91c645195a479d31908ff0",
+      "origin": "ai"
+    },
+    "dataList[id=200315].name": {
+      "pl": "Good Sinew To Cut",
+      "kr_sha256": "b73f043b6e0dda4335557249ea9683ebdb6d62e31b453bc7385032afd8c258df",
+      "en_sha256": "b73f043b6e0dda4335557249ea9683ebdb6d62e31b453bc7385032afd8c258df",
+      "origin": "ai"
+    },
+    "dataList[id=200316].name": {
+      "pl": "I Said Run",
+      "kr_sha256": "7849308303525c2196a6016a38f0a938ebd4d44950c3e1b469bd04a70a72360e",
+      "en_sha256": "7849308303525c2196a6016a38f0a938ebd4d44950c3e1b469bd04a70a72360e",
+      "origin": "ai"
+    },
+    "dataList[id=200317].name": {
+      "pl": "Enough Height To Fall",
+      "kr_sha256": "b544ab4ad8d49c3cedf21ebf7c66ce0f16eb065907361d593b7655a328e13549",
+      "en_sha256": "b544ab4ad8d49c3cedf21ebf7c66ce0f16eb065907361d593b7655a328e13549",
+      "origin": "ai"
+    },
+    "dataList[id=200318].name": {
+      "pl": "Sisyphe Emporium",
+      "kr_sha256": "81d380f97b5174c3e111c972ba6120af02a7057e0d1e4b16b785e463eda41add",
+      "en_sha256": "81d380f97b5174c3e111c972ba6120af02a7057e0d1e4b16b785e463eda41add",
+      "origin": "ai"
+    },
+    "dataList[id=200319].name": {
+      "pl": "Rust Free Chair",
+      "kr_sha256": "1656486a6f6684b68025740fa4d6a7f4fd4ce1703c0656a2012f835de9658c42",
+      "en_sha256": "1656486a6f6684b68025740fa4d6a7f4fd4ce1703c0656a2012f835de9658c42",
+      "origin": "ai"
+    },
+    "dataList[id=200320].name": {
+      "pl": "Please Follow Nobody",
+      "kr_sha256": "5eb3ca0406e1389e06c7797ff6941782b0fd1e432e54bf76a7a14a9320f1d925",
+      "en_sha256": "5eb3ca0406e1389e06c7797ff6941782b0fd1e432e54bf76a7a14a9320f1d925",
+      "origin": "ai"
+    },
+    "dataList[id=200321].name": {
+      "pl": "Fresh Meal",
+      "kr_sha256": "56c49e51ac9429c1c36a5fef8a586292855c1f9a14f653487b5e6d59a9e7c391",
+      "en_sha256": "56c49e51ac9429c1c36a5fef8a586292855c1f9a14f653487b5e6d59a9e7c391",
+      "origin": "ai"
+    },
+    "dataList[id=200322].name": {
+      "pl": "Soleil",
+      "kr_sha256": "9b8268cb550e2834cb86a94a9c53cbb0d383856091cf2c3a542146edea441c26",
+      "en_sha256": "9b8268cb550e2834cb86a94a9c53cbb0d383856091cf2c3a542146edea441c26",
+      "origin": "ai"
+    },
+    "dataList[id=200323].name": {
+      "pl": "Faint Aroma",
+      "kr_sha256": "6c902bd8c379992589c2ea65d631f0acb5f7c4fba79a84ad387d4d3f11f796d3",
+      "en_sha256": "6c902bd8c379992589c2ea65d631f0acb5f7c4fba79a84ad387d4d3f11f796d3",
+      "origin": "ai"
+    },
+    "dataList[id=200324].name": {
+      "pl": "Intruder",
+      "kr_sha256": "a37245b5cc3de31b1ff06844de37738602732d2df1df31090493255c4bcb6d62",
+      "en_sha256": "a37245b5cc3de31b1ff06844de37738602732d2df1df31090493255c4bcb6d62",
+      "origin": "ai"
+    },
+    "dataList[id=200325].name": {
+      "pl": "Endless Pain",
+      "kr_sha256": "7c87870e378dd04f3bdc4af0556fde23846ab7281fbed7c36890f2cd368b5a36",
+      "en_sha256": "7c87870e378dd04f3bdc4af0556fde23846ab7281fbed7c36890f2cd368b5a36",
+      "origin": "ai"
+    },
+    "dataList[id=200326].name": {
+      "pl": "Calvary",
+      "kr_sha256": "8055fa1c684484be69c0833f325c560ce74b705e20dd7f922b96bb75b84da8eb",
+      "en_sha256": "8055fa1c684484be69c0833f325c560ce74b705e20dd7f922b96bb75b84da8eb",
+      "origin": "ai"
+    },
+    "dataList[id=200327].name": {
+      "pl": "Endless Death",
+      "kr_sha256": "00527d39ba96852a2190cbfbc147de5007ecfd11da88c847afa3447a80a12bf7",
+      "en_sha256": "00527d39ba96852a2190cbfbc147de5007ecfd11da88c847afa3447a80a12bf7",
+      "origin": "ai"
+    },
+    "dataList[id=200328].name": {
+      "pl": "You Can Be Good Leather",
+      "kr_sha256": "9ab301fdd189c111989788facb4c4abd42d617493043e4b3a6dd99e628c2e55c",
+      "en_sha256": "9ab301fdd189c111989788facb4c4abd42d617493043e4b3a6dd99e628c2e55c",
+      "origin": "ai"
+    },
+    "dataList[id=200329].name": {
+      "pl": "Studium",
+      "kr_sha256": "e1b10f10c9ece81ff09fecd86be1bd84d990b55c1c9be2f0b76b8a9f379461a1",
+      "en_sha256": "e1b10f10c9ece81ff09fecd86be1bd84d990b55c1c9be2f0b76b8a9f379461a1",
+      "origin": "ai"
+    },
+    "dataList[id=200330].name": {
+      "pl": "Le Rouge et Le Noir",
+      "kr_sha256": "df8d484b8f236ee4752bdbb3ee125ce016ffcc6c957fb0abf12d23e34f6af8a2",
+      "en_sha256": "df8d484b8f236ee4752bdbb3ee125ce016ffcc6c957fb0abf12d23e34f6af8a2",
+      "origin": "ai"
+    },
+    "dataList[id=200331].name": {
+      "pl": "Canto X Battle 01",
+      "kr_sha256": "091e04befa64c71b06afe0561ec55c4831e00f1242fdf6784c5069f1ea2f00de",
+      "en_sha256": "091e04befa64c71b06afe0561ec55c4831e00f1242fdf6784c5069f1ea2f00de",
+      "origin": "ai"
+    },
+    "dataList[id=200332].name": {
+      "pl": "Canto X Battle 02",
+      "kr_sha256": "26edfdb1eef6f43aef01240418dd678e129eb7c42f08f714f94a51a6f6186da8",
+      "en_sha256": "26edfdb1eef6f43aef01240418dd678e129eb7c42f08f714f94a51a6f6186da8",
+      "origin": "ai"
+    },
+    "dataList[id=200333].name": {
+      "pl": "Canto X Battle 03",
+      "kr_sha256": "9729f48749bd2d5863b00c33f0dbebb9105af19185be2b8606ff567663251aca",
+      "en_sha256": "9729f48749bd2d5863b00c33f0dbebb9105af19185be2b8606ff567663251aca",
+      "origin": "ai"
+    },
+    "dataList[id=200334].name": {
+      "pl": "Canto X Battle 04",
+      "kr_sha256": "89d33ea5a36225cb7f8f211686c80230e6e0900a478f32773edad187978e364b",
+      "en_sha256": "89d33ea5a36225cb7f8f211686c80230e6e0900a478f32773edad187978e364b",
+      "origin": "ai"
+    },
+    "dataList[id=200335].name": {
+      "pl": "The Symbolic Battle [Le Rouge]",
+      "kr_sha256": "01ee3b7141dfe01026e480bcab15c9eb35c6aeab23323958bf35db6b5a39b9c9",
+      "en_sha256": "01ee3b7141dfe01026e480bcab15c9eb35c6aeab23323958bf35db6b5a39b9c9",
+      "origin": "ai"
+    },
+    "dataList[id=200336].name": {
+      "pl": "The Crimson God [Inchoate Life]",
+      "kr_sha256": "2398c6abf21cb72f1d82f95f30237011b5fe85de1c87b0e8dea6a80f1c904066",
+      "en_sha256": "2398c6abf21cb72f1d82f95f30237011b5fe85de1c87b0e8dea6a80f1c904066",
+      "origin": "ai"
+    },
+    "dataList[id=200337].name": {
+      "pl": "The Symbolic Battle [Le Noir]",
+      "kr_sha256": "3cb5511f8fd2b9617d43845a7a7442fca9fdd968a6076a7825bb318829477db4",
+      "en_sha256": "3cb5511f8fd2b9617d43845a7a7442fca9fdd968a6076a7825bb318829477db4",
+      "origin": "ai"
+    },
+    "dataList[id=200338].name": {
+      "pl": "Le Noir's Brand Manager",
+      "kr_sha256": "7aa54e5865ccd0666ee602cf8010d2e1c526d272681b44e3bd4f81964fd15263",
+      "en_sha256": "7aa54e5865ccd0666ee602cf8010d2e1c526d272681b44e3bd4f81964fd15263",
+      "origin": "ai"
+    },
+    "dataList[id=200339].name": {
+      "pl": "The Symbolic Battle [The Warden]",
+      "kr_sha256": "278369a961c0086e5a36384c9801bdbd5071c6fbaf0c776720f06b893068017e",
+      "en_sha256": "278369a961c0086e5a36384c9801bdbd5071c6fbaf0c776720f06b893068017e",
+      "origin": "ai"
+    },
+    "dataList[id=200340].name": {
+      "pl": "Battle The Warden Phase1",
+      "kr_sha256": "4495ca7a91940f1062df37052562d430ec243533299cc49888bc55fa9cb13b6f",
+      "en_sha256": "4495ca7a91940f1062df37052562d430ec243533299cc49888bc55fa9cb13b6f",
+      "origin": "ai"
+    },
+    "dataList[id=200341].name": {
+      "pl": "Battle The Warden Phase2",
+      "kr_sha256": "e1d247ae6cdeef3591eb9fcb76e74f43d137265c0430b372ec2e1168e3552ebc",
+      "en_sha256": "e1d247ae6cdeef3591eb9fcb76e74f43d137265c0430b372ec2e1168e3552ebc",
+      "origin": "ai"
+    },
+    "dataList[id=200342].name": {
+      "pl": "Battle The Warden Phase3",
+      "kr_sha256": "6256f12631928071d0556eefe23880aa3a8709176a811d298c79441611510033",
+      "en_sha256": "6256f12631928071d0556eefe23880aa3a8709176a811d298c79441611510033",
+      "origin": "ai"
+    },
+    "dataList[id=200343].name": {
+      "pl": "The Symbolic Battle [Buffet]",
+      "kr_sha256": "24ed8a9bd33151320e9eba227a3c9c9fa5c60827585ed32e7d1934f329b3b934",
+      "en_sha256": "24ed8a9bd33151320e9eba227a3c9c9fa5c60827585ed32e7d1934f329b3b934",
+      "origin": "ai"
+    },
+    "dataList[id=200344].name": {
+      "pl": "Battle Buffet Phase1",
+      "kr_sha256": "290378ee741f420ccbdaa863a8139abaa3c9bae51350d8bae1378dd29135c222",
+      "en_sha256": "290378ee741f420ccbdaa863a8139abaa3c9bae51350d8bae1378dd29135c222",
+      "origin": "ai"
+    },
+    "dataList[id=200345].name": {
+      "pl": "Battle Buffet Phase2",
+      "kr_sha256": "7f6e037aa9626a50c84c01e06734a9f926048ef9ea0d75b339687da4a5044689",
+      "en_sha256": "7f6e037aa9626a50c84c01e06734a9f926048ef9ea0d75b339687da4a5044689",
+      "origin": "ai"
+    }
+  }
+}

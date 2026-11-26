@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=AllyAdvEx].content": {
+      "pl": "Sojusznik odwraca losy",
+      "kr_sha256": "aed69daa5fd26373aa80dce46819dd36833fdb1e2e1b979cd72bc58de96c7426",
+      "en_sha256": "3ab6299f8124e321d6e53e8227581a274d2d57969b41003e89bfbf4fc24a5c10",
+      "origin": "ai"
+    },
+    "dataList[id=AllyAdv].content": {
+      "pl": "Przewaga sojuszników",
+      "kr_sha256": "fa5d2bd0b10db7c2e70b1a2a8e960c193ddf881d002f56a3a8b1873d2b3588f1",
+      "en_sha256": "a0a37544f3d869e3db84e8d56c639cb4e60734053bbd7abf5fdfb3fbd97d750e",
+      "origin": "ai"
+    },
+    "dataList[id=AllyBigDamage].content": {
+      "pl": "Otrzymywanie poważnych obrażeń",
+      "kr_sha256": "a9e4ab3fe88b15a8af3393170750db0a7f375d7b5bf2e9e91e75a0c0e0ce3c86",
+      "en_sha256": "d3daedad7c4c5d12089678199ad8f58cb4d1336055267890ad8164c16b114dfe",
+      "origin": "ai"
+    },
+    "dataList[id=AllyBigDamage_Round].content": {
+      "pl": "Początek tury po otrzymaniu poważnych obrażeń",
+      "kr_sha256": "109a6a4dc12e29311b59c9627861db37bcc41b324ad4a1ac85f23bae698ba51b",
+      "en_sha256": "9cf0aa94fa3a82c9a6706c1849d677e6d10b81b2b1175636ce2ef8af8a38a365",
+      "origin": "ai"
+    },
+    "dataList[id=AllyBreak].content": {
+      "pl": "Oszołomienie sojusznika",
+      "kr_sha256": "ee6e0059b24815a6dd267668da7c9530fccb4424c5db47977dc9321602e920be",
+      "en_sha256": "9348e4f9998891b1745a2d75f26a507027203c91e9512420b0dbeef81a97efde",
+      "origin": "ai"
+    },
+    "dataList[id=AllyBuff].content": {
+      "pl": "Sojusznicy z Specjalnym Wzmocnieniem",
+      "kr_sha256": "ce49ac1c99ea3dc673c66a9190b7e44ef0ea56514cd094ee34b96428c9f9fd94",
+      "en_sha256": "dbb592c0de23410fca026740c0e4c58aeb9ff0e4b2fb7961cd20fb0f2a65f927",
+      "origin": "ai"
+    },
+    "dataList[id=AllyDead].content": {
+      "pl": "Śmierć sojusznika",
+      "kr_sha256": "1155019c0813ed776ee3a4ae3ac58552d34d4fa2159e64fff7afbada0203b6c1",
+      "en_sha256": "eebaab5b4f511d3e29fd9ffa54b4dd988c5b1b4fe5284777db47909464c4d2a5",
+      "origin": "ai"
+    },
+    "dataList[id=AllyDebuff].content": {
+      "pl": "Sojusznicy z Specjalnym Osłabieniem",
+      "kr_sha256": "2c662bc247eda439bfe842198e7f0c3c7c2b2c853b8431bc8b265e396fbc348e",
+      "en_sha256": "852c4f3940ae93ef9335fc5997fbe303b331e7f57acca5bccfc4cc68c6782837",
+      "origin": "ai"
+    },
+    "dataList[id=AttrAdv].content": {
+      "pl": "Korzystny Typ Atrybutu",
+      "kr_sha256": "820b36dfabf48439ef4bb74f5b7de236ad7353c706b4786372046b627d7789db",
+      "en_sha256": "2a5a2d7cfda0cbefd71e89c1d6f1a522a8e181605ad47efc4a2b9349fdc207dc",
+      "origin": "ai"
+    },
+    "dataList[id=AttrDisadv].content": {
+      "pl": "Niekorzystny Typ Atrybutu",
+      "kr_sha256": "dfff25ad426a5fcadbcd033a9d614601321144b8b33449128567e0e6da90afd9",
+      "en_sha256": "4ff005359a2f10b3d5536505b2d6758394370d5da1a17f33a6e00b9de09433f9",
+      "origin": "ai"
+    },
+    "dataList[id=Cheer].content": {
+      "pl": "Wsparcie",
+      "kr_sha256": "4c612bbe2171dfdacdd3dfa65b642b2a21f39cde5c4e51651062c6c3f4bc107b",
+      "en_sha256": "debfff9aeb72f58e8a5572c140459239d81fdf822a9a04d0a06feb10f41fe5b6",
+      "origin": "ai"
+    },
+    "dataList[id=Danger].content": {
+      "pl": "Zagrożenie",
+      "kr_sha256": "6ad4a458940b3d20612ecc3d1adffc9fc4bd183330c1e74dc066a93fa7e95287",
+      "en_sha256": "8412c070024304212e51bc25bcb0a14c2f01254f27e3cab14f5c611e88c4a5c0",
+      "origin": "ai"
+    },
+    "dataList[id=Defeat].content": {
+      "pl": "Porażka w walce",
+      "kr_sha256": "448c75d266c787bab94bce60c9c5028fc5b71b8d644e8dc4dcc89ee47bc1713c",
+      "en_sha256": "c042d1d12f19d17b9cd47e4060e47cecce7eae63306e79578ba5013276f5e528",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyAdv].content": {
+      "pl": "Przewaga wroga",
+      "kr_sha256": "97b7b11bd671afe04d20e3cb155c6aa58d00a44b5e4d69365375480f8fecb7ef",
+      "en_sha256": "0e065fb6e111a028e1fc8df9c9f1bad1d4ae331b7d827c5943f1e313e0a91a5e",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyBigDamage].content": {
+      "pl": "Zadawanie poważnych obrażeń",
+      "kr_sha256": "39ae087802d2052851a8a100a0e2a3f5e6d4ea30ac2d049094b13adc34b59348",
+      "en_sha256": "8250b7bda5945f76c545b3c47614895464be6bc7ef923db3972a5763b0e21385",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyBigDamage_Round].content": {
+      "pl": "Początek tury po zadaniu poważnych obrażeń",
+      "kr_sha256": "30f77a18cf3ded23c17f4fdb4eb95d7815f50693354fe85b37c14bd0cbb5de1b",
+      "en_sha256": "30a4aef4fbb5d8e011d084830c72b6afef332b6014badd99f90a16e99a2965d9",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyBreak].content": {
+      "pl": "Oszołomienie wroga",
+      "kr_sha256": "e66c1d2a553a8cb05c9798b64d219e7dba7dd8e0f63d3988cc0e898978878428",
+      "en_sha256": "45ed44e30ce2d25072b09db86cf3fd9b39631e593519bc8998e684d69fa522b8",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyBuff].content": {
+      "pl": "Wrogowie z Specjalnym Wzmocnieniem",
+      "kr_sha256": "5306242794adb4453733d17a18cd2dfaa391fa8ca49b80ca1c229c22d9ef657a",
+      "en_sha256": "585852ba4f1634e0c2ec93b7abdcb86aaf34873a3c7e1631026f4b6f64d480db",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyDebuff].content": {
+      "pl": "Wrogowie z Specjalnym Osłabieniem",
+      "kr_sha256": "fbdfa1d8ee5f30d9e324b743bb4b36cd65ce397deca35898033befd611484df6",
+      "en_sha256": "39681f7a024e729853e74bb8f9f0fd0de3b3d7d58533d2ad39436da388d6d973",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyDestroy_Battle].content": {
+      "pl": "Niszczenie części wroga",
+      "kr_sha256": "ad0233815e9af81980c117f43f837e3e4a4970c668f5b819992dec751dcbe4d4",
+      "en_sha256": "bf0162551018037c75f05c190e81499f1cd78efd67666bc607d6823965efdeb7",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyDestroy_RoundStart].content": {
+      "pl": "Początek tury po zniszczeniu części wroga",
+      "kr_sha256": "aa4170016c11a03cc5c231ac392caf9d44a08adc8264c63dab35f88c2a068644",
+      "en_sha256": "1525672be68397bdedd12b51b422c8246fa2e2343c7d5728304fba8b80ffcbef",
+      "origin": "ai"
+    },
+    "dataList[id=Equip].content": {
+      "pl": "Wyposażanie Komentatora",
+      "kr_sha256": "4f7a0f7ec7dd2226d89e278c8375a077fd795a76b013c99c4f3b4915fe0f4af0",
+      "en_sha256": "aa901af3c2236f328e203d363370351db51dba2b00b80d6ad5e69ec98a1d9a49",
+      "origin": "ai"
+    },
+    "dataList[id=KillEnemy].content": {
+      "pl": "Zabójstwo wroga",
+      "kr_sha256": "2c997744a3ec2678d58cd3fa71d12b74e7dc88b4c6e2c6c5554edf58a55e5dec",
+      "en_sha256": "516849defe27fdcef86665037f3aa44add758a7fbdda496dc302639dc9d11be5",
+      "origin": "ai"
+    },
+    "dataList[id=MultiKillAlly].content": {
+      "pl": "Śmierć wielu sojuszników",
+      "kr_sha256": "a31264661ff9e984ca9ad8e3db82b7d09a616b9a705ef71a7ac6f7039385aae8",
+      "en_sha256": "d2735abea2e7ad9670bf932654454660680cce5a922c2ee97b99c24510079b36",
+      "origin": "ai"
+    },
+    "dataList[id=MultiKillEnemy].content": {
+      "pl": "Sojusznik uzyskuje wielokrotne zabójstwo",
+      "kr_sha256": "930bda56d463242f28f6ecacaaf99784bc29d06229f99a09ac057ffb19f45f46",
+      "en_sha256": "20e8cfaf58ccf2967059b6fc7db0c33fa4dcd6b9336d8aeb4015d34a08587a87",
+      "origin": "ai"
+    },
+    "dataList[id=Neglect].content": {
+      "pl": "Brak aktywności przez dłuższy czas",
+      "kr_sha256": "b9e96516539d7f0c4910740375e64cd184ace967288082b27c3f4ed8efc3560b",
+      "en_sha256": "4df4a90fd60f58a4e079cd9e52bf9ca2348e581fc312a4316d8713ec55937e49",
+      "origin": "ai"
+    },
+    "dataList[id=PhysicalAdv].content": {
+      "pl": "Korzystny Typ Ataku",
+      "kr_sha256": "4f68e635bfebc0b6dca0cca3d700a05100deee4eb472e73ec85e5eb086870e17",
+      "en_sha256": "4b6108125796c0235bcae070751328e8b192af394bd8d68f0556eecb0de38d3d",
+      "origin": "ai"
+    },
+    "dataList[id=PhysicalDisadv].content": {
+      "pl": "Niekorzystny Typ Ataku",
+      "kr_sha256": "8854b11e260c91e4664cb2ce54f2ce23c9845e23a76e7f18d529065e67da8014",
+      "en_sha256": "84160254da09766fae6f5d479a9b2b7e1d59cbfcf1d9639245430d44fa82f45f",
+      "origin": "ai"
+    },
+    "dataList[id=SpecialCheer].content": {
+      "pl": "Wsparcie zależne od sytuacji",
+      "kr_sha256": "7489002286a15c9f39f019fad6c067c6df54a35434d2f6d20d57add574d0c299",
+      "en_sha256": "ed984ba78826126b7a10dbce42af3d1069f971c613847f1c5980ce2068b1fd40",
+      "origin": "ai"
+    },
+    "dataList[id=SpecialGimmick].content": {
+      "pl": "Powiadomienie o specjalnym mechanizmie wroga",
+      "kr_sha256": "64b47c9f4b6172435a3dfa01402c5d822c8da47dfdc5b4e910e0e203ac743e2e",
+      "en_sha256": "0e2fb28fe59af6b04690434e902f5888ec2e8b32d12d75169fc444c3977cb0d2",
+      "origin": "ai"
+    },
+    "dataList[id=SpecialSkill].content": {
+      "pl": "Ostrzeżenie o potężnej Umiejętności wroga",
+      "kr_sha256": "961e2849b551491c98d1e992ff3ee31e3b161a03c1b606da3570500e4cf7a430",
+      "en_sha256": "e2c1db52a2d65060b22198b70d20f9bc71fb7fd4a328f26a11412f343ed35a45",
+      "origin": "ai"
+    },
+    "dataList[id=Win].content": {
+      "pl": "Zwycięstwo w walce",
+      "kr_sha256": "20c307a80057a5550d4707dd81fc5d3468fd507534ae688f005a956eb34a933e",
+      "en_sha256": "0c2da8a1e7ba0be26f0cf72e7344ed93faadc6f099de861d2dacc8ac4a99f895",
+      "origin": "ai"
+    }
+  }
+}

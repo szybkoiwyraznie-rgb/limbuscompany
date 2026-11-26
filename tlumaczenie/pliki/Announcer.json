@@ -1,0 +1,358 @@
+{
+  "entries": {
+    "dataList[id=10].name": {
+      "pl": "Malkuth",
+      "kr_sha256": "d6e250d9d485cb7af99345f9cc9ac445f454ce767a0f1c1e13b8566cf8774a88",
+      "en_sha256": "d37752628a96ba1a86cd0fad1fd8f9dbe27485dbfc94ec5fe9296ed7d8892e9e",
+      "origin": "ai"
+    },
+    "dataList[id=11].name": {
+      "pl": "Pierre/Jack",
+      "kr_sha256": "a233d1c9272105df06a143c901134d1fb7ad5bf83d9c0560e104a0b92ce8ccc5",
+      "en_sha256": "6ae71eedcb7d6491ca5d0a169f546857111ae0fcdc819ccef22fda3e928fd286",
+      "origin": "ai"
+    },
+    "dataList[id=12].name": {
+      "pl": "Angela\n<size=90%>(AI Lobotomy Corporation)</size>",
+      "kr_sha256": "ba73bd63d6df9f4fad8717aa3aee1c245346012d446108f8ecb88c5f49e70d28",
+      "en_sha256": "b4ca8d1c2411be5bd2896897544b8f1afeff10606e1ef6cf6e5eeaf7cab01736",
+      "origin": "ai"
+    },
+    "dataList[id=13].name": {
+      "pl": "Nelly",
+      "kr_sha256": "c595b92faaa82b9c4cfbb8608364c59f25047b940cc6b41465fdf55b3c2895e4",
+      "en_sha256": "35bfdf65c705f454159c6d84e368245c7e1c0787c9e60d63da36a54b6f99df79",
+      "origin": "ai"
+    },
+    "dataList[id=14].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=15].name": {
+      "pl": "Samjo",
+      "kr_sha256": "25b591a91cb725caf6e98866641de240a43a37481d7bce2b67e73032a5fef4ce",
+      "en_sha256": "74de268e9ae9bc75054aab6cecea65ad1905f106e9527986d24ccae146b9f2d5",
+      "origin": "ai"
+    },
+    "dataList[id=16].name": {
+      "pl": "Yesod",
+      "kr_sha256": "7fd9008153f8cfe7ad04f929e222483229ec45543ce38eee138b9fff06420db4",
+      "en_sha256": "76a27c0b0a059bee8f125ee1b3842d968c86cf35450a09a0d502d1c5864ab6b2",
+      "origin": "ai"
+    },
+    "dataList[id=17].name": {
+      "pl": "Biuro Trzonowca",
+      "kr_sha256": "b19ac264bb14704fc198bca2d050e57f47bdb0a9e874a49ba2489f70930a7145",
+      "en_sha256": "ce1b77c8deca421b64466666d8a478e846af8a6ab1af640b720f66628741de02",
+      "origin": "ai"
+    },
+    "dataList[id=18].name": {
+      "pl": "Hod",
+      "kr_sha256": "3225567cfd9c48307691d7fb942fbaed7b2124a26083de516513c05ccee911fe",
+      "en_sha256": "4413d6acec7a880ad9e511dcb5c306b4071a4d21adf2a520f9f0b6265376d6ea",
+      "origin": "ai"
+    },
+    "dataList[id=19].name": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Dante",
+      "kr_sha256": "5ff279460941e1711e924afba614af6c1c1cc1b8e0135e88612fbadd9fa15558",
+      "en_sha256": "c06770b58143dcc98a29c4fb1709396909e0107def6d36bf503251543bd0506d",
+      "origin": "ai"
+    },
+    "dataList[id=20].name": {
+      "pl": "Sancho",
+      "kr_sha256": "2f2c17cca99e3cb3d6d6170fe471ef4cf6f9b65ea0b1e0a4ff0087a964403f17",
+      "en_sha256": "b72d019b999fd9ba87d51c8a9a751d0aae83acbba14b71080d80452b873f546b",
+      "origin": "ai"
+    },
+    "dataList[id=21].name": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=22].name": {
+      "pl": "Krwiożercy z La Manchy",
+      "kr_sha256": "a9c77b04ae4790e2615b44b726de00eed329b75c3d40e863da7929fac17e2068",
+      "en_sha256": "7974f5dde3c95c5ab61c9effef0d79e11c47c7a6a1b65ee9334939f89cbd988d",
+      "origin": "ai"
+    },
+    "dataList[id=23].name": {
+      "pl": "Gnome Tri-ome!",
+      "kr_sha256": "b90b2bf77110b7ddbe7de14856d956e01340c6c995680f3e84e6b764fb0ff43d",
+      "en_sha256": "31f55ba02f107b940174473107798f5961c6233fefcf2167f5f25873835a1665",
+      "origin": "ai"
+    },
+    "dataList[id=24].name": {
+      "pl": "Netzach",
+      "kr_sha256": "60562f6e71af0eeb757baf1648634399d980078960a9a6dce066ea229b5aaa65",
+      "en_sha256": "4386a9609541e39c17bcc08cc241aa091d4439800c45cfd0250c0cf7196a431a",
+      "origin": "ai"
+    },
+    "dataList[id=25].name": {
+      "pl": "Biuro Kropki",
+      "kr_sha256": "5050ca5ee8c12ed176ec53af225a67bb9d19191622b48deedb910818c7190b41",
+      "en_sha256": "5df659a8f28cd95ab36cb8a90390b9425db8099fe79b372d132a1b272c2a15eb",
+      "origin": "ai"
+    },
+    "dataList[id=26].name": {
+      "pl": "Aeng-du",
+      "kr_sha256": "5968e19b67953597d1404ec28c916786fbc39fa6a183f75c41cbf3daa6166712",
+      "en_sha256": "536c210c409aaf1ccde4cb2779fee43e0218d9198d3b163ca142b3f734aa70b9",
+      "origin": "ai"
+    },
+    "dataList[id=27].name": {
+      "pl": "Jun",
+      "kr_sha256": "040e2232b547b509f9cff21e29e88145dfe6335bd9703dec16a0aa6bee262e33",
+      "en_sha256": "b27fd46ed1b6949014457c2cd46af800f9515c849ba80ae9eddff5392b1b090f",
+      "origin": "ai"
+    },
+    "dataList[id=28].name": {
+      "pl": "Wergiliusz",
+      "kr_sha256": "c17124f4fb2ab4276f551a7e1bf05b8cc4c900b7ae180a011d42f66344f5aea9",
+      "en_sha256": "e449e72b3014d1b6ab496b37e0d75809028066486a9cf88c7b7a4636a88e568c",
+      "origin": "ai"
+    },
+    "dataList[id=29].name": {
+      "pl": "Ricardo",
+      "kr_sha256": "9bfd250b7e5797efefe672081b89d379e9b412d38379fa5f836bcdcc10ba0bfe",
+      "en_sha256": "6568e1158933296b86cdc3472474c883d9bac7b5b14092313cdc2aabdd8d4e79",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=30].name": {
+      "pl": "Zilu/Zigong",
+      "kr_sha256": "e2e970c178df54155a37b18c6740be3cf24f7512cef19969bf5717ffa84cb1eb",
+      "en_sha256": "a5c3f0334aa9bafb5c40f4fa44918aef7e5eaadbd9bab94dddc44e79c39815c8",
+      "origin": "ai"
+    },
+    "dataList[id=31].name": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[id=32].name": {
+      "pl": "Czarodziejka (Królowa Nienawiści)",
+      "kr_sha256": "772eed86f3a8c4ea41acb36b249354d8325ec44d8bbac5fc368c66bc05c7dc7b",
+      "en_sha256": "dc6cb67212b33934916abef3df76c2b875bbaaed34bbd8716a31545face35a94",
+      "origin": "ai"
+    },
+    "dataList[id=33].name": {
+      "pl": "Tiphereth",
+      "kr_sha256": "594e8406893aea11cbe5ccd6d5ddfe74233c4b629f4b0d073a68dd8e17402dc0",
+      "en_sha256": "42bfe8bc698b104fcaad1cbacb2cfc65f2ab43ac6817bbe497401fc14512e297",
+      "origin": "ai"
+    },
+    "dataList[id=34].name": {
+      "pl": "Herbert",
+      "kr_sha256": "bdbb558db682878b0302a708688dd6538323e5defe86276b071509df1deeb0ae",
+      "en_sha256": "422ff7009040b895ab4a79b82b259686c57e9d59d96705147845c500892c8acf",
+      "origin": "ai"
+    },
+    "dataList[id=35].name": {
+      "pl": "Tymczasowi Specjalni Śledczy T Corp.",
+      "kr_sha256": "49cc1f8b585d2a9bb4d769366f0d3b6c25451ff84c52c77f7dc11d3ce260200c",
+      "en_sha256": "525ab335763b675c75c65e953b72af1eb1980ed7126c636fe3bb5fb9c1005104",
+      "origin": "ai"
+    },
+    "dataList[id=36].name": {
+      "pl": "Jia Xichun/Wei",
+      "kr_sha256": "64b8b1ceb93b315d3df3b44708095ca5a8b0529896a147a10834937e476f3106",
+      "en_sha256": "23fe9dbe96a4eb9a54fd56dbb433cada3fe18c7fa5d481e0d0e7852ba1223414",
+      "origin": "ai"
+    },
+    "dataList[id=37].name": {
+      "pl": "Amiya",
+      "kr_sha256": "10e676efaa84fdd11a66504a02f4e4d2da731ec266250a9c96e093fddcba2e5e",
+      "en_sha256": "e73c8da1ecb12eff12f35e65e8c07f0aba5b399b974540daec89a5d417392d2d",
+      "origin": "ai"
+    },
+    "dataList[id=38].name": {
+      "pl": "System Nagłośnienia Pociągu WARP W Corp.",
+      "kr_sha256": "6abd13550fe75f7d5fd26e44ec12da12f0f8279dc8b77591b069de81635eaa03",
+      "en_sha256": "6c229db1cc68e68a453d5f6b6268bb58034442b31332953aab786ebee5a3c719",
+      "origin": "ai"
+    },
+    "dataList[id=39].name": {
+      "pl": "Gebura",
+      "kr_sha256": "8d622d67244d51a0133c306cd1a46f522348b836000677ebf8c4e6853db7545e",
+      "en_sha256": "380bcc2b7e432cf4a06985bc027fbdf136fb3679fb1264558ae02441521283e0",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Charon",
+      "kr_sha256": "8817461b4f1a515d027a98628b9bcc1d080c055e4ba610b651aa38456cedd893",
+      "en_sha256": "ea9246ceeac13ba09feb72c503221ab8d05e2714a0a40b445c7b21761c173153",
+      "origin": "ai"
+    },
+    "dataList[id=40].name": {
+      "pl": "Lei Heng",
+      "kr_sha256": "704fef66e237b3678f20faedc8fcaca4a4c2b5d471640148527c844fdec78aa1",
+      "en_sha256": "aab00935cf0abd66deef574d40043ed28f6787851524b7faf63bf6a978e8a664",
+      "origin": "ai"
+    },
+    "dataList[id=43].name": {
+      "pl": "Angela\n<size=90%>(Dyrektorka Biblioteki — Pierwsze Dni)</size>",
+      "kr_sha256": "deacfe627a1369d48b461c12eae1f1f8546d4152ab51995a1743a02429a2ae0d",
+      "en_sha256": "68e5a54174645ef3b314038aad52fed37b894a476fbbb4229761ba86496fd763",
+      "origin": "ai"
+    },
+    "dataList[id=44].name": {
+      "pl": "Chesed",
+      "kr_sha256": "5e4ae8057c6d2533e79b31cce33a9b9d7bba5539885cb25ba56c7cce92cb422e",
+      "en_sha256": "54dd8cd527f97433345928cdf03c17d38a0a6c08b73c0af6064786a907d04b58",
+      "origin": "ai"
+    },
+    "dataList[id=45].name": {
+      "pl": "Zespół Badawczy LCE",
+      "kr_sha256": "4da83ebeaecd94d63cefbece8172b9bc9f90c5b7cc9f0644e7098cfce10fe8c3",
+      "en_sha256": "eb97ad34a5bf3f4d23cff708979a95c039f20ddb6202be1fdce1cab00efff436",
+      "origin": "ai"
+    },
+    "dataList[id=46].name": {
+      "pl": "Kira",
+      "kr_sha256": "9c567a4f01f5f43d4775d203a3ede8829f0ec3a18fefcec4fb737707e9f8040d",
+      "en_sha256": "3c566d34284a6a3b4893fe54a4b505d211e1c2f1a334d701b757f67af5ca5448",
+      "origin": "ai"
+    },
+    "dataList[id=47].name": {
+      "pl": "Sprzątacze Dystryktu 8",
+      "kr_sha256": "f06a6ecfdca73503c71a0bc0868f1c065284a70e0323054adac4ca2840e97aec",
+      "en_sha256": "3c8152af0ab569db73662eea4214a14477febeaeef4405d1eda4c193358fc28d",
+      "origin": "ai"
+    },
+    "dataList[id=48].name": {
+      "pl": "Sprzątacze Dystryktu 8 [Zinterpretowani]",
+      "kr_sha256": "1aa24a25563f8f0a9484edd61ede3d64860c22f6e43eff8284cb515189965a84",
+      "en_sha256": "5217d3959609eb5010c17fbe14388c48be9d776ed1906a2ae4fb9c891bf31306",
+      "origin": "ai"
+    },
+    "dataList[id=49].name": {
+      "pl": "Kim w Słomkowym Kapeluszu i Aeng-du",
+      "kr_sha256": "0d5d9d27505afa57a3521764f0b1daac25131d8b9dc99c770eab395c03623607",
+      "en_sha256": "f14c2daa0c7fd74a0185828ece7c046082c8978a03ba1959c55ef19ecbfcd55e",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=50].name": {
+      "pl": "Binah",
+      "kr_sha256": "f765e94075c3a2650d2a4baacecae8389f714a700eb7e4044c2e91a0cf945748",
+      "en_sha256": "dc17e44e55317bc5ae5d632bd5669ee8e9699603001d96b60fc236445ea8c713",
+      "origin": "ai"
+    },
+    "dataList[id=51].name": {
+      "pl": "Matthias/Kira",
+      "kr_sha256": "8a548aeeae785597238f54bac746a8cf423661a90ce75cabcf458f7bdc12cedb",
+      "en_sha256": "6f441e96c64675ac462e9631ceacea827b79ad192c06c50c2c2e43f214a3bc18",
+      "origin": "ai"
+    },
+    "dataList[id=52].name": {
+      "pl": "Valencina/Lucio",
+      "kr_sha256": "01b0cc54eb59f30ccb02b29700158ed7a69385c0c6d87dee5d520dd39ee9ba8a",
+      "en_sha256": "e8b1777e6111f88265b41526edf25804df341fa4cb2e049ef40074e75e28b803",
+      "origin": "ai"
+    },
+    "dataList[id=53].name": {
+      "pl": "Callisto/Albina",
+      "kr_sha256": "4b8c75cfc696ccc0ac6b719d922faefacc15adb6836691f61e0c136be2d1e34d",
+      "en_sha256": "1c29200f7d02f100ba879fafad50e21587b44a01fb83ca98dc46af160a087cb0",
+      "origin": "ai"
+    },
+    "dataList[id=54].name": {
+      "pl": "Rien/Sora",
+      "kr_sha256": "c5523cb65e044a898095bac67572a4afe281ee4b12503ed837a0c055674123f8",
+      "en_sha256": "0645ee03dbe7c0b067c7821c9e0ce07991a077bb6b270d97812ac7f6c5b36f42",
+      "origin": "ai"
+    },
+    "dataList[id=55].name": {
+      "pl": "Komunikat dla Klientów Domu Towarowego Sisyphe",
+      "kr_sha256": "69ed6a52d296916bdafce4728e083dbdf9779737547c52bd8434487a4f6df311",
+      "en_sha256": "ff302cee27f2dfaee0d37cf3e67abad1beb5c494a699f0ed6f4a5fa79e1343c3",
+      "origin": "ai"
+    },
+    "dataList[id=56].name": {
+      "pl": "Jeanne",
+      "kr_sha256": "9aaa2de27408d94361213da55e6cb68c1e45d5bb23180bf5b26b82f9bab4fefe",
+      "en_sha256": "57a17ae985757aaf25be146f948dec5cec5e25a802c4a90a5162761d1f27ac55",
+      "origin": "ai"
+    },
+    "dataList[id=57].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=58].name": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    },
+    "dataList[id=59].name": {
+      "pl": "Hokma",
+      "kr_sha256": "531f79ed8cd4c61bb7405a10c9278ca9a99e28b8c8602b0c4a751e27b5982c83",
+      "en_sha256": "d29175847c0a1671527d85a7379aadffe7a724d44eeec27f3d1715d9327b9d73",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=60].name": {
+      "pl": "Nadzorca",
+      "kr_sha256": "438a4cc8bfbe13d96f3cc8077e8abedace2a3dbb754724d2537627838ff51063",
+      "en_sha256": "23845d7ca03935699f7123636c13b518aef2017ec4af1ee3876050394c92255b",
+      "origin": "ai"
+    },
+    "dataList[id=6].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=7].name": {
+      "pl": "Effie/Saude",
+      "kr_sha256": "19d0cc02ac4bc64c6fd0b0ca18f3ea0061d0445d7a39a8a4c7525a4508ec4452",
+      "en_sha256": "eb75007e35acd3a1ddb950303b111cc7b6c49344aa5005ca997811eab8628e17",
+      "origin": "ai"
+    },
+    "dataList[id=8].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=90001].name": {
+      "pl": "Hohenheim",
+      "kr_sha256": "a7432bb6f39f02eb52033042dfc08b1ac28a92e6f7ab053607e982114ebc4b46",
+      "en_sha256": "9e16d427f29b6375b1d4812e1af4b1e73adfe3d4b344c8de37a48f465404b6d4",
+      "origin": "ai"
+    },
+    "dataList[id=9].name": {
+      "pl": "Yuri",
+      "kr_sha256": "4b585bc5692d408917f254dbf33a8234c51116377697bd327ca904bd78243c7c",
+      "en_sha256": "5af45e38fe555dd5985c04274c00012c3e9ff3360b91ae06ff90bc7183b78144",
+      "origin": "ai"
+    }
+  }
+}

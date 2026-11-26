@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=select_announcer_popup_confirm_desc].content": {
+      "pl": "Czy wybrać Komentatora <color=#f8c200>{0}</color>?",
+      "kr_sha256": "5ca01da5950499eef5ba7c7d41f0dc24b8a4593ec624765f2d4e73e7741fff59",
+      "en_sha256": "713af60e3e534868f11e09f41a48ecb90e2446e7e15b45a14a0c4bfea442ffb3",
+      "origin": "ai"
+    },
+    "dataList[id=select_announcer_popup_exchange_confirm_desc].content": {
+      "pl": "Wybranie posiadanego już Komentatora da {0}.",
+      "kr_sha256": "7a248209aa3f4433b84fab773fe327069a1a6742d6eea67f28e7a03c7d98af10",
+      "en_sha256": "4ac1251297fbf622cb9ef38df9202848fc23f01c240a784220c8df25e45f2f2e",
+      "origin": "ai"
+    },
+    "dataList[id=select_announcer_popup_title].content": {
+      "pl": "Wybór Komentatora",
+      "kr_sha256": "3832f6ad9de5c7d97d9959dad6e36872bd658ec7544e1208d7859ede0aa3b561",
+      "en_sha256": "173e0ea59714ec91dc1e030af5f879d6ef16305dfb42300fa8849d9e711630af",
+      "origin": "ai"
+    }
+  }
+}
