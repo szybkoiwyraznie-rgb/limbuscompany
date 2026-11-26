@@ -219,6 +219,9 @@ Ten plik obowiązuje wszystkie agenty Arena wykonujące tymczasowy przekład int
 - Wyrażenia: `Podwaja nadawaną przez Umiejętności Moc i Licznik Podpalenia, Krwawienia, Rozdarcia, Zatonięcia i Wstrząsu (dotyczy również stanów „Specjalnych”)`, `W stanie Oszołomienia… Poziom Oszołomienia rośnie o 1` (흐트러짐 단계 Stagger Level — odróżnić od Próg), `W walkach łańcuchowych` (연속 전투 Chain Battles — wycofanie/rezerwa), `Jednostki bez Poczytalności: szansa na Awersy -10%`, `tracąc stosy z tego efektu…`, `60–72 skrócone pod limity` („Przy aktywnym Dullahanie:", „(3 razy na turę)")
 - Walidator: item musi zawierać WSZYSTKIE tokeny z KR ({0} w 264 — „Łączne zużycie Pocisków: {0}" nawet gdy EN gubi bullet)
 
+### Słowa kluczowe walki — Bufs + Bufs_Mirror3–5 (`Fala 2: P28`)
+- Kompozycja niemal w całości reuse (552/560 krmap); fresh 8: `Amplifikacja Mocy Monet I/II` (코인 위력 증폭 — krmap), `Skuty [Hong Lu]` (포박 [홍루] — krmap; fraza „W Starciu z wrogami ze Skutym [Hong Lu]", `Obecnie skuwa: {0}` per P24), `Szczególne Ładowanie` ×3 warianty Kolejności KR (krmap), `Le Rouge` (르루주 — krmap tekst; fraza „Gdy sojusznicy frakcji Le Rouge (poza tą jednostką) spełnią warunki…"), ATMO ssanghwa-cha reuse 1:1 z krmap (osobliwość/Fixer-barwa motyw; KR literówka 특색이아→특색이야), `- Maks. stosów: {0} (zyskano {1})`
+
 ## 4. Twarde reguły techniczne walidatora (`tools/import_zwrotki.py --ai`)
 
 1. **Nigdy nie tłumacz identyfikatorów w nawiasach kwadratowych `[…]` należących do silnika gry** (np. `[OnSucceedAttack]`, `[Combustion]`, `[Laceration]`, `[Vibration]`, `[Burst]`, `[Sinking]`, `[Breath]`, `[Charge]`, `[Protection]`) — gra sama podmienia je na przetłumaczone nazwy z `SkillTag.json` i `BattleKeywords.json`! (Wyjątkiem są dosłowne napisy w samym `SkillTag.json`, gdzie cały tekst źródłowy to np. `[On Hit]` i nie ma on linii `tokeny: zachowaj dokładnie: [...]`).
