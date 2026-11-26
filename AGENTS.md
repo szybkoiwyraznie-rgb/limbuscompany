@@ -13,14 +13,22 @@ własnych tłumaczeń** ([FEASIBILITY.md](docs/FEASIBILITY.md)).
 
 - **Agenci (Arena)** odpowiadają za stronę techniczną: zbieracz, wyciąg tekstów,
   Pakiety dla Tłumacza, import zwrotek, budowę paczki `Lang/`, Czytanki,
-  aktualizacje, testy i dokumentację.
-- **Tłumacz zewnętrzny** (wyspecjalizowany) tłumaczy wyłącznie na podstawie
-  Pakietów dla Tłumacza. **Agent nie tłumaczy tekstu gry** i nie „poprawia”
-  przekładu. Wolno mu jedynie zgłosić problem (np. zepsuty znacznik, przekroczony
-  limit) i — jeśli właściciel tak zdecyduje — zastosować techniczną poprawkę
-  z wpisem w rejestrze poprawek.
-- **Właściciel** podejmuje decyzje ([DECYZJE.md](docs/DECYZJE.md)), uruchamia
-  zbieracz u siebie, przekazuje pliki przez Dysk Google i testuje w grze.
+  aktualizacje, testy i dokumentację. Ponadto — wzorem projektu `wherewindsmeet`
+  ([`D-11`](docs/DECYZJE.md), [PLAN_TLUMACZENIA_AI.md](docs/PLAN_TLUMACZENIA_AI.md))
+  — **po wyraźnym sygnale właściciela** agenci tworzą tymczasowy przekład
+  `AI-tymczasowe` (`"origin": "ai"`) **wyłącznie** dla interfejsu (UI), opisów
+  technicznych mechanik/statusów oraz kart meta/statystyk (Tożsamości, skille,
+  pasywki, E.G.O, Dary E.G.O, statystyki wrogów, UI/zadania/przedmioty RPG).
+- **Tłumacz zewnętrzny** (wyspecjalizowany) ma bezwzględny priorytet w całym
+  projekcie i jest wyłącznym autorem przekładu całej fabuły, dialogów, kwestii
+  głosowych, tekstów piosenek, dzienników obserwacji, opisów lore w Notatkach
+  Dantego, zdarzeń Anomalii oraz narracji/dialogów RPG. **Agent nigdy nie
+  nadpisuje ani nie „poprawia” przekładu Tłumacza**; zwrotki Tłumacza zawsze
+  zastępują wpisy `AI-tymczasowe`, a pakiety generowane dla Tłumacza pomijają
+  wpisy `"origin": "ai"`, zostawiając czyste puste pola `PL:`.
+- **Właściciel** podejmuje decyzje ([DECYZJE.md](docs/DECYZJE.md)), daje sygnał
+  do rozpoczęcia fal `AI-tymczasowe`, uruchamia zbieracz u siebie, przekazuje
+  pliki przez Dysk Google i testuje w grze.
 
 ## Początek każdej sesji
 

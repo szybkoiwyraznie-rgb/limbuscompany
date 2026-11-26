@@ -6,7 +6,11 @@
   "localize_en_sha256": "d10485fb3a8e49cbc48f8f2b12de9bf527097997f8df18ef5cf5d2b53aee9c10",
   "translated_files": 149,
   "translated_addresses": 5559,
+  "human_addresses": 5559,
+  "ai_addresses": 0,
   "story_glossary_entries": 169,
+  "ai_story_glossary_entries": 0,
   "view_glossary_entries": 0,
+  "ai_view_glossary_entries": 0,
   "story_repeat_links": 379
 }

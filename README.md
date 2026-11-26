@@ -56,6 +56,7 @@ Pakietów, właściciel decyduje i testuje w grze — [docs/WORKFLOW.md](docs/WO
 | [docs/FORMAT_LOCALIZE.md](docs/FORMAT_LOCALIZE.md) | format źródła `Localize` |
 | [docs/LANG_FORMAT.md](docs/LANG_FORMAT.md) | format paczki `Lang/`, czcionki |
 | [docs/PAKIET_TLUMACZA.md](docs/PAKIET_TLUMACZA.md) | Pakiety dla Tłumacza i import zwrotek |
+| [docs/PLAN_TLUMACZENIA_AI.md](docs/PLAN_TLUMACZENIA_AI.md) | tymczasowy przekład UI/technikaliów/meta (`AI-tymczasowe`, 87 paczek `P01`–`P87`, D-11) |
 | [docs/CZYTANKI.md](docs/CZYTANKI.md) | Czytanki |
 | [docs/EXPERIMENT_LOG.md](docs/EXPERIMENT_LOG.md) | dziennik badań z liczbami i hashami |
 | [docs/PRIOR_ART.md](docs/PRIOR_ART.md) | projekty społeczności: lustra plików, narzędzia, co przejmujemy |

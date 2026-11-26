@@ -454,6 +454,26 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--out", type=Path, default=ROOT / "local" / "pakiet")
     parser.add_argument("--only", action="append", type=int, help="sub-chapter id(s) (story-only sample package)")
     parser.add_argument("--no-views", action="store_true", help="omit widoki.zip (build story scenes only)")
+    parser.add_argument(
+        "--tlumaczenie",
+        type=Path,
+        default=ROOT / "tlumaczenie",
+        help="katalog przekładu (domyślnie: tlumaczenie/) używany przy --wypelnij-pl / --tylko-ai",
+    )
+    parser.add_argument(
+        "--wypelnij-pl",
+        "--prefill-pl",
+        dest="prefill_pl",
+        action="store_true",
+        help="wpisz istniejące przekłady tłumacza w linie PL:, pomijając tymczasowe wpisy AI ('origin': 'ai')",
+    )
+    parser.add_argument(
+        "--tylko-ai",
+        "--only-ai",
+        dest="only_ai",
+        action="store_true",
+        help="zbuduj pakiet weryfikacyjny zawierający wyłącznie wpisy AI ('origin': 'ai')",
+    )
     args = parser.parse_args(argv)
 
     index = json.loads(args.index.read_text(encoding="utf-8"))
@@ -463,21 +483,49 @@ def main(argv: list[str] | None = None) -> int:
                  "identity": [], "nieprzypisane": []}
 
     static = StaticData(args.static_data) if include_views and args.static_data and args.static_data.exists() else None
+    view_files: dict[str, str] | None = None
     with Snapshot.open(args.snapshot) as snapshot:
         scene_files, counts = build(index, Story(snapshot))
-        payload: dict[str, bytes] = {"sceny.zip": pack_zip_bytes(scene_files)}
         if include_views:
             view_files, view_stats = build_views(snapshot, static)
-            payload["widoki.zip"] = pack_zip_bytes(view_files)
             counts.update(view_stats)
             counts["lacznie_elementy"] = counts["elementy"] + counts["widoki_elementy"]
             counts["lacznie_do_tlumaczenia"] = (
                 counts["do_tlumaczenia"] + counts["napisy_slownika"] + counts["widoki_do_tlumaczenia"]
             )
 
+    if args.prefill_pl or args.only_ai:
+        from tools.audit_update import prefill_bundles
+
+        entry_filter = "ai" if args.only_ai else "human"
+        scene_files, view_files, pref_stats = prefill_bundles(
+            scene_files=scene_files,
+            view_files=view_files,
+            localize_path=args.snapshot,
+            story_index_path=args.index,
+            tlumaczenie_dir=args.tlumaczenie,
+            entry_filter=entry_filter,
+        )
+        counts.update(pref_stats)
+        if not args.only_ai:
+            counts["do_tlumaczenia"] = pref_stats["sceny_pozostale_pl"]
+            counts["napisy_slownika"] = pref_stats["slownik_pozostale_pl"]
+            if include_views:
+                counts["widoki_do_tlumaczenia"] = pref_stats["widoki_pozostale_pl"]
+                counts["lacznie_do_tlumaczenia"] = pref_stats["lacznie_pozostale_pl"]
+
+    payload: dict[str, bytes] = {"sceny.zip": pack_zip_bytes(scene_files)}
+    if view_files is not None:
+        payload["widoki.zip"] = pack_zip_bytes(view_files)
+
     payload["README.md"] = readme(args.version, counts).encode("utf-8")
     args.out.mkdir(parents=True, exist_ok=True)
-    target = args.out / f"plik_dla_tlumacza_v{args.version}.zip"
+    pkg_name = (
+        f"paczka_ai_weryfikacja_v{args.version}.zip"
+        if args.only_ai
+        else f"plik_dla_tlumacza_v{args.version}.zip"
+    )
+    target = args.out / pkg_name
     write_zip(target, payload)
     digest = hashlib.sha256(target.read_bytes()).hexdigest()
     print(json.dumps({**counts, "plik": str(target), "bajty": target.stat().st_size, "sha256": digest},

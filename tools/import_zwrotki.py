@@ -98,6 +98,14 @@ VOID_TMP_TAGS = frozenset({"br", "sprite"})
 TAG_NAME_RE = re.compile(r"^<(/?)([a-zA-Z-]+)")
 HANGUL_RE = re.compile(r"[\uac00-\ud7a3\u3131-\u318e]")
 
+ORIGIN_TRANSLATOR = "translator"
+ORIGIN_AI = "ai"
+
+
+def is_ai_entry(entry: dict | None) -> bool:
+    """Return True when a store/glossary entry carries provisional AI provenance."""
+    return bool(entry and entry.get("origin") == ORIGIN_AI)
+
 
 def is_story_script_comment(kr_raw: str, en_raw: str, logical_file: str = "") -> bool:
     """Return True for scenario-script ``//…`` markers left verbatim by official EN."""
@@ -287,6 +295,8 @@ class ImportReport:
     addresses_updated: int = 0
     story_glossary_updated: int = 0
     view_glossary_updated: int = 0
+    skipped_human_existing: int = 0
+    replaced_ai: int = 0
     errors: list[str] = field(default_factory=list)
     warnings: list[ImportWarningItem] = field(default_factory=list)
 
@@ -301,6 +311,8 @@ class ImportReport:
             "addresses_updated": self.addresses_updated,
             "story_glossary_updated": self.story_glossary_updated,
             "view_glossary_updated": self.view_glossary_updated,
+            "skipped_human_existing": self.skipped_human_existing,
+            "replaced_ai": self.replaced_ai,
             "error_count": len(self.errors),
             "warning_count": len(self.warnings),
             "errors": self.errors,
@@ -483,13 +495,81 @@ class TranslationStore:
                     store.files[logical] = dict(entries)
         return store
 
-    def set_leaf(self, logical_file: str, addr: str, pl: str, kr_raw: str, en_raw: str) -> None:
+    def set_leaf(
+        self,
+        logical_file: str,
+        addr: str,
+        pl: str,
+        kr_raw: str,
+        en_raw: str,
+        origin: str = ORIGIN_TRANSLATOR,
+    ) -> str:
         bucket = self.files.setdefault(logical_file, {})
-        bucket[addr] = {
+        existing = bucket.get(addr)
+        if origin == ORIGIN_AI and existing is not None and not is_ai_entry(existing):
+            return "skipped_human"
+        was_ai = is_ai_entry(existing)
+        entry: dict[str, str] = {
             "pl": pl,
             "kr_sha256": sha256_text(kr_raw),
             "en_sha256": sha256_text(en_raw),
         }
+        if origin == ORIGIN_AI:
+            entry["origin"] = ORIGIN_AI
+        bucket[addr] = entry
+        return "replaced_ai" if (origin != ORIGIN_AI and was_ai) else "written"
+
+    def set_story_glossary(
+        self,
+        kind: str,
+        key: str,
+        pl: str,
+        kr_raw: str,
+        en_raw: str,
+        origin: str = ORIGIN_TRANSLATOR,
+    ) -> str:
+        bucket = self.story_glossary.setdefault(kind, {})
+        existing = bucket.get(key)
+        if origin == ORIGIN_AI and existing is not None and not is_ai_entry(existing):
+            return "skipped_human"
+        was_ai = is_ai_entry(existing)
+        entry: dict[str, str] = {
+            "pl": pl,
+            "kr_sha256": sha256_text(kr_raw),
+            "en_sha256": sha256_text(en_raw),
+        }
+        if origin == ORIGIN_AI:
+            entry["origin"] = ORIGIN_AI
+        bucket[key] = entry
+        return "replaced_ai" if (origin != ORIGIN_AI and was_ai) else "written"
+
+    def set_view_glossary(
+        self,
+        kind: str,
+        key: str,
+        src_enc: str,
+        ref_enc: str,
+        pl: str,
+        kr_raw: str,
+        en_raw: str,
+        origin: str = ORIGIN_TRANSLATOR,
+    ) -> str:
+        bucket = self.view_glossary.setdefault(kind, {})
+        existing = bucket.get(key)
+        if origin == ORIGIN_AI and existing is not None and not is_ai_entry(existing):
+            return "skipped_human"
+        was_ai = is_ai_entry(existing)
+        entry: dict[str, str] = {
+            "src": src_enc,
+            "ref": ref_enc,
+            "pl": pl,
+            "kr_sha256": sha256_text(kr_raw),
+            "en_sha256": sha256_text(en_raw),
+        }
+        if origin == ORIGIN_AI:
+            entry["origin"] = ORIGIN_AI
+        bucket[key] = entry
+        return "replaced_ai" if (origin != ORIGIN_AI and was_ai) else "written"
 
     def get_leaf(self, logical_file: str, addr: str) -> dict[str, str] | None:
         return self.files.get(logical_file, {}).get(addr)
@@ -502,12 +582,22 @@ class TranslationStore:
             primary_entry = self.get_leaf(p_file, p_addr)
             if primary_entry is None:
                 continue
+            p_origin = ORIGIN_AI if is_ai_entry(primary_entry) else ORIGIN_TRANSLATOR
             kr_raw = ref.leaves("kr", t_file).get(t_addr, "")
             en_raw = ref.leaves("en", t_file).get(t_addr, "")
             existing = self.get_leaf(t_file, t_addr)
-            if existing is None or existing.get("pl") != primary_entry["pl"]:
-                self.set_leaf(t_file, t_addr, primary_entry["pl"], kr_raw, en_raw)
-                propagated += 1
+            if p_origin == ORIGIN_AI and existing is not None and not is_ai_entry(existing):
+                continue
+            if (
+                existing is None
+                or existing.get("pl") != primary_entry["pl"]
+                or is_ai_entry(existing) != (p_origin == ORIGIN_AI)
+            ):
+                res = self.set_leaf(
+                    t_file, t_addr, primary_entry["pl"], kr_raw, en_raw, origin=p_origin
+                )
+                if res != "skipped_human":
+                    propagated += 1
         return propagated
 
     def save_atomic(self, index_manifest: dict) -> None:
@@ -561,6 +651,15 @@ class TranslationStore:
                 )
 
             buildid, zrodlo, kr_sha, en_sha = parse_index_manifest(index_manifest)
+            ai_leaves = sum(
+                1 for v in self.files.values() for e in v.values() if is_ai_entry(e)
+            )
+            ai_story_gl = sum(
+                1 for v in self.story_glossary.values() for e in v.values() if is_ai_entry(e)
+            )
+            ai_view_gl = sum(
+                1 for v in self.view_glossary.values() for e in v.values() if is_ai_entry(e)
+            )
             manifest = {
                 "format_version": 1,
                 "steam_buildid": None if buildid == "unknown" else buildid,
@@ -569,8 +668,12 @@ class TranslationStore:
                 "localize_en_sha256": en_sha,
                 "translated_files": sum(1 for v in self.files.values() if v),
                 "translated_addresses": total_leaves,
+                "human_addresses": total_leaves - ai_leaves,
+                "ai_addresses": ai_leaves,
                 "story_glossary_entries": sum(len(v) for v in self.story_glossary.values()),
+                "ai_story_glossary_entries": ai_story_gl,
                 "view_glossary_entries": sum(len(v) for v in self.view_glossary.values()),
+                "ai_view_glossary_entries": ai_view_gl,
                 "story_repeat_links": len(self.story_repeats),
             }
             (staging / "MANIFEST.json").write_text(
@@ -598,6 +701,7 @@ def _parse_story_glossary_file(
     store: TranslationStore,
     report: ImportReport,
     allow_older_package: bool = False,
+    origin: str = ORIGIN_TRANSLATOR,
 ) -> None:
     current_kind: str | None = None
     lines = text.splitlines()
@@ -695,11 +799,14 @@ def _parse_story_glossary_file(
                     "pozostały znaki koreańskie (Hangul) w PL mimo ich braku w EN",
                 )
             )
-        store.story_glossary.setdefault(current_kind, {})[src_key] = {
-            "pl": pl_line,
-            "kr_sha256": sha256_text(src_key),
-            "en_sha256": sha256_text(expected_ref),
-        }
+        res = store.set_story_glossary(
+            current_kind, src_key, pl_line, src_key, expected_ref, origin=origin
+        )
+        if res == "skipped_human":
+            report.skipped_human_existing += 1
+            continue
+        if res == "replaced_ai":
+            report.replaced_ai += 1
         report.translated_items += 1
         report.story_glossary_updated += 1
 
@@ -711,6 +818,7 @@ def _parse_story_scenes_file(
     store: TranslationStore,
     report: ImportReport,
     allow_older_package: bool = False,
+    origin: str = ORIGIN_TRANSLATOR,
 ) -> None:
     current_stem: str | None = None
     lines = text.splitlines()
@@ -876,7 +984,12 @@ def _parse_story_scenes_file(
                     f"scena {current_stem}: pozostały znaki koreańskie (Hangul) w PL mimo ich braku w EN",
                 )
             )
-        store.set_leaf(logical_file, addr, pl_decoded, kr_raw, en_raw)
+        res = store.set_leaf(logical_file, addr, pl_decoded, kr_raw, en_raw, origin=origin)
+        if res == "skipped_human":
+            report.skipped_human_existing += 1
+            continue
+        if res == "replaced_ai":
+            report.replaced_ai += 1
         report.translated_items += 1
         report.addresses_updated += 1
 
@@ -888,6 +1001,7 @@ def _parse_views_file(
     store: TranslationStore,
     report: ImportReport,
     allow_older_package: bool = False,
+    origin: str = ORIGIN_TRANSLATOR,
 ) -> None:
     lines = text.splitlines()
     parsed_items: list[dict] = []
@@ -1084,13 +1198,14 @@ def _parse_views_file(
                 existing_vg = store.view_glossary.get(gkind, {}).get(gkey)
                 if existing_vg and existing_vg.get("en_sha256") == sha256_text(en_raw):
                     continue
-            store.view_glossary.setdefault(gkind, {})[gkey] = {
-                "src": src_enc,
-                "ref": ref_enc,
-                "pl": pl_decoded,
-                "kr_sha256": sha256_text(kr_raw),
-                "en_sha256": sha256_text(en_raw),
-            }
+            res = store.set_view_glossary(
+                gkind, gkey, src_enc, ref_enc, pl_decoded, kr_raw, en_raw, origin=origin
+            )
+            if res == "skipped_human":
+                report.skipped_human_existing += 1
+                continue
+            if res == "replaced_ai":
+                report.replaced_ai += 1
             if is_repeat:
                 report.inherited_repeats += 1
             else:
@@ -1105,7 +1220,14 @@ def _parse_views_file(
                     existing_leaf = store.get_leaf(logical_file, addr)
                     if existing_leaf and existing_leaf.get("en_sha256") == sha256_text(a_en):
                         continue
-                store.set_leaf(logical_file, addr, pl_decoded, a_kr, a_en)
+                res = store.set_leaf(
+                    logical_file, addr, pl_decoded, a_kr, a_en, origin=origin
+                )
+                if res == "skipped_human":
+                    report.skipped_human_existing += 1
+                    continue
+                if res == "replaced_ai":
+                    report.replaced_ai += 1
                 report.addresses_updated += 1
                 wrote_any = True
             if wrote_any:
@@ -1122,8 +1244,11 @@ def import_returns(
     index_manifest_path: Path = ROOT / "index" / "MANIFEST.json",
     tlumaczenie_dir: Path = ROOT / "tlumaczenie",
     allow_older_package: bool = False,
+    origin: str = ORIGIN_TRANSLATOR,
 ) -> ImportReport:
     """Validate and atomically import translator Markdown returns into ``tlumaczenie_dir``."""
+    if origin not in {ORIGIN_TRANSLATOR, ORIGIN_AI}:
+        raise ValueError(f"nieznane pochodzenie wpisów {origin!r}")
     markdown_files = collect_markdown_inputs(inputs)
     if not markdown_files:
         raise ValueError("nie znaleziono żadnych plików .md do zaimportowania")
@@ -1142,11 +1267,20 @@ def import_returns(
         for source_name, content in markdown_files:
             base_name = PurePosixPath(source_name).name.lower()
             if base_name == "mowcy-i-miejsca.md" or content.startswith("# Mówcy, tytuły i miejsca"):
-                _parse_story_glossary_file(source_name, content, ref, store, report, allow_older_package=allow_older_package)
+                _parse_story_glossary_file(
+                    source_name, content, ref, store, report,
+                    allow_older_package=allow_older_package, origin=origin,
+                )
             elif SCENE_HEADING_RE.search(content) or "\n## Scena " in content:
-                _parse_story_scenes_file(source_name, content, ref, store, report, allow_older_package=allow_older_package)
+                _parse_story_scenes_file(
+                    source_name, content, ref, store, report,
+                    allow_older_package=allow_older_package, origin=origin,
+                )
             elif "   źródło: " in content or "   słownik: " in content:
-                _parse_views_file(source_name, content, ref, store, report, allow_older_package=allow_older_package)
+                _parse_views_file(
+                    source_name, content, ref, store, report,
+                    allow_older_package=allow_older_package, origin=origin,
+                )
             else:
                 report.errors.append(f"{source_name}: nierozpoznany układ pliku zwrotki")
 
@@ -1172,6 +1306,11 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="przyjmij zwrotkę ze starszego pakietu po aktualizacji gry (pomiń zmienione KR z ostrzeżeniem, zachowaj niezmienione KR)",
     )
+    parser.add_argument(
+        "--ai",
+        action="store_true",
+        help="oznacz importowane wpisy jako tymczasowy przekład AI ('origin': 'ai'); nigdy nie nadpisuje wpisów tłumacza",
+    )
     args = parser.parse_args(argv)
 
     report = import_returns(
@@ -1181,6 +1320,7 @@ def main(argv: list[str] | None = None) -> int:
         index_manifest_path=args.index_manifest,
         tlumaczenie_dir=args.out,
         allow_older_package=args.allow_older_package,
+        origin=ORIGIN_AI if args.ai else ORIGIN_TRANSLATOR,
     )
     if args.report:
         args.report.parent.mkdir(parents=True, exist_ok=True)

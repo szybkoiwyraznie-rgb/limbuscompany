@@ -157,14 +157,22 @@ Pomiar na buildzie Steam `26652290` (`plik_dla_tlumacza_v2.zip`, E-008):
 3. Automatyczne dziedziczenie powtórzeń wewnątrz pliku (`widoki`) i między scenami
    (`sceny`, przez `tlumaczenie/powtorzenia.json`) oraz atomowy zapis do
    `tlumaczenie/`.
-4. Poprawki techniczne agenta idą wyłącznie do bramek walidacji — tekst gry nigdy
-   nie jest dopisywany ani zmieniany przez agenta (`AGENTS.md`).
+4. Rozdział pochodzenia wpisów (`D-11`): zwrotki tymczasowego przekładu UI/meta
+   importowane z flagą `--ai` otrzymują znacznik `"origin": "ai"` i nigdy nie
+   nadpisują wpisów Tłumacza (`skipped_human_existing`), natomiast standardowy
+   import zwrotki Tłumacza zawsze nadpisuje wpisy `"origin": "ai"` (`replaced_ai`).
+   Przy budowie pakietu z `--wypelnij-pl` oraz pakietów przyrostowych wpisy
+   `"origin": "ai"` są pomijane — dla Tłumacza pozostają one pustymi polami `PL:`.
 
 ## Odtworzenie
 
 ```text
 python3 tools/story_index.py                                    # indeks kolejności fabuły
 python3 tools/build_package.py --version 2                      # pełny pakiet: README.md + sceny.zip + widoki.zip
-python3 tools/import_zwrotki.py sciezka/do/zwrotki.zip          # walidacja i import zwrotki do tlumaczenie/
-python3 tools/build_lang.py --out dist/LCB_PL_Polski_v1.zip     # produkcyjna paczka Lang/Polski/
+python3 tools/build_package.py --wypelnij-pl --version 3        # pełny pakiet z wpisanym PL Tłumacza (bez wpisów AI)
+python3 tools/build_package.py --tylko-ai --version 1           # pakiet weryfikacyjny zawierający wyłącznie wpisy AI
+python3 tools/prepare_ai_batches.py --status                    # postęp 87 paczek UI/meta (3 fale D-11)
+python3 tools/import_zwrotki.py sciezka/do/zwrotki.zip          # walidacja i import zwrotki Tłumacza do tlumaczenie/
+python3 tools/import_zwrotki.py --ai zwrotki/ai/P01_*.md        # walidacja i import tymczasowej paczki AI ('origin': 'ai')
+python3 tools/build_lang.py --out dist/LCB_PL_Polski_v1.zip     # produkcyjna paczka Lang/Polski/ (Tłumacz + AI; --no-ai = tylko Tłumacz)
 ```

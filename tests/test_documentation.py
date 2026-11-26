@@ -23,6 +23,7 @@ GUIDES = (
     "docs/INDEX_FORMAT.md",
     "docs/LANG_FORMAT.md",
     "docs/PAKIET_TLUMACZA.md",
+    "docs/PLAN_TLUMACZENIA_AI.md",
     "docs/CZYTANKI.md",
     "docs/EXPERIMENT_LOG.md",
     "docs/PRIOR_ART.md",

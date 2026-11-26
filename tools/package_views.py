@@ -1968,14 +1968,13 @@ def render_view_glossary(
     return "\n".join(lines).rstrip() + "\n", elements, todo
 
 
-def build_views(
+def build_view_model(
     snapshot: Snapshot,
     static: StaticData | None = None,
     source: str = "kr",
     reference: str = "en",
-    include_addrs: set[tuple[str, str]] | None = None,
-) -> tuple[dict[str, str], dict]:
-    """Build ``widoki.zip`` Markdown files (full or filtered to ``include_addrs``)."""
+) -> tuple[Corpus, list[tuple[str, str, str, list[SectionBlock]]], list[SectionBlock], int]:
+    """Build the full in-memory view corpus, domain blocks, model-code blocks, and leaf count."""
     corpus = Corpus(snapshot, static=static, source=source, reference=reference)
 
     domains: list[tuple[str, str, str, list[SectionBlock]]] = []
@@ -1984,10 +1983,17 @@ def build_views(
     if combat_blocks:
         domains.append((
             "01_slownik_bojowy",
-            "Słownik bojowy — tagi umiejętności, grzechy, słowa kluczowe, statusy i Panika",
+            "Słownik bojowy — tagi umiejętności, grzechy, statusy i Panika",
             "Fundament terminologii bojowej Limbus Company: przetłumacz ten dział w pierwszej kolejności, aby zachować spójność nazw statusów i tagów w umiejętnościach oraz Darach E.G.O.",
             combat_blocks,
         ))
+        # Preserve exact legacy domain title
+        domains[-1] = (
+            "01_slownik_bojowy",
+            "Słownik bojowy — tagi umiejętności, grzechy, słowa kluczowe, statusy i Panika",
+            domains[-1][2],
+            domains[-1][3],
+        )
 
     domains.extend(build_sinners_and_identities(corpus))
     domains.extend(build_ego_and_gifts(corpus))
@@ -2035,9 +2041,21 @@ def build_views(
         sample = ", ".join(f"{f}::{a}" for f, a in missing[:10])
         raise RuntimeError(f"widoki.zip coverage gate failed: {len(missing)} unconsumed leaves (e.g. {sample})")
 
+    return corpus, domains, mc_blocks, total_leaves
+
+
+def render_views_from_model(
+    corpus: Corpus,
+    domains: list[tuple[str, str, str, list[SectionBlock]]],
+    mc_blocks: list[SectionBlock],
+    total_leaves: int,
+    include_addrs: set[tuple[str, str]] | None = None,
+) -> tuple[dict[str, str], dict]:
+    """Render ``widoki.zip`` Markdown files from a prebuilt view model."""
     glossary_md, gl_elements, gl_todo = render_view_glossary(corpus, mc_blocks, include_addrs=include_addrs)
+    active_domains = domains
     if include_addrs is not None:
-        domains = [
+        active_domains = [
             (base, title, intro, _filter_blocks_by_addrs(blocks, include_addrs))
             for base, title, intro, blocks in domains
         ]
@@ -2074,7 +2092,7 @@ def build_views(
             f"| {row_no} | Mówcy RPG, testów Anomalii i tabela modeli | {gl_elements} | {gl_todo} | mowcy-rpg-i-anomalii.md |"
         )
 
-    for base, title, intro, blocks in domains:
+    for base, title, intro, blocks in active_domains:
         produced, el, td = chunk_domain_files(corpus, base, title, intro, blocks)
         if not produced:
             continue
@@ -2093,3 +2111,19 @@ def build_views(
         "widoki_do_tlumaczenia": total_todo,
     }
     return files, stats
+
+
+def build_views(
+    snapshot: Snapshot,
+    static: StaticData | None = None,
+    source: str = "kr",
+    reference: str = "en",
+    include_addrs: set[tuple[str, str]] | None = None,
+) -> tuple[dict[str, str], dict]:
+    """Build ``widoki.zip`` Markdown files (full or filtered to ``include_addrs``)."""
+    corpus, domains, mc_blocks, total_leaves = build_view_model(
+        snapshot, static=static, source=source, reference=reference
+    )
+    return render_views_from_model(
+        corpus, domains, mc_blocks, total_leaves, include_addrs=include_addrs
+    )

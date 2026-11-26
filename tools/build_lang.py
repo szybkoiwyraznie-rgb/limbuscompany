@@ -42,6 +42,7 @@ if __package__ in (None, ""):
 from tools.build_package import clean
 from tools.import_zwrotki import (
     TranslationStore,
+    is_ai_entry,
     parse_index_manifest,
     sha256_text,
     validate_tokens,
@@ -146,6 +147,8 @@ class BuildSummary:
     files_modified: int
     total_translatable: int
     translated_leaves: int
+    human_leaves: int
+    ai_leaves: int
     fallback_leaves: int
     probe_leaves_applied: int
     stale_source_warnings: list[str] = field(default_factory=list)
@@ -215,6 +218,8 @@ def _build_instructions(
     buildid: str,
     probe: bool,
     translated_leaves: int,
+    human_leaves: int,
+    ai_leaves: int,
     total_translatable: int,
     bundled_title: str,
     bundled_context: str,
@@ -253,8 +258,12 @@ def _build_instructions(
     else:
         lines += [
             f"Pokrycie przekładu: {translated_leaves} / {total_translatable} ({pct:.2f}%)",
-            "(napisy jeszcze nieprzetłumaczone zachowują bezpiecznie tekst angielski).",
         ]
+        if ai_leaves:
+            lines.append(
+                f"  w tym przekład tłumacza: {human_leaves}, tymczasowy przekład UI/meta (AI): {ai_leaves}"
+            )
+        lines.append("(napisy jeszcze nieprzetłumaczone zachowują bezpiecznie tekst angielski).")
 
     if warnings:
         lines += ["", "UWAGI WERSJI:"] + [f"  - {w}" for w in warnings]
@@ -307,6 +316,7 @@ def build_lang_pack(
     unpacked_dir: Path | None = None,
     probe: bool = False,
     require_fonts: bool = True,
+    include_ai: bool = True,
 ) -> BuildSummary:
     """Build the ``LimbusCompany_Data/Lang/`` archive and validate every JSON file."""
     if not SAFE_LANG_RE.match(lang_name):
@@ -372,8 +382,13 @@ def build_lang_pack(
     files_modified = 0
     total_translatable = 0
     translated_leaves = 0
+    human_leaves = 0
+    ai_leaves = 0
     fallback_leaves = 0
     probe_leaves_applied = 0
+
+    def _allowed(entry: dict | None) -> bool:
+        return bool(entry) and (include_ai or not is_ai_entry(entry))
 
     with Snapshot.open(localize_path) as snapshot:
         src_texts = Texts(snapshot, "kr") if "kr" in snapshot.files else None
@@ -387,7 +402,9 @@ def build_lang_pack(
         en_set = set(snapshot.files.get("en", {}))
         kr_set = set(snapshot.files.get("kr", {}))
         translated_kr_only = {
-            f for f in (kr_set - en_set) if store.files.get(f)
+            f
+            for f in (kr_set - en_set)
+            if any(_allowed(e) for e in store.files.get(f, {}).values())
         }
         target_files = sorted(en_set | translated_kr_only)
 
@@ -407,17 +424,23 @@ def build_lang_pack(
             kr_leaves = dict(iter_strings(kr_doc)) if kr_doc else {}
 
             updates: dict[str, str] = {}
+            ai_addrs_in_file: set[str] = set()
             file_entries = store.files.get(logical_file, {})
+
+            def _apply_entry(addr: str, entry: dict) -> None:
+                updates[addr] = entry["pl"]
+                if is_ai_entry(entry):
+                    ai_addrs_in_file.add(addr)
 
             # 1. Direct address translations from tlumaczenie/pliki/
             for addr, entry in file_entries.items():
-                if addr not in base_leaves:
+                if addr not in base_leaves or not _allowed(entry):
                     continue
                 kr_val = kr_leaves.get(addr, "")
                 expected_kr_sha = entry.get("kr_sha256")
                 if expected_kr_sha and kr_val and sha256_text(kr_val) != expected_kr_sha:
                     stale_warnings.append(f"{logical_file} :: {addr}")
-                updates[addr] = entry["pl"]
+                _apply_entry(addr, entry)
 
             # 2. Story glossary application (teller, title, place) across StoryData/*.json
             if logical_file.startswith("StoryData/") and any(story_gl.get(k) for k in ("teller", "title", "place")):
@@ -441,8 +464,8 @@ def build_lang_pack(
                         kr_f = clean(kr_row.get(g_field))
                         g_key = kr_f or (f"{en_f} (tylko EN)" if en_f else "")
                         g_hit = story_gl.get(g_field, {}).get(g_key)
-                        if g_hit:
-                            updates[f_addr] = g_hit["pl"]
+                        if _allowed(g_hit):
+                            _apply_entry(f_addr, g_hit)
 
             # 3. Story model/title glossary fallback on ScenarioModelCodes-AutoCreated.json
             if logical_file == "ScenarioModelCodes-AutoCreated.json" and any(
@@ -456,15 +479,15 @@ def build_lang_pack(
                     en_v = clean(base_val)
                     g_key = kr_v or (f"{en_v} (tylko EN)" if en_v else "")
                     if fname == "name":
-                        g_hit = story_gl.get("model", {}).get(g_key) or story_gl.get(
-                            "teller", {}
-                        ).get(g_key)
+                        m_hit = story_gl.get("model", {}).get(g_key)
+                        t_hit = story_gl.get("teller", {}).get(g_key)
+                        g_hit = m_hit if _allowed(m_hit) else (t_hit if _allowed(t_hit) else None)
                         if g_hit and g_hit.get("en_sha256") == sha256_text(en_v):
-                            updates[addr] = g_hit["pl"]
+                            _apply_entry(addr, g_hit)
                     elif fname == "nickName" and story_gl.get("title"):
                         g_hit = story_gl["title"].get(g_key)
-                        if g_hit and g_hit.get("en_sha256") == sha256_text(en_v):
-                            updates[addr] = g_hit["pl"]
+                        if _allowed(g_hit) and g_hit.get("en_sha256") == sha256_text(en_v):
+                            _apply_entry(addr, g_hit)
 
             # 4. View speaker glossaries (RPGSystem/*.speaker, AbDlg*.teller)
             if logical_file.startswith("RPGSystem/") and view_gl.get("rpg_speaker"):
@@ -473,16 +496,16 @@ def build_lang_pack(
                         continue
                     g_key = f"{encode_view_text(kr_leaves.get(addr, ''))}\t{encode_view_text(base_val)}"
                     g_hit = view_gl["rpg_speaker"].get(g_key)
-                    if g_hit:
-                        updates[addr] = g_hit["pl"]
+                    if _allowed(g_hit):
+                        _apply_entry(addr, g_hit)
             elif PurePosixPath(logical_file).name.startswith("AbDlg") and view_gl.get("abdlg_teller"):
                 for addr, base_val in base_leaves.items():
                     if addr in updates or field_name(addr) != "teller":
                         continue
                     g_key = f"{encode_view_text(kr_leaves.get(addr, ''))}\t{encode_view_text(base_val)}"
                     g_hit = view_gl["abdlg_teller"].get(g_key)
-                    if g_hit:
-                        updates[addr] = g_hit["pl"]
+                    if _allowed(g_hit):
+                        _apply_entry(addr, g_hit)
 
             # Validate translated updates against source tokens before applying probe
             for addr, pl_val in updates.items():
@@ -516,6 +539,10 @@ def build_lang_pack(
                 total_translatable += 1
                 if addr in translated_addrs_in_file:
                     translated_leaves += 1
+                    if addr in ai_addrs_in_file:
+                        ai_leaves += 1
+                    else:
+                        human_leaves += 1
                 else:
                     fallback_leaves += 1
 
@@ -553,6 +580,8 @@ def build_lang_pack(
         buildid=buildid,
         probe=probe,
         translated_leaves=translated_leaves,
+        human_leaves=human_leaves,
+        ai_leaves=ai_leaves,
         total_translatable=total_translatable,
         bundled_title=bundled_title,
         bundled_context=bundled_context,
@@ -563,6 +592,7 @@ def build_lang_pack(
         "format_version": 1,
         "lang": lang_name,
         "probe": probe,
+        "include_ai": include_ai,
         "steam_buildid": buildid,
         "zrodlo_localize": zrodlo_loc,
         "localize_kr_sha256": cur_kr_sha,
@@ -581,6 +611,8 @@ def build_lang_pack(
         "coverage": {
             "total_translatable_leaves": total_translatable,
             "translated_leaves": translated_leaves,
+            "human_leaves": human_leaves,
+            "ai_leaves": ai_leaves,
             "fallback_en_leaves": fallback_leaves,
             "percent": round((100.0 * translated_leaves / total_translatable), 4)
             if total_translatable
@@ -614,6 +646,8 @@ def build_lang_pack(
         files_modified=files_modified,
         total_translatable=total_translatable,
         translated_leaves=translated_leaves,
+        human_leaves=human_leaves,
+        ai_leaves=ai_leaves,
         fallback_leaves=fallback_leaves,
         probe_leaves_applied=probe_leaves_applied,
         stale_source_warnings=stale_warnings,
@@ -645,6 +679,11 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="zbuduj paczkę diagnostyczną Etapu 3 (test uruchomienia i 18 polskich znaków O-03)",
     )
+    parser.add_argument(
+        "--no-ai",
+        action="store_true",
+        help="pomiń tymczasowe wpisy AI ('origin': 'ai') — zbuduj paczkę wyłącznie z przekładu tłumacza",
+    )
     args = parser.parse_args(argv)
 
     summary = build_lang_pack(
@@ -657,6 +696,7 @@ def main(argv: list[str] | None = None) -> int:
         unpacked_dir=args.unpack_to,
         probe=args.probe,
         require_fonts=not args.allow_missing_fonts,
+        include_ai=not args.no_ai,
     )
     mode_txt = "DIAGNOSTYCZNA (--probe)" if summary.probe else "PRODUKCYJNA"
     print(

@@ -63,9 +63,10 @@ tabeli.
 | Teksty gry → `index/` | `tools/import_data.py` | gotowe, zaimportowany aktualny build Steam `26917622` ([INDEX_FORMAT.md](INDEX_FORMAT.md)) |
 | Audyt różnic buildów | `tools/audit_update.py` | gotowe, sprawdzone na żywej aktualizacji `26652290` → `26917622` (`--old-rev`, `--delta-scope {files,items}`, pakiet przyrostowy E-013) |
 | Indeks fabuły (kolejność scen z danych gry) | `tools/story_index.py` (+ `tools/static_data.py`) → `wiedza/indeks_fabuly.json` | gotowe, testy syntetyczne; uruchamiane po nowym rozdziale lub historii Identity |
-| Pakiet dla Tłumacza | `tools/build_package.py` (+ `tools/package_views.py`) | gotowe (`sceny.zip` + `widoki.zip` = 100% tekstów gry, testy syntetyczne i bramka pokrycia — [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
-| Import zwrotki | `tools/import_zwrotki.py` → `tlumaczenie/` | gotowe, testy syntetyczne + zgodność ze starszym pakietem bazowym (`--allow-older-package`) |
-| Paczka `Lang/` | `tools/build_lang.py` → `dist/LCB_PL_*.zip` | gotowe, **potwierdzone w grze (`v.1.119.1`, E-012)** ([LANG_FORMAT.md](LANG_FORMAT.md)) |
+| Pakiet dla Tłumacza | `tools/build_package.py` (+ `tools/package_views.py`) | gotowe (`sceny.zip` + `widoki.zip` = 100% tekstów gry; `--wypelnij-pl` wpisuje przekład Tłumacza z pominięciem AI, `--tylko-ai` buduje pakiet weryfikacyjny — [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
+| Plan i paczki `AI-tymczasowe` (UI/meta) | `tools/prepare_ai_batches.py` → `paczki_ai/MANIFEST.json`, `local/paczki_ai/` | gotowe (`87` paczek `P01`–`P87` w 3 falach, `47 304` slotów UI/meta — [PLAN_TLUMACZENIA_AI.md](PLAN_TLUMACZENIA_AI.md)) |
+| Import zwrotki | `tools/import_zwrotki.py` → `tlumaczenie/` | gotowe, pełny priorytet Tłumacza nad `--ai` (`"origin": "ai"`) + zgodność ze starszym pakietem (`--allow-older-package`) |
+| Paczka `Lang/` | `tools/build_lang.py` → `dist/LCB_PL_*.zip` | gotowe, **potwierdzone w grze (`v.1.119.1`, E-012)**; domyślnie Tłumacz + AI, opcjonalnie `--no-ai` ([LANG_FORMAT.md](LANG_FORMAT.md)) |
 | Kolejność fabuły (heurystyka storylogs, kontrola indeksu) | `tools/story_order.py` → `wiedza/kolejnosc_fabuly.json` | gotowe, testy syntetyczne |
 | Czytanki fabularne | `tools/build_reading.py` (+ `tools/lcb_text.py`) → `czytanki/fabula_*` | gotowe, układ zaakceptowany i zamrożony (O-04, [CZYTANKI.md](CZYTANKI.md)) |
 | Plik ID (profile Identity) | `tools/build_profiles.py` → `czytanki/plik_ID_*` | gotowe, układ zaakceptowany i zamrożony (O-04, [CZYTANKI.md](CZYTANKI.md)) |

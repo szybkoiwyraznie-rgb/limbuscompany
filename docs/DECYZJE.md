@@ -164,6 +164,43 @@ Trzy kolejne testy w grze (`v.1.119.1`, build Steam `26652290` — `E-010`,
   kompletu **18/18 polskich znaków diakrytycznych** (`ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`) bez
   kwadratów ani artefaktów.
 
+### D-11 · 2026-11-26 · Tymczasowy przekład UI, technikaliów i kart meta przez agenty (`AI-tymczasowe`, `"origin": "ai"`) z pełnym priorytetem Tłumacza
+
+Polecenie właściciela (przeniesione z `szybkoiwyraznie-rgb/wherewindsmeet`):
+
+- Aby gra była szybko i wygodnie grywalna po polsku jeszcze przed ukończeniem
+  wszystkich działów `widoki.zip` przez ludzkiego Tłumacza, agenty Arena (ten
+  oraz równoległe sesje) mogą tworzyć **tymczasowy przekład `AI-tymczasowe`**
+  wyłącznie dla **interfejsu (UI), ustawień, samouczków, opisów technicznych
+  mechanik/statusów oraz kart meta/statystyk** (Tożsamości, umiejętności,
+  pasywki, E.G.O, Dary E.G.O, statystyki/skille wrogów, UI/zadania/przedmioty
+  trybu RPG).
+- **Ściśle wyłączone z `AI-tymczasowe` (100% zarezerwowane dla Tłumacza):**
+  cały `StoryData/*` (`sceny.zip`), kwestie głosowe (`PersonalityVoiceDlg/*`,
+  `EGOVoiceDig/*`, `BattleAnnouncerDlg/*`), piosenki (`BgmLyrics/*`), dymki
+  bojowe (`BattleSpeechBubbleDlg*`), dzienniki obserwacji (`AbnormalityGuides*`),
+  opisy lore w Notatkach Dantego (`StoryTheaterDanteNoteDetail*`, `Story-*`),
+  biogramy Grzeszników (`IntroduceCharacter.description`), zdarzenia i dialogi
+  Anomalii/Lochów (`AbEvents*`, `AbDlg*`, `ActionEvents*`) oraz dialogi i
+  narracja RPG Canto X (`rpg-loc-dialogue*`, `rpg-loc-narration*`).
+- **Oznaczenie pochodzenia i reguły priorytetu:**
+  - każdy wpis AI w `tlumaczenie/pliki/*.json` i `tlumaczenie/slowniki.json`
+    nosi jawne pole `"origin": "ai"` (`tools/import_zwrotki.py --ai`), a zwrotki
+    źródłowe agentów są wersjonowane w `zwrotki/ai/PXX_<slug>.md`;
+  - import `--ai` nigdy nie nadpisuje wpisu Tłumacza (`skipped_human_existing`),
+    natomiast zwrotka Tłumacza zawsze nadpisuje wpis AI (`replaced_ai`) i usuwa
+    znacznik `"origin": "ai"`;
+  - paczka do gry (`tools/build_lang.py`) domyślnie włącza wpisy Tłumacza oraz
+    `AI-tymczasowe` (z rozbiciem `human_leaves` / `ai_leaves` w `MANIFEST.json`
+    i opcją `--no-ai`);
+  - pakiety robocze i przyrostowe dla Tłumacza (`tools/build_package.py
+    --wypelnij-pl`, `tools/audit_update.py --delta-out`) **pomijają wpisy
+    `"origin": "ai"`**, zostawiając Tłumaczowi puste pola `PL:` (osobny pakiet
+    kontrolny samych wpisów AI buduje flaga `--tylko-ai`).
+- **Bramka startowa:** po przygotowaniu technicznym i podziale na `87` paczek
+  (`paczki_ai/MANIFEST.json`, `docs/PLAN_TLUMACZENIA_AI.md`) agenty czekają na
+  wyraźny sygnał właściciela przed rozpoczęciem tłumaczenia.
+
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
 
 Brak otwartych decyzji — wszystkie `O-01` … `O-07` zostały rozstrzygnięte.

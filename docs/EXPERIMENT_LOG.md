@@ -526,3 +526,24 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
     `0` zdezaktualizowanych źródłach i bezpiecznym fallbacku `EN` dla reszty) —
     wgrana na Dysk Google właściciela ze zgodną sumą kontrolną.
 
+## E-015 · 2026-11-26 · Architektura `AI-tymczasowe` (`"origin": "ai"`) i deterministyczny podział 87 paczek UI/meta (`D-11`)
+
+- **Rodzaj:** implementacja i audyt zakresu (testy syntetyczne + klasyfikacja pełnego korpusu buildu Steam `26917622`; bez tłumaczenia do sygnału właściciela).
+- **Cel:** przenieść z projektu `wherewindsmeet` architekturę tymczasowego przekładu UI/technikaliów/meta przez agenty Arena (`AI-tymczasowe`) tak, aby:
+  1. wpisy agentów i wpisy ludzkiego Tłumacza współistniały w `tlumaczenie/` z jawnym pochodzeniem i pełnym priorytetem Tłumacza,
+  2. paczka do gry (`build_lang.py`) zawierała wpisy Tłumacza + AI, natomiast pakiety robocze i przyrostowe dla Tłumacza (`build_package.py --wypelnij-pl`, `audit_update.py --delta-out`) pomijały wpisy AI,
+  3. cały materiał UI, techniczny i meta/statystyk został podzielony na bezkolizyjne paczki gotowe do równoległej pracy agentów.
+- **Wyniki i liczby (build `26917622`):**
+  - **Pochodzenie i bramki (`tools/import_zwrotki.py`, `tools/build_lang.py`, `tools/build_package.py`, `tools/audit_update.py`):**
+    - flaga `--ai` oznacza wpisy polem `"origin": "ai"` w `tlumaczenie/pliki/*.json` i `tlumaczenie/slowniki.json`, zliczając osobno `human_addresses` (`5 559`) i `ai_addresses` (`0`) w `tlumaczenie/MANIFEST.json`;
+    - import `--ai` nigdy nie nadpisuje wpisów Tłumacza (`skipped_human_existing`), a import zwrotki Tłumacza zawsze zastępuje wpisy AI (`replaced_ai`) i usuwa klucz `"origin"`;
+    - `build_lang.py` raportuje osobno `human_leaves` i `ai_leaves` oraz udostępnia `--no-ai`; `build_package.py` obsługuje `--wypelnij-pl` (pomija `"origin": "ai"`) oraz `--tylko-ai` (pakiet weryfikacyjny samych wpisów AI).
+  - **Audyt zakresu i podział na 3 Fale (`tools/prepare_ai_batches.py`, `paczki_ai/MANIFEST.json`):**
+    - wyłączono `100%` fabuły (`StoryData/*.json`) oraz wszystkie pliki prozatorskie, dialogowe, głosowe i muzyczne poza `StoryData/` (`28 747` elementów w widokach, w tym m.in. `PersonalityVoiceDlg/*`, `EGOVoiceDig/*`, `BattleAnnouncerDlg/*`, `BgmLyrics/*`, `BattleSpeechBubbleDlg*`, `AbnormalityGuides*`, `StoryTheaterDanteNoteDetail*`, `IntroduceCharacter.description`, `AbEvents*`/`AbDlg*`/`ActionEvents*`, `rpg-loc-dialogue*`/`rpg-loc-narration*`, a także `293` nieprzetłumaczone robocze napisy KR w EN);
+    - zakwalifikowano **`47 376` unikalnych slotów `PL:`** UI/technikaliów/meta (`72` już przetłumaczone przez człowieka w `LC_PL1.zip`, **`47 304` do wykonania**) i podzielono je deterministycznie na **`87` paczek (`P01`–`P87`)**:
+      - **Fala 1 (`P01`–`P14`, `14` paczek, `7 219` pozostałych slotów):** fundament bojowy (`1A`), interfejs główny i ustawienia z `kr_settings-ui-donttranslate.json` (`1B`), tryby/etapy/Lochy/Teatr UI (`1C`), samouczki i wskazówki (`1D`);
+      - **Fala 2 (`P15`–`P42`, `28` paczek, `14 994` slotów):** `BattleKeywords*` i `Bufs*` (`2A`), przedmioty/sklep/Przepustka/wydarzenia UI (`2B`), modele postaci + UI/zadania/przedmioty RPG Canto X (`2C`);
+      - **Fala 3 (`P43`–`P87`, `45` paczek, `25 091` slotów):** komplet kart każdego z 12 Grzeszników po 1 paczce na postać + wspólne (`3A`), Dary E.G.O i karty/skille E.G.O (`3B`), statystyki i umiejętności wrogów/Anomalii/wsparcia (`3C`).
+  - **Słownik terminów (`paczki_ai/SLOWNIK_TERMINOW.md`):** utrwalono kanoniczne terminy i odmianę imion 12 Grzeszników z `LC_PL1.zip` oraz konwencje bojowe dla Fal 1–3.
+
+

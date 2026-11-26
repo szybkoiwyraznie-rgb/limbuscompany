@@ -46,13 +46,17 @@ if __package__ in (None, ""):
 
 from tools.build_package import Glossary, Story, build, pack_zip_bytes, write_zip
 from tools.import_zwrotki import (
+    GLOSSARY_KIND_RE,
     LocalizeReference,
     PL_LINE_RE,
     SCENE_HEADING_RE,
+    SECTION_H2_RE,
     SOURCE_LINE_RE,
+    STORY_GLOSSARY_KINDS,
     STORY_REPEAT_RE,
     TranslationStore,
     VIEW_REPEAT_RE,
+    is_ai_entry,
     parse_index_manifest,
     sha256_text,
     split_item_head,
@@ -268,7 +272,10 @@ def _audit_snapshots_detailed(
                         impacted_view_addrs.add((lf, a))
 
         preserved = 0
+        preserved_human = 0
+        preserved_ai = 0
         stale_entries: list[str] = []
+        stale_ai_entries: list[str] = []
         orphaned_entries: list[str] = []
 
         new_kr_files = set(new_snap.files.get("kr", {}))
@@ -299,15 +306,23 @@ def _audit_snapshots_detailed(
                     orphaned_entries.append(f"{lf} :: {addr}")
                     continue
                 entry = entries[addr]
+                ai_flag = is_ai_entry(entry)
                 expected_sha = entry.get("kr_sha256")
                 cur_kr = kr_map.get(addr, "")
                 if expected_sha and cur_kr and sha256_text(cur_kr) != expected_sha:
-                    stale_entries.append(f"{lf} :: {addr}")
-                    impacted_all.add(lf)
-                    if not lf.startswith("StoryData/"):
-                        impacted_view_addrs.add((lf, addr))
+                    if ai_flag:
+                        stale_ai_entries.append(f"{lf} :: {addr}")
+                    else:
+                        stale_entries.append(f"{lf} :: {addr}")
+                        impacted_all.add(lf)
+                        if not lf.startswith("StoryData/"):
+                            impacted_view_addrs.add((lf, addr))
                 else:
                     preserved += 1
+                    if ai_flag:
+                        preserved_ai += 1
+                    else:
+                        preserved_human += 1
 
     impacted_story = {f for f in impacted_all if f.startswith("StoryData/")}
     impacted_views = {f for f in impacted_all if not f.startswith("StoryData/")}
@@ -327,9 +342,13 @@ def _audit_snapshots_detailed(
         },
         "translations": {
             "preserved": preserved,
+            "preserved_human": preserved_human,
+            "preserved_ai": preserved_ai,
             "stale_kr_changed": len(stale_entries),
+            "stale_ai_kr_changed": len(stale_ai_entries),
             "orphaned_removed": len(orphaned_entries),
             "stale_addresses": stale_entries,
+            "stale_ai_addresses": stale_ai_entries,
             "orphaned_addresses": orphaned_entries,
         },
     }
@@ -342,12 +361,75 @@ def _encode_story_pl(pl_raw: str, kr_raw: str, en_raw: str) -> str:
     return pl_raw.replace("\n", "\\n")
 
 
+def _entry_matches_filter(entry: dict | None, entry_filter: str) -> bool:
+    if not entry:
+        return False
+    if entry_filter == "human":
+        return not is_ai_entry(entry)
+    if entry_filter == "ai":
+        return is_ai_entry(entry)
+    if entry_filter == "all":
+        return True
+    raise ValueError(f"nieznany filtr wpisów: {entry_filter!r}")
+
+
+def _prefill_story_glossary_md(
+    md_text: str,
+    store: TranslationStore,
+    entry_filter: str = "human",
+) -> tuple[str, int, int]:
+    """Pre-fill valid existing ``PL:`` lines in ``mowcy-i-miejsca.md``."""
+    lines = md_text.splitlines()
+    out: list[str] = []
+    current_kind: str | None = None
+    current_key: str | None = None
+    prefilled = 0
+    remaining = 0
+
+    for line in lines:
+        h2 = SECTION_H2_RE.match(line)
+        if h2:
+            current_kind = STORY_GLOSSARY_KINDS.get(h2[1])
+            current_key = None
+            out.append(line)
+            continue
+        head = split_item_head(line)
+        if head is not None:
+            current_key = head[2]
+            out.append(line)
+            continue
+        if PL_LINE_RE.match(line) and line.strip() == "PL:":
+            filled = False
+            if current_kind and current_key is not None:
+                entry = store.story_glossary.get(current_kind, {}).get(current_key)
+                if _entry_matches_filter(entry, entry_filter):
+                    exp_sha = entry.get("kr_sha256")
+                    if not (exp_sha and sha256_text(current_key) != exp_sha):
+                        out.append(f"   PL: {entry['pl']}")
+                        prefilled += 1
+                        filled = True
+            if not filled:
+                remaining += 1
+                out.append(line)
+            current_key = None
+            continue
+        out.append(line)
+
+    return "\n".join(out) + "\n", prefilled, remaining
+
+
 def _prefill_story_md(
     md_text: str,
     store: TranslationStore,
     ref: LocalizeReference,
+    entry_filter: str = "human",
 ) -> tuple[str, int, int]:
-    """Pre-fill valid existing ``PL:`` lines in a story chapter Markdown file."""
+    """Pre-fill valid existing ``PL:`` lines in a story chapter Markdown file.
+
+    By default (``entry_filter='human'``), provisional AI entries
+    (``"origin": "ai"``) are skipped so the human Translator receives clean
+    ``PL:`` blanks.
+    """
     lines = md_text.splitlines()
     out: list[str] = []
     current_stem = ""
@@ -388,7 +470,7 @@ def _prefill_story_md(
                 if pair_info is not None:
                     addr, kr_raw, en_raw = pair_info
                     entry = store.files.get(logical, {}).get(addr)
-                    if entry:
+                    if _entry_matches_filter(entry, entry_filter):
                         exp_sha = entry.get("kr_sha256")
                         if not (exp_sha and kr_raw and sha256_text(kr_raw) != exp_sha):
                             out.append(f"   PL: {_encode_story_pl(entry['pl'], kr_raw, en_raw)}")
@@ -409,12 +491,19 @@ def _prefill_view_md(
     md_text: str,
     store: TranslationStore,
     ref: LocalizeReference,
+    entry_filter: str = "human",
 ) -> tuple[str, int, int]:
-    """Pre-fill valid existing ``PL:`` lines in a view Markdown file."""
+    """Pre-fill valid existing ``PL:`` lines in a view Markdown file.
+
+    By default (``entry_filter='human'``), provisional AI entries
+    (``"origin": "ai"``) are skipped so the human Translator receives clean
+    ``PL:`` blanks.
+    """
     lines = md_text.splitlines()
     out: list[str] = []
     cur_file = ""
     cur_primary_addr = ""
+    cur_glossary_kind = ""
     is_repeat = False
     in_item = False
     prefilled = 0
@@ -424,6 +513,7 @@ def _prefill_view_md(
         if split_item_head(line) is not None:
             cur_file = ""
             cur_primary_addr = ""
+            cur_glossary_kind = ""
             is_repeat = False
             in_item = True
             out.append(line)
@@ -441,6 +531,12 @@ def _prefill_view_md(
             out.append(line)
             continue
 
+        m_gl = GLOSSARY_KIND_RE.match(line)
+        if m_gl:
+            cur_glossary_kind = m_gl[1].strip()
+            out.append(line)
+            continue
+
         if in_item and PL_LINE_RE.match(line) and line.strip() == "PL:":
             in_item = False
             if is_repeat:
@@ -448,9 +544,14 @@ def _prefill_view_md(
                 continue
             filled = False
             if cur_file and cur_primary_addr:
-                entry = store.files.get(cur_file, {}).get(cur_primary_addr)
-                if entry:
-                    kr_raw = ref.leaves("kr", cur_file).get(cur_primary_addr, "")
+                kr_raw = ref.leaves("kr", cur_file).get(cur_primary_addr, "")
+                en_raw = ref.leaves("en", cur_file).get(cur_primary_addr, "")
+                if cur_glossary_kind:
+                    gkey = f"{encode_view_text(kr_raw)}\t{encode_view_text(en_raw)}"
+                    entry = store.view_glossary.get(cur_glossary_kind, {}).get(gkey)
+                else:
+                    entry = store.files.get(cur_file, {}).get(cur_primary_addr)
+                if _entry_matches_filter(entry, entry_filter):
                     exp_sha = entry.get("kr_sha256")
                     if not (exp_sha and kr_raw and sha256_text(kr_raw) != exp_sha):
                         out.append(f"   PL: {encode_view_text(entry['pl'])}")
@@ -464,6 +565,88 @@ def _prefill_view_md(
         out.append(line)
 
     return "\n".join(out) + "\n", prefilled, remaining
+
+
+def prefill_bundles(
+    scene_files: dict[str, str],
+    view_files: dict[str, str] | None,
+    localize_path: Path,
+    story_index_path: Path,
+    tlumaczenie_dir: Path,
+    entry_filter: str = "human",
+) -> tuple[dict[str, str], dict[str, str] | None, dict[str, int]]:
+    """Pre-fill ``PL:`` lines across ``sceny.zip`` and ``widoki.zip`` file maps.
+
+    With ``entry_filter='human'`` (default), provisional AI entries
+    (``"origin": "ai"``) are skipped so the human Translator sees blank ``PL:``
+    lines everywhere they have not personally translated yet.
+    With ``entry_filter='ai'``, only ``"origin": "ai"`` entries are filled and
+    files without AI items are omitted (AI verification package).
+    """
+    store = TranslationStore.load(tlumaczenie_dir)
+    base_index = json.loads(story_index_path.read_text(encoding="utf-8"))
+    out_scenes: dict[str, str] = {}
+    out_views: dict[str, str] | None = {} if view_files is not None else None
+    stats = {
+        "sceny_wypelnione_pl": 0,
+        "sceny_pozostale_pl": 0,
+        "slownik_wypelnione_pl": 0,
+        "slownik_pozostale_pl": 0,
+        "widoki_wypelnione_pl": 0,
+        "widoki_pozostale_pl": 0,
+    }
+
+    with Snapshot.open(localize_path) as snap:
+        aug_index, _ = _augment_story_index(base_index, snap)
+        ref = LocalizeReference(snap, aug_index)
+
+        for name, txt in scene_files.items():
+            if name.startswith("sceny/") and name.endswith(".md"):
+                new_txt, pref, rem = _prefill_story_md(
+                    txt, store, ref, entry_filter=entry_filter
+                )
+                if entry_filter == "ai" and pref == 0:
+                    continue
+                stats["sceny_wypelnione_pl"] += pref
+                stats["sceny_pozostale_pl"] += rem
+                out_scenes[name] = new_txt
+            elif name == "mowcy-i-miejsca.md":
+                new_txt, pref, rem = _prefill_story_glossary_md(
+                    txt, store, entry_filter=entry_filter
+                )
+                if entry_filter == "ai" and pref == 0:
+                    continue
+                stats["slownik_wypelnione_pl"] += pref
+                stats["slownik_pozostale_pl"] += rem
+                out_scenes[name] = new_txt
+            else:
+                out_scenes[name] = txt
+
+        if view_files is not None and out_views is not None:
+            for name, txt in view_files.items():
+                if name.endswith(".md") and name != "spis-widokow.md":
+                    new_txt, pref, rem = _prefill_view_md(
+                        txt, store, ref, entry_filter=entry_filter
+                    )
+                    if entry_filter == "ai" and pref == 0:
+                        continue
+                    stats["widoki_wypelnione_pl"] += pref
+                    stats["widoki_pozostale_pl"] += rem
+                    out_views[name] = new_txt
+                else:
+                    out_views[name] = txt
+
+    stats["lacznie_wypelnione_pl"] = (
+        stats["sceny_wypelnione_pl"]
+        + stats["slownik_wypelnione_pl"]
+        + stats["widoki_wypelnione_pl"]
+    )
+    stats["lacznie_pozostale_pl"] = (
+        stats["sceny_pozostale_pl"]
+        + stats["slownik_pozostale_pl"]
+        + stats["widoki_pozostale_pl"]
+    )
+    return out_scenes, out_views, stats
 
 
 def _augment_story_index(base_index: dict, snap: Snapshot) -> tuple[dict, list[str]]:

@@ -17,12 +17,14 @@ bezpiecznym fallbackiem EN dla nieprzetłumaczonych jeszcze części).**
 - Zbieracz `LCB_ZBIERZ_DANE 1.0.0` przeszedł przebieg bazowy (`26652290`, E-007)
   oraz przebieg po czwartkowej aktualizacji (`LCB_DANE_20261126_094359_ef145d.zip`,
   build Steam **`26917622`**, 7368 plików, 0 błędów — E-013).
-- Wszystkie decyzje projektowe zamknięte (`D-01` … `D-10`, brak otwartych `O-*`):
+- Wszystkie decyzje projektowe zamknięte (`D-01` … `D-11`, brak otwartych `O-*`):
   źródło przekładu **KR** (D-05), teksty gry w repozytorium jako JSON/MD bez
   binariów (D-06), układ Czytanek zaakceptowany i zamrożony (D-07), kompletny
   pakiet 100% gry naraz (D-08), nazwa języka **`Polski`** i 5-kluczowy
   `Lang/config.json` (D-09), niemodyfikowane czcionki SIL OFL 1.1 w
-  `assets/fonts/` potwierdzone w grze (D-10, zamyka O-03).
+  `assets/fonts/` potwierdzone w grze (D-10, zamyka O-03) oraz architektura
+  tymczasowego przekładu UI/technikaliów/meta przez agenty (`AI-tymczasowe`,
+  `"origin": "ai"`) z pełnym priorytetem Tłumacza (D-11).
 - **Teksty gry i Czytanki w repozytorium** (E-006, E-007, E-013):
   `index/localize/{kr,en}` na aktualnym buildzie Steam **`26917622`** (`2 464`
   `kr`, `2 421` `en`); `index/static-data/` z OpenLethe (`8f24cba5`, dane z
@@ -61,19 +63,32 @@ bezpiecznym fallbackiem EN dla nieprzetłumaczonych jeszcze części).**
   - `tools/audit_update.py` porównuje buildy (`--old` lub czysto z Git
     `--old-rev`), wykrywa zmienione oryginały `KR` w `tlumaczenie/` i buduje
     pakiety uzupełniające (`--delta-scope files`) oraz ścisłe pakiety
-    przyrostowe (`--delta-scope items`).
+    przyrostowe (`--delta-scope items`), pomijając wpisy `"origin": "ai"` przy
+    wypełnianiu pól `PL:` dla Tłumacza;
+  - **Przygotowanie techniczne pod `AI-tymczasowe` (`D-11`, `E-015`):**
+    `tools/prepare_ai_batches.py`, `paczki_ai/MANIFEST.json`,
+    `paczki_ai/SLOWNIK_TERMINOW.md` oraz `docs/PLAN_TLUMACZENIA_AI.md` dzielą
+    cały zakres UI, opisów technicznych i kart meta/statystyk na **`87`
+    bezkolizyjnych paczek (`P01`–`P87`) w 3 falach (`47 376` unikalnych slotów
+    `PL:`, w tym `72` już przetłumaczone przez Tłumacza i `47 304` do wykonania)**,
+    z pełnym wyłączeniem całej fabuły, dialogów, głosów, piosenek, dzienników
+    obserwacji i narracji RPG. **Oczekuje na sygnał właściciela przed startem
+    tłumaczenia.**
 
 ## Następny krok
 
-1. **Właściciel:** pobrać z folderu `Limbus Company` na Dysku paczkę
-   `LCB_PL_Polski_26917622_v1.zip`, rozpakować `LimbusCompany_Data` do katalogu
-   gry i przetestować polską wersję (Prolog + Canto I–III + 36 historii
-   Identity + Notatki Dantego / Teatr); kolejne części zwrotki wrzucać do tego
-   samego folderu.
-2. **Agent:** integrować kolejne zwrotki tłumacza (`tools/import_zwrotki.py` z
-   `--allow-older-package`, gdy dotyczą plików dotkniętych aktualizacją) i
-   publikować kolejne wersje `LCB_PL_Polski_<build>_vN.zip`; gdy `OpenLethe`
-   opublikuje zaktualizowane `StaticData`, dograć je przez `tools/import_data.py`.
+1. **Właściciel:**
+   - dać sygnał do rozpoczęcia tłumaczenia `AI-tymczasowe` (np. od **Fali 1**:
+     `P01`–`P14` — rdzeń UI, ustawienia, tryby, samouczki i słownik bazowy walki,
+     lub równolegle na kilku sesjach Arena według `docs/PLAN_TLUMACZENIA_AI.md`),
+   - przetestować w grze paczkę `LCB_PL_Polski_26917622_v1.zip` z Dysku Google i
+     przekazywać kolejne zwrotki Tłumacza.
+2. **Agenci (po sygnale właściciela):** realizować paczki `P01`–`P87` według
+   `paczki_ai/SLOWNIK_TERMINOW.md` → `zwrotki/ai/PXX_*.md` →
+   `import_zwrotki.py --ai`, integrować zwrotki Tłumacza (zawsze nadpisujące
+   wpisy AI), budować kolejne wersje `LCB_PL_Polski_<build>_vN.zip` oraz — gdy
+   `OpenLethe` opublikuje zaktualizowane `StaticData` — dograć je przez
+   `tools/import_data.py`.
 
 ## Otwarte decyzje
 
