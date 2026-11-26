@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=upgrade_character_exp_up].content": {
+      "pl": "Zdobyto\ndoświadczenie.",
+      "kr_sha256": "fd705dc770c657222ae91e195f643c39e5e30ed5f2bc1d89770b6c433ffac950",
+      "en_sha256": "46448f755e44da5f37038d2e09b24de6a5d11da8d038a2120b3f81a1f27c11f1",
+      "origin": "ai"
+    },
+    "dataList[id=upgrade_character_level_max].content": {
+      "pl": "Osiągnięto\n<color=#f8c200>MAKSYMALNY POZIOM</color>.",
+      "kr_sha256": "f350c0cadafcbe825dcd27abd3a14767c63b3df83a8619aae0731de0b7e18831",
+      "en_sha256": "0aff0da4c7bb6bd3bafbe5a7ddfa61eb2a38cd82f52d1b7a682796843035df3e",
+      "origin": "ai"
+    },
+    "dataList[id=upgrade_character_level_up].content": {
+      "pl": "Awans Poziomu",
+      "kr_sha256": "a56edcbe92cfebd70542a2a4f3b0344242f4e9d1e192667a86d0d8fff46cbced",
+      "en_sha256": "46cc8f367eea8e88ddeb269b69fa5814971d30c60b88a86100925486411b4c19",
+      "origin": "ai"
+    }
+  }
+}
