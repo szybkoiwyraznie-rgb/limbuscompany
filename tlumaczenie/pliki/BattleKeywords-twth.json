@@ -138,6 +138,18 @@
       "en_sha256": "d887b1b7ed534ccbce963ec5481911535c1647c3809fc57ea0627aa9e996a17e",
       "origin": "ai"
     },
+    "dataList[id=HeatingWireOnSpiderTwo].desc": {
+      "pl": "Przy trafieniu monetą Umiejętności Ostrzy Termicznych dodatkowo nadaje Podpalenie (Moc i Licznik) w wysokości nadawanego Krwawienia (Moc i Licznik)",
+      "kr_sha256": "66bcd7f8e5f495281232c9374c51849a4cc122847ec13ae21db0e3535b57ed74",
+      "en_sha256": "b31a1bde5b2c5843b803601221593ab9c0f607681498f2d804c9636a7672aefc",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOnSpiderTwo].name": {
+      "pl": "Ostrza Termiczne - ON",
+      "kr_sha256": "47400d672cd17156b4e17a679572763f667ee812c482126921f6bb1c7068830a",
+      "en_sha256": "adccabf1a55bfec9885bcfe2eebc41fa5ab4417662d5fd14ece1b87ef7a6e929",
+      "origin": "ai"
+    },
     "dataList[id=IndexPrescriptEnemy_0].desc": {
       "pl": "Atakuje Grzesznika i trafia.\n\n- Na początku tury zdobywany przy Łasce Nakazu 0–2\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 3",
       "kr_sha256": "653c7bf271b4a7920ab04d834516b186e04cbb6792f6a5bfd9fa1f656c0ca163",
@@ -174,6 +186,42 @@
       "en_sha256": "6e123f5b3c4db0c0804f8acc4239318a3b50dd4c3882e6d9b6708eddfb8089e8",
       "origin": "ai"
     },
+    "dataList[id=IndexPrescriptEnemy_2].desc": {
+      "pl": "Ty lub sojusznik oszołomiasz albo zabijasz losowego Grzesznika.\n\n- Na początku tury, przy 6–8 Łaskach Nakazu\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 9",
+      "kr_sha256": "560226219321123393dba230c04c4ff302c623fd760205dd5fa9ab1da05030bb",
+      "en_sha256": "9db37a161a482f8b4b9a4ae3e326afd8838bf54a703f15d94334b2971b5ade30",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_2].flavor": {
+      "pl": "Nakazy trafiają do adresatów wieloma drogami, a ich forma — niczym wyrocznia — zostaje im narzucona raz na zawsze, bez prawa wyboru.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_2].name": {
+      "pl": "Nakaz [Kartka] III",
+      "kr_sha256": "1cba5dd877ca82ae04eb3b2d2b7d61ba8fdec493d5deda0448e30b4b48b3a125",
+      "en_sha256": "b0da024a415a4d7c37ec62ae40e33adea2353f7f773605816a4a0e3339727bd9",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_3].desc": {
+      "pl": "Zabija wszystkich wrogów, zanim nadejdzie kolejny Nakaz.\n\n- Na początku tury, przy 9 Łaskach Nakazu",
+      "kr_sha256": "6bc6ef2a95d015be6386ea5605a3be62f1645e56f6baaf24688b12a27888f4e6",
+      "en_sha256": "0fb484fe1f5288d6e8c16023692888a0a22ee0ba1bf7c1c7a575e84d4b1a5333",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_3].flavor": {
+      "pl": "Nakazy trafiają do adresatów wieloma drogami, a ich forma — niczym wyrocznia — zostaje im narzucona raz na zawsze, bez prawa wyboru.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_3].name": {
+      "pl": "Nakaz [Kartka] IV",
+      "kr_sha256": "69581c6c9d3370acb28c9203f178d476ec910a176ac9bb36fba38f385d35bf0c",
+      "en_sha256": "4eb02c4e29f2f02779ec2eda17b4019b988a4155470fa8d00945fbc7130b7117",
+      "origin": "ai"
+    },
     "dataList[id=IntenseColors].desc": {
       "pl": "- Otrzymuje +(stosy x 5)% obrażeń od Stronnictwa Serdecznego\n· Jeżeli atakujący należy do Szkoły Fowizmu Stronnictwa Serdecznego, zamiast tego +(stosy x 10)%\n- Na początku walki zyskuje (stosy +1) Krwawienia i Zatonięcia oraz ich Liczniki\n- Po zakończeniu walki ten efekt znika, a stosy Rwanej Barwy [Rouge] i Rwanej Barwy [Bleu] są zmniejszane o połowę (zaokrąglone w dół)\n- Maks. stosów: 4",
       "kr_sha256": "f03dc75b36ade73d63da6b82d362900604900426647c9865b548a8ed2d7e5afc",
@@ -186,6 +234,24 @@
       "en_sha256": "6a9d3c683a2b306ca2882d94f79b2c5b09400c2bf7bf50b3fb079aa005f6f491",
       "origin": "ai"
     },
+    "dataList[id=KarmaOfIndexEnemy].desc": {
+      "pl": "- Na początku tury:\n· 1 Spadek Poziomu Obrony za każde 10 stosów\n· 1 Wrażliwość za każde 20 stosów\n- Maks. stosów: 100",
+      "kr_sha256": "4b517a82f2bd493e5f5a741aebcb7c2962c75882e05a91fd2b396da292973b2d",
+      "en_sha256": "0ab289188567a0c32b579d9af4d7eeee5e252ea006ba10526c8af17063235e95",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexEnemy].flavor": {
+      "pl": "Przyjmuje Nakaz i wypełnia go. Wypełnienie staje się karmą, która — krążąc bez końca — nawarstwia się znowu.",
+      "kr_sha256": "d4fa62780d2682207b10b042eb5207d4ebd385fc2aa40dd65c5e65e58de2de2e",
+      "en_sha256": "d5881ca89e47589febbc67736d8592358378037fc3dbb189f7a5c2eaa25f7d9d",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexEnemy].name": {
+      "pl": "Karma",
+      "kr_sha256": "20785c39571b296683ca312c7547f0bc5ccf32c7cbe95362fecd79248b82e24c",
+      "en_sha256": "dae1a80d8d2ad225ddc898ff8a1c32286c668dc1c79998e720d05c6948b1294b",
+      "origin": "ai"
+    },
     "dataList[id=PanicChangeLock].desc": {
       "pl": "- Przy zdobyciu efektu zmieniającego typ Paniki typ nie ulega zmianie; zamiast tego nakładany jest efekt stosowany wobec jednostek bez Poczytalności",
       "kr_sha256": "b5f336d447a44104d0f4d89e9ab54aa304905f472940294fcdd94315ff674e85",
@@ -196,6 +262,30 @@
       "pl": "Zablokowana Panika",
       "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
       "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpiderDaughterTwo].desc": {
+      "pl": "- Maks. stosów: 3\n- Zadaje +10% obrażeń atakami Uderzenia i Zazdrości",
+      "kr_sha256": "ea62ac19301ff3d192567480c46d7e74d6dd61db147f5b30f3808a7f979526b5",
+      "en_sha256": "abc6ebc021c96966a4532e5167699b1b65bd1883ca9750859f31fe72ad296480",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpiderDaughterTwo].name": {
+      "pl": "<s>Styl Środkowego</s> - Wzmacniane Tatuaże",
+      "kr_sha256": "45784940156a86b3ae61ef2ffe5c754b35e102372708b2330f7eb9d1a9d19c54",
+      "en_sha256": "628b639da13194d77620350d2459018d7d0d2b26f2772dedd8c6129f565e313f",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpiderDaughterTwo].desc": {
+      "pl": "- Maks. stosów: 10\n- Zmniejszana przy użyciu określonych Umiejętności\n- Za każdy stos: Poziom Ataku +1, Poziom Obrony -2, Obrażenia Umiejętności Kontratakujących +5%\n- Przy maks. stosach otrzymuje +20% obrażeń",
+      "kr_sha256": "9b0a0d97a346d92f1942ee205176a452a7072810261b3ea848677b741d62733e",
+      "en_sha256": "b285a0bd7a96c305c73734c943e4887b17a755b7f8b9bda3ce257eadf63a0c6a",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpiderDaughterTwo].name": {
+      "pl": "<s>Środkowy</s> - Uraza",
+      "kr_sha256": "6dc930de6bdc925bc059ad8706f6ffb52ccdfd0026203aa800dd844f96735df2",
+      "en_sha256": "22efdf2cfb9d69e9402d93a7f6d9257791f4c7c8f074e7634070a949742b7ff1",
       "origin": "ai"
     }
   }
