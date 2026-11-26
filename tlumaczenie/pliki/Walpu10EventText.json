@@ -1,0 +1,202 @@
+{
+  "entries": {
+    "dataList[id=Walpu10_reward_event_desc].content": {
+      "pl": "Ukończ misje w walkach na Poziomach Łatwym i Trudnym 10. Nocy Walpurgii.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "6bb0841ee3ce3ece17e39df3c7c5b68953a3451c032fc0d8b17c30a1399c1551",
+      "en_sha256": "245b93069b47fb17dfc092374e6bf43db5758ddbb785080b888b155add863adc",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu10_reward_hard_tab].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu10_reward_normal_tab].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10159].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich Fikserów Biura Świtu w jednej walce",
+      "kr_sha256": "1e5af03ee111420731269570d1621ab52cfdec50d602051fcbf7dbd103c7ef07",
+      "en_sha256": "0e2053ca65b8f48d49ef07976651ce509ea81d833468a93fbb804414f8acef8f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10160].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich Fikserów Biura Klina w jednej walce",
+      "kr_sha256": "07b0138b39f45df6f31393ec675d61f8f437046376492cba5f10fd870752408b",
+      "en_sha256": "737172a600f6e4f7fdaca86e94239215c505f055a275e7c33e202bd8c9b23274",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10161].content": {
+      "pl": "Ukończ Przyjęcie Biura Świtu / Biura Klina",
+      "kr_sha256": "5a390ed3c9809ac915390c5ed3f31b8ced6aabbc267316a282b2986d45a99555",
+      "en_sha256": "7006e4bf22df84347071225325e9261e9ab64d721ee01f6b1a93e9d5ff14e89d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10162].content": {
+      "pl": "Ukończ Przyjęcie, nigdy nie osiągając 5 Emocji Niepewnego Smutku w jednej walce",
+      "kr_sha256": "090a12693488aa680ec8c67e8e4649ceb2b7fe087e067687a7b9efa5ab533ae6",
+      "en_sha256": "5de2d31874a167d8f53dd75afbb23b578f1f137b18231f8eb30547e9ec95f904",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10163].content": {
+      "pl": "Ukończ Przyjęcie, gdy sojusznik z Wyznaczonym Bibliotekarzem wygra 10+ Starć w jednej walce",
+      "kr_sha256": "539a9b57ce9f009ae9a429bb69f04de4b747628a8fe69ca4816d78b8ccbf10de",
+      "en_sha256": "a4e0cbb5581bdcdce2b01de4f108c51aaacc77b6f648ad452daa19ca8dd23d29",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10164].content": {
+      "pl": "Ukończ Przyjęcie, gdy sojusznik z Wyznaczonym Bibliotekarzem pokona 2 lub więcej wrogów w jednej walce",
+      "kr_sha256": "30586235766f1e8b87eae1c7f0e6a3fb3e0dc4228e81621b8da69da62cf83875",
+      "en_sha256": "4802c3b521ca9ab5b066b07ec91c1de3398f06d387e7dcb79c7309ba166e4390",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10165].content": {
+      "pl": "Ukończ Przyjęcie po osiągnięciu Poziomu Emocji 2",
+      "kr_sha256": "4e2c0517fe7925f94dd5158793e11576bc94afe4094454d7b3cf2637cfa833ce",
+      "en_sha256": "91183fc706f3dfdf621e6a111211ade86e8c88928a1d2570ee3b4c9d12740155",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10166].content": {
+      "pl": "Ukończ Przyjęcie z mniej niż 5 aktywacjami Umiejętności łączonych Fikserów Biura Klina",
+      "kr_sha256": "235e7f0cc51947be964e897257648f6a472fc4c51293c1a7843dbfee1e8b8f96",
+      "en_sha256": "aaaf4f6373b4b093979b513ccc4f96b56a1f701e7200eecb731f790241219fff",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10167].content": {
+      "pl": "Ukończ Przyjęcie, zadając co najmniej 300 obrażeń pojedynczemu wrogowi 1 Umiejętnością ataku (w tym Umiejętnością ego i Kontry) w jednej walce",
+      "kr_sha256": "85724866a57858a993c3b707f677357a5e1403cfeb09f8ea951258e690cafe65",
+      "en_sha256": "2c3142765b1ff9c67c33cf0f7a91310605232c68c6481260bcda4a3ad9b5b1e3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10168].content": {
+      "pl": "Ukończ Przyjęcie z wszystkimi sojusznikami przy życiu",
+      "kr_sha256": "610b9b8b93f65be02e33c1b9d3242f936f6b9ee8806b38b27d1ac41511248ee5",
+      "en_sha256": "bb57f9c4a6ec557f9a0953bcbb48bc8ff41b535a9ef94d7302047258bd5a8ba4",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10169].content": {
+      "pl": "Ukończ Przyjęcie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "0224301551c2067791d2168f9fb68b2912291aabca56dec0eafca5a20174ad6d",
+      "en_sha256": "6a08590161960c9b083e0bae977be3d05283a6d9236070d1519097ba85ca991b",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10170].content": {
+      "pl": "Ukończ Przyjęcie, nie dopuszczając do Oszołomienia sojuszników 5 razy lub więcej",
+      "kr_sha256": "a53c24aacba7ae9c02d7af337296695b44cbdd1fb6aca80797dad311a64f1493",
+      "en_sha256": "e5e24f42f45f24480368bbd2c1780550ab759829144b032cfa2981f83088df47",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20080].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich Fikserów Biura Świtu w jednej walce",
+      "kr_sha256": "1e5af03ee111420731269570d1621ab52cfdec50d602051fcbf7dbd103c7ef07",
+      "en_sha256": "0e2053ca65b8f48d49ef07976651ce509ea81d833468a93fbb804414f8acef8f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20081].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich Fikserów Biura Klina w jednej walce",
+      "kr_sha256": "07b0138b39f45df6f31393ec675d61f8f437046376492cba5f10fd870752408b",
+      "en_sha256": "737172a600f6e4f7fdaca86e94239215c505f055a275e7c33e202bd8c9b23274",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20082].content": {
+      "pl": "Ukończ Przyjęcie Biura Świtu / Biura Klina",
+      "kr_sha256": "5a390ed3c9809ac915390c5ed3f31b8ced6aabbc267316a282b2986d45a99555",
+      "en_sha256": "7006e4bf22df84347071225325e9261e9ab64d721ee01f6b1a93e9d5ff14e89d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20083].content": {
+      "pl": "Ukończ Przyjęcie, nigdy nie osiągając 5 Emocji Niepewnego Smutku w jednej walce",
+      "kr_sha256": "090a12693488aa680ec8c67e8e4649ceb2b7fe087e067687a7b9efa5ab533ae6",
+      "en_sha256": "5de2d31874a167d8f53dd75afbb23b578f1f137b18231f8eb30547e9ec95f904",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20084].content": {
+      "pl": "Ukończ Przyjęcie, gdy sojusznik z Wyznaczonym Bibliotekarzem wygra 10+ Starć w jednej walce",
+      "kr_sha256": "539a9b57ce9f009ae9a429bb69f04de4b747628a8fe69ca4816d78b8ccbf10de",
+      "en_sha256": "a4e0cbb5581bdcdce2b01de4f108c51aaacc77b6f648ad452daa19ca8dd23d29",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20085].content": {
+      "pl": "Ukończ Przyjęcie, gdy sojusznik z Wyznaczonym Bibliotekarzem pokona 3 lub więcej wrogów w jednej walce",
+      "kr_sha256": "d42ebdd758db9c6091072cb5965abaa9ffc1d9e8451607d13365536dc88c4161",
+      "en_sha256": "9525b825da14271ce26d1d147e093e3fcd7c8917ec1d8b3c328acf68b879243c",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20086].content": {
+      "pl": "Ukończ Przyjęcie, gdy sojusznik wygra co najmniej 1 Starcie z Umiejętnością „Płonący Cios” Philipa w jednej walce",
+      "kr_sha256": "11b4362b82f3aca360dd1f541b2a45d74345712fbdf52ee11e600f62f5507553",
+      "en_sha256": "0232308a5bb97c39f494715ab064d349c0993f75392f74560e0697c3457dcfbb",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20087].content": {
+      "pl": "Ukończ Przyjęcie po osiągnięciu Poziomu Emocji 3",
+      "kr_sha256": "dd183a365ac1b5277babb8e0124b999b3cb42d96139a40853937b1f2440b9211",
+      "en_sha256": "f20f86f06261408652d8211371dd9ea4d9fea5539eedca890970aead0911b9d7",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20088].content": {
+      "pl": "Ukończ Przyjęcie, zadając co najmniej 300 obrażeń pojedynczemu wrogowi 1 Umiejętnością ataku (w tym Umiejętnością ego i Kontry) w jednej walce",
+      "kr_sha256": "85724866a57858a993c3b707f677357a5e1403cfeb09f8ea951258e690cafe65",
+      "en_sha256": "2c3142765b1ff9c67c33cf0f7a91310605232c68c6481260bcda4a3ad9b5b1e3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_10159].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich ??? w jednej walce",
+      "kr_sha256": "bc71864de55e163b1f819d77cd77e59f0d574f3e30b6a6db0f4005dac73e3aea",
+      "en_sha256": "1c845e36949089cf3feb7188835b0e2888d19c89239ac6aa08ab982a4d48f6e9",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_10160].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich ??? w jednej walce",
+      "kr_sha256": "bc71864de55e163b1f819d77cd77e59f0d574f3e30b6a6db0f4005dac73e3aea",
+      "en_sha256": "1c845e36949089cf3feb7188835b0e2888d19c89239ac6aa08ab982a4d48f6e9",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_10161].content": {
+      "pl": "Ukończ Przyjęcie ???",
+      "kr_sha256": "dee19475f46289dfc926ec71f69ea88d37e4f26d6de848e00546d7b766716dda",
+      "en_sha256": "ca54f40ac40fa0d63622711c4d09fc9cea0c99f338206b7436acefd83c554511",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_10162].content": {
+      "pl": "Ukończ Przyjęcie, nigdy nie osiągając 5 ??? w jednej walce",
+      "kr_sha256": "10e4f22649e5b8861a9344e78e4da2e98c3b65bde3912eabe53a472f386a921e",
+      "en_sha256": "3cc141f9358e5a3d752d22fc7ff5e449e894616e2cd83e69124b683d221a3263",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20080].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich ??? w jednej walce",
+      "kr_sha256": "bc71864de55e163b1f819d77cd77e59f0d574f3e30b6a6db0f4005dac73e3aea",
+      "en_sha256": "1c845e36949089cf3feb7188835b0e2888d19c89239ac6aa08ab982a4d48f6e9",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20081].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy wszystkich ??? w jednej walce",
+      "kr_sha256": "bc71864de55e163b1f819d77cd77e59f0d574f3e30b6a6db0f4005dac73e3aea",
+      "en_sha256": "1c845e36949089cf3feb7188835b0e2888d19c89239ac6aa08ab982a4d48f6e9",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20082].content": {
+      "pl": "Ukończ Przyjęcie ???",
+      "kr_sha256": "dee19475f46289dfc926ec71f69ea88d37e4f26d6de848e00546d7b766716dda",
+      "en_sha256": "ca54f40ac40fa0d63622711c4d09fc9cea0c99f338206b7436acefd83c554511",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20083].content": {
+      "pl": "Ukończ Przyjęcie, nigdy nie osiągając 5 ??? w jednej walce",
+      "kr_sha256": "10e4f22649e5b8861a9344e78e4da2e98c3b65bde3912eabe53a472f386a921e",
+      "en_sha256": "3cc141f9358e5a3d752d22fc7ff5e449e894616e2cd83e69124b683d221a3263",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20086].content": {
+      "pl": "Ukończ Przyjęcie, gdy sojusznik wygra co najmniej 1 Starcie z Umiejętnością ??? jednostki ??? w jednej walce",
+      "kr_sha256": "c25ee330f04839e6a3a81d2d9b7eed5f48a17410af051e2b138e47f43e068c44",
+      "en_sha256": "5c4135c3489d420ca5acc707f333b5e64cad80a8293bb5ee4d577cff03242769",
+      "origin": "ai"
+    }
+  }
+}

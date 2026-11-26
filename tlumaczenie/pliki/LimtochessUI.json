@@ -6,6 +6,12 @@
       "en_sha256": "53251479e332ebfa84218d890a56d9abd470da7d1673b86c9c09cd26823dadc5",
       "origin": "ai"
     },
+    "dataList[id=limtochess_band_ready_buff_turn].content": {
+      "pl": "Od TURN {0}",
+      "kr_sha256": "2e485dc48174a9033b27232e49ab1d916215ea01cd42f91cce1340516eec57d4",
+      "en_sha256": "0fd963d585f3f93bf1a43b10cd405c9c6a0e88318e678bf890fd1772c793bd1f",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_battle_buildpower_label].content": {
       "pl": "Siła Konstrukcji",
       "kr_sha256": "f6a9e7dd14bb5371e82a1a8e0d695accd222957b77c353a9d2e86373843f913f",
@@ -16,6 +22,12 @@
       "pl": "Wypaczenie Schematu",
       "kr_sha256": "1e0d747167af12e4f7dd2c3d353e33252874aabecb891b11119242643925005b",
       "en_sha256": "746528cab56aa8d12b19cf10fafe715ea825f52d0fbdc4faab6436b7f241bdb1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_battle_effect_level].content": {
+      "pl": "Poziom Wroga {0}",
+      "kr_sha256": "3d57565d25c7469dfcae689a98b0d6f7315f53c12ed3877da07f9d79ac5f4ac8",
+      "en_sha256": "52013c9dd070a61af4b982d24e0b4f8cadeee04ac9d58a96ead554d04e3eca1b",
       "origin": "ai"
     },
     "dataList[id=limtochess_battle_giveup_confirm_desc].content": {
@@ -156,6 +168,12 @@
       "en_sha256": "41864081d0a6da9ffb8e793152f418143faf1bd81e4c80a70ba9a10896a9c90a",
       "origin": "ai"
     },
+    "dataList[id=limtochess_battleprep_sortie_label].content": {
+      "pl": "Jednostki zdolne do walki",
+      "kr_sha256": "c708b7795e68d216f5193a1f0a5c1d8891d7a567c5a01384d0c1d17814d82a19",
+      "en_sha256": "6b19615843eed1662b6414023b775be42a01e8da5b605afbdeabb2313843ff36",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_battleprep_start].content": {
       "pl": "Do Boju!",
       "kr_sha256": "44aff5bc844775f1aadde1629fe5fd7b2e4b27fd4dcb7a18a406465938628b36",
@@ -178,6 +196,12 @@
       "pl": "Skład drużyny",
       "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
       "en_sha256": "5985039f106df054b43c3529139613bf7c2372937539f344c7c5ee47d00a0d63",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_beta_desc_at_all].content": {
+      "pl": "※ BETA — w okresie beta sposób rozgrywania Konstrukcji Schematów i jej wygląd mogą się zmieniać",
+      "kr_sha256": "294c38320d6b94d60e8e26ed70731ee9ded38f0a81ebdcde127391a86fbf62da",
+      "en_sha256": "6d78f014828c6dc8e6792f4d64d71911c5735480d5234e1ff3df73008ac29b19",
       "origin": "ai"
     },
     "dataList[id=limtochess_bossreward_empty_slot].content": {
@@ -402,6 +426,12 @@
       "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
       "origin": "ai"
     },
+    "dataList[id=limtochess_briefing_skill].content": {
+      "pl": "Umiejętności",
+      "kr_sha256": "2a84c94ce3470ab2e486d581aa2f1e5b1f4b831f1b6b092ef6786c16b9d57ee6",
+      "en_sha256": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_briefing_speed].content": {
       "pl": "Szybkość",
       "kr_sha256": "c03f7e871a4127c448d96aa2c9754fb390b54eaaed7b58ff6be042d20ee0258e",
@@ -496,6 +526,84 @@
       "pl": "Brak Słabych",
       "kr_sha256": "22607f8e0e38c7fd34a0481ca35ea44f2fbc196723b14a6e20e8c0c25ac99f86",
       "en_sha256": "be7180a718ec2d7fcd0623504b64722d92c0317141e56b93634863d1d06e7c1b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_band_fit].content": {
+      "pl": "Umiarkowane",
+      "kr_sha256": "9fc901527e8d5b8efb8d0f5daaeff8efcf3b23545baf2532d2884cf2364520d3",
+      "en_sha256": "f7b19afcde965ea4942b878d266f89f8ba9a5a833e60f7f901358a34c1f8710c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_band_high].content": {
+      "pl": "Niskie",
+      "kr_sha256": "6652674430e5064bcf87c4a187e33fe91a8a9b9349a1956969e04e02996c60f5",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_band_low].content": {
+      "pl": "UWAGA",
+      "kr_sha256": "acc90fbf66686d20bd872ef61ddb43faf74b1ced0772bc28acf9c1b4ab8cd010",
+      "en_sha256": "8637dd6cdae6587809c4cbc9007edcf7ed1829128798c845c5c558be23e7d24e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_help].content": {
+      "pl": "Siła Konstrukcji pokazuje, jak rozwinięty jest obecny skład.\n\nWyższy Koszt Tożsamości, Stopień Synchronizacji i poziom zwiększają Siłę Konstrukcji. Również zbieranie Tożsamości tego samego Słowa Kluczowego czy Przynależności oraz wyposażanie E.G.O wyższych rang ją podnosi. Wysłane Tożsamości liczą się bardziej niż Rezerwa.\n\n※ Siła Konstrukcji to jedynie punkt odniesienia siły składu — nie wpływa bezpośrednio na walkę.",
+      "kr_sha256": "a14843dca813dca91b6182fa18760d9e1fdc09a72192bf428e151b089589447b",
+      "en_sha256": "26ba659cf2044129044df6b23c4f9f2958052f4958085db0ad434a59bcae62e8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_line_change].content": {
+      "pl": "Siła Konstrukcji {0} → {1} ({2})",
+      "kr_sha256": "269fb9acfe9558b14d7c546ff5c6c86ea5243adf4d2791debd9c0abbe4c3c80c",
+      "en_sha256": "9e8d06720a9f08c0b7922bff162b9bea3eb932c7078b6cc8cac9cc880e75230a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_line_range].content": {
+      "pl": "Siła Konstrukcji {0} → {1} ~ {2}",
+      "kr_sha256": "02ca081b096eb0cfe434063fba7e9ca5fe0a796e3a9c05e0bf425ab175a24b2f",
+      "en_sha256": "03625fc20db673f677b90ae858a35977649bd454e916ccfded067b61b8e46bfd",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_penalty_hint].content": {
+      "pl": "Szczegóły Kar",
+      "kr_sha256": "b12be29aacfd1d6f83088d0baa1b7ded676c8d19ba3b1a5bf0862b3ebdcb9cbf",
+      "en_sha256": "0b8d02b69297388a7eac68e844b53c96de0d346c855c494734c085445db954bd",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_range].content": {
+      "pl": "{0}~{1}",
+      "kr_sha256": "5be38c5bbd9e0b612cec434561d869a6604e610913bc3383b2cfee9be06bf192",
+      "en_sha256": "5be38c5bbd9e0b612cec434561d869a6604e610913bc3383b2cfee9be06bf192",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_recommended_label].content": {
+      "pl": "Zalecana Siła Konstrukcji",
+      "kr_sha256": "8aca1356c463ca7cce799390339c73ddb3c52619ccd08cdf9f17861c830c352f",
+      "en_sha256": "bfe9d1a30a3f1be24d86df7b2a8ff747fe6607ac0e566a3b65f793e1abe9e487",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_roster_drop].content": {
+      "pl": "Siła Konstrukcji po usunięciu: {0}",
+      "kr_sha256": "30337b5d8c78c5b539d96d15083fb2a3f79299045b01cc54c72cd96c77a6163b",
+      "en_sha256": "9e6e37078e893593b11ce2d36c3f5960f1ef7f845f67cbe6dbed825ef34b9dd5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_roster_now].content": {
+      "pl": "Obecnie: {0}",
+      "kr_sha256": "f1fdd9276a8e9bd3341e920d494363adc0fd057fc66d30d2659ab65585e8e3a0",
+      "en_sha256": "4c1ca9fe0e115cc82f3b7ad191efa40d7723401fef64f9c1a98d47fe34aae0f8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_roster_result].content": {
+      "pl": "Siła Konstrukcji: {0} po werbunku → {1} po usunięciu ({2})",
+      "kr_sha256": "9c8a11b452668229526114a3607e518e35e10a82e19d3a59c4f692e796656f59",
+      "en_sha256": "a24c603617404af75d06c5c535e3448a937bde3c234b78e238351584581803ff",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_buildpower_roster_result_pending].content": {
+      "pl": "Siła Konstrukcji: {0} po werbunku → ? po usunięciu",
+      "kr_sha256": "b2f5fa2b58650d1cfeb168d8afdc38857c861b8e2b87c2a3d72e698660d3d895",
+      "en_sha256": "b6e81bd42f4e022e8f02566d4b60b922a8aa69a034e9c8b4cc436a9717b5d947",
       "origin": "ai"
     },
     "dataList[id=limtochess_completion_record].content": {
@@ -636,6 +744,12 @@
       "en_sha256": "5847d7c2756e9ee401a795a95c38f472dd3dbe0e79dbe1435a1aaf63d71c6a7f",
       "origin": "ai"
     },
+    "dataList[id=limtochess_cost_tag].content": {
+      "pl": "COST",
+      "kr_sha256": "acda47627f691f0d169aa8f213a0b956d5a591bd5f3d2c425c72787ed2c57e64",
+      "en_sha256": "acda47627f691f0d169aa8f213a0b956d5a591bd5f3d2c425c72787ed2c57e64",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_current_deck].content": {
       "pl": "Zobacz skład",
       "kr_sha256": "ed20e2fb5e1faf8c387430d11c76c57dc5d428206125e6127f5a3c4efe28917c",
@@ -670,6 +784,570 @@
       "pl": "Ogólne",
       "kr_sha256": "9d52d0642b3d7a35bf132efd4a9a0266ae13627a4162a27d09b71879775cc4d5",
       "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10105].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, jeśli w kolejce zostały tylko co najmniej 2 Umiejętności 1",
+      "kr_sha256": "d2759ae8a00533c0cd1c1fe743559198b8cedff3ef6ed60a80b96a279da7ccb4",
+      "en_sha256": "787d6f9004a443a4f678efe192dc8dd9fceda82c17d4100c41e3437ccad9bfa9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10108].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy w kolejce nie ma Umiejętności 3, a Odrzucenie pozwala zachować albo podnieść Zgłębioną Wiedzę",
+      "kr_sha256": "e10a6d83914a9c429167fa8c507ed437749fd985c442dd9a0a2a88f54fc35a5d",
+      "en_sha256": "1f26dd85406e1586df8f90b63b6aab4b9b26c5267db0e9837b7217b12af0cf10",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10110].content": {
+      "pl": "Użyj Umiejętności obrony, gdy suma Żywych i Zmarłych wynosi 25% maksimum lub mniej, a Poczytalność po przeładowaniu jest powyżej -40",
+      "kr_sha256": "1804257b767b4382327abe4c3630022887f5bd8834d8c13923e02863214df3ce",
+      "en_sha256": "260a49a8385ffd3bedca672e1ff31e491719309d7f4cb6bf7efbb6408affbd09",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10111].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Wabiku Wróżek poniżej 3",
+      "kr_sha256": "f918e13d14f1510181e82eec983321f213c5ffef1a83579093afe79f8168e240",
+      "en_sha256": "5b008913e453714cce3542d2a42aabd49acc11e289398eb0c04a9a215b5904dd",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10113].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a Naderwanych Wspomnień masz mniej niż 2",
+      "kr_sha256": "c28b79350d47700dd018671f33b272ca67fbb90ad349256498d99e3556aa0f5a",
+      "en_sha256": "f4bfe6830d537ebcd4d9c46ebee95fd19b48b59d1e586abe05cae860f2a93be1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10114].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie masz Kroczącego【Wu】 i nie zdobędziesz go w następnej turze",
+      "kr_sha256": "20f8cf9a7ce7b8b6179a302cfeace80f62d0c8bdeb7ab8fb350f44eaf1f90dbc",
+      "en_sha256": "17e4b7beddd2eca57a3d1c3b71827c2a6f40fc1750fec0be4ebc2b46b985d940",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10115].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można przygotować Odblokowanie - II",
+      "kr_sha256": "3b48100271587c69570e38dbcb1cd3ecc56811f0b064c78c624dae03d6fa1d7b",
+      "en_sha256": "4408325ab57d97f0d12e877e93360a0c0773730826e282ba2e74864a108c3136",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10116].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Liczniku Ładowania poniżej 7 i HP 60%+ po zapłacie kosztu HP. Używaj też Umiejętności obrony przy Liczniku Ładowania 15+ i HP poniżej 85%",
+      "kr_sha256": "1f4f7d2131231833ef571c9e678c0f55ed454130f34048073f6ab474f5811eea",
+      "en_sha256": "6e248edbc667c6933c963669f8ad653e304a5fe703d6a6e032d5ab79f0abde58",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10117].content": {
+      "pl": "Użyj Umiejętności obrony, gdy atakujący wróg ma „Zasadę: Zakaz Namierzania Umiejętności Obrony”",
+      "kr_sha256": "9d7e5fa184fb1580f2b7df2e936e6593c548835f2f129c3f71a53f6e8bcc04c7",
+      "en_sha256": "36259ede60cb6d08110e1be1915f1294373ab2e058f1a3fcbdf0b3c4459caa2c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10207].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Wstrząsu poniżej 6",
+      "kr_sha256": "f6d92c9ff12ea2d9216d44f796a79bd1de37c57a440e3a95e6fd173af6e5a186",
+      "en_sha256": "532d6a9a3a218c00e871ad7d18d6ffd4cf66955b5b37a5b3e55d35bb4131983b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10210].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Ładowania poniżej 5",
+      "kr_sha256": "be9a73d7360ec46edab67228ca8f2df0f6a2c379e01d470ac9911426111a157e",
+      "en_sha256": "aac122a51e582558f4b513c15f776b85032f63025e0dbeb91feff15c115eb32a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10211].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jesteś celem ataku i masz 10+ Podpalenia na sobie",
+      "kr_sha256": "9a7759ab8949b8b9b762fd2a46842e904653b68f046b3a8b844106ef632d5c80",
+      "en_sha256": "592252a6f46945e6a234a468e1a9fbe980ca8b4b1014729f38068057fe3608a3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10212].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a nie masz Biegacza【Mao】",
+      "kr_sha256": "fdbeb1e98ed9a89f1f8163db478e08265f0397b80db9d50d7d13fe60d049165a",
+      "en_sha256": "ef5c3cb9e7789a9ac8ed4aab152dd2916f50f79723545cd40a22f859689ffdaa",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10213].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można przygotować Postawę Snajperską albo przełączyć Umiejętność na Błysk Łuku",
+      "kr_sha256": "609c857a6fdc916bd5f90a22a66991370a294b9a63477afe60b5758bee89e66c",
+      "en_sha256": "955953b6b9ef02717eb48a96d841f29637a70c9ffa50870df78743db5c3dbce5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10215].content": {
+      "pl": "Użyj Umiejętności obrony w Stanie Przepływu Uwolnienia Jaźni, gdy sojusznik ma 70% HP lub mniej, a nie ma Obrony Wsparcia",
+      "kr_sha256": "522d9e990ac526b21bf53b73fef983943c15487908cf8b608ea3228051e3135e",
+      "en_sha256": "0078340049d32c1fb3c752c63331f5216867f741ab518b2c150f43d8b9b321d9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10216].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jesteś celem ataku, masz Trumnę Ognistych Motyli 30+ i nie ma Przegrzanej Trumny",
+      "kr_sha256": "11285cab8805117011ddcc7717ff9a44229821e68958319cc5983591836e5ec2",
+      "en_sha256": "f48ac7f7515fbfcce68cbf39ef3fcca4a881a39fc1a5f0208d9806ed568e9e05",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10309].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można rozpocząć Pożyczony Czas",
+      "kr_sha256": "bbf4c09e87ad1ddf7fede1af205f6d8a6bdfbe1507c0f49da7746e0b7df3ba2c",
+      "en_sha256": "effa4e671cdb0a19d03390bdc6a014571e02a0fad77235bd5cdfe464f8d45517",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10310].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy masz 10+ Krwawej Uczty, mniej niż 10 Twardej Krwi i 60%+ HP",
+      "kr_sha256": "18ca318501d2f0e0a3652200dedcadb748a50ae80ef66e3291ed398765d2761a",
+      "en_sha256": "6dfa29d7b28eecd1e41144d4ccf8893e50db9e053699a3cd9554a6c7df2a47d0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10312].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Miłości/Nienawiści poniżej 4",
+      "kr_sha256": "767269ec7bc49bf057ecacfba940da72ac52609720f06e597ea6b06489480760",
+      "en_sha256": "57aee34e29496296ed5ff210c25c31d8738f5f9f54a33f4a146241da33ad777e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10313].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a nie masz Wyrastania Rogów [發角]",
+      "kr_sha256": "ff901443a6dffac78d326161c99b7e2e8aafbde0ea130d5fa1c52f34e6fa309d",
+      "en_sha256": "cb15bb41ecd49d766aa3aa8aea7c71299887ea71e8f7e173fd6d2d652fbf7146",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10314].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można podnieść stopień Odblokowania",
+      "kr_sha256": "3548a2f3359b9a982df98483e9d6c7bfdddf1b8a33effcde8c2508e6ec97c7eb",
+      "en_sha256": "e5f08c1fb43eda9520f0d48c31def904c0759a8c28e6e66001ae6032cc92129d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10315].content": {
+      "pl": "Użyj Umiejętności obrony przy Łasce Czarnego Boga 100+, gdy dostępny jest Wzmocniony Atak",
+      "kr_sha256": "8658c4208cf209e82074f97ad3c9d9a1f63fc4755aa8bfeb6353e7d45a210a53",
+      "en_sha256": "8ea165f276da5cf761b652a15375db21ec4868384694b1ae167190c1bfa07e7c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10316].content": {
+      "pl": "Użyj Umiejętności obrony, gdy atakujący wróg ma 4+ Klin - Sinclair",
+      "kr_sha256": "bf46f648eb37efe61e587bd2b63462ccf1505b9e32b8d42ad74de1e55b3eeea6",
+      "en_sha256": "c824df62b6a356c8d34c5173c4f42ebd33b191de2a26742db216644ecd1ab531",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10410].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, jeśli Kontra da ci mniej niż 7 Czerwonych Ok lub Pokuty",
+      "kr_sha256": "c666045040a43b3e24e86f330023ba3c686b37a0ecc9d3719f7199713527d167",
+      "en_sha256": "cd31fd24ede7e7b03e248c69e88368b58bbbf3826b365231bcd08a3592130564",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10411].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a nie masz Biegacza【Mao】",
+      "kr_sha256": "fdbeb1e98ed9a89f1f8163db478e08265f0397b80db9d50d7d13fe60d049165a",
+      "en_sha256": "ef5c3cb9e7789a9ac8ed4aab152dd2916f50f79723545cd40a22f859689ffdaa",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10412].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można wejść w stan Pogardy Spojrzenia",
+      "kr_sha256": "f2b2e89eab4a78df16d975ce59c613360203aef1dd7257db006c175276cd8cfc",
+      "en_sha256": "8ddbe3f6707bce65d17aa074627422635663207c14ca52634bd705403a3f3501",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10413].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie masz Postawy Strażniczej",
+      "kr_sha256": "cce63fded0c986677cfdf7b0d8426b89c609aa9b896f7ef4210cc90e7b7c3e26",
+      "en_sha256": "36761628123c6928bb5ab2e218d2968aaf04200ae230c8786643a0224348acff",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10414].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy masz 80%+ HP, mniej niż 10 Płatków Kwiatów i brak Wrażliwości",
+      "kr_sha256": "757ba436aa15214fbc50dacfb3b4cf62bb092f7ff0603364ef0f26ade6fd99b1",
+      "en_sha256": "f08606f4e300b37f132b43a450ab516b2a9ebea3aa85700ea611e04911cf33d7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10415].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można przygotować Cięcie Ostrzem Gwiazdy Tiansha przeciw sojusznikowi Domu Pajęczyn na polu",
+      "kr_sha256": "80752365147aafdd9ca4db6448e95c21c3f54f6a71c2b014ae570f89deeeaa28",
+      "en_sha256": "b27f8714fb10013a72525cacd854584ccce8ee85514b8241d260e2c2e67a1d16",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10416].content": {
+      "pl": "Użyj Umiejętności obrony przy przełączaniu Le Noir: Płaszcz z Gabardyny i Armure Éveillée albo gdy jesteś celem ataku i dostępny jest Wzmocniony Atak",
+      "kr_sha256": "523f0c941b2bd274e8b44631dd17c431f0035940fe519a6cd84ce22bae54a692",
+      "en_sha256": "302a5f6cc8ca6218bbc159bc276598e68020acf13928bb04980ede521e4c6f71",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10503].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Liczniku Ładowania poniżej 5",
+      "kr_sha256": "a996f4786b3dc65cbcf52569869d2832c60faa8bc326741a0a111ad743150f15",
+      "en_sha256": "0a1f0e6360b0e9c067db28c8f2ec7bc9f228a2f2d4c3a068e2f784a2108b7bcf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10506].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Ładowania poniżej 5",
+      "kr_sha256": "be9a73d7360ec46edab67228ca8f2df0f6a2c379e01d470ac9911426111a157e",
+      "en_sha256": "aac122a51e582558f4b513c15f776b85032f63025e0dbeb91feff15c115eb32a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10510].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy możesz zachować albo podnieść Zgłębioną Wiedzę, nie zużywając Umiejętności 3 z kolejki",
+      "kr_sha256": "e31ef2c633ccb010554665c5683907ba66067c6a5f3770275b6bd862c90266d9",
+      "en_sha256": "db1ea5941bb928dd03b9e9ac93639320b2e1f2e1b346d209b379cca34d81c4b4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10513].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy masz mniej niż 3 Pancerza Twardej Krwi, a cel-sojusznik ma 60%+ HP po zapłacie kosztu Krwawienia",
+      "kr_sha256": "697d018fa0c54ecc1a1d844ea7d3f0afcd133fca8c378a4899c0ba4ec0422a5a",
+      "en_sha256": "ac1952024dd7d2f82b9d5a62fad0d8c86e14ca06512bdabf24e7285696be9194",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10514].content": {
+      "pl": "Użyj Umiejętności obrony, gdy suma Pocisków Zarodnikowych [Podstawowy] i [Śrut] wynosi 25% maksimum lub mniej, a Poczytalność po przeładowaniu jest powyżej -40",
+      "kr_sha256": "08c37904712f20617cc5886e9e1ef62d1cf0a2a0fea17a59f01029d0c24124f4",
+      "en_sha256": "b00aad7237d27bb68fbfee0277d296d24c1f15564ae489a0450e4d3bd4b7ce09",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10605].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy masz 50% HP lub mniej i mniej niż 2 Ampułki Korp. K",
+      "kr_sha256": "5791127684dbb65054ba6d1b3e3a3860b34f6e216a7ba6d4d83661e0c6c27180",
+      "en_sha256": "8b489827ecd513bacc484c05808b65fe49b7bb15030cedfd5b3fb86686f17fbd",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10608].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy w kolejce nie ma Umiejętności 3, a Odrzucenie pozwala zachować albo podnieść Zgłębioną Wiedzę",
+      "kr_sha256": "e10a6d83914a9c429167fa8c507ed437749fd985c442dd9a0a2a88f54fc35a5d",
+      "en_sha256": "1f26dd85406e1586df8f90b63b6aab4b9b26c5267db0e9837b7217b12af0cf10",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10611].content": {
+      "pl": "Użyj Umiejętności obrony, gdy nie ma amunicji, a przeładowanie jest dostępne",
+      "kr_sha256": "a693432d2f99dd7e1e1e853d6d43e2da045da7695f3c52c43c98f74bee203111",
+      "en_sha256": "3f7d7efa66b8b7a192980564f46e9a3b3648a7f16b6298584efaba6fa7d180b4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10612].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Ładowania poniżej 10",
+      "kr_sha256": "5dfc1409786b749dbdb37c9e5c03c42fb6ee9d715155d4eab4ddc8593619080f",
+      "en_sha256": "50f9dcadb20dad5421f12d38ffdfbaaf450cd2b124a37f451abf7d75af371564",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10613].content": {
+      "pl": "Użyj Umiejętności obrony, gdy dostępna jest Rezerwa albo jednostka wraca do walki, a któryś Heishou może zejść w Odwrót",
+      "kr_sha256": "92fb03ad7b51d33fde4f61ef4c456d5bc6af2c173a30e18030ca4b071451f6c3",
+      "en_sha256": "f7240c33b9b4b3760bb3ea479abdced81268c9c1f37389322dfb1485ee017500",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10614].content": {
+      "pl": "Użyj Umiejętności obrony, gdy sojusznik ma 70% HP lub mniej, a nie ma Obrony Wsparcia",
+      "kr_sha256": "4ca7d0a5fb34cfa46f08098156d0ccb9738ae930a5db15c8ff386d993bd2fdbd",
+      "en_sha256": "1f56e855b71682b9f089663a47aa385aad6f7bf0ec0f504d896e7ece23b5497a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10615].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Oddechu poniżej 5, gdy żaden wróg nie ma Skutego [Hong Lu]",
+      "kr_sha256": "6c3eb07f5d8d1732cb147adeeb3ba5d9cc14558914d68c9f4fc4d48d2eb6ef4d",
+      "en_sha256": "1d1863b64e46f0cf7fe311a4df961465c6cb3a7305cb25c7163ff4a1d69f04e9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10617].content": {
+      "pl": "Jeśli masz Czas Uważnego Słuchu, użyj Umiejętności obrony, gdy jesteś celem ataku. W przeciwnym razie użyj Umiejętności obrony, gdy sojusznik ma 70% HP lub mniej, a nie ma Obrony Wsparcia",
+      "kr_sha256": "7b12d3a7fb18c28e1da13b9076648a5dc8078cb024494cedee01672f9238de6a",
+      "en_sha256": "712f5ccffef15d1eacac00ff6f381771fd80cf85d68755c59f44a742fae9f57f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10702].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy masz 3+ Liczniki Oddechu i 60%+ HP po zużyciu 5 HP",
+      "kr_sha256": "9c9e48dbfd5c072d711b377b21b8129701c6e54cff1ae0e824eaaf6fe232cf0a",
+      "en_sha256": "647288504bd4005ccec2443308b48457f6fdd4d0e5a186272226a1ad7bef244c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10705].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy HP wynosi 60% lub mniej, Poczytalność mieści się w przedziale od -20 do 0, a Zatonięcia na sobie masz mniej niż 5",
+      "kr_sha256": "a1d8837d918426c7970f4b2b8b289940721319ba43fda2a778d6585490107ccf",
+      "en_sha256": "34bd3bdcd541a013d46a45bc0afcbf288242abc070c4efa0ab6b9f0bbd807343",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10709].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Ładowania poniżej 5",
+      "kr_sha256": "be9a73d7360ec46edab67228ca8f2df0f6a2c379e01d470ac9911426111a157e",
+      "en_sha256": "aac122a51e582558f4b513c15f776b85032f63025e0dbeb91feff15c115eb32a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10710].content": {
+      "pl": "Użyj Umiejętności obrony przy przygotowaniu Dullahana albo gdy jesteś celem ataku, masz Dullahana i Poczytalność 15+, co pozwala na Wzmocnioną Kontrę",
+      "kr_sha256": "3cd5e19b6c9e982b2d9fe80380ee8fc6a8bc50c87eec4ca887777ce4c79e8da1",
+      "en_sha256": "142cb158fc9c963bf15d5104ad47d17edeab15bc9cd9b721394b4ee589c4bfa4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10711].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy do Wsparcia dostępny jest Hong Lu z Biura Kropki, a nie masz Skupienia【Snajper】",
+      "kr_sha256": "e0d137ba87ab8257376c0bb3670204cf3e40a4e91778d8aff41bfcb92b63d4a8",
+      "en_sha256": "7ff51e202c01d61aa10e002e3bdb7ab0f63482db6da00b46773d402645728cab",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10713].content": {
+      "pl": "Użyj Umiejętności obrony przy Liczniku Ładowania poniżej 15, gdy można przygotować Nadładowanie",
+      "kr_sha256": "e2eee06cb23d3d7200cb1ac7a972fa9d502d4ac021e07e9bb33ebeeff4a3baa6",
+      "en_sha256": "0e87d341e5927dc8bf40d519ea6d91398f23552ccb97cf83e9817612ffe0e96f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10714].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a nie masz Bloodflame [血炎]",
+      "kr_sha256": "51cefeebe51426340beafcc103d77788a4687bd56499dbc46b5a1faceba0507f",
+      "en_sha256": "a2c8f08e325189527e9cd6ab075903bf75396ada1d6d76c94d29315d448a8d4a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10717].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, jeśli twoje HP wynosi 50% lub więcej",
+      "kr_sha256": "0542c3b6e12ea402f9e825a2d92a7469c644900031c162bcf050c860c9912902",
+      "en_sha256": "ef3f75d9dc04075e85b63cc9ecee1ca5a74e47fec3ccf7a2547d1612c977ab5f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10808].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy któryś z sąsiednich sojuszników ma 35 Poczytalności lub mniej",
+      "kr_sha256": "ecd48343b3417e8d8e080b22b8c531820a08bda2dc774ea94721cde4b33bebfe",
+      "en_sha256": "825136de9565abe04c7ee301163a4d82f25cc74d5f6f8d050b93f8788e1177a8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10810].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie masz Postawy Obronnej",
+      "kr_sha256": "d33c8fafc44cef0b81822d3c8839be7caec8636aaecbbc5f1b702a2657d6daa7",
+      "en_sha256": "7f20994db4e0102a57334bec2c6afd59a7c2692bb7e180a8d3416c555a3d1400",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10811].content": {
+      "pl": "Użyj Umiejętności obrony, gdy któryś z 2 najszybszych sojuszników Klanu Kurokumo ma 70% HP lub mniej i nie ma Wzrostu Mocy Obrony",
+      "kr_sha256": "546397539fd71d5d47b759dcec49d8eef82e556e4fd2c1e6ee60782defa992b2",
+      "en_sha256": "bc6492413967a595673f94204b54413a359cbfff7080c4304e6abade4f6f8916",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10812].content": {
+      "pl": "Inicjator [始] 3+: użyj Umiejętności obrony, gdy dostępny jest Odwrót",
+      "kr_sha256": "39972b5225622e49d1139c5ef67eafe8376366b684e261aa2c861cc0b12a2c62",
+      "en_sha256": "a707c5b5a05cf215a70bfc2f92d12760b42db496939c0327253a297ca1ca3f40",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10813].content": {
+      "pl": "Użyj Umiejętności obrony, by zmienić Rękę, gdy w kolejce zebrały się co najmniej 2 kopie Umiejętności 1",
+      "kr_sha256": "2047a538ebece01b3aaaa6975edc2d849e41609b9694345287598612aab647c2",
+      "en_sha256": "bf87f247dcee38d02bb8ab02b327f307c1886be5798e4fa5b9e8e0f40d73dd3b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10815].content": {
+      "pl": "Użyj Umiejętności obrony, gdy sojusznik ma 70% HP lub mniej, a nie ma Obrony Wsparcia",
+      "kr_sha256": "4ca7d0a5fb34cfa46f08098156d0ccb9738ae930a5db15c8ff386d993bd2fdbd",
+      "en_sha256": "1f56e855b71682b9f089663a47aa385aad6f7bf0ec0f504d896e7ece23b5497a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10816].content": {
+      "pl": "Użyj Umiejętności obrony, by wejść do Przymierzalni przy 10% HP lub mniej, albo by się leczyć w Przymierzalni, gdy HP poniżej maksimum",
+      "kr_sha256": "13ac89ce7269ecfbcfe1d9fa5bdf5b8ba3f16b1a0c1aaac26c8b72165b915316",
+      "en_sha256": "b3e1327f8cd1692bb40fd9d96d4ad4a6bdef2249bdb3105157be88f47891cbaf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10902].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jesteś celem ataku, a Oddech 5+ pozwala na Wzmocnioną Kontrę z pasywu Ostrza Czarnej Chmury",
+      "kr_sha256": "a16fe4564c3f48e48260fb0d33ec9363d97a9f7677daf33dbcb8ccdbfac39848",
+      "en_sha256": "6d304756d525d05fda9208441ce7b6adf347ca7155416089d29da9c715eda44d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10905].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Liczniku Ładowania poniżej 5",
+      "kr_sha256": "a996f4786b3dc65cbcf52569869d2832c60faa8bc326741a0a111ad743150f15",
+      "en_sha256": "0a1f0e6360b0e9c067db28c8f2ec7bc9f228a2f2d4c3a068e2f784a2108b7bcf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10907].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy możesz zachować albo podnieść Zgłębioną Wiedzę, nie zużywając Umiejętności 3 z kolejki",
+      "kr_sha256": "e31ef2c633ccb010554665c5683907ba66067c6a5f3770275b6bd862c90266d9",
+      "en_sha256": "db1ea5941bb928dd03b9e9ac93639320b2e1f2e1b346d209b379cca34d81c4b4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10909].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można rozpocząć Pożyczony Czas",
+      "kr_sha256": "bbf4c09e87ad1ddf7fede1af205f6d8a6bdfbe1507c0f49da7746e0b7df3ba2c",
+      "en_sha256": "effa4e671cdb0a19d03390bdc6a014571e02a0fad77235bd5cdfe464f8d45517",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10910].content": {
+      "pl": "Kufer Kuriera - Rodion 15+: użyj Umiejętności obrony, gdy dostępny jest Odwrót",
+      "kr_sha256": "6373b93eaca324323618cffc90fd07480c9b7e0cb341b211e614e79e2e48faaa",
+      "en_sha256": "584b01e6723fe21592128aa47b91d8dbf3db03349c1a6b44d1b43f6c80ca1d8d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10911].content": {
+      "pl": "Gdy jesteś atakowany, użyj Umiejętności obrony, gdy inny sojusznik ma 3+ Krwawienia",
+      "kr_sha256": "43ed9a39cf167dba80d0724c82c263c77486306aa02afbaf26c0b96be18c14ce",
+      "en_sha256": "e7f9f4cdf7e1cd98d29414476911d8fccfed8dfdef81e76a930fdfb63166225b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10912].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie masz Wężowego Ramienia i nie zdobędziesz go w następnej turze",
+      "kr_sha256": "81a5e520dd3b4bcea4b9b4d404a0a52434639ced8a1bf8362c3241e8d2648501",
+      "en_sha256": "9b34084c4a34d3f9348dab6dea2e7496f2f935155af4e107cff0beb9bfd575b0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10913].content": {
+      "pl": "Użyj Umiejętności obrony przy Ostrzonych Łzami poniżej 3, gdy Poczytalność po zapłacie kosztu jest powyżej -40",
+      "kr_sha256": "9665fa95b8260d205d746ddd6829abf9ed97268c6e520f7eb6fc1f2aa7242aa5",
+      "en_sha256": "dc70574d2a31fbfd78f894369eabd9086ee6690feff38dc1ee4d6eef2c2b4b0b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10914].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Ładowania poniżej 5",
+      "kr_sha256": "be9a73d7360ec46edab67228ca8f2df0f6a2c379e01d470ac9911426111a157e",
+      "en_sha256": "aac122a51e582558f4b513c15f776b85032f63025e0dbeb91feff15c115eb32a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10915].content": {
+      "pl": "Użyj Umiejętności obrony, gdy nie masz Réflexion, a atakujący wróg ma 3+ negatywnych efektów, co pozwala użyć Krytyki",
+      "kr_sha256": "6366bd3a906c14afbd8e455ac8e7155a3823f9d06c235dd9affb92fda4b0375b",
+      "en_sha256": "34ae57a1ee1ad86308b28e2912d60643a788c96d2405d1c3385987cfa9c95457",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10916].content": {
+      "pl": "Użyj Umiejętności obrony przy Pociskach Przyspieszenia poniżej 5, gdy można je uzupełnić",
+      "kr_sha256": "fafa950dc207e8afd5f0fd15cbf334ede73f35e5545c6ff58dde672fee450e17",
+      "en_sha256": "3c529c9e0290bf2169c59f0baf60e07045267f3e914e1f66767046dde2b021e5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_10917].content": {
+      "pl": "Użyj Umiejętności obrony, gdy ty albo jeden z 2 sojuszników o najniższym HP ma 70% HP lub mniej i nie ma Tarczy",
+      "kr_sha256": "d81a33a652e967a53ce707eb7ba86c4167e4012d86a135eb80e691d4b08489eb",
+      "en_sha256": "a254278e8b5760cc8dd0f0b57c150d65426fd725bd5015d10cd06dc9d3d26b29",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11005].content": {
+      "pl": "Użyj Umiejętności obrony, gdy Poczytalność wynosi -30 lub mniej",
+      "kr_sha256": "1560df530a64fafdf024945e35f10a640aaf5af2a49f1a683add4b3e8c954f00",
+      "en_sha256": "95f66079defa1337ef4ba69b5d85771f0b69c96100f1485e5f48dce44e7228d7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11006].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy masz 4 Talizmany i Umiejętność 3 do przekazania ich dalej",
+      "kr_sha256": "9c75cc81fe27c8480849ee9d4f5654bf336f5b4a1b6313e021ee65744bdb0eed",
+      "en_sha256": "54dec77c1d21b6fdb696effb2c2d5e1f44b4578b4c8bcd73cdda4c89ff23575f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11010].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Wstrząsu poniżej 3",
+      "kr_sha256": "c5e631521a3a8f12a9f57a9d27cf0e4a1915d84092be2a78b6dcc8197c53bb91",
+      "en_sha256": "cf16055e1861d8d781eb76ce52743e6b24d31b50d92ec28728e9b68048015e55",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11011].content": {
+      "pl": "Kufer Kuriera - Sinclair 15+: użyj Umiejętności obrony, gdy dostępny jest Odwrót",
+      "kr_sha256": "412e43f2bff62e7f1d2415fdfa5abe72b827f0b8b07c7c6e59aaa0746e993aa0",
+      "en_sha256": "8bea6f34e5fc2fe2eea2729cd5d7034dec3bb05adcc932d71236ef66bd2b6cd2",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11014].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a nie masz Bloodflame [血炎]",
+      "kr_sha256": "51cefeebe51426340beafcc103d77788a4687bd56499dbc46b5a1faceba0507f",
+      "en_sha256": "a2c8f08e325189527e9cd6ab075903bf75396ada1d6d76c94d29315d448a8d4a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11015].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Oddechu poniżej 25. Przy Oddechu 25+ używaj Umiejętności obrony, gdy jesteś celem ataku",
+      "kr_sha256": "a05ccede99a4d54bd5a01cb5e60b2d1afca3f3d320bcc49e27d3049d6c7de824",
+      "en_sha256": "8616e323a184b71acf2668f886cf20796309fefe2ee52e2cb58c0111ad2b9667",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11016].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie trwasz w stanie Paroksyzmu, Licznik Pulsacji jest poniżej 15, a HP wynosi 60%+ po zapłacie kosztu HP",
+      "kr_sha256": "ed45899e483b7bc5be565bea6913788742fd54a6fc28c74bce7924395f1afa7a",
+      "en_sha256": "db7ebff3f5dacb1c37ec1ecde710307dbad5cc9c03a673d84c3a6d596a31ae4a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11017].content": {
+      "pl": "Użyj Umiejętności obrony, gdy atakujący wróg ma 4+ Klin - Don Quixote",
+      "kr_sha256": "db2bf700a3842355a1f126c5dc89e83c33630a6ad912f26f203c0459e484272d",
+      "en_sha256": "2dff7959910b5369d576b1a8e475fd5055afcca0d031e37563f9402bf50db159",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11105].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, jeśli w kolejce zostały tylko co najmniej 2 Umiejętności 1",
+      "kr_sha256": "d2759ae8a00533c0cd1c1fe743559198b8cedff3ef6ed60a80b96a279da7ccb4",
+      "en_sha256": "787d6f9004a443a4f678efe192dc8dd9fceda82c17d4100c41e3437ccad9bfa9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11107].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony, gdy Magicznych Pocisków masz mniej niż 6, a Poczytalność po zapłacie kosztu wynosi -20 lub więcej",
+      "kr_sha256": "021e80be4f42b8dee66ad06ec421fbd9c34455f5b070dd432b4d924c69070fb8",
+      "en_sha256": "20d034c2e3f2f9c62f700f0389c133f9ad81f15ce5d7c332c8dc2b00033c83e1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11110].content": {
+      "pl": "Gdy jesteś celem ataku, użyj Umiejętności obrony przy Liczniku Ładowania poniżej 15",
+      "kr_sha256": "8511cd5fbb02d6bcae38b20813adfb31e28e374df42f032a9fd288b0a19440fa",
+      "en_sha256": "40ac96bcf02196be321ca2acd82cf7cdf0f0075dd5dd12e7c5ac9f0294670b07",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11112].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jest kto Kontrować, a nie masz Biegacza【Mao】",
+      "kr_sha256": "fdbeb1e98ed9a89f1f8163db478e08265f0397b80db9d50d7d13fe60d049165a",
+      "en_sha256": "ef5c3cb9e7789a9ac8ed4aab152dd2916f50f79723545cd40a22f859689ffdaa",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11113].content": {
+      "pl": "Użyj Umiejętności obrony, gdy można rozpocząć Pożyczony Czas",
+      "kr_sha256": "bbf4c09e87ad1ddf7fede1af205f6d8a6bdfbe1507c0f49da7746e0b7df3ba2c",
+      "en_sha256": "effa4e671cdb0a19d03390bdc6a014571e02a0fad77235bd5cdfe464f8d45517",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11116].content": {
+      "pl": "Użyj Umiejętności obrony, gdy sojusznik ma 70% HP lub mniej, a nie ma Obrony Wsparcia",
+      "kr_sha256": "4ca7d0a5fb34cfa46f08098156d0ccb9738ae930a5db15c8ff386d993bd2fdbd",
+      "en_sha256": "1f56e855b71682b9f089663a47aa385aad6f7bf0ec0f504d896e7ece23b5497a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11210].content": {
+      "pl": "Użyj Umiejętności obrony przy HP 40% lub mniej, jeśli masz Krwawą Ucztę. W przeciwnym razie użyj Umiejętności obrony zamiast Umiejętności 1 przy Zmęczonym Sercu poniżej 3 i HP 60%+ po zapłacie kosztu Krwawienia",
+      "kr_sha256": "8ad528c867a72eec2d0fad1fd782906c6e061d637fd1b21ef18a456402d81c75",
+      "en_sha256": "30537260e7b06ead78fb0d157f1ed5e18780e7c45461f4808cee9f6562a81c40",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11211].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Paliwie Dystryktu 12 poniżej 50",
+      "kr_sha256": "7ee15e386843d9c13de2502eecc04e738c9f2ebe89b85ad07a4acdf7ce43ce3f",
+      "en_sha256": "0bd79df50936b0f0c24483e109f6e85bcf0eb12f7ec2f42eabdf76d5ec455ab9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11212].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie masz Wężowego Ramienia i nie zdobędziesz go w następnej turze",
+      "kr_sha256": "81a5e520dd3b4bcea4b9b4d404a0a52434639ced8a1bf8362c3241e8d2648501",
+      "en_sha256": "9b34084c4a34d3f9348dab6dea2e7496f2f935155af4e107cff0beb9bfd575b0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11213].content": {
+      "pl": "Użyj Umiejętności obrony, gdy wróg ma 40% HP lub mniej, a dodatkowy atak Mercé można przygotować",
+      "kr_sha256": "b5697d288f4c5612be34ee5e98e24152d7c497fa900a3060d09937b2e9c90413",
+      "en_sha256": "5dd846ca64f190c7bb32f0b4ce5a8db167ef596036036b0c84600e61698259ee",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11214].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1 przy Lampie poniżej 8 i HP 60%+ po zapłacie kosztu HP",
+      "kr_sha256": "28ade185071a3cb24ae4676b5bb1f98169ef4cce1584f95cc6ebb7ba5b8b5bae",
+      "en_sha256": "61a1975cf32d24990266de527d76eba84ffca0e803fbbb6a886fc38334f5a8bf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11215].content": {
+      "pl": "Użyj Umiejętności obrony zamiast Umiejętności 1, gdy nie masz Pancerza Wysokiego Napięcia",
+      "kr_sha256": "a688b91db8a6e599037c9ea05a043eba900d42439fb52ff8fd86afe1f6fb9b07",
+      "en_sha256": "379b3f44688afdfbe08940267fa504d31d85334dc71dcd1ba58172f001aa9eda",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11216].content": {
+      "pl": "Użyj Umiejętności obrony, gdy jesteś celem ataku, a Płomień Świtu wynosi 30+",
+      "kr_sha256": "07c46a496a10ebce0de571fd160c7dddb26ece7c10a5852d41063ff9f8af639b",
+      "en_sha256": "52d0766f104aacf7eaea3d1b8c86e326de38844dd1df41e1895a00202b58fcd5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_condition_11217].content": {
+      "pl": "Użyj Umiejętności obrony, gdy żaden sojusznik nie ma Połączonej Nici",
+      "kr_sha256": "a769448e7b6cfdd211eb38cff44e73edab2781fa51c86df4ddf1c4591d14a58e",
+      "en_sha256": "8a29b14cbcfe6f8c3bf6a1bdb5de7b07e5528657823a608bf61ecae64ab5a384",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_fallback].content": {
+      "pl": "Gdy spełniony jest warunek własny tej Tożsamości",
+      "kr_sha256": "c2383831f5b4c5be7ae6dea6f55ad58e7f9e0767461eaf4c6a8720893b79122c",
+      "en_sha256": "2279a6862e2a14b117f54c34f47b71141ae064643f917d8fa758c82acbb53dcb",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_identity_retreat_support].content": {
+      "pl": "Gdy Odwrót jest dostępny dzięki efektowi wsparcia Ishmael",
+      "kr_sha256": "6396b78bf9a27b76ee97f87169bc897478cebe0f754abb481c88191851d512d5",
+      "en_sha256": "3c807e36ce4b82c4a24b22d9c08fea721a47c9a2272d10440957ac0be015c09f",
       "origin": "ai"
     },
     "dataList[id=limtochess_defense_option_placeholder].content": {
@@ -786,6 +1464,138 @@
       "en_sha256": "e9a688425a3ac6bac7b5b01c06b87110f6d323fd59fc36c527c5f88eeadd7350",
       "origin": "ai"
     },
+    "dataList[id=limtochess_ego_badge_absolute].content": {
+      "pl": "Absolutny {0}",
+      "kr_sha256": "e686a24551c6a90ba4d9a17a96d2d7d9687187e14ea42da10c96582ab76f18fb",
+      "en_sha256": "da5a159d7485f70463443037e43c62ce7ad264298f0554633076592aa756ce0c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_badge_duel].content": {
+      "pl": "Starcie",
+      "kr_sha256": "53a5c7ce2646eeb46cd8fe51ae331b99d164726816a30446b69fe83c61b2afba",
+      "en_sha256": "11ce6c777cfd653320a0bd22bc6f41433c665490b186fa95e08206d622755a75",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_badge_impossible].content": {
+      "pl": "Niedostępne",
+      "kr_sha256": "4c96c3d45fd87789df3c8c6b07ea7eb091fe3dde42c478ea85dacf614fbcbd16",
+      "en_sha256": "ca184496974204a0bd3fd4925e0540bc4b0df6fcc232994d29754272b7183812",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_badge_oneside].content": {
+      "pl": "Bez oporu",
+      "kr_sha256": "db2e687b65c07a48c8b084a7be43b2b63e677ba9ee22229aa03f97412619719f",
+      "en_sha256": "b230041379d44a5512d51a944032798ad09443608fc43c85f1e2fd040daba2fa",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_badge_resonance].content": {
+      "pl": "{0} {1} Rezonans",
+      "kr_sha256": "4eb00d7968c85377f54d11820011497651451496a5f7c9adc72491ee1ac7a379",
+      "en_sha256": "17466150a43471258ef131b1a30fd713e4cda3b5e8490dd1c6c58785afe8f942",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_badge_target].content": {
+      "pl": "Cel E.G.O",
+      "kr_sha256": "19f620cf2095d611d77999211b609d5e12404aa99c662ef0a260a176a1447c90",
+      "en_sha256": "ae42a383f775b45291e1482de657c4eafdc8782a9f7e4604ad3f963caf0f1590",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_back].content": {
+      "pl": "Wstecz",
+      "kr_sha256": "2df06869205b07fef47dbb16e8c2da627d0ecd62f4e74c8512640a6ca25735c5",
+      "en_sha256": "76900f1bfd16c8d4dd3d25e6f46638d7165aee23883ccea6bfe071c514421769",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_confirm].content": {
+      "pl": "Wyposaż",
+      "kr_sha256": "50ea98ec5352d25bfba8f2bc5cd4848250448ffc39daa203e0a09b0a6f76b80f",
+      "en_sha256": "885fd3041d12884b56119a71af7e84e4ad73261a7232419852d00c134dd10c05",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_current].content": {
+      "pl": "Obecne E.G.O · Stopień {0}",
+      "kr_sha256": "88c6955a81b4ccbab6526303003c13964101e69ef3b56f0d4387d1c01586f617",
+      "en_sha256": "a703f1e747f7f87b289f26410ae48dd29e20f967b4a24da9b5cfdf753897c087",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_desc].content": {
+      "pl": "W gnieździe {1} jednostki {0} można wyposażyć tylko 1 E.G.O. Wybierz E.G.O do wyposażenia.",
+      "kr_sha256": "b5c3e1e1dad1c685ea6773ad03a1cae7b5f60ca54cae503965401f560e2375f6",
+      "en_sha256": "6775d39ab5c2d1d8c9b67d8ad068db8babea0f35abb9c50ed30b4882fec36f28",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_new].content": {
+      "pl": "Nowe E.G.O · Stopień {0}",
+      "kr_sha256": "2d27ce84dc88318356f7f888c5ad69afe155530c95ffdfe203661a4699190163",
+      "en_sha256": "3861c5fadeab6cff1cd7d9a8a683e80b6a4e6da90b9c869dfd6ac978b2ec3bf3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_title].content": {
+      "pl": "{0} {1} E.G.O — wybór",
+      "kr_sha256": "6a9032bf9c559b8acedbe814894bff4b30045fab373e54e3163b31c40d0f5922",
+      "en_sha256": "fb9bbe9374e3eda457c4e76c77768cf603ea8cde294125db9e029f61bb711833",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_choice_warning].content": {
+      "pl": "Niewybrane E.G.O przepadnie.",
+      "kr_sha256": "3598cddeaac42fbf1f15fc4413b263cde5a9bd27e2c395c88cf2453206efb946",
+      "en_sha256": "4d935779ed8c098de981a1f23e0b65081f74cf9cd1ff1c26b5807b5c96588dfc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_guide_aim_cancel].content": {
+      "pl": "(PPM = anuluj)",
+      "kr_sha256": "48995b1e2ca604d6b19eeefda7a04c9fdd7e8bd74a477b48d09680a9cb062ce3",
+      "en_sha256": "9748fc3893b52415a556cd7c23e1b74aa1d1ef588b96bff5486bf0fe25fbd76e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_guide_aim_click].content": {
+      "pl": "Wybierz wrogiego cel",
+      "kr_sha256": "d60bd70d4817118f3d94ea1305529f5802b4f44ada1f06c4dfb0846d0f0c6567",
+      "en_sha256": "a63cc827a9b31ef536d509fcfb4625c11286308530306afaaf297b95c03759b1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_guide_drop_cancel].content": {
+      "pl": "(Puść na pustym miejscu, aby anulować)",
+      "kr_sha256": "be95ca9e17ed068f7dbe744e710fa554c399a0934e4dc77434249d11c5b9fa9d",
+      "en_sha256": "96eae0386dc6dcaf2a090a0d4e60022fd5d7ef9f65388fe57594ca2fb8ae684f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_guide_drop_fire].content": {
+      "pl": "Puść nad wrogiem, aby aktywować",
+      "kr_sha256": "7ec23a7ff0408760b4223e7e13f9b64746b296686a87a6670e1233aa5cbb8bb1",
+      "en_sha256": "b4f517598dab954158527a9893c23b28a6061fe0ff2b083e051efefdab27ca0c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ego_guide_drop_reserve].content": {
+      "pl": "Puść nad wrogiem, aby zakolejkować",
+      "kr_sha256": "2d446e9691d22dfbbf5ed69387b0429683edba6ce5a8060f7d0d27e0219bb1b9",
+      "en_sha256": "661b3bedf224cb6293d7ec7e0a52242ec5523ae65da00d45f1eb7b10cd6b9b1b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_egoaim_absolute].content": {
+      "pl": "{0} Rez. Abs.",
+      "kr_sha256": "22a1e7606c09b803f2c77050ab530d91d60ad7226d8d6f26126a916608c9a31f",
+      "en_sha256": "deb788371c3afc2046e49fd1e84e7c098cf00f70c5e0d3464d2dd63f1136e062",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_egoaim_guide].content": {
+      "pl": "Przeciągnij na wroga",
+      "kr_sha256": "45ff09dfa7d3110122214ea1b931b23511a75b86037f19e48b80b3f9c72a6ab0",
+      "en_sha256": "f6da22e8c85b2e8fa530b215ed12194a131e91404b69d3a36059bc72181c40ed",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_egoaim_resonance].content": {
+      "pl": "{0} Rezonans",
+      "kr_sha256": "79a44b7654e9b9a78cbe8566a376ef535043999c7101b5f7a4f25e6d4305228a",
+      "en_sha256": "be2bebc689c24ca65955aff50e33f5a49172fbdd5f209e08c30f10fb891af47a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_egoaim_target].content": {
+      "pl": "{0} ({1})",
+      "kr_sha256": "fa1e7180cf6c8ea611aeffecae3ff04d94f9558bbd8f2c69960ac883c1f31595",
+      "en_sha256": "fa1e7180cf6c8ea611aeffecae3ff04d94f9558bbd8f2c69960ac883c1f31595",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_egobar_aimed].content": {
       "pl": "Wybrano jako cel {0}",
       "kr_sha256": "a59cf5189cd8c2498036e56feb767f98d4c372fbc8f7749ad2a9157bf5c859a8",
@@ -868,6 +1678,12 @@
       "pl": "Oczekiwanie na aktywację → {0}",
       "kr_sha256": "e7d7d9414ef9f4b53acc549870d64639a1778897493912592bc65937ab13e748",
       "en_sha256": "974dbcd1cae05ab832fd7064bbd216a2e4eac21b677dcf7ee1d5e39763001cd9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_egoreplace_sync_label].content": {
+      "pl": "Analiza Anomalii",
+      "kr_sha256": "92c48bfa94cdf90c990c236c2c639ea41b2489a704a8ce9a00f55787edc271dc",
+      "en_sha256": "358844d8ed1b124df0d9b2b23efd54492b1705616e8c121db7bcaa9d39137163",
       "origin": "ai"
     },
     "dataList[id=limtochess_elite_back].content": {
@@ -1134,6 +1950,12 @@
       "en_sha256": "c6e0c54a1bd0038c86c1a886af98535ba227c0f90f28c203a7df4c58c676c72c",
       "origin": "ai"
     },
+    "dataList[id=limtochess_elite_replace_target_label].content": {
+      "pl": "Wchodząca Tożsamość",
+      "kr_sha256": "8839c44f2c5addd29346b8bee699a6ed3d5b39e9b7150fe97b9571dd7dbaaa01",
+      "en_sha256": "b8196ec38764cf5c67bc62b072878f9abfd9315ea7737cddf428baa3b39990fa",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_elite_replace_title].content": {
       "pl": "Wymiana: {0}",
       "kr_sha256": "2651030d46e976ad227b0f25c66d4ce4b42e029defe182d83043eb32b5fb463b",
@@ -1254,10 +2076,52 @@
       "en_sha256": "9e3c437a669ce7a9d785d5fca9e472ea4c210ad07e07d2e0bc833668a8fcd3b4",
       "origin": "ai"
     },
+    "dataList[id=limtochess_event_block_cleared_boss].content": {
+      "pl": "Boss już pokonany",
+      "kr_sha256": "2fbaf855364f2f0944f771dc3729409db8967f72b727f8bbac75643a656e2195",
+      "en_sha256": "71b72cc2dc34f24c35a3af75315f403e588a387647d258f5b1a4308223fdd89e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_block_no_boss_set].content": {
+      "pl": "Brak zestawu wrogów bossa",
+      "kr_sha256": "f526403ebab96cc54f2a18c970891a779be8ee9ca39950502f3c1d3089f1a46e",
+      "en_sha256": "9d5d997787fab342a4f65d060c390e5bd395e5970079d9854349a84a39156ad2",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_block_no_target].content": {
+      "pl": "Brak celu",
+      "kr_sha256": "b3032c58d844b96558e39ba9cb5c9cb90599ff8861630301ca773c40192af6a4",
+      "en_sha256": "93fadb714acf5179f9df9c386c07b823898edf0b636529c1271bd8a0283bcaf3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_block_not_enough_reroll].content": {
+      "pl": "Za mało odświeżeń",
+      "kr_sha256": "af92b1ef683d6d1c10272cbb1bc1ea62349f369566ee69cd4e5776aea647bcc4",
+      "en_sha256": "2e7c3979798c6da13d1854be394cdb610632da153744fb8abd628d66f7dcdd39",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_block_same_boss].content": {
+      "pl": "Tak jak obecny Boss Finałowy",
+      "kr_sha256": "7987c65049416f5ce07d570e8aae373f4c6623e15fa90801ef54f303f9a03fdf",
+      "en_sha256": "8bf975430837e46894e507fe62cc49beed6a67bf68c5766ea9d57f0af6797877",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_block_skip_off].content": {
+      "pl": "Pomijanie niedostępne",
+      "kr_sha256": "33adcf00942f15a8097850cde1c64cf496b0a65d8f6f81bc9b39a2bdb4d9624c",
+      "en_sha256": "bd6e7ebc4c5c5e56368cab0e47895ffb456294ce75e8242f70c71d7a14ef75ae",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_event_boss_current].content": {
       "pl": "Obecny Boss Finałowy: {0}",
       "kr_sha256": "8602c69bf6290c62487e93ac96b8ca817ef3c00eae7fd9622e7f63ebc557f3ca",
       "en_sha256": "48755310c586e1e4dd79b467472c358a7832be098198e380554741f393e61a46",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_boss_hidden_name].content": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
       "origin": "ai"
     },
     "dataList[id=limtochess_event_boss_name_alley].content": {
@@ -1302,6 +2166,36 @@
       "en_sha256": "afc0092438c1e7ee59d909070724b3ed4f606a236a1e4173b58417d25a67ba18",
       "origin": "ai"
     },
+    "dataList[id=limtochess_event_boss_weakness_alley].content": {
+      "pl": "[Zalecane Grzechy: Obuch · Lenistwo · Pycha]",
+      "kr_sha256": "d27fa886e3eb7014bf3533d6e43cd3bd8f5e0180348014fa493960593c0ae439",
+      "en_sha256": "4426d1260ab76735a31e7bda7916e5482f9f7d4301234532e4d1974ba74831be",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_boss_weakness_blackcloud].content": {
+      "pl": "[Zalecane Grzechy: Cięcie · Pycha]",
+      "kr_sha256": "c1aa5f0b3cd6271b17a9b2badfd772b6318284c5a5d28cbe1e815cae4a3cb3d1",
+      "en_sha256": "9dcd191edf706bd81aee6f47c3f34113550252b3544c09161104c1c636babf47",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_boss_weakness_cleaners].content": {
+      "pl": "[Zalecane Grzechy: Kłucie · Żądza · Pycha]",
+      "kr_sha256": "2a4ed79bb52da37ee0fe647b97f6f1a8b4eb09674302db294231bb2832f2ccb3",
+      "en_sha256": "23aaa4136926accd94638f683b8e21697b74dcf4b1fa01e574f4cf278f996673",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_boss_weakness_jun].content": {
+      "pl": "[Zalecane Grzechy: Cięcie · Obżarstwo · Pycha]",
+      "kr_sha256": "3f2cd2f1c30f425366bc92f87187312044569424b8a8d30989210e776c105ef2",
+      "en_sha256": "848e789a699397dd7dd26f47225d0d17b3a8379d38fbf8e6ccd1926de4dad990",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_boss_weakness_ricardo].content": {
+      "pl": "[Zalecane Grzechy: Obuch · Lenistwo · Zawiść]",
+      "kr_sha256": "62b595a0122cae52e6e37ec1bc12fb2ececee1ccad987df86b6c972901ab31ef",
+      "en_sha256": "6f9ddd9d90bf03e0a72845399b835e2dfcab47904c1eda72f47aa11cacb13e5a",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_event_card_select].content": {
       "pl": "Wybierz",
       "kr_sha256": "8d1a750c9351d1b803fc94973fe32aad800263e2cc68f1d13e8eb3539fc6a4ab",
@@ -1318,6 +2212,18 @@
       "pl": "Potwierdź",
       "kr_sha256": "1aacb54c499242964cc07e606bd5b1d628a56b6dd22267ae14202fbd35884fc4",
       "en_sha256": "eebdd24a77d9ad32222660c07777163bf5f6732df2b172351f3f8d5783e4f529",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_choice_tag_cost].content": {
+      "pl": "Konsekwencja",
+      "kr_sha256": "09decfebbdb1b0f10aa7808d80aef86adeeac8781ecde31fc443c0c61b57681a",
+      "en_sha256": "792d3730488f048cdb91ebb9b16bbb6d9e3b49dee07ea4c07009089d1e0d9adc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_choice_tag_gain].content": {
+      "pl": "Zdobyte",
+      "kr_sha256": "2d00d14fe14bdbdce8853e2db7506763f6ca18935d06ba529f362ab7c4b21983",
+      "en_sha256": "910e23d51e0858f3fa8bc3d2eb741c0cc89084fd5ab85503bc1aa4e66fe81c9a",
       "origin": "ai"
     },
     "dataList[id=limtochess_event_cost_up_sinner].content": {
@@ -1366,6 +2272,12 @@
       "pl": "Boss Finałowy → {0}",
       "kr_sha256": "b424f392a39aec2b035b92dc9b4b8590d4048f15209bf926ac677cdf71f7aaab",
       "en_sha256": "6ef959d5c418280f9b435d9a3f30385f5da95cb562339e3412c5176378f2f48c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_event_effect_final_boss_weakness].content": {
+      "pl": "Boss Finałowy → {0} {1}",
+      "kr_sha256": "cb0cebead386d0ce22b29c6955feaa8d5b5f2d863a87437aa9d4f9bcb9d342c3",
+      "en_sha256": "897f02fdbde85946c21d50887fe1959b439d11c138a95451e8ef16b9b134c0e1",
       "origin": "ai"
     },
     "dataList[id=limtochess_event_effect_none].content": {
@@ -2064,6 +2976,12 @@
       "en_sha256": "ddd8ed27d8b3961a422d03617004b19b89490bfc29b7c6d2cd14c4a3bf1f061a",
       "origin": "ai"
     },
+    "dataList[id=limtochess_gauge_cycle_state_extended].content": {
+      "pl": "Tury wspólne wydłużone",
+      "kr_sha256": "62d50b272bc8df29d11d566cb0cd32989934f751843f9d267b1cf5a94e7c1c52",
+      "en_sha256": "d9ba577f00910fc4682a6440ff94ec69627d2fa6cbfcb6ad34125e5e05165b33",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_gauge_onesided].content": {
       "pl": "Atak bez oporu",
       "kr_sha256": "cf29cf5ab984a3fdb8259a82418dd6ea230e80d5241dfaa6f6436196bd278df9",
@@ -2148,10 +3066,226 @@
       "en_sha256": "a2d23c1969b0a1aedec585930903fca5eb1ef14f39581c092e7650ba52aaf27c",
       "origin": "ai"
     },
+    "dataList[id=limtochess_ink_band_ready_buff_turn].content": {
+      "pl": "Efekt działa\nod TURN {0}",
+      "kr_sha256": "0a80398f898dda8b022edef23cf7cb3c995493823e7c4674c22f9b2d46c3e284",
+      "en_sha256": "370232683eb31fba98d59f2a57262b6b7f6230159422b1bbb138b470d3a60a40",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_event_pick_skip].content": {
+      "pl": "Odrzuć",
+      "kr_sha256": "a8ba80e8191641fd22d8fcb7128e46c99b07316d9c5acafd6ca40118c5b6eb2c",
+      "en_sha256": "a2d285b352873457207a34a015267524bb4613c3e8c961c8998da4e08e0d5745",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_gauge_cycle].content": {
+      "pl": "TURN {0}",
+      "kr_sha256": "ddd8ed27d8b3961a422d03617004b19b89490bfc29b7c6d2cd14c4a3bf1f061a",
+      "en_sha256": "ddd8ed27d8b3961a422d03617004b19b89490bfc29b7c6d2cd14c4a3bf1f061a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_gauge_cycle_extended].content": {
+      "pl": "TURN {0} - Wydłużony",
+      "kr_sha256": "83c152012c633d7fa71823f4073a2e7de43f6a4fbc839e6e6b2a11c0ad537e04",
+      "en_sha256": "123ba932b968ab2aff310498dcea9bfa3c137f1b44cf60ddff609c7b224be4d0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_lobby_run_title].content": {
+      "pl": "Konstrukcja Schematów w toku",
+      "kr_sha256": "eb567b5f55a4056294dc9ca7fcad5e39d07e276a568a00c62da2cdc778d3c9a3",
+      "en_sha256": "8d476de060204c8e2b80edf76d25e647f0db6f250a3a4147b84e0c4bdf1e01ae",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_lobby_ticker].content": {
+      "pl": "※ BETA — w okresie beta sposób rozgrywania Konstrukcji Schematów i jej wygląd mogą się zmieniać",
+      "kr_sha256": "294c38320d6b94d60e8e26ed70731ee9ded38f0a81ebdcde127391a86fbf62da",
+      "en_sha256": "6d78f014828c6dc8e6792f4d64d71911c5735480d5234e1ff3df73008ac29b19",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_map_formation].content": {
+      "pl": "Skład drużyny",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "5985039f106df054b43c3529139613bf7c2372937539f344c7c5ee47d00a0d63",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_beta_notice].content": {
+      "pl": "· Tygodniowo można zdobyć maks. 1,000 PD Przepustki grając w Konstrukcję Schematów.\n· Po osiągnięciu aktualnie otwartego maks. poziomu PD z Konstrukcji Schematów nie przyrastają dalej.\n· Nadwyżka PD z przyszłych Osiągnięć zostanie naliczona automatycznie, gdy limit poziomu Passu wzrośnie.",
+      "kr_sha256": "6a47ea9e67e5bffe2b934068fc099f8096319a001c96f19efdd8477ceb2c8c06",
+      "en_sha256": "6ace4465f96dff9b17431839a05bf3e1167b44b872796acf8169bab23447db2b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_coming].content": {
+      "pl": "Wkrótce",
+      "kr_sha256": "0fc20f412d6f3cca7b62261233d700d5804187620267391e3918abf19388dbfa",
+      "en_sha256": "be10b2f905f868ed50d992d183bec4314b7bddc5dad30b8985c5333b42db5c24",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_count].content": {
+      "pl": "x{0}",
+      "kr_sha256": "9d58d099bbdd310cf2dd592e0058ce72d8ed6c026856e456df7a5f60e4942b29",
+      "en_sha256": "9d58d099bbdd310cf2dd592e0058ce72d8ed6c026856e456df7a5f60e4942b29",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_exp].content": {
+      "pl": "{0}/{1}",
+      "kr_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "en_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_featured].content": {
+      "pl": "Nagroda za Lv {0}",
+      "kr_sha256": "6e4df3575d302310021e87576d76a14030363e2bc7398333937a15b73319b274",
+      "en_sha256": "f29e9ec8273f17ea65cb49d01253b75fd96f96177292a0c36d0cc332081f458d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_featured_item].content": {
+      "pl": "{0} x{1}",
+      "kr_sha256": "01c87b980a517967228375bf6c8c9bf435b4950937bdf50d9b9d3700e38fd4e2",
+      "en_sha256": "cae2c3d90c47b81d0cc503a5ce7809d61e2358ec2f097074d940fa0e52a4a254",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_featured_need].content": {
+      "pl": "Potrzeba jeszcze {0} PD Przepustki",
+      "kr_sha256": "d0b8421bf184a762a1073d42e3c4e7dfbfafe5e20a7e5cdc1dfdc842c055a4f6",
+      "en_sha256": "64c47f852b3459a5cfc4b804ba87d5043eb5c16a7e177fff70e5ec89088ba6cf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_featured_receivable].content": {
+      "pl": "Można odebrać teraz",
+      "kr_sha256": "3771cee6587ff7a86cad10b933fbe0192ab1da636f9304ce478b40cc67d4d6f0",
+      "en_sha256": "2b3fe826f0a3f20e5416c625fe3eec815e9ccaf3fda13c016d362e037124814b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_featured_received].content": {
+      "pl": "Nagroda już odebrana",
+      "kr_sha256": "e472aa407e7199a564638152bb2da43630f86248d2f32184c9356b18b69918c1",
+      "en_sha256": "7d7dd827b43350669473d4b588f7ffdcc6dc2eb089644b278036743d6d8bb028",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_max].content": {
+      "pl": "Maks. Poziom",
+      "kr_sha256": "b24e4cbe6dd63052e5983690bb47877bbb6bfa5ca51c80e95705b38a09c67f95",
+      "en_sha256": "2833a21298f7eaffdb34a6fcb75fcf019aabfb5e51beed66172882929a77cfd1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_mission_empty].content": {
+      "pl": "Brak zarejestrowanych Osiągnięć",
+      "kr_sha256": "c883b5b5ed549fcc57505679dcd6fc636046bfad31587fd8f0a4fcaf44a20131",
+      "en_sha256": "827f900e9a95508e3978e5defbcbcb23ed96bc5ce98daf61d03c9f7145811d1e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_mission_progress].content": {
+      "pl": "{0}/{1}",
+      "kr_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "en_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_mission_receivable].content": {
+      "pl": "Odbierz",
+      "kr_sha256": "ac91fb34503b4da43331e8a9db7e10a17b5aff94a28ed52bc170f6d3fe5e80a6",
+      "en_sha256": "4ca41db0282537009663db9b9ae8142e0e6b60812996d07075e5a9291d3d91bf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_mission_received].content": {
+      "pl": "Odebrano",
+      "kr_sha256": "7e2337801367b6ddad4f8b08d0a7238be9a58580e1287ea409dfed8b822f5eb0",
+      "en_sha256": "ddcd2779294a61f056090b2bbc47444816ff791ed0cf9ec295821e82a384ef81",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_tab_mission_progress].content": {
+      "pl": "Osiągnięcia {0}%",
+      "kr_sha256": "4a62e35b44cb3abc9d7652d639e72f46c658b3e4793b5a74d290a5d89bcb0704",
+      "en_sha256": "8c387d8573951f1df55f1691192e7374cde689ec69bfa993b38d6d34a6ae238e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_pass_tab_reward].content": {
+      "pl": "Nagrody",
+      "kr_sha256": "9444bc762474483a32354518a78024f291675dfd3bd5a3748d0820bf118c7464",
+      "en_sha256": "55ac8cbae095aacceaf1e9d9efdf022f597a39780820ed9bc24e2f3e5271c351",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_prep_ego_owned_demand].content": {
+      "pl": "Posiadane / wymagane",
+      "kr_sha256": "fe0ab05a3af5336d9b9c3bf78a68faf614263bc187df5fa824cebfefc17cd96d",
+      "en_sha256": "9821e0eaa381590226870d0aadfe25d1a117af2c8168d7fc542d9547bff60d9e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_result_mvp_tag].content": {
+      "pl": "MVP",
+      "kr_sha256": "3953f7eea41d0899c63898d11f2ec9e4900d77fadbb725b465310e0595961ea5",
+      "en_sha256": "3953f7eea41d0899c63898d11f2ec9e4900d77fadbb725b465310e0595961ea5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_auto_cost_info].content": {
+      "pl": "· Skład Losowy wybiera Tożsamości losowo w limicie {0} Kosztu.",
+      "kr_sha256": "da9ee9f48966779f090b102def294a3d91eab80433548537cdaa3446917cd9ba",
+      "en_sha256": "c51afb549df5cddd0a3aafeb131f6b52a05472ea8e143cc2d18a2cfdc6ca7dc3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_deck_empty].content": {
+      "pl": "· Składy wylosowane odświeżeniem zapisują się na dole ekranu — wybierz ten, z którym chcesz wejść.",
+      "kr_sha256": "ad370c9bcdd9e528be68dc3cd2c2a3c20471940cabac70c7dc44abbc30d5c021",
+      "en_sha256": "e04d519d3945b4ce0035c3be714393dc7b76c76b3bb1b42634b2f21a96a10d9f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_drawer_open].content": {
+      "pl": "Wybierz Tożsamość do wysłania",
+      "kr_sha256": "86defe059cc63c30f66375bd09286683a2520ecb7f413556022e7ccde6e78926",
+      "en_sha256": "447434cd9ba49465a989ac461fcbb4535fb969a9bc87265e83a55a527340ed29",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_ego_resource].content": {
+      "pl": "Początkowe zasoby E.G.O",
+      "kr_sha256": "ce833c9294cefd1b5602e5e80f2ed85c9a6c1f2cb66e72b0f48470e9dd2ac79b",
+      "en_sha256": "b7ca649317578aa9c9af31f54c359dc700a8205bd781ccaa7299b719dae52f3c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_ego_resource_help].content": {
+      "pl": "Zasoby E.G.O nie przechodzą na następną walkę — przed każdą walką zyskujesz zasoby E.G.O stosownie do obecnego składu.\n\nZyskujesz połowę łącznej liczby Umiejętności danego Grzechu wszystkich Tożsamości w składzie, włącznie z Rezerwą (w dół).\n· Umiejętności 1, 2 i 3 liczą się odpowiednio jako 3, 2 i 1.\n· Umiejętności obrony się nie liczą.",
+      "kr_sha256": "80b3aa6c9246b1b0fd8ef6d548c42ace4c66234450ccfb65600484f4dc7f4f55",
+      "en_sha256": "92334681bec492830c8766104cb4c3ca7841d382460c795b95017c579a4614ec",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_exp_up].content": {
+      "pl": "PD Przepustki Konstrukcji Schematów +40%",
+      "kr_sha256": "584f0d3f1c5899334df3917f7081c78516e1da9159f82323a45138197d516d57",
+      "en_sha256": "de9a3b8031ac15faac717ed855bf05d903efc71349a29d27fc0bb3a1ee687772",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_primary].content": {
+      "pl": "Rozpocznij Konstrukcję",
+      "kr_sha256": "a992f2c2047b37d0a3a1f84506f00fe0a40059aacde751e1de0daaadbb539012",
+      "en_sha256": "0787b7179df2039f3f0de6d6b53dfd37dbacbfb6d6fa6aa25dbcb6a3e301755f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_reroll_caption].content": {
+      "pl": "Pozostałe użycia",
+      "kr_sha256": "f4065173fb1bda10fb99bb7cf4c468b8636abba4bc54240b64805a6f10381432",
+      "en_sha256": "a04d596cbac7ca8bc8ae72f91c653475139417a7a67b48cfbccac8631b5b91aa",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_ink_start_reroll_info].content": {
+      "pl": "· Maksymalnie można mieć {1} odświeżeń Składu Losowego.\n· Każdego dnia odzyskujesz {0} odświeżeń Składu Losowego.\n· Po zakończeniu Konstrukcji Schematów możesz zyskać do {1} odświeżeń stosownie do postępu.",
+      "kr_sha256": "eaa74290db9c06e92f0967f434ca7003ef88d5e72afcdd6d3b507c5348d93a4a",
+      "en_sha256": "9b3fda4109644e30305cd2bc918fb464bc6c81e9d3ca76ffe42e689ecd8e281f",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_level].content": {
       "pl": "Poz. {0}",
       "kr_sha256": "7233dfd01f5d9a17019c48b1115064880c38ae94b245bd317ba1a10634621c89",
       "en_sha256": "7233dfd01f5d9a17019c48b1115064880c38ae94b245bd317ba1a10634621c89",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_level_bonus].content": {
+      "pl": "Lv {0}+{1}",
+      "kr_sha256": "e5cb81487b829e3cab49a5a5f5cd65a6e27bd0a0160f3469ce7a66d8802b1dda",
+      "en_sha256": "e5cb81487b829e3cab49a5a5f5cd65a6e27bd0a0160f3469ce7a66d8802b1dda",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_lobby_run_level].content": {
+      "pl": "Poziom Tożsamości {0}",
+      "kr_sha256": "f55935f22e9ae8a707cea72a2c5a68e59b64b30f2c119a79df3c66fd10998aba",
+      "en_sha256": "788bb1d3edaeb17d3838806ef6a6c959e33fbbe7b681e986b90f6591a5b2594f",
       "origin": "ai"
     },
     "dataList[id=limtochess_map_elite_conversion_warning].content": {
@@ -2364,6 +3498,12 @@
       "en_sha256": "306bef66b33d101be406caf7a11feb2147ad19f315a24626661064319b1fc00c",
       "origin": "ai"
     },
+    "dataList[id=limtochess_notice_roster_cap_up].content": {
+      "pl": "Maksymalny rozmiar składu wzrósł z {0} do {1}.",
+      "kr_sha256": "6f271f958232d119e68d34e11a9c55998f8d328232c9c11c2ec0fd0baf60e7a8",
+      "en_sha256": "fa355acfa568d7b03539fb6e79a7f60046a595694609fcc4db8d7df66cd4146a",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_notice_run_in_progress].content": {
       "pl": "Wykryto zapis rozgrywki. Kontynuuj przez „Kontynuuj”.",
       "kr_sha256": "843586c6a316ce4007ab299d18bb06649765b558729e827acd74f5d4ba2edc79",
@@ -2386,6 +3526,12 @@
       "pl": "Tożsamość {0}: Synchronizacja {1} → {2}",
       "kr_sha256": "d75b433631ee852b7b961fc998c43e4781ec02389729b56c8b8bd3499bedaeca",
       "en_sha256": "dedb776709b9f24a7b18ac26b98f420ac35c7c0d218836ae7c9401188c5cfc09",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_option_retry_left].content": {
+      "pl": "Pozostałe ponowienia: {0}",
+      "kr_sha256": "0eb90561b15dd3ddb052accd1ab970253657a6df7db7a7a46448bdeb177b2d5a",
+      "en_sha256": "e7715335bceb77861c78ecf79e176ce9645d9dcb961fe1d0546137a7388c2f48",
       "origin": "ai"
     },
     "dataList[id=limtochess_pack_cost].content": {
@@ -2442,6 +3588,12 @@
       "en_sha256": "b8c0b24f930c11404f3ced2bbea97e225210e471c445106cf86d5f7718fe9daa",
       "origin": "ai"
     },
+    "dataList[id=limtochess_packpreview_detail].content": {
+      "pl": "Szczegóły",
+      "kr_sha256": "bc63a54b181205e20bf2ca1f02a0c2225eb7b013bd7de29175d37bd1fd88ad61",
+      "en_sha256": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_packpreview_grade].content": {
       "pl": "Ranga {0}",
       "kr_sha256": "41a400fb192f1ab305028e605e433e4273f137f8b1619bfb67d351632ca2e0f6",
@@ -2458,6 +3610,24 @@
       "pl": "{0} / {1}",
       "kr_sha256": "0b537a35a86629bd59dddf0758c8edd86bbb0a340c0ba194449b7996e5247a5a",
       "en_sha256": "7591feab2d1dfce4d0ca2b2a9091fdac2369c058a1165a4428edbd65573f7d64",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_boss_reward].content": {
+      "pl": "Nagroda za pokonanie bossa",
+      "kr_sha256": "6ca3a01a4cb321f674188e7698aa2d6222a36094e0c7ad7f514ad8135665403d",
+      "en_sha256": "5c77707fc478cb259acdce91d6e9247779a52c0b28eaa7525ad67b32f418cdd4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_cap_desc].content": {
+      "pl": "Wybór usunie 1 dotychczasową Tożsamość",
+      "kr_sha256": "591a46036ff00d551456365891491fed8b0cf33635fce3ef4d0a8901ee34a63c",
+      "en_sha256": "f6eb5821e3eb98d0bff8563ab4c26ac0ce127d9966657a959b7286a94ed2f932",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_cap_title].content": {
+      "pl": "Skład pełny",
+      "kr_sha256": "89a5eb9190005aa447543976eb4827b38d0d35e7948de161d4d970c374205a51",
+      "en_sha256": "b297ce16a57790d671deab3950923ee43a8d45d09997acbb8911bdcd6ee811a9",
       "origin": "ai"
     },
     "dataList[id=limtochess_packselect_card_reroll].content": {
@@ -2530,6 +3700,12 @@
       "pl": "Po wybraniu zastąpi obecną Tożsamość,\n[{0}].",
       "kr_sha256": "92fd8772f92728d3e3f3e2dafd5241218387194b27906d570fb42e021c91d9df",
       "en_sha256": "b30fa4f98d76376c8bdf4f3fa30c046f9cd31de2dd9e8d66e0016f088110bd0f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_ego_same_grade].content": {
+      "pl": "Wybrano {2} E.G.O ({1}) dla {0}. Po potwierdzeniu wyposażysz tylko 1.",
+      "kr_sha256": "dd256efc09b07b2d410fcc8abf6c5de6e238446bdf6f079df674459dcca2539f",
+      "en_sha256": "c733d4610411d05963501af4853959e943a6b42d403bbf45888a76ca8f72680e",
       "origin": "ai"
     },
     "dataList[id=limtochess_packselect_ego_tier].content": {
@@ -2670,16 +3846,46 @@
       "en_sha256": "6bc82c2fb1e0b8a4278fea78128b6f0ae00302e119a6abd4feac99ae0b0acf8a",
       "origin": "ai"
     },
+    "dataList[id=limtochess_packselect_roster_cap_short].content": {
+      "pl": "Limit składu: {0} — brakuje Grzeszników do wymiany. Zmniejsz wybór kart",
+      "kr_sha256": "4339d42af9627a27140edf4f918cb7482abf39e605f335e6d7f2b45734a46190",
+      "en_sha256": "ab14b3647b51392ac9a60176d08f9afa769be5af07b3a79d8e2d97d8bb708216",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_packselect_screen_title].content": {
       "pl": "Nagroda za walkę: Wybór Pakietu",
       "kr_sha256": "25c8b0be50981ec0c117eadf7216b46666708b90744962b1773378b056775af3",
       "en_sha256": "364fc78e2bbf783abc45913d037e5e75d931dafb037b2eff709d5647b21013d1",
       "origin": "ai"
     },
+    "dataList[id=limtochess_packselect_slot_reroll_ego].content": {
+      "pl": "Odśwież",
+      "kr_sha256": "8259f9d353516e60d2990fbd0630ae3c0d082f46a47b18426f9fa6025af79f52",
+      "en_sha256": "24ab205a02fffe0fe0223dc041be048135351b78cae94c04c035fca9bcea8bd8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_slot_reroll_identity].content": {
+      "pl": "Odśwież",
+      "kr_sha256": "8259f9d353516e60d2990fbd0630ae3c0d082f46a47b18426f9fa6025af79f52",
+      "en_sha256": "24ab205a02fffe0fe0223dc041be048135351b78cae94c04c035fca9bcea8bd8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_slot_reroll_used].content": {
+      "pl": "Odświeżono",
+      "kr_sha256": "629a58cf37cc823a82d97831c7dd31aaec4ce1d94404b51773e3b248f0051c59",
+      "en_sha256": "f6701c8c1d5ca525ab0213349e39f34cfa8a25a39041c6752c936b0faf7807c9",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_packselect_summary_ego_equip].content": {
       "pl": "Wyposaż {0} E.G.O",
       "kr_sha256": "c13e336ecb1f1932fd1e4a77ba9d58cd819920ef3570d7dbf1029ad268670d61",
       "en_sha256": "d3bad643aaf6cbfc35a0ed6efd7bfc5adba19043af587c17677bcfe8cdd0ccf1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_ego_keep].content": {
+      "pl": "Schowaj {0} E.G.O",
+      "kr_sha256": "0fd8ae9a9b8aa65cf020883249f4b9d843faca3420fbcea1b7d8f779615381f3",
+      "en_sha256": "fabb3ab5950bec926548d572b04614719173a5a17dc9310c07b74cbdebc2cf42",
       "origin": "ai"
     },
     "dataList[id=limtochess_packselect_summary_ego_replace].content": {
@@ -2754,6 +3960,30 @@
       "en_sha256": "b035c41573efc3c581fab78778b2157b0d2b17d6938b9693fa4f22ea86d13c00",
       "origin": "ai"
     },
+    "dataList[id=limtochess_packselect_sync_keep].content": {
+      "pl": "Synchronizacja {0} bez zmian",
+      "kr_sha256": "2dd24d3bec519f58e2508321ff04b13e24f7810c7f02aab85ecbe4edf6ea74d7",
+      "en_sha256": "6863f5e6137d4c86aca959052bbed3ca03345fc96407f330b9a4495bb2c82942",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_title_elite_reward].content": {
+      "pl": "Nagroda za ukończenie Walki Elitarnej",
+      "kr_sha256": "e2e28d3dee7a2d1d69c572fac4568571f7b8ccb65171ee86cadaf7e97a81b1f2",
+      "en_sha256": "98861601f01e3bd879ed47c917b9c61409fc6ca9b0ae95c4130ed65fc45072d6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_title_event_reward].content": {
+      "pl": "Nagroda wydarzenia",
+      "kr_sha256": "5145c47c6f8d32af9076b4f99ba5dea2e749bf6ebbe0f04452aaff7091a757b6",
+      "en_sha256": "d2effed3877e231493f51c7dcd9e94cd788babef306c8246baeac061b5823e18",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_title_normal_reward].content": {
+      "pl": "Nagroda za ukończenie Zwykłego Starcia",
+      "kr_sha256": "478466d55742c02528cee296fc265de1153d6e80b93ff1e4b69003a9ed6bab9f",
+      "en_sha256": "a6a699ebf74487147fd468a8974397bd69df55002999e24bf57b14eb6f526a42",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_packselect_toggle_fragment].content": {
       "pl": "Okruch",
       "kr_sha256": "652d4b53b484a0620da2dbf7517e2c0f9ba2b0549d75e79340bfdda3bab14383",
@@ -2772,10 +4002,28 @@
       "en_sha256": "95e154398a4bc0091aa4d6b607472ac5a89e41fbc84a3a49f823314d6de9eebc",
       "origin": "ai"
     },
+    "dataList[id=limtochess_packselect_toggle_replace_ego].content": {
+      "pl": "Wymiana E.G.O",
+      "kr_sha256": "58c239530b70ffadd45225fa3488b8a43f42bcde6bcccbc2f8cd1be6233264e5",
+      "en_sha256": "4067381d0a228ffb2e44921bb9718bbfd3f762fc1f6b57d394d057a119ee6ea4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_toggle_replace_identity].content": {
+      "pl": "Wymiana Tożsamości",
+      "kr_sha256": "4ef4cf953d7833332895e2e3d1e90fafaa534bfc45b46652200a6270635931c5",
+      "en_sha256": "71061033d2c7425061a74bdf78081656e9068753755f777a782eed6d659a9393",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_packselect_toggle_syncup].content": {
       "pl": "Synchronizacja",
       "kr_sha256": "fe9b2d87551c1dce7451ef1aa9309fea62834cf477c76d11acd3be1fe2a92dd1",
       "en_sha256": "6ba9ca0217012cc107a466c39ddbeb5d3f210cc8da43b52d8db78f344359448b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packtip_chance_head].content": {
+      "pl": "Szansa",
+      "kr_sha256": "bf7f08b3cb54dc63d51fbb81d598f1473bc7c6daee81f1098336085cc61ce9fe",
+      "en_sha256": "e0382a0130bda601c79b321b61af5b7d5db47ebaa144d7e6602d5aab731b8395",
       "origin": "ai"
     },
     "dataList[id=limtochess_packtip_chance_line].content": {
@@ -2788,6 +4036,36 @@
       "pl": "COST 0~1",
       "kr_sha256": "121943f5243f3e160f8a5a00c16b041d837588008e4f3daf49aef99cbf5964cc",
       "en_sha256": "121943f5243f3e160f8a5a00c16b041d837588008e4f3daf49aef99cbf5964cc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packtip_deck_match].content": {
+      "pl": "{1} — {0} Tożsamości w składzie",
+      "kr_sha256": "06f063ecc176ddea428f7f924c46046aa49dc6e7a930ae3ecfdf2b75c254396c",
+      "en_sha256": "5297355923100ea476d2daab5b97672ca2558ca6e2a53d54c68c3f1c5228c3ac",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packtip_ego].content": {
+      "pl": "E.G.O",
+      "kr_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "en_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packtip_guarantee_head].content": {
+      "pl": "{0} gwarantowanych kart {1}",
+      "kr_sha256": "8c22c6ba43e5705e3b4bdf015eb8adedcd000b3370224d3570c6f868a33613d2",
+      "en_sha256": "ec181210a6987997b54d5cd12bc2751ec78e985e64a03b9717fac453a55156c7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packtip_identity].content": {
+      "pl": "Tożsamości",
+      "kr_sha256": "6d270e76fd91b9dfc77fcb9a6f5601ea61ca74046f8914bcb74fcb83c74426ab",
+      "en_sha256": "999f23fcd7bec7075e54bb5dea0d9c548bfe7261f95b911ed8e23d2f4188724f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packtip_keep].content": {
+      "pl": "Wybór\nmożliwy",
+      "kr_sha256": "3beff25579997ad4218a02cf1c457c4f0996d17967db344847d963ca40d31545",
+      "en_sha256": "dd099a692e6c379fa98160e5b7393f6d96100623a240b7e28cb5e92bbfc5f687",
       "origin": "ai"
     },
     "dataList[id=limtochess_packtip_percent].content": {
@@ -2808,10 +4086,46 @@
       "en_sha256": "64a1b002921e48494120af5ccb0b0166a2a96355f2b6edcab1e858574be57e6d",
       "origin": "ai"
     },
+    "dataList[id=limtochess_part_focus_6011_pole_broken].content": {
+      "pl": "Zniszczono Telepole",
+      "kr_sha256": "9d31f583d953056c3456c12b47914b1ef79ea2a23332de2bfbf25d1f53a4e5bd",
+      "en_sha256": "b7c8d7471fa8d8bfda7887fc34a54028cfad2d34b5da63a1e9fd3731212e312b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_part_focus_6011_pole_failed].content": {
+      "pl": "Nie zniszczono Telepole",
+      "kr_sha256": "48963dc7a505e45ddf18e83ab0abb1652e964d729624cc5eaed286b61a776e3f",
+      "en_sha256": "44855427b272be8c8a674bc09e7e1caac7bd8b6de02a2e8424dcc4f175479ce3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_part_focus_6011_pole_imminent].content": {
+      "pl": "Czerwone Wyładowania wkrótce",
+      "kr_sha256": "3028296c1748b51f0b6eaa6e2aaa14d0d2ddb6faa549483181378b057369142a",
+      "en_sha256": "ce6615c2dc17342fcaa42c0817c9fbcd6ecdacde9204e0ad5c103925d8cc400c",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_part_focus_header].content": {
       "pl": "WARNING",
       "kr_sha256": "86f56fe8221f029db2c9755cc998669a7d873c32bfa83bc9431bafe0bb814400",
       "en_sha256": "86f56fe8221f029db2c9755cc998669a7d873c32bfa83bc9431bafe0bb814400",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pass_level_up_popup_name].content": {
+      "pl": "Przepustka Konstrukcji Schematów",
+      "kr_sha256": "e824123c7f4ed88b434ff55170dc9719fba0db343a26f260e279315df95045ce",
+      "en_sha256": "b1eceffc7b110e1eba49dbae34a61ac51dd3c5326c4dd283bc20a78e7e30c485",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pass_level_up_popup_title].content": {
+      "pl": "Poziom Passu podniesiony",
+      "kr_sha256": "a2b6375f5ba46e8dc6a58f6e1a2d387ab0f052435a446832e355627504a6035c",
+      "en_sha256": "9f0a084018cce094af495957c05577285d9d35517a4fa11756e0a5381f9062c9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pass_weekly_max_limit].content": {
+      "pl": "Tygodniowy limit PD Przepustki",
+      "kr_sha256": "a0b160175e78123bbc3111460d32411300869546655f012cca386c5c5c8e22f6",
+      "en_sha256": "bd4c690ee041fa51e7773e2cce97fa381380d18063a831126cb3c7d5be9686ba",
       "origin": "ai"
     },
     "dataList[id=limtochess_personality_name].content": {
@@ -2824,6 +4138,12 @@
       "pl": "Sojusznicy",
       "kr_sha256": "55c35f36a1a8c45b5fad1d77d4246d2423b4efe2288591a2150710579ebc4109",
       "en_sha256": "177fd547e13732ad1d524e8f9ef63053fedf9a87bef70196aa92ba05e96327e4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_report_axis_round].content": {
+      "pl": "T{0}",
+      "kr_sha256": "02f7ca1a13dcc0ffcfc8318d66036631002318f772284fcecd84c101db4830d6",
+      "en_sha256": "02f7ca1a13dcc0ffcfc8318d66036631002318f772284fcecd84c101db4830d6",
       "origin": "ai"
     },
     "dataList[id=limtochess_report_continue].content": {
@@ -3060,6 +4380,12 @@
       "en_sha256": "c45d59e469d82c02b98ac730c283bc6127156c3cb80b734cdb83bf4ccf0e4a72",
       "origin": "ai"
     },
+    "dataList[id=limtochess_report_to_formation_retry].content": {
+      "pl": "Zmień skład i ponów",
+      "kr_sha256": "7273d5b0df114d751f795daf4c8bc4dcb4b215c75eeffc362d1e969f0c1ca26c",
+      "en_sha256": "3c31b30cf264f611442c31c840256175c5eb3d861d7aabc5758cf294ad40640e",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_report_total_ally].content": {
       "pl": "Sojusznicy łącznie",
       "kr_sha256": "ff888a494599b178ad5aa173f57c2564143fa4ce20aac3525828cefe71f5d0a0",
@@ -3124,6 +4450,12 @@
       "pl": "Brak Tożsamości do synchronizacji Okruchami Uniwersalnymi. (tylko Synchronizacja {0} lub niższa)",
       "kr_sha256": "83e5aa2abe08e62e2db888d5f31c1d54deacef9b8cb93405ec86803e2e70484d",
       "en_sha256": "fc8c8b97f450e789bd9864a3fb14ee1728a3514132309b9baf38d2e2bfb6c094",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_rest_generic_short].content": {
+      "pl": "Za mało Okruchów Uniwersalnych.",
+      "kr_sha256": "ea2e0ed329667cda0cad44c84b18f97c4a070871801f410d99fe1dc27a6eccb9",
+      "en_sha256": "fa6cf1ed00f7b39a0e75dd4eb66f7541d7054e16c75748532ea50167b5e58822",
       "origin": "ai"
     },
     "dataList[id=limtochess_rest_generic_title].content": {
@@ -3214,6 +4546,12 @@
       "pl": "Tożsamości nieposiadane na koncie mają Synchronizację ograniczoną do {0}.",
       "kr_sha256": "0562d19c8e95cdf4417143e649db635506c29d13d105baac85b7d5b604a33ab9",
       "en_sha256": "cccd1c9465f71cdc329efe17ac2e87943cfe5ecbeeebddf4a49b83a5c49fedc7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_result_dmg_label].content": {
+      "pl": "DMG",
+      "kr_sha256": "5d6b5c297a9d9a08b374f9d81ea803eec55c6ca189fc842aed44168af14e7687",
+      "en_sha256": "5d6b5c297a9d9a08b374f9d81ea803eec55c6ca189fc842aed44168af14e7687",
       "origin": "ai"
     },
     "dataList[id=limtochess_reward_face_sync_personality].content": {
@@ -3468,10 +4806,178 @@
       "en_sha256": "abaa46adb4e13ab2e7202ad1480a4182fde02f70e2e8ac27eb8b8dd04dc3c427",
       "origin": "ai"
     },
+    "dataList[id=limtochess_roominfo_choice_1].content": {
+      "pl": "Opcja 1",
+      "kr_sha256": "493dc8e6b05226f5ab448841e359a4af84e00025597eef613677ba2ed30664b5",
+      "en_sha256": "fae2db093e1dd31042e8ab9427e8673a70c43f4bc519235d9a232efad60769aa",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_2].content": {
+      "pl": "Opcja 2",
+      "kr_sha256": "0e2eb3a98cc1c0641ca8da1f1163151bf1bab8a55354ca76b12d7ca5fb5ddb85",
+      "en_sha256": "206b16770f1f7a6eeab74786ad3c033beb3aa0e0ec4943f39890fd528c54e445",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_3].content": {
+      "pl": "Opcja 3",
+      "kr_sha256": "38f8b4afa1be8e2b894518cd0da2f348586a11d0a6deea53274ba2c195a67b76",
+      "en_sha256": "55d63781de0ecc02c4188b2e689af9621f56d381f9494bd88343a2bf50d5ba2a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_4].content": {
+      "pl": "Opcja 4",
+      "kr_sha256": "5d12005c959114d69570c927d9e1b27d8ca611f8e377eea53541259025304d8f",
+      "en_sha256": "a1fbe409625f1e3e490b0ef29f54833e18c7bc408f8dcc6324d241de15c52e1e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_5].content": {
+      "pl": "Opcja 5",
+      "kr_sha256": "778ee5277f158ae2e4ca109e0d8e140607c3d71df2b5bdb81db32570d8a8de9a",
+      "en_sha256": "fcd9ff3c0ad9d7c95b5b545cc966ca1a9b27785de9d9fe7e45364e4286df6476",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_6].content": {
+      "pl": "Opcja 6",
+      "kr_sha256": "d56e7e6e30f7abf09a01ab8293e0c54c376ffecfe43ba392b9cd523942699a0b",
+      "en_sha256": "8bb87e4c8f60b507f8309165bfa62d1f58f5cc419d84ff2f7b78f88ec3602467",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_7].content": {
+      "pl": "Opcja 7",
+      "kr_sha256": "93abd53b77418b273c9e7a7d5c076b632e0ec4cafdd7ffe1f8d12282a8916edd",
+      "en_sha256": "a944c5069f0b12f594e01882c1f452af7264c713723af39d394c83bfefcb3ab5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_8].content": {
+      "pl": "Opcja 8",
+      "kr_sha256": "92c113cbb0ab42c20ce0421723d7cc5df79eb565e1fdcfbd04463b6a801eaf7e",
+      "en_sha256": "6db039ea850b5df8ff12933a732640777a8fedfd36aa1a16bf2f29abe9b2cf0e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_choice_option].content": {
+      "pl": "{0} · {1}",
+      "kr_sha256": "cd55a9d95751fb9bb9e4a0988dd7ae3b08c7b49d0a28ba51cd94d9bafe6a27d0",
+      "en_sha256": "cd55a9d95751fb9bb9e4a0988dd7ae3b08c7b49d0a28ba51cd94d9bafe6a27d0",
+      "origin": "ai"
+    },
     "dataList[id=limtochess_roominfo_effect_hardship].content": {
       "pl": "{0} lub {1}",
       "kr_sha256": "57df068869d7ec35475f488306ce2c4c82be2981ce3527355414d88427be55de",
       "en_sha256": "fbdd2eeb56a52a798e7b89e7f96d88ac824fe2fdf219e9b87d5f0876f27d46cb",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_ego_keyword].content": {
+      "pl": "Wyposaż E.G.O Słowa Kluczowego",
+      "kr_sha256": "6034bd775a9eef091dc8299d76adb631ffe43bfbb54743ae71ee8dd9bb511c79",
+      "en_sha256": "8e0f311af7ea6f81dbb11e43ea6a8cc17aa40bfbedee6ee22baea816fd632cb6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_ego_pick].content": {
+      "pl": "Wyposaż E.G.O",
+      "kr_sha256": "7a766844e8ea5b2c70709ce5b8c1a460fed901865b7ef49042b3afca27cfba67",
+      "en_sha256": "db618fd69bcd4402bbbcf7cbf737d300a5082f30ea737774c2a669eca3f95003",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_final_boss].content": {
+      "pl": "Zmień Bossa Finałowego",
+      "kr_sha256": "79375e422001bd1fca97a27648e4a6be6b7dfd75c915ab6cbfcb2bac4f9022c3",
+      "en_sha256": "0a9bdccd8f21e5d14ff1dbe6473d04fa104b604f42ca6bea2d7a3eb58e6c56a7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_pack_grade_open].content": {
+      "pl": "Otwórz Pakiet rangi",
+      "kr_sha256": "da4c99fa9210de2c32bdace6b98ce54b165ff89bb24e5b3fcb3062ae7037ddbf",
+      "en_sha256": "d6f3c1cb8fe3c96770100796696f867c0e2d13a13b90258ce4b2352a5a6c4112",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_pack_keyword].content": {
+      "pl": "Zdobądź Pakiet Słowa Kluczowego",
+      "kr_sha256": "b437db0e8ce1249b8e52fe08a7dd738589c4f5f1b5ca46253adc89890bda3db0",
+      "en_sha256": "532ae9fe3975415f15c7252042b39039632990747c80fd7d5dc7b8086cb39084",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_pack_random].content": {
+      "pl": "Zdobądź losowy Pakiet",
+      "kr_sha256": "627325ebbe374d50c9f7d8b4337ee8f8c509ce9dccec4a88b571cc83e852e970",
+      "en_sha256": "68cd94dcdee7dbfd6600f7845985e12b0b807ccb22b56fe8cc2ba1f7f8f30755",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_recruit_pick].content": {
+      "pl": "Werbunek Tożsamości",
+      "kr_sha256": "cd965f52148916b094a47333c36c7c731ac56e0ac2c9d3ea0eb0f2e9f7fe5c9b",
+      "en_sha256": "59f7b430b12aac74d4ccb826bb7813d26011b4dacf9805a776245cfb30001d6e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_reroll_segment].content": {
+      "pl": "Szanse na odnowienie",
+      "kr_sha256": "5782976f06b72037ea42bcfd70161165d66dc567e10822173dd65a7c4ed3f702",
+      "en_sha256": "669417ad84f1ec3795adc3a3ad98e5b058df2aeb508d32e29659afbbc668c328",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_reroll_to_generic].content": {
+      "pl": "Zamień na Okruchy Uniwersalne",
+      "kr_sha256": "44a3d52c3b3489d6f5b740d3dcc8e93d98362e2ca53b50522346ac59a1014268",
+      "en_sha256": "70e7731154bb1986c2a9fa8318b08974400c4427bb37f4ef6e1e862655550d66",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_stage_unlock].content": {
+      "pl": "Odblokuj Opcję Bossa",
+      "kr_sha256": "cc5eeafd70d01df067fa3d99d2e41b415a084f679e6c33b389d1ebbef72d4083",
+      "en_sha256": "dfbeb6a85d0f857da506816be802eadc357c032c031603d264992f57e99dd627",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_affiliation_pick].content": {
+      "pl": "Wybrana wymiana w tej samej Przynależności",
+      "kr_sha256": "009c2df663b6ab76ef8dc16421f644c6f636eb3bbbadb74b6ac02098cd7a4d67",
+      "en_sha256": "e635ea6a1b56d07fb96b7958e8ae69c7b628cb62de1e1e75c641d669f18864db",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_affiliation_random].content": {
+      "pl": "Losowa wymiana w tej samej Przynależności",
+      "kr_sha256": "643dc115dbf8c4e3511aeee9d126e125ca1a8f0e8c373ba45f651523ddc45f8a",
+      "en_sha256": "2fea5014e313bd8b26bed2f3a76343c5ddebde07b1ec8440fccda1ca2beb4d49",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_all].content": {
+      "pl": "Zmień cały skład",
+      "kr_sha256": "ff4f14ae9a268bd08b463c5cc4e3e76445f72d34c8ec5496d2a0cfc65008f4d1",
+      "en_sha256": "4aae4e5ec226a691094289d2b14f9d9746144014bf52eb3ebf7a0f76452540e5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_cost_up_pick].content": {
+      "pl": "Wymiana Koszt +1",
+      "kr_sha256": "65546bb0b9030704e87c344111ce50f9211954e2173f17dee59446085ab9665d",
+      "en_sha256": "f2e83c35b0f1c30cc23387d5d34b8dd80ea53349fd1c2376bccd7c52cd78cfcb",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_one].content": {
+      "pl": "Zmień 1 Tożsamość",
+      "kr_sha256": "2aec8bf4e8fa05abbf44edbb7c4a4afbf0a65e40417477453b0c7dd575947109",
+      "en_sha256": "09dcbaae4d0a5440fee9294d759544fead1f7bd9971d1e5b97f64195251a59c2",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_one_pick].content": {
+      "pl": "Zmień 1 wybraną Tożsamość",
+      "kr_sha256": "e8613dc90399a6134b6afb1e95ebc6bbe12a0469889d44b3b1aad6cb2cc10b02",
+      "en_sha256": "2e04803d068af674fa94c5c818f11f783e9a029e4a8716ecea5858aaec19fce8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_swap_pick].content": {
+      "pl": "Werbunek i wymiana Tożsamości",
+      "kr_sha256": "8b6ac215b3920912b45df61cea491415755b958179da1255c969e5af31c8fd1c",
+      "en_sha256": "60d29b0fb42d0937e7ee1480608dbedea935e69f92c82c5976f1de903adbe610",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_sync_pick].content": {
+      "pl": "Wybierz Tożsamość do synchronizacji",
+      "kr_sha256": "74309e3e35d8579af217fd4810294c4848e480db426297f5ef6781720c59594b",
+      "en_sha256": "2939f07c84854f35d56ae21650b3f01ec3c90194d607129664da1734ff719669",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_effect_name_sync_random].content": {
+      "pl": "Synchronizacja losowej Tożsamości",
+      "kr_sha256": "fdcc324d7a18462bfdebf5729c9577513d1a77a121e91703673c69453b3e741d",
+      "en_sha256": "ff6cb7286cb123c825925cee1a18cfeea728806527e34c7b013f23f68491720d",
       "origin": "ai"
     },
     "dataList[id=limtochess_roominfo_enemy_avg_level].content": {
@@ -3508,6 +5014,18 @@
       "pl": "Wyjście bez wyboru oznacza brak efektów i brak prób",
       "kr_sha256": "51e137a7fde0d3affdaad4188f43d1832ac6a2c71449a235a242dc842cde4a28",
       "en_sha256": "bd7e4d9676923a1db4a3a31d31a12638917e63c46a2724bcfb58e5781765a4a6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_event_skip_head].content": {
+      "pl": "Jeśli nic nie wybierzesz",
+      "kr_sha256": "413e42e7e29d76e00b9e6abc024e7a3fa4d4f95fa77c6ae26e7f4b3efb924657",
+      "en_sha256": "8f26926dabcea62a8a57cdbcf6cae57da15736297bf46775b3ebe4abaa6f0447",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_merit].content": {
+      "pl": "Nagrody za zwycięstwo",
+      "kr_sha256": "90316b700e52424c3364c200c27f5a26888aa96bceddb196e5ce036de270a1a5",
+      "en_sha256": "5cdc0ed6b2dfe98ed62b4eb830da2bf656e077d325676d268edc9193bf20a198",
       "origin": "ai"
     },
     "dataList[id=limtochess_roominfo_list_penalty].content": {
@@ -3556,6 +5074,30 @@
       "pl": "Po wejściu możesz wybrać Tożsamość lub E.G.O do otrzymania (możesz też niczego nie wybierać).",
       "kr_sha256": "e3c2b1a61dd329f6630626d3fa012704b48b9356f17fb23cfea982d3b9fa1fb7",
       "en_sha256": "33be5abd40c4ec80fb8ceb772c811f502e6dbe23d262cf2ed6e6630850756c3e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_merit_elite].content": {
+      "pl": "Wybierz 1 nagrodę elit (Wymiana Tożsamości/E.G.O, Skład albo Synchronizacja)",
+      "kr_sha256": "b429385517e1a601efdac276dc81f268335d0b393efecdf0fdb53036bd277b31",
+      "en_sha256": "fcb332e005581945581c7c8fb4ab35eb6a9338a3f2f324e1cc070a9254cfd575",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_merit_level].content": {
+      "pl": "Poziom Tożsamości +{0}",
+      "kr_sha256": "29c7b071450e59e13e02984489538434b76b52d8b148f7bdc2d5e97f07fd4fb8",
+      "en_sha256": "fcc61f419c90c4b0994d921e6b096427478d426bdcc2112ec08b2186ea67eaa9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_merit_pack].content": {
+      "pl": "Otwórz 1 z {0} Pakietów",
+      "kr_sha256": "2e7d7879c27783bda72b0a3477f4aed3fa3fae3f879c1c8477daf829f5740249",
+      "en_sha256": "9f3d1cc6d3983988761d78dae763b0f85a5ad97805dda83a1dc33511c0db0534",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_merit_reroll].content": {
+      "pl": "Odświeżenia +{0}",
+      "kr_sha256": "cdb32b00175a069083ddaa1b48a16c5c61a38d1231aea83e8f8318f01622165a",
+      "en_sha256": "b2c386a3054b15bb31000fb354df92a843f593869f23ed45c2bc6b086a7fe4ba",
       "origin": "ai"
     },
     "dataList[id=limtochess_roominfo_move].content": {
@@ -3688,6 +5230,12 @@
       "pl": "Osiągnięto maksymalny rozmiar składu tego Schematu ({0}). Usuń {1} członka(-ów).",
       "kr_sha256": "70a11789f203329c063e5f993bbddb411982b69d65511b708ca66e6311fd973e",
       "en_sha256": "0666832256a4674ad44bb4b485e8dce30e9cca8baae2c44746c90ed920e7b80b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roster_replace_power_now].content": {
+      "pl": "Obecna Siła Konstrukcji",
+      "kr_sha256": "f729cdf2ecc7e561d953b4d5af6dffab25f3fd062d4c3a09dbd52b0e2587e219",
+      "en_sha256": "3f3d4e3a0fd591b3272746dd2c23a5497d5cda4f268de486297bf84f74a1d35a",
       "origin": "ai"
     },
     "dataList[id=limtochess_roster_replace_sub].content": {

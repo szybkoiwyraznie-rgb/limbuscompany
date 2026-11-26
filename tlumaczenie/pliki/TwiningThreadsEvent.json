@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=twining_threads_bonusUIDesc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości, zwiększasz zdobywanie <color=#5c53e7>[Odciętych Nici]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#5c53e7>120%</color>.",
+      "kr_sha256": "a5b00e6b241097238ead834d16a2b4da2227b9658e29a7f4dcd009f6c32e594f",
+      "en_sha256": "e4e18f0c8abe4f93f6a44b3a489eed0d0a04aec9d2f2baa5c817367ec8b8e6cf",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_rewardShopButton].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_reward_popup_desc].content": {
+      "pl": "Ukończoną pierwsze etapy wydarzenia i Głównej Opowieści albo Lustrzane Lochy, zdobywasz <color=#eeeeee>[Odcięte Nici]</color>.\n\nW oknie <color=#eeeeee>[Wymiany nagród]</color> możesz kupić różne nagrody za zebrane <color=#eeeeee>[Odcięte Nici]</color>.",
+      "kr_sha256": "82f0a8b736a7ba9ada473cef90b913792293bf16269d957a2cad8e3388c7d822",
+      "en_sha256": "7c3cefa53280c361c4f53da77fcaf0394eee60c63aef3b321d12ce680f9f2881",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_reward_popup_num_of_owned_items].content": {
+      "pl": "Liczba posiadanych przedmiotów",
+      "kr_sha256": "ca6f20373ec6b4dc103bd49676601983319e3d49475254f0dc67ec56ed4f82d1",
+      "en_sha256": "40924e91b5594bcf8980840f8d6fb60e4ed9dd81358d663c02a7f27a0bd00379",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_scrap_guide_desc].content": {
+      "pl": "Ukończoną pierwsze etapy wydarzenia i Głównej Opowieści albo Lustrzane Lochy, zdobywasz <color=#5c53e7>[Odcięte Nici]</color>, a z pewnym prawdopodobieństwem dodatkowo <color=#5c53e7>[Odcięty i Nadpalony Motek]</color>.\n\n<color=#5c53e7>[Odcięty i Nadpalony Motek]</color> od razu zamienia się na 20 <color=#5c53e7>[Odciętych Nici]</color>.",
+      "kr_sha256": "1ea992f37caab2e471c8546ad5532159291c399b751dcb98788a545467c5f637",
+      "en_sha256": "d4789c85a79c55ebe6f380fc41d08b72e183d839da3d4883364151ee161e4d87",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_stage_button_default].content": {
+      "pl": "Etap",
+      "kr_sha256": "d3fce9c9851dcea8c8256dfc81df5b4eed21aacc6c226fd819c77b77b8139df7",
+      "en_sha256": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_stage_button_end_event].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_stage_button_locked].content": {
+      "pl": "Odblokowanie po ukończeniu 9. rozdziału",
+      "kr_sha256": "68302ae59ec9dbf5eed63e29271103447074fa30f145528db1af6efbbcef888c",
+      "en_sha256": "b4588ccafbe859dbd7aa91eadafce8a0a2a6a24e9d32997cf9484e9ca57c246c",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_storybutton_default].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    },
+    "dataList[id=twining_threads_storybutton_start].content": {
+      "pl": "<size=75%>Odblokowanie po obejrzeniu pierwszej\nfabuły wydarzenia</size>",
+      "kr_sha256": "aac35011096df2e4e65e55e6a19d39017713b99086faa9cd2644b0c64ac14699",
+      "en_sha256": "373b5f96c8b4ae96426d5770bafedf1f3bb75aeb66805e733c370f6c9ba6c062",
+      "origin": "ai"
+    }
+  }
+}

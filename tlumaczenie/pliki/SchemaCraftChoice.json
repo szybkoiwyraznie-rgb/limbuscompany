@@ -1,0 +1,358 @@
+{
+  "entries": {
+    "dataList[id=schemacraft_choice_1_option_a].content": {
+      "pl": "Kładę wszystko, co mam.",
+      "kr_sha256": "5c8d8111b97da1c46cacd6b8fb8a531900d5c1bc692b248d6fdffd2d62e1f426",
+      "en_sha256": "d22897fc93f78de06be5e90ef79de633032390566028e02d4c9f12d6e0727ed3",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_1_option_b].content": {
+      "pl": "Wyciągam tylko najmniej wartą rzecz.",
+      "kr_sha256": "e771d167149c4babdb056c17a4beec44f7cab4211d6dd810e87fda88d0464007",
+      "en_sha256": "062b99c5c3829000b7e296a3da45b043abc1af939fc2c9003ac1d57b1f503e03",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_1_skip].content": {
+      "pl": "Uciekam od oceniającego spojrzenia.",
+      "kr_sha256": "de532108744bec72ae9bb5575e3fdb9ae8c32b64ab081e3e363b925be9836120",
+      "en_sha256": "42daf9fc03cf27314af3b3244fe0715b7ea39b40c382894fb258bdbaf3d873ed",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_1_text].content": {
+      "pl": "Sam trafiony los i pusty portfel nie każdemu sprawiają, że dobrowolnie wchodzi do lombardu. Ludzie mają się nagle za tyle tolerancji, że potrafią latami znosić szorstki, nędzny hałas „jakoś to będzie”. … Dopóki nawet blade nadzieje na jutro ich nie opuszczą.\nWtedy zaczynają schodzić do tego oblepalnego miejsca, gotowi pożegnać się z najcenniejszymi kawałkami przeszłości.\n\nNa wystawie widzisz protezę prawej ręki zdobioną wypukłymi wzorami, bilet kolejowy w nieznane i zardzewiałe pióro wieczne, które niby jeszcze coś jest warte.\n\nWaha się, ale właściciel widział takich jak ty tysiąc razy. Nie podnosząc wzroku, pyta: „No, co masz?”\nGrzebiesz w kieszeniach i…",
+      "kr_sha256": "50476bf5f244201c21c7862ec28e2075ee1ac0566fa6be298feaa814fa186659",
+      "en_sha256": "5ed7a82a237fc96227f813eb5756d960a59c5ee82b51a1144c407cf6bcc0a020",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_1_title].content": {
+      "pl": "Lombard",
+      "kr_sha256": "bd7c680245358a5b15bcbe6ccc8624c379e902f6d8718b8c96ce464c6ff7157d",
+      "en_sha256": "55ef0db9163ef882b65c6aab35c90f0153778fc45b07080d25bc18113c8e64b5",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_a].content": {
+      "pl": "Ciemność, która się zbliża. Lepiej wyciągnąć terminal PDA i sprawdzić godzinę.",
+      "kr_sha256": "38783b6239508b7e5807252970a921a3fc0426aa612de869e6628010457bf353",
+      "en_sha256": "6a0139399a61fc620543a9d0224160b1762151e3e40dc156a65af717b6593f65",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_a_desc].content": {
+      "pl": "3:13 w nocy.\nGdy „Noc” zapada na Zaułkach, oni przybywają.\nO wschodzie słońca nie zostanie po nich ani ślad.",
+      "kr_sha256": "9da81e8d5de4c960c1a18c7c10b34e3aa0bfc7f98227a57d4dfcf9b23a6d0182",
+      "en_sha256": "045dc166e980ab9f2da053da34c460d0bae3b53963cd023f2834b3ec1d524259",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_b].content": {
+      "pl": "Z zewnątrz płynęła muzyka. Ma w sobie taneczny rytm.",
+      "kr_sha256": "755991de2ff2d0da85f864895027f4a10592df3b674a163d629589152272268b",
+      "en_sha256": "ec518c45970e003ebf70958c5f1a8ec82fd3e182e44f421f44ec40ae42b395ae",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_b_desc].content": {
+      "pl": "Szczękanie łańcuchów. Gromki śmiech. No tak — Środkowy nie zapomina. Raz zyskawszy jego niechęć, jesteś uciekinierem do końca życia… i w końcu spotkasz go przy uchu jakiegoś zaułku.",
+      "kr_sha256": "dd7a9fc06456af9fbaff847918b26a88a1ab3869b244b020369fd87550f1ae88",
+      "en_sha256": "d0dc7ecb1260754c86d757872fdd8b5776835bc40c2839d32b03732cf9aa0d3e",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_c].content": {
+      "pl": "Z zewnątrz dobiegło szczekanie…",
+      "kr_sha256": "6c70809b8a106187b7e9ea2914b26694e05282abc0caa1b9098d333e5802a8e4",
+      "en_sha256": "0d5bce7042507d24cd024d6c49a1637a652341c8be2513e5b20b16a5afb4b97d",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_c_desc].content": {
+      "pl": "Jedno zaczyna szczekać, a po chwili każdy zaułek szczeka w rytm. Czteronogie istoty pełzają po ulicach, wyjąc w niebo, choć same nie wiedzą, co mają strzec.",
+      "kr_sha256": "df991e7a26370b8722600b46d5a17ec2395c24d500a95becac9258c50a851d34",
+      "en_sha256": "1d9f62311c15ae91212b60d73cc590dbcf87aa2f12a5fcc746b6f636086afd58",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_d].content": {
+      "pl": "Nie ma czego słuchać. Idę dalej.",
+      "kr_sha256": "e0a447897d63a39ab388bd0fa475d7187826c98a52ff55ff8713350d0d9a5fc4",
+      "en_sha256": "47e45dd5d8abb4cbbcb2e321dc0180819a2c94f993702caa4e4edaf9f3c10c3d",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_d_desc].content": {
+      "pl": "Idę dalej. Tego, na co czekam, może nie być w tym zaułku.",
+      "kr_sha256": "c4a558a8a13c6e0fe153285fe9c22d4c2bde30a106e9c34dfba9c25b5dc19e35",
+      "en_sha256": "7984957f83db8b121e0be1f1883852fc6d3dd8d4852544d3bb219625532ed8f3",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_e].content": {
+      "pl": "Nic takiego. Już niczym nie chcę się przejmować.",
+      "kr_sha256": "e3bbd55a9eeb345b44e72373ab6751dd60bee0d3283151ef210a9605ee1208b5",
+      "en_sha256": "2d13a4f7006fd7889c3ed129315bcced62492463c7c58563bed9fbd69fd36f90",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_option_e_desc].content": {
+      "pl": "Cokolwiek to jest, nie chcę wiedzieć. Wkrótce ten ruch umilknie. A potem ciszę zapełni coś innego.",
+      "kr_sha256": "a4b1d9bc1a4869d8ef8a0ba50dcd4e786f380c9591b61d5b02b377f4c0136b98",
+      "en_sha256": "9e8af4d53bf937ce10e2a86744095c2bb1e51ff5ecd354307af63d317349f42f",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_text].content": {
+      "pl": "Labirynt zaułków wije się zakrętem za zakrętem. Te Zaułki przypominają każdą aleję, jaką pamiętasz, a zarazem żadna nie jest znajoma. Idziesz i idziesz, zakręt za zakrętem, a końca brak. Wtem jednak rozumiesz, co to uczucie, które ciągnie twoją uwagę, jest…",
+      "kr_sha256": "9a89c173b0350e00e6adca9f805755c17bf96fb89082e2a19d562e5d29fa578a",
+      "en_sha256": "617bffc1a2f2da29a570e92c7af9735bf5416c7293f6c0704cf3e5fa7b1d1b24",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_201_title].content": {
+      "pl": "Zaułki Znajome i Nieznane",
+      "kr_sha256": "56f70e37335ec2a21ac04bfd333db2d66b80edcf451268875c7841484358b7a7",
+      "en_sha256": "07f40e14cdf8736e617821d0268b5aabb22cd445729c501f170bae963c6295d6",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_202_option_a].content": {
+      "pl": "Rozcinam chmurę.",
+      "kr_sha256": "ca70ebbe3eacc440f5906ab5d44eb7456fd953bd53079f21a2d5dd008a6c54ca",
+      "en_sha256": "dd845f74da403c63d362974b7ae1c3ff44149815c36313c3a0ce7a29a7ca528a",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_202_option_a_desc].content": {
+      "pl": "Dziesięć Ostrzy Wschodu. Ostrze Demon. Aszura.\nKażdy wojownik, który nosił jeden z tych tytułów, przeprowadzał mnie znów i znów przez bramy piekła, wypalając się w mojej pamięci bólem jak piętnem.\n\nTu czeka…",
+      "kr_sha256": "817a3592ebf691596fd10702c689bb77add840d309f9122503db7500a10a450a",
+      "en_sha256": "e993032b2a0aba5eed894400c8ad864f4a5b99475cb2191a224328e278c65b14",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_202_option_c].content": {
+      "pl": "Uciekam przed chmurą.",
+      "kr_sha256": "d436386372491a3c383677004d0437b7e65e5acc3bc8adba0ad0c431a451ca83",
+      "en_sha256": "42c7823c49eefc7e35da614ac947d15f369c0c7feb8e0dca01b532e98f881699",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_202_option_c_desc].content": {
+      "pl": "Nie ma potrzeby wchodzić do zbudowanego świata.",
+      "kr_sha256": "c3d4422df9a224d109fa44e2217789c95e45dcfb944066cc695a025153f8d1a1",
+      "en_sha256": "f3acd073ed3ff8504314bb8ed2f919049c3fb67efea0e2db49d91b32b1073fa3",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_202_text].content": {
+      "pl": "Wchodzisz na ślepe załamanie jakiegoś labiryntu zaułków.\nTe Zaułki, do których stanąłeś, nie są podobne do żadnej ulicy, po której chodziłeś; są zarazem obce i obojętne.\nZ pamięcią jako papierem rysunkowym zaczynasz szkicować życie tych Zaułków, nie dbając o to, co prawdziwe, a co zmyślone, co słabe, a co potężne…\nGdy obojętność ulic zmienia się w konkretne, nieproszone zainteresowanie, czarne chmury, które wyrastają z twoich myśli, rzucają na zaułek równie długie i czarne cienie.",
+      "kr_sha256": "d8fd8696b2a9a30df1077229baaf7027c0b0cc2dfba19849f43a09f2682c7fa0",
+      "en_sha256": "41cd24de91ff0555202d9f943441cc9656d65b8426a4f99860c97a504846e792",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_202_title].content": {
+      "pl": "Czarna Chmura",
+      "kr_sha256": "a78d90dd37259bc3499aefdb0b70ca700cac68f47f61182b677c6167c0c05a0a",
+      "en_sha256": "7ac9278d906d3a24f0fda320e63ee212ff99925c3d1e98cfe520a6844d9c9f34",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_2_option_a].content": {
+      "pl": "Wysyłam jednego Grzesznika. Choć nie bardzo mu się to podoba — trudno.",
+      "kr_sha256": "d205cb6a5d0543f502ffac6f9009f7505d098499ee980f659c5b3316f013fa00",
+      "en_sha256": "99546d5c483bbbdd6570db9bcfbe07a80cca9e7539d6492b528e1de6b121c6fe",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_2_option_b].content": {
+      "pl": "Losuję i wysyłam dwóch. Tak, by zdało ich jak najwięcej.",
+      "kr_sha256": "0628866cbf10829d0ad1c7d55fe59855fd21d6851776765251404b3ee44d3f55",
+      "en_sha256": "351efd2b692b8bb5610428675affd79000a046eab0e6f776e89b9fd47416f8c8",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_2_skip].content": {
+      "pl": "Nie mieszam się. Przeprowadzka do Gniazda nie przychodzi tak łatwo.",
+      "kr_sha256": "e3febc1579e7ff36a8ff7a8a0d620625c673e62e3ea7e0d47ba24f6296ea38f8",
+      "en_sha256": "ed020cc9d05bf137de3a0ea15fbbb5e7ea7d99a3f61ffe8cb6b54c46174d6c86",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_2_text].content": {
+      "pl": "Podchodzą do ciebie ludzie zgromadzeni w zaułku.\n\n„Wiesz, jutrzejszy egzamin praktyczny… powiedzmy, że twarzy specjalnie nie sprawdzają.\n\nNie trzeba długo głowić się, do czego zmierzają.\n\n„A moje dzieci są jeszcze takie małe. Doświadczenia brakuje.”\n\nKtoś obok podbija wątek.\n\n„Ale słyszeliśmy, że jeśli do końca miesiąca zbiorą wszystkie zaświadczenia, dostaną dodatkowe punkty na przyszłomiesięcznych rozmowach o pracę…”\n\nNikt nie mówi, na co ten egzamin. Może jednak ludzie tacy jak wy mogą dać tym ludziom małego kopa w stronę życia w Gnieździe?",
+      "kr_sha256": "62afa07727407d1aa4ee0c9f54ff94687bcc545a1b166618799eec172a6e7d2a",
+      "en_sha256": "bc9391a361f297cbbbcead3c923b6a3a8ead7ac7e3e9e935926be88b4e31f491",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_2_title].content": {
+      "pl": "Egzamin za Kogoś",
+      "kr_sha256": "502d2feac4381224d1ddcac1278bef9a4d240b7d9a6293adb9888572f2aca569",
+      "en_sha256": "f6e23e153ee8af96cc2c555387f924b69b04a68800637f1f7e1f3407df15d82d",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_3_option_a].content": {
+      "pl": "Na piasku. To jedyne miejsce dla spóźnialskiego.",
+      "kr_sha256": "8093f83cf2ff9fb028797e0d2d90e7265cc94e6ef432dfb7295cb08d6946f9a8",
+      "en_sha256": "b6224f1345bed8b702030ebe5024a52f87bbfb00ee2d43fcfb61649539a1aadc",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_3_option_b].content": {
+      "pl": "Na czerwone huśtawki. Może da się jeszcze wcisnąć?",
+      "kr_sha256": "48f4d4899598a5a12c139cc41aacd84fdf111b9b33ab558a1a64a5f16d584215",
+      "en_sha256": "faf5c37529b03b1379f1b6eee58017cb3854ac1d8e246028541812bbf30736c5",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_3_skip].content": {
+      "pl": "Nie mieszam się do rachub. Odwracam się od dzieci i odchodzę.",
+      "kr_sha256": "8c64e4db847d05c8e9fdb6b9ae436c09b64ab523e37f464dca71f9353a4adb6c",
+      "en_sha256": "36402b54e117b7fc05ec079cf5a12354299155df3c9606b4593135d113676cc4",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_3_text].content": {
+      "pl": "Ciężarówka z przeprowadzką wciska się w wąski zaułek. Wszystkie dzieci z placu zawracają głowy, ale ani jedna twarz nie promieniuje powitaniem. „Ale ten plac jest już pełny. Na czerwonych huśtawkach osiem, na zielonych pięć, na zjeżdżalni dziesięć, na schodach cztery i pół, na huśtawce dziesięć.” Dziecko wyglądające na paczkę przelicza rzędziście: „To gdzie mamy postawić nowego?”",
+      "kr_sha256": "d4d52502e9d2e4f7e85a3e3c7480df523aefdda55b23b8db7e3e462e3bbfb88b",
+      "en_sha256": "70913ee9e5c979ba7c68293628c4dc935283c4095a25f2a53e7662a8bcac6227",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_3_title].content": {
+      "pl": "Przepchany Plac Zabaw",
+      "kr_sha256": "c0b0e1a596adb9306b71a7ff549be2bb8bbd1d6e80bd3e83d8b7d690395e5b9f",
+      "en_sha256": "bebe8fda30e66de75233ba3b23cc705d1715d6daa384c390e23f5e350978bace",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_4_option_a].content": {
+      "pl": "Będę kimś innym. Kogokolwiek — byle nie tym, kim jestem teraz.",
+      "kr_sha256": "a763a54a56ed2bb84941b2a7c825492ed12560ffb2ccf2ce4374b95ccc4e00db",
+      "en_sha256": "91e44135963aa32dfdb801848ffe7c0ff526c05dab70f3810dff753f4474403f",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_4_option_b].content": {
+      "pl": "Zostanę nowym pracownikiem Skrzydła. Niech inni zawiędną.",
+      "kr_sha256": "77488f48a4683722f1ce0b4218adf12cde6574bf8a5c3a745282e00314eaf29b",
+      "en_sha256": "4e0bd1dc87fb9e1bdf296e338b8c375af4cff12d740dd26a6fd86f9697a81291",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_4_skip].content": {
+      "pl": "Zostaję sobą. To życie, rozpatrując wszystko, nie jest takie złe.",
+      "kr_sha256": "03cfb0f4e268d93e6a4c91bcaf0b9ea758f79f515571bfba9cbd8b8f7482e75f",
+      "en_sha256": "db93184993cd2687fdbe78c9748a61fae27409720cec0c74762dc765c828c7cc",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_4_text].content": {
+      "pl": "„Możesz być kimkolwiek. Nawet kimś, o kim nie śniłeś.” Właściciel kręci sprzedaż z lekkością człowieka, który słyszał już tyle złych historii.\nMimo wszystkich wielkich obietnic trzyma w dłoni ledwie kilka wizytówek.\n\n„Na tym papierku, przynajmniej, jesteś szefem zespołu w Korp. K. Albo dyrektorem Fikserów 5. Klasy, jeśli wolisz. Ale gdy przyjadą kontrole, to tu jest sklep owocowy, a dziś kupiłeś tylko jedno ładne, dojrzałe jabłko.”\nZ taką artystycznie podrobioną wizytówką w ręku… możesz być kimkolwiek.",
+      "kr_sha256": "7bdb3cba26c2e4d0dd4a3ca0cb1f2aeb014e848b477c0cd8d90ced49aff8a560",
+      "en_sha256": "f94542165c16646ee9df16ca208a2021010441834313055f660af885cafba1a7",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_4_title].content": {
+      "pl": "Podróbka Wizytówki",
+      "kr_sha256": "3d540cf9ba824399ea4f6b136deeb85e60dd2c9cf0811fde4d9131e39821bde5",
+      "en_sha256": "253da9d501f6bb7469e0d0d65383ca89c388f98d215e144cd1a016dee866c27e",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_5_option_a].content": {
+      "pl": "Zabieram garnitur. Jeszcze płukanie i prasowanie — i może wyglądać przyzwoicie.",
+      "kr_sha256": "62d2c770b4b501517279c0f1844a803b98c5322c7f2961acf23918490d802771",
+      "en_sha256": "532b3a5be1e5425586539e2b78c86249d5038a86b9f9a7e08331fae7fd494dbe",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_5_option_b].content": {
+      "pl": "Zabieram skórę… czegoś. Krążąc po tych ulicach, czasem lepiej nie wyglądać jak człowiek.",
+      "kr_sha256": "c4cb3fd4d3358f1097842ebcecd41dbad87b87f9950f1d4cfa15d4e3549b099d",
+      "en_sha256": "182e9b83711b67bf6a93deaa9889adf37dc0c0fa1ea27842d8b9c8fff17316f8",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_5_skip].content": {
+      "pl": "Nie zabieram nic. To, co noszę, wystarczy.",
+      "kr_sha256": "8ef61ab360b66e6c601a59f6d6966d368ada3984b5df0863d2f359863e1854c6",
+      "en_sha256": "46b4a2a89525c1b8f259c2234760a19efc3255ddcc775ad13678f4e727587d5a",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_5_text].content": {
+      "pl": "Między ciasnymi straganami rynku nadciąga wzgórze. Patrzysz uważnie — to warstwy ubrań na warstwach; może całe pranie miasta skończyło się tu? To ich życie i doświadczenia, wycierane cienko, pomięte, pogniecione, brudne i śmierdzące.\n\nMoże nie szkodzi zabrać jedną sukienkę na później. Nasze własne ubrania kiedyś z rolą spłyną na dno tego wzgórza…",
+      "kr_sha256": "15d526b6b54d40ffee245d611182a926a62637b7424df375251d0aff0b2ca995",
+      "en_sha256": "111275440f18550f710f01e739ea818f431eab347762128e59e6203408d07c65",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_5_title].content": {
+      "pl": "Wzgórze Łachmanów",
+      "kr_sha256": "b71bb8c5657cb3637f678fc213b9e564305761e1e169fa8f696d51396a72cd53",
+      "en_sha256": "af0fa2e5b2b2f0fe49ae652d0db366272bebe7adcd75eb17fcc1fd81c3388fbe",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_6_option_a].content": {
+      "pl": "Wsiadam do autobusu.",
+      "kr_sha256": "2bf461b1423c812014c31663eb054e77de9833e08c580c77534010f0f58fa4fc",
+      "en_sha256": "bd91cf75a571dd2174cb677fc643c236741d7db4fc694d10e2efe6bad46fa63e",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_6_option_b].content": {
+      "pl": "Idę piechotą w stronę, którą pamiętam.",
+      "kr_sha256": "09c7431d2dd46a4ce83693b34f7608ff5084dbb2207eccbac33975dc7891c263",
+      "en_sha256": "49f91e18fda542680afece6e46435d9cf36ac27c3279e5957363baf37738f43c",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_6_skip].content": {
+      "pl": "Puszczam autobus i zostaję na przystanku. Ale czy przyjedzie następny?",
+      "kr_sha256": "d28b443a7d8076c01ac95a772118972d49782784c9a8eccba0af4e80eab46a5c",
+      "en_sha256": "7de491dd76a4943a8bf29bffa8c3db6b0c780abc27be49435cda0426ab40f4b2",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_6_text].content": {
+      "pl": "Przystanek bez duszy. Autobus znikąd staje przed tobą; nie wiesz, dokąd zmierza.\nJakby w podzięce za cały ten czas oczekiwania, czeka cierpliwie, ani razu nie zasygnalizując.\nAle czekać będzie krótko.\nPo zapadnięciu nocy zaułki czekają jeszcze jedna noc…\nMusisz szybko zdecydować, jak wrócisz do domu.",
+      "kr_sha256": "74efdea42a29093c510d2b0c9229d0265aaeca14f0cbfdba1c2febaee12e1c84",
+      "en_sha256": "82493ee6168c1ac6ae93fc3ca174fbffc773277b1c853538fa85c9bc50e8330c",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_6_title].content": {
+      "pl": "Pusty Przystanek",
+      "kr_sha256": "6eb161d5ecebf939fefe2eb57f100e86101567f314a44397a733c9ef076cf35e",
+      "en_sha256": "f4ce0035c4a1512fcd130cbf41cbc9e641e42387f6f87aed22632332f4a47deb",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_7_option_a].content": {
+      "pl": "Wzrokiem idę za niebem razem z ludźmi.",
+      "kr_sha256": "a8a9f962c673a13d9d8bfe35756cb219351ae04542662cef6ad9891f9966ec23",
+      "en_sha256": "60f093234bd2fa6cd42f1276c456c268ab7ed359f114910fb8d9d750c5315dbb",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_7_option_b].content": {
+      "pl": "Patrzę w dół, na światło rozsypujące się po nierównym bruku.",
+      "kr_sha256": "0101587f83ec72750bae381df1c62897e8e0df2f58c52642bfdc1ee29e29e531",
+      "en_sha256": "a57c6fb2fd416400577bcf74606615e8271f96dca201015b634d993afb362969",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_7_skip].content": {
+      "pl": "Po prostu zaciskam oczy.",
+      "kr_sha256": "aadb410918ba243de10da7ec4a83648030f8ce77778235f2a6ecfd877b20bace",
+      "en_sha256": "cd5a1e9b22584715f1a390bd0e55132443c14cda9df742320ea4674ae4875bd2",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_7_text].content": {
+      "pl": "Widzisz jasną kolumnę światła wzbijającą się ku niebu, przecinającą szczeliny między ciasno ściśniętymi budynkami. Cały świat robi się jasny, jakby noc przestała istnieć.\nJeden po drugim ludzie Zaułków unoszą głowy ku niebu.\nPod tym łagodnym, ciepłym światłem ty…",
+      "kr_sha256": "0e4a95414c0836dd8bd4f4ed0a1c1fd9797bef679d49a2fa801bc8d77be884df",
+      "en_sha256": "cfac99bfd149fcf64c00085b952bb2bc07c81d5556767c5b4c12c19aff9d340c",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_7_title].content": {
+      "pl": "Biała Noc",
+      "kr_sha256": "33e78dd410517a1080a67cd4010ad8fa45eeb8c644f178426ec71ac51ab322cd",
+      "en_sha256": "6a324b93f1cc15090a2b88e21dba351776bfa5410e4e31d819e6b226ce7d3b12",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_8_option_a].content": {
+      "pl": "Miejski mit. Podejmuję zlecenie, jakie znam dobrze.",
+      "kr_sha256": "e8be6a1cbd077736e63b196c2d86a25346b49e2bcc9a443dc595aff8730f6c5a",
+      "en_sha256": "554c668681d8cb901d9d877fbcd6c22807f88634b71a7b116b1e38cdf5174d2b",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_8_option_b].content": {
+      "pl": "Idę za kanardem, który może się zwrócić.",
+      "kr_sha256": "9e64fa9e4b917ed305cf6b99c451d84da68d40db46689bb7fb08389cb42de648",
+      "en_sha256": "66d2478b3e4c28a7d442fe3ea2180224d747a1f58d5a73ce9d02c7fb9a99b043",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_8_option_c].content": {
+      "pl": "Miejska legenda. Podejmuję zlecenie z pokaźną wypłatą.",
+      "kr_sha256": "a68eb2b2380b7fc9f42ca0806ae97f7d22952dd16449656d5963aa4b9ce5ad47",
+      "en_sha256": "ec094e1622a5c4368dec7f6882a63546e3f103db3797de6ebc1e0246c0b255de",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_8_skip].content": {
+      "pl": "Nie przyjmuję żadnego zlecenia.",
+      "kr_sha256": "2bca3f13f6f2d4a85f231af9f3b334b044295fba5006558ab78d4f80ec59ec5e",
+      "en_sha256": "e7473fda45cdaa37d6ffd5fd54fb7c8f07b7cbe8b112ad27c35dbede2325ea8b",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_8_text].content": {
+      "pl": "Od drobnych zleceń po ekspedycje i zlecenia na śmierć — dla Fiksera pracy nigdy nie brak.\nPłaca za każde zlecenie wygląda uczciwie. Przynajmniej na papierze.\nAle które podejmiesz, a które wolisz ominąć wzrokiem? Wybór należy do ciebie.",
+      "kr_sha256": "59e0b6dc9fa52d0baeb9a654aaa7039ab157bbd26707f721fb9ae37da6caeaca",
+      "en_sha256": "c851d5d42404cd64f7409a0808f67c45b7544e9140ed777a0655b29ed3db4279",
+      "origin": "ai"
+    },
+    "dataList[id=schemacraft_choice_8_title].content": {
+      "pl": "Ściana Pełna Plotek",
+      "kr_sha256": "c035b4c348e83e8764e628abad303d2158d14b2e42ba0fe3c1b72c18bfe0c12f",
+      "en_sha256": "ffda93006f55f8d1a5fafdeac53c48e9d3a378cafd87bd141e04fbd268376029",
+      "origin": "ai"
+    }
+  }
+}

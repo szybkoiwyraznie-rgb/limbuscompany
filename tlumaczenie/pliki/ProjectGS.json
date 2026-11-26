@@ -1,0 +1,826 @@
+{
+  "entries": {
+    "dataList[id=project_gs_alarm_lesson_level_up].content": {
+      "pl": "Poziom zajęć [{0}] wzrósł do {1}.",
+      "kr_sha256": "1d7b161fea4265aa16dba2e2106702b64b921ee0182f63d067a97bda2662a618",
+      "en_sha256": "90d9cb85f70ea2c05d77208301cff6c772e72c5c415e5c636082d1b8b5f9d726",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_ask_move_to_main].content": {
+      "pl": "Zapisać postęp zajęć\ni wrócić do menu głównego?",
+      "kr_sha256": "4962549f160ff7e3241a1c7322baebdb9376036184495380f858cb085c9491bd",
+      "en_sha256": "e6354db4f1b09a22eb59bdd7d1d6365421e433b5ae177e1e2a9fc015733272fd",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_ask_to_restart].content": {
+      "pl": "Zrestartować od Dnia 1?",
+      "kr_sha256": "7dc08c04fbae60d9898aae67a1eb7abbeea29b7913620db559c5db320b4c264e",
+      "en_sha256": "79124ce9fe23d8fd102d949655c6dffa0977f1042b7ffdb26862b12abfe2e2b9",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_ask_to_start_lesson].content": {
+      "pl": "Wznowić zajęcia?",
+      "kr_sha256": "72b31ac8afca2ae173f0b32bf6fa995f007a1d0f4462373624d50619f179ec2d",
+      "en_sha256": "9bb0af96b1c62f17f8cef54459140e4bf98d9f67b5f84c9a0edecd8ab7cbf071",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_ask_to_start_lesson_with_warning].content": {
+      "pl": "Rozpoczęcie ostatnich zajęć nadpisze historię Rozwoju z poprzedniej rundy.\nRozpocząć zajęcia mimo wszystko?",
+      "kr_sha256": "f63744c80447f486d02ea982897596d19fc1ac58760762d9ecd7256c3fee0376",
+      "en_sha256": "3585aa5819eed36dd4da01bdc38a2312588fdc57804fa8d119393c5848e5dc46",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_button_label_open_battle].content": {
+      "pl": "Egzamin Środkowy",
+      "kr_sha256": "a5d637be0867b2fd9b194c1eea4e6b66d3fe90d6b33b22ac0e000782c4588333",
+      "en_sha256": "9443c2894d255c4ca3e772adc6a5f0c26318f011061a65389822100603db7a5b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_button_label_open_lesson_ui].content": {
+      "pl": "Wybór zajęć",
+      "kr_sha256": "d2427d1c29e9a755f3ba291857680267b0037af988c34f903ac30914f7d7cffc",
+      "en_sha256": "272921b6e8bdbd8d9a9768eabe973e184241bfd5f3fe5b161680dd82adebd558",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_button_label_progress_lesson].content": {
+      "pl": "Rozpocznij zajęcia",
+      "kr_sha256": "eb0bb427eb77d9e98693dd099bde573b6ac3f88f155c42dae6b9280156884c46",
+      "en_sha256": "bf7711ce700fea03d5011b73b4cfaa926c3d5e7a4eb8b6b26943019a8d140111",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_check_growth].content": {
+      "pl": "Podgląd Rozwoju",
+      "kr_sha256": "2f893f42f2f99d56eb45be43b97a6c62df945931e97ee89391d9fb2aea38d897",
+      "en_sha256": "ffc69ad3fe0412c4866a5d0d2c7e74efc4ea8068fc931a93bf8f532d065a0d3a",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo].content": {
+      "pl": "Kombinacje",
+      "kr_sha256": "afd2253706cc69f12ac97f35d36ee41118e5e8695a565fdad722b5b39888bafe",
+      "en_sha256": "55bb801cfba8343d4c6072814edc6fdaf12451adb58c1b642daa9dfddffae6c2",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_all_stats_down].content": {
+      "pl": "[Spadek wszystkich statystyk: {0}]",
+      "kr_sha256": "c1d6b5fc859ecd6ce5a80f97608f3469ecb77ff077ef77a46a174a388e55b405",
+      "en_sha256": "8560a21a5b522ce77a6408a45c93d105668b1b52668175ab2883f5d53c257b23",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_all_stats_up].content": {
+      "pl": "[Wzrost wszystkich statystyk: {0}]",
+      "kr_sha256": "2826349eaf9316ec9a4fee94297cebcfbf3f01bea19edb94492f6d6e4c685a0a",
+      "en_sha256": "af2a3921382635b3df1aa51998a42a4d1083fee1993610002d618ff43259057b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_benevolence_down].content": {
+      "pl": "[Spadek statystyki Ren: {0}]",
+      "kr_sha256": "29a4c88a17eaaefa5a1eab6abf5d46bde3aef7e199fde63053641540ca11928a",
+      "en_sha256": "0240068a6ac80447cde42e2d4319104e0fcc701cf1a6894a43ada58d60c07878",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_benevolence_up].content": {
+      "pl": "[Wzrost statystyki Ren: {0}]",
+      "kr_sha256": "1371ea896790d23973af25c69fc2821c398a7f4bf778fc9d534e78df1eed5d10",
+      "en_sha256": "07ea849d4bb8a578590f3dcc796e7d62a0bfc0700cb5db9fe556b72be8b22be9",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_condition_down].content": {
+      "pl": "[Utracono {0} Kondycji]",
+      "kr_sha256": "8dfe38624eeb324e4c33c239e9ab5b5ddc2ed4033e250d28a8ebe88a2ddf60d4",
+      "en_sha256": "6cc03122fd56a785a05e3a2a5497a30b1931745360c33de8e29a4e0f3203c79f",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_condition_up].content": {
+      "pl": "[Odzyskano {0} Kondycji]",
+      "kr_sha256": "1eb36acc62a089854969e9fea033fa8627c90757fe881bdaeb97bae2874f242e",
+      "en_sha256": "3dab83a52bf8717181daec01157cb8e835fe9f8613720e4f0f8bb1e95ab92914",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_courage_down].content": {
+      "pl": "[Spadek statystyki Yong: {0}]",
+      "kr_sha256": "4fd6b0727c4b605b950629f7bc01bea88db5c6f8dc89deb8538d4d48a4a82bdf",
+      "en_sha256": "14a138492802ae7a6d096f0bcc93fb143bd278ab3b2eaec5dc5d3cc8849f2131",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_courage_up].content": {
+      "pl": "[Wzrost statystyki Yong: {0}]",
+      "kr_sha256": "1d69e3806d2b9768c108cc6bf145e3b1f97013a9c66b83892b042d585b0c6a2b",
+      "en_sha256": "9112b84182769727b8fad5324d018fd978c86d6c5fb9c5a240e35f36cdf3da25",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_critical_failure_changed].content": {
+      "pl": "- Wielka Porażka : {0}%",
+      "kr_sha256": "e27dec82246fc5d73dd484ab53192249a0cf5127e8193015579825c5d44866d0",
+      "en_sha256": "b716de0ea9c22ef9647284260492a866efd0600717408bcc463372c9ce2bf0e2",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_critical_success].content": {
+      "pl": "[Wielki Sukces Zajęć]",
+      "kr_sha256": "0d1ee8bdd135f303d0ac34f3a04cff8687b29c3c63c19df6a92c186c5369ad2c",
+      "en_sha256": "90d54aca30fe9e44d8a897b58fd4c5d592cdbd3d7a708ee83923d6e0802ee8bb",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_critical_success_changed].content": {
+      "pl": "- Wielki Sukces : {0}%",
+      "kr_sha256": "d358f93bf75ee100c3aa808840eab44ec32dfaddf9363b641d9b6943da0eff4d",
+      "en_sha256": "a0f026c108e81cc670e8eb46909a29c8158acfbb7ae038b6e8935ab7e3368123",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_failure_changed].content": {
+      "pl": "- Porażka : {0}%",
+      "kr_sha256": "eaace0ffb48bd1b218ba31c883963bec7473f6f397791ef8a0b42b1e2d645570",
+      "en_sha256": "ce53075217aa40f4d7b10a0a775a848450ba78231f4845a37c1c6d7147f3d916",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_normal_changed].content": {
+      "pl": "- Przeciętnie : {0}%",
+      "kr_sha256": "317440b8b3a3466d47264e30d7fb3db31939d78ede9e5c0af95a0089a1064903",
+      "en_sha256": "ff5786fc86202ef31191005c1a8e78dd77c3a28e5142e7c5f582256c3be753ac",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_success_changed].content": {
+      "pl": "- Sukces : {0}%",
+      "kr_sha256": "87449668440720c9885573b8d7656014a875efa079682b6bb72f941ed131d206",
+      "en_sha256": "150f3474068c5db89aa95d631af089e45e90b00fc3618cbbfa7ecb7fcfa76807",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_success_rate_changed].content": {
+      "pl": "[Szansa sukcesu Zajęć zmieniona]",
+      "kr_sha256": "4164e75967563d239c68be01b8daf67b4b5e47e81ba52145b8275897c9b04456",
+      "en_sha256": "1345a1f98fa3b23fc3e024c6b1c8043296d4f5b686c9ed70bbf54f560ba358d7",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_success_rate_down].content": {
+      "pl": "[Szansa sukcesu Zajęć -{0}%]",
+      "kr_sha256": "9c5ae7cb71e318a278e3c56f2e13a955a30330a42205b5b3bd31a567d105b403",
+      "en_sha256": "838a08874a6b7d0a1e921760f02caabc71fd54b6b495fa986aae3d7d78d1a4b7",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_lesson_success_rate_up].content": {
+      "pl": "[Szansa sukcesu Zajęć +{0}%]",
+      "kr_sha256": "b62899c4697c6c771de6a2b011b825577ce2d2fb9b545b834f7b2ecda799549f",
+      "en_sha256": "9a7927c122351aebc5c0714ee0d546b711343eb148a3bc8fe4f8c0e1822f79ea",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_next_lesson_critical_success].content": {
+      "pl": "[Wielki Sukces na następnych Zajęciach]",
+      "kr_sha256": "b7ad2dc2786574e2183ada00c35677e52e0cc3109766cc1621578eddc18bae85",
+      "en_sha256": "29b5d5bc0a72ece23c95166ef7d71876beb8b4e55c166cd0168f651ebcdecd82",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_all_down].content": {
+      "pl": "[Wszystkie statystyki ze Zajęć -{0}%]",
+      "kr_sha256": "00304afb435150b3305ec15f5f6bab1121d0752d78e165d49bf0f47fc9418d2d",
+      "en_sha256": "368e81aa9ccda39e1d9aa2e000b770a41cb9ec757b26ef1a4eda26eaf4ab3b03",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_all_up].content": {
+      "pl": "[Wszystkie statystyki ze Zajęć +{0}%]",
+      "kr_sha256": "019b1e446df367d51645b8935c12345af2900884cf82246705759fc508cfe865",
+      "en_sha256": "a2bd9f4973dd94fdbb0a217c50cef8628ce6118b8024a3fef0e2c08664bb0b79",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_benevolence_down].content": {
+      "pl": "[Statystyka Ren ze Zajęć -{0}%]",
+      "kr_sha256": "5d5d85446af6c4fdf7f531d5c39a6d9fac76196ce1860f44a4d9c8b44175726d",
+      "en_sha256": "f13a50bcb1c6d9e118f5e31f617d63efb7e27717671262f138d69b47911f7829",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_benevolence_up].content": {
+      "pl": "[Statystyka Ren ze Zajęć +{0}%]",
+      "kr_sha256": "840df00881121985a0ff9e8462e43001a3de31be2ab68c60972c75c8ad9b8274",
+      "en_sha256": "c30ee775da5b237a9330a4a75f81a10e4e1a3e840b0c46cac2e045a5c05c4f43",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_courage_down].content": {
+      "pl": "[Statystyka Yong ze Zajęć -{0}%]",
+      "kr_sha256": "be1377ed15afeb1f01aeee25790912099ce3d7f98f800b916563ebc42636bcec",
+      "en_sha256": "682c496c4df4676a6ea3e3efb5449f5c30f7567303cba864b95c8ff10948b8d7",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_courage_up].content": {
+      "pl": "[Statystyka Yong ze Zajęć +{0}%]",
+      "kr_sha256": "ef0625eeb38b985d0e29e067c4b00352f225590a44b54f7a225c550a26c9238d",
+      "en_sha256": "e7c7aa91b0efe71192809801b067b648de5b7fe9012951890dda2d8eca8da166",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_wisdom_down].content": {
+      "pl": "[Statystyka Zhi ze Zajęć -{0}%]",
+      "kr_sha256": "a38ff60ee8ee93f7a0f1b324fbe11963259bf0c5dd463f7ca59dfc630a5b35c9",
+      "en_sha256": "7ecf9132b96e11a3c9c089377530e4e2bc61b405a1eeb2771b68203eddec3d0f",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_stats_result_ratio_wisdom_up].content": {
+      "pl": "[Statystyka Zhi ze Zajęć +{0}%]",
+      "kr_sha256": "4058128d64b7dc55bd049727d71485f8e0d449517ef20ce0683e1603219c097e",
+      "en_sha256": "1e61d74667296ccebad6e6553fdeecda15b9aba7403bff700208d9fc187addb9",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_title].content": {
+      "pl": "Wyzwalacze Kombinacji",
+      "kr_sha256": "68884f2564be1caecc3aee8d6c5c3f28c41cb7d65bf9aa69e4cc986634951225",
+      "en_sha256": "0594afce7f7fabdee66f510ab7f9e0f8d70356b9bbe2a17083853f3eef8691b7",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_wisdom_down].content": {
+      "pl": "[Spadek statystyki Zhi: {0}]",
+      "kr_sha256": "58f774c8df2d461c1434bdc8d16d24f31b6d54ca671383a87998c5902588fbb8",
+      "en_sha256": "528013bd864dab5031dfa5d013a6c85187621a3f921230eef352f01b2ba332ba",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_desc_wisdom_up].content": {
+      "pl": "[Wzrost statystyki Zhi: {0}]",
+      "kr_sha256": "dd44f2bc9fc3b1aa4b08c13959f2ae760bc19a2ac1ae0ee8c3cd1d59e98a8654",
+      "en_sha256": "be46c38fc120bbf5c2ae6531c97bac7484888217246f949ca467f3141528c2ef",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_text_only_jia_xichun].content": {
+      "pl": "(Jia Xichun)",
+      "kr_sha256": "48124c7ad5e6509f6e9040b89582661b072d08280f0b5c518a1a9b0227ea8f3e",
+      "en_sha256": "292101eb23e23e307ac38180936f447b436b15d1aecff687fdabcb62ad2a0b89",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_combo_text_only_sinclair].content": {
+      "pl": "(Sinclair)",
+      "kr_sha256": "fd2c7f43cfa50f7275676b933e303ebcbd7c989122bd365fd6eaff1d11239557",
+      "en_sha256": "1cf4fe3664f3c2693f148c319c8b796443bfd826fd5a18ecaa9d300c4202f8b2",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_condition].content": {
+      "pl": "Kondycja",
+      "kr_sha256": "f64da2fd6ef848dfb2342318e2161b2361dc8b1c5d156f12bdf7db8179c6c6b0",
+      "en_sha256": "18bb9492c49f640d9e3badbbbb1a74112dc336f375915a304ae9633b4b149600",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_condition_high].content": {
+      "pl": "Dobra",
+      "kr_sha256": "3c2d6ddb4a94f1f363750ba2402fd1286402566fc07871795119af9623e46fbd",
+      "en_sha256": "c939327ca16dcf97ca32521d8b834bf1de16573d21deda3bb2a337cf403787a6",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_condition_highest].content": {
+      "pl": "Znakomita",
+      "kr_sha256": "fac8d5cc2a67aae960a00c05320f36f917bef745db7d067f12f5acceb6a45a8b",
+      "en_sha256": "c2e171ac2721a7ce9f46f6d65b624ef9c6c964cbd2b0f2adc2eea79ffdc4774a",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_condition_low].content": {
+      "pl": "Niska",
+      "kr_sha256": "9f07b9bc5fbea83e2660aa3e3914817735006601b47c153b8cf37eb5843a3419",
+      "en_sha256": "6fe7d7112caaba1b1bc7bfa656974ac4016cc525a7286117494f5b29dfec1f77",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_condition_lowest].content": {
+      "pl": "Krytyczna",
+      "kr_sha256": "b8de23fad673cf8b699b9746391c57628095133c020ba3e7a8a6787876cdb57d",
+      "en_sha256": "45c006dd73787d4ec2ef0e3303f605ad9b49532cfd92594ba40d0f4c8687eee2",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_condition_medium].content": {
+      "pl": "Przyzwoita",
+      "kr_sha256": "826801054efddfd90f29c6d4942b5f889e1774ddb70163b62244bdebe0501421",
+      "en_sha256": "16584052fd337f09553dfe2ed98e35a2de86043f25e61a3acb5d1e63a949e844",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_day].content": {
+      "pl": "Dzień {0}",
+      "kr_sha256": "723cd335d87a97c376997c37673b78db34615536aa6354cf8129cb445a606e21",
+      "en_sha256": "24e4ff69d09490c9c26c171210f8ed829022be8a21e15b780fcc93f0eef672bd",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_desc_select_lesson].content": {
+      "pl": "Wybierz zajęcia dla tego bloku",
+      "kr_sha256": "44e97ce6f15c4a7df6aa69ca70f6b952b8c8a02fd904f4ef10064e5d9273cd2a",
+      "en_sha256": "514bc58ead75acd7399125359b0307c3d3b570bd3cbd57cb87b1dd08da8de85a",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_do_not_see_ask_to_start_lesson_popup].content": {
+      "pl": "Nie pokazuj więcej tego komunikatu",
+      "kr_sha256": "fba8418b6388765c383e952dc95640273850ba7e8e9060903439a44e4c4c0964",
+      "en_sha256": "79c025e4ceb6568b9405fcd31a4479d15aad2af24c094847dac5599fc459be02",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_exit_title].content": {
+      "pl": "Zajęcia zakończone",
+      "kr_sha256": "247f7480881b61bca3b1cdd85baca919f29ad5ea1b18c26952726cec590238d6",
+      "en_sha256": "f64e6ac714952db1912b1db78128642527bac0d7572528adc25bc6e8dd0d1b81",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_exp].content": {
+      "pl": "PD",
+      "kr_sha256": "edd9ffb4e3266bc3e3f7af78ac6b8a7b1f7cd0884a924a6372715f7dd77ab68f",
+      "en_sha256": "06a1ad637e7f4fbad56e29164490368f0526f429ee39a31dd1180c3722af1e4e",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_finish_to_grow_up].content": {
+      "pl": "Zajęcia ukończone",
+      "kr_sha256": "a61625c210291b36502675748322d1666da1fd0e86d1d7f2ad2eedc92bedeb2f",
+      "en_sha256": "2c3edbd286ec8f50a94202bfc71b0b085fa6ce85c306c387072f2347ff597ea9",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_fixed_lesson].content": {
+      "pl": "Zajęcia Obowiązkowe",
+      "kr_sha256": "6a6ef53ff466f688b0e549bce26880a7423d3958b52ac1792349d1da0b2928ef",
+      "en_sha256": "0eef3fde17432670ccab41bc923c1c94ee1144cb4d0172d647d043b69271cc33",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_growth_desc].content": {
+      "pl": "Jia Xichun rozwinęła się o (Zhi: {0}, Yong: {1}, Ren: {2})!\n\nSinclair rozwinął się o (Zhi: {4}, Yong: {5}, Ren: {6})!",
+      "kr_sha256": "19873ebff7e02ba488a5c6024c8ce0df4376e0ed39591d4546e10b450dd7380e",
+      "en_sha256": "43abc8e6c1467a55eedd8e8562d7aafb6b7288df82e7741569c303d2ecec0c1d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_growth_result_popup_check_stats].content": {
+      "pl": "Informacje o Jia Xichun",
+      "kr_sha256": "70f8068841b42830ceed5882eea1356355854d9eee735eb5cc1f59035e35971f",
+      "en_sha256": "1eab9fcf4a11d4b70d0e9894bb1d9d84d524f429c694324ea6799977b5583e40",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_growth_result_popup_lessons].content": {
+      "pl": "Odbyte Zajęcia",
+      "kr_sha256": "e5184abce7a53a25448fd48dcd91a56b5ca3cb8be87b40c88865f05dcdbb0bc5",
+      "en_sha256": "34c1c5d99b5b89b1f178184e68cdd5d4faca018773fbcd93476e98d65a9e3a69",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_jia_xichun_name].content": {
+      "pl": "Jia Xichun",
+      "kr_sha256": "63aa4b10918084a2b8d516e742d6722fa47f4ac98e67a1eb10dd73a061de9995",
+      "en_sha256": "6383cb51f0bb0b5faa0a0db4df1e7015ebecce11ed6cc9471c61111a8108b140",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_level_1].content": {
+      "pl": "Podstawowy",
+      "kr_sha256": "18ec15449283d15ccadb30a2762112f50ca456c3287c1846702ebc1bf3bf9245",
+      "en_sha256": "7df0f3202d92ba2ead9fda3e8aff9dc7528e3df110819c9e0a788132c5c6ace6",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_level_2].content": {
+      "pl": "Średniozaawansowany",
+      "kr_sha256": "e108f5325853cb2867a76d84eadb6fd4dad5c03a5a026e141e5c6afdda0e8607",
+      "en_sha256": "8b317b0c50ee0926c73cc837c5892d7229648ff9e55d2c5608ce081dde377ee6",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_level_3].content": {
+      "pl": "Zaawansowany",
+      "kr_sha256": "ca1138e57a26c3f00941d036786ab6970a5b8c3645909c53c12d73e806d16366",
+      "en_sha256": "a2bb34780af80cf92faf0872e60567400a910e72543b8de3f47cdb90fc99ffb4",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_level_up_title].content": {
+      "pl": "Powiadomienia",
+      "kr_sha256": "12ddd6ca69068faaae5ea07418efaef8c0806c47ecc8b2041d5dea311a174210",
+      "en_sha256": "65659145569b894bd67d06e685509c2decc5b2ac5e18700c085a253506b0fb75",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_10_critical_failure].content": {
+      "pl": "Wszystko, co myślałem, pisało się po mojej twarzy. Rodion mnie wyprana z kasy…",
+      "kr_sha256": "c7ef93de9f406d112e2dcc2caeb0a8e088ec0f4b686c32416e548103205e647d",
+      "en_sha256": "a69a296f3c53727cd426ee74a0789b347f49ba8eb1e3ad95fc50b611ec77feba",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_10_critical_success].content": {
+      "pl": "Nauczyłem się nie tylko ukrywać uczucia — potrafię już rysować sobie twarz, jaką chcę. W końcu wygrałem rundę z Rodion!!",
+      "kr_sha256": "ee748212457ecca399f14baf63197018ecf3fa5d1ea75d319490899ddede556a",
+      "en_sha256": "b57843f53ee9f7f161625f9d75fe8310687f7cec89d4b9519d70bf36e567d962",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_10_failure].content": {
+      "pl": "Starałem się zachować pokerową twarz, ale gdy przyszły dobre kafle, kąciki ust same się unosiły.",
+      "kr_sha256": "ce356d98ab60db4d766bea2a5c9fec63391d978943377862e76c32636f1d672c",
+      "en_sha256": "218f913374311ba8d9a6fa58d8fd2efa1cd408407c5e4c1c91f3731a62d1c484",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_10_normal].content": {
+      "pl": "Nauczyłem się — jako tak — nie obnażać emocji na twarzy.",
+      "kr_sha256": "505b95b121b480730f7799b3d0295ac072c803e333e661b43abce9a6fc811997",
+      "en_sha256": "bcfe3fe3d9c5517de5ddd995d066ed4f26282b8c5b13a25e55c4a1b78e39d81d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_10_success].content": {
+      "pl": "Grając z Rodion w różne gry, nauczyłem się ukrywać nie tylko miny, ale i gesty!",
+      "kr_sha256": "a82efd45fc310bcc6c5612c99863bc61d1c28abe439e27b96380b02edbe3f041",
+      "en_sha256": "484d4c598cea1fdfb9d127bd499135f6faefb6d76a458c5b11ae969e970eb8db",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_11_critical_failure].content": {
+      "pl": "Broń mi wyślizgnęła się z ręki i trafiła Heathcliffa prosto w głowę… Całe zajęcia poszły na przepraszan-ie.",
+      "kr_sha256": "f298616a940e703dd72381e1ed2aef1fad3880882c6b95654fb2f4533373553b",
+      "en_sha256": "3117922aa5f7cbe6cc5c38919f9ff3786c1ab7ea57c59c4ec8c72a5de2e5772d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_11_critical_success].content": {
+      "pl": "Przyswoiłem sztukę szczerzenia kłów i zdecydowanego działania!!",
+      "kr_sha256": "83e6c488992aafa877e763a823f76a378120bb511fd48111dbaa5cf20fa8f0b2",
+      "en_sha256": "e791ac3b81d85bdf4d591d1c70e20d1c1e09c74240d0f8df46ea3689a1f75752",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_11_failure].content": {
+      "pl": "Ciało zrobiło się powolne — nadążyłem za połową zajęć.",
+      "kr_sha256": "3674cfd65b22bfff761dc3cc6cbc48b27e97f71478a2ebdac61449bd0d5edf75",
+      "en_sha256": "ea48e316c148881439ea9e2be030fbd93096d19d85ad1d2e7a39e4cd0f29e230",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_11_normal].content": {
+      "pl": "Wygadzałem się — jako tak — z przyjemnością.",
+      "kr_sha256": "604629eb6b79bd1e2849aa577f958138aa125a058ad826dc206b466c80060250",
+      "en_sha256": "0e966c48a043a25f917470e181060ef60e301f31769e6f6c610b665bf1a1fbd6",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_11_success].content": {
+      "pl": "Zrozumiałem, jak przeciągnąć na siebie morale wroga!",
+      "kr_sha256": "61360e421262dcc4882379631602d709050ffb55dd7900bcf2e900c951be98db",
+      "en_sha256": "0a764b5e9f3f7d12d36bde1766d2967728b87cd9e124b608ccf3fae47f6e6a2b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_12_critical_failure].content": {
+      "pl": "Wypiliśmy z Pijanicą Nocnym Wędrowcem… Dobre to było.",
+      "kr_sha256": "2b2ef2eac560198e6bf93c93509afa4bc1ec84151e869ee5eaaebafac31bd299",
+      "en_sha256": "d44587e53d97dc386094249915f8b5942676e5ce54dc22b6a42918826a21278a",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_12_critical_success].content": {
+      "pl": "Strąciłem wszystkie dystrakcje i wymierzyłem cios całym torem walki. Jakbym przeciął coś niewidzialnego!!",
+      "kr_sha256": "f2a6862b615269b4a3ce61196af1cf4ee538b8590a368e02d8231de849f6a1c1",
+      "en_sha256": "2539f6588d2a9598e4abfb474e8f95a03d6246047e2f83ea48689ba9a92d8185",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_12_failure].content": {
+      "pl": "Ruchy Pijanicy Nocnego Wędrowca są strasznie trudne do wychwycenia… a od woni alkoholu kręci mi się w głowie.",
+      "kr_sha256": "29792a4cf56cbe679708c12fc06ee26faca375a1f239e3ae25e405eec80c49b1",
+      "en_sha256": "550c1305810c084f63e1e9c8d14049764bb7a6c86d16b5e8eecbef5f10ff700b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_12_normal].content": {
+      "pl": "Nauki Pijanicy Nocnego Wędrowca zrozumiałem — jako tak.",
+      "kr_sha256": "13eebd2b7cd28c607c4158ec322371dbe2118fc06c155bf12457584beb4711d4",
+      "en_sha256": "dabe63b4f7b468623463323fc174da83f4ea6e9b5025adc8d1eeace49437c22f",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_12_success].content": {
+      "pl": "Medytowałem, by sprowadzić do zera wszystko poza sobą. Ledwo się czuję, ale coś mi świta!",
+      "kr_sha256": "e7496cce289ea92ac0e1578bde50a317b99edd97242d26e09e5262f5d89acfae",
+      "en_sha256": "44f488607bf28edb8637603944b31e00fd14af8ebbc2861ccb68e271946b8a81",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_1_critical_failure].content": {
+      "pl": "Czy to ja w lustrze, czy ktoś zupełnie inny… Zajęcia minęły na bezszelestnym wpatrywaniu się w lustro.",
+      "kr_sha256": "f544802a67a3b6f3f872b0c42ff3000b9008a9aa7f7d8d75e3013f91c206a939",
+      "en_sha256": "eebe970829143f1a17f7b0456a00d26898c2caf82463ac9536e5d719be050b7b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_1_critical_success].content": {
+      "pl": "To był bezcenny czas na rozmowę z sobą samego!!",
+      "kr_sha256": "e282ecee9c507e0b6156a8a2fff03cb37f2551f4273a7c903be0572371bbd196",
+      "en_sha256": "0fab5f100bdabdf56a2046e100d788a607250bf66bb366d07a79a5716d49ad7b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_1_failure].content": {
+      "pl": "Po dłuższym wpatrywaniu się w lustro moje odbicie nagle wydało mi się obce… Strach odebrał mi koncentrację na reszcie zajęć.",
+      "kr_sha256": "d8fe8ffc4358dcc29593d238b885ee458da963e4b27a0c3f74322d94d527692a",
+      "en_sha256": "d3c63ae2a72b6ae0cbbe659279e34e4dd9dc5c258494bc86fb31f3520c281b1d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_1_normal].content": {
+      "pl": "Najdążyłem na siebie jako tak — bez fajerwerków.",
+      "kr_sha256": "a3f2f170cd5f9508e3916b8e9d9d5b014698b4af9e6431ab66a4ae4423c6c2b8",
+      "en_sha256": "d38444112681652f7c7d3b536d3b25065d8b377f68ea348ca1fb46c0f055f511",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_1_success].content": {
+      "pl": "Wpatrując się w lustro, odkryłem, jak mówić bardziej po swojemu!",
+      "kr_sha256": "f959b78459a5da9b731ec30d24a37e6d4f6f8b827c0c68bcccb31e3a6d9e7ee3",
+      "en_sha256": "06c866ea820846c12a858830a6cb41568013650eba629922a574f8561dcce3cc",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_2_critical_failure].content": {
+      "pl": "Tempo aż za szybkie… Większości wykładu Faust nie zrozumiałem.",
+      "kr_sha256": "d150ad81a011b04769556a6d92945cb92435b90970dcde8cc004f33e07b0f899",
+      "en_sha256": "52bce63155d6485f11620fb6da67651375a95b0425df848a01a330e9bf991d95",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_2_critical_success].content": {
+      "pl": "Na podstawie zdobytej wiedzy odtworzyłem model maszyny z projektu, który przyniosła Faust!!",
+      "kr_sha256": "18d851fe910a89c42a921dcca0d483c0d84ed9aa5e84a05a2cb3201129ffa759",
+      "en_sha256": "d650d68606cd56747adf57ff0ddf06f5928dc19afb6cce3ba7bfcb583e34b6fb",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_2_failure].content": {
+      "pl": "Nauczyłem się wielu pożytecznych rzeczy o inżynierii, ale bez powtórki szybko wszystko wyparuje.",
+      "kr_sha256": "b4c4e61d2a5beab5b6d4f621068bf3b9113479ca34d44588b7e94b43ed8d68a0",
+      "en_sha256": "6c01120ec178c3ee912df216dc07069f69bf5f792d6f890eb09edf4603148ff2",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_2_normal].content": {
+      "pl": "Kilka technicznych i inżynierskich wiadomości przybyło — jako tak.",
+      "kr_sha256": "091d1d290537e952490399aaf256ecef8955804644ab78a66fca4320556aae21",
+      "en_sha256": "0a8cdac9b3599cc5559f33197b6488da63be1883739531a8f084a6b4587726b8",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_2_success].content": {
+      "pl": "Pochłonąłem nawet drobiazgowe zasady działania technologii starej Korp. H!",
+      "kr_sha256": "7840ed3dcbdbc6222d50fc1e54bbe65e8a005d081f69d9b6d446f8d3c4e01b17",
+      "en_sha256": "c5e5a97e83e21215901d030f4fda420371e78c39c4b142105fdbf187f1feda8d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_3_critical_failure].content": {
+      "pl": "Całe zajęcia słuchałem tej samej, nie raz już opowiadanej przygody…",
+      "kr_sha256": "79b992f427dd5d69282ad9cc1638ca1ec64d9d6f2c378db6bc944ff615ddb931",
+      "en_sha256": "91410c0cb7f5b84277f1242e1ca306a8365466a6e94344b42bbc6d397ef4363f",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_3_critical_success].content": {
+      "pl": "Zachwycające opowieści Fikserów wchłonęły mnie całkowicie — zapomniałem nawet oddychać!!",
+      "kr_sha256": "3bf183f1246f26d1e9bf566ca140a84062defdaf0aa1f17fc9768fd244f5ebc8",
+      "en_sha256": "4e5615ffc34661c1a743166ba3a916e0a20987ab63e4dc40ef3b764e2f399c77",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_3_failure].content": {
+      "pl": "Dzisiejsza opowieść była trochę nudna, ale wysłuchałem jej do końca.",
+      "kr_sha256": "1c75968c094233f3ddd5cbcda03041f3766d32016f44fe1e6cff45f072ea640a",
+      "en_sha256": "9f55dc4e7b045df072091b35dec64101b3547901014d9945b549e3b6a2d6216d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_3_normal].content": {
+      "pl": "Wiedza o Fikserach i ich wyczynach rosła — jako tak, ale konkretnie.",
+      "kr_sha256": "553d03ddcd41392b36a9d29b1f99a7d6e4d6c1ac7ffa9e23363490ab76e03e39",
+      "en_sha256": "34c4e39fd8d06c9449171aac02b91444ddb555f45bddd967aa81c72bb8ea576f",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_3_success].content": {
+      "pl": "Słuchając porywających opowieści o przygodach, nie zauważyłem, jak upłynął czas!",
+      "kr_sha256": "ba1b11a2a6dca5418236182d41120e4ea5daf1a33f10ca6a149c2ad772545330",
+      "en_sha256": "1b2ab5f06e3c697e69ff16a161a841c45bbd794f63171533686f2a027f144bcd",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_4_critical_failure].content": {
+      "pl": "Klany z Podróży po Jianghu wyginęły w całości… Prawda spowija ją ciemność…",
+      "kr_sha256": "2766d27bd18ad5b5f3a08382303cdc9e38484f97cfa89e46eaa7cd7c3df0dca4",
+      "en_sha256": "e1fb0b53b935939c25caaf03d1860de510836520d9e0499a93c1ad12a4887a99",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_4_critical_success].content": {
+      "pl": "Świetna przygoda! Nie mogę się doczekać kolejnej sesji — to znaczy, zajęć!!",
+      "kr_sha256": "b3bf7d4e1cc2c231b2c32f564d4539f36454bbe3ca2f2aa59b11c34ac06bba03",
+      "en_sha256": "415dacdef8d5513dd778c7d11ba8267653e39d9aa9bab08d86a04850ccdf5424",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_4_failure].content": {
+      "pl": "Przygoda fajna, ale ciągnęła się w miejscu.",
+      "kr_sha256": "224c27aaed342729cab1e15297bd583ec226627a512d2398a0a7efebd67e368f",
+      "en_sha256": "2e9979c3f71afef75c19d88546149eec93582de937e418632a633e9cf441a0d4",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_4_normal].content": {
+      "pl": "Dzisiejsza przygoda była jako tak — dobra zabawa.",
+      "kr_sha256": "c1390ee35e44dc6281a1dad92f57931c6dbe8b72872e7763181adf8d19856594",
+      "en_sha256": "1776347656ba40c5f9158d2b18526eaff5b2de96f17b30ba547eb18d08c780e1",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_4_success].content": {
+      "pl": "Siłami Sinclaira sprytnie rozwiązaliśmy wszystkie próby stojące na drodze przygody!",
+      "kr_sha256": "345c5a6de4cd2a8bae446ceed7f3dd50f5e35152b8bc4f023435703f7c7f0de1",
+      "en_sha256": "cb354bbc41049051482b36b9651c5cffe3a0af5ff0ded9ead574db8e146288d5",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_5_critical_failure].content": {
+      "pl": "Zbyt mocno utożsamiłem się z smutkiem Gregora — prawie niczego się nie nauczyłem…",
+      "kr_sha256": "9a6817da91bba66439d6e27df82ec95280227e1b47c1fcfe1b22806d430f4889",
+      "en_sha256": "136a4269efb6010db846efd84cffe63e776dcf42401a0b92e6237074ca29b38e",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_5_critical_success].content": {
+      "pl": "Zrozumiałem dylematy zwykłych żołnierzy i nauczyłem się wyczuwać tok całego pola bitwy!!",
+      "kr_sha256": "cacf2d71f8c43832400429a0afa80baaed97f6530943760edfb6258c5539987a",
+      "en_sha256": "e01eee855a45d0df92f0d7f8681db9b143b1dfcafa26d4fed16fc708a850feee",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_5_failure].content": {
+      "pl": "Zamiast słuchać wykładu o Wojnie Skrzydeł, wchłonęło mnie słuchanie o przeszłości Gregora.",
+      "kr_sha256": "0fd60cdcebd107ee1d17650e7ec0c9f93bc5a234a972479337ec3538ee7d185a",
+      "en_sha256": "d6de93d2ce40033a2e9cc3c6bdea1ba799e5a1b1a187e6113e4484f35181cf06",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_5_normal].content": {
+      "pl": "Wojnę Skrzydeł rozumiem — jako tak.",
+      "kr_sha256": "a9cf8c78ef431b375286193e2121d7dc178e21a9ec98d0084276a11f87f8ea04",
+      "en_sha256": "af3c8f1e4c6bb73d7165755f30486fee9c46bbcc55a80a0d0b9b077d108a3039",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_5_success].content": {
+      "pl": "Teraz umiem samodzielnie wyjaśnić różnice między walką miejską a wojną okopową!",
+      "kr_sha256": "864db04975043d4ea946e06fb55596cc4eeb9507aa73a6717b547ade9ad33f5a",
+      "en_sha256": "c5b1d9100263e8cc3b1668b869133a0c1de9a983eb4a2f170d96c77a28887359",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_6_critical_failure].content": {
+      "pl": "Każydz czara, którą wybrałem, była zatruta. Może dziś po prostu nie mój dzień…",
+      "kr_sha256": "373096bde96c05f774e304c060c4013eaf46a28c9085a2eecdb98c4ca58a0c56",
+      "en_sha256": "0a52d6a55875493c6a5e6a61f673a7d3ccc3269a77e05000df9a062299660cc2",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_6_critical_success].content": {
+      "pl": "Prześwietliłem wszystkie metody skrytobójcze, jakie przygotował Hong Lu!!",
+      "kr_sha256": "43cbd51ede2221a5f8a1d4b510af5126017994b134dc612e3a21e8bd106f6689",
+      "en_sha256": "cf8dcf8f3704ff0408b4393bc5c4014683f775cc73ad8a5382f6f8846eb86c6b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_6_failure].content": {
+      "pl": "Niby coś czuję, a niby nie. Zgadłem około połowy zatrutych czar.",
+      "kr_sha256": "560a4bdcbc5bdb8ff78fc643c7ec04bc0f0775367e6bb668b43b332a98eccf5c",
+      "en_sha256": "5abebe9a7a94d82bfc7f967da93e81d291c855eeb43863be523bb85c15fbad17",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_6_normal].content": {
+      "pl": "Powtarzałem trening odczytywania zapowiedzi i nastroju — jako tak.",
+      "kr_sha256": "ff9a06fc779bc00364de63955f76d7461cf2bf5576317f27e16b15b2fe418273",
+      "en_sha256": "330781a07fc204a9ede91013d8e346a9de998429e66e17a67a52e1d8e4d2e3e9",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_6_success].content": {
+      "pl": "Czytając subtelne gesty Hong Lu i Daiyu, rozpoznałem różnice między czarami!",
+      "kr_sha256": "9b43c53af5d537af4f8b03f55e044ebf43202ceaa401fb65ec728f893d6dcca4",
+      "en_sha256": "86c0ffd491e976f9a47b1eeef9bd282b92c13d5011365dff1028f8157e155dcc",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_7_critical_failure].content": {
+      "pl": "Zamiast oszczędzać słowa, wylałem wszystkie zaległe narzekania — zajęcia zakończyły się dopiero wtedy. Następnym razem powiem tylko to, co konieczne. Przyrzekłem sobie to.",
+      "kr_sha256": "82389c9424e31183cbbde49ad9948f7a8715be108ad77f1f8ff3757fc5620461",
+      "en_sha256": "a3bbededd4db17264e09fb3d21c4947ce5d03d957020b0e6685e2df054c86ff7",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_7_critical_success].content": {
+      "pl": "Koniec zajęć.",
+      "kr_sha256": "759d005af6d54a5bba20ceea6ccc797b502c7020bd28bcafb75dcaff2b4afed6",
+      "en_sha256": "9d6c0ed7ec2893c0dcda4c54cd180c658de0300a2349c0bc3ff79a01e348fa98",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_7_failure].content": {
+      "pl": "Dlaczego zwięzłość jest tak trudna…",
+      "kr_sha256": "6d79a72e2ccd2ecac241eefdef785816fce06b540be12cdd7c1ea41700426b60",
+      "en_sha256": "353a4127a0a7baa39e1c4b815dfa426b6c4d3302ae081df88a582ed6c8deb02b",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_7_normal].content": {
+      "pl": "Zajęcia zakończyłem jako tak.",
+      "kr_sha256": "483395bde20ec84a9bb900675387a82ce44d55189a1cf6c4d4df23ec16fff18c",
+      "en_sha256": "12e2b5f7ee83fa27135bb251af8fd18f0aa789d45c14d93cdbc95621eed9f4cc",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_7_success].content": {
+      "pl": "Zajęcia odbyte.",
+      "kr_sha256": "95cdc1eca887377ab864182a02f37bf1cfe6eb69ac13f3f2f12d903ed179221e",
+      "en_sha256": "136ea552e4ee76d2a63aa77fc85992c85a59e2f63945e09717a23537bc1cb5bf",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_8_critical_failure].content": {
+      "pl": "Wręcz przeciwnie — to cel mnie wciągnął i ja wyleciałem z informacjami…",
+      "kr_sha256": "5cbf4f320f826a88efc51f2528530f3274c97b6b2a6a5db5302129e7cd9ee3a8",
+      "en_sha256": "633b753ab9168fab6f9726835b572c71ce1db9ddacd3dabd3487add769467635",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_8_critical_success].content": {
+      "pl": "Kilka słów wystarczyło, żeby „przekonać” cel, że wylał wszystko!!",
+      "kr_sha256": "49fa3937b8248eb80ccbe34c37eefa65258269ac790dcdd85ed68ac31a144723",
+      "en_sha256": "0d548913e53f55b70f8fe8a91f5b8a2917b7ac8af998d2346165c4e966a1c2c5",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_8_failure].content": {
+      "pl": "Metodę mam, ale za każdym razem, gdy trzeba było powiedzieć coś ciężkiego, wahałem się.",
+      "kr_sha256": "46001ee0bf04c94a10be5f7c51c8004c39fb7178aca168fea208e398f4e51b74",
+      "en_sha256": "5c6c5420f6e69702d35c6d8030eddee52d6c904b24b966b605d8a1bb7d1872f3",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_8_normal].content": {
+      "pl": "Wyciągnąłem od celu potrzebne informacje — jako tak.",
+      "kr_sha256": "f64a97a98953cb09ecf5ede2588ef145818f39c63410282c2b22d4f98b58a9d8",
+      "en_sha256": "3b7f79851a46f76dd28be9a0982656f446d323cbe78ea6b202f9e479a90c7d21",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_8_success].content": {
+      "pl": "Zapamiętałem kilka gróźb i groźnych sformułowań, żeby przerazić cel!",
+      "kr_sha256": "325773a6cbde6a51d1790fddfc0582fc4fa68eda5390c1b87475be0d9d08da98",
+      "en_sha256": "bc708e520a3abf89a53d2287cb46c187b400f129f32760da66f518356bf26f9e",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_9_critical_failure].content": {
+      "pl": "Doprowadziłem dziecko do płaczu… Robi mi się ciemno przed oczami.",
+      "kr_sha256": "0cf7524cb308a1afae6dffd7a34207578fb6da35e542b15dd5abe7a3b61f463d",
+      "en_sha256": "59373202aaa1c3c167fe77c462d935d315fd01c7863bb19bb47310f7e403b3a5",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_9_critical_success].content": {
+      "pl": "W. Z. (Wzorowe Zajęcia)!!",
+      "kr_sha256": "a61d6dd4ca23d4be5d30dc0407a5038aa83276309b3c71c546f142dc66caedea",
+      "en_sha256": "0caaa998e00a0c00239a40c7c1a1db3158c9c65d06482f1f61a6377683aa5515",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_9_failure].content": {
+      "pl": "Zabawa z dziećmi to fajna sprawa… ale mocno męczy.",
+      "kr_sha256": "de5acb598a081f7f155bf1aa2d4f5d937963b0792d08b371a2da11cb7cca561f",
+      "en_sha256": "ac774509e5a6b398d0dcb74d123d3b162d8fd7af0b7de3b91c4f8febd64b231d",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_9_normal].content": {
+      "pl": "Zrozumiałem, jako tak, jak rozmawiać na poziomie dziecka.",
+      "kr_sha256": "1b15fc0cd20159b179fe114acd6e523fdfe994569c591237a62e9a4f1325b3a1",
+      "en_sha256": "59c920453c172735d1c097a8518aa111b840307a4d690bd36f949fbcf818bd7a",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_lesson_result_desc_9_success].content": {
+      "pl": "Wróciłem myślami do dzieciństwa — z dziećmi śmiałem się i szalełem na zdrowie!",
+      "kr_sha256": "516eb29ac16e424890149905a0a8faf23452ac535c76fe99da1bde83343adbf2",
+      "en_sha256": "e17430c0504ab7902026169e47b7d4c271307e4b3f4afcbd92ccf3cc3558dc08",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_notice_unable_to_release_fixed_lesson].content": {
+      "pl": "Musisz obowiązkowo\nodbyć te zajęcia.",
+      "kr_sha256": "16b12b73fe6a658ac713e041d88e4fa1a7b02ec7e4a3b1138fe9cb4f8b2e0d47",
+      "en_sha256": "e62e509ed140c0079e0fa1ed94d595f860018524a707d34a6063bcd8b9b18654",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_progress_label].content": {
+      "pl": "Postęp Zajęć",
+      "kr_sha256": "e355b1ef8c32ddca764db9df7c35f027ff35928445d1435e7c5c26d782b24740",
+      "en_sha256": "295be2b5b90a211471e0433cd35cbea0733252a7e4c8ff85a15813a744302458",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_re_enter_warning].content": {
+      "pl": "Wszystkie zajęcia dobiegły końca.\nPonowne wejście zresetuje postęp zajęć, a rozpoczęcie ostatnich zajęć nadpisze historię Rozwoju z poprzedniej rundy.\nWejść mimo wszystko?",
+      "kr_sha256": "ff79120c9056670f5a3744b7b612e8d221bd7690f34eb82ba7759dfa6844f94f",
+      "en_sha256": "9139d017082ed144c1ca250c7ebff75fecd46b17535b0c65bf40fc4ca18451de",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_restart].content": {
+      "pl": "Zacznij od nowa",
+      "kr_sha256": "12a14e358f1ce6da67fec2854683e496695614322689045d0b6cf40b34ffca98",
+      "en_sha256": "6b983a81e5e8099e4e23a368e72636e31f029f2e691e5be714106b8cf59d70a7",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_schedule_label].content": {
+      "pl": "Plan Zajęć",
+      "kr_sha256": "9c7ae3a952c6b454b575b55c6c96a2ec0c118d88a2909d4fec3a3dc4b564402b",
+      "en_sha256": "f924d448272d281e27cb71c9c25cf16c6eeb70918d5431284a1684c5c55897da",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_sinclair_name].content": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_benevolence].content": {
+      "pl": "Ren",
+      "kr_sha256": "4929f7cc03943d2c008ecc1a45d64cb034cde13f4c2026ac05f706d753b85fa4",
+      "en_sha256": "2c826edf4924bdc44c46c02033792fdf27821b702fdc9f0dc1d2f7b71d11219f",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_benevolence_with_char].content": {
+      "pl": "Ren (仁)",
+      "kr_sha256": "9e80d39e2ad1d9897f5cc501e0e4f14780ba4fcd945cdc4e2724b756992feee8",
+      "en_sha256": "516dcebbe1d261482e638a0c8acdb66cde7aed7757cf701cdc1df213ab20ea34",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_courage].content": {
+      "pl": "Yong",
+      "kr_sha256": "6e8725cfddfbeeba1fa2d576e01713598ae201790998fd2032102b24ae76dce9",
+      "en_sha256": "42939c269188c6edd4712d898ef85cd2267b320ff88aa0ee0298c860a0687b40",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_courage_with_char].content": {
+      "pl": "Yong (勇)",
+      "kr_sha256": "ffc680b747deaff81fa3eecd4e10f61dcbcf5a5ffcc732f3158d92619fe1c2b5",
+      "en_sha256": "0ae5c3ba458d2e0fcfec4416e9bfab1131940f49b667f2c71d549fefe6971e48",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_saved].content": {
+      "pl": "Historia Rozwoju",
+      "kr_sha256": "3999ea63a1b2925fae45c004712226745781f7810d49955ac907e5b7c29e6fcc",
+      "en_sha256": "6abefc4c773e838070cb44cde9f8569b3b867da8a3e9d8c9af4861da389de6dd",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_wisdom].content": {
+      "pl": "Zhi",
+      "kr_sha256": "32e608b594bece7ab3a3b13c3cea02909a92c863e239f30dc20e329b412f0e21",
+      "en_sha256": "eac472148706c1ff012454c4a983bb48753952f3a351ac3396e667b1767936ea",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_stats_wisdom_with_char].content": {
+      "pl": "Zhi (智)",
+      "kr_sha256": "a34f1a3f49e59f016f639de025d0f2a8fad889ffac16339e31f94ad10e1fa294",
+      "en_sha256": "b32201a5cf44476426098f7cf8595de005119e9de174e5fa5d5fe30ed508c950",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_title_grow_up].content": {
+      "pl": "Uprawiaj",
+      "kr_sha256": "0bef0f21640042b67a9a4d873bcb04bbdb42249e17ad5178f71d22341a1927b8",
+      "en_sha256": "1b08b31b5c0405ad0275ee23e6f6994171e4cbfc07c30d5268aa29320c611a97",
+      "origin": "ai"
+    },
+    "dataList[id=project_gs_title_schedule].content": {
+      "pl": "Wybierz Plan Zajęć",
+      "kr_sha256": "fa1d2fa3f7279bb8ab3e0e840b47aa94293faa9ff70049b8603e9f38cc375d7b",
+      "en_sha256": "521d19d27cbf0bc5cd7ef783b627f79102979ad536fa58ebc511e8ab9848a388",
+      "origin": "ai"
+    }
+  }
+}

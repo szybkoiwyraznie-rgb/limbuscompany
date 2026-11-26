@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=record_memory_bonusUIDesc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości, zwiększasz zdobywanie <color=#96beee>[Zdjęć]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#96beee>120%</color>.",
+      "kr_sha256": "f3a4b52278486fb49a7334ae607d773beac63eff1f166efe9276ee33fff75e91",
+      "en_sha256": "a617931f39da59202dc540bc0c13b9de1097997833a2e23bc4de1e407790f56a",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_rewardShopButton].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_reward_popup_desc].content": {
+      "pl": "Ukończoną pierwsze etapy wydarzenia i Głównej Opowieści albo Lustrzane Lochy, zdobywasz <color=#96beee>[Zdjęcia]</color>.\n\nW oknie <color=#96beee>[Wymiany nagród]</color> możesz kupić różne nagrody za zebrane <color=#96beee>[Zdjęcia]</color>.",
+      "kr_sha256": "0951e6452935393474593e9222b03b9cc420797ea89b636d68e81270614665ae",
+      "en_sha256": "084637d90fb9db58b60054fa66f7a5dcdf83d05a5e88621e0f6681c8912ae9a3",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_reward_popup_num_of_owned_items].content": {
+      "pl": "Liczba posiadanych przedmiotów",
+      "kr_sha256": "ca6f20373ec6b4dc103bd49676601983319e3d49475254f0dc67ec56ed4f82d1",
+      "en_sha256": "40924e91b5594bcf8980840f8d6fb60e4ed9dd81358d663c02a7f27a0bd00379",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_scrap_guide_desc].content": {
+      "pl": "Ukończoną pierwsze etapy wydarzenia i Głównej Opowieści albo Lustrzane Lochy, zdobywasz <color=#96beee>[Zdjęcia]</color>, a z pewnym prawdopodobieństwem dodatkowo <color=#96beee>[Stosy Zdjęć]</color>.\n\n<color=#96beee>[Stosy Zdjęć]</color> od razu zamieniają się na 20 <color=#96beee>[Zdjęć]</color>.",
+      "kr_sha256": "ba022541004f4ccb1307126bfa485406f980f552e2ac3f62f76381501250ded7",
+      "en_sha256": "381b8dcd0d86be49b2943953e6b520c9fbeecfab4eff67fef94425b7009bdb3c",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_stage_button_default].content": {
+      "pl": "Etap",
+      "kr_sha256": "d3fce9c9851dcea8c8256dfc81df5b4eed21aacc6c226fd819c77b77b8139df7",
+      "en_sha256": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_stage_button_end_event].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_stage_button_locked].content": {
+      "pl": "Odblokowanie po ukończeniu 9.5-14",
+      "kr_sha256": "f29e8101f350d193490baeff7cba4202f670b26b87640a758babba0b52313096",
+      "en_sha256": "a4423bb01c008b9a0e62003dade36dfa5d1f3e5fcef67efae8c904fa5b03896b",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_storybutton_default].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    },
+    "dataList[id=record_memory_storybutton_start].content": {
+      "pl": "<size=75%>Odblokowanie po obejrzeniu pierwszej\nfabuły wydarzenia</size>",
+      "kr_sha256": "aac35011096df2e4e65e55e6a19d39017713b99086faa9cd2644b0c64ac14699",
+      "en_sha256": "373b5f96c8b4ae96426d5770bafedf1f3bb75aeb66805e733c370f6c9ba6c062",
+      "origin": "ai"
+    }
+  }
+}
