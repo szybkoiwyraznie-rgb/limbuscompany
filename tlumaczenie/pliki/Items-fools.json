@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=9001].desc": {
+      "pl": "Po użyciu otrzymujesz 401 Darmowego Szaleństwa.",
+      "kr_sha256": "af21f3667703373c3e6517b19c7bc9234682ad42e85f59514b71a74f579078ff",
+      "en_sha256": "152285497609414436031aea12e8d0c77ba23669de961bfe8d0a5b11d476a8f2",
+      "origin": "ai"
+    },
+    "dataList[id=9001].flavor": {
+      "pl": "Jakbym obudził się z najdziwniejszego snu. Apologetyczny prezent Kkomiego z połowy wiosny — pewnie za te ciosy pluszowymi pięściami. „Kkomi mówi: to do zobaczenia” - Vergilius",
+      "kr_sha256": "83ab3c653188a7cc8d0102113c118ec6158f14417082113a08c4ebd56ddabfdc",
+      "en_sha256": "fc80fa76bd73a2e4fa4d973fd6f3936849e9ac8ce5d30cbbd50ca8fc8ae0081a",
+      "origin": "ai"
+    },
+    "dataList[id=9001].name": {
+      "pl": "Prezent od Kkomiego",
+      "kr_sha256": "17b184bfe308b9e70a7690e15b9d2c73a0d31d92ba224dbe8bed1647dd6ddb8a",
+      "en_sha256": "3080d5d7856ddfc13036c9a77334038259c1242846734f781b274c4dd750fe96",
+      "origin": "ai"
+    }
+  }
+}

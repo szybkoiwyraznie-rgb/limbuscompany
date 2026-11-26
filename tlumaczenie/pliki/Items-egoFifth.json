@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=202].desc": {
+      "pl": "Służy do Splotu Nici E.G.O do Stopnia 5.",
+      "kr_sha256": "f121bd887ea0a2dbf5744b5b6507fafe3a57386c16e2202ea27306a9363ea23b",
+      "en_sha256": "7f70a3b5415791469390a43d4483ca64e15bffd7713588fe19c3243ca8c3e1e0",
+      "origin": "ai"
+    },
+    "dataList[id=202].flavor": {
+      "pl": "Rozszyfrowywać kogoś — czy coś — to nie rzucić pół spojrzenia, lecz wpuścić wzrok w głąb. A by to było możliwe, łańcuchy owinięte wokół celu trzeba najpierw rozplątać, ogniwo po ogniwie.\n\nJednak to właśnie spojrzenie patrzącego powołało te łańcuchy do życia. Choćby ktoś podziobił się pod nie, rozerwał je i stanął twarzą w twarz z tym, co można by nazwać „istotą” rzeczy — pierwsza próba zrozumienia owinie łańcuchy z powrotem i zwiąże cel na nowo.\nNiemniej próba nie jest pozbawiona sensu; łańcuchy odtworzone nie będą tymi samymi, a bez form, które łańcuchy wiążą, samo pojęcie percepcji by nie istniało.\nTo ogniwo oderwane od większej całości.\n\n- „Czy łańcuch może być owinięty innym łańcuchem?”",
+      "kr_sha256": "5099e2dfddddb2b2d4bc1e4e454469ef590366e2daaaaea378768507362c50d0",
+      "en_sha256": "2d7fa21aaf64a9de18f1eb35bfac0a30c6787f654d1911dd30e5b496b411dfbf",
+      "origin": "ai"
+    },
+    "dataList[id=202].name": {
+      "pl": "Łańcuchy Splotu",
+      "kr_sha256": "77c453df386ed93ec93e0875a8a31571a8c621f5b5776ee854597a18df26e6af",
+      "en_sha256": "bde7af7251dbecaef169ecb627f70d1255261daca651a23b0ebb8e5248c85f62",
+      "origin": "ai"
+    }
+  }
+}

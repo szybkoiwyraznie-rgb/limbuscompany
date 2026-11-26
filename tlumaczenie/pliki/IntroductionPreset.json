@@ -960,10 +960,100 @@
       "en_sha256": "6d59ce7bd10df02b716800e603f71a80ca2ab6bce7fc2714162da6b9c1271971",
       "origin": "ai"
     },
+    "dataList[id=introduce_sentence_245].content": {
+      "pl": "Hm… No i jak? Teraz to wygląda dużo bardziej {0}, nie?",
+      "kr_sha256": "e6437b247f1b5d37c9b681a27fe7e80d4378aed9c3397e23e78e6d9b95fa0a97",
+      "en_sha256": "0701897531361f1d1f1a9c7bf8f31efab0f2a1f81e59dc5407e160a4ec2dee43",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_246].content": {
+      "pl": "Spójrz! Te małe są w wielkim {0}, by pójść z tobą!",
+      "kr_sha256": "3c6d3935f0ce650ff6780f1ab0f0de19469d2b88645b8307595802efdd2aa755",
+      "en_sha256": "750823a07e05c26c1d4baa7c550d1f4ff0255d32b604d060b958ed624d541b6a",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_247].content": {
+      "pl": "Nie mogę się stąd uwolnić. Nie bez odcięcia tej {0}…",
+      "kr_sha256": "fa77190c72d581a66abcd9082a84969e9f1b6244ac0d7ba0d75b0bea42f9cacc",
+      "en_sha256": "20760925fb98b1b2f1c7cd10ac8fde47e396f652f7f3db6b90f16bde8e74ff5c",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_248].content": {
+      "pl": "Niewiele znaczą te oskarżenia, skoro to {0}… już spoczywa w mych dłoniach.",
+      "kr_sha256": "4c418e3f32da350e2e83a10c16d05a3e0ee00ca0e4e5b0152185b20ef7af5334",
+      "en_sha256": "a8b05358fe3d90bfd8f39a597141fe56957a5d7d87ba026d6de6fcdbafd1ac1f",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_249].content": {
+      "pl": "Tylko ja jeden… godzien bez wstydu użyć imienia \"{0}\".",
+      "kr_sha256": "3b9bf48a3c78d1e05aff1f4d54599ed9e0d956c4691c896c4a9d3c1eb964a4e5",
+      "en_sha256": "8d0a3abe29bb7b3927e7be3acfcff29b7f53841c6b92172f1149192f97920423",
+      "origin": "ai"
+    },
     "dataList[id=introduce_sentence_24].content": {
       "pl": "No tak… są i takie {0}, hm…",
       "kr_sha256": "7ed4a1287e447b10698a7dd0b2a8da33d7525638add93fb280d271e3ce71ce1e",
       "en_sha256": "7caa931d343d5f568c82174543fabd33646bd06bc1bcfef9404e0c358a3a4600",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_250].content": {
+      "pl": "Skoro mnie wezwano… Aha. Zbiegłe {0} do złapania, tak?",
+      "kr_sha256": "b885b0b04d17e5b1ba132f425cda81798192e523c566c8a42dae2a63ef026642",
+      "en_sha256": "5a7e3691c8f56f03e2b2203c279e1b9d8fb474711c3b3401d02cd077a97b2987",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_251].content": {
+      "pl": "…Żadne słońce nie wschodzi bez rzuconego cienia. Przyjmę więc i ten {0}.",
+      "kr_sha256": "d0664891c4847f6902b953a1d2da7ade5e9a31b191009988a37b3fe816a853a6",
+      "en_sha256": "e79d499e45e1ece202c18c4cb02065ab4ad87074df0ddaa36e74501472ff35ee",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_252].content": {
+      "pl": "W pojedynku jeden na jeden moje {0} daje przewagę.",
+      "kr_sha256": "08556d98d6fe8218b5a9dd650f06a2396b13beed9c188b66a5c7aa8b9e4ba3ee",
+      "en_sha256": "9ced2a6561f008b2b1a2f0d49113eee33cb0c25618c5445c3fbfd7b0c77b7b76",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_253].content": {
+      "pl": "Odsuwaj się, bo zawadzasz. Cóż. Takich, co {0} nie kosztowali…",
+      "kr_sha256": "edf58644a12f5c7b1c029315e25688610abe5766f284d5d6a194c613c682ce28",
+      "en_sha256": "0593df04b5baa58c637024ec2366362cc01efeafa982640da5dd5a592ead270d",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_254].content": {
+      "pl": "{0} nie dojdzie do skutku.",
+      "kr_sha256": "51194d16f2933886011c38e905e328607ae39c655a95fec6cdfd9bf09e0fdbc1",
+      "en_sha256": "f148b5ad56009ec821419cc474801ed8d65e661fac121e298702a47a30ecf4f3",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_255].content": {
+      "pl": "Za moich czasów… o tak pachnącym {0} śnić nie mogłem.",
+      "kr_sha256": "c433d11d914bd681092e115a99a9f21bc813d6d49046bbae87f2e4b881aac1b7",
+      "en_sha256": "c74515819af743619f6f1935e05cf645a73640cc896df2c856ed627df45fb559",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_256].content": {
+      "pl": "Niosę ci {0}.",
+      "kr_sha256": "e012ccc76486f6cfb7f1ea8bc2042463b804e833fcbfc28980850124f72adf6f",
+      "en_sha256": "a9dd2bf9d361689fb901f5ea2bd718c1271a34cb89dd73d0edb9542381a1b1c9",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_257].content": {
+      "pl": "{0} — wyznaczony.",
+      "kr_sha256": "ae28eb824c0e84b62474d97dac9bacb28b0ded346ba6a3b2fbed831fa51b8466",
+      "en_sha256": "8e2f12a29664cfe3ab5903675b3d11532e2a6ab081a01eaa077f220ac2950cd4",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_258].content": {
+      "pl": "{0}! Przyszedł {0}!",
+      "kr_sha256": "443f38243a4bc9527e4bd4eab013eada7e3a898bfcc7f254f314ec9f3009a626",
+      "en_sha256": "29a0a82402ecc7eb2ceaf88a8266ede3f539e57feff7df8f44848e5601d5c024",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_259].content": {
+      "pl": "Ach, przepraszam. Nie wolno nam przyjmować {0} ponad stan~",
+      "kr_sha256": "ecac8f0031e2d55cee332ea9d38de329c1a3ae03641bd26e18b2535a366351b7",
+      "en_sha256": "3f813abddb12de2fa83e5877b023ac21a286e3dde703740d9ee73376883a101f",
       "origin": "ai"
     },
     "dataList[id=introduce_sentence_25].content": {
@@ -972,10 +1062,112 @@
       "en_sha256": "9054e7518562b012b943c13ba757a1f4f33c2802b2a6adcce264e9ef1d726e59",
       "origin": "ai"
     },
+    "dataList[id=introduce_sentence_260].content": {
+      "pl": "Procedura {0}… kontynuować, kontynuować! KONTYNUOWAĆ PROCEDURĘ!!",
+      "kr_sha256": "61ed5c083f706122ffad1f32ff9717a3fbeb470f0d60af6229d175669097ce04",
+      "en_sha256": "e1acd338b5060bd7c6de433c5e281ef0d76ef6bf1f9f65853a210f593d26a319",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_261].content": {
+      "pl": "Estetyka {0} rodzi się z umiaru.",
+      "kr_sha256": "a2f6af308524a3ebc246cdd823e9ee00f6ad9a6abc9d6dc39006cc48d8d8f3b3",
+      "en_sha256": "cdf844d0a569ec13fcd2afd06a7feb9293a4ad29312a70a71151f7632d6eecb0",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_262].content": {
+      "pl": "Niech jeszcze więcej klientów rozkocha się w modzie {0}!",
+      "kr_sha256": "9fe7d1481a23bce093a06d5e88459b44330774dbdd62a9b8aca3998c56dcb852",
+      "en_sha256": "8850e43a145ba90439cfb034a57260c7d9a54cc0dec6b4bd488bea2df1345960",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_263].content": {
+      "pl": "Jeśli chcesz {0} najwyższej jakości, trzeba się uzbroić w cierpliwość.",
+      "kr_sha256": "4d4c3cba1ed743b92d62323c0e8b9fef2a47ebe8ac17df066dd42181e891fe5f",
+      "en_sha256": "f762f7e0c2f5fc928559dc72c60ab3d4f1dcf7516f7af92e85165e07467d37ee",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_264].content": {
+      "pl": "Nie podchodź! Nie wyciągaj do mnie swojej {0}!!",
+      "kr_sha256": "4cd8120f936d25d06f6b5ea7d9d94fedbb107641138720dea27a0de1de453899",
+      "en_sha256": "0ad84c05e7464519122a5900e28ad0bd6e0b56cf8c9ba035a2bc07334f17e037",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_265].content": {
+      "pl": "…I wnieść je w głąb tej mojej pustej {0}.",
+      "kr_sha256": "ca424cb9369bfcf1324c1a684098c4a43fbbc32624c482834485545b350349f6",
+      "en_sha256": "eb7a88184f9cd56ddb3c53f77d7e1379e437d07a936f8f94ba6bb3c5c0bbd51c",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_266].content": {
+      "pl": "Ustąp z drogi, a wątpliwości nie dotkną waszej {0}.",
+      "kr_sha256": "cdc31f1b53c81a995fad845ab014df53054bda6d61c3f8bcead4bf85dffc1e08",
+      "en_sha256": "127109c88845b5c4ab9d44d65e0776ab9e557468f968252daf3bbbf86e50ffc4",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_267].content": {
+      "pl": "Tak człowiek stał się nicością — zostaje już tylko {0}.",
+      "kr_sha256": "122627de43aa1bfff88eb4d3e42c21442ed4d1e77bea29d50480cada17bbde91",
+      "en_sha256": "23a42c3ec8e9ea832e8f9b9e4be024e7dbe189093167e5aaaa22decfb3113cda",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_268].content": {
+      "pl": "Wyceluj pocisk w plamę słońca… i przebij {0} na wylot.",
+      "kr_sha256": "a7fe7a4b7619864f8705da2a50952630610e71b89e14cd64eacc133e892000ac",
+      "en_sha256": "f00c8710e50eff865aa0f75b2399368f420e3eee74c47c311eacd3d2d8760535",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_269].content": {
+      "pl": "My — ja — pożremy to {0} do ostatka. By nikt więcej nie zaznał głodu.",
+      "kr_sha256": "885c16eeb12ae54b9f585542f9dd8308378f8b6972940f65409b58e2393a6382",
+      "en_sha256": "5e3d38f792ba9d1058d2cd966aacc72f558d9d09b4774470ba3908430bee9c75",
+      "origin": "ai"
+    },
     "dataList[id=introduce_sentence_26].content": {
       "pl": "Ach, pora na {0}.",
       "kr_sha256": "0eaf6449e78b0a385854cc4cc11e1966f802410e27a78888cf8ac144d34b8853",
       "en_sha256": "e8ce9c50142ba5390d18729784338b2147a4a4a6032ca8e885967c7d57fa7a6c",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_270].content": {
+      "pl": "{0}… {0}… {0}, {0}, {0}, {0}, {0}, {0}, {0}!",
+      "kr_sha256": "913fac4cb9af8541a88760c5f65c6ae9491634f70e5bdddcc30394f2aacd1bb6",
+      "en_sha256": "0d7f5a23c5d06f555953fc1fae66b67e1ad56308388b79d69a0f12a30fb72390",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_271].content": {
+      "pl": "Powinno się {0}, wiesz?",
+      "kr_sha256": "3df27d029ebef113854b6024cfa5b7011a47ae3df04e8b5c918d329c3549cbd9",
+      "en_sha256": "3121eb0beb9e943df4ac8c85f0cf643f711ebea68866cb9a4610694b8fbb24be",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_272].content": {
+      "pl": "Tworzymy formację: {0}!",
+      "kr_sha256": "8ab78ce7173d4ad591ad780338a2d9e635aebbb50e6a379572d94224423417fb",
+      "en_sha256": "2a25672fccd0f5f5bba5f572dbfef2ff8a6bd419ab83e75c6301f4d33b4c95c7",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_273].content": {
+      "pl": "Mów, że nie zapomniałeś o nadchodzącym {0}.",
+      "kr_sha256": "0cf2aa443b8f4ab75a3ad4c5684d6e37bd5659c67ebef2f56f951ccf9508ebda",
+      "en_sha256": "3c63e91bd01f70082b0f7b4636771744745caacaf9d252c329ca502f0dd6725a",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_274].content": {
+      "pl": "Ten miecz, naostrzony na niespełnionych {0}…",
+      "kr_sha256": "b10840ccb46a3be07295248048c02c101f88926ebf4b2e29baca7df0b3cb72c1",
+      "en_sha256": "964c194093a52d11a17ea82a372f6e3115a2eb5ca7b6fc4bf737ad46d00e8f46",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_275].content": {
+      "pl": "W całości pochłonęło mnie {0}.",
+      "kr_sha256": "a926d4555dc31873ab7a0559333a9c1a8e09fb555f3cd6a9f656a425f1fb54c4",
+      "en_sha256": "fed0a73a54e6c51dec81867df1b2e4ee138243131f799445873e19ac71c4dd93",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_sentence_276].content": {
+      "pl": "No i jak, masz {0} do przędzenia?",
+      "kr_sha256": "995479e90356ac7b57b240c274c549bda3860bd055a9c29c825d5062eb62e6ac",
+      "en_sha256": "2957d15864529d54253a0ddf88ab19cd325b20293eb79bdf00af1533aa1fef5d",
       "origin": "ai"
     },
     "dataList[id=introduce_sentence_27].content": {
@@ -2424,10 +2616,94 @@
       "en_sha256": "8af399c35cdb0042376b0e3daa46448792103f245662fc519e030927e3fc43c6",
       "origin": "ai"
     },
+    "dataList[id=introduce_word_246].content": {
+      "pl": "Zapale",
+      "kr_sha256": "fbe5e56591096faea0858a7a621a718297206eb1e01d6a787fe432d624f2b026",
+      "en_sha256": "5d882413f20164bfe6cf8fcc8ba72e9b223f25392522406462c022f2e465191b",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_247].content": {
+      "pl": "Pajęcza Nić",
+      "kr_sha256": "5806eb3f0ec42e5a771d5be37889b507ea11772d0946aa00adc1d88c6d1743a6",
+      "en_sha256": "516278bb0dfb3bd22b08a23ffb8e17f03ca8bd232b9a41494c99153998827a92",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_248].content": {
+      "pl": "Miecz Legend",
+      "kr_sha256": "7b4f56fa34b9ad9087e3c8cfab92aa240a68c3392d441d71c97cc18334edfae0",
+      "en_sha256": "9107f4fb4773cfb9177250b6e87ec1c450f01c6fd7f02b1193ca14ad9fe798e4",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_249].content": {
+      "pl": "Ród Ostrza",
+      "kr_sha256": "129303ae9e75ea3c4a4d1d6ac563bb142a05e76e72ef193136ad9e45bf5b19f2",
+      "en_sha256": "c20ef31147430fd5b44cb715e99b697595af95f35650a0b11fb6f3fcfa120fa5",
+      "origin": "ai"
+    },
     "dataList[id=introduce_word_24].content": {
       "pl": "Rodion",
       "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
       "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_250].content": {
+      "pl": "Nobi",
+      "kr_sha256": "2b34dd48fb15e5e4e978000372162e9f3edf64f49572c13d999be2002990cf04",
+      "en_sha256": "fa9d655cbcb4d5050ca42e78865fd0d17efc75e87bf7962b39de53e2aa4da469",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_251].content": {
+      "pl": "Cień",
+      "kr_sha256": "eb6e93d46af7951e3bb6e6343c48ee0b670d2c135d35f1540e18c1875705b434",
+      "en_sha256": "c01576cf2381888cee52423c15ed333a95f92dc37ca132ca913a0baf7e0a69ba",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_252].content": {
+      "pl": "Styl Palermo",
+      "kr_sha256": "caf5eaea5b5a191353528655086ab166dc94d10c1a9f6b66c39f87e436289d19",
+      "en_sha256": "adf38b56b9073716297907c3a7996b0a04110a8e6ca3e5f462f9bb4410abe7e6",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_253].content": {
+      "pl": "Wojna",
+      "kr_sha256": "83d1a46f11735a145b7214d2a24ba58b9b8f682889170ec390d5deea05984051",
+      "en_sha256": "be8816dbd8b8aa53557ba5f25f5295b1ce2cf829d42d9256024b0698e7654f0d",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_254].content": {
+      "pl": "Impreza Domowa",
+      "kr_sha256": "0a1af236777c870cbff05177eb97a0111a9da0bcf3ea39db941aa4d73d17fa32",
+      "en_sha256": "0d03aee1ce17658b028004e882b4d1a37e982b7f454f8a6d29abb678e8cbaa41",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_255].content": {
+      "pl": "Ssanghwa-cha",
+      "kr_sha256": "15f525b347d95accc0a1dff829d78dc6f43d6eee80f3268080c173130f5051f1",
+      "en_sha256": "2101fcc6504e57c48be3f3157080775a592dcdfcb02b4cc77a3c02e060ce342b",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_256].content": {
+      "pl": "Nekrolog",
+      "kr_sha256": "a127ecb9bfc47da299f6692ccbc10b6ddea6554b844755e51c759e2e8b4afee0",
+      "en_sha256": "08446289321084da09739b8599b514b28cd3daf250f8fef3ad9770675011027a",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_257].content": {
+      "pl": "Kierunek",
+      "kr_sha256": "ea6db6a172a58360ecf8516ee6686cf4111405227f65f167c90b152968689095",
+      "en_sha256": "293d404a500f5f9a149916d810ff4f4231bd5d6ecd25eb0f55a867e2095eca48",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_258].content": {
+      "pl": "Przyjaciel",
+      "kr_sha256": "1202aff936337891e07925c4ada650bec9606da9b7307f39115cd719cc9fc4dc",
+      "en_sha256": "acd8f66440162511efe9b24a2677bab20518f44d6f233b08e9387d9747601f18",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_259].content": {
+      "pl": "Zlecenie",
+      "kr_sha256": "b03ecf1ae1af6dc068a9c238101bb9e2adbbf25d7348847e0184b82b311f976c",
+      "en_sha256": "aa76e5c0b6c0d02e7e4cfd0a069180a382bf3a16a9c035ca893d14fb65933de2",
       "origin": "ai"
     },
     "dataList[id=introduce_word_25].content": {
@@ -2436,10 +2712,112 @@
       "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
       "origin": "ai"
     },
+    "dataList[id=introduce_word_260].content": {
+      "pl": "Pojmanie",
+      "kr_sha256": "310da02bd21e76527175e12c38301184c534d8e28d2991f9cdfde02e1a1ad3b6",
+      "en_sha256": "1900b478a5860384597f32d4b22c4bfb537daf25016106d3657d44442b183f2b",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_261].content": {
+      "pl": "Le Noir",
+      "kr_sha256": "684101dc5f6507a4e9cc656f6b5c8aca315d76ed27b402b27a2a45f45f9327c4",
+      "en_sha256": "f7ff04a00a1b641681c19e9359d20fe135e2be20261eb1075d57b556ba70ace9",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_262].content": {
+      "pl": "Le Rouge",
+      "kr_sha256": "4d035093a57679e0b3f2ee8ba2c5bc94e1269c6bcc166b6f2c4e16ec48ff9b44",
+      "en_sha256": "68af9a0f01cfb0d20b2c10cbbb506d09abf975995185499e13ef6286ab0302ce",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_263].content": {
+      "pl": "Materiał",
+      "kr_sha256": "62eb1dfcccf443e332bf447aef814bed823d1ab8a72062a514d03420f4a655fd",
+      "en_sha256": "de7b2b8384b81848fa58aef4ac6208b14f283d08c6a3f1090d32855d46fb8e74",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_264].content": {
+      "pl": "Dłoń",
+      "kr_sha256": "27d4fa6af704520dcfd68f93f00165137c414e7c1d8899d8206d2c73f6dffd2a",
+      "en_sha256": "fa18c06733fbbf4138ea8591d50949c1ecd653d0fbf13278a3439ee5afa14c49",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_265].content": {
+      "pl": "Iluzja",
+      "kr_sha256": "38ad5b383713dc93fa585c02767853199cdacc6bfa853f146b3e8292e062e417",
+      "en_sha256": "5f4dcd72921dd28f1209bf31af6da3d7fdbfd116527709f9e8fb2fe9769a3e54",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_266].content": {
+      "pl": "Sprawiedliwość",
+      "kr_sha256": "87c242333a3e98e4ab0d9ec5672b55c95bc9970bea9a9dd308f9fe3a2f1a05c6",
+      "en_sha256": "5f9740dd7874801f460dfe0f92e5be0cf2cfd04088d7d5ab996c92a428d3ee8b",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_267].content": {
+      "pl": "Popiół",
+      "kr_sha256": "1c8812466e0a511080d4a23df0ec71b5d7e059431ed5915225e15d2a1b58076a",
+      "en_sha256": "ce3303695841436a43034a6c7a7fa2f54c99e82dcab1a3177a33bf15491cc06d",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_268].content": {
+      "pl": "Oślepiający Blask",
+      "kr_sha256": "c9ddc2359908d263cb495a375aa1b217a913f00dd56f429a2a7199b556bc2078",
+      "en_sha256": "bb2be91dcb4fbfdce39321a8c51b403179bc508b2e01ad9942cd0de36c5a0356",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_269].content": {
+      "pl": "Dom Handlowy",
+      "kr_sha256": "655eab9f02534cf0ba142923d39e55080e1190027b33104ff93e99fcb2e31692",
+      "en_sha256": "0bd3b148b9b994ff48704ce8bcd5030a507a6ec1671fecea0265c3b509fa1d27",
+      "origin": "ai"
+    },
     "dataList[id=introduce_word_26].content": {
       "pl": "Faust",
       "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
       "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_270].content": {
+      "pl": "Ścieg na Cal",
+      "kr_sha256": "2f61b1b2d6e79fe6f4fca2020ef403bbb8e5852776b8d16a746382d558d76cd1",
+      "en_sha256": "94ebbe5637e70dec5dbae570c68526fc9ab3c669d748753b586aad23bbf37fcc",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_271].content": {
+      "pl": "Słuchać",
+      "kr_sha256": "c1bbf45466d4236e4fd1898829de8a4e005cd6db446dd7b51553a604e7799821",
+      "en_sha256": "225d29f6201e1a635684a6dc0e7a65d164c7ffe48588a421fc27b067a55bb02e",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_272].content": {
+      "pl": "Klin",
+      "kr_sha256": "c790e3d0210172c795a511c23eb87d1979c372cc2d5f58aa4f5e696fd86b3941",
+      "en_sha256": "7447e0c8019c265265ca08e2a88381e07eb01eb0caf14efb22149756ec8c10e5",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_273].content": {
+      "pl": "Przedłużenie Ubezpieczenia",
+      "kr_sha256": "e4674079164c009f5d612158b55fbe14d44e8dacc0876b235ebe22ca62597d55",
+      "en_sha256": "988cb26429d993b55b2b0f5b62c15ab48ff1ca60c9b3066142e62b7ba9605b99",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_274].content": {
+      "pl": "Przysięgi",
+      "kr_sha256": "eec4c74908bd84688d627c0d30c82c0b85fd02787cc45c695cb9da301f76820d",
+      "en_sha256": "2faca0b2215b1bc9b03449a5856b5082c33990dbc24d31b279ec1b71170c4151",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_275].content": {
+      "pl": "Pożądanie",
+      "kr_sha256": "31e6bade446c6d5b912824b19c30d9fc99ba8385dd85008495c6cf72a5826512",
+      "en_sha256": "c3cd18f905d9149f16d5909e631440003548ccd5a8fa122398557c39823c8b09",
+      "origin": "ai"
+    },
+    "dataList[id=introduce_word_276].content": {
+      "pl": "Nić",
+      "kr_sha256": "2b47482006985567a625f7884b2ab9ba177f5efdadd99cf233c6052593d1f170",
+      "en_sha256": "5373c7f8a5a69019e959540ef127be3302afdd5e2313244e6d08cbd5e975d06d",
       "origin": "ai"
     },
     "dataList[id=introduce_word_27].content": {

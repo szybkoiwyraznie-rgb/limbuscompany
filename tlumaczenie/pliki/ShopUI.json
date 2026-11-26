@@ -1,0 +1,484 @@
+{
+  "entries": {
+    "dataList[id=create_enkephalin_module_success].content": {
+      "pl": "Moduł wyprodukowany",
+      "kr_sha256": "46192e92169b1ce05775dfdca35d6668404f5da03f376743e45881f239e7f190",
+      "en_sha256": "2d345b319c81e9319224a003b1d154786a699fdef85780f3e6db33b82da2b24c",
+      "origin": "ai"
+    },
+    "dataList[id=enkephalin_box].content": {
+      "pl": "Skrzynka Enkefaliny",
+      "kr_sha256": "5c824190d6c65b418d6a44b007b2b68ed9f54dee52d0f2f4260efc89b19a4cc2",
+      "en_sha256": "550bdf0be8bc0cbc0221e34e9f604ea91eb1765230b5af0b2384e5a0246a6290",
+      "origin": "ai"
+    },
+    "dataList[id=enkephalin_charge_finished].content": {
+      "pl": "Enkefalina Naładowana",
+      "kr_sha256": "7df31fcdbbb4314434c62ba08b2345e1b9d1aefc53bf9c1d944345a5867f001d",
+      "en_sha256": "02844d4e0a143b55645bf196013066df647d1a32410dacf36d6946b1c5de27aa",
+      "origin": "ai"
+    },
+    "dataList[id=enkephalin_full].content": {
+      "pl": "Stan Enkefaliny maksymalny",
+      "kr_sha256": "a4fe46407f97f352b2f05421360a275e882a98382c887ededecdb91f84e110e4",
+      "en_sha256": "3c74630bb16fc3f1f09b9f80b870c9fba82c44b3c2aed37274594e0f0e57a158",
+      "origin": "ai"
+    },
+    "dataList[id=enkephalin_module].content": {
+      "pl": "Moduł Enkefaliny",
+      "kr_sha256": "7428bd5d46ded81f4f09ee9a477362e7e2d87fe7fe17aacaaf684255a7529b4b",
+      "en_sha256": "c842a3fdc17a7dd43e497f83bf6877cae4023d4aaef08b49baff246a829bdfca",
+      "origin": "ai"
+    },
+    "dataList[id=enkephalin_module_count_max].content": {
+      "pl": "Moduły Enkefaliny maksymalne",
+      "kr_sha256": "36d72d92131d56347b8394fb826f9cebffbb09672e4bcefc64ac3e4f69e51340",
+      "en_sha256": "b2a7092a89e8362d9a2c895f8305e3428db2eb6c71b3341f7b5dd7cf3fb21507",
+      "origin": "ai"
+    },
+    "dataList[id=enkephalin_module_count_max_desc].content": {
+      "pl": "Nie można wyprodukować Modułów — masz ich za dużo w magazynie.",
+      "kr_sha256": "61164068b24abc37b23e71a5f161ef36b38e7b18b07bfb545b2a65b3e24d85d0",
+      "en_sha256": "aff518c01557bc6ba0ff66e9ed63a41c7dcd31fbceaad14d0554cd98d1a648ee",
+      "origin": "ai"
+    },
+    "dataList[id=go_to_mail_popup].content": {
+      "pl": "Do skrzynki pocztowej",
+      "kr_sha256": "79ea892aed4289a87ff1809cd7ee23b6ad1f6aa4de770daf0ddb3e5b9bdd018c",
+      "en_sha256": "9f8a9e5754b657a61ef760d85908dda9c6836d0eef42080c4d66980b4ab57303",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_enkephalin].content": {
+      "pl": "Za mało Enkefaliny",
+      "kr_sha256": "332dfdbfe72e9509cdacd337b249b7e14bf7bf8f9417b2fbd40626f5f9fe64a4",
+      "en_sha256": "43a8343b8920a6674f80652e2497a79f98b390e2a31d0300ebdf9d63e5178feb",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_enkephalin_box].content": {
+      "pl": "Za mało Skrzynek",
+      "kr_sha256": "e2778e1b621deb0e7389819c15f28ebe88f53c3570320d00edd8e3345b31c51f",
+      "en_sha256": "c5881f44fb60333f391bf5b1acc97634f40acd8cfdc08dea61f41c117e296d05",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_lunacy].content": {
+      "pl": "Za mało Szaleństwa",
+      "kr_sha256": "96a9036ecb7ea53b9ed4c19b9065395bbfead9196bd6508558acfe47fe77b373",
+      "en_sha256": "7ab11d1f1b682c3608103bb45f77aa65fd15345f846ae48227cce1e61ee8b7a7",
+      "origin": "ai"
+    },
+    "dataList[id=lack_of_lunacy_ask_to_move_shop].content": {
+      "pl": "Nie masz wystarczająco Szaleństwa. Przejść do sklepu?",
+      "kr_sha256": "9ec8c50a5d889bcf232b49464ac0bfcf54dab00dfab38d82171916059e222d21",
+      "en_sha256": "cf11f4d18ad27e18cf22d41fc14173a67650a8b0d6fb0dec882695b070b8ae53",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_acquire_at_mailbox].content": {
+      "pl": "※ Do odbioru w skrzynce pocztowej.",
+      "kr_sha256": "2735ce0fc1dc03128c5b96d52ff32c6c293094bca4587e125277aee767ab5495",
+      "en_sha256": "9094b275c1e9982a6f6ff5c134ef0f0a7f5357e456dc915af40196b3433e0dc7",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_additional_give].content": {
+      "pl": "Bonusowe Zapasy",
+      "kr_sha256": "051e20fdff3cb69a8a422bf538d94daef3d511ac213903021ed2b194c44daa24",
+      "en_sha256": "ff96440631e6c0308bb881861ec4f9fd2b4675b0ccb99b7b6b798e0ed63c5a86",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_ask_buy_enkephalin_box].content": {
+      "pl": "Czy kupić Skrzynki Enkefaliny?",
+      "kr_sha256": "cc0f315641f3e8ed1fc543ab9d61c3ce48649419940ab4179200ccf09e16ad11",
+      "en_sha256": "31d70433936c4820b6e6ddd38b09f7f2b7c29557625397e8f3cad4db46564493",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_ask_charge_enkephalin].content": {
+      "pl": "Czy naładować Enkefalinę?",
+      "kr_sha256": "2bdee1590280a3a0be119d6b1defef7f50304deb264ceafbc32195575be84113",
+      "en_sha256": "20bae674531e4fbd9e642a2cb53f6bcf77fa3d503a233db60c686b712188f08c",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_buy_enkephalin_box].content": {
+      "pl": "Zakupiono Skrzynkę Enkefaliny.",
+      "kr_sha256": "4642c801e099bc85ca58262eea52f96fc8514c7bc8ffeae366863ef14e1a6409",
+      "en_sha256": "800563629431ba0f3712b496823a35042fdad700305def0dda5b879e03e78fe9",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_buy_enkephalin_box_tab].content": {
+      "pl": "Zakup Skrzynki Enkefaliny",
+      "kr_sha256": "c3a1cccd3580e8adbd3ffeffc3fa1e6dadc04e9a52923f33092ef4fb8e196738",
+      "en_sha256": "163906f76b4f787a409ef076fee700e49205f1a8c0c2939fb801a2621c447247",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_charge_enkephalin].content": {
+      "pl": "Naładowano Enkefalinę.",
+      "kr_sha256": "59a9d31098d95e7771d54154e81d30faf8b0856015e2431a89e5c2992c07fafc",
+      "en_sha256": "6fd3a1b6008e713f4de2daaa5adc2576a39c6a82594d7a6be4a17fd833f3bc19",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_charge_enkephalin_tab].content": {
+      "pl": "Ładowanie Enkefaliny",
+      "kr_sha256": "891729905f4dc6a4b02656127f19f1f7727af0f1bfacdea1d9ca17f92f351205",
+      "en_sha256": "f5891e03ebe6eb3efcb26b1e9dede2215f6551482c77ac23836f4541cf6557b2",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_enkephalin_box_scarce].content": {
+      "pl": "Nie masz wystarczająco Skrzynek Enkefaliny.",
+      "kr_sha256": "7ed0498c17e93f1d552a046a3cdf2d897fbcc8c0366f481b8b4c3cd6346775ab",
+      "en_sha256": "cfe6fa69669ceeefbec127b302e32df4251fd87a0eee623d5742c6ed3179d224",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_enkephalin_fulled].content": {
+      "pl": "Enkefalina osiągnęła już maksimum.",
+      "kr_sha256": "fd0069792bc1515fc8cf90dd9a1bbe5b677d67432c01aa332e5954791f1e4e73",
+      "en_sha256": "fbd5bc4ebed11494f98abd2ce70eecdf9bfe5f50477006c0be15160f9129e7b2",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_enkephalin_number].content": {
+      "pl": "Stan Enkefaliny",
+      "kr_sha256": "fd33277fdf4ada20e68ae324424ef06ca8e77337efef6a82005d2b45dc0c4deb",
+      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_limit_purchase_periodic].content": {
+      "pl": "{0} w Magazynie",
+      "kr_sha256": "87ed5b0983a332409e6cdb69488d681fb68f96c8afa2cfae9448e1bd7edf7356",
+      "en_sha256": "39c01eab33b3926d2d98bd9264167f3656cf9c99ea46311a3861892d0b37c017",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_limit_purchase_permanent].content": {
+      "pl": "Zostało {0}",
+      "kr_sha256": "4e37d35e7ae26357cb3902a15f8751adeee68b459c2a7dd9e28dd77d0407be8e",
+      "en_sha256": "d128c96002b217dd580cdf1c3e51b767ceb88ca2d64d485e25c03bab749a27e4",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_lunacy_package_tab].content": {
+      "pl": "Pakiety #2",
+      "kr_sha256": "4a0b2ac38c7e0e2dbe0963d4e42161cd6a55771072f99eaf81c9b199e0222295",
+      "en_sha256": "456224fce80276ba553c5ea716375f6f2b294ae946dd762cea78435e0d2efd51",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_lunacy_scarce].content": {
+      "pl": "Nie masz wystarczająco Szaleństwa.",
+      "kr_sha256": "8db0ca771bcb6d9f496574b5ea3c17c352bd6316270bff06b1e46dc97d244569",
+      "en_sha256": "9da313b9c4a9e08a7e31249668cd572d68c9ce03351caf639e164fbe6134d1ea",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_madness_tab].content": {
+      "pl": "Sklep Szaleństwa",
+      "kr_sha256": "096cc0c364b386024fee1832dd4c226144ed50ddc46aae48820d6709040d1dc7",
+      "en_sha256": "76b928873906d881b52e2ce2f3711ac30b584e0e3ca024bf0486bb2f9f0aa9ab",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_not_free].content": {
+      "pl": "Płatne",
+      "kr_sha256": "9ee607087e5cbb38e02b5f604392e9ba32d549b5123d8ecb6d32628a05625928",
+      "en_sha256": "fb81b961af456e5e748db7e1b1bff9a5e621b62718234c1937738d1adc317a17",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_only_once].content": {
+      "pl": "Oferty Pierwszego Zakupu",
+      "kr_sha256": "9b475bf033ca73ddd5699e43833021d0782324c51884b85ca765f84467817299",
+      "en_sha256": "e03ede231d094ffcfe87206ca3b9fca836baf95144e6a6fa0cdb0859289e2f2f",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_own].content": {
+      "pl": "Posiadane",
+      "kr_sha256": "6d810555c4b7919fdb8047545ae29a6fe2502ee1a99b0e5b2d83d0addf276a7a",
+      "en_sha256": "17b760c41cd2093315bba1008eaae9c4c05e3aa0fbbcf7477abfb775e62d6c5c",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_package_tab].content": {
+      "pl": "Pakiety",
+      "kr_sha256": "6586b5e62c1fd57b8ca173fdd0be5cc241631c87b6cc716ecb3a909de98cd821",
+      "en_sha256": "3e784fc40cfb216402796c8449be250d3a5298da001831afb22220e03b01fa1c",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_popup_title].content": {
+      "pl": "Sklep",
+      "kr_sha256": "de9d31548e094efd2662817e016df5b801698752a92f7dff333280378a7584a9",
+      "en_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_purchase].content": {
+      "pl": "Kup",
+      "kr_sha256": "33500a787e27c7408655c0c3b4d8f2920a51792a196946fefeada30bbab88eb3",
+      "en_sha256": "5b5e9c65b400565c2cd80615d8c56ebdc45b769dd18b950344428dbcf67b5069",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_purchase_per_today_fulled].content": {
+      "pl": "Przekroczono dzienny limit zakupów Skrzynek Enkefaliny.",
+      "kr_sha256": "2c05bbcc55fb1e321ad9020b9d7bff9e1af7475c2d71c960c00f31fea4ee6089",
+      "en_sha256": "21125371e3dee1213924f020b03682f2cd5932079d76685052b9dfef4d5f9681",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_purchase_product_success].content": {
+      "pl": "Pomyślnie zakupiono\n{0}.",
+      "kr_sha256": "add76e679e702c7c5ee7be70e8e25b4be57c13465d1b06a9023444ff5227495d",
+      "en_sha256": "e0bf05a72254f00545189f7f4e1bc22d3df72495caf4aeae857714000ca033f9",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_purchase_success].content": {
+      "pl": "Zakup zakończony sukcesem.",
+      "kr_sha256": "2d6016d753ab8dca53f56b2dbb6c7323c8249cef6afa46c8401792fa614d7c82",
+      "en_sha256": "45074359a1032f64e23a9555b9df43b4d3d8f736040643b04c3344c00901fe41",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_remain_days_minutes].content": {
+      "pl": "{0}D {1}H pozostało",
+      "kr_sha256": "1ffdb75a3595dd9aac536edd3d861ff5b70a68a319b0a7d7af046367a421eb48",
+      "en_sha256": "e347afcfb15e161091c6074765cbb18b24f596767514f8370c6774b88767d9a6",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_scarce_madness].content": {
+      "pl": "Nie masz wystarczająco Szaleństwa.",
+      "kr_sha256": "623b5e641ed497fc3c3ac9975b8e80bc19c63039a3d0528c65564f80905da470",
+      "en_sha256": "9da313b9c4a9e08a7e31249668cd572d68c9ce03351caf639e164fbe6134d1ea",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_shop_until_season_finished].content": {
+      "pl": "Do aktualizacji\nSezonu 7",
+      "kr_sha256": "cd672806f339df7dee7876404bf3c75961f31986af86e4a07a30e195ab9f7cd3",
+      "en_sha256": "d18ee6b7e6260c2b39f9b8a72f80af67963721b31d290c0e6ca5d2942be5eaf4",
+      "origin": "ai"
+    },
+    "dataList[id=membership_remain_side_desc].content": {
+      "pl": "Pozostało {1} dni ważności {0}.",
+      "kr_sha256": "81bc071bc04bbaea04cbad17bc52594a23e0432a52e6d5ab9afb7a93443c24ea",
+      "en_sha256": "108f43d5e9e2b706c5ef33c286f80ac0272a8098fb50d944b38278a663a1bbfe",
+      "origin": "ai"
+    },
+    "dataList[id=membership_remain_side_desc_oneDay].content": {
+      "pl": "{0} wygasa dzisiaj.",
+      "kr_sha256": "4a5259f3f66f2b03e42f51be99b4d76df3ddd7c0b2b74652736bbc820bacbd29",
+      "en_sha256": "d8189b7b45d3733f91d16663453940fee4b79f449c917894d112131980b40a54",
+      "origin": "ai"
+    },
+    "dataList[id=membership_remain_side_title].content": {
+      "pl": "[Powiadomienie o wygaśnięciu pakietu]",
+      "kr_sha256": "3594428988650e009536fc9d43bfddb90934e4d53d460e031373278e936d6746",
+      "en_sha256": "363c89451ed4e3d376adf33401663425cf0a42e5edfe05a2157322152df8d8d8",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_Tab_ALWAYS].content": {
+      "pl": "Zawsze dostępne",
+      "kr_sha256": "8902fb4885bd7fcb80ddfb467e95be092031776d3473c780bcee775a3c3b263d",
+      "en_sha256": "8c20b364e7cae12a080b71129171306efdd7fde8d75f7ed1c4aa2776bc6dc9d3",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_Tab_LIMITED].content": {
+      "pl": "Limitowane",
+      "kr_sha256": "b56091f7057eac7eaee655a73d6f8ee3d5b9b5200fe2ec5aa152a5751af505ac",
+      "en_sha256": "e5125d9f63d2947b5540a0f96b768bea4bcce632d9869d2a75749bbd513142c3",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_Tab_MONTHLY].content": {
+      "pl": "Miesięczne",
+      "kr_sha256": "52a46af13934e75259a280e8380e72c5ee23cb993a641845b1eef65ea0ae38eb",
+      "en_sha256": "9b11f6b707d2a03e0265465f32520bc1bc213de121de958539662d0ec1453fcb",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_Tab_WEEKLY].content": {
+      "pl": "Tygodniowe",
+      "kr_sha256": "2392bb5e3aa698e8c44b743a7fd14094626205977620f46ca8d631599e795f81",
+      "en_sha256": "2975132481a7a6957cfa95055d04e706f21f1a613f448d0a17463f2eacca4636",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_category_GROWTH].content": {
+      "pl": "Rozwój",
+      "kr_sha256": "2008c71775593d82ab3c77a211aed8a80caa6613cf18cb9aaf668a15afd095cd",
+      "en_sha256": "66b06e996553a4e70d0f3a5a50c6b6877d23fb448cad524fef307399ebe36d5e",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_category_LUNACY].content": {
+      "pl": "Szaleństwo",
+      "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
+      "en_sha256": "b8b523982746c8c5cb5eccfd535290edbf4ff1f419b1b6c3b5ccb4ad604b7f86",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_category_PACKAGE].content": {
+      "pl": "Pakiety",
+      "kr_sha256": "bd542ee0495d5d7746fd137cb9f86c67aa32eb4abdd52826fce756db5dce9eb8",
+      "en_sha256": "3e784fc40cfb216402796c8449be250d3a5298da001831afb22220e03b01fa1c",
+      "origin": "ai"
+    },
+    "dataList[id=paidShop_category_SPECIAL].content": {
+      "pl": "Specjalne",
+      "kr_sha256": "d1dda53fe376988b83dd74b9ca0cac1abe9ea85ec5e2b1ac02ee419d87cfeb8a",
+      "en_sha256": "997c544f1be0a2dde15ce4e764321511ce9abdb34c7e7c661439e0382191a396",
+      "origin": "ai"
+    },
+    "dataList[id=paid_already].content": {
+      "pl": "Ten produkt został już kupiony.",
+      "kr_sha256": "b855da71303bfc63d207e90bd3f1f0753abe08c7360ff948936a27038f0f8238",
+      "en_sha256": "e7af5aa4595a46ed2c34c5270e440c95b15389679907f07f8cd0420980f6c866",
+      "origin": "ai"
+    },
+    "dataList[id=paid_runacy_lack].content": {
+      "pl": "Nie można kupić — za mało Płatnego Szaleństwa.",
+      "kr_sha256": "547188a14f0b9d496c40f1ba798d90925a6808fd00a74c7dc462d5ca4df6e76e",
+      "en_sha256": "e45f9e6ee85766e3980d5d4a0f4301d4d4ff9d53d139150b5398b2c519c119b5",
+      "origin": "ai"
+    },
+    "dataList[id=purchase_limitation_full].content": {
+      "pl": "Limit zakupów osiągnięty",
+      "kr_sha256": "74e562cbd6534442e06000a6cdc69b30b2c9a55f46648b5e3a6e1207e4e09fb4",
+      "en_sha256": "14b4a32af0d1a3ee3b4b457517c6410abe2847027792c1ed772dc70e5a3d0b5a",
+      "origin": "ai"
+    },
+    "dataList[id=remain_days].content": {
+      "pl": "{0}d",
+      "kr_sha256": "684775f370642bc6fb12fb66fa4fd4afb479fdeadf8eeeb60331ce4a7d0b9537",
+      "en_sha256": "6c61dd0357caa5d1c89e8aa6f47068e4c796f27cf74c00f1022deb2b7ef912b5",
+      "origin": "ai"
+    },
+    "dataList[id=remain_days_with_number].content": {
+      "pl": "Pozostało {0}d",
+      "kr_sha256": "e69cb4f6825996984ebf625c51cb97fef49d6841b61cc1faad18ca2c915601f7",
+      "en_sha256": "e224ecc7921de78023f485be8dc9e8e220f65594234712c9d499c91f451d1b79",
+      "origin": "ai"
+    },
+    "dataList[id=remain_hours].content": {
+      "pl": "{0}h",
+      "kr_sha256": "9a58de84ee31f1ec4865d913e068d8404f6bea4b0e169ea1e91b6b0090d85c3b",
+      "en_sha256": "360a8af5a7d27faa644744315376c1d808e236ad079ef371e3961a37238894fe",
+      "origin": "ai"
+    },
+    "dataList[id=remain_hours_with_number].content": {
+      "pl": "Pozostało {0}h",
+      "kr_sha256": "56dd033bea1acf9f49c76785478d81076d8b47a48f52033d8c114811e2104ee0",
+      "en_sha256": "d34c167eee3943f064d935777596f9465940ad88dc441b87630e62539242c523",
+      "origin": "ai"
+    },
+    "dataList[id=remain_minutes].content": {
+      "pl": "{0}m",
+      "kr_sha256": "949d9fec534d97c721ab8c393e7afc16c80373e980870b7c3cd60224e4bcbbd0",
+      "en_sha256": "7f5ea983858ef801024bbfe4af68b08042919f4828bf0068f1bc4ec8c9ce9b57",
+      "origin": "ai"
+    },
+    "dataList[id=restore_purchase_btn].content": {
+      "pl": "Przywróć Zakup",
+      "kr_sha256": "1676317f0d3760f65280523d284fcc7da6d43bf97e3d75e4ff37cadf3665375b",
+      "en_sha256": "d1a951f8d95cc7716fcb29eb85240f84dd1bc878ab547d883bcaa0322c93c30e",
+      "origin": "ai"
+    },
+    "dataList[id=restore_purchase_no_product].content": {
+      "pl": "Brak produktów do przywrócenia.",
+      "kr_sha256": "f26de216dbc2ee3cafc24018937087b2319d4b7d23ca2bc12fb4a63af76d3b4d",
+      "en_sha256": "e126230c54fde2a725701b4655397c65fe6d0cb55e193627a3dd8616cced0e4b",
+      "origin": "ai"
+    },
+    "dataList[id=restore_purchase_succeed].content": {
+      "pl": "Przywrócono nieodebrane produkty.",
+      "kr_sha256": "83bb5304fd283d375e90bef777e2b459d52ae090c05b48b31e7f124b17a1cf76",
+      "en_sha256": "38916224832a9c8545cea60faf4922aac510412b3a536e17e456955da664bc00",
+      "origin": "ai"
+    },
+    "dataList[id=returnpolicy_info_title].content": {
+      "pl": "Informacja o zwrotach",
+      "kr_sha256": "7d9d3b0cc027fb1d13fb5c939de2a14ac40915ac03da9382dc3e21fcbddf6d5f",
+      "en_sha256": "36d81c2379c2322571bc5003681665ae185eac59be8415f511b24f61ed6bda64",
+      "origin": "ai"
+    },
+    "dataList[id=returnpolicy_table_battlePassPackge].content": {
+      "pl": "Pakiet Limbus Pass",
+      "kr_sha256": "8918a81be006c8b4bff3a6957f1aa165a0e581812c3205c7a090b2cb4aa2eb01",
+      "en_sha256": "9e80502d90434562d7da285da5c7c72ac8d99c2d3af7d0f1fcbd2831fd6c33df",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_ask_create_enkephalin_module].content": {
+      "pl": "Czy wyprodukować Moduły Enkefaliny?",
+      "kr_sha256": "f9f22fd49b91f4db1e632343426e5751f526efafe6afff6bd7bf8833de7daa83",
+      "en_sha256": "400f112c6066f43cfc76b2d00f0adb4478d8513288bf7ae51ed1d805131beeff",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_charge_as_box].content": {
+      "pl": "Ładowanie za Skrzynki",
+      "kr_sha256": "e566a2febc0d8f9ff36482cbe749118bf309ca44df18a031b187f18d0c1f96c4",
+      "en_sha256": "1317bd4117ed8e73556eb09673e44ad83a3f368154fcfb27b58c5bc21d89264f",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_charge_as_lunacy].content": {
+      "pl": "Ładowanie za Szaleństwo",
+      "kr_sha256": "042deba4b52192dd850c728d59f0a924177b6c58bf97aae9d4ddfdc9f3bf3bc4",
+      "en_sha256": "3b3dd15f3b710b7f5856febf8d5b7cea275c1402fc082d77723180ce83e3590f",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_charge_enkephalin_about].content": {
+      "pl": "Naładować {0} Enkefaliny?",
+      "kr_sha256": "391a745d803ae8468f848d1879904a14fc93135830177d6e1a21d2eb156c7a1e",
+      "en_sha256": "bdfa22a8768a930edd1f50c3f82ac4feeab9a4ea72b2022584196753a2bdacab",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_create_module].content": {
+      "pl": "Moduły",
+      "kr_sha256": "83c819dfc6e3b3304a96e366161da2472624936b0a274de385f2fc11552ba1ad",
+      "en_sha256": "76c86c4c32432be30bdd4037aae3c816045cc2a34a0b41b2322bb2c37927323e",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_make_enkephalin_module].content": {
+      "pl": "Produkcja Modułów Enkefaliny",
+      "kr_sha256": "f154dbdda17fc85ed59c1e789f5cab73fe67a9fa3395360011c90b14125cabe1",
+      "en_sha256": "37cafd22f81fc6973287a575ab630d0697ec8f6deb8a858dd87b45df8081d1eb",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_no_more_purchase_chance_today].content": {
+      "pl": "Wyczerpano dzienny limit zakupów.",
+      "kr_sha256": "bed1fddc8826f152b3fb982a47ea6dcef8841906322a16473194ad830a84fb72",
+      "en_sha256": "c2e941b94dedadd8565bb776904156a4c6e517f8a545f75e23b337a7139bf63a",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_recover_enkephalin_after_time].content": {
+      "pl": "{1} Enkefaliny odnowi się za {0}.",
+      "kr_sha256": "9f71dbe5d18029f059cf1c25d4d498935f6b8fb20c9bef8f236f7cd4b31d504c",
+      "en_sha256": "71218609db67fc0a4e56ce9633e43624af1e4c0069127906859f76010a9a2138",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_scarce_enkephalin].content": {
+      "pl": "Za mało Enkefaliny.",
+      "kr_sha256": "15a664a494a1ebabf36b47e1d37e74154e650267c186f3133c8ef8fc8b03bb51",
+      "en_sha256": "49324affe995bc1d13e0d4f79d56af875034d5fbe92e3723ce2ad60343ca4df9",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_scarce_enkephalin_box].content": {
+      "pl": "Nie masz wystarczająco Skrzynek Enkefaliny.",
+      "kr_sha256": "bd4b5dce77581c38995c618bc032a7fccf34fcfa6c460d227b4e73122776c167",
+      "en_sha256": "cfe6fa69669ceeefbec127b302e32df4251fd87a0eee623d5742c6ed3179d224",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_scarce_lunacy].content": {
+      "pl": "Nie masz wystarczająco Szaleństwa.",
+      "kr_sha256": "a7c78883c5d0acd6a35ea61ebb559d915137439a4ec059d6b83af065e7e667be",
+      "en_sha256": "9da313b9c4a9e08a7e31249668cd572d68c9ce03351caf639e164fbe6134d1ea",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_use_enkephalin_box].content": {
+      "pl": "Użycie Skrzynki Enkefaliny",
+      "kr_sha256": "009fdbe1a78840a21b37b6c2fd23891136bc7a871cf996f9954672111e84a1e8",
+      "en_sha256": "ebac2629d01b3a885c922e81743a4283369dfe0627144d84674a29f515d1fe76",
+      "origin": "ai"
+    },
+    "dataList[id=shopui_use_lunacy].content": {
+      "pl": "Użycie Szaleństwa",
+      "kr_sha256": "60f3d407ab10fefef8254b3f004c811cfdb7e6dd5c613f4a921d10cdf786e06c",
+      "en_sha256": "3b3dd15f3b710b7f5856febf8d5b7cea275c1402fc082d77723180ce83e3590f",
+      "origin": "ai"
+    },
+    "dataList[id=today_purchase_count].content": {
+      "pl": "Dzienny licznik",
+      "kr_sha256": "4ad2b34ac51c43b6fe67d025d46ca33aaa4c8718b3a3d7fe7ddd4cf29a3bc416",
+      "en_sha256": "61de5ff16bc606bb8dfb5e50a4b2bd94b1c7e6ae69e952111df33aab4b80ef73",
+      "origin": "ai"
+    },
+    "dataList[id=unable_to_charge].content": {
+      "pl": "Nie można ładować",
+      "kr_sha256": "59073fb626627d8a83c6a703ed3f4c96c274824cff91d3b7e5b12218e636f588",
+      "en_sha256": "10f43455fc23f9c778a36019d97c7b15f54b1c20546fc872a3be3fd597cfd0df",
+      "origin": "ai"
+    },
+    "dataList[id=unable_to_create_enkephalin_module].content": {
+      "pl": "Nie można wyprodukować Modułów",
+      "kr_sha256": "05a9436e6e27574f7bab26c6c9d1eae29fb32f2c3d91bead89deb3469456200d",
+      "en_sha256": "148012b4a5ffa5e20dc268a5360ce82d181c10040f185989c7ded16ab070d5b0",
+      "origin": "ai"
+    }
+  }
+}

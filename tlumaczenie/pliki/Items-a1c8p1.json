@@ -1,0 +1,298 @@
+{
+  "entries": {
+    "dataList[id=10006].name": {
+      "pl": "Odłamek E.G.O Sezonu 6 [Wybranego Grzesznika]",
+      "kr_sha256": "e923ba5b857d7abbcfc42cdad4f31d1f0dd1d8b7615034385eccb0bab56c0af9",
+      "en_sha256": "32b15558339c7705472d1be067b00cb2279da5fc66e3f44081ada890c6a9bb24",
+      "origin": "ai"
+    },
+    "dataList[id=10106].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Yi Sanga w Automacie.",
+      "kr_sha256": "1b14891f590753f629977375599783c1125d8c6f2f6eb9fe74917250199ab39f",
+      "en_sha256": "146c3fe2a42e8d27882193fdde58bbbd7649c6967481ce99b0f7d74ac6151d07",
+      "origin": "ai"
+    },
+    "dataList[id=10106].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10106].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Yi Sanga",
+      "kr_sha256": "2fa08a2ec5afbf4bc4dd8eba562e95375c7011658284256e5e5deb960e462279",
+      "en_sha256": "720fc9ec6ecd3b70f7cbacd200eb4b3a3bc724a890c8c036a6e92a0db12240c3",
+      "origin": "ai"
+    },
+    "dataList[id=10206].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Faust w Automacie.",
+      "kr_sha256": "5ff674508e36067bec0ee5ea6c4d0cafbbb5038ed26003e18f54216bc10e12e0",
+      "en_sha256": "6f6c184c307f4dc6666e59eccfa2992d896d190cd6948a8cc5f78f35dd79ef7c",
+      "origin": "ai"
+    },
+    "dataList[id=10206].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10206].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Faust",
+      "kr_sha256": "778369bba0981bce96a363b3fa15be6dd6e566c424116abd503144cf67be2c77",
+      "en_sha256": "d674aa88c3542578cb28f02431c6b6760100815a92f3dc7e692d3b85f91b3676",
+      "origin": "ai"
+    },
+    "dataList[id=10306].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Don Quixote w Automacie.",
+      "kr_sha256": "73aa69f9189fca3b2f8dc3c3faccb92d2a5f213f7568364bdcaec3a7f591a8db",
+      "en_sha256": "a622ff84c703e6cdfc95e183ca2e3a8408ef2f689249f009760f39a39a9dc42d",
+      "origin": "ai"
+    },
+    "dataList[id=10306].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10306].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Don Quixote",
+      "kr_sha256": "5599c82e88ef574fa4d17056a397ab6e459bfb36b392c52513e3734a4cc296bc",
+      "en_sha256": "d03abfd1e6e6fdcacec0361a1202fca94ae29ef8eb17e629ef3e2648400cb915",
+      "origin": "ai"
+    },
+    "dataList[id=10406].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ryōshū w Automacie.",
+      "kr_sha256": "e72a5876cba3d9ca890e142ef7efbe7a8417d3208865404f32549056dc6086b9",
+      "en_sha256": "9944ad41cd96f843077e69df0b9d54888e4d7ef358d83d5c47e1197700020663",
+      "origin": "ai"
+    },
+    "dataList[id=10406].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10406].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Ryōshū",
+      "kr_sha256": "80e20ce5e35cadf98d0b0d453ba053fa453bc219042bf544c65661862406fee0",
+      "en_sha256": "4b062581100baf253abb90a1e1aaf896de1b84cacb58ba5eacc4f61531adb09b",
+      "origin": "ai"
+    },
+    "dataList[id=10506].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Meursault w Automacie.",
+      "kr_sha256": "ab47fd634ecbc638175fbae5212671b799462abc3dd5aee654d585ac3a1c11b7",
+      "en_sha256": "79a232b44621f47ddab8ff5d7df1a42f5f337fe01bc8556c47fd251aa606e647",
+      "origin": "ai"
+    },
+    "dataList[id=10506].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10506].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Meursault",
+      "kr_sha256": "2d8e07703416d0930f609cdf6414a4854eee4f51de0981fadd54e2ff07c65570",
+      "en_sha256": "956a4292de72bf12283d8509378538529f4b8e2491078938e154ace6fd736c32",
+      "origin": "ai"
+    },
+    "dataList[id=10606].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Hong Lu w Automacie.",
+      "kr_sha256": "173553c3021f7ea7cf2f1af3b4479cf77afdeb295864624d55963e7e8e5142de",
+      "en_sha256": "4fcb2e2850769339c5c3439fb8c0bbffe6a6ad1e94057ae8165f4a0fb2f96910",
+      "origin": "ai"
+    },
+    "dataList[id=10606].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10606].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Hong Lu",
+      "kr_sha256": "95482ff33b39c9a8c6b92cec0cd3248b1cc55a73f50af28a13d611b9db0ca059",
+      "en_sha256": "192333b2730a7d803ea74b4318085d6d4f6565f0638f0ce40816506b781eff75",
+      "origin": "ai"
+    },
+    "dataList[id=10706].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Heathcliffa w Automacie.",
+      "kr_sha256": "0284169c431de31158eddab6cfeb14e797c50600b26e4ca9879516890f415336",
+      "en_sha256": "ffe88fc3059df3acacb428ff9bd4026732948073114055f8cb6c0a239a19fb35",
+      "origin": "ai"
+    },
+    "dataList[id=10706].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10706].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Heathcliffa",
+      "kr_sha256": "1566c5c2e0bcc0b6840affdd797b52d85459f559c583010774180de33099a45a",
+      "en_sha256": "32b53ae6a52d38bc82e8cd5485b7626f2ce029b0e3d4218537d8d7bbaa2e1e02",
+      "origin": "ai"
+    },
+    "dataList[id=10806].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Ishmael w Automacie.",
+      "kr_sha256": "f0284879e99db362b004ba5e4669dcd49e7b09e8407450289f0ec408c3f30f95",
+      "en_sha256": "959530412021bed8e71e63114c2b70d4453d46a1012470c34c35e0345f98c26c",
+      "origin": "ai"
+    },
+    "dataList[id=10806].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10806].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Ishmael",
+      "kr_sha256": "e82ab874809f04d91288e133b8b8dbd2e0f0dc0aa98359026d606ab19621508f",
+      "en_sha256": "2ad2df3eabe6af0b3e8c3192acf2caa2a4df6dc6484e89b61fae31e553a2394e",
+      "origin": "ai"
+    },
+    "dataList[id=10906].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Rodion w Automacie.",
+      "kr_sha256": "bb3906d6fb191417a788c038ac7e0cbc91f964858dcac3382d30337bc644e50c",
+      "en_sha256": "449dc30542035dbf180eecbd5828b16e370514c4fac8df3cdea2ee5a0706e468",
+      "origin": "ai"
+    },
+    "dataList[id=10906].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=10906].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Rodion",
+      "kr_sha256": "d7edb659291cbfbb23cafa327aae9b94483a02134dcc3fb76f69b54a842d291b",
+      "en_sha256": "24457d88676495c3f6b1ac3721ef2d9e76fa8b6bf3559cc1d882a27a14a08da9",
+      "origin": "ai"
+    },
+    "dataList[id=109].desc": {
+      "pl": "Pozwala dokonać 10 Ekstrakcji, z których jedna Tożsamość 3★ z [Sezonu 6] pojawia się na pewno.",
+      "kr_sha256": "aa27b5a0f0a29f51af94c37bcf6667886be870d5f17a6940b336b94e171553ed",
+      "en_sha256": "ec21991fcc89bed0746e2c616e638fdc792567ffb296fb25ced1c7ea5fe14e04",
+      "origin": "ai"
+    },
+    "dataList[id=109].flavor": {
+      "pl": "Specjalny bilet oznaczony pewnym znakiem. Pozwala na pewne wydobycie Tożsamości ze świata nikłych możliwości. Papier gwałtownie drga i pulsuje.",
+      "kr_sha256": "606a51c51b268abb61eada2e6aac9a0c653bdcd175a9c1ffe88bf709c692b3b3",
+      "en_sha256": "0455e6495ba22b648c39055458d3507a2f96415d9b7ffe42590e8411ca76ca54",
+      "origin": "ai"
+    },
+    "dataList[id=109].name": {
+      "pl": "[Sezon 6] Bilet Dekaekstrakcji Gwarantowanej 3★",
+      "kr_sha256": "5f7d9c3550c8ed1f99b117b94f0696f7b512278b71931f0afc45e10f73b8f080",
+      "en_sha256": "7e1275dda03c1b38d584ac04ea991a8dcee6a6d927a91ca986c672cf15ac0738",
+      "origin": "ai"
+    },
+    "dataList[id=11006].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Sinclair w Automacie.",
+      "kr_sha256": "0ed12768fe4e330fa462188aa0458b0049d01ff624efa0a29a7422863a507494",
+      "en_sha256": "45c810b40fdb6091e3b9bd0a14b2ad329f46b375f68bc15a52166f5df8a507fe",
+      "origin": "ai"
+    },
+    "dataList[id=11006].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=11006].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Sinclair",
+      "kr_sha256": "bc100dc1c91ba3dc5d9a3452b7d9684e5158865503ef99a4af7d7f07eac47340",
+      "en_sha256": "09330b4b64a557e9e19557eaac607696f710b6dc161999f4fb7711660a0939af",
+      "origin": "ai"
+    },
+    "dataList[id=1106].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O losowego Grzesznika.",
+      "kr_sha256": "9e640942392217fccebe0a3a8e40e9c3048b7b747a885fb0d4b253ad66306f91",
+      "en_sha256": "ca778590ed610d291de3289873acb0027ea2df48f8f35b171afda48d179fdf11",
+      "origin": "ai"
+    },
+    "dataList[id=1106].flavor": {
+      "pl": "Odłamki E.G.O Grzeszników losowo zebrano i zapieczętowano w skrzyni. Kto tam siedzi — nikt nie wie.\nTrzymana w ciszy, zdaje się wydawać drobny łomot.",
+      "kr_sha256": "67e793245dd6dc46bb87f4dd51e58d9dbabf385c5cde256752e33d71cef700b2",
+      "en_sha256": "7705b0f587f4de23285ed9301a791c4389f4125181d95b8eaa2c823b558c9d79",
+      "origin": "ai"
+    },
+    "dataList[id=1106].name": {
+      "pl": "[Sezon 6] Skrzynia Odłamków E.G.O",
+      "kr_sha256": "67f844d81a19deb4d99700c7ff7e1134e711c9303de1e21d6f329a53df7e40a1",
+      "en_sha256": "99a687db47c3c1c8aa220e5ead54623edd2dd84c717679ed4e038f814c46781f",
+      "origin": "ai"
+    },
+    "dataList[id=11106].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Outis w Automacie.",
+      "kr_sha256": "6eb65d44a4877233e885b3042b0d61f75b63560ad9b1b135ae9e536efe3787c0",
+      "en_sha256": "6857aaa186984937d52c3e2d75076ae594d2d635253ea0197ae29cf2166d7fcc",
+      "origin": "ai"
+    },
+    "dataList[id=11106].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=11106].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Outis",
+      "kr_sha256": "12fbeae9999cac9b10b05e6bd6651393dff9a4e66f96e06e53503e37a2789df5",
+      "en_sha256": "ecf55283b3732f42e69d04addcaec2e039e1a391c6c2fd1c2cd2b99acee75f31",
+      "origin": "ai"
+    },
+    "dataList[id=11206].desc": {
+      "pl": "Służy do zakupu Tożsamości, E.G.O lub Nici Gregora w Automacie.",
+      "kr_sha256": "bc5dc9caba976a26c131c2524382fa28f634089a1e76a4ea01fd4ca573198f55",
+      "en_sha256": "03e276d2dcd714f2e58e978e88ea482df8f4dec17b1249cd03d8d13547696c9c",
+      "origin": "ai"
+    },
+    "dataList[id=11206].flavor": {
+      "pl": "Ulotne chwile z dowolnego punktu życia Grzesznika, uwięzione w postaci fizycznej. Odłamki unoszą się w powietrzu.\nMożliwości są ulotne; dryfują w sferze niepewności, dopóki ktoś ich nie chwyci.",
+      "kr_sha256": "e22309144a6bd9b6bece63211219b291c7dcd7dbfee2c07c8eec939b98b65b48",
+      "en_sha256": "badfcd45033d8ec6e55d113ec94ed9828e7ae6b8ea78cc928349a529ec8303c2",
+      "origin": "ai"
+    },
+    "dataList[id=11206].name": {
+      "pl": "[Sezon 6] Odłamek E.G.O Gregora",
+      "kr_sha256": "2428ea94321427d9e08496721240d07efa3eb2c854d1a2ef9d55fdac8569975c",
+      "en_sha256": "fbfa385b38f5fb0b0de3a8ddd65724ecc5e41c0954e1fe875e0ccb2043bc6d00",
+      "origin": "ai"
+    },
+    "dataList[id=12006].desc": {
+      "pl": "Można stosować przy Synchronizacji Tożsamości i Splacie Nici E.G.O wszystkich Grzeszników.",
+      "kr_sha256": "7a5b5ee5f2a05f3f2a4bd5875d8206bebfe55b09137d08674a59e7942fbe371a",
+      "en_sha256": "37d1c5453d0465c74625670ebb5fab7e0a4cbe7be131577c947db9c35433f3b8",
+      "origin": "ai"
+    },
+    "dataList[id=12006].flavor": {
+      "pl": "Uniwersalny odłamek, służący do Synchronizacji Tożsamości i Splotu Nici E.G.O niezależnie od Grzesznika.\nNie da się nim jednak wydobyć Tożsamości ani E.G.O, choćby zgromadzić ich całe stosy.\n„Odłamki te są owocem badań nad wszechprzemiennością Złotych Gałęzi; można nimi napełnić każde wyobrażenie czy świat lustra. Co? Ekstrakcja? Oczywiście, że nie. Skoro nadaje się do napełnienia każdego świata, to znaczy, że nie mógł powstać *dla* żadnego konkretnego świata, prawda? - Naczelny Badacz, Obserwatorium Światów Lustra, Dział LCA”",
+      "kr_sha256": "8d501c0b265d2ca20120caffce69353c304dc7d55d72e8738d846f264d398e27",
+      "en_sha256": "3ff8e4f5186d61a56537db9e5ea07a32ed82247cabd98b91730f25a9e87d82a7",
+      "origin": "ai"
+    },
+    "dataList[id=12006].name": {
+      "pl": "Odłamek Sezonu 6 wyłącznie do Synchronizacji i Splotu Nici (Uniwersalny)",
+      "kr_sha256": "0d80b6a34ed1dcf3d8b1490a480c0b51e965e1bc30694618d7eeaeedc6531583",
+      "en_sha256": "85e89bce0c0fb5120ad7c2bde6e1354ef525378b4019e4b40422ede000a95e20",
+      "origin": "ai"
+    },
+    "dataList[id=1206].desc": {
+      "pl": "Po użyciu otrzymujesz 1–3 Odłamków E.G.O wybranego Grzesznika.",
+      "kr_sha256": "7c424b06c3b48327dc63c56aa5d19e4719b603a11da6fde1e8531a2e5718a1cc",
+      "en_sha256": "3ab21a10a0bf1a2fc5bb1ae9d4e811879056f522c9e8fc4318c699cb7c48158b",
+      "origin": "ai"
+    },
+    "dataList[id=1206].flavor": {
+      "pl": "Skrzynia pozwalająca zdobyć odłamki E.G.O wybranego Grzesznika.\nWedle Faust zawartość zostaje utwierdzona w momencie wyboru dokonanego przez Zarządcę otwierającego skrzynię.",
+      "kr_sha256": "9aa5ffb24315ad47a7fe63c2f0fb6a517d7ebc00eec5027f318aa1a70f70e497",
+      "en_sha256": "8a143590ca32a2b1bc30b0149e86f2ac26bec3c6b584d4a490540bd0206edb6c",
+      "origin": "ai"
+    },
+    "dataList[id=1206].name": {
+      "pl": "[Sezon 6] Skrzynia Wyboru Odłamków E.G.O",
+      "kr_sha256": "198447945d4c42e0e69ab2c9e3c15f5e23b23c47c5f4db9317ef6c014dcf7533",
+      "en_sha256": "9a739937fdc4e63ddeb8ab02d547f7bfa77a9fe3a5a8c93b16d6058202e40dc9",
+      "origin": "ai"
+    }
+  }
+}

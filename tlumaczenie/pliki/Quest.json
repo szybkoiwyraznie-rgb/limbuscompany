@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=1].content": {
+      "pl": "Ukończ w ciągu {0} tur",
+      "kr_sha256": "f01bf27eff5a3d38e6601f07409ecc2404fbbcd693f50790b1bfe4a566ed6f02",
+      "en_sha256": "8a2f3507cb45aa237f08b38f206be001f549e9eb55237adf31041d74b2cc26b5",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Opanuj Bossa Lochu",
+      "kr_sha256": "3729a88663a316259252f1e63610eabaa7c6458b0877b03bcab0583bba649720",
+      "en_sha256": "de3dff4672e76a89b362baa06eae207e2dd8805e843f653b1eedb648ae00ac3f",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ukończ Etap",
+      "kr_sha256": "7b706f5c90620a1386c416cc3b60bba7bc55701760f947c525487b8231be2500",
+      "en_sha256": "6285fb8e5e43cec13be7849f396c2ff081dcab6f35fc6686045aa735dc064abb",
+      "origin": "ai"
+    },
+    "dataList[id=40000].content": {
+      "pl": "Ukończ starcie z całą drużyną przy 50%+ PZ",
+      "kr_sha256": "50546bf4a8923fc70349b87d1637665cac393a42396ea2ab0e2a2ddeedbdc7a7",
+      "en_sha256": "ba48d1a67801eb09278d8bb992c30da979b152ad8f24f7831b048bf91c7ed603",
+      "origin": "ai"
+    },
+    "dataList[id=50000].content": {
+      "pl": "Pokonaj Peccatula w limicie tur",
+      "kr_sha256": "310f6bb0b85e7871b06b97792dc07bbe66d2585819f194b105f6c11bd8781a14",
+      "en_sha256": "4255f1fd3014654726902e440073e557db1477e33aafe3dc8e04f06fea27f99b",
+      "origin": "ai"
+    },
+    "dataList[id=60000].content": {
+      "pl": "Pokonaj wrogów, zanim się wysadzą",
+      "kr_sha256": "4c933b2fb10d2e13693c33d93c4db393a258781c9a920b1f6d69026a62d78166",
+      "en_sha256": "5a3e9930b8dbf3b523dbfdfe799a7055c27268b59b3cc14b46c08a55b97c411a",
+      "origin": "ai"
+    },
+    "dataList[id=70000].content": {
+      "pl": "Żadna Tożsamość nie przyjmie 10+ trafień podczas starcia",
+      "kr_sha256": "f44cfa019f505d445078662523fe2e58cddaed1de849b22b700ce5c7480eb77c",
+      "en_sha256": "e37e5db9aadb3292b03298c24b4eb1e79606ce32e5232ea5ca789c8aad3093e8",
+      "origin": "ai"
+    },
+    "dataList[id=80000].content": {
+      "pl": "Każda jednostka pokona raz Peccatulum przybierające jej postać",
+      "kr_sha256": "a0dbe04088423e7695d02bb0bd7405d8107677367ccc4015cd427889e097163b",
+      "en_sha256": "ed3a3acc75ba42f4359f96c407256b001460e4a17f96374144532fffdb9e7093",
+      "origin": "ai"
+    }
+  }
+}

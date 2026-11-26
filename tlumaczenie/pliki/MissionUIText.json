@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=acquire_ego_title].content": {
+      "pl": "Wybór E.G.O",
+      "kr_sha256": "4b462a042a27fd4e8a3cb7fa73bac6b5e806d90d73d9b12d3b2148ebcb1c7668",
+      "en_sha256": "4b9c834a26742fd2b79180135a251dc4e5e1528669f6e51885db4caf404e17c9",
+      "origin": "ai"
+    },
+    "dataList[id=acquire_personality_title].content": {
+      "pl": "Wybór Tożsamości",
+      "kr_sha256": "2658fef44b1eb027d4c31aa2a23b16e9409715dba8f9fc34950544219c8adcde",
+      "en_sha256": "bef2580f2cf19a59166c943f8c055031bad9940944ea64e06b6875663c9ddda7",
+      "origin": "ai"
+    },
+    "dataList[id=ask_acquire_ego].content": {
+      "pl": "Wybrać E.G.O [{0}] dla {1}?",
+      "kr_sha256": "926fce7c68494ba93af7974d355613d970440dcc58246e3098401a61d9c7d209",
+      "en_sha256": "032155f87b5143f470857d407e1c2a4404b6a452237ff0a0c5428beaa8c8de70",
+      "origin": "ai"
+    },
+    "dataList[id=ask_acquire_ego_already_owned].content": {
+      "pl": "Wybrać E.G.O [{0}] dla {1}?\nWybranie posiadanego E.G.O zamieni wybór na Odłamki.",
+      "kr_sha256": "e92729751c5250a029b381822c60276c13154d82fd42c89c0d28d4a93942917b",
+      "en_sha256": "05d40c0457d7e2cddfca872dc2c0abfd0041117e91b8871de36b8cbcfd3ec175",
+      "origin": "ai"
+    },
+    "dataList[id=ask_acquire_personality].content": {
+      "pl": "Wybrać Tożsamość [{0}] dla {1}?",
+      "kr_sha256": "c8a3a735e2935fd6fb8a2ce81f2b0d075147cee717518b8ce2165ffd2b6e98d2",
+      "en_sha256": "9fee7435e6b173fe81c3f4d57e8222b081b9ef3d11a96080dfc6bfed1614a186",
+      "origin": "ai"
+    },
+    "dataList[id=ask_acquire_personality_already_owned].content": {
+      "pl": "Wybrać Tożsamość [{0}] dla {1}?\nWybranie posiadanej Tożsamości zamieni wybór na Odłamki.",
+      "kr_sha256": "ce91b5c881be5a031e15858d04a6131b6756b65154488dee121a8927675708be",
+      "en_sha256": "b0333bd73ffd8b7ba5828c373fae1bc50b0f57fd2e17db1f141bbd26ce44dac8",
+      "origin": "ai"
+    },
+    "dataList[id=ask_use_item_for_acquire_personality].content": {
+      "pl": "Użyć {0}?",
+      "kr_sha256": "b4c4f28531270e292cf4b9ac427d748fe442db103819c6609f3d3b48c1e846ed",
+      "en_sha256": "7c64ab1755d6fdec4309f8bc936d7beb0a961f7ea48187db53a32d2aa01f7c6e",
+      "origin": "ai"
+    },
+    "dataList[id=luxcavation_bonus_on].content": {
+      "pl": "Aktywny Bonus Wydobycia",
+      "kr_sha256": "253df63fedce453f91042674146201e072bab712feb05733529f4d61d5e0a43a",
+      "en_sha256": "5fca0539179bc867db3cbd641212b74e9d418a3f74486de491fa0bff0d90e555",
+      "origin": "ai"
+    },
+    "dataList[id=tip_able_to_check_personality_by_longclick].content": {
+      "pl": "※ Przytrzymaj, by zobaczyć szczegółowe informacje o Tożsamości.",
+      "kr_sha256": "b2ede25a65daa257a34b65e795604bb9ba7d3e4629f0a1dcd85e3d55b4d28339",
+      "en_sha256": "dfd530085a1830bae766df4fccbf98b8ef7d6c72f9ef8ffb4c8758707a0f8bbf",
+      "origin": "ai"
+    }
+  }
+}

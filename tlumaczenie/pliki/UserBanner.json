@@ -1,0 +1,322 @@
+{
+  "entries": {
+    "dataList[id=10].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 2: Reminiscence",
+      "kr_sha256": "6b65bca149f95d955ce27b8f896a0ace5376a21e310a1f5c94dccc6befb6f6da",
+      "en_sha256": "ced858c13abf3bdfcbd8265dcabff5fcdf5d0f90f12ba2feecf81b32b4dea5fe",
+      "origin": "ai"
+    },
+    "dataList[id=10].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 2",
+      "kr_sha256": "1c07d7c3af776ba5ee79028d1f86199a64cdce64962481cebac0260163d031c0",
+      "en_sha256": "43a0c60a1f33e5485b68dee08589c60e05b5e6a065f80c89f16018ad90326706",
+      "origin": "ai"
+    },
+    "dataList[id=11].desc": {
+      "pl": "Zdobyto na 60. Poziomie Limbus Pass Sezonu 2: Reminiscence",
+      "kr_sha256": "053a81514c95edd0a7e079141a0a4ccf7d3ecea8cbb5ae76acf24bfd650d08ac",
+      "en_sha256": "fd72d9f717f43748c38ffbb70f262f6fc557705c953a0ab90eb9f6267acf47eb",
+      "origin": "ai"
+    },
+    "dataList[id=11].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 2",
+      "kr_sha256": "1909027982f1be3c8978fb1c2596808155f8ce133aba7c89584a6cef3f8b6478",
+      "en_sha256": "2cf931c4390872a0d7ef728cc38db5eb1a57b3d798e85eb394ef15e785e2dc17",
+      "origin": "ai"
+    },
+    "dataList[id=12].desc": {
+      "pl": "Zdobyto z wydarzenia M.O.R.Z.E.",
+      "kr_sha256": "6808d33e1d4533dca9f7a9df6b6b3bd30d2b88c976e570711b48f51b141101e1",
+      "en_sha256": "fb2ca6cf72c63ee91d91ac15d16a4b6a4852726309fc623f5e9146512b64fd62",
+      "origin": "ai"
+    },
+    "dataList[id=12].name": {
+      "pl": "Ozdobny Banner M.O.R.Z.E.",
+      "kr_sha256": "8e297596d7d771090b4608ccc9b008897363d1d8844bb9ba756aecf148f2671f",
+      "en_sha256": "9ff1a8c3121638a9bb74e632f90319c53f9b9aa3a2d4305ecfa28a9b67effd3b",
+      "origin": "ai"
+    },
+    "dataList[id=13].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 3 lub więcej",
+      "kr_sha256": "425572d3dbf0bda4c22454f9e5aedea36f13d3fcd480deb7346fac91f1ce0920",
+      "en_sha256": "13592e1bb2bca3d5f788a8c79ae83f30bbc0eb8fde79d9061891c5587b164c0c",
+      "origin": "ai"
+    },
+    "dataList[id=13].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 2 I",
+      "kr_sha256": "b721450da8a92934014215b4944537d4df1ae834800997a320391395e7681aa1",
+      "en_sha256": "d93fe64851f71da91c66eca4d701315aedf58293aea9acead3ad1698f067bd10",
+      "origin": "ai"
+    },
+    "dataList[id=14].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej",
+      "kr_sha256": "6d5f3ca771acb6035d07a0d389472111727d49a9b003f70983561266af38a137",
+      "en_sha256": "e8f94052d4a5ab2a78bc33f475ef4ca474b760074d0d93e2685865b7a6b5c247",
+      "origin": "ai"
+    },
+    "dataList[id=14].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 2 II",
+      "kr_sha256": "7e3b818d4f043d5fb4a7c1c463109309fc2f567f488b0a9ecc9f1b8a11e83b51",
+      "en_sha256": "1e97e5d7807bc1becfe74e321ed3b812c92295d0bc53f38cfbdbe4ca3257e512",
+      "origin": "ai"
+    },
+    "dataList[id=15].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej i limitem 200 tur łącznych",
+      "kr_sha256": "d4eaf5db4a5684603becdc5161ab60bdca61c1543889b02667e543d285a54fd3",
+      "en_sha256": "2b5c932af8d6049052dd3e1b8f23a43755bf47b1dbc62e979d65c1038a6c966e",
+      "origin": "ai"
+    },
+    "dataList[id=15].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 2 III",
+      "kr_sha256": "90728de4422fb91a72df38a24a6b074a850cb9ebc2b8478c5287f6fc7e3e742d",
+      "en_sha256": "4150afd2f7470423d4d5abaf271e71dbd54d4e044ba685f04a710cbe1eae19e6",
+      "origin": "ai"
+    },
+    "dataList[id=16].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 3 lub więcej przed końcem Sezonu 2: Reminiscence",
+      "kr_sha256": "2404f3743d75a388197ef86064c5c68465c0655fc8bef209bd571c3ac9cc4472",
+      "en_sha256": "1f2595f9a36d067945dd742bd3855163ca63c9d6f7061c385984e737a3cb109c",
+      "origin": "ai"
+    },
+    "dataList[id=16].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 2 I",
+      "kr_sha256": "b7729a3510b7a30545920eb2275601bd44662491d87287a8e8620fe8efa21740",
+      "en_sha256": "6c75cc6dad61a1c5e3c6824dd44e8693e3b3d5feff05f4ffc8b920d5cd9b8a83",
+      "origin": "ai"
+    },
+    "dataList[id=17].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej przed końcem Sezonu 2: Reminiscence",
+      "kr_sha256": "2d869f7f314e22949c12cc888f6511273ed237fdfc48efa8c0023e09da062887",
+      "en_sha256": "de72d80fb13f448b82121fe65078c3f79592dc17a47444ee5a642e0caf1d247b",
+      "origin": "ai"
+    },
+    "dataList[id=17].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 2 II",
+      "kr_sha256": "4165c883bfeb9b00db8521d2ac2bd11d78a014c4589d098afb487520674a7f6a",
+      "en_sha256": "2e311d01e737f3fbc5717ae85f2ec608d68a05cb331944e56c1b35a707ab0c24",
+      "origin": "ai"
+    },
+    "dataList[id=18].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej i limitem 200 tur łącznych przed końcem Sezonu 2: Reminiscence",
+      "kr_sha256": "50a83b2f0ce2762d77b63602aec48ad0d84617b474ff1bccb9ee293b5f73f2ed",
+      "en_sha256": "ec1ede155e66300a98850707e83ed2a3ac87a3ad5730887e0804793d5e71a95e",
+      "origin": "ai"
+    },
+    "dataList[id=18].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 2 III",
+      "kr_sha256": "71c1a8977ffc255f39bb1baa58b30d688a718b09c8d47193d097989106bec7b7",
+      "en_sha256": "f33e9d58f319670361ce436a637c91ceb19939aab56ad046c8d075dd716597d8",
+      "origin": "ai"
+    },
+    "dataList[id=19].desc": {
+      "pl": "Zdobyto za ukończenie Linii 2 z liczbą Cykli 5 lub więcej i limitem 150 tur łącznych przed końcem Sezonu 2: Reminiscence (dotyczy rekordów rozpoczętych po 23/09/15 20:15 (KST))",
+      "kr_sha256": "0c425aba23c1b1e224e3f052d9531a902dc03d3639ad290a6b3926a26f61d63f",
+      "en_sha256": "7d8e4ede1b80d91df336dd98e122065f75b2fa12f4b583823f999ab9c13ae180",
+      "origin": "ai"
+    },
+    "dataList[id=19].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 2 IV",
+      "kr_sha256": "1c4773a4466823ed49ba301d13b0b7cc6d21d36bb748927e5641dde1bc7ff842",
+      "en_sha256": "ad4cbbdaca6edc148811bf0bde09df6feca2488438a1ba5b6ec01549fc1c7727",
+      "origin": "ai"
+    },
+    "dataList[id=1].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 1: Orientation",
+      "kr_sha256": "f2e7cca746d98434f18dccb8bb0a08611a85c20222d8451f1cc5d7d270dcf24a",
+      "en_sha256": "3a564d89507b4d730dd99bcc0cbaff66850739ad1b094338d828044b6545a833",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 1",
+      "kr_sha256": "7ef96d5bb3d4aee90b871fe656fc8f8ca5bdcde6a6164ea6120984c275cb2db6",
+      "en_sha256": "b062c5d86e83d48a93adc1ab35c2d216559941e9b5cbe09828bbae05741844f9",
+      "origin": "ai"
+    },
+    "dataList[id=20].desc": {
+      "pl": "Zdobyto na 1. Poziomie darmowych nagród Sezonu 3: Bon Voyage",
+      "kr_sha256": "bc7328ede317ba4acdcc0f5fbc82757e6b13d18e4c211c35112e50fb57be58c5",
+      "en_sha256": "4dc85d39fbce767a224af3428adfc0787ef7d16356be6b2d4369c46627e71778",
+      "origin": "ai"
+    },
+    "dataList[id=20].name": {
+      "pl": "Banner Uczczenia Startu Sezonu 3",
+      "kr_sha256": "72eb2939daaaa29a0f3b3fe495570817a7165d29e4b6f37d755131dc5f461367",
+      "en_sha256": "3f95dd5e238e61df6a3b6e8234f6f18c4759cb28deda6252ea9ff427aa2eb1c9",
+      "origin": "ai"
+    },
+    "dataList[id=21].desc": {
+      "pl": "Zdobyto na 120. Poziomie Limbus Pass Sezonu 3: Bon Voyage",
+      "kr_sha256": "66767dfa50054fd323a6fb28019a730dfaff8fe06cc37eafb45ca49aa5a9ae17",
+      "en_sha256": "d476d7dbbf4d33b22022c3d535853bad6c02fc13449ff3b3c8f5883e7cd8f1f5",
+      "origin": "ai"
+    },
+    "dataList[id=21].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 3",
+      "kr_sha256": "db15f8982f9a18f09cce2a1be841c593ecd4aa645c60768d0e08af7d37d4faab",
+      "en_sha256": "b825c43935cc197bdad2390aef41bbb077c94727a1daa64924ad4a2ecb22a4a5",
+      "origin": "ai"
+    },
+    "dataList[id=22].desc": {
+      "pl": "Zdobyto z Pakietu Limbus Pass Sezonu 3",
+      "kr_sha256": "9c72def34803e08d9ccd451c0853c9c0a556947e79473833df99944ba06a4a90",
+      "en_sha256": "f37d3a07d0e76cd5327f09129ada2e27206e59f3a66c348dd01f8a1799ee0c2e",
+      "origin": "ai"
+    },
+    "dataList[id=22].name": {
+      "pl": "Specjalny Banner Pakietu Limbus Pass Sezonu 3",
+      "kr_sha256": "79cd8b1aadf775bc28aa64e479e5c63e6afaa3bec0f9906c0a19e0d90d157a8d",
+      "en_sha256": "8303e200bdbea02d16c974a55bdf15ec98c6159d18f8e6c70b72f5216a09408b",
+      "origin": "ai"
+    },
+    "dataList[id=23].desc": {
+      "pl": "Zdobyto z wydarzenia Cud w Dystrykcie 20",
+      "kr_sha256": "b54a9ab01111130a441bc9e4df20dca9a692593cd32bca1da92683d827789a46",
+      "en_sha256": "7ebb4d0ad589d26e3dca034ec25754a11747c8748edfd0d90ff70fa9555599be",
+      "origin": "ai"
+    },
+    "dataList[id=23].name": {
+      "pl": "Cud w Dystrykcie 20",
+      "kr_sha256": "87cb35473a95d38f2fab5ded3b0c9431c6baa80fda9802f74f0a04a3e8780b64",
+      "en_sha256": "dc2938bba856b83dd7f780265b71563695d405cb0b5c94c9eec927c4789e5094",
+      "origin": "ai"
+    },
+    "dataList[id=24].desc": {
+      "pl": "Zdobyto z wydarzenia Cud w Dystrykcie 20",
+      "kr_sha256": "b54a9ab01111130a441bc9e4df20dca9a692593cd32bca1da92683d827789a46",
+      "en_sha256": "7ebb4d0ad589d26e3dca034ec25754a11747c8748edfd0d90ff70fa9555599be",
+      "origin": "ai"
+    },
+    "dataList[id=24].name": {
+      "pl": "Cud w Dystrykcie 20 — Specjalny Banner",
+      "kr_sha256": "8133b3f276bf7f026cf47616aaac2312dd2b90df7282c7b1c5b1984a9556e139",
+      "en_sha256": "9ededf10a0c35f7917699d5a996c93793b715283a059e085a29a4d769d4dbe9b",
+      "origin": "ai"
+    },
+    "dataList[id=25].desc": {
+      "pl": "Zdobyto z wydarzenia 2. Nocy Walpurgii",
+      "kr_sha256": "e8ad56f49b84829ffc8270f87bc3d1b000d7af02df4eeac5aea2079430c01845",
+      "en_sha256": "5ff668d7e12a9ffbbad89baef98d153137c2edef2f50d2602b8e63ad0d06257f",
+      "origin": "ai"
+    },
+    "dataList[id=25].name": {
+      "pl": "2024 — Świt Zieleni",
+      "kr_sha256": "fd074cb0ca2ac49172c519fdc8a0aa1c83aa31d29094d0f8433b45c02a74fc9f",
+      "en_sha256": "47af47a969df091127d5acf1aa4ecb0cb411fe0e961b3b88f81a5c9105a973f9",
+      "origin": "ai"
+    },
+    "dataList[id=26].desc": {
+      "pl": "Zdobyto za ukończenie stacji końcowej Kolei Załamania — Linia 3.",
+      "kr_sha256": "333e756123f6f7234720488abd30cec7ae0de0e3693eaf0af23fd4db9bcb6946",
+      "en_sha256": "4d8154c6c31da32d46b2f56b230fa781fba07ce6deefac1a806ea7041a96eb31",
+      "origin": "ai"
+    },
+    "dataList[id=26].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 3 I",
+      "kr_sha256": "46594624d2747731b04562332f5afb46e7215c0fe03f3d5818857220e3108a16",
+      "en_sha256": "618c1e1e6f449fb5a93f6dd2aa21dd2d68715e90df3d4b78cea73a7513fc2849",
+      "origin": "ai"
+    },
+    "dataList[id=27].name": {
+      "pl": "Specjalny Banner Pamiątkowy Kolei Załamania — Linia 3 I",
+      "kr_sha256": "0f7aa2258773011c9cc6b925de27541e4fdbecbf1e73401774ad01cec587fba9",
+      "en_sha256": "f737ced47482315042e5ebd5548400fb04bed604b4998c8b8b6727b82774a24d",
+      "origin": "ai"
+    },
+    "dataList[id=2].desc": {
+      "pl": "Zdobyto na 60. Poziomie Limbus Pass Sezonu 1: Orientation",
+      "kr_sha256": "894f85993cb717d3e583842f41e835d65b17815c1c7a6b88d98811d003c446a5",
+      "en_sha256": "2e5b85665d4979b26d19035a4d6da9dbd8c99dd7e1cc6d51e2513cfcf8cdaff4",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Banner Uczczenia Ukończenia Sezonu 1",
+      "kr_sha256": "ed105a116c88d627a160682003dece656924ba2f011db95bbae23c72800de893",
+      "en_sha256": "9811170a3c7aa2b2ecf5ca92817ef5664a7e3a9fc107b2a129605a0d83e292dd",
+      "origin": "ai"
+    },
+    "dataList[id=3].desc": {
+      "pl": "Zdobyto z wydarzenia nagród obecności nowo zatrudnionych Zarządców.",
+      "kr_sha256": "f5b596984e106d8e9924abf096530865f0c56dee93573762cdf29aed9acb31d9",
+      "en_sha256": "63889fb9061fd70a32a24476e20c35d68b811924cbeca6fde334241a7416200a",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Świadectwo Pilnej Obecności",
+      "kr_sha256": "acd32eb0668559b8120c2be001ee252528055813cc23aa7b1cf17c692ce0dd1e",
+      "en_sha256": "aebc52b9382b60afc69ffb422e479c6c16c5a585f8bca01740b0b4dd4103291b",
+      "origin": "ai"
+    },
+    "dataList[id=4].desc": {
+      "pl": "Zdobyto z wydarzenia nagród obecności nowo zatrudnionych Zarządców.",
+      "kr_sha256": "f5b596984e106d8e9924abf096530865f0c56dee93573762cdf29aed9acb31d9",
+      "en_sha256": "63889fb9061fd70a32a24476e20c35d68b811924cbeca6fde334241a7416200a",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Łagodny Zarządca",
+      "kr_sha256": "ab565d9d1d6b106b6d6a2ec63df9724e21b6c7cdaa4e52c45c3a8fa14f470697",
+      "en_sha256": "f57b68285dc8025e7d1b270c5a84cc543703555af38f21765dea5947fab9b592",
+      "origin": "ai"
+    },
+    "dataList[id=5].desc": {
+      "pl": "Zdobyto za ukończenie 13. Stacji Kolei Załamania — Linia 1.",
+      "kr_sha256": "bad711804205199a3c89105696047d2c34ac29b7b774b383c5716706e8a8a6c4",
+      "en_sha256": "57188246d760a041f3d76d05bc9d4e8566dd66e996aa5326ac84b090c0d862c8",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 1 I",
+      "kr_sha256": "df26cfec4c0cc1bd901ec2910561b0709469962993ba2b619c60a0b41aa32922",
+      "en_sha256": "5655dc20a1c68d981407f32d402940dfd48af31fd02f7c101a8ca874f30c758c",
+      "origin": "ai"
+    },
+    "dataList[id=6].desc": {
+      "pl": "Zdobyto za ukończenie 13. Stacji Kolei Załamania — Linia 1 w limicie 120 tur łącznych.",
+      "kr_sha256": "c8a267175bb1e37e891831ede00938f92b3061008fd13175f2f360cadd4ea14c",
+      "en_sha256": "29eb9813a6ac65840913fc88807efb5525bc387cdc095a2250ad3ae3316de847",
+      "origin": "ai"
+    },
+    "dataList[id=6].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 1 II",
+      "kr_sha256": "7507cd68237eadd0d1aefc0485b277511d1132c1986122b1b974008f405728fd",
+      "en_sha256": "ec6c1a6336bd1e8b45e4b571ca68a2c302f1c070195ecf18da4c7e321ea184c9",
+      "origin": "ai"
+    },
+    "dataList[id=7].desc": {
+      "pl": "Zdobyto za ukończenie 13. Stacji Kolei Załamania — Linia 1 w limicie 120 tur łącznych w pierwszych dwóch tygodniach wydarzenia.",
+      "kr_sha256": "3944b0a0e6f3eefa20bf3ece70456605716c1be54fe10c62c60bc0f4747a170c",
+      "en_sha256": "10ee875e3a64d90c4ee48d02d73e40aaf33556de0095b6dcf1520d14ff45dba8",
+      "origin": "ai"
+    },
+    "dataList[id=7].name": {
+      "pl": "Banner Pamiątkowy Kolei Załamania — Linia 1 III",
+      "kr_sha256": "9e662d6a37378f844e03e3dbc0ea0cb6f8bf83813d5012662ef76e2c78982559",
+      "en_sha256": "9dc62427efe93e8d130ca7c46f67bf7525c8a4c9ed69e619a9bf30263d3d34dc",
+      "origin": "ai"
+    },
+    "dataList[id=8].desc": {
+      "pl": "Zdobyto z wydarzenia Piekielnego Kurczaka.",
+      "kr_sha256": "c962097b7ee3d3ec5e62cce7d9867da3a801ef0c9cdb34f92b63a2599d2986e3",
+      "en_sha256": "acea4c0bf28234c93873e155a689bdc180b8bb7db0aabded549d7bbda66266dc",
+      "origin": "ai"
+    },
+    "dataList[id=8].name": {
+      "pl": "Piekielny Kurczak",
+      "kr_sha256": "524f9d3406b7fc30ae0b30ab471fec49a64e31eecf39212d299e9c563aa8adf1",
+      "en_sha256": "ed8443d8d315e84ce9175aa488434ac45b1d3fdf0348536827dbedcc9b01d33b",
+      "origin": "ai"
+    },
+    "dataList[id=9].desc": {
+      "pl": "Zdobyto z wydarzenia Piekielnego Kurczaka.",
+      "kr_sha256": "c962097b7ee3d3ec5e62cce7d9867da3a801ef0c9cdb34f92b63a2599d2986e3",
+      "en_sha256": "acea4c0bf28234c93873e155a689bdc180b8bb7db0aabded549d7bbda66266dc",
+      "origin": "ai"
+    },
+    "dataList[id=9].name": {
+      "pl": "Dla Mojej Matki…",
+      "kr_sha256": "b607ea26056688499a6aa013448b37feb81a497589355129da66977652f67700",
+      "en_sha256": "c4be1c7c802ef4029f65fdf699e1fc26a5c3b85b1e7924d5a4bd019e76915b37",
+      "origin": "ai"
+    }
+  }
+}
