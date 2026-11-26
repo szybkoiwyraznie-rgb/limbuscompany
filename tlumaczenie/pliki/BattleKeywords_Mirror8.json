@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=SoundOfStorm].desc": {
+      "pl": "Maks.: 3\n- Za każdą wartość Moc Monet +1, Umiejętności podstawowe zadają wrogom +15% obrażeń\n- Znika, gdy Heathcliff Dzikiego Gonu wycofa się lub zginie",
+      "kr_sha256": "b2210b51f0e0b5bdb115005e53ba21c793971f5f0e186aa7c5c36080ae5caf2e",
+      "en_sha256": "4f022e02478ec9e2009398b3a76611f0f55ea48417623b62dc59d87a30b8a23b",
+      "origin": "ai"
+    },
+    "dataList[id=SoundOfStorm].name": {
+      "pl": "Grzmot",
+      "kr_sha256": "b556aac493e21658cc5f43f98a0093fad78c6e8888e9101d8faca3c4247164a0",
+      "en_sha256": "ada8fdda594e59a9b83252dc66306b5c337334df8d4b37eedc20538e38aba9af",
+      "origin": "ai"
+    }
+  }
+}
