@@ -122,3 +122,10 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
     tylko poza repo”, choć w WWM i SRW teksty gry są w Git. Zasada jest prosta:
     **teksty gry (JSON/MD) w repozytorium, binaria nigdy**. Przy wątpliwości
     zapytaj, zamiast pisać w raporcie ograniczenie, którego nikt nie ustalił.
+30. **Custom Language w `v.1.119.1` wymaga pełnego 5-kluczowego `config.json`
+    oraz czcionek w `Font/Context/` i `Font/Title/`.** (LCB, 2026-11-25,
+    `E-010`–`E-012`.) Bez niepustych plików `.ttf`/`.otf` w obu podkatalogach
+    silnik pomija własny język po cichu nawet po wybraniu go w `Select Custom
+    Language`; wewnątrz `Font/{Context,Title}/` trzymaj wyłącznie pliki
+    czcionek (licencje osobno), a na przyciskach UI pilnuj limitów długości, bo
+    stałe ramki nie zmniejszają czcionki automatycznie.

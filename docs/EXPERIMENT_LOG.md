@@ -372,4 +372,37 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   `cmap`; ostateczne zamknięcie O-03 nastąpi po potwierdzeniu przez właściciela
   uruchomienia i wyglądu znaków w grze na paczce `v3`.
 
+---
+
+### E-012 · 2026-11-25 · Trzeci test w grze (`v.1.119.1`): pełne potwierdzenie end-to-end i 18/18 polskich znaków (`O-03` → `D-10`) + narzędzie aktualizacji `audit_update.py`
+
+- **Rodzaj dowodu:** **test w grze** (zrzut ekranu od właściciela z wersji
+  `v.1.119.1`, build Steam `26652290`, po rozpakowaniu
+  `LCB_TEST_DROGI_Polski_26652290_v3.zip` z komentarzem *„i teraz działa”*) +
+  **test syntetyczny** dla `tools/audit_update.py` (`60/60`).
+- **Wynik w grze:**
+  - gra wystartowała od razu w wybranym wcześniej języku `Polski` bez żadnych
+    dodatkowych czynności;
+  - przycisk na ekranie tytułowym wyświetlił napis
+    **`Clear all caches [PL: ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ]`** w kroju `Mikodacs`
+    Grzegorza Luka — wszystkie **18/18 polskich znaków diakrytycznych** (małych
+    i wielkich, w tym ogonki `ą ę Ą Ę`, kreski `ć ń ó ś ź Ć Ń Ó Ś Ź`, `ł Ł` i
+    kropka `ż Ż`) wyrenderowało się ostro, bez kwadratów i artefaktów SDF;
+  - **obserwacja praktyczna dotycząca limitów długości w UI:** sztucznie
+    wydłużony do `42` znaków napis diagnostyczny wyszedł poziomo poza stałą
+    ramkę przycisku `switch_allcacheclear` (oryginał EN ma `16` znaków, brak
+    auto-zmniejszania czcionki na tym przycisku), co potwierdza w praktyce
+    zasadność podawanych w pakiecie limitów długości znaków `limit:` na polach
+    interfejsu.
+- **Domknięcie Etapu 6 (`tools/audit_update.py`):**
+  - dodano `tools/audit_update.py` porównujący dwa snapshoty `Localize` (katalog
+    `index/localize` lub archiwum `LCB_DANE_*.zip` ze zbieracza) po stabilnych
+    identyfikatorach JSON, raportujący dodane/zmienione/usunięte pliki i liście
+    w `kr` i `en`, sprawdzający wpływ łatki na wpisy w `tlumaczenie/`
+    (`preserved`, `stale_kr_changed`, `orphaned_removed`) oraz budujący
+    deterministyczny pakiet uzupełniający `--delta-out` (z zachowaniem nowych,
+    jeszcze nieindeksowanych scen `StoryData/*.json` w `pozostale.md` i
+    wstępnym wypełnieniem niezmienionych linii `PL:` jako kontekstu).
+
+
 

@@ -52,6 +52,7 @@ from tools.package_views import (
 ROOT = Path(__file__).resolve().parent.parent
 SKIP_MARKDOWN = frozenset({
     "readme.md",
+    "audyt_aktualizacji.md",
     "spis-scen.md",
     "spis-rozdzialow.md",
     "spis-widokow.md",

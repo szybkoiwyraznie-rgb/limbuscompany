@@ -101,9 +101,12 @@ Pełny schemat używany przez grę i narzędzia społeczności (`v.1.119.1`):
   `MainUIText.json :: mainui_main_button1/2`, `StoryData/S001B.json :: id=0`,
   `Skills.json :: id=1010101`).
 
-## Test w grze (właściciel)
+## Test w grze (właściciel — ukończony 2026-11-25, E-012)
 
-1. Pierwszy test „drogi”: paczka z jednym zmienionym tekstem — przycisk
-   „Clear all caches” — oraz z polskimi znakami w nim.
-2. Zgłoszenie: czy język się pojawia, czy znaki są poprawne, zrzut ekranu.
-3. Wynik trafia do `EXPERIMENT_LOG.md` jako *test w grze*.
+1. Paczka diagnostyczna `LCB_TEST_DROGI_Polski_26652290_v3.zip` (pełny 5-kluczowy
+   `config.json` + `Font/Context/Pretendard-Regular.ttf` + `Font/Title/Mikodacs.otf`)
+   uruchomiła grę (`v.1.119.1`, build Steam `26652290`) w języku `Polski`.
+2. Zrzut ekranu właściciela potwierdził czyste wyświetlenie wszystkich **18/18
+   polskich znaków** na przycisku `Clear all caches [PL: ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ]`
+   (zamknięcie O-03 → D-10) oraz pokazał, że zbyt długi tekst przycisku wychodzi
+   poza stałą ramkę UI bez automatycznego zmniejszania czcionki.

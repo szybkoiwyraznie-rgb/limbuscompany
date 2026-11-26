@@ -61,11 +61,11 @@ tabeli.
 | Kontrola ZIP-a od właściciela | `tools/validate_collector_return.py` | gotowe, testy syntetyczne |
 | Rozpoznanie korpusu | `tools/inspect_localize.py` (czyta `tools/localize.py`) | gotowe, testy syntetyczne |
 | Teksty gry → `index/` | `tools/import_data.py` | gotowe, zaimportowany build Steam `26652290` ([INDEX_FORMAT.md](INDEX_FORMAT.md)) |
-| Audyt różnic buildów | `tools/audit_update.py` | planowane |
+| Audyt różnic buildów | `tools/audit_update.py` | gotowe, testy syntetyczne (audyt zmian `kr`/`en`, wykrywanie nieaktualnych wpisów PL, pakiet uzupełniający `--delta-out`) |
 | Indeks fabuły (kolejność scen z danych gry) | `tools/story_index.py` (+ `tools/static_data.py`) → `wiedza/indeks_fabuly.json` | gotowe, testy syntetyczne; uruchamiane po nowym rozdziale |
 | Pakiet dla Tłumacza | `tools/build_package.py` (+ `tools/package_views.py`) | gotowe (`sceny.zip` + `widoki.zip` = 100% tekstów gry, testy syntetyczne i bramka pokrycia — [PAKIET_TLUMACZA.md](PAKIET_TLUMACZA.md)) |
 | Import zwrotki | `tools/import_zwrotki.py` → `tlumaczenie/` | gotowe, testy syntetyczne + bramka na pełnym pakiecie (`157 612` pozycji) |
-| Paczka `Lang/` | `tools/build_lang.py` → `dist/LCB_PL_*.zip` | gotowe, testy syntetyczne + tryb `--probe` ([LANG_FORMAT.md](LANG_FORMAT.md)) |
+| Paczka `Lang/` | `tools/build_lang.py` → `dist/LCB_PL_*.zip` | gotowe, **potwierdzone w grze (`v.1.119.1`, E-012)** ([LANG_FORMAT.md](LANG_FORMAT.md)) |
 | Kolejność fabuły (heurystyka storylogs, kontrola indeksu) | `tools/story_order.py` → `wiedza/kolejnosc_fabuly.json` | gotowe, testy syntetyczne |
 | Czytanki fabularne | `tools/build_reading.py` (+ `tools/lcb_text.py`) → `czytanki/fabula_*` | gotowe, układ zaakceptowany i zamrożony (O-04, [CZYTANKI.md](CZYTANKI.md)) |
 | Plik ID (profile Identity) | `tools/build_profiles.py` → `czytanki/plik_ID_*` | gotowe, układ zaakceptowany i zamrożony (O-04, [CZYTANKI.md](CZYTANKI.md)) |

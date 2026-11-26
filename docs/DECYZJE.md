@@ -144,13 +144,35 @@ Polecenie właściciela (zamyka O-01) oraz uściślenie po pierwszym teście w g
   się po angielsku, jednorazowe kliknięcie `Select Custom Language` → `Polski`
   i restart gry aktywuje język na stałe dla wszystkich kolejnych uruchomień.
 
+### D-10 · 2026-11-25 · Niemodyfikowane czcionki SIL OFL 1.1 (`Pretendard-Regular.ttf` + `Mikodacs.otf`) w `assets/fonts/`
+
+Trzy kolejne testy w grze (`v.1.119.1`, build Steam `26652290` — `E-010`,
+`E-011`, `E-012`) rozstrzygnęły i zamknęły **O-03**:
+
+- W Limbus Company `v.1.119.1` własny język w `LimbusCompany_Data/Lang/Polski/`
+  **wymaga** obecności niepustych plików `.ttf`/`.otf` w podkatalogach
+  `Font/Context/` oraz `Font/Title/` — bez nich gra pomija paczkę językową nawet
+  po wybraniu `Polski` w `Select Custom Language` (`E-011`).
+- W `assets/fonts/` wersjonujemy w 100% **niemodyfikowane** pliki na licencji
+  **SIL Open Font License 1.1** odpowiadające krojom samej gry:
+  `Context/Pretendard-Regular.ttf` (`orioncactus/pretendard` v1.309) oraz
+  `Title/Mikodacs.otf` (v0.28 polskiego projektanta Grzegorza Luka,
+  `glukfonts.pl`). Brak modyfikacji gwarantuje pełną zgodność z zastrzeżonymi
+  nazwami `Pretendard` i `Mikodacs` (pkt 3 SIL OFL 1.1).
+- Test w grze (`E-012`) na `LCB_TEST_DROGI_Polski_26652290_v3.zip` potwierdził
+  natychmiastowe uruchomienie gry w języku `Polski` i czyste renderowanie
+  kompletu **18/18 polskich znaków diakrytycznych** (`ąćęłńóśźż ĄĆĘŁŃÓŚŹŻ`) bez
+  kwadratów ani artefaktów.
+
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
+
+Brak otwartych decyzji — wszystkie `O-01` … `O-07` zostały rozstrzygnięte.
 
 | Nr | Pytanie | Kiedy potrzebne | Uwagi |
 |---|---|---|---|
 | ~~O-01~~ | ~~Nazwa języka w `config.json` / folderu (`Polski`? `PL`?)~~ | — | **zamknięte 2026-11-25: `Polski`** → D-09 |
 | ~~O-02~~ | ~~Kolejność prac / zakres pierwszego pakietu~~ | — | **zamknięte 2026-11-25: od razu cała gra (`sceny.zip` + `widoki.zip`, 100% tekstów z kontekstem)** → D-08 |
-| O-03 | Czcionki i wyświetlanie polskich znaków w `Lang/Polski/` | test w grze (`LCB_TEST_DROGI_Polski_26652290_v3.zip`) | drugi test w grze (`E-011`, `v.1.119.1`) rozstrzygnął, że bez `Font/Context/` i `Font/Title/` gra nie ładuje języka mimo wybranego `Polski`; do `assets/fonts/` dodano niemodyfikowane czcionki SIL OFL 1.1 (`Pretendard-Regular.ttf` + `Mikodacs.otf`, `18/18` polskich liter) — czeka na potwierdzenie w grze na paczce `v3`; patrz [LANG_FORMAT.md](LANG_FORMAT.md) |
+| ~~O-03~~ | ~~Czcionki i wyświetlanie polskich znaków w `Lang/Polski/`~~ | — | **zamknięte 2026-11-25: wymagane `Font/{Context,Title}` z niemodyfikowanymi czcionkami SIL OFL 1.1 (`Pretendard-Regular.ttf` + `Mikodacs.otf`); działanie i 18/18 polskich liter potwierdzone w grze (`E-012`)** → D-10 |
 | ~~O-04~~ | ~~Akceptacja układu Czytanek (próbki w Markdown; ewentualnie HTML/DOCX)~~ | — | **zamknięte 2026-11-25: układ zaakceptowany i zamrożony; ewentualne usterki zgłaszane na bieżąco w trakcie czytania** → D-07 |
 | ~~O-05~~ | ~~Czy tłumacz czyta po koreańsku~~ | — | **zamknięte 2026-11-25: tak** → D-05 potwierdzona |
 | ~~O-06~~ | ~~Czy teksty gry mają być w repozytorium (publicznym)~~ | — | **zamknięte 2026-11-25: tak, jako JSON/MD; binaria nigdy** → D-06 |

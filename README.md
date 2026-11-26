@@ -6,8 +6,9 @@ fabuły i lore. Projekt fanowski, niepowiązany z Project Moon. Tłumaczenie
 korzysta wyłącznie z oficjalnego mechanizmu *Custom Language* gry: nie
 modyfikuje plików gry, a odinstalowanie to usunięcie folderu.
 
-**Stan:** fundamenty gotowe, czekamy na pierwszą paczkę danych ze zbieracza —
-[docs/STATUS.md](docs/STATUS.md).
+**Stan:** cała infrastruktura techniczna (Etapy 0–6) gotowa, paczka `Lang/Polski/`
+i 18/18 polskich znaków potwierdzone w grze (`v.1.119.1`), kompletny pakiet dla
+tłumacza czeka na pierwszą zwrotkę — [docs/STATUS.md](docs/STATUS.md).
 
 ## Dla właściciela — co zrobić teraz
 
