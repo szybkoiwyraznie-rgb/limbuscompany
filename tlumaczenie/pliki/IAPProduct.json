@@ -120,6 +120,30 @@
       "en_sha256": "8b29fa71b0406e2b9c9363e0f063880fbbbaaed7015dcc858db964521b8356fe",
       "origin": "ai"
     },
+    "dataList[id=124].desc": {
+      "pl": "Oferta sezonowa — zawiera następujące składniki:\n\n· Szaleństwo x 1300\n\n※ Całe Szaleństwo z tego pakietu to Płatne Szaleństwo.",
+      "kr_sha256": "5b3ee8ac3117cb105ee5b1989b7057c74cfce537b00dc2d31ee87e05c3e25eb1",
+      "en_sha256": "6a0709309dd2e5c052826ceb9abfcd40b502853973b0b3da0d6ef68ce47180cb",
+      "origin": "ai"
+    },
+    "dataList[id=124].name": {
+      "pl": "Pakiet Szaleństwa Startowego Sezonu 4",
+      "kr_sha256": "b574c69dd98a902d0ec93d7cf3484d12f02fd1a51721fa7323741884397c3171",
+      "en_sha256": "8ccb12ee1090512f74e1927d9386a056b2377b5cfaa660e2455baa080a1415b7",
+      "origin": "ai"
+    },
+    "dataList[id=125].desc": {
+      "pl": "Dostępny do zakupu w okresie Sezonu 4: Clear All Cathy — zawiera następujące składniki:\n\n· Szaleństwo x 5040\n· Bilet Dekaekstrakcji x 3\n· Bilet Specjalnego Wzmocnienia Tożsamości III x 1\n· Bilet Treningu Tożsamości III x 30\n· Nić x 80\n· Imienna Skrzynka Odłamków E.G.O Sezonu 4 x 40",
+      "kr_sha256": "ce5bc7c22f4f768e2196533874636ce7f6c1f4f1630157c74db1ef6580811cf0",
+      "en_sha256": "9e279f0acdf40c581d913e03f714c0564d52b6a216a698a6a8980545278b042d",
+      "origin": "ai"
+    },
+    "dataList[id=125].name": {
+      "pl": "Wsparcie Osadnika Sezonu 4",
+      "kr_sha256": "93b20ce6f2ecc41860a57e51ae1cf85104d7c9a3b8ebc59b1eeb5e49874f1b05",
+      "en_sha256": "185b1c7df3c37745efc31dde1fba7509a82523695bab264a1491d217b4bf20f1",
+      "origin": "ai"
+    },
     "dataList[id=12].desc": {
       "pl": "Otrzymasz 294 Płatnego Szaleństwa.\nBonusowo dostaniesz dodatkowo 31 darmowego Szaleństwa.",
       "kr_sha256": "d5cd9f6a5d0dfbd94703af1d7c02287777fcbb985802efaa7aa412bb09f2164a",
@@ -204,10 +228,112 @@
       "en_sha256": "25f0958f3cfc520ccf0891423f5c3ac4be3a1d95879a7da375fd1d3c8a64a70c",
       "origin": "ai"
     },
+    "dataList[id=141].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 3",
+      "kr_sha256": "7eeec0eca559f9fa8c6e04524a6a0b9e648e92fea64160679453d5bd88ddbb80",
+      "en_sha256": "1ce676c0c7139a7a2a6bc755be05fd32906cf751539921b8b79f038957f10a97",
+      "origin": "ai"
+    },
     "dataList[id=141].name": {
       "pl": "Miesięczny Pakiet Biletów Ekstrakcji I",
       "kr_sha256": "960e0e56deb0fad87fc1a6a2b1fc6243e12d060036338c1a34c7f1892d8d8e2d",
       "en_sha256": "c774add3c6b471146ae34e07ed9246f66449534cba176e042d6bf34f23b507b2",
+      "origin": "ai"
+    },
+    "dataList[id=142].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 5",
+      "kr_sha256": "fa07fd24a480dc7d864e455173608b2c7735744793155a2680a3bf8aa99dc520",
+      "en_sha256": "4b6a49b2c3cd68b49348af2e08f6a40c69c8e605920b901ac18ad0b03c31c744",
+      "origin": "ai"
+    },
+    "dataList[id=142].name": {
+      "pl": "Miesięczny Pakiet Biletów Ekstrakcji II",
+      "kr_sha256": "9b7c1bab0535e139a149e4f4de7c71b64a6a349f75cfda0653ca23a226cf4280",
+      "en_sha256": "7e49b15098fda7be59553204e0ee0c5d1fd527f247d2c55e66b77a47676626da",
+      "origin": "ai"
+    },
+    "dataList[id=143].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Bilet Ekstrakcji x 10",
+      "kr_sha256": "a82518ce1367f1611107ba26b7515587abfde20c7148f445d221b0b871d1b4fc",
+      "en_sha256": "bb495dd72fad47a7db44a573d26e1ca5f6d5ed7c81a8a375fcdf6dd34198786f",
+      "origin": "ai"
+    },
+    "dataList[id=143].name": {
+      "pl": "Tygodniowy Pakiet Biletów Ekstrakcji I",
+      "kr_sha256": "3e4ff1b281b33b55cbb76aee13359aef3ef67fbcde09d9f2780b1dd27fa78b22",
+      "en_sha256": "26ec591197124af17a6d5924b789e289b6e8fc24cdf3c0c706b2ce9986281ac2",
+      "origin": "ai"
+    },
+    "dataList[id=144].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Specjalnego Wzmocnienia Tożsamości IV x 2\n· Bilet Treningu Tożsamości IV x 20\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "579c1dfd9cb6bedfed6e0740b9ba653f07909d95b58073dcd8a6b19bc38758ce",
+      "en_sha256": "c2ecdfce58ca31800105b30de580a0fcae8f5047e44980017a2e571567d3f246",
+      "origin": "ai"
+    },
+    "dataList[id=144].name": {
+      "pl": "Miesięczny Pakiet PD I",
+      "kr_sha256": "955726eb0d4e25db1e949e7c2f57ae2810ea3bcefc340cbbd5d23e123b4a6e3e",
+      "en_sha256": "8fd3ebea652a1ef8b9c27614339e3fbd9682938067d91f313465b0e6c86ef0fb",
+      "origin": "ai"
+    },
+    "dataList[id=145].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Specjalnego Wzmocnienia Tożsamości IV x 4\n· Bilet Treningu Tożsamości IV x 20\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "b64ec9b2f4d4465a2b7f91607ef9f6ddc349aef9936dde4ab430e5fa442b9462",
+      "en_sha256": "c225446c560d22eafaa77d55e14e16ff04f41cad5561c8a2f4d683fa1a1f221b",
+      "origin": "ai"
+    },
+    "dataList[id=145].name": {
+      "pl": "Miesięczny Pakiet PD II",
+      "kr_sha256": "69375f9808831b191aee30c77072bb9ee547a440eeb58b45e3b7f560fdc701d6",
+      "en_sha256": "b8fcbbce2fcb9a4a2e98e0e5b80f737004dd494b2b39abba48be123e41bb339a",
+      "origin": "ai"
+    },
+    "dataList[id=146].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Specjalnego Wzmocnienia Tożsamości IV x 8\n· Bilet Treningu Tożsamości IV x 40\n· Bilet Treningu Tożsamości III x 40",
+      "kr_sha256": "e9545e488156c113c38e439ffc4ed8918cb4ac00caf5afc03dbb4b6771ab2741",
+      "en_sha256": "5b0ee04ebcb480b4e1263f8022843559534fcc77b532a141cd82849b98eae72d",
+      "origin": "ai"
+    },
+    "dataList[id=146].name": {
+      "pl": "Miesięczny Pakiet PD III",
+      "kr_sha256": "b4a8a2745696a12ac83ab64ea9b0684b92c7df3acf5f5e17f436798a4fdef18c",
+      "en_sha256": "77e88c0e48fbc5c1931da20625786b45faa407f9738923eca7b024bbbd42191f",
+      "origin": "ai"
+    },
+    "dataList[id=147].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Nić x 300",
+      "kr_sha256": "cb61772cea0b7a4e45bdf71ab4761e2015784c64e382a6296b0f32f39ed8d4f6",
+      "en_sha256": "63c19bf2842a0e36ba91decc99fc26dd7fc237f689c26417a4e06adb0fdc0582",
+      "origin": "ai"
+    },
+    "dataList[id=147].name": {
+      "pl": "Miesięczny Pakiet Nici I",
+      "kr_sha256": "601ec496a90f2d8d8fc4f35e02e21104e35fd9ae1f357e107cc34f4ecef49c46",
+      "en_sha256": "3137e20ffaee598e43d1980a473248b1c3ff2d52750a71f03ee5186db7b04d1a",
+      "origin": "ai"
+    },
+    "dataList[id=148].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Nić x 500",
+      "kr_sha256": "f7302a932be8acdfbce46ddc42bab87e2bb069c3553ab78330abb4e0669672a9",
+      "en_sha256": "05697cb606be11bd9fa2f89cec7b48cf70e15a5541f1890c68e5a2654e4b56e4",
+      "origin": "ai"
+    },
+    "dataList[id=148].name": {
+      "pl": "Miesięczny Pakiet Nici II",
+      "kr_sha256": "07fb31c2a53e4f114cb7ddf161caf54a49885c113193fda47ca53d5760797b73",
+      "en_sha256": "e1fa9d931fdd3528092668ac9b14d8bff60c527a0115129328346feb0bdb2653",
+      "origin": "ai"
+    },
+    "dataList[id=149].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Nić x 1000",
+      "kr_sha256": "d46662ea4a034e06d2eded84d59de06e435f23862638557f1017d60c2cdb8f96",
+      "en_sha256": "0310ed329d7a7ced090d829d40110355a801d2858eb59c03d6a7808332f4fd4a",
+      "origin": "ai"
+    },
+    "dataList[id=149].name": {
+      "pl": "Miesięczny Pakiet Nici III",
+      "kr_sha256": "baff55593d9bed73f33803889dbd0415bb3f904d8c5c309db22bc8a52ba4be62",
+      "en_sha256": "35ec6e5b8e9ca3f455b8e8d298db38f23d73500f99bd5489dda6a7389be210c0",
       "origin": "ai"
     },
     "dataList[id=14].desc": {
@@ -220,6 +346,54 @@
       "pl": "Skrzynia Szaleństwa",
       "kr_sha256": "83320a09e70912f9d5e8babaa55c7af109a425110ddd3a6ce283299bc88b72c7",
       "en_sha256": "2b45121d1603bdf42fb0825430fc83e0c977e51f15df7668abf5ce8bc10e5fd1",
+      "origin": "ai"
+    },
+    "dataList[id=150].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 25\n· Bilet Treningu Tożsamości III x 18",
+      "kr_sha256": "ba451f2bcae27394e2edc00789af39729a8ba347e7aff41d1a837f815ea5a77b",
+      "en_sha256": "bbece67e3257c6879c17135864bdaa3beb08c602c56124036cce68ecc0f2bfed",
+      "origin": "ai"
+    },
+    "dataList[id=150].name": {
+      "pl": "Tygodniowy Pakiet PD",
+      "kr_sha256": "bb14f98ffb5ef2b7b5dd21e56117a398af67fbae5fe1d310eeab05112d104164",
+      "en_sha256": "bac65b61db646bd60d12e94acfd51737316336dc5539139fc1382ce01be1fbb2",
+      "origin": "ai"
+    },
+    "dataList[id=151].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 72\n· Bilet Treningu Tożsamości III x 48",
+      "kr_sha256": "27d1e5f698096cebfee765ba9cbae59eab0f5acceb9d425993acd257ccdbccb1",
+      "en_sha256": "906f653275495c3d7db55d170a2c5c59ce1415fdc1d9bcd0a368ba88e236f1f5",
+      "origin": "ai"
+    },
+    "dataList[id=151].name": {
+      "pl": "Miesięczny Pakiet PD I",
+      "kr_sha256": "955726eb0d4e25db1e949e7c2f57ae2810ea3bcefc340cbbd5d23e123b4a6e3e",
+      "en_sha256": "8fd3ebea652a1ef8b9c27614339e3fbd9682938067d91f313465b0e6c86ef0fb",
+      "origin": "ai"
+    },
+    "dataList[id=152].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 125\n· Bilet Treningu Tożsamości III x 72",
+      "kr_sha256": "9493fc7f97557a97315eb66a01537f35da588b6e83675dd962cac4fa30e1291c",
+      "en_sha256": "4b64af57e2b442901a17af816a235d3b01a7b18ee05f9c2c83e412b63bc61729",
+      "origin": "ai"
+    },
+    "dataList[id=152].name": {
+      "pl": "Miesięczny Pakiet PD II",
+      "kr_sha256": "69375f9808831b191aee30c77072bb9ee547a440eeb58b45e3b7f560fdc701d6",
+      "en_sha256": "b8fcbbce2fcb9a4a2e98e0e5b80f737004dd494b2b39abba48be123e41bb339a",
+      "origin": "ai"
+    },
+    "dataList[id=153].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Treningu Tożsamości IV x 250\n· Bilet Treningu Tożsamości III x 144",
+      "kr_sha256": "a50de3336b6549c9793eef2d39803a195616beedba3b08ba28eb148ac0af7556",
+      "en_sha256": "96fc670ccb580c0a512bf03ef25fc612f6b5010d0677bff7f0df0d12bf26b310",
+      "origin": "ai"
+    },
+    "dataList[id=153].name": {
+      "pl": "Miesięczny Pakiet PD III",
+      "kr_sha256": "b4a8a2745696a12ac83ab64ea9b0684b92c7df3acf5f5e17f436798a4fdef18c",
+      "en_sha256": "77e88c0e48fbc5c1931da20625786b45faa407f9738923eca7b024bbbd42191f",
       "origin": "ai"
     },
     "dataList[id=15].desc": {
@@ -256,6 +430,66 @@
       "pl": "Szaleństwo",
       "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
       "en_sha256": "b8b523982746c8c5cb5eccfd535290edbf4ff1f419b1b6c3b5ccb4ad604b7f86",
+      "origin": "ai"
+    },
+    "dataList[id=201].desc": {
+      "pl": "Pakiet limitowany na 1. Rocznicy — zawiera następujące składniki:\n\n· Natychmiastowy dostęp do Komentatorki Angela\n· Bilet Dekstrakcji Gwarantowanej 3★ x 1\n· Bilet Skoku Rozwoju Tożsamości x 1\n\n※ Jeśli już posiadasz Komentatorkę Angela, otrzymasz zamiast niej 50 Skrzynek Nici.\n※ Bilet Skoku Rozwoju Tożsamości podnosi poziom wybranej Tożsamości do 40, a Stopień Synchronizacji do 4.",
+      "kr_sha256": "0146d22ebdb0079b3ccad7193284148af513d61df9646ccf2b2b2d19e9aa3a01",
+      "en_sha256": "348e63a3f12935ce3e5ca3c73af15b558417f19590617859552bc104e23f07f9",
+      "origin": "ai"
+    },
+    "dataList[id=201].name": {
+      "pl": "Pakiet 1. Rocznicy",
+      "kr_sha256": "d8a47e2e5cc73c9fd0e3affe13831521cba934845c8359bc34fb7a97755aa3e2",
+      "en_sha256": "1b060641719d157862e3e93dceed8dba4c5c5ca12e63b28fa6e022654e14a463",
+      "origin": "ai"
+    },
+    "dataList[id=202].desc": {
+      "pl": "Pakiet limitowany z okazji kampanii Full Moon 2024 — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 80\n\n※ Moduł Skoku — Synchronizacja Tożsamości podnosi Stopień Synchronizacji wybranej Tożsamości do 4.",
+      "kr_sha256": "82bdd52ee359bcca594b5ab052a7b0001e0ee9994d3fd240f8ba8a1ad0a471b4",
+      "en_sha256": "fc58518f84b4b46f38cc8083ce393e0a310bf49cb1c8df174183ca2e073c6d97",
+      "origin": "ai"
+    },
+    "dataList[id=202].name": {
+      "pl": "Pakiet Rozwoju Tożsamości\nFull Moon 2024",
+      "kr_sha256": "263a297b78ea9218a11f3d959f164c2835906befa42d70859eb6f26982c2c889",
+      "en_sha256": "dacaed79d214d6184b409bd536a508267814f315903c8fd63db103489d892778",
+      "origin": "ai"
+    },
+    "dataList[id=203].desc": {
+      "pl": "Pakiet limitowany z okazji kampanii Full Moon 2024 — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 3\n· Moduł Skoku — Splot Nici E.G.O [WAW] x 1\n\n※ Moduł Skoku — Splot Nici E.G.O [WAW] podnosi Stopień Splotu Nici wybranego E.G.O do 4. (Można stosować wyłącznie do E.G.O rangi WAW lub niższej)",
+      "kr_sha256": "27249dfabd293d24dbdefa11ccb892910207c686f1304a3ab967a928eae2d07b",
+      "en_sha256": "8581f52e1782ec99bf914541e9d5098c2a30455dda1c52f0b5eff95dc65ffc81",
+      "origin": "ai"
+    },
+    "dataList[id=203].name": {
+      "pl": "Pakiet Rozwoju E.G.O\nFull Moon 2024",
+      "kr_sha256": "6db457b864e80c87271799374cbf41ec27c006dd80ff75d8d1df4f30d530669f",
+      "en_sha256": "013179b8b2e147ccb7d8b93786a64e0c7df12cfb31281da93ed4427e64daa17e",
+      "origin": "ai"
+    },
+    "dataList[id=204].desc": {
+      "pl": "Pakiet limitowany z okazji kampanii Full Moon 2024 — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Moduł Skoku — Splot Nici E.G.O [WAW] x 1\n· Bilet Treningu Tożsamości IV x 80\n· Nić x 100\n\n※ Moduł Skoku — Synchronizacja Tożsamości podnosi Stopień Synchronizacji wybranej Tożsamości do 4.\n\n※ Moduł Skoku — Splot Nici E.G.O [WAW] podnosi Stopień Splotu Nici wybranego E.G.O do 4. (Można stosować wyłącznie do E.G.O rangi WAW lub niższej)",
+      "kr_sha256": "7f3f8ad5c2d65c7d0bf37fe1947604776630c438405af584b7e4588030aa654e",
+      "en_sha256": "c4c78c1cfb69d06d608c607d355c374fff462a46569392142fca4713d11c41a5",
+      "origin": "ai"
+    },
+    "dataList[id=204].name": {
+      "pl": "Pakiet Kompleksowy\nFull Moon 2024",
+      "kr_sha256": "b04589bede255448b7ec017a5b8eb4c63e9b697bee402b898eaaefa368515584",
+      "en_sha256": "83d34df96f08003f9bbcb9a279c508fab05f3196f155d2891545cafd1d0774a0",
+      "origin": "ai"
+    },
+    "dataList[id=205].desc": {
+      "pl": "Pakiet limitowany na 2. Rocznicy — zawiera następujące składniki:\n\n· Natychmiastowy dostęp do Komentatora Vergiliusa\n· Bilet Dekstrakcji Gwarantowanej 3★ x 1\n· Bilet Skoku Rozwoju Tożsamości - ver.2 x 1\n\n※ Jeśli już posiadasz Komentatora Vergiliusa, otrzymasz zamiast niego 50 Skrzynek Nici.\n※ Bilet Skoku Rozwoju Tożsamości - ver.2 podnosi poziom wybranej Tożsamości do 50, a Stopień Synchronizacji do 4.",
+      "kr_sha256": "d5b9f14ea00b83e499e98d94edaf4588576ceafcf51f3e5dfa79034dc68c1670",
+      "en_sha256": "274e374e8c5e6d44645e53c8d2cd253e0a04a7fc075a22536c52180e7e56bd17",
+      "origin": "ai"
+    },
+    "dataList[id=205].name": {
+      "pl": "Pakiet 2. Rocznicy",
+      "kr_sha256": "b7689c7f6f2664f5b9cf18565fa7b747d24d545bd1ddef1cf2598caa17784e97",
+      "en_sha256": "df93340029f24e8cb029ba79888548f8e2e9a091d7cfd8d1b737eb3f21df6905",
       "origin": "ai"
     },
     "dataList[id=21].desc": {
@@ -306,6 +540,294 @@
       "en_sha256": "25f0958f3cfc520ccf0891423f5c3ac4be3a1d95879a7da375fd1d3c8a64a70c",
       "origin": "ai"
     },
+    "dataList[id=401].desc": {
+      "pl": "Pakiet limitowany dla powracających Kierowników — zawiera następujące składniki:\n※ Widoczny wyłącznie dla powracających użytkowników; do zakupu wyłącznie w okresie wydarzenia powrotu.\n\n· Bilet Ekstrakcji x 5\n· Bilet Treningu Tożsamości IV x 45\n· Nić x 100",
+      "kr_sha256": "f34aa91129468b6bbcdd623aa6748d879bba613d6efb7aad6131c0083b3556a8",
+      "en_sha256": "d9cac1e19c8bf5f440e0954cd1240cae450f9e949f2b2b04b2582f495e33ee0a",
+      "origin": "ai"
+    },
+    "dataList[id=401].name": {
+      "pl": "Pakiet „Powrót do Biura”",
+      "kr_sha256": "6119bb7d679bd08a7db4ddbeb70cceeb77494a30ac87384759ed69b4d86b083d",
+      "en_sha256": "3a1d4e918c4954791a9b00e3732ce507330e8b165c589ba8f5a42b9e4b3c7317",
+      "origin": "ai"
+    },
+    "dataList[id=402].desc": {
+      "pl": "Pakiet limitowany z okazji premiery „Ekstrakcja Celowana: Zarządczyni La Manchalandu Don Quixote” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "90f341e6c32da53680d6e98116dc48d2e49190c100c58effb477730b60250667",
+      "en_sha256": "c3d09c4574391458d2c74eada1684353fb7e0c7d99b7336670c262efd1339dff",
+      "origin": "ai"
+    },
+    "dataList[id=402].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=403].desc": {
+      "pl": "Pakiet limitowany z okazji premiery „Ekstrakcja Celowana: Zarządczyni La Manchalandu Don Quixote” — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "8288b69328a07c010aa2b4c203e2edc0ec5c16724570c0e886ad033c576d22c5",
+      "en_sha256": "daf9a4302f8ec2ac4c01d0c408409618b981e1194d080cdc7b299df01b898262",
+      "origin": "ai"
+    },
+    "dataList[id=403].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=404].desc": {
+      "pl": "Pakiet z okazji premiery „Intervallo III: Cud w Dystrykcie 20 BokGak” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "b4b1f1eecb34d71ceb50184ac74c8a96030cbe5ca950f56fd8d0f1a958e268df",
+      "en_sha256": "dda88cfb714be214648cf2bb39348d8b09cead11e57fe88d14fae1c5ed5b570d",
+      "origin": "ai"
+    },
+    "dataList[id=404].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=405].desc": {
+      "pl": "Pakiet z okazji premiery „Intervallo III: Cud w Dystrykcie 20 BokGak” — zawiera następujące składniki:\n\n· Moduł Skoku — Splot Nici E.G.O [HE] x 1",
+      "kr_sha256": "eefb34f269370f1125d2266cb0e5c387dce3e038c34e213c695141d03003ff2f",
+      "en_sha256": "282b6d3e798eab79d5c316e9bd0825e5c4d5cca3ec876ba6f35b975f16a9536a",
+      "origin": "ai"
+    },
+    "dataList[id=405].name": {
+      "pl": "Pakiet Rozwoju E.G.O",
+      "kr_sha256": "ff1ccd346010490ffe8a52e2728716b4f285cf92682e57acd83e3b55b6f86fd2",
+      "en_sha256": "23524eeaca8d04a4df2f010929f9de34e6089df00e82fd8136de1313e0e49576",
+      "origin": "ai"
+    },
+    "dataList[id=406].desc": {
+      "pl": "Pakiet z okazji 5. Nocy Walpurgii — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "6b0eae42cbdb27cb4b444265fbf7c8833f0400198268418a00c6222739b454bc",
+      "en_sha256": "8461af3bab13e2d1775f398967b6d6cd22bdce0468d3e6e9fdf93df6aab56396",
+      "origin": "ai"
+    },
+    "dataList[id=406].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=407].desc": {
+      "pl": "Pakiet z okazji 5. Nocy Walpurgii — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "2fccf96a474bbd3eef39b93eab7ba0da416a79a280c2b650773a3e1819c77ca0",
+      "en_sha256": "8074c5e7ca7cceb7e31e70b14c493dea8b2ce1e2946131b852e1f9037659b41b",
+      "origin": "ai"
+    },
+    "dataList[id=407].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=408].desc": {
+      "pl": "Pakiet z okazji 5. Nocy Walpurgii — zawiera następujące składniki:\n\n· Moduł Skoku — Splot Nici E.G.O [HE] x 1",
+      "kr_sha256": "c81ff928ad671f89a953923555f181a3855b2c4cd2dbc6acb5fe0148ea233b24",
+      "en_sha256": "5e9e92bcccc6247460680141717fdb6034b1c869574066a1af0dc931c7a334d6",
+      "origin": "ai"
+    },
+    "dataList[id=408].name": {
+      "pl": "Pakiet Rozwoju E.G.O",
+      "kr_sha256": "ff1ccd346010490ffe8a52e2728716b4f285cf92682e57acd83e3b55b6f86fd2",
+      "en_sha256": "23524eeaca8d04a4df2f010929f9de34e6089df00e82fd8136de1313e0e49576",
+      "origin": "ai"
+    },
+    "dataList[id=409].desc": {
+      "pl": "Pakiet z okazji Okresowych Badań LCB — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "405589b7af70b52f8462ceef82db87240051430ed31cd3e24c0ffee5afb64ac9",
+      "en_sha256": "c52b713cdf19c8eeb1b412ca3add2c964a2834ed83ee84efad81ea52c87e000d",
+      "origin": "ai"
+    },
+    "dataList[id=409].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=410].desc": {
+      "pl": "Pakiet z okazji Okresowych Badań LCB — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "a4157df486ae5f30f288e9b962e56b6e80f58b51212ba83afae22b1870a0990a",
+      "en_sha256": "b5087a6624598fc18d3009e6e2068395dfde1550c9337cfcb0586ca30bb9355c",
+      "origin": "ai"
+    },
+    "dataList[id=410].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=411].desc": {
+      "pl": "Pakiet z okazji Okresowych Badań LCB — zawiera następujące składniki:\n\n· Moduł Skoku — Splot Nici E.G.O [HE] x 1",
+      "kr_sha256": "c5c354f5aaf61c9a53891a7ff65a7049c108e38de860fa07cb1b3ec7eed01f78",
+      "en_sha256": "ac67cb7fe51f17341c99ac129826b9c2d047578146e4253b1069a3ed24b0d390",
+      "origin": "ai"
+    },
+    "dataList[id=411].name": {
+      "pl": "Pakiet Rozwoju E.G.O",
+      "kr_sha256": "ff1ccd346010490ffe8a52e2728716b4f285cf92682e57acd83e3b55b6f86fd2",
+      "en_sha256": "23524eeaca8d04a4df2f010929f9de34e6089df00e82fd8136de1313e0e49576",
+      "origin": "ai"
+    },
+    "dataList[id=412].desc": {
+      "pl": "Pakiet z okazji premiery „Oddam Ciało, by Złamać Ich Kości BokGak” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "58c247cd5001c6946216e3a4315c1327661b2497487310834e09b1b66449c252",
+      "en_sha256": "c38bfe064e57b8380c818a1e9a5763134d4e440abb36740f87006f9bf963e8cf",
+      "origin": "ai"
+    },
+    "dataList[id=412].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=413].desc": {
+      "pl": "Pakiet z okazji premiery „Oddam Ciało, by Złamać Ich Kości BokGak” — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "3fd36a4e35abc573bc1d264567863afca74abb743b977df274e295774f38dc24",
+      "en_sha256": "33d84cb39b577db50fcadaab0c537d0658345d9c116d8bda7ad895e159d90cfe",
+      "origin": "ai"
+    },
+    "dataList[id=413].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=414].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Sekcja 3 Południowego Stowarzyszenia Liu Yi Sang i Torakalgia Faust” — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "dbc250b90056edd09dc6001ea25d9d2b210ec1d2fdd64f0f1781cf47e5804c04",
+      "en_sha256": "eca4da6ddf13d8c917d59daea23c812b61b717e6d358b9edea4ac8292ca596c9",
+      "origin": "ai"
+    },
+    "dataList[id=414].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=415].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana: Tożsamość i E.G.O — Sekcja 3 Południowego Stowarzyszenia Liu Yi Sang i Torakalgia Faust” — zawiera następujące składniki:\n\n· Moduł Skoku — Splot Nici E.G.O [HE] x 1",
+      "kr_sha256": "3efdf146cfb7f89cb8e4e757800ca90b3c2b5b078a9f03db2f49fa76e8247c93",
+      "en_sha256": "1bb4bc218c0db898ed9fe2e1b0a276df0c899a63cce2b4b11684ef771a851f2a",
+      "origin": "ai"
+    },
+    "dataList[id=415].name": {
+      "pl": "Pakiet Rozwoju E.G.O",
+      "kr_sha256": "ff1ccd346010490ffe8a52e2728716b4f285cf92682e57acd83e3b55b6f86fd2",
+      "en_sha256": "23524eeaca8d04a4df2f010929f9de34e6089df00e82fd8136de1313e0e49576",
+      "origin": "ai"
+    },
+    "dataList[id=416].desc": {
+      "pl": "Pakiet limitowany na 2. Rocznicy — zawiera następujące składniki związane z Ekstrakcją:\n\n· Bilet Dekaekstrakcji x 5",
+      "kr_sha256": "dafe0f19121224b31b90f76cfad8117351570f0ed48daaffe157c841570ef900",
+      "en_sha256": "39dad9f6fb455ee5f9a41d03bed049219da13605edd761df1d12865d493cb2a1",
+      "origin": "ai"
+    },
+    "dataList[id=416].name": {
+      "pl": "Pakiet Biletów Ekstrakcji\n2. Rocznicy",
+      "kr_sha256": "cb4d98a5ecacfb4b9557966bef50a890ca21be67ca4da09b4e92203e0469c5e3",
+      "en_sha256": "7cf8fe5e19622fea956fbc29d22c28b7ef63912358640efe0d77c3e2f5c4878d",
+      "origin": "ai"
+    },
+    "dataList[id=417].desc": {
+      "pl": "Pakiet limitowany na 2. Rocznicy — zawiera następujące składniki związane z rozwojem Tożsamości:\n\n· Bilet Treningu Tożsamości IV x 125\n· Nić x 400",
+      "kr_sha256": "b641e58c0679632cb7f04cf4cc914d08a442611f2ee828b2f2485590e6bf2e73",
+      "en_sha256": "7749d9ff51bac519835d489637fd95019aa9e3636b509ac90b1475b934d531e3",
+      "origin": "ai"
+    },
+    "dataList[id=417].name": {
+      "pl": "Pakiet Rozwoju Tożsamości\n2. Rocznicy",
+      "kr_sha256": "a135a4c2d977eb1896e9d4a7f3c84725019491e57446045d1046c9f31a98bbb6",
+      "en_sha256": "5899fc31696163c7a69dac1d72684b65d432f0fbf663caa457a266a53ddd9791",
+      "origin": "ai"
+    },
+    "dataList[id=418].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana: Sekcja 3 Wschodniego Stowarzyszenia Cinq Don Quixote i Ocalały z Biura Ognistej Pięści Gregor” — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "2dca4afaa2456bc0f1efff9d5ac54d480550d3c167f8aa69bd40d407db07807e",
+      "en_sha256": "70c925240bf7b60ceffa77aa1cd184f466090580311737871755bd95eba29bf6",
+      "origin": "ai"
+    },
+    "dataList[id=418].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=419].desc": {
+      "pl": "Pakiet z okazji Nocnego Sprzątania — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "560713a784943c161cbc80cf0655338765d360a58d9495dda725bb8f36c16baa",
+      "en_sha256": "73da0720866e03d324265aa9c744756b32cefcf29b56a0f813c28936c8564eaf",
+      "origin": "ai"
+    },
+    "dataList[id=419].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=420].desc": {
+      "pl": "Pakiet z okazji Nocnego Sprzątania — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "c4ce512cd4b4fa4e03c5ddf690daaa541532d27f971f4e2de45678bd3adc8932",
+      "en_sha256": "637c94497ba26faaa43973f960b22bec9f4967a430af7e6c8da35b645131db6a",
+      "origin": "ai"
+    },
+    "dataList[id=420].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=421].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana: Młodszy Brat Środkowego Sinclair” — zawiera następujące składniki:\n\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "033ba73e9b2ce30fca1012c6149a5ff26bb34970ffc03d592fd279bb37dadfbf",
+      "en_sha256": "ef70318f9e6151ab88b51f9e489b8736b8b98d936227b16511d91184879b7203",
+      "origin": "ai"
+    },
+    "dataList[id=421].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
+    "dataList[id=422].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana E.G.O: Próba Wskazującego dla Rodion” — zawiera następujące składniki:\n\n· Bilet Dekaekstrakcji x 4",
+      "kr_sha256": "e6d7262c927fc5313f54127fcd12bbff3afa4a7a412e4ed80d2025e2d1f36904",
+      "en_sha256": "d317b8c6b4e9a1251522296b5bd82dca771daad557311e1b10edd2494f94ea1c",
+      "origin": "ai"
+    },
+    "dataList[id=422].name": {
+      "pl": "Pakiet Ekstrakcji Celowanej",
+      "kr_sha256": "e8447b16ea8bd9c3524a77310aef7d92be52236b14a000d7452285d6fee9dede",
+      "en_sha256": "8edc985ca2503215e4af8c865b1d95d1f4789dfffbdc4018808a1cef607d31b6",
+      "origin": "ai"
+    },
+    "dataList[id=423].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana E.G.O: Próba Wskazującego dla Rodion” — zawiera następujące składniki:\n\n· Moduł Skoku — Splot Nici E.G.O [WAW] x 1",
+      "kr_sha256": "d3395308af443d5255debd1c8cbb900f36cac0f2458823c734717ed1aeabab52",
+      "en_sha256": "bbfa8dc958d2fd7d0d358ff93b8b85d0a28ab0a255b02e0a4ca411041df139b8",
+      "origin": "ai"
+    },
+    "dataList[id=423].name": {
+      "pl": "Pakiet Rozwoju E.G.O",
+      "kr_sha256": "ff1ccd346010490ffe8a52e2728716b4f285cf92682e57acd83e3b55b6f86fd2",
+      "en_sha256": "23524eeaca8d04a4df2f010929f9de34e6089df00e82fd8136de1313e0e49576",
+      "origin": "ai"
+    },
+    "dataList[id=424].desc": {
+      "pl": "Pakiet z okazji premiery „Nowa Ekstrakcja Celowana: Zespół Reniferów 4. Stada R Corp. Hong Lu” — zawiera następujące składniki:\n\n· Moduł Skoku — Synchronizacja Tożsamości x 1\n· Bilet Treningu Tożsamości IV x 50\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "52bb07db194b5e9f63c1a37fc5cfe41306b3d8ce306c64049e2a584a9c10d5ac",
+      "en_sha256": "24d4d38c6459020795c2e5c4fb2d291d54fccbdb17369ca7067b7973b7da7a75",
+      "origin": "ai"
+    },
+    "dataList[id=424].name": {
+      "pl": "Pakiet Rozwoju Tożsamości",
+      "kr_sha256": "a12f2207cc0978a578736e81d66b050cc256d1e04795eda5acc6d51d9fc8532a",
+      "en_sha256": "4a27cf83a2b6223e793f1972ec16f13fd524a857c13daa7ab963abac23add60f",
+      "origin": "ai"
+    },
     "dataList[id=4].desc": {
       "pl": "Otrzymasz 4294 Płatnego Szaleństwa.",
       "kr_sha256": "45f2e9e26dbdffe76cb4f8d099df5f7420620d3f482f235c50d62e71fd610c4c",
@@ -340,6 +862,18 @@
       "pl": "Zbiór Szaleństwa",
       "kr_sha256": "3a7021f677df389d5c02b1c714be0c718a038ede6daa51a4f49d19ec710fb86b",
       "en_sha256": "26cf25e2052089a10b37ccac808be40f1813191f46c8cd5553961b0c136dda66",
+      "origin": "ai"
+    },
+    "dataList[id=999].desc": {
+      "pl": "Można ulepszyć Przepustkę Bitewną do Limbus Pass.\n\n※ Po rozpoczęciu nowego sezonu dotychczasowe efekty wygasają.",
+      "kr_sha256": "11a27e9468b364b8d18f8ba6da8fe0bb6bd43835d6db02cd6a832ccce5ebba1c",
+      "en_sha256": "11eb9bc324ddb1a4335a0b24c55ceca6e6c36c4dfd4ed258c5a39ac9bffc7a9b",
+      "origin": "ai"
+    },
+    "dataList[id=999].name": {
+      "pl": "Limbus Pass",
+      "kr_sha256": "b4bf3df9dea2420ca33b1b3cd498943f808942428e745106c9abb67e33ea95e6",
+      "en_sha256": "98689ba2150f2bb83ac378242b385a4771940f872e0d13402f3570b4701024cc",
       "origin": "ai"
     }
   }
