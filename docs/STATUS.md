@@ -4,18 +4,16 @@ Stan na **2026-11-26**.
 
 ## Gdzie jesteśmy
 
-**Cała infrastruktura techniczna projektu (Etapy 0–6) jest ukończona i
-sprawdzona na żywej czwartkowej aktualizacji gry (`26652290` → `26917622`,
-E-013): paczka `Lang/Polski/` z niemodyfikowanymi czcionkami SIL OFL 1.1
-(`Pretendard-Regular.ttf` + `Mikodacs.otf`) działa w grze (`18/18` polskich
-znaków, E-012), `index/localize` jest na aktualnym buildzie `26917622`, a na
-Dysku obok pełnego pakietu bazowego (`plik_dla_tlumacza_v2.zip`) czeka gotowy
-pakiet przyrostowy `pakiet_przyrostowy_26652290_do_26917622.zip` (`1 733`
-unikalne pozycje z dzisiejszej łatki).**
+**Pierwsza produkcyjna polska paczka językowa `LCB_PL_Polski_26917622_v1.zip`
+(`7 491 054` B, build Steam `26917622`) jest zbudowana z repozytorium i wgrana na
+Dysk Google (E-014): obejmuje 100% Prologu oraz Canto I–III (`105` scen), `36`
+historii Tożsamości Sezonu 1, `169` mówców/tytułów/miejsc oraz wczesne Notatki
+Dantego i karty Teatru (`12 099 / 193 308` = `6,26%` liści w całej grze z
+bezpiecznym fallbackiem EN dla nieprzetłumaczonych jeszcze części).**
 
 - Repozytorium urządzone według wzorców WWM/SRW: zasady (`AGENTS.md`),
   środowisko, lekcje, decyzje, polityka danych, workflow, CI (Ubuntu + Windows,
-  `61/61` testów zielonych).
+  `63/63` testów zielonych).
 - Zbieracz `LCB_ZBIERZ_DANE 1.0.0` przeszedł przebieg bazowy (`26652290`, E-007)
   oraz przebieg po czwartkowej aktualizacji (`LCB_DANE_20261126_094359_ef145d.zip`,
   build Steam **`26917622`**, 7368 plików, 0 błędów — E-013).
@@ -40,14 +38,26 @@ unikalne pozycje z dzisiejszej łatki).**
     — wyłącznie nowości i poprawki z łatki: `2` nowe historie Tożsamości
     `P10117` Yi Sang i `P11217` Gregor, `3` nowe wpisy słownika mówców oraz `17`
     plików widoków, łącznie **1 733** unikalne puste pola `PL:`).
-- **Importer zwrotek, generator `Lang/Polski/` i audyt aktualizacji (E-009 … E-013):**
+- **Stan przekładu (`tlumaczenie/`) i paczka do gry na Dysku (E-014):**
+  - zaimportowano pierwszą zwrotkę `LC_PL1.zip` (`19` plików Markdown, `0`
+    błędów, `0` ostrzeżeń): `149` plików w `tlumaczenie/pliki/` (`5 559`
+    adresów), `169` wpisów w `tlumaczenie/slowniki.json`, `379` powiązań w
+    `tlumaczenie/powtorzenia.json`;
+  - zbudowano i wgrano na Dysk produkcyjną paczkę
+    **`LCB_PL_Polski_26917622_v1.zip`** (`7 491 054` B, SHA-256
+    `b335c53abf082a201a15dc4dfbc9f7710df84ee5d559f9f24bdd2ab7e4169e82` —
+    `2 421` plików JSON, `469` zmodyfikowanych, `12 099 / 193 308` = `6,26%`
+    liści po polsku).
+- **Importer zwrotek, generator `Lang/Polski/` i audyt aktualizacji (E-009 … E-014):**
   - `tools/import_zwrotki.py` waliduje zgodność źródeł, znaczniki TMP, zmienne
-    `{0}`, słowa kluczowe `[Keyword]` i styl `DEN` w `BgmLyrics/*`, dziedziczy
-    powtórzenia, obsługuje bezstratny import zwrotek ze starszego pakietu po
-    aktualizacji gry (`--allow-older-package`) i zapisuje `tlumaczenie/` atomowo;
+    `{0}`, słowa kluczowe `[Keyword]`, styl `DEN` w `BgmLyrics/*` i znaczniki
+    skryptu `//…` w `StoryData/*`, ostrzega przed niezamierzonym Hangulem w
+    `PL:`, dziedziczy powtórzenia, obsługuje `--allow-older-package` i zapisuje
+    `tlumaczenie/` atomowo;
   - `tools/build_lang.py` buduje deterministyczne archiwum `Lang/Polski/` (pełny
     5-kluczowy `config.json` + czcionki OFL z `assets/fonts/` + pliki JSON z
-    fallbackiem EN) — działanie potwierdzone w grze (`E-012`);
+    fallbackiem EN i rzutowaniem słownika mówców/tytułów) — działanie
+    potwierdzone w grze (`E-012`);
   - `tools/audit_update.py` porównuje buildy (`--old` lub czysto z Git
     `--old-rev`), wykrywa zmienione oryginały `KR` w `tlumaczenie/` i buduje
     pakiety uzupełniające (`--delta-scope files`) oraz ścisłe pakiety
@@ -55,15 +65,15 @@ unikalne pozycje z dzisiejszej łatki).**
 
 ## Następny krok
 
-1. **Właściciel:** przekazać tłumaczowi pakiet bazowy `plik_dla_tlumacza_v2.zip`
-   wraz z dzisiejszym pakietem przyrostowym
-   `pakiet_przyrostowy_26652290_do_26917622.zip` z folderu `Limbus Company` na
-   Dysku, a po otrzymaniu zwrotki wrzucić ją do tego samego folderu.
-2. **Agent:** zaimportować zwrotki (`tools/import_zwrotki.py`, z flagą
-   `--allow-older-package` dla plików z `v2`), zbudować paczkę produkcyjną
-   `LCB_PL_Polski_26917622.zip` (`tools/build_lang.py`) i wgrać na Dysk; gdy
-   `OpenLethe` opublikuje zaktualizowane `StaticData`, dograć je przez
-   `tools/import_data.py` i odświeżyć `czytanki/plik_ID_*`.
+1. **Właściciel:** pobrać z folderu `Limbus Company` na Dysku paczkę
+   `LCB_PL_Polski_26917622_v1.zip`, rozpakować `LimbusCompany_Data` do katalogu
+   gry i przetestować polską wersję (Prolog + Canto I–III + 36 historii
+   Identity + Notatki Dantego / Teatr); kolejne części zwrotki wrzucać do tego
+   samego folderu.
+2. **Agent:** integrować kolejne zwrotki tłumacza (`tools/import_zwrotki.py` z
+   `--allow-older-package`, gdy dotyczą plików dotkniętych aktualizacją) i
+   publikować kolejne wersje `LCB_PL_Polski_<build>_vN.zip`; gdy `OpenLethe`
+   opublikuje zaktualizowane `StaticData`, dograć je przez `tools/import_data.py`.
 
 ## Otwarte decyzje
 

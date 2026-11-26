@@ -1,0 +1,164 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Hola! Pytanie mam!",
+      "kr_sha256": "5718d5d8b29bb2d707a21e3db41add5f7b9c35dbfc121dcc0535eaaf9144fa46",
+      "en_sha256": "d09272f6a5d0df004550bc41aa7c101698d0dd207acacc631c86ff1664fcc24c"
+    },
+    "dataList[id=10].content": {
+      "pl": "W autobusie znów zapada cisza.",
+      "kr_sha256": "6fcd260b64f4a192b7f6e4ee969d263777ebe18ce41aee0d729663a679cc70d3",
+      "en_sha256": "2f6984ed77174ff41e361badc5357ee0c2eaaabf62bf5234047866bde1cd84fb"
+    },
+    "dataList[id=11].content": {
+      "pl": "Zaraz. W autobusie nie powinno być cicho. Gdzie warkot silnika?",
+      "kr_sha256": "977476420232dc2bdc133a4c16f7ea50c701291c0c894b3c9ac22b7c9bb7fcbf",
+      "en_sha256": "69a60a910f8d700df87b81e0151e890255c9cb906ffd48b1d0cc17e1a7e56599"
+    },
+    "dataList[id=12].content": {
+      "pl": "Charon, czemu nie przyspieszasz?",
+      "kr_sha256": "825618d91d6efd3c7e12008869d161169f19119c9c32291adc4f95439582a9fc",
+      "en_sha256": "97a0dd27ad63fe3fc51688a0ed4b18fcccc7226d1681c82f6af785a5ed229349"
+    },
+    "dataList[id=13].content": {
+      "pl": "Nie ma jedzenia. Mefi głodny.",
+      "kr_sha256": "c892d87dbec44c058fe074981efc48983156fd3d7521123b0673cd0261e84936",
+      "en_sha256": "16738fd33f004c8b96d0c437a637f51b3f95085fcd6e61a251b5af5b4b5d9401"
+    },
+    "dataList[id=14].content": {
+      "pl": "Świetnie. Przewietrzymy trochę atmosferę.",
+      "kr_sha256": "72dea4333bb462be1a20ec251981b709ed044278072ab3af36a630f739114cd2",
+      "en_sha256": "493568dde6096d75fb63dd6422da47ea8a388020bd1826e915904b25ad65615f"
+    },
+    "dataList[id=15].content": {
+      "pl": "Zajedziemy na stację benzynową?",
+      "kr_sha256": "26dd2c7db3630f09434a4f2e1d251b463fba98f59a253077b6c774053087143f",
+      "en_sha256": "333006a65abf5f808eadbae94c63964bf8077b372e000b8f1d8af38d19151e90"
+    },
+    "dataList[id=16].content": {
+      "pl": "Jakoś trudno mi sobie wyobrazić Vergiliusa z pistoletem dystrybutora w ręku.",
+      "kr_sha256": "c20f2c3e8f3aca858d5d66ad5723c0f0b6d6ccee0cde0e6115dc7b0333df8388",
+      "en_sha256": "3b27d9f2566658fcaea2d554e65acbe9381a5c0a6f8145dca1139be1e23eafbb"
+    },
+    "dataList[id=17].content": {
+      "pl": "Żeby pojazd jechał, potrzebne jest paliwo.",
+      "kr_sha256": "f969e3dbc3db01c5857f3fe1389a330e4ee816fd07fc7f29d48efbaea176a7d7",
+      "en_sha256": "0b9fd8f1f605ace1eeb10505bf1ac908be7eb4f12fdcb670de452c5fd5dff6de"
+    },
+    "dataList[id=18].content": {
+      "pl": "Charon, pomrugaj światłami. Jak reflektorami na scenie.",
+      "kr_sha256": "501379f6af7bdbfe9671332c4eda8a46a6c2291af5d9e82180244e1fc752d88e",
+      "en_sha256": "8f4036faa989f5b5ad33cd3778770d30055c87ce3f049bd8e125a2e72ec4af05"
+    },
+    "dataList[id=19].content": {
+      "pl": "Mhm. Pora tańca.",
+      "kr_sha256": "fe0200d94b47e03bebc6acf13e1c82086e8b5008a8900b7e827992be7ad1d5fa",
+      "en_sha256": "ad25d6cfd509c0917e3e47ab294296cd45d85e6401f4562ffc926ddce7c3e866"
+    },
+    "dataList[id=1].content": {
+      "pl": "Don Quixote nagle wyrzuciła rękę w górę.",
+      "kr_sha256": "5f43c58203db11674c0c47ba2f2bd804bf48e76fb9b99fc3af1ff81b4b29548f",
+      "en_sha256": "c484b3462b32284795521e67fe9a0db85966272d34f16a8ae6a67510db623f0a"
+    },
+    "dataList[id=20].content": {
+      "pl": "Zaraz, z włączonymi światłami to my się wręcz prosimy o napad.",
+      "kr_sha256": "caa8d11187eb96afd54ca369ef0eced8a600b7028c039cee9d0925afe06d27bf",
+      "en_sha256": "2ef148ee865b0c55a5d49745b51538e820f808f7e78f3401386381b852b4e196"
+    },
+    "dataList[id=21].content": {
+      "pl": "Taki jest zamiar.",
+      "kr_sha256": "8105e1999834851602e100ca34e4a10e8c46265ec5286d18d964a0f2ed66e2e8",
+      "en_sha256": "a4125857ebd1ef8ad3dbccd13a2bf0ed3febd76ca6760057a5bfdbc0b29e87ce"
+    },
+    "dataList[id=22].content": {
+      "pl": "…Słucham?",
+      "kr_sha256": "ea526e1a24a4a95f6709c73b3b4048e03b65f2cc9384603eef727b42d6147d57",
+      "en_sha256": "dc2399d6aee4470a6a317499b8b9f6823df218bc303a3cc4a212128d1b80cf02"
+    },
+    "dataList[id=23].content": {
+      "pl": "Ktoś na zewnątrz zaczął walić w stalowe poszycie autobusu.",
+      "kr_sha256": "97cfb76143c42a75fd6eff51cc4a38d8858c9255f66cd0ec3ce4d65ed8970686",
+      "en_sha256": "2aeac68aec2d9292440db5b81003d24a677059939b4d365ee97c7b39c1c117c4"
+    },
+    "dataList[id=24].content": {
+      "pl": "Hej! Zostawić wszystko i wyłazić! Macie 30 sekund! 10! 9!",
+      "kr_sha256": "ffb03a0a97ce1a7be8b911971fa824a9d07ddc4a104b028dadc766c0484d76ca",
+      "en_sha256": "cbba40e2b4c8f56dd78e720da0d17e8117571307f032a4c9565df68c8591f661"
+    },
+    "dataList[id=25].content": {
+      "pl": "Ej, a gdzie 20?",
+      "kr_sha256": "49737be607cae0a2253898c421ba6470decd3b631204dabc21e5d04b73e08d97",
+      "en_sha256": "1872d3710680b67092cb5be3c442987667388ec4c4ae95148c1741cd1eade94e"
+    },
+    "dataList[id=26].content": {
+      "pl": "Eee… eee… To przez te 20 sekund się pomódlcie!",
+      "kr_sha256": "c2e2eb81f52a81f65da49f74840374c76a1f7622d329caad7caea533e637fd07",
+      "en_sha256": "11d872564e5576c0f7468fa27b7b65e78e7321c64701ea2842eda5e786b10bbf"
+    },
+    "dataList[id=27].content": {
+      "pl": "Haa… Czemu wokół mnie same tępaki?",
+      "kr_sha256": "375a9c8f9974537cb248638ea0df88244cb03029720af4909fbeda27c1cd7e66",
+      "en_sha256": "403a3ea3d70b5ecbc2723037ea778a54ec3c0ace410f31e80f7a62198bbbd858"
+    },
+    "dataList[id=28].content": {
+      "pl": "…Coś ty powiedziała?",
+      "kr_sha256": "dd4a43335746a60e2c5575b320402314023cb57fe7b282bb4e84f11148e4da5c",
+      "en_sha256": "98d8509695b1444dd830f8107ed61007536d6049d885dd53b20546b270940b62"
+    },
+    "dataList[id=29].content": {
+      "pl": "Cóż za tchórzliwa napaść! Zaiste, złoczyńcy to niechybni!",
+      "kr_sha256": "393207b2f13662e127713830c66b1c9ec016ea28d3f61ece42e48e5aa60f3d53",
+      "en_sha256": "edcb4036b96d6356b95ff8cc193e82a44c3604c753eb34b0565bf7a44f33df8d"
+    },
+    "dataList[id=2].content": {
+      "pl": "Mów.",
+      "kr_sha256": "4dff4a3efe2bda48847f546e04c530aa150d91efb3a88224400549b061d7b6a8",
+      "en_sha256": "1ee5f1de794cda780e33839dd8c07cc613704c6d56aef023375a64179085dacd"
+    },
+    "dataList[id=30].content": {
+      "pl": "Dobrze, wszyscy wysiadać.",
+      "kr_sha256": "eb4d96bb6cf4246bcbe697dc1c6f2425d6197f47c8bcfcc0333d6964ca0acd65",
+      "en_sha256": "b179b39e5d23bd73ccf53cf78409e6266c5d6212d0e4ba441810865b44a5ad96"
+    },
+    "dataList[id=31].content": {
+      "pl": "I jeszcze jedno: tylko tyle, żeby nie pomarli. Jasne?",
+      "kr_sha256": "984f619589cd4f9267e6ac766905bb173adca8c4803141198aa329cc24524c95",
+      "en_sha256": "1fd8da95bec4434fddff47691b01d73a3a3e03cdf2109123ade480b682d8e071"
+    },
+    "dataList[id=3].content": {
+      "pl": "Zasadę pierwszą pojęłam! Cóż zatem głosi druga?",
+      "kr_sha256": "65e298030db5e503d101cc0024a3eac0f5a4877a6b3c0543a4434a7180ca4a5d",
+      "en_sha256": "f6f6d79151df5141ed04f2fe0f0e5156c20e2b7776500fa6546dde52f1a4106a"
+    },
+    "dataList[id=4].content": {
+      "pl": "No nie… Po co w ogóle wyrywasz się z takim pytaniem?",
+      "kr_sha256": "c2057e8d4d22c38e35bfeea026a02fc701ec713bc8e8f9ad7f278d87c06877dc",
+      "en_sha256": "3e606b0dbe7f0edb898462a71b8194f6d5974fc17b388625c236b240b0456ea9"
+    },
+    "dataList[id=5].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=6].content": {
+      "pl": "Vergilius spojrzał chłodno na Ryōshū. Ta, akurat zapalając kolejnego papierosa, odwzajemniła spojrzenie z nieodgadnioną miną.",
+      "kr_sha256": "b7222598b0ffee0731aa74231889f41834fd0d989f990f62652a2096b51f3ff4",
+      "en_sha256": "20a0fb3a4ad953e134450308f28e3f4059db01cbd84b1ce2ec23a372432f7b82"
+    },
+    "dataList[id=7].content": {
+      "pl": "Zasada druga…",
+      "kr_sha256": "ce3be5fcb62d5bab30e166cdaee48f103d3cb8e38be15bfef6e64759ff6f812f",
+      "en_sha256": "60176646afc5578b943770f300a1c36c129676e773bf9d7e01e92e4844c4cbde"
+    },
+    "dataList[id=8].content": {
+      "pl": "Nie rzucać petów na podłogę. Zostają ślady.",
+      "kr_sha256": "55ff5707c6ff7cc4cab8cbdbcab001df829d821e5d0ea4f89995d46af5e95750",
+      "en_sha256": "404519fc6ed5272ac90f64d756e532c754e8f76720efd185a73ab064979c7e5c"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Ha.",
+      "kr_sha256": "99d3df3e9d3dc42998572851bcffbb2a7a345117408e467fd42fea4c94a94e80",
+      "en_sha256": "5ac661d06e2f813b8a6eeaa812ceea664216fdf011b34ae4582692233679a7bd"
+    }
+  }
+}

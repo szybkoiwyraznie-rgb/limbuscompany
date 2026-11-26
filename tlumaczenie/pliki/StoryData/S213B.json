@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "A to co znowu za jedni?",
+      "kr_sha256": "ac35ab0f9fa789557c42310df290e23a7f739b1d14cd6f66d1e5332d46a63d0d",
+      "en_sha256": "167000b673993f8102ed17fdca460d15a25c6a168813a8e1e4252aee5201c2d5"
+    },
+    "dataList[id=1].content": {
+      "pl": "Wiecie wy w ogóle, gdzieście się wgramolili?",
+      "kr_sha256": "07937a98ffdb15f991751138b538e1adefe3b9f839332d1ed260bbcffa4fcf54",
+      "en_sha256": "914344f0ec7028006bf3bfd346cf60a3cee7feea415a19ba1390b01251e3d490"
+    },
+    "dataList[id=2].content": {
+      "pl": "Kto tu będzie fikał, temu ino gnaty akrobatycznie powykręcamy.",
+      "kr_sha256": "8e9b5ce7150e5db3f9e223c36c3f15832bacaa3d18fce329a35ba1a61ca0c9c3",
+      "en_sha256": "5e755750d184e453e712fe54104e50f5053ee23c7824dcb76f91b19e86978cea"
+    },
+    "dataList[id=3].content": {
+      "pl": "A potem potniemy wam palce na kosteczki i zrobimy z nich kamienie do madżonga.",
+      "kr_sha256": "d38b5a50a96d3a8d6d17c8979d620cdf03b1a29aa289cc719effd6de4ccf4df0",
+      "en_sha256": "ef1caeb834d94125f45a59372feca310a917a4f7018b4f09ff77f7a79b7ff5fd"
+    },
+    "dataList[id=4].content": {
+      "pl": "Uch… Ale serdeczne powitanie.",
+      "kr_sha256": "e837181b8023f7c06e108c8ee99cfb2462cbb13bfe581c43c36c661da0b06ab9",
+      "en_sha256": "ded220001b175c2360be1103df1eb223f9da94c67b6a82962ad2070fe50c5543"
+    },
+    "dataList[id=5].content": {
+      "pl": "Hm, nie jestem z tych, co odmawiają, jak ktoś tak wita. Ej! Lać ich!",
+      "kr_sha256": "75b0785c6852e29f984d2140002262a845d79acef6d70766d0fb17b81d424905",
+      "en_sha256": "65b03297a5ba55e91b042ad5925977ca09cb801bb4f5ee76625ecd0a737579fb"
+    }
+  }
+}

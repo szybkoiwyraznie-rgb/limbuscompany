@@ -1,0 +1,54 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Dziecko zawsze wybuchało gromkim śmiechem i jak nikt lubiło głupie żarty, ale nie teraz.",
+      "kr_sha256": "8b782d751134b8c5aec0be805bcb22e0f78574e80ef3df986ddb182373161e4f",
+      "en_sha256": "ad02d96384ba7dac345fe6f164445a7fde895b8a215bb782fc446456309a584e"
+    },
+    "dataList[id=1].content": {
+      "pl": "Prawdę mówiąc, wcale nie taka była jego natura.",
+      "kr_sha256": "13af0303af568a76f7822c7ee24fffab62c262f46054946e9ea5c4ec48ae8cd6",
+      "en_sha256": "2e8f79bdfc63c842e0280a9cd8a5200b1fc9f0456dff975acc43875964c8a902"
+    },
+    "dataList[id=2].content": {
+      "pl": "Może uśmiechy dla innych i zjednywanie sobie ludzi były tylko sposobem na życie, który dziecko obrało, żeby móc zabijać.",
+      "kr_sha256": "bda781cbcefaf61c461d6d9712ec4e6120fa04ead703b23d59b100927429c1e2",
+      "en_sha256": "89e700d28e2e8ce009e5307a5fc36727ac87045f31a583760fa65e3343bfd0fe"
+    },
+    "dataList[id=3].content": {
+      "pl": "Miecz dziecka jest szybki. W ułamku chwili, której nikt nie dostrzega, ostrze już przecina wroga na pół.",
+      "kr_sha256": "a5de022293e028944606af932298b9beeeb02afb7756b5d866f5f8e7c8dce65a",
+      "en_sha256": "7cb6e64f698615f8c6c3573ebf18ac890c70db3530843bae663a149cfe42c45f"
+    },
+    "dataList[id=4].content": {
+      "pl": "Twarz dziecka nie wyraża przy tym niczego.",
+      "kr_sha256": "d783b6502b0040214b6415ab756f8782861b75f337b9212ed61d90a2b4a6c229",
+      "en_sha256": "0641815dfdd5a9db5d0b7a138a3d53447806f074d2e478ce627100e74063e03b"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ani smutku, ani radości, ani uśmiechu, ani łez.",
+      "kr_sha256": "d4e34aa51a01d0df3022d0145232c3bdab2f84dca442ca6224e576a5285d1030",
+      "en_sha256": "d3b4e26503e2404211d0cffc1aef77cf49954fbb4f1037225f9951b2b3f4382a"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ale wystarczy, że zrobi kilka kroków i dołączy do towarzyszy, a jego twarz znów się odmieni.",
+      "kr_sha256": "511d6227364ee474cf5539c3463fc7ff508dbb907f494852aa3009c18db1f8c7",
+      "en_sha256": "a8b63d6652d8812f39b62e60b194cf749c60e87d8ab5ea0c5f7f983ca56424ab"
+    },
+    "dataList[id=7].content": {
+      "pl": "Pojawi się szelmowski uśmiech i żarciki rzucane mimochodem.",
+      "kr_sha256": "6b4efb2f867b9c070e8326855a9f24467b35e4fc3c02d2998bdc59631b19f796",
+      "en_sha256": "52787338f58cb63e24e8bc748a22b77208e5e32aa6330215fb5effaab28bcb8a"
+    },
+    "dataList[id=8].content": {
+      "pl": "Pewnie nikt nie wie,",
+      "kr_sha256": "6329eaf17cefd98a38512835a4ff679d19d2e1cd21c04a10934d79e0e7d0c607",
+      "en_sha256": "2b7e53354c35a814dba8c80d952d53f6600568dd896e33dc7bb264fba7c40170"
+    },
+    "dataList[id=9].content": {
+      "pl": "jak to dziecko wygląda, kiedy wykonuje zadania w pojedynkę.",
+      "kr_sha256": "676d0e8702481ecf2969cd273f8f97f6474a3b95b5ce095a5029ded1219ca1f4",
+      "en_sha256": "70c395c450a709bf579bc091441021c0146a4757b034a9a4daea82b920fbea7d"
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Kiedy zamieszanie wreszcie ucichło, autobus ruszył w drogę.",
+      "kr_sha256": "698b047dbb9388744f6ddf988c8e14e13f269f46161fbd86f4ce079db03968bc",
+      "en_sha256": "005a22bed445626563b4b9ebf6f8416fefe873bbca0c97981d02c9812f36729f"
+    },
+    "dataList[id=10].content": {
+      "pl": "Zupełnie jakby coś go ścigało…",
+      "kr_sha256": "2209cba4dd6ebd181cd4829a9d1ec5da170f24add34fe06b3b953d6f3ddc12b8",
+      "en_sha256": "9d0cc5ffc91a68cdc5594605d37bc47e7e19304f390b95bbf4f316d331cef65b"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ale zgodnie z tym, co nam przekazano, filię zajmuje już trzecia strona. Dlatego poprosiłem Dział Sprzątania o dodatkowy zwiad.",
+      "kr_sha256": "dee521fbd0321212fbff31db165f33de4407c4fafa67ce0971596484abb96037",
+      "en_sha256": "9822243723acd95b2cbc5181ae38e05f3fe33a8f297b81772e5366ed01b89e82"
+    },
+    "dataList[id=12].content": {
+      "pl": "Wysłano Sekcję Obserwacji Wstępnej 3 z zespołu Before. Pan Effie i pani Saude zapewne też z nimi są.",
+      "kr_sha256": "fa11038d2e057b693018d7a4b4f497680c884c79a71a988f730ee57c9919d4f6",
+      "en_sha256": "f9c71625a02c61fdcd70e44290f4f63bd38f833a596f0b04db3478f26fa7ae6c"
+    },
+    "dataList[id=13].content": {
+      "pl": "Kiedy rozeznają się w sytuacji, pierwsi złożą nam raport.",
+      "kr_sha256": "494019b3ed768404db76cf2599ea2648c0323cd3efcdcc14ee8eb6674fac4057",
+      "en_sha256": "f19809ecffafc89287669a4c17dbf45af986ad0cb62c8134745e3002187083ae"
+    },
+    "dataList[id=14].content": {
+      "pl": "Tymczasem autobus wjechał leśną drogą, gdzie zrobiło się trochę spokojniej, do bram miasteczka.",
+      "kr_sha256": "8c753088393fffcb394d9780b467cf930214ddcdb10fd884b7e391bb56fb3702",
+      "en_sha256": "25b5004fb8957d8419a0c762a499184ecb155da5ad25ce54daaf2cbbe44e96ea"
+    },
+    "dataList[id=15].content": {
+      "pl": "Pojawiły się drzewa o głębokiej zieleni, jakich nie uświadczy się w Zaułkach, i na duszę spłynął jakiś spokój, ale tylko na chwilę,",
+      "kr_sha256": "e595a20804ad820994313e345a9f31f47d146ff4ac332901401788c9dc85aaed",
+      "en_sha256": "670da1c955b35d57fa5a2468afdc6431166ef4f27a7ae37cde8f9551cfa36338"
+    },
+    "dataList[id=16].content": {
+      "pl": "bo w oddali zobaczyłem złowieszczo kłębiący się dym.",
+      "kr_sha256": "0f265ffbe350eb0b295ebec7a2ea2c74efd7f4b1a44731d7ccdc660228f4f688",
+      "en_sha256": "a4b8b7479b9135c328792523a11106f3857740d176a5f26d6beff1d87892b15b"
+    },
+    "dataList[id=17].content": {
+      "pl": "Czemu… tam… dym…",
+      "kr_sha256": "bc21c8fad1a92840eebe5595a0d270f5a9dc7b444474c19219600e9b5ea6c997",
+      "en_sha256": "747fa56e1b4a9aa06aa6134e4d774a48af6181d1e669a61397ba50dd9407bfc6"
+    },
+    "dataList[id=18].content": {
+      "pl": "Sinclair…?",
+      "kr_sha256": "84abd9ffeec218bc96fe4188043b907658a57d52995c413d24e29c0ea76bf6aa",
+      "en_sha256": "a9b03034068d13437dd43f6a8b0d1921d1238e0fa7e0cf863516e187f74dc597"
+    },
+    "dataList[id=19].content": {
+      "pl": "Charon, skręcaj.",
+      "kr_sha256": "51a80fab875e7a8e1b1aae293b4eecbb72764446f850c7943772e3b375f113f6",
+      "en_sha256": "97b6b79d1c6aba9495891486b8462381e4f263a6cf1b3dc23a3937761dca7eb8"
+    },
+    "dataList[id=1].content": {
+      "pl": "Miny pasażerów wyglądających przez okna robiły się coraz dziwniejsze.",
+      "kr_sha256": "fcf52c799e735ad36e464080176a6b41adbcb339472618d32e0df6ab862095da",
+      "en_sha256": "8b71956b2576969b9f9f035b76b2798b3747b07c1d96fdadabc031a3e667f659"
+    },
+    "dataList[id=20].content": {
+      "pl": "Manewr wymijający. Łup-łup.",
+      "kr_sha256": "b1fee10b80d446b1c0e703c0e1022d47568ccf359914344868bdc2cca01ce44f",
+      "en_sha256": "48ba0f553f3b7dfbff8b4f1b44bf377b828fe26a8b336748be8da8d24e8d7458"
+    },
+    "dataList[id=21].content": {
+      "pl": "Autobus nagle gwałtownie skręcił w lewo, a chwilę później z ogromnym hukiem wbił się w tylną szybę olbrzymi gwóźdź.",
+      "kr_sha256": "cad2918e8764814e9ccca18d960a71c34d8feece29e9fbf5daf10767b5a90fca",
+      "en_sha256": "68e3cc145f579629dbfef4663fe61267e9d250ed6e339bed963e4eaadd5f36e5"
+    },
+    "dataList[id=22].content": {
+      "pl": "Co… Który to gnój?! Mało brakowało, a bym zdechł!",
+      "kr_sha256": "0562d2a33356641e5aae8bc5fcd9d24c0158f10a99e23b0f560a49dae72e5819",
+      "en_sha256": "39e97e1b749b2971e8216c6854080a8864b8ca9e95f4f6ec0f42053e15c6f7b1"
+    },
+    "dataList[id=23].content": {
+      "pl": "Hm… Takiego przyspieszenia nie testowałam, ale wygląda na to, że szyby trzeba będzie trochę wzmocnić.",
+      "kr_sha256": "1880131bc80026d68ceb953de5e6b6101715316d5366aaa18cfd63854e122541",
+      "en_sha256": "a5348fa576f8df2e6b5830cf9fae7c21773d7521c52fdec69bcba0cdac5b84c2"
+    },
+    "dataList[id=24].content": {
+      "pl": "Celowali dokładnie w nas. To pewnie ci, o których mówił zespół Before… ludzie z N Corp.",
+      "kr_sha256": "f501650f454e1cc6457b16100672c742de8aec5e374e26f826c655456bfdfe14",
+      "en_sha256": "c65d0b582a8ce793e0a9a4bb7f08d838968ce428bd2ae0f10deaf268f1d48fce"
+    },
+    "dataList[id=25].content": {
+      "pl": "Werg, Mefi jest ranny. Charon smutna.",
+      "kr_sha256": "f45de8f17e2807531bd85f6a64c1a3fbfd13922ce6de6e5911ae1473610783aa",
+      "en_sha256": "a5e6bc0661c3fde1d8dca604f101c33cf02737f5db55e70ad87f9a66fa07b875"
+    },
+    "dataList[id=26].content": {
+      "pl": "Jeśli nie staniemy, będą kontynuować.",
+      "kr_sha256": "92026a9542cc27dca3fcfe54592c7cfaaa32a73c3b6e44890611df8cf9467b2a",
+      "en_sha256": "83be5f296d0130cd9246d3c4c85466ee1972e38d0c856018088f07acdd7285b3"
+    },
+    "dataList[id=27].content": {
+      "pl": "Wszyscy wysiadać.",
+      "kr_sha256": "d2b350bc6e615626c0f8a2fec2faa73dcafdc948bf3f7624c964cf666277d376",
+      "en_sha256": "cdb3dc9c36f29d39295126b4569c42876545d8063341f15c132e0e3735bbbfea"
+    },
+    "dataList[id=28].content": {
+      "pl": "Kiedy wysiedliśmy, drogę zastąpili nam ludzie od stóp do głów zakuci w pancerze, niegdyś zapewne śnieżnobiałe, a teraz wyblakłe.",
+      "kr_sha256": "6f63d47e1f82cd652465894bb1b7f9c922cae604edc248b610c52cd9574966ce",
+      "en_sha256": "56d79a2983a85eee88805a4529fa07b18995104ecdff8a3a20dfebb4a22c0726"
+    },
+    "dataList[id=29].content": {
+      "pl": "Stać. Tą drogą nie przejedziecie.",
+      "kr_sha256": "e7f74bccf99303d53953b44b17c373a6e38509e7b42465169561718041e78419",
+      "en_sha256": "9af9fb28ee083c3acc94169e27a72e0106edfaaf0e05ff6b3cfb3a32c5c15d9f"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ci ludzie wyglądają, jakby nie mieli w życiu żadnych zmartwień…",
+      "kr_sha256": "51625b1cd9a90088a1cac32f2232ac418ed5bf3745d994e8d9f122f5489ac42d",
+      "en_sha256": "4d21a920a4b6b6d1d402dd573985bfa17f23488f351cd86679c7274214e1d19b"
+    },
+    "dataList[id=30].content": {
+      "pl": "Nie można było po prostu powiedzieć, tylko od razu trzeba rozwalać szybę? No żesz…",
+      "kr_sha256": "bb4c24c34e9df1ecf78a582ba6ab792f28fe3e0dd4bb55aa8927102866cb8f0e",
+      "en_sha256": "6cff8e01946a55c51117c9aaa34518501ed0d253b8fe5f476b1a6a0dde4004cc"
+    },
+    "dataList[id=31].content": {
+      "pl": "Atakujecie bez wypowiedzenia wojny. Nieuprzejme. Wypadałoby chociaż podać, skąd jesteście.",
+      "kr_sha256": "247c5a04584569d9d0ae726dc894448767c876eff829eb7889347a98967977a0",
+      "en_sha256": "0524f8faf5d9e9c7594a80d91858a8131e647a41da31e223b359efee0de2813a"
+    },
+    "dataList[id=32].content": {
+      "pl": "Jesteśmy Inkwizytorami. Gwoździem, który przebija bezbożnych, i młotem, który biciem poskramia grzech.",
+      "kr_sha256": "d1c1d6217cc86be2654b0ffd2788a17ad98473ca9f161c7c2099924ba96c8198",
+      "en_sha256": "542e6027d73b9f08c07dc9d3c3d74e0a3478cdd4d2671c209e6f296830c0444e"
+    },
+    "dataList[id=33].content": {
+      "pl": "N Corp… Ależ zawile mówicie, że pracujecie dla Nagel und Hammer.",
+      "kr_sha256": "5be44328db8f29bc11f827a27263944019edc20265c623e5d5599dafb16a780d",
+      "en_sha256": "6eed5791a2f82bebf9d8e7f0382cad06911381b60c39a20f2d3265151b5cf237"
+    },
+    "dataList[id=34].content": {
+      "pl": "…Zwanego też Gwoździem i Młotem.",
+      "kr_sha256": "3a2d280c47874815356c4db4ac9d4b2d7a4b8ee762911f2efdde51a48b1c7e49",
+      "en_sha256": "e6d81063ff8fa4d76daf1d695f2460dbb11d70b15eb50e4c0a471f563a596afe"
+    },
+    "dataList[id=35].content": {
+      "pl": "Trwa oczyszczanie wyznawców herezji, dlatego dalej przejść nie możecie.",
+      "kr_sha256": "7c1fd1a145fad9922e67f9435974d3a139a9040f1b2d0706e1cf8b781755cc8a",
+      "en_sha256": "571b3567c25409b43a5e2cf36084786da8713c9b596b28dc19cd49efed2df32e"
+    },
+    "dataList[id=36].content": {
+      "pl": "Herezji? Słuchajcie, my chcemy tylko szybko tędy przejechać. No, jak to się…",
+      "kr_sha256": "298c903887b0b366aa8802bed480ba4759725134a801351b7480400c4f66dd93",
+      "en_sha256": "e5e1a11b0be5ba304c131358c35a7d0f257bad18cf712166dbafb58ef122cbaf"
+    },
+    "dataList[id=37].content": {
+      "pl": "Wycieczka…! To jest autobus wycieczkowy.",
+      "kr_sha256": "6f1b923642b80732177c1d63ed6f29b6ee8181108b7e0a1cf47f918316613c4f",
+      "en_sha256": "8f18542acc8bf8687db296cd07051f3d04e703ee55ea6557ee641198c0dd836e"
+    },
+    "dataList[id=38].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "67edbf55a8ee9ed08fa013c521ca911941e46de6461565aeb03d4d8895d469ae"
+    },
+    "dataList[id=39].content": {
+      "pl": "Grzesznicy, w mgnieniu oka zmienieni w turystów, wymienili w milczeniu spojrzenia.",
+      "kr_sha256": "64f8d7461de0d31709b77a3cee8fac143cd928654a6bcfc6ce61b043c91ccd3c",
+      "en_sha256": "71409d4d36e3e3dc1dabe6939ff8bb4d74bc18235fc9ad177c1893d21b123809"
+    },
+    "dataList[id=3].content": {
+      "pl": "<Zupełnie nie tak jak na drogach, którymi jechaliśmy do tej pory.>",
+      "kr_sha256": "4bc8fac8f04ce56da6bee1c2e233ab34b349fc4fbf618072a635919bccd1462b",
+      "en_sha256": "df85d8ca7d2def80a80a65943d6432e4339fdb46fb719628ecbb25ab2ab6299f"
+    },
+    "dataList[id=40].content": {
+      "pl": "Gregor, pewnie po to, by nie powtórzyła się wcześniejsza katastrofa, łagodnym tonem próbował jakoś wybrnąć z sytuacji (choć niemal wszystko odbijało się od nich jak groch od ściany).",
+      "kr_sha256": "7f4b4222e9f759cfda97a71039740332216b844ce8d8f24b03adcf86ff2bd8b1",
+      "en_sha256": "a4ff833a76fc4fbf39251187894364984b162b81187bd73874d2b8cd1a48d42b"
+    },
+    "dataList[id=41].content": {
+      "pl": "Nie zapomniał nawet przywołać na twarz w miarę życzliwego uśmiechu, żeby wyglądać na niegroźnego podróżnika.",
+      "kr_sha256": "a2b79376499f3a6c38dd6889405c23c1bf2d03ddd406c3c7017f27c6ca146d19",
+      "en_sha256": "c86e48baab6fb8a471aa2c5a06a78145f42095b2079714ed37c42ce6d0a8cfb5"
+    },
+    "dataList[id=42].content": {
+      "pl": "Greg, czuję to już od tamtej kopalni… Ty chyba naprawdę masz ambicje kabaretowe, co…?",
+      "kr_sha256": "37da85b4403283580e9b384dbd0a2f7f333449d269143fe46e30f839b3544adb",
+      "en_sha256": "3af3d378b7bf77485ef164a6c2e8f0b19295415307fbfd6df74267aa7bc4ed40"
+    },
+    "dataList[id=43].content": {
+      "pl": "Mówię ci, że nie…",
+      "kr_sha256": "732dcf4eb9ed7218d9a0099fd9ad954455ca72d92ebbff142e81beda2d694fec",
+      "en_sha256": "8a121e089eebba73a8d436c6c979b7c628e9f97a3b7445322c30eae4a26aaba7"
+    },
+    "dataList[id=44].content": {
+      "pl": "Drżące kąciki jego ust wyglądały nad wyraz żałośnie.",
+      "kr_sha256": "8e73a4f4d9666ffd7ebe8a7f423edeeda01d8956dbbcf97ea6b5b3007fd4894a",
+      "en_sha256": "aa6da148537bede76a8628f41c4dd4bf91938c073a962f6f67cc9b164aee56a4"
+    },
+    "dataList[id=45].content": {
+      "pl": "Zatem słuszną rzeczą będzie, byście dowiedli swej czystości.",
+      "kr_sha256": "2a99d0990c6e63aed0332778e697eebbc68830b359e84954445052fd11328137",
+      "en_sha256": "54645605d976783596c949deafde0789b4ad6af3ba0faf507e48eb318f280dbd"
+    },
+    "dataList[id=46].content": {
+      "pl": "Dobra. Powiedzcie, jak, to nie ma sprawy.",
+      "kr_sha256": "cfc2732fb259ba28010dd297a68aeb95e93bf2d2fa0998246ae57f9561e11b93",
+      "en_sha256": "63be24cca0fe61408c627d12709d1230ce1a9b8cb789d6a71813143351a90c88"
+    },
+    "dataList[id=47].content": {
+      "pl": "Nagle ten człowiek wskazał na mnie i rzekł:",
+      "kr_sha256": "13cc8b15a6dfb167bb5a06964d2773a5539b109f67cede1bb0140d48894ad50c",
+      "en_sha256": "59300d15085124c5e182ef84082eb4388d8fb07f59dade4cd4b1ead7bc529a6e"
+    },
+    "dataList[id=48].content": {
+      "pl": "Zetnijcie głowę temu bezbożnemu podróżnemu.",
+      "kr_sha256": "f3b83fce8ebb87496586c2f7909e15b192539d775da68b8799a84a17132133fd",
+      "en_sha256": "a2a98cf32c6e38b86e6308ba79c038bafce3b63b964828a9ed66ad33ff24e8c2"
+    },
+    "dataList[id=49].content": {
+      "pl": "<J… ja?!>",
+      "kr_sha256": "5623dd6f843b802d101c5ff0286130826af5170767f28da555ea447b622a1000",
+      "en_sha256": "dbd3d1fb001067b7cadd626080bd0ee94915ce9a1283ea3d7dd52340b83f1ce1"
+    },
+    "dataList[id=4].content": {
+      "pl": "Aha, no tak. Szef pewnie pierwszy raz jedzie przez sam środek Gniazda.",
+      "kr_sha256": "598abb9d9d78dfb649fc9a49574b704296baa18ec8f60b188be13c09d6cd0607",
+      "en_sha256": "3eeda9cb5204f80b8ab1381c0c33aa7c6226530d2ab8d40f36070816d19468f7"
+    },
+    "dataList[id=50].content": {
+      "pl": "I klęknijcie przed naszym młotem, składając ją w ofierze.",
+      "kr_sha256": "4e4cc7d02715435e3c779c0a0755a561468e14cc1f9b54e5aedb07be184b736d",
+      "en_sha256": "1cdef70847606a50a738c4565f053b8af74098c121d4f7fd3fbab0970431bd12"
+    },
+    "dataList[id=51].content": {
+      "pl": "Wtedy okaże się, żeście nieskalani, a podróż wasza nie dozna uszczerbku.",
+      "kr_sha256": "71a0f71fb81836834b5cca3bd1d077d1406aae0f20ff2ccd1af6d996b2de27f7",
+      "en_sha256": "5464bc5679122bc2e9b4cfb69ad3bcd0782de0fd6969bc1fb64be7ad86ee9fa3"
+    },
+    "dataList[id=52].content": {
+      "pl": "Rzecz jasna, ten nieczysty pojazd także musicie zostawić.",
+      "kr_sha256": "1327b4c0fc1baf8d41c35fa9a4f9dfacef240eb7b8f798a570010754c81104fe",
+      "en_sha256": "8e8462eb14239382de0c2316e5c9a56173ebcacedfc9d83eba1e1816e7c5a9e0"
+    },
+    "dataList[id=53].content": {
+      "pl": "Słucham, słucham i co to za brednie? Ej, nawet jak wyglądamy na frajerów, to myślicie, że to łykniemy?",
+      "kr_sha256": "5bc7292649465d155ea89db32b419c87d3da4f0aea49ada342f1b5961964eac5",
+      "en_sha256": "bcbce135241a5a1920e31b41c85fde7a174fab98742a67087c0a12cfce0e3aad"
+    },
+    "dataList[id=54].content": {
+      "pl": "Heathcliff wybuchnął i pierwszy przestał udawać niegroźnego turystę.",
+      "kr_sha256": "2a86c36b97b9c75781372e5455b972fcdcf70efbc0271ed3d08dc0216472167e",
+      "en_sha256": "b773c7ed2b8db8610c42b9800a137b2032bc1fed7c56d272e55024286dc119b3"
+    },
+    "dataList[id=55].content": {
+      "pl": "<Heathcliff… aż tak się za mną…>",
+      "kr_sha256": "6b60f330a386be74711ebe438570ea0af0f31e9499d446ac1cd60161f5bb2322",
+      "en_sha256": "1ed5d80766fffbc6ea7e8c416ae4126fc2c8936c3be002c6a68c0836927e9e75"
+    },
+    "dataList[id=56].content": {
+      "pl": "Żałosne zera, tsk. Kto tu mi każe klękać?",
+      "kr_sha256": "34b1947d77882a114bb313e8caac5984ead6056fa95a9fbbb4fc7c9ad498d2ab",
+      "en_sha256": "7a0ef0ddcdee24a5b7db179fa7a83f144e6f31426b5266109ec0a89fdd652822"
+    },
+    "dataList[id=57].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "67edbf55a8ee9ed08fa013c521ca911941e46de6461565aeb03d4d8895d469ae"
+    },
+    "dataList[id=58].content": {
+      "pl": "Wtedy ten, który zwał siebie Inkwizytorem, skinął głową.",
+      "kr_sha256": "57854c235b0469c81c9773f5bb9bd9d84b1db935d9c21c813774ddaa644f83c1",
+      "en_sha256": "0f8d12c9891f830147fde8b9025d2ec4f27cf780725fc2bfa32db1ac081fec90"
+    },
+    "dataList[id=59].content": {
+      "pl": "Rozumiem. Zatem jesteście heretykami.",
+      "kr_sha256": "75a408ea6d52085e2a156cbc506e01fc4b06ea54949d5d8641f2d2dd01b2d549",
+      "en_sha256": "6f34ef838f36fe61db068a797d1e03936c5195757b7ac56273c5a9164a350960"
+    },
+    "dataList[id=5].content": {
+      "pl": "Między Gniazdami a Zaułkami jest przepaść. A do tego każde Gniazdo ma własną kulturę i historię.",
+      "kr_sha256": "1de83e7fb530c34fb2655913058f42eb0662daf6f42939a2efb2ce949265ac3a",
+      "en_sha256": "da9b52f21b7254bdfada06d752885e05459742b11afa13dcb780527061262c77"
+    },
+    "dataList[id=60].content": {
+      "pl": "Na te słowa Inkwizytorzy jak jeden mąż zajęli pozycje, gotowi do ataku.",
+      "kr_sha256": "82cce8176788024c911dac6aba64423a71a6efdd3214d2ddbd7a28941fc6b471",
+      "en_sha256": "2d694d4b5de27a3ff8b38478f216f8d5c64afeea4240af0858b7a6f371bbd114"
+    },
+    "dataList[id=6].content": {
+      "pl": "Uwaga, wszyscy.",
+      "kr_sha256": "de67db26acc10da760f55022a7939bf9a9e04a0df8fb0ee7691ebdd06395ab8b",
+      "en_sha256": "5e12527b4ef38fb916571b3ed249f476aa97106a8e521dfe82d5e63a7e66961c"
+    },
+    "dataList[id=7].content": {
+      "pl": "Naszym celem jest miasteczko Calw w Gnieździe K Corp. Według informacji gdzieś tam znajduje się przejście prowadzące do filii Lobotomy.",
+      "kr_sha256": "28de1d569814f554ea892b25e68403075332e09362d974cdd026b471b2bb3adb",
+      "en_sha256": "5b25df3c16258cb1660e6abbfb14350a2efa6655ecffe52f4d66e071aebd715e"
+    },
+    "dataList[id=8].content": {
+      "pl": "…!",
+      "kr_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd",
+      "en_sha256": "6e5a9ede8578cae74b171558ddf42fe374d14f82c058c8db044178247836c2dd"
+    },
+    "dataList[id=9].content": {
+      "pl": "Na dźwięk nazwy Calw ledwo uspokojony Sinclair znów zaczął drżeć na całym ciele.",
+      "kr_sha256": "0a8e6d8b78097956b13e25d6de4539044f3cbe4945e84f754de8ebef65910fd9",
+      "en_sha256": "7f2ce6f1c41c8fdfa2a3a5a71494e69e62299f30d28bf2e3173db13965d8d5ef"
+    }
+  }
+}

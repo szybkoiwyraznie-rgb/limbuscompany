@@ -1,0 +1,44 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Gregor zapala papierosa i wypuszcza dym dłużej niż kiedykolwiek.",
+      "kr_sha256": "b888e1b4f1c3e91ddba3f469a669364e4904600eed6b2ac6a3689357d2817c0f",
+      "en_sha256": "1a578b9b17bdcf3434b7bf819e000927cc5a73fae1763bdd30b7d6571353e862"
+    },
+    "dataList[id=1].content": {
+      "pl": "Nawet w jakiejś firmie ochroniarskiej mieliby lepiej niż tak…",
+      "kr_sha256": "901d52041d68811ec601e3f95ef49a5f2257a49f1ce7e61adb76f71a4e62a438",
+      "en_sha256": "67f7348a0867b93f1b6efb5d9206a3b4d28a44af1937202ff4b0de44c3fbdcdf"
+    },
+    "dataList[id=2].content": {
+      "pl": "Całe życie byli żołnierzami. Żeby zacząć od nowa w innym zawodzie, musieliby się przystosować i zmienić zbyt wiele.",
+      "kr_sha256": "86092af0e7343dace7db5da46bd243783a7743bebaef5a9254ba5c826a4919e7",
+      "en_sha256": "5531d203d91664d8cd70f4fecb453220e4da7f394d502e3e4b1c3a27ef0054b2"
+    },
+    "dataList[id=3].content": {
+      "pl": "A poza tym “z upadłego Skrzydła” to piętno nie do zmycia. Jak ktoś cię przyjmie, to trzeba mu buty lizać…",
+      "kr_sha256": "6de42a49b0297a84343640856049a43ead0b9e025957bbe4588c40c35e1f3557",
+      "en_sha256": "9c556e13b4ee8f4a21c11bf03882993b968ebe4697008d08cc7b140896308c26"
+    },
+    "dataList[id=4].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ach… przepraszam. Nie pomyślałem.",
+      "kr_sha256": "1b30a6d6cfd197bb5613afbd22ba55efca11514196c728a6c58fa6cfdf30e5a2",
+      "en_sha256": "110a8f8d3b8cf88031a4afd6bdf1db412eb0aeb6117cf2f92a218d082a6fa4d0"
+    },
+    "dataList[id=6].content": {
+      "pl": "Nic nie szkodzi. W G Corp. i w L Corp. sytuacja była pewnie podobna.",
+      "kr_sha256": "6d9b6a0796fe011c0a98b391e7c8057a64b678cf842d172a33f8ac678d880a24",
+      "en_sha256": "81c50cf7d8c580c8b2925e69b91dee5cb73131fdf8f3f178b0aef4039a7859eb"
+    },
+    "dataList[id=7].content": {
+      "pl": "…Złamanie Skrzydła to przecież wielki wstrząs.",
+      "kr_sha256": "4bbb79fe45a1c30b6acd22fbfec4835ea14f00b5bfe73bb6bbf7a194a7f4e51e",
+      "en_sha256": "7bc3328a9b0feb95e6393025ce313fbcd197b9938fe4b900b7980a87a901306b"
+    }
+  }
+}

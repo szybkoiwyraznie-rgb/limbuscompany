@@ -1,0 +1,39 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Jak przystało na podwładnych Szkarłatnego Spojrzenia… państwo też nie są w ciemię bici.",
+      "kr_sha256": "6272157307db853ce924d9cede2366b40add2657c4adbe7335ab5820527a745e",
+      "en_sha256": "74790c7a7fe32e0341785002fecb10b9733ac25b6865e8eb84e95ede868f2291"
+    },
+    "dataList[id=1].content": {
+      "pl": "…Podwładnych?",
+      "kr_sha256": "f1c9997e9494b51a2d63e38113c2595cc0feb5388920f13df8aa3061c2f92bf9",
+      "en_sha256": "0ab2ce8d737aeff966d0816e2000365f69462808390f90d4006d4e56f06e17d9"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ojej, nasz Hopkins się przejęzyczył… Przeproszę za niego~ He, he.",
+      "kr_sha256": "0d1d55f718cd8c408739e82f182dee695a1cf2372cadb2093488bdcca27028e6",
+      "en_sha256": "4b33682f12b2ba813081192b5929d2067640dd6438101ab39b43695d686c9dae"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ale czemu tak się guzdrzesz, Hopkins? Hemoroidy znowu dokuczają?",
+      "kr_sha256": "54f31e77fe7cfb51117a7ce9fe5750424fa089226de20150f0da50e374300476",
+      "en_sha256": "0ae2efd0b769c4abf2c85708a0e250006a520f0bfe9dde9e0132dfa3b837a11c"
+    },
+    "dataList[id=4].content": {
+      "pl": "C-co ty wygadujesz? Kiedy niby ja…",
+      "kr_sha256": "54a4594e64bdd4abe83f562222e57719e303b537e988c96426e9145186d4c995",
+      "en_sha256": "748ea8f4f77046163dc8ded8672f40bcc20d2e47ce56f75cc04490b9b977eb0a"
+    },
+    "dataList[id=5].content": {
+      "pl": "Hopkins, który przez chwilę grzebał się w miejscu, wstał.",
+      "kr_sha256": "436a448b8d1f03ac901e3dcfde13fee39ea450d2254bddffaa994b08da98d395",
+      "en_sha256": "9724b265329ee87687912cf0e82aa12125d8dc87ad18061c0492fa1579878caa"
+    },
+    "dataList[id=6].content": {
+      "pl": "Kieszenie miał chyba wypchane, ale postanowiłem nie dawać po sobie poznać, że to widzę.",
+      "kr_sha256": "a54738c5398aec5a23c0d898719492fe1209d0e8b1124c1de17808f657d29187",
+      "en_sha256": "55965611a6b3d2d7ca9fa71c5aed047834c1feb2aee2d4f9158a8c97e4cecdb4"
+    }
+  }
+}

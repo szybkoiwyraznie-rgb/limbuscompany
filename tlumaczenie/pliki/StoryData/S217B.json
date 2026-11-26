@@ -1,0 +1,289 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "No i ostatnia partia. Wszyscy pilnują, ile mają żetonów przed sobą?",
+      "kr_sha256": "8ad17010650789eaca53429193f5f3f9138526c14dffd0603ebe60446a1c3175",
+      "en_sha256": "e5cdf5b29eb23641b0144a6daff150f21783beb6cdccebaacae311581833540f"
+    },
+    "dataList[id=10].content": {
+      "pl": "Chciałaś z nią tu wszystko postawić i sama połknąć Złotą Gałąź, no nie?",
+      "kr_sha256": "271fed26378b2c3edb0319444eb23b9b6af8b5002bdf39d963c28f95c1b3380c",
+      "en_sha256": "326e2a011a654ce20fd451e6756108fcb7f5883d468f9b6645ea91e57aa51dd7"
+    },
+    "dataList[id=11].content": {
+      "pl": "No, patrzajta wszyscy! O, tu, pod nadgarstkiem. To nie naklejka?",
+      "kr_sha256": "50c813908e832ee7c6cd06296a14616320eabafa823a064f23678fdd94e60d35",
+      "en_sha256": "9004dc3ea2555ea925e0a0b7fb4cd628a8c6aa75f047278a8c4df9d4b3b02b9a"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Masz dowód?",
+      "kr_sha256": "e1e46bb89754efd009cd282fe5f2f64be1dc798a46591a388cf3af57d838814f",
+      "en_sha256": "ab4f48bb447d742ca472cf9563b9a0dc0fc1a558108085c8539669a4091bc551"
+    },
+    "dataList[id=13].content": {
+      "pl": "Rodia, wybacz, ale mogę na chwilę zobaczyć twój nadgarstek?",
+      "kr_sha256": "2c213879e8fa142793b53683a95899b522c4d57a6cbd5ed75d634178d28bac69",
+      "en_sha256": "3a73c0b0a06da62638b3a300785e94d9ab4c27b2002418959b6cd33dac13eb69"
+    },
+    "dataList[id=14].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ej, ty! Nie ruszaj. Skąd mam wiedzieć, czyście nie w zmowie.",
+      "kr_sha256": "b417f4a06f3a2dc2349a7cd8d53c2f7252e966ec44dd273d6f8cf6a96abdb39f",
+      "en_sha256": "a948e3ee844cd80d07bb6c2856c93cd3e535bb0775ffffa0d1d1a1f8c4734f98"
+    },
+    "dataList[id=16].content": {
+      "pl": "No, to odsłaniam, patrzajta dobrze, co? Wiedziałem ja, że ta mała będzie kręcić.",
+      "kr_sha256": "25224e48764d2cdd920b3a400e5390d5867915d1a6b1cf6fd169abc89823fb5f",
+      "en_sha256": "d9ff82685f967bc43f95548f3e0d688f19d0b0a71db31d725d60243842963d09"
+    },
+    "dataList[id=17].content": {
+      "pl": "Coś mi ta scena… te teksty… jakbym to już gdzieś widziała. Czy mi się zdaje?",
+      "kr_sha256": "58efa2e89355b6defdf909f729507b800cf2b906df59a28227c7cbd68e873921",
+      "en_sha256": "87093140e6ee1e422a77593744ddc2654d416fe38842eb0185580465b70dc014"
+    },
+    "dataList[id=18].content": {
+      "pl": "Taki kawał chłopa, a taki małostkowy. Naprawdę musisz się aż tak czepiać?",
+      "kr_sha256": "03b9b675ad68bc8e3cc140587d9a40020faf39944be4f7ab950a05ef5481f804",
+      "en_sha256": "4e3981688d31590298647c80e053f5787813bf67a8135f36f9efbff069ce37e5"
+    },
+    "dataList[id=19].content": {
+      "pl": "Kradzionej Mocy Życzeń się nie trwoni. Nie uczyli cię tego?",
+      "kr_sha256": "117d94d175ee3875db2c90c53597685460ba073c184ecb9bc6f16749c46525cd",
+      "en_sha256": "e09e526c5e2077356b0856ee58b564e4a3100bb9f4cfcc39f16da2a8f660e563"
+    },
+    "dataList[id=1].content": {
+      "pl": "Hm, idę va banque.",
+      "kr_sha256": "10b85f619bc3edc07830ae749846d746363bf70547c36e5e04e47fa3601301ed",
+      "en_sha256": "462d7689c51c29038f9a6726d9b77eb260bc1f0427328cd8b68c2e55514e4ff3"
+    },
+    "dataList[id=20].content": {
+      "pl": "…Za dużo filmów się naoglądałeś. Co niby ukradłam?",
+      "kr_sha256": "942c82199808b3286b35655db1c26f746b9bf5d7fad0edc53a5d220ffcda4116",
+      "en_sha256": "810eedb679a39ce40bf9fcdb151d128bf62882efa854fa6e89f7d477a354f371"
+    },
+    "dataList[id=21].content": {
+      "pl": "A jak nic nie znajdziesz, to co, sam się wycofasz z gry?",
+      "kr_sha256": "c4bc3dfb8dd66a797ae6a60a3cc9501eac542f3e183a7b01b6642bb594e241c1",
+      "en_sha256": "70fac1d69c342236979a6d8d4ffba098b9cbf1c7777de5c07af863684be170d3"
+    },
+    "dataList[id=22].content": {
+      "pl": "Ho, ho, tupet to ona ma. Niech będzie. Stawiam swoje odpadnięcie, że w tym twoim nadgarstku jest Moc Życzeń. A ty co postawisz?",
+      "kr_sha256": "5a69b58911199dd17eb764a0561192aa18beffc4330b8412ead55a12551868e4",
+      "en_sha256": "d396795f4db398b37a1cac67aa23e505af8df23b6c8ba7dbc815c5a895470d49"
+    },
+    "dataList[id=23].content": {
+      "pl": "To samo, a co. Czyli jedno z nas zaraz odpada, tak? Chyba nie pękasz?",
+      "kr_sha256": "d2161b66ff8959be5793223538e7f401716a8db73705d879f1e60913c66f6c6d",
+      "en_sha256": "be13f776d814fc3d068e6abf35b3b8effa84d128bbbaf428ef3c6e81c02a2429"
+    },
+    "dataList[id=24].content": {
+      "pl": "Pfa, ha, ha, ha! No proszę, też się filmów naoglądała. Tak czy siak, zakład stoi, ady?",
+      "kr_sha256": "0f940fe0f291cc02af37f9d582544fa26072553dee58750f43eb60b59116ea85",
+      "en_sha256": "6cc71ac8be80f0a666177d0d74cc73554a629c60b64aa14387d786266390bd6e"
+    },
+    "dataList[id=25].content": {
+      "pl": "Eee… zupełnie jak w tym filmie… to się na pewno skończy…",
+      "kr_sha256": "84396fe00abaad424fc5bdb8960c52337428ecf6ccbfef07ab94d88998ad6616",
+      "en_sha256": "652adea99f7f6453c1050e2cdabd943a964c60e90aaaeab2852fa54aec49c3db"
+    },
+    "dataList[id=26].content": {
+      "pl": "No, to sprawdzamy~",
+      "kr_sha256": "e7add476b3b453c878ea5cf3c08843b2b564ef6499e83f5be563b59b27be32f3",
+      "en_sha256": "af350bd5e12172109353a44f710bb5e8e576a2d84227f6c200c40f75d01c4d13"
+    },
+    "dataList[id=27].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=28].content": {
+      "pl": "Co jest? Jak to?",
+      "kr_sha256": "8ee1d899fce3e7a0e4c7d0835144a08eb8b38ef9af09e3a0a2897a6a4a3ef935",
+      "en_sha256": "36a229f28ddbdd7dd32d4e63170520775b5211430283fa80be46de946226aca1"
+    },
+    "dataList[id=29].content": {
+      "pl": "Widziałem, widziałem, jak ta mała macała się po nadgarstku! T-to niemożliwe…",
+      "kr_sha256": "b410d4d809550264feb220f9e6318c32f12b5a5aa8c69d43a3c1239ac95aa969",
+      "en_sha256": "3784cadc3e765fdf628644fb5897b821fcb53b85f13198887f89421c2c4500b8"
+    },
+    "dataList[id=2].content": {
+      "pl": "…Va banque?",
+      "kr_sha256": "436552c299f8ea133c056c638aeb689890f56035478113481c68abb8ab1e8f71",
+      "en_sha256": "8f7c322a5cf040e607be59b18987dcdcb29136d87057a641dc21752120b4a1f9"
+    },
+    "dataList[id=30].content": {
+      "pl": "Odpadasz. Szkoda.",
+      "kr_sha256": "333c074802b55d386e0b8e6940cd25584e3085b9e466e5eafd5c55178c577631",
+      "en_sha256": "9d5aadba9a6797339b27052ae0d8ed7a9a5c124e88defeebaa8aa0715298e060"
+    },
+    "dataList[id=31].content": {
+      "pl": "A co się dzieje z tym, kto odpada? Utniecie mu rękę czy co?",
+      "kr_sha256": "5f84c0bb631b83ac2cf7f786f3e2adf05a0253d7127e35a0eeb79a35e32abad7",
+      "en_sha256": "d23b52b5195f427a0e14efb6b175590fc76361759c937b9c68b2c7bff47ce79a"
+    },
+    "dataList[id=32].content": {
+      "pl": "Żartujesz, Rodia? Na co komu ręka od protezy.",
+      "kr_sha256": "e671e172f74c2acd1e9ed17e3d878af4346b96f5f5242878c466bf460bb51ffb",
+      "en_sha256": "1ffc3d63f5f33223c342228f951436a4f9c64558a92f905dc7e301653517d0bb"
+    },
+    "dataList[id=33].content": {
+      "pl": "Nie, to… to niemożliwe…",
+      "kr_sha256": "9a10238091bd78d47386c19817699235e011aa9ccfb3619f29ce8bf1665291c7",
+      "en_sha256": "fa2ba0a74ad6a6a99b39c431bd62136d5e0522eca17ad7bdf3230db9840d836c"
+    },
+    "dataList[id=34].content": {
+      "pl": "Dla przegranych jesteśmy wyrozumiali, ale z kimś, kto strzelił kulą w płot, trzeba obejść się stanowczej.",
+      "kr_sha256": "bf420b202ade48a03e0ece4a73b1b30675fe7ec6033879e58414952626b3d302",
+      "en_sha256": "3dfe60fbc4d81123f50dae66e1915701030f64e68e5bbe400c2317b3af990ad1"
+    },
+    "dataList[id=35].content": {
+      "pl": "Ej, chyba nie…?",
+      "kr_sha256": "45c4bba5e19ae835cd2db25cbd18cc60bb4aa0f7d807c0b5a281d2c4391c892e",
+      "en_sha256": "4ca60f8bd3cca0d29ad7093a3bbc07e40d83b413994dd6824f92e0f6b03246af"
+    },
+    "dataList[id=36].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=37].content": {
+      "pl": "Ugh… co to…!",
+      "kr_sha256": "b64d5ed1affa7329a63f8062a0cb655a981e5a7ec9701a69e7016d6e6f67733f",
+      "en_sha256": "7cd0c6a9b6545d7ce0dab483f9669ef2f18afbe8da858d0e4256561b5c4d22fa"
+    },
+    "dataList[id=38].content": {
+      "pl": "A niech to, włącz kierunkowskaz, zanim w kogoś wjedziesz!",
+      "kr_sha256": "7c552d8a7e11c413f435c5c995da337c301f349fd2ad3e2122ce8ddf50cc2c10",
+      "en_sha256": "c6a81094239605863872b98163084dceffc3922a7a1007cf06d497f415c01668"
+    },
+    "dataList[id=39].content": {
+      "pl": "Fuj… patrz, jak cieknie olej i płyn mózgowy… Bleh.",
+      "kr_sha256": "2c91033cac9d65d69abe8647393566b51388da664d2b67bd5b49f1398f600bca",
+      "en_sha256": "70fca46bcb8596bf2e8cd02f0637e85fbf7d959bf1e108b828d6e5e2cd3eaa38"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ooo~ ładne karty ci przyszły, Rodia?",
+      "kr_sha256": "062f5b8dc1e9e8d04cf6c930892c64f408729a3c9e14070e6ddfd2b235ea5975",
+      "en_sha256": "1988fba6ddc50bc6a7afc4e83170f23af2e26bbcf85a63975c20a5d631c924ec"
+    },
+    "dataList[id=40].content": {
+      "pl": "Pamiętasz, Rodia? To ta prasa ze złomowiska w naszych Zaułkach.",
+      "kr_sha256": "3ddff33f70f7ca550148911ab4fd6f95c14b491b2e90284cda74d96ccefd130e",
+      "en_sha256": "39d516994fb635ef717a94fc4be9365293c2b2c588d62c0ada0d449fbf482c36"
+    },
+    "dataList[id=41].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=42].content": {
+      "pl": "Mówiłem ci wtedy.",
+      "kr_sha256": "7c942c9c14ba504fd5ecce263c39471a4f4a525375efffde1e7bf4bf8a81753e",
+      "en_sha256": "da62539e27e84b66c094d65b9ae702b280f4098d9c780997b181dec782f01ed4"
+    },
+    "dataList[id=43].content": {
+      "pl": "Że my, proletariusze, musimy się zjednoczyć, obalić klasę panującą i zbudować nowe społeczeństwo.",
+      "kr_sha256": "2397a0f9fd9d6866ef94abe0e3cac7d344078f0e0e57b88b3b63ced70452d43b",
+      "en_sha256": "f264963141826f0ea02874b68a22556f3a342513b2491138d2d526f715aad410"
+    },
+    "dataList[id=44].content": {
+      "pl": "A ty mi odpowiedziałaś…",
+      "kr_sha256": "a8b8d6533e32d36ff4f7256733d6e0106e3a5b8d8972d39b06d541b69e764673",
+      "en_sha256": "8d5fb28a9d5cbc03f8e759bb6e8fd326414f43f5a9baf3c76ac96d226c62e0c9"
+    },
+    "dataList[id=45].content": {
+      "pl": "…że jeśli to znaczy, że wszystkich bogaczy trzeba zgnieść na płasko w tej prasie, to jesteś za.",
+      "kr_sha256": "ce505ffb00ccad7dee6efc3dcac3c41b948140bc486c01db8aca231db90f6460",
+      "en_sha256": "7531ef18a7b75e7ae87704568149d879c4a1c34ff55d1f30a0cbd2c0d671f414"
+    },
+    "dataList[id=46].content": {
+      "pl": "…Dokładnie mówiąc, powiedziałam, że trzeba ich ‘zgnieść, aż pękną’.",
+      "kr_sha256": "a76dd5a00f9709a25d5a5e191cac49cea1c899d85c15b973411939f0652440f9",
+      "en_sha256": "d522db0321cdc7627fb7a45e20f56abafa2e7eeb0549adc45659a2e09a5b4445"
+    },
+    "dataList[id=47].content": {
+      "pl": "…Czyżby.",
+      "kr_sha256": "f2dcc2b1d53a28051ba4dcbb1a99b9c18ee6f3690044287c1a59796ff543cb23",
+      "en_sha256": "c202a9bab44c0e6db5481952651c9f07cfa90d1ba81c4c9355602791d5461135"
+    },
+    "dataList[id=48].content": {
+      "pl": "Rodia, nadal nie chcesz wrócić do Jurodiwych?",
+      "kr_sha256": "ff814dd2847847859e0a6f1d3474a4424a234c8ccf2f41cb5e93f9a2f1f04396",
+      "en_sha256": "89b0740c1cc88fda09ed764e95c0205f6d394499002c2b3007828c15de711ca2"
+    },
+    "dataList[id=49].content": {
+      "pl": "Ja…",
+      "kr_sha256": "9a12b830c2e7b71fae9e96f902689bd6a3c133128e36f8b9c867f88a50a2a7cd",
+      "en_sha256": "2874eeef57f198bfbbf3851e0dfa4f2e94812bd44a93248e551beae4638e2449"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ha~ od początku mnie to ciut uwiera. Na co ty tak wszystko stawiasz? Przegrasz tu, to od razu wylatujesz, wiesz ty to?",
+      "kr_sha256": "49265c97ea727a58c4b2c9aac0e897aa2a39fbd3d76b5ad1060a20437ba40f2d",
+      "en_sha256": "bec1566b22da27d70756291598efdf23bf7f457dae3ef333ecf564f25287143e"
+    },
+    "dataList[id=50].content": {
+      "pl": "Czy przed chwilą… nie huknęło?",
+      "kr_sha256": "22abb38f55b2107bdfc2c51205a35f7c3689b7d8ff23f7aac202bf7c5950321a",
+      "en_sha256": "4fd2f8d6a301d1e4863687013aa53cf18367461d80a7b8942f54c312832a17de"
+    },
+    "dataList[id=51].content": {
+      "pl": "Huknęło. Po tym, jak coś tam o Mocy Życzeń…",
+      "kr_sha256": "8ee662f323172bcca0f9d61e5d013d9305880bccc2599eb6b25e3cd6eb0dd84c",
+      "en_sha256": "5a1adc3fa354595978284a3f376b9187348506d5ce9827abacfb44763050b7da"
+    },
+    "dataList[id=52].content": {
+      "pl": "Co jest? Te gnoje się skapnęły? Ej, co tak stoisz? Cofaj szybko zegar.",
+      "kr_sha256": "7457f74b74af07c8cbd35fa56f84caaec2fba55786e2bbd57e83d4a7a1928b50",
+      "en_sha256": "4a036079bfef099c916e9269c0841436994f6834939b13d945d64d2af8b7808e"
+    },
+    "dataList[id=53].content": {
+      "pl": "Ech, nie pchajcie się tak. …Ach!",
+      "kr_sha256": "d6dba0017a108e57db019c457edf65a0f53b55fefdee5082db84a525b0f033f2",
+      "en_sha256": "6c56d202fbc432e8c7ab7d8dc59b09bae3b118d4b7519c4a50c6df7727b889eb"
+    },
+    "dataList[id=54].content": {
+      "pl": "C-co, co…?!",
+      "kr_sha256": "4bbd7d7f8ac75dcee421748305f117b9ab553a710c2422f83b974d5ceac89cf5",
+      "en_sha256": "7b7489f9d83acfa012cc988500ca1349ef49b386f1c0e41c4c62d1357fa678bd"
+    },
+    "dataList[id=55].content": {
+      "pl": "Niestety drzwi okazały się wątłą, chybotliwą konstrukcją z ryżowego papieru.",
+      "kr_sha256": "733786cc35b76f134c1a1625d1649849273421f8bd7e00faa57430c464027f22",
+      "en_sha256": "c5a1a0116b58effb798dc21a6f1b2d619781cbc56fffb9e429ea40b2d0fce74b"
+    },
+    "dataList[id=56].content": {
+      "pl": "I wszyscy, jak staliśmy, wpadliśmy prosto do sali gry.",
+      "kr_sha256": "dfccec90122ff996fc28f6d16ddaa0490bee0400442ebc985f0eaac2e9a84d33",
+      "en_sha256": "6a5d93db1e77c6b4afc74c95642e78963a5d3a051ca44a4f557922a3027489e2"
+    },
+    "dataList[id=5].content": {
+      "pl": "Taka już jestem, że na koniec stawiam wszystko.",
+      "kr_sha256": "1c702051422c0c0b195a445bfec650105e45f706a0263b5aa14578760cd7247f",
+      "en_sha256": "6bb9ab61d6501df90a7915032405cea2a6ac98bb82b738e99d9d6b8e5bc49948"
+    },
+    "dataList[id=6].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=7].content": {
+      "pl": "Stój no. Podwiń rękaw. Ciągnęłaś przeca kartę ze spodu?",
+      "kr_sha256": "8a8d9a54379d5bc996bb26b63bd4a0bf48a985e62649719694e8c79f2188307b",
+      "en_sha256": "0a63cfc1e7dcb1cfeac5c994886b92b9cb844855abcd02477d865dc565702408"
+    },
+    "dataList[id=8].content": {
+      "pl": "Co?!",
+      "kr_sha256": "3d9fc74f8d07221c2984b3f7b441fe863c63c3a735d207d0f48f2ce590746c8b",
+      "en_sha256": "6b18f14294344d0190bc50546e2831e0f32a216a593b0dbcbe5c388694530f4b"
+    },
+    "dataList[id=9].content": {
+      "pl": "Przykleiłaś se na rękę naklejkę życzeń, co żeście ją zabrali szefowi gangu Tingtang, tak?",
+      "kr_sha256": "242a56467e0d5ae99474bd23eb6e123fc8527ca25a65b03a8c8ba58aa301d721",
+      "en_sha256": "775430923c312346e1d6282201492c16d9d740fd5e19c14687717e88e138df4f"
+    }
+  }
+}

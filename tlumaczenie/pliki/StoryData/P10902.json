@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Panie szanowny. Ja dobrze wiem, ile pan trzyma w sejfie.",
+      "kr_sha256": "1a42115813ba13290367b54df30544d674acbd69c520e1238143077d760edb7b",
+      "en_sha256": "5db332a7b08b64e17930741b518b1d2e4667666112d5fa75b8b178dad02c9a6e"
+    },
+    "dataList[id=10].content": {
+      "pl": "…Mhm, czyli dobra wiadomość, tak?",
+      "kr_sha256": "2a2f3cba1251411ea3392445ffc123f49a1737bb298f6fc4871272042e92517c",
+      "en_sha256": "804ce97e60ec4ebaa9c93c8a83bf10bdd71ac6f07754dee10955e7fd319e53a1"
+    },
+    "dataList[id=11].content": {
+      "pl": "Przewodniczka, która bez potrzeby lubi wszystko skracać, uniosła kąciki ust i skinęła głową, po czym zapaliła papierosa i powiedziała:",
+      "kr_sha256": "f8175e4a5415c963da8fbb3686e2eb39f30bf1d053514bd165f577aaa487f12f",
+      "en_sha256": "9ac3e67150d51507f8a6e528891491002555deec8ba82a53c169ce4f87f58f55"
+    },
+    "dataList[id=12].content": {
+      "pl": "Zatańczymy na miecze z tymi z Rodu Ostrza.",
+      "kr_sha256": "86a04369c56dbf5a77c1c82ae48fbfe748393e6b81bda0eaa49303afa60d7b51",
+      "en_sha256": "44ad04f69cca45d76f3e4801a40e14b7a9ef1ec4a3e0d574e9b0df0f8a557599"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dziecko mówi to przymilnym tonem, a jednocześnie z ostrym jak brzytwa, cynicznym uśmieszkiem.",
+      "kr_sha256": "5416a5418f73d66db36921ee231083e27d594b226114067ed9a9c140cd8b4650",
+      "en_sha256": "5c610704e7654138c007164d3dac5263bde68a360c6ea2ce1f17c55e6dc62800"
+    },
+    "dataList[id=2].content": {
+      "pl": "Syndykaty w większości są do siebie podobne i Klan Kurokumo niczym się od nich nie różni.",
+      "kr_sha256": "36e6537b604ca5285880c3fc07fd88349cbb98b16ca2166c635b8762466726dd",
+      "en_sha256": "d3c337616996931f768e46953b8b90d73baba2bcf17906a8c7415bc47e58c434"
+    },
+    "dataList[id=3].content": {
+      "pl": "Na co dzień ściskają za gardło sklepy w Zaułkach pod pozorem opłat za ochronę i zgarniają brzęczące monety, wyciśnięte z biedaków jak krew.",
+      "kr_sha256": "1a33f5b75a573a1aedb3087b36143fec822b6588bb847890dd8e9a616a34a343",
+      "en_sha256": "ebd743eca6df7888af5332da78706d0b7db8a40ebcce7ba6d7264a1598aac3c6"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ale, co ciekawe, spośród wszystkich sklepów w Zaułkach dziecko było szczególnie bezwzględne akurat dla tego.",
+      "kr_sha256": "0af3e3ba859f04282b97510a2349c198fee835f8d821a157afc3f97c5aa4e1d6",
+      "en_sha256": "a2499ddc34d0a3fa838d33055bf590fa75264a5de5571df4f661c00d72aea9ed"
+    },
+    "dataList[id=5].content": {
+      "pl": "Pewnie gdzieś słyszała, że właściciel to znany sknera, i uznała, że jego pieniądze pomogłyby jej licznym głodującym podwładnym.",
+      "kr_sha256": "dc816fbd04eb54ebfe4977536c74d2e0cb9157ec05a1aaab2d491653df4ddd82",
+      "en_sha256": "fd5066964c16ef0c104eaacf18b4526294468f7c49722f14e13a34a1df1aedcc"
+    },
+    "dataList[id=6].content": {
+      "pl": "Dziecko najchętniej od razu chwyciłoby tego dusigrosza za gardło, nie, poderżnęłoby mu gardło, ale chyba jakoś nie mogło się na to zdobyć.",
+      "kr_sha256": "20c73e16988b82ccb92d5322c7e18b746f83114debdef51d75bd72e165e48275",
+      "en_sha256": "d32f9b0ac04df6cfb10fc95abd462941d935e87ed48f88a54e6052efce8b7682"
+    },
+    "dataList[id=7].content": {
+      "pl": "Samowolne działanie jest w Syndykacie zakazane, więc pewnie uznało, że lepiej nie szukać kłopotów.",
+      "kr_sha256": "5b56ac3245ca3077838eb833dc377c6c42f243a9003aee4f614933e6a6cadfff",
+      "en_sha256": "384ddd811b0ec4dab7fed1e0dadfe5aa277c7555c746298633fdbae91fcf2e79"
+    },
+    "dataList[id=8].content": {
+      "pl": "O, na szczęście nadchodzi chyba przewodniczka, która odwróci uwagę dziecka.",
+      "kr_sha256": "05728fa0586320d4709a3ca44e4e65b6025ba5bbec77a1c0c49d8adf7705f1cb",
+      "en_sha256": "f10803e576ee1ebd68c1d42de30f4cbfdd9002120f5a3b13ba3d3e4540d7337c"
+    },
+    "dataList[id=9].content": {
+      "pl": "Rodia, D.W. Wreszcie wyrwiemy się z tych marnych zleceń.",
+      "kr_sha256": "03deb8d0ff9f9cac7737651c594f2e68847ad213d8e80bf79ece3ec03fdee465",
+      "en_sha256": "1a9090b933505ad790115d1910fa50e30e0c35ccb74442a15f719c8a6ffb0d2c"
+    }
+  }
+}

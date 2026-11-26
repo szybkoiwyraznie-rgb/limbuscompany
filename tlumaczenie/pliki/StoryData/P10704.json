@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Nie tego chciałem.",
+      "kr_sha256": "691debe0ff170717013319d3e41c7ccdf6bfd9b90193be6f99d26391b1c8809e",
+      "en_sha256": "af0a0dfb982b50db40b624bcaf2ddd9fe789102a4dccd5a456935f6d09ff6912"
+    },
+    "dataList[id=10].content": {
+      "pl": "Co to w ogóle za dziwaczny gwóźdź?",
+      "kr_sha256": "f7e2ae2aa102c22483952f447e48df45d09de6d989bd1b2eeaa21b3834645624",
+      "en_sha256": "8d97a7e02a423ef77bfaa2c678d666a3280c86d729d778fc8ea63896a8d53474"
+    },
+    "dataList[id=11].content": {
+      "pl": "W środku ma chyba przezroczyste okienko, a jak się go wbije w człowieka, to coś się w nim zbiera i zbiera.",
+      "kr_sha256": "e7a49c202107465c585188f2ba2646b73c47d5d061d5a483fc4e0e0d65022eaf",
+      "en_sha256": "42130456c0a474ef7f96e4f389cb2d40aa5fc017943072d1a4145e9a76094a03"
+    },
+    "dataList[id=12].content": {
+      "pl": "Zupełnie jak ludzka…",
+      "kr_sha256": "f42212d16147b54da2067070edc3994957164ebe2895416ef0e3a6c57e11b267",
+      "en_sha256": "2ca4d460c1c5459a19038deac30fad7cabde591f2363b2b543ae2dcb84acf5aa"
+    },
+    "dataList[id=13].content": {
+      "pl": "O czym myślisz?",
+      "kr_sha256": "2c54da1087123f455beeeb826b9da541ab515bb449c0179f5b398132ab787722",
+      "en_sha256": "9fc75330c2d46eb64104f5b1ae2e116520efdef80c14dd9cc501193c1973aa39"
+    },
+    "dataList[id=14].content": {
+      "pl": "N-nic takiego.",
+      "kr_sha256": "b4180af1edb04263813e377000a9d4e9fbe01860ef8443df83587750a77bae3c",
+      "en_sha256": "5a2582a98bae6bd9ac8f056f280c593dfcb85e084bd7a9961f80af92c3017b26"
+    },
+    "dataList[id=15].content": {
+      "pl": "Dziś jest dzień obrzędu. Jeśli masz w głowie zbędne myśli, pozbądź się ich teraz.",
+      "kr_sha256": "9b3a318667453101fe275b95046ee1f6ebd9c72f398e01ec757ed0a45a3565cf",
+      "en_sha256": "e3290589f30bd383b11f5f920317359a73c0223fac31eb1d28cd5f07710bf92b"
+    },
+    "dataList[id=16].content": {
+      "pl": "Kh… Znowu ten ich obrzęd!",
+      "kr_sha256": "9479ecdae5f17c91a8c67f3d214a95f0fc6cb87b6c2c183ad0247e3b143e348f",
+      "en_sha256": "a1031d166d87baa59e5ff899b8014cbd7ae99da3a4d058389005fab76e858ae0"
+    },
+    "dataList[id=17].content": {
+      "pl": "Znowu każą mi wkuwać na pamięć z tej książki, od której łeb pęka.",
+      "kr_sha256": "f116328f1f1b17d69bad6e1da745a3eb35415ed5c5e7dc246445dbbb09d4631b",
+      "en_sha256": "87102296d166c2ebdd733755dc5a59a9b412176fd7641a0e1d0274de867a63ef"
+    },
+    "dataList[id=18].content": {
+      "pl": "A potem otworzą jakąś puszkę i będą mnie w kółko karmić taką białawą papką…",
+      "kr_sha256": "28d2a5b3c74c1a178f58b0ed770401f40712fb3b02a6fd0723bb296500c6b199",
+      "en_sha256": "09875f2fdf46c7a261d8cfb0b2b4562db9fd7e270e7ed053dd665416c4e07f59"
+    },
+    "dataList[id=19].content": {
+      "pl": "I za każdym razem wspomnienia jakby powoli się topią…",
+      "kr_sha256": "2675693e2667383b1197213aef5dd32d05968e44a06e899dbd41c1f17bdecb7e",
+      "en_sha256": "0ee802360e2cf8d4a0712a089dc6af6c560aed353ccf6c300aabae3b445024a1"
+    },
+    "dataList[id=1].content": {
+      "pl": "Nie wiedziałem, że przyjdzie mi robić takie rzeczy.",
+      "kr_sha256": "18850ad667e225d6ac4fa04f7e626fdada5ffad924f74f91e56f3728b94c469e",
+      "en_sha256": "cb483b234e04879496acfc3ea0cf9ac6951e0bb3478076132b4db0e835c36936"
+    },
+    "dataList[id=20].content": {
+      "pl": "Hasło. Heretycy…",
+      "kr_sha256": "69bcc09a199aefa37055e17df40a439b2bc2d90cd4c4cfd2613befdf207c12a9",
+      "en_sha256": "0ba2a5d2815260f9716030fb02ab33a91d744bab7605f13466023fca0de3a048"
+    },
+    "dataList[id=21].content": {
+      "pl": "…zostaną oczyszczeni.",
+      "kr_sha256": "def18ed5e3d965afcd1bbf780c250a98ee1ea1e20fdb877553e6af5d05d3d508",
+      "en_sha256": "14264bcc47cd7d127fff8a3446490e3b8042b435180417ffa7506c9c5afa8b8d"
+    },
+    "dataList[id=22].content": {
+      "pl": "Co?",
+      "kr_sha256": "3591e5439b1d2e05500126145688d17338074e45a643a8215e47d2b7bcb9c4c7",
+      "en_sha256": "55c3e5daec20a64dcc70fbed694d58b7b529e567f03b0c43f0d6ac23630f7c4e"
+    },
+    "dataList[id=23].content": {
+      "pl": "Co ja… przed chwilą powiedziałem?",
+      "kr_sha256": "89f5154cf9c0c9042a3b3f82fb437b144ed3e06bade1d88ddf3272d2fd6d8277",
+      "en_sha256": "cab0ed9636408fd24619c906655b981740e5f54cdf68aef51ac34f7e02319704"
+    },
+    "dataList[id=2].content": {
+      "pl": "Chciałem tylko… żeby mi się udało.",
+      "kr_sha256": "8a2f62c298327b4ce1ac4eba6c3d0e9a1f8f5e36224a58bdd762e2e7cfb583bf",
+      "en_sha256": "2d2515c07cdb6675a011f64f2f58a06c0220d3db25b0fbb4abcff7ff9793131e"
+    },
+    "dataList[id=3].content": {
+      "pl": "Akurat tego dnia to, co rzuciła Cathy, tak mnie zabolało…",
+      "kr_sha256": "062560a26cb67ceefe3238007497de2395a9d3cc490a34cfb6df92e32ccd02d4",
+      "en_sha256": "eb1ce11e85b2a760dc2928d9da2a07e8976bb276e337a707a71159b72a27df88"
+    },
+    "dataList[id=4].content": {
+      "pl": "…że wybiegłem, przysięgając, że nigdy nie wrócę. Tylko tyle.",
+      "kr_sha256": "b62884c8126116d147aea1a5769b303316254ea1752de9d7f52f89669b9dcaa8",
+      "en_sha256": "483bc2c7e54167cb35898bd7be852270df0b987ac0649316328a5d2581a4867c"
+    },
+    "dataList[id=5].content": {
+      "pl": "Wystarczy. Wracamy.",
+      "kr_sha256": "c230dbddb969b1c76c5e0fa0d3e8b7915f1ac0fcd8fd7cd32eb0bbe74c4bbed8",
+      "en_sha256": "d1276140c32ffe29a0cb5ce8658de6d3763db0b1c3d8310540f539ab3d36367e"
+    },
+    "dataList[id=6].content": {
+      "pl": "Jak ja się w to wszystko wplątałem?",
+      "kr_sha256": "e0066863ea8d38f20d97619cdd6f616e2904c07a5ad4abfd57ffcc74ccdfb94f",
+      "en_sha256": "5d9a28fa17d46b8d1a9ebda83dd600f9ced166db3220ae0f5ee972196440f08b"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ty tam, Mały Młocie.",
+      "kr_sha256": "026d505123a950b9099d9fcf0a7f613350d2a0fc1ecebfb520759b14bfbf4254",
+      "en_sha256": "fbd5fb516e084e7441b9fc654323b8a0d2fa6d24dd2bf4ca57cf01e3d1a33f70"
+    },
+    "dataList[id=8].content": {
+      "pl": "…A! Tak jest!",
+      "kr_sha256": "74a27cb73ed8a95d9cb6e15fb8d8317b2f3e602efc64f067e994676829a364cb",
+      "en_sha256": "8093504e745c73a9a77d1654aba1dea40589a419f8a2adbefa5a0f8a9cea2736"
+    },
+    "dataList[id=9].content": {
+      "pl": "Nie słyszałeś, że wracamy? Za mną.",
+      "kr_sha256": "0a181dff835a068b4fa8c1d02f0fc457e3432a89657d05b879f57671dd5eb564",
+      "en_sha256": "ba794e9f2cd26cbc6c4ee6bfbbb5aa97d74911fc1fe98c8cb6ae82e3bb03b81d"
+    }
+  }
+}

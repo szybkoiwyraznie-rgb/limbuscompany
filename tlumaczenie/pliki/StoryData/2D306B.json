@@ -1,0 +1,624 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Przed nami wznosił się olbrzymi lodowy zamek, a wokół niego lód tak twardy, że chyba nic nie zdołałoby go skruszyć.",
+      "kr_sha256": "0c8fda32994b2b32bc1f946af326be0a9aa6cd76aa2fdcc4c3be6db697633b3f",
+      "en_sha256": "f7a28a6a74633f275b22a767e5569e109353fbc452f692b7db0ad07bd1db9f1b"
+    },
+    "dataList[id=100].content": {
+      "pl": "Widziałam go tylko przez moment, a nie chciałam zapomnieć tej chwili ani na moment.",
+      "kr_sha256": "d52d4149ba9ac984b847c2d23b406da66d89008f80e6ee0667c56b1a7748b6c0",
+      "en_sha256": "371beed28dd15c8ca8a21d281a2c981b150376710d50e5468afdedd43750b5f4"
+    },
+    "dataList[id=101].content": {
+      "pl": "Gdyby to był sen, chciałabym się z niego nigdy nie obudzić, a nawet zostać mieszkanką tego śnionego świata.",
+      "kr_sha256": "d3320e542146c241dfdf56fcd7173381089679ec85f43d1edde19bab3700d4a6",
+      "en_sha256": "44398a568b9405b5c36e1309d48861b35516fe6856f22dd607fe0d2af0c3b9d8"
+    },
+    "dataList[id=102].content": {
+      "pl": "A jednak…",
+      "kr_sha256": "05a5fbc86e04238205e711c511437c549b3f9ffe3bab88f68e9b0d45d6f9a468",
+      "en_sha256": "17095824de1a65c664ec68bc68d4dc73e896e15b6d9934ea36b231d1e6ad0b3b"
+    },
+    "dataList[id=103].content": {
+      "pl": "Przepraszam, ale i tak odmawiam.",
+      "kr_sha256": "f9cb4722d0b37586799b189cb31bdb83d122db4cb0a4d78d139b4fba8ba0ab73",
+      "en_sha256": "d58c8796eaf66a1904ee982b9ca93594f284b717012a6c59cc16a7301858bc12"
+    },
+    "dataList[id=104].content": {
+      "pl": "Sama nie wiem czemu…",
+      "kr_sha256": "7e938c6561cb3dbec03566182e1273ad70c66e8a2f79955e68d3e24d34d18347",
+      "en_sha256": "59d24e3b97e9fa7123f8bc794ff643f1dfd6129eac0a3ca1c3318c0622dc824c"
+    },
+    "dataList[id=105].content": {
+      "pl": "Nie chcę się jeszcze ogrzać. Muszę jeszcze trochę podrżeć w tym zimnie.",
+      "kr_sha256": "8a877385e165eb2a4a4cbf730b016dee5538561da8b925165f2addba0dff6e45",
+      "en_sha256": "095a7e41e940b005d0c78322342810c1f0ac862940db35da81f2a09bc0245331"
+    },
+    "dataList[id=106].content": {
+      "pl": "Zostanę tu, dopóki nie znajdę odpowiedzi, kiedy wolno mi będzie się ogrzać.",
+      "kr_sha256": "3b273bed00383745ecfce1cdd36a9d50a249a7bd32754eb4cacbbd06982469f3",
+      "en_sha256": "88cedc6a535e9da9e35fea0fb9e0eb66f3491bbbd5f8b0c7774175c9fbd086f3"
+    },
+    "dataList[id=107].content": {
+      "pl": "I jeszcze, Sonya…",
+      "kr_sha256": "6aa2998a43eb9e063ecfe55e2f06d75235eedd7d8c17e57701a10f13fbc0f2ba",
+      "en_sha256": "0146dc3da34134ba84f9e9d14cc3bef7e7db29a8077fb709e83a0a09b70b0da1"
+    },
+    "dataList[id=108].content": {
+      "pl": "Ty od początku wiedziałeś, że puszczą mi nerwy i sama pójdę to załatwić, co?",
+      "kr_sha256": "bc72119b27cada950f84af0cc57e3ac48865636c2aa5c8854ef86f923470a5a1",
+      "en_sha256": "43e25554d3ddb2a281ac81ffd786df9db5919d2e8ed023ed2ed385e3c0d124f7"
+    },
+    "dataList[id=109].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=10].content": {
+      "pl": "Myślałam, że dalej siedzisz zaszyty w Dystrykcie 25, ale skoro stosujesz takie metody jak zwykła mafia, to trzeba było tam zostać.",
+      "kr_sha256": "d543cca8e9ae726f5d60b2f687e120f7d169932c8aa4083ecddd51fc02db67e5",
+      "en_sha256": "a0682a678e971d593224345e212b8742aa23cdfaecd6abd4e22d4dd9f33d0c22"
+    },
+    "dataList[id=110].content": {
+      "pl": "Rodia, trudno ci będzie to zrozumieć, ale ty nie masz Znaku.",
+      "kr_sha256": "b8368fc61129969cd40faaeec68eed7be55ff3824105c8aa25867c42d98a37a0",
+      "en_sha256": "1f02ad365fc79356eda5aba06a9038581944eacaf74858329ffa8d1e35894e09"
+    },
+    "dataList[id=111].content": {
+      "pl": "Przyszedłem z nadzieją, że go masz, a tymczasem widzę go u kilku twoich przyjaciół.",
+      "kr_sha256": "35c5ad17b5d0224f121e2be7516431a821bd62f70359eb65ac30251150eaa121",
+      "en_sha256": "9901a599bbe77cde81c6567b10753d011eeb5c6e0d5a58f0df0375b69a38e439"
+    },
+    "dataList[id=112].content": {
+      "pl": "Znaku? O czym ty…",
+      "kr_sha256": "d32343839ead3b3f0675644d0a51f7d1022596bd35adc2e8b9ac7a2de7147e9d",
+      "en_sha256": "a6df8bae2d1181ecf8e3d14220250f989d502b6d22a76bcf6ebb663f9f904407"
+    },
+    "dataList[id=113].content": {
+      "pl": "Co więcej, ty nie potrafisz Znaku nawet dostrzec. To znaczy… że nie masz w sobie siły, by kogokolwiek prowadzić.",
+      "kr_sha256": "38a2bc5226d0bdd3c86218e3869ea15a6478a27ea054c260192a2f52ed90e47b",
+      "en_sha256": "b1b2d0c17828790fef8b6874e9dce237ac90c1ae375c7c65152783b8d765c916"
+    },
+    "dataList[id=114].content": {
+      "pl": "Ale ja jestem inny. Dlatego dla lepszego świata…",
+      "kr_sha256": "933dec397b5fa239b50125c7b316d2032452246a64feb5a54e3a7c598054ab1c",
+      "en_sha256": "cb119d4ceeda31fd41fa9b06d7784af267504c6897599bdf6f706892831ebd83"
+    },
+    "dataList[id=115].content": {
+      "pl": "Jasne, coś podobnego mówiłeś już chyba przy tamtym stole zawalonym książkami.",
+      "kr_sha256": "35837bfdf684af174bbeb4ec5751ecdbb74dca363bfe48ec9a39101bf5727c4e",
+      "en_sha256": "a8c841811a777a74301688fb902ebf9145a5ff1dd68c3ad6053c5fcd5cc6f9c3"
+    },
+    "dataList[id=116].content": {
+      "pl": "…Dlatego nie mogę iść z tobą.",
+      "kr_sha256": "107845ffed1c0ed1e634852559502e7bb9ee76c226215430e858e83ff7dbfbd5",
+      "en_sha256": "ff5b30dc93f734b6dd419826e13716218a86a7f5cee7d6a7f099d4d942f655af"
+    },
+    "dataList[id=117].content": {
+      "pl": "Bo gadaniem przy stole sąsiadów i tak się nie nakarmi.",
+      "kr_sha256": "2798aa355145303abdae8856c8245e77702c01252140f09d82cacc5f5682b2cc",
+      "en_sha256": "4550f6bc80999748f4bb0d468c8e93945350dd59964a4642db4c8bb10ca3a3bd"
+    },
+    "dataList[id=118].content": {
+      "pl": "Sam przecież wiesz…",
+      "kr_sha256": "919fcdf9e03140027a8583895e43828b6e4ffe99c5bbbaf9c9a877217c4a412f",
+      "en_sha256": "dcc9bf1ebc5f56befa7de86d350ae9034f73918216dc761986f690f397b6065a"
+    },
+    "dataList[id=119].content": {
+      "pl": "…że taka hultajka jak ja nie da się prowadzić molowi książkowemu. Ha, ha!",
+      "kr_sha256": "0ec1fdd80389eaa7805b7be6461fb5b8959934b6eab6a02b45b54c7be8b294ec",
+      "en_sha256": "b1ff76f96ae9dd4ebb09a597019b1f96b519d9b05acd10f78daed2e2e9bbb11e"
+    },
+    "dataList[id=11].content": {
+      "pl": "Sonya. Przez ciebie pieniądze odbierano nawet niewinnym kupcom.",
+      "kr_sha256": "7acb28645f48ec2284a0da9d5d721cd3431dfdb4fb914c5b58b327c25310a9c5",
+      "en_sha256": "7492a789cb0dd3ecfc3126d59d292c3171b26748b681c673a314a84d1f18acb3"
+    },
+    "dataList[id=120].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=121].content": {
+      "pl": "Złota Gałąź jest w tym zamku, Rodia.",
+      "kr_sha256": "7aa39296d64c873747b61e2024bbea60499e886cd79d95c2ffe4d8d98fa5ea52",
+      "en_sha256": "2b2efa22fe3f194e4ef8520a43b62eaf7f9c6ac84d04ee53f2902cb441f83e46"
+    },
+    "dataList[id=122].content": {
+      "pl": "Obyś bezpiecznie odnalazła to, czego szukasz.",
+      "kr_sha256": "16ccb3a4c938bcc6886a4f6f4d4a6fa166e43339f31c86bb87d6606d06e0246a",
+      "en_sha256": "005406140245dcf3e222d3ce44c9d2f520a847380184215405c9753c8ef2087b"
+    },
+    "dataList[id=123].content": {
+      "pl": "Minęliśmy więc Sonyę i weszliśmy do lodowego zamku, który nam wskazał.",
+      "kr_sha256": "665d1fac35a834aa87cfbbadb611e892d75ba147e57f3ddb937e88a4c50ab1c6",
+      "en_sha256": "442e5f864d628285b4715dd313172025548a8dca0af6c9d9949a3438abfb987f"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Wiesz co, Rodia? To miejsce było kiedyś tylko trochę dziwną grotą pokrytą szronem.",
+      "kr_sha256": "541d4e9cc8edf8b6ab172cad13ce810cd82b7af4877acca6a86a130595b50b0c",
+      "en_sha256": "bc4b51abe9eed13f66713b1dab2b27f850f1503bc24360bfff027866dfec6893"
+    },
+    "dataList[id=13].content": {
+      "pl": "A teraz spójrz. Stoi tu wielki zamek, a wszystko skuł twardy lód.",
+      "kr_sha256": "6d05f326137d57c3e3c7c62609f323374dd5565dd323dcad0a848bbcdf0dd5cb",
+      "en_sha256": "f2b480837e6bcfe25fe609cbbcf3c2950cb608ef34f8cd9ff054141ac64f72da"
+    },
+    "dataList[id=14].content": {
+      "pl": "Od chwili, gdy postawiłaś tu stopę.",
+      "kr_sha256": "998524b8cf296edafe17b65cc7ec2e2c116a6c405920ad58476ed18b61b6ca01",
+      "en_sha256": "c399c192a8cc232599952fe72f0d295d4ac302f989a37bbb7d96ab5b91de4aa9"
+    },
+    "dataList[id=15].content": {
+      "pl": "…Mówisz tak, jakbyś wiedział, że po moim przyjściu wszystko się zmieni. Skąd wiedziałeś?",
+      "kr_sha256": "be03e25d3c54dac4be42fc34097a80e68b0028f660dbd2ea643be0b9b262f7a8",
+      "en_sha256": "e8f6b07d84cae7bd65858b01253c0ea5ec19d8bf67e238ad2205ab32175bb5e0"
+    },
+    "dataList[id=16].content": {
+      "pl": "Mam różne źródła informacji… ale nie musisz o nich wiedzieć, Rodia.",
+      "kr_sha256": "3bd6e545cc318571f40a390a9abaebca4a7642cc8987caf23702d3356b804749",
+      "en_sha256": "a3a93a46d9f274e9778d0fee6a83741e900668a3385467e352ec88bee2bb13b4"
+    },
+    "dataList[id=17].content": {
+      "pl": "Skąd w ogóle pewność, że to przeze mnie? Nie jestem jakąś czarodziejką z Zaułków.",
+      "kr_sha256": "8e1e1020181d724f91e0739dccf0f29bdce98ea43f1c549e82dd433b646eaf7e",
+      "en_sha256": "87eb4432abeffd5e99140354a9b0cfa6d3e86094c2282a0cbbca6c5b9f93b90f"
+    },
+    "dataList[id=18].content": {
+      "pl": "To nic trudnego. Wystarczy spojrzeć na twarze tych, którzy śpią w lodzie.",
+      "kr_sha256": "c46c292c131af8dd4697e69c040b8693c7ea6a76b0b2a870d4270f430890bb09",
+      "en_sha256": "063108db0e632d04ee6298ad322ef5810a99ac51fa218cc634b62c73b94675cf"
+    },
+    "dataList[id=19].content": {
+      "pl": "Popatrz. To twarze, które kochałaś, a zarazem w duchu patrzyłaś na nie z góry, prawda?",
+      "kr_sha256": "efdf542a8884c01f7d323f382ecb3240aa01e48a9d928453368c83091d98fb68",
+      "en_sha256": "cb7fac2622ac3f35f4ab1d9479b746f1dc751f8cf7055d7f9ce5cee3a743e800"
+    },
+    "dataList[id=1].content": {
+      "pl": "A tam,",
+      "kr_sha256": "f953bcbf0cec9e6378cdc9f948bfad7bb8f8ba8fe330b322b2fa3b818f16def8",
+      "en_sha256": "df71265b7017ba3c7d736bc96dc8041b2c9cfb3e3a521e74170912a5cfd351a6"
+    },
+    "dataList[id=20].content": {
+      "pl": "Dwieście pięćdziesiąt tysięcy ahn.",
+      "kr_sha256": "39d148a5267c14022fc5cd5537e895d4fac4694967a8ee90bb66ed8c51c3e9b7",
+      "en_sha256": "212f4825a8bbe6d2fb5b3bbed12f79fc51e3c4a3d7ee11e94e28bdfd9e947a40"
+    },
+    "dataList[id=21].content": {
+      "pl": "Tylko tyle to jest warte? To niemożliwe…",
+      "kr_sha256": "4c190da144183b1b6eb08dfb7e3234b8ee23ae3c6a0212b562f943c879a8f383",
+      "en_sha256": "d38bddef66382ef851cd8cd57e1cc3ec3cd555eb82d15c435dfa7d8583ca7f95"
+    },
+    "dataList[id=22].content": {
+      "pl": "A czemu niemożliwe? Stare, to i porysowane, i bez połysku.",
+      "kr_sha256": "25dda7557bbdf090ba04823ed20436d235bce4ef90a109e13db40bb5008ceac9",
+      "en_sha256": "2554cfd2a9656eabf39c436e5ad09e0e94ef6e74ef4bbf6e92900989861979dd"
+    },
+    "dataList[id=23].content": {
+      "pl": "Prawdę mówiąc, gdzie indziej żal by było dać za to i dwieście tysięcy.",
+      "kr_sha256": "b5f749feb4d8f1e63dca9054e077c30ec59eca845b92ef0bea0a767bd77bb18f",
+      "en_sha256": "47768f346a30c31f68a2464b083c40b84729bd24d325f2a2dae71ab636e86c1e"
+    },
+    "dataList[id=24].content": {
+      "pl": "A reszta… same bezwartościowe graty.",
+      "kr_sha256": "4eb3a43023faa97436d4becaa3f23f6c1e451a1602db4593297bdaab5543f77a",
+      "en_sha256": "f8a35feeacaffabb44c1d9d3feb8d8773c738bd28c699a643911db92c9a2d824"
+    },
+    "dataList[id=25].content": {
+      "pl": "Tak więc podatku zostaje do wyplucia czterysta tysięcy ahn.",
+      "kr_sha256": "5af19360ef0325a0e06f49a3661ca7b746f08b1148e88e31f62cba332ab97714",
+      "en_sha256": "c0db72a1b7ac013df499896cbb12c8a5907bc43c5fc6121840d822d5e28542cf"
+    },
+    "dataList[id=26].content": {
+      "pl": "Czemu biedni, im więcej pracują, tym bardziej biednieją?",
+      "kr_sha256": "725ddfb504986b1b7485c4db869edc89ab12697300316a28dc14989ea7343c3c",
+      "en_sha256": "87b7b157105665fffafc91b9dbe55fbd31b56a3adafba818767e08a110087a46"
+    },
+    "dataList[id=27].content": {
+      "pl": "To naprawdę absurd. Im więcej pieniędzy przybywało w kasie tej lichwiarki,",
+      "kr_sha256": "8f3e94f859e9e1b81bf65e671f115a0d1c88e8d8638b2b5892abf4eb1938fc0d",
+      "en_sha256": "7b4e3c0813c804fe3dda83efd885995dc47bb4c37e37052e51450df0d9b547b7"
+    },
+    "dataList[id=28].content": {
+      "pl": "tym częściej nasi sąsiedzi patrzyli, jak nawet ich wspomnienia kładzie się na wadze i wycenia na grosze.",
+      "kr_sha256": "da7a1c6e9ed3ad9190c100d641cbf34d98578ee397c30d94505a020c820aa9a3",
+      "en_sha256": "b1e9cf2ee707cd39a823367e4f628b79bc64a0482ca183c411cb075f37b2a0eb"
+    },
+    "dataList[id=29].content": {
+      "pl": "Sonya zawsze zbierał ludzi, wplatając w mowy mądre słowa.",
+      "kr_sha256": "c03694450f3aea23dc13c933194de979f1147404a1d18ebf011d87d33b1332f9",
+      "en_sha256": "ac4ae1da2eed0e9712fe93c625e6b51e151e80fc562b15466ab9ea00329ce1a2"
+    },
+    "dataList[id=2].content": {
+      "pl": "czekał na nas ktoś o włosach przejrzystych jak lód.",
+      "kr_sha256": "ad4ff50253ff613339cdc9dc4d23b9e4db5974bb4e804e1a2b7226e61096774a",
+      "en_sha256": "ab5604c3e8d163ddc3233b197c92e01a100c492d8f383c674aa3c03a3f21e6ea"
+    },
+    "dataList[id=30].content": {
+      "pl": "I tak wokół nich powstała organizacja o nazwie ‘Jurodiwi’.",
+      "kr_sha256": "600c306a242df3483c8733b9d1fccedb3ad5d041fbf7ba6f188c2f8ccc30d4f2",
+      "en_sha256": "17e7d12e6da67774712c3d874f5eeaf40e911078f34ed893fe52638318a2ad07"
+    },
+    "dataList[id=31].content": {
+      "pl": "Na początku było dobrze. Nawet ostatnie tępaki łykały słowa Sonyi jak pelikany i pomagały biedakom z Zaułków.",
+      "kr_sha256": "7cf337b4a43c7329ee5c6ba316655789ef5181d1c3d4286d40dca77cc43e7e13",
+      "en_sha256": "ff8fcff11c91514bfef36049ca03e27f9681687662aafda74062637df9cae442"
+    },
+    "dataList[id=32].content": {
+      "pl": "Ale Sonya zawsze miał taką minę, jakby czegoś mu brakowało.",
+      "kr_sha256": "69554f394010b690c8b7a7ec0d81454de774a4592ffefb401d5bacfa0e90a659",
+      "en_sha256": "b586f992da5adfa758a174f5d25790bf3bf9bea4bcd11af4996fe23b2ead960e"
+    },
+    "dataList[id=33].content": {
+      "pl": "W końcu Jurodiwi, zamiast pomagać ludziom na ulicy, zajęli się już tylko debatami przy stole, jak zmienić Zaułki i Gniazda.",
+      "kr_sha256": "fd48da386ff8d1b4304ee4ed12ad03a8e9645e0976c4be42e3c20b3d3d072b76",
+      "en_sha256": "c0402e63c45b713542a3cabde42fddb95a73b963887047554cadd522d4324e56"
+    },
+    "dataList[id=34].content": {
+      "pl": "Dlatego od nich odeszłam.",
+      "kr_sha256": "63a20b5ede9b995f1cc28e374b5728737d6b92d922e85ee3143013b326ce67b4",
+      "en_sha256": "fa0cea7ec8687e06d3179074efa49a16b3e5df171844324455997534b1406e01"
+    },
+    "dataList[id=35].content": {
+      "pl": "Bo jałowym gadaniem przy stole nie nakarmi się głodnych sąsiadów!",
+      "kr_sha256": "1f19aadddd455d16aa41c75d666e38f117dc595ce2579f8d1e561963144e103a",
+      "en_sha256": "6badeb240296e1ab82b1d2e85332a2202729e95f64146cebcaa95420d705a465"
+    },
+    "dataList[id=36].content": {
+      "pl": "Ale przecież powtarzałem ci w kółko, Rodia. Że musimy poczekać na właściwy moment.",
+      "kr_sha256": "af03649fed88de792317b7ce312fb8ed844dca2e6c5a29b75ca2ae483adbcabf",
+      "en_sha256": "b0f7422e4d71f7134554b536f99d32d6cea84925419f8d6197c5d681ae23f7ab"
+    },
+    "dataList[id=37].content": {
+      "pl": "Sonya, wybacz, ale ten ‘moment’…",
+      "kr_sha256": "86502915f5bb0d3504bdccfde2f3168a0fa33f41fe4704f892d74df492773990",
+      "en_sha256": "95d54492ee11bab1b92600f7f241feedde0f0a35642dbbaf0b4f63643a7812e6"
+    },
+    "dataList[id=38].content": {
+      "pl": "…nie przyszedł, kiedy najmłodszy z Jurodiwych… mały Iwan jadł resztki wygrzebane ze śmieci,",
+      "kr_sha256": "612f964cf5296faadfec0f9f645e8d8eacf323584536e3738633258e216d3200",
+      "en_sha256": "13f9517ac40f870b92ea52205cc90bf3d8f40c4768e286656d7841b436cbe716"
+    },
+    "dataList[id=39].content": {
+      "pl": "ani nawet wtedy, kiedy się nimi udławił i umarł.",
+      "kr_sha256": "4a640c255d84dfcb2e717fc8726958b2931b539d7fe6cfdcfd93c7071f07af1d",
+      "en_sha256": "1013a04a3da3290033a1690339db2d95c9eb88c4cc4e08d39410ea3827b77c80"
+    },
+    "dataList[id=3].content": {
+      "pl": "Czasem, kiedy w głowie miałem mętlik, przychodziłem tutaj. Co prawda nie ma tu fotela ani whisky, które tak lubisz…",
+      "kr_sha256": "f75273d13bb6b36224dd3a2b51da362e7e97182f576ae247d810eb19dd62104f",
+      "en_sha256": "3142acdb9d7c15791fe23bc71abf3700e3d76e5c6c44ab6cff22d3d15e7d3eda"
+    },
+    "dataList[id=40].content": {
+      "pl": "Wielka sprawa wymaga większej siły i bardziej szczegółowej polityki. Mówię o redystrybucji bogactwa.",
+      "kr_sha256": "1ce534396ea1a74d18e435ff201859cbe352503a3a05d909a908e7bb114346b1",
+      "en_sha256": "67b377b5eb05d097c98667197c67bdaadfc36fadfc275dd047effedb3bd84f80"
+    },
+    "dataList[id=41].content": {
+      "pl": "A na drodze ku temu zawsze zdarzają się drobne zgrzyty.",
+      "kr_sha256": "8c3551dccd81e51dfbe22680ec52ea55bdf1cd12d85b0beaffe2a1edc191c24f",
+      "en_sha256": "102c13fd1b80323cb3ec3f990eb3c97af8a75a87239b18a57e8f7643ebc23c32"
+    },
+    "dataList[id=42].content": {
+      "pl": "Drobne? Przecież zaczynaliśmy po to, żeby pomagać właśnie drobnym ludziom.",
+      "kr_sha256": "0d485c3da8cc314af50245acb11aa918b0ba7c69a7c8a0342ccb3078795960b7",
+      "en_sha256": "74440c6ff928db1bc6676ec68ce2381471700910fa569b85bb8c295b54b690d4"
+    },
+    "dataList[id=43].content": {
+      "pl": "To, co robiłeś ty, co robili Jurodiwi, szło w zupełnie inną stronę, niż chciałam.",
+      "kr_sha256": "4d8eee3f1d6355952a54ac5353cbeeb03d5d95713dc15e25ea50c0e3b3ae7bae",
+      "en_sha256": "84b3078aaf1bfacffda436b3dd0ecdde92ddd6fbdad286b3fe7006fbed29c8b1"
+    },
+    "dataList[id=44].content": {
+      "pl": "I dlatego postanowiłaś wziąć sprawy w swoje ręce?",
+      "kr_sha256": "84c573a37d1e7adbd86c18bb8aa1beb0fa50b965b785beeecfb3c6450fb6f1ea",
+      "en_sha256": "e5e2eac0bae62b1c52c8d4e5c33881bea947ed7bef97d8a702b499bbcd8eaa6d"
+    },
+    "dataList[id=45].content": {
+      "pl": "No jasne. Nasza dzielnica potrzebowała…",
+      "kr_sha256": "33ce5dadbf292e6207a2ffb1248fd44e42a2a4ee8f881ba2de4fc97a33d2723c",
+      "en_sha256": "0181b92f2a1d4dbb8ac87bf28c1368269380d7bfef8ff4e00deff58593e5f616"
+    },
+    "dataList[id=46].content": {
+      "pl": "…nie kogoś, kto siedzi z założonymi rękami i czeka na moment, który nie wiadomo kiedy przyjdzie,",
+      "kr_sha256": "f9b79fb7f418661aa85b6343fcbe8c5c0786dd1da478a2e478b8ab266afaecda",
+      "en_sha256": "3d9b5f8d82e319cf4ba6605d60928bf30215cdf6d89927e88ae1230616b4ced8"
+    },
+    "dataList[id=47].content": {
+      "pl": "tylko kogoś, kto bez wahania podniesie leżącą przed nim siekierę.",
+      "kr_sha256": "dbabb66f354245f4ae247dc7bcec86ce5768e455336131d1d59d0b912c12b015",
+      "en_sha256": "e2137f5426bf2e9f9b55590d48f4d176e7ecea578cf7b270695c32ed9f739dcf"
+    },
+    "dataList[id=48].content": {
+      "pl": "Tamtego dnia też większość sąsiadów głodowała pewnie od ponad czterech dni.",
+      "kr_sha256": "d89e047f78057a3d9422e49d4109097fd427da751abbb27d291c11499fe16ed8",
+      "en_sha256": "80f483f9ff39cc5d27006ea15b70386f55ed8765e983e5689c0b55e174d70166"
+    },
+    "dataList[id=49].content": {
+      "pl": "A mimo to wiatr był ostry i bez cienia litości drapał popękaną skórę wygłodzonych.",
+      "kr_sha256": "8134c3da6590807291a1fae3eed5e003ab3254a85b9d958a9f5f1c5a496686d8",
+      "en_sha256": "eb083cad8ab3607689ad516139d15d9b6040ea549feabab0b784b6fc45807d42"
+    },
+    "dataList[id=4].content": {
+      "pl": "…ale chłód przenika tu nawet przez najszczelniej zapięty płaszcz. I dzięki temu myśli stają się jaśniejsze.",
+      "kr_sha256": "4534b9a4f8146c1d8608947761b02a0b6ea4e96bbb831957f893398400495f49",
+      "en_sha256": "88b12c295037b1ca4a6228a3d69dea43881b6dd1d3edc9eea4e24cc395ab3a76"
+    },
+    "dataList[id=50].content": {
+      "pl": "A ja wiedziałam o kasie, w której było tyle pieniędzy, że nasi sąsiedzi mogliby się objadać do mdłości przez trzy dni i trzy noce, a nikt nie zauważyłby ubytku.",
+      "kr_sha256": "c699d676cce20b6e5e871506b4086837fa72c796ee1f44562fddb4de61c173e4",
+      "en_sha256": "ce205253cbbeb8039e2b1472006de5297b90ee7dd6434b4390a7495fe66978f1"
+    },
+    "dataList[id=51].content": {
+      "pl": "I co zrobiłaś?",
+      "kr_sha256": "0f94861ae36e0eaf17eea90ff5a6f92e2ac635adfabb25c92ef18dc4e0dc3f05",
+      "en_sha256": "af98423ee42ac8078a1cbb836d737519bfc9fa254d1003b7700fa41536cb1055"
+    },
+    "dataList[id=52].content": {
+      "pl": "…Chwila. Mogę już przestać?",
+      "kr_sha256": "02df4d629fd3b6421712e38494c58fe9a4674eaf0978b67bf789353ce0bf8a8b",
+      "en_sha256": "c3d3ea703cb15df6591a83e18370906dd3e90637b339cb4f033f1756452f65dc"
+    },
+    "dataList[id=53].content": {
+      "pl": "To miejsce to rodzaj konfesjonału, który powstał dla ciebie z rezonansu Złotej Gałęzi.",
+      "kr_sha256": "196af8f5bd3032083907b3f25d1b67ef605d71e88b0e2e0120a2bbd9fd8b0c45",
+      "en_sha256": "f66949d6169d626889c6f5e791e41c97a8491112e49d03c26b08ca7665756449"
+    },
+    "dataList[id=54].content": {
+      "pl": "A konfesjonał istnieje przede wszystkim po to, by grzesznik okazał skruchę.",
+      "kr_sha256": "419cbff80b43fd9fcd7fc597cec7f6c8692e2d12f2d2dcaa5102a2578a549dfc",
+      "en_sha256": "47d53a893537783155f86a2210b6dec00e258138e4c7b094c3b76b9c241afe35"
+    },
+    "dataList[id=55].content": {
+      "pl": "... ....... ... .... ....... .. ....",
+      "kr_sha256": "8e5195910266cde8d604750533ef1d866bbd93a1b066c13186251a87199422fa",
+      "en_sha256": "8e5195910266cde8d604750533ef1d866bbd93a1b066c13186251a87199422fa"
+    },
+    "dataList[id=56].content": {
+      "pl": "Gdyby ta starucha chociaż na sam koniec zmieniła zdanie…",
+      "kr_sha256": "921bb239ac8db8b3133135e56c09354f4ce3a26d9039006b41d062f46e760acb",
+      "en_sha256": "2c8b03e3236c941a07671b671d675ba38f800664a0cb7f2aab80ee9a23188996"
+    },
+    "dataList[id=57].content": {
+      "pl": "Ale Rodia…",
+      "kr_sha256": "6e3145ee2d63c5e60d11e85e9290fae6175cf17e38c99b92ac8f02ff35b04570",
+      "en_sha256": "3f46df459da6a2acef9d79446b5b4e5f82875e95809587ba0ffd14518d234b5b"
+    },
+    "dataList[id=58].content": {
+      "pl": "…przecież wiedziałaś, że starucha, która całe życie tylko łupiła sąsiadów,",
+      "kr_sha256": "2d1c12843817417d4c333d3ceec539663ee81099935f97927900eef8e00f078a",
+      "en_sha256": "a73f485fbfb7fbad5da49744ab24cd9c001daea39ec5d30d1b7cb37a02c60c27"
+    },
+    "dataList[id=59].content": {
+      "pl": "nie jest kimś, kto nagle wszystkich ogarnie miłością i odda swoje pieniądze.",
+      "kr_sha256": "cc8dc13aed9fbd72dface9f86a9a0299f55cea7bd244969af30cac7292deb982",
+      "en_sha256": "12fa560fa916dfbb6b6cda639a35f045e9adf87853eba322bec8303b38da2528"
+    },
+    "dataList[id=5].content": {
+      "pl": "Kiedy staliśmy jak skuci mrozem i tylko na niego patrzyliśmy, Rodion powoli wyszła mu naprzeciw.",
+      "kr_sha256": "962612732f596231bbbd6a869f5219867436c30acc4bf27ef508bebdd57271b4",
+      "en_sha256": "4d063f22c37713da6f3b54d66462afedeaa80ddc9f0726622c17d6865fb4e224"
+    },
+    "dataList[id=60].content": {
+      "pl": "Gdybyś myślała inaczej, nie brałabyś ze sobą siekiery.",
+      "kr_sha256": "d983ec6164a4a3bbb09281ce502e87bf292a5d7e6a0ce6d1c470f6e76ffa9412",
+      "en_sha256": "df14c1f252732f0ede68f97f2fcfef12990d7ff307ac5e9dee4fede8660186b8"
+    },
+    "dataList[id=61].content": {
+      "pl": "Biedactwo z tej Rodion. Pewnie ci się zdaje, że jesteś jakimś wielkim zbawcą…",
+      "kr_sha256": "ab036cef540afd0aad009cbb0127a47f4ad4b25780c7f0e575c67c3500744173",
+      "en_sha256": "22beba94187b24c62891b58e2e81b0196ee8927e346c7d5ffc25f61e7ae72f64"
+    },
+    "dataList[id=62].content": {
+      "pl": "Choćbyś nie wiem jak hardo żądała moich pieniędzy, nic to nie zmieni.",
+      "kr_sha256": "5708c276debab621342c9e7dd9d7d09c15cd335c4fe29e23b421923fc3b5c637",
+      "en_sha256": "31bcc4d2172453245e4b055fe535f8c9c50b4adfd9d1c4197a670ab9aabaf58e"
+    },
+    "dataList[id=63].content": {
+      "pl": "Wy też jesteście tylko wszami, niczym się nie różnicie od tych żebraków z Zaułków.",
+      "kr_sha256": "472965b463458f99be8b9c68ccdfc7b9b67c5bc7f783a130f85e02d1b5eb2983",
+      "en_sha256": "52a4300df192208215431be587fead16fe9b73256f7c57908e32bdab934801db"
+    },
+    "dataList[id=64].content": {
+      "pl": "Tak.",
+      "kr_sha256": "47dd1707211c7354d813fcd6c66319369aef44dca3d28aedf2278035f5fb055c",
+      "en_sha256": "e75e93714579140c669f2f81cf5799c17720d240f8afb9a57860b8ba6d5f0748"
+    },
+    "dataList[id=65].content": {
+      "pl": "To ja rozłupałam jej głowę.",
+      "kr_sha256": "ba6c95ec83463b4c6743ff5236a886440fcd77549550c0a71fe154da3345b8a2",
+      "en_sha256": "a04d99c5ee49112cb175a531eb921e346a242e68e40a34a6f0aca03bbc90692c"
+    },
+    "dataList[id=66].content": {
+      "pl": "Jak rozcina się brzuch gęsi znoszącej złote jaja, tak ja czysto rozpłatałam staruszce czaszkę.",
+      "kr_sha256": "08e40e2bda72879cfe46864803eafda09a1cc3dea3fa906cb6211e9186aa1ec5",
+      "en_sha256": "5d6e27ff8a11aaaf111a7c4231c020a2533a5d63f7d3f0054eafa9be5db966cc"
+    },
+    "dataList[id=67].content": {
+      "pl": "W końcu ktoś musiał to zrobić. Nie?",
+      "kr_sha256": "baf230aa09606e8ab19799db7913effe8f765c106862e1b97f71026fca87cf42",
+      "en_sha256": "b345f9aac8eac72c6e9fc5deeeb3fd9b469229743db54983a9edfb3bea4e2ce1"
+    },
+    "dataList[id=68].content": {
+      "pl": "Bajka o złotej gęsi opowiada o głupcu, który przez własną chciwość sam pozbawił się szansy,",
+      "kr_sha256": "a530274c1413ece1de8e8172064bc7cd6314f5900340ffc32789b37b40e4febf",
+      "en_sha256": "867e6b5ba135cad01cf2f341916b85efb9e1502d46d8909bf16bc069e398d643"
+    },
+    "dataList[id=69].content": {
+      "pl": "ale my byliśmy biedakami tak wygłodniałymi, że nawet jej wyjedzony mózg by nas nie nasycił.",
+      "kr_sha256": "ba23ad815187027921b3e28daf2e19c357a22ec615004d4cddac450f760e5e00",
+      "en_sha256": "b02caa62412e85a4c4a3412cb305f470a32f67bc5c7f08c584142cfcccd7c94b"
+    },
+    "dataList[id=6].content": {
+      "pl": "Nie spodziewałam się, że będziesz tu pierwszy.",
+      "kr_sha256": "fae0f1ad467b4968a78abd51246a92dad6731005e2a6cb61c95ab599a6931c6e",
+      "en_sha256": "da1d627c7a36669aeada0e1cd27f3eee06cb9fffe526479a3bc0b0d6f0d953bf"
+    },
+    "dataList[id=70].content": {
+      "pl": "A w tym brzuchu naprawdę było pełno złotych jaj.",
+      "kr_sha256": "5bab9d4b36590fc199f44be80a27a15452752cdde12cd0b90edc788fac045c46",
+      "en_sha256": "f45abc106f56ce703460b396e93569866c6a28f3718f082b53c6397306d3c2b4"
+    },
+    "dataList[id=71].content": {
+      "pl": "Tak, ta staruszka była poborczynią podatków z wielką władzą w Dystrykcie 25.",
+      "kr_sha256": "783d793e66b287fa741dff1b16b6d369f52f3ed2c68145143da42cd1a934942d",
+      "en_sha256": "fe6fe85872da704956a129f957831bee6d35a9db73aadef45c742b2387f9d69e"
+    },
+    "dataList[id=72].content": {
+      "pl": "Ale panoszyć się mogła tylko dlatego… że ktoś z jej rodzeństwa należał do ‘Środkowego Palca’.",
+      "kr_sha256": "e5d6aa0e3947526f5486f148d92efb6645e21a8b83b9020799ea2a36819cedd6",
+      "en_sha256": "f8b2e132a64ed99ce1acc9d76ef2210c17e9ee04caafac5a3400b0a2d6186822"
+    },
+    "dataList[id=73].content": {
+      "pl": "Ja… podniosłam siekierę dla sąsiadów, którzy umierali z głodu. Co w tym złego?",
+      "kr_sha256": "6d8a524e14bb5737935b5e3cfa5654e6ed26e69838b929a69a403a80eec5c141",
+      "en_sha256": "55dd04d248566531c38e1561f8cbf980b28a2760320d3594b2800522058d79d0"
+    },
+    "dataList[id=74].content": {
+      "pl": "Nie, zrobiłaś to dla siebie.",
+      "kr_sha256": "1004cefa836fdadb93856030b84e461d944213fd5398826a660ce094a1e1c490",
+      "en_sha256": "853167880f9198e50fefab22a3d04a064dc68df59ae7f33f66c66533ca075c9c"
+    },
+    "dataList[id=75].content": {
+      "pl": "Nie mogłaś znieść myśli, że jesteś tylko zwyczajnym człowiekiem.",
+      "kr_sha256": "c7dec32574606310365f3617af10a9f67d8977f6915a735ff0495e81f8f06e38",
+      "en_sha256": "3c059a9519976932338f08eeb08e66334553ab8e55809794d19d87399f925ae7"
+    },
+    "dataList[id=76].content": {
+      "pl": "Wiesz? Środkowy Palec… nigdy nie zapomina tym, którzy tknęli kogoś z jego rodziny.",
+      "kr_sha256": "3467dc8e4926b9c1f628681ee450d55ef7580bed60732194c5933de5541d9aff",
+      "en_sha256": "750d348ce109cff81abf5ca1f6ea02f88b1dbe5b904c83ce52b95174b0988908"
+    },
+    "dataList[id=77].content": {
+      "pl": "Dla nich ważne jest nie to, ‘kto’ to zrobił, tylko to, ‘co’ się dzieje z tymi, którzy ich tkną.",
+      "kr_sha256": "2e2b72b87ce9c1cafcc23f7a00f937de5e836eb2bea53bc8206d7c6b3c44fade",
+      "en_sha256": "ab44800b72764a0fe9edbcdb23c2ca76b20f682c1341c6c9528600a18744fa0e"
+    },
+    "dataList[id=78].content": {
+      "pl": "Mieszkańcy Zaułków, uradowani, że pierwszy raz w życiu żują porządne mięso, w tej radości skończyli jako trupy ułożone w wieże.",
+      "kr_sha256": "16fc1974380a9b45c7fc069bea6a604ab0c71468abfc53806d594f037ae8072f",
+      "en_sha256": "12a5361cac04e830687dcbd107aea6d6c9805df9d998138c5e55c5e1238b961c"
+    },
+    "dataList[id=79].content": {
+      "pl": "Zupełnie jak te wieże z aut przed kasynem.",
+      "kr_sha256": "3b8ae52f22ba899ea5efc5123e5d2e8029f0fb657756a595fb2336e61b817ed1",
+      "en_sha256": "1062532f7b27d161c97c9e7f8fb78652522713eacfde835e4ce91256074ef0b1"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ja i moi ludzie od dawna znaliśmy skrót, który tu prowadzi.",
+      "kr_sha256": "9b58739d9f6c3c38ce2bcf22c508c0433a25859010f18b3498e0f98ba852eb57",
+      "en_sha256": "80d6102026fc78204af719f5e093c97c4de8dd81471d0c18472562aa43150d3a"
+    },
+    "dataList[id=80].content": {
+      "pl": "Wiem, ile od tamtego dnia przeżyłaś bólu i jak przytłaczało cię poczucie winy.",
+      "kr_sha256": "dc7c2f2053e92cd736549caff65c61ac5a969625c163eb3ff02444b023a8e5ad",
+      "en_sha256": "7e3a72fc2633210050df396b5f56a174e3b960fa96ccc9b129042481a8ce16b5"
+    },
+    "dataList[id=81].content": {
+      "pl": "Kiedy zrozumiałaś, że niczym się nie różnisz od głupca, który rozpłatał złotą gęś.",
+      "kr_sha256": "25e9d6528f28833df8ce2d41981822db2eb6c66d2738796d72d8b94a4a57927a",
+      "en_sha256": "bff8dff503c0a64b3cab06e68ac7f474a32d611cf2c1bc07b7d3466ee96b45c9"
+    },
+    "dataList[id=82].content": {
+      "pl": "Od tamtego dnia… nic już nie wydawało mi się naprawdę moje.",
+      "kr_sha256": "d54e1e8e195a5fdf27ab9218944b2ffa8f62db073830af6dd5be66f2ea11d78b",
+      "en_sha256": "97957989ef2c390877f821da1be0d73e62f691483bb714d5af0f940c9096e743"
+    },
+    "dataList[id=83].content": {
+      "pl": "Wszystko przeze mnie…",
+      "kr_sha256": "0b2f539c8703ca9e9449d3c09c057b97825e51e8bbc81e71fd2831550a0e89cd",
+      "en_sha256": "e3b39106aed09d608e15cd66bfb327e5070f57e81557d7ebc136de482caf8db7"
+    },
+    "dataList[id=84].content": {
+      "pl": "Już dobrze, Rodia.",
+      "kr_sha256": "7e997dacfa896aa3ae109b66f864500423534adabfcfe3bbcab3124dc67bce66",
+      "en_sha256": "0594da4b61f3e6f11948bb61c39eedd5876886d0f11a3334b85179e0060e899f"
+    },
+    "dataList[id=85].content": {
+      "pl": "Wiesz, Rodia…",
+      "kr_sha256": "afed6e510ff7f5b592f551766c656688d604e7b03f94075e5c0dfd7fda0256bc",
+      "en_sha256": "ef4a031b8d4ef62937b7ab9a82894354cc828e940b324e32a29f77723deb92fb"
+    },
+    "dataList[id=86].content": {
+      "pl": "Żeby zmienić świat, przeszukałem tysiące książek, dziesiątki tysięcy dokumentów…",
+      "kr_sha256": "a3b3bd3c50b4ddac71a9eb854aafc5fbbb1eb993906f6f47fbb954644133026d",
+      "en_sha256": "be0c840829dd58fa4fe4ba59960d771ad594a56130061d1050cfaea1a7364166"
+    },
+    "dataList[id=87].content": {
+      "pl": "…i spotykałem się z ludźmi w całym Mieście.",
+      "kr_sha256": "18e66fe814e77160a55691cb7f83e2f46d359fcfd4b175f8cfde9198845844fe",
+      "en_sha256": "b6c0cf75eab0adac9d35cde7f8ade2f1f64a5e5750ba2367406b3ab5b60dae4a"
+    },
+    "dataList[id=88].content": {
+      "pl": "Świat, w którym uciśnieni wyzwolą się wreszcie spod wyzysku klasy panującej i zdobędą prawdziwą wolność.",
+      "kr_sha256": "b52600c7ec472d5d4eb7f6d36afc4d65fbc4454e5dbba83aafef5268418a5849",
+      "en_sha256": "c55c170666c03511a8150b0313759437527c8bfd8124c3a781106d8761978bab"
+    },
+    "dataList[id=89].content": {
+      "pl": "Chciałem zbudować taki świat.",
+      "kr_sha256": "0d917babc518f1f8fc0aa56d7d4d034917a90e9fc29fad3d4fd94e6e1e3dceef",
+      "en_sha256": "af76f70130927633e32f7422cd5ef3e2d9cc6cbc9d70d75f756afde675345e84"
+    },
+    "dataList[id=8].content": {
+      "pl": "Dowiedzieliśmy się o nim od tutejszych nieuczciwych typów. O miejscu, w którym pogrzebano wielką siłę dla wielkiej sprawy.",
+      "kr_sha256": "9de084bdb5337215709f76ff4d2bfe07396a1ba445df0987f28abf7f7b007f08",
+      "en_sha256": "3d64d74ac31e5c73af0714905257f6028d5be221a036bc48d997fc14a06f164f"
+    },
+    "dataList[id=90].content": {
+      "pl": "Ale odpowiedź nie leżała w ‘zmienianiu’. Źle zapisanej strony nie da się już cofnąć.",
+      "kr_sha256": "b0472896a2fb62de13a698bd107fbc9c09414524cb00c0c0441c0c1ad69868d6",
+      "en_sha256": "85fe50e67a2fc6cfa343ee91230f5b375726fbbd6580bb4fa8967013f9c21a26"
+    },
+    "dataList[id=91].content": {
+      "pl": "Spójrz uważnie. Oto świat, do którego możemy dojść, ty i ja.",
+      "kr_sha256": "f456d9fb4cd5afd1e99e778340d2d166d37ecf0a1edfb34f0c4fa629a61327e7",
+      "en_sha256": "7c47835d77288decddf47d0df5799c8caab790530b6b730f96dce23f78538dae"
+    },
+    "dataList[id=92].content": {
+      "pl": "Świat, który można zbudować… dzięki Złotej Gałęzi, z którą zarezonowałaś.",
+      "kr_sha256": "6f781e7aac06935d930e50d071b460fde90dab065cc0ad838fe82f306227b2f4",
+      "en_sha256": "9b9b349dafccb9022f528313845ab9dd2d9f39052bbff4d92811d0775fef6885"
+    },
+    "dataList[id=93].content": {
+      "pl": "Niechaj na ziemi nikt już nie głoduje.",
+      "kr_sha256": "3655380cc502b7c2f8cffd4226bc4cd0c4f4f615676fb3b03d1198af38835a45",
+      "en_sha256": "d7cc66f05a85f01986888bab830b1ef8c14381a013c839a267c8fabc4d4070dd"
+    },
+    "dataList[id=94].content": {
+      "pl": "Niechaj każdy ma prawo do rozkoszy ducha i umysłu.",
+      "kr_sha256": "d144ccf1b0bd5edf400cbf023a05c651885cb16dccb517eddee57ce1542512d3",
+      "en_sha256": "dea6f3d78d6162d08316f09df773dcf5b2d89ef1a65382b3888ee06c7b9faaf2"
+    },
+    "dataList[id=95].content": {
+      "pl": "…Jeśli pójdziesz ze mną, dam ci ten świat w prezencie.",
+      "kr_sha256": "401179c5df5cfda82181994960c2f993ed6f06ebfcb2fe1ddd018a40f3614279",
+      "en_sha256": "3c51e510b253fd9f55d77809bdddf825fdf8a523874ce0a40d0c2d3de3bf5c01"
+    },
+    "dataList[id=96].content": {
+      "pl": "Tak, jakby od początku nic się nie wydarzyło.",
+      "kr_sha256": "9a8c5b5a1adc29b14795222793491d038b5fe0aad2879b40e4128f8fa093a80a",
+      "en_sha256": "fe46643330eaedbaeef392afe13faef43fd4f6a09b8b020bdefdc0abf64a83f3"
+    },
+    "dataList[id=97].content": {
+      "pl": "Ach.",
+      "kr_sha256": "df2132c55e071020e61238c28e57da03164d821b974da358cb7f6b6d12170127",
+      "en_sha256": "62991c199e7fec0ffbd83281fe8a6242e522309d690b4898d85b2dfd787d995a"
+    },
+    "dataList[id=98].content": {
+      "pl": "Któż by to zrozumiał.",
+      "kr_sha256": "5b5792d3c6791c0f12bb3cec546506fcae77a84f5565988776eb7400882c4d7d",
+      "en_sha256": "2472d6076675784458d575debf2b9792c958652a272de73c7b4e2a5961906b6a"
+    },
+    "dataList[id=99].content": {
+      "pl": "Ten świat, którego zakosztowałam ledwie przez chwilę, był zbyt piękny, by mógł być prawdą.",
+      "kr_sha256": "b8f6043f992e37aa84be0e9f693e3ba0ff76c637264c5baee10aa6a144d4abd6",
+      "en_sha256": "1545ca70bcd6274b481079182b58e17f6dd6feda6536e222c7fb14273576ed2b"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ale dotarliśmy tylko w pobliże miejsca, gdzie pogrzebana jest… Złota Gałąź, i nie widzieliśmy sposobu, by pójść dalej.",
+      "kr_sha256": "1ca64fc6d1203b940543d1869990fa485d7c806df4efa86352562e485c82a0e9",
+      "en_sha256": "360c7f84efeb521a02326ae31ea519793858f6d00c7436c30d890e1424a39d23"
+    }
+  }
+}

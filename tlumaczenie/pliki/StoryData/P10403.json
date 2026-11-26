@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Dziecko rzuciło spojrzenie mówiące “patrz uważnie” i wypuściło kłąb dymu, którym miało wypełnione usta.",
+      "kr_sha256": "05a8a154c7f81c9bf927efd4c82ad9fb4749564ac86e3351cc42f0e207d64867",
+      "en_sha256": "835d935d4c76311d8246a9e989c69dcc2343e39d7a0b908c3e585a6797d69934"
+    },
+    "dataList[id=10].content": {
+      "pl": "Będzie wojna.",
+      "kr_sha256": "1b931ed9493fef88315323a549537dafa7b128406fe3e506717db6038ca2a307",
+      "en_sha256": "ed282a1c5bd21404f1894360a955927e0a2d8f0d1b94af297e545ed49a43724d"
+    },
+    "dataList[id=11].content": {
+      "pl": "…Rzeczywiście dobra wiadomość.",
+      "kr_sha256": "69b2b9337f0fc80f50e358df4b217a02eff14de8df55015e98aceb9f81d75d85",
+      "en_sha256": "1cb210bee6644de05f5cf750389b929761a354aaa858493b429c61be7373932e"
+    },
+    "dataList[id=12].content": {
+      "pl": "Oczy dziecka się zwęziły. Kąciki ust już się uniosły, a palce zaczęły niecierpliwie drgać.",
+      "kr_sha256": "120325e391c1fcc3a847ac1aef56c16630e599110398276a41308dff0bbd79f4",
+      "en_sha256": "523532b020d96836b9d29b8051aa7817f01cd22bd2488842e29c234a2bd4d6a8"
+    },
+    "dataList[id=1].content": {
+      "pl": "I co, hosa? To już prawie sztuka, nie?",
+      "kr_sha256": "4fc0a7769dad098687d6939eca1a4b31dfe349920d7211cbd2c6ba51acae2491",
+      "en_sha256": "90d33e801657a7e27fc5e5cf854f3e1a5467e48d3945eea2e1ac9755c5d4c216"
+    },
+    "dataList[id=2].content": {
+      "pl": "Obłok papierosowego dymu przepłynął przez ostrze i równo rozszczepił się na dwie smugi.",
+      "kr_sha256": "bea12b62f79ae450dbee326dcc5f9243fe42003c550c362d60ce1582d032d4b1",
+      "en_sha256": "4ab0429ab73afdddf793eb5164867d93969283a5869bd05173b416d09acbc0e7"
+    },
+    "dataList[id=3].content": {
+      "pl": "Cóż, trzeba przyznać, że z mieczem to ty umiesz.",
+      "kr_sha256": "aa08da1b58631d7650d7ac6e83ca938e93ce018c553af2c81bfc3dfb9a9c3297",
+      "en_sha256": "e7978b992b1ac4c41e2c57adb0b75c030bd5d8a9f5802adb8354784f8a4e73c3"
+    },
+    "dataList[id=4].content": {
+      "pl": "Zresztą, gdyby nie talent, za takie zachowanie wobec hosy nie skończyłoby się na obcięciu palca czy dwóch.",
+      "kr_sha256": "df9a3d05ea2c3b55189af47acafa0f6c7404072a4a775b55e29f8ea7001fb063",
+      "en_sha256": "666f4f1f6d17266b641e97321de718d0c548c36dc1872257c07cb44fa29da0e8"
+    },
+    "dataList[id=5].content": {
+      "pl": "Jak przyjdzie co ciąć, to daj znać. Mam już obmyślone, jak to pociąć.",
+      "kr_sha256": "e78077bec78e712a0aa8d4a8c2a065299991d457da38c346bf9adfa53759e52f",
+      "en_sha256": "f31b85847a1e0283300756724c10fe922d32d361813f406b32f413894fccff45"
+    },
+    "dataList[id=6].content": {
+      "pl": "Hosa uśmiechnął się gorzko.",
+      "kr_sha256": "953d1c24c460d4eeb1bf4526c5d9706706fda15a966ab2da4b12570ee88c1809",
+      "en_sha256": "42a02f64897426bec29509c624db6971c04afda42c0fa1acd97668f96687cfb9"
+    },
+    "dataList[id=7].content": {
+      "pl": "Może to dziecko nie tyle było wyrozumiałe, ile po prostu nie umiało sobie poradzić z dzieckiem, które z czystego usposobienia tnie dym papierosowy.",
+      "kr_sha256": "207caf29d2d19caba2594b1646282619ac83493d2be4740c25ff7180e778bede",
+      "en_sha256": "7cf77f8073afedf7b4bd7935558bf4b1f26e6300b7f82d792080c7f3603e002d"
+    },
+    "dataList[id=8].content": {
+      "pl": "Mam dla ciebie dobrą wiadomość, Ryōshū.",
+      "kr_sha256": "fa6369aa87faf1f77520d7f8e4d59f90b8d6be5858ac2eefaf4117b15c62cf5c",
+      "en_sha256": "1f744a81ce589974cf8813fb83a9ed9907d02d92f6087971a2fcbf663187c514"
+    },
+    "dataList[id=9].content": {
+      "pl": "Hmm.",
+      "kr_sha256": "e451aab85b1a83319999674a68c37baee72ab58737dc88c64e6c463723fff9d1",
+      "en_sha256": "b2587341de70f8afaa337042aeed5d13a2e461eef6d162b4376c8a98f94646b3"
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Grzesznicy byli wyczerpani i poranieni, niektórzy nawet martwi.",
+      "kr_sha256": "19ac71b44d75f8ac7f37e99474d0a7c88e2d5a6e1b1490d4a1980a9f9697034b",
+      "en_sha256": "d4c4ca5858a6f4113e89baa748aa5f69dd2d71a2aeaedd785aa2aba5e13a745b"
+    },
+    "dataList[id=10].content": {
+      "pl": "I w jednej z nich widziałam, jak razem chodzimy po wszystkich Gniazdach i siekamy na kawałki wszystkich heretyków, gdzie tylko się zalęgli.",
+      "kr_sha256": "0cb7bb244f1749e5d6d8359c1d1df4af35e62c2c80010356ecbe3e7d4d66fb94",
+      "en_sha256": "d135e4cc8d75789a86dca52522ffd34beb028f93abc3fa5a444843db669da22c"
+    },
+    "dataList[id=11].content": {
+      "pl": "Wyrosłeś pod skrzydłami heretyków o obrzydliwych ciałach…",
+      "kr_sha256": "a359409a16d7afdda628fef23d2d5446e1d643f519e8f17884bad3434878115c",
+      "en_sha256": "363e4caa7068fece3622a92d86195a8628ce89f4528958992454eabe5ff7de52"
+    },
+    "dataList[id=12].content": {
+      "pl": "a mimo to potrafiłeś się nimi brzydzić. Zabawne, nie?",
+      "kr_sha256": "af73d07f3f1e70a85727350f9b9f1cd7abba416d41223496b8bc974c210f9e9f",
+      "en_sha256": "2a62266ae6233142231231980388efc3fcee6eaec39ca2538b23198ca0ace471"
+    },
+    "dataList[id=13].content": {
+      "pl": "Ty przebijasz heretykom łby swoją halabardą!",
+      "kr_sha256": "a898ab6f068876f492b35f9557162c7a9d28377f7a0db2b046cf1b1b33d6b43b",
+      "en_sha256": "0d5152c842e40ab8f106444b107f7447a2337f5ff1b08de9e17e8ea0fec2bbc4"
+    },
+    "dataList[id=14].content": {
+      "pl": "N-nie kłam…",
+      "kr_sha256": "ab68abb6ce797efa0de5e7b4a3bba10b2b40b775ae57668122414ecd7fb9dfa4",
+      "en_sha256": "8caaf3e8e683b245999dd24bf9fc00fa3d038a1430d0e2fbfd1666387aef0d83"
+    },
+    "dataList[id=15].content": {
+      "pl": "A ja z radością roztrzaskuję im czerepy młotem!",
+      "kr_sha256": "3a6f2f02c8bf6e37be564d41a545727a0e6b07b44bd91591dab32a29fbfa652f",
+      "en_sha256": "114f52f814604a1e6b1ae02e6e09d8e6110cff12bd3d28bd4098d1194dfb215b"
+    },
+    "dataList[id=16].content": {
+      "pl": "Przestań…!",
+      "kr_sha256": "12ba09eae9f198c23842277d0cd5b3ba4101e66c5fd6b662b45739d1ab1f5bcb",
+      "en_sha256": "20685871b9dd9fff79d8994c3ebe0997c46b7c19f16b081cb91e43eab0e7d23f"
+    },
+    "dataList[id=17].content": {
+      "pl": "A, ha, ha… W tamtym świecie wyglądałeś naprawdę, jakbyś był wolny jak nikt inny, jakbyś wzniósł się ponad wszystko.",
+      "kr_sha256": "47f0c45444c68075edbf272444e1110672677785cf974983c5a2346cbe034708",
+      "en_sha256": "6fcf78bbbe51af2f0517ac3ac6b6ea925884f21208e3d1a2572d03bb23a0f8f5"
+    },
+    "dataList[id=18].content": {
+      "pl": "Nie…",
+      "kr_sha256": "6b7e195ec790f142e7717d54915508d9c093c808aa6da083542e8b2015e736e5",
+      "en_sha256": "083035b7e7a1ccf56c2e07fd3828e6d1fc7595194c38c6f1acb927505831a3b3"
+    },
+    "dataList[id=19].content": {
+      "pl": "Kłamiesz!!!",
+      "kr_sha256": "e4d33219e9aa69307f3683fadaaef1ad997a736cac7adc33819a3685b0d30fc8",
+      "en_sha256": "48ae236498eee7b3ed667450c4677c3f396050b4854883e049061a3ddf551f52"
+    },
+    "dataList[id=1].content": {
+      "pl": "A Kromer wciąż triumfuje; wyciąga rękę, jakby ogłaszała wyrok śmierci, i przeszukuje wewnętrzną kieszeń płaszcza Sinclaira.",
+      "kr_sha256": "6120725900d6abc11d78c3848c522fd9dfe33ae765509df55c5eb92a1d7dd08e",
+      "en_sha256": "562e6cda1ac88e62fd65e9c7eae1651ef9db67add7ed9e87f40cfd4fe3718eab"
+    },
+    "dataList[id=20].content": {
+      "pl": "Czy kłamię, czy nie…",
+      "kr_sha256": "f0bdd3dfffe53b25d49d61f6e702ebf1294055129cce135f59acf0a286487535",
+      "en_sha256": "2813b63fb418cd31966598e2dd855ef4af90734347cfdbde0e68bdd42bbff443"
+    },
+    "dataList[id=21].content": {
+      "pl": "Hu, hu.",
+      "kr_sha256": "410ec7412f562e4f32b7dd76364c201c384787b42f765909df26ea6c847bb869",
+      "en_sha256": "b26b12aa75b798c92df539202f230a446c23f682c6827b25b7cd9893c5c939d2"
+    },
+    "dataList[id=22].content": {
+      "pl": "Nagle Kromer wydała z siebie upiorny śmiech i znieruchomiała.",
+      "kr_sha256": "20b884915ee04eb919204818f77809283eaa2d9f5101b1c3640a612b0e60b913",
+      "en_sha256": "2b125808ccbdad1a46f407826f11d386fc6a589871d669dde8079e7a44c3c3e7"
+    },
+    "dataList[id=23].content": {
+      "pl": "<Złota Gałąź…!>",
+      "kr_sha256": "8c39a1a822580b6b8510a302bb364c1181cc9826b34064d5c15b215ae66d35aa",
+      "en_sha256": "33f4ef243fd18cb671d77a384b17e407aba3c30ef384a5a5b1dfbe01ccebe535"
+    },
+    "dataList[id=24].content": {
+      "pl": "Złota Gałąź spoczywająca na ołtarzu zaczęła jaśnieć coraz mocniej, jakby rezonowała z jej śmiechem.",
+      "kr_sha256": "49e113e1ae8b1462cd1651b831a4a2da542e3266f7e8738491725f14d7c340a2",
+      "en_sha256": "1131f20fb84c11ac758c2f283cdc187845c6bf737e7cd3b22ec1ed1eb52e21eb"
+    },
+    "dataList[id=25].content": {
+      "pl": "A potem…",
+      "kr_sha256": "8a62fa3ef191d8f4e4c3af1fdc85ba17125feb0ded7ccde80c9f629f712e97bf",
+      "en_sha256": "f0a99ca0e4e02d297b61f1debeaf5620053f2adbaabcb442dd315cd37ebfdc43"
+    },
+    "dataList[id=26].content": {
+      "pl": "Aaach…! Zaczęło się… Nareszcie nadszedł czas, kiedy spełni się moja ostateczna uraza!",
+      "kr_sha256": "2b40719e1f9a984c426bc36314a02b454c16e750f6aa6e3027a195df451d1541",
+      "en_sha256": "fae3019db27f139b8fff5d9fb72f2561a72fb26e0034794f92e3df9cb92d7824"
+    },
+    "dataList[id=27].content": {
+      "pl": "Mięso oplata dolną połowę jej ciała.",
+      "kr_sha256": "3c244968e1d8448e0b432eb1e86be39d603cc24a2de55ea349e80d5e132eab37",
+      "en_sha256": "91630dabb1c1e6aadbe91f5d3f2bdb701daa7b0ead66d3fed6e1fb54279cd8e5"
+    },
+    "dataList[id=28].content": {
+      "pl": "Z ohydnej, odrażającej masy wyrastają niezliczone kończyny, o których nie da się powiedzieć, czy to ręce, czy nogi.",
+      "kr_sha256": "055d09f9eab11e3ffef7f6ba2b4ec2c19636cf39a295dfb1bb1ffab2b5194679",
+      "en_sha256": "e36376981ae346ad3ef7dce380ff86787b7fb9ec6ed7592b96bb5cda72af716b"
+    },
+    "dataList[id=29].content": {
+      "pl": "Jakby żądza i obłęd przybierały kształt…",
+      "kr_sha256": "09a9b49cc3da263eeb4944af3f0a144ccbdef8b667d097840d6931ada7882ebd",
+      "en_sha256": "29d57e5b29a55708a94ceab86cc86cfeeef762c6a16644fc1d01dac3015ee47f"
+    },
+    "dataList[id=2].content": {
+      "pl": "No, nadszedł czas. Sinclair.",
+      "kr_sha256": "8dad0186581f89caab8e389f5e31394680f3d44f151d5cfd7bf6a675eec9918f",
+      "en_sha256": "972978d742f6d7d9d4145ec868c5038d5003c162aec181afc2468a45fda1163c"
+    },
+    "dataList[id=30].content": {
+      "pl": "No… Sinclair.",
+      "kr_sha256": "d90694ef40f209c502bb07d2962d0b63dfe112d9be57773521d82bdb3563c737",
+      "en_sha256": "a1450fcecd8df562243ec062475961cce5b92b8de36e7a81a18490ada1d23749"
+    },
+    "dataList[id=31].content": {
+      "pl": "Rozedrzyj mnie i wypij.",
+      "kr_sha256": "3c64dddec418b10609711495f40857afbcb376f7280285e58beb9a6aaa1146af",
+      "en_sha256": "37deca6431f8183fe92914f0a217c70de7402cd373a48d371b75c6784a9341c5"
+    },
+    "dataList[id=32].content": {
+      "pl": "Jeśli potrafisz… chi, chi.",
+      "kr_sha256": "3a7538727da1ec4880fd1f34f976e5884c8a97a4dd1fad5a69a444a18ad05778",
+      "en_sha256": "d3d1cb888f2d8ff7e945830e54eb22a06a161295523772312603e3e7dd905dc8"
+    },
+    "dataList[id=3].content": {
+      "pl": "Zabieram drugą monetę… twoją ostatnią szansę.",
+      "kr_sha256": "5b0221abb07a7f83ac6d7b430a1549cf35881ee76ee47099780c867803dc7413",
+      "en_sha256": "a533dbfab27e41e40eaaf5cd739382c0ee360b0ff1420a9c41a22286b3e58fc0"
+    },
+    "dataList[id=4].content": {
+      "pl": "Dlaczego… mi to robisz…",
+      "kr_sha256": "42d3ba2cf022bbf6a7fc27fbd8ed72692f5232c1f25b6e3c72361ad640d0751f",
+      "en_sha256": "b09daaea9b2e3bcbd8bd83c26055bc4bb323304c56842c60171b1de70a78af4f"
+    },
+    "dataList[id=5].content": {
+      "pl": "Dlaczego… akurat ja…",
+      "kr_sha256": "ca7f0063e83f96e822a76328336a417e0c242d6d35f73df19b2774005fd8fdbd",
+      "en_sha256": "dc2e867fc8677bd13a6ca4884338bb995f1477fde4bd4f75257e5961fee6066a"
+    },
+    "dataList[id=6].content": {
+      "pl": "Sinclair, wiesz, dlaczego tak grzecznie oddałam ci klucz do piwnicy?",
+      "kr_sha256": "021defbfa30a493a09b54905183b396751e8421084956d9dc0e78406e02d9fd8",
+      "en_sha256": "289ef93a7888c85f88135572ca7cfb8a8c713e66048e05adebdf9db11f25c9d6"
+    },
+    "dataList[id=7].content": {
+      "pl": "Otóż nie dlatego, że już znalazłam to miejsce, ani nie dlatego, że dorobiłam sobie klucz.",
+      "kr_sha256": "55d0b888f0de3acdaba5d9f424c11da9f6e316b55a717b5d64be7f695339ac4c",
+      "en_sha256": "4adde46e31ec94f2ec39dc78d753aee002b9789837f829706213e4094419ed85"
+    },
+    "dataList[id=8].content": {
+      "pl": "Tylko dlatego, że to ty byłeś moim kluczem.",
+      "kr_sha256": "3fdc72f0b8c5f5854544c4d59d44fc609bbad66c1475c51e451d0d5789244b02",
+      "en_sha256": "f066e7f126433fd1eb84b075ab4b5b0e5756a8ed739a41de416a599eda1a1dd0"
+    },
+    "dataList[id=9].content": {
+      "pl": "Bo widzisz, ja znam sposób, żeby zajrzeć w mnóstwo przyszłości, które mogą się wydarzyć.",
+      "kr_sha256": "69b67f0c6a6b4ec6af3f71430fbb1eb3727614e0b18d47419bf01a395ee3a63a",
+      "en_sha256": "ca59b56451e311d79292293e1a2ba53e888aee89315f68eb74ffb3f48ea12c6f"
+    }
+  }
+}

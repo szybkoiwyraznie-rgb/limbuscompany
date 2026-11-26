@@ -6,10 +6,10 @@ fabuły i lore. Projekt fanowski, niepowiązany z Project Moon. Tłumaczenie
 korzysta wyłącznie z oficjalnego mechanizmu *Custom Language* gry: nie
 modyfikuje plików gry, a odinstalowanie to usunięcie folderu.
 
-**Stan:** cała infrastruktura techniczna (Etapy 0–6) gotowa, paczka `Lang/Polski/`
-i 18/18 polskich znaków potwierdzone w grze (`v.1.119.1`), dane zaktualizowane do
-buildu `26917622`, a pakiet bazowy i pakiet przyrostowy z aktualizacji czekają na
-Dysku na zwrotkę tłumacza — [docs/STATUS.md](docs/STATUS.md).
+**Stan:** pierwsza produkcyjna paczka `LCB_PL_Polski_26917622_v1.zip` (Prolog +
+Canto I–III + 36 historii Identity + Notatki Dantego / Teatr, build `26917622`)
+jest zbudowana z repozytorium i gotowa na Dysku do gry, a tłumaczenie kolejnych
+części trwa — [docs/STATUS.md](docs/STATUS.md).
 
 ## Dla właściciela — co zrobić teraz
 

@@ -1,0 +1,269 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Hej! Kończcie już. Zaraz zjawi się gość.",
+      "kr_sha256": "86182388e2d0566750873393da30b071d5519bd1272c3b1e6e3aeb174d4b71c9",
+      "en_sha256": "c7d07fd3e5c6524a3a847163d875c2d7d48a4fadbedd855ede80c2867e1e6328"
+    },
+    "dataList[id=10].content": {
+      "pl": "<Dawne L Corp., czyli…>",
+      "kr_sha256": "4d4170c25546f2e54e48224e921a0b336a4087c706f386616a72cec48b1c6aab",
+      "en_sha256": "3d9ae424fc3090e45ab8283798a615e0bead58e2d739392584a0f8beb47195b7"
+    },
+    "dataList[id=11].content": {
+      "pl": "Pewnie ta słynna Lobotomy Corporation.",
+      "kr_sha256": "88798357dd442f053c73272b79dd61ab98ac6a228bb8f7bb3f36e7af95f4a687",
+      "en_sha256": "4a2e43b3526c5f961a1f1ed769272badc87c6b327192d24183b16354e2280547"
+    },
+    "dataList[id=12].content": {
+      "pl": "Tak. Udajemy się do dawnych filii Lobotomy Corporation… czyli dawnego L Corp.",
+      "kr_sha256": "e4adb0a93d6da7d4ec8f6719e6c933fd7e2a9064aa06a84d1d4ffecd7fcde854",
+      "en_sha256": "c10f0505a2ac898e007051eedef430aecb060d13c99a1a6e6fa134ff98d43d96"
+    },
+    "dataList[id=13].content": {
+      "pl": "Ja na pani miejscu bym nie przyszła, nawet gdyby mnie wołano.",
+      "kr_sha256": "56f75168d48be3739893160800e3d44eecefb1e869700d025db61e56302fcd02",
+      "en_sha256": "6aa0f1009755b1fd49b2257906ab7f1eea0c88906ff32b024657808de182e3ae"
+    },
+    "dataList[id=14].content": {
+      "pl": "Upadłe Skrzydło… To się na pewno nie skończyło dobrze.",
+      "kr_sha256": "453a0af9f9fc5db22d871df32f2968f59e4a40a1799c372f3b81903fc4d3a707",
+      "en_sha256": "2090a0cc1079c3510b39c17fe7563a4b84b228c8b83f886780a2990833d01e67"
+    },
+    "dataList[id=15].content": {
+      "pl": "Co ty gadasz. Skrzydło nie Skrzydło - jak jest kasa, to każde wspomnienie robi się miłe.",
+      "kr_sha256": "8ea140fee8f6630e0ca39c7ad298f36e4971d0a920d240399a890fa293aa2c4d",
+      "en_sha256": "067ec617eee035ea9a8e488e9727a4435d5983498cf09deda6ed6a833ea56f13"
+    },
+    "dataList[id=16].content": {
+      "pl": "Hm, słyszałem, że tam wciąż się roi od potworów.",
+      "kr_sha256": "181f860e553e06f889294a4cd388e6756d87177096ba1438201174855acb23d4",
+      "en_sha256": "15678fa6a8bc64a1047f9f70b18f6920d8363414c4354210b69c014f118e4ad3"
+    },
+    "dataList[id=17].content": {
+      "pl": "Nie potwory, tylko Anomalie. Ale to prawda. Są tam jednak rzeczy ważniejsze.",
+      "kr_sha256": "40c6795b640d3742db54ab9a00e51fa1a88aba8f06569854e3514e34a2c24961",
+      "en_sha256": "9cf9b27ddd02812c46899dadb5ef7d7bfb04d2cb3a3067d277cb2f7aa24fa4f2"
+    },
+    "dataList[id=18].content": {
+      "pl": "W najgłębszej części filii znajduje się esencja technologii L Corp., która niedawno zaczęła rozkwitać.",
+      "kr_sha256": "b47108276d226daaa4835d621f57da491fd0e56d6dcffd79496ecde38c6db7a3",
+      "en_sha256": "6f2d29537ebfe7e347fcb86d1e4c60e6126bc00d08f5d9fc92c0ed272bd6eb9f"
+    },
+    "dataList[id=19].content": {
+      "pl": "Dante, pamięta pan, co zaproponowałem kilka dni temu? Mówiłem, że pozwolę panu wyryć Aspekt.",
+      "kr_sha256": "bc5c2df6bffee7de2a9e0a02d24f28740e2f73e2ff3e41b3a1521228833ff424",
+      "en_sha256": "04ac9ab0117b54ec902a763bc3c5ba991e70d6c9f1b612707ccbda6ba416b9d6"
+    },
+    "dataList[id=1].content": {
+      "pl": "Vergilius zawołał to, wychylając głowę przez okno autobusu.",
+      "kr_sha256": "d6c489f13539ff599af37125f423f9f0a4cc885fac7929a31b1aa104c7c0864f",
+      "en_sha256": "04a4beb1eff7d9e064fa6c1eb04b5046709f38504e0cc7e876d42ad709578e74"
+    },
+    "dataList[id=20].content": {
+      "pl": "Jeśli zbierze pan tę esencję… Złote Gałęzie, nie będzie to już nic trudnego.",
+      "kr_sha256": "b02f1c4a50ec1a20e6b024ff824a48e615de149e1e210af2491337b884f2a7de",
+      "en_sha256": "7b801a2769d6cae50c099e6efce45c0fc94792e326e609611ee0662d72478009"
+    },
+    "dataList[id=21].content": {
+      "pl": "Wciąż, gdy słyszę słowo “Aspekt”, zaczyna mnie łupać w głowie.",
+      "kr_sha256": "faacbb408d611f77189ed5b08d1907c256b8834882d2dc2027c2ba1681457730",
+      "en_sha256": "561271ff44a144d32113c594884b90222fd7bb8b9a0f5c7db3bce6685d3f7c43"
+    },
+    "dataList[id=22].content": {
+      "pl": "Co, u licha, zamierzało zrobić tamto “ja”?",
+      "kr_sha256": "1cc9c14fc076c810b5f4e6a6e32da833151fa050feffdbe0c01046e641eed53c",
+      "en_sha256": "f194ab0c86f114592e4293094eaf234fa54e78303bc05330ca4fc579339d70a9"
+    },
+    "dataList[id=23].content": {
+      "pl": "Nie trzeba na siłę sobie przypominać. Kiedy przyjdzie pora, wszystkiego się pan dowie.",
+      "kr_sha256": "1e782b1a3010e592a7b24fb3e257d44a8846ca3ab5eeb287c2516d7d53d633bd",
+      "en_sha256": "abf3c48e9e00253bbab53f80aece6dd4a82e4c4a7b981f9554ffbb5781ee94b0"
+    },
+    "dataList[id=24].content": {
+      "pl": "Powoli skinąłem głową spokojnej Faust.",
+      "kr_sha256": "ec90353a9a51f6aef295b945e3dc74c5567096c0fa7b798fb9d613d7f1bf02aa",
+      "en_sha256": "8311b8b9f83fbad6d719be0e5d88d3b66491201fcf38b03fa916930e6c26010d"
+    },
+    "dataList[id=25].content": {
+      "pl": "Dobrze. Na razie zajmę się tylko tym, co jestem w stanie ogarnąć taki, jaki jestem teraz.",
+      "kr_sha256": "bab0935be5c6f23dc4bdd44f9e8c479a8462f1e3e8130329bfadaa3eedaeaf8b",
+      "en_sha256": "56a8b3936f0dfa0b42536e9125991578a0526676746c21632b286be703770fc2"
+    },
+    "dataList[id=26].content": {
+      "pl": "<W tej całej Lobotomy… pewnie została też Enkefalina.>",
+      "kr_sha256": "b25d8e7e527056ac4dc2ade5eaab83c0468895410af3eb028d080ab331b8868a",
+      "en_sha256": "2e250b60be530d37ca9c0f19319d9bc5f7f0415b2699e31c8bf03c2d4a1c71f2"
+    },
+    "dataList[id=27].content": {
+      "pl": "Ach, to znaczy, że nie będziemy już musieli… mielić ludzi?",
+      "kr_sha256": "e95ab9412bd06d977224fba620eea543209ec5d0540e43e2e20f3cbc0fd2af58",
+      "en_sha256": "fe05f709441639fa287aa7140e105f8730fb0038e348e0386c5af2ec2c28e08d"
+    },
+    "dataList[id=28].content": {
+      "pl": "A jak dopisze szczęście, zdobędziemy jeszcze E.G.O. Trzy pieczenie na jednym ogniu.",
+      "kr_sha256": "08a4ef1b426223a264092360c3fbe600ea847371af4c935340ca1479657e3540",
+      "en_sha256": "98c7758e56c44fa23e558941d0b052fe03c9079df69f766d3e3352eed65915ea"
+    },
+    "dataList[id=29].content": {
+      "pl": "E.G.O? Znów nieznane słowo, aż przekrzywiłem głowę, ale…",
+      "kr_sha256": "dfb908d6594e2e8559e5aa07e4c05e3e022edff0e7f7f55bf8d1840acfbf5c56",
+      "en_sha256": "f4922d9c20a184b4320bfd629925494d0a207af5a0e8c42d7e0e52b12d6c28e9"
+    },
+    "dataList[id=2].content": {
+      "pl": "<Gość? Jaki znowu gość?>",
+      "kr_sha256": "678d673511ea9b26d69f038beb0585cf8b6d47db811006894a6c338c6cdf6238",
+      "en_sha256": "1c55b7f3095dba92703b17fb89aa84b15479cb4f0b5eed8682f389923357d7c4"
+    },
+    "dataList[id=30].content": {
+      "pl": "rozmawianie we własnym gronie, kiedy dołączyła do nas nowa osoba, chyba nie było w porządku.",
+      "kr_sha256": "df8664365d8e1dea46efea7c5ccc74990bc626ef1c917a7097e6aa3618816977",
+      "en_sha256": "4ac88f7e1d4a5b598d797ddecf15c7c85b86835b52335fad043cf249eb31b63a"
+    },
+    "dataList[id=31].content": {
+      "pl": "…I chyba nie tylko ja tak uważałem.",
+      "kr_sha256": "c0e028ad6709fd6978b7f98c998e87da6fd745fdb1576fb54837ab593e148a14",
+      "en_sha256": "50b19b769b1be36f5acf747d07e6f50f6117215568aa8963fcd1e3438eb9a0db"
+    },
+    "dataList[id=32].content": {
+      "pl": "A czym się pani zajmowała, pani Yuri?",
+      "kr_sha256": "3fdba15b26b17e9ea28074dcfccd5b716f2127c61ad8e68ed7cc433aa68c45ed",
+      "en_sha256": "9b91db4a8e04bd3965e495264110bb0a0d0f68a7286a0e5cece0cb8cd2de05c2"
+    },
+    "dataList[id=33].content": {
+      "pl": "Gregor przywołał na twarz najpoczciwszą minę, na jaką było go stać, i najwyraźniej próbował zagadnąć nową pasażerkę.",
+      "kr_sha256": "2163df3dbcc38ddb75f5ef1cc6ec18409036f7fea95e7b6408d2684833f4185c",
+      "en_sha256": "47ab3b856113e7eb2ace3864721eba2a68f9c58229ca275980677b57e7442425"
+    },
+    "dataList[id=34].content": {
+      "pl": "Kąciki oczu drgały mu od nienawykłej miny, ale postanowiłem udawać, że nie widzę.",
+      "kr_sha256": "2c473deba8eb3791be0789e5b67f04d03c0eafaffdbaa22e7baf6e2cff02f5aa",
+      "en_sha256": "097820e0283b91bcac6fa88d51846b631f8b1478f113111beb52e09ad3eb2b1e"
+    },
+    "dataList[id=35].content": {
+      "pl": "Zda mi się, żeś ty Fikserką! Powiadają, że od nich wszystkich bije woń szlachetnych bohaterów!",
+      "kr_sha256": "ad738f17384d15efa440fb73259ba2a1d478c79beb55da33528caa82ec3554e8",
+      "en_sha256": "2eab254b23200ef9e37a072b63f9dc9e43dd893c1a9241d4351ee7618e9fc524"
+    },
+    "dataList[id=36].content": {
+      "pl": "Yuri lekko kiwa głową, a w powietrzu zawisa ciężkie westchnienie Ishmael.",
+      "kr_sha256": "e98ffb34519d7ea7632d48aae76f62c9e41d143e9d06a64c2aacb083492e1abb",
+      "en_sha256": "accffe1cdb55270811dc0ae26ff8a6b0e64393f0d796767d2eda3b310ebd7662"
+    },
+    "dataList[id=37].content": {
+      "pl": "Nie wiem, skąd to wzięłaś, ale Fikserzy to żadni bohaterowie. Co najwyżej zalatuje od nich marną pensyjką.",
+      "kr_sha256": "2c0b317921149364a487b0ff3ad636b9fca444ea0616a604404dc94bb11a907f",
+      "en_sha256": "ddd141d32abb5a770ba5bc00720f0ec56744ff2b7e99e96b3e935fc5df7fbb72"
+    },
+    "dataList[id=38].content": {
+      "pl": "…Niełatwo pewnie było tak szybko znaleźć inny chleb, a jednak się pani udało.",
+      "kr_sha256": "3e811f78b3caca2605f2f7b17791e4656d21b0ee4c6216bcc9fc619902bcf3b1",
+      "en_sha256": "171081204a644e14266feb08a019c15bb72d18fc185af4f9ab4dae5bcd10f223"
+    },
+    "dataList[id=39].content": {
+      "pl": "Na razie… pracuję na kontrakcie.",
+      "kr_sha256": "c6798ab283c58d94ab230b07d913da3cdf51e5f3fc77afb2ebbd47a69476227f",
+      "en_sha256": "e997c5d125966a743c188ed8f760e0126fc296beea31a49129c13b92c94cec12"
+    },
+    "dataList[id=3].content": {
+      "pl": "To nasz pierwszy loch, więc uznałam, że przyda się przewodnik.",
+      "kr_sha256": "af7e8b569ab4f104ae3b5be4a91e62bbc0a82313b9fe5534b23010af2b347cfe",
+      "en_sha256": "3eb61ce8fcdd315f15bd285e25f79a73e441db47a555d354478a789c99c09214"
+    },
+    "dataList[id=40].content": {
+      "pl": "Aha. To dlatego zdecydowała się pani tu z powrotem przyleźć.",
+      "kr_sha256": "adada6145a885d57b393359d1b22358c7888904499fa80ffbf746c44c79d6c80",
+      "en_sha256": "10d4951eb8e08ce2fcc3c7c674580076798ac99b782d4f878a825cbb56e5ac57"
+    },
+    "dataList[id=41].content": {
+      "pl": "Obiecali pani stanowisko kierowniczki zespołu, jeśli w starej pracy trafi pani coś grubego?",
+      "kr_sha256": "379649b3634c67eb6244394934c4f7cb31bad2849f1f6f723c43b4507f96d2a0",
+      "en_sha256": "9a279aa83a6be45b96b89cf7db5c508b5e52a3ce362baf56cade138412e8502c"
+    },
+    "dataList[id=42].content": {
+      "pl": "…Jeśli wykażę się wynikami, może przedłużą mi kontrakt.",
+      "kr_sha256": "c67ba5fdfba58a01cb9ad805324dc7e5f5b1c925a7606c924cb42edd95d5cd49",
+      "en_sha256": "0aeed2262c42e11e22f00679a9875eb63aee234ade987fcc3ba24ad2ffcef8bb"
+    },
+    "dataList[id=43].content": {
+      "pl": "N-no tak. Na kontrakcie człowiek nadstawia karku za każdy wynik.",
+      "kr_sha256": "7ee345fdc7e8be0e2fb4b71280a377b9dc9bb1432b3dbeb82abc00ad790b3a6a",
+      "en_sha256": "c384e882a5bb5fe370cea2f9125327360cf622724fe86bcd4612ccfd449203dd"
+    },
+    "dataList[id=44].content": {
+      "pl": "Ha, marne to życie.",
+      "kr_sha256": "6a9c6b902ef2cc47deb854d299bb1cc21d8976f0bc94a371e28ac38d0ea7b670",
+      "en_sha256": "156746980deef81cdb730ab362a10955b526acfdca04b49bea40f804bd6ecb22"
+    },
+    "dataList[id=45].content": {
+      "pl": "(Ej, czemu cały czas tak szpilujesz? Co ci się tak nie podoba?)",
+      "kr_sha256": "bbcacfe1649ea835e581e05a2e2f1d48d1a1bee51195c19171c4901f6e352018",
+      "en_sha256": "45152cefd255cac94a94acfbbc97fd386af744922168ff6bdc2f750638a6aca6"
+    },
+    "dataList[id=46].content": {
+      "pl": "…No cóż, tu mi się nie podoba wszystko od początku do końca.",
+      "kr_sha256": "8771786cbd3cd04f339d4554894c27d9a480fd48c47076e49eae2bd527402003",
+      "en_sha256": "985ed02d4722b614d47f6f341b3546816a124990791d75cb029cb376c420cd3c"
+    },
+    "dataList[id=47].content": {
+      "pl": "Ta cała Yuri chyba niezbyt się tym przejęła; po cichu znalazła wolne miejsce i usiadła.",
+      "kr_sha256": "3d58949216be80c54e5e9b2ac17da4b79ea96cf86b04ef5f1ef6bd53b3e42fcb",
+      "en_sha256": "303788745fe91be6d3309d62c8ffe2ad28b5fe9efdc79437aaee75649102a9c2"
+    },
+    "dataList[id=48].content": {
+      "pl": "Gregor popatrzył na przemian na nią i na Ishmael, podrapał się w potylicę i też usiadł na swoim miejscu.",
+      "kr_sha256": "69e6e001c7737d62ea2fa27ca17731bf7fc7199d987b46c681c928e2734f84f9",
+      "en_sha256": "c07e92a60a06f603b4eff1dbe49bdaec142950bacffb81953a859e4c16e52095"
+    },
+    "dataList[id=49].content": {
+      "pl": "<Do tych ludzi… chyba nigdy nie przywyknę.>",
+      "kr_sha256": "c0f74f6069dd5a1044c55641b7cbb39105644941a6a5c1bd9cbb37d4419e13ae",
+      "en_sha256": "6541e6d3633276ad1bd16727843f2d16b101bccfafd799fe2c31fcf639a6eedd"
+    },
+    "dataList[id=4].content": {
+      "pl": "Przepraszam… czy państwo są z Limbus Company?",
+      "kr_sha256": "17a0af9a525a7da6c611d0ae1b07b10f6eac2e9a1d624d8d91e5f12eed11885c",
+      "en_sha256": "a191a785eeae50b4707539c111d6102517491251bed621c88f003f2c75cf66a4"
+    },
+    "dataList[id=50].content": {
+      "pl": "Lepiej szybko przywyknąć, Dante. Będzie panu łatwiej.",
+      "kr_sha256": "9ddf5e25fc4fa1e921e8a4060cf99381d2e91a267218a466ab942aa92e5af57c",
+      "en_sha256": "963645a9c3d2a569d495d40d6ef07beeed4e73d7fc9f5680f017b2bbd6469a39"
+    },
+    "dataList[id=51].content": {
+      "pl": "…Charon, ruszamy. Gość zajął miejsce.",
+      "kr_sha256": "6eb39aa6dc6e019e054bff1a094a4f6b05bd6d7f54b9d8ce0d358298cd2f9896",
+      "en_sha256": "f949a852a22cd6ce82336fad08b65fdf43b2c791fe4261eb963ac71a8399a7ad"
+    },
+    "dataList[id=52].content": {
+      "pl": "Brzuszek Mefiego pełny. Charon pełna para.",
+      "kr_sha256": "63198f3d6152785700b6f393197b450af2ea7443b30123f99afe8b408a9e88ee",
+      "en_sha256": "db744a83d6f4d22f531ae647ed3f07464e0b6d8890fbd1bc024cb05e5c0c8718"
+    },
+    "dataList[id=5].content": {
+      "pl": "Widzę, jak ktoś niepewnie kręci się w pobliżu, a potem podchodzi.",
+      "kr_sha256": "e2b584996283b4c41a40d65e46cef7f099279d34a2f10c85086757485dc1c2cf",
+      "en_sha256": "e7d5fe0cea1b7625bf0d85b44fb83fd7e8c46e9201f9229f3e71e1b08ca5664d"
+    },
+    "dataList[id=6].content": {
+      "pl": "Chyba tak…",
+      "kr_sha256": "348fd9ba751cc7e86f7b2ecc6e462006a3053d5750cdca170635b0da74fa5e13",
+      "en_sha256": "0f562f1e6848540ce9ca9eb6eb22d5f8549c804af6edeacad2db77cb3e86f0b6"
+    },
+    "dataList[id=7].content": {
+      "pl": "Autobus akurat skończył posiłek i chrzęścił w zębach resztkami kości.",
+      "kr_sha256": "b000b0488ce73d714eb8116014ac9020596203715490912ef6d2b3ad08721031",
+      "en_sha256": "432aff0795b9e42dfe40cf4e39ab6e5864a5363ed641811887876fdd2b140956"
+    },
+    "dataList[id=8].content": {
+      "pl": "Yuri przyglądała się temu obojętnie, po czym się przywitała.",
+      "kr_sha256": "f28b5694ba7af2d76d6a8f3c67ca7cea4336247261337254f3c7560e3d2657e8",
+      "en_sha256": "59351ceb192e27305790d2f737facb1910159ff9b243ed877b124c0f9b4f7967"
+    },
+    "dataList[id=9].content": {
+      "pl": "Jestem Yuri, pracowałam kiedyś w dawnym L Corp. Liczę na dobrą współpracę.",
+      "kr_sha256": "4aae7b15e2b9c8fa1c5fdcf9520825b8cac04aac2b7cc157af07391d4aa7dcf3",
+      "en_sha256": "2fb146ccd095adebc9480fdcdea62b5c574113af603e3bb4e4354cb8e4dcf755"
+    }
+  }
+}

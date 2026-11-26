@@ -1,0 +1,394 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "…Ciężki przeciwnik. Uciekajmy, zanim ten typ całkiem dojdzie do siebie.",
+      "kr_sha256": "13b08470ffc3888ec8f8596c1b162abaf79a5fdeec021d79cbbbe8384747e80c",
+      "en_sha256": "3a7d624a8db1023b559256d5f52e1daf180dff4e7e79f095ee491c8a4fd0cc32"
+    },
+    "dataList[id=10].content": {
+      "pl": "Nagle w mojej głowie zakwitła pewna myśl.",
+      "kr_sha256": "ee1cbe268d6cf7ef5e21fc018cf35385673c13ba657e088c6b9741d241823452",
+      "en_sha256": "d427412b41c0998a8e8f7fafad6672d3ef951335a90b8beb3024b64072273b09"
+    },
+    "dataList[id=11].content": {
+      "pl": "<Teraz już musisz nam powiedzieć, Sinclair.>",
+      "kr_sha256": "fe2e03d15c88c0840f8c49ec011d278cd8f641263141cd2fd283030a00798977",
+      "en_sha256": "330822958b2bf00608411b360235191930690a0e20a6baedff029b43c45218a8"
+    },
+    "dataList[id=12].content": {
+      "pl": "<Jedna twoja opowieść może zmniejszyć liczbę naszych śmierci o połowę.>",
+      "kr_sha256": "4eb325cabe5b227a00c51fe6b82b351d545dae0cf9c01033998d6e1a257dac0e",
+      "en_sha256": "e17200563d1c8d35bbc7cc0ed3a27a3167d49c9e4b432494fda5677b55569930"
+    },
+    "dataList[id=13].content": {
+      "pl": "Wzrośnie też szansa powodzenia operacji. Liczę na przydatne informacje.",
+      "kr_sha256": "fb26f1fa155b98f5ef0975e2ef007132c0fbb8c7b5ebd78aee407582ef47993b",
+      "en_sha256": "12d3394cd187cf094f47a7b3f63480578608b231a01f643fa8c7dd33201b6a4c"
+    },
+    "dataList[id=14].content": {
+      "pl": "…Tak chyba powinien postąpić Kierownik.",
+      "kr_sha256": "f2165268af5c8d1708c9b425a034b9787a5354597787743999aef4981fbdd3e6",
+      "en_sha256": "74ad9fe427e18c9bec5b8eeb983e92f614194af2bc950b2bdeee4957449e1faf"
+    },
+    "dataList[id=15].content": {
+      "pl": "Sinclair, słysząc moje słowa, gwałtownie pokręcił głową, wziął głęboki oddech i z trudem otworzył usta.",
+      "kr_sha256": "2901135157ef2dedcbc293960b6a20d086673d1220f24ea42630828467ff3cb9",
+      "en_sha256": "2851854722ba06b73ef708dac01c51ccec6c3f8b3489121b6fa959e4d266934a"
+    },
+    "dataList[id=16].content": {
+      "pl": "…U mnie w domu. Kromer na pewno tam jest.",
+      "kr_sha256": "0447413bffd2709ac61773cfd8f2c9ec5cf80b259ee9a68508dfc07f010657be",
+      "en_sha256": "4d0ef1617a0755fded5482f311aa0f98caa7da791025bc9284f0085018e28c00"
+    },
+    "dataList[id=17].content": {
+      "pl": "Ty, znasz tego gnoja?",
+      "kr_sha256": "75b72f6a7571c5ccd51e7c0aa948bc06cae5ad983d9239d038f2bf14d964b03a",
+      "en_sha256": "181c795fa291e316d090163dbafd6a43d2785bef4048232b072968290f346448"
+    },
+    "dataList[id=18].content": {
+      "pl": "Cholera, tak się darła tym swoim rechotem, że łeb mi pęka.",
+      "kr_sha256": "dcffe2dc2ae3c7b872531ac415e4f449c7cbeff5590ea57ef24196cb4b6027c9",
+      "en_sha256": "fcbc9c883157dfa12e2dfe79323b995a25bf705f2fbe5112b80f4bc0848dc386"
+    },
+    "dataList[id=19].content": {
+      "pl": "…Poznaliśmy się w szkole.",
+      "kr_sha256": "60de9fd5da3c3147a53627ca480124674b27283b0aca940df37c557ecf15f3bd",
+      "en_sha256": "60529abcc7183c0d1e0a27ec3691c600785676aa7985dbc7cd214ae01cdea2a5"
+    },
+    "dataList[id=1].content": {
+      "pl": "Hańbiące gadanie. Żołnierz, który ma przewagę, nie podwija ogona przed wrogiem.",
+      "kr_sha256": "e1a3ece3819ebfe473589ee91c9f184af0bfd78bbeca8755f906cd2950c8e3cc",
+      "en_sha256": "37b0e37a35629adad4e258fb81b7ce5bcad03c534f55c51b74359e6ccdd459ed"
+    },
+    "dataList[id=20].content": {
+      "pl": "Ojej, przyjaźniliście się? Jak to koleżanka, to może dałoby się jej przemówić do rozsądku…",
+      "kr_sha256": "b94cfe3d98f249d8ba1b15178154a7aeecc808dc5e8fd1b5bcbe5c1a92318496",
+      "en_sha256": "5f3cbaa9670e4705cd2f289c4efacad6caf356cb2bdbd51831e37fe4aceafa61"
+    },
+    "dataList[id=21].content": {
+      "pl": "To nie żadna koleżanka. Kromer zabiła moją rodzinę.",
+      "kr_sha256": "c2296e09871860b7453c0800c5dd88bc0a016e1264ae0054f3bb20654084a3bf",
+      "en_sha256": "d46b504c48278a36fa30d17fbb6a7b4f5feb2c5efbd3531bee83d5ef61fa28c0"
+    },
+    "dataList[id=22].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=23].content": {
+      "pl": "Przepraszam.",
+      "kr_sha256": "b6b3f5e7797db189a945d349d837155ee3f9773843a8cdfb341d699b02029372",
+      "en_sha256": "18ffb98ebc9e804b6efaa722543f54f590061488c5f7760a8863281113f4d0f3"
+    },
+    "dataList[id=24].content": {
+      "pl": "Jedna z protezowych głów wiszących na drzewie bardzo powoli obróciła się w naszą stronę.",
+      "kr_sha256": "f1cc0b70385a602469ab5b86df88a5418fdd78e32a6e4927dbd40a08f353776b",
+      "en_sha256": "48a1b0d9819fdb4641fd5f3846ff4898838ecaebf7ff66dc3594bbb1267eed4f"
+    },
+    "dataList[id=25].content": {
+      "pl": "Światełka sączące się z protezy co jakiś czas mrugały jak choinkowe lampki.",
+      "kr_sha256": "7d65a298996398b481e703b93ef71d011a7301a9ffeba95d3bac3eaa02959c33",
+      "en_sha256": "0fa8ed01dad36b3fb747bd06eaa23cbe2d472bcf759d1685a8598380aec723e1"
+    },
+    "dataList[id=26].content": {
+      "pl": "Sin… cla… i… r. Szszt… szszszt…",
+      "kr_sha256": "4fcabb127ee748337b9182cae9aad080ed6ef6f10d79d955e7179da04d7779d9",
+      "en_sha256": "f98af7b530e15296444918c0ba942517b6d60e3385ddfc31c8c455ae3ca25547"
+    },
+    "dataList[id=27].content": {
+      "pl": "Czemu… wró… ciłeś…",
+      "kr_sha256": "eaa64b3703a9ab22791ac73e778615ea49e140628660c18561cd6818b98bc405",
+      "en_sha256": "e4d2b8980aef12de6272dae071459f29458f80cc7f94e598679c77a6fe820087"
+    },
+    "dataList[id=28].content": {
+      "pl": "…Sinclair, to twoi sąsiedzi?",
+      "kr_sha256": "2803252253bd57e458ef927e2dec652b0dedbd2edd2398ddbdcda2831df8b907",
+      "en_sha256": "fdc20d329efc63bdfb70a5f0ef5fa0c2c33aa784ad809468ba742b64fd175b45"
+    },
+    "dataList[id=29].content": {
+      "pl": "zapytała Rodion, patrząc na rozbite na kawałki protezy.",
+      "kr_sha256": "b7793f8ac556cea226fec25790d4e506f224271c0ecfbeaa69ae511ac6ae6c57",
+      "en_sha256": "d001c4563b0355e313569ca496142f35669e657f0620ecf73282dc61cc2f46c5"
+    },
+    "dataList[id=2].content": {
+      "pl": "Naprawdę to teraz pora na żołnierski honor?",
+      "kr_sha256": "a7c5c5db8c3ad93be843c6856504065f549fec9afc23d2b81400bd343219a4b7",
+      "en_sha256": "c0e9b73ffa7a72603921db50386e52a2930711b50a2fc845f615b6c008902949"
+    },
+    "dataList[id=30].content": {
+      "pl": "Chyba tak… Wolałbym, żeby to nie byli oni…",
+      "kr_sha256": "f1ba3a5e335b97e8972ee258425d4402965b3ca290065dfe39a900d1e7961638",
+      "en_sha256": "dc3de52b4f82f1d84c51fba4929c9f2d68315ba5103f3896e2a063df4ff8dc2c"
+    },
+    "dataList[id=31].content": {
+      "pl": "odpowiedział Sinclair, wpatrując się posępnie w przewody, z których z trzaskiem sypały się iskry.",
+      "kr_sha256": "a58cafa44222d4a039c345271e44a26436ac01d0dd22fad3c8bdaed63f038efd",
+      "en_sha256": "8f0fb7fb79e1717c5338971004180f98046efc4b982d83e020df41d637ecc16f"
+    },
+    "dataList[id=32].content": {
+      "pl": "Głowa, która z trudem wydobywała z siebie słowa, wkrótce zamilkła, wydając już tylko gęsty szum.",
+      "kr_sha256": "b68c07358fb87825c5f6fd830627ad207958d5ba278415928ce86ac2c2bb8642",
+      "en_sha256": "67d65a22c980cd60f662120158af07461fbda050590133cf7eec051b286b7e1d"
+    },
+    "dataList[id=33].content": {
+      "pl": "A potem rozbrzmiewa pieśń.",
+      "kr_sha256": "ff9f67987b305a3f79d9124f08c208489e5d2309a14f6463cfd69a9ba3124cfa",
+      "en_sha256": "70ee41f1a4378fa034e28b982d7507c5e4c258da37a60ceb45a624fcf68201f3"
+    },
+    "dataList[id=34].content": {
+      "pl": "Cicha noc…",
+      "kr_sha256": "6fa9d7a6df81d7680e3ec2b63d93c7d401e05db82f072de9e8b67ec382c0779f",
+      "en_sha256": "d85324c305601bcff28683918cc04bca7c9235bbe378d71b5324a895efd266a6"
+    },
+    "dataList[id=35].content": {
+      "pl": "Ze wszystkich zawieszonych głów płynie ta sama pieśń.",
+      "kr_sha256": "a19a4d87d780c8bddb07f38c34875c971d6819d337cbd98d4e72590725a6c59e",
+      "en_sha256": "dc5f817e8669e924fb63df70d075329e08ca116fc3bc569cc72570c560e1ace7"
+    },
+    "dataList[id=36].content": {
+      "pl": "Kolęda dobywająca się z najróżniejszych głów, z których zostały już tylko skorupy, opada razem z płomieniami.",
+      "kr_sha256": "e10740674273e5cce98ac4574a35795fa4f15a21a40e1c22ac5d051603152088",
+      "en_sha256": "87539a14e1e1f979b22084f78c881ce8f91df3f4b150ffcb0bfd7c8479f09dc8"
+    },
+    "dataList[id=37].content": {
+      "pl": "Święta noc…",
+      "kr_sha256": "c288cca03e094fa817fc7eaf0ce90564f750b607361db9f8ec892a0175e7ac57",
+      "en_sha256": "de11aec4efa423435368d4e467e14128d1c513dce59bcb93842b574e5814af87"
+    },
+    "dataList[id=38].content": {
+      "pl": "Czyli dla nich heretycy to… po prostu ludzie z protezami.",
+      "kr_sha256": "bfb81437d481d0a75c424fc878c796ef546c6506def37b50c7f2e71af4ee90c4",
+      "en_sha256": "a061f5e2ddec557873fd67ea52f1560066613a3b82bc71377e1ec2e951cb222c"
+    },
+    "dataList[id=39].content": {
+      "pl": "Choć protezy pojawiły się w Mieście już dość dawno temu…",
+      "kr_sha256": "e0f844b97f85590937e495e3742a55a55c7847790a7cceb2303b33287c714fc2",
+      "en_sha256": "4de341fa6c01fefd303342a586db0625647d86317c3aa7a03d17ec3a515fdcb3"
+    },
+    "dataList[id=3].content": {
+      "pl": "<Chyba Ishmael ma rację. Na nasze siły to za mocny przeciwnik.>",
+      "kr_sha256": "a437dd92509569ca884f1f9ed597d59efc2968eec05d4d4870a525f4271888da",
+      "en_sha256": "145e61144bd9c709fb2a2a592ec454c6687e0b84f4bc8a967cdbc93558b92dc9"
+    },
+    "dataList[id=40].content": {
+      "pl": "wciąż wielu ludzi patrzy na ich właścicieli jak na coś obcego.",
+      "kr_sha256": "556e8e716c9d0715f163fec08997519c6610423b8219a631c41ef0a024c71e0e",
+      "en_sha256": "f145d09f394ec3a6cc60864ff0bcc7073e8bfefc5318bcffc64887b1f4cd0b19"
+    },
+    "dataList[id=41].content": {
+      "pl": "…Nasze miasteczko.",
+      "kr_sha256": "4ce4bab2700ab8986c3d1b93eaadade628fe7c73266a1cfc39318c8b6dbe9f18",
+      "en_sha256": "eddd08db8ec769c489a00ee227272304bee9fe4ce80012c4c6df9e16847896fa"
+    },
+    "dataList[id=42].content": {
+      "pl": "Nasze miasteczko… nazywano nawet “świętym miejscem przemysłu protetycznego K Corp.” Większość mieszkańców wytwarzała najwyższej klasy podzespoły do protez.",
+      "kr_sha256": "fd824b3da26308f65dc8a26f4dc01214458c6a53f27ce42b0f3d644b02f08d52",
+      "en_sha256": "78a88c4e782bee885917e6d864b3488fc1bc91efa692ea9691faf2021b42e3ab"
+    },
+    "dataList[id=43].content": {
+      "pl": "Kromer od dawna miała nasze miasteczko na oku.",
+      "kr_sha256": "12371de4031076316820a03e52f265ae7be942df5cd53934b6688288f74e67fc",
+      "en_sha256": "4b63ed779173c2423777eac800d4d5625c3de233e5ca89aae57f15c2b74eefed"
+    },
+    "dataList[id=44].content": {
+      "pl": "Twoja rodzina też…",
+      "kr_sha256": "496859e777a6b2dcc103d470803fd86079c1604184811607e0ad0fd33f28370b",
+      "en_sha256": "0b6140933b3ad012d0a34280702bb359d0679a3b39b637d27a99cb9c9c24306e"
+    },
+    "dataList[id=45].content": {
+      "pl": "Tak, mój ojciec był prezesem młodej firmy produkującej protezy.",
+      "kr_sha256": "2a18fe152e47556407598b9f8efb5c390f7ae251ca49906d45131c4e34a4f916",
+      "en_sha256": "9f6962712de2f2df22ed0a076540d89a43402ec019cacf7475b15443c508b75a"
+    },
+    "dataList[id=46].content": {
+      "pl": "Dlatego…",
+      "kr_sha256": "7f46cc1a737057750dca6510fee995a7a6c9311ced1cac028bbb32109d8cee1e",
+      "en_sha256": "4d2ea0714381fe727778534b5ac7cdc01074c5568a4f5db81649d8cbfaf6e5a8"
+    },
+    "dataList[id=47].content": {
+      "pl": "Nie.",
+      "kr_sha256": "f05525bb2385ed4397718fde4e64cfb5e0cd4a6ecaaf74e5f1f5f23fdf63599f",
+      "en_sha256": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f"
+    },
+    "dataList[id=48].content": {
+      "pl": "Moim zdaniem ci ludzie nie mają żadnej wzniosłej ideologii.",
+      "kr_sha256": "563d49cdd40fe5df7d44e7ad7e4d4d1e81af2b6ee224a6f05cb607c7d008df24",
+      "en_sha256": "371f6fce1bf21b1e2b59a4cb548b24f74dab0c3bc808564f8d95a4fb64f24e40"
+    },
+    "dataList[id=49].content": {
+      "pl": "To po prostu… po prostu szaleńcy, którzy zachłysnęli się obłędem i przemocą.",
+      "kr_sha256": "8c66c013ffee88f024158060195cc6ee9385610cf0fe6d6dd138a8d3a7707999",
+      "en_sha256": "2fd2e177cb953ad8f58f27ee2bd4e69f063dfd2a2ee529a918e81a685feb21d7"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Wycofujemy się.",
+      "kr_sha256": "5f0842d1534f646ff5ef878e706d1923ee8f73d5fc7aaa0a407f43e78b4d6414",
+      "en_sha256": "344458c785101b3301a528bb1db53bfa06668eec52ff338c07e1a17f5c735972"
+    },
+    "dataList[id=50].content": {
+      "pl": "Ishmael ucięła sprawę jak nożem.",
+      "kr_sha256": "6750144723800f43265412a8b148e35887df8d7dbe2cad6260b3f72f54a6492b",
+      "en_sha256": "90c0dbdcff59d73e604132e7a94ac49175b55e7609b38cde85261781fd86f2f6"
+    },
+    "dataList[id=51].content": {
+      "pl": "Sinclair długo patrzył na choinki, na których zawieszono jego sąsiadów, aż w końcu odwrócił się do mnie.",
+      "kr_sha256": "2ddc6db1079c9ce49e4071452c829bf0341c3a117f44341174e0992f5ab712ae",
+      "en_sha256": "4108a2cd0f6de1240da27b35a0c981b83f07ca5957de0f3aa4ac0c3e2aa40800"
+    },
+    "dataList[id=52].content": {
+      "pl": "Kierowniku, od dawna chciałem pana o coś zapytać.",
+      "kr_sha256": "9b18b6f1f135eb6e34e5f5c4fd74b6a856759ada8f9d06a682a49429c2217247",
+      "en_sha256": "85e370a3c64fa60c09ce184369571ef8f44d2afe59cafad4c7d316225c4b6686"
+    },
+    "dataList[id=53].content": {
+      "pl": "<O co?>",
+      "kr_sha256": "ff638776f0d7bf2d47b39f79bce41f2066533ad97355be8d8add8f36ade53b4d",
+      "en_sha256": "569b66a7865ac8b17c521b9f04a1aaa66fef509e750754bb1592cbb97be5085f"
+    },
+    "dataList[id=54].content": {
+      "pl": "Jak… jak pan się z tym czuje?",
+      "kr_sha256": "6409b0cd1182cac835bbd9e37f14f6e5d599c19e582dfae5f52278e52e75991c",
+      "en_sha256": "f344cd830eff69f0ccb6ab43ed54add99d29f70eabaaa4487f229360c77d6b48"
+    },
+    "dataList[id=55].content": {
+      "pl": "<Z czym?>",
+      "kr_sha256": "fa4de6be6c91afb1bfee7dfaa943a75110732d649c8e798ca1c21a366e3dec50",
+      "en_sha256": "ea183c3a2548d1cc83889e515168fd54dac0310d33c1090a51f7344891d61c03"
+    },
+    "dataList[id=56].content": {
+      "pl": "Tak.",
+      "kr_sha256": "8445741d7d6a831276e8794b874cebee94940ba0e963d4f109bf72f437426789",
+      "en_sha256": "85fec70372b092bb42d021a6d1b373081dde8bcf90feb49e0725e285043fb0ad"
+    },
+    "dataList[id=57].content": {
+      "pl": "Jak to jest mieć protezę zamiast głowy.",
+      "kr_sha256": "4af701befb2fd00cc077ad670ccd02e022f0cb84cce1fea7e8da3454dfb6fcaa",
+      "en_sha256": "b41174d5660258d4bef4bfaa1ae5a25b6b40f8007c5c8caa6a638b4f7854a607"
+    },
+    "dataList[id=58].content": {
+      "pl": "Nikt nigdy nie zadał mi takiego pytania, więc przez chwilę nie wiedziałem, co powiedzieć.",
+      "kr_sha256": "fb0d390f28a77fbac9b573e226cfffcf0ea5a29a778982a1cef740b5f90ba94c",
+      "en_sha256": "a5331668b288d53192b42e132f75705e2e68ec9abd38048b372abf95c975ce06"
+    },
+    "dataList[id=59].content": {
+      "pl": "Problem w tym, że nie mam pojęcia, jak się czułem, zanim dostałem protezę.",
+      "kr_sha256": "7ff836c6f3ec967853aaa41a48c6c009d0776534ebe340816a4604875debb245",
+      "en_sha256": "97b067654aa857b5f8b5988a9afddcd0ed52a3369b15ae762849b07ae791cc12"
+    },
+    "dataList[id=5].content": {
+      "pl": "Outis z niechętną miną cofnęła się o krok.",
+      "kr_sha256": "cd911a914c0b02fb7152672172d9d426a108435957e8427a11d01a05f8dc536a",
+      "en_sha256": "70906e0e988d4258e7266d89d8218adf9260903f651acbbb6b040aaae84a4553"
+    },
+    "dataList[id=60].content": {
+      "pl": "<Hmm… No…>",
+      "kr_sha256": "6d87b3fa6638b5a19de4cbad88df22ee3fdc468048d628150179128411b468f6",
+      "en_sha256": "c697eb22e57a9a38bceb801aaa4e5109dd03b5d32f2a2efb26a146d17d1a9c80"
+    },
+    "dataList[id=61].content": {
+      "pl": "Ach! To, yyy… Ja się nie czepiam, naprawdę.",
+      "kr_sha256": "c7d863ddcb245545387a79a0d8a13833aef92ed9fb9cb7be3810336efed32985",
+      "en_sha256": "07776dcd7ba632c8aa81a8e8b3c1185b6eda642b12a4ca37d9eaf8da876da7f3"
+    },
+    "dataList[id=62].content": {
+      "pl": "…T-to pewnie było niegrzeczne pytanie. Przepraszam.",
+      "kr_sha256": "0c8781b47bc6bc3cdd16cf12f286033ab7edd5580aab8f09e501da4880fc6c73",
+      "en_sha256": "3b3aae354237633d98b1d98c5e03d6a963fe499e8fa2f99d773a7e588e8bb141"
+    },
+    "dataList[id=63].content": {
+      "pl": "<Nie, nic się nie stało.>",
+      "kr_sha256": "f2326e36c62a812f2334b4b3c8ea27d718d56afc7c6f3f74717efcb846cade47",
+      "en_sha256": "d2f22659c6f587fdc92a11d702ae943163e1a3e512e7198d190c42c7bf333201"
+    },
+    "dataList[id=64].content": {
+      "pl": "Inni Grzesznicy rzucali pod moim adresem rzeczy tysiąc razy bardziej niegrzeczne, więc co tam.",
+      "kr_sha256": "c7a2df0ff738c48df8e5d6fba6795c1bd8bf548602ffc8a7c3247b83063c97b6",
+      "en_sha256": "c594c69fa19517670af016fe873d74ff91e4daa4cadee1a1a1557f815cdc33db"
+    },
+    "dataList[id=65].content": {
+      "pl": "<I tak nie pamiętam niczego sprzed wymiany głowy… więc nie umiem ci odpowiedzieć.>",
+      "kr_sha256": "a596dedeace30b0ee370e184bb83e3aec99c2cba6da61c75e02615a7c02a421b",
+      "en_sha256": "d1e5d034154e99ee77b2e75390322520ac90841cd11b28598e958d393cd70c11"
+    },
+    "dataList[id=66].content": {
+      "pl": "Rozumiem…",
+      "kr_sha256": "ab7bbc885b8ea23ccfaf63db144063366ebeecfcd9d29f873316a7871ef7f866",
+      "en_sha256": "aadab5f4b110d778877b0eca89f220969789247c2e3e266025999d8da0deabad"
+    },
+    "dataList[id=67].content": {
+      "pl": "Zawsze byłem ciekaw, jak to jest, kiedy w miejscu głowy jest coś innego…",
+      "kr_sha256": "0567214a8a69dffa1ba9a7c1ef06bd44cc725a1bc317f8c23937779f3be71a48",
+      "en_sha256": "b55ca0b6c8c1edc6215144f7620f1fc7a73099dfa171f0848698f0802d50feb5"
+    },
+    "dataList[id=68].content": {
+      "pl": "Rodzina mówiła, że to nic innego niż założyć kapelusz albo zegarek…",
+      "kr_sha256": "3a4c57712540238e075c1854a027d9fda19aa27678113c5a57747c137609c5d4",
+      "en_sha256": "421e6420d412582063204affb235a3393590cc411a984b3446c2014d74d3da1a"
+    },
+    "dataList[id=69].content": {
+      "pl": "ale ja, choćbym nie wiem jak się starał, nie potrafiłem sobie tego wyobrazić.",
+      "kr_sha256": "e8ce9a9fe2acc0880d19f1eee0a8d5c4c0f6d7502abffd5650762d86e942f3dc",
+      "en_sha256": "60ad816d534762b54be0203b6df2c91402997c1a8faa202dcd440961b0cf30ca"
+    },
+    "dataList[id=6].content": {
+      "pl": "<Sinclair, co ta cała Kromer miała na myśli, mówiąc “tam, gdzie dobrze wiesz”?>",
+      "kr_sha256": "ba6dc7575d7d49d862021ebedc2ca79c96cfc3f00f00f01de64fedc8b6c67309",
+      "en_sha256": "e61472ad133794e2f908868468f1658f4623ac24908413d00f9cd8ba160ed0a8"
+    },
+    "dataList[id=70].content": {
+      "pl": "I tylko dzięki temu jako jedyny przeżyłem.",
+      "kr_sha256": "876074558dd5533f0dc2c00e187c40cd5f9e6d406bc159b90f98b1529a3545d8",
+      "en_sha256": "a40c22bb285d429526d65d8c278d39aef17b002cb597e98c469fdc084de1d5ce"
+    },
+    "dataList[id=71].content": {
+      "pl": "<Byłeś pewnie jeszcze dzieckiem, nic dziwnego, że bałeś się zabiegu. Nie musisz mieć z tego powodu wyrzutów sumienia.>",
+      "kr_sha256": "18dec7426a5a1138d1a1980e3718741ededed2fff0238ffd7bbcb32fe8fd7f5c",
+      "en_sha256": "8575868cb174d9f677fb641d14d4f5a8a00bcb1fd36821a2c6cbcb497c033404"
+    },
+    "dataList[id=72].content": {
+      "pl": "To nie tak…",
+      "kr_sha256": "30b0b65f411d72ea8950cde892fdeac1f264791d1e51f2dc508afe48847990d0",
+      "en_sha256": "430ee7cdc8684fa133fb9ceb62bf87e0dd9aa32163f57b13c5919eca2630aa5e"
+    },
+    "dataList[id=73].content": {
+      "pl": "Wcale nie o to chodzi…",
+      "kr_sha256": "c6b831d987c71120d34b176005e89e73c29109ffe21323fb9b8f1127b300f781",
+      "en_sha256": "a2f9b56d799ebedd44873fc98fc0300fc4d58ca585ed56ceacb1b9decc557caa"
+    },
+    "dataList[id=74].content": {
+      "pl": "Nie jestem takim niewiniątkiem, za jakie pan mnie ma, Dante…",
+      "kr_sha256": "b94b1ad539d1d4310af0ca36166dec4e52555ca154c6e8a92b9023e9a5b09b26",
+      "en_sha256": "a13d0d3bc3c5db28e1f8235975696c8175347d48b16aaff00966dbaf71b02eaf"
+    },
+    "dataList[id=75].content": {
+      "pl": "Sinclair cicho zwiesił głowę.",
+      "kr_sha256": "9b4d710dfd89bb021124944614d71cbd618e63053e4ad878136a372769c0b1cf",
+      "en_sha256": "be92778326e1603e69ef86e0c650a7aa551618d0ef95e5f3b93fcc1b485c0d6b"
+    },
+    "dataList[id=76].content": {
+      "pl": "Gorączkowo szukałem odpowiedzi, ale nie przychodziły mi do głowy żadne sensowne słowa pocieszenia.",
+      "kr_sha256": "87085ad434fa0cbbb92b20ba7d91c0a3077676a71da9779ef1aee22b452494a3",
+      "en_sha256": "e7f13ccb8fa9b8fcab2a486aecd574caf74879dc0b776e89b19f58651e3f53b3"
+    },
+    "dataList[id=77].content": {
+      "pl": "Ulicę wypełniał tylko nieprzyjemny trzask i syk iskier.",
+      "kr_sha256": "a39f11302221e3e177699e49209ba43da7f2971fb0e047b4c1ea5ed408c56bcf",
+      "en_sha256": "ec283626d4b43d21e36634960d72c72f712bf25cb7adb8e51a9a6fc6413fd44b"
+    },
+    "dataList[id=7].content": {
+      "pl": "To… znaczy…",
+      "kr_sha256": "ede1c9a1b8d3d505ad7e13ed3915db8912fe93bdb7ea5d397bc8e3bcd431aa51",
+      "en_sha256": "fa377976af405072e3f01e553a1eb8409b503a4f0b9f36680090853ad8fcca69"
+    },
+    "dataList[id=8].content": {
+      "pl": "Sinclair wciąż się trząsł, jakby strach zawładnął nim bez reszty.",
+      "kr_sha256": "88d3a59d05371006e6b292011e1a43f86ef63001a41ce9a016993a7b06c60d7a",
+      "en_sha256": "996e6f310cbe517a3400148c94b79d9ced9e772ef60c27f0a12390aee08094a2"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ale w tym zgrzytaniu zębami było chyba coś jeszcze: gniew, silniejszy niż strach.",
+      "kr_sha256": "552dadd4acc334ec7ec901a1ff82c0bd659a7068abf630ddf4de3e294296b7e6",
+      "en_sha256": "a0693ad1b9dee90df74d1efb9f62eeef3c08f100fec0cb9ee4bacd9a4af08bb7"
+    }
+  }
+}

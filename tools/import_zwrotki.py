@@ -96,6 +96,30 @@ PL_LINE_RE = re.compile(r"^   PL:(?: (.*))?$")
 
 VOID_TMP_TAGS = frozenset({"br", "sprite"})
 TAG_NAME_RE = re.compile(r"^<(/?)([a-zA-Z-]+)")
+HANGUL_RE = re.compile(r"[\uac00-\ud7a3\u3131-\u318e]")
+
+
+def is_story_script_comment(kr_raw: str, en_raw: str, logical_file: str = "") -> bool:
+    """Return True for scenario-script ``//…`` markers left verbatim by official EN."""
+    stripped = kr_raw.strip()
+    return (
+        logical_file.startswith("StoryData/")
+        and stripped.startswith("//")
+        and stripped == en_raw.strip()
+    )
+
+
+def has_unexpected_hangul(
+    pl_raw: str, kr_raw: str, en_raw: str, logical_file: str = ""
+) -> bool:
+    """Return True when ``pl_raw`` keeps Hangul absent from ``en_raw`` (outside ``//`` comments)."""
+    if not HANGUL_RE.search(pl_raw):
+        return False
+    if is_story_script_comment(kr_raw, en_raw, logical_file):
+        return False
+    if HANGUL_RE.search(en_raw):
+        return False
+    return True
 
 
 def sha256_text(value: str) -> str:
@@ -235,6 +259,13 @@ def validate_tokens(
         present_pl = set(pat.findall(pl_raw))
         for req in sorted(req_tags - present_pl):
             errors.append(f"brak wymaganego znacznika {req}")
+
+    # 5. Scenario-script '//…' directives in StoryData (e.g. '//효과연출1' in 3D309I2)
+    if is_story_script_comment(kr_raw, en_raw, logical_file):
+        if pl_raw.strip() != kr_raw.strip():
+            errors.append(
+                f"znacznik skryptu scenariusza {kr_raw.strip()!r} musi pozostać bez zmian (albo puste PL:)"
+            )
 
     return errors
 
@@ -656,6 +687,14 @@ def _parse_story_glossary_file(
             report.warnings.append(
                 ImportWarningItem(source_name, item_no, f"przekroczono limit {limit_val} znaków ({visible_len(pl_line)})")
             )
+        if has_unexpected_hangul(pl_line, src_key, expected_ref):
+            report.warnings.append(
+                ImportWarningItem(
+                    source_name,
+                    item_no,
+                    "pozostały znaki koreańskie (Hangul) w PL mimo ich braku w EN",
+                )
+            )
         store.story_glossary.setdefault(current_kind, {})[src_key] = {
             "pl": pl_line,
             "kr_sha256": sha256_text(src_key),
@@ -827,6 +866,14 @@ def _parse_story_scenes_file(
                     source_name,
                     pair_idx,
                     f"scena {current_stem}: przekroczono limit {limit_val} znaków ({visible_len(pl_line)})",
+                )
+            )
+        if has_unexpected_hangul(pl_decoded, kr_raw, en_raw, logical_file):
+            report.warnings.append(
+                ImportWarningItem(
+                    source_name,
+                    pair_idx,
+                    f"scena {current_stem}: pozostały znaki koreańskie (Hangul) w PL mimo ich braku w EN",
                 )
             )
         store.set_leaf(logical_file, addr, pl_decoded, kr_raw, en_raw)
@@ -1019,6 +1066,14 @@ def _parse_views_file(
                     source_name,
                     seq,
                     f"przekroczono limit {item['limit_val']} znaków ({visible_len(pl_encoded)})",
+                )
+            )
+        if not is_repeat and has_unexpected_hangul(pl_decoded, kr_raw, en_raw, logical_file):
+            report.warnings.append(
+                ImportWarningItem(
+                    source_name,
+                    seq,
+                    f"{logical_file}: pozostały znaki koreańskie (Hangul) w PL mimo ich braku w EN",
                 )
             )
 

@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=Abnormality].content": {
+      "pl": "Anomalie",
+      "kr_sha256": "da7ad24ff794f52735d0630e6a88596ec2fe7103006bbf96c6a21e78702f3a1f",
+      "en_sha256": "0c8db8761a6a14072052126b1b5adcc1a5e5dacdddd7b184daf6542c7809d1fd"
+    },
+    "dataList[id=Enkephalin].content": {
+      "pl": "Enkefalina",
+      "kr_sha256": "27cae99d0deec2dc6d09b673f0f40942ddd614e60111252dd78253adf8f824a4",
+      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0"
+    },
+    "dataList[id=LobotomyCorp].content": {
+      "pl": "Lobotomy Corporation",
+      "kr_sha256": "d7f69356c1d170a9b208225edeefe27fbae676ecddee654bda48c65fab02f36d",
+      "en_sha256": "3dbf4b28819d03113d939ba98106e17cca6ab7eef6768ce2b8dc5e359b53cb50"
+    },
+    "dataList[id=Office].content": {
+      "pl": "Biura",
+      "kr_sha256": "85baa0745234fcd78fe5e066b775db5d0f20597df70bf349f43ac4ef2ebc7ca7",
+      "en_sha256": "11e36f72a8b01a5f20a2347ed28fb791cd8e0957f543ee77507053bcbdf1ca8d"
+    },
+    "dataList[id=Singularity].content": {
+      "pl": "Osobliwości",
+      "kr_sha256": "57c4d4cbdc817212cb722e473038f3bb373cafb7975564c8a7d86cc5b9b7fbb6",
+      "en_sha256": "d3857409f2ec82b209b390fddd36b0f4d6227bb0cf97c48dd94417708656e1fa"
+    },
+    "dataList[id=String].content": {
+      "pl": "Nić",
+      "kr_sha256": "56df27bab5f87c437abf9e58f58cd56440618e7bc058f4a140f0e49825eeed30",
+      "en_sha256": "5373c7f8a5a69019e959540ef127be3302afdd5e2313244e6d08cbd5e975d06d"
+    }
+  }
+}

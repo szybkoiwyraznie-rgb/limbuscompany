@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Pierwsza linijka w notesie zaczynała się od drobnej wątpliwości.",
+      "kr_sha256": "d9db44ee0e2377617d2d41cacb39940a120fdcf5627adc4b7d07629204d8efab",
+      "en_sha256": "4e80d496f2d84600fe5ad7f518e445b49f478af288a9ed9d5734d06e0ff8b5c8"
+    },
+    "dataList[id=10].content": {
+      "pl": "Jeśli nadarzy się okazja, porozmawiamy o tym innym razem.",
+      "kr_sha256": "979c58b796fd2900178ca6d0e93e5b9cb68614ff90b29d69d5bb95656c474c05",
+      "en_sha256": "bc7568134a74de1f7f82e945789d85bca6c7071b7ee7c94de3bedc7910b45906"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ugh… N-następny punkt…",
+      "kr_sha256": "6c4194a89e07cd28d2f7209dbab65db3f9f4da211153086993cfcab9d6b2f5cc",
+      "en_sha256": "13ebe3b9d6160d6dd352f3922b7bc59df4d87be31d4d6feba35d830fb89b5add"
+    },
+    "dataList[id=12].content": {
+      "pl": "Bo na razie wystarczy popatrzeć, jak to dziecko przeżuwa na sucho środki przeciwbólowe, by poczuć, że ta historia jest już aż nadto pełna.",
+      "kr_sha256": "98f9f55f9a8e68d487dde02e1526412030fc307aa4ec9a84c42cd00f31009a31",
+      "en_sha256": "df26e9f1ea886f3843d16459aa0a1f60ae0d0055fd3830b681a8d815e56adca1"
+    },
+    "dataList[id=1].content": {
+      "pl": "‘Architektura R Corp. jest dziwna. Styl zabudowy zwykle przypomina Skrzydła z sąsiednich rejonów, a tu nie widać żadnego związku z J Corp., S Corp. ani T Corp.’",
+      "kr_sha256": "0b8c778d612fa3200beac5658f35ef496b544fceb4ff2b60def6b8e38c8af20d",
+      "en_sha256": "2ce0fd89294a88b82171113119823abbdce6f8df443406aa78cead83a8e8846f"
+    },
+    "dataList[id=2].content": {
+      "pl": "‘Prędzej już… jest jej blisko do W Corp. Wypytywałam ludzi, szukałam w Bibliotece, ale nikt nie zna przyczyny.’",
+      "kr_sha256": "f1d042789f6691b227468b4974d11b44445a3a07642c16943825c5c2b02e4d42",
+      "en_sha256": "199b94e41978fcd01ec6115f02261328319cf14a70195f510b2ef7d86ae3c6c0"
+    },
+    "dataList[id=3].content": {
+      "pl": "‘Piszę ten notes, żeby ją odkryć.’",
+      "kr_sha256": "6df7aa9edbafe50fc0fdee4a14f71690fcec601ebd575b824f94210c37dae9d7",
+      "en_sha256": "9f672c32f5d61503d289dc0e448a88e0a7fb6a8616cc0d94de8fc146282f2b7d"
+    },
+    "dataList[id=4].content": {
+      "pl": "Pewne jest jedno… przed obecnym R Corp. musiało istnieć dawne R Corp.",
+      "kr_sha256": "7d65aff008e8159212d75056a98869c4db06d33a321e34106052ab9927f9aa3f",
+      "en_sha256": "92521873ca6286c7d5955639915b0732e4dfa7541dd9026d4d31a1afd4732cb4"
+    },
+    "dataList[id=5].content": {
+      "pl": "Jaką Osobliwość miało dawne R Corp. i czemu zniknęło? To właśnie nie dawało dziecku spokoju.",
+      "kr_sha256": "ccaa8dc0e516894c809dcccea11eb723736c3a9cf580f687e6d9a30241898ff2",
+      "en_sha256": "455a885cec1516568113d04b8ad811c9d76e1a0f2c2f4f29cb220eb7500caa5c"
+    },
+    "dataList[id=6].content": {
+      "pl": "A idąc tym tropem…",
+      "kr_sha256": "0b75ab94034a98030da985de4f6baaefdabcedc85562bd257a1eb6c9a2cb3799",
+      "en_sha256": "1fc6614176f91d2948796cfb03ddec0104122d8d94138f168af8658f8bc3e573"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ugh… żeby to znaleźć… muszę zdobyć informacje o dawnym R Corp.",
+      "kr_sha256": "6aecc3db406c16eaf08af0c44045a8a27a4bb0cc4fb347e2ad200213e97396d1",
+      "en_sha256": "05dd8fd1adea84877b7fc80606990cfb9409ae3ecb15854aa1fe80ade3f73fdb"
+    },
+    "dataList[id=8].content": {
+      "pl": "…dziecko wierzy, że znajdzie odpowiedź na pytanie o to, czego szuka.",
+      "kr_sha256": "ca18614ad5500b9650d654054778ad42c5b20812be6fb57f01ae1b53af96ab0b",
+      "en_sha256": "c00a049f37983a5e1d1234ec35d28c92cb98bc9e13bc436423b7441e014a7007"
+    },
+    "dataList[id=9].content": {
+      "pl": "A czym jest to coś… chyba nie warto teraz o tym opowiadać.",
+      "kr_sha256": "359ba34cab49bad36c03118aadfdc79aa59ba777b37c6031f69a882ff27590dc",
+      "en_sha256": "ba7a4cc2bce32b1c9ee1f4849d95a5addfb88fb33f8eaf3f57eb07d76657c34a"
+    }
+  }
+}

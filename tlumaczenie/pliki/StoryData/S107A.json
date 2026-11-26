@@ -1,0 +1,139 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "No dobrze, wróćmy do mapy.",
+      "kr_sha256": "caa07c5f697438493516ee5309f1e58204bd1b44dadd69278c93680196317b03",
+      "en_sha256": "9427a1dfea8df59a3c4521c97f8e6a42cbb6aeb4e6e1d5b0e36b4c9254eccd04"
+    },
+    "dataList[id=10].content": {
+      "pl": "Tyle wiem i bez tykania.",
+      "kr_sha256": "5898ab3e3cf5069e6c99fa4a6c12fb5d66089e703037b9fa4815dd807f9bac5b",
+      "en_sha256": "7adbb1d7508da05212e8e133158614a2b5e9f57c85fa931643592403df3ee01a"
+    },
+    "dataList[id=11].content": {
+      "pl": "Faust bowiem wie wszystko.",
+      "kr_sha256": "d7925b0f4c2d60fa0f5eb42839a8f94c4abc8f2f0bfc20ebababf91186c42d20",
+      "en_sha256": "a33842914d9af65d3881b61ab73300a3cdb22ed53ba8f12626fd1e70b556829c"
+    },
+    "dataList[id=12].content": {
+      "pl": "<W każdym razie, skoro specjalnie, to budowa musiała trochę potrwać. Zwłaszcza ta… “paszcza” z boku.>",
+      "kr_sha256": "eaca28bcd086eaf9b61e747fcf6c3b69c07b1ad760a95a46e1ef9f9c3822e497",
+      "en_sha256": "b25d5a60369be33240eb19b2bbc5ccc4bb826cf96cf5a9e863b7eb4c29a27801"
+    },
+    "dataList[id=13].content": {
+      "pl": "Trwała dokładnie tyle, ile przewidywano.",
+      "kr_sha256": "68c9dcd9dbfaf0f1b9c88eb925fcdd6db6c0b0f6d5ee9ff0fb9c4cbe1954f202",
+      "en_sha256": "3889a4e9f46496bd958d38f89f54ddb880a6645796f6c09c391e9d365d03ac78"
+    },
+    "dataList[id=14].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "67edbf55a8ee9ed08fa013c521ca911941e46de6461565aeb03d4d8895d469ae"
+    },
+    "dataList[id=15].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=16].content": {
+      "pl": "Z nią to nawet słowa nie da się wtrącić.",
+      "kr_sha256": "00177853d5b56782296722de1a1fae88dc5cb5662afc98d1d4293e8529647bda",
+      "en_sha256": "b2631c37545ac727dd89acd520dc7c7435ab55cd739d049e8538e37c1afad3ae"
+    },
+    "dataList[id=17].content": {
+      "pl": "Faust jest geniuszem. Wie wszystko o Mieście.",
+      "kr_sha256": "93f35888aa6ac9878e599c5e39d59b5d20fff5c655d21c1cf800fd3c170202c7",
+      "en_sha256": "e852036194c5c0609d8f8bbd04698e0df95784d307e79ad643e45ac1279437b9"
+    },
+    "dataList[id=18].content": {
+      "pl": "Ej, skoro jaśnie pani taka genialna, to idź tam do przodu i znajdź im drogę. Przez ten ich jazgot nie mogę spać.",
+      "kr_sha256": "39af1f4c6174a42266ae8b7c4ee30445abba00a9eef7c8f0b173dd8c57e6158a",
+      "en_sha256": "f8f3273fd922307770be0a9115bbb20eaad48fb29520ada4e3e1d7d0d2a86119"
+    },
+    "dataList[id=19].content": {
+      "pl": "Faust nie jest wścibska. Odpowiada na pytania, ale nie mówi o tym, o co nikt nie pytał.",
+      "kr_sha256": "3d7589793d1d2452575880ddaba521993412ef10280d1bf3a218ac49cf7e2622",
+      "en_sha256": "3ed6d3956d0c70de9be2f28e5b8e380af8567b4fc8df5e4b56928b0001ff24cb"
+    },
+    "dataList[id=1].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=20].content": {
+      "pl": "Poza tym nie ma dla człowieka większej radości niż łamać sobie nad czymś głowę, aż wreszcie zrozumie. Faust nie chce psuć zabawy.",
+      "kr_sha256": "a3016630950a0767eb15e0a58fb41b0eaef687cc8acdd255bebdd364f68de512",
+      "en_sha256": "16ab003ee56a6c5eb3ae600bc0380045cebb40ad639b6a00f80147bf61aed4e3"
+    },
+    "dataList[id=21].content": {
+      "pl": "Żeby to docenić, trzeba by kiedyś nad czymś pogłówkować.",
+      "kr_sha256": "e94ce157bb619c0c75a96744c3c1e1e82a228d613f977b2849da1b5f8200d84e",
+      "en_sha256": "0007899d6f60a66db101ed0b5561f2b70e506a405a6dd6bcdde662013eda148d"
+    },
+    "dataList[id=22].content": {
+      "pl": "Widziałem, jak dłoń Heathcliffa zaciska się na pałce, ale…",
+      "kr_sha256": "304de9ea71450f2e87156f3ab206bfd4bdb5f8e12f6481986900ceb0aca7d733",
+      "en_sha256": "7080febc81d3d79fb67a3bdeed7e446a90d70ea0631e18c8fc29a24a49ec6a1d"
+    },
+    "dataList[id=23].content": {
+      "pl": "chyba poczuł na sobie wzrok Vergiliusa, bo tylko cmoknął z irytacją, skrzyżował ręce i na siłę zamknął oczy.",
+      "kr_sha256": "7158e526558874d3ffbffe94e36d397ec822333238a57e9ec264dc7d0d2fdd40",
+      "en_sha256": "7abb69b3002837afee5088091e42794a0aaf08a02cf142e62f5a01012f3cb9f2"
+    },
+    "dataList[id=24].content": {
+      "pl": "<Czemu oni są tacy pokręceni…>",
+      "kr_sha256": "ea79cc2073e6cc36b62e2b81cc8ab48c541365cdb2b3f6615464e6204918a1e0",
+      "en_sha256": "6b5e9a72db49ac94029dd0edc3ba91b12d784ee2859bb767bb3e4cc213e4bb62"
+    },
+    "dataList[id=25].content": {
+      "pl": "Hę. Widzę, że myślimy podobnie, szefie.",
+      "kr_sha256": "400d6012b566f1a26a590ffbddfad101b2d452d21bcad1399208bf13be41a741",
+      "en_sha256": "aad8adb68aea97112ac039374b3f539a21533f61aeee68dfe8ccba21de5b54b3"
+    },
+    "dataList[id=26].content": {
+      "pl": "Gregor zachichotał, a autobus znów ruszył.",
+      "kr_sha256": "18ddd904b813a91b1d9c062ee3ffefb358f0cff34c2edc8c5218a15ba171bc3e",
+      "en_sha256": "cca8bc87b6a1ddee52863834dfce39c6bd1e2592ec33e82a7d3bded0867662c4"
+    },
+    "dataList[id=2].content": {
+      "pl": "Charon, proszę nie bujać w obłokach!",
+      "kr_sha256": "c979d97df31672825489fa415446d3dace7044492f217a902d4dbd04d86e1ff0",
+      "en_sha256": "6552d2b8b26b0a2cc21b6c1bb5ac2ba4b52c0b9acb442915998c0d6e6b8d8907"
+    },
+    "dataList[id=3].content": {
+      "pl": "Kiedy tak patrzyłem na trójkę, która znów kłóciła się nad mapą, przyszło mi do głowy pytanie.",
+      "kr_sha256": "7232e166e182d8728a4b1a6483cc916c56b3f80743f24b8199951d95f7a44222",
+      "en_sha256": "74db34473b9baf564bd08dbc6ee4fda0a63d443be610cc15c53fdd87463ea377"
+    },
+    "dataList[id=4].content": {
+      "pl": "<Ten autobus zbudowano specjalnie dla Limbus Company, tak?>",
+      "kr_sha256": "0288661da560f80e9c5b3354f991ae98c31e5ed0b537340cd4a96182444176be",
+      "en_sha256": "e716fe61b74305b7d693c6c5d6d2834b0f3a39ae1602cd65b8cd4e829ba53b3f"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ściślej rzecz biorąc, wyłącznie dla nas.",
+      "kr_sha256": "b04a47175029211af1dc59ede6a7f705ff5efbf148fbd2c7377f8120e83b9867",
+      "en_sha256": "6c41d9f278fcb4239579300d1cc3f02bf77dcfde92c0c9a0be723dc7a06b7ec7"
+    },
+    "dataList[id=6].content": {
+      "pl": "Czy to nie to samo?",
+      "kr_sha256": "4b01fc28c62d86ccd3415c694f09a18bf0179ec8c987dfb0490cc131c9f7eaae",
+      "en_sha256": "bf853e66651a879ac5db19a021b4c38a50b64ad1d8612096975ce8d81b0312fa"
+    },
+    "dataList[id=7].content": {
+      "pl": "Myśli pan sobie zapewne: czy to nie to samo.",
+      "kr_sha256": "674cedf7a3cd26d2b4e134f679b5fb0fe73593674cfbe62cbc242630b059410c",
+      "en_sha256": "3600df3a5f204e71c7f5733991cb557800bfa9f3ef1a7ae3a7d4a42e2409945e"
+    },
+    "dataList[id=8].content": {
+      "pl": "<…Dziwne, nie zamierzałem mówić tego na głos.>",
+      "kr_sha256": "6011c03aa6f624f54d95689a9f0da4f03b668e09f479ec73d44f7940c484a396",
+      "en_sha256": "67a12dbe6b93732d127ffe2b88aa63c87f5e879c1f978f5de676674b3f65cf96"
+    },
+    "dataList[id=9].content": {
+      "pl": "Czyżby zegar się zepsuł?",
+      "kr_sha256": "10ceb201e2cde5c28c0458735d4d4d6bc868981f8a7316944d315993ccd0713e",
+      "en_sha256": "3abcfa08020f988f356aa9e7c342799a954f0cb698c810ea2e5577cfecd08542"
+    }
+  }
+}

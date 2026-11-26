@@ -1,0 +1,134 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Droga wolna. Ale Werg, Mefi by się przebił, gdyby po prostu jechał.",
+      "kr_sha256": "53bf8f4318430041fcd1a83c0dd4fbbf62e5e1dc591eabbdc5d0b394ae3d65f2",
+      "en_sha256": "0d31ef14af9de1b1b79534a0c71f1af8ba5b27a35dbfefffb3bcec2efb7dd725"
+    },
+    "dataList[id=10].content": {
+      "pl": "Czy to jasne?",
+      "kr_sha256": "79e080ae82c19981fdd29fd1a16bf31a9cd608af8ea9ff3d25b9cbee4d8afd3d",
+      "en_sha256": "d084a14a05d0d6861dd20284ff4627d4470e56a9ec6504dbd1b83bd79f748367"
+    },
+    "dataList[id=11].content": {
+      "pl": "Bez dyskusji.",
+      "kr_sha256": "5e14d460ace87cd091484a01d2dbe3d04884a5aadf148691bd4a30950388c6e6",
+      "en_sha256": "28ed9d40c7834750d8a978c5c2ceb06ec2396b32aa62f718dc7c4a650dc44adc"
+    },
+    "dataList[id=12].content": {
+      "pl": "<…Mam bez szemrania słuchać typa, z którym nawet nie da się pogadać?>",
+      "kr_sha256": "3a8524d1ca05c6d41abe54adb49d4e812b61e90fecd290f873815b9225d019fe",
+      "en_sha256": "081a092deb9c3b2f1622e34addd1d2099d35aa8601fdbbc392aa921df430860b"
+    },
+    "dataList[id=13].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=14].content": {
+      "pl": "Tyka, ale co mówi? Pani Faust?",
+      "kr_sha256": "e77158c892e525e94aed20f4eda56bf3c8c6f3e863e1b261588fcbcf20133a3c",
+      "en_sha256": "7e04b676cf819573a49edbad1d7c8ff208d04dd8a561d50bcce89f92b6d8f328"
+    },
+    "dataList[id=15].content": {
+      "pl": "Nic szczególnego.",
+      "kr_sha256": "fd52b90827ace726f45a2e3a24738b3bd3dee02576c2d5009d3413bd15965dc8",
+      "en_sha256": "6ecdb666144299faac9795cd59a95d22896ce178f8050fe74bc964493be08ab8"
+    },
+    "dataList[id=16].content": {
+      "pl": "Wyjątkowo okazałe przytaknięcie. Na przyszłość wystarczy skinienie głową, Dante.",
+      "kr_sha256": "0fe6086cbbdfb507cecc0793235c30e70bd6cff75f1409d63b1a068d4a0e1073",
+      "en_sha256": "494ff46460ec31a424936a3dfe794bfc5afca0e5d7aef0e2b704c0d171e34627"
+    },
+    "dataList[id=17].content": {
+      "pl": "No to, Mefi, jedziemy. Jupi.",
+      "kr_sha256": "771006c04bc789d742e232fd0f8f4ac691cce5a02d851276bed872cd9356bebe",
+      "en_sha256": "6ba9222b3f37469ae87f003d06690f14c5abfbb48b45959e919bd886590c9d8c"
+    },
+    "dataList[id=18].content": {
+      "pl": "Charon, jak się czujesz?",
+      "kr_sha256": "c0291ec5bd23197645fbefeedf39699712a4d369b104c9a875c7356d9c620651",
+      "en_sha256": "894097fc36d720f4ab5a44b3952f63c2f07da2d7439a9adcf90d06d3e4d9b244"
+    },
+    "dataList[id=19].content": {
+      "pl": "Ogromna. Radość. Zaraz odlecę, melduje Charon.",
+      "kr_sha256": "65b29ef996e556a3bf2e91aaaba49fb12f4ca10e946593063c36fd866bcfa7e4",
+      "en_sha256": "5bfeaace05c18ec22cfa44551a910cd79d89f511897e05ffba058cec0bb9e5ce"
+    },
+    "dataList[id=1].content": {
+      "pl": "<…Co?>",
+      "kr_sha256": "c3e25449cbbbfdde22f276707ad3513219d1791249d49d0f3fe0b60c153dfdce",
+      "en_sha256": "42d19ddde903c81198c283f5c41d1d18dfe5006cd0ed62dfd2e0ac790b3a0ff7"
+    },
+    "dataList[id=20].content": {
+      "pl": "…Dobrze.",
+      "kr_sha256": "d70c8f952c43d521fdba4dcba401dcdb25e6925ecfe64352d16d9c58108eb86a",
+      "en_sha256": "81de1b6157fb210a1f4c4b62287178cfe6998d27344f2bb0dea899f873913047"
+    },
+    "dataList[id=21].content": {
+      "pl": "<To dokąd właściwie jedziemy?>",
+      "kr_sha256": "4b84f63306b8b6a0a15250134de702d2a5915d845d12a92a3ce831b0c447a737",
+      "en_sha256": "a93c1f2a1bdc5957fe5c6a28220187003af5c7d306080577c3f36d1d86445435"
+    },
+    "dataList[id=22].content": {
+      "pl": "Vergiliusie, pyta, dokąd jedziemy.",
+      "kr_sha256": "fb82043889cf216b6f7ca8cbf734a79dcdd4d71e26e2b0e7bff2ed7510840b20",
+      "en_sha256": "94eedfc65c42d000e3ff9dbf47c34a6bb800518cf052af622eb4b6b76ded77c2"
+    },
+    "dataList[id=23].content": {
+      "pl": "Ech… Zdaje się, że już mówiłem, Dante.",
+      "kr_sha256": "bf75f8821eb01cf3ef9bb6a1b658d8ec0c4efa51eb8c008115b9ebcd7edcc807",
+      "en_sha256": "0a0823f911aaad17ab333588cf1d83823bee87019baf8c41c368fcea891136ec"
+    },
+    "dataList[id=24].content": {
+      "pl": "<Pytam, dokąd jedziemy!>",
+      "kr_sha256": "6e2f743908002ba14267acc896811cffa9cbe6c49fdb0b94788e27c0ba3bab49",
+      "en_sha256": "97689a238fc61f8b875afa096887e955e276b3118e9dccf0381ae6b84b2abf56"
+    },
+    "dataList[id=25].content": {
+      "pl": "Wraz z jego westchnieniem autobus nagle szarpnął i z łoskotem ruszył naprzód.",
+      "kr_sha256": "db449570cc1d50724e7dc293846f10204ac856f4f5bf99c40674105118009400",
+      "en_sha256": "3a078521d33a60096bdb5ffe5b5624eeb258174659ab05ad39282080cc138c86"
+    },
+    "dataList[id=2].content": {
+      "pl": "<To po co to wszystko robiłem?>",
+      "kr_sha256": "32ca81eb310cc290aa305e063778f0e33479d13160d068bedda0b2cb4260698d",
+      "en_sha256": "8d58b15e6a5faf1c5d0681ba05174c7502d9a4f7896bf23aff9725cd83cbd8d7"
+    },
+    "dataList[id=3].content": {
+      "pl": "Vergilius, widząc, jak klekoczę i rzucam się na wszystkie strony, chyba się domyślił, bo odezwał się:",
+      "kr_sha256": "0a1a0ba8d5946566ed616bb06e9b0ef0c0eb7acac79e0b73f0f2a9b544f70800",
+      "en_sha256": "e3144677351702b8226a032a359da53bc5dbd8c2b181b0e26c792eec75b7e857"
+    },
+    "dataList[id=4].content": {
+      "pl": "Proszę się uspokoić, Dante.",
+      "kr_sha256": "0c51cf279b61779cc08de766da97ffc441d768882819d19a2689517fd99d2ee8",
+      "en_sha256": "ad07969ad5a0a75d234b3cb8efb9fcc4f329347e57a6febc7435f29f1fd79bd2"
+    },
+    "dataList[id=5].content": {
+      "pl": "Nie każe się biegać dziecku, które nie postawiło jeszcze pierwszego kroku.",
+      "kr_sha256": "1c84393f23aea6679988a5b7b8d96c82158212423655d1915c347dce42a03dad",
+      "en_sha256": "5bbb76a49f25d1bf6a7ff0998698650abd94747c7d74317d7ca0612d8d242797"
+    },
+    "dataList[id=6].content": {
+      "pl": "Skoro jest okazja się przejść, trzeba najpierw iść o własnych siłach, a dopiero potem biec.",
+      "kr_sha256": "dfb1feba2b82c277f96d1e292f373caffbef819fd2a8dfe36809759da406f8b4",
+      "en_sha256": "49fc6e59e56cedad0ece66a5d8102a417fb80e5151deb430c12ed856b5137bda"
+    },
+    "dataList[id=7].content": {
+      "pl": "I jeszcze… Dante.",
+      "kr_sha256": "73a7fb4074349337b17b4563cd6ada045565a07d52404a04f5553807b29ed32e",
+      "en_sha256": "41444822251e54ed703d7e4392fa918b62014192c4091e178e9d151342860aa1"
+    },
+    "dataList[id=8].content": {
+      "pl": "Jest pan Kierownikiem… Pańskim zadaniem jest nimi “kierować”.",
+      "kr_sha256": "f977dc90c919a24d0870ab3475a1d31ca6a1b76fb74c2daaaf5b1c7cdb2a823d",
+      "en_sha256": "9a9bcfa8c397a5c809e3e8520d988af5088580ff3909a7a0669456e33d0f10a0"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ja zaś… jestem przewodnikiem. Dokąd jedziemy i jak torujemy drogę, decyduję ja.",
+      "kr_sha256": "ac1ae8344e7f053e3b2cab0613995ba444357e04f977e93ed0fe729e876cb066",
+      "en_sha256": "85ee5db97eb6f3f69b47664c386fdfad2663561b0b94ca2229763d2b148f92ea"
+    }
+  }
+}

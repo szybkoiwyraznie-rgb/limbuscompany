@@ -1,0 +1,99 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Proszę wymienić firmy, które sprzymierzyły się z panią w czasie wojny.",
+      "kr_sha256": "93c05eb9ce4a4a5fd6d64712787a37d790e2038e41766609b10261f007e5c224",
+      "en_sha256": "01f2828c2aa841af0adf4300735c8458878127c609908f7e7576e5ace38565aa"
+    },
+    "dataList[id=10].content": {
+      "pl": "Proszę posłuchać, wojna się skończyła. I to waszym zwycięstwem.",
+      "kr_sha256": "70f9755a7538d1a8baa2b445575f68f735f5e2b1074665c924d484dfd9ddf8f5",
+      "en_sha256": "2346de9e68830a278cbae88c003bd7eba1b9af00fd035a185b2cd22d853ec44a"
+    },
+    "dataList[id=11].content": {
+      "pl": "G Corp. zgodnie z planem uzyskało z produktów ubocznych dymu energię na najbliższe dziesięciolecia.",
+      "kr_sha256": "e1f2cd6e599deadf258c87fc81098d09ab6c5b9f77525a0d5d3d4947bb3ff914",
+      "en_sha256": "732994532b19b61fa5657a4d1377dc3781b023278c157ee4d1eb2b2052573bb4"
+    },
+    "dataList[id=12].content": {
+      "pl": "To posiedzenie nie ma na celu pociągnięcia pani do odpowiedzialności ani ukarania. Czy to jasne?",
+      "kr_sha256": "d1c6a3061500589fdb7fb5235390a2f260cdd05af57a61d4892a5f217c25d178",
+      "en_sha256": "fce2b417a0a6d77772ed83e6f12b77ad8e3bf190bdcb26f2e57e8053cfc6e0af"
+    },
+    "dataList[id=13].content": {
+      "pl": "Akurat, pomyślało dziecko.",
+      "kr_sha256": "5a5fa474db242cfd5db404097f771a953f9ae93fe929a9d6df97743a8aaf7a1e",
+      "en_sha256": "45229d71d806bb12008eed2b754ef932a88f414ec0fe73147563d40330359e9e"
+    },
+    "dataList[id=14].content": {
+      "pl": "Zwycięstwo nie oznacza, że sojusz G Corp. rozciąga wpływy na całe Miasto.",
+      "kr_sha256": "e644be05db60d9a176aa0e9a6b72d53bf4d01dbae100c52aab32534c6a9fc5bb",
+      "en_sha256": "abe697e33dd4be2f94f936ac99cf4012d40dad7c9ad261f0e3a4b52d79d375b4"
+    },
+    "dataList[id=15].content": {
+      "pl": "Przeciwnie, w wojnie, w której tak zawile splatały się interesy wielu Skrzydeł, zwycięzca potrzebuje usprawiedliwienia.",
+      "kr_sha256": "e02208db7716ed20947629344086a1c57b55558213b09581c44a6b4c2401061f",
+      "en_sha256": "0414a9b417fe3f86571e614dce3b0bbd7ee740414e10e6ddbbe3d58fd171618d"
+    },
+    "dataList[id=16].content": {
+      "pl": "A zatem firma wybierze… strategię umacniania wizerunku nieskazitelnego zwycięzcy przez pozbycie się kogoś, na kogo łatwo wskazać palcem.",
+      "kr_sha256": "02d887b4c2ff99f02ce14035f9d6e628a65e1e935a6a26e10a905aad77996cec",
+      "en_sha256": "ce28c3f40a5687f9a33246e7575effc07bf78c98390d4b9717c8c99b706d2af7"
+    },
+    "dataList[id=17].content": {
+      "pl": "Ja bym tak zrobiła - myślało dziecko…",
+      "kr_sha256": "2b06d91d6539d2e9e9125369ace66f81d10f15b9d3a92276749a1ac360552bd2",
+      "en_sha256": "bdd18ed23276f7f9ff9dd6a36d3f7ac4865ba8ff7239a1d042d5b42a71fd125b"
+    },
+    "dataList[id=18].content": {
+      "pl": "…Rozumiem.",
+      "kr_sha256": "1f90bc03f1d30b0046b62d66f2c2a8c77e1b4ef58ad58aa67633cb9ccda030ae",
+      "en_sha256": "4d9e7e4811b7feb2d887a7da483bc8ff9fa8f5bd01ee0bfecf980f5d20e9be66"
+    },
+    "dataList[id=1].content": {
+      "pl": "…F Corp. i E Corp.",
+      "kr_sha256": "5bd07d4fc68d893aaa18655196bba1de38c11d12b9bec10dc8f427ce9831a4dc",
+      "en_sha256": "32fa4ed16a6b18a1201f33a5561c1449305dd79380efdc188181134da4455b94"
+    },
+    "dataList[id=2].content": {
+      "pl": "…A poza nimi?",
+      "kr_sha256": "402f94f27d8fd79529f67fbc0997ce36bd2009d7dd725de53775beebff0b458d",
+      "en_sha256": "6342099500cb9f7822e4baa2741b8233d8cfed9f4391ae1fa9203e81311a2ef0"
+    },
+    "dataList[id=3].content": {
+      "pl": "Dziecko myślało: po co pytacie, skoro wszystko wiecie? Ale aż za dobrze wiedziało, że wypowiedzenie tego na głos tylko mu zaszkodzi.",
+      "kr_sha256": "3ac68f6abaa04aaaac366fe01ab2560671d70fbe108ede2c3c83c266b0a8c39c",
+      "en_sha256": "cf36dd12048b68e3ed542701dadd77e799f4b5be199660ffaf9db1c5b59f8a1a"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Dawne L Corp.",
+      "kr_sha256": "7a0dee0172badad2756086d997fb9f315f9c2ff1781e451ef69bbde883975b9a",
+      "en_sha256": "e935f180fb9f52b38a41e8bbd738c00229681c35c8891fa46e186e96c414b902"
+    },
+    "dataList[id=5].content": {
+      "pl": "Wynika z tego zatem, że walczyła pani ramię w ramię z tym, kto tę wojnę rozpętał. Przyznaje pani?",
+      "kr_sha256": "d084a2f97a1e7421c1f2456e9287bd5dee9604b10ab47ac31ac8abaef273b0cd",
+      "en_sha256": "4da00ca9f16fb6ded5ce33ee838e2d245bb0f064664799e51cf39e5469b08f44"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ja jako pracownica jedynie wykonywałam rozkazy G Corp.…!",
+      "kr_sha256": "2f5693fa7dc213fb2bc2cd06208dc79523066e89f3b2552e29370c2ef7f1d266",
+      "en_sha256": "03e4be44b10e46b3330115a0d5c96a664eedb13c82cb22ef0be83e6b2f868e2e"
+    },
+    "dataList[id=7].content": {
+      "pl": "Pani kierownik działu Outis.",
+      "kr_sha256": "18a0787bb8779f8f424ba834e5d355a4dc450dff03b417cd7e214da5f8449cda",
+      "en_sha256": "b4ef857a2decbda24e89c0fd5d51dea4a834f5f915c39ff702aec2fa617ef0f4"
+    },
+    "dataList[id=8].content": {
+      "pl": "Sędzia, najwyraźniej niezadowolony, że dziecko ciągle mu przerywa, spokojnie uniósł dłoń, by ją powstrzymać.",
+      "kr_sha256": "e24724756485c2a6905a9c52b344f8d5952aa084618d87dabaab3ffd4554b29c",
+      "en_sha256": "d86b4fb6ecb6b07a603deba09e5398ad68ec2d6ecb34871e9ab0f794d6c025bb"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Kierownik działu Outis.",
+      "kr_sha256": "1a48a786c283628e47883283bd4622f4d52fcdea06683296aae68c203328ff7b",
+      "en_sha256": "18a6735727dd931233d40c51ca86080d18939de9b20a7748b96d14c146743bfc"
+    }
+  }
+}

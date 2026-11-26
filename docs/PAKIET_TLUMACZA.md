@@ -137,22 +137,34 @@ Pomiar na buildzie Steam `26652290` (`plik_dla_tlumacza_v2.zip`, E-008):
 - Wpisy obecne w danych gry wyłącznie po angielsku (96 liści w 10 plikach, np.
   sztandary i bilety sezonowe) są jawnie oznaczone `tylko EN w danych gry`, dzięki
   czemu żaden widoczny w grze napis nie zostaje pominięty.
+- W całym korpusie `StoryData/*.json` (`id != -1`) występują dokładnie dwa
+  wewnętrzne znaczniki skryptu scenariusza pozostawione bez `id: -1` w
+  `StoryData/3D309I2.json` (`id=56`: `//효과연출1`, `id=61`: `//효과연출2`), które
+  oficjalne `EN` zostawia bez zmian. Tłumacz może albo przekopiować je bez zmian
+  do `PL:`, albo zostawić `PL:` puste (wtedy `build_lang.py` zachowuje identyczny
+  tekst z `EN`); `import_zwrotki.py` pilnuje, by nie zostały przypadkowo zmienione
+  na inny tekst, i nie zgłasza dla nich ostrzeżenia o znakach koreańskich.
 
-## Import zwrotki — bramki (planowane `tools/import_zwrotki.py`)
+## Import zwrotki — bramki (`tools/import_zwrotki.py`)
 
-1. Wersja pakietu i build danych pasują do aktualnych — inaczej odmowa albo
-   jawny tryb „przenieś na nowy build” z raportem.
-2. Każdy element: niezmieniona linia źródła, `źródło:` i `EN:`, poprawne tokeny,
-   niepusty `PL:` (pusty = brak, raportowany; tłumacz może odsyłać dowolne podzbiory
-   plików `.md`).
-3. Zapis atomowy do `tlumaczenie/` i raport importu w `zwrotki/<nr>/`.
-4. Poprawki techniczne agenta idą do rejestru poprawek, nigdy cicho.
+1. Zgodność ze źródłem `index/localize` (domyślnie tryb ścisły; po aktualizacji
+   gry jawna flaga `--allow-older-package` bezstratnie przenosi zwrotki z
+   wcześniejszego pakietu bazowego z ostrzeżeniami dla zmienionych wpisów).
+2. Każdy element: niezmieniona linia źródła, `źródło:` i `EN:`, poprawne tokeny
+   (`{0}`, `[Keyword]`, zbalansowane znaczniki TMP, styl `DEN` w `BgmLyrics/*`,
+   nienaruszone znaczniki `//…` w `StoryData/*`), ostrzeżenie przy pozostawieniu
+   znaków koreańskich (Hangul) w `PL:` tam, gdzie `EN` ich nie zawiera.
+3. Automatyczne dziedziczenie powtórzeń wewnątrz pliku (`widoki`) i między scenami
+   (`sceny`, przez `tlumaczenie/powtorzenia.json`) oraz atomowy zapis do
+   `tlumaczenie/`.
+4. Poprawki techniczne agenta idą wyłącznie do bramek walidacji — tekst gry nigdy
+   nie jest dopisywany ani zmieniany przez agenta (`AGENTS.md`).
 
 ## Odtworzenie
 
 ```text
-python3 tools/story_index.py                        # indeks kolejności fabuły
-python3 tools/build_package.py --version 2          # pełny pakiet: README.md + sceny.zip + widoki.zip
-python3 tools/build_package.py --only 100 --only 101    # próbka fabularna: Prolog + Canto I
-python3 tools/build_package.py --no-views           # tylko sceny.zip (bez widoki.zip)
+python3 tools/story_index.py                                    # indeks kolejności fabuły
+python3 tools/build_package.py --version 2                      # pełny pakiet: README.md + sceny.zip + widoki.zip
+python3 tools/import_zwrotki.py sciezka/do/zwrotki.zip          # walidacja i import zwrotki do tlumaczenie/
+python3 tools/build_lang.py --out dist/LCB_PL_Polski_v1.zip     # produkcyjna paczka Lang/Polski/
 ```

@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Ło?!",
+      "kr_sha256": "a19ba62852952fb07d45fc09be8cac2e0affb6c1c5c4d2d4f31e62c7cc77dbeb",
+      "en_sha256": "5b9611f94fd8fe3ef0d6bc2cb48e48804f3f29e2f8c75facced54267d5eeeac8"
+    },
+    "dataList[id=10].content": {
+      "pl": "Dziecko, które zadało pytanie, wciąż przekrzywiało głowę, jakby nadal nic nie rozumiało, a to, które odpowiedziało, patrzyło na nie z bladym uśmiechem.",
+      "kr_sha256": "9d8efe4d03869d9baba692942f3caaf746aa39681583d3b9af4918275368ba88",
+      "en_sha256": "577902432999d45f854f800ca6cc251fe40379f47f8a64b5de5254583e4b1cb4"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ćwicz pilniej.",
+      "kr_sha256": "0650aa00d508abdd988adab13fe6be26ead28125ae25a61116ffb36a8251c605",
+      "en_sha256": "2610389c857b02b5c3ae70f8f65ff2c937f4e083376cdd539697e3cb7a328a57"
+    },
+    "dataList[id=12].content": {
+      "pl": "I dziecko odeszło.",
+      "kr_sha256": "fdce2a7675741c635943b97301fa0b6ce84db3e1ce7a407203e73503d7691626",
+      "en_sha256": "9d253436aebfd1cc58b5697415e6955e94317f1919655529a05c45cb2cfb29d7"
+    },
+    "dataList[id=1].content": {
+      "pl": "Buchnął szkarłatny płomień.",
+      "kr_sha256": "de78eae78e9db7568912a296897ec889a4e324534a84bcf6169885d7c8969f9d",
+      "en_sha256": "3d16c1c5f2adf30ebbcf8590e87ae9342e33b56c4a3188503196bef0c0eb8d17"
+    },
+    "dataList[id=2].content": {
+      "pl": "Dziecko z mieczem ze strachu klapnęło na tyłek, a dziecko w rękawicach bojowych podało mu rękę.",
+      "kr_sha256": "1ec8a22d50d750a12acbca44046c74f783f9c28c50cdbb76ca640aca2b6f65ca",
+      "en_sha256": "8dbb609541873f8bf4c10b38fb71d5612e814d22e6ad87025580c902587a9265"
+    },
+    "dataList[id=3].content": {
+      "pl": "Panie Meursault…",
+      "kr_sha256": "6bf9dacd25417956da4803d0c3ae4f1ea259a733dfa5ddecf3814e2e3f992d96",
+      "en_sha256": "20327fea583227de962138a2113cefc4bb409ef8f9b01c8c880eb4c86dbac9aa"
+    },
+    "dataList[id=4].content": {
+      "pl": "Jeśli trafić we właściwy punkt we właściwej chwili, sprzęt Liu potrafi skrzesać ogień.",
+      "kr_sha256": "093e43a3cdc607f2179c7e38ced74c83fd047bc5552d5e33c88acd41cc4baaca",
+      "en_sha256": "de1df136f2e58a741b7c4a4f320c30aa31d908b09b9ac034ee63d6ff930276eb"
+    },
+    "dataList[id=5].content": {
+      "pl": "Tak przemówiło małomówne dziecko, wyciągając ku leżącemu rękawicę, na której dogasał płomień.",
+      "kr_sha256": "1d973094b13cd298c36747f8d609db2d08ff786a2d6c56dfb5097bee418df606",
+      "en_sha256": "c45695e19e518844ad00742f7d02502ccb5bbde0447d31789f73e170b66ce984"
+    },
+    "dataList[id=6].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=7].content": {
+      "pl": "Z drugiej strony, bez właściwej trajektorii i tarcia nic nie zapłonie. Żaden płomień nie wznieca się sam.",
+      "kr_sha256": "afe5e6e421683e482f8b1bb1f7b7a37b883bef0332f273cc79163ac0dacd407d",
+      "en_sha256": "9a26065538b31918b36659b4f212f62e260feb0167135d91f1ba6fa3cf3f7449"
+    },
+    "dataList[id=8].content": {
+      "pl": "Eee…",
+      "kr_sha256": "a8fe219b81666c2bef996dd75552f7e55f656eee1f09e94a5390265075fc5e37",
+      "en_sha256": "4ef95a2acdfaec00afbbb0bcf1d9bb550917cc8a02aff1227a7f6d2f3962efeb"
+    },
+    "dataList[id=9].content": {
+      "pl": "Uczono mnie, że tak jest ze wszystkim w Liu. Dlatego to naturalne, że ogień się rozpala, i naturalne, że wciąż jestem w Sekcji 6.",
+      "kr_sha256": "2fe073296231b913533ab1f1c03d3b91e1657335cfe912cc0abca1bf2c6636c7",
+      "en_sha256": "3f9e196367ee1131f4c8d142cbd5d3dc1946e31aa25144ff41679a60729e0043"
+    }
+  }
+}

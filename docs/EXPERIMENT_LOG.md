@@ -477,6 +477,52 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   opublikowaniu nowego zrzutu `StaticData` w OpenLethe (w pakiecie dla tłumacza
   są już kompletne w 100% z `Localize`).
 
+---
 
+### E-014 · 2026-11-26 · Integracja pierwszej zwrotki tłumacza (`LC_PL1.zip`) i budowa pierwszej produkcyjnej paczki polskiej `LCB_PL_Polski_26917622_v1.zip`
 
+- **Rodzaj dowodu:** **test na rzeczywistej zwrotce tłumacza i danych gry właściciela (`26917622`)** + **test syntetyczny** (`63/63`).
+- **Wejście (`LC_PL1.zip`):** `1 692 944` B, SHA-256
+  `ae9a4d7ada782d11d190875fba228e70d7ac53fffc9dbf7384fef247807ccb1f` — `19`
+  plików Markdown z `plik_dla_tlumacza_v2.zip`:
+  - kompletny **Prolog** (`01_prologue_selva_oscura.md`: `395/395`),
+    **Canto I** (`02_canto_i_the_outcast.md`: `1 185/1 185`),
+    **Canto II** (`03_canto_ii_the_unloving.md`: `1 242/1 242`) oraz
+    **Canto III** (`04_canto_iii_the_unconfronting_a.md`: `1 553/1 553` +
+    `04_canto_iii_the_unconfronting_b.md`: `107/107`);
+  - **36 historii Tożsamości Sezonu 1** w `identity-01.md` … `identity-12.md`
+    (`P10102` … `P11204`, łącznie `788` wypełnionych pól `PL:`);
+  - słownik `mowcy-i-miejsca.md` (`169` wpisów: `78` `teller`, `37` `title`,
+    `38` `place`, `16` `model`);
+  - `widoki/07_notatki_dantego_i_teatr.md` (`113` wpisów: karty Teatru
+    `StoryTheaterMain.json`, tytuły 36 historii lustrzanych
+    `StoryTheaterMirrorWorldStoryTitle.json` + `StoryTheaterPersonality.json`
+    oraz Notatki Dantego `StoryTheaterDanteNote*.json` / `StoryTheaterDanteNoteDetail*.json`).
+- **Analiza korpusu dla pytania technicznego tłumacza (`//효과연출1`, `//효과연출2`):**
+  - przeskanowano wszystkie `1 003` pliki `StoryData/*.json` (`id != -1`) w całym
+    korpusie `index/localize/{kr,en}`: wiersze `StoryData/3D309I2.json` `id=56`
+    (`"//효과연출1"`) i `id=61` (`"//효과연출2"`) są **jedynymi dwoma wierszami w
+    całych `sceny/`** (`id != -1`), w których oficjalne `EN` (podobnie jak łatki
+    społeczności `RU` i `FR`) pozostawia tekst koreański / prefiks `//`;
+  - są to wewnętrzne znaczniki inscenizacji/VFX w scenie z Demianem i Kromer,
+    którym scenarzysta omyłkowo nie nadał `id: -1` (w pozostałych scenach
+    Canto III komentarze `//효과음` i `//CG` mają `id: -1`);
+  - uzupełniono `tools/import_zwrotki.py` o bramkę chroniącą znaczniki `//…` w
+    `StoryData/*` przed przypadkową zmianą treści oraz o ostrzeżenie przy
+    niezamierzonych znakach Hangul w `PL:` (gdy `EN` ich nie zawiera), a w
+    `tools/build_lang.py` dopięto rzutowanie `ScenarioModelCodes-AutoCreated.json`
+    `nickName` ← `story_glossary["title"]` (z weryfikacją `en_sha256`, bez
+    fałszywych dopasowań na zamazanych ciągach `■■■`).
+- **Wynik importu (`tlumaczenie/`) i budowy paczki produkcyjnej (`dist/LCB_PL_Polski_26917622_v1.zip`):**
+  - ścisły `tools/import_zwrotki.py` na buildzie `26917622`: **`0` błędów, `0`
+    ostrzeżeń**; `5 552` przetłumaczonych pozycji + `176` odziedziczonych
+    powtórzeń → `149` plików w `tlumaczenie/pliki/` (`5 559` adresów) + `169`
+    wpisów w `tlumaczenie/slowniki.json` + `379` powiązań w `powtorzenia.json`;
+  - deterministyczna paczka produkcyjna **`LCB_PL_Polski_26917622_v1.zip`**:
+    `7 491 054` B, SHA-256
+    `b335c53abf082a201a15dc4dfbc9f7710df84ee5d559f9f24bdd2ab7e4169e82`
+    (`2 421` zweryfikowanych plików JSON, w tym **`469` zmodyfikowanych** i
+    **`12 099 / 193 308` (`6,26%`)** przetłumaczonych liści w całej grze przy
+    `0` zdezaktualizowanych źródłach i bezpiecznym fallbacku `EN` dla reszty) —
+    wgrana na Dysk Google właściciela ze zgodną sumą kontrolną.
 

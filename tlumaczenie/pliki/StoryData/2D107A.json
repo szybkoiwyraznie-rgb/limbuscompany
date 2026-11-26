@@ -1,0 +1,44 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Z-zaraz… czemu one idą w tę stronę? Stać! Stać, mówię!",
+      "kr_sha256": "f72dd7da3bf9f0e0b62dba1cc5500bad0ba4f40e7e744fe2df13971b491d94f4",
+      "en_sha256": "d4006012f1e64af831afd375dad42d4e7872e7017ad61a66e13cc2beec5eb211"
+    },
+    "dataList[id=1].content": {
+      "pl": "Z-zdejmijcie je ze mnie! Szybko!",
+      "kr_sha256": "f4d3cb0e1f3d30906b98a5a638d3ca2a99142ed84dc982879d6007da788cb281",
+      "en_sha256": "90e3950eea63f30feedc980d5489b88cfa03f8dced29ff1dd5dbef3006018d78"
+    },
+    "dataList[id=2].content": {
+      "pl": "…Czterdzieści siedem milionów dziewięćset…",
+      "kr_sha256": "ce379a4aad76f64234c4d6e692f1320af79545c5f8eff3df0189702768eac485",
+      "en_sha256": "dcd1d564dd43e50fe79c75305ebef6aec7062c009b82c59b78b752c622c6cec7"
+    },
+    "dataList[id=3].content": {
+      "pl": "Dłużnicy po prostu w milczeniu machali dalej kilofami: zostało im jeszcze 47 900 000 uderzeń.",
+      "kr_sha256": "80e143b45369347f44cea2cdea9e4dbea32e63b9be32ad4c7f59e19bdd96dd3d",
+      "en_sha256": "317acdbb18d48dc46b7fb4559389904bf8750356d7674fe3a154f1b2fe7738a9"
+    },
+    "dataList[id=4].content": {
+      "pl": "Wykorzystaliśmy zamieszanie i zeszliśmy niżej.",
+      "kr_sha256": "651d69ff33518c68233e9e2785965d7900f2e29dcbd2c4f415c40a6c0624c166",
+      "en_sha256": "aa101586119dfbac11bc79c3e852a33a4d28d8d9677749f6a0981ecf8e522026"
+    },
+    "dataList[id=5].content": {
+      "pl": "Wychodzi na to, że dłużnicy nam pomogli.",
+      "kr_sha256": "4e01565c60b396388936a1a98909844764d779091094d9f67d6ef4919d84c1d5",
+      "en_sha256": "4673a92723f93bd1fe3ebc1a3ba71c09ffba2d1761682773979aeccf7950af70"
+    },
+    "dataList[id=6].content": {
+      "pl": "Przypadek i tyle.",
+      "kr_sha256": "d6f137691fe425ea2eca689f59cd8274db557ef3e8eb4c2e3b92c25a6fb9eeba",
+      "en_sha256": "4f9f7f6831f45f2472b2b4c318c848696cd8b3d880ce684a47ac3e0e264c6483"
+    },
+    "dataList[id=7].content": {
+      "pl": "Tylko Rodion odparła to z obojętną miną.",
+      "kr_sha256": "72ff104558835d31fd9902d10899327b943ffe0abde70208bf4ae89b24a3e13b",
+      "en_sha256": "c6b18c794108d4b8a87dcacc88b12ffb9e5f4cb3d37f8d052c73bed3a35759d2"
+    }
+  }
+}

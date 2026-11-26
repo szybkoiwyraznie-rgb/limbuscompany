@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Dziecko po prostu uderzało.",
+      "kr_sha256": "6731844a47cb75ce2cd93435ec90227122fa65a161caab8d4a54a8e6fe49a2a0",
+      "en_sha256": "6389657588a5171919d6de6619bf73dff3073dde588a801edd7b546436da2179"
+    },
+    "dataList[id=10].content": {
+      "pl": "A tak wytarte serce…",
+      "kr_sha256": "a533c96ef9d2106d15dcca57dcd34a8aca80f07aa2b2d36ae95aaa326d1afe5c",
+      "en_sha256": "7c1b00a2d83ba86ef742363e1d579065fbd7f7d50d873f1d3a707826e876d8e2"
+    },
+    "dataList[id=11].content": {
+      "pl": "…chyba w końcu doszło do odpowiedzi, że słusznie jest zabijać i dławić w sobie uczucia.",
+      "kr_sha256": "fa6ac50ca577c41a95b28ad34007ed213c914aee77b123f43a90c53f221ce6ba",
+      "en_sha256": "b55ad710978448f07bdbe204f198c253db91d188fc9d4bcf1ea5eef6f8126eb0"
+    },
+    "dataList[id=12].content": {
+      "pl": "Dobrze.",
+      "kr_sha256": "47dd1707211c7354d813fcd6c66319369aef44dca3d28aedf2278035f5fb055c",
+      "en_sha256": "fa6bb507275539764d28626ec38495b292f2c405017ac0dc77e3a1336c41355a"
+    },
+    "dataList[id=13].content": {
+      "pl": "Jeśli to dla twojego dobra,",
+      "kr_sha256": "b7616b91f88d42d595316e4d93479863061ade7809ca934d2fee1ebc8a8544dd",
+      "en_sha256": "03021917180eb36898e960f416afd0cb3c0faecf49d58cb3faf8394335fb84e3"
+    },
+    "dataList[id=14].content": {
+      "pl": "to i to jest na swój sposób słuszne.",
+      "kr_sha256": "88785d8e9f7ce89f6e95df2327ede2368db208b997ba0491ba4e8480397085c3",
+      "en_sha256": "546f9a40574d697fbf5f7790cf858f48965a996455ff8ead1fd779a30c5468d0"
+    },
+    "dataList[id=1].content": {
+      "pl": "Może rąbało.",
+      "kr_sha256": "682ddb4a24fdcf8868a5d1d71c41a6318bc9c99484658adfc8a67df9d617ac36",
+      "en_sha256": "47cdff130ec0af8fb5237c37800b2c3efaa49381f6015b14d6042afab2d96d52"
+    },
+    "dataList[id=2].content": {
+      "pl": "A może wbijało.",
+      "kr_sha256": "c3ab72bee34f104d4ee779e9502ba2dd5a3a4a085dab2aebfd15f06463c7a9d8",
+      "en_sha256": "65815ceaa4bb838c5c6b132ac5d7bb5b7c0cdc3aaec00d32da3121c215523bcd"
+    },
+    "dataList[id=3].content": {
+      "pl": "Na jego piersi, jakby w uznaniu dotychczasowych trudów, widniała już odznaka o stopień wyższa.",
+      "kr_sha256": "28ac09d7a815eeb29431a059d3df20bead1b948165076c79de31cded008747d9",
+      "en_sha256": "17b5902f79ac6805ac6095d48a473a0dedcb04f3bd2083faee2ac6b9b8451ceb"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ale jasne, śmiałe niegdyś oczy dziecka zdawały się zapaść gdzieś głęboko pod ziemię. Nie było w nich żadnej barwy.",
+      "kr_sha256": "56e2b8aa03fce1c1059532b131a6b757ad6fde6f3e26d66f530bab93fcf29f79",
+      "en_sha256": "0402fcc38226ce49b0fab700ece265e335d4f35f822716a8636fd931e58311c0"
+    },
+    "dataList[id=5].content": {
+      "pl": "Czy ta wojna miała jakiś sens?",
+      "kr_sha256": "e7975337353245dc9f69abcc0f2d7e03cdd0150b47da6b1c2fa219280b94b2c0",
+      "en_sha256": "e6f9ae4baad1dba8aa3e61850ca858789799396b6ce734203e582141253b9c77"
+    },
+    "dataList[id=6].content": {
+      "pl": "Splątane spory Skrzydeł o wpływy? Pewnie i to, ale czy liczyły się w nich interesy wszystkich tych dzieci, które poszły do tej bitwy?",
+      "kr_sha256": "143c56838dc1f81acff44542bc163560ccdc277d1d3639e3fcc2ea50a9525a54",
+      "en_sha256": "dadc317a5987fb6ce94e882cc4f17212761cf5aa580af9116f72b1c41fed0cd2"
+    },
+    "dataList[id=7].content": {
+      "pl": "Chciałoby się wierzyć, że tak.",
+      "kr_sha256": "5e2675836ab8023c7c3a7d5e46391431cd7e7c1e907b6e1deaf9c68219345e13",
+      "en_sha256": "48581924d16c2ae407e400efa1a34d164f16ef27a649ceead072626c5831f833"
+    },
+    "dataList[id=8].content": {
+      "pl": "Bo to dziecko z twarzą, która niczego już nie pragnie, raz po raz przebija serca wrogów.",
+      "kr_sha256": "be9cff39e2f897ad75edf57b535de00482d8e90b203cc623166dfec5e5e796e7",
+      "en_sha256": "317b276ff1d7207a7614a0e143dd6e73ef85f72049ee0c8341ee598abdf271ab"
+    },
+    "dataList[id=9].content": {
+      "pl": "Jeszcze niedawno salutowało komuś z niewinną twarzą, a ta krótka chwila zapisała mu się w pamięci jako czas wcale nie krótki.",
+      "kr_sha256": "e4fe43ccc1f778d6b74fa503b5bef40e911148e83a8c225452b6cbd8342eaad5",
+      "en_sha256": "ae2080f73a68cf143c48643e56f878cbea039fb6bb8c6058857295fa693378ea"
+    }
+  }
+}

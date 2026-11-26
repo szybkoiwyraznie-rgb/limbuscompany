@@ -1,0 +1,159 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Jesteśmy. Charon jednak znała drogę.",
+      "kr_sha256": "889c01f4bc1dec10190d7157344444847d4ca39f673336939c1ad730874d5c6b",
+      "en_sha256": "356a181c3bdfde2e48c57ca9a9538fd96d15f25b26e54f9fd73e1b0e369b077b"
+    },
+    "dataList[id=10].content": {
+      "pl": "<Hę, a to co za nowe twarze…>",
+      "kr_sha256": "70648c48166314cfeac30e0a4d51fd87c80f384cc4e325247d56a69c3396ab72",
+      "en_sha256": "eeafbc37025770413523c34ffe107f7c4f612ddc4e0bc1c36710c10b6a00c866"
+    },
+    "dataList[id=11].content": {
+      "pl": "To Fikserzy z tego samego biura co pani Yuri.",
+      "kr_sha256": "25e5bc3888f9529bfe857121a7dad44c59b74d046d397ddc1044df412f6476fa",
+      "en_sha256": "3ac6fac7e2c0dd8f54cb58ed1f9451fdedeff5b19eb9a7c7e6eea6a71890a146"
+    },
+    "dataList[id=12].content": {
+      "pl": "Doświadczeni ludzie, którzy już nieraz odwiedzali filie L Corp.",
+      "kr_sha256": "0c1828b231c1ecdfcfe27f496fa870a3d4b863263c00908d4a289c9422f3a79a",
+      "en_sha256": "fc4fb7b0ce44fa660e85dc386edb229315ebb568dff400bc5fb5f7b09a70048c"
+    },
+    "dataList[id=13].content": {
+      "pl": "Przedstawiam. Po lewej pan Hopkins, a po prawej pani Aya.",
+      "kr_sha256": "3eeec333f4666d03e3478de5267e9291c3368db2d8e6796df3a5927ae7996897",
+      "en_sha256": "85e1a81cc66645c54107d7c3aaa5b4956ce73c0c485af03d026406f39224e01c"
+    },
+    "dataList[id=14].content": {
+      "pl": "Dzień dobry~",
+      "kr_sha256": "8d8314b247273aed49448766d720bd7a3f4271968957d627d0e3cb37b0810455",
+      "en_sha256": "71a34160ef9c183519aab975f2628c5feb2ad3f46eb8fa793e97736859dbb2c3"
+    },
+    "dataList[id=15].content": {
+      "pl": "Sz… Sz… Sz…",
+      "kr_sha256": "4c882f681e304a1145df9a6ab000eeecdb8966d6143bb8416a205242b418ebe4",
+      "en_sha256": "46fc8b6bc322a39a6c1e8eb255440399a274df1211f38732a912b9f5b0b93318"
+    },
+    "dataList[id=16].content": {
+      "pl": "Szkarłatne Spojrzenie, proszę pana! Poznać pana osobiście to dla mnie, d-doprawdy, zaszczyt…! Tyle o panu słyszałem, a teraz tak, na żywo…",
+      "kr_sha256": "89f138c8b4e7b6690b0fcf30586daadaeea7189d443b9cff893aa8b4fcf5002b",
+      "en_sha256": "b9799532d800e14f1cebcd34a50709b8de217d56e6b0859ed2446e8e8aa7311f"
+    },
+    "dataList[id=17].content": {
+      "pl": "Mhm.",
+      "kr_sha256": "0415d0d081db66e334ecf918d93960972e4ca4c1d401076713cf7a1887022da2",
+      "en_sha256": "62991c199e7fec0ffbd83281fe8a6242e522309d690b4898d85b2dfd787d995a"
+    },
+    "dataList[id=18].content": {
+      "pl": "Widzicie tamten rozpadający się magazyn? W środku są schody w dół.",
+      "kr_sha256": "1e08860ea10c7f289a7aad12d2fd153734b5ed08e1a7d40feeee60076aeabe33",
+      "en_sha256": "5ee41be3cdb2b57ee3c1432c920c73e6dc74ef26950c0520dcfc2a5ecf43e818"
+    },
+    "dataList[id=19].content": {
+      "pl": "Od schodów prowadzi pani Yuri.",
+      "kr_sha256": "8f40c2d2bf8f2a34eb753203c8f53fca3a29623320f583848f0c061854129e97",
+      "en_sha256": "e28b8635b76a8945a5ca173dacec894f0573f33fcd2e09b592f86f047c034ad6"
+    },
+    "dataList[id=1].content": {
+      "pl": "Jakie tam “jednak”?! Ile myśmy się z panem Sinclairem namęczyli, każde z jednej strony!",
+      "kr_sha256": "bdea38bf85d2e50fde99543f320053101c1fd0142e4e48631354b5cc3c5d3f02",
+      "en_sha256": "fbdcbf856dbf0b946cff6324ab9aec7a071f0e8899d95bd10853eb1ae0fa9cf2"
+    },
+    "dataList[id=20].content": {
+      "pl": "…Tak.",
+      "kr_sha256": "f6d7ce3b9d88cdc6f9dc336ac821aea94886282176aeb5b17de11461d4ca684e",
+      "en_sha256": "755563e38d9c33c1c896446fd1180ad0c574d7dc00b65b0ff282c57e8d93a0db"
+    },
+    "dataList[id=21].content": {
+      "pl": "Ci Fikserzy też mają doświadczenie, poradzą sobie w nagłych sytuacjach.",
+      "kr_sha256": "c0e2a6c5da83737d169efc99b32f7ce2b61a96d8a83c9d8d53f6c162d8c41852",
+      "en_sha256": "cbff41d842f6ab1fe4065d24eb4501ca1240ad8d17406a7ad2f16bb358c55024"
+    },
+    "dataList[id=22].content": {
+      "pl": "Tyle chyba wystarczy? Dalej z wami nie idę. Będę czekał w autobusie.",
+      "kr_sha256": "f5c60fbcac60bc4dc4f5144fa95d90f260a14036fe8f4a7e0ba2532203140042",
+      "en_sha256": "54559922dd4cd87cd8d58bc21f40c741c5fdab3a84e8868ceffb28423d9b64d5"
+    },
+    "dataList[id=23].content": {
+      "pl": "<Hę? Tak nagle?>",
+      "kr_sha256": "96e02be60d2e638c5c6d7e2a9e0f0fac819dd8d0e5f50b3c4c93b642e64612e6",
+      "en_sha256": "cf1115c57c64d4f0457e25c85f2a2b44950977567b94fc959929431cbc016874"
+    },
+    "dataList[id=24].content": {
+      "pl": "Jeśli myślał pan, że będę was niańczył w nieskończoność, to wielka pomyłka, Dante.",
+      "kr_sha256": "986bf5b6a52f83ccbd42913c555a1ffe05560c8f15e057e0ac4ba80b30295faf",
+      "en_sha256": "a7c66a24705c25631686687dc6752c27f687c32c11c99e23ab941a650d2c8d5b"
+    },
+    "dataList[id=25].content": {
+      "pl": "Sam będziesz sobie leżał do góry brzuchem?",
+      "kr_sha256": "c40c730ead4de1799f54eefadea92e50e64c3b57a7dc49fc18c0acf43272633e",
+      "en_sha256": "9090cad74ef9ba0d6a4079961ccf1d0edd0de7c33fd05e4f63fb9e5f994100c8"
+    },
+    "dataList[id=26].content": {
+      "pl": "Gdybym z wami poszedł, byłaby to dla was właściwie wycieczka krajoznawcza, nie sądzicie?",
+      "kr_sha256": "74bb760cbf26ed43064a03102a1c73f6370502cda9946b302c5172199acdcc92",
+      "en_sha256": "ba625747a52fd17262b424d7cefb2db618fa6f50a7ab2e20408f83117ba9b2a8"
+    },
+    "dataList[id=27].content": {
+      "pl": "…Krótko mówiąc: idźcie, dajcie się porządnie obić i posiekać.",
+      "kr_sha256": "f77032066c4e4f09b606c30f825a26e3db0bff826b424e1a257e53952cfb9060",
+      "en_sha256": "519dd9515df4f98e2b3e0c9c22a59098c36a9bcf4ed1a65abf298c78d0aa13dd"
+    },
+    "dataList[id=28].content": {
+      "pl": "Kiedy ktoś tak mówi, zwykle ma coś jeszcze w zanadrzu…",
+      "kr_sha256": "2a8fc248e88d387deeff8ffeb6ca745eae34672cdf88b22bbd9872fcda15c2a7",
+      "en_sha256": "2a34a1190d9040100934fd603b5eb34f55a73ccfe23eef99cad66dc4ff5012e3"
+    },
+    "dataList[id=29].content": {
+      "pl": "Myślcie, co chcecie.",
+      "kr_sha256": "292928dc6502479c8c36e92b152af878cfd09c912441a30dbc3dd725d1105e8b",
+      "en_sha256": "db335292b3d23243d563dfab783400b2884bdd73a65bfc812827e80a28384467"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ale dobrze, że Charon już odróżnia południowy wschód od północnego.",
+      "kr_sha256": "d608b5ea94ae1c5ea945fdafd348340c62d88401e40c4b2147d79595ea9f4622",
+      "en_sha256": "e2e1404a65d18bb2b9a9ecc2f517ffa95f66eedb7a2e4599d891225ec4143558"
+    },
+    "dataList[id=30].content": {
+      "pl": "Specjalnie załatwiłem wam nawet przewodników, więc spiszcie się.",
+      "kr_sha256": "c54467504e4581faf14cf17515319740bdf330c2cec7527b60eacff48c55c751",
+      "en_sha256": "4bfc1b00b686ca2e4d0832137f25ffa6549b72c029d58b3def3c83514426ca79"
+    },
+    "dataList[id=31].content": {
+      "pl": "Tak jest! Spiszemy się na medal, Szkarłatne Spojrzenie, proszę pana!",
+      "kr_sha256": "8012da43fe1319bdb7eb520aa5285962942f5fe85a6f81d46426dfe9b557a693",
+      "en_sha256": "826ebbf2bf6537286864a1c9d79dcbd12dfd516a13f1fa12a574e7842093eac1"
+    },
+    "dataList[id=32].content": {
+      "pl": "Postaram się, jak umiem~",
+      "kr_sha256": "4182df33eb97308c1e0d321c4e5c9c4e93578a085c6868bb3754fc352dad56c3",
+      "en_sha256": "c97d9bb91ffb816a37282deed77a258897dc92f0927cc53a04063d18faa8e849"
+    },
+    "dataList[id=3].content": {
+      "pl": "<To jest… dawne L Corp.?>",
+      "kr_sha256": "b590cfa43b7ffc7bb597791d9968a4a35da4d2ed67967da3540070049a908434",
+      "en_sha256": "642d844af88ad3ba69ff6fe0cace358467378598b05487135246a2dde34bde6f"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ja też widzę to na własne oczy pierwszy raz… A przecież od “tamtego” nie mogło minąć wiele czasu.",
+      "kr_sha256": "d85e1d6a54fc8167a8309f66fe93cb32700114db7b5d6e37e9b1fcf19077dc29",
+      "en_sha256": "fc9ad700ec693c2d9ddfff8e4b4655b9402ec2498c6519ac8478874adbcc4517"
+    },
+    "dataList[id=5].content": {
+      "pl": "Matko jedyna… Jak budynek może tak wyglądać?",
+      "kr_sha256": "5c7098f9ce1dfcbda47135c8ba949d72bdfd7e1b94838c4a07da065b58f16cdc",
+      "en_sha256": "3ee2b85f7f4395f13a9e08fba53676c6701d37d911e3d750683e3c196b50768d"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ha, paniczyk z bogatego domu nie przywykł do takich widoków, co?",
+      "kr_sha256": "8c6e6c8a95a093675c27b50821b1a78e691f86aebb4be566a5bdc836b286a1b9",
+      "en_sha256": "30267474c7f8d815775fba829b9c3da31a6852ac56765c01ef23b42156ec0a5e"
+    },
+    "dataList[id=7].content": {
+      "pl": "Koniec pogawędek. Wysiadamy.",
+      "kr_sha256": "18a7fb778f6f1b6e14dd42023de4d5f62eb49c0a3fd419186c5f9575e234757e",
+      "en_sha256": "0a1d20eaa5585bae54c6e6f07e285b1c61e8aac1864810c2a0bcbad2257e77ca"
+    }
+  }
+}

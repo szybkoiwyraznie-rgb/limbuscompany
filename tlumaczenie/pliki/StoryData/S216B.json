@@ -1,0 +1,309 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "<Niedobrze. Dotarliśmy na najwyższe piętro, ale Moc Życzeń…>",
+      "kr_sha256": "9d193b02225b4d7317e96af3e0f43adc9df43e99cceb5c2191716a653aea6f13",
+      "en_sha256": "b5348d1cac2447a0982e0f2a16a0d5abc9cc9677db027b81e72d719b120db25b"
+    },
+    "dataList[id=10].content": {
+      "pl": "Dobrze kombinujesz. Kiedy w grę wchodzą pieniądze, ani razu w życiu nie przegrałam.",
+      "kr_sha256": "3d53035fda85cdedfacd99c5300ccafb77ef5c9404c23963c818f89d6d71d247",
+      "en_sha256": "7be3546e4bf7e404b9c2553d25db8b64d793abda5a8904e8de981fa471098326"
+    },
+    "dataList[id=11].content": {
+      "pl": "No to…",
+      "kr_sha256": "cdd64a25ae36778de0a32d23f48dd58e77ef745a6e8a5b315488383719751dfd",
+      "en_sha256": "c9b9f4d927f5b4a97c1a6dc0ee570d8397174132539a03d74f8e35a281bdc7a1"
+    },
+    "dataList[id=12].content": {
+      "pl": "Wejście zawodniczki~",
+      "kr_sha256": "8569d12c37fa4b8c577ce3067d9a26b748ab809f2d401dcba12f17010b19d176",
+      "en_sha256": "3709f92a35d66dfc2b088ea2ac70fa812b50dd552d9de6a9fe78db4e520fa90f"
+    },
+    "dataList[id=13].content": {
+      "pl": "Co jest, jeszcze nie wszyscy? A tak chciałam efektownie wkroczyć.",
+      "kr_sha256": "ed12e72598c8e6404a2a187080c169d3c0fc413688d1e1366e07a0f6ddaf6036",
+      "en_sha256": "169d10ae588a663fcd7fb117db462f29372a58eddfd5d98a6308da9229de4712"
+    },
+    "dataList[id=14].content": {
+      "pl": "A ty…?",
+      "kr_sha256": "3c7650307ed8aaddc43fba3b18f0852e47ac95ef4144f02a3e8e9197e3f45c2f",
+      "en_sha256": "fae91737d174babd5ae3286a2b5e93026d1ddc7eb84b77e1a159093cb1f9ab4c"
+    },
+    "dataList[id=15].content": {
+      "pl": "Nazywam się Rodion. Przyszłam zagrać o zejście do podziemi.",
+      "kr_sha256": "a346683cf5fe80e21e37bbdd67e618b5851ff974d76267cf97aed1f6cd0a50d7",
+      "en_sha256": "7c574f8145ec62d6982e1b2299034e9b72e7a22f5ccde4fd628b22ff29485a6f"
+    },
+    "dataList[id=16].content": {
+      "pl": "Pfha!",
+      "kr_sha256": "30fff509367593e01f53470aa29ad333dfdf6e5e82625c71e36d85fa301deaa4",
+      "en_sha256": "72c4db174edd88675df62d99e4b61e89764bb98203ec5b75a9020c17947487e4"
+    },
+    "dataList[id=17].content": {
+      "pl": "Myślałam, że wreszcie poznam słynnego szefa gangu Tingtang, rabusia Mocy Życzeń, a tu wchodzi sobie jak do siebie ktoś, kogo nikt nie zna?",
+      "kr_sha256": "c76db0087a2c50d36c5d9bdd4a4b897968c702c275700eb2f050c87b8937a718",
+      "en_sha256": "416a33d4a9539d0065ecd5b0b280e00731778b15980d21a6586d4b165c183c41"
+    },
+    "dataList[id=18].content": {
+      "pl": "Ale obciach~ Na tym świecie nie liczy się, kim jesteś, tylko kto wygrywa, nie?",
+      "kr_sha256": "a674c180d88cb9ccc04fc2621ccc2314cd3695c85c9285294b87e34d3b3d1657",
+      "en_sha256": "780c561a0a66a160eec52704aa4e9d204ac6df83aadcfb7999e9a53159578159"
+    },
+    "dataList[id=19].content": {
+      "pl": "No, w sumie racja. Samo to, że tu dotarłaś, wystarczy za kwalifikacje.",
+      "kr_sha256": "adfe95fef8f1a9ef38af158ee83d35d24d3f6a5d8fb5c4db9c407510cf7b1f95",
+      "en_sha256": "b8eb20f922971de564d69c5415d6d9e45ddc0a57b92f2cc7784604fe66e84d99"
+    },
+    "dataList[id=1].content": {
+      "pl": "Ach~ spokojna głowa. Aż mnie język świerzbił, żeby to powiedzieć, a tu wreszcie pora.",
+      "kr_sha256": "2807e05f0e32456a3f643f9f90f92d06feb5f64858c844c0ad647d7f9a4dcaa8",
+      "en_sha256": "30e54d1c2af2767185432fe2b63f661a191b7bb994009e52e77f0313461eb83e"
+    },
+    "dataList[id=20].content": {
+      "pl": "Miło mi. Jestem Aida.",
+      "kr_sha256": "49cc91eda7406beb04f63d1d9ab4cb91e8dace2fd2997a639a8c49865843af24",
+      "en_sha256": "c1ba57bb7e54682c5c6b5e3f55ef7e1635a261b156efebcf621319db2968adfe"
+    },
+    "dataList[id=21].content": {
+      "pl": "A to jest…",
+      "kr_sha256": "12f3fe3575df1ce95bc23a0f0f271922d9be5cb396da3e0ec65d949782e850b1",
+      "en_sha256": "eca24f4dd53d522875afb9e0a9fcc85f986aadf37b08439f1fa5157277627ceb"
+    },
+    "dataList[id=22].content": {
+      "pl": "Ojojoj, kości moje.",
+      "kr_sha256": "e6613f15fa99fbb67fcbdfddcc91e65b5e17c09ef2b6da89f2d04f4306cb2a1d",
+      "en_sha256": "0c008668886082ef9927bb8d7c6864944308e79a760a8e7c8927596d69239c42"
+    },
+    "dataList[id=23].content": {
+      "pl": "…Robot? Nie, proteza…?",
+      "kr_sha256": "ee0b596bc4d60a096fec607049ecac1fd2cd3f637e3427294b6388e4f461cea9",
+      "en_sha256": "b12d0abd06c203c3ea9b031cfa4dad301ced01e8677cdd8809ddd2e72f82d2ae"
+    },
+    "dataList[id=24].content": {
+      "pl": "Co się gapisz? Protezy całego ciała żeś nie widziała?",
+      "kr_sha256": "6bd3d420c0303bb58debe93a0abac4c1388c0580ea5ced8591d0530f2963fa01",
+      "en_sha256": "63a61b4ea4cc9690c59d5d20da34a7db9265c4d6fe53827f6f138ba00c1ff1bd"
+    },
+    "dataList[id=25].content": {
+      "pl": "Czy to nie jest… strasznie stary model? Wyglądasz, jakby cię wyjęli z muzeum.",
+      "kr_sha256": "6dba634ead0c3ca4c5fa00d36a9745f42642bbb864d90977134fd7f7d8d1eeaf",
+      "en_sha256": "bffe86f7884c621ce04644c6d360516a1b68801a1a913fd7077069d442bae143"
+    },
+    "dataList[id=26].content": {
+      "pl": "Stare to dobre. Łatane ino parę razy, a mocniejsze niż niejedne nowe.",
+      "kr_sha256": "f1e26a8d27b238ed1c90fdc3546bf472b459b7d473fa0f4d6be65328f5c147dc",
+      "en_sha256": "95aee5734548ebe6833b095e983018587b0069ba53cea8bae69c1373199e120b"
+    },
+    "dataList[id=27].content": {
+      "pl": "A ten czemu tak długo nie idzie? Gdzie ten zuchwały smarkacz się guzdrze, kiedy jest takie ważne spotkanie?",
+      "kr_sha256": "f961b6cf037d2d7fe99b4ef34e74b0a09af6cdf7e46389dda91b55c20ab7ab37",
+      "en_sha256": "183dad2646bca65d4121796103224e8cc33cef5ae183014c5440d2cb76c921b6"
+    },
+    "dataList[id=28].content": {
+      "pl": "Przepraszam. Coś mi wypadło.",
+      "kr_sha256": "6105eedc24d6130a688043bc84cf553d9ba9b860cd1114ab57fa0028e22ed158",
+      "en_sha256": "258a66dfe3ede4f5d0d2076d40bb6d750970a7d7c21c078a1c462354ebb66ffe"
+    },
+    "dataList[id=29].content": {
+      "pl": "?!",
+      "kr_sha256": "545f940d19fadff4ad456f917a684de2d3501cb71e4b6618a2246e7fd769ee7d",
+      "en_sha256": "545f940d19fadff4ad456f917a684de2d3501cb71e4b6618a2246e7fd769ee7d"
+    },
+    "dataList[id=2].content": {
+      "pl": "Tak naprawdę podwędziłam trochę Mocy Życzeń w lombardzie. Niewiele tego, ale wystarczy, nie?",
+      "kr_sha256": "51ba42551424a328ab68700b97d2007b7c3a1c5cbf097573d35239539720cdaa",
+      "en_sha256": "70a9063e876e705da47ae969b033382c2ea84a7f0968c0a6a4268e53897fa12f"
+    },
+    "dataList[id=30].content": {
+      "pl": "Sonya, cierpisz na syndrom głównego bohatera? Musisz się spóźnić, żeby wszyscy na ciebie patrzyli, co?",
+      "kr_sha256": "589eb3a5d288771c3d3566cb856fed1c38c902ffebd0e05c486af87fe0e989ef",
+      "en_sha256": "5db2b3555a1b236421bb76c1fbf30d56f657853a12410eeb766509b43850cd33"
+    },
+    "dataList[id=31].content": {
+      "pl": "Ha, ha, nic z tych rzeczy. Główną bohaterką zawsze jest pani, pani Aido.",
+      "kr_sha256": "3ac09e0fa1cf03b7f2355b41663049feae10d83b262723cf3ab2e7bc0267f360",
+      "en_sha256": "58d31bcb1f1db73f65657968642593c80efedbd8841070b3bfa1a6c457cfff8e"
+    },
+    "dataList[id=32].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=33].content": {
+      "pl": "Dawno się nie widzieliśmy, Rodia.",
+      "kr_sha256": "efd8c4cfe29b0a4ba9a25442d2f5aaf326b236f1ccde8d0203da8ce9b7c7b8fc",
+      "en_sha256": "8e4f41d81e255b632397571f08bbd8cbd4162ec28fb9f536a3bce6b8ff3efb17"
+    },
+    "dataList[id=34].content": {
+      "pl": "Co jest? Znacie się?",
+      "kr_sha256": "3faeb518d14276744a4befc2ba131e9e64770da28b5b780c2127fab99e4ae48b",
+      "en_sha256": "b165bdefef6bc33a4acc45621b5b40041bacc8cfd8866daef364bec4d0ae2efb"
+    },
+    "dataList[id=35].content": {
+      "pl": "Przyjaciółka z rodzinnych stron… można tak powiedzieć. Prawda, Rodia?",
+      "kr_sha256": "3bc2918638efbd78337889771e8e313ac77ea91043215a5cc8bde06e078fa100",
+      "en_sha256": "836d0d046c9d4aa286d9d24ed4107f721a18bb8a7bddbf5376884fef865e319c"
+    },
+    "dataList[id=36].content": {
+      "pl": "Ty… dalej przewodzisz Jurodiwym?",
+      "kr_sha256": "ad6992b63afaa9fa8fc1e1cbf9a3bf2996343ffe5cfa773c1c6b18de2c254688",
+      "en_sha256": "a1514edcc76174de131548ca629c581c8c710950bc6358497753b418c11f8252"
+    },
+    "dataList[id=37].content": {
+      "pl": "Cóż, ‘dalej’… To przecież tylko ty jedna nagle odeszłaś.",
+      "kr_sha256": "4669e3568215a4458798e60b06ab2568b9d9267142ea7176fe23457133da6126",
+      "en_sha256": "f2adece7b65b378c5eefc1397c8607b351cf006c22c3f9ccdcdbf10fad51b6ae"
+    },
+    "dataList[id=38].content": {
+      "pl": "Dobra, dobra, koniec pogaduszek. Wszyscy już są, więc jeszcze raz przejrzę zasady.",
+      "kr_sha256": "88e4dd61444d9c1b92d12bcc6732b72e3c4885500f859ed1103643027d77502e",
+      "en_sha256": "e528209dca10bc00a1f3cd57572dad62393b52faa32846b480a145563db9ebae"
+    },
+    "dataList[id=39].content": {
+      "pl": "Czworo z prawem do wspólnej licytacji kasyna: Sonya, Aida, Ekipa Tieqiu i… podejrzana, ale pewna siebie pełnomocniczka szefa gangu Tingtang…",
+      "kr_sha256": "670da15c713da498380d8ea1087ebe8711191c7c20305cf4550ffc70744ebab0",
+      "en_sha256": "8d2efd8a8296c3bdc6bb8fd660b204eb4b5ac2754ab73868da8334bc39ba0d37"
+    },
+    "dataList[id=3].content": {
+      "pl": "Rodion pomachała nam przed oczami naklejką życzeń, z której został tylko jeden róg.",
+      "kr_sha256": "76c88ad6cb402cb9b7ab8e499fbf6508a9e3192ad1ce2a2c621b321f91848f56",
+      "en_sha256": "3b2d609fe89fd2dfd7a191f8dbed5ed1a9057833894756d5e4ac0f6af024bca6"
+    },
+    "dataList[id=40].content": {
+      "pl": "W trakcie gry żadnych sztuczek. Kogo złapią, ten od razu odpada.",
+      "kr_sha256": "4402f10ce8823c526a4ef0c95f9d321a712e0ca023ffe41bb0f1c957cbb8c718",
+      "en_sha256": "f1a71088ac54d581ee3b5b0d0a5406f2fdc7611fee42ec07d9b69c489cdfe60f"
+    },
+    "dataList[id=41].content": {
+      "pl": "Rzecz jasna nie wolno też używać niczego, co ma związek z Mocą Życzeń.",
+      "kr_sha256": "c1d759cf214d190da2c23f3c0c4ba80dbe239dfc0d7c2a2ddb504b5f0643f4bf",
+      "en_sha256": "587dc6eadb77c15e3d739cf7d9daabd530254fcb3eeb80202fd10af02e50e616"
+    },
+    "dataList[id=42].content": {
+      "pl": "Kogo złapię, tego na kawałki posiekam! Ale go urządzę, przeca!",
+      "kr_sha256": "e906790c10437b262265041cded455cd842158cf02d153d78dd4b651aa4512ad",
+      "en_sha256": "e7719e5dbf1b8f290efc9efd282f7f06fe90a23b291ff46dfeb7d5fffb5630a2"
+    },
+    "dataList[id=43].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=44].content": {
+      "pl": "Gramy w sumie trzy partie, wygrywa ten, kto zgarnie najwięcej żetonów. Proste, nie?",
+      "kr_sha256": "dd6b9def58bddac349e091081a1e84b24164d6603b2e68f0860be3e67dafaa68",
+      "en_sha256": "cc9d876370aa7388757301278e83cdd8b2d1fa89ec5dfb06ea6ac32da847fa39"
+    },
+    "dataList[id=45].content": {
+      "pl": "Zwycięzca zjedzie stąd windą do podziemi, gdzie jest Złota Gałąź.",
+      "kr_sha256": "3f211579e2743bad3a03444c9bcb4379b6857268001fc4bf49aec3c825ce8c4b",
+      "en_sha256": "fff3ae759d95af0e8fdadecd6d7f2895730e1b1d1e877b0a1f2c63a3aca7cc55"
+    },
+    "dataList[id=46].content": {
+      "pl": "Ta sama Złota Gałąź, dla której poprzedni właściciel kasyna jak opętany ryl tunele pod ziemią.",
+      "kr_sha256": "9f48cc791842a888da12b8e9ad1a4e5d16f8111e0cbd59feece1d63c287dac90",
+      "en_sha256": "25eb5a6244059aed29b93bd525aec93624e1ac700d2b039a463d5affd80a1ff4"
+    },
+    "dataList[id=47].content": {
+      "pl": "Tyle że nagle zmarł z nieznanych przyczyn, więc to my ‘szczęśliwym trafem’ zostaliśmy wspólnymi licytantami, ale…",
+      "kr_sha256": "31cbac0aebc417628bf7257248abe8ce9e2dec84cc46b1dab59c9d3c0d0a8358",
+      "en_sha256": "43cecacda5d936aaa596ab9360d73cdbf11cd003c7d03658caa9121f2f27e163"
+    },
+    "dataList[id=48].content": {
+      "pl": "…Ale elegancko to ujęłaś, że zginął w podejrzanych okolicznościach.",
+      "kr_sha256": "19908ca7886e20c26f5c0ef33fad0f59e68bcaf3ce7c5499e6a292401bb3aa4f",
+      "en_sha256": "35b35a87cc575df77300fd594979a4143d6b2a3c463b498f32bf9cb5536444d3"
+    },
+    "dataList[id=49].content": {
+      "pl": "Ha, ha, Rodia. Dalej wszystkim tak docinasz?",
+      "kr_sha256": "0144422978da92cb1b963b5e88b2b25bf13f287cf9cd820b7885103c801a97c9",
+      "en_sha256": "6580ac9c189542ddb26677a30e29475af0e2c1843ca7152de5d1182734acde64"
+    },
+    "dataList[id=4].content": {
+      "pl": "Czemu nie powiedziała pani wcześniej?",
+      "kr_sha256": "6397bd73e0b275e4a919f89ac80886f0d7b2af743609b163ba74b08e5fc6e9d1",
+      "en_sha256": "c58de80c73d6c8d82ee6ba6bfc245886bb5da697417f5f23b16ae44e18b729df"
+    },
+    "dataList[id=50].content": {
+      "pl": "…Cicho bądź. A skąd wy wszyscy wiecie o Złotej Gałęzi? Nie miałam pojęcia, że to rzecz aż tak powszechnie znana.",
+      "kr_sha256": "994a296a022bd64f4a52af8051868b7011dc2a0867e5b180118900f90f31eb7b",
+      "en_sha256": "3e73183d1e4b77676a88613f5fa6bb47daa46496f9f720ba9c0b484a63e885dd"
+    },
+    "dataList[id=51].content": {
+      "pl": "Wśród liczących się organizacji wszyscy znali tę plotkę. Że kto zdobędzie zakopaną tu Złotą Gałąź… będzie miał wszelkie bogactwa i zaszczyty.",
+      "kr_sha256": "2485805914a7b8230815fd67ae128a2026881a48e6667e649491c16027dd248e",
+      "en_sha256": "1238276c239423d846dbbaaf0117d3642ea2c85c63050f58c7d43290110f5b1b"
+    },
+    "dataList[id=52].content": {
+      "pl": "Skoro już o tym mowa, nie wiedziałam, że interesują cię bogactwa i zaszczyty. Sonya, przecież to ty mówiłeś, żeby trzymać się od takich rzeczy z daleka.",
+      "kr_sha256": "f4671b8d3464e9bd936a3793996a40a81a40869aa539222352e013372e6a26ac",
+      "en_sha256": "1de93e8b0094af51b5ccd82cddfa52e6f1740e5a7af1ee623b2cadcdb60673ff"
+    },
+    "dataList[id=53].content": {
+      "pl": "Złota Gałąź potrafi o wiele więcej, Rodia. Mój cel wtedy i teraz pozostaje ten sam. Rozbić ucisk i wyzysk, nie dopuścić do gromadzenia bogactwa…",
+      "kr_sha256": "8ea32169189764172b57923ef91d37c8accc0d317eaedb82fe4bdd0423c80151",
+      "en_sha256": "0b915c539ae9c9fccb580c791f9c7ce2516279c1868dbaacd5e059ba49666370"
+    },
+    "dataList[id=54].content": {
+      "pl": "Ło, ło, znowu zaczyna gadać po uczonemu. Niech no go kto przystopuje.",
+      "kr_sha256": "120150c681c504d2279fde265c3cd2d799f3df71a44bd9815ced7265d8925e6b",
+      "en_sha256": "77a39905b08fadeac9f28b5cdb3f526ab23420ed91e9369b61bd6e1e8ff8e7a4"
+    },
+    "dataList[id=55].content": {
+      "pl": "Przepraszam. Przypomniały mi się dawne czasy.",
+      "kr_sha256": "a2d9c2664d3014220a68b157e671b5d5580bdc23cd99cf7a1fc97f10fee0625d",
+      "en_sha256": "09c8a951656fece218f5fd94dff196629010f1fe0d4f7ff311f622148452efaf"
+    },
+    "dataList[id=56].content": {
+      "pl": "Zabawne. Ty przepadałaś za hazardem i pieniędzmi, a ja zawsze cię powstrzymywałem.",
+      "kr_sha256": "660402e139a714d9d73ed07886632d525d54f8f46bb2af21f4c1857e3a6083d6",
+      "en_sha256": "76c4355e801a6b22cb39f55f643cc1ee52291f1cd2205b02b9b3862c48ae0bcc"
+    },
+    "dataList[id=57].content": {
+      "pl": "A teraz stawiamy na szali własne cele i chowamy przed sobą karty.",
+      "kr_sha256": "4453a1c94568543c0e306d8211f15312b2fe547a02eef5f193cff26ec37c2c25",
+      "en_sha256": "ce3eb71dbccbc9913beebaf54211a9b614bf2c17f7e5f047cad9598fc05de687"
+    },
+    "dataList[id=58].content": {
+      "pl": "Jaki jest twój cel?",
+      "kr_sha256": "474c5d3bff7d4e9d8480f4d93858d659bf687b223a6129028b1d35dff9ef1cbc",
+      "en_sha256": "bfd36fecb7f9d6413bb77003d193c4914d7fe8da9875fa3b7224ede68b8b1cf6"
+    },
+    "dataList[id=59].content": {
+      "pl": "…Wygrać.",
+      "kr_sha256": "b715f24c8a43643842af2b4fb7c2507a6f0c8a91e9ca13f598c034f9b7295a47",
+      "en_sha256": "c3e6ffcd7fa8024ce1da525713c1a29e2260fc46c33fdd851eeb743b56592d6c"
+    },
+    "dataList[id=5].content": {
+      "pl": "Sami mówiliście, że w hazardzie trzeba mieć pokerową twarz. Jakbym się wygadała i ktoś by nas nakrył, byłby tylko kłopot.",
+      "kr_sha256": "7988b212ab40d841263d19a2c299d7f8b9f29bb1f908af2b451d6ce50910b914",
+      "en_sha256": "75935d380efebd2fe8d171edd001a830e910932acd14c81bc0319cbd5066efe0"
+    },
+    "dataList[id=60].content": {
+      "pl": "…Rozumiem.",
+      "kr_sha256": "bf95067d41a3bf9bcfa7375816ef3b0b91fb0bb46cf8696e23866f0e96b33e71",
+      "en_sha256": "0583aa2e16353ad446b8161d40af58b20b5641e3468fa57a0b06f24f07800926"
+    },
+    "dataList[id=6].content": {
+      "pl": "Pożyczysz mi na chwilkę rolę szefa~, Dante?",
+      "kr_sha256": "1b4dac1cd7265006a20c261cf5189a5efe3f48e398683580ff7a25dca940f99f",
+      "en_sha256": "8c5d8e555e463b96b03e051d9ee647a319cf30b3b0aa294a862f764ae0658238"
+    },
+    "dataList[id=7].content": {
+      "pl": "Nie miałem poczucia, żebym szczególnie przykładał się do roli szefa, więc skinąłem głową.",
+      "kr_sha256": "a0cdf2d25d03e3f26ab38ed0886277d114c46f48798e1b32e5c64e8329b91e93",
+      "en_sha256": "02ed1e42c6f8eb9dc279e506549b45b0b8220c7dd455905459613158875bd232"
+    },
+    "dataList[id=8].content": {
+      "pl": "Zresztą nawet gdybym się przykładał, przy takim obrocie spraw wypadałoby ją oddać i paść na kolana.",
+      "kr_sha256": "9629b6b15e43ab89c113da6f2f7b861073c935ad9c24caa9f80c00805a91af5e",
+      "en_sha256": "b34f3134e8a199a1540b1b1cf8d8c87ffb54dd4067d66122848d4451f8927e6f"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Jeszcze niedawno byłabym stanowczo przeciw. Ale…",
+      "kr_sha256": "75cc9eda17967be098cfe47d93f7cf8f7e5884a4d2a23b8207ffc2ee34411112",
+      "en_sha256": "100b68deb33dcf991aa0adb24fdf15f6e04ad42b762571ea8d998b340a445508"
+    }
+  }
+}

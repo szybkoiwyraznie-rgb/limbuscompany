@@ -544,6 +544,89 @@ class LangPipelineTests(unittest.TestCase):
             missing = sorted(ch for ch in required if ord(ch) not in cps)
             self.assertEqual(missing, [], f"{font_path.name} missing Polish glyphs: {missing}")
 
+    def test_story_script_comment_and_hangul_warnings(self) -> None:
+        # Synthetic '//...' staging marker kept verbatim in EN must stay verbatim in PL without Hangul warning
+        self.assertEqual(
+            import_zwrotki.validate_tokens(
+                "//연출테스트1", "//연출테스트1", "//연출테스트1", set(), "StoryData/S999A.json"
+            ),
+            [],
+        )
+        self.assertFalse(
+            import_zwrotki.has_unexpected_hangul(
+                "//연출테스트1", "//연출테스트1", "//연출테스트1", "StoryData/S999A.json"
+            )
+        )
+        errs = import_zwrotki.validate_tokens(
+            "//efekt_testowy1", "//연출테스트1", "//연출테스트1", set(), "StoryData/S999A.json"
+        )
+        self.assertEqual(len(errs), 1)
+        self.assertIn("//연출테스트1", errs[0])
+
+        # Accidental Hangul in PL when EN is Latin triggers warning helper, whereas Hangul retained in EN does not
+        self.assertTrue(
+            import_zwrotki.has_unexpected_hangul(
+                "Przekład 테스트", "원문 테스트", "Synthetic translation", "StoryData/S999A.json"
+            )
+        )
+        self.assertFalse(
+            import_zwrotki.has_unexpected_hangul(
+                "원문노트", "원문노트", "원문노트", "SyntheticDevUI.json"
+            )
+        )
+
+    def test_scenario_model_codes_nickname_fallback_checks_en_sha(self) -> None:
+        for lang in ("kr", "en"):
+            p = f"{lang.upper()}_"
+            _write_json(
+                self.snap / lang / f"{p}ScenarioModelCodes-AutoCreated.json",
+                {
+                    "dataList": [
+                        {
+                            "id": "모델A",
+                            "name": "Scout kr" if lang == "kr" else "Scout en",
+                            "nickName": "Rank kr" if lang == "kr" else "Rank en",
+                        },
+                        {
+                            "id": "모델B",
+                            "name": "Other kr" if lang == "kr" else "Other en",
+                            "nickName": "Rank kr" if lang == "kr" else "Different Rank en",
+                        },
+                    ]
+                },
+            )
+        tlum_dir = self.root / "tlum_smc"
+        store = import_zwrotki.TranslationStore(tlum_dir)
+        store.story_glossary["teller"]["Scout kr"] = {
+            "pl": "Zwiadowca PL",
+            "kr_sha256": import_zwrotki.sha256_text("Scout kr"),
+            "en_sha256": import_zwrotki.sha256_text("Scout en"),
+        }
+        store.story_glossary["title"]["Rank kr"] = {
+            "pl": "Ranga PL",
+            "kr_sha256": import_zwrotki.sha256_text("Rank kr"),
+            "en_sha256": import_zwrotki.sha256_text("Rank en"),
+        }
+        store.save_atomic(json.loads(self.manifest_path.read_text(encoding="utf-8")))
+
+        out_zip = self.root / "dist" / "LCB_PL_smc.zip"
+        build_lang.build_lang_pack(
+            localize_path=self.snap,
+            index_manifest_path=self.manifest_path,
+            tlumaczenie_dir=tlum_dir,
+            out_zip=out_zip,
+            require_fonts=False,
+        )
+        with zipfile.ZipFile(out_zip) as zf:
+            smc = json.loads(
+                zf.read("LimbusCompany_Data/Lang/Polski/ScenarioModelCodes-AutoCreated.json").decode("utf-8")
+            )
+            by_id = {row["id"]: row for row in smc["dataList"]}
+            self.assertEqual(by_id["모델A"]["name"], "Zwiadowca PL")
+            self.assertEqual(by_id["모델A"]["nickName"], "Ranga PL")
+            # Mismatched EN must NOT be overwritten by homonymous KR title
+            self.assertEqual(by_id["모델B"]["nickName"], "Different Rank en")
+
 
 if __name__ == "__main__":
     unittest.main()

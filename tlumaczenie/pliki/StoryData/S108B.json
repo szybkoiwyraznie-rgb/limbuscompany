@@ -1,0 +1,229 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Brr… Greg, znasz może tamtych?",
+      "kr_sha256": "93ac9946c8726cd9ef4c0a74e57a7022c9a2dee3e23075744a5bde44a672303b",
+      "en_sha256": "5854f9027496747beeae99260944d44a4f0665d974ee429a4b53792180679f76"
+    },
+    "dataList[id=10].content": {
+      "pl": "Żartuję… Mam dziwne poczucie humoru, czy co?",
+      "kr_sha256": "ea564ea26d5205c8ea85fc0ceb82ae507e6a88d0136a841aa13b665d67f49386",
+      "en_sha256": "0e6de73621db7b3bab9511fcb947663832d57cd2809ae00cb13322607e8d8211"
+    },
+    "dataList[id=11].content": {
+      "pl": "Kiedy Gregor drapał się z zakłopotaniem w potylicę, silnik autobusu wydał długi, zrezygnowany jęk i pojazd stanął.",
+      "kr_sha256": "3a0f4889bb91dab360d1536578a2fab7a6549730cf078a3d94cf3083575378b4",
+      "en_sha256": "912fa09016b0f6c406e70f4d924175ee9727ebbefc245e93d4e1a9d3e093ef43"
+    },
+    "dataList[id=12].content": {
+      "pl": "W dawnym G Corp. większość pracowników przechodziła, tak jak pan Gregor, augmentację biomimetyczną.",
+      "kr_sha256": "284b567ea8eae4b261ab06100a89f7f57ed53b116695d9b8da716ac500158977",
+      "en_sha256": "85ec3793ced9946355d629fdc217231ef34a0513e70928c37ba456c11cb50c53"
+    },
+    "dataList[id=13].content": {
+      "pl": "Gregor, ty byłeś z dawnego G Corp.? Przecież wtedy G Corp. …",
+      "kr_sha256": "d57eb1c10a912784abdad2dcbca97b46d39bddba548e733dac895bae19214c78",
+      "en_sha256": "f17a4ea978947043a6af242ab0642e7d2297895a466c60f27340a32fd2126fac"
+    },
+    "dataList[id=14].content": {
+      "pl": "Ishmael zmarszczyła brwi, jakby coś sobie przypomniała, ale przełknęła słowa.",
+      "kr_sha256": "ded1904814f85614d3953dc86f4c21e95f6b5ffb0e5014fb8a29a487b3829e22",
+      "en_sha256": "399478929c73a5218cda23c67c5c3728bd9a3fbf621625fab119f15b2312281a"
+    },
+    "dataList[id=15].content": {
+      "pl": "Gregor wprawdzie się uśmiechał, ale jego stężałe przed chwilą spojrzenie ani myślało złagodnieć.",
+      "kr_sha256": "1140aa302d72c8fdd19783e234feb4bcaaf8fad20a6620ae6069be89dd3d568d",
+      "en_sha256": "61b95a9ca37debc5134b822bd9be740b35aeb29eef545a1ef6404d7f2c965b43"
+    },
+    "dataList[id=16].content": {
+      "pl": "A gdzie tacy ludzie zwykle sypiają?",
+      "kr_sha256": "477099bf075c2a950a69f1833e655ad236039991fb68bf84510e595a59165791",
+      "en_sha256": "ad618da630d7a97fb358842a8cc82778f0db369bb232a74cce5d88d9ba424b0a"
+    },
+    "dataList[id=17].content": {
+      "pl": "Wielu ludzi na tym świecie ma niebo za dach, a gwiazdy za lampę.",
+      "kr_sha256": "c13c98633731bef2052fd3b9d5ad03c73fa7e648263eedb836292359b7200d86",
+      "en_sha256": "2e5e49df30c71ffad705138ed6f196a8f571abe69a079bf19d3c8a6635d235c5"
+    },
+    "dataList[id=18].content": {
+      "pl": "Aha, to ludzie z fantazją!",
+      "kr_sha256": "2b420585332a2acd60bcae21dc6de1309f0b78d7e01073fc91bcc67d509be9e2",
+      "en_sha256": "6f9c5ac1b103ce557a49a87ae63bad8d1df3eb51778d20096114e6b633c7dbed"
+    },
+    "dataList[id=19].content": {
+      "pl": "<Chyba nie to miał na myśli…>",
+      "kr_sha256": "e5611fe801f145d5f27edc87b5ae2a4492d94229cfa9dda0e688f3e935626d5c",
+      "en_sha256": "cdc5fa8e3f7b2507f41ca2a0649c51fe5f8a1796df6c754170b15d4c50eeae51"
+    },
+    "dataList[id=1].content": {
+      "pl": "Hę? Co ty… Skąd bym miał znajomych tu, w Zaułkach…",
+      "kr_sha256": "ac121d38ed2145f89c2b6d29312d3090327c516c4108981f595a445507064ce3",
+      "en_sha256": "1cdf90e9a3fb82a7d44e3ed192a80850147ff52377bc3aaee39a46ec31f6a830"
+    },
+    "dataList[id=20].content": {
+      "pl": "Jak widać, oni też zamierzają przeszkodzić nam w podróży.",
+      "kr_sha256": "d6f97cfc412671137fd34167aa8fa12857254eaf43e9988e5885babeb8232d97",
+      "en_sha256": "a9134da00391d66c3447a70d55e0519645c7295012117ab59b080f6ed3db862a"
+    },
+    "dataList[id=21].content": {
+      "pl": "Nie wysiądziesz, Gregor?",
+      "kr_sha256": "7ffa0b7951c34d0f89ad2c94e6f93f5f09b0471aece3b2b365fbe370a0537d18",
+      "en_sha256": "5472d0ef47e98d217423a2ae8d5ce251e4004a81cd54f85682256669d7fff956"
+    },
+    "dataList[id=22].content": {
+      "pl": "A czemu akurat mnie wywołujesz?",
+      "kr_sha256": "748f63f653a35346f03b8563a9da89a305135d729995b7dead6d3b16f1224f82",
+      "en_sha256": "1ff5c0bd8d2b36e83607ae286ee5773f94153ce588699fb056f10e49eb320dc0"
+    },
+    "dataList[id=23].content": {
+      "pl": "Cóż, nie mam ochoty rozpowiadać cudzych wspomnień.",
+      "kr_sha256": "c6c22d951bf4f5faaafe74906286f22312cc43c6868520afc5527a27515d2a24",
+      "en_sha256": "5cf820673e2d4cf52f84c613692aa1b4b0da758b2152bfd0549e880298c7dcb1"
+    },
+    "dataList[id=24].content": {
+      "pl": "Prowadź, Gregor. Dobrze wiesz dlaczego.",
+      "kr_sha256": "bd2a23318e01013de155ee4346380f4c6c39bc71b337babc22ed1939e1ed5af0",
+      "en_sha256": "e9ee38af390b65d8e9554108ff4d4f64b4c73cdc859fb6ad364bffc3267968a0"
+    },
+    "dataList[id=25].content": {
+      "pl": "…Paskudny z ciebie typ.",
+      "kr_sha256": "9ad5d701274a567a8cb8dbfc3e3a8080c096182be117a1ee9abc3f74a926fc5d",
+      "en_sha256": "9bfcc199506253029324175d04fe47afa824f8cd11b0d8df01f7048e954c594c"
+    },
+    "dataList[id=26].content": {
+      "pl": "Przy autobusie tłoczą się żołnierze z robaczymi głowami.",
+      "kr_sha256": "1362fa3e9508950195c8057a6f5a6468507ed64c708e6bf616af7d0c9afce115",
+      "en_sha256": "9c4221afff67aba4011513e759678a838ab6e96ec39b97c4b73b5b55798a66c2"
+    },
+    "dataList[id=27].content": {
+      "pl": "Ech… Nie przepadam za chodzeniem na czele.",
+      "kr_sha256": "95a66fe764fad277bd0d7132c5bd144943253f0f030a255ce6073aab1b8fe2e3",
+      "en_sha256": "1f47dfc23677d51cbe292c750a3dde408a08e46cd9d91d5744b20002e3908392"
+    },
+    "dataList[id=28].content": {
+      "pl": "A ty co za jeden? Czemu masz taką samą rękę jak my?",
+      "kr_sha256": "eb719f31ddd0b407f5857d3015eb0c6fe20f5b7b6f667baba5cece392015bea7",
+      "en_sha256": "7d4ff5c37c7d141d58ea2f87b1f8af087a2979957325024ec924ab75a32cb461"
+    },
+    "dataList[id=29].content": {
+      "pl": "Zaraz… Znajoma gęba.",
+      "kr_sha256": "6c6c3fc5a6cd41853a392ceaa1fcdd0fda249eebb7d254b8d43533fe8e683607",
+      "en_sha256": "fc3fa8844f9586ffacf9d61145bd20de274afd434801d59ad11c04e954510716"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ledwie Gregor wyjrzał przez okno, jego twarz w jednej chwili tężeje.",
+      "kr_sha256": "dea8e92e8c5a59171d8002c88c649bd8bf7af2fbb5c8774e2137f48f22b40c9b",
+      "en_sha256": "3fb4de6beebc6a5aa258617dd7a94a7c523525c0743eecd97de2bee0cdd2a4da"
+    },
+    "dataList[id=30].content": {
+      "pl": "…Pomieszkiwałem głównie na plakatach i w czasopismach.",
+      "kr_sha256": "17c03504d12e0f60b30d527c3ff3117e9eba7842374ab10574e053e2ebce2433",
+      "en_sha256": "83280975558fc9210adb6ac1157dd2e33b97b6b59545c7944e8771dd7ab1a471"
+    },
+    "dataList[id=31].content": {
+      "pl": "<Gregor, znasz ich?>",
+      "kr_sha256": "4ae7d9fae01d564d0e7f5e2e08156b805db9e2b90cc3398011c8ba283194ac05",
+      "en_sha256": "8907e8df4a5350b53f033095da6db0af1131bd385ee00495bc838d953c5ff2dd"
+    },
+    "dataList[id=32].content": {
+      "pl": "…To chyba nieważne, Kierowniku. Nie pora na wspominki.",
+      "kr_sha256": "0ac3f3f9d0fbfa1f2c240a7724df0759ba42940ea1a8ea249a0028f1e7eb1b9f",
+      "en_sha256": "6f5686bae08c6bb5e72e163d1c3c8170909d0d0ef2f11b522c5f6665feeccc60"
+    },
+    "dataList[id=33].content": {
+      "pl": "Ta ręka nie daje mi spokoju… Ale mniejsza z tym. Tak czy siak dalej nie przejdziecie.",
+      "kr_sha256": "fe579d1f41b71b8190cacc38a4ddc098aef7518c370026c71e7f0f69b8e14b05",
+      "en_sha256": "e403436a5f0e82658a1980d25d55cb980836cb184e7ab30f170d7387559d0dc4"
+    },
+    "dataList[id=34].content": {
+      "pl": "<Rozumiem. Chyba nie da się tego załatwić rozmową…>",
+      "kr_sha256": "aa031a3fea4c6c74eb0d3a79b024a3d9358b0d5b2d724ff85254016bc7a58fba",
+      "en_sha256": "5129d5a0bea93c867e2e897e3a9acfb520584307d743adafb53f2cf8fab008ce"
+    },
+    "dataList[id=35].content": {
+      "pl": "A czemu oni łażą tak otwarcie z tymi robaczymi częściami?",
+      "kr_sha256": "820e10db01568a0852fae39b83a45e04fd5c5bb57a1dfeaffabba2de033ad248",
+      "en_sha256": "a658108ddf85664ea2cca065a0fe67016027ab15c2707cc8b33817b883861dc1"
+    },
+    "dataList[id=36].content": {
+      "pl": "Dzieciaki na ich widok od razu by się poryczały. Nie mogło im to wyjść mniej widocznie, jak Gregowi?",
+      "kr_sha256": "cce966e18eb9e9b3454369e71c37f4c570e76383d0db5a4e5eaf4148f7952a13",
+      "en_sha256": "e3e3ae19cc4a99cefa959fb92f09d0d0496fd1d74dd7d9176fe93c2865dc4d13"
+    },
+    "dataList[id=37].content": {
+      "pl": "Ja jestem wyjątkiem. U większości owadzie części wyrastają zawsze na głowie.",
+      "kr_sha256": "618d06bf032ee43a3a6f8bf3ad942d8560ba7fabdca513833683c885aeadbc63",
+      "en_sha256": "1937e41e775ee8d2bcc2df8eae9449921c1bdf876600e2a1c508813ce9a5223a"
+    },
+    "dataList[id=38].content": {
+      "pl": "Czy to… szczęście, sam nie wiem.",
+      "kr_sha256": "ea7cb4bbdfd381647640ea567eb6a6d2a0f50188208908e877d2b13587679735",
+      "en_sha256": "6fa48cabcfbf69f625252de474bd87eb197199a9b5d8ac321b56f9a2f8ce2255"
+    },
+    "dataList[id=39].content": {
+      "pl": "Nie wiem czemu, ale ci ludzie chyba próbowali nie dopuścić nas do filii Lobotomy.",
+      "kr_sha256": "f4640ba2a4f1489e5082fddfb7cf76949c950ea044b70f2491abe96e5f87023b",
+      "en_sha256": "4bfa0073f6d2ebbdf8338185bc73456060ec3ae561359e64cdff364ac6caad0f"
+    },
+    "dataList[id=3].content": {
+      "pl": "<…Robacze głowy?>",
+      "kr_sha256": "3c1211bd4bf05d193ea67998102fb24fe1ea4eee800e916b7e4d9f65b45cbc45",
+      "en_sha256": "7a37170cf491a6e06a83080b03181a1a879e016b324eed1a57880d62b6617896"
+    },
+    "dataList[id=40].content": {
+      "pl": "Oni też polują na Złotą Gałąź?",
+      "kr_sha256": "d2308689795b214d42d258fd6762052e1367f5f89537f6815786b7e107975416",
+      "en_sha256": "6c4c21604126c839be5371e4beaed20fcfab8a51498d5451b6d17950a5e153a1"
+    },
+    "dataList[id=41].content": {
+      "pl": "Możliwe.",
+      "kr_sha256": "af698ea246835764f4d99b49ecf91ace9faed8bf46e218fcb6a06fccf9313da7",
+      "en_sha256": "6646f562f04c399e10fe13b1e33db516e4e80f7159035a18753a7826faa5abe3"
+    },
+    "dataList[id=42].content": {
+      "pl": "Chętnych na tę esencję nie brakuje.",
+      "kr_sha256": "8c04b4ff69f07ab98b279973eca3c5861091266020b8f7fc3ed9b349eb1574f2",
+      "en_sha256": "b98f1c0da5e6eaf13255b2211ab30461cf0b4a0dbce5b5ad68f50862bccc8f10"
+    },
+    "dataList[id=43].content": {
+      "pl": "…A każdy ma pewnie inne życzenie. Prawda?",
+      "kr_sha256": "3b1eed403c2c86af6d4cd0dd0bd03f688699264090dcaaf437d4754f84df947a",
+      "en_sha256": "2548b64f2709e75f04f9068bf431b6b6c1312d54f935787cc2f5de7533f41b9b"
+    },
+    "dataList[id=44].content": {
+      "pl": "Czemu patrzysz na mnie? Skąd niby mam wiedzieć.",
+      "kr_sha256": "ccdc222c6f8c23901561cf5b032e764d347f3274b5bae1ea7bb8f84f6d509c62",
+      "en_sha256": "6a73143a3774b1652dfef695f70831ff56671ebd51b6f350996d87a0f072a449"
+    },
+    "dataList[id=4].content": {
+      "pl": "W przeciwieństwie do tych, których dotąd spotkaliśmy, ci mają części ciała jak u owadów.",
+      "kr_sha256": "bd7867efa551db11f8900b88557fed142d431a42010e23b767a81446e83c7a08",
+      "en_sha256": "f3ae48010117d23bca9b4efb20411ed8947a8b868a63d960e9683f94add7f312"
+    },
+    "dataList[id=5].content": {
+      "pl": "Fuuu… Dante, jak dobrze, że masz zegar zamiast głowy. Gdybyś miał coś takiego, zbierałoby mi się na wymioty za każdym razem, jak na ciebie spojrzę.",
+      "kr_sha256": "9a3053e6d95ff66a5d41e59ad5ae520140f7142d4c9ed7c2b0b594d94a2fe238",
+      "en_sha256": "845e875c26bdafe5f0ec9a611c347f0f3588aab8982fc14284730fcd95c5e21c"
+    },
+    "dataList[id=6].content": {
+      "pl": "Czy to… nie ten sam zabieg wzmacniający co u ciebie, Gregor?",
+      "kr_sha256": "5629efa229d40336d6c05ead7ca239e9a78f21df78a7fddca27820f218ed3871",
+      "en_sha256": "085b1e0f9f1a124c8fee57324c5d6fbc402be0f44285cb38b058bb3aa4f9a992"
+    },
+    "dataList[id=7].content": {
+      "pl": "Ktoś sobie specjalnie przyprawia taki obrzydliwy robaczy łeb?",
+      "kr_sha256": "c19849ab4c62e8a29e5ce8c75fd2651c8d9dce3ae14485e99a816f7669b7ad2a",
+      "en_sha256": "9963029c428fc046950d3ca088e93f3620c9f2b6a6cd2c4792e81f165dd55571"
+    },
+    "dataList[id=8].content": {
+      "pl": "Nie podchodź za blisko. Jeszcze złapiesz ode mnie robaczycę, co?",
+      "kr_sha256": "79a7a2830b6b39ffbf4866da54298ad41ea330ad7595f96eb3b261b3f78d4694",
+      "en_sha256": "0367524ad1cdec09d63b15959de22b94980c5c00e5daa89dce325e5d625d6829"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ii! N-naprawdę?!",
+      "kr_sha256": "509535ec00cd1ad10bef00c8e1b12278f5f493a594a5b62c74ca71084325f948",
+      "en_sha256": "9641a7ebf8faf92abb6cc81b80db4c840d1b91eeaab0f9e371760318dd4e8a89"
+    }
+  }
+}

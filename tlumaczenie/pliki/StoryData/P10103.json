@@ -1,0 +1,114 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Chciałbym ledwie popatrzeć przez okno, lecz tu blask księżyca rozmywa się na papierze i nie sięga serca.",
+      "kr_sha256": "e60a386d4e6613e2d3dba044fc8e2e224436e92410360bc463da3487f0632c5e",
+      "en_sha256": "918fc9a0ecde2ec47bc495dfa535774da471f872d023967efc155dd138fe5638"
+    },
+    "dataList[id=10].content": {
+      "pl": "To czemu sam nas nie poprowadzisz? Po co ktoś taki wysuwa mnie na przywódczynię?",
+      "kr_sha256": "9a9e623cde42343a6e005a16901f6b6dc9112d7f52004361a1580c88eb110c90",
+      "en_sha256": "4a302bc4587f8b40384a0c4bfb36ac924a73fe8c0d311d253d58b673ac07cee8"
+    },
+    "dataList[id=11].content": {
+      "pl": "Trud i myślenie ponad potrzebę są dalekie od ideału.",
+      "kr_sha256": "2782fdef8aa9b8a58fc66aac6cf7f7dcbab2198b71f714af3eef26fe51d00458",
+      "en_sha256": "519cc92911b767fe58ad21a233d105eaad4795beccbd307efc4ec6c2113d34e2"
+    },
+    "dataList[id=12].content": {
+      "pl": "Mówi to ktoś, kogo nazywają salsu, bo zabija ponad potrzebę?",
+      "kr_sha256": "643f1911be9b1f8de94918de399ef6e5d98b55fd5b2805196af7765b6f12ee9b",
+      "en_sha256": "5b16e00e66dbbb0dbc768c145f37527b4a057941c06f747a7415911206098d0b"
+    },
+    "dataList[id=13].content": {
+      "pl": "Przy pracy wolę skupić się bez reszty.",
+      "kr_sha256": "186085f551f4eb429fbd43745e3c7ca12fa2025f24ee2ab37de628d82f53d6f0",
+      "en_sha256": "445b17fc20d2ad761b6118142418bab404a1fa1a603d6ff101fc1669b065ecab"
+    },
+    "dataList[id=14].content": {
+      "pl": "Pytania i odpowiedzi padały miarowo, aż dziecko z cieniami pod oczami nagle coś sobie przypomniało i dodało:",
+      "kr_sha256": "5817c92ee9b3ca95406d1c8eb73f5cb5b63d0ef09f3ad35dff72cf2c04d33d93",
+      "en_sha256": "d681ef75213e6ffaee30698d58a8f0c75bb7b29f50a57e061118ce80d867b52c"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ponadto, zda się, pytałaś mnie kiedyś: czemu na co dzień stroję błahe żarty, a gdy chwycę miecz, staję się zimny i twardy jak lód. Czy tak?",
+      "kr_sha256": "181b391002e9bcc480698c551221c6d4ae475eb522f0b350f42c4f6e715c773c",
+      "en_sha256": "c3c2063b26ace8e48c29a625078aafe3d4eada4a695656512af266c9c59f4cec"
+    },
+    "dataList[id=16].content": {
+      "pl": "Pytałam.",
+      "kr_sha256": "dc1565184dc84560c166643c2efca5fdbfe7e19d9f7d4048a4460913b0ab3679",
+      "en_sha256": "5ce879860495e5dd3e8602bca79a6595913ed4927243ba1587f91815f3f5a6d6"
+    },
+    "dataList[id=17].content": {
+      "pl": "Sądzę, że i na to pytanie masz już odpowiedź.",
+      "kr_sha256": "68ad8a16ec8a203bae408cdd6dd40234b2b71237d17a98efdc37eae081e2eff3",
+      "en_sha256": "3c8caf68e548951853a5ae015dfd412984042f3df4f40eee1a8984805ef38d65"
+    },
+    "dataList[id=18].content": {
+      "pl": "Siorb.",
+      "kr_sha256": "95c22f3ac4957569aa440e4c5716d0171243e686e612e4b1b68e5740df36f22a",
+      "en_sha256": "a1ed9071152efd1593773af68a957b08044fe7f03cf125eb5cfb07f65d566b88"
+    },
+    "dataList[id=19].content": {
+      "pl": "Jak gdyby nigdy nic, dziecko przytknęło usta do czarki.",
+      "kr_sha256": "536e1e9ded41d095a43d9e20e03af06414ad8fc2b3c9c3ae6967a19ce203a493",
+      "en_sha256": "1b7d56f30912d33a75362f22ecb47bd344df9f2772f7118cac414bcc387c1dcc"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dziecko, wciąż z niezadowoleniem mrużąc oczy na okno z papieru, zdawało się nie zwracać na rozmówczynię najmniejszej uwagi.",
+      "kr_sha256": "0dfd58a17d9859ab473e87c24c5f64bbd756fc1ce3057e44b2c127cb83f67045",
+      "en_sha256": "40fc2ebf168f7d03f3c2bcfcd9881c7264d01d320a28d0ae5a502a4e5d57f783"
+    },
+    "dataList[id=20].content": {
+      "pl": "Mina po drugiej stronie stołu mówiła bardzo wiele, ale tłumaczenie jej byłoby chyba nie na miejscu.",
+      "kr_sha256": "b732a297f892207d0972ae8afcf60f1141597c535cf230cb97e84c69dd4bc782",
+      "en_sha256": "242fa7bafc2060ee062ad572596734b725b4698b967710a11c034fa5a0fdf776"
+    },
+    "dataList[id=21].content": {
+      "pl": "Prawda?",
+      "kr_sha256": "cd99d479b5526fdc34b2ef289b6afd6b09fe84ba8fb119d82ce7349941402265",
+      "en_sha256": "c325ef52f16f8e1c1094c1feb19fe8b1c4e6cc28b8f7bbd1c410483297e15558"
+    },
+    "dataList[id=2].content": {
+      "pl": "Sam mówiłeś, że chcesz spać w domu krytym dachówką.",
+      "kr_sha256": "27635af15547a35a7b7469892ebfa44111f31de4bac00e5d220fd76178572a3d",
+      "en_sha256": "f6ecb82074f75207b0f4078cfe94ca8e71b32be4c1b72970d1dc48825c9a5105"
+    },
+    "dataList[id=3].content": {
+      "pl": "Siorb. Odgłos picia herbaty brzmiał jak pieśń niezadowolenia.",
+      "kr_sha256": "695227e07e916aea77f68858b125a8b394f580144c7cec8a6bab722539d69413",
+      "en_sha256": "2c3a1076b9d1dfa9e165de3cadd4e894735db90001938613d843d91b7a022a47"
+    },
+    "dataList[id=4].content": {
+      "pl": "I to ty, Yi Sangu, chciałeś przenieść się na nowy teren, na południe.",
+      "kr_sha256": "0487ae7c30211ada7f2b5b59fd744bb88042258f9e372be92b575527d9c8a529",
+      "en_sha256": "562c7a83143864e88ff835e1c9d245176abe9bf2217c21620393beffd49adf17"
+    },
+    "dataList[id=5].content": {
+      "pl": "Nie przeczę, lecz…",
+      "kr_sha256": "a04f6870bdae3cbef819bcf5bd59aa0afdc555f227c1bd43a49496efc49e7944",
+      "en_sha256": "9be91643464bcc18b60ae03427979b20826ffca71c3009b22dc13984c03d6c49"
+    },
+    "dataList[id=6].content": {
+      "pl": "Na ten przytyk dziecko zwane Yi Sangiem powoli opuściło wzrok i spojrzało na rozmówczynię.",
+      "kr_sha256": "3256e5c5c576b07983a12ea575771ef2cd56866a42b80aa28525c10de8ac24fb",
+      "en_sha256": "33f6794248ed4dc091e09d89a4ca7f3d3c242b39ea980bedcef68b2e55627154"
+    },
+    "dataList[id=7].content": {
+      "pl": "Czyż nie musieliśmy znaleźć nowego miejsca, z którego można ściągać haracz? Sądzę, że wskazałem stosowne rozwiązanie.",
+      "kr_sha256": "ba3ec77d8076952ff3c1abbbbe407e4cf2acac7a7b0fd4cb27bb25865d793f82",
+      "en_sha256": "7373098cba05655bb6808a3667b1d0a7aeb695b028e72541b3344a602e9acbf5"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ty to nigdy nie ustąpisz ani o słowo.",
+      "kr_sha256": "38e5a47e3052d7e7bdf1b1adbdbef404b9c5c2cc8563870a8a87f58258e98c52",
+      "en_sha256": "3bae74902e0199a7aea1a9b8e901d8763eb3a566c3b62018328c92cdf8426a54"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ustępować to nie w mojej naturze.",
+      "kr_sha256": "0c257aa04e7390dca809003206401c48a4684f8e816352dcb13f8a0ad9908ab8",
+      "en_sha256": "49e29c34f4adc74aa26fcb2793b91acb854f839ed3bde20a588053ea96321de9"
+    }
+  }
+}

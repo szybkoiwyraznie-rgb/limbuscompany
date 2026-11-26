@@ -1,0 +1,54 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Hm? Co się dzieje?",
+      "kr_sha256": "5976a74f46ffb662375afe0f374707785359e79117c9d4ba142f0161cfaac599",
+      "en_sha256": "9dd4ab7a0bbd7dc2b341451e963a25b9439857019db6dee598256408760e2591"
+    },
+    "dataList[id=1].content": {
+      "pl": "Szefie! Jacyś tacy wparowali znikąd i nawet nie mówią, skąd są!",
+      "kr_sha256": "91367afdad519966872e174fe3b524a3111e22f933aff06bde652e1145509a27",
+      "en_sha256": "527de161bc5842a27c2fdea785beee708c658297d135c02816b0b430d81d2308"
+    },
+    "dataList[id=2].content": {
+      "pl": "Kto was przysłał? Po ciuchach widzę, że to nie gang Habanero ani Rzeźnicy…",
+      "kr_sha256": "b9979a6c9e23d14ff4845f61ac0b122105c21e34f5cc8a782760ee10a238d2df",
+      "en_sha256": "4a03bc7c08da40c15f1182e9d6f3f5da41890b79e450b820d4722f24f5be88b9"
+    },
+    "dataList[id=3].content": {
+      "pl": "Jak teraz grzecznie przeprosicie i się wyniesiecie, puszczę was w jednym kawałku.",
+      "kr_sha256": "4ad5824930da93ef9d4447f43720766f387818d829149f6a2bf787dfc80ed6a5",
+      "en_sha256": "5cbc9e31aa0ab70fb7d7c2c67469d21470f63c1b9d6248867f606437e9470b0c"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Wyniesiemy się, jeśli zechce pan potulnie zdjąć z siebie ubranie.",
+      "kr_sha256": "6bafb05d634320e79f3912e6b015286fe4edac6f80f7a750104586017fc72514",
+      "en_sha256": "225c58aebd923c7e2b6b0d7c9395b62e526be0a06b621c408eb2fbc898f58ec4"
+    },
+    "dataList[id=5].content": {
+      "pl": "Jak to tak ujmujesz, brzmi to trochę dziwnie.",
+      "kr_sha256": "379f1d8323db66a11f7b3b999e039f907db44c3694dedfed18009d8d984c7fa0",
+      "en_sha256": "052c2ecf4281a6d1f2ccdcee1429a77fea330ece1ec20c949393fb59b52bd7bd"
+    },
+    "dataList[id=6].content": {
+      "pl": "Szefie… to chyba ci, o których krążą plotki… Co robią jakieś dziwne rzeczy z ludzkim zapachem…",
+      "kr_sha256": "290902f2d92cab38bb2e0bc3e67ba585d4bfeb41bf4ac1c75b554f7a6a70fc65",
+      "en_sha256": "e2d220a7c53d9e65118360f509619ef8c9b9b953ba4d13082a3f0f38057b2b4a"
+    },
+    "dataList[id=7].content": {
+      "pl": "Fuj… obrzydliwe gnoje… Tak nie można żyć, ludzie…",
+      "kr_sha256": "306c190f38194ec80aee6c69b1ab51db7a56098cc69078f90fdd49ec555475c8",
+      "en_sha256": "7c18df6ad1b47bf8c50f7aa798a0140dca68fb9b5e259cbae7bff10f3066893e"
+    },
+    "dataList[id=8].content": {
+      "pl": "Teraz ten, kogo nazywali wielkim szefem, patrzy na nas z najszczerszym obrzydzeniem.",
+      "kr_sha256": "3de9e0162da58a5d93504cace42690b3cc49411abcad35a64534d7f822cef1d6",
+      "en_sha256": "7f40e61d1860ba57312b7901334d8e5432b7bb677996fbbba8301c33a01041da"
+    },
+    "dataList[id=9].content": {
+      "pl": "<…Chyba jeszcze nigdy tak bardzo nie chciałem wygrać.>",
+      "kr_sha256": "96a8a06ffe022e81ba12058ea85d710838bcdb4915d04f3d6c2cded8fe5e8003",
+      "en_sha256": "af739406a3d0d795a0d5a206d6e748a437151823a0a785dda1ee419691394dcf"
+    }
+  }
+}

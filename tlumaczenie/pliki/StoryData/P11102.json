@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Najważniejsze to ciąć w pas. Stopy muszą śmigać jak błyskawica…",
+      "kr_sha256": "0153165ac77e210c50c865b473c10781c59203ef8b7675027ad9d2bdd5f2f7c7",
+      "en_sha256": "461bcbe311e47389409c5d66ff4f0c77e14af998a87a89319fab398f5b9f4bd7"
+    },
+    "dataList[id=10].content": {
+      "pl": "Postanowiła nie żałować dnia, w którym ścięła mistrza. Usunięcie przeszkody, która tamowała jej nurt, było słuszne.",
+      "kr_sha256": "fb102744c10f47392c3a8a64c207d13842f9efdd771c3f0ded53bec567a54601",
+      "en_sha256": "9f2c2a971bebb203a2b05703471e02700492869f354c153167382ec7bd7b9174"
+    },
+    "dataList[id=11].content": {
+      "pl": "Bo taki był główny prąd.",
+      "kr_sha256": "64661cb77281be417204cd2190125ca99b059ca56cb3b8a880cacd7679c7b37e",
+      "en_sha256": "12ba5362bb858193cf04ceaadec44b04a4146876c0bb91e9efe22f133080a0c1"
+    },
+    "dataList[id=12].content": {
+      "pl": "Dlatego i tym razem postanowiła nie żałować, że dała się ponieść nurtowi.",
+      "kr_sha256": "2e2837b25daa4d0866ea8bc875ca73c2b91242d268531d36c5e6a6fa451ab7e7",
+      "en_sha256": "3b47e10dab6540297e98a982375961fda28712d9ab412fea66f883b0c8d659a6"
+    },
+    "dataList[id=13].content": {
+      "pl": "…Jeśli coś stoi na drodze, po prostu to zetnę.",
+      "kr_sha256": "98d549762937cb9f433d9ed34e1eb062c4b0d1f3df1b2e2d18c3ef446e4f3af5",
+      "en_sha256": "803c41700e0d204800c8258a59750de3c7208d22f0acac4427c4637207ede514"
+    },
+    "dataList[id=14].content": {
+      "pl": "Oczy dziecka rozbłysły determinacją.",
+      "kr_sha256": "8adf6c7d380e7de8c782fff04fd5dced84a2d737bea72d55e814164925ca0a21",
+      "en_sha256": "8fe4ebab0429f7cd858db9954db75b55875e75d5c5be54fe27d1558bc92cd801"
+    },
+    "dataList[id=1].content": {
+      "pl": "Tak brzmiały twoje słowa.",
+      "kr_sha256": "63352fcfdc3b92fae03b16ef14307775455df2598e36c741401ca8fcb6802b9f",
+      "en_sha256": "d874c5c739602acb4c96eac432791b126f77727fb75834a91f7453786629ff6d"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ciche zwierzenia dziecka, a raczej rozmowa, kierują się ku ostrzu.",
+      "kr_sha256": "2bf3d99361006336b5ce8ef1b8dec6fac3a2a0e0957e913c8c1de7ac6bc997a7",
+      "en_sha256": "7e7c60d1b5c6c7b541c7dea47ad11ef00307aecb78d845dd7cf542d08751fdb5"
+    },
+    "dataList[id=3].content": {
+      "pl": "A jednak to ciebie, nauczyciela, własna uczennica przecięła w pół. Czyż to nie sprzeczność, nie paradoks?",
+      "kr_sha256": "f07b7be8eb67e80b424de170fe413425379bb26e2c7df562463096f17dcbc634",
+      "en_sha256": "7e079deaa14af385a9a1d2cc1fd13655c3fc20addaf39bb1cecdc33443927ed2"
+    },
+    "dataList[id=4].content": {
+      "pl": "Mistrz, który przekazał jej sztukę miecza, owszem, był, ale mógł należeć do Rodu Ostrza albo i nie.",
+      "kr_sha256": "13f17240ddf7f9397f3cb8f100b8a5107f142d34a623b393623ed8d874a97c4d",
+      "en_sha256": "c58f82552988f140169e078cb715588617d076a72aba24856df049a2f9752d1b"
+    },
+    "dataList[id=5].content": {
+      "pl": "Ludzie, których nikt nie nauczył, jak mają władać mieczem; zbyt nieokiełznani, by nazwać ich po prostu wolnymi.",
+      "kr_sha256": "c9e5c0eeefa93abca1527e9dff51b0ddda27eb4dc1cd102977bc926381766cd3",
+      "en_sha256": "5bced8afaf95f0e61c4c5a422ba20ebf9668acff0625adcad299d74c1bb64e9f"
+    },
+    "dataList[id=6].content": {
+      "pl": "Jeśli już szukać słowa, które ich łączy, byłoby to chyba przetrwanie.",
+      "kr_sha256": "4f7ff7828b0d0b45b37193ce84fc43f067c0c297e3db94551d2d13b0b88c167f",
+      "en_sha256": "23c17e7e206b2307330715778e1e2eeac1c959494e689388a5893db9bd49c137"
+    },
+    "dataList[id=7].content": {
+      "pl": "Wybrali miecz jako sposób na życie…",
+      "kr_sha256": "cb9fc00021660f5309519ff5ffafab0b6857d233a3bb2054b964a1662f4d6988",
+      "en_sha256": "ab55be4c1104fdc31ebc48b0a1989c47deab1be98c13f1cd43ce94ddcb9fdbe9"
+    },
+    "dataList[id=8].content": {
+      "pl": "…a tych, którzy im w tym przeszkadzają, ścinają mieczem. To chyba cecha większości członków Rodu Ostrza.",
+      "kr_sha256": "dae0e9aa748d913290c532690e0dab7bbdbb8ee2dd41bf33815ff8ee373649f9",
+      "en_sha256": "e017ad80ea89d1b416880a2f651f3102bb6aafb4d1f36263b5c44c0b6691b5ed"
+    },
+    "dataList[id=9].content": {
+      "pl": "Może jednak powinnam była trzymać się wyznaczonej ścieżki?",
+      "kr_sha256": "9271371b39fe177b2b25e36fcb6ac27efd3d45a1f67a65567dbe5e6eaf414b99",
+      "en_sha256": "ffc53bb17871980a30215623b31eb1e2d882a9d83c206c72845d2a8377ad0cf0"
+    }
+  }
+}

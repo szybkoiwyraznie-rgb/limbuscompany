@@ -1,0 +1,104 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Yuri, co tam robisz? Chodź.",
+      "kr_sha256": "aa6ba92227230c3eaaa8fa5c03dc250ae4cad5b3e6e72e970343ec7ca895f496",
+      "en_sha256": "10d8504534bfe41298b5cdec1cec87fcd712bf2deca7e55eb2e1850f770a48bf"
+    },
+    "dataList[id=10].content": {
+      "pl": "Och… dziękuję.",
+      "kr_sha256": "b39544c926c8731f7a3a79e04ca5d1d8ec10199e2c46c5f081b994b7f6daa33e",
+      "en_sha256": "0d145e8fbe16ce81c88da2ab31af29f143dfea776e15ff88ef635ba3b9b1a3a3"
+    },
+    "dataList[id=11].content": {
+      "pl": "Co jest? Od kiedy z was takie przyjaciółeczki?",
+      "kr_sha256": "60e89aece5b9cf6565e777c95b1483f5ece4dae016324be20bcfb037b2c8d6be",
+      "en_sha256": "a3e5a15a3d01ba2ced20082f245c9b4e65c6c9c95f04b0128d4aa3df4229c3b8"
+    },
+    "dataList[id=12].content": {
+      "pl": "Yuri~ Skoro już tak wyszło, może dołączysz do Limbus Company jako nowa Grzesznica?",
+      "kr_sha256": "52ca84c996aa7b8abec714f96bd9ff4985fd85f6f28416a265ed15ba8bf9177f",
+      "en_sha256": "f6a67946f262d723c7e474d96dee4da33e53c9a50e7bb36a801206c8ba926237"
+    },
+    "dataList[id=13].content": {
+      "pl": "J-ja?",
+      "kr_sha256": "35cbf0813bc433741dfdf74ff1fbb09d2687f7add060e01d37b8670f644631eb",
+      "en_sha256": "350c6c31bc07aa4ff77ed516c6f2c9f83ae4f613d39670ce1fc88d30a7f55ea0"
+    },
+    "dataList[id=14].content": {
+      "pl": "To…",
+      "kr_sha256": "cef635a32c13a24926971986165c309301257093846a9ec26397a80680611bf9",
+      "en_sha256": "686a1036af3a5929d96647e535df8346a1ac6e5df9abb68b93cf695341bf9d87"
+    },
+    "dataList[id=15].content": {
+      "pl": "Wiem, wiem. To decyzja Vergiliusa albo kogoś wyżej. Ale zaproponować chyba można.",
+      "kr_sha256": "c0cb4f2257daa596674d9a1f934f1390d8b86018ba4baf225888a4ed01cf94c2",
+      "en_sha256": "c182d782e7af0aeb3b6f400dbb55385e7012d06b1cbdeb1dff3ae342f8192c0a"
+    },
+    "dataList[id=16].content": {
+      "pl": "Hm… Kto wie.",
+      "kr_sha256": "5cccca34d4dfca1ee98cb623c171220d0df1bf702fcce016533fc15083f11116",
+      "en_sha256": "9ae360ee28fc6ce40f9c813a8e3f86594a5ae80492e67c3286bcd2c04bb99bc8"
+    },
+    "dataList[id=17].content": {
+      "pl": "A poza tym różowe włosy to idealna maskotka firmy. No? Co ty na to? Hm?",
+      "kr_sha256": "b597755bad32906fe4b6019f2cb4d65916ac741c84b69bc74a3fd4c95893b684",
+      "en_sha256": "658d8666e1eb2cd6a7b1d647f7e251a80bc902bc8828b588484c73f76ceaa0a6"
+    },
+    "dataList[id=18].content": {
+      "pl": "M-maskotka…? He, he.",
+      "kr_sha256": "ee4c881325987da583347fc063cc21cc52bcd59dfc725c9781fc82e5ed13b0be",
+      "en_sha256": "7026b154adeef36482bbea96473b7ba8fd7f7f48cefb327c8d4b99d9d41eb6f8"
+    },
+    "dataList[id=19].content": {
+      "pl": "Po raz pierwszy Yuri uśmiechnęła się, choć blado.",
+      "kr_sha256": "31efcf606c8c25ea4af9f18dbaa4e7ae9adc6d0c2a0a6cc1bb5e8bdf9e639976",
+      "en_sha256": "adec2b98bf1eba0a025583fa84af588afe11a235729ae37b689da10ae6573fef"
+    },
+    "dataList[id=1].content": {
+      "pl": "Z-zaraz. Maska wypadła mi z torby…",
+      "kr_sha256": "53b72d02ed8755f292c47ef513eda001026688c84247b371061a2481898fbdc9",
+      "en_sha256": "30740144448831264cb0cc36f0b0c5f55fa05e37cc48e83f018c971304333572"
+    },
+    "dataList[id=2].content": {
+      "pl": "Teraz już się do niczego nie przyda. Tylko obciąża pani oporządzenie.",
+      "kr_sha256": "9ff4ea312635c865346c27fdc5892454e1bb734dd3c914b35bb8262a5f10b9f8",
+      "en_sha256": "2f74b253bfacafba24b231c56ffa61ff51eef9fbaa625354fc9822cc4571cc6b"
+    },
+    "dataList[id=3].content": {
+      "pl": "Przecież to… pamiątka po pani Ayi.",
+      "kr_sha256": "fa691ad46e96210a82d6740ed266c82ea00345d88e880c57b37a9d4443a9c592",
+      "en_sha256": "d3e9ed2ef2d1d127b71acd0ae99fc1c6b916d1bd4b0baf683e3a79daf7854935"
+    },
+    "dataList[id=4].content": {
+      "pl": "Nie należy pani nawet do N Corp., a robi pani najbardziej bezsensowną rzecz na świecie.",
+      "kr_sha256": "590383d959c3791229cffc4a09be5eb5065d9c4bd158c38b256234cd8b9726d1",
+      "en_sha256": "7dff3379085fc4c3d7d2666d13740531df916b415d4c6b7df1af8def52476ff4"
+    },
+    "dataList[id=5].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=6].content": {
+      "pl": "Trzeba zawiązać na odwrót.",
+      "kr_sha256": "962620f895f12401d56aa6ac5573176c0a0bfd51f1ec84565a0383d010ed4a12",
+      "en_sha256": "6984270b5e4212c648525e9fc02628bba22ca1441cda17f59c227bfd5ea2fb58"
+    },
+    "dataList[id=7].content": {
+      "pl": "Słucham?",
+      "kr_sha256": "e90774397330b356f02b6151396edc31d5a7be718de0c4a01f9a2248aa98da3f",
+      "en_sha256": "d208fcbee8f3373de0d38f9b3d32b335d230e5d8b1143a9451ca6fad9e9e2111"
+    },
+    "dataList[id=8].content": {
+      "pl": "Chodzi o węzeł. Tak zawiązany zaraz znowu się rozwiąże.",
+      "kr_sha256": "88ccbfa7a30f51146d4c6ca268db8252d6ffbf4d9604dbe182b346707ef06c16",
+      "en_sha256": "5e4e03672d3dfc8fcf74372df319da652e2e1ae062474f5327b8f1ddf8d92468"
+    },
+    "dataList[id=9].content": {
+      "pl": "Na statku wiązaliśmy taki, który się nie rozwiązuje. Jak wrócimy do autobusu, pokażę pani.",
+      "kr_sha256": "df0fd0375efa4d29b6e7844a084b1b8d23570c808d889e5d991e60c296ecb955",
+      "en_sha256": "e2cf3f84fd94470a3139e126cc6d4ab98255c5bfb2a3fec87dedaf0dc9cc8f75"
+    }
+  }
+}

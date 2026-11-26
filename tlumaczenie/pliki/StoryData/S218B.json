@@ -1,0 +1,89 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Eee… a wy to kto…?",
+      "kr_sha256": "c18cad4bebad15f399e71c1c21ed678bd6458be45b183faa9b380923c29b2abb",
+      "en_sha256": "5770a735af4efb0790649dabcd8415a1d17ce087ff2231ec794c541d1ab632a4"
+    },
+    "dataList[id=10].content": {
+      "pl": "Skoro przyprowadziłaś przyjaciół, to ja też przedstawię wam paru moich.",
+      "kr_sha256": "39c8f37012b85bbdf520b529bcd0508025b6bb1475d13d16203f580ba93e8a6a",
+      "en_sha256": "2c5032c0e0cd8c37d139005a6f2d54fe268529cb62a2e64026e1977a059525c4"
+    },
+    "dataList[id=11].content": {
+      "pl": "…No, ten, wasi ludzie chyba mówili, że hazard jest wyłącznie dla zabawy.",
+      "kr_sha256": "63e1c70d5f781087bbe1cd897cd508d30e3c9a4aa66fb0c1bd962dd82e9e7fbe",
+      "en_sha256": "396a69ff3b959c771bbccaba3950428bef2bfdd832dcf7d9c0039d7a64d536b1"
+    },
+    "dataList[id=12].content": {
+      "pl": "No. A nie jest tak zabawniej, niż od razu pogodzić się z wynikiem?",
+      "kr_sha256": "89aa2bc5abea6612c86487f59516518a5eef2921176746476b42b7269c2ffccc",
+      "en_sha256": "97d05c897c2992ad04e98880ca8c2d1f4368d8ede71244666d2013be758e2a2f"
+    },
+    "dataList[id=13].content": {
+      "pl": "Niezależnie od tego, kto wygra, i tak chciałaś się przebić siłą. Tak?",
+      "kr_sha256": "a258dc37ab4a594f8029dc6452ed9ffb55b6937936b89e121efa2633b69cfbf6",
+      "en_sha256": "f23fd3e6876dc71c9378733469d7b62a3bbb5ec48f1ea0bb00061cb2b57d387c"
+    },
+    "dataList[id=14].content": {
+      "pl": "Pff. Pomyśl. Mam siłę, mam ludzi, i co, oddam Złotą Gałąź za jedną wygraną partyjkę?",
+      "kr_sha256": "0b202c0a97c9647236f37d0cd5fa2ee5791a64b3f5633f1d0bd1a3e9e497e301",
+      "en_sha256": "34fcbc33e5a746e4ea8bd4868ababa721b9b8ad1508c6001ffddc93521c9ad92"
+    },
+    "dataList[id=15].content": {
+      "pl": "No dobra. Tym lepiej.",
+      "kr_sha256": "1ac1723074f6cfc68b86e429b4eaee8df7cc1c52457e2c106e34811d49d4131a",
+      "en_sha256": "3bcf6dc33aa9047368917b6c4b8668e33d61a96620075dbe26ec4a85b065b094"
+    },
+    "dataList[id=16].content": {
+      "pl": "Bo mnie też już od dawna nosiło.",
+      "kr_sha256": "2b18085868d8957c77e9ea216186112085c84e4cbb772a6044c3dca5d64ee22f",
+      "en_sha256": "b830cd27aa5a62763c01ad87acee86dd659b2b3f93a34f2bad83d2c279054a04"
+    },
+    "dataList[id=1].content": {
+      "pl": "<Rodia, jak poszło?!>",
+      "kr_sha256": "e6de0e216a24e8e434d8afc2c6b0fdb644f62a0aaf187fc003152b69d4c4d1e3",
+      "en_sha256": "bab344f3939f0ea2a2987d1aa5de4ee8ca216d8e54fb2eba5ad859e66db681b5"
+    },
+    "dataList[id=2].content": {
+      "pl": "Rodia, widzę, że przez ten czas znalazłaś nowych przyjaciół.",
+      "kr_sha256": "7d307b54f6f6ce5847043b8009db7e063e0a84ed411abd2036adfb72df0a1928",
+      "en_sha256": "1a2f6d1dbb8ef273cea163b6c995bf5927671e8693d84b8505f90056283588c7"
+    },
+    "dataList[id=3].content": {
+      "pl": "Obiema dłońmi rozłożył na stole wszystkie karty, które trzymał.",
+      "kr_sha256": "d3f7819b14ba587c2858cdd9695cd01e16c7a83b0421469008471bb614a54b99",
+      "en_sha256": "52791bd7bd462d930a29d0c621c4397f38f696c3857bc979137a6cd0ba3f9899"
+    },
+    "dataList[id=4].content": {
+      "pl": "Gra skończona.",
+      "kr_sha256": "0018efa26b61669ff3371599bfea29a54da57c54f71940be9830fff65057f34b",
+      "en_sha256": "e5f63b8afb394af828da427f1018f584ff754db061ad61d2be0a30c75b512ee1"
+    },
+    "dataList[id=5].content": {
+      "pl": "Wygrałaś, Rodion. Nie wnoszę sprzeciwu.",
+      "kr_sha256": "e191e79ab5bdc78113cd91fe37563b2c172e0bcbda350206e087fb6fa6360efe",
+      "en_sha256": "b8593fadd7b18333ea92f37d2d63fcb4f0fc28aafd1d2c54eae2429d7d5d0bb2"
+    },
+    "dataList[id=6].content": {
+      "pl": "Po czym otworzył drzwi, wyszedł i już nie wrócił.",
+      "kr_sha256": "bd6401ca41d1e41a82ace54a27e0420437373fccef006ce1b2a3899d30147989",
+      "en_sha256": "512100e87af37f113ac127e8146ea48d6b01956b504df8242e9767b6ff79eaed"
+    },
+    "dataList[id=7].content": {
+      "pl": "Za to w pokoju nagle rozległy się puste oklaski.",
+      "kr_sha256": "2146c5454b07bfa7363c44814dcd14e68a2106364220dfdd3f26dec4998a9157",
+      "en_sha256": "11e01109b483b2111e6a2a312585260ff9c148c497150e068aba717a0e1de817"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ha, ha, no, no… ładna gra. Tylko że…",
+      "kr_sha256": "5c01d94dccd81b949adb00fef2b82b29db1f24d04b13fa2386d60f9dfe21e4bd",
+      "en_sha256": "2f602f5c15087bc7bf3587f4cd91827a8231adb9f49e9aac75e24bf2b47cee4b"
+    },
+    "dataList[id=9].content": {
+      "pl": "Ja nie jestem taka wyluzowana jak Sonya.",
+      "kr_sha256": "a4cb13651f86e406496c868bbf71edf76b01671877054de7b96678a710618d60",
+      "en_sha256": "fd98e4addefdbeba789d735eec3f4bc4cf2f2aed4b617ea9564d0523bb20b6eb"
+    }
+  }
+}

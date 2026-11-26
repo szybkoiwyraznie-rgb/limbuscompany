@@ -1,0 +1,89 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Ty mały…",
+      "kr_sha256": "b37f43a6d99c68a20e2ee01988685de4c3c5465abb4b320e6b9a6930500a4c88",
+      "en_sha256": "a0bec32aa91c12d7bbfc1ddd491c130f371f8402c66f3f8d013354df1049e820"
+    },
+    "dataList[id=10].content": {
+      "pl": "A jednak, jeśli jest jakiś powód, dla którego dziecko zwane kashirą trzyma przy sobie dziecko zwane Hong Lu…",
+      "kr_sha256": "58f7fbae2893ceb69c56bce0bd1e3eab845bef99d450109f2042fccd20375e4c",
+      "en_sha256": "7e243ac63a0926ecba72a92ed025c7e4242d2b58d910e9cd40baebbe92773b7b"
+    },
+    "dataList[id=11].content": {
+      "pl": "Trzeba ci przyznać, że do ludzi to masz rękę jak nikt…",
+      "kr_sha256": "f2e0b8d2e666b1284171b874aa80e2772f32267abebc399af6af8b913fa34f48",
+      "en_sha256": "d487e60c60d87ad3568c742c529f970895e4df032fb2e5b6f8c7d5565fe6853b"
+    },
+    "dataList[id=12].content": {
+      "pl": "Cóż, chyba nigdy nie odmawiał, kiedy mu coś zlecono.",
+      "kr_sha256": "a9b466dd1a6644e675119d4e663e066b6ea9bf736e5c2e108a753fd2ae45debf",
+      "en_sha256": "f9fec728fe9cd2b8fe8b0e981058f6baea1fac57fe3317b6626acd9196b37613"
+    },
+    "dataList[id=13].content": {
+      "pl": "No tak, pewnie właśnie dzięki temu wciąż tu jest.",
+      "kr_sha256": "07d0c3cbcb521c31f3692ba59428469eb187a0a040ccab123270c7c2518b624e",
+      "en_sha256": "82891d3949c87b4f7d2d9c004a13eef85c95e3a7912c9a3605341b5524e216e0"
+    },
+    "dataList[id=14].content": {
+      "pl": "Upatrzyłem już sobie przydatnych ludzi. Biorę ich i załatwiam sprawę jak zwykle, tak?",
+      "kr_sha256": "6cd89269ddde9fc25617bfbf88b5e0c000badb6c9656d2c8754d0cb0e85f58c7",
+      "en_sha256": "9cbc68b7bcd0a4eb20b905757dc54b3c36f530ca4b0fa7edf61908982934c3e0"
+    },
+    "dataList[id=15].content": {
+      "pl": "…Tak. I jak się da, to przy okazji załatw też sprawę grzecznych form.",
+      "kr_sha256": "624419026e32c15f2549d0d334b5cb7fe02a6b7f92bcc606e26c6cae0d8103b1",
+      "en_sha256": "acc095c4de6f8d80e0213ee7a774eb250823a78c8b82d4c723c8aec334060215"
+    },
+    "dataList[id=16].content": {
+      "pl": "Bo jestem twoim szefem - powiedział kashira, prychając śmiechem.",
+      "kr_sha256": "1139457e20529ab2049307b455293c65c1062112639bc0a345b64cf840ffbf4a",
+      "en_sha256": "c7c0cfdadbbb50b244fd749e3602e96dcdb74c8382c56c8dc4052839f6ef2ce7"
+    },
+    "dataList[id=1].content": {
+      "pl": "Dziecko, czerwone i sine ze złości, już miało wypluć przekleństwo, które podeszło mu do gardła, ale jakoś je przełknęło.",
+      "kr_sha256": "e825835696e81d8ae3a1a20d3e2f071862c915bc746fc100042dd54e6e1fb79d",
+      "en_sha256": "7ccbe47e4d62758c7c83e6bcfb59e54d8fdeb2714f34c558f34ae5ae96d124ab"
+    },
+    "dataList[id=2].content": {
+      "pl": "Trochę już minęło, odkąd tu trafiłeś, gnojku.",
+      "kr_sha256": "3d480f9cce1b2a9666de8416fb4a1707dba9fd8871af76ba05934e6ad5eeb60c",
+      "en_sha256": "7a25aabbc614031c5be4e88105f0ce414bbaf45d810fcb6a2fb56edbd8b9c69a"
+    },
+    "dataList[id=3].content": {
+      "pl": "Nie “gnojku”, tylko Hong Lu.",
+      "kr_sha256": "1c2e251cfe22f240a7ed2d820fa77c15370717ad6025d0023d2d69a8031f2c77",
+      "en_sha256": "14a9b59b0af4f18b6291e9218b92e4264f99d09bae3cad8b7d7b8ab4f15d5c8d"
+    },
+    "dataList[id=4].content": {
+      "pl": "…Myślałem, że już przywykłem do twoich bezczelnych odzywek, a tu nadal mnie krew zalewa.",
+      "kr_sha256": "25b8277c15f7cebbebf55f1187ca0542419e39e0a2c89c8d5eb9263596d0d9b3",
+      "en_sha256": "33e68f4c33961cc496d4879d2700e7d05bb9e9ff20bde597eda428b02ea99d12"
+    },
+    "dataList[id=5].content": {
+      "pl": "Nic dziwnego, że to dziecko tak reaguje.",
+      "kr_sha256": "1cd9ee2eae82b4e4aa6270123a9c49db6a6c8f0cdf27286edf49939cb6eb44cb",
+      "en_sha256": "ce21d426f3bb71bd284b536f8309ae588d52214297c087f3a080682b6876edf2"
+    },
+    "dataList[id=6].content": {
+      "pl": "Bo Klan Kurokumo to organizacja podległa ‘Palcowi’, i to samemu Kciukowi.",
+      "kr_sha256": "01b6b2f69734def1d67a522e31756f00c1303768960fc16a275f6f8be1af3f40",
+      "en_sha256": "db322351c501d28010540db04aa25c3d861bbf693cd167ec641e7cce8ef01d3d"
+    },
+    "dataList[id=7].content": {
+      "pl": "A Kciuk ponad wszystko ceni dyscyplinę, zasady i hierarchię…",
+      "kr_sha256": "0b437e1c4cdeb7f474de1c92a5c42f11b1f0f7e2f15a60a0ba0b3d4bbd7bde6f",
+      "en_sha256": "e166186cdb84de4b8b4961c6a920c20285951f8ddfe0253ec8bd6c5621640d0a"
+    },
+    "dataList[id=8].content": {
+      "pl": "Tak samo jest z rangami w jego Syndykatach.",
+      "kr_sha256": "f89cc67beebd2c3604d782d1f11bcce72e0ac1307d18a591f76ceec46d03723d",
+      "en_sha256": "d70e6a44d95d7e25934b5d4167a6e2167717d99375d6b8cf15dee873f7eeba5a"
+    },
+    "dataList[id=9].content": {
+      "pl": "Kumicho, kashira, hosa, wakashu… Im niżej, tym bardziej słowo przełożonego jest święte, a za nieposłuszeństwo podobno obcina się palce, ręce, a nawet głowy.",
+      "kr_sha256": "f792b3a110f155cf60b10f47d711d81ea58d5d6964d39d739cbcba980ffed4a4",
+      "en_sha256": "86ea5e70674ff5f6ce9f05311015a63acc54e7a1d3925b22c31580af26271cd5"
+    }
+  }
+}

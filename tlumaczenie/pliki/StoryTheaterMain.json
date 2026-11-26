@@ -1,0 +1,59 @@
+{
+  "entries": {
+    "dataList[id=CHAPTER_100].desc": {
+      "pl": "Byłem pośrodku czarnego lasu.\nNie pamiętałem ani powodu, ani przeszłości.\nMiałem tylko głowę zmienioną w zegar\ni autobus, który wyrwał się z lasu.",
+      "kr_sha256": "45c2d2e67f6b11069aa67008a38733c3968ee79685ac83184e255914d53669cd",
+      "en_sha256": "c337e176378eacbde9954d1a919c7c48e3cb1e22816bf6ccacb80934180a2072"
+    },
+    "dataList[id=CHAPTER_100].title": {
+      "pl": "Selva Oscura",
+      "kr_sha256": "b7969f1ea9ec9dcbd17e2d09b0fc8310a037df9633b8585b630b47fa29e6c33e",
+      "en_sha256": "0b6c48021b4bc8615fc80f35a42ad9d68bec517f5ad7befa429425bad06c6648"
+    },
+    "dataList[id=CHAPTER_101].desc": {
+      "pl": "Zostałem Kierownikiem.\nPrzewodnik kazał mi zdobyć gałąź,\na ja przytaknąłem.\nNie wiedząc,\nże to gałąź, która wyrosła w koszmarze.",
+      "kr_sha256": "44f4142c2645a3c648b787ad2b8a8d87f6a3331f6b768ecf63d260edea4986d8",
+      "en_sha256": "d24d65408c0e4ed4bbf1207a50edd28910857f5c4fbfc22d0478d1e77861ed3d"
+    },
+    "dataList[id=CHAPTER_101].title": {
+      "pl": "Nieprzynależny",
+      "kr_sha256": "5599ee30344196b39a3677af7ecf0a310c7407282aa0ef3374bc67fb39bcffcc",
+      "en_sha256": "70e752c2c53d0fb3eaa48b6026a9973522099fb767e15f19400ed1e521e76354"
+    },
+    "dataList[id=CHAPTER_102].desc": {
+      "pl": "Ktoś zagarnął Złotą Gałąź.\nPrzewodnik znów podał mi westchnienie i szansę.\nZ nadzieją, że tym razem się uda,\nruszyłem w świat uciech i lodu.",
+      "kr_sha256": "e58156251157b5a480d8a0bf47e2ba98b087fa7b03107297d6049503c662cb99",
+      "en_sha256": "c35035442f72b8c75f26210914cc9814a56860e130630c86f44a0c59322d49f8"
+    },
+    "dataList[id=CHAPTER_102].title": {
+      "pl": "Niekochająca",
+      "kr_sha256": "303b62dac16984cdf78237e07c61099b07afbeab7f707328591be03a47eae27d",
+      "en_sha256": "c53c617f0d57ea8ef98bc1b99dcc436f1172d9704e635827c67f614d8b5e3f98"
+    },
+    "dataList[id=CHAPTER_103].desc": {
+      "pl": "Kurtyna opadła nad wesołą, choć zimną komedią.\nŻe teraz nadejdzie tragedia,\nprzeczuwałem jak przez mgłę.\nAutobus zatrząsł się na wybojach.\nZa szybą widniała cicha noc.",
+      "kr_sha256": "b529d32f6afb8a1247a8868adc3f151839df8321c1fe221ee4c6a6056dd44939",
+      "en_sha256": "45776e3147839532c65a1d19454efccac5a986e7efc385818adc97c263b1d428"
+    },
+    "dataList[id=CHAPTER_103].title": {
+      "pl": "Unikający",
+      "kr_sha256": "6370159b1b48737cde78dbf21ac73de663f7f0173d4b506963eaa82041be9160",
+      "en_sha256": "7ad6dafcc3a7a31579c0cb70b991ce85e9b6b732b6cbf5f28cd1c647b9d1eba3"
+    },
+    "dataList[id=STORY_10111].title": {
+      "pl": "Dystrykt 4 - loch w filii L Corp.",
+      "kr_sha256": "77c881b033d1740e856d89c45884db1be91c15db192998b063d7384580c2c880",
+      "en_sha256": "570b5d9781e54ab822207b8c003c7892645323e08730101fcae2671c908c500d"
+    },
+    "dataList[id=STORY_10219].title": {
+      "pl": "Dystrykt 10 - loch w filii L Corp.",
+      "kr_sha256": "c071f0825e6170a72b1a8e869985c96b8bb00ff062a8c1260a4780c857cc8882",
+      "en_sha256": "c00c1f1b547d4bbd3819b3b20393b9440149d486c05704639527374772f11840"
+    },
+    "dataList[id=STORY_10322].title": {
+      "pl": "Dystrykt 11 - loch w filii L Corp.",
+      "kr_sha256": "d393f913a2abab51e6c45c781950d0b15f81dc1d4c39d658911af5a9a78d9ea3",
+      "en_sha256": "7bcaede8478933c425bd91578c6ee2edbb19053df0fa8581390596ce00a7afe7"
+    }
+  }
+}

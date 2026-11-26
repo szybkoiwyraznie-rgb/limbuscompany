@@ -1,0 +1,614 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Yuri patrzyła nieruchomo na Gregora. Wyprostowana.",
+      "kr_sha256": "d5cb0b53da7de1d76bc61a2aaf5703ee1a3b62e14a89db0ed46881de42bbe6e8",
+      "en_sha256": "b235d121c173858341dfbb981051c6ed3eb793d08212b4efd36a2c93c6ecf24b"
+    },
+    "dataList[id=100].content": {
+      "pl": "Wystarczy. W końcu nie tak całkiem się mylisz.",
+      "kr_sha256": "681b9a043a5938fc8a44322f77fe70b7987db67c279110c0fa11de9a59999ac8",
+      "en_sha256": "649a731fd99c4f5f900987157f5450eee42d2b02610149ab7510f33107a1107a"
+    },
+    "dataList[id=101].content": {
+      "pl": "Otóż to.",
+      "kr_sha256": "5bb086114cf4770e4fa5dcf335cba9af4a08e5c050abae97f2fd75d434556f9b",
+      "en_sha256": "e2d8594ef10f888a7bc21fd3a989f228428c150fc3b9984f3214c55efa8eb4d8"
+    },
+    "dataList[id=102].content": {
+      "pl": "Między Vergiliusem a Faust jakby przebiegało dziwne napięcie…",
+      "kr_sha256": "0d8b73e227d44462c1e2499b99f7e621dcb6bd28d2054d5d0d096d54970ed938",
+      "en_sha256": "8ac940e58bfa2af1f6696ebef44ee6a29847023b65449aae442dc8d19015ddef"
+    },
+    "dataList[id=103].content": {
+      "pl": "…ale nie miałem już ani sił, ani głowy, żeby to drążyć.",
+      "kr_sha256": "395b72794d49794d00cfae2839c3ce618b4a0d35d3714f25bbfe7f00b0983a46",
+      "en_sha256": "95540b90ae12b1844f2dd529d1037e252d84ff0ae93de072647cd3d0a9fd1722"
+    },
+    "dataList[id=104].content": {
+      "pl": "W autobusie unosił się ciężki odór krwi, zakrzepłej i zmieszanej ze strzępami ciał, a jednak nikomu nie przyszło do głowy otworzyć okna.",
+      "kr_sha256": "594258096a8f6db41dbc66d274e4a38c63cad2367637f09a5c65fcea71a6f93f",
+      "en_sha256": "014221dbb0967b2cddd1858226388f6ed9c9481645b3a4c79a189b25873aea8c"
+    },
+    "dataList[id=105].content": {
+      "pl": "Nikt też nie pomyślał, żeby zdjąć z siebie zaplamione ubrania.",
+      "kr_sha256": "55cdb87f7e659f4432830f65d23abf43115ec13be8d4c880179d8c6c212dd815",
+      "en_sha256": "36f49c2cc3ae16a6650d3c00f297dce67dd601e4268c30dbdb556c7579f73fe3"
+    },
+    "dataList[id=106].content": {
+      "pl": "Wszyscy po prostu siedzieli na miejscach, przeżuwając ciszę.",
+      "kr_sha256": "b0d3e63a3d94991e696b298451c75d1abd75502ae0d584307ce9428a254a3f9a",
+      "en_sha256": "4258b073f2f602c6c56a3290d363f1a1e16b30c5e1c6d4ba55cba199aea1ba57"
+    },
+    "dataList[id=107].content": {
+      "pl": "Gregor, najbardziej zgnębiony z nas wszystkich, długo wpatrywał się w okno…",
+      "kr_sha256": "126d0cce2407c7b5d73a1eb25006bd04fe4850ec213d875485f62c6d45fc679e",
+      "en_sha256": "61bcef9fe84971a2380bc57ad157be0717a72b95e267f037db2edb17a6317446"
+    },
+    "dataList[id=108].content": {
+      "pl": "…aż nagle wyjął coś zza pazuchy i powiesił przy przedniej szybie.",
+      "kr_sha256": "c0b93200eb0928b965a5bbcec556a63e9c4397232c0716564aaca5345796d7d6",
+      "en_sha256": "139f0619fbf462106e80f28d7070063598c1bf424078ad64bf67b0d6f1c55847"
+    },
+    "dataList[id=109].content": {
+      "pl": "Robaczy jegomościu. Co powiesiłeś Mefiemu na głowie?",
+      "kr_sha256": "90078ce98ab0177ff238b596bcf6a74eb3b4d51951349f091a11f8f5f355f9d9",
+      "en_sha256": "54ba076afee62185448b417d3a3dead890b59981adbe8f569bd0ce3146c126e3"
+    },
+    "dataList[id=10].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=110].content": {
+      "pl": "…Pamiątkę.",
+      "kr_sha256": "9cc8af5d36c694037ce532235a5227cec06d748694ffbe3bdcfbe8ab6423d48c",
+      "en_sha256": "e06b60a94e652fa9d18f6a06deb9480164b307ed70824415c34dc0fb007a2f9b"
+    },
+    "dataList[id=111].content": {
+      "pl": "Pamiątkę po dwóch osobach.",
+      "kr_sha256": "29a006bd0a24450d401cedacc9d23c5f692bd1b67381ed7db6005d802e707419",
+      "en_sha256": "fa291a785d3b78ca946b9686a8a36405b73d6c967862f536a1641c2dda4f38bd"
+    },
+    "dataList[id=112].content": {
+      "pl": "Miałem siostrę, akurat w wieku Yuri.",
+      "kr_sha256": "bb6b76fc2abcd6d689efcb307c1c0376b53b1f31ba11f1a0e6622c879ba19285",
+      "en_sha256": "ef04b52219a3b68cafcaa11b3d2a7988dee8091f2bbcd9d6462f1135101ddb37"
+    },
+    "dataList[id=113].content": {
+      "pl": "Tak tylko… mówię.",
+      "kr_sha256": "785ab225219104f7d20202f3e018d5d98446a6c4254ba5159b14edb979b3393e",
+      "en_sha256": "f294cd42c36cd420006943829e70d53c542679099bae1813a750ff964e94b488"
+    },
+    "dataList[id=114].content": {
+      "pl": "Zastanawiałem się, co mu powiedzieć, ale szybko dałem spokój.",
+      "kr_sha256": "27b280486fdb2fd7d03f6a98a6c5b3740060cfc7663b2bf9d73e4fffd2b21e4d",
+      "en_sha256": "c1fa32bba832f7eaa2172eef460f511cb44668ca3456237701ac6fc7716f57d5"
+    },
+    "dataList[id=115].content": {
+      "pl": "Bo i Ishmael ze smutkiem na twarzy, i cicho płaczący Sinclair, i Rodion, wzdychająca z goryczą, nie odzywali się ani słowem.",
+      "kr_sha256": "bc877bcb817cbdc8a998b9b7b3da02428b2899896d6cefdc990b104fcd304bf2",
+      "en_sha256": "ee92ca0420afb62e3350c2d8c4ccb3c80261460dcc8eaccad1456151dff60696"
+    },
+    "dataList[id=116].content": {
+      "pl": "Charon, nie będzie ci to zasłaniać widoku?",
+      "kr_sha256": "95838b146004d9e91d928515b3fa066dc7a99ff2246b4be9a05de8d0750e8ccd",
+      "en_sha256": "dd3599fd645eaee89888c5495376093eff6c07f51a27e3a9038757537f524cc5"
+    },
+    "dataList[id=117].content": {
+      "pl": "Nie. Charon da radę.",
+      "kr_sha256": "a36d1b911ca5b05dbdd5c07738d3134e600ab94be0b5d65c21c2dc850ff2583f",
+      "en_sha256": "d5e61c6b8fd0a6aa81936833ba626fa49fd108d88fc32ca41b9e1dec55b3ab5f"
+    },
+    "dataList[id=118].content": {
+      "pl": "…Dobrze, ruszajmy.",
+      "kr_sha256": "ebd3541d42191ada2c9af34cd189eadec0db96c3418289d2a7e3a0b26b20870c",
+      "en_sha256": "68fa094b2c19202efb684381563bae1a7d76f7d86482fb81c347af852ff70d67"
+    },
+    "dataList[id=119].content": {
+      "pl": "Brum-brum.",
+      "kr_sha256": "47e9b911e0535f7f1bc019b1c85231cf2e226403964ed4d983182c047e9c9bc3",
+      "en_sha256": "00672ca29ec130ba60a5ecbcd241d772792fd74f6ddc8b274680cdf581c240a9"
+    },
+    "dataList[id=11].content": {
+      "pl": "<Zetnij ją, Gregor.>",
+      "kr_sha256": "71554ab01b5ea775cabe95fc90fc011643f34bcc33ea78c4d1e0f4031b17f40f",
+      "en_sha256": "7ae935e31d22798c0f7b6eed1250a704e29fe10b646bd4ff6bba5d2600388480"
+    },
+    "dataList[id=120].content": {
+      "pl": "Autobus z cichym dygotem powoli ruszył,",
+      "kr_sha256": "2d830ae0894a545173a9b0f7beec6e68da250acb05bfb6fcac3c42c5bd154583",
+      "en_sha256": "b321cd3810c71d999d0daf462f536abd72d9fd543673774f9fbd7f33e8d217b5"
+    },
+    "dataList[id=121].content": {
+      "pl": "a maska przeciwgazowa przy szybie kołysała się bezgłośnie, jak jakaś ozdoba.",
+      "kr_sha256": "552e2cbf12a7b511447c6ef5cf7f662557c42a6fcc4f0cf406db9952b11ee6f1",
+      "en_sha256": "bc9fe39cf5dcf01d75e2459d4731737f4f117803736edee5f114ff37ec7e4178"
+    },
+    "dataList[id=12].content": {
+      "pl": "Nie wiem, czy tak powinien postąpić wzorowy Kierownik.",
+      "kr_sha256": "a555e0eb3822d46c1aa4983b1ffcc0bdbdb9160a4b5198f5007434e08ab76e8c",
+      "en_sha256": "a680268f33e5122d8a10b945b016205a321f63e907c1f9b84a00130922c87f2a"
+    },
+    "dataList[id=13].content": {
+      "pl": "Nikt z nas nie chciał umierać.",
+      "kr_sha256": "54a1345c2c031d10f75647848c1ee71e5a41028b39f23e7cb6136576d8ca3b7c",
+      "en_sha256": "41107b2dce6bc766c7e3fdb14cbc22a19571f78861533f80f37f430732bd8016"
+    },
+    "dataList[id=14].content": {
+      "pl": "Ale żeby Gregor teraz się nie rozpadł, musiałem krzyknąć.",
+      "kr_sha256": "ed490f47f682ff9d79e4796390bb9125ac8eafc5b92c26f9328e4fb8de18d538",
+      "en_sha256": "7c3c3064e94828f8f175d706aeac63725dd21d88ce856818bbb7909dda9f77ea"
+    },
+    "dataList[id=15].content": {
+      "pl": "<Zetnij!>",
+      "kr_sha256": "29028322bae3bb8e637e44209705e2849f321a27b1e3b31a82d8b061bd36354b",
+      "en_sha256": "25102fe4386a22d4967ed4dbe91a6d68ab3b1214b9db5393eadef0b91f690097"
+    },
+    "dataList[id=16].content": {
+      "pl": "A-aaaaa!!!",
+      "kr_sha256": "ba8d5400db3963ecdba6bf578a026915585d55e4445b63e94ef64be7ab0ef05e",
+      "en_sha256": "00f5011f3b9844dca5c882060e940a0bdaeb66d7e7835bc58d1a8c62251e8f98"
+    },
+    "dataList[id=17].content": {
+      "pl": "Ja nie ch-chcę umierać!",
+      "kr_sha256": "fc03121618f28a29a57a1084a5ead59f7e902c72d5c6dddd54b15f202500a0eb",
+      "en_sha256": "aafffc7a22309d41eb8ca76017c1e2148e92f26c4542b585be0e889b1b5959ce"
+    },
+    "dataList[id=18].content": {
+      "pl": "T-to jest…",
+      "kr_sha256": "b1715b25dd5a50b546a5f4bd41c367e25e80a35f5565165b408a5a3f9ba70cc4",
+      "en_sha256": "921318da3090b39e3fde1e28c5a2b0ded58881af2e3383ed1166c3171900925c"
+    },
+    "dataList[id=19].content": {
+      "pl": "Robacza ręka zatrzymała się tuż przed gardłem cywilki.",
+      "kr_sha256": "ad4dd26cfced64ddf917fcc77ebf79cc3061e401dd21e398815901b5d0266233",
+      "en_sha256": "c73e1a68c4042f87afe1e30e978b9372d60bbd1b37e58041b668c3af8ad72fb0"
+    },
+    "dataList[id=1].content": {
+      "pl": "Tymczasem Yuri, odkąd ją poznaliśmy, zawsze chodziła przygarbiona.",
+      "kr_sha256": "0ac03404f095300d5a76286e2e7ad88edbadfb81b38942d500facf5bc10b7510",
+      "en_sha256": "d685ca0dfd157476370908fad1e9bf1f72361c9cd0a3b5cb04fe795b2ed5186d"
+    },
+    "dataList[id=20].content": {
+      "pl": "Gregor szarpnął z całej siły, ale ręka ani drgnie.",
+      "kr_sha256": "790091e3ab6ac9cf6f8874aa9e466a175736761309d1680d7e91b570ae1a86ef",
+      "en_sha256": "e507b156321be2933131c975a33187a28d6d5cc19c235ae50c82b1b413510251"
+    },
+    "dataList[id=21].content": {
+      "pl": "P-proszę, niech mnie pan oszczędzi… Oddam wszystkie pieniądze, jakie mam.",
+      "kr_sha256": "faa9efd8a63a320e970b3f16b8469cee17aee0f1bea7b5d840e9ef711b4a9bfc",
+      "en_sha256": "4e8d65cb643bc893a49670b370a194f715cbc1aa602b91faeb15d8eb1c79afe6"
+    },
+    "dataList[id=22].content": {
+      "pl": "Puść tę kobietę! Albo odpowiem siłą!",
+      "kr_sha256": "4be8f37038591a8db7c60178ff14897bd86ba48122f3b145a41ca7171cac2b6e",
+      "en_sha256": "aa8c43d45ec31e7d8e8728766a29ab7d832f204bf6692910f34809d4080eb11d"
+    },
+    "dataList[id=23].content": {
+      "pl": "Moja ręka… Odetnijcie mi rękę! Szybko!",
+      "kr_sha256": "7e20fa00b560a7de36498917a4d893defc6835df18c88136cb4c817dfe4df43d",
+      "en_sha256": "606160f500fa569edb422fd300594c57756579ba5bcb0ca929063e810efb66d5"
+    },
+    "dataList[id=24].content": {
+      "pl": "Powtarzam. Jeśli jej nie puścisz…",
+      "kr_sha256": "225dc3f8ffaf19ebf9216f9851e19d8212edb67961c6ca265b63a3566805de50",
+      "en_sha256": "37a25257c63103b7cebc5f2c984351d2eaa60c335e6bf57b5a40fd94b3bed7d0"
+    },
+    "dataList[id=25].content": {
+      "pl": "Tnijcie, mówię!",
+      "kr_sha256": "733d80d137dc83950d6287a7ae3ed4d9330f758c498266a54190837a7953e5e2",
+      "en_sha256": "752698fe86430fe8985c731dff60d201a7bb28871a9ee3eed65c505ec22de296"
+    },
+    "dataList[id=26].content": {
+      "pl": "Kiedy odcięta ręka spada na ziemię, cywilka, dysząc, osuwa się po ścianie.",
+      "kr_sha256": "581782147325b5dd2f1616719eefb968b3646ff4a7d6f70d69567bf6088ca20c",
+      "en_sha256": "14d3ee01b058e05cfd90ae377b2c48b2f449cb7ce92bff40e4e7fd7a3d17a3a0"
+    },
+    "dataList[id=27].content": {
+      "pl": "Ale z drgającego kikuta zaczyna odrastać nowa ręka.",
+      "kr_sha256": "1d3c26071125344636226742840c30ea4ea1e15193d7f811582b7f8fd3655978",
+      "en_sha256": "829fc675673d91e3516d5874956999e64164abf4414ab94cfe080039e99fe47a"
+    },
+    "dataList[id=28].content": {
+      "pl": "Nic panu nie jest?",
+      "kr_sha256": "83cd00f6e1e3dbc0da9abe946d5f1f0ff5a64e97122131059e9814979996df22",
+      "en_sha256": "1b885460bee7cb32c27f509b9f979aa3ddfcd457d291a0bf19b1ea6ca0631baa"
+    },
+    "dataList[id=29].content": {
+      "pl": "N-nie podchodzić! Nie wolno podchodzić!",
+      "kr_sha256": "6d6369611e57569ea71989b6c4f8c8a917b10b3ba49386ce7d3af8ec1ea872d7",
+      "en_sha256": "9c781ced50a384cffd33a7ae7727e74d70c8da3ab638a13f3e9300041f1b9f6c"
+    },
+    "dataList[id=2].content": {
+      "pl": "Jakby obowiązkiem ocalałej było dźwigać jeszcze ciężar zmarłych kolegów.",
+      "kr_sha256": "12caab36bb031b795ee76425239d761c06c03ad350d92e3c00fb5dc83824cb82",
+      "en_sha256": "255d758390997071e36554e362a97364981cbbe5639e753eb878ed31163e22da"
+    },
+    "dataList[id=30].content": {
+      "pl": "Odrośnięta ręka znów zaciekle wystrzeliwuje naprzód, jakby nie zamierzała zapomnieć poprzedniego bólu.",
+      "kr_sha256": "666f64b0abe2693953a6e2b85b658e59865953ade06dcee63d5c3cfddeaf5b81",
+      "en_sha256": "aa2d47181db0c398f11f976fe155d6ddf3a16936f76131cc39ac0f4211ae0574"
+    },
+    "dataList[id=31].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=32].content": {
+      "pl": "Panie kierowniku Gregor, zawsze pana podziwiałem!",
+      "kr_sha256": "429bbf13a05e75903d8e483c2f11954a01b912c67ede7518f1a80883d5a6fe7c",
+      "en_sha256": "c4fba3a947000c370b6fed661be2b9058a580ecc64b248ab12d6af2893c13899"
+    },
+    "dataList[id=33].content": {
+      "pl": "Nie podziwiaj mnie… Ja nawet nie poszedłem na wojnę z własnej woli…",
+      "kr_sha256": "19deb1628d234eba1455a28ff869d45c697abbdcecbdeaa0d9f3c545b957162f",
+      "en_sha256": "84e8dd5f1cd2ee887346f2e078acb6e5051baf5fd9a30e90e993d5e79569890a"
+    },
+    "dataList[id=34].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=35].content": {
+      "pl": "To co niby miałam zrobić? To grzech, że przeżyłam?",
+      "kr_sha256": "d3d1250d50c325b988fbe5a23b0408abfe4176d97e1537c4e87973233da18bb7",
+      "en_sha256": "d0de41d1492173f2ec890a20582052b9cab0845276ac1a95fa2bdfeac48a3b5b"
+    },
+    "dataList[id=36].content": {
+      "pl": "Po prostu żyj, proszę… Przecież nikt z nas nie wpadł w tę tragedię z własnej woli.",
+      "kr_sha256": "06d13f931c51499a54db1aef1473e5ead097692e5b1551f38ee8cdce08d5ed44",
+      "en_sha256": "0b4192e282779a30c02d08a661b8beb665cec73e1a3c11dd3e214723b7218454"
+    },
+    "dataList[id=37].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=38].content": {
+      "pl": "Zatrzymać się na samym końcu, z owocem w zasięgu ręki. Doprawdy godne pożałowania.",
+      "kr_sha256": "9f1d073a23ba7d752c36388f5cbabd0864bc5ddd085ea05b15c79f7a9d41d456",
+      "en_sha256": "7383e136a79e0816c4c08b2873e2744d6c655f11bc26876e5b5797fda1171ab0"
+    },
+    "dataList[id=39].content": {
+      "pl": "No, nam to na rękę. Okazja, po którą nikt nie sięgnął, po prostu przepada.",
+      "kr_sha256": "4d58afc76ebadc1a739de500b1c3cf239b402f7d78acd2895a0e3a349b68630e",
+      "en_sha256": "fbca509ee35309c6113d9a57f33a86d6adc96d7a49203c3190c7646279b87e45"
+    },
+    "dataList[id=3].content": {
+      "pl": "Dlatego mogę mu to powiedzieć.",
+      "kr_sha256": "28d592f81237eba3f668a97dc9f216d3a1e6054aacd445bdae5c3386233a5deb",
+      "en_sha256": "be8749d899e622ff7f559e54d46d293d13e201fd6171e6aca2f9c30e36330df1"
+    },
+    "dataList[id=40].content": {
+      "pl": "Głowa Yuri spadła na ziemię.",
+      "kr_sha256": "30eefb5026a908afa414bf50de156f679070780370369fbca473d03e83ddc3d8",
+      "en_sha256": "0c2263ebf938fb6528444779f474067ab308d91a45cfd3a72a8da3909c797f2d"
+    },
+    "dataList[id=41].content": {
+      "pl": "To nie Gregor ją ściął.",
+      "kr_sha256": "696c65b1157a848f6a0c1546a647e9130b071e2e51fcd1cb320c613db0723840",
+      "en_sha256": "8dba93765325075c7f603cd87b4eddcbda8ec9e1c18a1e5a563aeeb5b1886897"
+    },
+    "dataList[id=42].content": {
+      "pl": "Uch… a…",
+      "kr_sha256": "cb5c3bd26d2751ac415b931fedc028caa952d3e1b1b188c944a156cb1a82ca4c",
+      "en_sha256": "c687f2d176928b56062331a529bfccde97d05a66246aca29f88e12de4da343bd"
+    },
+    "dataList[id=43].content": {
+      "pl": "Usta Yuri otwierają się i z trudem coś wypluwają.",
+      "kr_sha256": "73f48103142d6eff56e745247c4825de6a4f58798927c4aafc73b88470219b09",
+      "en_sha256": "68fd84b3aa227416e16b42cf315111fa01461ff7e3db017701a1ba7574bac102"
+    },
+    "dataList[id=44].content": {
+      "pl": "Była to jasno lśniąca złota gałązka.",
+      "kr_sha256": "93ea31086cd8d50141c43247c3df2b3dbaf1dc37b5db241f50980aa2f7ce35c1",
+      "en_sha256": "8ac58ef19ec8f46306f2fd2468548da3ce227d2537e6439ccbfa5618008a497a"
+    },
+    "dataList[id=45].content": {
+      "pl": "Szukaliście Gałęzi?",
+      "kr_sha256": "064f94dcfe36bf917195072e46b79ad30fe94bc2b7549ebd195ec2becb6c2cd9",
+      "en_sha256": "df3140e693c84361f02cb4e3b1d4e36dd68e9abb6594a0cd859dd83261f23e82"
+    },
+    "dataList[id=46].content": {
+      "pl": "Ty…",
+      "kr_sha256": "e7a4dd1f9c66f5688da0b144e48e31a72eee7fb66097309228bb347332e1bc28",
+      "en_sha256": "14f72cf6bd7baf104d35dbf802270fcc2760db9cc85767900bdc11fbf261a037"
+    },
+    "dataList[id=47].content": {
+      "pl": "Trochę mniejsza, niż można by sądzić. Prawda?",
+      "kr_sha256": "1dee566559abc01ea84397a70160fb811d1c9b9c9907fbffccde5093ba680ab2",
+      "en_sha256": "296d5cfe126c3fcfa892cad7e7d5acc6124316b37c93f063f809f876fe3fa18f"
+    },
+    "dataList[id=48].content": {
+      "pl": "Jestem Hermann. Będziemy się często widywać. Bo widzicie…",
+      "kr_sha256": "38d3f8c9a6dbcdd02ee729b5c2fe9e5eaab968b6cf6fc18c964af1db3d6e74b7",
+      "en_sha256": "13ee8495643f85a2ff3c39ff1c641cecae419358ecac1c67ebfd907e822fe826"
+    },
+    "dataList[id=49].content": {
+      "pl": "My… potrzebujemy Gałęzi, a wy… potraficie je znajdować.",
+      "kr_sha256": "a67eb29877f3c7f69d4af9a7e1cd01bad37c04c5dd057bbac5b348c8bded4fe5",
+      "en_sha256": "fe9e88ff7ae0786d81a05ab385ecb69d248eeda86c692110d6ab0637ea2457e9"
+    },
+    "dataList[id=4].content": {
+      "pl": "<To nie Yuri, Gregor.>",
+      "kr_sha256": "5709b3fbd21283e1b2bbe03102fb71995ffbb96cf08084b7d500a31075049d86",
+      "en_sha256": "c51355742ea474065e651b74dfdf93b1305cc3bf49a7d38423b664a24b335435"
+    },
+    "dataList[id=50].content": {
+      "pl": "Wy… nie umieracie, ale my… będziemy was zabijać.",
+      "kr_sha256": "2f0e6791d7086d5ddb1dfcccafec61bcb4898c786ef562f87285ba2cb41634f7",
+      "en_sha256": "9ea60e633f2c803dce9a951e9fe9fada7920e92233e324cf69d681cdd3410cf3"
+    },
+    "dataList[id=51].content": {
+      "pl": "Hermann trąca stopą głowę Yuri leżącą na ziemi.",
+      "kr_sha256": "7451d05bd7b233f25a64889983594ee49a664193e3458d65e211e2a92a190817",
+      "en_sha256": "2943f929aaceeb7ffc2a93e8b921a002246e66981dd4c3ab3c4b22249eb8d15c"
+    },
+    "dataList[id=52].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=53].content": {
+      "pl": "Oczywiście nie teraz.",
+      "kr_sha256": "6df4d751986ffd563bd48c06ae615684063e3d02873bf278ea826b6f0fad1d7b",
+      "en_sha256": "0ae33c70858fcbcb8d6f7887ff575b7b29c064fa09baf3be1c91113e0f0eb6b7"
+    },
+    "dataList[id=54].content": {
+      "pl": "Złotą Gałąź bezpiecznie zabierzemy sami.",
+      "kr_sha256": "2e0e7afba6bd3fd7fce03503d1f555beb8aba30671654e23cbf1b8a1def873e7",
+      "en_sha256": "a8fa918bbdb59c37e4fd04e1f9e8f74e079a67d5f7b1a0ec498802253444c6a0"
+    },
+    "dataList[id=55].content": {
+      "pl": "Gubo… przyjacielu mój. Taką drogę wybrałeś?",
+      "kr_sha256": "443d66e433e96400fe7868f2b35749348339260c6faa90da43e3b66a923c27e2",
+      "en_sha256": "0fd9f6eaa1a6f051b18ae96aed3af2bba3a81cac3a9fbfbfda68348eb0ba91df"
+    },
+    "dataList[id=56].content": {
+      "pl": "Tak. Niewiele ich już zostało.",
+      "kr_sha256": "e2ba5d70e1e1f5345427983e544bb8f16ee8d2e0ca5ec4ef9e3007afcffdb09f",
+      "en_sha256": "9b8604daff6d15ebef856413b45d929805e9e6320f1cc79af7372c373466ac0c"
+    },
+    "dataList[id=57].content": {
+      "pl": "…Dawno się nie widzieliśmy, bracie.",
+      "kr_sha256": "439072dd38410d9f714e259e4d7b803abac59e670e86612c27b2d9707d2e0cf0",
+      "en_sha256": "7af5b375dee592cc8cf1eee4eadeb404aa12dc4c38d10e009e18c9720bb05490"
+    },
+    "dataList[id=58].content": {
+      "pl": "Wiesz, że twoje ubranie śmierdzi? Szkoda, że rodzina nie widzi cię w tym stanie.",
+      "kr_sha256": "12a2fbf31b0aa8bc8fa9429312f7935e4e9501d55d98883f10ae5d42de3248e0",
+      "en_sha256": "181c0cf2ccaf495339b6a7883c510ec7c6dabc934a130293eee04295ad90bb41"
+    },
+    "dataList[id=59].content": {
+      "pl": "Istny zjazd po latach.",
+      "kr_sha256": "03dd67f47bd5693299d9c28c39442357117bf00b5457ab6a410e3f76880aa428",
+      "en_sha256": "2057059d0a8762635e41575e74b143898b5de09dd13b27a6df85e79b03805320"
+    },
+    "dataList[id=5].content": {
+      "pl": "…Tak. Też tak myślę.",
+      "kr_sha256": "f012545488e7a323b9a841f1f3d3d81a9a3d0fb540a8484c7f7f8f8bd00bd1a5",
+      "en_sha256": "96c813b9fac2387150a130bd177bf9db6461db8fafa3ab556b6027fee0468c1c"
+    },
+    "dataList[id=60].content": {
+      "pl": "Dbasz o mój prezent, synu?",
+      "kr_sha256": "622a889f54043d7ee60323fd515875ad5e0e5c414c8363cdd893dc899df54bcd",
+      "en_sha256": "26d33cfd89fc848da47246fa5eecfc2d1d435f7556793588f21c0b724b3fa8fe"
+    },
+    "dataList[id=61].content": {
+      "pl": "Nie dałam ci go po to, żebyś skończył w takim stanie.",
+      "kr_sha256": "c396990c08d0bdec577402d6363c1d04c94d2df9cd917555f37df1af24b12782",
+      "en_sha256": "b5184b554074ecc3ed99f982e8cd84aefa2dac01b2fa9593e9de019f40752500"
+    },
+    "dataList[id=62].content": {
+      "pl": "Nigdy… o to nie prosiłem… ani razu…",
+      "kr_sha256": "f3501b466243f0f884a54d1a9fc67d14151c1adb784e9165b6aa29ab1d95aa00",
+      "en_sha256": "7e13890280178b1027f5fa587407edaa5bf3344debdc19b220216501505510f0"
+    },
+    "dataList[id=63].content": {
+      "pl": "Ale opakowanie wypadałoby zerwać do końca.",
+      "kr_sha256": "3aea9b157b5b7f1ca271a32eca5ea5b6d03c2f8b99794093bda25207676a8d90",
+      "en_sha256": "8e616b4335031ecdff9ce1345d9e9ef5f3f866303029405ff874a0ccc6c920ea"
+    },
+    "dataList[id=64].content": {
+      "pl": "Ta zdolność to wcale nie wszystko, co ci dałam.",
+      "kr_sha256": "87e83d3dcd60d57b41ba9f0fa8816504ea3603fb273b296ca89d3d9931d1636c",
+      "en_sha256": "4ef339c0d706b151f2e07833da921631b56ef913064c9a06d0a98b0918078e39"
+    },
+    "dataList[id=65].content": {
+      "pl": "No, dość tych powitań.",
+      "kr_sha256": "d653c7b38442492fdac3750406a0a3611b6e8f71a91a7a2f18ffee4ae8b3486f",
+      "en_sha256": "b103754c7f89ecf006325949805a9e50b885f8037852d9548db14c6ca84846ad"
+    },
+    "dataList[id=66].content": {
+      "pl": "Ten, którego nazywali Jia Huanem, klasnął dwa razy.",
+      "kr_sha256": "21d0f0d74a3d82d75d02d1445cad2c1c338fb271ce062ab358d631b064742f41",
+      "en_sha256": "6241295c8f35999c08e12c3bdf2f4d8763eb588685226a765b6ca0f229cf18c6"
+    },
+    "dataList[id=67].content": {
+      "pl": "I przed oczami zapadła czerń.",
+      "kr_sha256": "2d26635d2911d30c917e3dd30b9a4f4cbb6e8b4806c127487e245dd8467aa61e",
+      "en_sha256": "5dcd3beb7d4abb6ba3c847859be327c72abec78437e097c320868c499031ec6a"
+    },
+    "dataList[id=68].content": {
+      "pl": "Jak po długim…",
+      "kr_sha256": "ff18389136edc57e1f634c5059c1c9b5b4848233242b4e4c6a56cfab1180cb9e",
+      "en_sha256": "ef0ec8483f3d5b245fa2a02e21e8ba12383d11abeb4f6412527d46ac20bb30e8"
+    },
+    "dataList[id=69].content": {
+      "pl": "koszmarze, kiedy budzisz się o świcie.",
+      "kr_sha256": "3d242f5730fcd1cd02992a965f41d1232de7383151340704c9ef48fb7000634f",
+      "en_sha256": "284095d92e8dbcc7a2ed0b2b453499da1205a29c799cacc8ac77e957561c62ea"
+    },
+    "dataList[id=6].content": {
+      "pl": "Gregor spokojnie przytakuje.",
+      "kr_sha256": "caee4d6040ecb86eebd5d3ae53f65ff67ae750b0a9700e4adb82ff43762ba632",
+      "en_sha256": "f636ab9f5eb9efc73bfa837cc85233f36105f5a00c34e59ba4eb1c2db1b0f2c1"
+    },
+    "dataList[id=70].content": {
+      "pl": "Po jakimś czasie…",
+      "kr_sha256": "8b895c352d3e50f1e6caf05ef1a22c52753efb9a9d0435ecc1185003cf978490",
+      "en_sha256": "ed4b2f0809ca0a8835443a5657125c042834ed21668cd079e74482988b895f92"
+    },
+    "dataList[id=71].content": {
+      "pl": "A myślałem, że to łatwa misja.",
+      "kr_sha256": "9a63806f6321338030bf5f9a3bc44e46f33e4cc00f0cd3969ea98e48643afee8",
+      "en_sha256": "98214d1fab0ae7267700c06c335d77fde377fa97d2a747dec5dd6f54a34ae78e"
+    },
+    "dataList[id=72].content": {
+      "pl": "Daliście sobie odebrać Złotą Gałąź sprzed nosa i jeszcze wracacie z podniesionym czołem.",
+      "kr_sha256": "2c5d9043ed0bccc4d7103650c2ce3befdd9d4c5cd6c152a1ecc9d69c0d4b0b0e",
+      "en_sha256": "59059d6decf8c78a185a76b70d40f6c098973508b520af58fc2de4da2617fd70"
+    },
+    "dataList[id=73].content": {
+      "pl": "Przeceniłem was?",
+      "kr_sha256": "e7de6570365bab9c17fb3f3a0b0d35f0a9f7ea65154134edde529f7bcb5d4a6a",
+      "en_sha256": "3c0995922ba9208de5166f35f6b283e1b88e69e0751f1c65a7f695a81588f51b"
+    },
+    "dataList[id=74].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "56d6f745e008c0e3b5a72e6a9fca9cbc4a7fecc66c1677a2eb2f902e7d38604f"
+    },
+    "dataList[id=75].content": {
+      "pl": "Pani Faust, może spróbuje się pani chociaż wytłumaczyć?",
+      "kr_sha256": "b54e0278a3742f31d10cd0cbd6567790242d077eeae82d503ffde7c879ed98b5",
+      "en_sha256": "c19a92cb2c8f37f957610865935f0a7efa051d6e1a370e5cc6755c7d09dbab09"
+    },
+    "dataList[id=76].content": {
+      "pl": "Jak się okazuje, nieśmiertelność nie jest odpowiedzią na wszystko.",
+      "kr_sha256": "6f6d2018a69fed544b505b3093bb26b44f1940e966d999f58b67aa850ea5a599",
+      "en_sha256": "4fcd9db4ce4c1b0ca9238efcdcfe93277dfa7f683e45b4a34ad9a1966278e063"
+    },
+    "dataList[id=77].content": {
+      "pl": "…Hm.",
+      "kr_sha256": "4a84c9fe2e40f71e6cad578d0e0bfb127bef481867f801c53e9207e784a3a314",
+      "en_sha256": "05281b9ae0681ea0f776cc3c8db50c3a4221adaefef956cb385440cad8dcf657"
+    },
+    "dataList[id=78].content": {
+      "pl": "A pan nie ma nic do powiedzenia, Dante?",
+      "kr_sha256": "8df2447f165faa75f088897687a3409092080e6693d215193a2de534d11d331b",
+      "en_sha256": "a4d833f36ac84b5a37480987a119a2dec6bd7d52fc718bcb0caf0f5e8ded334e"
+    },
+    "dataList[id=79].content": {
+      "pl": "<Była tam inna grupa, która poluje na Złote Gałęzie.>",
+      "kr_sha256": "f1b36d483e455e82ee47255edff6b90e96ca1b85a3bb10e4ddfe27b6ec89862c",
+      "en_sha256": "4aaa3082067e69c429b76b1b93dc0955615866588b76783dccd97ab47736039e"
+    },
+    "dataList[id=7].content": {
+      "pl": "Zaraz potem jego ręka wydłuża się i rzuca w stronę Yuri.",
+      "kr_sha256": "2684499eca82e4d535eee998384256a8f6e7b05f6781fa21e968fc024338fe9c",
+      "en_sha256": "fc8860976214ac7c017e1fe87e445581826be6c7171f57b6968764f2c62b7353"
+    },
+    "dataList[id=80].content": {
+      "pl": "<Chyba o tym wiedziałeś. Czemu nic nie powiedziałeś?>",
+      "kr_sha256": "502b5cc747465e76c8a57fce2993d1eebedfccdccf73b9e4716b97fe514bb710",
+      "en_sha256": "1ae890fa5aeb9062edbf642e6d5f99f2f66d2a44d2aa9178b1d5ff54ad56d081"
+    },
+    "dataList[id=81].content": {
+      "pl": "Pyta o tę drugą grupę, która przyszła po Złotą Gałąź.",
+      "kr_sha256": "21f9c8db1d2236fa5eade59c4db9955959c091ce1928ae3487b371a691a97af3",
+      "en_sha256": "4cfc3cb7f05a7fffe31e6aa9903206eb22861a41763a64127817e35d89b46e96"
+    },
+    "dataList[id=82].content": {
+      "pl": "Faust ze spokojem przekazała moje słowa Vergiliusowi.",
+      "kr_sha256": "4e74d0dae7c8c9161e1128abcdf05c3929033871eba7039844e5cb59c54ac1f8",
+      "en_sha256": "033aa068da6d1c850a53a5728c2c1268bb5e3af2604a2059f9f538f211f2f9d8"
+    },
+    "dataList[id=83].content": {
+      "pl": "…Czyżby obarczał mnie pan odpowiedzialnością?",
+      "kr_sha256": "7dee28234c782229f7c2f40bc16738c4241e375f1d983b60e5c7630e3126d159",
+      "en_sha256": "2b09f69f7a49481deea81a7a79d75a684d1dc87e4ec6647449ee113e86f8b56b"
+    },
+    "dataList[id=84].content": {
+      "pl": "To ja zapytam, Dante. Po co wysyłać aż dwanaście osób tam, gdzie nic nie grozi?",
+      "kr_sha256": "a69bd058296dc0035ca36df50f0ebb96404406b7076e2eed78e89340ef772908",
+      "en_sha256": "a65f5e66c1f3dfe6c7305aeac8d009b64abe82ec5c5349cdd8c298d192338ead"
+    },
+    "dataList[id=85].content": {
+      "pl": "I to jeszcze wynajmując dodatkowo Fikserów.",
+      "kr_sha256": "2e6b8caf7f21011dd4bbc6fa94b99684c10e6d5f40f9cf987946172c03f940da",
+      "en_sha256": "6f76364b4223d51ba364cb0c5b8ee880b6b819da706d063c7c49f3bbdcbb3f25"
+    },
+    "dataList[id=86].content": {
+      "pl": "<To…>",
+      "kr_sha256": "850ad13bc06926e91b3499e0e5060381ad43c65b2d3c81250809db12ef91f915",
+      "en_sha256": "0cf670836a3704617f9e9dadd30ca57d34f9c87e3e19bb1922f8ffd7a0398c07"
+    },
+    "dataList[id=87].content": {
+      "pl": "Daj spokój, szefie.",
+      "kr_sha256": "0835aa43391ca42f884c1cd2ecf0f9d5eb87538286e3428b060ada3af154b304",
+      "en_sha256": "a23078e7507e38d0adde28bba3e6ed322df5dd1413ee42b5c783b5a8f3adb677"
+    },
+    "dataList[id=88].content": {
+      "pl": "To moja wina. Jak już chcesz kogoś zbesztać, to mnie…",
+      "kr_sha256": "7e8233029083abff257ec8ae599146b3accd4ec2bc3639fe33d20623663cff13",
+      "en_sha256": "9de3bf9cc26762a73ec8ba44c9507da47580e3985bcd8e76f4d1bbc76ba958ce"
+    },
+    "dataList[id=89].content": {
+      "pl": "Wspaniale.",
+      "kr_sha256": "1d4ec7a876d09bbe7bb9058121ed8ff00b7acfd088fef0055b7023211b53cb46",
+      "en_sha256": "8a3a8b4c55519392767697e89a847ba8631a517f0cc8234d10ada06e35c2e881"
+    },
+    "dataList[id=8].content": {
+      "pl": "Ale po chwili zamiera.",
+      "kr_sha256": "3848fd234e871810322f1698ca127a4ad42a95f641649796548ee998dcd1dc8f",
+      "en_sha256": "67c95eb796f9a56a161346a1d3ebcb81e9502112ad9115a814e602d3168f216f"
+    },
+    "dataList[id=90].content": {
+      "pl": "Ledwie się poznaliście, a już czuć od was braterstwo broni.",
+      "kr_sha256": "a44fc172a9b9c7c9b2b384f03524f53992bcdc517fd0dce9fe4e6368bae07ccf",
+      "en_sha256": "701e54646eeb570cba70da44f4ef10dee2cef6bc092ad141b68f49fce91579bb"
+    },
+    "dataList[id=91].content": {
+      "pl": "Cóż, nie twierdzę, że to źle, kiedy ci, którzy jadą na jednym wózku, osłaniają się nawzajem…",
+      "kr_sha256": "06c3b0787d0eca1a40d3d684f58977b4a795acdfd0e95e15434650e2c8baf8c4",
+      "en_sha256": "2fec9055344f8c28e1597e40c601184420631ef6824522781fb338e608ddc4ed"
+    },
+    "dataList[id=92].content": {
+      "pl": "…ale nie łudźcie się, że krycie cudzych wpadek przesłoni wasz brak kompetencji.",
+      "kr_sha256": "439b1ef5c862428bfa8a8f3188eb278dacdbf59fe3019a32ce18b8321b6a3da2",
+      "en_sha256": "53dee9ffe547ad236befb08023792dce426f5a4ec6a09ee734988d9c1d231700"
+    },
+    "dataList[id=93].content": {
+      "pl": "…Przyszła wiadomość. Sekcja Operacji Specjalnych 4 zespołu After weszła pod ziemię. Przystępują do operacji.",
+      "kr_sha256": "e2a059cac5133c570c2a4d3b9be5cb36d5c86c23532415a4613548a668241d4a",
+      "en_sha256": "c97af0649aae621f81e5abb0ce740e09999c412f8dcd420809908cad945d34df"
+    },
+    "dataList[id=94].content": {
+      "pl": "Tak, tak trzeba. Niech odzyskają chociaż to, co zostało z E.G.O i Anomalii.",
+      "kr_sha256": "c0b4fe267aaba0b780ca5fcdc4d47213a7f1d841e72499123e83c37a4554ce3f",
+      "en_sha256": "5619e4aa93c77d01bebc47492fb8a182a6874efed1e4a3b2e7b18ac37ee12ffb"
+    },
+    "dataList[id=95].content": {
+      "pl": "…Choć to, co najważniejsze, esencję, straciliśmy.",
+      "kr_sha256": "73b362de805deb6fce1b597ae68429299c505564f4f8e9acf64038e5e174e790",
+      "en_sha256": "1e77793adb01142f27c7be7f3b6a626a2f1d4227dabbe5651deeb7065dc0e2e9"
+    },
+    "dataList[id=96].content": {
+      "pl": "Pamiętliwy jesteś.",
+      "kr_sha256": "b29c183a709e27e33fa10e5b1f5d2fa4e7bad7d6529f7c9b881a0fd45b828f60",
+      "en_sha256": "bb8292e661fd243ef4be914f2a6f296ebcd67a5a97266ecfcac7a1cabd36ef9a"
+    },
+    "dataList[id=97].content": {
+      "pl": "Na polu bitwy porażki to rzecz normalna. Jeśli celu nie osiągnięto, opracowuje się nowy plan i rusza ponownie.",
+      "kr_sha256": "12927974b112e598a00da2a74decfbc22192a39b61c3a2c07ab0b9eee3669e8b",
+      "en_sha256": "d46f3b0b7c953233dcb289cf905c0eccdeee6ba2d10ff406481d7738b5af5c2e"
+    },
+    "dataList[id=98].content": {
+      "pl": "Czy to nie za wiele oczekiwać po pierwszej operacji? Jak na pierwsze dowodzenie Kierownik osiągnął wyniki, w które trudno uwierzyć.",
+      "kr_sha256": "8aa5175735575fecdf2719c1036f990f97c6be3480cd0c4291ef0978120523bc",
+      "en_sha256": "1ae9fafcb331bcb737154a9599effb6247957b16a52e6d87186dec6b811c5d29"
+    },
+    "dataList[id=99].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404"
+    },
+    "dataList[id=9].content": {
+      "pl": "Nie chciałam umierać.",
+      "kr_sha256": "d3e4be582d27debeb50fce2bfde125cac9f17d4c372f9743fa88dbdfc34dbc13",
+      "en_sha256": "d50c91c629f0db3240db1c2022b2e47aa19381220358abfbee0f3affc2ac4c98"
+    }
+  }
+}

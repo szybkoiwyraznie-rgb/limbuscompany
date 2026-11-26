@@ -444,17 +444,27 @@ def build_lang_pack(
                         if g_hit:
                             updates[f_addr] = g_hit["pl"]
 
-            # 3. Story model glossary fallback on ScenarioModelCodes-AutoCreated.json
-            if logical_file == "ScenarioModelCodes-AutoCreated.json" and story_gl.get("model"):
+            # 3. Story model/title glossary fallback on ScenarioModelCodes-AutoCreated.json
+            if logical_file == "ScenarioModelCodes-AutoCreated.json" and any(
+                story_gl.get(k) for k in ("model", "teller", "title")
+            ):
                 for addr, base_val in base_leaves.items():
-                    if addr in updates or field_name(addr) != "name":
+                    if addr in updates or not base_val.strip():
                         continue
-                    kr_name = clean(kr_leaves.get(addr, ""))
-                    en_name = clean(base_val)
-                    g_key = kr_name or (f"{en_name} (tylko EN)" if en_name else "")
-                    g_hit = story_gl["model"].get(g_key)
-                    if g_hit:
-                        updates[addr] = g_hit["pl"]
+                    fname = field_name(addr)
+                    kr_v = clean(kr_leaves.get(addr, ""))
+                    en_v = clean(base_val)
+                    g_key = kr_v or (f"{en_v} (tylko EN)" if en_v else "")
+                    if fname == "name":
+                        g_hit = story_gl.get("model", {}).get(g_key) or story_gl.get(
+                            "teller", {}
+                        ).get(g_key)
+                        if g_hit and g_hit.get("en_sha256") == sha256_text(en_v):
+                            updates[addr] = g_hit["pl"]
+                    elif fname == "nickName" and story_gl.get("title"):
+                        g_hit = story_gl["title"].get(g_key)
+                        if g_hit and g_hit.get("en_sha256") == sha256_text(en_v):
+                            updates[addr] = g_hit["pl"]
 
             # 4. View speaker glossaries (RPGSystem/*.speaker, AbDlg*.teller)
             if logical_file.startswith("RPGSystem/") and view_gl.get("rpg_speaker"):

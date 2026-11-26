@@ -1,0 +1,84 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Wróg na wprost! 100 m!",
+      "kr_sha256": "1bc087c1ed1b3fd958ec2bb03fc5f2e6ed6b08dec392f872de7fa15603183ff7",
+      "en_sha256": "1801344d019cc3cb3bd377c13da3bb5520b786d30296eebc9db2f4ee9440f794"
+    },
+    "dataList[id=10].content": {
+      "pl": "…Pani Ishmael!",
+      "kr_sha256": "30ad32dbb3a56514e4568838cfe5e79db71f8fc7175dca88540c1336bcf9d7f9",
+      "en_sha256": "be7b1b71616233ef2c4331fb1bdcfba60380972b81bdc7739817b4be41d91e15"
+    },
+    "dataList[id=11].content": {
+      "pl": "Dziecko uniosło wielką tarczę i przeszyło wroga niewzruszonym spojrzeniem,",
+      "kr_sha256": "f67261aa9086efca9a44fb4a2470ba788e5503cff5fc642b7855cc4295641e5a",
+      "en_sha256": "0f3306982032db6dc0dc733620a1ae1ccd07ee9dcd996c40b32a60a75ac6989b"
+    },
+    "dataList[id=12].content": {
+      "pl": "Tu Ishmael, dołączam w strefie operacyjnej BA21. Pomogę wytępić Szczury. Bez odbioru.",
+      "kr_sha256": "005ca2287dd424be4cf9b738a2e8c6eb81cfe35a5c3d40f37fd8a87c3edd3516",
+      "en_sha256": "4db29b85640c4a76696e2be1e0aa09ac441d3a37dd7572d038a724fd08971d55"
+    },
+    "dataList[id=13].content": {
+      "pl": "…a z lufy trysnęły błyski niczym zbawcze światło.",
+      "kr_sha256": "c7f4e0e8a3a8460b23c9847e946ec706309ccf992c42678117cf066c5f390066",
+      "en_sha256": "0a42b62463931c39df9cfb2e2685be135f22f52dfcbfb1b4b17ec028a62a876d"
+    },
+    "dataList[id=14].content": {
+      "pl": "A… i mamy za sobą gigantyczne źródło pieniędzy, więc proszę mi więcej nie wyskakiwać z idiotycznymi pomysłami oszczędzania amunicji w LCC.",
+      "kr_sha256": "a2f0b6ad008b7779c0866fdc030abdf7a5f35d05f2325038c742f7225f0e9ffc",
+      "en_sha256": "f4f3b1db70fd58a938893c2b1106cdeacabb38c91cf25f41aa482b2aebd6173c"
+    },
+    "dataList[id=15].content": {
+      "pl": "…Posypała się też zjadliwa reprymenda.",
+      "kr_sha256": "d5103bcf0e1e97b6ea86e487c022f5a2b819fb21030e72a385647dd37a8da5c0",
+      "en_sha256": "6b630a23ef5a71defaa498b3b254bc0701a4790e58fc14776151b477e75fc3e0"
+    },
+    "dataList[id=1].content": {
+      "pl": "“Kh… a nam już skończyła się amunicja…”",
+      "kr_sha256": "23f231e7e48963df3add6b685b0ee191e89fd5fac2e12796cafafeb46c9a97d1",
+      "en_sha256": "e347522f5bdc7af92c87c040ba0096bead0131098eba7855bf898ad436fcf23a"
+    },
+    "dataList[id=2].content": {
+      "pl": "Sytuacja była krytyczna, to widział każdy. Dzieci spowite w czerń od stóp do głów miotały się, nie wiedząc, jak poradzić sobie z wrogiem.",
+      "kr_sha256": "85aed0a55a74c7aa78efedbe30c12ff132cc5534d81d91b7dd5ec708d5f76236",
+      "en_sha256": "1dd869f32978a3c41faf3cbc065df02e7840c87a866ac2cae15eed396419001e"
+    },
+    "dataList[id=3].content": {
+      "pl": "Cholera… trzeba było nie brać mniej amunicji tylko po to, żeby oszczędzać firmie!",
+      "kr_sha256": "ae2acd74f50d078cfc65debab2ee23adbf9886273f396a0cfa4238eed666fac2",
+      "en_sha256": "1da623306dfecf1c24fe928fab3f0faa545ed5f7393b2a432a7a9e4cda2c349e"
+    },
+    "dataList[id=4].content": {
+      "pl": "I tak by ci za to nie podnieśli oceny okresowej, to czemu… A.",
+      "kr_sha256": "812069b3176d83552ead05ff0930bec39b282d46c91c2d71fda8b96ef5ee2865",
+      "en_sha256": "84280c30be32bb39f595fac26f0f5338064e6c58be60f1928b4ac0cbafa81c30"
+    },
+    "dataList[id=5].content": {
+      "pl": "Dziecko nie dokończyło. Bo choć ciągnęło za spust, kule już nie wylatywały.",
+      "kr_sha256": "3d2230d965886b016dbbd624f46cd6aef761e6f40b84acddd88088871e57ad61",
+      "en_sha256": "02f2ebf19fc44c0b3fd2c576ac2c4f2ed54810411936795a55baaf9f2a5b5bed"
+    },
+    "dataList[id=6].content": {
+      "pl": "…25 m.",
+      "kr_sha256": "b5124b1777ac684d5b5e4c939e39db2a919dc58defbb8e33abf1ce7995597ad8",
+      "en_sha256": "9d4d8cc3880fd9c7b8520da8511128ce3d0188c4846a89527e0a880d426f699c"
+    },
+    "dataList[id=7].content": {
+      "pl": "Czyli to koniec…",
+      "kr_sha256": "08eaa3877a3660b4ea1d4566af741aae62b10735539c97db28204f96a0e9eda1",
+      "en_sha256": "6558ef56789a0f99f03acecb3bce48845adfb7c0eea06bfebf095f3eb7573522"
+    },
+    "dataList[id=8].content": {
+      "pl": "I właśnie wtedy zjawiła się ona, a jej włosy barwy zachodzącego słońca powiewały na wietrze.",
+      "kr_sha256": "8c84bc56e092179bd186de871594cf3ae780ed2d73112f042ea1afe879943da2",
+      "en_sha256": "13abf55e2799a4a61e679bb435aee92850c24a26a2950ef9a87a56b3d091b05c"
+    },
+    "dataList[id=9].content": {
+      "pl": "Spokojnie. Dalej ja się tym zajmę.",
+      "kr_sha256": "05ae55358bbbf9720828e4680c5722784459911c886754ea9b7778f88eb87d74",
+      "en_sha256": "ad1ed8d9f513b314ab3f621d572fa836a21fbb800bf4618b72034219a4dd02f1"
+    }
+  }
+}

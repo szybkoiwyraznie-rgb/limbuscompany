@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "No proszę… państwo całkiem… podszkolili się w walce…?",
+      "kr_sha256": "6aa0183049b166eccb94fe87d800ae9eb7791360f78faadd4b1090ef5dcf74c5",
+      "en_sha256": "b83680771a8325f5b84a3c11c71a2f3fb54b7ce42fa4bc856f7467d180f6e588"
+    },
+    "dataList[id=10].content": {
+      "pl": "Kto z nas mógłby się odważyć i opowiedzieć jej o strasznym stanie, w jakim był Effie, i o tym, że musieliśmy własnymi rękami odebrać mu życie?",
+      "kr_sha256": "46844a92b02988236772b6cc667f009d85a830678c8f74f146d7efb1c8b5193e",
+      "en_sha256": "d0dda1f3041cf44dc8e638f193741835dcdb12aacd10b5d117b5f99f47da20b9"
+    },
+    "dataList[id=11].content": {
+      "pl": "…Tak, żyje.",
+      "kr_sha256": "c41f7acb6f54a1136549b70cf817c9135aa1b572dcfc7732753c42c6d6d8b88b",
+      "en_sha256": "51aac0fa6b463e601756439e34878ee94a1785f4f8de6760538703484dac65de"
+    },
+    "dataList[id=12].content": {
+      "pl": "odpowiedział cicho Hong Lu.",
+      "kr_sha256": "e9cf501086bb0174ccbf254a3e16b8ad096156a425287acb5ec83a58b9c15f36",
+      "en_sha256": "99ec1bd8bd905f61fc8780e1c93f56b2ba283806b3ce956517ca61fe370ece76"
+    },
+    "dataList[id=13].content": {
+      "pl": "Żaden z Grzeszników nie sprostował jego odpowiedzi.",
+      "kr_sha256": "62f81064b6e2f187669f4f4cb1d588bdcffa60fa336942aa8a7bf1def07704a6",
+      "en_sha256": "337e9bb291c89f6ede4dce0713cc6f0f713547899b454fa5c4b5e9f30035ba8d"
+    },
+    "dataList[id=14].content": {
+      "pl": "Dość pogaduszek.",
+      "kr_sha256": "15f1ad9dd07a0443d684762d17d2a476f647d264af821373dde5edf59e0ba820",
+      "en_sha256": "4dba07d69650a869b6fdcc85fd5a3f3866c73adba896c2f4a46d5b1718984b42"
+    },
+    "dataList[id=15].content": {
+      "pl": "Chyba znowu pełzną tu te dziwne stwory.",
+      "kr_sha256": "c8b80f2321432f37c9a319dcbaeef6457cb6cdc0fe43860d2556df89acb3d9f8",
+      "en_sha256": "e3c44a44d69d7234b2096ead130d10f43b28ee8994a8d77e2ec84da1443efbc8"
+    },
+    "dataList[id=16].content": {
+      "pl": "Zaczęły się zbiegać Peccatula.",
+      "kr_sha256": "f0d9eaf6dd37eafa742a22e5036a2ab0a38f0c64cb7032866c8e5235414c4b7f",
+      "en_sha256": "cd0685913f20223ede5aa39ced4546bf1d778da0c27dd39a55b0b633b3327789"
+    },
+    "dataList[id=17].content": {
+      "pl": "Jakby zbiegało się do nas poczucie winy za to kłamstwo.",
+      "kr_sha256": "069e78f51eb195dc86fecdd58c5c83515eff4b86d0130b56f064196eabf9a888",
+      "en_sha256": "f68d711e2df3ada0f8b5ab8816c3577712250265d4cb94469051c1cbe5079d64"
+    },
+    "dataList[id=1].content": {
+      "pl": "Gdzieś z kąta dobiega słaby głos.",
+      "kr_sha256": "589b2d5116d45dcaa2b35cef8b10a8de0522fcf0373995d76dd451ab8411c85d",
+      "en_sha256": "45a391bc997c2a033af5c0277764e0707ca54ccd0dbcdb22a16ea24867412c5a"
+    },
+    "dataList[id=2].content": {
+      "pl": "Saude…?",
+      "kr_sha256": "dcd4010072eacf76ef9ac159bc04736deebad91bc89a32d28ed96aeb39e742be",
+      "en_sha256": "758e3f5bfbb98ae4b1b4b39e67b7c815c070c3025dc3bbe313985fe29f39b162"
+    },
+    "dataList[id=3].content": {
+      "pl": "Saude siedziała bezsilnie oparta o ścianę.",
+      "kr_sha256": "1ee34e191e37b84a5d80625e7d0e18252342774141decaab1c5c57a522772588",
+      "en_sha256": "65044be21d3c1db9ace00b7b033f0630740c3215476062cf0d145c1aedf88412"
+    },
+    "dataList[id=4].content": {
+      "pl": "Na całym jej ciele widać było poszarpane rany, jakby obgryzały ją Peccatula.",
+      "kr_sha256": "a31d3d0366f686537f109b9e8e3cb17fb84da7e09385b89132815de8721bb8a0",
+      "en_sha256": "c466bb501a99b37bb43152ca3a42d737f4014c8485426f0f94be7e71bdcff83b"
+    },
+    "dataList[id=5].content": {
+      "pl": "Nic pani nie jest? Da pani radę wstać?",
+      "kr_sha256": "cbf35121653b3c1809ab7efe7be6935c86f3dee218be9518249dbca906a3d040",
+      "en_sha256": "0a39bdfcbea319967b8888e7be715daa0793be544e5cef57c50ba152c3d8fb95"
+    },
+    "dataList[id=6].content": {
+      "pl": "Saude nie mogła nawet wstać, a samo mówienie najwyraźniej sprawiało jej ogromny ból, więc mówiła urywanie.",
+      "kr_sha256": "6eea92d546e1d80ce86aa7bc22f4d6226b1a9742d37bb55742facf861d0d8d17",
+      "en_sha256": "9eecf9aa94678a3c924bb4c9e0475f90980af3b2c42f07f4fa0b7ea5ec08db19"
+    },
+    "dataList[id=7].content": {
+      "pl": "Effie… co z…",
+      "kr_sha256": "813a055962c3e882752536842dc129253d8d4f2347c9af412668b4e006ba0890",
+      "en_sha256": "51864e9821ed4022b9887929aca1f6ff705695d430fe4d14be7650b6e10f4d59"
+    },
+    "dataList[id=8].content": {
+      "pl": "Żyje, prawda? Spotkali go… państwo… na zewnątrz…?",
+      "kr_sha256": "24dbac76aeeb62ad8c36966e4b709307f67463c8c8fd26506278466571afdb07",
+      "en_sha256": "a0bf0724ca17569701b26b43c838b8e4a4d8a177e358c83b148cbbd2162f8373"
+    },
+    "dataList[id=9].content": {
+      "pl": "Na rozpaczliwe pytanie Saude wszyscy wahają się, co powiedzieć i zrobić.",
+      "kr_sha256": "dcc584afcc51b629ca9cf2825b028632a2fc05fcccdb3baa6378bf495a7e16cb",
+      "en_sha256": "6387921c05f23247b0b14eeb53e1f449c6fa27d286d5a69a21d629cf6feb39de"
+    }
+  }
+}

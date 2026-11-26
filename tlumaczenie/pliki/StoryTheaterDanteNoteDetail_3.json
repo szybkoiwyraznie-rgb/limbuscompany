@@ -1,0 +1,29 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_59].desc": {
+      "pl": "- Przynajmniej E.G.O, którego używają nasi Grzesznicy, działa chyba tak, że przyswajają sobie emocje czy jaźń Anomalii, która jest jego nośnikiem, i używają ich jak własnych.\nSam tego nie doświadczyłem, ale…\n- Według ich relacji przypomina to uczucie, kiedy cudze poglądy nas poruszą albo kiedy wcielamy je we własne życie.",
+      "kr_sha256": "c7f547c8b156515284ea647dea73c49f569c8ba8f3f6bc279a319c03829c6fe9",
+      "en_sha256": "f0d2740474078abd71eb17e63b06ba932795f71636bdb615b9221c0ffa1168e8"
+    },
+    "dataList[id=DanteNoteDetail_60].desc": {
+      "pl": "- Ich cechą jest chyba też to, że trudno je wyjaśnić logiką czy fizyką klasyczną; człowiek tylko się zastanawia: jak to w ogóle działa?\nFaust mówi, że w moim obecnym stanie nie ma potrzeby na siłę tego rozumieć, ale…\nMięso, które z chlupotem odrasta na uciętej ręce, i szczęście, które rośnie od przyklejenia naklejki, to chyba nie są zjawiska, nad którymi można przejść do porządku dziennego.\n- …Chwila, to moja głowa też jest Osobliwością?",
+      "kr_sha256": "67cab732028715015aff848441250c46aa6feee45a42fbc73435c8878f7c2d1c",
+      "en_sha256": "06cfd51d8805cbc810c9b090cd6aa7bfae55279311d4c458c54518c8b0752cb9"
+    },
+    "dataList[id=DanteNoteDetail_61].desc": {
+      "pl": "- Grzesznicy, zbliżając się do tego przedmiotu, czują chyba dziwną siłę, coś jak zawroty głowy.\nNazywa się to też rezonansem; może działa to podobnie jak bóle głowy, które czułem.\n- Gdy już odzyskamy Złotą Gałąź, Vergilius chyba wzywa ludzi z innego działu, którzy się nią zajmują.\nKiedy zapytałem, powiedział tylko: “Idzie do centrali”.",
+      "kr_sha256": "2146ce7de00a319d7d34da28af37f8d9d0c9ddd9022a691efe4db391c7f0d7ae",
+      "en_sha256": "383ae73506975c26e16b04c4a618c567a4081547022ae1887b3e88a936cc9a92"
+    },
+    "dataList[id=DanteNoteDetail_62].desc": {
+      "pl": "- …Tyle że kto zamiast dać się poruszyć, całkiem zatraci się w tej jaźni, tego nośnik potrafi skorodować.\nPrzez to Grzesznicy już kilka razy zginęli…\nA mnie bolało jak cholera.",
+      "kr_sha256": "131ce7ac7ec3a7de73ef31bcb2de4e85f278b8defeab25592240d1105cc7fb1d",
+      "en_sha256": "4578ced1164621562c02f9062fc4d7ccab44de8042cbdad6c0a8f199c1ce9b92"
+    },
+    "dataList[id=DanteNoteDetail_63].desc": {
+      "pl": "- W dawnym L Corp. Anomalie dzielono podobno na pięć klas.\nYuri mówiła, że kiedyś w L Corp. klasy przyznawano według wydajności pozyskiwania energii.\nLimbus Company chyba dzieli je według tych samych klas.",
+      "kr_sha256": "5ca968e2c1498fed030b337f33bb3452ba16d733f9494c28102f747c44007fa5",
+      "en_sha256": "23b9df2de9d8a074fd14b1747c35245f39e7d1657dab57c19061fde802c53629"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Wy tam, pilnujcie no swoich łbów. Bo powyrywamy i zrobimy se z nich piłki do kopania.",
+      "kr_sha256": "f0d04b7e67bf6426ccf622b68ed55efd72af210b5c5b8de3b0a1ef96d213801d",
+      "en_sha256": "88b1b8e02f4c7135a3677da17fb1adba910c542968c7a636c90d930b24469da5"
+    },
+    "dataList[id=10].content": {
+      "pl": "N-no co, przecież to śmieszne. C-czemu się tak na mnie patrzysz~",
+      "kr_sha256": "60ddc5f24623bfa532318a2162c55871355bfb3be5b6c59f20622a579fbf23b5",
+      "en_sha256": "df7c6bcf3ddaec950c527d50eb0602f429124bda3c2cb7c7f782f3145eb55235"
+    },
+    "dataList[id=11].content": {
+      "pl": "…Wszyst…",
+      "kr_sha256": "e247d93d5261537c8f924dbe69be0768324ea1ac1ab705bdab556d3195ac7360",
+      "en_sha256": "ba3e705fdc3636719056502f106a8d6a6a6211cbc0dd9dfa9df3871db497409b"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Wszystkich pozabijam!!",
+      "kr_sha256": "49d59c795dd599e85f51a6eda2a2566eea3deca87bc9bf6924673cf89eca90c8",
+      "en_sha256": "d3f908224d971a5e34bbd0a325bb454c2db5359bfc01970297adc815c8dfd32c"
+    },
+    "dataList[id=1].content": {
+      "pl": "Zapomniałem… Ci tu słyną z niewyparzonych gęb…",
+      "kr_sha256": "ee4fe4c4a8c9de475d6b4412d828c6fc31c9227e0b6d34fa35ea759d4c0183b0",
+      "en_sha256": "42b8a849cf9a05a65c654d1fa51f4216e92395d7c6f288cda14c049991ce6c96"
+    },
+    "dataList[id=2].content": {
+      "pl": "Chodzą słuchy, że samym ozorem wykończyli kilkudziesięciu ludzi z konkurencyjnych organizacji. Czysto psychicznie…",
+      "kr_sha256": "e7ffe697a87b434d5b16c02e9f84e13548a69cec843f44b1fb7c79476cb93b24",
+      "en_sha256": "82065718be4ca45060ce29d7376e15e2b3d2841da6503fe26dfc5980eae75c24"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ej! Wy tam, póki jeszcze mówię po dobroci, siedźcie cicho…",
+      "kr_sha256": "a64244f755f924091f15aa65d46bc1830e5fa64e8bdc3f2d0ddd526b217bdb8b",
+      "en_sha256": "d0e9db1b5fdfbed539763c654d5c6de20c950076c7119108436f346e80c81448"
+    },
+    "dataList[id=4].content": {
+      "pl": "A ty co tak łypiesz? Zabierzesz no te gały? Ślepia jak u kundla…",
+      "kr_sha256": "dc15943eceb5fd438d9f41cf8f1411a8e9ce244a2c2bbe0d5f8736a1553ce44c",
+      "en_sha256": "7b1944a4c27bf649d938dd6b5d9bc6f1546bccf59ce8163fe5d881550187d01e"
+    },
+    "dataList[id=5].content": {
+      "pl": "Daj spokój, przeca. Jak żem przed chwilą jednemu łeb rozłupał, to krzyknąłem do środka, a tam ino echo.",
+      "kr_sha256": "9175f067d8058de70cb32908e724ebc90e82dcdf1958501ab09d34b99c293495",
+      "en_sha256": "e76d90b6eecded7e92a8fd4a76644b9e6b80ba6890096504e190d623184557a5"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ehej~ Co, w tym czerepie nawet makaronu nie ma? Po co mu na karku bułka z samym powietrzem?",
+      "kr_sha256": "dcb2c23c451d1aeddd1171ba0c1f9ddd57d9ab0502ae08fbcad663602550e4a3",
+      "en_sha256": "a4e9487282a3aefbfbbb030438e047519074073fe9da6cbdb8e148615ead96c1"
+    },
+    "dataList[id=7].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=8].content": {
+      "pl": "Hm, oni wszyscy chodzą na te same korepetycje czy co?",
+      "kr_sha256": "6d6602e40bac574a3949f3990978ed01f0e0b0d2abd065efd553ca68bf6a40e5",
+      "en_sha256": "5312b1c9e8c81ed9126b3580699fde441fac0b330748b51186f75cea19b819f0"
+    },
+    "dataList[id=9].content": {
+      "pl": "…Pff.",
+      "kr_sha256": "3a6808cb652ae86a2689b02d50159fe1b0cab0dabe52a35e547ecd206eab3f09",
+      "en_sha256": "fbf07f28b9601714ab3953fc33afcad7e9303cb67bced163174e30dd35491944"
+    }
+  }
+}

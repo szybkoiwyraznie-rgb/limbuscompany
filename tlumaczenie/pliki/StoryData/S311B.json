@@ -1,0 +1,279 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Kiedy wsiedliśmy do autobusu, Vergilius beztrosko uniósł do nas rękę.",
+      "kr_sha256": "85a07fa2854ff406d28c3ab351ded2f5416046d7bc735fc8bb56820a7ac083ec",
+      "en_sha256": "54d02e6f3fb360f19ef1b29b5d3fcad13650205e931b6d026d661a4894d1c598"
+    },
+    "dataList[id=10].content": {
+      "pl": "Te typy kazały nam oddać głowę Kierownika.",
+      "kr_sha256": "42000c157af1e64dfcadc83f574b5e0630a7cd5456aca958af5b90923eece4fd",
+      "en_sha256": "3976b61f42d18ae81728f520967599d64a6ef9585edab9009b1ce38586131826"
+    },
+    "dataList[id=11].content": {
+      "pl": "A to znaczy…",
+      "kr_sha256": "ea0c2c720711bf20c3756c9046060acbc09fa5913d38cd47204d564eedb6dd89",
+      "en_sha256": "9dc6c7093740bf7a9b63b30aa741e4df2f765e9117e6c3d9aeb315f1391d23b1"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Wrócili. Nie zapomnieli. Przyszli znowu, żeby…",
+      "kr_sha256": "593e345f30eafb02e54b560c47c01bbc53416e2ace669a812305e790ba3908dd",
+      "en_sha256": "6215b6f5d08c9eceb716c2c1d82431f01f35845d950cd2aa3afd61cb9f315642"
+    },
+    "dataList[id=13].content": {
+      "pl": "Sinclair trząsł się już prawie tak, jakby miał atak.",
+      "kr_sha256": "dda9239fcfaf83f27a55fb52419d0b3fe339ac1ee19bb7c8b753ae9f415b61d7",
+      "en_sha256": "55feb7f072f1b3dc14894d1df48c56a73b600bfc707e908c3a482b5ae6bee1dd"
+    },
+    "dataList[id=14].content": {
+      "pl": "Rodion co jakiś czas spoglądała na niego ze współczuciem, ale tak samo jak reszta nie wiedziała, co robić.",
+      "kr_sha256": "245acfb658425e9963ab6ada5c95e785ec2f966df245ddd90f21f891b6e2a0ab",
+      "en_sha256": "ba3ab4e7cae96d21e0c51eff2940a6367fde90b693db07ecaa33933871f4a825"
+    },
+    "dataList[id=15].content": {
+      "pl": "Werg-Werg. Grające pudełko hałasuje.",
+      "kr_sha256": "a04d7ae952b278ee7de9a81c77f19c94fcb46bec067c1ff333094765de85a0a4",
+      "en_sha256": "91bb61654ec0b093b10c070aa889e1833513ea8071a39e04806f3fd6d0ce2efe"
+    },
+    "dataList[id=16].content": {
+      "pl": "…Zdaje się, że odezwała się grupa zwiadowcza.",
+      "kr_sha256": "c9199a63d74b0a9328c79d76e254a66852dc8298f94ac2e2429f1697e92af198",
+      "en_sha256": "b278b700698262e4f7b383c276e342b10d64cc7883292da61d6dc942a0572862"
+    },
+    "dataList[id=17].content": {
+      "pl": "(szszt-szszt-szszt) Tu… (szszt…)",
+      "kr_sha256": "87f5f86f2048cddc432af521126a696653551422000eb64f7e0713894cd7a07a",
+      "en_sha256": "4d27223dca18d2f535bc728ba03269bc2121f00588c88121a910de59a4c66718"
+    },
+    "dataList[id=18].content": {
+      "pl": "(szszt-szszt) Saude… (szszt…)",
+      "kr_sha256": "b24d03d895d6fd1a54820316b9d37fd4a68f296e0757bfa49506b9e41c8bd573",
+      "en_sha256": "6c9733d2b1cef53ce10670e8aac1572e12fa97c917e6e1ada83edfbc769b3660"
+    },
+    "dataList[id=19].content": {
+      "pl": "Daj to.",
+      "kr_sha256": "4ee8161615c177c3de9d02a2f4e7c03f22702dedbd3d348ee34377d73fc00a40",
+      "en_sha256": "e83a665724ca0e7448b9bf8b0b342d8041358e87cf7133ced69e8a73a5b79706"
+    },
+    "dataList[id=1].content": {
+      "pl": "Tym razem trochę trudniej było sobie z nimi poradzić, co?",
+      "kr_sha256": "0128082eb016565958265f62a0efa3dca32ff60a6dd51a32230e34c05cf00d2b",
+      "en_sha256": "d79bd35e260a4bb071dd10ca61a507d8729c37aaad5dab022fdd0e76a302d752"
+    },
+    "dataList[id=20].content": {
+      "pl": "Effie, tu autobus. Jak tam u was sytuacja?",
+      "kr_sha256": "b92f70710083349110130e7a18f528aac73ed56d359c59f4c2d1065235ecee11",
+      "en_sha256": "23614da1c83c1a473670bd4b7ac87c86e8b5fa89c39c4f943edafdb936ce473e"
+    },
+    "dataList[id=21].content": {
+      "pl": "…Tutaj poniesiecie brzemię wszelkiego grzechu i zostaniecie oczyszczeni.",
+      "kr_sha256": "1f1ef89ab65fe42b0a34e2d91ca976af2fb4fc5e8e03b5027c439fdbbafd6af4",
+      "en_sha256": "9acfbb35f744ee6a73279dafc3b89f9032edcdb19ac81f028a699528ba15698c"
+    },
+    "dataList[id=22].content": {
+      "pl": "Effie?",
+      "kr_sha256": "6ed14957a30e997dceb9399f7e6f212827f78b0bf75da30a1fe6052504d4061e",
+      "en_sha256": "5390a83cc543ea49c76516d428a7d5682b3d496ce517af1aee4363357bf2b425"
+    },
+    "dataList[id=23].content": {
+      "pl": "Czy to… był głos Effiego?",
+      "kr_sha256": "40d25c8daf35f8ced724e35fda9a38dd6569e4c1cb85aa558f08628cd1524d5b",
+      "en_sha256": "62556668ab6e89f0a510f6b3cc9dd67f90659b3887b200e53fe3a290796aec64"
+    },
+    "dataList[id=24].content": {
+      "pl": "Nie, właściwie… czy to w ogóle był ludzki głos?",
+      "kr_sha256": "f134561d9a02501bca1d6dbfafe241804c04049b93173a744338772e381f3713",
+      "en_sha256": "b63b4b0f08deac36c0caf38dc9f48cbdb7cc22af662a5ad9e3b9ee9cd2d0d13f"
+    },
+    "dataList[id=25].content": {
+      "pl": "Gwizd…",
+      "kr_sha256": "d912707cd26834ae49dac926f7e886cdbf1ee11d20f0cc0a0c119957610d3319",
+      "en_sha256": "4acf6ea47591724b46c89ddfc04887339af3029a13b98b392e2d68451dc6c0a2"
+    },
+    "dataList[id=26].content": {
+      "pl": "Sinclair, co ty mówisz?",
+      "kr_sha256": "13bf055eefc61bc8e1108f5c13b073a4287df937a907cbd15dae7f64205daf22",
+      "en_sha256": "387c8b49248a88078b574772576c76c121baef59318ddf6c193ba2142d778cc1"
+    },
+    "dataList[id=27].content": {
+      "pl": "Przecież słychać było gwizd! Na samym końcu… cichutko…",
+      "kr_sha256": "22559c595227e7c96d26c055a43685905d8148e6151c53d272a6d26a12835ab9",
+      "en_sha256": "34f90da0daa1ed7f1692fb639c27724576f6338ee641c4a12fbfa1709c5c60b4"
+    },
+    "dataList[id=28].content": {
+      "pl": "Słychać było coś takiego…?",
+      "kr_sha256": "dc71cbcd6454e6cfe7128cb52425fc9be287fd076cb64441e1f7b3971b0b7a34",
+      "en_sha256": "bfa9c68d50fc01b6b32bedcfa554721d8e72e243304815b42f1a15383512fe27"
+    },
+    "dataList[id=29].content": {
+      "pl": "To ta kreatura przyszła! W końcu… żeby wymordować całe nasze miasteczko…",
+      "kr_sha256": "2b778100a805a98dd205b3d99f125b7a01b3025ff342daccbca0bc3b8ba90271",
+      "en_sha256": "5607d00360ae631c3d865b4afeee31c33ae17e0ce5974d7e32e3f4884c5f31e3"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ciągle ci to powtarzam, ale gdybyś nam pomógł, skończylibyśmy dużo szybciej~",
+      "kr_sha256": "3b5137718f769ee00cdeecd29ad4ccdd4a5dbdfd7a5ebc6fdf73eea919b36b5e",
+      "en_sha256": "9f78a1124d5e58dda8c4d4a2c9aa33dfe7538125f8e4927a5eccb781b0b016fb"
+    },
+    "dataList[id=30].content": {
+      "pl": "<Uspokój się, Sinclair. Jaki gwizd? I co to za kreatura?>",
+      "kr_sha256": "f1bb1c4ca1658846ae947340cec3e1d2bc80804264e3d1b90bf6a420027fa022",
+      "en_sha256": "4da95e28f9beffa2f2d6adf5800d483ec72a7d2bcbc047be31dc0924c7513ef8"
+    },
+    "dataList[id=31].content": {
+      "pl": "Ona na mnie czeka. To była wiadomość, wezwanie dla mnie!",
+      "kr_sha256": "2fe128a5eb6754f814f089b694bc34466e43c793275c82c9896da363b22ad8c0",
+      "en_sha256": "8025ec2706547553a9934e78bee9bc4ed44a48db2a54e1ffd1e14583bf99be01"
+    },
+    "dataList[id=32].content": {
+      "pl": "Kiedy to mówił, po twarzy Sinclaira jak szalone płynęły łzy pełne gorzkiej złości.",
+      "kr_sha256": "9d821c3e2690f726f72a621b7fb9fd0edff8eb148c6fda2fa8ff8542a00bd24b",
+      "en_sha256": "46228157306de43a2b8d4b34dd830f63dd3ee590eeb5204ed8fd82d2e2841cba"
+    },
+    "dataList[id=33].content": {
+      "pl": "Chwileczkę, tam z przodu są tacy sami jak przedtem…",
+      "kr_sha256": "83e9ace338b1d46e5f00cad2dd407459706b564893564e1ec814f78c3a85358e",
+      "en_sha256": "9794df26f4067f15871bde161238407896b732e0f511c0ed0d0d430d9b71e455"
+    },
+    "dataList[id=34].content": {
+      "pl": "Zawróćmy…",
+      "kr_sha256": "0170323cf744fd13f439d296c8d63c72e0ac8481779072bfa5e3ce931857c58c",
+      "en_sha256": "15d62d83e365fe57008c40505ae2f1e8ce36000aa206fbbc9c76e5471ebbe020"
+    },
+    "dataList[id=35].content": {
+      "pl": "<Co?>",
+      "kr_sha256": "aa020d3433036d3ba08ebf43090467ab0008f81dd5624396830ab3d64037fb8e",
+      "en_sha256": "1df15994a7067b72a6cf379e5fc36134665148f6e449ff0a7c86d15d63e10d58"
+    },
+    "dataList[id=36].content": {
+      "pl": "Czy… nie możemy po prostu zawrócić? Nie chcę tam jechać, zawróćmy, proszę. Jeszcze nie jest za późno, wystarczy obrócić kierownicę…",
+      "kr_sha256": "b5a2bc469abeeac9e1a9659caf8dabd546fa55447bfe5c5ff90bbcec10fc4d1d",
+      "en_sha256": "e7a9c2d4ea14be0333d9ee2cfbf1eaefa81508799e09539f76199360bd6dc631"
+    },
+    "dataList[id=37].content": {
+      "pl": "Młody… co się z tobą dzieje? Co tam jest przed nami?",
+      "kr_sha256": "f093ff6ff57264901dadb2ce9919643c9ffdc30e7c97e06a71427381a2a980dd",
+      "en_sha256": "90346b0431e7ddbd9c06ed172a42e6ccce6226ed2f66590e3fbf8b2c2481df58"
+    },
+    "dataList[id=38].content": {
+      "pl": "Nie wolno tam jechać. Wszyscy zginiemy, zawróćmy.",
+      "kr_sha256": "b50afd7baaa8e89023c2ad7ef8e943511cbb683ff38ce1cf7cc0ac419ef25fb1",
+      "en_sha256": "eae515dd50bbc8b88705120fa13c8dddd581c800c151059c6f2b142640e3e936"
+    },
+    "dataList[id=39].content": {
+      "pl": "Emilu Sinclairze. Dość tych bzdur…",
+      "kr_sha256": "7f625165ee7561eee4df3bf70fc8597c254adafea89a73111e06a7078a873882",
+      "en_sha256": "e1059f096eb7e2060da5060b1e802264a7cc2c0de32b2d197b5444116106aa6f"
+    },
+    "dataList[id=3].content": {
+      "pl": "A ja ciągle powtarzam, że moja pomoc nic by nie znaczyła.",
+      "kr_sha256": "1dc5010ae2833384b791b46304f358fe190da289292957c1d75fcc8a84d3357a",
+      "en_sha256": "e94aac096d6f22f35e211eb067b12b1cf814a3d080df8672b254de4cc159f3c2"
+    },
+    "dataList[id=40].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=41].content": {
+      "pl": "Outis ze spokojną miną otrzepywała dłonie.",
+      "kr_sha256": "d062e578a0510478af88663b2490502a22990082e66cb7b847513fa323f732a0",
+      "en_sha256": "d69bd930c7c4e049b1a15662f744f0eb2c680629914002339cf7823273ecb5d7"
+    },
+    "dataList[id=42].content": {
+      "pl": "Zadałam tylko cios w brzuch, taki, żeby na chwilę stracił przytomność.",
+      "kr_sha256": "26f296ca60c76b56fd764f067a1f666d5ff776042dac3f4d95023fe40f36937c",
+      "en_sha256": "944b9642c5865a2954bd5a5660c46868c77562e7f8ad472420c246dd6bc60301"
+    },
+    "dataList[id=43].content": {
+      "pl": "Tym razem trafiłaś w takt. O mało sam bym nie wkroczył.",
+      "kr_sha256": "46c0e8105f24da20af9bdf8a8b6489a8a149e32673ece8de7d65d0fd1f092019",
+      "en_sha256": "80eb563ca05ef9a3529115d3c7abaefe8aedbff5a0ddee46581dd9fbbbb0de7e"
+    },
+    "dataList[id=44].content": {
+      "pl": "Tchórze są na polu walki zbędni. Nie można go po prostu wyrzucić z autobusu i jechać dalej?",
+      "kr_sha256": "dc8227f2a62fd265fbfdbb44ad8e00978c306ed344a23e1d66e152f8e6ea5e03",
+      "en_sha256": "494e2e5019e536b1ee5b84be8f86c3fc755f93dcbc2a6814a74ba20efefec727"
+    },
+    "dataList[id=45].content": {
+      "pl": "<To chyba… lekka przesada.>",
+      "kr_sha256": "0d399e668676886d66ea52c86800c356c7c87af0c362da7ba3561796eb74eda1",
+      "en_sha256": "e429075a3f4fdccc2c1642120bb84c70612f3868b7ab9b1e9045a5099cc61fe4"
+    },
+    "dataList[id=46].content": {
+      "pl": "…Skoro Kierownik tak mówi.",
+      "kr_sha256": "304d0c4b50088aa0bb45840a1b46cb39d88b816e5f63fc80e315cd373df41b2f",
+      "en_sha256": "86844713ed4b1c5b753797d22408e68ea14f7f42a02edb46e2a36630fc1a2bff"
+    },
+    "dataList[id=47].content": {
+      "pl": "Outis z niezadowoleniem spojrzała z góry na leżącego Sinclaira.",
+      "kr_sha256": "12ac2207452f430cfd3011e68841ee86cfdd53391f6467adedb75430354a0d7d",
+      "en_sha256": "4f3d2edc76addfdc6f1b32c919fb2a10b0a189d9cc80283f38aae6de84b54b1c"
+    },
+    "dataList[id=48].content": {
+      "pl": "Sinclair był strachliwy, ale nigdy dotąd się nie sprzeciwiał.",
+      "kr_sha256": "0e45b75511dbfe5189ed230e4d0aa0a5bacd9368c58a94113f371e1ee6f54a71",
+      "en_sha256": "e840ad6ab05a63df7ba29dd562d9aa06dec67d327ddbfb97b5b42ecf30e2b45b"
+    },
+    "dataList[id=49].content": {
+      "pl": "Pierwszy raz odmawiał tak stanowczo i ciągle nie dawało mi to spokoju…",
+      "kr_sha256": "3aa72a43234dad2dffd9d3b344d5d90c93906d1136383fbb08ac7257029f6570",
+      "en_sha256": "258c7fa48d54b28b28661145aa385db53b99e4c9bf30ece550811e72111503c3"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ci ludzie… nazwali nas wyznawcami herezji. Na jakiej podstawie?",
+      "kr_sha256": "32e76b6846b8e7e9e594715585e55615444134a2e609d21798d556f9afc36345",
+      "en_sha256": "b70dabe44601b99688c3770233a5035bd8337f6317b9d8f0356b9a5258dcf840"
+    },
+    "dataList[id=50].content": {
+      "pl": "ale wyglądało na to, że nie jest w stanie odpowiedzieć, nawet gdybym zapytał, więc musiałem milczeć, i to też mnie gryzło.",
+      "kr_sha256": "ceffe7352c8bdd35a17d1af46467c385ed5c50aa737518f4431a7f9a54cfd5c8",
+      "en_sha256": "d3a1ad484cfd385981e977e9770d6282d39b4e0063a7221b447a4b9240f0e66f"
+    },
+    "dataList[id=51].content": {
+      "pl": "Po chwili Sinclair odzyskał przytomność i pustym, niczego niewyrażającym wzrokiem patrzył przez okno.",
+      "kr_sha256": "a074d1a51cb57c5e908bd03171c28d451991e47a2e393ad5c627efe6639a6469",
+      "en_sha256": "a0bbd2def3b15c6c0475104ba1508d251857d3b5037d1e18afa75e3eb94b3ae5"
+    },
+    "dataList[id=52].content": {
+      "pl": "<…Wszyscy poszli walczyć.>",
+      "kr_sha256": "9e48e148ae2cde37d9ef964e16b807b70a1844f9175cc30ed3d55f1974a97b1c",
+      "en_sha256": "2fecb7927ba55b1c57ef66a8170c2c36745f426baa924ce23d322a32b9fae20e"
+    },
+    "dataList[id=53].content": {
+      "pl": "Prze… praszam. Ja też idę.",
+      "kr_sha256": "7c2a9313aac7c04539305a978505524ecc4986afd32b76a323d11a38f31d175b",
+      "en_sha256": "d2d39687b93adf18652da94cd7533a44169b6d278d5eaedc00fcba47633c3edf"
+    },
+    "dataList[id=54].content": {
+      "pl": "Nie mogę być kulą u nogi.",
+      "kr_sha256": "3da9315ea68056bf1042f9d49d21ecd0c6aa5b97f19e3f36eee945292f79b64e",
+      "en_sha256": "9864dc5dcf79f68216c0d39f3972a5a304106201011e0374a4dae90d24e2101d"
+    },
+    "dataList[id=5].content": {
+      "pl": "<Chyba przede wszystkim patrzyli na mnie.>",
+      "kr_sha256": "59aea86a4281f9f864a47928d2166eaf03d9c9335e3ff8d01bf96fc09b274c4d",
+      "en_sha256": "a61aeb76d7e6e78103fd027adc7f2e641c10bbc0671aed36d1c273c46d319a27"
+    },
+    "dataList[id=6].content": {
+      "pl": "Nagel und Hammer… Skrzydło, które ponad wszystko ceni doświadczenie.",
+      "kr_sha256": "38c3fc72fe530005f39014cf1842d22b8a2c121e68c8f2c55b92d1e20c97f60c",
+      "en_sha256": "b9f9d196f549f04e7ce62a8811b8f014a7cda0e54d5dd427257c8aee3051f88b"
+    },
+    "dataList[id=7].content": {
+      "pl": "Meursault wymamrotał coś niezrozumiałego.",
+      "kr_sha256": "a695dda8a550e639509ec2a9ade5066f717e7bcbf899c1b137351a0f64bec2d9",
+      "en_sha256": "978bca4df52dd32dcae57f131cd54ec99af33629afb7bb71b958f1e16cbe6903"
+    },
+    "dataList[id=8].content": {
+      "pl": "<Doświadczenie?>",
+      "kr_sha256": "5d5eb49d51b53e719f441e9c5cbfd73f9bbd15582f4e02218d6fca9610618649",
+      "en_sha256": "931305f00a172541f008dba5fb7024379cbf34d9ae33f0fdabc4b45a73410038"
+    },
+    "dataList[id=9].content": {
+      "pl": "Człowiekowi przeznaczone jest doświadczać i działać na miarę własnej wartości… Tak mówią o doświadczeniu.",
+      "kr_sha256": "b4d5716bac9f5f431cec08ce102409bed475a6a80e9b68dd3dbc50a2c04ecc20",
+      "en_sha256": "7c80c9b1dbd789005f46539979a8b7ec99d0b097a9d1285d4a8d98339ccfe45c"
+    }
+  }
+}

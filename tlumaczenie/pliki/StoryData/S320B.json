@@ -1,0 +1,109 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Weszliśmy do spalonego domu, a Sinclair zaprowadził nas do piwnicy.",
+      "kr_sha256": "fe82328eca40db7f3b2711f94a42ab09af94e5596814ce02c3cd896270baa026",
+      "en_sha256": "49b8cbf438a53c2a7d4845dbff05cecb3341501ddba897b985506ca22ca4449a"
+    },
+    "dataList[id=10].content": {
+      "pl": "…Przecież o to chodzi, prawda?",
+      "kr_sha256": "3f73cff00e8c2dc149b3afd039e7e292ffebac6186788b4669d6a00cbded8775",
+      "en_sha256": "aee19a84c5038437cd97fccef8d8c5c3472f1f4311ea61c14ae4b5ee3d10458e"
+    },
+    "dataList[id=11].content": {
+      "pl": "Wozicie nas ze sobą, żeby używać nas jako kompasów, które wskazują Gałęzie.",
+      "kr_sha256": "664f66dd9c74e18940d7d6e20a026f9b6abe6185d6cf33686a2df62c8f040ffe",
+      "en_sha256": "d5c1458f59a338d01ba3eaba831fb54abc03b65ac876501c02d6c276aa413a98"
+    },
+    "dataList[id=12].content": {
+      "pl": "Sinclair spojrzał w milczeniu na Faust,",
+      "kr_sha256": "48684400b7ac6bfffb8408f52cdd3e6a86362548c60f91656548096fcc92aca0",
+      "en_sha256": "5edef31a1c09d0d0062cc99622647373cf855bcaae12e42329bed4797a3a3233"
+    },
+    "dataList[id=13].content": {
+      "pl": "a ona, zamiast mu odpowiedzieć, przeszła płynnie obok i stanęła przed drzwiami piwnicy.",
+      "kr_sha256": "6603d41e1ba66fc1f921aa631c48002bc7fe900bc35f2356e90af9925cd20bd4",
+      "en_sha256": "26e3832a91a21f13408896715d5db513ba7bc79ebc5e27ac326a420de1b0a26c"
+    },
+    "dataList[id=14].content": {
+      "pl": "Sądząc po materiale, powstał stosunkowo niedawno.",
+      "kr_sha256": "10639c4599cf1b0ffe6a0a7d29c30357ca64cda9bc09bf186116c5770ef287a7",
+      "en_sha256": "45247e29006f7de68fb6dd144a2864312e8f6303b38bfe9f6a4a61b0d8120790"
+    },
+    "dataList[id=15].content": {
+      "pl": "Zapewne zbudowali go wysłannicy N Corp., kiedy zajęli to miejsce.",
+      "kr_sha256": "96c85a25152c2c767e7164fe8b05df7883d639741b9d6886e19e2034c2b007f8",
+      "en_sha256": "954d747148a84a15e492d8b76a48cecce010d9124b0cc4656b27f78721c7ae5d"
+    },
+    "dataList[id=16].content": {
+      "pl": "To nie będzie krótka droga. Skoro to tunel tylko dla nich, zapewne spotkamy po drodze wrogów.",
+      "kr_sha256": "8ffdeec5ccc8e7c3c41092f7f38fda69f3e40e40aff57a081d909a901e26fceb",
+      "en_sha256": "ba55ff9ed6e677d8a219d21c0ec312ded04f67575434b511612f63e3f61dea92"
+    },
+    "dataList[id=17].content": {
+      "pl": "…Kiedy będziemy gotowi, ruszajmy.",
+      "kr_sha256": "a7c8738399f14730fcb35b25585740de17786daec1b2177b525afe75b851a190",
+      "en_sha256": "0548a05e3458db0cc8a9a4fad7896cce548497dc00dba6b54177f0e17295aa16"
+    },
+    "dataList[id=18].content": {
+      "pl": "<…>",
+      "kr_sha256": "4259dcf0771baa1d2c535638170ab522bac0f0be503ad4259f3f0d20651a38ea",
+      "en_sha256": "67edbf55a8ee9ed08fa013c521ca911941e46de6461565aeb03d4d8895d469ae"
+    },
+    "dataList[id=19].content": {
+      "pl": "Proszę tak na mnie nie patrzeć, Dante.",
+      "kr_sha256": "a45b3e14ed785d09b83f4aafbd1a636af31109a4ca3a7f747fb67fa2ab5f06c4",
+      "en_sha256": "d176762e59f6d947825a6efb10b4cdd0b4335279fc771dafe2922cac81f3031c"
+    },
+    "dataList[id=1].content": {
+      "pl": "Kiedy otworzył drzwi piwnicy…",
+      "kr_sha256": "c6c6acecb26fbbcd8e64a368ba4893d39b862ac4d571142dcc01b50044b8794b",
+      "en_sha256": "36e460ff669e4fa65800404d7e19ac32165fd19f48070d2759ed52fa4fabae48"
+    },
+    "dataList[id=20].content": {
+      "pl": "…Po prostu nie wolno mi nic powiedzieć.",
+      "kr_sha256": "e261ce2a0b97fd47b0851ae2f0e7e1be9ee66b349031a68ccae196a2f7e6bf9a",
+      "en_sha256": "babb605c937b10e8b2d11e8ea872ff68c365872ab069573fee8cf64bb16fde6a"
+    },
+    "dataList[id=2].content": {
+      "pl": "ukazał się długi podziemny tunel, który prowadził nie wiadomo dokąd.",
+      "kr_sha256": "dcb06eff75ede811e173c1d376d4782ab345f347dc42f92b11cfffcb89acc20b",
+      "en_sha256": "c70a9de79f633f357cda3c8c944546266dd05d24c41ca03643c1d5af94c0147a"
+    },
+    "dataList[id=3].content": {
+      "pl": "<Tunel w takim miejscu…>",
+      "kr_sha256": "e0aa4ff2de8e76b994e8636bbb1c74275154c611327bd777b2e4980a5fc1f696",
+      "en_sha256": "f6276d812d62ce123155224ff3e6e2bd18bfe65d0800b6cfb6cf243023a01bd8"
+    },
+    "dataList[id=4].content": {
+      "pl": "Jeśli… dobrze się domyślam, ten tunel prowadzi do filii Lobotomy.",
+      "kr_sha256": "2a4f8ca3dfd08239c0880dfe2afabca78449130c7263962b0fcd38a0dd7e4408",
+      "en_sha256": "975234f4d8e3f3b741cc75b97b02a4b6236ad5335b8fd177e6248a8c8a1c1ea1"
+    },
+    "dataList[id=5].content": {
+      "pl": "Po jaką cholerę macie w piwnicy taki podejrzany tunel?",
+      "kr_sha256": "51cbb4a1f327762a8352d84cab2d4b47912b669a91d72d8006abb5eff3b6b8c6",
+      "en_sha256": "03c582221c7276c1ff3b2ffadf68c09bdc00417608badb74d7a3578fa082ca9a"
+    },
+    "dataList[id=6].content": {
+      "pl": "Wcześniej go nie było.",
+      "kr_sha256": "51983f52c3868265e0d1fef8e9f6ce5b3a191dda102b4ea8679e47e0db345c86",
+      "en_sha256": "0ec594618bc4e64c7ca239d9709c75bb5a3915e68c0cae5ca311663b86e429c9"
+    },
+    "dataList[id=7].content": {
+      "pl": "Co? To skąd wiedziałeś, żeby nas prowadzić do piwnicy?",
+      "kr_sha256": "f2083cd90c6cb33aaf27dc807fdeef1bc51cdb5d7151bf124dddb9634494e0e3",
+      "en_sha256": "c99308713110b0919cb074db53e04d85d9d2a34e69ada6c4184e91c54ce2c8a7"
+    },
+    "dataList[id=8].content": {
+      "pl": "Tak jak igłę kompasu ciągnie na północ… po prostu to wyczułem.",
+      "kr_sha256": "9e9d71e03c5de50d731f2a5e9b583c14bcd8b46f76a67d3f23eddb5b5c518ae5",
+      "en_sha256": "4e7143409db8d1a7295e97e80ca9046e709fe38c4c7255ccb3e3d491c359406a"
+    },
+    "dataList[id=9].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    }
+  }
+}

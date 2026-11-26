@@ -1,0 +1,309 @@
+{
+  "entries": {
+    "dataList[#0].content": {
+      "pl": "Hej, a nie za kupą tu włazicie? Sklepik i tak ciasny, że ino się obrócić…",
+      "kr_sha256": "b7a7629486ebdb1d522d9fc64b8028bbbf91585127468da5f2fb9a50d5cac4b2",
+      "en_sha256": "8c7d4de8a401b13032664acd3717bb1e58ab047045fa139033c814c3a8437b3f"
+    },
+    "dataList[#10].content": {
+      "pl": "Rany, twoim przeznaczeniem było beztroskie próżnowanie w bogatym domu. Muszę się pomodlić, żeby w następnym życiu trafiło mi się takie samo.",
+      "kr_sha256": "493d919493db1ffd23fe693085d98da1c22065ea36bee31907a0959e990b6d8e",
+      "en_sha256": "39bba994d4bdd20708a45058f30b0084ea8d49e7e5ea5eae6fc13fee39a11c4b"
+    },
+    "dataList[#11].content": {
+      "pl": "Ja dziękuję. Tacy paniczykowie, jak się bliżej przyjrzeć, bawią się najpodlej.",
+      "kr_sha256": "c35bff8fa111d0b9789979dbfffec4f4acd428da357d4259246936d32c7af139",
+      "en_sha256": "fdad663482e82d0f17a4201b9fa96fd0fd02015b5d23467372f3c1c398298a62"
+    },
+    "dataList[#12].content": {
+      "pl": "Może i tak. Ja też chyba od dziecka nie lubiłem się bawić z młodszym bratem. Ciągle oszukiwał i robił na złość.",
+      "kr_sha256": "0f7629f909c74f7e56780d4281bb7e178583b4efea41272b2cb6990b23030566",
+      "en_sha256": "1b0d5315dabf686456769bfb4cf38e741cfe78399e68ef150a45c5684b2245da"
+    },
+    "dataList[#13].content": {
+      "pl": "Nie, nie o to mi chodziło!",
+      "kr_sha256": "2f766b31ac71abe314e28dfc88b334852610d65d11716b50134cd4db24e02654",
+      "en_sha256": "afd97f23d118341d9365f4a55d3c9fe469a132a9b6e39522e8c8f9072877b87e"
+    },
+    "dataList[#14].content": {
+      "pl": "To jak, wróżymy czy nie?",
+      "kr_sha256": "75eaea0f2fa5dd5c40640c9582c2ba1442cc637a8d80f8047591c9bbaabc056e",
+      "en_sha256": "45af087668abd82f7e592da4e126cd57b2333acf120a4595406b1e2ff6c66503"
+    },
+    "dataList[#15].content": {
+      "pl": "Ino… macie wy tera w ogóle co dać pod zastaw? Bo z wyglądu to wszyscy jacyś…",
+      "kr_sha256": "7b085ff7e82f34b6a82007ffbff3bec7dc639d787293dd9950fb2e03001cbc55",
+      "en_sha256": "5d2217ec0b088f9f72aee20448662022c42c2f863294ac69d65a524ec5ac9093"
+    },
+    "dataList[#16].content": {
+      "pl": "Właściciel lombardu z powątpiewaniem przesuwał wzrokiem po kolejnych Grzesznikach, aż zatrzymał się na mnie.",
+      "kr_sha256": "81922cc6c3fc6a828dfe2eb793ea0a7a50673557d0b94db4c2d6072b4b4bc618",
+      "en_sha256": "da709a8e620142e6766ffa1683e0013983c278efcddc7d968b1fa9cc443060e3"
+    },
+    "dataList[#17].content": {
+      "pl": "Oho… Ten tu zegarowy łeb to by coś był wart.",
+      "kr_sha256": "658ebda980186e8a5cafdbfa29e872f263d4bb938da5c3369953f5672ab9b9e4",
+      "en_sha256": "ab188361525ec82ba79a0ffbb91f8bbb94638d06dec7e65738dc441ce615edef"
+    },
+    "dataList[#18].content": {
+      "pl": "A ile byś za niego dał, dziadku?",
+      "kr_sha256": "c7b0af84018046c8422581308e3acc6062b6dd5ea85d1c403b10acc07fdab26c",
+      "en_sha256": "5ce293e4ad665788b8ce9525b4b0a39da9e7054063b7ce2b3efefe7cec33feac"
+    },
+    "dataList[#19].content": {
+      "pl": "<Rodia… Po co pytasz o cenę…>",
+      "kr_sha256": "25c07f39f267d3df8fbe5482626b1663988d9779e3af2bca7c7f8167feb38e6a",
+      "en_sha256": "4c3e5e29e257d7bf5102d28dd61d88aa545d198ddac51861eef363b30aa1a54d"
+    },
+    "dataList[#1].content": {
+      "pl": "To jak, wróżymy z kart czy z kostek madżonga?",
+      "kr_sha256": "04056a351ad86db9bfa588bef8dc7b9148863eef5849c9d218b5ea42297d2740",
+      "en_sha256": "0736e8438a3cbd807af34959c15ff001b94642fe8703c88a11ae7d78b7b71e9d"
+    },
+    "dataList[#20].content": {
+      "pl": "Nie wiem, czy pana uprzedzono, ale jesteśmy z Limbus Company i…",
+      "kr_sha256": "78594b2f7ee56ad6f2754d3547b6960f18bbd3aa4bd2beed2937b66facfa2b64",
+      "en_sha256": "22169da21ce167dfc61538cc2adb1545af28aca1af483df9241fd5065296b1de"
+    },
+    "dataList[#21].content": {
+      "pl": "Niestety ani Grzesznicy, ani nawet właściciel lombardu nie słuchają, co mówi Faust.",
+      "kr_sha256": "e6305886de6ae6aaf74e9f5f77f3580021349232ffa2f38aa672ce1357a66a5f",
+      "en_sha256": "d86a586a5f933ca0fd5f49acfe72d9233e7ec44973c2f9219c2577b948e8fa3c"
+    },
+    "dataList[#22].content": {
+      "pl": "Ach, tę chusteczkę zabrałem, kiedy wychodziłem z domu…",
+      "kr_sha256": "43bfca787fc75500363c494606a99d1cbffe1286fe25bf267c8413b1ae8f1592",
+      "en_sha256": "8f3123f6a07c4e9fafb40bcc91baf2039e5702b64ca2c12e0364f8be44aae8b7"
+    },
+    "dataList[#23].content": {
+      "pl": "Oho… Jedwab, a na nim smok wyhaftowany. Ścieg staranny, toż to będzie… siedem milionów… ahn?",
+      "kr_sha256": "d269f6607b201676a882d607db42e14672b76d391eba0019d12d8b5fc4053b93",
+      "en_sha256": "9a56accd3b9a7c4fb914c7b6165f53691e6fd1452c376ea719394eccd6f87b8a"
+    },
+    "dataList[#24].content": {
+      "pl": "Taki kawałek szmaty tyle kosztuje?! Oczy ci zgniły, dziadu?!",
+      "kr_sha256": "e08615d4538ed1f3eb092e30431eac99705c6ab3b622b16a8283e8094ff2d811",
+      "en_sha256": "3b602e3120f0db59d0290804e377fece52732826e60f7658e920354435af816c"
+    },
+    "dataList[#25].content": {
+      "pl": "Co? Takiego cacka nie poznać… Ech, z takim złomem na palcu to nic dziwnego… Tsk, tsk.",
+      "kr_sha256": "aa15a6ea15ea995d381dce0cd8cb2adfb02062e99e2f18ec27280a934f005c2e",
+      "en_sha256": "65306caff667516289aaa3a7757e6bcb327c44d2251c91d1e39a3cd06793e868"
+    },
+    "dataList[#26].content": {
+      "pl": "…Coś ty powiedział?",
+      "kr_sha256": "751281679d9d4b0bba2cfa08c098fbc6438dcea13c390b6ce2a953a807a47faa",
+      "en_sha256": "d278aa773f2c18a73440395f22fd448a498c5a0c4c070170ff8ae8e2d1026dfb"
+    },
+    "dataList[#27].content": {
+      "pl": "Aj, ale hałas! Dante~ Ucisz ich jakoś~",
+      "kr_sha256": "fc9a529a0148501cdd95cc21f6a76a037092596201873dc953be100fa405b8c0",
+      "en_sha256": "62c44b1f2a0d1b3b13d4a22c668ba14932facb20a206890d9773e5907b6ec7de"
+    },
+    "dataList[#28].content": {
+      "pl": "Martwiłam się, Faust.",
+      "kr_sha256": "3b9bc926ffe8c0acf067186d99c99a3d04581c71788a211217bf37fb94a9198d",
+      "en_sha256": "5d072fa297930185d4df0e1c16ed748d067dca65192adbc0d617d2d552b33cdd"
+    },
+    "dataList[#29].content": {
+      "pl": "Wśród harmidru, w jaki zamienił się lombard, rozległ się słodki, nad wyraz uprzejmy głos.",
+      "kr_sha256": "c11c7c20b50e6888784f830d81da5bbb7718af18a02e3068f3c373688cc7840c",
+      "en_sha256": "a2a123ecc5351f930001a125e841809273a2763c2995ce5f4c6199306929e018"
+    },
+    "dataList[#2].content": {
+      "pl": "Ledwie weszliśmy do środka, powitało nas burkliwe pozdrowienie staruszka, który wyglądał na właściciela lombardu.",
+      "kr_sha256": "6d219aa4cdd38c420ecf127244d1aa6ecc1325d2be8fc683c32103bcf64b3256",
+      "en_sha256": "b5d91eca1594964029a8400d5c4b7e9adeb3286f4eab106e7bd3904b94df82ed"
+    },
+    "dataList[#30].content": {
+      "pl": "Byliśmy umówieni na czwartą, a minął już kwadrans. Przecież nie zapomniała pani, jak się odczytuje godzinę z zegara, prawda?",
+      "kr_sha256": "8ca67b259299d402233c7e657eab15023dd949dd5c9947570ebd5af0233a8c80",
+      "en_sha256": "5ddcc91796bb40241e2f1851459e45486fb3c5e0b46fe4385d3c7dc9ef574a41"
+    },
+    "dataList[#31].content": {
+      "pl": "Nie zapomniałam. To po prostu nie ja prowadziłam autobus.",
+      "kr_sha256": "85a006251991f00364c49e07a7d07391784e680d2c624dd32e329277b46e8a7b",
+      "en_sha256": "a0b3699bd1c05c0e44cf89164c986155b085530fe2f18e36771c1a37533ee8ab"
+    },
+    "dataList[#32].content": {
+      "pl": "Aha, to dlatego wozicie ze sobą nawet takiego człowieka-zegar? Budzika to on chyba nie ma, co?",
+      "kr_sha256": "cce7629f01890bb30d1f9c1b645b111344d5a04ed81258d601c50748752aa61e",
+      "en_sha256": "f8e2d35cfa78a0b33244e9ee6d5895696b5d9475dde3edf9f3e849e4f022c806"
+    },
+    "dataList[#33].content": {
+      "pl": "Zaraz potem rozległ się drugi głos, który nie zadawał sobie nawet trudu, by ukryć pogardę.",
+      "kr_sha256": "fe68f52ec7e3c549be47168d476d78433f0adff960f80a6c8cef8b36da79dc72",
+      "en_sha256": "d4e165873c8bed81f32bc9cad996cc6aa99a2e67a247958adbbf360b7f006911"
+    },
+    "dataList[#34].content": {
+      "pl": "<Ej, to już przesada. Dopiero się poznaliśmy…>",
+      "kr_sha256": "410cfa6ad48c02cf5ca4fab0cea05c70a32b754223cf162192fd525175ed8531",
+      "en_sha256": "6a6ed872d547e2579032b12bb2a7eea36915cb79fc269ebe81217246d34992f7"
+    },
+    "dataList[#35].content": {
+      "pl": "Wiem, że poza Grzesznikami nikt mnie nie słyszy, a mimo to za każdym razem, gdy ktoś jest niegrzeczny, gotuje się we mnie.",
+      "kr_sha256": "fb7e1646da252e10941e87548f5e2dce27af3fab9ab2fda876949ce359e584a7",
+      "en_sha256": "97f96dfc1148b60ad70a5537a4fbab387f6e822950329368df6222a520cf5eab"
+    },
+    "dataList[#36].content": {
+      "pl": "A, to wy? Te dzieciaki, co spaprały odbijanie Złotej Gałęzi.",
+      "kr_sha256": "5ba6034e4f5bf28de669a4f6ca318b45c80b8ff27acbb2224e077d831b04c401",
+      "en_sha256": "8c98f4cce3245d94ddd1c2c0364945d3d2a5abc0b146313b3014988d3b856f6a"
+    },
+    "dataList[#37].content": {
+      "pl": "Mówili, że macie w drużynie jednego z najwybitniejszych geniuszy w Mieście, więc wszyscy wiele sobie po was obiecywali.",
+      "kr_sha256": "bd5c66d952eb1bbcd8142609363b564cac5f9320cb85b639770041c206b60973",
+      "en_sha256": "4cc7e662f576b694089126268656d48b682c9942dd7557d5e58a93c2b03e6c77"
+    },
+    "dataList[#38].content": {
+      "pl": "Nic dziwnego… Faust od początku miała jakąś nietęgą minę.",
+      "kr_sha256": "acc83f4c4950e71bdcaa1fa2a6ba1edeb087a065d7f203646335e1a7118a8760",
+      "en_sha256": "b89ce3bf7ecc2dcf6e6a7e9078df78e0585960d9b85fa9db4b86315cd673c80b"
+    },
+    "dataList[#39].content": {
+      "pl": "Moja mina jest zawsze taka sama.",
+      "kr_sha256": "990aeace65fd66ac466bfbfcfb544d409e99bafc5b98de7432e42ac20fde7007",
+      "en_sha256": "003d9a86331541c95dfa35c26f7178d04fd8c938b4078e1206786dff90fb627c"
+    },
+    "dataList[#3].content": {
+      "pl": "Co on gada?",
+      "kr_sha256": "07de94d64f48ce3c749d1cba147943d6244ed5d1942e31ea598cc1a61321a14d",
+      "en_sha256": "93b2bda5ad26d908205fd51ae00b7c94220240c68c7f6d11bbfa662e6288a2ff"
+    },
+    "dataList[#40].content": {
+      "pl": "Ej, a ty czego siedzisz cicho? Ten tu też jest z tych mózgowców, żebyście wiedzieli. Nie lekceważcie nas.",
+      "kr_sha256": "6408eaef62ff4525b9feffaa764416fce4611c4ed761e51767c2246d7c07253a",
+      "en_sha256": "d69465eb4749941f04df65ba1e3cd42692751ede5e60c4259e9d117c183479db"
+    },
+    "dataList[#41].content": {
+      "pl": "Heathcliff wskazał Yi Sanga kątem oka, ale sam Yi Sang przyjął to obojętnie.",
+      "kr_sha256": "954d451d361e257c0c7432e53e5730a866cc1e0ff0f2efc0f90ab24af50b62f2",
+      "en_sha256": "464cac92b7bbd6cc12ebd40690837bb86439a3574c6a02234ebc46de1a7d4389"
+    },
+    "dataList[#42].content": {
+      "pl": "Albowiem to przechwałki bez znaczenia.",
+      "kr_sha256": "d2965d92f24c03da87c107335ecdd37acf7693aa1494ad0995b18c099b0e9e50",
+      "en_sha256": "aab4e9984b30ed2724a372ac9d2d7c3177752f85373e104a5caaf5b9865dbf8e"
+    },
+    "dataList[#43].content": {
+      "pl": "Przecież w tym podziemiu gadałeś jak najęty. Czemu znowu zrobiłeś się taki dziwny?",
+      "kr_sha256": "0fbe176b080c0d078498ce2691277fbe590d46f7f44c8af8d80302e88cb0bca8",
+      "en_sha256": "ad210a7de018025b739745a448a8adf07b9b6bf1bf812b7d240773730ca63974"
+    },
+    "dataList[#44].content": {
+      "pl": "Zawsze taki byłem. To cały Yi Sang.",
+      "kr_sha256": "4369908e1b1ef22fd1f6b7edb40ce93de0ea4f2b11f8b52980dbfca015526e46",
+      "en_sha256": "1c2953865966f0d9adb698ec8b2d023c2658362656e9914040fc7289566cabd5"
+    },
+    "dataList[#45].content": {
+      "pl": "Ty… Ech. Dobra, nieważne.",
+      "kr_sha256": "83db5b040c2a38b80835c24d59b948511ae19a80a5d8ca7c29352b49c57a782f",
+      "en_sha256": "f05aa706acdca41516506a2b035e269640917b4039cee785850411528c094b54"
+    },
+    "dataList[#46].content": {
+      "pl": "Pierwsze zadanie od początku zakładało porażkę.",
+      "kr_sha256": "cf12aa5571c242ca7628383dd654a4ce9e06b76ecd5080a3507ad8cae74547c3",
+      "en_sha256": "091161416b8d661de30774ed72f4c420ebbe2a1822aa45cfc881fc054fa5667f"
+    },
+    "dataList[#47].content": {
+      "pl": "Potrzebowaliśmy czasu, żeby sprawdzić, na co stać każdego z osobna.",
+      "kr_sha256": "ec8528cfba298ea2b92e3334c4fa6298ddf4d7eec77678b030bdfee330ad3a48",
+      "en_sha256": "a3beb6f9abf60c00e64cecbbb40108d6f8706411d5ee4cf94468d411d58e5956"
+    },
+    "dataList[#48].content": {
+      "pl": "…Tak to było?",
+      "kr_sha256": "1b03fdb605fe55e531a4e98ecf55343657a7c0e4e081c901b8be7024a39e3f8b",
+      "en_sha256": "a1517ffd39b9aeecba6873deea48e8483eb489f999b405d50d39629ed3765c6e"
+    },
+    "dataList[#49].content": {
+      "pl": "Operacja, której celem od początku jest porażka? Trudno to w ogóle nazwać operacją.",
+      "kr_sha256": "02288674fefb12a995bc45277028a1cc3883fe8fabf2613898e25717608ba08d",
+      "en_sha256": "37beff626e7acf4c031eea4e015fbceb97244036e23b2942676f4b8d644778ff"
+    },
+    "dataList[#4].content": {
+      "pl": "…Tylko ja przeczytałam przewodnik po J Corp.? Pan Vergilius przecież kazał wszystkim go przejrzeć przed wyjazdem.",
+      "kr_sha256": "eba7205b2e435ca07eb277647d266e3e08811cb533b7544c36ec6cad26b20bd3",
+      "en_sha256": "6d54136b887e7879f5a4ac3eb6731a6a2515afd5909b6404dcacb528228c1e40"
+    },
+    "dataList[#50].content": {
+      "pl": "A gdzie jest pan Vergilius? Zgodziłam się dołączyć do operacji tylko dlatego, że liczyłam, że chociaż go zobaczę.",
+      "kr_sha256": "3da67cfaf376d0ffa043e0c478637311c2a08ae7383bbe4ed124b67193fa751b",
+      "en_sha256": "b49ee324c67f933de09e9b1734bff98c9a9171aff26aa1ec8aa2b6ab3fb192f5"
+    },
+    "dataList[#51].content": {
+      "pl": "Pewnie też się wstydził. Wyobraź sobie, że musisz się pokazywać z takimi.",
+      "kr_sha256": "e5bd4e7da94920a880d5b8c7d16fa28fcdbc83b4ed75f65a62b18f419b022054",
+      "en_sha256": "94395cb721b57bafa3f338fdcdc71ccf9cc2c5b25ac66bcb7fb101cdf552a6ab"
+    },
+    "dataList[#52].content": {
+      "pl": "Kh… Ten gnój specjalnie wysadził nas tak daleko? Bo się nas wstydził?!",
+      "kr_sha256": "2c70b9600d9b133b72da3334ba8b0fe92079036e374aaac21a216028d40a2cba",
+      "en_sha256": "7e893fe92894b89d43ac34ea472e1c48b8ff54646d8c5fe3b3a194f93af6a362"
+    },
+    "dataList[#53].content": {
+      "pl": "…Czemu nikt nie protestuje, kiedy nas obrażają?",
+      "kr_sha256": "f2e8693fb73fdfaa515a21d7d69c22996bd3bd88651caf9b3e92f3c387b88a13",
+      "en_sha256": "bf1410d638cf059b20a4138aad990cffc1b3dd86682c2cd3ca3b94ee79bf64da"
+    },
+    "dataList[#54].content": {
+      "pl": "A w ogóle, nikt państwa nie uczył, że przechwałki i zadzieranie nosa mają sens dopiero wtedy, kiedy się człowiek najpierw przedstawi?",
+      "kr_sha256": "cd78ad9ebe431c226aa066a8e574da81bd9abae1fa21c435fb6edc2574ce5003",
+      "en_sha256": "ee8352fe5c9212f7daa56c5331f95ee2a86cb94b21c0ad3ea0ccaeecb2dcf6a2"
+    },
+    "dataList[#55].content": {
+      "pl": "To nasi partnerzy we wspólnej operacji. Przybyli z Działu Sprzątania Limbus Company, LCC.",
+      "kr_sha256": "bbeb13dbf377cfe2f0eeabeb36f86baaa6338f44d57de02911b2d011ce16f5a7",
+      "en_sha256": "89f5829642db44aa24dd55d92fc6257a8f28417d1da66e4772c4a9bc267b32ee"
+    },
+    "dataList[#56].content": {
+      "pl": "Proszę dodać jeszcze ‘zespół Before’. Ach, ja jestem Saude, a to Effie, o tak.",
+      "kr_sha256": "4685655b5d76762c8285f310cf1455365f6117b45f0f1df223c4b709f35c8516",
+      "en_sha256": "41dc18eb3943ff046de36a61154b59fe620443cbcb86f0b418bdf91840f17e1e"
+    },
+    "dataList[#57].content": {
+      "pl": "Co, mamy wam jeszcze bić brawo, czy…",
+      "kr_sha256": "5b9b079679720564b891d274dff1f46e1d2a5c0d65b67e37eb27c63aa7b5dc3d",
+      "en_sha256": "af5b260ffdc93255e95a0da22bc0f2c06047609ed885a53e1cd94cf22e4c322b"
+    },
+    "dataList[#58].content": {
+      "pl": "Och! Miło mi państwa poznać!",
+      "kr_sha256": "b7d17cd95137a50f7bdf967d12d4605657dfe058ba14d8c0e8fd38869c2bf21b",
+      "en_sha256": "029fb85bd65dff6c65b6a6c276e2eb05fcb64cf5561bead08e0a87d06050c8d1"
+    },
+    "dataList[#59].content": {
+      "pl": "Tylko Hong Lu powitał ich ze szczerą radością (właściwie o mało nie zaczął klaskać),",
+      "kr_sha256": "e8b4ab0239bda2b86e793f59fb07aa6ff9be59d2eef655ab046e7140ae2c0abc",
+      "en_sha256": "55bfd0a1fef84506699b3a1f5daf2f3468b484710558a2332e0269c94f437663"
+    },
+    "dataList[#5].content": {
+      "pl": "No, okładkę to chyba widziałem…",
+      "kr_sha256": "b6241271397cc3f16335b70788342c1d690f0c2dff4403d781d6462e7939dfdd",
+      "en_sha256": "73cdc1d905dc15e3d351a0bc6b5046c37f1eac65a8ce4353ffc0da493fb09306"
+    },
+    "dataList[#60].content": {
+      "pl": "a reszta zakończyła prezentację, mierząc ich wzrokiem w połowie lodowatym, w połowie czujnym.",
+      "kr_sha256": "1c0515e8779128179a9e3c6846376b32d9c467770ba1e5565f4998a64227a692",
+      "en_sha256": "40464849d5e0bdc9d8746ce523542d3907562ed7c738c112c974275a51e918a8"
+    },
+    "dataList[#6].content": {
+      "pl": "Tutaj to, ile ci zapłacą, zależy od tego, jakie masz danego dnia szczęście.",
+      "kr_sha256": "404a963ab8ca0ee0d8d6db676265288779987364bff126ee2ef2be797f62af2f",
+      "en_sha256": "3a3c7e201bf04884b20fc8afecc0bc99b55a18637420ad9d21ce522aaaffe349"
+    },
+    "dataList[#7].content": {
+      "pl": "Jak wyjdzie wielka pomyślność, dostaniesz więcej, ale im bliżej nieszczęścia, tym mniej, czasem nawet nie tyle, ile rzecz jest warta.",
+      "kr_sha256": "04ab58e71a0b9422d81de24b1d53eda569599e010fa6f01d179b927a16f2e630",
+      "en_sha256": "2ae9841edebc6dd775de4342fcb5d385907448f48163fb21977afd0080560625"
+    },
+    "dataList[#8].content": {
+      "pl": "Ach~ U nas w domu zatrudniano nawet na stałe wróżbitów.",
+      "kr_sha256": "0897c54924e7df39a3c635500f78f699e12a88935fbcf1a988b7ed4e8b0ad403",
+      "en_sha256": "58b7de028316d9fa6eb12144f5d88bb7bdb32d2bc43e4a5c5c4ab262509a26f4"
+    },
+    "dataList[#9].content": {
+      "pl": "Tuż przed wyjściem z domu wylosowałem wielką pomyślność. Pewnie zapowiadała, że wszyscy się tak spotkamy.",
+      "kr_sha256": "815339cca3ffc64d1709f993474993dd3f567a6abe3248c29ebd10b417d1f912",
+      "en_sha256": "faed0f3945c9a43272b20a5e344153c61a5d337b6e0a88225d9c3048c1027973"
+    }
+  }
+}
