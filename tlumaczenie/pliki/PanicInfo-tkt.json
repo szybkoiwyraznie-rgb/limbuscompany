@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1024].lowMoraleDescription": {
+      "pl": "Zyskaj 1 [Vulnerable]. Przy otrzymaniu trafienia zyskaj +1 Licznika [Vibration] (maks. 3 razy)",
+      "kr_sha256": "6d7e574a301293b19c984e99c4d2c93565c505351bc1b7518d51fd1465c8f9e8",
+      "en_sha256": "a8362088b1c50ae5dd8295fab3b039f0ec580446c0477b3f8994bbe7bd681ef4",
+      "origin": "ai"
+    },
+    "dataList[id=1024].panicDescription": {
+      "pl": "Zyskaj 2 [Vulnerable]. Przy otrzymaniu trafienia zyskaj +2 Licznika [Vibration] (maks. 3 razy)",
+      "kr_sha256": "bfcd98d3eb31dd52fd5225ba400aef7337edf6469535dd539ca9c2d86c92aef8",
+      "en_sha256": "43a1e64a89921e674d965cf42a8669ba28d3e51d5185e2a3e5cd56345a510a3a",
+      "origin": "ai"
+    },
+    "dataList[id=1024].panicName": {
+      "pl": "Złamana Jedność",
+      "kr_sha256": "66c9c6c5c940bf5c6edcd3df0e86ceeb1552acb81d0e20975b1f5fe911c4615c",
+      "en_sha256": "ea811d8cae77a188dbe2fab806b239cab13c45eb858039be185508e58040a9cd",
+      "origin": "ai"
+    }
+  }
+}

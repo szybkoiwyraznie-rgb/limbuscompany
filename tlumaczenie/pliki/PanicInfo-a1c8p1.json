@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1040].lowMoraleDescription": {
+      "pl": "Otrzymywane obrażenia od Ataków Jednostronnych +10%; obrażenia Kontrataków +30%",
+      "kr_sha256": "5e0cb1da2600433c51b5b5319637300e668b6944879586af660daccfb06ee632",
+      "en_sha256": "a964c9ea752dd4e435c501c6be6f8ccede66660ef6cea91491fe4269fa4bb69b",
+      "origin": "ai"
+    },
+    "dataList[id=1040].panicDescription": {
+      "pl": "Otrzymywane obrażenia od Ataków Jednostronnych +20%; obrażenia Kontrataków +50%",
+      "kr_sha256": "fd2fdd5f63836804526f9197e6d9da311f5406fdbee894964a045550e1729789",
+      "en_sha256": "a2b573dde00f276adac8fbb605e8c6e1e84ef4f2173eb4d847c103c2a909b384",
+      "origin": "ai"
+    },
+    "dataList[id=1040].panicName": {
+      "pl": "Podao",
+      "kr_sha256": "8c251f31e47683a8826b2de7699a12c7560128e9eb2bfbccbbccf3ed40624950",
+      "en_sha256": "deef59450088d437e8d761567cc979d0bc08f1f29cdb061a56abf54d44a3ebef",
+      "origin": "ai"
+    }
+  }
+}

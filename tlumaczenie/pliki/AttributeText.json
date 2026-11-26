@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=AMBER].name": {
+      "pl": "Lenistwo",
+      "kr_sha256": "b48b5dcf7e3309ac358455925042097bc209299b16c26c4bc2f11065fdb872d4",
+      "en_sha256": "275fae28d97c7e7951635077b47188276fa6561e9079d71ceaa78b56c90d9ce2",
+      "origin": "ai"
+    },
+    "dataList[id=AZURE].name": {
+      "pl": "Posępność",
+      "kr_sha256": "f524b0c43df5387c3c69dd533faca2b96c02421d1d928b2ba9a6fa80c5bd26ec",
+      "en_sha256": "70c970f3ebda575285c1ae235975918d2c5dd74a2e870275e3af92a590569178",
+      "origin": "ai"
+    },
+    "dataList[id=BLACK].name": {
+      "pl": "Trwoga",
+      "kr_sha256": "9dd15fd6ee8d20b219a2d6e936552f26e63e6f153dcdaff24361d2fd635df3a7",
+      "en_sha256": "277e708d34a620935d78c7e1fe0df063d5e35f2c705a9a093d2ad742a701b56d",
+      "origin": "ai"
+    },
+    "dataList[id=CRIMSON].name": {
+      "pl": "Gniew",
+      "kr_sha256": "5a90f06f273092fc4e707dda4f38dafc5dc84f8f524b5c8c23612a00daf647d1",
+      "en_sha256": "119acf47524fde99876be2236aa55b13ce5e36be2bf7c17371714763659e050d",
+      "origin": "ai"
+    },
+    "dataList[id=INDIGO].name": {
+      "pl": "Pycha",
+      "kr_sha256": "f698713f45091726685fd217caeebf0c3d8e919bb24bce1ed93130ef8adbe8f5",
+      "en_sha256": "8c574c9b9ad6fe8745c3a26d9cc3e3026100cfc4cb33ae11f75b174009b27b2d",
+      "origin": "ai"
+    },
+    "dataList[id=SCARLET].name": {
+      "pl": "Żądza",
+      "kr_sha256": "b1cc04a93f474f4111fa5dacfdb399cb468e7b4160663707734cc165ada276fd",
+      "en_sha256": "73513993ecea1e323ad74e1904cef2c1dea9fdd03f4818e8c3a5e8af340fb193",
+      "origin": "ai"
+    },
+    "dataList[id=SHAMROCK].name": {
+      "pl": "Obżar.",
+      "kr_sha256": "02048b43cf844464944366b1f954909c4709f4d50b544bbf23802a055a6b1f18",
+      "en_sha256": "a8628e5a2d3bd2f99b473fdd0d9aea18f8b514adb526942da0c6d0878f4a8017",
+      "origin": "ai"
+    },
+    "dataList[id=VIOLET].name": {
+      "pl": "Zawiść",
+      "kr_sha256": "0d2e004c2fa7b771791e4b247fae4269a04349856d7856ab1802fab46ee95c3c",
+      "en_sha256": "65535c95e4b6c6021bf14a1749513d885fbb3b524855b2f0cba22d85d8aa6046",
+      "origin": "ai"
+    },
+    "dataList[id=WHITE].name": {
+      "pl": "Szaleń.",
+      "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
+      "en_sha256": "4b915897417ee5da0b6bb57d72f0fb06fad25bf3cbc9128d1a50d925c22db59d",
+      "origin": "ai"
+    }
+  }
+}

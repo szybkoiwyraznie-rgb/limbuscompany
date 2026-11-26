@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=1029].lowMoraleDescription": {
+      "pl": "Koniec Tury: zyskaj 1 [Vulnerable] i 1 [MentalIncreaseDown] w następnej turze",
+      "kr_sha256": "009e5ce430ad3020255f0370ada570c680e5830fc43b6cea1565ddb7a9cd065c",
+      "en_sha256": "0c1f7acd27d208a5b843a3d723de5a4660e0f1e998e47a1aaf5c0c211035b9f9",
+      "origin": "ai"
+    },
+    "dataList[id=1029].panicDescription": {
+      "pl": "Koniec Tury: zyskaj 2 [Vulnerable] i 2 [MentalIncreaseDown] w następnej turze.",
+      "kr_sha256": "fb279d41b9c39866bffa3e36ff54894b960b61651d2249023529ec7f43951ae7",
+      "en_sha256": "7bfcc71566c3dc5b3743ac0100cec40a88591fe644d01d5220b50f818850b9f4",
+      "origin": "ai"
+    },
+    "dataList[id=1029].panicName": {
+      "pl": "Wyrzuty Sumienia",
+      "kr_sha256": "184e0c9c5104878691c80ad8a34a0ba7d00a43406b9ebc61062f2e366f0f617f",
+      "en_sha256": "c831578aec5635b68f0c4e82506d8278c86f2b3a37e55d7df60ff663ae4313a2",
+      "origin": "ai"
+    },
+    "dataList[id=1031].lowMoraleDescription": {
+      "pl": "Przeciw celom bez [Laceration]: Moc Starcia -1; Przy Trafieniu: ulecz PŻ równe Sile [Laceration] na celu",
+      "kr_sha256": "7c50faaac6cfb30ddac80e62ee2e8e6e0830c63159192f44d2cfb506056fcbca",
+      "en_sha256": "53a86e1659609bb3f9f625408102d61cbbbe7ed062ad59f08427a3336994810a",
+      "origin": "ai"
+    },
+    "dataList[id=1031].panicDescription": {
+      "pl": "Przeciw celom z [Laceration]: Moc Starcia +2; przeciw celom bez [Laceration]: Moc Starcia -2; Przy Trafieniu: ulecz PŻ równe Sile [Laceration] na celu",
+      "kr_sha256": "be500cd55b4a9c91df54e941bdf7f4f221810eca710d279f2e8b9a130c082582",
+      "en_sha256": "3d532c662676c49b66a070f951311fb93e405d11a1bc87699119eca4b7ce6a42",
+      "origin": "ai"
+    },
+    "dataList[id=1031].panicName": {
+      "pl": "Wzburzenie Krwi",
+      "kr_sha256": "7f5cc01f18a6197bfb63fab9843e1f83e340b8833068d9578b4caa2873f7edff",
+      "en_sha256": "b2e141aa2d08d9132f232f3031d4670e12396ac6705e4d491f2b5c5455b49003",
+      "origin": "ai"
+    },
+    "dataList[id=1032].lowMoraleDescription": {
+      "pl": "Koniec Tury: zyskaj 1 [Vulnerable] i 1 [MentalIncreaseDown] w następnej turze",
+      "kr_sha256": "009e5ce430ad3020255f0370ada570c680e5830fc43b6cea1565ddb7a9cd065c",
+      "en_sha256": "0c1f7acd27d208a5b843a3d723de5a4660e0f1e998e47a1aaf5c0c211035b9f9",
+      "origin": "ai"
+    },
+    "dataList[id=1032].panicDescription": {
+      "pl": "Koniec Tury: zyskaj 2 [Vulnerable] i 2 [MentalIncreaseDown] w następnej turze.",
+      "kr_sha256": "fb279d41b9c39866bffa3e36ff54894b960b61651d2249023529ec7f43951ae7",
+      "en_sha256": "7bfcc71566c3dc5b3743ac0100cec40a88591fe644d01d5220b50f818850b9f4",
+      "origin": "ai"
+    },
+    "dataList[id=1032].panicName": {
+      "pl": "Wyrzuty Sumienia",
+      "kr_sha256": "184e0c9c5104878691c80ad8a34a0ba7d00a43406b9ebc61062f2e366f0f617f",
+      "en_sha256": "c831578aec5635b68f0c4e82506d8278c86f2b3a37e55d7df60ff663ae4313a2",
+      "origin": "ai"
+    },
+    "dataList[id=1033].lowMoraleDescription": {
+      "pl": "Co Początek Tury: zyskaj 2 [AttackUp]; skuteczność SP +2",
+      "kr_sha256": "8a095823ad3dc60c775a9fb79fd968d04373d5642891d790cedec9767216d1ae",
+      "en_sha256": "ca5caddd868f7bf0b723f63f9a3b4e53585a1795b611b32150e95c7230fd6a5d",
+      "origin": "ai"
+    },
+    "dataList[id=1033].panicDescription": {
+      "pl": "Początek Tury: zyskaj 6 [DefenseUp] oraz 3 [AttackUp] w następnej turze",
+      "kr_sha256": "d0cdf697904001b9479708400ca6e6f8be0591e4b652e7b0a184318ee3c13fe8",
+      "en_sha256": "052c6c251d32b05dac358c617eff589295bb3de1f6c6ca7a4471667640ffae52",
+      "origin": "ai"
+    },
+    "dataList[id=1033].panicName": {
+      "pl": "Przebudzona Euforia Rzezi",
+      "kr_sha256": "24d50af8ecdf7ac5ccd4a1ac77b0bf85fc174b8d7088a6c79f67694bfb332ca6",
+      "en_sha256": "c2eb2281059b870729d02d97b8dd1ad3dca4e08f9091f8615fa10ad786b18917",
+      "origin": "ai"
+    },
+    "dataList[id=1034].lowMoraleDescription": {
+      "pl": "- Zyskaj 2 [Enhancement] i 1 [Vulnerable]; Maks. Szybkość +2\n- Skuteczność leczenia PŻ +30%\n- Koniec Tury: jeśli wartość [RegainedStrength] jest niższa niż na Początku Tury, zyskaj 2 [AttackUp] i 2 [DefenseDown] w następnej turze",
+      "kr_sha256": "2055de47b209101acc4fee918886579f099699e10c94196e7268f1afe23e3abf",
+      "en_sha256": "2b2e231b7623bd4679c9c108eb3d15312b6fe8bcfd09dd46a35d385d3a433564",
+      "origin": "ai"
+    },
+    "dataList[id=1034].panicDescription": {
+      "pl": "- Zyskaj 2 [Enhancement]; Maks. Szybkość +2\n- Skuteczność leczenia PŻ +50%\n- Koniec Tury: jeśli wartość [RegainedStrength] jest niższa niż na Początku Tury, zyskaj 3 [AttackUp] i 5 [DefenseDown] w następnej turze",
+      "kr_sha256": "4638b60c77f4b7614f1c3a3379b78e8f64f7615de0e7424b9a2b8c996e142c45",
+      "en_sha256": "410757fa10d25268acc8c6ebc3c9fe58bcd39e208e3018f3a32de21c8931a170",
+      "origin": "ai"
+    },
+    "dataList[id=1034].panicName": {
+      "pl": "Brzemię Odpowiedzialności",
+      "kr_sha256": "09b57c1677d76e1a2ac4acb4b619873d9b7cb5744f588c132e0d9125a003874b",
+      "en_sha256": "981a4d6f7e8c130a4417ad639779f01ba50e3d76749403faf3d837123613b8ae",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=1036].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable] i 2 [MentalIncreaseDown]",
+      "kr_sha256": "fbdde41c9d70f449b802b89560f824059803b1c6fa2f614e51d6063176a84922",
+      "en_sha256": "439e9116d90cbe7072b7e65f0f076f9620cc7a6e686c1795a90231169927d0e8",
+      "origin": "ai"
+    },
+    "dataList[id=1036].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Vulnerable] i 3 [MentalIncreaseDown].",
+      "kr_sha256": "45e602de12b5bc8b318eb3a8b2ac2047fe1c3f1adeb5a01ddb8db63f3199e411",
+      "en_sha256": "1f5d9ac76e5d1a1131f3b260dffc5000cc50c92810cbb778be18e87deacb6fac",
+      "origin": "ai"
+    },
+    "dataList[id=1036].panicName": {
+      "pl": "Udręka",
+      "kr_sha256": "55c06abbf43bb8a7d84e38cfc46a71ccf6dc44eceb70143a99c11fb8059d0420",
+      "en_sha256": "16ca183a8990ff053a97765f69fbfd10126a245cbc7b15460269b97eac61d892",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[id=1042].lowMoraleDescription": {
+      "pl": "W Starciu z celami mającymi [Burst]: zyskaj +3 Licznika [Charge] i 1 [Vulnerable] (2 razy na turę)",
+      "kr_sha256": "c08570c4cd58414253d258afa3b3b17a9e84419120a7ec693ca391c6997d32fa",
+      "en_sha256": "61d0ba437359d20549e7a5520bced6c936878b72b59a2a873510e221e0c05cc1",
+      "origin": "ai"
+    },
+    "dataList[id=1042].panicDescription": {
+      "pl": "W Starciu z celami mającymi [Burst]: zyskaj +5 Licznika [Charge], 1 [AttackDmgUp] i 2 [Vulnerable] (2 razy na turę)",
+      "kr_sha256": "5e9c589de54bb0b8deffaab9b79b1f7988b9e815e68babc6b55e38c4f6bae6ea",
+      "en_sha256": "ebf4c34fb5c55fb0c0ea9303088477b37d2ddb1468022fa0f3801ad9163c1be7",
+      "origin": "ai"
+    },
+    "dataList[id=1042].panicName": {
+      "pl": "Prąd Wsteczny Obwodu Ładunku",
+      "kr_sha256": "5ba8e57bdcd15e9903c2fbe7d3e1255bf85452bbedaae52b107468249e4f688a",
+      "en_sha256": "c916a3a2e005c5ace35f7a26888418e245402215d82f1f6cbe748a2e591f99d5",
+      "origin": "ai"
+    },
+    "dataList[id=1043].lowMoraleDescription": {
+      "pl": "Zyskaj 1 [AttackDmgUp], 1 [Vulnerable] oraz 1 [BurstVulnerable]",
+      "kr_sha256": "22101d570a48949456dd2988107eb5b5a76bdc115757489a0ebf9f6f9377c166",
+      "en_sha256": "40512deb4d84df7b6229d9607689b7484d9f8829552b3db6893d1141e9d29cbb",
+      "origin": "ai"
+    },
+    "dataList[id=1043].panicDescription": {
+      "pl": "Zyskaj 2 [AttackDmgUp], 2 [Vulnerable] oraz 2 [BurstVulnerable]",
+      "kr_sha256": "6c57b274aa46cf31d724d2f09a2a0c5018c72512e7f18a07d2b47ab3bc820b47",
+      "en_sha256": "cceb6dafdda31ce31018822868fcb8eda747654197d6060c7e572b3497e70925",
+      "origin": "ai"
+    },
+    "dataList[id=1043].panicName": {
+      "pl": "Przemiana w Stare Drzewo",
+      "kr_sha256": "94523bbdb0596db1a500e3c6723e773f4e758c016ee73bae434abfc45a50f042",
+      "en_sha256": "be2ede53b2189dd01b9cd5a1a88e1a3aff767a47748393158016146095823465",
+      "origin": "ai"
+    },
+    "dataList[id=1044].lowMoraleDescription": {
+      "pl": "Moc Starcia +2 przeciw celom z [OminousTalisman]\nPoczątek Tury: zyskaj 2 [AttackDmgUp] i 1 [Vulnerable]",
+      "kr_sha256": "2e0e1a97a7afa1d47efd5236f4d78d7799a48582a3258bcf5a02ff8a52a26fc2",
+      "en_sha256": "4394feac133319024366ef3c59e57b24f60671de930e6f2b1e8f87ac590be2da",
+      "origin": "ai"
+    },
+    "dataList[id=1044].panicDescription": {
+      "pl": "Moc Starcia +3 przeciw celom z [OminousTalisman]\nPoczątek Tury: zyskaj 3 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "03dd01e4075dbe4777eb78ea9c1d77ba1beaa738ba3f550fa81ce614080dc3c9",
+      "en_sha256": "2bae317c5aa34c0f7dccd241e93fb4dbede83185eefbfb061070a9cee820d5a0",
+      "origin": "ai"
+    },
+    "dataList[id=1044].panicName": {
+      "pl": "Złe Zamiary",
+      "kr_sha256": "b032cf76ed3d4939f1988fccac3a7e4417d75f8cf9c62663fd16f9f2abd6722e",
+      "en_sha256": "f87d2f70705394f5d0134a8fee1ce943238b591af44ce0c6c36e5a90339a0306",
+      "origin": "ai"
+    },
+    "dataList[id=1045].lowMoraleDescription": {
+      "pl": "Moc Starcia +2 przeciw celom z [OminousTalisman]\nPoczątek Tury: zyskaj 3 [AttackDmgUp] i 1 [Vulnerable]",
+      "kr_sha256": "05991e09c59d2bbbef28a97f67bb4699a14adee3a019022b35a8a6b5f77edd6b",
+      "en_sha256": "efa6f560d39ced9a2d437bf2ad3c593f8b127346603668c36ad10758fdd5f223",
+      "origin": "ai"
+    },
+    "dataList[id=1045].panicDescription": {
+      "pl": "Moc Starcia +3 przeciw celom z [OminousTalisman]\nPoczątek Tury: zyskaj 4 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "d924a447b4aec252004014068b740d6839ea1e568ee6d27f7823ec7391414781",
+      "en_sha256": "ac33c01037740e7753a91561d4cbc7a36e43bea3b84df43cd7f868c2cd687ac2",
+      "origin": "ai"
+    },
+    "dataList[id=1045].panicName": {
+      "pl": "Mroczne Zamiary",
+      "kr_sha256": "4f608c8c068a06e47f5805c3003f64af3417693c02c9da1ff3ba0040c6182e93",
+      "en_sha256": "e4dece6ac2c090338e277c0f4b762b6ae7e37c507bf95f49ea998c60c2ff663b",
+      "origin": "ai"
+    },
+    "dataList[id=1047].lowMoraleDescription": {
+      "pl": "Zadawane obrażenia +10% celom innym niż Hong Lu",
+      "kr_sha256": "5922a1e9d1ef62647a27cc903a55fdeb1113c67436a38b96f4d0632956647ee4",
+      "en_sha256": "7d258728259e12baf8009eea1da7aca20b05c3e3f36693084c50608025c1363b",
+      "origin": "ai"
+    },
+    "dataList[id=1047].panicDescription": {
+      "pl": "Zadawane obrażenia +20% celom innym niż Hong Lu",
+      "kr_sha256": "c8801091cc60878339554374e084f7d66baa08933fc273ba9237b153705af572",
+      "en_sha256": "f28dc70cd4d6ce700617debcef0fd123ce81f4f4b19d2ce333a69e4e738193b8",
+      "origin": "ai"
+    },
+    "dataList[id=1047].panicName": {
+      "pl": "Jia Qiu",
+      "kr_sha256": "cb5f98b8fcf0df12f4fbfcb5e5a6921d2d4eec112bad64547c0d86dbe81b513a",
+      "en_sha256": "3d7b54387043069ad6b413ab1f06bf2d92cc3f66c72d331c9c407ddc8a781be5",
+      "origin": "ai"
+    },
+    "dataList[id=1055].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 Wrażliwości i 1 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia",
+      "kr_sha256": "713b23082b5905d429017152084e1ad8d1063dedb70ccac149939ba65fe48529",
+      "en_sha256": "10b7bdc0fc6ad701b012f903dee3fc670033f3b5cd7c8bdc78ce2a49f028d308",
+      "origin": "ai"
+    },
+    "dataList[id=1055].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 Wrażliwości i 2 Wzmocnienia Leczenia PŻ. Przy Trafieniu: nałóż 1 Rozdarcia i 1 Krwawienia",
+      "kr_sha256": "3d3c48bc5cbd929dc18fc4be42f454efa26f940a57f3bbf27ec834209bac04df",
+      "en_sha256": "af428e531a88d58526c7ae2c830a4e60b091bc2ff3e94c8c377907ca4ed8c8fe",
+      "origin": "ai"
+    },
+    "dataList[id=1055].panicName": {
+      "pl": "Obosieczne Pióro",
+      "kr_sha256": "07a813968021ce00d7b95e27acddc9c956485acb225cb62deecd05f29823c132",
+      "en_sha256": "08add127fdfcc2c05029b3c7e0deb86f85b944869ffec7afabbf454e7f633830",
+      "origin": "ai"
+    },
+    "dataList[id=1056].lowMoraleDescription": {
+      "pl": "Moc Starcia +2 przeciw celom z [OminousTalisman]\nPoczątek Tury: zyskaj 2 [AttackDmgUp] i 1 [Vulnerable]",
+      "kr_sha256": "2e0e1a97a7afa1d47efd5236f4d78d7799a48582a3258bcf5a02ff8a52a26fc2",
+      "en_sha256": "4394feac133319024366ef3c59e57b24f60671de930e6f2b1e8f87ac590be2da",
+      "origin": "ai"
+    },
+    "dataList[id=1056].panicDescription": {
+      "pl": "Moc Starcia +3 przeciw celom z [OminousTalisman]\nPoczątek Tury: zyskaj 3 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "03dd01e4075dbe4777eb78ea9c1d77ba1beaa738ba3f550fa81ce614080dc3c9",
+      "en_sha256": "2bae317c5aa34c0f7dccd241e93fb4dbede83185eefbfb061070a9cee820d5a0",
+      "origin": "ai"
+    },
+    "dataList[id=1056].panicName": {
+      "pl": "Rozgoryczenie",
+      "kr_sha256": "f2132b098b78d2f1296082fb7efbe1bdd9481a1e4743c7c2b0f7e5b8fed7117c",
+      "en_sha256": "277e708d34a620935d78c7e1fe0df063d5e35f2c705a9a093d2ad742a701b56d",
+      "origin": "ai"
+    },
+    "dataList[id=1058].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Vulnerable] i nałóż 1 [AttackDmgUp] na wszystkich sojuszników",
+      "kr_sha256": "9cc28fc9afa3a55bc359f0d9356bde981dbfabdbe52cb29981052ff3a83a0b49",
+      "en_sha256": "5c7b1857dcfe55c9647ba10d6f6ceae9a4ef73c0523fc80316c7ed4b701bf16b",
+      "origin": "ai"
+    },
+    "dataList[id=1058].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Vulnerable] i nałóż 2 [AttackDmgUp] na wszystkich sojuszników",
+      "kr_sha256": "e15590052df29d4f0a68aa4f19bfcd8ff2a8b3f114b742da303ddb582c0b8a27",
+      "en_sha256": "e101fd191ce44f545e105c17fba791bbfcfa4caa43e1d0e6f045e0d9d2f5df6b",
+      "origin": "ai"
+    },
+    "dataList[id=1058].panicName": {
+      "pl": "Rozkaz Szturmu",
+      "kr_sha256": "ec7bcb2415b32baadde80c171bb2b6d518c8320270e733030124d32c91241260",
+      "en_sha256": "2242656b171a9c302f32b998caa14d6adf136b4613f09b50ac155dc7abf52ed3",
+      "origin": "ai"
+    },
+    "dataList[id=9995].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 2 [DefenseUp] i trać 2 Siły [Breath]",
+      "kr_sha256": "4b170c3c1f0f6e55d4f5b43e030e7ca8cc5c3d19b799b45f777181110822fffe",
+      "en_sha256": "8c7c4a1d4fa8d86f7e7e33d839231336fee4eb3c2975b4243b068f72dcebd946",
+      "origin": "ai"
+    },
+    "dataList[id=9995].panicDescription": {
+      "pl": "Początek Tury: zyskaj 5 [DefenseUp] i trać 5 Siły [Breath]",
+      "kr_sha256": "f7d430de0d43059506d4c896b8d3cac64d6f97a7cbe9e3e43efbce8492df602c",
+      "en_sha256": "6e5bec8c6e981c2368f2338130f8efdcb11faada8d2e77e9063adf9f2389c4da",
+      "origin": "ai"
+    },
+    "dataList[id=9995].panicName": {
+      "pl": "Złapanie Oddechu",
+      "kr_sha256": "199d8f9621df262eba9dd781b2de3655afcd030a43b92b91929c40550a215fea",
+      "en_sha256": "88e46114b81521d619c165ee4d4d6ab91d75897aa8a1f5714a8df5b6cdd70e25",
+      "origin": "ai"
+    }
+  }
+}

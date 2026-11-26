@@ -30,6 +30,7 @@ Ten plik obowiązuje wszystkie agenty Arena wykonujące tymczasowy przekład int
 | 협회 | Association | **Stowarzyszenie** | np. `Seven Association South Section 6` → **Południowa Sekcja 6 Stowarzyszenia Seven** |
 | 검계 | The Blade Lineage | **Ród Ostrza** | np. `Blade Lineage Salsu` → **Salsu z Rodu Ostrza** |
 | 흑운회 | The Kurokumo Clan | **Klan Kurokumo** | np. `Kurokumo Wakashu` → **Wakashu z Klanu Kurokumo** |
+| 료.고.파 | R.B. | **R.P.M.** | ustalone w `LC_PL1.zip` |
 | 거울 세계 | Mirror World | **Świat Lustrzany** / **Światy Lustrzane** | `Mirror Dungeon` → **Lustrzany Loch** / **Lustrzane Lochy** |
 | 단테의 노트 | Dante's Notes | **Notatki Dantego** | |
 
@@ -88,12 +89,24 @@ Ten plik obowiązuje wszystkie agenty Arena wykonujące tymczasowy przekład int
 
 ### 7 głównych archetypów statusów (`Potency` → **Siła**, `Count` → **Licznik**)
 - `Burn` (화상) → **Podpalenie**
-- `Bleed` (출혈) → **Krwawienie**
-- `Tremor` (진동) → **Wstrząs** (`Tremor Burst` → **Wyładowanie Wstrząsu**)
+- `Bleed` (출혈) → **Krwawienie** (`Bleed Deluge` → **Potop Krwawienia**)
+- `Tremor` (진동) → **Wstrząs** (`Tremor Burst` → **Wyładowanie Wstrząsu**, `Amplitude Entanglement` → **Splątanie Amplitudy**)
 - `Rupture` (파열) → **Rozdarcie**
-- `Sinking` (침잠) → **Zatonięcie**
+- `Sinking` (침잠) → **Zatonięcie** (`Sinking Deluge` → **Potop Zatonięcia**)
 - `Poise` (호흡) → **Oddech**
 - `Charge` (충전) → **Ładunek**
+
+### Podstawowe wzmocnienia, osłabienia i pojęcia frakcyjne (`P01–P02`)
+- `Haste` / `Bind` → **Pośpiech** / **Spętanie**
+- `Protection` / `Fragile` → **Ochrona** / **Wrażliwość**
+- `Attack Power Up` / `Attack Power Down` → **Wzrost Mocy Ataku** / **Spadek Mocy Ataku**
+- `Defense Power Up` / `Defense Power Down` → **Wzrost Mocy Obrony** / **Spadek Mocy Obrony**
+- `Damage Up` / `Damage Down` → **Wzrost Obrażeń** / **Spadek Obrażeń**
+- `Offense Level Up` / `Offense Level Down` → **Wzrost Poziomu Ataku** / **Spadek Poziomu Ataku**
+- `Defense Level Up` / `Defense Level Down` → **Wzrost Poziomu Obrony** / **Spadek Poziomu Obrony**
+- `Unopposed Attack` → **Atak Jednostronny**, `Atk Weight` → **Waga Ataku**, `Guard` / `Evade` / `Counter` → **Garda** / **Unik** / **Kontra**
+- `Bloodfiend` / `Bloodbag` / `Kindred` → **Krwiożerca** / **Worek Krwi** / **Pokrewny** (`First/Second/Third Kindred` → **Pierwszy/Drugi/Trzeci Pokrewny**)
+- Palce: `The Thumb` → **Kciuk**, `The Index` → **Wskazujący**, `The Middle` → **Środkowy**, `The Ring` → **Serdeczny**, `The Pinky` → **Mały Palec** (`Prescript` → **Nakaz**)
 
 ---
 

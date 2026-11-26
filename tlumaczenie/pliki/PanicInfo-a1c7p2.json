@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=1030].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Enhancement] i 3 [DefenseDown]. Koniec Tury: trać 5 SP.",
+      "kr_sha256": "f8a4b3f4a9ec5409654cace2ae29ab48ec641cb5d1b17c8c9bf20106b79e0bed",
+      "en_sha256": "0c3e4efe7a6ed8e8294dd0b1f8621b4b97362faa42ac1a7e8d85c8fd5ed9ad7f",
+      "origin": "ai"
+    },
+    "dataList[id=1030].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Enhancement] i 6 [DefenseDown]. Koniec Tury: odzyskaj 10 SP.",
+      "kr_sha256": "8d8c1fcdd6fa2693c2690d9bc7714a46ac0151702b8c13a03286361f615f56b0",
+      "en_sha256": "419669e750ba89d3b8e13f2a56a07a99e910cf6dc8d647deeeddc9fd068a80fa",
+      "origin": "ai"
+    },
+    "dataList[id=1030].panicName": {
+      "pl": "Jarzmienie Nicości",
+      "kr_sha256": "511ca7ec3547d0a42b6a3ec446d27201571e92c8d426a3e4ad849be6bd12ece7",
+      "en_sha256": "fee26c5a8da35f05fe5e23a6fee49ae797d53af3fcfd810b21e1cba716c94a6b",
+      "origin": "ai"
+    },
+    "dataList[id=9996].lowMoraleDescription": {
+      "pl": "Wygrane Starcie: zyskaj 1 [AttackDmgUp]",
+      "kr_sha256": "eedeb8192502c4e8e19f5d070b4d472ed7bd604d12b0cb8ba15e470bfbbbe3bd",
+      "en_sha256": "f567267acb2c1bf935d16f8b8544c03b7b60b1fae2f4c959f055697c64843898",
+      "origin": "ai"
+    },
+    "dataList[id=9996].panicDescription": {
+      "pl": "Wygrane Starcie: zyskaj 1 [AttackDmgUp]. Koniec Tury: zyskaj 2 [ParryingResultUp] w następnej turze.",
+      "kr_sha256": "7dad4b84f4040a509e97dcc3d94fb2e6539fc60a4306db4f1c7caf361ff3d200",
+      "en_sha256": "8c7d5db592cfea00c894cd6cfecda3783f1bd2a191286324fcc420e4d8a0a119",
+      "origin": "ai"
+    },
+    "dataList[id=9996].panicName": {
+      "pl": "Ciernie",
+      "kr_sha256": "7b77e80a2b3ffa41b6413be74ffdfff2762bd6e4ef092ddc3212eb92109e4593",
+      "en_sha256": "d20c5a45f3025088460d38e73c274a5fd9f4f827c9638a3a19df97edd875790c",
+      "origin": "ai"
+    }
+  }
+}

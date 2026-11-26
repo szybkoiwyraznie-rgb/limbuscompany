@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=1070].lowMoraleDescription": {
+      "pl": "Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +10%",
+      "kr_sha256": "89f6af8d2d41742dbd4c80444ace641557173b8ead01f3a242b3b68363478b3b",
+      "en_sha256": "c51d6fc4b9ece5505efde119e2bf6d289675120fff7e84687e9ad4c84667cc88",
+      "origin": "ai"
+    },
+    "dataList[id=1070].panicDescription": {
+      "pl": "Zadawane obrażenia przeciw Ryōshū oraz otrzymywane od niej obrażenia +20%",
+      "kr_sha256": "bbc537e3901060bc8f9461fbaeee39a67b27438e8c93cff95bbd941925c2e816",
+      "en_sha256": "806f147fee91de29a12721fc03d97b97304c83aa8a0c7ae0fbb08907bd00e7da",
+      "origin": "ai"
+    },
+    "dataList[id=1070].panicName": {
+      "pl": "Miłość i Urąganie",
+      "kr_sha256": "fdd7ec95d3b7c94d6b854ba98a6d28a5ea3976c2f5076c56b04c3c07defff675",
+      "en_sha256": "310217b5059c8e1d17a5c96789d82e1c0bb8b6c55a85e424bf4474d161e5f18d",
+      "origin": "ai"
+    },
+    "dataList[id=1072].lowMoraleDescription": {
+      "pl": "Zadawane obrażenia celowi [IndexPrescriptTargetToPersonality] +20%\nOtrzymywane obrażenia od celów niebędących [IndexPrescriptTargetToPersonality] +10%",
+      "kr_sha256": "3846074b190d7152b16048b18f90fa91111aee94d2821fadb1dbc72a033d4535",
+      "en_sha256": "582b8139468cd1efd8d398e957723216fea3b31c16178d789201017b1772cdcd",
+      "origin": "ai"
+    },
+    "dataList[id=1072].panicDescription": {
+      "pl": "Zadawane obrażenia celowi [IndexPrescriptTargetToPersonality] +30%\nOtrzymywane obrażenia od celów niebędących [IndexPrescriptTargetToPersonality] +20%",
+      "kr_sha256": "0e3d34808e0d0eb5ce3c0316e0816301a9d0cbe6fa0f1ef3d02f8254d2412424",
+      "en_sha256": "39f9c7b3a4dd4476133d791ae613b2905996a18f2cf8d7b9ba7a0e57ee13e213",
+      "origin": "ai"
+    },
+    "dataList[id=1072].panicName": {
+      "pl": "Ryzyko Złamania Nakazu",
+      "kr_sha256": "f30411daf94ac9e7bca164197ab1dcd59493ec0167b0101772eab1f76bc24837",
+      "en_sha256": "7a4bc018e0e75d1f6b534300468c8d2a0c41e88e73a30e37d25de93661687016",
+      "origin": "ai"
+    },
+    "dataList[id=1074].lowMoraleDescription": {
+      "pl": "Zyskaj 1 [PenetrateResultUp] i 1 [MentalIncreaseDown]",
+      "kr_sha256": "94a2b8503d3c50a37adeac624a8a4296c95d52b1518d83169884deace60c1225",
+      "en_sha256": "3447573a5872761ca218158ca8d92dd282ae8611bf571339f302a864f90eccb2",
+      "origin": "ai"
+    },
+    "dataList[id=1074].panicDescription": {
+      "pl": "Zyskaj 2 [PenetrateResultUp], 1 [PenetrateDamageUp] i 2 [MentalIncreaseDown]",
+      "kr_sha256": "ace3cc6c91b999c0a2ab9350c272de9a6d0a444592e88be1489dbe231f80e4d9",
+      "en_sha256": "14bbb8ac3f5cd74ef752f9c096b3b976d331a5df55ac5b6502177feeed6fe35d",
+      "origin": "ai"
+    },
+    "dataList[id=1074].panicName": {
+      "pl": "Irytacja",
+      "kr_sha256": "32b836eeefd61b52f9c5323c72405df7a39d777a358e0b8078059a5519c6eefa",
+      "en_sha256": "a9ee278bef3f46e6d533751f388d73dcbbe07b2315b4d7713fe32075a47a804c",
+      "origin": "ai"
+    }
+  }
+}

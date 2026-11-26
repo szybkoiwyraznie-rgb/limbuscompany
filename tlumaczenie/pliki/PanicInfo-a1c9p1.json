@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=1067].lowMoraleDescription": {
+      "pl": "Początek Tury: trać 3 Siły [Breath]",
+      "kr_sha256": "638bfca83e7cfc7573cdee730b6a0832e2bfaa1123a7e037cbf96e7e94be2384",
+      "en_sha256": "866dea153d0799d24f4882d875afe4a4f2d5f0285a774e8398b05f47f020d118",
+      "origin": "ai"
+    },
+    "dataList[id=1067].panicDescription": {
+      "pl": "Początek Tury: trać 5 Siły [Breath]",
+      "kr_sha256": "d183fffa678ab9996513d30b39c069550d06ac6232bf4f5463d4d864de6c8e99",
+      "en_sha256": "4c9f7c42ca56465ba164a8ec70e61a8e1bad80b53542f1da0a6ba18f5f537cc7",
+      "origin": "ai"
+    },
+    "dataList[id=1067].panicName": {
+      "pl": "Rwany Oddech",
+      "kr_sha256": "033a3cd7bdb64c30f94dffa8f3f128475a1374b8156fa2872e61907757ad8e42",
+      "en_sha256": "dd6e861e8642f49161542c464b860c5f135fca371e287e0f4f4b74e75b3e6ec6",
+      "origin": "ai"
+    },
+    "dataList[id=1068].lowMoraleDescription": {
+      "pl": "Moc Starcia +1 przeciw celom z [DuelEdge]\nPrzegrane Starcie: zyskaj 1 [Vulnerable] w następnej turze (raz na turę)",
+      "kr_sha256": "b1e6106f3273d3745b2f02c42564f79dd2282a5c5a384fdedc6161c8f633b75b",
+      "en_sha256": "4487a9074a6f67552b0529909055a6edca43d6a22b9747e4fcc8a5942017a32c",
+      "origin": "ai"
+    },
+    "dataList[id=1068].panicDescription": {
+      "pl": "Moc Starcia +2 przeciw celom z [DuelEdge]\nPrzegrane Starcie: zyskaj 2 [Vulnerable] w następnej turze (raz na turę)",
+      "kr_sha256": "96222bdf11406d3ca900e800c8aea83c82999f720ad82bb978d37e8fbb2c4cb1",
+      "en_sha256": "0e606607ebaa19901ca4928a917c608c02d4f518186594c1abb9382788e2c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=1068].panicName": {
+      "pl": "Podręcznik",
+      "kr_sha256": "a849ca740ba90accb71732bf3c456eeac8c5ae9fed0924b3143298d756e36a86",
+      "en_sha256": "884786adffa34d9b1e4f9dcfb10e3a0eb8ca236d6dd7fee9c9b5871fbd6bd3a3",
+      "origin": "ai"
+    },
+    "dataList[id=1069].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [AttackDown] i 1 [DefenseUp]",
+      "kr_sha256": "8903b71ce40c7690a467c1e4e27a255937e83369eeaf3e148d4342125aaa0001",
+      "en_sha256": "e51c4375feadb87f8e755950518bc954e0350a6d8f39fb77ceae314b4f0612af",
+      "origin": "ai"
+    },
+    "dataList[id=1069].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [AttackDown] i 2 [DefenseUp]",
+      "kr_sha256": "8f4ccc7596623de77e37d485d6d80cec7cad867f964454189bbe97810444044b",
+      "en_sha256": "7596182f406fcafb7af2c76322dff0892ce9efb335b6b6c7c671a20acb06c1b6",
+      "origin": "ai"
+    },
+    "dataList[id=1069].panicName": {
+      "pl": "Żelazna Dziewica",
+      "kr_sha256": "2e0fd907914736ffe2be94d5dc5e6f08353ee9033ea667f64c1f40b6e2b30f44",
+      "en_sha256": "c6c2591d6e93ccd5fc440b6d316a5d824397509993ef6717943e05716ddf1a75",
+      "origin": "ai"
+    }
+  }
+}

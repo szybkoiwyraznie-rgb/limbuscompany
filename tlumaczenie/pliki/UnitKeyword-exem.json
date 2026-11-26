@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_N_CORP_LENSMAN].content": {
+      "pl": "Les Clous",
+      "kr_sha256": "89058d16546c11076dd1d9c70b9031394b31effb9b6de9d41888660bacb1edc7",
+      "en_sha256": "fece86b343803a2b7e139b56c2a6e7ec66e6fe2c36d87b9a625ad799ead21cc8",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_S_CORP].content": {
+      "pl": "Korp. S",
+      "kr_sha256": "a002f92ee9c202c256b4a992bb58c1b37b59bd569c22e41c896b688c8d6bd1c5",
+      "en_sha256": "5cef3536df46ad01e2b976c99cbb04ff41757a9b2f5af94e7ac4cb227648f6e9",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_S_CORP_SAL].content": {
+      "pl": "Stronnictwo Dworskie - Sal",
+      "kr_sha256": "c9067096145bc982cb01d7b2ccbd2b1ec6a53318bb11980de8789f0702bd53ba",
+      "en_sha256": "649eec190c88110be2b555944a0b67e7293481f248d836f15981d0dfb9e0d9b8",
+      "origin": "ai"
+    }
+  }
+}

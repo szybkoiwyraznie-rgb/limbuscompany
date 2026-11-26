@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=1046].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 5 [Laceration] i 1 [Enhancement].",
+      "kr_sha256": "1549c66f35675cfdeb2cad0d2c682e4ce76f73673ad2c4773a0ee04846a9ec0f",
+      "en_sha256": "bbe9e106f64147bfdf0cd0bade186f458e2bb2db5d46c9e9c35eced7a9e895b5",
+      "origin": "ai"
+    },
+    "dataList[id=1046].panicDescription": {
+      "pl": "Początek Tury: zyskaj 10 [Laceration] i 2 [Enhancement].",
+      "kr_sha256": "de3ec3292c21a44e41671031b55fba55f835ddd2928de74749bc0244b2759527",
+      "en_sha256": "2bb9876e79bd3054b6db849b1a11819169ccc05e1425448fab33e57418dad816",
+      "origin": "ai"
+    },
+    "dataList[id=1046].panicName": {
+      "pl": "Czerpak Mięsa",
+      "kr_sha256": "ff1c10add08581b3ad169cf6850037f46ace242510b72a8a05556807ecf7d2c7",
+      "en_sha256": "5427cb5fc7d226511b72b9112aced95a83536bb627cea8052376c50064133632",
+      "origin": "ai"
+    },
+    "dataList[id=1049].lowMoraleDescription": {
+      "pl": "Zadaje +(różnica % PŻ / 2)% obrażeń celom o wyższym % PŻ niż ta jednostka (maks. 10%)\nPoczątek Tury: zyskaj 1 [Enhancement], 1 [AttackDmgUp] i 1 [Vulnerable]",
+      "kr_sha256": "77282328c04820b0c25c707f07451c5feaeae4141fa301dcf9d118a880f38b13",
+      "en_sha256": "45bcf31702faeed1eebc93d2a49ffe9da92a8584230ae75fe4fb7344e0ae08e0",
+      "origin": "ai"
+    },
+    "dataList[id=1049].panicDescription": {
+      "pl": "Zadaje +(różnica % PŻ)% obrażeń celom o wyższym % PŻ niż ta jednostka (maks. 25%)\nPoczątek Tury: zyskaj 1 [PlusCoinValueUp], 2 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "124570bd679c3ceaa7af0655d63e3d49b33d98204405b3b6e65ee47e902041e8",
+      "en_sha256": "012f9fb76663a5533456f8c2213075609040f0e34b35d956b806e324a07757e3",
+      "origin": "ai"
+    },
+    "dataList[id=1049].panicName": {
+      "pl": "Instynkt Bestii",
+      "kr_sha256": "aaf5af4d10d13b4e7ea75fea85f2f88dab800d453758b8e358e61e92a423af69",
+      "en_sha256": "b0dfc74159598a5b560086cf4c527daa01a07c77fb4ac312a091c29cb64e32be",
+      "origin": "ai"
+    },
+    "dataList[id=1050].lowMoraleDescription": {
+      "pl": "Jeśli w poprzedniej turze nałożono 2+ [Vibration]: zyskaj 1 [AmberDamageUp]\nJeśli w poprzedniej turze nałożono 2+ [Combustion]: zyskaj 1 [CrimsonDamageUp]\nJeśli nie nałożono żadnego z nich: zyskaj 2 [DefenseDown]",
+      "kr_sha256": "b3dd03cce663da2aa40e2400215d170696d3d10e30a4d8cd524d9747402483e0",
+      "en_sha256": "8917e16c70c7129e714b32e6454a5345587f33b75628a54b6dbb18cf87a81a77",
+      "origin": "ai"
+    },
+    "dataList[id=1050].panicDescription": {
+      "pl": "Jeśli w poprzedniej turze nałożono 2+ [Vibration]: zyskaj 2 [AmberDamageUp]\nJeśli w poprzedniej turze nałożono 2+ [Combustion]: zyskaj 2 [CrimsonDamageUp]\nJeśli nie nałożono żadnego z nich: zyskaj 3 [DefenseDown]",
+      "kr_sha256": "3d4e7f5f1e2e55e2f15337eed6a45eed5907adb72eed061a4780264be54313ec",
+      "en_sha256": "dca657a6d45a132841f2305157a43d7e1d46da68744dad07f642dcdf9b683f6c",
+      "origin": "ai"
+    },
+    "dataList[id=1050].panicName": {
+      "pl": "Le Regole",
+      "kr_sha256": "69023144c9c8c471c72b199fb6c8e9b00508aa148ca89d7744080d1420bacd8a",
+      "en_sha256": "cef087551a24fac97cf5eb84693ba4b2ee1a07a625f441629cce43ab5a680e09",
+      "origin": "ai"
+    },
+    "dataList[id=1051].lowMoraleDescription": {
+      "pl": "Początek Tury: zyskaj 1 [Enhancement] i 1 [Vulnerable]",
+      "kr_sha256": "d1086e6a9c2476f05ae1d9f2a865b3a69d0e46c5d1950151a77719b1bfe35677",
+      "en_sha256": "8bf25b85ef4b64ec44d579b8c2371543c197ed1cd64427641b12bc6242116657",
+      "origin": "ai"
+    },
+    "dataList[id=1051].panicDescription": {
+      "pl": "Początek Tury: zyskaj 2 [Enhancement] i 2 [Vulnerable]",
+      "kr_sha256": "51b4a4bb36b2a7135191554d2d59c150606b1547a28e58d905f7fb415994c398",
+      "en_sha256": "aac39250b2f74cbf880e5abb8b7d2bff6e8fe5ebecc082383b46ab308ff11d60",
+      "origin": "ai"
+    },
+    "dataList[id=1051].panicName": {
+      "pl": "Serce Odlane z Miękkiego Złota",
+      "kr_sha256": "a766edcdbc3d617d391c44a9b1ab9b1fc28303ada2787276b238a28cb0176d2a",
+      "en_sha256": "5cdf9cd62c96c2c94df10350ad16ba5f6541934c4febf63f13d9ea3df810af66",
+      "origin": "ai"
+    },
+    "dataList[id=1052].lowMoraleDescription": {
+      "pl": "Przy Trafieniu: zużyj 3 własne SP i nałóż 2 [Sinking]",
+      "kr_sha256": "71c1b1ba06ec21344b0de0ca0aeaea08cb8b65f3860d2199d24dd47152c3440b",
+      "en_sha256": "36394613ca7f7a8fc2e30ab544af0a4b04786c6523604e7f7e2b8d7ca9b4da2a",
+      "origin": "ai"
+    },
+    "dataList[id=1052].panicDescription": {
+      "pl": "Przy Trafieniu: nałóż 3 [Sinking] i zyskaj 1 [Sinking]",
+      "kr_sha256": "50d2e8f84e1176ac24091e36bb178500479b262689d74501e006beca7d2f1e23",
+      "en_sha256": "7325ec0313c00b008343dc090ff58de269a34cf7310d8828e189c587a3a38add",
+      "origin": "ai"
+    },
+    "dataList[id=1052].panicName": {
+      "pl": "Serce ku Nowej Erze",
+      "kr_sha256": "a3f6f56d1cec9a1d37299d11e2b9607257e87cc01a3113b08a3b1085415daeb5",
+      "en_sha256": "59a445c655c9013294a4f8090035acfa73bfaec309fbf5cb58ae7e5c9cf54868",
+      "origin": "ai"
+    },
+    "dataList[id=1053].lowMoraleDescription": {
+      "pl": "Wszystkie Części zyskują 2 [Enhancement] i 1 [Binding]\n- Gdy Korpus przegra Starcie z Hong Lu: w następnej turze Korpus zyskuje 1 [AttackDmgUp] i 1 [Vulnerable] (raz na turę)",
+      "kr_sha256": "5ff0b3e2ece12ae42ca873937c2708f40acf6b39c4a8b92ea446c490be9a7724",
+      "en_sha256": "7749238d1b41dd72908a64b5791bcd06196b25ac0f31e1dfb34e519a6f217916",
+      "origin": "ai"
+    },
+    "dataList[id=1053].panicDescription": {
+      "pl": "Wszystkie Części zyskują 2 [Enhancement] i 2 [Binding]\n- Gdy Korpus przegra Starcie z Hong Lu: w następnej turze Korpus zyskuje 2 [AttackDmgUp] i 2 [Vulnerable] (raz na turę)",
+      "kr_sha256": "0eec9c872ae29811b16bcdd68798acb7b5ae8eb8735cb467012e268cde17f97a",
+      "en_sha256": "13b27c7c5f1a4744b27606622062240b7fca5cba5a2b4dbc3a7a20f15b0ac3f4",
+      "origin": "ai"
+    },
+    "dataList[id=1053].panicName": {
+      "pl": "Odziedziczona Wola Hongyuanu",
+      "kr_sha256": "710bbbed15c259d8649e1bb5b0e7597b9b4c8ce0d7c039b9d55612cfeabfa283",
+      "en_sha256": "8e6a414a04c8b26cc917e5c56912061885af579dc152bbe1d8ec35dbdb09146c",
+      "origin": "ai"
+    },
+    "dataList[id=1054].lowMoraleDescription": {
+      "pl": "Zyskaj 2 [Enhancement] i 1 [Vulnerable]\nJednostki stworzone przez tę jednostkę zyskują 3 [DefenseDown]\nZadawane obrażenia +20%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane obrażenia -10%",
+      "kr_sha256": "61c906a88d470921501bc4235ef4ad6e13f4fba11466b4d294d60a56398998f4",
+      "en_sha256": "e2fca01c116504b298470ffe659a0e0363f86e38979b1e78766393f758ff1186",
+      "origin": "ai"
+    },
+    "dataList[id=1054].panicDescription": {
+      "pl": "Zyskaj 2 [Enhancement] i 2 [Vulnerable]\nJednostki stworzone przez tę jednostkę zyskują 6 [DefenseDown]\nZadawane obrażenia +30%. Jeśli PŻ Lektyki spadną do 0, zamiast tego zadawane obrażenia -15%",
+      "kr_sha256": "b6698be817d3e0ff326200d411a4daaaecebed86126419b42def55b3e3f0aae6",
+      "en_sha256": "21af2f7f6294eebb85a61971543cf1f53db815cf9e7e5d942c0a37bda6e629cf",
+      "origin": "ai"
+    },
+    "dataList[id=1054].panicName": {
+      "pl": "Odwiecznie Przekazywana Wola Hongyuanu",
+      "kr_sha256": "c94cf7e8b50bb87d2ac2e91e9ab71a8f35d32f70057c74743726eb6d4d64b8cd",
+      "en_sha256": "1a78590e10577c95e52e5a57feff58d242a621f59b01a43ae46c49e4c5eb7e89",
+      "origin": "ai"
+    }
+  }
+}

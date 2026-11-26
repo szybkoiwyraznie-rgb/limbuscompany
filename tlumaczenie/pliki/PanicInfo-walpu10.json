@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=1123].lowMoraleDescription": {
+      "pl": "Zadawane obrażenia wrogom z [Combustion] -5%\nObrażenia Oszołomienia przeciw wrogom z [Vibration] +5%",
+      "kr_sha256": "92c2f8c59d6d74e9b68e1a4329136c98d52ef7fe7338063c8572bfef608aa01f",
+      "en_sha256": "5e75a23d94e5cbbc2b8b4f3eb0851c93f471a27311ada943005f0fcbb4f8cb8a",
+      "origin": "ai"
+    },
+    "dataList[id=1123].panicDescription": {
+      "pl": "Zadawane obrażenia wrogom z [Combustion] -10%\nObrażenia Oszołomienia przeciw wrogom z [Vibration] +10%",
+      "kr_sha256": "85b6c5b58bda7ff899c618a64a98a3649a38851cbd817c098d6b23a6131d0a0d",
+      "en_sha256": "ccad3a85be7959e6ef12f4eeabaa85ba98837f76a0de3a8e5e959287eeba10f4",
+      "origin": "ai"
+    },
+    "dataList[id=1123].panicName": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=1124].lowMoraleDescription": {
+      "pl": "Obrażenia krytyczne -5%\nObrażenia Oszołomienia przeciw wrogom z [Vibration] +5%",
+      "kr_sha256": "c2a909f0e20a3ede33bb0a3335a0ce2c9aacd9f496709ab05293fd239269d998",
+      "en_sha256": "9d1c44a1c17f1ecea29fbc2bcba5e930ec205a8cda4e5bee55d8268804d60f8d",
+      "origin": "ai"
+    },
+    "dataList[id=1124].panicDescription": {
+      "pl": "Obrażenia krytyczne -10%\nObrażenia Oszołomienia przeciw wrogom z [Vibration] +10%",
+      "kr_sha256": "25be891007f6b3b75cbd78b28fca0c8e1fa1deb8e1123d767468e303550d0e8c",
+      "en_sha256": "63d0e207fb4fae3a4b6d6364eacd2af49496c752f95a96d6b1f3e8c16035e16c",
+      "origin": "ai"
+    },
+    "dataList[id=1124].panicName": {
+      "pl": "Biuro Klina",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=1125].lowMoraleDescription": {
+      "pl": "Zyskaj 1 [Vulnerable]\nZadawane obrażenia wrogom z [Combustion] +10%",
+      "kr_sha256": "94bb4b74ccc26810dc2b099dcb544ac45cdbcab559fbd482d7b5d437a9e7329d",
+      "en_sha256": "1db9bc857a977c9d7ef60ffe2c5b18c2d9d1ea2bc13c399da2b4e993a4d4b9be",
+      "origin": "ai"
+    },
+    "dataList[id=1125].panicDescription": {
+      "pl": "Zyskaj 1 [Vulnerable]\nZadawane obrażenia wrogom z [Combustion] +25%",
+      "kr_sha256": "0a3a3cf65322f79ee6f0b9a48b601eb1f11b3587c3321cf620cabd27258dcc4c",
+      "en_sha256": "e0c99191fd9fcef75ba1d2c794cbdd8b912cb3928c8c40555bda802868c40bfd",
+      "origin": "ai"
+    },
+    "dataList[id=1125].panicName": {
+      "pl": "Woskowe Skrzydło",
+      "kr_sha256": "d6c2db2444c45bcf8f1566ad79a4e63b9dbb796f712a2af6c325343f099320be",
+      "en_sha256": "639c80040a71c80d1d9694591df0ef4f3dc586f68845ca19268a75b8dc33ecf6",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_FINGER].content": {
+      "pl": "Palce",
+      "kr_sha256": "72b09f1f28b0fd5244a2e90dd8a63560d3ab17453ff29bcfcea21552325513cb",
+      "en_sha256": "e36c9ed4208ec3dfb71fd9dc7dbdaa5d2c7e7b23007ef1ef42b9b7f69ac9055d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_INDEX_FINGER].content": {
+      "pl": "Wskazujący",
+      "kr_sha256": "97d0cc0e32bb24a74e0de1f3d4d14cbba104b42f6da65e85ef3293f4fbcb9780",
+      "en_sha256": "612bcb87f4a613658040693316c5da3c4af764b3af384494dbc1f439ff5927c0",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_LITTLE_FINGER].content": {
+      "pl": "Mały Palec",
+      "kr_sha256": "6d810555c4b7919fdb8047545ae29a6fe2502ee1a99b0e5b2d83d0addf276a7a",
+      "en_sha256": "a156460c2cdb12c7a84b34de0b6aa4751ae45b169354390fe717caeb53e3d5ba",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SPIDER_HOUSE].content": {
+      "pl": "Dom Pająków",
+      "kr_sha256": "06cee8329c6ddae3a8f35acf1fe17a20a8423576a96c984d91a6244cbfc6cda3",
+      "en_sha256": "b74e70d906210794ab86a6a0b37cfbcf8ab9b4e64fbb476e5483380f1ccb171e",
+      "origin": "ai"
+    }
+  }
+}

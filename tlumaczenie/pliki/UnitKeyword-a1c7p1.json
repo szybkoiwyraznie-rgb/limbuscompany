@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_BLOODBAG].content": {
+      "pl": "Worek Krwi",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "3977abc0bb8b16d3312da3424e7a1f9885ceea7d7b64877a5277b7b8d76f082a",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_BLOODFIEND].content": {
+      "pl": "Krwiożerca",
+      "kr_sha256": "7983603bf6eb46b6231f871978bd9204ec568cb0b75ec0725fd565a67919cb5f",
+      "en_sha256": "4887e2b67064bcb6c64deeb7ff8412e386128f0f7ea73c315b096ab541524b67",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_DEPENDENT].content": {
+      "pl": "Pokrewny",
+      "kr_sha256": "e6d44463bc4b761ae721697744606b160970b24fd689b78edc33ea0ca6faac4e",
+      "en_sha256": "213c649df845274f0590aae4a97f84eb72a8935662c6fb10c7a63bda2e69549f",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FANG_HUNT].content": {
+      "pl": "Biuro Łowców Kłów",
+      "kr_sha256": "7c54d6bb526072dacacc2c03179ec7aae1d910b500c2e911636c8fdeeb7065b6",
+      "en_sha256": "0517c9cec039285669edb910ded5020f52677dd9b18dda6265a3d3601dd60352",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FULL_STOP].content": {
+      "pl": "Biuro Kropki",
+      "kr_sha256": "5050ca5ee8c12ed176ec53af225a67bb9d19191622b48deedb910818c7190b41",
+      "en_sha256": "a214a1f3b673875e22bec77b00f3642b48a2be4249a1d1525231491968cb358c",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_THIRD_DEPENDENT].content": {
+      "pl": "Trzeci Pokrewny",
+      "kr_sha256": "2c4ac8119028f3e878fc8b9a611addfcc1af624560b8158e36d57ac0a7fe6dc8",
+      "en_sha256": "66261a68708f25ec057ffc1e505cc1e27b4cd460765de17b318dd16ec302b2cf",
+      "origin": "ai"
+    }
+  }
+}

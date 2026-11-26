@@ -1,0 +1,460 @@
+{
+  "entries": {
+    "dataList[id=AMBER].name": {
+      "pl": "Bursztyn",
+      "kr_sha256": "08cc0870bd508821acc6845c1503180c90f3a330149ac511d1f90f62380ad99b",
+      "en_sha256": "a5cccbcead7dcd65375ec6ea6ec28e3cd59af94417bbbee3276764c5d60ae5e9",
+      "origin": "ai"
+    },
+    "dataList[id=AZURE].name": {
+      "pl": "Lazur",
+      "kr_sha256": "53ca6b594a240acca9a51b6f4bde7f3f73746fe8c0072bcc6f29202b510ae6f8",
+      "en_sha256": "3140d22d8cb307e2e7ffbae4a07225e09537ce90c32033582f01d979c0ad8f26",
+      "origin": "ai"
+    },
+    "dataList[id=AllyKillFail].name": {
+      "pl": "[Nieudane Zabicie Sojusznika]",
+      "kr_sha256": "4155bd4158d9871c4b84d95219845b4466cfbf976efd2a9bd3ba061c3d174567",
+      "en_sha256": "8ecfd7e6d2d267969bf40a991bd541508b6f2f41dfabe78db9dfb2f096007491",
+      "origin": "ai"
+    },
+    "dataList[id=AllyKill].name": {
+      "pl": "[Przy Zabiciu Sojusznika]",
+      "kr_sha256": "b0f6d8b70b4197b18dd8380d85f78e85db7b9406506133d58ab9768da6c9ba05",
+      "en_sha256": "18ec62c04cbde3f6270fee8c5dfb64ae2d43bc86c31b84d48221e2dd4090779d",
+      "origin": "ai"
+    },
+    "dataList[id=AlwaysUseEGOPassive2010911].name": {
+      "pl": "[Efekt Stały - Wyłącznie dla Lobotomy E.G.O::Uroczysty Lament Yi Sanga]",
+      "kr_sha256": "ea93ed71a9183d26a1f9e1e46fc9ae3ef9cffb1dfcb164c64c484eee897bf46a",
+      "en_sha256": "db56c1f90af4675e5e59f7f490816bd0c783ddef82947ad64e512a9359ee2e66",
+      "origin": "ai"
+    },
+    "dataList[id=AlwaysUseEGOPassive2050911].name": {
+      "pl": "[Efekt Stały - Wyłącznie dla Mentora Rodu Ostrza Meursaulta]",
+      "kr_sha256": "bdfaac90b24753ecbc077fdcda9a683bed687252fb98f74d6f6376982ba7dad4",
+      "en_sha256": "90523b1b4afa0e9cfe808ae07ce137b8633027029da71eba2b9bc7bf01926d1c",
+      "origin": "ai"
+    },
+    "dataList[id=AlwaysUseEGOPassive].name": {
+      "pl": "[Efekt Stały]",
+      "kr_sha256": "c454cb48201e8effe83f0e62380304d07660d5c6cbc33a87ed8b0ddeaa4ae9a6",
+      "en_sha256": "54eeedc7ad233b2b8295b425c4e4921ab43d3df9d44285649b040d3ab1f2e69c",
+      "origin": "ai"
+    },
+    "dataList[id=AlwaysUse].name": {
+      "pl": "[Stały]",
+      "kr_sha256": "611c78be5673a5bf9fee2cf9214a6e60fd79c8afba46f0e0dd5464c848fd8e22",
+      "en_sha256": "a96239ba0b8eb686d7b0e314ca886187479b3ad7f6cd05c41c48cd038cfce31b",
+      "origin": "ai"
+    },
+    "dataList[id=BLACK].name": {
+      "pl": "Czerń",
+      "kr_sha256": "d9e0b2c036309a971315e9868cae67f9fb36b3568c147d97d65ee82d6cd13126",
+      "en_sha256": "c6cfe6e4f129a34671d10c1bbe158eff05197d388727e331951b0ec2637c194e",
+      "origin": "ai"
+    },
+    "dataList[id=BeforeAttack].name": {
+      "pl": "[Przed Atakiem]",
+      "kr_sha256": "e6a65ead85bef096f00d6b19e60e98d0cedb930a0958a87c2fa6ee7f1dc78e5e",
+      "en_sha256": "7eff6b6f56a01c255f28074c207cb110d44524a6f9e3bd08c8a1ef43b6d99549",
+      "origin": "ai"
+    },
+    "dataList[id=BeforeBehavior].name": {
+      "pl": "[Przed Działaniem]",
+      "kr_sha256": "af5490d8feed706dc765c2f6fe15e1cc51f9eb634af0eae36a99f3dafa984fd7",
+      "en_sha256": "cb4288ed490c37e0b2c8dc59d3089386016844ddb4c89a43790385be5822a721",
+      "origin": "ai"
+    },
+    "dataList[id=BeforeHit].name": {
+      "pl": "[Tuż Przed Otrzymaniem Ciosu]",
+      "kr_sha256": "0b6a3b0f896736bcdee0359d800ea61370212dce0cff06ee466d8117d27549e4",
+      "en_sha256": "920158c18ecc402712e2d0316eaecf822a77c21e1bdab55dba1c096796da263c",
+      "origin": "ai"
+    },
+    "dataList[id=BeforeUse].name": {
+      "pl": "[Przed Użyciem]",
+      "kr_sha256": "fc0e1b93052350179795115f7f40de6728ba8741b3bb6d3b1bc8372a787f2b8e",
+      "en_sha256": "bb845be16d890de7f6d50a710110a0eae951d372bb8c41fa90428139ffb91f70",
+      "origin": "ai"
+    },
+    "dataList[id=CRIMSON].name": {
+      "pl": "Karmazyn",
+      "kr_sha256": "312153cf826c5582fb77486c5126d267dfe26321bf0b67eafb3e0b98f0f7bd0e",
+      "en_sha256": "133f94844291880fffae2ac52cc43e8c725c24997ab8b43a07aad8894290bd84",
+      "origin": "ai"
+    },
+    "dataList[id=CantChangeTarget].name": {
+      "pl": "[Stały Cel]",
+      "kr_sha256": "e17aea52f4f9da69806ebf73e68a846be41b6cc40a90f33e83464b946f32ce75",
+      "en_sha256": "12ed3c6754123225f4ffd850df7d826910794ea3e799af43ad9bf5d9d58fb0ba",
+      "origin": "ai"
+    },
+    "dataList[id=CantDuel].name": {
+      "pl": "[Niestarciowy]",
+      "kr_sha256": "6216cf401c8b3344d80e451f2d8248f529289f58bb1fae3bc38693d910c6ea73",
+      "en_sha256": "63dbd94676a6ac3fae9cdcb60dd1f2294efd0716554d9e7ebde48b0e5b822f94",
+      "origin": "ai"
+    },
+    "dataList[id=CantIdentify].name": {
+      "pl": "[Bez Rozróżnienia]",
+      "kr_sha256": "cc6b6e7e332566c70a3257f9bd3bc199fa356334e8e1dfe0cd098c4e0a3c3031",
+      "en_sha256": "a0e4fcaa1aa5df379775e552d82d9759402c150edb4bd28e1cb943831be2e4eb",
+      "origin": "ai"
+    },
+    "dataList[id=CoinHead].name": {
+      "pl": "[Awers]",
+      "kr_sha256": "3bb866e5ff42dd5aa9eb0e9a996fb82b4694db8c7243a62d6f0549b370222bfc",
+      "en_sha256": "f73c964fec73c946b47fd55e253acddc00f2401f6a9911d56fe67b38dee5a80e",
+      "origin": "ai"
+    },
+    "dataList[id=CoinTail].name": {
+      "pl": "[Rewers]",
+      "kr_sha256": "753a398a65a635225a1dff0fec6e916e0259a5d218bc4253e17a963f2d86d7c2",
+      "en_sha256": "500314d698fef0580bb81c59b2086a01ab6e68a1205d3d730ef7ef8e8a9fa7b6",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalActivated].name": {
+      "pl": "[Przy Krytyku]",
+      "kr_sha256": "0dede48ab53b3304f6b4a4edf23b2359ef99198080b1c2ebe840da1b2dd9fc13",
+      "en_sha256": "07b1af1a2a05ffaa28880e095f65fca7aca296df7e096606e5f75125b9de1f3d",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalEndSkill].name": {
+      "pl": "[Koniec Ataku Krytycznego]",
+      "kr_sha256": "66da908c7c600bc093c6b3363af806048ad9e3682018998ad246552ebc495c7a",
+      "en_sha256": "d23d1237771f7614fb37c680e8d7e4083fcb8938a0de9c3fc7d91428e6a6b3f2",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalEnemyTargetKillFail].name": {
+      "pl": "[Nieudane Zabójstwo Krytyczne Wroga]",
+      "kr_sha256": "da0df67c1e1920c286e8763df119eb144b137f76e974cccfeb5f8047a384cabc",
+      "en_sha256": "6dbdc6d83b4c45a08cba3d34b1f82a4c3828cbcba28d5b1730262ed90d570f89",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalEnemyTargetKill].name": {
+      "pl": "[Zabójstwo Krytyczne Wroga]",
+      "kr_sha256": "a6341bbe9c4fab0e3d0211d180b095d12f40226f641cbb912c1ea37c3b141828",
+      "en_sha256": "f1e3330cbaf69d879fd163a461d10b7845410843c1eeb76585a858cb4eedef7c",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalOnSucceedAttackHead].name": {
+      "pl": "[Krytyk - Trafienie Awersem]",
+      "kr_sha256": "8becd0e2c0e15e1f3ecf814b8b3a7610d6654f2d12010c11c19ed187b0e02969",
+      "en_sha256": "54f8445b519904e7afb697cbc3dbbe68268053cf7cfb028aafb2df72b3e9740c",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalOnSucceedAttack].name": {
+      "pl": "[Trafienie Krytyczne]",
+      "kr_sha256": "429b84af65c7341661c9d024591d7d74f255b08de7ab1c7033048200e5af6c96",
+      "en_sha256": "07b1af1a2a05ffaa28880e095f65fca7aca296df7e096606e5f75125b9de1f3d",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalTargetKill].name": {
+      "pl": "[Zabójstwo Krytyczne]",
+      "kr_sha256": "3c606a472f71d7750622301a03db406841090d818535952dff785dcd1054fc3e",
+      "en_sha256": "dafdab0040e7a70d683d067eda7f6f9fd0aca760d8881df24ad506c1dc11185c",
+      "origin": "ai"
+    },
+    "dataList[id=DefeatDuelAttack].name": {
+      "pl": "[Trafienie po Przegranym Starciu]",
+      "kr_sha256": "c6835b35df1d38fe7bb5ec7c3a7d308be3d96409cc9cd4145e903f693938acde",
+      "en_sha256": "0bb43d99df6733cb0badd9f76716813fcad586ea61acdf560f9fbcc7c91a2bf4",
+      "origin": "ai"
+    },
+    "dataList[id=DefeatDuel].name": {
+      "pl": "[Przegrane Starcie]",
+      "kr_sha256": "d88278a8e3005877d6b4f85974c1ba59938115efe7ba99dcbb7ea960632ae127",
+      "en_sha256": "7a37cb944c5018b2385c15ee335c12510711583d9e47ecf4c7ca43b9b03d4487",
+      "origin": "ai"
+    },
+    "dataList[id=DuelCounter].name": {
+      "pl": "[Kontra Starciowa]",
+      "kr_sha256": "0fd62aee5a459037f3c993a5cdc0957002c85e8b9405bb658414868d0f29d14a",
+      "en_sha256": "a4b234fe504857aa7ad0db1e77d2dee54ae28d7c36b222c4400bb2cd8618c544",
+      "origin": "ai"
+    },
+    "dataList[id=DuelGuard].name": {
+      "pl": "[Garda Starciowa]",
+      "kr_sha256": "bcea206000fa457987237040f69a89ff006875e30946db213dc3849d0ce175dc",
+      "en_sha256": "21fa9398349e818bad84f6e92f75adcd10e755a46fa81b9a71a06724d0dcd734",
+      "origin": "ai"
+    },
+    "dataList[id=EndBattle].name": {
+      "pl": "[Koniec Tury]",
+      "kr_sha256": "5e2e4cc491cd34cc1ec618b7e700b056aba6d3c5029f91422857bdc05a63ae47",
+      "en_sha256": "b9709b23a47db2e9a96ac5c0a4079a882a0ff13c0398ab23d61d6914a5723dc1",
+      "origin": "ai"
+    },
+    "dataList[id=EndCoin].name": {
+      "pl": "[Koniec Ataku Tej Monety]",
+      "kr_sha256": "7f0b8f1adc664c3ca59bd3a6427e33813f1e0f543c9761ed52454f87594ec0a0",
+      "en_sha256": "5d6fa7f9996eaf786537aee9f665b2ff4e6f2314fc2cdf4fb76f73ea0b68ec6c",
+      "origin": "ai"
+    },
+    "dataList[id=EndSkillAll].name": {
+      "pl": "[Koniec Umiejętności]",
+      "kr_sha256": "d5a9ecc72015377f5e868d88d9ea934524085bed7c53f2686f764c948808960d",
+      "en_sha256": "def58a32d66bd7052dfb49a100b1a0364f3de7dbd3527c6ac7b355d295fbdc4a",
+      "origin": "ai"
+    },
+    "dataList[id=EndSkillHead].name": {
+      "pl": "[Koniec Ataku Awersem]",
+      "kr_sha256": "ba90c398647d8648ac731f95a015710cf8f50f7415af2bec395c342ffb195ca7",
+      "en_sha256": "7864d880304d99df535bc77a3c804b112aaa72c0b9f8d0237c5e1538fd232dc3",
+      "origin": "ai"
+    },
+    "dataList[id=EndSkillTail].name": {
+      "pl": "[Koniec Ataku Rewersem]",
+      "kr_sha256": "b542447b164568802da92dd35e761d2ade3c342da6722d56162cefffc9548034",
+      "en_sha256": "1b257bfecf34f7a152e4e18d501fcbf8f3389224e08f6c649980234b9c8f9bbb",
+      "origin": "ai"
+    },
+    "dataList[id=EndSkill].name": {
+      "pl": "[Koniec Ataku]",
+      "kr_sha256": "dd970e5b9db13f8b9f68daedae5224201dd86297625fcd8cfc0395795dfe17ca",
+      "en_sha256": "d7b15704de482acaa7cf2a78ca60656f8b5cca84d4314fd06e1bb1c7d3f624cb",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyKillFail].name": {
+      "pl": "[Nieudane Zabicie]",
+      "kr_sha256": "b63b083d9d7409e6b8d11384727cf534bb14d4e9c793c6672732f0210c189c91",
+      "en_sha256": "935f7956e5199aca83fb2dd6383d771322be7f20cbf0677ff6f98cc903253629",
+      "origin": "ai"
+    },
+    "dataList[id=EnemyKill].name": {
+      "pl": "[Przy Zabiciu]",
+      "kr_sha256": "338ba2f94baa09fb289370e9dc63368cf684bbe6cf37b0c6df3e1bd939ef41b1",
+      "en_sha256": "d55584c5275ac07b9df1df5c1cdae43d4cfa615a1040eb4e4b151b6c4a8305fe",
+      "origin": "ai"
+    },
+    "dataList[id=INDIGO].name": {
+      "pl": "Indygo",
+      "kr_sha256": "84281512d207b63dfdaff9aec394295340dacb9f975d919cd99cfe81f43e5597",
+      "en_sha256": "d81ab149e9771d94b85622a55cab77b4d9521e0579ad9abb46a4669d04c731c4",
+      "origin": "ai"
+    },
+    "dataList[id=OnBattleEnd].name": {
+      "pl": "[Koniec Walki]",
+      "kr_sha256": "7855de9bb5f59e018da11878222bf4fce3e48ee43f603a2216818f93da043bbd",
+      "en_sha256": "0143e2b21fd81c276d283448eff0ebe402e8a1eae3400b8238a3d9e653b8442c",
+      "origin": "ai"
+    },
+    "dataList[id=OnDefeatEvade].name": {
+      "pl": "[Nieudany Unik]",
+      "kr_sha256": "89c2d71748c2ef662edb5d52260bd03854ba3a569bcedd99907443a428244274",
+      "en_sha256": "1f32a97a26e8d49bbb7b277b37028e22172f07648e3823039e9574dc966536c7",
+      "origin": "ai"
+    },
+    "dataList[id=OnDirectAttack].name": {
+      "pl": "[Atak Jednostronny]",
+      "kr_sha256": "7d6188727a73d3af5b694049a05cd657b09f7dcc533ee8b0990fbcfc14d086ce",
+      "en_sha256": "a4656ba964738071ffc35a412e05dc3a768b93751b2d8670fba1774ad77b13d7",
+      "origin": "ai"
+    },
+    "dataList[id=OnStartCoin].name": {
+      "pl": "[Początek Monety]",
+      "kr_sha256": "9e6337edb8ae96ef2ae4e2970db2d756dfaa646e68458e04e8dd362743b9d55a",
+      "en_sha256": "8944cf7bfe9668103262d68e44aca17114719e729730b19fdf8465a45610738b",
+      "origin": "ai"
+    },
+    "dataList[id=OnSucceedAttackHead].name": {
+      "pl": "[Trafienie Awersem]",
+      "kr_sha256": "9538950513aa96ec4739e6f6a7eae59573e2c2d6085ff98d3dc619f9210172cd",
+      "en_sha256": "0d83b69650f77285781d7e69c33539ad6d93dce77a8142d1c6cc2ec5440bac33",
+      "origin": "ai"
+    },
+    "dataList[id=OnSucceedAttackTail].name": {
+      "pl": "[Trafienie Rewersem]",
+      "kr_sha256": "47c776f17ffafb769729136277b11eb15626e2519d4457ed91e2428d768442d0",
+      "en_sha256": "a017dd7d3552b9eb06680b8e2db5ae215a7e4a890df7a62baec2ebfec0faadcf",
+      "origin": "ai"
+    },
+    "dataList[id=OnSucceedAttack].name": {
+      "pl": "[Przy Trafieniu]",
+      "kr_sha256": "00862ee5269f6b1a3eb41857b86ebed21b8e930c4d10532ae40ff077e943a45e",
+      "en_sha256": "1df34bd41efaf2af9d0a47aec0e3e9698f779b537064b6956d90c7a45afae5e9",
+      "origin": "ai"
+    },
+    "dataList[id=OnSucceedEvade].name": {
+      "pl": "[Udany Unik]",
+      "kr_sha256": "4f2cedbbfe29964d5049014a1357cd82f522bb01f45e96f97798d548ee9e7e1a",
+      "en_sha256": "08270e624f97844c1ea6d4bb4e1c3793b703b4f7f9a7008f4383455b6d7bee38",
+      "origin": "ai"
+    },
+    "dataList[id=ReUseOnSucceedAttackHead].name": {
+      "pl": "[Ponowne Użycie - Trafienie Awersem]",
+      "kr_sha256": "488dfc62683d8391ee73b652268250010cb5d8b0f94f7f5dcc0c20b945be05f1",
+      "en_sha256": "7588c7c3c7bd03987379c6e2695dfafa94dc2a1421268a027043677f58cacc81",
+      "origin": "ai"
+    },
+    "dataList[id=ReUseOnSucceedAttack].name": {
+      "pl": "[Ponowne Użycie - Przy Trafieniu]",
+      "kr_sha256": "4015deeced79075b685b6fd6e36a4f183763a42e16a526acf9710be6ae49662e",
+      "en_sha256": "6d42bbc4cf2af6205e30db83ecd94e193bb3b209b6263639ce441d3fafec82e6",
+      "origin": "ai"
+    },
+    "dataList[id=ReUse].name": {
+      "pl": "[Przy Ponownym Użyciu]",
+      "kr_sha256": "c5407f51637c58ef03d98e9e4998f4c99ace6911c872adf3778c0940441a9fc6",
+      "en_sha256": "1d56e56b0d4d99caadb28c23be3541eaaee31192b9880612a724463f01facda4",
+      "origin": "ai"
+    },
+    "dataList[id=SCARLET].name": {
+      "pl": "Szkarłat",
+      "kr_sha256": "39e1a710f8ee91c321387a2cb067853ca5161ab24d3fe1da876f1884e6f0adbd",
+      "en_sha256": "f11da03479fb834c862fae946e9fe8091c9edf34a2b84e29219d05b5abf09dea",
+      "origin": "ai"
+    },
+    "dataList[id=SHAMROCK].name": {
+      "pl": "Zieleń",
+      "kr_sha256": "31824fa47ff2f0e5d83704f29c2f43725d2832cfbe63c450ceb4c4d15b52eb5f",
+      "en_sha256": "bd09b63386acd78f1d874c69057f4d5c592faf3a0469fe91ca81b59435a2caaf",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle].name": {
+      "pl": "[Początek Walki]",
+      "kr_sha256": "1f1a110583d88b6c45d0c2748b1f8437545fe4fe319848f8e81a58c62f4e821f",
+      "en_sha256": "f93d7dbccbfae3fcb1195e092a0e5b8b50c523eaab61eb78ae7cf5d4e5982aaa",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle_Force].name": {
+      "pl": "<color=#93f13e>[Początek Walki]</color>",
+      "kr_sha256": "b6e26ba312e90a44e6245e47d16b765111a8a0ef59285a96b3368f03b23122da",
+      "en_sha256": "f46641736e3526088271f2586df6d4b8cc95c8d21a17c00f67906a317f21e751",
+      "origin": "ai"
+    },
+    "dataList[id=StartDuel].name": {
+      "pl": "[Początek Starcia]",
+      "kr_sha256": "d29f1a357d99486da86cb78382a3c9d526e149881da50b52a02e0a0cc6e9ce3f",
+      "en_sha256": "4523724d6e93d38586feaa84b604279085a5353895da5ef5094c6e0632cba48b",
+      "origin": "ai"
+    },
+    "dataList[id=SynergyActivationConditions].name": {
+      "pl": "[Warunki Aktywacji]",
+      "kr_sha256": "0346d8e1ec4646f11e65c27ec112083fc7cc18c802ab1fe3a06dc2c92c3a1804",
+      "en_sha256": "b127632780296efd7f38156f274f80a2dca7a70478f7b4c0405f244e92343437",
+      "origin": "ai"
+    },
+    "dataList[id=SynergyActivationEffect].name": {
+      "pl": "[Efekty Aktywacji]",
+      "kr_sha256": "71d875ce3a0530e77af95e192df1b8a3862ddefec402314c30d7e8ae21dd9efa",
+      "en_sha256": "976427faaaa163196c5c9751c49c033b2819483dacedb696b8e00acebb893e86",
+      "origin": "ai"
+    },
+    "dataList[id=TargetKillFail].name": {
+      "pl": "[Nieudane Zabicie Celu]",
+      "kr_sha256": "ba1de61ac81ab43eca1dc0f1d6d8959f3f1f62b2efda8a2eef6b1a2ed01aa014",
+      "en_sha256": "64b6963fc4f4df76029552acfdecb132e4e7fbe97bee64fe3b13f44974195a76",
+      "origin": "ai"
+    },
+    "dataList[id=TargetKill].name": {
+      "pl": "[Przy Zabiciu Celu]",
+      "kr_sha256": "e2a50f2ceba029a487701cbedd7c02d8a6d83156ccea43598a6cec4f99acf570",
+      "en_sha256": "c73aa774125bd55a363c2f5dc033155d64990e503b78cbf5a3e5227690b6d56f",
+      "origin": "ai"
+    },
+    "dataList[id=TurnStartBattle].name": {
+      "pl": "[Początek Tury]",
+      "kr_sha256": "bc45a88351648628cd1568f2663797861f9cda4363ceaf593bcdbc239d6feaca",
+      "en_sha256": "e3c31bf0182829436fff0320c7a38d3ab3f5a0c56789dfb99e28d2058ec4f77f",
+      "origin": "ai"
+    },
+    "dataList[id=UnBrokenCoinOnSucceedAttack].name": {
+      "pl": "[Trafienie bez Pęknięcia]",
+      "kr_sha256": "f2858a897e0cfaf09c022595a04447e3094d2d8403e0d378c9b53a126fead684",
+      "en_sha256": "37da742899e813765607a273500006b61ca774412ced73bd369ba5aed237cd10",
+      "origin": "ai"
+    },
+    "dataList[id=VIOLET].name": {
+      "pl": "Fiolet",
+      "kr_sha256": "aa4155165c4852a943b9741240d0d02377d8d6071a52bf7e01ae070829739d94",
+      "en_sha256": "2a36428839a37e680cdce701c1100a695cf2cac101f81f594ba4ec8c8c8a8d3b",
+      "origin": "ai"
+    },
+    "dataList[id=WHITE].name": {
+      "pl": "Biel",
+      "kr_sha256": "a1e63f0c6f7b24bd41a451b928ff771c03519aad4996660a3b106fb0de0a44f3",
+      "en_sha256": "3495e757855a5c678addcf32516274e2962d0572f065378dba689e22168f28dd",
+      "origin": "ai"
+    },
+    "dataList[id=WhenUseEGOPassive2010911].name": {
+      "pl": "[Efekt Użycia - Wyłącznie dla Lobotomy E.G.O::Uroczysty Lament Yi Sanga]",
+      "kr_sha256": "f3b30e141b4bb6f9a35e321219f60ef187e386e53d3daa78ea65940f5e31f2cc",
+      "en_sha256": "c04bdfccb94d97ad22113741cec2c1cfa63571d274515880c4fe4455a2f38199",
+      "origin": "ai"
+    },
+    "dataList[id=WhenUseEGOPassive].name": {
+      "pl": "[Efekt Użycia]",
+      "kr_sha256": "fce14ddb3494129a5532433e7558db56305297b89d2fa7adde159ff6644fd960",
+      "en_sha256": "a93f7dd6c8082b3dc17f0623555528d0b084500083984d442dc8eeb93b59416a",
+      "origin": "ai"
+    },
+    "dataList[id=WhenUseEvade].name": {
+      "pl": "[Przy Użyciu Uniku]",
+      "kr_sha256": "41a2209f0f4b479650bbf728116bc455f8689d6a3ed8e5a4a07c51a22e7e654a",
+      "en_sha256": "c9d99230bdea3de7e74b2b26bf8bae12622412cb2b5b5bec02e871c2dc0115d4",
+      "origin": "ai"
+    },
+    "dataList[id=WhenUse].name": {
+      "pl": "[Przy Użyciu]",
+      "kr_sha256": "25c5d9bfe9c48f9528bf4469c5674772507aad33504d31ce7334ee3c79c11ff3",
+      "en_sha256": "e34ed569c714c28ba4122a9c648ded168ea30fd44fcdf6b1771bf57821dbe6f0",
+      "origin": "ai"
+    },
+    "dataList[id=WhenUse_Force].name": {
+      "pl": "<color=#26cfff>[Przy Użyciu]</color>",
+      "kr_sha256": "13a98b43992a958fac1045a10e0c23199f062ae6e1a5f4e39a8e7d4d07554bb4",
+      "en_sha256": "2794672bb96ba8ee8fdaf8486d0fd0f700c8e8f845d1243e33f67bf3e8b6b1ed",
+      "origin": "ai"
+    },
+    "dataList[id=Wide].name": {
+      "pl": "[Obszarowy]",
+      "kr_sha256": "cadc67b88c136fcb1c0f190a958eef28851a6024e196e24f5a65ab6eddf14385",
+      "en_sha256": "7239d9e260c4f1a6c2d9607d1ff6488282763c9fad03093bf0b263f844cb4525",
+      "origin": "ai"
+    },
+    "dataList[id=WinDuelAttackHead].name": {
+      "pl": "[Trafienie Awersem po Wygranym Starciu]",
+      "kr_sha256": "68e673b7c5bbbf11194fb7148d0706c77d687599f502ea977be1961615ad6fca",
+      "en_sha256": "2f09a135e192798ddaead020498e8aff178117ce7c1d81aeb810f8b43ec58ac1",
+      "origin": "ai"
+    },
+    "dataList[id=WinDuelAttack].name": {
+      "pl": "[Trafienie po Wygranym Starciu]",
+      "kr_sha256": "62eb6a4462e15df937a0f7a98993e3d936e68f09c8f08ac72f6776fc7b27dd12",
+      "en_sha256": "12e901755b9d81a97db1dee6dd71212277f8ff67a24ecb080522c2d41c28f5bb",
+      "origin": "ai"
+    },
+    "dataList[id=WinDuelEndSkill].name": {
+      "pl": "[Koniec Ataku po Wygranym Starciu]",
+      "kr_sha256": "0539436bc561ac55f138369e0fdada00cac47f477bfdb95da82d0a9d4a610f2b",
+      "en_sha256": "8d6a475ca99a34172b24483481af492dd185585f576eebed35b67373ec3d504f",
+      "origin": "ai"
+    },
+    "dataList[id=WinDuel].name": {
+      "pl": "[Wygrane Starcie]",
+      "kr_sha256": "bd47537d0a1701f370b5899839933f7351a14a90cffad1b3f7249ffff5027252",
+      "en_sha256": "d9b51ae4a75b9243fe683b18c13280314062eac2f7c3b730432fba3b38a79b61",
+      "origin": "ai"
+    },
+    "dataList[id=nxBackLine].name": {
+      "pl": "[{n} z Tyłu]",
+      "kr_sha256": "273359639e7f967f90cbfa8db7126e992bd5c64396d4a63a676d74c7b694295b",
+      "en_sha256": "6e054d3e481e92487c7388b52ca5f2cebd9c229e0a5f80e04ca6d68d04320180",
+      "origin": "ai"
+    },
+    "dataList[id=nxCenterLine].name": {
+      "pl": "[{n} w Środku]",
+      "kr_sha256": "c014809bf9f89d72d218729db1dc14e8201453a20fed29c9abc628ed46be99f2",
+      "en_sha256": "f4a033fea07fb1252e92da46cb295eeac28d2f44c3f36087b21e68fde1bbff8d",
+      "origin": "ai"
+    },
+    "dataList[id=nxPostLine].name": {
+      "pl": "[{n} z Przodu]",
+      "kr_sha256": "5677c524d35252f05607f53f4c0bbd5449f075c0838c0627cb82cc32262e172b",
+      "en_sha256": "8dd483a0b0907d9f53142f75f3a7bd39bd4bac3846cefa5daa45d12a518ce2ed",
+      "origin": "ai"
+    }
+  }
+}

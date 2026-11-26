@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_LAST_KNIGHT].content": {
+      "pl": "Pełnomocnik Wyroczni",
+      "kr_sha256": "e5260b191fe0064c5ca0806e283e22ad95657c04c14798812434f1bf140e9e5c",
+      "en_sha256": "6d4f27a612db1a2464a8dbe918a779c94a95b136e04eb75b627b9ce247aeb11d",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SEA_BORN].content": {
+      "pl": "Zrodzony z Morza",
+      "kr_sha256": "b3ab137f2754dd80000c7f85c797d818fc361ed357d120c46a60480b92d6ce01",
+      "en_sha256": "67c0a6fa39aec076f8f2c98dd70451a062fe96db8ce8ba57aa62d9cf6cf504f5",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_SEA_TERROR].content": {
+      "pl": "Morski Koszmar",
+      "kr_sha256": "7c6cdaa32def0966837b6f4151150a6f52707d164b7d18813997d3330ecc9e4d",
+      "en_sha256": "c5e0c550aa3b052d52f1a1fc28ca3e18b2e5c80daff25933d2199f98333ca35e",
+      "origin": "ai"
+    }
+  }
+}

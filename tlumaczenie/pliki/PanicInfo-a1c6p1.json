@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=1017].lowMoraleDescription": {
+      "pl": "Trać 5 SP po przegranym Starciu. Przy trafieniu zyskaj 1 [Agility] w następnej turze (maks. 2)",
+      "kr_sha256": "64af0dc0432d8f1b2fe938c7fb52ee919673371885885cf001ecf2beeffe3fa2",
+      "en_sha256": "c94100815f120290c91e54922b92d235db24d26fc5b61c9ed715c910b739d5b1",
+      "origin": "ai"
+    },
+    "dataList[id=1017].panicDescription": {
+      "pl": "Zyskaj 2 [Vulnerable]. Przy trafieniu zyskaj 1 [Agility] w następnej turze (maks. 3)",
+      "kr_sha256": "b3d6280a4979e2f17ce0ae7b0873ada8267997f46c52e6542dc136d964fbaf61",
+      "en_sha256": "b80c654c65c53c5ba97a911a222358ceeb81ceebe85fbc4e9c86ce6b8a477dbb",
+      "origin": "ai"
+    },
+    "dataList[id=1017].panicName": {
+      "pl": "Przymus Porządkowania",
+      "kr_sha256": "d445e962a67f122c7bd6337c7c1ccd38dde2dd2176b070e9b40556e216e6cafa",
+      "en_sha256": "a8d5479e4b0e550e6ed3e79e749c7b46e8926d04214eb1798cb9011650b5326f",
+      "origin": "ai"
+    },
+    "dataList[id=1018].lowMoraleDescription": {
+      "pl": "Moc Starcia -1. Zadawane obrażenia +10% przy Trafieniu Awersem",
+      "kr_sha256": "69795aa6dd310d994b9ca40c9912145e621dd112e8ff66f309041eb7ad676bdf",
+      "en_sha256": "3d6ca152dbbc8a5c47bed4d9a1a204b7b88a70031de5afea64cdc363fdd62a01",
+      "origin": "ai"
+    },
+    "dataList[id=1018].panicDescription": {
+      "pl": "Moc Starcia -2. Zyskaj 1 [AttackDmgUp]",
+      "kr_sha256": "17ca18008c7251372118a2bb86b13e0f076f5867809a3ae2dea193947b9b5b96",
+      "en_sha256": "708a747bd3cffc94a29dd24e3358009b02276ae834cb6f10b8c622428db26ece",
+      "origin": "ai"
+    },
+    "dataList[id=1018].panicName": {
+      "pl": "Echa Posiadłości",
+      "kr_sha256": "adb0bd71e0c0d24de81840f4a90df73e2542289ed301ba28bb03d46800390c91",
+      "en_sha256": "296206a21122daaa6ef8a72417918ddac39274dddb40d9c4fe44ea4c088ce9ca",
+      "origin": "ai"
+    },
+    "dataList[id=1020].lowMoraleDescription": {
+      "pl": "Trać 2 PŻ przy każdym Starciu. Początek Tury: zyskaj 1 [AttackUp].",
+      "kr_sha256": "5dccd3305c87df5559b16529705eb324b598c0dd17ede0e96e8d13d308be49f4",
+      "en_sha256": "14b9677ca97a7aa578d9e508875bf8973ea4491f029950ac431ca7e55d58107b",
+      "origin": "ai"
+    },
+    "dataList[id=1020].panicDescription": {
+      "pl": "Trać 3 PŻ przy każdym Starciu. Początek Tury: zyskaj 2 [AttackUp].",
+      "kr_sha256": "b397371d8cea72965780f4b1f322f5b9cb6f4aeac4f8bd77b82deb3fb72c5051",
+      "en_sha256": "3caa9613cdec5186698cf0bb717a04440c1b132cc85ee6f88d80d7461808285c",
+      "origin": "ai"
+    },
+    "dataList[id=1020].panicName": {
+      "pl": "Rozszczepienie",
+      "kr_sha256": "d1ae428544d5aa908f65236a3cd34315c1ce4068b6e39e2dadaad59efc929535",
+      "en_sha256": "56f1d512baead8e090fe38a52a7f6a3bda83a2afc5ded484a532b9da64834c5a",
+      "origin": "ai"
+    }
+  }
+}

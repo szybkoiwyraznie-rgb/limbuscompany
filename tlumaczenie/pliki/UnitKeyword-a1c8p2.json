@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_FAMILY_SA].content": {
+      "pl": "Ród Shi",
+      "kr_sha256": "dbd33e5d1597d2bca3948386888c4d1cecb7e6e10669c06c2b78946aa4e27eed",
+      "en_sha256": "5cfcd1786bff9fb739dd4ac3ac2e8bee3424ae29f240fedc845acb3f0aca8487",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FAMILY_SEOL].content": {
+      "pl": "Ród Xue",
+      "kr_sha256": "cd7f9c7528de9c0d1ebfeaf2224465552752c3c6538ff7de896e97e2108e37cb",
+      "en_sha256": "b283755427ff14a1ee03899881ce4361ec666807159cc96514459b42146d49e7",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FAMILY_WANG].content": {
+      "pl": "Ród Wang",
+      "kr_sha256": "96d1bf9b693d9127877fd96004c259bb47151d64e2a98a0e5c6d182bc0bbf7f0",
+      "en_sha256": "10d03186762c4a9bece059017a83ee7d698025423d3e49520d7f5284257408f6",
+      "origin": "ai"
+    }
+  }
+}

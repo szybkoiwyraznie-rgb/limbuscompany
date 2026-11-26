@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=UnitKeyword_ABNORMALITY_EROSION].content": {
+      "pl": "Korozja Anomalii",
+      "kr_sha256": "0fcdd24b3bdc611902a888b7955771b3e72a196d984bfb6b852ee8387009873b",
+      "en_sha256": "9f3d97709943e1e4129b1be59f1511322e969da309f8d760f8f89871c88a7232",
+      "origin": "ai"
+    },
+    "dataList[id=UnitKeyword_FIRST_DEPENDENT].content": {
+      "pl": "Pierwszy Pokrewny",
+      "kr_sha256": "6d71c0619d2caab3f57cd1fdcf64357d3a1c7cca64a7e048acf9f21f40b9768d",
+      "en_sha256": "5fce45260d7521ed30eebe4bdbcde9704e480120f7929e9a8b20915565532d90",
+      "origin": "ai"
+    }
+  }
+}
