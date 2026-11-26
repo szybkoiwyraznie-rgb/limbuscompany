@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=walpu7_consumed_enkephalin].content": {
+      "pl": "Zużyta Enkefalina",
+      "kr_sha256": "d0e354f98685fa475f60a9ae86cc99f7d3346dd70f85ffb8f5a2da1a1c65885e",
+      "en_sha256": "38bf99e34190b5531a6117ed234ac3bdab08626b4aab7e1c7e67325e2fbd8d5b",
+      "origin": "ai"
+    },
+    "dataList[id=walpu7_reward_event_desc].content": {
+      "pl": "Odzwierciedlona zostaje rzeczywista ilość zużytej Enkefaliny w okresie wydarzenia.\nEnkefalina zużyta na produkcję Modułów nie wlicza się do bilansu,\na każdy zużyty Moduł Enkefalinu liczy się\njako <color=#22ffe4>20 Enkefaliny</color>.",
+      "kr_sha256": "dee0406bfa71def3a976b4baaa2f998f2867f5637913a1aec22e1d4bfe7143b6",
+      "en_sha256": "c65c0f6f25c42e10806ed4c2ec59fd10e842bbd8345b89ad32cf3f5377ee7ee1",
+      "origin": "ai"
+    }
+  }
+}

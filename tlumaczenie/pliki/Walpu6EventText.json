@@ -1,0 +1,316 @@
+{
+  "entries": {
+    "dataList[id=Walpu6_event_desc].content": {
+      "pl": "Stłum Anomalie Nienawiści i Rozpaczy na Poziomach Łatwym i Trudnym i ukończ misje.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "f4ae904a646dcfe61e22d5b1b56840912f45f745055663be8dcb0e682af3ed67",
+      "en_sha256": "393206c2fbaad25a645fdfb7adb95e8f31847519f34fbf6fd8aeb2dfe0f6bbc4",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10047].content": {
+      "pl": "Ukończ Tłumienie Rycerza Rozpaczy z efektem „Zwietrzały Rycerz” Umiejętnością Arcana Slave",
+      "kr_sha256": "8b803d60ef0303337ccd36bbbfbcd8419e3ed1ceb4f3188ba20f692ce5929df1",
+      "en_sha256": "68e2d0d4d6516eee5ad74b59794910a4163fdf5255a3dc425d15456bfbc53472",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10048].content": {
+      "pl": "Ukończ walkę, gdy Królowa Nienawiści otrzyma mniej niż 3 trafienia Umiejętnościami ataku wroga",
+      "kr_sha256": "a754a624f484bcc18d2a196b7d819b8970a8822da91b7ab15f1e382f87f5212f",
+      "en_sha256": "19811626e363cc070fc7d8f1b338d435643b0c0b642370ca85b7ee27f6d744b3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10049].content": {
+      "pl": "W jednej walce ukończ walkę bez odrodzenia Ostrza Zapomnianego Rycerza po przywołaniu",
+      "kr_sha256": "68dbeca55077102b423a3ee90c446226009b99d6ec0f089d4fb4466a17b737af",
+      "en_sha256": "aa1cbed8254326ab600f66a872e245009c05490bb54ef5f50f315e9e677ddb6d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10050].content": {
+      "pl": "W jednej walce ukończ walkę, gdy sojusznik z efektem Kapitana Zespołu Dowodzenia Centrali przeżyje i pokona 3 Ostrza z Bezsilnymi Łzami",
+      "kr_sha256": "1f99f28583caed33a22806718c29a5c8c3ad341b13fd218bf2ece9387eca5252",
+      "en_sha256": "5dffc05b7f283fc50ee75164e0b305631e8972a91b481ae2d448f5fa25b9fc66",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10051].content": {
+      "pl": "Ukończ walkę, gdy sojusznik z efektem Kapitana Zespołu Dowodzenia Centrali przeżyje z Siłą Ładunku 3 lub wyższą (w tym Specjalny Ładunek)",
+      "kr_sha256": "3e41c3be4404aa931bf2254c7c7f611d537c9a220bafb84dcf3b2f898bb1368f",
+      "en_sha256": "3e64c711a9dd17ce37a647f216cc8e72e1a0b2b765049aa26956db2435dc4d0d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10052].content": {
+      "pl": "Ukończ walkę, gdy sojusznik z efektem Kapitana Zespołu Dowodzenia Centrali przeżyje, otrzymawszy mniej niż 8 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "b0b68ed30b07257977a888f59c36b10ec16ca3618021e4571bad97a73929ca96",
+      "en_sha256": "40f99e9470f656c115950c47c1004cc97e02f6874daca39b33351d37142a4c37",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10053].content": {
+      "pl": "W jednej walce Wzorowy Pracownik Zespołu Dobrobytu nakłada Umiejętnościami określoną Siłę Zatonięcia albo Rozdarcia na wroga",
+      "kr_sha256": "34fa9c54d4327af2a382b704957b86da0cb68aea41c638e192e458d81a0ab57b",
+      "en_sha256": "e7c74ae0ee91cf659e28ec9f3695285fafc3bd5f0a7da2e5e84e41441a63abfb",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10054].content": {
+      "pl": "Ukończ walkę, gdy Wzorowy Pracownik Zespołu Dobrobytu przeżyje, otrzymawszy mniej niż 8 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "2cb7b82148d863e4a53bef78eca5ec8fa986a6b1aa16a331183683e206d83fb5",
+      "en_sha256": "be147e7be2c1ae2bae8ff4f3bb2d50e0fa53af77319e302d6391cdbc8a90d19d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10055].content": {
+      "pl": "Użyj Umiejętności z Monetą Minus określoną liczbę razy w jednej walce",
+      "kr_sha256": "cffafef23e10fd42891ea036800cf9a4d7ccc1e26c08fbb74e558ad6665fe2a2",
+      "en_sha256": "ab35c2a6aafd17e3a1dccd0f85b212acc35a0c4d6d61ccc48d3ec902a82c7347",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10056].content": {
+      "pl": "Ukończ walkę bez śmierci żadnego sojusznika",
+      "kr_sha256": "dae611447bf31886dac9bddb7c50d2395513064aa934b153370471c1973eb6bc",
+      "en_sha256": "acd6adc32cdf09a720d2026b84a5145c32407ed717145407ce593889731b2b3f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10057].content": {
+      "pl": "Ukończ walkę, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "f100596f4a8914c7a67fbcf05bdca3224e7044fa8cbca61db71909febe8887e2",
+      "en_sha256": "0acff1d86920a1d5ee5617275dfbe5a205bee182c3b3ba4585879ddc81cf69a8",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10058].content": {
+      "pl": "Ukończ walkę, nie dopuszczając, by jakikolwiek sojusznik otrzymał 20 lub więcej Zimnych, Czarnych Łez",
+      "kr_sha256": "2cbdf684708db73aa6f84e169b9849979b7c49ad2179d55bfec225ef3dd49feb",
+      "en_sha256": "5f43d06059a3edc02bc14b493dbfc6271109bab7a6c28fa6d4ff445591dc2ed4",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20052].content": {
+      "pl": "Ukończ Tłumienie Rycerza Rozpaczy z efektem „Zwietrzały Rycerz” Umiejętnością Arcana Slave",
+      "kr_sha256": "8b803d60ef0303337ccd36bbbfbcd8419e3ed1ceb4f3188ba20f692ce5929df1",
+      "en_sha256": "68e2d0d4d6516eee5ad74b59794910a4163fdf5255a3dc425d15456bfbc53472",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20053].content": {
+      "pl": "Ukończ walkę, gdy Królowa Nienawiści otrzyma mniej niż 3 trafienia Umiejętnościami ataku wroga",
+      "kr_sha256": "a754a624f484bcc18d2a196b7d819b8970a8822da91b7ab15f1e382f87f5212f",
+      "en_sha256": "19811626e363cc070fc7d8f1b338d435643b0c0b642370ca85b7ee27f6d744b3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20054].content": {
+      "pl": "W jednej walce ukończ walkę bez odrodzenia Ostrza Rozbijającego Serce, Ostrza Rozdzierającego Serce i Ostrza Przeszywającego Serce po ich przywołaniu",
+      "kr_sha256": "6042f8166b929c3c1d8297d3413da358acb207ea038833d0b4f40b851d9d7546",
+      "en_sha256": "3afa0a66283afb6255a34cfc8eb57658faddda531b41ab18ae6349200304551f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20055].content": {
+      "pl": "W jednej walce ukończ walkę, gdy sojusznik z efektem Kapitana Zespołu Dowodzenia Centrali przeżyje i pokona 3 Ostrza z Bezsilnymi Łzami",
+      "kr_sha256": "1f99f28583caed33a22806718c29a5c8c3ad341b13fd218bf2ece9387eca5252",
+      "en_sha256": "5dffc05b7f283fc50ee75164e0b305631e8972a91b481ae2d448f5fa25b9fc66",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20056].content": {
+      "pl": "Ukończ walkę, gdy sojusznik z efektem Kapitana Zespołu Dowodzenia Centrali przeżyje z Siłą Ładunku 5 lub wyższą (w tym Specjalny Ładunek)",
+      "kr_sha256": "98112f3171c723a9962806255caa6b85519d5dc0a9e4247754d9aa94d0bd7336",
+      "en_sha256": "257156b318add65ac74ac40c4404c3f7781a3dab2708c2fbe73a8354610d00fe",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20057].content": {
+      "pl": "Ukończ walkę, gdy sojusznik z efektem Kapitana Zespołu Dowodzenia Centrali przeżyje, otrzymawszy mniej niż 5 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "297e5da4985a2172e137d375537c0ba8d2275d6b48d9b4f31570966cdeb0860b",
+      "en_sha256": "ccfcfa9043d32d03a2b450fe4dc75ff81c27d437523b00544148caa374d5d017",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20058].content": {
+      "pl": "W jednej walce Wzorowy Pracownik Zespołu Dobrobytu nakłada Umiejętnościami określoną Siłę Zatonięcia albo Rozdarcia na wroga",
+      "kr_sha256": "34fa9c54d4327af2a382b704957b86da0cb68aea41c638e192e458d81a0ab57b",
+      "en_sha256": "e7c74ae0ee91cf659e28ec9f3695285fafc3bd5f0a7da2e5e84e41441a63abfb",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20059].content": {
+      "pl": "W jednej walce Wzorowy Pracownik Zespołu Dobrobytu stacza Starcie z każdym z Ostrzy: Rozbijającym Serce, Rozdzierającym Serce i Przeszywającym Serce",
+      "kr_sha256": "c304d4a5b99452416321104c6c482ab8f68b034a4fbd0629ee828548989a552d",
+      "en_sha256": "0c853ce2eb98dce3b5687564ccb71193cf3c7f32c222a70db158ee63b9456e03",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20060].content": {
+      "pl": "Ukończ walkę, gdy Wzorowy Pracownik Zespołu Dobrobytu przeżyje, otrzymawszy mniej niż 5 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "07783d2890668df0cdff63650062d30662a26bba569052e8ec1ba35b048df014",
+      "en_sha256": "38f993349353b248fd332d7e7e8b709891605377fbf5e91a061be38a8ec51413",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20061].content": {
+      "pl": "Użyj Umiejętności z Monetą Minus określoną liczbę razy w jednej walce",
+      "kr_sha256": "cffafef23e10fd42891ea036800cf9a4d7ccc1e26c08fbb74e558ad6665fe2a2",
+      "en_sha256": "ab35c2a6aafd17e3a1dccd0f85b212acc35a0c4d6d61ccc48d3ec902a82c7347",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20062].content": {
+      "pl": "Ukończ walkę bez śmierci żadnego sojusznika",
+      "kr_sha256": "dae611447bf31886dac9bddb7c50d2395513064aa934b153370471c1973eb6bc",
+      "en_sha256": "acd6adc32cdf09a720d2026b84a5145c32407ed717145407ce593889731b2b3f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20063].content": {
+      "pl": "Ukończ walkę, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "f100596f4a8914c7a67fbcf05bdca3224e7044fa8cbca61db71909febe8887e2",
+      "en_sha256": "0acff1d86920a1d5ee5617275dfbe5a205bee182c3b3ba4585879ddc81cf69a8",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20064].content": {
+      "pl": "Ukończ walkę, nie dopuszczając, by jakikolwiek sojusznik otrzymał 10 lub więcej Zimnych, Czarnych Łez",
+      "kr_sha256": "737d46d1572508368cf1ed29ff9cfd18a08bbdd51b01234f73ab2ba15995c3ae",
+      "en_sha256": "ccd896b4e201f3b32aea5fa601015df18ba56c9dce7963d69e54818ae1d8d0d2",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_30005].content": {
+      "pl": "Ukończ wszystkie misje na Poziomach Łatwym i Trudnym",
+      "kr_sha256": "08d1ce4e0147ad9d479388dd9893ddfd5ac5b254b2c90bec7a7dc70a434da203",
+      "en_sha256": "c950b0faf28bbd710f7fd47920970a0bfa640449daee9c0d170613c4a0334fee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_01_desc_01].content": {
+      "pl": "[6. Noc Walpurgii — Nienawiść i Rozpacz] odblokowuje się niezależnie od postępu Głównej Opowieści. Wejdź przez banner wydarzenia w zakładce Okno albo Jazda.",
+      "kr_sha256": "87b6f58a8e0655f94dc35c82d82b5e4910e5bffc886f35f09966fa1858840237",
+      "en_sha256": "ac7a8c53b9997c0177f4cd57780d06c19592cb39ebac38b9b0aaa2fa009d7775",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_01_title].content": {
+      "pl": "6. Noc Walpurgii — Nienawiść i Rozpacz",
+      "kr_sha256": "d6edac554676602c03d3a665918d623535a3cbf789abec15fb2b57e6299ee4bd",
+      "en_sha256": "29df1e1266cf28e73175910d20100da58d8c001a3dcd708a34e5bb1b095ea90a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_01_title_01].content": {
+      "pl": "6. Noc Walpurgii — Nienawiść i Rozpacz",
+      "kr_sha256": "d6edac554676602c03d3a665918d623535a3cbf789abec15fb2b57e6299ee4bd",
+      "en_sha256": "29df1e1266cf28e73175910d20100da58d8c001a3dcd708a34e5bb1b095ea90a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_02_desc_01].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia 6. Nocy Walpurgii. W trakcie wydarzenia tocz walki na Poziomach Łatwym i Trudnym, wykonuj misje i odbieraj nagrody za ukończone misje.",
+      "kr_sha256": "67bd51f8695cefb7bff584205ed4b9ec626a347a47ed8212ea66181cf8670e35",
+      "en_sha256": "90bc0b8732ff8d1173efb680510c03c5f2d25bd9813f0b7c483900ce4212b2b3",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_02_title_01].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_03_desc_01].content": {
+      "pl": "Dotknij drzwi, aby wejść do walki na poziomie Łatwym.\nW okresie 6. Nocy Walpurgii walka zużywa Moduł Enkefalinu przy wejściu.\nNa poziomie Łatwym Tożsamości na poziomie niższym niż 55 podnoszone są do poziomu 55.\nPonadto Stopień Synchronizacji Tożsamości i Stopień Splotu Nici E.G.O niższy niż 3 podnoszony jest do 3.",
+      "kr_sha256": "9e21eb59d625f0a866f889cf68326bb7ac9f65cc0414452d66f33bdda59cd489",
+      "en_sha256": "901330f1b9c98ed6e68f081c3b32dac2e9509276f6b127c16c8affb0813319f7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_03_desc_02].content": {
+      "pl": "Ukończenie walki na poziomie Łatwym odblokowuje walkę na poziomie Trudnym. Na poziomie Trudnym obowiązują obecne Poziomy Tożsamości, Stopnie Synchronizacji Tożsamości i Stopnie Splotu Nici E.G.O.",
+      "kr_sha256": "d8be413b31b42f908ba2bacfd5c6ecbb71d5c42c5adaaea8f53686c7e070fd10",
+      "en_sha256": "f8561d1616f1cf97fa69d0f64ab58213e419ac56f297c8698789a9d207d5a9a8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_03_title_01].content": {
+      "pl": "Walka na poziomie Łatwym",
+      "kr_sha256": "e9bf1e0d6c19d1d6bedb91311f84be4ec50ef1a4d5f63088da26a82d320c275c",
+      "en_sha256": "7677c0e78f53a8c656bcd1443d568feff87dd9ff4f647da25756abf6a08d795c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_03_title_02].content": {
+      "pl": "Walka na poziomie Trudnym",
+      "kr_sha256": "975408004ea981ab6628b36b544913988c86e84f4992c27426b7fcefc9f3fb43",
+      "en_sha256": "1c9470f354f7f51b997fac91d7543858743c27f8734d73127eaa6e7ca304d1e2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_04_desc_01].content": {
+      "pl": "Pierwszy Grzesznik w kolejności składu bojowego otrzymuje efekt „Kapitan Zespołu Dowodzenia Centrali”. Grzesznik z tym efektem zyskuje więcej akcji w walce oraz pozytywne efekty.",
+      "kr_sha256": "f5e8dd40039d8419604ac6b3a1d0f754fc1ba2b64a431f7653e597f074e33eed",
+      "en_sha256": "99c4e340ec20a2fd53af70c7d7c0ea501b9c3fefc8f89ec5ea5440dccf640a55",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_04_desc_02].content": {
+      "pl": "Drugi Grzesznik w kolejności składu bojowego otrzymuje efekt „Wzorowy Pracownik Zespołu Dobrobytu”. Grzesznik z tym efektem zyskuje pozytywne efekty w walce.",
+      "kr_sha256": "5c6956e9624b80b74c3e5aae809132c8a9551d6eb7f56a95224674ba7fc2b94c",
+      "en_sha256": "4e7c13d0cc33360c469412511ab558292f0754d4ee386601b34ce73d10253c91",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_04_title_01].content": {
+      "pl": "Efekty Kapitana Zespołu Dowodzenia Centrali",
+      "kr_sha256": "28c8cf25c46c37348b42dbbca624207e5511e96ab2159cace98667f3ea834cad",
+      "en_sha256": "91c5937883ba9cd51d08e4bc22565d699e8d507e39fae05d1019b3f8d7d9a93c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_04_title_02].content": {
+      "pl": "Efekty Wzorowego Pracownika Zespołu Dobrobytu",
+      "kr_sha256": "66910c88080491864815b9a6e8779d99a27b9ded228cdd7b04ad762172a4a7a7",
+      "en_sha256": "ac70cb9412396e26dc18e0da606a2085bcf85fbc7a62740149d742a8edc422b1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_05_desc_01].content": {
+      "pl": "Przejdź na stronę [Listy misji], aby sprawdzić misje możliwe do wykonania w walce oraz przypisane do nich nagrody.",
+      "kr_sha256": "f98ea38aa0d34eae422d31daf7adab494b366c30d5c16831b752eedefbbd3348",
+      "en_sha256": "71f6b4395038c3f4dc0f8c9a81c2cdacc67bae36e1335f0b8358f376b15c5685",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_05_title_01].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_06_desc_01].content": {
+      "pl": "Na stronie [Listy misji] wyświetlany jest okres odbioru nagród.",
+      "kr_sha256": "206adbc09a0602eaf37708a6b06f04aa65e785847ed3c032c1419bdb8fe4b582",
+      "en_sha256": "692f04498ba39afab2a72f0e1bfd5f2cba73b88d2a80c7379c7f44ffd7929127",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_06_desc_02].content": {
+      "pl": "Poziomy Łatwy i Trudny mają osobne zestawy misji do wykonania.",
+      "kr_sha256": "f03ad8ece1c6fb24e90ca848f4c1a84fe88a0e0ecd3fea28be635ee10ccc6ec6",
+      "en_sha256": "5cea6771ebdd77f9347cbc2ffb76a147b3edcc06d14141e8843e6adf70e692e7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_06_desc_03].content": {
+      "pl": "Ukończ misje, aby odebrać rozmaite nagrody z [Listy misji].",
+      "kr_sha256": "89027d5a6ffccdf0c7db0b2ad5cb8ec4392e0a5e93d4ff481daab7bec087cbe2",
+      "en_sha256": "d8ac23d385ad89462425f8d9ef783b2cbf86cd7b4add7f1cd33f6dcb9a6961b1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu6_07_desc_01].content": {
+      "pl": "Po zakończeniu wydarzenia nadal będziesz mógł toczyć walki „6. Nocy Walpurgii — Nienawiści i Rozpaczy” i oglądać jej opowieść w zakładce Jazda oraz w Teatrze — [Opowieści Poboczne].",
+      "kr_sha256": "a4da89a2aba1ef623f41026b72f0b4df4604601c38902195c9bc509a95f932e4",
+      "en_sha256": "8bce8d59ca5e072d66c95a683dae031b7e3f85db00e428a8ec0818d0cbd6c7dc",
+      "origin": "ai"
+    },
+    "dataList[id=walpu6_hard_difficulty].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=walpu6_hard_open_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    },
+    "dataList[id=walpu6_hard_stage_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    },
+    "dataList[id=walpu6_normal_difficulty].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=walpu6_reward_button_hard].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=walpu6_reward_button_normal].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    }
+  }
+}

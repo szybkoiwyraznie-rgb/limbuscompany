@@ -1,0 +1,346 @@
+{
+  "entries": {
+    "dataList[id=101].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 650\n· Bilet Dekaekstrakcji x 1",
+      "kr_sha256": "6498085d3d0de7ce1924a9b2cc0bb0cbbd7cc59d14408b6808a8506ffb703d17",
+      "en_sha256": "bcadffa27dad93ddd577f9285c683f1e718d9da274c7dfedab0c1e9c96b00f56",
+      "origin": "ai"
+    },
+    "dataList[id=101].name": {
+      "pl": "Miesięczny Pakiet Ekstrakcji",
+      "kr_sha256": "e6af85225d6e83a9c2c02c2d225a96d0669bde7a6e116925ed63d683ea9574ad",
+      "en_sha256": "b799f52149c041b1246993a24d425c8c40c6d894f7e95658e148b0ccf65cdf62",
+      "origin": "ai"
+    },
+    "dataList[id=102].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 1690\n· Bilet Dekaekstrakcji x 2\n· Bilet Specjalnego Wzmocnienia Tożsamości II x 1\n· Bilet Specjalnego Wzmocnienia Tożsamości I x 2\n· Bilet Treningu Tożsamości III x 10\n· Bilet Treningu Tożsamości II x 30",
+      "kr_sha256": "951db5b85ccc134b4a45cb3461d85e1f1bd7ea897d6ad85df50d2dbb53914e91",
+      "en_sha256": "f18dba46aaaf3019dd05ad901bb8f7154cdba2f6896a331d595970d68b4f4536",
+      "origin": "ai"
+    },
+    "dataList[id=102].name": {
+      "pl": "Miesięczny Pakiet Wsparcia Rozwoju I",
+      "kr_sha256": "df51dc7c3ba221a7eb8c82651d329ae4a6f8cc6d8f42b2e4654e34b02e8e292c",
+      "en_sha256": "c26bc340ccbf8c8774289c528368e83257d6b056b5072bc3567afff15d591dc0",
+      "origin": "ai"
+    },
+    "dataList[id=103].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 1690\n· Bilet Dekaekstrakcji x 2\n· Nić x 120",
+      "kr_sha256": "b96c7711867f220c9d36e1aa51e01a5cd887d05c84ea3c66d9850d15ebb4a055",
+      "en_sha256": "b7ac9ae5083b9738034c63e9f687eacd4b40d3375eaa103110dbb1b56b0b8fd9",
+      "origin": "ai"
+    },
+    "dataList[id=103].name": {
+      "pl": "Miesięczny Pakiet Wsparcia Rozwoju II",
+      "kr_sha256": "1a773c24569520b3003c4cac9a656ce6b17328d8574937aeaa172512a1a01cf2",
+      "en_sha256": "cdb97a5957e872df3b0a5a97cc9f3bfee8456ccc7815c2b022bf1418c5619722",
+      "origin": "ai"
+    },
+    "dataList[id=104].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Bilet Specjalnego Wzmocnienia Tożsamości IV x 2\n· Bilet Treningu Tożsamości IV x 20\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "c6dec0dfce4a1f42c96ee531a0fa0ee35e7d21073e2c41f9e49ea5671e194999",
+      "en_sha256": "c2ecdfce58ca31800105b30de580a0fcae8f5047e44980017a2e571567d3f246",
+      "origin": "ai"
+    },
+    "dataList[id=104].name": {
+      "pl": "Miesięczny Pakiet PD",
+      "kr_sha256": "59345cddf8045270064df28a5df58654469d23b6c75983f770a00b1e25844325",
+      "en_sha256": "8748a08d4d6b835bf40f1a52a8bb8ba309b712d137e757a0be1ffa791c4e8ff5",
+      "origin": "ai"
+    },
+    "dataList[id=105].desc": {
+      "pl": "Oferta comiesięczna — zawiera następujące składniki:\n\n· Nić x 300",
+      "kr_sha256": "6bb9af940b79ad056b4f146b41389cd9d1742d0885b9583e33b4f03aa781f7ff",
+      "en_sha256": "63c19bf2842a0e36ba91decc99fc26dd7fc237f689c26417a4e06adb0fdc0582",
+      "origin": "ai"
+    },
+    "dataList[id=105].name": {
+      "pl": "Miesięczny Pakiet Nici",
+      "kr_sha256": "510d5c266654be500ee7f7fcb68631fd5a1ff3ee2fb1afff064c3919d08a89b7",
+      "en_sha256": "2fc5fbba0bce9e87ebd871af24e6530ef37cfeda71c8468d9ad11a7f1dd1e4b0",
+      "origin": "ai"
+    },
+    "dataList[id=111].desc": {
+      "pl": "Oferta jednorazowa dla świeżo zrekrutowanych Kierowników — zawiera następujące składniki:\n\n· Bilet Dekstrakcji Gwarantowanej 3★ x 1\n· Bilet Dekaekstrakcji x 1",
+      "kr_sha256": "a8d0e421f676f4d8ad60eecec6e0e5311aa8b7dc0cf43baa87d27f5781f5a1e7",
+      "en_sha256": "3d25f0f786649a77e13b618568be0b8b4e6c2c348dc842ead5521ba6480be2b5",
+      "origin": "ai"
+    },
+    "dataList[id=111].name": {
+      "pl": "Pakiet Wdrożenia Nowego Kierownika",
+      "kr_sha256": "82804ad3b3de4b0dbea5c22806c3bb2a96043ebf3cf3078f7d2cf4705e21c1f4",
+      "en_sha256": "53381cf28b20a28181bb503d420d0fd0dac168ffe01a9f1d7a780a13bdaaf296",
+      "origin": "ai"
+    },
+    "dataList[id=11].desc": {
+      "pl": "Otrzymasz 70 Płatnego Szaleństwa.",
+      "kr_sha256": "a934cc8a984dbdbfd57e9fae81166aaed03454738341084bf704a39d4365fb71",
+      "en_sha256": "ca89666523f29a777cb95768ef54753865db79ed98d0888140f856e5ebf7e7f7",
+      "origin": "ai"
+    },
+    "dataList[id=11].name": {
+      "pl": "Szaleństwo",
+      "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
+      "en_sha256": "b8b523982746c8c5cb5eccfd535290edbf4ff1f419b1b6c3b5ccb4ad604b7f86",
+      "origin": "ai"
+    },
+    "dataList[id=121].desc": {
+      "pl": "Dostępny do zakupu w okresie Sezonu 1: Orientation — zawiera następujące składniki:\n\n· Szaleństwo x 5040\n· Bilet Dekaekstrakcji x 3\n· Bilet Specjalnego Wzmocnienia Tożsamości III x 1\n· Bilet Treningu Tożsamości II x 40\n· Nić x 80\n· Imienna Skrzynka Odłamków E.G.O Sezonu 1 x 40",
+      "kr_sha256": "293fd7f4f67cb243c049c8b935d66ec4223101a6729db7cfc8b6fd090c2828bf",
+      "en_sha256": "9d6cf5645bd6b593adfa13a9c216371901c143528a9da5256c534dcef5bb1207",
+      "origin": "ai"
+    },
+    "dataList[id=121].name": {
+      "pl": "Wsparcie Osadnika Sezonu 1",
+      "kr_sha256": "bd740cf693329611b1a4e6afa62ea56b1a7da2114c482285b8370f624f119658",
+      "en_sha256": "172bea489ab3a614f69867c6d2853fc3457c55216cddadadffe4e2850be2b15f",
+      "origin": "ai"
+    },
+    "dataList[id=122].desc": {
+      "pl": "Dostępny do zakupu w okresie Sezonu 2: Reminiscence — zawiera następujące składniki:\n\n· Szaleństwo x 5040\n· Bilet Dekaekstrakcji x 3\n· Bilet Specjalnego Wzmocnienia Tożsamości III x 1\n· Bilet Treningu Tożsamości III x 30\n· Nić x 80\n· Imienna Skrzynka Odłamków E.G.O Sezonu 2 x 40",
+      "kr_sha256": "e2d04c5412c57148ee70b6a948b2bf9c433f31c5102699a52d0dec27442866f6",
+      "en_sha256": "001b37fd2cb5e54663cea3bbec24c155be8c1105d1e81c9e09d9e06924b86d48",
+      "origin": "ai"
+    },
+    "dataList[id=122].name": {
+      "pl": "Wsparcie Osadnika Sezonu 2",
+      "kr_sha256": "ce5b2db0e4aba3e818f78d40b55885bc627242bac9ca2f161c2d11003a62d409",
+      "en_sha256": "56f1d2a2b3b599b8ed91b0722a722ba1d61815c0f099368c35c460bc7bd679ed",
+      "origin": "ai"
+    },
+    "dataList[id=123].desc": {
+      "pl": "Dostępny do zakupu w okresie Sezonu 3: Bon Voyage — zawiera następujące składniki:\n\n· Szaleństwo x 5040\n· Bilet Dekaekstrakcji x 3\n· Bilet Specjalnego Wzmocnienia Tożsamości III x 1\n· Bilet Treningu Tożsamości III x 30\n· Nić x 80\n· Imienna Skrzynka Odłamków E.G.O Sezonu 3 x 40",
+      "kr_sha256": "e358987699106d010bc371ac3b44acd5877e959b7b0909ebddb874be8895d19c",
+      "en_sha256": "e6c4b2d64174ad5977729f256036762d385e95fda9b41ce40a3ba93978a177da",
+      "origin": "ai"
+    },
+    "dataList[id=123].name": {
+      "pl": "Wsparcie Osadnika Sezonu 3",
+      "kr_sha256": "63f8e07422434c6e9bf058399f9693d07f492ebc415d74a20ef9997dc4ab7eea",
+      "en_sha256": "8b29fa71b0406e2b9c9363e0f063880fbbbaaed7015dcc858db964521b8356fe",
+      "origin": "ai"
+    },
+    "dataList[id=12].desc": {
+      "pl": "Otrzymasz 294 Płatnego Szaleństwa.\nBonusowo dostaniesz dodatkowo 31 darmowego Szaleństwa.",
+      "kr_sha256": "d5cd9f6a5d0dfbd94703af1d7c02287777fcbb985802efaa7aa412bb09f2164a",
+      "en_sha256": "27c799427b1b2843f65379ae50f035dd4e12eda64c7a3ce05798d9081bd76983",
+      "origin": "ai"
+    },
+    "dataList[id=12].name": {
+      "pl": "Pęk Szaleństwa",
+      "kr_sha256": "ecabdda7f97a561db7dc1714be997efdc9778e942ba1a3443c1ca259f2f13745",
+      "en_sha256": "861fba22557c94c5d0b35db9e115fc5e99bf6a8f2da9ee1a682795d8ae48efef",
+      "origin": "ai"
+    },
+    "dataList[id=131].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Płatne Szaleństwo x 273\n· Bilet Ekstrakcji x 5",
+      "kr_sha256": "10cd5193717981855b2f68d880df5e67d2ccf1ec1aa6ce6392175574b02fc039",
+      "en_sha256": "532df6793ca14e4522a1202b5885d3a4b6f65353727a164cd0c945fea40950f9",
+      "origin": "ai"
+    },
+    "dataList[id=131].name": {
+      "pl": "Tygodniowy Pakiet Ekstrakcji",
+      "kr_sha256": "9af21552857aa93a206fc97708925f714121c3060a83c6bcd62448e06540c1d3",
+      "en_sha256": "a6779e95544551098b0cd50320d5913ae3d1b0f9e6c136a08ce03743bde16d2e",
+      "origin": "ai"
+    },
+    "dataList[id=133].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Nić x 75",
+      "kr_sha256": "1312b7bb40704be12c1a80c87106cdd000a03a074ae139669f820f53ca2f984a",
+      "en_sha256": "84cb5f37cdb3dfb77a72c383932cd2d16d1bfe645450cbda04894467f6f0cbe1",
+      "origin": "ai"
+    },
+    "dataList[id=133].name": {
+      "pl": "Tygodniowy Pakiet Nici",
+      "kr_sha256": "2a7c004a659f5a5ea26cc329d8190572b30d2232cb0c9fda5e55695cbf2b6278",
+      "en_sha256": "62f755963e68aa2f8efc6d0043de4160700e6042900e78ff161364e4996717a3",
+      "origin": "ai"
+    },
+    "dataList[id=134].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Skrzynka Enkefaliny x 20",
+      "kr_sha256": "a0f9dde229ca2ad298324576f3ec6dedf544ac3b6b5daab5ed2e80827a6dba48",
+      "en_sha256": "b5192bb3a68053cec8d3a6e740c170c4f084cdb4de750c9522a23aaaa966766d",
+      "origin": "ai"
+    },
+    "dataList[id=134].name": {
+      "pl": "Tygodniowy Pakiet Enkefaliny",
+      "kr_sha256": "d5820acc1013fcff3a910be07a4029c8544496e201552d77afce6beb9737c20e",
+      "en_sha256": "e075aba026ef53c57c428de83cbc1e919b52702fdfb1a3d87f341a0a151345ac",
+      "origin": "ai"
+    },
+    "dataList[id=135].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Bilet Specjalnego Wzmocnienia Tożsamości III x 1\n· Bilet Treningu Tożsamości IV x 12\n· Bilet Treningu Tożsamości III x 20",
+      "kr_sha256": "a78def4fee7c3b2653ec38e34574672270276ec2ce95482f93b0a885fb18b7f6",
+      "en_sha256": "9d516e5ab15762650e65fd2889f215714d98da940a7c0393f72f51042fce4d31",
+      "origin": "ai"
+    },
+    "dataList[id=135].name": {
+      "pl": "Tygodniowy Pakiet PD",
+      "kr_sha256": "bb14f98ffb5ef2b7b5dd21e56117a398af67fbae5fe1d310eeab05112d104164",
+      "en_sha256": "bac65b61db646bd60d12e94acfd51737316336dc5539139fc1382ce01be1fbb2",
+      "origin": "ai"
+    },
+    "dataList[id=136].desc": {
+      "pl": "Oferta cotygodniowa — zawiera następujące składniki:\n\n· Nić x 100",
+      "kr_sha256": "b4e52cc4ea51e87fc97b6443251a2820ed40fa7e768472b05e51d4a518065e4b",
+      "en_sha256": "b3710668ddca358409a61bfd85bb5018dc6c9c550b05506ab1ee0497b7f0ddf3",
+      "origin": "ai"
+    },
+    "dataList[id=136].name": {
+      "pl": "Tygodniowy Pakiet Nici",
+      "kr_sha256": "2a7c004a659f5a5ea26cc329d8190572b30d2232cb0c9fda5e55695cbf2b6278",
+      "en_sha256": "62f755963e68aa2f8efc6d0043de4160700e6042900e78ff161364e4996717a3",
+      "origin": "ai"
+    },
+    "dataList[id=13].desc": {
+      "pl": "Otrzymasz 1014 Płatnego Szaleństwa.\nBonusowo dostaniesz dodatkowo 156 darmowego Szaleństwa.",
+      "kr_sha256": "de8cc609e686fbb1f1d1d2783f36442f4e28c4f12a96f908b2267b3fc5ead41b",
+      "en_sha256": "83db61dc8e05aeb8a367c70d5cd630edaaf6ffcd34d8aecb718c86c0b9cde255",
+      "origin": "ai"
+    },
+    "dataList[id=13].name": {
+      "pl": "Bukiet Szaleństwa",
+      "kr_sha256": "a4d69c0442bda302d91e2f35ff8ed2b1d4aacfbe087a39d28070e8cfdcbfc697",
+      "en_sha256": "25f0958f3cfc520ccf0891423f5c3ac4be3a1d95879a7da375fd1d3c8a64a70c",
+      "origin": "ai"
+    },
+    "dataList[id=141].name": {
+      "pl": "Miesięczny Pakiet Biletów Ekstrakcji I",
+      "kr_sha256": "960e0e56deb0fad87fc1a6a2b1fc6243e12d060036338c1a34c7f1892d8d8e2d",
+      "en_sha256": "c774add3c6b471146ae34e07ed9246f66449534cba176e042d6bf34f23b507b2",
+      "origin": "ai"
+    },
+    "dataList[id=14].desc": {
+      "pl": "Otrzymasz 2147 Płatnego Szaleństwa.\nBonusowo dostaniesz dodatkowo 323 darmowego Szaleństwa.",
+      "kr_sha256": "80b2181b70af04b6c0e68b936378d27970c105fe899cc7e90845d16b43fd7b1e",
+      "en_sha256": "b9463fcdd18b31829b424cb0c849188813aa79b9cd8c3e732765625e6792a269",
+      "origin": "ai"
+    },
+    "dataList[id=14].name": {
+      "pl": "Skrzynia Szaleństwa",
+      "kr_sha256": "83320a09e70912f9d5e8babaa55c7af109a425110ddd3a6ce283299bc88b72c7",
+      "en_sha256": "2b45121d1603bdf42fb0825430fc83e0c977e51f15df7668abf5ce8bc10e5fd1",
+      "origin": "ai"
+    },
+    "dataList[id=15].desc": {
+      "pl": "Otrzymasz 4103 Płatnego Szaleństwa.\nBonusowo dostaniesz dodatkowo 642 darmowego Szaleństwa.",
+      "kr_sha256": "8c186b41fcbc202c9148ece1fae3047c03be3286f566a2c76b840142efa5a819",
+      "en_sha256": "eb217ec702dfacc8a257ce64e3ae83ef11c186e8e0fa525b6e275cf8714bf39e",
+      "origin": "ai"
+    },
+    "dataList[id=15].name": {
+      "pl": "Kopiec Szaleństwa",
+      "kr_sha256": "63d6e4a5d0c24cebf707973ee1923d8451fca212e89e0818a842b7cb86bd5b28",
+      "en_sha256": "2586e50203dad3971b38681e4a8b70fb93ccd7b46023ac0f20b2b6079f80848b",
+      "origin": "ai"
+    },
+    "dataList[id=16].desc": {
+      "pl": "Otrzymasz 8336 Płatnego Szaleństwa.\nBonusowo dostaniesz dodatkowo 1349 darmowego Szaleństwa.",
+      "kr_sha256": "6411db617011cfdca1aab71a41db3fc44f52ad26384fac21963f285450aaf3bd",
+      "en_sha256": "9cebd2ab2e25f520934ee1f90b778b09ce1fd416c47333e9287e17ea5014d66f",
+      "origin": "ai"
+    },
+    "dataList[id=16].name": {
+      "pl": "Zbiór Szaleństwa",
+      "kr_sha256": "3a7021f677df389d5c02b1c714be0c718a038ede6daa51a4f49d19ec710fb86b",
+      "en_sha256": "26cf25e2052089a10b37ccac808be40f1813191f46c8cd5553961b0c136dda66",
+      "origin": "ai"
+    },
+    "dataList[id=1].desc": {
+      "pl": "Otrzymasz 140 Płatnego Szaleństwa.",
+      "kr_sha256": "0e4b8c4e1c23df44b3044299ff8ca73688aa47cdca41a1b27179411a520da2fa",
+      "en_sha256": "6a0c851381f6f7b6435014d99521decd11f09ca8c1aa9da015ffe68065778a90",
+      "origin": "ai"
+    },
+    "dataList[id=1].name": {
+      "pl": "Szaleństwo",
+      "kr_sha256": "033fa39122867455db4fea127d5fc58cb63098702b5b750aeba725b77204f4e7",
+      "en_sha256": "b8b523982746c8c5cb5eccfd535290edbf4ff1f419b1b6c3b5ccb4ad604b7f86",
+      "origin": "ai"
+    },
+    "dataList[id=21].desc": {
+      "pl": "Natychmiast po zakupie otrzymasz 650 Płatnego Szaleństwa.\nZa każde logowanie przez 30 dni otrzymasz dodatkowo 65 darmowego Szaleństwa.",
+      "kr_sha256": "80e8734dd8dce29f0b8ecab779a7f9776b86b4e1cace6450c4084eb31a8e3697",
+      "en_sha256": "43c822d696d9c27b767b4a7aa2f77c0f419f4631965c367b7a2cdbb5076616ee",
+      "origin": "ai"
+    },
+    "dataList[id=21].name": {
+      "pl": "Miesięczny Pakiet Szaleństwa",
+      "kr_sha256": "ffa2f87b82dc7af0570aba5341b4175122ff4772da8ac0d94aef56b6b20ddcbf",
+      "en_sha256": "f205926521d4b0b1aa66439f92001be2c2bd3507e87acba2e7bb6d24039d31d1",
+      "origin": "ai"
+    },
+    "dataList[id=22].desc": {
+      "pl": "Natychmiast po zakupie otrzymasz 130 Płatnego Szaleństwa.\nZa każde logowanie przez 30 dni otrzymasz dodatkowo 39 darmowego Szaleństwa.",
+      "kr_sha256": "ed1a29645e2af6385554940a126c2e8f94045b6a4d5c6528784814d4c632de7a",
+      "en_sha256": "7db20ccf4a47eb90c18578700e3cf494a3f96dd48121f2aef1930f17e522c3f8",
+      "origin": "ai"
+    },
+    "dataList[id=22].name": {
+      "pl": "Miesięczny Półpakiet Szaleństwa",
+      "kr_sha256": "30b9e6dfe39fb5973d0b587d7988977bb878401a86178ea5419c918c9f4b91a2",
+      "en_sha256": "24381fd3ed7c44973e553a856d903fbd9a4de2663767ee7bd29638a009d26121",
+      "origin": "ai"
+    },
+    "dataList[id=2].desc": {
+      "pl": "Otrzymasz 588 Płatnego Szaleństwa.",
+      "kr_sha256": "c32de9538c2391c051295d9bd79f43238423e4b1484936dfa537fb793f5c8b08",
+      "en_sha256": "a28f342bf0f155a1ceb58730271306351c48235582be416bb1fc925db3a7bd92",
+      "origin": "ai"
+    },
+    "dataList[id=2].name": {
+      "pl": "Pęk Szaleństwa",
+      "kr_sha256": "ecabdda7f97a561db7dc1714be997efdc9778e942ba1a3443c1ca259f2f13745",
+      "en_sha256": "861fba22557c94c5d0b35db9e115fc5e99bf6a8f2da9ee1a682795d8ae48efef",
+      "origin": "ai"
+    },
+    "dataList[id=3].desc": {
+      "pl": "Otrzymasz 2028 Płatnego Szaleństwa.",
+      "kr_sha256": "76ce2d99836c30961cf7956fe64684e909992b0acdd5bbe8c1413a0ed46a2d48",
+      "en_sha256": "916c232fb7526a5e391f7bcb03c638fddb6c6cad6603e1530c0d8abbe328881e",
+      "origin": "ai"
+    },
+    "dataList[id=3].name": {
+      "pl": "Bukiet Szaleństwa",
+      "kr_sha256": "a4d69c0442bda302d91e2f35ff8ed2b1d4aacfbe087a39d28070e8cfdcbfc697",
+      "en_sha256": "25f0958f3cfc520ccf0891423f5c3ac4be3a1d95879a7da375fd1d3c8a64a70c",
+      "origin": "ai"
+    },
+    "dataList[id=4].desc": {
+      "pl": "Otrzymasz 4294 Płatnego Szaleństwa.",
+      "kr_sha256": "45f2e9e26dbdffe76cb4f8d099df5f7420620d3f482f235c50d62e71fd610c4c",
+      "en_sha256": "81486fa2159c0de6b88743f700af0f6c6a0cbb5d9d775b5fca351066fa5dd647",
+      "origin": "ai"
+    },
+    "dataList[id=4].name": {
+      "pl": "Skrzynia Szaleństwa",
+      "kr_sha256": "83320a09e70912f9d5e8babaa55c7af109a425110ddd3a6ce283299bc88b72c7",
+      "en_sha256": "2b45121d1603bdf42fb0825430fc83e0c977e51f15df7668abf5ce8bc10e5fd1",
+      "origin": "ai"
+    },
+    "dataList[id=5].desc": {
+      "pl": "Otrzymasz 8206 Płatnego Szaleństwa.",
+      "kr_sha256": "9ba6f0210b0f8e9dd9fba4787d833f1b4406a95623356f59d05f73edd3d4ad6a",
+      "en_sha256": "da122bbddebbac74b6d8389d5407e81ad12c116bdb25019d321b6f1a1ff75931",
+      "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Kopiec Szaleństwa",
+      "kr_sha256": "63d6e4a5d0c24cebf707973ee1923d8451fca212e89e0818a842b7cb86bd5b28",
+      "en_sha256": "2586e50203dad3971b38681e4a8b70fb93ccd7b46023ac0f20b2b6079f80848b",
+      "origin": "ai"
+    },
+    "dataList[id=6].desc": {
+      "pl": "Otrzymasz 16672 Płatnego Szaleństwa.",
+      "kr_sha256": "7025f5e4f23b9ac2505dd78cc9ce5a68bd370b5b826018ad31eb71834b2809b5",
+      "en_sha256": "89ae243a60e6c6169fc005e8c4c818c55d3d924853844c3db85572922506fcf9",
+      "origin": "ai"
+    },
+    "dataList[id=6].name": {
+      "pl": "Zbiór Szaleństwa",
+      "kr_sha256": "3a7021f677df389d5c02b1c714be0c718a038ede6daa51a4f49d19ec710fb86b",
+      "en_sha256": "26cf25e2052089a10b37ccac808be40f1813191f46c8cd5553961b0c136dda66",
+      "origin": "ai"
+    }
+  }
+}

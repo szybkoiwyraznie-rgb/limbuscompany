@@ -1,5 +1,17 @@
 {
   "entries": {
+    "dataList[id=Walpu10_hard_stage_name].content": {
+      "pl": "Wyślij Zaproszenie",
+      "kr_sha256": "4e125caa89db74b2f38f565dc76aa2d31d6a66c31476ced8b4dbf29f3ddefe52",
+      "en_sha256": "d076aa0f049416cc4f8f20352c47a32182a65d464932ee1c4475df5d36c01afc",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu10_normal_stage_name].content": {
+      "pl": "Wyślij Zaproszenie",
+      "kr_sha256": "4e125caa89db74b2f38f565dc76aa2d31d6a66c31476ced8b4dbf29f3ddefe52",
+      "en_sha256": "d076aa0f049416cc4f8f20352c47a32182a65d464932ee1c4475df5d36c01afc",
+      "origin": "ai"
+    },
     "dataList[id=Walpu10_reward_event_desc].content": {
       "pl": "Ukończ misje w walkach na Poziomach Łatwym i Trudnym 10. Nocy Walpurgii.\n\nZa ukończone misje otrzymasz różne nagrody.",
       "kr_sha256": "6bb0841ee3ce3ece17e39df3c7c5b68953a3451c032fc0d8b17c30a1399c1551",
@@ -16,6 +28,18 @@
       "pl": "Poziom Łatwy",
       "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
       "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battleresult_defeat_lor_stage_type_3].content": {
+      "pl": "Przyjęcie nieudane",
+      "kr_sha256": "d898ec2fc796c5613a45c055605797027ea2f48e9e65e9d867f1fb110b9cc737",
+      "en_sha256": "2fe702d4ea282b7e3b8312d337af3282e687c2711ab55f70b0f71225b34caf38",
+      "origin": "ai"
+    },
+    "dataList[id=mainui_battleresult_win_lor_stage_type_3].content": {
+      "pl": "Przyjęcie ukończone",
+      "kr_sha256": "b3e5c3cbefe4cae7f83ce5c3333d26429e82261a635900b58fb765a36454a878",
+      "en_sha256": "331a2064291f668ea649c4c71c7a5c116d8571c95c2c76de89443d4ea5aac927",
       "origin": "ai"
     },
     "dataList[id=missionConditionTitle_10159].content": {
@@ -144,6 +168,42 @@
       "en_sha256": "2c3142765b1ff9c67c33cf0f7a91310605232c68c6481260bcda4a3ad9b5b1e3",
       "origin": "ai"
     },
+    "dataList[id=missionConditionTitle_20089].content": {
+      "pl": "Ukończ Przyjęcie z mniej niż 3 aktywacjami Umiejętności łączonych Fikserów Biura Klina",
+      "kr_sha256": "5fcc2872f37fc26f07e408176cf23a8a7ec4c216ba8cee5004f4cf35d4f445d0",
+      "en_sha256": "0bca54e677ddbfc67f7db47cc5aa04b9aae5c4947c30babe219688de5770bee0",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20090].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy Pameli i Pamelę w tej samej turze w jednej walce",
+      "kr_sha256": "81a20d4acff36db7ce3afa12d6cb1a3b61f1e2579df30029a15ca232f323c966",
+      "en_sha256": "c29166d57303edbbf17b86dbcb90b65ab8d21c7e0a0a28810816bd89ef510c80",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20091].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy Yunę pod wpływem efektu „Samotny Fikser” w jednej walce",
+      "kr_sha256": "611ed3159b890ab5fe83f4300773a72b96777b8f7f9f96503ff90ee36e9f4d4e",
+      "en_sha256": "5834045a7455bc12904c17838a2aff5dabc7610206d8103da18e4a7e637101fc",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20092].content": {
+      "pl": "Ukończ Przyjęcie z wszystkimi sojusznikami przy życiu",
+      "kr_sha256": "610b9b8b93f65be02e33c1b9d3242f936f6b9ee8806b38b27d1ac41511248ee5",
+      "en_sha256": "bb57f9c4a6ec557f9a0953bcbb48bc8ff41b535a9ef94d7302047258bd5a8ba4",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20093].content": {
+      "pl": "Ukończ Przyjęcie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "0224301551c2067791d2168f9fb68b2912291aabca56dec0eafca5a20174ad6d",
+      "en_sha256": "6a08590161960c9b083e0bae977be3d05283a6d9236070d1519097ba85ca991b",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20094].content": {
+      "pl": "Ukończ wszystkie misje na Poziomach Łatwym i Trudnym",
+      "kr_sha256": "08d1ce4e0147ad9d479388dd9893ddfd5ac5b254b2c90bec7a7dc70a434da203",
+      "en_sha256": "c950b0faf28bbd710f7fd47920970a0bfa640449daee9c0d170613c4a0334fee",
+      "origin": "ai"
+    },
     "dataList[id=missionConditionTitle_hidden_10159].content": {
       "pl": "Ukończ Przyjęcie, pokonawszy wszystkich ??? w jednej walce",
       "kr_sha256": "bc71864de55e163b1f819d77cd77e59f0d574f3e30b6a6db0f4005dac73e3aea",
@@ -196,6 +256,162 @@
       "pl": "Ukończ Przyjęcie, gdy sojusznik wygra co najmniej 1 Starcie z Umiejętnością ??? jednostki ??? w jednej walce",
       "kr_sha256": "c25ee330f04839e6a3a81d2d9b7eed5f48a17410af051e2b138e47f43e068c44",
       "en_sha256": "5c4135c3489d420ca5acc707f333b5e64cad80a8293bb5ee4d577cff03242769",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20090].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy ??? i ??? w tej samej turze w jednej walce",
+      "kr_sha256": "cf021f36c21144ce94830e051dd5b5bb4b8ca85274b82d52765fd1a712b5da59",
+      "en_sha256": "a2080d8f7720203a2115831a7ffbd99be6222ab6034729e699b4ca785b8716c6",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_hidden_20091].content": {
+      "pl": "Ukończ Przyjęcie, pokonawszy ??? pod wpływem efektu ??? w jednej walce",
+      "kr_sha256": "e7d128824bd625f540cd46a8b37c30c2a92f34c53e4475f14e8990ea2a26364a",
+      "en_sha256": "9806c00f7135fcc21a232682b3a95a9f553fb92ccb2745c8a62d880c4dc031db",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_01_desc_01].content": {
+      "pl": "[10. Noc Walpurgii] odblokowuje się niezależnie od postępu Głównej Opowieści. Wejdź przez banner wydarzenia w zakładce Okno albo Jazda.",
+      "kr_sha256": "0e3dd87db2df543a716922c08d6bbf1bcebc1a7f04f08d4aef37d60ee8d85384",
+      "en_sha256": "64d60f5884ec9a80457ca7a002526ccdeaf3a0440e5ba1ef69819ee2bbf5b5e4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_01_title].content": {
+      "pl": "10. Noc Walpurgii",
+      "kr_sha256": "1dceddc3550a92b912a092557aca5adbf523f56a3cb8316ad62411e42a00c49d",
+      "en_sha256": "0c541f3f2fa5ca0ec9d43762dfc9f96ec2606d09ac782ab46f48e20a3ffd417e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_01_title_01].content": {
+      "pl": "10. Noc Walpurgii",
+      "kr_sha256": "1dceddc3550a92b912a092557aca5adbf523f56a3cb8316ad62411e42a00c49d",
+      "en_sha256": "0c541f3f2fa5ca0ec9d43762dfc9f96ec2606d09ac782ab46f48e20a3ffd417e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_02_desc_01].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia 10. Nocy Walpurgii. W trakcie wydarzenia tocz walki na Poziomach Łatwym i Trudnym, wykonuj misje i odbieraj nagrody za ukończone misje.",
+      "kr_sha256": "3b11ee04abe26c5c5d5997a01663f31c3b20d58ad227c57214cc1c1930f696b5",
+      "en_sha256": "cadb205fb85cd93c833e736b477d4ed8731c5675c0dd84aca49986cbb38d0d8a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_02_title_01].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_03_desc_01].content": {
+      "pl": "Dotknij drzwi, aby wejść do walki na poziomie Łatwym. Walka zużywa Moduł Enkefalinu przy wejściu. Na poziomie Łatwym Tożsamości na poziomie niższym niż 65 podnoszone są do poziomu 65. Ponadto Stopień Synchronizacji Tożsamości i Stopień Splotu Nici E.G.O niższy niż 3 podnoszony jest do 3.",
+      "kr_sha256": "e18004a3b327f08e2c8da8520d43e29a508afa554cb129f448795fbdcfc94393",
+      "en_sha256": "afdee1eab0f609faad615defea7b96c598ebdef14c1d83fb3375e2eae5b5301b",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_03_desc_02].content": {
+      "pl": "Ukończenie walki na poziomie Łatwym odblokowuje walkę na poziomie Trudnym. Na poziomie Trudnym obowiązują obecne Poziomy Tożsamości, Stopnie Synchronizacji Tożsamości i Stopnie Splotu Nici E.G.O.",
+      "kr_sha256": "d8be413b31b42f908ba2bacfd5c6ecbb71d5c42c5adaaea8f53686c7e070fd10",
+      "en_sha256": "f8561d1616f1cf97fa69d0f64ab58213e419ac56f297c8698789a9d207d5a9a8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_03_title_01].content": {
+      "pl": "Walka na poziomie Łatwym",
+      "kr_sha256": "e9bf1e0d6c19d1d6bedb91311f84be4ec50ef1a4d5f63088da26a82d320c275c",
+      "en_sha256": "7677c0e78f53a8c656bcd1443d568feff87dd9ff4f647da25756abf6a08d795c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_03_title_02].content": {
+      "pl": "Walka na poziomie Trudnym",
+      "kr_sha256": "975408004ea981ab6628b36b544913988c86e84f4992c27426b7fcefc9f3fb43",
+      "en_sha256": "1c9470f354f7f51b997fac91d7543858743c27f8734d73127eaa6e7ca304d1e2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_04_desc_01].content": {
+      "pl": "Pierwszy Grzesznik w kolejności składu bojowego otrzymuje efekt „Wyznaczony Bibliotekarz [Piętro Historii]”. Grzesznik z tym efektem zyskuje więcej akcji w walce oraz pozytywne efekty.",
+      "kr_sha256": "40feb4b794c10ff90c41afff1040210e928d1aa3ea0c12a4a7a22d7a551b93c6",
+      "en_sha256": "0fb09e0206cf54ac3cc1dc8366318f2d0ffa4389edd8d8ec3d8a1fa852c8ffc6",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_04_title_01].content": {
+      "pl": "Wyznaczony Bibliotekarz [Piętro Historii]",
+      "kr_sha256": "8ab0c207c27bfe91427c0cd54164266330b2e2e6eada7e4f2d98cdadf02c3977",
+      "en_sha256": "0ebd9b64c986158d07ad987ddc0b8ffe48b937f51ded1f9dba516bd23bad55c1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_05_desc_01].content": {
+      "pl": "Przejdź na stronę [Listy misji], aby sprawdzić misje możliwe do wykonania w walce oraz przypisane do nich nagrody.",
+      "kr_sha256": "f98ea38aa0d34eae422d31daf7adab494b366c30d5c16831b752eedefbbd3348",
+      "en_sha256": "71f6b4395038c3f4dc0f8c9a81c2cdacc67bae36e1335f0b8358f376b15c5685",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_05_title_01].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_06_desc_01].content": {
+      "pl": "Na stronie [Listy misji] wyświetlany jest okres odbioru nagród.",
+      "kr_sha256": "206adbc09a0602eaf37708a6b06f04aa65e785847ed3c032c1419bdb8fe4b582",
+      "en_sha256": "692f04498ba39afab2a72f0e1bfd5f2cba73b88d2a80c7379c7f44ffd7929127",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_06_desc_02].content": {
+      "pl": "Poziomy Łatwy i Trudny mają osobne zestawy misji do wykonania.",
+      "kr_sha256": "f03ad8ece1c6fb24e90ca848f4c1a84fe88a0e0ecd3fea28be635ee10ccc6ec6",
+      "en_sha256": "5cea6771ebdd77f9347cbc2ffb76a147b3edcc06d14141e8843e6adf70e692e7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_06_desc_03].content": {
+      "pl": "Ukończ misje, aby odebrać rozmaite nagrody z [Listy misji].",
+      "kr_sha256": "89027d5a6ffccdf0c7db0b2ad5cb8ec4392e0a5e93d4ff481daab7bec087cbe2",
+      "en_sha256": "d8ac23d385ad89462425f8d9ef783b2cbf86cd7b4add7f1cd33f6dcb9a6961b1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu10_07_desc_01].content": {
+      "pl": "Po zakończeniu wydarzenia nadal będziesz mógł toczyć walki „10. Nocy Walpurgii” i oglądać jej opowieść w zakładce Jazda oraz w Teatrze — [Opowieści Poboczne].",
+      "kr_sha256": "000bd7a6504bc0a534adf512e2fc14a29f942f683d9a9487abf99346cc203372",
+      "en_sha256": "cd6ae668f19f51d528a729cdc197290c3e686bd1c8f17962b12926417aeb0c5d",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_3_wave].content": {
+      "pl": "Piętro Historii",
+      "kr_sha256": "3e76ac6e665653ec77f6c2bb88e0016c27d7635fb5c2d09db4fc6aa412e0b3cf",
+      "en_sha256": "e2588c630b235a921edd1a5cacedaa27dbdb483f1a9703b92bc336df96bdb032",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10574].content": {
+      "pl": "Biuro Świtu / Biuro Klina",
+      "kr_sha256": "6b4aa84edc9fa2a7a55c612abdf3c55d630d155fdbd74b7bf3eaec9a6a83bd8e",
+      "en_sha256": "908a6efc83de01384ad30560bab41a52444d1953aa9317b7602cb3d3dab434a2",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10575].content": {
+      "pl": "Biuro Świtu / Biuro Klina",
+      "kr_sha256": "6b4aa84edc9fa2a7a55c612abdf3c55d630d155fdbd74b7bf3eaec9a6a83bd8e",
+      "en_sha256": "908a6efc83de01384ad30560bab41a52444d1953aa9317b7602cb3d3dab434a2",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10576].content": {
+      "pl": "Biuro Świtu / Biuro Klina",
+      "kr_sha256": "6b4aa84edc9fa2a7a55c612abdf3c55d630d155fdbd74b7bf3eaec9a6a83bd8e",
+      "en_sha256": "908a6efc83de01384ad30560bab41a52444d1953aa9317b7602cb3d3dab434a2",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_name_10577].content": {
+      "pl": "Biuro Świtu / Biuro Klina",
+      "kr_sha256": "6b4aa84edc9fa2a7a55c612abdf3c55d630d155fdbd74b7bf3eaec9a6a83bd8e",
+      "en_sha256": "908a6efc83de01384ad30560bab41a52444d1953aa9317b7602cb3d3dab434a2",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_lose_3].content": {
+      "pl": "Przyjęcie {0} nieudane",
+      "kr_sha256": "9de12604962a1932b06437de190ce031fc45c58563dba53cbde640528f4e60a9",
+      "en_sha256": "c0960c8992da92c8dad2b9af22c7cc1307b7ff490b0b1522cc92f42de5c15f82",
+      "origin": "ai"
+    },
+    "dataList[id=walpu_battle_result_win_3].content": {
+      "pl": "Przyjęcie {0} ukończone",
+      "kr_sha256": "23bd28f84bd28eae301fb46fc905347f5947153e6d13a694b61218d63923f428",
+      "en_sha256": "2af77f86437eb35ec794219fff8ece1ce01597a4a4e93d03e35d81979acac502",
       "origin": "ai"
     }
   }

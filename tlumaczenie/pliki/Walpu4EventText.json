@@ -1,0 +1,358 @@
+{
+  "entries": {
+    "dataList[id=KillCount_Title_1].content": {
+      "pl": "Próba Zielonego Świtu",
+      "kr_sha256": "03dda0ec3556adeabda0cabb0ac538027c27a98501a02321b2430e8868152e27",
+      "en_sha256": "85290f4204797d12fb25ea8c1a08a3c20070847fd748512058cd9feefe82e4df",
+      "origin": "ai"
+    },
+    "dataList[id=KillCount_Title_2].content": {
+      "pl": "Próba Fioletowego Świtu",
+      "kr_sha256": "0148bc196896d03420387eb355e420aeebbb6e8b62a66dd18838f4cef069dfea",
+      "en_sha256": "5edfdc79df92158c02f68e9992e3e79deeae9ca7a8549062fe1258339f7cb845",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Desc_2].content": {
+      "pl": "Nie wysiłku dla zrozumienia. Po prostu działają.",
+      "kr_sha256": "3b8123955bde9c0db9e4ee137989f91895b93b72b50984c1c3e0df59345008b6",
+      "en_sha256": "07a921bddf5a0ed2b1ed8726599ad66f90ced4ae781c6630b678beb8d199475b",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Desc_3].content": {
+      "pl": "Nie rozumiemy ich — a oni i tak nie zrozumieją nas.",
+      "kr_sha256": "90c5f6e38dc6480ab3a393c01e0f76af2c3c92be2a179a037dc4f3fd687678bc",
+      "en_sha256": "bedce2253f07d9606e84c106f467b0882065241a8be1cfc135e8747ddcc614a8",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Name_2].content": {
+      "pl": "Owoc Zrozumienia",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Name_3].content": {
+      "pl": "Obdarz Nas Miłością",
+      "kr_sha256": "88043243e72b916b5909022b9039de0e0bf987a9921193878390acceac092b52",
+      "en_sha256": "a26b83807662baa5868a70bac4c0034e9c31b90e97baf2ed2abb1503ed0d378a",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Title_2].content": {
+      "pl": "Próba Fioletowego Świtu",
+      "kr_sha256": "0148bc196896d03420387eb355e420aeebbb6e8b62a66dd18838f4cef069dfea",
+      "en_sha256": "5edfdc79df92158c02f68e9992e3e79deeae9ca7a8549062fe1258339f7cb845",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Title_3].content": {
+      "pl": "Próba Fioletowego Południa",
+      "kr_sha256": "be6e6e308acd4e73d54610bb217dbbd2f75d93295141a652738a93178c5d7535",
+      "en_sha256": "7d15b26356e636909eafbbf3741f331042a359b35ca8cf34c6793e699a6e7d17",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Desc_2].content": {
+      "pl": "Aby pojąć to, czego pojąć się nie da, śnią, patrząc.",
+      "kr_sha256": "22b7355cee7fd4c1926d9badd00ebf652a064ef745c39604a16aa5b43cd3cf3c",
+      "en_sha256": "c09f2c7c2dccf9a7509bc04d58ab73abfb9d7de56bf22cb8a349e69f6e39eb53",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Desc_3].content": {
+      "pl": "Słyszaliśmy tylko ich nędzne, śladowe czyny — błagaliśmy o ich litość i miłość.",
+      "kr_sha256": "df83d0504ad2915f6314167b6dacaed78fa60add262d20b684643792ae29f6dc",
+      "en_sha256": "ac05ab47df9737d1a22c303dab0f838ac5ca9da70fae87f7db17d995c9af0de6",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_KillCountTitle_2].content": {
+      "pl": "Stan Tłumienia",
+      "kr_sha256": "7ab11906813a39424885948deda1e4af2773a9473ad2cd2969d8a1498933a24c",
+      "en_sha256": "a76f16731400cbbb4295250d904dbdf170ad9f40b720b94e9d3f7bdc9363400b",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Name_2].content": {
+      "pl": "Owoc Zrozumienia",
+      "kr_sha256": "22b589f34d522d60d95b0f567706c0ae88eecd8b697f7754d2472e9b2e2fb7ec",
+      "en_sha256": "9122146b680486d33558a740658d7844f7b1e32c71cef53a63df047bb34155f3",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Name_3].content": {
+      "pl": "Obdarz Nas Miłością",
+      "kr_sha256": "88043243e72b916b5909022b9039de0e0bf987a9921193878390acceac092b52",
+      "en_sha256": "a26b83807662baa5868a70bac4c0034e9c31b90e97baf2ed2abb1503ed0d378a",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Title_2].content": {
+      "pl": "Próba Fioletowego Świtu",
+      "kr_sha256": "0148bc196896d03420387eb355e420aeebbb6e8b62a66dd18838f4cef069dfea",
+      "en_sha256": "5edfdc79df92158c02f68e9992e3e79deeae9ca7a8549062fe1258339f7cb845",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Title_3].content": {
+      "pl": "Próba Fioletowego Południa",
+      "kr_sha256": "be6e6e308acd4e73d54610bb217dbbd2f75d93295141a652738a93178c5d7535",
+      "en_sha256": "7d15b26356e636909eafbbf3741f331042a359b35ca8cf34c6793e699a6e7d17",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu4_event_desc].content": {
+      "pl": "Stłum istoty Próby Fioletowego Południa na Poziomach Łatwym i Trudnym i ukończ misje.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "e2ef924e4ba2df467016c6ebe4290c47409d7a204577a85705d38a735657e6ba",
+      "en_sha256": "fb2f02211d976945473f417270122c39fb75277a347c31a2f0a0cd9cd7930d05",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10026].content": {
+      "pl": "Tłumienie Próby Fioletowego Świtu udane",
+      "kr_sha256": "8b4a2dc7b1f0e1cf62275c7b336c3a3b09df0ce50618d620e628a952f79a9df6",
+      "en_sha256": "4b1f38aed4f9cdfe49aed179d81a8880aefdde604f9b9d9604fe3a4226d56b64",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10027].content": {
+      "pl": "Ukończ Tłumienie w 7 turach",
+      "kr_sha256": "e14ed70e695b2d59f42711ab9f7ac61f47e89926f0f0f5a3c50fee68928bebae",
+      "en_sha256": "a5391b7ec3d962e586a84bf42ab30783eca00a5e3f52a11931a9b5498bf625a1",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10028].content": {
+      "pl": "Kapitan Zespołu Szkoleniowego pokonuje 3 Owoców Zrozumienia w jednej walce",
+      "kr_sha256": "47a8c797ca8fbb975f706463b2df8faf3316e94bb489133da0d6d50d17daf612",
+      "en_sha256": "4ed18a4e8e5626fab806bde24b9ce823e1a7d8eeffcd59bd5edfbc68f3f48ae5",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10029].content": {
+      "pl": "Ukończ Tłumienie, nie pozwalając Owocowi Zrozumienia ani razu użyć Umiejętności „Rozpad”",
+      "kr_sha256": "78a3d930302fa24f8c35e6ea08edb844b3d6ddfb631648be43e7f107be0719bc",
+      "en_sha256": "2165e9936ff2841fe8e37df3eea6137b0c76e4b3003bbf238bbf46ef5ef38353",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10030].content": {
+      "pl": "Ukończ Tłumienie, zadając jednemu wrogowi w jednej turze Podpalenie (specjalne), Krwawienie, Rozdarcie albo Zatonięcie (specjalne) 8 razy lub więcej",
+      "kr_sha256": "336e6110bad5d31ba4546b9c9869bb36db317a5041a5c96a8df56fd342431acf",
+      "en_sha256": "329ef79411f9fc37a2b4c8229b8553b77d78ee4acd4f950513592d2dcf9008ce",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10031].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "0a09eba3794c126dcc6f3be3af431c46053c11d678f6b37d632d405faed7dfef",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10032].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "3965ecd5a09011cffb9e602f15ccf51f95dedfb3c756e0514a1be7426535bae1",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10033].content": {
+      "pl": "W jednej walce pokonaj wroga z HP 80% lub wyższym pojedynczą Umiejętnością",
+      "kr_sha256": "56a31248d53b35f4cfbb0abfa1f4a8574f86e883336dc822ecf440fced4a7334",
+      "en_sha256": "b88477e7e02052ed50f74242807c6163c7688484fa6c3e62314b9805fd2dfbad",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10034].content": {
+      "pl": "Ukończ Tłumienie, gdy Kapitan Zespołu Szkoleniowego przeżyje, otrzymawszy mniej niż 10 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "02048e7b862c6c02f499d0116d16a2153cb3f186d3b83dbb6ca5c69f8c678094",
+      "en_sha256": "b8a8b1743b7bd5b2188ebdc4fddd1ab59d7678713edf96767e7c3547f41b10ef",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10035].content": {
+      "pl": "Nałóż w jednej turze 8 lub więcej różnych negatywnych efektów na jednego wroga",
+      "kr_sha256": "eec0331b851b8097850b218a7e801e9d6d9452db9431e851b1bc039a89aef3f7",
+      "en_sha256": "fcb5f3efdf4847894b0ce62e05de57d500b703b96d289e08f1e48e5eddc08149",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10036].content": {
+      "pl": "Pokonaj 2 lub więcej wrogów w jednej turze",
+      "kr_sha256": "c887da6f6b89b6f8e28ad390264b59d26f3492563520758ba9b22dd030499ce8",
+      "en_sha256": "787b377e4e6aaabbdd5308ebee04e77b1ced01667a48ba28c2a7cb900296ec2d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20026].content": {
+      "pl": "Tłumienie Próby Fioletowego Południa udane",
+      "kr_sha256": "2cf4f3fad6903c830daa73918ff74314c48a07387ea786e44268f2e38327e963",
+      "en_sha256": "b602ce1de0d14fc0244f8fb810db791b677b34a23bdb95486c05edac734fc6da",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20027].content": {
+      "pl": "Ukończ Tłumienie w 12 turach",
+      "kr_sha256": "48854de3c858ac1b8442884f334fba5f6d481bfb1a6cc12392ebeead3ea54835",
+      "en_sha256": "6b61f8603c138ba3db1e178b8782703ef5bbe35c0dbe1ea6521b03d8e5829452",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20028].content": {
+      "pl": "Kapitan Zespołu Szkoleniowego pokonuje 3 Owoców Zrozumienia w jednej walce",
+      "kr_sha256": "47a8c797ca8fbb975f706463b2df8faf3316e94bb489133da0d6d50d17daf612",
+      "en_sha256": "4ed18a4e8e5626fab806bde24b9ce823e1a7d8eeffcd59bd5edfbc68f3f48ae5",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20029].content": {
+      "pl": "Ukończ Tłumienie, nie pozwalając Owocowi Zrozumienia ani razu użyć Umiejętności „Rozpad”",
+      "kr_sha256": "78a3d930302fa24f8c35e6ea08edb844b3d6ddfb631648be43e7f107be0719bc",
+      "en_sha256": "2165e9936ff2841fe8e37df3eea6137b0c76e4b3003bbf238bbf46ef5ef38353",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20030].content": {
+      "pl": "Ukończ Tłumienie, zadając jednemu wrogowi w jednej turze Podpalenie (specjalne), Krwawienie, Rozdarcie albo Zatonięcie (specjalne) 18 razy lub więcej",
+      "kr_sha256": "a93f226c82e5ecfb71425819a463d7d4aba7b751334aef90cdd36d8789465f62",
+      "en_sha256": "f5a69d137bcacc54b90e24a1150995ebf8c7a5f08fe13ecc945ce46c8da6779f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20031].content": {
+      "pl": "Ukończ Tłumienie walki bez śmierci żadnego sojusznika",
+      "kr_sha256": "918dc8cbf8beba6b43191323e54c1781de2c2a7c17bc385f8e4b8399ff6df654",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20032].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "3965ecd5a09011cffb9e602f15ccf51f95dedfb3c756e0514a1be7426535bae1",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20033].content": {
+      "pl": "W jednej walce pokonaj wroga z HP 80% lub wyższym pojedynczą Umiejętnością",
+      "kr_sha256": "56a31248d53b35f4cfbb0abfa1f4a8574f86e883336dc822ecf440fced4a7334",
+      "en_sha256": "b88477e7e02052ed50f74242807c6163c7688484fa6c3e62314b9805fd2dfbad",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20034].content": {
+      "pl": "Ukończ Tłumienie, gdy Kapitan Zespołu Szkoleniowego przeżyje, otrzymawszy mniej niż 5 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "4e7f1a72aa05761605f885834f770e4574cec600aeed61583dc51378a14d80f5",
+      "en_sha256": "99af12269e6f4e6f31e8bb5cf4752fe497102c38ec1b5b5e8ec6380cb1eea2df",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20035].content": {
+      "pl": "Nałóż w jednej turze 6 lub więcej różnych negatywnych efektów na jednego wroga",
+      "kr_sha256": "dd73fbc4d0af8111303b435ee77f4f1883ac16a0029387e0af2aac3a43b5304a",
+      "en_sha256": "16f6cf17c14810974b4a5499c5b176d4219037c5b41dd7bd70e4e8ae6c5aeec5",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20036].content": {
+      "pl": "Pokonaj 2 lub więcej wrogów w jednej turze",
+      "kr_sha256": "c887da6f6b89b6f8e28ad390264b59d26f3492563520758ba9b22dd030499ce8",
+      "en_sha256": "787b377e4e6aaabbdd5308ebee04e77b1ced01667a48ba28c2a7cb900296ec2d",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20037].content": {
+      "pl": "Ukończ Tłumienie, zniszczywszy wszystkie części Obdarz Nas Miłością poza jej Korpusem",
+      "kr_sha256": "278bcbe3febdee2216c55ca428a5b6457bf942b5c40e8016b63462bd9a8a4b04",
+      "en_sha256": "e260c70f79c62dbc1d320fa2ffaf0311aa3bcba6f0020f5dda83c2424dbd375f",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20038].content": {
+      "pl": "Kapitan Zespołu Szkoleniowego pokonuje Obdarz Nas Miłością",
+      "kr_sha256": "b43e068c3c4b30e98dd87f07b47fd33b7749d7ab756865c0146f7b8a3ca117a0",
+      "en_sha256": "ab3607a17d40c181649c53dde3b3fb5014a0532cfa9a0aa7a285e297a6dc0d1e",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_30003].content": {
+      "pl": "Ukończ wszystkie misje na Poziomach Łatwym i Trudnym",
+      "kr_sha256": "08d1ce4e0147ad9d479388dd9893ddfd5ac5b254b2c90bec7a7dc70a434da203",
+      "en_sha256": "c950b0faf28bbd710f7fd47920970a0bfa640449daee9c0d170613c4a0334fee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_01_desc_01].content": {
+      "pl": "[4. Noc Walpurgii — Próba Fioletowego Południa] odblokowuje się niezależnie od postępu Głównej Opowieści. Wejdź przez banner wydarzenia w zakładce Okno albo Jazda.",
+      "kr_sha256": "cca7e6d06303314d2a0a4ee45fdf4f8800fba93680ad6594da1fbafe980e9039",
+      "en_sha256": "1c64a8e5cfdde2d185a189e318c72ac876fe82d3328ac79e0e8b135f9fb893ec",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_01_title].content": {
+      "pl": "4. Noc Walpurgii — Próba Fioletowego Południa",
+      "kr_sha256": "26412057cf52d0b007ff4733ed7ea9b0237af5097dc1250a7b0cce485f33baaf",
+      "en_sha256": "e1c5f2a6cb440a3cc89290aa8db82a2a749a9382b6af6c22cb55bbb8952727c2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_01_title_01].content": {
+      "pl": "4. Noc Walpurgii — Próba Fioletowego Południa",
+      "kr_sha256": "26412057cf52d0b007ff4733ed7ea9b0237af5097dc1250a7b0cce485f33baaf",
+      "en_sha256": "c1b52af53fd54a0bdcd5e9417f6b6867b27ac0d3f2dbd12d015a63305de6aa45",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_02_desc_01].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia 4. Nocy Walpurgii. W trakcie wydarzenia tocz walki na Poziomach Łatwym i Trudnym, wykonuj misje i odbieraj nagrody za ukończone misje.",
+      "kr_sha256": "edee8b2b718de8876de84fec7dfc9466083fcbbeb8519dcf3259e06db5e2d109",
+      "en_sha256": "e13aa6626d081202662f12b851dcdf7f7d0f80f7a28a3a1fed5802b464ebbd95",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_02_title_01].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_03_desc_01].content": {
+      "pl": "Dotknij drzwi, aby wejść do walki na poziomie Łatwym.\nW okresie 4. Nocy Walpurgii walka zużywa Moduł Enkefalinu przy wejściu.\nNa poziomie Łatwym Tożsamości na poziomie niższym niż 45 podnoszone są do poziomu 45.\nPonadto Stopień Synchronizacji Tożsamości i Stopień Splotu Nici E.G.O niższy niż 3 podnoszony jest do 3.",
+      "kr_sha256": "947916bc9df927f87074072143f66c18c0474404b33bda2586dc6064bfa2df6f",
+      "en_sha256": "24bbc2d800dd165bbc2d9f96b4b107f05aa50bdf495084dd4d27d094aa1d36ee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_03_desc_02].content": {
+      "pl": "Ukończenie walki na poziomie Łatwym odblokowuje walkę na poziomie Trudnym. Na poziomie Trudnym obowiązują obecne Poziomy Tożsamości, Stopnie Synchronizacji Tożsamości i Stopnie Splotu Nici E.G.O.",
+      "kr_sha256": "d8be413b31b42f908ba2bacfd5c6ecbb71d5c42c5adaaea8f53686c7e070fd10",
+      "en_sha256": "f8561d1616f1cf97fa69d0f64ab58213e419ac56f297c8698789a9d207d5a9a8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_03_title_01].content": {
+      "pl": "Walka na poziomie Łatwym",
+      "kr_sha256": "e9bf1e0d6c19d1d6bedb91311f84be4ec50ef1a4d5f63088da26a82d320c275c",
+      "en_sha256": "7677c0e78f53a8c656bcd1443d568feff87dd9ff4f647da25756abf6a08d795c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_03_title_02].content": {
+      "pl": "Walka na poziomie Trudnym",
+      "kr_sha256": "975408004ea981ab6628b36b544913988c86e84f4992c27426b7fcefc9f3fb43",
+      "en_sha256": "1c9470f354f7f51b997fac91d7543858743c27f8734d73127eaa6e7ca304d1e2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_04_desc_01].content": {
+      "pl": "Pierwszy Grzesznik w kolejności składu bojowego otrzymuje efekt „Kapitan Zespołu Szkoleniowego”. Grzesznik z tym efektem zyskuje więcej akcji w walce oraz pozytywne efekty.",
+      "kr_sha256": "3c434574442366630c0c3c993492faefc4cc59ccebca900b055d91fdcd63a035",
+      "en_sha256": "5ed223874da7cdfde377d3a59a7f96b3b7929e1cb2ef8079c70078336643716f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_04_title_01].content": {
+      "pl": "Efekty Kapitana Zespołu Szkoleniowego",
+      "kr_sha256": "455c80f2000d8c04fc46aae51d98438a2a796a4e13f027b7dda815e06a938870",
+      "en_sha256": "e282a49463f54de415ee0d8f0428feb148931b71a65babcd36b3b30f5920dbb4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_05_desc_01].content": {
+      "pl": "Przejdź na stronę [Listy misji], aby sprawdzić misje możliwe do wykonania w walce oraz przypisane do nich nagrody.",
+      "kr_sha256": "5b21dd16acb51739c63b52fd649315bf1161f03acf4a7fed02bdb636bd5fb364",
+      "en_sha256": "aaac72dc9a2dec51bd026082b34d519e5a57e730aa6ea17b5926992066e54b1d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_05_title_01].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_06_desc_01].content": {
+      "pl": "Na stronie [Listy misji] wyświetlany jest okres odbioru nagród.",
+      "kr_sha256": "206adbc09a0602eaf37708a6b06f04aa65e785847ed3c032c1419bdb8fe4b582",
+      "en_sha256": "692f04498ba39afab2a72f0e1bfd5f2cba73b88d2a80c7379c7f44ffd7929127",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_06_desc_02].content": {
+      "pl": "Poziomy Łatwy i Trudny mają osobne zestawy misji do wykonania.",
+      "kr_sha256": "9cb36f94ba6eec0b9baaf75ef3937fa7c55e487b487285f5aecf9934d7e8344f",
+      "en_sha256": "b790d2be23738e2d6130d96bd532f46174c03e8a8b948026041b07c1d3118f16",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_06_desc_03].content": {
+      "pl": "Ukończ misje, aby odebrać rozmaite nagrody z [Listy misji].",
+      "kr_sha256": "b12cc61db78c4b88efe205cb6984342ebdcf14e60f310620ff4b6939cc1a2ccd",
+      "en_sha256": "02ea8378ad14a9648d7778abc2b49add817e9755c8dcb182159a42e078df30ec",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu4_07_desc_01].content": {
+      "pl": "Po zakończeniu wydarzenia nadal będziesz mógł toczyć walki „4. Nocy Walpurgii — Próby Fioletowego Południa” i oglądać jej opowieść w zakładce Jazda oraz w Teatrze — [Opowieści Poboczne].",
+      "kr_sha256": "e28e31872d38b4c78c229a19e5b6ffc758a8348fb7698541efaa657c7f5bd23e",
+      "en_sha256": "43635a204c23816c484b689b5ae42ded0a2fb2158a6987faa864fa8fd3bfe5ea",
+      "origin": "ai"
+    },
+    "dataList[id=walpu4_hard_stage_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    }
+  }
+}

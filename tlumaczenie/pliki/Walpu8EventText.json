@@ -1,0 +1,376 @@
+{
+  "entries": {
+    "dataList[id=KillCount_Title_4].content": {
+      "pl": "Próba Bursztynowego Zmierzchu",
+      "kr_sha256": "c5327840d58dbaeb8b189231d0ef70cd2460bdcb451cdca56bce4ca782b52cf7",
+      "en_sha256": "99c189a8a5719c3ac11df0f882bb83373085754f61a5d6f26055f3b43a761190",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Desc_Walpu8_Win].content": {
+      "pl": "Mogliśmy żyć. Mogliśmy jeść dalej.",
+      "kr_sha256": "0c5817b97c5d03b3b6d3dcb2998bc9171369337c716fb649f3ef763f60c93bfd",
+      "en_sha256": "9309725444bfac24cd2ff109fd7378a681973755da76cfec17389285ae45e602",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Name_Walpu8_Win].content": {
+      "pl": "Łańcuch Pokarmowy",
+      "kr_sha256": "0e88231456fc090983b90da2677aa172782f65306d3e6c73053429ab1d2b1916",
+      "en_sha256": "d08c3cb0e22df1027259dfb087acc99d1581bf2171347d254d927b801e4e4884",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyClearTypo_Title_Walpu8_Win].content": {
+      "pl": "Próba Bursztynowego Zmierzchu",
+      "kr_sha256": "c5327840d58dbaeb8b189231d0ef70cd2460bdcb451cdca56bce4ca782b52cf7",
+      "en_sha256": "99c189a8a5719c3ac11df0f882bb83373085754f61a5d6f26055f3b43a761190",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Desc_Walpu8_Appear].content": {
+      "pl": "Poznanie tego smaku było nieuniknionym procesem.",
+      "kr_sha256": "52a85213a80a2f5be9c343cd2ce354a750a26381e957e9bb3c207415957394de",
+      "en_sha256": "98f33a066e7917c98a75689c4c01866bdb58a4277edcf9285402d47ef933c21d",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Desc_Walpu8_Start].content": {
+      "pl": "Idealny posiłek, doskonały zamiennik",
+      "kr_sha256": "e93487038936ab95016c8c61128989e809c9cf02d0221c9753059de5c2a06fc6",
+      "en_sha256": "a2a061d932dee509bc10c6815bf6963565299717df0c39d6a923ce8da91c0547",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_KillCountTitle_4].content": {
+      "pl": "Stan Tłumienia",
+      "kr_sha256": "7ab11906813a39424885948deda1e4af2773a9473ad2cd2969d8a1498933a24c",
+      "en_sha256": "a76f16731400cbbb4295250d904dbdf170ad9f40b720b94e9d3f7bdc9363400b",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Name_Walpu8_Appear].content": {
+      "pl": "Łańcuch Pokarmowy",
+      "kr_sha256": "0e88231456fc090983b90da2677aa172782f65306d3e6c73053429ab1d2b1916",
+      "en_sha256": "d08c3cb0e22df1027259dfb087acc99d1581bf2171347d254d927b801e4e4884",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Name_Walpu8_Start].content": {
+      "pl": "Idealne Jedzenie",
+      "kr_sha256": "dff8d6872f3ed443ca2d905565d64352ce599a0ae50798df94076e32ad6e2bf7",
+      "en_sha256": "895c696697326aaee14c7cc17c85dce1e9d2f4a63448f1e63cbb658587d9c269",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Title_Walpu8_Appear].content": {
+      "pl": "Próba Bursztynowego Zmierzchu",
+      "kr_sha256": "c5327840d58dbaeb8b189231d0ef70cd2460bdcb451cdca56bce4ca782b52cf7",
+      "en_sha256": "99c189a8a5719c3ac11df0f882bb83373085754f61a5d6f26055f3b43a761190",
+      "origin": "ai"
+    },
+    "dataList[id=LobotomyStartTypo_Title_Walpu8_Start].content": {
+      "pl": "Próba Bursztynowego Zmierzchu",
+      "kr_sha256": "0f9af51151b0a14fa8477be65df4f44bf44064613d974dc631bb47d68009fca4",
+      "en_sha256": "99c189a8a5719c3ac11df0f882bb83373085754f61a5d6f26055f3b43a761190",
+      "origin": "ai"
+    },
+    "dataList[id=Walpu8_event_desc].content": {
+      "pl": "Stłum istoty Próby Bursztynowego Zmierzchu na Poziomach Łatwym i Trudnym i ukończ misje.\n\nZa ukończone misje otrzymasz różne nagrody.",
+      "kr_sha256": "4e397a987c6ce0cabd86111ea72649839dd0e228ed4bcc5b30ad16ebf8aebb76",
+      "en_sha256": "c8bb265dbf8b28ba82ae1c91cd055c3b903d79d17c04a76b3d6a97c0c9eae5fd",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10117].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy Pomarańczowego BongBonga w jednej walce",
+      "kr_sha256": "b217c07a4a4f2e6460c56b85b06a29a27aeb5818182937485d173c94ddcc6a5e",
+      "en_sha256": "d1aec2578f043d2295f69217b270e43d84eef895528fb182be931d6cc9aed852",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10118].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy Pomarańczowego BongBonga w jednej walce",
+      "kr_sha256": "b217c07a4a4f2e6460c56b85b06a29a27aeb5818182937485d173c94ddcc6a5e",
+      "en_sha256": "d1aec2578f043d2295f69217b270e43d84eef895528fb182be931d6cc9aed852",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10119].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy BunBuna [Pomarańczowa Wyciskarka] w jednej walce",
+      "kr_sha256": "cceec46ac0d25d2121a7376215173ee04e44154d3ea4a384b56a7c3b323315a6",
+      "en_sha256": "881c50128231ae1b2157498187221a91c44f6e1aee7c99149b36b166ab330010",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10120].content": {
+      "pl": "Ukończ Tłumienie bez Odwrotu Pomarańczowego BongBonga",
+      "kr_sha256": "02602b7a5d2dd8cdc0a34806163a6ec58b966fd1aab4440f861bc15cf5d11697",
+      "en_sha256": "f27e692fe1fbb31053fc60658b960315d0fb1039b56b1955069477265ee4dba3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10121].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem Kapitana Zespołu Dobrobytu pokona 5 lub więcej wrogów w jednej walce",
+      "kr_sha256": "1adaf7b273f1ed24ea55bd014aec093df86a4d1ffa1c2fd145edbe5916bfce5e",
+      "en_sha256": "bb3c4848099fabaf500abee7f52033f9cb2752df9b45d2360b43d90f3ea319c1",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10122].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem Kapitana Zespołu Dobrobytu przeżyje, otrzymawszy mniej niż 5 trafień Umiejętnościami ataku wroga",
+      "kr_sha256": "83951381eadd0e4aab465c44ca090cf05809986f06843f79d37a7ed29320c35d",
+      "en_sha256": "5601604366beab3a7800e1ca847560af38eb81407295d56ad4e67b7f56c65b88",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10123].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem Kapitana Zespołu Dobrobytu pokona co najmniej 1 BunBuna [Pomarańczowa Wyciskarka] w jednej walce",
+      "kr_sha256": "cc63ab3cf3108b5e5b0dc62122acb7b3f2cfc70a2d07d4f5a7211d922fc13148",
+      "en_sha256": "5ae88473b978b99ece39d8b25d59bf1b603e30b7a1637e66571ab5c0260e9a07",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10124].content": {
+      "pl": "Ukończ Tłumienie, gdy 3 lub więcej sojuszników zdobędzie po jednym Pomarańczowym BongBongu",
+      "kr_sha256": "60aeb10fa82295daba2483f3dcd6e914ab094f308de4ee57df8b93be0a4396e8",
+      "en_sha256": "0450fd40dda86e13d3d31c31757ca049e95edafeb2d0a5710fba8f1ab4797d9a",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10125].content": {
+      "pl": "Ukończ Tłumienie, zadając 300 lub więcej obrażeń pojedynczą Umiejętnością ataku w jednej walce",
+      "kr_sha256": "16924107da3c8ac07ea271e117e03f6f831b900f775a149b4ad0a30b3afcfd77",
+      "en_sha256": "641ee0487caa36d271cb2f5b712935e29164e2e7b2e1eead95a583787fbb73bf",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10126].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "0a09eba3794c126dcc6f3be3af431c46053c11d678f6b37d632d405faed7dfef",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10127].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "3965ecd5a09011cffb9e602f15ccf51f95dedfb3c756e0514a1be7426535bae1",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_10128].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął Siłę Krwawienia 10 lub wyższą",
+      "kr_sha256": "d6eb546bdaa8a2b807f123d0995780a255668225e267d2766097c0a71cfa0a8e",
+      "en_sha256": "71b47653ac76e0ceade19a484650a3e3d3f70b83589492f1b70df04b5b32b7a2",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20065].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy Pomarańczowego BongBonga w jednej walce",
+      "kr_sha256": "b217c07a4a4f2e6460c56b85b06a29a27aeb5818182937485d173c94ddcc6a5e",
+      "en_sha256": "d1aec2578f043d2295f69217b270e43d84eef895528fb182be931d6cc9aed852",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20066].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy Pomarańczowego BongBonga w jednej walce",
+      "kr_sha256": "b217c07a4a4f2e6460c56b85b06a29a27aeb5818182937485d173c94ddcc6a5e",
+      "en_sha256": "d1aec2578f043d2295f69217b270e43d84eef895528fb182be931d6cc9aed852",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20067].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy BunBuna [Pomarańczowa Wyciskarka] w jednej walce",
+      "kr_sha256": "cceec46ac0d25d2121a7376215173ee04e44154d3ea4a384b56a7c3b323315a6",
+      "en_sha256": "881c50128231ae1b2157498187221a91c44f6e1aee7c99149b36b166ab330010",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20068].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy BunBuna [Pomarańczowa Wyciskarka] w jednej walce",
+      "kr_sha256": "cceec46ac0d25d2121a7376215173ee04e44154d3ea4a384b56a7c3b323315a6",
+      "en_sha256": "881c50128231ae1b2157498187221a91c44f6e1aee7c99149b36b166ab330010",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20069].content": {
+      "pl": "Ukończ Tłumienie bez Odwrotu BunBuna [Pomarańczowa Wyciskarka]",
+      "kr_sha256": "abd757be589578a4a72f023ff54344f07466ef574f7fd1b349476a5ad917bd00",
+      "en_sha256": "2dfced0c92135bd3d62fa90f04a3e769501effdc92af2a2f78c6ae5f140edb26",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20070].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem Kapitana Zespołu Dobrobytu pokona 1 lub więcej BunBunów [Pomarańczowa Wyciskarka] w jednej walce",
+      "kr_sha256": "8b68de260db4afba8743b59c115d4f52f828599d93434b4530a86df81ce4cf1c",
+      "en_sha256": "5ae88473b978b99ece39d8b25d59bf1b603e30b7a1637e66571ab5c0260e9a07",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20071].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem Kapitana Zespołu Dobrobytu pokona 10 lub więcej wrogów w jednej walce",
+      "kr_sha256": "e3660ecf441621e25ef18d4629f8c966aaac76541c5927a96df13f2c563df55f",
+      "en_sha256": "ef9b3afab51cd9d0cd0888eaeee0b3c553a99a8a4fae890d4348c3a729b0aab0",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20072].content": {
+      "pl": "Ukończ Tłumienie, gdy sojusznik z efektem Kapitana Zespołu Dobrobytu przeżyje, otrzymawszy mniej niż 3 trafienia Umiejętnościami ataku wroga",
+      "kr_sha256": "ad2363f72f4ef68b20fb4373da90f654043dc5644859e851aad8d0f94c3a82f3",
+      "en_sha256": "43e014cfbcc42d0b3f05a2473391d0be3620a1de7b82678f383422acaea45d08",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20073].content": {
+      "pl": "Ukończ Tłumienie, pokonawszy 3 lub więcej wrogów jednym użyciem Umiejętności ataku",
+      "kr_sha256": "442780b4a57044c483f10503dcf832036d4c0e2dd2a8e21d24982abb3727b364",
+      "en_sha256": "d54ac1bd5aecee279d58c10a0a5da00386a776f082d71a98dcef976f7db712af",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20074].content": {
+      "pl": "Ukończ Tłumienie, gdy wszyscy sojusznicy zdobędą po jednym Pomarańczowym BongBongu",
+      "kr_sha256": "df66057585977467619b579cc077d6eed4ffdd70943b40e52a741695e75e9c80",
+      "en_sha256": "1013928d1948a79b5194c390a1e414bb6a9f18cceea6f9c2d4a2c1986f425585",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20075].content": {
+      "pl": "Ukończ Tłumienie, zadając 500 lub więcej obrażeń pojedynczą Umiejętnością ataku w jednej walce",
+      "kr_sha256": "9a9c08b541b90d8cf22d83d447723fe1982b7118d4b753392223ec80fd97a136",
+      "en_sha256": "500c770e72e0ee63a7b4847a4aab27ff3ec23ca5b913e54e609f555fa44d87f3",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20076].content": {
+      "pl": "Ukończ Tłumienie bez śmierci żadnego sojusznika",
+      "kr_sha256": "0a09eba3794c126dcc6f3be3af431c46053c11d678f6b37d632d405faed7dfef",
+      "en_sha256": "9acc92cb6c4ce4425738e60892811dc086102567fe415a520801570f765fea55",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20077].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął -45 Poczytalności",
+      "kr_sha256": "3965ecd5a09011cffb9e602f15ccf51f95dedfb3c756e0514a1be7426535bae1",
+      "en_sha256": "2b89cccf0a11f763a55d68d15e3ed97c50cbc390904c4a47a3bd593165bc3f22",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20078].content": {
+      "pl": "Ukończ Tłumienie, nie dopuszczając, by jakikolwiek sojusznik osiągnął Siłę Krwawienia 10 lub wyższą",
+      "kr_sha256": "d6eb546bdaa8a2b807f123d0995780a255668225e267d2766097c0a71cfa0a8e",
+      "en_sha256": "71b47653ac76e0ceade19a484650a3e3d3f70b83589492f1b70df04b5b32b7a2",
+      "origin": "ai"
+    },
+    "dataList[id=missionConditionTitle_20079].content": {
+      "pl": "Ukończ wszystkie misje na Poziomach Łatwym i Trudnym",
+      "kr_sha256": "08d1ce4e0147ad9d479388dd9893ddfd5ac5b254b2c90bec7a7dc70a434da203",
+      "en_sha256": "c950b0faf28bbd710f7fd47920970a0bfa640449daee9c0d170613c4a0334fee",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_01_desc_01].content": {
+      "pl": "[8. Noc Walpurgii — Próba Bursztynowego Zmierzchu] odblokowuje się niezależnie od postępu Głównej Opowieści. Wejdź przez banner wydarzenia w zakładce Okno albo Jazda.",
+      "kr_sha256": "fa13f24fc8b813ab75c5bf443af32c0d40c7b647a15b18e036c342c817bffd84",
+      "en_sha256": "83770dcee9f63a43c4da98907af9c9c0aea8c049bed0dbaa1bca502761ff70d7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_01_title].content": {
+      "pl": "8. Noc Walpurgii — Próba Bursztynowego Zmierzchu",
+      "kr_sha256": "cc1add41d7ee335d3945c18a66f0ce14e258b4d5570afc1197ac6fbe1c5f4f38",
+      "en_sha256": "9822eacaa6e32917ff7fe7ba0f480f381a5e9838e4b80c63ff42a07cb19a46e9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_01_title_01].content": {
+      "pl": "8. Noc Walpurgii — Próba Bursztynowego Zmierzchu",
+      "kr_sha256": "cc1add41d7ee335d3945c18a66f0ce14e258b4d5570afc1197ac6fbe1c5f4f38",
+      "en_sha256": "9822eacaa6e32917ff7fe7ba0f480f381a5e9838e4b80c63ff42a07cb19a46e9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_02_desc_01].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia 8. Nocy Walpurgii. W trakcie wydarzenia tocz walki na Poziomach Łatwym i Trudnym, wykonuj misje i odbieraj nagrody za ukończone misje.",
+      "kr_sha256": "418c117adef13d81e07b7bdeb4f2dcbaae49694dbb7a444ccf291eee80519175",
+      "en_sha256": "bcd709c10f83b84f75810b440ec3192280b38c131b47b3a0ac1582e49875197a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_02_title_01].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_03_desc_01].content": {
+      "pl": "Dotknij drzwi, aby wejść do walki na poziomie Łatwym.\nW okresie 8. Nocy Walpurgii walka zużywa Moduł Enkefalinu przy wejściu.\nNa poziomie Łatwym Tożsamości na poziomie niższym niż 60 podnoszone są do poziomu 60.\nPonadto Stopień Synchronizacji Tożsamości i Stopień Splotu Nici E.G.O niższy niż 3 podnoszony jest do 3.",
+      "kr_sha256": "00c81580448dee7e0048643af09fd1011f9189e308e75a5d200985616960ec03",
+      "en_sha256": "cb2d4e5873dfa13577d263fb6f39125ab0f8feca57a1de3fc0c56210d2fd1b81",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_03_desc_02].content": {
+      "pl": "Ukończenie walki na poziomie Łatwym odblokowuje walkę na poziomie Trudnym. Na poziomie Trudnym obowiązują obecne Poziomy Tożsamości, Stopnie Synchronizacji Tożsamości i Stopnie Splotu Nici E.G.O.",
+      "kr_sha256": "d8be413b31b42f908ba2bacfd5c6ecbb71d5c42c5adaaea8f53686c7e070fd10",
+      "en_sha256": "f8561d1616f1cf97fa69d0f64ab58213e419ac56f297c8698789a9d207d5a9a8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_03_title_01].content": {
+      "pl": "Walka na poziomie Łatwym",
+      "kr_sha256": "e9bf1e0d6c19d1d6bedb91311f84be4ec50ef1a4d5f63088da26a82d320c275c",
+      "en_sha256": "7677c0e78f53a8c656bcd1443d568feff87dd9ff4f647da25756abf6a08d795c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_03_title_02].content": {
+      "pl": "Walka na poziomie Trudnym",
+      "kr_sha256": "975408004ea981ab6628b36b544913988c86e84f4992c27426b7fcefc9f3fb43",
+      "en_sha256": "1c9470f354f7f51b997fac91d7543858743c27f8734d73127eaa6e7ca304d1e2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_04_desc_01].content": {
+      "pl": "Pierwszy Grzesznik w kolejności składu bojowego otrzymuje efekt „Kapitan Zespołu Dobrobytu”. Grzesznik z tym efektem zyskuje więcej akcji w walce oraz pozytywne efekty.",
+      "kr_sha256": "925af620330b54a36111b547b31911fa9c88017775bee7b00cbc053ecc2aed53",
+      "en_sha256": "ddcea56293629fc519d358d67dc695be46ea82d0dcb46d820b88d0eb92b9d628",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_04_title_01].content": {
+      "pl": "Efekty Kapitana Zespołu Dobrobytu",
+      "kr_sha256": "ef0449133321e72085782d8af3997a4780d3c66a60c7a69b6f1086deeed1ed24",
+      "en_sha256": "591615bcf23a6e01454daa4cac21dbed31bb16ca5f9f43f61549fe4cd4d98ad0",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_05_desc_01].content": {
+      "pl": "Przejdź na stronę [Listy misji], aby sprawdzić misje możliwe do wykonania w walce oraz przypisane do nich nagrody.",
+      "kr_sha256": "f98ea38aa0d34eae422d31daf7adab494b366c30d5c16831b752eedefbbd3348",
+      "en_sha256": "71f6b4395038c3f4dc0f8c9a81c2cdacc67bae36e1335f0b8358f376b15c5685",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_05_title_01].content": {
+      "pl": "Lista misji",
+      "kr_sha256": "ddfd5ce499885a10de4a6ebc9a6c1a5cac1461d8e27853b13298a36a30554147",
+      "en_sha256": "93ffb8ce98c75447c13e7fb1f2028e7edb262f14d62531fd3315a2cf4adb3e7f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_06_desc_01].content": {
+      "pl": "Na stronie [Listy misji] wyświetlany jest okres odbioru nagród.",
+      "kr_sha256": "206adbc09a0602eaf37708a6b06f04aa65e785847ed3c032c1419bdb8fe4b582",
+      "en_sha256": "692f04498ba39afab2a72f0e1bfd5f2cba73b88d2a80c7379c7f44ffd7929127",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_06_desc_02].content": {
+      "pl": "Poziomy Łatwy i Trudny mają osobne zestawy misji do wykonania.",
+      "kr_sha256": "f03ad8ece1c6fb24e90ca848f4c1a84fe88a0e0ecd3fea28be635ee10ccc6ec6",
+      "en_sha256": "5cea6771ebdd77f9347cbc2ffb76a147b3edcc06d14141e8843e6adf70e692e7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_06_desc_03].content": {
+      "pl": "Ukończ misje, aby odebrać rozmaite nagrody z [Listy misji].",
+      "kr_sha256": "89027d5a6ffccdf0c7db0b2ad5cb8ec4392e0a5e93d4ff481daab7bec087cbe2",
+      "en_sha256": "d8ac23d385ad89462425f8d9ef783b2cbf86cd7b4add7f1cd33f6dcb9a6961b1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_mainui_walpu8_07_desc_01].content": {
+      "pl": "Po zakończeniu wydarzenia nadal będziesz mógł toczyć walki „8. Nocy Walpurgii — Próby Bursztynowego Zmierzchu” i oglądać jej opowieść w zakładce Jazda oraz w Teatrze — [Opowieści Poboczne].",
+      "kr_sha256": "07ab20fb5bd63a607b640b37a941d4d9ada818ff718d99b47a7db03fee9fdba1",
+      "en_sha256": "44155573742c76b68789fd30f57a0cf7c732dc1d73afedd1a993f52a2ac1934c",
+      "origin": "ai"
+    },
+    "dataList[id=walpu8_hard_difficulty].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=walpu8_hard_open_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    },
+    "dataList[id=walpu8_hard_stage_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu poziomu Łatwego",
+      "kr_sha256": "d5630d0c2c88e9fa010f4ce357725d8bdb8a15109d731457b49e82f4de82e141",
+      "en_sha256": "254904efcf03534aa793ef5d26ec8882971c5f88e3662dc140469277575dbd1c",
+      "origin": "ai"
+    },
+    "dataList[id=walpu8_normal_difficulty].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    },
+    "dataList[id=walpu8_reward_button_hard].content": {
+      "pl": "Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "9e73f8fa9cb76c441b3118628a15b2bdf4116324954957961bacc171fbead4a3",
+      "origin": "ai"
+    },
+    "dataList[id=walpu8_reward_button_normal].content": {
+      "pl": "Poziom Łatwy",
+      "kr_sha256": "75b55ee6d338242e6c23e5b18552c630572cbb1a4181d175f8277dbc97634067",
+      "en_sha256": "d6915875decb6e43dbf131d2453a2f065d78b915a3d0580777e834b9bf6afafd",
+      "origin": "ai"
+    }
+  }
+}
