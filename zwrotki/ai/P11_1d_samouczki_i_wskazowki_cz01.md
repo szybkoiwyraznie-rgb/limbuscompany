@@ -2978,8 +2978,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P11_1d_samouczki_i_wskazowki_cz01.m
    limit: do 180 znaków
    tokeny: zachowaj dokładnie: \n
    EN: S.E.A consists of 12 stages, including story stages.\nSaid stages also offer batches of [Bus-modifying Scrap] as a first-time EX Clear bonus.
-   PL: M.O.R.Z.E. obejmuje łącznie 12 etapów wraz z odcinkami fabularnymi.
-Pierwsze ukończenie z warunkiem EX zapewnia dodatkowy [Złom do Przebudowy Autobusu] (1 raz).
+   PL: M.O.R.Z.E. obejmuje łącznie 12 etapów wraz z odcinkami fabularnymi.\nPierwsze ukończenie z warunkiem EX zapewnia dodatkowy [Złom do Przebudowy Autobusu] (1 raz).
 592. [Samouczek i wskazówki [tutorial_mainui_20_umida_03_desc_02] — tekst] 우.미.다 스테이지에서는 주요 이야기의 스테이지보다 훨씬 많은 [버스 개조용 폐품]을 획득할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_20_umida_03_desc_02].content
    limit: do 140 znaków

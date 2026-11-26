@@ -1,0 +1,232 @@
+{
+  "entries": {
+    "dataList[id=tuto_10108_01].content": {
+      "pl": "W tej walce poznamy „Przeciążenie E.G.O”.\nNa potrzeby demonstracji wypożyczymy jedno E.G.O Grzeszniczki Ryōshū.",
+      "kr_sha256": "f509711ece31dd979c7e84d298fe83f4b9149eb9bda7f2ae1d33cd3ee5bbcf09",
+      "en_sha256": "a6abac757882153919b07c91de275078263cae4a01ea344f338131d6e9a8ecbc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_02].content": {
+      "pl": "Wyposażmy Ryōshū w to E.G.O.\nKliknij górną część jej karty.",
+      "kr_sha256": "cbe5418643a65d70079ff4f0572552f5f2289e90bf30cc2f92def94a5936c57e",
+      "en_sha256": "0646669184208c67e15382976b716ed9f6277164b92a0156847ea1cab802d782",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_03].content": {
+      "pl": "Kliknij zakładkę E.G.O.",
+      "kr_sha256": "30c94443c461881a927391abbd338c386f1db27f6a23babd97e37c57101c312d",
+      "en_sha256": "3beb882ba9cb1152fe24679f108ff9d1e2fb91af850486794aadd9d6bdcb85fc",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_04].content": {
+      "pl": "Wybierz E.G.O.",
+      "kr_sha256": "7c07027c190e73af7861b48b16a78d8d4ff989617237ed54090f98d1732bde34",
+      "en_sha256": "d3139ef8aed1eec976d965db1bd319f75534c5cd8cb746fcda40818dfb48b56d",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_05].content": {
+      "pl": "Tutaj jednym rzutem oka sprawdzisz wyposażone E.G.O.",
+      "kr_sha256": "5e6925b529547bad45cf0e8a78cee1d901a2e61b8518b896df5e56fae3b00a6f",
+      "en_sha256": "27575026d0af151963525e7232050340d1a965dddc372d85e7866feec0539cac",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_06].content": {
+      "pl": "Wróć do podstawowego okna składu.",
+      "kr_sha256": "c1aaf9b83b3a1b3c435faf029f6bad3c7c2ab9d7e414dbab2724f2ad1578ca7e",
+      "en_sha256": "83ed0fb435360ba1cb0c9ea3498363f329a11035a7d4a98aec503a9c9794cd5a",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_07].content": {
+      "pl": "Sprawdzisz tu <color=#f8c200>zasoby potrzebne do użycia wyposażonych E.G.O<color=#ebcaa2> oraz <color=#f8c200>zasoby generowane przez umiejętności wybranych Grzeszników<color=#ebcaa2>.",
+      "kr_sha256": "1bbc2d885955658ec6c93693365bd7323b40123f8cc440b6bc68ff5a6585aeae",
+      "en_sha256": "ec5300ad118ca2408fce23679a02553fec08b36365af3f31f3ad0fed7904bcc9",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_08].content": {
+      "pl": "Wybierz teraz Grzeszników, którzy wezmą udział w walce.",
+      "kr_sha256": "60bbd802a262024d7c72dc01e90ace83a41ee77a95cbfd1118d5ccc9281315e1",
+      "en_sha256": "b11abdebef75d6f7c830716fb9108d4cc4debd12cb0107041db3e1dada685d93",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_10108_09].content": {
+      "pl": "Rozpocznijmy walkę wybranymi Grzesznikami oraz E.G.O.",
+      "kr_sha256": "37af02d5f9cf048452699e63925c0a0a32ed1d98e8870891e00b5eb61528d2a7",
+      "en_sha256": "26710e8f8cb90c326b7eb5690b7fe9d578046304f93b6002033c1fff2a75f937",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_01].content": {
+      "pl": "Dante, przygotowano nową funkcję Mefistofelesa.\nMożesz sprawdzić ją tutaj.",
+      "kr_sha256": "9137ce33b3eb7420d2a3579fba855c7a9bc289e898b37a63d40b2bd07963a04a",
+      "en_sha256": "6cf338a8b518480944d512f00b96ca954245304be4ce15c3842d4e434ffe3d35",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_02].content": {
+      "pl": "Można wzmacniać drużynę, zdobywając doświadczenie w walkach, lecz zajmuje to sporo czasu.\nAby to przyspieszyć, przygotowaliśmy Lochy Wydobywcze.",
+      "kr_sha256": "776413edd824b37b416bf2e297eba5673aa6c20ea5fa0db3dae7f98386cc6a28",
+      "en_sha256": "5b25f051d84a6d98cea601aa4caebe8f96609f2ca02eb94d9d94cd84c291c4c0",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_03].content": {
+      "pl": "Bilety Treningowe zdobywane w Lochach Wydobywczych PD\npozwalają znacznie szybciej rozwijać poziomy Tożsamości.",
+      "kr_sha256": "5b1952f17c18a7bf0d26a6ef5e3d0565f4b2dd2eafa1e0221ee1436e657ebe6e",
+      "en_sha256": "552333d971b1d5e647d8a8982354f95394eb0ac59650510184cdfd8ad253acba",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_04].content": {
+      "pl": "W odblokowywanych później Lochach Wydobywczych Nici zdobędziesz Nici\nsłużące do Synchronizacji Tożsamości oraz Splotu Nici E.G.O.",
+      "kr_sha256": "2d35fa1d2abeb48804d7953c50babf4dfb0c991ba2d95dcbaf32af8d06522a43",
+      "en_sha256": "f6e8c2fd500103285424f77978313493c8fc2f83dbb162629a85a29d9f38c668",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_05].content": {
+      "pl": "Pamiętaj, że wejście do Lochów Wydobywczych wymaga Modułów Enkefaliny.",
+      "kr_sha256": "a77499c1e7b9649fd37a9fc3c201efe81d878088a82f36e0a00872af0fd6263e",
+      "en_sha256": "61c6ef555791cb00d131201b5a73560ad2abd77e0db94576df5ac4a0bd25381f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_06].content": {
+      "pl": "Ukończone walki w Lochach Wydobywczych można pomijać.\nZużywa to wprawdzie 2 razy więcej Modułów, lecz oszczędza czas i daje 1,5 raza więcej nagród podstawowych.",
+      "kr_sha256": "f7a8d7d1cdb5d233990f18ffb10c71c0d4c9e3d94cc1aa8f28a0d9098066dc33",
+      "en_sha256": "264375bed70c3b9a08bd01da427e7e26868fac4c474315f1a8e9cdd1a5f4eaa7",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_07].content": {
+      "pl": "Kolejne poziomy Lochów Wydobywczych będą odblokowywać się w miarę dalszej podróży.",
+      "kr_sha256": "87ad9365c14f8bab189abddc6a510134ee013d5aee644458be5a51ede422cb78",
+      "en_sha256": "644803dc7647c0876ac3b65e0901f3fcae78b51f5183846e390f1687ba13acbb",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_exp_mining_08].content": {
+      "pl": "Wyższe poziomy Lochów Wydobywczych zapewniają cenniejsze zasoby,\nwięc warto regularnie tu zaglądać.",
+      "kr_sha256": "cce78a7b7d886c53bd7a2345e010ad34c5c5ae076d95ed1dd76e9e46263fb092",
+      "en_sha256": "d6c75c3a7e5faa57c0816de14ed50efc0f0c16e1b3d85f2ad8907814cd998f69",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_lobby_at_start_01].content": {
+      "pl": "Pokażę teraz, jak kontynuować dalszą część opowieści.",
+      "kr_sha256": "b124a60508f2702ba8369174dd01049b47a002a73838fb047cd2170505d9ac5f",
+      "en_sha256": "417ebb289608e7d19cfeb31e4bc1e93779d3d8bc070b9fcb33d55b6b08067277",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_lobby_at_start_02].content": {
+      "pl": "Naciśnij przycisk wejścia, aby przejść do kolejnego etapu historii.",
+      "kr_sha256": "52d281ec953a546c2e8f8152174c1fcca6a0b2deb312af11e56bcadaa03d5af7",
+      "en_sha256": "6050c50fa5c32a4c2328fae8879b9402fc0e9d2a8e4f016c55616f2d01f30c5c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_mirror_dungeon_01].content": {
+      "pl": "Nabierasz wprawy w dowodzeniu, Dante.\nTeraz możesz już skorzystać z kluczowej funkcji Mefistofelesa.",
+      "kr_sha256": "3f07f1573ad754ea9598e6dd7af3cd79d0504c2ea8ec060180eb79a01172d204",
+      "en_sha256": "76fe03067e0baacb7318e02410aae83bf61294c716f992a11e78b98f60d3e12b",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_mirror_dungeon_02].content": {
+      "pl": "Kliknij tutaj, aby wejść do Lustrzanych Lochów.\nTo miejsce badania rozmaitych możliwości, a jego ukończenie zapewnia PD Przepustki Bojowej oraz pewną ilość Szaleństwa.",
+      "kr_sha256": "ab24c0001901e6b355551734d69e7c8b5a0e6a27d5b0c8239a458979aea22bf5",
+      "en_sha256": "8bc8d45f5350fb1826ed45de1534e4a96359b7ea737dc8cc4ebf20cad70fa50b",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_01].content": {
+      "pl": "Sprawdźmy teraz, jak przeglądać informacje o wyposażonych Tożsamościach i E.G.O.",
+      "kr_sha256": "494714bc30c2510879cb5376fadbd9a60f01cf748c923b2579122daaa9384da4",
+      "en_sha256": "fd3d2a8a58b9334cb507904dd6633a27decde8b32e00b9f1adfe233b661e695f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_02].content": {
+      "pl": "Naciśnij i przytrzymaj portret Grzesznika Yi Sanga.",
+      "kr_sha256": "8f369efc1aec023a2c6c88629cd6cccea737136c52d16fef623f2b27eceaa21b",
+      "en_sha256": "e8c3ab487556208d67f218a1971f4c342395506e968c0e57bba0732c1ef79ebd",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_03].content": {
+      "pl": "Tutaj możesz sprawdzić informacje\no Grzeszniku oraz go rozwijać.",
+      "kr_sha256": "7f27b9efd3c8cf72b74d0b6edddf7d7468b67ed6e0538272c064521a734edc2d",
+      "en_sha256": "ac12190ac7f195ac7b0c4ce7ef1243222865c60f997e52f9018997970f8cfa0f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_04].content": {
+      "pl": "Kliknij zakładkę, aby przejrzeć dane\nwyposażonej Tożsamości i E.G.O.",
+      "kr_sha256": "48d3b1f8a7e3e84edbe6cac58909650b0bd92bee6d185a7de8c4166a3bf5db55",
+      "en_sha256": "d1f2b1a5eeece396f7e25b61b4bc4236c56fd64a0ff98d6bb522623a0faad80f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_05].content": {
+      "pl": "Ten przycisk służy do podnoszenia\npoziomu Tożsamości.",
+      "kr_sha256": "1648719cb4352271cfdd96005ac7b3573aed922b5bdd18903657ffa8c6ac0bcf",
+      "en_sha256": "781c852ac80ac9609c9e98f177be02964a7c5ae7c29fb9ee9b0928e23e2b78db",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_06].content": {
+      "pl": "Ten przycisk służy do przeprowadzania\nSynchronizacji Tożsamości.",
+      "kr_sha256": "314991923a2bcafceb8a7d5282794375c4f5c0a18ecb11520ca040a8c83dd8cf",
+      "en_sha256": "5a7abbd4663499ec5322dd645100074e57e95af2e2d75a73cc6b7ec559292867",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_07].content": {
+      "pl": "Im wyższy poziom i stopień Synchronizacji,\ntym silniejsza staje się Tożsamość —\ndbaj o nie przed walką.",
+      "kr_sha256": "42e2be3f18a55d4d8501c5c82fbb4afd48a4d553c6fcb4ba7e695442a4aea320",
+      "en_sha256": "38c8b9e91319d5d18b7ace0f2ecfc4a6f9fac85e25976ed3259ff3f33f865102",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_08].content": {
+      "pl": "Kliknij zakładkę E.G.O, aby sprawdzić również dane E.G.O.",
+      "kr_sha256": "8395d8a6f35a9570f18b55e8d9d6a2612c776923b92099d2dd6b80e41a94364a",
+      "en_sha256": "a90908e01eb4d6d23145d874dd108a568f5090b239786da10d578de6a8812e5c",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_09].content": {
+      "pl": "Tutaj sprawdzisz szczegółowe\ninformacje o E.G.O.",
+      "kr_sha256": "b7efeaa7d76997abd60d8aaefa157a41e1e65f730451548835016a029351a241",
+      "en_sha256": "dad22099e08b290d57df8906461c75c435e2b5ec30e17a90d8ce3b0f76e0e36e",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_10].content": {
+      "pl": "Kliknij zakładkę, aby wyświetlić\ninformacje o E.G.O.",
+      "kr_sha256": "0ef35a29a3dec97a909b7376b2d319a752d42c4b6465f308cb5a868ff32cf03b",
+      "en_sha256": "9f576ed69ee6b5e962f1d28528d8b0c7ee068bdfdcd6490d30fadbb7482a434f",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_11].content": {
+      "pl": "To zasoby wymagane do użycia umiejętności E.G.O.",
+      "kr_sha256": "a420a021f6c2887ad72d5c9fe847520de455e2e4a409e58b5971d29341187e2d",
+      "en_sha256": "9aa27bfe4997673963437330177143c7526044d41c2a0c97a3b22c6bdbf2fad9",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_12].content": {
+      "pl": "To liczba PP zużywanych przy użyciu umiejętności E.G.O.",
+      "kr_sha256": "d0d4aafc5c2c3744958c99979d3859d80a3bef05fe65584ece2569d6639bdbe7",
+      "en_sha256": "a1baa1b0465eeb01fed77abd8daddb5f34c5d77a5e070853e36c715ff79ca600",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_13].content": {
+      "pl": "To odporności na grzechy Grzesznika zmieniane po użyciu umiejętności E.G.O.",
+      "kr_sha256": "85ba327deda8e80ecf7c55218cedac8cad4269baca117a2597bc6f5a49d3b4f2",
+      "en_sha256": "d28756aeef297faeb6cdf0dd446ee97439ca81d39e5f9dba94b52832f6aa9783",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_14].content": {
+      "pl": "Ten przycisk służy do przeprowadzania Splotu Nici E.G.O.",
+      "kr_sha256": "eafcc443bcf7f67bb267e06081208e70ba19b4ccf69c9a7832c06d024536a282",
+      "en_sha256": "dd3fab1fcb11daa044c882d64107a0374daa71d2eecd420122bcd86829db8295",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_15].content": {
+      "pl": "Splot Nici wzmacnia E.G.O,\nwięc zalecamy podnoszenie jego stopnia.",
+      "kr_sha256": "6cb382bbcfb0d701e2d2cdb98b6faa4497bdcd7e74345f3c4d854560e158dd34",
+      "en_sha256": "a5f3e99ace3721570b89ea40b045d34a57044f0a9135ad29a2cb69aafb78c409",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_16].content": {
+      "pl": "W przypadku podstawowych E.G.O stopień Splotu Nici\nrośnie automatycznie wraz z postępami w fabule.",
+      "kr_sha256": "c4113f17cd1b49e21bcde9f494c236c0cac9448fabf9580ae1e28d7b441ba53b",
+      "en_sha256": "63ad05c897ad98be990da04def3c9f9104343ba9ce2f1e676552b1821113b7e3",
+      "origin": "ai"
+    },
+    "dataList[id=tuto_personality_ego_info_17].content": {
+      "pl": "Więcej szczegółów znajdziesz również w podręczniku dostępnym w tym miejscu.",
+      "kr_sha256": "f273f63d9848b5d598d3fee2d3d6da2160c47fda192c92eebf4d8d43272882f7",
+      "en_sha256": "24ba0527a2ef2ba582cae5007fc971bc529c076bfeade59a6da0e54d71ea575b",
+      "origin": "ai"
+    }
+  }
+}

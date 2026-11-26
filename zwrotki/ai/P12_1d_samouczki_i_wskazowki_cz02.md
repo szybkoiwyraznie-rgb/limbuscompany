@@ -61,8 +61,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P12_1d_samouczki_i_wskazowki_cz02.m
    limit: do 200 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Upon entering the next Station, information saved in the last Station will be loaded.\nThe Speed of allies & enemies are saved upon entering a Station.
-   PL: Po wejściu na kolejną stację wczytywane są dane zapisane na poprzedniej stacji.
-Szybkość sojuszników i wrogów zapisywana jest w momencie wejścia na stację.
+   PL: Po wejściu na kolejną stację wczytywane są dane zapisane na poprzedniej stacji.\nSzybkość sojuszników i wrogów zapisywana jest w momencie wejścia na stację.
 11. [Samouczek i wskazówki [tutorial_mainui_21_railway2_page_09_desc_02] — tekst] 아군 · 적 속도의 경우에는 역 입장 시점에서 저장됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_21_railway2_page_09_desc_02].content
    limit: do 120 znaków
@@ -73,8 +72,7 @@ Szybkość sojuszników i wrogów zapisywana jest w momencie wejścia na stację
    limit: do 350 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Upon forfeiting a Stage, you will be returned to the state immediately before entering this stage.\nIdentities' HP, SP, Speed, Skills in the Dashboard, used Skills, remaining Skills, and enemy Speed at the state immediately before entering the Station will not be changed.
-   PL: Poddanie etapu cofa stan gry do momentu tuż przed wejściem na daną stację.
-PŻ, PP i Szybkość Tożsamości, umiejętności na panelu dowodzenia, stan zużycia umiejętności oraz Szybkość wrogów z początku poprzedniej walki pozostają bez zmian.
+   PL: Poddanie etapu cofa stan gry do momentu tuż przed wejściem na daną stację.\nPŻ, PP i Szybkość Tożsamości, umiejętności na panelu dowodzenia, stan zużycia umiejętności oraz Szybkość wrogów z początku poprzedniej walki pozostają bez zmian.
 13. [Samouczek i wskazówki [tutorial_mainui_21_railway2_page_10_desc_02] — tekst] 직전 전투 시작 시점의 인격 체력, 정신력, 속도, 조작 패널의 스킬, 인격 별 스킬 사용 상태, 적의 속도가 동일하게 유지됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_21_railway2_page_10_desc_02].content
    limit: do 220 znaków
@@ -130,8 +128,7 @@ PŻ, PP i Szybkość Tożsamości, umiejętności na panelu dowodzenia, stan zu�
    limit: do 270 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Select 1 Enemy Buff. You cannot select the same Buff you selected in the last Cycle.\nHowever, if all Buffs had been selected at least once, selection limits will reset and you can select any Buff you want again.
-   PL: Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.
-Jeśli jednak wszystkie efekty zostały już wybrane po razie, pula wyboru się resetuje i znów możesz wybrać dowolny efekt.
+   PL: Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.\nJeśli jednak wszystkie efekty zostały już wybrane po razie, pula wyboru się resetuje i znów możesz wybrać dowolny efekt.
 24. [Samouczek i wskazówki [tutorial_mainui_21_railway2_page_15_desc_03] — tekst] 직접 선택할 수 있는 버프 이외에 매 순환 시마다 1개의 고정 버프가 추가로 적용됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_21_railway2_page_15_desc_03].content
    limit: do 120 znaków
@@ -182,8 +179,7 @@ Jeśli jednak wszystkie efekty zostały już wybrane po razie, pula wyboru się 
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: More special banners have harder acquisition conditions.\nUpon acquisition of the banner, your best Cycle Count and Total Turn records will be displayed on them.
-   PL: Im trudniejszy warunek zdobycia, tym bardziej wyjątkowy baner otrzymasz.
-Po zdobyciu baneru widnieją na nim liczba cykli oraz łączna liczba tur z twojego najlepszego rekordu.
+   PL: Im trudniejszy warunek zdobycia, tym bardziej wyjątkowy baner otrzymasz.\nPo zdobyciu baneru widnieją na nim liczba cykli oraz łączna liczba tur z twojego najlepszego rekordu.
 34. [Samouczek i wskazówki [tutorial_mainui_21_railway2_page_19_desc_03] — tekst] 배너를 획득하면 가장 높은 기록의 순환 횟수와 누적 턴 수가 배너에 표기됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_21_railway2_page_19_desc_03].content
    limit: do 140 znaków
@@ -204,8 +200,7 @@ Po zdobyciu baneru widnieją na nim liczba cykli oraz łączna liczba tur z twoj
    limit: do 260 znaków
    tokeny: zachowaj dokładnie: \n
    EN: To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost.
-   PL: Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.
-Wszystkie kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.
+   PL: Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.\nWszystkie kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.
 38. [Samouczek i wskazówki [tutorial_mainui_21_railway2_page_21_title_01] — tekst] 누적 기록
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_21_railway2_page_21_title_01].content
    limit: do 120 znaków
@@ -316,17 +311,13 @@ Wszystkie kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowy
    limit: do 350 znaków
    tokeny: zachowaj dokładnie: \n
    EN: During the event period, Identities & E.G.O from the current Walpurgis Night event will be Extractable from other Extraction banners(save for Season relevant Extraction banners) as well.\n\nHowever, their extraction rates will be identical to those of other Identities & E.G.O.
-   PL: W trakcie wydarzenia Tożsamości oraz E.G.O z bieżącej Nocy Walpurgii mogą pojawić się także w innych Ekstrakcjach (z wyjątkiem Ekstrakcji powiązanych z sezonem).
-
-W takich Ekstrakcjach szansa ich pojawienia się nie jest jednak dodatkowo zwiększona.
+   PL: W trakcie wydarzenia Tożsamości oraz E.G.O z bieżącej Nocy Walpurgii mogą pojawić się także w innych Ekstrakcjach (z wyjątkiem Ekstrakcji powiązanych z sezonem).\n\nW takich Ekstrakcjach szansa ich pojawienia się nie jest jednak dodatkowo zwiększona.
 64. [Samouczek i wskazówki [tutorial_walpurgisnacht_extraction_page_03_desc_01] — tekst] 이벤트 기간 동안 모든 추출(시즌 관련 추출 제외)에서 다른 회차의 발푸르기스의 밤 인격 및 E.G.O가 등장합니다.\n\n단, 이러한 경우에는 다른 인격 및 E.G.O와 등장 확률이 동일합니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_walpurgisnacht_extraction_page_03_desc_01].content
    limit: do 300 znaków
    tokeny: zachowaj dokładnie: \n
    EN: During the event period, previous Walpurgis Night Identities & E.G.O will be Extractable from all Extraction banners(save for Season relevant Extraction banners).\n\nHowever, they will not receive increased rates for those Extractions.
-   PL: W trakcie wydarzenia we wszystkich Ekstrakcjach (z wyjątkiem powiązanych z sezonem) mogą pojawić się Tożsamości i E.G.O z poprzednich edycji Nocy Walpurgii.
-
-Szansa ich wylosowania jest wówczas taka sama jak dla pozostałych Tożsamości i E.G.O.
+   PL: W trakcie wydarzenia we wszystkich Ekstrakcjach (z wyjątkiem powiązanych z sezonem) mogą pojawić się Tożsamości i E.G.O z poprzednich edycji Nocy Walpurgii.\n\nSzansa ich wylosowania jest wówczas taka sama jak dla pozostałych Tożsamości i E.G.O.
 65. [Samouczek i wskazówki [tutorial_walpurgisnacht_extraction_page_04_desc_01] — tekst] 이벤트 기간이 종료되면 발푸르기스의 밤 인격과 E.G.O가 모든 추출 목록에서 사라집니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_walpurgisnacht_extraction_page_04_desc_01].content
    limit: do 130 znaków
@@ -663,8 +654,7 @@ Szansa ich wylosowania jest wówczas taka sama jak dla pozostałych Tożsamości
    limit: do 300 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of The Miracle in District 20 event is shown here. During the event, you can earn [Trinkets Sack] by clearing Stages and Dungeons in the event and Main Story.\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations.
-   PL: Tutaj wyświetlany jest czas trwania wydarzenia Cud w Dystrykcie 20. W trakcie wydarzenia ukończenie etapów lub lochów wydarzenia i Głównej Opowieści zapewnia [Worki Ozdób].
-※ [Worków Ozdób] nie można jednak zdobyć w Lochach Wydobywczych.
+   PL: Tutaj wyświetlany jest czas trwania wydarzenia Cud w Dystrykcie 20. W trakcie wydarzenia ukończenie etapów lub lochów wydarzenia i Głównej Opowieści zapewnia [Worki Ozdób].\n※ [Worków Ozdób] nie można jednak zdobyć w Lochach Wydobywczych.
 133. [Samouczek i wskazówki [tutorial_mainui_24_miracle_03_title_01] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_24_miracle_03_title_01].content
    limit: do 120 znaków
@@ -675,8 +665,7 @@ Szansa ich wylosowania jest wówczas taka sama jak dla pozostałych Tożsamości
    limit: do 190 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Miracle in District 20 consists of 13 stages, including story stages.\nSaid stages also offer batches of [Trinkets Sack] as a first-time Clear bonus.
-   PL: Cud w Dystrykcie 20 obejmuje łącznie 13 etapów wraz z etapami fabularnymi.
-Walki wydarzenia zapewniają dodatkowo [Worki Ozdób] za pierwsze ukończenie (1 raz).
+   PL: Cud w Dystrykcie 20 obejmuje łącznie 13 etapów wraz z etapami fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Worki Ozdób] za pierwsze ukończenie (1 raz).
 135. [Samouczek i wskazówki [tutorial_mainui_24_miracle_03_desc_02] — tekst] 20번구의 기적 스테이지에서는 주요 이야기의 스테이지보다 훨씬 많은 [장식 꾸러미]를 획득할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_24_miracle_03_desc_02].content
    limit: do 150 znaków
@@ -702,8 +691,7 @@ Walki wydarzenia zapewniają dodatkowo [Worki Ozdób] za pierwsze ukończenie (1
    limit: do 200 znaków
    tokeny: zachowaj dokładnie: \n
    EN: You can redeem various rewards from the [Gift Exchange] based on the number of [Trinkets Sack] you have.\nYou can collect up to 4,000 [Trinkets Sack].
-   PL: W [Wymianie prezentów] odbierzesz rozmaite nagrody proporcjonalnie do liczby zebranych [Worków Ozdób].
-Możesz zebrać maksymalnie 4000 [Worków Ozdób].
+   PL: W [Wymianie prezentów] odbierzesz rozmaite nagrody proporcjonalnie do liczby zebranych [Worków Ozdób].\nMożesz zebrać maksymalnie 4000 [Worków Ozdób].
 140. [Samouczek i wskazówki [tutorial_mainui_24_miracle_06_desc_01] — tekst] [선물 교환] 페이지에서 각종 재화와 이벤트 배포 E.G.O를 획득할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_24_miracle_06_desc_01].content
    limit: do 140 znaków
@@ -950,8 +938,7 @@ Możesz zebrać maksymalnie 4000 [Worków Ozdób].
    limit: do 330 znaków
    tokeny: zachowaj dokładnie: \n
    EN: During an expedition, you can choose to start over from previously cleared Stations.\nWhen you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress you've made since that Station will be reset.
-   PL: W trakcie wyprawy możesz rozpocząć grę od nowa od dowolnego ukończonego wcześniej etapu.
-Walka rozpocznie się wówczas ze stanem Tożsamości i zasobami E.G.O z momentu wejścia na ten etap, a postępy z późniejszych etapów zostaną zresetowane.
+   PL: W trakcie wyprawy możesz rozpocząć grę od nowa od dowolnego ukończonego wcześniej etapu.\nWalka rozpocznie się wówczas ze stanem Tożsamości i zasobami E.G.O z momentu wejścia na ten etap, a postępy z późniejszych etapów zostaną zresetowane.
 192. [Samouczek i wskazówki [tutorial_mainui_railway3_page_12_title_01] — tekst] 휴게역
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway3_page_12_title_01].content
    limit: do 120 znaków
@@ -1041,9 +1028,7 @@ Walka rozpocznie się wówczas ze stanem Tożsamości i zasobami E.G.O z momentu
    limit: do 240 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The [Yield My Flesh to Claim Their Bones Event Page] opens after clearing Stage 5.5-12 of the Main Story.\n\nYou may enter the event page via the banner on the Window or the Driverside.
-   PL: [Strona wydarzenia Oddam Ciało, by Złamać Ich Kości] odblokowuje się po ukończeniu etapu 5.5-12 Głównej Opowieści.
-
-Wejdziesz na nią przez baner wydarzenia w Oknie lub Jeździe.
+   PL: [Strona wydarzenia Oddam Ciało, by Złamać Ich Kości] odblokowuje się po ukończeniu etapu 5.5-12 Głównej Opowieści.\n\nWejdziesz na nią przez baner wydarzenia w Oknie lub Jeździe.
 211. [Samouczek i wskazówki [tutorial_mainui_26_ycgd_02_title_01] — tekst] 이벤트 기간
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_26_ycgd_02_title_01].content
    (powtórzenie elementu 131 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1052,11 +1037,7 @@ Wejdziesz na nią przez baner wydarzenia w Oknie lub Jeździe.
    limit: do 500 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of Yield My Flesh to Claim Their Bones event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages and Event Dungeons. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages or Dungeons for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości.
-
-Za każde ukończenie etapów i lochu wydarzenia otrzymasz [Zakrwawione Pochwy]. Zdobędziesz je także za pierwsze ukończenie etapów i lochów Głównej Opowieści oraz za przejście Lustrzanych Lochów.
-
-※ [Zakrwawionych Pochew] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości.\n\nZa każde ukończenie etapów i lochu wydarzenia otrzymasz [Zakrwawione Pochwy]. Zdobędziesz je także za pierwsze ukończenie etapów i lochów Głównej Opowieści oraz za przejście Lustrzanych Lochów.\n\n※ [Zakrwawionych Pochew] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 213. [Samouczek i wskazówki [tutorial_mainui_26_ycgd_03_title_01] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_26_ycgd_03_title_01].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1108,9 +1089,7 @@ Za każde ukończenie etapów i lochu wydarzenia otrzymasz [Zakrwawione Pochwy].
    limit: do 170 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The final battle of Yield My Flesh to Claim Their Bones is like a Mirror Dungeon.\n\nEntering the Dungeon costs Enkephalin Modules.
-   PL: Ostatnia walka wydarzenia Oddam Ciało, by Złamać Ich Kości przebiega na zasadach Lustrzanych Lochów.
-
-Wejście zużywa Moduły Enkefaliny.
+   PL: Ostatnia walka wydarzenia Oddam Ciało, by Złamać Ich Kości przebiega na zasadach Lustrzanych Lochów.\n\nWejście zużywa Moduły Enkefaliny.
 224. [Samouczek i wskazówki [tutorial_mainui_26_ycgd_08_title_01] — tekst] 한 서린 검집
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_26_ycgd_08_title_01].content
    limit: do 120 znaków
@@ -1121,9 +1100,7 @@ Wejście zużywa Moduły Enkefaliny.
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Rarely, you may obtain [Resentful Scabbard] from clearing Encounters.\n\n[Resentful Scabbard] is automatically converted to 20 [Bloodied Scabbard] upon acquisition.
-   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].
-
-Zdobyta [Przepełniona Żalem Pochwa] jest automatycznie zamieniana na 20 [Zakrwawionych Pochew].
+   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].\n\nZdobyta [Przepełniona Żalem Pochwa] jest automatycznie zamieniana na 20 [Zakrwawionych Pochew].
 226. [Samouczek i wskazówki [tutorial_mainui_26_ycgd_09_desc_01] — tekst] 이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 육참골단 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_26_ycgd_09_desc_01].content
    limit: do 270 znaków
@@ -1152,10 +1129,7 @@ Zdobyta [Przepełniona Żalem Pochwa] jest automatycznie zamieniana na 20 [Zakrw
    limit: do 420 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of the Timekilling Time event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu.
-W trakcie wydarzenia ukończenie etapów Czasu Zabijania Czasu, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].
-
-※ [Zegarków Kieszonkowych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu.\nW trakcie wydarzenia ukończenie etapów Czasu Zabijania Czasu, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].\n\n※ [Zegarków Kieszonkowych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 232. [Samouczek i wskazówki [tutorial_mainui_28_tkt_03_title_01] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_28_tkt_03_title_01].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1164,9 +1138,7 @@ W trakcie wydarzenia ukończenie etapów Czasu Zabijania Czasu, Lustrzanych Loch
    limit: do 220 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Timekilling Time consists of 14 stages, including story stages, and a single dungeon.\n\nEvent Encounters also offer batches of [Pocket Watch] as a first-time Clear bonus.
-   PL: Wydarzenie Czas Zabijania Czasu obejmuje łącznie 14 etapów (wraz z fabularnymi) oraz 1 loch.
-
-Walki wydarzenia zapewniają bardzo dużo [Zegarków Kieszonkowych] jako nagrodę za pierwsze ukończenie (1 raz).
+   PL: Wydarzenie Czas Zabijania Czasu obejmuje łącznie 14 etapów (wraz z fabularnymi) oraz 1 loch.\n\nWalki wydarzenia zapewniają bardzo dużo [Zegarków Kieszonkowych] jako nagrodę za pierwsze ukończenie (1 raz).
 234. [Samouczek i wskazówki [tutorial_mainui_28_tkt_04_title_01] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_28_tkt_04_title_01].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1213,9 +1185,7 @@ Walki wydarzenia zapewniają bardzo dużo [Zegarków Kieszonkowych] jako nagrod�
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Rarely, you may obtain [Pocket Watch Bundle] from clearing Encounters.\n\n[Pocket Watch Bundle] is automatically converted to 20 [Pocket Watch] upon acquisition.
-   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Pęku Zegarków Kieszonkowych].
-
-Zdobyty [Pęk Zegarków Kieszonkowych] jest automatycznie zamieniany na 20 [Zegarków Kieszonkowych].
+   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Pęku Zegarków Kieszonkowych].\n\nZdobyty [Pęk Zegarków Kieszonkowych] jest automatycznie zamieniany na 20 [Zegarków Kieszonkowych].
 244. [Samouczek i wskazówki [tutorial_mainui_28_tkt_09_desc_01] — tekst] 이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 시간살인시간 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_28_tkt_09_desc_01].content
    limit: do 250 znaków
@@ -1237,9 +1207,7 @@ Zdobyty [Pęk Zegarków Kieszonkowych] jest automatycznie zamieniany na 20 [Zega
    limit: do 140 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Select the activated Line to enter. Entering the Refraction Railway does not cost any currency or resources.
-   PL: Wybierz aktywną linię, aby wejść.
-
-Wejście do Kolei Załamania nie zużywa żadnych walut.
+   PL: Wybierz aktywną linię, aby wejść.\n\nWejście do Kolei Załamania nie zużywa żadnych walut.
 249. [Samouczek i wskazówki [tutorial_mainui_railway4_page_02_desc_01] — tekst] 거울굴절철도는 매우 어려운 난이도의 콘텐츠입니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_02_desc_01].content
    limit: do 120 znaków
@@ -1293,9 +1261,7 @@ Wejście do Kolei Załamania nie zużywa żadnych walut.
    limit: do 220 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Clearing the Section will record your Clear Turn Count.\n\nBelow the Clear Turn Count is the Total Turn Count, which is the sum of all Clear Turn Counts from each Section.
-   PL: Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.
-
-Obok niej zapisywana jest łączna liczba tur będąca sumą tur ukończenia wszystkich odcinków od Odcinka 1 do bieżącego.
+   PL: Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.\n\nObok niej zapisywana jest łączna liczba tur będąca sumą tur ukończenia wszystkich odcinków od Odcinka 1 do bieżącego.
 260. [Samouczek i wskazówki [tutorial_mainui_railway4_page_05_desc_03] — tekst] 해당 구간을 클리어하였을 때 분실물보관소를 통해 얻을 수 있게 되는 보상이 하단에 표시됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_05_desc_03].content
    limit: do 140 znaków
@@ -1326,9 +1292,7 @@ Obok niej zapisywana jest łączna liczba tur będąca sumą tur ukończenia wsz
    limit: do 240 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Refraction Railway Line 4 introduces the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders.
-   PL: Linia 4 rozgrywana jest w trybie Walki Seryjnej.
-
-W Walce Seryjnej po śmierci uczestnika w polu jego miejsce zajmuje kolejny rezerwowy zgodnie z ustaloną kolejnością.
+   PL: Linia 4 rozgrywana jest w trybie Walki Seryjnej.\n\nW Walce Seryjnej po śmierci uczestnika w polu jego miejsce zajmuje kolejny rezerwowy zgodnie z ustaloną kolejnością.
 266. [Samouczek i wskazówki [tutorial_mainui_railway4_page_07_desc_02] — tekst] 7명의 출격 인원과 5명의 대기 인원을 전부 설정하여야 입장할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_07_desc_02].content
    limit: do 160 znaków
@@ -1342,9 +1306,7 @@ W Walce Seryjnej po śmierci uczestnika w polu jego miejsce zajmuje kolejny reze
    limit: do 450 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, just like in Focused Encounters.\nIn Refraction Railway Line 4, the Sapling of Light ability can be activated once per every run.\nActivation inside the Refraction Railway does not count toward the activation limit outside the Refraction Railway.
-   PL: Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.
-Po wejściu na Linię 4 Kolei Załamania możesz użyć zdolności Sadzonki Światła 1 raz na wyprawę.
-Jej użycie nie zużywa dziennego limitu poza tym trybem.
+   PL: Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.\nPo wejściu na Linię 4 Kolei Załamania możesz użyć zdolności Sadzonki Światła 1 raz na wyprawę.\nJej użycie nie zużywa dziennego limitu poza tym trybem.
 269. [Samouczek i wskazówki [tutorial_mainui_railway4_page_09_title_01] — tekst] 전투 - 편성 순서 효과
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_09_title_01].content
    limit: do 120 znaków
@@ -1375,9 +1337,7 @@ Jej użycie nie zużywa dziennego limitu poza tym trybem.
    limit: do 260 znaków
    tokeny: zachowaj dokładnie: \n
    EN: When a Backup unit is Deployed into battle, its Combat Passive activates instead of its Support Passive.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.
-   PL: Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.
-
-Gdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę wsparcia.
+   PL: Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.\n\nGdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę wsparcia.
 275. [Samouczek i wskazówki [tutorial_mainui_railway4_page_11_title_01] — tekst] 전투 - 굳은 의지
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_11_title_01].content
    limit: do 120 znaków
@@ -1436,9 +1396,7 @@ Gdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę ws
    limit: do 230 znaków
    tokeny: zachowaj dokładnie: \n
    EN: You can also change your Team Loadout in Rest Stations.\n\nIf you are having difficulty clearing a Stage, please note that a different Team may work better against certain enemies.
-   PL: Na stacjach postojowych możesz swobodnie zmienić skład drużyny.
-
-Jeśli dany etap sprawia trudności, zalecamy wymianę składu na stacji postojowej.
+   PL: Na stacjach postojowych możesz swobodnie zmienić skład drużyny.\n\nJeśli dany etap sprawia trudności, zalecamy wymianę składu na stacji postojowej.
 287. [Samouczek i wskazówki [tutorial_mainui_railway4_page_15_desc_01] — tekst] 아군이 모두 전멸하였다면 입장 화면으로 돌아가 편성 순서를 다시 설정하거나 현재 전투를 즉시 재도전할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_15_desc_01].content
    limit: do 210 znaków
@@ -1481,9 +1439,7 @@ Jeśli dany etap sprawia trudności, zalecamy wymianę składu na stacji postojo
    limit: do 260 znaków
    tokeny: zachowaj dokładnie: \n
    EN: To gain access to a reward for the first time at Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim rewards you’ve earned at no additional cost.
-   PL: Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.
-
-Kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.
+   PL: Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.\n\nKolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.
 297. [Samouczek i wskazówki [tutorial_mainui_railway4_page_19_title_01] — tekst] 누적 기록
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_railway4_page_19_title_01].content
    (powtórzenie elementu 205 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1527,8 +1483,7 @@ Kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Moduł�
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Murder on the WARP Express consists of 15 stages, including story stages.\nSaid stages also offer batches of [Civilian Recov. Pack] as a first-time EX Clear bonus.
-   PL: Morderstwo w Ekspresie WARP obejmuje łącznie 15 etapów wraz z fabularnymi.
-Walki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pierwsze ukończenie (1 raz).
+   PL: Morderstwo w Ekspresie WARP obejmuje łącznie 15 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pierwsze ukończenie (1 raz).
 307. [Samouczek i wskazówki [tutorial_mainui_29_mowe_03_desc_02] — tekst] 워프특급 살인사건 스테이지에서는 주요 이야기의 스테이지보다 훨씬 많은 [일반 승객 복구팩]을 획득할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_29_mowe_03_desc_02].content
    limit: do 160 znaków
@@ -1593,11 +1548,7 @@ Walki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pi
    limit: do 400 znaków
    tokeny: zachowaj dokładnie: \n
    EN: In Chain Battles, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a backup unit will substitute in to fill their place.\n\nIn Chain Battles, you cannot lose until all units selected for the Encounter(both participating units and backup units) are defeated.
-   PL: W Walce Seryjnej oprócz uczestników podstawowych możesz wybrać również „jednostki rezerwowe”.
-
-Gdy uczestnik podstawowy zginie w trakcie walki, jego miejsce zajmuje rezerwowy.
-
-W Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednostki (zarówno podstawowe, jak i rezerwowe).
+   PL: W Walce Seryjnej oprócz uczestników podstawowych możesz wybrać również „jednostki rezerwowe”.\n\nGdy uczestnik podstawowy zginie w trakcie walki, jego miejsce zajmuje rezerwowy.\n\nW Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednostki (zarówno podstawowe, jak i rezerwowe).
 321. [Samouczek i wskazówki [tutorial_mainui_01_selection_page_12_title_01] — tekst] 대기 인원 편성
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_01_selection_page_12_title_01].content
    limit: do 120 znaków
@@ -1608,13 +1559,7 @@ W Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednost
    limit: do 530 znaków
    tokeny: zachowaj dokładnie: \n
    EN: When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order.\n\nCertain Chain Battles may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders to strategize prior to entering Chain Battles.
-   PL: Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają na pole bitwy zgodnie z kolejnością rozstawienia.
-
-Wchodzący do walki rezerwowy odzyskuje PP w liczbie odpowiadającej premii początkowych PP przypisanej do jego numeru rozstawienia.
-
-W niektórych Walkach Seryjnych wchodzący rezerwowi otrzymują też dodatkowe wzmocnienia.
-
-Wykorzystaj to, aby strategicznie zaplanować kolejność rozstawienia.
+   PL: Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają na pole bitwy zgodnie z kolejnością rozstawienia.\n\nWchodzący do walki rezerwowy odzyskuje PP w liczbie odpowiadającej premii początkowych PP przypisanej do jego numeru rozstawienia.\n\nW niektórych Walkach Seryjnych wchodzący rezerwowi otrzymują też dodatkowe wzmocnienia.\n\nWykorzystaj to, aby strategicznie zaplanować kolejność rozstawienia.
 323. [Samouczek i wskazówki [tutorial_mainui_01_selection_page_13_title_01] — tekst] 대기 해제
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_01_selection_page_13_title_01].content
    limit: do 120 znaków
@@ -1625,14 +1570,7 @@ Wykorzystaj to, aby strategicznie zaplanować kolejność rozstawienia.
    limit: do 580 znaków
    tokeny: zachowaj dokładnie: \n
    EN: In Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, the Backup unit next in the Deployment order will replace them.\nThis is called <Substitution>.\n\nWhen a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.\n\nWhen a Backup unit is substituted in, its Combat Passive will activate instead of its Support Passive.
-   PL: W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.
-
-Gdy uczestnik polegnie w walce, zastępuje go rezerwowy o najniższym numerze w kolejności rozstawienia.
-Nazywa się to „Wejściem Rezerwy”.
-
-Pasywka bojowa poległej Tożsamości przełącza się na pasywkę wsparcia.
-
-Pasywka wsparcia wchodzącej Tożsamości rezerwowej przełącza się na pasywkę bojową.
+   PL: W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.\n\nGdy uczestnik polegnie w walce, zastępuje go rezerwowy o najniższym numerze w kolejności rozstawienia.\nNazywa się to „Wejściem Rezerwy”.\n\nPasywka bojowa poległej Tożsamości przełącza się na pasywkę wsparcia.\n\nPasywka wsparcia wchodzącej Tożsamości rezerwowej przełącza się na pasywkę bojową.
 325. [Samouczek i wskazówki [tutorial_mainui_01_selection_page_14_title_01] — tekst] 적 현황 표기 UI
    źródło: TutorialMainUIText.json :: dataList[id=tutorial_mainui_01_selection_page_14_title_01].content
    limit: do 120 znaków
@@ -1643,9 +1581,7 @@ Pasywka wsparcia wchodzącej Tożsamości rezerwowej przełącza się na pasywk�
    limit: do 320 znaków
    tokeny: zachowaj dokładnie: \n
    EN: In Chain Battles, the indicator that shows the number of Waves shows total number of enemies and the number of defeated enemies instead.\n\nHowever, this indicator does not take into account the extra enemies that are summoned due to certain conditions.
-   PL: W Walce Seryjnej w miejscu dotychczasowego wskaźnika fal (WAVE) wyświetlana jest łączna liczba wrogów w walce oraz liczba pokonanych wrogów.
-
-Dodatkowi wrogowie przyzywani w trakcie walki po spełnieniu określonych warunków nie są jednak uwzględniani na tym wskaźniku.
+   PL: W Walce Seryjnej w miejscu dotychczasowego wskaźnika fal (WAVE) wyświetlana jest łączna liczba wrogów w walce oraz liczba pokonanych wrogów.\n\nDodatkowi wrogowie przyzywani w trakcie walki po spełnieniu określonych warunków nie są jednak uwzględniani na tym wskaźniku.
 327. [Samouczek i wskazówki [TutoEvent5501_P1_T1] — tekst] 이벤트 개방
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5501_P1_T1].content
    (powtórzenie elementu 228 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1662,11 +1598,7 @@ Dodatkowi wrogowie przyzywani w trakcie walki po spełnieniu określonych warunk
    limit: do 440 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of Miracle in District 20 BokGak Event is shown here.\n\nDuring the event, you can earn [Trinkets Sack] by clearing Event Stages. You can also earn [Trinkets Sack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Trinkets Sack] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Cud w Dystrykcie 20 BokGak.
-
-W trakcie wydarzenia ukończenie etapów Cudu w Dystrykcie 20, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Worki Ozdób].
-
-※ [Worków Ozdób] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Cud w Dystrykcie 20 BokGak.\n\nW trakcie wydarzenia ukończenie etapów Cudu w Dystrykcie 20, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Worki Ozdób].\n\n※ [Worków Ozdób] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 331. [Samouczek i wskazówki [TutoEvent5501_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5501_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1675,9 +1607,7 @@ W trakcie wydarzenia ukończenie etapów Cudu w Dystrykcie 20, Lustrzanych Loch�
    limit: do 300 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Miracle in District 20 BokGak Event consists of 13 stages, including story stages.\n\nSaid stages also offer batches of [Trinkets Sack] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Stage)
-   PL: Wydarzenie Cud w Dystrykcie 20 BokGak obejmuje łącznie 13 etapów wraz z fabularnymi.
-
-Walki wydarzenia zapewniają oprócz zwykłych nagród także [Worki Ozdób] za pierwsze ukończenie każdego etapu (1 raz na walkę).
+   PL: Wydarzenie Cud w Dystrykcie 20 BokGak obejmuje łącznie 13 etapów wraz z fabularnymi.\n\nWalki wydarzenia zapewniają oprócz zwykłych nagród także [Worki Ozdób] za pierwsze ukończenie każdego etapu (1 raz na walkę).
 333. [Samouczek i wskazówki [TutoEvent5501_P4_T1] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5501_P4_T1].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1714,9 +1644,7 @@ Walki wydarzenia zapewniają oprócz zwykłych nagród także [Worki Ozdób] za 
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: There is a small chance to obtain a [Huge Trinkets Sack] upon clearing an Encounter.\n\n[Huge Trinkets Sacks] are automatically converted to 20 [Trinkets Sack].
-   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Wielkiego Worka Ozdób].
-
-Zdobyty [Wielki Worek Ozdób] jest automatycznie zamieniany na 20 [Worków Ozdób].
+   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Wielkiego Worka Ozdób].\n\nZdobyty [Wielki Worek Ozdób] jest automatycznie zamieniany na 20 [Worków Ozdób].
 341. [Samouczek i wskazówki [TutoEvent5501_P8_T1] — tekst] Hard 난이도
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5501_P8_T1].content
    limit: do 120 znaków
@@ -1763,9 +1691,7 @@ Zdobyty [Wielki Worek Ozdób] jest automatycznie zamieniany na 20 [Worków Ozdó
    limit: do 290 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of LCB Regular Check-up event is shown here. During the event, you can earn [Amassed Data] by clearing Stages and Dungeons in the event and Main Story.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations.
-   PL: Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB. W trakcie wydarzenia ukończenie etapów wydarzenia, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Akta Informacyjne].
-
-※ [Akt Informacyjnych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB. W trakcie wydarzenia ukończenie etapów wydarzenia, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Akta Informacyjne].\n\n※ [Akt Informacyjnych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 351. [Samouczek i wskazówki [TutoEvent7501_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent7501_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1774,8 +1700,7 @@ Zdobyty [Wielki Worek Ozdób] jest automatycznie zamieniany na 20 [Worków Ozdó
    limit: do 230 znaków
    tokeny: zachowaj dokładnie: \n
    EN: LCB Regular Check-up event consists of 13 stages, including story stages, and a single dungeon.\n\nEvent Encounters also offer batches of [Amassed Data] as a first-time Clear bonus.
-   PL: Okresowe Badania LCB obejmują łącznie 13 etapów (wraz z fabularnymi) oraz 1 loch.
-Walki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończenie (1 raz).
+   PL: Okresowe Badania LCB obejmują łącznie 13 etapów (wraz z fabularnymi) oraz 1 loch.\nWalki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończenie (1 raz).
 353. [Samouczek i wskazówki [TutoEvent7501_P3_D2] — tekst] LCB 정기검진 스테이지에서는 주요 이야기의 스테이지보다 훨씬 많은 [정보서류]를 획득할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent7501_P3_D2].content
    limit: do 150 znaków
@@ -1850,9 +1775,7 @@ Walki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończen
    limit: do 470 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of Yield My Flesh to Claim Their Bones BokGak Event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zakrwawione Pochwy].
-
-※ [Zakrwawionych Pochew] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zakrwawione Pochwy].\n\n※ [Zakrwawionych Pochew] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 371. [Samouczek i wskazówki [TutoEvent5502_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5502_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1861,8 +1784,7 @@ Walki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończen
    limit: do 340 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Yield My Flesh to Claim Their Bones BokGak Event consists of 11 stages, including story stages, and a Dungeon.\n\nSaid stages also offer batches of [Bloodied Scabbard] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Stage)
-   PL: Wydarzenie Oddam Ciało, by Złamać Ich Kości BokGak obejmuje łącznie 11 etapów (wraz z fabularnymi) oraz 1 loch.
-Walki wydarzenia zapewniają oprócz zwykłych nagród także [Zakrwawione Pochwy] za pierwsze ukończenie każdego etapu (1 raz na walkę).
+   PL: Wydarzenie Oddam Ciało, by Złamać Ich Kości BokGak obejmuje łącznie 11 etapów (wraz z fabularnymi) oraz 1 loch.\nWalki wydarzenia zapewniają oprócz zwykłych nagród także [Zakrwawione Pochwy] za pierwsze ukończenie każdego etapu (1 raz na walkę).
 373. [Samouczek i wskazówki [TutoEvent5502_P4_T1] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5502_P4_T1].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1895,8 +1817,7 @@ Walki wydarzenia zapewniają oprócz zwykłych nagród także [Zakrwawione Pochw
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Rarely, you may obtain [Resentful Scabbard] from clearing Encounters.\n\n[Resentful Scabbard] is automatically converted to 20 [Bloodied Scabbard] upon acquisition.
-   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].
-Zdobyta [Przepełniona Żalem Pochwa] zamienia się automatycznie na 20 [Zakrwawionych Pochew].
+   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].\nZdobyta [Przepełniona Żalem Pochwa] zamienia się automatycznie na 20 [Zakrwawionych Pochew].
 381. [Samouczek i wskazówki [TutoEvent5502_P8_T1] — tekst] Hard 난이도
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent5502_P8_T1].content
    (powtórzenie elementu 341 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -1972,9 +1893,7 @@ Zdobyta [Przepełniona Żalem Pochwa] zamienia się automatycznie na 20 [Zakrwaw
    limit: do 240 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Refraction Railway Line 5 uses the 'Chain Battle' system.\n\nIn Chain Battles, when a Deployed unit is defeated, the Backup units will fill their spots in their own Deployment orders.
-   PL: Linia 5 rozgrywana jest w trybie Walki Seryjnej.
-
-W Walce Seryjnej po śmierci uczestnika podstawowego jego miejsce zajmują rezerwowi zgodnie z ustaloną kolejnością.
+   PL: Linia 5 rozgrywana jest w trybie Walki Seryjnej.\n\nW Walce Seryjnej po śmierci uczestnika podstawowego jego miejsce zajmują rezerwowi zgodnie z ustaloną kolejnością.
 400. [Samouczek i wskazówki [TutoRailway5_P5_D2] — tekst] 6명의 출격 인원과 6명의 대기 인원을 전부 설정하여야 입장할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway5_P5_D2].content
    limit: do 160 znaków
@@ -1990,8 +1909,7 @@ W Walce Seryjnej po śmierci uczestnika podstawowego jego miejsce zajmują rezer
    limit: do 180 znaków
    tokeny: zachowaj dokładnie: \n
    EN: In Line 5, you cannot use the same team to challenge both Section 1 and Section 2.\nEach Section needs a different team of Identities.
-   PL: Na Linii 5 nie możesz użyć tych samych Tożsamości na Odcinku 1 oraz Odcinku 2.
-Dla każdego z tych odcinków należy wyznaczyć osobną drużynę Tożsamości.
+   PL: Na Linii 5 nie możesz użyć tych samych Tożsamości na Odcinku 1 oraz Odcinku 2.\nDla każdego z tych odcinków należy wyznaczyć osobną drużynę Tożsamości.
 403. [Samouczek i wskazówki [TutoRailway5_P6_D2] — tekst] 3구간에서는 인격 제한이 적용되지 않으며, 자유롭게 인격을 선택하여 편성할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway5_P6_D2].content
    limit: do 160 znaków
@@ -2011,9 +1929,7 @@ Dla każdego z tych odcinków należy wyznaczyć osobną drużynę Tożsamości.
    limit: do 240 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Backup units receive Starting SP buffs, and Backup units further back in the Deployment order receive greater Starting SP buffs.\n\nMinus Coin Identities receive negative Starting SP buffs.
-   PL: Rezerwowi otrzymują premię początkowych PP — im dalsze miejsce w kolejności rozstawienia, tym wyższa wartość początkowych PP.
-
-W przypadku Tożsamości z Monetami Ujemnymi premia początkowych PP ma wartość ujemną.
+   PL: Rezerwowi otrzymują premię początkowych PP — im dalsze miejsce w kolejności rozstawienia, tym wyższa wartość początkowych PP.\n\nW przypadku Tożsamości z Monetami Ujemnymi premia początkowych PP ma wartość ujemną.
 408. [Samouczek i wskazówki [TutoRailway5_P8_T1] — tekst] 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway5_P8_T1].content
    limit: do 120 znaków
@@ -2024,8 +1940,7 @@ W przypadku Tożsamości z Monetami Ujemnymi premia początkowych PP ma wartoś�
    limit: do 350 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Every battle in the Refraction Railway will allow you to directly match ally skills against enemy skills.\nThe highest Turn Count that can be recorded in each Section is 100 Turns. If your Turn Count goes beyond 100 Turns in a single Stage, the Encounter will end in defeat.
-   PL: Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.
-Maksymalna zapisywana liczba tur na odcinek wynosi 100 — przekroczenie 100 tur na jednym etapie oznacza porażkę.
+   PL: Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.\nMaksymalna zapisywana liczba tur na odcinek wynosi 100 — przekroczenie 100 tur na jednym etapie oznacza porażkę.
 410. [Samouczek i wskazówki [TutoRailway5_P9_T1] — tekst] 도감
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway5_P9_T1].content
    (powtórzenie elementu 180 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2121,8 +2036,7 @@ Maksymalna zapisywana liczba tur na odcinek wynosi 100 — przekroczenie 100 tur
    limit: do 390 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Once you obtain a Banner, the Turn Count of your best record for each Section and total turns will be displayed on it.\nMaking a new best record in total turn count will update the Turn Count on your banner. If there are records with the same number of total turns, it will display the more recent record.
-   PL: Po zdobyciu baneru widnieje na nim łączna liczba tur z twojego najlepszego rekordu.
-Zmniejszenie łącznej liczby tur zaktualizuje zapis na banerze. W razie równej łącznej liczby tur zapisywany jest najnowszy rekord.
+   PL: Po zdobyciu baneru widnieje na nim łączna liczba tur z twojego najlepszego rekordu.\nZmniejszenie łącznej liczby tur zaktualizuje zapis na banerze. W razie równej łącznej liczby tur zapisywany jest najnowszy rekord.
 433. [Samouczek i wskazówki [TutoRailway5_P19_T1] — tekst] 분실물 보관소
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway5_P19_T1].content
    (powtórzenie elementu 202 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2164,9 +2078,7 @@ Zmniejszenie łącznej liczby tur zaktualizuje zapis na banerze. W razie równej
    limit: do 420 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of Nocturnal Sweeping event is shown here. During the event, you can earn [Sweeper Fuel Cylinder] by clearing Stages and Dungeons in the event and Main Story, or the Mirror Dungeon\n\n※ However, [Sweeper Fuel Cylinder] cannot be obtained in Luxcavations and in Mirror Dungeon Parallel Superposition Mode (F6 or higher).
-   PL: Tutaj widnieje czas trwania wydarzenia Nocne Sprzątanie. W trakcie wydarzenia ukończenie etapów Nocnego Sprzątania, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Kanistry Płynnego Paliwa Sprzątacza].
-
-※ [Kanistrów Płynnego Paliwa Sprzątacza] nie można zdobyć w Lochach Wydobywczych, Kolei Załamania ani w Trybie Superpozycji Równoległej Lustrzanych Lochów (piętro 6+).
+   PL: Tutaj widnieje czas trwania wydarzenia Nocne Sprzątanie. W trakcie wydarzenia ukończenie etapów Nocnego Sprzątania, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Kanistry Płynnego Paliwa Sprzątacza].\n\n※ [Kanistrów Płynnego Paliwa Sprzątacza] nie można zdobyć w Lochach Wydobywczych, Kolei Załamania ani w Trybie Superpozycji Równoległej Lustrzanych Lochów (piętro 6+).
 444. [Samouczek i wskazówki [TutoEvent7502_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent7502_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2175,8 +2087,7 @@ Zmniejszenie łącznej liczby tur zaktualizuje zapis na banerze. W razie równej
    limit: do 200 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Nocturnal Sweeping consists of 12 Stages, including story Stages.\nSaid Stages also offer batches of [Sweeper Fuel Cylinder] as a first-time EX Clear bonus.
-   PL: Nocne Sprzątanie obejmuje łącznie 12 etapów wraz z fabularnymi.
-Walki wydarzenia zapewniają dodatkowo [Kanistry Płynnego Paliwa Sprzątacza] za pierwsze ukończenie (1 raz).
+   PL: Nocne Sprzątanie obejmuje łącznie 12 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Kanistry Płynnego Paliwa Sprzątacza] za pierwsze ukończenie (1 raz).
 446. [Samouczek i wskazówki [TutoEvent7502_P3_D2] — tekst] 심야청소 스테이지에서는 주요 이야기의 스테이지보다 훨씬 많은 [청소부 액체 연료통]을 획득할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent7502_P3_D2].content
    limit: do 150 znaków
@@ -2262,8 +2173,7 @@ Walki wydarzenia zapewniają dodatkowo [Kanistry Płynnego Paliwa Sprzątacza] z
    limit: do 280 znaków
    tokeny: zachowaj dokładnie: \n
    EN: In normal Team loadout menus, clicking anywhere on each Identity's portrait loads into the "Edit Team" menu.\nHowever, in battle encounter Team menus, the Identity's portrait will be divided into the following two areas.
-   PL: W zwykłym oknie składu cały obszar portretu Tożsamości służy do edycji drużyny,
-natomiast w oknie przygotowania do walki portret dzieli się na dwie poniższe części.
+   PL: W zwykłym oknie składu cały obszar portretu Tożsamości służy do edycji drużyny,\nnatomiast w oknie przygotowania do walki portret dzieli się na dwie poniższe części.
 465. [Samouczek i wskazówki [TutoFormation_P2_D2] — tekst] 초상화 상단 영역을 선택할 경우에는 앞에서 설명한 편성 편집 기능과 동일하게 동작하여, 해당 수감자의 인격, E.G.O 목록을 확인하고 교체할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_D2].content
    limit: do 200 znaków
@@ -2284,8 +2194,7 @@ natomiast w oknie przygotowania do walki portret dzieli się na dwie poniższe c
    limit: do 240 znaków
    tokeny: zachowaj dokładnie: \n
    EN: You will not be able to edit your Team in certain battle encounters, however.\nIn those cases, selecting anywhere on a Sinner's Identity portrait will deploy that Identity to battle.
-   PL: W niektórych trybach bojowych, w których nie można zmieniać składu,
-cały obszar portretu Tożsamości służy do wyboru uczestników walki.
+   PL: W niektórych trybach bojowych, w których nie można zmieniać składu,\ncały obszar portretu Tożsamości służy do wyboru uczestników walki.
 469. [Samouczek i wskazówki [TutoFormation_P2_T2] — tekst] 대기 인원 편성
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_T2].content
    (powtórzenie elementu 321 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2299,27 +2208,19 @@ cały obszar portretu Tożsamości służy do wyboru uczestników walki.
    limit: do 440 znaków
    tokeny: zachowaj dokładnie: \n
    EN: However, in Chain Battles, you can deploy 'Backup Units' in addition to participating units.\n\nWhen a unit is defeated mid-battle, a Backup Unit will substitute in to fill their place.\n\nIn Chain Battles, the battle will not end in defeat until all units selected for the battle encounter(both participating units and backup units) are defeated.
-   PL: Jeśli jednak jest to Walka Seryjna, oprócz uczestników podstawowych możesz wybrać także „jednostki rezerwowe”.
-
-Gdy uczestnik podstawowy zginie w trakcie walki, jego miejsce zajmuje rezerwowy.
-
-W Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednostki (zarówno podstawowe, jak i rezerwowe).
+   PL: Jeśli jednak jest to Walka Seryjna, oprócz uczestników podstawowych możesz wybrać także „jednostki rezerwowe”.\n\nGdy uczestnik podstawowy zginie w trakcie walki, jego miejsce zajmuje rezerwowy.\n\nW Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednostki (zarówno podstawowe, jak i rezerwowe).
 472. [Samouczek i wskazówki [TutoFormation_P2_D8] — tekst] 전투 참가 인원이 사망하였을 때, 대기 인원은 편성 순서에 따라 등장합니다.\n\n대기 인원이 전투에 참여할 때 편성 순서에 따른 시작 정신력 값만큼 해당 캐릭터의 정신력이 회복됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_D8].content
    limit: do 340 znaków
    tokeny: zachowaj dokładnie: \n
    EN: When a participating unit is killed, Backup units will be substituted into the field in the order of their Deployment.\n\nWhen the Backup units substitute into the battle, they enter with bonus SP based on the starting SP values defined by their deployment order.
-   PL: Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają do walki zgodnie z kolejnością rozstawienia.
-
-Wchodzący rezerwowy odzyskuje PP w liczbie odpowiadającej premii początkowych PP wynikającej z jego kolejności rozstawienia.
+   PL: Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają do walki zgodnie z kolejnością rozstawienia.\n\nWchodzący rezerwowy odzyskuje PP w liczbie odpowiadającej premii początkowych PP wynikającej z jego kolejności rozstawienia.
 473. [Samouczek i wskazówki [TutoFormation_P2_D9] — tekst] 일부 연속 전투에서는 대기 인원이 전투에 참가할 때 부가적인 효과를 얻을 수 있습니다.\n\n이를 활용하여 전략적으로 편성 순서를 정하는 것이 전투에 유리합니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_D9].content
    limit: do 220 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Certain Chain Battles may give additional buffs for Backup units.\n\nPlease experiment with Deployment orders and strategize prior to entering Chain Battles to gain an edge.
-   PL: W niektórych Walkach Seryjnych wchodzący rezerwowi zyskują dodatkowe efekty.
-
-Warto wykorzystać to i strategicznie ustalić kolejność rozstawienia.
+   PL: W niektórych Walkach Seryjnych wchodzący rezerwowi zyskują dodatkowe efekty.\n\nWarto wykorzystać to i strategicznie ustalić kolejność rozstawienia.
 474. [Samouczek i wskazówki [TutoFormation_P2_T3] — tekst] 대기 해제
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_T3].content
    limit: do 120 znaków
@@ -2330,18 +2231,13 @@ Warto wykorzystać to i strategicznie ustalić kolejność rozstawienia.
    limit: do 350 znaków
    tokeny: zachowaj dokładnie: \n
    EN: In Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, a Backup Unit with the earliest Deployment order will replace them.\nThis is called <Substitution> or <Substitute>.
-   PL: W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.
-
-Gdy uczestnik zginie w walce, zastępuje go rezerwowy o najniższym numerze rozstawienia.
-Nazywa się to „Wejściem Rezerwy”.
+   PL: W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.\n\nGdy uczestnik zginie w walce, zastępuje go rezerwowy o najniższym numerze rozstawienia.\nNazywa się to „Wejściem Rezerwy”.
 476. [Samouczek i wskazówki [TutoFormation_P2_D11] — tekst] 사망한 인격의 전투 패시브는 서포트 패시브로 전환됩니다.\n\n대기 해제된 인격의 서포트 패시브는 전투 패시브로 전환됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_D11].content
    limit: do 260 znaków
    tokeny: zachowaj dokładnie: \n
    EN: When a Deployed unit is defeated, its Support Passive will activate instead of its Combat Passive.\n\nWhen a Backup unit Substitutes in, its Combat Passive will activate instead of its Support Passive.
-   PL: Pasywka bojowa poległej Tożsamości zamienia się w pasywkę wsparcia.
-
-Pasywka wsparcia wchodzącej Tożsamości rezerwowej zamienia się w pasywkę bojową.
+   PL: Pasywka bojowa poległej Tożsamości zamienia się w pasywkę wsparcia.\n\nPasywka wsparcia wchodzącej Tożsamości rezerwowej zamienia się w pasywkę bojową.
 477. [Samouczek i wskazówki [TutoFormation_P2_T4] — tekst] 적 현황
    źródło: TutorialMainUIText.json :: dataList[id=TutoFormation_P2_T4].content
    limit: do 120 znaków
@@ -2492,9 +2388,7 @@ Pasywka wsparcia wchodzącej Tożsamości rezerwowej zamienia się w pasywkę bo
    limit: do 150 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The selected Sinner’s Identities are shown here.\n\nYou can check their Rarity, Uptie Tier, Level, and Faction here.
-   PL: Wyświetla listę Tożsamości wybranego w składzie Grzesznika.
-
-Sprawdzisz tutaj rzadkość, stopień Synchronizacji, poziom oraz przynależność Tożsamości.
+   PL: Wyświetla listę Tożsamości wybranego w składzie Grzesznika.\n\nSprawdzisz tutaj rzadkość, stopień Synchronizacji, poziom oraz przynależność Tożsamości.
 507. [Samouczek i wskazówki [TutoIDList_P2_T1] — tekst] 수감자 선택
    źródło: TutorialMainUIText.json :: dataList[id=TutoIDList_P2_T1].content
    limit: do 120 znaków
@@ -2510,9 +2404,7 @@ Sprawdzisz tutaj rzadkość, stopień Synchronizacji, poziom oraz przynależnoś
    limit: do 160 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The Identities that are in your current Team will be visible.\n\nSelect a Sinner's portrait to view their list of Identities.
-   PL: Tożsamości wchodzące w skład bieżącej drużyny są tu odpowiednio oznaczone.
-
-Kliknij portret Grzesznika, aby wyświetlić listę jego Tożsamości.
+   PL: Tożsamości wchodzące w skład bieżącej drużyny są tu odpowiednio oznaczone.\n\nKliknij portret Grzesznika, aby wyświetlić listę jego Tożsamości.
 510. [Samouczek i wskazówki [TutoIDList_P2_D3] — tekst] 인격 목록 또는 E.G.O 목록으로 전환합니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoIDList_P2_D3].content
    limit: do 120 znaków
@@ -2543,9 +2435,7 @@ Kliknij portret Grzesznika, aby wyświetlić listę jego Tożsamości.
    limit: do 170 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The selected Sinner's E.G.O are shown here.\n\nYou can check their Rarity, Threadspinning Tier, their primary Affinity, and name here.
-   PL: Wyświetla listę E.G.O wybranego w składzie Grzesznika.
-
-Sprawdzisz tu klasę, stopień Splotu Nici, główny grzech oraz nazwę E.G.O.
+   PL: Wyświetla listę E.G.O wybranego w składzie Grzesznika.\n\nSprawdzisz tu klasę, stopień Splotu Nici, główny grzech oraz nazwę E.G.O.
 516. [Samouczek i wskazówki [TutoIDList_P5_D1] — tekst] 인격 목록과 동일하게, ALL 버튼을 선택하면 모든 수감자의 E.G.O 목록을 한 번에 확인할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoIDList_P5_D1].content
    limit: do 120 znaków
@@ -2637,8 +2527,7 @@ Sprawdzisz tu klasę, stopień Splotu Nici, główny grzech oraz nazwę E.G.O.
    limit: do 430 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of the Timekilling Time BokGak event is shown here.\n\nDuring the event, you can earn [Pocket Watch] by clearing Event Stages. You can also earn [Pocket Watch] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Pocket Watch] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].
-※ [Zegarków Kieszonkowych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].\n※ [Zegarków Kieszonkowych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 535. [Samouczek i wskazówki [TutoEvent6511_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent6511_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2713,8 +2602,7 @@ Sprawdzisz tu klasę, stopień Splotu Nici, główny grzech oraz nazwę E.G.O.
    limit: do 460 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of Spring Cultivation Event is shown here.\n\nDuring the event, you can earn [Intro to Zhi, Yong, Ren] by clearing Event Stages. You can also earn [Intro to Zhi, Yong, Ren] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Intro to Zhi, Yong, Ren] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Wiosenny Szlif. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Wprowadzenie do Zhi, Yong i Ren].
-※ [Wprowadzenia do Zhi, Yong i Ren] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Wiosenny Szlif. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Wprowadzenie do Zhi, Yong i Ren].\n※ [Wprowadzenia do Zhi, Yong i Ren] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 555. [Samouczek i wskazówki [TutoEvent8501_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8501_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2723,8 +2611,7 @@ Sprawdzisz tu klasę, stopień Splotu Nici, główny grzech oraz nazwę E.G.O.
    limit: do 260 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Spring Cultivation Event consists of 12 stages, including story stages.\nSaid stages also offer batches of [Intro to Zhi, Yong, Ren] as a first-time Clear bonus. (only for first-time clears of each Stage)
-   PL: Wydarzenie Wiosenny Szlif obejmuje łącznie 12 etapów wraz z fabularnymi.
-Walki wydarzenia zapewniają dodatkowo [Wprowadzenie do Zhi, Yong i Ren] za pierwsze ukończenie każdego etapu (1 raz na walkę).
+   PL: Wydarzenie Wiosenny Szlif obejmuje łącznie 12 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Wprowadzenie do Zhi, Yong i Ren] za pierwsze ukończenie każdego etapu (1 raz na walkę).
 557. [Samouczek i wskazówki [TutoEvent8501_P4_T1] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8501_P4_T1].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -2785,8 +2672,7 @@ Walki wydarzenia zapewniają dodatkowo [Wprowadzenie do Zhi, Yong i Ren] za pier
    limit: do 250 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Rarely, you may obtain [Definitely Not A Secret Scroll] from clearing Encounters.\n\n[Definitely Not A Secret Scroll] is automatically converted to 20 [Intro to Zhi, Yong, Ren] upon acquisition.
-   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Zdecydowanie Nie Tajnego Zwoju].
-Zdobyty [Zdecydowanie Nie Tajny Zwój] zamienia się automatycznie na 20 szt. [Wprowadzenia do Zhi, Yong i Ren].
+   PL: Po zwycięstwie w walce masz niewielką szansę na zdobycie [Zdecydowanie Nie Tajnego Zwoju].\nZdobyty [Zdecydowanie Nie Tajny Zwój] zamienia się automatycznie na 20 szt. [Wprowadzenia do Zhi, Yong i Ren].
 571. [Samouczek i wskazówki [TutoEvent8501_P11_D1] — tekst] 이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 절차탁춘 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8501_P11_D1].content
    limit: do 250 znaków
@@ -2812,8 +2698,7 @@ Zdobyty [Zdecydowanie Nie Tajny Zwój] zamienia się automatycznie na 20 szt. [W
    limit: do 180 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Aside from days with Fixed Classes, you can choose up to 3 Classes per day. The variety of selectable Classes grows as the days go by.
-   PL: Poza dniami ze stałymi zajęciami możesz wybrać na dany dzień łącznie 3 zajęcia (po 1 wybranego rodzaju).
-Pula dostępnych rodzajów zajęć rośnie wraz z kolejnymi dniami.
+   PL: Poza dniami ze stałymi zajęciami możesz wybrać na dany dzień łącznie 3 zajęcia (po 1 wybranego rodzaju).\nPula dostępnych rodzajów zajęć rośnie wraz z kolejnymi dniami.
 576. [Samouczek i wskazówki [TutoMinigame8501_P2_T2] — tekst] 수업 효과
    źródło: TutorialMainUIText.json :: dataList[id=TutoMinigame8501_P2_T2].content
    limit: do 120 znaków
@@ -2834,8 +2719,7 @@ Pula dostępnych rodzajów zajęć rośnie wraz z kolejnymi dniami.
    limit: do 320 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Classes can either end in success or failure. A successful class will greatly increase the amount of Stat gained, but a failed class will greatly reduce the amount of Stat gained.\nHigher Morale results in higher chance to have a successful class.
-   PL: Zajęcia mogą zakończyć się sukcesem lub porażką. Sukces znacznie zwiększa przyrost statystyk, natomiast porażka znacznie go zmniejsza.
-Im wyższa kondycja, tym większa szansa na sukces.
+   PL: Zajęcia mogą zakończyć się sukcesem lub porażką. Sukces znacznie zwiększa przyrost statystyk, natomiast porażka znacznie go zmniejsza.\nIm wyższa kondycja, tym większa szansa na sukces.
 580. [Samouczek i wskazówki [TutoMinigame8501_P4_T1] — tekst] 콤보
    źródło: TutorialMainUIText.json :: dataList[id=TutoMinigame8501_P4_T1].content
    limit: do 120 znaków
@@ -2896,8 +2780,7 @@ Im wyższa kondycja, tym większa szansa na sukces.
    limit: do 300 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Taking a Class gives "EXP". Once a Class EXP has been maxed out, the Class will be upgraded to the next level.\nTaking higher-level Classes will yield more Stat increases. Please note that Classes cannot be upgraded beyond "Master".
-   PL: Każde odbyte zajęcia zapewniają im punkty doświadczenia. Po zapełnieniu paska PD zajęcia awansują na kolejny poziom.
-Wyższy poziom zajęć daje większy przyrost statystyk. Na poziomie mistrzowskim nie można ich już dalej ulepszać.
+   PL: Każde odbyte zajęcia zapewniają im punkty doświadczenia. Po zapełnieniu paska PD zajęcia awansują na kolejny poziom.\nWyższy poziom zajęć daje większy przyrost statystyk. Na poziomie mistrzowskim nie można ich już dalej ulepszać.
 592. [Samouczek i wskazówki [TutoMinigame8501_P9_T1] — tekst] 전투 능력 강화 방법
    źródło: TutorialMainUIText.json :: dataList[id=TutoMinigame8501_P9_T1].content
    limit: do 120 znaków
@@ -2938,8 +2821,7 @@ Wyższy poziom zajęć daje większy przyrost statystyk. Na poziomie mistrzowski
    limit: do 240 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Skill Slots are chained automatically. Press the "Gong-shaped button" to begin the combat phase.\nOnly by winning the combat Encounter can she progress to the next day, or the next Class.
-   PL: Sloty umiejętności łączą się automatycznie — naciśnij przycisk w kształcie gongu, aby rozpocząć walkę.
-Musisz zwyciężyć, aby przejść do następnego dnia lub kolejnych zajęć.
+   PL: Sloty umiejętności łączą się automatycznie — naciśnij przycisk w kształcie gongu, aby rozpocząć walkę.\nMusisz zwyciężyć, aby przejść do następnego dnia lub kolejnych zajęć.
 600. [Samouczek i wskazówki [TutoEvent8502_Title] — tekst] 선의의 순례
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_Title].content
    limit: do 120 znaków
@@ -2966,8 +2848,7 @@ Musisz zwyciężyć, aby przejść do następnego dnia lub kolejnych zajęć.
    limit: do 450 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of the Pilgrimage of Compassion event is shown here.\n\nDuring the event, you can earn [Sea Terror Sample] by clearing Event Stages. You can also earn [Sea Terror Sample] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Sea Terror Sample] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Pielgrzymka Współczucia. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Próbki Morskiego Koszmaru].
-※ [Próbek Morskiego Koszmaru] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Pielgrzymka Współczucia. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Próbki Morskiego Koszmaru].\n※ [Próbek Morskiego Koszmaru] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 606. [Samouczek i wskazówki [TutoEvent8502_P2_D2] — tekst] 선의의 순례는 이벤트 기간에만 플레이할 수 있는 한정 컨텐츠이며, 이벤트 기간이 종료되면 관련된 스토리 감상 및 스테이지 진행, 전투를 플레이 하실 수 없습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_P2_D2].content
    limit: do 290 znaków
@@ -2981,8 +2862,7 @@ Musisz zwyciężyć, aby przejść do następnego dnia lub kolejnych zajęć.
    limit: do 260 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Pilgrimage of Compassion Event consists of 14 stages, including story stages.\nSaid stages also offer batches of [Sea Terror Sample] as a first-time Clear bonus. (only for first-time clears of each Stage)
-   PL: Wydarzenie Pielgrzymka Współczucia obejmuje łącznie 14 etapów wraz z fabularnymi.
-Walki wydarzenia zapewniają dodatkowo [Próbki Morskiego Koszmaru] za pierwsze ukończenie każdego etapu (1 raz na walkę).
+   PL: Wydarzenie Pielgrzymka Współczucia obejmuje łącznie 14 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Próbki Morskiego Koszmaru] za pierwsze ukończenie każdego etapu (1 raz na walkę).
 609. [Samouczek i wskazówki [TutoEvent8502_P4_T1] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_P4_T1].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3027,8 +2907,7 @@ Walki wydarzenia zapewniają dodatkowo [Próbki Morskiego Koszmaru] za pierwsze 
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Please take note that Chapter Progression & Extra Conditions Fulfilled Rewards can be obtained only during the Event Period(2025/9/25 12:00 ~ 10/23 06:00 (KST)).
-   PL: Pamiętaj, że nagrody postępu rozdziału oraz postępu ukończeń EX można odebrać wyłącznie podczas trwania wydarzenia (2025/9/25 12:00 ~ 10/23 06:00 (KST)).
-Prosimy mieć to na uwadze.
+   PL: Pamiętaj, że nagrody postępu rozdziału oraz postępu ukończeń EX można odebrać wyłącznie podczas trwania wydarzenia (2025/9/25 12:00 ~ 10/23 06:00 (KST)).\nProsimy mieć to na uwadze.
 619. [Samouczek i wskazówki [TutoEvent8502_P9_T1] — tekst] 이벤트 스테이지
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_P9_T1].content
    (powtórzenie elementu 142 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3037,8 +2916,7 @@ Prosimy mieć to na uwadze.
    limit: do 150 znaków
    tokeny: zachowaj dokładnie: \n
    EN: A Dungeon awaits at the end of the Pilgrimage of Compassion event. Entering this Dungeon costs Enkephalin Modules.
-   PL: Ostatnia walka Pielgrzymki Współczucia to loch,
-którego wejście zużywa Moduły Enkefaliny.
+   PL: Ostatnia walka Pielgrzymki Współczucia to loch,\nktórego wejście zużywa Moduły Enkefaliny.
 621. [Samouczek i wskazówki [TutoEvent8502_P10_T1] — tekst] Hard 난이도
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_P10_T1].content
    (powtórzenie elementu 341 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3047,8 +2925,7 @@ którego wejście zużywa Moduły Enkefaliny.
    limit: do 200 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Pilgrimage of Compassion Hard Difficulty will be unlocked during the Event period. The Hard Difficulty is unlocked upon clearing the Main Story Stage 0-4.
-   PL: W trakcie wydarzenia dostępny jest poziom Hard Pielgrzymki Współczucia.
-Odblokowuje się on po ukończeniu etapu 0-4 Głównej Opowieści.
+   PL: W trakcie wydarzenia dostępny jest poziom Hard Pielgrzymki Współczucia.\nOdblokowuje się on po ukończeniu etapu 0-4 Głównej Opowieści.
 623. [Samouczek i wskazówki [TutoEvent8502_P10_D2] — tekst] Hard 난이도에서는 Normal 난이도보다 더 많은 이벤트 재화를 얻을 수 있습니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_P10_D2].content
    (powtórzenie elementu 343 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3060,9 +2937,7 @@ Odblokowuje się on po ukończeniu etapu 0-4 Głównej Opowieści.
    limit: do 480 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Clearing a Hard difficulty stage automatically clears the Normal difficulty Stage as well. Clearing the Normal difficulty Stage by clearing the Hard difficulty Stage will yield Normal Difficulty Extra Conditions Fulfilled Reward(Lunacy) and first-time event currency rewards as well. \n※ However, this does not apply to Account EXP, Identity EXP, or repeat event currency rewards.
-   PL: Ukończenie etapu na poziomie Hard automatycznie zalicza także poziom Normal tego etapu.
-Otrzymasz wówczas jednocześnie nagrodę EX poziomu Normal (Szaleństwo) oraz nagrodę waluty wydarzenia za pierwsze ukończenie.
-※ Nie dotyczy to jednak PD konta, PD Tożsamości ani powtarzalnych nagród waluty wydarzenia.
+   PL: Ukończenie etapu na poziomie Hard automatycznie zalicza także poziom Normal tego etapu.\nOtrzymasz wówczas jednocześnie nagrodę EX poziomu Normal (Szaleństwo) oraz nagrodę waluty wydarzenia za pierwsze ukończenie.\n※ Nie dotyczy to jednak PD konta, PD Tożsamości ani powtarzalnych nagród waluty wydarzenia.
 626. [Samouczek i wskazówki [TutoEvent8502_P11_T1] — tekst] 빛나는 시테러 표본
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent8502_P11_T1].content
    limit: do 120 znaków
@@ -3104,8 +2979,7 @@ Otrzymasz wówczas jednocześnie nagrodę EX poziomu Normal (Szaleństwo) oraz n
    limit: do 480 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of the Murder on the WARP Express BokGak event is shown here.\n\nDuring the event, you can earn [Civilian Recov. Pack] by clearing Event Stages. You can also earn [Civilian Recov. Pack] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Civilian Recov. Pack] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Morderstwo w Ekspresie WARP BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Pakiety Rekonstrukcyjne Pasażera].
-※ [Pakietów Rekonstrukcyjnych Pasażera] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Morderstwo w Ekspresie WARP BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Pakiety Rekonstrukcyjne Pasażera].\n※ [Pakietów Rekonstrukcyjnych Pasażera] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 635. [Samouczek i wskazówki [TutoEvent6512_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent6512_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3114,8 +2988,7 @@ Otrzymasz wówczas jednocześnie nagrodę EX poziomu Normal (Szaleństwo) oraz n
    limit: do 320 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Murder on the WARP Express BokGak Event consists of 15 stages, including story stages.\n\nSaid stages also offer batches of [Civilian Recov. Pack] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Stage)
-   PL: Wydarzenie Morderstwo w Ekspresie WARP BokGak obejmuje łącznie 15 etapów wraz z fabularnymi.
-Walki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pierwsze ukończenie każdego etapu (1 raz na walkę).
+   PL: Wydarzenie Morderstwo w Ekspresie WARP BokGak obejmuje łącznie 15 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pierwsze ukończenie każdego etapu (1 raz na walkę).
 637. [Samouczek i wskazówki [TutoEvent6512_P4_T1] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent6512_P4_T1].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3215,8 +3088,7 @@ Walki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pi
    limit: do 140 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Below each Station, you can view the rewards for clearing that Station. Claim them at the Lost & Found.
-   PL: Poniżej widnieją nagrody za ukończenie danej stacji
-do odebrania w Biurze Rzeczy Znalezionych.
+   PL: Poniżej widnieją nagrody za ukończenie danej stacji\ndo odebrania w Biurze Rzeczy Znalezionych.
 660. [Samouczek i wskazówki [TutoRailway1BokGak_P4_T1] — tekst] 도감
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway1BokGak_P4_T1].content
    (powtórzenie elementu 180 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3256,15 +3128,13 @@ do odebrania w Biurze Rzeczy Znalezionych.
    limit: do 170 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Backup Units receive Starting SP buffs, and Backup Units further back in the Deployment order receive greater Starting SP buffs.
-   PL: Rezerwowi zyskują premię początkowych PP —
-im dalsze miejsce w rozstawieniu, tym wyższe początkowe PP.
+   PL: Rezerwowi zyskują premię początkowych PP —\nim dalsze miejsce w rozstawieniu, tym wyższe początkowe PP.
 669. [Samouczek i wskazówki [TutoRailway1BokGak_P5_D5] — tekst] 빼기 코인을 사용하는 인격의 경우에는 시작 정신력 버프가 음수값으로 적용됩니다.
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway1BokGak_P5_D5].content
    limit: do 120 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Minus Coin Identities receive negative Starting SP buffs.
-   PL: U Tożsamości z Monetami Ujemnymi
-premia początkowych PP ma wartość ujemną.
+   PL: U Tożsamości z Monetami Ujemnymi\npremia początkowych PP ma wartość ujemną.
 670. [Samouczek i wskazówki [TutoRailway1BokGak_P6_T1] — tekst] 전투 편성 - 연속 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoRailway1BokGak_P6_T1].content
    (powtórzenie elementu 264 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3476,11 +3346,7 @@ premia początkowych PP ma wartość ujemną.
    limit: do 440 znaków
    tokeny: zachowaj dokładnie: \n
    EN: The duration of the LCB Regular Check-up BokGak event is shown here.\n\nDuring the event, you can earn [Amassed Data] by clearing Event Stages. You can also earn [Amassed Data] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations and Refraction Railways.
-   PL: Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB BokGak.
-
-W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Akta Informacyjne].
-
-※ [Akt Informacyjnych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
+   PL: Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB BokGak.\n\nW trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Akta Informacyjne].\n\n※ [Akt Informacyjnych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.
 719. [Samouczek i wskazówki [TutoEvent7512_P3_T1] — tekst] 이벤트 전투
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent7512_P3_T1].content
    (powtórzenie elementu 133 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
@@ -3489,9 +3355,7 @@ W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pie
    limit: do 230 znaków
    tokeny: zachowaj dokładnie: \n
    EN: LCB Regular Check-up BokGak consists of 12 stages, including story stages, and a single dungeon. Event Encounters also offer batches of [Amassed Data] as a first-time Clear bonus.
-   PL: Wydarzenie Okresowe Badania LCB BokGak obejmuje łącznie 12 etapów (wraz z fabularnymi) oraz 1 loch.
-
-Walki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończenie każdego etapu (1 raz na walkę).
+   PL: Wydarzenie Okresowe Badania LCB BokGak obejmuje łącznie 12 etapów (wraz z fabularnymi) oraz 1 loch.\n\nWalki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończenie każdego etapu (1 raz na walkę).
 721. [Samouczek i wskazówki [TutoEvent7512_P4_T1] — tekst] 이벤트 특화 대상
    źródło: TutorialMainUIText.json :: dataList[id=TutoEvent7512_P4_T1].content
    (powtórzenie elementu 136 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)

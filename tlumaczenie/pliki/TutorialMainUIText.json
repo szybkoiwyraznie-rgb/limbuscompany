@@ -1,5 +1,233 @@
 {
   "entries": {
+    "dataList[id=Jukebox_P1_D1].content": {
+      "pl": "W Szafie grającej posłuchasz posiadanych utworów BGM.",
+      "kr_sha256": "1391cc0733f33691e6cc912bbef91fb021b6eacbd6e6a506bfcad7d5697d22af",
+      "en_sha256": "fcb9e77fe602af039521b3489611de31382fe7983fa8ccc1156499f484a86349",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P1_D2].content": {
+      "pl": "Utwory BGM zdobędziesz na różne sposoby: za kończenie etapów fabularnych, z nagród wydarzeń, w Automacie i nie tylko.",
+      "kr_sha256": "13f8a5fe808c398dbe7baa6ccaf560ff0cba0200256732f48e820b08e9086623",
+      "en_sha256": "9c94e52da14220d56d0edb081b5a1044502512084011d12b2bc4cd5d9a481549",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P1_T1].content": {
+      "pl": "Szafa grająca",
+      "kr_sha256": "8b605217811309f6b376a4c2dc61dfaf0c96eb8de4147d811035e707a503ef50",
+      "en_sha256": "b2ced5c6bc6abca1dc2093c84813304ebbdb2bed6163f2d5c6e45a2e7343168c",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P2_D1].content": {
+      "pl": "Przycisk powtarzania odtwarza utwory po kolei w pętli, a przycisk losowania odtwarza je w losowej kolejności.",
+      "kr_sha256": "d2519472eb254dbf32a4345dfb2fb9f1e2e44395455d54c77e98274b0b5c5b05",
+      "en_sha256": "117ac87bd3be104089fde4e993267bdd0c603249da474b8878b4871dffe14789",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P2_T1].content": {
+      "pl": "Funkcje przycisków",
+      "kr_sha256": "269fe308b0175444f62b136c60083a3bf5d185b6b9910cd6c11c15f53614c005",
+      "en_sha256": "c7080888d3202cc42f37c750d46656ac1cddf5f5dde705c36b512f859c79af84",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P3_D1].content": {
+      "pl": "Wybierz interesującą cię kategorię i włącz odtwarzanie, aby słuchać wyłącznie utworów z tej kategorii.",
+      "kr_sha256": "e7c81420c1bd63eb5f6720119f52e79013c4930940ef5af530907f56030f8e9a",
+      "en_sha256": "876a0747cfc3ac506ccd016b5411424676933bcc42263eb5334e6587978d901f",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P3_T1].content": {
+      "pl": "Kategorie",
+      "kr_sha256": "b68c7d1bc95925735d2b2a4cf1035bbd8e4233ae550476b4a354abeee8b613b5",
+      "en_sha256": "b8b1d894c683725260dcd78f8ed64f979331a1ab61fc8311e9ccfc300fd5de20",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P4_D1].content": {
+      "pl": "Kliknij przycisk „+” obok wybranego utworu BGM, aby dodać go do własnej listy odtwarzania.",
+      "kr_sha256": "fbdf6ca731574a9bf1e2efd931d8385faf281126a4e89ed6229be4f54f6c3fc0",
+      "en_sha256": "7d7573728a62250cfdb7c985b41a7bd2b1483bbdcdd3a9133c817906e1d589b1",
+      "origin": "ai"
+    },
+    "dataList[id=Jukebox_P4_T1].content": {
+      "pl": "Lista odtwarzania",
+      "kr_sha256": "7b7e5c14820b7760774b3f1f8bee0e5b822ff816cf17c40f7810c8f470ac9bde",
+      "en_sha256": "7af36c508516cf272af6f3f98b4977910b0efd7b2a5ac5976ff2a0fbf9771113",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P10_D1].content": {
+      "pl": "Na poziomie Hard oprócz Efektów Odbicia\nnakładane są dodatkowo efekty Prób.",
+      "kr_sha256": "5387ab85b29e3cdf65065937bd674da874cf67b9443c42a948b32715c88c22ab",
+      "en_sha256": "9d43de2c5fa474e9f072e5fccf9f7490e9b3c23e447abd58b78e67f4730405e1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P11_D1].content": {
+      "pl": "Za pokonanie bossa na każdym poziomie trudności otrzymasz\njednorazową nagrodę. Ukończenie w określonej liczbie tur\nzapewnia dodatkowe nagrody.",
+      "kr_sha256": "c051523392aae0e0892121754282b34f6183531ea7b03d9746d37ba6891bff8b",
+      "en_sha256": "960ba996c90abb5a24dac25577196e9c3fed01a7b2a1bf6d47acb15d3a1c0059",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P11_T1].content": {
+      "pl": "Nagrody",
+      "kr_sha256": "9444bc762474483a32354518a78024f291675dfd3bd5a3748d0820bf118c7464",
+      "en_sha256": "59afe47d9d3772675632ee5ebbffeeb325d9a094387c87e3818357f4bd46fcc7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P12_D1].content": {
+      "pl": "W zakładce nagród stałych wymienisz zebrane Wypalone Soczewki na rozmaite waluty.",
+      "kr_sha256": "8e79d5ff1ef8a3649be6d5c0e16aabc7096ef83a757ae548ed2a73704f9a3115",
+      "en_sha256": "d753134420b1aabdf294983f83afb55a3640398024fec002615d69aa0700238c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P12_T1].content": {
+      "pl": "Wymiana nagród — nagrody stałe",
+      "kr_sha256": "845a85af4a8779e481133a552e4d382992e3bfe51758d68c104b00f6142ce554",
+      "en_sha256": "30b7f2a16ffb49ce9c5166032987f3e268a673ea7de14148b43eb825df632afc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P13_D1].content": {
+      "pl": "W zakładce nagród limitowanych wymienisz zebrane Rozwinięte Klisze na limitowane nagrody wydarzenia.",
+      "kr_sha256": "65cc00ae0829f3f0ef5786eafe8314d4c2e7e8759195c433a2efbdca33c62b40",
+      "en_sha256": "c503d82c87c17da4a76d8272a657de0b00df9be154da0d7179ff1a0b51504cbb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P13_D2].content": {
+      "pl": "Wymiana nagród limitowanych dostępna jest wyłącznie w okresie wymiany wydarzenia.\nPo jego zakończeniu zakładka nagród limitowanych znika, a wszystkie Rozwinięte Klisze zamieniają się w Wypalone Soczewki służące do wymiany nagród stałych.",
+      "kr_sha256": "d30e979036d48a49240c4b207f5fdb8100c642a42492686e77bfc39e52fc8b0f",
+      "en_sha256": "8c865115d1accf8cccc0ae9689a3c2ba8ecf94b0ba79d3dec2fb00c1393374e8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P13_T1].content": {
+      "pl": "Wymiana nagród — nagrody limitowane",
+      "kr_sha256": "b72f8a853678ba2622eca44f5a27b183fefdd3e298fcf7ee892db407dda32316",
+      "en_sha256": "46f27e83d02790fe5d08f6022a6e2639e6cea1302c6452a38e2ba09ea3a81cc4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P1_D1].content": {
+      "pl": "Wyświetlany jest okres, w którym możesz rzucić wyzwanie bossowi wybranego rozdziału.",
+      "kr_sha256": "ca4671ffee68f8317ef4fd0a4e0a373f4cd8803e071deeb75ccb8a5d6f19e7de",
+      "en_sha256": "cf60a1ac69a897698c2cd7adddaadebb80c056f42adae158dc11060d5c40fa59",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P1_D2].content": {
+      "pl": "Pokonanie bossa zapewnia jednorazową nagrodę.\nUkończenie walki w określonej liczbie tur gwarantuje dodatkowe nagrody.",
+      "kr_sha256": "33f235c9d3eb34f0229a1c02e91891a257f7586e5c2c256992a823ef832e79da",
+      "en_sha256": "d829bf21e91b3b7f80c667e38f7108f3e91d12b283b96a263d49d0dfc982cc21",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P1_D3].content": {
+      "pl": "Bossowie dodani w ramach wydarzeń BokGak dostępni są bezterminowo.",
+      "kr_sha256": "26971f2c50b058be031d27b6c49646b28b820157e4c2c60d216d6ba1de9d186d",
+      "en_sha256": "b371023266763a9bbaf8639ddf74beabc984a33e73fd85839438bd30e99c409e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P1_T1].content": {
+      "pl": "Okres dostępności",
+      "kr_sha256": "aed3736ddc2002d1656cf3f399cfd01a0b6181e91621ec9498157122bceb1841",
+      "en_sha256": "31dabecfe5ca3e95c7e4bb274132a27205e1f2c22e9b02506c26bc3baa76cf24",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P2_D1].content": {
+      "pl": "Walka Projekcyjna][anjyckejorP aklaW to zawartość o wysokim poziomie trudności —\nprzed podjęciem wyzwania odpowiednio rozwiń Tożsamości oraz E.G.O\ndo zalecanych parametrów.",
+      "kr_sha256": "d26eb105e5ab09f8f013c3294e1fd4aac6eb61887f33d4e19ba532b5f59f14dd",
+      "en_sha256": "7e57b3fa42e70b3c9b6b15c2d015f1351a9bae2d51be12209488ee20a3e07732",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P2_D2].content": {
+      "pl": "Dostępne są 2 poziomy trudności: Normal oraz Hard.\nPoziom Hard odblokowuje się po ukończeniu poziomu Normal.",
+      "kr_sha256": "312c3dd106c2140bb2b3b07c1ee232f25a5dfa1dc782df904f5834d169faf22f",
+      "en_sha256": "6867e354adcb180785b66a09226dc439a42d29e9d0f32f46c70cf6ef949552d7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P2_T1].content": {
+      "pl": "Zalecane parametry",
+      "kr_sha256": "85ac5792bf1a70fdf86e7de03f73a85d54bb4c3a4d7c9a1f4033db6f58d0383c",
+      "en_sha256": "9d8fc03b5465c2edf25e8f1d13cea175291e74afc1e3e1076b49a1c2175c95dd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P2_T2].content": {
+      "pl": "Poziom trudności",
+      "kr_sha256": "edd9736c8e4f64478ddb76a503b7212e3a671df4f3769353a3e7d0d0376b1ace",
+      "en_sha256": "be44133ed57f9e44f829282224b15981f033e9b0acc5458070e10104509eb398",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P3_D1].content": {
+      "pl": "W Walce Projekcyjnej][ąnjyckejorP ęklaW w każdym starciu i fazie\nobowiązują specjalne efekty.\n\nUwzględnij je podczas układania drużyn,\naby zyskać przewagę w walce.",
+      "kr_sha256": "7abe0b9d646a9c00d801e0e9c7fe0541258ff33ea63921ed1196f4725470adb0",
+      "en_sha256": "97210548283ad93cb1a63b249c41a1596b9873a35421f7d98628c79b490e6312",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P3_T1].content": {
+      "pl": "Efekty Odbicia",
+      "kr_sha256": "de238f102e8dab3d693186594c18c78464d782787ad2252ea096b29199154910",
+      "en_sha256": "d79beb1afab99065ce4ebd7495703645a859e9b92db1a640f51b191c09f8187b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P4_D1].content": {
+      "pl": "Tutaj sprawdzisz ogólne zasady przebiegu\nWalki Projekcyjnej][ąnjyckejorP ęklaW.",
+      "kr_sha256": "07cd630d54c9775caf6fce3be2cd871413025394eddda268742927f5bfaa58b9",
+      "en_sha256": "8907c0dbbdc192a7c9b12d7f8e160faf963c2bc57ea10f7be90b1f27e8b982f2",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P4_T1].content": {
+      "pl": "Zasady rozgrywki",
+      "kr_sha256": "ee71e646e814cfa6ee0b31cb4b9f04c4db28fffe7eae0ffd47e3a5500d3541f6",
+      "en_sha256": "f193d07c37765ecb1de9acb1af52d788851273a68ddd8b3791e4288c5e85ef77",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P5_D1].content": {
+      "pl": "Przed walką możesz zawczasu sprawdzić informacje,\numiejętności oraz pasywki wroga w poszczególnych fazach.",
+      "kr_sha256": "b04f76ead8893da8f6b6897a91a52f7852263cde2dc5244ddfab011b9bc6d867",
+      "en_sha256": "66fc9fa9cda701fa2284d7f9be34db46b0c072a84e3109b0266f8a8686fb03b4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P5_T1].content": {
+      "pl": "Informacje o wrogu",
+      "kr_sha256": "b3d4412038eb2ca82e543687e99fcc15d679cfb337fdd2fb7cddf5f31ef1278e",
+      "en_sha256": "2ccc5806a6e499777683015f317f1f611ca677d4eac4e293ef97f2468387475f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P6_D1].content": {
+      "pl": "W walce możesz użyć kolejno maksymalnie 3 składów.",
+      "kr_sha256": "598d23edb2ea24d0cbe4d15745dea995a010b9cdbacfedce9154210834d2a6b6",
+      "en_sha256": "c2ff22686556037de89bae06ff7dd5aa68e67859574290b96b5ea57859963948",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P6_D2].content": {
+      "pl": "Tożsamości użytych we wcześniejszym składzie nie można jednak wystawić ponownie w kolejnych składach.",
+      "kr_sha256": "1464e5f93d94877e8d4b95e00c875bfa1337851493cd2e02ba8f32ebb937c0af",
+      "en_sha256": "531e6e2c1c5ece59268c693228f775a0b4d7bcb0de57c8e53695b9f8891aebea",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P6_T1].content": {
+      "pl": "Skład drużyny",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "90b695e418e1802842923cf2d238cfc876808a03ff005482d2eab18270e5f811",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P7_D1].content": {
+      "pl": "Każdy skład może walczyć przez maksymalnie 12 tur.",
+      "kr_sha256": "4c3727a655dedd905f23578ace0fd6b344ca43d11aef4e07320422c1133e8c52",
+      "en_sha256": "9b9cc6d9ae47445f483a9825de0646c5a545eee545ebed4bed4352a4e42fef09",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P8_D1].content": {
+      "pl": "Po przekroczeniu 12 tur lub wybraniu zakończenia walki bieżącego składu zapisywane są faza bossa, jego PŻ i PP oraz pozostałe zasoby E.G.O,\na starcie możesz kontynuować kolejnym składem.",
+      "kr_sha256": "102e9edce490634b5a02ca741cbffd00d1f2108994a0cfde4a7c07426d86ecff",
+      "en_sha256": "eee78d84269830f7b273b379267156a763f049052642ae0797f03c162588ad21",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_P9_D1].content": {
+      "pl": "Ukończenie poziomu Normal odblokowuje poziom Hard.",
+      "kr_sha256": "2e2ae0d3d48ce92cd6f5256fabe2ae2d98bd617973eeba780db11c21f1d54cba",
+      "en_sha256": "b00943ddbd26cbf50c3e8049d1b6e11030e86a42c832de61741a3b3b31f368d1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoBossraid_Title].content": {
+      "pl": "Walka Projekcyjna][anjyckejorP aklaW",
+      "kr_sha256": "e739809f9ec0fac2597dbd0490154e125228f4fbe45afc3df29e22559cae30ce",
+      "en_sha256": "1d3c8672f14db23ab590a28ea34b16d113f84df7070e46577495fd27ba48e89b",
+      "origin": "ai"
+    },
     "dataList[id=TutoEvent5501_P1_D1].content": {
       "pl": "Wybierz baner wydarzenia w Oknie lub Jeździe, aby przejść do [okna wydarzenia Cud w Dystrykcie 20 BokGak].",
       "kr_sha256": "7568e00fa6412b15948ef5f0667b57367f88001ea18fd48885b77dfc7a3dd537",
@@ -13,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent5501_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Cud w Dystrykcie 20 BokGak.",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Cud w Dystrykcie 20 BokGak.\n\nW trakcie wydarzenia ukończenie etapów Cudu w Dystrykcie 20, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Worki Ozdób].\n\n※ [Worków Ozdób] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "070063e29274e449750e215d03b744b0b73812f9c6fefeb1530b65c8be939ce5",
       "en_sha256": "5a289124ed15417bbde86dbb851f5080c9fff05179949d8f08c0bfd6e2edacfd",
       "origin": "ai"
@@ -25,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent5501_P3_D1].content": {
-      "pl": "Wydarzenie Cud w Dystrykcie 20 BokGak obejmuje łącznie 13 etapów wraz z fabularnymi.",
+      "pl": "Wydarzenie Cud w Dystrykcie 20 BokGak obejmuje łącznie 13 etapów wraz z fabularnymi.\n\nWalki wydarzenia zapewniają oprócz zwykłych nagród także [Worki Ozdób] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
       "kr_sha256": "9254b50448ad45fc941d622875f91d7c0de2a1baad08829f3986af8a97289545",
       "en_sha256": "31dcbb9f52c222ec00984ed9ef5609d98dfbd6cfc617cdc35493f16c8c34c899",
       "origin": "ai"
@@ -73,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent5501_P7_D1].content": {
-      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Wielkiego Worka Ozdób].",
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Wielkiego Worka Ozdób].\n\nZdobyty [Wielki Worek Ozdób] jest automatycznie zamieniany na 20 [Worków Ozdób].",
       "kr_sha256": "9aaf8e2ca41ce381ed18897310fcc3e5c8eb1e9648648eda3cf7296e0756328b",
       "en_sha256": "98b91ba97811be5cfedb0f443b923762c3970c5f911ac2a4247595f4b7e88da7",
       "origin": "ai"
@@ -127,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent5502_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zakrwawione Pochwy].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zakrwawione Pochwy].\n\n※ [Zakrwawionych Pochew] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "aa6d35c4f42b60d707268ad8eac841fb4d47eae6115ea9e57d838682af4a256f",
       "en_sha256": "a48034be080459a22fd6b810c654ad50253361980093874d92f84c1ce724e7cd",
       "origin": "ai"
@@ -139,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent5502_P3_D1].content": {
-      "pl": "Wydarzenie Oddam Ciało, by Złamać Ich Kości BokGak obejmuje łącznie 11 etapów (wraz z fabularnymi) oraz 1 loch.",
+      "pl": "Wydarzenie Oddam Ciało, by Złamać Ich Kości BokGak obejmuje łącznie 11 etapów (wraz z fabularnymi) oraz 1 loch.\nWalki wydarzenia zapewniają oprócz zwykłych nagród także [Zakrwawione Pochwy] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
       "kr_sha256": "5bdb25fcf8322513e76231d6792c03e5d759512c349cf419d46b8c4271ab10d4",
       "en_sha256": "6070386ea996a78bb006450cb31ec97770caf6fc4f8e7cdd22f9d893d0cd8228",
       "origin": "ai"
@@ -187,7 +415,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent5502_P7_D1].content": {
-      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].",
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].\nZdobyta [Przepełniona Żalem Pochwa] zamienia się automatycznie na 20 [Zakrwawionych Pochew].",
       "kr_sha256": "345d46287f344e83bb41087ac9a88b2e426a30629224a0e4e48f046aacead8da",
       "en_sha256": "b02de6b8780a334a7397be8e03dea9c6d9c8f7b8c81f03b9aefc3ed067de1316",
       "origin": "ai"
@@ -241,7 +469,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent6511_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].\n※ [Zegarków Kieszonkowych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "ac50639cd2ba91bc21e5938f34e4798e07a03a7a9a900a1bb1e61086bbf88945",
       "en_sha256": "eb848acc393d37d5e170b5206a6d3cfeaa219478c0fa7dd4186b0effff82ef32",
       "origin": "ai"
@@ -355,7 +583,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent6512_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Morderstwo w Ekspresie WARP BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Pakiety Rekonstrukcyjne Pasażera].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Morderstwo w Ekspresie WARP BokGak. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Pakiety Rekonstrukcyjne Pasażera].\n※ [Pakietów Rekonstrukcyjnych Pasażera] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "8c8d39f885637dc10ccb38628d443ce8182e950c5ebad3dcc1140125d51a5c34",
       "en_sha256": "30bc8975c825e7f86978c57c093ba262a550a0efe6d02dd18cfcb0fbd8a165b1",
       "origin": "ai"
@@ -367,7 +595,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent6512_P3_D1].content": {
-      "pl": "Wydarzenie Morderstwo w Ekspresie WARP BokGak obejmuje łącznie 15 etapów wraz z fabularnymi.",
+      "pl": "Wydarzenie Morderstwo w Ekspresie WARP BokGak obejmuje łącznie 15 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
       "kr_sha256": "54358250d6db8d8e7a7cf7e6c5b825402c90f38a44968ff72600f27f3cb6b951",
       "en_sha256": "c29a7ad19bea5eec8e8c3b59abe220b5992c4dc6e7aab967aec14dd3209a842d",
       "origin": "ai"
@@ -487,7 +715,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent7501_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB. W trakcie wydarzenia ukończenie etapów wydarzenia, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Akta Informacyjne].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB. W trakcie wydarzenia ukończenie etapów wydarzenia, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Akta Informacyjne].\n\n※ [Akt Informacyjnych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "4c2252fad8516ddd0c6fe3f8545fcacaa002b97e3625bbbac3fefe16194a5be8",
       "en_sha256": "e3fc123f20af7225e6880efc5a57cfc107e25f5a069f9dbe55ca6d582986f00f",
       "origin": "ai"
@@ -499,7 +727,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent7501_P3_D1].content": {
-      "pl": "Okresowe Badania LCB obejmują łącznie 13 etapów (wraz z fabularnymi) oraz 1 loch.",
+      "pl": "Okresowe Badania LCB obejmują łącznie 13 etapów (wraz z fabularnymi) oraz 1 loch.\nWalki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończenie (1 raz).",
       "kr_sha256": "76da8bb7a0748acf133f15fcc308a53169971076abef37a7381ee3f3063e913b",
       "en_sha256": "8d40e924afefe017cdf30deedb2bebf4060b90864aa9167702cc0fdfa45f6610",
       "origin": "ai"
@@ -607,7 +835,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent7502_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Nocne Sprzątanie. W trakcie wydarzenia ukończenie etapów Nocnego Sprzątania, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Kanistry Płynnego Paliwa Sprzątacza].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Nocne Sprzątanie. W trakcie wydarzenia ukończenie etapów Nocnego Sprzątania, etapów Głównej Opowieści lub Lustrzanych Lochów zapewnia [Kanistry Płynnego Paliwa Sprzątacza].\n\n※ [Kanistrów Płynnego Paliwa Sprzątacza] nie można zdobyć w Lochach Wydobywczych, Kolei Załamania ani w Trybie Superpozycji Równoległej Lustrzanych Lochów (piętro 6+).",
       "kr_sha256": "5e2099dbe77cec332f10d01c2a2a7146c1518f3979b72290fcc2a45733a99582",
       "en_sha256": "28b0f58ab060075fda6b1face586d71f12f5417e34e085080bd09bc32e1548f5",
       "origin": "ai"
@@ -619,7 +847,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent7502_P3_D1].content": {
-      "pl": "Nocne Sprzątanie obejmuje łącznie 12 etapów wraz z fabularnymi.",
+      "pl": "Nocne Sprzątanie obejmuje łącznie 12 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Kanistry Płynnego Paliwa Sprzątacza] za pierwsze ukończenie (1 raz).",
       "kr_sha256": "0f3cec922c38694659792cab65f33e1691503f475caf981a4f4ecf11ceb0a08d",
       "en_sha256": "c6adcccb191d935f02317b196d6cfd83bdbcab01992f66e171e6722021c04c92",
       "origin": "ai"
@@ -715,7 +943,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent7512_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB BokGak.",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Okresowe Badania LCB BokGak.\n\nW trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Akta Informacyjne].\n\n※ [Akt Informacyjnych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "d33895d3961d3ce88235486fdaf88c425c1ad2f6f631f8a884d11ce05bb31e36",
       "en_sha256": "b030e415b047f3cdc8363dc18783b7011d05feceeb585563f61bd1c5a5a02785",
       "origin": "ai"
@@ -727,7 +955,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent7512_P3_D1].content": {
-      "pl": "Wydarzenie Okresowe Badania LCB BokGak obejmuje łącznie 12 etapów (wraz z fabularnymi) oraz 1 loch.",
+      "pl": "Wydarzenie Okresowe Badania LCB BokGak obejmuje łącznie 12 etapów (wraz z fabularnymi) oraz 1 loch.\n\nWalki wydarzenia zapewniają dodatkowo [Akta Informacyjne] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
       "kr_sha256": "5f964fe44288c2b674ccf3c1a5bd8b9b132d1cd58d3ff75352e6f295a930b8ea",
       "en_sha256": "cfdf20f9acf620f76cbd361fad622a30a9afaba448b2bbee2eb376655aafcbb8",
       "origin": "ai"
@@ -822,8 +1050,146 @@
       "en_sha256": "af65b1b7b65f76c039b92776e3a59bda8ff50d144ca9e3fbcaed3ec41f36344c",
       "origin": "ai"
     },
+    "dataList[id=TutoEvent7522_P10_D1].content": {
+      "pl": "Nawet po zakończeniu wydarzenia walki oraz fabułę Nocnego Sprzątania możesz w każdej chwili odtworzyć w menu Jazda — [Deviazione] oraz Teatr — [Opowieści Poboczne].",
+      "kr_sha256": "799fb7bce367a9540d6eee0294b745a6f98c168e1307a657cc7e98d5c3d6717e",
+      "en_sha256": "588b02b172c1594c4a695dd6e77f46126c75a66f87db489cb8667dc05d3a8b6c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P1_D1].content": {
+      "pl": "Odblokowanie Nocnego Sprzątania",
+      "kr_sha256": "243da039ff2765f28e984c606b7d98a7d90ba79f23b136f9bc037a51cc1aed0d",
+      "en_sha256": "1be93b8ad45114b3e78e1fcc96326d8261c259c8f490b01b38d1e99fe0c9a947",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P1_D2].content": {
+      "pl": "Wybierz baner wydarzenia w Oknie lub Jeździe, aby przejść do [okna wydarzenia Nocne Sprzątanie BokGak].",
+      "kr_sha256": "76a5073f95536ad9a0ca0d6f481a4baa3edb969c4d2ce7aa9995d42678600a4d",
+      "en_sha256": "18bda5522f386e272e13dc8471ce2d7bd41fcda1aa68b4813232a77004ae8fdd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P1_T1].content": {
+      "pl": "Nocne Sprzątanie BokGak",
+      "kr_sha256": "aa8b7ae3b04835bc3a63539ffdf7b570f8f46618af28c0cf7635ed39decaa8eb",
+      "en_sha256": "bdb10e10b3a806369f31ac52a1fec2441bc70c07185b453d5809c2a0dbc94c8a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P2_D1].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia Nocne Sprzątanie BokGak.\nW trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Kanistry Płynnego Paliwa Sprzątacza].\n※ [Kanistrów Płynnego Paliwa Sprzątacza] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
+      "kr_sha256": "f9f47f7622c7d681ab2ab5f05769057660183c28f4bdf95fb9fdbee5256681d7",
+      "en_sha256": "063971f7240f4688a4a2a40b2f71ed22c1d7379ca617fb79cb494bb58c8145fb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P2_T1].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P3_D1].content": {
+      "pl": "Wydarzenie Nocne Sprzątanie BokGak obejmuje łącznie 12 etapów wraz z fabularnymi.",
+      "kr_sha256": "9c51064d52f1cad6c4822d145f12c2d2af98ddd8015ed4cc9fe6b89607987687",
+      "en_sha256": "53b9e8458e48d3da5a9c4fffe0868ab814db3cb954032c671af9ae644bb3964a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P3_D2].content": {
+      "pl": "Walki wydarzenia zapewniają dodatkowo [Kanistry Płynnego Paliwa Sprzątacza] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
+      "kr_sha256": "4ae5290c224a1f1e12655f9916b1f243592810c3572aa7f9ba7b9767e28f3a36",
+      "en_sha256": "258c046ae7b598b00190948ba3c4c0b0d5c1a2844706260ebd6b6d32ac335ef2",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P3_T1].content": {
+      "pl": "Walki wydarzenia",
+      "kr_sha256": "4c1b21d3cb7b6a1d54add817172f9528dc9ebaf41e0be294d02301b6cbdf23df",
+      "en_sha256": "45660f491732668e8345c125aa5b17383da8c224d5a13676d57ebf34320d33d6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P4_D1].content": {
+      "pl": "Wystawienie premiowanych Tożsamości i E.G.O wydarzenia zwiększa liczbę [Kanistrów Płynnego Paliwa Sprzątacza] zdobywanych na etapach i w Lustrzanych Lochach.",
+      "kr_sha256": "10410358ba6052262d843d30357e4c8b2029886c5856c8b6770520ec552e2387",
+      "en_sha256": "fe65c3c53ba5426ddf98b76c2a68cfd04d11864fa935c1826b1a874762c4a5b1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P4_T1].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P5_D1].content": {
+      "pl": "Wydawaj zdobyte [Kanistry Płynnego Paliwa Sprzątacza] w [Wymianie nagród], aby odbierać rozmaite nagrody.",
+      "kr_sha256": "2fcd516fe72e163716c2c1b1c1eb87c051e86f5e532317d54b8bcff8bb13f1c9",
+      "en_sha256": "41a62f5812f3a1b1c3287859722ae34e61d43e7b288060a07e87b8e6a5dcf54f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P5_T1].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P6_D1].content": {
+      "pl": "Na stronie [Wymiany nagród] widnieje okres odbioru nagród.",
+      "kr_sha256": "316cf60f034c81371fe357867d54a7c6c7862d1305c8e075c61ff400a9e061f8",
+      "en_sha256": "a7ed47b5d2f1cbc7ec7b785d630e390a5d0614bd7d270045246e5e95ca7e225e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P6_D2].content": {
+      "pl": "W oknie [Wymiany nagród] zdobędziesz darmową Tożsamość wydarzenia, Komentatora, ozdoby biletu, banery oraz rozmaite waluty.",
+      "kr_sha256": "056cc3b6cb38eae4de98064299cdf23e2b6a812f56fa142e4d0e17d26bbfb691",
+      "en_sha256": "a0b52c653687a6ff5d49215c905ea779169867a071c28b3ee45348484135d3db",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P7_D1].content": {
+      "pl": "Walki Nocnego Sprzątania to Walki Seryjne. W Walkach Seryjnych śmierć sojusznika nie obniża Poczytalności (PP) pozostałych.",
+      "kr_sha256": "912d750b570888119e6031d59ef14a83126aaabb3deb3081291611fead9f6460",
+      "en_sha256": "247d686029ecd9a261a201fe51bdf04071e4fcb1daa19b0c059ad1f2ab387cf1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P7_T1].content": {
+      "pl": "Etapy Walki Seryjnej",
+      "kr_sha256": "d5580e9988f77e9387723f13960564c6febd72113014871af5f5d5df05efabbe",
+      "en_sha256": "396681c748c7932f699569b3eda8e60a68920829213e1b5c85a3f1eaeddd7773",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P8_D1].content": {
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie Wielkiego Zbiornika Płynnego Paliwa, który automatycznie zamienia się na 20 Kanistrów Płynnego Paliwa Sprzątacza.",
+      "kr_sha256": "60bc96680faad7f81f0dc83e63f39459b8e5e4436d2faee8c79b0385447c7582",
+      "en_sha256": "358dba8513415cfb79cd085ab627f878185e256a1e5421122886d43ea97066fd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P8_T1].content": {
+      "pl": "Wielki Zbiornik Płynnego Paliwa",
+      "kr_sha256": "6dca1a82cd57baf40f8909866829ccb0b9ab7077ea76d5d886161512e62b7d01",
+      "en_sha256": "56b208a4153c50fbfb6fea56d6ca827e62354d0d4d042979a0d2864a6baa3d9f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P9_D1].content": {
+      "pl": "W trakcie wydarzenia dostępny jest poziom Hard Nocnego Sprzątania. Odblokowuje się on po ukończeniu etapu 8-33 Głównej Opowieści.",
+      "kr_sha256": "8d6e0eddebcbd5c164ca8aed4d88bf3a9ffd94dbe4c7fe64df3454487a7cb150",
+      "en_sha256": "1299f1ecd2ad57900d0030ee13033a188a0a4c3764ebc8160e8c3200e604271b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P9_D2].content": {
+      "pl": "Na poziomie Hard zdobędziesz więcej waluty wydarzenia niż na poziomie Normal.",
+      "kr_sha256": "a1c2e98dc7343f3a6980bcb7047f7d202931abf4f81f8d2a2c41963305fc4671",
+      "en_sha256": "76469698bebcea096e4c51b257c50c3b90d37a49de248dbfaf4ee1886d6de83c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P9_D3].content": {
+      "pl": "Ukończenie etapów Hard również zapewnia nagrody za pierwsze przejście, nagrody EX oraz nagrody postępu rozdziału.",
+      "kr_sha256": "e73a94c66f81d73e4dc8a05243bae85929245d0023787f35a6f0bcaa50eb8f86",
+      "en_sha256": "82a567ce4e45f8c034184c90ebeb191beb2790258c62c13e6ce79edecc6700ca",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent7522_P9_T1].content": {
+      "pl": "Poziom Hard",
+      "kr_sha256": "a57325d565f0c7b0b9eaa7b46f7762167ecbe8a35b9511484b51a97aedcfd26e",
+      "en_sha256": "ad78c067a4b5a5bc85fbed0e34b1452c68632955691057128edae5db2f09de38",
+      "origin": "ai"
+    },
     "dataList[id=TutoEvent8501_P10_D1].content": {
-      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Zdecydowanie Nie Tajnego Zwoju].",
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Zdecydowanie Nie Tajnego Zwoju].\nZdobyty [Zdecydowanie Nie Tajny Zwój] zamienia się automatycznie na 20 szt. [Wprowadzenia do Zhi, Yong i Ren].",
       "kr_sha256": "418a7a522f2fde60e43b334b00f22321881679847d35b3b8b3552cc4b1dc66ef",
       "en_sha256": "d55d736a9cae102df554931c18f5cd770a15f3fc3952c4e75768029cfc1ef0d2",
       "origin": "ai"
@@ -853,7 +1219,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8501_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Wiosenny Szlif. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Wprowadzenie do Zhi, Yong i Ren].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Wiosenny Szlif. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Wprowadzenie do Zhi, Yong i Ren].\n※ [Wprowadzenia do Zhi, Yong i Ren] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "e4b27538eb616ded684dc8ebe40944f928eba59ac269200f4b97b05ed23de11c",
       "en_sha256": "fb08a92dae5bb5326e253f5ac33b6a8056b951a01729c07fd9fedb63f14ffbf5",
       "origin": "ai"
@@ -865,7 +1231,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8501_P3_D1].content": {
-      "pl": "Wydarzenie Wiosenny Szlif obejmuje łącznie 12 etapów wraz z fabularnymi.",
+      "pl": "Wydarzenie Wiosenny Szlif obejmuje łącznie 12 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Wprowadzenie do Zhi, Yong i Ren] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
       "kr_sha256": "1ce1ddc71c33ae672b53e3e6a7baa1ea297239d83fc52741b2a3a7e796425d8d",
       "en_sha256": "c4a98505111e7e87e6d769d8e67e25412b34aa2d7b11de6344210420119b57d6",
       "origin": "ai"
@@ -955,7 +1321,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8502_P10_D1].content": {
-      "pl": "W trakcie wydarzenia dostępny jest poziom Hard Pielgrzymki Współczucia.",
+      "pl": "W trakcie wydarzenia dostępny jest poziom Hard Pielgrzymki Współczucia.\nOdblokowuje się on po ukończeniu etapu 0-4 Głównej Opowieści.",
       "kr_sha256": "8719fc1e34d70eefd9468e1bd63d132514284d2687e26ad5e73aba877ad19c60",
       "en_sha256": "a72e047c417bbda12904dcf46c1d0387a13e914561cc4a3922f3d911920b3e78",
       "origin": "ai"
@@ -973,7 +1339,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8502_P10_D4].content": {
-      "pl": "Ukończenie etapu na poziomie Hard automatycznie zalicza także poziom Normal tego etapu.",
+      "pl": "Ukończenie etapu na poziomie Hard automatycznie zalicza także poziom Normal tego etapu.\nOtrzymasz wówczas jednocześnie nagrodę EX poziomu Normal (Szaleństwo) oraz nagrodę waluty wydarzenia za pierwsze ukończenie.\n※ Nie dotyczy to jednak PD konta, PD Tożsamości ani powtarzalnych nagród waluty wydarzenia.",
       "kr_sha256": "ba0ba445fc2e453874fbb563f5037152c7453301b99747b1f9cef65811b234a0",
       "en_sha256": "39e1cb1bac8079c7f96244c748a3e8b1477072bb5297f0752c42c3cd880b78f5",
       "origin": "ai"
@@ -1027,7 +1393,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8502_P2_D1].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Pielgrzymka Współczucia. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Próbki Morskiego Koszmaru].",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Pielgrzymka Współczucia. W trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Próbki Morskiego Koszmaru].\n※ [Próbek Morskiego Koszmaru] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "d93053b04631ef46e3e5133bfbf244a99657875dd74b583385f392d573a40f8a",
       "en_sha256": "72c2211be62ee7dd6caf9e85d0893706a4a43c3400ad28c08f79ec2fd689e6a8",
       "origin": "ai"
@@ -1045,7 +1411,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8502_P3_D1].content": {
-      "pl": "Wydarzenie Pielgrzymka Współczucia obejmuje łącznie 14 etapów wraz z fabularnymi.",
+      "pl": "Wydarzenie Pielgrzymka Współczucia obejmuje łącznie 14 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Próbki Morskiego Koszmaru] za pierwsze ukończenie każdego etapu (1 raz na walkę).",
       "kr_sha256": "a4da643c7f0f70f8c74aa6b22fc9d1aafd1b17716e8c6a0f23fbdf62998c87bd",
       "en_sha256": "db09db81a5dcf6748dc8a2a3c2ae9bcfa98b6e5deab612021c35c4687ea1cced",
       "origin": "ai"
@@ -1111,13 +1477,13 @@
       "origin": "ai"
     },
     "dataList[id=TutoEvent8502_P8_D1].content": {
-      "pl": "Pamiętaj, że nagrody postępu rozdziału oraz postępu ukończeń EX można odebrać wyłącznie podczas trwania wydarzenia (2025/9/25 12:00 ~ 10/23 06:00 (KST)).",
+      "pl": "Pamiętaj, że nagrody postępu rozdziału oraz postępu ukończeń EX można odebrać wyłącznie podczas trwania wydarzenia (2025/9/25 12:00 ~ 10/23 06:00 (KST)).\nProsimy mieć to na uwadze.",
       "kr_sha256": "f02859f8b6749ba4fb40336d405265bd309807f89d767d7b2a2384ef183577f1",
       "en_sha256": "88294f57947cb6c03bf812b7088b75e799e1a7a7326027faccea699e856c61d8",
       "origin": "ai"
     },
     "dataList[id=TutoEvent8502_P9_D1].content": {
-      "pl": "Ostatnia walka Pielgrzymki Współczucia to loch,",
+      "pl": "Ostatnia walka Pielgrzymki Współczucia to loch,\nktórego wejście zużywa Moduły Enkefaliny.",
       "kr_sha256": "5eaa40e86e28233d5e96e1ebe9a83c25dc9ff69af19441daf0aaa3b91cc16770",
       "en_sha256": "225b867f5d695a52e40c370c8a9bae23498973c4c13691c48ef6ba45f4f27a37",
       "origin": "ai"
@@ -1146,16 +1512,202 @@
       "en_sha256": "99f6d96ff04b081731f7f70e05033a3bb18033aabb0bab4be53add7b29a3960d",
       "origin": "ai"
     },
+    "dataList[id=TutoEvent9125_P2_D1].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia Splatanie Pasm.\n\nW trakcie wydarzenia ukończenie etapów Splatania Pasm, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Odcięte Nici].\n\n※ [Odciętych Nici] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
+      "kr_sha256": "e77bdcd5bef973c31cf1782ec5c9eeace2b5db7727687f3925ec6d9e45888694",
+      "en_sha256": "41af654c0fb68b4511fd9d9b38c90a337d550073719ae222f79d7af9f840e23c",
+      "origin": "ai"
+    },
     "dataList[id=TutoEvent9125_P2_T1].content": {
       "pl": "Czas trwania wydarzenia",
       "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
       "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
       "origin": "ai"
     },
+    "dataList[id=TutoEvent9125_P3_D1].content": {
+      "pl": "Wydarzenie Splatanie Pasm obejmuje łącznie 14 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Odcięte Nici] za pierwsze ukończenie każdego etapu (1 raz na walkę).\n\nEtapy Splatania Pasm zapewniają znacznie więcej [Odciętych Nici] niż etapy Głównej Opowieści.",
+      "kr_sha256": "d6bc1ff601b11b56c1d2e242bb11da48eabecdb41bcf6ddc276f0c2fe84e6cc5",
+      "en_sha256": "8027aac1707e259ea7c9b04e0b290160c349a7c4c61c11e64b9c0b5c80010609",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P3_T1].content": {
+      "pl": "Walki wydarzenia",
+      "kr_sha256": "4c1b21d3cb7b6a1d54add817172f9528dc9ebaf41e0be294d02301b6cbdf23df",
+      "en_sha256": "45660f491732668e8345c125aa5b17383da8c224d5a13676d57ebf34320d33d6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P4_D1].content": {
+      "pl": "Wystawienie premiowanych Tożsamości i E.G.O wydarzenia zwiększa liczbę [Odciętych Nici] zdobywanych na etapach i w Lustrzanych Lochach.",
+      "kr_sha256": "00453af95168559ccf5fa29645b96f5caf03090251726f4b6367b2b2aad895fd",
+      "en_sha256": "c4e8aec0b3abeb62732abc92f408626c22cc8513dc648ce061edc4d97949b4a4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P4_T1].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P5_D1].content": {
+      "pl": "Wydawaj zdobyte [Odcięte Nici] w [Wymianie nagród], aby odbierać rozmaite nagrody.",
+      "kr_sha256": "d21746bc8b128fb1a9f5834c9b2a6c0a744d9a35759d189196549eca8e452059",
+      "en_sha256": "ecf3471fbdcca1a5a33ed012f5ceae0842b341a168d4fe4d9c486ef535b56cf1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P5_T1].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P6_D1].content": {
+      "pl": "W oknie [Wymiany nagród] widnieje okres odbioru nagród.",
+      "kr_sha256": "9f96a254692eb1c25bd0b0e9112a0c997dedd33dab10dea3e61cac5298a2f643",
+      "en_sha256": "a7ed47b5d2f1cbc7ec7b785d630e390a5d0614bd7d270045246e5e95ca7e225e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P6_D2].content": {
+      "pl": "W oknie [Wymiany nagród] zdobędziesz darmową Tożsamość wydarzenia, Komentatora, ozdoby biletu, banery oraz rozmaite waluty.",
+      "kr_sha256": "056cc3b6cb38eae4de98064299cdf23e2b6a812f56fa142e4d0e17d26bbfb691",
+      "en_sha256": "c90d1ef4d013ff958f1bb8a73a6346c5128a57c3f0c4be3c24ab99d5ba64733c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P7_D1].content": {
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Odciętego i Nadpalonego Motka], który automatycznie zamienia się na 20 [Odciętych Nici].",
+      "kr_sha256": "1abcfc97a803aa9f35bac49dece0d6f08679fa0893b9f6b7a894c5df0ee2bffa",
+      "en_sha256": "a84b006e1f12d9f65c8aa8526b473d74b0d6a8ce74edb091de3b3f81a96083d9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P7_T1].content": {
+      "pl": "Odcięty i Nadpalony Motek",
+      "kr_sha256": "089bb17e13d5be207b3541f7801f77254c5b178a143e6bc4624f20d0e91a0a2f",
+      "en_sha256": "d6da5072e48bbe64615b6ed2629c174f20e815f36c17da34ab496f0a2c306c69",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P8_D1].content": {
+      "pl": "Nawet po zakończeniu wydarzenia walki oraz fabułę Splatania Pasm możesz w każdej chwili odtworzyć w menu Jazda — [Deviazione] oraz Teatr — [Opowieści Poboczne].",
+      "kr_sha256": "e75eef745920859a697b9b698e44c1a8269f274d1a51e0ad9f985df1b2eda381",
+      "en_sha256": "d858cbcd25b9cfa49ce5c3ba257fff2577337348713abd8211c6134b1949e601",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P9_D1].content": {
+      "pl": "W 2. tygodniu wydarzenia dodana zostanie Walka Projekcyjna][anjyckejorP aklaW,\nodblokowywana po ukończeniu wszystkich etapów wydarzenia.",
+      "kr_sha256": "b2904fd12029e7314c5ab0b655d7e9b80da26f44586a76852dd59fd7408f4d88",
+      "en_sha256": "9f3464abd9c54c3e7bac71664d0062e16b505aa3530a8c3b19b0266f89210980",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P9_D2].content": {
+      "pl": "Boss wydarzenia pojawia się tu w znacznie wzmocnionej wersji,\na twoim celem jest pokonanie go w określonej liczbie tur przy użyciu kilku drużyn.",
+      "kr_sha256": "7ec66a1c14d98651e7c911d05039e1e3932598086bbd39c333c102ef7396f9a6",
+      "en_sha256": "45db3dc1fb7e407fa64e8b1147c61eb1ade033a5ca8d461c17e0129fbce4af20",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9125_P9_T1].content": {
+      "pl": "Walka Projekcyjna][anjyckejorP aklaW",
+      "kr_sha256": "e739809f9ec0fac2597dbd0490154e125228f4fbe45afc3df29e22559cae30ce",
+      "en_sha256": "1d3c8672f14db23ab590a28ea34b16d113f84df7070e46577495fd27ba48e89b",
+      "origin": "ai"
+    },
     "dataList[id=TutoEvent9125_Title].content": {
       "pl": "Splatanie Pasm",
       "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
       "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P1_D1].content": {
+      "pl": "[Strona wydarzenia Pamięć Doświadczenia] odblokowuje się po ukończeniu etapu 0-4 Głównej Opowieści. Wejdziesz na nią przez baner wydarzenia w Oknie lub Jeździe.",
+      "kr_sha256": "5cc4b1f1374d4231a901225db62c5f12b46de8a797e0e61d55efc287f7000e4c",
+      "en_sha256": "f804a2891a1d3c73eb132d43c306a4c8eafd958d78d64765c59ca214bfdbfedb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P1_T1].content": {
+      "pl": "Odblokowanie wydarzenia",
+      "kr_sha256": "a8ceb06c0b12ccc893c58cbf165ba94f4d4f37593058be724a57bd85299040be",
+      "en_sha256": "99f6d96ff04b081731f7f70e05033a3bb18033aabb0bab4be53add7b29a3960d",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P2_D1].content": {
+      "pl": "Tutaj widnieje czas trwania wydarzenia Pamięć Doświadczenia.\nW trakcie wydarzenia ukończenie etapów wydarzenia, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zdjęcia].\n※ [Zdjęć] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
+      "kr_sha256": "f3420d0bdb4f355d630f4961f8bc8ac2d6225f3f3718a7b8d0fa03f5ef212971",
+      "en_sha256": "8132c523b54391ba7751e6d149f9a1e53ed1d1d8ef0e6b6f77f1a55457847f9b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P2_T1].content": {
+      "pl": "Czas trwania wydarzenia",
+      "kr_sha256": "c424962ba662b6582e16e44beac4ef2fbc436f43b899a47a44782057f1650c2c",
+      "en_sha256": "4d1b7031e7061c35e8a3aa217c5c8d36bd6bf103e3f5dcdf506069221b3b7f44",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P3_D1].content": {
+      "pl": "Wydarzenie Pamięć Doświadczenia obejmuje łącznie 11 etapów (wraz z fabularnymi) oraz 1 loch.\nWalki wydarzenia zapewniają dodatkowo [Zdjęcia] za pierwsze ukończenie każdego etapu (1 raz na walkę).\n\nEtapy Pamięci Doświadczenia zapewniają znacznie więcej [Zdjęć] niż etapy Głównej Opowieści.",
+      "kr_sha256": "803bdcd0eea2094ab1d570f0645e81207be20c0187bfcd654ef90d346e1320c0",
+      "en_sha256": "6d750666c95a50e32a0f08a96a77f03b0e7c9c4a8656d88a4c5cdc834a2ca1fb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P3_T1].content": {
+      "pl": "Walki wydarzenia",
+      "kr_sha256": "4c1b21d3cb7b6a1d54add817172f9528dc9ebaf41e0be294d02301b6cbdf23df",
+      "en_sha256": "45660f491732668e8345c125aa5b17383da8c224d5a13676d57ebf34320d33d6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P4_D1].content": {
+      "pl": "Wystawienie premiowanych Tożsamości w drużynie zwiększa liczbę [Zdjęć] zdobywanych na etapach i w Lustrzanych Lochach.",
+      "kr_sha256": "03be852b1f34e5ab69ccb151fd02ac7dd21d53265fbaed437ea2dd8c091f60c5",
+      "en_sha256": "e33f1e6dfbc4d7ab0d6b015d3274765378f014ff6101cde3b96a9fbdd2c7d252",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P4_T1].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P5_D1].content": {
+      "pl": "Wydawaj zdobyte [Zdjęcia] w [Wymianie nagród], aby odbierać rozmaite nagrody.",
+      "kr_sha256": "ee55e0eacd9832cc86403368112043ba352408059e6a86a633ee54250cc8ab69",
+      "en_sha256": "0aab364a7e7102d8bc596f55646b91c080aa0c695947a8118e1f8610e362cffc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P5_T1].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P6_D1].content": {
+      "pl": "W oknie [Wymiany nagród] widnieje okres odbioru nagród.",
+      "kr_sha256": "9f96a254692eb1c25bd0b0e9112a0c997dedd33dab10dea3e61cac5298a2f643",
+      "en_sha256": "a7ed47b5d2f1cbc7ec7b785d630e390a5d0614bd7d270045246e5e95ca7e225e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P6_D2].content": {
+      "pl": "W oknie [Wymiany nagród] zdobędziesz darmową Tożsamość wydarzenia, ozdoby biletu, banery oraz rozmaite waluty.",
+      "kr_sha256": "acb159bdd9392b40a86443a86a835cb415627cbcbb39f5e512a81805572f1b9b",
+      "en_sha256": "d89b213dbb51a9c17f125addfb4c8ee1aa5b7d2241cb760bdea5d3fb3ef5c69e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P7_D1].content": {
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Stosów Zdjęć], które automatycznie zamieniają się na 20 [Zdjęć].",
+      "kr_sha256": "c3dd8392a444a3d726ee973e30f1731f2d7236d447eeb49ee4e74b86da7ba62f",
+      "en_sha256": "5f69c24b2666e8b3da71abe7aadec0968d5d21e8fbfe0d392231a80ae9597a69",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P7_T1].content": {
+      "pl": "Stosy Zdjęć",
+      "kr_sha256": "69ec6cea437fb32e5817a0866e5fd65b693198fda5f4a7f22c9b721e5f3757ba",
+      "en_sha256": "5722663db6ee8bc510042266fc37ee31fdb8a6dbc878cb968e3420204a2a6cab",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_P8_D1].content": {
+      "pl": "Nawet po zakończeniu wydarzenia walki oraz fabułę Pamięci Doświadczenia możesz w każdej chwili odtworzyć w menu Jazda — [Deviazione] oraz Teatr — [Opowieści Poboczne].",
+      "kr_sha256": "5eb0b97960a9f596b03418fb9bb12cc4dc035c94b72666d64fd3c5d9aa260818",
+      "en_sha256": "979c6f2a386126df47bf4c5972a237f88cbacd8b345aedd55e3753301153c51c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoEvent9127_Title].content": {
+      "pl": "Pamięć Doświadczenia",
+      "kr_sha256": "f9eb86699cc3a3ef89e3845d4f72b1be96dcd5b68ad7cad3f55e08ab7a938439",
+      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4",
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P1_D1].content": {
@@ -1189,13 +1741,13 @@
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D10].content": {
-      "pl": "W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.",
+      "pl": "W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.\n\nGdy uczestnik zginie w walce, zastępuje go rezerwowy o najniższym numerze rozstawienia.\nNazywa się to „Wejściem Rezerwy”.",
       "kr_sha256": "fcc1464712d10061e8d3a9f4d6a0f42e180b69379d78e4b1511a37923907b78c",
       "en_sha256": "d87f28809b6475861321b9fec8fe1f0f6259fbff51eed9c7b6a6d5ea546538a4",
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D11].content": {
-      "pl": "Pasywka bojowa poległej Tożsamości zamienia się w pasywkę wsparcia.",
+      "pl": "Pasywka bojowa poległej Tożsamości zamienia się w pasywkę wsparcia.\n\nPasywka wsparcia wchodzącej Tożsamości rezerwowej zamienia się w pasywkę bojową.",
       "kr_sha256": "ed81c6537a3c16950c2a21ce0048dab741eb45a342608eb802916c0b00a73309",
       "en_sha256": "f21fc1d5b486e57c219059ea5aee1a7b2c531d17f9abd6f6de7a3c3d91ca7b11",
       "origin": "ai"
@@ -1213,7 +1765,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D1].content": {
-      "pl": "W zwykłym oknie składu cały obszar portretu Tożsamości służy do edycji drużyny,",
+      "pl": "W zwykłym oknie składu cały obszar portretu Tożsamości służy do edycji drużyny,\nnatomiast w oknie przygotowania do walki portret dzieli się na dwie poniższe części.",
       "kr_sha256": "44842a878f1bd4a8566c632d3ab6e7243e2c541c2eaea7e744008d18bdc23b35",
       "en_sha256": "ae80e0e8d743be000aa613cfc995296235b1797e3c288aff219c429df4f8bf79",
       "origin": "ai"
@@ -1237,7 +1789,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D5].content": {
-      "pl": "W niektórych trybach bojowych, w których nie można zmieniać składu,",
+      "pl": "W niektórych trybach bojowych, w których nie można zmieniać składu,\ncały obszar portretu Tożsamości służy do wyboru uczestników walki.",
       "kr_sha256": "d0b1868597411b71927f12042b33df268c48c09e77fc91b68235edf043a879f9",
       "en_sha256": "31d706acf510d57bcac4d139a84ed6014b134cbc3e02317142776a5918f6ac81",
       "origin": "ai"
@@ -1249,19 +1801,19 @@
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D7].content": {
-      "pl": "Jeśli jednak jest to Walka Seryjna, oprócz uczestników podstawowych możesz wybrać także „jednostki rezerwowe”.",
+      "pl": "Jeśli jednak jest to Walka Seryjna, oprócz uczestników podstawowych możesz wybrać także „jednostki rezerwowe”.\n\nGdy uczestnik podstawowy zginie w trakcie walki, jego miejsce zajmuje rezerwowy.\n\nW Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednostki (zarówno podstawowe, jak i rezerwowe).",
       "kr_sha256": "a0e53bba6287b2aeda0ce0230aea29a5b28b66c43c082edcceaba766b4e3a8a9",
       "en_sha256": "d0ca1b5857136525bfc4958616cf0aa7853d2fabb3dd75e3a61fb18801db8ded",
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D8].content": {
-      "pl": "Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają do walki zgodnie z kolejnością rozstawienia.",
+      "pl": "Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają do walki zgodnie z kolejnością rozstawienia.\n\nWchodzący rezerwowy odzyskuje PP w liczbie odpowiadającej premii początkowych PP wynikającej z jego kolejności rozstawienia.",
       "kr_sha256": "f36b695b53b5110c0ed929ddf2627946890b67142430507fba93caf712d1f128",
       "en_sha256": "9b28ff94ac1ca4cce9d0df5ccbdc5b8a6d99247540509bf7458b58c237757293",
       "origin": "ai"
     },
     "dataList[id=TutoFormation_P2_D9].content": {
-      "pl": "W niektórych Walkach Seryjnych wchodzący rezerwowi zyskują dodatkowe efekty.",
+      "pl": "W niektórych Walkach Seryjnych wchodzący rezerwowi zyskują dodatkowe efekty.\n\nWarto wykorzystać to i strategicznie ustalić kolejność rozstawienia.",
       "kr_sha256": "f5228d156cd519dbc27d2e690814eb2e3a6cc9273f1d74ae25ec29b84cf65c76",
       "en_sha256": "5ed7b9a7ef0098afae231102cb6a1bfb7b21a688e1e7a182e791bed296e48fe7",
       "origin": "ai"
@@ -1441,7 +1993,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoIDList_P1_D1].content": {
-      "pl": "Wyświetla listę Tożsamości wybranego w składzie Grzesznika.",
+      "pl": "Wyświetla listę Tożsamości wybranego w składzie Grzesznika.\n\nSprawdzisz tutaj rzadkość, stopień Synchronizacji, poziom oraz przynależność Tożsamości.",
       "kr_sha256": "6cb0e8c21f84b133637892fa7fdf0e42e9d85bb3aaede374b2af907062971361",
       "en_sha256": "59de1a82ca54dd06eaf423a16c55be4da3dfc339775324a5bcb1770c645e75c1",
       "origin": "ai"
@@ -1459,7 +2011,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoIDList_P2_D2].content": {
-      "pl": "Tożsamości wchodzące w skład bieżącej drużyny są tu odpowiednio oznaczone.",
+      "pl": "Tożsamości wchodzące w skład bieżącej drużyny są tu odpowiednio oznaczone.\n\nKliknij portret Grzesznika, aby wyświetlić listę jego Tożsamości.",
       "kr_sha256": "8dcf972f6d82d683035ce0aa6048b748d9c0e3ec8c6930d17d6afb007c6da245",
       "en_sha256": "ab9e097cf4160f38f43017fbce4db3e04c9070d426884df18cc395589213e090",
       "origin": "ai"
@@ -1495,7 +2047,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoIDList_P4_D1].content": {
-      "pl": "Wyświetla listę E.G.O wybranego w składzie Grzesznika.",
+      "pl": "Wyświetla listę E.G.O wybranego w składzie Grzesznika.\n\nSprawdzisz tu klasę, stopień Splotu Nici, główny grzech oraz nazwę E.G.O.",
       "kr_sha256": "dbc2382a10fc4c4026dbdaac6b291949365094a79eca15a36917e610cd4ad44d",
       "en_sha256": "93215dfd343f98926ab30b91d2f7d16ed9e73318d8c4d083400839ce0a37063a",
       "origin": "ai"
@@ -1621,7 +2173,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoMinigame8501_P12_D1].content": {
-      "pl": "Sloty umiejętności łączą się automatycznie — naciśnij przycisk w kształcie gongu, aby rozpocząć walkę.",
+      "pl": "Sloty umiejętności łączą się automatycznie — naciśnij przycisk w kształcie gongu, aby rozpocząć walkę.\nMusisz zwyciężyć, aby przejść do następnego dnia lub kolejnych zajęć.",
       "kr_sha256": "73f0dfa73628b29dafb3d7c58e1525198af37de939e42e55a89230bfa4b9eb9a",
       "en_sha256": "953652829be53666e0292ac3fd4cb3a5d0a3c2511e93f1e1ce75d0fd63ffbca7",
       "origin": "ai"
@@ -1645,7 +2197,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoMinigame8501_P2_D1].content": {
-      "pl": "Poza dniami ze stałymi zajęciami możesz wybrać na dany dzień łącznie 3 zajęcia (po 1 wybranego rodzaju).",
+      "pl": "Poza dniami ze stałymi zajęciami możesz wybrać na dany dzień łącznie 3 zajęcia (po 1 wybranego rodzaju).\nPula dostępnych rodzajów zajęć rośnie wraz z kolejnymi dniami.",
       "kr_sha256": "b3c6b230d77bf555a0a5867fd37c6bc981a8a762001060b08678290688ec5877",
       "en_sha256": "bada6fa84a215bbd25a35de0b006a54f9471ef223d0e707dfbd788210a9d5045",
       "origin": "ai"
@@ -1669,7 +2221,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoMinigame8501_P3_D1].content": {
-      "pl": "Zajęcia mogą zakończyć się sukcesem lub porażką. Sukces znacznie zwiększa przyrost statystyk, natomiast porażka znacznie go zmniejsza.",
+      "pl": "Zajęcia mogą zakończyć się sukcesem lub porażką. Sukces znacznie zwiększa przyrost statystyk, natomiast porażka znacznie go zmniejsza.\nIm wyższa kondycja, tym większa szansa na sukces.",
       "kr_sha256": "cff1f589b34afa337783c7e5dba8ad13f0cafa310c820d952cebc7ae8ac91bf3",
       "en_sha256": "5e19e96d0285cec49e06866b38acb5b919fa3ce13a5a3217fc422516f4a8869f",
       "origin": "ai"
@@ -1741,7 +2293,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoMinigame8501_P8_D1].content": {
-      "pl": "Każde odbyte zajęcia zapewniają im punkty doświadczenia. Po zapełnieniu paska PD zajęcia awansują na kolejny poziom.",
+      "pl": "Każde odbyte zajęcia zapewniają im punkty doświadczenia. Po zapełnieniu paska PD zajęcia awansują na kolejny poziom.\nWyższy poziom zajęć daje większy przyrost statystyk. Na poziomie mistrzowskim nie można ich już dalej ulepszać.",
       "kr_sha256": "61b404c4626a0819810d4b8a8c18c2198453c34d944c1f563ed0ebdd6fc9eb9f",
       "en_sha256": "0ab6d89765fd5fc4d1850e831596b42d04b6b7e4f089f6b86af05abcfecea0b4",
       "origin": "ai"
@@ -1891,7 +2443,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway1BokGak_P3_D4].content": {
-      "pl": "Poniżej widnieją nagrody za ukończenie danej stacji",
+      "pl": "Poniżej widnieją nagrody za ukończenie danej stacji\ndo odebrania w Biurze Rzeczy Znalezionych.",
       "kr_sha256": "858505d68d0224a937a578897c903291eb865da94253fb34232fbf9db76a7d84",
       "en_sha256": "4e324ac46b8ec5b0a7adaf8fe222dd431d679af15eb8452d84dcf61ff4280417",
       "origin": "ai"
@@ -1945,13 +2497,13 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway1BokGak_P5_D4].content": {
-      "pl": "Rezerwowi zyskują premię początkowych PP —",
+      "pl": "Rezerwowi zyskują premię początkowych PP —\nim dalsze miejsce w rozstawieniu, tym wyższe początkowe PP.",
       "kr_sha256": "ad91fd877058684b4771dd96d3596ca5b1ff722cfeb687603b5304e70d059f35",
       "en_sha256": "5ae147d6c463fef3fc27c26e805b5c47308e6bf54c412c9a4f793d562063e66c",
       "origin": "ai"
     },
     "dataList[id=TutoRailway1BokGak_P5_D5].content": {
-      "pl": "U Tożsamości z Monetami Ujemnymi",
+      "pl": "U Tożsamości z Monetami Ujemnymi\npremia początkowych PP ma wartość ujemną.",
       "kr_sha256": "930f82ea202b29af0d6fb9489e65402b7cfe06a9b5903f5c99b29342b31d0f79",
       "en_sha256": "e84a43622a9730f2682943a5a7da1d8c5f41458963a47da35cae658a5c21b7e4",
       "origin": "ai"
@@ -2040,6 +2592,360 @@
       "en_sha256": "86ff09a8f876c17f6ac717d9857d841777b02b8eda8f6496381720dcf2efa03b",
       "origin": "ai"
     },
+    "dataList[id=TutoRailway2BokGak_P10_D1].content": {
+      "pl": "Na Linii 2 śmierć Tożsamości zapewnia zasoby E.G.O odpowiadające grzechom jej podstawowych umiejętności ataku w liczbie równej ich randze, a tak jak w Walkach Seryjnych nie obniża PP pozostałych sojuszników.",
+      "kr_sha256": "5ab57d1aaae9a4503c1d751f36264f081188cd88b875a7055fa79a2994668f62",
+      "en_sha256": "538949b5c81edfee6214e89ca407da2e29f50a14fa8c29f1773b6ac17a754391",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P10_T1].content": {
+      "pl": "Walka — Pozostawiona Wola",
+      "kr_sha256": "bbe27696ff18b1f34b769a844922d02e27edd2e5e22b4e720abf6a1c3ce5e195",
+      "en_sha256": "86ff09a8f876c17f6ac717d9857d841777b02b8eda8f6496381720dcf2efa03b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P11_D1].content": {
+      "pl": "Przy każdym kolejnym cyklu wybierasz po 1 wzmocnieniu sojuszników oraz 1 wzmocnieniu wrogów.",
+      "kr_sha256": "45835fe24b8812fc596c2e1cbdf6ee6f3539817032f6c4262ade4b28c9167f87",
+      "en_sha256": "c37c27518e45c4ee79349f5df1af58ba854e7bd30bd8c3db0ecba16ba61af7f7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P11_D2].content": {
+      "pl": "Wszystkie wybrane efekty kumulują się i obowiązują w kolejnych walkach.",
+      "kr_sha256": "bb1bd7fc0d69299305058968faca0b9c03d84f392715f76ab3005157e2ab89aa",
+      "en_sha256": "3cc060a8e77601b2538ce000625579670d27bcffc3b67fe8cd96ac3ef49636c5",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P11_D3].content": {
+      "pl": "Wybierz 1 wzmocnienie sojuszników. Nie możesz wybrać efektu wybranego w bezpośrednio poprzedzającym cyklu.",
+      "kr_sha256": "8d4ccb096d9f61fb9424e0de5a932df20e17209dabebb97442a26819c85f05c9",
+      "en_sha256": "c8dd707eb15a86714dc5c7f2a36f2dc259de1b86dffcc7ceb0b2961259af49fd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P11_D4].content": {
+      "pl": "Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.\nJeśli jednak wszystkie efekty zostały już wybrane po razie, pula wyboru się resetuje i znów możesz wybrać dowolny efekt.",
+      "kr_sha256": "3e3f75f611c784789c7c172b5d7364cd60eeb08e0aedd85d8a8b259a14c48eb4",
+      "en_sha256": "f3d2ea4490cd6f19fd24c8be7ea7a5162e43210a2851a458b7d69d626bee8c37",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P11_D5].content": {
+      "pl": "Oprócz wybieranych wzmocnień każdy cykl nakłada dodatkowo 1 stałe wzmocnienie.",
+      "kr_sha256": "2033bd4021a3d180b25b95ea4a3a71f9b18533d75397961123bfc30d686b8ed0",
+      "en_sha256": "f3e114ba229590cd3b766858b1c90f9886acb0aa71da4f22de7a39ce325f8656",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P11_T1].content": {
+      "pl": "Wybór wzmocnień",
+      "kr_sha256": "1512c0a2696cfadec2aeae44d19721fc97a9883f17b21f42b8ded55224f995b2",
+      "en_sha256": "bf0d52e717c75cc2fd2ff7de5cadef4e2382556adb4c17bffa550cb86668eb7c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P15_D1].content": {
+      "pl": "Gdy liczba cykli wynosi co najmniej 1, aktywuje się Stacja końcowa pośrodku linii.",
+      "kr_sha256": "1d6fbd14de4a40dda5a78a6b387553022ab57d90213b1b5121c59846893b762c",
+      "en_sha256": "07960e3b923e76993b0fd042dc6a4566e158df2adf4bb56b42ef13fb2368a942",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P15_D2].content": {
+      "pl": "Po aktywacji Stacji końcowej możesz swobodnie wejść na nią z dowolnego cyklu.",
+      "kr_sha256": "ed52ad83397f07a11f7fb2fd2ac1f6e6b190a92ac72a976ed215606c37fdbc9f",
+      "en_sha256": "ab4e5a14b55142de323017871a50f06f3aa690f54796fc9302e0c7169daf86d9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P15_D3].content": {
+      "pl": "Po wejściu na Stację końcową nie można już wrócić na poprzednią stację — podejmij decyzję rozważnie.",
+      "kr_sha256": "3b61275702bed6e537e4deb002690e8ab0177f67c0710d231fa79abb92d56512",
+      "en_sha256": "e8713ff9ee5828efce84a2950b54848da40f13a8d2bdd22343962122081f119f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P15_D4].content": {
+      "pl": "Ukończenie Stacji końcowej to ostateczny cel Kolei Załamania — Linii 2. Po jej przejściu zapisywane są liczba cykli, łączna liczba tur, uczestniczące Tożsamości i E.G.O oraz lista wzmocnień.",
+      "kr_sha256": "e6ae05bf9f44798861be86dd2f6de2254def642f18e2563601cd8d01ff3a9ed4",
+      "en_sha256": "d8289f50d3d27d07f2ad515c56d747585988527a2e3efd644c16602ed866ceee",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P15_T1].content": {
+      "pl": "Stacja końcowa",
+      "kr_sha256": "b499138752f58eca702041911f4515106f3b8990fb765abf8fd9cd070cc80dc0",
+      "en_sha256": "c80e639e3cb3df202220860a6de386bfd8cca6333206d34fa6e2ac9bd4bfe5de",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P16_D1].content": {
+      "pl": "Po ukończeniu każdej stacji w oknie informacji sprawdzisz tury ukończenia, łączne tury oraz statystyki uczestniczących Tożsamości.",
+      "kr_sha256": "da86d61783789edf2e463aad6ffb41105159bcaa3500c7e534a9ec2787711b58",
+      "en_sha256": "8737c6a3db62db5f86fee34b59155ff7ea856f401e2abbce7599690d72351bc0",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P16_T1].content": {
+      "pl": "Informacje o ukończeniu",
+      "kr_sha256": "75c40718df11fea39bb8d61e83dc663543dcf7d1adc4690e258cdbd1fc238e04",
+      "en_sha256": "d0321c201f4932178f044ff2b9b93666d10ab4ffef092809347af3385ee4fc7b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P17_D1].content": {
+      "pl": "Zasoby E.G.O pozostałe po ukończeniu stacji można wykorzystać na następnej stacji.",
+      "kr_sha256": "359971e9a1f6a2a915ca93374a578b3d283c888ba4e85ac0471c3ab11ba179d2",
+      "en_sha256": "854e4e18de09dc50023b9d5220740dd070f8ff4f2fedf9183dd2e6dd03f153c2",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P18_D1].content": {
+      "pl": "Tutaj sprawdzisz aktualną liczbę ukończonych cykli oraz łączną liczbę tur.",
+      "kr_sha256": "4ac8309045aee219792313c41b59259ade62cf24458a3b5be5a0e3b31e11e55f",
+      "en_sha256": "595b200144507653ad4e362999ca178c8e39e8dc36a2c1736abbf358ca1ca20b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P19_D1].content": {
+      "pl": "W razie zagłady całej drużyny możesz wrócić do ekranu wejścia, aby zmienić kolejność rozstawienia, albo natychmiast ponowić bieżącą walkę.",
+      "kr_sha256": "1ea56bca551fb8c671aab09057c40f483761d74e1ac66f0ccc6e573b44fdcf5e",
+      "en_sha256": "1dcd8cbe7999c899b054b6ba0aa6dc776836b484e9b08d8e8bd525221c321de1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P1_D1].content": {
+      "pl": "Wybierz aktywną linię, aby wejść swobodnie bez zużywania walut.",
+      "kr_sha256": "bd116473cfbc90a055e1bf0f1bf2f214a58248f0450ac13f1ed0a8d5208380e8",
+      "en_sha256": "ee4fc977b43618f6853716618d6152051620c447b95beec74b9e7e133aa61480",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P1_T1].content": {
+      "pl": "Odblokowanie Kolei Załamania",
+      "kr_sha256": "974086d5f9049a37515d1095d3bed3a1764151d4976bc300bd1a539b161832bf",
+      "en_sha256": "8507df5b856e1528a3ffcfaf77072343d78516d473b90da7500b19f96e2c48db",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P20_D1].content": {
+      "pl": "Tutaj sprawdzisz warunki zdobycia banerów Kolei Załamania — Linii 2 BokGak.",
+      "kr_sha256": "da8e466b245dfa58104ca4f842882d3cac84f646a726e6d02b80ca6112d7bebb",
+      "en_sha256": "0c97118463f0155306e99ef220e735dd97cb2e1570d1b1feb28d81ba18abbba4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P20_T1].content": {
+      "pl": "Warunki zdobycia banerów",
+      "kr_sha256": "0a5c14cb9c347bc79f264b437852ddbdbbc51f29b460a313427e4ca372c3d8a1",
+      "en_sha256": "06479652806cbf1225325d27ffb57afbc4dad5b50a14ab108fda7ebcb05c9988",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P21_D1].content": {
+      "pl": "Po pierwszym ukończeniu etapu nagroda trafia do Biura Rzeczy Znalezionych i zostaje aktywowana.",
+      "kr_sha256": "0e84209938d307f5cfeb6e387462770ad4c718fc40396cc4f4cb90b402da94f0",
+      "en_sha256": "1cfb9d621d92bcf5c580195844a2275b247d90da2cc87b8555b5d7350d52485b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P21_D2].content": {
+      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.",
+      "kr_sha256": "1546c6dc5f60fe8bd7aafe8d93ad3ab14c5583eb97f38d5fd6d096796427c8a5",
+      "en_sha256": "c2e4d4d931b1b3ddac658b6b252cc1ac5a47727d0084a82cea87f6432eb36ccd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P21_D3].content": {
+      "pl": "Kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.",
+      "kr_sha256": "51993518c40e89537e19b2662c81a989f715cf0537216bd5c1d0359c1383e490",
+      "en_sha256": "19e90e0d7a887c03b1d4052ac243df93d3079d8a8a75f3368bf96c0f68b30338",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P21_T1].content": {
+      "pl": "Biuro Rzeczy Znalezionych",
+      "kr_sha256": "8db29c7cf59439f7434c0b4edf362d12e459cc254d2e6ac88f3cc9fd8812b910",
+      "en_sha256": "b9b39c7466af834408b38509368419784487466557996d0888fc25209b23370a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P2_D1].content": {
+      "pl": "Zalecane parametry wejścia do Kolei Załamania widnieją u góry linii.",
+      "kr_sha256": "df6caa2488252b7326409d2f48210b94f568e51dccff91f5a793dd5cde9785d5",
+      "en_sha256": "c56f50dbd78961e6d618392b024aa6ce53aba76d639a5308c248c03eb843041f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P2_D2].content": {
+      "pl": "Zalecamy wejście po osiągnięciu sugerowanych parametrów rozwoju.",
+      "kr_sha256": "9773aa3704a4e0cf4dd095a237b3e336963160c16531fb8c92b0ebdcfa026f8b",
+      "en_sha256": "a97677b5cf16e9aae33c0b9a1fa33f2d7140a2019b4437d30142931bc064b1f8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P2_T1].content": {
+      "pl": "Zalecane parametry wejścia",
+      "kr_sha256": "7cfbd93f944faa379ea039ea46bdf968472c8a7e410686740d083daf1c1f032c",
+      "en_sha256": "9d8fc03b5465c2edf25e8f1d13cea175291e74afc1e3e1076b49a1c2175c95dd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P3_D1].content": {
+      "pl": "Linia 2 liczy łącznie 9 stacji.",
+      "kr_sha256": "43cd9eeea4de36939a8cb50ae84da1c43186893ec4ffd7d1621ff252952b00dd",
+      "en_sha256": "2fd86ad0d1a5876b61968fd4367606557fc5a67718f8fc55b832ce5f048a517d",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P3_D2].content": {
+      "pl": "Zależnie od liczby cykli widoczne są wyłącznie stacje bossów występujących na danym etapie.",
+      "kr_sha256": "f7865dfbb847eddd0dc39cbbeaaa86493b80dacf9c91aa3e3baab1d978251fe5",
+      "en_sha256": "a938d0a7a8109fb0e69e1bec56f77c43209fd30c6f15e583cfdcdb58484f30fa",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P3_D3].content": {
+      "pl": "Wszystkie stacje widoczne w danym cyklu tworzą razem jeden etap Walki Seryjnej.",
+      "kr_sha256": "0d508aa438bb72c6572bcb9db1ac9904ceb158364a3f0eb2f5814ea86f1c5251",
+      "en_sha256": "85be5decb3b71e590c4e605215e495dd0fbd2cc982601a210e76ccfd5ad982f8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P3_T1].content": {
+      "pl": "Stacje Linii 2",
+      "kr_sha256": "4570ea787af78a39295be7bd7f3dba092ab895abb5a044a4f1ba87321e544f92",
+      "en_sha256": "28845d65bfea5317c17deceb7831116ba303df94b640d59d45313ea2c31c2edc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P4_D1].content": {
+      "pl": "Po ukończeniu wszystkich otwartych stacji na linii automatycznie przechodzisz do następnego cyklu.",
+      "kr_sha256": "ee657f9daf464adfdd0d45c59b21cc30318d8ee4e7d13f61e8fb809bd2ed8741",
+      "en_sha256": "55cae4a708b149d11b7749425aebabaa4b953e74c37acf4a7fea1f0cce8bbfa2",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P4_D2].content": {
+      "pl": "Przejście do kolejnego cyklu zwiększa liczbę cykli o 1.",
+      "kr_sha256": "94a674b66fbacfeed321c3db88241f658872689200fe1f3a3be9ecc4fcd98156",
+      "en_sha256": "ed14d1628dab552de9288cf7c60429ec191940ac9e2a125cbaa6af32d8e9940e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P4_D3].content": {
+      "pl": "Niektóre stacje odblokowują się wraz ze wzrostem liczby cykli.",
+      "kr_sha256": "14afdae547397692875d57158e90a1a9df6141f3e7bacac6fe4245233285db7b",
+      "en_sha256": "78e27e73bf8fc7084f0233e5ac56de4fb3e9a84712649309b11d734a465cf1b7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P4_D4].content": {
+      "pl": "Nie można ponownie rozegrać bezpośrednio poprzedzającego cyklu.",
+      "kr_sha256": "9093cf07b998c30e1dea3057286936942a365baffc8f5ab484a9facced9d3c9a",
+      "en_sha256": "15c5b49beed39898a3933fbd8939370d18a8c59b537da1b715732a639bdf5f10",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P4_T1].content": {
+      "pl": "Cykl",
+      "kr_sha256": "f16e733fcdca8685bc98265e29c79191e9f336ec1b9391d271541d6769d9dd0d",
+      "en_sha256": "518653530449cca8e2fb27b7d3c3d3c10394feac2cfa74769e6c125206477d81",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P5_D1].content": {
+      "pl": "Na Linii 2 informacje o wszystkich wrogach są jawne od samego początku. Dobierz odpowiedni skład Tożsamości oraz E.G.O pod kątem strategii.",
+      "kr_sha256": "0711453920d6205d549e921eb7f718212f06aa81bcb72ad4510dd6e324e7425c",
+      "en_sha256": "16597aef27b3fe49d44bfc3df10f3e6d6b54fd3e128b815bd38f794f695a0b5c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P5_D2].content": {
+      "pl": "Premia do obrażeń wynikająca z Poziomu Obserwacji nie jest jednak aktywna.",
+      "kr_sha256": "4fdb1d5c5c1fed42c2a606a23dc8d14be4b30d20afa2a2bccc2e59e8fab7adb6",
+      "en_sha256": "41102cdcc045a1fca27678345f05026dfa4b2b96ecfc86ddc3785c4098fac1c8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P5_D3].content": {
+      "pl": "Na Linii 2 zaktualizowane wpisy Kompendium zostają zapisane nawet przy ponowieniu lub poddaniu walki.",
+      "kr_sha256": "1013706666c5eae5ca18c8a041d647c19520210ca9f8e09ffcbd01f40d675eac",
+      "en_sha256": "291bad072b7c75dab3a61c43fe2062fde73adda80d576fd731c7611819fc6ea9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P5_T1].content": {
+      "pl": "Kompendium",
+      "kr_sha256": "0a7a5b87c8690e57afc07e3c5dc250121889d695e930c44f01b2099114c1941b",
+      "en_sha256": "de6f3287ddaa113575c513653c392f729d5b3c23a69c1b2f1191111dae590075",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P6_D1].content": {
+      "pl": "Uformuj skład z posiadanych Tożsamości oraz E.G.O i rozpocznij wyprawę.",
+      "kr_sha256": "bff6b349b3be6f60244b4d802b1e4bcf45dc45e802cfa11d01c9fac09a39d63a",
+      "en_sha256": "4b32adce6373bf5089a3304ba606505c297e461836bf590e3882ebd750c2605b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P6_D2].content": {
+      "pl": "Skład drużyny można zmieniać w każdym cyklu. Z każdym nowym cyklem PŻ Grzeszników wracają do maksimum, natomiast PP przechodzą z poprzedniego cyklu.",
+      "kr_sha256": "659b82f702f35c7d92c6ff160e13d5f8a8b6c255cd0295dddb5eef5c1fa886a4",
+      "en_sha256": "7c2f8f46f273e40f70b76e4c33ab1a3fb6aa88010b45a1957a660d85d8d2ce8a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P6_D3].content": {
+      "pl": "Podniesienie poziomu Tożsamości, stopnia Synchronizacji lub stopnia Splotu Nici E.G.O poza Koleją Załamania zostanie uwzględnione także w trwającej wyprawie.",
+      "kr_sha256": "2ad34883b5f69f3a5b5da0b91eae9637926ee13c67099aed7bd31ecb11803b49",
+      "en_sha256": "a3bb18f1ccce77a3c6998869c7ba3df077fc4258889f152549de98b48c1b74e8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P6_D4].content": {
+      "pl": "Rezerwowi otrzymują premię początkowych PP — im dalsze miejsce w kolejności rozstawienia, tym wyższe początkowe PP.",
+      "kr_sha256": "ad91fd877058684b4771dd96d3596ca5b1ff722cfeb687603b5304e70d059f35",
+      "en_sha256": "22bc6f1a617294d1b1299dd3a4c2fb827ea477409fd247c342c00841bac94315",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P6_D5].content": {
+      "pl": "U Tożsamości z Monetami Ujemnymi\npremia początkowych PP ma wartość ujemną.",
+      "kr_sha256": "930f82ea202b29af0d6fb9489e65402b7cfe06a9b5903f5c99b29342b31d0f79",
+      "en_sha256": "e84a43622a9730f2682943a5a7da1d8c5f41458963a47da35cae658a5c21b7e4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P6_T1].content": {
+      "pl": "Skład drużyny",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "90b695e418e1802842923cf2d238cfc876808a03ff005482d2eab18270e5f811",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P7_D1].content": {
+      "pl": "Linia 2 rozgrywana jest w trybie Walki Seryjnej.",
+      "kr_sha256": "b6c946db8e048e73276b5a2cb310ad7344a30685292862c864f564bd9017f4ef",
+      "en_sha256": "313acd14c4f9a93e1cefe21248cfd9fc4825f4a4f537b727bff8ee42901bb1a4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P7_D2].content": {
+      "pl": "W Walce Seryjnej po śmierci uczestnika podstawowego jego miejsce zajmują rezerwowi zgodnie z ustaloną kolejnością.",
+      "kr_sha256": "18dc40d054a9305d1ab48348dd35b6f4b74f259572b76a1cc4da3582d262f870",
+      "en_sha256": "ed473e2dcf880ac88ca55e715c35ff706bffe13519d34490528af444265f2789",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P7_D3].content": {
+      "pl": "Aby wejść, musisz obsadzić wszystkich 7 uczestników podstawowych oraz 5 rezerwowych.",
+      "kr_sha256": "964004d3bfa2fd5b9eca5308af6e0191df2427a3bea5b373fac3a618fdb41d17",
+      "en_sha256": "474c621eb8f633d5ea46a1cfe6c3b067fd4f712fbc94ac08e49b96f9e9832c59",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P7_T1].content": {
+      "pl": "Ustawienie drużyny — Walka Seryjna",
+      "kr_sha256": "e4b8774255948c862fb1c740190ed3caedaca2cc7182e3297d53474cf41ded1f",
+      "en_sha256": "3f40735a0faf192d0e30d4f2852893daf4fa5f0dd030ce793ba6381622dd405b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P8_D1].content": {
+      "pl": "Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciwko umiejętnościom wrogów.",
+      "kr_sha256": "35e0d69fee1bb6fbb793d6d60138eef7f3864ee3a0a19092992c8f00526e42db",
+      "en_sha256": "f766193fda0042499c239d00a6a2b4bce71e817337fa9c7e935a5127eb4efe35",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P8_D2].content": {
+      "pl": "Maksymalna zapisywana liczba tur na etap wynosi 100 — przekroczenie 100 tur skutkuje porażką.",
+      "kr_sha256": "6017ed81997f892006229fc00bde4c9819b3977d7dc49629a6bf801355bfcfde",
+      "en_sha256": "e247b36f9ffe75a46dcd8f71b7e498ebb5f5a4c380ce206ea4a3465683e31cd6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P8_T1].content": {
+      "pl": "Walka",
+      "kr_sha256": "62d08c54f0033da2bf9ef04bf651d69c4f6b75e11296520002ef28afb5b956d3",
+      "en_sha256": "49fcf2c78b506b3e32115f752124e4ee1b998f4f578cc2d35425e6ee3eb203a6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P9_D1].content": {
+      "pl": "Gdy uczestnik podstawowy zginie, rezerwowi zajmują jego miejsce zgodnie z ustaloną kolejnością.",
+      "kr_sha256": "a09e9726495d5400cbc1aba0c14b01e4c8a57a0a5d60ddbf9edf3f3c23299f2f",
+      "en_sha256": "8143517944ecd3ceb5ccefcc46e725e268a1a4063de2f43d48ea2898b15e26c9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P9_D2].content": {
+      "pl": "Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.",
+      "kr_sha256": "633eadb3f79542252224e7976866601052da61f8b00b411675c6c89cefa5dc9e",
+      "en_sha256": "e3b2db422aef83ca95ee66547dd400c85497f5399c30d5d0f3e49af4e4682a60",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P9_D3].content": {
+      "pl": "Gdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę wsparcia.",
+      "kr_sha256": "064f73de2a90046b269bdb005840adbb3428e61898f25598ddd76264ccf29d7a",
+      "en_sha256": "2c1ff9c5d52b6c38617aaaaddbf68bef1bcc70988317890f5f7f4388e2fe3142",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway2BokGak_P9_T1].content": {
+      "pl": "Walka — Walka Seryjna",
+      "kr_sha256": "d14345aa86f930c1db80f032037877240109b4bee24edec8faff00d37c02d9cb",
+      "en_sha256": "44a7e815447de986aa8f74032c38c210015206427de449e784f55114c58df849",
+      "origin": "ai"
+    },
     "dataList[id=TutoRailway5_P10_D1].content": {
       "pl": "Gdy uczestnik podstawowy zginie, rezerwowi zajmują jego miejsce zgodnie z ustaloną kolejnością.",
       "kr_sha256": "a09e9726495d5400cbc1aba0c14b01e4c8a57a0a5d60ddbf9edf3f3c23299f2f",
@@ -2047,7 +2953,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P10_D2].content": {
-      "pl": "Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.",
+      "pl": "Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.\n\nGdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę wsparcia.",
       "kr_sha256": "ef9943cea6f4a4a7d7a5bc3f1c2061ad32123225cb11c73971604478885f5419",
       "en_sha256": "cce54eb29d06953e54b0afa887a5821c2d56a6d2c760b339b1b1ea449a0dd221",
       "origin": "ai"
@@ -2143,7 +3049,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P18_D2].content": {
-      "pl": "Po zdobyciu baneru widnieje na nim łączna liczba tur z twojego najlepszego rekordu.",
+      "pl": "Po zdobyciu baneru widnieje na nim łączna liczba tur z twojego najlepszego rekordu.\nZmniejszenie łącznej liczby tur zaktualizuje zapis na banerze. W razie równej łącznej liczby tur zapisywany jest najnowszy rekord.",
       "kr_sha256": "3dea1579cdcf100a18760357273fe754ee0d4053603b920c4f428a23ceb243f3",
       "en_sha256": "aee1706ec30c093f5665c08e3b0ed4687f60bab9a2ad729ce805277a8598e6b1",
       "origin": "ai"
@@ -2161,7 +3067,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P19_D2].content": {
-      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.",
+      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.\n\nKolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.",
       "kr_sha256": "15cc81332046f3236a3cbb1991252e39ab5be3a9a3cbec5f1d013a72b6fe2b7c",
       "en_sha256": "8d9da4a95b0d078c263fc6120caee8a907b8fd8a25aeb91f3317600a9367f0fe",
       "origin": "ai"
@@ -2179,7 +3085,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P1_D2].content": {
-      "pl": "Wybierz aktywną linię, aby wejść.",
+      "pl": "Wybierz aktywną linię, aby wejść.\n\nWejście do Kolei Załamania nie zużywa żadnych walut.",
       "kr_sha256": "a154422e4bb717bc69de6ccaf7fed6223e9461c15597bc70d3a22eefc93463c0",
       "en_sha256": "3fcf4ac6183bc99c6d6f20855830ccc8f7f27761427e2e78e2d0365f140c0dfc",
       "origin": "ai"
@@ -2245,7 +3151,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P4_D1].content": {
-      "pl": "Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.",
+      "pl": "Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.\n\nObok niej zapisywana jest łączna liczba tur będąca sumą tur ukończenia wszystkich odcinków od Odcinka 1 do bieżącego.",
       "kr_sha256": "a63515aea6a1f93500fca58afbc0b226c61e453c8639e6de1c7b1599f9cf749a",
       "en_sha256": "0018d6d69390c08ab8e7abb0cb407c8f054e2efce8b7b6aa6929d24a851169af",
       "origin": "ai"
@@ -2263,7 +3169,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P5_D1].content": {
-      "pl": "Linia 5 rozgrywana jest w trybie Walki Seryjnej.",
+      "pl": "Linia 5 rozgrywana jest w trybie Walki Seryjnej.\n\nW Walce Seryjnej po śmierci uczestnika podstawowego jego miejsce zajmują rezerwowi zgodnie z ustaloną kolejnością.",
       "kr_sha256": "a7b23f0341cf1a6b46e26325d60e3ebd82da08506c3a316b9e78edad4a9093cf",
       "en_sha256": "f7ec00d9b73aa026f66a1a572ce8f2c91d32ce17713d23d2141ce9c8106b1d65",
       "origin": "ai"
@@ -2281,7 +3187,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P6_D1].content": {
-      "pl": "Na Linii 5 nie możesz użyć tych samych Tożsamości na Odcinku 1 oraz Odcinku 2.",
+      "pl": "Na Linii 5 nie możesz użyć tych samych Tożsamości na Odcinku 1 oraz Odcinku 2.\nDla każdego z tych odcinków należy wyznaczyć osobną drużynę Tożsamości.",
       "kr_sha256": "bddd052345c6ad9f4869f7f2070df7f613d1126ca4042f69597dba2b1c83556e",
       "en_sha256": "42077b2c09bf603b8d783cdcffb6a3d786b69eecd8a3f6869a5d3f527206209e",
       "origin": "ai"
@@ -2311,7 +3217,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P7_D3].content": {
-      "pl": "Rezerwowi otrzymują premię początkowych PP — im dalsze miejsce w kolejności rozstawienia, tym wyższa wartość początkowych PP.",
+      "pl": "Rezerwowi otrzymują premię początkowych PP — im dalsze miejsce w kolejności rozstawienia, tym wyższa wartość początkowych PP.\n\nW przypadku Tożsamości z Monetami Ujemnymi premia początkowych PP ma wartość ujemną.",
       "kr_sha256": "3bdcde8575ffd3f9952070ef7a2a01b1132f695f2e28713ca4c7366cd73cb383",
       "en_sha256": "626ff1403711a1ed9cc5527c81340d3baef41f74118171cac7b2c90afa2f5721",
       "origin": "ai"
@@ -2323,7 +3229,7 @@
       "origin": "ai"
     },
     "dataList[id=TutoRailway5_P8_D1].content": {
-      "pl": "Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.",
+      "pl": "Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.\nMaksymalna zapisywana liczba tur na odcinek wynosi 100 — przekroczenie 100 tur na jednym etapie oznacza porażkę.",
       "kr_sha256": "48232394b871af51c8eb94c87ffb7cf08a009b1530a743b3caa59e70721c5ce6",
       "en_sha256": "8d1b97601e3c93d96fa5805e46a1f14ae06d8f4aa39e5ee7df5cf0a0301376c0",
       "origin": "ai"
@@ -2356,6 +3262,1050 @@
       "pl": "Kompendium",
       "kr_sha256": "0a7a5b87c8690e57afc07e3c5dc250121889d695e930c44f01b2099114c1941b",
       "en_sha256": "de6f3287ddaa113575c513653c392f729d5b3c23a69c1b2f1191111dae590075",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P10_D1].content": {
+      "pl": "Gdy uczestnik podstawowy zginie, rezerwowi zajmują jego miejsce zgodnie z ustaloną kolejnością.",
+      "kr_sha256": "a09e9726495d5400cbc1aba0c14b01e4c8a57a0a5d60ddbf9edf3f3c23299f2f",
+      "en_sha256": "8143517944ecd3ceb5ccefcc46e725e268a1a4063de2f43d48ea2898b15e26c9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P10_D2].content": {
+      "pl": "Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.",
+      "kr_sha256": "633eadb3f79542252224e7976866601052da61f8b00b411675c6c89cefa5dc9e",
+      "en_sha256": "e3b2db422aef83ca95ee66547dd400c85497f5399c30d5d0f3e49af4e4682a60",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P10_D3].content": {
+      "pl": "Gdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę wsparcia.",
+      "kr_sha256": "064f73de2a90046b269bdb005840adbb3428e61898f25598ddd76264ccf29d7a",
+      "en_sha256": "2c1ff9c5d52b6c38617aaaaddbf68bef1bcc70988317890f5f7f4388e2fe3142",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P10_T1].content": {
+      "pl": "Walka — Walka Seryjna",
+      "kr_sha256": "d14345aa86f930c1db80f032037877240109b4bee24edec8faff00d37c02d9cb",
+      "en_sha256": "44a7e815447de986aa8f74032c38c210015206427de449e784f55114c58df849",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P11_D1].content": {
+      "pl": "Na Linii 6 śmierć Tożsamości zapewnia zasoby E.G.O odpowiadające grzechom jej podstawowych umiejętności ataku w liczbie równej ich randze, a tak jak w Walkach Seryjnych nie obniża PP pozostałych sojuszników.",
+      "kr_sha256": "30f82507a5f60339def52488303fdedbb7618c65fb161a15f0ff69a3c64939e9",
+      "en_sha256": "1c15dc8c44d560a37ebb63e7ada193618fffdc88ffea0c2aecff4e948daaf12c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P11_T1].content": {
+      "pl": "Walka — Pozostawiona Wola",
+      "kr_sha256": "bbe27696ff18b1f34b769a844922d02e27edd2e5e22b4e720abf6a1c3ce5e195",
+      "en_sha256": "86ff09a8f876c17f6ac717d9857d841777b02b8eda8f6496381720dcf2efa03b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P12_T1].content": {
+      "pl": "Niektórzy wrogowie na Linii 6 podlegają efektom kolejności rozstawienia.",
+      "kr_sha256": "9aaa4d4d06ffb742d10cd0964d5b9321f319052776c733d7d9570f51e8b39124",
+      "en_sha256": "3add7bcc51c23025ff862c861ec1ac476de022c6ced3e2df92fe8c05ab4e64bf",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P13_D1].content": {
+      "pl": "Po ukończeniu każdej stacji w oknie informacji sprawdzisz tury ukończenia, łączne tury, efekty zdobyte w poszczególnych starciach oraz statystyki uczestniczących Tożsamości.",
+      "kr_sha256": "58628ba98d467bb74e3b22e633d76edc4aefce0fd023fa4b5e340df8efac2e7d",
+      "en_sha256": "ffae6c8f054227a09f521fa15a586c56dccc76d190742772560fb0586f216701",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P13_T1].content": {
+      "pl": "Informacje o ukończeniu",
+      "kr_sha256": "75c40718df11fea39bb8d61e83dc663543dcf7d1adc4690e258cdbd1fc238e04",
+      "en_sha256": "d0321c201f4932178f044ff2b9b93666d10ab4ffef092809347af3385ee4fc7b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P14_D1].content": {
+      "pl": "Zasoby E.G.O pozostałe po ukończeniu stacji można wykorzystać na następnej stacji.",
+      "kr_sha256": "359971e9a1f6a2a915ca93374a578b3d283c888ba4e85ac0471c3ab11ba179d2",
+      "en_sha256": "854e4e18de09dc50023b9d5220740dd070f8ff4f2fedf9183dd2e6dd03f153c2",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P15_D1].content": {
+      "pl": "W razie zagłady całej drużyny możesz wrócić do ekranu wejścia, aby zmienić kolejność rozstawienia, albo natychmiast ponowić bieżącą walkę.",
+      "kr_sha256": "1ea56bca551fb8c671aab09057c40f483761d74e1ac66f0ccc6e573b44fdcf5e",
+      "en_sha256": "1dcd8cbe7999c899b054b6ba0aa6dc776836b484e9b08d8e8bd525221c321de1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P16_D1].content": {
+      "pl": "W trakcie wyprawy możesz rozpocząć grę od nowa od wybranego ukończonego wcześniej etapu.",
+      "kr_sha256": "a5e682c7de03d4a3897879844f5e69ad76967b32088917e5251f269d77bcd9bd",
+      "en_sha256": "f46324a5fa4273d4a206103878cee3cd5f20d718d66b79cb81091d1aab5502ba",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P16_D2].content": {
+      "pl": "Rozpoczęcie od wybranego etapu przywraca stan Tożsamości oraz posiadane zasoby E.G.O z momentu wejścia na ten etap, a rekordy późniejszych etapów zostają wyczyszczone.",
+      "kr_sha256": "fa77a6c35c0c45a42cae84906245a7ca59e1ed5980cc5562d68f358dbc0be6a6",
+      "en_sha256": "e8a1c778aec6cb91d081a54a36e52fec9bab6c3a00d9ad11e4f54e3e4076bc16",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P16_T1].content": {
+      "pl": "Bicie rekordów",
+      "kr_sha256": "952c55a8b259fa25dd57aa58c1b4412f8e1afca14dce7cb77e5ca97cba5a7571",
+      "en_sha256": "4861dede644706e438b4306deedce796cdcc1855ec8934548a4d583d749e93fa",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P17_D1].content": {
+      "pl": "Tutaj sprawdzisz warunki zdobycia banerów Kolei Załamania — Linii 6.",
+      "kr_sha256": "e63df316d714fd8db6b514d098dbdd1b7aeccf47bb37d8482b70d575d6eec823",
+      "en_sha256": "5e600e0bd19e912cc6cabcde33d586e0567d42d955ea92dfa3c13b2031779510",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P17_T1].content": {
+      "pl": "Warunki zdobycia banerów",
+      "kr_sha256": "0a5c14cb9c347bc79f264b437852ddbdbbc51f29b460a313427e4ca372c3d8a1",
+      "en_sha256": "06479652806cbf1225325d27ffb57afbc4dad5b50a14ab108fda7ebcb05c9988",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P18_D1].content": {
+      "pl": "Po pierwszym ukończeniu etapu nagroda trafia do Biura Rzeczy Znalezionych i zostaje aktywowana.",
+      "kr_sha256": "0e84209938d307f5cfeb6e387462770ad4c718fc40396cc4f4cb90b402da94f0",
+      "en_sha256": "1cfb9d621d92bcf5c580195844a2275b247d90da2cc87b8555b5d7350d52485b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P18_D2].content": {
+      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.",
+      "kr_sha256": "1546c6dc5f60fe8bd7aafe8d93ad3ab14c5583eb97f38d5fd6d096796427c8a5",
+      "en_sha256": "c2e4d4d931b1b3ddac658b6b252cc1ac5a47727d0084a82cea87f6432eb36ccd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P18_D3].content": {
+      "pl": "Kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.",
+      "kr_sha256": "51993518c40e89537e19b2662c81a989f715cf0537216bd5c1d0359c1383e490",
+      "en_sha256": "19e90e0d7a887c03b1d4052ac243df93d3079d8a8a75f3368bf96c0f68b30338",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P18_T1].content": {
+      "pl": "Biuro Rzeczy Znalezionych",
+      "kr_sha256": "8db29c7cf59439f7434c0b4edf362d12e459cc254d2e6ac88f3cc9fd8812b910",
+      "en_sha256": "079ff6dbb1eb1990a4e8b75e766810b005d32a1578426e80a01c52ca71ea8fdf",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P19_D1].content": {
+      "pl": "Po ukończeniu finałowego etapu zapisywany jest rekord przejścia Kolei Załamania; możesz przeglądać maksymalnie 20 rekordów.",
+      "kr_sha256": "4fcd5b96f1e05beb6f59925348e698e424e86ec32d1ca38bdc316d6334b32b40",
+      "en_sha256": "b90e74fc069aec983013417269fc5e76743eecfc1eb2ecd62ed463c1eb75e3cb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P19_D2].content": {
+      "pl": "Po przekroczeniu 20 rekordów w pierwszej kolejności usuwane są zapisy z największą łączną liczbą tur.",
+      "kr_sha256": "d467886994fe7c681ab499edbbfc3077dbdbfbfc3042290df51c98bbd5bd49ad",
+      "en_sha256": "29a2cd5d1ea7ad966f2c2080301c8af314096f688916b647b511c06d6ad0fda4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P19_T1].content": {
+      "pl": "Historia rekordów",
+      "kr_sha256": "40a2e500ab7a0f0b9241ef756beb8a43065d0209b4d845d90b17a37ea5623fba",
+      "en_sha256": "8c76071b2ae82456278217072f1aa0cd01f31c78b5f055c45655b9a91a8af1b7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P1_D1].content": {
+      "pl": "Wybierz aktywną linię, aby wejść swobodnie bez zużywania walut.",
+      "kr_sha256": "bd116473cfbc90a055e1bf0f1bf2f214a58248f0450ac13f1ed0a8d5208380e8",
+      "en_sha256": "ee4fc977b43618f6853716618d6152051620c447b95beec74b9e7e133aa61480",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P1_T1].content": {
+      "pl": "Odblokowanie Kolei Załamania",
+      "kr_sha256": "974086d5f9049a37515d1095d3bed3a1764151d4976bc300bd1a539b161832bf",
+      "en_sha256": "8507df5b856e1528a3ffcfaf77072343d78516d473b90da7500b19f96e2c48db",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P2_D1].content": {
+      "pl": "Zalecane parametry wejścia do Kolei Załamania widnieją z boku linii.",
+      "kr_sha256": "b3c8c3415b0d2e90c4007e816d99f14cd2520ea89d91b341f410ebc37eb42c2f",
+      "en_sha256": "f09b6a04004941c293140e12b700de9073d82ca6f919a697faac575d0ff95e75",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P2_D2].content": {
+      "pl": "Kolej Załamania to zawartość bojowa o wysokim poziomie trudności. Zalecamy wejście dopiero po spełnieniu sugerowanych parametrów rozwoju.",
+      "kr_sha256": "616725edb243295b0dcfdd02ad1b4f23784c0b0132078cc9acc7aa1ba9e2e875",
+      "en_sha256": "7416e05229e3d8ba6e4e720acc5054b811b9d8c2cb897686cfdd568caf98b549",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P2_T1].content": {
+      "pl": "Zalecane parametry wejścia",
+      "kr_sha256": "7cfbd93f944faa379ea039ea46bdf968472c8a7e410686740d083daf1c1f032c",
+      "en_sha256": "d010fd65c720540bf3330abbf43aa9b68238301db3df9b43eb7237baee58993c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P3_D1].content": {
+      "pl": "Linia 6 liczy łącznie 8 stacji połączonych w poszczególne odcinki, z których każdy stanowi osobny etap.",
+      "kr_sha256": "6491d7aca13890ebabf6b2a4667c54ea80bd53236351e66cd03b609fb11b86d7",
+      "en_sha256": "f6b54ce692cbb6f925f53f064d064081c09f6e2affe308f4b126fccc8c29289b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P3_D2].content": {
+      "pl": "Linia 6 składa się z 5 odcinków bojowych.",
+      "kr_sha256": "0df1a37340e306145bbc96ddee758595d21d9582a64d18e7f812d66fa903062d",
+      "en_sha256": "ea5fdf6afc6c94421fc81355adc86e86bd24868483d7e2e37d8e278dbb362682",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P3_D3].content": {
+      "pl": "Po ukończeniu stacji zapisywana jest liczba tur ukończenia.",
+      "kr_sha256": "77ee70fadb87fb9bca652bbca776513b21aae9d6d4ee1f936c23163922ac0735",
+      "en_sha256": "79f2b1f3efed802e4b158c9bb17d2375d082749a9d886bd83ef04e980100bef5",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P3_D4].content": {
+      "pl": "Wyświetlane są nagrody za ukończenie danej stacji do odebrania w Biurze Rzeczy Znalezionych.",
+      "kr_sha256": "18ea8bdb3615fa06370c6e06f6ea74f017722acf6d42e70ddf0d98acb02fc928",
+      "en_sha256": "c0d7ebacfacbaa9e7f7a9493fa0ef56bdbdec4be32d3a615e0e268392fe115f7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P3_T1].content": {
+      "pl": "Linia 6: stacje i odcinki",
+      "kr_sha256": "0bbc8ce66e27062aba41e6a5e61db1ddef7b8ecb99544f1fd17dbb91e56b89f4",
+      "en_sha256": "ac3ce4bffa2d67c7c1ec23b50575974bd09684f4a8a2bb8e1617d7ffedd638ec",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P4_D1].content": {
+      "pl": "Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.",
+      "kr_sha256": "fe8d66cc4eb14fcb781a4b3463816015de2d1c9268fc97f70e53c1fd0c641bc0",
+      "en_sha256": "79f2b1f3efed802e4b158c9bb17d2375d082749a9d886bd83ef04e980100bef5",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P4_D2].content": {
+      "pl": "Obok niej zapisywana jest łączna liczba tur będąca sumą tur ukończenia wszystkich odcinków od Odcinka 1 do bieżącego.",
+      "kr_sha256": "6c2ab97d01ee8a6083e41490e97f45b3faa453a32dd3a0622f3ea6c420f55975",
+      "en_sha256": "b8b814db016989fe26149bcba3315cc47597e4132a69fb76ae3f91d1be7dda6f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P4_D3].content": {
+      "pl": "Poniżej widnieją nagrody za ukończenie danego odcinka do odebrania w Biurze Rzeczy Znalezionych.",
+      "kr_sha256": "78b68a6d1df0d7b8c60f8d9ab75c9e0982985286d8868d8ad29561c54ecc2014",
+      "en_sha256": "42dc9b8480a489f817d5bc63c62058199a6464f53772f615559e86f783ada81e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P4_T1].content": {
+      "pl": "Wejście na odcinek",
+      "kr_sha256": "2a4333712fe1ce380579142298a3c51bd0e109d55646081ee30e9b699b62453d",
+      "en_sha256": "dd252f466545cad3f7a4e2da7c98c657bba0f8da40c6607de028dbeb44cbf4d3",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P5_D1].content": {
+      "pl": "Na Linii 6 informacje o wszystkich wrogach oprócz określonego bossa są od razu jawne. Dobierz odpowiednią strategię, Tożsamości oraz E.G.O.",
+      "kr_sha256": "0fb7de5527a9da0e78de93141774f16822f6993670770652f65fc04028b6d69c",
+      "en_sha256": "f4728ea7af0412521e8c2cc9389c2854ad01883aff95b97835e820be848ac2f7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P5_D2].content": {
+      "pl": "Premia do obrażeń wynikająca z Poziomu Obserwacji nie jest jednak aktywna.",
+      "kr_sha256": "4fdb1d5c5c1fed42c2a606a23dc8d14be4b30d20afa2a2bccc2e59e8fab7adb6",
+      "en_sha256": "41102cdcc045a1fca27678345f05026dfa4b2b96ecfc86ddc3785c4098fac1c8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P5_D3].content": {
+      "pl": "Na Linii 6 zaktualizowane wpisy Kompendium zostają zapisane nawet przy ponowieniu lub poddaniu walki.",
+      "kr_sha256": "f7da4a93d48abbea37c6c83f631f9f2f00d2542368456e2de2db699713ea8bf0",
+      "en_sha256": "16041a8a8b58dbcfb6a0011d06f7bd00be79605a2a77a4f97241791cad9c185f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P5_T1].content": {
+      "pl": "Kompendium",
+      "kr_sha256": "0a7a5b87c8690e57afc07e3c5dc250121889d695e930c44f01b2099114c1941b",
+      "en_sha256": "de6f3287ddaa113575c513653c392f729d5b3c23a69c1b2f1191111dae590075",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P6_D1].content": {
+      "pl": "Uformuj skład z posiadanych Tożsamości oraz E.G.O i rozpocznij wyprawę.",
+      "kr_sha256": "bff6b349b3be6f60244b4d802b1e4bcf45dc45e802cfa11d01c9fac09a39d63a",
+      "en_sha256": "4b32adce6373bf5089a3304ba606505c297e461836bf590e3882ebd750c2605b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P6_D2].content": {
+      "pl": "Podniesienie poziomu Tożsamości, stopnia Synchronizacji lub stopnia Splotu Nici E.G.O poza Koleją Załamania zostanie uwzględnione także w trwającej wyprawie.",
+      "kr_sha256": "7717564cbc63af77b91966be47bd349904b0f4884cab6c7475e69f6d341f5779",
+      "en_sha256": "a3bb18f1ccce77a3c6998869c7ba3df077fc4258889f152549de98b48c1b74e8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P6_D3].content": {
+      "pl": "Rezerwowi otrzymują premię początkowych PP — im dalsze miejsce w kolejności rozstawienia, tym wyższe początkowe PP.",
+      "kr_sha256": "ad91fd877058684b4771dd96d3596ca5b1ff722cfeb687603b5304e70d059f35",
+      "en_sha256": "22bc6f1a617294d1b1299dd3a4c2fb827ea477409fd247c342c00841bac94315",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P6_D4].content": {
+      "pl": "U Tożsamości z Monetami Ujemnymi\npremia początkowych PP ma wartość ujemną.",
+      "kr_sha256": "930f82ea202b29af0d6fb9489e65402b7cfe06a9b5903f5c99b29342b31d0f79",
+      "en_sha256": "e84a43622a9730f2682943a5a7da1d8c5f41458963a47da35cae658a5c21b7e4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P6_T1].content": {
+      "pl": "Ustawienie drużyny",
+      "kr_sha256": "cc58ffa269fc5a1c934d47dd8b1657f0d8f7f2a9d6f35431e5e33cc89c76a559",
+      "en_sha256": "a3bbc39f49fca51085afe9c7fc8c7983817c8fc27f67959e57d06f662ce6157a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P7_D1].content": {
+      "pl": "Linia 6 rozgrywana jest w trybie Walki Seryjnej.",
+      "kr_sha256": "e8ed7ce5dd6b8ad73c6b60ea74516c31615bfb4a62bb5a6e1ae30f9e0aaba8bc",
+      "en_sha256": "2879ab951ab0cfac65990ee17f4192793fd52ab9b4d4eae545edf3edf89737bd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P7_D2].content": {
+      "pl": "W Walce Seryjnej po śmierci uczestnika podstawowego jego miejsce zajmują rezerwowi zgodnie z ustaloną kolejnością.",
+      "kr_sha256": "18dc40d054a9305d1ab48348dd35b6f4b74f259572b76a1cc4da3582d262f870",
+      "en_sha256": "ed473e2dcf880ac88ca55e715c35ff706bffe13519d34490528af444265f2789",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P7_D3].content": {
+      "pl": "Aby wejść, musisz obsadzić wszystkich 7 uczestników podstawowych oraz 5 rezerwowych.",
+      "kr_sha256": "964004d3bfa2fd5b9eca5308af6e0191df2427a3bea5b373fac3a618fdb41d17",
+      "en_sha256": "474c621eb8f633d5ea46a1cfe6c3b067fd4f712fbc94ac08e49b96f9e9832c59",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P7_T1].content": {
+      "pl": "Ustawienie drużyny — Walka Seryjna",
+      "kr_sha256": "e4b8774255948c862fb1c740190ed3caedaca2cc7182e3297d53474cf41ded1f",
+      "en_sha256": "3f40735a0faf192d0e30d4f2852893daf4fa5f0dd030ce793ba6381622dd405b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P8_D1].content": {
+      "pl": "Na Linii 6 przy wejściu na Odcinek 5 zachowywane są procent PŻ oraz PP z momentu ukończenia Odcinka 1.\nPonadto na Odcinkach 3 i 4 nie można użyć Tożsamości wystawionych w bezpośrednio poprzedzającym odcinku.",
+      "kr_sha256": "0364098e51b8b7c355744b82c9d79d03eb0bb4a16bb8d57f936c78c1488fb8ae",
+      "en_sha256": "a8de7d110eb9de291f1a96d78fb3701e7835dbc9e1a17aed4d7e21287272eee1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P8_T1].content": {
+      "pl": "Ograniczenia składu Tożsamości",
+      "kr_sha256": "66fbe9a6572ed54b6680311d143baffcaa29b632578a9e897bef9e650a08d87e",
+      "en_sha256": "382260712ac71af3bd6b66ce5a6bac8472085666d055142c60d938dfca58213c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P9_D1].content": {
+      "pl": "Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciwko umiejętnościom wrogów.",
+      "kr_sha256": "35e0d69fee1bb6fbb793d6d60138eef7f3864ee3a0a19092992c8f00526e42db",
+      "en_sha256": "f766193fda0042499c239d00a6a2b4bce71e817337fa9c7e935a5127eb4efe35",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P9_D2].content": {
+      "pl": "Maksymalna zapisywana liczba tur na stację wynosi 100 — przekroczenie 100 tur na jednym etapie skutkuje porażką.",
+      "kr_sha256": "5047687afa9da551a7a32f94b9bd01047dda445db345bf232f892a59ca70f589",
+      "en_sha256": "7c24b6f79c08c15536859beb6af95e2f387f1798987e26d7c868d262340b607f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoRailway6_P9_T1].content": {
+      "pl": "Walka",
+      "kr_sha256": "62d08c54f0033da2bf9ef04bf651d69c4f6b75e11296520002ef28afb5b956d3",
+      "en_sha256": "49fcf2c78b506b3e32115f752124e4ee1b998f4f578cc2d35425e6ee3eb203a6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P10_D1].content": {
+      "pl": "W raporcie z walki sprawdzisz zmiany PŻ obu stron, średnie PP sojuszników oraz statystyki poszczególnych Grzeszników.",
+      "kr_sha256": "42b6ad1b0a051c118c063cce22d52ebaa5e8f02acab5edf6c36877408245a45a",
+      "en_sha256": "81760210c6fe39d551915fb3e75848fb949de20e12b4ffdfff8d13077b6d94fc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P10_D2].content": {
+      "pl": "Po zakończeniu walki poległe Tożsamości wracają, a PŻ odnawiają się w pełni. PP przechodzą do kolejnej walki, przy czym wartości poniżej 0 wracają do 0.",
+      "kr_sha256": "fb41ac6896af492c5d8a628254fd4ddc2024098d449e65891c8993ae3a249cb4",
+      "en_sha256": "8e0cc5d31b1f327569714fdb210cf05486d2ff3d848058056aa06d9a864645b9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P10_D3].content": {
+      "pl": "Każdą walkę można ponowić określoną liczbę razy; porażka po wyczerpaniu wszystkich prób kończy Konstrukcję Schematów.",
+      "kr_sha256": "018cb8f40511a823f167e2131051b14e1500107963234bfb316dfa6001ee2331",
+      "en_sha256": "693bf1c587b71d7b45c8e2712e4720d9b80691705669d56421388f8aba1016a3",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P10_T1].content": {
+      "pl": "Raport z walki",
+      "kr_sha256": "6d916c6d62a907cc54d9e5d6bda89ca02d944aff273df882810ec53aff02a283",
+      "en_sha256": "c45d59e469d82c02b98ac730c283bc6127156c3cb80b734cdb83bf4ccf0e4a72",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P10_T2].content": {
+      "pl": "Stan po walce",
+      "kr_sha256": "15ae7598bb7464781540f5f7426e82a591b3311310e8d483c2f03edc917fe379",
+      "en_sha256": "1d3cc693a10f01aed77375b17a955d7fb5bccffc4a0e7dfd80917f74cd68837b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P10_T3].content": {
+      "pl": "Ponowienie",
+      "kr_sha256": "a04d1b511a2ed020936cab39a4396f5ba0832aa0b8cf6837af16809fad7dea1c",
+      "en_sha256": "942087cc2d41e01304b7195558d093d10c72af8e838c7556d6a02d471ee71852",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P11_D1].content": {
+      "pl": "Po zwycięstwie proponowane są 3 Pakiety — wybierz jeden z nich, aby dobrać z niego Tożsamości i E.G.O.",
+      "kr_sha256": "5d5ef6bd389c14158107e78968c9a93e0a401a422076ae5e3ae207914c05b34b",
+      "en_sha256": "1d13e7e3fafda43932f77f97ce505c14730ee09e7d904cb773e4dfad48b760f6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P11_D2].content": {
+      "pl": "Na każdym Pakiecie widnieje gwarantowana przynależność lub słowo kluczowe oraz szanse wylosowania Tożsamości według Kosztu.",
+      "kr_sha256": "ed759795c07b09791bf359563c3584651f6029a03ae60833d7fa238c0e8fb9dd",
+      "en_sha256": "7989a026bd1b5b0ab8aa867e9c66a10a7ec762ff73fccb721e31e152d09c8969",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P11_D3].content": {
+      "pl": "Wydaj szansę odświeżenia, aby zamienić proponowany Pakiet na inny z listy Dostępnych Pakietów.",
+      "kr_sha256": "ffff0d7e71d1e817b6023df46cbbebeeb66862e246d839582d3a2d9e079f5eb1",
+      "en_sha256": "529cba7915168c1a92c970ec8f70f2842cf396e80b00936af6f8f81e96873250",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P11_D4].content": {
+      "pl": "Szanse odświeżenia zdobywasz za każdą wygraną walkę, a dodatkowe możesz uzyskać m.in. w Reprezentacjach Wytchnienia.",
+      "kr_sha256": "a6c414246a5448ac0cab279bed82d504c4109ce8c2f3cf0d85ecd233af714150",
+      "en_sha256": "ae1f859c03c948f4d9e46df0ac04e4a684e8b6426ae339d83cd8b1011110e567",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P11_T1].content": {
+      "pl": "Nagroda za walkę — wybór Pakietu",
+      "kr_sha256": "268e05151e6811dc9541fd136446c7a980914e9ec609ba161fb71a427c1ba20a",
+      "en_sha256": "353da9e165735387ce47d62fc47ddb99c402048d3c156adf7bc0e25f66b7a6f0",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P11_T2].content": {
+      "pl": "Wymiana Pakietu",
+      "kr_sha256": "57885968dd1ba750076a9f2c1a9e4b8735e0da7b9516824b6b27a36cd440cb37",
+      "en_sha256": "1d9c50b17aaf805a7afb6a565d40c616ed6de30b5abc5c2087b37372fac2c691",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D1].content": {
+      "pl": "Po otwarciu Pakietu wybierz określoną liczbę Tożsamości i E.G.O spośród wylosowanych kart. Za szansę odświeżenia możesz raz wymienić każdą kartę.",
+      "kr_sha256": "225680f65d4f00f467c8e97ead66cd138c16fb8778cf82b5100b8a4fb4d921cb",
+      "en_sha256": "f18fb0513e7eb6a1c9e5511d0f86166631c990c89733e0816ea8f56f24010ff5",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D2].content": {
+      "pl": "Skład: dodaje Tożsamość Grzesznika nieobecnego jeszcze w drużynie. Przy pełnym składzie należy wskazać Tożsamość do usunięcia.",
+      "kr_sha256": "1c34475caed864013dc0c279eab0308089c5819dd223dd973d2a559a9deb222a",
+      "en_sha256": "caaf3d7484c110134f901ead1c83a63b2063a5f007b3fc6283037ff20fe344cc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D3].content": {
+      "pl": "Wymiana: zastępuje bieżącą Tożsamość Grzesznika wybraną nową Tożsamością.",
+      "kr_sha256": "1123a2e6bd18a383747d981155c157920db40478c675e7f22eda9f89feb6bf27",
+      "en_sha256": "d18ee2197d684731033dbfce06a09f073a86f95a9b656e69eba8a2321d18cddf",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D4].content": {
+      "pl": "Okruchy: zamiast dodawać Tożsamość do składu, otrzymujesz Okruchy danego Grzesznika.",
+      "kr_sha256": "fdc59b64263bf5ebf75947be814509188433a8a69351c5b3a53bf079ee947a96",
+      "en_sha256": "ffa73863572fb8e649d9b3d3c6b2ff8588acdb8911adb8acf674b021fe1b4432",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D5].content": {
+      "pl": "Wybranie tej samej Tożsamości, którą masz już w składzie, podnosi jej stopień Synchronizacji. Tożsamości nieposiadane na koncie mogą osiągnąć maks. 3. stopień.",
+      "kr_sha256": "87f91d665db982b1c32438c51629483ae0fc4129ae4a5ff01771c37a8316276c",
+      "en_sha256": "612ee8f8fc58ed1f5430eca097e7e3d26eb87f09d05ae2c7a17218d0fa16e890",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D6].content": {
+      "pl": "Po zebraniu wymaganej liczby Okruchów Grzesznika jego Tożsamość awansuje na kolejny stopień Synchronizacji.",
+      "kr_sha256": "5d128fa9b25080c4827b0f3c03f21554bf701ee3fe497bfa38830f814a4c76ca",
+      "en_sha256": "f9723b9a1d907dfd46cc049511dd1ec055ff64a2173b0f5bfc9d38b8e42606bd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D7].content": {
+      "pl": "Okruchy Grzesznika, którego Tożsamość osiągnęła limit Synchronizacji, zamieniają się w Okruchy Uniwersalne.",
+      "kr_sha256": "515190c3a11d7e31aaeaa8c1f631763c254e03d91e44342d247c8b2fa9fc3e3f",
+      "en_sha256": "52004b534662410d8671bf42e0a54d434e11bb1a85d5bec62c392cdc75a8d595",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_D8].content": {
+      "pl": "Stopień Splotu Nici E.G.O odpowiada stanowi na koncie, natomiast nieposiadane E.G.O mają 1. stopień Splotu Nici.",
+      "kr_sha256": "f9508ec173988086e9c30d6174c3dff5ef68a522ce284338f073bcffc2bbb69d",
+      "en_sha256": "b450b4d7e8200c23da9e68ab36e93047c525585a0d930fed40b7ae968937a7e3",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_T1].content": {
+      "pl": "Wybór Tożsamości i E.G.O",
+      "kr_sha256": "5992f9194df3eb6efc43e6b4448f2253231fe88a0b45e12e47f6ac5db036239a",
+      "en_sha256": "60cf02ee533a4aa3ee89f956b7a50d1672249f0b7eb2e8eff294c8e64e7d5b3b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_T2].content": {
+      "pl": "Skład / Wymiana / Okruchy",
+      "kr_sha256": "45d0a414911bf4d28b4cd9840516b025f2c0e6565762d1127653eb237b6c206a",
+      "en_sha256": "e79e544fe309e0660a647c52933c8489c67a5cfbf5310879a35617e54d2b8c8b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_T3].content": {
+      "pl": "Synchronizacja i Okruchy",
+      "kr_sha256": "3b00b9f21d0bda55405b830e2558e297cf1176f5ff8a539be024fa09b369ca17",
+      "en_sha256": "721acbcc4d0fdd900878a104e75ea84faf82f8fdf633b52a95a47e343e7c174c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_T4].content": {
+      "pl": "Okruch Uniwersalny",
+      "kr_sha256": "825c12172c83595c71ac6e9496036a052bfc5ef51931a9be4821fc983da59c47",
+      "en_sha256": "e75ebdd2fa4b09f9ee7b0b9c1631c67d553c05b403d593f6ed5d68fe79dd9fed",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P12_T5].content": {
+      "pl": "Splot Nici E.G.O",
+      "kr_sha256": "32389050fc51035ea86cede36f4d549f5fe96bf0b565e0646999672da7f93e61",
+      "en_sha256": "0706527844a5fb86e557acb2541608dab10d28bddb87b939bd8c44f646f814cb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P13_D1].content": {
+      "pl": "Zwycięstwo w Walce Elitarnej pozwala oprócz Pakietu wybrać dodatkowo jedną z nagród elitarnych.",
+      "kr_sha256": "ca692703556e4c0799b5085a183f84ccecdaf516d2c9293eab63a62c6f60e4f1",
+      "en_sha256": "bc98dd47a0b4f1c51c37ed85ac3286a3c65864da13cf97471295667e1125644c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P13_D2].content": {
+      "pl": "Wymiana Tożsamości: zastępuje Tożsamość Grzesznika w składzie proponowaną inną Tożsamością.",
+      "kr_sha256": "0e7b4681d19aa24b821ae75cbd3721a895ea909633712d7ff63d1d98cea84f0c",
+      "en_sha256": "745954d5f8c51a77f117e08c063e78c799701aeeb182d7cd8a992de0bd2ebba5",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P13_D3].content": {
+      "pl": "Włączenie do składu: dodaje proponowaną Tożsamość do drużyny.",
+      "kr_sha256": "38ff9f2f93fbd9e1f69c842c24c4034b78cd39f72b17e65af5366a703ecb4a0c",
+      "en_sha256": "8ed4f152cab87ae59ae4de99ce66a0c720d512809a5256f17e6c657467279d9b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P13_D4].content": {
+      "pl": "Rozwój: przyznaje Okruchy 1 wybranemu Grzesznikowi z bieżącego składu.",
+      "kr_sha256": "cb7ae3b634140710e50f0c9fbed2699f6fe6778973b3fc1569f7b95fb4936040",
+      "en_sha256": "cad7f170efc5a6079514c615126a31578c8a40946bb1e22a37c0b8cb97946470",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P13_D5].content": {
+      "pl": "Pomiń: kontynuuj bez odbierania nagrody elitarnej.",
+      "kr_sha256": "26b818ffdd7d5375b917df790c2c79891d32eb5b43056cec5fc35f9efa2f001e",
+      "en_sha256": "720a0e57ffd9d40812ec8a1e957ac8ae7887885191dcd9a171a1f2e9f597ec9c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P13_T1].content": {
+      "pl": "Walka Elitarna",
+      "kr_sha256": "6ee2a61d5845a52c88b5cfd4df839b30b07241a5bb685f6019b3fa9e5856b03a",
+      "en_sha256": "edc1a518301cc6f59bd918a9e557e6a495ecbba50e309b9df4d2b3215deb8af8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P14_D1].content": {
+      "pl": "W Reprezentacji Pokusy otrzymujesz propozycję Tożsamości oraz E.G.O; wybrana Tożsamość dołącza do składu lub zastępuje dotychczasową.",
+      "kr_sha256": "66ff42bf7d394214cc335375ce64ad1cd4b54449b1177ff0a68816cedd94a809",
+      "en_sha256": "840779d421639603ee4e0eff6333bcbc7e242ebee037b96bab4b8d49db78cbd8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P14_D2].content": {
+      "pl": "Możesz też wybrać pominięcie, aby zachować obecny skład drużyny.",
+      "kr_sha256": "2d24b5d416850354f540e4a2d45360ca89960eb4a7b050931139cc3787bbec82",
+      "en_sha256": "e7536e61f8ecec56c726890b3f089a0e0b49dc3bb8b059c7ce659b97bb63ee57",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P14_D3].content": {
+      "pl": "Niektóre propozycje odejmują rzuty kością. Możesz je przyjąć nawet przy braku rzutów, lecz niedobór nałoży odpowiednią ilość Wypaczenia Schematu.",
+      "kr_sha256": "1a00017a1523527d7e313ea8279509746edeffac2725f7fb4abb02a5278e3b65",
+      "en_sha256": "a3456bfc1f30f2918030a20192887c7abaf831026d6b95a4dfba5cbc21cc7d68",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P14_T1].content": {
+      "pl": "Pokusa",
+      "kr_sha256": "0fa49d567eb6af379e0de4728f452cbd3bc5661a16323e05c5af834d384b5262",
+      "en_sha256": "472f50f62c82089c0d50baa218635f3214bbef1e2eb24fc259ec1761a6a9eb19",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P15_D1].content": {
+      "pl": "W Reprezentacji Wydarzenia prezentowane są opcje wyboru zależne od sytuacji — wskaż jedną, aby uzyskać jej efekt.",
+      "kr_sha256": "3ba3d542d548feb79c7e3fbebd7a76ad06ae0f536d41b9a2dcb3330ba110aa08",
+      "en_sha256": "a8ffe77bf6780110e83f5708ee60dcacddb98c31ba8b6279a3e0741eeba0151b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P15_D2].content": {
+      "pl": "Możesz też wyjść bez dokonywania wyboru — nie otrzymasz wówczas ani efektów, ani Prób.",
+      "kr_sha256": "90232c652f6b2839e552437f01df00aa9894e77de9aca28103efc46819c9c3ff",
+      "en_sha256": "67435476bcad16eb728a25fc01a35bbe0de3577198d1d34fb7f7ba268ee6614f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P15_D3].content": {
+      "pl": "Próba z wybranej opcji zwiększa PŻ wrogów lub zadawane przez nich obrażenia i kumuluje się aż do końca Konstrukcji Schematów.",
+      "kr_sha256": "4f829e2e81f598b8e71fd4de45d8bb3d075ee28dece6fb444186b748c9b4dc4e",
+      "en_sha256": "3f196be3d952e13d93d301e28474e9e10c1866c96e7c29fee4bd2cf7bf877e03",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P15_T1].content": {
+      "pl": "Wydarzenie",
+      "kr_sha256": "46b289bb0a9e2a002985007cea757de883ff09dd885b2d91f5f1f2452f7208cb",
+      "en_sha256": "8d14f6e72de8f18ab1ee5c5330f00653c0c3ce099e63024454f80af97e72d333",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P15_T2].content": {
+      "pl": "Próba",
+      "kr_sha256": "2bff82607d4e1b26659e34edf73e8b92f5185ba37678fc51a4d9168c64aa3411",
+      "en_sha256": "4cf36de91470391ff38476ce46b8a94b1896848e8574fde42e9e87cfb7ad632d",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P16_D1].content": {
+      "pl": "W Reprezentacji Wytchnienia wybierasz jedną korzyść, np. szanse odświeżenia, wyższy stopień Synchronizacji lub dodatkowe rzuty kością.",
+      "kr_sha256": "f1f4576499c78aaecceecf7a85a5b2ea3493ed315fff87e17fbbb42b14eba3b5",
+      "en_sha256": "91980ded9ac2ceb441e9b724e309311cc9a66fa2204d201abe01525c637e5249",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P16_D2].content": {
+      "pl": "Wydaj Okruchy Uniwersalne, aby podnieść stopień Synchronizacji dowolnej wybranej Tożsamości. Maksymalny dostępny stopień rośnie w miarę postępów przez Schematy.",
+      "kr_sha256": "d1ae2e86fd785f9854ba2c7cf1fbd59d86a876389c0aabd4a086325ab712514b",
+      "en_sha256": "bc7941ca3991c2ecaf085e41839b1d184a8b602fbde8e4dbf0735e15b2a2d66c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P16_T1].content": {
+      "pl": "Wytchnienie",
+      "kr_sha256": "5c75df710af3f2ee069c73175a081977ba96fda9d4d5372c8eb92beb8fc9360e",
+      "en_sha256": "1d34a7ba955f926f8fd7245ba5d34adeeb03998da958eec9f15777005fa2aeb6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P16_T2].content": {
+      "pl": "Użycie Okruchów Uniwersalnych",
+      "kr_sha256": "52285e1f9cd38575cf6ed52252e4b6cf90dec167eb26a5630ecaf9fadd446ea0",
+      "en_sha256": "6708c9cb029beea72d4e6870e38a5d2b8d8698c20ba3cce3704cf4de89a1ca72",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P17_D1].content": {
+      "pl": "Po zakończeniu Konstrukcji Schematów sprawdzisz postęp Schematów, liczbę stoczonych walk, statystyki obrażeń Tożsamości oraz zdobyte nagrody.",
+      "kr_sha256": "3f99a8030c2e313233a1db5b53bb6e2248681bff31a4d601d9de49580b35470a",
+      "en_sha256": "088c9367e18e7ece689620cdf1ee8603d450118f1dbf6578b8f93beeef94d507",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P17_T1].content": {
+      "pl": "Podsumowanie wyprawy",
+      "kr_sha256": "11f6fb5098decd754b94b44fac159b6a71571b984d2f8f3e6d5b9c6a525409e7",
+      "en_sha256": "62fb41f83094c653382fb6a9c68553800724c89f354366a68bf8e4645cde2c7c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_D1].content": {
+      "pl": "Im głębszy Schemat osiągniesz, tym więcej PD Przepustki zdobędziesz.",
+      "kr_sha256": "86a244c45270e0e3535bca560aad88c38b70984a3a758770bb9b6838aa15e46c",
+      "en_sha256": "041946bcec1bf6bc0a5387e3328bf09e25f41fc12cefd79986c6d7cdd5ccfce8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_D2].content": {
+      "pl": "Nagrody Przepustki można odebrać wyłącznie we wskazanym okresie.",
+      "kr_sha256": "c662135f3cb4abc1710c45478d2883f04b64aa482da442808579d08c9c2e195d",
+      "en_sha256": "d328cfdc143872591b4b048746720aaf4caafe222bddc7251b8db8bb51827427",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_D3].content": {
+      "pl": "Liczba PD Przepustki możliwych do zdobycia w tygodniu jest ograniczona.",
+      "kr_sha256": "0146f7869dd1396bf1ca6c8627950817c4b8ca1a18fee84720cda1da1047f837",
+      "en_sha256": "6e380a101a438a86df9fcdf9ff1d1df8fbdb6dc7ebae7bb423ce14e694ab4332",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_D4].content": {
+      "pl": "Trwająca Konstrukcja Schematów kończy się w momencie cotygodniowego resetu — prosimy mieć to na uwadze.",
+      "kr_sha256": "b6caa0b6cdfef7aebc3cb5439b1069e1749e34a4f01f163b766e52cd757aa449",
+      "en_sha256": "a2479ac6b88d57305d94ac36b2b8ea68f38de8ce213fe81a9761511f519a1797",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_D5].content": {
+      "pl": "Osiągnięcia zostaną dodane w przyszłej aktualizacji.",
+      "kr_sha256": "e56f80b7d8e4e987d4078779774e58c9602359ae50b0b1cd843c09687c58e7fc",
+      "en_sha256": "8d9e90ede9a921d15b052098ada99c563a298dfff80b090ae255f6a89dec74e8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_D6].content": {
+      "pl": "Po osiągnięciu najwyższego otwartego obecnie poziomu nie zdobędziesz kolejnych PD Przepustki za grę aż do odblokowania następnego progu.",
+      "kr_sha256": "e573ba9f150136d20bd9b63ae7628ddc2039afb95c617554ca9bcab867eba26c",
+      "en_sha256": "2de5ca84be3738442ec1ae78eb1f6e92e2f1665190987568664ffff8a0224fb4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_T1].content": {
+      "pl": "Przepustka Konstrukcji Schematów",
+      "kr_sha256": "e824123c7f4ed88b434ff55170dc9719fba0db343a26f260e279315df95045ce",
+      "en_sha256": "b1eceffc7b110e1eba49dbae34a61ac51dd3c5326c4dd283bc20a78e7e30c485",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P18_T2].content": {
+      "pl": "Osiągnięcia",
+      "kr_sha256": "59f92b9d7532912616e176d24f79da08354806f0795d0ea17e49078364244a7c",
+      "en_sha256": "74cf2bc63fe122206c82cecc1b3f31a100d5d4aaca6e12682590271276fb4691",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_D1].content": {
+      "pl": "Konstrukcja Schematów to tryb, w którym rzucasz kością, eksplorujesz Schematy i budujesz drużynę z Tożsamości oraz E.G.O zdobywanych za walki.",
+      "kr_sha256": "a4c78f457c3e3e91136d524ab4e1f785e3cefefe6298a527658b45ecb57df322",
+      "en_sha256": "b998b2b01a2580e7ba142b84a9198f68a85f904a0beb20b0d7d5fcb4ac22c07b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_D2].content": {
+      "pl": "Walki toczą się automatycznie — wybieraj, do których Reprezentacji wyruszyć, jakie nagrody odebrać oraz kiedy użyć E.G.O, aby pokonać finałowego bossa.",
+      "kr_sha256": "b41279d387bf857af273b382deda0e868c69ee1d1a5a9792ceb635717126b6a2",
+      "en_sha256": "e4eb50bad7900b6f5f269ecc47354563e5152faca5aa171fa2d6a6ddd4f8ac0f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_D3].content": {
+      "pl": "Wybierz „Wejdź”, aby przejść do ekranu drużyny startowej. Jeśli wyprawa już trwa, możesz ją wznowić przyciskiem „Kontynuuj” lub zacząć od zera opcją „Od nowa”.",
+      "kr_sha256": "1412790571d1126e0fa9bb424ecfb169462102a4239961ba6c57dbc31e8d0413",
+      "en_sha256": "bf696bbd1fcca7a902a24db9941c4042ced407fcb212be1bf4f1e9d4452510b0",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_D4].content": {
+      "pl": "Rozgrywaj Konstrukcję Schematów, zdobywaj PD Przepustki i odbieraj nagrody za kolejne poziomy.",
+      "kr_sha256": "ab40c59cd250c8a3425941cc3851c30e93a1d358f3e88b86b5e090f6536b1cdc",
+      "en_sha256": "29d3b4db95978917c4da6bdb8f82e61324bf6baa03229af9ee6848f0b7f248ff",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_T1].content": {
+      "pl": "Konstrukcja Schematów",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_T2].content": {
+      "pl": "Wejdź",
+      "kr_sha256": "1f85d501a11baab4218ae708306dbcfc762529daa68cd4cb662d462f491ded8d",
+      "en_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P1_T3].content": {
+      "pl": "Przepustka Konstrukcji Schematów",
+      "kr_sha256": "e824123c7f4ed88b434ff55170dc9719fba0db343a26f260e279315df95045ce",
+      "en_sha256": "b1eceffc7b110e1eba49dbae34a61ac51dd3c5326c4dd283bc20a78e7e30c485",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_D1].content": {
+      "pl": "Wybierz maksymalnie 4 Tożsamości, z którymi rozpoczniesz Konstrukcję Schematów.",
+      "kr_sha256": "33777fe542fdc53d2306b0e57eea7d608234d145ae4525d487d7c5a72fac423f",
+      "en_sha256": "8afa59afd892729c9dd0a51e949c55f30e52fc8569555270a6c25d1195fee77e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_D2].content": {
+      "pl": "Samodzielnie wybierz Tożsamości w ramach dostępnego Kosztu. Liczba Tożsamości o wysokim Koszcie jest ograniczona.",
+      "kr_sha256": "16f92fa7fd95711806bbbccae78ab26fa9fd806a043d7f14d30fd03de252e287",
+      "en_sha256": "f3a5e8d5fdfd6ae5d4485fba6510c33aa4789a44554b79c6e4a8994402ed63be",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_D3].content": {
+      "pl": "Otrzymujesz losową drużynę o wyższym limicie Kosztu niż w składzie ręcznym. Wygenerowane składy trafiają na listę, z której możesz wybrać jeden.",
+      "kr_sha256": "18b36df06270979b6821b60eae54e8cb9715c51c46174606146a7f7c54b7e15e",
+      "en_sha256": "79018eed47689099fc04d2dce99c84d1986d1d59b1f75e8ce046220cd300d87d",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_D4].content": {
+      "pl": "Użyj odświeżenia składu losowego, aby wylosować nową drużynę; pozostałe próby odnawiają się codziennie.",
+      "kr_sha256": "c7e41b42cfc208237922fb40212ad7a644a63ad6413ec5825cf2bd8132e8c0fa",
+      "en_sha256": "e285029b0a317b557eaa3f46233989fc4f7ada9819f77e0fd074bd15121da713",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_D5].content": {
+      "pl": "Zakończenie wyprawy po dotarciu do określonego Schematu zapewnia dodatkowe szanse odświeżenia składu losowego.",
+      "kr_sha256": "d18112d643ae28f401e2a2d6e657923d18dc69b6ed9762c5419d4999598b17af",
+      "en_sha256": "6033b72e28677d16afbac17ed8d0afad8967888fbe0a116568ab44dc339283a4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_D6].content": {
+      "pl": "Rozpoczęcie gry składem losowym zapewnia dodatkowe PD Przepustki Konstrukcji Schematów.",
+      "kr_sha256": "ff6f8ea1e65370cf491105c3404a7de1eeda0f8cc175c05e6f382cf30c009b6d",
+      "en_sha256": "622ca1bb143cd526e29814106c90272ae9ba27a309ae47204a5146267b0d2059",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_T1].content": {
+      "pl": "Drużyna startowa",
+      "kr_sha256": "58636e3a4964b2e683d20ff9311fe863c3399fa4f4e8248744350e4627ded336",
+      "en_sha256": "b6cb091fb51a0b9c1d505eedb74b320f743d7fab094dc20674f4e947a9b0746e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_T2].content": {
+      "pl": "Skład ręczny",
+      "kr_sha256": "e34177c72c5dc673b0bf6d3224aa83b5e517dc8dbfbf82aa0393c501bc7cf1ea",
+      "en_sha256": "53f73a1cf426279fe48d1f24f79964f401b165b1adb1d9b9840886d11a352899",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P2_T3].content": {
+      "pl": "Skład losowy",
+      "kr_sha256": "92dad11d2860081650a70b7ce8bea437e5b2c363a4f358787c3e89b40e884f33",
+      "en_sha256": "56bd2adf076c3fafe3485d7f0ac81e71d8f55d6cd0cf58db1a2ea11af2caf664",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D1].content": {
+      "pl": "Konstrukcja Schematów składa się z kolejnych Schematów; pokonanie bossa danego Schematu przenosi do następnego.",
+      "kr_sha256": "dc8fbb765def8a8a438e1bfb9044a065c3016d3f9add0ed12eb00580c8731d37",
+      "en_sha256": "585f717f00257e62e470796750ebc13a994c101a3eb0c1291aceb117acbb6ff7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D2].content": {
+      "pl": "Reprezentacje to punkty na Schemacie, na które możesz się przemieścić. Dzielą się na Zwykłą Walkę, Walkę Elitarną, Walkę z Bossem, Wytchnienie, Pokusę oraz Wydarzenie.",
+      "kr_sha256": "bb4054660dee0738f20a0b3ffd1be1a74bb9649f9e583461f96c1027661ad404",
+      "en_sha256": "2ccda5cd2fd79db3c29f51a1db99cd902701fa1c1d3c45aa8e2590c8d38fd7bd",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D3].content": {
+      "pl": "Po rzucie kością ujawniane są Reprezentacje w zasięgu wyrzuconej liczby oczek — wybierz jedną z nich, aby tam przejść.",
+      "kr_sha256": "152c3d15968db4882f80f5ad41fca58fe9c3b32acebeee83d2ac623747a176bd",
+      "en_sha256": "678d8384c9244d66dce52641322a734d5a0e5fd6b12d037c1458499c72be4d40",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D4].content": {
+      "pl": "Możesz nadal rzucać kością po wyczerpaniu pozostałych i dodatkowych rzutów, lecz każdy kolejny rzut nakłada Wypaczenie Schematu.",
+      "kr_sha256": "7c28cdbb0638eac996499688fa99dfb214700328a7a767e06ca1491409254c0a",
+      "en_sha256": "2a59ad543a01d04d826186bd10985b62ebf1fa77cd4781721bfe16c436bf8702",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D5].content": {
+      "pl": "Wypaczenie Schematu wzmacnia wrogów w bieżącym Schemacie.",
+      "kr_sha256": "51fab8eb3be033f09bda1a17ffe0db56caced70a3a95302f54c9c33d986f1c19",
+      "en_sha256": "791f01cc2c324cf612a588851386dd960fda90d753b03716726fd314ff163883",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D6].content": {
+      "pl": "Poziom Tożsamości jest wspólny dla całej drużyny i rośnie wraz z kolejnymi wygranymi walkami.",
+      "kr_sha256": "d28533bb94e70bc65d119f546b1b804c29702348f5c5cc30f3feddadf8eba39e",
+      "en_sha256": "44d3b79a95ad2f0660f033903d15109a535428139ae0308f1b972ad10f6ad1bb",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_D7].content": {
+      "pl": "Siła Konstrukcji określa potęgę bieżącego składu. Możesz porównać ją z Zalecaną Siłą Konstrukcji w informacjach o Reprezentacji.",
+      "kr_sha256": "47a51333e61b1f0c7ba3e092b6fd70c2bc4ec506cadebfa0c62a790978e26f0f",
+      "en_sha256": "d483465e865b7e13f87381de1eeeea62476c07a069623a5279ab6183dbaa2525",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_T1].content": {
+      "pl": "Eksploracja Schematów",
+      "kr_sha256": "3ca86de0d09471cf6e991933b8f4f84d9d3eb076be8e4dbc96f4ddcbdaece2ee",
+      "en_sha256": "9f8091a63e861447a15b94492332cfe712b6cef9eb319dd3b2489aa93dc405e4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_T2].content": {
+      "pl": "Kość",
+      "kr_sha256": "1418a82811fe79584255889fccdbd59c5c236cec108a034878de4bb485dcc39f",
+      "en_sha256": "6e639713cb39a5d3e6b04f9cd92a92207704968518aad728a9d54c1e21ccc147",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_T3].content": {
+      "pl": "Wypaczenie Schematu",
+      "kr_sha256": "1e0d747167af12e4f7dd2c3d353e33252874aabecb891b11119242643925005b",
+      "en_sha256": "746528cab56aa8d12b19cf10fafe715ea825f52d0fbdc4faab6436b7f241bdb1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P3_T4].content": {
+      "pl": "Skład i Siła Konstrukcji",
+      "kr_sha256": "821f85f13d1f66c696563757951c32fdea87090e1b598c503d38fb465fc1de5c",
+      "en_sha256": "a20ef3dc4e9aa7cc663f4f33f299efaa8526a47a0d7d050ef68a1aa8bdc45ff6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P4_D1].content": {
+      "pl": "Sprawdzisz tu rodzaj Reprezentacji, średni poziom wrogów i inne dane. Wybierz wejście, aby przemieścić się do tej Reprezentacji.",
+      "kr_sha256": "e5aad256f7470c31692e9ed246b2c8e8d71243021eb559045704fddeb00773f1",
+      "en_sha256": "bafb1e922e7e9a15b627088e3dbf6db6f21e4b8eb1e2a0e11cc29cdfe62d0982",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P4_D2].content": {
+      "pl": "Lista Pakietów mogących pojawić się po wygranej walce. Kliknij Pakiet, aby sprawdzić jego szczegóły.",
+      "kr_sha256": "15a72d55f346f5f07832933a7e84fa66f935321991a97eb2f13f635131e03a63",
+      "en_sha256": "956d181abe580866bafdaaee2f519a09b3e4a07c1c440e9e410b5b99eb42d28f",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P4_T1].content": {
+      "pl": "Informacje o Reprezentacji",
+      "kr_sha256": "f61a525bec61b6c90010e58d0df2656acf91ea839e77cc55f286c093880a11f4",
+      "en_sha256": "803d9d50773b179938790e327ff2a36dbe468259f98ebdac5ff24c498ef1a001",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P4_T2].content": {
+      "pl": "Dostępne Pakiety",
+      "kr_sha256": "fad7d46ca06f4f8b58386cc8e80004349b4befc08cbe5c7bcff35405cced0802",
+      "en_sha256": "31b88179f1573333e7725840539e0d939595221ad297abe61790351b5c044834",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P5_D1].content": {
+      "pl": "Wybierz uczestniczące w walce Tożsamości i ich kolejność. Limit uczestników w polu rośnie w miarę postępów przez Schematy.",
+      "kr_sha256": "49fb587c676f661be256f0969a818e15a5d1b2b65f27e2e2bfa8d99ffe5615ea",
+      "en_sha256": "a0a6be9f2cbfc12c5a5b421747a3578588ce1e405a47f23673ace6059ddf3248",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P5_D2].content": {
+      "pl": "Tożsamości powyżej limitu uczestników w polu trafiają do rezerwy i wchodzą do walki zgodnie z kolejnością po śmierci sojusznika.",
+      "kr_sha256": "a670fd6db76f05ace0a2e848c2c7801985439c691b228184f4422ef72b24a01c",
+      "en_sha256": "03ef470baacde7e0a084d7b11ea8ec1516b435fc5d02172cd7d467ecd96a5055",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P5_D3].content": {
+      "pl": "Użyj dolnych przycisków, aby sprawdzić Politykę obrony oraz Odprawę.",
+      "kr_sha256": "d5ca7cec6292e72c6754a046e91dcdae5c0b629f67ec962ba434c2173bf977ac",
+      "en_sha256": "25bfc6ba0181ac785c7fea3ebbaa0982a15ee204bc043237ad67d4bc061a284a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P5_D4].content": {
+      "pl": "Gdy wszystko gotowe, wybierz rozpoczęcie walki,\naby przystąpić do starcia.",
+      "kr_sha256": "4506331cad584d3420cd1f8cc96921009c2c92b87c0605d28ff42b47d66c9f46",
+      "en_sha256": "5e541fc43895fc7cee103a261ceb731c20670a3a078e7b2ae726e9aa34f3c290",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P5_T1].content": {
+      "pl": "Ustawienie drużyny",
+      "kr_sha256": "cc58ffa269fc5a1c934d47dd8b1657f0d8f7f2a9d6f35431e5e33cc89c76a559",
+      "en_sha256": "a3bbc39f49fca51085afe9c7fc8c7983817c8fc27f67959e57d06f662ce6157a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P5_T2].content": {
+      "pl": "Przygotowanie do walki",
+      "kr_sha256": "1ebe691beae8cc99c98432bf3e785c7007a53e6718b7629c02de6d5d3bdd4a51",
+      "en_sha256": "fa99105b482c9231aa7dab760792a5468c2e7191c18830b38c43dbbf01db3dbc",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P6_D1].content": {
+      "pl": "W Polityce obrony ustalisz warunki, w których poszczególne Tożsamości użyją umiejętności obrony.",
+      "kr_sha256": "dfbe547348cb015b8496eade07d2a8936c9449fc8de3f845d81e268f891b43b9",
+      "en_sha256": "79b139cb321e29b71fe9b3c0db59ba03c422f59743b6328f51962f5b432640a1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P6_D2].content": {
+      "pl": "Wybierz Tożsamość, a następnie wskaż na liście warunek użycia umiejętności obrony.",
+      "kr_sha256": "294de1698efd122c25d158640688ad27cc0c0c20eb18b1c272b8fca6e65f20f3",
+      "en_sha256": "ff44df8008420605874c07b01b17fbc7711ae4ed8909804e5dba1388de90be29",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P6_D3].content": {
+      "pl": "Przywróć domyślne warunki obrony wszystkim Tożsamościom w składzie naraz albo przypisz im ten sam warunek.",
+      "kr_sha256": "49f98f7600a2fcf2ca3d2a726405110b0fa739eba52b56366fce65dfc66466ce",
+      "en_sha256": "8e6b319b2fd5f4160795abf0498e37e10675242e93ee700f005cea17eca9569a",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P6_T1].content": {
+      "pl": "Polityka obrony",
+      "kr_sha256": "7744de9d26fe6c9c2bd785c10ae5c97c6a283fb41140b912ad1f8c2d6e5e555f",
+      "en_sha256": "d5ee5ef5c7e33a8a186adf279528a765f39c2396409a9c4475bcb19502f42c0c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P6_T2].content": {
+      "pl": "Warunki obrony",
+      "kr_sha256": "9ff50533f183678b817a19591b843f8a07c37548abf440451c5eecf2c4930274",
+      "en_sha256": "a5ae7b9792f2a3d3d94cd2928735cd47c88bbbb5d8794de74da4410a5f9c12d8",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P6_T3].content": {
+      "pl": "Ustaw zbiorczo",
+      "kr_sha256": "95856f2d99c939e3050cd6e07a17be476ee402f0fa18d58681c93e4a7bdfad78",
+      "en_sha256": "6e5373928af9c56237452a69f5de897b015260e226d73926a320402541ef6348",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P7_D1].content": {
+      "pl": "Przed rozpoczęciem walki sprawdzisz tu średni poziom sojuszników i wrogów, liczbę przeciwników oraz ich słabości.",
+      "kr_sha256": "9c8eb7c6523dbb0229d0817b798048bcbe47f27ffdd9d99d52bcce4a46c95cc7",
+      "en_sha256": "2fc22476e56f9db899b64dbcb8f104141543edfd6c881f8ed005336e60c28c48",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P7_D2].content": {
+      "pl": "Porównaj zasoby E.G.O generowane przez umiejętności wystawionych jako pierwsze Tożsamości z zasobami wymaganymi przez wyposażone E.G.O.",
+      "kr_sha256": "c39e448bbec7c5ca38477c8695276a5b28c4305ff0c1e4d622624d575c702676",
+      "en_sha256": "db2ada777e70e7c57e0c10811df69724473a157c6643b910afe5deee4a7de833",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P7_T1].content": {
+      "pl": "Odprawa",
+      "kr_sha256": "e3cc3f75551b9d5ffd023ee3b4318e8ee7ac276cfa92abd1d4ced776e0d0d2eb",
+      "en_sha256": "532fdae24a3de05aa2f0c025a2f7c3eec4e41a3caad7db1574c98fcb7d89e024",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P7_T2].content": {
+      "pl": "Zasoby E.G.O",
+      "kr_sha256": "5ea2a84f6be717d6a2030b3bf0d37fea586280a302737a83ed76c1c6cb28f905",
+      "en_sha256": "dbb7718f6acd46fbb9e4937c30e7ab7e91bcf78e8c61cd968a47c03197c9c309",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_D1].content": {
+      "pl": "Sojusznicy i wrogowie działają automatycznie zależnie od Szybkości, a gdy ich umiejętności się zetkną, dochodzi do Starcia.",
+      "kr_sha256": "1563df84dd8075b250793c50aee046ac9e4f460b44cac48827f59ef0a79c0f62",
+      "en_sha256": "e7796600dc785f7458f21dd7f27bbf0c10e4b053474b443a1aece95f785f38d4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_D2].content": {
+      "pl": "Pasek na środku ekranu pokazuje postęp tury; efekty końca tury aktywują się po zakończeniu każdej tury.",
+      "kr_sha256": "b8a02f1e36c0b6faea5afc67ab98827de18e8ab44cd0f63ff152a928a17b3933",
+      "en_sha256": "e886ea35561b14f0bd06936ed3291db392883bfce3ed5c16b9ad2e9322c812ec",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_D3].content": {
+      "pl": "Gdy walczący sojusznik zginie, wkracza rezerwowy; śmierć wszystkich Tożsamości w składzie oznacza porażkę.",
+      "kr_sha256": "6e4e11304ce6b496c992d5ed3cfbf8c78b33dd2e0937d6bc9f6387f5987ff79d",
+      "en_sha256": "3f8f6785c791abf56dfca1face84462300d8ae70ca8ba420a03a7f18b7023964",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_D4].content": {
+      "pl": "Sprawdzisz tu efekty nałożone na wrogów przez Próby oraz Wypaczenie Schematu.",
+      "kr_sha256": "d7138f415177eb3193986eef629b7e036f2057b63fe7798914133969a5313592",
+      "en_sha256": "992af713d8d116be32258cdddb2eb86ccd4582feda7cc17c9108890a5440c6ea",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_D5].content": {
+      "pl": "Na początku walki otrzymujesz 1 zasób za każde 2 umiejętności danego grzechu (wliczając rezerwowych). Zasoby zdobywasz też w trakcie walki zależnie od grzechów używanych umiejętności.",
+      "kr_sha256": "069718c830e479010a119f0884b6471194f9ef041fde2bb2ed591786ab07dc78",
+      "en_sha256": "9e5c22699f7af876bd459a150fd1dcf48a36f4f274a21d85ae47a1cca86f8e9c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_T1].content": {
+      "pl": "Walka automatyczna",
+      "kr_sha256": "4b364df49142bbd1513e6c035ea2ba7550011679fc993c691483446708fbf155",
+      "en_sha256": "51ee55332c429c12d2320131ceec26ab63abb0949aadf02ad6ab20d0a08913d2",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_T2].content": {
+      "pl": "TURN",
+      "kr_sha256": "a0dcd86ca390c0a83a3546b1d437af7cf0e7431046dae931f0db1ece42c28ef6",
+      "en_sha256": "a0dcd86ca390c0a83a3546b1d437af7cf0e7431046dae931f0db1ece42c28ef6",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_T3].content": {
+      "pl": "Uczestnicy walki",
+      "kr_sha256": "b86dafe7d15cb5e6c7a6d03c8428b353344a75208fa4382ff47d65c3cf0ff241",
+      "en_sha256": "0e27279b3302db0448a2acf5d923ffb09b75270c2e957bfb93f54815d2146aa4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_T4].content": {
+      "pl": "Aktywne efekty",
+      "kr_sha256": "9a98501a4ab7e7a0e3a85485080cb04f74a13ea8a5586a10560881bbbe5532e5",
+      "en_sha256": "d01db4d8cfb04929e24ca8bc61708e46690e27d9fe86c067222725e0e826f272",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P8_T5].content": {
+      "pl": "Zasoby E.G.O",
+      "kr_sha256": "5ea2a84f6be717d6a2030b3bf0d37fea586280a302737a83ed76c1c6cb28f905",
+      "en_sha256": "dbb7718f6acd46fbb9e4937c30e7ab7e91bcf78e8c61cd968a47c03197c9c309",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_D1].content": {
+      "pl": "Na panelach Tożsamości u dołu ekranu widnieją kolejno: używana umiejętność, oczekujące umiejętności oraz umiejętność obrony każdego uczestnika.",
+      "kr_sha256": "dcabe91eb2def5492ebb0a1f359f0415d2e6956000c807439af603225d917e1a",
+      "en_sha256": "74085ee0c1bc5a99668c61b966cb121fce6c864284f35517b1400851cee76b21",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_D2].content": {
+      "pl": "Gdy masz dość zasobów E.G.O, kliknij E.G.O na panelu Tożsamości, aby go użyć — cel wybierany jest automatycznie.",
+      "kr_sha256": "a9672937979c0b3a2b2b18da14afb31274989cc9c1afb5849ebb002ad73abf28",
+      "en_sha256": "7131674b3e9bba9b7f2f6ffd2ea8faca965473b2bf778f753201aab09f96c7db",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_D3].content": {
+      "pl": "Przeciągnij E.G.O w górę i upuść na wroga, aby samodzielnie wskazać cel.",
+      "kr_sha256": "2c280b9cac38e5e0ae7ba072ed4ffb6ee918d3a9c5951fbe525c00260aa846c9",
+      "en_sha256": "c9d752005632ba7b6db706385c5961e793a0a28b5ee2ea3d1036bfd41d209fe3",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_D4].content": {
+      "pl": "Przeciągnij E.G.O w dół, aby włączyć Przeciążenie — puść palec lub upuść na wybranego wroga, by go użyć.",
+      "kr_sha256": "154522067a619b35e480a1fefdc5d7865fd35061b58ab18751997272b41fb24c",
+      "en_sha256": "6cffe317db3739f474767ecbdcd74b278f7ce8cccf08747633edfedfad43874c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_D5].content": {
+      "pl": "Przytrzymaj E.G.O i puść, aby wyświetlić jego szczegóły.",
+      "kr_sha256": "35499531a2461e5aa8a9f96623098e51ee796c32a72fac62a9930fb99ba20668",
+      "en_sha256": "b00a00f3e7444112f1daa755253051fa8be9ba7c158b1865e753918ea711bc2c",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_T1].content": {
+      "pl": "Panele Tożsamości",
+      "kr_sha256": "a2f540a85f5c494416d019206c1669959784490a2df63eaceb0db84e4ac75b5f",
+      "en_sha256": "3a15d5083e59c3cd3ba3b6bc77971587d93d891d1999f07aa0177987f7a3d100",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_P9_T2].content": {
+      "pl": "Użycie E.G.O",
+      "kr_sha256": "b84bc2bc65d66db45a1e9d06c82b16bc8b4527b70f39479397f89a657d784e74",
+      "en_sha256": "a5be328731902b4789aff9dbaf7f5b3cf02edf7f1bda0014cfd37fd5779cb5ee",
+      "origin": "ai"
+    },
+    "dataList[id=TutoSchemacraft_Title].content": {
+      "pl": "Konstrukcja Schematów",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
       "origin": "ai"
     },
     "dataList[id=TutoUIReplacement_P1_D1].content": {
@@ -2404,6 +4354,72 @@
       "pl": "Podgląd wybranego wyglądu UI",
       "kr_sha256": "fe909b4be491106be5f9632a6950ef9f481882935472d6ba6e083c20fb7ec787",
       "en_sha256": "d389d30620b22ad76f131b6298b71eaea66e61a3e5d7e6461f3c1093239ae6b4",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P4_D1].content": {
+      "pl": "Kliknij ten przycisk, aby ustawić muzykę w tle (BGM) ekranu lobby.",
+      "kr_sha256": "e11e208e8742cd86f7d0a760e2136f1481c04683f1840508869d017da1bb4042",
+      "en_sha256": "e70e3247042080008a248cfd8306be8faf21dda5a4086741960666796582b062",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P4_T1].content": {
+      "pl": "Zmiana muzyki lobby",
+      "kr_sha256": "86ad222c127e3ec0432eb0962cf46e247606b5be6fd5d02d4d7afbf6340cac01",
+      "en_sha256": "ad76848ece2ab0e3e2ef9e551304cc0a326b020ee56071461a21f02e4aebda89",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P5_D1].content": {
+      "pl": "Możesz ustawić wspólną muzykę Okna albo osobny utwór dla każdego Grzesznika.",
+      "kr_sha256": "45ff101a800e21f7951e699f984b8a3137c44154c08ea232e5d9a51788b84851",
+      "en_sha256": "b4f0f1b0ef2b9846bd5dcbafc3129d7c8b68e370a784661e937c189c0c4dc89b",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P5_T1].content": {
+      "pl": "Tryb zmiany BGM",
+      "kr_sha256": "a9c9e866b77d12ae35c963007ee128ba1c286d3bf60d0d1afae42a336fe49482",
+      "en_sha256": "423727b0c7647cd1e4fe7bc5b618bb8355c0393ee494ed3566cba54e3e976fc5",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P6_D1].content": {
+      "pl": "W ustawieniach BGM Okna wybierasz dowolne utwory z pełnej biblioteki i dodajesz je do listy odtwarzania, aby słuchać ich w tle.",
+      "kr_sha256": "a68d6d6ff44ff552aeb7402cf396ed372a1c2e3c2d5d19b7ab582db51b5d8ead",
+      "en_sha256": "4eb9357701d1687eeed6818c30231d190d95701e1bcffccbf5ecfa445f8fc4f1",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P6_D2].content": {
+      "pl": "Zarejestrowana lista odtwarzania będzie odtwarzana w Oknie.",
+      "kr_sha256": "d99071695e515b30d4f81b33ba8d7c436cf6daba36af56be46ae728772d84123",
+      "en_sha256": "addf3d70afe9f6083efad2ac11d1eacc9dfea50cebbc0b6c5d984ba2d52fc1a7",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P6_T1].content": {
+      "pl": "Ustawienia BGM Okna",
+      "kr_sha256": "80fe5bd6e8aa2b0b4c3eed615e439f902bf3214b5feb7780a4abed381e99f083",
+      "en_sha256": "5114be654cd515dc2f353259e3db20e138c96997c961f30b9a9919b2f61fc787",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P7_D1].content": {
+      "pl": "Pozwala przypisać osobny utwór BGM każdemu Grzesznikowi na ekranie lobby.",
+      "kr_sha256": "e838a635950b316d7be2d5066ff7a8669a9a71fe0ae20fd4e12f63cba5a71446",
+      "en_sha256": "c1b9117d915906b1acca64ef999faa466e8a88df16e1c1fb186cae5e8f9baba9",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P7_T1].content": {
+      "pl": "Ustawienia BGM Grzeszników",
+      "kr_sha256": "58ad407694b8c1bf385fef3494c90671bbdafaba01ffad5b58ac1fa3abcdbe59",
+      "en_sha256": "be74066652fc25c449dca596d1e7cfb325ba48bf61e9dcce0323dbe6187ff14e",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P8_D1].content": {
+      "pl": "Wybierz Grzesznika i przypisz mu wybrany utwór — będzie on odtwarzany na ekranie lobby tego Grzesznika.",
+      "kr_sha256": "0b34618db48d007f812ab941261fb944826a80d0186cdfcf2dfc21ce644a18b1",
+      "en_sha256": "6fc4c41162e63b3fa6adb3f5ee8d9935414d48ecbe839a4f213775264717a184",
+      "origin": "ai"
+    },
+    "dataList[id=TutoUIReplacement_P8_T1].content": {
+      "pl": "Ustawienia BGM Grzeszników",
+      "kr_sha256": "58ad407694b8c1bf385fef3494c90671bbdafaba01ffad5b58ac1fa3abcdbe59",
+      "en_sha256": "be74066652fc25c449dca596d1e7cfb325ba48bf61e9dcce0323dbe6187ff14e",
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_01_selection].content": {
@@ -2539,7 +4555,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_01_selection_page_11_desc_01].content": {
-      "pl": "W Walce Seryjnej oprócz uczestników podstawowych możesz wybrać również „jednostki rezerwowe”.",
+      "pl": "W Walce Seryjnej oprócz uczestników podstawowych możesz wybrać również „jednostki rezerwowe”.\n\nGdy uczestnik podstawowy zginie w trakcie walki, jego miejsce zajmuje rezerwowy.\n\nW Walce Seryjnej nie przegrywasz, dopóki nie polegną wszystkie wybrane jednostki (zarówno podstawowe, jak i rezerwowe).",
       "kr_sha256": "acba70063390d4ed6f11b31c56b11cbe68a2d6b973d59105b98d9fe6dc7512fc",
       "en_sha256": "bd2fea9fe5dda65ec38b2b7f267bbcdffa4fe953ffd7a3118bd2951e355367d0",
       "origin": "ai"
@@ -2551,7 +4567,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_01_selection_page_12_desc_01].content": {
-      "pl": "Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają na pole bitwy zgodnie z kolejnością rozstawienia.",
+      "pl": "Gdy uczestnik podstawowy polegnie, rezerwowi wkraczają na pole bitwy zgodnie z kolejnością rozstawienia.\n\nWchodzący do walki rezerwowy odzyskuje PP w liczbie odpowiadającej premii początkowych PP przypisanej do jego numeru rozstawienia.\n\nW niektórych Walkach Seryjnych wchodzący rezerwowi otrzymują też dodatkowe wzmocnienia.\n\nWykorzystaj to, aby strategicznie zaplanować kolejność rozstawienia.",
       "kr_sha256": "79bb1b12bb3151db33db787da7fb945952fc9a4b414d19cf098cce5a5d01ddb2",
       "en_sha256": "edf609325d6cef55304adce652d88cc6c5646934d6dcaf6ceca96cc66fb366b5",
       "origin": "ai"
@@ -2563,7 +4579,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_01_selection_page_13_desc_01].content": {
-      "pl": "W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.",
+      "pl": "W Walce Seryjnej śmierć sojusznika nie powoduje utraty PP z podstawowych warunków zmiany Poczytalności.\n\nGdy uczestnik polegnie w walce, zastępuje go rezerwowy o najniższym numerze w kolejności rozstawienia.\nNazywa się to „Wejściem Rezerwy”.\n\nPasywka bojowa poległej Tożsamości przełącza się na pasywkę wsparcia.\n\nPasywka wsparcia wchodzącej Tożsamości rezerwowej przełącza się na pasywkę bojową.",
       "kr_sha256": "e5e5d200c231be40ee9f2a74ae0b5c369f19535eda208f81ef8b921c828ee875",
       "en_sha256": "1f7f07e5d24a375eeebd93e878f975ca82bf136b4a2fbfb9f09a5582e04498a5",
       "origin": "ai"
@@ -2575,7 +4591,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_01_selection_page_14_desc_01].content": {
-      "pl": "W Walce Seryjnej w miejscu dotychczasowego wskaźnika fal (WAVE) wyświetlana jest łączna liczba wrogów w walce oraz liczba pokonanych wrogów.",
+      "pl": "W Walce Seryjnej w miejscu dotychczasowego wskaźnika fal (WAVE) wyświetlana jest łączna liczba wrogów w walce oraz liczba pokonanych wrogów.\n\nDodatkowi wrogowie przyzywani w trakcie walki po spełnieniu określonych warunków nie są jednak uwzględniani na tym wskaźniku.",
       "kr_sha256": "5c5c9046ee011b42c233ed56fd9f33505852c0c4997a5a637b0e283df0544fd9",
       "en_sha256": "1a1437ba180f56ebd8047147c659cfd919a2b0954c43626e14f9183da7775a67",
       "origin": "ai"
@@ -4663,7 +6679,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_20_umida_03_desc_01].content": {
-      "pl": "M.O.R.Z.E. obejmuje łącznie 12 etapów wraz z odcinkami fabularnymi.",
+      "pl": "M.O.R.Z.E. obejmuje łącznie 12 etapów wraz z odcinkami fabularnymi.\nPierwsze ukończenie z warunkiem EX zapewnia dodatkowy [Złom do Przebudowy Autobusu] (1 raz).",
       "kr_sha256": "f6ec662da92c538e3e93b46d356a498e69832f63640d02f5a285744ecb58f92c",
       "en_sha256": "f0bc34576a4cd116e838d388db8d85fa07946f50e6edb0fee6396cc9e5361bc3",
       "origin": "ai"
@@ -4885,7 +6901,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_21_railway2_page_09_desc_01].content": {
-      "pl": "Po wejściu na kolejną stację wczytywane są dane zapisane na poprzedniej stacji.",
+      "pl": "Po wejściu na kolejną stację wczytywane są dane zapisane na poprzedniej stacji.\nSzybkość sojuszników i wrogów zapisywana jest w momencie wejścia na stację.",
       "kr_sha256": "3408bdd0c9f5a69831f46f399ec8dc067dd6b15153f12d9205efa2df52d5cd05",
       "en_sha256": "31bff120ff58c49b586d40330dc339f1961403d49b3849aa610a8c5b35b077af",
       "origin": "ai"
@@ -4897,7 +6913,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_21_railway2_page_10_desc_01].content": {
-      "pl": "Poddanie etapu cofa stan gry do momentu tuż przed wejściem na daną stację.",
+      "pl": "Poddanie etapu cofa stan gry do momentu tuż przed wejściem na daną stację.\nPŻ, PP i Szybkość Tożsamości, umiejętności na panelu dowodzenia, stan zużycia umiejętności oraz Szybkość wrogów z początku poprzedniej walki pozostają bez zmian.",
       "kr_sha256": "b9d9639ad191044783c19b729b17c76d69d086b76120bb4704709de0540de215",
       "en_sha256": "31cc0f0d5cb539c2a893f8e177017d1eb43483daa9e43be46fd397095da73bc0",
       "origin": "ai"
@@ -4963,7 +6979,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_21_railway2_page_15_desc_01].content": {
-      "pl": "Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.",
+      "pl": "Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.\nJeśli jednak wszystkie efekty zostały już wybrane po razie, pula wyboru się resetuje i znów możesz wybrać dowolny efekt.",
       "kr_sha256": "3e3f75f611c784789c7c172b5d7364cd60eeb08e0aedd85d8a8b259a14c48eb4",
       "en_sha256": "f3d2ea4490cd6f19fd24c8be7ea7a5162e43210a2851a458b7d69d626bee8c37",
       "origin": "ai"
@@ -5017,7 +7033,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_21_railway2_page_19_desc_02].content": {
-      "pl": "Im trudniejszy warunek zdobycia, tym bardziej wyjątkowy baner otrzymasz.",
+      "pl": "Im trudniejszy warunek zdobycia, tym bardziej wyjątkowy baner otrzymasz.\nPo zdobyciu baneru widnieją na nim liczba cykli oraz łączna liczba tur z twojego najlepszego rekordu.",
       "kr_sha256": "e613163b70373498d010969839733ef9f9f57b1ca42570ccf8eb6279d9372b2a",
       "en_sha256": "2feb5f1961d303eaad9b18d3c8e3e1679124f4b6959af41e6688fce346c6369d",
       "origin": "ai"
@@ -5041,7 +7057,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_21_railway2_page_20_desc_02].content": {
-      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.",
+      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.\nWszystkie kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.",
       "kr_sha256": "64de29cda43a0b99daca147a58e44a51a11d36a36d04b0ac3326a33caaececf4",
       "en_sha256": "8d9da4a95b0d078c263fc6120caee8a907b8fd8a25aeb91f3317600a9367f0fe",
       "origin": "ai"
@@ -5125,7 +7141,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_22_railway2_page_5_desc_01].content": {
-      "pl": "Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.",
+      "pl": "Wybierz 1 wzmocnienie wrogów. Nie możesz wybrać efektu wybranego wcześniej.\nJeśli jednak wszystkie efekty zostały już wybrane po razie, pula wyboru się resetuje i znów możesz wybrać dowolny efekt.",
       "kr_sha256": "3e3f75f611c784789c7c172b5d7364cd60eeb08e0aedd85d8a8b259a14c48eb4",
       "en_sha256": "f3d2ea4490cd6f19fd24c8be7ea7a5162e43210a2851a458b7d69d626bee8c37",
       "origin": "ai"
@@ -5185,7 +7201,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_24_miracle_02_desc_01].content": {
-      "pl": "Tutaj wyświetlany jest czas trwania wydarzenia Cud w Dystrykcie 20. W trakcie wydarzenia ukończenie etapów lub lochów wydarzenia i Głównej Opowieści zapewnia [Worki Ozdób].",
+      "pl": "Tutaj wyświetlany jest czas trwania wydarzenia Cud w Dystrykcie 20. W trakcie wydarzenia ukończenie etapów lub lochów wydarzenia i Głównej Opowieści zapewnia [Worki Ozdób].\n※ [Worków Ozdób] nie można jednak zdobyć w Lochach Wydobywczych.",
       "kr_sha256": "b0bed7240d76cd7d24ced334da36b1a82d728f2f498ac0ff01c7915a09170c6d",
       "en_sha256": "3918c94d25bb7387bb31eb90fdb6fcbc48dfb0a080a3f2066108c2ebdc15b4c3",
       "origin": "ai"
@@ -5197,7 +7213,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_24_miracle_03_desc_01].content": {
-      "pl": "Cud w Dystrykcie 20 obejmuje łącznie 13 etapów wraz z etapami fabularnymi.",
+      "pl": "Cud w Dystrykcie 20 obejmuje łącznie 13 etapów wraz z etapami fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Worki Ozdób] za pierwsze ukończenie (1 raz).",
       "kr_sha256": "bfd78bbc70ee6fb4b65d289f38f98bf462839878ea8dbf00b52a508deaa3ca2d",
       "en_sha256": "dd25385fc942696c8cc2324e248bc22a22efe702e87dac9f797ed212ec867c9e",
       "origin": "ai"
@@ -5227,7 +7243,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_24_miracle_05_desc_01].content": {
-      "pl": "W [Wymianie prezentów] odbierzesz rozmaite nagrody proporcjonalnie do liczby zebranych [Worków Ozdób].",
+      "pl": "W [Wymianie prezentów] odbierzesz rozmaite nagrody proporcjonalnie do liczby zebranych [Worków Ozdób].\nMożesz zebrać maksymalnie 4000 [Worków Ozdób].",
       "kr_sha256": "c10832f9a428b76f4b18b1626b6ddcdf5ae82054237d9f34dcef12817e2d7fab",
       "en_sha256": "115cfe9df5342eaa95b50fa3c7dd65819f0e35509db44ba02b0041448b690f93",
       "origin": "ai"
@@ -5395,7 +7411,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_26_ycgd_01_desc_01].content": {
-      "pl": "[Strona wydarzenia Oddam Ciało, by Złamać Ich Kości] odblokowuje się po ukończeniu etapu 5.5-12 Głównej Opowieści.",
+      "pl": "[Strona wydarzenia Oddam Ciało, by Złamać Ich Kości] odblokowuje się po ukończeniu etapu 5.5-12 Głównej Opowieści.\n\nWejdziesz na nią przez baner wydarzenia w Oknie lub Jeździe.",
       "kr_sha256": "f228b58ac13706eb615f4367269447ae77735c8317f0908a34e8d5f202a2323f",
       "en_sha256": "c1811365d742a1ffa697bb178489c7691ed4c46d2aaabdb78570c8ee1576f575",
       "origin": "ai"
@@ -5413,7 +7429,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_26_ycgd_02_desc_01].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości.",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Oddam Ciało, by Złamać Ich Kości.\n\nZa każde ukończenie etapów i lochu wydarzenia otrzymasz [Zakrwawione Pochwy]. Zdobędziesz je także za pierwsze ukończenie etapów i lochów Głównej Opowieści oraz za przejście Lustrzanych Lochów.\n\n※ [Zakrwawionych Pochew] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "3fc5981507855bb1c1d58808b549fd92628fa3aaa996fc32c90cd942c6d6083f",
       "en_sha256": "9d2e1523304ab69acc70881a0c457fd8d6b35c84bad38d605058505dd558fb24",
       "origin": "ai"
@@ -5479,7 +7495,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_26_ycgd_07_desc_01].content": {
-      "pl": "Ostatnia walka wydarzenia Oddam Ciało, by Złamać Ich Kości przebiega na zasadach Lustrzanych Lochów.",
+      "pl": "Ostatnia walka wydarzenia Oddam Ciało, by Złamać Ich Kości przebiega na zasadach Lustrzanych Lochów.\n\nWejście zużywa Moduły Enkefaliny.",
       "kr_sha256": "118357df374cb16d1e7b0718c61756834680efa75020ef1504d325cadfb825fe",
       "en_sha256": "3b82e8d34d3726282ae1cc2026130d32c3fd76b81a17fd90685060d84c0d0e82",
       "origin": "ai"
@@ -5491,7 +7507,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_26_ycgd_08_desc_01].content": {
-      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].",
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Przepełnionej Żalem Pochwy].\n\nZdobyta [Przepełniona Żalem Pochwa] jest automatycznie zamieniana na 20 [Zakrwawionych Pochew].",
       "kr_sha256": "2a7edd6a29a7ad8f1573d362ac9822f2afc48f3de1f904e5735e3de209f1e75a",
       "en_sha256": "b02de6b8780a334a7397be8e03dea9c6d9c8f7b8c81f03b9aefc3ed067de1316",
       "origin": "ai"
@@ -5533,7 +7549,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_28_tkt_02_desc_01].content": {
-      "pl": "Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu.",
+      "pl": "Tutaj widnieje czas trwania wydarzenia Czas Zabijania Czasu.\nW trakcie wydarzenia ukończenie etapów Czasu Zabijania Czasu, Lustrzanych Lochów lub pierwsze od startu wydarzenia ukończenie etapów Głównej Opowieści zapewnia [Zegarki Kieszonkowe].\n\n※ [Zegarków Kieszonkowych] nie można zdobyć w Lochach Wydobywczych ani w Kolei Załamania.",
       "kr_sha256": "f805c1908cb57039c1f0283caa8cfd904d08211f24c12b463ac3ddfd6c7a612e",
       "en_sha256": "784fe0b1d4b8de937a3bac8674681689e69597f0e8d1800f6b5dfe5f7c45d0c3",
       "origin": "ai"
@@ -5545,7 +7561,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_28_tkt_03_desc_01].content": {
-      "pl": "Wydarzenie Czas Zabijania Czasu obejmuje łącznie 14 etapów (wraz z fabularnymi) oraz 1 loch.",
+      "pl": "Wydarzenie Czas Zabijania Czasu obejmuje łącznie 14 etapów (wraz z fabularnymi) oraz 1 loch.\n\nWalki wydarzenia zapewniają bardzo dużo [Zegarków Kieszonkowych] jako nagrodę za pierwsze ukończenie (1 raz).",
       "kr_sha256": "0461229e98a7510f0f14980834902721233075e27a3b8baf4a92d06c62fa6e59",
       "en_sha256": "4bd649bf7d2f9b74713f694ec2abf585dbbddea03b056870ea67e531e74bb622",
       "origin": "ai"
@@ -5605,7 +7621,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_28_tkt_08_desc_01].content": {
-      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Pęku Zegarków Kieszonkowych].",
+      "pl": "Po zwycięstwie w walce masz niewielką szansę na zdobycie [Pęku Zegarków Kieszonkowych].\n\nZdobyty [Pęk Zegarków Kieszonkowych] jest automatycznie zamieniany na 20 [Zegarków Kieszonkowych].",
       "kr_sha256": "1409b131e2f6f891c6764fe724fec6ed80cbca7c48cd72708aaf9cbbfa8c53d0",
       "en_sha256": "0e72cff9c61e4cc7a3ba66bce507446b9967ed119157f2219951c16ca2640708",
       "origin": "ai"
@@ -5653,7 +7669,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_29_mowe_03_desc_01].content": {
-      "pl": "Morderstwo w Ekspresie WARP obejmuje łącznie 15 etapów wraz z fabularnymi.",
+      "pl": "Morderstwo w Ekspresie WARP obejmuje łącznie 15 etapów wraz z fabularnymi.\nWalki wydarzenia zapewniają dodatkowo [Pakiety Rekonstrukcyjne Pasażera] za pierwsze ukończenie (1 raz).",
       "kr_sha256": "27e86a1734f7177a4c3e64760ca0665c1827d350be8359455826e8cba10fcb95",
       "en_sha256": "62664744d53136956761f00718a69a910859a7e2c0c6059439bcbc8876391a6f",
       "origin": "ai"
@@ -5881,7 +7897,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway3_page_11_desc_01].content": {
-      "pl": "W trakcie wyprawy możesz rozpocząć grę od nowa od dowolnego ukończonego wcześniej etapu.",
+      "pl": "W trakcie wyprawy możesz rozpocząć grę od nowa od dowolnego ukończonego wcześniej etapu.\nWalka rozpocznie się wówczas ze stanem Tożsamości i zasobami E.G.O z momentu wejścia na ten etap, a postępy z późniejszych etapów zostaną zresetowane.",
       "kr_sha256": "f57dcd5103a9a2f63263954f3e964affb08914ff8e66e84652235c4ea476b5f2",
       "en_sha256": "c26a580db328fb9cf1e6408fbf0857867a4a9af6b498289971b9e3ce9373dea9",
       "origin": "ai"
@@ -5959,7 +7975,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway3_page_15_desc_02].content": {
-      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.",
+      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.\nWszystkie kolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.",
       "kr_sha256": "64de29cda43a0b99daca147a58e44a51a11d36a36d04b0ac3326a33caaececf4",
       "en_sha256": "8d9da4a95b0d078c263fc6120caee8a907b8fd8a25aeb91f3317600a9367f0fe",
       "origin": "ai"
@@ -5995,7 +8011,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_01_desc_01].content": {
-      "pl": "Wybierz aktywną linię, aby wejść.",
+      "pl": "Wybierz aktywną linię, aby wejść.\n\nWejście do Kolei Załamania nie zużywa żadnych walut.",
       "kr_sha256": "a154422e4bb717bc69de6ccaf7fed6223e9461c15597bc70d3a22eefc93463c0",
       "en_sha256": "3fcf4ac6183bc99c6d6f20855830ccc8f7f27761427e2e78e2d0365f140c0dfc",
       "origin": "ai"
@@ -6067,7 +8083,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_05_desc_02].content": {
-      "pl": "Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.",
+      "pl": "Po ukończeniu odcinka zapisywana jest liczba tur ukończenia.\n\nObok niej zapisywana jest łączna liczba tur będąca sumą tur ukończenia wszystkich odcinków od Odcinka 1 do bieżącego.",
       "kr_sha256": "a63515aea6a1f93500fca58afbc0b226c61e453c8639e6de1c7b1599f9cf749a",
       "en_sha256": "0018d6d69390c08ab8e7abb0cb407c8f054e2efce8b7b6aa6929d24a851169af",
       "origin": "ai"
@@ -6097,7 +8113,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_07_desc_01].content": {
-      "pl": "Linia 4 rozgrywana jest w trybie Walki Seryjnej.",
+      "pl": "Linia 4 rozgrywana jest w trybie Walki Seryjnej.\n\nW Walce Seryjnej po śmierci uczestnika w polu jego miejsce zajmuje kolejny rezerwowy zgodnie z ustaloną kolejnością.",
       "kr_sha256": "df54617b9d35909911a689a7680e04bbd9d3b28420250f88bd730d013f3406a6",
       "en_sha256": "fd9f50bff401813ef4637bbe06b4adaf1412aca2efcaa42e87a96b35a690a167",
       "origin": "ai"
@@ -6115,7 +8131,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_08_desc_01].content": {
-      "pl": "Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.",
+      "pl": "Wszystkie walki odbywają się w trybie starcia skupionego, w którym bezpośrednio kierujesz umiejętności sojuszników przeciw wrogom.\nPo wejściu na Linię 4 Kolei Załamania możesz użyć zdolności Sadzonki Światła 1 raz na wyprawę.\nJej użycie nie zużywa dziennego limitu poza tym trybem.",
       "kr_sha256": "da011464f74ae4912366929a4a4083c45eea4b8a61fc897c1052e22aced6ac98",
       "en_sha256": "1016f18cdf1738fa8a4778ead7ec476c3e5f9b39c998e62b7320d5142c3e6dbe",
       "origin": "ai"
@@ -6151,7 +8167,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_10_desc_02].content": {
-      "pl": "Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.",
+      "pl": "Gdy rezerwowy wchodzi do walki, jego pasywka wsparcia zamienia się w pasywkę bojową.\n\nGdy uczestnik podstawowy zginie, jego pasywka bojowa zamienia się w pasywkę wsparcia.",
       "kr_sha256": "ef9943cea6f4a4a7d7a5bc3f1c2061ad32123225cb11c73971604478885f5419",
       "en_sha256": "cce54eb29d06953e54b0afa887a5821c2d56a6d2c760b339b1b1ea449a0dd221",
       "origin": "ai"
@@ -6223,7 +8239,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_14_desc_02].content": {
-      "pl": "Na stacjach postojowych możesz swobodnie zmienić skład drużyny.",
+      "pl": "Na stacjach postojowych możesz swobodnie zmienić skład drużyny.\n\nJeśli dany etap sprawia trudności, zalecamy wymianę składu na stacji postojowej.",
       "kr_sha256": "8847b0cc0aa75bc80e0e8b701add7daa20a1870744e8551a1ee3439f0bf5a016",
       "en_sha256": "01994b184999188cc529908b54d02e08ac72d8c4a1c82907df02aab6a6dd794c",
       "origin": "ai"
@@ -6283,7 +8299,7 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_mainui_railway4_page_18_desc_02].content": {
-      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.",
+      "pl": "Aby po raz pierwszy odebrać nagrody w Biurze Rzeczy Znalezionych, należy jednorazowo zapłacić określoną liczbę Modułów Enkefaliny.\n\nKolejne odblokowane nagrody odbierzesz w dowolnej chwili bez dodatkowych Modułów Enkefaliny.",
       "kr_sha256": "15cc81332046f3236a3cbb1991252e39ab5be3a9a3cbec5f1d013a72b6fe2b7c",
       "en_sha256": "8d9da4a95b0d078c263fc6120caee8a907b8fd8a25aeb91f3317600a9367f0fe",
       "origin": "ai"
@@ -6793,13 +8809,13 @@
       "origin": "ai"
     },
     "dataList[id=tutorial_walpurgisnacht_extraction_page_02_desc_01].content": {
-      "pl": "W trakcie wydarzenia Tożsamości oraz E.G.O z bieżącej Nocy Walpurgii mogą pojawić się także w innych Ekstrakcjach (z wyjątkiem Ekstrakcji powiązanych z sezonem).",
+      "pl": "W trakcie wydarzenia Tożsamości oraz E.G.O z bieżącej Nocy Walpurgii mogą pojawić się także w innych Ekstrakcjach (z wyjątkiem Ekstrakcji powiązanych z sezonem).\n\nW takich Ekstrakcjach szansa ich pojawienia się nie jest jednak dodatkowo zwiększona.",
       "kr_sha256": "82d4919ada1a11fa893d70ef8e5b0bbc3b76525635716e5712c57d77f9037823",
       "en_sha256": "b6b7f2cf9ba8d625c22aaf33ccf477893a9bc56c2d5b2cc115a071480d88259e",
       "origin": "ai"
     },
     "dataList[id=tutorial_walpurgisnacht_extraction_page_03_desc_01].content": {
-      "pl": "W trakcie wydarzenia we wszystkich Ekstrakcjach (z wyjątkiem powiązanych z sezonem) mogą pojawić się Tożsamości i E.G.O z poprzednich edycji Nocy Walpurgii.",
+      "pl": "W trakcie wydarzenia we wszystkich Ekstrakcjach (z wyjątkiem powiązanych z sezonem) mogą pojawić się Tożsamości i E.G.O z poprzednich edycji Nocy Walpurgii.\n\nSzansa ich wylosowania jest wówczas taka sama jak dla pozostałych Tożsamości i E.G.O.",
       "kr_sha256": "297d83322a9d223845cc69d1f0999b5856fb3b78a336903ffd2a993c6a1f8ac5",
       "en_sha256": "c085f0594437f7dba947ab0cc6f74d6a0e86ac25b541fe17c42f4bf4a855a3d1",
       "origin": "ai"

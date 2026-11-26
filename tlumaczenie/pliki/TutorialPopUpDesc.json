@@ -1,0 +1,334 @@
+{
+  "entries": {
+    "dataList[id=tutorial_ab_assign_skill_1].content": {
+      "pl": "Kliknij umiejętność sojusznika i przeciągnij ją na slot umiejętności nad głową Anomalii, aby wyznaczyć cel.\nKażdy slot umiejętności odpowiada określonej części ciała.",
+      "kr_sha256": "1f18282e5a493f8294310d0e058b1a316f6655e445264c0d4298c4803a9d3fa2",
+      "en_sha256": "5db0bb0d18ad95f0cf198e3f3521ef78523ee3ae594a1e0601082f9ee6774604",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ab_assign_skill_title].content": {
+      "pl": "Wybór celów w walce z Anomalią",
+      "kr_sha256": "a038df9f09db6dd5ba7ca7a51578ad92d2d733e865e387d6accb5b8cd5187fee",
+      "en_sha256": "b48eeaf909fcf2961cc3cad0535b86a60067b7be0aab2412c0503c8fac42eaf5",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_adding_slot_1].content": {
+      "pl": "Liczba slotów akcji wynosi maksymalnie 12; w każdej turze uczestnicy otrzymują dodatkowy slot zgodnie z kolejnością rozstawienia — niezależnie od „Oszołomienia”, „Paniki” czy „Korozji E.G.O”.\nPomijani są ci, którzy zyskali już slot w poprzednich turach, dopóki każdy uczestnik nie otrzyma po jednym.\nGdy wszyscy zyskają po slocie, cykl naliczania zaczyna się od nowa.\nW miarę trwania walki rośnie również liczba slotów wrogów.",
+      "kr_sha256": "f60f8f5c312deb5143cab947fa7a3c068e17b34808b88c468f18c22cc75685d2",
+      "en_sha256": "d736a378afec5d80e23770a846ee881de568d2b9637f4a6bdf59fbcc88dd8e04",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_adding_slot_title].content": {
+      "pl": "Dodatkowe sloty",
+      "kr_sha256": "6fd2ec11c1a738143d8d9e75a599f07eca52ce291cdeb9db91f1aedf51c550c1",
+      "en_sha256": "523d5bb947121d446273a66948e71df2b51bd124f2cc180a5e3e7c3d0eb243e9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_destroypart_1].content": {
+      "pl": "Gdy PŻ części Anomalii spadną do 0, następuje „Zniszczenie części”.\nWszystkie odporności fizyczne zniszczonej części zmieniają się na Podatność (Fatal).\nZależnie od części jej zniszczenie może zablokować niektóre umiejętności lub usunąć pasywki.\nNiektóre Anomalie po utracie części wpadają w szał albo regenerują zniszczoną część.",
+      "kr_sha256": "864c51f344ffe9df99b70d2d1e59615aff86e23ae7276c512bde55ab472fab23",
+      "en_sha256": "6e5fb88eb6c2e88cb13bb5d701dbe7ce7b5185e1fdd8c632132357b7b10f1555",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_destroypart_title].content": {
+      "pl": "Zniszczenie części",
+      "kr_sha256": "a2edfc40d57bf85df7f79cc04a6e9717103f627af0e24a46b365286e801ea691",
+      "en_sha256": "f5fd55afe9f1f1714026fc151fc72237cd1d1a317f19b4961bff059832bca91c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_guide_1].content": {
+      "pl": "W Kompendium Anomalii zapisywane są informacje o jej poszczególnych częściach.\nPrzy pierwszym spotkaniu wpis w Kompendium jest niepełny\ni uzupełnia się stopniowo w miarę kolejnych walk z Anomalią.\nWielokrotne spotkania i walki z Anomalią podnoszą jej Poziom Obserwacji,\na wyższy Poziom Obserwacji zwiększa zadawane jej obrażenia.",
+      "kr_sha256": "ef56953c8edf5433fce0a7b12db95fbd12778a7eb576b7f1b10b562068980141",
+      "en_sha256": "f714e0ff5ee2297e168ccadb8132f07a0fb7b6ba9713b52d17ba21ca12cc2fd7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_guide_title].content": {
+      "pl": "Kompendium Anomalii",
+      "kr_sha256": "69cc07aad07a755661f7266ddbb46cb256536adecd2a3201195f6b4cf4ebcfa3",
+      "en_sha256": "dc716c7b1aa4c44085f6d6b3c653f6bc6b1f2cabe08333ac4e9a612a10f97616",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_part_1].content": {
+      "pl": "Każda Anomalia posiada co najmniej 1 część.\nPoszczególne części różnią się PŻ, odpornościami oraz używanymi umiejętnościami.",
+      "kr_sha256": "84648264962057da21b6aa7b20431c85f45080fdc93853670a7e7ac7f25f405c",
+      "en_sha256": "d0940daf98ad6d50c48866f1aa32825004bac10cd8fef6626136fb37b9393d00",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_part_title].content": {
+      "pl": "Części Anomalii",
+      "kr_sha256": "dac3210da917fd13a1d4f4d0d7ab2b3cdfc8a54b58db085806ce8e6d284b4ab8",
+      "en_sha256": "8885f3d7595f51c02aa4add2c795dacebcf95e3716f99f775da56bd54d168ce4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_selection_1].content": {
+      "pl": "Każda opcja wyboru w starciu z Anomalią wymaga określonego grzechu oraz progu wartości.\nWskazanie Grzesznika z pasującym grzechem zwiększa szansę powodzenia.\nReakcja Anomalii zależy od wybranej opcji oraz wyniku testu:\nsukces zapewnia zazwyczaj korzyści, a porażka nakłada negatywne efekty.",
+      "kr_sha256": "2c33aebb3178c2a22daf0a7d8c901c29c01f8d50f15661cd2589e08fcd4c1fc3",
+      "en_sha256": "ff6a1368bac8ba80c43a24be20fd97b60778f6cd6995a0f590d8bd79d5dc5c3e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_selection_title].content": {
+      "pl": "Wydarzenia wyboru",
+      "kr_sha256": "515a4984156aa49376f221dcf04fd8505ca88a2b45e1874bb7a72a0ea8ac714b",
+      "en_sha256": "de07d07209556c79b9ebb275d801fb2074d1460474841a5d9d8b0475d01dc826",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_speed_1].content": {
+      "pl": "Każda część Anomalii posiada własne sloty oraz Szybkość.\nSzybkość części decyduje o kolejności działań i o możliwości przekierowania ataku.\nPrzeciągnięcie umiejętności sojusznika o „wyższej Szybkości” na slot umiejętności Anomalii wywołuje „Starcie” i zmienia cel jej ataku.",
+      "kr_sha256": "e261aeb2f5999733beb9abfaa8ebfa11341a3422d9e4886b0ccebd2dafdd0129",
+      "en_sha256": "cd0b50083e9b49d91744c0e8a121dc723cbee68b4321e923461b80b9c741493b",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_ab_speed_title].content": {
+      "pl": "Szybkość Anomalii",
+      "kr_sha256": "d18f647c6a350f86773a2f3e811efa0ae689e5a7861faad4c08c7fe908521ed1",
+      "en_sha256": "50de9dba953c1761e84d311c7b8e77f8b21cef7538cf5129f1130967e8e16142",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_0].content": {
+      "pl": "Twoim celem jest dotarcie do ostatniej komnaty najniższego piętra i odzyskanie Złotej Gałęzi.\nLoch składa się z wielu pięter pełnych wydarzeń oraz starć.\nUkończenie ostatniej komnaty piętra przenosi na kolejne piętro.",
+      "kr_sha256": "1ddb769505cb2631479c6f6fa7fc94a6aa7a6b22cf628daeac32f0c74cbff6ea",
+      "en_sha256": "b2b121be226065f67652026dca52e68224f0830d78d04b78d77d0a4bb5fdfc9e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_0_title].content": {
+      "pl": "Struktura Lochu",
+      "kr_sha256": "223ed40d301be70d4c092b7d980d8a79b6ac9ff2705a2c7acc4dfb4f804a9eda",
+      "en_sha256": "a9106dbf4d307b5e73785586926278fcfb15b4718bb1a487605690c6e6b3d604",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_1].content": {
+      "pl": "Od każdej komnaty Lochu odchodzi jedna lub więcej ścieżek.\nKliknij dowolną komnatę połączoną z bieżącą, aby się do niej przemieścić.\nMożesz swobodnie wracać po własnych śladach, więc bez obaw wybieraj kierunek eksploracji.",
+      "kr_sha256": "b31fc844fad2092093b3298dd49ae9875abd38458739ea47d0927b7f546a4fe4",
+      "en_sha256": "79cc3ae37ecce6fc42622e41c129dbe0ec7b046219fa197cd44bead0a9795796",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_1_title].content": {
+      "pl": "Poruszanie się po Lochu",
+      "kr_sha256": "7508942ad555ffea6a4877c3526f7e7584fac1b96b7be155fe1e68666d189b4b",
+      "en_sha256": "6bd2797a27ff604d915a2c98ef19bf1faa42f40bf309ebd160d398a5d9850f8e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_2].content": {
+      "pl": "Po walkach w Lochu PŻ ani PP Grzeszników nie odnawiają się samoczynnie.\nGrzesznik z 0 PŻ nie może walczyć, więc uważnie śledź stan drużyny.\nPŻ oraz PP odnowisz w punktach zapisu na piętrze.",
+      "kr_sha256": "0b306248b2d49311a2de7537949fded950ed5b227cc8a7896533d15bfa52a9f6",
+      "en_sha256": "9416227dd81cc799918601aeca583d9c98d7847557b0edbbe64b046ae84963cb",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_2_title].content": {
+      "pl": "Kumulacja zmęczenia",
+      "kr_sha256": "a3a3e065b4373fbd0e5f70ddb489d325b239d9f7d77c14514c7072f157cfb547",
+      "en_sha256": "721b1e93436fd41bf6fa7befd2cd969189290129d5f6a6a8d94977456001ab44",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_3].content": {
+      "pl": "W razie porażki walka dobiega końca, a jeśli pozostali przy życiu inni Grzesznicy, możesz spróbować ponownie od początku starcia.",
+      "kr_sha256": "006c03a61a838cdd1ea8a381870e80a411512351b4d992a21825d52ebf6a83a6",
+      "en_sha256": "98bf8ca19bc15615f0c81d7e7094ff3afc76022fd0cb424bdb69fcc3a99fbbaa",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_entry_3_title].content": {
+      "pl": "Porażka i ponowienie",
+      "kr_sha256": "9e604a8989d1d5deb803ea4c5aa8cabf47f820ecf745a3f05f562c5a94600d6b",
+      "en_sha256": "4587ffd86c59c495e49824b156bbc740e5d2a975dd085d358940645e469c8cb9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_formation_1].content": {
+      "pl": "Na końcu każdego rozdziału czeka dawna placówka oddziału L Corp., którą musimy zbadać — „Loch”.",
+      "kr_sha256": "e79af02d436b8cd26ea9859e3ed3a518727d3f96f7a7ff42f13225b4636bfe5b",
+      "en_sha256": "912f64f3893ce31402dfbe39f2126465493fb6fe03ff9cf4b9f9804fb9154a6f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_formation_2].content": {
+      "pl": "Wybierz Tożsamości Grzeszników, które wyruszą do Lochu.\nPo wejściu nie będzie można zmienić składu, więc dokonaj wyboru rozważnie.",
+      "kr_sha256": "156c75fe4a79f80a48172c47774d6e25ca7808fb43ce587c4c21c9eec481b098",
+      "en_sha256": "03d6f1b6772666b79c23d8772aff0921f778c9d1858c41f595ef1a4243c5ecf7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_formation_start_button].content": {
+      "pl": "Po zakończeniu układania składu naciśnij tutaj przycisk [Wejdź].",
+      "kr_sha256": "78ccb91d791cd290ea27726c4df4799db8fa8e9718817fe3fd5c8b31cd22412f",
+      "en_sha256": "d5148b4e376ae1fd56afdcbeb09b2ee820689b75982a3dbb0f7873967ba4e386",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_saveroom].content": {
+      "pl": "W różnych miejscach Lochu znajdują się punkty zapisu.\nWejście do punktu zapisu w pełni odnawia PŻ i resetuje PP Grzeszników.\nGdy zginą wszyscy Grzesznicy, drużyna odrodzi się w ostatnim punkcie zapisu.\nPamiętaj jednak, że postępy poczynione za tym punktem zapisu zostaną zresetowane.",
+      "kr_sha256": "8d1eb44405733a5331f0af8c71980f9055b08ddc7442125e61174a17a4656219",
+      "en_sha256": "64f1b8a37b8481b62171d125744179aa6da850ff69a0a6848436526528061385",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_saveroom_1].content": {
+      "pl": "W różnych miejscach Lochu znajdują się punkty zapisu.\nDotarcie do punktu zapisu w pełni odnawia PŻ i PP Grzeszników oraz zapisuje postęp.\nJeśli wszyscy Grzesznicy zginą, odrodzą się w ostatnio odwiedzonym punkcie zapisu,\njednak cały postęp za tym punktem zapisu zostanie wówczas zresetowany.",
+      "kr_sha256": "bd6934459f0077dff5a158f6fa2094b2efecf7ad10aa9cb52055d4949c2c81d8",
+      "en_sha256": "64f1b8a37b8481b62171d125744179aa6da850ff69a0a6848436526528061385",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_dungeon_saveroom_title].content": {
+      "pl": "Punkty zapisu",
+      "kr_sha256": "1eac65954f65f0b54cc3d548df25fc516a6a56d675076500cb6c9fa2820c95eb",
+      "en_sha256": "d76c241e62e34c37286cca0ea89df6e300f324bf357aebc622c5d55a3e375af9",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_main_low_0].content": {
+      "pl": "Samouczek menu głównego #1",
+      "kr_sha256": "bf34a651e17545a8ba11c29e03fe35c09fbb6dcb3aa0f0b310f288d6b8dfd36f",
+      "en_sha256": "63e803c4f79a25d1b13659c4693efa4b236394a372d3e7b85953d223722dbc2a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_main_low_1].content": {
+      "pl": "Samouczek menu głównego #2",
+      "kr_sha256": "03e8358240eccb09d9f0b06429cf41a73e33bc1a8c32d2d7154f7b4a0a6b3341",
+      "en_sha256": "591c00903dc0cb42772826621b2fc8bf2168230ae7bde4aeccfed0cf95152fd1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_main_low_2].content": {
+      "pl": "Samouczek menu głównego #3",
+      "kr_sha256": "0a811f1576babd9e25ebacdba538e6b34f014e8c349cf351a9392188527ad2e0",
+      "en_sha256": "b72d3b64c40683b135bb430f4ec571752d1009cca8a0f75389b956ef82bf6951",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_main_low_3].content": {
+      "pl": "Samouczek menu głównego #4",
+      "kr_sha256": "3575625bcdcc7bf7464715eb496deea3848b11887b35b98f1b8faa15fae113cb",
+      "en_sha256": "cda080efcafd3e3c595ea99b36fc03275d4a9e05baae970b6963d46cb55eed52",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_main_low_4].content": {
+      "pl": "Samouczek menu głównego #5",
+      "kr_sha256": "19601becca5e1c4fb7fd4fea58b741e5284a98247979df3ffdfa938c932f9a3f",
+      "en_sha256": "a6e68a3927cf42f12abc07023f8584a8a5e500e586f2c4e4d7b385b8d3cc77e0",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_passive_1].content": {
+      "pl": "Pasywki bojowe oraz pasywki wsparcia aktywują się po połączeniu „umiejętności wymaganych grzechów”.",
+      "kr_sha256": "d78b48ef7b7cf05a42d5050bfc0281d8a237c55ec66522a11049c0e100929448",
+      "en_sha256": "55f20d4293b87fc1e3e7fbdbd75c3200d5b4876a273fbe93dabdeb40912dac19",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_passive_title].content": {
+      "pl": "Pasywki",
+      "kr_sha256": "ff58ab0c6c1cf683052b7834e654bcfde2b52ddaedc60048b8a30f212437f4b7",
+      "en_sha256": "f174b537451e71c57edf43a32ff38d956b25996db1ba9bc8024e4efef1134f72",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_skill_coin_1].content": {
+      "pl": "Każda umiejętność ma co najmniej 1 Monetę, a liczba Monet oznacza liczbę ciosów.\nMoneta ma awers i rewers — wynik rzutu zwiększa lub zmniejsza Moc umiejętności.\nPrzy kolejnych Monetach zmodyfikowana Moc przechodzi na następny rzut.\nWyróżniamy Monety Dodatnie (+) oraz Monety Ujemne (-).",
+      "kr_sha256": "7ac629fc650f81eef58a2fc74b4d0d1f28cb4a99b67f3aac92084095b1c45bb5",
+      "en_sha256": "1947eaa451c4cbc78acee57d50588367bd84b0a4eae3d07b98aa47107c676f7a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_skill_coin_title].content": {
+      "pl": "Monety umiejętności",
+      "kr_sha256": "b8d501b713fde29a76faec1cb45447ef4f0a582f87c1017d36149d5a191d6b2d",
+      "en_sha256": "797e645cbdf357904d485aeabd37cab25310657cbfeb48b34f107cb1d085170f",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_skill_command_1].content": {
+      "pl": "Aby walka mogła się rozpocząć, trzeba wyznaczyć działanie „każdej Tożsamości”.\nW zwykłych starciach przeciągnij łańcuch od lewej zębatki do prawej na panelu dowodzenia, aby wydać rozkazy.",
+      "kr_sha256": "44cf369fad1f039ae5bb46a0f629949ae289f266c7f786cc2c70844aa934aee4",
+      "en_sha256": "4eea4fb9389f7656a63182d4a1227bbef53007956782d2e006a22e5462420516",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_skill_command_title].content": {
+      "pl": "Wydawanie rozkazów ataku",
+      "kr_sha256": "70ccecf05a88e0f1253955d8917dcd133bb148695282271a819fe9c37caa9a05",
+      "en_sha256": "ea43471bc13f28f00886505292c8050f402d0ebb468ac060d1692d0a703248b1",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_2_1].content": {
+      "pl": "Można by wysłać do boju wszystkich Grzeszników naraz, lecz jednoczesne dowodzenie tak licznym oddziałem nie byłoby łatwym zadaniem.",
+      "kr_sha256": "1fec648742891bd5363ea1a9dd2e575da732c8527cc462a9421c1d21226bbdba",
+      "en_sha256": "4cf16360ed33a294b8b5e0e62086487990de6695bc787226cd5012ab249b6ea4",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_2_2].content": {
+      "pl": "Dlatego zależnie od sytuacji na polu bitwy wskażę ci optymalną liczbę uczestników.\nW tym starciu najlepiej sprawdzi się 5 Grzeszników.",
+      "kr_sha256": "dae3ac743f483e18b59051539355e42f666ff3aba1113aaf87d94dbace954d42",
+      "en_sha256": "4fde10a26fab3a92c97e08bd83c39045b7eb1f616b385d9f9aec40dd0097235f",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_2_3].content": {
+      "pl": "Wybierz 5 Grzeszników do tej walki.\nKliknij dolną część karty Grzesznika, aby wystawić go do starcia.",
+      "kr_sha256": "993faee067cca34b805f02bd454578e0a65d781d557516afe9ea3efc78c5c50e",
+      "en_sha256": "eb6eeacfe99c255cf4be8623d617c8d8db791c3186b6e65a67ee42cafa47496a",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_2_4].content": {
+      "pl": "Najpierw wybierz Grzesznika Yi Sanga.",
+      "kr_sha256": "d8de026d2fbd99d68db34c400f9f79196b935c7e3db52cb5d6d9f8498136ba1d",
+      "en_sha256": "e8edff11eaad3f0847663ead759b30745de1cd416ea174724ab0f1678e7c6ef8",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_2_5].content": {
+      "pl": "Doskonale.\nTeraz wybierz po kolei pozostałych Grzeszników do walki.",
+      "kr_sha256": "e7c83641e68a854d87b492fefb599b43ab20e35bb721d2d215d0785c49a20f23",
+      "en_sha256": "00d6a5aba36aa48e8a4c8d3cde82cdc70ce00d53238769de6c491ac98fbf32ec",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_2_6].content": {
+      "pl": "Naciśnij przycisk rozpoczęcia walki, aby wyruszyć do boju z wybranymi Grzesznikami.",
+      "kr_sha256": "e050838b7190fb3786fed4c84cde830b32b8ae6305830689ac10fb388f841883",
+      "en_sha256": "5ec8d7acf90bb7d7086699380453a0e38d54f8c62f09c2d70a285698eedd0155",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_3_1].content": {
+      "pl": "Skład z poprzedniego starcia zostaje zapamiętany, więc nie musisz za każdym razem wybierać Grzeszników od nowa.",
+      "kr_sha256": "574cd08228207338753b7946677be7ecd874f51992cd6d88f4351806d03ac6ee",
+      "en_sha256": "3bc78918037a768abb7c655ce1d08ee0a8a30e96009403f25cb155fdd4b39d56",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_3_2].content": {
+      "pl": "Naciśnij przycisk rozpoczęcia walki.",
+      "kr_sha256": "d17bba1877a72b40e168e7d4e4ab3e516f552a575bd1eee2c9424d1e6663c164",
+      "en_sha256": "c7d6c6ff8b5319bf58b0ee05998b6a3a46cab1f8e06eafd100af5c73f8b706fe",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_1].content": {
+      "pl": "Mefistofeles dysponuje funkcją zwaną Ekstrakcją.\nDzięki Ekstrakcji możesz zdobywać rozmaite Tożsamości oraz E.G.O.",
+      "kr_sha256": "4a5b1fce80d9cfcc15827d7fc353e7f6f4ce82acb3a63c29b2715acdc8f0805c",
+      "en_sha256": "44b9ff6cf1c16a8b6ff80a38d91565e315662719e3089f1a7116bf8e0893fc57",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_2].content": {
+      "pl": "Naciśnij przycisk Ekstrakcji.",
+      "kr_sha256": "d93205bd622f42ce0065abc8bad385a75ba6d213660d47bb808e57fec90da301",
+      "en_sha256": "1cdfce5c4ea3d1a961a686e01e3b163749297cafa8ea40c699feac0f8be6e11e",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_3].content": {
+      "pl": "Zdobyto nową Tożsamość.\nPozyskiwanie nowych Tożsamości i E.G.O przez Ekstrakcję wydatnie wzmocni naszą siłę bojową.",
+      "kr_sha256": "3734e8e96e1f2fb67326ab9b16935cfa5d16dfcb1d94b5c21ba7b0e8b169c1ff",
+      "en_sha256": "98d749d9a1d990f6da3118375add7eca975e6370df63b4a386b4bd65f0b3579b",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_4].content": {
+      "pl": "Wróćmy teraz do walki.\nDo starć przejdziesz za pomocą przycisku Jazdy.",
+      "kr_sha256": "927d1db91a4d0d49e2cd8fdfdc53e995384e9d602866ea9ef9e9276ad4c22c9c",
+      "en_sha256": "c93cadb783777e2c101cf2a480f6ddb169c7aa0294bedec0b35297c4796921e1",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_5].content": {
+      "pl": "Kliknij górną część karty Grzesznika, aby zmienić jego Tożsamość.",
+      "kr_sha256": "c57bb2aed16026d1c2c045af2d384cf06000021f816dcb858502b6285c6cf65f",
+      "en_sha256": "9accf59320c062dee93782d36b9cc29f948609c0f63a475fb3a2b600d5baab14",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_6].content": {
+      "pl": "Wybierz Grzeszniczkę Ishmael.",
+      "kr_sha256": "04cfb08d5de986517b3726db966eadc6ae622a97e20e31935d3e20bcd0837555",
+      "en_sha256": "39579019a0c03223b0626281426231a33df8653956d464d990000eba2297f7c5",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_7].content": {
+      "pl": "Tutaj możesz wybrać jedną ze zdobytych w Ekstrakcji Tożsamości, aby wystawić ją do boju.\nWybierz nowo zdobytą Tożsamość Ishmael.",
+      "kr_sha256": "59161fcb9fe74f54b707425ca584d2711d9094975a0629adfec347771fffb6a7",
+      "en_sha256": "cc7fe7cc7be3862b8b6209362ee151bf1f25ff6cf679a4ca5f84d89244646293",
+      "origin": "ai"
+    },
+    "dataList[id=ui_tutorial_4_8].content": {
+      "pl": "Świetna robota. Dobieranie Tożsamości dopasowanych do specyfiki starcia to najkrótsza droga do zwycięstwa.\nNaciśnij teraz przycisk rozpoczęcia walki.",
+      "kr_sha256": "96a5e82bcaeaabd8bb5b37f497993918cca2ef157a81951da84578a12899fa23",
+      "en_sha256": "26b691b9da8de2676c0db2db251429065af997f7b6a2c46fc55819dcc41d90b3",
+      "origin": "ai"
+    }
+  }
+}
