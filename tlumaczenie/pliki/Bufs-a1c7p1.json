@@ -1,0 +1,316 @@
+{
+  "entries": {
+    "dataList[id=BloodDinner].desc": {
+      "pl": "- Maks. wartości: 999\n- Przechowuje obrażenia Krwawienia zadane w tym miejscu\n- Resetuje się przy zmianie miejsca walki\n- Wartość jest współdzielona przez wszystkie postacie\n- Jeżeli wśród sojuszników jest wyższy Pokrewny, który w tej samej turze zużywa Krwawą Ucztę, ta jednostka nie może jej zużyć, dopóki nie zrobi tego tamten sojusznik",
+      "kr_sha256": "76feff4fdbf84cab97dac30adbc92657845f44117ec2f25b2b44f6b54b45a33f",
+      "en_sha256": "182a0b8f3c08eb930c85e282a89aca9b2c0d1b9050d33de5c14b51cfc9209756",
+      "origin": "ai"
+    },
+    "dataList[id=BloodDinner].name": {
+      "pl": "Krwawa Uczta",
+      "kr_sha256": "f5700dcc78928782572f472a62c7e0593254d34c4f4fff89ceaf59d0571c5411",
+      "en_sha256": "cf9136a9b13a7e14df15e39eae75ce74e860e431241fa8fe1a80bc223afb7591",
+      "origin": "ai"
+    },
+    "dataList[id=BloodDinner_Accumulation].desc": {
+      "pl": "- Maks. wartości: 999\n- Skumulowana zużyta Krwawa Uczta w tej walce: {0}",
+      "kr_sha256": "6432b6f21714297ffbe9b36f5541fe8ad984611e8b19c28c6a104bec71d8e530",
+      "en_sha256": "1c89d61f4407cbe9915b9bced2b04c222ffa595c4175786470720d8f67171ec9",
+      "origin": "ai"
+    },
+    "dataList[id=BloodDinner_Accumulation].name": {
+      "pl": "Skonsumowana Krwawa Uczta",
+      "kr_sha256": "2b3d707e6f46325c2b6e5532ab854ad0dccd375c923c16b3a8f7c04c60fb5ae3",
+      "en_sha256": "28eccac01c58451b73f35ecec5f55c6f6938a0661cce9b3d83edd7f3d4f9d82b",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissorScars].desc": {
+      "pl": "Po przegranej w Starciu Licznik Krwawienia rośnie o 3 i wywołuje Krwawienie. Następnie Licznik Krwawienia maleje o 1.\n- Znika na koniec tury",
+      "kr_sha256": "a69f0f5979426460eadb49d418823d51c9cbd4ad55cb2016ca22bc3955a21ca5",
+      "en_sha256": "6f29370441aec59dc4b5bd4343419b4d0644fd4dbb03b51f8c0939890216eee6",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissorScars].name": {
+      "pl": "Głębokie Rozcięcie",
+      "kr_sha256": "2dca6d4c7c7435cde69c2998b4fb79c72dd1e4287df1d699b89db77a391bd65a",
+      "en_sha256": "722eadb9b3baba59f767dac20c4683051781f8e9e9c38fd8345b7b81aae1d5e9",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissorThree].desc": {
+      "pl": "- Maks. wartości: 30\n- Krwawe Ostrza Nożyc 3. stopnia\n- Na początku tury zyskuje 2 Wzrostu Poziomu Ataku i 1 Spadek Poziomu Obrony za każde 5 wartości\n- Służy Umiejętnościom specjalnym",
+      "kr_sha256": "8d20ff5fb7d20e5b3c21d7e9d01580370b2e12a45cdf2f2024a5e606687edf5a",
+      "en_sha256": "ef2afcb203b44eabcc710d24ca2a3649b8254ec80158cb5385a61b38061ddf14",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissorThree].name": {
+      "pl": "Zakrwawione Ostrza Nożyc III",
+      "kr_sha256": "ed11404c5c07cbc36e9071a05589c4cfcbf0041cfac84913f080264985eef545",
+      "en_sha256": "22c382b368a738a0762230a1d528ef28528b03f86f8dfeb6458d18c3653f56df",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissorTwo].desc": {
+      "pl": "- Maks. wartości: 20\n- Krwawe Ostrza Nożyc 2. stopnia\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku i 1 Spadek Poziomu Obrony za każde 5 wartości\n- Służy Umiejętnościom specjalnym",
+      "kr_sha256": "599a0e8849084eb6b6e201e8a25e650dea000eaa03997e3982a57f5fc9a5b4b5",
+      "en_sha256": "f03a442ca9ffcf831589a9af3fa167cfae13b22cb08434d01eafc0c629ef68cb",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissorTwo].name": {
+      "pl": "Zakrwawione Ostrza Nożyc II",
+      "kr_sha256": "02c0fdf90f3af49b7ce32c16b5e1f9fcabee8382166b8e439b7d8fe7d7472d1b",
+      "en_sha256": "635ab26cfe80f2e717bfa36fec6bb3340a9a02bdd1a11c6cf909805f4ede0346",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissor].desc": {
+      "pl": "- Maks. wartości: 10\n- Krwawe Ostrza Nożyc 1. stopnia\n- Służy Umiejętnościom specjalnym",
+      "kr_sha256": "4b2fd6d40067381f11d8e5d273c94a11f745d4dbee136c15fddddee7693948a2",
+      "en_sha256": "2d98bddb300fe2ed6405fd5e84aea6c8e16b482a1fc60d498ec600b38175e598",
+      "origin": "ai"
+    },
+    "dataList[id=BloodScissor].name": {
+      "pl": "Zakrwawione Ostrza Nożyc",
+      "kr_sha256": "bd9326d7506e5da2b0b6b41a6452991e4b63a92a4311db6d75d937c853eb7c13",
+      "en_sha256": "109e89441c0584316118c7f401a93696e2e9b7b4b73f143620cf62b344c56dc1",
+      "origin": "ai"
+    },
+    "dataList[id=BloodShooting].desc": {
+      "pl": "Po śmierci\n- Krwawa Uczta +30\n- Zyskuje 2 Zasoby E.G.O najmniej posiadanego Grzechu\n- W następnej turze wszystkie odporności fizyczne postaci z jego drużyny rosną o 0,1. Ten efekt się kumuluje. (maks. 5)",
+      "kr_sha256": "c620f87a2e6f176d3dd2a3e72443c44159392d39fae24e4090926b2c00dc7f61",
+      "en_sha256": "77559655426f8b06ac4d8227ad341981aa366cf5244494c6be7b95a965b02f8f",
+      "origin": "ai"
+    },
+    "dataList[id=BloodShooting].name": {
+      "pl": "Krwawy Wystrzał!!",
+      "kr_sha256": "d08f5bb561c286329e2a45050394a783ba9616d19168a55c80037c740164f4dd",
+      "en_sha256": "ecf4c4540d8ff5d6edc8198da6733d6922a700099ebf4f0b467c1704f26e210f",
+      "origin": "ai"
+    },
+    "dataList[id=ConcentratedAttackMeursault].desc": {
+      "pl": "<Tylko walki skupione>\nJednostka, która nadała Atak Skupiony, zyskuje następujące efekty zależnie od liczby stosów Ataku Skupionego na slotu celu\n1 stos: Moc Starcia +1\n2 stosy: Moc Bazowa +1\n3 stosy: Moc Bazowa +1, Moc Monet +1\n- Znika, jeśli nadająca jednostka nie przeprowadzi w tej turze udanego ataku na slot z nadanym Atakiem Skupionym.",
+      "kr_sha256": "727eaa772bf47fb79e8f548af4b2daa256dc3e22d6751f75ff59a624850cdf00",
+      "en_sha256": "52c28ac96072c447e234b8ddd3dae2c4f57c5d94650d9a57a6a732f65eef017c",
+      "origin": "ai"
+    },
+    "dataList[id=ConcentratedAttackMeursault].name": {
+      "pl": "Atak Skupiony - Meursault",
+      "kr_sha256": "bed4338437e96ffdebabf6a3beb51146a7f49fa6b5a98ac90be0a172d6b335d5",
+      "en_sha256": "fe9e784541c9c13b2d71ddc4716e9307d73999ef4bef7bc1f16a38fc99131d9d",
+      "origin": "ai"
+    },
+    "dataList[id=ConcentratedAttack].desc": {
+      "pl": "Używane na określonych slotach",
+      "kr_sha256": "8303793bb517b15de959aad4f9271e99b7abc7bfc21423eedb6bf92a91093db7",
+      "en_sha256": "0f860b87013c7d3368a97704c19c2fdd6ce746af8da2d1eb79c9ac8e589082b8",
+      "origin": "ai"
+    },
+    "dataList[id=ConcentratedAttack].name": {
+      "pl": "Atak Skupiony",
+      "kr_sha256": "fb280bc2db6a07a33db6b54258999bb07af176987c6c9b0e1db803964c3ee327",
+      "en_sha256": "87ddf36b43f6d8a99479716bb14b9659dedeaee98cd80ff72fa0354f8f39d823",
+      "origin": "ai"
+    },
+    "dataList[id=DuelDeclarationMeursault].desc": {
+      "pl": "W Starciu między jednostką, która nałożyła Wyzwanie na Pojedynek, a jednostką z tym efektem wyzywająca ma Moc Starcia +1.\nPrzy trafieniu w następnej turze zyskuje 1 Pośpiechu. (maks. 4 razy na turę)\nEfekt znika, gdy wyzywająca jednostka nałoży go na inny cel.\nZastępowany, gdy inna postać nałoży Wyzwanie na Pojedynek.",
+      "kr_sha256": "37a788ad9f43e8628b7deafa7d2221bfbfde27f2dfd0abb68d6bc222d40bf17a",
+      "en_sha256": "0c69fd142a7e3d8e8b869ce97e55dccfd6ea165a00b05635f953fa9f1b057972",
+      "origin": "ai"
+    },
+    "dataList[id=DuelDeclarationMeursault].name": {
+      "pl": "Wyzwanie na Pojedynek - Meursault",
+      "kr_sha256": "03b4dd7638631bc9021b9feeb6eba18b70669fe92e49f33b5716f8618be7c938",
+      "en_sha256": "cbda2134c8c398a99c23e639ccbb8481057691de0a9881ff99c22ae56ba71e08",
+      "origin": "ai"
+    },
+    "dataList[id=DuelDeclaration_Camille].desc": {
+      "pl": "W Starciu między jednostką, która nałożyła Wyzwanie na Pojedynek, a jednostką z tym efektem wyzywająca ma Moc Starcia +1.\nPrzy trafieniu w następnej turze zyskuje 1 Pośpiechu. (maks. 4 razy na turę)\nEfekt znika, gdy wyzywająca jednostka nałoży go na inny cel.\nZastępowany, gdy inna postać nałoży Wyzwanie na Pojedynek.",
+      "kr_sha256": "37a788ad9f43e8628b7deafa7d2221bfbfde27f2dfd0abb68d6bc222d40bf17a",
+      "en_sha256": "0c69fd142a7e3d8e8b869ce97e55dccfd6ea165a00b05635f953fa9f1b057972",
+      "origin": "ai"
+    },
+    "dataList[id=DuelDeclaration_Camille].name": {
+      "pl": "Wyzwanie na Pojedynek - Camille",
+      "kr_sha256": "1e77012c785cc56e6e947c96892d317aae9bb563d235d7915f37bf0118acffc1",
+      "en_sha256": "2c754e1d4397b47e5683ddac1dccd8a79a5fb35a09ef05b962aae2308b672a43",
+      "origin": "ai"
+    },
+    "dataList[id=Duello_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 2 Wzrostu Poziomu Ataku. Po przegranej w Starciu zyskuje 1 Spadek Poziomu Obrony (maks. 3 na turę). Min. Szybkość -1",
+      "kr_sha256": "e9e3027bd152eee3fa974eee09bb9b7339f3126ac8c5fc068396b899fa21c240",
+      "en_sha256": "021ca39ae51f5e6c434d11199a06d303e2a9f64c43be58c0a8c85a1bf92e7674",
+      "origin": "ai"
+    },
+    "dataList[id=Duello_LowMorale].name": {
+      "pl": "Specjalista od Pojedynków",
+      "kr_sha256": "678c9b355a5bb8321989bebad2248f39ab9ee69d36adcf236c4b699154bed67a",
+      "en_sha256": "e3929c7333d12103d04e735671b99f45b77f6c8a795a5d447443a42c0f6f6c93",
+      "origin": "ai"
+    },
+    "dataList[id=Duello_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 4 Wzrostu Poziomu Ataku. Po przegranej w Starciu zyskuje 2 Spadku Poziomu Obrony (maks. 6 na turę). Min. Szybkość -1",
+      "kr_sha256": "6f5f553381eaba6b2e0a04604d7706e39a448f2c549b2fc10f91da3eae1897b6",
+      "en_sha256": "49ab50c8d493b18adcba50b5b526aeb73694df06b640b4fc2c6bed33aec8bf1f",
+      "origin": "ai"
+    },
+    "dataList[id=Duello_Panic].name": {
+      "pl": "Specjalista od Pojedynków",
+      "kr_sha256": "678c9b355a5bb8321989bebad2248f39ab9ee69d36adcf236c4b699154bed67a",
+      "en_sha256": "e3929c7333d12103d04e735671b99f45b77f6c8a795a5d447443a42c0f6f6c93",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBlood_LowMorale].desc": {
+      "pl": "- Niskie Morale\nNa początek tury: 1 Spętania i 2 Wzrosty Mocy Ataku. Na koniec tury 5 obrażeń Poczytalności",
+      "kr_sha256": "9628a170a6de353abc390fac9be157bdfa02a006576856388524c17850abaa34",
+      "en_sha256": "3e995aff03a34f1e967a381a8b7bc661698eb13f2814e2781e4b2a02b88a9c44",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBlood_LowMorale].name": {
+      "pl": "Głód",
+      "kr_sha256": "4f9f3eacedd1b2b17639e1d391d75eeb3e53f2da96edace850de67f39e7f8f3b",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBlood_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 2 Spętań i 4 Wzrostu Mocy Ataku.",
+      "kr_sha256": "83e462bed4544da6421bfc1b414b27b0da285390ea0d7a5136940bfafd550bd3",
+      "en_sha256": "8706bb5260dd3943d062519715f9b5fce2d959115f0cabcc6122f8d4de565bb4",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBlood_Panic].name": {
+      "pl": "Głód",
+      "kr_sha256": "4f9f3eacedd1b2b17639e1d391d75eeb3e53f2da96edace850de67f39e7f8f3b",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHopeSancho].desc": {
+      "pl": "Zyskuje Wzrost Mocy Starcia w liczbie wartości\nZadaje obrażenia +10%",
+      "kr_sha256": "06da1ec775d21f3787f4cc615f00e7a0ab1ac2cccc338413304d0093d88f2d2f",
+      "en_sha256": "1440de704180fea62da7bb273cca5caeb7d2343702f3165de47d64826b6c5365",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHopeSancho].name": {
+      "pl": "W którym urządza się ucztę krwi dla cierpiącej Rodziny,",
+      "kr_sha256": "5379823d4d8aa6ebaa3c52b199d603336f61a3d26097852990d40e93689d19a2",
+      "en_sha256": "717304e4bd4d5aee6b63ac6f0dd71f817314997c2faf18383c61c79852ac849b",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHopeTwoSancho].desc": {
+      "pl": "- Moc Starcia +4 za każdą wartość\n- Na początku walki nakłada Tarczę na siebie i wszystkich sojuszników\n- Zadaje obrażenia +20%\n- Przy trafieniu zadaje dodatkowo 1 obrażeń stałych",
+      "kr_sha256": "efe1235d0031a84dd80e10c30065fdc281c8471178e3b50a262a5d69d27a916c",
+      "en_sha256": "fc9ccb0d8393057d10a5c52ce8e18ce0badb936bf59787b2fb72a932733cb6f5",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHopeTwoSancho].name": {
+      "pl": "O pewnym Krwiożercy, który po zabiciu rodzica wziął całą winę na siebie,",
+      "kr_sha256": "fd864022fd724f83d4ab8e7be5ae85350fd8088cd263f086300919f79560f65d",
+      "en_sha256": "605797266a4c146da10ffa318bffe0369de159c5a1ffca41a8cdd1b522bec5e6",
+      "origin": "ai"
+    },
+    "dataList[id=LineCutting].desc": {
+      "pl": "- Staje się głównym celem ataków ???.\n- Znika na koniec tury",
+      "kr_sha256": "b283c17b18b4b41e8929c02f920f03d3d5c3bcc9ec78eace90720b780efa3c02",
+      "en_sha256": "e360f363325bb69e591f93fb81ced44b23a896ef5aecf48f109b92c0939ebb16",
+      "origin": "ai"
+    },
+    "dataList[id=LineCutting].name": {
+      "pl": "Cel Szycia",
+      "kr_sha256": "baf4fc8b843137bd1e4e307c0ed1fe7022168c7d02e28b8e0fbd3fb0eae4f5c8",
+      "en_sha256": "7be69a535284b9de5e421674d2b846007c3cb8b4123e08aedafb43199272442b",
+      "origin": "ai"
+    },
+    "dataList[id=RealPaperBear].desc": {
+      "pl": "- Zjada ludzi. Jak przerażające!",
+      "kr_sha256": "e1749f217c4c49328c0cf0ac4948c0bd829e9b59075ccfddc9182dd0bbdb5ab0",
+      "en_sha256": "8d66ca0dd03b9e762abeb8af131dff26409bdeb04f1221cca979f1e1be54c8f9",
+      "origin": "ai"
+    },
+    "dataList[id=RealPaperBear].name": {
+      "pl": "Prawdziwy Niedźwiedź",
+      "kr_sha256": "504189d7fd248cbb91b9e871a82632db3eb90002f1192abb1e1cfa0282874753",
+      "en_sha256": "ad8d325e4c365da37712938e227f39aef726f0c2d8f17e3c87492725919a6fe1",
+      "origin": "ai"
+    },
+    "dataList[id=RecklessDuel].desc": {
+      "pl": "Na koniec tury zyskuje 1 Wzrost Mocy Starcia na następną turę za każde 10% brakującego HP. (maks. 5)\nNa koniec tury zyskuje 1 Spętanie na następną turę za każde 10% brakującego HP. (maks. 5)",
+      "kr_sha256": "e0cd922f98135825f89b956d550884a81284fcf6847d56345eec5165324ed53e",
+      "en_sha256": "8c9270d5cb7ef426d4dc1a0fe06a3dec6ad82393be719588675324fc15d30695",
+      "origin": "ai"
+    },
+    "dataList[id=RecklessDuel].name": {
+      "pl": "Nieostrożny Pojedynek",
+      "kr_sha256": "9f0194f28f84fb529e8d169fd63796830158b88d991f604a87215d31c9976e2d",
+      "en_sha256": "9090dfa40fa3fa244f97b1458fda5feb0fadde5f0200b8b0d5f2060bb5c0a675",
+      "origin": "ai"
+    },
+    "dataList[id=RighteousFeelingSancho].desc": {
+      "pl": "- Za każde zdobycie Twardej Krwi zyskuje dodatkowo 1 Twardej Krwi. (maks. 5 razy na turę)\n- Na koniec każdej tury zyskuje w następnej turze 2 Pośpiechu i 3 Wzrostu Poziomu Ataku\n- Za każde 3 zsumowane tury zyskuje dodatkowo 2 Wzrostu Poziomu Ataku (maks. 6)\n- Po wygranym Starciu odzyskuje 3 Poczytalności\n- Przy zabiciu wroga w następnej turze zyskuje 1 Wzrost Mocy Starcia (1 raz na turę)",
+      "kr_sha256": "17e8299896752d092b40e5092fbab50ec936838e3fd20b3ec551206e1894bf24",
+      "en_sha256": "ff3b4f6cfb1f566491796325f02d6b55234d2945f5b569da64299a650a89abcd",
+      "origin": "ai"
+    },
+    "dataList[id=RighteousFeelingSancho].name": {
+      "pl": "Zapłakawszy krwawymi łzami, wezmę to na siebie.",
+      "kr_sha256": "86a8d3e41c7f4d317484d18b5ef7a5416dd4c1f0a8cc1b37aa22c3067272c075",
+      "en_sha256": "6e1e3be797f30d39467dcf5c86f32575e5b6037123f737f7651b06a1460657fc",
+      "origin": "ai"
+    },
+    "dataList[id=RighteousFeeling].desc": {
+      "pl": "- Na koniec każdej tury zyskuje w następnej turze 1 Pośpiech, 3 Wzrostu Poziomu Ataku i 3 Spadek Poziomu Obrony\n- Za każde 3 zsumowane tury zyskuje +2 Wzrostu Poziomu Ataku (maks. 6)\n- Po wygranym Starciu odzyskuje 3 Poczytalności\n- Przy zabiciu wroga w następnej turze zyskuje 1 Wzrost Mocy Starcia (1 raz na turę)",
+      "kr_sha256": "07785ded013b65fe7b5e8e5f29bd66007f5b1f273d3ed9690d765ba5e75d1ed3",
+      "en_sha256": "12f284ca4b6f60ce769a860a675c4e260668fb61dbe88291f5f5a9ef184d465b",
+      "origin": "ai"
+    },
+    "dataList[id=RighteousFeeling].name": {
+      "pl": "Jak to Sprawiedliwie!!",
+      "kr_sha256": "dd188d089f3fd83b95925d50e409f0bbd14ac2d7d61cdb4b588265704f05a234",
+      "en_sha256": "8b82a2268d06b4972e9393f183b6c6e76c72302876302827baac24c725a0e90d",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingBarberOne].desc": {
+      "pl": "- Przez długi, długi czas nie mógł wypić krwi.\n- Podstawowy Poziom Ataku -15\n- Podstawowy Poziom Obrony -15",
+      "kr_sha256": "dbb44cd742edcfb4bb814022d844d8412e3f267e5d4a3bab3b2936c6c0261390",
+      "en_sha256": "25042da69707ec0c993c67c118171cf7915eff4e8111d7aae1b2cdce163626a2",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingBarberOne].name": {
+      "pl": "Zwiędnięcie",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingBarberTwo].desc": {
+      "pl": "- Przez długi, długi czas nie mógł wypić krwi.\n- Podstawowy Poziom Ataku -25\n- Podstawowy Poziom Obrony -25",
+      "kr_sha256": "9436543c12beabd52dc06d61845c251b679b328ed89a03f0ddf8dfba6ca4456d",
+      "en_sha256": "abc74bc6c45ca1aa7c6db95074e994832a487c325580677830dc354018b8ef1c",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingBarberTwo].name": {
+      "pl": "Zwiędnięcie",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=TrulyWeak].desc": {
+      "pl": "- Zadaje -10% obrażeń\n- Na koniec tury wartość maleje o 1",
+      "kr_sha256": "36a820af30292dafbd8439c6c3129d7534d0185cb6e53e03a41b9b9907a1852a",
+      "en_sha256": "26c6941dce00951857c563217b1a2101fa55d9a6d601f15b411a6a356225a3f1",
+      "origin": "ai"
+    },
+    "dataList[id=TrulyWeak].name": {
+      "pl": "Słabeusz",
+      "kr_sha256": "7c3638d498a0f2bd55e03364ce69b99d6afb682bb5ce5d5940ebdca3a3d869bc",
+      "en_sha256": "00ff05867f8ac482d70049cd76a4fefe1fff79852b99c41647a234f55c33bc3b",
+      "origin": "ai"
+    },
+    "dataList[id=UnfinishedDreamSancho].desc": {
+      "pl": "- Za każdym razem, gdy zyskuje Twardą Krew, zyskuje dodatkowo 2 Twardą Krew (maks. 5 razy na turę)\n- Na koniec tury w następnej turze zyskuje 2 Pośpiechu i 3 Wzrosty Poziomu Ataku\n- Za każde 3 skumulowane tury zyskuje dodatkowe 2 Wzrosty Poziomu Ataku (maks. 6)\n- Wygrana w Starciu: odzyskuje 3 Poczytalności\n- Za zabicie wroga zyskuje 1 Wzrost Mocy Starcia w następnej turze (raz na turę)",
+      "kr_sha256": "9c43c4cdd92f48edcc64f51f3097a256867126cb567506fc2098694291516bff",
+      "en_sha256": "42c1d8a5a05aa69ef4d77c9a2b4ae7b6d68c98b01e0c4c878afeeea40f75d91a",
+      "origin": "ai"
+    },
+    "dataList[id=UnfinishedDreamSancho].name": {
+      "pl": "Niezdolny do oswobodzenia z krwi gęstszej niż woda,",
+      "kr_sha256": "c6f19a7a84739bb4e5882c6a6f47c7d09f554c3020977c9162dda7f7e33d2ed3",
+      "en_sha256": "a47738a63110d3faef6795d393237678386244d0acc270e11be003a5735548c2",
+      "origin": "ai"
+    }
+  }
+}

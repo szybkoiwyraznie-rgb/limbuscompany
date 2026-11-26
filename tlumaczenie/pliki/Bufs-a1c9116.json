@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=BackstreetsNight_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początek tury zyskuje 1 Wzrost Mocy Ataku, 1 Wzrost Leczenia HP i 1 Wrażliwości",
+      "kr_sha256": "0eb4ad68533498070cc2e6725d7d89403030c2e976f3afaa9849bd2f74f3b100",
+      "en_sha256": "594d27f84d834cf22012a17a095e1f326be398a4ec5fd5b5af032e5325b14b33",
+      "origin": "ai"
+    },
+    "dataList[id=BackstreetsNight_LowMorale].name": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    },
+    "dataList[id=BackstreetsNight_Panic].desc": {
+      "pl": "- Panika\n- Na początek tury zyskuje 2 Wzrosty Mocy Ataku, 2 Wzrosty Leczenia HP i 1 Wrażliwości",
+      "kr_sha256": "763b8414919be3233236853ea2c6afd66d7ea36c706ae6c0840921c7c11bbbdd",
+      "en_sha256": "1dfcc2275f6aa1eaf8813e7dd579843b88ab13df90632307b9f6dbc1a5cb30a3",
+      "origin": "ai"
+    },
+    "dataList[id=BackstreetsNight_Panic].name": {
+      "pl": "Noc w Zaułkach",
+      "kr_sha256": "3d7e98bced7f9c124a84f1f236d24839e28cbfdcc951995f0412a6ac872d7de7",
+      "en_sha256": "e5f2adbd5502fca9fea59d7f8e74ae74f5fc71b3965f29cbf6bac10035135c47",
+      "origin": "ai"
+    },
+    "dataList[id=BurstAgility].desc": {
+      "pl": "- Wartość bazowa: 3\n- Gdy Rozdarcie zostanie wywołane przez trafienie Umiejętnością ataku celu o Szybkości 10 lub więcej, maleje o 1, a Licznik Rozdarcia rośnie o 1\n- Przy wartości 0 otrzymuje obrażenia Obżarstwa równe Mocy Rozdarcia i znika\n※ Ten efekt nie odświeża się",
+      "kr_sha256": "5cffddf06911b7d9cda332f5eda774062b9db1617dd47ac4e332153b672ea504",
+      "en_sha256": "f31e613f399f415316883d75a35022c694fb4c278e93f12191f39f71d487e471",
+      "origin": "ai"
+    },
+    "dataList[id=BurstAgility].name": {
+      "pl": "Obrzęd Śmierci 【Haste】",
+      "kr_sha256": "13d61f535d7fabcadcea5eb8cd5d72139d0c0b7918de37b24f76a528e9441703",
+      "en_sha256": "bad3ddfee9885b296d3a418c1d851098579a1e295dda2f2052b023a3bce02b2e",
+      "origin": "ai"
+    },
+    "dataList[id=BurstAgility].summary": {
+      "pl": "Po spełnieniu warunków otrzymuje dodatkowe obrażenia Obżarstwa",
+      "kr_sha256": "2e20b4933d4eb1cd9814667954fc7aa0430da14dd9e513b3659649523ca6780c",
+      "en_sha256": "e8867d50a9c8f0f13da5477d739082be99e9100d613911cf08d9ec7d60fd1b5d",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeast_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Jeżeli Szybkość tej jednostki jest większa niż celu lub przy Ataku Jednostronnym, zadaje +10% obrażeń celowi",
+      "kr_sha256": "4da193b33f032a23762b5fc081969802760de403561a2aec590e58f772e2580b",
+      "en_sha256": "7064b9c3e3aa27cc6799f954a0afb7af9eb71e8f81d8918a8399e07bfb3d5106",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeast_LowMorale].name": {
+      "pl": "Podstęp",
+      "kr_sha256": "caff7d40ab5981d3e62c739278d3cc6b69eca3b2b78b3c7b32dfaefbfb7881b9",
+      "en_sha256": "17455029fb9994a3f2fdd256533040999bee973dc3ba05978883b20af2c9c010",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeast_Panic].desc": {
+      "pl": "- Panika\n- Jeżeli Szybkość tej jednostki jest większa niż celu lub przy Ataku Jednostronnym, zadaje +20% obrażeń celowi; jeżeli Szybkość jest większa, otrzymuje -20% obrażeń",
+      "kr_sha256": "402a6fac165e22b54a3dd077953ccfdc65523a86e907c54673f0fafed972060a",
+      "en_sha256": "8b5c13fb3117ad87a8848623593a097c824820c15256234a9f5616f94aba7183",
+      "origin": "ai"
+    },
+    "dataList[id=DarkBeast_Panic].name": {
+      "pl": "Podstęp",
+      "kr_sha256": "caff7d40ab5981d3e62c739278d3cc6b69eca3b2b78b3c7b32dfaefbfb7881b9",
+      "en_sha256": "17455029fb9994a3f2fdd256533040999bee973dc3ba05978883b20af2c9c010",
+      "origin": "ai"
+    },
+    "dataList[id=LegStrength].desc": {
+      "pl": "Maks. stosów: 3\nNa koniec tury zyskuje 5 Pośpiechu w następnej turze\nNa koniec tury maleje o 1",
+      "kr_sha256": "ad5fda39e05effb845c7c0985af3f412b97091dd32f62c1ed046ea2947bd679b",
+      "en_sha256": "d6b869909d7d553a356c88e112f85c333800633f2c95e0bc71b21ef69b91700c",
+      "origin": "ai"
+    },
+    "dataList[id=LegStrength].name": {
+      "pl": "Biegacz【Mao】",
+      "kr_sha256": "05ceeccda3228a8f37c2197cf6ab57d04021616ffc41c8401328e8d549d4ea64",
+      "en_sha256": "8e1cd730f1338e3bccacd358e681bedcc8c32f807ba38928b443f3b1f7ce89e7",
+      "origin": "ai"
+    },
+    "dataList[id=LegStrength].summary": {
+      "pl": "Po spełnieniu warunków otrzymuje dodatkowe obrażenia Obżarstwa",
+      "kr_sha256": "2e20b4933d4eb1cd9814667954fc7aa0430da14dd9e513b3659649523ca6780c",
+      "en_sha256": "e8867d50a9c8f0f13da5477d739082be99e9100d613911cf08d9ec7d60fd1b5d",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerBook].desc": {
+      "pl": "Maks. stosów: 10\nPrzy ataku przez Środkowy otrzymuje +3% obrażeń za każdy stos (maks. 30%)",
+      "kr_sha256": "6e76297018847e820e8cbb22fef9b8d08677aac63519157bcfbd558e8786d345",
+      "en_sha256": "4ad5f8585d0d234ad6b6269186bea8b11847298fd92515f43bd577fcbdb1ad91",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerBook].name": {
+      "pl": "Cel Zemsty Środkowego",
+      "kr_sha256": "4e9ed3ddcdda1c8b8fa4abfccee841a2449df86965c62e7cfbd5f6b33e029181",
+      "en_sha256": "b648212a35b061365e40803b7d583f3469e60bdf6b111796dea83addc6962c28",
+      "origin": "ai"
+    },
+    "dataList[id=Persistent].desc": {
+      "pl": "Maks. stosów: 4\nGdy otrzymuje obrażenia redukujące HP do 0, z 80% szansą nie otrzymuje ich, leczy 60 HP, wychodzi z Oszołomienia i traci ten buff\n\nPoniższe efekty nie działają w następujących sytuacjach:\n- Gdy obrażenia Monety przy trafieniu przekraczają Maks. HP\n- Gdy posiada efekt obniżenia Leczenia HP\nNa koniec tury traci 1 stos",
+      "kr_sha256": "abdd0c1ed3498d065ce311c666bfbf5433fd19a1bd01519ec730869870a68b26",
+      "en_sha256": "81dd4f724f7050a8ae3fba4ba6892104f127c8ba4009262bbb15e50e698401a8",
+      "origin": "ai"
+    },
+    "dataList[id=Persistent].name": {
+      "pl": "Wytrwałość",
+      "kr_sha256": "071431c5f6cfca485d46d8e76fa2d3ef91648024ad500f49f71944911c800dae",
+      "en_sha256": "d8e68f610a342f2574480e29f0916f9f7f08314557f557b19defe1bd32a8818d",
+      "origin": "ai"
+    },
+    "dataList[id=RepressedMurderousIntend].desc": {
+      "pl": "Podstawowy Poziom Ataku -10, Podstawowy Poziom Obrony -10",
+      "kr_sha256": "d649cfdce3a66589ea99658fe292f6deeecabcc705b569c34227e28f778bdb08",
+      "en_sha256": "6c926d691d582f8ca651cf485865b4dc54b805f8716b0e3ccb326ba10ee7ba76",
+      "origin": "ai"
+    },
+    "dataList[id=RepressedMurderousIntend].name": {
+      "pl": "Stłumiona Krwiożerczość",
+      "kr_sha256": "73611ab139ddf082e1501c471aef86c6c2117ca691fdfd0b418b7dcca46e49d6",
+      "en_sha256": "4711630aaa15076dee8fee9f32baa6d9bd3108d089a9b52307b7787f6902ab02",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperA].desc": {
+      "pl": "Pierwsza fala kończy się po {0} turach",
+      "kr_sha256": "9fb9c7ddb9e178bbd621cee5d87873e8de3ab5bd18203b36b07857f35db7fed2",
+      "en_sha256": "06f65704faed6741eb414c1484f3e9107e682fc4bd440e987f14880dbba3df02",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperA].name": {
+      "pl": "Pierwsza Fala",
+      "kr_sha256": "73a1d0c29fb53d5402c605d05c1639c083694698c29d50eb343e516205f21a8e",
+      "en_sha256": "a6ad3d3f31809c97d99907f0a0f81c82bb8660508aee38ffef8dd7946a4c4df5",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperB].desc": {
+      "pl": "Druga fala kończy się po {0} turach",
+      "kr_sha256": "c62da0871e86f797b1f92d1751d6c0e40d58aea271851b865f14b6095af632cb",
+      "en_sha256": "07281c5b1e52a77ac85aeb778a42e5ae10b541b8515e679542fcdcc3dc8c8ebc",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperB].name": {
+      "pl": "Druga Fala",
+      "kr_sha256": "444e90e4e6c5d91e5d29b9476d6327809d5c6bece8c4515c853f8329828afb2d",
+      "en_sha256": "4db34588a25cd054649b3c96387a2b609833cfc700dd377b140d44114c6e3754",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperC].desc": {
+      "pl": "Trzecia fala kończy się po {0} turach",
+      "kr_sha256": "34c22fde976cb479cf74f2aedff6209760bd34714996c881e1cd4f8276b86930",
+      "en_sha256": "e6bb8207055d731f2e21dc4b587771dbb4bb7187a696b70326671b13d6b809d6",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperC].name": {
+      "pl": "Trzecia Fala",
+      "kr_sha256": "63867022e2a845b8ad6bb59669ec059ad5b4389de8d6ede552aa8cec4333e0b2",
+      "en_sha256": "fa4cada5d5cff72df576734069fcc3616bae8433976b99ec4187c9ace771a6a9",
+      "origin": "ai"
+    },
+    "dataList[id=WeighedMurderousIntend].desc": {
+      "pl": "Podstawowy Poziom Ataku -25, Podstawowy Poziom Obrony -25",
+      "kr_sha256": "dae2efbd973bce4a1f41896c7aa6536569a07436ef28f448faeffac2e633da2c",
+      "en_sha256": "d177e03de7e652099a04597926adb05589f5231c64146d1e1dac23b32a6164dc",
+      "origin": "ai"
+    },
+    "dataList[id=WeighedMurderousIntend].name": {
+      "pl": "Rozgnieciona Krwiożerczość",
+      "kr_sha256": "88f9c406fca6e7a587c723222e0968a1e83b28ebb32d287501f65af9d7961acd",
+      "en_sha256": "13ab41d6c0859549380e41368e226488cdd63e95e4fafa5a1b3f811b279530eb",
+      "origin": "ai"
+    }
+  }
+}

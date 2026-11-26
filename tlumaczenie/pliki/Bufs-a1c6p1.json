@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=AaCfPaBa].desc": {
+      "pl": "Na koniec tury przy Poczytalności -15 lub więcej traci 10 Poczytalności.\nPrzy trafieniu: -2 Poczytalności, 1 Wzrost Poziomu Ataku w następnej turze (3 na turę)\nNa początek tury przy Poczytalności poniżej 0: 3 Wzrosty Mocy Ataku.",
+      "kr_sha256": "44f651fd4fa159a8bc2e887033101b74534cdbc36ff69cd90eb4ab097a691d5e",
+      "en_sha256": "c07c62d3863ef7c3643f91501d93b2b53c06f9c159de6d1675b0eca001beb185",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPaBa].name": {
+      "pl": "Żałoba",
+      "kr_sha256": "a4a0a3304b1452468cb6d751e2bded1ddfad197db95772990f6fa7beed9c2e9c",
+      "en_sha256": "464dcfc35d2add53263988421cc9ebd32a4bd3106fdb1673338f7d045d49dc09",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPaBa].summary": {
+      "pl": "Przy trafieniu: -2 Poczytalności, 1 Wzrost Poziomu Ataku w następnej turze.\nNa początek tury przy Poczytalności poniżej 0: 3 Wzrosty Mocy Ataku.",
+      "kr_sha256": "0b679cc35ab5d720d8f6429e94da8201f3ced8415db68442355629daedc92525",
+      "en_sha256": "97db9a91028de4ab384e2883ca006d3974654390d8feb66b62ed05014fdbd504",
+      "origin": "ai"
+    },
+    "dataList[id=Acclamation_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Moc Starcia -1. Przy trafieniu Awersami zadaje +10% obrażeń",
+      "kr_sha256": "a87e6945399a75147c1a5c2575886db19544091dc2e6cf225cbd731161f8f139",
+      "en_sha256": "4eb551aeeb7b12e17445732de178b7dede76cc9d75f8a7d8e1a61c0881edbf9a",
+      "origin": "ai"
+    },
+    "dataList[id=Acclamation_LowMorale].name": {
+      "pl": "Echa Rezydencji",
+      "kr_sha256": "adb0bd71e0c0d24de81840f4a90df73e2542289ed301ba28bb03d46800390c91",
+      "en_sha256": "296206a21122daaa6ef8a72417918ddac39274dddb40d9c4fe44ea4c088ce9ca",
+      "origin": "ai"
+    },
+    "dataList[id=Acclamation_LowMorale].summary": {
+      "pl": "Moc Starcia -1. Przy trafieniu Awersami zadaje +10% obrażeń",
+      "kr_sha256": "69795aa6dd310d994b9ca40c9912145e621dd112e8ff66f309041eb7ad676bdf",
+      "en_sha256": "3d6ca152dbbc8a5c47bed4d9a1a204b7b88a70031de5afea64cdc363fdd62a01",
+      "origin": "ai"
+    },
+    "dataList[id=Acclamation_Panic].desc": {
+      "pl": "- Panika\n- Moc Starcia -2. Zyskuje 1 Wzrost Obrażeń",
+      "kr_sha256": "f827870f3867c0995765bf0a9a4274adb3ecd30a6fb239fe7adb172845cb3086",
+      "en_sha256": "f0a13c0b89f4483dd444d2c85abac569301ce91ab80a8844c1d3d2a12502c841",
+      "origin": "ai"
+    },
+    "dataList[id=Acclamation_Panic].name": {
+      "pl": "Echa Rezydencji",
+      "kr_sha256": "adb0bd71e0c0d24de81840f4a90df73e2542289ed301ba28bb03d46800390c91",
+      "en_sha256": "296206a21122daaa6ef8a72417918ddac39274dddb40d9c4fe44ea4c088ce9ca",
+      "origin": "ai"
+    },
+    "dataList[id=Acclamation_Panic].summary": {
+      "pl": "Moc Starcia -2. Zyskuje 1 Wzrost Obrażeń",
+      "kr_sha256": "3cc0c1fc656a3d4a4fca424e2422958c8e7f02bb97023adfd86afb33d0b8c29f",
+      "en_sha256": "8621110fb839c52b179755547bb0595f55b11af9750615e8730a16cb24e9ddf1",
+      "origin": "ai"
+    },
+    "dataList[id=CleanUp_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Przegrana w Starciu: traci 5 Poczytalności. Przy trafieniu: 1 Pośpiechu w następnej turze (maks. 2)",
+      "kr_sha256": "ce2d637adc8ac7e4fadea63a755123c4259eb15ee553d7681810ee9d713f44fd",
+      "en_sha256": "066c51b1fedb876c22064de64bcada163c7b0072f04c75475b22b093d2b93888",
+      "origin": "ai"
+    },
+    "dataList[id=CleanUp_LowMorale].name": {
+      "pl": "Przymus Organizowania",
+      "kr_sha256": "d445e962a67f122c7bd6337c7c1ccd38dde2dd2176b070e9b40556e216e6cafa",
+      "en_sha256": "a8d5479e4b0e550e6ed3e79e749c7b46e8926d04214eb1798cb9011650b5326f",
+      "origin": "ai"
+    },
+    "dataList[id=CleanUp_LowMorale].summary": {
+      "pl": "Po przegranej w Starciu traci 5 Poczytalności. Przy trafieniu zyskuje w następnej turze 1 Pośpiechu",
+      "kr_sha256": "8b3dd8e4f92684b038571c10bd67f738d75955756f40352c66a2f977ca39bb01",
+      "en_sha256": "f470a2222bb09b9351423033b22dae509a32dc11ed5f458339a19301cdb9a59f",
+      "origin": "ai"
+    },
+    "dataList[id=CleanUp_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wrażliwości. Przy trafieniu zyskuje w następnej turze 1 Pośpiechu (maks. 3)",
+      "kr_sha256": "bf5617e9c0607e6a134be9b1b6b5f85a8c6fa6a166ad88140249dbe7af3f381d",
+      "en_sha256": "0ea5876a09bb2bb4a5fd6e5d041a48edd54315c4dcea0993e55d3b85cc29def8",
+      "origin": "ai"
+    },
+    "dataList[id=CleanUp_Panic].name": {
+      "pl": "Przymus Organizowania",
+      "kr_sha256": "d445e962a67f122c7bd6337c7c1ccd38dde2dd2176b070e9b40556e216e6cafa",
+      "en_sha256": "a8d5479e4b0e550e6ed3e79e749c7b46e8926d04214eb1798cb9011650b5326f",
+      "origin": "ai"
+    },
+    "dataList[id=CleanUp_Panic].summary": {
+      "pl": "Zyskuje 2 Wrażliwości. Przy trafieniu zyskuje w następnej turze 1 Pośpiechu",
+      "kr_sha256": "a5f13e0f8e68a0d9c1303c956106b7c004c8635ffa980c5b65f1fdebeedbbdcc",
+      "en_sha256": "6e6200613845e0430ed4a0445c1d9afc22f68d8a75c380b3d7280deebb0bba7a",
+      "origin": "ai"
+    },
+    "dataList[id=Unstable_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- W każdym Starciu traci 2 HP. Na początek tury zyskuje 1 Wzrost Poziomu Ataku.",
+      "kr_sha256": "3ce0961ab7013ce04cc359720251a52683d0bae107457f55569f93447fc6d043",
+      "en_sha256": "82cf655763610d54171104af82697f3fc96c498b403f32fa121d38afedf584ac",
+      "origin": "ai"
+    },
+    "dataList[id=Unstable_LowMorale].name": {
+      "pl": "Wewnętrzny Rozłam",
+      "kr_sha256": "d1ae428544d5aa908f65236a3cd34315c1ce4068b6e39e2dadaad59efc929535",
+      "en_sha256": "56f1d512baead8e090fe38a52a7f6a3bda83a2afc5ded484a532b9da64834c5a",
+      "origin": "ai"
+    },
+    "dataList[id=Unstable_LowMorale].summary": {
+      "pl": "Traci 2 HP w każdym Starciu",
+      "kr_sha256": "d7ec0f20f71fabcc768fa56ac66b3cafa03923dc1d8abea69cb074b9aa39ad31",
+      "en_sha256": "2abae3422e63e524cb11f4317dc71053976b8f078694488a4d174f5caca66822",
+      "origin": "ai"
+    },
+    "dataList[id=Unstable_Panic].desc": {
+      "pl": "- Panika\n- W każdym Starciu traci 3 HP. Na początek tury zyskuje 2 Wzrosty Poziomu Ataku.",
+      "kr_sha256": "cf501c55766ffe01b48ff2e1ed299c9b73a4fe16504411b94418982fc42decd2",
+      "en_sha256": "b93fdac9e18ac7933eb4377ab7b8c66acdb1fed56b63bce0faf867c5a2d9956b",
+      "origin": "ai"
+    },
+    "dataList[id=Unstable_Panic].name": {
+      "pl": "Wewnętrzny Rozłam",
+      "kr_sha256": "d1ae428544d5aa908f65236a3cd34315c1ce4068b6e39e2dadaad59efc929535",
+      "en_sha256": "56f1d512baead8e090fe38a52a7f6a3bda83a2afc5ded484a532b9da64834c5a",
+      "origin": "ai"
+    },
+    "dataList[id=Unstable_Panic].summary": {
+      "pl": "Traci 3 HP w każdym Starciu",
+      "kr_sha256": "f1ec1dd296e769c09569a76193c22c05ff56a4fc0e723345d8acd9ef82147cb5",
+      "en_sha256": "5c99a7ad18999bf70e99d891377710950ef8e0184cd594a768d581050320e5c2",
+      "origin": "ai"
+    }
+  }
+}

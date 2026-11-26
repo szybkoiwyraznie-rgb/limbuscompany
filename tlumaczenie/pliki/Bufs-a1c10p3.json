@@ -120,6 +120,216 @@
       "en_sha256": "f8784e0de0a1ae623e39b3669b2690e69425a4b8a2f25ead21b802b61bcb5bc5",
       "origin": "ai"
     },
+    "dataList[id=BoneNail].desc": {
+      "pl": "- Maks. ładunków: 5\n- Traci 1 Szybkości za każdy ładunek\n- Otrzymuje +20% obrażeń od Krwawienia za każdy ładunek (zaokr. w dół)\n- Przy użyciu Umiejętności ataku podstawowego zyskuje Licznik Krwawienia równy ładunkom",
+      "kr_sha256": "25908b32be66ad1a6a7f1974a5c40ffd313f31fa5cad823a2f4d9c324f49ca80",
+      "en_sha256": "95cd08a73864acbb6f89c286557b0ea1154b0b1538f2fca81868d17b03720382",
+      "origin": "ai"
+    },
+    "dataList[id=BoneNail].flavor": {
+      "pl": "Odrzucona przydatka. Buffet ją wypchnął, wypluł, wylał z siebie.\n\nChoć przyszła z własnego ciała, skoro znalazła się na zewnątrz, przestała być swoją. A nawet gdyby przybić ją w czyimś ciele, nie stanie się jego.",
+      "kr_sha256": "3378d249d4d7f635ac3cc4b84220e1f450ecab10fecbb8d454d3241b4008ff0e",
+      "en_sha256": "cb98865f6ffe337c3d847686b21e7f63cbe934472587ad5789fb6f4fa198cdcf",
+      "origin": "ai"
+    },
+    "dataList[id=BoneNail].name": {
+      "pl": "L'Abject",
+      "kr_sha256": "ff0cf6429d407c7e4434cea4b9f2d569a4f66920136da13535f5b396a3783cba",
+      "en_sha256": "3c7b219775d702fde533764664059fe1613665406acd181b8d91ec5c5a4f2237",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream1].desc": {
+      "pl": "- Maks. ładunków: 5\n- Za każdy ładunek Podstawowy Poziom Ataku -5, Podstawowy Poziom Obrony -5, Moc Starcia -1\n- Na początku tury odzyskuje Poczytalność (8 x ładunki)",
+      "kr_sha256": "4d51cb054a0a49cb384bf3c215ba77a7709f74b0c5fee1acfd3a5d1c47f7755d",
+      "en_sha256": "f901cee4b76fc9be9c90075f00ea65b530c229f1d4fd29e60db09a2c9c30aaa9",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream1].flavor": {
+      "pl": "Buty... ucieszyły mnie...",
+      "kr_sha256": "d9643ca469c125296f6a40b28b3a4c153f40561d99db37a42ea2136ee10e493b",
+      "en_sha256": "e56a3fb028818c75bfd2a54456bcb3e6e10882c78438d355de2c520a517edbd3",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream1].name": {
+      "pl": "Wspomnienia Pwie",
+      "kr_sha256": "49cc77c873fbebfccacfbd63a7b7dccf00459a25aba7711971c37f4e12bcdd8a",
+      "en_sha256": "0d7cdc72afaacd54da2be886654c22f23bfc49ea5519d1cb28b666ffa62a290a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream2].desc": {
+      "pl": "- Maks. ładunków: 5\n- Za każdy ładunek Podstawowy Poziom Ataku -5, Podstawowy Poziom Obrony -5, Moc Starcia -1\n- Na początku tury odzyskuje Poczytalność (8 x ładunki)",
+      "kr_sha256": "4d51cb054a0a49cb384bf3c215ba77a7709f74b0c5fee1acfd3a5d1c47f7755d",
+      "en_sha256": "f901cee4b76fc9be9c90075f00ea65b530c229f1d4fd29e60db09a2c9c30aaa9",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream2].flavor": {
+      "pl": "Dziękuję... za spojrzenie mi w oczy...\n\nButy... ucieszyły mnie...",
+      "kr_sha256": "4ec0b9816ad8ed055ae4927ef2886d815533cc7bd1a5badb15c5cc0d392a803e",
+      "en_sha256": "52b91fda373c5d56647ffe943f6ed0db7235a208e2554c9de4bc80010e9e36fc",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream2].name": {
+      "pl": "Wspomnienia Pwie",
+      "kr_sha256": "49cc77c873fbebfccacfbd63a7b7dccf00459a25aba7711971c37f4e12bcdd8a",
+      "en_sha256": "0d7cdc72afaacd54da2be886654c22f23bfc49ea5519d1cb28b666ffa62a290a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream3].desc": {
+      "pl": "- Maks. ładunków: 5\n- Za każdy ładunek Podstawowy Poziom Ataku -5, Podstawowy Poziom Obrony -5, Moc Starcia -1\n- Na początku tury odzyskuje Poczytalność (8 x ładunki)",
+      "kr_sha256": "4d51cb054a0a49cb384bf3c215ba77a7709f74b0c5fee1acfd3a5d1c47f7755d",
+      "en_sha256": "f901cee4b76fc9be9c90075f00ea65b530c229f1d4fd29e60db09a2c9c30aaa9",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream3].flavor": {
+      "pl": "Bawiliśmy się w przygodę... było fajnie...\n\nDziękuję... za spojrzenie mi w oczy...\n\nButy... ucieszyły mnie...",
+      "kr_sha256": "812e1ac1a2ed671f8856cc154217ebc226204bbc67d4ca3aed75e63e19a74315",
+      "en_sha256": "0c6c7591b723297f2d3aaaf24e45f638c9989bf1a03e380df8fa5c5617ce2241",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream3].name": {
+      "pl": "Wspomnienia Pwie",
+      "kr_sha256": "49cc77c873fbebfccacfbd63a7b7dccf00459a25aba7711971c37f4e12bcdd8a",
+      "en_sha256": "0d7cdc72afaacd54da2be886654c22f23bfc49ea5519d1cb28b666ffa62a290a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream4].desc": {
+      "pl": "- Maks. ładunków: 5\n- Za każdy ładunek Podstawowy Poziom Ataku -5, Podstawowy Poziom Obrony -5, Moc Starcia -1\n- Na początku tury odzyskuje Poczytalność (8 x ładunki)",
+      "kr_sha256": "4d51cb054a0a49cb384bf3c215ba77a7709f74b0c5fee1acfd3a5d1c47f7755d",
+      "en_sha256": "f901cee4b76fc9be9c90075f00ea65b530c229f1d4fd29e60db09a2c9c30aaa9",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream4].flavor": {
+      "pl": "Byłem głodny... nie chciałem nikogo ranić... bolało...\n\nBawiliśmy się w przygodę... było fajnie...\n\nDziękuję... za spojrzenie mi w oczy...\n\nButy... ucieszyły mnie...",
+      "kr_sha256": "e151dcd9befde3219d2be0f911f83d7c8bfcf4824a3fe93fb44b6f149586834e",
+      "en_sha256": "b9badb88112e094625d85793d417b0e391a1808fa125d4f2facd3e8e8685e22a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream4].name": {
+      "pl": "Wspomnienia Pwie",
+      "kr_sha256": "49cc77c873fbebfccacfbd63a7b7dccf00459a25aba7711971c37f4e12bcdd8a",
+      "en_sha256": "0d7cdc72afaacd54da2be886654c22f23bfc49ea5519d1cb28b666ffa62a290a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream5].desc": {
+      "pl": "- Maks. ładunków: 5\n- Za każdy ładunek Podstawowy Poziom Ataku -5, Podstawowy Poziom Obrony -5, Moc Starcia -1\n- Na początku tury odzyskuje Poczytalność (8 x ładunki)",
+      "kr_sha256": "4d51cb054a0a49cb384bf3c215ba77a7709f74b0c5fee1acfd3a5d1c47f7755d",
+      "en_sha256": "f901cee4b76fc9be9c90075f00ea65b530c229f1d4fd29e60db09a2c9c30aaa9",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream5].flavor": {
+      "pl": "Nie mogłem przestać... tęskniłem... ciągle byłem sam... chciałem iść z tobą...\n\nByłem głodny... nie chciałem nikogo ranić... bolało...\n\nBawiliśmy się w przygodę... było fajnie...\n\nDziękuję... za spojrzenie mi w oczy...\n\nButy... ucieszyły mnie...",
+      "kr_sha256": "fe5805993bf97c8bab3ee12418b74917c716f5c7131c8f8bfc4a6266479a81a5",
+      "en_sha256": "68fc4626cea68e9fa76b73edc39a018de8b78199079efe0c1959bf45bc761b35",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream5].name": {
+      "pl": "Wspomnienia Pwie",
+      "kr_sha256": "49cc77c873fbebfccacfbd63a7b7dccf00459a25aba7711971c37f4e12bcdd8a",
+      "en_sha256": "0d7cdc72afaacd54da2be886654c22f23bfc49ea5519d1cb28b666ffa62a290a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDreamEnd].desc": {
+      "pl": "- Podstawowy Poziom Ataku -30\n- Podstawowy Poziom Obrony -30\n- Otrzymuje obrażenia +100%",
+      "kr_sha256": "bd4a0a7811da6ff3b41f8ef043871776d519d72fb301145d447ea3999d101ad9",
+      "en_sha256": "f22e3a3d29d2d1344d935223522261e832945333d07122d593f7da5d74f870ca",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDreamEnd].flavor": {
+      "pl": "Zapamiętaj mnie jako „Pwie”.\nDziękuję... za wszystko.",
+      "kr_sha256": "4003e1dd7381faf0449811749589abd786cc4ad81eca8ddc66c61d5b439c5070",
+      "en_sha256": "ded9fc5b5d52be683912a348106da6c1797a06d5b1cb9848fb2e580950d9aa0c",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDreamEnd].name": {
+      "pl": "Jestem... „Pwie”",
+      "kr_sha256": "034985faf6e63ead642a52cd5a6edda94725e4ca282969c063f1feb2a68f8c8a",
+      "en_sha256": "fa8b3914c0cfac26feed58676393c2f52d6088b04506edb6af431fdd45bd6f2a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream].desc": {
+      "pl": "- Maks. ładunków: 5\n- Za każdy ładunek Podstawowy Poziom Ataku -5, Podstawowy Poziom Obrony -5, Moc Starcia -1\n- Na początku tury odzyskuje Poczytalność (8 x ładunki)",
+      "kr_sha256": "4d51cb054a0a49cb384bf3c215ba77a7709f74b0c5fee1acfd3a5d1c47f7755d",
+      "en_sha256": "f901cee4b76fc9be9c90075f00ea65b530c229f1d4fd29e60db09a2c9c30aaa9",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetDream].name": {
+      "pl": "Wspomnienia Pwie",
+      "kr_sha256": "49cc77c873fbebfccacfbd63a7b7dccf00459a25aba7711971c37f4e12bcdd8a",
+      "en_sha256": "0d7cdc72afaacd54da2be886654c22f23bfc49ea5519d1cb28b666ffa62a290a",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetResolve].desc": {
+      "pl": "- Maks. ładunków: 1\n- Zadaje Czerwonemu Bogowi [Dojrzałość] obrażenia +30%\n- Na początku tury odzyskuje 15 Poczytalności",
+      "kr_sha256": "e2569ad2afcc8277aee830f8949fcee5f9801836387b002a5ba040d1d79d91a2",
+      "en_sha256": "d56e630941181afbfd4a58161b46014e1781398bb7719e94a3ae5b25fd3b532d",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetResolve].flavor": {
+      "pl": "„Jako Kierownik... muszę wybrać, prawda?”\n„Zupełnie tak, Kierowniku.”\n„.......”\n„.......”\n„... podjąłem decyzję.”",
+      "kr_sha256": "d4b496bc0a90e7ed010ce2b69893ebf03fed42fa56712b2cd59d498c76df1537",
+      "en_sha256": "e8fe40442fbe9bc2cb44eb5f9cb373c8906e0be207fed2d1ba092b3ee16ffe38",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetResolve].name": {
+      "pl": "Decyzja",
+      "kr_sha256": "82dd3686240b1128fd1d12951d3e313fe2c1d042537fe1dc29c9b24311030db6",
+      "en_sha256": "640ae4baf96061fee1798e9181e2b7a5145585233df2c27a501623afb0096ec1",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetRevival].desc": {
+      "pl": "- Maks. ładunków: 3\n- Nie ginie\n- Na koniec tury traci 1 ładunek\n- Gdy ten efekt znika, wraca do pierwotnej postaci (starszy personel Le Rouge); za każde 10 HP, jakie pozostało mu w stanie Rozdartego Mięsa Czerwonego Boga, odzyskuje 5 Poczytalności; zyskuje 2 Licznika Pulsowania\n· Jeżeli zdobyte Liczniki Pulsowania wynoszą 10 lub więcej, zużywa je wszystkie i za każde 5 zużytych zyskuje w następnej turze 1 Niepowstrzymanej Furii [Le Désir]",
+      "kr_sha256": "77783ea1aaf8835574076d38cb4a9a5f64d55e16252383424c745e1b6158042e",
+      "en_sha256": "156b52648b042a6bf9687835f32eebe94cd8b838d5d5d50e47b96bd4aae3916b",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetRevival].flavor": {
+      "pl": "Żyj i żyj dalej.\n\nDoświadczanie, życie — polega na tym, że świadomość przebywa nie w teraźniejszości, lecz już w przyszłości.\nBo czemu człowiek oczekuje — dlatego chce doświadczać; a bo chce doświadczać — dlatego chce żyć.",
+      "kr_sha256": "01fca8b4149e727d37fd35fc9926bce43ce327cfe11edfec7bfebf40b994b740",
+      "en_sha256": "ba2042435702ebb556f3c5a952c270c09e69b5f1b5218538c935783a7f9019d4",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetRevival].name": {
+      "pl": "Głos Czerwonego Boga",
+      "kr_sha256": "957fe50563f1fc879f1e6b7d3fc91b7ce04a3af72141af85ce471893f90408b8",
+      "en_sha256": "cc7996dd7da68bfc817ac2d4f353bada0d039237962d9992fb415863549531ed",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetRouge].desc": {
+      "pl": "- Maks. ładunków: 3\n- Min. Szybkość +1, Maks. Szybkość +1\n- Otrzymuje -50% obrażeń od Krwawienia\n- Nie ginie od obrażeń Krwawienia\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "9e943743b3a0379939c8aeef418fa4d29905338e0079f223fc6c53d35e06c378",
+      "en_sha256": "04bc99f6ab59a9f2d531ad18d364252f427b92814bf7a08a3467a7e3a0875a93",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetRouge].flavor": {
+      "pl": "Nigdy nie nasycę się dosyć.\n\nChoć ta żądza nie jest naprawdę moją, biorę ją za własną.\n\nTo żądza zrodzona z ciebie — żądza wybuchająca z ciebie, przez ciebie.",
+      "kr_sha256": "cd717a5009574e144dba59f76f84a980e1d1ba3bb9771f4c4a9b27b55734a5fb",
+      "en_sha256": "c84a1846e8d8c69296c1fbea7e66eaa4b63fdb93e941d8d4486c20cfb772cab2",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetRouge].name": {
+      "pl": "Niepowstrzymana Furia [Le Désir]",
+      "kr_sha256": "5bd22254dff6b16016d66c99548bf2253a32c2a2331e149bb7ff8dfb7ee52410",
+      "en_sha256": "c46bd02006aa8151953d8108a6adbe65ca6cd7671c064528361b0cace378128d",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetScruple].desc": {
+      "pl": "- Min. i Maks. Szybkość +3\n- Na początku tury +15 Poczytalności\n- Otrzymuje -75% obrażeń końcowych od Czerwonego Boga [Dojrzałość]",
+      "kr_sha256": "dd914ed1daf1765a56548b5016f3b86f5f9e22d9dc1dc82e9985bc701c2f7b13",
+      "en_sha256": "f2a3c518aa1e07cd1ecbea9e2f16ce3430470e27828057f626195b5c4dab1c36",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetScruple].flavor": {
+      "pl": "Na pewno dzieliliśmy doświadczenie z Pwie. Wspólnie. Na pewno.\n\nNarasta wahanie.",
+      "kr_sha256": "5c46b628c9deb589146cbbb4a699ec5e0f5eb8d1516fcae57829560814524d97",
+      "en_sha256": "51b1c2729bd85788281edbda1217d13892314829bb17e3bb75ad1a20071f47a2",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetScruple].name": {
+      "pl": "Doświadczenie z Pwie",
+      "kr_sha256": "241e9f57ca3c4c1755717b8992753ff3ec64cb756a370768214a1f8bcb9f0404",
+      "en_sha256": "cd0837f890167fd18d3d1a981779b2bdeeeddfd5988ba7ec5c6fd93a32b3d643",
+      "origin": "ai"
+    },
     "dataList[id=CeremonialNail].desc": {
       "pl": "- Maks. ładunków: 9\n- Gdy ten efekt zostaje wywołany przez „Sąd...! Wyrok...! Potępienie...!”, zyskuje Zatonięcie równe liczbie ładunków",
       "kr_sha256": "f9e5c324ebafb6ca8b596c7e42ef974c01dc5cb632e79c526e88f90671304e8f",
@@ -516,6 +726,66 @@
       "en_sha256": "b2065a8fcad9810693b64332635cd76f733ee516b09dc208f03bc1f2197f8c53",
       "origin": "ai"
     },
+    "dataList[id=GrandBuffet_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Poziom Ataku +3\n- Poziom Obrony +3",
+      "kr_sha256": "ccbfe9d6c4441739a145eb5c8a4496b963333de3968f83e6c8699d904a296d3b",
+      "en_sha256": "74a4933586048ea66e0b5c66a2256835a8dcafc788b3a4ae1e9938e0039de944",
+      "origin": "ai"
+    },
+    "dataList[id=GrandBuffet_LowMorale].name": {
+      "pl": "Le Désir",
+      "kr_sha256": "8af5f5205c375b4013fb415e04b16faa30a4822af622f0422a90e27e5a03d378",
+      "en_sha256": "4ca977faf4e6229b7545fc6a6b9f0642f0a22ea20fa97c9551a6cc109fb025c7",
+      "origin": "ai"
+    },
+    "dataList[id=GrandBuffet_Panic].desc": {
+      "pl": "- Panika\n- Poziom Ataku +5\n- Poziom Obrony +5",
+      "kr_sha256": "31e50e874b8c5dea9b07dbba73dbdb67948e8600ebacbb62a7bbb7fbe88bbe39",
+      "en_sha256": "001892fc29bdd2a732cdc2fde0156339470a12f88823973c105e097d7dc95a92",
+      "origin": "ai"
+    },
+    "dataList[id=GrandBuffet_Panic].name": {
+      "pl": "Le Désir",
+      "kr_sha256": "8af5f5205c375b4013fb415e04b16faa30a4822af622f0422a90e27e5a03d378",
+      "en_sha256": "4ca977faf4e6229b7545fc6a6b9f0642f0a22ea20fa97c9551a6cc109fb025c7",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneBlueprint].desc": {
+      "pl": "- Maks. ładunków: 5\n- Moc Starcia +1 za każdy ładunek\n- Otrzymuje obrażenia +10% od Umiejętności za każdy ładunek\n- Na początku tury przy 4 lub więcej ładunkach stosowane są następujące efekty:\n· Usunięcie wszystkich Progów Oszołomienia\n· Po Oszołomieniu wychodzi z Oszołomienia\n· Waga Slotu +1",
+      "kr_sha256": "9188af7617942beed142459a15a38e2a5e8c16fd9dba8db627ef83fe7a277780",
+      "en_sha256": "0909eeae8e77f01a73f78d5a8a9c3d72890d90d446ff28c580077134de4aa001",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneBlueprint].flavor": {
+      "pl": "Nawet w rozpaczliwej wolności, która niczego nie gwarantuje, wewnątrz Grand Magasin Sisyphe można cieszyć się błogosławieństwem bycia skrojonym wedle projektu i spojrzenia — i utrwalonym.",
+      "kr_sha256": "53d8b589a9a14fbd595ac333bfd0ce7f721a364b86f42c6453103d4ebf2e658e",
+      "en_sha256": "d28c2fee0d51a4325f79ae65ddee9e68bcf7712efc56274bf105be400d27fea2",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneBlueprint].name": {
+      "pl": "Délaissement",
+      "kr_sha256": "9147f3d142899c4655c8e188b31d91258b61785fa66ae604f51b628447c9561e",
+      "en_sha256": "ea2f66fba4ba8ecbe7fa57c19478a5fa125feca4fd27554294b5866c0a1e50aa",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneCheat].desc": {
+      "pl": "- Szanse na Rewers Monet zamrożone na 100% (dla Monet Minus — na Awers)\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "4102e1d1a5066569847b6a8265b1cddea04d255611d918429a73c65ba2f7787f",
+      "en_sha256": "3be30696d178da3db97f5a1858248f997f601944d702c2840f35480f40f8c36f",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneCheat].flavor": {
+      "pl": "...Ma puce, uciekasz? Od sądu, od tego światła...?",
+      "kr_sha256": "5accff2f694931cb3ea98206e3a52f0f871cc3dbc00cdea9762f100c0de5e8d5",
+      "en_sha256": "efa05c5fd1c04a697a209d70e1f428b2c838d58bd5ba20e16b1567c93f73cd1c",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneCheat].name": {
+      "pl": "Désespoir",
+      "kr_sha256": "c0b7301bfb8be4c616a0361260e616bbc197dfc59d8e449718be026635756952",
+      "en_sha256": "86184428266ace7042faa22dd7d45075283ec36d6d2a2ca4e5b295b03a887cc1",
+      "origin": "ai"
+    },
     "dataList[id=JeanneDesign].desc": {
       "pl": "- Maks. ładunków: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Szanse na Awers Monet zamrożone na 95%</u></b></mark></color>\n- Przy 2 ładunkach Moc Starcia celów, którzy prowadzą z nim Starcie, wynosi <color=#ff6000><mark color=#ff000040><b><u>-2</u></b></mark></color>\n- Przy 3 ładunkach zużywa je wszystkie, a w następnej turze zyskuje <color=#ff6000><mark color=#ff000040><b><u>Engagement</u></b></mark></color>\n- Na koniec tury traci 1 ładunek (w turze zdobycia tego efektu nie traci)\n- Jeżeli jednostka posiada Engagement, nie może zdobyć tego efektu",
       "kr_sha256": "a4728213360fd38b6460cd7a1a8c8052562d63376ca2cd4083f0d3a0068b3aca",
@@ -532,6 +802,144 @@
       "pl": "Przybity",
       "kr_sha256": "63e99f216231ea771d1e9299f5f5467b1c60d9f878c8ebedf1224b2fe4e3c4bf",
       "en_sha256": "876c4d86ad9eb7eb595039f3b7a1755a424c3cc0cb36fe871526ed423d27dc7a",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneLogos].desc": {
+      "pl": "- Maks. ładunków: 100\n- Po wygranym Starciu zyskuje 5 ładunków\n- Zyskuje ładunki w liczbie odbytych Stareć\n- Poziom Ataku +1 za każde 10 ładunków\n- Moc Starcia +1 za każde 20 ładunków",
+      "kr_sha256": "920afe87a47c077fce04a041ded60c19bd4cf1edcd9b0a249ff3ecea8f30a916",
+      "en_sha256": "54b5e504afe79f7c0b50c2e073aa6372ad3f2a5311d7f5f5b38e5bf696b7b013",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneLogos].flavor": {
+      "pl": "Czemuś w tobie czegoś brakuje. We mnie także. Dlatego możemy się nawzajem wypełnić.",
+      "kr_sha256": "8020a415a247702169f1c7b2070e97f284bf7cbfe6e44886f40225e1ab90c937",
+      "en_sha256": "93afd0110967e8731c43ccdb88d3cecc18ea69342ad8fdaf1ad1e25f8e8013be",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneLogos].name": {
+      "pl": "Logos - Manque d'être",
+      "kr_sha256": "50c314d51e161a3d0df0239ac1b44a654ce6669b3c20108440d885962e48ae6e",
+      "en_sha256": "319272eeaa1123ed083bba44da94843770f0884a863397279e792714640b9fcf",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneManager].desc": {
+      "pl": "- <color=#ff6000><mark color=#ff000040><b><u>Szanse na Awers własnych Monet zamrożone na 100%</u></b></mark></color>\n- Cele prowadzące z nim Starcie lub atakujące go mają <color=#ff6000><mark color=#ff000040><b><u>Monety Plus o zamrożonych szansach na Rewers wynoszących 100%</u></b></mark></color>\n· Monety Minus tych jednostek mają 100% szans na Awers\n- Efekt znika po wyposażeniu Umiejętności „Skupienie” lub gdy jednostka zostanie oszołomiona",
+      "kr_sha256": "831ca65bf8da9df58de156f8d6e1721873492bc627fc82e3d494f4da87a2f074",
+      "en_sha256": "c5e4ad325351afe6cdc8f3672675390a391250751cc2e4ab671191b9f5d90fa4",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneManager].flavor": {
+      "pl": "Zaprojektowałam Grand Magasin. A teraz jestem modelą na jego wybiegu i aktorką na jego scenie.\n\nA ty, ma puce... tobą będzie samo kino, nieprawdaż?",
+      "kr_sha256": "d3dc27a2d08e0aa38a97d67450cc95e87b9bd49033bbadd643ff47c0004abe64",
+      "en_sha256": "ad52edbf148ac522eeee05714bbf3f5fe6617f19aa95c730142d1875ca91a390",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneManager].name": {
+      "pl": "Engagement",
+      "kr_sha256": "49876a6691ae79de379d66f75af2e419317a69ed9ced4461ef8ac690a0847747",
+      "en_sha256": "ea68771a399457d94e436529f5205fd76513c66958d4618ffc080a33d53e1283",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePartnerTwo].desc": {
+      "pl": "- Zamraża Poczytalność na 45\n- Nie otrzymuje obrażeń\n- Znika, gdy Jeanne zmienia fazę",
+      "kr_sha256": "d7e13b2408b8cf2541dc9547f37dd10f91ae8e034e1b78b671ff721e08ef4f73",
+      "en_sha256": "785e23a615b621b1b490e3b659b2092891fa03839645d73ab572b6b9942d98b2",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePartnerTwo].flavor": {
+      "pl": "Posiadanie świadomości to przerażająca rzecz. Gdzieś w niej nieuchronnie otwiera się dziura.\n\nWypełnisz ją dla mnie, ma puce?",
+      "kr_sha256": "22f0c58b0de1e0959949ea0082ba5154a2984d78dc428bb51b89b802a4463355",
+      "en_sha256": "dba20522ec509d67e9e848ce49f272f30f24013db18c57bb38557f59b1fb3694",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePartnerTwo].name": {
+      "pl": "Être-pour-soi",
+      "kr_sha256": "81d62eccaa41b380e89eebf748da939c71d1ea60ef0f8acecf72b64cdb72ddde",
+      "en_sha256": "455bc35cc7558a4d60a791707d3cc5dd9bf283eb119f20083c9fd8a1fcad4343",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePartner].desc": {
+      "pl": "- Przy zdobyciu tego efektu cel traci wszystkie negatywne efekty\n- Zamraża Poczytalność na 45\n· Dla Tożsamości używających Monet Minus zamraża Poczytalność na -30\n- Nie może ulec Oszołomieniu\n- Znika, gdy Jeanne zmienia fazę",
+      "kr_sha256": "d2b49c7d638d835c9008987b2afe410fed6eda92badc071131ed36530a2ac4aa",
+      "en_sha256": "50fc1a9abdfb88ada347f6da33d6e5644a0a8d166fe86743ba7126fbd3aa8c3d",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePartner].flavor": {
+      "pl": "Jak sądzisz, jak wyglądasz w moich oczach?\nTy, którego widzisz siebie, a ty, którego widzę ja, będą zupełnie różne.\nMa puce... jesteś już przybity gwoździem we mnie.",
+      "kr_sha256": "30f3b6598e37315df56ae52f0de7fbb0f11c28416224638ddeb264e11d13971d",
+      "en_sha256": "991ebeba46b17141d9aa2697cf1615156344a5c3774a45ef4f92c7dcde8568fb",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePartner].name": {
+      "pl": "Être-pour-autrui",
+      "kr_sha256": "c2870f339a32e7780897a0f36e7f63b260a5d2bce870a1e8f763fed24dc21b34",
+      "en_sha256": "3cb81b908b5c1bfadb653e350005451e1c8c3312bc98a6d958e6bcbdbd27bdf7",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePathos].desc": {
+      "pl": "- Maks. ładunków: 100\n- Po wygranym Starciu zyskuje 3 ładunków\n- Po przegranej w Starciu zyskuje 5 ładunków\n- Zyskuje ładunki w liczbie Stareć\n- Na koniec tury przy Maks. ładunków zmienia fazę",
+      "kr_sha256": "120c398fe1430f684c49b59c2b0f73e084c096856f143ed6ac42479a0cdc09be",
+      "en_sha256": "876631125be83ec470f78259943206680c251c3bdd809d5ec66e03077e7b77c6",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePathos].flavor": {
+      "pl": "Pasja i namiętność. Chciałam rozkwitnąć czerwono — w tym czerwonym patosie.",
+      "kr_sha256": "a713a90ae0ef04759ddec9b267ef5f0cee2fedaf3b22cc566e8173b5e88d8fac",
+      "en_sha256": "f765fadf9bf00fe69ba077c697fb5310c56bba751c85aaa8cfbc7b168f2375d2",
+      "origin": "ai"
+    },
+    "dataList[id=JeannePathos].name": {
+      "pl": "Pathos - Désir d'être",
+      "kr_sha256": "df6f6802c465fb2d364fa51a6c3dcd621f827f9f979fb96f184e7e8995d16268",
+      "en_sha256": "2794f9fce6896b685912cd89c33b75f8853585265cc350222203f12ec538577a",
+      "origin": "ai"
+    },
+    "dataList[id=Jeanne_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zadaje obrażenia -10%",
+      "kr_sha256": "7daf1d8bfcf56c2481db4dd91126f1acaf0f047263bdb5efff83626e25dd04d8",
+      "en_sha256": "278fc9d8208c8935c7acd036d929ac2c13145ce6491d2b9feb71ac97b13f81a7",
+      "origin": "ai"
+    },
+    "dataList[id=Jeanne_LowMorale].name": {
+      "pl": "La Nausée",
+      "kr_sha256": "a6c28149a68a894e5cb3ebff8e4f1ba97aae0765cf69dbe3a41edf97462a5ea4",
+      "en_sha256": "f34c00adbf548526e957fad988e34df51f53398cae0c51b611fa072a5ead92ff",
+      "origin": "ai"
+    },
+    "dataList[id=Jeanne_Panic].desc": {
+      "pl": "- Panika\n- Moc Bazowa -1\nZadaje obrażenia -10%",
+      "kr_sha256": "fe24b856397651cca495ed517a015c12bbca817bae7cc1c3b743f9708f797a2a",
+      "en_sha256": "f4f42e16d520fe40b1ec64f520b46b59ee6cfb2f774028ca8d91f8998ee37b89",
+      "origin": "ai"
+    },
+    "dataList[id=Jeanne_Panic].name": {
+      "pl": "La Nausée",
+      "kr_sha256": "a6c28149a68a894e5cb3ebff8e4f1ba97aae0765cf69dbe3a41edf97462a5ea4",
+      "en_sha256": "f34c00adbf548526e957fad988e34df51f53398cae0c51b611fa072a5ead92ff",
+      "origin": "ai"
+    },
+    "dataList[id=LaRougeSuperior_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Poziom Obrony -2\n- Poziom Ataku +2",
+      "kr_sha256": "233f30dbabd3e317be94ea9e37350f58f3d22677e9f3963ef8fd9c9044f7a2e1",
+      "en_sha256": "fb4fd9c4885a19b527cce21f4204fbc9d21cf2dd6d1084e65ee39b36548dc0bf",
+      "origin": "ai"
+    },
+    "dataList[id=LaRougeSuperior_LowMorale].name": {
+      "pl": "Skóra Jeszcze Dalej na Zewnątrz!",
+      "kr_sha256": "bf309aa78c8cff6c1c4556722b64e0040c2e5c56c7a743d47405c6486b2f53e7",
+      "en_sha256": "4cae42ab91287b76973d8da40553dd6f991f136a3bad6a5f65000a2096616a62",
+      "origin": "ai"
+    },
+    "dataList[id=LaRougeSuperior_Panic].desc": {
+      "pl": "- Panika\n- Poziom Obrony -5\n- Poziom Ataku +3",
+      "kr_sha256": "a8172b5e7546cbccae00283fc89fb0bbbefc36f1cad7fcd71d420ba2f6320282",
+      "en_sha256": "2e6f4fd916d79326d401422793c60b8dcfcae3fc524d559c70799d6ff13ecddc",
+      "origin": "ai"
+    },
+    "dataList[id=LaRougeSuperior_Panic].name": {
+      "pl": "Skóra Jeszcze Dalej na Zewnątrz!",
+      "kr_sha256": "bf309aa78c8cff6c1c4556722b64e0040c2e5c56c7a743d47405c6486b2f53e7",
+      "en_sha256": "4cae42ab91287b76973d8da40553dd6f991f136a3bad6a5f65000a2096616a62",
       "origin": "ai"
     },
     "dataList[id=LeaderVoiceSecondPhase].desc": {
@@ -676,6 +1084,18 @@
       "pl": "- Podczas Starcia z Kapłanem Moc Starcia i obrażenia rosną\n- Nie zostaje oszołomiony; gdy żyją inni sojusznicy, nie ginie",
       "kr_sha256": "8257ba516b0504234b24a79b96045421b105b9a7892f762e6fa524f440c0717f",
       "en_sha256": "92308a1cd054100a4bb6864d1989d9ebec3a540d6444f617492627d6bb79f781",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffetEnd].desc": {
+      "pl": "- Min. Szybkość +3, Maks. Szybkość +3\n- Moc Końcowa +3\n- W tej walce przy użyciu Umiejętności dodatkowo zyskuje 2 Zasoby E.G.O Grzechu tej Umiejętności (2 razy na turę)\n- Nie może się wycofać",
+      "kr_sha256": "0360ff76bcaca205a557845619b77226b724148f306809426bd11286e27bdcdb",
+      "en_sha256": "d1ad149bfeb8c04ad07e78cd93227d883293b4605a7f20ed1ab1233ada6375f8",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffetEnd].name": {
+      "pl": "Ten, Który Przybija",
+      "kr_sha256": "39935398241fbd270984253ede5a24fa53c8c70ee47236ab338a7537cb850da0",
+      "en_sha256": "09d238842913ae88cca6be74b06624096b2b48424e908b10ac852f225b4fd105",
       "origin": "ai"
     },
     "dataList[id=RestrainingNailSecondPhase].desc": {

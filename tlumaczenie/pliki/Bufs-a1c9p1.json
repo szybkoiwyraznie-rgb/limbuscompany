@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[id=DuelEdge].desc": {
+      "pl": "- Maks. wartości: 20\n- W Starciu z „Uczniem Kciuka - Lucio” Umiejętności tego wroga zyskują Siłę i zadają więcej obrażeń\n- Znika na koniec tury, jeżeli w tej turze nie odbyło się Starcie z „Uczniem Kciuka - Lucio\"",
+      "kr_sha256": "a72c41e79011d0f2a920f33b579e09a481d8dcf0c8bc71be28cc1741774c985b",
+      "en_sha256": "031984bcb63caf610aee349c3cf234ebbb58fb00f502176254d9c8be3b0ba9a4",
+      "origin": "ai"
+    },
+    "dataList[id=DuelEdge].name": {
+      "pl": "Eskalacja Pojedynku",
+      "kr_sha256": "383eba1c8154b70cf655a2ffddf34492c54f48fae8790b1101398729b4e381b1",
+      "en_sha256": "dcbe4a5d448f63898cfb78dd668de67b033f96286160b14797b18d5de32bfdcb",
+      "origin": "ai"
+    },
+    "dataList[id=HostageCharon].desc": {
+      "pl": "- W Starciu z „Uczniem Kciuka - Lucio” Moc Starcia -1\n- Zadaje -20% obrażeń „Uczniowi Kciuka - Lucio\"",
+      "kr_sha256": "7a05c43b8f08e49c58f15203b074788e073dcc23567527a869c5171eb8ea5962",
+      "en_sha256": "9826590c7fa1c975d4d523cd250a7dec0a3f1e97d618e589dcefe922a792a78e",
+      "origin": "ai"
+    },
+    "dataList[id=HostageCharon].name": {
+      "pl": "Wzięcie Zakładnika",
+      "kr_sha256": "4e1384fd431c4df80d1134f8c923a6481b1aa343b7bf9bc81940dff1898f42c6",
+      "en_sha256": "b409149662296c2f62cd0881413f5a85ebb235fb46f601012f3414f322499690",
+      "origin": "ai"
+    },
+    "dataList[id=MuscleContraction].desc": {
+      "pl": "- Maks. 2 stosów\n- Zadaje +15% obrażeń za każdy stos\n- Na początku walki przy 2 stosach wszystkie Monety Umiejętności ataku tej jednostki stają się Niezniszczalnymi Monetami.\n- Po zakończeniu ataku traci efekt",
+      "kr_sha256": "551eef9a282e41805196e7249dfaf94c8d959235e8552ca34a7bde56f1c05e6d",
+      "en_sha256": "4722f8821d6288eca6d8bd8334d5ca4cf54675fc66bea4e934fa4cbf338a9019",
+      "origin": "ai"
+    },
+    "dataList[id=MuscleContraction].name": {
+      "pl": "Automatyczna Praca Włókien Mięśniowych",
+      "kr_sha256": "f888dde0398f64a9b5e0a66c418f24a4b9d10a5ba4fe2dc8b89ecc3ea0f917ef",
+      "en_sha256": "5d7cabd8c86f7829795941c1b4ea75535fd7e213091b817091eb45ae4983967f",
+      "origin": "ai"
+    },
+    "dataList[id=SeveredTendon].name": {
+      "pl": "Przecięte Ścięgno",
+      "kr_sha256": "5904d8aa2bde6834b24d0046e8e72a261f34acf55716ef70cfd38288fa6a850c",
+      "en_sha256": "e9acb4f536ababf6cfd4fe6df5ebec52e41dae7e71030c76fc68e545b0de7b76",
+      "origin": "ai"
+    }
+  }
+}

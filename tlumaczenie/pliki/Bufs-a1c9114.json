@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=A1c971a].desc": {
+      "pl": "Na początku każdej tury zyskuje Podpalenie równe liczbie tur.",
+      "kr_sha256": "53ce96d2481352b8386661763ddf757de853f906a8a0de624d6ae035ae7fb83d",
+      "en_sha256": "2b7ac63526817591cb47ba442fecff239db45d502e6929d336d2a014e9b70269",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971a].name": {
+      "pl": "Wrzący Gniew",
+      "kr_sha256": "0ecbbbdee395c1fef5c54fadf74ad042094dd1e8b3ed546072fc51916c60456e",
+      "en_sha256": "2c032af19935f6805bed25657c9533b0cd3c0a2b80fb707a7088c00f3de99542",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971b].desc": {
+      "pl": "Na koniec tury, jeżeli wartość wynosi 1, zadaje wrogowi z najmniejszym HP obrażenia równe swojemu obecnemu HP i ginie\nNa koniec tury maleje o 1",
+      "kr_sha256": "34a64fe90098c51ff28ba0b36bf1dd0651895023a9a0401801c3022fec30d003",
+      "en_sha256": "dfe8ae081e4ace69d994674a4290325fd74e0e850571174de2d7c0f1eb56eff3",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971b].name": {
+      "pl": "Rozprzestrzeniająca się Posępność",
+      "kr_sha256": "aa731e033a03854f7ca6ef1ff9ec587d8083ad3eab46432b894fe10ae02fcb92",
+      "en_sha256": "f15ab6e54e2f9a47e144170c1ceb1c600516ade1461e091682554af7a4f712ee",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971c].desc": {
+      "pl": "Na początku tury zyskuje 1 Wzrost Leczenia HP za każde 2 tury (maks. 5)\nNa początku tury zyskuje 1 Wzrost Obrażeń i 1 Wzrost Mocy Starcia za każde 10 wyleczonych HP (maks. 5)\n\nWyleczone HP: {0}",
+      "kr_sha256": "938b650f281c901bfa7984e9bab97270443966abb2cdad436c35ff5e3cd19593",
+      "en_sha256": "51b87271e9577de40ccfdbc760ffef62304ae8e1a9f46f44d9368c20b1c45ab1",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971c].name": {
+      "pl": "Nieustanne Obżarstwo",
+      "kr_sha256": "3e5b9337e2bd8aab49fe8653ba7e3c68da006338cd355549ad8114f67aa04283",
+      "en_sha256": "27391cd4125920a364b5611b8bfad902a3c9187b96f90dc5647f89fe51dff87d",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971d].desc": {
+      "pl": "Przy zdobyciu Oddechu zyskuje dodatkowo 3 Oddechu lub +2 Licznika Oddechu",
+      "kr_sha256": "3969df3c3c644aa38599a5fb96383d810373d45db6126c1fce155793e1d45323",
+      "en_sha256": "2cfdbecf00d53e15f93e3e5f6a8d8cd60797927d588ca34879fef8b6b4a25935",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971d].name": {
+      "pl": "Dyszący Oddech",
+      "kr_sha256": "d60cc08432dcc41b719299f9a3b85a5ce8f97d50cc0383a13363699aaffbcfde",
+      "en_sha256": "a781c5c6dcee2a256bf841effc4119b56617ba8926ba6f88cee5ea65fa9e9f65",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971e].desc": {
+      "pl": "Przy trafieniu nakłada 2 dodatkowe Krwawienia lub zwiększa Licznik Krwawienia o +1",
+      "kr_sha256": "0ee4d4c5a958cea0bb7f84b3801524b3a14b9b0274ec2aca4728d46ea5111d84",
+      "en_sha256": "2ae038dde113028e5fa51b221239cb674dfe7a399ffdfd160d69a43d9bcf0111",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971e].name": {
+      "pl": "Rana w Ranę",
+      "kr_sha256": "04c8431f8abc44a934446086e12d276106c12fecac54399a9afd954251d06835",
+      "en_sha256": "0397ba11bf36e305539d02ff4dc164c693229cd5d403ad929a315b9be3b53718",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971f].desc": {
+      "pl": "Na koniec tury maleje o 1.\nPrzy 0 — niepowodzenie Warunku Dodatkowego.",
+      "kr_sha256": "97b33f88261a7a3b0cc29d89ec6b279549713a51dafb0da7b2cd8a1a0d38dac9",
+      "en_sha256": "ff17e34086adc4dc5ed07e55adaa46571cd4becf139a934da3e1a27ac6d46978",
+      "origin": "ai"
+    },
+    "dataList[id=A1c971f].name": {
+      "pl": "Leniwe Lenistwo",
+      "kr_sha256": "8b88e5238000f56de7e539a48fbba5c3ed76b69c6252e3a18002c0f0f5a6c027",
+      "en_sha256": "0e397b360ec35ea57344370418c3463a5e4fb3667b5422ca4c58849810d51756",
+      "origin": "ai"
+    }
+  }
+}

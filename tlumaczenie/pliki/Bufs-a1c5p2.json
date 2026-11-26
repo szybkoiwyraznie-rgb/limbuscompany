@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=AaCePbBa].desc": {
+      "pl": "Wydajność utraty Poczytalności +2.\nPosiadając ten efekt, przy Poczytalności -45 lub niższej zyskuje w następnej turze Panikę Szumu.\nNa koniec tury traci 1 ładunek",
+      "kr_sha256": "e6e183a2ab488dbd38b0390fc865c86dce24cc404436167a693b7117bab51163",
+      "en_sha256": "067aa3275e19b5d5852961c435e5fa7d8ffa95ae9e8bdee47e1943b8f707097b",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBa].name": {
+      "pl": "Blady Szum",
+      "kr_sha256": "362c84ca212b02df7ffc8006fa733850f78b855b68e64acf67ce5558eed49973",
+      "en_sha256": "e891991c61fadeedba47f3e2b3d74c22ecf412c679400a2cb0ef1c332b60fff6",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBa].summary": {
+      "pl": "Wydajność utraty Poczytalności +2",
+      "kr_sha256": "e0833352b7ad80b4b9af751d329068f5e7da89b418d6a2df92e91a54e4bfa232",
+      "en_sha256": "9b1e3ca487cc40f5ffd5471ee2fedda4756b661a519bd23fa81ca00a00dd2fd4",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBb].desc": {
+      "pl": "Wszystkie Monety tej jednostki zawsze wypadają jako Rewers.\nZnika w następnej turze",
+      "kr_sha256": "d8ac493ec7afd749dfd30e49f0b640546427c113c1619b0d0c5faf73e417d1f5",
+      "en_sha256": "eb17f460587507eb98c0d6bde77c490c7102a7477780665155f7655a0cb05da4",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBb].name": {
+      "pl": "Panika Szumu",
+      "kr_sha256": "f0d5e113825650bc283e1c41cbea5c1310b8ed13fb5cbfa511b49491a522865d",
+      "en_sha256": "3b0061daced830cf868767a2096efb7002af5fc1cab2d19a474b8739780f8751",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBb].summary": {
+      "pl": "Wszystkie Monety wypadają jako Rewers",
+      "kr_sha256": "4cdd76399bcb639b5306692b4c08f913f4be21715842f7ad031b83f0c7e1e7fa",
+      "en_sha256": "825e7d7ef5644d42909ce8ebe3e54eb394fd5a1b4d232765e0a3614c09873a5e",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBc].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 1 Wrażliwości. Po przegranej w Starciu cel traci 2 Poczytalności",
+      "kr_sha256": "3a75e699f2d91fe185ffb3f84f5feb3eb736a319ede3e3a97f6be1aa662e4ca6",
+      "en_sha256": "e137625acc8b331ec0a8715b83ddbd1b22b2e6926cd18c3cdb0e5d171cc03784",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBc].name": {
+      "pl": "Nieczystość",
+      "kr_sha256": "24569a0817e4befdac9dd440f317730d9ccc57644761cd18e940e9c54fd16d23",
+      "en_sha256": "60e9044312bb8e8274ec7ea259cd7606cbfb1ae3ec8120cff675d3de962a6eb4",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBc].summary": {
+      "pl": "Po przegranej w Starciu cel traci 2 Poczytalności",
+      "kr_sha256": "b0a84d2cebc4ad6856e29e54645deeecc855b36b51aafcec178dd456f0dcfb49",
+      "en_sha256": "23c327b5f0f5ace4577b8fbbcbd074bec3bd5faada58042fb6e7a80ef38d80be",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBd].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wrażliwości. Po przegranej w Starciu cel traci 5 Poczytalności",
+      "kr_sha256": "4c104174b24c023873e9c5a91864c947b24be745052d1aff2f69f0d915429d9e",
+      "en_sha256": "c686fe006bed76f96f3f20aac1b3553988f67875f0bb2aace48d28788cd40291",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBd].name": {
+      "pl": "Nieczystość",
+      "kr_sha256": "24569a0817e4befdac9dd440f317730d9ccc57644761cd18e940e9c54fd16d23",
+      "en_sha256": "60e9044312bb8e8274ec7ea259cd7606cbfb1ae3ec8120cff675d3de962a6eb4",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBd].summary": {
+      "pl": "Po przegranej w Starciu cel traci 5 Poczytalności",
+      "kr_sha256": "f5c46a23387be3631d96d6d050c744a606e8a54b961bef9d0b84832583f32741",
+      "en_sha256": "59ed720cc550fdd588e0e546c0c54a47853150160fa6b75b27650fce41392e2d",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBe].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wzrostu Mocy Ataku i 3 Spadku Poziomu Obrony, a Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze (1 Wzrost Obrażeń za każde 3% Maks. HP utraconego)",
+      "kr_sha256": "34b14ab38e8d793152be347bf4265af7223c8db9cf9e4f1777311f82292c9b7b",
+      "en_sha256": "b0e918fa78a8deeab2bbd1cd8c47edf81005ab5e4e675afdd0fac16623b1c215",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBe].name": {
+      "pl": "Zemsta",
+      "kr_sha256": "808288a75656d34867bdc260e5f3b8bfc53074f46dd0cfaea6ed5c01481ebc55",
+      "en_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBe].summary": {
+      "pl": "Zyskuje Wzrost Obrażeń zależnie od łącznych obrażeń otrzymanych w poprzedniej turze.",
+      "kr_sha256": "a32eb87add0d2bec455772c1eeb0e0bab21ef417355f1c65272fe4027badcd78",
+      "en_sha256": "e8cb0c0078d366619d63af88a82a12adfacd8088878949d13beed523c416c0a3",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBf].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wzrostu Mocy Ataku i 6 Spadku Poziomu Obrony, a Wzrost Obrażeń zależnie od obrażeń otrzymanych w poprzedniej turze\n(1 Wzrost Obrażeń za każde 3% Maks. HP utraconego)",
+      "kr_sha256": "8646ad2cdc28744380f463d0e9fd899dd3ec9fde98009c6c426aa00c84b7fd25",
+      "en_sha256": "e07744844f1287f66958bc425c578a590270e0635a0ac93d004d1d45bbbe4a03",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBf].name": {
+      "pl": "Zemsta",
+      "kr_sha256": "808288a75656d34867bdc260e5f3b8bfc53074f46dd0cfaea6ed5c01481ebc55",
+      "en_sha256": "f67321dac096b3ad1e49b55231663e26f3f9d96efafe79d75719a6eb72fc5caa",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBf].summary": {
+      "pl": "Zyskuje Wzrost Obrażeń zależnie od łącznych obrażeń otrzymanych w poprzedniej turze.",
+      "kr_sha256": "a32eb87add0d2bec455772c1eeb0e0bab21ef417355f1c65272fe4027badcd78",
+      "en_sha256": "e8cb0c0078d366619d63af88a82a12adfacd8088878949d13beed523c416c0a3",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBi].desc": {
+      "pl": "Na koniec tury traci 1 ładunek\nDopóki aktywny jest ten efekt, obrażenia od Umiejętności oraz obniżenie Progu Oszołomienia z Wyładowania Wstrząsu są potrajane.\nJeżeli przy znikaniu tego efektu jednostka nie jest oszołomiona, na początku następnej tury zyskuje 5 Wzrostu Obrażeń",
+      "kr_sha256": "f84d71fbaa0503ed9cb1f33e0cbdae3ca4803e90f1c6dbbbbcfd3eaddc52f06f",
+      "en_sha256": "5ba313a07884402d2568d8ab4c60af94e1390b32f21701d502e176089d94f4cd",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePbBi].name": {
+      "pl": "Test Starszego Brata",
+      "kr_sha256": "bff3b29d8619763c01f84a938d3e5e695bc9a26d4070cede5f3502ae6e27d04d",
+      "en_sha256": "1ca3b7379e8868690be242bec0f4325c87b4d59364f86a9076c2e4ee24a2a816",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "entries": {
+    "dataList[id=BloodyHand].desc": {
+      "pl": "- Maks. wartości: 10\n- Wartość bazowa: 0\n- Przy 10 stosach Umiejętności tej jednostki nakładają przy trafieniu dodatkowe 1 Rozdarcia",
+      "kr_sha256": "f5bb6f194ec326aed40d844d97b1fbada541409696b3c01ea5f6091d3005dd5c",
+      "en_sha256": "041304616358b23eaa9eb5282568d03c6dfb7872cf33bc3b061a55a434b7c053",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyHand].name": {
+      "pl": "Zakrwawiona Dłoń",
+      "kr_sha256": "952a1b29dba155ef94a3492437f03e583f57ecd905cf04ed519b40e6fc5a3d9d",
+      "en_sha256": "0e50eb6e2cc106e9e3e1e53de70ef24c5fa4394bf862cddab0aee94c740251c0",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns].desc": {
+      "pl": "- Maks. wartości: 10\n- Gdy otrzymuje obrażenia od Umiejętności, nakłada na atakującego Krwawienie równe połowie stosów (zaokrąglone w górę)",
+      "kr_sha256": "15fe0fd33ab052c68243de6a9a79c262b6fb545529f8084aae26495b2ba34d92",
+      "en_sha256": "abf4f7ccee2ae7218e441cbd91d4a3a4ac1eb82d6f02e23c8022a49d0df2c2ac",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns].name": {
+      "pl": "Kwitnące Ciernie",
+      "kr_sha256": "92c2df632f22956a1ddb9811b69f851d147971f4277cb7b90bd0030ac22e3837",
+      "en_sha256": "6081b407f458977b320eaac17b1cfbf871f352c34baca46df35499a7d901abcf",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns].summary": {
+      "pl": "Nakłada na atakującego Krwawienie równe stosom",
+      "kr_sha256": "8345210b8396b61eccca8fbcaa374a12a8b3f9f675a4c3091cfb62e4f46be5db",
+      "en_sha256": "2b57664ded875e44467e54b9a85704f3363cd8250127737710b0bc552fddc4c5",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns_2nd].desc": {
+      "pl": "- Efekty zdobywające Kwitnący Cierń zdobywają zamiast tego ten efekt\n- Maks. wartości: 10\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każde 3 stosy (maks. 3)\n- Gdy otrzymuje obrażenia od Umiejętności, nakłada na atakującego Krwawienie równe stosom i traci 1 stos (zaokrąglone w górę)\n- Umiejętności tej jednostki nakładają przy trafieniu o 1 więcej Siły Krwawienia i Licznika Krwawienia\n- Gdy sojusznik (poza sobą) nakłada Monetą Umiejętności Wzrost Poziomu Ataku lub Wzrost Poziomu Obrony, nakłada dodatkowo 1 Wzrost Mocy Starcia na następną turę\n- Umiejętności zużywające Krwawą Ucztę zyskują Moc Monety +1",
+      "kr_sha256": "b9a8c7557aa8155eb4c9332d89166d64409717f6212b87a48ddc08216cba0231",
+      "en_sha256": "62bc545b034d10b76c5352a492b4314ba3bfb5d187181540918d32be555897ef",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns_2nd].name": {
+      "pl": "Krwawo Utkany Cierń",
+      "kr_sha256": "bf0778d302e1a9be38b6694b74bc624c3a6b9a0cdfb5e8731185e03b911dc771",
+      "en_sha256": "00ef4c19f08a29d8dde9d19afee87a7f4d03b8b9ed92dbdf65dc071f30809f26",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns_2nd].summary": {
+      "pl": "Nakłada na atakującego Krwawienie równe stosom\nNakłada o 1 więcej Siły Krwawienia i Licznika Krwawienia\nSojusznikom nakłada 1 Wzrost Mocy Starcia\nJeżeli Umiejętność zużywa Krwawą Ucztę, Moc Monety +1",
+      "kr_sha256": "a2f251580af3a666bf00e14ece2ca03f4ee6f63384a4d1587473b508d604fa76",
+      "en_sha256": "a4a940253fd738100c898336a327fb84c416ffa03137d9ec1c09f2e86a6afb27",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns_3rd].desc": {
+      "pl": "- Efekty zdobywające Kwitnący Cierń zdobywają zamiast tego ten efekt\n- Maks. wartości: 10\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każde 2 stosy (maks. 5)\n- Gdy otrzymuje obrażenia od Umiejętności, nakłada na atakującego Krwawienie równe stosom i traci 1 stos (zaokrąglone w górę)\n- Umiejętności tej jednostki nakładają przy trafieniu o 2 więcej Siły Krwawienia i Licznika Krwawienia\n- Gdy sojusznik (poza sobą) nakłada Monetą Umiejętności Wzrost Poziomu Ataku lub Wzrost Poziomu Obrony, nakłada dodatkowo 2 Wzrostu Mocy Starcia na następną turę\n- Umiejętności zużywające Krwawą Ucztę zyskują Moc Monety +2 i zadają +50% obrażeń\n- Przy użyciu Umiejętności „Parada powtarza się wiecznie” zamiast leczyć HP, leczy tę samą liczbę Poczytalności",
+      "kr_sha256": "8882b3d008127c4534f4238121bceb4460ca639770d32cac076ab8efbb38f2f8",
+      "en_sha256": "8b8bebe37e487101e025e04ed4fc34bf9cb387074eaaadf267677509b5f023f2",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns_3rd].name": {
+      "pl": "Ulepiony z Krwi Cierń",
+      "kr_sha256": "99d2ba00ad8afd8a95050c7d499595fde62e178ce99b7504f7650d2def49dd5e",
+      "en_sha256": "b7bc8b807a56ab9a2ff085b3096d9ed23472456d90457255f6447d18019649bb",
+      "origin": "ai"
+    },
+    "dataList[id=BloomingThorns_3rd].summary": {
+      "pl": "Nakłada na atakującego Krwawienie równe stosom\nNakłada o 2 więcej Siły Krwawienia i Licznika Krwawienia\nSojusznikom nakłada 2 Wzrostu Mocy Starcia\nJeżeli Umiejętność zużywa Krwawą Ucztę, Moc Monety +2 i +50% obrażeń",
+      "kr_sha256": "28129fcbd0d7a3693538892e43792478d0c0198c8bf5c06d322ca2dc24f521c6",
+      "en_sha256": "8747c6a265bc6e8e0ababcb7627b420b128b44f2e98143300dae7d6e777ebba5",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodDolci_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wzrost Mocy Ataku i 3 Spadek Poziomu Obrony\n- Na koniec tury otrzymuje 5 obrażeń Poczytalności",
+      "kr_sha256": "c50858475e9f1e8d1927b7071b2fb04128f79ed78573455f0cd849c24da22e35",
+      "en_sha256": "4fa0601d27551a00720fe25c3b6f0be1a89c2986cf0340530eb66c951386784b",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodDolci_LowMorale].name": {
+      "pl": "Ogłowie Nicości",
+      "kr_sha256": "511ca7ec3547d0a42b6a3ec446d27201571e92c8d426a3e4ad849be6bd12ece7",
+      "en_sha256": "fee26c5a8da35f05fe5e23a6fee49ae797d53af3fcfd810b21e1cba716c94a6b",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodDolci_LowMorale].summary": {
+      "pl": "Zyskuje 1 Wzrost Mocy Ataku i 3 Spadek Poziomu Obrony",
+      "kr_sha256": "0ba2331361575b3dd8d83a07d735ffdfd7d08220faac8df3d5af84c78d56cc99",
+      "en_sha256": "5b7201a1b257f8e2d890c136c420e854386406549383261d6acc8ee45b7bf0f4",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodDolci_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wzrostu Mocy Ataku i 6 Spadek Poziomu Obrony\n- Na koniec tury +10 Poczytalności",
+      "kr_sha256": "8f7925338438347400f070f80416bc996ecd4f648ff5773148c6c03540fcb8b1",
+      "en_sha256": "902642d9e73b56fc9a60c58f2af988ab89f10bf3d390e5185c33ae437afea54c",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodDolci_Panic].name": {
+      "pl": "Ogłowie Nicości",
+      "kr_sha256": "511ca7ec3547d0a42b6a3ec446d27201571e92c8d426a3e4ad849be6bd12ece7",
+      "en_sha256": "fee26c5a8da35f05fe5e23a6fee49ae797d53af3fcfd810b21e1cba716c94a6b",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodDolci_Panic].summary": {
+      "pl": "Zyskuje 2 Wzrostu Mocy Ataku i 6 Spadek Poziomu Obrony",
+      "kr_sha256": "acfcc1ba9af8a75df6855a2f2b126ddc1ca5ec8e51186f3d5b7670a130cc0d33",
+      "en_sha256": "01e9c9f6082e50d7e018694ebffcf8feeab5c0ab13bed505aadc623da192282f",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodPriestServant_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wzrost Mocy Starcia i 3 Spadek Poziomu Obrony\n- Na koniec tury 5 obrażeń Poczytalności",
+      "kr_sha256": "e85234d80ab6e1bdc2a75924fbb9c63d470ed725203d376549332347892e3d60",
+      "en_sha256": "d4804f9256136269f36adc6905dcdc5d866fb7a8fffbdfc7ed413268fd631a2a",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodPriestServant_LowMorale].name": {
+      "pl": "Głód",
+      "kr_sha256": "4f9f3eacedd1b2b17639e1d391d75eeb3e53f2da96edace850de67f39e7f8f3b",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodPriestServant_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wzrostu Mocy Starcia i 6 Spadek Poziomu Obrony\n- Na koniec tury +10 Poczytalności",
+      "kr_sha256": "70a503098eeb7a13016f16e139f9243a803c074c0ab1280a46c229b4978fe430",
+      "en_sha256": "02b93d23e8846e6f278432c1aa5b66b88216840f3c6fd0752cfdf94ce3d6ff35",
+      "origin": "ai"
+    },
+    "dataList[id=FamineBloodPriestServant_Panic].name": {
+      "pl": "Głód",
+      "kr_sha256": "4f9f3eacedd1b2b17639e1d391d75eeb3e53f2da96edace850de67f39e7f8f3b",
+      "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "origin": "ai"
+    },
+    "dataList[id=FestivalFever].desc": {
+      "pl": "- Maks.: 10\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każde 3 stosy (maks. 3)\n- Służy Umiejętnościom specjalnym",
+      "kr_sha256": "ff06dd0e4ba91910b348bcf21fc0dbdd9ed87d92d96ec66b71c5b12f9250ba07",
+      "en_sha256": "faffbffbdcba614cc2e0f39426ab92db718499c1fa03e023293e0ed6c1a5010d",
+      "origin": "ai"
+    },
+    "dataList[id=FestivalFever].name": {
+      "pl": "Gorączka Święta",
+      "kr_sha256": "1d0c13f8cce65ae385af2b1d6dae0dc75b9aed7431dee8df45f65285907d2b9d",
+      "en_sha256": "1200466551c3b46cf8eee21f66c9e7f2ae4b635907a8b35574ba3a5bfb5c0588",
+      "origin": "ai"
+    },
+    "dataList[id=HonorableDuel_Don].desc": {
+      "pl": "Przygodowa opowieść z pamięci\nStatystyki rosną drastycznie",
+      "kr_sha256": "a5809dc882e7b3fa7576402dc2d05ab12d3fa5ba4c3c16f3cc54f885b68d21d4",
+      "en_sha256": "b09e2c93cd8aa31a945209616288de9ef4b659e17d4fcd53b46fc2f2a364678e",
+      "origin": "ai"
+    },
+    "dataList[id=HonorableDuel_Don].name": {
+      "pl": "Honorowy Pojedynek",
+      "kr_sha256": "f70c21d414edfbeaf861a3d6457dc756f67658dc0edea80976ec37d943201456",
+      "en_sha256": "13044a0c115bcd3d93990df75b47565ecf987f8fb9d261ab7ebc50e080e7bb69",
+      "origin": "ai"
+    },
+    "dataList[id=HonorableDuel_Knight].desc": {
+      "pl": "Przygodowe opowieści z pamięci",
+      "kr_sha256": "a61dbb2ce13018a097b2263eca90d1e61a59a779e7ac312c2a62ee4d5d897ec4",
+      "en_sha256": "ea5f86a98c8e0be618b101e0a4e92404c5a99968659fd4035d1f882a736f0a46",
+      "origin": "ai"
+    },
+    "dataList[id=HonorableDuel_Knight].name": {
+      "pl": "Honorowy Pojedynek",
+      "kr_sha256": "f70c21d414edfbeaf861a3d6457dc756f67658dc0edea80976ec37d943201456",
+      "en_sha256": "13044a0c115bcd3d93990df75b47565ecf987f8fb9d261ab7ebc50e080e7bb69",
+      "origin": "ai"
+    },
+    "dataList[id=IncompleteParade].desc": {
+      "pl": "- Maks. wartości: 50\n- Zyskuje 2, gdy ginie Worek Krwi\n- Zyskuje 3, gdy ginie Krwiożerca\n- Na początku tury za każde skumulowane zużycie 5 wartości zyskuje 1 Wrażliwości\n- Skumulowane zużycie: {0}",
+      "kr_sha256": "00a40b96dcd953cf4cca89c7615e1b819d047915dad80a5afcd5ceeeaff83a09",
+      "en_sha256": "0e6127c82a3242ec9416c05ba3d1f46a6ea4f24eb37a2cb50d82024dd70d05bb",
+      "origin": "ai"
+    },
+    "dataList[id=IncompleteParade].name": {
+      "pl": "Niedoskonała Parada",
+      "kr_sha256": "a3b3570b652df223abd9fbc2ab35906ab392e61bc8487c91b6aa54d04af12630",
+      "en_sha256": "16218d81c6c82cf827d64bebb2b1d424043aac2b593b40151a701b68c0bf1af2",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingDolcineaOne].desc": {
+      "pl": "- Przez długi, długi czas nie mogła wypić krwi.\n- Podstawowy Poziom Ataku -35\n- Podstawowy Poziom Obrony -35",
+      "kr_sha256": "b7f144920df67cd9ef17790c065291eb767d54689d37282872b1399d6f00e9c0",
+      "en_sha256": "520c63b63de9079b52a204cfdbc49c16efec55d94d2682848050b9c249f810ac",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingDolcineaOne].name": {
+      "pl": "Zwiędnięcie",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingDolcineaServant].desc": {
+      "pl": "- Przez długi, długi czas nie mógł wypić krwi.\n- Podstawowy Poziom Ataku -15\n- Podstawowy Poziom Obrony -15",
+      "kr_sha256": "dbb44cd742edcfb4bb814022d844d8412e3f267e5d4a3bab3b2936c6c0261390",
+      "en_sha256": "25042da69707ec0c993c67c118171cf7915eff4e8111d7aae1b2cdce163626a2",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingDolcineaServant].name": {
+      "pl": "Zwiędnięcie",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingPriestOne].desc": {
+      "pl": "- Przez długi, długi czas nie mógł wypić krwi.\n- Podstawowy Poziom Ataku -15\n- Podstawowy Poziom Obrony -15",
+      "kr_sha256": "dbb44cd742edcfb4bb814022d844d8412e3f267e5d4a3bab3b2936c6c0261390",
+      "en_sha256": "25042da69707ec0c993c67c118171cf7915eff4e8111d7aae1b2cdce163626a2",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingPriestOne].name": {
+      "pl": "Zwiędnięcie",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=ThornyFall_LowMorale].desc": {
+      "pl": "Po wygranym Starciu zyskuje 1 Wzrost Obrażeń",
+      "kr_sha256": "127e3b05981fb9fe274d5d8d63fb76d69665e97207fd60f2ef52217449561c2a",
+      "en_sha256": "8613fc02f673ebdbf68992e68071277d29a3ff787c0c978d572abc755bb0ad91",
+      "origin": "ai"
+    },
+    "dataList[id=ThornyFall_LowMorale].name": {
+      "pl": "Ciernie",
+      "kr_sha256": "7b77e80a2b3ffa41b6413be74ffdfff2762bd6e4ef092ddc3212eb92109e4593",
+      "en_sha256": "d20c5a45f3025088460d38e73c274a5fd9f4f827c9638a3a19df97edd875790c",
+      "origin": "ai"
+    },
+    "dataList[id=ThornyFall_LowMorale].summary": {
+      "pl": "Po wygranym Starciu zyskuje 1 Wzrost Obrażeń",
+      "kr_sha256": "127e3b05981fb9fe274d5d8d63fb76d69665e97207fd60f2ef52217449561c2a",
+      "en_sha256": "8613fc02f673ebdbf68992e68071277d29a3ff787c0c978d572abc755bb0ad91",
+      "origin": "ai"
+    },
+    "dataList[id=ThornyFall_Panic].desc": {
+      "pl": "Po wygranym Starciu zyskuje 1 Wzrost Obrażeń\nNa koniec tury zyskuje 2 Wzrostu Mocy Starcia w następnej turze.",
+      "kr_sha256": "0322fcc818ed949f4afec0542992552f800edb6d812d597573f821e2bae5e6d6",
+      "en_sha256": "542bd8b04e91f1320e8719f44b8f6e5e4f941a59d2afb549b953d235c4fd7730",
+      "origin": "ai"
+    },
+    "dataList[id=ThornyFall_Panic].name": {
+      "pl": "Ciernie",
+      "kr_sha256": "7b77e80a2b3ffa41b6413be74ffdfff2762bd6e4ef092ddc3212eb92109e4593",
+      "en_sha256": "d20c5a45f3025088460d38e73c274a5fd9f4f827c9638a3a19df97edd875790c",
+      "origin": "ai"
+    },
+    "dataList[id=ThornyFall_Panic].summary": {
+      "pl": "Po wygranym Starciu zyskuje 1 Wzrost Obrażeń",
+      "kr_sha256": "127e3b05981fb9fe274d5d8d63fb76d69665e97207fd60f2ef52217449561c2a",
+      "en_sha256": "8613fc02f673ebdbf68992e68071277d29a3ff787c0c978d572abc755bb0ad91",
+      "origin": "ai"
+    },
+    "dataList[id=UnstoppableFunny].desc": {
+      "pl": "Po śmierci\n- Zyskuje po 1 Zasobie E.G.O dla 3 najmniej posiadanych Zasobów E.G.O\n- Nakłada +3 Licznika Krwawienia na wroga (priorytet: jednostka, która ją zabiła)\n- Wszyscy sojusznicy z 5 lub więcej Gorączki Świętej zyskują w następnej turze 1 Pośpiech\n- Wszyscy sojusznicy bez Gorączki Świętej zyskują 1 Wzrost Mocy Starcia",
+      "kr_sha256": "0266a239c4ef0edd5d35a4f9905acd12a20854dd2b14830a8a502cfe2dbe167b",
+      "en_sha256": "a76227d709519bde3100d40e288128cf303ce51ce47b7e2eaaa2087031617a97",
+      "origin": "ai"
+    },
+    "dataList[id=UnstoppableFunny].name": {
+      "pl": "Niepowstrzymana Rozkosz",
+      "kr_sha256": "655d229fb8f08b4f5346dba943d112061e072011c196d347b60d24b476e7ca3f",
+      "en_sha256": "d6bf3e9d85263f56cc1eda51e83ff13a457cda073e08f84f777da027ae29d720",
+      "origin": "ai"
+    },
+    "dataList[id=UnstoppableFunny].summary": {
+      "pl": "Zyskuje po 1 z 3 Zasobów E.G.O\nNakłada +3 Licznika Krwawienia",
+      "kr_sha256": "401acbc786e8ca9b671b0cb46a0cc8facece8717ed6f6390a2a2bf2fd1881c0c",
+      "en_sha256": "60f0fd6ea7909f6037686cf1b3dce894234d324c68748de7f22b250960701836",
+      "origin": "ai"
+    }
+  }
+}
