@@ -1,22 +1,26 @@
 #!/usr/bin/env python3
 """Audit Localize differences between two Limbus Company builds and emit delta packages.
 
-Compares an older ``Localize`` snapshot (``index/localize`` or an earlier
-``LCB_DANE_*.zip``) against a newer snapshot (a fresh ``LCB_DANE_*.zip`` or
-updated ``index/localize``) using stable identifier-based JSON addresses from
-``tools/localize.py``:
+Compares an older ``Localize`` snapshot (``index/localize``, a git revision via
+``--old-rev``, or an earlier ``LCB_DANE_*.zip``) against a newer snapshot (an
+updated ``index/localize`` or a fresh ``LCB_DANE_*.zip``) using stable
+identifier-based JSON addresses from ``tools/localize.py``:
 
 * counts added, removed, modified, and unchanged logical files and translatable
   leaves in ``kr`` (translation source) and ``en`` (reference);
 * checks existing Polish translations in ``tlumaczenie/`` to report preserved
   entries, stale entries (``kr`` text changed since translation), and orphaned
   addresses (file or row removed in the new build);
-* optionally emits a deterministic supplementary translator package
-  (``--delta-out``) containing ``AUDYT_AKTUALIZACJI.md`` plus filtered
-  ``sceny.zip`` and ``widoki.zip`` covering 100% of new, changed, and stale
-  items (including any brand-new ``StoryData/*.json`` scenes not yet listed in
-  ``wiedza/indeks_fabuly.json``), while pre-filling unchanged ``PL:`` lines in
-  impacted files as Polish context.
+* optionally emits a deterministic delta translator package (``--delta-out``) in
+  one of two scopes (``--delta-scope``):
+  - ``files`` (default): context-preserving file mode
+    (``pakiet_uzupelniajacy_<old>_do_<new>.zip``) containing all impacted files
+    with valid existing ``PL:`` lines pre-filled;
+  - ``items``: strict incremental mode
+    (``pakiet_przyrostowy_<old>_do_<new>.zip``) containing **only** new,
+    modified, or stale story scenes, story glossary entries, and view items —
+    so updates after ``plik_dla_tlumacza_v2.zip`` never re-send unchanged game
+    text.
 
 Stdout and JSON reports contain aggregate counts, build IDs, logical paths, and
 structural addresses only — never game prose (``docs/DATA_POLICY.md``).
@@ -24,18 +28,23 @@ structural addresses only — never game prose (``docs/DATA_POLICY.md``).
 from __future__ import annotations
 
 import argparse
+import contextlib
 from dataclasses import dataclass
 import hashlib
+import io
 import json
 from pathlib import Path, PurePosixPath
 import re
+import subprocess
 import sys
+import tempfile
+from typing import Iterator
 import zipfile
 
 if __package__ in (None, ""):
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from tools.build_package import Story, build, pack_zip_bytes, write_zip
+from tools.build_package import Glossary, Story, build, pack_zip_bytes, write_zip
 from tools.import_zwrotki import (
     LocalizeReference,
     PL_LINE_RE,
@@ -51,6 +60,7 @@ from tools.import_zwrotki import (
 from tools.localize import Snapshot, field_name, iter_strings, load_json
 from tools.package_views import NON_TRANSLATABLE_FIELDS, build_views, encode_view_text
 from tools.static_data import StaticData
+from tools.story_index import IDENTITY_STEM_RE
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -88,6 +98,19 @@ class LangDiff:
         }
 
 
+@contextlib.contextmanager
+def checkout_git_localize(rev: str, repo_root: Path = ROOT) -> Iterator[Path]:
+    """Extract ``index/localize`` and ``index/MANIFEST.json`` from ``rev`` into a temp directory."""
+    raw = subprocess.check_output(
+        ["git", "-C", str(repo_root), "archive", "--format=zip", rev, "index/localize", "index/MANIFEST.json"]
+    )
+    with tempfile.TemporaryDirectory(prefix="lcb_old_rev_") as tmp_dir:
+        tmp_path = Path(tmp_dir)
+        with zipfile.ZipFile(io.BytesIO(raw)) as zf:
+            zf.extractall(tmp_path)
+        yield tmp_path / "index" / "localize"
+
+
 def detect_buildid(source: Path) -> str:
     """Read Steam ``buildid`` from a collector ZIP (``RAPORT.json``) or ``MANIFEST.json``."""
     if source.is_file():
@@ -113,6 +136,18 @@ def detect_buildid(source: Path) -> str:
             except (OSError, UnicodeError, json.JSONDecodeError):
                 pass
     return "unknown"
+
+
+def detect_manifest_hashes(source: Path) -> tuple[str | None, str | None]:
+    for candidate in (source / "MANIFEST.json", source.parent / "MANIFEST.json"):
+        if candidate.is_file():
+            try:
+                meta = json.loads(candidate.read_text(encoding="utf-8"))
+                _, _, kr_sha, en_sha = parse_index_manifest(meta)
+                return kr_sha, en_sha
+            except (OSError, UnicodeError, json.JSONDecodeError):
+                pass
+    return None, None
 
 
 def _translatable_leaves(snapshot: Snapshot, lang: str, logical_file: str) -> dict[str, str]:
@@ -206,15 +241,31 @@ def audit_snapshots(
     tlumaczenie_dir: Path = ROOT / "tlumaczenie",
 ) -> tuple[dict[str, object], set[str], set[str]]:
     """Compare ``old_source`` and ``new_source`` and return ``(report, impacted_story, impacted_views)``."""
+    report, impacted_story, impacted_views, _ = _audit_snapshots_detailed(old_source, new_source, tlumaczenie_dir)
+    return report, impacted_story, impacted_views
+
+
+def _audit_snapshots_detailed(
+    old_source: Path,
+    new_source: Path,
+    tlumaczenie_dir: Path = ROOT / "tlumaczenie",
+) -> tuple[dict[str, object], set[str], set[str], set[tuple[str, str]]]:
     old_build = detect_buildid(old_source)
     new_build = detect_buildid(new_source)
     store = TranslationStore.load(tlumaczenie_dir)
+
+    impacted_view_addrs: set[tuple[str, str]] = set()
 
     with Snapshot.open(old_source) as old_snap, Snapshot.open(new_source) as new_snap:
         kr_diff, kr_impacted = _diff_language(old_snap, new_snap, "kr")
         en_diff, en_impacted = _diff_language(old_snap, new_snap, "en")
 
         impacted_all = set(kr_impacted) | set(en_impacted)
+        for imp_map in (kr_impacted, en_impacted):
+            for lf, addrs in imp_map.items():
+                if not lf.startswith("StoryData/"):
+                    for a in addrs:
+                        impacted_view_addrs.add((lf, a))
 
         preserved = 0
         stale_entries: list[str] = []
@@ -253,6 +304,8 @@ def audit_snapshots(
                 if expected_sha and cur_kr and sha256_text(cur_kr) != expected_sha:
                     stale_entries.append(f"{lf} :: {addr}")
                     impacted_all.add(lf)
+                    if not lf.startswith("StoryData/"):
+                        impacted_view_addrs.add((lf, addr))
                 else:
                     preserved += 1
 
@@ -268,6 +321,7 @@ def audit_snapshots(
             "total": len(impacted_all),
             "story_scenes": len(impacted_story),
             "view_files": len(impacted_views),
+            "view_leaf_addresses": len(impacted_view_addrs),
             "story_paths": sorted(impacted_story),
             "view_paths": sorted(impacted_views),
         },
@@ -279,7 +333,7 @@ def audit_snapshots(
             "orphaned_addresses": orphaned_entries,
         },
     }
-    return report, impacted_story, impacted_views
+    return report, impacted_story, impacted_views, impacted_view_addrs
 
 
 def _encode_story_pl(pl_raw: str, kr_raw: str, en_raw: str) -> str:
@@ -293,10 +347,7 @@ def _prefill_story_md(
     store: TranslationStore,
     ref: LocalizeReference,
 ) -> tuple[str, int, int]:
-    """Pre-fill valid existing ``PL:`` lines in a story chapter Markdown file.
-
-    Returns ``(updated_md, prefilled_count, remaining_blank_count)``.
-    """
+    """Pre-fill valid existing ``PL:`` lines in a story chapter Markdown file."""
     lines = md_text.splitlines()
     out: list[str] = []
     current_stem = ""
@@ -386,7 +437,7 @@ def _prefill_view_md(
         m_src = SOURCE_LINE_RE.match(line)
         if m_src:
             cur_file = m_src[1].strip()
-            cur_primary_addr = m_src[2].split(" (+", 1)[0].strip()
+            cur_primary_addr = m_src[2].split(" ; ", 1)[0].split(" (+", 1)[0].strip()
             out.append(line)
             continue
 
@@ -415,7 +466,121 @@ def _prefill_view_md(
     return "\n".join(out) + "\n", prefilled, remaining
 
 
-def _format_audit_markdown(report: dict[str, object], delta_stats: dict[str, int]) -> str:
+def _augment_story_index(base_index: dict, snap: Snapshot) -> tuple[dict, list[str]]:
+    """Place any brand-new ``StoryData/*.json`` stems into ``identity`` (by P1xxNN rule) or ``nieprzypisane``."""
+    known_stems: set[str] = set()
+    for ch in base_index.get("rozdzialy", []):
+        known_stems.update(s["plik"] for s in ch.get("sceny", []))
+    for row in base_index.get("identity", []):
+        known_stems.update(row.get("pliki", []))
+    known_stems.update(base_index.get("nieprzypisane", []))
+
+    extra_stems = sorted(
+        PurePosixPath(lf).stem
+        for lf in snap.files.get("kr", {})
+        if lf.startswith("StoryData/") and PurePosixPath(lf).stem not in known_stems
+    )
+    if not extra_stems:
+        return base_index, []
+
+    identities = [dict(r, pliki=list(r.get("pliki", []))) for r in base_index.get("identity", [])]
+    by_pid = {r["identity"]: r for r in identities if isinstance(r.get("identity"), int)}
+    rest = list(base_index.get("nieprzypisane", []))
+
+    for stem in extra_stems:
+        m = IDENTITY_STEM_RE.fullmatch(stem)
+        if m:
+            cid = int(m[1]) - 100
+            pid = int(m[1] + m[2])
+            if pid in by_pid:
+                by_pid[pid].setdefault("pliki", []).append(stem)
+            else:
+                entry = {"postac": cid, "identity": pid, "pliki": [stem], "zrodlo": "regula_nazw"}
+                identities.append(entry)
+                by_pid[pid] = entry
+        else:
+            rest.append(stem)
+
+    identities.sort(key=lambda r: (r.get("postac", 0), r.get("identity", 0)))
+    return {**base_index, "identity": identities, "nieprzypisane": rest}, extra_stems
+
+
+def _render_delta_story_glossary(
+    full_glossary_md: str,
+    delta_keys: set[tuple[str, str]],
+) -> tuple[str, int]:
+    """Filter ``mowcy-i-miejsca.md`` to ``delta_keys`` while keeping full-game field limits."""
+    if not delta_keys:
+        return "", 0
+
+    label_to_kind = {lbl: k for k, lbl in Glossary.KINDS}
+    lines = full_glossary_md.splitlines()
+    out_header = [
+        "# Mówcy, tytuły i miejsca — pakiet przyrostowy — Limbus Company",
+        "",
+        "Wyłącznie **nowe lub zmienione** imiona mówców, tytuły i nazwy miejsc dodane w tej aktualizacji gry.",
+        "Tłumaczysz je **raz tutaj**; w plikach scen są pokazane tylko jako kontekst.",
+        "",
+    ]
+    sections: list[str] = []
+    total_kept = 0
+    cur_kind: str | None = None
+    cur_h2 = ""
+    cur_limit_line = ""
+    sec_items: list[list[str]] = []
+
+    def flush_section() -> None:
+        nonlocal total_kept
+        if cur_h2 and sec_items:
+            sections.extend([cur_h2, ""])
+            if cur_limit_line:
+                sections.extend([cur_limit_line, ""])
+            for idx, item_lines in enumerate(sec_items, 1):
+                rewritten = re.sub(r"^\d+\.", f"{idx}.", item_lines[0], count=1)
+                sections.append(rewritten)
+                sections.extend(item_lines[1:])
+                total_kept += 1
+            sections.append("")
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("## "):
+            flush_section()
+            cur_h2 = line
+            cur_kind = label_to_kind.get(line[3:].strip())
+            cur_limit_line = ""
+            sec_items = []
+            i += 1
+            continue
+        if line.startswith("Limit pola:"):
+            cur_limit_line = line
+            i += 1
+            continue
+        parsed = split_item_head(line)
+        if parsed is not None and cur_kind is not None:
+            _, _, src_key = parsed
+            block = [line]
+            i += 1
+            while i < len(lines) and lines[i].startswith("   "):
+                block.append(lines[i])
+                i += 1
+            if (cur_kind, src_key) in delta_keys:
+                sec_items.append(block)
+            continue
+        i += 1
+    flush_section()
+
+    if total_kept == 0:
+        return "", 0
+    return "\n".join(out_header + sections).rstrip() + "\n", total_kept
+
+
+def _format_audit_markdown(
+    report: dict[str, object],
+    delta_stats: dict[str, int],
+    delta_scope: str = "files",
+) -> str:
     old_b = report["old_buildid"]
     new_b = report["new_buildid"]
     kr = report["kr"]
@@ -428,12 +593,19 @@ def _format_audit_markdown(report: dict[str, object], delta_stats: dict[str, int
     assert isinstance(kr_f, dict) and isinstance(kr_l, dict)
     assert isinstance(en_f, dict) and isinstance(en_l, dict)
 
+    scope_desc = (
+        "Ten **pakiet przyrostowy** zawiera **wyłącznie nowe i zmienione pozycje** względem poprzedniego wydania "
+        "(bez powtarzania niezmienionych tekstów z wcześniejszego pakietu bazowego)."
+        if delta_scope == "items"
+        else "Ten pakiet uzupełniający zawiera **wyłącznie pliki dotknięte aktualizacją gry**. "
+        "Wiersze przetłumaczone wcześniej, których tekst koreański (`KR`) nie uległ zmianie, "
+        "mają już wstępnie wypełnione `PL:` jako kontekst — tłumacz uzupełnia tylko puste pola `PL:`."
+    )
+
     lines = [
         f"# Audyt aktualizacji Limbus Company (`{old_b}` → `{new_b}`)",
         "",
-        "Ten pakiet uzupełniający zawiera **wyłącznie pliki dotknięte aktualizacją gry**.",
-        "Wiersze przetłumaczone wcześniej, których tekst koreański (`KR`) nie uległ zmianie,",
-        "mają już wstępnie wypełnione `PL:` jako kontekst — tłumacz uzupełnia tylko puste pola `PL:`.",
+        scope_desc,
         "",
         "## Zmiany w danych gry (`Localize`)",
         "",
@@ -448,17 +620,51 @@ def _format_audit_markdown(report: dict[str, object], delta_stats: dict[str, int
         f"- Wpisy wymagające rewizji (zmienił się oryginał `KR`): **{tr['stale_kr_changed']}**",
         f"- Osierocone adresy (usunięte w nowym buildzie): **{tr['orphaned_removed']}**",
         "",
-        "## Zawartość pakietu uzupełniającego",
+        "## Zawartość pakietu",
         "",
+        f"- Tryb pakietu: **`{delta_scope}`**",
         f"- Dotknięte sceny fabularne (`StoryData/*.json`): **{imp['story_scenes']}** "
-        f"(plików `.md` w `sceny.zip`: **{delta_stats['story_md_files']}**)",
+        f"(plików `.md` w `sceny.zip`: **{delta_stats['story_md_files']}**, nowych wpisów słownika mówców: **{delta_stats.get('story_glossary_items', 0)}**)",
         f"- Dotknięte pliki widoków/UI/umiejętności: **{imp['view_files']}** "
-        f"(plików `.md` w `widoki.zip`: **{delta_stats['view_md_files']}**)",
+        f"(dotkniętych adresów JSON: **{imp.get('view_leaf_addresses', 0)}**, plików `.md` w `widoki.zip`: **{delta_stats['view_md_files']}**)",
         f"- Puste pola `PL:` do przetłumaczenia w tym pakiecie: **{delta_stats['blank_pl_items']}**",
         f"- Wstępnie wypełnione pola `PL:` (kontekst z wcześniejszych zwrotek): **{delta_stats['prefilled_pl_items']}**",
         "",
     ]
     return "\n".join(lines)
+
+
+def _format_incremental_readme(report: dict[str, object], delta_stats: dict[str, int]) -> str:
+    old_b = report["old_buildid"]
+    new_b = report["new_buildid"]
+    imp = report["impacted_logical_files"]
+    assert isinstance(imp, dict)
+    return "\n".join([
+        f"# Pakiet przyrostowy dla Tłumacza — Limbus Company (`{old_b}` → `{new_b}`)",
+        "",
+        "Ten pakiet zawiera **wyłącznie nowości i poprawki tekstowe** wprowadzone w aktualizacji gry",
+        f"ze Steam `buildid` **`{old_b}`** do **`{new_b}`**.",
+        "",
+        "- **Nie zastępuje** on pełnego pakietu bazowego (`plik_dla_tlumacza_v2.zip`), lecz go **uzupełnia**:",
+        "  niezmienione sceny, karty, słowa kluczowe i napisy UI z poprzedniej wersji nie są tu powtórzone.",
+        "- Sposób pracy jest **identyczny** jak w pakiecie bazowym:",
+        "  1. Rozpakuj `sceny.zip` i/lub `widoki.zip`.",
+        "  2. Wpisuj polski przekład wyłącznie w liniach `   PL: ` (w jednej linii; łamanie wiersza zapisuj jako `\\n`).",
+        "  3. Zostaw puste elementy oznaczone jako `(powtórzenie elementu …)` — tłumaczenie odziedziczy się automatycznie.",
+        "  4. Zachowaj bez zmian tagi techniczne wskazane w `tokeny:` (`[Sinking]`, `<style=\"highlight\">`, `{0}` itp.).",
+        "  5. Odeślij przetłumaczone pliki `.md` lub spakowany `.zip`.",
+        "",
+        "## Co znajduje się w środku",
+        "",
+        f"- `sceny.zip` — **{imp['story_scenes']}** nowych/zmienionych scen fabularnych "
+        f"(`{delta_stats['story_md_files']}` plików `.md`) + **{delta_stats.get('story_glossary_items', 0)}** nowych wpisów w `mowcy-i-miejsca.md`.",
+        f"- `widoki.zip` — elementy z **{imp['view_files']}** nowych/zmienionych plików niefabularnych "
+        f"(`{delta_stats['view_md_files']}` plików `.md` + `spis-widokow.md`).",
+        f"- Łącznie pustych pól `PL:` do przetłumaczenia w całej paczce przyrostowej: **{delta_stats['blank_pl_items']}**.",
+        "- `AUDYT_AKTUALIZACJI.md` — szczegółowe zestawienie liczbowe zmian między wersjami.",
+        "- `MANIFEST.json` — metadane wersji i sumy kontrolne do automatycznego importu zwrotki.",
+        "",
+    ])
 
 
 def build_delta_package(
@@ -470,93 +676,159 @@ def build_delta_package(
     story_index_path: Path = ROOT / "wiedza" / "indeks_fabuly.json",
     static_data_path: Path = ROOT / "index" / "static-data",
     tlumaczenie_dir: Path = ROOT / "tlumaczenie",
+    old_source: Path | None = None,
+    impacted_view_addrs: set[tuple[str, str]] | None = None,
+    delta_scope: str = "files",
+    zip_name: str | None = None,
 ) -> dict[str, object]:
-    """Emit ``pakiet_uzupelniajacy_<old>_do_<new>.zip`` covering 100% of impacted files."""
-    base_index = json.loads(story_index_path.read_text(encoding="utf-8"))
-    known_stems: set[str] = set()
-    for ch in base_index.get("rozdzialy", []):
-        known_stems.update(s["plik"] for s in ch.get("sceny", []))
-    for row in base_index.get("identity", []):
-        known_stems.update(row.get("pliki", []))
-    known_stems.update(base_index.get("nieprzypisane", []))
+    """Emit delta translator ZIP in ``files`` or ``items`` scope."""
+    if delta_scope not in {"files", "items"}:
+        raise ValueError(f"unsupported delta_scope: {delta_scope!r}")
 
+    base_index = json.loads(story_index_path.read_text(encoding="utf-8"))
     store = TranslationStore.load(tlumaczenie_dir)
     static = StaticData(static_data_path) if static_data_path and static_data_path.exists() else None
 
     with Snapshot.open(new_source) as new_snap:
-        # Ensure brand-new StoryData/*.json files not yet in indeks_fabuly.json are never dropped
-        extra_stems = sorted(
-            PurePosixPath(lf).stem
-            for lf in new_snap.files.get("kr", {})
-            if lf.startswith("StoryData/") and PurePosixPath(lf).stem not in known_stems
-        )
-        effective_index = {
-            **base_index,
-            "nieprzypisane": list(base_index.get("nieprzypisane", [])) + extra_stems,
-        }
-
+        effective_index, extra_stems = _augment_story_index(base_index, new_snap)
         ref = LocalizeReference(new_snap, effective_index)
-        full_scenes, _ = build(effective_index, Story(new_snap))
-        full_views, _ = build_views(new_snap, static)
-
         impacted_stems = {PurePosixPath(lf).stem for lf in impacted_story}
 
-        filtered_scenes: dict[str, str] = {}
         prefilled_total = 0
         blank_total = 0
         story_content_mds = 0
+        story_glossary_items = 0
+        filtered_scenes: dict[str, str] = {}
 
-        for md_name, md_body in full_scenes.items():
-            if md_name in ("spis-rozdzialow.md", "spis-scen.md"):
-                filtered_scenes[md_name] = md_body
-                continue
-            if md_name == "mowcy-i-miejsca.md":
-                if impacted_stems:
-                    filtered_scenes[md_name] = md_body
-                continue
-            stems_in_md = {
-                m[1]
-                for line in md_body.splitlines()
-                if (m := SCENE_HEADING_RE.match(line)) is not None
-            } | {
-                m[1]
-                for line in md_body.splitlines()
-                if (m := SCENE_PLIK_RE.match(line)) is not None
+        if delta_scope == "items":
+            delta_index = {
+                **effective_index,
+                "rozdzialy": [
+                    {**ch, "sceny": [s for s in ch.get("sceny", []) if s["plik"] in impacted_stems]}
+                    for ch in effective_index.get("rozdzialy", [])
+                    if any(s["plik"] in impacted_stems for s in ch.get("sceny", []))
+                ],
+                "identity": [
+                    {**row, "pliki": [s for s in row.get("pliki", []) if s in impacted_stems]}
+                    for row in effective_index.get("identity", [])
+                    if any(s in impacted_stems for s in row.get("pliki", []))
+                ],
+                "nieprzypisane": [
+                    s for s in effective_index.get("nieprzypisane", []) if s in impacted_stems
+                ],
             }
-            if stems_in_md & impacted_stems:
+            delta_scenes_raw, _ = build(delta_index, Story(new_snap))
+            full_scenes_for_gl, _ = build(effective_index, Story(new_snap))
+
+            delta_gl_keys: set[tuple[str, str]] = set()
+            if old_source is not None:
+                with Snapshot.open(old_source) as old_snap:
+                    old_eff_index, _ = _augment_story_index(base_index, old_snap)
+                    old_ref = LocalizeReference(old_snap, old_eff_index)
+                    old_gl = old_ref.story_glossary_expected
+                new_gl = ref.story_glossary_expected
+                for k, v in new_gl.items():
+                    if k not in old_gl or old_gl[k] != v:
+                        delta_gl_keys.add(k)
+            else:
+                delta_gl_keys = set(ref.story_glossary_expected)
+
+            for kind, entries in store.story_glossary.items():
+                for sk, meta in entries.items():
+                    if (kind, sk) in ref.story_glossary_expected:
+                        if meta.get("kr_sha256") and meta["kr_sha256"] != sha256_text(sk):
+                            delta_gl_keys.add((kind, sk))
+
+            gl_md, story_glossary_items = _render_delta_story_glossary(
+                full_scenes_for_gl.get("mowcy-i-miejsca.md", ""),
+                delta_gl_keys,
+            )
+
+            for md_name, md_body in delta_scenes_raw.items():
+                if md_name in ("spis-rozdzialow.md", "spis-scen.md"):
+                    filtered_scenes[md_name] = md_body
+                    continue
+                if md_name == "mowcy-i-miejsca.md":
+                    if gl_md:
+                        filtered_scenes[md_name] = gl_md
+                        blank_total += story_glossary_items
+                    continue
                 updated_md, pre, rem = _prefill_story_md(md_body, store, ref)
                 filtered_scenes[md_name] = updated_md
                 prefilled_total += pre
                 blank_total += rem
                 story_content_mds += 1
 
-        filtered_views: dict[str, str] = {}
-        view_content_mds = 0
-        for md_name, md_body in full_views.items():
-            if md_name == "spis-widokow.md":
-                filtered_views[md_name] = md_body
-                continue
-            if md_name == "mowcy-rpg-i-anomalii.md":
-                if any(
-                    lf.startswith("RPGSystem/") or PurePosixPath(lf).name.startswith("AbDlg")
-                    for lf in impacted_views
-                ):
+            eff_addrs = impacted_view_addrs if impacted_view_addrs is not None else set()
+            delta_views_raw, _ = build_views(new_snap, static, include_addrs=eff_addrs)
+            filtered_views: dict[str, str] = {}
+            view_content_mds = 0
+            for md_name, md_body in delta_views_raw.items():
+                if md_name == "spis-widokow.md":
                     filtered_views[md_name] = md_body
-                continue
-            files_in_md = {
-                m[1].strip()
-                for line in md_body.splitlines()
-                if (m := SOURCE_LINE_RE.match(line)) is not None
-            }
-            if files_in_md & impacted_views:
+                    continue
                 updated_md, pre, rem = _prefill_view_md(md_body, store, ref)
                 filtered_views[md_name] = updated_md
                 prefilled_total += pre
                 blank_total += rem
                 view_content_mds += 1
+        else:
+            full_scenes, _ = build(effective_index, Story(new_snap))
+            full_views, _ = build_views(new_snap, static)
+
+            for md_name, md_body in full_scenes.items():
+                if md_name in ("spis-rozdzialow.md", "spis-scen.md"):
+                    filtered_scenes[md_name] = md_body
+                    continue
+                if md_name == "mowcy-i-miejsca.md":
+                    if impacted_stems:
+                        filtered_scenes[md_name] = md_body
+                        story_glossary_items = sum(1 for ln in md_body.splitlines() if ln.strip() == "PL:")
+                    continue
+                stems_in_md = {
+                    m[1]
+                    for line in md_body.splitlines()
+                    if (m := SCENE_HEADING_RE.match(line)) is not None
+                } | {
+                    m[1]
+                    for line in md_body.splitlines()
+                    if (m := SCENE_PLIK_RE.match(line)) is not None
+                }
+                if stems_in_md & impacted_stems:
+                    updated_md, pre, rem = _prefill_story_md(md_body, store, ref)
+                    filtered_scenes[md_name] = updated_md
+                    prefilled_total += pre
+                    blank_total += rem
+                    story_content_mds += 1
+
+            filtered_views = {}
+            view_content_mds = 0
+            for md_name, md_body in full_views.items():
+                if md_name == "spis-widokow.md":
+                    filtered_views[md_name] = md_body
+                    continue
+                if md_name == "mowcy-rpg-i-anomalii.md":
+                    if any(
+                        lf.startswith("RPGSystem/") or PurePosixPath(lf).name.startswith("AbDlg")
+                        for lf in impacted_views
+                    ):
+                        filtered_views[md_name] = md_body
+                    continue
+                files_in_md = {
+                    m[1].strip()
+                    for line in md_body.splitlines()
+                    if (m := SOURCE_LINE_RE.match(line)) is not None
+                }
+                if files_in_md & impacted_views:
+                    updated_md, pre, rem = _prefill_view_md(md_body, store, ref)
+                    filtered_views[md_name] = updated_md
+                    prefilled_total += pre
+                    blank_total += rem
+                    view_content_mds += 1
 
     delta_stats = {
         "story_md_files": story_content_mds,
+        "story_glossary_items": story_glossary_items,
         "view_md_files": view_content_mds,
         "prefilled_pl_items": prefilled_total,
         "blank_pl_items": blank_total,
@@ -565,12 +837,16 @@ def build_delta_package(
 
     old_b = str(report["old_buildid"])
     new_b = str(report["new_buildid"])
-    audit_md = _format_audit_markdown(report, delta_stats)
+    kr_sha, en_sha = detect_manifest_hashes(new_source)
+    audit_md = _format_audit_markdown(report, delta_stats, delta_scope=delta_scope)
     manifest_obj = {
         "format_version": 1,
         "mode": "delta",
+        "delta_scope": delta_scope,
         "old_buildid": old_b,
         "new_buildid": new_b,
+        "localize_kr_sha256": kr_sha,
+        "localize_en_sha256": en_sha,
         "delta_stats": delta_stats,
         "audit": report,
     }
@@ -581,21 +857,36 @@ def build_delta_package(
         "sceny.zip": pack_zip_bytes(filtered_scenes),
         "widoki.zip": pack_zip_bytes(filtered_views),
     }
+    if delta_scope == "items":
+        payload["README.md"] = _format_incremental_readme(report, delta_stats).encode("utf-8")
+
     delta_out_dir.mkdir(parents=True, exist_ok=True)
-    out_zip = delta_out_dir / f"pakiet_uzupelniajacy_{old_b}_do_{new_b}.zip"
+    default_name = (
+        f"pakiet_przyrostowy_{old_b}_do_{new_b}.zip"
+        if delta_scope == "items"
+        else f"pakiet_uzupelniajacy_{old_b}_do_{new_b}.zip"
+    )
+    out_zip = delta_out_dir / (zip_name or default_name)
     write_zip(out_zip, payload)
     raw = out_zip.read_bytes()
     return {
         "zip_path": str(out_zip),
         "zip_bytes": len(raw),
         "zip_sha256": hashlib.sha256(raw).hexdigest(),
+        "delta_scope": delta_scope,
         **delta_stats,
     }
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--old", type=Path, required=True, help="starszy snapshot Localize (katalog lub ZIP zbieracza)")
+    old_group = parser.add_mutually_exclusive_group(required=True)
+    old_group.add_argument("--old", type=Path, help="starszy snapshot Localize (katalog lub ZIP zbieracza)")
+    old_group.add_argument(
+        "--old-rev",
+        type=str,
+        help="rewizja Git z wcześniejszym index/localize oraz index/MANIFEST.json (budowa czysto z repozytorium)",
+    )
     parser.add_argument(
         "--new",
         type=Path,
@@ -606,33 +897,51 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--index", type=Path, default=ROOT / "wiedza" / "indeks_fabuly.json")
     parser.add_argument("--static-data", type=Path, default=ROOT / "index" / "static-data")
     parser.add_argument("--out-report", type=Path, help="opcjonalna ścieżka zapisu raportu JSON")
-    parser.add_argument("--delta-out", type=Path, help="opcjonalny katalog wyjściowy dla pakietu uzupełniającego")
+    parser.add_argument("--delta-out", type=Path, help="opcjonalny katalog wyjściowy dla pakietu uzupełniającego/przyrostowego")
+    parser.add_argument(
+        "--delta-scope",
+        choices=("files", "items"),
+        default="files",
+        help="zakres pakietu: 'files' = pełne dotknięte pliki z kontekstem PL, 'items' = wyłącznie nowe/zmienione elementy",
+    )
+    parser.add_argument("--delta-zip-name", type=str, help="opcjonalna nazwa pliku .zip w katalogu --delta-out")
     args = parser.parse_args(argv)
 
-    report, impacted_story, impacted_views = audit_snapshots(
-        old_source=args.old,
-        new_source=args.new,
-        tlumaczenie_dir=args.tlumaczenie,
-    )
+    with contextlib.ExitStack() as stack:
+        old_path = (
+            stack.enter_context(checkout_git_localize(args.old_rev))
+            if args.old_rev
+            else args.old
+        )
+        assert old_path is not None
 
-    if args.delta_out is not None:
-        delta_info = build_delta_package(
+        report, impacted_story, impacted_views, impacted_view_addrs = _audit_snapshots_detailed(
+            old_source=old_path,
             new_source=args.new,
-            report=report,
-            impacted_story=impacted_story,
-            impacted_views=impacted_views,
-            delta_out_dir=args.delta_out,
-            story_index_path=args.index,
-            static_data_path=args.static_data,
             tlumaczenie_dir=args.tlumaczenie,
         )
-        report["delta_package"] = delta_info
+
+        if args.delta_out is not None:
+            delta_info = build_delta_package(
+                new_source=args.new,
+                report=report,
+                impacted_story=impacted_story,
+                impacted_views=impacted_views,
+                delta_out_dir=args.delta_out,
+                story_index_path=args.index,
+                static_data_path=args.static_data,
+                tlumaczenie_dir=args.tlumaczenie,
+                old_source=old_path,
+                impacted_view_addrs=impacted_view_addrs,
+                delta_scope=args.delta_scope,
+                zip_name=args.delta_zip_name,
+            )
+            report["delta_package"] = delta_info
 
     if args.out_report is not None:
         args.out_report.parent.mkdir(parents=True, exist_ok=True)
         args.out_report.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    # Compact prose-free summary on stdout
     summary = {
         "old_buildid": report["old_buildid"],
         "new_buildid": report["new_buildid"],
@@ -642,6 +951,7 @@ def main(argv: list[str] | None = None) -> int:
         "en_leaves": report["en"]["translatable_leaves"],  # type: ignore[index]
         "impacted_story_scenes": report["impacted_logical_files"]["story_scenes"],  # type: ignore[index]
         "impacted_view_files": report["impacted_logical_files"]["view_files"],  # type: ignore[index]
+        "impacted_view_leaf_addresses": report["impacted_logical_files"]["view_leaf_addresses"],  # type: ignore[index]
         "translations": {
             k: report["translations"][k]  # type: ignore[index]
             for k in ("preserved", "stale_kr_changed", "orphaned_removed")

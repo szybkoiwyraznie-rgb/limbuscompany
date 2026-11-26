@@ -3092,7 +3092,7 @@ Base Skills deal +1% damage for every 2 [Burn] on the main target (max 15%)
 [Attack End] If target is an ally, activate the following effects (once per turn):  
 - Apply Shield equal to 5% of this unit's max HP (min 1)  
 - Apply 1 [Second is Welcome-snipping]  
-- If target is [Charge Identity], apply 1 [Attack Power Up]
+- If target is a [Charge ID], apply 1 [Attack Power Up]
 
 *Od ulepszenia 2:* [Unclashable]  
 [Target Fixed]  
@@ -3102,7 +3102,7 @@ Base Skills deal +1% damage for every 2 [Burn] on the main target (max 15%)
 [Attack End] If target is an ally, activate the following effects (once per turn):  
 - Apply Shield equal to 5% of this unit's max HP (min 1)  
 - Apply 1 [Second is Welcome-snipping]  
-- If target is [Charge Identity], apply 1 [Attack Power Up]
+- If target is a [Charge ID], apply 1 [Attack Power Up]
 
 *Od ulepszenia 4:* [Unclashable]  
 [Target Fixed]  
@@ -3112,7 +3112,7 @@ Base Skills deal +1% damage for every 2 [Burn] on the main target (max 15%)
 [Attack End] If target is an ally, activate the following effects (2 times per turn):  
 - Apply Shield equal to 10% of this unit's max HP (min 1)  
 - Apply 1 [Second is Welcome-snipping]  
-- If target is [Charge Identity], apply 2 [Attack Power Up]
+- If target is a [Charge ID], apply 2 [Attack Power Up]
 
 #### Umiejętność 2 (×2): Pin and Trim Along the Patterns
 
@@ -3121,10 +3121,10 @@ Base Skills deal +1% damage for every 2 [Burn] on the main target (max 15%)
 | 1 | Envy | Slash | 3 | +4 | 3 | +2 | 1 |
 | 3 | Envy | Slash | 4 | +4 | 3 | +2 | 1 |
 
-*Od ulepszenia 1:* [Combat Start] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [Charge Identity]; once per turn):  
+*Od ulepszenia 1:* [Combat Start] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [Charge ID]s; once per turn):  
 - Apply 2 [Offense Level Up]  
 - Apply Shield equal to 5% of this unit's max HP (min 1)  
-- If the said Identity is [Charge Identity], apply an additional 1 [Offense Level Up] and Shield equal to 5% of this unit's max HP  
+- If the said Identity is a [Charge ID], apply an additional 1 [Offense Level Up] and Shield equal to 5% of this unit's max HP  
   
 [On Use] If target has 6+ [Tremor] Potency, Coin Power +1  
 [On Use] Consume 5 [Inertia of Drifting] Count to gain Final Power +2  
@@ -3132,10 +3132,10 @@ Moneta 1: [On Hit] Gain +6 [Inertia of Drifting] Count
 Moneta 2: [On Hit] Inflict +2 [Tremor] Count  
 Moneta 3: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1
 
-*Od ulepszenia 2:* [Combat Start] Apply the following effects to this unit and 1 other ally with the earliest Deployment Order (prioritizes [Charge Identity]; once per turn):  
+*Od ulepszenia 2:* [Combat Start] Apply the following effects to this unit and 1 other ally with the earliest Deployment Order (prioritizes [Charge ID]s; once per turn):  
 - Apply 2 [Offense Level Up]  
 - Apply Shield equal to 5% of this unit's max HP (min 1)  
-- If the said Identity is [Charge Identity], apply an additional 1 [Offense Level Up] and Shield equal to 5% of this unit's max HP  
+- If the said Identity is a [Charge ID], apply an additional 1 [Offense Level Up] and Shield equal to 5% of this unit's max HP  
   
 [On Use] If target has 6+ [Tremor] Potency, Coin Power +1  
 [On Use] Consume 5 [Inertia of Drifting] Count to gain Final Power +2  
@@ -3143,10 +3143,10 @@ Moneta 1: [On Hit] Gain +6 [Inertia of Drifting] Count
 Moneta 2: [On Hit] Inflict +2 [Tremor] Count  
 Moneta 3: [On Hit] Trigger [Tremor Burst]; then, reduce target's [Tremor] Count by 1
 
-*Od ulepszenia 4:* [Combat Start] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [Charge Identity]), and 1 ally with the lowest current HP percentage (once per turn):  
+*Od ulepszenia 4:* [Combat Start] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [Charge ID]s), and 1 ally with the lowest current HP percentage (once per turn):  
 - Apply 2 [Offense Level Up]  
 - Apply Shield equal to 5% of this unit's max HP (min 1)  
-- If the said ally is [Charge Identity], apply an additional 1 [Offense Level Up] and Shield equal to 5% of this unit's max HP  
+- If the said ally is a [Charge ID], apply an additional 1 [Offense Level Up] and Shield equal to 5% of this unit's max HP  
   
 [On Use] Coin Power +1 for every 6 [Tremor] Potency on target (max 2)  
 [On Use] Consume 5 [Inertia of Drifting] Count to gain Final Power +2  
@@ -3164,7 +3164,7 @@ Moneta 3: [On Hit] Inflict 1 [Sloth Resist Down] (once per turn)
 
 *Od ulepszenia 3:* Deal +15% damage for every [Blossom Scissors] on self (max 30%)  
   
-[Combat Start] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [Charge Identity]) and 1 ally with the lowest current HP percentage (once per turn):  
+[Combat Start] Apply the following effects to 1 other ally with the earliest Deployment Order (prioritizes [Charge ID]s) and 1 ally with the lowest current HP percentage (once per turn):  
 - Apply 1 [Second is Welcome-snipping]  
 - Apply Shield equal to 5% of this unit's max HP (min 1)  
   
@@ -3182,7 +3182,7 @@ Moneta 3: [On Hit] At 5+ [Inertia of Drifting] Count, consume 5 [Inertia of Drif
 
 *Od ulepszenia 4:* Deal +30% damage for every [Blossom Scissors] on self (max 60%)  
   
-[Combat Start] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [Charge Identity]), and 1 ally with the lowest current HP percentage (once per turn):  
+[Combat Start] Apply the following effects to this unit, 1 other ally with the earliest Deployment Order (prioritizes [Charge ID]s), and 1 ally with the lowest current HP percentage (once per turn):  
 - Apply 1 [Second is Welcome-snipping]  
 - Apply Shield equal to 10% of this unit's max HP (min 1)  
   

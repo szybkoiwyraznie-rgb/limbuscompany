@@ -404,5 +404,79 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
     jeszcze nieindeksowanych scen `StoryData/*.json` w `pozostale.md` i
     wstępnym wypełnieniem niezmienionych linii `PL:` jako kontekstu).
 
+---
+
+### E-013 · 2026-11-26 · Czwartkowa aktualizacja gry (`26652290` → `26917622`): import `index/localize` i deterministyczny pakiet przyrostowy (`pakiet_przyrostowy_26652290_do_26917622.zip`)
+
+- **Rodzaj dowodu:** **test na kopii plików z gry właściciela** + **test syntetyczny** (`61/61`).
+- **Wejście:** `LCB_DANE_20261126_094359_ef145d.zip` (`19 234 825` B, SHA-256
+  `28f53cdbd6bd8b144ff48a5dd84ecd76bbcea5e90bdbf44db24069f005badfa8`; walidacja
+  `tools/validate_collector_return.py`: `status = complete`, `problems = 0`,
+  `skipped = 0`, `buildid = 26917622`; pliki `Localize`: `2 464` `kr`, `2 421`
+  `en`, `2 481` `jp`; zebrany `Lang/config.json` potwierdza aktywny profil
+  `{"lang": "Polski", "titleFont": "", "contextFont": "", "samplingPointSize": 78, "padding": 5}`).
+- **Audyt różnic między buildem `26652290` a `26917622` (`tools/audit_update.py`):**
+  - `kr` (źródło): **+15** nowych plików (`0` usuniętych), **27** zmienionych
+    (`2 422` bez zmian); liście tekstowe: **+2 169** nowych, **5** zmienionych,
+    **0** usuniętych (`191 140` bez zmian);
+  - `en` (odniesienie): **+15** nowych plików (`0` usuniętych), **32** zmienione
+    (`2 374` bez zmian); liście tekstowe: **+2 169** nowych, **36** zmienionych,
+    **1** usunięty przy podziale identyfikatora w `BattleSpeechBubbleDlg.json`
+    (`190 808` bez zmian);
+  - zawartość merytoryczna łatki:
+    1. **2 nowe Tożsamości 000 + historie + umiejętności + pasywki + kwestie:**
+       *Haute Couture:: Le Noir B3F Drying Room* Yi Sang (`10117`, `StoryData/P10117.json`
+       — `219` kwestii, `Voice_Yisang_Contem_10117.json`, `Skills_personality-01.json`,
+       `Passives.json` `1011701..1011721`) oraz *Haute Couture:: Le Rouge B2F
+       Skein Nest* Gregor (`11217`, `StoryData/P11217.json` — `165` kwestii,
+       `Voice_Gregor_Contem_11217.json`, `Skills_personality-12.json`,
+       `Passives.json` `1121701..1121721`, rozszerzenie `RougeFamilySinclair.desc`);
+    2. **nowy komentator bitwy:** `BattleAnnouncerDlg/Announcer_Overseer_60.json`
+       (`32` kwestie) + `Announcer.json`;
+    3. **nowy tryb wydarzeniowy (`Limtochess` / `SchemaCraft` / `Synergy`):**
+       `LimtochessUI.json` (`1 023` pola `kr` / `1 022` `en`),
+       `SchemaCraftChoice.json` (`59`), `TutorialMainUIText.json` (`+119`),
+       `BattleKeywords-schema.json` (`15`), `Bufs-schema.json` (`15`),
+       `BattleKeywords_Synergy.json` (`2`), `Bufs_Synergy.json` (`2`),
+       `Enemies-schema.json` (`1`), `PanicInfo-schema.json` (`3`),
+       `Passives_Enemy-schema.json` (`30`), `Skills_Enemy-schema.json` (`92`),
+       `Passive_Ego.json` (`+6`), `SynergyKeyword.json` (`+1`);
+    4. **poprawki i erraty w istniejących plikach:** `5` zmian `KR`
+       (`ActionEvents-walpu10.json` ×2, `EGOgift_walpu10.json` `9296.desc`,
+       `BattleKeywords.json` `RougeFamilySinclair.desc`, `StageChapterText.json`
+       `chapter_n_9128.chaptertitle`) oraz `36` poprawek sformułowań `EN`
+       (m.in. `Skills_personality-09.json`, `Skills_Ego_Personality-06.json`,
+       `BattleKeywords_Mirror3.json`, `Bufs_Mirror3.json`, `Skills_Enemy-a1c9116.json`).
+- **Ulepszenia potoku aktualizacji i wynik budowy pakietu przyrostowego:**
+  - `tools/story_index.py` i `tools/package_views.py` uzupełniono o regułę
+    prefiksu dla nowych historii `P1xxNN` oraz pasywek `1xxNNyy`, dzięki czemu
+    nowe Tożsamości trafiają od razu pod właściwego Grzesznika (`identity-01.md`,
+    `identity-12.md`, `02_tozsamosc_01_Yi_Sang.md`, `02_tozsamosc_12_Gregor.md`),
+    zanim zewnętrzne lustro `OpenLethe` opublikuje zaktualizowane `StaticData`;
+  - `tools/audit_update.py` rozszerzono o `--old-rev <git-rev>` (budowa pakietu
+    przyrostowego czysto z historii Git bez polegania na `local/` ani Dysku) oraz
+    tryb `--delta-scope items`, emitujący wyłącznie nowe i zmienione sceny,
+    wpisy słownika mówców oraz pojedyncze pozycje widoków;
+  - `tools/import_zwrotki.py` uzupełniono o jawną flagę `--allow-older-package`
+    do bezstratnego przyjmowania zwrotek z wcześniejszego pakietu bazowego
+    (`26652290`) po przesunięciu `index/localize` na nowszy build (`169` plików /
+    `157 612` pozycji z `26652290` przechodzi suchy przebieg bez błędów);
+  - zaimportowano build `26917622` do `index/localize` (`kr` SHA-256
+    `54c9f37d…fae6e2`, `en` SHA-256 `d10485fb…ee9c10`), odświeżono
+    `wiedza/indeks_fabuly.json` (`186` historii Identity, `0` nowych
+    nieprzypisanych) i `czytanki/`, a następnie zbudowano z repozytorium i
+    wgrano na Dysk właściciela deterministyczny pakiet przyrostowy
+    **`pakiet_przyrostowy_26652290_do_26917622.zip`** (`155 363` B, SHA-256
+    `c20f006a1e7cb38a7a21b1b5f5f2307b784d5476527df72f4a0df9ba1953b3df`:
+    `2` pliki scen + `3` nowe wpisy słownika mówców + `17` plików widoków =
+    łącznie **`1 733`** unikalne puste pola `PL:` do przetłumaczenia; suchy
+    przebieg ścisłego `import_zwrotki.py`: `0` błędów, `0` ostrzeżeń).
+- **Ograniczenia:** tabele `StaticData` w `index/static-data/` pochodzą nadal z
+  `LEAGUE-OF-NINE/OpenLethe` (`8f24cba5`, dane z `2026-11-12`), więc karty `10117`
+  i `11217` pojawią się w liczbowych profilach `czytanki/plik_ID_*` po
+  opublikowaniu nowego zrzutu `StaticData` w OpenLethe (w pakiecie dla tłumacza
+  są już kompletne w 100% z `Localize`).
+
+
 
 

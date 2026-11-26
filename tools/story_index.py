@@ -321,19 +321,48 @@ def order_chapters(chapters: dict[int, dict], sequence: list[int]) -> list[int]:
     return order
 
 
-def identity_stories(static: StaticData) -> list[dict]:
+IDENTITY_STEM_RE = re.compile(r"^P(1(?:0[1-9]|1[0-2]))(\d{2})([A-Z]?)$")
+
+
+def identity_stories(
+    static: StaticData,
+    stems: set[str] | None = None,
+    placed: set[str] | None = None,
+) -> list[dict]:
     out = []
+    by_pid: dict[int, dict] = {}
+    known_stems: set[str] = set()
     for row in static.rows("storytheater-personality"):
         for item in row.get("storyList", []):
             stories = [s["storyId"] for s in sorted(item.get("personalityStoryList", []), key=lambda s: s.get("order", 0))
                        if isinstance(s.get("storyId"), str)]
-            out.append({k: v for k, v in {
+            known_stems.update(stories)
+            entry = {k: v for k, v in {
                 "postac": row.get("characterId"),
                 "identity": item.get("personalityId"),
                 "pliki": stories,
                 "profil": item.get("profileId") or None,
                 "analiza": item.get("analysisId") or None,
-            }.items() if v not in (None, [])})
+            }.items() if v not in (None, [])}
+            out.append(entry)
+            if isinstance(entry.get("identity"), int):
+                by_pid[entry["identity"]] = entry
+
+    if stems is not None:
+        unassigned = sorted(stems - (placed or set()) - known_stems)
+        for stem in unassigned:
+            m = IDENTITY_STEM_RE.fullmatch(stem)
+            if not m:
+                continue
+            cid = int(m[1]) - 100
+            pid = int(m[1] + m[2])
+            if pid in by_pid:
+                by_pid[pid].setdefault("pliki", []).append(stem)
+            else:
+                entry = {"postac": cid, "identity": pid, "pliki": [stem], "zrodlo": "regula_nazw"}
+                out.append(entry)
+                by_pid[pid] = entry
+
     return sorted(out, key=lambda r: (r.get("postac", 0), r.get("identity", 0)))
 
 
@@ -376,7 +405,7 @@ def build(static: StaticData, snapshot: Snapshot) -> dict:
     from_names = merge_by_name(chapters, placed, stems, rpg_routes(static))
     sequence = chapter_sequence(snapshot)
     order = order_chapters(chapters, sequence)
-    identities = identity_stories(static)
+    identities = identity_stories(static, stems=stems, placed=placed)
     in_identities = {s for row in identities for s in row.get("pliki", [])}
     ordered = []
     for n, sub in enumerate(order, 1):

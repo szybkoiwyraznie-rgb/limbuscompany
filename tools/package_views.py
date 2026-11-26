@@ -254,9 +254,10 @@ class ViewGlossary:
             return
         entry = self.entries.setdefault(
             (kind, src, ref),
-            {"count": 0, "first_file": logical_file, "first_addr": addr},
+            {"count": 0, "first_file": logical_file, "first_addr": addr, "sources": set()},
         )
         entry["count"] += 1
+        entry["sources"].add((logical_file, addr))
 
 
 class Corpus:
@@ -1039,6 +1040,15 @@ def build_sinners_and_identities(corpus: Corpus) -> list[tuple[str, str, str, li
                             req = passive_req(pas_id)
                             meta = f"od ulepszenia {entry.get('level')}" + (f", {req}" if req else "")
                             passive_entries.append((pas_id, f"{plbl} ({meta})"))
+            known_pas = {pas_id for pas_id, _ in passive_entries}
+            pid_str = str(pid)
+            for pas_key in sorted(passive_loc):
+                if pas_key.isdigit() and len(pas_key) == len(pid_str) + 2 and pas_key.startswith(pid_str):
+                    pas_id = int(pas_key)
+                    if pas_id not in known_pas:
+                        kind_lbl = "Pasywka wsparcia" if pas_key.endswith("21") else "Pasywka bojowa"
+                        passive_entries.append((pas_id, f"{kind_lbl} [{pas_id}]"))
+                        known_pas.add(pas_id)
             for pas_id, plbl in passive_entries:
                 pfile = passive_loc.get(str(pas_id))
                 if not pfile:
@@ -1845,13 +1855,15 @@ def build_ui_tutorials_events_and_shop(corpus: Corpus) -> list[tuple[str, str, s
         or f.startswith("ProjectGS")
         or f.startswith("DailyLoginEvent")
         or f.startswith("Attendance")
+        or f.startswith("Limtochess")
+        or f.startswith("SchemaCraft")
     ]
     ev_blocks = append_generic_file_sections(corpus, ev_files, "Wydarzenia i Przepustka")
     if ev_blocks:
         out.append((
             "08_wydarzenia_sezonowe_i_przepustka",
             "Sezony, Przepustka Limbus (Battle Pass), Noc Walpurgii i wydarzenia specjalne",
-            "Teksty wydarzeń sezonowych, misji Nocy Walpurgii, wydarzeń Intervallo oraz nagród logowania.",
+            "Teksty wydarzeń sezonowych, misji Nocy Walpurgii, wydarzeń Intervallo, trybów specjalnych oraz nagród logowania.",
             ev_blocks,
         ))
 
@@ -1880,7 +1892,23 @@ def build_ui_tutorials_events_and_shop(corpus: Corpus) -> list[tuple[str, str, s
     return out
 
 
-def render_view_glossary(corpus: Corpus) -> tuple[str, int, int]:
+def _filter_blocks_by_addrs(
+    blocks: list[SectionBlock],
+    include_addrs: set[tuple[str, str]],
+) -> list[SectionBlock]:
+    filtered: list[SectionBlock] = []
+    for b in blocks:
+        kept = [it for it in b.items if any((it.logical_file, a) in include_addrs for a in it.addrs)]
+        if kept:
+            filtered.append(SectionBlock(heading=b.heading, context_lines=list(b.context_lines), items=kept))
+    return filtered
+
+
+def render_view_glossary(
+    corpus: Corpus,
+    mc_blocks: list[SectionBlock],
+    include_addrs: set[tuple[str, str]] | None = None,
+) -> tuple[str, int, int]:
     """Render ``mowcy-rpg-i-anomalii.md`` + ``ScenarioModelCodes-AutoCreated.json``."""
     lines = [
         "# Mówcy trybu RPG, testów Anomalii oraz tabela modeli — Limbus Company",
@@ -1896,7 +1924,11 @@ def render_view_glossary(corpus: Corpus) -> tuple[str, int, int]:
 
     for kind, label in ViewGlossary.KINDS:
         entries = sorted(
-            ((src, ref, meta) for (k, src, ref), meta in corpus.glossary.entries.items() if k == kind),
+            (
+                (src, ref, meta)
+                for (k, src, ref), meta in corpus.glossary.entries.items()
+                if k == kind and (include_addrs is None or bool(meta.get("sources", set()) & include_addrs))
+            ),
             key=lambda e: (-e[2]["count"], e[0], e[1]),
         )
         if not entries:
@@ -1924,30 +1956,28 @@ def render_view_glossary(corpus: Corpus) -> tuple[str, int, int]:
             lines.append("   PL:")
         lines.append("")
 
-    if "ScenarioModelCodes-AutoCreated.json" in corpus.logical_files:
-        mc_blocks = append_generic_file_sections(
-            corpus, ["ScenarioModelCodes-AutoCreated.json"], "Tabela modeli postaci"
-        )
-        for b in mc_blocks:
-            b.context_lines.append(
-                "- Uwaga: imiona używane w scenach fabularnych pokrywają się częściowo z `sceny.zip/mowcy-i-miejsca.md`; zachowaj identyczną pisownię imion i przydomków."
-            )
-            b_lines, seq, el, td = render_section_lines(corpus, b, seen, seq)
-            elements += el
-            todo += td
-            lines.extend(b_lines)
+    eff_mc_blocks = _filter_blocks_by_addrs(mc_blocks, include_addrs) if include_addrs is not None else mc_blocks
+    for b in eff_mc_blocks:
+        b_lines, seq, el, td = render_section_lines(corpus, b, seen, seq)
+        elements += el
+        todo += td
+        lines.extend(b_lines)
 
     if elements == 0:
         return "", 0, 0
     return "\n".join(lines).rstrip() + "\n", elements, todo
 
 
-def build_views(snapshot: Snapshot, static: StaticData | None = None,
-                source: str = "kr", reference: str = "en") -> tuple[dict[str, str], dict]:
-    """Build all ``widoki.zip`` Markdown files and return ``(files, stats)``."""
+def build_views(
+    snapshot: Snapshot,
+    static: StaticData | None = None,
+    source: str = "kr",
+    reference: str = "en",
+    include_addrs: set[tuple[str, str]] | None = None,
+) -> tuple[dict[str, str], dict]:
+    """Build ``widoki.zip`` Markdown files (full or filtered to ``include_addrs``)."""
     corpus = Corpus(snapshot, static=static, source=source, reference=reference)
 
-    # Reserve ScenarioModelCodes-AutoCreated.json for mowcy-rpg-i-anomalii.md
     domains: list[tuple[str, str, str, list[SectionBlock]]] = []
 
     combat_blocks = build_combat_dictionary(corpus)
@@ -1967,8 +1997,15 @@ def build_views(snapshot: Snapshot, static: StaticData | None = None,
     domains.extend(build_theater_stages_and_dungeons(corpus))
     domains.extend(build_ui_tutorials_events_and_shop(corpus))
 
-    # Render glossary (which also claims ScenarioModelCodes-AutoCreated.json)
-    glossary_md, gl_elements, gl_todo = render_view_glossary(corpus)
+    mc_blocks: list[SectionBlock] = []
+    if "ScenarioModelCodes-AutoCreated.json" in corpus.logical_files:
+        mc_blocks = append_generic_file_sections(
+            corpus, ["ScenarioModelCodes-AutoCreated.json"], "Tabela modeli postaci"
+        )
+        for b in mc_blocks:
+            b.context_lines.append(
+                "- Uwaga: imiona używane w scenach fabularnych pokrywają się częściowo z `sceny.zip/mowcy-i-miejsca.md`; zachowaj identyczną pisownię imion i przydomków."
+            )
 
     # Automatic catch-all for any remaining translatable leaves in any file
     remaining_files = [
@@ -1984,11 +2021,8 @@ def build_views(snapshot: Snapshot, static: StaticData | None = None,
                 "Dodatkowe wpisy lokalizacyjne nieprzypisane do wcześniejszych działów tematycznych.",
                 catchall_blocks,
             ))
-        # Re-render glossary if catchall recorded any new RPG/AbDlg speakers
-        if any((f.startswith("RPGSystem/") or f.startswith("AbDlg")) for f in remaining_files):
-            glossary_md, gl_elements, gl_todo = render_view_glossary(corpus)
 
-    # Strict 100% coverage gate!
+    # Strict 100% coverage gate on the full snapshot!
     missing: list[tuple[str, str]] = []
     total_leaves = 0
     for f in corpus.logical_files:
@@ -2001,12 +2035,28 @@ def build_views(snapshot: Snapshot, static: StaticData | None = None,
         sample = ", ".join(f"{f}::{a}" for f, a in missing[:10])
         raise RuntimeError(f"widoki.zip coverage gate failed: {len(missing)} unconsumed leaves (e.g. {sample})")
 
+    glossary_md, gl_elements, gl_todo = render_view_glossary(corpus, mc_blocks, include_addrs=include_addrs)
+    if include_addrs is not None:
+        domains = [
+            (base, title, intro, _filter_blocks_by_addrs(blocks, include_addrs))
+            for base, title, intro, blocks in domains
+        ]
+        touched_files = {lf for lf, _ in include_addrs}
+        toc_header = (
+            f"Tryb przyrostowy — dotkniętych plików poza `StoryData/`: **{len(touched_files)}** · "
+            f"Dotkniętych pól tekstowych: **{len(include_addrs)}**."
+        )
+    else:
+        toc_header = (
+            f"Plików źródłowych poza `StoryData/`: **{len(corpus.logical_files)}** · "
+            f"Wszystkich niepustych pól tekstowych w grze: **{total_leaves}** (pokrycie: **100%**)."
+        )
+
     files: dict[str, str] = {}
     toc = [
         "# Spis widoków i działów niefabularnych — Limbus Company",
         "",
-        f"Plików źródłowych poza `StoryData/`: **{len(corpus.logical_files)}** · "
-        f"Wszystkich niepustych pól tekstowych w grze: **{total_leaves}** (pokrycie: **100%**).",
+        toc_header,
         "",
         "| # | dział | elementów | do tłumaczenia | pliki `.md` |",
         "|---|---|---|---|---|",
@@ -2036,8 +2086,8 @@ def build_views(snapshot: Snapshot, static: StaticData | None = None,
 
     files["spis-widokow.md"] = "\n".join(toc) + "\n"
     stats = {
-        "widoki_pliki_gry": len(corpus.logical_files),
-        "widoki_liscie_json": total_leaves,
+        "widoki_pliki_gry": len({lf for lf, _ in include_addrs}) if include_addrs is not None else len(corpus.logical_files),
+        "widoki_liscie_json": len(include_addrs) if include_addrs is not None else total_leaves,
         "widoki_pliki_md": len(files),
         "widoki_elementy": total_elements,
         "widoki_do_tlumaczenia": total_todo,

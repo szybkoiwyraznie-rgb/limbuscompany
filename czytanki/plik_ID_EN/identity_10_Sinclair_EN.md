@@ -2432,7 +2432,7 @@ Moneta 1: [Current Coin Attack End] If target is an ally, apply the following ef
 [On Use] If target is an ally, end Skill after activating Coin 1 effects  
 Moneta 1: [Current Coin Attack End] If target is an ally, apply the following effects:  
 - Apply 1 [Desperate Hunger]  
-- If target is a [Charge Identity], apply +4 [Charge] Count  
+- If target is a [Charge ID], apply +4 [Charge] Count  
 - If target is a "Le Rouge" ally, consume 10% of its max HP and apply 2 [Offense Level Up]  
 Moneta 2: [On Hit] Inflict 3 [Bleed]
 
@@ -2444,7 +2444,7 @@ Moneta 2: [On Hit] Inflict 3 [Bleed]
 [On Use] If target is an ally, end Skill after activating Coin 1 effects  
 Moneta 1: [Current Coin Attack End] If target is an ally, apply the following effects:  
 - Apply 1 [Desperate Hunger]  
-- If target is a [Charge Identity], apply +4 [Charge] Count  
+- If target is a [Charge ID], apply +4 [Charge] Count  
 - If target is a "Le Rouge" ally, consume 10% of its max HP and apply 2 [Offense Level Up]  
 Moneta 2: [On Hit] Inflict 3 [Bleed]
 
@@ -2459,7 +2459,7 @@ Moneta 2: [On Hit] Inflict 3 [Bleed]
 [On Use] If target is an ally, end Skill after activating Coin 1 effects  
 Moneta 1: [Current Coin Attack End] If target is an ally, apply the following effects:  
 - Apply 1 [Clash Power Up] and 1 [Desperate Hunger]  
-- If target is a [Charge Identity], apply +4 [Charge] Count  
+- If target is a [Charge ID], apply +4 [Charge] Count  
 - If target is a "Le Rouge" ally, consume 10% of its max HP and apply 2 [Offense Level Up]  
 Moneta 2: [On Hit] Inflict 3 [Bleed]
 
@@ -2796,7 +2796,7 @@ Combat End: At 3+ Lust Reson., apply [Desperate Hunger] next turn on (Lust Reson
 - Prioritizes "Le Rouge" allies, in Deployment order  
   
 When using a [Duality] Skill on an ally, apply 1 [Attending the Divine] to the non-immobilized "Le Rouge" ally with the highest current HP (once per turn)  
-At Base Attack End by another allied [Charge Identity], if the said Skill did not defeat its main target, use "Je vous aide" against that enemy (once per turn)
+At Base Attack End by another allied [Charge ID], if the said Skill did not defeat its main target, use "Je vous aide" against that enemy (once per turn)
 
 #### Pasywka bojowa: La Jouissance phallique
 
@@ -2823,7 +2823,7 @@ Combat End: At 3+ Lust Reson., apply [Desperate Hunger] next turn on (Lust Reson
 - Prioritizes "Le Rouge" allies, in Deployment order  
   
 When using a [Duality] Skill on an ally, apply 1 [Attending the Divine] to the non-immobilized "Le Rouge" ally with the highest current HP (once per turn)  
-At Base Attack End by another allied [Charge Identity], if the said Skill did not defeat its main target, use "Je vous aide" against that enemy (once per turn)
+At Base Attack End by another allied [Charge ID], if the said Skill did not defeat its main target, use "Je vous aide" against that enemy (once per turn)
 
 #### Pasywka bojowa: La Jouissance phallique
 
@@ -2872,7 +2872,7 @@ Combat End: At 3+ Lust Reson., apply [Desperate Hunger] next turn on (Lust Reson
   
 If this unit does not have [Noble Dignity],  
 - When using a [Duality] Skill on an ally, apply 1 [Attending the Divine] to the non-immobilized "Le Rouge" ally with the highest current HP (once per turn)  
-- At Base Attack End by another allied [Charge Identity], if the said Skill did not defeat its main target, use "Je vous aide" against that enemy (once per turn)  
+- At Base Attack End by another allied [Charge ID], if the said Skill did not defeat its main target, use "Je vous aide" against that enemy (once per turn)  
   
 If this unit has [Noble Dignity],  
 - Gain [Crimson Cradle]  

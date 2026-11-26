@@ -566,6 +566,7 @@ def _parse_story_glossary_file(
     ref: LocalizeReference,
     store: TranslationStore,
     report: ImportReport,
+    allow_older_package: bool = False,
 ) -> None:
     current_kind: str | None = None
     lines = text.splitlines()
@@ -603,24 +604,48 @@ def _parse_story_glossary_file(
         if current_kind is None:
             report.errors.append(f"{source_name}: element {item_no} poza znaną sekcją słownika")
             continue
+        if pl_line is None:
+            report.errors.append(f"{source_name}: element {item_no} nie ma linii PL:")
+            continue
         if (current_kind, src_key) not in ref.story_glossary_expected:
+            if allow_older_package:
+                if pl_line:
+                    report.warnings.append(
+                        ImportWarningItem(
+                            source_name,
+                            item_no,
+                            f"pominięto nieaktualny wpis słownika ({current_kind}: {src_key!r}) ze starszego pakietu",
+                        )
+                    )
+                else:
+                    report.untranslated_items += 1
+                continue
             report.errors.append(
                 f"{source_name}: element {item_no} ({current_kind}: {src_key!r}) nie występuje w bieżącym index/localize"
             )
             continue
         expected_ref = ref.story_glossary_expected[(current_kind, src_key)]
         expected_en_line = expected_ref or "(brak w wersji angielskiej)"
-        if en_line not in {expected_en_line, "(brak w wersji angielskiej)"}:
+        en_mismatch = en_line not in {expected_en_line, "(brak w wersji angielskiej)"}
+        if en_mismatch and not allow_older_package:
             report.errors.append(
                 f"{source_name}: element {item_no} ma zmienioną linię EN ({en_line!r} != {expected_en_line!r})"
             )
             continue
-        if pl_line is None:
-            report.errors.append(f"{source_name}: element {item_no} nie ma linii PL:")
-            continue
         if not pl_line:
             report.untranslated_items += 1
             continue
+        if en_mismatch and allow_older_package:
+            report.warnings.append(
+                ImportWarningItem(
+                    source_name,
+                    item_no,
+                    f"zmieniła się referencja EN w nowszym buildzie ({en_line!r} -> {expected_en_line!r})",
+                )
+            )
+            existing_gl = store.story_glossary.get(current_kind, {}).get(src_key)
+            if existing_gl and existing_gl.get("en_sha256") == sha256_text(expected_ref):
+                continue
 
         tok_errs = validate_tokens(pl_line, src_key, expected_ref, ref.known_kw_ids)
         if tok_errs:
@@ -646,6 +671,7 @@ def _parse_story_scenes_file(
     ref: LocalizeReference,
     store: TranslationStore,
     report: ImportReport,
+    allow_older_package: bool = False,
 ) -> None:
     current_stem: str | None = None
     lines = text.splitlines()
@@ -697,11 +723,38 @@ def _parse_story_scenes_file(
             continue
         scene_map = ref.story_pairs(current_stem)
         if pair_idx not in scene_map:
+            if allow_older_package:
+                if pl_line:
+                    report.warnings.append(
+                        ImportWarningItem(
+                            source_name,
+                            pair_idx,
+                            f"pominięto usunięty element nr {pair_idx} sceny {current_stem} ze starszego pakietu",
+                        )
+                    )
+                else:
+                    report.untranslated_items += 1
+                continue
             report.errors.append(f"{source_name}: scena {current_stem} nie ma elementu nr {pair_idx}")
             continue
         addr, kr_raw, en_raw = scene_map[pair_idx]
         expected_kr_clean = clean(kr_raw)
         if kr_head != expected_kr_clean:
+            if allow_older_package:
+                if repeat_ref is None and pl_line is None:
+                    report.errors.append(f"{source_name}: scena {current_stem} el. {pair_idx} nie ma linii PL:")
+                    continue
+                if pl_line:
+                    report.warnings.append(
+                        ImportWarningItem(
+                            source_name,
+                            pair_idx,
+                            f"scena {current_stem}: zmienił się oryginał KR w nowszym buildzie — element pominięty, użyj pakietu przyrostowego",
+                        )
+                    )
+                else:
+                    report.untranslated_items += 1
+                continue
             report.errors.append(
                 f"{source_name}: scena {current_stem} el. {pair_idx} ma zmieniony tekst KR ({kr_head!r} != {expected_kr_clean!r})"
             )
@@ -725,6 +778,10 @@ def _parse_story_scenes_file(
             store.story_repeats[f"{logical_file}::{addr}"] = f"StoryData/{ref_stem}.json::{ref_addr}"
             continue
 
+        if pl_line is None:
+            report.errors.append(f"{source_name}: scena {current_stem} el. {pair_idx} nie ma linii PL:")
+            continue
+
         expected_en_line = clean(en_raw) or "(brak wersji angielskiej)"
         allowed_en_lines = {expected_en_line}
         if "[#" in addr:
@@ -737,17 +794,26 @@ def _parse_story_scenes_file(
                 for k_addr, k_val in en_file_leaves.items():
                     if k_addr.startswith(f"dataList[id={base_id}") and k_addr.endswith("].content"):
                         allowed_en_lines.add(clean(k_val) or "(brak wersji angielskiej)")
-        if en_line not in allowed_en_lines:
+        en_mismatch = en_line not in allowed_en_lines
+        if en_mismatch and not allow_older_package:
             report.errors.append(
                 f"{source_name}: scena {current_stem} el. {pair_idx} ma zmienioną linię EN ({en_line!r} != {expected_en_line!r})"
             )
             continue
-        if pl_line is None:
-            report.errors.append(f"{source_name}: scena {current_stem} el. {pair_idx} nie ma linii PL:")
-            continue
         if not pl_line:
             report.untranslated_items += 1
             continue
+        if en_mismatch and allow_older_package:
+            report.warnings.append(
+                ImportWarningItem(
+                    source_name,
+                    pair_idx,
+                    f"scena {current_stem}: zmieniła się referencja EN w nowszym buildzie",
+                )
+            )
+            existing_leaf = store.get_leaf(logical_file, addr)
+            if existing_leaf and existing_leaf.get("en_sha256") == sha256_text(en_raw):
+                continue
 
         pl_decoded = decode_story_text(pl_line, kr_raw, en_raw)
         tok_errs = validate_tokens(pl_decoded, kr_raw, en_raw, ref.known_kw_ids, logical_file)
@@ -774,6 +840,7 @@ def _parse_views_file(
     ref: LocalizeReference,
     store: TranslationStore,
     report: ImportReport,
+    allow_older_package: bool = False,
 ) -> None:
     lines = text.splitlines()
     parsed_items: list[dict] = []
@@ -844,14 +911,41 @@ def _parse_views_file(
             report.errors.append(f"{source_name}: element {seq} nie ma poprawnej linii źródło:")
             continue
 
+        if item["repeat_of"] is not None:
+            if item["unexpected_pl_on_repeat"]:
+                report.errors.append(
+                    f"{source_name}: element {seq} jest powtórzeniem elementu {item['repeat_of']} — nie wpisuj w nim PL:"
+                )
+                continue
+        elif item["pl_line"] is None:
+            report.errors.append(f"{source_name}: element {seq} nie ma linii PL:")
+            continue
+
         kr_leaves = ref.leaves("kr", logical_file)
         en_leaves = ref.leaves("en", logical_file)
         missing_addrs = [a for a in addrs if a not in kr_leaves and a not in en_leaves]
         if missing_addrs:
-            report.errors.append(
-                f"{source_name}: element {seq} wskazuje nieistniejący adres w {logical_file}: {missing_addrs[0]}"
-            )
-            continue
+            if allow_older_package:
+                present_addrs = [a for a in addrs if a in kr_leaves or a in en_leaves]
+                if not present_addrs:
+                    if item["repeat_of"] is None and item["pl_line"]:
+                        resolved_pl_by_seq[seq] = item["pl_line"]
+                        report.warnings.append(
+                            ImportWarningItem(
+                                source_name,
+                                seq,
+                                f"pominięto usunięty adres w {logical_file}: {missing_addrs[0]}",
+                            )
+                        )
+                    elif item["repeat_of"] is None:
+                        report.untranslated_items += 1
+                    continue
+                addrs = present_addrs
+            else:
+                report.errors.append(
+                    f"{source_name}: element {seq} wskazuje nieistniejący adres w {logical_file}: {missing_addrs[0]}"
+                )
+                continue
 
         first_addr = addrs[0]
         kr_raw = kr_leaves.get(first_addr, "")
@@ -864,17 +958,26 @@ def _parse_views_file(
         else:
             expected_head = src_enc if src_enc else ref_enc
         if item["head_text"] != expected_head:
+            if allow_older_package:
+                if item["repeat_of"] is None and item["pl_line"]:
+                    resolved_pl_by_seq[seq] = item["pl_line"]
+                    report.warnings.append(
+                        ImportWarningItem(
+                            source_name,
+                            seq,
+                            f"{logical_file}: zmienił się tekst źródłowy w nowszym buildzie — element pominięty, użyj pakietu przyrostowego",
+                        )
+                    )
+                elif item["repeat_of"] is None:
+                    report.untranslated_items += 1
+                continue
             report.errors.append(
                 f"{source_name}: element {seq} ma zmieniony tekst źródłowy ({item['head_text']!r} != {expected_head!r})"
             )
             continue
 
+        en_mismatch = False
         if item["repeat_of"] is not None:
-            if item["unexpected_pl_on_repeat"]:
-                report.errors.append(
-                    f"{source_name}: element {seq} jest powtórzeniem elementu {item['repeat_of']} — nie wpisuj w nim PL:"
-                )
-                continue
             primary_seq = item["repeat_of"]
             if primary_seq not in resolved_pl_by_seq:
                 continue
@@ -882,13 +985,11 @@ def _parse_views_file(
             is_repeat = True
         else:
             expected_en_line = ref_enc or "(brak wersji angielskiej)"
-            if item["en_line"] != expected_en_line:
+            en_mismatch = item["en_line"] != expected_en_line
+            if en_mismatch and not allow_older_package:
                 report.errors.append(
                     f"{source_name}: element {seq} ma zmienioną linię EN ({item['en_line']!r} != {expected_en_line!r})"
                 )
-                continue
-            if item["pl_line"] is None:
-                report.errors.append(f"{source_name}: element {seq} nie ma linii PL:")
                 continue
             if not item["pl_line"]:
                 report.untranslated_items += 1
@@ -896,6 +997,14 @@ def _parse_views_file(
             pl_encoded = item["pl_line"]
             resolved_pl_by_seq[seq] = pl_encoded
             is_repeat = False
+            if en_mismatch and allow_older_package:
+                report.warnings.append(
+                    ImportWarningItem(
+                        source_name,
+                        seq,
+                        f"{logical_file}: zmieniła się referencja EN w nowszym buildzie",
+                    )
+                )
 
         pl_decoded = decode_view_text(pl_encoded)
         tok_errs = validate_tokens(pl_decoded, kr_raw, en_raw, ref.known_kw_ids, logical_file)
@@ -916,6 +1025,10 @@ def _parse_views_file(
         if item["glossary_kind"]:
             gkind = item["glossary_kind"]
             gkey = f"{src_enc}\t{ref_enc}"
+            if en_mismatch and allow_older_package:
+                existing_vg = store.view_glossary.get(gkind, {}).get(gkey)
+                if existing_vg and existing_vg.get("en_sha256") == sha256_text(en_raw):
+                    continue
             store.view_glossary.setdefault(gkind, {})[gkey] = {
                 "src": src_enc,
                 "ref": ref_enc,
@@ -929,15 +1042,22 @@ def _parse_views_file(
                 report.translated_items += 1
             report.view_glossary_updated += 1
         else:
+            wrote_any = False
             for addr in addrs:
                 a_kr = kr_leaves.get(addr, "")
                 a_en = en_leaves.get(addr, "")
+                if allow_older_package and en_mismatch:
+                    existing_leaf = store.get_leaf(logical_file, addr)
+                    if existing_leaf and existing_leaf.get("en_sha256") == sha256_text(a_en):
+                        continue
                 store.set_leaf(logical_file, addr, pl_decoded, a_kr, a_en)
                 report.addresses_updated += 1
-            if is_repeat:
-                report.inherited_repeats += 1
-            else:
-                report.translated_items += 1
+                wrote_any = True
+            if wrote_any:
+                if is_repeat:
+                    report.inherited_repeats += 1
+                else:
+                    report.translated_items += 1
 
 
 def import_returns(
@@ -946,6 +1066,7 @@ def import_returns(
     story_index_path: Path = ROOT / "wiedza" / "indeks_fabuly.json",
     index_manifest_path: Path = ROOT / "index" / "MANIFEST.json",
     tlumaczenie_dir: Path = ROOT / "tlumaczenie",
+    allow_older_package: bool = False,
 ) -> ImportReport:
     """Validate and atomically import translator Markdown returns into ``tlumaczenie_dir``."""
     markdown_files = collect_markdown_inputs(inputs)
@@ -966,11 +1087,11 @@ def import_returns(
         for source_name, content in markdown_files:
             base_name = PurePosixPath(source_name).name.lower()
             if base_name == "mowcy-i-miejsca.md" or content.startswith("# Mówcy, tytuły i miejsca"):
-                _parse_story_glossary_file(source_name, content, ref, store, report)
+                _parse_story_glossary_file(source_name, content, ref, store, report, allow_older_package=allow_older_package)
             elif SCENE_HEADING_RE.search(content) or "\n## Scena " in content:
-                _parse_story_scenes_file(source_name, content, ref, store, report)
+                _parse_story_scenes_file(source_name, content, ref, store, report, allow_older_package=allow_older_package)
             elif "   źródło: " in content or "   słownik: " in content:
-                _parse_views_file(source_name, content, ref, store, report)
+                _parse_views_file(source_name, content, ref, store, report, allow_older_package=allow_older_package)
             else:
                 report.errors.append(f"{source_name}: nierozpoznany układ pliku zwrotki")
 
@@ -991,6 +1112,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--index-manifest", type=Path, default=ROOT / "index" / "MANIFEST.json")
     parser.add_argument("--out", type=Path, default=ROOT / "tlumaczenie", help="katalog docelowy (domyślnie: tlumaczenie/)")
     parser.add_argument("--report", type=Path, help="opcjonalna ścieżka raportu JSON")
+    parser.add_argument(
+        "--allow-older-package",
+        action="store_true",
+        help="przyjmij zwrotkę ze starszego pakietu po aktualizacji gry (pomiń zmienione KR z ostrzeżeniem, zachowaj niezmienione KR)",
+    )
     args = parser.parse_args(argv)
 
     report = import_returns(
@@ -999,6 +1125,7 @@ def main(argv: list[str] | None = None) -> int:
         story_index_path=args.story_index,
         index_manifest_path=args.index_manifest,
         tlumaczenie_dir=args.out,
+        allow_older_package=args.allow_older_package,
     )
     if args.report:
         args.report.parent.mkdir(parents=True, exist_ok=True)

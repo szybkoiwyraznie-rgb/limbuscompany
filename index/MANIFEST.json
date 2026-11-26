@@ -1,17 +1,17 @@
 {
  "format": "lcb-index-v1",
  "localize": {
-  "zrodlo": "zbieracz LCB_DANE_20261125_190908_2e6403.zip (build Steam 26652290, SHA-256 169c774e771dcb58f5bcd0fb2a57b230d179b2921a959aab285a49d403036f90)",
+  "zrodlo": "zbieracz LCB_DANE_20261126_094359_ef145d.zip (build Steam 26917622, SHA-256 28f53cdbd6bd8b144ff48a5dd84ecd76bbcea5e90bdbf44db24069f005badfa8)",
   "jezyki": {
    "kr": {
-    "pliki": 2449,
-    "bajty": 25222309,
-    "sha256": "7adf1c1861d150e5bb8cd6508f434702cff6ae751dfe1f97985ee069183ef832"
+    "pliki": 2464,
+    "bajty": 24886012,
+    "sha256": "54c9f37d1477f584fe95f3b85eb5ee6c9d4d5defe46a090d9ccbf9b2c7fae6e2"
    },
    "en": {
-    "pliki": 2406,
-    "bajty": 26225485,
-    "sha256": "12c225b050c262b45c57c39de51816d1128d05273f7947518e41f3bdec2f892b"
+    "pliki": 2421,
+    "bajty": 25781011,
+    "sha256": "d10485fb3a8e49cbc48f8f2b12de9bf527097997f8df18ef5cf5d2b53aee9c10"
    }
   }
  },

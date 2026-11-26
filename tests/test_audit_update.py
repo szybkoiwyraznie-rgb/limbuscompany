@@ -269,6 +269,181 @@ class AuditUpdateTests(unittest.TestCase):
         self.assertEqual(store_after.files["MainUIText.json"]["dataList[id=btn_edit].content"]["pl"], "Po zmianie PL")
         self.assertEqual(store_after.files["MainUIText.json"]["dataList[id=btn_new].content"]["pl"], "Nowy przycisk PL")
 
+    def test_incremental_items_scope_excludes_unchanged_items_and_groups_new_identity(self) -> None:
+        # Build a patch ZIP adding a brand-new Sinner 01 Identity 10199 (story + card + skill + passive + voice)
+        # and modifying one item in MainUIText while leaving btn_keep untouched (with empty tlumaczenie/).
+        patch_zip = self.root / "LCB_DANE_patch.zip"
+        members: dict[str, object] = {
+            "RAPORT.json": {"game": {"steam": {"buildid": "100300"}}},
+        }
+        for lang in ("kr", "en"):
+            p = f"{lang.upper()}_"
+            pref = f"Localize/{lang}"
+            members[f"{pref}/StoryData/{p}S001B.json"] = {"dataList": [
+                {"id": 0, "teller": "Guide", "content": "Unchanged line kr" if lang == "kr" else "Unchanged line en"},
+                {"id": 1, "teller": "Guide", "content": "Old line kr" if lang == "kr" else "Old line en"},
+            ]}
+            members[f"{pref}/StoryData/{p}S101B.json"] = {"dataList": [
+                {"id": 0, "teller": "Scout", "content": "Untouched chapter kr" if lang == "kr" else "Untouched chapter en"},
+            ]}
+            members[f"{pref}/StoryData/{p}P10199.json"] = {"dataList": [
+                {"id": 0, "teller": "FreshSpeakerKr" if lang == "kr" else "FreshSpeakerEn",
+                 "content": "Identity story kr" if lang == "kr" else "Identity story en"},
+            ]}
+            members[f"{pref}/{p}MainUIText.json"] = {"dataList": [
+                {"id": "btn_keep", "content": "Keep kr" if lang == "kr" else "Keep en"},
+                {"id": "btn_edit", "content": "Before kr" if lang == "kr" else "Edited EN only"},
+                {"id": "btn_drop", "content": "Drop kr" if lang == "kr" else "Drop en"},
+                {"id": "btn_added", "content": "Added kr" if lang == "kr" else "Added en"},
+            ]}
+            members[f"{pref}/{p}ObsoleteUI.json"] = {"dataList": [
+                {"id": "obs_1", "content": "Gone kr" if lang == "kr" else "Gone en"},
+            ]}
+            members[f"{pref}/{p}Personalities.json"] = {"dataList": [
+                {"id": 10199, "title": "Invented Title", "name": "Hero", "desc": "Invented desc"},
+            ]}
+            members[f"{pref}/{p}Skills_personality-01.json"] = {"dataList": [
+                {"id": 1019901, "levelList": [{"level": 1, "name": "Invented Skill", "desc": "Skill desc"}]},
+            ]}
+            members[f"{pref}/{p}Passives.json"] = {"dataList": [
+                {"id": 1019901, "name": "Invented Passive", "desc": "Passive desc"},
+            ]}
+            members[f"{pref}/PersonalityVoiceDlg/{p}Voice_Hero_10199.json"] = {"dataList": [
+                {"id": "v1", "desc": "Cue", "dlg": "Voice line"},
+            ]}
+            members[f"{pref}/{p}StageChapterText.json"] = {"dataList": [
+                {"id": "chapter_a_100", "chapter": "Ch1", "chaptertitle": "First"},
+                {"id": "chapter_b_200", "chapter": "Ch2", "chaptertitle": "Second"},
+            ]}
+            members[f"{pref}/{p}StageNode1-1.json"] = {"dataList": []}
+            members[f"{pref}/{p}StoryTheaterMain.json"] = {"dataList": []}
+            members[f"{pref}/{p}ScenarioModelCodes-AutoCreated.json"] = {"dataList": []}
+            members[f"{pref}/{p}Characters.json"] = {"dataList": [{"id": 1, "name": "Hero"}]}
+
+        with zipfile.ZipFile(patch_zip, "w", compression=zipfile.ZIP_DEFLATED) as zf:
+            for m_name, obj in sorted(members.items()):
+                zf.writestr(m_name, json.dumps(obj, ensure_ascii=False, indent=2) + "\n")
+
+        empty_tlum = self.root / "empty_tlum"
+        delta_dir = self.root / "delta_items"
+        with contextlib.redirect_stdout(io.StringIO()):
+            rc = audit_update.main([
+                "--old", str(self.old_snap),
+                "--new", str(patch_zip),
+                "--tlumaczenie", str(empty_tlum),
+                "--index", str(self.story_index_path),
+                "--static-data", str(self.sd),
+                "--delta-out", str(delta_dir),
+                "--delta-scope", "items",
+            ])
+        self.assertEqual(rc, 0)
+
+        inc_zip = delta_dir / "pakiet_przyrostowy_100100_do_100300.zip"
+        self.assertTrue(inc_zip.is_file())
+        with zipfile.ZipFile(inc_zip) as dz:
+            self.assertIn("README.md", dz.namelist())
+            sceny_raw = dz.read("sceny.zip")
+            widoki_raw = dz.read("widoki.zip")
+
+        with zipfile.ZipFile(io.BytesIO(sceny_raw)) as sz:
+            sceny_mds = {n: sz.read(n).decode("utf-8") for n in sz.namelist()}
+        with zipfile.ZipFile(io.BytesIO(widoki_raw)) as wz:
+            widoki_mds = {n: wz.read(n).decode("utf-8") for n in wz.namelist()}
+
+        # P10199 must be placed in identity-01.md (not pozostale.md), and untouched S001B/S101B omitted!
+        self.assertIn("identity-01.md", sceny_mds)
+        self.assertNotIn("pozostale.md", sceny_mds)
+        self.assertFalse(any(n.startswith("01_") or n.startswith("02_") for n in sceny_mds))
+        # Story glossary contains ONLY FreshSpeakerKr, NOT Guide or Scout!
+        self.assertIn("FreshSpeakerKr", sceny_mds["mowcy-i-miejsca.md"])
+        self.assertNotIn("Guide", sceny_mds["mowcy-i-miejsca.md"])
+        self.assertNotIn("Scout", sceny_mds["mowcy-i-miejsca.md"])
+
+        # In widoki, MainUIText has ONLY btn_edit (EN changed) and btn_added (new) — NOT untouched btn_keep/btn_drop!
+        ui_md = widoki_mds[next(n for n in widoki_mds if n.startswith("08_interfejs"))]
+        self.assertIn("btn_edit", ui_md)
+        self.assertIn("btn_added", ui_md)
+        self.assertNotIn("btn_keep", ui_md)
+        self.assertNotIn("btn_drop", ui_md)
+
+        # Card + skill + passive + voice for 10199 are grouped together in Sinner 01 file, not spilled into 13_wspolne!
+        id01_md = widoki_mds[next(n for n in widoki_mds if n.startswith("02_tozsamosc_01"))]
+        self.assertIn("Passives.json :: dataList[id=1019901].name", id01_md)
+        self.assertFalse(any("13_wspolne" in n for n in widoki_mds))
+
+        # Verify strict import_returns compatibility on the rebuilt story_index + patch_zip!
+        with Snapshot.open(patch_zip) as ps:
+            idx_100300 = story_index.build(StaticData(self.sd), ps)
+        idx_100300_path = self.root / "indeks_100300.json"
+        _write_json(idx_100300_path, idx_100300)
+        man_100300 = self.root / "MAN_100300.json"
+        _write_json(man_100300, {"localize": {"buildid": "100300"}})
+
+        # Also test cross-build --allow-older-package: import incremental translation first, then an older 100100 return!
+        zwrotka_inc = self.root / "zwrotka_inc"
+        zwrotka_inc.mkdir()
+        (zwrotka_inc / "ui.md").write_text(
+            ui_md.replace("   EN: Edited EN only\n   PL:", "   EN: Edited EN only\n   PL: Nowy przekład po erracie EN"),
+            encoding="utf-8",
+        )
+        rep_inc = import_zwrotki.import_returns(
+            inputs=[inc_zip, zwrotka_inc],
+            localize_path=patch_zip,
+            story_index_path=idx_100300_path,
+            index_manifest_path=man_100300,
+            tlumaczenie_dir=empty_tlum,
+        )
+        self.assertEqual(rep_inc.errors, [])
+        self.assertEqual(rep_inc.warnings, [])
+
+        # Older 100100 package file has old EN ("Before en") on btn_edit and valid unchanged btn_keep
+        older_ui_md = (
+            "# Interfejs\n\n## Interfejs\n\n"
+            "1. [Tekst] Keep kr\n"
+            "   źródło: MainUIText.json :: dataList[id=btn_keep].content\n"
+            "   limit: do 40 znaków\n"
+            "   EN: Keep en\n"
+            "   PL: Zachowany ze starego pakietu\n"
+            "2. [Tekst] Before kr\n"
+            "   źródło: MainUIText.json :: dataList[id=btn_edit].content\n"
+            "   limit: do 40 znaków\n"
+            "   EN: Before en\n"
+            "   PL: Starszy przekład przed erratą EN\n"
+        )
+        older_md_path = self.root / "older_ui.md"
+        older_md_path.write_text(older_ui_md, encoding="utf-8")
+
+        # Strict mode rejects the older EN line:
+        rep_strict = import_zwrotki.import_returns(
+            inputs=[older_md_path],
+            localize_path=patch_zip,
+            story_index_path=idx_100300_path,
+            index_manifest_path=man_100300,
+            tlumaczenie_dir=empty_tlum,
+        )
+        self.assertEqual(len(rep_strict.errors), 1)
+
+        # --allow-older-package accepts btn_keep, warns on btn_edit, and preserves the newer delta translation!
+        rep_compat = import_zwrotki.import_returns(
+            inputs=[older_md_path],
+            localize_path=patch_zip,
+            story_index_path=idx_100300_path,
+            index_manifest_path=man_100300,
+            tlumaczenie_dir=empty_tlum,
+            allow_older_package=True,
+        )
+        self.assertEqual(rep_compat.errors, [])
+        self.assertEqual(len(rep_compat.warnings), 1)
+        final_store = import_zwrotki.TranslationStore.load(empty_tlum)
+        self.assertEqual(
+            final_store.files["MainUIText.json"]["dataList[id=btn_keep].content"]["pl"],
+            "Zachowany ze starego pakietu",
+        )
+        self.assertEqual(
+            final_store.files["MainUIText.json"]["dataList[id=btn_edit].content"]["pl"],
+            "Nowy przekład po erracie EN",
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

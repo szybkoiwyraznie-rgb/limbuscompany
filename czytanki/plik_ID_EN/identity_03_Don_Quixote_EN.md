@@ -2848,7 +2848,7 @@ Upon entering the Encounter for the first time, gain 25 [Blessing of the Obsidia
 When consuming [Preservation] Count, or when gaining [Preservation] Count past its max cap, gain ([Preservation] Count consumed or surplus [Preservation] Count x 5) [Blessing of the Obsidian God] (max 30 per turn)  
   
 When an allied Identity that has Shield is hit, this unit gains 2 [Blessing of the Obsidian God] (max 10 per turn)  
-- If the said allied Identity is a [Charge Identity], gain 5 [Blessing of the Obsidian God] instead
+- If the said allied Identity is a [Charge ID], gain 5 [Blessing of the Obsidian God] instead
 
 #### Pasywka bojowa: The Lord's Will and Values Be With Us...
 
@@ -2860,7 +2860,7 @@ On the final Coin Start of a Base Skill, the said Coin gains Final Power +([Pres
   
 If this unit has [Sanctum of Conservation], Base Skill 1/2/3 gains Clash Power +1/+2/+3  
   
-When [Tremor Burst] triggers on a target that has [Promised Nail], this unit and 1 other allied [Charge Identity] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)
+When [Tremor Burst] triggers on a target that has [Promised Nail], this unit and 1 other allied [Charge ID] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)
 
 #### Pasywka bojowa: Malleus Promissionis
 
@@ -2885,7 +2885,7 @@ Upon entering the Encounter for the first time, gain 25 [Blessing of the Obsidia
 When consuming [Preservation] Count, or when gaining [Preservation] Count past its max cap, gain ([Preservation] Count consumed or surplus [Preservation] Count x 5) [Blessing of the Obsidian God] (max 30 per turn)  
   
 When an allied Identity that has Shield is hit, this unit gains 2 [Blessing of the Obsidian God] (max 10 per turn)  
-- If the said allied Identity is a [Charge Identity], gain 5 [Blessing of the Obsidian God] instead
+- If the said allied Identity is a [Charge ID], gain 5 [Blessing of the Obsidian God] instead
 
 #### Pasywka bojowa: The Lord's Will and Values Be With Us...
 
@@ -2897,7 +2897,7 @@ On the final Coin Start of a Base Skill, the said Coin gains Final Power +([Pres
   
 If this unit has [Sanctum of Conservation], Base Skill 1/2/3 gains Clash Power +1/+2/+3  
   
-When [Tremor Burst] triggers on a target that has [Promised Nail], this unit and 1 other allied [Charge Identity] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)
+When [Tremor Burst] triggers on a target that has [Promised Nail], this unit and 1 other allied [Charge ID] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)
 
 #### Pasywka bojowa: Obsidian Covenant
 
@@ -2930,7 +2930,7 @@ Upon entering the Encounter for the first time, gain 25 [Blessing of the Obsidia
 When consuming [Preservation] Count, or when gaining [Preservation] Count past its max cap, gain ([Preservation] Count consumed or surplus [Preservation] Count x 5) [Blessing of the Obsidian God] (max 30 per turn)  
   
 When an allied Identity that has Shield is hit, this unit gains 2 [Blessing of the Obsidian God] (max 10 per turn)  
-- If the said allied Identity is a [Charge Identity], gain 5 [Blessing of the Obsidian God] instead
+- If the said allied Identity is a [Charge ID], gain 5 [Blessing of the Obsidian God] instead
 
 #### Pasywka bojowa: The Lord's Will and Values Be With Us...
 
@@ -2942,7 +2942,7 @@ On the final Coin Start of a Base Skill, the said Coin gains Final Power +([Pres
   
 If this unit has [Sanctum of Conservation], Base Skill 1/2/3 gains Clash Power +1/+2/+3  
   
-When [Tremor Burst] triggers on a target that has [Promised Nail], this unit and 1 other allied [Charge Identity] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)
+When [Tremor Burst] triggers on a target that has [Promised Nail], this unit and 1 other allied [Charge ID] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)
 
 #### Pasywka bojowa: Obsidian Covenant
 
@@ -2956,7 +2956,7 @@ This unit's Base Attack Skills deal +([Preservation] Potency on self x 6)% damag
 
 *od ulepszenia 3; posiadane 2× Envy, posiadane 2× Sloth*
 
-All allied [Charge Identity] take -2% damage this turn for every allied [Charge Identity] on the field at Combat Start (max -10%)
+All allied [Charge ID]s take -2% damage this turn for every allied [Charge ID] on the field at Combat Start (max -10%)
 
 #### Kwestie
 
