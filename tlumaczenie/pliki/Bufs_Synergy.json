@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=SynergyActivationConditions_ForthMatchFlame].desc": {
+      "pl": "- [4. Płomyk Zapałki] Yi Sang: Splot Nici na 5. stopniu\n- [4. Płomyk Zapałki] Ryōshū: Splot Nici na 5. stopniu\n- [4. Płomyk Zapałki] Rodion: Splot Nici na 5. stopniu",
+      "kr_sha256": "296db84761e9236faf8d0b8c9d8e26e430d0189d6c4868312fbff5b3a9fa6ddc",
+      "en_sha256": "f5f01229d30cff40092cd478ce51a5a5414c4c4c4d8fee26aeab14e440732d4d",
+      "origin": "ai"
+    },
+    "dataList[id=SynergyActivationConditions_ForthMatchFlame].name": {
+      "pl": "Warunki Aktywacji Synergii",
+      "kr_sha256": "93b23209d1c3b1e6453df8c3c9017785ad03fe01dc160b0b1678c299715d3304",
+      "en_sha256": "20f2049e3380905a892a76ae688a53bd1c7f83a5e6752a47e047cb95293676fc",
+      "origin": "ai"
+    }
+  }
+}
