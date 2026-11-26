@@ -1,0 +1,214 @@
+{
+  "entries": {
+    "dataList[id=10].content": {
+      "pl": "Wielokrotne pokonanie tej samej Anomalii podnosi jej Poziom Obserwacji, zwiększając zadawane jej obrażenia.",
+      "kr_sha256": "be2952de5c81a8e019566e1d32e5f158ca7be85780771d10352739d368c78a12",
+      "en_sha256": "8b7165fa9298c316272a78617482bc0fe8f06c498015c81b896d659966e4feab",
+      "origin": "ai"
+    },
+    "dataList[id=11].content": {
+      "pl": "Umiejętność wymagająca zasobów zostanie anulowana, jeśli zabraknie wymaganej ich liczby.",
+      "kr_sha256": "658ee45fce562689a13d6e79a1b36a6e27a67ed4e053f5ba0946d2abe4c069a4",
+      "en_sha256": "78ba0e3461062c02eae3aa4232fcfb097013c06172b206f783ebb6f5ce60319c",
+      "origin": "ai"
+    },
+    "dataList[id=12].content": {
+      "pl": "Co turę Szybkość jest losowana z przedziału od wartości minimalnej do maksymalnej.",
+      "kr_sha256": "25a60b783c1fa36c177a6a21a83d6f048484066f754eb06919f00de23589054b",
+      "en_sha256": "52386b583135099057c50027caf425da4e7dcc05b7e194fc10b877fe8c090ff5",
+      "origin": "ai"
+    },
+    "dataList[id=13].content": {
+      "pl": "Ustawienie sojuszników i wrogów w szyku bojowym zależy od ich Szybkości.",
+      "kr_sha256": "ca46658309ded2f79256c1ad94a0f3e26c3117098f3023c38ea04703b8e932b0",
+      "en_sha256": "18c2dc0ea28b4cd9379bd44dca8b1923bb74eba1c874e16f269b140ed4b46118",
+      "origin": "ai"
+    },
+    "dataList[id=14].content": {
+      "pl": "Na początku walki Tożsamość przyjmuje odporności na Grzechy z najniższej rangi wyposażonego E.G.O.",
+      "kr_sha256": "de40eca40dbdab378296a4c3050a43cacd2a4f1925f30eba8aebd987d1581c2b",
+      "en_sha256": "ed6beec77ae5a6f28c7e4178f258a54c14fd520e06f5104c2f31b3ef350a240c",
+      "origin": "ai"
+    },
+    "dataList[id=15].content": {
+      "pl": "Po użyciu E.G.O odporności na Grzechy zostają zaktualizowane do najwyższych wartości spośród użytego i bieżącego E.G.O.",
+      "kr_sha256": "56f605ad6f23f0fa4a5050d12cd8146de53b72a82e0e138624b04210c8f0d2cb",
+      "en_sha256": "df5d65d7e3842831a8e4fec8b0dde100e2ba2dfc4fdbf5e2083b2684b9af1072",
+      "origin": "ai"
+    },
+    "dataList[id=16].content": {
+      "pl": "Wygenerowana umiejętność obrony zastępuje umiejętność lub E.G.O na samym dole kolumny Grzesznika.",
+      "kr_sha256": "317f4e550dee2ae310751b9a3065b70ef845953e4791f6cb5edb45e8e129a9c7",
+      "en_sha256": "33a8eadad7d7be9e1417e442e8b22bb0a7b84f5720f735fb0ed29f88122470e1",
+      "origin": "ai"
+    },
+    "dataList[id=17].content": {
+      "pl": "Anulowanie użycia E.G.O przed rozpoczęciem walki zwraca zużyte zasoby.",
+      "kr_sha256": "c60a4f2c8d58e10a562a1faa3773ba524e12eb60bf77b4d520c9c2a72ac33a7d",
+      "en_sha256": "6c8477ae4075997cbcf18ed43b3aa068fd894bce88317258fd2a8d56be31bd4f",
+      "origin": "ai"
+    },
+    "dataList[id=18].content": {
+      "pl": "Połączenie co najmniej 2 umiejętności tego samego Grzechu wyzwala Rezonans Grzechu, wzmacniając ataki.",
+      "kr_sha256": "7312aea2147256a09cf13e1138d890350b73894018c68de1e2921192c01640bf",
+      "en_sha256": "5a47bd898f74cf6927b7822236907e8bcf69e55881035f959d925152ee60ede2",
+      "origin": "ai"
+    },
+    "dataList[id=19].content": {
+      "pl": "Połączenie pod rząd co najmniej 3 umiejętności tego samego Grzechu wyzwala Pełny Rezonans, jeszcze mocniej wzmacniając ataki.",
+      "kr_sha256": "ec6782d8b75031d8c29f7ce38aa9436557e6b26788d85ce80c61c8bdd3e4adfc",
+      "en_sha256": "d85674a30c1541603829b7cdb55c9bdde2276534587231f02856d6b185bedb55",
+      "origin": "ai"
+    },
+    "dataList[id=1].content": {
+      "pl": "Odebranie nagród po ukończeniu Lustrzanego Lochu wymaga zużycia Modułów Enkefaliny.",
+      "kr_sha256": "aca822c3b2840484378ec128a4acc6becb7a0e7318eee4047e5f6583f48dc801",
+      "en_sha256": "bc5391ab4e4aeb049069019ca9537f4f8e8e86c98623598f5d89b54b60e48a71",
+      "origin": "ai"
+    },
+    "dataList[id=20].content": {
+      "pl": "Im więcej wymian w Starciu, tym większe obrażenia końcowe zada zwycięzca.",
+      "kr_sha256": "6a379eefecdcff48621677c9ddca3c984d1b2b6e4c12ff4f9e75b68891d73394",
+      "en_sha256": "4bdd03cd423e8aebf9b1e86acdeab5f44beaca68a3ca94a26da6d1828592284c",
+      "origin": "ai"
+    },
+    "dataList[id=21].content": {
+      "pl": "Gdy PŻ spadną poniżej progu Oszołomienia, odporności fizyczne stają się Podatne, a postać traci możliwość działania do końca kolejnej tury.",
+      "kr_sha256": "f3033bf956b3eba69936ddf1a3895f0d5a3cae8d20f06f4942a556dc1191ad58",
+      "en_sha256": "59d87a2d9cc9367f5b6b81020ddac0a782e20ee7332731a0c56b9fa9e1aabe3a",
+      "origin": "ai"
+    },
+    "dataList[id=22].content": {
+      "pl": "W trakcie eksploracji lochu w punktach zapisu możesz uleczyć drużynę i zapisać postęp wyprawy.",
+      "kr_sha256": "8a2cd626d460f44c400b5b055f6a462ec5adc3a01ce9a6d62b9c241e16be5ab1",
+      "en_sha256": "008b68ccdf21f190ea46e60932624c25ad00b26f59fb90aabbed479d025d7bd4",
+      "origin": "ai"
+    },
+    "dataList[id=23].content": {
+      "pl": "Każda Tożsamość posiada pasywkę bojową oraz pasywkę wsparcia.",
+      "kr_sha256": "5b39d8b59d751b195215cd7742e061f83f6f1199f0edfb3d29230c81fa686eb0",
+      "en_sha256": "03c051826f01e55585ea1357a55308558e2272809be70b8d2e417efc8cbfc39e",
+      "origin": "ai"
+    },
+    "dataList[id=24].content": {
+      "pl": "Tożsamości biorące bezpośredni udział w walce korzystają ze swoich pasywek bojowych.",
+      "kr_sha256": "02193b964d5ececda7d9cbf1045eaeff564603538120b4bc30249ffbb0133655",
+      "en_sha256": "574e2c1538eaf8149fbccac1b02611792f04e61de0673eb5bc90c145f330c016",
+      "origin": "ai"
+    },
+    "dataList[id=25].content": {
+      "pl": "Pasywki Tożsamości niewystawionych do walki działają jako pasywki wsparcia.",
+      "kr_sha256": "16dc685a4ba9ece3b04b26844bce3f4ae88e74121eab557725cb4fc7c4739870",
+      "en_sha256": "e2beea283a3d1891b8b9fec6afabbd00ccd29b7078d88e2d683970474680db35",
+      "origin": "ai"
+    },
+    "dataList[id=26].content": {
+      "pl": "Poszczególne części Anomalii różnią się odpornościami oraz używanymi umiejętnościami.",
+      "kr_sha256": "64cff075b1b8513e5fac99d549fde5c8d390f6ba08659e98f157a7458245b5c6",
+      "en_sha256": "f0f4f7ca989dfdec32e0ec775374b3dbd208930f8718b0e0c2763726449cc54d",
+      "origin": "ai"
+    },
+    "dataList[id=27].content": {
+      "pl": "Podczas starć skupionych mogą pojawić się wydarzenia wymagające wyboru — w zależności od wyniku można uzyskać rozmaite efekty lub Dary E.G.O.",
+      "kr_sha256": "eee4477e3ef831c4cfbfc9d6e747b66ccf95526c92dd80471c920b9cd71b2482",
+      "en_sha256": "44928ba8595fad822bbe633726edaefb2ce83ffc4f1538dd349cfd02c3269b50",
+      "origin": "ai"
+    },
+    "dataList[id=28].content": {
+      "pl": "Test w wydarzeniu może zakończyć się powodzeniem nawet bez wymaganego Grzechu.",
+      "kr_sha256": "74d925be11b917cc3c454746fe9182cce42a32c7c76b52ce3894018606bd8cc5",
+      "en_sha256": "8f01bb1fae846fbc3d7f378d45ef738363717718dcf8ecc46e94bc0a60175cdd",
+      "origin": "ai"
+    },
+    "dataList[id=29].content": {
+      "pl": "Podczas eksploracji lochu Dary E.G.O można zdobywać zarówno z wydarzeń, jak i z walk.",
+      "kr_sha256": "5073fd978fa736eb78eaa3fe7db9a73276f2c400f5bf0b342abad003f786191a",
+      "en_sha256": "f43ddcc3d5c769b15415b15a45b1c52fb835a9005e32e8048080abec45c9d917",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Każda umiejętność posiada co najmniej 1 monetę.",
+      "kr_sha256": "37e1ba72de730498f3bc04989fb4029c46026c0d18234fddb47eb345ac81e28a",
+      "en_sha256": "0ce4f478e9347be1bfa4bc9d64901e8d1fac1a8862edaef034f36e9738ed5d4d",
+      "origin": "ai"
+    },
+    "dataList[id=30].content": {
+      "pl": "Gdy wróg wyczerpie Poczytalność i popadnie w Panikę, otrzymuje negatywne efekty.",
+      "kr_sha256": "d7fa759ef2cdee8c5db5fe44061747123ca83718826a24e75d113e61c1dd2cf6",
+      "en_sha256": "9d841cca80d1c209a7cd3dda1a0666ab5fdfeb7d831092aed8858193aba0fa4f",
+      "origin": "ai"
+    },
+    "dataList[id=31].content": {
+      "pl": "Jeśli PŻ Oszołomionej postaci spadną poniżej kolejnego progu Oszołomienia, otrzyma ona dodatkowe obrażenia.",
+      "kr_sha256": "8bff6055fb70fc9a6ef364cb3737a47204217811f4ea0fbb831a24a3df2311d5",
+      "en_sha256": "a3bf57e40a95f0f1a66a03693b4f4c1d0042213557d89cd104a0847146a66908",
+      "origin": "ai"
+    },
+    "dataList[id=32].content": {
+      "pl": "Licznik efektu statusu wskazuje liczbę tur jego trwania lub liczbę pozostałych aktywacji.",
+      "kr_sha256": "2159f32dab1ca4d347485d9dd6baae85af9e35db7a2ea612b6dbc4634ee8501d",
+      "en_sha256": "c96e64635e0ffb23c9d15857bda4a19c7a91e3b59cfb353c00bbd41fefc3c66a",
+      "origin": "ai"
+    },
+    "dataList[id=33].content": {
+      "pl": "Umiejętności E.G.O są generowane od samego dołu kolumny Grzesznika na panelu dowodzenia.",
+      "kr_sha256": "b082904eb1173f95b46bf6d20cbded580d9b5131c12ecee285c58f74f6dcaae1",
+      "en_sha256": "46508a18891bebb838f9e5d7afa67fa213563ddfa7d2e28c4f5c1c6f42c69a36",
+      "origin": "ai"
+    },
+    "dataList[id=34].content": {
+      "pl": "Gdy dwie postacie zaatakują się nawzajem umiejętnościami ataku, dochodzi do Starcia.",
+      "kr_sha256": "42e0a20ff98af2123e2ddf6c261c8010ad0e51459ecda646db45970c7d4ce6a7",
+      "en_sha256": "f4aab22d33cf128ab230d5a5d966bb7529c4553ade34174f5cbf909cc7f8c460",
+      "origin": "ai"
+    },
+    "dataList[id=35].content": {
+      "pl": "Aktywacja pasywek bojowych i pasywek wsparcia wymaga połączenia lub posiadania zasobów określonych Grzechów.",
+      "kr_sha256": "22f2c419e0f15151ac7406bb46372c64376d958eb81f3159d2d9b6819beb75ef",
+      "en_sha256": "1f3b471aad1de7ab42aed245afb2dce387ea15f103b5d15fa4c299098a44bb7c",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "W zależności od tego, czy wypadnie awers, czy rewers, Moc monety wzrasta lub maleje.",
+      "kr_sha256": "38e476576913698ab6d3a16c486f7d47e56fb161d23a1d3d5157a1761ea96280",
+      "en_sha256": "79fc8fc60ff9abb6a76dd7bf57008db048776206710b8af307567c9f8779ce14",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Awers i rewers monety wpływają również na aktywację efektów umiejętności.",
+      "kr_sha256": "550fe6a7a8d6663e0e241fd3ba23a8efb5a730e2d9aa01390a5acc56219e8dca",
+      "en_sha256": "a9b5b4b08834a7485f8503e63b65cd897e66b437f646d14c74eb8c4151895c59",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Gdy Poczytalność spadnie poniżej określonego progu, postać popada w Panikę.",
+      "kr_sha256": "9bbb5b3c642a20166ae0e62488b4f4a57b019b4044117f1053e26a0042b8475e",
+      "en_sha256": "4c8ab66d4af97ef658e84e574e4033523b2974245925c50931c87e548dac6e41",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Grzesznik, którego Poczytalność spadnie do minimum, ulega Korozji E.G.O.",
+      "kr_sha256": "7f0b14a63df3bf7950ff7a5192c80eff3ea10d33cecd0b4c6b2eca83d88d0ae7",
+      "en_sha256": "a5b8dd8d6f16ae25899ef22678319fb2ff47b75889bf375b747286a78ca73c7e",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Uważaj — Grzesznik objęty Korozją E.G.O atakuje na oślep zarówno wrogów, jak i sojuszników.",
+      "kr_sha256": "93a98484fca34d402636906d281107f66c6bf56c14df6617993e63314279d7db",
+      "en_sha256": "412155d918c3ad62f5bb97e841a32084dcd66e5d5b162a8b3c80f1a70fece1db",
+      "origin": "ai"
+    },
+    "dataList[id=8].content": {
+      "pl": "Nasilenie efektu statusu określa wielkość zadawanych przez niego obrażeń.",
+      "kr_sha256": "02efb57082610ebfa85c5879ce16309ff6a2ec22b4cef953a124d62a26d49d49",
+      "en_sha256": "cae862d5828e40c1b32b317b49ea3d1ef6ea4b2a3907ca74148157a49678b7db",
+      "origin": "ai"
+    },
+    "dataList[id=9].content": {
+      "pl": "Użyte ikony umiejętności (Grzechów) gromadzą się jako zasoby E.G.O potrzebne do wyzwalania E.G.O.",
+      "kr_sha256": "6a33d26ca6ac6427af4687d1683babe026957f0406ec9db960ad0e6d523e1ca3",
+      "en_sha256": "d10e66a38b02143575a4df7f1758a4b9ca3759210df7c541cfc5392ca171bd57",
+      "origin": "ai"
+    }
+  }
+}

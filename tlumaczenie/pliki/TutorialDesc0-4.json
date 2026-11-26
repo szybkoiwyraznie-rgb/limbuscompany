@@ -1,0 +1,370 @@
+{
+  "entries": {
+    "dataList[id=tutorial_401_01].content": {
+      "pl": "Każda postać dysponuje określonym „zestawem umiejętności”.",
+      "kr_sha256": "d3c3e2e7571b6dbdf211fb99175b4b66a57f376ff5b970b6e0eac7526839f792",
+      "en_sha256": "46e970af7c3b9a477871e2ff4e6cdbe48ba0298716f40322adee8d2b2acde9ab",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_401_02].content": {
+      "pl": "Naciśnij postać, aby otworzyć okno jej informacji.",
+      "kr_sha256": "82cbebabad8f53713b9303d8867206eea144c51a46c6d69c1188104bf40ac801",
+      "en_sha256": "74fb91717d9384fa108e96a7c21b502376f16c9460c47d57fd7eb0bedde16aaa",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_401_03].content": {
+      "pl": "W oknie informacji sprawdzisz szczegóły dotyczące postaci, w tym jej umiejętności.",
+      "kr_sha256": "333bd30d02210e0c5f568e15a1b6a8831a48c8573bc40480f669b7b087fa3a69",
+      "en_sha256": "46df6dad3bf6b340609c8c1f914371e68ae0b9dad709a4df579eabd54acbcbef",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_401_04].content": {
+      "pl": "Zestaw umiejętności każdego Grzesznika ma ściśle określony skład.\nNa panelu dowodzenia losowo pojawiają się umiejętności pochodzące z tego zestawu.",
+      "kr_sha256": "344619f8e49e7cbadf68d63062570ae9be66191b26b672ad2dc5f235f9a76eaa",
+      "en_sha256": "5eba3cdf032c54df23373612b912e4babc05d68e5cae3bdd6f86cefe8dd13a14",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_401_05].content": {
+      "pl": "Raz użyta umiejętność zostaje odłożona z bieżącej puli\ni powróci dopiero po „wykorzystaniu wszystkich” pozostałych umiejętności z zestawu.",
+      "kr_sha256": "baecca6f129d9954f274c264539f5ccbca9c754cb5c1cb82199c5165251ec12a",
+      "en_sha256": "8bbb5512ba815cc17dd61f8f474c3b3190b497f5b53591c6bac96b4d1a91b0b4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_401_06].content": {
+      "pl": "Każda umiejętność ataku posiada ponadto Poziom Ataku.\nRóżnica Poziomów Ataku może zapewnić przewagę lub utrudnienie podczas Starcia.",
+      "kr_sha256": "15ad383208a9290d1540c841250ef4a65398af314d753733a8c7b040aab41629",
+      "en_sha256": "3bfbb48946b4e6e84f921605212ccd82589072060ccb80039e77966a4fa8b82d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_401_07].content": {
+      "pl": "Czy zasady działania umiejętności sojuszników są już jasne?\nWydaj teraz rozkazy.",
+      "kr_sha256": "a3804730230386461ecf1aa81e4ee9d6684f988a50947ebad8ec42571062d486",
+      "en_sha256": "dc214dc9150e4261157416178ff0dd8c6d2e4e6aaf62a973f50ce709d27cac0a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_402_01].content": {
+      "pl": "Oprócz umiejętności ataku Tożsamości posiadają również „Pasywki”.\nU Tożsamości biorących udział w walce aktywne są ich pasywki bojowe.",
+      "kr_sha256": "e9f68b7bb45b7c4d0b457d73b7bff971977a81daef1c1fb290cdeda96bd0d84a",
+      "en_sha256": "5bb0baec4e600ef451886b5fea18670a1aca545c67d2a5b8360afc18f2cbcf55",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_402_02].content": {
+      "pl": "Pasywki Tożsamości niewystawionych do walki działają jako pasywki wsparcia.",
+      "kr_sha256": "16dc685a4ba9ece3b04b26844bce3f4ae88e74121eab557725cb4fc7c4739870",
+      "en_sha256": "e2beea283a3d1891b8b9fec6afabbd00ccd29b7078d88e2d683970474680db35",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_402_03].content": {
+      "pl": "Aby aktywować pasywkę, połącz 2 umiejętności Grzechu Pychy.",
+      "kr_sha256": "e913dd9320804ee8f42127f65bd91d8ac67ae8085a05a76716cbd52a0fdaec48",
+      "en_sha256": "96a6a365c6d5c9ae33b3e7bb1888492d38ea81c6d0eec18873fe7888f5e60a4b",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_402_04].content": {
+      "pl": "Aktywne pasywki sprawdzisz w tym miejscu.\nPasywki uruchamiają się dzięki posiadanym zasobom lub wywołaniu Rezonansu na panelu dowodzenia.",
+      "kr_sha256": "1abbf31b056c2ed387bd08b34c98ea3797a86b27fe67530850f968efc35141bc",
+      "en_sha256": "4380d2420fbf52214cc61b184f0bce7ae5d976afc615f953946f1f3199f2f5ff",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_00].content": {
+      "pl": "Nadchodzące starcie składa się z kilku fal wrogów.",
+      "kr_sha256": "c229987ccf72c12affc69b8f49026126aed95b98b964df5d27129dcdbe18e314",
+      "en_sha256": "b1fbed041f4b543c103a4f1510edf6f66677fbac54d335ce1629de9e32e387ea",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_01].content": {
+      "pl": "Grzesznicy dysponują potężnymi umiejętnościami zwanymi „E.G.O”, manifestowanymi poprzez rezonans z emocjami.",
+      "kr_sha256": "3c328addf8c1aa672c45135cd30760eb3aafa93fcbb1998a19385574bff9eca5",
+      "en_sha256": "b65897a1ecbcdb5f78c27abb47e52b1893108fc788b76a510db570f0bdaa52eb",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_02].content": {
+      "pl": "Użycie „E.G.O” wymaga zasobów E.G.O.",
+      "kr_sha256": "44d69f91414a4753d1bdcaaaab9d086d8212c505962e267a0ee42363c368c86c",
+      "en_sha256": "e37a921b70d26ef5db5eb2174c4730e602076aad6cb9353d019c09fc72a1791d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_03].content": {
+      "pl": "Tutaj sprawdzisz aktualnie zgromadzone zasoby E.G.O.",
+      "kr_sha256": "01f81dd3f61e087fe4c9ab4577990aa3c4bc6105e0367bcc7315c33ecb727b01",
+      "en_sha256": "20a22b0325bdab86538bd89127f8f8b23cd61416140de4877f7073144ba50e70",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_04].content": {
+      "pl": "Ponieważ po raz pierwszy sięgasz po „E.G.O”, Kierowniku, zawczasu uzupełniłam zasoby E.G.O. To wyjątkowa moc, więc od tej pory gromadź je już samodzielnie.",
+      "kr_sha256": "162ea8562f334fca6042563acf0f776edd9f80b691100db9758886c02c07066b",
+      "en_sha256": "c80cf0eb8b758da0f034fea409272bab68b8df41e14fe4c3f33870c342e15b5c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_05].content": {
+      "pl": "Grzesznicy mogący użyć „E.G.O” są wyróżnieni w ten sposób.",
+      "kr_sha256": "e1894960319e3975f31dc64957892fad60224f0314258e301e1f803855e2ef97",
+      "en_sha256": "9691752ce5def46f3dce4d15cd25d4efb740bae07036ffbf764fdbe8657bdef4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_06].content": {
+      "pl": "„Umiejętności E.G.O” — podobnie jak umiejętności obrony — wymagają osobnego wygenerowania. Naciśnij i przytrzymaj to miejsce.",
+      "kr_sha256": "aeb7b99b55b9135e54b7933bf7c177153d9f1e398da84dbbd82a5eeeae069812",
+      "en_sha256": "1d8551167258046e1ea7db5ef1db3544d0fad6075b77e33ead4ac4e01859e75a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_06_New].content": {
+      "pl": "„Umiejętności E.G.O” — podobnie jak umiejętności obrony — wymagają osobnego wygenerowania. Naciśnij i przytrzymaj podświetlony portret.",
+      "kr_sha256": "9e6f2326a95a07b14d4bf2c597e8a2247e05e6d474e9eae0bc7051ba40beb838",
+      "en_sha256": "7e16a3f7cb1f4517afed6587ccd5bd4b2526394067ac23764d34edfa185588ba",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_07].content": {
+      "pl": "Naciśnij ikonę „E.G.O”, którego chcesz użyć. Wygenerowaną „umiejętność E.G.O” możesz anulować w ten sam sposób.",
+      "kr_sha256": "e5c8dbe04456d61df018c636b22d3f1a414f2b21936c97b6fd09cc9148693e03",
+      "en_sha256": "6cf60e4f9dde6c2e061debce8e87f2518ebf20fb82d617962cf87f2f2fe65254",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_07_1].content": {
+      "pl": "Zużyj zasoby E.G.O, aby wygenerować ikonę umiejętności E.G.O na panelu dowodzenia.",
+      "kr_sha256": "7f3b7bbe45fde40ebc265cc0e5ec9f7daa3f15d61dcc617aed6619126bc3dc2f",
+      "en_sha256": "c1bcb0b2f7a3e2befdcdead9510f4ad0c9953319804da151c4881826f912aede",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_07_2].content": {
+      "pl": "Dwukrotne dotknięcie portretu przy wygenerowanej umiejętności E.G.O usuwa jej ikonę i zwraca zużyte zasoby E.G.O.",
+      "kr_sha256": "d3045f89c1d82904d973182d4fcf7af413dcd01907cc8606bc74f9a963c8a047",
+      "en_sha256": "1883109c31dc405e435343d76623a99115d886d86afd4f9e94819316c443e1a2",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_07_New].content": {
+      "pl": "Naciśnij ikonę „E.G.O”, którego chcesz użyć.",
+      "kr_sha256": "9ed368cb99fdb8e86524ec9a9aa8d03121ad3b3d1697ce06b9c74351486a0cb9",
+      "en_sha256": "c9dc2c093dbb669cde3f581eea5029d188331685e6080ade614436ce292481e7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_08].content": {
+      "pl": "E.G.O to potężny ekwipunek manifestowany poprzez rezonans z emocjami Grzeszników.\nUżycie umiejętności E.G.O wymaga zasobów E.G.O.\nZa każdym razem, gdy w walce używasz umiejętności, gromadzisz zasób E.G.O odpowiadający jej Grzechowi.",
+      "kr_sha256": "da487945b3cbc08d449ca21da2f81947fceccb709b9931a52cb6b2080f927404",
+      "en_sha256": "5176df1e29b7c73fed7edbb1e82a31c05fcbcebb001188440da261187e29ae2e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_08_title].content": {
+      "pl": "E.G.O",
+      "kr_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "en_sha256": "ebc3586b236f5c313e5cf214096ae3f74af3f842e3599bdb314a694fbd174d52",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_09].content": {
+      "pl": "Użycie umiejętności E.G.O pochłania nie tylko zasoby E.G.O, ale także Poczytalność Grzesznika.\nWyzwolenie E.G.O przy niskiej Poczytalności\nmoże doprowadzić do „Korozji E.G.O”.\nGrzesznik objęty Korozją E.G.O nie słucha rozkazów Kierownika, dlatego stale kontroluj stan ich Poczytalności.",
+      "kr_sha256": "a252925b0f1038b1954dae7afee5d247f5ef5fefe4e7c75de55fb4c376927638",
+      "en_sha256": "48668725852d456d98709b1861ebae8cf3485b11e95f6424c93c79740fcd1082",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_09_title].content": {
+      "pl": "Korozja E.G.O",
+      "kr_sha256": "ea157f4771bd0669c96f4434dc261133e335abe24384a16f0967e978b3defa0e",
+      "en_sha256": "6d0a4600ddb5bb6b5d068194dd9f8cb92a193a04579491a240605857f9b6fc8b",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_10].content": {
+      "pl": "Od tury następującej po użyciu umiejętności E.G.O aż do końca danej walki działa pasywka tego E.G.O.\nKażde E.G.O oferuje odmienną pasywkę — rób z nich właściwy użytek.",
+      "kr_sha256": "8afdff7812ae9633e2cc43f7ba3de15a7a0383950608b946525d836494f95811",
+      "en_sha256": "a3ff470997ad47695567a65463f00c07e0e8800f909b47826c2209e74a769c35",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_10_title].content": {
+      "pl": "Pasywki E.G.O",
+      "kr_sha256": "ec80592416ab220bc6e5677c6927cfb80f540f34ecf3a725835b587a0db4d821",
+      "en_sha256": "370a1d6a7ff46b303ac534f22184283bea0a53ba26435a8ac77fb397dcda5fd8",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_11].content": {
+      "pl": "Umiejętności ataku dzielą się na pojedyncze oraz obszarowe.",
+      "kr_sha256": "ed4739617050d5cc586a79eed16cab4f9ff85fd1736774767cf3e94c53efc003",
+      "en_sha256": "22eaeaf8665b64054a4407496b5aa77f15837a3396b4600f1153545a5987ef29",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_12].content": {
+      "pl": "Używana teraz „umiejętność E.G.O” jest umiejętnością obszarową.",
+      "kr_sha256": "65991de9fa164b671935e84bb320df7de32eefd9b29f631ad96fb752233364be",
+      "en_sha256": "92f95d80b08a3d43cd8b612302e404331941c8b3051aa2da92c9a74972a6f651",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_13].content": {
+      "pl": "Cele umiejętności obszarowej dzielą się na cel główny oraz cele poboczne.",
+      "kr_sha256": "95941a4e9d9546abb2f0d9fb3e5025cfa476bc686e2b9e6cc91b9d67d0729680",
+      "en_sha256": "540cc00033d67de8fe3cec61ef7d8454224497c267effbf38234b2f05f8cc614",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_13_title].content": {
+      "pl": "Umiejętności obszarowe",
+      "kr_sha256": "f35e88800ec3f63753ba704dd0a20fff2899f1adbc6ca1de85985c786ecbf4b8",
+      "en_sha256": "2f875059adf883100d947b0f5c2b7341857acb8c67e5ff32de21b3cff8089b61",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_14].content": {
+      "pl": "Starcie umiejętności obszarowej zachodzi wyłącznie przeciwko bezpośrednio wskazanemu celowi głównemu.",
+      "kr_sha256": "6359b481881436c9c7c577cbf1ba70dd8a3bb2452ce8a0225a11b86742899579",
+      "en_sha256": "ae2528be1b9b481a8ba111c3f4ca2e6f52394562e47013118b7d37bc6325d546",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_15].content": {
+      "pl": "W razie przegrania Starcia atak tej umiejętności zostaje anulowany wobec wszystkich celów.",
+      "kr_sha256": "ccde9b46cffe331a54476ff6311227b863b204859be2dcec3af74230641f4c4c",
+      "en_sha256": "ea5e3b58f44fbc743f0349f4fc1d62c031e82c4475a7d0c344bf2226cd5875fd",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_16].content": {
+      "pl": "Cele poboczne zależą od zakresu celowania danej umiejętności obszarowej.",
+      "kr_sha256": "cf2aca8cf33353842026dc265a63f8203e9ec8613db12a937405959e88a402fb",
+      "en_sha256": "f0fe74392b8a59a3a597e95db2a8c0598fa85cb13d9d27c11db676494bd3db66",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_17].content": {
+      "pl": "Umiejętności obszarowe celują w pola umiejętności wrogów.",
+      "kr_sha256": "2abe502b62073db0e2d044139b8b579fa42dc50bfc53accac62d6d39450a4dae",
+      "en_sha256": "a6ad3e39fb3cdef7bd43c073c6abca379f79d4d3d1ff53d6900d2a9ed8e0a474",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_17_title].content": {
+      "pl": "Cele umiejętności obszarowej dzielą się na cel główny oraz cele poboczne.",
+      "kr_sha256": "95941a4e9d9546abb2f0d9fb3e5025cfa476bc686e2b9e6cc91b9d67d0729680",
+      "en_sha256": "540cc00033d67de8fe3cec61ef7d8454224497c267effbf38234b2f05f8cc614",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_18].content": {
+      "pl": "Każda umiejętność obszarowa ma określoną Wagę Ataku.",
+      "kr_sha256": "298e2de77519e8e12a2a74670374a4e822182a20dc2f5784dc1d3e4355e4f433",
+      "en_sha256": "6148f975fd2bde77b4e91d97a3beffddd04df9d97df0c00dd2ef229b6b656610",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_19].content": {
+      "pl": "Każde pole ma własną wagę i pochłania odpowiadającą jej część Wagi Ataku umiejętności obszarowej.",
+      "kr_sha256": "328e2257d1d6b488bb3a3f6dc3147aef765002b54b508b85342a43fb090ec5a5",
+      "en_sha256": "2031e8f69b7776aee2225a0ebe6a3776cc8e556758a06eaae7af77079e560472",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_20].content": {
+      "pl": "W zwykłym starciu pojedynczy wróg otrzymuje trafienie umiejętnością obszarową tylko raz, nawet jeśli zajęto kilka jego pól.",
+      "kr_sha256": "6dc56629e5ac54c45e7631bee592149cef1bfabc960fde1ff54c8b20d8f78b5c",
+      "en_sha256": "40d33dffa6a58873d61b94b32d67c9ddb9ced05e334a459ba11501d977dba0a4",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_403_21].content": {
+      "pl": "W starciu skupionym dana część ciała otrzymuje trafienie tylko raz, nawet jeśli wycelowano w kilka jej pól.",
+      "kr_sha256": "205d21aa09681b33aa206926e3e54b49837430dc616692b69591df73d00a7f11",
+      "en_sha256": "f5e0d837302105b126cbb9744b87f1d5d7875ad2becfeeb56296a46d5a764f8e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_00].content": {
+      "pl": "Umiejętne wykorzystanie E.G.O stanowi jeden z filarów skutecznej strategii.",
+      "kr_sha256": "497080be00269dca3311b2420c7c45b88863b6590dd3e9a532d83e89a11141c5",
+      "en_sha256": "80112f5c0a51908d711dc762bfb48d20e5b99ad02084a95690bc9390970d8c92",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_01].content": {
+      "pl": "Nadchodzące starcie składa się z kilku fal wrogów.",
+      "kr_sha256": "c229987ccf72c12affc69b8f49026126aed95b98b964df5d27129dcdbe18e314",
+      "en_sha256": "b1fbed041f4b543c103a4f1510edf6f66677fbac54d335ce1629de9e32e387ea",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_02].content": {
+      "pl": "Przed dalszą walką wyjaśnię jeszcze jedną przydatną funkcję.",
+      "kr_sha256": "f7e4f33eab0df7be5168b6c50bcb4559f138e1bc2e4f49fed6aaea915770557d",
+      "en_sha256": "219a88cd6e5ac878ec830d463c135ab367651aaaf2d7752afa067ec632739d5c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_03].content": {
+      "pl": "Od teraz dostępny jest automatyczny dobór umiejętności.\nW zależności od wybranego przycisku łańcuch umiejętności zostanie ułożony automatycznie.",
+      "kr_sha256": "42341f5c83e364428d79f92828b12415175e23001286cd821b98ccd2a7f53a02",
+      "en_sha256": "e1f28f899676d47b7880123e143b83b3bad6d4ad05326f2aa0d3d963ab84735e",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_04].content": {
+      "pl": "Przycisk „Szansa” dobiera umiejętności o najwyższej szansie zwycięstwa w Starciach.\nPrzycisk „Obrażenia” wybiera umiejętności zadające wrogom jak największe obrażenia.",
+      "kr_sha256": "39418c9a84091205e861338623ebfa1e84f19d1302f2ed7701b8c786ed25ad94",
+      "en_sha256": "2610b8080f541500ef43f98a6147a33b7437a0e69de874c3e695e5b5e682eee1",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_05].content": {
+      "pl": "Pamiętaj jednak, że automatyczny dobór nie uwzględnia złożonych niuansów pola bitwy tak dokładnie jak Kierownik.",
+      "kr_sha256": "d3f1d20cb63018d696f11e9352dde3b97e22b796c1cf14f4b10631a38a2016ac",
+      "en_sha256": "a95f006544891b2a920728aa03f029c452325484dad09f8cf00e6f585e309cdc",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_06].content": {
+      "pl": "W prawym górnym rogu możesz ponadto przełączać strzałki celowania oraz dostosować w ustawieniach opisy umiejętności i rzuty monetami.",
+      "kr_sha256": "15eb4b103b2fb9223f443b583280d0d79c182676e6ad5c47e3ba3259526984c0",
+      "en_sha256": "2f2504cbfb06e8786d03e704ad252ec1898230e38730d815dfd152402a16bf4b",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_07].content": {
+      "pl": "To już wszystko, w czym mogłam pomóc.\nWydaj rozkazy osobiście.\nLiczę na znakomite dowodzenie, Dante.",
+      "kr_sha256": "ea28b807cb7709aa2d942fba21e4b2baa4936b6560c87322e638a3fbe709a04b",
+      "en_sha256": "3bdacbc4cfde5ba7f73ec27233bb003b54d0082909b6884eff592dfaceaaa41d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_08].content": {
+      "pl": "Przycisk „Szansa” wybiera umiejętności o najwyższym prawdopodobieństwie wygrania Starć.",
+      "kr_sha256": "e9edec01519de80aa893da81197c675481dcb0cb9256174c5967b50d87e2330c",
+      "en_sha256": "5e6354ce711887abb94d86005f04dd32dde9efddd1330d7e5699d4fdb4c22b75",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_08_title].content": {
+      "pl": "Automatyczny dobór: Obrażenia i Szansa",
+      "kr_sha256": "4345a86ea1e8696e62a93331e562df9310484dd80034ede55feb0009b93a3b0e",
+      "en_sha256": "3419ee135be6cd7683fb86a0e7b97ca4723608a25f86803580bffcd0c728c98d",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_09].content": {
+      "pl": "Przycisk „Obrażenia” wybiera umiejętności zadające wrogom najwyższe obrażenia.",
+      "kr_sha256": "bcb8997384e21627dfe7e2cbb0deab1e85da9431d34ada79d98e22e38326993b",
+      "en_sha256": "16b157323ea99d33a64b0110dab0384f4fdfdc7c1cd1c5e3f2d25aafab03d392",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_404_10].content": {
+      "pl": "W zwykłych starciach przyciski automatycznego doboru są dostępne po ukończeniu etapu z warunkiem EX, natomiast w starciach skupionych — od samego początku.\nAutomatyczny dobór nie bierze pod uwagę wszystkich okoliczności walki, dlatego korzystaj z niego z rozwagą.",
+      "kr_sha256": "8a3b521555f5445c76afac07fe411484217a2dc16c1677ac24236776525a74af",
+      "en_sha256": "dbd91330afded6d8aca03d761334272eeb4b0b07570bc53c08e2d6b4b2d459c7",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_1].content": {
+      "pl": "Przeciążenie dzieli się na Stabilne Przeciążenie oraz Niestabilne Przeciążenie.",
+      "kr_sha256": "a4f65429ace77df37c7460c64858c1617e0ee385ecc395bbe050a5345031b143",
+      "en_sha256": "6771fee0068dd97cb98f9e9fb272b5edd3079e68aec467925c4df907e238336a",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_2].content": {
+      "pl": "Podczas Przeciążenia zużywana jest 1,5-krotność standardowego kosztu zasobów oraz Poczytalności umiejętności E.G.O.",
+      "kr_sha256": "f7f832e98ca25c0beaa1f4a34ee1d0ec598d8802c69a705d40c8f66306ef77e1",
+      "en_sha256": "10f18df4a7101d829e7f70a523d5d10be806dd962adc429dad859b79d56f2b2c",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_3].content": {
+      "pl": "Do Przeciążenia wymagane jest posiadanie co najmniej podstawowego kosztu zasobów E.G.O — brakująca nadwyżka zostanie odjęta poniżej zera.",
+      "kr_sha256": "efff35a8c62576ff4186fc98b3b088c1bb3c2b2300da40da47bb186b903a83b6",
+      "en_sha256": "da75cb6f39aea71030067ceddb5171a4a110e136cce3447defaedad276c93662",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_4].content": {
+      "pl": "Nawet przy Przeciążeniu może dojść do samoistnej Korozji; zużyty zostaje wówczas wyłącznie podstawowy koszt zasobów.",
+      "kr_sha256": "19f7764385560276bd56ee4063468fbe99da28bd53696bb6085b5f3a1accce35",
+      "en_sha256": "2703d187dfc18dcf47ef990bf1b2b24b825e5c15829be177412a4d8d21555e91",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_5].content": {
+      "pl": "Stabilne Przeciążenie zachowuje efekty i wartości Korozyjnego E.G.O, pozwalając jednocześnie odróżniać sojuszników od wrogów.",
+      "kr_sha256": "fa82b138e43574d0b00e4453703d94f8c0246e331a5e369c5be962639a3124fb",
+      "en_sha256": "6e2d8b23c7423fc618e82bd0a3777dad6e1fa9bdf5e9b3bc98eedc841e36fd51",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_6].content": {
+      "pl": "Niestabilne Przeciążenie ma takie same efekty i wartości jak Korozyjne E.G.O, lecz uniemożliwia odróżnianie sojuszników od wrogów.",
+      "kr_sha256": "dc1f94fdf9fe4ea8db337ba982730296cb50475eea8312a175fabeb2c7cd79e1",
+      "en_sha256": "6870ab62e5ab84e20523fb0eba5ec7751caa4db9c911506f976dd5e2052c2477",
+      "origin": "ai"
+    },
+    "dataList[id=tutorial_ego_overclock_title].content": {
+      "pl": "Przeciążenie E.G.O",
+      "kr_sha256": "a9c0107fa6a8033bafc9cc6405b9ace7609f21e71956005c69635222682ed5b0",
+      "en_sha256": "87720b322f5b25c264eb9b83582683506ad4651e88d28a098caa7fc2749ac025",
+      "origin": "ai"
+    }
+  }
+}
