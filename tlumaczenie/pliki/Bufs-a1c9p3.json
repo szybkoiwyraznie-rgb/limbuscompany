@@ -1,0 +1,2002 @@
+{
+  "entries": {
+    "dataList[id=AaCfPcBiv2].desc": {
+      "pl": "Na koniec tury otrzymuje obrażenia stałe równe (stosy x 0,5)% Maks. HP, po czym efekt znika",
+      "kr_sha256": "54893afb6331caed4db9a8a5c94dc3edc2c26c35c22a210d7dfd54dd712b3f42",
+      "en_sha256": "a6bf36bfd7c619dd9d6e7e18a90b6268d8d1f5056d9069b74a2c0f5f038b37af",
+      "origin": "ai"
+    },
+    "dataList[id=AaCfPcBiv2].name": {
+      "pl": "Nadtermogeneza",
+      "kr_sha256": "952af6d4420aef0ee118d43c8f0ca3400c78eb190ca1875946b72a72825dd59d",
+      "en_sha256": "b0b48721a13c6581074506b2ed739e737e76869f6e64dc7ed915cd77939e8808",
+      "origin": "ai"
+    },
+    "dataList[id=AccelBullet].desc": {
+      "pl": "- Maks. pojemności: 10\n- Specjalna amunicja\n- Zużywany przy użyciu określonych Umiejętności",
+      "kr_sha256": "b162396c73bef5f2e5ec2c7c5634d875e8c257fb4590171fd1ebf9c9929a239d",
+      "en_sha256": "1ee3c815028416059fa3c52a59f4549a5858384cd0907729282b69c2c04de18d",
+      "origin": "ai"
+    },
+    "dataList[id=AccelBullet].name": {
+      "pl": "Pocisk Przyspieszenia",
+      "kr_sha256": "669606610f2ce1f15ddff1689525382689d8f674b2ac7d48b0ac48cdabc87ded",
+      "en_sha256": "3a89ed7528c4be7f6cb827c16e405d34c91f74ed3d38dfcb9f4f706d1898c15d",
+      "origin": "ai"
+    },
+    "dataList[id=AgainstMyWill_LowMorale].desc": {
+      "pl": "Na początku tury zyskuje 8 Spadek Mocy Starcia i 5 Spadek Mocy",
+      "kr_sha256": "10080f5f4b77f70c3299e8d8838dc5488a48d3263ecce895ac27894cc10d22b4",
+      "en_sha256": "1d71f1a85d5db281020865bec0206bc31137a44c406c137e993d16b570484dc8",
+      "origin": "ai"
+    },
+    "dataList[id=AgainstMyWill_LowMorale].name": {
+      "pl": "„Z-zabij... zabij mnie..”",
+      "kr_sha256": "feef61abc1eb6b6246c4e6b63a422ae90b8c3b4d4d35aa44692c5028e3535ca9",
+      "en_sha256": "901e9e73e306db23204b37118765df03b275ebd1576d8091eef960520a7ca209",
+      "origin": "ai"
+    },
+    "dataList[id=AgainstMyWill_Panic].desc": {
+      "pl": "Na początku tury zyskuje 10 Spadek Mocy Starcia i 5 Spadek Mocy",
+      "kr_sha256": "c2f5e0e7fa311cc99f9159c16bbb7269ce9b473060d99cefbc14e9a9bc6c40c2",
+      "en_sha256": "a97cd6e154eae4392867f4b42afe3f9732415804c4786ed3cbb16bc39f4314a6",
+      "origin": "ai"
+    },
+    "dataList[id=AgainstMyWill_Panic].name": {
+      "pl": "„Z-zabij... zabij mnie..”",
+      "kr_sha256": "feef61abc1eb6b6246c4e6b63a422ae90b8c3b4d4d35aa44692c5028e3535ca9",
+      "en_sha256": "901e9e73e306db23204b37118765df03b275ebd1576d8091eef960520a7ca209",
+      "origin": "ai"
+    },
+    "dataList[id=BlackNightmare].desc": {
+      "pl": "- Nakłada +2 więcej Siły i Licznika Zatonięcia\n- Znika na koniec tury, a następnie zyskuje (liczba Umiejętności, które przegrały Starcie w tej turze x 5) Karma",
+      "kr_sha256": "62854341b0006bb50da831c77790c5f5d01ce315bb66cfd1114450bfbd401cdc",
+      "en_sha256": "058a7ddd168809ec0e6e990ac9e4f974d4a9b54a6c5579e5bd0a658da4258cc7",
+      "origin": "ai"
+    },
+    "dataList[id=BlackNightmare].flavor": {
+      "pl": "Z zewnątrz wykonuje Nakazy chętnie, lecz za maską prześwituje do nich uraza.\nPonieważ jednak mógł oddawać się całemu cierpieniu i przyjemnościom świata za maską „Nakazów”, jego ukryta tęsknota kończy się wdzięcznością.",
+      "kr_sha256": "53d2b285601341d2244d60b8ccdf94f95f1c7059cfcde7f8df5e24c6c1d64172",
+      "en_sha256": "daf5f654b76f5f12b688af914949e77ffc00a92603ac5f0cc5ccf116b2d02ad9",
+      "origin": "ai"
+    },
+    "dataList[id=BlackNightmare].name": {
+      "pl": "Indulgencja w Nakazach",
+      "kr_sha256": "8b6d4bbb30b1362083da56fb01a5c3f978667c0ea7bbd81628ed69414a0f7498",
+      "en_sha256": "3f7c7d49180bfc5e7d43e0a769f6ade0a1eec863fa2f6fb2403a316cedc9b939",
+      "origin": "ai"
+    },
+    "dataList[id=BloodBranch].desc": {
+      "pl": "Zyskuje 1 Spętanie w następnej turze za każdy stos\nNa koniec tury otrzymuje (Siła Krwawienia x stosy) obrażeń HP\nNa początku walki zyskuje 3 Krwawienia za każdy stos, po czym znika",
+      "kr_sha256": "2e827974407412dfe544ffcfa6bee2fe5d518879b520423fa7be4229963d1e8e",
+      "en_sha256": "52549aff0fb3070f0abbf81229de0de72ee3cc8e2deae46e025e1af068da79c9",
+      "origin": "ai"
+    },
+    "dataList[id=BloodBranch].flavor": {
+      "pl": "„Jeżeli krew da się uwięzić w spojrzeniu, można ją też zgromadzić, skondensować i przebić nią wszystko. A nawet oślepić. Dobrze?”",
+      "kr_sha256": "d045a760b0fad65947e0b39ef3fec7b84be16ad924a1f32bbf0bb6e8fe85f3ed",
+      "en_sha256": "30cfb996095a76920e24233487686de4fce08a524f3c4f2ca57106c3acaef9ad",
+      "origin": "ai"
+    },
+    "dataList[id=BloodBranch].name": {
+      "pl": "Zaślepiająca Krew [盲血]",
+      "kr_sha256": "43eb4cf2a6049c81ad37eea2e192c0a189f6b4c722d40721131702efa33fb735",
+      "en_sha256": "48d32ca07779901f1fbbfd32fc4658ca9124a73941966940e0e2c3006a3e1146",
+      "origin": "ai"
+    },
+    "dataList[id=BurningWoundRien].desc": {
+      "pl": "- Poziom Ataku -5, Poziom Obrony -5\n- Na początku tury zyskuje +1 Licznika Podpalenia i +1 Licznika Krwawienia za każdy stos\n- Za każdy stos otrzymuje +10% obrażeń od Umiejętności nakładających Podpalenie lub Krwawienie (z Siłą, Licznikiem i wariantami Specjalnymi)\n· Jeżeli Umiejętność nakłada oba, zamiast tego +15% za stos\n- Maks. 5",
+      "kr_sha256": "747d784a3950b789475944e96e16cd1f374d1b67c77e676647c02006a5de4ab3",
+      "en_sha256": "e6b4fea7836107e7998a08c3c0741d4a1ebd308a86ac95a234848b705bbfe810",
+      "origin": "ai"
+    },
+    "dataList[id=BurningWoundRien].flavor": {
+      "pl": "W pobliżu tego miecza rana nie chce się goić, a raz ostudzone mięso znów zaczyna się palić.",
+      "kr_sha256": "ed8fc4cc15cd451a396eae1292452e238fc3a03ccf6daba17f08f109bd18db6f",
+      "en_sha256": "960c057772a44202ad7095b3bbd6dc37fd0f5f7377acfdbe531b00a34c42b053",
+      "origin": "ai"
+    },
+    "dataList[id=BurningWoundRien].name": {
+      "pl": "Kipiąca Rana",
+      "kr_sha256": "8bc83e2493fdc2e176b66fc7a86c2f8c8d5fc46f540eba42c52aa898e56f31a4",
+      "en_sha256": "de9171b9884bac5004601a98479fa39e56d3c9817005775b9b28d3a2ae91d3d3",
+      "origin": "ai"
+    },
+    "dataList[id=BurningWoundRien_Mask].desc": {
+      "pl": "- Poziom Ataku -5, Poziom Obrony -5\n- Za każdy stos otrzymuje +5% obrażeń od Umiejętności nakładających Podpalenie lub Krwawienie (z Siłą, Licznikiem i wariantami Specjalnymi)\n· Jeżeli Umiejętność nakłada oba, zamiast tego +7,5% za stos\n- Maks. 1",
+      "kr_sha256": "2c01f8e4ae25641a8c07423a581d6666e61cf41f17252684e50c11039720c849",
+      "en_sha256": "278542d758ef908867ac8f949f04b3cc1c27af3e0fbaead1c64650df4e6d8404",
+      "origin": "ai"
+    },
+    "dataList[id=BurningWoundRien_Mask].flavor": {
+      "pl": "„Zasłaniam, bo samo patrzenie na to boli.”",
+      "kr_sha256": "e370777891a940a5abe1dfdf99a84de02d91ae65fcfeefa0b07e9e3c7037eb51",
+      "en_sha256": "907b80c5fcc98ccedf134157d06ba1a45c5df9fe4115cc29a16319a3f10590c4",
+      "origin": "ai"
+    },
+    "dataList[id=BurningWoundRien_Mask].name": {
+      "pl": "Maska Rien",
+      "kr_sha256": "5feb7654ba11aeedd9c87000e5073e66b8f7469049a9db018e6cc0a9ce0408d1",
+      "en_sha256": "2b207226702dafb023a79ee78b902018f8d6d9f6ae21ef279183114e2eb59b8f",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalDamageUp].desc": {
+      "pl": "W tej turze obrażenia Krytyczne rosną o 10% za każdy stos",
+      "kr_sha256": "aeed7c798422e0a7a71b24906455c15ce51e7d279d595567ac90a2d7d63484b2",
+      "en_sha256": "9c841b1e99e44c42ffed703475dd9915a18b7b7d0d87ab9dd09009484c20d161",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalDamageUp].name": {
+      "pl": "Wzrost Obrażeń Krytycznych",
+      "kr_sha256": "3c748c835755519a73bdc0953d0895bc2e04e2845cb8b78bcb8ee4a736e56794",
+      "en_sha256": "c16cf3ec28e67c9b1c176b0d41d709824a2aa91f5be172f87ad0cca3c76c397b",
+      "origin": "ai"
+    },
+    "dataList[id=Cubism_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku",
+      "kr_sha256": "c0d3195808abc4b3dce7f749fdba8aba7be4b58b05833d575aea3181b34d5ddc",
+      "en_sha256": "ad6a47b44ca665b86d9da75d1ec0afe71cb4c2f66b65aa0519ec337121d84ec9",
+      "origin": "ai"
+    },
+    "dataList[id=Cubism_LowMorale].name": {
+      "pl": "Przestarzała Sztuka",
+      "kr_sha256": "b4fcbe2397a6c663853cc3e385535ef4379aab2b5c55fcaa45689f1d96e684d6",
+      "en_sha256": "859d613a889500639e85736924248bab0c57efc397e5f7971d50ce3d466b3bcb",
+      "origin": "ai"
+    },
+    "dataList[id=Cubism_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wzrostu Poziomu Ataku",
+      "kr_sha256": "99a94e0c67b349514c6bbf3fb87a0baefc375b27c2907c35229d901e26606076",
+      "en_sha256": "f12211f72a030627330ed43bc282582ede57dac01a9f0731aea1fd79f8025d5a",
+      "origin": "ai"
+    },
+    "dataList[id=Cubism_Panic].name": {
+      "pl": "Przestarzała Sztuka",
+      "kr_sha256": "b4fcbe2397a6c663853cc3e385535ef4379aab2b5c55fcaa45689f1d96e684d6",
+      "en_sha256": "859d613a889500639e85736924248bab0c57efc397e5f7971d50ce3d466b3bcb",
+      "origin": "ai"
+    },
+    "dataList[id=CutbondRyoshu].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Poziomu Obrony za każde 10 stosów\n- Im więcej stosów...\n- Maks. 100",
+      "kr_sha256": "a9479f5ded01c08a35d64b85f0b237a7ea0acc1a8bc34fd55b8c1fd217ca6fa8",
+      "en_sha256": "07d8eff025ea636c674711b7a37dda97e07f35a9cbf586c84135c925adec12f8",
+      "origin": "ai"
+    },
+    "dataList[id=CutbondRyoshu].flavor": {
+      "pl": "„Dlatego muszę oszczędzać ostrze. A gdy będę gotowa, wrócę do Domu Pajęczyn.”",
+      "kr_sha256": "e49fa0dc3a40178c83d7546fd707298892d56cfe9c7a526de6397c0c2613d2bb",
+      "en_sha256": "5256acd9ef292062bbc48164d1cbffee98c6716326d5e6076b37d1d4543500ba",
+      "origin": "ai"
+    },
+    "dataList[id=CutbondRyoshu].name": {
+      "pl": "Muga [無我]",
+      "kr_sha256": "8f62902e45585c5848115fa18d4e9d0059445789dcfca26ee9d993be30f62519",
+      "en_sha256": "58cbb8c9e1f4ebadb02a68b7d1a30cc23f647d1ca462a17a72e8566e02223e53",
+      "origin": "ai"
+    },
+    "dataList[id=CutoffRyoshu].desc": {
+      "pl": "- Na początku tury,\n· Zyskuje 3 Krwawienia i +3 Licznika Krwawienia\n· Otrzymuje obrażenia Cięcia równe (stosy / 3)\n- Przy trafieniu otrzymuje obrażenia Cięcia równe (stosy / 5)\n- Im więcej stosów...\n- Maks. 100",
+      "kr_sha256": "9e9bdd54e4b89baaeb7f880cca6f2535f45ccb6f3a3e833bbbaf3eb856602f6f",
+      "en_sha256": "703c4c33071c00e3272113dfe363bfd0ea9a8fa7907598e10c6c10e712161771",
+      "origin": "ai"
+    },
+    "dataList[id=CutoffRyoshu].flavor": {
+      "pl": "„Niech wszystko zostanie odcięte — ty, ja, cała przeszłość i przyszłość.”\n\n„A wtedy przywrócę Arayę.”",
+      "kr_sha256": "4900a69a32c096c9f3e3fd301d5c3b24af3202dfec7328621f3d5c8ef779437e",
+      "en_sha256": "2bc63e4c87e9f329bd3046e5551f628c136ce3a455ac239a4027d7a52d0bf0c4",
+      "origin": "ai"
+    },
+    "dataList[id=CutoffRyoshu].name": {
+      "pl": "Przecięcie Nici [切絲]",
+      "kr_sha256": "6971d82e57464fc3d7d551b66c232693a2078ce274892e5f86433a6b2adc4c22",
+      "en_sha256": "ce17ca43fc1d0f9b50ba9fb026e798142b4de4fd5722b5bd38f4734cf620f745",
+      "origin": "ai"
+    },
+    "dataList[id=DaughterEducationSpider].desc": {
+      "pl": "- Maks. stosów: 10\n- Maleje o 1 przy trafieniu 2 Umiejętnościami\n- Moc Bazowa +1 za każde 2 stosy\n- Umiejętności Cięcia i Obuchu zadają +5% obrażeń za każdy stos",
+      "kr_sha256": "35c9b37a249b8c6f6235d8ca759b9febdbcc9dff941d148ee1c116421f9af87d",
+      "en_sha256": "ecf19179692708980c560efbe4e78352c966106cc6283e3b938b70036550fbac",
+      "origin": "ai"
+    },
+    "dataList[id=DaughterEducationSpider].name": {
+      "pl": "Dobrze się Przyjrzyj, Córeczko!",
+      "kr_sha256": "57e3a0096d30aaec66311a8b417fc0872e1a065649948bfde3b7df7203c48685",
+      "en_sha256": "8d9b3305dc8c7be02655e565cc2f711a1e5a035e379c988b505efd968624bdf0",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseBug].desc": {
+      "pl": "- Maks. stosów: 50\n- Gdy zostają nałożone Siła lub Licznik (Podpalenia, Krwawienia, Wstrząsu, Rozdarcia, Zatonięcia), zamiast zdobywania efektu traci równą liczbę stosów tego efektu\n- Znika na koniec tury",
+      "kr_sha256": "077e5363bbf275931e0144702d021b680415027b1ba6d93ef4177d306c98d419",
+      "en_sha256": "36b8f30f9fa29f4a5e1f77aa4a662540a4e4de24297cd24115df87463dfe1cf9",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseBug].flavor": {
+      "pl": "„Każdy jest zdradliwy, ohydny i uporczywy.”",
+      "kr_sha256": "d116d56719b9d9c5b2129acc5bd645b011795ec9c4efe22b7713a2daf2ee536c",
+      "en_sha256": "9fdb8f027b7c8ce542fa8fee5330474fcc96e906f2618711764525f57d27e18c",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseBug].name": {
+      "pl": "Szkodnik Obrony [Karaluchy]",
+      "kr_sha256": "c48c4539a342e06acf090a00d6182d4c6bf76aa17b8c1e6b2c51b1ffa61832dd",
+      "en_sha256": "779b4dd46497a9b404999a12573b023d148f80009e169fb056241d9b0a480a50",
+      "origin": "ai"
+    },
+    "dataList[id=DelusionHohenheimBigBird].desc": {
+      "pl": "- Na początku tury, jeżeli nie jest oszołomiona, Umiejętność ataku w ostatnim slocie celuje priorytetowo w Hohenheima i nie może zmienić celu\n- Efekt znika na koniec tury, w której zadziałał",
+      "kr_sha256": "a7e141f9e435d55e57981dcc89c7032e507b17104d27b7050b5e5610810b8e43",
+      "en_sha256": "eb2bf6cef052df174304bd3652f6b697c5810f48252c20098017c226572245d1",
+      "origin": "ai"
+    },
+    "dataList[id=DelusionHohenheimBigBird].name": {
+      "pl": "Omam",
+      "kr_sha256": "d24d07694e980ef509760b93e668eb72159a000c09c9750795459663c8f52bff",
+      "en_sha256": "96afc08178dc9a332b3c224808fc14b7b7146c68d971006b6da73635eb05b5cd",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraA].desc": {
+      "pl": "Wyjmuje z Worka Wymiarowego następną broń warsztatową\n- Obecna broń warsztatowa: Rękawice Warsztatu Allas\n- Następna broń warsztatowa: Młot Warsztatu Nester",
+      "kr_sha256": "4cd589bc32411ed5c846f5827a963ed3f8a483d147a454070b7af4febea43baf",
+      "en_sha256": "6d0a08444b4ba62d5a08044e6751c08a73f2f2418bb7d2128bf6ae9ac06509b9",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraA].flavor": {
+      "pl": "„Każdy produkt stąd rozpędza się jak wybuch — bwam! I czujesz każde uderzenie!”",
+      "kr_sha256": "74367d5e2a4026b5f7b4b815693254dbccab3677fbbce06f1242a4c01172dc5f",
+      "en_sha256": "60566f7ba26367356ca92891f2b9c09189e1d1ee302f04ee547535732e493613",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraA].name": {
+      "pl": "Worek Wymiarowy - Warsztat Allas",
+      "kr_sha256": "14e966c679d88954572f5ff3248cccfacd2f03ca8b1bbbbe35f5bbaf78d5524b",
+      "en_sha256": "2fbb216f7ec36de519b1eb0cba0b99e4b8bffc96eee0ca18e96d4ac30fc470b8",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraB].desc": {
+      "pl": "Wyjmuje z Worka Wymiarowego następną broń warsztatową\n- Obecna broń warsztatowa: Młot Warsztatu Nester\n- Następna broń warsztatowa: Młot Wiertniczy Screw Atelier",
+      "kr_sha256": "d0ecffe197cac10158fd7f7e14aa8335d14b2b95011bbe94ff95741639384875",
+      "en_sha256": "f3bbda16d4a10218f0ec9fc0c5614d576e2af0f97224e7b4b5dafe52e91cd59a",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraB].flavor": {
+      "pl": "„Słuchaj... Wciśniesz przycisk dokładnie w momencie uderzenia i bum! Wibracja szaleje, maksymalizując powierzchnię uderzenia. Gdy się przyzwyczaisz, to czysta frajda!”",
+      "kr_sha256": "e27890f2c4bbfdf9304dbe9307326f40f073b1e245e286963c8f1ab37fe94cc6",
+      "en_sha256": "7c97646cc0165d77ef37ad7d5df343b9662700472b2d2803472da172763b04b6",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraB].name": {
+      "pl": "Worek Wymiarowy - Warsztat Nester",
+      "kr_sha256": "24dded2f139e8516c5a8e014b4923d6082f0ab6a2104e3f4cb48cdeaf50a6e76",
+      "en_sha256": "74e5769283815e8502a05d843fe8622b28efa2da1e1d992563f3f14965f5b776",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraC].desc": {
+      "pl": "Wyjmuje z Worka Wymiarowego następną broń warsztatową\n- Obecna broń warsztatowa: Młot Wiertniczy Screw Atelier\n- Następna broń warsztatowa: Gauntlety Warsztatu Namir",
+      "kr_sha256": "e73b020df83f9ed451ddb73f003e96dc503d030fe32cb30ec60750f45b99d91b",
+      "en_sha256": "eda394291ea774668c592bb5f6dda3b60f4d1b33ffb903469e19d6e339d586fd",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraC].flavor": {
+      "pl": "„Z tymi dziećmi Screw Atelier trzeba uważać. Jedna pomyłka i porażenie cię we własnym uzbrojeniu!”",
+      "kr_sha256": "debf2b952c013aead142b3ed7c55968e9472af687750974af1552b012a92cf2b",
+      "en_sha256": "a9d3a4e25bc5b8b1c48712474e2f811b40fae0d5b96d31d190b5a880f170ab6a",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraC].name": {
+      "pl": "Worek Wymiarowy - Screw Atelier",
+      "kr_sha256": "3086c74becadf656aa2e8bc4b3f2bba066281dc72d6399d284d53b77ac644631",
+      "en_sha256": "25360a6c106b08575280eb170e9f5d790dc7d160540e3cc6e14587639aa774d5",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraD].desc": {
+      "pl": "Wyjmuje z Worka Wymiarowego następną broń warsztatową\n- Obecna broń warsztatowa: Gauntlety Warsztatu Namir\n- Następna broń warsztatowa: Rękawice Warsztatu Allas",
+      "kr_sha256": "32cd504f11c38636686762fab4ddc966b22ffccd9acaeade5acf7f0784981f94",
+      "en_sha256": "a3bf1d5463ad2d786bcb54a59b8936d91a44355932dfffec4c22a05680458c60",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraD].flavor": {
+      "pl": "„Ten ma w sobie osobliwość Korporacji G — Kulę! Działa tak: wzlatujesz, wciskasz przełącznik w powietrzu i dociskasz ciężarem grawitacji. Jak trafi porządnie, to boli... brutalnie.”",
+      "kr_sha256": "59fd2c267571f422f157c4491722a8e0643b7107a9553e84656eedf8a705d992",
+      "en_sha256": "b925cab4622ba4b2c65494b2e54672653f446e02ea9cd50e000baab78da7180d",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraD].name": {
+      "pl": "Worek Wymiarowy - Warsztat Namir",
+      "kr_sha256": "0f3979b106ec354c48658733ac8c242ca12bcb0ebc5a446b14f9c61be3b00f98",
+      "en_sha256": "ef8df5cd16ebd7f5feae15b0df8e6ca92c45d7819a401dfa5b839b766ca30762",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraE].desc": {
+      "pl": "- Obecna broń warsztatowa: Ręcznie robiona siekiera YuRia tylko dla Golden Retrievera",
+      "kr_sha256": "9aab2ea87fd670936a543595efb09839570eb5b0fe441865d9c3ab48847b17fc",
+      "en_sha256": "7976fed62eb3eae2140e063112e40f68d7c6c0d1231b89c7995f1fb56d29a806",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraE].flavor": {
+      "pl": "„YuRia? Dziś działa solo i jej warsztat szaleje — mówią, że świetnie idzie.”\n„Ta sprawa, gdy wróciła z pluszowej lalki w człowieka? Prawdziwa bomba.”",
+      "kr_sha256": "af7b41f9506edbe5974b4357bb9013766e1e6d9a8852d50597580aaecd8f1405",
+      "en_sha256": "ea630de3d36576ba00e395483d3f662b1ab08e8a671b3e8b681488539c562507",
+      "origin": "ai"
+    },
+    "dataList[id=DimensionalBagEzraE].name": {
+      "pl": "Worek Wymiarowy - YuRia Atelier",
+      "kr_sha256": "246a9622b52e1f23e666f37922123ce6e2839bf7eeb1e186ba3b0cf6173810e7",
+      "en_sha256": "4aedf9385ee4208b9c8c62d02807d1e229c3ea0c66d1a2001921b6f7e264efa8",
+      "origin": "ai"
+    },
+    "dataList[id=EsteemNeeds].desc": {
+      "pl": "- Za każdy stos zadaje i otrzymuje +5% obrażeń od i wobec Ryōshū (maks. 100%)\n- Moc Końcowa +1 za każde 5 stosów przy ataku Ryōshū jako głównym celu (maks. 4)\n- Przy 10+ stosach po przegranej w Starciu traci 5 Poczytalności\n- Maks. 20 stosów",
+      "kr_sha256": "13da08767a581e8e9e94f2d11e7233e3dc4c4c366498f5020e87db5720ea613a",
+      "en_sha256": "d51594c809db223bb4d32e9a6357241db7533eafe8debe7fd6dbc25fbde0a625",
+      "origin": "ai"
+    },
+    "dataList[id=EsteemNeeds].flavor": {
+      "pl": "„Po powrocie M-Mister Rien powie mi, że dobrze zrobiłam…”",
+      "kr_sha256": "62f5448ae6a46322cfd0e2ab01b2766b7b68df8b8075af879b9c70335b4a9194",
+      "en_sha256": "6ef6fb20f5a91a9a64f95abbefdf16237acd2a9b76ddbbbee479d33262b53e46",
+      "origin": "ai"
+    },
+    "dataList[id=EsteemNeeds].name": {
+      "pl": "Głód Uznania",
+      "kr_sha256": "8cab54160381e65d238534d6a65a49adf425ac2cc2c65fc6253ef76c4ffe967d",
+      "en_sha256": "81ff29dd6825ab81c04f8df7305e8ab8601fbd4e86d89dbf65a9ca314d118325",
+      "origin": "ai"
+    },
+    "dataList[id=EzraMiddle_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 1 Spadek Mocy Ataku\n- Zyskuje 2 Wzrostu Poziomu Obrony",
+      "kr_sha256": "43abf3b8828e8d0cb6f79762cf23640ee4e3a66fd2de67fc2cd08a5ac9f9e5e0",
+      "en_sha256": "a009fea24cd0c4cf8ec88b055459f1e9ff9e6b4c380e17bdcb0a8c95c953af64",
+      "origin": "ai"
+    },
+    "dataList[id=EzraMiddle_LowMorale].name": {
+      "pl": "Niepewność: Maska",
+      "kr_sha256": "d57be37f1b925123fbf83c1f7e39e9a1c2a22aeb7b840e5cfd804a2dd72cca5a",
+      "en_sha256": "78bd98257de848c8d87de0b1e4a7dc671c0315aae95bd55b3e4fc2177f4fac00",
+      "origin": "ai"
+    },
+    "dataList[id=EzraMiddle_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 1 Spadek Mocy Ataku\n- Zyskuje 3 Wzrostu Poziomu Obrony",
+      "kr_sha256": "6679254d148ab016e0aa7ca2db9c5039e26a8cd28d6b7524a43fbc7c9e880494",
+      "en_sha256": "1e37ae0031225b1afcaf8954cc434be8672d38dfc7f5d11e6a4919724379ace1",
+      "origin": "ai"
+    },
+    "dataList[id=EzraMiddle_Panic].name": {
+      "pl": "Niepewność: Maska",
+      "kr_sha256": "d57be37f1b925123fbf83c1f7e39e9a1c2a22aeb7b840e5cfd804a2dd72cca5a",
+      "en_sha256": "78bd98257de848c8d87de0b1e4a7dc671c0315aae95bd55b3e4fc2177f4fac00",
+      "origin": "ai"
+    },
+    "dataList[id=Fugacious].desc": {
+      "pl": "- Na początku tury,\n· Zyskuje 1 Wzrost Poziomu Ataku i 1 Spadek Poziomu Obrony za każde 5 stosów\n· Zyskuje 1 Wzrost Obrażeń i 1 Wrażliwości za każde 10 stosów\n- Maks. stosów: 50",
+      "kr_sha256": "a366dc5718c1aaafde4e36e08f142f1739081f264d36fe9a085f1799652095b7",
+      "en_sha256": "e1130e7282f7014403e06eba5c0c8e555067b6fb1b766dc468f1b2702c95c243",
+      "origin": "ai"
+    },
+    "dataList[id=Fugacious].flavor": {
+      "pl": "Nie szkodzi, jeśli to jedynie ulotny sen.\nChoć nie odziedziczę w tym życiu imienia Gwiazdy, sama droga ostrza naostrzy i utwardzi to ostrze.",
+      "kr_sha256": "fcddcf52f3e0f61671ea38ee959d37c4386b48bcfb9fe76d85c169a9e688908f",
+      "en_sha256": "e3cc9162693860278d64661e9a7ffbfaa1d348632e5fec87ae2b288448313788",
+      "origin": "ai"
+    },
+    "dataList[id=Fugacious].name": {
+      "pl": "Droga Ostrza",
+      "kr_sha256": "5f6067d54b40f7c6c8a9bdc6ac5457dfed958be765de75088a8225508166e3b4",
+      "en_sha256": "f5a0b64f329145a1b065068488ff6e76d3e2fc57b5aa2fdb74c9b6afea21a529",
+      "origin": "ai"
+    },
+    "dataList[id=FutureEyeOff].desc": {
+      "pl": "- Maks.: 30\n- Umiejętności ataku zadają -20% obrażeń\n- Wszystkie monety Umiejętności zużywających Pocisk Przyspieszenia stają się Niezniszczalnymi Monetami\n- Na początek tury rośnie o 10\n- Przy wartości 30 zamienia się w 'Oko Prekognicji'",
+      "kr_sha256": "9bdc5aa8ff858d111a26f76cfa6199b891a82a61b41ab7ba9ea4d554b6c2040d",
+      "en_sha256": "10c3f89938ef56a079160ba4aab81fb1bcf88f1bb580aaba7f74c90dc36bc0a5",
+      "origin": "ai"
+    },
+    "dataList[id=FutureEyeOff].name": {
+      "pl": "Oko Prekognicji - Przegrzanie",
+      "kr_sha256": "c09ead32f25b688fda591925676aaabdbd6c3bedc413770cb81d3a857f47c6b8",
+      "en_sha256": "c4e196eda44ba1a4e99e825ddcb4997bc2d1489b8a9eea2344dff6b045e0ba23",
+      "origin": "ai"
+    },
+    "dataList[id=FutureEyeOn].desc": {
+      "pl": "- Maks. stosów: 30\n- Moc Starcia +2\n- Na początku tury rośnie o 10\n- Na początku tury odzyskuje (stosy / 4) Poczytalności",
+      "kr_sha256": "5643077709f1279d62e62ea264428f8800243e8724eea54dd4acc666066d6fd7",
+      "en_sha256": "6526fc5a685fd5fd99599f0acecc0741d81b8b10524d0a50f65d99a36f9c65b7",
+      "origin": "ai"
+    },
+    "dataList[id=FutureEyeOn].flavor": {
+      "pl": "„Nie jest to magia ukazująca przyszłość. To oko przypomina raczej kalkulator, który analizuje wszystko, co wpada w pole widzenia, i przewiduje ulotną chwilę, jaka ma nadejść.”",
+      "kr_sha256": "c44ee6707d5919fc11b76a4ed0ef4b4de08bacc0ceb246de78dfd9bafd709126",
+      "en_sha256": "a452d82c0d0cadb9243ae1ebb11e4933c64d847c861f3d9b3c04986bdde970cb",
+      "origin": "ai"
+    },
+    "dataList[id=FutureEyeOn].name": {
+      "pl": "Oko Prekognicji",
+      "kr_sha256": "d12dd170addfc19bb7d7c5a860d16054c495e1c67b16439c51da54ada7a4ae71",
+      "en_sha256": "8f945d161c1ac8fd71f0709f48d5ea22dd68c46423bf8f42ec400ed656e64aa8",
+      "origin": "ai"
+    },
+    "dataList[id=Gebura_Reinforcement].desc": {
+      "pl": "- Wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami\n- Zadaje +100% obrażeń\n- Umiejętności z Monetami Plus zyskują Moc Monety +1; Umiejętności z Monetami Minus zyskują Moc Końcowa +1\n- W tej turze nie przechodzi w Oszołomienie od żadnych obrażeń\n- Przy HP poniżej 10 leczy do 10 HP\n- W tej turze HP nie spada poniżej 10\n- W tej turze każde trafienie Monetą podstawowej Umiejętności ataku i Kontrą leczy 10% zadanych obrażeń (maks. leczenia na Umiejętność: 100)\n- Znika na koniec tury",
+      "kr_sha256": "343f5dcec0c4e9ebf84df6768cc60951e9aae20da463d906ed3c7b55afc46b9e",
+      "en_sha256": "60a175515a718738b488c87e482c7859bf078c401f84723e4baa43632d342226",
+      "origin": "ai"
+    },
+    "dataList[id=Gebura_Reinforcement].name": {
+      "pl": "Ostrze Gebury",
+      "kr_sha256": "d6bb2725d854febb45e503414be0711489d70991df74fab8a4fb36725ef219f3",
+      "en_sha256": "f20da619e3a255563e5ed353b412bdea3afea148cc9cac6cc91b0c09cf79841f",
+      "origin": "ai"
+    },
+    "dataList[id=Gebura_Reinforcement].summary": {
+      "pl": "Aktywne efekty Ostrza Gebury",
+      "kr_sha256": "5dc54f2e4ff9fa71b67dd65da1e4268e7e39a00639318f309dc84c6ddbf04ed9",
+      "en_sha256": "30dadc8e8fbd390fe55deb2083bd74c3715013aafaebcf556c944cb101d03d01",
+      "origin": "ai"
+    },
+    "dataList[id=GotACompliment].desc": {
+      "pl": "- Maks. stosów: 10\n- Maleje o 1 przy trafieniu 2 Umiejętnościami\n- Moc Bazowa +1 za każde 2 stosy\n- Umiejętności Cięcia i Obuchu zadają +8% obrażeń za każdy stos",
+      "kr_sha256": "302327f3e0734104e848b3dec55c163d76be42a8b4abd4fa231ce499042a7180",
+      "en_sha256": "52c00d87a9614bc316cc4892527b42add5ee6520b08b1f8066b66b3850cd6dc1",
+      "origin": "ai"
+    },
+    "dataList[id=GotACompliment].name": {
+      "pl": "Dostałam Pochwałę!",
+      "kr_sha256": "58bf54c28d096de77c0878a5f9b219e293445129b7d9652bf65080c10ee640da",
+      "en_sha256": "f3080134e3182afabb4070a872e890be1329ac1a8332f0735dcaaba8091cae2a",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOffSpider].desc": {
+      "pl": "Dodatkowe efekty Umiejętności Rozgrzanych Ostrz nie działają",
+      "kr_sha256": "35faebc4c1f33c7aa52e5554549ca8280c7fcddc71b24ebb6cff3e862ba65eef",
+      "en_sha256": "06d30917c6c1ae0d8e7f1116c59d50b6b4760ea8ce0984c1d6d9e7227f44d994",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOffSpider].flavor": {
+      "pl": "Ostrza miecza są wyłączone",
+      "kr_sha256": "3bd3596e7bb80aafc4ad03dea43cb680ba8083b756742609878a73be597fe0be",
+      "en_sha256": "5ae00a7eff1c3a5e7edc02f02bf196a0a140d3d0d17ff773f2bf4ae8ef847090",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOffSpider].name": {
+      "pl": "Ostrza Termiczne - OFF",
+      "kr_sha256": "8c7741a1bdd4b9db17020f4bb966cf9561c38d51b868d60e314a90425887a15e",
+      "en_sha256": "78137d39e9084718399008f49d1aae92a404235a18b48d3d3d22f1fe52819044",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOnSpider].desc": {
+      "pl": "Przy trafieniu monetą Umiejętności Ostrzy Termicznych dodatkowo nadaje Podpalenie (Moc i Licznik) w wysokości nadawanego Krwawienia (Moc i Licznik)",
+      "kr_sha256": "66bcd7f8e5f495281232c9374c51849a4cc122847ec13ae21db0e3535b57ed74",
+      "en_sha256": "c8253ea88bb5b60b487e27e6c11855254e91489c32c9419ac14e316eed40597b",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOnSpider].flavor": {
+      "pl": "To nie to co u taty, ale moje ostrze też potrafi ciąć i rozgrzewać! Tylko w przeciwieństwie do taty muszę czasem dać mu ostygnąć…",
+      "kr_sha256": "cd1ae7ea097687132af1b13e1269433c35cea76875bf9a2fa5ca527fcb35c5d3",
+      "en_sha256": "bf4e1d6cb05c9fb244753d145b1addec5fefcd434ae139d5d75ee1e4e55c9358",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOnSpider].name": {
+      "pl": "Ostrza Termiczne - ON",
+      "kr_sha256": "47400d672cd17156b4e17a679572763f667ee812c482126921f6bb1c7068830a",
+      "en_sha256": "adccabf1a55bfec9885bcfe2eebc41fa5ab4417662d5fd14ece1b87ef7a6e929",
+      "origin": "ai"
+    },
+    "dataList[id=HeavenlyKillerStar].desc": {
+      "pl": "- Min. i Maks. Szybkość +6\n- Poziom Ataku +6\n- Umiejętności nakładają +3 więcej Siły Krwawienia\n- Na początku tury zyskuje 3 Wzrostu Poziomu Ataku za każdego zabitego wroga w tej walce (maks. 6)",
+      "kr_sha256": "253a51cfc420d150ec544831e5baf6271967fafe8bcaa126b6e2d98b3f82d1f7",
+      "en_sha256": "262d9e9f8b57d50d59317db5d75dcdb53de6dc1d8aee85e021387d4bba7ea1de",
+      "origin": "ai"
+    },
+    "dataList[id=HeavenlyKillerStar].flavor": {
+      "pl": "„Nie oszczędza nawet nieba — niebo, ziemię, człowieka i mnie. Ta gwiazda wschodzi tylko dla tego, kto widzi całą egzystencję i czas jako jedność i potrafi je wszystko przeciąć.”",
+      "kr_sha256": "75afa126cb1375f66464f4514597b56d6cd5b4794aed53c14328a2dda058658e",
+      "en_sha256": "c3e4025573ccf0a7892d98749062acd505a26686c7c03bf746568adcc09e62cf",
+      "origin": "ai"
+    },
+    "dataList[id=HeavenlyKillerStar].name": {
+      "pl": "Ostrze Gwiazdy Tiansha - Arayashiki [天殺星刀阿賴耶識]",
+      "kr_sha256": "42c8fda5f6c9e8daa72ab8214a3fcc4a96bd32d0f9417d09a963918986e2dee0",
+      "en_sha256": "da45f574f59d72ae07deebf7b8f292514acc583bd724ed9544a8b136b66ee6e2",
+      "origin": "ai"
+    },
+    "dataList[id=HohenheimBigBird_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Umiejętności zyskują o 1 mniej Lampy",
+      "kr_sha256": "37ccbe048459ee3f5f1ef0f1ff88884f27ee630a7d53b9bbac8ae4ffe493a764",
+      "en_sha256": "777721f4c4d2ed4f6aa372f9dc81689c14c38420085820fb041687a841ec232a",
+      "origin": "ai"
+    },
+    "dataList[id=HohenheimBigBird_LowMorale].name": {
+      "pl": "Zalew Senności",
+      "kr_sha256": "b19d0ca07b4efe86d2c63c93877760608e26f3ec02ade231f4cc2b2ed5db4147",
+      "en_sha256": "462ccfa017b2f07cb36080f4b685513406cdbcdeabe1e263504ba8d55d3d5970",
+      "origin": "ai"
+    },
+    "dataList[id=HohenheimBigBird_Panic].desc": {
+      "pl": "- Panika\n- Nie działa przez tę turę",
+      "kr_sha256": "777d33815c0fe0712c3a60a0628c4af452ee35cdeebb93f93d31585eb2d7452b",
+      "en_sha256": "845bf700cd63603323057dbc9b06561c424f3a980c4e2aeb68e707adf3484bd6",
+      "origin": "ai"
+    },
+    "dataList[id=HohenheimBigBird_Panic].name": {
+      "pl": "Zalew Senności",
+      "kr_sha256": "b19d0ca07b4efe86d2c63c93877760608e26f3ec02ade231f4cc2b2ed5db4147",
+      "en_sha256": "462ccfa017b2f07cb36080f4b685513406cdbcdeabe1e263504ba8d55d3d5970",
+      "origin": "ai"
+    },
+    "dataList[id=HumanBloodTheRings].desc": {
+      "pl": "- Maks. stosów: 5\n- Specjalny Ładunek (Siła zblokowana)",
+      "kr_sha256": "1cdba8e06e64c487203359f927a6d8a48f46b79562d26f2a9ac748f69d8e6c30",
+      "en_sha256": "0c55338f45612f4aa855cd7bc0692d982e3766b7056ccc498890bb691965d218",
+      "origin": "ai"
+    },
+    "dataList[id=HumanBloodTheRings].name": {
+      "pl": "Materiał Biologiczny (Krew)",
+      "kr_sha256": "b28db2fe14fdf269299b2983310f83b0e883462f07536c8bdc3f1dad0d72267d",
+      "en_sha256": "e8199a5f4d8624396bc12f2904f13f9739016464e378699c317ab4e10a15957b",
+      "origin": "ai"
+    },
+    "dataList[id=HumanBoneTheRings].desc": {
+      "pl": "- Maks. stosów: 206\n- Specjalny Ładunek (Siła zablokowana)",
+      "kr_sha256": "2df492f818a7a9501f61bef17e506d20e1faf59110246c79a8b81e53e09006f8",
+      "en_sha256": "a3390a5a5f56fd27bae731bcf35d869f3ad5a55c479bbee4be290740767fae79",
+      "origin": "ai"
+    },
+    "dataList[id=HumanBoneTheRings].name": {
+      "pl": "Materiał Biologiczny (Kość)",
+      "kr_sha256": "7adeea24e2531e368593bcca7ba77b4ad4fabaaf6cb14c9eca1c570085fe9f37",
+      "en_sha256": "887a795604a99407fbfcb1900e1439cbc260a076330dd296f6f28d05dba6fac0",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_0].desc": {
+      "pl": "Atakuje Cel Nakazu i trafia. Termin: do końca pierwszej tury.\n\n- Na początku tury zdobywany przy braku Odblokowania\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 3",
+      "kr_sha256": "4de684338d2514b4326750aa2cfe9df00674f1aedd2351e9aac48aab383ea52b",
+      "en_sha256": "d15161cff2b9875bf7de4e144b7bd3ed8f805c5ba5cd6094c17dd803a4397167",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_0].name": {
+      "pl": "Nakaz [Urządzenie] I",
+      "kr_sha256": "f18886850406d6a2ef7f637d70767016534caf6aecb2e11dd00b88493a4cbff1",
+      "en_sha256": "6308f8564c839bd7030818080c2e3de0f0ec6c73ff5b482b25309b23049e46dd",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_1].desc": {
+      "pl": "Atakuje Cel Nakazu i trafia; albo trafia 4 lub więcej ataków przed końcem tury. Termin: do czwartej tury.\n\n- Na początku tury zdobywany przy Odblokowaniu - I\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 6",
+      "kr_sha256": "5bff0faec523bbd92e235e22215095791e2809d183a7738aa42aa139fb100abd",
+      "en_sha256": "68b86d5de4287f6d18ff5758c712366bd300d45f708f82d22d7463fa85a41128",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_1].name": {
+      "pl": "Nakaz [Urządzenie] II",
+      "kr_sha256": "23b7e0cf00783d197287f421e0b6ec4c87b9a48002cdf69d109ad008a8d4ed9a",
+      "en_sha256": "e0fe3752978302146b7f18987fa728bc673ad5fbe5691d58590ee4e9e406e5ea",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_2].desc": {
+      "pl": "Używa potężnej Umiejętności, która używa 9 różnych typów broni.\n\n- Na początku tury zdobywany przy Odblokowaniu - II\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 9",
+      "kr_sha256": "e876de992af6e560189783226fa6171227cf76514dca51482520c058ab1be7e6",
+      "en_sha256": "367a636d08d7cd3cf78d265918ad79c572b4051b1af30b2fd94f411494157f57",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_2].name": {
+      "pl": "Nakaz [Urządzenie] III",
+      "kr_sha256": "a6a505812a96c34352bae00ec9580a9cb0e946096385f786a784a44de580a38b",
+      "en_sha256": "beb1dc694976ee05e9867dc8e231c8fc340ecab6aea4f5dfd4b8972f21f4c123",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_3].desc": {
+      "pl": "Wyeliminuj wszystkie przeszkody, zanim przyjdzie kolejny Nakaz.\n\n- Na początku tury zdobywany przy Odblokowaniu - III",
+      "kr_sha256": "2bf883cca909f7aa93be677b93f6e6318a16306317387b996ba72a8b805d4712",
+      "en_sha256": "1efeeb3d9f7e3edc0d42deb5149df8f609adc25a9a32f3eb4a661f064e5d0c88",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptRien_3].name": {
+      "pl": "Nakaz [Urządzenie] IV",
+      "kr_sha256": "6cced9492657bb47c4f2519d3031ac88993595c960f4d7347f77672a1dbca849",
+      "en_sha256": "acbb62219a8b56675c4cd9237ff69467393ea3eabbbbd80d5903d1eb97cab2c8",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_RienSecondPhase].desc": {
+      "pl": "Priorytetowo eliminuj Cel Nakazu.\n\n- Zdobywany od drugiej fazy",
+      "kr_sha256": "e70c4315be59f4002a3441d670e8d9acef870824c659fb1c6874e983c2da5744",
+      "en_sha256": "e3a69eef35a44461971114f73887a3a9d933e62dda6a6ddae1a592d05f431272",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_RienSecondPhase].flavor": {
+      "pl": "„Za każdym razem, gdy Nakaz pozostaje niewykonany, pikanie Urządzenia przyspiesza.”\n\n„Wyda się, że wraz z tym gorącym odgłosem przyspiesza też moje serce.”",
+      "kr_sha256": "18e9d8a4a2153d44a50a30871224a6d65cf69e9ab6b950884fc2f931f2ef64b9",
+      "en_sha256": "590309849b586c12d41989524ca03d9f9c381026be70285a1bcb3cd955cdd922",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_RienSecondPhase].name": {
+      "pl": "Nakaz [Urządzenie] - Ostrzeżenie",
+      "kr_sha256": "0f3caa07221e6c031f8c10fee47180fa5d9c4a064c332bc2caaafb6c01e50e92",
+      "en_sha256": "e623d8ecb39b4371a9b962292614964f447d54ea60dd08708f626aa601422463",
+      "origin": "ai"
+    },
+    "dataList[id=KAA1C9ActivateEffect].desc": {
+      "pl": "Użyta Ampułka Korporacji K",
+      "kr_sha256": "ec3b320e935a9f3d357f0e02eb296edf313fb3d50f241607b8cd89055c87eb4c",
+      "en_sha256": "c41c6cfd10926a7b2ae83fd68a5d57424c074c2fc89550081566394f3ab0794d",
+      "origin": "ai"
+    },
+    "dataList[id=KAA1C9ActivateEffect].name": {
+      "pl": "Użyta Ampułka Korporacji K",
+      "kr_sha256": "798b01da97666890ed279b78225ceb6c3a98526369ef90bf8268bc74308d7fc1",
+      "en_sha256": "f256e2d19eeacc2d629c1bab550bc4fea42d3f16c803570267ebb86cc8bbebc4",
+      "origin": "ai"
+    },
+    "dataList[id=KAmpouleA1C94TH].desc": {
+      "pl": "Gdy co najmniej 1 sojusznik poza tą jednostką żyje, a otrzymane obrażenia obniżyłyby jej HP do 0, działają następujące efekty\n- Jeżeli jest oszołomiona, wychodzi z Oszołomienia\n- Pełne leczenie HP\n- Wszyscy sojusznicy tracą 1 Ampułki Awaryjnej Korporacji K\n- Ten efekt działa przed efektami „X nie obniża HP poniżej 1” z Tożsamości i pasywnych E.G.O",
+      "kr_sha256": "8f890ae589ebf18c4b73ca108164859f27270081a4142bcd5d3b6837ad1dbaab",
+      "en_sha256": "800eccbd896db687f5b5754a5b6c3dfaf65d716d8295019880a1ddc77cf78549",
+      "origin": "ai"
+    },
+    "dataList[id=KAmpouleA1C94TH].name": {
+      "pl": "Awaryjna Ampułka K Corp.",
+      "kr_sha256": "933ad471911447cdc3246aa3077bff0fa558740e5e1a6c74740802b8e4f306c7",
+      "en_sha256": "27970b7170cad95293136859ad9eb64625c8837f98ec6c8cd1e44d3d255c1210",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexRien].desc": {
+      "pl": "- Na początku tury\n· Zyskuje 1 Spadek Poziomu Obrony za każde 10 stosów\n· Zyskuje 1 Wrażliwości za każde 20 stosów\n- Zyskuje 1 Spadek Mocy Starcia za każde 40 stosów\n- Maks. 100",
+      "kr_sha256": "d5c91e19ae10df333e78ba25447bc09e4946983f03973e4e59364c3237e18765",
+      "en_sha256": "b1f367a0d787a6bfe1215ac156e99fcdda3943404d3dee8bc70b7277a18164d7",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexRien].name": {
+      "pl": "Karma",
+      "kr_sha256": "20785c39571b296683ca312c7547f0bc5ccf32c7cbe95362fecd79248b82e24c",
+      "en_sha256": "dae1a80d8d2ad225ddc898ff8a1c32286c668dc1c79998e720d05c6948b1294b",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexRien_2Phase].desc": {
+      "pl": "- Na początku tury\n· Zyskuje 1 Spadek Poziomu Obrony za każde 10 stosów\n· Zyskuje 1 Wrażliwości za każde 20 stosów\n- Zyskuje 1 Spadek Mocy Starcia za każde 40 stosów\n- Maks. 200",
+      "kr_sha256": "eb6e7982c42b4f4af0475467b52dadc9def23429252b4c4d6068315d2ae28123",
+      "en_sha256": "41ee5082b4af18d6132d85ad66665d26478126c4c47a7d07850be97cf1a64681",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexRien_2Phase].flavor": {
+      "pl": "O Fortúna velut luna statu variabilis",
+      "kr_sha256": "1f07f4d9af24d51f06158c6adbbe481127a01922d871134fd376c2c569a14d20",
+      "en_sha256": "1f07f4d9af24d51f06158c6adbbe481127a01922d871134fd376c2c569a14d20",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexRien_2Phase].name": {
+      "pl": "Karma [Fortuna]",
+      "kr_sha256": "7cc3a6b8373609252c5faee61bba780bb3749d85f7b17bb49f812736a43a7d69",
+      "en_sha256": "be7ea9f9a4c368a115939eb074508a25fe52e93a44724abd316cd15fadae1acc",
+      "origin": "ai"
+    },
+    "dataList[id=LCEFireFly_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wrażliwości",
+      "kr_sha256": "07a2951d50e756857e271624de0e13cc8e8b8f9bb49496f372a73bff4bb71759",
+      "en_sha256": "ce05312efebdc19e0dda465ae7a4ee8266f5e4c4ad0734e0e352742ab35c77eb",
+      "origin": "ai"
+    },
+    "dataList[id=LCEFireFly_LowMorale].name": {
+      "pl": "Zdegradowana Korozja",
+      "kr_sha256": "2add01be73c776e288350d9e5cbb8ba83400fd7398644d7e7f67d583e339dc28",
+      "en_sha256": "214c320e12bd361df9b8c68ab1997db7153a3916e81edf1b250774e0540131ce",
+      "origin": "ai"
+    },
+    "dataList[id=LCEFireFly_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 1 Wrażliwości i 5 Podpalenia",
+      "kr_sha256": "da0175ceb7149924de675e21d06fc27c74c4346b7d791c8896c8e341a199f24d",
+      "en_sha256": "ce4ce1f0ceb9e69e0a89631ff28dd9960b23e97835b5686d51304d00117c014b",
+      "origin": "ai"
+    },
+    "dataList[id=LCEFireFly_Panic].name": {
+      "pl": "Zdegradowana Korozja",
+      "kr_sha256": "2add01be73c776e288350d9e5cbb8ba83400fd7398644d7e7f67d583e339dc28",
+      "en_sha256": "214c320e12bd361df9b8c68ab1997db7153a3916e81edf1b250774e0540131ce",
+      "origin": "ai"
+    },
+    "dataList[id=LanternHohenheimBigBird].desc": {
+      "pl": "- Maks. stosów: 20\n- W następnej turze zyskuje 1 Spętanie za każde 2 stosy (maks. 10)\n- Na koniec tury prowokacja każdego slotu rośnie o (stosy / liczba slotów tej jednostki) w następnej turze",
+      "kr_sha256": "115c9d2d8cf52dd62ef43afb5dbee99a555a5689f0c2edc845165f6938672b99",
+      "en_sha256": "5eb64e57ab9b3b82f588e8ed52b554f5def4d41372f156d05a82ebf132b3b1fe",
+      "origin": "ai"
+    },
+    "dataList[id=LanternHohenheimBigBird].name": {
+      "pl": "Lampa",
+      "kr_sha256": "c2373180ad240647806384b79a2f5b33859f481e5e42f01911e0359dc56a9639",
+      "en_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+      "origin": "ai"
+    },
+    "dataList[id=LimitedAwakenSinclair].desc": {
+      "pl": "- Podstawowe Umiejętności ataku zadają +10% obrażeń\n- Na początku tury zyskuje 1 Wzmocnienia Monet Plus",
+      "kr_sha256": "0d6768ace3eb07add847d72a54ecaf45e00199885f8fa7bd02938ada4610075b",
+      "en_sha256": "f40b30d7967859f331d5a34aa73e0b6936c88481f765de408424bab31dda9563",
+      "origin": "ai"
+    },
+    "dataList[id=LimitedAwakenSinclair].name": {
+      "pl": "Odpięczętowana Umbra",
+      "kr_sha256": "d416d578b04025b7ed4912f25e61997f007812f2cadfd681dbca6db835e06efe",
+      "en_sha256": "097465d1cd0aa113fed9edc705ae225b83d5ecd082605a76d3f1020eb4d5a6eb",
+      "origin": "ai"
+    },
+    "dataList[id=LivingSpecimenTheRings].desc": {
+      "pl": "- Przechodzi w stan „Unieruchomienia”, w którym buffy, HP i Poczytalność nie mogą się zmieniać. Tworzy Teatr Ciała połączony z tą postacią",
+      "kr_sha256": "4e52102dcee47f37efc125e7a0d360042fbb3631a834e75e9e6a22e68b258025",
+      "en_sha256": "cc151c5f9a5f5f36c8995a2483644d0e2ba6f4eb16f35d4bfe9aebddfb901154",
+      "origin": "ai"
+    },
+    "dataList[id=LivingSpecimenTheRings].name": {
+      "pl": "Teatr Ciała",
+      "kr_sha256": "ac8b6041dda54d4d0468b4656a60cc7e8820b907cc52d8781b690617c9473231",
+      "en_sha256": "ce3ab2a81920d0c8f2c427d7cfa3fe5e294a0b6d5e175787a24f11984f13d1eb",
+      "origin": "ai"
+    },
+    "dataList[id=LookingFuture].desc": {
+      "pl": "- Maks. stosów: 10\n- Moc Starcia +1 za każdy stos\n- Moc Monety +1 za każde 5 stosów\n- Znika na koniec Umiejętności",
+      "kr_sha256": "22da678cebc3fba2eeb8f33863cd990205a1bb6a2134c43e3a29e3c746e57b01",
+      "en_sha256": "9a3f32a538a737a61a24af449a4644a6329c3b4e7bb8f98f95d8710ac7c3a594",
+      "origin": "ai"
+    },
+    "dataList[id=LookingFuture].flavor": {
+      "pl": "Im dłużej i częściej toczy się Starcie, tym bardziej przyspiesza styl palermitański.",
+      "kr_sha256": "a144c1b7abcb80f5d30160600f952f383249516bea18545638fa132ccb24204d",
+      "en_sha256": "361657a07ad6a15cc5e77d48aac602c4e693cdb0161327b20c58fe7f152ec583",
+      "origin": "ai"
+    },
+    "dataList[id=LookingFuture].name": {
+      "pl": "Przyspieszająca Przyszłość",
+      "kr_sha256": "e9e1aefe3c5c0eb6ecf389f849004dc58b324d3ebdef9fe80132573f352ca4db",
+      "en_sha256": "4631a3a8bab65cdc8ee21e01c4a40ea90b46cd486611d8ce2bae2f0864544952",
+      "origin": "ai"
+    },
+    "dataList[id=LvDownLittleFingerBossTwo].desc": {
+      "pl": "- Podstawowy Poziom Ataku -15\n- Podstawowy Poziom Obrony -15",
+      "kr_sha256": "03fec0f3490e074b2b90eeca0bc79962e37abaa4a4e2e8fd0778a9c4673719c3",
+      "en_sha256": "927a4e68024964315413fbdde9870045e4733786f6e1b57dcdcb77fd77ee6978",
+      "origin": "ai"
+    },
+    "dataList[id=LvDownLittleFingerBossTwo].flavor": {
+      "pl": "Cięcie Ostrzem Gwiazdy Tiansha - Arayashiki zostawia ranę płonącą jak nieugaszony żar.\nTen znak nigdy nie zblednie, bo zadający poświęcił własną egzystencję, by przeciąć egzystencję przeciwnika.",
+      "kr_sha256": "44dd9209c167b8f0044ae92383b3fa1f7a423f73ad4a5027eaf75bb9f3288757",
+      "en_sha256": "9aa5531ca3de11eb0d58b3f3ca97300a03cc76f8a6fe29ca3d991ee8242c17ca",
+      "origin": "ai"
+    },
+    "dataList[id=LvDownLittleFingerBossTwo].name": {
+      "pl": "Rana Ostrza Gwiazdy Tiansha [天殺星傷]",
+      "kr_sha256": "c0e65f504277092120ddfb387a92696d42d32f309819ed24400c982b5ce0c69c",
+      "en_sha256": "ed15ed3ec4c7bff25fb2413aeb2f59c0837ea2c6d16446568ab58978dbb4169b",
+      "origin": "ai"
+    },
+    "dataList[id=LvDownLittleFingerBossTwo].summary": {
+      "pl": "- Traci Podstawowy Poziom Ataku i Podstawowy Poziom Obrony",
+      "kr_sha256": "9cce44d26842d58f9f8bc14d2ec39414ba77f6faad753e7692424f06499e6b4b",
+      "en_sha256": "73c72372f167a0c9551f0a29c14caaeb199d3b434998533c4b554c215d319355",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpFireFly].desc": {
+      "pl": "- Podstawowy Poziom Ataku +10\n- Podstawowy Poziom Obrony +10",
+      "kr_sha256": "9be35137f2a720f4b85e1ba75f52021edd4d995127a5229eb3b170fb21e6dd8f",
+      "en_sha256": "fde1af207019f8aefd4cb0b7900c8ce139c9ce88efb7c5657e1cd4fd26c3dedd",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpFireFly].name": {
+      "pl": "Wzrost Dostrojenia E.G.O",
+      "kr_sha256": "87ec11f3632539837fa512f9d6ba96def7f38df6037d1c6339ea0e318d471c18",
+      "en_sha256": "0a87812802173559dc36159fd9ba9b7af832501ba7e6a20233d4ac82d8095402",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpFireFly_Over].desc": {
+      "pl": "- Podstawowy Poziom Ataku +10\n- Podstawowy Poziom Obrony +10\n- Koniec tury: zyskuje 4 Podpalenia i traci 5 Poczytalności",
+      "kr_sha256": "bcbbe92123760243a34d16c4d2c7a8c8f6b4aaeae09ba8803b804a03963c8b5d",
+      "en_sha256": "16fd6fe8201b3455ed1f7bee18249cfb57f0bb405bfaa9ba64bd98de44885b73",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpFireFly_Over].flavor": {
+      "pl": "Bezwstydnie drenuje moc wyekstrahowanego E.G.O.",
+      "kr_sha256": "84921075872261f744750c4acc0f30a3ef80829482af6fa0b9c05f643b3ea050",
+      "en_sha256": "21161c2252dadc72ebe18a794dc0e48d31f148e3a4368d989528aef5e8d80a5d",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpFireFly_Over].name": {
+      "pl": "Przeciążenie Dostrojenia E.G.O",
+      "kr_sha256": "37ac528ae023e1a25f0613ee7979e906e1cab7a9d79c3f16087520e11feebefc",
+      "en_sha256": "0ad299c13f0955fea7562329f8a9c137a45d7234c1e941449d8598f22850ffff",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpHohenheimBigBird].desc": {
+      "pl": "- Podstawowy Poziom Ataku +15\n- Podstawowy Poziom Obrony +15",
+      "kr_sha256": "484f3803e005213c52108c705171e5504864e341e30d97fbc171642fb4162bb3",
+      "en_sha256": "066a29b17814838e7c656df5016520be6c83bb004097ebf20b298b9b8b95f06d",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpHohenheimBigBird].name": {
+      "pl": "Wzrost Dostrojenia E.G.O",
+      "kr_sha256": "87ec11f3632539837fa512f9d6ba96def7f38df6037d1c6339ea0e318d471c18",
+      "en_sha256": "0a87812802173559dc36159fd9ba9b7af832501ba7e6a20233d4ac82d8095402",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpHohenheimBigBird_Over].desc": {
+      "pl": "- Podstawowy Poziom Ataku +15\n- Podstawowy Poziom Obrony +15\n- Na koniec tury podnosi Lampę do 20 stosów; traci 2 HP i 1 Poczytalności za każdy zdobyty stos (ten efekt nie obniża HP poniżej 1)",
+      "kr_sha256": "1e12da238f19b0d94f3514a21cd974404f98338551278d4ea464cd2afe2280fd",
+      "en_sha256": "2230079b184774a794bd9609d5ca5410da119e734e5c0a1756c9b8066a4056a6",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpHohenheimBigBird_Over].flavor": {
+      "pl": "Bezwstydnie drenuje moc wyekstrahowanego E.G.O.",
+      "kr_sha256": "84921075872261f744750c4acc0f30a3ef80829482af6fa0b9c05f643b3ea050",
+      "en_sha256": "21161c2252dadc72ebe18a794dc0e48d31f148e3a4368d989528aef5e8d80a5d",
+      "origin": "ai"
+    },
+    "dataList[id=LvUpHohenheimBigBird_Over].name": {
+      "pl": "Przeciążenie Dostrojenia E.G.O",
+      "kr_sha256": "37ac528ae023e1a25f0613ee7979e906e1cab7a9d79c3f16087520e11feebefc",
+      "en_sha256": "0ad299c13f0955fea7562329f8a9c137a45d7234c1e941449d8598f22850ffff",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherGuts].desc": {
+      "pl": "- Otrzymywane obrażenia są blokowane na 1 (z obrażeniami słów kluczowych)\n- Po wygranym Starciu odzyskuje dodatkowo (liczba starć x 5) Poczytalności (maks. 15)\n- Na koniec tury, jeśli w tej turze stracił Poczytalność od Umiejętności, zyskuje w następnej turze 3 Wzrost Obrażeń",
+      "kr_sha256": "0c9a843a243dccd644bcfc4dfcf431d3358f7c65b2953e7dde0f2625db18ddb9",
+      "en_sha256": "054d0b98296cb87efb6bc6afa62060c3e39da9231f6d0a98fcb39ee7693eb20d",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherGuts].flavor": {
+      "pl": "„Shin (心) czy co tam jeszcze — nic z tego nie potrzebuję. Zaciśnę zęby i wyciągnę całą moc ze wszystkich wytatuowanych do dziś znaków. Bez technik pokroju Shin (心) i tak jestem wystarczająco silny.”",
+      "kr_sha256": "1ed9387fc60024c8b04b9fd2d9686d877cb0859c25076026461585cf8359fe48",
+      "en_sha256": "71483128d394d28c0a4730d40b8e9a12ee325eb41622476c6f858b3048755ef4",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherGuts].name": {
+      "pl": "Zwariowana Wytrwałość",
+      "kr_sha256": "3d9118367b837e72c0b362426503073211fdc27abf3f820ad37744b9019c2da6",
+      "en_sha256": "bee1ed7de445e52082b3c1d331ca604db2a6f45fe2aa51575bb59ca54b1b999a",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordFour].desc": {
+      "pl": "Otwiera dostęp do określonych Umiejętności zależnie od stanu miecza.\nNa początku tury nakłada 5 Podpalenia i +2 Licznika Podpalenia na wszystkie postacie",
+      "kr_sha256": "b8071fc232477a99d6240dc7baa01e1f6acd20e79305033f2fa48b49073a8ea0",
+      "en_sha256": "0e607c74514702dbc37605e9dcb15f0755ed5ac9fe27294ba4e5ea8ac62a5169",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordFour].flavor": {
+      "pl": "Ironia losu: to ostrze przerastało umiejętności Matthiasa.\nOczywiście, bez odpowiedniej predyspozycji nie zdołałby go nawet podnieść — tak wybredny jest ten Relikt.\nPrawda była jednak taka, że jego talent był zbyt mały, by w pełni panować nad bronią.\nAle to człowieka nie obchodziło.\nLiczyło się tylko to, że legendarny miecz, o którym marzył od dzieciństwa, należał teraz do niego i mógł nim machać do woli.",
+      "kr_sha256": "29f5d93ebd95509db4365278b0df9164ed10a9ac0a656d47ba6330dddb475a78",
+      "en_sha256": "784750f9f5e855d5401a1d29f75ce95d196ae4a47afd56591814508e9b5c5a6e",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordFour].name": {
+      "pl": "Lævateinn",
+      "kr_sha256": "b3616023834feefa410d63c1d1a30859895940d488f0ab32c5f7cdb47f111237",
+      "en_sha256": "05f6c02fbeb6cc9b87c323367bf743da8a5f9abd3bae84877ff4b0659a57997a",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordOne].desc": {
+      "pl": "Otwiera dostęp do określonych Umiejętności zależnie od stanu miecza.",
+      "kr_sha256": "d56e3ce5cfae3508caf40d932c03535dd0fd597a2b72bca8d83180a0105e16ed",
+      "en_sha256": "0c3621b88e82dba5a8dae7487df248c7eb60d3fbd963e2f2151cad1a24b188cb",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordOne].flavor": {
+      "pl": "Zgodne rodzeństwo wyruszyło w głębiny ruin.",
+      "kr_sha256": "33191173637240ae4eae180798821d63daf79eb557d4173bbb0ca61c64845aac",
+      "en_sha256": "2d01d7049721e0b025733953b4ee5d8050252bc97e19a4cabae47fcdeb28446e",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordOne].name": {
+      "pl": "Pieczętowany Miecz",
+      "kr_sha256": "5b9b03737852e863c3f0e72edd84d1fe2358b3d1c72fa67c4553ad2f3d66bcd6",
+      "en_sha256": "7d30e2eed4cc9dfff6fddb31e975663eb90f01169d964e755e2a275624b9c03d",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordThree].desc": {
+      "pl": "Otwiera dostęp do określonych Umiejętności zależnie od stanu miecza.",
+      "kr_sha256": "d56e3ce5cfae3508caf40d932c03535dd0fd597a2b72bca8d83180a0105e16ed",
+      "en_sha256": "0c3621b88e82dba5a8dae7487df248c7eb60d3fbd963e2f2151cad1a24b188cb",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordThree].flavor": {
+      "pl": "„Jako najstarszy brat wezmę ten miecz dla siebie.”\nTe słowa rozpaliły w najmłodszym nieugaszoną pożądanie i zazdrość.\n\nZabiłem więc brata i siostrę, i wziąłem miecz. Ani śladu.\nLecz oczy patrzyły z podejrzeniem, a gdy wtrącili mnie do tego piekła, spadłem bez oporu.\nMimo to nie straciłem uśmiechu.\nBo miecz legend był mój.",
+      "kr_sha256": "474931fce3fc95e22515802aad7f26b1891c0344b47ed22de17db34f32918cb8",
+      "en_sha256": "eb901acdf1d1ef3b9ee29dd9de1289290b67512c2e6088da901a3500e2be919c",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordThree].name": {
+      "pl": "Zdjęta Druga Pieczęć",
+      "kr_sha256": "5b804c7a3a05fdc0b607522a0d7a0e6f55ad7661765eb64812d4d70438769d8e",
+      "en_sha256": "adde12cd2ea7b79a2a72652da4d19f4355bef3cdee40a9361038ec73523875f1",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordTwo].desc": {
+      "pl": "Otwiera dostęp do określonych Umiejętności zależnie od stanu miecza.",
+      "kr_sha256": "d56e3ce5cfae3508caf40d932c03535dd0fd597a2b72bca8d83180a0105e16ed",
+      "en_sha256": "0c3621b88e82dba5a8dae7487df248c7eb60d3fbd963e2f2151cad1a24b188cb",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordTwo].flavor": {
+      "pl": "Znaleźli się w piekącej jaskini, gdzie po płynącej lawie dryfowały budynki.\nU źródła żaru leżał miecz... a raczej kawał białego gorącego metalu, którego nie dało się nazwać mieczem.",
+      "kr_sha256": "909da6a23c454c47ea9f53de9ecbe270c696a6fee9b6e123a93c3f4b3040b147",
+      "en_sha256": "4b939554988f01b6ab90aecc69ff81b2e2e033e512133684af8c924f01007481",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFatherSwordTwo].name": {
+      "pl": "Zdjęta Pierwsza Pieczęć",
+      "kr_sha256": "52edebfe08e79e1f735db3a91f847601bd303d6e78df699a75d9b37379b74c5e",
+      "en_sha256": "1b432872c2ecef889d8182e9347060d69bb3122b8aa19758d766759622328968",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaddy_LowMorale].desc": {
+      "pl": "- Niskie Morale\nNa początku tury zyskuje 2 Wzrostu Mocy Ataku i 4 Spadek Poziomu Obrony,\noraz 1 Wzrost Obrażeń za każde 30 otrzymanych w poprzedniej turze obrażeń HP (maks. 5)",
+      "kr_sha256": "9ec8b25781f479a9cbddad690811fa3a4ef82d62a3ce360fa1a392a8ec2636fa",
+      "en_sha256": "3a050efbf84ff6afb5422cf4b91825826fec56853672de590070f198a92dc33b",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaddy_LowMorale].name": {
+      "pl": "Szał",
+      "kr_sha256": "9faf1f02bce8aad9157d03056f40c6d17b55322880135846859a46673432d0cd",
+      "en_sha256": "a261fb7814d18d326827d615cacca1ff7e4932a5f77c41b236221b40ba497bfd",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaddy_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 3 Wzrostu Mocy Ataku i 5 Spadek Poziomu Obrony,\noraz 1 Wzrost Obrażeń za każde 25 otrzymanych w poprzedniej turze obrażeń HP (maks. 5)",
+      "kr_sha256": "68871cb36c9f5de599e3b51dbe86979519c07485e09fd3576f675da3983e4a2c",
+      "en_sha256": "826f84d820aebac8b6c77d0e2d51d779ddd531fb35a9b94f5be57865c55bdf70",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaddy_Panic].name": {
+      "pl": "Szał",
+      "kr_sha256": "9faf1f02bce8aad9157d03056f40c6d17b55322880135846859a46673432d0cd",
+      "en_sha256": "a261fb7814d18d326827d615cacca1ff7e4932a5f77c41b236221b40ba497bfd",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaughter_LowMorale].desc": {
+      "pl": "- Niskie Morale\nNa początku tury zyskuje 2 Spadek Poziomu Obrony,\ni 1 Wzrost Obrażeń za każde 30 otrzymanych w poprzedniej turze obrażeń HP (maks. 5)",
+      "kr_sha256": "b570ef3cd1d51abe46ba8521fe9e476a3a7f149a6f1e101860373ef642f1e4df",
+      "en_sha256": "a5918a5f089a94f819e6cac8ac45d65c823677e9c2e873ae14c805a42e362c1b",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaughter_LowMorale].name": {
+      "pl": "Podniecenie",
+      "kr_sha256": "6943e6a2835bf0700b9f274535bc6dea9cdfaf21eea4e1f83df048b93474e581",
+      "en_sha256": "8e7e9a856d39a952ba8a6e473777b9a799fbe98cf63f6a10045c0f625f25618e",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaughter_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 1 Wzrost Mocy Ataku i 3 Spadek Poziomu Obrony,\noraz 1 Wzrost Obrażeń za każde 25 otrzymanych w poprzedniej turze obrażeń HP (maks. 5)",
+      "kr_sha256": "76722f63ecb61a4d78d8abc643153d1183c7b1056d08feaee17a2a4e8f03ae09",
+      "en_sha256": "066be26152d67db5eff9c3209ec27442174c1e17290cd1bc5e879a8c2937a8a3",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerDaughter_Panic].name": {
+      "pl": "Podniecenie",
+      "kr_sha256": "6943e6a2835bf0700b9f274535bc6dea9cdfaf21eea4e1f83df048b93474e581",
+      "en_sha256": "8e7e9a856d39a952ba8a6e473777b9a799fbe98cf63f6a10045c0f625f25618e",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerEzraSin].desc": {
+      "pl": "- Podstawowy Poziom Obrony +2\n- Podstawowa Moc Ataku +1, Moc Obrony +2\n- Za każdy stos Głębokiego Oddechu - Czerwieni Moses: Wsparcie Obrony używane przez Ezrę i Vespę odzyskuje dla Ezry +4 Poczytalności (maks. 12)",
+      "kr_sha256": "8351fdd223900bd454eeeec209fc9ebdf5e3d16a827f29a0789ef6f17d8e3e6d",
+      "en_sha256": "79f294af93e8c26113731fd87aad916786506974d5d9ce235d8f952045596ad6",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerEzraSin].name": {
+      "pl": "Shin (心) - Ezra",
+      "kr_sha256": "e83e7104d0110ace4bbf650a0eedd74e11d029c459e406946b1fa87e37877261",
+      "en_sha256": "dffdf9caa96ff705bcd4362b9973a0dc5f2d23b773bc0d9fddac4106b4dde3c0",
+      "origin": "ai"
+    },
+    "dataList[id=MineTheRings].desc": {
+      "pl": "- Na początku tury zyskuje 4 Wzrost Mocy i 2 Wzrost Mocy Cięcia\n- Nakładając Krwawienie Umiejętnościami ataku, nakłada dodatkowo 2 Siły Krwawienia",
+      "kr_sha256": "9d726c228ef9e54d9c8adcb769f91d7d4464724ea86fe95aa9f9cc96997a1a2a",
+      "en_sha256": "91733e0fc4518443b3401626582c6b9f15aef72e19c156f29e90bd41d4253718",
+      "origin": "ai"
+    },
+    "dataList[id=MineTheRings].name": {
+      "pl": "Dzieło: Tibia",
+      "kr_sha256": "3b3674cfc27ea355ad4be4154428e97cbe6f1c2593b86ee3965156a245946e5a",
+      "en_sha256": "e5177068bfe37eb6645df8a9a8abca25b8ccf018e69ce1c27ef6fa9573e7d8e5",
+      "origin": "ai"
+    },
+    "dataList[id=MosesMiddle_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wrażliwości i nakłada +2 Wzrostu Mocy Obrony na Ezrę i Vespę",
+      "kr_sha256": "0dca5f65fb478bd94741c660ecfbea6e2c4ed0a316911e289cb863f21def6c80",
+      "en_sha256": "1ea5a3b41e2920ce06cd1c9629275b7cd5054ac83ecdebc46a16a5a47b3181ac",
+      "origin": "ai"
+    },
+    "dataList[id=MosesMiddle_LowMorale].name": {
+      "pl": "Ciało Nieodwracalnie Złamane",
+      "kr_sha256": "9811fde62b630ae84e7301677f43f3aff2b696c36581f9214ac339403f71d3f4",
+      "en_sha256": "4a2d6182bc5a05e313ea3cb6d24002013deb95c7b1e5bf7f7443ec073b3021c0",
+      "origin": "ai"
+    },
+    "dataList[id=MosesMiddle_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 1 Wrażliwości i używa „Wyrównania Oddechu”",
+      "kr_sha256": "a0570716db9db55eb350d6418acfb59100605fb088e3e0f9c1da5a0876102bf0",
+      "en_sha256": "9f49865bafcda076c6334eea733862f136d258cfca3a54dbb3458c0b31b6d705",
+      "origin": "ai"
+    },
+    "dataList[id=MosesMiddle_Panic].name": {
+      "pl": "Ciało Nieodwracalnie Złamane",
+      "kr_sha256": "9811fde62b630ae84e7301677f43f3aff2b696c36581f9214ac339403f71d3f4",
+      "en_sha256": "4a2d6182bc5a05e313ea3cb6d24002013deb95c7b1e5bf7f7443ec073b3021c0",
+      "origin": "ai"
+    },
+    "dataList[id=MosesPurpleBreathBind].desc": {
+      "pl": "- Maks. stosów: 4\n- Na koniec tury traci HP i Poczytalność równą wartości\n- Na koniec tury Moses traci HP i Poczytalność równą wartości\n- W następnej turze zyskuje 2 Wrażliwości, 3 Spętań i 3 Osłabienia Monet Plus\n- Przy wywołaniu efektu traci 1 stos",
+      "kr_sha256": "98171bda90a0b31ed42dbe55ad84adeff79a72ac74713ddbc1dacd25cffc05cd",
+      "en_sha256": "fec59450f438aad95c48b65fb61201d115435e762d972e1d957976393d82e8c6",
+      "origin": "ai"
+    },
+    "dataList[id=MosesPurpleBreathBind].name": {
+      "pl": "Fioletowy Oddech - Histeria",
+      "kr_sha256": "47a0107d99e2186e026ba7591e86474ad97cbcb04fe06f367ab690fa2e51b74f",
+      "en_sha256": "829111691feb92f39a3a2bea59c2330295a9c11e2597bbb5e0a6993395205afc",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathAttack].desc": {
+      "pl": "- Zyskuje 5 Poziomu Ataku\n- Moc Starcia podstawowych Umiejętności +5",
+      "kr_sha256": "848662df0041391432dfec37b6b2c1d801a8dd31b1bb8a6b102507f1fc84ec03",
+      "en_sha256": "f547b5f4d6c9acb412fcca154cdc60682fc5d0711feaadf3292c7284e233dacc",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathAttack].name": {
+      "pl": "Czerwony Oddech - Granica Ciała",
+      "kr_sha256": "f56b90f86227a2ba89bb28afb2c1abcca56f06472943d60d7874b9f7b47606ae",
+      "en_sha256": "5cac59f0cbe7010e64466d937f078105ab4be200a7287b3c35df0b0ea3e132c3",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathBody].desc": {
+      "pl": "- Poziom Ataku i Poziom Obrony rosną o (Poczytalność / 10) (zaokrąglone w dół)\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "4f5644515300e22602a2e5899aa82e255dbc125e86564ad7b2614d9bd75a6625",
+      "en_sha256": "d5e244516f88259ec00a394d7fbc46a5ac4e578747ad22b4585f4538ee54bed8",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathBody].name": {
+      "pl": "Czerwony Oddech - Wzmocnienie Ciała",
+      "kr_sha256": "f8f66e93b7d4028556ba55e9c1ded689211519a7e88d0430568ed21cd5cddffd",
+      "en_sha256": "d429583a47999d679dd5cc8b2f5155a4e9fcc4fecd28512f44960212d3c7c81d",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathCharge].desc": {
+      "pl": "- Maks. stosów: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Na koniec tury przy Maks. stosach używa potężnej Umiejętności</u></b></mark></color>\n- Zużywana przy użyciu określonych Umiejętności\n- Ten efekt chroni przed Paniką\n- Otrzymuje +(stosy x 20)% obrażeń i traci Poziom Obrony równy liczbie stosów\n- Na koniec tury otrzymuje 10 obrażeń HP i 20 obrażeń Poczytalności",
+      "kr_sha256": "57285a187bb96cd851dc7664a738a207e05397090ec19b0e5759f1230df360a6",
+      "en_sha256": "0590c8a9c13850a33f5d399b431e61f14db0599c39a9b6ee06ff44db2846be99",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathCharge].flavor": {
+      "pl": "Pogrąża się głębiej, a z każdym oddechem połyka szkarłatne obrazy.",
+      "kr_sha256": "42562cfeb174e52e970ff60ddfd51cc88880c4a5e77de884cd69762257efbc0a",
+      "en_sha256": "5f00147a1954fe8d0b650e836da6d440877b56ba35e2539418cad4248655f739",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathCharge].name": {
+      "pl": "Głęboki Oddech - Czerwień",
+      "kr_sha256": "f4136271b7acc4e9619b6354b8f8c546eab1948c376a3a949b250e26a6366530",
+      "en_sha256": "c547e80c948159a7f9447c96b4f9d70d24d8f46d7b91b0b8f48710a82d491f43",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathShield].desc": {
+      "pl": "- Na początku tury zyskuje 30 Tarczy na tę turę",
+      "kr_sha256": "eb271b7f724dc1cace7d96670a07c60ab976b5b016e978fde2579122f23559a6",
+      "en_sha256": "6ae64dd18095c755518f2918285b4ddfdf959354aab457a4b5e48b5f51e095fe",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathShield].name": {
+      "pl": "Czerwony Oddech - Ochrona",
+      "kr_sha256": "c14408cffc56cc5a080babcc4febc339b37fafa1bbe2d69afa16a2b4e6c30cfd",
+      "en_sha256": "5a01349fba2f786176c008d64b4f8643132390971813e40c54a6ab5d52797421",
+      "origin": "ai"
+    },
+    "dataList[id=MosesSin].desc": {
+      "pl": "- Poziom Obrony +3, Moc Obrony +2\n- Jeżeli straciła Poczytalność przez efekty utraty Poczytalności swoich Umiejętności, w następnej turze zyskuje Ochronę równą (utracona Poczytalność / 5)",
+      "kr_sha256": "44fe2eb50f91e577c59711c05994bd680cba0cac2ce936a88cbcdd2d3302b11d",
+      "en_sha256": "d464357a2ee191ff313ccb7ca4c8ed1ffc508bf03d8626e6022447df6d4e098b",
+      "origin": "ai"
+    },
+    "dataList[id=MosesSin].name": {
+      "pl": "Shin (心) - Moses",
+      "kr_sha256": "2df381ab646ad03e5c9cb91422f7e5daaf6076ec324a382c1c4a2c0e0ed7a369",
+      "en_sha256": "da2b57d01a760cb4b208c3ff12711e88e8966c984bf6cfbbb42f9a883e65d9f3",
+      "origin": "ai"
+    },
+    "dataList[id=MosesWarPTSD].desc": {
+      "pl": "- Podstawowy Poziom Ataku -??\n- Podstawowy Poziom Obrony -??\n- Na początku tury zyskuje 5 Pośpiechu",
+      "kr_sha256": "cf82191bfe065580286a92d2fcaec8450794fb6e9353c22ebfabf74a3f297c97",
+      "en_sha256": "9bf47cf06435d90733224f55ce3474e97dd791926ac36bd56764073eec6d1db3",
+      "origin": "ai"
+    },
+    "dataList[id=MosesWarPTSD].name": {
+      "pl": "Wspomnienia Tamtego Dnia",
+      "kr_sha256": "cc3f22ab422d5964cb9f944717d823b4ca75c2d3510b5025cb19f7524d5e5649",
+      "en_sha256": "b1c0dd76c7dc07c14cb4cd2a6f0bd52ab1dff4f6c3c9bf89dcadedaeed9cd611",
+      "origin": "ai"
+    },
+    "dataList[id=MosesWhiteBreathMental].desc": {
+      "pl": "- Odzyskiwana Poczytalność z podstawowych warunków wzrostu Poczytalności rośnie o 5\n- Tracona Poczytalność z podstawowych warunków spadku Poczytalności maleje o 5\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "dda2ff90c6cbd4ccb2d6a4243a2e1f8c0cd4bb26febe7927de49cc3ad824070a",
+      "en_sha256": "9fe8a4908a765e07bd931e2be10dde1883de50c8effd64c300449add5465e724",
+      "origin": "ai"
+    },
+    "dataList[id=MosesWhiteBreathMental].name": {
+      "pl": "Biały Oddech - Osłona Umysłu",
+      "kr_sha256": "b56f0073d9b3ce510e7010f46731e562921114bf103cded3e6684d10699fa88a",
+      "en_sha256": "d17eb8d71455e4ee718e0ad11247e8e6eb2200752c93001a3c0341c3f684687e",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationTheRings].desc": {
+      "pl": "- Podstawowy Poziom Ataku -20\n- Podstawowy Poziom Obrony -20\n- Funkcje wycofania Grzeszników i jednostek wsparcia nie działają\n- Jeżeli Uczeń Serdecznego jest gotów do walki, na początku tury zyskuje 7 Ochrony",
+      "kr_sha256": "a47604acc4bbfda9374a996c1b2e1a707c2618e5a96b152ea50c2e0fce48106d",
+      "en_sha256": "8acbdf181ec8877e034ec4a1c5dea4d931b74ee5483fc46ce376eddfc61ed2f3",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationTheRings].flavor": {
+      "pl": "„Podziwianie dzieł sztuki w galerii wymaga niespiesznej kontemplacji. Proszę pamiętać — niecierpliwość tępi wrażliwość na sztukę.”",
+      "kr_sha256": "f4a5daae9e60c265c1da42a607b43d9869d10a12ee12e133b289b7074686a53c",
+      "en_sha256": "c06d8b73ffe441716099fb474d2af40d40a7dfc1d914ff523307cbfb07394acc",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationTheRings].name": {
+      "pl": "Podziwianie Tableau",
+      "kr_sha256": "6c484d89a13c7b9c8ee6862cfba7f7f5922e5f81b4f538a20a9e20df1e8fde8a",
+      "en_sha256": "284ab85293e4c69e8d439b0b160a6869cb6ea322d70a82ab6a421bf061b95977",
+      "origin": "ai"
+    },
+    "dataList[id=ObsessedTeacher_LowMorale].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Obrażeń Cięcia, 1 Wzrost Mocy Starcia i 1 Wrażliwości\n- Przy użyciu Umiejętności nie może zdobyć Mangu",
+      "kr_sha256": "ea8e108feef8f8079f69b4bed81137fbd891a4969af90f187e9c637dc320946a",
+      "en_sha256": "ad40a5ae1c9b966c8d8f66f21710d65acd4c45cd3eba8f6eb9ff2329140df14d",
+      "origin": "ai"
+    },
+    "dataList[id=ObsessedTeacher_LowMorale].name": {
+      "pl": "Wstyd Rodziny",
+      "kr_sha256": "fd7d999d5edbd48cc1068f318b36b2a7f901fb7f673253ceee320a40b184a0e0",
+      "en_sha256": "594c600231ab2ee6d3a954fc6d2549b1844a292e71a8ae5813f6f38bf207e17b",
+      "origin": "ai"
+    },
+    "dataList[id=ObsessedTeacher_Panic].desc": {
+      "pl": "- Na początku tury zyskuje 2 Wzrostu Obrażeń Cięcia, 2 Wzrostu Mocy Starcia i 2 Wrażliwości\n- Przy użyciu Umiejętności nie może zdobyć Mangu",
+      "kr_sha256": "5a03bfff38a6b94e34a921baf1ceb403b456556d0eb2feb4b3928f24b22b36b7",
+      "en_sha256": "eacd507a8cb552da77d1584c3725e1775574d8f99dd3e180fa12a4f4fb65f0d6",
+      "origin": "ai"
+    },
+    "dataList[id=ObsessedTeacher_Panic].name": {
+      "pl": "Wstyd Rodziny",
+      "kr_sha256": "fd7d999d5edbd48cc1068f318b36b2a7f901fb7f673253ceee320a40b184a0e0",
+      "en_sha256": "594c600231ab2ee6d3a954fc6d2549b1844a292e71a8ae5813f6f38bf207e17b",
+      "origin": "ai"
+    },
+    "dataList[id=ObsessionAndGreed].desc": {
+      "pl": "- Poziom Obrony +3 za każdą przegraną w Starciu w poprzedniej turze (maks. 6)\nZadaje +3% obrażeń za każdą Siłę Oddechu (maks. 15%)",
+      "kr_sha256": "5f9c0400cddb15e7ccc40a738698b02f943545c2d806ccdbc614d82506a3bffa",
+      "en_sha256": "908edbcb8981508839637687652bf3c0878233955f67d262200f25bfc3d93f4a",
+      "origin": "ai"
+    },
+    "dataList[id=ObsessionAndGreed].name": {
+      "pl": "Shin (心) - Valencina",
+      "kr_sha256": "cfbbb8c149a75140dbd1af4a5379863a1beef2076197cb2905e107752e810f23",
+      "en_sha256": "dfb51ba97442b5203ef6e5fca94d9250176c8d3e2359db308f9169b2fa95c5d1",
+      "origin": "ai"
+    },
+    "dataList[id=OffenseBug].desc": {
+      "pl": "- Maks. stosów: 50\n- Maks. HP maleje o 1% za każdy stos\n- Na początku walki otrzymuje (stosy x 12) obrażeń stałych\n- Przy utracie stosów zyskuje losowe Zasoby E.G.O w liczbie utraconych stosów (maks. 15)",
+      "kr_sha256": "93cf7b5d0d38a53b55a44bc1edb5e00fed7e81ed2091dd1c6a0dbd978f22d010",
+      "en_sha256": "79062e289a2722fa4d786ed4b312265e637746632d0327c27b8f228cdf7fd886",
+      "origin": "ai"
+    },
+    "dataList[id=OffenseBug].flavor": {
+      "pl": "„Wśród istot zwanych szkodnikami ten jest niepokonany.”",
+      "kr_sha256": "6e71c5aa52a27bf5a24227997a183cbe3b48d4cb6ab592ca7820f37c72408cc7",
+      "en_sha256": "5f65764752ee68e03b5cdf780187113efb9822bed4d8e5f43b39dc4993c47e5a",
+      "origin": "ai"
+    },
+    "dataList[id=OffenseBug].name": {
+      "pl": "Szkodnik Ataku [Karaluchy]",
+      "kr_sha256": "93fbb88665818262a96a56c51c508125ae400c871410cdf8ad97b52a0d546009",
+      "en_sha256": "201461f5631f203762ab7297b0bd6fa41309abb090e31bdffbc227b5fe4c4fe6",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScar_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 5 Podpalenia i 5 Krwawienia\n- Otrzymuje +10% obrażeń od Grzesznika Ryōshū",
+      "kr_sha256": "8569cfad90ea62dca4ab7763484a88f608517bd0ec22703066e98d35eaa81251",
+      "en_sha256": "df4848b2a9ff72d4c8e0f77dee6722391285bf1b922f8f1d9a24f138d9618e13",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScar_LowMorale].name": {
+      "pl": "Imitacja Ojca",
+      "kr_sha256": "bfac4087802e53b634b246a3c302efdc777efe035ab53c59ba39b73d06012f28",
+      "en_sha256": "7bb878ab8da54f06dd78ffe7a855c40f9fb81f6cfa39fd2b775051ddd2a6dba3",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScar_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury: 5 Podpalenia, 3 Licznika Podpalenia, 5 Krwawienia i 3 Licznika Krwawienia\n- Otrzymuje +20% obrażeń od Grzesznika Ryōshū",
+      "kr_sha256": "6a6d5ae6492d63c3c6b5ad9dcb25b4c7ab50602cca16c1e53985f88a4cc1e968",
+      "en_sha256": "dd44820265ef53e6f6ed9f205be8b8082398dce25e41bd46aaf522e50e8ecfcd",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScar_Panic].name": {
+      "pl": "Imitacja Ojca",
+      "kr_sha256": "bfac4087802e53b634b246a3c302efdc777efe035ab53c59ba39b73d06012f28",
+      "en_sha256": "7bb878ab8da54f06dd78ffe7a855c40f9fb81f6cfa39fd2b775051ddd2a6dba3",
+      "origin": "ai"
+    },
+    "dataList[id=RedemptionTheRings].desc": {
+      "pl": "Przy użyciu Umiejętności zyskuje 2 Spadek Poziomu Ataku (maks. 3 razy na turę)",
+      "kr_sha256": "e9542bddfeee90fc72a5e89ac1cea877f517508a9f18812c1bb2136e857082b9",
+      "en_sha256": "55156d9a2c2c5edd3f3a8ab770c25895159b3f32de181d8af81fca699036494e",
+      "origin": "ai"
+    },
+    "dataList[id=RedemptionTheRings].name": {
+      "pl": "Rana Tracąca Materiał",
+      "kr_sha256": "07c8a32f9beba70d326adea03b2bc1ae5b3ad16226c9ea133c456898ef503de6",
+      "en_sha256": "6686ed1c986d010b4fa351e4d608b43871bf12be2d907133f04a361a8ac698b1",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpiderDaughter].desc": {
+      "pl": "- Maks. stosów: 3\n- Znika na koniec tury\n- Zadaje +10% obrażeń Obuchu i Zawiści",
+      "kr_sha256": "58e080328e6a18f9ee039db4cd5df2e2cfe5ed2cd91cbbe2ee3f28110a1535b6",
+      "en_sha256": "104749dde7e6270bd9be550367525541901984ca2ae215486de80cf41fea26d3",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpiderDaughter].name": {
+      "pl": "Wzmocnione Tatuaże Stylu Środkowego",
+      "kr_sha256": "3dc4aa2c3936be4cb896860a8326aebae36c2d735ba3645e9f0a30d2598ae612",
+      "en_sha256": "06465791caf4ecdf22dc74b1e28a8e5b63d42ad2ee032839487940ecd7d7cb6b",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpider].desc": {
+      "pl": "- Maks. stosów: 2\n- Znika na koniec tury\n- Zadaje +10% obrażeń Obuchu i Zawiści",
+      "kr_sha256": "2ae47929f372adf4d178f0dbd88b9941d6246daae7bd97c66e63c86d08b7a7bc",
+      "en_sha256": "77bc86cd06eca9023fb3b64c78298437c6bdb12e25c99a751adf161209a2e70a",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpider].flavor": {
+      "pl": "Z lojalności zrobił się Wielki Brat; tchórz z niego, gdy dla jednego miecza zdradził tę lojalność.",
+      "kr_sha256": "b237e33f769839dbc7f1125f520cc01091cd773ac213fadaed51d32c77b1fb7e",
+      "en_sha256": "d9b055551744846fc4b44db4ee35083436e3765b2d6c86a5197d51b75f38d0d2",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpider].name": {
+      "pl": "Środkowy - Tatuaż Zemsty [<s>Wielki Brat</s>]",
+      "kr_sha256": "cf454dfb7359c96848a45f8c72e3148bff554739564c37e854bcdae6bc7a681b",
+      "en_sha256": "9f8f64d91565a1a70f99c99524b2b94d89de89da8221d9e24a22cb153444c4af",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpiderDaughter].desc": {
+      "pl": "- Maks. stosów: 10\n- Zmniejszana przy użyciu określonych Umiejętności\n- Za każdy stos: Poziom Ataku +1, Poziom Obrony -2, Obrażenia Umiejętności Kontratakujących +5%\n- Przy maks. stosach otrzymuje +20% obrażeń",
+      "kr_sha256": "9b0a0d97a346d92f1942ee205176a452a7072810261b3ea848677b741d62733e",
+      "en_sha256": "b285a0bd7a96c305c73734c943e4887b17a755b7f8b9bda3ce257eadf63a0c6a",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpiderDaughter].name": {
+      "pl": "Środkowy - Uraza",
+      "kr_sha256": "c265e0d68eabc0f573b9954efec8d50f9d8ec8fdfb77ee8e880c17b22718d569",
+      "en_sha256": "9df2cbc8cc8848e8662c1281f3f4f5294f020947a8c0efeb32781733723a02fc",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpider].desc": {
+      "pl": "- Maks. stosów: 10\n- Zmniejszana przy użyciu określonych Umiejętności\n- Za każdy stos: Poziom Ataku +1, Poziom Obrony -2, Obrażenia Umiejętności Kontratakujących +5%\n- Przy maks. stosach otrzymuje +20% obrażeń",
+      "kr_sha256": "9b0a0d97a346d92f1942ee205176a452a7072810261b3ea848677b741d62733e",
+      "en_sha256": "b285a0bd7a96c305c73734c943e4887b17a755b7f8b9bda3ce257eadf63a0c6a",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpider].flavor": {
+      "pl": "Środkowy nie zapomina.",
+      "kr_sha256": "8a012263665caa39023238d0f93631b1f7e3b1e9210b7a676f7f31e0d751c723",
+      "en_sha256": "1733b7c12806d9a0b83875527e71f179e258ed75a3c05f5f859d63a2ff73334f",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpider].name": {
+      "pl": "Środkowy - Uraza",
+      "kr_sha256": "c265e0d68eabc0f573b9954efec8d50f9d8ec8fdfb77ee8e880c17b22718d569",
+      "en_sha256": "9df2cbc8cc8848e8662c1281f3f4f5294f020947a8c0efeb32781733723a02fc",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon01Hatchet2phase].desc": {
+      "pl": "- Zadaje obrażenia Obuchu\n- Przy trafieniu bez Roztrzaskania zyskuje 2 Oddechu i +2 Licznika Oddechu",
+      "kr_sha256": "4b8ccfa6a9301c1031ec90eebb597a702c4ce2fc761db0b45075c785de292a37",
+      "en_sha256": "15ebd8dea3f1660db0e2f15ce2a1c302fa30409940ae506516055b9132b24c51",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon01Hatchet2phase].flavor": {
+      "pl": "„To ledwie narzędzie, ale lepsze niż widelec.”",
+      "kr_sha256": "7131a87d6c86b72e457f87f1cdf0e14a494db825f0316207a039e5e49e651475",
+      "en_sha256": "832af7354f52a007e425c74293b05324f2e30d8db2c4f5fcddffe2e74a6cada3",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon01Hatchet2phase].name": {
+      "pl": "Kiedy ocierasz żebra toporkiem…",
+      "kr_sha256": "a2a687124c2392546f9a2f2d3ef6e5e89a6ce5b19a4c3210c5e8777b02e2d7a2",
+      "en_sha256": "e9186ffaf86579a6287fcbdfc3e24a3c4b7eff7c42a5ec163be75e61fa1d3239",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon01Hatchet].desc": {
+      "pl": "- Zadaje obrażenia Obuchu\n- Przy trafieniu bez Roztrzaskania zyskuje 2 Oddechu",
+      "kr_sha256": "d51758405920a7c5b51811da93dae3b12d985cf882c135f8347d71482d9471d1",
+      "en_sha256": "9b1b0a797c7f6d7cd6a1f732dc255e2bbfaf20975e9e773311b9303fe2d42981",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon01Hatchet].name": {
+      "pl": "Kiedy ocierasz żebra toporkiem…",
+      "kr_sha256": "a2a687124c2392546f9a2f2d3ef6e5e89a6ce5b19a4c3210c5e8777b02e2d7a2",
+      "en_sha256": "e9186ffaf86579a6287fcbdfc3e24a3c4b7eff7c42a5ec163be75e61fa1d3239",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon02Stiletto2phase].desc": {
+      "pl": "- Zadaje obrażenia Kłucia\n- Przy trafieniu bez Roztrzaskania nakłada 2 Zatonięcia i +2 Licznika Zatonięcia",
+      "kr_sha256": "f4141055997aae03570a6bfccefbf782c34da4ef978b5c563f437bfac0cdbc32",
+      "en_sha256": "7eab68f57c5383afe2e1d752202cd52ebc6d3c256c0aa0c905b2281bc8d924dd",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon02Stiletto2phase].flavor": {
+      "pl": "„Za każdym razem, gdy w sytuacji wymagającej cięcia poziomego trafia się to narzędzie, na plecach pojawia się zimny pot. To nie dla mnie.”",
+      "kr_sha256": "5755c405ff25cee11f826b70430441947e6b45fd628d0982f310108e1cdce917",
+      "en_sha256": "8a319bb21c0cd95ac4851fcff8dd6ee72fdc51b52fa6852628015b6f56e77bff",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon02Stiletto2phase].name": {
+      "pl": "Kiedy przebijasz płuca sztyletą…",
+      "kr_sha256": "c0cc8841222fed4ddcc21748f82730db6a2336c2826de1fa56627196a04ad2d1",
+      "en_sha256": "52d31882cd1b5b482ec3de41467e54a1feca82d1404fb77be8349170a42d54ef",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon02Stiletto].desc": {
+      "pl": "- Zadaje obrażenia Kłucia\n- Przy trafieniu bez Roztrzaskania nakłada 2 Zatonięcia",
+      "kr_sha256": "f4b094671753df0f44b93d995f5a4fa1888ee5980c752c64a563fd709bebbb7c",
+      "en_sha256": "6ac8211205d41dd8092e303792f8cd7d1cbb6e7e95114a9d25e4ea0474539663",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon02Stiletto].name": {
+      "pl": "Kiedy przebijasz płuca sztyletą…",
+      "kr_sha256": "c0cc8841222fed4ddcc21748f82730db6a2336c2826de1fa56627196a04ad2d1",
+      "en_sha256": "52d31882cd1b5b482ec3de41467e54a1feca82d1404fb77be8349170a42d54ef",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon03Greatsword2phase].desc": {
+      "pl": "- Zadaje obrażenia Cięcia\n- Ta Moneta zadaje +7,5% obrażeń\n- Przy trafieniu bez Roztrzaskania zyskuje 1 Wzrost Poziomu Ataku do następnej tury (2 razy na turę)",
+      "kr_sha256": "63f99ca9834e3e7d736052a1571c19c11ae7b2e9d3c5463b45eb4dad72dca1f0",
+      "en_sha256": "b077c36e89148ca259eeb2379905c5acee0f127f5a53a6f8c33559a5e3cf4ab6",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon03Greatsword2phase].flavor": {
+      "pl": "„Ten miecz jest... przyzwoity, ale ta przyzwoitość sama w sobie pozostawia wiele do życzenia. Mimo to przy solidnych podstawach posłuży nieźle.”",
+      "kr_sha256": "0cb2d1aa61c088747d46220193bb61119c8b357f1f6010a9bdec8746fd4c3c56",
+      "en_sha256": "6265b8d27068bd109b9d613b48f445417c93abb5274fc6d391493be2fb8333bb",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon03Greatsword2phase].name": {
+      "pl": "Kiedy miażdzysz bark i czaszkę mieczem bastardowym…",
+      "kr_sha256": "25cd42ebff07bf9a7b2b0f27074dbea45afe9ec97aff43548ea8f8557bc9b4fb",
+      "en_sha256": "9cce993c826ae1bf382d5238e6e1bb87b09010eb8642002f2c5947c8a744be01",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon03Greatsword].desc": {
+      "pl": "- Zadaje obrażenia Cięcia\n- Ta Moneta zadaje +5% obrażeń\n- Przy trafieniu bez Roztrzaskania zyskuje 1 Wzrost Poziomu Ataku w następnej turze (2 razy na turę)",
+      "kr_sha256": "928c2c5e3730f26f8c2907a9f3fc160ab8ec30123ec271f8ac53d16e592add33",
+      "en_sha256": "f94a473aecfedeae5b16f084a90e58a0322653c4c26466b8b061260958fd119d",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon03Greatsword].name": {
+      "pl": "Kiedy miażdzysz bark i czaszkę mieczem bastardowym…",
+      "kr_sha256": "25cd42ebff07bf9a7b2b0f27074dbea45afe9ec97aff43548ea8f8557bc9b4fb",
+      "en_sha256": "9cce993c826ae1bf382d5238e6e1bb87b09010eb8642002f2c5947c8a744be01",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon04Rapier2phase].desc": {
+      "pl": "- Zadaje obrażenia Kłucia\n- Ta Moneta zadaje +7,5% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Spadek Poziomu Obrony do następnej tury (2 razy na turę)",
+      "kr_sha256": "dd4348162f39223c51e1d751ff0f437ab4b63facd7c17cc7c6dd108d1d64d959",
+      "en_sha256": "6d665c7816ac28e235d1021ed99b7e429608d7308540ed8afb8059fcea677164",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon04Rapier2phase].flavor": {
+      "pl": "„Broń dłuższa i ostrzejsza od stiletto. Lubię też rapiera — świetnie nadaje się do zwinnych technik.”",
+      "kr_sha256": "d3227718a4bbaa634b53aa6ce5a3ed01f7707d333528b557e4be3a2b8223eddb",
+      "en_sha256": "e622f9e73e192d1ac16319237e2f520f395a5231aa66a23ff90f5da28eff2c79",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon04Rapier2phase].name": {
+      "pl": "Kiedy musisz zrobić rapierem 10 lub więcej dziur w korpusie…",
+      "kr_sha256": "9cb35b6ba85220ab58ac54dcc113342b8c121f65f52a22e088936f7dbb130f31",
+      "en_sha256": "f776eafd59a2a76c8c8f56adffb66608d5a2f15fbe9749b231cf2fb6bbfc9431",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon04Rapier].desc": {
+      "pl": "- Zadaje obrażenia Kłucia\n- Ta Moneta zadaje +5% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Spadek Poziomu Obrony w następnej turze (2 razy na turę)",
+      "kr_sha256": "ca4967c9462c1f5a8f3ba4a01d8a0d1bc8ad53bb3143e85303f19de321b815aa",
+      "en_sha256": "c9704c1213ce5078e9c1421a9bff343895ba195bda5c708a19bd35341953d07b",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon04Rapier].name": {
+      "pl": "Kiedy musisz zrobić rapierem 10 lub więcej dziur w korpusie…",
+      "kr_sha256": "9cb35b6ba85220ab58ac54dcc113342b8c121f65f52a22e088936f7dbb130f31",
+      "en_sha256": "f776eafd59a2a76c8c8f56adffb66608d5a2f15fbe9749b231cf2fb6bbfc9431",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon05Sledgehammer2phase].desc": {
+      "pl": "- Zadaje obrażenia Obuchu\n- Ta Moneta zadaje +7,5% obrażeń\n- Przy trafieniu bez Roztrzaskania podnosi Próg Oszołomienia celu o 5",
+      "kr_sha256": "4100480c172455bcffe38da43a86909c50b787fb2cc23718dcabc8000a32496a",
+      "en_sha256": "0ba4982df375b7a9d073b77eff3ff0c4c08a927bdc618d230b5b9257bacd800a",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon05Sledgehammer2phase].flavor": {
+      "pl": "„Prosto, ale definitywnie. To nie półśrodek jak siekiera — ta rzeczywiście roztrzaska to, w co trafi.”",
+      "kr_sha256": "a487399df33d53cfbe012ff4b4c659650d148dd23834d128d5d99f3c84ba60c5",
+      "en_sha256": "63c60a2bfed297a1339fa02d64361bfc52afa94e9429d98451d131aaa119e659",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon05Sledgehammer2phase].name": {
+      "pl": "Kiedy musisz roztrzaskać młotem potylicę…",
+      "kr_sha256": "98026aad8cbd534e653296a95ca430700259dfed1b1738754f0233a2ff8e2ace",
+      "en_sha256": "bf0955cd34a7cc77ca26a6c4e44b0c7efce9d5aa1320e6409502d5e54f692895",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon05Sledgehammer].desc": {
+      "pl": "- Zadaje obrażenia Obuchu\n- Ta Moneta zadaje +5% obrażeń\n- Przy trafieniu bez Roztrzaskania podnosi Próg Oszołomienia celu o 3",
+      "kr_sha256": "d66efadc71bf6cd0807869f05784ee3459f9d2c968f34fb786f900aa9823c4ed",
+      "en_sha256": "f0f04534b6b97e46af5340541139a0f25e1680f2f12f14994eab016bdc939931",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon05Sledgehammer].name": {
+      "pl": "Kiedy musisz roztrzaskać młotem potylicę…",
+      "kr_sha256": "98026aad8cbd534e653296a95ca430700259dfed1b1738754f0233a2ff8e2ace",
+      "en_sha256": "bf0955cd34a7cc77ca26a6c4e44b0c7efce9d5aa1320e6409502d5e54f692895",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon06Ultragreatsword2phase].desc": {
+      "pl": "- Zadaje obrażenia Cięcia\n- Ta Moneta zadaje +15% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Wrażliwość na Cięcie do następnej tury (2 razy na turę)",
+      "kr_sha256": "33eb2ab5f77ee736185a32cc4838d42fe52429fe2f786b6133fbbdfd54e72312",
+      "en_sha256": "38b1d3908708289a2b798e05c87410c81bea3d627f23e464ed16c34970b42ec2",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon06Ultragreatsword2phase].flavor": {
+      "pl": "„Przy tak wielkiej i ciężkiej broni najważniejszy jest środek ciężkości.”\n„I wykorzystuj jej masę.”\n„Przypominam sobie, jak, spadając z dachu pięciopiętrowego budynku, udało mi się jednym ciosem zabić tą bronią Fixera I klasy.”",
+      "kr_sha256": "7447a70eb5c26298a7b48d08922ca130fcb97f5a6768671344361f54364d3012",
+      "en_sha256": "2e71bcf6750e8104c9a18c273b16866d04220e681857863c5662dd36b2e53db1",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon06Ultragreatsword2phase].name": {
+      "pl": "Kiedy musisz rozciąć wielkim mieczem korpus…",
+      "kr_sha256": "a62b48a2324297bf30486215a91248c57f08c980512221d741d2a3fd20b9bf56",
+      "en_sha256": "15e54bf15f4d898e9606a42eae95a248b3f5210adab4a8e1c80a7e6fde00e3ab",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon06Ultragreatsword].desc": {
+      "pl": "- Zadaje obrażenia Cięcia\n- Ta Moneta zadaje +10% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Wrażliwość na Cięcie (2 razy na turę)",
+      "kr_sha256": "b8eda7bb6107472ac25f6f279b176f853b4507cb38b405d8d3a0c5daea49c2fe",
+      "en_sha256": "e5feef9ac221e31ff8da2759a458410787de2457a9a246392f6815acc3e58577",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon06Ultragreatsword].name": {
+      "pl": "Kiedy musisz rozciąć wielkim mieczem korpus…",
+      "kr_sha256": "a62b48a2324297bf30486215a91248c57f08c980512221d741d2a3fd20b9bf56",
+      "en_sha256": "c5f9e986038debaf980ced5128ace9e4b583e45015d34da351ef5316d6249503",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon07Lance2phase].desc": {
+      "pl": "- Zadaje obrażenia Kłucia\n- Ta Moneta zadaje +15% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Wrażliwość na Kłucie do następnej tury (2 razy na turę)",
+      "kr_sha256": "bc08bb285a8b6c4bcc448ee821c2d4a8e35e78d469a3aceb746078b8e02b74df",
+      "en_sha256": "8ce3acbd6c8f5d179eed56b0a17f6fd16a65e2d158995822c73cc818d3b3454b",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon07Lance2phase].flavor": {
+      "pl": "„To broń-jackpot. Ta lanca ma własny napęd, więc z daleka przebije wszystko, co stanie między nami a celem — ścianę czy człowieka.”",
+      "kr_sha256": "e2de4180f8a0f986f25e58ae76783d625ad8886c0376a78672d3644e41aa3e47",
+      "en_sha256": "d71156737b5ba47d451a8a294a2bb63ee53e53dbc7e2e69aeba0be195a9874d0",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon07Lance2phase].name": {
+      "pl": "Kiedy musisz zrobić lancem 20-calową dziurę…",
+      "kr_sha256": "81b313661bcd9a3a56a245aadad8db7bee5efc7db433a47daba0fad6926a7a14",
+      "en_sha256": "61a9395416e7b7abbad9eefcde60b150fc5da5ead2ae550b5c730cb314ca38e3",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon07Lance].desc": {
+      "pl": "- Zadaje obrażenia Kłucia\n- Ta Moneta zadaje +10% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Wrażliwość na Kłucie (2 razy na turę)",
+      "kr_sha256": "fd9a1ae08e859792db8e4db3e99e3d267e955b9a54fa019802dad31fdb56ad21",
+      "en_sha256": "b07bc1d2c33cd1922fad35d516f4178d9541fec2152fbc1175734ca4664aa104",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon07Lance].name": {
+      "pl": "Kiedy musisz zrobić lancem 20-calową dziurę…",
+      "kr_sha256": "81b313661bcd9a3a56a245aadad8db7bee5efc7db433a47daba0fad6926a7a14",
+      "en_sha256": "61a9395416e7b7abbad9eefcde60b150fc5da5ead2ae550b5c730cb314ca38e3",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon08Chain2phase].desc": {
+      "pl": "- Zadaje obrażenia Obuchu\n- Ta Moneta zadaje +15% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Wrażliwość na Obuch do następnej tury (2 razy na turę)",
+      "kr_sha256": "444ef8bf981b5f3cc96aa9f4189d2c7888a63b9192576535edc85bac2ee36711",
+      "en_sha256": "2ff59b700ba9e66a114d0b451c9cdc84a8ce8c6338fb00b3b21c38c340a6e2fe",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon08Chain2phase].flavor": {
+      "pl": "„Dla niektórych to przegrana w loterii... mnie się podoba.”\n„Kto dostaje tym biczem, traci strzępy mięsa i krwawi. Stopniowo pada od bólu i wyczerpania.”\n„Lubię patrzeć, jak ktoś rozpada się kawałek po kawałku. A w razie potrzeby służy też do duszenia.”",
+      "kr_sha256": "470f6278216fe73b08483baa61c261e27e9501b3738ff3c5cc5de2aa3c999a75",
+      "en_sha256": "09bf09526d6589df2da9eb12de0781ec0d5b7608d85e1aa18588d1b39cb334ab",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon08Chain2phase].name": {
+      "pl": "Kiedy musisz strzępić ciało biczem na 10 000 kawałków…",
+      "kr_sha256": "e63517f93a1a9bb82dd128994802476dffe5807961da442ceb9af32fb431c8be",
+      "en_sha256": "3a59eceed2ae03c4ae0e69bcfe158772c9c578ea182036cf7676a0118e708cb1",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon08Chain].desc": {
+      "pl": "- Zadaje obrażenia Obuchu\n- Ta Moneta zadaje +10% obrażeń\n- Przy trafieniu bez Roztrzaskania nakłada 1 Wrażliwość na Obuch (2 razy na turę)",
+      "kr_sha256": "89ca56caeaee91ff8e5ef31cff8f94672c069654ec52d7cff8c939a7f62d192e",
+      "en_sha256": "2426b76b0b574aea690ad18032a5dba9a3e7701d659ee827f0a0c71838cc0088",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon08Chain].name": {
+      "pl": "Kiedy musisz strzępić ciało biczem na 10 000 kawałków…",
+      "kr_sha256": "e63517f93a1a9bb82dd128994802476dffe5807961da442ceb9af32fb431c8be",
+      "en_sha256": "3a59eceed2ae03c4ae0e69bcfe158772c9c578ea182036cf7676a0118e708cb1",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon09Scythe2phase].desc": {
+      "pl": "- Zadaje obrażenia Cięcia\n- Ta Moneta zadaje +30% obrażeń\n- Przy trafieniu bez Roztrzaskania trafia zawsze jako Cios Krytyczny",
+      "kr_sha256": "34347cd08d66fe3cd6905b9550b5f47d8925f70fc4b7b47e2abf9d3ff861c762",
+      "en_sha256": "06e250899d3bdddcbafbac417230e0e5102c6caeff5db76c790711cd322d6445",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon09Scythe2phase].flavor": {
+      "pl": "„Kosa... długo pozostawała dla mnie zagadką, ale gdy przyszło mi patrzeć, jak walczy Błękitny Pogłos, wszystko nagle stało się jasne.”\n„Potem Nakaz przez jakiś czas dawał mi tylko kosę — stała się moją ulubioną, najlepiej znaną bronią.”\n„I tnie z nich wszystkich najlepiej. Technik przecinania przestrzeni jest wiele... Hmm. Ta historia lepiej poczeka.”",
+      "kr_sha256": "15b825d309a38fcb599b7575cc04f5a30877b16d4ae3586af781b7be4e8e261d",
+      "en_sha256": "7389691b3ab73c6f472f5020b42be378870753b292209710deb768adbeeaac60",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon09Scythe2phase].name": {
+      "pl": "Kiedy musisz ciąć kosą… przestrzeń, jak ktoś…",
+      "kr_sha256": "5d8eaac2a7e8adfe37de90ee647d7d0f96f0669ce9156df7530d4a5ccaf7b6af",
+      "en_sha256": "b063b1b2a9450eeebff55e68e7c1cfec0ad00b52bc5239a90e204b4e7cc4b1a4",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon09Scythe].desc": {
+      "pl": "- Zadaje obrażenia Cięcia\n- Ta Moneta zadaje +20% obrażeń\n- Przy trafieniu bez Roztrzaskania trafia zawsze jako Cios Krytyczny",
+      "kr_sha256": "ac4a3a0ce849e6316b0294ac9d7852ecc3b670a2a3f0d23d7d0641559504d816",
+      "en_sha256": "42c072773f36ec3604eb552e1ed91b97d905679fb6675ef0e7cd23e4d9597950",
+      "origin": "ai"
+    },
+    "dataList[id=RienWeapon09Scythe].name": {
+      "pl": "Kiedy musisz ciąć kosą… przestrzeń, jak ktoś…",
+      "kr_sha256": "5d8eaac2a7e8adfe37de90ee647d7d0f96f0669ce9156df7530d4a5ccaf7b6af",
+      "en_sha256": "b063b1b2a9450eeebff55e68e7c1cfec0ad00b52bc5239a90e204b4e7cc4b1a4",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuEGOPF].desc": {
+      "pl": "Maks. stosów: 999\n- Zyskuje 1 stos za każde 1 obrażeń HP zadanych Umiejętnościami Ryōshū\n- Podstawowe Umiejętności zadają +1% obrażeń za każde 33 stosy (maks. 10%)",
+      "kr_sha256": "7bacfb47abc5448f540f0c0e43aceb3c8e0ea59b072ead964a3fcd5b29b7b15d",
+      "en_sha256": "7d21305b4edb336f3486eabb7524b323acce38969d8d31f25b2cf9a8720b604b",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuEGOPF].flavor": {
+      "pl": "„Zwinięta i spleciona ponad miarę, uwiązana i utkana w kokon. Nić. Życie. Świat.”",
+      "kr_sha256": "f870134992cb22d1e04d573d077430262902addc11beff957471dd3efbfee672",
+      "en_sha256": "2580f8a5b4776b50c0f3b3b08558170d202a8f6a634bc586e1e5dc9b53e2d4a0",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuEGOPF].name": {
+      "pl": "Splecione Życie [羅生]",
+      "kr_sha256": "8cbf4bc15d9319c32877d13fc6857119c233dd09cd82c78805de18bf2111ed43",
+      "en_sha256": "44ec072efc46097ec59315fe82694c86bbbe1d66fa4c1a03dfb11daf1199fe2d",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParryIndexFingerThey].name": {
+      "pl": "Czerwona Nić",
+      "kr_sha256": "20298db487abd1bc5ae4e4fe3be3e982e2be6de8e08f4565dc53e0139043a5e0",
+      "en_sha256": "725ee986c3639f8bf43d26b6cae4becd07bd5817797b30efb57e574ab8322c7e",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParryIndexFingerWe].name": {
+      "pl": "Czerwona Nić",
+      "kr_sha256": "20298db487abd1bc5ae4e4fe3be3e982e2be6de8e08f4565dc53e0139043a5e0",
+      "en_sha256": "725ee986c3639f8bf43d26b6cae4becd07bd5817797b30efb57e574ab8322c7e",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiThey].desc": {
+      "pl": "- Wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami\n- Moc Końcowa +4",
+      "kr_sha256": "bdbb9fdd443e802ae1d074eb28cef81b5f302288da775d92d09e92f1ae129db9",
+      "en_sha256": "729ec0a1dbfd59553a8bcbd442c26a0a46fe43d2df65e8f2e7a0e39d7a1d6a13",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiThey].flavor": {
+      "pl": "„Dzięki tej nici w końcu się spotkamy. Choć byśmy chcieli uniknąć, wciąż się spotkamy. Ta nić nie chce się przeciąć.”",
+      "kr_sha256": "b0c26316b0a3076d3267fa0347bb54dc3b9bd120588d0d602b09da26131f78da",
+      "en_sha256": "e8cebef173dff61655f1c12559902b0ca4fd41ee54e3fe9daced21c63f99bd56",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiThey].name": {
+      "pl": "Czerwona Nić",
+      "kr_sha256": "20298db487abd1bc5ae4e4fe3be3e982e2be6de8e08f4565dc53e0139043a5e0",
+      "en_sha256": "725ee986c3639f8bf43d26b6cae4becd07bd5817797b30efb57e574ab8322c7e",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiThree].desc": {
+      "pl": "- Zadaje i otrzymuje +20% obrażeń od i wobec Ojca Małego Palca; po wygranym Starciu zadaje Ojcu Małego Palca 5 obrażeń Poczytalności\n- Przy otrzymaniu obrażeń, które oszołomiłyby ją, nie zostaje oszołomiona i usuwa dany Próg Oszołomienia; w następnej turze zyskuje 1 Wzrost Mocy Ataku\n- W tej walce po użyciu Umiejętności zyskuje +1 Zasób E.G.O Grzechu tej Umiejętności i +1 losowy Zasób E.G.O najmniej posiadanego Grzechu (2 razy na turę)\n- Wycofanie niemożliwe (w tym sojuszników)",
+      "kr_sha256": "c583b067e7251a39eba200f3851b77ef0579f4aacb7038005d6035defe0d9a96",
+      "en_sha256": "2a6eff7c68e5672b34a28f9a6e463990052efc9765c3da4294db1fae11c5d067",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiThree].name": {
+      "pl": "Niedocięty Czas",
+      "kr_sha256": "b6fdf07b9df0383d702b195c22b0b52ec499e043e5de1f3ef75337a95c554e72",
+      "en_sha256": "5d4ee6c2c469864341542ca86f52274f6f4037d2b066f44714d0e51c4c8f224f",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiThree].summary": {
+      "pl": "Efekt specjalny Ryōshū",
+      "kr_sha256": "778419d5af23517ae1d505a55dc8eedcb05a2e663bda672665fddae220a4b350",
+      "en_sha256": "0849f03b0dd7ee9136aaffe0c88541dc0f14abe7f583fa7205f6c7ebc4ebcdd1",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiTwo].desc": {
+      "pl": "- Zadaje i otrzymuje +20% obrażeń od i wobec Ojca Małego Palca; po wygranym Starciu zadaje Ojcu Małego Palca 5 obrażeń Poczytalności\n- Przy otrzymaniu obrażeń, które oszołomiłyby ją, nie zostaje oszołomiona i usuwa dany Próg Oszołomienia; w następnej turze zyskuje 1 Wzrost Mocy Ataku\n- Wycofanie niemożliwe",
+      "kr_sha256": "61b8e104a154620d551d8482bb60c4f41da5b611f8b6eeff2455d1231c1c53f6",
+      "en_sha256": "4aec49553bb537bf65ff03504a0ea5dde97e6fa3ab631bcab96f14aa44a0bf5a",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiTwo].name": {
+      "pl": "Niedocięte Wspomnienie",
+      "kr_sha256": "37587370acb5193f9103530eaddaab8214ada12f1bcf1a05849d123217beff38",
+      "en_sha256": "3a4e0ca4731e313f614c506a4781261d450a2ff53f9ef8e13cc137a16e92f391",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiTwo].summary": {
+      "pl": "Efekt specjalny Ryōshū",
+      "kr_sha256": "778419d5af23517ae1d505a55dc8eedcb05a2e663bda672665fddae220a4b350",
+      "en_sha256": "0849f03b0dd7ee9136aaffe0c88541dc0f14abe7f583fa7205f6c7ebc4ebcdd1",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiWe].desc": {
+      "pl": "- Liczba Slotów Umiejętności +3\nZadaje +50% obrażeń Ojcu Małego Palca\n- W tej walce po użyciu Umiejętności zyskuje +1 Zasób E.G.O Grzechu tej Umiejętności i +1 losowy Zasób E.G.O najmniej posiadanego Grzechu (2 razy na turę)\n- Wycofanie niemożliwe",
+      "kr_sha256": "b665e8bcc3615343213730b87e6973473b448868c3096310d75af46b515e0318",
+      "en_sha256": "dad04a539bd189c6323c2e48e578e33f0450a160bb6f9f18ae978540d43c9d47",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiWe].flavor": {
+      "pl": "„Jeżeli ta jedna cienka nić łączy mnie z tobą, będę się jej kurczowo trzymać całym sobą.”",
+      "kr_sha256": "9eba242b5f7c4af9e1455aac3ac48caca2fcd0eb01d16f01e8249a02f71e9d61",
+      "en_sha256": "347281d01730e427538b0b5a3f5a2f8da61d8f5cacda419a1ffc4ccf9f69d3de",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySojiWe].name": {
+      "pl": "Czerwona Nić",
+      "kr_sha256": "20298db487abd1bc5ae4e4fe3be3e982e2be6de8e08f4565dc53e0139043a5e0",
+      "en_sha256": "725ee986c3639f8bf43d26b6cae4becd07bd5817797b30efb57e574ab8322c7e",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_RienBattle_1Phase].desc": {
+      "pl": "- Dopóki w tej walce żyje co najmniej 1 inny sojusznik, HP Ryōshū nie spada poniżej 1\n- Moc Starcia +1; przy trafieniu zadaje +10% obrażeń\n- Po wygranym Starciu zyskuje 1 Zasób E.G.O z każdego z 3 najmniej posiadanych Grzechów\n- Przy otrzymaniu obrażeń, które oszołomiłyby ją, nie zostaje oszołomiona i usuwa dany Próg Oszołomienia; w następnej turze zyskuje 1 Wzrost Mocy Ataku (bez limitu)\n- Wycofanie niemożliwe",
+      "kr_sha256": "019e29c60efdbb3cb6f337349d7bec3bb1df8b0603e8b8d817e357e72afe882f",
+      "en_sha256": "659e467418b17f989d7bfa162cf56b80682f21e2f78fb7155b8d0544128066a4",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_RienBattle_1Phase].flavor": {
+      "pl": "Jedyna pochwa Ryōshū, stworzona by kontrolować Ostrze Gwiazdy Tiansha - Arayashiki. To E.G.O Arayi, wykute w wiecznym ogniu.",
+      "kr_sha256": "163a386d53852472454d22f2a341c22ae6cda3e543d3e03d49e63fb1d9de5c19",
+      "en_sha256": "48e81df12401d20cf9df9ceebd1b1299c2264fbabdc06bd1fda829cf6fd7a9a7",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_RienBattle_1Phase].name": {
+      "pl": "Ketsuen [けつえん]",
+      "kr_sha256": "7379d76f51625506a483992ced326aed80374ae7324ed9b9ea7da874491e8355",
+      "en_sha256": "edeaaeed4a15a091081e31d01f353dac72c05648715b1be0256c3c022e9f930c",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_RienBattle_2Phase].desc": {
+      "pl": "- Dopóki w tej walce żyje co najmniej 1 inny sojusznik, HP Ryōshū nie spada poniżej 1\n- Moc Starcia +2; przy trafieniu zadaje +25% obrażeń\n- Za każdy stos Kipiącej Rany celu:\n· Poziom Ataku +1, Poziom Obrony +1\n· Przy trafieniu zadaje +5% obrażeń (maks. 25%); jeżeli użyła podstawowej Umiejętności E.G.O, zamiast tego +50% za stos (maks. 250%)\n- Po wygranym Starciu zyskuje 1 Zasób E.G.O z każdego z 3 najmniej posiadanych Grzechów\n- Przy otrzymaniu obrażeń, które oszołomiłyby ją, nie zostaje oszołomiona i usuwa dany Próg Oszołomienia; w następnej turze zyskuje 1 Wzrost Mocy Ataku (bez limitu)\n- Wycofanie niemożliwe",
+      "kr_sha256": "af6e9870728a1087899e2dfc93bc5999ec2133113c4d741d30fa474203cbe9b2",
+      "en_sha256": "b074162d301064329ff914f0881925d6367b172f4c4f634cd0c3b2fcc108ad4d",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_RienBattle_2Phase].flavor": {
+      "pl": "Paradoksalne E.G.O, w którym zostaje ledwie ślad ego.\nNawet jeśli wygląda jak pełne poświęcenie dla kogoś, nie jest absolutnym altruizmem.\nŻeby stawiać znaczenie czyjegoś życia ponad własne, trzeba absolutnego egoizmu.\n\n„Chciałabym, żeby mama mnie nie zapomniała, ale... bardziej niż to, nie chcę ją stracić.”\n„Więc zapomnij najpierw o mnie i dbaj o siebie.”",
+      "kr_sha256": "99b35424b6572caabd11a4ab251b4cb1e2fff598b52da8c5b82f25c14429eade",
+      "en_sha256": "8a5e06f7743781180c4f6dc7e9b71d3366f475390fd90d1ffbe3f13afe46e1b8",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_RienBattle_2Phase].name": {
+      "pl": "Renketsuen [れんけつえん]",
+      "kr_sha256": "42c75050bc45847549b215ffd29126e134548a797bdecee25548dac945caad91",
+      "en_sha256": "d856c8c3c76361fd4a96c1a2d612922123bbb2e312e3e55c02718282008475c4",
+      "origin": "ai"
+    },
+    "dataList[id=Shin_Rien].desc": {
+      "pl": "- Na początku tury, zależnie od brakującego HP,\n· Zyskuje 1 Wzrost Obrażeń za każde 15% brakującego HP (maks. 5)\n· Zyskuje 1 Wzrost Mocy Ataku za każde 40% brakującego HP (maks. 2)\n- Umiejętności zyskują +1 więcej Siły Oddechu i Licznika Oddechu\n- Jeżeli Poczytalność jest wyższa niż celu, zadaje +1% obrażeń za każde 2 różnicy Poczytalności (maks. 30%)",
+      "kr_sha256": "5ec18b71af15840cdfcc6690687ede3549ee06873a392c77d77fc989ab28f53a",
+      "en_sha256": "9bd8d5ee9695a75f6f087b1d89779e3934fad4f7a530972219196049de03be4c",
+      "origin": "ai"
+    },
+    "dataList[id=Shin_Rien].name": {
+      "pl": "Shin (心) - Rien",
+      "kr_sha256": "7df0bf5d8556328940baa7a1cab6a8f53189c78b2244ecec55d496188a29e039",
+      "en_sha256": "cd8883293959ad137aee6f16dc2b0a3ccce142f06b5d77c2dc75fe71a419b532",
+      "origin": "ai"
+    },
+    "dataList[id=SignAwakenSinclair].desc": {
+      "pl": "- W Starciu z celami o wyższym poziomie Moc Starcia +2\n- Na koniec tury, jeżeli jest oszołomiony, w następnej turze wychodzi z Oszołomienia",
+      "kr_sha256": "b5bbe5005b6f7fabddf1b13887f343730cb9eea71187ad500b6392825c225706",
+      "en_sha256": "bdbd30079b84eee55d2177890e8bc59d76e1afa93f35f00cbc49b39aa79876df",
+      "origin": "ai"
+    },
+    "dataList[id=SignAwakenSinclair].flavor": {
+      "pl": "Abraxas",
+      "kr_sha256": "e900dbb4e7f9bf8a572d014a56cbe7c93fa86a7137fbd35036f6fd9fc3d97c0f",
+      "en_sha256": "e900dbb4e7f9bf8a572d014a56cbe7c93fa86a7137fbd35036f6fd9fc3d97c0f",
+      "origin": "ai"
+    },
+    "dataList[id=SignAwakenSinclair].name": {
+      "pl": "Znak - Manifestacja Przyszłości",
+      "kr_sha256": "c88ab6607d3e939ae5d9e24ea884ce13d53138a5816b13754d193fb2db6c91f8",
+      "en_sha256": "4d2c888184098e01471e433a312bee98af1d21d5f11d7c9cd9a0301a9974fee4",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgeFuture].desc": {
+      "pl": "- Maks. stosów: 20\n- Zadaje i otrzymuje -2% obrażeń za każdy stos",
+      "kr_sha256": "c95dc164f8622936faa12029ea07aff02727078c036fd6c3f8f23ba87cfee980",
+      "en_sha256": "c0fa366d029127ec3e20f2a16b55d795d44e389117175ecd0f832790c7fe1f74",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgeFuture].flavor": {
+      "pl": "„Może dlatego, że czas płynął i zebrałem się w latach, zaczęło mi się wydawać, że mógłbym cię zrozumieć i przyjąć.”",
+      "kr_sha256": "b358de27c65c97d7b8f476c3fb382c49dd4a2ae033c81bf43f3f26936861c7ff",
+      "en_sha256": "e7f93e2b8c09fc165654f64ca6f5353a76b65ce34db089b0d5ba511ad7ee3915",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgeFuture].name": {
+      "pl": "Prąd Naprzód - Współczucie",
+      "kr_sha256": "3b1b044d309ef8ecf8be18043126cabe1b59bd1d0d2c8b23c5b870560b08a27a",
+      "en_sha256": "5d03d6ed01fbfdaf2c1c0722d175801ee4c63c8a28f97c06f73805faedc49407",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgeFuture].summary": {
+      "pl": "Zadaje i otrzymuje mniej obrażeń",
+      "kr_sha256": "311c522c8a943870e6e942d3ae29422682de624978d9a372e6b1ab8d78afdf40",
+      "en_sha256": "90a95c90b9eb7c5a3c0ede5c8d42f9da85320a6470705512674534647af92eda",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgePast].desc": {
+      "pl": "- Maks. stosów: 20\n- Zadaje i otrzymuje +2% obrażeń za każdy stos",
+      "kr_sha256": "dcf695f5475670fb3e3320556928dc222d53805e3f46d4d1d6a967702873a6f5",
+      "en_sha256": "5e46f9ea3a8be17e5c4bcae2304ca787446c7107ec280b411bb579d468179e80",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgePast].flavor": {
+      "pl": "„Wspomnienie, w którym odszedłeś i zapomniałeś o mnie, tkwi jak węzeł, którego nie da się przeciąć.”",
+      "kr_sha256": "754a9152df3203bf4958a3c14c16680e325a2e67037f5d1a8bc971de2022b68b",
+      "en_sha256": "f2d1f5317280ab3a6f13decf17a917e0ea7aac6ce251a88af6814c821be1e9cd",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgePast].name": {
+      "pl": "Prąd Wstecz - Gorycz",
+      "kr_sha256": "c9ee14bbc118d20b9738486455c9d599444bfbbf2553a9e84fd338773665228a",
+      "en_sha256": "999e119d08fd52cb2d9db469ebac990840cce71eca856814cd8964e182b18ed3",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiAgePast].summary": {
+      "pl": "Zadaje i otrzymuje więcej obrażeń",
+      "kr_sha256": "d55b0fea2466b8a777e089048104d49f8d6404b8077b6d2019db4a99faae8bc6",
+      "en_sha256": "0b8ce166b0fb0ac83e96c6378a0f6283433424abf5422d7fc6f52deadeac6219",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiBuffOne].desc": {
+      "pl": "Możliwe Starcie z określonym slotem wroga",
+      "kr_sha256": "f7e5b80e264459daa1a1f9d1b7b6fd3d9363c2386c88fb96014ae3f183ca73a1",
+      "en_sha256": "dcb1a9035a4711e523f734b77f214b9da1c7286cc1a4665271e837724d286624",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiBuffOne].name": {
+      "pl": "Świt Koguta (雞鳴)",
+      "kr_sha256": "5194ee0159b5b028f245533b70a1be4f7603517e1a0aaaf8a8db31070b0ff3e7",
+      "en_sha256": "acb7ad5dae2d179334d909d420d617617716e7ff785f702c987f5977822d5577",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiBuffThree].desc": {
+      "pl": "Możliwe Starcie z określonym slotem wroga",
+      "kr_sha256": "f7e5b80e264459daa1a1f9d1b7b6fd3d9363c2386c88fb96014ae3f183ca73a1",
+      "en_sha256": "dcb1a9035a4711e523f734b77f214b9da1c7286cc1a4665271e837724d286624",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiBuffThree].name": {
+      "pl": "Zmierzch (黃昏)",
+      "kr_sha256": "fd7747e17f6006449c278626edcce1c3aff43adfbe2c54002e9033060a080481",
+      "en_sha256": "3aeb17abaed4c6825dacb6fedcac4eccfb5a0a1485a88427824276483187f767",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiBuffTwo].desc": {
+      "pl": "Możliwe Starcie z określonym slotem wroga",
+      "kr_sha256": "f7e5b80e264459daa1a1f9d1b7b6fd3d9363c2386c88fb96014ae3f183ca73a1",
+      "en_sha256": "dcb1a9035a4711e523f734b77f214b9da1c7286cc1a4665271e837724d286624",
+      "origin": "ai"
+    },
+    "dataList[id=SojiAbiBuffTwo].name": {
+      "pl": "Zachód Słońca (日入)",
+      "kr_sha256": "47e0a90022c7c6a80c5c758c8d09ca4b9e4d2196060c28a4d77c3c82fdac509b",
+      "en_sha256": "6729fe247e16823d7d4e44793c90cc2b28e9c8347a96a6a9291851250f3fc1db",
+      "origin": "ai"
+    },
+    "dataList[id=SpecimenTheRings].desc": {
+      "pl": "Walka kończy się porażką, gdy wszyscy Grzesznicy i jednostki wsparcia przechodzą w Teatr Ciała",
+      "kr_sha256": "b5c19cf5c8319db74e8fb2283023a98e61ef14d9c263760e06e1230290a56ed3",
+      "en_sha256": "de179b718e20d532d3e62e733c5be9cf50026cb799263a9bc9400b9dcca9c93b",
+      "origin": "ai"
+    },
+    "dataList[id=SpecimenTheRings].flavor": {
+      "pl": "To precyzyjne, delikatne miejsce, gdzie każdy element mięśni i ciała zajmuje idealnie swoje miejsce.",
+      "kr_sha256": "e41544a3b96f0c80c6a7a0bae9fa45851c4e7b028d23752effb0fe3265e0fa55",
+      "en_sha256": "e3b3c92462f1ed8a3dc62e05e9d200e77bee9b63fae745eed862bba8fdeb2cd1",
+      "origin": "ai"
+    },
+    "dataList[id=SpecimenTheRings].name": {
+      "pl": "Wystawa Gotowa!",
+      "kr_sha256": "3241da5ac0fea0b6ab58fd083f4745c49d173961e8b41cdf134ab774c061a738",
+      "en_sha256": "a30b06761099a6d5a8f6dca15e5f31c52dce8784dd1925aa119e7c5b32f114d5",
+      "origin": "ai"
+    },
+    "dataList[id=StackRienSpecialSkill].desc": {
+      "pl": "- Zyskuje 1 stos przy użyciu Umiejętności ataku (1 raz na Umiejętność; ta sama Umiejętność nie liczy się dwukrotnie)\n- Na początku tury przy 9 stosach używa potężnej Umiejętności\n- Zużywana przez określone Umiejętności",
+      "kr_sha256": "f0c2d1bf2ef4b6392f87494f4544a59c027f014509b7e3c335fbc57da6e67f20",
+      "en_sha256": "c7a73ea27ffa912b43a188ab87ad38de25a751ce4ef01e030439e6cfc8ad22e1",
+      "origin": "ai"
+    },
+    "dataList[id=StackRienSpecialSkill].flavor": {
+      "pl": "„Z woli boga.”",
+      "kr_sha256": "1d415e3ef6c09823c7bbccac8a0748e1e75c20e695b58fb745d4b40a313e1a4c",
+      "en_sha256": "e0fe1495e204fa360e8885a746d7f093be254363b84c2c57323fadffb0f2194c",
+      "origin": "ai"
+    },
+    "dataList[id=StackRienSpecialSkill].name": {
+      "pl": "Procuration [Hermes]",
+      "kr_sha256": "fe56250495fdf09cc041def87fbec744100722ab6dd30aa67ade5c3f8b9f9337",
+      "en_sha256": "e6d5cb2b00a1d75b6e031ee41d54c538dea83c8ab61751d5192bccb7c04a665f",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPrey].desc": {
+      "pl": "Szybkość zostaje zablokowana na 1; wszystkie Umiejętności ataku „Ojca Kciuka - Valenciny” celują w tę jednostkę",
+      "kr_sha256": "53da7933d9b30beafbb07f3f034577858d89b0336b87e9b88150208377ffe110",
+      "en_sha256": "b4d1324bcaf0c3b8f6f47e424fa27a938aeb67c40c108045a9f1c88b3fde115e",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPrey].flavor": {
+      "pl": "Kto raz stanie się celem rodu Bognatellich, nie uniknie polowania.",
+      "kr_sha256": "9614a172649b08edeffa34739d1f6d70c75be21cc631d783025af3d5d2a8d7f5",
+      "en_sha256": "f2c02ce0e8a9d69843b62272bf94c6d1a5e151af36ef941633c3bb6d4d80a41a",
+      "origin": "ai"
+    },
+    "dataList[id=TeachersPrey].name": {
+      "pl": "Cel Polowania",
+      "kr_sha256": "e2fc78407490105b0bd99dc64b75ce4312353ba74b86ece0cdefc1aff75f7879",
+      "en_sha256": "1ffa738a39742984ac1f3f30deecda3e60af03e798b6b5feadc96fb423b7573d",
+      "origin": "ai"
+    },
+    "dataList[id=ThreeMirrorpartYiSang].desc": {
+      "pl": "- Maks. stosów: 1\n- Znika na koniec tury\n- Otrzymuje x1,2 obrażeń od Podpalenia (zaokrąglone w dół; poza Specjalnym Podpaleniem)\n- Otrzymuje +10% obrażeń od podstawowych ataków Yisanga z Gniewu i Posępności",
+      "kr_sha256": "131a8a9483b92eef3d7e12688f459cff30871d30a1b6e0bec3a0b083546a5bc5",
+      "en_sha256": "4edf4a172fad9a8ed93e0c39d925ffa1e1c63dde3298afa1f9cd34d5331de6d2",
+      "origin": "ai"
+    },
+    "dataList[id=ThreeMirrorpartYiSang].name": {
+      "pl": "Rozbity Świat",
+      "kr_sha256": "1de983bb8111aca3431b88ade842bf07c02ba58db76afda92db9338bc6dad439",
+      "en_sha256": "3216d471ce74086b3f2c518131a54729b4223cf19e2d5ec194e8f6ac452851da",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleUnstable].desc": {
+      "pl": "- Maks. stosów: 10\n- Przy trafieniu działają następujące efekty zależnie od stosów:\n  · Zadaje obrażenia Cięcia równe (ostateczne obrażenia Monety / 10) (działa tyle razy, ile stosów)\n  · 2+: nakłada 1 Podpalenie\n  · 3+: nakłada 1 Krwawienie\n  · 4+: nakłada 1 Spętanie w następnej turze\n  · 5+: nakłada 1 Zatrucia",
+      "kr_sha256": "37eeb2a9eae2a50727a4e14f5cb94c4335847336b74d9229397aef07c4cb4420",
+      "en_sha256": "dcd9715ca4bf810ef565a319407ea8e17fe3f7b34f93473f04adbc907882502c",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleUnstable].name": {
+      "pl": "Paroksyzm - Splot Powideł",
+      "kr_sha256": "cacdd00c2975c913cca0e2901d7453a65f708346e3a5eaaa834e705b4e94f93c",
+      "en_sha256": "52cd174733e47051090728a05198ec75319b2aa12c81ff2e145adaf0819ff866",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleUnstable].summary": {
+      "pl": "Nakłada dodatkowe efekty na ataki zależnie od liczby stosów",
+      "kr_sha256": "65885de56d529e741c8f03577eb165448890eb7fab430bfb2e4cac7379734e1d",
+      "en_sha256": "91c724d4f008cb7298493839bc9dae6530f0949842924b629e9432f8ad7907f6",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Rien1].desc": {
+      "pl": "- Poziom Ataku +1, Poziom Obrony +1\n- Po zakończeniu walki odzyskuje 10 Poczytalności",
+      "kr_sha256": "c8f4d61c84f2835145ad75870f276f5b1bb1407f2263972f67e57aca82bf0ef0",
+      "en_sha256": "dce3e2e40206b032e1f0a581c86dc5827a0e375f83942dd6687753a8e473a626",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Rien1].name": {
+      "pl": "Odblokowanie - I",
+      "kr_sha256": "dea7913b724bc5951769cdb1fdd0a4cff1a466bd919f1713c0aea126c23911aa",
+      "en_sha256": "64276f212ab6a0ef5a03eb658526fe8d5f8e9fc6cbbb5e5e88557b02808cdf90",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Rien2].desc": {
+      "pl": "- Poziom Ataku +2, Poziom Obrony +2\n- Po zakończeniu walki odzyskuje 20 Poczytalności",
+      "kr_sha256": "a1f934e19e62d74c7fbb094cb1f0bec357aecd8054414e084bbac59584c1b792",
+      "en_sha256": "f5fae0a7f676c7b810cf3e69b5487aad604c99da7819ef44f5b139c02b7287f9",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Rien2].name": {
+      "pl": "Odblokowanie - II",
+      "kr_sha256": "4a7d367baee775d7c23fd3fd2006520754788978c1edb28a9cd6408e933225b8",
+      "en_sha256": "6dae5d5b0e288b59d9521f37751719c12ade2f81336744758d2e9192fda6d834",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Rien3].desc": {
+      "pl": "- Poziom Ataku +3, Poziom Obrony +3\n- Po zakończeniu walki odzyskuje 30 Poczytalności",
+      "kr_sha256": "a350961c8d02b990eb67242beff117e46f3d7a887fc4bc3dfd8015a5bbf99d04",
+      "en_sha256": "12349111319d804bd6d04f04981023c4fbd7c0bc2c34c4f710d90093a55e47b9",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Rien3].name": {
+      "pl": "Odblokowanie - III",
+      "kr_sha256": "11d1c6d163a12323be2af784e126645a0e70d629346029feb00fc536d4909880",
+      "en_sha256": "958712b06ed2c6e164ae8b44be2333d98f28cd3db10e01ab6e6610a1a9c40d7f",
+      "origin": "ai"
+    },
+    "dataList[id=VengeanceBookSpider].desc": {
+      "pl": "Gdy Ojciec Środkowego - Matthias albo Uczeń Środkowego - Kira trafi Umiejętnością cel z tym efektem, odzyskuje 7 Poczytalności (1 raz na Umiejętność)",
+      "kr_sha256": "7be330a43d5f0a5ca0f1ec8a602c2d8740d87ca44c02c2c19725a64960572dde",
+      "en_sha256": "8065c2fa30b6f177fed7195a0b3afea010520e8873787234d2686a49267558c7",
+      "origin": "ai"
+    },
+    "dataList[id=VengeanceBookSpider].flavor": {
+      "pl": "„Wy... natychmiastowa egzekucja.”",
+      "kr_sha256": "fa1509d769e631467334d13e6d7b80b476f02c3bc0e292cf9a5c742fecb0f24d",
+      "en_sha256": "b9ad1b8442d6b3e6eedd39f21d19c3c2c648f4b799429330e9838c4074d28648",
+      "origin": "ai"
+    },
+    "dataList[id=VengeanceBookSpider].name": {
+      "pl": "Księga Zemsty",
+      "kr_sha256": "e7992abe5dcb6f1972ff5ef5c3a809bb80f5be5e9e445fd0130077ab10de9fd3",
+      "en_sha256": "3bc6ced95ec279399009a374664f756f043eaade1d64d5215463c8121d7717f8",
+      "origin": "ai"
+    },
+    "dataList[id=VergiliusSin].desc": {
+      "pl": "Zadaje +50% obrażeń Gniewu",
+      "kr_sha256": "e207eac34ead61760caae293265ccf4c3f0eba2218429479e6fa2475e29b002d",
+      "en_sha256": "413e2b4fa58abd6e8fad702d00d0a513075b23fa2998a797ae1b40455527e927",
+      "origin": "ai"
+    },
+    "dataList[id=VergiliusSin].name": {
+      "pl": "Shin (心) - Czerwone Spojrzenie",
+      "kr_sha256": "c8f003a4bbfe85fcda17db16905bdb1999b78c88a08f1cc740ded363a9603fea",
+      "en_sha256": "69ccbfb60720c5a19fbc9e49801740b8ac2655df580228c0e8dd273933d08433",
+      "origin": "ai"
+    },
+    "dataList[id=VergiliusSin].summary": {
+      "pl": "Zadaje więcej obrażeń",
+      "kr_sha256": "d4ec77ede181a2fd74baa455d2efa19d020faf292083212465668e04884e5ad5",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=Veteran_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wrażliwości\n- Efektywność Leczenia Poczytalności +2",
+      "kr_sha256": "f56419507fe4724fb876a5c88edfac718972f62f7dbcb48e7f9a640ed6b2a495",
+      "en_sha256": "3c54ccb03ccadab5093403086d4a375c5206cfd0918c36b208d200faed122f52",
+      "origin": "ai"
+    },
+    "dataList[id=Veteran_LowMorale].name": {
+      "pl": "Drugiej Wojny Dymnej",
+      "kr_sha256": "a3aad346f8f3f10d74951b16a4a7cf88b8154ec3e2047ed958ae1640e817c212",
+      "en_sha256": "a3ddd1466d43f82d15312dd6d1dcaf6238b2259c93206cdc7b5e7dfe85f3caa1",
+      "origin": "ai"
+    },
+    "dataList[id=Veteran_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wrażliwości i 2 Wzrostu Mocy Starcia",
+      "kr_sha256": "bc55e767893791c92832a5ceef2a422f07bb57d008c49f28bf56adf1130fc132",
+      "en_sha256": "c0721d4640f8b7bfa82831516a9cc449cdf57ed854170d289a363744c320ce8f",
+      "origin": "ai"
+    },
+    "dataList[id=Veteran_Panic].name": {
+      "pl": "Drugiej Wojny Dymnej",
+      "kr_sha256": "a3aad346f8f3f10d74951b16a4a7cf88b8154ec3e2047ed958ae1640e817c212",
+      "en_sha256": "a3ddd1466d43f82d15312dd6d1dcaf6238b2259c93206cdc7b5e7dfe85f3caa1",
+      "origin": "ai"
+    },
+    "dataList[id=WillAwakenSinclair].desc": {
+      "pl": "- Min. i Maks. Szybkość +3\n- Zadaje +20% obrażeń Atakami Jednostronnymi\n- Umiejętności zyskują +2 Siły Oddechu i +1 Licznika Oddechu\n- Przy Poczytalności 20+: +10% szans na Awers dla Monet Plus\n- Na koniec tury zyskuje 1 Pośpiech w następnej turze za każde 10 Poczytalności (maks. 4)\n- Na koniec tury zyskuje 1 Wzrost Mocy w następnej turze za każde 20 Poczytalności (maks. 2)",
+      "kr_sha256": "c8b28b007b9a0689202d211e087c73f6ca2925d58640ed941f71e620d0678cd2",
+      "en_sha256": "04e12effc3ac2587520419b5abfa7cf2180ebd9fc13a9eef20fb11d5142f5bfd",
+      "origin": "ai"
+    },
+    "dataList[id=WillAwakenSinclair].name": {
+      "pl": "Shin (心) - Pewien Sinclair",
+      "kr_sha256": "63403dfaccb0db0f81dfc7932dd3e44cbe118a7c202f0f7f21f8d3c12de54f86",
+      "en_sha256": "f3910a1a52a39937dbb918a84ae679b654ca723001b2e8cdbaab992a6d2f0d95",
+      "origin": "ai"
+    }
+  }
+}

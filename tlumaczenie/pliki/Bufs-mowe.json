@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=BloodPocket_LowMorale].name": {
+      "pl": "Krwiożerczość",
+      "kr_sha256": "d37ff8ae4e6ac6bbba179acd36c6e9460b8733f1f04b5143852fb3a42f3a96e7",
+      "en_sha256": "17701dc653fe8799adbc4620bc254bdf2ec6165fafcd91afeae0009aba3cb4f1",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyCrave].desc": {
+      "pl": "- Zyskuje 1 Wzrost Mocy Starcia i 1 Wzrost Obrażeń\n- Przy trafieniu zyskuje 1 Zmagazynowanej Krwi\n- Jeżeli w tej turze nie zdobył Zmagazynowanej Krwi, zamiast powyższych efektów zyskuje w następnej turze 2 Wrażliwości, 1 Pośpiech i 4 Wzrostu Poziomu Ataku",
+      "kr_sha256": "4cf2039a808cf057c20437c6d5b1dd691d71c2206b65e61df5004197b5b9e4e2",
+      "en_sha256": "d42a37be972f8f7ce17aff58706caaf9372831eb9b43ebd088f1744a11421fc5",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyCrave].name": {
+      "pl": "Krwawa Żądza",
+      "kr_sha256": "1ffb11c405dcdfc7a72748e2d37e3c4e09503f022d1928ddd0ac0068b73d2331",
+      "en_sha256": "3b8189333af51dc0ec3043bed31a90d147ea781503f104de7220da7555e5bee0",
+      "origin": "ai"
+    },
+    "dataList[id=KeptBlood].desc": {
+      "pl": "- Maks. 10\n- Traci 1 wartości za każde utracone 5% Maks. HP.\n- Przy trafieniu leczy 1% HP",
+      "kr_sha256": "3852ad9fd5d2f06d345cfe0152357d91438289b193415f7be0af951ef7021225",
+      "en_sha256": "9b9b83e3484db900b20535cde6661036c000466dd0b2a78949ec8d0b1b735206",
+      "origin": "ai"
+    },
+    "dataList[id=KeptBlood].name": {
+      "pl": "Zmagazynowana Krew",
+      "kr_sha256": "4cddfc64fc89594089142ab57f64e0284e2372b3d62ca0c5cb8a5f96e7d010b5",
+      "en_sha256": "7ee53fcd551fe6110cbc9814c3ee5ca453bfbd3d86a01699d68bbdcdb2f4c08f",
+      "origin": "ai"
+    }
+  }
+}
