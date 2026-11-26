@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=BearClawWound].desc": {
+      "pl": "- Maks. stosów: 9\n- Przy trafieniu zyskuje 1 Siły Krwawienia za każde 3 stosy (1 raz na turę)\n- Na koniec tury zyskuje 1 Spadek Poziomu Obrony w następnej turze za każde 4 stosy (maks. 2)\n- Na koniec tury maleje o 1",
+      "kr_sha256": "fd83f77ef65be6124bc70dce71b7d11ea929c01fe20f217188dfac343d1066f0",
+      "en_sha256": "38cde5d7f01c7f75b10a63b08227313bd12bdd2946bade59a495cd214b13d622",
+      "origin": "ai"
+    },
+    "dataList[id=BearClawWound].flavor": {
+      "pl": "„Mówią, że farby Serdecznego mają tę samą bazę co wzmocnione tatuaże — raz utrwalone, kolor prawie nie schodzi i nie da się go zatrzeć.”",
+      "kr_sha256": "11aadf8e849bec1eedfb00a1f16799a86ef45dd3cb1a2df18e433845c5f2e56f",
+      "en_sha256": "9b30912a07e626fa476ab202cd4c597871363800778c3c2df45f3f9a7596bea6",
+      "origin": "ai"
+    },
+    "dataList[id=BearClawWound].name": {
+      "pl": "Rwana Barwa [Rouge]",
+      "kr_sha256": "b313554051d92c99f9a7d921d32d4fbbc731f8f4dfccf2a801f779d7a8caf8a6",
+      "en_sha256": "7de68de6cba92f9c5a63f3dc5e08e79ef1b2b3bc5d4e5a49aa7cc0156313170a",
+      "origin": "ai"
+    },
+    "dataList[id=BoldBrushstrokes].desc": {
+      "pl": "- Dopóki posiada ten efekt, podwaja obrażenia HP i Poczytalności otrzymywane od Krwawienia i Zatonięcia\n- Na koniec tury maleje o 1\n- Maks. stosów: 1",
+      "kr_sha256": "cf9a8803657a46c36f67b6ea6ac8ef831e985b7ba535cc14780f6dcbf2eee9f0",
+      "en_sha256": "2f69d54f609da06dc6fe0e9eb9f782892885a67dd5e354cffadbba1fb033aed8",
+      "origin": "ai"
+    },
+    "dataList[id=BoldBrushstrokes].flavor": {
+      "pl": "„Pazury wilka, pazury rysia... i nawet żółwi, tak maleńkie, a tak mistycznie ułożone... Jak odważny wyraz.”",
+      "kr_sha256": "3e66794d4ad860c1b4bc14444c305af150b90ffffb360170eba61089297e0cfa",
+      "en_sha256": "2010b07385c98254acfa81d322adbd76343c62af3c3e0d6eec87b3ecb4e5be56",
+      "origin": "ai"
+    },
+    "dataList[id=BoldBrushstrokes].name": {
+      "pl": "Touche Hardie",
+      "kr_sha256": "84dfc400ffa34c82fa2c7c0c3a91e7a1bcfedb5f78c4eb42d4a2d5b3cdc7f8d9",
+      "en_sha256": "e25711acaa73433244c5eecea4c07885bba02b072d2378e68a1fdc97cde9d3fc",
+      "origin": "ai"
+    },
+    "dataList[id=EagleClawWound].desc": {
+      "pl": "- Maks. stosów: 9\n- Przy trafieniu zyskuje 1 Siły Zatonięcia za każde 3 stosy (1 raz na turę)\n- Na koniec tury przy 5+ stosach traci 5 Poczytalności\n- Na koniec tury maleje o 1",
+      "kr_sha256": "5a41ed938611ff23764e6fbb6de9c548680c62770083d3fd03a54875f0ca165f",
+      "en_sha256": "4cc2b7ee4a1ced35e23fd780d9960714b7175a47a1e551d23ea06cc0bed84bb8",
+      "origin": "ai"
+    },
+    "dataList[id=EagleClawWound].flavor": {
+      "pl": "„Jeżeli Środkowy tuszuje się sam dla wzmocnienia, to tatuaże Serdecznego to raczej piętna, które nakłada się na wrogów, by ich osłabić?”",
+      "kr_sha256": "f0f16dabe8ca47f4e4ece507b8de0ce43048df37f5e50ed84abe16147f05401f",
+      "en_sha256": "3634f7ad67105b93109416a4183091aa9558548607579ac5e8b21bb7019550d6",
+      "origin": "ai"
+    },
+    "dataList[id=EagleClawWound].name": {
+      "pl": "Rwana Barwa [Bleu]",
+      "kr_sha256": "24ce06b429f7e70497ea6d153a9494b7dcce126a8346ae2f370ca8ce44b9ed54",
+      "en_sha256": "5aee40cd18cf04c504b6b764c80190e9462ac3649085f5f3ecf984b82d01e938",
+      "origin": "ai"
+    },
+    "dataList[id=FaubismWolfMaskBlooded].desc": {
+      "pl": "- Zadaje +20% obrażeń; wszystkie Monety stają się Niezniszczalnymi Monetami\n- Min. i Maks. Szybkość +1\n- Umiejętności nakładają +1 więcej następujących negatywnych efektów\n· Siła i Licznik Krwawienia\n· Siła i Licznik Zatonięcia\n- Przed trafieniem, jeżeli cel nie ma Zatonięcia, zyskuje +2 Licznika Zatonięcia (3 razy na Grzesznika na turę)\n- Przed otrzymaniem trafienia, jeżeli cel nie ma Krwawienia, zyskuje +2 Licznika Krwawienia (3 razy na Grzesznika na turę)",
+      "kr_sha256": "bd3996b2808bbc22b5e7806d47f08c9470e030b4a8d51b94d7fbc6cbfc40305b",
+      "en_sha256": "3dda9ca70bb045d5ecbfc664fb9fd6c14ab032427c30da52f5ad8531657cb388",
+      "origin": "ai"
+    },
+    "dataList[id=FaubismWolfMaskBlooded].flavor": {
+      "pl": "Samo założenie maski bestii nie budzi wewnętrznej dzikości.\nWnętrze każdego nakrycia głowy tych artystów wyścieła matowina igieł zanurzonych w farbie Le Fauvisme, która wstrzykuje się do ciała przy złożeniu.\n\nTak jest z farbą Stronnictwa Serdecznego — a ci artyści, niezależnie od Szkoły, wszyscy muszą jej używać.",
+      "kr_sha256": "0d0057fb32a6e55da6ea92a4dd20ac6606ce973e9401e43893b06f3140317822",
+      "en_sha256": "dbc8c5a1cea6194c935010ad38f1d5c062c644b2d3d3976d028bde2e2e9ff3be",
+      "origin": "ai"
+    },
+    "dataList[id=FaubismWolfMaskBlooded].name": {
+      "pl": "Le Fauvisme - Masque de Loup Ensanglanté",
+      "kr_sha256": "e7f548967fd837b6dc9e63ca298d5a54a32ca80d86dc8687180fe68ad51385b5",
+      "en_sha256": "12251cbbc8e7729c9588c869a1ed28f02ad64ef47533cfe30f34aa21e528d65a",
+      "origin": "ai"
+    },
+    "dataList[id=FaubismWolfMask].desc": {
+      "pl": "- Min. i Maks. Szybkość +1\n- Umiejętności nakładają +1 więcej Siły Krwawienia i Zatonięcia\n- Przed trafieniem, jeżeli cel nie ma Zatonięcia, zyskuje +2 Licznika Zatonięcia (1 raz na Grzesznika na turę)\n- Przed otrzymaniem trafienia, jeżeli cel nie ma Krwawienia, zyskuje +2 Licznika Krwawienia (1 raz na Grzesznika na turę)",
+      "kr_sha256": "813004f99ca6c35ffe9e5557c12e63487d9321600e9e5244e4e137ca682460c7",
+      "en_sha256": "a303bef07be1d55a2846700f5a55a5546a32de8776dd964f6674b522042828f2",
+      "origin": "ai"
+    },
+    "dataList[id=FaubismWolfMask].flavor": {
+      "pl": "„Można pytać: co odróżnia les Fauves od frakcji takich jak Heishou, stada Korporacji R i innych, które wplatają bestie w swoją tożsamość?”\n\n„Słuszne pytanie; odpowiem tak: my przemieniamy dzikość w dzieło sztuki nakładane na siebie, podczas gdy Heishou bezmyślnie wpisują je we własne ciała, nie dbając o walory estetyczne.”",
+      "kr_sha256": "39b9fe79e61e92626b4fc66f9571f401822f4ef14696ac4931529335e82e0daa",
+      "en_sha256": "25f45e4dc06356014989e1fec489dfa1d6fce0a648396b107649f75eb9d6e55d",
+      "origin": "ai"
+    },
+    "dataList[id=FaubismWolfMask].name": {
+      "pl": "Le Fauvisme - Masque de Loup",
+      "kr_sha256": "f6353d69d6d671bdd5fac767d236f9518e89457d75fb0468a0ceb98400759ce1",
+      "en_sha256": "4d732db24c087aa4b0944e8f9848d5623a6a2656bf2c305b7fbaf74e551de2e0",
+      "origin": "ai"
+    },
+    "dataList[id=FauvismDocent_Lowmorale].desc": {
+      "pl": "- Niskie Morale\n- Zadaje +2,5% obrażeń za każdy rodzaj negatywnego efektu na atakowanym celu (maks. 15%)\n- Zyskuje 1 Wrażliwości",
+      "kr_sha256": "08295c82aba18f77a7f2217eec9fd15439b3739e933f28f609f575db3e836004",
+      "en_sha256": "db233d71cf9454e508f7174b2662d6078b5337093ded261c0424d0fc2fe283f2",
+      "origin": "ai"
+    },
+    "dataList[id=FauvismDocent_Lowmorale].name": {
+      "pl": "Coloriage Impulsif",
+      "kr_sha256": "d0c52faa1a7a5f51f88d684695e156964d9392cbf795b70a29b455d8b790bc5f",
+      "en_sha256": "321b5361ad445fa24dc456e47470225fb0d897d9fad78d269aa1f701fe49d582",
+      "origin": "ai"
+    },
+    "dataList[id=FauvismDocent_Panic].desc": {
+      "pl": "- Panika\n- Zadaje +5% obrażeń za każdy rodzaj negatywnego efektu na atakowanym celu (maks. 30%)\n- Zyskuje 2 Wrażliwości",
+      "kr_sha256": "0def35b9141bdc372415d569d7a92e4279958b7472b51aae7d10476cd1f6292a",
+      "en_sha256": "1765815e342345353eaeb9fe425986af1f06ecdacb26f1f525f9afd4ed77265a",
+      "origin": "ai"
+    },
+    "dataList[id=FauvismDocent_Panic].name": {
+      "pl": "Coloriage Impulsif",
+      "kr_sha256": "d0c52faa1a7a5f51f88d684695e156964d9392cbf795b70a29b455d8b790bc5f",
+      "en_sha256": "321b5361ad445fa24dc456e47470225fb0d897d9fad78d269aa1f701fe49d582",
+      "origin": "ai"
+    },
+    "dataList[id=Fauvism_Lowmorale].desc": {
+      "pl": "- Niskie Morale\n- Jeżeli cel ataku ma Rwaną Barwę, zadaje +10% obrażeń\n- Zyskuje 1 Wrażliwości",
+      "kr_sha256": "36722d0e26d3a68072768d8964b0ba9d170a43c66b640ddf9a1012816b592288",
+      "en_sha256": "a4f8b683c1c69d46968583470e978345ad9ca9046be6d26db267b8e3608429a1",
+      "origin": "ai"
+    },
+    "dataList[id=Fauvism_Lowmorale].name": {
+      "pl": "Wygasająca Inspiracja",
+      "kr_sha256": "6b7e24072b45ee7bea49f105e0f6d848d106bda79a9c10f7da0e02a1fe09ca5f",
+      "en_sha256": "d887b1b7ed534ccbce963ec5481911535c1647c3809fc57ea0627aa9e996a17e",
+      "origin": "ai"
+    },
+    "dataList[id=Fauvism_Panic].desc": {
+      "pl": "- Panika\n- Jeżeli cel ataku ma Rwaną Barwę, zadaje +20% obrażeń\n- Zyskuje 2 Wrażliwości",
+      "kr_sha256": "25943a981f60c5851107a32db1ab30a5b30ea48e4bd1abdf278e501a6bd989d5",
+      "en_sha256": "9451ac45d6304e4210360291cd51ffd07704dc6c9c3d1de3bb16703ce2131f11",
+      "origin": "ai"
+    },
+    "dataList[id=Fauvism_Panic].name": {
+      "pl": "Wygasająca Inspiracja",
+      "kr_sha256": "6b7e24072b45ee7bea49f105e0f6d848d106bda79a9c10f7da0e02a1fe09ca5f",
+      "en_sha256": "d887b1b7ed534ccbce963ec5481911535c1647c3809fc57ea0627aa9e996a17e",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOnSpiderTwo].desc": {
+      "pl": "Przy trafieniu monetą Umiejętności Ostrzy Termicznych dodatkowo nadaje Podpalenie (Moc i Licznik) w wysokości nadawanego Krwawienia (Moc i Licznik)",
+      "kr_sha256": "66bcd7f8e5f495281232c9374c51849a4cc122847ec13ae21db0e3535b57ed74",
+      "en_sha256": "b31a1bde5b2c5843b803601221593ab9c0f607681498f2d804c9636a7672aefc",
+      "origin": "ai"
+    },
+    "dataList[id=HeatingWireOnSpiderTwo].name": {
+      "pl": "Ostrza Termiczne - ON",
+      "kr_sha256": "47400d672cd17156b4e17a679572763f667ee812c482126921f6bb1c7068830a",
+      "en_sha256": "adccabf1a55bfec9885bcfe2eebc41fa5ab4417662d5fd14ece1b87ef7a6e929",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_0].desc": {
+      "pl": "Atakuje Grzesznika i trafia.\n\n- Na początku tury zdobywany przy Łasce Nakazu 0–2\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 3",
+      "kr_sha256": "653c7bf271b4a7920ab04d834516b186e04cbb6792f6a5bfd9fa1f656c0ca163",
+      "en_sha256": "ccdaca234628ead9918325043ee461f7c798340de1f4f7daf58bedca807d94e3",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_0].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_0].name": {
+      "pl": "Nakaz [Kartka] I",
+      "kr_sha256": "b5b9dafff57bc64a49cba829b2a723de5fca96e97abde14c0bc7101c57ee3f8c",
+      "en_sha256": "e2790d36167ee0dcd01a4ac810760f690f7accd641013792a29b7366f383d0da",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_1].desc": {
+      "pl": "Atakuje Cel Nakazu i trafia.\n\n- Na początku tury zdobywany przy Łasce Nakazu 3–5\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 6",
+      "kr_sha256": "c862bc3a81fa8482a9e3097f717cfd87871da5a3b41e95b87c6664d7b713e734",
+      "en_sha256": "49ac6c8703fc0625b964c37f4cbf0b4d5950426f6dee03d0b3ca704e8b033073",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_1].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_1].name": {
+      "pl": "Nakaz [Kartka] II",
+      "kr_sha256": "9b046eb59313bba2e7aa19c653fd4b3f57d0be1b8d8d75e81e0254b2d5d6415a",
+      "en_sha256": "6e123f5b3c4db0c0804f8acc4239318a3b50dd4c3882e6d9b6708eddfb8089e8",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_2].desc": {
+      "pl": "Ty lub sojusznik oszołomiasz albo zabijasz losowego Grzesznika.\n\n- Na początku tury, przy 6–8 Łaskach Nakazu\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 9",
+      "kr_sha256": "560226219321123393dba230c04c4ff302c623fd760205dd5fa9ab1da05030bb",
+      "en_sha256": "9db37a161a482f8b4b9a4ae3e326afd8838bf54a703f15d94334b2971b5ade30",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_2].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_2].name": {
+      "pl": "Nakaz [Kartka] III",
+      "kr_sha256": "1cba5dd877ca82ae04eb3b2d2b7d61ba8fdec493d5deda0448e30b4b48b3a125",
+      "en_sha256": "b0da024a415a4d7c37ec62ae40e33adea2353f7f773605816a4a0e3339727bd9",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_3].desc": {
+      "pl": "Zabija wszystkich wrogów, zanim nadejdzie kolejny Nakaz.\n\n- Na początku tury, przy 9 Łaskach Nakazu",
+      "kr_sha256": "6bc6ef2a95d015be6386ea5605a3be62f1645e56f6baaf24688b12a27888f4e6",
+      "en_sha256": "0fb484fe1f5288d6e8c16023692888a0a22ee0ba1bf7c1c7a575e84d4b1a5333",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_3].flavor": {
+      "pl": "Nakazy przekazywane są na rozmaite sposoby. Forma, w jakiej dotrą do adresata, zostaje wybrana jednokierunkowo, niczym wyrocznia — bez jego wpływu.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptEnemy_3].name": {
+      "pl": "Nakaz [Kartka] IV",
+      "kr_sha256": "69581c6c9d3370acb28c9203f178d476ec910a176ac9bb36fba38f385d35bf0c",
+      "en_sha256": "4eb02c4e29f2f02779ec2eda17b4019b988a4155470fa8d00945fbc7130b7117",
+      "origin": "ai"
+    },
+    "dataList[id=IntenseColors].desc": {
+      "pl": "- Otrzymuje +(stosy x 5)% obrażeń od Stronnictwa Serdecznego\n· Jeżeli atakujący należy do Szkoły Fowizmu Stronnictwa Serdecznego, zamiast tego +(stosy x 10)%\n- Na początku walki zyskuje (stosy +1) Krwawienia i Zatonięcia oraz ich Liczniki\n- Po zakończeniu walki ten efekt znika, a stosy Rwanej Barwy [Rouge] i Rwanej Barwy [Bleu] są zmniejszane o połowę (zaokrąglone w dół)\n- Maks. stosów: 4",
+      "kr_sha256": "f03dc75b36ade73d63da6b82d362900604900426647c9865b548a8ed2d7e5afc",
+      "en_sha256": "ee95063bcd28e9311f83ce42fae419a5d1d52bc23759e282f41858e4f9f92638",
+      "origin": "ai"
+    },
+    "dataList[id=IntenseColors].name": {
+      "pl": "Palette Vibrante",
+      "kr_sha256": "086b14428de1d0a34da6256a4849a0ec53f5c9ea1589c8f0cc80d65e5b89d00b",
+      "en_sha256": "6a9d3c683a2b306ca2882d94f79b2c5b09400c2bf7bf50b3fb079aa005f6f491",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexEnemy].desc": {
+      "pl": "- Na początku tury:\n· 1 Spadek Poziomu Obrony za każde 10 stosów\n· 1 Wrażliwość za każde 20 stosów\n- Maks. stosów: 100",
+      "kr_sha256": "4b517a82f2bd493e5f5a741aebcb7c2962c75882e05a91fd2b396da292973b2d",
+      "en_sha256": "0ab289188567a0c32b579d9af4d7eeee5e252ea006ba10526c8af17063235e95",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexEnemy].flavor": {
+      "pl": "Przyjmuje Nakaz i wypełnia go. Wypełnienie staje się karmą, która — krążąc bez końca — nawarstwia się znowu.",
+      "kr_sha256": "d4fa62780d2682207b10b042eb5207d4ebd385fc2aa40dd65c5e65e58de2de2e",
+      "en_sha256": "d5881ca89e47589febbc67736d8592358378037fc3dbb189f7a5c2eaa25f7d9d",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexEnemy].name": {
+      "pl": "Karma",
+      "kr_sha256": "20785c39571b296683ca312c7547f0bc5ccf32c7cbe95362fecd79248b82e24c",
+      "en_sha256": "dae1a80d8d2ad225ddc898ff8a1c32286c668dc1c79998e720d05c6948b1294b",
+      "origin": "ai"
+    },
+    "dataList[id=PanicChangeLock].desc": {
+      "pl": "- Przy zdobyciu efektu zmieniającego typ Paniki typ nie ulega zmianie; zamiast tego nakładany jest efekt stosowany wobec jednostek bez Poczytalności",
+      "kr_sha256": "b5f336d447a44104d0f4d89e9ab54aa304905f472940294fcdd94315ff674e85",
+      "en_sha256": "80b56172152e3c3e233ed29bffa2962e32b93653e16c423865f7a96488389a44",
+      "origin": "ai"
+    },
+    "dataList[id=PanicChangeLock].name": {
+      "pl": "Zablokowana Panika",
+      "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
+      "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpiderDaughterTwo].desc": {
+      "pl": "- Maks. stosów: 3\n- Zadaje +10% obrażeń atakami Uderzenia i Zazdrości",
+      "kr_sha256": "ea62ac19301ff3d192567480c46d7e74d6dd61db147f5b30f3808a7f979526b5",
+      "en_sha256": "abc6ebc021c96966a4532e5167699b1b65bd1883ca9750859f31fe72ad296480",
+      "origin": "ai"
+    },
+    "dataList[id=ReinforcedTattooSpiderDaughterTwo].name": {
+      "pl": "<s>Styl Środkowego</s> - Wzmacniane Tatuaże",
+      "kr_sha256": "45784940156a86b3ae61ef2ffe5c754b35e102372708b2330f7eb9d1a9d19c54",
+      "en_sha256": "628b639da13194d77620350d2459018d7d0d2b26f2772dedd8c6129f565e313f",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpiderDaughterTwo].desc": {
+      "pl": "- Maks. stosów: 10\n- Zmniejszana przy użyciu określonych Umiejętności\n- Za każdy stos: Poziom Ataku +1, Poziom Obrony -2, Obrażenia Umiejętności Kontratakujących +5%\n- Przy maks. stosach otrzymuje +20% obrażeń",
+      "kr_sha256": "9b0a0d97a346d92f1942ee205176a452a7072810261b3ea848677b741d62733e",
+      "en_sha256": "b285a0bd7a96c305c73734c943e4887b17a755b7f8b9bda3ce257eadf63a0c6a",
+      "origin": "ai"
+    },
+    "dataList[id=ResentmentSpiderDaughterTwo].name": {
+      "pl": "<s>Środkowy</s> - Uraza",
+      "kr_sha256": "6dc930de6bdc925bc059ad8706f6ffb52ccdfd0026203aa800dd844f96735df2",
+      "en_sha256": "22efdf2cfb9d69e9402d93a7f6d9257791f4c7c8f074e7634070a949742b7ff1",
+      "origin": "ai"
+    }
+  }
+}

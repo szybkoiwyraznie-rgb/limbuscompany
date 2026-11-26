@@ -1,0 +1,502 @@
+{
+  "entries": {
+    "dataList[id=BeyondDespair].desc": {
+      "pl": "- Na początku tury zyskuje 2 Ochrony i 1 Wzrost Mocy Ataku\n- Przy użyciu Umiejętności obrony zyskuje 3 Wzrosty Mocy Obrony (1 na turę)\n- Po wygranym Starciu odzyskuje 5 Poczytalności (2 na turę)\n · Przy maks. Poczytalności usuwa 1 usuwalny negatywny efekt nakładony na siebie\n- Po zakończeniu podstawowej Umiejętności zadaje każdemu wrogowi obrażenia Pychą równe 10% obrażeń zadanych przez nią\n\n- Gdy otrzymuje obrażenia obniżające jego HP do 0, nie przyjmuje ich w tej turze (1 na spotkanie)\n · W następnej turze po wywołaniu tego efektu w pełni leczy HP, a do końca walki zadaje +10% obrażeń za każdą Ochronę na sobie (maks. 80%)",
+      "kr_sha256": "33d05b8cd262045c75ffa610ddd2dc61818bc4b428744e7e2d781e5ab3e50967",
+      "en_sha256": "9972cad7e2fbc4c51aab36899e2f1b5a3c7c1a9b21d2a655ce95e4b03c31088b",
+      "origin": "ai"
+    },
+    "dataList[id=BeyondDespair].name": {
+      "pl": "Ten, Który Przekroczył Rozpacz",
+      "kr_sha256": "883c45640b8a1c2c5c52c4c4e54373a313fa0a592431fe0d91dbc594f7d7c8ca",
+      "en_sha256": "267d811be2edd7021640d6ed365f5876b1ead665391372ee6f197947dd0a120e",
+      "origin": "ai"
+    },
+    "dataList[id=CursedBlessing].desc": {
+      "pl": "- Prowokacja slotów +20\n- Umiejętność ataku: traci 20 Poczytalności\n- Po śmierci pozostali sojusznicy tracą 20 Poczytalności",
+      "kr_sha256": "6edad3b63566dd8e5aa29a0b19afb85e63d4c9a8816bad397e01bf1a40e6db09",
+      "en_sha256": "848de63d0ff064c43e10fcd19e1ecdae888205180c0c43ec287d501bcde31672",
+      "origin": "ai"
+    },
+    "dataList[id=CursedBlessing].name": {
+      "pl": "Próba Rozpaczy",
+      "kr_sha256": "f9d1e3be587c499095f63cddfe81de3752ff657b7253d15d5bd26e5d7e0b80df",
+      "en_sha256": "f749af33f51356071297fe93ef4ef46aa532d0e1180a404526c30e4ad06656e9",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSOne].desc": {
+      "pl": "- Maks. stosów: 30\n- Na początku tury zyskuje 1 Podpalenie za każde 5 stosów\n- Na początku tury zyskuje +1 Licznika Podpalenia za każde 10 stosów\n- Od 10 stosów podstawowe Umiejętności nadają wrogom +1 więcej Mocy Podpalenia\n- Od 20 stosów podstawowe Umiejętności nadają wrogom +1 więcej Licznika Podpalenia",
+      "kr_sha256": "eb9278700d3838d1c09710a54442ce22e4ecd997493aa00e93537e966fc148fb",
+      "en_sha256": "2606c8a4fe5e0e5574695ab0b8d5f2da36ea49af8596fb88cd7c847149383ae7",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSOne].flavor": {
+      "pl": "Płomień, który rozświetla świt, nie jest ogniem, co pali, lecz ogniem, co oświetla ludzi.",
+      "kr_sha256": "d1b5ffbf3f0b913c26f0185017bd18384e090f33a21dbf0613beb5d9e7751451",
+      "en_sha256": "fd3f8f654e35fcea04cecfcb714b58cf7fdd2541963d26e7b8b56c2fff2210cb",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSOne].name": {
+      "pl": "Płomień Świtu",
+      "kr_sha256": "9ba29b853a893ac41abbd689d63ff41ac84335d30ea1a971c4d5bfa55c7abb56",
+      "en_sha256": "0a05d5380c7530b151e2a2b9ac84e621cfedc83573dee63788da69fe689d7be2",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSThree].desc": {
+      "pl": "- Maks. stosów: 30\n- Na początku tury zyskuje 1 Podpalenie za każde 5 stosów\n- Na początku tury zyskuje +1 Licznika Podpalenia za każde 10 stosów\n- Od 10 stosów podstawowe Umiejętności nadają wrogom +1 więcej Mocy Podpalenia\n- Od 20 stosów podstawowe Umiejętności nadają wrogom +1 więcej Licznika Podpalenia",
+      "kr_sha256": "eb9278700d3838d1c09710a54442ce22e4ecd997493aa00e93537e966fc148fb",
+      "en_sha256": "2606c8a4fe5e0e5574695ab0b8d5f2da36ea49af8596fb88cd7c847149383ae7",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSThree].flavor": {
+      "pl": "Płomień, który rozświetla świt, nie jest ogniem, co pali, lecz ogniem, co oświetla ludzi.",
+      "kr_sha256": "d1b5ffbf3f0b913c26f0185017bd18384e090f33a21dbf0613beb5d9e7751451",
+      "en_sha256": "fd3f8f654e35fcea04cecfcb714b58cf7fdd2541963d26e7b8b56c2fff2210cb",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSThree].name": {
+      "pl": "Płomień Świtu",
+      "kr_sha256": "9ba29b853a893ac41abbd689d63ff41ac84335d30ea1a971c4d5bfa55c7abb56",
+      "en_sha256": "0a05d5380c7530b151e2a2b9ac84e621cfedc83573dee63788da69fe689d7be2",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSTwo].desc": {
+      "pl": "- Maks. stosów: 30\n- Na początku tury zyskuje 1 Podpalenie za każde 5 stosów\n- Na początku tury zyskuje +1 Licznika Podpalenia za każde 10 stosów\n- Od 10 stosów podstawowe Umiejętności nadają wrogom +1 więcej Mocy Podpalenia\n- Od 20 stosów podstawowe Umiejętności nadają wrogom +1 więcej Licznika Podpalenia",
+      "kr_sha256": "eb9278700d3838d1c09710a54442ce22e4ecd997493aa00e93537e966fc148fb",
+      "en_sha256": "2606c8a4fe5e0e5574695ab0b8d5f2da36ea49af8596fb88cd7c847149383ae7",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSTwo].flavor": {
+      "pl": "Płomień, który rozświetla świt, nie jest ogniem, co pali, lecz ogniem, co oświetla ludzi.",
+      "kr_sha256": "d1b5ffbf3f0b913c26f0185017bd18384e090f33a21dbf0613beb5d9e7751451",
+      "en_sha256": "fd3f8f654e35fcea04cecfcb714b58cf7fdd2541963d26e7b8b56c2fff2210cb",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaSTwo].name": {
+      "pl": "Płomień Świtu",
+      "kr_sha256": "9ba29b853a893ac41abbd689d63ff41ac84335d30ea1a971c4d5bfa55c7abb56",
+      "en_sha256": "0a05d5380c7530b151e2a2b9ac84e621cfedc83573dee63788da69fe689d7be2",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYOne].desc": {
+      "pl": "- Maks. stosów: 30\n- Przy trafieniu podstawową Umiejętnością zyskuje 3 stosy\n · Jeśli to Umiejętność 1 użyta przez pasyw „Biuro Świtu - Seonbae”, dodatkowo +1 stos\n · Jeśli cel ma Podpalenie, dodatkowo +1 stos\n- Na koniec tury, powyżej 20 stosów, w następnej turze otrzymuje Podpalenie równe połowie nadwyżki (zaokrąglone w dół)\n · Przy 30 stosach zamiast tego otrzymuje 5 Podpalenia i +2 Licznika Podpalenia",
+      "kr_sha256": "1fc5cadb2c0b1acbb216496fec20b260d017a4abd9b15b114ad13791fa24d8fa",
+      "en_sha256": "809202eec970797c2b7eb60d7d40298875ae079bca0c0fcb095187216aa7b293",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYOne].flavor": {
+      "pl": "Rozgrzane do żaru w trumnie motyle wylatują rojem i topią, rozrywając cel.\n\n“Philipie, to broń jeszcze zbyt wczesna dla ciebie, ale poznanie jej działania z wyprzedzeniem niczego nie zaszkodzi.”\n“Dzięki ostrzom ukrytym w trumnie łatwiej radzę sobie z wieloma przeciwnikami naraz. Mogę nawet przyjmować zlecenia, z którymi pojedynczy Fixer zwykle sobie nie poradzi.”",
+      "kr_sha256": "0dae15627c397d66076960b266f80e164f359258a4ede12114f279f60847c1f1",
+      "en_sha256": "1e11f5f2fbdf4a0c59b34f32e7de4b43d36b8c255ef38b1be2f744452c77602c",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYOne].name": {
+      "pl": "Trumna Ognistych Motyli",
+      "kr_sha256": "a7940676bf648cc48fe1a57b1e7e1aee3f8337f69dc59e3a5400d887a0f8496a",
+      "en_sha256": "13c939a9e7dc29d82540a3a81fe4b600bcd1444f45de599fa3b102577e93a1fc",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYThree].desc": {
+      "pl": "- Maks. stosów: 30\n- Przy trafieniu podstawową Umiejętnością zyskuje 3 stosy\n · Jeśli to Umiejętność 1 użyta przez pasyw „Biuro Świtu - Seonbae”, dodatkowo +1 stos\n · Jeśli cel ma Podpalenie, dodatkowo +1 stos\n- Na koniec tury, powyżej 20 stosów, w następnej turze otrzymuje Podpalenie równe połowie nadwyżki (zaokrąglone w dół)\n · Przy 30 stosach zamiast tego otrzymuje 5 Podpalenia i +2 Licznika Podpalenia",
+      "kr_sha256": "1fc5cadb2c0b1acbb216496fec20b260d017a4abd9b15b114ad13791fa24d8fa",
+      "en_sha256": "809202eec970797c2b7eb60d7d40298875ae079bca0c0fcb095187216aa7b293",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYThree].flavor": {
+      "pl": "Rozgrzane do żaru w trumnie motyle wylatują rojem i topią, rozrywając cel.\n\n“Philipie, to broń jeszcze zbyt wczesna dla ciebie, ale poznanie jej działania z wyprzedzeniem niczego nie zaszkodzi.”\n“Dzięki ostrzom ukrytym w trumnie łatwiej radzę sobie z wieloma przeciwnikami naraz. Mogę nawet przyjmować zlecenia, z którymi pojedynczy Fixer zwykle sobie nie poradzi.”",
+      "kr_sha256": "0dae15627c397d66076960b266f80e164f359258a4ede12114f279f60847c1f1",
+      "en_sha256": "1e11f5f2fbdf4a0c59b34f32e7de4b43d36b8c255ef38b1be2f744452c77602c",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYThree].name": {
+      "pl": "Trumna Ognistych Motyli",
+      "kr_sha256": "a7940676bf648cc48fe1a57b1e7e1aee3f8337f69dc59e3a5400d887a0f8496a",
+      "en_sha256": "13c939a9e7dc29d82540a3a81fe4b600bcd1444f45de599fa3b102577e93a1fc",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYTwo].desc": {
+      "pl": "- Maks. stosów: 30\n- Przy trafieniu podstawową Umiejętnością zyskuje 3 stosy\n · Jeśli to Umiejętność 1 użyta przez pasyw „Biuro Świtu - Seonbae”, dodatkowo +1 stos\n · Jeśli cel ma Podpalenie, dodatkowo +1 stos\n- Na koniec tury, powyżej 20 stosów, w następnej turze otrzymuje Podpalenie równe połowie nadwyżki (zaokrąglone w dół)\n · Przy 30 stosach zamiast tego otrzymuje 5 Podpalenia i +2 Licznika Podpalenia",
+      "kr_sha256": "1fc5cadb2c0b1acbb216496fec20b260d017a4abd9b15b114ad13791fa24d8fa",
+      "en_sha256": "809202eec970797c2b7eb60d7d40298875ae079bca0c0fcb095187216aa7b293",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYTwo].flavor": {
+      "pl": "Rozgrzane do żaru w trumnie motyle wylatują rojem i topią, rozrywając cel.\n\n“Philipie, to broń jeszcze zbyt wczesna dla ciebie, ale poznanie jej działania z wyprzedzeniem niczego nie zaszkodzi.”\n“Dzięki ostrzom ukrytym w trumnie łatwiej radzę sobie z wieloma przeciwnikami naraz. Mogę nawet przyjmować zlecenia, z którymi pojedynczy Fixer zwykle sobie nie poradzi.”",
+      "kr_sha256": "0dae15627c397d66076960b266f80e164f359258a4ede12114f279f60847c1f1",
+      "en_sha256": "1e11f5f2fbdf4a0c59b34f32e7de4b43d36b8c255ef38b1be2f744452c77602c",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOfficeStigmaYTwo].name": {
+      "pl": "Trumna Ognistych Motyli",
+      "kr_sha256": "a7940676bf648cc48fe1a57b1e7e1aee3f8337f69dc59e3a5400d887a0f8496a",
+      "en_sha256": "13c939a9e7dc29d82540a3a81fe4b600bcd1444f45de599fa3b102577e93a1fc",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOffice_LowMorale].desc": {
+      "pl": "- Spadek Moralu\n- Zadaje -5% obrażeń wrogom z Podpaleniem\n- +5% do Progu Oszołomienia podnoszonego wrogom z Wstrząsem",
+      "kr_sha256": "9029ec2136f61464d30d45ee5b985432990c5dbb26d92c20320e1f5db9186ac4",
+      "en_sha256": "b29808e48c46d3153b8d132a157a76e8700869b741b348022660c21c6f49e23d",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOffice_LowMorale].name": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOffice_Panic].desc": {
+      "pl": "- Panika\n- Zadaje -10% obrażeń wrogom z Podpaleniem\n- +10% do Progu Oszołomienia podnoszonego wrogom z Wstrząsem",
+      "kr_sha256": "3c6310d06b2a048dbe578a5ec233a9a12f6dea325ecc92c32fa80b5caee4e002",
+      "en_sha256": "e88af7f179f2e6a35116c34e2aeeaf4273fbbe612cc0677768885d93be505df1",
+      "origin": "ai"
+    },
+    "dataList[id=DawnOffice_Panic].name": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=EmbeddedSpearhead].desc": {
+      "pl": "- Maks. stosów: 1\n- Gdy krytycznie trafi ją podstawowa Umiejętność ataku Przebicia od celu innego niż ten, który nałożył ten efekt, otrzymuje +15% obrażeń\n- Przy trafieniu Umiejętnością z efektem „Łączenia” otrzymuje dodatkowo +20% obrażeń\n- Znika po zakończeniu Umiejętności, która trafiła",
+      "kr_sha256": "919cae8c53440fc14b6991b8f7ead77bf1e3de2adb90c7bc570b3c4daa6249b8",
+      "en_sha256": "9ff62ecd1b19bd88db39b0112e04e4253bc3f34128f2240a9db289ff20fae221",
+      "origin": "ai"
+    },
+    "dataList[id=EmbeddedSpearhead].name": {
+      "pl": "Wbite Ostrze Włóczni",
+      "kr_sha256": "a7e963f3fe31c4b8b2c6b67e2a1b520b7b64c0ae4b4c16535ebd02c6e34d57ba",
+      "en_sha256": "db8b3c91080ea39955ca33612b9ad0b700bc51d491816a86dfd584c6901d744a",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelOne].desc": {
+      "pl": "- Maks. stosów: 30\n- Moc Końcowa +1\n- Otrzymuje -75% obrażeń od efektów Podpalenia (zaokrąglone w dół)\n- Nie rośnie powyżej 19 stosów, dopóki wszyscy sojusznicy nie osiągną 19 stosów Poziomu Emocji\n- +3 stosy po wygranym Starciu, trafieniu awersem monety i zabiciu wroga\n- +1 stos po przegranej w Starciu, trafieniu rewersem monety i śmierci sojusznika\n- Na koniec tury, jeśli wszyscy sojusznicy mają 19 stosów Poziomu Emocji, zyskuje +1 stos i przechodzi do kolejnego etapu emocji\n\n[Efekt wyznaczonego Bibliotekarza]\n- Popiół: przy trafieniu nadaje atakującemu 1–3 Podpalenia, a z 40% szansą zyskuje na następną turę zdolność „Przy trafieniu Umiejętnością nadaje 1 Podpalenie” (bez kumulowania)",
+      "kr_sha256": "2cb56f545bf30c7f945f1028ad9e8b635e0ccc689f4ad1479aa3c40a643ce5e8",
+      "en_sha256": "0e7231594530dc4735bc30daed8b486282573736eb3df1af34d92bd86aefb5c6",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelOne].name": {
+      "pl": "Poziom Emocji 1",
+      "kr_sha256": "1158e774cdaefd79fce5fcf1b02164897e08f9a6a547f36d7060e42386e60ccb",
+      "en_sha256": "7af16567c1da54ef1a1ff53e9824e6ebf2649021f9706c891817fc2cf97c4393",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelThree].desc": {
+      "pl": "- Maks. stosów: 30\n- Moc Końcowa +3\n- Otrzymuje -75% obrażeń od efektów Podpalenia (zaokrąglone w dół)\n\n[Efekt wyznaczonego Bibliotekarza]\n- Popiół: przy trafieniu nadaje atakującemu 1–3 Podpalenia, a z 40% szansą zyskuje na następną turę zdolność „Przy trafieniu Umiejętnością nadaje 1 Podpalenie” (bez kumulowania)\n- Tęskny Uścisk Dawnych Dni: po wygranym Starciu 20% szans na wywołanie Wybuchu Wstrząsu u celu; szansa rośnie z każdym Starciem z tym samym celem (2% na Starcie, maks. 50%)\n- Łakomstwo: jeśli cel ataku tej jednostki otrzymał w tej turze obrażenia, przy trafieniu zadaje 1–3 dodatkowych obrażeń i odzyskuje 2–5 HP",
+      "kr_sha256": "30527e46278daa40a832c4f1ef7ccdd4c9f9ba5cd8c85cf3bdd5959125f72018",
+      "en_sha256": "67858da469ad18b29e10489fe44108b7b10125f18072adaba34a8ba0e3e6fdce",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelThree].name": {
+      "pl": "Poziom Emocji 3",
+      "kr_sha256": "6e0d872ba43cf54aa191ccd8b0a9e3d8485cd75357ea3eee09ca5fba08fdeafe",
+      "en_sha256": "560c1c6631fb1a138a023bb2f6b9dac7efaf00bfdf8e0ba85c0d2827ae37ce6a",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelTwo].desc": {
+      "pl": "- Maks. stosów: 30\n- Moc Końcowa +2\n- Otrzymuje -75% obrażeń od efektów Podpalenia (zaokrąglone w dół)\n- Nie rośnie powyżej 29 stosów, dopóki wszyscy sojusznicy nie osiągną 29 stosów Poziomu Emocji\n- +3 stosy po wygranym Starciu, trafieniu awersem monety i zabiciu wroga\n- +1 stos po przegranej w Starciu, trafieniu rewersem monety i śmierci sojusznika\n- Na koniec tury, jeśli wszyscy sojusznicy mają 29 stosów Poziomu Emocji, zyskuje +1 stos i przechodzi do kolejnego etapu emocji\n\n[Efekt wyznaczonego Bibliotekarza]\n- Popiół: przy trafieniu nadaje atakującemu 1–3 Podpalenia, a z 40% szansą zyskuje na następną turę zdolność „Przy trafieniu Umiejętnością nadaje 1 Podpalenie” (bez kumulowania)\n- Tęskny Uścisk Dawnych Dni: po wygranym Starciu 20% szans na wywołanie Wybuchu Wstrząsu u celu; szansa rośnie z każdym Starciem z tym samym celem (2% na Starcie, maks. 50%)",
+      "kr_sha256": "ae4051fbbf0c7cf6458c7b157b32c7c03b80c1f5ad2b2e6ea763d2786c7d7c99",
+      "en_sha256": "c44c4b36f768cb429b8534b7f3371f1640776cceea9d9ebab0b27b4f0a3b52a9",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelTwo].name": {
+      "pl": "Poziom Emocji 2",
+      "kr_sha256": "c2757659d242879a58a8e117ba194d8e806edeee2a52997af37f4bd0e82f78dd",
+      "en_sha256": "05fb462a14a30f57d1b80a268262c3c893f0107437f5c87b23cb7ab7bb6d6b73",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelZero].desc": {
+      "pl": "- Maks. stosów: 30\n- Otrzymuje -75% obrażeń od efektów Podpalenia (zaokrąglone w dół)\n- Nie rośnie powyżej 9 stosów, dopóki wszyscy sojusznicy nie osiągną 9 stosów Poziomu Emocji\n- +3 stosy po wygranym Starciu, trafieniu awersem monety i zabiciu wroga\n- +1 stos po przegranej w Starciu, trafieniu rewersem monety i śmierci sojusznika\n- Na koniec tury, jeśli wszyscy sojusznicy mają 9 stosów Poziomu Emocji, zyskuje +1 stos i przechodzi do kolejnego etapu emocji",
+      "kr_sha256": "1bef68cac23cd915ed3349a060ef876bb9f0861c22bfca97a286a19e03dc8b41",
+      "en_sha256": "f5c7a2d35a886421c618fc49b5d829c9a1db117f2e873717983de59093ccf4fc",
+      "origin": "ai"
+    },
+    "dataList[id=EmotionLevelZero].name": {
+      "pl": "Poziom Emocji 0",
+      "kr_sha256": "dcf4a36ff7725e4939284261a011dd58b45e25ee3086b847a83e3526e6ab10ad",
+      "en_sha256": "a076775561a3cc1c7fff7f7fa4d346f4280688a2d5941fbed8425f9517d04bad",
+      "origin": "ai"
+    },
+    "dataList[id=Emulation].desc": {
+      "pl": "Maks. stosów: 30\nZyskuje stosy według następujących warunków:\n- Po wygranym Starciu: +2 stosy; przy trafieniu monetą podstawowej Umiejętności ataku: +1 stos; jeśli po zakończeniu ataku wrog ginie: +3 stosy\n- Po wygranym Starciu podstawową Umiejętnością ataku przez sojusznika (poza tą jednostką): +2 stosy\n · Jeśli podstawową Umiejętnością ataku wygra sojusznik tej samej frakcji (poza tą jednostką): zamiast tego +4 stosy\n\nWedług liczby stosów działają kumulatywnie następujące efekty:\n- Za każdy stos podstawowe Umiejętności ataku zadają +1% obrażeń (maks. 30%)\n- Od 10 stosów: Moc Starcia podstawowych Umiejętności ataku +1\n- Od 20 stosów: Moc Monet podstawowych Umiejętności ataku +1",
+      "kr_sha256": "6870c16a8a6fbca977b9e8a43bf19dfce151898d27e736644662aaaa29ae703c",
+      "en_sha256": "e8bd9d28c6f1a7f417f48831475b970499e6167253822bcac0c239b0a8142130",
+      "origin": "ai"
+    },
+    "dataList[id=Emulation].name": {
+      "pl": "Naśladowanie Przykładu",
+      "kr_sha256": "575bd8793a9553c814fde4eadc8b63020c1ae7159a09e87b70126c5d87e16ab8",
+      "en_sha256": "036e12f4e5da561dbe560206f9ec55776c2160fc877987b61c1b61ff41b1ef4f",
+      "origin": "ai"
+    },
+    "dataList[id=Emulation].summary": {
+      "pl": "Zyskuje stosy pod pewnymi warunkami\nWedług stosów: większe obrażenia, Moc Starcia i Moc Monet",
+      "kr_sha256": "7d3c72ceb2f56d265cbe8482010bde5ace52923581e7e555c88d2e2cb4140fcc",
+      "en_sha256": "3f30d490750e7dcdadb78bb7a852c904a6dfdbe9a1f6ccab3b594275fe226291",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryAshes].desc": {
+      "pl": "Przy trafieniu nadaje atakującemu 1–3 Podpalenia, a z 40% szansą zyskuje na następną turę zdolność „Przy trafieniu Umiejętnością nadaje 1 Podpalenie” (bez kumulowania)",
+      "kr_sha256": "5424dd6ce401662e3c52e3ff94f3ed5eda6b5a85825e988ec85177d99dec4bd9",
+      "en_sha256": "6b7b833d8301a8a77967dca678f4df87148bcf1e38bcce5653b3343015835c33",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryAshes].flavor": {
+      "pl": "“Zwęglone ciało wyobraża rozpadłe nadzieje dziecka, a wiecznie płonący płomień — obsesję pragnącą czułości.”",
+      "kr_sha256": "057ec22dfe7d708672d5370fd6791c386499230982b3ae7dcc927961d16a6fd4",
+      "en_sha256": "cf245415df11a6f6987cbc3a2d60ffd79741aab544a2a388ca42f85876f17fd9",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryAshes].name": {
+      "pl": "Karta Biblioteki - Popiół",
+      "kr_sha256": "2a66db0a932f4b2bf70a2e456059051f880a4f438adab160dcb80b03d5940246",
+      "en_sha256": "3ebe9129c1f21b7f22f3663a578542dda44cddc2dfdd3d330a6d8ea57b67ce8d",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryGluttony].desc": {
+      "pl": "Jeśli cel ataku otrzymał w tej turze obrażenia, przy trafieniu zadaje 1–3 obrażeń dodatkowych i leczy 2–5 HP",
+      "kr_sha256": "34714c4bf2812e00ae01c6d20ca3683e6f4fc376e5d66d1c56c2a2d001d0fac5",
+      "en_sha256": "0ab0e5c613c98b21747548457b74ff4075a61e348cf05aa94d734673e2d3dea3",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryGluttony].flavor": {
+      "pl": "Wróżki były jedynie mięsożernymi potworami, a ich „ochrona” służyła utrzymaniu świeżości mięsa.",
+      "kr_sha256": "385a397201c374523ef7e74e58294135555b58b65b4cfb057f137173d6fcc7ba",
+      "en_sha256": "f51a0ef486fcd3c17e403751f4bf60280f3e48177008f49715ba16296a6db5cd",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryGluttony].name": {
+      "pl": "Karta Biblioteki - Łakomstwo",
+      "kr_sha256": "78b1411f8b98738bda1aebb4fdf038c348bf883c021ca86bdb60c6907edb7db5",
+      "en_sha256": "4e343c8f7ae4d115bfd25cbaa8b9e92acf2e61ea070c267b3b8e3d46bb3ca976",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryNostalgicEmbraceOfTheOldDays].desc": {
+      "pl": "Po wygranym Starciu 20% szans na wywołanie Wybuchu Wstrząsu u celu; szansa rośnie z każdym Starciem z tym samym celem (2% na Starcie, maks. 50%)",
+      "kr_sha256": "ac0bd6dcfdc7c6dd22dc77c53da76f550c8cc2405b58426cc7d69073f6393e32",
+      "en_sha256": "838a27a149236132ecab1da260f53704f66866d7b6494e623cf7722c6be5d081",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryNostalgicEmbraceOfTheOldDays].flavor": {
+      "pl": "Teddy mocno przytulał kogoś. Teddy bardzo lubił przytulanie. Ale coś było w tym dziwnego.",
+      "kr_sha256": "f5145d6d8e68141fbc3c5648250fcd651ad28697fd0422712b8d50b6752b02da",
+      "en_sha256": "d939e706777fa715d81802cb9c8a65379f6b534b9da729faf7e402776c1a72b1",
+      "origin": "ai"
+    },
+    "dataList[id=HistoryNostalgicEmbraceOfTheOldDays].name": {
+      "pl": "Karta Biblioteki - Tęskny Uścisk Dawnych Dni",
+      "kr_sha256": "16713b78715bb9c96fccdc0bfa67c1d1b24f14a80df693e6e9185d1d099ea4f9",
+      "en_sha256": "edfafbfb5d2194d641b7f132716575f45ff9b47068c46d83a5ac900ee9ac2d8e",
+      "origin": "ai"
+    },
+    "dataList[id=LoneFixer].desc": {
+      "pl": "- Moc Końcowa +3\n- Poziom Ataku +3\n- Poziom Obrony +3",
+      "kr_sha256": "20cb2570873c2762aa4edf3171a38f47bdddfe8ebcc5b3a713847a4320ca7f3f",
+      "en_sha256": "61d28ab74e920c79002d469d59251256390096b6c57df0ae8fa9e77f7168da22",
+      "origin": "ai"
+    },
+    "dataList[id=LoneFixer].name": {
+      "pl": "Samotny Fixer",
+      "kr_sha256": "ec698a149e919a48ebc1f79c120db1434398069cc2a6bd38eb85ea08cdf78c71",
+      "en_sha256": "ba94931cee42791eca4020a57a72730eddf6da99060c9de97149ac1238ac55bd",
+      "origin": "ai"
+    },
+    "dataList[id=PatronLibrarianofHistorysPage].desc": {
+      "pl": "- Sloty tej postaci: +1; liczba Umiejętności 1: -1; liczba Umiejętności 3: +1\n- Gdy Umiejętnościami nadaje Podpalenie, Krwawienie, Rozdarcie, Zatonięcie lub Wstrząs, wartość nadania +1 (również szczególne stany)\n- Gdy Umiejętnościami zyskuje Oddech lub Ładowanie (również szczególne ładowanie), wartość +1\n- Umiejętności Przebicia zadają +30% obrażeń przy użyciu\n- Przy trafieniu Umiejętnością zyskuje +1 losowego zasobu E.G.O, którego ma najmniej (2 na Umiejętność)",
+      "kr_sha256": "1e94fe5d590497a3591072b43ff8d550d3f79dfa6ac7f16e45ec127be2cac22b",
+      "en_sha256": "584bc54485fc9a1c24e472907f3c5fe83d73b74db3b92bab397b71594cc26723",
+      "origin": "ai"
+    },
+    "dataList[id=PatronLibrarianofHistorysPage].name": {
+      "pl": "Wyznaczony Bibliotekarz [Piętro Historii]",
+      "kr_sha256": "8ab0c207c27bfe91427c0cd54164266330b2e2e6eada7e4f2d98cdadf02c3977",
+      "en_sha256": "0ebd9b64c986158d07ad987ddc0b8ffe48b937f51ded1f9dba516bd23bad55c1",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipPower].desc": {
+      "pl": "- Po zakończeniu Umiejętności odzyskuje 5 Poczytalności\n- Zadaje +20% obrażeń wrogom z Wstrząsem\n- Na początku tury, jeśli jest oszołomiony, wychodzi z Oszołomienia, a wszystkie jego Odporności są przez tę turę ustalone na 1,5",
+      "kr_sha256": "f7ad0fad9f381b18a3a77689093c382de0b0ff0744dfd79d1ac743befd9086ac",
+      "en_sha256": "11477e5e3cfa734bf71c0c046c748627f3974eb30a32027cd5366f934eb8e6de",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipPower].flavor": {
+      "pl": "‚…dla mnie, który smuci się bardziej niż ktokolwiek inny…’",
+      "kr_sha256": "372b166a68e81b0719a69336da4d38dafd13718ff1cb9058f78fdcef6b244b1d",
+      "en_sha256": "e443a86f84008916aa175a0db41c3b45478f07390c02cfecf85f623a6a491b37",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipPower].name": {
+      "pl": "Droga Powstania w Smutku",
+      "kr_sha256": "de86c4f56fe5d48f4f8fbed51f34019565b860090d667f5176c69d2c3c7762a6",
+      "en_sha256": "719787b1d5b280ceca250c711ee9fdcefcf050cad6b80c3534e6f6849c7e8c83",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipReady].desc": {
+      "pl": "Po {0} turach używa „Płonącego Ciosu”",
+      "kr_sha256": "06788cd473e9affc541189d28f127bcc46f8a9a0bff6b233fa2e2f26dcf2724f",
+      "en_sha256": "a5a969be2c37588afd4cb413fe8145f697720e9c663a80b77e526c82082b7928",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipReady].name": {
+      "pl": "Przygotowanie Płonącego Ciosu",
+      "kr_sha256": "b005925180fe9dd789201026d2b2722d9dd32205ba775fab449967c2383928fb",
+      "en_sha256": "9615f859b30f86ad0e2c4ddcfe58e27a335ad1d63942b578cca2e70a58091407",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipShield].desc": {
+      "pl": "- Przy trafieniu nadaje atakującemu 2 Podpalenia\n- Otrzymuje -5% obrażeń od ataków",
+      "kr_sha256": "7e1f61a923b51ccbefb2164de7d15d30d93414244f83bdf34a60a7d5c7b97921",
+      "en_sha256": "dea3547eb889107c4dea28d1c53fd156d06ca91afbbfe80c29f9b83166ab36cd",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipShield].name": {
+      "pl": "Tarcza z Piór",
+      "kr_sha256": "e0923cede4ff3dba1b1de5f8c84194d951579937cfeb4832b5a5fe2fe801551c",
+      "en_sha256": "40af1e78298d9004902a2b26a2367c7d4eead99fdca1c362553d710d5e8530b7",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipSword].desc": {
+      "pl": "Przy trafieniu nadaje celowi 2 Podpalenia",
+      "kr_sha256": "631ecc1910660bb2a36d181d7a06894033fd0793da4bc97ee539198feebf20c1",
+      "en_sha256": "0d00e00c011eb9844821aba872cd96e5b81df46b891d062ca9748b3fc60f5e15",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipSword].name": {
+      "pl": "Kipiący Miecz",
+      "kr_sha256": "98e6af74e44bb4e65a193a0149dca879354e0501ba5b9c84af48f76d4da67bc3",
+      "en_sha256": "97df7cba2dab046cd90056a5777a3bb74792b44d3a239089f832b1e987c29fcf",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipWax].desc": {
+      "pl": "- Maks. stosów: 5\n- Za każdy stos Maks. Moc Podpalenia +10\n · Gdy efekt maleje lub znika, nadwyżka Mocy Podpalenia znika\n- Za każdy stos otrzymuje +10% obrażeń przy aktywacji Podpalenia\n- Przy aktywacji Podpalenia traci 1 stos",
+      "kr_sha256": "18ae3ef8e28e5848348a6a9aae03df9a03fa3380ce818534296ef6af138453d8",
+      "en_sha256": "0aa96a94fdd1867834f4b7c3ce7688d784a9a26e629ee58530c86f1595d0c8ae",
+      "origin": "ai"
+    },
+    "dataList[id=PhilipWax].name": {
+      "pl": "Emocja Niepewnego Smutku",
+      "kr_sha256": "189750c716da990ea2e3e1b583fe99f535f96ff352d4256ecfe22f0f4a972d53",
+      "en_sha256": "a32abdde02d477ef5aeefcd848fa7b6943e72d874897d41d91542932bd705151",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenBattleFieldKnow].desc": {
+      "pl": "- Maks. stosów: 4\n- Przy uzyskaniu tego efektu zyskuje +2 Licznika Oddechu\n- Na koniec tury zyskuje +(stosy x 2) Licznika Oddechu\n- Według liczby stosów Umiejętności zyskują:\n · Od 1: +(stosy x 2,5)% obrażeń zadanych wrogom\n · Od 2: podczas Starcia Moc Starcia +1 za każde 2 Starcia (maks. 2)\n · Od 3: Moc Monet +1, a ostatnia moneta staje się monetą niezniszczalną\n · Od 4: do końca ataku Odporność celu na Przebicie +0,1",
+      "kr_sha256": "09378c02ee57af0ff4fc53f016c102689dcba56e0badf1e716f37df65da16f89",
+      "en_sha256": "a9414c5857c520f923c9d7d95322516bfd5f10dc7a1e831dce6755ee5d718f97",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenBattleFieldKnow].name": {
+      "pl": "Ocena Pola Walki",
+      "kr_sha256": "4ae65edecf4443ec6964e5289b956999bf36dc4b7fc2b150c1a8adad34826b57",
+      "en_sha256": "dcfd9497fd3fd2c55c8d174870c662ceb5dd6fa282b0a47d235aedf84ab18c1e",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenComboWedge].desc": {
+      "pl": "- Maks. stosów: 30\n- Zużywana przez określone Umiejętności\n- Można zyskać do 20 stosów na turę",
+      "kr_sha256": "d53e8ef251bf62abe8af2f8ce757557f5982d41c5b07980e3423f8cbc799730e",
+      "en_sha256": "5ca5dec5422e88543b98a003159249b04731a72fa762e25fefa1c9791949fa4b",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenComboWedge].name": {
+      "pl": "Przewaga",
+      "kr_sha256": "7f97bba18713f2f12a8fc4e758247e6359366b870cc622ff93428f652fdad0a3",
+      "en_sha256": "438280e0494bdd701fa1533b5c2581845c61b223c9be0311874d334b5aab4ec6",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenHard].desc": {
+      "pl": "- Maks. HP +50%\n- Usuwa pierwszy Próg Oszołomienia\n- Poziom Ataku +3\n- Maks. Mocy Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia: 30\n- Maks. Liczników Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia: 10\n- Otrzymuje -30% obrażeń od Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia",
+      "kr_sha256": "7c52215913375eec825d6fa3712f03c928f7171e93fa74307293e7bd068b065e",
+      "en_sha256": "6fb880d105047e7bb1319fd66c37d9bfcb1c453b9cdff897f5247ce0e2cf6eeb",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenHard].name": {
+      "pl": "Poziom Trudności: Trudny",
+      "kr_sha256": "aeb192829851cf7e728af30c9879385c8e6f3c7386f5a41aced49e83d5e4cabf",
+      "en_sha256": "ad78c067a4b5a5bc85fbed0e34b1452c68632955691057128edae5db2f09de38",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenWedgeMarkGold].desc": {
+      "pl": "- Maks. stosów: 5\n- Na koniec tury zyskuje +1 Licznika Wstrząsu\n- Na początku tury, jeśli na polu nie ma wrogów z „Biura Klina”, efekt znika",
+      "kr_sha256": "90cdd1249dd2448413a503c5244d5c1d5a55c1cbf6dd3f15d674730a5c6327e5",
+      "en_sha256": "5e2cc7ed82b0b48d06f99936b435657989fd3e2506d78e3c9635c8cf3b65aaf9",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenWedgeMarkGold].name": {
+      "pl": "Złote Oznaczenie [Klin]",
+      "kr_sha256": "7e8f69ba7e9b12120865589c1c915837ad859b66eba9499e3db9495749d7331b",
+      "en_sha256": "0e7e1493c5c9c0f6f8db2b1af0c379b8183a4a2f7e3d766c24002e3c20661ad4",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenWedgeMarkSilver].desc": {
+      "pl": "- Maks. stosów: 5\n- Na koniec tury zyskuje +1 Licznika Wstrząsu\n- Na początku tury, jeśli na polu nie ma wrogów z „Biura Klina”, efekt znika",
+      "kr_sha256": "90cdd1249dd2448413a503c5244d5c1d5a55c1cbf6dd3f15d674730a5c6327e5",
+      "en_sha256": "5e2cc7ed82b0b48d06f99936b435657989fd3e2506d78e3c9635c8cf3b65aaf9",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenWedgeMarkSilver].name": {
+      "pl": "Srebrne Oznaczenie [Klin]",
+      "kr_sha256": "20995a1d15d39012d8f7a50d816d82e0d0f34f9e2a7f82a4e553e68cec4f5239",
+      "en_sha256": "c837c5d022d9120fad6095998467c3e6471ae11b82b77f49a00c4882979e5d71",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenWedgeOffice].desc": {
+      "pl": "- Maks. stosów: 3\n- Poziom Ataku +1 za każdy stos\n- Od 3 stosów: na początku tury zyskuje 1 Wzrost Obrażeń Przebicia\n- Na początku tury, jeśli wszyscy inni sojusznicy z „Biurem Klina” nie żyją, efekt znika",
+      "kr_sha256": "3711dbfe9ad32f7f04df374b4708aa963a8280ee800d5b68a11706544af4885a",
+      "en_sha256": "a9623e00e252049f37550209926942d68a5f0affa0f1a9d0830922bcfdbc395c",
+      "origin": "ai"
+    },
+    "dataList[id=WalpuTenWedgeOffice].name": {
+      "pl": "Biuro Klinów",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=WaxWing_LowMorale].desc": {
+      "pl": "- Spadek Moralu\n- Zyskuje 1 Wrażliwość\n- Zadaje +10% obrażeń wrogom z Podpaleniem",
+      "kr_sha256": "133a346602afb945912a58cf5a32da39f458e1197df336fc554957362e1f7c77",
+      "en_sha256": "c05d55997bfa79ef207700a513fdea8ed382941c9992bdb025a807c33eb30522",
+      "origin": "ai"
+    },
+    "dataList[id=WaxWing_LowMorale].name": {
+      "pl": "Woskowe Skrzydło",
+      "kr_sha256": "d6c2db2444c45bcf8f1566ad79a4e63b9dbb796f712a2af6c325343f099320be",
+      "en_sha256": "639c80040a71c80d1d9694591df0ef4f3dc586f68845ca19268a75b8dc33ecf6",
+      "origin": "ai"
+    },
+    "dataList[id=WaxWing_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 1 Wrażliwość\n- Zadaje +25% obrażeń wrogom z Podpaleniem",
+      "kr_sha256": "904aa4d48af3b7e98e9215ecb0ec38312baf6efbb7e022e71594ce3ffe945ca0",
+      "en_sha256": "8a1414d1769d637e58bcbfa55bf461d965c82e6a3afbd5d1ab95021b87e0e43d",
+      "origin": "ai"
+    },
+    "dataList[id=WaxWing_Panic].name": {
+      "pl": "Woskowe Skrzydło",
+      "kr_sha256": "d6c2db2444c45bcf8f1566ad79a4e63b9dbb796f712a2af6c325343f099320be",
+      "en_sha256": "639c80040a71c80d1d9694591df0ef4f3dc586f68845ca19268a75b8dc33ecf6",
+      "origin": "ai"
+    },
+    "dataList[id=WedgeOffice_LowMorale].desc": {
+      "pl": "- Spadek Moralu\n- Zadaje -5% obrażeń krytycznych\n- +5% do Progu Oszołomienia podnoszonego wrogom z Wstrząsem",
+      "kr_sha256": "19e8899b3788bbf1eb764609ba9386456810a04511eac996ec7053211925f02f",
+      "en_sha256": "94031365c540885876729bc5599c49ee5c5251d79efa810e31de64b3c4fdc2be",
+      "origin": "ai"
+    },
+    "dataList[id=WedgeOffice_LowMorale].name": {
+      "pl": "Biuro Klinów",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    },
+    "dataList[id=WedgeOffice_Panic].desc": {
+      "pl": "- Panika\n- Zadaje -10% obrażeń krytycznych\n- +10% do Progu Oszołomienia podnoszonego wrogom z Wstrząsem",
+      "kr_sha256": "9f109307f803eb81bcbee7b8d00b30cdede705d9d1b696344ccee7ee79e23c6a",
+      "en_sha256": "92ae21d5fcc3ca2bbc866dd2661eabcebe12c247b9415d4259a2c141488b427e",
+      "origin": "ai"
+    },
+    "dataList[id=WedgeOffice_Panic].name": {
+      "pl": "Biuro Klinów",
+      "kr_sha256": "07fc5ca9213d2e2c13ff45beea36fee30ec827b8998babe72d21b0dabf3e8cbf",
+      "en_sha256": "05ddbe5003ced79da2bef677a8ff8d2cbd72ae0e7312cba075e71fbc448343a7",
+      "origin": "ai"
+    }
+  }
+}

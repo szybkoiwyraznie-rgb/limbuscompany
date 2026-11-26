@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=DeliciousSauce].desc": {
+      "pl": "- Moc Starcia +2",
+      "kr_sha256": "003d2e7182449b167905d081129695bcfadd2ddb6993b3684e15cc4c51defcd5",
+      "en_sha256": "d47fe7e3be3ea03f8df93558e1e62ef416110a3e76d5a5e4f8dff4384bfb05b8",
+      "origin": "ai"
+    },
+    "dataList[id=DeliciousSauce].name": {
+      "pl": "Złoty Sekretny Sos",
+      "kr_sha256": "86e68bf49959ccefa0f328f8e128d9f76e1ed2d4211c00305213a91e56d0004c",
+      "en_sha256": "be37e1907e474e48ebbe5049c1aaf82cdc21d65ddeed2b463d82ba1ec7c03303",
+      "origin": "ai"
+    },
+    "dataList[id=LeakedOutSauce].desc": {
+      "pl": "- Na koniec tury: 1 Pośpiech w następnej turze za każde 2 stosy (maks. 10)\n- Znika na koniec tury",
+      "kr_sha256": "2abc73795857d410b0cc51b7762596f5212b9ca127c4983723444382a016f3fc",
+      "en_sha256": "3d77137f3d16104e9f9f092852d2f7403ce8dc2839b7ae0c533dc3a61a0f241e",
+      "origin": "ai"
+    },
+    "dataList[id=LeakedOutSauce].name": {
+      "pl": "Wyciekająca Marynata",
+      "kr_sha256": "efee5468fcd39c753b4571436c4fa2221d6fe7a36b7bd77f0c673795ac0aac02",
+      "en_sha256": "8c160940670273a4527cd84af086619ba23b34a39b52d1c1b65eda333e54a31b",
+      "origin": "ai"
+    },
+    "dataList[id=Yummy_Lowmorale].desc": {
+      "pl": "- Spadek Moralu\n- Na początku tury zyskuje 1 Wrażliwość",
+      "kr_sha256": "2fda251ebe7235669486d4c434b806e535444a815558574289914e6d3bb70002",
+      "en_sha256": "ce05312efebdc19e0dda465ae7a4ee8266f5e4c4ad0734e0e352742ab35c77eb",
+      "origin": "ai"
+    },
+    "dataList[id=Yummy_Lowmorale].name": {
+      "pl": "Coraz Smaczniejsze",
+      "kr_sha256": "52e23d83c4bf1fe383cff25a4a6b2529430f874c41f5a65fce37c347f91406e7",
+      "en_sha256": "3cd9b04cc8e7e0c466468eefbbe80d061ebed6f4cc4c407493d9c0465e196777",
+      "origin": "ai"
+    },
+    "dataList[id=Yummy_Lowmorale].summary": {
+      "pl": "Zyskuje Wrażliwość",
+      "kr_sha256": "f9c5e99d7c3ccb533efac19dfef848b9792af1cdfbe26a69ab12a04acd7b3cd4",
+      "en_sha256": "0196581dac4dddc6a311f649a7d995d0eaac31dd563e7e3adf8da549a8a97c5c",
+      "origin": "ai"
+    },
+    "dataList[id=Yummy_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wrażliwości",
+      "kr_sha256": "a78f34816866c2ea3bc5d380a6bce19a50a6e73f3618c18dc77e5c23008f6eff",
+      "en_sha256": "8f1e4afcf9f214cf3b691e4b6a23d7d3ac8d6f3810156fbc334e9aae00ce28c8",
+      "origin": "ai"
+    },
+    "dataList[id=Yummy_Panic].name": {
+      "pl": "Coraz Smaczniejsze",
+      "kr_sha256": "52e23d83c4bf1fe383cff25a4a6b2529430f874c41f5a65fce37c347f91406e7",
+      "en_sha256": "3cd9b04cc8e7e0c466468eefbbe80d061ebed6f4cc4c407493d9c0465e196777",
+      "origin": "ai"
+    },
+    "dataList[id=Yummy_Panic].summary": {
+      "pl": "Zyskuje Wrażliwość",
+      "kr_sha256": "f9c5e99d7c3ccb533efac19dfef848b9792af1cdfbe26a69ab12a04acd7b3cd4",
+      "en_sha256": "0196581dac4dddc6a311f649a7d995d0eaac31dd563e7e3adf8da549a8a97c5c",
+      "origin": "ai"
+    }
+  }
+}

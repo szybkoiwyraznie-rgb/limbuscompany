@@ -1,0 +1,1288 @@
+{
+  "entries": {
+    "dataList[id=Agility].desc": {
+      "pl": "W tej turze Szybkość +{0}",
+      "kr_sha256": "452c0f93cb79c469aae7df9d69d0b1e1b01b189689b895d291ea1766d7823c63",
+      "en_sha256": "2b3454c92097962a298baadad99b4e0ee52abcc4e3e4d4979dee0b292be48bbf",
+      "origin": "ai"
+    },
+    "dataList[id=Agility].name": {
+      "pl": "Pośpiech",
+      "kr_sha256": "31f02f124ad510e23c82aa40fe450c9d19b3e15f0c45f980f20b223a73ed8cb4",
+      "en_sha256": "de3b46da4da8a98c381a34e6ef1326411f01962e4bb094b007055b41e1d37ce4",
+      "origin": "ai"
+    },
+    "dataList[id=Agility].summary": {
+      "pl": "Szybkość +{0}",
+      "kr_sha256": "78b6d5a45004645521a7a31f41395b10f7672fd3588075b238a1b98f82bec962",
+      "en_sha256": "37d1013054f35e46ab9b4af6ef3caceb6c545c67c7b95e183995accf80cd4c79",
+      "origin": "ai"
+    },
+    "dataList[id=AmberResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Lenistwo o {0:F1}",
+      "kr_sha256": "573d763cc276ea283cee1470c5518aa3d0a738e517847990edbd4fbedeed7c79",
+      "en_sha256": "4a4753f940b5564f3c5010e389091e92eef37cd50e97823dfb59c1bc3dba6751",
+      "origin": "ai"
+    },
+    "dataList[id=AmberResistDown].name": {
+      "pl": "Osłabienie Odporności na Lenistwo",
+      "kr_sha256": "5ee6e0609fc3b632679009353428699b14187d89077e8769f711bc3fc12dd162",
+      "en_sha256": "fe881cc47f53b62d1bc019ec23879ba7bc98df0dddbe4d8ca9985d6b32ec1075",
+      "origin": "ai"
+    },
+    "dataList[id=Anger_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początek tury zyskuje 1 Wzrost Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "05f20691366ba0478eb20d752ae2f799d5e117ae88137bd85d8308ba506986c6",
+      "en_sha256": "50427197d74e11354d3fee37735f7bb58d2c083a76533bb4ffc31dbf591e0d23",
+      "origin": "ai"
+    },
+    "dataList[id=Anger_LowMorale].name": {
+      "pl": "Pobudzenie",
+      "kr_sha256": "5de4a9dcca5478a528d3a1d71d96812077638bf4dabe14be1df9a9309f18b872",
+      "en_sha256": "04d80528b8d91a4b027fdbf035633430b43446619389f84562e33476b6b3a0bf",
+      "origin": "ai"
+    },
+    "dataList[id=Anger_LowMorale].summary": {
+      "pl": "Zyskuje 1 Wzrost Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "ceff731a0eb3fe0d2fff3a97eadf3a7e217f1c8d3c90039f7214c1d41b572c26",
+      "en_sha256": "080524e4e83316ce9bece2d8587bdc9e1fdaeb42716775bc02fe8592e6f06b5d",
+      "origin": "ai"
+    },
+    "dataList[id=Anger_Panic].desc": {
+      "pl": "- Panika\n- Na początek tury zyskuje 2 Wzrosty Obrażeń i 5 Wrażliwości",
+      "kr_sha256": "b8b47a3b717f2f491448d63f9311f1f5bc4c35b51abd4d3fd039b3af049e58b4",
+      "en_sha256": "50815a8c981195a7cd4045923597abbffacc6846365dc1f9021f3bf419767021",
+      "origin": "ai"
+    },
+    "dataList[id=Anger_Panic].name": {
+      "pl": "Pobudzenie",
+      "kr_sha256": "5de4a9dcca5478a528d3a1d71d96812077638bf4dabe14be1df9a9309f18b872",
+      "en_sha256": "04d80528b8d91a4b027fdbf035633430b43446619389f84562e33476b6b3a0bf",
+      "origin": "ai"
+    },
+    "dataList[id=Anger_Panic].summary": {
+      "pl": "Zyskuje 2 Wzrosty Obrażeń i 5 Wrażliwości",
+      "kr_sha256": "1212753622f1e4f74c829bc72b5be7a8cf5a7d488e14e630321798409b063ad3",
+      "en_sha256": "3b33cede9292e78e02f5753a878fac101c0985e9098d8cb90b2e5e3c9856ab40",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgDown].desc": {
+      "pl": "Zadaje -{0}0% obrażeń Umiejętnościami w tej turze (maks. 100%)",
+      "kr_sha256": "45ef2f8615d58a5b47bb1e78f2c7fb8541df91873f3416c3aa07481be6df6de5",
+      "en_sha256": "723e85b0cbddbb7206a76e80e5760d9ad8bcef64eb07dec5ecfa57e7f7a088fc",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgDown].name": {
+      "pl": "Spadek Obrażeń",
+      "kr_sha256": "54e54da58088c286acdfb22d56240fef9d2e6eb24ab2cc456acdf5a4d495573e",
+      "en_sha256": "2e56f2a53c465419c6bff7acf6b08098bb2da3742aaed3cf770477d8185cae12",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgDown].summary": {
+      "pl": "Zadawane Obrażenia -{0}0%",
+      "kr_sha256": "2a4441391d9c4ce1d9e41255ab9403ccf5917ac879a40acc06d4644ba4c8e6e4",
+      "en_sha256": "e0403fc97872301783ab33b05b82d5de1db66b9000c9f431153ae372bfb60a4e",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgUp].desc": {
+      "pl": "Zadaje +{0}0% obrażeń Umiejętnościami w tej turze (maks. 100%)",
+      "kr_sha256": "a1aeed8575d8a572357a4ee83f0c083daf07390c6a5abdc1cd1cec7375a3368a",
+      "en_sha256": "908bf7880717197fa7424251e43a6ab8bae83068914039307895f2df971f516c",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgUp].name": {
+      "pl": "Wzrost Obrażeń",
+      "kr_sha256": "d4ec77ede181a2fd74baa455d2efa19d020faf292083212465668e04884e5ad5",
+      "en_sha256": "85f9238b8a5a67039b85afdd988ae95be6811750e2e16c1d77e5075bb6be364d",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDmgUp].summary": {
+      "pl": "Zadawane Obrażenia +{0}0%",
+      "kr_sha256": "92394f4fc45eab2b3bd7d2faa35f2b1fdacb5144dbefd8df10cec6c2849b27bd",
+      "en_sha256": "e0fca55a4c3839f57eb6fdc1c1cdbe48c75ac5e6f9283b41b304bd36b712c0a3",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDown].desc": {
+      "pl": "W tej turze Poziom Ataku -{0}",
+      "kr_sha256": "7889e574909e5824d469b460255c8a7ff20bc13cb0426624b5b42cacea828f6b",
+      "en_sha256": "d16e1eea16573145cc0d0ed0e5e7d1c47aa746dbb7b75dcafec95564be31cb74",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDown].name": {
+      "pl": "Spadek Poziomu Ataku",
+      "kr_sha256": "a88cf40c65c03ac0d7b78f0522b2a4e8fa8361b3dc85f4ff54c7ca0129cd0c2d",
+      "en_sha256": "1c45b0072dfd6dfcd3268295d547fb3847af43d83fe4a68d6290c9b8e54d4521",
+      "origin": "ai"
+    },
+    "dataList[id=AttackDown].summary": {
+      "pl": "Poziom Ataku -{0}",
+      "kr_sha256": "3c9f73d512053e8607b4d7d30f31f174b6a1819bbeaf234579d1d6037ea9acd8",
+      "en_sha256": "0b1ba4a3220e2305ca3f9a573c1e9caaa5e35b5897f18baa07475641437b7c27",
+      "origin": "ai"
+    },
+    "dataList[id=AttackUp].desc": {
+      "pl": "W tej turze Poziom Ataku +{0}",
+      "kr_sha256": "76fcf60bb37a6963c4cfc06d58e9911bd09ced4cf85f5ac624d69c37eed9667a",
+      "en_sha256": "c1d076e9e760e4ed0a30ac24ee36d99badc77fde1d2830648dd35683875909d4",
+      "origin": "ai"
+    },
+    "dataList[id=AttackUp].name": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "c81a6f5dd960f96547a32a93f447818b319837a534e35bdbb1f64b92d93f35b3",
+      "en_sha256": "61ed21ddbbc9679931e3787a23116cb9a45732aee54d65f760b473e9a578e00b",
+      "origin": "ai"
+    },
+    "dataList[id=AttackUp].summary": {
+      "pl": "Poziom Ataku +{0}",
+      "kr_sha256": "438c9f0bd731737fb8646d1b9d25fb253e2b8f4de5424f46cbe4142c7c66c9bf",
+      "en_sha256": "2c8db0e370ef51f5eaa7b2ac4a3c9351124de662da8b36361a958fa16841d3e1",
+      "origin": "ai"
+    },
+    "dataList[id=AzureResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Posępność o {0:F1}",
+      "kr_sha256": "fcbbcd8ab6595bbbb26b03c9e0a0e3aac5202333513a33282a223a0a91572cad",
+      "en_sha256": "50c8b638d0d5ccdfec8d3c8d4bcdd6ebfa006cbb1dbddc11e4aa951d730f3dbe",
+      "origin": "ai"
+    },
+    "dataList[id=AzureResistDown].name": {
+      "pl": "Osłabienie Odporności na Posępność",
+      "kr_sha256": "420098dcf77fd60423d4aa526ff41e7e99032c01c27137aadbf8b7658b6fc6b7",
+      "en_sha256": "236507e3b03bae74326de82542b777b706dfb0b5c3bf4cdee6d99da0905d466d",
+      "origin": "ai"
+    },
+    "dataList[id=BabayagaTimeLimit].desc": {
+      "pl": "Baba Jaga się do ciebie zbliża. Jeśli nie uciekniesz, czeka cię śmierć.",
+      "kr_sha256": "cbceef25664415fb2e9d93b15a906ca4cdb409815e45fb15688c1502d120e137",
+      "en_sha256": "0042061584a94e3f304515c807b2d9b2ac317b5a940339026064aeb802ee720e",
+      "origin": "ai"
+    },
+    "dataList[id=BabayagaTimeLimit].name": {
+      "pl": "Nadchodząca Baba Jaga",
+      "kr_sha256": "d3a113313ea4df94cee211b7a649789d014b56d5690d00d22887431319885794",
+      "en_sha256": "9efbe95f49684455357aadb397e832466c4921388a64c8590f4593be6c73e81a",
+      "origin": "ai"
+    },
+    "dataList[id=BabayagaTimeLimit].summary": {
+      "pl": "Nadchodzi Baba Jaga",
+      "kr_sha256": "e6461f9c575cff27fc6f56ccae9b5a61a2407f475face830f5935a8956726c8d",
+      "en_sha256": "1746e52e14854305e905cbe82f0b062f3d72d4f9e17f949bdc705bd13b2d6061",
+      "origin": "ai"
+    },
+    "dataList[id=BeingGolden].desc": {
+      "pl": "Na początku tury leczy 10 HP za każdą wartość",
+      "kr_sha256": "82e16d7787a6006f85a3aed09cabced0cb3ffc1acfeb41d4281070e50ba3041e",
+      "en_sha256": "fb930b5f7a5aeea10d72c43843f80810ba6d2da331b42a28dfcbcda52c110747",
+      "origin": "ai"
+    },
+    "dataList[id=BeingGolden].name": {
+      "pl": "Złoty Blask",
+      "kr_sha256": "64f75c47d388a0d2a0b21919de45a61d9aab5c0ac2b38bf8ae3f30ded993f3ae",
+      "en_sha256": "c8f386fef2c536872e9838342ec1aaa346796541dcf2bf0a27b008da4c1e5a15",
+      "origin": "ai"
+    },
+    "dataList[id=BeingGolden].summary": {
+      "pl": "Odzyskiwanie HP",
+      "kr_sha256": "97bffd4ac2751f97188b092b8c96060844f8b739e0200e26bce545612cc11f95",
+      "en_sha256": "674c3116e97fe54a2893c0a87112839bc435bb51912ba106c10e77ba51c257fa",
+      "origin": "ai"
+    },
+    "dataList[id=Binding].desc": {
+      "pl": "W tej turze Szybkość -{0}",
+      "kr_sha256": "24194d4b46a14c6f99aaf75cb0c9af849f8e67512d2ad78e4150c89a23cae33b",
+      "en_sha256": "0067ae5e224107d9d2eb269258ddbdf68ed4def96f2a8a695ea6b19252103247",
+      "origin": "ai"
+    },
+    "dataList[id=Binding].name": {
+      "pl": "Spętanie",
+      "kr_sha256": "add384b2a3bec66406415188d5381da4f38da34bb6c3a20a044dda790f91ec62",
+      "en_sha256": "56b9b63d2831804be5c23a83d6d2e4e19c3124f546890b0628e839c9806c0e00",
+      "origin": "ai"
+    },
+    "dataList[id=Binding].summary": {
+      "pl": "Szybkość -{0}",
+      "kr_sha256": "f9bd45c2d693791e90fbdf822e919ee2fffac5fca42c303beaab35b12e73ccc3",
+      "en_sha256": "71e7fb4e4d6c931fb9bcf7a0414b67d488f35c1661f7a1db221199cd1673134c",
+      "origin": "ai"
+    },
+    "dataList[id=Blame_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początek tury zyskuje 2 Wzrosty Mocy Ataku i 2 Wrażliwości",
+      "kr_sha256": "f00600acdaf5e852eeb9bb2e1f03b013368565b3423c812f191adb8e25f5b88d",
+      "en_sha256": "9870c48713f2be7082c8dc7d4a5f1008b13c1ac261074b6a6d51dbd749ad54e7",
+      "origin": "ai"
+    },
+    "dataList[id=Blame_LowMorale].name": {
+      "pl": "Pogarda",
+      "kr_sha256": "958c4d374dd6fbdfbcafde5314c957be999147c6e37f534953cd6655cc6a44ab",
+      "en_sha256": "0c675161f4ae389170c5f5f2d218684540bdc72f802d392e0b7c0658ee670bb8",
+      "origin": "ai"
+    },
+    "dataList[id=Blame_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury losowy sojusznik traci 20 Poczytalności",
+      "kr_sha256": "29e162219b0bf2b6f07b89ee8f2ae48e213cf435b35417d31147cbce9d0d1d14",
+      "en_sha256": "44b01f2b022c5d7469f2a8b4695052a725777930ef0b95f77f0a009498f59cc3",
+      "origin": "ai"
+    },
+    "dataList[id=Blame_Panic].name": {
+      "pl": "Pogarda",
+      "kr_sha256": "958c4d374dd6fbdfbcafde5314c957be999147c6e37f534953cd6655cc6a44ab",
+      "en_sha256": "0c675161f4ae389170c5f5f2d218684540bdc72f802d392e0b7c0658ee670bb8",
+      "origin": "ai"
+    },
+    "dataList[id=BloodPocket].desc": {
+      "pl": "Używa potężnego ataku przy określonej wartości",
+      "kr_sha256": "0623b043829ed5f07261c677037e96cfd247b96889aa034d60c595bc6fcadbef",
+      "en_sha256": "11e76b5e8ccb781bad6f534b6ae30f0d6127e8d86cd10bba1b5d94f8f0db5ae1",
+      "origin": "ai"
+    },
+    "dataList[id=BloodPocket].name": {
+      "pl": "Sakiewka Krwi",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "1b1ed9a6bdd8fa3dcbc36493d7b51de8b707983c722984a33bf780d7e9118831",
+      "origin": "ai"
+    },
+    "dataList[id=BloodPocket].summary": {
+      "pl": "Przygotowuje potężny atak",
+      "kr_sha256": "a984049076f10e62ff87c0f176c0c17fd8347ecc90e668608d1fdb909fa9220a",
+      "en_sha256": "de6fdce813d1b300c658c1d40deed702795e60e6104833621da6fd27a375488d",
+      "origin": "ai"
+    },
+    "dataList[id=Breath].desc": {
+      "pl": "Przez następne {1} trafienia szansa trafienia krytycznego rośnie o {0}x5%",
+      "kr_sha256": "2227f3c828a1c974fced0f75a98e1ee2c8a478ac2975116fe237693ddffdbdd4",
+      "en_sha256": "e1e0d8fcfe991ba14bf1eef9dae3d17d4559d145ee4b9ba11cf52305b80f31dd",
+      "origin": "ai"
+    },
+    "dataList[id=Breath].name": {
+      "pl": "Oddech",
+      "kr_sha256": "83280f9bff4f4d7cb701f08d15a22fcd2de7b593bff3463fe584ce8bb77bfaa1",
+      "en_sha256": "87deb420627715ca6161f6dac27749ae29571c727317ae7f1b229ee64f995a28",
+      "origin": "ai"
+    },
+    "dataList[id=Breath].summary": {
+      "pl": "Szansa trafienia krytycznego {0}x5%",
+      "kr_sha256": "49a05b80493eed1573ae1ba74a8eaadcd2ea3b86553465962ce1c7836684dd0d",
+      "en_sha256": "978791134386fe6701f53e8a1581b74185917681a17de9ecb95b42405fc38559",
+      "origin": "ai"
+    },
+    "dataList[id=Burst].desc": {
+      "pl": "Przez następne {1} trafienia otrzymuje obrażenia stałe w wysokości {0}",
+      "kr_sha256": "5aa2852f5fc0a755dca905c80c0a8053cde26d8de778be1ace2f4cbe0069ccfe",
+      "en_sha256": "1514156169b588242ed3cca258d3c7984a90277b75001467bd6ffe6da1b1f7a4",
+      "origin": "ai"
+    },
+    "dataList[id=Burst].name": {
+      "pl": "Rozdarcie",
+      "kr_sha256": "ac357921c019ff11e7b60482d18a11b05ab4d836cff3ffb869e35519d3dbc388",
+      "en_sha256": "45ab2e3f28dc2a998a91a20f134145ba90d81ff41568475d64ead25238e24d00",
+      "origin": "ai"
+    },
+    "dataList[id=Burst].summary": {
+      "pl": "Obrażenia stałe -{0}",
+      "kr_sha256": "9102232abeb4de233be07745a391286f8a9b84aada24f6867e67bdd3073511bc",
+      "en_sha256": "14e26394b6514c4967b9e9d44a3ce2da6beb4dbf3d1ed10eaa019ba19627c401",
+      "origin": "ai"
+    },
+    "dataList[id=Charge].desc": {
+      "pl": "Zużywane przez określone Umiejętności dla efektów dodatkowych. Licznik może osiągnąć 20. Na koniec każdej tury Licznik maleje o 1.\n\n<color=#1aece7>Skumulowane zużycie Licznika: {2}</color>",
+      "kr_sha256": "3e7709a2154bf8e3b6d307c8baaa950e3196ba09f8d705a7fa018121f6ca20f5",
+      "en_sha256": "90acee0ecf6109770e3136b0f3d9bd34e27820cb78b1a907de6a833aa9bdfd8b",
+      "origin": "ai"
+    },
+    "dataList[id=Charge].name": {
+      "pl": "Ładowanie",
+      "kr_sha256": "01de6fca3ec9d54ab901f983b4c115125301648cb571f70cfe5074dde2b26b86",
+      "en_sha256": "ff9f88ce353a222860a9f826971a2b2ee3da6b06c696d67537285890506d4bda",
+      "origin": "ai"
+    },
+    "dataList[id=Charge].summary": {
+      "pl": "Zyskiwany lub zużywany przy użyciu określonych Umiejętności",
+      "kr_sha256": "79b78a46c17c815359e2c0432e8f3a14bc6f0f51ea6eddf597a75cd742f3a40a",
+      "en_sha256": "376f791ac99ea5d88e0f6b0aca2224b26bb0c8b38ed1a677081bc0863e699cb1",
+      "origin": "ai"
+    },
+    "dataList[id=Combustion].desc": {
+      "pl": "Przez {1} tur na koniec tury otrzymuje obrażenia stałe w wysokości {0}",
+      "kr_sha256": "9497bd67a75c7c5a23648ab088b1af8f16a85d4196914d4ffb2f0f63c8c25de3",
+      "en_sha256": "ea387ffabe75c51bacab41aab9adb85c5aca0053add2704a6b37a29a645060b1",
+      "origin": "ai"
+    },
+    "dataList[id=Combustion].name": {
+      "pl": "Podpalenie",
+      "kr_sha256": "447e879f7338c52cbc36bc8d47299a77648c96ab56e3168542b9a9044db1a2fd",
+      "en_sha256": "926c5b4314047434601585221956407b3818b5f1cda70febda6e25d04f204e4c",
+      "origin": "ai"
+    },
+    "dataList[id=Combustion].summary": {
+      "pl": "Obrażenia stałe -{0}",
+      "kr_sha256": "9102232abeb4de233be07745a391286f8a9b84aada24f6867e67bdd3073511bc",
+      "en_sha256": "14e26394b6514c4967b9e9d44a3ce2da6beb4dbf3d1ed10eaa019ba19627c401",
+      "origin": "ai"
+    },
+    "dataList[id=CrimsonResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Gniew o {0:F1}",
+      "kr_sha256": "095a87f12561cf4242e2bfddabcf0a4cdb55b0a2019d3492071291bdafb51226",
+      "en_sha256": "6512b506613c6ccb74d1c31df74b2127f689f869016c59ef48b883e78508e262",
+      "origin": "ai"
+    },
+    "dataList[id=CrimsonResistDown].name": {
+      "pl": "Osłabienie Odporności na Gniew",
+      "kr_sha256": "1fc529f529c3a770a73eaa5bdf46149bcb7ce0ae2ee47d62ebfd80baf45a3fdc",
+      "en_sha256": "a6a4af5fa810deb77a6918d75e889ea2cf1b29af038b956eefda77e489d93aca",
+      "origin": "ai"
+    },
+    "dataList[id=DamageOverTime].desc": {
+      "pl": "Na początek tury otrzymuje obrażenia stałe w wysokości {0}",
+      "kr_sha256": "bbf66f45a584d6d6f877f3bfded7ea336b1c186aa0a8a257756b665f1a89e157",
+      "en_sha256": "b39c5835fcf2678bd5b1ae92fbe6d72d85cf561f9dfbd3a1d9306d9aa81a8059",
+      "origin": "ai"
+    },
+    "dataList[id=DamageOverTime].name": {
+      "pl": "Obrażenia Ciągłe",
+      "kr_sha256": "683f32f5a4027972699ceca8eff2e2301c62e41295459c3724d6a3b168cae53b",
+      "en_sha256": "57d711b8ed9fac73a67c742aeabac7bf8fa681240aa65fc05e956a5f21f0d814",
+      "origin": "ai"
+    },
+    "dataList[id=DamageOverTime].summary": {
+      "pl": "Obrażenia stałe -{0}",
+      "kr_sha256": "9102232abeb4de233be07745a391286f8a9b84aada24f6867e67bdd3073511bc",
+      "en_sha256": "14e26394b6514c4967b9e9d44a3ce2da6beb4dbf3d1ed10eaa019ba19627c401",
+      "origin": "ai"
+    },
+    "dataList[id=Daunted_LowMorale].desc": {
+      "pl": "Na początek tury zyskuje 2 Spadki Mocy Ataku",
+      "kr_sha256": "4b609c9dbb6a3a8a4a6e8f883286fbc1889722a020333b1329e20f759529d4d4",
+      "en_sha256": "05b1a029248aaad6e5f95090a94bb41ad1579dbacf5888eaeba147aa0f0376c5",
+      "origin": "ai"
+    },
+    "dataList[id=Daunted_LowMorale].name": {
+      "pl": "Osłabnięcie (Niskie Morale)",
+      "kr_sha256": "1d0c47eae70f08f47089be78c1da0bc269dec33f8bf6d035cfbb17ae66d4ea6b",
+      "en_sha256": "f3d6e4d2a1521fcbe435d92a7756e28ee8f34cdf14ac96105118e6cae935b133",
+      "origin": "ai"
+    },
+    "dataList[id=Daunted_LowMorale].summary": {
+      "pl": "Zyskuje 2 Spadki Mocy Ataku",
+      "kr_sha256": "05ecd01e55b3a3a178c1379602776fea0f2b17ff354b06eefcf5f4a0b6ec4429",
+      "en_sha256": "6f547335df70f9d835873ae5b11c5bfab24d868eb324b64ba2a59a02c2b4f3e7",
+      "origin": "ai"
+    },
+    "dataList[id=Daunted_Panic].desc": {
+      "pl": "- Panika\n- Na początek tury zyskuje 4 Spadki Mocy Ataku",
+      "kr_sha256": "0010fb3ae5f8d29df0d7c9a44ec2f39b0b296ec0b62b389e0294f03e153c09ef",
+      "en_sha256": "b9c5162d9e4576a24b1cf305d3b64e539f66edf273839325aa30c8b26a9559ec",
+      "origin": "ai"
+    },
+    "dataList[id=Daunted_Panic].name": {
+      "pl": "Osłabnięcie",
+      "kr_sha256": "224d0b9fb5b5e50c0986160bed8302e30d9ed78af1e3ba55d587f3fd6c2130e3",
+      "en_sha256": "d94bb9734c82d3b763fbe584c5d1f87ea6d7269d935b39e7475ee11269b9ad79",
+      "origin": "ai"
+    },
+    "dataList[id=Daunted_Panic].summary": {
+      "pl": "Zyskuje 4 Spadki Mocy Ataku",
+      "kr_sha256": "0e447aae784ad9e6a861a0a73987fd7baede00f6deddc2b1b67dc7aacab39310",
+      "en_sha256": "c2bca954a39312bff503d72651e41b3279bf7107bc7b197155c7293c278fb691",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseDown].desc": {
+      "pl": "W tej turze Poziom Obrony -{0}",
+      "kr_sha256": "2cbd9df85e395bb1ed4926656d83c6b0453005b30424adfb5a69b418950c5b24",
+      "en_sha256": "619f3b982b1ccca3080114b2cc965b78a9383767cce061acaaea94cb127e3885",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseDown].name": {
+      "pl": "Spadek Poziomu Obrony",
+      "kr_sha256": "f8a5a29ef2e4e91d788f85f9aacddd5e1f3a91587ac157dd37294e798f5ec666",
+      "en_sha256": "f52f1df6247543230b74d8780b6cb96b6afae6e78baa3267de5631fd95ebfca4",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseDown].summary": {
+      "pl": "Poziom Obrony -{0}",
+      "kr_sha256": "6f59f6f2fb3dda03136399e5cdf00b6d4f76a1c60eead53e4a0aec009a4bd891",
+      "en_sha256": "1f15976c5c92e5a977ccd2a5cfdabd59ea88c9df27b01edfd4680621149552e2",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseUp].desc": {
+      "pl": "W tej turze Poziom Obrony +{0}",
+      "kr_sha256": "78eb90e84e6c0767962b165d555cd3b806289ddf521d96adf747830bd31e1f5a",
+      "en_sha256": "e667066c2ab22284b5dfcdc5a375aed47c6f566315ffcb4dea2cc217dd745c7b",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseUp].name": {
+      "pl": "Wzrost Poziomu Obrony",
+      "kr_sha256": "e69200ac7917564ee644b35cf8f5ed334d7e4872ebf647fc3d71ddee7d97d900",
+      "en_sha256": "1f1fec7e0e92c989a82fbf0098fc317bf2677eaba6ae0af7708f57f7ac3e0b49",
+      "origin": "ai"
+    },
+    "dataList[id=DefenseUp].summary": {
+      "pl": "Poziom Obrony +{0}",
+      "kr_sha256": "f86b4594d760ba10e3e694b51ba5a61f6fda29b3afb611933d45de21b0aa770a",
+      "en_sha256": "5a1f8e6445d69a08feb4a5c5ec03b252609b6c3d584d7e64c2a6051a309af83c",
+      "origin": "ai"
+    },
+    "dataList[id=Disarming].desc": {
+      "pl": "W tej turze Moc Końcowa Umiejętności obrony -{0}",
+      "kr_sha256": "1f4e7acebc071913b3f603d5c26ee4a96d15c0d36dbd355fce1ce38e0c2c87b6",
+      "en_sha256": "57632052295cfe44557b294cfe15adcb8bfc4710c46db129066e12cf92a1fbe2",
+      "origin": "ai"
+    },
+    "dataList[id=Disarming].name": {
+      "pl": "Spadek Mocy Obrony",
+      "kr_sha256": "2450ad0ff9cba171d62fe757e39f23e604bb6ba111c96221f48136b2506c06d8",
+      "en_sha256": "7de41935d6eaa36714969133bcfc48d983e3ee65e83f8312217fd5812b706136",
+      "origin": "ai"
+    },
+    "dataList[id=Disarming].summary": {
+      "pl": "Moc Końcowa Umiejętności obrony -{0}",
+      "kr_sha256": "129bb5f4fbe8dcacf9360974af74353e4d2567f50d1b9ce583a6028091590de9",
+      "en_sha256": "2fe8ccff5b2522320118ec747e680c8ad471dcfdb0f5d1bcbf243967f4dceb29",
+      "origin": "ai"
+    },
+    "dataList[id=DogThunder].desc": {
+      "pl": "Wzmacnia się przy określonej wartości",
+      "kr_sha256": "8090571fff3ea40578a6291b83f3aca144ef57be0628075232c94d76eb2890ef",
+      "en_sha256": "e402487249b7b4dc69a04a93126fd41d86ec8675c57ee2c4ea7af3df2a22f8ed",
+      "origin": "ai"
+    },
+    "dataList[id=DogThunder].name": {
+      "pl": "Piorun",
+      "kr_sha256": "cb427961331d503d491757460c23345ce4194040dee5178d4595ef81e3385109",
+      "en_sha256": "41e68f2cdb3806bb899cb2f3c3d80a2171f37c85b60e8e486742234e4e5f5738",
+      "origin": "ai"
+    },
+    "dataList[id=DogThunder].summary": {
+      "pl": "Wzmacnia się",
+      "kr_sha256": "301fd2d4b4de6fdb1fae36b7af9b7b402b15d12ff4cf22f1dca061f253ba936f",
+      "en_sha256": "4564de2101c44ae035431d71f898233262b7c4be7a7fdcb6264787432ff36c14",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErode].desc": {
+      "pl": "Nie wykonuje rozkazów. Może używać wyłącznie Umiejętności Korozji E.G.O.",
+      "kr_sha256": "6534f143a78f3fd6eb2c1f00ab7790f31098c2e7c5db1f475274dab554d35a05",
+      "en_sha256": "ecc2d0d225a63ee6d7632b56438358a1f1ea7804f53916fa30ef7346a88a37fd",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErode].name": {
+      "pl": "Korozja E.G.O",
+      "kr_sha256": "148b678b79d763a78ec820a7c78d15b3049a8000a9d93f4d27b678c703a918ae",
+      "en_sha256": "6d0a4600ddb5bb6b5d068194dd9f8cb92a193a04579491a240605857f9b6fc8b",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErode].summary": {
+      "pl": "Nie wykonuje rozkazów; używa Umiejętności Korozji E.G.O",
+      "kr_sha256": "ecfca915c897905dbf98f5d94dbb484c7b5abcd2c2831e01541d13be3e65a778",
+      "en_sha256": "839ed2e9b7da2260a978a04ddbe0faa0736f8d7756818bfe09c99c98bef9eee9",
+      "origin": "ai"
+    },
+    "dataList[id=ElectricShock].desc": {
+      "pl": "Otrzymuje {0} więcej obrażeń w tej turze",
+      "kr_sha256": "e82d19140c498ef254f102ca8a6904f4f3fb7d5573f7ffaaa3c342dff47107e9",
+      "en_sha256": "e076c7332602545eb63f8bfe41f4c08581a971ad6fb71b3c6fc1f98e9c71022d",
+      "origin": "ai"
+    },
+    "dataList[id=ElectricShock].name": {
+      "pl": "Porażenie",
+      "kr_sha256": "40ff541fe00d48d52a9d6364c9ae4715e4e08520dc6e4dc6519dc82ab587d785",
+      "en_sha256": "8d7aa335b28ead5245c9f24b0eae19491484be4df6b105a02e0ccb56a98347e8",
+      "origin": "ai"
+    },
+    "dataList[id=Emergency_Operation].desc": {
+      "pl": "Maks. HP rośnie o 25%, a Moc Umiejętności o 1, proporcjonalnie do liczby własnych „Zabiegów Polowych”.\nCo turę zyskuje 1 „Zabiegu Polowego”\nGdy „Zabieg Polowy” osiągnie 5, umiera",
+      "kr_sha256": "58656627d8d7018e8bfeb141bafd803f27142fc5e6c73b052d8304a921973334",
+      "en_sha256": "ee213d58d3f9240dd59dd090e040a3452627ef5a6511eb437d55289a13dd55da",
+      "origin": "ai"
+    },
+    "dataList[id=Emergency_Operation].name": {
+      "pl": "Zabieg Polowy",
+      "kr_sha256": "285a266c7959f6c24bcc11b3cc64e5a27a070502eea4f01f5ef50c23972ff313",
+      "en_sha256": "618c83f5d5236eea42d66826009f5f0a55c27c538e70b97289869e84d7736fa8",
+      "origin": "ai"
+    },
+    "dataList[id=Emergency_Operation].summary": {
+      "pl": "Umiera, gdy Zabieg Polowy osiągnie 5",
+      "kr_sha256": "a5648073e388f6665af5c853a9d870dbf16e8ae41dd98f7d6e3dc9ce4aadbb42",
+      "en_sha256": "b5df103b9dc99acf5572b3c256a98a8635800e33106148c37dc20a9bb32fc2e9",
+      "origin": "ai"
+    },
+    "dataList[id=Endurance].desc": {
+      "pl": "W tej turze Moc Końcowa Umiejętności obrony +{0}",
+      "kr_sha256": "0641682b8e25fee0555516e1590d99b42a6de7e75e2db41761a7431f5cb3c8e6",
+      "en_sha256": "2bd84920d7ee0b3b21da82d740c4815ef086cab037e7780b3b4b9228a30cb8f0",
+      "origin": "ai"
+    },
+    "dataList[id=Endurance].name": {
+      "pl": "Wzrost Mocy Obrony",
+      "kr_sha256": "22dddc8781991680f705bca351b949a568d6f95c068ded570e103b7db4b1f486",
+      "en_sha256": "34f64e0fdd9526f156c13d1719c5b843d59eefe1460d7ed496b4a432be57ba70",
+      "origin": "ai"
+    },
+    "dataList[id=Endurance].summary": {
+      "pl": "Moc Końcowa Umiejętności obrony +{0}",
+      "kr_sha256": "49a2d94979fce0f115baa0174e98a5593f3dbeb1d4238fe40d04fc35ecb9a23d",
+      "en_sha256": "c22bc2d27a9477f75d6b10d97988fd33c5ec87dca1523475833452d05df265a3",
+      "origin": "ai"
+    },
+    "dataList[id=Enhancement].desc": {
+      "pl": "W tej turze Moc Końcowa Umiejętności ataku +{0}",
+      "kr_sha256": "7ff3330d0a713c8e82cc3ca86fd5f55714694c2c5fb75dd5a9c03db710623531",
+      "en_sha256": "ea54f6fb3241883b3c0930ff9d1b5d07724273d184b3b3d31bec89577317a6e3",
+      "origin": "ai"
+    },
+    "dataList[id=Enhancement].name": {
+      "pl": "Wzrost Mocy Ataku",
+      "kr_sha256": "9c2818f53b68a2dbe4312acaca872ebd7b78c026b577333f8b5540d566914573",
+      "en_sha256": "2f085da89a46f1de795a68b9dc7258b8b1f2528ab4bd74a63c52a247abe8b16d",
+      "origin": "ai"
+    },
+    "dataList[id=Enhancement].summary": {
+      "pl": "Moc Końcowa Umiejętności ataku +{0}",
+      "kr_sha256": "24b6dbd162c9ff600c330502874a81db6ed2bcfe441ee74c7bed909cc0fa4fbb",
+      "en_sha256": "a0283985335fc086a0aa404f961f1afb3981ac602f08983cdd69b2c57fa6e524",
+      "origin": "ai"
+    },
+    "dataList[id=HitDamageDown].desc": {
+      "pl": "Zadaje -{0}0% obrażeń Umiejętnościami Uderzenia w tej turze (maks. 100%)",
+      "kr_sha256": "84aa89f847313c27ce7a690139b301e05f9c17388a8725f2f1acdb19a1653fa0",
+      "en_sha256": "b447b331de4712c3ccc7d61032d7f572d9b21f03196b1e9c7d1fcb3dcbea8166",
+      "origin": "ai"
+    },
+    "dataList[id=HitDamageDown].name": {
+      "pl": "Spadek Obrażeń Uderzenia",
+      "kr_sha256": "9c75a725da210bb03845b5eb087833061f0332685fc0dafbef691fd412718f40",
+      "en_sha256": "843a8dadd2e1825bdc064b6c44956635d9d1ee975dea9c62f36880f7de893b1a",
+      "origin": "ai"
+    },
+    "dataList[id=HitDamageDown].summary": {
+      "pl": "Obrażenia Uderzenia -{0}0%",
+      "kr_sha256": "561b68eb8bd3cef228aa9e5146a02cb502aaa1168a9b0e005acd8526bee1ceec",
+      "en_sha256": "84f072757d72e7017474c3fbd829a153e9abf09c83a706c361359a41667d876f",
+      "origin": "ai"
+    },
+    "dataList[id=HitDamageUp].desc": {
+      "pl": "Zadaje +{0}0% obrażeń Umiejętnościami Uderzenia w tej turze (maks. 100%)",
+      "kr_sha256": "c061ffb72fa256abf17b82710ef06302b008ce4ac592a8602067f6baa02424d1",
+      "en_sha256": "7c7ab01ff7e3a38407e0a99cc43f3fff8d9cce42c9edc76e993502f5effb8ea4",
+      "origin": "ai"
+    },
+    "dataList[id=HitDamageUp].name": {
+      "pl": "Wzrost Obrażeń Uderzenia",
+      "kr_sha256": "c89b35a16378039f34e350419f73e51f5ce9dab0c1a42a1be746c84383580cae",
+      "en_sha256": "2f8d37685977fcf0ed35f9ef9dfbbb402e774531db8d9523ab5589107c56c5f4",
+      "origin": "ai"
+    },
+    "dataList[id=HitDamageUp].summary": {
+      "pl": "Obrażenia Uderzenia +{0}0%",
+      "kr_sha256": "73d158e22df281a8f87dd0f125780c389a74f9323750d5d57cb7b3c07dd390e1",
+      "en_sha256": "c6f8a99ed1a164f956263dbf4e46dd126d69d429f3fff8905e1a0ff30a87c981",
+      "origin": "ai"
+    },
+    "dataList[id=HitResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Uderzenie o {0:F1}",
+      "kr_sha256": "f004e08d6a7ec39cd8785fea49317e7a01651183c82ea0578c913c04571b6d88",
+      "en_sha256": "aa60be8ff772ee2d1af1bfa025d002d0ad3ab03b3208ab8c1f16e389075e8786",
+      "origin": "ai"
+    },
+    "dataList[id=HitResistDown].name": {
+      "pl": "Osłabienie Odporności na Uderzenie",
+      "kr_sha256": "50b7bdab00a0fadda6539f6eb0f4f6676aee54ceda10e0a1214d661b8dea588f",
+      "en_sha256": "28dd333743fd96c753ede8616c79c516bdd782b1fff3a5697c43e1d18d0e54c5",
+      "origin": "ai"
+    },
+    "dataList[id=HitResistUp].desc": {
+      "pl": "Zmniejsza Odporność celu na Uderzenie o {0:F1}",
+      "kr_sha256": "a48e1aa33cb2cffe713e8328e054b177af02c265d1dbb732be92a2b65cc70e3f",
+      "en_sha256": "0c5462e5ec21ea4558d011b54277ccb2fbe18bbcaa9611fd631da0fd175fbf3e",
+      "origin": "ai"
+    },
+    "dataList[id=HitResistUp].name": {
+      "pl": "Wzmocnienie Odporności na Uderzenie",
+      "kr_sha256": "8e87a614e5728c864b3122d79637b0085115f667f9a22da4c9d77bfb6a7f4877",
+      "en_sha256": "3d98dc0d6544f8eee63e467c071addf3f76d7d0f133844c72ecd753a0df5f045",
+      "origin": "ai"
+    },
+    "dataList[id=Inactible].desc": {
+      "pl": "Nie podejmuje działań w tej turze",
+      "kr_sha256": "2ebae37b27d1fbc1ed0faf7f61398ad3532102816172c40b387b2dcd61f01449",
+      "en_sha256": "b83d9781300f34132f37cf386996b2dc3c084b358f30653e151db619b426f778",
+      "origin": "ai"
+    },
+    "dataList[id=Inactible].name": {
+      "pl": "Unieruchomienie",
+      "kr_sha256": "f852c649761226c37eddeac656a03797dbfb828d2d849fff6ffc9046c9238bb1",
+      "en_sha256": "4d742200a20fc3803103c86b0c2c62976584875fa96ede99b56c5fe35d77d9ec",
+      "origin": "ai"
+    },
+    "dataList[id=Inactible].summary": {
+      "pl": "Nieaktywny",
+      "kr_sha256": "89a88b792f64569bbc865ad2116914461609260b1f493055d987d0364fde0f8d",
+      "en_sha256": "ac7c949f1211b7814bdd28a698e6c04e05e1a83f9f86e7ad43d2086d00e98afd",
+      "origin": "ai"
+    },
+    "dataList[id=IndigoResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Pychę o {0:F1}",
+      "kr_sha256": "bf8999cb14e91022f4b4b9d97d8e0559d07359b53c0e59c2ed4f8b6a4399b3dd",
+      "en_sha256": "a2b10d94b356d6cfc201a5ee67b8f8fb6055653d70c71bfcd20a3ebd382f51fa",
+      "origin": "ai"
+    },
+    "dataList[id=IndigoResistDown].name": {
+      "pl": "Osłabienie Odporności na Pychę",
+      "kr_sha256": "39e64850f6cbcac56c8fd1428d7928e6321dd372c96a69d510c671c73a0a88e3",
+      "en_sha256": "897f994fe85c7d0b907ff18850ba5532e57be1d2243054c1b6515371e8402594",
+      "origin": "ai"
+    },
+    "dataList[id=Laceration].desc": {
+      "pl": "Przez następne {1} rzuty Monety Umiejętności ataku otrzymuje obrażenia stałe w wysokości {0}",
+      "kr_sha256": "2967fcad7f05bea07db62cb00fb79dccc77bce0dbb36b79889bbf63c2221f10b",
+      "en_sha256": "b7b4bc84c515f71d987e650558e7cf9d2c6b6a87784d64e8a4d35af6755d613c",
+      "origin": "ai"
+    },
+    "dataList[id=Laceration].name": {
+      "pl": "Krwawienie",
+      "kr_sha256": "71d859d83cef2666fa36ecbc8c57b365f5b15654179119941c13cc11facee8b7",
+      "en_sha256": "2574b5ca76b0782c9d1c8d5558d32fa74df5b6e0aeb30ea4b7cd0ab0fb0be9de",
+      "origin": "ai"
+    },
+    "dataList[id=Laceration].summary": {
+      "pl": "Obrażenia stałe -{0}",
+      "kr_sha256": "9102232abeb4de233be07745a391286f8a9b84aada24f6867e67bdd3073511bc",
+      "en_sha256": "14e26394b6514c4967b9e9d44a3ce2da6beb4dbf3d1ed10eaa019ba19627c401",
+      "origin": "ai"
+    },
+    "dataList[id=Liu_Meursault_Guard_Buff].desc": {
+      "pl": "Przy trafieniu Licznik Podpalenia atakującego rośnie o 1",
+      "kr_sha256": "19a70c26de140a9daab50a80ee331b9e52c175cd1cd6bf8505a4ddc165fc2b39",
+      "en_sha256": "b509766a81e57504ab84742e7daa768ef79471383ac8c17cc8898ee2a90589e0",
+      "origin": "ai"
+    },
+    "dataList[id=Liu_Meursault_Guard_Buff].name": {
+      "pl": "Wielka Góra",
+      "kr_sha256": "3281e343c28c40632f4a6659d7cdd9edd3f9d1058145b2277cd02e1c9afdda9e",
+      "en_sha256": "b2a13762a26ba3562a8f71e9fc626cc5e8e9777f33bc3d755b58680a846dcd3a",
+      "origin": "ai"
+    },
+    "dataList[id=Liu_Meursault_Guard_Buff].summary": {
+      "pl": "Licznik Podpalenia atakującego +1",
+      "kr_sha256": "cc32384b82405c38c6153ea8b9a56b762999082d290a9f61eb27bb2ae20c0b3a",
+      "en_sha256": "9011a6a99d9773779a4e4df002c83f15bfb54cc9c669d4d3badda6269c130b15",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinValueDown].desc": {
+      "pl": "W tej turze Moc Monet Minus -{0}",
+      "kr_sha256": "adfe25d4acb9a6b9711fa87dd7193b4dceb5f27dee564a6fad1840b26a963fc7",
+      "en_sha256": "90782de9d003c61945d5203baef0e9b476fed6a84b0eca201113a4bfbb535cc9",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinValueDown].name": {
+      "pl": "Osłabienie Monet Minus",
+      "kr_sha256": "ac374924f9ca57de84163cf4c9708464a3ea047afc665f0af0b5edd95aca5b6f",
+      "en_sha256": "5542b4874d1622b5a0b78738e38740a68b3697ba9b51a583838dc066a827e70e",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinValueDown].summary": {
+      "pl": "Moc Monet Minus -{0}",
+      "kr_sha256": "5b946df61f360a1867cb1212bbede2ffbfd90ea08426c21aab1df1a1cdac73c0",
+      "en_sha256": "51b4b5a73f4bfd7e0691869d24a56f6d4a08be4eecca2d08fa700f291f9e5919",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinValueUp].desc": {
+      "pl": "W tej turze Moc Monet Minus +{0}",
+      "kr_sha256": "9e1f6dd4df7ead97c6ab0e7a58806fd3c0f012f87be7de46574e136026210ffe",
+      "en_sha256": "8b6b4deb8ff8fffb4dca8a8fd942016ea37609352c568f0c380831b96a7384bf",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinValueUp].name": {
+      "pl": "Wzmocnienie Monet Minus",
+      "kr_sha256": "a5353f6398ba322cd148a0ced4858a4178dd9de1cf960634bb50cc33030f4375",
+      "en_sha256": "b831c6a5a1aca6e0cb30a33ba011dad79b4f30529900104d3e2d3a9a39d00023",
+      "origin": "ai"
+    },
+    "dataList[id=MinusCoinValueUp].summary": {
+      "pl": "Moc Monet Minus +{0}",
+      "kr_sha256": "5d0448ad7b8e52c5b4a2ff5088866bced3ae24aefd6e2dc6033989460768b83c",
+      "en_sha256": "29dea4b9986dd59b7afd6a727f6c1c19cd90f29e09f590ad181fb3d5b6d0469f",
+      "origin": "ai"
+    },
+    "dataList[id=MoonLight].desc": {
+      "pl": "Zasób zużywany przez określone Umiejętności dla dodatkowych efektów.",
+      "kr_sha256": "ac5db2b81206d739147d9e7903b00f827ce7cfee01bf60dd9b58ee410312fdfc",
+      "en_sha256": "2f8b9c5297873aa87be25a186c73f06e34ed2f6a9677610b82218f4d486a2298",
+      "origin": "ai"
+    },
+    "dataList[id=MoonLight].name": {
+      "pl": "Światło Księżyca",
+      "kr_sha256": "b162f0baeac46602a8ca49fda7828662074aadc74ad97d15293b29002b5fff01",
+      "en_sha256": "79191631cbf1cad7c8dd661880a1e63533a426640ec6c647aa8354228413f2cb",
+      "origin": "ai"
+    },
+    "dataList[id=MoonLight].summary": {
+      "pl": "Dla efektów dodatkowych",
+      "kr_sha256": "109bdbae4013510bb2c2cdebf35e2fa774c23d874153937a1fa939735b6cae52",
+      "en_sha256": "cf8ef73456ccbcd57c50b476a55eabc0a0b4e63310b1883c94e7c0d5bdeb2f38",
+      "origin": "ai"
+    },
+    "dataList[id=Muckworm].desc": {
+      "pl": "Na koniec tury otrzymuje tyle obrażeń Obżarstwem, ile wynosi Licznik; Licznik Krwawienia +1, a wartość maleje o 1",
+      "kr_sha256": "1a217324faf9e611d8e9ee5667c591aa6665a42d40bac718e4d32e2bdca21b99",
+      "en_sha256": "4f898e460f899ed30ffba17e77602bb0a47f638d72b26762391db719e3bcf505",
+      "origin": "ai"
+    },
+    "dataList[id=Muckworm].name": {
+      "pl": "Czerwie",
+      "kr_sha256": "438c834f45bf9ce9d4951951f739c81fdb74a6f145052405ef94b9a50bd2ceef",
+      "en_sha256": "f3b2fbe83939035870210e46180c7b4fb1ce8f508b37001b64d67fc07eec04fa",
+      "origin": "ai"
+    },
+    "dataList[id=Muckworm].summary": {
+      "pl": "Obrażenia Obżarstwa równe wartości. Licznik Krwawienia +1",
+      "kr_sha256": "00a4c70d8da997ae3b315f02a2a3b5b742a78d6bb9d0d3795b2ac2505dfd0cba",
+      "en_sha256": "098d24727507dee2bfe36c4e9ea6151984750a1e34d66d5c305032a6feafa950",
+      "origin": "ai"
+    },
+    "dataList[id=Nail].desc": {
+      "pl": "Na początek tury zyskuje Krwawienie 1, a Licznik Krwawienia rośnie o {0}. Na koniec tury wartość maleje o 1",
+      "kr_sha256": "30fec224d9529bdc2cdf6ebdd58163e3cc90fa9d1e00abfee696e8fb353dae4d",
+      "en_sha256": "44078c23665308a1b972871756638c61ad45cbaddc11a92fa13880fdb1bdf786",
+      "origin": "ai"
+    },
+    "dataList[id=Nail].name": {
+      "pl": "Gwóźdź Korporacji N",
+      "kr_sha256": "5e8b5fd4762701d7a73d9fab7cc1eb74ef686dc1b0302713fb00e24895973083",
+      "en_sha256": "d4faa7c15efac22e7ec42589f649abbd56e44955857563a078bb16d713f68233",
+      "origin": "ai"
+    },
+    "dataList[id=Nail].summary": {
+      "pl": "Zyskuje Krwawienie 1. Licznik Krwawienia rośnie o {0}",
+      "kr_sha256": "8a05e95a492e68d3e7b781b8ae477a0a74163990d58bec36d1b00bb4e0efeafa",
+      "en_sha256": "0f2cd6c24acd686baa28c692fb3f8004a6ed70aa3d3fd03a9de8fdca02bec5e3",
+      "origin": "ai"
+    },
+    "dataList[id=Operation].desc": {
+      "pl": "Umiera, gdy wartość osiągnie 5\nMaks. HP maleje o 20% za każdą wartość\nZadawane obrażenia rosną o 20% za każdą wartość\nZyskuje {0} Pośpiechu",
+      "kr_sha256": "d13d512e86e58b9554512fee676f71c4d1f1e9b61a1a96536e7450df23cc8225",
+      "en_sha256": "354c3d8231e9cfb52b9e128e54d0789a7e974d664b2d949ce058658c31a03c5a",
+      "origin": "ai"
+    },
+    "dataList[id=Operation].name": {
+      "pl": "Zabieg",
+      "kr_sha256": "ee2f2fc8267749f01a648ee44cb39f05ac93f62118802b3c7cd9a16a2581b94f",
+      "en_sha256": "022eaabcc673d978c27083f5c76c555fee652325d1959ed1f5fe0f8cd4ff1c71",
+      "origin": "ai"
+    },
+    "dataList[id=Operation].summary": {
+      "pl": "Umiera przy wartości 5",
+      "kr_sha256": "8715098a6cb84a501ae5106fd10504e70d47c2f7c9ea014ab73b85f720b00222",
+      "en_sha256": "b5df103b9dc99acf5572b3c256a98a8635800e33106148c37dc20a9bb32fc2e9",
+      "origin": "ai"
+    },
+    "dataList[id=Overwhelm_LowMorale].desc": {
+      "pl": "Na początek tury zyskuje 2 Spadki Mocy Ataku",
+      "kr_sha256": "4b609c9dbb6a3a8a4a6e8f883286fbc1889722a020333b1329e20f759529d4d4",
+      "en_sha256": "05b1a029248aaad6e5f95090a94bb41ad1579dbacf5888eaeba147aa0f0376c5",
+      "origin": "ai"
+    },
+    "dataList[id=Overwhelm_LowMorale].name": {
+      "pl": "Przytłoczenie (Niskie Morale)",
+      "kr_sha256": "c84aac418a8124c33433927f3d334a15c82bde455c12ffd5813ff8c54a451ebc",
+      "en_sha256": "11e11745c72ffb4be742b8483ff645353e39e8ccb0d7f918513c4aae9e8215a4",
+      "origin": "ai"
+    },
+    "dataList[id=Overwhelm_LowMorale].summary": {
+      "pl": "Zyskuje 2 Spadki Mocy Ataku",
+      "kr_sha256": "05ecd01e55b3a3a178c1379602776fea0f2b17ff354b06eefcf5f4a0b6ec4429",
+      "en_sha256": "6f547335df70f9d835873ae5b11c5bfab24d868eb324b64ba2a59a02c2b4f3e7",
+      "origin": "ai"
+    },
+    "dataList[id=Overwhelm_Panic].desc": {
+      "pl": "- Panika\n- Nie działa w tej turze",
+      "kr_sha256": "1a59f3b0474b50963e7532acfafcec38dda49e24856d1652b5dc59120263f797",
+      "en_sha256": "845bf700cd63603323057dbc9b06561c424f3a980c4e2aeb68e707adf3484bd6",
+      "origin": "ai"
+    },
+    "dataList[id=Overwhelm_Panic].name": {
+      "pl": "Przytłoczenie",
+      "kr_sha256": "bf56e0403ddc021df805bb8b73a8e080bf07682d67c3a8933ccc02dabc9c933a",
+      "en_sha256": "02cad233591466ad3927bbdb5c8ddf82568f8523267bfba6eda55d257dddde03",
+      "origin": "ai"
+    },
+    "dataList[id=Overwhelm_Panic].summary": {
+      "pl": "Nieaktywny",
+      "kr_sha256": "89a88b792f64569bbc865ad2116914461609260b1f493055d987d0364fde0f8d",
+      "en_sha256": "ac7c949f1211b7814bdd28a698e6c04e05e1a83f9f86e7ad43d2086d00e98afd",
+      "origin": "ai"
+    },
+    "dataList[id=Paralysis].desc": {
+      "pl": "W tej turze wartość {0} monet jest ustalona na 0",
+      "kr_sha256": "219b3770288ca71892779cdd992e1158d0eabb272a68e573d60dbb262b911098",
+      "en_sha256": "97a1002ea2a346775332614e4d66513e8c2fdf98b9b37761ec8233c7f4219df9",
+      "origin": "ai"
+    },
+    "dataList[id=Paralysis].name": {
+      "pl": "Paraliż",
+      "kr_sha256": "fdc3df3512ef2de2c260155148d8ef1a9b67a1f169bbf19f4820845bd0e98192",
+      "en_sha256": "1d5e7e989b88522a8bbe801c5be3fb99a0ba6afca28eb3e5ab8713e1769ba693",
+      "origin": "ai"
+    },
+    "dataList[id=Paralysis].summary": {
+      "pl": "Wartość {0} monet: 0",
+      "kr_sha256": "7e158d96efaa4ab159f95d1894605618d133d61e50b22d0e6a3bdae47d832e3f",
+      "en_sha256": "bde815a24c829c311df8d7a35028632794ea5488911a789037f4d135ce2d4ad2",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateDamageDown].desc": {
+      "pl": "Zadaje -{0}0% obrażeń Umiejętnościami Przebicia w tej turze (maks. 100%)",
+      "kr_sha256": "183ed1bbade7859a2b3e52dfaa120dd649171440512ed0c6742bdf546df3261e",
+      "en_sha256": "4f24444ac90df16ffcf5ee4cf0bac8763aa05ad07acdf704a4d7d81738422e50",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateDamageDown].name": {
+      "pl": "Spadek Obrażeń Przebicia",
+      "kr_sha256": "2bf80b0d417cc275ad346126aa8156dd052e89ebc9baee7ad3c09f5ff83fcc77",
+      "en_sha256": "0509c430816f3be5c3cb8216dcf7c9527f5f61d0153cccd2ed5fe1f7bd2386fb",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateDamageDown].summary": {
+      "pl": "Obrażenia Przebicia -{0}0%",
+      "kr_sha256": "74f44c6204d72c66974c37bd6f914bf1a335af3ccdaeddeccee48f491e40d3f3",
+      "en_sha256": "a3935e5d41b6e628975a23d44900e3e3e7881e007324a45d8d7d111013c48bbd",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateDamageUp].desc": {
+      "pl": "Zadaje +{0}0% obrażeń Umiejętnościami Przebicia w tej turze (maks. 100%)",
+      "kr_sha256": "31e1718243c4a66098c64a83f4574c5cbf96b21302b847dbe0425a2719438375",
+      "en_sha256": "11aa6b30d06df5776941db23aa12c253a825d29b946e1d2d3192b7bc13d8dea6",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateDamageUp].name": {
+      "pl": "Wzrost Obrażeń Przebicia",
+      "kr_sha256": "3c292c59b4433ee591094d6414e032bb4b22ae4888c02f2cb024468a9314ec7f",
+      "en_sha256": "469beea6434250756063bafebcc024ee58a9eb413ab2bb09c846b12ea12a6ea7",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateDamageUp].summary": {
+      "pl": "Obrażenia Przebicia +{0}0%",
+      "kr_sha256": "ee01d34606d589d6f829ba5b1cbbdd93f3037f2ad201cade3680c73ef7d64c49",
+      "en_sha256": "4cfe2c0a15ec7603c7eba61a2dc1b989b3c31ea90b746badbfd4c55198e09964",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Przebicie o {0:F1}",
+      "kr_sha256": "7915899ef1d3cec5c20e770cd6319e1895bd0e470398e488478dc44e246b6b4b",
+      "en_sha256": "7b3356ddfe4808b6e30ee315901cf4e49c20e8d39f31afe6504436e0aab4552f",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateResistDown].name": {
+      "pl": "Osłabienie Odporności na Przebicie",
+      "kr_sha256": "60fe0887a7897fe4490e99471d641bbd8e61618a2540a6431cda085876dad080",
+      "en_sha256": "01d8043a875bd56161527a64cb29d45a4f7a73ddda7a0118cee6f60d55b10a81",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateResistUp].desc": {
+      "pl": "Zmniejsza Odporność celu na Przebicie o {0:F1}",
+      "kr_sha256": "7624e4fee016a1b64bbb084776fd9c7d662f430bb17423a2d0cd0c055aef8054",
+      "en_sha256": "10c3c00a142fe91e8ee771d8ca65a8368e2b5d3021c2b9d0c58f75a7b0790eb6",
+      "origin": "ai"
+    },
+    "dataList[id=PenetrateResistUp].name": {
+      "pl": "Wzmocnienie Odporności na Przebicie",
+      "kr_sha256": "926c2290ee6a42e8c0dc4007b708e88a86f0b083202884815a90fbfdda6e4fae",
+      "en_sha256": "cda41595e412280e8aada6d5c6ee1d45aeeb945b2f71ab99ed8ec949b9e7f9d2",
+      "origin": "ai"
+    },
+    "dataList[id=PinkRibbon_Ishmael].desc": {
+      "pl": "W ciągu tury wartość rośnie przy każdym rzucie Monety Umiejętności ataku\nNa koniec tury zyskuje Spętanie równe wartości, po czym efekt znika",
+      "kr_sha256": "6c84be7ff25590ca768333e752d63f65d36a0ed7f66ad32278806d62478c8087",
+      "en_sha256": "970a78d2af0bfe47f405ccf3f0f92f4d5be4bdc8814dfc2dbdf0dbb4ab37b469",
+      "origin": "ai"
+    },
+    "dataList[id=PinkRibbon_Ishmael].name": {
+      "pl": "Różowa Wstążka",
+      "kr_sha256": "a3beef7f2504c9fb26bb01a3aec5788775a4b54f0e360a25c5ec5db1feea3c9f",
+      "en_sha256": "3a6234b34ec9259a26b43dfdc86b1f235503e909a4a9a1949986ad9e1c359bb5",
+      "origin": "ai"
+    },
+    "dataList[id=PinkRibbon_Ishmael].summary": {
+      "pl": "Spętanie +{0}",
+      "kr_sha256": "20b6b3bbf2b393bfde80149b865002c438b978a5cb847fc2596af7bab47d9ff9",
+      "en_sha256": "a04a9db5e7af38d8a2fd51d4d7c0ee0a573804d562c074ace55585d711454865",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinValueDown].desc": {
+      "pl": "W tej turze Moc Monet Plus -{0}",
+      "kr_sha256": "240775b29a2e95f7c1c8facf44b82023c78dea2ad94404590a4d92a37a919b97",
+      "en_sha256": "d17daa1a2f878eafea6d464456b79a86969cb02bb2354816faef442f4465b7ba",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinValueDown].name": {
+      "pl": "Osłabienie Monet Plus",
+      "kr_sha256": "294126dbd0bfd6da57dd0a3610ea362bc16bbcbc84993f8e325e663edf68ced7",
+      "en_sha256": "e3965f7deb7cad6db08c4a1d4b507715fd4cf9593f964ea9c9b8145d095855b5",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinValueDown].summary": {
+      "pl": "Moc Monet Plus -{0}",
+      "kr_sha256": "7f90db276d85b0a0b7ccb26a88765909e0e4cfba1a4176c186a519f8ef19753a",
+      "en_sha256": "2ac7a50333f83f0ce34636f1dbf2ef65a5919925897495c4644c0a7dde954a0d",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinValueUp].desc": {
+      "pl": "W tej turze Moc Monet Plus +{0}",
+      "kr_sha256": "1738cbe3ab8bc27bac6c01f49056a901dd5469b4968716a5f126d27005b2b707",
+      "en_sha256": "9992d181b2c56eba73af225b2292bf214e4f3b9574258aad68912fd70630f712",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinValueUp].name": {
+      "pl": "Wzmocnienie Monet Plus",
+      "kr_sha256": "b8b4e4414d80f59e2d415534679b88230fc64bd7c09697767a824fa0e174335c",
+      "en_sha256": "f387f92153ae1e1a028ba03fae411ae11a7ee441b40c73647f61efb43e58360a",
+      "origin": "ai"
+    },
+    "dataList[id=PlusCoinValueUp].summary": {
+      "pl": "Moc Monet Plus +{0}",
+      "kr_sha256": "d2d4a80ae1a8285834820b42db7b8444e1120fd11699ef4f0725f094ba32d321",
+      "en_sha256": "34bef8def85fc93546167598898630b8daebfa1ce052ee297ac6f86bed0f7ed7",
+      "origin": "ai"
+    },
+    "dataList[id=Protection].desc": {
+      "pl": "Otrzymuje -{0}0% obrażeń w tej turze (maks. 100%)",
+      "kr_sha256": "2122d14ffdd686f86abac78cf48795645620f482c0d589a86928113389ee030a",
+      "en_sha256": "61a2dc026cf5e9b10e517db75278270f0e02a5c3752c1664629255b8507b20b1",
+      "origin": "ai"
+    },
+    "dataList[id=Protection].name": {
+      "pl": "Ochrona",
+      "kr_sha256": "d768523040084e56dcc3c6f12e0ae65760ac4e9b104ea0737f7760c2502fa6dc",
+      "en_sha256": "0e97ad021672d434a066dc50b8681813907da9f1f706aa1fa4402b9c4ba4c006",
+      "origin": "ai"
+    },
+    "dataList[id=Protection].summary": {
+      "pl": "Otrzymuje -{0}0% obrażeń",
+      "kr_sha256": "0c90f402d20c5426c5dca1b5827ab8ca07707a81a190b375709e20391d3030b4",
+      "en_sha256": "e6925c42b544a50446c1ad74d013d17a9512cd1f28dcf547525d805ff497b110",
+      "origin": "ai"
+    },
+    "dataList[id=Reduction].desc": {
+      "pl": "W tej turze Moc Końcowa Umiejętności ataku -{0}",
+      "kr_sha256": "94aaafc36b1b99760db2f620ecccd3e5dbe78bb900b9c0c1aa14f25b98785ae5",
+      "en_sha256": "397b553632d205f8da168f0356a4032575d572c9a650833650ad0f70c97b679d",
+      "origin": "ai"
+    },
+    "dataList[id=Reduction].name": {
+      "pl": "Spadek Mocy Ataku",
+      "kr_sha256": "4f44fa907590a91a35a757a9218ec2a3c0a958a50b8808e10812824815e42322",
+      "en_sha256": "bf0d455c6090b18afc23481bcf8b6656b469ecd3e5e57ed6ca24108779faa417",
+      "origin": "ai"
+    },
+    "dataList[id=Reduction].summary": {
+      "pl": "Moc Końcowa Umiejętności ataku -{0}",
+      "kr_sha256": "48cf383069ec58ab7ff0ce7630be5880b12f74320ea50c25f63f41e372696388",
+      "en_sha256": "2114c24e66f4a8329396da43a2db255791354a9b84697f1eacbc6c7b3bb8f61e",
+      "origin": "ai"
+    },
+    "dataList[id=ResultEnhancement].desc": {
+      "pl": "W tej turze Moc Końcowa Umiejętności +{0}",
+      "kr_sha256": "bce36f4e1eb61cc8d62b796d4ee51675c42c257ac8b3e76686b718f561eebbf1",
+      "en_sha256": "74e56a531179dc2f2429f45750b44ba47492fbd1368e78995bba2c94411a3847",
+      "origin": "ai"
+    },
+    "dataList[id=ResultEnhancement].name": {
+      "pl": "Wzrost Mocy",
+      "kr_sha256": "8fbe7b7d1d4ace57cc61328e7027eaea4e922628134e4a23e91ea01673a3e489",
+      "en_sha256": "8a35b62f07d7b0d5a2b02511ebabbff06ccb3edf9ef5af6adc0a9b153157eced",
+      "origin": "ai"
+    },
+    "dataList[id=ResultEnhancement].summary": {
+      "pl": "Moc Końcowa Umiejętności +{0}",
+      "kr_sha256": "5b4d62db1c8379b6be1b872957d0c305cfe97846148a0c99d295b7a7d7a8f4db",
+      "en_sha256": "323bc3ba1c464820974d7a2322006dc6eef9892d4d43026a924364bdba4ace3b",
+      "origin": "ai"
+    },
+    "dataList[id=ResultReduction].desc": {
+      "pl": "W tej turze Moc Końcowa Umiejętności -{0}",
+      "kr_sha256": "8846bccb38ead2ca94fb5aed1aa622a110447d38601b29ffb8f8eab0e020c75c",
+      "en_sha256": "11f42d801fcd99fc522111696b5fd0e13253cd98494139231072715c63434b75",
+      "origin": "ai"
+    },
+    "dataList[id=ResultReduction].name": {
+      "pl": "Spadek Mocy",
+      "kr_sha256": "141c4c4232d4b2fe89018906f39ed4466b56cf32be091fc9399aed461032344b",
+      "en_sha256": "fcb44e627bc021fa7fe9e42463773c345bb2caf60d9f07c86375bc366468bf35",
+      "origin": "ai"
+    },
+    "dataList[id=ResultReduction].summary": {
+      "pl": "Moc Końcowa Umiejętności -{0}",
+      "kr_sha256": "a919cee18edc521975a2baf699f634104de4f3e0fbc661ebe11be949af7072f7",
+      "en_sha256": "0fede5c11f601e546d3ca7895bc60ec9597d409210355eec9c1d9702e64bbaae",
+      "origin": "ai"
+    },
+    "dataList[id=Run_LowMorale].desc": {
+      "pl": "Nie działa. Przy trafieniu ginie po zakończeniu Umiejętności.",
+      "kr_sha256": "8af0d3cfcbe24072e4632fa14a812800e51ac3e1b61d0bd97ec929b33d5d3387",
+      "en_sha256": "9f827575139c0d23df47a41f1fd615928b529239a85bdb0b3274902a674023f5",
+      "origin": "ai"
+    },
+    "dataList[id=Run_LowMorale].name": {
+      "pl": "Ucieczka",
+      "kr_sha256": "820607396cced95615c41ac9647151b772991f30ea9ed7797ba7718d026c5cf5",
+      "en_sha256": "f4ccae29e1bb0c20a124570a1b43f4347ea94bba9f84ffdfddd9c7445b126128",
+      "origin": "ai"
+    },
+    "dataList[id=Run_LowMorale].summary": {
+      "pl": "Nieaktywny i ucieka",
+      "kr_sha256": "89a88b792f64569bbc865ad2116914461609260b1f493055d987d0364fde0f8d",
+      "en_sha256": "929b447d5abc2c68e3b2fa8b89ebc62a6c0aa83cf6d8fad7181e80a84d4a1987",
+      "origin": "ai"
+    },
+    "dataList[id=Run_Panic].desc": {
+      "pl": "Nie może działać w tej turze. Przy trafieniu ucieka po zakończeniu Umiejętności atakującego.",
+      "kr_sha256": "1432674cf37f85591b331694a6fcc77cb77f624c5b142ac3a6388c3e1bfca778",
+      "en_sha256": "9f827575139c0d23df47a41f1fd615928b529239a85bdb0b3274902a674023f5",
+      "origin": "ai"
+    },
+    "dataList[id=Run_Panic].name": {
+      "pl": "Przytłoczenie",
+      "kr_sha256": "bf56e0403ddc021df805bb8b73a8e080bf07682d67c3a8933ccc02dabc9c933a",
+      "en_sha256": "ea56bc85d03bae84ab8a68b54ea337199793fbd8445b907459bf34203cd0ec53",
+      "origin": "ai"
+    },
+    "dataList[id=Run_Panic].summary": {
+      "pl": "Nieaktywny i ucieka",
+      "kr_sha256": "89a88b792f64569bbc865ad2116914461609260b1f493055d987d0364fde0f8d",
+      "en_sha256": "929b447d5abc2c68e3b2fa8b89ebc62a6c0aa83cf6d8fad7181e80a84d4a1987",
+      "origin": "ai"
+    },
+    "dataList[id=ScarletResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Żądzę o {0:F1}",
+      "kr_sha256": "6b8cf3c42be0a64b5202f174dabc30ead0f2d7f6f382397e6f49ee599dba4fb6",
+      "en_sha256": "13ecbdf8583d774d66c4750e3137894bb64e2e1fd338d410bf759cae83bdc8d7",
+      "origin": "ai"
+    },
+    "dataList[id=ScarletResistDown].name": {
+      "pl": "Osłabienie Odporności na Żądzę",
+      "kr_sha256": "19c1585b83dab43d17ed050a2dac7c92e52a9fefb591fa8e7f6ff04d73fdfb4c",
+      "en_sha256": "29de72cbec140bb13ff081b45e582c4d8f1233618886f0da4c8ebdedba90bc7e",
+      "origin": "ai"
+    },
+    "dataList[id=SelfHarm_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początek tury zyskuje 2 Pośpiechu i 2 Wrażliwości",
+      "kr_sha256": "e23697761767d034b6671241d3e8a75459df041186d00fc4e257dfed1a4812dd",
+      "en_sha256": "c481a0f53d006cceebf5f1a23fbe5a636e20d59eee69cbd99f9a5b6f0e1aa0a5",
+      "origin": "ai"
+    },
+    "dataList[id=SelfHarm_LowMorale].name": {
+      "pl": "Samookaleczenie",
+      "kr_sha256": "d61c93303863d955070860d691e169223a7528bcbb1f384acb3fa36750508016",
+      "en_sha256": "d42a977adf1da72c3a45931b795fe946be9c6c1842de5dc528ec3bffc6b56b0a",
+      "origin": "ai"
+    },
+    "dataList[id=SelfHarm_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury traci 10 HP",
+      "kr_sha256": "a4f43c42b04fef40b987e140e53839fe959c41c77dc0d1e9e94bed09bdf9802c",
+      "en_sha256": "03a378da421b7ac29481228ca749360e5a5807b586183e157fff26bd670f0fd3",
+      "origin": "ai"
+    },
+    "dataList[id=SelfHarm_Panic].name": {
+      "pl": "Samookaleczenie",
+      "kr_sha256": "d61c93303863d955070860d691e169223a7528bcbb1f384acb3fa36750508016",
+      "en_sha256": "d42a977adf1da72c3a45931b795fe946be9c6c1842de5dc528ec3bffc6b56b0a",
+      "origin": "ai"
+    },
+    "dataList[id=ShamrockResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Obżarstwo o {0:F1}",
+      "kr_sha256": "fd4357c27637db86314fc6c70e328757fba802ff2cd82f7c0a56ba48c42d5933",
+      "en_sha256": "6bca2b4600345073f26191872eaace635a1def41240e29731cb04beaa2969c55",
+      "origin": "ai"
+    },
+    "dataList[id=ShamrockResistDown].name": {
+      "pl": "Osłabienie Odporności na Obżarstwo",
+      "kr_sha256": "95687ae96da2874aa02948842d4ba3ee512fee007addc56aa5a20435baa2a82f",
+      "en_sha256": "c1d088c7a85ab2983149395c74b47cbdbcd2318ac49c5a1a31b0cb7920420349",
+      "origin": "ai"
+    },
+    "dataList[id=Sinking].desc": {
+      "pl": "Przez następne {1} trafienia: {0} stałych obrażeń Poczytalności. (Bez Poczytalności: obrażenia Posępności)",
+      "kr_sha256": "fb36a171f5e8be7b99f96b204e344f3af99f89fbf37293ef56982d130b3d0e3c",
+      "en_sha256": "24b03450b526e107d7dda0c1c615cbbf4ad9f454ad5addbfb513bd220f15f6d3",
+      "origin": "ai"
+    },
+    "dataList[id=Sinking].name": {
+      "pl": "Zatonięcie",
+      "kr_sha256": "591ac96bf0294f71a33366034b7a3607ec3655d4def40516b9c746e5b47a86a7",
+      "en_sha256": "1b3177af2bb09e265df0da55068e1acef48f8d87a46664a508c1fdff7ed342d6",
+      "origin": "ai"
+    },
+    "dataList[id=Sinking].summary": {
+      "pl": "Obrażenia Zatonięcia -{0}",
+      "kr_sha256": "e5300a8f8fc8c8410fc35631cc4e2757e4100477fb57cd9f11fc2e3f66ec0bca",
+      "en_sha256": "4701d81191df7e92fe37eff06211ca156a4de2a2ab264a4d00efaa054da6ad6a",
+      "origin": "ai"
+    },
+    "dataList[id=SlashDamageDown].desc": {
+      "pl": "Zadaje -{0}0% obrażeń Umiejętnościami Cięcia w tej turze (maks. 100%)",
+      "kr_sha256": "4e8f4fb74304b640a870e3879b693b9f5cda9fb028e785caed5bc921a6e3916f",
+      "en_sha256": "579c51de96c94d86ce41afa14b827e194a4b7c46edd48d0b744486e4958a8a10",
+      "origin": "ai"
+    },
+    "dataList[id=SlashDamageDown].name": {
+      "pl": "Spadek Obrażeń Cięcia",
+      "kr_sha256": "f3be3c255bcce57ea5d7f9736ba333ee19380dbbc92f6e408203dd62fc935d2d",
+      "en_sha256": "3ef45a6691135f6d5d1ac8ec1c4c7acb6882dcf07fef74666449d91109366860",
+      "origin": "ai"
+    },
+    "dataList[id=SlashDamageDown].summary": {
+      "pl": "Obrażenia Cięcia -{0}0%",
+      "kr_sha256": "07811c8407b1c1d4466adbe56fd4287ae7e59318b3907bb782653cd77bafbbea",
+      "en_sha256": "462fbf7a09410ebb138977d7890e08159f8c1b37d01101f5427dcf82f5e076ac",
+      "origin": "ai"
+    },
+    "dataList[id=SlashDamageUp].desc": {
+      "pl": "Zadaje +{0}0% obrażeń Umiejętnościami Cięcia w tej turze (maks. 100%)",
+      "kr_sha256": "771b5b24dc648bd4d6f6f36e5798f62c0113e20415ff45340516f38a8da17c22",
+      "en_sha256": "d6cd79ffbcd5c9a731ec83078ea4495c036988058e74b5c50f92a2062026df73",
+      "origin": "ai"
+    },
+    "dataList[id=SlashDamageUp].name": {
+      "pl": "Wzrost Obrażeń Cięcia",
+      "kr_sha256": "c6520b281762786b88ea90a44638cf12375c82b6b6d07cc7c509b22c7f39d482",
+      "en_sha256": "75a077dd970742baec73df252d82cd940a6a9046f11d26d4505928ce808930ec",
+      "origin": "ai"
+    },
+    "dataList[id=SlashDamageUp].summary": {
+      "pl": "Obrażenia Cięcia +{0}0%",
+      "kr_sha256": "07679b755ee1a4f67b75d901c9e19797bb50032e297e17735abf8f4e3070b9f0",
+      "en_sha256": "9bb36e2c3cc6cbb503fe7f190ba2aa3c7d1f24efb72777f0fbc6987b110c77a2",
+      "origin": "ai"
+    },
+    "dataList[id=SlashResistDown].desc": {
+      "pl": "Zwiększa Odporność celu na Cięcie o {0:F1}",
+      "kr_sha256": "64c52b0d084d8c3bc92c331b943e6059be1e26aa83e9698c229f2f12f3ed813d",
+      "en_sha256": "ba8e7d1c83a30c573a87b518892fff82af573c8e5818ba21a005c97fe3eeb2c9",
+      "origin": "ai"
+    },
+    "dataList[id=SlashResistDown].name": {
+      "pl": "Osłabienie Odporności na Cięcie",
+      "kr_sha256": "1aceb8aa036735de591df3c2695499adb7652f6457f1a55185a09d3565dbf369",
+      "en_sha256": "e8e6df72a633ec3c08dbf02c4d62a4411865da9cccf9d52b7cf3533fd1ec94de",
+      "origin": "ai"
+    },
+    "dataList[id=SlashResistUp].desc": {
+      "pl": "Zmniejsza Odporność celu na Cięcie o {0:F1}",
+      "kr_sha256": "70b75aee1a85298b66b04aff597581709ee41bd55e67a4dbcaeb55ef4125aac3",
+      "en_sha256": "35d1dc868d800a26449b8d5724b0249e0c6c24cbef56ff4f1aa29aee11c732df",
+      "origin": "ai"
+    },
+    "dataList[id=SlashResistUp].name": {
+      "pl": "Wzmocnienie Odporności na Cięcie",
+      "kr_sha256": "9eff6fbe2f6ba76dd840e84c61f6a31ea9c4dd1ed37833bb9b8af1526e355610",
+      "en_sha256": "0410d19dbed4e07bd09b4dabc4f826d26e07e354435cfa01c3f3dd2834fe6783",
+      "origin": "ai"
+    },
+    "dataList[id=Target].desc": {
+      "pl": "Staje się celem postaci posiadającej pasyw [Ostre Ostrze]",
+      "kr_sha256": "2c13c72bdeb68dbe18193ab78299f54414889a57ae083f4358ceed0f65ecda4b",
+      "en_sha256": "b05e00ed110252aaddefd2234b047d2082d505c31479d195355fba182f2ad095",
+      "origin": "ai"
+    },
+    "dataList[id=Target].name": {
+      "pl": "Oznaczony",
+      "kr_sha256": "7ab8c7a1c6b05548517409026361b5efc1692e502ad62ebed69ccc97e80c6ccd",
+      "en_sha256": "9a2e1f2d2519b988e481b7e4f1188ff69bc4efbb9196d0ab2c9c22b215745eef",
+      "origin": "ai"
+    },
+    "dataList[id=Taunt].name": {
+      "pl": "Prowokacja",
+      "kr_sha256": "73bf6c1628dcef66356dff6699ea2019fafc6701e90b33efb9d70ec360499858",
+      "en_sha256": "aa1c342daeb99a7dd8a63d75bed9ad127b763c6cd74891b0ce1a090898c7534e",
+      "origin": "ai"
+    },
+    "dataList[id=TimesCoinValueDown].desc": {
+      "pl": "W tej turze Moc Monet Mnożenia -{0}",
+      "kr_sha256": "0fc8f5840689ea9322e816a57184dad626bc063addf251d5b343841f7b2d2282",
+      "en_sha256": "77ec1fd058e70089c76707bb782164deeabf59e45c145d6b3ba6b7a555f3696c",
+      "origin": "ai"
+    },
+    "dataList[id=TimesCoinValueDown].name": {
+      "pl": "Osłabienie Monet Mnożenia",
+      "kr_sha256": "76003d1d48d846b136b771bbb263d21ee1a3ff5c80d59e07c1531d01566b71c9",
+      "en_sha256": "7ec3ed2d9cf60f54e5240f833b2ba64e47e30525ee4d9cf893fc8098d138492b",
+      "origin": "ai"
+    },
+    "dataList[id=TimesCoinValueDown].summary": {
+      "pl": "Moc Monet Mnożenia -{0}",
+      "kr_sha256": "efd0f53b794dbe574158c508ab75d48b05778eda37b3cb21ff4781612087c61d",
+      "en_sha256": "eb2dd683e43059421f1e408eeb05fbdb91868eafcb2c3a2d61894fda6a0a1a88",
+      "origin": "ai"
+    },
+    "dataList[id=TimesCoinValueUp].desc": {
+      "pl": "W tej turze Moc Monet Mnożenia +{0}",
+      "kr_sha256": "8809a53eb95b80c5e4b7397b84b7547ab90cc9495bc18a75d381225277b93401",
+      "en_sha256": "ee7277a42b51a37792da93ac5118e82cae6192ea6f446b23b5dc2e013e7d626b",
+      "origin": "ai"
+    },
+    "dataList[id=TimesCoinValueUp].name": {
+      "pl": "Wzmocnienie Monet Mnożenia",
+      "kr_sha256": "178c231922fe5da3796312c50d1e5a3ec1f3f23858eb671d9e236bd8a56f44c0",
+      "en_sha256": "138b5a22b7f9a0c088caf69b8aae9ffb702515854469583ddcca15017f5928a1",
+      "origin": "ai"
+    },
+    "dataList[id=TimesCoinValueUp].summary": {
+      "pl": "Moc Monet Mnożenia +{0}",
+      "kr_sha256": "cc10d96c521ac0857b6e076d52b85419b8a30ef85d78bd108084134c7b433030",
+      "en_sha256": "415737b939ce23313338230f0d5f98edfb902466de534f54813f74ba77788417",
+      "origin": "ai"
+    },
+    "dataList[id=Vibration].desc": {
+      "pl": "Przez {1} tur przy trafieniu atakami wywołującymi Wyładowanie Wstrząsu Próg Oszołomienia rośnie o {0}",
+      "kr_sha256": "3c29307eb37321483e399173031aa7a2bdff7551e9d706a18de9aa1793921bab",
+      "en_sha256": "5704265e7c6405145436839673a9b4d0c215bd3c6614d95d5fad16c558248af9",
+      "origin": "ai"
+    },
+    "dataList[id=Vibration].name": {
+      "pl": "Wstrząs",
+      "kr_sha256": "8b4519476f7d39b6e3aaa6029c2e06dd7d35b17040ccca042f3c224a3f34464e",
+      "en_sha256": "12b9e407bcba8980b6146c295ae39a3718b8b618ed7445ba1ccab22071c1cd04",
+      "origin": "ai"
+    },
+    "dataList[id=Vibration].summary": {
+      "pl": "Próg Oszołomienia rośnie o {0}",
+      "kr_sha256": "69a47fea11866f68b535ee36544da22841c90f7e0c57622756ad79f846982e20",
+      "en_sha256": "9c58a2545194659a4e85ea8ecbfe96608c005f4645aec234c37d953b694a8ced",
+      "origin": "ai"
+    },
+    "dataList[id=Vulnerable].desc": {
+      "pl": "Otrzymuje +{0}0% obrażeń w tej turze (maks. 100%)",
+      "kr_sha256": "c20d8a7d65e35981481f82d156c61caafe24e70a242afe36269c1bbd3b05ecb1",
+      "en_sha256": "aa3c2c9df41b561dc0b25e33e61832d3a00c59ba72d64f855080fc2d54978858",
+      "origin": "ai"
+    },
+    "dataList[id=Vulnerable].name": {
+      "pl": "Wrażliwość",
+      "kr_sha256": "d640d2980d78a33fe57407d43ed21cf6a3991144b8429a91460292ba4047be1c",
+      "en_sha256": "f9eeb0d150067685e0f72786ddd2723df723e0c50e45b19689bef2f52589ebf7",
+      "origin": "ai"
+    },
+    "dataList[id=Vulnerable].summary": {
+      "pl": "Otrzymuje +{0}0% obrażeń",
+      "kr_sha256": "388de3c2d039d5d3fdff325bcd962280c6c0a8ba4fbf46ac525855f65163e284",
+      "en_sha256": "3a5f31df714d82509e7e1ece12e9c0f737211c6e1d0dbbd08b58cba953c3ca9f",
+      "origin": "ai"
+    },
+    "dataList[id=WaterPocket].desc": {
+      "pl": "Odzyskuje {0} x 20 HP",
+      "kr_sha256": "2310933feb4509fd8d27017191aaf74b171f5cb3c8b1f1af7269aaddde52e2ad",
+      "en_sha256": "652f495717980a2c4dc2b78ec1dacdd03b2d62b9d7d6bca73fc359867e276595",
+      "origin": "ai"
+    },
+    "dataList[id=WaterPocket].name": {
+      "pl": "Sakiewka Wody",
+      "kr_sha256": "9483c804aa854dfda95aae7da80c2eaa8ebc564a30b9a991cafd25605cbb6d70",
+      "en_sha256": "24e873fb91cd8b65080f1cf8a87cd74c3ef06ee68fe8107813d60d94d1e4213b",
+      "origin": "ai"
+    },
+    "dataList[id=WaterPocket].summary": {
+      "pl": "Wzrost Leczenia HP",
+      "kr_sha256": "c9ab872e3c4da0fd8b1a7d1f06708f9b3d3bf448db4c11dc47fb265f9b9f3646",
+      "en_sha256": "9ce890a51a879e2bd56952a70ab1f39ca01d2a3793b8c4da56d2304fb5a51358",
+      "origin": "ai"
+    }
+  }
+}

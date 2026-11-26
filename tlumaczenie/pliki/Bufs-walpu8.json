@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[id=BestWelfareTeamCaptain].desc": {
+      "pl": "- Sloty tej postaci: +1; liczba Umiejętności 1: -1; liczba Umiejętności 3: +1\n- Gdy Umiejętnościami nadaje Moc Podpalenia, Krwawienia, Rozdarcia, Zatonięcia lub Wstrząsu, wartość nadania +2 (również szczególne stany)\n- Podstawowe Umiejętności, które zyskują lub zużywają Amunicję, zadają +30% obrażeń\n- Przy użyciu takich podstawowych Umiejętności leczy 10 Poczytalności u 1 sojusznika z najniższą Poczytalnością (wliczając siebie)\n- Przy zabiciu wroga:\n· +2 zasobu E.G.O atrybutu zabijającej Umiejętności, +1 zasobu każdego pozostałego atrybutu\n· W następnej turze losowo rozdziela pozostałą wrogu Moc i Licznik Podpalenia, Krwawienia, Rozdarcia, Zatonięcia i Wstrząsu między wszystkich wrogów (min. 1)",
+      "kr_sha256": "a63f5a0c4dda0ce988ebabbd8a676c245fe52128895c62d53c1b9aa376c347a0",
+      "en_sha256": "f224065940cd8f02fe51354e401ca870732bf33a464c8264f4dbdb1d75d35011",
+      "origin": "ai"
+    },
+    "dataList[id=BestWelfareTeamCaptain].name": {
+      "pl": "Kapitan Zespołu Dobrobytu",
+      "kr_sha256": "04ac63f950c5a0a44afd1071a6ad115ae8618ad06260cee801b72da45b731e42",
+      "en_sha256": "586ccdb5cffef5615d0b357d45e9362ddde0da2bc092b460ff8a0605bbb48864",
+      "origin": "ai"
+    },
+    "dataList[id=DesperadoBuff].desc": {
+      "pl": "- Maks. stosów: 2\n- Za każdy stos Moc Starcia podstawowych Umiejętności ataku +1, Moc bazowa +1\n- Przy 2 stosach monety plus podstawowych Umiejętności ataku zyskują +1 Mocy, a monety minus -1 Mocy\n- Znika na koniec tury",
+      "kr_sha256": "9ed5dd960611c02fed49f409478e6b36f3aea9d991ef22859623fb0c21e07702",
+      "en_sha256": "468c2006d11314ac17c1f86802081447909c53854aa3e45d3c6389a44ae3bbd6",
+      "origin": "ai"
+    },
+    "dataList[id=DesperadoBuff].name": {
+      "pl": "Desperado",
+      "kr_sha256": "e06917c0efa455e16e64191c7b9d4dba61d89086711ef116d9c05ca631242978",
+      "en_sha256": "57dec91139118eac31a64cc9c9914b6c2068602a27d3e2a3383cb78e4436e12f",
+      "origin": "ai"
+    },
+    "dataList[id=NextHallway].desc": {
+      "pl": "- Na koniec tury wychodzi z Oszołomienia i opuszcza walkę\n(poza wymuszonym Oszołomieniem; nie liczy się jako śmierć)\n- W walkach łańcuchowych przy odwrocie przekazuje liczbę swoich slotów jednostce zastępującej, po czym przenosi się na koniec kolejki jednostek rezerwowych",
+      "kr_sha256": "35635f3ba239ac62f0fe95baaf3cf12e23331a690697d6b5fc10409a145eb1d5",
+      "en_sha256": "f05dfccab3d9eefc3f0923f3d2bffebe971990da8c4ce443c4e436f7b9fbae2c",
+      "origin": "ai"
+    },
+    "dataList[id=NextHallway].name": {
+      "pl": "Wędrówka Stada",
+      "kr_sha256": "a4aa3a511a0c8f8cf04831ac27914191cc4bad97853f28d9ea0f0f7fa18422c6",
+      "en_sha256": "ceb738821e09b3063195745fd462c169e78c9a25a1305bfee8e4a7087e6423d4",
+      "origin": "ai"
+    },
+    "dataList[id=PinkPetals].desc": {
+      "pl": "- Maks. stosów: 30\n- Za każdy stos otrzymuje +1% obrażeń przy trafieniu Umiejętnościami Posępności (maks. 15%)\n- Za każde 10 stosów zyskuje +1 Licznika Zatonięcia przy trafieniu (2 na turę)\n- Po wywołaniu Wybuchu Wstrząsu otrzymuje (Moc Zatonięcia + Różowe Płatki)/5 obrażeń Posępnością\n- Na koniec tury maleje o 1",
+      "kr_sha256": "1df6fdb8d7995fef9f9efd09343a6a9ec884eada5b43d156958d29db00e697ff",
+      "en_sha256": "51d3cce4e0602f09284cfd27dfe0f070b6b5d0c49d83f11653be1867b58b2757",
+      "origin": "ai"
+    },
+    "dataList[id=PinkPetals].name": {
+      "pl": "Różowe Płatki",
+      "kr_sha256": "50af994f92b98fda8a1a581bd57f23183f2088576d375b9fe6e2e96b80db75f9",
+      "en_sha256": "26f254f9a5c877025f5ae67cb439681168ab65115823935457731dfe23c9c48f",
+      "origin": "ai"
+    },
+    "dataList[id=PumpkinJelly].desc": {
+      "pl": "- Maks. stosów: 1\nNa początku tury, przy HP poniżej 60% maks., leczy 30% Maks. HP, a błogosławieństwo znika",
+      "kr_sha256": "39cdf913f71ce1dd9866e02854f6a034140c1679c799375862d5f4472660858e",
+      "en_sha256": "7341475c613934c41744ada04c8d5a809c1f05575863d4568c2eb518ce9186ca",
+      "origin": "ai"
+    },
+    "dataList[id=PumpkinJelly].name": {
+      "pl": "Pomarańczowy BongBong",
+      "kr_sha256": "9ce265b100492c0da268e56eb6d4e91dc738097fbcbd92a243334cedc8761bd0",
+      "en_sha256": "a43d80b86d2c4f14906d8f746e6004f0569115bb1c530d3b3775b27c700e8e7d",
+      "origin": "ai"
+    },
+    "dataList[id=QueenBeeMark].desc": {
+      "pl": "- Za każde 3 Podpalenia na sobie otrzymuje +1% obrażeń przy trafieniu (maks. 20%)\n- Znika na koniec tury",
+      "kr_sha256": "cf8e420bb9073b72fe4c65c412370364d9425403efe469e0bdf8a1fde9bf7eb2",
+      "en_sha256": "b840b5ca715ec1b7b9ca4245eadc0f4ff8c96efcd9a3924166b53aad9e30ad0a",
+      "origin": "ai"
+    },
+    "dataList[id=QueenBeeMark].name": {
+      "pl": "Znak Feromonów",
+      "kr_sha256": "71927739804410f3f35d1dd9302b5adbb4e43f896e5afaf4e57ce16e847bbd2c",
+      "en_sha256": "4ad050c7646373b304e083fb27dbe04cccc5c3b0fb4de1f6436795fe9655aa60",
+      "origin": "ai"
+    },
+    "dataList[id=QueenBeepheromone].desc": {
+      "pl": "- Wartość Prowokacji +10\n- Przy trafieniu nadaje celowi 3 Podpalenia",
+      "kr_sha256": "c246192e2ac33232af4640c36dfce5e254ecbccea0d8dc5bd67ca09007fc030f",
+      "en_sha256": "b839218c84395b41c4e5658e5a327abff4641c415ba547bdd6f52f9e7ecb39f1",
+      "origin": "ai"
+    },
+    "dataList[id=QueenBeepheromone].name": {
+      "pl": "Feromon",
+      "kr_sha256": "29eef1152c51128c0706c7750dc399ef01edaa3b652680a660c2b2f731689e3d",
+      "en_sha256": "14817a147a54352674974b551a2f3d41679919eef8763184efa3cc514df54f1d",
+      "origin": "ai"
+    },
+    "dataList[id=RunHallway].desc": {
+      "pl": "- Maks. stosów: 3\n- Na początku walki traci 1 stos\n- Przy 0 stosach używa na początku tury Umiejętności „Wędrówka Stada”",
+      "kr_sha256": "cc350d95818b89e69c4cf41cc68c62a8a3067e4563cbaabf910da4205c942e81",
+      "en_sha256": "6b8a44c8077581ddeb72dcb89c523eda4e363be054a70bfd3268ba467d835dc1",
+      "origin": "ai"
+    },
+    "dataList[id=RunHallway].name": {
+      "pl": "Przygotowanie do Wędrówki Stada",
+      "kr_sha256": "e2330a9b2f10558a79548636169555d43b3a2a3d99fc5328ab330a71bf32d875",
+      "en_sha256": "8cd2dfd17ce359702831fee70e2b57f85adc0a006c16140e02578df12bbd4432",
+      "origin": "ai"
+    },
+    "dataList[id=TensionUp].desc": {
+      "pl": "- Maks. stosów: 3\n- Za każdy stos zadaje +5% obrażeń Umiejętnościami Gniewu i Żądzy\n- Przy trafieniu otrzymuje (5 x stosy) obrażeń Oszołomienia\n- Znika na koniec tury",
+      "kr_sha256": "9258174fc79c7b0d570bcbc5f808b40bd853b297db6747fa84b364cb31f312d7",
+      "en_sha256": "f3257d2cd162d045bd18625e51abde324f073fcc0cfbec5ed4161126ff5487cd",
+      "origin": "ai"
+    },
+    "dataList[id=TensionUp].name": {
+      "pl": "Rozkręcony",
+      "kr_sha256": "7f5d9b2cd954950edfb031a06ca48e94682e5e39210c442a5d933ae2102102e1",
+      "en_sha256": "dbe321507bd96527ad7e1abed6069a71d5235b531f3021ffe96aac8771fab021",
+      "origin": "ai"
+    }
+  }
+}

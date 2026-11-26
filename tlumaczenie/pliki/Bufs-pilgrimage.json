@@ -1,0 +1,412 @@
+{
+  "entries": {
+    "dataList[id=AbyssalVitality].desc": {
+      "pl": "- Maks. stosów: 100\n- Zużywana przy użyciu określonych Umiejętności\n- Za każdym razem, gdy jest zużywana, odzyskuje Poczytalność równą zużytej liczbie",
+      "kr_sha256": "6d794e945e7bfc3df0e3c297976c14d8796784e17810db2532d91b9b5d303440",
+      "en_sha256": "801593f9dd2a1d0c867fa3d695d32b15f9130fae822eadf755d147e65895c0aa",
+      "origin": "ai"
+    },
+    "dataList[id=AbyssalVitality].name": {
+      "pl": "Witalność Otchłani",
+      "kr_sha256": "066bbb4b91e532af88addfddf9136b6677cd61bb50f2195645f05faf9142ad21",
+      "en_sha256": "922ba521c046c38464765c2c0742e2e427c3cee6c5e5c592aeba81cfecc8bd24",
+      "origin": "ai"
+    },
+    "dataList[id=AbyssalVitality].summary": {
+      "pl": "Zużywana przy użyciu określonych Umiejętności\n- Za każdym zużyciem odzyskuje Poczytalność",
+      "kr_sha256": "039c7b2f47af98e0c5b7fb700ab53c27a8e3cb5ff9bde3accdbc207f9910bec9",
+      "en_sha256": "b1ba286cf2ac22c84ebe2d04716a076d348daed901a39d65c856f2202a6ab8da",
+      "origin": "ai"
+    },
+    "dataList[id=BitOfEmotion].desc": {
+      "pl": "- Przy trafieniu wrogów: (50 / liczba Monet Umiejętności)% szans na 1 Zasób E.G.O Grzechu użytej Umiejętności\n- Gdy po zakończeniu ataku Umiejętnością sojusznika ginie wrog, zyskuje 2 najmniej posiadanych Zasobów E.G.O\n- W tej walce przy użyciu następujących Umiejętności E.G.O odzyskuje po 1 Zasobie E.G.O każdego zużytego Grzechu (2 sztuki przy Przeciążeniu)\n· Pozostać Sobą Hong Lu\n· Rozkaz : Roztopienie Faust\n· Nieolśniewająca Chwała Gregor\n· Elegia Fal Ishmael",
+      "kr_sha256": "33bc7e2326e5bfebc385f969485df44a79617697ade1da29fa9bb4615b127c87",
+      "en_sha256": "577601c05d2cadb3a5a14534cb0cd63216a935c47820f5aa68bbea63662d1c70",
+      "origin": "ai"
+    },
+    "dataList[id=BitOfEmotion].name": {
+      "pl": "Więź Emocjonalna",
+      "kr_sha256": "f8d74b30e55f3604a889030453dc19080df9f2836bb4a2f762aaecaea5385688",
+      "en_sha256": "baaf899af3d6d0d5e122d46cd6edc27642f9b368620ce3efb88754d3f8c00690",
+      "origin": "ai"
+    },
+    "dataList[id=BitOfEmotion].summary": {
+      "pl": "Przy trafieniu lub śmierci wroga zyskuje Zasoby E.G.O\nPrzy użyciu określonych Umiejętności E.G.O zyskuje Zasoby E.G.O",
+      "kr_sha256": "e68035f1244225f845e61531025e4b3829a7ab4e2e47a823883661f4da4bba6f",
+      "en_sha256": "2386bc62903381c103fe798043b3a06e2562fe8ef2e1059e1ff797c2f9097239",
+      "origin": "ai"
+    },
+    "dataList[id=BloodborneDOQ].desc": {
+      "pl": "Otrzymuje +80% obrażeń",
+      "kr_sha256": "72df8ad933898cb262426a5338780be22a865f89a6c53dac33c9b6879047847b",
+      "en_sha256": "6820af14b05ca3ac08ab247f09b21c8b3388b325f2e439c8f4d23e345b2910ec",
+      "origin": "ai"
+    },
+    "dataList[id=BloodborneDOQ].name": {
+      "pl": "Ciało Rycerza",
+      "kr_sha256": "1f9c913458d4737716ce9a38dfdd057b5310e11fefe4f5dc9b0d46d278ce89f5",
+      "en_sha256": "b2022b0b945f5c586bcc4059924a36c2b810a33248cb318961023933bddd47be",
+      "origin": "ai"
+    },
+    "dataList[id=CallOfSea_LowMorale].desc": {
+      "pl": "Na koniec tury zużywa 3% HP, by nakładać na wszystkich sojuszników, łącznie z sobą, 1 Wzrost Mocy Ataku i 1 Wrażliwości w następnej turze",
+      "kr_sha256": "84fec443beaf316f26f668f87ae9a4208ab4238d3349cd710a632a5ae431526a",
+      "en_sha256": "fece2359c6142663d0717cabb45584dbb5970eeac94056c6827b9672c60a72bd",
+      "origin": "ai"
+    },
+    "dataList[id=CallOfSea_LowMorale].name": {
+      "pl": "Wołanie Pokrewnych",
+      "kr_sha256": "17ccef331a9d73ac8b2777034c24db473df9fc90e283be50fba1edb81b95d7e0",
+      "en_sha256": "782a675f62602d5a65c0765689985aec6ed62fbd983236205f316081f8efe850",
+      "origin": "ai"
+    },
+    "dataList[id=CallOfSea_LowMorale].summary": {
+      "pl": "Zużywa HP, by nakładać na sojuszników Wzrost Mocy Ataku i Wrażliwość",
+      "kr_sha256": "0359fc95cbfd39e76edd0e2b774e322d4fa7ac17b2dfaa2576882d5e47c0ded2",
+      "en_sha256": "d3d93f6d8f320a3e4dbb236ba538a26551864823f962e78f65095ea782eb0b43",
+      "origin": "ai"
+    },
+    "dataList[id=CallOfSea_Panic].desc": {
+      "pl": "Na koniec tury zużywa 5% HP i zyskuje 1 Wrażliwości, by nakładać na wszystkich sojuszników, łącznie z sobą, 1 Wzrost Mocy Ataku i 1 Wrażliwości w następnej turze",
+      "kr_sha256": "f81e7b64a6ff577fb0d602091fbfbe16cfaea5734b7d5a340d61e5729d323bc1",
+      "en_sha256": "c042b1e84996910432632345a2d8c06575a5db31955046df41d77a0b80f4e12c",
+      "origin": "ai"
+    },
+    "dataList[id=CallOfSea_Panic].name": {
+      "pl": "Wołanie Pokrewnych",
+      "kr_sha256": "17ccef331a9d73ac8b2777034c24db473df9fc90e283be50fba1edb81b95d7e0",
+      "en_sha256": "782a675f62602d5a65c0765689985aec6ed62fbd983236205f316081f8efe850",
+      "origin": "ai"
+    },
+    "dataList[id=CallOfSea_Panic].summary": {
+      "pl": "Zużywa HP, by nakładać na sojuszników Wzrost Mocy Ataku i Wrażliwość",
+      "kr_sha256": "0359fc95cbfd39e76edd0e2b774e322d4fa7ac17b2dfaa2576882d5e47c0ded2",
+      "en_sha256": "d3d93f6d8f320a3e4dbb236ba538a26551864823f962e78f65095ea782eb0b43",
+      "origin": "ai"
+    },
+    "dataList[id=ColdAirDOQ].desc": {
+      "pl": "- Maks. stosów: 3\n- Traci 1 Szybkości za każdy stos Chłodu\n- Jeżeli na koniec Umiejętności ma 3 stosy: otrzymuje 20 obrażeń Posępności i 20 obrażeń Poczytalności, a w tej i następnej turze zyskuje 1 Zamarznięcia\n- Chłód znika po wywołaniu wszystkich efektów\n- Na koniec tury znika, jeżeli w tej turze nie zaatakował Ostatniego Rycerza",
+      "kr_sha256": "b38263c902852aff82edd146b50accba69abd5be296cb6a477669a5686a7ec29",
+      "en_sha256": "1575ada5a1f02b7b1751759656ad259352e933881ab95945534cfdac2a49d0ae",
+      "origin": "ai"
+    },
+    "dataList[id=ColdAirDOQ].name": {
+      "pl": "Chłód",
+      "kr_sha256": "cc703217a2ec235b27abdf1c961dc7bacf14180fd2f0a2185e347e0a8506e26c",
+      "en_sha256": "f151cd9e12c8994edfa316e4624f956bc68460454869177f287146f8cc956a12",
+      "origin": "ai"
+    },
+    "dataList[id=DOQ_LowMorale].desc": {
+      "pl": "Wszystkie odporności zmieniają się na Zwykłą",
+      "kr_sha256": "db61df9cb7ab112d4a9aef60534d59912e2c675ea6ac18053d8315d1ac2ffa5c",
+      "en_sha256": "9b2b77656c931cef7977f475cdc1bc317c8ab6231db6bb7ec4d21e4994b5174c",
+      "origin": "ai"
+    },
+    "dataList[id=DOQ_LowMorale].name": {
+      "pl": "Świadomość Roju",
+      "kr_sha256": "f925c434e1d72b1c49b50e3152bdbeed1ec27a4f74197c7b16352c55089b7ebe",
+      "en_sha256": "bdaf994abf60e256fa58fd47ab4dcf8d988ad5967e8f89631e70e43fddda6c0c",
+      "origin": "ai"
+    },
+    "dataList[id=DOQ_LowMorale].summary": {
+      "pl": "Wszystkie odporności zmieniają się na Zwykłą",
+      "kr_sha256": "db61df9cb7ab112d4a9aef60534d59912e2c675ea6ac18053d8315d1ac2ffa5c",
+      "en_sha256": "9b2b77656c931cef7977f475cdc1bc317c8ab6231db6bb7ec4d21e4994b5174c",
+      "origin": "ai"
+    },
+    "dataList[id=DOQ_Panic].desc": {
+      "pl": "Wszystkie odporności zmieniają się na Zwykłą\nPodwaja Siłę Podpalenia, Krwawienia, Wstrząsu i Rozdarcia otrzymywaną przez Umiejętności",
+      "kr_sha256": "bd96fa9c0d1c85c0e165eed6bda5297577c5021145780b0f15af973f85d6ba45",
+      "en_sha256": "bc833d2ddbe256c442a163ec991d5d7700a843d7c5737d4731a31791aa8567ed",
+      "origin": "ai"
+    },
+    "dataList[id=DOQ_Panic].name": {
+      "pl": "Świadomość Roju",
+      "kr_sha256": "f925c434e1d72b1c49b50e3152bdbeed1ec27a4f74197c7b16352c55089b7ebe",
+      "en_sha256": "bdaf994abf60e256fa58fd47ab4dcf8d988ad5967e8f89631e70e43fddda6c0c",
+      "origin": "ai"
+    },
+    "dataList[id=DOQ_Panic].summary": {
+      "pl": "Wszystkie odporności zmieniają się na Zwykłą\nPodwaja Siłę Podpalenia, Krwawienia, Wstrząsu i Rozdarcia otrzymywaną przez Umiejętności",
+      "kr_sha256": "bd96fa9c0d1c85c0e165eed6bda5297577c5021145780b0f15af973f85d6ba45",
+      "en_sha256": "bc833d2ddbe256c442a163ec991d5d7700a843d7c5737d4731a31791aa8567ed",
+      "origin": "ai"
+    },
+    "dataList[id=DesireToSave_LowMorale].desc": {
+      "pl": "- Zadaje +(Uszkodzenia Nerwów celu / 2)% obrażeń (maks. 15%)\nNa początku tury zyskuje 1 Wzrost Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "68c0ed3ca5374fed18bac81875e9021ab1bb47df83ddefdc439a7c42a1548e2a",
+      "en_sha256": "bec78ca39ba01be77f74a51fdc0124883c398e65563d592c770ac9817ae447db",
+      "origin": "ai"
+    },
+    "dataList[id=DesireToSave_LowMorale].name": {
+      "pl": "Serce Współczucia",
+      "kr_sha256": "263c1dbb7f031671cb5eb25cd6dba4fc6dbebf887458e16b03e6bec4ddcc754e",
+      "en_sha256": "8b89ea02caf422d7e4e817682427528d9604f56344bc4766c9a0c474e31bda67",
+      "origin": "ai"
+    },
+    "dataList[id=DesireToSave_LowMorale].summary": {
+      "pl": "Zadaje więcej obrażeń zależnie od Uszkodzeń Nerwów celu",
+      "kr_sha256": "bf77bca75de28b598e09902780a264f398f6ce02f7ba9773e2cb85a232d7d4ed",
+      "en_sha256": "0ec385e56a45b41eca32dac687a31d87ede28759a2af5159a4622a18d8eb2256",
+      "origin": "ai"
+    },
+    "dataList[id=DesireToSave_Panic].desc": {
+      "pl": "- Zadaje +(Uszkodzenia Nerwów celu)% obrażeń (maks. 30%)\n- Na początku tury zyskuje 2 Wzrostu Obrażeń i 3 Wrażliwości",
+      "kr_sha256": "63dd4d466217d50b2182b878bb32b0d03e2a141feafb530e9d06d4ba269f4bd4",
+      "en_sha256": "9b05b85c7c095570496b07ac900ef16671fdcd6df99fefadc60434b23bf0669e",
+      "origin": "ai"
+    },
+    "dataList[id=DesireToSave_Panic].name": {
+      "pl": "Serce Współczucia",
+      "kr_sha256": "263c1dbb7f031671cb5eb25cd6dba4fc6dbebf887458e16b03e6bec4ddcc754e",
+      "en_sha256": "8b89ea02caf422d7e4e817682427528d9604f56344bc4766c9a0c474e31bda67",
+      "origin": "ai"
+    },
+    "dataList[id=DesireToSave_Panic].summary": {
+      "pl": "Zadaje więcej obrażeń zależnie od Uszkodzeń Nerwów celu",
+      "kr_sha256": "bf77bca75de28b598e09902780a264f398f6ce02f7ba9773e2cb85a232d7d4ed",
+      "en_sha256": "0ec385e56a45b41eca32dac687a31d87ede28759a2af5159a4622a18d8eb2256",
+      "origin": "ai"
+    },
+    "dataList[id=ExternalUpgradeModule].desc": {
+      "pl": "- Przez 3 tury po zdobyciu tego efektu zyskuje na początku każdej tury 2 Wzrost Mocy i 2 Wzrost Obrażeń (jednostki wchodzące z Rezerwy zyskują od tury wejścia)",
+      "kr_sha256": "d944522affb1ac68b65e78b080c77f313890d3a788ab3b1f5320ce01c11654d9",
+      "en_sha256": "3a493d76f97b8d53789fa7b26a08061b4a89a6921d30b9ee7bdf97e841b5ebf3",
+      "origin": "ai"
+    },
+    "dataList[id=ExternalUpgradeModule].name": {
+      "pl": "Little Handy - Moduł Zewnętrznych Ulepszeń",
+      "kr_sha256": "db73524e94979db341a9f04e9504dca1376d83b04702bdc54cb9a3b28bca2026",
+      "en_sha256": "1d8941853119350cd390f5ad925cd25ef8e07b5758aaec8619fcd9cac67b5e26",
+      "origin": "ai"
+    },
+    "dataList[id=ExternalUpgradeModule].summary": {
+      "pl": "Przez 3 tury po zdobyciu efektu zyskuje Wzrost Mocy i Wzrost Obrażeń",
+      "kr_sha256": "2e70f2e1aaf2e09af85322560904c0acaf63a9f3edb36b261c7d7d28b4c5e4cb",
+      "en_sha256": "d0e9f5531afc62fbc74530309e0ee5d681bb5ca8f5b75d59482e03786a251697",
+      "origin": "ai"
+    },
+    "dataList[id=FreezingDOQ].desc": {
+      "pl": "- Specjalny Chłód\n- Nie może działać w tej turze\n- Przy HP 1 wybrane aktywacje Umiejętności są unieważniane",
+      "kr_sha256": "1284d9880f69d0efe84f5550636977418f2f18ead434dcacb6964d7722f01fbb",
+      "en_sha256": "8d91b2f463e6f079470576f9c6df59868c9924010b6f3e94a4264a3e5e3d7785",
+      "origin": "ai"
+    },
+    "dataList[id=FreezingDOQ].name": {
+      "pl": "Zamarznięcie",
+      "kr_sha256": "ebd482c252f11b861e32e86b7306b45beb00cb554a48ab6c3fccc1146d13b7be",
+      "en_sha256": "8fdac69c6fe9cdbc7838eb4a48aa6f6bcfc35088370847233061054f30f25b34",
+      "origin": "ai"
+    },
+    "dataList[id=HousekeepingAssistantModule].desc": {
+      "pl": "- Przy aktywacji Ręki Świętego aktywuje się ponownie raz w następnej turze\n- Na początku tury zyskuje Wzrost Poziomu Ataku i Wzrost Poziomu Obrony równy liczbie usunięć Piętna Głębin przez Rękę Świętego w tej walce (każdy maks. 4)",
+      "kr_sha256": "8ac041418a8a07ea5430ca91bd2764a3ebe19b5e84d7a7e49bc0154bed2c0cda",
+      "en_sha256": "324fe830a14696b78c1df259182fbfa6bae8025647e226171433714557b8e25e",
+      "origin": "ai"
+    },
+    "dataList[id=HousekeepingAssistantModule].name": {
+      "pl": "Little Handy - Moduł Pomocy Gospodarczej",
+      "kr_sha256": "b8e241972537fd61c8840efa0578bbfb8f1cd4ce5d1b75a90eac5203e4d24319",
+      "en_sha256": "0d56e6194efb62b9a4dd9f1e8882ddb3a5f24a1264bc9f7630d3f70cfee5a8f3",
+      "origin": "ai"
+    },
+    "dataList[id=HousekeepingAssistantModule].summary": {
+      "pl": "Przy aktywacji Ręki Świętego aktywuje się ponownie raz w następnej turze\nZyskuje Wzrost Poziomu Ataku i Wzrost Poziomu Obrony równy liczbie usunięć Piętna Głębin",
+      "kr_sha256": "1b90bc089f920bbb163f216889da10252900e46fca61efa5af18270225f1c938",
+      "en_sha256": "3e122a659ae0c39cfcde9f28fdc83fc15ab4b6534d0ad74131f52ab441da0732",
+      "origin": "ai"
+    },
+    "dataList[id=IncrementalMotionFirmware].desc": {
+      "pl": "- Usuwa 1 najwyższy Próg Oszołomienia z każdej jednostki sojusznika\n- Przy Oszołomieniu natychmiast wychodzi z Oszołomienia na początku następnej tury (1 raz)",
+      "kr_sha256": "00cc050fa6e249f36e060b1880c62ce1163d82ac920f02f63dbbbdc3d45157c5",
+      "en_sha256": "c4222dcebffee248cfd544bc04cb7ba7a9e4f8407d041c21499e86f889dc545c",
+      "origin": "ai"
+    },
+    "dataList[id=IncrementalMotionFirmware].name": {
+      "pl": "Little Handy - Firmware Przyrostowego Ruchu",
+      "kr_sha256": "3f514e1535b6059634d442b5051e8d4e426bdfc56ba379cfffd2af9ff695e05e",
+      "en_sha256": "283aec35c1c02a07fbf890e95102e78f15d0958096fd3b52fb146907a225f74a",
+      "origin": "ai"
+    },
+    "dataList[id=IncrementalMotionFirmware].summary": {
+      "pl": "Usuwa jeden Próg Oszołomienia\nPrzy Oszołomieniu natychmiast wychodzi z Oszołomienia w następnej turze",
+      "kr_sha256": "aeff846e6bfb3112eb9feb4af002563f1ec86bbe0bb9c980053b5aee61137a31",
+      "en_sha256": "6879b4abe33bb29c7ea9fb000646806b9652bf09416821731c0f14e2dcccbe97",
+      "origin": "ai"
+    },
+    "dataList[id=IndelibleGoodwill].desc": {
+      "pl": "- Na koniec tury Tarcza nie znika (chyba że zniknęła od obrażeń lub efektów)\n- Gdy Tarcza pęknie od trafienia, zostaje oszołomiona i zyskuje 5 Wrażliwości do następnej tury\n- Gdy zostaje oszołomiona przez podniesiony Próg Oszołomienia, zyskuje 5 Wrażliwości do następnej tury\n- Wrażliwości zdobyte dzięki temu buffowi się nie kumulują\n- HP Tarczy może się kumulować; podczas tego efektu HP Tarczy nie może przekraczać 50% Maks. HP chronionej jednostki\n- Ten efekt liczy się jako „Zarządzanie Tarczą” (zastępowany przy zdobyciu innego efektu Zarządzania Tarczą)",
+      "kr_sha256": "5b0dc43aa589428dd6959d414ac99287638a6be88a3a61addc576c04164b7bc8",
+      "en_sha256": "00c91c3c96f876ac28d6284eb7103a9388170dd3a4ce9e79ae03671347db3611",
+      "origin": "ai"
+    },
+    "dataList[id=IndelibleGoodwill].name": {
+      "pl": "Niewymazywalne Współczucie",
+      "kr_sha256": "dd5c5a8903b6a27ea22e5ae7bac7344a40c7db8060206c8fe1d2adec694ae031",
+      "en_sha256": "8440ab79fe570831e1db91bce48a6e841314d5ffd4730927e2aafa88c6e016bf",
+      "origin": "ai"
+    },
+    "dataList[id=IndelibleGoodwill].summary": {
+      "pl": "Na koniec tury Tarcza nie znika\nGdy Tarcza pęknie, jednostka staje się bardzo podatna",
+      "kr_sha256": "465f8b91fa52bb17725e3cdf67f5f6187cbbfd9aae6f4cfec67ac61046b089aa",
+      "en_sha256": "1c26bb61a03f72d67810153661af71132750afb5572f0c0c0d4f862a5fbca463",
+      "origin": "ai"
+    },
+    "dataList[id=MiniDecontaminationKit].desc": {
+      "pl": "- Piętno Głębin nie zadaje już sojusznikom obrażeń ani nie nakłada Uszkodzeń Nerwów",
+      "kr_sha256": "7ddc0d0ebb325e521d3093f546a23aea4edb0a9848258b1bccb4621aba8d26e5",
+      "en_sha256": "8a7e36d9e2188d2d9663c8a71ae3416130c5bae22122ef07a7faa6d897ae24ed",
+      "origin": "ai"
+    },
+    "dataList[id=MiniDecontaminationKit].name": {
+      "pl": "Little Handy - Mini Zestaw Odkażający",
+      "kr_sha256": "8841fe2d1b771d8d73962831310ec11d81e7a279c40d3ebbd43a7d78d175fe6a",
+      "en_sha256": "a631b3058a05179c5cca9dcda6a29da5e27a9e3847cfc0b5b991ae6a1e982f17",
+      "origin": "ai"
+    },
+    "dataList[id=MiniDecontaminationKit].summary": {
+      "pl": "Piętno Głębin nie zadaje już sojusznikom obrażeń ani nie nakłada Uszkodzeń Nerwów",
+      "kr_sha256": "8c245e276f9fcc0598eb30272b842595ea0056f73fcb1ae6044efdb22ca9ae78",
+      "en_sha256": "696d5a56d381cf1702a2692da88fb4b2bbe1f72a2cfcf470d735e48d34da4a04",
+      "origin": "ai"
+    },
+    "dataList[id=NervousImpairment].desc": {
+      "pl": "- Maks. stosów: 30\n- Przy 30 stosach zostaje oszołomiony, a następnie otrzymuje obrażenia stałe równe 25% HP i traci ten efekt",
+      "kr_sha256": "04e0bcc385b69f8beb108e25cd7ba3c3863ec8062203ff6a65e422865016b87e",
+      "en_sha256": "3db055ee5712670ac1dbe71b379c12f661d44b07f262fa327db5c363304807e9",
+      "origin": "ai"
+    },
+    "dataList[id=NervousImpairment].name": {
+      "pl": "Uszkodzenie Nerwów",
+      "kr_sha256": "4449c9b67b532710a8222a801334b9b90f4f65fb82e5a92b80795774ab5cc14e",
+      "en_sha256": "5f5a80fe255c2f45f87501ec29cd641a35522f730e154f43b5a2a9f8fe86df77",
+      "origin": "ai"
+    },
+    "dataList[id=NervousImpairment].summary": {
+      "pl": "Zostaje oszołomiony i otrzymuje znaczne obrażenia HP",
+      "kr_sha256": "918a8522ea995369017ceef1fa7c0a38855c1ad1ea7b9ef8fe5ca0b6d7fda626",
+      "en_sha256": "64a17bdb2ed33b15ce9b1f5210743fed00050f3100df5e25f4a8e74f5a046530",
+      "origin": "ai"
+    },
+    "dataList[id=NetherseaBrandUnit].desc": {
+      "pl": "- Grzesznicy na Piętnie Głębin na koniec tury otrzymują obrażenia stałe równe 5% HP i zyskują 3 Uszkodzenia Nerwów\n- Sea Terror na Piętnie Głębin znacznie zwiększa nakładane na Grzeszników Uszkodzenia Nerwów\n- Z każdą turą wpływy Piętna Głębin rozszerzają się na Grzeszników\n· 1. stopień: terytorium Sea Terror\n· 2. stopień: 2 Grzeszników z przodu\n· 3. stopień: 5 Grzeszników z przodu\n· 4. stopień: wszyscy Grzesznicy",
+      "kr_sha256": "b025919e26908a0412da1e82e37bc288629917ebf09417aedbdf8ce352c37b7e",
+      "en_sha256": "903d914d0399d0bc105831a9b42759ff32b7a703fffa27df8a060cf6f56e6642",
+      "origin": "ai"
+    },
+    "dataList[id=NetherseaBrandUnit].name": {
+      "pl": "Piętno Głębin",
+      "kr_sha256": "6292d870e169a2e9d6e91d2a365fea59a72b2018b75c1e5455ee6a6dc4f68888",
+      "en_sha256": "9f2c8598313e6abfb13dda6d681f4033266c4a5080df6a78481fb13ced44b07c",
+      "origin": "ai"
+    },
+    "dataList[id=NetherseaBrandUnit].summary": {
+      "pl": "Sojusznicy na Piętnie Głębin otrzymują obrażenia stałe i zyskują Uszkodzenia Nerwów.\nWrogowie na Piętnie Głębin znacznie zwiększają nakładane na sojuszników Uszkodzenia Nerwów",
+      "kr_sha256": "d9f710273af716aaaddca8baba6ace602bb59ee361ea8b4330f8cdd609a40399",
+      "en_sha256": "167b1009f62ef12884d7fa16f19f156d9fbe7a248ecf2efe4fc23b037e9eb6e1",
+      "origin": "ai"
+    },
+    "dataList[id=NetherseaBrand].desc": {
+      "pl": "Z każdą turą wpływy Piętna Głębin rozszerzają się na Grzeszników.\n- 1. stopień: terytorium Sea Terror\n- 2. stopień: 2 Grzeszników z przodu\n- 3. stopień: 5 Grzeszników z przodu\n- 4. stopień: wszyscy Grzesznicy",
+      "kr_sha256": "faa986596e433213c03ec93435f25452e08608257e739bbd4c141cdb30ad5c8d",
+      "en_sha256": "a50fff8fd228978a0b2defbad61904a30a3fe1256b28ec1eaa87d05d7ec12fad",
+      "origin": "ai"
+    },
+    "dataList[id=NetherseaBrand].name": {
+      "pl": "Piętno Głębin",
+      "kr_sha256": "6292d870e169a2e9d6e91d2a365fea59a72b2018b75c1e5455ee6a6dc4f68888",
+      "en_sha256": "9f2c8598313e6abfb13dda6d681f4033266c4a5080df6a78481fb13ced44b07c",
+      "origin": "ai"
+    },
+    "dataList[id=NetherseaBrand].summary": {
+      "pl": "Piętno Głębin rozszerza się z każdą turą",
+      "kr_sha256": "b5de9ff4e05b838101ef8ae2b8f80e6a9a7173e5d66a623f481689d6bf6a477c",
+      "en_sha256": "0cff40384e723fb1a58b4db1eeffed65427b01b69c514e6f8024680fa91c15b6",
+      "origin": "ai"
+    },
+    "dataList[id=ParticipationMod].desc": {
+      "pl": "- Po otrzymaniu obrażeń jednostka przystępuje do używania Umiejętności ataku.\n- Na początku tury w stanie Bojowym:\n· Nakłada 3 Uszkodzenia Nerwów wszystkim wrogom\n· Min. i Maks. Szybkość +3\n· Zyskuje 1 Wzrost Poziomu Ataku za każde 10% brakującego HP (maks. 8)\n- Na koniec tury w stanie Bojowym otrzymuje obrażenia stałe równe 10% HP",
+      "kr_sha256": "d278362a6b7c0ef774bb38135a5f0fb631a4d32c19e7f2bf1334966a873ab367",
+      "en_sha256": "3fa4ac0594c826149baf00ca3738d63a2cd3d8012d55d9b0c607df651dbf8f2b",
+      "origin": "ai"
+    },
+    "dataList[id=ParticipationMod].name": {
+      "pl": "Stan Bojowy",
+      "kr_sha256": "48d2c6bfdd0d2f2c5c76cd8c072d08aaf5774cac45e6f6c3094a8ead2f9aa360",
+      "en_sha256": "0223d6a2265a5192e2304d26b65f33ac2b01454e3709e48d8b0a87d80da013ce",
+      "origin": "ai"
+    },
+    "dataList[id=ParticipationMod].summary": {
+      "pl": "Po otrzymaniu obrażeń jednostka przystępuje do używania Umiejętności ataku",
+      "kr_sha256": "cf499457cd50dc857b35f021fffb0d09f364614721a58d2c8bbcf65f3ff3f409",
+      "en_sha256": "64b6cd90bcea0ca70f39ae98ea7dc46208cbec1c6f0a878a585f2ed68eea2278",
+      "origin": "ai"
+    },
+    "dataList[id=SeaTerrorCell].desc": {
+      "pl": "- Maks. stosów: 5\n- Na początku tury rośnie o 1\n- Zyskuje 1 Spadek Poziomu Ataku i 1 Spadek Poziomu Obrony za każdy stos\n- Na koniec tury, jeżeli sojuszniczy Grzesznik ma 5 stosów, opuszcza pole bitwy.\n- Jeżeli sojuszniczy Grzesznik ma ten efekt i rozpoczął walkę z wyposażoną Umiejętnością obrony, opuszcza pole bitwy na koniec tury",
+      "kr_sha256": "15a7611d6bae5025ef12045e238c6c6f47883cbf8be093e814e2eb610ba2ef1e",
+      "en_sha256": "d1c11431730b0e9e9e900fe25a47b5a754f713c4bef7d7836b8c0ca72d7223e6",
+      "origin": "ai"
+    },
+    "dataList[id=SeaTerrorCell].name": {
+      "pl": "Asymilacja Sea Terror",
+      "kr_sha256": "634b1c43e6d90450c2f92e818f6ace4dbac56242d6c7a50b60312e12595114c9",
+      "en_sha256": "58a3b6d3caa24812352a155d6ff6938f997ad60afc73a3c326c2a3a84d55aaa4",
+      "origin": "ai"
+    },
+    "dataList[id=SeaTerrorCell].summary": {
+      "pl": "Zyskuje Spadek Poziomu Ataku i Spadek Poziomu Obrony zależnie od stosów",
+      "kr_sha256": "5a98ebe42d2feebe86a99033cc3a01067527aabdd28e1e43c3c9b3047cc3543e",
+      "en_sha256": "04105133726729e61bc2458bb31ab824f258f3255b77e4ade36b6cda68222c21",
+      "origin": "ai"
+    },
+    "dataList[id=WaitingforCommandMod].desc": {
+      "pl": "- W stanie Oczekiwania jednostka nie używa Umiejętności ataku, dopóki nie otrzyma obrażeń",
+      "kr_sha256": "61adf1ebb1086154787262f1ab4dd0e3de59a3b065532e60a13978efc0785a5a",
+      "en_sha256": "6ad935731048b1a23eccc311399e95366a06ab11b96382a8ba43f69c00f6d902",
+      "origin": "ai"
+    },
+    "dataList[id=WaitingforCommandMod].name": {
+      "pl": "Stan Oczekiwania",
+      "kr_sha256": "9173285132e3a18a5c7375081918586dc257ed3222c9985abe498dc16d2a68b6",
+      "en_sha256": "67cb3ee7c4b6e18118ce81a6ae5ecc357ccddc9636d1a0b27af834e6b4c80721",
+      "origin": "ai"
+    },
+    "dataList[id=WaitingforCommandMod].summary": {
+      "pl": "W stanie Oczekiwania jednostka nie używa Umiejętności ataku, dopóki nie otrzyma obrażeń",
+      "kr_sha256": "b7c03b2b79cead9e0b7411de51eda88a35d452d38b789f8e210c689a858cbe72",
+      "en_sha256": "64b3c760fa8c1043c6bf48c47d2818009000340fcabe9f5ddf85ded10526b85b",
+      "origin": "ai"
+    },
+    "dataList[id=WeakenDOQ].desc": {
+      "pl": "- Poziom Ataku -??\n- Poziom Obrony -??",
+      "kr_sha256": "79fd228e780a7a478c9dd1e182b4ccfdc6b849c45b7248aaf8022351137bfdfe",
+      "en_sha256": "bf19dd760ca7789a180516a6d916b03b1c97ed15e9dd725a8dfd25bd578be2d3",
+      "origin": "ai"
+    },
+    "dataList[id=WeakenDOQ].name": {
+      "pl": "Nędza i Klęska",
+      "kr_sha256": "4b276b5b4a735a82f1ae65851a122490f195cbcc3463971fb5426c5b85e607c2",
+      "en_sha256": "3f8a3547ec6b88499aec29575006257815de2c65f817c54bba3fdce4fb3656a9",
+      "origin": "ai"
+    },
+    "dataList[id=WildernessSurvivalModule].desc": {
+      "pl": "- Maks. HP +20%. Leczy +40% więcej przez Umiejętności, pasywne i efekty buffów",
+      "kr_sha256": "cc1ef4f43c81eae77d460611b39b3c1949d7a710be4260247790691cb73be4a9",
+      "en_sha256": "ab3e9c06d5f88fc1c79a4f6698622e41458c895fbfea703f8cbbc0aa3c6f6522",
+      "origin": "ai"
+    },
+    "dataList[id=WildernessSurvivalModule].name": {
+      "pl": "Little Handy - Moduł Przetrwania w Terenie",
+      "kr_sha256": "679a376ecb542339c50ede51dff83f1dceaa48e7a9949109942c4444ba243258",
+      "en_sha256": "de9641c810611f58220c175ec3672aaf13b14cdedc28ee56cac58895c69bf2dd",
+      "origin": "ai"
+    },
+    "dataList[id=WildernessSurvivalModule].summary": {
+      "pl": "Zwiększa Maks. HP i ilość leczenia",
+      "kr_sha256": "5a7720888a7b588f4e111382421c610722bf9ff8d64444b081221ce3d97b3738",
+      "en_sha256": "cd583a21d32764785032da2cf58a27ec4b663ea20f5ad116f4f9059b0803a1d8",
+      "origin": "ai"
+    }
+  }
+}

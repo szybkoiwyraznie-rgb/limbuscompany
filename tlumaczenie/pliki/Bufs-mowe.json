@@ -1,6 +1,24 @@
 {
   "entries": {
+    "dataList[id=BloodPocket_LowMorale].desc": {
+      "pl": "Na początku tury zyskuje 1 Wrażliwości i 1 Wzrost Obrażeń",
+      "kr_sha256": "05e685d063bc51e466e94d5ec90026c4fccbebc0af98d345728bc217c26d94b4",
+      "en_sha256": "64c85f35eec4c3c93446795a5b5b978bb93ff0c3bf670d64524224fe576d72db",
+      "origin": "ai"
+    },
     "dataList[id=BloodPocket_LowMorale].name": {
+      "pl": "Krwiożerczość",
+      "kr_sha256": "d37ff8ae4e6ac6bbba179acd36c6e9460b8733f1f04b5143852fb3a42f3a96e7",
+      "en_sha256": "17701dc653fe8799adbc4620bc254bdf2ec6165fafcd91afeae0009aba3cb4f1",
+      "origin": "ai"
+    },
+    "dataList[id=BloodPocket_Panic].desc": {
+      "pl": "Na początku tury zyskuje 2 Wrażliwości i 2 Wzrostu Obrażeń",
+      "kr_sha256": "ad926e7ef0116c112ec8710ba1c03aa32ec95979a2849f173fcc683ac4bea8d7",
+      "en_sha256": "9ed4665da8dd16741a62a20f2d4503ad92ebbe6540e3ed53bcc0e19fd5535ea3",
+      "origin": "ai"
+    },
+    "dataList[id=BloodPocket_Panic].name": {
       "pl": "Krwiożerczość",
       "kr_sha256": "d37ff8ae4e6ac6bbba179acd36c6e9460b8733f1f04b5143852fb3a42f3a96e7",
       "en_sha256": "17701dc653fe8799adbc4620bc254bdf2ec6165fafcd91afeae0009aba3cb4f1",
@@ -16,6 +34,18 @@
       "pl": "Krwawa Żądza",
       "kr_sha256": "1ffb11c405dcdfc7a72748e2d37e3c4e09503f022d1928ddd0ac0068b73d2331",
       "en_sha256": "3b8189333af51dc0ec3043bed31a90d147ea781503f104de7220da7555e5bee0",
+      "origin": "ai"
+    },
+    "dataList[id=HardenedBlood].desc": {
+      "pl": "Zyskuje Poziom Ataku i Poziom Obrony równy wartości (maks. 5)",
+      "kr_sha256": "97ed609623db8575adfe450443fba75b51a1c654f46d1a66a981479dec23305c",
+      "en_sha256": "843408313b7dbc5b0928593b2a77de27b190145d5efe6696b72cea2b0eafd0d6",
+      "origin": "ai"
+    },
+    "dataList[id=HardenedBlood].name": {
+      "pl": "Skrzepnięta Krew",
+      "kr_sha256": "bec8d79aa0f380f90f0f2962549f716ac2fd5564623b7c922784a5b995227df1",
+      "en_sha256": "7bdc83dc0c801588be2622fa64c74134335b3f5a7bacc1450dac2995e58f4c25",
       "origin": "ai"
     },
     "dataList[id=KeptBlood].desc": {

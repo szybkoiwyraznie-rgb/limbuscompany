@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=BlackCloudBladeEnemy].desc": {
+      "pl": "- Maks. stosów: 1\n- Siła Cięcia +1\n- Przy trafieniu Umiejętnościami Cięcia nakłada 1 Krwawienie",
+      "kr_sha256": "c00f196744368de3ddcafae006f4ea74a6628b8cef38b7b6dfd16e7f20f2a5e9",
+      "en_sha256": "0bbb9309a890d1ce64b319edb42ce3fd0b3d0b964959655145bf4fb37980ac8f",
+      "origin": "ai"
+    },
+    "dataList[id=BlackCloudBladeEnemy].name": {
+      "pl": "Ostrze Czarnej Chmury",
+      "kr_sha256": "84160b15fea33de16a223dd7718e4e4519dc6f45f1b4d2d55893d6502d3af9ad",
+      "en_sha256": "73d0f8c98753701fd9a5a9a0bee5c8ee6a5f58c657426d70b7bb32e23d8b9959",
+      "origin": "ai"
+    },
+    "dataList[id=ElectricPolePower].desc": {
+      "pl": "- Maks. stosów: 10\n- Przy trafieniu Wyładowaniem Wstrząsu traci 5 stosów (raz na Umiejętność)\n- Przy trafieniu Umiejętnościami Lenistwa traci 1 stos (raz na Umiejętność)\n- Otrzymuje -100% obrażeń od Umiejętności poza Lenistwem\n- Nie może zostać oszołomiony",
+      "kr_sha256": "afe1e22a2a12d794daf1a4d264bfe57bc08b77629aeae40c78ab8521c49d851a",
+      "en_sha256": "16a1c5fca3fb1a3971a8a6e17e3e255d5babdfe10c5bbad8e7fca3556b965d0b",
+      "origin": "ai"
+    },
+    "dataList[id=ElectricPolePower].name": {
+      "pl": "Wysokonapięciowe Wyładowanie",
+      "kr_sha256": "1568c25f26f094e0e7533c752cae572bc38284d9477e7fd7c4ba7f757ca4954e",
+      "en_sha256": "4aedb627b3723c97ed24e5d8c870854b0cd3dbff80ee0c6741ee70a4a1f4b8c7",
+      "origin": "ai"
+    },
+    "dataList[id=EngageToBattleEnemy].desc": {
+      "pl": "- Maks. stosów: 1\n- Siła i Licznik Krwawienia nakładane efektami Umiejętności lub Monet: +1\n- Na czas tej walki zyskuje 1 Wzrost Mocy Cięcia i 3 Wzrost Obrażeń Cięcia",
+      "kr_sha256": "2a20ccda5a7ee68ce4b4ff8c9d98c6eceb437193ea11612a4fc24e886258e424",
+      "en_sha256": "d0c61d6a182f03b9cddac264359fa61332d065af56af3d01baf799678a8f9320",
+      "origin": "ai"
+    },
+    "dataList[id=EngageToBattleEnemy].name": {
+      "pl": "Gotowość Bojowa",
+      "kr_sha256": "a2c9fb78df8bf34e456162822d7f880d4f6c995adf0287a23f2ec1bb02e5a4ae",
+      "en_sha256": "ae37fcfcd0b53181e36372c2c03e866acc61ebd6f7008706b13183934eaf347e",
+      "origin": "ai"
+    },
+    "dataList[id=InkwashShadow_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wzrost Obrażeń i 1 Wrażliwości",
+      "kr_sha256": "463302fcd13d55a26b4a55e10340eb1e78b9feed0ca424cb63827abb6cb0feda",
+      "en_sha256": "3c5e13227124687e49b52aa9a5483700db0931c0b71cd846b97bf7c80f2a97d1",
+      "origin": "ai"
+    },
+    "dataList[id=InkwashShadow_LowMorale].name": {
+      "pl": "Bezczelna Pycha",
+      "kr_sha256": "6d43680d9eb7f07dcc19b45226e52239503b8868e071043b6091250513970365",
+      "en_sha256": "53fb85f14281ac6178b2decd0efca9b0d4aeb5553cb17bc63c842bff07d32aaa",
+      "origin": "ai"
+    },
+    "dataList[id=InkwashShadow_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wzrostu Obrażeń i 2 Wrażliwości",
+      "kr_sha256": "2814ae6af727d50f9c675a5c7e031857d01a00c88a73b41ea554b401947c8136",
+      "en_sha256": "2b5c2cc0e338c82c1fd5b5cf1fc1802d02823a8ad81efe761aa3e45eaaeca503",
+      "origin": "ai"
+    },
+    "dataList[id=InkwashShadow_Panic].name": {
+      "pl": "Bezczelna Pycha",
+      "kr_sha256": "6d43680d9eb7f07dcc19b45226e52239503b8868e071043b6091250513970365",
+      "en_sha256": "53fb85f14281ac6178b2decd0efca9b0d4aeb5553cb17bc63c842bff07d32aaa",
+      "origin": "ai"
+    },
+    "dataList[id=SharpSensibility].desc": {
+      "pl": "- Maks. stosów: 100\n- Przy trafieniu Monetami Umiejętności, gdy „Battō Shisei” jest wyposażone w slot, zyskuje 10 stosów (1 raz na Umiejętność)\n- Zużywana przez określone Umiejętności",
+      "kr_sha256": "098c5d2f5a9675cdd33e3c9b33dbf4c71bafdce3f797fa451d2bdd8a4a439443",
+      "en_sha256": "0bd534fb4b3e56b7b03bae5cacccbd574867c602cc746a406ed9e43e374761a5",
+      "origin": "ai"
+    },
+    "dataList[id=SharpSensibility].flavor": {
+      "pl": "„Umysł skupia się na trzonie w dłoni, ostrze wyskakuje z pochwy. Mgnienie oka — i ktoś już leży na deskach. Miecze brzęczą, a przed oczami przebiega granica życia i śmierci... Nie ma lepszej zabawy.”",
+      "kr_sha256": "580b73fd6c2f1873faa66c1c7a8a7811dbb8f521becb7100ed9510dc25fe90bd",
+      "en_sha256": "6599c70b31d8d32cf107f956035c938c543a4901aa171bdabc20f337e96a66b9",
+      "origin": "ai"
+    },
+    "dataList[id=SharpSensibility].name": {
+      "pl": "Rozkosz Rzeźbienia Ostrzem",
+      "kr_sha256": "67b3bdbe9f272adf6ea9e351c2782aba94fe7540f35be1a5c3a9f3dd18b22a3b",
+      "en_sha256": "2664bbf9d048b1a124d3d0d3a4d7cd1efb8fce5b194e2f095392704d53ae857e",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperSchema].desc": {
+      "pl": "Sprzątanie kończy się po {0} turach",
+      "kr_sha256": "675ce9835320eafd57c570e33da84957dbda96c0ca163d12e66859b9cd0d8f0f",
+      "en_sha256": "9869447eedfa9b53e2e214c697f74a1fd44863f31625bb5c637ee0e7526fbac0",
+      "origin": "ai"
+    },
+    "dataList[id=SweeperSchema].name": {
+      "pl": "Czas na Sprzątanie",
+      "kr_sha256": "7d0c3c957036f74500c4bc717a8935e4656243b5ba0dc9be508966b68cc13ad3",
+      "en_sha256": "f62c74a7932c876580530205aefc8bf75edb7be40cbd1122882ff66414197122",
+      "origin": "ai"
+    }
+  }
+}
