@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=MosesPurpleBreathBind].desc": {
+      "pl": "- Maks. stosów: 4\n- Na koniec tury traci HP i Poczytalność równą wartości\n- Na koniec tury Moses traci HP i Poczytalność równą wartości\n- W następnej turze zyskuje 2 Wrażliwości, 3 Spętań i 3 Osłabienia Monet Plus\n- Przy wywołaniu efektu traci 1 stos",
+      "kr_sha256": "98171bda90a0b31ed42dbe55ad84adeff79a72ac74713ddbc1dacd25cffc05cd",
+      "en_sha256": "fec59450f438aad95c48b65fb61201d115435e762d972e1d957976393d82e8c6",
+      "origin": "ai"
+    },
+    "dataList[id=MosesPurpleBreathBind].name": {
+      "pl": "Fioletowy Oddech - Histeria",
+      "kr_sha256": "47a0107d99e2186e026ba7591e86474ad97cbcb04fe06f367ab690fa2e51b74f",
+      "en_sha256": "829111691feb92f39a3a2bea59c2330295a9c11e2597bbb5e0a6993395205afc",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathBody].desc": {
+      "pl": "- Poziom Ataku i Poziom Obrony rosną o (Poczytalność / 10) (zaokrąglone w dół)\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "4f5644515300e22602a2e5899aa82e255dbc125e86564ad7b2614d9bd75a6625",
+      "en_sha256": "d5e244516f88259ec00a394d7fbc46a5ac4e578747ad22b4585f4538ee54bed8",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathBody].name": {
+      "pl": "Czerwony Oddech - Wzmocnienie Ciała",
+      "kr_sha256": "f8f66e93b7d4028556ba55e9c1ded689211519a7e88d0430568ed21cd5cddffd",
+      "en_sha256": "d429583a47999d679dd5cc8b2f5155a4e9fcc4fecd28512f44960212d3c7c81d",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathShield].desc": {
+      "pl": "- Na początku tury zyskuje 30 Tarczy na tę turę",
+      "kr_sha256": "eb271b7f724dc1cace7d96670a07c60ab976b5b016e978fde2579122f23559a6",
+      "en_sha256": "6ae64dd18095c755518f2918285b4ddfdf959354aab457a4b5e48b5f51e095fe",
+      "origin": "ai"
+    },
+    "dataList[id=MosesRedBreathShield].name": {
+      "pl": "Czerwony Oddech - Ochrona",
+      "kr_sha256": "c14408cffc56cc5a080babcc4febc339b37fafa1bbe2d69afa16a2b4e6c30cfd",
+      "en_sha256": "5a01349fba2f786176c008d64b4f8643132390971813e40c54a6ab5d52797421",
+      "origin": "ai"
+    },
+    "dataList[id=MosesWhiteBreathMental].desc": {
+      "pl": "- Odzyskiwana Poczytalność z podstawowych warunków wzrostu Poczytalności rośnie o 5\n- Tracona Poczytalność z podstawowych warunków spadku Poczytalności maleje o 5\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "dda2ff90c6cbd4ccb2d6a4243a2e1f8c0cd4bb26febe7927de49cc3ad824070a",
+      "en_sha256": "9fe8a4908a765e07bd931e2be10dde1883de50c8effd64c300449add5465e724",
+      "origin": "ai"
+    },
+    "dataList[id=MosesWhiteBreathMental].name": {
+      "pl": "Biały Oddech - Osłona Umysłu",
+      "kr_sha256": "b56f0073d9b3ce510e7010f46731e562921114bf103cded3e6684d10699fa88a",
+      "en_sha256": "d17eb8d71455e4ee718e0ad11247e8e6eb2200752c93001a3c0341c3f684687e",
+      "origin": "ai"
+    }
+  }
+}

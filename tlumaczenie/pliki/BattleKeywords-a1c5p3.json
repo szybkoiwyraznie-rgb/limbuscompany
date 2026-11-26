@@ -227,6 +227,18 @@
       "kr_sha256": "2b75b44459f2b77353b3b14eb0bdc063ebd3478fdccda6188b1c74dce3a87d2d",
       "en_sha256": "de461859082d74863600cac17287fc4f6a7233a57e38e69d688120398466d004",
       "origin": "ai"
+    },
+    "dataList[id=AaCePcBt].desc": {
+      "pl": "Po zakończeniu Umiejętności ataku Ahaba jednostka wykonuje 1 Atak Jednostronny na cel, którego Ahab zaatakował.\nUmiejętność użyta w ten sposób ma takie same wartości i efekty Monet oraz Poziom Ataku jak Umiejętność „Z rozkazu...” tej jednostki.",
+      "kr_sha256": "a082d2f003e795d1b7ca3ec77f1ddb3be851e3754b52d9d7fa090c05f24fd693",
+      "en_sha256": "3df5857d103d69694dce01348a554afac91091bbb0940fe7ddf2c4c912a8f882",
+      "origin": "ai"
+    },
+    "dataList[id=AaCePcBt].name": {
+      "pl": "Atak Wsparcia",
+      "kr_sha256": "e84ade3a18591786a0403849dccb6cf27a3414964bccb70d4c85692ff59f0ced",
+      "en_sha256": "d0bb0f597419f3332e1f4f11c4999a016843d1d445d32f639639f57bd95d45c6",
+      "origin": "ai"
     }
   }
 }

@@ -1,0 +1,448 @@
+{
+  "entries": {
+    "dataList[id=AffectionTeddy].desc": {
+      "pl": "- Maks. wartości: 9\n- Gdy atakujący atakuje cel z tym efektem, zyskuje Moc Starcia równą liczbie stosów\n- Na koniec tury maleje o 1",
+      "kr_sha256": "8942cd460e21c3f4744dbb671b309150536cd4f5331dd4075dfff9d90f29014a",
+      "en_sha256": "d48e6f9d0886bf3e093f175b67bc49c731fc8e80b8110b98888249267b66368d",
+      "origin": "ai"
+    },
+    "dataList[id=AffectionTeddy].name": {
+      "pl": "Przywiązanie",
+      "kr_sha256": "b2bf1d591ea8dd2cffd662f67f1a0f505013cce4b6571a395f007489dc81943f",
+      "en_sha256": "040d2b3689dd1d4c9661e938f4633914f2c0aa0a1fbc3bc0047f554c0b16fd20",
+      "origin": "ai"
+    },
+    "dataList[id=BloodArmor].desc": {
+      "pl": "- Maks. wartości: 10\n- Twarda Krew 1. stopnia\n- Służy specjalnym Umiejętnościom",
+      "kr_sha256": "038bb083fe3cff0bcc748dea3f7fa3e8ec10f40481e0f9468a0278255c4b1773",
+      "en_sha256": "4479e3a326de515b96cb93d7068f101a8b4d9a211420378e7c4d3acbc35ae025",
+      "origin": "ai"
+    },
+    "dataList[id=BloodArmor].name": {
+      "pl": "Twarda Krew",
+      "kr_sha256": "953e3acc380ba25b5276a99fe7aeb1311b2a3e40daca35173a78cf0dfa6513df",
+      "en_sha256": "3d81490e6ceaf6bee11c9c2cbc6cb9c5857f64f1428cdcef580acd4771448d7d",
+      "origin": "ai"
+    },
+    "dataList[id=BloodArmor_2nd].desc": {
+      "pl": "- Maks. wartości: 20\n- Twarda Krew 2. stopnia\n- Na początku tury zyskuje 1 Poziomu Ataku i 1 Poziomu Obrony za każde 6 wartości\n- Podnosi Min. i Maks. Szybkość o 1\n- Służy specjalnym Umiejętnościom",
+      "kr_sha256": "37c3089a2449dfd52442077cf62d6107d31cf07cdbe1c926d83f59d1a2197e4d",
+      "en_sha256": "0de250641bc306fd1a9804601039c7ff239001aab895f69c95908b97f24488b3",
+      "origin": "ai"
+    },
+    "dataList[id=BloodArmor_2nd].name": {
+      "pl": "Twarda Krew II",
+      "kr_sha256": "7710e9130b44215ce624591caf56551bed8e54d63614aea439e0101f666bef3c",
+      "en_sha256": "dea10cb2ad516fd983f2f045e72a8db59834d3c428d6307782ff50158ec9796b",
+      "origin": "ai"
+    },
+    "dataList[id=BloodArmor_3rd].desc": {
+      "pl": "- Maks. wartości: 30\n- Twarda Krew 3. stopnia\n- Na początku tury zyskuje 2 Poziomu Ataku i 2 Poziomu Obrony za każde 6 wartości\n- Podnosi Min. i Maks. Szybkość o 2\n- Służy specjalnym Umiejętnościom",
+      "kr_sha256": "11e0b6c5779c9b69a68ecae98a6df41dd475dac3b0093c0e496c6b2e265fb9e8",
+      "en_sha256": "35fa80d698f23a2f1058e52dce1611c9f73e43440dc1c849c63fa1ed9c367bb1",
+      "origin": "ai"
+    },
+    "dataList[id=BloodArmor_3rd].name": {
+      "pl": "Twarda Krew III",
+      "kr_sha256": "9a1a9efd255ba43f064b2bfad7ed08e29595d1ca7a28b36f0b5b6859d5ca1ce1",
+      "en_sha256": "11f7b39ecacfbfe2d58fe7337b9a4596a15c0a4a41a12a723df82ac9ac82c694",
+      "origin": "ai"
+    },
+    "dataList[id=BloodDinner_Common_Accumulation].desc": {
+      "pl": "Łączna liczba Krwawej Uczty skonsumowanej w tej walce",
+      "kr_sha256": "8911102137d64876e10724a8a2d58e5c68eaa19851794a9ea9e0884eaf087fbe",
+      "en_sha256": "422b5566d61e76fbdbb027f5d188ec5d8214ff048fc1a9e726dee2917d14f614",
+      "origin": "ai"
+    },
+    "dataList[id=BloodDinner_Common_Accumulation].name": {
+      "pl": "Krwawa Uczta (wspólna)",
+      "kr_sha256": "8f0629741826ed003bbfe9d84351cf05a76608c0227decf256ded39aeb7fa577",
+      "en_sha256": "5af6cf591252a9a423dc65b4e7d107bec31e730a62e3ed5ddc5d4590e8045d7e",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyHand_2nd].desc": {
+      "pl": "- Efekty zdobywające Krwawą Dłoń zdobywają zamiast tego ten efekt\n- Maks. wartości: 20\n- Wartość bazowa: 10\n- Zyskuje 1 Poziomu Ataku za każde 6 stosów",
+      "kr_sha256": "109b2d43bdc5ecfee629d30b957f41ef2d25abd7a4ba91e4c9e4bb6fd4ef19f4",
+      "en_sha256": "031f8f69c1dfce9385ea690e8f643cb08c7c5275bc383128746ce89b4aa321c2",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyHand_2nd].name": {
+      "pl": "Krwawa Dłoń II",
+      "kr_sha256": "719ecba24751533e493669525cbf95b595c4da75b45d47d4d158fcac856d3aa2",
+      "en_sha256": "336ba42c4baab8d970c3197f6d0ada6c9d78c207647cb4893ec061d271c55fe3",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyHand_3rd].desc": {
+      "pl": "- Efekty zdobywające Krwawą Dłoń zdobywają zamiast tego ten efekt\n- Maks. wartości: 30\n- Wartość bazowa: 20\n- Zyskuje 1 Mocy Ataku\n- Przy 30 stosach Umiejętności tej jednostki nakładają przy trafieniu dodatkowe 2 Rozdarcia i +1 Licznika Rozdarcia\n- Przy 30 stosach Umiejętności tej jednostki nakładają przy trafieniu po 3 Siły Krwawienia na sobie i na celu",
+      "kr_sha256": "5244b1d9997eaf2c618abf1cfd180e74c637947ea53665aede85eef491e8858d",
+      "en_sha256": "16b75b1056143926d2a3d474f2b5b5cedace42f538133844dc0012d1a3a938a0",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyHand_3rd].name": {
+      "pl": "Krwawa Dłoń III",
+      "kr_sha256": "51238f3018ac83b5000379b6b83733d0e07b8390d1997b553103a29e685d68dd",
+      "en_sha256": "0ded07236f281cb8146cf4c3b54adc01cb504dcc3084cc8e41281bb50a82b679",
+      "origin": "ai"
+    },
+    "dataList[id=ConfinementOfGoldenBranch].desc": {
+      "pl": "- Podstawowy Poziom Ataku -30\n- Podstawowy Poziom Obrony -30",
+      "kr_sha256": "d1cdd9c5bbf28069789b789bde51c925b63b19fbefa3663bfaffefc2d93a2711",
+      "en_sha256": "97b30f45883e8af307836e67a4637d4267e75e94b359627eb8bdc620e606d48c",
+      "origin": "ai"
+    },
+    "dataList[id=ConfinementOfGoldenBranch].name": {
+      "pl": "Przymusowy Arbitraż Złotej Gałęzi",
+      "kr_sha256": "e66aa0cea110c78393b856b075066047a951087d119de03d67c1cfefebbfde69",
+      "en_sha256": "3720e22ee41c67cbf2dc64b9ed0cbc100338b99a03700f6dd8500b02e6316192",
+      "origin": "ai"
+    },
+    "dataList[id=CursePackage].desc": {
+      "pl": "- Maks. wartości: 1\n- Na koniec tury zyskuje 1 Spadek Mocy Ataku, 1 Spadek Mocy Obrony, 2 Spadku Poziomu Ataku i 2 Spadek Poziomu Obrony, a wartość maleje o 1",
+      "kr_sha256": "6179704b5cbff261eac52e0b1e79e5dda9ea0914e819fcf1afae2d4394de3217",
+      "en_sha256": "ff983c6133e31cdbe5eb802e0714759f262db3cfeec4bb4c15bd77fca4e825dd",
+      "origin": "ai"
+    },
+    "dataList[id=CursePackage].name": {
+      "pl": "Pakunek Klątw",
+      "kr_sha256": "e08a5ad77d6cacc63a9369e930bb1e3d8df24297a8edcb3acb434535d7bdd785",
+      "en_sha256": "2ff7c3d7eec1f169f23710eb980871d7af756243dda489589d16b147882b2490",
+      "origin": "ai"
+    },
+    "dataList[id=DecreamentalDefense].desc": {
+      "pl": "- Rany z poprzedniej walki jeszcze się nie zagoiły.\n- Maks. HP drastycznie maleje\n- Na początku tury zyskuje dodatkowo 1 Spadek Poziomu Obrony za każdą zsumowaną turę (maks. 15)",
+      "kr_sha256": "00a13f722765424c0ad29fd28fa37a233aa5c67d8746f53ec80ac82cb2dea8a0",
+      "en_sha256": "e0efa4a4333f7d6c627409d7b9640cd19d9c1b5af2ff094f47dec38562241a6a",
+      "origin": "ai"
+    },
+    "dataList[id=DecreamentalDefense].name": {
+      "pl": "Wyniszczająca Rana",
+      "kr_sha256": "3700f85c5bfd33bcb8d5e9a876cef6bc3819113f637afda3d5b43f2d1f33fadf",
+      "en_sha256": "d34c8d0daed26fd164bda9de1f154a6e0a820632b015ec82cd0d50cec01765ee",
+      "origin": "ai"
+    },
+    "dataList[id=Dreamy].desc": {
+      "pl": "- Podstawowy Poziom Ataku -35\n- Podstawowy Poziom Obrony -35",
+      "kr_sha256": "d9bb0e436788d2a9af4bd15b9fb072f78583e169ff6a085c3993a52d9ac7e2a4",
+      "en_sha256": "6240a37cef9ef5dcc8403723965fda3932d513c48e6920ce1775f99434b71ba9",
+      "origin": "ai"
+    },
+    "dataList[id=Dreamy].name": {
+      "pl": "Senne Wahanie",
+      "kr_sha256": "a53497aa8dafbe4f316ee0d57c25037c1b497afb98fd0dee469dfdd96c35ac2c",
+      "en_sha256": "64eb907a87e30b91b336fc15f6f3a19f337a6d063011e8be9864060690d86cba",
+      "origin": "ai"
+    },
+    "dataList[id=FaintMemory].desc": {
+      "pl": "- Wartość bazowa: 10\n- Na początku tury zyskuje Wzrost Poziomu Obrony równy liczbie stosów\n- Po przegranej w Starciu maleje o 1",
+      "kr_sha256": "760c5579c89e86a36d547dbf52de326100d8506e6594f0b17a31706b5dcc49d9",
+      "en_sha256": "a84cc12051159110fa3713802bdd18878f951a50cb5a8a14ca4b3f852f43c3e7",
+      "origin": "ai"
+    },
+    "dataList[id=FaintMemory].name": {
+      "pl": "Zamglone Wspomnienia",
+      "kr_sha256": "ac14699d135554792fb833fd49633bdea0d9fbfd2bd11085faadf0cec6ab5a48",
+      "en_sha256": "17952e9f0b494dabb7da8563d2f279494ac612de0461c5352c6280d09cfc64a8",
+      "origin": "ai"
+    },
+    "dataList[id=FerrisWheel].desc": {
+      "pl": "Maleje o 1 za każdą pokonaną Gondolę.\nJeżeli wartość wynosi 0, a w następnej turze nie pojawi się żadna jednostka, następuje przejście do następnej fazy.",
+      "kr_sha256": "dd7352adf28a5ac71998221be79b64885fdcbef133417d3577b678e06397ade1",
+      "en_sha256": "58c9279ce23262700601bfc106b192c9ccb1c107588068a876ac00d96e29666c",
+      "origin": "ai"
+    },
+    "dataList[id=FerrisWheel].name": {
+      "pl": "Wieczny Diabelski Młyn",
+      "kr_sha256": "d3a998e18663dc370c5c3b26bb683408aa649f593695fda14be12a5009f40d16",
+      "en_sha256": "4d2b79a4327034edb5f94a7727694d9d2c691354a9a1d09103bc517959b29a7f",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHopeTwo].desc": {
+      "pl": "Moc Starcia +4 za każdą wartość\nNa początku walki nakłada Tarczę na siebie i wszystkich sojuszników",
+      "kr_sha256": "f42c12ca670ff474b2a1dc1cadc55f23cf01129b29c1aedfdd6ff38df004ce63",
+      "en_sha256": "1c4f686f5ffb9c0a8efe02bec64fa1b231705f1a4f6a739a64f0846a001d500f",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHopeTwo].name": {
+      "pl": "O tym, jak Sancho, nasza Don Quixote, odmówiła zakończenia snu",
+      "kr_sha256": "d5e785d61af4eef55f8bd2d57cb255eb20500b2a73a21063ba0feb1ce08a3774",
+      "en_sha256": "f7b4ecbd4ada793cfd76075449b5bf6772ffdf3eb3ca3c3b94ab2835692511be",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHope].desc": {
+      "pl": "Zyskuje Moc Starcia równą wartości",
+      "kr_sha256": "7555ce325e0775958f06b73ddf9790b69428516f89465bad038179a555828ecb",
+      "en_sha256": "6e7fac05bf1adb84fe5266d39dbe827a1f1498ab64bf09efe7205a5345f8d2ca",
+      "origin": "ai"
+    },
+    "dataList[id=FragmentOfHope].name": {
+      "pl": "W którym mowa o autobusie, towarzyszach i przygodach,",
+      "kr_sha256": "cd96a21c69fcd7b01a11a269f476fd4942ef0860486d858b73346a0d2559436f",
+      "en_sha256": "38be18398603c19f382e89a76f4c372114eb516476ac3a192ba017a558771ce9",
+      "origin": "ai"
+    },
+    "dataList[id=Guilt_LowMorale].desc": {
+      "pl": "Na koniec tury w następnej turze zyskuje 1 Wrażliwości i Spadek Wydajności Leczenia Poczytalności",
+      "kr_sha256": "8fe5ef03a3d17ed5507244d50c7ad88d914b07292427fffbc56d4f97b86caa07",
+      "en_sha256": "0f1f840535c1346bf1871a34f1e4e7a51c7c7040316319aeb642e03a9672c30a",
+      "origin": "ai"
+    },
+    "dataList[id=Guilt_LowMorale].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "184e0c9c5104878691c80ad8a34a0ba7d00a43406b9ebc61062f2e366f0f617f",
+      "en_sha256": "c831578aec5635b68f0c4e82506d8278c86f2b3a37e55d7df60ff663ae4313a2",
+      "origin": "ai"
+    },
+    "dataList[id=Guilt_Panic].desc": {
+      "pl": "Na koniec tury w następnej turze zyskuje 2 Wrażliwości i Spadek Wydajności Leczenia Poczytalności",
+      "kr_sha256": "c3acc704ab47ff2f7852eed1053fb08cde91f7307e4eaf498d173b87b08c0bb7",
+      "en_sha256": "345167b2b027037d84391fec8722bec794733f4d780e20c75c05655d3f65a64a",
+      "origin": "ai"
+    },
+    "dataList[id=Guilt_Panic].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "184e0c9c5104878691c80ad8a34a0ba7d00a43406b9ebc61062f2e366f0f617f",
+      "en_sha256": "c831578aec5635b68f0c4e82506d8278c86f2b3a37e55d7df60ff663ae4313a2",
+      "origin": "ai"
+    },
+    "dataList[id=MentalIncreaseDown].desc": {
+      "pl": "Efektywność leczenia Poczytalności maleje o liczbę stosów",
+      "kr_sha256": "4ff70e34b134df2bb2446017400a7155c8332a5b6847a562ea6a183c5cec5cf2",
+      "en_sha256": "d78896c57be1f555eccbdaf6fc3f3a1484f996e19921e40f1b6f09e9079d4674",
+      "origin": "ai"
+    },
+    "dataList[id=MentalIncreaseDown].name": {
+      "pl": "Słabsze Leczenie Poczytalności",
+      "kr_sha256": "2e231526b70ed7a3ae97eb37eb2c10018643454244110990c6d7e7acaa6428cd",
+      "en_sha256": "6c181c427abccd001c31a8d34cd3769002868c579b903747b8c0b34e2c7fc78e",
+      "origin": "ai"
+    },
+    "dataList[id=OneDropNutrition].desc": {
+      "pl": "- Maks. 10 stosów\n- Za każde wyleczenie 10% Maks. HP atakami leczącymi HP zyskuje 1 stos\n- Wyświetla procent wyleczonego HP",
+      "kr_sha256": "4766d85842c84147e41a4470c356cfd989f4c25f3c6587bcb307e9b0dd1fc290",
+      "en_sha256": "c3305cdec5e1ebd3836d4a540f10cb728a1200eb76ea22f0a1d76d04aa52ce91",
+      "origin": "ai"
+    },
+    "dataList[id=OneDropNutrition].name": {
+      "pl": "Kropla Pożywienia",
+      "kr_sha256": "e5c979217ba811f2c812aa4df96dc9104945e503cf76ba581bc94db9afee0b47",
+      "en_sha256": "1a233930f80e192dc3ff614218943c28344ff346688739bfcc0bf8a02e82fa48",
+      "origin": "ai"
+    },
+    "dataList[id=Penetration].desc": {
+      "pl": "Przez 2 tury nie może działać; nad sojusznikiem pojawia się jednostka Przebijającej Włóczni.",
+      "kr_sha256": "cfd86f8d74b222e87d8cd4e112f5669efac2395bc69baca0f122892603bd76fe",
+      "en_sha256": "481b601525112c2f9f58e33551e4465e179de1b797cf4a83796668ccb5ce930e",
+      "origin": "ai"
+    },
+    "dataList[id=Penetration].name": {
+      "pl": "Zastygająca Krew",
+      "kr_sha256": "2009b32d4c10b3df93089284778378ef61f558e2b705bd8c284746e75d317e3e",
+      "en_sha256": "b3a2a19e7ea64a18d218a9261bebea188063abf8776856acbcf4c8b7abfada21",
+      "origin": "ai"
+    },
+    "dataList[id=Precarious].desc": {
+      "pl": "Ginie przy trafieniu przez Don Quixote.",
+      "kr_sha256": "86ce67649d9718f76011200ff72c9ea5cb61baa19c9161d9f74698c68bfa0eb7",
+      "en_sha256": "a918daaf92a940c6d2d4c510644d7588c210db53680161f148949e7293785ce0",
+      "origin": "ai"
+    },
+    "dataList[id=Precarious].name": {
+      "pl": "Nieodpowiedzialny Sen",
+      "kr_sha256": "35adef283c2b3cc8912f8f62db4712d295a82bcd5fb7ad5e893166af02197b2e",
+      "en_sha256": "4b8dee66beff05671174038d209bd4af52c3b49c652e185c3383bf912edacb80",
+      "origin": "ai"
+    },
+    "dataList[id=RegainedStrength].desc": {
+      "pl": "- Maks. wartości: 10\n- Powracający Popęd Krwi 1. stopnia",
+      "kr_sha256": "3751a6516dc9d5ab3151bb829e885815638e4abf3c4777bf693508fb7d7243a0",
+      "en_sha256": "08ddc4c0951fd7b1750a230893f03e4f15c5a7dd46d95638f751fae9c3af2d24",
+      "origin": "ai"
+    },
+    "dataList[id=RegainedStrength].name": {
+      "pl": "Powracający Popęd Krwi",
+      "kr_sha256": "62e298cb9dcd5630b23ec0435c249af19b4e464fadd64de65795b07ec44a53ce",
+      "en_sha256": "a0f9f2b3349b482704ae60cd2424280ac2b37870fcbe2b12e81b0584da77bb68",
+      "origin": "ai"
+    },
+    "dataList[id=RegainedStrength_2nd].desc": {
+      "pl": "- Maks. 20\n- Powracający Popęd Krwi 2. stopnia\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Poziomu Obrony za każde 5 wartości\n- Umiejętności zużywające Powracający Popęd Krwi zyskują Moc Starcia +1 i nakładają o 1 więcej Siły i Licznika Krwawienia oraz Rozdarcia",
+      "kr_sha256": "82ebddbcc109fc9e9d97c672b909b92bee94936ae9c0fdc488f418714eedefcb",
+      "en_sha256": "9b5a4ee0d3f546a3a62ea46d178de106e84dc1ee02c58823777cc6e3882ce65d",
+      "origin": "ai"
+    },
+    "dataList[id=RegainedStrength_2nd].name": {
+      "pl": "Powracający Popęd Krwi II",
+      "kr_sha256": "697bd0c84d5150d0bd63d38400ab29c3ac68e1447c48b8d839b82ff113c5b46a",
+      "en_sha256": "f9eda8a7339028f7a9abb279f170a92e76568cf7640341b08e6f16565a0ace86",
+      "origin": "ai"
+    },
+    "dataList[id=RegainedStrength_3rd].desc": {
+      "pl": "- Maks. 30\n- Powracający Popęd Krwi 3. stopnia\n- Na początku tury zyskuje 2 Wzrostu Poziomu Ataku i 1 Wzrost Poziomu Obrony za każde 5 wartości\n- Umiejętności zużywające Powracający Popęd Krwi zyskują Moc Monety +1 i nakładają o 1 więcej Siły i Licznika Krwawienia oraz Rozdarcia",
+      "kr_sha256": "1bcebc9c83e6fd3b56938a266e3f246aaf5bc7bc2d4bdce80018ea01bdec790b",
+      "en_sha256": "e97cbd68662325575ea20b69c82d89c32190b5334ea7b69c37a4425ef6bef615",
+      "origin": "ai"
+    },
+    "dataList[id=RegainedStrength_3rd].name": {
+      "pl": "Powracający Popęd Krwi III",
+      "kr_sha256": "4acd9afe25ba17c118eeec21fa4ec592b889bab2add6632ad091cfa9cec2c44e",
+      "en_sha256": "8c5e6e381b1285a0fa5fbec427ab0827d0179b360721cfd7b170298da894b5a4",
+      "origin": "ai"
+    },
+    "dataList[id=RoseWedge].desc": {
+      "pl": "- Maks. Siły: 10\n- Maks. Licznika: 4\n- Zyskuje 1 Siły za każde otrzymanie 10 obrażeń Krwawienia\n- Przy otrzymaniu od trafienia Krwawienia lub Specjalnego Krwawienia z efektu Umiejętności zyskuje 2 Krwawienia i nakłada 1 Krwawienie na atakującego. (maks. 5 razy na turę)\n· Przy 10 Siły, podczas wywołania powyższego efektu, zyskuje dodatkowo +1 Licznika Krwawienia.\n- Na koniec tury traci 1 Licznika\n- Po zakończeniu walki, przy 10 Siły lub 1 Liczniku, efekt znika, a jednostka otrzymuje (Siła x 10) obrażeń Żądzy.\n- Przy śmierci jednostki z tym efektem lub zniknięciu efektu: Krwawa Uczta rośnie o (Siła x 10), a wszyscy sojusznicy jednostki otrzymują (Siła x 2) obrażeń Żądzy (min. 1)",
+      "kr_sha256": "a26dce4a9a3922fec2cc558159f43cafd2505a078ec86f9d9983bc4b21e70f0f",
+      "en_sha256": "79e679fea8160cc9ebbe79e6bcb9b39e3681dec5e59b3643347260a394537d59",
+      "origin": "ai"
+    },
+    "dataList[id=RoseWedge].name": {
+      "pl": "Klin Róży",
+      "kr_sha256": "2a20973091aa75d8981fb82c6586abfe75bef41961ce734a82d4db4b8a3489cf",
+      "en_sha256": "bfd6073e9515ef4e802edcee678d8ffeff267bb5c7c4cbd72d5bc5d8b396f31b",
+      "origin": "ai"
+    },
+    "dataList[id=SanchoMind_LowMorale].desc": {
+      "pl": "- Niskie Morale\nZyskuje 2 Wzrostu Poziomu Ataku na początku każdej tury; +2 Efektywności Poczytalności",
+      "kr_sha256": "01c25e9d179078e15e828d48f910c23722ccbe157fbe9d1da2c56b3eced73dc3",
+      "en_sha256": "541b797d31acd538e54bbbd41698b7d238608fac642dbcb2ff1c8f4c0624ba16",
+      "origin": "ai"
+    },
+    "dataList[id=SanchoMind_LowMorale].name": {
+      "pl": "Przebudzająca się Radość Rzezi",
+      "kr_sha256": "24d50af8ecdf7ac5ccd4a1ac77b0bf85fc174b8d7088a6c79f67694bfb332ca6",
+      "en_sha256": "c2eb2281059b870729d02d97b8dd1ad3dca4e08f9091f8615fa10ad786b18917",
+      "origin": "ai"
+    },
+    "dataList[id=SanchoMind_Panic].desc": {
+      "pl": "- Panika\nNa początku tury zyskuje 6 Wzrostu Poziomu Obrony. W następnej turze zyskuje 3 Wzrostu Poziomu Ataku",
+      "kr_sha256": "49d5ac256994240ad7f7d3b51c32cf8b5654ce84d7f097645b48f0396157804d",
+      "en_sha256": "86c61e4f4e60b2f62565ddee55ed0511f226af06c53ca5c84b595ea631aef3bf",
+      "origin": "ai"
+    },
+    "dataList[id=SanchoMind_Panic].name": {
+      "pl": "Przebudzająca się Radość Rzezi",
+      "kr_sha256": "24d50af8ecdf7ac5ccd4a1ac77b0bf85fc174b8d7088a6c79f67694bfb332ca6",
+      "en_sha256": "c2eb2281059b870729d02d97b8dd1ad3dca4e08f9091f8615fa10ad786b18917",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingDonqui].desc": {
+      "pl": "- Podstawowy Poziom Ataku -10\n- Podstawowy Poziom Obrony -10",
+      "kr_sha256": "c6fb5bc80c6da518206f9968092984a8bb8b30825b4cd53e3d469e2cfff55a79",
+      "en_sha256": "5b67e8fccf4d7a05365fe8075fa9579c29a76663bb04bdbc2e50e047b02f4fbf",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingDonqui].name": {
+      "pl": "Wygłodniały i Zwiędnięty",
+      "kr_sha256": "a46d41694db4b8ceec20232ec6c494306e13c9f56636dda277aa3a512cced1c4",
+      "en_sha256": "91687e22a7038a50ebd385a1daf025ad392cef886f4e3ee687c507de2c996fbc",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingPriestTwo].desc": {
+      "pl": "- Przez długi, długi czas nie mógł wypić krwi.\n- Podstawowy Poziom Ataku -25\n- Podstawowy Poziom Obrony -25",
+      "kr_sha256": "9436543c12beabd52dc06d61845c251b679b328ed89a03f0ddf8dfba6ca4456d",
+      "en_sha256": "abc74bc6c45ca1aa7c6db95074e994832a487c325580677830dc354018b8ef1c",
+      "origin": "ai"
+    },
+    "dataList[id=StarvingPriestTwo].name": {
+      "pl": "Zwiędnięcie",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=SwirlingBlood].desc": {
+      "pl": "- Dopóki ten efekt jest aktywny: gdy otrzymuje obrażenia, atakujący zyskuje 5 Krwawienia po zakończeniu ataku.\n- Dopóki ten efekt jest aktywny: HP Tarczy nie znika na koniec tury\n- Po spełnieniu warunków zyskuje 3 Wrażliwości aż do zniknięcia efektu i zmiany wzorca",
+      "kr_sha256": "aed31c3b6dc7b54fa03ceaae9043089dffba741aca0e47ca0cdb516961e58e41",
+      "en_sha256": "100c8e7e57c797a2d50dcdf7b28586fddfdffb3b75f86c827d9280fd7efbf668",
+      "origin": "ai"
+    },
+    "dataList[id=SwirlingBlood].name": {
+      "pl": "Drgnięcie【Krwiożerca】",
+      "kr_sha256": "ea8bcdf222feb1772c844e2d80faa48c8cf66d9bd4e671ebfbae90551ec514d1",
+      "en_sha256": "7835f36734057d6cb4e178046070981d5a5af3278e1750c3d3bdd5019af2f2ee",
+      "origin": "ai"
+    },
+    "dataList[id=ThirstyRose].desc": {
+      "pl": "- Maks. wartości: 5\n- Na koniec tury, jeżeli Siła Krwawienia wynosi 10 lub więcej, otrzymuje obrażenia Żądzy równe 1% Maks. HP. (maks. 30)\n- Na koniec tury maleje o 1",
+      "kr_sha256": "a3d0f1b185823e7a2c7e7056454741a56344e6ce0f57eaf8033cb02e48ddfe5c",
+      "en_sha256": "5723d15fe9f999976ead8c7e888c0e42b35e915a8e36abe654db874c233be179",
+      "origin": "ai"
+    },
+    "dataList[id=ThirstyRose].name": {
+      "pl": "Spragniona Róża",
+      "kr_sha256": "2313c59d575a66e207fcd3964e2145c77f5a514de3f14af00aff59eeb980afee",
+      "en_sha256": "cba84b5de7a253736e80e97981fd806c2a9f78bdcad3a3bc5aeb4ff57d27c906",
+      "origin": "ai"
+    },
+    "dataList[id=ThornNoose].desc": {
+      "pl": "- Maks. 3 stosów\n- Na koniec tury zyskuje 2 Siły Rozdarcia i 2 Licznika Rozdarcia\n- Na koniec tury przy 1+ stosach Szybkość w następnej turze wynosi 1.\n- Na koniec tury przy 2 stosach otrzymuje 20 obrażeń Obżarstwa.\n- Na koniec tury przy 3 stosach przechodzi w wymuszone Oszołomienie w następnej turze; efekt i połączone Kolczaste Lasso znikają.\n- Na początku tury rośnie o 1",
+      "kr_sha256": "670a70ccb575e318e699ffd604c9d1fae3f62544bfe84c24483e732b62dea00b",
+      "en_sha256": "e75cacb866a6c46e0860a3d3d70b2e0bb6b76d875ae68b51c533ef7c9b2fb0ce",
+      "origin": "ai"
+    },
+    "dataList[id=ThornNoose].name": {
+      "pl": "Kolczaste Lasso",
+      "kr_sha256": "1f53cc71daf481bda8df28118f3ff177942b10f194ed63ad4d6b0c9e9e2b2eee",
+      "en_sha256": "09647c90d602b3a5debaa715541b4cae1d1c84013144f9780ad6915dc135e8a4",
+      "origin": "ai"
+    },
+    "dataList[id=TinyCarmilla].desc": {
+      "pl": "- Maks. 3 stosów\n- Za każde zdobycie Małej Carmilli zyskuje 2 Krwawienia\n- Na koniec tury zyskuje +2 Licznika Krwawienia\n- Na koniec tury przy 3 stosach otrzymuje obrażenia stałe równe 15% Maks. HP i leczy HP równe 5% Maks. HP wszystkich wrogów, po czym efekt znika",
+      "kr_sha256": "37315d2aa96c3c1e2455b474e85d5f36eec4e10fb93b82116ec7d6b1571cc0be",
+      "en_sha256": "a1d0cff35abafad79798b9f23065edaefd8f7af6304b8742195bcd9410b9fc73",
+      "origin": "ai"
+    },
+    "dataList[id=TinyCarmilla].name": {
+      "pl": "Mała Carmilla",
+      "kr_sha256": "c6d17bebce33530f42e58d97d137606b03eba6724bdc83feab998bae26694a32",
+      "en_sha256": "f73cc0562ef8d4d685f418b592abb5447219e65e408967b8ed0e7d72c3b495c6",
+      "origin": "ai"
+    },
+    "dataList[id=UnfinishedDream].desc": {
+      "pl": "- Na koniec każdej tury zyskuje w następnej turze 1 Pośpiech i 3 Wzrostu Poziomu Ataku\n- Za każde 3 zsumowane tury zyskuje +2 Wzrostu Poziomu Ataku (maks. 6)\n- Po wygranym Starciu odzyskuje 3 Poczytalności\n- Przy zabiciu wroga w następnej turze zyskuje 1 Wzrost Mocy Starcia (1 raz na turę)",
+      "kr_sha256": "7773b332d8c01227045e5d13f58c8709187c521750c7845698b787b2eef78d6a",
+      "en_sha256": "38ed6a4cceb43a5ce6e92b5311a1ba34fcccffc8e91a09bc179c3a804c3f7f88",
+      "origin": "ai"
+    },
+    "dataList[id=UnfinishedDream].name": {
+      "pl": "W KTÓRYM NASTĘPUJE WYZWOLENIE SPOD KRWI GĘSTSZEJ NIŻ WODA",
+      "kr_sha256": "d8218870b8aa38028d0e2921e655a7a1da14b258eb7a6cb80e20ed8bcac5bd4c",
+      "en_sha256": "b9a600d42a23aeee0dcae1b92146f019738fab7ec373822bcde7729e9d362d40",
+      "origin": "ai"
+    },
+    "dataList[id=WeightOfResponsibility_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 2 Wzrostu Mocy Ataku i 1 Wrażliwości; Maks. Szybkość +2\n- Leczenie HP +30%\n- Na koniec tury, jeżeli wartość Powracającego Popędu Krwi jest niższa niż na początku tury, w następnej turze zyskuje 2 Wzrostu Poziomu Ataku i 2 Spadek Poziomu Obrony.",
+      "kr_sha256": "d331cbfc684987b7e2174c9823cb03929cd5d29297e4d788846baa57280af8ca",
+      "en_sha256": "0a3a413cbc4fa79781a11177a0e0dd286fd83ee724606105f88c62e0e8cb7788",
+      "origin": "ai"
+    },
+    "dataList[id=WeightOfResponsibility_LowMorale].name": {
+      "pl": "Pora porzucić mój sen...",
+      "kr_sha256": "3c5a78e6caf1122d2119826c2ed1ae01cb3d2c60d25c4e8559fd8e3bd7dbacab",
+      "en_sha256": "5301df11029ddd72b25bcde2a73e8f026d9842ba8b91276aa26650ba43371b1d",
+      "origin": "ai"
+    },
+    "dataList[id=WeightOfResponsibility_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wzrostu Mocy Ataku, 2 Pośpiechu i 2 Wrażliwości\n- Leczenie HP +50%\n- Na koniec tury, jeżeli wartość Powracającego Popędu Krwi jest niższa niż na początku tury, w następnej turze zyskuje 3 Wzrostu Poziomu Ataku i 5 Spadek Poziomu Obrony.",
+      "kr_sha256": "1b249e29eaf5f5bcc3e0ffea0a81a85706453a1005e086ac9ddb4bc38425b23f",
+      "en_sha256": "e3ede5236d64ed2974e8a11e36d7b22254142367c65c2839203b473947c6627b",
+      "origin": "ai"
+    },
+    "dataList[id=WeightOfResponsibility_Panic].name": {
+      "pl": "... Dla mojej Rodziny, jako jej Ojciec...",
+      "kr_sha256": "04ae78dc32ac3a7c6a981146c12c6c5d210cf916cf6a9b4fc7b70eecc45f9814",
+      "en_sha256": "4278117e98a4e4650dba60a9292330cfeeb60dac12635ae0945ee75ccf3cb198",
+      "origin": "ai"
+    },
+    "dataList[id=WornHeart].desc": {
+      "pl": "- Maks. 10 stosów\n- Rozpoczyna walkę z 3 stosami\n- Na początku tury zyskuje 1 Spadek Poziomu Obrony za każdy stos\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każde 2 stosy\n- Na początku tury przy 10 stosach zyskuje 3 Wrażliwości i traci 5 Poczytalności\n- Przy 10 stosach, gdy jego atak trafia, leczy 40% zadanych obrażeń części i korpusu oraz zyskuje 2 Krwawej Dłoni",
+      "kr_sha256": "cfbe6c9ddf536ecdbd70145d63730aadf9ad6a3b3f0ecc82b11b2a65e65a2347",
+      "en_sha256": "50fb74ea8adbb227412fa21ec7f388aa698b73cd8b785f0f50b795736fc3c8c9",
+      "origin": "ai"
+    },
+    "dataList[id=WornHeart].name": {
+      "pl": "Wytarte Serce",
+      "kr_sha256": "b57b03bd35b09b0fb0d7065161b62fa11ab30eebd2412e88de7a11185ad22720",
+      "en_sha256": "1f6e2cbf0b9dcb8fa128ff671308cf0637882d05227886045c3a73431456e504",
+      "origin": "ai"
+    }
+  }
+}

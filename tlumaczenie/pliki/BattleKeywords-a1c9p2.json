@@ -1,0 +1,736 @@
+{
+  "entries": {
+    "dataList[id=ArtifactBeeSting].desc": {
+      "pl": "- Odporność na Cięcie +1, Odporność na Żądzę +1\n- Na koniec tury zyskuje 4 Spętań w następnej turze\n- Przy trafieniu zyskuje 3 Siły Krwawienia\n- Przy trafieniu przez Vespę zyskuje 3 Dudnienia Gungnira\n- Po usunięciu efektu wywołuje Krwawienie na tej jednostce 2 razy",
+      "kr_sha256": "cb674b33d0c49b3261264d8a3d91a00a8b5d8c2460d75f47e4368bab7cc05fd0",
+      "en_sha256": "d17a462c6652f59b17b458f074602ce2fa3af49d45efc9963f6147f28ae1b3f2",
+      "origin": "ai"
+    },
+    "dataList[id=ArtifactBeeSting].name": {
+      "pl": "Wbity Harpun [Żądło Osy]",
+      "kr_sha256": "7d37523db53fa48397ed5ef97dbe8037edcb811f062ccfb8426dd1b7467c9adf",
+      "en_sha256": "b0127fa8eea4ea8903f95316641bdb66dfab2a6354657a9001ff42f2a6b58af2",
+      "origin": "ai"
+    },
+    "dataList[id=BeeSting].desc": {
+      "pl": "- Odporność na Cięcie +0,2, Odporność na Żądzę +0,2\n- Na koniec tury zyskuje 2 Spętań w następnej turze\n- Przy trafieniu zyskuje 1 Siły Krwawienia\n- Przy trafieniu przez Vespę zyskuje 2 Dudnienia Gungnira\n- Po usunięciu efektu wywołuje Krwawienie na tej jednostce 1 raz",
+      "kr_sha256": "b480ce576bb9339f6d524796ddb04bb425d4cf5e142261a997b9e9574733c113",
+      "en_sha256": "cf6f5eb601c0e1ebc268da67509a08e8ee52f01889b2a4f02e8240f228d59efb",
+      "origin": "ai"
+    },
+    "dataList[id=BeeSting].name": {
+      "pl": "Wbity Harpun [Żądło]",
+      "kr_sha256": "0e0fb8ccec3d98c2220988bb039c21d09b3e103c99736f98ed6cccb092bcc198",
+      "en_sha256": "b2683a50c7dbf6f5887e363be9575cb038e61ee364ecc2e0b28cd1093ada3fd8",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment].desc": {
+      "pl": "- Min. i Maks. Szybkość +1\n- Poziom Ataku +2, Poziom Obrony +2\n- Podstawowe Umiejętności zyskują +1 więcej Siły Oddechu\n- Poczytalność tej jednostki nie spada poniżej -15 z powodu efektów utraty Poczytalności jej podstawowych Umiejętności ataku\n- Maks. stosów: 1",
+      "kr_sha256": "23517bb6953823868fce63001d6fd800eb1040abf6772d8d3b567a8e0464008f",
+      "en_sha256": "bfeb24855a0254bc52af345c72d0c07a77b022ad9803cff344039843ddb1d1f6",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment].name": {
+      "pl": "Wiara Ponad Wątpliwość",
+      "kr_sha256": "54d029bca63b319f9fdf16e371f0d4bf81f19164b1dc81917e769d9b0cc593da",
+      "en_sha256": "dd27f5fb92d0c5d2299a69a716cc79366787e09284fbe846b7edc13639f5bd25",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Enemy].desc": {
+      "pl": "- Min. i Maks. Szybkość +1\n- Poziom Ataku +3, Poziom Obrony +3\n- Umiejętności zyskują +1 więcej Siły Oddechu",
+      "kr_sha256": "6f08607765a6e375e71f0ef871e282254b834ddb28fd1f6b8b2a7808eaa8999a",
+      "en_sha256": "b39d02db5b88b896875a1229ec7e6553c73ee493d1d489847ba400bc618a9ebb",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Enemy].flavor": {
+      "pl": "„Cz-czy to nie oczywiste? Każde słowo, które przynosi beeper, jest bezdyskusyjnie... b-bez dyskusji.”",
+      "kr_sha256": "f88601dc42058abcc335a05c49091cbf33013a45bc4dac64292a07bffe37ae3a",
+      "en_sha256": "931397e027df3dcf0ec3b9e8a529530e2168786bae529543b912bd23509e7a11",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Enemy].name": {
+      "pl": "Wiara Ponad Wątpliwość",
+      "kr_sha256": "54d029bca63b319f9fdf16e371f0d4bf81f19164b1dc81917e769d9b0cc593da",
+      "en_sha256": "dd27f5fb92d0c5d2299a69a716cc79366787e09284fbe846b7edc13639f5bd25",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Shin].desc": {
+      "pl": "- Min. i Maks. Szybkość +2\n- Poziom Ataku +1, Poziom Obrony +1\n- Podstawowe Umiejętności zyskują +1 więcej Siły Oddechu i Licznika Oddechu\n- Podstawowe Umiejętności zadają +(procent brakującego HP / 2)% obrażeń (maks. 40%)\n- Maks. stosów: 1",
+      "kr_sha256": "fd0d5bb9aad0e001db77e3440f9423e08d061801b0f3587e469ad4a0c3d3cba0",
+      "en_sha256": "f6e3cfa25721e324f528564884fc1bb6cd93c3cb266a930e65d308e8b303f093",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Shin].name": {
+      "pl": "Shin (心) - Procuration",
+      "kr_sha256": "5e6b60850eaa83b8cb9b7fef5e13d87b592629a2fe795966ceb8169646ffad14",
+      "en_sha256": "034d6d77fb3e2ad0147ae6a602039f4f219ee31af105bf5c6e5799283a2484f6",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Shin_Enemy].desc": {
+      "pl": "- Min. i Maks. Szybkość +1\n- Poziom Ataku +2, Poziom Obrony +2\n- Umiejętności zyskują +1 więcej Siły Oddechu i Licznika Oddechu\n- Zadaje +(25 + procent brakującego HP)% obrażeń (maks. 100%)",
+      "kr_sha256": "d80c95c06379d3a470868cce0ee1b118984ee501d4c6922573ea32cd16af45f2",
+      "en_sha256": "47fb172cbc45fbbb347330fe258a10afdcf321cb8146b47f0295a4ef801d9261",
+      "origin": "ai"
+    },
+    "dataList[id=Blandishment_Shin_Enemy].name": {
+      "pl": "Shin (心) - Sora",
+      "kr_sha256": "847baa480eb51cd4b84035da058396d5c2d3096249d9f4c94d7b55d403e10dde",
+      "en_sha256": "0f6b0db4ef52039d76fc9df091bd9355c203b485885aff123022956ba6fd277c",
+      "origin": "ai"
+    },
+    "dataList[id=BlessingOfIndexPrescriptEnemy].desc": {
+      "pl": "- Poziom Ataku +1 za każde 3 stosy\n- Maks. 9",
+      "kr_sha256": "e5d779ec0afd34b8f3ec0fbe7fa50c8b30a99c449f4b08041571a64b9dcd2db5",
+      "en_sha256": "6b35c424bf0480c822a8710a89ffbdf713303e21d1324857a68ce5732dea4ce0",
+      "origin": "ai"
+    },
+    "dataList[id=BlessingOfIndexPrescriptEnemy].name": {
+      "pl": "Łaska Nakazu",
+      "kr_sha256": "56b42c5ec9eab00f0aff1e3df18870f4a35ad428bfd7036712e9af090eed2cf7",
+      "en_sha256": "298b53814e1b9a68da5cdbfaf69c24dcf02f25c06baeb95f934bc57d30b695c3",
+      "origin": "ai"
+    },
+    "dataList[id=BlindFaith_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zadaje +20% obrażeń celom z Celem Nakazu\nOtrzymuje +10% obrażeń od celów bez Celu Nakazu",
+      "kr_sha256": "16d54e7940d17be6233776681b1c7de53cc5b3d360ec4a82110e00944685a542",
+      "en_sha256": "d90476d2cceca1698ac95cea8108ad536cfbf5010c5a0c7312ab00f4a38e5e7b",
+      "origin": "ai"
+    },
+    "dataList[id=BlindFaith_LowMorale].name": {
+      "pl": "Ryzyko Odrzucenia Nakazu",
+      "kr_sha256": "f30411daf94ac9e7bca164197ab1dcd59493ec0167b0101772eab1f76bc24837",
+      "en_sha256": "7a4bc018e0e75d1f6b534300468c8d2a0c41e88e73a30e37d25de93661687016",
+      "origin": "ai"
+    },
+    "dataList[id=BlindFaith_Panic].desc": {
+      "pl": "- Panika\n- Zadaje +30% obrażeń celom z Celem Nakazu\nOtrzymuje +20% obrażeń od celów bez Celu Nakazu",
+      "kr_sha256": "85956438bec1163b1b37a08479ab2592b29b9e79aea189eca33e4761121e1776",
+      "en_sha256": "44f4d41b07958094c64c397960e5f870645d80a3bafd39cacaa0201664bb1860",
+      "origin": "ai"
+    },
+    "dataList[id=BlindFaith_Panic].name": {
+      "pl": "Ryzyko Odrzucenia Nakazu",
+      "kr_sha256": "f30411daf94ac9e7bca164197ab1dcd59493ec0167b0101772eab1f76bc24837",
+      "en_sha256": "7a4bc018e0e75d1f6b534300468c8d2a0c41e88e73a30e37d25de93661687016",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalDmgUpVespa].desc": {
+      "pl": "W tej turze obrażenia krytyczne rosną o 10% za każdą wartość",
+      "kr_sha256": "0ac078ac068fcdc84fef116ddb4c4f3f942e0644fa9e243a3c6b248fe64f5bf1",
+      "en_sha256": "f4d3488fa399e5408570e560af468a3f304fd242b69fe4192a50c6d7fdcbf72a",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalDmgUpVespa].flavor": {
+      "pl": "<color=#fde55d>Szermierka ze Wschodu, odpowiednia dla tych, którzy poruszają się skokami na granicy teleportacji.\nChłopak przyjął tę śmiertelnie niebezpieczną modyfikację z rozpaczliwą determinacją i ostatecznie ją przetrwał, dowodząc swojej wartości.</color>",
+      "kr_sha256": "8a0cde93c996c5be970651b44b0735f304e6a5d9bc6eb14f7f65811a9d56a9a4",
+      "en_sha256": "3ceadb2b00fb7e870bb9f49235be4b58827402af10eed1897c46dc98ffd5afc0",
+      "origin": "ai"
+    },
+    "dataList[id=CriticalDmgUpVespa].name": {
+      "pl": "Sztuka Ostrza Apic Flashburst - Hwando",
+      "kr_sha256": "dc029425506073f7a723146a0da2569530f398c84765115ec9ca9f0f298b1005",
+      "en_sha256": "f4b27a047aafe0292f4bbcfb64c3affc71e6c2cf8ad7beb80dc0f7b85d52b4d2",
+      "origin": "ai"
+    },
+    "dataList[id=HornetPoison].desc": {
+      "pl": "- Przy trafieniu przez Vespę otrzymuje obrażenia stałe równe Siłe tego efektu\n- Po zakończeniu tury traci 1 Licznika (Działa tak samo jak zwykły Wstrząs wobec efektów zwiększających Licznik Wstrząsu)",
+      "kr_sha256": "d7618cc55e991201709bd4113c865346acc389983653ba5329d7dfc649cedda6",
+      "en_sha256": "f8c4f834fd5deace933da8f09f1463908ce671e4dead59603c56673fdf1a70a1",
+      "origin": "ai"
+    },
+    "dataList[id=HornetPoison].flavor": {
+      "pl": "<color=#fde55d>Wbięty przez ten harpun rozpada się, gdy kolejne uderzenia wzmacniają jego siłę drgań.</color>",
+      "kr_sha256": "eda36f7e5bf8c44889a319d34832a71b44eb49d194f1b8d3af1dc6dc8848d243",
+      "en_sha256": "79215dbacbb35c937cd57946738ad108fff420227a2ee1f63e5c7343cc827fea",
+      "origin": "ai"
+    },
+    "dataList[id=HornetPoison].name": {
+      "pl": "Dudnienie Gungnira",
+      "kr_sha256": "484450e4a45899b73712305302140ef389fe91d83672bc938a1defc070a9e5fa",
+      "en_sha256": "41e8a91a34684bd0211e61f8572894d4c6ad97b48cb73bc891658c6bead48b5f",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_0].desc": {
+      "pl": "Używa Umiejętności oznaczonej Znakiem Nakazu lub trafia nią cel.\n\n- Na początku tury zdobywany przy braku Odblokowania\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 3",
+      "kr_sha256": "6046039d45963e8819dc1e62c994512d2f27b7fe164205069134fc86e0f4822d",
+      "en_sha256": "5b8c320e6594f45066006d9ddb7033d04b6b96144da7bcd216e9b9ecc7a8c432",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_0].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_0].name": {
+      "pl": "Nakaz [Urządzenie] I",
+      "kr_sha256": "f18886850406d6a2ef7f637d70767016534caf6aecb2e11dd00b88493a4cbff1",
+      "en_sha256": "6308f8564c839bd7030818080c2e3de0f0ec6c73ff5b482b25309b23049e46dd",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_1].desc": {
+      "pl": "Umiejętność oznaczona Znakiem Nakazu trafia cel.\n\n- Na początku tury zdobywany przy Odblokowaniu - I\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 6",
+      "kr_sha256": "da24b45bb603d12d17060e335faee3d685f46f8b6c778803b2fae88d00a8b27d",
+      "en_sha256": "4d023be1c8f30364216bf912c23e64e62ddc8dbc8825728e674c662cf5101f79",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_1].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_1].name": {
+      "pl": "Nakaz [Urządzenie] II",
+      "kr_sha256": "23b7e0cf00783d197287f421e0b6ec4c87b9a48002cdf69d109ad008a8d4ed9a",
+      "en_sha256": "e0fe3752978302146b7f18987fa728bc673ad5fbe5691d58590ee4e9e406e5ea",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_2].desc": {
+      "pl": "Trafia cel Umiejętność Przebudzenia E.G.O, lub w stanie Rozkwitu E.G.O::Procuration, „Umiejętność 3” oznaczona Znakiem Nakazu.\n\n- Na początku tury zdobywany przy Odblokowaniu - II\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 9",
+      "kr_sha256": "530a052626dba87d47c6fe5c77f992447e874c2cb3c2b38b62eed274da9547c4",
+      "en_sha256": "6a6ff6be1a90c5318354d34c884f3a53de8dec1838cc64c49b2d645157142a1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_2].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_2].name": {
+      "pl": "Nakaz [Urządzenie] III",
+      "kr_sha256": "a6a505812a96c34352bae00ec9580a9cb0e946096385f786a784a44de580a38b",
+      "en_sha256": "beb1dc694976ee05e9867dc8e231c8fc340ecab6aea4f5dfd4b8972f21f4c123",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_3].desc": {
+      "pl": "Wyeliminuj wszystkich wrogów, zanim przyjdzie kolejny Nakaz.\n\n- Na początku tury zdobywany przy Odblokowaniu - III",
+      "kr_sha256": "4c5d5a5f79ecd5ae8af8afd87bd38046b5a13360ca41799ad8cf295ef05ee836",
+      "en_sha256": "5258d1191899a6f5a4984565e3ca8c874ec2a0c87aae48203575cdfe4a73d52c",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_3].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptDon_3].name": {
+      "pl": "Nakaz [Urządzenie] IV",
+      "kr_sha256": "6cced9492657bb47c4f2519d3031ac88993595c960f4d7347f77672a1dbca849",
+      "en_sha256": "acbb62219a8b56675c4cd9237ff69467393ea3eabbbbd80d5903d1eb97cab2c8",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_0].desc": {
+      "pl": "Atakuje Cel Nakazu i trafia.\n\n- Na początku tury zdobywany przy braku Odblokowania\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 3",
+      "kr_sha256": "ea5a2f9470ea696ab63c1183c36cad88103590fadb192061013002d828972667",
+      "en_sha256": "2afc5aa38eabf071a3a88ab886e9737f17fe2b2fcaf7b0c9a876f05413df239b",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_0].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_0].name": {
+      "pl": "Nakaz [Urządzenie] I",
+      "kr_sha256": "f18886850406d6a2ef7f637d70767016534caf6aecb2e11dd00b88493a4cbff1",
+      "en_sha256": "6308f8564c839bd7030818080c2e3de0f0ec6c73ff5b482b25309b23049e46dd",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_1].desc": {
+      "pl": "Cel Nakazu trafiają Umiejętność z pierwszego slotu lub losowy cel zostaje zabity.\n\n- Na początku tury zdobywany przy Odblokowaniu - I\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 6",
+      "kr_sha256": "9001fc9036f806bd2ab3af1ca1403944c9933cfbb3176800d58ac9b7856e089e",
+      "en_sha256": "fe95cc060aadb48db69ba245f219727a7b20267bf577f011ab29a7dc81ea897b",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_1].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_1].name": {
+      "pl": "Nakaz [Urządzenie] II",
+      "kr_sha256": "23b7e0cf00783d197287f421e0b6ec4c87b9a48002cdf69d109ad008a8d4ed9a",
+      "en_sha256": "e0fe3752978302146b7f18987fa728bc673ad5fbe5691d58590ee4e9e406e5ea",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_2].desc": {
+      "pl": "Oszłamia lub zabija losowy cel.\n\n- Na początku tury zdobywany przy Odblokowaniu - II\n- Maksymalna Łaska Nakazu osiągalna tym Nakazem: 9",
+      "kr_sha256": "002057a15e361781e8ef160d1ee7073068dbe9f9817ffdc875e3c4e5178df542",
+      "en_sha256": "de730460171ca97313fd48f4745fce746d00972248d6254b3de512d93897a365",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_2].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_2].name": {
+      "pl": "Nakaz [Urządzenie] III",
+      "kr_sha256": "a6a505812a96c34352bae00ec9580a9cb0e946096385f786a784a44de580a38b",
+      "en_sha256": "beb1dc694976ee05e9867dc8e231c8fc340ecab6aea4f5dfd4b8972f21f4c123",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_3].desc": {
+      "pl": "Wyeliminuj wszystkie przeszkody, zanim przyjdzie kolejny Nakaz.\n\n- Na początku tury zdobywany przy Odblokowaniu - III",
+      "kr_sha256": "74e3999e63cf3a34399c965d7abaad9be447ec06e6affd7e4dcc483e3460ec41",
+      "en_sha256": "d68f96cdcce980096c0ad1104dffef7e327cf52f3f4983043c6d55d3420b35ae",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_3].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptStudent_3].name": {
+      "pl": "Nakaz [Urządzenie] IV",
+      "kr_sha256": "6cced9492657bb47c4f2519d3031ac88993595c960f4d7347f77672a1dbca849",
+      "en_sha256": "acbb62219a8b56675c4cd9237ff69467393ea3eabbbbd80d5903d1eb97cab2c8",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptTargetToPersonality].desc": {
+      "pl": "Siła Umiejętności -2 i otrzymuje +20% obrażeń od wrogów Wskazującego",
+      "kr_sha256": "a978acd1044b4b5d09911de171d6f922594b7ddf67c5b66117e5be61f069d293",
+      "en_sha256": "51c849dc26013ed3e55d5ffbf3d45e6915a2f02d2d47fd87be760987f6ff59f7",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescriptTargetToPersonality].name": {
+      "pl": "Cel Nakazu - Wskazujący",
+      "kr_sha256": "eeb11a91481dc17e3777afbf5c90a9d8263a6e612e44c8143292722f0949c0d3",
+      "en_sha256": "b7d074c30740ccfa87290d272a3f6187b170d640ac1c0a6c123e6e417c761480",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_Base_2nd].desc": {
+      "pl": "Zgodnie z określonymi warunkami otrzymuje Nakaz [Urządzenie]",
+      "kr_sha256": "5fe84e6ec5ac11379995357c733ca02519439f4277b4f3b7a0098667007f66b2",
+      "en_sha256": "5d148f8ce3fabdc1b6f2e3e773cc33d94ca60b6f5dea08a5ad453ab400d5cebe",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_Base_2nd].flavor": {
+      "pl": "Nakazy przekazywane są na wiele sposobów — ich forma jest wybierana jednostronnie, niczym wyrocznia.",
+      "kr_sha256": "983693895a09c5329a17e01707e26c0e6aa98166f8acfd022749cabac0872739",
+      "en_sha256": "4b62614a04331bd466cbb091404f6fa2d5cefc4db111ece318b07536f1ac8c1a",
+      "origin": "ai"
+    },
+    "dataList[id=IndexPrescript_Base_2nd].name": {
+      "pl": "Nakaz",
+      "kr_sha256": "625cd848f49398dc27ba78d72a6fe6f06ae67cf4cab6a3de18fed84a2a2acd53",
+      "en_sha256": "a27d43899988cf98b789b4444ad96d82ef8e4e46e261ac386879e8cc2cfb8bac",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexStudent].desc": {
+      "pl": "- Na początku tury\n· Zyskuje 1 Spadek Poziomu Obrony za każde 10 stosów\n· Zyskuje 1 Wrażliwości za każde 20 stosów\n- Maks. 100 stosów",
+      "kr_sha256": "4b517a82f2bd493e5f5a741aebcb7c2962c75882e05a91fd2b396da292973b2d",
+      "en_sha256": "0ab289188567a0c32b579d9af4d7eeee5e252ea006ba10526c8af17063235e95",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexStudent].flavor": {
+      "pl": "Otrzymaj Nakaz i wykonaj go. To staje się karmą, która krąży i nieuchronnie się kumuluje.",
+      "kr_sha256": "d4fa62780d2682207b10b042eb5207d4ebd385fc2aa40dd65c5e65e58de2de2e",
+      "en_sha256": "d5881ca89e47589febbc67736d8592358378037fc3dbb189f7a5c2eaa25f7d9d",
+      "origin": "ai"
+    },
+    "dataList[id=KarmaOfIndexStudent].name": {
+      "pl": "Karma",
+      "kr_sha256": "20785c39571b296683ca312c7547f0bc5ccf32c7cbe95362fecd79248b82e24c",
+      "en_sha256": "dae1a80d8d2ad225ddc898ff8a1c32286c668dc1c79998e720d05c6948b1294b",
+      "origin": "ai"
+    },
+    "dataList[id=LittleFingerBoss_Shin].desc": {
+      "pl": "- Maks. stosów: 3\n- Na początku tury działają następujące efekty\n· Zyskuje 5 Siły Oddechu i +1 Licznika Oddechu za każdy stos\n· Zyskuje 1 Wzrost Obrażeń Cięcia za każde 15% brakującego HP (maks. 5)",
+      "kr_sha256": "799265791f223e22a3491dab22bad87a65996ff1de5b3c947b796d5794983766",
+      "en_sha256": "43a3fc0ca4db5ae48b2626e101cec1bb4f1b1aaba923314ad36a890a0db1377d",
+      "origin": "ai"
+    },
+    "dataList[id=LittleFingerBoss_Shin].name": {
+      "pl": "Shin (心) - Gwiazda Dihui",
+      "kr_sha256": "1d4e4614d1cd5e0d7b7c77536a7b84417c5c7a7b9eac5e802a8b4244905cd295",
+      "en_sha256": "28911e108b90a2beec48b2604bd3cfcd24240ef0ad46779d773d0a1be5fac306",
+      "origin": "ai"
+    },
+    "dataList[id=LvDownLittleFingerBoss].desc": {
+      "pl": "NIEWYKORZYSTANY BUFF",
+      "kr_sha256": "cd38ae356b6735530fbfd2c6457713acbe2aab5a1bb27a9633ca469c15545f9a",
+      "en_sha256": "6beb80d4742c52b38d435d8b9f6e91389cc44e5f063b0da06ef7606609e4e6ba",
+      "origin": "ai"
+    },
+    "dataList[id=LvDownLittleFingerBoss].name": {
+      "pl": "Wyczekiwanie",
+      "kr_sha256": "b0e93f1c2082736286360df94e6ae9293074c2fb2988c090f722e55d347dfdcf",
+      "en_sha256": "b374328a696f2702d1059c7f7f8e7dfbc5f9c1a82f82af05a80609cf3fc4d748",
+      "origin": "ai"
+    },
+    "dataList[id=Malkuth_Imperfect].desc": {
+      "pl": "<i><color=#d3a562>Niedoskonały fragment mocy, która zapanuje nad Królestwem</color></i>",
+      "kr_sha256": "f4de6b2f17d5e0ae9cf6eb626b898650f414703138329817711b7e59ba96f096",
+      "en_sha256": "8f05c15953883e894030f63bc8a1a6efe77b4f2aba2e834e8ce559da58304d9c",
+      "origin": "ai"
+    },
+    "dataList[id=Malkuth_Imperfect].name": {
+      "pl": "Panowanie Malkuth - Niedoskonała Manifestacja",
+      "kr_sha256": "f3fa22176c0a997bfa09a74cfc330159dac9624dac12b88b3e829d2d5b4eea3b",
+      "en_sha256": "421e7976e9eddd46e80e96271771b298c8d119a207ab71f78e02853e51a34669",
+      "origin": "ai"
+    },
+    "dataList[id=PhantomIncisionTotal].desc": {
+      "pl": "- Łączna suma stosów Śladu Ostrza [Powidło] w tej walce",
+      "kr_sha256": "c2b91fe36e70a41b76a61784d1e5453f858e219eddd5b22f9ad9dd7bd8cfabb1",
+      "en_sha256": "8dc40479cd3bdaa6f8e4e75e29202375ce0d3574c5510677ca90b41bd90d1e39",
+      "origin": "ai"
+    },
+    "dataList[id=PhantomIncisionTotal].name": {
+      "pl": "Ostrze Gwiazdy Dihui",
+      "kr_sha256": "ea36db50b70ebc1854edf19aa9363893b39b4a83a7001b80b6e7de94745a8bac",
+      "en_sha256": "43b7768a36bf3d0854882e3d4d0dbea46bdb401f03d6a5f1294027ed0583e230",
+      "origin": "ai"
+    },
+    "dataList[id=PhantomIncision].desc": {
+      "pl": "- Maks. stosów: 99\n- Na początku tury zyskuje 1 Wrażliwości za każde 10 stosów (maks. 5)",
+      "kr_sha256": "2e38ed10ad82463ecbb5e4d07f8695213e6acd50b63ebd5e340103252c4f1594",
+      "en_sha256": "916322f2a28cfc3b9537df93513c3374a645f5892e20ec719a303a02456d61f8",
+      "origin": "ai"
+    },
+    "dataList[id=PhantomIncision].name": {
+      "pl": "Ślad Ostrza [Powidło]",
+      "kr_sha256": "e03be8dab7a1dfae19fee2c9c2bc2cc4898bff320c016a62fe4c31a74215386a",
+      "en_sha256": "a2585e0515e328dc9e6c419c9cc0f680678dbe40afc4258f9ea3e337f2dff68b",
+      "origin": "ai"
+    },
+    "dataList[id=PressureOfPrescript].desc": {
+      "pl": "- Zadaje +25% obrażeń za każdy stos (maks. 50%)\n- W stanie Rozkwitu E.G.O::Procuration,\n· Przy 1 stosie Moc Końcowa +1\n· Przy 2 stosach zamiast tego Moc Końcowa +3\n- Maks. 2",
+      "kr_sha256": "d05e64d2846d10cb4ff44d2420e12efe97d7898a7b91ea3c396efa930d9b67fe",
+      "en_sha256": "8d6c1cb989f53c4158094744dc3fd3928ded57cfa107420ca9cf42d4f133f60a",
+      "origin": "ai"
+    },
+    "dataList[id=PressureOfPrescript].flavor": {
+      "pl": "„C-co robić? To, co oczywiste, musi być wykonane bezdyskusyjnie…”",
+      "kr_sha256": "85caa420bdbcf0eb6f94414bf0ae83f02334ee550b50e13a051a506a1f415b67",
+      "en_sha256": "526ad77e918643a3615e7b60fb4386880a78201dd7edf418fbc62be7fad66739",
+      "origin": "ai"
+    },
+    "dataList[id=PressureOfPrescript].name": {
+      "pl": "Nacisk",
+      "kr_sha256": "84038e23aa13046fb0340cb326c16d939cbe3b6095b679804cb1f55f7324e01c",
+      "en_sha256": "f950be8b45cdce7f56963dcd164394db882e3664a0778e4c645389a243f73503",
+      "origin": "ai"
+    },
+    "dataList[id=PressureOfPrescript_2nd].desc": {
+      "pl": "- Zadaje +50% obrażeń za każdy stos (maks. 100%)\n- W stanie Rozkwitu E.G.O::Procuration,\n· Przy 1 stosie Moc Końcowa +2\n· Przy 2 stosach zamiast tego Moc Monety Plus +1 i Moc Końcowa +3\n- Maks. 2\n- Przy użyciu określonych Umiejętności traktowana jak Nacisk i zużywana",
+      "kr_sha256": "16f0557a9018d2aaa71a1ac69194241ae6102556cfc7fbcef1fd552350c6414f",
+      "en_sha256": "c7bf38ab0f41ed2ae841a378a6916ca87ab20142c736f5ff12a2b001bc64a876",
+      "origin": "ai"
+    },
+    "dataList[id=PressureOfPrescript_2nd].name": {
+      "pl": "Ekstremalny Nacisk",
+      "kr_sha256": "62646f58c74ec13272068ba4ed3ca42ab1d1a2814f91d6c87603761526669c9b",
+      "en_sha256": "1fe680a4d3019f55569fe1176fa115fa90784cd09abf497cca5046681abc1d48",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySoji].desc": {
+      "pl": "- Liczba Slotów Umiejętności +1\n- Zadaje i otrzymuje +20% obrażeń od i wobec Ojca Małego Palca; po wygranym Starciu zadaje Ojcu Małego Palca 5 obrażeń Poczytalności\n- Przy otrzymaniu obrażeń, które oszołomiłyby ją, nie zostaje oszołomiona i usuwa dany Próg Oszołomienia; w następnej turze zyskuje 1 Wzrost Mocy Ataku (1 raz na turę)\n- W tej walce po użyciu Umiejętności zyskuje +1 Zasób E.G.O Grzechu tej Umiejętności i +1 losowy Zasób E.G.O najmniej posiadanego Grzechu (2 razy na turę)\n- Wycofanie niemożliwe",
+      "kr_sha256": "316ada4b621d68c541454c379956cd4864baa25af12021adbda3fbba794c8136",
+      "en_sha256": "a2eec73502dcc200073f6bfa5241a81700ea99e2134ff276cba0fc2fda590741",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySoji].name": {
+      "pl": "Skręcone i Rozdarte Wspomnienia",
+      "kr_sha256": "64a0c7be6fb24ed7775e4c9b509608369595b8b2be93f42e6878e489677c06a0",
+      "en_sha256": "af0800eafc51a2d726bc76287d167b97751a77a96fd430330033d4861bb735d0",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuParrySoji].summary": {
+      "pl": "Jeżeli żyją sojusznicy, HP nie spada poniżej 1",
+      "kr_sha256": "94a8787607b4eb8c87acd3e49b5ebebe2a8524ba131590103e29595339994a0c",
+      "en_sha256": "5dfbcac74826a0add3086e25b6f816c6f2121acf55ce41eea915ce20fec9205f",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuStartA1C9P2].desc": {
+      "pl": "- Liczba Slotów Umiejętności +1\n- Zadaje +10% obrażeń wrogom z Domu Pajęczyn\n- Po Oszołomieniu wychodzi z Oszołomienia na początku następnej tury i zyskuje 1 Wzrost Mocy Ataku (1 raz na walkę)",
+      "kr_sha256": "2bbe2d816d2f1264f7ba44c39e9bd4f6500de55996aa5fb085bcadeaaf89fc4c",
+      "en_sha256": "70ab1c676f2bda974cc0e1b48811b40c93b58b7cda437edf8b7b6c8f5f800346",
+      "origin": "ai"
+    },
+    "dataList[id=RyoshuStartA1C9P2].name": {
+      "pl": "Pocięta Pamięć",
+      "kr_sha256": "551d7be4d9e72f6862692e625e17b88e9ae6766525967ba1fc73bd49983abedd",
+      "en_sha256": "34bbf7f7cefb809a163bd69f17e5826558a59afe9061eb2850d7ecff7ce970a6",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_IndexFightBuff].desc": {
+      "pl": "- Liczba Slotów Umiejętności +1\n- Zadaje +10% obrażeń wrogom z Domu Pajęczyn\n- Przy otrzymaniu obrażeń, które oszołomiłyby ją, nie zostaje oszołomiona i usuwa dany Próg Oszołomienia; w następnej turze zyskuje 1 Wzrost Mocy Ataku (1 raz na turę)\n- W tej walce po użyciu Umiejętności zyskuje +1 Zasób E.G.O Grzechu tej Umiejętności i +1 losowy Zasób E.G.O najmniej posiadanego Grzechu (2 razy na turę)\n- Wycofanie niemożliwe",
+      "kr_sha256": "bd10711cc20b3d4784669f94640a8c44d38ea0fa804b8450daf89892f9f71dd4",
+      "en_sha256": "41630ec1a17a12d2a9a77bbfcdac6516c02ba1e8c12eee119bf05059eef51441",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_IndexFightBuff].name": {
+      "pl": "Pocięta Pamięć i Wspomnienia",
+      "kr_sha256": "81a1b4c6d6e0a8a0477e1d93446a45f77eca387852b972c9858d8a922878b4fd",
+      "en_sha256": "1f0e6c289111a0aa50f37d1a7b17c51531eccdc29611d6b8503b6d27265f78b2",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_IndexFightBuff].summary": {
+      "pl": "Efekt specjalny Ryōshū",
+      "kr_sha256": "778419d5af23517ae1d505a55dc8eedcb05a2e663bda672665fddae220a4b350",
+      "en_sha256": "0849f03b0dd7ee9136aaffe0c88541dc0f14abe7f583fa7205f6c7ebc4ebcdd1",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDays_LowMorale].desc": {
+      "pl": "Zadaje i otrzymuje +10% obrażeń od i wobec Ryōshū",
+      "kr_sha256": "89f6af8d2d41742dbd4c80444ace641557173b8ead01f3a242b3b68363478b3b",
+      "en_sha256": "c51d6fc4b9ece5505efde119e2bf6d289675120fff7e84687e9ad4c84667cc88",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDays_LowMorale].name": {
+      "pl": "Miłość i Uraza",
+      "kr_sha256": "fdd7ec95d3b7c94d6b854ba98a6d28a5ea3976c2f5076c56b04c3c07defff675",
+      "en_sha256": "310217b5059c8e1d17a5c96789d82e1c0bb8b6c55a85e424bf4474d161e5f18d",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDays_Panic].desc": {
+      "pl": "Zadaje i otrzymuje +20% obrażeń od i wobec Ryōshū",
+      "kr_sha256": "bbc537e3901060bc8f9461fbaeee39a67b27438e8c93cff95bbd941925c2e816",
+      "en_sha256": "806f147fee91de29a12721fc03d97b97304c83aa8a0c7ae0fbb08907bd00e7da",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDays_Panic].name": {
+      "pl": "Miłość i Uraza",
+      "kr_sha256": "fdd7ec95d3b7c94d6b854ba98a6d28a5ea3976c2f5076c56b04c3c07defff675",
+      "en_sha256": "310217b5059c8e1d17a5c96789d82e1c0bb8b6c55a85e424bf4474d161e5f18d",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleDesc].desc": {
+      "pl": "Stan splecionych powideł\nStopień efektu zmienia się wraz z postępem wzorca walki",
+      "kr_sha256": "7124d1ba562204b4c092da4ce98a8de8d4f15817075379794e0b9ab6014621ed",
+      "en_sha256": "e4e306950a7f485739856f675a96559ee879962f084a3364dfc6805368cf372e",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleDesc].name": {
+      "pl": "Splot Powideł",
+      "kr_sha256": "f67b401c0597504f289ca3be5444f18ab1ed5d81afba0201dbb6146092cbd2de",
+      "en_sha256": "4022d370205301a296840f2eb98f54a243437f21be694ab196368653916bbfd9",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleFour].desc": {
+      "pl": "Splot Powideł 4. stopnia\n- Min. i Maks. Szybkość tej jednostki -2\n- Przy trafieniu działają następujące efekty:\n  · Nakłada 1 Zatrucia\n  · Nakłada 2 Krwawienia\n  · Nakłada 1 Spętanie w następnej turze\n  · Nakłada 2 Podpalenia",
+      "kr_sha256": "8fdc8768d1c89ceabb03454c05ac977b98bfcb8ec62cbd284b4a6c522c709cb0",
+      "en_sha256": "0776f453dfd23c31ba0731c6e177f23dc9c1f3629c42bd3a64dcc27ca8f59678",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleFour].name": {
+      "pl": "Splot Powideł IV",
+      "kr_sha256": "65678642655f997631c17449f5952671dfae55db4dfd916dd8638befd4a61ff3",
+      "en_sha256": "e7a8dc49ee110e2bc12a5246845c6cff328b641b730ef83f4e026720db9edea6",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleFour].summary": {
+      "pl": "Splot Powideł 4. stopnia",
+      "kr_sha256": "4d94e951c61b0bc095e4090f7b0a0da12ef544a12d6912582ef7e68f5871ba8c",
+      "en_sha256": "ea01927a7942e12f7352b572482e0c3a4fd76b925ed156d20eddbd315ff10a65",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleOne].desc": {
+      "pl": "Splot Powideł 1. stopnia\n- Przy trafieniu działają następujące efekty:\n  · Nakłada 2 Podpalenia",
+      "kr_sha256": "13286a9c7fa4c3cca3c422e2057e72d7533ee624dd54b1fc6e0fc9180f914cc8",
+      "en_sha256": "d14fec78b4a7dd99d7ae2ec097cfebd3076e757860f79eabe322379380f1279c",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleOne].name": {
+      "pl": "Splot Powideł I",
+      "kr_sha256": "f7b447b0d4bc68895048bcdc6a345da47afbaa118fb5ef9cf8a9ed1cd065ed5e",
+      "en_sha256": "85cdbe8a2470b0495feb312f0a40b4cb9adde51cb78ba7c560c915226e45d309",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleOne].summary": {
+      "pl": "Splot Powideł 1. stopnia",
+      "kr_sha256": "5f1983c5adcaabcbb74538ec8888261f1e74215088715fc372ac81823b1fccc3",
+      "en_sha256": "f28ad798c4c0cb2e1a6aabc8bc2a6bad28263c9099ea3c05a27e0f6f29ea0a16",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleThree].desc": {
+      "pl": "Splot Powideł 3. stopnia\n- Przy trafieniu działają następujące efekty:\n  · Nakłada 2 Krwawienia\n  · Nakłada 1 Spętanie w następnej turze\n  · Nakłada 2 Podpalenia",
+      "kr_sha256": "cc019811d266f063cfa10bdc2a7832c89607a5e90ee66ca97efba03ecaa780bc",
+      "en_sha256": "3a59aa845841ce4fdee8ea24b2a4c38fa1eca4e7f0b712cb798325ac12e08621",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleThree].name": {
+      "pl": "Splot Powideł III",
+      "kr_sha256": "b7fdf2e5d6eb02845ff65c289442d09c9baf8861b4d2320b77d0ecee85d3f238",
+      "en_sha256": "0dae87b3d4f32a254420bb6fc380eecb56ad10f30801fb696a811e3b063985f4",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleThree].summary": {
+      "pl": "Splot Powideł 3. stopnia",
+      "kr_sha256": "ea236ef7669eb761d66673415a2a5a3226003877f24c7b39f8cc60587cc2329b",
+      "en_sha256": "5b0b77536b0fd21a8192ca63afc34cff5edcec87c2cc7c7859cc76f486cdb7bc",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleTwo].desc": {
+      "pl": "Splot Powideł 2. stopnia\n- Przy trafieniu działają następujące efekty:\n  · Nakłada 1 Spętanie w następnej turze\n  · Nakłada 2 Podpalenia",
+      "kr_sha256": "6804d77c362e3bf6614f4b383a0c237461daa9d3b7cf2b82c6d409afb53cc178",
+      "en_sha256": "c9c7456fd5c002402a72dde3e8ccca8d04be68024bc2d839ee9820c998c3672f",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleTwo].name": {
+      "pl": "Splot Powideł II",
+      "kr_sha256": "0db8e7aa2f8386a376dfae0b3b6943e2f7541637ded6b2822a7f6adc8af28066",
+      "en_sha256": "855f28172d043a78de1208b8a35f83a9656238aba775fe99222a1b9508db4f2a",
+      "origin": "ai"
+    },
+    "dataList[id=TimeEntangleTwo].summary": {
+      "pl": "Splot Powideł 2. stopnia",
+      "kr_sha256": "38fd156022978c5a149f8424562f0bfe50ec1e47c3b961a141683535d726c27d",
+      "en_sha256": "1006e1753cb8193550f4f558842b0bbd5c727d55f38bd01fe0382219c4e22aaa",
+      "origin": "ai"
+    },
+    "dataList[id=TimeGapAb].desc": {
+      "pl": "- Na początku tury część zyskuje Tarczę równą wartości\n- Zmniejszenie Tarczy zmniejsza również wartość",
+      "kr_sha256": "6a3496f4bc79ea704db92213066a531b86a6db68c9766f8ad4c5bbc0830fe3eb",
+      "en_sha256": "063c0e6824895cd870ed1312b7f924557e2238f47d891804f73c3f62dee5b8f3",
+      "origin": "ai"
+    },
+    "dataList[id=TimeGapAb].name": {
+      "pl": "Dysocjacja",
+      "kr_sha256": "8bf9a4762d363788916dc5c4fae5741d073d87b697eb6d7e81ee975d5d39f11e",
+      "en_sha256": "635959207607b62e06cb24c0ea7060d8e8bddf67c6c492c63d70bbe802f91853",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuffAlly_1].desc": {
+      "pl": "- Poziom Obrony +1\n- Po zakończeniu walki odzyskuje 5 Poczytalności",
+      "kr_sha256": "3b571e5c97664a3b3726af177f67c41fee05b134c754b48c30e18dd3830d7741",
+      "en_sha256": "558571caff735ca3a01d737bdb57978f7cb51ba25de61c2d5a331f853be5c63a",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuffAlly_1].name": {
+      "pl": "Odblokowanie - I",
+      "kr_sha256": "dea7913b724bc5951769cdb1fdd0a4cff1a466bd919f1713c0aea126c23911aa",
+      "en_sha256": "64276f212ab6a0ef5a03eb658526fe8d5f8e9fc6cbbb5e5e88557b02808cdf90",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuffAlly_2].desc": {
+      "pl": "- Poziom Obrony +2\n- Po zakończeniu walki odzyskuje 10 Poczytalności",
+      "kr_sha256": "e0a841f846f58a89eb9b3c0d612a2c9097b2f74a25cc8e03bec9d8887e0910f2",
+      "en_sha256": "46172dd6533ea20e356e85a6a2eb21560050973fe8de6f0e1eae5b975de9d6d8",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuffAlly_2].name": {
+      "pl": "Odblokowanie - II",
+      "kr_sha256": "4a7d367baee775d7c23fd3fd2006520754788978c1edb28a9cd6408e933225b8",
+      "en_sha256": "6dae5d5b0e288b59d9521f37751719c12ade2f81336744758d2e9192fda6d834",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuffAlly_3].desc": {
+      "pl": "- Poziom Obrony +3\n- Po zakończeniu walki odzyskuje 15 Poczytalności",
+      "kr_sha256": "d18ae568c4d3a1f92c213cc6d6fd45a2a5beaf7d2175b40dd2e6096865c5fbf3",
+      "en_sha256": "74e8869b1defba6edcf9dd30e6d5d5fdd17c845aa22bd11c99ca81818074168e",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuffAlly_3].name": {
+      "pl": "Odblokowanie - III",
+      "kr_sha256": "11d1c6d163a12323be2af784e126645a0e70d629346029feb00fc536d4909880",
+      "en_sha256": "958712b06ed2c6e164ae8b44be2333d98f28cd3db10e01ab6e6610a1a9c40d7f",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_1].desc": {
+      "pl": "- Poziom Ataku +1, Poziom Obrony +1\n- Po zakończeniu walki odzyskuje 15 Poczytalności",
+      "kr_sha256": "54e7491182a2cc942080e9a21c5fe7403f7d867720486f3d25ff003e225f8e32",
+      "en_sha256": "8ab72efbcf94ae48f745f35f47a214f8f23afc8e6904eb82e4b6511d2e84749f",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_1].name": {
+      "pl": "Odblokowanie - I",
+      "kr_sha256": "dea7913b724bc5951769cdb1fdd0a4cff1a466bd919f1713c0aea126c23911aa",
+      "en_sha256": "64276f212ab6a0ef5a03eb658526fe8d5f8e9fc6cbbb5e5e88557b02808cdf90",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_2].desc": {
+      "pl": "- Poziom Ataku +2, Poziom Obrony +2\n- Po zakończeniu walki odzyskuje 30 Poczytalności",
+      "kr_sha256": "1688cdbfd6c7b456318abcb99addc19255d86cd99c54b58b8be85f5460873959",
+      "en_sha256": "84f01a3d481e160b533860f121de55c1969837a51036cc3760ba5a164ca38754",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_2].name": {
+      "pl": "Odblokowanie - II",
+      "kr_sha256": "4a7d367baee775d7c23fd3fd2006520754788978c1edb28a9cd6408e933225b8",
+      "en_sha256": "6dae5d5b0e288b59d9521f37751719c12ade2f81336744758d2e9192fda6d834",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_3].desc": {
+      "pl": "- Poziom Ataku +3, Poziom Obrony +3\n- Po zakończeniu walki odzyskuje 45 Poczytalności",
+      "kr_sha256": "734a11b45bd43404ca59b87e717c5d067ff6c7e1b305b12ec46217a423b246e5",
+      "en_sha256": "27c6e38e3f49b19afcac90030131fddf9ad5b7f75392c0cb685e4b50f79a8375",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_3].name": {
+      "pl": "Odblokowanie - III",
+      "kr_sha256": "11d1c6d163a12323be2af784e126645a0e70d629346029feb00fc536d4909880",
+      "en_sha256": "958712b06ed2c6e164ae8b44be2333d98f28cd3db10e01ab6e6610a1a9c40d7f",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Base].desc": {
+      "pl": "- Zdobywane przy Łasce Nakazu powyżej określonej wartości\n- Stopień rośnie zależnie od liczby stosów Łaski Nakazu\n- Maksymalnie 3. stopień",
+      "kr_sha256": "b6d31a921020581e85095942c852f6f93b13d1d773aae7e1cc196d312197bf6d",
+      "en_sha256": "c50ad39ffc63c64f86c71553277bf71b300da2cb43b4e038e81eef57eb24611a",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockBuff_Base].name": {
+      "pl": "Odblokowanie",
+      "kr_sha256": "5da49a05ace1b6f5073832cae6c4e59653a8faa7645f62487bfa318b058e4794",
+      "en_sha256": "4ac709aa58bcfe5dca223072cd22986a2ad4e15f577c344466851b65322e416c",
+      "origin": "ai"
+    },
+    "dataList[id=Vespa_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 1 Wzrost Mocy Kłucia i 1 Spadek Wydajności Leczenia Poczytalności",
+      "kr_sha256": "3dcb036daea5e6d8b2885fe2e7d9b779493af95d1c5bdfc3a51906a7cfd0a9d7",
+      "en_sha256": "390c3508d54bcade9574485c356fc7ca27eebfa1e62017082146b840a3378f54",
+      "origin": "ai"
+    },
+    "dataList[id=Vespa_LowMorale].name": {
+      "pl": "Zirytowanie",
+      "kr_sha256": "32b836eeefd61b52f9c5323c72405df7a39d777a358e0b8078059a5519c6eefa",
+      "en_sha256": "a9ee278bef3f46e6d533751f388d73dcbbe07b2315b4d7713fe32075a47a804c",
+      "origin": "ai"
+    },
+    "dataList[id=Vespa_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wzrostu Mocy Kłucia, 1 Wzrost Obrażeń Kłucia i 2 Spadek Wydajności Leczenia Poczytalności",
+      "kr_sha256": "0cff1dd5e5c112bd57eeab2b82825603945223f5866d4058742697b682b09ed8",
+      "en_sha256": "31feb4d85e8e4678d226b2777b6473f8f83a3de5564ede82a8f646c24bde6834",
+      "origin": "ai"
+    },
+    "dataList[id=Vespa_Panic].name": {
+      "pl": "Zirytowanie",
+      "kr_sha256": "32b836eeefd61b52f9c5323c72405df7a39d777a358e0b8078059a5519c6eefa",
+      "en_sha256": "a9ee278bef3f46e6d533751f388d73dcbbe07b2315b4d7713fe32075a47a804c",
+      "origin": "ai"
+    },
+    "dataList[id=YellowHarpoonSin].desc": {
+      "pl": "- Podstawowy Poziom Ataku +3, Podstawowy Poziom Obrony +3\n- Atakując cel, który w poprzedniej turze ją zaatakował, odzyskuje 3 Poczytalności\n- Przy Poczytalności 0+: Moc Końcowa +(Poczytalność / 10) (zaokr. w dół)",
+      "kr_sha256": "f3fd03508ed11d2ce5110862b5ec23744f32a997c544b6e555a6187de01a85fd",
+      "en_sha256": "4d5cf24ed85419bd2447ab3492f6b57f3305a7f7d61f6dfe68ebdb82f6c811cd",
+      "origin": "ai"
+    },
+    "dataList[id=YellowHarpoonSin].name": {
+      "pl": "Shin (心) - Żółty Harpun",
+      "kr_sha256": "950fda950b210047ca9727f5692de679436f71336d862bd4e87c7b1290ed9070",
+      "en_sha256": "a23fb2f8379b32bebf48268a0a6f0cc59930b845d3af768c48120f1a7f2c3977",
+      "origin": "ai"
+    },
+    "dataList[id=YellowHarpoon].desc": {
+      "pl": "- Na początku tury zyskuje 4 Pośpiechu i 8 Oddechu\n- Na koniec tury, jeżeli jakiś wroga ma Wbity Harpun, zyskuje +3 Licznika Oddechu",
+      "kr_sha256": "95f3196f446e0364a23731fc19d93ae3cbe8e11a2fb1097e1fc39e32d7135068",
+      "en_sha256": "1b3f7622923258789a7e67ad6cb43e30dd60d6fb1c60ee55505bea84804f5cb3",
+      "origin": "ai"
+    },
+    "dataList[id=YellowHarpoon].name": {
+      "pl": "Żółty Harpun",
+      "kr_sha256": "5303ec6c698c9311f0f17b872f7fc0c64865014d582a9ee76f6d440f9c17a72b",
+      "en_sha256": "3e8908a5d17e221fe111151a282eeec1bb86f31bf351c51f161902b7da219d1e",
+      "origin": "ai"
+    }
+  }
+}

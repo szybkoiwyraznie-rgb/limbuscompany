@@ -1,0 +1,640 @@
+{
+  "entries": {
+    "dataList[id=BattleSense].desc": {
+      "pl": "- Maks. stosów: 25\n- Zużywana przez określone Umiejętności; na koniec tury odzyskuje Poczytalność równą liczbie zużytych stosów\n- Zyskuje 1 stos za każde Starcie (maks. 5 na Umiejętność). Po przegranej w Starciu traci stosy zdobyte w tym Starciu\n- Zyskuje 2 stosy przy trafieniu Atakiem Jednostronnym (maks. 10 na Umiejętność)\n- Na koniec tury, w następnej turze, zyskuje Pośpiech zależny od łącznej liczby zużytych w tej turze stosów (1 Pośpiech za 25 stosów; maks. 2)\n- Przy określonym wzorcu zmienia się w inny buff",
+      "kr_sha256": "1a858d24b174376b1048b0b79ebd2276026662050b049bb061e3b42ad56eb970",
+      "en_sha256": "d1d290533f25bda71202b1a6d092b01497a4320aeb92277f407ca4af83fc2733",
+      "origin": "ai"
+    },
+    "dataList[id=BattleSense].name": {
+      "pl": "Siła Skryta [底力]",
+      "kr_sha256": "5ba7bdce87ee92daaede6d9c91f5c46f44ec97de82cea4951c07e8941258adcf",
+      "en_sha256": "d9e6d01a833733b76e552fe05a26043cc0a9cbba68acb6f19c7a961255b25ca0",
+      "origin": "ai"
+    },
+    "dataList[id=BeastEyes_LowMorale].desc": {
+      "pl": "- Zadaje +(różnica procentowa HP / 2)% obrażeń celom o wyższym procentowym HP niż własne (maks. 10%)\n- Na początku tury zyskuje 1 Wzrost Mocy Końcowej, 1 Wzrost Obrażeń i 1 Wrażliwości",
+      "kr_sha256": "af613f505b20710bfee2c3213bd0844da020020fc3cf6b7f9ccebeba95b0c712",
+      "en_sha256": "90e4961ef7e5d1e762b1d5fa9ac2525f38a85102bfab846cc2ec98e08346ac5e",
+      "origin": "ai"
+    },
+    "dataList[id=BeastEyes_LowMorale].name": {
+      "pl": "Instynkt Bestii - Niskie Morale",
+      "kr_sha256": "cc4560dee1c10b423d8999ac2f4c0578e348bb00a984d1c54a2b72aa53980367",
+      "en_sha256": "cf70312b549d928835920210708cb1e8b69ef39355ec0ba90e3f8ad7e95aeb2d",
+      "origin": "ai"
+    },
+    "dataList[id=BeastEyes_Panic].desc": {
+      "pl": "- Zadaje +(różnica procentowa HP)% obrażeń celom o wyższym procentowym HP niż własne (maks. 25%)\n- Na początku tury zyskuje 1 Wzrost Mocy Monety, 2 Wzrostu Obrażeń i 2 Wrażliwości\n- Na początku następnej tury odzyskuje Poczytalność równą procentowi brakującego HP (maks. 25)",
+      "kr_sha256": "d01796f078d8482e9cfeb00124371e55e0f36f689babfbd4ebd35c19e259b313",
+      "en_sha256": "90132e8a36b350a495e1e9ccc64d1fbeb4b7f746a4cccf15050c6e6c9a97bb66",
+      "origin": "ai"
+    },
+    "dataList[id=BeastEyes_Panic].name": {
+      "pl": "Instynkt Bestii - Panika",
+      "kr_sha256": "e75db1e984cb6dc8aa8ac7fd3c5945c8da5db58805b1da2fedebbc7db210ca42",
+      "en_sha256": "5bff77bfc931612cd0b2387944ca800f55d2963dfbd27a55856372e774f2dda8",
+      "origin": "ai"
+    },
+    "dataList[id=BoseProjektilReplica].desc": {
+      "pl": "Maks. stosów: 7",
+      "kr_sha256": "338632c22f30c34eae79c69bdefd8a2a1bb9bf7a82f8d6a01f3fa309aa74938f",
+      "en_sha256": "256b2124ba9db58d3b9afb116a4a0252f8ec029c7c1740afeeb7d7238a71ba83",
+      "origin": "ai"
+    },
+    "dataList[id=BoseProjektilReplica].name": {
+      "pl": "Poszarpane Wspomnienie",
+      "kr_sha256": "bb8e85136f93205a8b3af2ac74148834d468a7276978434130010c45cc063c13",
+      "en_sha256": "e75f874c82f6baa8b295a255bd0c34ed30fca82f45ad3609163244039ddcbd60",
+      "origin": "ai"
+    },
+    "dataList[id=Bothersome].desc": {
+      "pl": "- Odporność na Cięcie celu liczy się jako Słaba (1,5). (nie działa na cele z odpornością na Cięcie 1,5 lub wyższą)\n- Na koniec tury znika",
+      "kr_sha256": "b3945baa9234f7728bd25f18ab336fd59088c9857dfd9f6e477f3043b6c47522",
+      "en_sha256": "e9056169102ee75340220f5431e4e052369e1f1c8a2600a03e45de229140dcf4",
+      "origin": "ai"
+    },
+    "dataList[id=Bothersome].name": {
+      "pl": "Rozcinające Cięcie [切斬]",
+      "kr_sha256": "cf709fdd9fd7d79a6b63007f28117d4ffc6bbdf59e474a7ad72c7af323fbd9e5",
+      "en_sha256": "bc177b50770064de9185d737a173925d12eddecdcef044eb03c75507b6b9b745",
+      "origin": "ai"
+    },
+    "dataList[id=BudgetBulletPropellant].desc": {
+      "pl": "- Specjalna amunicja\n- Zużywana przy użyciu określonych Umiejętności\n- Maks. stosów: 4",
+      "kr_sha256": "a816dd552b19901810f35466727ef96b5bffb0e04b04b00f02cc54d433db9554",
+      "en_sha256": "8ee6f5b8c7b3ae1eed81613810a05cb2af96e6f50a608b5d66dc022e2e54f3c8",
+      "origin": "ai"
+    },
+    "dataList[id=BudgetBulletPropellant].name": {
+      "pl": "Amunicja Napędowa",
+      "kr_sha256": "f8430e4bcabacc7428d41e2c1c291720be4d601d31865362166a28d48de200a6",
+      "en_sha256": "7ff111b3aae34b040e1c3c7778c5db2653f440f7bf7127cf7906e1e0433a5b75",
+      "origin": "ai"
+    },
+    "dataList[id=BulletPropellantSpecial].desc": {
+      "pl": "- Specjalna amunicja\n- Zużywana przy użyciu określonych Umiejętności (działa jak Pocisk Znaku Tygrysa)\n- Siła i Licznik tego efektu oznaczają „Załadowaną Amunicję” i „Pozostałą Amunicję”\n· Maks. Siły (Załadowana Amunicja): 6\n- Monety, które zużyły tę amunicję, zadają +30% obrażeń i nakładają dwukrotnie więcej Siły i Licznika Podpalenia\n- Po zużyciu całej Załadowanej i Pozostałej Amunicji zmienia się z powrotem w Pocisk Znaku Tygrysa",
+      "kr_sha256": "c8b86efed4a2c6d33386cde7007baaf4dce82399ee6de82d7f00c33da21375af",
+      "en_sha256": "7da7de2223ba191d4736f460bdff542d87cdef98620491cda76addff73f6993b",
+      "origin": "ai"
+    },
+    "dataList[id=BulletPropellantSpecial].name": {
+      "pl": "Pocisk Dzikiego Tygrysa",
+      "kr_sha256": "094fcf526cd2ee70fa8159ac0eb66946a69c04c18d3ed044d55ab75eefaf9186",
+      "en_sha256": "1e6f9674c4070d4c20c25682ef379185ca016b423b57b9ba2cf1ea4277cfc51f",
+      "origin": "ai"
+    },
+    "dataList[id=BulletPropellant].desc": {
+      "pl": "- Specjalna amunicja\n- Zużywana przy użyciu określonych Umiejętności\n- Maks. stosów: 6",
+      "kr_sha256": "4075ba9ecc05d6898a9a58f4df43f04117a8027667727dffbdea1231f25e1c80",
+      "en_sha256": "b3fdb9b7b75f224df02870a894a9045b42ed5ff7b72266e53e9e6fe51677d92d",
+      "origin": "ai"
+    },
+    "dataList[id=BulletPropellant].name": {
+      "pl": "Pocisk Znaku Tygrysa",
+      "kr_sha256": "b0e1330ca7c5f5d90442fd7b84716741fa1c69b1ef4b55f9b12136a875f78c3a",
+      "en_sha256": "57b44452207caa0f1ecaf7ba584462196f5816b9d483a74270ec0263604f6aba",
+      "origin": "ai"
+    },
+    "dataList[id=Chesed_Mercy].desc": {
+      "pl": "- Poziom Ataku i Poziom Obrony wszystkich postaci są wyrównane do średniej\n- Po aktywacji efektu Cheseda sojusznicze Tożsamości zyskują dodatkowo 3 Poziomy Ataku i 6 Poziomów Obrony\n- [Efekt Pierwszego Uwolnienia] „Miłosierdzie Cheseda” trwa przez resztę walki",
+      "kr_sha256": "4d990c5617683e8399d77ac49346056f7b0596c03ebb40337242a5a730debebe",
+      "en_sha256": "c88023ad56dd669cba45b576b842c00e0edfbe87d356721e4db086ea47f83f4b",
+      "origin": "ai"
+    },
+    "dataList[id=Chesed_Mercy].name": {
+      "pl": "Miłosierdzie Cheseda",
+      "kr_sha256": "f24753d53db0dc12418f822ae1f5ea132b93ae368c2e64118487013d61f46cd3",
+      "en_sha256": "ee9a3100930880123cf58f4fb8e568683a90f1eec95915d1f401c9222ec2bf13",
+      "origin": "ai"
+    },
+    "dataList[id=Complacency].desc": {
+      "pl": "- Maks. stosów: 5\n- Na początku tury zyskuje Spadek Mocy Starcia i Wrażliwości równy liczbie stosów\n- Na koniec tury znika",
+      "kr_sha256": "67fbc96ba72aa4842d67818c78a7d43b0e2c16187ae139f70487fcf0a4256280",
+      "en_sha256": "78fb0c87c53b6c02ce37009c0a230f583a7db5215949735fa66bb7a2086189ea",
+      "origin": "ai"
+    },
+    "dataList[id=Complacency].name": {
+      "pl": "Przegrzanie",
+      "kr_sha256": "634345ec83446c3929d24c026843c52bfa13a256be7719607f8884211e86af29",
+      "en_sha256": "e9ceda2738151781354dff2e757dfc6c4589e14027097e51a59a1c1669e95047",
+      "origin": "ai"
+    },
+    "dataList[id=ContemptReplica].desc": {
+      "pl": "- Maks. stosów: 1\n- Otrzymuje i zadaje -50% obrażeń od i wobec Jia Huana\n- Cele z Pogardą nie mogą zdobyć Spojrzenia\n- Znika na koniec tury",
+      "kr_sha256": "046d021283e59f07f6e5c3e6e0d6e1b6adfdea6bf3c0cb09c754d52917775d88",
+      "en_sha256": "d698a0775154be0a76fb0dfee409c58d262773d2888b22d36ea6eb80c1144a9a",
+      "origin": "ai"
+    },
+    "dataList[id=ContemptReplica].name": {
+      "pl": "Pogarda",
+      "kr_sha256": "d42f1744b43d6d54932b3d0dfe2d2f53fe4ace375d4d23e21ea65f0c0ea5f8e1",
+      "en_sha256": "14139fd94d8983f7ee4adc1ca30f3e925492fb7fb7cceed75135b207a1da2ff0",
+      "origin": "ai"
+    },
+    "dataList[id=DisengageCombat].desc": {
+      "pl": "- Na koniec tury wychodzi z Oszołomienia i opuszcza walkę (poza wymuszonym Oszołomieniem; nie liczy się jako śmierć)",
+      "kr_sha256": "418300eb86519eaf84e151815c4810cbde19961b471ad265fc9b2f3a583cdaf0",
+      "en_sha256": "69362f815ecb105d72340cba648b1525cec5ec676be31edf951ccd6617782db8",
+      "origin": "ai"
+    },
+    "dataList[id=DisengageCombat].name": {
+      "pl": "Wycofanie z Walki",
+      "kr_sha256": "a8f8e27c42de41cc7002cd515e5f1c08b54837d0133762cc2f8d484b482bb370",
+      "en_sha256": "3a87e4ad3ac604c6ca13dc83b20d78ab60a9215afe585f3cb8b9aeae313c6733",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeContempt_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 1 Wzrost Mocy Ataku i 1 Wrażliwości",
+      "kr_sha256": "b928d60a5323ec2edc791e07910f6a3c7b994c7a84b9b69ceaeb2242ce00f137",
+      "en_sha256": "70c645d582409b5119a5a0797614354d0a11ea1e5db364cecdd2e95058f42a0f",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeContempt_LowMorale].name": {
+      "pl": "Serce z Miękkiego Złota",
+      "kr_sha256": "a766edcdbc3d617d391c44a9b1ab9b1fc28303ada2787276b238a28cb0176d2a",
+      "en_sha256": "5cdf9cd62c96c2c94df10350ad16ba5f6541934c4febf63f13d9ea3df810af66",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeContempt_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 2 Wzrostu Mocy Ataku i 2 Wrażliwości",
+      "kr_sha256": "ff0ca1f695e7a65c7760fbb7d3d4276c342c7a3d7d5f53fc84bffaae91c85965",
+      "en_sha256": "118e5578261891e238a6163a38b24d4b226677a501a1ffc0dfd90ff650e6f71d",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeContempt_Panic].name": {
+      "pl": "Serce z Miękkiego Złota",
+      "kr_sha256": "a766edcdbc3d617d391c44a9b1ab9b1fc28303ada2787276b238a28cb0176d2a",
+      "en_sha256": "5cdf9cd62c96c2c94df10350ad16ba5f6541934c4febf63f13d9ea3df810af66",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeMemory_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Przy trafieniu traci 3 Poczytalności i nakłada 2 Zatonięcia",
+      "kr_sha256": "a07ed99bc007508d85e072981b886d0f6fdbd6ea320c3b7391bb42afc9568d5c",
+      "en_sha256": "33219b88bc4c0e44e92e3cf47f6b13654de4b91a952a067192538eef772b6fa3",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeMemory_LowMorale].name": {
+      "pl": "Serce Ku Nowej Erze",
+      "kr_sha256": "a3f6f56d1cec9a1d37299d11e2b9607257e87cc01a3113b08a3b1085415daeb5",
+      "en_sha256": "59a445c655c9013294a4f8090035acfa73bfaec309fbf5cb58ae7e5c9cf54868",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeMemory_Panic].desc": {
+      "pl": "- Panika\n- Przy trafieniu nakłada 3 Zatonięcia i zyskuje 1 Zatonięcie",
+      "kr_sha256": "72e741f46ffe66d320e7aadb43b1aabb2e548bc891b7f1fded69cf291fab52d8",
+      "en_sha256": "0ee243aa95259b0facce450e9d013ff19739b4ed1e4c8da6b78f0f5be215c2c5",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeMemory_Panic].name": {
+      "pl": "Serce Ku Nowej Erze",
+      "kr_sha256": "a3f6f56d1cec9a1d37299d11e2b9607257e87cc01a3113b08a3b1085415daeb5",
+      "en_sha256": "59a445c655c9013294a4f8090035acfa73bfaec309fbf5cb58ae7e5c9cf54868",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeReplica].desc": {
+      "pl": "- Maks. stosów: 10\n- Na początku każdej tury:\n· Traci Poczytalność równą liczbie stosów\n· Zyskuje 1 Wzrost Mocy Ataku za każde 3 stosy\n- Przy Maks. stosach otrzymuje na koniec tury 5% Maks. HP obrażeń",
+      "kr_sha256": "0814453f743256035394ad922cf6499d3ab563a26a54410d36454dd910becc60",
+      "en_sha256": "14744bb74f39c6004c997d60bfcf387f6bf592dc5b3eac1d6e718b0877864ba1",
+      "origin": "ai"
+    },
+    "dataList[id=EgoErodeReplica].name": {
+      "pl": "Korozja E.G.O - Korporacja N",
+      "kr_sha256": "873de636d54cfc22078d17de42ebdf1c2a167ff1accd7b0920f9df9f53a62cbd",
+      "en_sha256": "7307a2a02bac1ea80c12cbbb508fbcc29b555433a398c266eea23fe73bb9a3f3",
+      "origin": "ai"
+    },
+    "dataList[id=ExpensiveJade].desc": {
+      "pl": "- Przechodzi w stan „Unieruchomienia”, w którym buffy, HP i Poczytalność nie mogą się zmieniać. Tworzy Jadeit połączony z tą postacią",
+      "kr_sha256": "a8540ee0f4ab18f1efc83ac0a5e835f134d0f51e083fb978c007d59611633767",
+      "en_sha256": "5d5c833b1498adc205a393d941f92b65e6fa67f9927d2076920e93366b1089be",
+      "origin": "ai"
+    },
+    "dataList[id=ExpensiveJade].name": {
+      "pl": "Kołyska Jadeitu",
+      "kr_sha256": "6b802687d0c7a36a9fc39d615767d11252aafaecb9b82e6248a271e163605bcf",
+      "en_sha256": "629b7d98442b176e038eb2585837603fc131882cf8ece57730582fb72b353fcd",
+      "origin": "ai"
+    },
+    "dataList[id=FamilyTreasure].desc": {
+      "pl": "- Na koniec tury\n· Wartość bazowa: 1\n· Postać połączona z tą jednostką leczy 25% HP i traci 20 Poczytalności\n· Wartość rośnie o 1\n· Przy wartości 3 używa Umiejętności samozniszczenia. Jeżeli ta jednostka ginie od samozniszczenia, nakłada na uwięzioną postać 3 Pustego Uposłuszeństwa w następnej turze",
+      "kr_sha256": "5293f5afd95aff4698a4b36f1d80b691105669a20b1ae037410a0f1544c990d3",
+      "en_sha256": "a1c189c51d40631cd61f2f37a2e98d4d03de3e79b3be6b79cdd41ac0d4cd2708",
+      "origin": "ai"
+    },
+    "dataList[id=FamilyTreasure].name": {
+      "pl": "Wybuchowa Zabawa",
+      "kr_sha256": "a279f288147dfbc06d021953212445460728eb93f8768c3c6c396aa518800fc9",
+      "en_sha256": "3b98efe2ba7376b45433f658a1c17be7660779c538316968e09679ba47c15afe",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletMarkReplica].desc": {
+      "pl": "- Staje się celem Gubo\n- Znika na koniec tury",
+      "kr_sha256": "db02568b2109362a585892eaa4f69670a997a2d529d340b8ce8f8a5c5c3d94e1",
+      "en_sha256": "38dbbf5f30d60b162f91f5362421f9ebdd8feb359d594399acfae0fab983dde2",
+      "origin": "ai"
+    },
+    "dataList[id=FellBulletMarkReplica].name": {
+      "pl": "Naznaczony",
+      "kr_sha256": "76f43aab8322321c4c39c07ba9a2aa7b7ea70b5b76710fdeb2193d184cd06079",
+      "en_sha256": "cb0aca91016f72f20840f1382d270b71cb90011e286a316ec69a6895a98ab9a3",
+      "origin": "ai"
+    },
+    "dataList[id=GahwanEgoContempt].desc": {
+      "pl": "- E.G.O wyekstrahowane przez Korporację N. Użytkownik spełnia wymogi predyspozycji, ale brak doświadczenia może sprawiać trudności.\n- Maks. stosów: 5\n- Poziom Ataku i Poziom Obrony -7\n- Po wygranym Starciu zyskuje 1 stos\n- Traci 1 Poziom Ataku i zyskuje 1 Poziom Obrony za każdy stos\n- Przy Maks. stosach zyskuje w następnej turze 2 Ochrony i resetuje liczbę stosów do 0",
+      "kr_sha256": "00d229b2670fa9116083c91737c16472515ce7452a8273343a0130276349868b",
+      "en_sha256": "4e29b5b52c7dba14e8ac01d434e1b30d696e619fc2d5c30adf76f73e70a9420e",
+      "origin": "ai"
+    },
+    "dataList[id=GahwanEgoContempt].name": {
+      "pl": "Niestabilne Dostrojenie E.G.O - Pogarda",
+      "kr_sha256": "bccf1dbedc4030b67ae3fa1b9dd9acb7f98550ce0539501fc51b7d2a2584ddd4",
+      "en_sha256": "2beab2c2f3423f6ae58f0f99044c0a0d4b59d4afe3a1504c2d7e0e21e938f2c2",
+      "origin": "ai"
+    },
+    "dataList[id=GazeReplica].desc": {
+      "pl": "- Maks. stosów: 7\n- Za każdy stos otrzymuje i zadaje +10% obrażeń od i wobec Jia Huana\n- Przy 7 stosach zamienia się w Pogardę",
+      "kr_sha256": "f1c32b03777e4a3d8b7bb489ebbfc21237334b9bd5a54722bf4e64450f8246f4",
+      "en_sha256": "4d3ee9896836db2cc8ec461a5e96eed87f011531842f0bbbb16df99a115fd812",
+      "origin": "ai"
+    },
+    "dataList[id=GazeReplica].name": {
+      "pl": "Spojrzenie",
+      "kr_sha256": "e13568f722a5e0b607d4895c0555778cd123a2249acb17d2acffe2bdd57b97a1",
+      "en_sha256": "5c0bae02462bd34b066970f039d9ee645f6386d242da5f4a1f1d2450a607b894",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenBoughSyncDistorted].desc": {
+      "pl": "- Podstawowy Poziom Ataku +4, Podstawowy Poziom Obrony +4",
+      "kr_sha256": "63072cce1245a6286f5d6b1953fdd76fbc2beb9f70cfe5f9c3a75ceaded529a4",
+      "en_sha256": "60395990936f960e3382ee65f815959f5db1721a3044bd0791f3cd00731c75cd",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenBoughSyncDistorted].name": {
+      "pl": "Demoniczna Siła i Chaotyczne Duchy",
+      "kr_sha256": "dd67b27a605321cfcb323977d1b957d13edc44c4d96046e06eff635432bb6085",
+      "en_sha256": "a71ad97b090860596f533035faf75dc17a980c3d071a252a680c86917b420694",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenBoughSync].desc": {
+      "pl": "- Podstawowy Poziom Ataku +2, Podstawowy Poziom Obrony +2",
+      "kr_sha256": "f95d9314818045c29ff0a658dc5b950ac5f56e2a1829827e843e5912f9181230",
+      "en_sha256": "48c208fe7c25a803299f78aa56618271f3b6fd7c1a7959f9135f0f492213cf32",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenBoughSync].name": {
+      "pl": "Zdegradowane Dostrojenie",
+      "kr_sha256": "87715ac88b7064c5ceb959168e3c10e19d0ac8b6075402fcc8f7e7052248d355",
+      "en_sha256": "c0118f326e5a52a04f17b2dd50628a0e9a9c7857ad1736c71a432e38ef036aed",
+      "origin": "ai"
+    },
+    "dataList[id=GraspReplica].desc": {
+      "pl": "- Maks. stosów: 4\n- Na koniec tury zyskuje 10 Spętań w następnej turze\n- Na koniec tury traci 1 stos",
+      "kr_sha256": "c5141247e0d8b181a96af7016ee012681ca977d25cdb303754d322df9e8e044e",
+      "en_sha256": "36487476e2ecac87e658c9b5989140078adb86d5c4e3a4746be8537b350ec9c8",
+      "origin": "ai"
+    },
+    "dataList[id=GraspReplica].name": {
+      "pl": "Uchwyt",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=GuboEgoShooter].desc": {
+      "pl": "- E.G.O wyekstrahowane przez Korporację N. Użytkownik spełnia wymogi predyspozycji, ale brak doświadczenia może sprawiać trudności.\n- Maks. stosów: 5\n- Poziom Ataku i Poziom Obrony -2\n- Po przegranej w Starciu zyskuje 1 stos\n- Zyskuje 1 Poziom Ataku i traci 1 Poziom Obrony za każdy stos\n- Przy Maks. stosach zyskuje w następnej turze 2 Wzrost Obrażeń i resetuje liczbę stosów do 0",
+      "kr_sha256": "d6c718ca13ba4d68a7ffe7eefcbf095abc3512e5ae1bb1b39a49f9c3f723ff1a",
+      "en_sha256": "a07011d7ae90c8e82b1169a5d6994e1525ae80b239d77c37e191641da7571529",
+      "origin": "ai"
+    },
+    "dataList[id=GuboEgoShooter].name": {
+      "pl": "Niestabilne Dostrojenie E.G.O - Zabójczy Pocisk",
+      "kr_sha256": "0193036b3c628462e75d9f0d894e3c5992f6c7aac8213b062cf9a42d2b5a5a97",
+      "en_sha256": "b0bd9346b1345747f12a5c98482f6b7936a06310a541728a378074ffe8319a97",
+      "origin": "ai"
+    },
+    "dataList[id=HongluParryGahwan].desc": {
+      "pl": "W Starciach z Jia Huanem Moc Starcia +2",
+      "kr_sha256": "c09cfaebfd666657ecd2cfe1de00cfabd8400e1576346f7049a288a6468c8c7c",
+      "en_sha256": "6e595a6872be4d06c3900a9aeefcd279727e2c2c8c2530b2e143ed36f7181ce2",
+      "origin": "ai"
+    },
+    "dataList[id=HongluParryGahwan].name": {
+      "pl": "Wola Konfrontacji",
+      "kr_sha256": "74501dd1397a8d04756ca624f8b68cca20f53cc25cc3ab1ff11ad0c5108ffb4c",
+      "en_sha256": "118a105681eea9301b25514360a7affdf7892ac029b92d182411b06c7ea497d3",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Ai].desc": {
+      "pl": "- Moc Końcowa Hong Lu +3\n- Po wygranym Starciu 1 sojusznik (w tym ta jednostka) o najniższej Poczytalności odzyskuje 5 Poczytalności\n- Gdy ginie sojusznik, pozostali sojusznicy na koniec tury zyskują 1 Wzrost Mocy Ataku na następną turę (1 raz na turę)\n- Jeżeli w tej walce żyje co najmniej 1 inny sojusznik, gdy Hong Lu otrzyma obrażenia obniżające HP do 1, nie ginie i leczy 50% Maks. HP\nPo wygranym Starciu z Jia Mu zyskuje 1 losowy Zasób E.G.O z każdego z 3 Grzechów o najmniejszej liczbie zasobów",
+      "kr_sha256": "119b8ded43795b63dd3ce9528497a9d5dfe89b5b3c77be87dbeb3f09ab83606f",
+      "en_sha256": "6dd43865dc8397c8a5dc69ee8af0ddd741883848a7888f1bedc403c9a940d9ea",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Ai].name": {
+      "pl": "Radość, Rozkosz, Smutek",
+      "kr_sha256": "1d060c3b7358d30d97b1c1360ada4bf985b530eb6a67eba41c7d3f4656307d86",
+      "en_sha256": "1babb07f4301a31024a447f17ec81ab5347393ab6d79a22cce34b01cc755ac05",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_EGOResourceup].desc": {
+      "pl": "[Efekt specjalny Hong Lu]\n- W tej walce po zakończeniu ataku Umiejętnością zyskuje dodatkowo 2 Zasoby E.G.O Grzechu tej Umiejętności (1 raz na turę)",
+      "kr_sha256": "0403d40ba8500c1fdb8b1a96568432357105e871ea1663f8d0dee60f44c39c91",
+      "en_sha256": "1fcea19cd287c6882130ca67a7b68ef055e6ee705f5e544466fd9301fedfc549",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_EGOResourceup].name": {
+      "pl": "Moje serce i myśli...",
+      "kr_sha256": "1d9f9fbdec1027c8e378a3a33851c6b81bff7db8cdde6776a427743cd74c58ab",
+      "en_sha256": "f0c3fac664a29e6d91d271b475c7598f2833c8d37ff404966cb5c010dc8042b6",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Le].desc": {
+      "pl": "- Moc Końcowa Hong Lu +1\n- Po wygranym Starciu 1 sojusznik (w tym ta jednostka) o najniższej Poczytalności odzyskuje 5 Poczytalności\n- Jeżeli w tej walce żyje co najmniej 1 inny sojusznik, gdy Hong Lu otrzyma obrażenia obniżające HP do 1, nie ginie i leczy 50% Maks. HP\nPo wygranym Starciu z Jia Mu zyskuje 1 losowy Zasób E.G.O z każdego z 3 Grzechów o najmniejszej liczbie zasobów",
+      "kr_sha256": "b7a0ac3ca0e518b6aaeb59ff570ab9bf228553f263f96cafd5b857319833189a",
+      "en_sha256": "ff8a96b753c5bf1bf431bd1f8316838400d6d13e467d1546c1c841ff53f8699c",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Le].name": {
+      "pl": "Radość, Rozkosz",
+      "kr_sha256": "f6a57eaac075b8862ad516805d1beb2567f8e2e39e297c4deb3b69aa8500aa3a",
+      "en_sha256": "f652502d4d3efec305767899067a9e20a8d241c61f5703975dbea0a0b8ff4139",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Nu].desc": {
+      "pl": "- Moc Końcowa Hong Lu +5\n- Na początku każdej tury wszyscy sojusznicy odzyskują 5 Poczytalności (w tym ta jednostka)\n- Gdy ginie sojusznik, pozostali sojusznicy na koniec tury zyskują 1 Wzrost Mocy Ataku na następną turę (1 raz na turę)\n- Jeżeli w tej walce żyje co najmniej 1 inny sojusznik, gdy Hong Lu otrzyma obrażenia obniżające HP do 1, nie ginie i leczy 50% Maks. HP\n- Zwiększa zadawane obrażenia o 30% łącznego procenta HP utraconego w tej walce (maks. 100%)\nPo wygranym Starciu z Jia Mu zyskuje 1 losowy Zasób E.G.O z każdego z 3 Grzechów o najmniejszej liczbie zasobów",
+      "kr_sha256": "80397367c56e54cd9d47da0ff5b1818aa5d5c6dee80ddd777499d17a7616d040",
+      "en_sha256": "7000acf5846b2cf00e14d6448002aceca5da9ba55a5dc84a63c350c64c0d97c8",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Nu].name": {
+      "pl": "Radość, Rozkosz, Smutek, Gniew",
+      "kr_sha256": "1a1cb048560555ec34e6c63ff533f11fa9733d5827254eaf28c4296230247d56",
+      "en_sha256": "1146c7475aa315b9c483c26505e1eeddbdbbefd3c887ffd3463655a752a2faa2",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Xi].desc": {
+      "pl": "- Moc Starcia Hong Lu +1\n- Jeżeli w tej walce żyje co najmniej 1 inny sojusznik, gdy Hong Lu otrzyma obrażenia obniżające HP do 1, nie ginie i leczy 50% Maks. HP\n- Raz na fazę nie przechodzi w stan Jadeitu. W Starciu z Umiejętnościami zamieniającymi w Jadeit Moc Starcia +5; jeżeli wygra to Starcie, nie przechodzi w stan Jadeitu, wychodzi z Oszołomienia, obniża Poczytalność Jia Mu o 10 i nakłada na Jia Mu 2 Wrażliwości\nPo wygranym Starciu z Jia Mu zyskuje 1 losowy Zasób E.G.O z każdego z 3 Grzechów o najmniejszej liczbie zasobów",
+      "kr_sha256": "c1eb760cdb409f42660d404dc7badacb175c20b646fb566d3d7b7eb3602076bd",
+      "en_sha256": "99c10d2033daf0dc4193c851f1d94cacff377ecc9812003e4d13cd3ecfa8ee13",
+      "origin": "ai"
+    },
+    "dataList[id=Honglu_Xi].name": {
+      "pl": "Radość",
+      "kr_sha256": "a9286a64cba92572f225c71e40aaecfe1c094cbeb2c431764b985738cb463ad3",
+      "en_sha256": "a908cbd5564b2bf149cdc53c4bda0dee4f1a247fc4807da7443da6017e56bb06",
+      "origin": "ai"
+    },
+    "dataList[id=HugeIrritation].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Obrażeń i 1 Wzrost Mocy za każde 15% brakującego HP (każdy maks. 5)\n- Umiejętności nakładają na wrogów o 3 więcej Siły Wstrząsu i +1 Licznika Wstrząsu\n- Jeżeli Szybkość tej jednostki jest o 3 lub więcej większa od Szybkości celu, zadaje +(różnica Szybkości x 5)% obrażeń (maks. 20%)\n- Ostatnie Monety „Podwójnego Cięcia - Wybuch” i „Potrójnego Cięcia - Wybuch” stają się Niezniszczalnymi Monetami",
+      "kr_sha256": "5ad7e4650e8f3000105f11f657e113e6a08a33b75f5258cdbc11913f62d32984",
+      "en_sha256": "3c480a377e8a782c5f8318a9a2de7cf2e7f72e620bd9ad2699f5373d9f63304d",
+      "origin": "ai"
+    },
+    "dataList[id=HugeIrritation].name": {
+      "pl": "Shin (心) - Gwiazda Tiantui [天退星]",
+      "kr_sha256": "96832d5081466e531d181a21e392ba3764f6f234a4db2ecd6c49d8cfb9cbec64",
+      "en_sha256": "eddc03efce2cf256fde5f91e1ba2d3b64b58e042c1c1322a48384dbf8e851f62",
+      "origin": "ai"
+    },
+    "dataList[id=ImperfectEternalLife].desc": {
+      "pl": "- Jest absorbowany przy trafieniu określonymi Umiejętnościami Jia Mu\n- Jeżeli ten efekt nałożono na Jia Mu, zyskuje 1 Wrażliwości za każdy stos; przy 5 stosach przechodzi w stan Oszołomienia",
+      "kr_sha256": "32bf0e41fa8c7671450dc5dec81f0aa50549e5418ee418d01d65f322e70b377a",
+      "en_sha256": "cf49af2a4e19d0c9a682f3b601c0b8a344e80f0d819913be847a56befac2756e",
+      "origin": "ai"
+    },
+    "dataList[id=ImperfectEternalLife].name": {
+      "pl": "Niedoskonała Nieśmiertelność",
+      "kr_sha256": "083fec73f0ab7a44eea4f8ffa5d3a49f569cf636f871122b5ab75b8bce3ba3dd",
+      "en_sha256": "28f9a1b05565b44a42389a28a1676f851aa69819776ad82fea43cd13ff2e20a1",
+      "origin": "ai"
+    },
+    "dataList[id=Irritation].desc": {
+      "pl": "- Na początku tury zyskuje 1 Wzrost Obrażeń i 1 Wzrost Mocy za każde 20% brakującego HP (każdy maks. 3)\n- Umiejętności nakładają na wrogów o 2 więcej Siły Wstrząsu\n- Jeżeli Szybkość tej jednostki jest o 3 lub więcej większa od Szybkości celu, zadaje +(różnica Szybkości x 5)% obrażeń (maks. 20%)\n- Ostatnia Moneta „Potrójnego Cięcia - Wybuch” staje się Niezniszczalną Monetą\n- Przy określonym wzorcu ten buff zmienia się w Shin (心) - Gwiazdę Tiantui [天退星]",
+      "kr_sha256": "703e345b4e97374a11575381d3205db17b34c221230b238007c79ff24ef20a64",
+      "en_sha256": "6e327c89f4674e2e37e2fa03c997bbdd9f9d830dde774924e320eb4e2f69ab19",
+      "origin": "ai"
+    },
+    "dataList[id=Irritation].name": {
+      "pl": "Gwiazda Tiantui [天退星]",
+      "kr_sha256": "f1eae697b2e2fdc3b9dcb2aecc88419307083ed1587d923d4c7774adf10cecfc",
+      "en_sha256": "d1c7efebf5a98e3d3aa34b0589eb7d5693958a551702a1ba48f1f9ca87083ee9",
+      "origin": "ai"
+    },
+    "dataList[id=LastingHongwonWill_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 2 Wzrostu Mocy Ataku i 1 Spętanie\n- Gdy część Tułowia przegra Starcie z Hong Lu, część Tułowia zyskuje 1 Wzrost Obrażeń i 1 Wrażliwości w następnej turze (1 raz na turę)",
+      "kr_sha256": "ae30d8c2409c07bd4755a9dabe1095cc70545e9811d476ba248dbedc4649c9d2",
+      "en_sha256": "e26e5313b3bf3f08036ac3c94b03c3e776dc60b4fb9f003e36bbb5df9d48b767",
+      "origin": "ai"
+    },
+    "dataList[id=LastingHongwonWill_LowMorale].name": {
+      "pl": "Odziedziczona Wola Hongyuan",
+      "kr_sha256": "710bbbed15c259d8649e1bb5b0e7597b9b4c8ce0d7c039b9d55612cfeabfa283",
+      "en_sha256": "8e6a414a04c8b26cc917e5c56912061885af579dc152bbe1d8ec35dbdb09146c",
+      "origin": "ai"
+    },
+    "dataList[id=LastingHongwonWill_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wzrostu Mocy Ataku i 2 Spętań\n- Gdy część Tułowia przegra Starcie z Hong Lu, część Tułowia zyskuje 2 Wzrostu Obrażeń i 2 Wrażliwości w następnej turze (1 raz na turę)",
+      "kr_sha256": "5ea743e74332c5d88ff3319d04e6346bb65736a328999a92238920791c05c8a9",
+      "en_sha256": "bc037011605785d44926db16bdb73df48ad7045c8411ab7a8867b9ffe792bb4a",
+      "origin": "ai"
+    },
+    "dataList[id=LastingHongwonWill_Panic].name": {
+      "pl": "Odziedziczona Wola Hongyuan",
+      "kr_sha256": "710bbbed15c259d8649e1bb5b0e7597b9b4c8ce0d7c039b9d55612cfeabfa283",
+      "en_sha256": "8e6a414a04c8b26cc917e5c56912061885af579dc152bbe1d8ec35dbdb09146c",
+      "origin": "ai"
+    },
+    "dataList[id=LeRegole_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Jeżeli w poprzedniej turze nałożyła 2 lub więcej Wstrząsu, zyskuje 1 Wzrost Obrażeń Lenistwa,\n- Jeżeli w poprzedniej turze nałożyła 2 lub więcej Podpalenia, zyskuje 1 Wzrost Obrażeń Gniewu,\n- Jeżeli nie nałożyła niczego, zyskuje 2 Spadek Poziomu Obrony",
+      "kr_sha256": "88ec0b743147f079b49a8a797134ece0fcdfa1ef6f2f5af052dcc68ea5b6b682",
+      "en_sha256": "21d54a2ddb3cf6ff1b95d0f6877f43c20b6e2a34db126b0ae53f98cc7fdfa577",
+      "origin": "ai"
+    },
+    "dataList[id=LeRegole_LowMorale].name": {
+      "pl": "Le Regole",
+      "kr_sha256": "69023144c9c8c471c72b199fb6c8e9b00508aa148ca89d7744080d1420bacd8a",
+      "en_sha256": "cef087551a24fac97cf5eb84693ba4b2ee1a07a625f441629cce43ab5a680e09",
+      "origin": "ai"
+    },
+    "dataList[id=LeRegole_Panic].desc": {
+      "pl": "- Panika\n- Jeżeli w poprzedniej turze nałożyła 2 lub więcej Wstrząsu, zyskuje 2 Wzrostu Obrażeń Lenistwa,\n- Jeżeli w poprzedniej turze nałożyła 2 lub więcej Podpalenia, zyskuje 2 Wzrostu Obrażeń Gniewu,\n- Jeżeli nie nałożyła niczego, zyskuje 3 Spadek Poziomu Obrony",
+      "kr_sha256": "834186b769ad0ec7616dab15e9c5fd2efafd811b6ae3f5bc48f16f7c8ff5ab6f",
+      "en_sha256": "09de41e9ada411ad7d6593d87c7a984632276a8d5a358940f98dc9a400b2f80a",
+      "origin": "ai"
+    },
+    "dataList[id=LeRegole_Panic].name": {
+      "pl": "Le Regole",
+      "kr_sha256": "69023144c9c8c471c72b199fb6c8e9b00508aa148ca89d7744080d1420bacd8a",
+      "en_sha256": "cef087551a24fac97cf5eb84693ba4b2ee1a07a625f441629cce43ab5a680e09",
+      "origin": "ai"
+    },
+    "dataList[id=LongLastingHongwonWill_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 2 Wzrostu Mocy Ataku i 1 Wrażliwości\n- Jednostki wytworzone przez tę jednostkę zyskują 3 Spadek Poziomu Obrony\n- Zadaje +20% obrażeń. Jeżeli HP części Lektyki spadnie do 0, zamiast tego zadaje -10% obrażeń",
+      "kr_sha256": "1e83a6c669ccec3fd69045aecb56a890e566bf526e20bad9b8295ad33217a71c",
+      "en_sha256": "2e4fac0107dffda9ef975870092b87f0332d33ef3fe5aac5950a22182d2660c0",
+      "origin": "ai"
+    },
+    "dataList[id=LongLastingHongwonWill_LowMorale].name": {
+      "pl": "Wiecznie Przekazywana Wola Hongyuan",
+      "kr_sha256": "c94cf7e8b50bb87d2ac2e91e9ab71a8f35d32f70057c74743726eb6d4d64b8cd",
+      "en_sha256": "1a78590e10577c95e52e5a57feff58d242a621f59b01a43ae46c49e4c5eb7e89",
+      "origin": "ai"
+    },
+    "dataList[id=LongLastingHongwonWill_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 2 Wzrostu Mocy Ataku i 2 Wrażliwości\n- Jednostki wytworzone przez tę jednostkę zyskują 6 Spadek Poziomu Obrony\n- Zadaje +30% obrażeń. Jeżeli HP części Lektyki spadnie do 0, zamiast tego zadaje -15% obrażeń",
+      "kr_sha256": "bab0715184a80ba34468dc57c294e381cd64943428a3c529fd26cbbb9ab01bbc",
+      "en_sha256": "eb72fa85e6885b83078f9a9dae72a07f2eafe78121388e9af885cb428154d29d",
+      "origin": "ai"
+    },
+    "dataList[id=LongLastingHongwonWill_Panic].name": {
+      "pl": "Wiecznie Przekazywana Wola Hongyuan",
+      "kr_sha256": "c94cf7e8b50bb87d2ac2e91e9ab71a8f35d32f70057c74743726eb6d4d64b8cd",
+      "en_sha256": "1a78590e10577c95e52e5a57feff58d242a621f59b01a43ae46c49e4c5eb7e89",
+      "origin": "ai"
+    },
+    "dataList[id=NEgoFleshSpatula_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początku tury zyskuje 5 Krwawienia i 1 Wzrost Mocy Ataku",
+      "kr_sha256": "070d7bd7a68fa31839270de1fc7bb8a5caffdb2af1d800683702c087c886827e",
+      "en_sha256": "1784a789d8deee0afdbdbd78549a523178fe41b3b0aba986e9d4091db8b19360",
+      "origin": "ai"
+    },
+    "dataList[id=NEgoFleshSpatula_LowMorale].name": {
+      "pl": "Łopatka do Mięsa",
+      "kr_sha256": "ff1c10add08581b3ad169cf6850037f46ace242510b72a8a05556807ecf7d2c7",
+      "en_sha256": "5427cb5fc7d226511b72b9112aced95a83536bb627cea8052376c50064133632",
+      "origin": "ai"
+    },
+    "dataList[id=NEgoFleshSpatula_Panic].desc": {
+      "pl": "- Panika\n- Na początku tury zyskuje 10 Krwawienia i 2 Wzrostu Mocy Ataku",
+      "kr_sha256": "f4ef3211e30568920f95a04032b598ee2cda501440bac81efcc22a78ad2bb5f8",
+      "en_sha256": "25bcbfb30f220db0772a7d0bbc7d5a9de7d4d13a75096358c4d8f474ee82bb41",
+      "origin": "ai"
+    },
+    "dataList[id=NEgoFleshSpatula_Panic].name": {
+      "pl": "Łopatka do Mięsa",
+      "kr_sha256": "ff1c10add08581b3ad169cf6850037f46ace242510b72a8a05556807ecf7d2c7",
+      "en_sha256": "5427cb5fc7d226511b72b9112aced95a83536bb627cea8052376c50064133632",
+      "origin": "ai"
+    },
+    "dataList[id=Obedient].desc": {
+      "pl": "- W Starciu z Jia Mu Moc Starcia -2\n- Znika, gdy Poczytalność tej postaci osiągnie 45 lub wartość spadnie do 0\n- Na koniec tury maleje o 1",
+      "kr_sha256": "370fe3c8858840f3e834524a03531f82ade720df0f3c3e8af088418f06af48e1",
+      "en_sha256": "09552dbb6edc222cde7eb971feaed9ae3909a6290405d8959220c5a8a00aaf77",
+      "origin": "ai"
+    },
+    "dataList[id=Obedient].name": {
+      "pl": "Puste Uposłuszeństwo",
+      "kr_sha256": "ea3198828d425a95da2111279621b68defac8cdbe74a17012305d15711d2b087",
+      "en_sha256": "cb12b6af45a0fa9e8f5ef56617343a3d222d592dd4170faf14bb3934979d4f98",
+      "origin": "ai"
+    },
+    "dataList[id=OutpouringAnger].desc": {
+      "pl": "- Jeżeli głównym celem Umiejętności „Jeszcze nie pojmujesz, jak głęboka jest moc tego oka i jego szczególna natura” jest Hong Lu, wszystkie Monety tej Umiejętności ignorują efekty Umiejętności i stają się Niezniszczalnymi Monetami",
+      "kr_sha256": "05c0b6dba44c0f6ae91ebd75de54e9a018d839364c67ba7e730c6375acfb8468",
+      "en_sha256": "a3bba33007da5d97622da126514b290e097f31c8f8ff3bb46482883038baa5fc",
+      "origin": "ai"
+    },
+    "dataList[id=OutpouringAnger].name": {
+      "pl": "Ostatnie Zrywy",
+      "kr_sha256": "5b8ccbebe952e051896405353f1be4bf098a2d906abccc5dd5fba13696b0919c",
+      "en_sha256": "9c6aa95845a73edcec9a9568deba187100fbe690f0a6dfcc010810f04e6a9245",
+      "origin": "ai"
+    },
+    "dataList[id=PileObedient].desc": {
+      "pl": "- Na koniec tury przy 3 stosach efekt zamienia się w następną turę w Puste Uposłuszeństwo",
+      "kr_sha256": "27690e491a1615d8b60c820f6cf0344f6714925ef435f93cc257f2c7670f560b",
+      "en_sha256": "e7d9e0a9cf242e194fc90f1ea99f01f2621c9c37422358714c99356e10bcc0d6",
+      "origin": "ai"
+    },
+    "dataList[id=PileObedient].name": {
+      "pl": "Narastające Uposłuszeństwo",
+      "kr_sha256": "75b7905a913461bcd0d24a5e8966842e309efe8d2173124c8651230f62a03d7f",
+      "en_sha256": "d5db721561eff3eff44d0c418d7d49e6c86e01cadbfcf81d830684009595c777",
+      "origin": "ai"
+    },
+    "dataList[id=Prey].desc": {
+      "pl": "- W Starciu z wrogiem Moc Starcia -5\n- Na początku walki,\n· Jeżeli wyposażono Umiejętność ataku, zadaje o 50% mniej obrażeń Lei Hengowi Umiejętnościami ataku\n· Jeżeli wyposażono Umiejętność obrony, otrzymuje o 75% mniej obrażeń od Lei Henga\n- Jeżeli wygrywa Starcie z Lei Hengiem, mając ten efekt, zyskuje 3 najmniej posiadanych Zasobów E.G.O\n- Znika na koniec tury, a jednostka odzyskuje 10 Poczytalności",
+      "kr_sha256": "23f0d6f22443ba62385be57ab3bffaca4e33b6d5b44cae829a9009503914160e",
+      "en_sha256": "13630763abbf69fcf0069b8eca0eec6118d860fd730fcc6c0178ebb15dcca8a3",
+      "origin": "ai"
+    },
+    "dataList[id=Prey].name": {
+      "pl": "Zdobycz",
+      "kr_sha256": "610cb599d305bd34772b543674c958521c4ac8d050b77aad28c242c3e38fb15c",
+      "en_sha256": "c3abf0bb898513536843fe2d479377b22059128f533fda81d4c15210fb8cbb97",
+      "origin": "ai"
+    },
+    "dataList[id=ReloadKeepAmmo].desc": {
+      "pl": "- Odzyskuje amunicję do Maks. wartości (bez wyrzucania posiadanej amunicji)",
+      "kr_sha256": "885cf37a97557a04f77d6b7744e4e3d3d8aec807641ce529ddb7613b0a258b2c",
+      "en_sha256": "568fdd152e8d9621b4b25014a3504fe13303cffe066b468f24ff5d10b607d6ff",
+      "origin": "ai"
+    },
+    "dataList[id=ReloadKeepAmmo].name": {
+      "pl": "Przeładowanie - Taktyczne",
+      "kr_sha256": "9a16abaa3f5c1807b2a3fbf10bbf3ed6a2ece47d014640c2bc882782f62a70e5",
+      "en_sha256": "cd1e58f5d36e989a0e783dc2658b374c7c039e33a784d54be16227dbb7d64285",
+      "origin": "ai"
+    },
+    "dataList[id=RestoredBattleSense].desc": {
+      "pl": "- Maks. stosów: 50\n- Liczy się jako „Siła Skryta”. Zużywana przez określone Umiejętności; na koniec tury odzyskuje Poczytalność równą liczbie zużytych stosów.\n- Zyskuje 2 stosy za każde Starcie (maks. 10 na Umiejętność). Po przegranej w Starciu traci stosy zdobyte w tym Starciu\n- Zyskuje 3 stosy przy trafieniu Atakiem Jednostronnym (maks. 15 na Umiejętność)\n- Na koniec tury, w następnej turze, zyskuje Pośpiech zależny od łącznej liczby zużytych w tej turze stosów (1 Pośpiech za 25 stosów, maks. 5)",
+      "kr_sha256": "97e7dd6bdc6a3e26de8f51404b8641f33b9dd7ea83ef485e2141c4874d230e7c",
+      "en_sha256": "bd93777492707fcb4fcbcef41e480bdc50eb4ffa3415493936e8b1aa05564a7c",
+      "origin": "ai"
+    },
+    "dataList[id=RestoredBattleSense].name": {
+      "pl": "Siła Skrajna [極力]",
+      "kr_sha256": "d8e7fafc5f5a8e25fd0dc38393740f00c4cdb0f55aa65954bfe502f17316390a",
+      "en_sha256": "4f8bc057b9c7c57980039f705e5d489d899ce422d83bd8d9ce7e7b26c5d58f3c",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_Attackup].desc": {
+      "pl": "[Efekt specjalny Ryōshū]\n- W tej walce zadaje Lei Hengowi +(liczba tur x 2,5)% obrażeń (maks. 30%)",
+      "kr_sha256": "25f6a569c2884ef2d40d481a56078c6331eb7c02f3df7376189efcca729ee197",
+      "en_sha256": "93bbb082caee4d26662c41a49f2a88791ad931d213c718b992ac5698626b754d",
+      "origin": "ai"
+    },
+    "dataList[id=Ryoshu_Attackup].name": {
+      "pl": "Pocięta Pamięć",
+      "kr_sha256": "551d7be4d9e72f6862692e625e17b88e9ae6766525967ba1fc73bd49983abedd",
+      "en_sha256": "34bbf7f7cefb809a163bd69f17e5826558a59afe9061eb2850d7ecff7ce970a6",
+      "origin": "ai"
+    },
+    "dataList[id=SupremeEternalLife].desc": {
+      "pl": "- Na początku tury nakłada korpusowi i wszystkim częściom Jia Mu Tarczę równą 5% Maks. HP każdego z nich",
+      "kr_sha256": "9e6c039fc135b6ed1039ea79210e8b200cb064368bf407fd7640f0fa9901f4b5",
+      "en_sha256": "994952d0b5656f9b90dca89a872372f189c4a8534fb70161ee848a625212ba23",
+      "origin": "ai"
+    },
+    "dataList[id=SupremeEternalLife].name": {
+      "pl": "Wzniosła Nieśmiertelność",
+      "kr_sha256": "e4e7f5a97557fd0a206ba64959f3f2d286ea27ad2d00cd97e2c65af3ae5a7990",
+      "en_sha256": "5c6bcbf278fdce116cafcecdf02fd70053d0907137ddd95ac5571bca49374e5b",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationIgnition].desc": {
+      "pl": "- Przy Wyładowaniu Wstrząsu otrzymuje obrażenia Gniewu równe (suma Siły Wstrząsu i Siły Podpalenia / 2) i traci 1 Licznika Podpalenia\n- Przy trafieniu Umiejętnościami wywołującymi Wyładowanie Wstrząsu podnosi Próg Oszołomienia o Siłę tego efektu\n- Po zakończeniu tury traci 1 Licznika\n(Działa tak samo jak zwykły Wstrząs wobec efektów zwiększających lub zmniejszających Siłę i Licznik Wstrząsu)",
+      "kr_sha256": "32b617923c9d0101055234ba19217aa8792c438a43fd6610e5a2e64d3ee6a01e",
+      "en_sha256": "9493deafe8638811e4f8c9eedda72a3ac9b803dda580f330eda0e14aa4dc5668",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationIgnition].name": {
+      "pl": "Wstrząs - Żar",
+      "kr_sha256": "1d2abf903a86c72eb32b6ee824821523e4cb91045ea608641a6c25eb5993ebea",
+      "en_sha256": "a4c8519cf6c4ad15c8be3629999fe5e97cd2f8490f03b0f8846e98d0fc310928",
+      "origin": "ai"
+    },
+    "dataList[id=YisangParryGubo].desc": {
+      "pl": "W Starciach z Gubo Moc Starcia +2",
+      "kr_sha256": "3c753300f45b7819dac96d915d7e8a1ec844861895ad10212d800273a26881ff",
+      "en_sha256": "12600aeea2ac1efaec5ced891c692204e64d21cfef412b48d326e638f18c5644",
+      "origin": "ai"
+    },
+    "dataList[id=YisangParryGubo].name": {
+      "pl": "Poczucie Obowiązku",
+      "kr_sha256": "66f30cf912516aa2f0fe2fda26d699b9a5ce9d68ee3051dec9f473572e430051",
+      "en_sha256": "c91217be093ab3d9bc1ce3917ed89c8c74d60bada735eea6ca2fa9fb9c3931a3",
+      "origin": "ai"
+    }
+  }
+}
