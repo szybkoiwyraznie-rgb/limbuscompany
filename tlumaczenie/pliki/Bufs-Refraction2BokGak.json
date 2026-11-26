@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=PassedPortal_GreenBokGak].desc": {
+      "pl": "Za przejście przez Wymiar Maks. HP Korpusu rośnie o 20% za każdą wartość",
+      "kr_sha256": "92f94036bfc05cae0d59ff5e204ab595256d3a2b780d5dd71513a75356cbe786",
+      "en_sha256": "88cccb3665f7e82a97e55e5152a3abc109f2782fbf3eba5179072df9cbee9149",
+      "origin": "ai"
+    },
+    "dataList[id=PassedPortal_GreenBokGak].name": {
+      "pl": "Wymiar Wrzącej Trucizny",
+      "kr_sha256": "1f9fc6426f85a67440e95f328b3e5e34ed3d7c52d5d5903d84e80f4085f8ce3f",
+      "en_sha256": "9414c60c3ef8b57ec76ae01ba8cb9cd1e559c094e22ca24c2b9ae49f971aaf96",
+      "origin": "ai"
+    }
+  }
+}

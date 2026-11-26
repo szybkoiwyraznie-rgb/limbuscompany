@@ -1,0 +1,934 @@
+{
+  "entries": {
+    "dataList[id=AlriunePetal].desc": {
+      "pl": "- Maks. ładunków: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Przy 3 ładunkach w tej turze używa potężnej Umiejętności</u></b></mark></color>\n- Zadaje oszołomionym celom obrażenia +(Płatki na sobie x 10)%\n- Na koniec tury zyskuje 1 ładunek",
+      "kr_sha256": "f6520eb1cb096faaa15e95d6eb9a213c56c4de6a3092c7bd2a664cbb83daf366",
+      "en_sha256": "3d5bcdce103987d86c1869136ae434ae559de9ec984082db6126f660c45308cf",
+      "origin": "ai"
+    },
+    "dataList[id=AlriunePetal].flavor": {
+      "pl": "Płatek pierwszy, płatek drugi. A potem trzeci.",
+      "kr_sha256": "611974af16e31e9dc288b57542c85701f0f4df67ecf1067dbbc8158b5295c6b1",
+      "en_sha256": "d724ee1324b7b6cbde3edc1cc77a93148f5f77eed2ca69e75c44c5c16401d315",
+      "origin": "ai"
+    },
+    "dataList[id=AlriunePetal].name": {
+      "pl": "Płatki",
+      "kr_sha256": "355eac92eb8ad1f2b2a0db619ea79beb155a3b37b2414fc07d0d82a8be83f502",
+      "en_sha256": "2a507212b229e94a284146f39ac831607f6a78e213fbe422a6e6586643804446",
+      "origin": "ai"
+    },
+    "dataList[id=AlriuneSillage].desc": {
+      "pl": "- Maks. ładunków: 30\n- Na koniec tury otrzymuje obrażenia Poczytalności równe liczbie ładunków\n- Przy otrzymaniu obrażeń od Zatonięcia zyskuje 1 ładunek\n- Przy Wyładowaniu Wstrząsu nakłada 1–2 „Subtelnego Aromatu” na 3 innych losowych sojuszników\n- Przy Maks. ładunków zyskuje 2 Wstrząsu i wywołuje Wyładowanie Wstrząsu, otrzymuje obrażenia Posępności równe własnemu Zatonięciu, a Subtelny Aromat znika; do końca tury nie można go zyskać\n- Przy śmierci rozdziela losowo między sojuszników połowę własnych ładunków „Subtelnego Aromatu” (zaokrąglane w dół)",
+      "kr_sha256": "966829e1a0b4d1e93904f3dd9953c10ebcd832541b9c4c51640ea17fa414b789",
+      "en_sha256": "6a6e13d6f570437b5a6f3fcc9019a43d2384e00efe1379be3405bca8331a3b1a",
+      "origin": "ai"
+    },
+    "dataList[id=AlriuneSillage].flavor": {
+      "pl": "Zapach rodzi tęsknotę. A tęsknota — serdeczny ból.",
+      "kr_sha256": "96fb92d033927aa5feab9476ce6ef729e25031f3fa44f04c2d9f9aecf162ab4f",
+      "en_sha256": "150964ee2bc3122bd6deb8e2d0e0d53093e4a76bf95c3dd35472d3f7cb023732",
+      "origin": "ai"
+    },
+    "dataList[id=AlriuneSillage].name": {
+      "pl": "Pogłos",
+      "kr_sha256": "6ce792a5f988f1d8ee7c1570a3f7436f8c7c1524fa3778150349de10c69936bf",
+      "en_sha256": "6c902bd8c379992589c2ea65d631f0acb5f7c4fba79a84ad387d4d3f11f796d3",
+      "origin": "ai"
+    },
+    "dataList[id=AngryBlackYarn].desc": {
+      "pl": "- Za każdą Część posiadającą ten efekt wszystkie Części zyskują Moc Starcia +2\n- Zadaje obrażenia +5% za każde 3 Splątania na celu (maks. 50%)\n- Znika na koniec tury",
+      "kr_sha256": "775def6880ddcd1c1fca4e5afa24f5f2e4b0bae20e809f89fa4af32e1f6c138f",
+      "en_sha256": "4a10b1940165e9e339c7b6f2eaa65f839744db2b09cf835e7bee3839437510a9",
+      "origin": "ai"
+    },
+    "dataList[id=AngryBlackYarn].flavor": {
+      "pl": "W każdym akwarium był swój drapieżnik — niczym Menedżer Piętra w Grand Magasin. Drapieżnik nosi dziś postać ryby, lecz w dawnym Systemie Sisyphe w Akwarium nie było istot o ciele ryby. Umysły tych, którzy tam żyli, były rybimi, ale ich postaci — ludzkie.",
+      "kr_sha256": "a2bb24e147dc8563dfc60605c41d29c652e12f2ad7a90bff9bbd76da17a0d62e",
+      "en_sha256": "f1d54d72d1de0264a3b7793856461cd56fc65f7a72278ce96ac6db2c7c8fd34d",
+      "origin": "ai"
+    },
+    "dataList[id=AngryBlackYarn].name": {
+      "pl": "Instynkt Dawnego Drapieżnika",
+      "kr_sha256": "9d0532447ee888688860b76cab37bcb3cd52e56b06379bdb5911c5ef5b65b0fe",
+      "en_sha256": "e8d9fa2337299c8e5fda9234b954d1a16e9c2d218a873481000278d0e68c278a",
+      "origin": "ai"
+    },
+    "dataList[id=B3FreshMob].desc": {
+      "pl": "Maks. ładunków: 1\nNa początku tury zyskuje 20 Tarczy\nNa początku tury zyskuje 2 Ochrony\nZnika na koniec tury",
+      "kr_sha256": "9f43cfd005271a00de0f88fdf3ed7e0c4b78319f1f2b018b9826ce964da44cd7",
+      "en_sha256": "5511e45850e4532a91b8725855726b599291c500df5fe6e8a501930c1aca1e00",
+      "origin": "ai"
+    },
+    "dataList[id=B3FreshMob].flavor": {
+      "pl": "Proszę obchodzić się ostrożnie. Gdy przymierzysz szatę ze skóry i nadmiernie sięgniesz, powstaną zagniecenia... a to obniża jej wartość.",
+      "kr_sha256": "01cd55e44914ab11882c741a25d4599c00a5579180db9fb5b033525ef34dcd8a",
+      "en_sha256": "df3aef2db326a2ec5e218070574cadda944d382982179395883aa42152fa5e21",
+      "origin": "ai"
+    },
+    "dataList[id=B3FreshMob].name": {
+      "pl": "Skóra Bez Zagnieceń",
+      "kr_sha256": "120d5a8c8bba82970d9edb89cdb2d303d6c498677adc6dead13f02254db58a79",
+      "en_sha256": "8dbab0608338b50286b6d7b4984337d9f3f3b8c725236a6beb74483cfef0af7d",
+      "origin": "ai"
+    },
+    "dataList[id=BlackYarn_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Przy użyciu Umiejętności, jeżeli głównym celem jest Pwie, Moc Starcia +3, Moc Bazowa +2\n- Przy trafieniu nakłada 1 Splątania (3 razy na Umiejętność)",
+      "kr_sha256": "7c05c28e90b7f9981bf4cdb71dabc779d1297e98e390dc259cc15e284ad15196",
+      "en_sha256": "1de9db6ff025a7d4ac4421d2f0fd933db913c44b0acb1d25b308c9212d83e647",
+      "origin": "ai"
+    },
+    "dataList[id=BlackYarn_LowMorale].name": {
+      "pl": "Pogrążone w Żałobie po Dziecku",
+      "kr_sha256": "5672d688023ccf2ab90cec249748d959082c1285763fab960155beada1b213c7",
+      "en_sha256": "94d5c6ff576310bf4521502a375effdf65ec66054090c3a2ddbf0605665cc81d",
+      "origin": "ai"
+    },
+    "dataList[id=BlackYarn_Panic].desc": {
+      "pl": "- Panika\n- Wszystkie Ataki celują w Pwie\n- Przy użyciu Umiejętności, jeżeli głównym celem jest Pwie, Moc Starcia +6, Moc Bazowa +4\n- Na początku walki wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami\n- Przy trafieniu nakłada 1 Splątania (6 razy na Umiejętność)",
+      "kr_sha256": "e52ad6d953a6e405ccf2d4acc8dd519673e9533f4fd810651176c70574462d58",
+      "en_sha256": "9d788bcb9beea9d65192c7461f0b9ca00a76c1e82bfecb12a0d0b3f10cc175ba",
+      "origin": "ai"
+    },
+    "dataList[id=BlackYarn_Panic].name": {
+      "pl": "Pogrążone w Żałobie po Dziecku",
+      "kr_sha256": "5672d688023ccf2ab90cec249748d959082c1285763fab960155beada1b213c7",
+      "en_sha256": "94d5c6ff576310bf4521502a375effdf65ec66054090c3a2ddbf0605665cc81d",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyMucusAlly].desc": {
+      "pl": "- Maks. ładunków: 3\n- Umiejętności ataku zyskują Licznik Krwawienia równy ładunkom (1 raz na Umiejętność)\n- Przy użyciu Umiejętności obrony traci 1 ładunek\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "f0054105aeba71a3d58b8d2ecf78537b74c77da82205fdc3786d9a6c1fad310e",
+      "en_sha256": "33297c40f6fc44584a2d946b3fb24134349c8b5cdcfed5dfa5c80937c41e6869",
+      "origin": "ai"
+    },
+    "dataList[id=BloodyMucusAlly].name": {
+      "pl": "Chrzest [Czerwień]",
+      "kr_sha256": "533138fff67ce0cd5d9a8fb3939bff15d9bc31444e19067f756940d91b92476a",
+      "en_sha256": "559495885b842c99219cf2daaa069f1cc6c00d2131284095bf6473cfa1e36cab",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField].desc": {
+      "pl": "- Po pojawieniu się w walce co 2 tury na początku tury obszar wpływu Le Vomissement się rozszerza\n· Etap 1: Pwie\n· Etap 2: wszyscy sojusznicy Grzesznicy\n· Etap 3: wszystkie jednostki",
+      "kr_sha256": "bf745d992bf953751926d2584b7e8262b66f06300c210dcb41ddbf310293ed94",
+      "en_sha256": "a6e262823593aa758310dda4009c9a75aa8b20c7de2d4d314ebf0ac5650cc2a6",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField].flavor": {
+      "pl": "To, co pożerano, by przetrwać i rosnąć, czyniło z zewnątrz wnętrze — „moje”. Potem zostaje wyrzucone ponownie, a „moje” znów staje się „zewnętrznym”. To cykl, ekspansja i wyczerpanie.",
+      "kr_sha256": "d324fca0ddafdc492dbff243a98797069e6b950489c138feb550c1da299f8fdd",
+      "en_sha256": "13ab1f7b605e10b22086f35024bd874d1a6c4d6db903613a65f7d51cfb4af467",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField].name": {
+      "pl": "Le Vomissement",
+      "kr_sha256": "f4dbe73ab5e471113f8619290bee71e62a1bc795d2d9bb3feeb3cf3153945eaa",
+      "en_sha256": "0b26664facccb507e9cb6da7fb302a69ff414b4770560e90f3233733f5f53a20",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_0].desc": {
+      "pl": "- Po pojawieniu się w walce co 2 tury na początku tury obszar wpływu Le Vomissement się rozszerza",
+      "kr_sha256": "76d2c69adddfef9ad54c2819313242f04261214c5b60cd0a1abcb796736c7422",
+      "en_sha256": "e03345b60a18d14855f145904500135778726aa5eff1bd9a3355b62c8ba72bcb",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_0].flavor": {
+      "pl": "To, co pożerano, by przetrwać i rosnąć, czyniło z zewnątrz wnętrze — „moje”. Potem zostaje wyrzucone ponownie, a „moje” znów staje się „zewnętrznym”. To cykl, ekspansja i wyczerpanie.",
+      "kr_sha256": "d324fca0ddafdc492dbff243a98797069e6b950489c138feb550c1da299f8fdd",
+      "en_sha256": "13ab1f7b605e10b22086f35024bd874d1a6c4d6db903613a65f7d51cfb4af467",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_0].name": {
+      "pl": "Le Vomissement",
+      "kr_sha256": "f4dbe73ab5e471113f8619290bee71e62a1bc795d2d9bb3feeb3cf3153945eaa",
+      "en_sha256": "0b26664facccb507e9cb6da7fb302a69ff414b4770560e90f3233733f5f53a20",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_1].desc": {
+      "pl": "- Po pojawieniu się w walce co 2 tury na początku tury obszar wpływu Le Vomissement się rozszerza",
+      "kr_sha256": "76d2c69adddfef9ad54c2819313242f04261214c5b60cd0a1abcb796736c7422",
+      "en_sha256": "e03345b60a18d14855f145904500135778726aa5eff1bd9a3355b62c8ba72bcb",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_1].flavor": {
+      "pl": "To, co pożerano, by przetrwać i rosnąć, czyniło z zewnątrz wnętrze — „moje”. Potem zostaje wyrzucone ponownie, a „moje” znów staje się „zewnętrznym”. To cykl, ekspansja i wyczerpanie.",
+      "kr_sha256": "d324fca0ddafdc492dbff243a98797069e6b950489c138feb550c1da299f8fdd",
+      "en_sha256": "13ab1f7b605e10b22086f35024bd874d1a6c4d6db903613a65f7d51cfb4af467",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_1].name": {
+      "pl": "Le Vomissement",
+      "kr_sha256": "f4dbe73ab5e471113f8619290bee71e62a1bc795d2d9bb3feeb3cf3153945eaa",
+      "en_sha256": "0b26664facccb507e9cb6da7fb302a69ff414b4770560e90f3233733f5f53a20",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_2].desc": {
+      "pl": "- Po pojawieniu się w walce co 2 tury na początku tury obszar wpływu Le Vomissement się rozszerza",
+      "kr_sha256": "76d2c69adddfef9ad54c2819313242f04261214c5b60cd0a1abcb796736c7422",
+      "en_sha256": "e03345b60a18d14855f145904500135778726aa5eff1bd9a3355b62c8ba72bcb",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_2].flavor": {
+      "pl": "To, co pożerano, by przetrwać i rosnąć, czyniło z zewnątrz wnętrze — „moje”. Potem zostaje wyrzucone ponownie, a „moje” znów staje się „zewnętrznym”. To cykl, ekspansja i wyczerpanie.",
+      "kr_sha256": "d324fca0ddafdc492dbff243a98797069e6b950489c138feb550c1da299f8fdd",
+      "en_sha256": "13ab1f7b605e10b22086f35024bd874d1a6c4d6db903613a65f7d51cfb4af467",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetField_2].name": {
+      "pl": "Le Vomissement",
+      "kr_sha256": "f4dbe73ab5e471113f8619290bee71e62a1bc795d2d9bb3feeb3cf3153945eaa",
+      "en_sha256": "0b26664facccb507e9cb6da7fb302a69ff414b4770560e90f3233733f5f53a20",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetGold].desc": {
+      "pl": "- Maks. ładunków: 5\n- Otrzymuje obrażenia +5% za każdy ładunek\n- Przy Maks. ładunków, jeżeli posiada Krwawienie, otrzymuje obrażenia +10%",
+      "kr_sha256": "7eba5fb0a6dba9a11494e71b0038fe4487f5fe45a08d9c546c5ad9745ac81aa3",
+      "en_sha256": "5ae576f0937bd300d3c610b8e966bb5e010e90b66ac2c0a66c650a8f2b5543f4",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetGold].flavor": {
+      "pl": "Złota poświata wskazuje dziecku, kogo skrzywdzić następnym razem. A mimo tej wskazówki dziecko wierzy, że wyrok jest w całości jego własnym wyborem.",
+      "kr_sha256": "9e8a575003b55573990f4a3cd5bad067cf3eef8c328fbdaa7f18dab6f2be6ff6",
+      "en_sha256": "764feee711f43b6f2f492a4ac530aecd7ffd5ebcb443447a9566371babd33b19",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetGold].name": {
+      "pl": "Złote Objawienie",
+      "kr_sha256": "51e7bf23b1cb53ba6bcdeaca48474bff4c7d7f0d04a5c1f641aedd2b7b519e70",
+      "en_sha256": "d163c5006fb7ce8049a88aff1bdee0967c5fadb11c8fdf20afcc141583c10c18",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetGoldenClothes].desc": {
+      "pl": "- Poziom Obrony +10\n- Na koniec tury, jeżeli jednostka jest oszołomiona, wychodzi z Oszołomienia i odzyskuje 50% Maks. HP (1 raz na walkę)",
+      "kr_sha256": "09bf6d21dda0015c6ace4904e260e916499e7f0d43e43684c057bfddc8b16f02",
+      "en_sha256": "db8b7b11ab4f09afb5070f279565b9f257188a8d94243dcefa561bca3754f4bc",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetGoldenClothes].flavor": {
+      "pl": "Dziecko przyodziało ubrania dorosłego. Nie byle jakie — szatę ze skóry zrobioną z czyjejś śmierci. I tak dziecko robi o krok bliżej dorosłości.",
+      "kr_sha256": "fb31ad5c2f09e94574d48df3e133e9390a7ae9161914e3601669836db45760ff",
+      "en_sha256": "ab9cee8ea220a1ce89755959b6e6587a1b41267baf5c219b77ef7956187d7a67",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetGoldenClothes].name": {
+      "pl": "Złoty Całun",
+      "kr_sha256": "9626a0272cc24916ebd90d09f78258a1e32fb3e218c9483b0a4011ed97dd67b7",
+      "en_sha256": "af7d5652d5fd2c75f289c37e6ad152b6c2bba54d981c2b442b25412b129bb32f",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetShoes].desc": {
+      "pl": "- Min. Szybkość +3, Maks. Szybkość +3",
+      "kr_sha256": "c17c166a249b00a79eb6135c7467050f9770ed519e831e8b1f02fb9cb5fa320e",
+      "en_sha256": "e8c1fd93d012c52249de4ad8ad7f0b2fe57c6f1e31abe176a815bebe999671f4",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetShoes].flavor": {
+      "pl": "Buty... dziękuję. Czy w nich mogę pójść dokądkolwiek? Chcę... pojechać z tobą w podróż.",
+      "kr_sha256": "a705c0670b083dcc1f656e57e1d5e39bf77163a46ba55ef80266b2ef5d774875",
+      "en_sha256": "a5e96315b8697152dd1086f9561bde1bb9025c28bf567dedef17860955a03016",
+      "origin": "ai"
+    },
+    "dataList[id=BuffetShoes].name": {
+      "pl": "Różowe Mary Jane",
+      "kr_sha256": "1089b24099c1aa101ceb5306c7ec92c28c1ef1466b72af9230b46f12b5a601a2",
+      "en_sha256": "06d051ebf5d374957593f96e2d74b625f8dc52981f547419d36edbccdaf2c79f",
+      "origin": "ai"
+    },
+    "dataList[id=Buffet_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Zyskuje 3 Ochrony",
+      "kr_sha256": "195a410e3923a594a4cf1bab442eb4e19ebc12547fa5fad9d131b8d988f334fe",
+      "en_sha256": "1da6617765ecf29062a80c1d33a323c79bec7088ad17b6d988169d621bc7f7ba",
+      "origin": "ai"
+    },
+    "dataList[id=Buffet_LowMorale].name": {
+      "pl": "Niezapomniany Ból",
+      "kr_sha256": "94d2be1070d73d6cf07821204f29062ac0e63145d833efd76fec53f67f87f4b5",
+      "en_sha256": "6c9c688797a2b5c9828b5c0ba60682fa60d9e65b6d23355fc3ebc2212a5c06cf",
+      "origin": "ai"
+    },
+    "dataList[id=Buffet_Panic].desc": {
+      "pl": "- Panika\n- Zyskuje 5 Ochrony",
+      "kr_sha256": "9504e1bb7be7755767dad38de26a8904cd6e8145d481e4abbb2fb946e2b92267",
+      "en_sha256": "2011bfbf7ffc128b63e8427be2820bdefad5998d1d6f0a372412bcd7067db0d7",
+      "origin": "ai"
+    },
+    "dataList[id=Buffet_Panic].name": {
+      "pl": "Niezapomniany Ból",
+      "kr_sha256": "94d2be1070d73d6cf07821204f29062ac0e63145d833efd76fec53f67f87f4b5",
+      "en_sha256": "6c9c688797a2b5c9828b5c0ba60682fa60d9e65b6d23355fc3ebc2212a5c06cf",
+      "origin": "ai"
+    },
+    "dataList[id=ChargeKhaki].desc": {
+      "pl": "- Specjalny Ładunek\n- Maks. licznika: 20\n- Podlega w ten sam sposób efektom zwiększającym lub zmniejszającym Siłę i Licznik Ładunku\n- Na koniec tury traci 1 Licznika",
+      "kr_sha256": "f37629c96f5ca9c920ae61a67bfefdde7b806b66006e8ee81e8b9f91eb8c01cd",
+      "en_sha256": "6e7587465d2f4ae1980386c1f7f2af63ba3b7270567a1c643b3b039b12ecda32",
+      "origin": "ai"
+    },
+    "dataList[id=ChargeKhaki].flavor": {
+      "pl": "Dryfujący nie mogąc zmienić prądu, umacniają go i wykonują swoje dzieło w jego obrębie.",
+      "kr_sha256": "426717f5033c203030d2e42be8d5a33d8aeb45147e0846c5deee51adfc130b14",
+      "en_sha256": "a19a452f5ed49ec49a44f68c3a5f6e8edd38f3e4d9e1e4bf83cbfa7fc1312497",
+      "origin": "ai"
+    },
+    "dataList[id=ChargeKhaki].name": {
+      "pl": "Bezwładność Dryfu",
+      "kr_sha256": "47d7764893093f7c9ce6e109a347c2314d5ccc876171005c4d405b7cb9cda284",
+      "en_sha256": "1fd78544bba2eed7c305ed00198a0a97cb8cf501033fb0b6584460915d1a1461",
+      "origin": "ai"
+    },
+    "dataList[id=DamagedFabric].desc": {
+      "pl": "- Maks. ładunków: 30\n- Na początku tury zyskuje 1 Spadku Regeneracji HP za każde 6 ładunków (maks. 5)\n- Podczas Starcia z Umiejętnościami „Wycinanie Wzoru” i „Surfile à la Chaîne” traci Moc Starcia równą liczbie ładunków",
+      "kr_sha256": "dfe581b31488f4316994d200f92a2b35648e16112e79947a18fb8d4ce261db76",
+      "en_sha256": "895a83f61cdfd90276bde111c005c1b5e209be415bc48dcd850948ba6a2247ab",
+      "origin": "ai"
+    },
+    "dataList[id=DamagedFabric].flavor": {
+      "pl": "Posiekane płótno, choćby je zszyć, staje się tylko patchworkiem — nigdy nie wróci do jednej tkaniny utkanej z pierwotnych nici.",
+      "kr_sha256": "e78e96f2f3dae22a2c32c15a7a6f0db7130000193bff7cef150b14db4688263e",
+      "en_sha256": "c9b6c06c3b1c465a0437f2dbdc7b618d67dcab43ec84f6f85e13d99e44d37447",
+      "origin": "ai"
+    },
+    "dataList[id=DamagedFabric].name": {
+      "pl": "Rozcięte",
+      "kr_sha256": "2b7584ffe55d2bbe3588c241a6a6c929f33d741858d23ee608e7b6994a562560",
+      "en_sha256": "fd59836a96dd9e90e324db2eb76238c33d5fe822a2e79bd142824e7dab2cfc89",
+      "origin": "ai"
+    },
+    "dataList[id=FinishedFabric].desc": {
+      "pl": "- Maks. ładunków: 30\n- Umiejętności, które zyskują lub zużywają Licznik Ładunku (w tym Specjalny Ładunek), zadają obrażenia +(ładunki)% (maks. 30%)\n- Na koniec tury traci 5 ładunków\n· Jeżeli w tej turze Tarcza została złamana, zamiast tego traci 10 ładunków",
+      "kr_sha256": "efa83abadb3e96a0feab1e183246ebc3940abae0f9db72d94a4f9f389345bfe8",
+      "en_sha256": "5b58a6cf4f711453b2ef5f2bf0ec27043de71e825dc7a965e35b5f671c3277bb",
+      "origin": "ai"
+    },
+    "dataList[id=FinishedFabric].flavor": {
+      "pl": "Tkaniny, każda z własnym przeznaczeniem, spełniają swoją rolę tylko wtedy, gdy właściwie je się skroje.",
+      "kr_sha256": "c8c06780d75e63b1f4862989f3d201fe461c6f3fcc621b2433c37ffd1a571fb6",
+      "en_sha256": "536a695cd058b419b064026247a77f71425da7abe96bb2c0396b92cb12d3366b",
+      "origin": "ai"
+    },
+    "dataList[id=FinishedFabric].name": {
+      "pl": "Skrojona Tkanina",
+      "kr_sha256": "c44aa55bb9b1b7bca7a3092ddbb54f30ce9a15961df581f0976dc64e4dbb49b5",
+      "en_sha256": "0c2b4bea15220d9ea0bd925dc7942376072a48e7a9d59fb5a19de54b07c67d01",
+      "origin": "ai"
+    },
+    "dataList[id=FlowerLaurelWreath].desc": {
+      "pl": "- Usuwa wszystkie Progi Oszołomienia\n- Moc Starcia +2\n- Otrzymuje -50% obrażeń Poczytalności od Zatonięcia (zaokr. w dół)\n- Na koniec tury odzyskuje 10 Poczytalności i 5 Pośpiechu w następnej turze\n- <color=#ff6000><mark color=#ff000040><b><u>Po wygranej w Starciu wszyscy sojusznicy (łącznie z Wsparciem) odzyskują 5 Poczytalności</u></b></mark></color>",
+      "kr_sha256": "0e7937d31d288b89757e150325668197600c9ce53ac281dc8b389c9815b6a081",
+      "en_sha256": "1bb54574d8ea509e91df62f1c8e7d4a17e40b78c9c8c358131d0a5b11ec8c185",
+      "origin": "ai"
+    },
+    "dataList[id=FlowerLaurelWreath].flavor": {
+      "pl": "Niech wyznanie grzechów rozkwita pod kwiatową wonią.",
+      "kr_sha256": "1b88eda01062f437811701bde8cf5d63d1728486e26402d76a78ccc6f52255e4",
+      "en_sha256": "5a36d33558f8764b06ab16d5760601866a84dc87bc3de947d9da6b3ed08c01a2",
+      "origin": "ai"
+    },
+    "dataList[id=FlowerLaurelWreath].name": {
+      "pl": "Wieniec Laurowy Zadośćuczynienia",
+      "kr_sha256": "7d6c1a454890f573bb1174248538aa537422d9dd314835d61d7e98972fcf681b",
+      "en_sha256": "6a74e47c735b0a93b0dd7d07588128446897795a0e715475b2b787a943302f75",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenLeatherEnhance].desc": {
+      "pl": "Moc Końcowa Umiejętności +1 za każde 3 Igłogwoźdź na celu (maks. 3)",
+      "kr_sha256": "8b4e9e8f5c55794581240a0ad1d0ac1d312cddd02eb2fa9d0b29ca169e533ca0",
+      "en_sha256": "c483b65ab35785c298c12b6b0535c2a1f02c37e4be576c6f91596ed078eed5c5",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenLeatherEnhance].flavor": {
+      "pl": "„Nie musisz słuchać. Wystarczy sprawić, żebyś nie mógł słyszeć. Jeżeli tego chcesz, tak właśnie zrób. Nie musisz tego negować.”",
+      "kr_sha256": "bf5a194bb3a2bc13336c87a687514f5d81a1e7e3f9cc68308e4265f36d43db9d",
+      "en_sha256": "de09a02587cbc80439dfbe49bdc3bb5202318c8a285db558c1a5cae2fd968d0e",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenLeatherEnhance].name": {
+      "pl": "Parzące Promienie Słońca [Król Szycia]",
+      "kr_sha256": "798f6610259b902fd48f4cf9f285427864aca097da9679f54dd1cdcfbd5ff47c",
+      "en_sha256": "aa2237b87f01e58cc314a404352f5b3a5d2b7c97f4389f728141e484a930a4c2",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenManager].desc": {
+      "pl": "- Zadaje obrażenia +5% za każdy ładunek Czujności na celu (maks. 50%)\n- Przy użyciu Umiejętności na cel z Poczytalnością 0 lub niższą Moc Bazowa +3",
+      "kr_sha256": "74ad3f5084b8462095dd0b84cc5dfc4b26665d4defefa448ce8558071eeffb3a",
+      "en_sha256": "64c777149de1a61d2ad5b4604b081afa21193635d11d4ad7f8359d0a5c507cd5",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenManager].flavor": {
+      "pl": "Słońce pali gorąco, lecz kołdry nie da się zrzucić, a serce chowa się pod kołdrę... głębiej pod kołdrę...",
+      "kr_sha256": "de2279aee47420432166e369e7ddd1b05be0751dcf4647c06b96823eb48de2e5",
+      "en_sha256": "f85ab658b8b830b93ed6d79fb19a6b80b8b7f857406d31d35ff37b724fae1be2",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenManager].name": {
+      "pl": "Parzące Promienie Słońca [Menedżer Piętra 3]",
+      "kr_sha256": "e2ca62f9f638a12ae5389fbb6c8aecb0c68860d72a58019f119cc74d5f3a730f",
+      "en_sha256": "92bff30f23036727e7f1c9410ebab9a266bd8fa262227254761ecba404db53ce",
+      "origin": "ai"
+    },
+    "dataList[id=GourmandiseAlly].desc": {
+      "pl": "- Moc Bazowa +1, wszystkie Monety wszystkich Umiejętności stają się Niezniszczalnymi Monetami\n- Zadaje obrażenia +5% za każde 3 własne Krwawienia (maks. 30%); leczy cele o 10% więcej HP (maks. 100%, zaokrąglane w dół)\n- Nie może ulec Oszołomieniu; otrzymuje -90% obrażeń od Krwawienia (z wyłączeniem wymuszonych Oszołomień)\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "8223af45c54f0d41333d9c38a348476b513ecf5ed43069998b6f77ea9d78d252",
+      "en_sha256": "72f73e1f4471a255f9560d2c85780ae5af3fdd58947cb05a022f56babbcf07cc",
+      "origin": "ai"
+    },
+    "dataList[id=GourmandiseAlly].name": {
+      "pl": "Paroksyzm",
+      "kr_sha256": "bd6f62ec9fcb740803cf70e092a5f5fe792d072729ad4ed75f5059b3b162007c",
+      "en_sha256": "51d0d72a4d91a903cd03b193e1067d54aab6f8810d31c35040a575e2599ff32d",
+      "origin": "ai"
+    },
+    "dataList[id=GourmandiseAlly].summary": {
+      "pl": "Umiejętności są wzmocnione",
+      "kr_sha256": "8603acece320bcec3c7ab677bd0aeb07e759f5852366cabd1ad5f912bb87a620",
+      "en_sha256": "2a5b67171afb0f5ac680ab6c119837c2f429ac3becdc92c35516b1b90c96f658",
+      "origin": "ai"
+    },
+    "dataList[id=HeavyBlackYarn].desc": {
+      "pl": "- Maks. ładunków: 5\n- Zyskuje Wagę Slotu równą liczbie ładunków (na każdą Część)\n- Otrzymuje obrażenia +10% za każdy ładunek",
+      "kr_sha256": "b04fe435615604429c2d5459dbf08596b7e6ee7305b6e5bd4c9f0078b01db871",
+      "en_sha256": "491c2199ae9d5a18cb01f18a823833724130ac37d11c1661b100059ec644a635",
+      "origin": "ai"
+    },
+    "dataList[id=HeavyBlackYarn].flavor": {
+      "pl": "Czerń to wyobrażenie śmierci i masy. Jak to, co nasączono czarną wodą morską, staje się ciężkie, tak i sklejające się czarne nici dają ten sam rezultat. Wszystko obejmują, tężeją jak grudka, toną i zastygają.",
+      "kr_sha256": "48e5912f48c16f8c98e1edf2404510818bf8ab13bc26733e0c1563ff42e09309",
+      "en_sha256": "88a835b9ee08693a4632779b1fcc80826129461972171fbe9ffc2194d92500aa",
+      "origin": "ai"
+    },
+    "dataList[id=HeavyBlackYarn].name": {
+      "pl": "Sklejone Czarne Nici",
+      "kr_sha256": "7ee3a23c240be98bef773ef152c921bf0903d027230d06e0194c8b1e0b075558",
+      "en_sha256": "cd5077e1d5397931e107ee05cf2fbefe4bab081ee4f6255f117e817e11a7903c",
+      "origin": "ai"
+    },
+    "dataList[id=HideBlackYarn].desc": {
+      "pl": "- Maks. Siły: 6\n- Maks. licznika: 2\n- <color=#ff6000><mark color=#ff000040><b><u>Przy trafieniu traci 1 Siły</u></b></mark></color> (1 raz na Umiejętność)\n- Na koniec tury traci 1 Licznika\n- <color=#ff6000><mark color=#ff000040><b><u>Znika, gdy Siła lub Licznik osiągną 0</u></b></mark></color>\n- Nie może ulec Oszołomieniu\n- Przy Ataku Jednostronnym zadaje obrażenia +100%\n- Otrzymuje obrażenia -100%",
+      "kr_sha256": "d69b2d0ff23562c8391d9e6cc5912c915670199c48f1bc2bbe3674542f926cf5",
+      "en_sha256": "79fc2e3c7236bd4bffdd08f65b2365b7fa7e19bf81d7675c9ffddbc08e8682d5",
+      "origin": "ai"
+    },
+    "dataList[id=HideBlackYarn].flavor": {
+      "pl": "To już nie morze, ani akwarium — tylko stojąca kałuża. Ale wielka tęsknota, która się w niej osadziła, gromadzi tyle żalu, by na chwilę ukryć ciało.",
+      "kr_sha256": "05ff41b3b527daeb0af46688ba9d46a99d8db90be6c98794b59244295d92e0ae",
+      "en_sha256": "30b21b4e189d3684b6e88df80cb0b092a604f45ae37bcc7cc0839893db706887",
+      "origin": "ai"
+    },
+    "dataList[id=HideBlackYarn].name": {
+      "pl": "Kałuża Czarnej Wody",
+      "kr_sha256": "0fae1839d33bccf1d6dd2901f724bcfaeee55dee6c38aad305e7e0770de894cd",
+      "en_sha256": "fe855fac4f47b9edcb85c2b397342e9b1d099f306eb5484a4412267cd01f26e0",
+      "origin": "ai"
+    },
+    "dataList[id=LaNoirSuperior_LowMorale].desc": {
+      "pl": "- Niskie Morale\nPoziom Ataku -2\nPoziom Obrony +2",
+      "kr_sha256": "d374ba08bd08662b507af6b0910e7a0fad6c48928f88dc7f3aaf550f0cc1a612",
+      "en_sha256": "8bfafb2e888b8497b6fb44998d8a995e6b3260990cc586ea8ea0de0077e7982c",
+      "origin": "ai"
+    },
+    "dataList[id=LaNoirSuperior_LowMorale].name": {
+      "pl": "W Głąb Pierwszej Skorupy...",
+      "kr_sha256": "cf6f27c7d8afb7aa19dd7b0fc2ca1f581d6849390d83b74b720f480d9d51aec4",
+      "en_sha256": "7da83223631af47105842e2064efba10cdf27cccd54dc52f7a41bb7882715dd2",
+      "origin": "ai"
+    },
+    "dataList[id=LaNoirSuperior_Panic].desc": {
+      "pl": "- Panika\nPoziom Ataku -3\nPoziom Obrony +4",
+      "kr_sha256": "0b5a72765182f8f209c2f2c45c85924a547472d57e101f0f948926afbd6970f4",
+      "en_sha256": "5c1051eee5024acb8028a93b760497c4f0d7d528da5e8ccf0c3bd3e1d9f7b332",
+      "origin": "ai"
+    },
+    "dataList[id=LaNoirSuperior_Panic].name": {
+      "pl": "W Głąb Pierwszej Skorupy...",
+      "kr_sha256": "cf6f27c7d8afb7aa19dd7b0fc2ca1f581d6849390d83b74b720f480d9d51aec4",
+      "en_sha256": "7da83223631af47105842e2064efba10cdf27cccd54dc52f7a41bb7882715dd2",
+      "origin": "ai"
+    },
+    "dataList[id=LargeTailoringShears].desc": {
+      "pl": "- Maks. ładunków: 3\n- Zadaje Grzesznikom obrażenia +(5 + ładunki x 5)% (maks. 20%)\n- Przy użyciu Umiejętności na Grzesznika będącego Celem Poprawek zyskuje Moc Starcia równą liczbie ładunków",
+      "kr_sha256": "359830ab0b16fa0d8e8811d577bc3916e30a50b84f58ad1576fc75211f3418c5",
+      "en_sha256": "c85fa9df167a5755f4ede3e6c0ff31095a15c5699d41e658c46fbb245a28004a",
+      "origin": "ai"
+    },
+    "dataList[id=LargeTailoringShears].flavor": {
+      "pl": "Nożyczki służące do odcięcia pierwotnych materiałów powstałych pod ziemią są jeszcze bardziej szczególne i ogromne. To one tnęły i przycinały pierwszą utkaną tkaninę. Kwiaty kwitną na nich dlatego, że odcięły w samym źródle — to zjawisko naturalne.",
+      "kr_sha256": "5b74552e4a918fe914a439b3f0a31f56e51806b1ed676701bebd8f2770ad6d2f",
+      "en_sha256": "30af59e49ebe7c67a4375edcefe85b24cac45aa1fcba8bae53a0b8f79882be0a",
+      "origin": "ai"
+    },
+    "dataList[id=LargeTailoringShears].name": {
+      "pl": "Kwiatowe Nożyczki",
+      "kr_sha256": "b7025acf93657a525a7ceaec20ea6e78f7337600e23d570e430db63934eeec87",
+      "en_sha256": "77c1b979a4a832b1dddf530ca331c8a796ea8560ff9a480c780e4ccce3fe00de",
+      "origin": "ai"
+    },
+    "dataList[id=NoirField].desc": {
+      "pl": "- Maks. ładunków: 2\n- Na początku tury zyskuje 1 Wzrost Mocy i 1 Wzrost Obrażeń za każde 20% utraconego HP (każdy maks. 3)\n- Na początku tury Umiejętności wszystkich sojuszników z Le Noir zyskują Moc Końcową równą liczbie ładunków tego efektu\n\n- Przy 1 lub więcej ładunkach na początku tury stosuje następujące efekty na wszystkich jednostkach z Le Noir, włącznie z sobą:\n· Poczytalność +10\n· Moc Ataku +2\n· Poziom Obrony +2\n\n- Przy 2 lub więcej ładunkach na początku tury stosuje następujące efekty na wszystkich wrogach bez Le Noir:\n· Maks. Szybkość -1\n· Poziom Ataku -6\n· Poziom Obrony -2",
+      "kr_sha256": "638394b6629b7f9544931598dbc6e355dc60a2523d83703a4b1c031d05efead8",
+      "en_sha256": "3ab5cd3b4b52e3c3ab959c09b1acf9e921b8ea5f080e8cee24124ce712443958",
+      "origin": "ai"
+    },
+    "dataList[id=NoirField].flavor": {
+      "pl": "Domena, w której zachowuje się wartość zachowania, jakiej wyznaje Le Noir. Wszystkie działania zachowujące w stylu Le Noir zostają w jej obrębie zachowane ku ich korzyści. To domena wiecznego zachowania — miejsce, w którym pobudzany jest popęd nieskończonego zbliżania się do śmierci.",
+      "kr_sha256": "52f29568d4823f494f26ec3a319db5a0256792367b08fe692447d330c537c22b",
+      "en_sha256": "5f9451a974c5174ef5634d015b5cda7068082374a2b4d810c93aef62528e9eba",
+      "origin": "ai"
+    },
+    "dataList[id=NoirField].name": {
+      "pl": "Domena Zachowania",
+      "kr_sha256": "ad6cd646bceaef37421de950cd4bdeb965f40f0c80526917291d4b78ca447130",
+      "en_sha256": "db4670196279952e3355d0c20a4bff6f41c780ff2b87309e0f8a9e829ef6fa17",
+      "origin": "ai"
+    },
+    "dataList[id=NoirNail].desc": {
+      "pl": "- Maks. ładunków: 3\n- Gdy na tej jednostce wywołane zostaje Wyładowanie Wstrząsu,\n· otrzymuje obrażenia Lenistwa równe własnej Siły Wstrząsu\n· zyskuje 1 Wrażliwości\n· traci 1 ładunek",
+      "kr_sha256": "0fab3b1b553d51e9b20b7e58ae00d255b6eee173094c2f6bdbbdb8f8ea22fe33",
+      "en_sha256": "6a6fd1f42f73750e4005176f9bc51acfb38bc5cea5f51d08f4053e6754578cbb",
+      "origin": "ai"
+    },
+    "dataList[id=NoirNail].flavor": {
+      "pl": "Obiecany młot jest związany przyrzeczeniem wbicia gwoździa. Dlatego za każdym razem, gdy młot spada, gwóźdź musi tam istnieć… nawet jeśli go nie ma.",
+      "kr_sha256": "e1ec4b8c3cee3534252952fb4aa3843202ce71942fd13da831c517ef37425fee",
+      "en_sha256": "f4c574575f00861b07749abed129d5e5883f53358dfc282aa26ba21a5f4da126",
+      "origin": "ai"
+    },
+    "dataList[id=NoirNail].name": {
+      "pl": "Obiecany Gwóźdź",
+      "kr_sha256": "ee108f46d26f414dc2ff44cce6ba8059033a4ac2cfee5043b094fb741b780211",
+      "en_sha256": "efb0e231b674db50ea8519da4aa4d867fc79efe961fee52cdbfde8556e89f6a3",
+      "origin": "ai"
+    },
+    "dataList[id=NoirShieldPiece].desc": {
+      "pl": "- Maks. ładunków: 2\n- Otrzymuje obrażenia -10%\n- Przy 2 ładunkach Moc Końcowa -2",
+      "kr_sha256": "8958a8d8674c4d8a4167626adf0409d055a0eeb3bb2eaa748f4316dc37d13477",
+      "en_sha256": "16218d883452fe58170bc88eb6f671f454c0e1fe6314d3e66651b99fed43ddce",
+      "origin": "ai"
+    },
+    "dataList[id=NoirShieldPiece].flavor": {
+      "pl": "Ciało zdaje się uciskać kawałek urojonej masy — prymitywne naśladowanie kary Giganta. Według Przymierza wstępowanie w górę niczym jest ponoszeniem ciężkiego głazu i milczącym wstępowaniem.",
+      "kr_sha256": "592a18f7ad71c9c6c4b458eebc1b62fc221c41f4bc98c201c3df8b51975e4d1d",
+      "en_sha256": "b50adb52b35696f1329159beb074e16f4c364db9eb737032a01d06ee6875fdf3",
+      "origin": "ai"
+    },
+    "dataList[id=NoirShieldPiece].name": {
+      "pl": "Apokaliptyczna Zemsta",
+      "kr_sha256": "c212356193eb7c5e9b057928466f8bc1e905e91f455c61ca9bdd57c63d1cefeb",
+      "en_sha256": "11da2112b3046de7113eb4f438d5a34143b76dfe7b027f941742a4e807d6d088",
+      "origin": "ai"
+    },
+    "dataList[id=NoirShieldUp].desc": {
+      "pl": "- Maks. Siły: 999\n- Początkowy Licznik: 2\n- Nie może ulec Oszołomieniu\n- Na początku tury Część zyskuje Tarczę równą liczbie ładunków\n- Ten efekt liczy się jako efekt zarządzania Tarczą\n- Gdy traci Tarczę, traci też ładunki\n- Na koniec tury traci 1 Licznika",
+      "kr_sha256": "7f053c45df2f985931d1a96842fb76e7abbfd9eceb24613276888b8c44cf3159",
+      "en_sha256": "c25d248746577a6e45ede9c011429e02bc4f01f57ebd25dd46437165cc9d8adc",
+      "origin": "ai"
+    },
+    "dataList[id=NoirShieldUp].flavor": {
+      "pl": "Czarny Bóg. Czarny Gigant. Kapelan Młota. Czarny Bóg Wielkiego Sklepu, strzegący władzy zachowania, udziela swojej łaski poprzez najprostszy z kontaktów. Młot jest twardy, a czerń pochłania wszystko i zatrzymuje. Niczym atrybut śmierci.",
+      "kr_sha256": "dc58064d3189fa752c8df2d47a98320e625a8f32db835ff6e04b6158afe1b167",
+      "en_sha256": "6695ec9246c475230d4edd151a0e2d92fca9d77f7e1f362859c79e6ea6473c74",
+      "origin": "ai"
+    },
+    "dataList[id=NoirShieldUp].name": {
+      "pl": "Łaska Czarnego Boga",
+      "kr_sha256": "0f759b959e48515b57122c297dc78baf0f29e0fe5331b4ef9895dc321959c17c",
+      "en_sha256": "97afb964b12594041dc54d87f3a25fc765f2c8f9879e785d18d55c5e3c54f6e5",
+      "origin": "ai"
+    },
+    "dataList[id=NoirSquareCollapse].desc": {
+      "pl": "- Maks. ładunków: 10\n- Traci Poziom Obrony równy liczbie ładunków",
+      "kr_sha256": "ce85f1cdfc87b982ed7975910225522c93c8f8ebe996468ab8e3d10df6dfa54e",
+      "en_sha256": "1ffc832ca9e27d08bd99e2de217e7199f6999939fe1baf1b4b3b564f6dbf24cc",
+      "origin": "ai"
+    },
+    "dataList[id=NoirSquareCollapse].flavor": {
+      "pl": "Gdy wierzenie — że każdy sumiennie wypełni powierzoną mu rolę — zaczyna się kruszyć, w pęknięciach kiełkuje podejrzenie.",
+      "kr_sha256": "19a2a17f43a634cbf27d100ffba092f413a82518fe38cfe16a9d907eddf46b23",
+      "en_sha256": "98b32138cfad3430f7ec112d2168923be7ab119b3006378890c841bfb7f3ad88",
+      "origin": "ai"
+    },
+    "dataList[id=NoirSquareCollapse].name": {
+      "pl": "Rozpad Szyku",
+      "kr_sha256": "0109067e20cd535a7f484b01d02abb943934bfb3a3deb11f191247ccd4dd44f5",
+      "en_sha256": "b3acc7e25d15e6f03e2908a08367d7a5dd7ee166c64dd12c9efd90a71ab6b86a",
+      "origin": "ai"
+    },
+    "dataList[id=OutOfControl_LowMorale].desc": {
+      "pl": "- Niskie Morale\nMoc Końcowa Umiejętności +1\nNa początku tury nakłada 1 Spadku Mocy Ataku na wszystkich innych sojuszników",
+      "kr_sha256": "1111214726102d6c055a78855733410cad220eaad92c9cf21420b49237c33d59",
+      "en_sha256": "371e96eab1bf738a77c8eedf9344b53b6240c646480d35a1e6c98d698b5b728a",
+      "origin": "ai"
+    },
+    "dataList[id=OutOfControl_LowMorale].name": {
+      "pl": "Brak Kontroli",
+      "kr_sha256": "a9d502fe95d66adfbd3d0f35448dab669c25214d8d4b833740490bfd29861055",
+      "en_sha256": "a4a47e58a944fbf551d8cfb52180afd5066d1939faab97ce1779ebf7b8bea904",
+      "origin": "ai"
+    },
+    "dataList[id=OutOfControl_Panic].desc": {
+      "pl": "- Panika\nMoc Końcowa Umiejętności +1\nNa początku tury nakłada 1 Spadku Mocy Ataku i 1 Spadku Obrażeń na wszystkich innych sojuszników",
+      "kr_sha256": "1c9f648e6fc28483264fc53e3fa223f2ab2eb522907729a586ff5c806b4988d8",
+      "en_sha256": "444c6b188878e41498b074ed36e9614c67a38f9e8309856aba7c3adaf254e247",
+      "origin": "ai"
+    },
+    "dataList[id=OutOfControl_Panic].name": {
+      "pl": "Brak Kontroli",
+      "kr_sha256": "a9d502fe95d66adfbd3d0f35448dab669c25214d8d4b833740490bfd29861055",
+      "en_sha256": "a4a47e58a944fbf551d8cfb52180afd5066d1939faab97ce1779ebf7b8bea904",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictBoss].desc": {
+      "pl": "Gdy na początku walki Umiejętność ataku celuje w Nadzorcę, ten efekt znika, a atakujący zyskuje 1 Naruszenia Zasad Garbarni\nNa koniec tury ten efekt znika",
+      "kr_sha256": "a9e2490f15c0d91d0aee3e672987795072761e812a7707b6c318b1bf3c9db03a",
+      "en_sha256": "4e204b3720fbb7c12847f519465a914eecc5a4ed9c20897264cc83ac8206d76f",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictBoss].name": {
+      "pl": "Zasada: Zakaz Ponaglania Garbowania",
+      "kr_sha256": "edc081c00680ef3e4797331d3dabaf27f1fd608e8f1c93aec13bebbb9ef18ab7",
+      "en_sha256": "19c98452674a6987254dc9c63929b95a2e39caa3961ab00a766d986c7b806b96",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictDef].desc": {
+      "pl": "Jeżeli na początku walki wyposażono Umiejętności obrony, ten efekt znika, a jednostka zyskuje 1 Naruszenia Zasad Garbarni\nNa koniec tury ten efekt znika",
+      "kr_sha256": "7dcf7f7acfbe179c19dc60d42c08499cdf2e24ab935dc577e33ade793f9bcc30",
+      "en_sha256": "2957292547859e8c5e4b8795223ef5413b8e31f6129f6d4467f52c9949ff3843",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictDef].name": {
+      "pl": "Zasada: Zakaz Postawy Defensywnej",
+      "kr_sha256": "93a7c3a65277adb1781e26b01d8d01f647068ebf06adf0eec214c3d192f8d8da",
+      "en_sha256": "017f220004c4c4309a9ad2b6a305f5bd5c136bf568fc133d6cff63ccb39fcd8d",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictDenied].desc": {
+      "pl": "Maks. ładunków: 1\nOtrzymuje od Nadzorce obrażenia +30%\nPo zakończeniu ataku tej jednostki Nadzorca używa na niej Umiejętności „Punishing Burnishing Finishing”, po czym efekt znika",
+      "kr_sha256": "f552b24474f395c7e767c5799865e7a969e2ae985b153fcc666d62f7d81d8ce0",
+      "en_sha256": "5ce20b4e2493c2946298d5088f36fb6f637e0ea9610dfbb0620043a85e3b27a7",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictDenied].flavor": {
+      "pl": "Cel jest grzesznikiem, który naruszył reguły, którymi świat ten jest związany.",
+      "kr_sha256": "b64f35f4002e5d08f7d96f24f4d8f55e4a5b932fd7f273287fe4425dab55fa21",
+      "en_sha256": "c6103098153ac07ad2f192bf25862c895fb80028e6e83948d9e9f0a06313e5a6",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictDenied].name": {
+      "pl": "Naruszenie Zasad Garbarni",
+      "kr_sha256": "70f3a6a04a794eebd0560134f27c998e4edac49bc4b3f9a5e00594a109800c34",
+      "en_sha256": "dee6fd2ce23835a05b978ff02d4e4dfe26337e268cda3a2f1d805736f4863f21",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictFailed].desc": {
+      "pl": "Poziom Ataku +3\nPoziom Obrony -3",
+      "kr_sha256": "0998d3d7845c4089133c1ccfe316d429a87a690c14f3530e810eece32e105485",
+      "en_sha256": "ccb3e902287dcfdf344ff10c280ba37a40c24855f0caff7a80c9b3bfdc4d4735",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictFailed].flavor": {
+      "pl": "Czy wiesz, czym różni się zasada od prawa?",
+      "kr_sha256": "2c698e75b65a3cee30dfef5bf2ea89878f595ec24736c0d40ca3f2ab7e8401eb",
+      "en_sha256": "8420acd636a05ef0c1f74714e2da3d2b680f41e2528e26cd25393482ddf54647",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictFailed].name": {
+      "pl": "Rozpad Zasad",
+      "kr_sha256": "d177d72f0b3df6b9fe93892d57bf82186e37da9e73d170017bb6845363a558f0",
+      "en_sha256": "8c10528c97f85dbcfb44ee1383081a2650ad4347cf799273aba273adde199683",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictMob].desc": {
+      "pl": "Gdy na początku walki Umiejętność ataku celuje w Wygarbowanego Więźnia, ten efekt znika, a atakujący zyskuje 1 Naruszenia Zasad Garbarni\nNa koniec tury ten efekt znika",
+      "kr_sha256": "0cc640faa060662f8dbebbe4b52801eeed81ce96939ebbd501409eb4114524d0",
+      "en_sha256": "1d175b450e46445cfc3e057ba839c6075e817923c1a9ac8655c59bdf478cb3a5",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictMob].name": {
+      "pl": "Zasada: Zakaz Uszkadzania Surowej Skóry",
+      "kr_sha256": "54a84785ef8fcdeb2e3103bcd5c5ee47f3dc6571855d44bdda99824d4eac2709",
+      "en_sha256": "cf4ba06be245859c22ff80277daabf7913b7eb0f6ca63f16588cbcaf7460f7a4",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictTier1].desc": {
+      "pl": "Jeżeli na początku walki wyposażono Umiejętność ataku, ten efekt znika, a jednostka zyskuje 1 Naruszenia Zasad Garbarni (z wyłączeniem Umiejętności E.G.O)\nNa koniec tury ten efekt znika",
+      "kr_sha256": "5a3d05f265dd82a61a40d343289cc5da3b1dd33709e294d17dab1492ff3a6df3",
+      "en_sha256": "5256263d85f4ebb656bf0236d698ce6581ad7c139752e10ae6aefad97862c851",
+      "origin": "ai"
+    },
+    "dataList[id=RestrictTier1].name": {
+      "pl": "Zasada: Zakaz Postawy Ofensywnej",
+      "kr_sha256": "521571435be8b733f361bd1e01079b09569d5f01bbd83f79d5b5bbdc4db65f82",
+      "en_sha256": "5c9a408f5c7e7a3478f23c96f6aae2c75fbf983998f403b2cb36e90a562fd383",
+      "origin": "ai"
+    },
+    "dataList[id=RouteBOneLeg].desc": {
+      "pl": "- Podstawowy Poziom Ataku +25\n- Podstawowy Poziom Obrony +25",
+      "kr_sha256": "160b91e5bff32d88d0259e86076196cf95baee2b4a9e7985ef7293d7b8920a6b",
+      "en_sha256": "81b33a752717031d7ba200a3667db41c1a06c3e25c506a3abc7f29fcc9135aec",
+      "origin": "ai"
+    },
+    "dataList[id=SapsareeGold].desc": {
+      "pl": "- Przy użyciu Umiejętności Moc Końcowa +1 za każdy ładunek „Pikantno-Pikantnego Sosu” na celu (maks. 3)\n- Gdy własna Umiejętność zabije sojusznika, zyskuje 15 Poczytalności",
+      "kr_sha256": "2f89120fc17c460ccba9c01becc24da748949462c120c950f1419ef7ef6d514b",
+      "en_sha256": "09cf8c34be09dd26d45e0427281df0659f4407651fce9487287c2cd840d320c8",
+      "origin": "ai"
+    },
+    "dataList[id=SapsareeGold].flavor": {
+      "pl": "„Sous-chef ma serce gorące, jasne? Sous-chef jest nabity pewnością siebie, jasne?!”",
+      "kr_sha256": "11b35cc4e5639df50ccc03633dc31f3f8957433c97fd469fd8a8c5400e60e617",
+      "en_sha256": "6a5ce18513e1fc6088f43e8187db1af658b79e527cb2ab87cc597a38d2db5d6d",
+      "origin": "ai"
+    },
+    "dataList[id=SapsareeGold].name": {
+      "pl": "Parzące Promienie Słońca [Sous-chef]",
+      "kr_sha256": "0ed39c22519f485d520fd04758a501e6ed20890b5b8eda92fba4d430b39f344c",
+      "en_sha256": "75bc045a6a68d89dfc21e1b359acd1441401d4ecad2f5ca22629200e8a1743fb",
+      "origin": "ai"
+    },
+    "dataList[id=ScissorsMark].desc": {
+      "pl": "- Maks. ładunków: 9\n- Traci Poziom Obrony równy liczbie ładunków",
+      "kr_sha256": "15bd7c3ee6dfc106e3664cb4b608d2d27973a17be21f2a8dc9f1548d3756175f",
+      "en_sha256": "1a1a883caa4bbd53ec3288e1c1fc41f8c1b416cc783c391a96ae245beea8b829",
+      "origin": "ai"
+    },
+    "dataList[id=ScissorsMark].flavor": {
+      "pl": "Znak służący do wycinania tkanin i innych materiałów według właściwych wymiarów.",
+      "kr_sha256": "1a5e6b17ab8a0e9defeb2dcee4c68c0b9a9fe82d31bb79e0ad3d2948209b60d1",
+      "en_sha256": "959c1454215108f4382eec9178461b3fb47f69e037361bd9e70fa813f1e771ec",
+      "origin": "ai"
+    },
+    "dataList[id=ScissorsMark].name": {
+      "pl": "Znak Wykrawania",
+      "kr_sha256": "937690521a8e095b7fbb822da31fbab0ee1c8692ce5110a1f2f6c7993c278075",
+      "en_sha256": "dfdde49258a3c69b4f6381c114fa96a378376b3bec155d7f733c440fd9625355",
+      "origin": "ai"
+    },
+    "dataList[id=SickBlackYarn].desc": {
+      "pl": "- Maks. ładunków: 50\n- Otrzymuje obrażenia +1% za każdy ładunek\n- Na początku tury zyskuje 1 Wrażliwości za każde 25 ładunków",
+      "kr_sha256": "9c16084dff1dfaad8d370466014b2e4706711fbc5f877b2a7395696b523fae3e",
+      "en_sha256": "614c15f56c0e17f4653cfbc91c912011afde2160623d17be8ab9af4dd917baf2",
+      "origin": "ai"
+    },
+    "dataList[id=SickBlackYarn].flavor": {
+      "pl": "Każdy strzęp czarnej przędzy, gdy pęka, pachnie słonawymi łzami... dziwnie nostalgicznym, mimo wszystko.",
+      "kr_sha256": "8160f6b565c416762b24bbdb535e88345f6609c1a7a0162ddbda383cf1f8e435",
+      "en_sha256": "ddd1bdf41dfb904d90f5c5472689b2dca934c6cae37728e52b77757dcce207d9",
+      "origin": "ai"
+    },
+    "dataList[id=SickBlackYarn].name": {
+      "pl": "Pękające Czarne Szwy",
+      "kr_sha256": "ec1ba849b2e55c061df8a3ef6b5231d26a33d2383d3981cd7f9f55ca269d2900",
+      "en_sha256": "fa074ae2e59c891bb50e8bdd95b123f997246842d69cbf84d485e54b0bbbb426",
+      "origin": "ai"
+    },
+    "dataList[id=SisyphusDiamond].desc": {
+      "pl": "- Umiejętności nakładają na wrogów o 1 więcej Siły Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia\n- Zyskuje o 2 więcej Licznika przy zdobywaniu Licznika Ładunku i Licznika Oddechu\n- Przy zdobyciu tego efektu zyskuje 10 Licznika Ładunku (1 raz na walkę)\n- Moc Starcia +2\n- Moc Końcowa +1\n- Zadaje obrażenia +10%",
+      "kr_sha256": "24db689457a42a741a831397f97d601ab1f57fcc9ceb60136a148f6d847f1ee2",
+      "en_sha256": "8e0e5be244194c92133c44a25bd613c565fdb119bf85b93c7a3756cd9e3d9215",
+      "origin": "ai"
+    },
+    "dataList[id=SisyphusDiamond].name": {
+      "pl": "Diament",
+      "kr_sha256": "f45ada54cf13605025a2787aaaae69e7d9b43ded512af49dbb924145b7123cfc",
+      "en_sha256": "b639c243cebdfad98aee950e39ba8b2a00d82c17cd7d8310fffe40c331b32eec",
+      "origin": "ai"
+    },
+    "dataList[id=SisyphusOnyx].desc": {
+      "pl": "- Umiejętności nakładają na wrogów o 1 więcej Siły Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia\n- Zyskuje o 2 więcej Licznika przy zdobywaniu Licznika Ładunku i Licznika Oddechu\n- Przy zdobyciu tego efektu zyskuje 10 Licznika Ładunku (1 raz na walkę)\n- Moc Starcia +2\n- Moc Końcowa +1",
+      "kr_sha256": "04fc30a834cef23c879fae08d6456dfae0f797354b9fc8a7ef06e62f5f0f98c5",
+      "en_sha256": "b5685fa8efbf843390f3de430d23c1444d3bc433ef7547b2696ea49625fa35ab",
+      "origin": "ai"
+    },
+    "dataList[id=SisyphusOnyx].name": {
+      "pl": "Onyks",
+      "kr_sha256": "f05e79690d14da83afba5e23dcd6f404bc12d6cbfb0e360fa87099de80cd02ca",
+      "en_sha256": "2cba68fa497a9d0d05dfb32a1b299e338a260fddf522c3a5658b6cb220622fb5",
+      "origin": "ai"
+    },
+    "dataList[id=SisyphusSapphire].desc": {
+      "pl": "- Umiejętności nakładają na wrogów o 1 więcej Siły Podpalenia, Krwawienia, Wstrząsu, Rozdarcia i Zatonięcia\n- Zyskuje o 2 więcej Licznika przy zdobywaniu Licznika Ładunku i Licznika Oddechu\n- Przy zdobyciu tego efektu zyskuje 10 Licznika Ładunku (1 raz na walkę)\n- Moc Starcia +1\n- Moc Końcowa +1",
+      "kr_sha256": "aa998a256686c23a1ed35e0cee724dd79d4fe68f24c7b362bfa055c7a3eda7b7",
+      "en_sha256": "ecccfeac898ad9178a318b2e9a66e66ab80cd535dcb1bde0e20fe7a9989ce2b8",
+      "origin": "ai"
+    },
+    "dataList[id=SisyphusSapphire].name": {
+      "pl": "Szafir",
+      "kr_sha256": "4e424f5c29b78717768b16b25176bca9bcbdd7832578d6b1762e2e9f57c091da",
+      "en_sha256": "d142d3dd1dbb1367889d5cced0661154ed13225b860dafade85b0fb69725b557",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingDye].desc": {
+      "pl": "- Jeżeli cel posiada Spętanie, nakłada o 1 więcej Siły Krwawienia i Licznika Krwawienia\n- Przy użyciu Umiejętności, jeżeli główny cel posiada Barwioną Nić lub Barwnik Smołowy, ta Umiejętność zyskuje Moc Końcową +1 i zadaje obrażenia +20%",
+      "kr_sha256": "3fc6a8c81fa9cefd526917fe335ef8f7e3ed3a25562b43bce13537326ce9372b",
+      "en_sha256": "f28ba94c963c016f13eb378206a53f9f494b0c346847ad464d4030aae888a191",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingDye].flavor": {
+      "pl": "Większość barwników ma przypisany kolor.\nTen barwnik koloru nie ma.\nRzucony grubymi, nierównymi pociągnięciami, odsłania spektrum barw jedynie odbiciem i załamaniem czystego światła.",
+      "kr_sha256": "33d0188838086779cb051e20d70d30bcedc0fd79a6b77853d9ed0bed0c9b08a3",
+      "en_sha256": "866e8fbdfd86c15a3892fd6c64f4e601810fbb7cd0cc8fcbd129f31b235a6347",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingDye].name": {
+      "pl": "Gloss Medium",
+      "kr_sha256": "ac560a3ae36d94bdcfc05ef2c8143b260df149f1daa9ab63fea94347a77c574d",
+      "en_sha256": "b2d7ee5309e4460da6523830e41b52ea2c4fd2834fe89af2d3feb93d9d6acb42",
+      "origin": "ai"
+    },
+    "dataList[id=StickyDye].desc": {
+      "pl": "- Maks. ładunków: 1\n- Min. i Maks. Szybkość -1 (min. 1)",
+      "kr_sha256": "2f0b22cea151bf2f6c6da709472097103bfbb5142ba1212fc351b98228b181b4",
+      "en_sha256": "95e8c7683bc4c09a8259788c336b8bbb581663dd0b94b44db179c8fbe9267885",
+      "origin": "ai"
+    },
+    "dataList[id=StickyDye].flavor": {
+      "pl": "Barwnik przykleja się, utrudniając każdy krok.",
+      "kr_sha256": "be21033210d055a4b68bcb6c826e5e049f1e92fe75aebe049e49cc84463a7c39",
+      "en_sha256": "9d45bc78ce1af110535bdaa1c09c5fe43cff77c033b7de21f7c1e44fbd2fab9d",
+      "origin": "ai"
+    },
+    "dataList[id=StickyDye].name": {
+      "pl": "Barwnik Smołowy",
+      "kr_sha256": "b80fc3a2f7d034f97584c1f6dcc80c7a5cb7e4df6ceefe63fa8a8d852b71329f",
+      "en_sha256": "c02178bdfd5e6bf839b984fef55e3d66ac28ed668f98a07d10383b969c9577c2",
+      "origin": "ai"
+    },
+    "dataList[id=TailoringTarget].desc": {
+      "pl": "- Min. i Maks. Szybkość +5\n- Pierwsza Umiejętność użyta w tej turze zyskuje Moc Starcia +3\n- Na początku walki, jeżeli wyposażono Umiejętności obrony, otrzymuje od Annette, Krawcowej, obrażenia -80%\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "187dfe6ed815b4e9bc09b853feabbb7c6253e30fd1fc733e609f95aac51a0659",
+      "en_sha256": "49397f16ff3d9a319d1ca303a482871736e56852f4fbf40aa59b83152cb24777",
+      "origin": "ai"
+    },
+    "dataList[id=TailoringTarget].flavor": {
+      "pl": "Zamiast dopasowywać ubrania do człowieka, dopasowuje człowieka do ubrań. Tutaj to ubranie określa człowieka — zachować szatę, a poprawić człowieka, znaczy chronić wartość i służyć klientowi.",
+      "kr_sha256": "8b9282e2e905c8447efd5abce392281aa1e72327a7832d327194dad0c2b883ab",
+      "en_sha256": "3e27690ed32ef485790da8d67f826137eb155ca28f4f35360d042b53fb5fd806",
+      "origin": "ai"
+    },
+    "dataList[id=TailoringTarget].name": {
+      "pl": "Cel Poprawek",
+      "kr_sha256": "979522fd48ed3dcb6d7d387386c76407b21c7a57a52788137ec7f30a9f89098c",
+      "en_sha256": "af374e6cfd8d76d22e452da3ecdfb7a2c724a90ffa3d93feb7ce41ddc8000a90",
+      "origin": "ai"
+    },
+    "dataList[id=TangleBlackYarn].desc": {
+      "pl": "- Maks. ładunków: 30\n- Otrzymuje obrażenia +1% za każdy ładunek\n- Moc Bazowa -1 za każde 10 ładunków\n- Na koniec tury zyskuje w następnej turze 1 Spętania za każde 3 ładunków (maks. 10)\n- <color=#ff6000><mark color=#ff000040><b><u>Przy użyciu Umiejętności obrony</u></b></mark></color> traci połowę ładunków (zaokrąglane w górę)",
+      "kr_sha256": "1b4232ac1f1714604d71a265f1960d59695322e627e2cc042db1616336cfbd01",
+      "en_sha256": "cff5d44a8d96f029b619fd2ef0dad8d885001e31a5e52396f120b0e17a1e0b22",
+      "origin": "ai"
+    },
+    "dataList[id=TangleBlackYarn].flavor": {
+      "pl": "Grand Magasin to świat szycia, spleciony nitką i igłą. Nawet to, co przyszło z morza, zamieniło się w nić — czarna woda plącze się w czarną przędzę.",
+      "kr_sha256": "c664e23c134a83542b16bc61374f2f860133237d21fbc11dae931fd20a6e9f65",
+      "en_sha256": "2e3503bb43630248376959c5df90239124a11e6ec00a038e9b3a1bba5cd46cf7",
+      "origin": "ai"
+    },
+    "dataList[id=TangleBlackYarn].name": {
+      "pl": "Splątanie",
+      "kr_sha256": "07f419ed66b68e196ea268b62b4bf2dcd36eb5ba1e95272d7ab8e4a1ba5b499f",
+      "en_sha256": "099fb588fbf86ddb470b38678f3fa02384c87c2d1554791fe4786672092c1372",
+      "origin": "ai"
+    },
+    "dataList[id=ThirdTailor_LowMorale].desc": {
+      "pl": "- Niskie Morale\nOtrzymuje obrażenia +7,5%\nPrzy każdym trafieniu zyskuje +1 Licznika Wstrząsu (1 raz na Umiejętność, maks. 5 na turę)",
+      "kr_sha256": "78dfa37df2283b633ef5d272eab3e823cea49de55a94ae2038948d76c8a20b90",
+      "en_sha256": "73eed867174c50451195205d6f7585b9e788ccb6320e31fbf7ee3085c5d552ff",
+      "origin": "ai"
+    },
+    "dataList[id=ThirdTailor_LowMorale].flavor": {
+      "pl": "Dłonie mi drżą, nożyce też chwiała... W ten sposób nie skroję już wzoru...",
+      "kr_sha256": "112fe3c1e8a20966cb8f95138496e81b6fdd81361242c08ca7ff2d861ecdba99",
+      "en_sha256": "2c5b4f2aa7b6667e94ff480a12394628b1343a912472b14ca0581324b16a9e19",
+      "origin": "ai"
+    },
+    "dataList[id=ThirdTailor_LowMorale].name": {
+      "pl": "Drżące Dłonie",
+      "kr_sha256": "32e0925fc4eb01bb22d2007dcc28e38a4a609a274afbd52fa29cc35220d83878",
+      "en_sha256": "e7f69ca37518aa05c21399ff20f3d0a4117ff95b4538615dec40fb270dbf280a",
+      "origin": "ai"
+    },
+    "dataList[id=ThirdTailor_Panic].desc": {
+      "pl": "- Panika\nOtrzymuje obrażenia +15%\nPrzy każdym trafieniu zyskuje 1 Siły Wstrząsu i +1 Licznika Wstrząsu (1 raz na Umiejętność, maks. 5 na turę)",
+      "kr_sha256": "4e34038ba87a3693af1b630e2bacfa9e0732113a071de30b4767ab15bbc31e69",
+      "en_sha256": "c4bce3a050209860595208ad8712295e04efefea9805c25e9d3a053a113d7061",
+      "origin": "ai"
+    },
+    "dataList[id=ThirdTailor_Panic].flavor": {
+      "pl": "Dłonie mi drżą, nożyce też chwiała... W ten sposób nie skroję już wzoru...",
+      "kr_sha256": "112fe3c1e8a20966cb8f95138496e81b6fdd81361242c08ca7ff2d861ecdba99",
+      "en_sha256": "2c5b4f2aa7b6667e94ff480a12394628b1343a912472b14ca0581324b16a9e19",
+      "origin": "ai"
+    },
+    "dataList[id=ThirdTailor_Panic].name": {
+      "pl": "Drżące Dłonie",
+      "kr_sha256": "32e0925fc4eb01bb22d2007dcc28e38a4a609a274afbd52fa29cc35220d83878",
+      "en_sha256": "e7f69ca37518aa05c21399ff20f3d0a4117ff95b4538615dec40fb270dbf280a",
+      "origin": "ai"
+    },
+    "dataList[id=ThreadDye].desc": {
+      "pl": "- Maks. ładunków: 3\n- Posiadając ten efekt, nie może zyskać Pośpiechu\n- Na koniec tury usuwa Pośpiech, który miał zostać nałożony w następnej turze\n- Na koniec tury nakłada w następnej turze Spętanie w wysokości Siły, po czym traci 1 ładunek\n- <color=#ff6000><mark color=#ff000040><b><u>Przy Maks. ładunków zyskuje Unieruchomienie na tę i następną turę, po czym znika</u></b></mark></color>",
+      "kr_sha256": "4ffdfa1dd49f6984763042beb65965cbab8da3e9ae6ee30e2657aa4837a84dcd",
+      "en_sha256": "019044b41c992739e39ca386f3675c5a221713d439804270486f3ec98ad135de",
+      "origin": "ai"
+    },
+    "dataList[id=ThreadDye].flavor": {
+      "pl": "Jak gwóźdź, nić również przytrzymuje i unieruchamia. W z góry wyznaczonym kolorze.",
+      "kr_sha256": "c06d1d35e35d1cd889d90ff98d486fc2580662668004275c075a5d19ec4b30fd",
+      "en_sha256": "f524a7a59e326419f3307fb44050fde0cb2fbd9919c79582355674014a8a6794",
+      "origin": "ai"
+    },
+    "dataList[id=ThreadDye].name": {
+      "pl": "Barwiona Nić",
+      "kr_sha256": "3f54dffc0a74378e443f13e354e40f0f6b0be57fc904ebd9b343320cc94841d6",
+      "en_sha256": "bb3cc78a98be2b4e2ce01900d4779123ff0eb08cbd7206f7a0ee3216be1beb8a",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationResonance].desc": {
+      "pl": "- Maks. ładunków: 2\n- Otrzymuje -90% obrażeń od Wyładowania Wstrząsu i -90% obniżenia Progu Oszołomienia\n- Zadaje obrażenia +20%\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "7ed71affe54b96b724f1acdc82edc570ffdc6412996f70f675faca7a5a79642e",
+      "en_sha256": "1cd191a06f32c32d680e2206b3fc9705003a4424806d7a81eedf3fdbae3bc203",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationResonance].flavor": {
+      "pl": "Przeciwfalowanie wobec każdego ruchu, który chce coś zachować, wstrząsa Zachowaniem tak, że nie może się utrwalić.",
+      "kr_sha256": "5e2437fdfbf2c8074e4ed366bc5d46d1095c94372c83e988a8eb32a8b05e1e73",
+      "en_sha256": "d09f03c3607e90d821cc18e584fb9e5560a4cf09657123bc5c76f1119fcf4794",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationResonance].name": {
+      "pl": "Negacja Zachowania",
+      "kr_sha256": "d67aae6a8988bd31c7d51f9411133f93d228e7d2f1abbe385f65482b87e0d141",
+      "en_sha256": "d3692eb4799d8def3dcef2d877a46700b59872e85108dc28525498c8801f9281",
+      "origin": "ai"
+    },
+    "dataList[id=targetDye_LowMorale].desc": {
+      "pl": "Umiejętności zadają celom o mniejszej Szybkości niż własna obrażenia -5%",
+      "kr_sha256": "2df70e4b1776ee61cc6f5b996043c9c28e5850b9edd2480df641aa688e9c9dc8",
+      "en_sha256": "5a813775eadb2bc23f4b94264ed93d13a719d434f47cb1e5428f0c2c23aff812",
+      "origin": "ai"
+    },
+    "dataList[id=targetDye_LowMorale].name": {
+      "pl": "Zacięta Maszyna",
+      "kr_sha256": "23f7f391c7c2966d4c56fa216b11eb6655b32c71fa5b7ece2e725d061859e34b",
+      "en_sha256": "33fcc3665c0d211fa7bc69e1a377f1cd1fd19f5f610900d9b7ec682427423971",
+      "origin": "ai"
+    },
+    "dataList[id=targetDye_Panic].desc": {
+      "pl": "Umiejętności zadają celom o mniejszej Szybkości niż własna obrażenia -10%",
+      "kr_sha256": "008ec8c6c26a54c8bbd938e4165f8ed6afc23c64736f6711a46177fca416f6ef",
+      "en_sha256": "e03463e215686e98dae56b15c8b252098b8cbe5c9cf543912dbd26a4430b9ade",
+      "origin": "ai"
+    },
+    "dataList[id=targetDye_Panic].flavor": {
+      "pl": "Czy to, co porusza się szybciej od ciebie, da się naprawdę zatrzymać w miejscu?",
+      "kr_sha256": "62f3dc76a85ec3ec35adcc8133965a01c0f84a6621f0c3ae1d0736fcf70c99bc",
+      "en_sha256": "a4cde08f45bcc16cc46f41b4ed9772567b0239909b19c9110c0e8b2a172a988e",
+      "origin": "ai"
+    },
+    "dataList[id=targetDye_Panic].name": {
+      "pl": "Zacięta Maszyna",
+      "kr_sha256": "23f7f391c7c2966d4c56fa216b11eb6655b32c71fa5b7ece2e725d061859e34b",
+      "en_sha256": "33fcc3665c0d211fa7bc69e1a377f1cd1fd19f5f610900d9b7ec682427423971",
+      "origin": "ai"
+    }
+  }
+}

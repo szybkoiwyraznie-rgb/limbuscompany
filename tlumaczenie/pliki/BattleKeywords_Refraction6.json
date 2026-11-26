@@ -1,0 +1,394 @@
+{
+  "entries": {
+    "dataList[id=CondensedBloodRefraction].desc": {
+      "pl": "- Maks. Mocy: 50\n- Na koniec tury otrzymuje obrażenia HP równe 1% Maks. HP za każdą wartość (min. 1; nie popada w Oszołomienie z tych obrażeń)\n- Przy użyciu Umiejętności obrony Licznik maleje o 1 (raz na turę)\n- Na koniec tury Moc rośnie dwukrotnie, a Licznik maleje o 1\n- Ten efekt znika dopiero przy Liczniku 0",
+      "kr_sha256": "dcd76068c63b938aa2ec7bc62f541a0a8104caebec35345a2fd81138854bcfc9",
+      "en_sha256": "aba0e07a0d356e61ad9a569c6a2ee494f97f8f3aaa96cc2bea87adfdecd0e3d9",
+      "origin": "ai"
+    },
+    "dataList[id=CondensedBloodRefraction].name": {
+      "pl": "Krew Smoka [龍血]",
+      "kr_sha256": "e1e565d5fc6c15d2a4d193546fbfce0bd1f4009965fba11c9964b2b01e338dd2",
+      "en_sha256": "312ace39eecb4622b65de1ceb5d4d0b3e6402c2d9cf63f2c5fa39f5eb74f5e5b",
+      "origin": "ai"
+    },
+    "dataList[id=DragonLanceRefraction].desc": {
+      "pl": "- Maks.: 3\n- Wzmacnia określone Umiejętności Yinglonga",
+      "kr_sha256": "c320f580dcb68e03802ee3e2adefbeb55e45a675ae91cf72e77faa8b1a21dfb9",
+      "en_sha256": "77817b7a93c40452960870c14410e2ec89afcb8f321484d19a3d16359573863a",
+      "origin": "ai"
+    },
+    "dataList[id=DragonLanceRefraction].name": {
+      "pl": "Klin Pogrzebania Kwiatów [埋花櫼]",
+      "kr_sha256": "3b71106d680d595102b4bc6be3bf3aa4d633c9c6fb0eb9fb55240384ea93caa9",
+      "en_sha256": "4d9ef19b82462fbb7a3dad341d2c60a80bad07483e5886cb8ae3bcc8ccfd5d3c",
+      "origin": "ai"
+    },
+    "dataList[id=HeatedWingScalesExplain].desc": {
+      "pl": "- +0.25 do Odporności na Typy Ataku i Atrybuty Umiejętności, które prowadziły Starcie z Umiejętnością 'Splątany Żywot - Regres' Motyla Splątanych Żywotów::Poczwarki",
+      "kr_sha256": "100a2c7e8577236c49c688aa660c51d696d0e2f991d7a006805ca4c37c993328",
+      "en_sha256": "fa98a4c88f6c3cd7b0cfedd3735aa1730b76b7e1df55be4eea06ace08867e385",
+      "origin": "ai"
+    },
+    "dataList[id=HeatedWingScalesExplain].name": {
+      "pl": "Rozżarzony Pył Łusek",
+      "kr_sha256": "ebff0359bcbd3d058d7a626a95005988d4fbd230e56bacba5643475fd1cf01d0",
+      "en_sha256": "5fddb8f7e104396b87241d1a322591932a40c2f1eebaf13d11a5f428c3450402",
+      "origin": "ai"
+    },
+    "dataList[id=HeatedWingScales].desc": {
+      "pl": "- +0.25 do Odporności na Typy Ataku i Atrybuty Umiejętności, które prowadziły Starcie z 'Splątany Żywot - Regres' Motyla Splątanych Żywotów::Poczwarki",
+      "kr_sha256": "c87292fe9e980515ed383323a9d01a11d4ab903bbaa72735bbcb13ef43e1cc3a",
+      "en_sha256": "fa98a4c88f6c3cd7b0cfedd3735aa1730b76b7e1df55be4eea06ace08867e385",
+      "origin": "ai"
+    },
+    "dataList[id=HeatedWingScales].name": {
+      "pl": "Rozżarzony Pył Łusek",
+      "kr_sha256": "ebff0359bcbd3d058d7a626a95005988d4fbd230e56bacba5643475fd1cf01d0",
+      "en_sha256": "5fddb8f7e104396b87241d1a322591932a40c2f1eebaf13d11a5f428c3450402",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerLeashBuff].desc": {
+      "pl": "- Zadaje -100% obrażeń Atakami Niekwestionowanymi\n- Jeśli w tej walce zginęło 3 lub więcej sojuszników, ten efekt znika na koniec tury",
+      "kr_sha256": "db237b3f08f42787812c3e5a553a358d25eff9e5faa16eb8855d24fcb552222a",
+      "en_sha256": "f4b42609eb41fadee1b69bf27dc385b366a3a8016cd87e4a1488632c34bde1ab",
+      "origin": "ai"
+    },
+    "dataList[id=MiddleFingerLeashBuff].name": {
+      "pl": "Stłumiona Siła",
+      "kr_sha256": "4f90ec3e439a09722f3c754f9a7accb2c0c50cf67c0b33b8c417b95625f32207",
+      "en_sha256": "a354c7d8b6f96c7655c5dce7f5995809113bf64803a4eca8819ef0b68511366a",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffA3].desc": {
+      "pl": "- Maks. HP +50% (maks. 200, z wyłączeniem Peccatulum Zazdrości)\n- Usuwa pierwszy Próg Oszołomienia",
+      "kr_sha256": "f94de6068ed8562d2e5a6da5816f5b8ba16edbd57c5ce8cbe2715c2cd86f9037",
+      "en_sha256": "53999762befcd21970b28242f310d6dabad0a78c29e9a464035f8a7106000bbe",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffA3].name": {
+      "pl": "Sok Wędrowca Zachodu Słońca",
+      "kr_sha256": "17ce49235415f22a386a07cdb9304dc23bfcf122341caf4bb7b690f2698c041d",
+      "en_sha256": "af5ced4d328f35e992ada3b499dcdf725ffec5c9759ade09ba732213f8428889",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffA4].desc": {
+      "pl": "- Maks. HP +50% (maks. 200, z wyłączeniem Peccatulum Zazdrości)\n- Przy trafieniu Niezniszczalnymi Monetami otrzymuje -20% obrażeń",
+      "kr_sha256": "333c173945be1f35884b530308fe82bc52722b0d6efb460ae7280ae41edc4c44",
+      "en_sha256": "e6cbc5999026b77f4570feb137e1346694696ba7ec12bb12004e56f46be76ff6",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffA4].name": {
+      "pl": "Sok Wędrowca Zachodu Słońca",
+      "kr_sha256": "17ce49235415f22a386a07cdb9304dc23bfcf122341caf4bb7b690f2698c041d",
+      "en_sha256": "af5ced4d328f35e992ada3b499dcdf725ffec5c9759ade09ba732213f8428889",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffA5].desc": {
+      "pl": "- Maks. HP +50% (maks. 200, z wyłączeniem Peccatulum Zazdrości)\n- Usuwa pierwszy Próg Oszołomienia\n- Na koniec tury 4 sojuszników z najniższą Poczytalnością odzyskuje 4 Poczytalności (z wyłączeniem sojuszników w stanie Paniki lub Korozji)",
+      "kr_sha256": "eebd17dc6bc8a177b017e7d90e36534fdcd4554413233fed7f948dde214d427c",
+      "en_sha256": "ffeef35e39ac73d66c2cd56a357de29181236dc925bc75c4e72c33086b320aba",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffA5].name": {
+      "pl": "Sok Wędrowca Zachodu Słońca",
+      "kr_sha256": "17ce49235415f22a386a07cdb9304dc23bfcf122341caf4bb7b690f2698c041d",
+      "en_sha256": "af5ced4d328f35e992ada3b499dcdf725ffec5c9759ade09ba732213f8428889",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffB3].desc": {
+      "pl": "- Na początek tury za każdego sojusznika tej samej frakcji na polu walki (wliczając siebie) zyskuje 1 Wzrost Poziomu Ataku (maks. 4)",
+      "kr_sha256": "515e2b8cf0455687e3dd132d27774161e69a06433001a19e938e9698e133484b",
+      "en_sha256": "ea9fdb2eeb7a9f35a3200b8bf5a01e95887d52397b5ea1c979af9ebafdbf4167",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffB3].name": {
+      "pl": "Ćma Wędrowca Zachodu Słońca",
+      "kr_sha256": "66b4dac044a7744a6795eb06bc033e6d01b241edb01131bd6823ff93fa684614",
+      "en_sha256": "bd6c1089ce51ff8843e48806a40b954733abca1946b54ef3f5d6d624e2a48175",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffB4].desc": {
+      "pl": "- Co turę zyskuje 1 losowy z efektów: Wzrost Obrażeń Cięcia, Wzrost Obrażeń Przebicia i Wzrost Obrażeń Uderzenia. Umiejętności E.G.O atrybutu zyskanego efektu zadają +50% obrażeń\n- Przy trafieniu Niezniszczalnymi Monetami zadaje +20% obrażeń",
+      "kr_sha256": "ee068135eccdd998243ed1d3964c0ae13b8538987a4794aed6bb9b2b5daf0ba1",
+      "en_sha256": "28f3d0761d4daf2d95b85881f6ea32fc8401576856dcdfe1f841770b5e51311b",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffB4].name": {
+      "pl": "Ćma Wędrowca Zachodu Słońca",
+      "kr_sha256": "66b4dac044a7744a6795eb06bc033e6d01b241edb01131bd6823ff93fa684614",
+      "en_sha256": "bd6c1089ce51ff8843e48806a40b954733abca1946b54ef3f5d6d624e2a48175",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffB5].desc": {
+      "pl": "- Na początek tury za każdego sojusznika, który już zginął, zyskuje 1 Wzrost Poziomu Ataku (maks. 6)\n- Jeśli na początku walki wywołano Rezonans Absolutny, Umiejętności z Rezonansem Absolutnym zadają +20% obrażeń",
+      "kr_sha256": "a7cd6bb2c1f24a9614cf65da43234e6dfea5394f692cb60bc4eb09527c2e881f",
+      "en_sha256": "d34ee728bd412cd4c19830c9df060bbb22019c213c4f2f00c43c6cc9bb595028",
+      "origin": "ai"
+    },
+    "dataList[id=NoeulNageuneBuffB5].name": {
+      "pl": "Ćma Wędrowca Zachodu Słońca",
+      "kr_sha256": "66b4dac044a7744a6795eb06bc033e6d01b241edb01131bd6823ff93fa684614",
+      "en_sha256": "bd6c1089ce51ff8843e48806a40b954733abca1946b54ef3f5d6d624e2a48175",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationTheRingsRail].desc": {
+      "pl": "- Bazowy Poziom Ataku -20\n- Bazowy Poziom Obrony -20\n- Jeśli Uczeń Pierścienia może walczyć, na początek tury zyskuje 7 Ochrony",
+      "kr_sha256": "b77b31b89f95efb3580a837207e04726e4afb0fd0c4ebd152940a7c48c055595",
+      "en_sha256": "4c649988395f2cebaa2ef5ebc244b67e890c08e1f34257b283aa7cf2f0312a08",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationTheRingsRail].flavor": {
+      "pl": "„Podziwianie dzieł sztuki w galerii wymaga niespiesznej kontemplacji. Proszę pamiętać — niecierpliwość tępi wrażliwość na sztukę.”",
+      "kr_sha256": "f4a5daae9e60c265c1da42a607b43d9869d10a12ee12e133b289b7074686a53c",
+      "en_sha256": "c06d8b73ffe441716099fb474d2af40d40a7dfc1d914ff523307cbfb07394acc",
+      "origin": "ai"
+    },
+    "dataList[id=ObservationTheRingsRail].name": {
+      "pl": "Podziwianie Tableau",
+      "kr_sha256": "6c484d89a13c7b9c8ee6862cfba7f7f5922e5f81b4f538a20a9e20df1e8fde8a",
+      "en_sha256": "284ab85293e4c69e8d439b0b160a6869cb6ea322d70a82ab6a421bf061b95977",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScarRailway_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Na początek tury zyskuje Moc Podpalenia 5 i Moc Krwawienia 5",
+      "kr_sha256": "2ac62fff04467b20de977b60422ac9300da1e058332276dfbd3a484531b62784",
+      "en_sha256": "43697b17ce2d3be36176be5c2d2345ab44d8e41d3adf9878fe81e069490e6e12",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScarRailway_LowMorale].name": {
+      "pl": "Imitacja Ojca",
+      "kr_sha256": "bfac4087802e53b634b246a3c302efdc777efe035ab53c59ba39b73d06012f28",
+      "en_sha256": "7bb878ab8da54f06dd78ffe7a855c40f9fb81f6cfa39fd2b775051ddd2a6dba3",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScarRailway_Panic].desc": {
+      "pl": "- Panika\n- Na początek tury zyskuje Moc Podpalenia 5, Licznik Podpalenia 3, Moc Krwawienia 5 i Licznik Krwawienia 3",
+      "kr_sha256": "b7a64304f6eea5e2c237f4ff47e6691aa697d4c080b32db0b7d6223bcf44a2cd",
+      "en_sha256": "e3c083e2bdf1d3e023f5a763b2564fd155ffce88aa699c5a7a34da73f15c1875",
+      "origin": "ai"
+    },
+    "dataList[id=PainfulScarRailway_Panic].name": {
+      "pl": "Imitacja Ojca",
+      "kr_sha256": "bfac4087802e53b634b246a3c302efdc777efe035ab53c59ba39b73d06012f28",
+      "en_sha256": "7bb878ab8da54f06dd78ffe7a855c40f9fb81f6cfa39fd2b775051ddd2a6dba3",
+      "origin": "ai"
+    },
+    "dataList[id=RustedWingScalesExplain].desc": {
+      "pl": "- +0.25 do Odporności na Typy Ataku i Atrybuty Umiejętności, które prowadziły Starcie z Umiejętnością 'Splątany Żywot - Nadejście' Motyla Splątanych Żywotów::Poczwarki",
+      "kr_sha256": "0c513d58cf6a10f911f842134a258c398180f4d4ec38ac557ce6efec803741b1",
+      "en_sha256": "b4fa917605407e401aedef5a282eeac2454314d021d4b7ffc15f9b32eb964825",
+      "origin": "ai"
+    },
+    "dataList[id=RustedWingScalesExplain].name": {
+      "pl": "Zardzewiały Pył Łusek",
+      "kr_sha256": "121d8ac77b488fcb8de89d9828c68926e942d3291ceabedc93a326e6499757fa",
+      "en_sha256": "7724e1294dcd3ce2b1f8b4df2a4d4e896b2f3990f80191bd5c26be19070688d0",
+      "origin": "ai"
+    },
+    "dataList[id=RustedWingScales].desc": {
+      "pl": "- +0.25 do Odporności na Typy Ataku i Atrybuty Umiejętności, które prowadziły Starcie z Umiejętnością 'Splątany Żywot - Nadejście' Motyla Splątanych Żywotów::Poczwarki",
+      "kr_sha256": "0c513d58cf6a10f911f842134a258c398180f4d4ec38ac557ce6efec803741b1",
+      "en_sha256": "b4fa917605407e401aedef5a282eeac2454314d021d4b7ffc15f9b32eb964825",
+      "origin": "ai"
+    },
+    "dataList[id=RustedWingScales].name": {
+      "pl": "Zardzewiały Pył Łusek",
+      "kr_sha256": "121d8ac77b488fcb8de89d9828c68926e942d3291ceabedc93a326e6499757fa",
+      "en_sha256": "7724e1294dcd3ce2b1f8b4df2a4d4e896b2f3990f80191bd5c26be19070688d0",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDaysRefraction_LowMorale].desc": {
+      "pl": "Zadaje i otrzymuje +10% obrażeń",
+      "kr_sha256": "b97d14382e69d8b22ed8b52e2388436978f253d9c2cab4acb23bf6931c70d5d0",
+      "en_sha256": "cdd1d8680fa1d59c26ad1b4aa0cc7ee06b0b1cda36b313f2245f9bf8640e8e21",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDaysRefraction_LowMorale].name": {
+      "pl": "Miłość i Uraza",
+      "kr_sha256": "fdd7ec95d3b7c94d6b854ba98a6d28a5ea3976c2f5076c56b04c3c07defff675",
+      "en_sha256": "310217b5059c8e1d17a5c96789d82e1c0bb8b6c55a85e424bf4474d161e5f18d",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDaysRefraction_Panic].desc": {
+      "pl": "Zadaje i otrzymuje +20% obrażeń",
+      "kr_sha256": "820b94c4a2f193e8767b30d0cbc98b098efca0a826616986d29f9777934a1097",
+      "en_sha256": "5056aba299e8d30ebd591db2230029a1329a6f8750a2b956f38189170f5d3756",
+      "origin": "ai"
+    },
+    "dataList[id=ScarBygoneDaysRefraction_Panic].name": {
+      "pl": "Miłość i Uraza",
+      "kr_sha256": "fdd7ec95d3b7c94d6b854ba98a6d28a5ea3976c2f5076c56b04c3c07defff675",
+      "en_sha256": "310217b5059c8e1d17a5c96789d82e1c0bb8b6c55a85e424bf4474d161e5f18d",
+      "origin": "ai"
+    },
+    "dataList[id=StackFutureActivate].desc": {
+      "pl": "- Pasyw 'Przyszłość [未來]' aktywny\n- Efekty zależne od wartości\n· 0~10: Umiejętności nadają Moc Krwawienia i Licznik Krwawienia +1\n· 11~20: Moc Starcia +1, Umiejętności nadają Moc Krwawienia +2 i Licznik Krwawienia +1\n· 21~30: Moc Końcowa +2, Umiejętności nadają Moc Krwawienia +3 i Licznik Krwawienia +2\n- Maks. 30",
+      "kr_sha256": "b23dff89a8e8325ed94ca36b1665eb2abcb09f15a898d944ae6e11270c3e73e3",
+      "en_sha256": "661437be2c562823b29ef693b1c77f60fb336e92f61791982c29c7398701cb37",
+      "origin": "ai"
+    },
+    "dataList[id=StackFutureActivate].name": {
+      "pl": "Stan Przyszłości",
+      "kr_sha256": "4f9ddc7b17a26a76dbf96745d9f2b9177a7d9891a9df7f7fb4b1e4c79fae0abf",
+      "en_sha256": "3e82fb53c14a23580d7ff7eaec6024f2c45bcfead125fe0433b483721ef61444",
+      "origin": "ai"
+    },
+    "dataList[id=StackFuture].desc": {
+      "pl": "- Pasyw 'Przyszłość [未來]' nieaktywny\n- Maks. 30",
+      "kr_sha256": "c483f81cf39d2a145006d84453a55b41e676a1a22a66bdb6a3bbc9ec8377308f",
+      "en_sha256": "969ae30e8c8f1a33047eaf7642ee9d4559ab4e06065b83a791208a0d8b7da137",
+      "origin": "ai"
+    },
+    "dataList[id=StackFuture].name": {
+      "pl": "Stan Przyszłości (Nieaktywny)",
+      "kr_sha256": "9a67010ab1cbc962887c8c80e35204d379263be66ed663830777d970aa1ec30e",
+      "en_sha256": "32b4b18286ae02c568c824c171f702f7d6042a70caee6ff372e595d2e34c36c0",
+      "origin": "ai"
+    },
+    "dataList[id=StackPastActivate].desc": {
+      "pl": "- Pasyw 'Przeszłość [過去]' aktywny\n- Efekty zależne od wartości\n· 0~10: Umiejętności nadają Moc Podpalenia i Licznik Podpalenia +1\n· 11~20: Moc Starcia +1, Umiejętności nadają Moc Podpalenia +2 i Licznik Podpalenia +1\n· 21~30: Moc Końcowa +2, Umiejętności nadają Moc Podpalenia +3 i Licznik Podpalenia +2\n- Maks. 30",
+      "kr_sha256": "c5be2e1f2d8fc325623a72cdde326d4b01ebc2a0a6036d75fba98870a85ea806",
+      "en_sha256": "7d5b975b4e594c4db9ff28edfdfe272a1513e8233ebd4b1d8e68a32dfe2aab8d",
+      "origin": "ai"
+    },
+    "dataList[id=StackPastActivate].name": {
+      "pl": "Stan Przeszłości",
+      "kr_sha256": "6319f6b0f909f6defc08a78fdf88eaa5908f93d348e0599f2f9dd8b49c4736be",
+      "en_sha256": "821e98cbeb6ce39a59f5ebb2dece4ddb9ba78bbbaf4b6de0ead1372c2b176428",
+      "origin": "ai"
+    },
+    "dataList[id=StackPast].desc": {
+      "pl": "- Pasyw 'Przeszłość [過去]' nieaktywny\n- Maks. 30",
+      "kr_sha256": "1cfe493712cc13fec82b05ccc31afba34106b7b4746befa8b44f0ec66990f81c",
+      "en_sha256": "27bf8023ef46c3f67c41bb86129e13db3cc8c2f984184ca79dfc47b956b11e8a",
+      "origin": "ai"
+    },
+    "dataList[id=StackPast].name": {
+      "pl": "Stan Przeszłości (Nieaktywny)",
+      "kr_sha256": "7cb88295cc4658c51c6b0755df3a17066c1d19968154d8e83119ba2118beb8f6",
+      "en_sha256": "e53613fccf5b3d35131c40ffa7fdd47db81d31dcaa37b7331613c2ab2c71d42d",
+      "origin": "ai"
+    },
+    "dataList[id=StackPresentActivate].desc": {
+      "pl": "- Pasyw 'Teraźniejszość [現在]' aktywny\n- Efekty zależne od wartości\n· 0~10: Umiejętności zyskują Moc Oddechu i Licznik Oddechu +1\n· 11~20: Moc Starcia +1, Umiejętności zyskują Moc Oddechu +2 i Licznik Oddechu +1\n· 21~30: Moc Końcowa +2, Umiejętności zyskują Moc Oddechu +3 i Licznik Oddechu +2\n- Maks. 30",
+      "kr_sha256": "e75e0188d6030d7cd6539b1f1d02425691d372bd3804bc7d09faf37824f48a2b",
+      "en_sha256": "2696bebc63b64a9c08ec2992c5d9161edfc11bc681cce71199f7e287dc038e97",
+      "origin": "ai"
+    },
+    "dataList[id=StackPresentActivate].name": {
+      "pl": "Stan Teraźniejszości",
+      "kr_sha256": "a00fce68f4e94f7d24a290ec6cc2dbd07e6fde69074707a963ecb709d0bc59ed",
+      "en_sha256": "2c0e0298787ba6c408cfc6d1e704ba3f899584430510d07954e5c74e04bcc441",
+      "origin": "ai"
+    },
+    "dataList[id=StackPresent].desc": {
+      "pl": "- Pasyw 'Teraźniejszość [現在]' nieaktywny\n- Maks. 30",
+      "kr_sha256": "227e9a19b868f107439451cf34fc686bcaabfe915e77758374d1f05d9c9e57ac",
+      "en_sha256": "e877e14d9e672adc49e4afc818cd4a69b13022ddfcb4894594e2f781e5fe3a13",
+      "origin": "ai"
+    },
+    "dataList[id=StackPresent].name": {
+      "pl": "Stan Teraźniejszości (Nieaktywny)",
+      "kr_sha256": "0301b536d8253849c20663f3a17767729404019da2dc7f3310adb1b5dc6705f6",
+      "en_sha256": "68a33a612b9e1251d82cc68543649474a2e48c7d84a7a0935b0c5862ac0f5e08",
+      "origin": "ai"
+    },
+    "dataList[id=TagGameBuff].desc": {
+      "pl": "- Zadaje -100% obrażeń Atakami Niekwestionowanymi\n- Otrzymuje +80% obrażeń od Ataków Niekwestionowanych\n- Wszystkie Peccatulum Zazdrości, wliczając tę jednostkę, wyposażają w slotach Umiejętności wyłącznie Umiejętności obrony\n- Na koniec tury maleje o 1",
+      "kr_sha256": "b2dc53d1c7c79661af7f3f6353287de82ae9e8850e6ae27bff0d1c90da0d7d5c",
+      "en_sha256": "c7cd9e71630065d6dc3f7f4433876bd233fb3032c44ef125ee2fb0daa12143f1",
+      "origin": "ai"
+    },
+    "dataList[id=TagGameBuff].name": {
+      "pl": "Berek",
+      "kr_sha256": "b53f44a5633b87097b6f23c7bbf349d4286577091e30b4270512421f4cfd085e",
+      "en_sha256": "1416971ef79d5fab9b75807d23a65aa0beda93ce5ec0b1d0d213d4542b6fcc8b",
+      "origin": "ai"
+    },
+    "dataList[id=TimeGap].desc": {
+      "pl": "- Za każdą zmianę między Stanem Przeszłości / Stanem Teraźniejszości / Stanem Przyszłości a innym stanem rośnie o 1\n- Otrzymuje +(wartość x 15)% obrażeń (maks. 150%)\n- Na początek tury przy wartości 10 zyskuje 5 Wrażliwości\n- Maks. 10",
+      "kr_sha256": "64734fdcf7f2452c61ff136eb1158b58342d1aa2d9a23bdaa6658a0109d16afe",
+      "en_sha256": "a1f42a0447bc17a1841bdd8c70391690baf48522a1d1d1a0421cf11e92e6cbc2",
+      "origin": "ai"
+    },
+    "dataList[id=TimeGap].name": {
+      "pl": "Rozdźwięk Czasu",
+      "kr_sha256": "d13d92353df627f1e7cb3f148308ce68b51b1faeacdd222d5816901da996c290",
+      "en_sha256": "d34b09a7611d1680a1ed15377cab1bb4deb01de72592cdd89388200470bfe115",
+      "origin": "ai"
+    },
+    "dataList[id=TransparentWingScalesExplain].desc": {
+      "pl": "- +0.25 do Odporności na Typy Ataku i Atrybuty Umiejętności, które prowadziły Starcie z Umiejętnością 'Splątany Żywot - Manifestacja' Motyla Splątanych Żywotów::Poczwarki",
+      "kr_sha256": "f796ad436f0bbafe218d22ebe5f097f28516480eb77fd64d7e4b7d10f08bc585",
+      "en_sha256": "986ff86ad3a55f5e53b782d0b21de4590afe0926925cac70f14c24a975e0a0ab",
+      "origin": "ai"
+    },
+    "dataList[id=TransparentWingScalesExplain].name": {
+      "pl": "Ostry Pył Łusek",
+      "kr_sha256": "0fcbb4224d742fc5f19ec26868fca7016d23467369dd74b9d48020dbe7957b46",
+      "en_sha256": "60c9750f3c86bc5a3fb41c743a2507d246f48f6be1511147bbccc3a1a92f4249",
+      "origin": "ai"
+    },
+    "dataList[id=TransparentWingScales].desc": {
+      "pl": "- +0.25 do Odporności na Typy Ataku i Atrybuty Umiejętności, które prowadziły Starcie z 'Splątany Żywot - Manifestacja' Motyla Splątanych Żywotów::Poczwarki",
+      "kr_sha256": "bb8c4e459b49e8ad138d05aa55857d0226bf0a1d35a6fe7f05f8407323085961",
+      "en_sha256": "986ff86ad3a55f5e53b782d0b21de4590afe0926925cac70f14c24a975e0a0ab",
+      "origin": "ai"
+    },
+    "dataList[id=TransparentWingScales].name": {
+      "pl": "Ostry Pył Łusek",
+      "kr_sha256": "0fcbb4224d742fc5f19ec26868fca7016d23467369dd74b9d48020dbe7957b46",
+      "en_sha256": "60c9750f3c86bc5a3fb41c743a2507d246f48f6be1511147bbccc3a1a92f4249",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonPower].desc": {
+      "pl": "- Otrzymuje -100% obrażeń\n- Znika po zakończeniu Umiejętności, która trafiła",
+      "kr_sha256": "1db51239a2b41ae8c257d5e944e5796e8f8816408449cc68a319d4f8908c64bd",
+      "en_sha256": "d0aecbb39b0fd62a04e9d11e8d73374ba7cab21f93fdb6b7171e18fdeb036668",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonPower].name": {
+      "pl": "Energia Smoka [龍氣]",
+      "kr_sha256": "e676c90d9c3297518013d47109c9d1e666fb98e0064bdd3f6e934d65b9662ccb",
+      "en_sha256": "624d2039e41d0475d0ec0b23d0d3f35c70c651ab01b0ec6adee0ee4af3ae82d5",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonScale].desc": {
+      "pl": "- Maks.: 20\n- Ten efekt nie znika nawet przy wartości 0\n- Przy otrzymaniu obrażeń od Igły Pogrzebania Kwiatów maleje o 1\n- Za każdy spadek o 1 otrzymuje +10% obrażeń",
+      "kr_sha256": "0a54028ce68eedb6b1c1cfa14d4081a3acf45b67311a198685660d52b0e2f076",
+      "en_sha256": "0df5a19b3eaed95792bb04ee85cc817056bc951a550672ea765874839ea895cb",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonScale].name": {
+      "pl": "Pokrywające Łuski",
+      "kr_sha256": "bfea91d645e2faf82a99e2f29d48aab324875d56407195cdc8afd904765ddad2",
+      "en_sha256": "2bc7552943c67b332f3cb2e9a4b9e349d02b678db8652c82e0f6303ddfde7828",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonSelfRefraction].desc": {
+      "pl": "- Maks.: 10\n- Za każde 2 wartości Poziom Ataku +1 i Poziom Obrony +1\n- Przy wartości 5 lub więcej Moc Końcowa +1\n- Przy maksymalnej wartości Moc Monet +1\n- Po zużyciu Igły Pogrzebania Kwiatów za każdą zużytą wartość przyznaje wrogowi po 1 najbardziej mu brakującego zasobu E.G.O",
+      "kr_sha256": "63e7414cc3f17d57cdedf5c1aa6c392ad1c1148d09f1dc3428676c154db802e6",
+      "en_sha256": "473847e3636148340ed0dc773e4373aa449339b829c7b919d465d0cbaf5b5bad",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonSelfRefraction].name": {
+      "pl": "Igła Pogrzebania Kwiatów [埋花針]",
+      "kr_sha256": "e99a131fdfa4cb6d22531be4bc2e143e3f33e7134d327e6978fcc099b7b4863a",
+      "en_sha256": "6e919024b6c3a6dd770a059fe65b779bee14915a3fcd6e515f2bc505f89f4c9a",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonWind].desc": {
+      "pl": "- Minimalna i maksymalna Szybkość +3\n- Moc Starcia +2\n- Znika po zakończeniu Umiejętności, która trafiła",
+      "kr_sha256": "653f755459bba2104240d62de59045f5855bd32639ee132d53291ed6327cbf82",
+      "en_sha256": "9d0671495849d1ebbb4a5484f465820801fe31243ff5c40de421a2804289688a",
+      "origin": "ai"
+    },
+    "dataList[id=YesdragonWind].name": {
+      "pl": "Kapryśne Miłosierdzie",
+      "kr_sha256": "ef7af6a722619686a71aa5ca1237f2f53d876020244cf25eb5b3e814f76dfb60",
+      "en_sha256": "6c73582a68f99a385c05d4fc03fee205aad4a9ce683f7f1861eb245508b99a1e",
+      "origin": "ai"
+    }
+  }
+}

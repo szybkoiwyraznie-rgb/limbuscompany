@@ -1,0 +1,820 @@
+{
+  "entries": {
+    "dataList[id=BlackStigmata].desc": {
+      "pl": "- Jeżeli cel posiada Poczytalność, jego typ Paniki zmienia się na „Poczucie Winy”\n- Jeżeli cel nie posiada Poczytalności, otrzymuje obrażenia +10% od celów o większej Szybkości niż własna\n- Na koniec tury traci 1 ładunek\n- Ten efekt się nie kumuluje — jest odnawiany\n- U pewnych wrogów posiadających Poczytalność, którzy nie mogą zmienić typu Paniki, stosuje się efekt dla celów bez Poczytalności\n\n※ Efekt Paniki „Poczucia Winy”\n- Niskie Morale: Min. i Maks. Szybkość -1; otrzymuje obrażenia +10% od celów o większej Szybkości niż własna\n- Panika: Min. i Maks. Szybkość -2; otrzymuje obrażenia +15% od celów o większej Szybkości niż własna",
+      "kr_sha256": "58478ffa701a379a8540f23d820a1034391a4fdfbe679d0a492bf276bdbbb960",
+      "en_sha256": "fd2d59db0b0205af27a4a071f5ea018713218a2975ddc57c8e29e52f6cd3c844",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata].flavor": {
+      "pl": "„Czujesz, jak grzechy wpełzają ci po plecach.”",
+      "kr_sha256": "3d3c6e31e611e7db75a1a05919471bd06b7339ea6ef3e146fa9e8f319b672132",
+      "en_sha256": "9683d68d330ac3d20af8b51b49a16687944f4bfa221cad3701855627bc860c57",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "f1d6927e0506e18f720ebfdc0514073269020a781ffd00a4c24ca9a54336c3e2",
+      "en_sha256": "6de7aa5370580bb4a36422f1c73d1abadad22bc475d38ebde192d31cc6878e80",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata].summary": {
+      "pl": "Traci Min. i Maks. Szybkość\nOtrzymuje więcej obrażeń od celów o większej Szybkości niż własna",
+      "kr_sha256": "67d2d002862bab4a80bd7d336920694add6bc6d7cb5df5590f9cd00912232846",
+      "en_sha256": "7fd5931d326596803ee1b7a714bd835c769354d71eb299ef0045f873924d1e6c",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Min. i Maks. Szybkość -1; otrzymuje obrażenia +10% od celów o większej Szybkości niż własna",
+      "kr_sha256": "48a5471fcc6ff1a0c1729316a806476b6723d5531a81bc1f8d443ab019ca0bfb",
+      "en_sha256": "f36b7cbf5f6a9526f1f768338b6bb4703d09041b5f00ca42f69913759447b613",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_LowMorale].flavor": {
+      "pl": "„Czujesz, jak grzechy wpełzają ci po plecach.”",
+      "kr_sha256": "3d3c6e31e611e7db75a1a05919471bd06b7339ea6ef3e146fa9e8f319b672132",
+      "en_sha256": "9683d68d330ac3d20af8b51b49a16687944f4bfa221cad3701855627bc860c57",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_LowMorale].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "f1d6927e0506e18f720ebfdc0514073269020a781ffd00a4c24ca9a54336c3e2",
+      "en_sha256": "6de7aa5370580bb4a36422f1c73d1abadad22bc475d38ebde192d31cc6878e80",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_LowMorale].summary": {
+      "pl": "Traci Min. i Maks. Szybkość\nOtrzymuje więcej obrażeń od celów o większej Szybkości niż własna",
+      "kr_sha256": "67d2d002862bab4a80bd7d336920694add6bc6d7cb5df5590f9cd00912232846",
+      "en_sha256": "7fd5931d326596803ee1b7a714bd835c769354d71eb299ef0045f873924d1e6c",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Main].desc": {
+      "pl": "- Jeżeli cel posiada Poczytalność, zmienia swój typ Paniki na „Poczucie Winy”\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "0978639c61cee20afc19e122c4b4e4211b048cb2c3a58062ceac726e38c10248",
+      "en_sha256": "61e83e8e4f7a48c02fa9c7b4d7a0be03d53dd5dd18b4d6c432c3c40b75af2165",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Main].flavor": {
+      "pl": "„Czujesz, jak grzechy wpełzają ci po plecach.”",
+      "kr_sha256": "3d3c6e31e611e7db75a1a05919471bd06b7339ea6ef3e146fa9e8f319b672132",
+      "en_sha256": "9683d68d330ac3d20af8b51b49a16687944f4bfa221cad3701855627bc860c57",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Main].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "f1d6927e0506e18f720ebfdc0514073269020a781ffd00a4c24ca9a54336c3e2",
+      "en_sha256": "6de7aa5370580bb4a36422f1c73d1abadad22bc475d38ebde192d31cc6878e80",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Main].summary": {
+      "pl": "Zmienia typ Paniki na „Poczucie Winy”",
+      "kr_sha256": "f6542410eebacce4c0a9e642f02e154d6ccdefcf61b292131bd097b7ef115acc",
+      "en_sha256": "e18748e33a8e902cb4951382444b43804ce84e619471f3e7001a502d603fbc2d",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Panic].desc": {
+      "pl": "- Panika\n- Min. i Maks. Szybkość -2; otrzymuje obrażenia +15% od celów o większej Szybkości niż własna",
+      "kr_sha256": "0e7dcc3106ea8ede7f6f708e086ca6744896663f338f26fe053a1a296bcc4098",
+      "en_sha256": "740e9d9c05bad521ad9d3021b051bb4ac6eaa211302e159c0bdc5945a59d81eb",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Panic].flavor": {
+      "pl": "„Czujesz, jak grzechy wpełzają ci po plecach.”",
+      "kr_sha256": "3d3c6e31e611e7db75a1a05919471bd06b7339ea6ef3e146fa9e8f319b672132",
+      "en_sha256": "9683d68d330ac3d20af8b51b49a16687944f4bfa221cad3701855627bc860c57",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Panic].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "f1d6927e0506e18f720ebfdc0514073269020a781ffd00a4c24ca9a54336c3e2",
+      "en_sha256": "6de7aa5370580bb4a36422f1c73d1abadad22bc475d38ebde192d31cc6878e80",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Panic].summary": {
+      "pl": "Traci Min. i Maks. Szybkość\nOtrzymuje więcej obrażeń od celów o większej Szybkości niż własna",
+      "kr_sha256": "67d2d002862bab4a80bd7d336920694add6bc6d7cb5df5590f9cd00912232846",
+      "en_sha256": "7fd5931d326596803ee1b7a714bd835c769354d71eb299ef0045f873924d1e6c",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Sub].desc": {
+      "pl": "- Jeżeli cel nie posiada Poczytalności, otrzymuje obrażenia +10% od szybszych celów\n- Na koniec tury traci 1 ładunek",
+      "kr_sha256": "9a1407a4d7d63df6dc48ceb8c75dfe000a2288dc39b1b08422dfc78ff7d46fc3",
+      "en_sha256": "6e783e50d33bdbc7a52df9f269ce3742b19555cb73c407832709d014b433371f",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Sub].flavor": {
+      "pl": "„Czujesz, jak grzechy wpełzają ci po plecach.”",
+      "kr_sha256": "3d3c6e31e611e7db75a1a05919471bd06b7339ea6ef3e146fa9e8f319b672132",
+      "en_sha256": "9683d68d330ac3d20af8b51b49a16687944f4bfa221cad3701855627bc860c57",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Sub].name": {
+      "pl": "Poczucie Winy",
+      "kr_sha256": "f1d6927e0506e18f720ebfdc0514073269020a781ffd00a4c24ca9a54336c3e2",
+      "en_sha256": "6de7aa5370580bb4a36422f1c73d1abadad22bc475d38ebde192d31cc6878e80",
+      "origin": "ai"
+    },
+    "dataList[id=BlackStigmata_Sub].summary": {
+      "pl": "Otrzymuje więcej obrażeń od celów o większej Szybkości niż własna",
+      "kr_sha256": "b5d8ae8e60cd68cdf036c181259e66a5f75c3139084fae661e1480ade8e446c7",
+      "en_sha256": "f8784e0de0a1ae623e39b3669b2690e69425a4b8a2f25ead21b802b61bcb5bc5",
+      "origin": "ai"
+    },
+    "dataList[id=CeremonialNail].desc": {
+      "pl": "- Maks. ładunków: 9\n- Gdy ten efekt zostaje wywołany przez „Sąd...! Wyrok...! Potępienie...!”, zyskuje Zatonięcie równe liczbie ładunków",
+      "kr_sha256": "f9e5c324ebafb6ca8b596c7e42ef974c01dc5cb632e79c526e88f90671304e8f",
+      "en_sha256": "8e441e95f35b7a96d8e89d414279595a640ad81df0078f7e4eb9af0088dd0057",
+      "origin": "ai"
+    },
+    "dataList[id=CeremonialNail].flavor": {
+      "pl": "Kara jest — mówię — moralnym wyrzutem sumienia tych, którzy przekroczyli regułę i normę.",
+      "kr_sha256": "52fec1e9877608d9db19f264e21eba2764797c0b70ae1dd7d94414038aba9787",
+      "en_sha256": "fbaf5b3a7e17d0aa8b72140c1e86d725254be7b3d66954f29a0e1fdbd4d1afa5",
+      "origin": "ai"
+    },
+    "dataList[id=CeremonialNail].name": {
+      "pl": "Gwóźdź [Kara]",
+      "kr_sha256": "a7635c3371b0adbe867ed2df34ef662520268133526e9af99a14c56dcdf148b5",
+      "en_sha256": "ae121b3afde9d0457f68ac6b3115a4261bc12234757adb8cbd569e64165d1e1e",
+      "origin": "ai"
+    },
+    "dataList[id=CeremonialNail].summary": {
+      "pl": "Po wywołaniu zyskuje Zatonięcie",
+      "kr_sha256": "2002ea394b89f2b0c94c5cde8d2865f14f913187e5d005e5565919809d89e857",
+      "en_sha256": "5b0ac9710382c4ead0db709ac2f39709f85031112f7ff2c6d6f26e8f2388bb59",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionSecondPhase].desc": {
+      "pl": "- Następujące efekty są zbiorczo nazywane „Dowodem Spowiedzi”:\n· Młotogwóźdź [Potępienie]\n· Młotogwóźdź [Sąd]\n· Gwóźdź [Kara]\n· Gwóźdź [Pokuta]",
+      "kr_sha256": "d5e10a39c07e9c6a339f2328f41704614e46e1a9492d59b10fd064cdefa133f7",
+      "en_sha256": "61d2fbddbbf9834b83c57a4027c817925ae164aa4042db0d5c8ca22df7336856",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionSecondPhase].flavor": {
+      "pl": "Wbijaj tyle gwoździ, ile grzechów — niech służy to za dowód pokuty.",
+      "kr_sha256": "ab920bd02f2611e0c06fdf55a8a8c4bb6ada9e0331a48e172dae701fff523a7d",
+      "en_sha256": "f4c8864c4527163303cf3a789dbd2c7eb971393757677f30e8a8e0338ee7838e",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionSecondPhase].name": {
+      "pl": "Dowód Spowiedzi",
+      "kr_sha256": "18815348a29a6c2d34f2340831ee74712df9de14bf16519fc17eb4ab65bcaad5",
+      "en_sha256": "0d05fdee31a734f42282b55b18c6f5810284a1bdd7de96c758a362815659df51",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionSecondPhase].summary": {
+      "pl": "Zbiorcza nazwa Gwóździ i Młotogwoździ nakładanych przez Strażnika",
+      "kr_sha256": "87257e02c4b281f2ab84b7a8cb1607208771705abde97f5d5b3f9a0d89d789be",
+      "en_sha256": "0a328fdd46b4e8bd6fc062414a9234ad6c271065768be72562224071cef32718",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionThirdPhase].desc": {
+      "pl": "- Następujące efekty są zbiorczo nazywane „〜”:\n· Gwóźdź [Exception]\n· Gwóźdź [Breakpoint]\n· Gwóźdź [Console]",
+      "kr_sha256": "0130e886b2e602cd5d08d05643187030c70a5ef60267354ea9fd23d76badb2b4",
+      "en_sha256": "10e9221fd0f0d07f1337b14bf40694a23e8193d7f861c6a09742c4fa8cb04aa4",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionThirdPhase].flavor": {
+      "pl": "„Więc na pewno jesteś obcym ciałem, które nie powinno istnieć w tym systemie. W takim razie... najwyższy czas zajrzeć w instrukcję. W przepisach i zasadach nie ma niczego, czego by nie uwzględniono.”",
+      "kr_sha256": "6404a02e3c217e794454e2583fda3d82c3ad372bc43112a72fadb3ebad965214",
+      "en_sha256": "3d8741ba83b99bfffe4547991d4f1fc98e1b20954738f094987c0a3411c138aa",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionThirdPhase].name": {
+      "pl": "〜",
+      "kr_sha256": "861b60d11baa294bd9c004577cb33cf03445162643cb093c6a21ffb84d85725a",
+      "en_sha256": "861b60d11baa294bd9c004577cb33cf03445162643cb093c6a21ffb84d85725a",
+      "origin": "ai"
+    },
+    "dataList[id=ConfessionThirdPhase].summary": {
+      "pl": "Zbiorcza nazwa Gwóździ nakładanych przez Kapłana",
+      "kr_sha256": "a7f51e7a9cb22fcbc841b45eb00225d49e2634354d9f7a2cd3dc041234a47fe8",
+      "en_sha256": "faad34d158e366d3a81f88c3c0ba0df0cad5be76b95bdfc3b2453b510e534bec",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectionError_LowMorale].desc": {
+      "pl": "- Niskie Morale\n- Otrzymuje obrażenia +12,5%\n- Min. i Maks. Szybkość -1\n- Umiejętności zużywające Zachowanie zadają obrażenia -15%",
+      "kr_sha256": "2a3d3ffdb341801296516248473fa2e6fd90998591dc69e5060d5b4862e86547",
+      "en_sha256": "27ddcd581f51e01c9e5ad5d5a0fd32f262524e2f9fb82bb4d285be7074f41dd5",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectionError_LowMorale].name": {
+      "pl": "Błąd Synchronizacji",
+      "kr_sha256": "6fa482c2113e1f96aed575b98f5dfc4bc20cdd4fc6c00e8825dc2123ff1f7339",
+      "en_sha256": "0cfdb0c8e363449c2b4919eeb2a9a7ae4589be4ceccaa89d8cc3feba4b657a1c",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectionError_LowMorale].summary": {
+      "pl": "Traci Min. i Maks. Szybkość, otrzymuje więcej obrażeń\nUmiejętności zużywające Zachowanie zadają mniej obrażeń",
+      "kr_sha256": "e746f49d102ea1a8642dfdcdd4392d5503198e23e725a1b1e51298093fed450b",
+      "en_sha256": "c5be3cda4642b8181c59d300876643cc71068e0c6f1b0e9aeea957725c10114a",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectionError_Panic].desc": {
+      "pl": "- Panika\n- Otrzymuje obrażenia +20%\n- Min. i Maks. Szybkość -2\n- Umiejętności zużywające Zachowanie zadają obrażenia -25%",
+      "kr_sha256": "c82a33485d111bc8282694185dc94f9909d5f54a1d7854907634d83de28c2e90",
+      "en_sha256": "e0904f0ddd41d66b8dc1674cfe9a484498540c38074b97f9294e078fbff191ca",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectionError_Panic].name": {
+      "pl": "Błąd Synchronizacji",
+      "kr_sha256": "6fa482c2113e1f96aed575b98f5dfc4bc20cdd4fc6c00e8825dc2123ff1f7339",
+      "en_sha256": "0cfdb0c8e363449c2b4919eeb2a9a7ae4589be4ceccaa89d8cc3feba4b657a1c",
+      "origin": "ai"
+    },
+    "dataList[id=ConnectionError_Panic].summary": {
+      "pl": "Traci Min. i Maks. Szybkość, otrzymuje więcej obrażeń\nUmiejętności zużywające Zachowanie zadają mniej obrażeń",
+      "kr_sha256": "e746f49d102ea1a8642dfdcdd4392d5503198e23e725a1b1e51298093fed450b",
+      "en_sha256": "c5be3cda4642b8181c59d300876643cc71068e0c6f1b0e9aeea957725c10114a",
+      "origin": "ai"
+    },
+    "dataList[id=Dominion].desc": {
+      "pl": "- Maks. ładunków: 25\n- Zadaje obrażenia +(ładunki)% (maks. 25%)\n- Otrzymuje obrażenia -(ładunki)% (maks. 25%)",
+      "kr_sha256": "3a5dd08351c8c7a12f1a327c028cf95fa1ad8c207af0eed183312d485ca403a4",
+      "en_sha256": "e4e3a814e1d34b58530f4fcf3b5ad1f25a5cd6d5bd28fa748d28604f84526da6",
+      "origin": "ai"
+    },
+    "dataList[id=Dominion].flavor": {
+      "pl": "„Bo żeś z innego Dystryktu? Nie pojmuję, czemu nikt tego nie docenia. Jeżeli Wieża Sisyphe runie, to ci tamci Malleus Maleficarum czy jak ich tam... Aaaah.”\n\n„Obcy to obcy. Nie obchodzi ich ani los N Corp., ani to, co się dzieje ze światem. Ufff... przestań, przestań. Zobaczymy, jak daleko zajdziesz.”",
+      "kr_sha256": "bcd9d4e0c8978200c324231273086eaa569956ee6ae59e04008df5f756305617",
+      "en_sha256": "21294c81d80ed1f6432bf0c72d5e4f80d818b298f2b0f2b0f77155c2dafdc0b3",
+      "origin": "ai"
+    },
+    "dataList[id=Dominion].name": {
+      "pl": "Zachowanie Systemu Sisyphe",
+      "kr_sha256": "01c922fbb07a02ee88c2ade9777d9393549159fe493ffaebcfc7eaf40c8397e8",
+      "en_sha256": "f062a0fcff2841938491cfb553f6084192d38f17182b53c2d1a17defc165828b",
+      "origin": "ai"
+    },
+    "dataList[id=Dominion].summary": {
+      "pl": "Zadaje więcej obrażeń i otrzymuje mniej",
+      "kr_sha256": "b331d04eaa6adcacd19fdbe86d3e1115b1461d889f7f56446a007a5aaaec1a4c",
+      "en_sha256": "45383fc7e81899d0b9423f3987554a767a15c082ece1ce17cdfef028c506b640",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceSecondPhase].desc": {
+      "pl": "- Maks. ładunków: 100\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każde 20 ładunków (maks. 4)\n- Gdy przez Umiejętności tej jednostki zużyty albo zdobyty zostaje Licznik Zachowania, zyskuje ładunki w tej liczbie (maks. 40 na turę, łącznie z liczbą ponad Maks. licznika Zachowania)\n- Na koniec tury zyskuje 10 ładunków\n- Przy 100 ładunkach w następnej turze zamienia się w „Wszechmoc Czarnego Boga”",
+      "kr_sha256": "2038ce4beda4b1c0dab170d0e7b7367965aa7dd733ba2aead76e44a5ce9134e2",
+      "en_sha256": "4cf1f04c29a4f006e4a229eb261e12fcff25df8f057a2dcd1be28dd5a49290e5",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceSecondPhase].flavor": {
+      "pl": "Głos, który głosi Regułę Zachowania.\nPowrotu do barbarzyństwa nie może być.",
+      "kr_sha256": "dce7a91ad4ef37404791485e7d3062a3a5fb6a63849d2027374558c1888cd442",
+      "en_sha256": "2c5839d99bfca408d645e8338695430b0b02282aff8df14e29466a1fb898183d",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceSecondPhase].name": {
+      "pl": "Głos Czarnego Boga",
+      "kr_sha256": "9d476f0a75209d68eff13ffb432af35b9079a5bbe4806de8385f1877dbd6d552",
+      "en_sha256": "d2750727386dd35d9305eafe5bd07d63262e7953814d6c842ebd2658a59084cc",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceSecondPhase].summary": {
+      "pl": "Poziom Ataku rośnie zależnie od ładunków\nPrzy Maks. ładunków zamienia się w „Wszechmoc Czarnego Boga”",
+      "kr_sha256": "8605429c28d4f926720b1c5a7c8cfcdddc62ab400afc3f05ce90f5697327ed15",
+      "en_sha256": "30b3afef8cf744c7415d068b5097876344f9c4eb5751803ca7f60fea3692daee",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceThirdPhase].desc": {
+      "pl": "- Maks. ładunków: 100\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku za każde 20 ładunków (maks. 4)\n- Gdy przez Umiejętności tej jednostki zużyty albo zdobyty zostaje Licznik Zachowania, zyskuje ładunki w tej liczbie (maks. 40 na turę, łącznie z liczbą ponad Maks. licznika Zachowania)\n- Na koniec tury zyskuje 10 ładunków\n- Przy 100 ładunkach w następnej turze zamienia się w „Wszechmoc Czarnego Boga”",
+      "kr_sha256": "2038ce4beda4b1c0dab170d0e7b7367965aa7dd733ba2aead76e44a5ce9134e2",
+      "en_sha256": "4cf1f04c29a4f006e4a229eb261e12fcff25df8f057a2dcd1be28dd5a49290e5",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceThirdPhase].flavor": {
+      "pl": "Głos, który głosi Regułę Zachowania.\nPowrotu do barbarzyństwa nie może być.",
+      "kr_sha256": "dce7a91ad4ef37404791485e7d3062a3a5fb6a63849d2027374558c1888cd442",
+      "en_sha256": "2c5839d99bfca408d645e8338695430b0b02282aff8df14e29466a1fb898183d",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceThirdPhase].name": {
+      "pl": "Głos Czarnego Boga",
+      "kr_sha256": "9d476f0a75209d68eff13ffb432af35b9079a5bbe4806de8385f1877dbd6d552",
+      "en_sha256": "d2750727386dd35d9305eafe5bd07d63262e7953814d6c842ebd2658a59084cc",
+      "origin": "ai"
+    },
+    "dataList[id=EncompassingVoiceThirdPhase].summary": {
+      "pl": "Poziom Ataku rośnie zależnie od ładunków\nPrzy Maks. ładunków zamienia się w „Wszechmoc Czarnego Boga”",
+      "kr_sha256": "8605429c28d4f926720b1c5a7c8cfcdddc62ab400afc3f05ce90f5697327ed15",
+      "en_sha256": "30b3afef8cf744c7415d068b5097876344f9c4eb5751803ca7f60fea3692daee",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailSecondPhase].desc": {
+      "pl": "- Maks. ładunków: 9\n- Gdy ten efekt zostaje wywołany przez „Sąd...! Wyrok...! Potępienie...!”, <color=#ff6000><mark=#ff000040><b><u>otrzymuje obrażenia stałe równe (ładunki x 5)% Maks. HP</u></b></mark></color> (min. 10)\n· Na początku walki, jeżeli wyposażono Umiejętności obrony, otrzymywane obrażenia maleją o połowę i ten efekt nie pozbawia życia ani nie oszołamia",
+      "kr_sha256": "d7443b00187cb1b8afd702d26df0dd3ccec5f96728280b63bc9ca2d5fda7d48c",
+      "en_sha256": "d748eee79c9caa1b93fb8c485c6a53d5ac39536d9f333734a101974dec5c4e46",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailSecondPhase].flavor": {
+      "pl": "Jest gwoździem, a nie gwoździem — młotem, który ogłasza sąd.",
+      "kr_sha256": "22df47b76bb9012602b9c8d4a69b1250ca6f37088505d1fe0e0f91b03d81aef2",
+      "en_sha256": "b4de63d9b06cb841965f48648040fba937a5a543a0f478eb419dc6f0de18d74f",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailSecondPhase].name": {
+      "pl": "Młotogwóźdź [Sąd]",
+      "kr_sha256": "e683e7b15d58a7afa89c8cf3b11137b190cc2a8e3d8e1530d56bf5e1547d55cc",
+      "en_sha256": "d5bb9bacfe25ba4338baf6f938686c3a923771a5a1959aba1a243f35949a32dd",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailSecondPhase].summary": {
+      "pl": "Po wywołaniu otrzymuje obrażenia stałe\nZ wyposażonymi Umiejętnościami obrony otrzymuje połowę obrażeń i nie ginie",
+      "kr_sha256": "c5b971ce1db6912b30c060e4634cd7d6bb3f742a86316f1898d7530947acff5d",
+      "en_sha256": "9bead8da6bb93d345b207207a0376e0ce5f6e5bd130a22fd5e7ee7a150ec2d68",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailThirdPhase].desc": {
+      "pl": "- Maks. ładunków: 9\n- Gdy ten efekt zostaje wywołany przez „Czy naprawdę próbujesz zepsuć System Sisyphe?”, <color=#ff6000><mark=#ff000040><b><u>otrzymuje obrażenia stałe równe (ładunki x 10)% Maks. HP</u></b></mark></color> (min. 10)\n· Na początku walki, jeżeli wyposażono Umiejętności obrony, otrzymywane obrażenia maleją o połowę i ten efekt nie pozbawia życia ani nie oszołamia",
+      "kr_sha256": "3ead0e39ab0421814b64809108ff6210666da4f298c8ce8040c69aaac7b69634",
+      "en_sha256": "0d0a128aa3251b794ce15dd8998424f42de8101c3e54c6126f7f5ff5e2732f6e",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailThirdPhase].flavor": {
+      "pl": "„W instrukcji administratora pisali to wprost. Kiedy ta komenda przybija cię w systemie, nie zrobisz już niczego.”",
+      "kr_sha256": "b17cf4bc502cc37c523144d69f0b8b7994a82929e17a319ab81f17d904d9445e",
+      "en_sha256": "49a556a76ff5c87b3f417db42068e68e52a30085f23903a0ef146873e34ea00d",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailThirdPhase].name": {
+      "pl": "Gwóźdź [Breakpoint]",
+      "kr_sha256": "a36b3ab82e655fc21ca7a22fb9a71b3173888b5de9472513f24c06a2fcb88c29",
+      "en_sha256": "a7ca2493c0a7951628f7a1f1ecf98adbdb2095c79aeecc5cc381f1abb51eaa9f",
+      "origin": "ai"
+    },
+    "dataList[id=ExecutionNailThirdPhase].summary": {
+      "pl": "Po wywołaniu otrzymuje obrażenia stałe\nZ wyposażonymi Umiejętnościami obrony otrzymuje połowę obrażeń i nie ginie",
+      "kr_sha256": "c5b971ce1db6912b30c060e4634cd7d6bb3f742a86316f1898d7530947acff5d",
+      "en_sha256": "9bead8da6bb93d345b207207a0376e0ce5f6e5bd130a22fd5e7ee7a150ec2d68",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderFirstPhase].desc": {
+      "pl": "- Na początku tury losowy Grzesznik zyskuje ten efekt\n- Moc Końcowa +1, zadaje obrażenia +15%\n- Na koniec tury znika",
+      "kr_sha256": "e5303410f6e13fa106b426224562844eafb4b4c6e7436e99403b26e836fb0971",
+      "en_sha256": "183a05471823662c0cd469ba8ddc0221af791b720458faad3696aa0cf036fe76",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderFirstPhase].flavor": {
+      "pl": "Władza śmierci. Popęd Zachowania i Bezruchu.",
+      "kr_sha256": "5a17c83693d1f4bb1773c23fd38a9f8d3d5995ae2974288cd74841172e9241f6",
+      "en_sha256": "23686e26f0102fb3c8b59519282b51766e034fb4edb6bc1bcd85d78e1e3453cd",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderFirstPhase].name": {
+      "pl": "Bezruch",
+      "kr_sha256": "7a39039ca2ca3a324765ceafc87cdc087aba05c3724c48a07e90b47ea094512c",
+      "en_sha256": "88939fa793a3e79692da14bb58d45ae01993bc394d1fccca1c97efe017cbec96",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderFirstPhase].summary": {
+      "pl": "Moc Końcowa rośnie, zadaje więcej obrażeń",
+      "kr_sha256": "5ed27fb05cad74f79b43ee4e783e4aca9852eabc556003b341505f612a442e0b",
+      "en_sha256": "010c113b05dd6d28cceb823abf097908f9be6b2c96fe846657e516aa8f2126a6",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderSecondPhase].desc": {
+      "pl": "- Na początku tury losowy Grzesznik zyskuje ten efekt\n- Moc Końcowa +2, zadaje obrażenia +25%\n- Na koniec tury znika",
+      "kr_sha256": "f837452f1662d2b290e7fd94dfff90721b4d488bab66a209780acf4235268c05",
+      "en_sha256": "a1b738e6eb0ba14c019366b1b42099ab2bebfa77eb2d28b404c2f05969b2b12e",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderSecondPhase].flavor": {
+      "pl": "Władza śmierci. Popęd Zachowania i Bezruchu.",
+      "kr_sha256": "5a17c83693d1f4bb1773c23fd38a9f8d3d5995ae2974288cd74841172e9241f6",
+      "en_sha256": "23686e26f0102fb3c8b59519282b51766e034fb4edb6bc1bcd85d78e1e3453cd",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderSecondPhase].name": {
+      "pl": "Bezruch",
+      "kr_sha256": "7a39039ca2ca3a324765ceafc87cdc087aba05c3724c48a07e90b47ea094512c",
+      "en_sha256": "88939fa793a3e79692da14bb58d45ae01993bc394d1fccca1c97efe017cbec96",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderSecondPhase].summary": {
+      "pl": "Moc Końcowa rośnie, zadaje więcej obrażeń",
+      "kr_sha256": "5ed27fb05cad74f79b43ee4e783e4aca9852eabc556003b341505f612a442e0b",
+      "en_sha256": "010c113b05dd6d28cceb823abf097908f9be6b2c96fe846657e516aa8f2126a6",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderThirdPhase].desc": {
+      "pl": "- Na początku tury losowy Grzesznik zyskuje ten efekt\n- Moc Końcowa +2, zadaje obrażenia +25%\n- Przy trafieniu nakłada 1 Spadku Poziomu Obrony (maks. 9)\n- Na koniec tury znika",
+      "kr_sha256": "3a9085e5aae0d77de7dea229ffded00eeb5360de7c87f3c82dd4dfa135e4f4b9",
+      "en_sha256": "f87ead55212716bcb17d252707584265581a2729e31990e3175c80e40d8a8e13",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderThirdPhase].flavor": {
+      "pl": "Władza śmierci. Popęd Zachowania i Bezruchu.",
+      "kr_sha256": "5a17c83693d1f4bb1773c23fd38a9f8d3d5995ae2974288cd74841172e9241f6",
+      "en_sha256": "23686e26f0102fb3c8b59519282b51766e034fb4edb6bc1bcd85d78e1e3453cd",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderThirdPhase].name": {
+      "pl": "Bezruch",
+      "kr_sha256": "7a39039ca2ca3a324765ceafc87cdc087aba05c3724c48a07e90b47ea094512c",
+      "en_sha256": "88939fa793a3e79692da14bb58d45ae01993bc394d1fccca1c97efe017cbec96",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenFabricWarderThirdPhase].summary": {
+      "pl": "Moc Końcowa rośnie, zadaje więcej obrażeń\nPrzy trafieniu nakłada Spadek Poziomu Obrony",
+      "kr_sha256": "84cae5e984b7871893b24ec8f0e7cc84eec27bbf17ca570f665de51542c3caa8",
+      "en_sha256": "a3d983e0890891bf4f8d09a5db32accc62b9669a49243d81a673f6f326bcd427",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderFirstPhase].desc": {
+      "pl": "- Na początku tury losowy Grzesznik zyskuje ten efekt\n- Moc Starcia +1, otrzymuje obrażenia -25%\n- Na koniec tury znika",
+      "kr_sha256": "dd9c16e42da08c029cf7c8f4bc74d1b1e7e380fe630646ece11de37a5768741f",
+      "en_sha256": "e24559faac33bb63a0cea991fa5eae002c80e3ca3e781d1bb6b6338f0c149e0f",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderFirstPhase].flavor": {
+      "pl": "Władza życia. Wola zmiany i narodzin.",
+      "kr_sha256": "18a60eb5dbfd03436c73d3c939e52f0620fe401c11fb89008cec08202db2907a",
+      "en_sha256": "561f864e056a69c8794e63b5aa3850c64a0526da2a3d61217f8aaf064475df7a",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderFirstPhase].name": {
+      "pl": "Tętnienie",
+      "kr_sha256": "82c08590e8882605e31cc176b4487f04b8175d609e0a476eedb93db189778d33",
+      "en_sha256": "614137b4953cfd67d27c7b87c8690234dd04b9a979186d267c69edeaf42f4161",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderFirstPhase].summary": {
+      "pl": "Moc Starcia rośnie, otrzymuje mniej obrażeń",
+      "kr_sha256": "12aefa8b9fc3e56984a28e29bece76d4063d478ef3f52fdf93f910c612f652bf",
+      "en_sha256": "0d0dae68437e6838a3ff26670a3afaa404b541ecf1a84e1d9c4ce5370d9a5121",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderSecondPhase].desc": {
+      "pl": "- Na początku tury losowy Grzesznik zyskuje ten efekt\n- Jeżeli Grzesznik posiadający ten efekt <color=#ff6000><mark=#ff000040><b><u>wygrywa Starcie</u></b></mark></color> z Umiejętnością Strażnika <color=#ff6000><mark=#ff000040><b><u>„Śmierć Skazanym”</u></b></mark></color>, zyskuje <color=#ff6000><mark=#ff000040><b><u>Tarczę równą 250% Maks. HP Grzesznika</u></b></mark></color> (po zakończeniu ataku „Śmierć Skazanym” Strażnika odejmuje z Tarczy Grzesznika tyle, ile wynosiła Tarcza z tego efektu)\n- Moc Starcia +2, otrzymuje obrażenia -25%\n- Na koniec tury znika",
+      "kr_sha256": "9d6a6963a9f7c2c53b24779cf19ff06e16b24cf8df63893c0ea386b4683ac4b1",
+      "en_sha256": "275513f17066c8fb3c540b39b496d03bf9382e74119f97881d536eb301487515",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderSecondPhase].flavor": {
+      "pl": "Władza życia. Wola zmiany i narodzin.",
+      "kr_sha256": "18a60eb5dbfd03436c73d3c939e52f0620fe401c11fb89008cec08202db2907a",
+      "en_sha256": "561f864e056a69c8794e63b5aa3850c64a0526da2a3d61217f8aaf064475df7a",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderSecondPhase].name": {
+      "pl": "Tętnienie",
+      "kr_sha256": "82c08590e8882605e31cc176b4487f04b8175d609e0a476eedb93db189778d33",
+      "en_sha256": "614137b4953cfd67d27c7b87c8690234dd04b9a979186d267c69edeaf42f4161",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderSecondPhase].summary": {
+      "pl": "Moc Starcia rośnie, otrzymuje mniej obrażeń\nPo wygranym Starciu z Umiejętnością „Śmierć Skazanym” zyskuje Tarczę",
+      "kr_sha256": "74860de8d58d3b871bac5d1ce73830af02c61a4195c3464949f87510233182d6",
+      "en_sha256": "853d7745466fc8b9ec8918ca8710ab0e7f2da65907ef2b2d4d19a12b99ea9ff3",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderThirdPhase].desc": {
+      "pl": "- Na początku tury losowy Grzesznik zyskuje ten efekt\n- Jeżeli Grzesznik posiadający ten efekt <color=#ff6000><mark=#ff000040><b><u>wygrywa Starcie</u></b></mark></color> z Umiejętnością Kapłana <color=#ff6000><mark=#ff000040><b><u>„Przymusowe Wygnanie”</u></b></mark></color>, zyskuje <color=#ff6000><mark=#ff000040><b><u>Tarczę równą 250% Maks. HP Grzesznika</u></b></mark></color> (po zakończeniu ataku „Przymusowe Wygnanie” Kapłana odejmuje z Tarczy Grzesznika tyle, ile wynosiła Tarcza z tego efektu)\n- Moc Starcia +3, otrzymuje obrażenia -50%\n- Przy trafieniu nakłada 1 Spadku Poziomu Ataku (maks. 9)\n- Na koniec tury znika",
+      "kr_sha256": "f8801056cef21f489f8a109c7a0a6ca2152d07c2484b48eacea422b6d5c6e80c",
+      "en_sha256": "8e67c102b1d326fdf735f1cfe1ba10acf0105d14d9bce8a1f1bb206d92c117a7",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderThirdPhase].flavor": {
+      "pl": "Władza życia. Wola zmiany i narodzin.",
+      "kr_sha256": "18a60eb5dbfd03436c73d3c939e52f0620fe401c11fb89008cec08202db2907a",
+      "en_sha256": "561f864e056a69c8794e63b5aa3850c64a0526da2a3d61217f8aaf064475df7a",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderThirdPhase].name": {
+      "pl": "Tętnienie",
+      "kr_sha256": "82c08590e8882605e31cc176b4487f04b8175d609e0a476eedb93db189778d33",
+      "en_sha256": "614137b4953cfd67d27c7b87c8690234dd04b9a979186d267c69edeaf42f4161",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenHideWarderThirdPhase].summary": {
+      "pl": "Moc Starcia rośnie, otrzymuje mniej obrażeń\nPo wygranym Starciu z Umiejętnością „Przymusowe Wygnanie” zyskuje Tarczę",
+      "kr_sha256": "38bb89aa218112393faf148e2a03c57417a014910269b32867e21fc3d98583dc",
+      "en_sha256": "666251a136ed230d4e0bd75d19db92849db0c09bbc4748a50bdd45607c981751",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenNail].desc": {
+      "pl": "- Maks. ładunków: 9\n- Na początku walki przy <color=#ff6000><mark=#ff000040><b><u>9 ładunkach</u></b></mark></color> Grzesznik posiadający ten efekt w tej turze <color=#ff6000><mark=#ff000040><b><u>otrzymuje przy trafieniu atakiem w Kapłana obrażenia HP stałe równe 2% Maks. HP</u></b></mark></color> (ten efekt nie oszołamia)\n- Gdy ten efekt zostaje wywołany przez „Czy naprawdę próbujesz zepsuć System Sisyphe?”, zyskuje Zatonięcie równe liczbie ładunków i podnosi Próg Oszołomienia o (ładunki x 2)",
+      "kr_sha256": "587a844df3e87a11780c8fbed167ea5fafea7e79d98a581ba78ce5c322f6b4dc",
+      "en_sha256": "976713e34b14725431ae48f3a9ece595a655c01815947c1bf5dc46bf5301264c",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenNail].flavor": {
+      "pl": "„Zobaczmy, instrukcja dla tego gwoźdźia... 'Czujesz, jak grzechy wpełzają ci po plecach...' Mmm, nie, to nie to.”\n\n„Powinna być w czterdziestym drugim szufladzie... wkładałem tam... o, proszę! 'Instrukcja konsoli dla administratora Systemu Sisyphe odpowiadającego za Le Noir'.”",
+      "kr_sha256": "a47c1e152810a677decf76b9d862066b1c24fe2d61185677d910cfb796dd66cf",
+      "en_sha256": "dfae3e0dafeac9592b50d8adb2c5aed478e8c03b31b6480d1511deb34d678c65",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenNail].name": {
+      "pl": "Gwóźdź [Console]",
+      "kr_sha256": "a5f77b2af961e56e5c5cfd3b6dcd74d9d958356d7631ccd0ab558fedca5ef0bb",
+      "en_sha256": "fefe4ecdc31c22711b4f511dd683347f219c67b9b5c4416fab4777ac59066ef4",
+      "origin": "ai"
+    },
+    "dataList[id=GoldenNail].summary": {
+      "pl": "Po wywołaniu zyskuje Zatonięcie i podnosi Próg Oszołomienia\nPrzy Maks. ładunków otrzymuje obrażenia stałe przy trafieniu",
+      "kr_sha256": "fd50c2eb4e79c75710634a7afc22e1020159d97b41baf39bf63cafb0a25d288a",
+      "en_sha256": "b2065a8fcad9810693b64332635cd76f733ee516b09dc208f03bc1f2197f8c53",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneDesign].desc": {
+      "pl": "- Maks. ładunków: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Szanse na Awers Monet zamrożone na 95%</u></b></mark></color>\n- Przy 2 ładunkach Moc Starcia celów, którzy prowadzą z nim Starcie, wynosi <color=#ff6000><mark color=#ff000040><b><u>-2</u></b></mark></color>\n- Przy 3 ładunkach zużywa je wszystkie, a w następnej turze zyskuje <color=#ff6000><mark color=#ff000040><b><u>Engagement</u></b></mark></color>\n- Na koniec tury traci 1 ładunek (w turze zdobycia tego efektu nie traci)\n- Jeżeli jednostka posiada Engagement, nie może zdobyć tego efektu",
+      "kr_sha256": "a4728213360fd38b6460cd7a1a8c8052562d63376ca2cd4083f0d3a0068b3aca",
+      "en_sha256": "ec24212cf9fed1f6e6dfb6e2ed644ed5686a0ff8898777d6acbc4630983a1c67",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneDesign].flavor": {
+      "pl": "Egzystencja poprzedza esencję.",
+      "kr_sha256": "9b9b1cdb481db66a672fd843062dc5c3e0ebf028c16ad9b829e0e711fb3a1227",
+      "en_sha256": "3be00de0670c9fff06610e9ab9a9882965c190b29cc9cd879347675dd01471fc",
+      "origin": "ai"
+    },
+    "dataList[id=JeanneDesign].name": {
+      "pl": "Przybity",
+      "kr_sha256": "63e99f216231ea771d1e9299f5f5467b1c60d9f878c8ebedf1224b2fe4e3c4bf",
+      "en_sha256": "876c4d86ad9eb7eb595039f3b7a1755a424c3cc0cb36fe871526ed423d27dc7a",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceSecondPhase].desc": {
+      "pl": "- Maks. ładunków: 5\n- Poziom Ataku +1 i Poziom Obrony +2 za każdy ładunek\n- Przy 3 lub więcej ładunkach Umiejętności nakładają o 1 więcej „Gwóźdź [Kara]” i „Gwóźdź [Pokuta]”",
+      "kr_sha256": "d2d0bb61cc907983fb6bcaba9f061ef33a1d76309878e79994a221e2896d9585",
+      "en_sha256": "e4b02982b0ef0a3df520041a642744cd0e7864c9b6b22249fb73ff1b11499d57",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceSecondPhase].flavor": {
+      "pl": "Strażnik stawia się przed tymi, którzy nie działają według woli systemu. Bo tak działa system.",
+      "kr_sha256": "36229b6a50acdab961d429ebda3b739cf2c5c17daa32b644d2bcfd2a1c6db0fc",
+      "en_sha256": "77898dc640864114244b5aea67d7f4637778b3f07d36b02284fbe6c275919459",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceSecondPhase].name": {
+      "pl": "Strażnik Wyroku Sisyphe",
+      "kr_sha256": "928434bed986c1db2bb8dfb45009bc0ad0fb0d12ce1c426707947cdcd4bb5d06",
+      "en_sha256": "472d6d563e445f4698cd505ec5530d7ac2526d685600b71ae676f43db4cfd2ce",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceSecondPhase].summary": {
+      "pl": "Poziom Ataku i Poziom Obrony rosną zależnie od ładunków\nPrzy 3 lub więcej ładunkach nakłada więcej „Gwóźdź [Kara]” i „Gwóźdź [Pokuta]”",
+      "kr_sha256": "9be50df9e8caa21ee94a9921af7642c35b7d4d4e9cf1fc7dbaf1a3efe55700e2",
+      "en_sha256": "8ae55bfc8800108e5188e6d41c2ac739eecd44ed430cceac87032f7aaf061cb2",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceThirdPhase].desc": {
+      "pl": "- Maks. ładunków: 5\n- Poziom Ataku +2 i Poziom Obrony +3 za każdy ładunek\n- Przy 3 lub więcej ładunkach Umiejętności nakładają o 1 więcej „Gwóźdź [Console]”",
+      "kr_sha256": "b7427f8422933e27538c04bd7fb8b96ec2a171880f68c73319589670e33a6907",
+      "en_sha256": "4adfedfb63985f15862912d3d87db842e807fd247a694718f90215cd0410fa8f",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceThirdPhase].flavor": {
+      "pl": "Kapłan stawia się przed tymi, którzy nie działają według woli systemu. Bo tak działa system.",
+      "kr_sha256": "e55b4ccd4355117de5857474d464a43f2fc47d516c866b2ac34e8e185a5d36db",
+      "en_sha256": "2865356f3f8f06511d34e33a018e7e7ac4e5a5124026110f46e236ce1073ed07",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceThirdPhase].name": {
+      "pl": "Kapłan Wyroku Sisyphe",
+      "kr_sha256": "89c5e1c5f0395fbd115b58e8cd3be0b26bbc9fe57d4b8b84b53def7c97d60fc3",
+      "en_sha256": "1c9ef39a832c57a3e3a64feb73733a3372d284df8a25f37abbd4231b8d22b729",
+      "origin": "ai"
+    },
+    "dataList[id=LeaderVoiceThirdPhase].summary": {
+      "pl": "Poziom Ataku i Poziom Obrony rosną zależnie od ładunków\nPrzy 3 lub więcej ładunkach nakłada więcej „Gwóźdź [Console]”",
+      "kr_sha256": "21a04d9d209a5dbb462fb5f1e777bd7c680a1c0ee3f05fb9767cd3a95c90679a",
+      "en_sha256": "70a3e7f76634cf8f0c5630d18748630522182aae646e0ffc1da5185dc40bba4c",
+      "origin": "ai"
+    },
+    "dataList[id=MarkingNail].desc": {
+      "pl": "- Maks. ładunków: 9\n- Gdy ten efekt zostaje wywołany przez „Sąd...! Wyrok...! Potępienie...!”, podnosi Próg Oszołomienia o (ładunki x 2)",
+      "kr_sha256": "f75ea2448d401aa49418ef4a4207582d9eb74f344fbbc84fd5c0a76e8e85d2d5",
+      "en_sha256": "98b6c9f2383e2f0c653c8551c893efadbc25ddfaf87220a047379760a9ae5fd7",
+      "origin": "ai"
+    },
+    "dataList[id=MarkingNail].flavor": {
+      "pl": "To gwóźdź wbity w serca tych, którzy nie pokutowali.",
+      "kr_sha256": "7c56687750ecd9530a9251e801e97542d4dcd149eda33900a052a045ccc533a1",
+      "en_sha256": "d4ce054372766d51ae5d3593609afb85a31160b04f70fccf765a44c4374f5468",
+      "origin": "ai"
+    },
+    "dataList[id=MarkingNail].name": {
+      "pl": "Gwóźdź [Pokuta]",
+      "kr_sha256": "854ba72bc4e0e3348b104e307949fadc49fb09e915ea2ee93f673d9acce31ed3",
+      "en_sha256": "ed0bb84544b085fe8eef83e9a7886a77721ca426778446e85e78f819db182593",
+      "origin": "ai"
+    },
+    "dataList[id=MarkingNail].summary": {
+      "pl": "Po wywołaniu podnosi Próg Oszołomienia",
+      "kr_sha256": "99da12bfa2d93db8a370b27fb9baaca773f8786dfcc38cf1c2eea159d847a85f",
+      "en_sha256": "1eaa3135063c86dc388d7dcd4c6a85c651a04ece6bf7aab8715e5ef2460092ef",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderFirstPhase].desc": {
+      "pl": "- Jeżeli w tej walce przeżywa co najmniej 1 inny sojusznik, HP Meursaulta nie spada poniżej 1\n- Podczas Starcia ze Strażnikiem:\n· Moc Starcia +1\n· Zadaje obrażenia +(procent utraconego HP na sobie / 2)% (maks. 20%)\n· Po wygranym Starciu zyskuje w sumie 2 Zasoby E.G.O — po 1 Zasobie losowego Grzechu spośród najmniej posiadanych\n- Przy otrzymaniu obrażeń, które oszołomiłyby go, nie zostaje oszołomiony i usuwa dany Próg Oszołomienia; następnie w następnej turze zyskuje 1 Wzrost Mocy Ataku (bez limitu na walkę)\n- Nie może się wycofać",
+      "kr_sha256": "16996a9e8d14e8838470603dd821923b003d450976d006f6d583f1d6aec05d1f",
+      "en_sha256": "1e3eec8705ee9e95647f0d89b65bc7ddecbb105e80ba1449906c73526f2e8060",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderFirstPhase].flavor": {
+      "pl": "Czy i w Grand Magasin, i w Mieście byłem Obcym — obcym ciałem?",
+      "kr_sha256": "6eddc5a3ddce5081ad06d9d6da5881881cfbaae794ff55123fc1b8e60ee2d621",
+      "en_sha256": "b49987df64ae52a6beab01604098a3f4f9f4890f6dbbc3364d0586fe252d6fee",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderFirstPhase].name": {
+      "pl": "Obcy",
+      "kr_sha256": "5b21e170a70d29f88fe3cae5e9736191d32d2db3e09c4a5a8702a774764a1177",
+      "en_sha256": "c7727eca25771eb3750af8ec9c91e5355133589a7029e54aff1393a15493a7f6",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderFirstPhase].summary": {
+      "pl": "- Podczas Starcia ze Strażnikiem Moc Starcia i obrażenia rosną\n- Nie zostaje oszołomiony; gdy żyją inni sojusznicy, nie ginie",
+      "kr_sha256": "d013611fdc8c43b9f0c5ddfce34456ba2f0b6d6eaa70684b2d0d918d0371bbc7",
+      "en_sha256": "eabe6f471a0c54ecb275775b4de778ef1a843b5429d03a660ae2ed6901de9038",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderSecondPhase].desc": {
+      "pl": "- Jeżeli w tej walce przeżywa co najmniej 1 inny sojusznik, HP Meursaulta nie spada poniżej 1\n- Min. i Maks. Szybkość +1\n- Podczas Starcia ze Strażnikiem:\n· Moc Starcia +2\n· Zadaje obrażenia +(procent utraconego HP na sobie / 2)% (maks. 40%)\n· Po wygranym Starciu zyskuje w sumie 3 Zasoby E.G.O — po 1 Zasobie losowego Grzechu spośród najmniej posiadanych\n- Przy otrzymaniu obrażeń, które oszołomiłyby go, nie zostaje oszołomiony i usuwa dany Próg Oszołomienia; następnie w następnej turze zyskuje 2 Wzrostu Mocy Ataku (bez limitu na walkę)\n- Nie może się wycofać",
+      "kr_sha256": "55d7afefe436903478204d0f039dda3000b7f9c28ea6afbc85881accd5eed9ad",
+      "en_sha256": "859d76be6348e3f49f6054e32a4d1715be535aa73637eca0551083291173353d",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderSecondPhase].flavor": {
+      "pl": "Czy i w Grand Magasin, i w Mieście byłem Obcym — obcym ciałem?",
+      "kr_sha256": "6eddc5a3ddce5081ad06d9d6da5881881cfbaae794ff55123fc1b8e60ee2d621",
+      "en_sha256": "b49987df64ae52a6beab01604098a3f4f9f4890f6dbbc3364d0586fe252d6fee",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderSecondPhase].name": {
+      "pl": "Obcy",
+      "kr_sha256": "5b21e170a70d29f88fe3cae5e9736191d32d2db3e09c4a5a8702a774764a1177",
+      "en_sha256": "c7727eca25771eb3750af8ec9c91e5355133589a7029e54aff1393a15493a7f6",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderSecondPhase].summary": {
+      "pl": "- Podczas Starcia ze Strażnikiem Moc Starcia i obrażenia rosną\n- Nie zostaje oszołomiony; gdy żyją inni sojusznicy, nie ginie",
+      "kr_sha256": "d013611fdc8c43b9f0c5ddfce34456ba2f0b6d6eaa70684b2d0d918d0371bbc7",
+      "en_sha256": "eabe6f471a0c54ecb275775b4de778ef1a843b5429d03a660ae2ed6901de9038",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderThirdPhase].desc": {
+      "pl": "- Jeżeli w tej walce przeżywa co najmniej 1 inny sojusznik, HP Meursaulta nie spada poniżej 1\n- Min. i Maks. Szybkość +3\n- Moc Końcowa +3, zadaje obrażenia +30%\n- Podczas Starcia z Kapłanem:\n· Zadaje obrażenia +(procent utraconego HP na sobie)% (maks. 90%)\n· Po wygranym Starciu odzyskuje 8 Poczytalności\n· Po wygranym Starciu zyskuje w sumie 5 Zasobów E.G.O — po 1 Zasobie losowego Grzechu spośród najmniej posiadanych\n- Przy otrzymaniu obrażeń, które oszołomiłyby go, nie zostaje oszołomiony i usuwa dany Próg Oszołomienia; następnie w następnej turze zyskuje 3 Wzrostu Mocy Ataku (bez limitu na walkę)\n- Nie może się wycofać",
+      "kr_sha256": "6c95a75a0a64482e5758e52b7c463435f5e570a506361ab91e90f23aa020aa1b",
+      "en_sha256": "bba23dc5daced7e4042bc15b9fa9a821cdbdd1ac29d3edafc9f9122f09ef8a7d",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderThirdPhase].flavor": {
+      "pl": "Czy i w Grand Magasin, i w Mieście byłem Obcym — obcym ciałem?",
+      "kr_sha256": "6eddc5a3ddce5081ad06d9d6da5881881cfbaae794ff55123fc1b8e60ee2d621",
+      "en_sha256": "b49987df64ae52a6beab01604098a3f4f9f4890f6dbbc3364d0586fe252d6fee",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderThirdPhase].name": {
+      "pl": "Obcy",
+      "kr_sha256": "5b21e170a70d29f88fe3cae5e9736191d32d2db3e09c4a5a8702a774764a1177",
+      "en_sha256": "c7727eca25771eb3750af8ec9c91e5355133589a7029e54aff1393a15493a7f6",
+      "origin": "ai"
+    },
+    "dataList[id=MeursaultBuffWarderThirdPhase].summary": {
+      "pl": "- Podczas Starcia z Kapłanem Moc Starcia i obrażenia rosną\n- Nie zostaje oszołomiony; gdy żyją inni sojusznicy, nie ginie",
+      "kr_sha256": "8257ba516b0504234b24a79b96045421b105b9a7892f762e6fa524f440c0717f",
+      "en_sha256": "92308a1cd054100a4bb6864d1989d9ebec3a540d6444f617492627d6bb79f781",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailSecondPhase].desc": {
+      "pl": "- Maks. ładunków: 9\n- Na początku tury, jeżeli jednostka posiada ten efekt, zmienia się w stan <color=#ff6000><mark=#ff000040><b><u>Oszołomienia</u></b></mark></color>\n· Po wywołaniu tego efektu znika na koniec tury\n· Jeżeli posiada Tętnienie, nie zostaje nim oszołomiony i znika na koniec tej tury",
+      "kr_sha256": "0b141a47a90354f438fcf34a76c3b907809ed5fc4a3761283edb533bbcd90f9f",
+      "en_sha256": "cca40aa95a977bf823e6024bc13defb010a01d56cd8b740de3cc29069412973e",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailSecondPhase].flavor": {
+      "pl": "Każdy gwóźdź, którego nie wydobyłeś, będzie dowodem twoich grzechów; gdy nadejdzie Dzień Sądu, każdy nie wydobyty gwóźdź wbije się jeszcze głębiej w twe ciało i duszę.",
+      "kr_sha256": "837c87495f01770bcea5f3f4df470c163191516b349525ea1a193485d28a3368",
+      "en_sha256": "b97272e914ffab6323efe0dab36c6c82bdd05df3f4e4dfa743d9b354f7aaedb6",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailSecondPhase].name": {
+      "pl": "Młotogwóźdź [Potępienie]",
+      "kr_sha256": "2bc238777f5e79d309fcc40f07b3c66bde3770bc40faf4a957f2476d82c566a3",
+      "en_sha256": "b4002f825cb11c8624062a39a5b646c852d3ab705fe5b4330311ab623c545ec7",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailSecondPhase].summary": {
+      "pl": "Na początku tury zmienia się w stan Oszołomienia\nPosiadając Tętnienie, nie zostaje oszołomiony",
+      "kr_sha256": "ef530053574c4a4f7eb20096ee39fea872e20bb4f21b221640b8942c4271d439",
+      "en_sha256": "ff6a01925aee9262c245fb755a7597214e37c9edb75814546ec0bd436459c533",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailThirdPhase].desc": {
+      "pl": "- Maks. ładunków: 9\n- Na początku tury, jeżeli jednostka posiada ten efekt, <color=#ff6000><mark=#ff000040><b><u>otrzymuje obrażenia stałe równe 50% obecnego HP</u></b></mark></color> i zmienia się w stan <color=#ff6000><mark=#ff000040><b><u>Oszołomienia</u></b></mark></color>\n· Po wywołaniu tego efektu znika na koniec tury\n· Jeżeli posiada Tętnienie, nie zostaje nim oszołomiony, otrzymywane obrażenia maleją o połowę, a efekt znika na koniec tej tury",
+      "kr_sha256": "e632cc0ee8640950fe58fca2f913810c58ee812b969490a834b4be20ef57b171",
+      "en_sha256": "3ae69a5e6766ad740dd5e9301da1b51b67b8965f7a8f58329694b37165c8ac5e",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailThirdPhase].flavor": {
+      "pl": "„Nawet wyjątki nie potrafią uchronić się przed tym gwoździem.”",
+      "kr_sha256": "3382d21e1708f5fc3d757197746e47a12ba781e894af98f5c5baf5ae93e046ef",
+      "en_sha256": "d0fbb25dd917eead4c8f891c70a2287761cb803e804d4f6ca728cb3a65bd91b0",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailThirdPhase].name": {
+      "pl": "Gwóźdź [Exception]",
+      "kr_sha256": "7db9c2654c38811e052696a852526d2dafcf007f58129a44e028c328dddd0336",
+      "en_sha256": "9e9ca4dd03b2af6aa3ee6a2463e54429280970069e0b00d105a407be529fb5f2",
+      "origin": "ai"
+    },
+    "dataList[id=RestrainingNailThirdPhase].summary": {
+      "pl": "Na początku tury otrzymuje obrażenia stałe i zmienia się w stan Oszołomienia\nPosiadając Tętnienie, nie zostaje oszołomiony i otrzymuje tylko połowę obrażeń",
+      "kr_sha256": "08add6892e211e4f46fdb1f6dce4712b4832e8a662587d379f33d30fad1253a2",
+      "en_sha256": "1e568df15196810edbf2a0fc626d7295a27aaaa8843b227d46a11e22ffadb56a",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceSecondPhase].desc": {
+      "pl": "- Maks. ładunków: 100\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Poziomu Obrony za każde 20 ładunków (każdy maks. 4)\n- Wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami\n- Przy 0 ładunkach w następnej turze zamienia się w „Głos Czarnego Boga”",
+      "kr_sha256": "c8d53fd8d32b1a2d890ce07dd6c641295b5fa2aa81e7489486418741158a9f71",
+      "en_sha256": "d42fd1f9cbf38e152c45a677670b52db10c16bbbfa364d86c5c7d53457f94b64",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceSecondPhase].flavor": {
+      "pl": "Czarny Bóg. W Systemie Sisyphe to on zawiaduje tworzeniem i czasem.",
+      "kr_sha256": "05468c4e3f4447e6c6e3b235019ef4162475adde2169b9b28cb14969591d60cf",
+      "en_sha256": "c0604a338366652f6609f0c6a3895911f190400590ad9b22630b65f80702709b",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceSecondPhase].name": {
+      "pl": "Wszechmoc Czarnego Boga",
+      "kr_sha256": "a78a7feb09eb7e34c81374c67aeb53e91c4a5e03ea2b1f59a1ffb6d06853dc0b",
+      "en_sha256": "952b5fb8d5898526c7cea51a3de37d1b7663affb0978d671ed63893f6c37bcbf",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceSecondPhase].summary": {
+      "pl": "Wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami\nPoziom Ataku i Poziom Obrony rosną zależnie od ładunków",
+      "kr_sha256": "2a052e2da055b7a5a98897b5ef987474fe2c83a54e48b7497cbd179a20eb1570",
+      "en_sha256": "3f2c286fcdd05f46a45421a183d263ca520354143e647b1a121fb0fb652a6bc5",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceThirdPhase].desc": {
+      "pl": "- Maks. ładunków: 100\n- Na początku tury zyskuje 1 Wzrost Poziomu Ataku i 1 Wzrost Poziomu Obrony za każde 20 ładunków (każdy maks. 4)\n- Wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami (z wyłączeniem Monet Wycięcia)\n- Przy 0 ładunkach w następnej turze zamienia się w „Głos Czarnego Boga”",
+      "kr_sha256": "eb6cc94188bc364a24782e4b6ff67048e212778a15419e2233a2888d8bfdf586",
+      "en_sha256": "c76e12bd9c5741c9f8d0301706b6342961ef140e2e8ca25adf1753680b6079dc",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceThirdPhase].flavor": {
+      "pl": "Czarny Bóg. W Systemie Sisyphe to on zawiaduje tworzeniem i czasem.",
+      "kr_sha256": "05468c4e3f4447e6c6e3b235019ef4162475adde2169b9b28cb14969591d60cf",
+      "en_sha256": "c0604a338366652f6609f0c6a3895911f190400590ad9b22630b65f80702709b",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceThirdPhase].name": {
+      "pl": "Wszechmoc Czarnego Boga",
+      "kr_sha256": "a78a7feb09eb7e34c81374c67aeb53e91c4a5e03ea2b1f59a1ffb6d06853dc0b",
+      "en_sha256": "952b5fb8d5898526c7cea51a3de37d1b7663affb0978d671ed63893f6c37bcbf",
+      "origin": "ai"
+    },
+    "dataList[id=SpreadingVoiceThirdPhase].summary": {
+      "pl": "Wszystkie Monety Umiejętności stają się Niezniszczalnymi Monetami (z wyłączeniem Monet Wycięcia)\nPoziom Ataku i Poziom Obrony rosną zależnie od ładunków",
+      "kr_sha256": "bb0ad3c03348582a6f526cc799764de922d136eea22c055ed95747cf6e7863c3",
+      "en_sha256": "587d3917348534b67ec4085d5223c13f0cf9fa425e15efc5b3f0fb57f3676086",
+      "origin": "ai"
+    },
+    "dataList[id=UnstableConnection].desc": {
+      "pl": "- Maks. ładunków: 2\n- Na początku tury zyskuje (ładunki x 4) Spadku Mocy Starcia oraz Wrażliwości\n- Na koniec tury odzyskuje Poczytalność ((45 - obecna) / 2) (zaokr. w dół) i traci 1 ładunek",
+      "kr_sha256": "13ffa38852bcdb9d4004d2a0479122c3546846c3c12f541379f34bc461e5c65f",
+      "en_sha256": "7a24b9181c364db22da758116612c50de5bd9de64994d3a6c51859b43904050d",
+      "origin": "ai"
+    },
+    "dataList[id=UnstableConnection].flavor": {
+      "pl": "„No ale co to ma być. Właśnie teraz połączenie…”",
+      "kr_sha256": "52fedcb6f702b18998b3c05ddb2c85f1c9113581ea3e00633068605710202969",
+      "en_sha256": "c835b83f8cec7e148b8433c337ab07b610f1f86ad906e9eddf41aadb76857668",
+      "origin": "ai"
+    },
+    "dataList[id=UnstableConnection].name": {
+      "pl": "Chwiejna Teofania",
+      "kr_sha256": "0ca852bc7f8868ba1f9b2e7d6992f8d9c94d84470bc11fa1614d0d0759c2088b",
+      "en_sha256": "6498de2a9808a0e98b19691bfed7720acc56c1e8a8dfd39898303648a4bbd577",
+      "origin": "ai"
+    },
+    "dataList[id=UnstableConnection].summary": {
+      "pl": "- Na początku tury traci Moc Starcia i zyskuje Wrażliwość\n- Na koniec tury odzyskuje Poczytalność",
+      "kr_sha256": "961247f840dc09ca3b65a71a38007e39568a15467a1e09a40f5da740ddd15939",
+      "en_sha256": "dd52344e47e262572112064c149f0032f18573e4ff2db52ecc541c1ef8462a62",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationFocusing].desc": {
+      "pl": "- Przy Wyładowaniu Wstrząsu otrzymuje obrażenia Lenistwa równe (60 + suma Siły Ładunku lub Specjalnego Ładunku atakującego x 8)% Siły Wstrząsu\ni traci 1 Licznika (maks. 120%)\n· Gdy Wyładowanie Wstrząsu wywołują Umiejętności lub umiejętności pasywne jednostek z Le Noir, ten efekt nie zmniejsza Licznika\n- Przy trafieniu Umiejętnościami wywołującymi Wyładowanie Wstrząsu podnosi Próg Oszołomienia o Siłę tego efektu\n- Na koniec tury traci 1 Licznika\n(Podlega w ten sam sposób efektom zwiększającym lub zmniejszającym Siłę i Licznik Wstrząsu)",
+      "kr_sha256": "405b8030d0b4055842953f1fa9e2aaab3822426b65b122e84586835acee13626",
+      "en_sha256": "79a0a0d8d9b013271a353f5f977de99be535a8505453201739780fbc50c64313",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationFocusing].name": {
+      "pl": "Wstrząs - Zachowanie",
+      "kr_sha256": "de71d5b5021fa81816e62a680be8ec607b251205ca1d92c9d7e25f5bf7eed68e",
+      "en_sha256": "efe31d2668631cdeb8e774c155e5da71d59253e65b3b2439caa067c60525df9c",
+      "origin": "ai"
+    },
+    "dataList[id=VibrationFocusing].summary": {
+      "pl": "Przy Wyładowaniu Wstrząsu otrzymuje obrażenia Lenistwa\nPrzy trafieniu Umiejętnościami z Wyładowaniem Wstrząsu podnosi Próg Oszołomienia",
+      "kr_sha256": "5df5760279fbafc4689085a49b7716bec0aa074a87c91220c3eaa7e9b500486f",
+      "en_sha256": "3605c18c8f3d3a5f1be520a208ea2633c0e0a50c556487247262483573f0fc3b",
+      "origin": "ai"
+    }
+  }
+}
