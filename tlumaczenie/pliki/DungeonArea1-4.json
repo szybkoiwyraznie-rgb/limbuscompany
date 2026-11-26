@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=dungeon_1_4_0101].content": {
+      "pl": "Pracownia Kręgu Dziewięciu — Wiosna",
+      "kr_sha256": "dea789dc5c1587d63b52c729237abbe489cdc25d943973f3fa3c61ae40e85747",
+      "en_sha256": "0b34921220d135a42624e91921a17d868fd3114f7ed023be6c94d8cae103e58f",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_4_0102].content": {
+      "pl": "Przebudowane Laboratorium K Corp.",
+      "kr_sha256": "31a4cfdf1f22a6bc708c730dc81fbb99bbe65a94a0a3b2048c82b735653e7f38",
+      "en_sha256": "44932b57d698f25fc60e16b63250827d531b9288e40184dd100bf1766a63c3bd",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_4_0201].content": {
+      "pl": "Pracownia Kręgu Dziewięciu — Jesień",
+      "kr_sha256": "461e42f8364be2b70b76eaa93eb320923e7a3e1b2bc63c67e542081e698ba989",
+      "en_sha256": "4c4017c2d2c180c84e1d0b3d71668674211286c629793c294516947be8567ee3",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_4_0202].content": {
+      "pl": "Pracownia Kręgu Dziewięciu — Lato",
+      "kr_sha256": "4c2ad203b014a849665d5245f60ce718b5012c60f75efce0156df2cc388f48b5",
+      "en_sha256": "9578d83b34a476dd770fc6e5e1c4cf2551163c611581b9c5392d2569e8d55c66",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_4_0301].content": {
+      "pl": "Pracownia Kręgu Dziewięciu — Zima",
+      "kr_sha256": "f59ffb78d37e44e1f8d76739149a1ab6c8ba9db083418e9efee7f64912f04adb",
+      "en_sha256": "9f449adf4c3b6a157fb1d1b592881f2d4331a99a41ff611979f0e8123a649904",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_4_0302].content": {
+      "pl": "Biały Pokój N Corp.",
+      "kr_sha256": "adb67d78e46f4282a8f1baf24c10ad092c448edff6c481e05951bec4f6d85232",
+      "en_sha256": "64b3993516424af8776452aaec02760ddb97b28e8a93a8a80ac04f64c45e2a1b",
+      "origin": "ai"
+    }
+  }
+}

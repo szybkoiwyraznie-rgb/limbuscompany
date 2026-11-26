@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=AbnormalityLevel].content": {
+      "pl": "Poziomy Ryzyka",
+      "kr_sha256": "eaed33120b6ced473686391822591533c26e9d4afc5a650941a2a24ea7d4a90f",
+      "en_sha256": "a4fcf45d1ee51b143129e4f340c12372b03221b1c47b1eee029d525c8a2bbacd",
+      "origin": "ai"
+    },
+    "dataList[id=BattlePower].content": {
+      "pl": "Zdolność Bojowa",
+      "kr_sha256": "6880d9dde00668478517990cd8e527a8f065b9292462ab6e87a7c0793eaf231c",
+      "en_sha256": "181d61cc84edc1e86b8b9ec08891f4221fede37ecfb00d32b975149d90a6f152",
+      "origin": "ai"
+    },
+    "dataList[id=Distortion].content": {
+      "pl": "Wypaczenia",
+      "kr_sha256": "f02f38bad317924ae763ae641a7c226fdd889f0a904a308ac5770dc303d6e85d",
+      "en_sha256": "4bfb5bcd12eb3b64de6bcee1768ef9de3753566d4dac7a737aedc18fe19b0fd9",
+      "origin": "ai"
+    },
+    "dataList[id=LCA].content": {
+      "pl": "LCA",
+      "kr_sha256": "db522219962fbd315d7b80019229e27a3a67e9e12e633ed69181b887408d3e7d",
+      "en_sha256": "38ccb97749c9a7ce1890b630a87657b41006ba2399fddfa039aa8e11a8eb0bc4",
+      "origin": "ai"
+    },
+    "dataList[id=LCD].content": {
+      "pl": "LCD",
+      "kr_sha256": "69b2cba163dbb699ba4dd87ea8db82db4556c977618519a008f7a862c7aaceb0",
+      "en_sha256": "2dcffbfd526b4c65854c235fb12a91b3c39cbb50a6a11ed2be94760eac076b84",
+      "origin": "ai"
+    },
+    "dataList[id=Line3].content": {
+      "pl": "Kolej Załamania — Linia 3",
+      "kr_sha256": "56505a448d9469638905a56ef8e9f8b942d92b352face9e5def2e2af3e4ea5ed",
+      "en_sha256": "d42de9d014b36386c214137b9f5c9d797b5116d320c3349a056bc31fa07a5df0",
+      "origin": "ai"
+    },
+    "dataList[id=Monolith].content": {
+      "pl": "Monolit",
+      "kr_sha256": "1198881200e07b78ae01088aed32866a7d06414a143f8421d4434f51b224827e",
+      "en_sha256": "5cbbde53ab424fd60c812dca92769ab629806acf976c2d9de99ae4d9cfd24404",
+      "origin": "ai"
+    },
+    "dataList[id=NestS].content": {
+      "pl": "S Corp.",
+      "kr_sha256": "a002f92ee9c202c256b4a992bb58c1b37b59bd569c22e41c896b688c8d6bd1c5",
+      "en_sha256": "5cef3536df46ad01e2b976c99cbb04ff41757a9b2f5af94e7ac4cb227648f6e9",
+      "origin": "ai"
+    },
+    "dataList[id=PeccatulaLv2].content": {
+      "pl": "Peccatula 2. stadium",
+      "kr_sha256": "83831809b8180fd0490943c0d656f77171ef52ec42610e83e96b13cf471d21cb",
+      "en_sha256": "8a70dbfc8bb1c1c6b49abe99d92271d9e7644223409ca0ee5e751c12987c0107",
+      "origin": "ai"
+    },
+    "dataList[id=Peccatula].content": {
+      "pl": "Peccatula",
+      "kr_sha256": "26fa8f08f4a7eb9096d305acc209765b1d6364a84d6942012f83966c97bfea6d",
+      "en_sha256": "e50fdedf329081cdc070b3420a61dc08d0f4b5e27de60793cc3c2d9ae2714ece",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "entries": {
+    "dataList[id=Backdoor].content": {
+      "pl": "Tylne Drzwi",
+      "kr_sha256": "c58b0c94d24ac2be56e7405007d94bab22487ff0f6abe8e2dc53aeedfdd827fe",
+      "en_sha256": "e74e21cc46e2a720db506edae7ed2e5e8578e3d6975155d75b017e286956cde6",
+      "origin": "ai"
+    },
+    "dataList[id=DieciAsso].content": {
+      "pl": "Stowarzyszenie Dieci",
+      "kr_sha256": "31f8568b34a3051b562a6037c5bd102383546aa4fe0fa83947e35cc6fcfe5729",
+      "en_sha256": "3b41639809029bc87708719cdc29c8a460b9b5298559d3b586eb452320f32883",
+      "origin": "ai"
+    },
+    "dataList[id=Line1].content": {
+      "pl": "Kolej Załamania — Linia 1",
+      "kr_sha256": "4862cefe96bb3ab227cf282bf050e9a062e026678ff1175bfb9c045c09e41283",
+      "en_sha256": "fc6559b377fb3efbe9af2a7bb183cbac85ebd2e277014496fe15d60e54c16fe2",
+      "origin": "ai"
+    },
+    "dataList[id=Line2].content": {
+      "pl": "Kolej Załamania — Linia 2",
+      "kr_sha256": "fe166b29f5584f5fd48655367d93c499a1ea2cb416e63eda0a258c9a25ff9d90",
+      "en_sha256": "f781033a8b9d23e0b5dafc5d395cba8ea472ef2af3a244fa139711969653a8d0",
+      "origin": "ai"
+    },
+    "dataList[id=Mepis].content": {
+      "pl": "Mefistofeles",
+      "kr_sha256": "319b8e827c7842a787b1a480255399ad92ab4e71e5521782ffa3cd7f1233fe88",
+      "en_sha256": "5a4a4efef2ba3deecd38e4297ae0f5b713a4fb30b4020a1adaf80dd54791b334",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorDungeon].content": {
+      "pl": "Lustrzane Lochy",
+      "kr_sha256": "2317f4133280cdc740348b484a5e263c6c1757d20935498dd9fa7d6a05f418b5",
+      "en_sha256": "a35363b9f083591460a3edb04d6f661f8f27f7238689f2319cdadfa4cad1cdee",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorSubway].content": {
+      "pl": "Kolej Załamania",
+      "kr_sha256": "2a2f9172b7795d19e6445d1822ee181791ea22687d5d8974d79521aa2c7577ff",
+      "en_sha256": "9c94771ac3d4ed6ef87c850af35b1b70ec51ef5da178459e9f84eef6bfa10102",
+      "origin": "ai"
+    },
+    "dataList[id=ResourceDungeon].content": {
+      "pl": "Lochy Wydobywcze",
+      "kr_sha256": "eb992e61913b016e7ab9f85b969e4da98e1a7b47a2c07d33ff4aa363cf0075e8",
+      "en_sha256": "e5811b7a81fc43e38bc853ee345aaaa8efbeb33a2e5d659a68fc8411dd112475",
+      "origin": "ai"
+    }
+  }
+}

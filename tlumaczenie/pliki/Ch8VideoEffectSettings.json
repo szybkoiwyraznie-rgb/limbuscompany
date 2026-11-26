@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=Ch8_Ch1].texts[#0].texts[#0].text": {
+      "pl": "Osamotnienie",
+      "kr_sha256": "8c10439569390d58ba9cc82c3d61d243cde6ac6296e2a0f517d57b832cee4245",
+      "en_sha256": "7b9a7cc36227688c97c720679c8943013899731717cee6e2b5e61dda8cb1aefe",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch1].texts[#1].texts[#0].text": {
+      "pl": "Niezłomność",
+      "kr_sha256": "3f81aa04ba37de339d410031c51b2d892cf32a3f46e385d69b8179485797542f",
+      "en_sha256": "e41f8819a11259b94c55eae6faf187d2ebd3bdf439f8fecb9fdd0f35988d65e7",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch1].texts[#2].texts[#0].text": {
+      "pl": "Żal za utraconym",
+      "kr_sha256": "527b7ccd549073c459bdc58092c4ff091ffdcfc9ff21ae570417f9c71312c585",
+      "en_sha256": "3481546dac1a2c59d3a470b6a52e94ff34c85535259e713765d3dd41384866e1",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch2].texts[#0].texts[#0].text": {
+      "pl": "Samotność",
+      "kr_sha256": "3751c0ee4f1ac3350d78e444828688a8eaf35c03907c2f5add373db71f866e61",
+      "en_sha256": "3c65f815b7037ded11d33f274d90c01581ab21b073e896dff642848d3bae1c25",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch2].texts[#1].texts[#0].text": {
+      "pl": "Skrucha",
+      "kr_sha256": "a146bc1db8a47a35e28a0f0137b5ffeb3312507bdc9afed70389ca91315a593a",
+      "en_sha256": "5827845d38f2e596a93100c1ffadfdd946c5143a14e82449d5119a973ed9f963",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch2].texts[#2].texts[#0].text": {
+      "pl": "Oczekiwanie",
+      "kr_sha256": "dad60f61ab1e459041728fae6f22a12a1622ceba467cb0abd355c8f5081aeccd",
+      "en_sha256": "91f4fc608dfbd5bf5a18256219fe689a467e824c16aca24868321492c52a5eae",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch3].texts[#0].texts[#0].text": {
+      "pl": "Rozterka",
+      "kr_sha256": "d1760340752759cd084b66379723acd3ad916a48ef2e1fcc7adffccc6c0042fa",
+      "en_sha256": "014659ab9d98c8fea5fed2a5a3bc3c41d6478904a9184c65a57769c439940d14",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch3].texts[#1].texts[#0].text": {
+      "pl": "Udręka",
+      "kr_sha256": "55c06abbf43bb8a7d84e38cfc46a71ccf6dc44eceb70143a99c11fb8059d0420",
+      "en_sha256": "16ca183a8990ff053a97765f69fbfd10126a245cbc7b15460269b97eac61d892",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch3].texts[#2].texts[#0].text": {
+      "pl": "Odwaga",
+      "kr_sha256": "8a755685636f287aad71757a0a711386e686e86ab6059b2091a391545d438dbb",
+      "en_sha256": "c2bd645a5905bf7c47c926982cff59e2d49a592bb0d073c80ee273b9d827ef8c",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch4].texts[#0].texts[#0].text": {
+      "pl": "Tęsknota",
+      "kr_sha256": "5f59bc30beca00d4e321be71e2e0563b71386c41954b83ab953e00a0663a888b",
+      "en_sha256": "7c27f61905e360c5112e7896079d4eaff2577066d4686becc055e78f02bbcb40",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch4].texts[#1].texts[#0].text": {
+      "pl": "Melancholia",
+      "kr_sha256": "2e6a3a4a30f4ed598ac48670138ec48a786b95e7f12b322fd8e0d6a055d17d57",
+      "en_sha256": "57c7056a5dd96fb37d3a3ef667fb8100d211cfebf2c6dd63435ed5c5af1a252e",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch4].texts[#2].texts[#0].text": {
+      "pl": "Ciepło",
+      "kr_sha256": "0019f010939b9f6ced43cf8a56e3ed6199d1da87f5173d30fe35b03d7f54864d",
+      "en_sha256": "f9bab88715f81e59fb9b8cbe3524f9bcdb712c0611f0b8983d9211457f0ae2ba",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch5].texts[#0].texts[#0].text": {
+      "pl": "Namiętność",
+      "kr_sha256": "b00aa3ab3fe75872ae8b2f561d3765dff80e93a6351d8daa02284152e3070aff",
+      "en_sha256": "8079e01915b63ec9f3f2247cf456976e634a13c3cab2cb7a8a030c56de719132",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch5].texts[#1].texts[#0].text": {
+      "pl": "Duch przygody",
+      "kr_sha256": "3b5cbbe2b4646e335634ad31b19fac218cc4498ed3130f8fab7a59b5deffb4fe",
+      "en_sha256": "9a3c16424750cbde029c47e059f219dc64d8943ac4073a1cc5bc9accd979fc17",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch5].texts[#2].texts[#0].text": {
+      "pl": "Zaciętość",
+      "kr_sha256": "82fc8b5f9a1e7a907e24de35309d3be2d5d85b5905262701161821f472708d88",
+      "en_sha256": "486847688441273b2d1bf64e9db1f7d038a5560c7fbcd18c0268925c38f75a26",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch6].texts[#0].texts[#0].text": {
+      "pl": "Próżność",
+      "kr_sha256": "c27a07b0b40ef67aaf4f9886826275d542041c3dc16e53b7f7daa0c385b04430",
+      "en_sha256": "95a834b5815434a4b0688a14fab5a8054d89b684b1f14759792c273c45863167",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch6].texts[#1].texts[#0].text": {
+      "pl": "Determinacja",
+      "kr_sha256": "df0c61c4c942d05ec8e32c885f721cb2d417cd2b9fba5883b3b8cc6f866e757b",
+      "en_sha256": "c07513328104b15e2b3be00a018a690231b1fdf8fa441b5103182b3d8199aa55",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch6].texts[#2].texts[#0].text": {
+      "pl": "Miłość",
+      "kr_sha256": "ff2763f11c21f16783f8f382446808c669914af759bebf01281536877bfb1366",
+      "en_sha256": "9f4024faec10ef6d29aa32d7935d94b1a816fd4fe0359fbf12d49d44b5ff33b8",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch7].texts[#0].texts[#0].text": {
+      "pl": "Uniesienie",
+      "kr_sha256": "28c1d14c6ec3d9db01b157f4ae03017a238e875c8bc951ea9638e6c47eeaf702",
+      "en_sha256": "905db927e98ef74c244f1757b13c0775192e99132e2c6781340d21787ea3ccd8",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch7].texts[#1].texts[#0].text": {
+      "pl": "Tragedia",
+      "kr_sha256": "279b5d6089100e2c02e805545e4e2120753305f0c3b9e28f20cc206b236cc9cf",
+      "en_sha256": "afc51426a0ecf987e9bb8633462d3205ffadb6472eecaf6fb9a2a0025419c541",
+      "origin": "ai"
+    },
+    "dataList[id=Ch8_Ch7].texts[#2].texts[#0].text": {
+      "pl": "Podekscytowanie",
+      "kr_sha256": "2cf48fe318a763220255c533da0783c6e1d17cdfc220a8ce944e77cf21cbcc6f",
+      "en_sha256": "d90b3457a0066dc1835732d485e74d33cc16db3afca8e02c9c0b308ee3584ba4",
+      "origin": "ai"
+    }
+  }
+}

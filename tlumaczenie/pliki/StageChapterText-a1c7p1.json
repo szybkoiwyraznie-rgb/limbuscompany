@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=chapter_p_107].area": {
+      "pl": "Dystrykt 16",
+      "kr_sha256": "935a270155e207f2af0527834ae3d0aa5bc5fe58dae9415d28f26e126ff0afe3",
+      "en_sha256": "e91dfe901cbc6bd24ebf8084ac4d164f062843a6326381e2b3d5dbf1cdcc2afd",
+      "origin": "ai"
+    },
+    "dataList[id=chapter_p_107].chapter": {
+      "pl": "Canto VII",
+      "kr_sha256": "477072c665da5feb403762b7d3c716ef26a1f40e567a90e32b3728565461dcd4",
+      "en_sha256": "f5ff692948fda64f50780c3a346946fb29c49ad72fd03452f2fc21072b00c5dc",
+      "origin": "ai"
+    },
+    "dataList[id=chapter_p_107].chaptertitle": {
+      "pl": "Koniec Snu",
+      "kr_sha256": "8487a3f89fc2a0f23a13121a392351483e54f5419a6d19e4a1e8f6924597025e",
+      "en_sha256": "54a08f57f33ebd9ed34ae110c956464f4383b17081cb4d37bac67f0db61dcb32",
+      "origin": "ai"
+    },
+    "dataList[id=chapter_p_107].company": {
+      "pl": "P Corp.",
+      "kr_sha256": "0299ef852b9a4aea449e47984064eb01f295cfecc77d6272bc73e36accd98c2d",
+      "en_sha256": "43d45e7fcdae248db900bdcdd11286d9841108964df69e34575ebcd0af63e8e7",
+      "origin": "ai"
+    }
+  }
+}

@@ -10,6 +10,90 @@
       "kr_sha256": "6c941e31225320d0bd933df49d398a548c7d3528fb46395638185815c65daef5",
       "en_sha256": "46c5b3a67c20ba4ee18c7284fef4d882c827e9d4485e91ed1eaa51ee66345d76"
     },
+    "dataList[id=MirrorWorld_Story_Title_P10104].content": {
+      "pl": "Rozkwitłe E.G.O::Krzew Korzenny: historia Yi Sanga",
+      "kr_sha256": "16e9788172d44d5dd3906861682f1aa28586e206ba231982d89304168d1fed0d",
+      "en_sha256": "3416903cf1da5d242d16dc50c5852c486172793563045daec0abb44851e0ea9b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10105].content": {
+      "pl": "Fikser Biura Trzonowca: historia Yi Sanga",
+      "kr_sha256": "e5f4c266cfd9395ab675835d46715c7f1378028d10c8078ea9a9903f2d6684a9",
+      "en_sha256": "c5a82f473eb983ff0cd33eba2d6196c2ed8c1101529b56c0dff46338f73d4aa4",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10106].content": {
+      "pl": "Agent porządkowy 3. poziomu W Corp.: historia Yi Sanga",
+      "kr_sha256": "604422dd73f5a669ccf2264723e6df6d56460d13d9c1d78a169b082591fcda86",
+      "en_sha256": "9ed1bd98c5b5bb77f39fc99bbfa2959ecac707b2070db3b5478778e0e293ef0a",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10107].content": {
+      "pl": "Pierwszy oficer Pequoda: historia Yi Sanga",
+      "kr_sha256": "52fd0c45007861082921caa08d396af98d95d4a2be85a468f9a0fd883c14fc97",
+      "en_sha256": "b3b9e0539a16c4d8cb089e4f1a964a64f51b6400664ce99ef2aaae07da9e2de1",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10108].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Dieci: historia Yi Sanga",
+      "kr_sha256": "3809b57f1e11eb0bd32278679720b43ddcb9ccbcba38e9eb01ccb10c4c07ea51",
+      "en_sha256": "d70fb4e1a2efce990cdf5a3800bc8ffc6c47b7572fca477ef8e6a666be9a4631",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10109].content": {
+      "pl": "Student Pointylizmu Serdecznego: historia Yi Sanga",
+      "kr_sha256": "d89463a98a273be8ee464431c39a576fa7974e940409bb6b05d2361a69f4beac",
+      "en_sha256": "d9c12acb4c21fa359c304abca6082f1868a7023a7b6b3b38a2a28f6cd5e01c0d",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10110].content": {
+      "pl": "Lobotomy E.G.O::Uroczysty Lament: historia Yi Sanga",
+      "kr_sha256": "910729a7a74ef8ff5eebfc06629c87c1bd6b4e7607c8b4948fd2ebbeb6d2da9c",
+      "en_sha256": "e13ea031cd7c67deea956a5aef4fca7e774c5a5101c22d21b0507549d5af1d24",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10111].content": {
+      "pl": "LCE E.G.O::Latarnia: historia Yi Sanga",
+      "kr_sha256": "1f6799b577223b9df0854dc2cefc55639ad6d31c84862d2241caad020bacd9a1",
+      "en_sha256": "d2841fb36d0605a1fab61182290c27c9df0c756e35d67fbf5e32850875956cc8",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10112].content": {
+      "pl": "Południowa Sekcja 3 Stowarzyszenia Liu: historia Yi Sanga",
+      "kr_sha256": "41a420cb36073ae6309dd61a50f573500570b952fecf9c86c858d82ade94d715",
+      "en_sha256": "980d1416eaae64950d9830fbfa41da8309feb345a22d2e6caf979d68b9892df6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10113].content": {
+      "pl": "N Corp. E.G.O::Złowroga Kula: historia Yi Sanga",
+      "kr_sha256": "fa36831fa70ab90bab0ac2c117b6035720748a699c0765cc6cf54453f703af44",
+      "en_sha256": "0856f1e557821190e346bcdfd1818a5b47f8a7659e15f1d4b83769d4fcc0be82",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10114].content": {
+      "pl": "Adept Watahy Heishou - Gałąź Wu: historia Yi Sanga",
+      "kr_sha256": "ed43fc2d8d1d9553950d727c424e995352133aac8745b70a723a86be758b5c58",
+      "en_sha256": "80a24bcd409d82b7aaa07aca7b94b5b1144dfabfe9b1e736d0916349bec446ad",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10115].content": {
+      "pl": "Dom Pająków — Ojciec Wskazującego: historia Yi Sanga",
+      "kr_sha256": "92970eabdf2ffa3be7cf6795b065f1a7b0b2ace93c2a858dc64c590d489b774c",
+      "en_sha256": "591ba5613be50448eb7d90b41f41353842766694e621fa28c29585f1d443d7a6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10116].content": {
+      "pl": "LCE E.G.O::Rozpruwacz Wymiarów: historia Yi Sanga",
+      "kr_sha256": "98390fe2e091e91964ccdbbd5d19994ae7d1d89479d55b70dd3f5ded009c5ad6",
+      "en_sha256": "8a398cbf737c928ba31c08e14364caaf43e8370c0f898d0807d6fd60b3e80599",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10117].content": {
+      "pl": "Haute Couture::Suszarnia B3F Le Noir: historia Yi Sanga",
+      "kr_sha256": "502ec5b85b98cc8a7e0e0c3c57bfbc866fe2377f61a128c871d2edc61aae6cdd",
+      "en_sha256": "363b8a5df78c0d6c48c91700a578c6864ac7e2df9ff485411d694550644109dc",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P10202].content": {
       "pl": "Agent porządkowy 2. poziomu W Corp.: historia Faust",
       "kr_sha256": "fd066ab648ae89ed047636105d795d82732b08f87c0ec83556af799a6803746d",
@@ -24,6 +108,78 @@
       "pl": "Dzierżąca: historia Faust",
       "kr_sha256": "637c9c1e65bc4efff44fda46c3bc2f5c194a22c823bb116ef173f25a78203af9",
       "en_sha256": "bf7b328befaf61d61859f349724ad2a74f508e6b9500b910ba0a1f8926dc967a"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10205].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Zwei: historia Faust",
+      "kr_sha256": "a142218ba07734940569edd35c127830285ad845eb4d56ec14a33332cc62c78c",
+      "en_sha256": "b7018c8e745967316da8cbcffc7fd4dad8f107fc21d65d383bf11eb9b4d4b56f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10206].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Seven: historia Faust",
+      "kr_sha256": "d3b131391aa39b4e7987d2bf094ca653ab1fcb9ca8b5caf418d69f6fdcce5577",
+      "en_sha256": "0299592c31c7338d2374d4dc431c553c339006d4fdd4b0e854e9f095dbcf4735",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10207].content": {
+      "pl": "Lobotomy E.G.O::Żal: historia Faust",
+      "kr_sha256": "d338edff70118ae0e1c334c99732bbf85df1966229c64cc6cb889696b4d5d0d0",
+      "en_sha256": "90d009f0e3aabe8a7f92b849a492a68f7e2158ee78cbca656a7d15adafb3b018",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10208].content": {
+      "pl": "Salsu Rodu Ostrza: historia Faust",
+      "kr_sha256": "1640a85233806c0efebfde52ff13d5397e071f1d9be09b2d3124dc5f9f322f0b",
+      "en_sha256": "3550ea8b6949e4235c965bfea62edbce2521b264bb17704d8e40f155acafdf2c",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10209].content": {
+      "pl": "Kamerdynerka Wichrowych Wzgórz: historia Faust",
+      "kr_sha256": "3dbb904b70d25be8d3eb1522a216b30fd85ed287fe50840c9dfca984abfa7973",
+      "en_sha256": "99cea6df57cfacc60de8d3edee2eb3dd8ea44daf9bc206aa990542a36f1f13b2",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10210].content": {
+      "pl": "Szefowa Biura MultiCrack: historia Faust",
+      "kr_sha256": "4570d0510ca25ad2063e76945362b3ba6b5b33e4b8d60940f59309f741916fcd",
+      "en_sha256": "0255dbf5ed5a6b5968b5357e81e939c8e6a0d8219362188ac0ac0442417eec19",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10211].content": {
+      "pl": "LCE E.G.O::Gwiazda Żarzącego Kwiatu: historia Faust",
+      "kr_sha256": "2ece852ef8b5b8ba0dc6e6358b752e76f91ed16b2a053954523438045a0878d7",
+      "en_sha256": "94fb8ad9b3988a47c8b1142fb156558871228d119544c87eaecc0e1915f0a600",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10212].content": {
+      "pl": "Adeptka Watahy Heishou - Gałąź Mao: historia Faust",
+      "kr_sha256": "bd44843db558d5b4b74aa5b7724bbf9d814991ed6276d22f9144f20519f94415",
+      "en_sha256": "141296997093dcb9fc4044faf8308bc5689020351e112e6a56a3f18be8b40d78",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10213].content": {
+      "pl": "Wschodnia Sekcja 3 Stowarzyszenia Shi: historia Faust",
+      "kr_sha256": "2f517897f2abef8f5c9e854b16bcc0068ef88f679c86024450d536be416c4838",
+      "en_sha256": "a8e9a8356a1341413781525cef0e790811986d0138ce1cabe319b2b9c09121db",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10214].content": {
+      "pl": "Akolitka Wskazującego: 【Karteczka】: historia Faust",
+      "kr_sha256": "d9bf31b727301b74fd24698b1d670b50c1519ba5f31a0bcb01dcf2a7eff4ab2f",
+      "en_sha256": "6680f188792bf319bd60ee2edc70c150408fcfc3a2bf9f74d1c58157cb18552c",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10215].content": {
+      "pl": "Dom Pająków — Uczennica Serdecznego: historia Faust",
+      "kr_sha256": "ee9b204534b765cf4f32abdff87245d82d27a18558f9731c9fc65c23e1666d86",
+      "en_sha256": "53108823fa381bc0fd54498f303869809935c2b18467b43506f896a6fa90626a",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10216].content": {
+      "pl": "Fikserka Biura Świtu: historia Faust",
+      "kr_sha256": "d3362ef7c52422b889a441067eb6f18c3722723d6f3850c5c97cad62acbfdd45",
+      "en_sha256": "849e3ee41d1adba19582b4c96283ae882fdcdaccb98cd84801d8e34387f207f1",
+      "origin": "ai"
     },
     "dataList[id=MirrorWorld_Story_Title_P10302].content": {
       "pl": "Agent porządkowy 3. poziomu W Corp.: historia Don Quixote",
@@ -40,6 +196,78 @@
       "kr_sha256": "4dad773893286ee79b3016952a161bc3f8199495e9f585c0bf47bdc07ed39d7f",
       "en_sha256": "87b741766601fa53ec019773d80f6a328ccba45c8210e43851ab6ffe76193af6"
     },
+    "dataList[id=MirrorWorld_Story_Title_P10305].content": {
+      "pl": "Dyrektor Południowej Sekcji 5 Stowarzyszenia Cinq: historia Don Quixote",
+      "kr_sha256": "771dc6cf4ae6bb77a7050ae277f163348a5004a3eec67bcf58df56ff55b56f49",
+      "en_sha256": "c1dd76825922d5afcadb77b8a2386bc6e80676ae09f2bd2cddaa18c71cb036f2",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10306].content": {
+      "pl": "Młodsza Siostra Środkowego: historia Don Quixote",
+      "kr_sha256": "bb837c0060460a105e43e793af45015b9e5c0f68b3888dcaaa030ff4bc93d027",
+      "en_sha256": "6073ea5cea1582580229101766a38759216db4d3e78c8bc0904244a81a8f68f6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10307].content": {
+      "pl": "Lobotomy E.G.O::Latarnia: historia Don Quixote",
+      "kr_sha256": "51c884ed65c2836ab99a171194ecbb904f4c183cf2265332d97bf4eb5da32a14",
+      "en_sha256": "b0e274192056dd0144d69284be8d922c2ca4e9c27b7600093fd7aa108fb4f3d0",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10308].content": {
+      "pl": "Salsu Rodu Ostrza: historia Don Quixote",
+      "kr_sha256": "6682bff940a268881cb97a5b0d6c3f288c0f45a08afd8392e6001487312f073f",
+      "en_sha256": "f430e8d55809c61dbc33653c4cb08522460eb64affe70e4bfebceca446c1a765",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10309].content": {
+      "pl": "Poborca 3. klasy T Corp.: historia Don Quixote",
+      "kr_sha256": "9161cad2c7a2e830e5e3d83d0c8e34d14e9bfb89874c09b7b3612a63d3c158f4",
+      "en_sha256": "96e967cd204a7a08aed310cb8048f1b94e0d43943fc64c6a2e82dde323eaf08a",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10310].content": {
+      "pl": "Zarządczyni La Manchalandu: historia Don Quixote",
+      "kr_sha256": "81d8b0ca1fed6ba7d6a9c1a00c0752503d3ff3d849dec927ece7d4229fc6371f",
+      "en_sha256": "d13bd0cdd5d9d7d001ca69a55675285dd956365a4d5abeb2c64f6ef341fdfd2b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10311].content": {
+      "pl": "Wschodnia Sekcja 3 Stowarzyszenia Cinq: historia Don Quixote",
+      "kr_sha256": "bbbb61c21e84576404d163e8cab09f5cde14a6c3c2634e91093a83b4b57e0988",
+      "en_sha256": "9211dee531abe63dc4d4dc9e4b2e1702e6eb668f15ef41518cd78d0fbb8e47e7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10312].content": {
+      "pl": "Lobotomy E.G.O::W Imię Miłości i Nienawiści: historia Don Quixote",
+      "kr_sha256": "6eb1c4de229346d187d6fe2d1c25af091c31761ebc203547d80ef1781eee1af5",
+      "en_sha256": "47d5228c1ca3a73a27706a05606e082450c76422edc518c3b0cc588b4b17d3a6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10313].content": {
+      "pl": "Wataha Heishou - Gałąź Wei: historia Don Quixote",
+      "kr_sha256": "4c5cd044845b9801eb9acc6b9771fa32d62612d65cf119b561ae686a8c5f7090",
+      "en_sha256": "7d560667021100d710d12311f7d9d31d73d67b2e5fd2b7f798e9e7555ff6e6e6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10314].content": {
+      "pl": "Pełnomocniczka Wskazującego - Rozkwitłe E.G.O::Pełnomocnictwo: historia Don Quixote",
+      "kr_sha256": "87786a956728d712057b38b1ccfef31ed9fc9b04b46dc89df9d6c7fa11296d92",
+      "en_sha256": "0d02ac5e68ffb4523dfb4abbaff6cc160d2b30e520e19ec0e1fba9e11192cc9b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10315].content": {
+      "pl": "Haute Couture::Menedżerka Marki Le Noir: historia Don Quixote",
+      "kr_sha256": "3409cba2793f1845ab64448d85a08322eca35bb29c16a3a88227f52faa8273be",
+      "en_sha256": "2f8166d026c93f1f50f387cfeedfcb558fc6f15e53edbb161cf136d3f2980cc1",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10316].content": {
+      "pl": "Fikserka Biura Klina: historia Don Quixote",
+      "kr_sha256": "6d5ab6541ee8ea22ffedceba43850e38f6ab767dc7750d9021c65326f4c6d3f1",
+      "en_sha256": "8aeccf1a01a229581f8d23778d25f279edbc251d0e54c638af2106848a19f82e",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P10402].content": {
       "pl": "Południowa Sekcja 6 Stowarzyszenia Seven: historia Ryōshū",
       "kr_sha256": "1079803bf5c5364d4017eb9284cf9ed75193ebfa9d55d4f43eaadb352f99e14a",
@@ -54,6 +282,78 @@
       "pl": "Szef kuchni R.P.M.: historia Ryōshū",
       "kr_sha256": "9d89260af6b17ce2183b5306191caed7c0c91e84985cb7b51877c4571698e785",
       "en_sha256": "b13f9557eeeb0a61fbea61e8ba8cc60383ac78123c29d48111785ce1712f2956"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10405].content": {
+      "pl": "Agent porządkowy 3. poziomu W Corp.: historia Ryōshū",
+      "kr_sha256": "801228f294d691218598b37e69e6fb0ec35a2467edf054f18e34c6811c6f4b9f",
+      "en_sha256": "43c72b9f9fdaab605bb1cee535af6c691fd61a209137d95edb0986974b102a4f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10406].content": {
+      "pl": "Zastępca kierownika LCCB: historia Ryōshū",
+      "kr_sha256": "b64447197933908e0bcf3a990bc17cb7d02a679306141f5605341dec4f42c922",
+      "en_sha256": "6248d588083ee1ffb69a436c1c2cfd2da16e8ba7a24f3f7399cc01fe425cf9f7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10407].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Liu: historia Ryōshū",
+      "kr_sha256": "d04d28d16df0c8d06707572794574039b88259a36e65a54550e8b2ef3dbb3f40",
+      "en_sha256": "23ec89890e35f7b91c9588e0992cc3c1236c5113d0c0706798260c61847c8953",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10408].content": {
+      "pl": "Główna Kamerdynerka Rodu Edgarów: historia Ryōshū",
+      "kr_sha256": "e67c42ad82a2b51c13036dd731b2ec71480516f82201981be12a001dc692f5ce",
+      "en_sha256": "a6dbf425e41c5e74612117f51dd2a86e7ecd23a622a104b38fa9ecadbf3136f9",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10409].content": {
+      "pl": "Jurodiwa z Dystryktu 20: historia Ryōshū",
+      "kr_sha256": "14e1285c00547bae1003821f7f905c9c2745cd71b38c6ceb6f149df1f5d136a7",
+      "en_sha256": "30d574f814ba552ed9c772f7f2f486be4b5cd5471354dc18f0f27df6649f5db5",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10410].content": {
+      "pl": "Lobotomy E.G.O::Czerwone Oczy i Pokuta: historia Ryōshū",
+      "kr_sha256": "d84af4fc0273162a536871b0c6f6688d713405145742a97383d3e7a29f639c38",
+      "en_sha256": "cc1180c4c05c21bb6fb817d114a341fadf1d12d0c2b5f914c198324019ae157f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10411].content": {
+      "pl": "Wataha Heishou - Gałąź Mao: historia Ryōshū",
+      "kr_sha256": "113a1efd448a159194b5392f623b437015c46a062c7ab11fce7d8a5b46b130e6",
+      "en_sha256": "f1314b74dae3ef91a9928c870cb2207e1e69efe8633bc135f6e70533bd8d65ab",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10412].content": {
+      "pl": "N Corp. E.G.O::Pogarda, Trwoga: historia Ryōshū",
+      "kr_sha256": "e44d6b110a8914af76d22e50bbb09cd6337ebfeebbf3a3179ba6fb4faa98851d",
+      "en_sha256": "36b97c1793866de7f19426c3d1a89cc108a70447b4ed0737145f58008b0eebb2",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10413].content": {
+      "pl": "Wędrowna Szermierka z Hongyuanu: historia Ryōshū",
+      "kr_sha256": "e8b6fc00c77abe7c2c98e66d9f280aa3c57c499170761f72dabc9feb4b34e9e5",
+      "en_sha256": "7a412343140135edacd8ff873e90865cd108be500d720c1e219380cf246d4319",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10414].content": {
+      "pl": "Lobotomy E.G.O::Nikła Woń i Samotność: historia Ryōshū",
+      "kr_sha256": "6668bfc0507d54513e7122349ca908316eb418e264108080e3b400c1c10654cd",
+      "en_sha256": "b175438aa92cd3df17d00041fdd3b058fa4382aa8cfb182001fc38ee1621f5ac",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10415].content": {
+      "pl": "Ostrze Domu Pająków: historia Ryōshū",
+      "kr_sha256": "b63f83ccf29c5b090c06609f4b051ac81a688e3c3d8aeb71b9d5ff7ddbfb416a",
+      "en_sha256": "0f522359e61b04bb28c8c7fb6be2fcc230fa67f31a8afac92a470fbf54952e15",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10416].content": {
+      "pl": "Haute Couture::Pawilon Obuwia Le Noir: historia Ryōshū",
+      "kr_sha256": "66e20a30e2c77a147a9c5b963b65238895181b7983be74d63ce0c2d1b9cba282",
+      "en_sha256": "42bc7dc16750c426271bdf8ed64f959eb1a2050e9b0b23d8873898e9abd405b5",
+      "origin": "ai"
     },
     "dataList[id=MirrorWorld_Story_Title_P10502].content": {
       "pl": "Południowa Sekcja 6 Stowarzyszenia Liu: historia Meursaulta",
@@ -70,6 +370,72 @@
       "kr_sha256": "0f9ebb679572beaa3b8072d766b04bb4890c07ce476a5d1ed5b4707889e925a6",
       "en_sha256": "3ef9034d8beefa349cb6f15ef51dbe8407fe13dda2eaa5a5988336217a249ade"
     },
+    "dataList[id=MirrorWorld_Story_Title_P10505].content": {
+      "pl": "Fikser Warsztatu Różanego Klucza: historia Meursaulta",
+      "kr_sha256": "4b68b0c033cec2d6c9dcbf0e25bf6f60d03673543680e5e42d20410902a4edd4",
+      "en_sha256": "f9fd6212297f047e75c318d3fa9f708ae7e216ab243b4a2bbc3c49420d1b08c0",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10506].content": {
+      "pl": "Zespół Nosorożców 4. Stada R Corp.: historia Meursaulta",
+      "kr_sha256": "aa42bc0cbd971861618283f5ce28055498ea6d5ac958218c093616ebdda36218",
+      "en_sha256": "79de1c14c2ecb3c4eb8f0f8c4cd6ad0a711198e303de53566ad37790a0bd288d",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10507].content": {
+      "pl": "Młodszy Brat Środkowego: historia Meursaulta",
+      "kr_sha256": "b417b96e857c779bf54e444c025809c5ccf1d4263bb2a3f3fcb0c50b741297f1",
+      "en_sha256": "f26cdb1233be214edb57353f5a9496f1ca5001280c5e313ffffd9c145c14dc80",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10508].content": {
+      "pl": "Mentor Rodu Ostrza: historia Meursaulta",
+      "kr_sha256": "ce3efcde6c7d4074b0ff8b13ad77e2fa45968b88b7fd585c2c718480dd04d78b",
+      "en_sha256": "26fac6e93bd8d9b62b2306504b9eaac1352d02c491a9a5ccfd916747bafb8b7c",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10509].content": {
+      "pl": "Szef Martwych Królików: historia Meursaulta",
+      "kr_sha256": "260127909badc73ea25701adc64ea0f19642e6d02d655344dfcfa83784ad8af9",
+      "en_sha256": "c059f9c7095ca146f6ec2fac35b16dad48bb2774d5e3cca9097b5084293ddf49",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10510].content": {
+      "pl": "Dyrektor Południowej Sekcji 4 Stowarzyszenia Dieci: historia Meursaulta",
+      "kr_sha256": "0391df6d1940255d1abb6b0880edb2f8a5dda789e027da73e8b2d0f20153aba0",
+      "en_sha256": "4bdf4dbe2feebcfce92c67241337c7bd565a562a8d024dbbd44c06004fd987f5",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10511].content": {
+      "pl": "Zachodnia Sekcja 3 Stowarzyszenia Cinq: historia Meursaulta",
+      "kr_sha256": "f70dfccf12907c7ccaabd52c19d934c085685688708d403b266aecd9c891e365",
+      "en_sha256": "eaf58235310a915e36a1bdc73721f0fe2e8c330f094cab0d3470e9a69d5789ef",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10512].content": {
+      "pl": "Wschodni Capo IIII Kciuka: historia Meursaulta",
+      "kr_sha256": "ea28c99c4d195cdff21aff3062c2a843f64c4942de84dd4b44028a2c1c9fd69b",
+      "en_sha256": "4df704871072acbcba139e20eb5c25e16576e5df033f854ef78781e2d9563912",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10513].content": {
+      "pl": "Książę La Manchalandu: historia Meursaulta",
+      "kr_sha256": "75df36606f57994048d2ebb8d4efd19a1c23d61c5965a39eae334297fd6541d9",
+      "en_sha256": "1e206c71961d4856cc4abb3baffcd9cc769dab39d25e2b3e0ba329e19bdb1b1b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10514].content": {
+      "pl": "Lobotomy E.G.O::Szerszeń 【Modyfikacja】: historia Meursaulta",
+      "kr_sha256": "2c58abe1c028eb2a6ab89ae53bbe6cf1072817d0f5ad3cf0fc110e3a41aaea5d",
+      "en_sha256": "99c4336dc045e0b9190d7a81796c3bb0a6582576c3df8f5b78f0e94b5ddb2c32",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10515].content": {
+      "pl": "Student Fowizmu Serdecznego: historia Meursaulta",
+      "kr_sha256": "708cd9a7e76c3e1352399eb6cfbdeffc43d03d17a891fab5e94cba9246932c98",
+      "en_sha256": "0bff5435554d43d28dd11b351abc0f2a7b6d06a9f61a9d2549571f68fc8db85f",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P10602].content": {
       "pl": "Wakashu Klanu Kurokumo: historia Hong Lu",
       "kr_sha256": "3155cf9c93b8ba1de5a51f4dc1804f711563f3b34fbbffd8a5e6809328f5f9cd",
@@ -84,6 +450,84 @@
       "pl": "Południowa Sekcja 5 Stowarzyszenia Liu: historia Hong Lu",
       "kr_sha256": "3ee31d5615c6b4e1c24bae4c7e61fac2f01e780111ab783ddf918fdf9ae9f382",
       "en_sha256": "970725341d76b7ed9a4950dea8d532911e7c02842a7c05ebc258a0d652c8e653"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10605].content": {
+      "pl": "Pracownik wycinania 3. klasy K Corp.: historia Hong Lu",
+      "kr_sha256": "8e349deeaa13c24ccde5406fe2347f1fbf975fa9b27372fa6aad7589f778a006",
+      "en_sha256": "373eca20fc38550c7123ccf5e7fa8e0e325c6a301c64cd5aae941ed0cf5a399f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10606].content": {
+      "pl": "Agent porządkowy 2. poziomu W Corp.: historia Hong Lu",
+      "kr_sha256": "61dc01b5bf0d02126a84eef9d9d664d4b6cb22e1f6b2773311f4a96c79e53b1c",
+      "en_sha256": "3eb9e036d13efcd2288e4ba607e295d381241d8ac59dc95174538f4edf88ff6f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10607].content": {
+      "pl": "Fikser Biura Haka: historia Hong Lu",
+      "kr_sha256": "29f97eb139c74f10d455d7bb2ad8b25cd292e1ce14b06b152b2c2952f8803853",
+      "en_sha256": "fa20d0dca5a1ca7ad65cfd66c5c02ed9dd97d78ecd44302c9c422ca7349cdd0b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10608].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Dieci: historia Hong Lu",
+      "kr_sha256": "9b4b9283a7571f55623ae7f8af0f3660a4496ca508be23fdc7bf57e534d053f1",
+      "en_sha256": "9fdda90da2a627d9fece510b54416aca5e31c3e3eb49007c0d886e33cb260549",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10609].content": {
+      "pl": "Jurodiwy z Dystryktu 20: historia Hong Lu",
+      "kr_sha256": "1c6f2a9d8af977a362bbd8c54bffdbec810afcfb90815e619c9bac461b3bd799",
+      "en_sha256": "4c9c39b22c8be299c46fe896cbe3ef11dc1c74de63b4b72d6286fa8fab53edf3",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10610].content": {
+      "pl": "Fikser Biura Łowców Kłów: historia Hong Lu",
+      "kr_sha256": "6d6ac64f537c8fc5c2757fd6f923381a3cb5465f80a3d634c38943cb1157b998",
+      "en_sha256": "8d101914ebfb8e6ee5b15ea258e169aceedde8f5074cbe9537ecc62786bf89f4",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10611].content": {
+      "pl": "Szef Biura Kropki: historia Hong Lu",
+      "kr_sha256": "b7167f27fd0ad9547faa74a897e67048f8260760b47ba5e055ebff82a097182b",
+      "en_sha256": "d3b81e6c92b25c2a12e912c99b0893e41192c85f005528d165562c03698be529",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10612].content": {
+      "pl": "Zespół Reniferów 4. Stada R Corp.: historia Hong Lu",
+      "kr_sha256": "1dd5aa151dc3e184734bf415b042d23843f299e8187e9cee30e3b4d011ab41d8",
+      "en_sha256": "85541e245f26f5ab32941f499916b00dc98fa4bd6c245ddea4a087aca6ff88b7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10613].content": {
+      "pl": "Władca Hongyuanu: historia Hong Lu",
+      "kr_sha256": "e8d0d7f846e5643003b5fcf84d3831d07ecbd640796c2b6ee177d6bfd47eeb08",
+      "en_sha256": "9346089b48079fc95533b2c28230e83a4b150bd5d7cd7b93012516a89bb6893e",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10614].content": {
+      "pl": "Dom Pająków — Ojciec Serdecznego: historia Hong Lu",
+      "kr_sha256": "48f89ebe3c1f9561b4d1ac7741cfc7b9cb846285d60f6aba8e5f236297a6441c",
+      "en_sha256": "cc17e4fd2686c4ce4cbd0ff7065960960b6dd50a00fdcdc202ab83025ce9f03b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10615].content": {
+      "pl": "Łowca Zbiegów S Corp.: historia Hong Lu",
+      "kr_sha256": "8b4c987d5c40c268c3ecb0724e2d21a20b20f126d227d02149f048a8a166742f",
+      "en_sha256": "c4b024d43227a7027847c71f74c8cad5b78957565ac2579154145c9bbb883fb9",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10616].content": {
+      "pl": "Wschodnia Sekcja 3 Stowarzyszenia Cinq: historia Hong Lu",
+      "kr_sha256": "c5a7f9f70ef7f21002d3ec3b5363944f767c625ca46de9703a06b75594683c23",
+      "en_sha256": "86f777ae24d451a2446464af6b4a01d62c217663663d7f423167ebcb67d02b95",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10617].content": {
+      "pl": "Haute Couture::Radiowęzeł 3P Le Noir: historia Hong Lu",
+      "kr_sha256": "add7a822f9a3139e6d34fbba61ac43fe4867be9e40ff7f4c7ae6c411b97cb8a2",
+      "en_sha256": "f5691c4657e1a72738deee192e5a94aafeb311ed513be476b1f84f525b736c68",
+      "origin": "ai"
     },
     "dataList[id=MirrorWorld_Story_Title_P10702].content": {
       "pl": "Południowa Sekcja 5 Stowarzyszenia Shi: historia Heathcliffa",
@@ -100,6 +544,84 @@
       "kr_sha256": "f2c3fd740acf9cb0c1c66f873a07ac7715082243e9e8488dde613ac34dfb510d",
       "en_sha256": "4eb03e98c4ef5339b5327c2980d116511da8f1b697962153776a49a11bc0d9a9"
     },
+    "dataList[id=MirrorWorld_Story_Title_P10705].content": {
+      "pl": "Lobotomy E.G.O::Lisi Deszcz: historia Heathcliffa",
+      "kr_sha256": "bdf8edc6635f0a4897836d5f0d5c19b806ce6265a3a3ad37938a200a4c94a890",
+      "en_sha256": "5411abf274968590d0e20e83eb037cdfee2b42cb6befb4a0bad89b69b67b26a3",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10706].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Seven: historia Heathcliffa",
+      "kr_sha256": "d33f33723729c3f643b7e453b46bfb0bee562eb63ecac9848bd0f29c151815ed",
+      "en_sha256": "c97a0aa52fbf1981bf74f84c516af4273ce5a463f88b9e3c62afd8cb46fa2bb7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10707].content": {
+      "pl": "Harpunnik Pequoda: historia Heathcliffa",
+      "kr_sha256": "dd8ba1693dac916494bdfbaf8da0f6cebb008a7b9a1324bbcfa8f1626d1e165b",
+      "en_sha256": "eda51c62b552a2fc86124b12774702d45670b1cc86ae7eeaead69419a9c98fc2",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10708].content": {
+      "pl": "Południowa Sekcja 3 Stowarzyszenia Öufi: historia Heathcliffa",
+      "kr_sha256": "a38e0c0198e0b25b143ab6683be2912c517e1b4fb1f601c87001fe78ab3a14f8",
+      "en_sha256": "891531f5deec3bd9d1f4e7cd20c81a08aa22f7f0fa44f1f4b9508cfe503c428d",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10709].content": {
+      "pl": "Fikser Biura MultiCrack: historia Heathcliffa",
+      "kr_sha256": "bb9d6a6c5a3cea3e1d108d8d814d7e534a6e640f4aa8c301139064f5b1ac2ad8",
+      "en_sha256": "3eb7dc4343c1a838ed6e3c96fe23d5eab471a667b3129d85c2d7f761ae32c756",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10710].content": {
+      "pl": "Dziki Gon: historia Heathcliffa",
+      "kr_sha256": "9b1429cc40d92322d50ad5d70727665b3459d6b2be7c5966c0fae25a7e572dd8",
+      "en_sha256": "a24c9fb825e4f21dfc740a24e14a6f56a67fbbedd19a7efb46e6cd113d6d12cc",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10711].content": {
+      "pl": "Fikser Biura Kropki: historia Heathcliffa",
+      "kr_sha256": "ee66e70696f82d3a75c1dd4c309d8044350634fbf5ef3b9efba6704b011cddc5",
+      "en_sha256": "e9c9562717e4f3021dbb43f49fe6fed61b8d9e10e40e3a4b3e2f936cf8caf9fc",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10712].content": {
+      "pl": "Wakashu Klanu Kurokumo: historia Heathcliffa",
+      "kr_sha256": "7f95e8f31dd7d3a167fa3f2ee5dde2cd6ad7259a90320321c4a8c5df9233aaad",
+      "en_sha256": "62c2f5abc64098ebfecbcb8ca469c3ca11cd30d56b84b29df5f7f351a84ebcca",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10713].content": {
+      "pl": "Agent porządkowy 4. poziomu W Corp. - CCA: historia Heathcliffa",
+      "kr_sha256": "aa48261ed88d15793f39aec476e7c2e867e8742ed1cbb74c4580573d4f968906",
+      "en_sha256": "56d8056ba6120ee27a991ea729ff2865eca1c5f1b53fe2abe24b3ed6d1063191",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10714].content": {
+      "pl": "Adept Watahy Heishou - Gałąź You: historia Heathcliffa",
+      "kr_sha256": "86326504f4a78dcec3c57f2d3d41d4eab6f4f74edfebe13e94b61468c4784c4c",
+      "en_sha256": "778e3a55fa9c97d2964e0e07e904931d6aeda7ccb3a457681b8c88039138f1be",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10715].content": {
+      "pl": "Starszy Brat Środkowego: historia Heathcliffa",
+      "kr_sha256": "4c1439bfacf7505a026eab82a2ff201b085528e0f344e794be33e089c98605b0",
+      "en_sha256": "c97791876fa78473b28fda7704a891f3f4ce05c32cd641601a687bc7521f8c9b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10716].content": {
+      "pl": "Dom Pająków — Uczeń Kciuka: historia Heathcliffa",
+      "kr_sha256": "c53c028420fb9873edd51e3263434de0d640a5c23110aeb425d40fde9c264191",
+      "en_sha256": "5184a62eb47b4388460826413bc93e46db6b110ea947f1da7e524014ed84a508",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10717].content": {
+      "pl": "Haute Couture::Król Krawiectwa Le Rouge: historia Heathcliffa",
+      "kr_sha256": "2e6954ff8964fa7658a550b08d357af44cffca3f3e0023d91f86f8861c422d74",
+      "en_sha256": "0c5aeea2f505d5bc2df5ee9bff1090db047cc593ee2303c30d5cac89011e5c8a",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P10802].content": {
       "pl": "Zespół Reniferów 4. Stada R Corp.: historia Ishmael",
       "kr_sha256": "15946f37dd0e5a20654b4a1ea5f7d1835f562929d9eb73d26c961f948467bbdd",
@@ -115,6 +637,78 @@
       "kr_sha256": "1f6e0c7225edb9f7fb72f652ab03602470531455a401e2f2c0485f22b5dc37b2",
       "en_sha256": "fa9b6e35891d9f9ebb701da784c55d9b1f909f00181bc1f3ac3991c2aec1003d"
     },
+    "dataList[id=MirrorWorld_Story_Title_P10805].content": {
+      "pl": "Lobotomy E.G.O::Chlupot: historia Ishmael",
+      "kr_sha256": "3aef835bc028274dcfd26dc678ea6ba24788775484d36e40ce1a94289cb1fa11",
+      "en_sha256": "97c3c8e5b5f6f854a4f1507485edba89e444b5b6c5d09af67840e042fda99f2f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10806].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Liu: historia Ishmael",
+      "kr_sha256": "9d70e57c319d0b591e2abebfe3ca0a16aa22c70f29f41c606779e91526d28e57",
+      "en_sha256": "af4d24036fcf1a91558d630ac3624c2ba268a255287d19e7f0034e6053ad176d",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10807].content": {
+      "pl": "Fikserka Stoczni Trzonowca: historia Ishmael",
+      "kr_sha256": "6b1ab0a898bed519bf7cc13a718b2cc1faef9214b4384ddebc26cefa05774da5",
+      "en_sha256": "30f715ef97ede75cd0812e55f2854c63095a1daba22e88a89ab3367085b62632",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10808].content": {
+      "pl": "Kapitan Pequoda: historia Ishmael",
+      "kr_sha256": "54f21f93dca958ecaf5c9a6f9c449a5cc50c917f32ae3febf973e2e1e14d46d9",
+      "en_sha256": "a45d206196d6a38036d21c7cb3c6c753ae92e8764fe15a4d93103e09ded37f0a",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10809].content": {
+      "pl": "Kamerdynerka Rodu Edgarów: historia Ishmael",
+      "kr_sha256": "773474410f53d2f24f193278782d12e841279deedc08426d3e4ea26930848a94",
+      "en_sha256": "68e7a363bb94f4b1bc5423a207d52a6e857467860c611e6a9252aedbab8b8a5e",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10810].content": {
+      "pl": "Zachodnia Sekcja 3 Stowarzyszenia Zwei: historia Ishmael",
+      "kr_sha256": "6db16e7936005ce82049d1fb2e9f008f8cef0c0c7d8c324a39d3619f85249354",
+      "en_sha256": "48fbb257e4f7209c39d683623abf96665b0b40f3081bd19490404dbc0c38bdf2",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10811].content": {
+      "pl": "Kapitan Klanu Kurokumo: historia Ishmael",
+      "kr_sha256": "028f36a699ddc4077b9fce9a83c8009de69495fb34e5196b008dee89488361d2",
+      "en_sha256": "a0c39ce019e71a8c48218966900103dcb541b81415116343e970fbc9b2445484",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10812].content": {
+      "pl": "Kandydatka na Głowę Rodu: historia Ishmael",
+      "kr_sha256": "f546df3f01682bdec74ed868ccdc219ea49b975763ddb367a6d5b6680a74ed22",
+      "en_sha256": "1714f5606e6433011e558f5a0c9d4c90926d8901d879e6a21bdddd824dac0cb7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10813].content": {
+      "pl": "Szefowa Biura Jeonga: historia Ishmael",
+      "kr_sha256": "77d3ed9c3b062b0bf8227a996cf3a69e728679758b22b807fc1da993e6aed6a3",
+      "en_sha256": "df5a4247ae9cd518bb2b181507a722cfbfdff02e424313db09c07be84c03958b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10814].content": {
+      "pl": "Dom Pająków — Uczennica Środkowego: historia Ishmael",
+      "kr_sha256": "3e1c8003019dea909fc53cdf14820de79cee0e830dc7e73c31d331d987c48df7",
+      "en_sha256": "783b2fcd6bc96f889a4c99541ce3071d27aa7aced0a00ec96dcb8463d37280c0",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10815].content": {
+      "pl": "Zespół Śledczy LCD: historia Ishmael",
+      "kr_sha256": "494b97f01eec34d6d3ab1ca966911558630b17ecdc55db17cbcd6f5f37aebb23",
+      "en_sha256": "9139d829bffb6ed3ec36ab7a226cf1a102362318d52314cd1a2ffbc875f3623b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10816].content": {
+      "pl": "Haute Couture::Boutique du Rouge: historia Ishmael",
+      "kr_sha256": "178a5f372585f5e930a2eb9120b90d2cccfc6dd2173bfb448d9a2851a59a78cd",
+      "en_sha256": "88eede0f4ca91e83c2bdb40c584085fa0c64d21612691b6755e79c2aaea569f0",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P10902].content": {
       "pl": "Wakashu Klanu Kurokumo: historia Rodion",
       "kr_sha256": "8a1260f3b3cfb0a414b2336d409645834bfbdd9a21061326fe849a8014018de7",
@@ -129,6 +723,84 @@
       "pl": "Średni Młot N Corp.: historia Rodion",
       "kr_sha256": "e0c368ca85cf925be2e3aed779f92f9ccab541e2c6d463ea3df6a38df213618c",
       "en_sha256": "819daeb11258043250ae89ac8a727663e0fde0ac0dd3c0de293f04845938fe69"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10905].content": {
+      "pl": "Szefowa Warsztatu Różanego Klucza: historia Rodion",
+      "kr_sha256": "a91df0815113f3407145c7fa88ea3878a17e8d598a9a57c09b9347d7523e2143",
+      "en_sha256": "cf43d34a07c1a342e2e0d54e31a74d8c1f2750f2d06f800a25b34c208cd71d0a",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10906].content": {
+      "pl": "Południowa Sekcja 5 Stowarzyszenia Zwei: historia Rodion",
+      "kr_sha256": "52d6f8b9d91cf2c124b8695524b09dfe752772d6e2b651d089e389fc1a12e52d",
+      "en_sha256": "b545cef980cfccc9a466f5eabb7e009642b8354549f08afc3170de42f35a8a98",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10907].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Dieci: historia Rodion",
+      "kr_sha256": "75360c2364d880b8ec0245b1e4edbeb1273ea74bc372298e3f29be292cde2b6f",
+      "en_sha256": "03ee8e4a7ade3bbbbefc262d7a43c52f3f11450084e580380e6266a4c37fdc46",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10908].content": {
+      "pl": "Dyrektor Południowej Sekcji 4 Stowarzyszenia Liu: historia Rodion",
+      "kr_sha256": "51195a1c06cb2c6c84a79d98b961cde66627fb2d9de96395971cd05f7c10e51e",
+      "en_sha256": "4e0e1e985e7e196d140ac048cba1aee453fb696629a3c364db3484a0f780656c",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10909].content": {
+      "pl": "Poborca 2. klasy T Corp.: historia Rodion",
+      "kr_sha256": "91474e7b9305e479cd129eda38ddc0933ff848bc4836d2eaafad998940bb3def",
+      "en_sha256": "d14a4ee0daebc051689c01a2dd89cc30c5ca616185ecc7bba9d0374f64bbe210",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10910].content": {
+      "pl": "Północna Sekcja 3 Stowarzyszenia Diewiat': historia Rodion",
+      "kr_sha256": "9c5f6d82077864cdda8834076803e20038e2d1c885fc60dd38b9e928fdcecfc2",
+      "en_sha256": "6b0497951ba002cdb63c6111d9ef264342218be58d08d8a296e1c6429cd8bb60",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10911].content": {
+      "pl": "Księżniczka La Manchalandu: historia Rodion",
+      "kr_sha256": "1c121675b6fae649f75ca718db855b50870b92358a921c567d405faa9fef4c51",
+      "en_sha256": "bf5a1ee6b713cb0e03891a406653b8f8a766a0550752e221bf1006d485e22a7b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10912].content": {
+      "pl": "Wataha Heishou - Gałąź Si: historia Rodion",
+      "kr_sha256": "af4d64cfd9aafadd63659670619e7a85ed1148a38e15c1a4de525aba19db9173",
+      "en_sha256": "4363ae620db871b6df392d937f77c9c4fcee4c72c0e6a2160b8c059c9cca7ad8",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10913].content": {
+      "pl": "Lobotomy E.G.O::Miecz Wyostrzony Łzami: historia Rodion",
+      "kr_sha256": "2dd24b3d9b4a627bc186cfbc9e9c83c3a117d093baafb3e51965d202930d90d3",
+      "en_sha256": "fcc3b2638af3a9222f28f4722fc3464f20d9ae69a1bc7e67d4e4fffab78d9e75",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10914].content": {
+      "pl": "Zespół Reniferów 4. Stada R Corp.: historia Rodion",
+      "kr_sha256": "4f6c6f8417f2d85dc516063606946f920e6b7b5d900349ea6597eb34a2a2dba8",
+      "en_sha256": "2f88b21c82f95db0264ec4692e0c518f2c26de91681d9decc6341f5961e29afc",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10915].content": {
+      "pl": "Docent Fowizmu Serdecznego: historia Rodion",
+      "kr_sha256": "efef7061e767246255212e16cd2b6c9041c52c589fb4753e20de814a2c7c2731",
+      "en_sha256": "2bf468ccf0d30625065e415015541c06e875bf46a70d4b82ffe4911d38085fc6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10916].content": {
+      "pl": "Dom Pająków — Matka Kciuka: historia Rodion",
+      "kr_sha256": "bdccb213b43b2d7f8530ff40ffb927bde536f4b8d692ea26321c118778a70b05",
+      "en_sha256": "3e15152e611df5f290365700f177fc7cc824bc68c54b96853940bdf1622e03e0",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P10917].content": {
+      "pl": "Haute Couture::Pracownia Poprawek: historia Rodion",
+      "kr_sha256": "9cadc201c0fb615643a4423cde170f49a1166df3bb18e34ca7f60e5f45426bbb",
+      "en_sha256": "e8af02e38e20d10113926240e0f636a408ee2a2eea04ccc87cb2cd6312b28484",
+      "origin": "ai"
     },
     "dataList[id=MirrorWorld_Story_Title_P11002].content": {
       "pl": "Salsu Rodu Ostrza: historia Sinclaira",
@@ -150,6 +822,78 @@
       "kr_sha256": "4a2987fd8b38eb3c5dfdd3106de5316ea3d75d41244bfdbb4d0a60d47f9265bf",
       "en_sha256": "0882a83f5ffbb2b1de1c88b7787b1a947f61ac454138a7c3bdc68a9732c7862f"
     },
+    "dataList[id=MirrorWorld_Story_Title_P11006].content": {
+      "pl": "Lobotomy E.G.O::Szkarłatny Talizman: historia Sinclaira",
+      "kr_sha256": "7306f852f0321f16bbf0f8a5c4aa3936aecd06a6120e05d210e57b4e78e579fa",
+      "en_sha256": "ee7c3ad0348887c233f10a5b7c0abfe2274837d4950a39d5d176fd0fa4232c04",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11007].content": {
+      "pl": "Fikser Stoczni Trzonowca: historia Sinclaira",
+      "kr_sha256": "136c7d7822668e6f1bbc2d8029ecd7abe36e3b6f88b37b4b1026a81088763a60",
+      "en_sha256": "3f0a19f9c2d7f34de6b42f5ddeda92759a3a32e250d12eb9e42942706485202e",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11008].content": {
+      "pl": "Dyrektor Południowej Sekcji 4 Stowarzyszenia Cinq: historia Sinclaira",
+      "kr_sha256": "1dc60c66c1ff95f6760e5bc65626d0dd9747d8fc9574261cc0270cfcf4e61cf5",
+      "en_sha256": "29029340c7d493b07dabbea2558659e3a310ac1c4d7abfad4c36240df226683e",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11009].content": {
+      "pl": "Fikser Biura Świtu: historia Sinclaira",
+      "kr_sha256": "4b8338e773c464858075355ab58a6b126bca9c8277dc8552b17c8a71d7df1df4",
+      "en_sha256": "77e59144025b91864623c4d2abd44bad7e36dc296ba340a2d3e367950e94ed91",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11010].content": {
+      "pl": "Zachodnia Sekcja 3 Stowarzyszenia Zwei: historia Sinclaira",
+      "kr_sha256": "e8345194ac336cacb516b639cce16c11c31c82ae08c30cc75c79f92e7f92d03e",
+      "en_sha256": "e6a54ad2cac20b63b4b33538673362970b64991492b5b9e39f25e6251c4a0232",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11011].content": {
+      "pl": "Północna Sekcja 3 Stowarzyszenia Diewiat': historia Sinclaira",
+      "kr_sha256": "896319b91f18bb45c8a08cb923785017967814c408cab09855370e6a21da191b",
+      "en_sha256": "fddac903515ddb069dae0825eed41ce8681ed52210cd80d2c26db78081b562b6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11012].content": {
+      "pl": "Młodszy Brat Środkowego: historia Sinclaira",
+      "kr_sha256": "e579da37bf0ff191b575c427a782494f1f66e3b60a4303014e4d6480c982e546",
+      "en_sha256": "52d9c835e1c93da5fd846520e0a63e9cb369480a46d452070d8bdd5623d1a59d",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11013].content": {
+      "pl": "Wschodni Soldato II Kciuka: historia Sinclaira",
+      "kr_sha256": "b687212b9b4830fe501a10f7c2d9b9e3fe228d586b8c326c6a1b9a5af05e4f6f",
+      "en_sha256": "b1ee64570752513d192996c148c3ef85eef4a57327c7d0bff854cc2759b993ad",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11014].content": {
+      "pl": "Wataha Heishou - Gałąź You: historia Sinclaira",
+      "kr_sha256": "f5b0b2afccf7832fd719147247e0d8ab60593adeb019575572345179ac71c5ec",
+      "en_sha256": "639ebabb0804b83b6bef4ef412909dcfc64e6ef5b11efac7cf9ef7495ae34763",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11015].content": {
+      "pl": "Dom Pająków — Uczeń Małego Palca: historia Sinclaira",
+      "kr_sha256": "599282defa874a05bb885b9475380161b1100e9f1ae91c42a28b6f2697cdd640",
+      "en_sha256": "15919f3c23f0322b226c08c69e40ebfd91d3f3e0cdde1888203f24b9729154dd",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11016].content": {
+      "pl": "Haute Couture::Szkarłatny Bóg Le Rouge: historia Sinclaira",
+      "kr_sha256": "bcc0f1c9f90244cab6f3f315f2225745daeb938093f4732d05ceff8500f9bb05",
+      "en_sha256": "272c063fb5bd7fc4b2d6668ada995e20f464354fdaa606edbb9cd6293feae1f0",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11017].content": {
+      "pl": "Fikser Biura Klina: historia Sinclaira",
+      "kr_sha256": "c4ff105b0fe100b3b6a79ede9732f378c89afec771bb3f41eb7684c4774826c9",
+      "en_sha256": "f9139a8f359a760c41771632a7a210981271d66be3bab07fc3a3613df3ff8a86",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P11102].content": {
       "pl": "Salsu Rodu Ostrza: historia Outis",
       "kr_sha256": "e5be672f44097afa55322c91f0e197f81931f919bb89c07ddcd02ff1425e6bc3",
@@ -165,6 +909,78 @@
       "kr_sha256": "4f82c739790f1230f95d3b57ae96f908ddced9c51d7f081265875066f9c5174c",
       "en_sha256": "549e9cdb761b26b08e0c138c3b6dd7e716f8395c28710dfe0dabc684d2e0147c"
     },
+    "dataList[id=MirrorWorld_Story_Title_P11105].content": {
+      "pl": "Fikserka Biura Trzonowca: historia Outis",
+      "kr_sha256": "3d0ef8a1be9956546ea18e33ded049b7d17ce7be0b601adbab083d5156b2eb43",
+      "en_sha256": "b01b4da0d50f04863063efe06fbf3a46607d29d0ded6edf89eaf83dd0ff2538b",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11106].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Cinq: historia Outis",
+      "kr_sha256": "3f8670b12aeaabc4c473b05cfb4991993b13317d51539be05b8d4750204a2689",
+      "en_sha256": "81afea5c258672ce272713b298511d036935f6edcf002dd44bf555bbe5e3c06f",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11107].content": {
+      "pl": "Lobotomy E.G.O::Magiczny Pocisk: historia Outis",
+      "kr_sha256": "bfc859faceef1965360f95b5986470ca16cf101c40b0d34703f37bd6a3d8551c",
+      "en_sha256": "7d81dee4ab3db9db48c46d08625231930c2bd3fed9b6e5df67a50d752f1942cb",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11108].content": {
+      "pl": "Główna Kamerdynerka Wichrowych Wzgórz: historia Outis",
+      "kr_sha256": "1c7195846a081b71450216c351cd6f907682f0c312b503f42fa39d4de4cfe4c3",
+      "en_sha256": "4ca766cf914604bed87facec55effc00129cff9e51dc8d0ea9a4d31b6bfa73f3",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11109].content": {
+      "pl": "Studentka Pointylizmu Serdecznego: historia Outis",
+      "kr_sha256": "7d362c2123f617a5ccc1050b967bd7cc8ee6a5a32a8c9af5b173557267498871",
+      "en_sha256": "999a5e910d62d3b6f07772ab9abbb378ef6c56e0c9cbc5b2d1e86af54fec4605",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11110].content": {
+      "pl": "Kapitan porządkowa 3. poziomu W Corp.: historia Outis",
+      "kr_sha256": "d8e0ffd55597db11965c0ef2ba4ba88b5615a9816a4a5263808056d19dc982f8",
+      "en_sha256": "a872d943c8bdfa08dfa52bc610e99065d974b7729d990a33f11079c2c33a7988",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11111].content": {
+      "pl": "Cyruliczka La Manchalandu: historia Outis",
+      "kr_sha256": "9eff17540cc991ad90150cacff151a376013b4a25d4699898dedd6f00a7bdb9d",
+      "en_sha256": "5c659aa9c5d415009006ea25c42cb9afe1e3f9d4b22ce5404627cdbb3c457eb2",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11112].content": {
+      "pl": "Wataha Heishou - Gałąź Mao: historia Outis",
+      "kr_sha256": "39f9a8226cc6350c797ba6af14e41385716a2b074cde00da30ce6e6bc1d46ac0",
+      "en_sha256": "1ade56c2065b6613fe9dee9aafd71bde7f13692d12242fc27402723268efbdd5",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11113].content": {
+      "pl": "Egzekutorka 3. klasy T Corp.: historia Outis",
+      "kr_sha256": "c64cf6c3b21dd3a00d7b5e189c917b6afa1c3c6d7e95c702d9671ddee36092e0",
+      "en_sha256": "c694b729ed29f20e155b45f260e855887c706fef3115619535fe5b88d04312b7",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11114].content": {
+      "pl": "Dowódczyni 3. Zespołu Szpicy Udjat LCA: historia Outis",
+      "kr_sha256": "da2f8bbf68a94d6fa88864d6746d0245f7691869bda8b54dde948a868eaf274a",
+      "en_sha256": "8461a4e9a6eecf514e2390f0b4b51edead4c0fd4ec7685e00fb20452cf058596",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11115].content": {
+      "pl": "Dom Pająków — Matka Środkowego: historia Outis",
+      "kr_sha256": "a1923f49ff9147f655789152a1de61e7c48ed8ce6cbe5a99a453daef81606a59",
+      "en_sha256": "dfb26c040ba63a67254ad96024a5c25474229c3c381f355caf83264d3573e7ac",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11116].content": {
+      "pl": "Szefowa Biura Klina: historia Outis",
+      "kr_sha256": "cecb2fead05bcdec9b928cad692f36c007dea5233da5e1401d6de3ed69df553f",
+      "en_sha256": "098fc2f4732d2af924e0c1d48387005e8cb7efc7b2e05f83de8fc079cb92cac1",
+      "origin": "ai"
+    },
     "dataList[id=MirrorWorld_Story_Title_P11202].content": {
       "pl": "Południowa Sekcja 6 Stowarzyszenia Liu: historia Gregora",
       "kr_sha256": "44554eebfefa1a95d83398a3e72ae815d19020ef025c78b2aed9a5afcbf4f8d0",
@@ -179,6 +995,84 @@
       "pl": "Pomoc kuchenna R.P.M.: historia Gregora",
       "kr_sha256": "bd6d9e7cf734a4feba21101202086bbb7fff2d6314f344afaa06d9829198279c",
       "en_sha256": "447bbdd3feaf9265d936fda5b4e1b9dba7e08665ee13d60ed1ad9ed1b6eb1096"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11205].content": {
+      "pl": "Fikser Warsztatu Różanego Klucza: historia Gregora",
+      "kr_sha256": "054e43ac3ce84c37e94f1ec9959e2edb2a5f82150fe8676abd28046ae17d75ef",
+      "en_sha256": "0ec1c319871dc10ff87a04525d103163d8b0f1528b583b64c894b1a9e498857a",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11206].content": {
+      "pl": "Południowa Sekcja 4 Stowarzyszenia Zwei: historia Gregora",
+      "kr_sha256": "e696cb1fd237ea1666bb79ece9ee67df2fca35d7bf91ff247ebbd25c2a00baec",
+      "en_sha256": "df1aab273041373ed406639f5a693504b49081449aa38bd12f509344d8c34b53",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11207].content": {
+      "pl": "Pierwszy oficer Piratów Podwójnego Haka: historia Gregora",
+      "kr_sha256": "381c46a64ca4d2cac8827ecb6082a8e9b001d95ff730b01850549241ab74de6b",
+      "en_sha256": "ea5418b58b5711fb6857ee1e9614d8f3d4064894dd832390a3216eeb36386776",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11208].content": {
+      "pl": "Kapitan Klanu Kurokumo: historia Gregora",
+      "kr_sha256": "b7a809a487392839334eeb44b7d4ee9ef075032b8769a4fcc76808feb05e0816",
+      "en_sha256": "3f075b66fe824889eef2439630e1e674b12f7e7da000a1bdc56726688242f992",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11209].content": {
+      "pl": "Dziedzic Rodu Edgarów: historia Gregora",
+      "kr_sha256": "118d5d8379b4d18fe17156988af184eeb11cb5a7bbfc022c3cab649df4e0965d",
+      "en_sha256": "56fa34df2d0c547d184f4b9dcc6d01a037412e791bc6cb62cab959ddf9d00782",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11210].content": {
+      "pl": "Ksiądz La Manchalandu: historia Gregora",
+      "kr_sha256": "05c1bfc9ebce68075cecb36bbcdac98f8326831034d2ce82f32842bc21077da8",
+      "en_sha256": "192fd1f7a22e70dda126d71648f0369ec9da1dc8f0f593b84d57cdf3de395942",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11211].content": {
+      "pl": "Ocalały z Biura Ognistej Pięści: historia Gregora",
+      "kr_sha256": "8c3b5e88535fd6483d1b75abe50adf0e637365238db0507556eb8dc5740a36c0",
+      "en_sha256": "59b515a478b17611d9340e35fc8a7085c5265231df22bdf8914def2ca4442533",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11212].content": {
+      "pl": "Wataha Heishou - Gałąź Si: historia Gregora",
+      "kr_sha256": "28f47d6140b4db86796c163677e35506e921ceb66ade81fd995a66cc064f5209",
+      "en_sha256": "6fe5b1fe9b0f4fbb9b8ba126bf158756ca960fa9568bce84813b96fbce1198a3",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11213].content": {
+      "pl": "Capitano Nocnych Szydeł: historia Gregora",
+      "kr_sha256": "f804aaa1a1d0644345240570945e6b8cd0b1c7613233b51b73b9b98d05b1646c",
+      "en_sha256": "5c3d2a99f8da9effca1e97e2fba7da70565e505fcc93896cf68abf8f754214dc",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11214].content": {
+      "pl": "Lobotomy E.G.O::Lampa: historia Gregora",
+      "kr_sha256": "71d8f3f6fd1127f9610bc6b180e7f0b894b744fc7e31949f20eabcdc0e9e919c",
+      "en_sha256": "46343c320674c26b7eda82fb9518266a659964a47176281a7370c507a193b6eb",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11215].content": {
+      "pl": "LCE E.G.O::AEDD: historia Gregora",
+      "kr_sha256": "8f4993c021ba1ea816667a5b4bf69bff31a0a671fe523d57738d617049aa85a1",
+      "en_sha256": "8e86ef6ec9b21b5168f92b5b9510ec5e794cf55f1c66054e52d988722d0a2b59",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11216].content": {
+      "pl": "Szef Biura Świtu: historia Gregora",
+      "kr_sha256": "723b26e47e60e4df83770642945675dbc8850eac69326a3036a3829f49378f06",
+      "en_sha256": "086ee050fe473ead4b9a23c8216f8d3b26ba5a44a8a57f2be91b5cf634e8fdfe",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld_Story_Title_P11217].content": {
+      "pl": "Haute Couture::Gniazdo Pasm B2F Le Rouge: historia Gregora",
+      "kr_sha256": "b59aaa1dc54668fa0e8f236842cc387f36bb5808a14f03d7c4f815e21400b978",
+      "en_sha256": "202eaad05fd4a12611ffeb3629a5bba69f12ffa7da72b54fb1541f11fdc778d7",
+      "origin": "ai"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=60101].desc": {
+      "pl": "- Nakładane efekty:\n • Monety umiejętności ataku podstawowego oraz kontrataku zmieniają się w Monety Niezniszczalne oraz zyskują premię do Mocy i obrażeń\n • Jednostka nie wpada w Oszołomienie przy trafieniu, a jej minimalne PŻ zostają ustalone na 10\n • Leczy PŻ o część obrażeń zadanych umiejętnościami podstawowymi\n- Nie można wybrać jednostek poległych, niekontrolowalnych ani niezdolnych do działania.",
+      "kr_sha256": "fa091e9e0211251526fd6317a186d403421f87c470743f827a379a21b73c8bc8",
+      "en_sha256": "8a8489fcbca3ee5134c0cf971b460991624c76f2059f1db417379231d68b27d8",
+      "origin": "ai"
+    },
+    "dataList[id=60101].rawDesc": {
+      "pl": "Wybierz 1 postać, aby wzmocnić jej zdolności bojowe.",
+      "kr_sha256": "6e00d283e465efae18d7bc4a790edf087a7a4a5447959b437c043ec6f3298a29",
+      "en_sha256": "58cf6cbb0c914dc3592cce1b500251c29e2c6b9ab6ceb5db078cf4a1cf6d35df",
+      "origin": "ai"
+    }
+  }
+}

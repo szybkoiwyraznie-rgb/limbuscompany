@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=10539].desc": {
+      "pl": "Przebiwszy się przez morską mgłę, wpłynęliśmy na kruczoczarne Jezioro.\nJezioro z legend opowiadanych przez Ishmael. A pośród jego wód…\n…czekał przejmująco Blady Wieloryb.",
+      "kr_sha256": "665d58c9dfadb881b7088a331e486eac27e1b6af0ac0799f23b4b866f18562ba",
+      "en_sha256": "adff744be1168659931201852e984d71a546c1d2802d51c6c44e87ac2b628959",
+      "origin": "ai"
+    },
+    "dataList[id=10539].place": {
+      "pl": "Blady Wieloryb",
+      "kr_sha256": "d2a61a98bff92247e186a5be84e6bfc90293f7471dbebc0541257b065fe19a5b",
+      "en_sha256": "bcfd3bdd42d1e401042228493d52381b533a969fe287aaf7436d9945b33cbde4",
+      "origin": "ai"
+    },
+    "dataList[id=10539].title": {
+      "pl": "W Kruczą Czerń",
+      "kr_sha256": "bef3500b0392b39c2c7a3f42f340dfd91d8ed2a4e36509eb9eda28bca80cd4e3",
+      "en_sha256": "1625285a398cccaed3d913c8dcd4772c2302db0bc7e915539e913004e00cce7a",
+      "origin": "ai"
+    }
+  }
+}

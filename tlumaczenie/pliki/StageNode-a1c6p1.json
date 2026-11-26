@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=10601].title": {
+      "pl": "Wichrowe Wzgórza",
+      "kr_sha256": "4597398437997bcde19b5a979b586f1d1580f1ffdb0bb588d8910d9bd897a97b",
+      "en_sha256": "404fcf69f65aa086b9797b4b9794c128e8102b48b7ea4c5afba4a8363ecb63db",
+      "origin": "ai"
+    },
+    "dataList[id=10602].title": {
+      "pl": "Nie ma CZASU",
+      "kr_sha256": "9072675641ee355f5a97fe568fe7114bd0ca4029ea693b24284c03e8a5967b67",
+      "en_sha256": "0bc77c0df106f12320d558173313b7002e0cc4228d85b864bce4239e6719fc72",
+      "origin": "ai"
+    },
+    "dataList[id=10603].title": {
+      "pl": "Nie ma CZASU 2",
+      "kr_sha256": "b631e174822dc9267250143eec652640a1aff9408c93336c9e2684fa6fd130c7",
+      "en_sha256": "2022a8ade6f168959007ccf7981d4ddf4ff10e3acfa77c6a273994252fe0da1d",
+      "origin": "ai"
+    },
+    "dataList[id=10604].title": {
+      "pl": "List",
+      "kr_sha256": "53bf9898bc47c0e12c0277160b8d14afa77d33d3c39fc7dc212404089b723414",
+      "en_sha256": "fa7aa0f23302058f056c292438bfc91b64f223298e2482d5db8bf963f13397b8",
+      "origin": "ai"
+    },
+    "dataList[id=10605].title": {
+      "pl": "Barwy",
+      "kr_sha256": "3d409d9195a6290324776e4f03d74fc323b7e64aa87ed70ff14eda7f3afbb66f",
+      "en_sha256": "88f20221cac178c4cb45bf353b7fdd325e6c48386d2e0509f20ae684c0c0938d",
+      "origin": "ai"
+    },
+    "dataList[id=10606].title": {
+      "pl": "Przemiana",
+      "kr_sha256": "02811aa00bd792feb1d3e2bd224f86d86633c7e0699692d30fc59e08147e7357",
+      "en_sha256": "c7b7f2f3d6837694147f1b589253d16fcc56de26ff9c2decd513b95aa0471dd5",
+      "origin": "ai"
+    },
+    "dataList[id=10607].title": {
+      "pl": "Brama Główna",
+      "kr_sha256": "ade1526c0cab5d44f2d19224921d7dc416003efecc5152d0d85907e90538e88e",
+      "en_sha256": "841c01047d2de69bd2a9cae07faa24015a41095d82c07777cce6293b3ae64539",
+      "origin": "ai"
+    },
+    "dataList[id=10608].title": {
+      "pl": "Nelly",
+      "kr_sha256": "c595b92faaa82b9c4cfbb8608364c59f25047b940cc6b41465fdf55b3c2895e4",
+      "en_sha256": "35bfdf65c705f454159c6d84e368245c7e1c0787c9e60d63da36a54b6f99df79",
+      "origin": "ai"
+    },
+    "dataList[id=10609].title": {
+      "pl": "Gorące Powitanie",
+      "kr_sha256": "87a19b97b79dbbb7af7baa50ef0b429eb471dc6a70852a0e7449d1471891aa47",
+      "en_sha256": "3e4df9630c5a6c4eeae02112f0c348cb30b889681e8de77632f58e28f989b9de",
+      "origin": "ai"
+    },
+    "dataList[id=10610].title": {
+      "pl": "Catherine",
+      "kr_sha256": "f7ee8ff6d70cd7f7d972f9e88795f25e99aed81b82681aeab608e306dce7382d",
+      "en_sha256": "96f12b28d735c75378017acc8db6e1881cef8f6c8a8ef38666951f69b6738933",
+      "origin": "ai"
+    },
+    "dataList[id=10611].title": {
+      "pl": "Kamerdynerzy",
+      "kr_sha256": "7e391f51bf47f8714609fa5b215e64ec78a8e1ceeb3361788c2556d02d97664e",
+      "en_sha256": "07788a09ac8aba35152f38c00921ab10e15bf313555d5d7e2cdfdf1a3fa2c072",
+      "origin": "ai"
+    },
+    "dataList[id=10612].title": {
+      "pl": "Zjawa",
+      "kr_sha256": "e5bf04bab979b47b0926fed9d7a0d00981f535c62b1f6a7db1c6046847f0c123",
+      "en_sha256": "5c5ff27fa16a95c432944c27779a52fdd42c9c38889c4bbb670c1e4cbba9574e",
+      "origin": "ai"
+    },
+    "dataList[id=10613].title": {
+      "pl": "Zagadki",
+      "kr_sha256": "4a3c3cfca25fa7331d0ccada3830c59ed08c9a5edd737fdd6086c132305738c8",
+      "en_sha256": "df9fd66cf05f3dc9c5e71705771d3ae65241b7a4b7b51c9988e2fcf56112bdc5",
+      "origin": "ai"
+    },
+    "dataList[id=10614].title": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "1810fe3ef3d057cb76f84c8555d62488b3e3b4623565b5b27fa5ffcd9ead7c39",
+      "origin": "ai"
+    },
+    "dataList[id=10615].title": {
+      "pl": "Korytarz 2",
+      "kr_sha256": "fb23e3fb315bc1166ee63e9f1bb5a89a862505eff6b27e8aaaad5491b9cb2b33",
+      "en_sha256": "18c54c82ea7e634f01f2390ab5bd57ba05250e7b70ac24d0f311a466f2aee237",
+      "origin": "ai"
+    },
+    "dataList[id=10616].title": {
+      "pl": "Korytarz 3",
+      "kr_sha256": "9c02322991e7b13a768fb3cfed197b56c757b65875e5711e90ae21b781f56d26",
+      "en_sha256": "1a2e86a7b54a0ca4d31c76ac162fa3ce196664f39f5f8c672c33f3ad83082977",
+      "origin": "ai"
+    },
+    "dataList[id=10617].title": {
+      "pl": "Martwe Króliki",
+      "kr_sha256": "da1f3b99894b83ff9582be8b9930c4b8472c4988fb87bfd4d0aa87f0ea0f1392",
+      "en_sha256": "4246282a2768bf4b4c49cf10fef3cd4ed760aa6fb121c4f7faa661e227121bb3",
+      "origin": "ai"
+    },
+    "dataList[id=10618].title": {
+      "pl": "Martwe Króliki 2",
+      "kr_sha256": "19de0193d35a29ec5de0094d3dabd4cb95dd50d3f361d9b7ea27cbd2f3c3c92e",
+      "en_sha256": "8ee51a07e9dc0867bec86ec4d354aff60f2a32260e3c57ad5def75a61bea0fae",
+      "origin": "ai"
+    },
+    "dataList[id=10619].title": {
+      "pl": "Pamiętnik",
+      "kr_sha256": "d73bbc49d69da0737e2f87be0c73c06291e0c08c635c2bbccfb832713ba6b112",
+      "en_sha256": "8607ad5508eb978057bec93db5f8086a0bf007fbe32a01cb605eb48e74e44351",
+      "origin": "ai"
+    },
+    "dataList[id=10620].title": {
+      "pl": "Pamiętnik 2",
+      "kr_sha256": "a06dfcc8f21d9e2cc7c292a473cf6829dfed53088638c5ae57da5b91b235a69a",
+      "en_sha256": "e58597c7004445610dc03d812d26eb357a35484e2b42f5d631835ed6c9f7f496",
+      "origin": "ai"
+    },
+    "dataList[id=10621].title": {
+      "pl": "Kominek",
+      "kr_sha256": "1716342cb704a5de266ad403fd1b24df557de8bd6ef0b9867adc42b30abed50f",
+      "en_sha256": "4e114caed82768ee883331edefa4143c6c0828e73cedc134fd395a4b47415ffd",
+      "origin": "ai"
+    }
+  }
+}

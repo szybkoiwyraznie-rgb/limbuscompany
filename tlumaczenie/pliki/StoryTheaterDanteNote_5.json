@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=Armory].content": {
+      "pl": "Warsztaty",
+      "kr_sha256": "5b31d6464caa0c326ac81d483bbff2501fa9aafc9a0172e4ca4bf12b198dc1fc",
+      "en_sha256": "1e96eaa7aca1dc57ab21c1e91aa388abbcaa9825b2ca094fc53113d0a327f278",
+      "origin": "ai"
+    },
+    "dataList[id=Creature].content": {
+      "pl": "Potwory",
+      "kr_sha256": "08feb6967c3d2f28e8cfb0e05114c510edbda4fb84700f06ae448a85a54f9308",
+      "en_sha256": "31e590820f062bde9bc31e8e5615956b8c2de19a6a1b684224ffce68d582a2ca",
+      "origin": "ai"
+    },
+    "dataList[id=DebatyAsso].content": {
+      "pl": "Stowarzyszenie Diewiat'",
+      "kr_sha256": "d30edc3768ba81749fe16f2b0a532e5ad0a19d61cfbe980e1f4889eb2e6b18c8",
+      "en_sha256": "c3b5119c1234b6896e33264f4fe2910f2df07770e7ddb3269c57a8a559cb3ca8",
+      "origin": "ai"
+    },
+    "dataList[id=GreatPond].content": {
+      "pl": "Wielkie Jezioro",
+      "kr_sha256": "77c59a42d00d51edd47b740334e2d99fd33d208467195173050d329a13be2a85",
+      "en_sha256": "efe029cee0cde494a606cb8d5e2746eb233183b8744013a7b8c9d3b4f73f5c7d",
+      "origin": "ai"
+    },
+    "dataList[id=Library].content": {
+      "pl": "Biblioteka",
+      "kr_sha256": "9ee22c8536d3503a4b1c9e07c0bea64b8b9c23db30be927a46fa52c29f67022e",
+      "en_sha256": "ed1b5ec6e515ac6f1ee39bd0437570a93161af6362326b8690cfa4a951830cb7",
+      "origin": "ai"
+    },
+    "dataList[id=MemoryDelete].content": {
+      "pl": "Procedura Wymazania Pamięci",
+      "kr_sha256": "2e19ea13b070bcdf1e061f67e826c7493f662c770b440da7b5adbbd084eefce7",
+      "en_sha256": "76841a6cd78827030e1c58066d067983d9ce7d9834244d7c2f9c250fac14ffa1",
+      "origin": "ai"
+    },
+    "dataList[id=Misc].content": {
+      "pl": "Niesklasyfikowane",
+      "kr_sha256": "d9ff3f54aeca773a68eebf743e10815c0e9322feeb872eae333c8787ce6339b7",
+      "en_sha256": "8d40d123b2e1e296abdb30fe018ab76c8ec3d7fad9d1837db1410b1601ce9b28",
+      "origin": "ai"
+    },
+    "dataList[id=NestT].content": {
+      "pl": "T Corp.",
+      "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
+      "origin": "ai"
+    },
+    "dataList[id=NestU].content": {
+      "pl": "U Corp.",
+      "kr_sha256": "372637739cb8c8cdc37e867cc99294a3511dd72b82533d0ec1df08d3fe556128",
+      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6",
+      "origin": "ai"
+    },
+    "dataList[id=Outside].content": {
+      "pl": "Peryferia",
+      "kr_sha256": "4b245a110eca9395508196060cca23cb7723dfd6590e2d0b43fc67fba6914e52",
+      "en_sha256": "e4f2937757400388ed2458a97a9bd6fa749f0ae63fa570fbd6c8856291fe2c50",
+      "origin": "ai"
+    },
+    "dataList[id=SevenAsso].content": {
+      "pl": "Stowarzyszenie Seven",
+      "kr_sha256": "6acde61e08f3aa5d21bd97b55b73f367388cb465b09a16297dc42f69a577d785",
+      "en_sha256": "2ba80e4455ca4672bef2d6607b9d9e1c263b20cac5f1a5a20be02144f5e3ffc6",
+      "origin": "ai"
+    },
+    "dataList[id=Walpurgis].content": {
+      "pl": "Noc Walpurgii",
+      "kr_sha256": "721a47b63d4017b9cd794700b23c6cf21994f338aee707849d63559b96d918ee",
+      "en_sha256": "108187ba97055be215acdb577c5d14aa6c4fbb713b7cbec17bb3384621325ced",
+      "origin": "ai"
+    }
+  }
+}

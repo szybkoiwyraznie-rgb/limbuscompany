@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=dungeon_1_2_0101].content": {
+      "pl": "Skarbiec",
+      "kr_sha256": "4e6f8f2f7f34bc6d230fbff90bf0926e5cbcba927ab86ca8c86acf32f8ad96ad",
+      "en_sha256": "01a78578d6d97637ef93af0eeb1053c167d9810e0c0907c7bd13b1bba858f5ab",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0102].content": {
+      "pl": "Wejście do Wyrobiska",
+      "kr_sha256": "92f2582d67be0edf204a81a05bb384c64b257e5bcae2adecf97bc8ee4fa191db",
+      "en_sha256": "8eb0c6ec0ace2188ef093242aaccd8d97d89ceb4bcc996d41705522473d68e71",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0103].content": {
+      "pl": "Wyrobisko nr 1",
+      "kr_sha256": "7623394cc6fa53d3cb8cfba3c5aef4445b55cc35799ccc3c1becae35e55ee6e6",
+      "en_sha256": "eb5596c359148fe069a69d2140a90c48879f827457db3b8d3aed1ed8339a3807",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0104].content": {
+      "pl": "Wyrobisko nr 2",
+      "kr_sha256": "01efbd00ba44d70ffed1f71911924128709ab7c9d7e35a6073ebb7eb11d753d8",
+      "en_sha256": "302dd500ee5c6181d476eb3e464fdb5e2567597e2796e61438ac1c1552212945",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0105].content": {
+      "pl": "Wyrobisko nr 3",
+      "kr_sha256": "482a800dce713602c2a205e680e3461f4e42519421467dde254405003f661f76",
+      "en_sha256": "7c3359e25377f6c41d17b1b8b7571bb81e4f30c2ec4d9ca94eca9bb40b1ce915",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0106].content": {
+      "pl": "Wyrobisko nr 4",
+      "kr_sha256": "a4c78d986683620d2feac9f8d6bd5c961bead4c8f409b11da7dc1435b5d320e5",
+      "en_sha256": "0d647712de790a577b3bc1d8b769b8c5bbd5b0f8033e52d047c57b2d9e12989d",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0107].content": {
+      "pl": "Skład Materiałów Wybuchowych",
+      "kr_sha256": "f4f67e09b8e903f6ec444e527b9e6a4ceaa2e914e4b2dd824f7b95faf12c0a7f",
+      "en_sha256": "f02932fe0bef160d80e2d34091e22f0a4ac040aa94d1c67845fd712dcd7787cd",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0108].content": {
+      "pl": "Klatki Peccatulów",
+      "kr_sha256": "c3b8694ee095983d0df92e7262d8ad536d3b90276cf412cbe38a3db075206419",
+      "en_sha256": "5600fa67b81841fc24c933d4e52af71150c83fb915df00101fa27ae9b8226d81",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0109].content": {
+      "pl": "Schron",
+      "kr_sha256": "3b8a2ad0cdec03d2085f3d4e38abc3f60a188bda1f06e485fa7d248d70dd97be",
+      "en_sha256": "cfcd1f3d6aeb187475efdb655ac5b948fcc05c97fac3cef2f07c8563d96da28c",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0110].content": {
+      "pl": "Brama Podziemnej Fabryki",
+      "kr_sha256": "6a7113957b28d6cd87faca4013157e39afc30241852f59c4781f761ab090ba53",
+      "en_sha256": "d062aadac89d0dd34c1e00f84d7e78f051d3ff478acc8096bb79b847ef10dbc6",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0201].content": {
+      "pl": "Wejście do Fabryki",
+      "kr_sha256": "8b71d638667fcc44b0d14364c07b4c953dc3317a61321c6174c5c82db3506f28",
+      "en_sha256": "fbac2c58557ae3f6bda9151073a1ff42e5d9fa95f9d76fcd293b73cb0bdadbbd",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0202].content": {
+      "pl": "Linia Produkcyjna nr 1",
+      "kr_sha256": "e41067aba0ca119e8e4d21b0b4f4eef883f5acb4312f55da4c22b4514c09543d",
+      "en_sha256": "b0d51aeb052a79dd32f4638ecb2c3f74acfbf62f463c51bf5d55953f5cc9071c",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0203].content": {
+      "pl": "Linia Produkcyjna nr 2",
+      "kr_sha256": "31ca011a4db0165e4619b31fb3f83d8903a373ccd12c477d8713251970330ac1",
+      "en_sha256": "5a50580fbff53e8823385121e0a54ec594ad88cb222938c28b6d2d88be3f0ee4",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0204].content": {
+      "pl": "Linia Produkcyjna nr 3",
+      "kr_sha256": "c8ce5f65b02c96a230be43ae58773fe26b996c93ef5024556ffcdb2cc3eb365d",
+      "en_sha256": "a7fb29f408824673be88e72b0f946d89d046b9bef233a9e642b9797bf960e29e",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0205].content": {
+      "pl": "Hala\nOdlewnicza",
+      "kr_sha256": "f912ea62a7fa4de3f0af604152c8e466bb4be7372e1e570ef2755a9127ee0560",
+      "en_sha256": "af093133fa4a35f5f7061baf446d60e08b4df8272679f90ea4a0de7f7343e758",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0206].content": {
+      "pl": "Hala\nOdlewnicza",
+      "kr_sha256": "f912ea62a7fa4de3f0af604152c8e466bb4be7372e1e570ef2755a9127ee0560",
+      "en_sha256": "af093133fa4a35f5f7061baf446d60e08b4df8272679f90ea4a0de7f7343e758",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0207].content": {
+      "pl": "Hala\nMontażu",
+      "kr_sha256": "f210ffb8e430738a039c62e464b40ad0a9e6754cf6f7ef3eda80409c656b8fdd",
+      "en_sha256": "a1798fa3a044f8ce19b234535c72978552525c9376313abae9cdd920d9b66c70",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0208].content": {
+      "pl": "Lakiernia",
+      "kr_sha256": "94091c7f6f7e9aa5b85e8ca4e097019e2fe525cd9ea4293ba767bd7c356392e3",
+      "en_sha256": "c8d7efb8e701f731853b3185c650ecf902bcd7943f9b432369661938fa0b2555",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0209].content": {
+      "pl": "Warsztat\nKonserwacji",
+      "kr_sha256": "31f5bc364fa4bdb3a62f0933e88708239d873708ec0d9ff827884ddbf2c4c2c9",
+      "en_sha256": "e20e823e7193dc895684a59ed9ef34f367cefb404cbd4044a6ee921054b73a4b",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0210].content": {
+      "pl": "Zasilanie\nAwaryjne",
+      "kr_sha256": "e074e9a3cb252c237aec82020a10c9283692265d77ee988a5f30833b821408b8",
+      "en_sha256": "4166d25664a573287dce32f633aba07a4382eb746bde3c43ab7e6dbf1a2f67ef",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0211].content": {
+      "pl": "Stacja Kontroli Bezpieczeństwa",
+      "kr_sha256": "238e5788444aa6ce1fa5b21abefdc8a88281e3c386c446713ef927c52557f78e",
+      "en_sha256": "8b17e0a6a8b92b917948022be8b725ce40930988ef088f0e2dabaefc54de272b",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0212].content": {
+      "pl": "Baza Wysunięta",
+      "kr_sha256": "0e6445873151eca97fd8e5d8e613efb76c6a6edc8f59c8b39e90ad70a487e656",
+      "en_sha256": "60a7b3386f423d349ec43d13e34b1690110982ad56f69d7459132dea843bc1dd",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0213].content": {
+      "pl": "Obróbka Końcowa",
+      "kr_sha256": "77ea05e4f5600a0160404a4bfe02fa5a89d59a2dbddcfc6046ae14cb7d5f8d87",
+      "en_sha256": "e2c104290db829e07b395e7f6b8686a80c0b7e074fcc10bd528627e2b5ca8793",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0214].content": {
+      "pl": "Składowisko Odpadów",
+      "kr_sha256": "2603d822bc49cb0329117ce2385a7b7086ef4a40eb148da3d65efe548f0e49c0",
+      "en_sha256": "0ca6f93c4b58535694ddb5609c7c645a045ec5a48f13473e8138c38831d21cdb",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0215].content": {
+      "pl": "Kontrola Jakości",
+      "kr_sha256": "3d2ff6a77f3fe93e9507c1984667647710569f1ea0e642b473cb25990c164f62",
+      "en_sha256": "da5685ac3f26b04926c98498f17a4bbad41b021a65a2a61230e9c88f4959f294",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0301].content": {
+      "pl": "Śnieżne Rozdroże",
+      "kr_sha256": "c81950be4f7fa7e4befa2f0ca3aa0acea17042ce00e4f1c0258190df0c34ff29",
+      "en_sha256": "2644057cbf1d72e19127e6330fcfe838b6d3c512078289a1e61f03465af95604",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0302].content": {
+      "pl": "Zamarznięte Ruiny",
+      "kr_sha256": "c4d8f14c5fe80730422c5a5298c4fd16e1ac2571ce6d818a11e58ff6a6c0371c",
+      "en_sha256": "4d8114f7aff10872700fe3f82130681a2a86bfd71d0364490fca104418201424",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0303].content": {
+      "pl": "Zniszczona Wioska",
+      "kr_sha256": "7b77cf869552d59bb73c3c5fc5991322665f657d35e1526d3f16de0dbe06e35b",
+      "en_sha256": "cbcd37b5b92db553aab4284c6467580d0a3b0e1a699b8b2cb19a36455be19e44",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0304].content": {
+      "pl": "Pole Śnieżycy",
+      "kr_sha256": "be7d3a482561fd1c141399bc2e185ade307d5dc48ce01e3a094f8c67b98e5ad1",
+      "en_sha256": "6e3f820d9837dde41fa35a2e573d8ab803bc34533317d535ef39889690ffe9a1",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0305].content": {
+      "pl": "Zasypana Kryjówka",
+      "kr_sha256": "d0e03f65ea78f1d9ff671f2b20fd0aa5f5367322f74ff3d7d5fb2241fa75190a",
+      "en_sha256": "1b388b273a617d3e35b6c51bf787e30527ca921df73d3a0c283f54ebbe802021",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0306].content": {
+      "pl": "Most Zwodzony",
+      "kr_sha256": "7d68a905a917124a1406541e243bb05b87fe65e069ecdea784033976896c4e88",
+      "en_sha256": "e21a7b6966bfc463a9c8a7a2b121d5e48b749b699d44d3df5731c2ca58f34816",
+      "origin": "ai"
+    },
+    "dataList[id=dungeon_1_2_0307].content": {
+      "pl": "Zamek Śpiących\nSąsiadów",
+      "kr_sha256": "6e706980bcba3c8bf91983d3997b2a9b3347a2235a2b13bee5cb4d72af1212e7",
+      "en_sha256": "54919774633162a03f4429144d009707275f646d6294f0e50b55bdf65b2b2cdc",
+      "origin": "ai"
+    }
+  }
+}

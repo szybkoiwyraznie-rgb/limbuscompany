@@ -1,0 +1,382 @@
+{
+  "entries": {
+    "dataList[id=10801].stageList[id=10802].title": {
+      "pl": "Trzy Monety",
+      "kr_sha256": "65a137906adf79821212312f0036086ac30efa0469cae3852777b130cab532f3",
+      "en_sha256": "65e2bd1a2bfb660b0a79040e9c4a766f8cabd8757a3a7fd7434d9b7314bfe6ac",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10803].title": {
+      "pl": "Tymczasowy Sojusz",
+      "kr_sha256": "f78c65c9f5e7180bd4dd04dddbd0b9c0296116c3ef6a38d6acf2aaa5d81ea464",
+      "en_sha256": "c1f5d419f94f308651eb92b9f127edba9618d39de4d0b82f09ba8cbce3749227",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10804].title": {
+      "pl": "Sala Przygotowawcza",
+      "kr_sha256": "3e3cac56713632e98feba278f0ecf96d8204525aa48c714496cf28efbd559c63",
+      "en_sha256": "c0327aefa481a0297a1c137ba7e903509f9c2a77f1154239725de11e183c6bc2",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10805].title": {
+      "pl": "Sala Przygotowawcza",
+      "kr_sha256": "3e3cac56713632e98feba278f0ecf96d8204525aa48c714496cf28efbd559c63",
+      "en_sha256": "c0327aefa481a0297a1c137ba7e903509f9c2a77f1154239725de11e183c6bc2",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10806].title": {
+      "pl": "Sala Przygotowawcza",
+      "kr_sha256": "3e3cac56713632e98feba278f0ecf96d8204525aa48c714496cf28efbd559c63",
+      "en_sha256": "c0327aefa481a0297a1c137ba7e903509f9c2a77f1154239725de11e183c6bc2",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10807].title": {
+      "pl": "Sala Przygotowawcza",
+      "kr_sha256": "3e3cac56713632e98feba278f0ecf96d8204525aa48c714496cf28efbd559c63",
+      "en_sha256": "c0327aefa481a0297a1c137ba7e903509f9c2a77f1154239725de11e183c6bc2",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10808].title": {
+      "pl": "Pewna Pogłoska",
+      "kr_sha256": "2718773e4151b41b645ae1c105e3ec9dc5c10358f015ecf86360a36d0973b15c",
+      "en_sha256": "4a4f770595175c4dbe18553ec4cc4f544c1cc3465b0ee8526bc562cf1146e7e3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10809].title": {
+      "pl": "Ściany Coraz Bliżej",
+      "kr_sha256": "aff373ffe3341c627ed1d97089f20d22ba69e4fc85dbcb9ce705272de9c3e8b4",
+      "en_sha256": "31f8e8243d5105c098ca523e0601a778702b09a7e099291b876057343b6ec9d3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10810].title": {
+      "pl": "Drugi Tymczasowy Sojusz",
+      "kr_sha256": "5cd0839d5d1041cbcb27020edac42c3efed6091b417a3e4cc4093858a6330b61",
+      "en_sha256": "cb488a28831ebfc687ba041129649082cc1950d811b9cf05a1cd39aa84ebcc7c",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10811].title": {
+      "pl": "Sala Likwidacji",
+      "kr_sha256": "8e514f7c9b46befad32f7b71eb13a7b723104fbe34500701667913bb426e4a02",
+      "en_sha256": "3233d4b03147d298cb2f24ce590157f7478d541696f82c338f15eac071fffc79",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10812].title": {
+      "pl": "Komnata Skazańca",
+      "kr_sha256": "b2b600cbf04b3aa630860129e53155a0ba1fae817b3c6c70e2da63b54a4628e3",
+      "en_sha256": "0b4079f13dc9db769b5112c6d32a6a730dd9d18c6e62cba323fc86c008472a82",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10813].title": {
+      "pl": "Komnata Skazańca",
+      "kr_sha256": "b2b600cbf04b3aa630860129e53155a0ba1fae817b3c6c70e2da63b54a4628e3",
+      "en_sha256": "0b4079f13dc9db769b5112c6d32a6a730dd9d18c6e62cba323fc86c008472a82",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10814].title": {
+      "pl": "Zrujnowane Laboratorium",
+      "kr_sha256": "0b493fb403018cc92f9e3d5621a7e38559f9dc54b404b5574e3887ecf27d0896",
+      "en_sha256": "0af1f849069d7941d5647cfefb0bafff3f1034cfca3fca26e1fcba474d7efb19",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10815].title": {
+      "pl": "Zrujnowane Laboratorium",
+      "kr_sha256": "0b493fb403018cc92f9e3d5621a7e38559f9dc54b404b5574e3887ecf27d0896",
+      "en_sha256": "0af1f849069d7941d5647cfefb0bafff3f1034cfca3fca26e1fcba474d7efb19",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10816].title": {
+      "pl": "Zrujnowane Laboratorium",
+      "kr_sha256": "0b493fb403018cc92f9e3d5621a7e38559f9dc54b404b5574e3887ecf27d0896",
+      "en_sha256": "0af1f849069d7941d5647cfefb0bafff3f1034cfca3fca26e1fcba474d7efb19",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10817].title": {
+      "pl": "Zrujnowane Laboratorium",
+      "kr_sha256": "0b493fb403018cc92f9e3d5621a7e38559f9dc54b404b5574e3887ecf27d0896",
+      "en_sha256": "0af1f849069d7941d5647cfefb0bafff3f1034cfca3fca26e1fcba474d7efb19",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10818].title": {
+      "pl": "Zrujnowane Laboratorium",
+      "kr_sha256": "0b493fb403018cc92f9e3d5621a7e38559f9dc54b404b5574e3887ecf27d0896",
+      "en_sha256": "0af1f849069d7941d5647cfefb0bafff3f1034cfca3fca26e1fcba474d7efb19",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10819].title": {
+      "pl": "Zrujnowane Laboratorium",
+      "kr_sha256": "0b493fb403018cc92f9e3d5621a7e38559f9dc54b404b5574e3887ecf27d0896",
+      "en_sha256": "0af1f849069d7941d5647cfefb0bafff3f1034cfca3fca26e1fcba474d7efb19",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10820].title": {
+      "pl": "Komnata Skazańca",
+      "kr_sha256": "b2b600cbf04b3aa630860129e53155a0ba1fae817b3c6c70e2da63b54a4628e3",
+      "en_sha256": "0b4079f13dc9db769b5112c6d32a6a730dd9d18c6e62cba323fc86c008472a82",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10821].title": {
+      "pl": "Komnata Skazańca",
+      "kr_sha256": "b2b600cbf04b3aa630860129e53155a0ba1fae817b3c6c70e2da63b54a4628e3",
+      "en_sha256": "0b4079f13dc9db769b5112c6d32a6a730dd9d18c6e62cba323fc86c008472a82",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10822].title": {
+      "pl": "Miejsce Odpoczynku",
+      "kr_sha256": "17b098e4bc6766315d0f1acbc171c5037eb6280a8f7cdf6027b97ff8d6f27825",
+      "en_sha256": "2d67fb643d4cab3d09977185565efbaa7ac79d7080f28cccc723b74c1f61027e",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10823].title": {
+      "pl": "Nic Już Nie Zostało",
+      "kr_sha256": "5170662223de6cf80af1c0a904cba5f0fd1fbf5ab66171dbbcfcb085a20860c9",
+      "en_sha256": "195208122bde96b95a164f375b99e3b3f888a234dba2e68d42445ddb3d43521e",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10824].title": {
+      "pl": "Nic Już Nie Zostało",
+      "kr_sha256": "5170662223de6cf80af1c0a904cba5f0fd1fbf5ab66171dbbcfcb085a20860c9",
+      "en_sha256": "195208122bde96b95a164f375b99e3b3f888a234dba2e68d42445ddb3d43521e",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10825].title": {
+      "pl": "Nic Już Nie Zostało",
+      "kr_sha256": "5170662223de6cf80af1c0a904cba5f0fd1fbf5ab66171dbbcfcb085a20860c9",
+      "en_sha256": "195208122bde96b95a164f375b99e3b3f888a234dba2e68d42445ddb3d43521e",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10826].title": {
+      "pl": "Pod Ziemię Grzechu",
+      "kr_sha256": "7de474cae441d8ebefe63ffe65c00318b92c08db2becf7b67e4de1ca6d0258b1",
+      "en_sha256": "2b5cb8be69d45989dccc330e60aaf932e9c539da491a3fa816c2a682d6c54414",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10827].title": {
+      "pl": "Pod Ziemię Grzechu",
+      "kr_sha256": "7de474cae441d8ebefe63ffe65c00318b92c08db2becf7b67e4de1ca6d0258b1",
+      "en_sha256": "2b5cb8be69d45989dccc330e60aaf932e9c539da491a3fa816c2a682d6c54414",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10828].title": {
+      "pl": "Pod Ziemię Grzechu",
+      "kr_sha256": "7de474cae441d8ebefe63ffe65c00318b92c08db2becf7b67e4de1ca6d0258b1",
+      "en_sha256": "2b5cb8be69d45989dccc330e60aaf932e9c539da491a3fa816c2a682d6c54414",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10829].title": {
+      "pl": "Pod Ziemię Grzechu",
+      "kr_sha256": "7de474cae441d8ebefe63ffe65c00318b92c08db2becf7b67e4de1ca6d0258b1",
+      "en_sha256": "2b5cb8be69d45989dccc330e60aaf932e9c539da491a3fa816c2a682d6c54414",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10830].title": {
+      "pl": "Pod Ziemię Grzechu",
+      "kr_sha256": "7de474cae441d8ebefe63ffe65c00318b92c08db2becf7b67e4de1ca6d0258b1",
+      "en_sha256": "2b5cb8be69d45989dccc330e60aaf932e9c539da491a3fa816c2a682d6c54414",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10831].title": {
+      "pl": "Pod Ziemię Grzechu",
+      "kr_sha256": "7de474cae441d8ebefe63ffe65c00318b92c08db2becf7b67e4de1ca6d0258b1",
+      "en_sha256": "2b5cb8be69d45989dccc330e60aaf932e9c539da491a3fa816c2a682d6c54414",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10832].title": {
+      "pl": "Zeszlifowana Góra Serca",
+      "kr_sha256": "6d1c240ea65f3880ebc5096ea3beedfcc372114c0cc4ed184f6c16a9a80faf97",
+      "en_sha256": "a4d68775e311337ffa83ce5f62f7a250e458da783596ff6e94f4b192f31551c3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10833].title": {
+      "pl": "Zeszlifowana Góra Serca",
+      "kr_sha256": "6d1c240ea65f3880ebc5096ea3beedfcc372114c0cc4ed184f6c16a9a80faf97",
+      "en_sha256": "a4d68775e311337ffa83ce5f62f7a250e458da783596ff6e94f4b192f31551c3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10834].title": {
+      "pl": "Zeszlifowana Góra Serca",
+      "kr_sha256": "6d1c240ea65f3880ebc5096ea3beedfcc372114c0cc4ed184f6c16a9a80faf97",
+      "en_sha256": "a4d68775e311337ffa83ce5f62f7a250e458da783596ff6e94f4b192f31551c3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10835].title": {
+      "pl": "Zeszlifowana Góra Serca",
+      "kr_sha256": "6d1c240ea65f3880ebc5096ea3beedfcc372114c0cc4ed184f6c16a9a80faf97",
+      "en_sha256": "a4d68775e311337ffa83ce5f62f7a250e458da783596ff6e94f4b192f31551c3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10836].title": {
+      "pl": "Zeszlifowana Góra Serca",
+      "kr_sha256": "6d1c240ea65f3880ebc5096ea3beedfcc372114c0cc4ed184f6c16a9a80faf97",
+      "en_sha256": "a4d68775e311337ffa83ce5f62f7a250e458da783596ff6e94f4b192f31551c3",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10837].title": {
+      "pl": "Z Zatopionej Nadziei",
+      "kr_sha256": "cd6eb10a1bd495008153fde31e4d8d995c8ed75b797f16090f2fe0b7a717184c",
+      "en_sha256": "51aa7d89e4143bbbb2bea1cfe3e5ed96281223141eff32e02cf1452aeba81a12",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10838].title": {
+      "pl": "Z Zatopionej Nadziei",
+      "kr_sha256": "cd6eb10a1bd495008153fde31e4d8d995c8ed75b797f16090f2fe0b7a717184c",
+      "en_sha256": "51aa7d89e4143bbbb2bea1cfe3e5ed96281223141eff32e02cf1452aeba81a12",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10839].title": {
+      "pl": "Z Zatopionej Nadziei",
+      "kr_sha256": "cd6eb10a1bd495008153fde31e4d8d995c8ed75b797f16090f2fe0b7a717184c",
+      "en_sha256": "51aa7d89e4143bbbb2bea1cfe3e5ed96281223141eff32e02cf1452aeba81a12",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10840].title": {
+      "pl": "Z Zatopionej Nadziei",
+      "kr_sha256": "cd6eb10a1bd495008153fde31e4d8d995c8ed75b797f16090f2fe0b7a717184c",
+      "en_sha256": "51aa7d89e4143bbbb2bea1cfe3e5ed96281223141eff32e02cf1452aeba81a12",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10841].title": {
+      "pl": "Z Zatopionej Nadziei",
+      "kr_sha256": "cd6eb10a1bd495008153fde31e4d8d995c8ed75b797f16090f2fe0b7a717184c",
+      "en_sha256": "51aa7d89e4143bbbb2bea1cfe3e5ed96281223141eff32e02cf1452aeba81a12",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10842].title": {
+      "pl": "Wiatr na Czubkach Palców",
+      "kr_sha256": "3166a3a98471153aab43c2e4a3e2fcb3ac0e1e29dc606777eaad9ee8f9b9f5c0",
+      "en_sha256": "ab6265ae1b024da9c620120bbf34e0429d80dbe2354cfd3691b8358b4ce8b97f",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10843].title": {
+      "pl": "Wiatr na Czubkach Palców",
+      "kr_sha256": "3166a3a98471153aab43c2e4a3e2fcb3ac0e1e29dc606777eaad9ee8f9b9f5c0",
+      "en_sha256": "ab6265ae1b024da9c620120bbf34e0429d80dbe2354cfd3691b8358b4ce8b97f",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10844].title": {
+      "pl": "Wiatr na Czubkach Palców",
+      "kr_sha256": "3166a3a98471153aab43c2e4a3e2fcb3ac0e1e29dc606777eaad9ee8f9b9f5c0",
+      "en_sha256": "ab6265ae1b024da9c620120bbf34e0429d80dbe2354cfd3691b8358b4ce8b97f",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10845].title": {
+      "pl": "Wiatr na Czubkach Palców",
+      "kr_sha256": "3166a3a98471153aab43c2e4a3e2fcb3ac0e1e29dc606777eaad9ee8f9b9f5c0",
+      "en_sha256": "ab6265ae1b024da9c620120bbf34e0429d80dbe2354cfd3691b8358b4ce8b97f",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10846].title": {
+      "pl": "Gromowy Krzyk",
+      "kr_sha256": "f426fc0d77134acb58db84bcf8edf69447701bc069497006889c6829fbc70bab",
+      "en_sha256": "b3bf6ff3c71a1c37e71671a6b86471c946f5bbb6d1936c675358a74405917810",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10847].title": {
+      "pl": "Gromowy Krzyk",
+      "kr_sha256": "f426fc0d77134acb58db84bcf8edf69447701bc069497006889c6829fbc70bab",
+      "en_sha256": "b3bf6ff3c71a1c37e71671a6b86471c946f5bbb6d1936c675358a74405917810",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10848].title": {
+      "pl": "Gromowy Krzyk",
+      "kr_sha256": "f426fc0d77134acb58db84bcf8edf69447701bc069497006889c6829fbc70bab",
+      "en_sha256": "b3bf6ff3c71a1c37e71671a6b86471c946f5bbb6d1936c675358a74405917810",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10849].title": {
+      "pl": "Gromowy Krzyk",
+      "kr_sha256": "f426fc0d77134acb58db84bcf8edf69447701bc069497006889c6829fbc70bab",
+      "en_sha256": "b3bf6ff3c71a1c37e71671a6b86471c946f5bbb6d1936c675358a74405917810",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10850].title": {
+      "pl": "Gromowy Krzyk",
+      "kr_sha256": "f426fc0d77134acb58db84bcf8edf69447701bc069497006889c6829fbc70bab",
+      "en_sha256": "b3bf6ff3c71a1c37e71671a6b86471c946f5bbb6d1936c675358a74405917810",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10851].title": {
+      "pl": "Płonące Pragnienie",
+      "kr_sha256": "d1f1dd6b8f738194d0916636cf308b65f8dce9a91d5631fdd25cdca41b068e45",
+      "en_sha256": "f39f995f8e791e14838211fa775699b6e00d15a1467f4e450b2b008d822bdbb4",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10852].title": {
+      "pl": "Płonące Pragnienie",
+      "kr_sha256": "d1f1dd6b8f738194d0916636cf308b65f8dce9a91d5631fdd25cdca41b068e45",
+      "en_sha256": "f39f995f8e791e14838211fa775699b6e00d15a1467f4e450b2b008d822bdbb4",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10853].title": {
+      "pl": "Płonące Pragnienie",
+      "kr_sha256": "d1f1dd6b8f738194d0916636cf308b65f8dce9a91d5631fdd25cdca41b068e45",
+      "en_sha256": "f39f995f8e791e14838211fa775699b6e00d15a1467f4e450b2b008d822bdbb4",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10854].title": {
+      "pl": "Płonące Pragnienie",
+      "kr_sha256": "d1f1dd6b8f738194d0916636cf308b65f8dce9a91d5631fdd25cdca41b068e45",
+      "en_sha256": "f39f995f8e791e14838211fa775699b6e00d15a1467f4e450b2b008d822bdbb4",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10855].title": {
+      "pl": "Zastałe i Zgniłe",
+      "kr_sha256": "af6ece969a603db7d7d2f2ebe8dc6018fb57996ad85309e04e68baaa1cff5a7d",
+      "en_sha256": "e1e91387eaf5ea8fa0dd90a597f6580a5a2783a6162ae31a379053077c66d1a9",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10856].title": {
+      "pl": "Zastałe i Zgniłe",
+      "kr_sha256": "af6ece969a603db7d7d2f2ebe8dc6018fb57996ad85309e04e68baaa1cff5a7d",
+      "en_sha256": "e1e91387eaf5ea8fa0dd90a597f6580a5a2783a6162ae31a379053077c66d1a9",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10857].title": {
+      "pl": "Zastałe i Zgniłe",
+      "kr_sha256": "af6ece969a603db7d7d2f2ebe8dc6018fb57996ad85309e04e68baaa1cff5a7d",
+      "en_sha256": "e1e91387eaf5ea8fa0dd90a597f6580a5a2783a6162ae31a379053077c66d1a9",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10858].title": {
+      "pl": "Zastałe i Zgniłe",
+      "kr_sha256": "af6ece969a603db7d7d2f2ebe8dc6018fb57996ad85309e04e68baaa1cff5a7d",
+      "en_sha256": "e1e91387eaf5ea8fa0dd90a597f6580a5a2783a6162ae31a379053077c66d1a9",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10859].title": {
+      "pl": "Ten, Który Wstąpi ku Niebiosom",
+      "kr_sha256": "c625ddd1a8aa5b8717d1df0150dfb1ce66093984602806f5c69e4c0004955b0b",
+      "en_sha256": "67b0221e2bd04eff7da93e26ddf07997958829e66e18e4bbefda6c232b2760d1",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10860].title": {
+      "pl": "Ten, Który Wstąpi ku Niebiosom",
+      "kr_sha256": "c625ddd1a8aa5b8717d1df0150dfb1ce66093984602806f5c69e4c0004955b0b",
+      "en_sha256": "67b0221e2bd04eff7da93e26ddf07997958829e66e18e4bbefda6c232b2760d1",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10861].title": {
+      "pl": "Ten, Który Wstąpi ku Niebiosom",
+      "kr_sha256": "c625ddd1a8aa5b8717d1df0150dfb1ce66093984602806f5c69e4c0004955b0b",
+      "en_sha256": "67b0221e2bd04eff7da93e26ddf07997958829e66e18e4bbefda6c232b2760d1",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10862].title": {
+      "pl": "Za Światłem",
+      "kr_sha256": "35414cfc14b70629cfca71f275807d39134318304ebd51c7cd497fe33c44ba11",
+      "en_sha256": "645c7171dcf64bd1f5147353e9f775c368cce27eea1dd3a5ef6487065109511a",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10863].title": {
+      "pl": "Wytchnienie w Cieniu",
+      "kr_sha256": "cb039b13635cde0326746fb79e4341b4a3569bc404a21a2ce77ced7f4b37a3c3",
+      "en_sha256": "d803c53af8b25380fce83a9519b4cd2aebd42c666cdddb87d420168c3efc41e2",
+      "origin": "ai"
+    },
+    "dataList[id=10801].stageList[id=10864].title": {
+      "pl": "Czego Najbardziej Potrzebuje Hongyuan",
+      "kr_sha256": "f97c6ee28bc8ea81a408afeb50b3fb3d183668d8ac2114a23ceafb5357147ad9",
+      "en_sha256": "384f097b255848c2dcd16355ac3abf434e56956db616e8bb99331f7a756065fb",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "entries": {
+    "dataList[id=10201].stageList[id=0].title": {
+      "pl": "Skarbiec",
+      "kr_sha256": "4e6f8f2f7f34bc6d230fbff90bf0926e5cbcba927ab86ca8c86acf32f8ad96ad",
+      "en_sha256": "01a78578d6d97637ef93af0eeb1053c167d9810e0c0907c7bd13b1bba858f5ab",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=100].title": {
+      "pl": "Wejście do Fabryki",
+      "kr_sha256": "8b71d638667fcc44b0d14364c07b4c953dc3317a61321c6174c5c82db3506f28",
+      "en_sha256": "fbac2c58557ae3f6bda9151073a1ff42e5d9fa95f9d76fcd293b73cb0bdadbbd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=10214].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=10214].title": {
+      "pl": "Zasilanie Awaryjne",
+      "kr_sha256": "25b8ad9ed1f25198318fb0b3916892f2a4d2d85a8249558594bc94a61fd02959",
+      "en_sha256": "4166d25664a573287dce32f633aba07a4382eb746bde3c43ab7e6dbf1a2f67ef",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=10].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "4d5117a50ef3a66a0b136aaffbf455d9c42021b551cb77e3d7df8ab03cdec05c",
+      "en_sha256": "59de59bc700954eb6e9ef62b691165902b84fe97cb9b7d3951e36baddd7adb86",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=10].title": {
+      "pl": "Wejście do Wyrobiska",
+      "kr_sha256": "92f2582d67be0edf204a81a05bb384c64b257e5bcae2adecf97bc8ee4fa191db",
+      "en_sha256": "8eb0c6ec0ace2188ef093242aaccd8d97d89ceb4bcc996d41705522473d68e71",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=110].desc": {
+      "pl": "Po wielu perypetiach dotarliśmy na niższe piętro, pełne różnobarwnych kontenerów.\nChoć nikt nie pilnuje tego miejsca, przed postawieniem kroku ogarnia mnie złe przeczucie.",
+      "kr_sha256": "3b79c562968e48d0496b9c245f56a23e09789214ac6094734ffae6a39e738d6a",
+      "en_sha256": "b3b67fdb30b5ac09108d4e90dd1a2139f1a289657bcc52ba848c64f90f9292cd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=110].title": {
+      "pl": "Linia Produkcyjna nr 1",
+      "kr_sha256": "e41067aba0ca119e8e4d21b0b4f4eef883f5acb4312f55da4c22b4514c09543d",
+      "en_sha256": "b0d51aeb052a79dd32f4638ecb2c3f74acfbf62f463c51bf5d55953f5cc9071c",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=111].desc": {
+      "pl": "Po wielu perypetiach dotarliśmy na niższe piętro, pełne różnobarwnych kontenerów.\nChoć nikt nie pilnuje tego miejsca, przed postawieniem kroku ogarnia mnie złe przeczucie.",
+      "kr_sha256": "1a5836ecd1a833fefac0f6a737b3036091d1a15fa770afeb06a6de2c33a51536",
+      "en_sha256": "b3b67fdb30b5ac09108d4e90dd1a2139f1a289657bcc52ba848c64f90f9292cd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=111].title": {
+      "pl": "Linia Produkcyjna nr 2",
+      "kr_sha256": "31ca011a4db0165e4619b31fb3f83d8903a373ccd12c477d8713251970330ac1",
+      "en_sha256": "5a50580fbff53e8823385121e0a54ec594ad88cb222938c28b6d2d88be3f0ee4",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=112].desc": {
+      "pl": "Po wielu perypetiach dotarliśmy na niższe piętro, pełne różnobarwnych kontenerów.\nChoć nikt nie pilnuje tego miejsca, przed postawieniem kroku ogarnia mnie złe przeczucie.",
+      "kr_sha256": "1a5836ecd1a833fefac0f6a737b3036091d1a15fa770afeb06a6de2c33a51536",
+      "en_sha256": "b3b67fdb30b5ac09108d4e90dd1a2139f1a289657bcc52ba848c64f90f9292cd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=112].title": {
+      "pl": "Linia Produkcyjna nr 3",
+      "kr_sha256": "c8ce5f65b02c96a230be43ae58773fe26b996c93ef5024556ffcdb2cc3eb365d",
+      "en_sha256": "a7fb29f408824673be88e72b0f946d89d046b9bef233a9e642b9797bf960e29e",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=120].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "26060bfed0442a667e5a3625d87cdb550454131737c73afbd532428f3d8b960a",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=120].title": {
+      "pl": "Hala Odlewnicza",
+      "kr_sha256": "69ca9a350bd96098821312b47efb415c4dbb0782d059503fe935b1b97ef8c798",
+      "en_sha256": "af093133fa4a35f5f7061baf446d60e08b4df8272679f90ea4a0de7f7343e758",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=121].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "26060bfed0442a667e5a3625d87cdb550454131737c73afbd532428f3d8b960a",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=121].title": {
+      "pl": "Pokój Kolorowych Automatów",
+      "kr_sha256": "2b5c685b689c0d79fedbf98f7d142498def08db53f213a5b57b7feeae11fbf3f",
+      "en_sha256": "8b5ebf3854c0ce1b9c3eb6d1b905a79d56f3282547ed8ffe1ad0b66718bb3e99",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=130].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "26060bfed0442a667e5a3625d87cdb550454131737c73afbd532428f3d8b960a",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=130].title": {
+      "pl": "Hala Montażu",
+      "kr_sha256": "7dc27b60446cd8d8dd2949e3e75cb4c2ddc67ad392546bb14b01d8084427284c",
+      "en_sha256": "a1798fa3a044f8ce19b234535c72978552525c9376313abae9cdd920d9b66c70",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=140].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "26060bfed0442a667e5a3625d87cdb550454131737c73afbd532428f3d8b960a",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=140].title": {
+      "pl": "Warsztat Konserwacji",
+      "kr_sha256": "33ed1b963b6c19ae4d820022188d0e7f5cb0eeb136f3aa5ad8a01371347f0b61",
+      "en_sha256": "e20e823e7193dc895684a59ed9ef34f367cefb404cbd4044a6ee921054b73a4b",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=150].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=150].title": {
+      "pl": "Pokój Wesołej Ruletki",
+      "kr_sha256": "ff4654e97ab3bf0dc2bdf9324788ef67a1393bb4257126759111edb001c960c0",
+      "en_sha256": "b906a6186f29e1a05f34c6b2ee59ce3fafec331b433be012b0725366e4e93744",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=151].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "26060bfed0442a667e5a3625d87cdb550454131737c73afbd532428f3d8b960a",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=151].title": {
+      "pl": "Zasilanie Awaryjne",
+      "kr_sha256": "25b8ad9ed1f25198318fb0b3916892f2a4d2d85a8249558594bc94a61fd02959",
+      "en_sha256": "4166d25664a573287dce32f633aba07a4382eb746bde3c43ab7e6dbf1a2f67ef",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=160].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=160].title": {
+      "pl": "Stacja Kontroli Bezpieczeństwa",
+      "kr_sha256": "238e5788444aa6ce1fa5b21abefdc8a88281e3c386c446713ef927c52557f78e",
+      "en_sha256": "8b17e0a6a8b92b917948022be8b725ce40930988ef088f0e2dabaefc54de272b",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=161].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=161].title": {
+      "pl": "Kontrola Jakości",
+      "kr_sha256": "3d2ff6a77f3fe93e9507c1984667647710569f1ea0e642b473cb25990c164f62",
+      "en_sha256": "da5685ac3f26b04926c98498f17a4bbad41b021a65a2a61230e9c88f4959f294",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=170].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=170].title": {
+      "pl": "Obróbka Końcowa",
+      "kr_sha256": "77ea05e4f5600a0160404a4bfe02fa5a89d59a2dbddcfc6046ae14cb7d5f8d87",
+      "en_sha256": "e2c104290db829e07b395e7f6b8686a80c0b7e074fcc10bd528627e2b5ca8793",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=171].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=171].title": {
+      "pl": "Składowisko Odpadów",
+      "kr_sha256": "2603d822bc49cb0329117ce2385a7b7086ef4a40eb148da3d65efe548f0e49c0",
+      "en_sha256": "0ca6f93c4b58535694ddb5609c7c645a045ec5a48f13473e8138c38831d21cdb",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=180].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=180].title": {
+      "pl": "Dyżurka Straży",
+      "kr_sha256": "52b046fb849b539cb26686bddf750ef4c2eb1d9210137cff0c21e2861e9cb1a4",
+      "en_sha256": "bf2ca75b70f8e616ccc03d1de247cb4362ebd4f77677b3e8d254d5e5dbe356bd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=190].desc": {
+      "pl": "Aby przebić się dalej, musimy pokonać bezwzględnych cyborgów nacierających z wesołą piosenką na ustach.",
+      "kr_sha256": "7393f2556f968bad37107d0726a58d0008df5f1825d880503607a68b977eb1d0",
+      "en_sha256": "4b1a908eb0f07f6f17286030f54498c0049e7369a16be6656222dea2b7f10a6d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=190].title": {
+      "pl": "Baza Wysunięta",
+      "kr_sha256": "0e6445873151eca97fd8e5d8e613efb76c6a6edc8f59c8b39e90ad70a487e656",
+      "en_sha256": "60a7b3386f423d349ec43d13e34b1690110982ad56f69d7459132dea843bc1dd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=200#2].title": {
+      "pl": "Śnieżne Rozdroże",
+      "kr_sha256": "c81950be4f7fa7e4befa2f0ca3aa0acea17042ce00e4f1c0258190df0c34ff29",
+      "en_sha256": "2644057cbf1d72e19127e6330fcfe838b6d3c512078289a1e61f03465af95604",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=200].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=200].title": {
+      "pl": "Śnieżne Rozdroże",
+      "kr_sha256": "c81950be4f7fa7e4befa2f0ca3aa0acea17042ce00e4f1c0258190df0c34ff29",
+      "en_sha256": "2644057cbf1d72e19127e6330fcfe838b6d3c512078289a1e61f03465af95604",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=20].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "8e847f158da0ac2b7b93d700df96774b74b7161e86b345a9c098ba6f04a6dec3",
+      "en_sha256": "8c900b9e33618b361beaf40eca416933f64e3385f0e329b2002295de3d65585f",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=20].title": {
+      "pl": "Wyrobisko nr 1",
+      "kr_sha256": "7623394cc6fa53d3cb8cfba3c5aef4445b55cc35799ccc3c1becae35e55ee6e6",
+      "en_sha256": "eb5596c359148fe069a69d2140a90c48879f827457db3b8d3aed1ed8339a3807",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=210].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=210].title": {
+      "pl": "Pole Śnieżycy",
+      "kr_sha256": "be7d3a482561fd1c141399bc2e185ade307d5dc48ce01e3a094f8c67b98e5ad1",
+      "en_sha256": "6e3f820d9837dde41fa35a2e573d8ab803bc34533317d535ef39889690ffe9a1",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=211].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=211].title": {
+      "pl": "Pole Śnieżycy",
+      "kr_sha256": "be7d3a482561fd1c141399bc2e185ade307d5dc48ce01e3a094f8c67b98e5ad1",
+      "en_sha256": "6e3f820d9837dde41fa35a2e573d8ab803bc34533317d535ef39889690ffe9a1",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=21].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "8e847f158da0ac2b7b93d700df96774b74b7161e86b345a9c098ba6f04a6dec3",
+      "en_sha256": "8c900b9e33618b361beaf40eca416933f64e3385f0e329b2002295de3d65585f",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=21].title": {
+      "pl": "Wyrobisko nr 2",
+      "kr_sha256": "01efbd00ba44d70ffed1f71911924128709ab7c9d7e35a6073ebb7eb11d753d8",
+      "en_sha256": "302dd500ee5c6181d476eb3e464fdb5e2567597e2796e61438ac1c1552212945",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=220].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=220].title": {
+      "pl": "Zamarznięte Ruiny",
+      "kr_sha256": "c4d8f14c5fe80730422c5a5298c4fd16e1ac2571ce6d818a11e58ff6a6c0371c",
+      "en_sha256": "4d8114f7aff10872700fe3f82130681a2a86bfd71d0364490fca104418201424",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=221].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=221].title": {
+      "pl": "Zasypana Kryjówka",
+      "kr_sha256": "d0e03f65ea78f1d9ff671f2b20fd0aa5f5367322f74ff3d7d5fb2241fa75190a",
+      "en_sha256": "1b388b273a617d3e35b6c51bf787e30527ca921df73d3a0c283f54ebbe802021",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=22].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "8e847f158da0ac2b7b93d700df96774b74b7161e86b345a9c098ba6f04a6dec3",
+      "en_sha256": "8c900b9e33618b361beaf40eca416933f64e3385f0e329b2002295de3d65585f",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=22].title": {
+      "pl": "Wyrobisko nr 3",
+      "kr_sha256": "482a800dce713602c2a205e680e3461f4e42519421467dde254405003f661f76",
+      "en_sha256": "7c3359e25377f6c41d17b1b8b7571bb81e4f30c2ec4d9ca94eca9bb40b1ce915",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=230].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=230].title": {
+      "pl": "Pole Śnieżycy",
+      "kr_sha256": "be7d3a482561fd1c141399bc2e185ade307d5dc48ce01e3a094f8c67b98e5ad1",
+      "en_sha256": "6e3f820d9837dde41fa35a2e573d8ab803bc34533317d535ef39889690ffe9a1",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=231].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=231].title": {
+      "pl": "Pole Śnieżycy",
+      "kr_sha256": "be7d3a482561fd1c141399bc2e185ade307d5dc48ce01e3a094f8c67b98e5ad1",
+      "en_sha256": "6e3f820d9837dde41fa35a2e573d8ab803bc34533317d535ef39889690ffe9a1",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=240].desc": {
+      "pl": "Gdy minęliśmy piętro kontenerów, owiało nas lodowate powietrze. Wyrastające wokół bryły lodu zwiastują, że cel jest już blisko.",
+      "kr_sha256": "b3f9ca21d2b8fbcd9164fb8ffe409b8f805a70a926b81c502cd1b5538e188c30",
+      "en_sha256": "e510c40c08a1072b17fcb5d7029badf56ff5e919ee23e280867a06a62750d208",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=240].title": {
+      "pl": "Zniszczona Wioska",
+      "kr_sha256": "7b77cf869552d59bb73c3c5fc5991322665f657d35e1526d3f16de0dbe06e35b",
+      "en_sha256": "cbcd37b5b92db553aab4284c6467580d0a3b0e1a699b8b2cb19a36455be19e44",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=250].desc": {
+      "pl": "Przemierzywszy skute lodem pustkowie, dotarliśmy na sam kraniec kopalni. W oddali majaczył olbrzymi lodowy zamek… oraz niespodziewany gość.",
+      "kr_sha256": "6373cc27006c235bd992790ed3d7e0760b28d096a513be19771650bd8badfcbe",
+      "en_sha256": "6336896f119b0501f3974a5a98723fd4e6ce211f5d53ede3e5ce124e5d01a2b8",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=250].title": {
+      "pl": "Zamek Śpiących Sąsiadów",
+      "kr_sha256": "5d741729f2bf6f186cd6e0600e0fc7eb13c40b2a164f788dc02b9ce2564c89b9",
+      "en_sha256": "54919774633162a03f4429144d009707275f646d6294f0e50b55bdf65b2b2cdc",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=30].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "8e847f158da0ac2b7b93d700df96774b74b7161e86b345a9c098ba6f04a6dec3",
+      "en_sha256": "8c900b9e33618b361beaf40eca416933f64e3385f0e329b2002295de3d65585f",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=30].title": {
+      "pl": "Wyrobisko nr 4",
+      "kr_sha256": "a4c78d986683620d2feac9f8d6bd5c961bead4c8f409b11da7dc1435b5d320e5",
+      "en_sha256": "0d647712de790a577b3bc1d8b769b8c5bbd5b0f8033e52d047c57b2d9e12989d",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=31].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "8e847f158da0ac2b7b93d700df96774b74b7161e86b345a9c098ba6f04a6dec3",
+      "en_sha256": "8c900b9e33618b361beaf40eca416933f64e3385f0e329b2002295de3d65585f",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=31].title": {
+      "pl": "Skład Materiałów Wybuchowych",
+      "kr_sha256": "f4f67e09b8e903f6ec444e527b9e6a4ceaa2e914e4b2dd824f7b95faf12c0a7f",
+      "en_sha256": "f02932fe0bef160d80e2d34091e22f0a4ac040aa94d1c67845fd712dcd7787cd",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=40].desc": {
+      "pl": "Jako zwycięzcy gry zdołaliśmy zjechać pod ziemię, lecz filia Lobotomy Corp. od dawna należała już do kasyna. Niewolnicy kujący skałę, pilnujący ich strażnicy i Peccatula gryzące kraty… Musieliśmy przebić się przez to wszystko.",
+      "kr_sha256": "8e847f158da0ac2b7b93d700df96774b74b7161e86b345a9c098ba6f04a6dec3",
+      "en_sha256": "8c900b9e33618b361beaf40eca416933f64e3385f0e329b2002295de3d65585f",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=40].title": {
+      "pl": "Schron",
+      "kr_sha256": "3b8a2ad0cdec03d2085f3d4e38abc3f60a188bda1f06e485fa7d248d70dd97be",
+      "en_sha256": "cfcd1f3d6aeb187475efdb655ac5b948fcc05c97fac3cef2f07c8563d96da28c",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=50].desc": {
+      "pl": "Porywająca przemowa wywrotowa Gregora sprawiła, że strażnicy wypuścili na nas także Peccatula. Przyjrzawszy się im bliżej, dostrzegłem jednak, że nie słuchają niczyich rozkazów i rzucają się na każdego bez wyjątku. A skoro tak…",
+      "kr_sha256": "c94fe99922ef4405aa6bb6510918ef79bfb058ca091f75e9bd9be105a32f8d4d",
+      "en_sha256": "c14b09d7c1bcb9dd1105fb2d48e73c6fdf7b5047d86f955688d730c5a05b3a07",
+      "origin": "ai"
+    },
+    "dataList[id=10201].stageList[id=50].title": {
+      "pl": "Brama Podziemnej Fabryki",
+      "kr_sha256": "6a7113957b28d6cd87faca4013157e39afc30241852f59c4781f761ab090ba53",
+      "en_sha256": "d062aadac89d0dd34c1e00f84d7e78f051d3ff478acc8096bb79b847ef10dbc6",
+      "origin": "ai"
+    }
+  }
+}

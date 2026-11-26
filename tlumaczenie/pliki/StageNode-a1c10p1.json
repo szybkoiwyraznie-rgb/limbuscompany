@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=11001].title": {
+      "pl": "Proces",
+      "kr_sha256": "c6aa8bb02fccb87d2f9c86bacdeda650cafdd5b925eb637b3d34053ff0ef8484",
+      "en_sha256": "eaaa80ff6c4af4b408e6bc2d86387bc75d04123e6538312a5a50369954352631",
+      "origin": "ai"
+    },
+    "dataList[id=11002].title": {
+      "pl": "Sala Sądowa",
+      "kr_sha256": "8126ae9f9120652f80a2d7ca30d68efb68817c8127865f0eed9bbf6f12e7f6fd",
+      "en_sha256": "9c825be207611645d6fcb677cd33af2ffce2de1d4806c092ee2e94c2161f19e2",
+      "origin": "ai"
+    },
+    "dataList[id=11003].title": {
+      "pl": "Plan",
+      "kr_sha256": "b0fe4ea3ac5ac4022d19c29dae32b66aed2539dcdbbf858414ac6f94d39634dd",
+      "en_sha256": "2b4ad844abe4f1a446aa7a96ffd58d4076d58a3717c50494f8b78f214d053835",
+      "origin": "ai"
+    },
+    "dataList[id=11004].title": {
+      "pl": "Dom Towarowy Sisyphe",
+      "kr_sha256": "ece981d4b3d91d81efb97b76b6727d3d3c2ceae1a0ff9517006de80c20a8c217",
+      "en_sha256": "b48e3eeb97b86b5e651c56157dcb5372350ea30642def253868a0227d5412b45",
+      "origin": "ai"
+    }
+  }
+}

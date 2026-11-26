@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=Anamnaworm].content": {
+      "pl": "Anamnoczerw",
+      "kr_sha256": "aa68c357840f1d38400b8538c8031ca197ea843fe0e27452ca085062dbc0eda3",
+      "en_sha256": "257c84567d2551eb65bd9f4bf9207325b17ceb67c73b4f4cda85b326371da4cd",
+      "origin": "ai"
+    },
+    "dataList[id=ColorFixer].content": {
+      "pl": "Kolorowi Fikserzy",
+      "kr_sha256": "170ea061f211bcb646096def1138f986427aa72c1943b8c6530264a608fe4d74",
+      "en_sha256": "cafde8cbb99d9c92b5724eff85cdc9ec1022791b4bbfe2a632720d7e658532d5",
+      "origin": "ai"
+    },
+    "dataList[id=ConceptIncinerator].content": {
+      "pl": "Spopielacz Pojęć",
+      "kr_sha256": "f279e4256e03307afb520b5089c9811ffc889061f10a6ba88dc7ce3262d296ae",
+      "en_sha256": "8463488993dd27ebe9d9204853f6c811d30ec63c94039c97ef26bf1a042dfca9",
+      "origin": "ai"
+    },
+    "dataList[id=HouseofSpiders].content": {
+      "pl": "Dom Pająków",
+      "kr_sha256": "06cee8329c6ddae3a8f35acf1fe17a20a8423576a96c984d91a6244cbfc6cda3",
+      "en_sha256": "b74e70d906210794ab86a6a0b37cfbcf8ab9b4e64fbb476e5483380f1ccb171e",
+      "origin": "ai"
+    },
+    "dataList[id=NestA].content": {
+      "pl": "A Corp.",
+      "kr_sha256": "7cf6aed01d20893ec057cd353c6771cb9d9caf3e3ee54b7526340c98c31a17e6",
+      "en_sha256": "77e17ef34ba30c290d06ffa34280353e7765532303beb8bbb1d419bb43bcd66c",
+      "origin": "ai"
+    },
+    "dataList[id=SmokeWar].content": {
+      "pl": "Wojna Dymna",
+      "kr_sha256": "4d3711e0243d394a7368d5c1bcad3d7d166193ca226576966941f1c414bb0a14",
+      "en_sha256": "8b8ac43941404cbb1213b3f6124e9b56ab48d30e5e93384ea37449e46bc074c3",
+      "origin": "ai"
+    },
+    "dataList[id=TheIndex].content": {
+      "pl": "Wskazujący",
+      "kr_sha256": "97d0cc0e32bb24a74e0de1f3d4d14cbba104b42f6da65e85ef3293f4fbcb9780",
+      "en_sha256": "612bcb87f4a613658040693316c5da3c4af764b3af384494dbc1f439ff5927c0",
+      "origin": "ai"
+    },
+    "dataList[id=ThePinky].content": {
+      "pl": "Mały Palec",
+      "kr_sha256": "6d810555c4b7919fdb8047545ae29a6fe2502ee1a99b0e5b2d83d0addf276a7a",
+      "en_sha256": "a156460c2cdb12c7a84b34de0b6aa4751ae45b169354390fe717caeb53e3d5ba",
+      "origin": "ai"
+    },
+    "dataList[id=TheThumb].content": {
+      "pl": "Kciuk",
+      "kr_sha256": "c6074807bf7d2262dd3dcd65009c681c6a662e3e5878fe0cb6c34288e532ff82",
+      "en_sha256": "1cf89f22a3575bc0bab00d2fc360b789269ee9b6aaafd90e4c84847eca221f4c",
+      "origin": "ai"
+    }
+  }
+}

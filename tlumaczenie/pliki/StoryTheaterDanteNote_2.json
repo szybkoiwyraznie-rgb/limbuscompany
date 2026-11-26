@@ -5,10 +5,28 @@
       "kr_sha256": "da7ad24ff794f52735d0630e6a88596ec2fe7103006bbf96c6a21e78702f3a1f",
       "en_sha256": "0c8db8761a6a14072052126b1b5adcc1a5e5dacdddd7b184daf6542c7809d1fd"
     },
+    "dataList[id=Association].content": {
+      "pl": "Stowarzyszenia",
+      "kr_sha256": "678449a5835f45cb5d13ef7eddfc7dde0c3083aacb161a65b7efd8c30625c118",
+      "en_sha256": "e22f5ad814367a67a6caaba89d7cd071f05158b94ce394283390d28f5ae1191e",
+      "origin": "ai"
+    },
+    "dataList[id=Cinq].content": {
+      "pl": "Stowarzyszenie Cinq",
+      "kr_sha256": "f3f7d5dcf38f2e534970c0b65abcaf33ab72032e2a9a02d9d298c429737a21c6",
+      "en_sha256": "8dde3e917cb6561e5a6036ea9fc9bbfda2c8fac0951de1900dc4bee3462694f7",
+      "origin": "ai"
+    },
     "dataList[id=Enkephalin].content": {
       "pl": "Enkefalina",
       "kr_sha256": "27cae99d0deec2dc6d09b673f0f40942ddd614e60111252dd78253adf8f824a4",
       "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0"
+    },
+    "dataList[id=LiuAsso].content": {
+      "pl": "Stowarzyszenie Liu",
+      "kr_sha256": "99dd06aa0d41cf5d486da1082e2499213aef43adcbe816a3514f382032b217ff",
+      "en_sha256": "6471314f09127016e9be00dddb3ec3d64a54c539847cee8a7b5fa3e68f65f318",
+      "origin": "ai"
     },
     "dataList[id=LobotomyCorp].content": {
       "pl": "Lobotomy Corporation",
@@ -19,6 +37,12 @@
       "pl": "Biura",
       "kr_sha256": "85baa0745234fcd78fe5e066b775db5d0f20597df70bf349f43ac4ef2ebc7ca7",
       "en_sha256": "11e36f72a8b01a5f20a2347ed28fb791cd8e0957f543ee77507053bcbdf1ca8d"
+    },
+    "dataList[id=ShiAsso].content": {
+      "pl": "Stowarzyszenie Shi",
+      "kr_sha256": "cb7314458d06232fa13583c5bf52c493d966d9dd03f75025ccd5140b0abe46f1",
+      "en_sha256": "90e9a6ce361618aa93e9a4a8e0bdca2a0cdee56a0eed974fe356b42bd436c7b5",
+      "origin": "ai"
     },
     "dataList[id=Singularity].content": {
       "pl": "Osobliwości",

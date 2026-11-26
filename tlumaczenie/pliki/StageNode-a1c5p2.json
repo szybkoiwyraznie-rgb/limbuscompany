@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=10520].desc": {
+      "pl": "Przedarliśmy się przez Fale na spokojniejsze wody.\nPrzez chwilę łudziłem się, że dalej pożeglujemy już bez przeszkód…\n…gdy na środku Jeziora dostrzegłem dryfujący nieruchomo wycieczkowiec.",
+      "kr_sha256": "eb6e10eb98e6a5bd44da4390db5f5298523596f827cf8753e28d30159ebebea3",
+      "en_sha256": "b2031516bf667203f3ce0ecadd0d78d83f1277ebddf006a771691549e4859bb6",
+      "origin": "ai"
+    },
+    "dataList[id=10520].place": {
+      "pl": "Autobus-Łódź Mefistofeles",
+      "kr_sha256": "fd0a83494dae30ebf5d8a3e796201199b2dc87e4d4bd0b1e731f38811a8a69e3",
+      "en_sha256": "a2b7c10180b9e2bf6609240d55d4154bd0d2fa7c53ac1f16fe3cbd295837967c",
+      "origin": "ai"
+    },
+    "dataList[id=10520].title": {
+      "pl": "Przyjęcie na Wycieczkowcu",
+      "kr_sha256": "db5e451f8f46587e7b849f8d192a4790a02751ededf924a53033d8288137059c",
+      "en_sha256": "4583da0725bfeeab9060cff00d19674206aad751ddcbabfc0e5b7c85d6c61da2",
+      "origin": "ai"
+    },
+    "dataList[id=10521].desc": {
+      "pl": "Weszliśmy na pokład wycieczkowca w poszukiwaniu informacji. Wśród wystawnych potraw i dekoracji nie widać żywej duszy, od czego po plecach przebiega chłodny dreszcz.",
+      "kr_sha256": "07a467696a4830ff9b0355fbe2bd64d58b4d10ac7cb8285c061627adfc04c562",
+      "en_sha256": "3344b282b27aa4055ee6e210a3c8f50f71c5dce9d5d75980a96489b34c8843d6",
+      "origin": "ai"
+    },
+    "dataList[id=10521].place": {
+      "pl": "Statek Wycieczkowy",
+      "kr_sha256": "093d21eb25262e74055b071741c185331320240a3513bdc6e2096b76e93e9334",
+      "en_sha256": "ff375f637ec45d531ec01d09ab355a9fe1e3732780a67453020d311a1153ec65",
+      "origin": "ai"
+    },
+    "dataList[id=10521].title": {
+      "pl": "Przyjęcie na Wycieczkowcu 2",
+      "kr_sha256": "aec594e8a53878e94421b593f02eb5b2e15330a407abc315ef71265d315234ee",
+      "en_sha256": "f375f2e032bdc2354439085757d56b4cf6a04dc0eb028141b75b70255a78c935",
+      "origin": "ai"
+    },
+    "dataList[id=10522].desc": {
+      "pl": "Wszedłem pod pokład w poszukiwaniu Sinclaira, który uciekł przed strasznymi opowieściami Hong Lu. Odnalezienie go nie sprawiło trudności.\nJednakże…",
+      "kr_sha256": "18ce08c235ef477c1a08843c18bfb02e945f41d1fa75998cef41f2911f68a6f9",
+      "en_sha256": "281c84d4bb5a0e1a2ddb46b4191d4ad66d63e0c099df32ae3966d0b97c9aa876",
+      "origin": "ai"
+    },
+    "dataList[id=10522].place": {
+      "pl": "Statek Wycieczkowy",
+      "kr_sha256": "093d21eb25262e74055b071741c185331320240a3513bdc6e2096b76e93e9334",
+      "en_sha256": "ff375f637ec45d531ec01d09ab355a9fe1e3732780a67453020d311a1153ec65",
+      "origin": "ai"
+    },
+    "dataList[id=10522].title": {
+      "pl": "Przyjęcie na Wycieczkowcu 3",
+      "kr_sha256": "89e6801818ea2d24fa6f1fe506e30f3012207e90510a3f6eb0c39e341608f0c8",
+      "en_sha256": "bef7bda5877b9be4cadcb41d0d5995572deab52d291a64aa14f7491f3a7b7d0f",
+      "origin": "ai"
+    },
+    "dataList[id=10523].desc": {
+      "pl": "Wycieczkowiec okazał się pomnikiem rzezi. Cena zlekceważenia praw Wielkiego Jeziora była przerażająca.\n…Następnym razem muszę podejmować rozważniejsze decyzje.",
+      "kr_sha256": "24f747d7452203277a227e92bd16cc41750318d11cafa34b82d22990eea2b969",
+      "en_sha256": "9473ed97c6ab60f7071cf7b2d361ddaf70b104ffba878ee04160a1933d966fc1",
+      "origin": "ai"
+    },
+    "dataList[id=10523].place": {
+      "pl": "Statek Wycieczkowy",
+      "kr_sha256": "093d21eb25262e74055b071741c185331320240a3513bdc6e2096b76e93e9334",
+      "en_sha256": "ff375f637ec45d531ec01d09ab355a9fe1e3732780a67453020d311a1153ec65",
+      "origin": "ai"
+    },
+    "dataList[id=10523].title": {
+      "pl": "Przyjęcie na Wycieczkowcu 4",
+      "kr_sha256": "c89ee91b9dde6c09a7809ff4dc707280f6b5a1a6cdfd1920591c00efcb532110",
+      "en_sha256": "98fe13ba355c4a0b55259d86c5f24e2a5c24ed646f9407190fbe0010aca1c340",
+      "origin": "ai"
+    },
+    "dataList[id=10524].desc": {
+      "pl": "Zza zasłony mgły wyłoniła się wreszcie poszukiwana filia Lobotomy Corp. w U Corp. Gdyby nie dziwaczna biała błona pokrywająca całą konstrukcję, mógłbym uznać, że wszystko idzie zgodnie z planem…",
+      "kr_sha256": "086765e88d7714abc77ad1f19d428570a742f608771f9481a1ad013c800fa446",
+      "en_sha256": "5a2f656e1150b7f8d62cace1f2bc2d34a96c2d91898a01cfa50e197b62adbdc6",
+      "origin": "ai"
+    },
+    "dataList[id=10524].place": {
+      "pl": "Opuszczony Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "dd286def6618fbfc090c6774c777d090adc2964233e7fed83e1adb066563647a",
+      "en_sha256": "05f9d2130e92381127dbd775b15acad47dda63ab934ef861eeb420aff58ce31e",
+      "origin": "ai"
+    },
+    "dataList[id=10524].title": {
+      "pl": "Kataklizm",
+      "kr_sha256": "abeeb8af6d6a96ac109a7e269eccb5b08871cdbd5d2db587b96dcea78b0771d9",
+      "en_sha256": "428674d7838c0a1f78709ce5e4eafbcd1edeb6762992b4b903ff3927526b87f5",
+      "origin": "ai"
+    },
+    "dataList[id=10525].desc": {
+      "pl": "Makabryczny widok nie kończył się na poszyciu. Biała, blada błona wyścielała każdy zakamarek wnętrza.\nCo gorsza… natknęliśmy się na postacie snujące się pod warstwą tej samej tkanki.",
+      "kr_sha256": "9eb78beb5addefd2007c6faa612a0710998472d568b5a6e4db046bfc7fa98cac",
+      "en_sha256": "9435ac7888a21f8bc8205776fb4b14838449da3c807375d58af187356755175e",
+      "origin": "ai"
+    },
+    "dataList[id=10525].place": {
+      "pl": "Opuszczony Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "dd286def6618fbfc090c6774c777d090adc2964233e7fed83e1adb066563647a",
+      "en_sha256": "05f9d2130e92381127dbd775b15acad47dda63ab934ef861eeb420aff58ce31e",
+      "origin": "ai"
+    },
+    "dataList[id=10525].title": {
+      "pl": "Wielorybnik",
+      "kr_sha256": "dbb61ad9190b5019eb55c5c8768188ffdfa82bf36a158d1b777313788ddf30f7",
+      "en_sha256": "819516d2c84098bd113bf915058143618a195a4f07425b33a92f3dbecabb360d",
+      "origin": "ai"
+    },
+    "dataList[id=10526].desc": {
+      "pl": "Podążając za tajemniczym motylem, zapuściliśmy się w głąb filii. W środku czekał na nas człowiek o falującej jak woda głowie.",
+      "kr_sha256": "df6944ba15702a5a2fe330a0170380ad19045e7f6051699e05774a67742aad2d",
+      "en_sha256": "5dccbad3b37d7f9c0cdc3d42e31d91d8f313e2dfe2ec97d7ae97cf4eca266858",
+      "origin": "ai"
+    },
+    "dataList[id=10526].place": {
+      "pl": "Opuszczony Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "dd286def6618fbfc090c6774c777d090adc2964233e7fed83e1adb066563647a",
+      "en_sha256": "05f9d2130e92381127dbd775b15acad47dda63ab934ef861eeb420aff58ce31e",
+      "origin": "ai"
+    },
+    "dataList[id=10526].title": {
+      "pl": "Jezioro i Motyl",
+      "kr_sha256": "2f8e5a54c9046215cdb1aa52c2ed75823da458c46fb291179060172414784618",
+      "en_sha256": "d10a45a38789314aef30630ecc4da2112058c79dc4992224bb57fe426abe41a3",
+      "origin": "ai"
+    },
+    "dataList[id=10527].desc": {
+      "pl": "Człowiek imieniem Rim zniknął jak ze snu — niczym motyl wzbijający się znad tafli wody. Pozostawił nam w pamięci znajomy czerwony znak.\n…Syreny znów nadciągają.",
+      "kr_sha256": "838894412bd886ad730f60cf9d7f871c2b12f893722a6e451393cf100427c693",
+      "en_sha256": "fbe1c1a66c75a909a496c1d7673ab18771456fc7572c9f82194a3c7e78c89e11",
+      "origin": "ai"
+    },
+    "dataList[id=10527].place": {
+      "pl": "Opuszczony Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "dd286def6618fbfc090c6774c777d090adc2964233e7fed83e1adb066563647a",
+      "en_sha256": "05f9d2130e92381127dbd775b15acad47dda63ab934ef861eeb420aff58ce31e",
+      "origin": "ai"
+    },
+    "dataList[id=10527].title": {
+      "pl": "Jezioro i Motyl 2",
+      "kr_sha256": "39e2bc3fcb5a82693f5dae38fd3bc5e4aada1eed1cfa397e5584f8929ebdbc9c",
+      "en_sha256": "fcdc4af89b32aff421a9fc6087efc8b8ee90277477308abf8dfbd032ba9da77e",
+      "origin": "ai"
+    },
+    "dataList[id=10529].desc": {
+      "pl": "Zgodnie ze słowami Rima wewnątrz filii nie zostało ani śladu po Złotej Gałęzi.\n…Pozostaje nam odszukać Wieloryba, o którym mówił.",
+      "kr_sha256": "1d530601b136311c3cfc897ca1e062d1d07edff038660ef2a519c7052d6bc460",
+      "en_sha256": "0fb56aa1250e00c4333c73ab6baff90633d7962dbfc123e7e98f8caa4b4c4d19",
+      "origin": "ai"
+    },
+    "dataList[id=10529].place": {
+      "pl": "Opuszczony Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "dd286def6618fbfc090c6774c777d090adc2964233e7fed83e1adb066563647a",
+      "en_sha256": "05f9d2130e92381127dbd775b15acad47dda63ab934ef861eeb420aff58ce31e",
+      "origin": "ai"
+    },
+    "dataList[id=10529].title": {
+      "pl": "Jezioro i Motyl 3",
+      "kr_sha256": "94f89ac5751257d5cbb1c588dc947820430d067c3ec91bca99a16eccb14bb836",
+      "en_sha256": "00002b141d0d40d8618649df242d50c9eaa3b3a3ff0f8efa550b7ba1be0043a1",
+      "origin": "ai"
+    },
+    "dataList[id=10530].desc": {
+      "pl": "Czekaliśmy na dołączenie Wergiliusza, gdy całą placówką wstrząsnęło uderzenie. Wybiegliśmy na zewnątrz i ujrzeliśmy groźnie wyglądające jednostki wyłaniające się z mgły.",
+      "kr_sha256": "7b44b4698c2a0541dab27dddd4e07a843e8d29747f6f09a4da46898d003f73e2",
+      "en_sha256": "8765b6f6a1ffd52cab137345c2e377999b0055e9ab42f370c462d32d7574b400",
+      "origin": "ai"
+    },
+    "dataList[id=10530].place": {
+      "pl": "Wejście na Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "527eb8928e5616ea0543752a9adc36b1d3e34df786256e137c83bc5d697af15f",
+      "en_sha256": "0fbede3305eb19e27798bffee3a2ff44c511c2f1ffe06c5970e62a29ff11c835",
+      "origin": "ai"
+    },
+    "dataList[id=10530].title": {
+      "pl": "Harpuny",
+      "kr_sha256": "29888ea4ec03a36960f706cfc3d0d690060e9848484b32b9187e22b0c3de8b51",
+      "en_sha256": "973dab9602e2b55eea3697beeec90f914d7dab2ddf63e459608f5f0e5facde17",
+      "origin": "ai"
+    },
+    "dataList[id=10532].desc": {
+      "pl": "Sprawnie odpierałem nacierających piratów, lecz przemknęło mi przez myśl, że to zaledwie zwiad. Największy i najbardziej okazały okręt ich floty wciąż nie zarzucił na nas haków…",
+      "kr_sha256": "68ba66168749b60c99e1e259e733bfe49606e2d5cd19f9cdfbb64352d95d29ba",
+      "en_sha256": "ad72f185719f267192ad141b93c1b04f6b5691edad24b2427f1bf8fedd0a4175",
+      "origin": "ai"
+    },
+    "dataList[id=10532].place": {
+      "pl": "Wejście na Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "527eb8928e5616ea0543752a9adc36b1d3e34df786256e137c83bc5d697af15f",
+      "en_sha256": "0fbede3305eb19e27798bffee3a2ff44c511c2f1ffe06c5970e62a29ff11c835",
+      "origin": "ai"
+    },
+    "dataList[id=10532].title": {
+      "pl": "Starszy Brat",
+      "kr_sha256": "ad9e1976f9faa93c80873d3ef710642b40235d7e2d4a6751f9969f6c5487acc8",
+      "en_sha256": "7de59d22c9a12fa3a9361b572571bccfea142dce72b20a8179b5a37c73ca28a3",
+      "origin": "ai"
+    },
+    "dataList[id=10533].desc": {
+      "pl": "To nie walka, lecz rzeź i upokorzenie. Ishmael ginie raz po raz, a ja dzielę ból każdej jej śmierci, przywracając ją do życia.\n…Nie mamy szans na zwycięstwo. Czy tak, jak mówiła Faust, tutaj kończy się nasza podróż?",
+      "kr_sha256": "679ca9d2cc61ba9518fb3e975875c21db76d107e824ee61ce2e84b0ffd7dd4f3",
+      "en_sha256": "d6ce7ef93168ee66e0acd888338db1fe5ec09e8eaf7a55014196e1bfac946740",
+      "origin": "ai"
+    },
+    "dataList[id=10533].place": {
+      "pl": "Wejście na Statek Wiertniczy Lobotomy Corp.",
+      "kr_sha256": "527eb8928e5616ea0543752a9adc36b1d3e34df786256e137c83bc5d697af15f",
+      "en_sha256": "0fbede3305eb19e27798bffee3a2ff44c511c2f1ffe06c5970e62a29ff11c835",
+      "origin": "ai"
+    },
+    "dataList[id=10533].title": {
+      "pl": "Starszy Brat 2",
+      "kr_sha256": "795421cdf00f06bd2f34b41bd9bff2bf13977161b3cf8b24b15ae1f1ff1b2639",
+      "en_sha256": "0c23cdfc69286d0fc20d4346ae40c7abe5e34d7339ec3349f43537197341e983",
+      "origin": "ai"
+    },
+    "dataList[id=10534].desc": {
+      "pl": "Starzec z cygarem tlącym się błękitnym płomieniem emanował potęgą niewymagającą żadnych słów. Faust, wyraźnie wiedząc, kim jest nieznajomy, po krótkim powitaniu zaprowadziła go do Wergiliusza.",
+      "kr_sha256": "8ee54314555f13689387d45b749cdd7558891cbea2a9d1612b371c0cd48bd8c8",
+      "en_sha256": "4616f4090ebd8840685c807afcfe5504de9eefaa82f2d2f2b66cbca85242d738",
+      "origin": "ai"
+    },
+    "dataList[id=10534].place": {
+      "pl": "Autobus-Łódź Mefistofeles",
+      "kr_sha256": "fd0a83494dae30ebf5d8a3e796201199b2dc87e4d4bd0b1e731f38811a8a69e3",
+      "en_sha256": "a2b7c10180b9e2bf6609240d55d4154bd0d2fa7c53ac1f16fe3cbd295837967c",
+      "origin": "ai"
+    },
+    "dataList[id=10534].title": {
+      "pl": "Starzec Indygo",
+      "kr_sha256": "0a2b50df4ebee8550ec9ad2ac33653e65c9bb13f2a1889469fee1e22a6bf6676",
+      "en_sha256": "02e8b90ccda5904b0f4c20fdda9af8c72e87057620f76f6d0e7d09feb10c1704",
+      "origin": "ai"
+    },
+    "dataList[id=10535].desc": {
+      "pl": "Zgodnie z ustaleniami ze Starcem Indygo wiosłowaliśmy w stronę szarego Jeziora. Ponad mętną taflą majaczyły białawe kształty przypominające rafy, między którymi musieliśmy ostrożnie lawirować.",
+      "kr_sha256": "6a3b8c0d0c57c0a03b03b76c43b43a3790f4e99ebe364e9efd0589638f558f15",
+      "en_sha256": "6f6891b26c24ffefbbdaa81a65b820a8ee44143d11bd319602c1b8c025de8b00",
+      "origin": "ai"
+    },
+    "dataList[id=10535].place": {
+      "pl": "Szalupa Mefistofelesa",
+      "kr_sha256": "40866bc1b3f121d2c69f293dbb8da7a741b6cc4ce114f6b5bbaadaea69cd6952",
+      "en_sha256": "86a8c4e0011a58e682a0136a8471c411bb2d307107a9e272c41912377c2e05f5",
+      "origin": "ai"
+    },
+    "dataList[id=10535].title": {
+      "pl": "Rafy",
+      "kr_sha256": "7fbe7563d446fd5b6c0f67df47b7c81e1a90dce0120aa174c46cdd90096c9a6d",
+      "en_sha256": "7535db263a73f1d8bb923ef6e119e9b8cc133358196564f44bd2051bea228918",
+      "origin": "ai"
+    },
+    "dataList[id=10537].desc": {
+      "pl": "Domniemana rafa okazała się Dziurawym Wielorybem, z którego otworów wypełzły Syreny. Rozprawiliśmy się z nimi, lecz… to przecież nie tego Wieloryba szukamy. Co chodzi po głowie Ishmael?\nSądząc po minie Heathcliffa, nie tylko ja zachodziłem w głowę.",
+      "kr_sha256": "66b65c594f881fafd4e807bc8a148bd0f846a641257332c632207d8f01ab084f",
+      "en_sha256": "7f8f3f522ab7651dc8b7dbff5b532b4ea46adadd84de1c9964fa30d4ae28c773",
+      "origin": "ai"
+    },
+    "dataList[id=10537].place": {
+      "pl": "Szalupa Mefistofelesa",
+      "kr_sha256": "40866bc1b3f121d2c69f293dbb8da7a741b6cc4ce114f6b5bbaadaea69cd6952",
+      "en_sha256": "86a8c4e0011a58e682a0136a8471c411bb2d307107a9e272c41912377c2e05f5",
+      "origin": "ai"
+    },
+    "dataList[id=10537].title": {
+      "pl": "Blady Wieloryb",
+      "kr_sha256": "d2a61a98bff92247e186a5be84e6bfc90293f7471dbebc0541257b065fe19a5b",
+      "en_sha256": "bcfd3bdd42d1e401042228493d52381b533a969fe287aaf7436d9945b33cbde4",
+      "origin": "ai"
+    },
+    "dataList[id=10538].desc": {
+      "pl": "Przebiwszy się przez morską mgłę, wpłynęliśmy na kruczoczarne Jezioro.\nJezioro z legend opowiadanych przez Ishmael. A pośród jego wód…\n…czekał przejmująco Blady Wieloryb.",
+      "kr_sha256": "665d58c9dfadb881b7088a331e486eac27e1b6af0ac0799f23b4b866f18562ba",
+      "en_sha256": "adff744be1168659931201852e984d71a546c1d2802d51c6c44e87ac2b628959",
+      "origin": "ai"
+    },
+    "dataList[id=10538].place": {
+      "pl": "Szalupa Mefistofelesa",
+      "kr_sha256": "40866bc1b3f121d2c69f293dbb8da7a741b6cc4ce114f6b5bbaadaea69cd6952",
+      "en_sha256": "86a8c4e0011a58e682a0136a8471c411bb2d307107a9e272c41912377c2e05f5",
+      "origin": "ai"
+    },
+    "dataList[id=10538].title": {
+      "pl": "Blady Wieloryb 2",
+      "kr_sha256": "e6b786a5f524837566b22e122957d5635716169c8b6ae3cf2050588425f1905c",
+      "en_sha256": "6b11aa1dbae37e8ffa60c42a5642a01601267612d9f3b0a0175c29acefff3a6d",
+      "origin": "ai"
+    }
+  }
+}

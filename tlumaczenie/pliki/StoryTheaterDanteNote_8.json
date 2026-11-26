@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=DimensionTrunk].content": {
+      "pl": "Torba Wymiarowa",
+      "kr_sha256": "ab56d60e5308ec629e3d98cc0e698ca356b3c26d6c8996f31034216ea8b3625c",
+      "en_sha256": "159294b5c9205fcee51a3b6ff7f89e199ac8a4b75062b738d7c98c65e45a1692",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorWorld].content": {
+      "pl": "Światy Lustrzane",
+      "kr_sha256": "8795878d5a84fbe5e241741282c129da850b5fafd05f6b71aac46257c5311b51",
+      "en_sha256": "060044e281cdd67f1d6a8744d4b5cb5e4ac774ec91614ea6b08346b36272ae65",
+      "origin": "ai"
+    },
+    "dataList[id=NestP].content": {
+      "pl": "P Corp.",
+      "kr_sha256": "0299ef852b9a4aea449e47984064eb01f295cfecc77d6272bc73e36accd98c2d",
+      "en_sha256": "43d45e7fcdae248db900bdcdd11286d9841108964df69e34575ebcd0af63e8e7",
+      "origin": "ai"
+    },
+    "dataList[id=Yurodivy].content": {
+      "pl": "Jurodiwi",
+      "kr_sha256": "cf1fdffec79754bcab3cc6a189647bafa1fa350d28cdd66ede9a41ae0f99ea2e",
+      "en_sha256": "714971a22bbf656b48890372de13b2c66e1d554e517becea3c5b3202cc2af637",
+      "origin": "ai"
+    },
+    "dataList[id=ZweiAsso].content": {
+      "pl": "Stowarzyszenie Zwei",
+      "kr_sha256": "23f4e40afc334feb3dfcaaa3024a37200d32963717337e57860af416fbc4da76",
+      "en_sha256": "daca0f796fbc87fbd4a366f24ff9ef26a66e5055904d0e0cda86ae32fb7beb19",
+      "origin": "ai"
+    }
+  }
+}

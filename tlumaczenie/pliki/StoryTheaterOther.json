@@ -1,0 +1,274 @@
+{
+  "entries": {
+    "dataList[id=EventTitleText_9010].title": {
+      "pl": "Notatki Dantego",
+      "kr_sha256": "04e24960d9b309a22940848a0049594d3fcd5f1c71d4909dd031c5403accb75a",
+      "en_sha256": "f56a75ceb302512603fe1ff522f04084ab5738a710680d266b308ddffba74150",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9011].title": {
+      "pl": "O Pokojach za Tylnymi Drzwiami",
+      "kr_sha256": "faacef188802daa864f68c6f2f539595b431b2895dc07ddfde6279ec545fe210",
+      "en_sha256": "f79a03e25d7cd71209ff9741c960814e96913304b6345571688cf4fdc3ab0128",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9012].title": {
+      "pl": "Znacząca Zmiana",
+      "kr_sha256": "9f1f505636c2811b47f5bfb65c2a2248ebf8dbf48b086fd3a42d54c139e4a2ea",
+      "en_sha256": "493c54ca89f933fcf41ae292790e989939a39a58767aa50bfe8c646e1cbba5a4",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9013].title": {
+      "pl": "2. Noc Walpurgii",
+      "kr_sha256": "5a263c7332e2cb8169cf5055a8e38c2cb5236590d9f2fdc159e393c62382d642",
+      "en_sha256": "680bc0e50dd6f16b776c0ea36c10a0e2d3cc47a7af37e4d0ba585cd8dba1e8a5",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9014].title": {
+      "pl": "Z powrotem do autobusu.",
+      "kr_sha256": "078ba7bcf0ecdb77d3aa4279661b06bbab915ca92eaedb8f0b770e0139796e2b",
+      "en_sha256": "b583053dd38eccf1e2d6a510ec8a7bf35eef3b259ec9377c254af9e4ede4c56a",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9015].title": {
+      "pl": "Poziomy Ryzyka i Numery Seryjne",
+      "kr_sha256": "25a1c315167ee505126ff9c4f3b333440c2402f48ec60e29fc106f6ff8e04f32",
+      "en_sha256": "582cb6700a7b61a858655c966f14e54d591566bbafbe857fdcedc77f448dcc04",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9016].title": {
+      "pl": "3. Noc Walpurgii",
+      "kr_sha256": "34e66607f61a263ee7ded2c957d85628e0b36a3aec0b17c6f27d9c8e37a434e4",
+      "en_sha256": "130a807d566d1c689b9b6bc3798c94938a3634b5ceca2e5e89df598448eb741c",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9017].title": {
+      "pl": "Znajomy Alarm",
+      "kr_sha256": "099917557ec5ca1e7df6bf08ca52826f6b89775191ae82948fb176075fe40b67",
+      "en_sha256": "af94c5cf46605fb81d49a434881153301477c456762b59313f50aef4d7617179",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9018].title": {
+      "pl": "4. Noc Walpurgii",
+      "kr_sha256": "88a728eab80aeef76ca7af34128cf7ad92bd1a784bd64eb12fc38296d58d61b8",
+      "en_sha256": "983d701a0218e49288b44349a52615495a9e76c8d4fbac47b72faabfea8749db",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9019].title": {
+      "pl": "5. Noc Walpurgii",
+      "kr_sha256": "b07f20e993258f969643cd5ea1b727b7b3fb6877a99b98c57c9ddf54de3b62e5",
+      "en_sha256": "fc46c8e4fcab9fdd47f2e49569ef946f6ca83ac6e0a46d465ee0f1518600683f",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9020].title": {
+      "pl": "6. Noc Walpurgii",
+      "kr_sha256": "25ee76f48add44b3b52659df636ce7dc86cfc2cb176d366af7a79d23b1ac2855",
+      "en_sha256": "4908287ae31f24a4991d08ff86196f1001e302dff34ee310a39dbf49aa010019",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9021].title": {
+      "pl": "8. Noc Walpurgii",
+      "kr_sha256": "325f0c082f4c7e51a13abedddd0a24b814fba622a20bd1161269835ca04f71d2",
+      "en_sha256": "79a80d26661516c0df4babcfe2b236227587f0a1911f7f1eb38efb920fc74098",
+      "origin": "ai"
+    },
+    "dataList[id=EventTitleText_9022].title": {
+      "pl": "10. Noc Walpurgii",
+      "kr_sha256": "85e528729bdc6b7b222fc9c9bc35453d294f912619efe990f0b38603bc6fde20",
+      "en_sha256": "0c541f3f2fa5ca0ec9d43762dfc9f96ec2606d09ac782ab46f48e20a3ffd417e",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901001].title": {
+      "pl": "Zapiski Dantego",
+      "kr_sha256": "8249a6449a8393698cf97a7e0a44cba5e531f158e40510c3e5f96b0fd17559fb",
+      "en_sha256": "bf7152261fefc5fa90471e4568cde163bfbe399c5e8f89e3884586f1c9b42481",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901002].title": {
+      "pl": "Tylne Drzwi Autobusu",
+      "kr_sha256": "2b603748dca02245a92775b2fae548de470d2892ed26ac2f07bd7c59c126f064",
+      "en_sha256": "df9f60a992ebdaca755a916643b98e0b3bf43caeeaa05078697948abdfdfdde8",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901003].title": {
+      "pl": "Za Korytarzem Autobusu",
+      "kr_sha256": "38b98a30b0f2e1a1c8bf1896510af4f769f417b299affead578c01959d12e5bb",
+      "en_sha256": "d1c6e1152c0109b767a3b89deb9ecae5b8d9624cc6ade67095797123d01504f3",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901004].title": {
+      "pl": "O Pokojach za Tylnymi Drzwiami",
+      "kr_sha256": "faacef188802daa864f68c6f2f539595b431b2895dc07ddfde6279ec545fe210",
+      "en_sha256": "f79a03e25d7cd71209ff9741c960814e96913304b6345571688cf4fdc3ab0128",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901005].title": {
+      "pl": "1. Noc Walpurgii",
+      "kr_sha256": "81e13af99eb4d45c38f51e6fcb13abda1d8553338e2ffc298827944dfc4a5dbe",
+      "en_sha256": "8fe4689eb1e9f67a02a53a86a64134bb024fdb475f75a2dd2e9c741179db042b",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901201].title": {
+      "pl": "Znacząca Zmiana",
+      "kr_sha256": "9f1f505636c2811b47f5bfb65c2a2248ebf8dbf48b086fd3a42d54c139e4a2ea",
+      "en_sha256": "493c54ca89f933fcf41ae292790e989939a39a58767aa50bfe8c646e1cbba5a4",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901301].title": {
+      "pl": "Zielony Świt",
+      "kr_sha256": "5f98eba2eb93fcdb9ce1f94ae582f9119e4f5359526bf0c0f6be01f87234d385",
+      "en_sha256": "85290f4204797d12fb25ea8c1a08a3c20070847fd748512058cd9feefe82e4df",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901302].title": {
+      "pl": "Próba",
+      "kr_sha256": "1fa79de2573eb7ba11381adfec98cd96b2673c2a8fe37ef0efa712d469a72684",
+      "en_sha256": "26e28d6db025a1022715d05b0bca62c953a6d204583dc0a60a44662c2a1487e3",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901401].title": {
+      "pl": "Z powrotem do autobusu.",
+      "kr_sha256": "078ba7bcf0ecdb77d3aa4279661b06bbab915ca92eaedb8f0b770e0139796e2b",
+      "en_sha256": "b583053dd38eccf1e2d6a510ec8a7bf35eef3b259ec9377c254af9e4ede4c56a",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901501].title": {
+      "pl": "Poziomy Ryzyka i Numery Seryjne",
+      "kr_sha256": "25a1c315167ee505126ff9c4f3b333440c2402f48ec60e29fc106f6ff8e04f32",
+      "en_sha256": "582cb6700a7b61a858655c966f14e54d591566bbafbe857fdcedc77f448dcc04",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901601].title": {
+      "pl": "Powrót Nocy",
+      "kr_sha256": "17641e632a35b8fb9528305f449223f87976064743b68555d0ac6c3413f199db",
+      "en_sha256": "58757ed21c777342beef4b86a53c03c1221b65eee3a63900fb2d17142c89ea56",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901602].title": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901701].title": {
+      "pl": "Znajomy Alarm",
+      "kr_sha256": "099917557ec5ca1e7df6bf08ca52826f6b89775191ae82948fb176075fe40b67",
+      "en_sha256": "af94c5cf46605fb81d49a434881153301477c456762b59313f50aef4d7617179",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901801].title": {
+      "pl": "Fioletowa Próba",
+      "kr_sha256": "c3ff8293bd436628cd6722cafaa03df4566171d85adca8a197e807a5f9fdb3f0",
+      "en_sha256": "6f39d2fc4c34f419d8468c5ff1bfd846d88f2945e7c62066d38a51354af268e9",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901802].title": {
+      "pl": "Obdarz Nas Miłością",
+      "kr_sha256": "88043243e72b916b5909022b9039de0e0bf987a9921193878390acceac092b52",
+      "en_sha256": "a26b83807662baa5868a70bac4c0034e9c31b90e97baf2ed2abb1503ed0d378a",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901901].title": {
+      "pl": "Kościół Trybów",
+      "kr_sha256": "a530ad2839eb8a559c9e6489be53914d49f5b05ef8cc9ed4f6064d36328f7700",
+      "en_sha256": "38c322a49d189c050c7138fa90eb5e8c262d4af1358790a2ed2459856c221321",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_901902].title": {
+      "pl": "Scenariusz Nocy",
+      "kr_sha256": "a23cf397b113d7554a46fb979e22dd2986595e3957a46c6d575dd94977933790",
+      "en_sha256": "6b340c9a6c61ae95a7fa96c0c4b3e4c3d1f9d20d5b619a11a4bea8896863b27d",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_902001].title": {
+      "pl": "A Jednak Nadchodzi Noc",
+      "kr_sha256": "7d7012793f82a2a8ab1cb496c4b15d46e217ad6384927b9fc4baa25dc23a6d3e",
+      "en_sha256": "73a785830249662026578cf39a9b5bd985f99e18645c952a775014b63d7e84a4",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_902002].title": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_902003].title": {
+      "pl": "Czarodziejka",
+      "kr_sha256": "a33855e39ac0ab5e77fbcab0afcf5047562a924c8b1d66d131f2c1e8924ab464",
+      "en_sha256": "7a637b1aff315a0c274f1b7e7efd27455285b7083eb134acf7195d1aac8a77a6",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_910309].title": {
+      "pl": "Łagodna Głębia Szefa Kuchni",
+      "kr_sha256": "deb574ab73339ec678ab6fa585ce5c96abf83f14e3ef5003aa9199f8a3597845",
+      "en_sha256": "b57f6963c9ce941a5d6cc5f83333e68ced6a0e7ac45f4730b62684b993614c19",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_910712].title": {
+      "pl": "Głębia Demona Miecza",
+      "kr_sha256": "316bc6eaaf7789e0242bff670d70fd45fb7341637a77cfd3643442e442ffc0da",
+      "en_sha256": "494364f4c03324470e31dfecf45c4ce6b5858fd64f45a415f8588b49084c6c90",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_910915].title": {
+      "pl": "Ostatnia Zagadka",
+      "kr_sha256": "91c27bbf3749152e543bc8970241978396c92e7605cca12e5719fea570e99a3d",
+      "en_sha256": "1b980cd65a6eec25b2f643e346cd69eec48ce6ec981ff55671f5506c9de52a82",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_911414].title": {
+      "pl": "Głębia Pewnego Badacza",
+      "kr_sha256": "8d7a17a7b9a66777b600646f4f8a5ff72dfdcea1ac39991fad9b9f69c21c7ed7",
+      "en_sha256": "28960d451b3859a74a8fe220a8249a4524906e95361e0de5af32c0ecbe2d8c79",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_911512].title": {
+      "pl": "Głębia Demona Miecza",
+      "kr_sha256": "316bc6eaaf7789e0242bff670d70fd45fb7341637a77cfd3643442e442ffc0da",
+      "en_sha256": "494364f4c03324470e31dfecf45c4ce6b5858fd64f45a415f8588b49084c6c90",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_911815].title": {
+      "pl": "Ostatnia Zagadka",
+      "kr_sha256": "91c27bbf3749152e543bc8970241978396c92e7605cca12e5719fea570e99a3d",
+      "en_sha256": "1b980cd65a6eec25b2f643e346cd69eec48ce6ec981ff55671f5506c9de52a82",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_912014].title": {
+      "pl": "Głębia Mayors",
+      "kr_sha256": "17c0de5ef89a940a1b03f7ba1d60d29f86721f3f5a6ec847a8564be2565a85f4",
+      "en_sha256": "d35f2a3d15d59275d8b5c5d7802ae7b28a922843c6131c4fd3bcf23099e16242",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_912301].title": {
+      "pl": "Bursztynowy Zmierzch",
+      "kr_sha256": "39606586eca5b2f62f8735a9a27e4aae6bc9217c7d70875b0f46d74b0921217f",
+      "en_sha256": "99c189a8a5719c3ac11df0f882bb83373085754f61a5d6f26055f3b43a761190",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_912302].title": {
+      "pl": "Sposób Produkcji Pewnego Napoju",
+      "kr_sha256": "9c0e8b00dd171707be8563a915c496705f5f6867ee6a806f022034a333edb2da",
+      "en_sha256": "8046cedb89b8ceb6048c9d8166c8bbcf5f29f24f8235f097c4f04bef5b6b615d",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_912711].title": {
+      "pl": "Głębia ???",
+      "kr_sha256": "d8fbe872b08002f623508fb489a42d903bf7880bcd62bb909e96850b95aab1f4",
+      "en_sha256": "541e65f94a4d608b40eb18700f12aed1cf714571ec91da650fbe53c0c3a4de0f",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_912901].title": {
+      "pl": "Piętro Historii",
+      "kr_sha256": "3e76ac6e665653ec77f6c2bb88e0016c27d7635fb5c2d09db4fc6aa412e0b3cf",
+      "en_sha256": "e2588c630b235a921edd1a5cacedaa27dbdb483f1a9703b92bc336df96bdb032",
+      "origin": "ai"
+    },
+    "dataList[id=STORY_912902].title": {
+      "pl": "Wnioskowanie Indukcyjne o Nocy",
+      "kr_sha256": "3a9f2d335203d7fd8538dd259226f3db91dfa78627ca6b8ca472fe8ca73057f7",
+      "en_sha256": "b3c523af2cdcbbc0fdcb1a3e3cc54e7dda64c9e02d3985aed8b6aa27ad6e67d0",
+      "origin": "ai"
+    }
+  }
+}

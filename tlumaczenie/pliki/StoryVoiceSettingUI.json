@@ -1,0 +1,94 @@
+{
+  "entries": {
+    "dataList[id=deselect_all].content": {
+      "pl": "Odznacz wszystko",
+      "kr_sha256": "99c0371f963e188c6158ef636cb93da724f68bb818e6ec688019b19a325133cc",
+      "en_sha256": "5cd261bcc680ffdaef07096b65379d9358316948ef7fddce644405f7e518c848",
+      "origin": "ai"
+    },
+    "dataList[id=select_all].content": {
+      "pl": "Zaznacz wszystko",
+      "kr_sha256": "10113e9cb886b2af82720f0b008f6d00c425a93a31ee7e297c913fd128fdcc88",
+      "en_sha256": "d1ec69e64b9609d089aae09f7adc5c566d2cd222f8d8325f0ab3b523f0ac2690",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_applying_label].content": {
+      "pl": "Stosowanie…",
+      "kr_sha256": "0619d3235c59fd2325da029938ae6cdaac1b63b50620529e73d052c3fd058f93",
+      "en_sha256": "dba1ddefd778ad652f142fd4d77ad1b779de9dbcd36b4fa6fde8c2ab94b9218a",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_complete_desc].content": {
+      "pl": "Zmieniono stan plików głosowych dla wybranych rozdziałów.",
+      "kr_sha256": "083eeccb2312d681048d8065d5904ff29d577b29a9ab1b54491f68be41c14fd4",
+      "en_sha256": "3fdbaf55e0d4baf97affedd07c4be608d8e848b0f7210ccc96d749def6e4a68c",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_complete_title].content": {
+      "pl": "Zarządzanie głosami fabularnymi",
+      "kr_sha256": "eed63736fda3bfe53ee49122795b1b5ae0478d09875723d446df0983b27946aa",
+      "en_sha256": "c893c170a75778863d0177b070737b061119fe18f3ff237f0292f66a422d5656",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_confirm_line].content": {
+      "pl": "[{0}] {1} - {2}",
+      "kr_sha256": "b5c1da940e2b5fe1416dd0941067b1cc7f3ad9008ed18fb58e33e777fb27eae5",
+      "en_sha256": "b5c1da940e2b5fe1416dd0941067b1cc7f3ad9008ed18fb58e33e777fb27eae5",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_confirm_main_title].content": {
+      "pl": "Poniższe zmiany w danych głosowych zostaną zastosowane.\nKontynuować?",
+      "kr_sha256": "82290ecf3e08f68f417730e392504bedf6d83b6b5510bb8500f65e2e684235c5",
+      "en_sha256": "928b9d3bccd93057a7b3fb1dba09e641ba92539cbdba065687a17bdb1a583616",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_confirm_title].content": {
+      "pl": "Zarządzanie głosami fabularnymi",
+      "kr_sha256": "eed63736fda3bfe53ee49122795b1b5ae0478d09875723d446df0983b27946aa",
+      "en_sha256": "c893c170a75778863d0177b070737b061119fe18f3ff237f0292f66a422d5656",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_delete_label].content": {
+      "pl": "Usuń",
+      "kr_sha256": "6139b6c3ed73cd4aa3849fcf25698abce9b6d870ddb9fcb0565ad1372a97c06c",
+      "en_sha256": "e2d0a54968ead24efc0dffa6ac78fc606dceec34a0f586177a74a54cc2272cf8",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_download_label].content": {
+      "pl": "Pobierz",
+      "kr_sha256": "0a4ca9bc91ee23b25beb7e5cce8e9f06e7f71dfc905a2d468bce88bcd13ee6bd",
+      "en_sha256": "d6eafe82359100423c93c5ce53c352c1b51ca1e699215fcec3f5c5dd9bf12d24",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_progress_count].content": {
+      "pl": "{0}/{1}",
+      "kr_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "en_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_progress_desc].content": {
+      "pl": "Zmienianie stanu pobranych plików…",
+      "kr_sha256": "7925ac4dd471b3db3f03f8abe862ceb8885ea7a9f8945b37c3756fb7c09b5e62",
+      "en_sha256": "663dc60e85ed953dc3d8d89fc21eec7352a8d05d351c512f5eb0e981dc35375a",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_process_progress_title].content": {
+      "pl": "Zarządzanie głosami fabularnymi",
+      "kr_sha256": "eed63736fda3bfe53ee49122795b1b5ae0478d09875723d446df0983b27946aa",
+      "en_sha256": "c893c170a75778863d0177b070737b061119fe18f3ff237f0292f66a422d5656",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_setting_ui_desc].content": {
+      "pl": "Wybierz pliki głosowe, które mają być przechowywane na urządzeniu.",
+      "kr_sha256": "4c764b7f91207f46e114255f59267abf2f48bcc488201e09b351e8e842ed7473",
+      "en_sha256": "2f9f28a814f55f65a0f762858c639f146a1ecdd33cf845440ec976dd6a4ddfa9",
+      "origin": "ai"
+    },
+    "dataList[id=story_voice_setting_ui_title].content": {
+      "pl": "Zarządzanie głosami fabularnymi",
+      "kr_sha256": "eed63736fda3bfe53ee49122795b1b5ae0478d09875723d446df0983b27946aa",
+      "en_sha256": "c893c170a75778863d0177b070737b061119fe18f3ff237f0292f66a422d5656",
+      "origin": "ai"
+    }
+  }
+}

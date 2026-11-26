@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=10102].desc": {
+      "pl": "- Przywołani w ten sposób Grzesznicy mogą zakładać Tożsamości i wykonywać rozkazy, lecz są pozbawieni własnej woli i nie zachowują wspomnień z manifestacji.\n- Zasięg pozwalający Kierownikowi nakładać Tożsamości na Grzeszników ulega ogromnemu zwiększeniu.",
+      "kr_sha256": "6b8462169d6349d1ff0a7dfdc98eecd992b5d68cbad6c7f87892a0cee1aaea9e",
+      "en_sha256": "81dc593e386fc8b4d4da0978a27bedadb59e95dd74c455910911ddf071957e5c",
+      "origin": "ai"
+    },
+    "dataList[id=10102].rawDesc": {
+      "pl": "Pozwala niestabilnie, lecz zdalnie dowodzić wszystkimi Grzesznikami i komunikować się z nimi.",
+      "kr_sha256": "d1f73ebddd2cae8c083003f1f15a80de1db20b75e875a92ff7b8fd19e3d470ca",
+      "en_sha256": "dec483e26e3554120c584550601aa808e2ff28f283ab2e4463aa984ff7937e0d",
+      "origin": "ai"
+    }
+  }
+}

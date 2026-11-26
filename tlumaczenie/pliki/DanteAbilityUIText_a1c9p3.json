@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=danteAbilityButton_resume].content": {
+      "pl": "Wróć",
+      "kr_sha256": "f090ebd527130a04a71d693d6394577ec74d3afd9cedc3876708f5820d7988ac",
+      "en_sha256": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_Apply].content": {
+      "pl": "Zastosuj",
+      "kr_sha256": "6a1c963d5bc5e2e5791ed11c5915e392d85cf692172b4b9923e0d6a1af66803f",
+      "en_sha256": "31e392d1c0378beca611de66c0f4c71cba29159905cc54242d9bddee5b23d851",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_Personality_Selection_UIPopup_Confirm_Desc].content": {
+      "pl": "Czy zastosować zdolność {0}?\nCel: <color=#f8c200>[{1}]</color>",
+      "kr_sha256": "080f7e4b8fd912b615edf86585b9a9357f5843cfe3df85f0194da9d2a20fc3b4",
+      "en_sha256": "7a84db33a3d9e8ee43f5ec78161c5593ed22cf2a05a2e87450d1f8fab5a042f8",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_Personality_Selection_UIPopup_Title].content": {
+      "pl": "{0}: Wybierz Grzesznika",
+      "kr_sha256": "ecbb3d8967856284691110599ad4a4366ac08e7645e46ab58d936d57cc6ca2f4",
+      "en_sha256": "80a9f98da625d66eae0ce95d83603a1dd349d4f5d8ee843514bd2ae51cfb1540",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_Personality_Selection_UIPopup_View_Battle_Status].content": {
+      "pl": "Podgląd pola bitwy",
+      "kr_sha256": "3cf967fc3b210fc760ca6b7387c0989c964161a2b3d469b11472129c244063ea",
+      "en_sha256": "75c3275f582bf6ea2dbf5c827fb81b1d85f1c0a016b3132449268a42e798f7ec",
+      "origin": "ai"
+    },
+    "dataList[id=danteAbility_view_battle_status].content": {
+      "pl": "Stan pola bitwy",
+      "kr_sha256": "564432180d04a832bca9f2b358761401acaa0c435b1303d6147cbcb49fddf67a",
+      "en_sha256": "9dcf797cd98bc36fc5e2046ee6435078c8eb7a0ab0516e07b495f662d83eb6cd",
+      "origin": "ai"
+    }
+  }
+}
