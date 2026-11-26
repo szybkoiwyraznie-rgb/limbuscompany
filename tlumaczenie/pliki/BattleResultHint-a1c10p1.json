@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "dataList[id=battleTip_11006_1].content": {
+      "pl": "L'Inamovible wchodzi do Przymierzalni i wychodzi z niej w stałych odstępach czasu.",
+      "kr_sha256": "6ee89146913abc1cb5f8c41e0aa030b95b594f8d2dc6525f04f940e5462e3d8a",
+      "en_sha256": "4ce9d1c84ef5bd9bdeaed963d0c40676a8a7c1d8667805c74e55b38a5ef0d955",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11006_2].content": {
+      "pl": "Atakowanie L'Inamovible, gdy przebywa w Przymierzalni, zwiększa jej agresywność.",
+      "kr_sha256": "3e57344cd9ef3ef79d9572998b43e82a568a166be9520c7bfbfe0e35a6f07c9e",
+      "en_sha256": "93dbef269df630cb02381da8037056a51d9161d715005e3e75cf69a5930931fa",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11008_1].content": {
+      "pl": "Sous-chef zdobywa „Pokrojone Składniki” od pokonanych celów. Na koniec tury zjada je, kumulując „Zjadam przysmaki i nabieram sił, słyszysz?”.\nIm więcej stosów, tym silniejsza i częstsza jest jej potężna Umiejętność „Moje sygnaturowe cięcie, słyszysz?”",
+      "kr_sha256": "67f8539e5489b5d0fdc7687fb7d02f7da6ba6a71f0eba9dcc9fe289d7d134215",
+      "en_sha256": "678d0cdb2d39449d34e3962ca1d2631e258fceed76ac103e66c927d2cd21dbd8",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11008_2].content": {
+      "pl": "Sous-chef traktuje jako składniki również Skórzane Portfele — sama defensywa Skazańców nie zatrzyma jej gotowania.",
+      "kr_sha256": "165bc7675a99c189fa8375655539538f6ae93edc1373debbd014ae5dd7eba070",
+      "en_sha256": "fcd7705b19d6be9c51b377bb712af0e498378d07758f34b34b0d65010953786c",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11008_3].content": {
+      "pl": "W turze, gdy Sous-chef nie pokona nikogo, kumuluje „Mam apetyt, słyszysz?”.\nPrzy 3 stosach użyje kolejnej potężnej Umiejętności — czasem warto pozwolić jej ugotować",
+      "kr_sha256": "f05e98a8a6e5f892fd528cefca8d00d67c8c47abfa962bdd7bf0b030d1f24431",
+      "en_sha256": "e3484312150271679ebe88889828b5024f6aad8dcba09bb46eace2510e9d3f34",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11010_1].content": {
+      "pl": "Czasem prowadzenie Starć z określonymi Umiejętnościami Menedżera Piętra przy użyciu Umiejętności ataku może być złym pomysłem.",
+      "kr_sha256": "74392a45065fda2469f9935192f8fd6cfdc623297857347cb87bb4a49cecc495",
+      "en_sha256": "288a8e4dd48a12a660848b9f83322348418c47dc752a2a8fc1875c642bc74df0",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11010_2].content": {
+      "pl": "Gdy „Czujność” osiągnie 10, Menedżer Piętra użyje potężnej Umiejętności.\nUważaj, by „Czujność” nie osiągnęła 10 stosów — albo przegraj Starcie z określoną Umiejętnością, by ją usunąć",
+      "kr_sha256": "135875f5200e611215e62736c6dc3775485d55ca15e3d0d23e2f5b792dc25177",
+      "en_sha256": "ef43c1e166efe38549c48838127206473ac9b5dff452bf9d8f4e7d7c8847cd56",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11010_3].content": {
+      "pl": "Jeśli posiadasz „Wdzięczność za Wysłuchanie”, jednym ze sposobów jest też chwilowe wstrzymanie ataków.",
+      "kr_sha256": "3b0aba2e0883abe1da751bd0b7f03506c0ee28ec2b79a596e1e246462e017ab9",
+      "en_sha256": "1b28d12a92608458a8c645506f20cb318fab9e09de036a769f29d4453428e9ed",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11011_1].content": {
+      "pl": "Linka Życia Czerwonego Boga [Życie Zarodkowe] ma ogromną moc — zalecamy zniszczyć ją w pierwszej kolejności.",
+      "kr_sha256": "480b5e108176475a83221dcf69db895b501298637178a46fcbf474cd551bdd2c",
+      "en_sha256": "a9e9abe58c4d4a8e41e170aac2ecbb172761247330aa3d66e38f310382992652",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11011_2].content": {
+      "pl": "Potężne Umiejętności Czerwonego Boga [Życie Zarodkowe] powinien przejąć sojusznik o wysokim HP.",
+      "kr_sha256": "264aeefe5a6672d6d80ea926ad4b73231999cad9d6fc856415b74b65931af077",
+      "en_sha256": "8209175d34fb700f48aad1f8552ff6adcdedff25fa29555f25f86b9b09de2e29",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11011_3].content": {
+      "pl": "Gdy stosy „Chrzest [Czerwień]” się nagromadzą, zalecamy usuwać je Umiejętnościami obrony. Przy maksimum czeka ogromne obrażenie od Krwawienia, a po śmierci na pole wchodzi „Rozdarte Ciało Czerwonego Boga [Życie Zarodkowe]”",
+      "kr_sha256": "977a3969c1a410d4d8d964cbb8786e63d5d665a74faaab1785de6a40b93e6ed2",
+      "en_sha256": "0ef859995e6fe3c6c3f964d64f540b2fd262f1c3e93e84716fbfb5facb6a35fd",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11016_1].content": {
+      "pl": "Trafienie Umiejętnością „Ścieg tak rażąco widoczny, mówisz?! Wbiję ci go w tyłek!” przy wysokich stosach Igłogwoźdź zamieni cię w wypchanie i zada potworne obrażenia.",
+      "kr_sha256": "80f41db8426c1a6d2851fd483e4037146028f959e8d262d96c14a64a478eeef8",
+      "en_sha256": "ea6c28ef21f97b0b52128767ac04d945340008e18b546105f8a78ca9c58a3646",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_11016_2].content": {
+      "pl": "W turze, w której Król Szycia używa potężnej Umiejętności, przeżyłe Igiełki mogą znacznie ją wzmocnić.",
+      "kr_sha256": "1adb5ec4a9d58383fbccafb42710c67b0df54fd278e26c39d5da0b313c0fd68f",
+      "en_sha256": "fe26f194f724918f7607dc53ebe0abb88132f84671f3ad535fc757cde2b94ef8",
+      "origin": "ai"
+    }
+  }
+}

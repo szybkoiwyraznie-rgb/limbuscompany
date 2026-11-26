@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=battle_pass_season_5_product_package_with_limbus_desc_summary].content": {
+      "pl": "◆ Limbus Pass Sezonu 5\n◆ Natychmiastowy zysk 10 poziomów Passu po zakupie\n◆ Bilet Specjalnego Wzmocnienia Tożsamości V\n◆ 2 Specjalne bannery Pakietu Limbus",
+      "kr_sha256": "4c4ef1dba9a68d6c06bf946ed64f786b6a3317025a69e1a8e5a73fdf34f71f35",
+      "en_sha256": "34750175ecf612de9118a5d13e734ab29b06d4704ffadb3d7810e20b17a3b4a6",
+      "origin": "ai"
+    },
+    "dataList[id=battle_pass_season_5_product_package_without_limbus_desc_summary].content": {
+      "pl": "◆ Natychmiastowy zysk 10 poziomów Passu po zakupie\n◆ Bilet Specjalnego Wzmocnienia Tożsamości V\n◆ 2 Specjalne bannery Pakietu Limbus",
+      "kr_sha256": "7a166770fd21c1dee4a72a1bcf0c01b71e905bc1bb6c01e666757a7a748ac6ed",
+      "en_sha256": "319f4e912edb2e362a82d2f12762e767472210a2e997a39d3e716b7d43af0198",
+      "origin": "ai"
+    }
+  }
+}

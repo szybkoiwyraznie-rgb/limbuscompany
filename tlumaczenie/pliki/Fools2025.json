@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=fools_2025_entrance_popup_desc].content": {
+      "pl": "Wejść do fabuły „Sen Środkowowiosennej Nocy 2”?",
+      "kr_sha256": "0dddb6e40655eb14ca134c6d204c7287b4c13e86fdeb094e061751aa1b1eaf3f",
+      "en_sha256": "a1ffb7154083fdaff597d9725d71ca0c820aafe7ada04f787ca22e00f14dd0a5",
+      "origin": "ai"
+    },
+    "dataList[id=fools_2025_entrance_popup_desc_not_cleared_target_chapter].content": {
+      "pl": "Wejść do fabuły „Sen Środkowowiosennej Nocy 2”?\n\n<size=35>※ Czas trwania: 2025.04.01 00:00 ~ 04.07 00:00 (KST) \n\n<color=#b01c37>※Uwaga: ta fabuła zawiera spoilery Intervallo V-2 Nocne Sprzątanie.</color></size>",
+      "kr_sha256": "6086d7add16f59e55b72ec485b4251a8b586f03bbcb4e667c04f30b5b03d5858",
+      "en_sha256": "bceb749960d895a9e7ca7d77bbd4612dbd916da29ba9479c772767243377ffb9",
+      "origin": "ai"
+    },
+    "dataList[id=fools_2025_entrance_popup_title].content": {
+      "pl": "Sen Środkowowiosennej Nocy 2",
+      "kr_sha256": "e4d8aaaf6b16a183f10a52c85b28cf991dabd4fbf764f5d0c675165721a1e8b3",
+      "en_sha256": "736d41ab30981e4f970cdca4e96063007fbec5fccb26f886a68690290eeb1c2c",
+      "origin": "ai"
+    }
+  }
+}

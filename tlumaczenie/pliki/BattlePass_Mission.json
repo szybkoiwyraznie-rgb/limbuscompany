@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=BATTLEPASS_LEVELUP].content": {
+      "pl": "Osiągnij poziom {0} Przepustki Bojowej",
+      "kr_sha256": "ac13e79aaa646ce774b9792f57cbc28335e975cc2c84954f67d7dc9a88369ee1",
+      "en_sha256": "ee610889ae2c0a365ddf4a5d3c42cb3d88517d6404915651f6f1a564cdeaa183",
+      "origin": "ai"
+    },
+    "dataList[id=CLEAR_STAGE].content": {
+      "pl": "Ukończ dowolny etap {0} razy",
+      "kr_sha256": "0c415b669583e6fe9f2df2522bdb77ab2a5bd83ee571416ace6c8c346e385298",
+      "en_sha256": "1a8e392510718fedfb373136b0b0bc4172c4b99cdd88eb5ec31b509648ef352f",
+      "origin": "ai"
+    },
+    "dataList[id=EXPDUNGEON_CLEAR].content": {
+      "pl": "Ukończ Wydobycie PD {0} razy",
+      "kr_sha256": "d825f88e77661627f614b353781d96937062b204883ce7519998cf5a89e550c2",
+      "en_sha256": "6ab9534e5d0c832541603de796b6c370866f730bd149f49f3ee3054190e95872",
+      "origin": "ai"
+    },
+    "dataList[id=KILL_ENEMY_ABNORMALITY].content": {
+      "pl": "Stłum {0} Anomalii w walkach",
+      "kr_sha256": "df76c0ff8eb4b2ffdb2241178fc5272263812b1bb3cbf0ae007b841b7cc2abfb",
+      "en_sha256": "a7910f1de6af1c3193fd840e68d45e1df3bda3f7bec52e93555526a30e52e2b9",
+      "origin": "ai"
+    },
+    "dataList[id=KILL_ENEMY_ANY].content": {
+      "pl": "Pokonaj łącznie {0} wrogów w walkach",
+      "kr_sha256": "e1d6f20fff06edd95ddd435ea9e9296dd1a5c09317e86de1a846758e8b6f24ae",
+      "en_sha256": "6f6a63f03c3f294614fbc3bda1d75bf6949647cbd3c5d49340e870f256e86441",
+      "origin": "ai"
+    },
+    "dataList[id=LOGIN_MULTIPLE].content": {
+      "pl": "Łącznie {0} dni logowania",
+      "kr_sha256": "3645c63a70561e84317392e78ec8bd2a38f5be8f0aaf0bd83e40d7186101bdb3",
+      "en_sha256": "a69ed21e3c0d425bcf973b3b7f775d69c4a7bb170ccb9c9bae966f136086155b",
+      "origin": "ai"
+    },
+    "dataList[id=LOGIN_ONCE].content": {
+      "pl": "{0} dziennych logowań",
+      "kr_sha256": "8189de1cd2a86ec0ccb41c5b289153ca3ca588ea4fd8a54ff32a6eb5ee0b38a3",
+      "en_sha256": "246ec8f54c15959574abb3abcf3d9d29cc76af5667a6b6f4ade7108b9b2a8b46",
+      "origin": "ai"
+    },
+    "dataList[id=MIRROR_DUNGEON_CLEAR].content": {
+      "pl": "Ukończ Lustrzane Lochy {0} razy",
+      "kr_sha256": "983ad4fef8ef8569a470549384778190e0a526911936c2e4cd7b6807451ca275",
+      "en_sha256": "5017e69742af2152a65282d4c9786001d67334f668410f37fd5af3b9bc54b08a",
+      "origin": "ai"
+    },
+    "dataList[id=MIRROR_DUNGEON_TRY].content": {
+      "pl": "Wejdź do Lustrzanych Loch {0} razy",
+      "kr_sha256": "bfbdb5729e58da9b2e901ab968a5e7a79f346aa703929beacd4e1ecfccd1ca6d",
+      "en_sha256": "4a0a5e24ac73a7ab9f61fd6f841c4a7bee444c39b341f04dc1b9d2585f4048bb",
+      "origin": "ai"
+    },
+    "dataList[id=PURCHASE_ENKEPHALIN_MODULE].content": {
+      "pl": "Wytwórz {0} Modułów Enkefalinu",
+      "kr_sha256": "5aa4e693a6fbfd3331519232612ca94989a65b5cb2a84d44d5a5b27fc03db2ba",
+      "en_sha256": "232062c70064e07937f6006030bad95d42310f732360626daa84ff777730f933",
+      "origin": "ai"
+    },
+    "dataList[id=SOMEONE_PARTICIPATED_IN_BATTLE].content": {
+      "pl": "Weź udział w {0} walkach jako {1}",
+      "kr_sha256": "cff957181ddc1bc9058973c86b04aab969c564d127bd86c5a6a0056e15e03891",
+      "en_sha256": "f757278394ffee6b8fde670ad1d8a5c0cddd7c6cf781fa6c35e049fbf4e0a2e8",
+      "origin": "ai"
+    },
+    "dataList[id=THREADDENGEON_CLEAR].content": {
+      "pl": "Ukończ Wydobycie Nici {0} razy",
+      "kr_sha256": "d65c38d559f87100cf52e4e3fe2e42541b500da6ba28ce58b5494859fc421a6e",
+      "en_sha256": "85f5448bc54d3f24d07c7d742b07123ec2a3e6227bae88a24f43cab91aab2402",
+      "origin": "ai"
+    },
+    "dataList[id=USE_ANNOUNCER_2].content": {
+      "pl": "Ustaw Gregora jako Komentatora {0} razy",
+      "kr_sha256": "5a27854538509f617711199146ffc8ba91991e16953ba65ac1b2d0f1840d123b",
+      "en_sha256": "64edd051dc4e75bcc21bf5dd34433a12162541e233ccb921e08f8afee1a1fe02",
+      "origin": "ai"
+    },
+    "dataList[id=USE_EGO_20402].content": {
+      "pl": "Użyj 4. Zapałki Ryōshū {0} razy",
+      "kr_sha256": "8caacab350c3b48c0b43a4f00451a0639630b73e7207867ba0d25f5b5ad4720a",
+      "en_sha256": "8c759aad41093795ab3dfc5c4db1f79997c8229a189193bba049a5abd819ce80",
+      "origin": "ai"
+    }
+  }
+}

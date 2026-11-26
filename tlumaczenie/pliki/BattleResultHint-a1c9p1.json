@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=battleTip_10903_1].content": {
+      "pl": "Rozkazem Ojca Kciuka Uczeń Kciuka nie może wymierzyć silnego ciosu w Ryōshū.",
+      "kr_sha256": "ca54312545ea8377cfa87d304a7326f64ab011e37ca5cb1ecb8f43976bd12f7f",
+      "en_sha256": "48903d45d7bb41a8af35dd3051bc0188eee37f8442c107180af9c28db5200e32",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10903_2].content": {
+      "pl": "Nie zaleca się wielokrotnego prowadzenia Starć z Uczniem Kciuka tym samym Skazańcem.",
+      "kr_sha256": "6e832e1fa202fe6212e08f0bc46d75f2fe3ec6d51bf8351cfc29634b92b33653",
+      "en_sha256": "1f06ac14099284fa72834c109accb01af28d7d56ed60aac710b65ab43ce3b6ab",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10903_3].content": {
+      "pl": "Zanim Uczeń Kciuka wyprowadzi potężniejszy atak, trzeba najpierw wygrać Starcia z jego pozostałymi Umiejętnościami ataku.",
+      "kr_sha256": "6abdcf68c6f0b6bad610b49bbb0bfad47b9820d8a81ba568a6f5cd0aaee81525",
+      "en_sha256": "0d34c4249a0eee918cee46f9ef380abffcb985d509431232ec7638a9d626215d",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10910_1].content": {
+      "pl": "Priorytetowe niszczenie części przeszkadzających w zniszczeniu Owocu może być korzystniejszą strategią.",
+      "kr_sha256": "057ed4c2e474aad64dd9885064e1ffad92c3739e7f6394232bbdd6475cd21e09",
+      "en_sha256": "d6eb058b4cb838ba9ff3196a277e250035da4e9e2dca8c7f32f8ccb1086ff8f0",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10910_2].content": {
+      "pl": "Ważne jest śledzenie, którą część celuje każdy Skazaniec.",
+      "kr_sha256": "ddc7946f805669569b354b1514ce061b2019d49a0f44ff720c44c79eb06f9c32",
+      "en_sha256": "d200d6dc8fc229e105421e4d252d9dd51d485526b5681186f422393ab2578569",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10910_3].content": {
+      "pl": "Sprawdź wyposażone E.G.O i dobierz do składu Tożsamości pozwalające sprawnie gromadzić potrzebne im zasoby w walce.",
+      "kr_sha256": "43fca9bc7d407e6de9fceef0a5baa159cb5c3280dc2b4203b2d307eb6d39307a",
+      "en_sha256": "db2175aa6a1b0382d7d8589db8d32c2098391dc654ce504bb4601dc551edae90",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10918_phase1_1].content": {
+      "pl": "Przygotuj strategię, która wygra Starcia z zabójczymi Umiejętnościami Ucznia Małego Palca.",
+      "kr_sha256": "5246b678038502f728ba072003b51b63fcd73fdd0ab708868890da4b18e471cd",
+      "en_sha256": "aed5abee6f10b359ed878909700c9b2809c338d592af5b951b319fb7f294742c",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10918_phase1_2].content": {
+      "pl": "Właściwa reakcja na najgroźniejsze ataki jest ważniejsza niż przypisywanie Starć do każdego slotu.",
+      "kr_sha256": "74e605f148712e1e0fde9b2f3ef92314c36b9d44df635954650de587f17cb25a",
+      "en_sha256": "4a767540c43487cd65d3aabbc091fc30efeca43af1502505d4145c0eb5682fe3",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10918_phase2_1].content": {
+      "pl": "Najgroźniejszą Umiejętność Uczennicy Serdecznego można osłabić także inaczej niż Starciem.",
+      "kr_sha256": "313a4f1898898b8d16f2b136d39a677f826fcdfbf03b194fda88cc06ce507053",
+      "en_sha256": "c87e9462e7e0a4af141c184e0822a70b04c3c4306d1fb4e85aaa3fc9801ad5ff",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10918_phase2_2].content": {
+      "pl": "Obrona Uczennicy Serdecznego nakłada Krwawienie — prowadź z nią Starcia ostrożnie.",
+      "kr_sha256": "b9599a6d7a13029c072dbce6b779892c2ee025e3b6096511a85970b1f9391469",
+      "en_sha256": "38e287c2d6e5847575b301c33d2a61113a166143a8fcf6b4d0c9878bbe0e425e",
+      "origin": "ai"
+    }
+  }
+}

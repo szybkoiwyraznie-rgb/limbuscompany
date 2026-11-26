@@ -1,0 +1,112 @@
+{
+  "entries": {
+    "dataList[id=event_verification_already_verified].content": {
+      "pl": "To konto zostało już zweryfikowane. (Nie można zweryfikować ponownie)",
+      "kr_sha256": "d7ba0004851ab89aefff621945106febf37f53dd630974444c63e029888a8097",
+      "en_sha256": "e9a409ce80a3cf9a91c561afc5b99ad4127babdf41590a1603db55e2574eb8cd",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_authenticate_btn].content": {
+      "pl": "Zweryfikuj",
+      "kr_sha256": "4c2ca537220de527814a7903eec83e78626372e1b48d5a8b14624949f31527d6",
+      "en_sha256": "eea2745e2867a6772adc3e813211e6ce7b6ebd312d7e84a7c1b1aa2f8c75fd4b",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_btn].content": {
+      "pl": "Weryfikacja Przepustki 10-lecia Project Moon",
+      "kr_sha256": "a938252d58aff12c81eeec2ab65dd6904fc8e0e75b7ee37795ee7fe11532eba1",
+      "en_sha256": "70e8a2e14f70bc4a6e0aa4a4f2aff6e2ace79230edf22cc9595f546712a3e8ea",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_confirm_desc].content": {
+      "pl": "Jeśli personel na miejscu nie przeprowadzi weryfikacji, opaska koncertowa i wstęp nie będą dostępne. Czy na pewno chcesz kontynuować?",
+      "kr_sha256": "dec9b19c4829125d9512ce9ecfc03b0cc1f730f80a9fde2a9ec1b4e60d486ff4",
+      "en_sha256": "9655184c5d72a2467bbaa43879207f8bbbe69e189475566c17ce24fad03f99d6",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_ended].content": {
+      "pl": "Okres weryfikacji dobiegł końca.",
+      "kr_sha256": "00e6a5925bfc58e342185316f2f7d8fe51db5984e69f4adaf1d090ef23f76a0e",
+      "en_sha256": "e258f3e9dc1381dcd6d24c17c0a92c3568c75def25e314ae60f800646b503d46",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_failed_title].content": {
+      "pl": "Weryfikacja nieudana",
+      "kr_sha256": "885e9d9a224415e942b04dc5dc80d27324a6b7aebeb54707a5478cf419b261a5",
+      "en_sha256": "cb3a722bd933b8ca5c6d70f50345f2f50bbbceb48eea173f7177def9a222a458",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_input_verified].content": {
+      "pl": "Zweryfikowane konto (Nie można zweryfikować ponownie)",
+      "kr_sha256": "a9570568d26e52e79692da3fea29a812c6e6d5037f74ee27a45bac8585806e2d",
+      "en_sha256": "4c84754da27c3f9a24ee615fea7d5fab3a9dd36fdb2462ec2b9da201699d378d",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_invalid_code].content": {
+      "pl": "<b><color=#990000>Kod weryfikacji jest nieprawidłowy.</color></b>\nWprowadź kod ponownie.",
+      "kr_sha256": "af3870bdf7a72f48b0f45d3303aa50789a44048949d94685d5fd8c2014f324d0",
+      "en_sha256": "8e17a6e7b05f3cf99204496a69aac22752fd64c119490d38f2a2241538103004",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_level_required].content": {
+      "pl": "Weryfikacja dostępna tylko dla kont z poziomem Menedżera {0} lub wyższym.",
+      "kr_sha256": "5951c100ad117eb7b1b0a1c97905111510f1c80d33741c212943e7ed72d131c2",
+      "en_sha256": "c5ccc092535746f35324561139cac77ec9e1ad7e40fe6d221720a3b718947e38",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_locked].content": {
+      "pl": "<b><color=#990000>Kod weryfikacji błędnie wprowadzono 3 razy.</color></b>\nSpróbuj ponownie za {0} sekund.",
+      "kr_sha256": "0a74a1308d66e04f3715a45b38cda8061bda18a6319ab3d5f73a54a9b297ce42",
+      "en_sha256": "e6ad362f97ff3e1f8c747ecd0dbd462920f32c39b2fd02ebd4c876cb7a248c8a",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_not_started].content": {
+      "pl": "Okres weryfikacji jeszcze się nie rozpoczął.",
+      "kr_sha256": "8072cd763fb8cbd91e055f5a3b622b7ec0893bc28a0ffab67920207532dba553",
+      "en_sha256": "f245f062935e532ea706e889ce5032350c4a44eaeb46753e24fef7eee9a3e8c8",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_popup_desc].content": {
+      "pl": "Pokaż ten ekran personelowi na miejscu.\nKod weryfikacji wprowadzi personel.\n\n<b><color=#990000>Jeśli zweryfikujesz konto samodzielnie, nie będzie można zweryfikować go ponownie na miejscu — oznacza to, że nie otrzymasz na miejscu opaski wstępu ani nie wejdziesz na koncert.</color></b>",
+      "kr_sha256": "6520898427a9444134f5b8e7273f173399324475fd52116e0140904f5467a22e",
+      "en_sha256": "83bc15123f9de95bccb8cf83453fc101c8303b6fcdc14b8aa69e8e060f40e77e",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_popup_title].content": {
+      "pl": "Weryfikacja Przepustki 10-lecia Project Moon",
+      "kr_sha256": "a938252d58aff12c81eeec2ab65dd6904fc8e0e75b7ee37795ee7fe11532eba1",
+      "en_sha256": "70e8a2e14f70bc4a6e0aa4a4f2aff6e2ace79230edf22cc9595f546712a3e8ea",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_retry_btn].content": {
+      "pl": "Spróbuj ponownie",
+      "kr_sha256": "86cebcee7e8f6100eb1d7bb77ba7a3e8fdad39b511189fe1673a9a6a8e5cf6d3",
+      "en_sha256": "942087cc2d41e01304b7195558d093d10c72af8e838c7556d6a02d471ee71852",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_staff_code_placeholder].content": {
+      "pl": "Kod weryfikacji wyłącznie dla personelu",
+      "kr_sha256": "b9fbb77d2d022ba53710ae81b15c8a8c781344f7a62f3a0d57eba20ee396a7a6",
+      "en_sha256": "445e442a975daa836e68602a6b6aa7bf14fb5d81f3f4dc960e3cd265b6f28b8d",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_unavailable].content": {
+      "pl": "Aktualnie nie ma weryfikacji.",
+      "kr_sha256": "ff8283cdb5000e838cefdc4572b4c7c1dd57fc688d165c1ec0408f3fa1dcc316",
+      "en_sha256": "f33177d83f3cac1c628b579b313f6489c9f451ceb0015aca241de8b19366eb60",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_verified].content": {
+      "pl": "Weryfikacja zakończona.",
+      "kr_sha256": "e1a14b453cd77b1b0f43d96d243d8e3ec48f70d5e2ab25cc58f3d3ed3892892f",
+      "en_sha256": "3355ec157a4349ad439067a8087f2926122bed13b58cfe9976f7d19a8fb95008",
+      "origin": "ai"
+    },
+    "dataList[id=event_verification_verified_at].content": {
+      "pl": "Data weryfikacji: {0} (KST)",
+      "kr_sha256": "0d70b335dd01179c07536323ab237a1a9fd61c080bd6696368086509d7edd4d0",
+      "en_sha256": "e54d77969951da025d3426bc404b60c6abfc6f46500a886cbab98ad48329c525",
+      "origin": "ai"
+    }
+  }
+}

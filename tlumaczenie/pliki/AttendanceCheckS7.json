@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=attendance_check_s7_special_reward_condition].content": {
+      "pl": "Zdobyte za ukończenie\nWalki Projekcyjnej — Chachihu (Normal)\nw okresie wydarzenia",
+      "kr_sha256": "a2571e349ead01b01a6adbfc368fb1c650e5d93428762acffcbe33d5c284ed83",
+      "en_sha256": "e290e4d11852892d361b9561498cf75bdb265e6360fcb004bef04cfa28d495d5",
+      "origin": "ai"
+    },
+    "dataList[id=attendance_event_s7_desc].content": {
+      "pl": "※ W okresie wydarzenia nagrody zależą od łącznej liczby dni logowania.",
+      "kr_sha256": "1fd30377873ddecd886c4807c629bb5efdbc393b58fb73f96615ad4640aa6d42",
+      "en_sha256": "879580779c1aa000763fec0bb88d37576a9f2f52270a4537ded185f5be023627",
+      "origin": "ai"
+    }
+  }
+}

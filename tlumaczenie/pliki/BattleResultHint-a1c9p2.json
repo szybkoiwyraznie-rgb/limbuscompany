@@ -1,0 +1,70 @@
+{
+  "entries": {
+    "dataList[id=battleTip_10925_1].content": {
+      "pl": "Gdy ataków wroga nie da się przyjąć frontalnie, gra defensywna może być lepszą strategią.",
+      "kr_sha256": "ce3fe2a4786f2ec4adc3ae8f078718d6f2e89bdbe8bfeab23c02b187b2731ee9",
+      "en_sha256": "14f4ce645abf07419b9b42a0f695bf8cad86b444ac3190a7c9c365d76db3d3d7",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10925_2].content": {
+      "pl": "Niszczenie chronionej części, by trafić w słabość, może być skuteczną taktyką.",
+      "kr_sha256": "0b37ce289076f0a61bd8da7efdd68f64224d1b542667da210ddb739e1fb7276f",
+      "en_sha256": "4fb52f3212fdb7c4a46b8e2f790f523b301e424ca164ea2bd14457c7e7d22e6a",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10925_3].content": {
+      "pl": "Sprawdź wyposażone E.G.O i dobierz do składu Tożsamości pozwalające sprawnie gromadzić potrzebne im zasoby w walce.",
+      "kr_sha256": "43fca9bc7d407e6de9fceef0a5baa159cb5c3280dc2b4203b2d307eb6d39307a",
+      "en_sha256": "def78807f217cbfb1c8759631bd7cc35f4549616780957aa5d8a36b786d29adb",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10928_1].content": {
+      "pl": "Rozpoznanie odporności słabej części wroga może być lepszą strategią.",
+      "kr_sha256": "20bae7da32c2c328d14827b63c28c42baeca595c9889f86d5b2e657272b38db1",
+      "en_sha256": "d52f491b25c76a166ce8a3adc35efaf798bc9d5365f5b27ddaa49dd16bd14812",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10928_2].content": {
+      "pl": "Ważne jest używanie E.G.O we właściwych momentach.",
+      "kr_sha256": "b267a0adc6329b9df8429497b85ba5af55b7f69a6c96f175540bc9a481dd2e77",
+      "en_sha256": "29c47506e38c9f2eaeede4aa8aed6b7fbabcbc7c037d384c0a2580de93b09ad7",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10928_3].content": {
+      "pl": "Sprawdź wyposażone E.G.O i dobierz do składu Tożsamości pozwalające sprawnie gromadzić potrzebne im zasoby w walce.",
+      "kr_sha256": "43fca9bc7d407e6de9fceef0a5baa159cb5c3280dc2b4203b2d307eb6d39307a",
+      "en_sha256": "def78807f217cbfb1c8759631bd7cc35f4549616780957aa5d8a36b786d29adb",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10930_1].content": {
+      "pl": "Gdy Uczennica Wskazującego Sora nie zrealizuje Nakazu, zyskuje Karma. Sprawdź treść Nakazu i przeszkadzaj w jego wykonaniu.",
+      "kr_sha256": "1f59a1a291fa0c61cc36c82f0f2d35402f4b25aeebc0ef68b9d05680c24439f8",
+      "en_sha256": "5c5dff67827f9f1ed00f19c85edfe13ea58f30b2aed8d79aa692b72425f6624a",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10930_2].content": {
+      "pl": "Aby zablokować wczesne Nakazy, Skazańcy z „Celem Nakazu” powinni unikać Starć z Umiejętnością pierwszego slotu Sory.",
+      "kr_sha256": "914a1eb22b29ed5297007fa5c1b6543e888901f1831bdc17801a4e5d8ed31981",
+      "en_sha256": "ba2a05dbc2948a8086855d5db911087bbfeda8910f33f18ac04fcd39c5e8afd6",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10930_3].content": {
+      "pl": "Buff Ryōshū kryje ukryty efekt specjalny. Gdy określony atak Uczennicy Wskazującej okaże się zbyt trudny, odpowiedz Ryōshū.",
+      "kr_sha256": "676c7612343db0dfe04212384a5f9d8fcb51812602722ff6099f595e78827035",
+      "en_sha256": "c7b6d6b62f86a97bb6c01189cb3c88e553b41aa33f7befd5a9d70b5279d3f5fa",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10933_1].content": {
+      "pl": "Przyjrzyj się Umiejętności „Wyczekiwanie” — pozwala obniżyć Moc wroga w tej turze.",
+      "kr_sha256": "41348b8be6894ed12498cc0b378040ba4b94f4bdcee904fed65fbe103ee1f873",
+      "en_sha256": "dd825dd4e6741240845253b76e8f0b2350415b1c2d2569e0b1b29a591c375475",
+      "origin": "ai"
+    },
+    "dataList[id=battleTip_10933_2].content": {
+      "pl": "Przyjrzyj się Umiejętności „Krok Powidła [殘像步]” — może złagodzić unikalny debuff wroga „Ślad Ostrza [Powidło]”.",
+      "kr_sha256": "f21e1219d1e5e940929405174432c1138cea5d9753eeb7c060b03052cc3c270b",
+      "en_sha256": "bb436417c7537c1b143ca266068725a6991ea90c717a408397830ca323bff999",
+      "origin": "ai"
+    }
+  }
+}

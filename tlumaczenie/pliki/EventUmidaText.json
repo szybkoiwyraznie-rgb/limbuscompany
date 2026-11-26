@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=umida_exchange_scrap].content": {
+      "pl": "Pojemnik na Złom",
+      "kr_sha256": "0496b1d6aabc2cb23762c3f35c07bdfab7590938947baca10f62c2e480730fdd",
+      "en_sha256": "690bd0356f49627c1d2d68132b6d1496042b0ec76361288fac759a75b7d3e3ae",
+      "origin": "ai"
+    },
+    "dataList[id=umida_rewardpage_desc].content": {
+      "pl": "Ukończywszy etapy wydarzenia lub Głównej Fabuły, zdobędziesz <color=#f8c200>[Złom do Modernizacji Autobusu]</color>.\n\nProporcjonalnie do ilości <color=#f8c200>[Złomu do Modernizacji Autobusu]</color> możesz odbierać różne nagrody w <color=#f8c200>[Pojemniku na Złom]</color>.",
+      "kr_sha256": "7692d030e3592978d9cf5ced314eecf9e5039622bb70a53c93d0ae97ae48fa4a",
+      "en_sha256": "21e27bccd8ca42242a48bfe1c65a1cd48eec4d6d03c9be4bab1f78d5997bf3f5",
+      "origin": "ai"
+    },
+    "dataList[id=umida_scrap_counter_label].content": {
+      "pl": "Zebrany Złom",
+      "kr_sha256": "a710f147be9011a4ab8c773dbf76f93e8fb13cf48377c1dbe398189ef2b9c3e2",
+      "en_sha256": "6e750626041cf3af1c714114146d8bf746c888537e4b4de337844449a8808553",
+      "origin": "ai"
+    },
+    "dataList[id=umida_scrap_guide_desc].content": {
+      "pl": "Ukończywszy etapy wydarzenia lub Głównej Fabuły, z pewnym prawdopodobieństwem zdobędziesz <color=#f8c200>[Złom do Modernizacji Autobusu z Rzadką Podkową]</color>.\n\n<color=#f8c200>[Złom do Modernizacji Autobusu z Rzadką Podkową]</color> zamienia się na 20 <color=#f8c200>[Złomu do Modernizacji Autobusu]</color>.",
+      "kr_sha256": "06c3c53f5e0e7df6462bcc2b500788849c745dad7dea7e6ecafbaad63018c36a",
+      "en_sha256": "5941f002b1d67b93074ddac19dc800737ca03f7325658f91dc966646cf78c273",
+      "origin": "ai"
+    },
+    "dataList[id=umida_scrap_guide_title].content": {
+      "pl": "Niezwykły Złom",
+      "kr_sha256": "f026c8ccbd954fec7f997527e55602b17df0640467c34113affbea33bcdc7dfb",
+      "en_sha256": "9019cd254f420cfe5a507d863f1626dc8b89106f710b57179a0322c01ca01b35",
+      "origin": "ai"
+    },
+    "dataList[id=umida_stagebutton_end_event].content": {
+      "pl": "Wydarzenie zakończone",
+      "kr_sha256": "10c1a7fb6ac0beea563fd4a9919506b1709388ed4b621086ee28062fe8d16a13",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=umida_stagebutton_normal].content": {
+      "pl": "Zbieraj Złom",
+      "kr_sha256": "5c8b9bcfed003d8b9b237ab7f11beaf19176945c9375da02cec38e9a5a76dd96",
+      "en_sha256": "bdd588070e5563e6f0b824d5619a8f5825fd3697842ada85b2d211f81ae703bb",
+      "origin": "ai"
+    },
+    "dataList[id=umida_stagebutton_not_clear_cp4].content": {
+      "pl": "Odblokowanie po ukończeniu 4-54",
+      "kr_sha256": "5ff17955b5399a2c16a0cc9f2d441ee9ade505f285c86a984e968062bce26bb7",
+      "en_sha256": "7f79e29ea45fdc040f711c76590526069786e54eb67a6bdc55511d7ced0102cb",
+      "origin": "ai"
+    },
+    "dataList[id=umida_storybutton_before_start].content": {
+      "pl": "Odblokowanie po ukończeniu 4.5-1",
+      "kr_sha256": "7f7bcc80eb127893f9803d9626dd116a09cd6d3e0b89a1321503973fa83e2188",
+      "en_sha256": "d05e1ab8ebe878949fd678a05cabc7a2ec3657a775050dd9224ceea46a100f62",
+      "origin": "ai"
+    },
+    "dataList[id=umida_storybutton_normal].content": {
+      "pl": "Wspomnij wspomnienia",
+      "kr_sha256": "be9e4fceb51f8c60c7466a298f34a79de6302b11b0852a44a9d7c3e96d23a473",
+      "en_sha256": "d24d369967b214ebe11cb6957cfc04bdca61cf30815ade62b0c2dbacae0f832d",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=check_rewards].content": {
+      "pl": "Sprawdź nagrody",
+      "kr_sha256": "abc36c19ffc8b6c5ae83ebfc11076a46039e280c9f4088498de402e900684444",
+      "en_sha256": "12309ddb7bc2d8d988a56ad48591b9ae617cc792cbe7b7fb2acc9e108ea8f932",
+      "origin": "ai"
+    },
+    "dataList[id=earned_doll_count].content": {
+      "pl": "Zdobyte Pluszaki Bongy",
+      "kr_sha256": "dbb76cd0be01491e17ce0a36a86909241971114845d71ea081e2e645b9f41b54",
+      "en_sha256": "e47044ce59a1e38f5db3e1a6703a0e9202181e1d8075f77665752b8801cbd3ba",
+      "origin": "ai"
+    },
+    "dataList[id=giving_up_hells_chicken_dungeon_content].content": {
+      "pl": "Obecnie eksplorujesz {0}.\nPorzucić postęp i spróbować nowego lochu?",
+      "kr_sha256": "5ee45b6d59f5ae031b5c027fa263d918fef90bbbbdb2b617d90414d9e5750658",
+      "en_sha256": "ea26ebfc7bc32be80e826300bd96d49db0ef4f4712876f1a7bf48e765705fbfe",
+      "origin": "ai"
+    },
+    "dataList[id=giving_up_hells_chicken_dungeon_title].content": {
+      "pl": "Porzucić Loch Wydarzenia",
+      "kr_sha256": "1603a01e348cb27286aaead3fbbe0f577eb1c9a19e5795ab2416649aa254dc0a",
+      "en_sha256": "ddcd358ef706e33d63de655dba85a785ae5470dd590dce9f993e0d7234cbf6f3",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_additional_effect_desc].content": {
+      "pl": "Mając w składzie Tożsamości i E.G.O wydarzenia,\nzwiększasz zdobywanie [Pluszaków Bongy]",
+      "kr_sha256": "5099b103253621f809b1bcb89069576163d322edab08032d2b16a05429051c81",
+      "en_sha256": "74339fed2b366c3ef53b5d78e34938515f3853e56646c7202359262aa5f2be60",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_bonus_description].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości i E.G.O, <color=#f8c200>zwiększasz zdobywanie [Pluszaków Bongy]</color>.",
+      "kr_sha256": "e9adc2ff75860e21e507ad5188a040e6769cd763b13649901402872040e20206",
+      "en_sha256": "38cb5a2dd57f1c9f158e34476467c53e7d58c1af56e0f9e121dd8423153d0a3a",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_doll_name].content": {
+      "pl": "Pluszak Bongy",
+      "kr_sha256": "5dd547e1b1708112c07d9c80d2035338b07d0f774d952e21057c51ae202d0f4c",
+      "en_sha256": "1a16ebd09bd0038b21cff23649188beb7ff7560da3e0e73581f4c2dbb4520ebc",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_dungeon_ask_recent_personality].content": {
+      "pl": "Wczytać listę Tożsamości i E.G.O zapisaną w szablonie?",
+      "kr_sha256": "1bf55f9af7a42882a68700d9073196cd9d5070dd5b07a010de2de5b6a13e6a1b",
+      "en_sha256": "ea41d73a3fce82a31cc63b81c3d164c71a950434de0fba25826eab1f1157a148",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_dungeon_desc_recent_personality].content": {
+      "pl": "※ Lista użytych Tożsamości i E.G.O zapisuje się automatycznie w szablonie; przy ponownym wejściu można ją wczytać.",
+      "kr_sha256": "e85978e5c56d42b6999a032c117095531c200a8d024ae44aa5046a7e1ead0aaa",
+      "en_sha256": "348dd9da1520377c3f9d49eb1740324311288c0ba7c62a1e51fd74e621f11ee7",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_dungeon_error_desc].content": {
+      "pl": "Dane utracono z powodu błędu serwera.\nPo porzuceniu Moduły Enkefalinu użyte do wejścia zostaną zwrócone.",
+      "kr_sha256": "53c9cf6aa3806e0fb216613ca27a9886166ff3a9c5cd8bca9f60c0b4301b977a",
+      "en_sha256": "1c477833929c35edde3e6cbb7c7bd0f2ec43382f3ae2c4ed21a724c9ca64f25b",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_dungeon_no_recent_personality].content": {
+      "pl": "Brak zapisanych szablonów.",
+      "kr_sha256": "654991d7944f5f9d3407e95afda17f78bf418d59a178582ddf8a7992b6968d4a",
+      "en_sha256": "1fc2bafa0416440d98dac42842dbc20791f48ac7da3898efdab3847113887a88",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_dungeon_select_recent].content": {
+      "pl": "Szablon składu",
+      "kr_sha256": "6654f8b110de6c3e7284adb87c7bb8ec6cc7411e923fe8040c57f7f14e5b5855",
+      "en_sha256": "7252e7ce008587e1180459d95c2536df954971d6c51e6ac753518a6fe15da563",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_dungeon_stage_button_locked].content": {
+      "pl": "Najpierw ukończ Cant III.",
+      "kr_sha256": "4eef8a3cfc50dcee2da6d45abac4dd58c67e9610265efc334edd84459334f84f",
+      "en_sha256": "841d6425cab4aee568f57b3c2f98d7ad3f7b5d03d0a8db523b35373ddf510f3b",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_event_end_stage_text].content": {
+      "pl": "Zbieram się\nna urlop.",
+      "kr_sha256": "474e22050e79e6a93dfb6a9b9c3567ede14c92624c3d4aa82ca53ee7b7d74a32",
+      "en_sha256": "a1d2b1ba51dab5509c2bc59cbf3f7dd7bb4bfb2833965d62861bdec2b195bb32",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_event_panel_stage].content": {
+      "pl": "Ruszaj na etapy!",
+      "kr_sha256": "dd6c9ba2ee7461d7f6536a9d20265bfe7cc0ea5967a888c1894cd863eec4afeb",
+      "en_sha256": "7297ea54d862b80474fd4f3273f7053f74f7cc5aad7ece7ebcaec75890a3b087",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_event_panel_story_desc].content": {
+      "pl": "(Ponowne obejrzenie fabuły)",
+      "kr_sha256": "db76fa5ea4d691fa0ea8c9f70508c3a31a8aee67cbf53c574b6e16584da94fb7",
+      "en_sha256": "208daeca00f974199a1064f0595cae9311178990481bd5bf43475ef4d63db36a",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_event_panel_story_title].content": {
+      "pl": "R.S.",
+      "kr_sha256": "530d29bcf1347d233c9bac6c525e62cf5104564cba7c5681dc53da67af8d38be",
+      "en_sha256": "fb964c8759779d134ce88b2a99b9098955ae7355f8f3370a8820dbe1bf0a59c9",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_main_event_banner_unlock_condition].content": {
+      "pl": "Odblokowanie po ukończeniu 3-22",
+      "kr_sha256": "694c002da1740c9c0dafb7de0e31efb089e967ee2a280b0f4d7cf27d933364cb",
+      "en_sha256": "c66a769d468d4dc1bbb6bf6fba3f213a2bba91cafa2698966cde65ac900cc23f",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_reward_event_description].content": {
+      "pl": "Ukończywszy etapy i lochy Piekielnego Kurczaka lub Głównej Fabuły, zdobędziesz <color=#990000>[Pluszaki Bongy]</color>.\n\nProporcjonalnie do liczby zdobytych <color=#990000>[Pluszaków Bongy]</color> możesz odbierać różne nagrody w <color=#990000>[Wymianie Kuponów]</color>.",
+      "kr_sha256": "70f502e57aec9d5ef827da85e72bc7e97caea869edd4d24e87ad1939973c2b85",
+      "en_sha256": "4db4b59f87145e1cb53d6994c32098d8edc632a74caa7f4341351f0f42fb954d",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_reward_event_main_phrase].content": {
+      "pl": "U Eunbonga <color=#205925>Bar i Smażalnia<color=#ebcaa2> ogłasza Kurczakomanię!",
+      "kr_sha256": "9e669a205d50d22aad9e6a7559dfb974436ab7006451bff55e7fa366bc11f0a4",
+      "en_sha256": "83149b34b414b52a78efe80271fdcc6a7990a0c47998bf25b675d96e4770895c",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_reward_event_phrase_0].content": {
+      "pl": "※ Całe mięso używane u Eunbonga nie pochodzi z Osobliwości K Corp. — możesz jeść bez obaw.",
+      "kr_sha256": "7f88ba5f8ca926c11c2d77ab2a0dd47b025835904b07846b820c996250d75760",
+      "en_sha256": "fbe05c57d3711996171a44be4d07de5e132f844039888546685894675aef83d2",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_reward_event_phrase_1].content": {
+      "pl": "Tyle nagród w zasięgu ręki?! Właścicielka oszalała!!!",
+      "kr_sha256": "a12382f6cc8aa0a0294e662d98d02b9d125cdc6cf734488a0d923e97f38ce27e",
+      "en_sha256": "24e1f09a079b9fa00fd1979a45372ed9c4df271ea5f0e9cb24adb861bd614c58",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_reward_event_phrase_2].content": {
+      "pl": "SPECJALNY\nKURCZAKOWY KUPON",
+      "kr_sha256": "b2e309df3684857a344cdae2575e33558e19a38ef24eaaead61d0f50e1cf8f34",
+      "en_sha256": "0300f4ee6187e1aa8abfe4cff8472ba9bf926f73dde33ad8bc306bc0b76671bd",
+      "origin": "ai"
+    },
+    "dataList[id=hells_chicken_reward_exchange_counter].content": {
+      "pl": "Wymiana Kuponów",
+      "kr_sha256": "7a29231ac08af96c2eb6ca50de8ffc8896396a0ab02325288034dc6e222125e2",
+      "en_sha256": "ea78668f14478d4c3fc6af1ef88f75fd825efadecf13b2d11eeea7aaad4b7b48",
+      "origin": "ai"
+    },
+    "dataList[id=only_giving_up_hells_chicken_dungeon_content].content": {
+      "pl": "{0} w toku.\nNa pewno porzucić?",
+      "kr_sha256": "dd6762a4276d7acf0eda1133f21bb372812f198547c16fbffa06228742a9ee5d",
+      "en_sha256": "fc1deb6306b4f2f162150c6f2c7c2192613346c5a1a8b0f2d1a606bddf703442",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=all_egos].content": {
+      "pl": "Wszystkie E.G.O",
+      "kr_sha256": "f6ac3f3d3f0562051936358d7a6a947bcfa303b7916f4e9f25317ec129d29af8",
+      "en_sha256": "c80d86f128c29b64e3cca3a43ec604d0abd70daee03cd0717703a815e7a5314f",
+      "origin": "ai"
+    },
+    "dataList[id=check_default_ego_leap_up].content": {
+      "pl": "To E.G.O można podnieść do Stopnia 3 Splotu Nici bezkosztowo, postępując w Głównej Fabule.\n\nCzy mimo to przeprowadzić Splot Nici?",
+      "kr_sha256": "c13fccddd4b4dfba361d6749887ecb1fb35ae71bac35c7d4f6cceeb4946eac04",
+      "en_sha256": "4fa8380a14aad640c0314dcd1d3e7b6988e4406239fbaa2e91913ea0fadb6133",
+      "origin": "ai"
+    },
+    "dataList[id=check_default_personality_leap_up].content": {
+      "pl": "Tę Tożsamość można podnieść do Stopnia 3 Synchronizacji bezkosztowo, postępując w Głównej Fabule.\n\nCzy mimo to przeprowadzić Synchronizację?",
+      "kr_sha256": "2b955668219edb5c8aec31827e1d83a9af556829902acfdc728252fc59a6b9bf",
+      "en_sha256": "a7bf2d85d25c3d545abd43d303fa77eaa377c8415cb00aee8ab5b2465aa86ed9",
+      "origin": "ai"
+    },
+    "dataList[id=ego_gacksung_grade].content": {
+      "pl": "Stopień Splotu Nici",
+      "kr_sha256": "f8564156d508512a8fedbccb6fe8bd56db33b461fa10c3b9ba6d42a0f58d286d",
+      "en_sha256": "3e434850cfbd77be87eef8d17b5f14798feb338d738a2aaa60b1063194d2cb57",
+      "origin": "ai"
+    },
+    "dataList[id=ego_leap_up_confim_main_only_gacksung].content": {
+      "pl": "Stopień Splotu Nici E.G.O [{0}] zmieni się następująco.",
+      "kr_sha256": "a4578c1b81e4686d434630a22f5174d2e8fbfb0d5e49762e759200734f879fc5",
+      "en_sha256": "d9dea9957b1c7156e174c03385a44b7b1a908993b811d349b56a6a7fe798e75a",
+      "origin": "ai"
+    },
+    "dataList[id=leap_up_able_uptie_ego_tier].content": {
+      "pl": "Można podnieść Stopień Splotu Nici",
+      "kr_sha256": "a9ba62fc4a3778232f4cacff50bd358e21f7cfdf975d12c425be123d82c16bfe",
+      "en_sha256": "a4917dd976ec86e2500658dbe6915d975a6f3843b3cefea38ba95e436194dd61",
+      "origin": "ai"
+    },
+    "dataList[id=leap_up_confim_main_only_gacksung].content": {
+      "pl": "Stopień Synchronizacji Tożsamości [{0}] zmieni się następująco.",
+      "kr_sha256": "948d16457dcdbd09bd512b9411259ad8e1f69d14c9443b2193f909d491c435bc",
+      "en_sha256": "3942b038778ce8a5aaf59e482b1d773989c9da34605ada8a996a8bf9718a01c2",
+      "origin": "ai"
+    },
+    "dataList[id=leap_up_ego_confim_title].content": {
+      "pl": "Wybór E.G.O",
+      "kr_sha256": "4b462a042a27fd4e8a3cb7fa73bac6b5e806d90d73d9b12d3b2148ebcb1c7668",
+      "en_sha256": "4b9c834a26742fd2b79180135a251dc4e5e1528669f6e51885db4caf404e17c9",
+      "origin": "ai"
+    },
+    "dataList[id=select_ego_gacksung_up_ticket].content": {
+      "pl": "Wybierz E.G.O do Skoku Rozwoju",
+      "kr_sha256": "b9e38fd1e59b8417c0f9d93c287904a0a9c588c00a71859c5cb38c3afaf6a30f",
+      "en_sha256": "c936e0a7fd1b5d4b24f3b988a4ccfd1165f0e695f470b305ccc0972a81a2cf53",
+      "origin": "ai"
+    },
+    "dataList[id=select_ego_popup_title].content": {
+      "pl": "Wybór E.G.O",
+      "kr_sha256": "4b462a042a27fd4e8a3cb7fa73bac6b5e806d90d73d9b12d3b2148ebcb1c7668",
+      "en_sha256": "1c5e40006fff6e27ef44c1a7a353825555e3a724f8d5254defa94e4f000240db",
+      "origin": "ai"
+    },
+    "dataList[id=select_ego_popup_title_season_1_battlepass].content": {
+      "pl": "Wybór E.G.O Przepustki Bojowej Sezonu 1",
+      "kr_sha256": "843719d606fe54f0648b59fab2d23d87fd73f60f203ec2d766945193d512b821",
+      "en_sha256": "4b926dce667ceb82da81abddee85417358b2f128ce1f58651841bdc70b74152c",
+      "origin": "ai"
+    },
+    "dataList[id=select_identity_popup_title].content": {
+      "pl": "Wybór Tożsamości",
+      "kr_sha256": "2658fef44b1eb027d4c31aa2a23b16e9409715dba8f9fc34950544219c8adcde",
+      "en_sha256": "bef2580f2cf19a59166c943f8c055031bad9940944ea64e06b6875663c9ddda7",
+      "origin": "ai"
+    },
+    "dataList[id=select_identity_popup_title_season_1].content": {
+      "pl": "Wybór Tożsamości Sezonu 1",
+      "kr_sha256": "072e5a61cc2fb4c31a4a1a454acb45faf36a8bb60f51c8adccb17a073ed37237",
+      "en_sha256": "c5ef230642d1351363b58a3313e883c5396ffaafa25cc49f20b9b3df2969e86f",
+      "origin": "ai"
+    },
+    "dataList[id=select_personality_gacksung_up_ticket].content": {
+      "pl": "Wybierz Tożsamość do Skoku Rozwoju",
+      "kr_sha256": "0526b95c125ec90fcf9592d3e16b28c67e048b1ef84d24df45e473471fa5387d",
+      "en_sha256": "909e33c55d0eddebd954e08ff310996ff2618169039e194b8aa31899179887d2",
+      "origin": "ai"
+    },
+    "dataList[id=tip_long_click_to_view_ego].content": {
+      "pl": "※ Przytrzymaj E.G.O, aby zobaczyć szczegółowe informacje.",
+      "kr_sha256": "e0b4b3b31585fba1fa3f27d47fb4db0edf7c5132a599a0e27ad2bb6f91484609",
+      "en_sha256": "d62999e8466d68b4eedbd5487ab0ee2ba8b317e7e10248d97bd25fbfc91230d2",
+      "origin": "ai"
+    },
+    "dataList[id=tip_long_click_to_view_personality].content": {
+      "pl": "※ Przytrzymaj Tożsamość, aby zobaczyć szczegółowe informacje.",
+      "kr_sha256": "e9d5d2ed61db42005bee09b6fff479c5a7961c5adc5399f2f58285b91c9338ef",
+      "en_sha256": "27a97a73a78e6d0020a4639a31920f940aad22a7180de24d9440e1269e1edc33",
+      "origin": "ai"
+    }
+  }
+}

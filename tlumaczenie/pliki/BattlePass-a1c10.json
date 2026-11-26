@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=battle_pass_season_8_product_package_with_limbus_desc_summary].content": {
+      "pl": "◆ Limbus Pass Sezonu 8\n◆ Natychmiastowy zysk 10 poziomów Passu po zakupie\n◆ Bilet Specjalnego Wzmocnienia Tożsamości VI\n◆ Specjalny banner Pakietu Limbus",
+      "kr_sha256": "60e1f11011daad1ef12b13d4567c0f74ea3c4496c94f83a6dae3eac50fa9cf41",
+      "en_sha256": "ad4cccde43c77d321537ff6049571f9fc46041a758c8f670b9c36c6403deede2",
+      "origin": "ai"
+    },
+    "dataList[id=battle_pass_season_8_product_package_without_limbus_desc_summary].content": {
+      "pl": "◆ Natychmiastowy zysk 10 poziomów Passu po zakupie\n◆ Bilet Specjalnego Wzmocnienia Tożsamości VI\n◆ Specjalny banner Pakietu Limbus",
+      "kr_sha256": "484af1716610dcbc173eec9b737b4c86bdd4e18a88f1f4ce459e22dd17b96208",
+      "en_sha256": "e0a828e24e2ea2bd021a8aefeed6922508a89adcfbb0cabc3331c382940b95a7",
+      "origin": "ai"
+    },
+    "dataList[id=battlepass_season_8].content": {
+      "pl": "PUNCTUM",
+      "kr_sha256": "5feadf0952698b5c5ea7c882146adbe07f14a0fe6419ad4a8fff777c042ac46c",
+      "en_sha256": "2b53f127d55d752c5f84b0f470aef2ab0cb15a916df009a70f3bffff2b327a53",
+      "origin": "ai"
+    },
+    "dataList[id=until_season_8_end_on_shop].content": {
+      "pl": "Do aktualizacji\nSezonu 9",
+      "kr_sha256": "a696594da498a2a2973c2cfff44f47e4bc59e68d37870999c419e2cbf2c2e758",
+      "en_sha256": "33162e4f25711c8005a249e35c3f1226ba4a05e6d09045245d09715c4a0c45a9",
+      "origin": "ai"
+    },
+    "dataList[id=until_season_8_start].content": {
+      "pl": "- Do aktualizacji Sezonu 9",
+      "kr_sha256": "911184ea6b727e4a5608cbd64b6d15d65fcff33fb804c4c5c6f9cb271e518e1c",
+      "en_sha256": "e7fb444ee40ef95a46f52cfa8044a3a96c90c4492f4b1575d061c5ff648925aa",
+      "origin": "ai"
+    }
+  }
+}

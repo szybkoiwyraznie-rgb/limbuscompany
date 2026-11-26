@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[id=fools_2026_entrance_popup_desc].content": {
+      "pl": "Wejść do fabuły „Sen Środkowowiosennej Nocy 3”?",
+      "kr_sha256": "289fb32df65732cbb33f3c033d038aa2c92b636c6ad479913c3568d9a45a64ab",
+      "en_sha256": "113e2c31a5e8747ec3eeaf137a07760bb68a1cf3297cd219cd96cd1e5ecba630",
+      "origin": "ai"
+    },
+    "dataList[id=fools_2026_entrance_popup_desc_not_cleared_target_chapter].content": {
+      "pl": "Wejść do fabuły „Sen Środkowowiosennej Nocy 3”?\n\n<size=35>※ Czas trwania: 2026.04.01 00:00 ~ 04.09 00:00 (KST) \n\n<color=#b01c37>※Uwaga: ta fabuła zawiera spoilery Cant IX: The Unsevering.</color></size>",
+      "kr_sha256": "781243bf236335c4a74b85d69dffb69fbf3147248bd1cb2c32372ca0924aaf5c",
+      "en_sha256": "cf9ab7a1a62424362d422957c31860293ab744917f9ff004aabd0e375d1fa89c",
+      "origin": "ai"
+    },
+    "dataList[id=fools_2026_entrance_popup_title].content": {
+      "pl": "Sen Środkowowiosennej Nocy 3",
+      "kr_sha256": "9bcc3942119fdaf2f096b6b7a65a2009dfb0a1b2a25e64be7ce6b30e8150d50c",
+      "en_sha256": "66c83b146772385f5cb79bbacb27280027223129b75036bc64722b77f5d2c11d",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=battle_pass_season_6_product_package_with_limbus_desc_summary].content": {
+      "pl": "◆ Limbus Pass Sezonu 6\n◆ Natychmiastowy zysk 10 poziomów Passu po zakupie\n◆ Bilet Specjalnego Wzmocnienia Tożsamości V\n◆ Specjalny banner Pakietu Limbus",
+      "kr_sha256": "b650a67cb54f605f0eb025933b5e46651cd7d9118c323d06249db7f35ff4b51d",
+      "en_sha256": "03981f900a1b6b3a52bf9048a7a5a240a86c7b97b54e257840c0f4fb37b49fb7",
+      "origin": "ai"
+    },
+    "dataList[id=battle_pass_season_6_product_package_without_limbus_desc_summary].content": {
+      "pl": "◆ Natychmiastowy zysk 10 poziomów Passu po zakupie\n◆ Bilet Specjalnego Wzmocnienia Tożsamości V\n◆ Specjalny banner Pakietu Limbus",
+      "kr_sha256": "49b0beaf44eda3e61fe29925958629b170f3633e3be333c2374d0541a5ffa193",
+      "en_sha256": "46f29965f110f8f343e911c401f843957028af9095614dfb7996c1b3b7312fb9",
+      "origin": "ai"
+    }
+  }
+}

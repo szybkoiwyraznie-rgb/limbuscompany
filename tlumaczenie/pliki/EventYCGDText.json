@@ -1,0 +1,118 @@
+{
+  "entries": {
+    "dataList[id=ycgd_bonusUI_Desc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości, zwiększasz zdobywanie <color=#1998fe>[Zakrwawionych Pochew]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#1998fe>120%</color>.",
+      "kr_sha256": "9acbb15e003dc39fd1c42c8e6c3416bcb68099ca48525e217ff35f5054ab82e4",
+      "en_sha256": "6e464a7aa37a46a870f76358b900074029b65a6d30bcfb8c7843d5f38ea2b85c",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_bonusUI_Title].content": {
+      "pl": "Zysk",
+      "kr_sha256": "d3e2c4bb554675c319f741eb6463b71330666131ecf9fbe913d63457c0fdfff9",
+      "en_sha256": "4e125a3ef68a00b029459c9aa8aa94aa07e74cc54188ffef7f60f38f016e61ca",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_bonusUI_Title_contain_false].content": {
+      "pl": "Nieposiadane",
+      "kr_sha256": "29f30c5d37b9a6fa8363e6db6f1b1f6656b7c75ccc3d0b153d21b380d50b7bbd",
+      "en_sha256": "858494a5393b7d23e61534f73b2f3fabd5ba12578fec04b137665ff6fdda5bc4",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_bonus_preview].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_chapter_map_difficulty_ui_9107].content": {
+      "pl": "NORMAL",
+      "kr_sha256": "db2cb3fe28e2c54fce50bd9c03fd2b131091229c0ceda79289527aaba47226ad",
+      "en_sha256": "db2cb3fe28e2c54fce50bd9c03fd2b131091229c0ceda79289527aaba47226ad",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_chapter_map_difficulty_ui_9115].content": {
+      "pl": "HARD",
+      "kr_sha256": "0e24076baf990d55aa1511d1af1d6741b19c9a2e9e9911f9ec7b5d5dbe5a5e9f",
+      "en_sha256": "0e24076baf990d55aa1511d1af1d6741b19c9a2e9e9911f9ec7b5d5dbe5a5e9f",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_chapter_map_difficulty_ui_unlock_condition].content": {
+      "pl": "Po ukończeniu {0}-{1} odblokujesz Poziom Trudności",
+      "kr_sha256": "d7b3cc6982336f3afb74221744d3dc3d75a661d4cd724990fd653f8d950391dc",
+      "en_sha256": "9dc2e6b35cfc55108872a33b296bc0ec7bc28160b0d2f42094deef607f13a86d",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_rewardShopButton].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_reward_popup_desc].content": {
+      "pl": "Zdobywaj <color=#1998fe>[Zakrwawione Pochwy]</color> przez:\nukończenia etapów wydarzenia, pierwsze ukończenia etapów\nGłównej Fabuły oraz Lustrzane Lochy.\n\nW oknie <color=#1998fe>[Wymiany nagród]</color> możesz kupić różne nagrody\nza zebrane <color=#1998fe>[Zakrwawione Pochwy]</color>.",
+      "kr_sha256": "26aa53c1ece0e9977314a46e9395b7e633e1b7c9b68df10cb37e4dfb8010e194",
+      "en_sha256": "332a2e55e9058707fe41887c6603d4ad81a5eb21819bd8c6060f054631c70d28",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_reward_popup_num_of_owned_items].content": {
+      "pl": "Posiadane Pochwy",
+      "kr_sha256": "a640bc76ca18efae8eb0d79b950e13aaa43be6c291c3b33ff7d20427f0b8e6ac",
+      "en_sha256": "ffba7493be6b3591a0614f46ff9620112be1c84747b9157a077203fe521ed045",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_rewardpage_desc].content": {
+      "pl": "Ukończoną każdą etap wydarzenia i loch, zdobywasz\n<color=#1998fe>[Zakrwawione Pochwy]</color>, a z pewnym prawdopodobieństwem\ndodatkowo <color=#7fc6ff>[Przepełnioną Żalem Pochwę]</color>.\n\n<color=#7fc6ff>[Przepełniona Żalem Pochwa]</color> od razu zamienia się na 20 <color=#1998fe>[Zakrwawionych Pochew]</color>.",
+      "kr_sha256": "65830478163794a36ae5c87f8af1598cab80df80a047faebdc9cf6bceca664a6",
+      "en_sha256": "19afab81b99dc928086a4144f83ddce2d75ee07e09c7b1fa2c1f4e5e817ddae9",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_scrap_guide_desc].content": {
+      "pl": "Ukończywszy etapy wydarzenia lub Głównej Fabuły albo Lustrzane Lochy, z pewnym prawdopodobieństwem zdobędziesz <color=#1998fe>[Przepełnioną Żalem Pochwę]</color>.\n\n<color=#1998fe>[Przepełniona Żalem Pochwa]</color> od razu zamienia się na 20 <color=#008d0d>[Zakrwawionych Pochew]</color>.",
+      "kr_sha256": "0c702087f8143f5f3f40ecd361f85cbdfb80c96c0300295bae86dca18db58f1e",
+      "en_sha256": "2f364715faae711e065b70b1f1d08228b62253bb280a6d66ff32b7d10be1b820",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_stagebutton_end_event].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_stagebutton_normal].content": {
+      "pl": "Etap",
+      "kr_sha256": "d3fce9c9851dcea8c8256dfc81df5b4eed21aacc6c226fd819c77b77b8139df7",
+      "en_sha256": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_stagebutton_not_clear].content": {
+      "pl": "Odblokowanie po ukończeniu 5.5-12",
+      "kr_sha256": "b3e1acf3f20172cde4b94f3e26b9ca3eb19243e4c71ef853f0ce7dffedb2ec76",
+      "en_sha256": "13430bb6d7edfcd595eb472af52e56de947af0533280d46cff13f86a97727f0e",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_storybutton_before_start].content": {
+      "pl": "<size=75%>Odblokowanie po obejrzeniu pierwszej fabuły wydarzenia</size>",
+      "kr_sha256": "a6bd69c67b49ede3489f95101c6059388d4a77001cd7fafb1e6542eea77184d3",
+      "en_sha256": "7c860be41c1e65d29bb28a30488166ce5a61dac5e7f55c52214b3575ee7140f7",
+      "origin": "ai"
+    },
+    "dataList[id=ycgd_storybutton_normal].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    }
+  }
+}

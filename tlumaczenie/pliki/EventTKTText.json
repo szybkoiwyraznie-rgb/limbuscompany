@@ -1,0 +1,106 @@
+{
+  "entries": {
+    "dataList[id=tkt_bonusUI_Desc].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości i E.G.O, zwiększasz zdobywanie <color=#c69136>[Zegarków Kieszonkowych]</color>.\nSuma wzrostu zdobyczy może osiągnąć maksymalnie <color=#c69136>120%</color>.",
+      "kr_sha256": "a84671c9b6498f05665db7cf8590067b7fcb984a4636d23c13597ed68565f2ea",
+      "en_sha256": "afc0d1fead48b6027da5643df84d21e24d45e7f7e2dd3048612c88d3ffe60380",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_bonusUI_Title].content": {
+      "pl": "Zysk",
+      "kr_sha256": "d3e2c4bb554675c319f741eb6463b71330666131ecf9fbe913d63457c0fdfff9",
+      "en_sha256": "4e125a3ef68a00b029459c9aa8aa94aa07e74cc54188ffef7f60f38f016e61ca",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_bonusUI_Title_contain_false].content": {
+      "pl": "Nieposiadane",
+      "kr_sha256": "29f30c5d37b9a6fa8363e6db6f1b1f6656b7c75ccc3d0b153d21b380d50b7bbd",
+      "en_sha256": "858494a5393b7d23e61534f73b2f3fabd5ba12578fec04b137665ff6fdda5bc4",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_bonus_popup_title].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_bonus_preview].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_chapter_map_difficulty_ui_unlock_condition].content": {
+      "pl": "Po ukończeniu {0}-{1} odblokujesz Poziom Trudności",
+      "kr_sha256": "d7b3cc6982336f3afb74221744d3dc3d75a661d4cd724990fd653f8d950391dc",
+      "en_sha256": "9dc2e6b35cfc55108872a33b296bc0ec7bc28160b0d2f42094deef607f13a86d",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_rewardShopButton].content": {
+      "pl": "Wymiana nagród",
+      "kr_sha256": "182dc7773aa6e4c587f090107dbec660979372a1f492a0baee6dc66a94ee8483",
+      "en_sha256": "e709e65620a8a0399cab2d7278bd62e39c210f0d161debf27057c97f32596a7f",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_reward_popup_desc].content": {
+      "pl": "Zdobywaj <color=#c69136>[Zegarek Kieszonkowy]</color> przez:\nukończenia etapów wydarzenia i lochów, pierwsze ukończenia\netapów i lochów Głównej Fabuły oraz Lustrzane Lochy.\n\nW oknie <color=#c69136>[Wymiany nagród]</color> możesz kupić różne nagrody\nza zebrane <color=#c69136>[Zegarki Kieszonkowe]</color>.",
+      "kr_sha256": "660b0b2fb6d93f845f25407ebe716258da595914ebc9db00e3287608d8b0c58a",
+      "en_sha256": "c97d86892efc3271cee69c4243b6f68b4199de9de4191ac816208ce23309c724",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_reward_popup_num_of_owned_items].content": {
+      "pl": "Liczba posiadanych przedmiotów",
+      "kr_sha256": "ca6f20373ec6b4dc103bd49676601983319e3d49475254f0dc67ec56ed4f82d1",
+      "en_sha256": "40924e91b5594bcf8980840f8d6fb60e4ed9dd81358d663c02a7f27a0bd00379",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_rewardpage_desc].content": {
+      "pl": "Ukończoną każdą etap wydarzenia i loch, zdobywasz\n<color=#c69136>[Zegarek Kieszonkowy]</color>. Możesz go także zdobyć za pierwsze ukończenia etapów i lochów Głównej Fabuły lub Lustrzane Lochy.\n\nUkończywszy etapy wydarzenia, Głównej Fabuły i lochy albo Lustrzane Lochy, z pewnym prawdopodobieństwem zdobędziesz <color=#c69136>[Pęk Zegarków Kieszonkowych]</color>, który od razu zamienia się na 20 <color=#c69136>[Zegarków Kieszonkowych]</color>.\n\nW oknie <color=#c69136>[Wymiany nagród]</color> możesz kupić różne nagrody za zebrane <color=#c69136>[Zegarki Kieszonkowe]</color>.",
+      "kr_sha256": "59236e59493408cd477aaa621695da184e51a5faf71762d28bc3430a82172eb6",
+      "en_sha256": "8a8a51aaff1ae0fc686113e8929e3aef90d2382943f12d3c60252be83c829234",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_scrap_guide_desc].content": {
+      "pl": "Ukończywszy etapy wydarzenia, Głównej Fabuły oraz lochy albo Lustrzane Lochy, z pewnym prawdopodobieństwem zdobędziesz </color> <color=#c69136>[Pęk Zegarków Kieszonkowych]</color>.\n\n<color=#c69136>[Pęk Zegarków Kieszonkowych]</color> od razu zamienia się na 20 <color=#c69136>[Zegarków Kieszonkowych]</color>.",
+      "kr_sha256": "4af3eb229294d086e2be3d5f52a2f2593f9f0acfaa52c4663936656628d744c2",
+      "en_sha256": "dfe2b776a0dd88346719f3122631ea5a3fc55230ddeb4edbd70e666b2083b26e",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_scrap_guide_title].content": {
+      "pl": "Informacje o walucie wydarzenia",
+      "kr_sha256": "cbeab819cdf99d729fa7db1f9bff96b409a22df700287972151eb04f950d0eda",
+      "en_sha256": "8f0c8a131e41638cfd4afe7b13d020121cf950f5bc9d4c6e0e44e0a5fef797bc",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_stagebutton_end_event].content": {
+      "pl": "Zakończenie okresu wydarzenia",
+      "kr_sha256": "b54ce6259c86e50ae5d93bc0d651caa89288d0752e088bbc7d4c9b54bfa74d34",
+      "en_sha256": "82f6bd7d47b0a0870504b0522bc86ec80abae539726d42e0ebd3f1a1268d5bb4",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_stagebutton_normal].content": {
+      "pl": "Etap",
+      "kr_sha256": "d3fce9c9851dcea8c8256dfc81df5b4eed21aacc6c226fd819c77b77b8139df7",
+      "en_sha256": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_stagebutton_not_clear].content": {
+      "pl": "Odblokowanie po ukończeniu 6-48",
+      "kr_sha256": "cbb3f8564e2ad2b73a0a70a777dbded782ea8a3d83b54d815ddb7744ae252a1e",
+      "en_sha256": "17f9ba569bf23f33d1ad46e8163806b3c63b6d24045ba7188fa0f04b3ad0087d",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_storybutton_before_start].content": {
+      "pl": "<size=75%>Odblokowanie po obejrzeniu pierwszej fabuły wydarzenia</size>",
+      "kr_sha256": "a6bd69c67b49ede3489f95101c6059388d4a77001cd7fafb1e6542eea77184d3",
+      "en_sha256": "7c860be41c1e65d29bb28a30488166ce5a61dac5e7f55c52214b3575ee7140f7",
+      "origin": "ai"
+    },
+    "dataList[id=tkt_storybutton_normal].content": {
+      "pl": "Do Teatru",
+      "kr_sha256": "90892281563c3c680772f571e1c027b8bc2fca04ae829ce8f7ef2afee44e74a4",
+      "en_sha256": "c6101c7f1eadeff563926d87a4c36dcf61b25bff1a2a61ce6b0de7990a4e9e47",
+      "origin": "ai"
+    }
+  }
+}

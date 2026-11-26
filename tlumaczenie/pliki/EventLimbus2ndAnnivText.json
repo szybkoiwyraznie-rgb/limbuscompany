@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=limbus_2nd_anniversary_attendance_last_reward_slot_desc].content": {
+      "pl": "Jeśli masz już tego Komentatora, otrzymasz 50 Skrzynek Nici.",
+      "kr_sha256": "d7877a562e309fe651efdfb00ae1cee082584b750b72f93ed1fe82e16c1ba7da",
+      "en_sha256": "c89058cda9170aa9db94233eed63e394d8e14829e4e608263d68b7928b340902",
+      "origin": "ai"
+    },
+    "dataList[id=limbus_2nd_anniversary_first_reward_slot_tag].content": {
+      "pl": "Pierwsze logowanie",
+      "kr_sha256": "5256857ff5ea91b6e8522d90b028f959f0dbbfa33a7ab678a76df6a919e66491",
+      "en_sha256": "c698b4dd81c5cac9f104ce20df82282cf8d7c4bcd1700f600329f5add63bcf40",
+      "origin": "ai"
+    }
+  }
+}

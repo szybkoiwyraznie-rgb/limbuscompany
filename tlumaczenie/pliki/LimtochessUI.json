@@ -1,0 +1,838 @@
+{
+  "entries": {
+    "dataList[id=limtochess_battleprep_back].content": {
+      "pl": "Wstecz",
+      "kr_sha256": "2df06869205b07fef47dbb16e8c2da627d0ecd62f4e74c8512640a6ca25735c5",
+      "en_sha256": "76900f1bfd16c8d4dd3d25e6f46638d7165aee23883ccea6bfe071c514421769",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_battleprep_start].content": {
+      "pl": "Do Boju!",
+      "kr_sha256": "44aff5bc844775f1aadde1629fe5fd7b2e4b27fd4dcb7a18a406465938628b36",
+      "en_sha256": "d3add442e011d8ffef60a357ceb273266c4a33277359b06817fc58739ad1e8c2",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_battleprep_step_briefing].content": {
+      "pl": "Odprawa",
+      "kr_sha256": "e3cc3f75551b9d5ffd023ee3b4318e8ee7ac276cfa92abd1d4ced776e0d0d2eb",
+      "en_sha256": "532fdae24a3de05aa2f0c025a2f7c3eec4e41a3caad7db1574c98fcb7d89e024",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_battleprep_step_defense].content": {
+      "pl": "Polityka obrony",
+      "kr_sha256": "7744de9d26fe6c9c2bd785c10ae5c97c6a283fb41140b912ad1f8c2d6e5e555f",
+      "en_sha256": "8dd16500259aede85e1854f0f1dc2e9eaa80a916dbc199b570cb5d13235b2df5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_battleprep_step_formation].content": {
+      "pl": "Skład drużyny",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "5985039f106df054b43c3529139613bf7c2372937539f344c7c5ee47d00a0d63",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_ally].content": {
+      "pl": "Sojusznicy",
+      "kr_sha256": "55c35f36a1a8c45b5fad1d77d4246d2423b4efe2288591a2150710579ebc4109",
+      "en_sha256": "177fd547e13732ad1d524e8f9ef63053fedf9a87bef70196aa92ba05e96327e4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_average_level].content": {
+      "pl": "Śr. poz.",
+      "kr_sha256": "64a1b00c3b65785513e0aed5f8c54b58d1de54ceec1fa7b6614115c2d7078bef",
+      "en_sha256": "bebc71ac03546caa9ef65a7fa9fd6c7cd54a3c82579ece7c913a0efcd8db2ffc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_enemy].content": {
+      "pl": "Wrogowie",
+      "kr_sha256": "137f8ca799a5827448b3b821dc4d88c95c42bb682d148dc6510bdcdce696109c",
+      "en_sha256": "5ad26002ad2a7a7074c83d3988360918b23e0c55fb4292c7b53da9d7b8dce4f8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_enemy_count].content": {
+      "pl": "x{0}",
+      "kr_sha256": "9d58d099bbdd310cf2dd592e0058ce72d8ed6c026856e456df7a5f60e4942b29",
+      "en_sha256": "9d58d099bbdd310cf2dd592e0058ce72d8ed6c026856e456df7a5f60e4942b29",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_enemy_status].content": {
+      "pl": "Statystyki wroga",
+      "kr_sha256": "85f859a50b18c03ec6c37230175a8370362bde47087fbf1e445e326020799380",
+      "en_sha256": "490acbac380c87afdfd7dadffdaa7ac4c520d9f2f4c52172350c19dc5043cdcb",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_headcount].content": {
+      "pl": "Liczba jednostek",
+      "kr_sha256": "4db37806d287be242e3efa91b3cb3701d6d7388dbb9376b6c97b4fab03a452f8",
+      "en_sha256": "b5ddb060c9cc11727bd6485ee3d794aa74a55114d001bbdb152621cc1e3cd50c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_multi_action_grow_tag].content": {
+      "pl": "Akcje pod rząd x{0}→x{1}",
+      "kr_sha256": "7ab1e3748e8bb90f36fae32abf79dffdd0a8d3f2dffc5a832aef463f08e3f49c",
+      "en_sha256": "0d9f7cd66a7b1a015a4e898434fdb6c3a61fba383a8aa0a6af62b78ceffc64ca",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_multi_action_tag].content": {
+      "pl": "Akcje pod rząd x{0}",
+      "kr_sha256": "00ee6b5c30c93e55664ebaace78f63ec269f02f727b67ff24359f1fbb79b445a",
+      "en_sha256": "d71b7c191656da8e515bb294381058c617ced05fc24fbed88b8494d625a2efba",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_no_refill].content": {
+      "pl": "Dodatkowi wrogowie nie pojawią się.",
+      "kr_sha256": "f9e274c33ad17f455e1c77afeffbba88d6569a2fd4f0f08b2641939e269246a6",
+      "en_sha256": "e2506fc229ca4fed22e9eef63e05e5261838c1af28dd0720523b00ccceac9b2b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_refill].content": {
+      "pl": "W walce pojawi się dodatkowo {0} wrogów.",
+      "kr_sha256": "5cd85aba0c618bf225ce0d778fdaa510b831073d67cf8909b51ad71d35a392e7",
+      "en_sha256": "6e8e28d5c2eda6867e9a0ea90b94bf5ef9169d2ab26aba589e84020f5764240f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_script_0].content": {
+      "pl": "Ogólne",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_script_1].content": {
+      "pl": "Elita",
+      "kr_sha256": "75811eaeaff30d1aefccfe69a6c71cf2cedf55a94bb461cf334ab9ddead7c919",
+      "en_sha256": "1d6953e03ac29b9aba73dfcd57d8a5cb47991342495891f19b1cb713da89eb5d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_script_2].content": {
+      "pl": "Boss",
+      "kr_sha256": "031bf95933a4931cb8a6db4a98487adab6a7a88508872a3bd5f061b972ea0876",
+      "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_speed].content": {
+      "pl": "Szybkość",
+      "kr_sha256": "c03f7e871a4127c448d96aa2c9754fb390b54eaaed7b58ff6be042d20ee0258e",
+      "en_sha256": "c372fee9b4566b85a592ae6e98e571f3929c8e262cf2feff7acba63a65a50f14",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_speed_faster].content": {
+      "pl": "Sojusznicy zwykle działają pierwsi.",
+      "kr_sha256": "934cdcc97000b35745dab13f4faad19059a9fc34796c5a17818849eb95bd02cf",
+      "en_sha256": "ed9501166c842563cc901c4b69dbb144bf51cf4039daa697ba522a810271ebde",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_speed_similar].content": {
+      "pl": "Sojusznicy i wrogowie mają podobną Szybkość.",
+      "kr_sha256": "ae3defd66954687866a7b7499a80efaf601633ab5fe2fd8c90196b8ce5ec4c8d",
+      "en_sha256": "af091e0ed2e70dedb37ba5e95e8c5de1efadb5a3449eaf1c8a04070f6a454c65",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_speed_slower].content": {
+      "pl": "Wrogowie zwykle działają pierwsi.",
+      "kr_sha256": "8e70aac8a3158bf9f3a0365c95ab2556579b53e8432fda1b58eca4aa2286b58d",
+      "en_sha256": "d9e982e96d44a3633b0db640df9779e84c4feef55a36566c0138f00ac7375581",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_threat_0].content": {
+      "pl": "Niskie",
+      "kr_sha256": "6652674430e5064bcf87c4a187e33fe91a8a9b9349a1956969e04e02996c60f5",
+      "en_sha256": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_threat_1].content": {
+      "pl": "Średnia",
+      "kr_sha256": "666599febd987f532ea6ab000ee16ee7d5838beed690d2f9b174aab30ce78307",
+      "en_sha256": "5c42afc7a23018d32dcff346792b575bcdf63be118b98a61084b1afac32b93e9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_threat_2].content": {
+      "pl": "Wysokie",
+      "kr_sha256": "baaff05e434f85e30d888fad9d2ea56c27823f3a5453d63e6ea85353ec10b356",
+      "en_sha256": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_threat_3].content": {
+      "pl": "Krytyczne",
+      "kr_sha256": "f8907ed13bd075cc1008d716c35d69f29c206f1cbc6e4255b1cfbced4ddf3360",
+      "en_sha256": "dc2214db4cd0df740e4c523eb7b60d2fd62c323d7d841a216da7808e28f5b2a6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_briefing_wave_tag].content": {
+      "pl": "Fala x{0}",
+      "kr_sha256": "5f3a3debc2f6c8c48ccd59e6ef08d582ffa2294707ad3b39deaf205ada7a2271",
+      "en_sha256": "fce9c9301061f6ab707ce635a015062da3c9bd7bd69b32e977515f2bec31ba8e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_all_default].content": {
+      "pl": "Ustaw wszystkim domyślne",
+      "kr_sha256": "e0323392c2835c0ead79607be205d573930021d8a1dfbb385bf5f4aa520f6c5c",
+      "en_sha256": "7eaaab88f19f8995ea63c75f084cff18bd7d43a210fd2d31de75eef9a06c1a54",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_all_none].content": {
+      "pl": "Nikt się nie broni",
+      "kr_sha256": "83d3e0df107a7bca5bcf100ca717dea98d2d0dccc9b27903091a5a0323e59f2e",
+      "en_sha256": "7f4e5458c8155e581dea5669fddd70a2b440cf55dd94274edffc2d33ead1064a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_all_selected].content": {
+      "pl": "Zastosuj ustawienia wybranej Tożsamości do wszystkich",
+      "kr_sha256": "fb855dcfe16b8d25843d61f760c66e0d45f65e76d29e795f3da824b417975ac3",
+      "en_sha256": "32d4a46c239d963827fd5800ac550b8e7dca22b596a578a62cd10a8be1c960b1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_default].content": {
+      "pl": "Ogólne",
+      "kr_sha256": "9d52d0642b3d7a35bf132efd4a9a0266ae13627a4162a27d09b71879775cc4d5",
+      "en_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_option_placeholder].content": {
+      "pl": "N",
+      "kr_sha256": "8ce86a6ae65d3692e7305e2c58ac62eebd97d3d943e093f577da25c36988246b",
+      "en_sha256": "8ce86a6ae65d3692e7305e2c58ac62eebd97d3d943e093f577da25c36988246b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_option_queue].content": {
+      "pl": "×{0}",
+      "kr_sha256": "24f720a58a814a53503e13b54f6668261999ca7c622dddf05c86c1bd7ae76837",
+      "en_sha256": "9d58d099bbdd310cf2dd592e0058ce72d8ed6c026856e456df7a5f60e4942b29",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_desc_0].content": {
+      "pl": "Nie używa Umiejętności obrony",
+      "kr_sha256": "01b48904f73278c972241e3f4a5fa50abc94946e0c46fbd6091c54a88a661e17",
+      "en_sha256": "d6715ac88471829ee2b0168c2295e1bd1373ed2f3b558cdc2348814c16b3e1ef",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_desc_11].content": {
+      "pl": "Gdy w kolejce jest co najmniej {0} Umiejętności tego samego Grzechu",
+      "kr_sha256": "f62f38f7e525a264267491288307b293f32268306ae2a0293a74b4696be0abc9",
+      "en_sha256": "5993592fdf7b15e6cfdb07bdf43a6bf84284582bae3bcb2f02931e1298b30f60",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_desc_12].content": {
+      "pl": "Gdy spełniony jest warunek własny tej Tożsamości",
+      "kr_sha256": "c2383831f5b4c5be7ae6dea6f55ad58e7f9e0767461eaf4c6a8720893b79122c",
+      "en_sha256": "2279a6862e2a14b117f54c34f47b71141ae064643f917d8fa758c82acbb53dcb",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_desc_4].content": {
+      "pl": "Gdy wróg zamierza użyć Umiejętności ataku na tej jednostce",
+      "kr_sha256": "1a305611c1e58a71d4f868db101aba4747655eed5dc136bfd9162dd62968bbfd",
+      "en_sha256": "70b06ab36cda22d61b0f73affa60a42be70e81e6d8d9cfcf5d7f47e290d2970f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_desc_6].content": {
+      "pl": "Gdy jednostka ma otrzymać obrażenia zagrażające życiu",
+      "kr_sha256": "19f6e176ca627586c96a48ec7a47e18154713f8861ff270362424b69f39a44cc",
+      "en_sha256": "ac0fc7bfd46bf525ef404dfa5dcb3ae94a786d51eceefb0a9f64eb4e599455ba",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_desc_7].content": {
+      "pl": "Gdy wróg zamierza użyć na tej jednostce Umiejętności 3 lub Wzmocnionej Umiejętności 3",
+      "kr_sha256": "6a66042ae41568741029691ef71503a1313ba1e66e9fb7ce0abfd4eabebc9197",
+      "en_sha256": "7d2f23a8e40f25b573ae592ba64f616c64fc109d1a82d0a997152e9a7eee469f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_name_0].content": {
+      "pl": "Nie broni się",
+      "kr_sha256": "746838383774c162055efd70b808876a91deaac87f5bb9edcb7eefeb0d1962fc",
+      "en_sha256": "876bb592519028d25fa9d1cfff9d50068abb12f0809c5561ab6e25e2c699d580",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_name_11].content": {
+      "pl": "{0}+ Rezonansu tym samym Grzechem w kolejce",
+      "kr_sha256": "13ab6b9bc77e774a3138aead5060bb735c8ac34f2cb94e8dfc615ca76eb7fd5b",
+      "en_sha256": "451caf7257d86b09e8fb4877743c694e59d4b8cc2c9e0a9c7cd7cf78bd0ec79d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_name_12].content": {
+      "pl": "Warunek własny",
+      "kr_sha256": "67a9f480f49c20e8ddcbfec12a21163e33aa9dcdae6075d6ee84c08463c8b8c8",
+      "en_sha256": "50d174388ec885216c0e4eada5b4652ab1dd473fa8a58dab50aa02732d24520e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_name_4].content": {
+      "pl": "Podczas ataku",
+      "kr_sha256": "465aa0bd264b15ada5c71b934071ac00bf312fe20ebd00a39c49ebb1c1cdf0ec",
+      "en_sha256": "609eb10e658c20888f0a95431acec78dd9f2b2027e5c0330e32c1ef36003ea82",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_name_6].content": {
+      "pl": "Przy śmiertelnym ryzyku",
+      "kr_sha256": "7fec79118a4e5636ba05fc7be38b300f4e73df44f1f0d34261e82e56b6604b58",
+      "en_sha256": "6f70f528e4e22eaeec17770ec23e1633c7e62b47437df848d665e4a238a02338",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_preset_name_7].content": {
+      "pl": "Gdy otrzyma potężny atak",
+      "kr_sha256": "d2e8fdd1eea2265f2b5ffa888731c27a92f455dcc5c2ba64fb2f629bd790b862",
+      "en_sha256": "8a65a969c054a47ef6911787d77a4ceecbdd916f6aa97dd3a2505959dfa181a5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_type_counter].content": {
+      "pl": "Kontra",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_type_evade].content": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_defense_type_guard].content": {
+      "pl": "Garda",
+      "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_auto_select_bonus].content": {
+      "pl": "W tej rozgrywce szans na odnowienie losowego składu: +{0}",
+      "kr_sha256": "012c1f1684036939b413fa6d2f149ae4539c1471605e0be16402cd6b8a18cec7",
+      "en_sha256": "298a9dfdf9cca438d68497a483209e48ff37243a728de83145657d90949108f3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_continue].content": {
+      "pl": "Kontynuuj",
+      "kr_sha256": "aee225c6c1f75a9f88b8631c4ac811b4e4c3cc471e0b16d3286c3b480b7b29ae",
+      "en_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_enter].content": {
+      "pl": "Wejdź",
+      "kr_sha256": "1f85d501a11baab4218ae708306dbcfc762529daa68cd4cb662d462f491ded8d",
+      "en_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_locked].content": {
+      "pl": "Wejście możliwe po {0}.",
+      "kr_sha256": "c221d06d7701e4136c36fc0eaa6236b4864b3df22ca1bb088aee42f7fa01b3f3",
+      "en_sha256": "78853dc8016027ad313f68e612390ea71c096234565314b2dfb1f648c0a6053d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_new_game].content": {
+      "pl": "Nowa gra",
+      "kr_sha256": "ba01bde24b22b8c1fe349d5d19e1c27e01e2273ad635376057c82518a250abe3",
+      "en_sha256": "f05c79e128be07dfa5f0d8584b5cff960d9c45f56d41311d238848f2226397c7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_overwrite_desc].content": {
+      "pl": "Porzucić trwającą Konstrukcję Schematów i rozpocząć nową?\nWybierając „Potwierdź”, najpierw otrzymasz nagrody stosownie do dotychczasowego postępu, a potem zaczniesz od nowa.",
+      "kr_sha256": "bd197ff67377e445561b7ec446bde36ef4ab42438f21e01cac7215fa56776a66",
+      "en_sha256": "c32dcc625d570f76e7231d40329fb152a5b2bbcd2d0253277af22d30db7fc652",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_overwrite_title].content": {
+      "pl": "Nowa gra",
+      "kr_sha256": "ba01bde24b22b8c1fe349d5d19e1c27e01e2273ad635376057c82518a250abe3",
+      "en_sha256": "f05c79e128be07dfa5f0d8584b5cff960d9c45f56d41311d238848f2226397c7",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_entrance_pass].content": {
+      "pl": "Przepustka Konstrukcji Schematów",
+      "kr_sha256": "e824123c7f4ed88b434ff55170dc9719fba0db343a26f260e279315df95045ce",
+      "en_sha256": "c36394baf3226face5c686a71ac5b5b53f73db082aeeb975beb47c7898049ee5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_level].content": {
+      "pl": "Poz. {0}",
+      "kr_sha256": "7233dfd01f5d9a17019c48b1115064880c38ae94b245bd317ba1a10634621c89",
+      "en_sha256": "7233dfd01f5d9a17019c48b1115064880c38ae94b245bd317ba1a10634621c89",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_mode_name].content": {
+      "pl": "Konstrukcja Schematów",
+      "kr_sha256": "00a158d2924b7b52a8bd6fcbc2f8f26a39f63428ecf624217e163573999cffa7",
+      "en_sha256": "bff695e7aa9a2adae4e5b96e7cc5dff9e7a305288a7862d75875225ee15ca16a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_mode_title].content": {
+      "pl": "Konstrukcja Schematów (Beta)",
+      "kr_sha256": "e3545bc5bbd51027419e02eb06546894d36787203e62bed66de59328a6dadfd2",
+      "en_sha256": "d7d5a33be6377f8374af7f30b5f35423962d2d962300e40d3528fdd6a768145a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_cost].content": {
+      "pl": "COST {0}",
+      "kr_sha256": "b255e804ae98426a2cf5e1aac1f3631d13d239d0b2041e6d611a24102cdb8938",
+      "en_sha256": "b255e804ae98426a2cf5e1aac1f3631d13d239d0b2041e6d611a24102cdb8938",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_keep_ego].content": {
+      "pl": "E.G.O: {0}",
+      "kr_sha256": "5318a29f5726f94323814dcca2e50c59a2351898fc0a3c06c59697a64ce4b7f1",
+      "en_sha256": "471e4910f08e19d8d3266c32df1cac835463d0f0cdc90b297055c99de0d48560",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_keep_identity].content": {
+      "pl": "{0} Tożsamości",
+      "kr_sha256": "c40cfe62f3fa9c61886d62135495f3847d87283dfef37f22cfe12525500cb525",
+      "en_sha256": "e1f5cf8ec3f84544b5a980ee5c4453e5606c6b5d155a73e4a4b377abd69401f4",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_keep_suffix].content": {
+      "pl": "Dostępne",
+      "kr_sha256": "996484562c862f7c0712135f0784299594e98cfe4fcbb6e9b0903aafc90ed89c",
+      "en_sha256": "e674447337e83c1346f6122ed69f35bf5526e2a11842b2f2b788f3fb67d714ca",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_mix_ego].content": {
+      "pl": "Zdobądź {1} z {0} E.G.O",
+      "kr_sha256": "439b09ec0a6ebe0b7fc3a8858cfac0110a1e9c98ace850e376c7622c12f6cf43",
+      "en_sha256": "76cf1e1046ceaf780551b93769702fdc7afd934000c353e957fda8f4fca3ca86",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_mix_ego_none].content": {
+      "pl": "Brak E.G.O",
+      "kr_sha256": "ce5692d5db0e3bae2a4db316003a74e6d536a2bbac0fe03adce9aa0b97a2aace",
+      "en_sha256": "c95edc338ca727d4c61864a2de09e5e2984e82f31041052dff3b861f0afbaa50",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_mix_identity].content": {
+      "pl": "Zdobądź {1} z {0} Tożsamości",
+      "kr_sha256": "303cc8ee6e5963a9fa6cde4b527889ccdf4ad71add305796d4beb94396c7e926",
+      "en_sha256": "1c5c562f16c0341a97c6a3e19b811fa1c2590c021dad76f7ba929f6e003af61b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_pack_mix_identity_none].content": {
+      "pl": "Brak Tożsamości",
+      "kr_sha256": "3b88437e22e2e21b57a56a3fe98745e9d2dfe69c019fe2cf6984d9fec367c062",
+      "en_sha256": "6aa3b660b393de5de3bea8f03d41848cb2466f8d675cd54e15c0504a884d6305",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packpreview_grade].content": {
+      "pl": "Ranga {0}",
+      "kr_sha256": "41a400fb192f1ab305028e605e433e4273f137f8b1619bfb67d351632ca2e0f6",
+      "en_sha256": "2830648b6aa81bc700f7c1ecb59d7b0757ddf18b27b3a464127cec6f03cf54e5",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packpreview_label_random].content": {
+      "pl": "Losowo",
+      "kr_sha256": "33715f0fbe13b89596c867b917c5dd7e53296cea0c29dc6a02f1ae57c04af0f9",
+      "en_sha256": "67bc484430fe87babe3c35d2ba4827d029f1c7e415a92de44885a9c88536661f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packpreview_tier_line].content": {
+      "pl": "{0} / {1}",
+      "kr_sha256": "0b537a35a86629bd59dddf0758c8edd86bbb0a340c0ba194449b7996e5247a5a",
+      "en_sha256": "7591feab2d1dfce4d0ca2b2a9091fdac2369c058a1165a4428edbd65573f7d64",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_card_reroll].content": {
+      "pl": "Wymiana",
+      "kr_sha256": "084c5a6dd787cccb0b8efa61d49e143d12fa0452b0b243833bfdbc0d664682a6",
+      "en_sha256": "95e154398a4bc0091aa4d6b607472ac5a89e41fbc84a3a49f823314d6de9eebc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_confirm].content": {
+      "pl": "Gwarantowane",
+      "kr_sha256": "5689404bc1e8d75f4d5732d1a4d9fd03a8541aba1ee772ac811da2ad176cb1c1",
+      "en_sha256": "eebdd24a77d9ad32222660c07777163bf5f6732df2b172351f3f8d5783e4f529",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_confirm_count].content": {
+      "pl": "{0}/{1}",
+      "kr_sha256": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d",
+      "en_sha256": "9b89da6b26e87007d6884804dd47f36edfe08ed6085d9c48469a614447fcc5ff",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_confirm_preview].content": {
+      "pl": "Wybrane:",
+      "kr_sha256": "ec89cabff4126bcb83ab7620295ed4bee3e926105976941033ea00a844501301",
+      "en_sha256": "bef9d85df8ea13fe85ed34d6b8211a4bb20b677f3887f9d9f635e453788ecb97",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_deck_count].content": {
+      "pl": "{0} w składzie bojowym",
+      "kr_sha256": "5b6b8eb89b00c5466aeafff17c2e7eca56154190b5017b743cc0502698b2d619",
+      "en_sha256": "728846dd83416cbcb90ba16b5096cd89b7230efbe700eaaffca3066decf33e2f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_deck_tag].content": {
+      "pl": "{0} {1}",
+      "kr_sha256": "10866a9df5f8be5be75c79314de01412b0b35db060b06fdc333c1d9cd82d73c0",
+      "en_sha256": "10866a9df5f8be5be75c79314de01412b0b35db060b06fdc333c1d9cd82d73c0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_desc_ego_equip].content": {
+      "pl": "Po wybraniu zostanie wyposażony w puste gniazdo {0}.",
+      "kr_sha256": "741053b97bf36c0f0033c0a96cb41c41e8853b9f81c9eab76de7b037c14b448d",
+      "en_sha256": "df66e4bf68afacf3a8fda36edfc302202d64f68b59055ac8b417070fc9b61f85",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_desc_recruit].content": {
+      "pl": "Dodaje do składu.\nZaczyna na Synchronizacji {0}.",
+      "kr_sha256": "4b47b4531b86a6dd4e68e1c437eef6ca9ae96f9430b6ce1a770ce88a941e79de",
+      "en_sha256": "a07f19e09178197ab9a17af9b87c121859d8f9d8a5ea1ea6dcccf901b715fffe",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_desc_replace].content": {
+      "pl": "Po wybraniu zastąpi obecną Tożsamość,\n[{0}].",
+      "kr_sha256": "92fd8772f92728d3e3f3e2dafd5241218387194b27906d570fb42e021c91d9df",
+      "en_sha256": "b30fa4f98d76376c8bdf4f3fa30c046f9cd31de2dd9e8d66e0016f088110bd0f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_ego_tier].content": {
+      "pl": "Stopień Splotu Nici {0}",
+      "kr_sha256": "1096588dcd404edeb81ccd7db8accf79e3c5b696cc162ed609bbe3b10ce0cba3",
+      "en_sha256": "68ef20b7a3f64f216cf1406230aaace00acf5990a2793e66905b7f5856560a97",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_my_deck].content": {
+      "pl": "Zobacz skład",
+      "kr_sha256": "ed20e2fb5e1faf8c387430d11c76c57dc5d428206125e6127f5a3c4efe28917c",
+      "en_sha256": "15bb12eef5f318f707232864db5e9c0ee7d58b1bf79c9810804d2258adcb3e81",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_odds_cost].content": {
+      "pl": "Koszt Tożsamości",
+      "kr_sha256": "6b2efa1057b1f246bed2090a15bf2ca4ee93686ffc3849fa765b0d0743545276",
+      "en_sha256": "5d62d7708376cbba825b5634f1c99ea029f0d3aeba89739dcd8fd0e221f3d977",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_odds_ego].content": {
+      "pl": "Ranga E.G.O",
+      "kr_sha256": "21611a1911068aa128bd24d3e97aca86b5eb142d5294a44bbaa9e78f38d3d48e",
+      "en_sha256": "a7e9c3a73ba160d214bee05cf23eb2bcd7af733b9c997d8c0128d5f5503d8822",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_odds_item].content": {
+      "pl": "{0} {1}%",
+      "kr_sha256": "71ff1830e2824a3c2ff4efa4c6da4a080a7f5fb17247e5dc3695d555c4fc69cc",
+      "en_sha256": "71ff1830e2824a3c2ff4efa4c6da4a080a7f5fb17247e5dc3695d555c4fc69cc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_odds_item_cost].content": {
+      "pl": "COST {0} {1}%",
+      "kr_sha256": "87378abf149d18c07cd4040bb7142cf53b2271d0faca28e42e9d02a7d3fa0aac",
+      "en_sha256": "87378abf149d18c07cd4040bb7142cf53b2271d0faca28e42e9d02a7d3fa0aac",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_odds_item_sync].content": {
+      "pl": "Synchronizacja {0} {1}%",
+      "kr_sha256": "d2036250aca2051806528b699dbe27179088987ddc853d32301a8c3ab5633fa4",
+      "en_sha256": "ccbfe56ab1e14c97f4bbadc00c5c0eac49e3aec141bb3676020d455acb642632",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_odds_sync].content": {
+      "pl": "Synchronizuj Kartę",
+      "kr_sha256": "340062f0fb42bcc3b87693ad33cf44d3dc9cdc6ec8e306e485b8235d649885c7",
+      "en_sha256": "24012321f14294757b39d070ab6d1166d77f619299af3ca6ef1a1416f5e2094e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_open_pack].content": {
+      "pl": "Otwórz Pakiet",
+      "kr_sha256": "b674d5a6afd857425d5381b20a324c17ff8f85f5f0ecacb13e6468a754e961e8",
+      "en_sha256": "f70071ef66c67b2f19eff6435bcce78a7ba305b38d69356a1e47b5c790eafd9d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_open_pack_mix].content": {
+      "pl": "Otwórz Pakiet · Tożsamości {0} · E.G.O {1}",
+      "kr_sha256": "964da768dbe8a601241594929ad4198c927068fe3b7c68e42b32e2f1a15534ee",
+      "en_sha256": "e6e1e6b7ef04ea67c8cebc87f5b781cdfaee2b86e7ec9e06ec5ac8612f3229dd",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_open_pack_step].content": {
+      "pl": "{0} ({1}/{2})",
+      "kr_sha256": "8b4157f20fd802bb4c6c60a8c39e32eecab28260267a3c86a4fd6919fc9e82b8",
+      "en_sha256": "8b4157f20fd802bb4c6c60a8c39e32eecab28260267a3c86a4fd6919fc9e82b8",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_pack_title].content": {
+      "pl": "[ {0} ] Pakiet",
+      "kr_sha256": "48639593535e0838ec118279d9afb321b3ce08c56382b713071a7bf1ab64ab6f",
+      "en_sha256": "b74f6da347733473d3c50859f27324ccfc0494826c80970946457aeef7fdb52d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_reroll].content": {
+      "pl": "Szanse na odnowienie",
+      "kr_sha256": "5782976f06b72037ea42bcfd70161165d66dc567e10822173dd65a7c4ed3f702",
+      "en_sha256": "669417ad84f1ec3795adc3a3ad98e5b058df2aeb508d32e29659afbbc668c328",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_rest_desc].content": {
+      "pl": "Po wymianie pakiet zamieni się na jeden z poniższych",
+      "kr_sha256": "046d1d8da85a14c79ca9db77d2e579e4e4feaac23d48a76838f975bad1b1c575",
+      "en_sha256": "86ae954b91eac8588ffedded964a71357464deeb40b53e4ec1b12aa3e1113146",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_rest_title].content": {
+      "pl": "Pakiety w tym pokoju",
+      "kr_sha256": "931faa52fa8f6aa78e91da231d926fd09f87def0f6ce2dd1e5102d66920e1093",
+      "en_sha256": "6bc82c2fb1e0b8a4278fea78128b6f0ae00302e119a6abd4feac99ae0b0acf8a",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_ego_equip].content": {
+      "pl": "Wyposaż {0} E.G.O",
+      "kr_sha256": "c13e336ecb1f1932fd1e4a77ba9d58cd819920ef3570d7dbf1029ad268670d61",
+      "en_sha256": "d3bad643aaf6cbfc35a0ed6efd7bfc5adba19043af587c17677bcfe8cdd0ccf1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_fragment].content": {
+      "pl": "Okruchy {0} zdobyte ({1} z {2} Okruchów wymaganych do Synchronizacji)",
+      "kr_sha256": "a4778f7ee2bc6bae18d8c7c8a9515e0affe6b4a142064ea91ac26dd1130234a1",
+      "en_sha256": "84ce112f259e6384b624228d9b1f808af200d911a4b021d3e448f0087f61b9ae",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_fragment_generic].content": {
+      "pl": "Okruch Uniwersalny +{1} dzięki {0}",
+      "kr_sha256": "8b82f7a595b4eb2740cd1b5d70a512c27c36510ed2c85985c52bd11f8cc681df",
+      "en_sha256": "ef5cad1b135d1f945a291a6c739a9a2a281844381fff162ed72f3a8f2b39bd15",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_fragment_keep].content": {
+      "pl": "Zdobądź {1} Okruch(y) {0}",
+      "kr_sha256": "67a4f312ad926470b0c9f569b7a30135c284c825e9d3435c2a21b5245cccd867",
+      "en_sha256": "19356de889f780222bd7f75b56aa34ad9a547cd8c370c0a229c073f3f0701d68",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_none].content": {
+      "pl": "Nie wybrano Tożsamości ani E.G.O.\n※ Okruchy wymagane do Synchronizacji Tożsamości (Sinc. 1/2/3): 2/3/3",
+      "kr_sha256": "71a62171f79738fe4102e7f11d8c906ebffc8cf3e2cc063360ba5b2c928ce989",
+      "en_sha256": "9d3973c75649837ba470a113a486be4671bff97f3ce695b3ce7960ac115a83af",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_recruit].content": {
+      "pl": "{0} do składu",
+      "kr_sha256": "a43f4200187a744db0fa136c7aa82c70273e5da942178e18b18b6645d7fd4485",
+      "en_sha256": "1ed5f6db1979a03c41347b478921ecf89f4279898e3e2ee9e0ec4a9fcbef46bf",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_replace].content": {
+      "pl": "Zamień Tożsamość {0}",
+      "kr_sha256": "e226e0a5cb6390ea2a2084230f992bd6ff0ce6613215197c85909ef30719530e",
+      "en_sha256": "5849791e6b8398409631ee2f6c65da92c0d6671006651c62f0675634aa047b67",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_summary_syncup].content": {
+      "pl": "{0} Synchronizacja {1}",
+      "kr_sha256": "f8dc34bb8a3a033db05d27576416ce08fafd4de0980f588b6626b1cd1a3289b4",
+      "en_sha256": "b55dc9e488096365a69cdd69c415451a76c1c4dd465e2869c4c1b1925cd5734c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_swap].content": {
+      "pl": "Odśwież Pakiet",
+      "kr_sha256": "e514dcb9ad780925477fdf0247acd72f7bc89fcbd589d546e6754df0bc073cb0",
+      "en_sha256": "d6b91473a9ee091d8f5ff28f1a2cdd7b049d6a40b5d7875f63879c18624c001e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_swap_cost].content": {
+      "pl": "Wymiana Pakietu · zużywa {0} odnowień",
+      "kr_sha256": "cc914110efd1591fa98e1f5d8b901d1b218f7629c95136c83341e6987654554e",
+      "en_sha256": "cde547f53c5fc39011b726e0b76f9423db55b13f922e04f3db67af8f4fb373d6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_swap_done].content": {
+      "pl": "Odświeżono",
+      "kr_sha256": "629a58cf37cc823a82d97831c7dd31aaec4ce1d94404b51773e3b248f0051c59",
+      "en_sha256": "f6701c8c1d5ca525ab0213349e39f34cfa8a25a39041c6752c936b0faf7807c9",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_sync_change].content": {
+      "pl": "Synchronizacja {0} → Synchronizacja {1}",
+      "kr_sha256": "392610800c1d9e7486086406e8471169411edf6529e16bd0b2c5ae73afc2724d",
+      "en_sha256": "b035c41573efc3c581fab78778b2157b0d2b17d6938b9693fa4f22ea86d13c00",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_toggle_fragment].content": {
+      "pl": "Okruch",
+      "kr_sha256": "652d4b53b484a0620da2dbf7517e2c0f9ba2b0549d75e79340bfdda3bab14383",
+      "en_sha256": "148b8c3e077ed024f5193a0aa9856528038faf437510f0a4cb1ea00b18670249",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_toggle_recruit].content": {
+      "pl": "Skład drużyny",
+      "kr_sha256": "ea9d343f8c45a24bf41a61c95d383c953253e187705697cbeeccbe4c347956ec",
+      "en_sha256": "5985039f106df054b43c3529139613bf7c2372937539f344c7c5ee47d00a0d63",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_toggle_replace].content": {
+      "pl": "Wymiana",
+      "kr_sha256": "084c5a6dd787cccb0b8efa61d49e143d12fa0452b0b243833bfdbc0d664682a6",
+      "en_sha256": "95e154398a4bc0091aa4d6b607472ac5a89e41fbc84a3a49f823314d6de9eebc",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_packselect_toggle_syncup].content": {
+      "pl": "Synchronizacja",
+      "kr_sha256": "fe9b2d87551c1dce7451ef1aa9309fea62834cf477c76d11acd3be1fe2a92dd1",
+      "en_sha256": "6ba9ca0217012cc107a466c39ddbeb5d3f210cc8da43b52d8db78f344359448b",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_personality_name].content": {
+      "pl": "{0} {1}",
+      "kr_sha256": "10866a9df5f8be5be75c79314de01412b0b35db060b06fdc333c1d9cd82d73c0",
+      "en_sha256": "10866a9df5f8be5be75c79314de01412b0b35db060b06fdc333c1d9cd82d73c0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_elite].content": {
+      "pl": "Elita",
+      "kr_sha256": "75811eaeaff30d1aefccfe69a6c71cf2cedf55a94bb461cf334ab9ddead7c919",
+      "en_sha256": "1d6953e03ac29b9aba73dfcd57d8a5cb47991342495891f19b1cb713da89eb5d",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_empty].content": {
+      "pl": "Pusty Pokój",
+      "kr_sha256": "e2da456389d5e1bb97a15ca102c9ba264768b2fa54d82b885fdfa1b919a8a85e",
+      "en_sha256": "113c7993ecc920d8a353aa6cb6ec787df8dda251f172cc17c60c715b0b20c030",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_event].content": {
+      "pl": "Wydarzenie",
+      "kr_sha256": "46b289bb0a9e2a002985007cea757de883ff09dd885b2d91f5f1f2452f7208cb",
+      "en_sha256": "4e1f49a9c8ae8a158434e647c0c410352d718984a4fcd144d26cca3c394caa02",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_final_boss].content": {
+      "pl": "Boss Finałowy",
+      "kr_sha256": "672d9e3b0064bb3faf01cee96f41c20ac57be977df3d1d47fcd996e61f37d634",
+      "en_sha256": "a1a1ad1a0eb486d66db7e0e06803fabef4196841b8a2f7195e27fd36af90dc6f",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_normal].content": {
+      "pl": "Ogólne",
+      "kr_sha256": "512989791c19de3fcf9c18e11580d2895d2a146264cc803e52c86bede3453e4e",
+      "en_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_rest].content": {
+      "pl": "Wytchnienie",
+      "kr_sha256": "5c75df710af3f2ee069c73175a081977ba96fda9d4d5372c8eb92beb8fc9360e",
+      "en_sha256": "1d34a7ba955f926f8fd7245ba5d34adeeb03998da958eec9f15777005fa2aeb6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_segment_boss].content": {
+      "pl": "Boss",
+      "kr_sha256": "031bf95933a4931cb8a6db4a98487adab6a7a88508872a3bd5f061b972ea0876",
+      "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_start].content": {
+      "pl": "Pokój Startowy",
+      "kr_sha256": "8122bf5eb18520eb25998a43f35a9146809895c01cd0f9c659d5669f48ee8935",
+      "en_sha256": "a0a995b8397b0548a9f72e30400ab49cf73129bd16dc7b62ab2ae372c41fd7ea",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_room_type_temptation].content": {
+      "pl": "Pokusa",
+      "kr_sha256": "0fa49d567eb6af379e0de4728f452cbd3bc5661a16323e05c5af834d384b5262",
+      "en_sha256": "472f50f62c82089c0d50baa218635f3214bbef1e2eb24fc259ec1761a6a9eb19",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_bonus_mp_recover].content": {
+      "pl": "Odzyskanie Poczytalności +{0} (działa przy wejściu do pokoju)",
+      "kr_sha256": "77a9ef70aa526ae6ad9c58f775e4d7906f232971be1109540e7849a6001ea24d",
+      "en_sha256": "ec24ff3c5deafb1f62cbe46416211b10886c04f56fd3ffee1eed3d0fef36214c",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_bonus_mp_risk].content": {
+      "pl": "Ryzyko utraty Poczytalności -{0} (działa przy wejściu do pokoju)",
+      "kr_sha256": "444ba8b2a6f31179a96f4954386144fa2fef2f362f9c3fa3480559c8370d30f3",
+      "en_sha256": "a7df585c920e95124180f14dbe25c22fa429a6623c187eee5852627b8f853a90",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_bonus_none].content": {
+      "pl": "-",
+      "kr_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "en_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_cannot_move].content": {
+      "pl": "Nieosiągalne",
+      "kr_sha256": "b637d3c2be353ae324eedfff724639a48ed2030b96f8af8474686e6539f833bd",
+      "en_sha256": "abaa46adb4e13ab2e7202ad1480a4182fde02f70e2e8ac27eb8b8dd04dc3c427",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_effect].content": {
+      "pl": "Efekty",
+      "kr_sha256": "377d1a0f2e6c609d9b7bdd86d71188c76a9eddcdab6f47faa3c7b59b4faaafbd",
+      "en_sha256": "358511c8c09805c9c10b1ba11157ed0c08ced8599d59e27e16fa226bdc32d63e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_event_boss].content": {
+      "pl": "Naszkicuj to, co czeka na końcu tej Konstrukcji Schematów",
+      "kr_sha256": "c5752df6a674ea2f159cff26b801150d861faf5a960fa4948d2b1b5956b02b15",
+      "en_sha256": "2cc293c986219a62ac5c454a1882fd27b31d7765bbe0a2436a4caf3c64ec4f57",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_event_pool].content": {
+      "pl": "Po wejściu pojawia się jedno z poniższych wydarzeń; wybierz jedną opcję, aby otrzymać jej efekt",
+      "kr_sha256": "e17633953843e6b2922515de44cdc5a3ce803b3935563eadadc46ffbdf5efabc",
+      "en_sha256": "d9d2e4e7eeb88009806760cd9b9b9d6dc7d3ae707b371a6d124166d5002d7257",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_event_skip].content": {
+      "pl": "Wyjście bez wyboru oznacza brak efektów i brak prób",
+      "kr_sha256": "51e137a7fde0d3affdaad4188f43d1832ac6a2c71449a235a242dc842cde4a28",
+      "en_sha256": "bd7e4d9676923a1db4a3a31d31a12638917e63c46a2724bcfb58e5781765a4a6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_penalty].content": {
+      "pl": "Kary",
+      "kr_sha256": "17bc5b9e69d4d67aecd777ba52adc4a129d3d454a64bede51ceeacc1aa98f26c",
+      "en_sha256": "444206375e2a9931b3ce97e7aaeb3ea960685ab2de3faa29bfb90969ef3da6a1",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_rest_freeroll_carry].content": {
+      "pl": "Rzuty dodatkowe (niewykorzystane Rzuty dodatkowe przechodzą do następnego Schematu)",
+      "kr_sha256": "e91643053744e5523205a15d640d4e72e91866a555556018f3a8c2627759ecd5",
+      "en_sha256": "ccbab7c415f5774760fcaa7fc4647faa1e3819248aae73869697c77d5c106805",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_rest_mp].content": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_rest_pick].content": {
+      "pl": "Po wejściu wybierz jeden z poniższych efektów Wytchnienia",
+      "kr_sha256": "d04fc108b43c3cbb5e576b4af7fd31d729570789171be193f8af71a46345d1b8",
+      "en_sha256": "08a468ae00347664afecea1d6300c53d8d15f16a7c86722e3b05f7068995a07e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_rest_reroll].content": {
+      "pl": "Szanse na odnowienie",
+      "kr_sha256": "5782976f06b72037ea42bcfd70161165d66dc567e10822173dd65a7c4ed3f702",
+      "en_sha256": "669417ad84f1ec3795adc3a3ad98e5b058df2aeb508d32e29659afbbc668c328",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_rest_syncup].content": {
+      "pl": "Synchronizacja +1 dla 1 Tożsamości w składzie",
+      "kr_sha256": "403115da3b2eb188d2f1e26ca206e518c8ef8e8e1c17cde48c2ab2f8341312d6",
+      "en_sha256": "56c5f3c91f67ff2d4ad45b520fe47a9e6322df67184853f5a0fa0680d86d02f6",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_tempt_mp].content": {
+      "pl": "W zależności od oferty {0} Poczytalności dla wszystkich Tożsamości w składzie",
+      "kr_sha256": "6a9b651c328c99c89042ce81b311c539d67cecbe7e47746e1b395dd8d8d508b1",
+      "en_sha256": "f9e722bf7a248a05e7386fcf31e9cb8794d5bcdbd7a39d1e12dfe79eb664689e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_list_tempt_offer].content": {
+      "pl": "Po wejściu możesz wybrać Tożsamość lub E.G.O do otrzymania (możesz też niczego nie wybierać).",
+      "kr_sha256": "e3c2b1a61dd329f6630626d3fa012704b48b9356f17fb23cfea982d3b9fa1fb7",
+      "en_sha256": "33be5abd40c4ec80fb8ceb772c811f502e6dbe23d262cf2ed6e6630850756c3e",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_move].content": {
+      "pl": "Wejdź do Reprezentacji",
+      "kr_sha256": "f2ccf961f64a924bedd3884775d84882390be76bbc5acf3343bce6725e9d511c",
+      "en_sha256": "2fee5ba2dfea607add9299ea81c31189cb249e4567c784ff9c9599d8d05ca579",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_title_room].content": {
+      "pl": "Schemat {0} {1} #{2}",
+      "kr_sha256": "ba033c1e099d5cddcc57203093151ea96f26734f27d448112134d906cec101f0",
+      "en_sha256": "3e0bf46d3fda25775cd4b2ffda079d36e5ec26351c9740cc4eeaddd7a0cb01a0",
+      "origin": "ai"
+    },
+    "dataList[id=limtochess_roominfo_to_formation].content": {
+      "pl": "Ułóż skład",
+      "kr_sha256": "ec6fb8cf4031812a526620c6dedcd5a4778b7cc2971d708e1e0a4ec71cda6fd0",
+      "en_sha256": "2887270e55c6b31612ca7ac89a1de88256ff78f25913edc1de0b7a2b03371f1f",
+      "origin": "ai"
+    }
+  }
+}

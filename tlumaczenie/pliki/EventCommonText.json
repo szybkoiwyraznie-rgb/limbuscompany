@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=event_bonus_description].content": {
+      "pl": "W okresie wydarzenia, mając w składzie wskazane Tożsamości i E.G.O,\n<color=#f8c200>zwiększasz zdobywanie [{0}]</color>.",
+      "kr_sha256": "ba8493a15b10bcf3f8c53d8c1fb4154a80b7ae28574b4fa97880523af73dca3b",
+      "en_sha256": "bb3e28b24d5bdc763e3b3430fbe08404bb6bde2f5cdf10d97dfd2c2cc6576878",
+      "origin": "ai"
+    },
+    "dataList[id=event_bonus_preview].content": {
+      "pl": "Jednostki premiowane w wydarzeniu",
+      "kr_sha256": "6f68d9ea6a1c0543eeca34bb262256f168b5924335fa224cb4373977694cd314",
+      "en_sha256": "db659e2b407c4f5c0ecf17eb17214b22d4d5dfd6a78b49e6f228e3106fc5e478",
+      "origin": "ai"
+    }
+  }
+}
