@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "dataList[id=19817].desc": {
+      "pl": "— opis] Umiejętności wrogów w stanie Niskiego Moralu lub Paniki zyskują Moc Końcową <style=\"upgradeHighlight\">-2</style> (dla wrogów bez Poczytalności uruchamia się przy <style=\"upgradeHighlight\">15</style>+ Moc [Sinking])\n- Gdy zadaje obrażenia tym wrogom Umiejętnością nakładającą Moc [Sinking], Licznik [Sinking] lub 'Szczególne Zatonięcie', nakłada w następnej turze <style=\"upgradeHighlight\">3</style> [DefenseDown] (do 2 razy na turę)",
+      "kr_sha256": "f3932abd42de410f376574764d01bf801e76e8a71ab36bc27aa3ce9fe2842f88",
+      "en_sha256": "3158128cd9a462def638b40b66e906d109df3f1639e4d0ce5be7155e482d8049",
+      "origin": "ai"
+    },
+    "dataList[id=19817].name": {
+      "pl": "— nazwa] Niebieski Odłamek Gwiazdy+",
+      "kr_sha256": "ca1ef8fe979260455b432fcf440502adb79fdcfd30cb59e5360b2bd3809056a2",
+      "en_sha256": "ab7be7f5ca74d0929c009cd269f6f4295453d9173c1f1b61af6aae4d5d4cf86e",
+      "origin": "ai"
+    },
+    "dataList[id=19817].simpleDesc[abilityID=19817].simpleDesc": {
+      "pl": "— opis skrócony] Obniża Moc Końcową celu; przy trafieniu nakłada Spadek Poziomu Obrony",
+      "kr_sha256": "89f9caa587be239325185ad99d1e05951923faa1d4da7d8a41364d1c58f902eb",
+      "en_sha256": "cdd9abee338b45f3a898eeacaf7dfbea795787e7c21a70343e3c23913efc1496",
+      "origin": "ai"
+    },
+    "dataList[id=19818].desc": {
+      "pl": "— opis] Gdy zadaje wrogowi obrażenia Umiejętnością zużywającą Licznik [Charge] lub 'Szczególne Ładowanie', najniższa Odporność na Typy Ataku wroga rośnie o 0.1 w tej turze (1 raz na turę)\n<style=\"upgradeHighlight\">- Dodatkowo nakłada 1 [VioletResistDown]</style>",
+      "kr_sha256": "735bd98673c162a0c402782511f906c951b404c7ee1f7cde5e808e30386993e5",
+      "en_sha256": "5dabe087aa257f21f4ee79b9cf3961ae398133bea1b10f2dfe0e00ef24d64e59",
+      "origin": "ai"
+    },
+    "dataList[id=19818].name": {
+      "pl": "— nazwa] Odrzucona Wymiarowa Rękawica+",
+      "kr_sha256": "76928262f72fdde9948b9ca8871c3cbc7417a076cdca0357782ce9a54af00fc6",
+      "en_sha256": "0a89c14ebd6768014ff067455318f71709e3e3a478bab95f6b9055c0cfedd342",
+      "origin": "ai"
+    },
+    "dataList[id=19818].simpleDesc[abilityID=19818].simpleDesc": {
+      "pl": "— opis skrócony] Podnosi najniższą Odporność na Typy Ataku",
+      "kr_sha256": "88a7043c653f8509c5c2898d03e841058271d93230959a0203f3df5f7455d9f0",
+      "en_sha256": "dba172caedc3d4606e5ca8989578236ac944198f96ba9b0fc52a4f4cfd9c56e4",
+      "origin": "ai"
+    },
+    "dataList[id=29817].desc": {
+      "pl": "— opis] Umiejętności wrogów w stanie Niskiego Moralu lub Paniki zyskują Moc Końcową <style=\"upgradeHighlight\">-3</style> (dla wrogów bez Poczytalności uruchamia się przy <style=\"upgradeHighlight\">10</style>+ Moc [Sinking])\n- Gdy zadaje obrażenia tym wrogom Umiejętnością nakładającą Moc [Sinking], Licznik [Sinking] lub 'Szczególne Zatonięcie', nakłada w następnej turze 3 [DefenseDown] (do <style=\"upgradeHighlight\">3</style> razy na turę)",
+      "kr_sha256": "19fbd1341db0df31dda7f259cebd917700d1ae46092c91ac4d9fc2eb35a09b4a",
+      "en_sha256": "6debebd55a8f8540efd264ff100e7a418912f5fd215f604d5e86bc6ce8b52a13",
+      "origin": "ai"
+    },
+    "dataList[id=29817].name": {
+      "pl": "— nazwa] Niebieski Odłamek Gwiazdy++",
+      "kr_sha256": "f1d716b85091133e770a28569e4cea5872969ab1b8adee62ea033d23d011b48a",
+      "en_sha256": "22bfd46313f7027566988aafb0408e57909244f26fbb336d9101f6d12e5597ad",
+      "origin": "ai"
+    },
+    "dataList[id=29817].simpleDesc[abilityID=29817].simpleDesc": {
+      "pl": "— opis skrócony] Obniża Moc Końcową celu; przy trafieniu nakłada Spadek Poziomu Obrony",
+      "kr_sha256": "89f9caa587be239325185ad99d1e05951923faa1d4da7d8a41364d1c58f902eb",
+      "en_sha256": "cdd9abee338b45f3a898eeacaf7dfbea795787e7c21a70343e3c23913efc1496",
+      "origin": "ai"
+    },
+    "dataList[id=29818].desc": {
+      "pl": "— opis] Gdy zadaje wrogowi obrażenia Umiejętnością zużywającą Licznik [Charge] lub 'Szczególne Ładowanie', najniższa Odporność na Typy Ataku wroga rośnie o 0.1 w tej turze (<style=\"upgradeHighlight\">2</style> razy na turę)\n- Dodatkowo nakłada 1 [VioletResistDown], <style=\"upgradeHighlight\">1 [AzureResistDown]</style>",
+      "kr_sha256": "0961090c3efc72f320d1b4067eb813887ed46378f445cefbeb1cba1dd687c299",
+      "en_sha256": "90b84c0dae95d5f90a22e894ad89df95ac21088ce16d81c01eed341b2352b92f",
+      "origin": "ai"
+    },
+    "dataList[id=29818].name": {
+      "pl": "— nazwa] Odrzucona Wymiarowa Rękawica++",
+      "kr_sha256": "a8d7a973813283aaa409030b540f1c414d2f76f0d876a627762af2bd05580cd4",
+      "en_sha256": "77dd38033d2bbdd476ef8f51f3b6ef0169ed37d843dc18543206057dc3ce4a88",
+      "origin": "ai"
+    },
+    "dataList[id=29818].simpleDesc[abilityID=29818].simpleDesc": {
+      "pl": "— opis skrócony] Podnosi najniższą Odporność na Typy Ataku",
+      "kr_sha256": "88a7043c653f8509c5c2898d03e841058271d93230959a0203f3df5f7455d9f0",
+      "en_sha256": "dba172caedc3d4606e5ca8989578236ac944198f96ba9b0fc52a4f4cfd9c56e4",
+      "origin": "ai"
+    },
+    "dataList[id=9205].desc": {
+      "pl": "— opis] Przy zabiciu wroga wytwarza [BloodDinner] równy (Maks. HP wroga/10) (maks. 50)\nNa koniec tury, jeżeli w tej turze zginął sojusznik, wszyscy sojusznicy zyskują w następnej turze 2 [Enhancement]",
+      "kr_sha256": "1daeeefd4855da40dd72f6f9880ebabe80136b9ad23acdfa249fb38d65c076ad",
+      "en_sha256": "b492d7359400843a7a66e27a4d89fc1082318c2a84730cf933f4af88a42a0031",
+      "origin": "ai"
+    },
+    "dataList[id=9205].name": {
+      "pl": "— nazwa] Kolba Pełnej Krwi",
+      "kr_sha256": "5038ff01b0c6dd4da971bf75be21eb403f628301ffcccb17712d91dc937fc1f9",
+      "en_sha256": "a0acf8356c9026ce42c5472669d8c3f7e586591c5001b3670e0b4d04528a457f",
+      "origin": "ai"
+    },
+    "dataList[id=9205].simpleDesc[abilityID=92051].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Mocy Ataku",
+      "kr_sha256": "c540f8e6815e66e7b0d74bdb56d3912d3552fceb28959011607e1e7b7c1e8410",
+      "en_sha256": "ac20cfea14d8f5193462b4abfec8ccd793e20ddcb72a4095aefdcb39098cc37d",
+      "origin": "ai"
+    },
+    "dataList[id=9205].simpleDesc[abilityID=9205].simpleDesc": {
+      "pl": "— opis skrócony] Wytwarza Krwawą Ucztę",
+      "kr_sha256": "ab32d3099823bd5e29d254cd162501f89445b9025c12e1e82d85983c928c9c62",
+      "en_sha256": "3583088a86e9572d8a1faa31e695e36ba0cfb3aba3ec87b57271127e1eb957d7",
+      "origin": "ai"
+    },
+    "dataList[id=9206].desc": {
+      "pl": "— opis] Przy trafieniu Umiejętnością ataku nakładającą [Laceration] lub 'Szczególne Krwawienie', sojusznik z najmniejszym HP przed początkiem walki odzyskuje 3% Maks. HP (2 razy na turę)\n\nPodczas starcia Umiejętnością nakładającą [Laceration] lub 'Szczególne Krwawienie' z wrogiem posiadającym [Laceration] lub 'Szczególne Krwawienie', zyskuje Moc Starcia +1\n- Jeżeli co najmniej 5 Tożsamości ma Umiejętności ataku nakładające [Laceration] lub 'Szczególne Krwawienie', zamiast tego zyskuje Moc Starcia +1 i zadaje +10% obrażeń (łącznie z rezerwą)\n- Jeżeli jest ich co najmniej 10, zamiast tego zyskuje Moc Starcia +2 i zadaje +15% obrażeń",
+      "kr_sha256": "5e191643fc08a6d530f8efe7c450243cfa2559cfb730a8787829d79f28ee1edf",
+      "en_sha256": "e9c990900ce40cb3b3a3abb2ce0864bfff1c00fa21990386037720dcc310e623",
+      "origin": "ai"
+    },
+    "dataList[id=9206].name": {
+      "pl": "— nazwa] Zstępuje Krwisty Zapach",
+      "kr_sha256": "24afd158d08a43e57e7001d56e153e9e83abeb25a5be526ae7ace36536a9a9fa",
+      "en_sha256": "ea48e7735ed8f8474aae21abd65cbf088d444c9ac853a75081a3cea58fa92e47",
+      "origin": "ai"
+    },
+    "dataList[id=9206].simpleDesc[abilityID=92061].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia lub zadaje więcej obrażeń",
+      "kr_sha256": "bb832ec6ae9aacec9ae4ecb7e924e1320235ede0acf66f8e1af21caae1050ab7",
+      "en_sha256": "01a527f2c9b55b6e31b2a9c98eb0ffd1069f58848a5a007225a7dbb653859196",
+      "origin": "ai"
+    },
+    "dataList[id=9206].simpleDesc[abilityID=9206].simpleDesc": {
+      "pl": "Odzyskiwanie HP",
+      "kr_sha256": "97bffd4ac2751f97188b092b8c96060844f8b739e0200e26bce545612cc11f95",
+      "en_sha256": "88d4b9ecef43d8c1cf3c9e8014e6366550303638f827ff5012e811813a5b6af5",
+      "origin": "ai"
+    },
+    "dataList[id=9817].desc": {
+      "pl": "— opis] Umiejętności wrogów w stanie Niskiego Moralu lub Paniki zyskują Moc Końcową -1 (dla wrogów bez Poczytalności uruchamia się przy 25+ Moc [Sinking])\n- Gdy zadaje obrażenia tym wrogom Umiejętnością nakładającą Moc [Sinking], Licznik [Sinking] lub 'Szczególne Zatonięcie', nakłada w następnej turze 2 [DefenseDown] (do 2 razy na turę)",
+      "kr_sha256": "8dc500d3d9d05465ee47b1d58d5335a2d760781a55955707d3eb4b7adb3e98f2",
+      "en_sha256": "9fdf94056084d4ae0c2fc92d2439285f2b9d98c4829088319bd721913fd44b92",
+      "origin": "ai"
+    },
+    "dataList[id=9817].name": {
+      "pl": "— nazwa] Niebieski Odłamek Gwiazdy",
+      "kr_sha256": "761c9faeb926c49222343973167baf6142d46bdb3518bdae68ffe24365258846",
+      "en_sha256": "393b633e6f5e487ba77dbcb9f727e01dde47b59d4e34e425c9277a1c1d58d7ab",
+      "origin": "ai"
+    },
+    "dataList[id=9817].simpleDesc[abilityID=9817].simpleDesc": {
+      "pl": "— opis skrócony] Obniża Moc Końcową celu; przy trafieniu nakłada Spadek Poziomu Obrony",
+      "kr_sha256": "89f9caa587be239325185ad99d1e05951923faa1d4da7d8a41364d1c58f902eb",
+      "en_sha256": "cdd9abee338b45f3a898eeacaf7dfbea795787e7c21a70343e3c23913efc1496",
+      "origin": "ai"
+    },
+    "dataList[id=9818].desc": {
+      "pl": "— opis] Gdy zadaje wrogowi obrażenia Umiejętnością zużywającą Licznik [Charge] lub 'Szczególne Ładowanie', najniższa Odporność na Typy Ataku wroga rośnie o 0.1 w tej turze (1 raz na turę)",
+      "kr_sha256": "d9c186831b79933ae7a114666d0e8309ffa6891e8e1cc4c3fac4f77c64d8ba5c",
+      "en_sha256": "f44f2f37dcf575dd88e50be6d94632fa9548a62e4463aeaeab48d2c7fbb2cf58",
+      "origin": "ai"
+    },
+    "dataList[id=9818].name": {
+      "pl": "— nazwa] Odrzucona Wymiarowa Rękawica",
+      "kr_sha256": "2fba5bc26eeec030a64b106a48d157102e474652112a5a0b736fac59fc0b0c34",
+      "en_sha256": "84f121e708ebd8da3bf9a552b57b9e965a192135a68edca740a76161ed0a4ee7",
+      "origin": "ai"
+    },
+    "dataList[id=9818].simpleDesc[abilityID=9818].simpleDesc": {
+      "pl": "— opis skrócony] Podnosi najniższą Odporność na Typy Ataku",
+      "kr_sha256": "88a7043c653f8509c5c2898d03e841058271d93230959a0203f3df5f7455d9f0",
+      "en_sha256": "dba172caedc3d4606e5ca8989578236ac944198f96ba9b0fc52a4f4cfd9c56e4",
+      "origin": "ai"
+    },
+    "dataList[id=9840].desc": {
+      "pl": "— opis] Po użyciu Umiejętności zyskującej Licznik [Charge] lub 'Szczególne Ładowanie', zyskuje [EmergencyChargeForceField] równy zdobytej wartości (maks. 7 na Tożsamość)",
+      "kr_sha256": "d3cdc14c90a413e4d9b5b9fcf2ff59544336a97c41e64f82e1756ce25ab23a51",
+      "en_sha256": "a3c7ebac317dcb218fcefe1505d4a7cdcc0926be50cbadfbd02d79c1cd2e28fa",
+      "origin": "ai"
+    },
+    "dataList[id=9840].name": {
+      "pl": "— nazwa] Czapka Wyposażenia Korp. W",
+      "kr_sha256": "990b8a6f89e2db5537b4227fe7068da0aee50d352515c41c871f12a56c698164",
+      "en_sha256": "943ce9cbcda9296c6b0a8ee8d33c5b19edad470bf74e381752bec36badfcf9bd",
+      "origin": "ai"
+    },
+    "dataList[id=9840].simpleDesc[abilityID=9840].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Awaryjną Baterię Bariery",
+      "kr_sha256": "1d3ea8e7d9938caf191d39cf046d6d2eeef1676c853581d91b488221a0eed219",
+      "en_sha256": "2529499fc42c9e0f3866172966d2e3f91c0331c2a0507d2124816cc99ec85511",
+      "origin": "ai"
+    },
+    "dataList[id=9841].desc": {
+      "pl": "— opis] Po użyciu Umiejętności zyskującej Licznik [Charge] lub 'Szczególne Ładowanie', zyskuje [EmergencyChargeForceField] równy zdobytej wartości (maks. 7 na Tożsamość)\n\nUmiejętności zużywające Licznik [Charge] lub 'Szczególne Ładowanie' zadają +(liczba Tożsamości w składzie z Umiejętnościami zyskującymi lub zużywającymi Licznik [Charge] lub 'Szczególne Ładowanie')% obrażeń (łącznie z rezerwą)\n\nUmiejętność 1 zużywająca Licznik [Charge] lub 'Szczególne Ładowanie' zyskuje Moc Starcia +3 i zadaje +15% obrażeń\n- Przy użyciu tej Umiejętności zyskuje 4 Licznika [Charge] i 1 [ChargeForceField] (1 raz na turę na Tożsamość)\n\nTożsamości Korp. W zyskują poniższe efekty:\n- Gdy zadają wrogowi obrażenia Umiejętnością (łącznie z Umiejętnościami E.G.O), nakładają 2 [TakeHpHealReduce] (bez kumulowania)\n- Gdy podczas fazy walki otrzyma obrażenia HP od źródeł innych niż bezpośrednie obrażenia Umiejętności, zyskuje 5 [ChargeForceField] (1 raz na turę na Tożsamość)\n- Umiejętność 2 zyskuje Moc Starcia +3 i zadaje +15% obrażeń\n- Na początku tury Umiejętność 3 zadaje +(liczba Tożsamości Korp. W na polu x 6.25)% obrażeń w tej turze\n- Na początku tury nakłada 1 [PlusCoinValueUp] na Agenta 2. Klasy Korp. W\n- Na początku tury zyskuje (liczba Tożsamości Korp. W na polu/3) [ChargeLoad] (maks. 2; zaokrąglone w dół)\n\nSpośród Tożsamości nakładających [DimensionRift] Podstawowymi Umiejętnościami 1 Tożsamość spoza Korp. W o najwcześniejszej kolejności Przydziału liczy się jako Tożsamość Korp. W",
+      "kr_sha256": "16021a812f494bd2ed8bbe8c89300bea56f3a2a36ac169f42bf07bfcb8cf0510",
+      "en_sha256": "c5f1d40aab2be999b3748e116bab239994413639e4e819eaee5ae49c7cc9a93a",
+      "origin": "ai"
+    },
+    "dataList[id=9841].name": {
+      "pl": "— nazwa] Zestaw Agenta Porządkowego C",
+      "kr_sha256": "41345a45b59054d4569da05f656b9a75ea126d7281f6b998a671d5e9e2d0919e",
+      "en_sha256": "7fa4686250e44dc4a19bbcebdcac54dd7eff173486e185171006c1058742aca3",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98411].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętności zużywające Ładowanie zadają więcej obrażeń",
+      "kr_sha256": "fc4b6007297c14f62d01518c35206b52cdd8ba2b9b6a7587c6a184ade3e821e0",
+      "en_sha256": "10ffbc28964b1c5db31e1678ca234807db37749c83ae8271444504abab480f43",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98412].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 1 zyskuje Moc Starcia i zadaje więcej obrażeń; zyskuje Licznik Ładowania i Bariery Ładunku",
+      "kr_sha256": "b54d2d24f2086de5e27004bbea0655c79c937fae5905fedb703eb8bd5bfc465d",
+      "en_sha256": "d172d5aec814139586a71158ed253133465fdac53b23e46eb3ccbb9a5674fed4",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98413].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Spadek Leczenia HP",
+      "kr_sha256": "5d8f9a60f5cbbba5727b51b090489959852eea90b65bed1ea9689df33e66ac2b",
+      "en_sha256": "d01be9cad2fca2e67cbe25d1d907bf7bd509437378cf3a835eb8b6824c02c175",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98414].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Bariery Ładunku",
+      "kr_sha256": "350bc46c7a8e707c57165f117e33e86a097c4cbb41c0e54bb9b97a0de5f04ba3",
+      "en_sha256": "11fa60aaf1da7b36dd73e8ffaf7ced1d284765a76eec2521a5c56908742f5300",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98415].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 2 zyskuje Moc Starcia i zadaje więcej obrażeń",
+      "kr_sha256": "2527c55b58e5578ce9c4f06707cdedf25848d68a9f22dcf0db61265bd4593df1",
+      "en_sha256": "01a51a86622c1a8ff384693b527386ce8608206bf0fd4eccce51725c27879b12",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98416].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zadaje więcej obrażeń",
+      "kr_sha256": "e9d2cd40d1a44f3000d95d2bdb7a1e4b98d252c2f1ac1e6f8e5dda3d77ece8c7",
+      "en_sha256": "ce615ddfe5e151a97f55fae5ed8e5b2ee6fabeb9352d9918b3af035c03324411",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98417].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Wzmocnienie Monet Plus",
+      "kr_sha256": "c76aca50a4cea852f8049245a900d8c1c8c1b1add2db4cb7f620dfe4b7d63305",
+      "en_sha256": "858b79ef963125bf6d11598dbd2bf466078424efbcbcf5b1f930794771f5bb63",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=98418].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Obciążenie",
+      "kr_sha256": "0af137f688cbcdf9d01ef712f53bd9781695be80177e7cf165b7238199fc2c1d",
+      "en_sha256": "9b4528aefc748d6f968d5916f39081831c46683698f8d9596c1994ba9d5f9493",
+      "origin": "ai"
+    },
+    "dataList[id=9841].simpleDesc[abilityID=9841].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Awaryjną Baterię Bariery",
+      "kr_sha256": "1d3ea8e7d9938caf191d39cf046d6d2eeef1676c853581d91b488221a0eed219",
+      "en_sha256": "2529499fc42c9e0f3866172966d2e3f91c0331c2a0507d2124816cc99ec85511",
+      "origin": "ai"
+    },
+    "dataList[id=9842].desc": {
+      "pl": "— opis] Efekt Daru jest wzmocniony w zależności od liczby Tożsamości w składzie z Umiejętnościami ataku zużywającymi [BloodDinner] (poza Umiejętnościami E.G.O; łącznie z rezerwą)\n\nNa pierwszym początku tury fali wytwarza (N x 20) [BloodDinner], a następnie nakłada po 3 Moc [Laceration] i Licznika [Laceration] na wszystkie cele (wytwarzanie [BloodDinner] ograniczone do maks. 100 na pierwszy początek tury fali)\n\nSojusznicy otrzymują -(N x 10%) obrażeń [Laceration] (min. 1 obrażeń [Laceration]; maks. 40%)\n- Zredukowane obrażenia nie wpływają na ilość wytworzonego [BloodDinner]\n\nWrogowie otrzymują +(N x 5)% obrażeń [Laceration] (maks. 20%)",
+      "kr_sha256": "09155169f747aa5c9584c73a37fa4678325cf51877df8b9ed17886c79d4147d3",
+      "en_sha256": "f5d07549fc4670cd9be1eb92d2b925c7c5d6dd42662156f7abff4c6d2d611b9b",
+      "origin": "ai"
+    },
+    "dataList[id=9842].name": {
+      "pl": "— nazwa] Krwawa Miazga, Mięsista Krew",
+      "kr_sha256": "c0c8868d1a862618dcfa0b594472a61d0791cfae4dea0824152539b90e718b66",
+      "en_sha256": "02796d88b0015303a9a40a79a6297b65e41dfa6ac33e7df745c8e13d3e895b71",
+      "origin": "ai"
+    },
+    "dataList[id=9842].simpleDesc[abilityID=98421].simpleDesc": {
+      "pl": "— opis skrócony] Otrzymuje mniej obrażeń Krwawienia",
+      "kr_sha256": "2a832b5e0a4b59ca367823dc5e348a3100c52e5de2da56021f5103f4166d649a",
+      "en_sha256": "73be435e7a827d9c192c4d8169ac8af3aabe0a9b8a820c7e14e2a83632a005e3",
+      "origin": "ai"
+    },
+    "dataList[id=9842].simpleDesc[abilityID=98422].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje więcej obrażeń Krwawienia",
+      "kr_sha256": "bd99d45aaaad200093a3d90d65fed31871e8f89a1f03a667609acbc522acebe7",
+      "en_sha256": "30e4610744a2700e8f3774a8f0d679aaf1d6734f56d6cc245ca72a7d0f1858ff",
+      "origin": "ai"
+    },
+    "dataList[id=9842].simpleDesc[abilityID=9842].simpleDesc": {
+      "pl": "— opis skrócony] Wytwarza Krwawą Ucztę i nakłada Krwawienie oraz Licznik Krwawienia",
+      "kr_sha256": "626924443e338696f0e34da704cd8f9305caaae0d6704c5e6d3fa340bc779f7c",
+      "en_sha256": "147e3839c99d717cca74ada30687e9a0d9311f36d69470b59d2546a2cef84c12",
+      "origin": "ai"
+    },
+    "dataList[id=9843].desc": {
+      "pl": "— opis] Efekt Daru jest wzmocniony w zależności od liczby Tożsamości w składzie z Umiejętnościami ataku zużywającymi [BloodDinner] (poza Umiejętnościami E.G.O; łącznie z rezerwą)\n\nNa początku spotkania wszyscy sojusznicy zyskują (N-2) [BloodArmorCasting] (maks. 3)",
+      "kr_sha256": "cd62e5f9823f7c341d80933b3faefec52c77f6c7a0b2ccc5aaaa31e09b13786b",
+      "en_sha256": "b80f2302fdff1ee195b9246e8ac9e17503d65353cca0cd69f2654256caf468c0",
+      "origin": "ai"
+    },
+    "dataList[id=9843].name": {
+      "pl": "— nazwa] Glaiva z Twardej Krwi",
+      "kr_sha256": "d60e8eb668fd41d16780710180de4aa7f0f447a11581985d4874b1a4529ac159",
+      "en_sha256": "d9d54475f244d368e99b2b5079b4e24a7439473817c0b8f9dca257023ce1e413",
+      "origin": "ai"
+    },
+    "dataList[id=9843].simpleDesc[abilityID=9843].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Odlew Twardej Krwi",
+      "kr_sha256": "6fa04cd846e8a92cc19e561944f6a7612e07f694a2190bf5a21b7e20b80011fb",
+      "en_sha256": "0dd7b19bd8a590fa96e5bac6b9d2f3ce91574c0261cf69455053a547cdc209d3",
+      "origin": "ai"
+    }
+  }
+}

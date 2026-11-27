@@ -1,0 +1,748 @@
+{
+  "entries": {
+    "dataList[id=9701].desc": {
+      "pl": "— opis] Przy nakładaniu [Combustion] Umiejętnościami na wrogów, nakłada +3 Licznika [Combustion] (do 3 razy na turę)",
+      "kr_sha256": "a13b740546fd3b95ca487be01e6531062c6a016c4ec282ea76af9b2f3034fdd2",
+      "en_sha256": "7c1e139e5334d57af734c2539a9ed3e600a214083884c74fb0928ac08a4135cc",
+      "origin": "ai"
+    },
+    "dataList[id=9701].name": {
+      "pl": "— nazwa] Gorący i Soczysty Udek",
+      "kr_sha256": "fec2e0047552055cee7f414c2d24b643d7fc481cbf0224315b3da614abcf4d97",
+      "en_sha256": "627305e7c6919ccc6216e94ec41256772a23ae110f2a1fef7664fe698275936e",
+      "origin": "ai"
+    },
+    "dataList[id=9701].simpleDesc[abilityID=9701].simpleDesc": {
+      "pl": "— opis skrócony] Przy nakładaniu [Combustion] Umiejętnością, nakłada +3 Licznika [Combustion]",
+      "kr_sha256": "d69bbd2441d046aa200471b00434b35e21b9915ce6b43afed607d4b3967dca12",
+      "en_sha256": "17a9e65a8e9b1972492a19c2096bf6e4743d8aad898913fa147e1d394f57395f",
+      "origin": "ai"
+    },
+    "dataList[id=9702].desc": {
+      "pl": "— opis] Przy nakładaniu [Burst] Umiejętnościami na wrogów, nakłada +3 Licznika [Burst] (do 3 razy na turę)",
+      "kr_sha256": "3e6b9e1489bd45ab78da7ebb5cc3babdc800f57ee552ad9f95236558d6dd1450",
+      "en_sha256": "39dbf7ff01a70596ee140650f9f556fd8117bdbd54127a9ac07fb86e7eab8cb3",
+      "origin": "ai"
+    },
+    "dataList[id=9702].name": {
+      "pl": "— nazwa] Sucha Do Kości Pierś",
+      "kr_sha256": "90924f974771ebd4cc2abb3b501ae051f81c3afed520d958dc3b58f2903a87f5",
+      "en_sha256": "10fb27fcf7c8bd307a7885dead1473ff4d775f721664bd1cd7480d053c2c3cba",
+      "origin": "ai"
+    },
+    "dataList[id=9702].simpleDesc[abilityID=9702].simpleDesc": {
+      "pl": "— opis skrócony] Przy nakładaniu [Burst] Umiejętnością, nakłada +3 Licznika [Burst]",
+      "kr_sha256": "5cd2b012cc66d047ccd158c1bfe997002d4e75039274717fdd696f03a657e27d",
+      "en_sha256": "73e8370f8141d24a13b587057899b7994bdbb4c5628ef8ada2a440c2a243c69d",
+      "origin": "ai"
+    },
+    "dataList[id=9703].desc": {
+      "pl": "— opis] Jeżeli Szybkość jest wyższa niż celu, zyskuje Moc Starcia +(Szybkość/3). (maks. 3)",
+      "kr_sha256": "0f51cb26de5911cd3991c22dfa33724b3ab71ee32e9946b97129e4dd8a6159ff",
+      "en_sha256": "c364091407c168c4a12338e7303b73cf418a66ce19f676790fbf22b48f838b6a",
+      "origin": "ai"
+    },
+    "dataList[id=9703].name": {
+      "pl": "— nazwa] Marynata Tango",
+      "kr_sha256": "e423015d96dd653e13be59745de96f2933a2044078b4613f0c20c34f3f8594c2",
+      "en_sha256": "7e19be6b5a7626ab90881928f29d3e8f6fd16c45af15e0d76a7db96b3313e173",
+      "origin": "ai"
+    },
+    "dataList[id=9703].simpleDesc[abilityID=9703].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia +(Szybkość/3)",
+      "kr_sha256": "e01a96407a8c32de721dcb24ff9579fb6f191c92cf495177179345f0d272ea90",
+      "en_sha256": "9626f73c458044426e6cb34a979d2d9c37cb6e600f88a4af882a6a1165e5ac4e",
+      "origin": "ai"
+    },
+    "dataList[id=9704].desc": {
+      "pl": "— opis] Efekt dotyczy pierwszej Umiejętności, która zada w tej turze obrażenia wrogowi.\n\nNakłada Moc [Laceration] równą (zadanych obrażeń/3).",
+      "kr_sha256": "820bd703a54ccc93a7e822a71a0d5f9812d14c22c348c9ba4dc65ad671675114",
+      "en_sha256": "394857b1372c67a8f4941294908ef798d92041f195f3196e361b297c2e4a5f8f",
+      "origin": "ai"
+    },
+    "dataList[id=9704].name": {
+      "pl": "— nazwa] Zanieczyszczona Igła i Nitka",
+      "kr_sha256": "321c425dd8e868c3a07894b9e0b3667aa20b8cca4e751e49972dcc81db00a3db",
+      "en_sha256": "3eac3f654e2d59672e01162f6026c9cbc271132c7e78088f507af8fa4283f0a4",
+      "origin": "ai"
+    },
+    "dataList[id=9704].simpleDesc[abilityID=9704].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Moc [Laceration] równą (zadanych obrażeń/3)",
+      "kr_sha256": "69f9db567431463a390e2eb58301a2e5b045b0d126d276c2745fee91fce076d1",
+      "en_sha256": "63ce4e6a6f214bcf5c9f35faf0913200f80c43d620bf3ba2184b229da68a9303",
+      "origin": "ai"
+    },
+    "dataList[id=9705].desc": {
+      "pl": "— opis] Za każdą turę pierwsza Umiejętność, która zada wrogowi obrażenia, zadaje dodatkowe obrażenia stałe równe (zadanych obrażeń/2).",
+      "kr_sha256": "27af62825050b24e7b0958618b93e17fb139a3d34d7e9cf44c30545b4529e4c0",
+      "en_sha256": "551e87acde48fb35d686ac00009b97048de6a341e56915fda41817721f6de4b4",
+      "origin": "ai"
+    },
+    "dataList[id=9705].name": {
+      "pl": "— nazwa] Ostra Igła i Nitka",
+      "kr_sha256": "ccd6aad9cbc13ee496babf08e6caecc7cddb468f7e957f9edfdfacdddc047e4c",
+      "en_sha256": "9839881542f3e80d239f682ca574dd4d7fd1811a9bd817b7f935d0518c701ea3",
+      "origin": "ai"
+    },
+    "dataList[id=9705].simpleDesc[abilityID=9705].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia stałe równe (zadanych obrażeń/2)",
+      "kr_sha256": "d22e073fea61b7d3bf658d96e3a5a55ddda01b5db0eafe6a76b61d817cc428f0",
+      "en_sha256": "e4f6468f73d79f22b13c7ec86112a54c6588fcf5a573df8ff72c547549a1cb62",
+      "origin": "ai"
+    },
+    "dataList[id=9706].desc": {
+      "pl": "— opis] Umiejętności Obuchowe zadają +10% obrażeń\n\nOstatnia moneta Umiejętności Obuchowej nakłada na wroga Moc [Vibration] 2. (1 raz na turę)",
+      "kr_sha256": "e7a8f57dd6cb19f87ac3c775d75aab3fdf3fe6c61b13431717aa40b3b479117e",
+      "en_sha256": "12bb6894aceb1e45b87d2d9dec07e9ccae562dc2b3e648f44e0047a1bd2bb2f5",
+      "origin": "ai"
+    },
+    "dataList[id=9706].name": {
+      "pl": "— nazwa] Klucz Pokryty Olejowym Brudem",
+      "kr_sha256": "adabd671ba26c7b74291d607eaf36c871a5d7a6e3b9bbdaa6afd1d432ec64c71",
+      "en_sha256": "805682f67416d1691e5ae45257138437e3fcea2ddae40197b2ef2765ac72691c",
+      "origin": "ai"
+    },
+    "dataList[id=9706].simpleDesc[abilityID=97061].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada na wroga Moc [Vibration] 2.",
+      "kr_sha256": "c69481652f513dadddee97c38d70c1eded6dc56103c0241afc513a2f4cc7e23c",
+      "en_sha256": "ee597db22832fe7a5c1b3e9a6b53ec88697dbc7959fe20f7b62d2d556396d0c1",
+      "origin": "ai"
+    },
+    "dataList[id=9706].simpleDesc[abilityID=9706].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętności Obuchowe zadają +10% obrażeń",
+      "kr_sha256": "a30c8ea46a4b818f0d7d87541f0385a1a17704652450115e253735a8229bb8b6",
+      "en_sha256": "7fdf097cc0624f2f1172147800951b7e0d5671d465c957456781b38b5e58ef8d",
+      "origin": "ai"
+    },
+    "dataList[id=9707].desc": {
+      "pl": "— opis] Gdy sojusznik z Tarczą zostanie trafiony przez wroga, odbija 3 obrażeń stałych. (Nie odbija, jeżeli sojusznik nie otrzymał obrażeń Tarczy)",
+      "kr_sha256": "a9ad63ca38338e395a17ddcbfad9c0fbb5cf5d614b981589eef2b262eaeb1196",
+      "en_sha256": "6c9f44cf06f6431c8a46dba7e098359b3c5bdd292790b3c4357eecc286ed3234",
+      "origin": "ai"
+    },
+    "dataList[id=9707].name": {
+      "pl": "— nazwa] Migoczące Złomy",
+      "kr_sha256": "92602d680cfd36ba48cee7c936bd1119739792ef09cb36faa59eb55d06b03cec",
+      "en_sha256": "daea930bbb74c5d1c68725af10d813a2db303ee41ac4918cc3c4043daa3efa70",
+      "origin": "ai"
+    },
+    "dataList[id=9707].simpleDesc[abilityID=9707].simpleDesc": {
+      "pl": "— opis skrócony] Odbija 3 obrażeń stałych",
+      "kr_sha256": "11ba866474840a4e6e12443fbfe2c292de147982accc34c7f7f9bf4584473a3d",
+      "en_sha256": "fdf3f802ddcddf35dcc6210fa4cc9a2ac47ca5f40cd9c0c614a1ee4caad46565",
+      "origin": "ai"
+    },
+    "dataList[id=9708].desc": {
+      "pl": "— opis] Gdy sojusznik atakuje Umiejętnością nakładającą Moc [Burst] lub Licznik [Burst] wroga w stanie [Burst], zadaje +(Licznik [Burst] celu x 1.25)% obrażeń. (maks. 50%)\n\nGdy sojusznik dochodzi do siebie z Oszołomienia, odzyskuje 20% Maks. HP. (2 razy na potyczkę)",
+      "kr_sha256": "c7595b9a86ec0b8bd9158453050d00b3bacda5b929f00c219687696af5abfc94",
+      "en_sha256": "8bf10e32611cc29018ddcb696af4f1549536d961f95ffc0eb60b68e171f5173a",
+      "origin": "ai"
+    },
+    "dataList[id=9708].name": {
+      "pl": "— nazwa] Wino z Mózgu Śmietnikokraba",
+      "kr_sha256": "a2b7957c4d5052d9c3aa153c1987947c4d4ad9f4f6610ff2ad99e6c3d0f83c8e",
+      "en_sha256": "138e3523613e5302c3034e3de8ba234f17dcbd7e14743b0755066d04a6e246ab",
+      "origin": "ai"
+    },
+    "dataList[id=9708].simpleDesc[abilityID=97081].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje 20% Maks. HP",
+      "kr_sha256": "525fe03eab5f4a5f4b9442150eb04aa295c8e4df41476b5a7bca65cb39297b97",
+      "en_sha256": "87c6e37b57a71fb53aabdf833c01b3426c658aba076b874597e2d16bf486421b",
+      "origin": "ai"
+    },
+    "dataList[id=9708].simpleDesc[abilityID=9708].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(Licznik [Burst] celu x 1.25, maks. 50)% obrażeń",
+      "kr_sha256": "33947c5443abfffd13dba701348f29c1becb6528eddf62ab8b0fd45b6f0839fe",
+      "en_sha256": "bf3e4f28eb14d6352c8ad5647c09f486dcca4e839d411f533b84b33d5aa504b1",
+      "origin": "ai"
+    },
+    "dataList[id=9709].desc": {
+      "pl": "— opis] Na koniec tury sojusznik zyskuje w następnej turze 1 Moc [Breath] za każdą Umiejętność ataku, która zadała obrażenia do końca tury.\n\nW walkach skupionych efekt jest wzmocniony i zyskuje 3 Moc [Breath] za każdą Umiejętność ataku, która zadała obrażenia do końca tury.",
+      "kr_sha256": "e2c2ea54ba7c2f0e8e3b31267e6a3c7d1e15dd90d6d1f44486db11cdd427550b",
+      "en_sha256": "329fcc7675f436a1b4e1dfa87477b9520a5b74291f419c6b49e4afbe5e54076e",
+      "origin": "ai"
+    },
+    "dataList[id=9709].name": {
+      "pl": "— nazwa] Czapka z Pomponem",
+      "kr_sha256": "c73f5be88533a0bf5b321397588c6dbd0567a13dd0599577f08d1cfb29071772",
+      "en_sha256": "82c7735479f69101b611208eb29e100fba4ca10d10dcdb344c774cdf1643c6a5",
+      "origin": "ai"
+    },
+    "dataList[id=9709].simpleDesc[abilityID=97091].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 3 Moc [Breath]",
+      "kr_sha256": "2bdd62e42258c1e60c13de0ca31b6acb6e4faa0abb014b200345ebdc01df8efc",
+      "en_sha256": "702085aa139e3c0a66d1c79a94a34a3c282553d6fcf7d7f61b2683fdff56e0d3",
+      "origin": "ai"
+    },
+    "dataList[id=9709].simpleDesc[abilityID=9709].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Moc [Breath]",
+      "kr_sha256": "f2bcd55423ded5634f9a0e5af23c14102fd5c3a0ffdf7c7a0b4b7aecd08b8b24",
+      "en_sha256": "004636969d053580fd95fdb6f0a3184f98513736854ea331258ec2c898013112",
+      "origin": "ai"
+    },
+    "dataList[id=9710].desc": {
+      "pl": "— opis] Na początku tury nakłada na sojusznika z najmniejszym HP 2 [Breath], 2 Licznika [Breath] i 2 [Protection].",
+      "kr_sha256": "364f251d4381771277a8b577164ccc145512012358c89cbe1a7d3ea6c88261ee",
+      "en_sha256": "969a7f879bc5ddde120aa5bd6a53b36caff3315d741ac3b65cca3c1de78e88a2",
+      "origin": "ai"
+    },
+    "dataList[id=9710].name": {
+      "pl": "— nazwa] Wielki Worek Prezentów",
+      "kr_sha256": "99f80f04e2050ce279c38340a4f0c27f32cc6619231f3281ce1f7dfa20c4b691",
+      "en_sha256": "3802754fc72c76a0166eaa5b13e9baf22526d2629315743bd55004f947dd1c81",
+      "origin": "ai"
+    },
+    "dataList[id=9710].simpleDesc[abilityID=9710].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 [Breath], 2 Licznika [Breath] i 2 [Protection]",
+      "kr_sha256": "62f6049469300e780cd1ca9a57848f47f8fa6ba04ce346d1e38f38bb224fe3c6",
+      "en_sha256": "d3a8d5f6803ab1194b05726451c15cdb8afd0934da952947afde27c4a52177f7",
+      "origin": "ai"
+    },
+    "dataList[id=9711].desc": {
+      "pl": "— opis] Sojusznik zadaje +(wartość bezwzględna Poczytalności/1.5, min. 0)% obrażeń wrogom\n\nGdy sojusznik z monetami Plus dochodzi do siebie z Oszołomienia, odzyskuje całą Poczytalność (nie działa przy Korozji E.G.O).\n\nSojusznik z samymi monetami Minus zyskuje na początku tury 3 [Paralysis].",
+      "kr_sha256": "d893e4e150f22008b067232c3ab6c50c2e1675710d3c8fd500746b7f56822102",
+      "en_sha256": "baff89862d2d8b5997addff366422d722b0a6f5d2a157d5ee72f8834d69d5781",
+      "origin": "ai"
+    },
+    "dataList[id=9711].name": {
+      "pl": "— nazwa] Smutna Pluszowa Zabawka",
+      "kr_sha256": "9f6838133c3862853cc31cbe53a7354d98f37d2e77c1a40db3dbd6a85e7d6fb6",
+      "en_sha256": "f6b5b2f28589fda427f00f41a4450baeb8c28c187c7d228524cc5d1e57680428",
+      "origin": "ai"
+    },
+    "dataList[id=9711].simpleDesc[abilityID=97111].simpleDesc": {
+      "pl": "— opis skrócony] Gdy dochodzi do siebie z Oszołomienia, odzyskuje całą Poczytalność",
+      "kr_sha256": "cee17e2fb83375cc5a7e0919b49823bb50c64a07bd1932011bd730a6c6a77821",
+      "en_sha256": "d34c70677b14d4a418ebd285fde9535124cff15c5b97c5ad7bcabf61efa25672",
+      "origin": "ai"
+    },
+    "dataList[id=9711].simpleDesc[abilityID=97112].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 3 [Paralysis] na początku tury",
+      "kr_sha256": "78f112ed720254d2edae4c0c3faf783b9d82dcdedcc38c184ba54b4e0eb1f023",
+      "en_sha256": "434d73bac4047d134ed90c2152ade138e3bcfa3ce91f3c0b3887a3b7edd29011",
+      "origin": "ai"
+    },
+    "dataList[id=9711].simpleDesc[abilityID=9711].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(wartość bezwzględna Poczytalności/1.5, min. 0)% obrażeń",
+      "kr_sha256": "7d202af5769bcf0683ab6281bea9eb789b42415659abdf2b31765b5a7226d345",
+      "en_sha256": "66f3f6a10b51f999eefd7a24c4f83151ffcf21d54cd32240870b8cb104f9a1ce",
+      "origin": "ai"
+    },
+    "dataList[id=9712].desc": {
+      "pl": "— opis] Na pierwszym początku tury spotkania zyskuje losowe zasoby E.G.O w liczbie równej liczbie wrogów.\n\nJeżeli w potyczce bierze udział co najmniej 4 Tożsamości Rodu Ostrza lub Klanu Kurokumo (liczone wyłącznie na polu przy jej początku), zamiast tego zyskuje zasoby E.G.O atrybutu, którego najmniej posiada.",
+      "kr_sha256": "03f5d3cd5e8c3d3dff3ce48a096e91d8d0f5ff47562d2e4d3a999ebe239eb689",
+      "en_sha256": "a75774d33c2a92656a10f2698059a5e45b2dbcf2be025b1df546e6a1687b9e9a",
+      "origin": "ai"
+    },
+    "dataList[id=9712].name": {
+      "pl": "— nazwa] Czarna Księga",
+      "kr_sha256": "cbfceb944695ad84489ef24abca3782063e19d12c505d67d4b109b9d3f4e4790",
+      "en_sha256": "2396d9f19cf2312466b353edb644e59c3156b0157953a3d83e5d3c2d288beef8",
+      "origin": "ai"
+    },
+    "dataList[id=9712].simpleDesc[abilityID=97121].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje najmniej posiadane zasoby E.G.O",
+      "kr_sha256": "55a8456623fdca6c0a25aecce6e1ce69559ceba413a79a9ceafc1cfeac364cc0",
+      "en_sha256": "b52a1f4e39721a1fd02fbeaeb9fcf130641b1aef3d204043986800abf49ff22f",
+      "origin": "ai"
+    },
+    "dataList[id=9712].simpleDesc[abilityID=9712].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje losowe zasoby E.G.O",
+      "kr_sha256": "d5bb96fc22ac41f45901ccaaad2f4cf11da9908e75e2a96d9fab0fbcae7078ca",
+      "en_sha256": "fe2745f8e6436fb63247c53f52f4eb8d166829aca8826e69725bba6f996ac112",
+      "origin": "ai"
+    },
+    "dataList[id=9713].desc": {
+      "pl": "— opis] Na początku tury wszyscy sojusznicy zyskują 1 Wzrost Mocy Cięcia.\n\nTożsamości Rodu Ostrza lub Klanu Kurokumo zamiast tego zyskują 2 Wzrost Mocy Cięcia.",
+      "kr_sha256": "2687bf94472d79d438f8f485c7df03ea91e42d06ecdfa67ffb3ea8ee00ea198a",
+      "en_sha256": "9a9354f4676ec5bfaa3cdcd9f4bec59ec75bdab10c38844487c9fa3d6c0e9385",
+      "origin": "ai"
+    },
+    "dataList[id=9713].name": {
+      "pl": "— nazwa] Zardzewiała Rękojeść",
+      "kr_sha256": "e8789ec305199bbe730e64899998aed1e1535dd9986ea1f0004c64c0133a50f7",
+      "en_sha256": "0dc34d133dfd65cf04ac3eb409390ad0545496b3e0c0483025ac30908262706b",
+      "origin": "ai"
+    },
+    "dataList[id=9713].simpleDesc[abilityID=97131].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 2 Wzrost Mocy Cięcia",
+      "kr_sha256": "8df5ed26be2d8f053d580574ff82abf17da271f9015ad3513c8cdfacb2523e69",
+      "en_sha256": "9e8c4b6291928f8ee2b67df17667a070d94d5a389925867e0ece3acca427fe54",
+      "origin": "ai"
+    },
+    "dataList[id=9713].simpleDesc[abilityID=9713].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Wzrost Mocy Cięcia",
+      "kr_sha256": "ec816700ee5b0065f65e9e42f59fdf4d5fd80555b0260cd90c0d7be26175d351",
+      "en_sha256": "8f37adb08306561a3ca1f73b7ccb994e69a2f4ad49308a0cd9940529f4ab38ab",
+      "origin": "ai"
+    },
+    "dataList[id=9714].desc": {
+      "pl": "— opis] Podczas tej potyczki, gdy Umiejętność ataku po raz pierwszy nakłada na wroga Moc [Laceration] lub 'Szczególne Krwawienie', nakłada dodatkowo +2 Licznika [Laceration]. (1 raz na potyczkę)\n\nTożsamości Klanu Kurokumo: gdy po raz pierwszy zadają wrogowi obrażenia, nakładają zamiast tego dodatkowo 4 Moc [Laceration] i +4 Licznika [Laceration].",
+      "kr_sha256": "b1d7260ebe4c3bbb1e62f1fe0a35356ca9580665c56335840c94deb860d6ae60",
+      "en_sha256": "a4670cd37db83ff97cdd8749f4ad9c85146d14eb9e4d3ee01755faeeeb1ff187",
+      "origin": "ai"
+    },
+    "dataList[id=9714].name": {
+      "pl": "— nazwa] Pęknięte Ostrze",
+      "kr_sha256": "f95c8d046aaea50b85745b5979fa521753dce84d30e33d025afe2bbb36a8f421",
+      "en_sha256": "6478e5ad6144d7a2deca2bfa66b4b7902bc93bb27660fd38cf500ca0dac7d3a3",
+      "origin": "ai"
+    },
+    "dataList[id=9714].simpleDesc[abilityID=97141].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada dodatkowo 4 Moc [Laceration] i +4 Licznika [Laceration]",
+      "kr_sha256": "e99b88495f76c1edee6f45f41a78f1146cc667412bc0689681cd3d29523c273f",
+      "en_sha256": "e0476f81f50ad3247c7f686978f0fbc5ce5016f7a8f44763d7cf0588374ee9d6",
+      "origin": "ai"
+    },
+    "dataList[id=9714].simpleDesc[abilityID=9714].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada dodatkowo +2 Licznika [Laceration]",
+      "kr_sha256": "105bb573bf4d5055407f58def32099d38c6d835ee853be36e6426798dbb5a5f3",
+      "en_sha256": "5195ff57214c7907ff5e7f890d9d3f54238e6ec26b0d672551a6a6c1f4a8c644",
+      "origin": "ai"
+    },
+    "dataList[id=9715].desc": {
+      "pl": "— opis] Gdy sojusznik zadaje wrogowi Krytykę, zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/3).\n\nTożsamości Rodu Ostrza: gdy zadają wrogowi Krytykę, zamiast tego zadają dodatkowe obrażenia Pychy równe (Moc [Breath]/2).",
+      "kr_sha256": "b63b976bc8cb4c5b6a0118bde2e62df1f764f3a601b00a57d94b25d30c14ec12",
+      "en_sha256": "04ae045b84678617dcd0453f97a9bb7bd389d07f1738c3789bf9e7190be36877",
+      "origin": "ai"
+    },
+    "dataList[id=9715].name": {
+      "pl": "— nazwa] Połamane Ostrze",
+      "kr_sha256": "5ee88be5eb5962b340d8f36fc3a4e6c9b90b6ce5de46fb2a37423ddc72bab5d1",
+      "en_sha256": "2f5a0e57d1b61e9358361242c6c094b6a4800730932714725556b7056025317f",
+      "origin": "ai"
+    },
+    "dataList[id=9715].simpleDesc[abilityID=97151].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/2)",
+      "kr_sha256": "1c64435e4b47b0fe53447a974111451d6d4b86fc6e9148f19023f4730b62426c",
+      "en_sha256": "5a4806c3e6a0591580b6cf32573242ecebf3b5a9a70f6159b5094e3cce1cd54f",
+      "origin": "ai"
+    },
+    "dataList[id=9715].simpleDesc[abilityID=9715].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia Pychy równe (Moc [Breath]/3)",
+      "kr_sha256": "f82c259325b3e0ab636d0dc09c74b403948d7d3e004e99d61cc495a1d7012fa8",
+      "en_sha256": "e630b97a312dbc6b271f05bc9e190509d02819511f1e33c0a65430cf49545d4b",
+      "origin": "ai"
+    },
+    "dataList[id=9716].desc": {
+      "pl": "— opis] Jeżeli odporność celu na Cięcie wynosi 1.5 lub mniej, Odporność na Cięcie +0.3.",
+      "kr_sha256": "58ab456deb44d9cfc7d00794d22cc7ee099e9a6dca6be5e01635ada7713e70bf",
+      "en_sha256": "69eae85e8adb9f60f2693e0739a6e2c21b423575e3107b519438e97609a4f5db",
+      "origin": "ai"
+    },
+    "dataList[id=9716].name": {
+      "pl": "— nazwa] Czerwona Kita",
+      "kr_sha256": "7fd33b0b0859a4ff34d8332f85c4afbec0169313f32361a28c7219bc5c443275",
+      "en_sha256": "cff8bba1fe36640ca7fff6668255fdb4b3fde12bb530beb29213c84f0ddbc6c3",
+      "origin": "ai"
+    },
+    "dataList[id=9716].simpleDesc[abilityID=9716].simpleDesc": {
+      "pl": "— opis skrócony] Odporność na Cięcie +0.3",
+      "kr_sha256": "98855813ffe0c900699b61e5bdc37a95a270f98f07b2e58526c791254474b718",
+      "en_sha256": "2d47e19ea0280a7d61bdc91938e2a413d0a82492bf8dd775fb09a99b3bfc7717",
+      "origin": "ai"
+    },
+    "dataList[id=9717].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Klanu Kurokumo (liczone na polu).\n\nNa początku tury wszyscy sojusznicy zyskują 2 Wzrost Mocy Cięcia i zadają +35% obrażeń Cięcia.\n\nNa początku tury, gdy Tożsamość Klanu Kurokumo po raz pierwszy zada celowi obrażenia, nakłada dodatkowo 4 Moc [Laceration] i +4 Licznika [Laceration]. (1 raz na turę)",
+      "kr_sha256": "3484c5dea9952cddadac795f80749f430430a09cf93850574c92f367235cea1b",
+      "en_sha256": "6b2c4933607fad9728657bac8d7aebfb3e610593ef89333f441dd1c5d8db0d3b",
+      "origin": "ai"
+    },
+    "dataList[id=9717].name": {
+      "pl": "— nazwa] Wzniosłość",
+      "kr_sha256": "04f7145094b522cb5dcf56c0cf4103c537ad3a1363a4a719195074519992623f",
+      "en_sha256": "2881269e531ea65497c66422ab34588930db169a1d47e3b7fb6b5f3b763e7d0d",
+      "origin": "ai"
+    },
+    "dataList[id=9717].simpleDesc[abilityID=97171].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada dodatkowo 4 Moc [Laceration] i +4 Licznika [Laceration]",
+      "kr_sha256": "e99b88495f76c1edee6f45f41a78f1146cc667412bc0689681cd3d29523c273f",
+      "en_sha256": "e0476f81f50ad3247c7f686978f0fbc5ce5016f7a8f44763d7cf0588374ee9d6",
+      "origin": "ai"
+    },
+    "dataList[id=9717].simpleDesc[abilityID=9717].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 2 Wzrost Mocy Cięcia i zadaje +35% obrażeń Cięcia",
+      "kr_sha256": "e3038ff1b82e25e786672c2e58810caa65ad46d0fae6e87eef279cb87f44eb6a",
+      "en_sha256": "589db44240bd4d7906c5bc2ea6a7f68d746b9b0103cb25bc6af1da5722e0a5d3",
+      "origin": "ai"
+    },
+    "dataList[id=9718].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Rodu Ostrza (liczone na polu).\n\nNa początku tury wszyscy sojusznicy zyskują 2 Wzrost Mocy Cięcia i zadają +35% obrażeń Cięcia.\n\nNa początku tury, gdy Tożsamość Rodu Ostrza zadaje wrogowi Krytykę, zadaje dodatkowe obrażenia Pychy w wysokości posiadanej Mocy [Breath].",
+      "kr_sha256": "e6adfd7f799edf820e8cc1786f1fd2fe59f4cb296151b897d670f1d6999a5e66",
+      "en_sha256": "a50efe4293de5b678fb05b20cc3f443eb7916159e23b54dc48e3682a7632f43e",
+      "origin": "ai"
+    },
+    "dataList[id=9718].name": {
+      "pl": "— nazwa] Nieugięty",
+      "kr_sha256": "7d2f3f0d1a5b6457ef3e56cf8ddb100f1348c5be8775a1cce619af81bbfb90cd",
+      "en_sha256": "401c55f6b4e5adc26a1f6f6d6a83e31b718cb9ea3298efbc8b6073defc34f65e",
+      "origin": "ai"
+    },
+    "dataList[id=9718].simpleDesc[abilityID=97181].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje dodatkowe obrażenia Pychy w wysokości posiadanej Mocy [Breath]",
+      "kr_sha256": "39bdf7cc9939f9438f4e9c790160f3bfdd0e20b5934ac8a136a9ec7571244992",
+      "en_sha256": "76e2e14d7328f39d10bae7e05efe982c430ab9cbb0d427e05dcc72cafa028fbd",
+      "origin": "ai"
+    },
+    "dataList[id=9718].simpleDesc[abilityID=9718].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 2 Wzrost Mocy Cięcia i zadaje +35% obrażeń Cięcia",
+      "kr_sha256": "e3038ff1b82e25e786672c2e58810caa65ad46d0fae6e87eef279cb87f44eb6a",
+      "en_sha256": "589db44240bd4d7906c5bc2ea6a7f68d746b9b0103cb25bc6af1da5722e0a5d3",
+      "origin": "ai"
+    },
+    "dataList[id=9719].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Rodu Ostrza (liczone na polu).\n\nWszyscy sojusznicy zadają +50% obrażeń Cięcia.\n\nTożsamości Rodu Ostrza: gdy sojusznik ma stan [Breath], szansa na Krytykę wynosi 100%.\n\nTożsamości Rodu Ostrza: efekt jest wzmocniony i zadają 1.5 razy więcej obrażeń przy Krytyce.",
+      "kr_sha256": "51d4c7dcd46d7bcfb84e38d9d7ed090d865dd2d0d93cb0750e243f279a63cd35",
+      "en_sha256": "1c3742de3639c9fc2c37cc9f580a8bb379f3a7455f6634716fd3001f26946c93",
+      "origin": "ai"
+    },
+    "dataList[id=9719].name": {
+      "pl": "— nazwa] Postrzępiony Kapelusz Bambusowy",
+      "kr_sha256": "7b867ab4a913d755e3d50fb513846fe2e65639e22d92a49644bdd2849d5956fb",
+      "en_sha256": "7209254926335ebb5fff4a017367e6f2fb4f5acab92bdcecf4a5d623e84a8d8a",
+      "origin": "ai"
+    },
+    "dataList[id=9719].simpleDesc[abilityID=97191].simpleDesc": {
+      "pl": "— opis skrócony] Szansa na Krytykę wynosi 100%",
+      "kr_sha256": "47bd3cc96cafba02b89475e7c97131c9f6071ec2d93ad2b29595a6ca2882cd1e",
+      "en_sha256": "633b51b12a8a8a6cddd11a980753f1e8329ae162d3d924b8921e0c09dbb24d42",
+      "origin": "ai"
+    },
+    "dataList[id=9719].simpleDesc[abilityID=97192].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje 1.5 razy więcej obrażeń przy Krytyce",
+      "kr_sha256": "ead7e44853a36089d20b3cad2cf1765d217ab6c9dfa929e95eb0e418b9307eba",
+      "en_sha256": "c7d1fe58707fc0b5242499a5f445e781e6e26f0827eac4a31c5af2983fb23ef2",
+      "origin": "ai"
+    },
+    "dataList[id=9719].simpleDesc[abilityID=9719].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +50% obrażeń Cięcia",
+      "kr_sha256": "8effff5c1ab24e231de78f0c6887b8c14bb540c8e46ec6a23610de632c852efd",
+      "en_sha256": "b28d578cee5a5d9aa353b11a2578669466defe98de3ce66f019026fe351a1e6b",
+      "origin": "ai"
+    },
+    "dataList[id=9720].desc": {
+      "pl": "— opis] Na początku tury uruchamia się, gdy jest co najmniej 3 Tożsamości Rodu Ostrza (liczone na polu).\n\nWszyscy sojusznicy zadają +50% obrażeń Cięcia.\n\nTożsamości Rodu Ostrza: Umiejętność 1 zyskuje Moc Monet +1; jeżeli ta Umiejętność ma jedną monetę, zyskuje Moc Monet +3.\n\n[Wyłącznie dla Mentor Rodu Ostrza Meursault] Podczas tury, w której wyposażono Umiejętność „Oddam Ciało”, nie podlega Oszołomieniu. Umiejętność „Oddam Ciało” zyskuje Moc Końcową Starcia -36, Umiejętność „Łamanie Kości” zadaje +50% obrażeń.",
+      "kr_sha256": "125f5d25c25d3d85894032634a1c15b7c8f6c76727bb0bbfc5c6312433d0dbcd",
+      "en_sha256": "bcc60cbf75c6f08197c9b0c8bd30fd33c0dd3350db4ff2253ffc7a95363943e4",
+      "origin": "ai"
+    },
+    "dataList[id=9720].name": {
+      "pl": "— nazwa] Stara Szata Dopo",
+      "kr_sha256": "bf4b634eeee65ce0f561d39571328c0eec0114a8576f06120859219857f24fbd",
+      "en_sha256": "903c003d462d53b00ed08f7899add976e7620c049ab0e12686836596dc89ab04",
+      "origin": "ai"
+    },
+    "dataList[id=9720].simpleDesc[abilityID=97201].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 1 zyskuje Moc Monet",
+      "kr_sha256": "48f7778727da1dba1724c838f354f9aa746801c4c9205baa5f4f757ce7557cdd",
+      "en_sha256": "0bfeb412d100233b6bbb6f9d8553bc6ce8838994e11937ca5ab26dbea2e85233",
+      "origin": "ai"
+    },
+    "dataList[id=9720].simpleDesc[abilityID=97202].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność „Oddam Ciało” zyskuje Moc Końcową Starcia -24, „Łamanie Kości” zadaje +50% obrażeń",
+      "kr_sha256": "e5e43fb6cb39762f2f3d731cebfd6586e4d8ecf1065831116e7d0808339434e9",
+      "en_sha256": "48b036e6cff919cebeb7fa59b1da6de733e57e40b9233eeb2f06dcb5922ff8e8",
+      "origin": "ai"
+    },
+    "dataList[id=9720].simpleDesc[abilityID=9720].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +50% obrażeń Cięcia",
+      "kr_sha256": "8effff5c1ab24e231de78f0c6887b8c14bb540c8e46ec6a23610de632c852efd",
+      "en_sha256": "b28d578cee5a5d9aa353b11a2578669466defe98de3ce66f019026fe351a1e6b",
+      "origin": "ai"
+    },
+    "dataList[id=9721].desc": {
+      "pl": "— opis] Gdy Umiejętność ataku (poza Umiejętnościami E.G.O) nakładająca Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zadaje wrogowi obrażenia, zadaje +10% obrażeń.\n\nJeżeli ta Umiejętność po raz pierwszy w tej turze wywoła [VibrationExplosion] na wrogu, nakłada w następnej turze +2 Licznika [Vibration] (1 raz na turę).",
+      "kr_sha256": "8c1b971d3bdc8025be50239ae223783fd0916859fb6c49be39446d7fbd8aaed7",
+      "en_sha256": "f1161c9ec7b6bc5a97f8db5c56a226ab4319c8a0ff45ba5ea9c4024f5ab7d9b3",
+      "origin": "ai"
+    },
+    "dataList[id=9721].name": {
+      "pl": "— nazwa] Srebrne Etui na Zegarek",
+      "kr_sha256": "0536c5555e7cc98e5929ea36bbd6861195f4153114d6ac94f3710f3cfd97a5fa",
+      "en_sha256": "30be23fad7ffa4183950b0af400207ab132a9a60b876aa016d982f7d8677c29e",
+      "origin": "ai"
+    },
+    "dataList[id=9721].simpleDesc[abilityID=97211].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze +2 Licznika [Vibration]",
+      "kr_sha256": "a5859c75579c4cd059aafb5b7f2665d7a7e720bf03377c649b69f193254c7161",
+      "en_sha256": "b9486fa4d68832077aa7db204bade927703eb58383d568aa4545c530e43d6818",
+      "origin": "ai"
+    },
+    "dataList[id=9721].simpleDesc[abilityID=9721].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +10% obrażeń",
+      "kr_sha256": "faf5b0bc5ee77ce387f2b5419afeb4c3899454ac914182dde518806d4feb4910",
+      "en_sha256": "f3216727e01bcbad6ed60f8f1ef2828fb38e72037e7908eb691ac3be4ba72393",
+      "origin": "ai"
+    },
+    "dataList[id=9722].desc": {
+      "pl": "— opis] Podczas starcia z wrogiem szybszym niż jednostka, Moc Starcia +1.\n\nGdy zadaje obrażenia wrogowi szybszemu, nakłada w następnej turze 3 Moc [Vibration] i +2 Licznika [Vibration] na cel (1 raz na turę).",
+      "kr_sha256": "a27134c1eb5f254dd597bf8ee90843b401639ca580907e2ba227dfc7cc576039",
+      "en_sha256": "6bfcda73753a85d143dd9a678855bb586499855678e726a4a4a0ab4947cdc375",
+      "origin": "ai"
+    },
+    "dataList[id=9722].name": {
+      "pl": "— nazwa] Wyblakłe Etui na Zegarek",
+      "kr_sha256": "cfb19e4df47b491ac4fe13f80bdc21a4f015c6ba16773b2ad3d0c7769ae81f2d",
+      "en_sha256": "e6f6fae1ca789c4eb9695408308c489413226673115e7b46ccfc2377e6d362b4",
+      "origin": "ai"
+    },
+    "dataList[id=9722].simpleDesc[abilityID=97221].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 3 Moc [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "ea1532f775453f258cd68fc34d0496dd59f3c7853d0d0fafdc56bb6676837f65",
+      "en_sha256": "dab4e3893eef515e04f4956da65ef45f6121b733bd568b6f1b48ce5f7a61f5b6",
+      "origin": "ai"
+    },
+    "dataList[id=9722].simpleDesc[abilityID=9722].simpleDesc": {
+      "pl": "— opis skrócony] Moc Starcia +1",
+      "kr_sha256": "aead141ecfbed3ac2f0b7b26ebce09e09ff8d87ed087d9f68e6d28a2ef441653",
+      "en_sha256": "baaa4fc8c8714120770e182c094d5bfa33a360a4e789cba2e420e10168714feb",
+      "origin": "ai"
+    },
+    "dataList[id=9723].desc": {
+      "pl": "— opis] Na koniec tury nakłada w następnej turze 1 [Binding] na najszybszego wroga (w przypadku Anomalii — jedna Partia).\n\nJeżeli cel ma [Vibration] lub 'Szczególny Wstrząs', zamiast tego nakłada 2 [Binding].\n\nGdy sojusznik atakuje cel z [Binding], zadaje +(5 + (2.5 x wartość [Binding]))% obrażeń (maks. 15%).",
+      "kr_sha256": "859d311ced556390563b49e87c475dbde5d5522b93d224c57111f8a5c2e71ef8",
+      "en_sha256": "0f5636e56121e9de4307e552b927322c87511fe7c6806d0c5450d973b20b2b6b",
+      "origin": "ai"
+    },
+    "dataList[id=9723].name": {
+      "pl": "— nazwa] Ostrzeżenie",
+      "kr_sha256": "1705b92eadfea081b7cd9526220684d81a26fd31cb822556fd3db120fd481982",
+      "en_sha256": "7268a723cf6136f9e6e73778725c66ff0e3eae4208842d65eec587686ce4e547",
+      "origin": "ai"
+    },
+    "dataList[id=9723].simpleDesc[abilityID=97231].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(5 + (2.5 x wartość [Binding]))% obrażeń",
+      "kr_sha256": "3eb10fe6f6cb173a7d14f681284013a0ac003fe690a9cd99976b5530acc83833",
+      "en_sha256": "50c80f081a68ef42361aba7f3fe17ecb4a864fa4955cdcce8705b7094f1576ce",
+      "origin": "ai"
+    },
+    "dataList[id=9723].simpleDesc[abilityID=9723].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "14b32414d3a8b310b5ac75ea9b0a59157307571253aea33063bea13e6688ea7f",
+      "en_sha256": "505f86df107c07a33399cb917e81a41c573f8efbcd5b028c4f4eb2b8a4dc0c52",
+      "origin": "ai"
+    },
+    "dataList[id=9724].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali nakłada Moc [Vibration] równą (9-bieżąca Szybkość) na 3 wrogów z najniższą Szybkością (min. 3).\n\nZadaje +10% obrażeń celom z 12+ Moc [Vibration] lub 'Szczególny Wstrząs' na początku tury.",
+      "kr_sha256": "86bf8c65dd6786deb1a6b85aea8867760176729f42378058d6a8cd93f607e2ee",
+      "en_sha256": "4d64ac16c3e4b1bd478e860d37f8c8902f3fcfc2aa0eb651f73728862c8f9fd3",
+      "origin": "ai"
+    },
+    "dataList[id=9724].name": {
+      "pl": "— nazwa] Grawerowane Wskazówki Zegara",
+      "kr_sha256": "23f1c9c0ea4a23a2d11c4aab839d06bc60561e3b63627008f376a53a1f61c1df",
+      "en_sha256": "0c545d885f994a63ee310874593e55d368b15f3135ba0df23e413eaf63e0e59b",
+      "origin": "ai"
+    },
+    "dataList[id=9724].simpleDesc[abilityID=97241].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +10% obrażeń.",
+      "kr_sha256": "5a463428c33bac5de9bc791ae268d2c133d0bb84723b24fb715f4d82c9d87329",
+      "en_sha256": "f3216727e01bcbad6ed60f8f1ef2828fb38e72037e7908eb691ac3be4ba72393",
+      "origin": "ai"
+    },
+    "dataList[id=9724].simpleDesc[abilityID=9724].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Moc [Vibration] równą (9-bieżąca Szybkość)",
+      "kr_sha256": "f857bede16140bc847723294501eab3deccd0b30b5f90165aa21990e320d1ac4",
+      "en_sha256": "5f2ae3e2ae8bfb3ca71495ef8cac9bad77f8b57864bdfeb42b7544f26ca8b3f5",
+      "origin": "ai"
+    },
+    "dataList[id=9725].desc": {
+      "pl": "— opis] Na pierwszym początku tury fali nakłada (9-bieżąca Szybkość) Moc [Vibration] (min. 3) i tyle samo Licznika [Vibration], ile wynosi połowa tej wartości (zaokrąglone w górę; w przypadku Anomalii — jedna Partia) na 1 wroga z najwyższą Szybkością.\n\nOtrzymuje -10% obrażeń od celów z 12+ Moc [Vibration] lub 'Szczególny Wstrząs' na początku tury.",
+      "kr_sha256": "437f2bc32acf074e9591acb570d24df1fbe19976abb7d04cde5f67668d8f50f9",
+      "en_sha256": "acf5d924ba967a7fbf31adf22e6a5bc43c394662b9d7afc136ddb25dc0822f27",
+      "origin": "ai"
+    },
+    "dataList[id=9725].name": {
+      "pl": "— nazwa] Zardzewiałe Wskazówki Zegara",
+      "kr_sha256": "7b2c884cdbcfe7a67bc9ab9b70c356bff27d07b3128b373611577eb5e2f95277",
+      "en_sha256": "903ca959a68cb61097891d763dd6b92b5391f91b79f8e63fd4d4edd7dff9fdb2",
+      "origin": "ai"
+    },
+    "dataList[id=9725].simpleDesc[abilityID=97251].simpleDesc": {
+      "pl": "— opis skrócony] Otrzymuje -10% obrażeń.",
+      "kr_sha256": "5daea7afa34681366955ddbe35fb30b11bef6f49947079e9e24ad0718239b58d",
+      "en_sha256": "380bedee6d8b2a0633374a9c7b0715dc85afc5439c859f7df7ca31c9a5e989a7",
+      "origin": "ai"
+    },
+    "dataList[id=9725].simpleDesc[abilityID=9725].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada (9-bieżąca Szybkość) Moc [Vibration] i połowę tej wartości Licznika [Vibration]",
+      "kr_sha256": "4e737ca355d5ed920f2df142c2584c56e0dba2d6ed05d4b60ccc0c2b6832b2df",
+      "en_sha256": "54127a40b634f69d52a551eaaf3b391d4f2ae2cb5c2c76be514b168e56188681",
+      "origin": "ai"
+    },
+    "dataList[id=9726].desc": {
+      "pl": "— opis] Gdy sojusznik z Umiejętnością ataku (poza Umiejętnościami E.G.O) nakładającą Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' wygrywa starcie z wrogiem, nakłada 2 Moc [Vibration] i +2 Licznika [Vibration] (2 razy na turę).\n\nTożsamości Yurodivy: efekt jest wzmocniony i nakładają 3 Moc [Vibration] i +3 Licznika [Vibration] (3 razy na turę).\n\nGdy ta Tożsamość prowadzi starcie z wrogiem o wyższym Poziomie Ataku, zyskuje Moc Starcia +2, a gdy atakuje po wygranej w starciu, zadaje +20% obrażeń.",
+      "kr_sha256": "e2409e4ec3e3d5e0d0dc033a2389a35482f47d728e84c5455dbb2a4c5049cfd9",
+      "en_sha256": "f8d6c137e07f4f33cf94b2e917dd516f6ae7acd7000209f7a03909ba7e7a47c0",
+      "origin": "ai"
+    },
+    "dataList[id=9726].name": {
+      "pl": "— nazwa] Kielich Kapnących Kropli",
+      "kr_sha256": "cdc09f4997667067d489b37412d6a53aa990c26ba6a4b437eb337575c43e6de6",
+      "en_sha256": "8fbdc05dfa4c768904f3cf2fa07ba34aca13c2056fbf85d686abb7a1147d5253",
+      "origin": "ai"
+    },
+    "dataList[id=9726].simpleDesc[abilityID=97261].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc [Vibration] i +3 Licznika [Vibration]",
+      "kr_sha256": "bbb3b3599f53c508f9cdd3d4b7da71d6e4b6d6a195667939fda6f30530d1b056",
+      "en_sha256": "b5544ad4c027951858130418e17ea93a44fa43167f0b7b2f493a2ce2a6ba90cf",
+      "origin": "ai"
+    },
+    "dataList[id=9726].simpleDesc[abilityID=97262].simpleDesc": {
+      "pl": "— opis skrócony] Moc Starcia +2, zadaje +20% obrażeń",
+      "kr_sha256": "e28d622175402c8396f71c5664517b2880a2223b3726e065c5604fa98f2d70e2",
+      "en_sha256": "00ebd9730cc5024ded345a11655f403cbbb7dae1b7ffd01d4e4f4b7958920cff",
+      "origin": "ai"
+    },
+    "dataList[id=9726].simpleDesc[abilityID=9726].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Moc [Vibration] i +2 Licznika [Vibration]",
+      "kr_sha256": "25ac193f046c98d9200388b7acad873ec5a02e2d1d853b4c7d5cd4b0d784a083",
+      "en_sha256": "0b0eaee6aa621e1bccab86dae3228e76eac5928284ac48e26007766e9f003ea4",
+      "origin": "ai"
+    },
+    "dataList[id=9727].desc": {
+      "pl": "— opis] Zadaje +(5 + różnica Szybkości x 2.5)% obrażeń wrogom szybszym o co najmniej 2 Szybkości (maks. 15%).\n\nNa koniec tury, jeżeli w tej turze zadano wrogom szybszym o co najmniej 2 Szybkości obrażenia Umiejętnością ataku (poza Umiejętnościami E.G.O) chociaż raz, nakłada w następnej turze na wroga 2 [Binding] i 1 [ResultReduction] (1 raz na turę).",
+      "kr_sha256": "74200998f56db3eeb41d1905d2ac2dd6496f5bd2a1c19108750d450217904bb4",
+      "en_sha256": "6421a2149b297aebfecd9d7f5e2d9afe6c76eea5b91cacd9e712abf64b2fa41b",
+      "origin": "ai"
+    },
+    "dataList[id=9727].name": {
+      "pl": "— nazwa] Rachunek za Przedpłacony Czas",
+      "kr_sha256": "8c08f635eb5951eecbaf2c4df5fa4e5b08d38d771c2f7ec8a69d37eeea3c1b22",
+      "en_sha256": "0cd3ccc74e4ffc53e0bede8fa223d6c8bc54c4976074846640378485fd54eb6f",
+      "origin": "ai"
+    },
+    "dataList[id=9727].simpleDesc[abilityID=97271].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada w następnej turze 2 [Binding] i 1 [ResultReduction] na wroga",
+      "kr_sha256": "da8edd9aafe9429deeb45455970642b341689c3a6b6ab4b29d43e0fadc182eb8",
+      "en_sha256": "01bfc37886cd6ed85b212a6ec21091d5a8e6c6655125331ef38a3720f7162a14",
+      "origin": "ai"
+    },
+    "dataList[id=9727].simpleDesc[abilityID=9727].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(5 + różnica Szybkości x 2.5)% obrażeń",
+      "kr_sha256": "6d2edd32b36c1ab4cf97ccfd521a5fb824c25d524070a5adcc09c745304695f9",
+      "en_sha256": "c3485d7e5503cb702f39eb73a6ef68bfc046d8c119692a2bc95265dbcc2c0321",
+      "origin": "ai"
+    },
+    "dataList[id=9728].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie).\n\nUmiejętność 3 sojuszników nakładających Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zyskuje Moc Monet Plus +2 i zadaje +25% obrażeń.\n- Umiejętności z monetą Minus: zamiast Mocy Monet Plus zyskują Moc Bazową +(8/liczba monet) (min. 1; zaokrąglone w dół).\n\nGdy sojusznik nakładający Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' wywoła Umiejętnością ataku (łącznie z Umiejętnościami E.G.O) [Switch_Vibration] lub [FusionVibration] na wrogu, przekształcane wartości Moc [Vibration] i Licznik [Vibration] są mnożone x 1.5 (działa wyłącznie przy przekształceniu w inny typ „Wstrząsu”) i nakłada w następnej turze 5 [DefenseDown] (1 raz na turę).\n\nNa początku tury nakłada (12-bieżąca Szybkość) Moc [Vibration] (min. 6) na 3 wrogów z najniższą Szybkością (do 1 razy na falę).",
+      "kr_sha256": "29555af246f10024ea9a44a3919b421feaacff1a749a56e8f364051783944374",
+      "en_sha256": "5b5a22e0b5c347e202ccda9224ac4aedfc129412dcb611fec6ca7045008f50f2",
+      "origin": "ai"
+    },
+    "dataList[id=9728].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ L",
+      "kr_sha256": "6ddf31bd75977e026b9a3cf9ee8f0d5320cba2738aac6f64d8fded6ab6d3aa82",
+      "en_sha256": "82cfad4c3fbcd377156517c19b5e4f44bad6b8020966f567d7538c6f518c78af",
+      "origin": "ai"
+    },
+    "dataList[id=9728].simpleDesc[abilityID=97281].simpleDesc": {
+      "pl": "— opis skrócony] Przekształcana Moc [Vibration] i Licznik [Vibration] są mnożone x 1.5",
+      "kr_sha256": "9486151291d18dd45e5aeb9c9031991200f3594ad9264d0eb53ffe80d94b4c8d",
+      "en_sha256": "f29df7b27e32aa494e088c778119acf0ea2c9239b1b836702ccc16c5b93db8ef",
+      "origin": "ai"
+    },
+    "dataList[id=9728].simpleDesc[abilityID=97282].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada (12-bieżąca Szybkość) Moc [Vibration]",
+      "kr_sha256": "b297460460defc75135c9356a1220059123fa1925589e712c0b79ebbe93bd1cc",
+      "en_sha256": "bb4fd6de69b252b7bce9e819ed06e90d5e235526e7d20435a73291b2f049acd0",
+      "origin": "ai"
+    },
+    "dataList[id=9728].simpleDesc[abilityID=9728].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet/Moc Bazową i zadaje +25% obrażeń",
+      "kr_sha256": "7d3174c0ee12a71782848c057b38cf394113146048ea420dd14b6029d07e5fa9",
+      "en_sha256": "4b95598a15533bcd6200f6741617c15a10cb1ac17f34db002649e435965e3ef5",
+      "origin": "ai"
+    },
+    "dataList[id=9729].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie).\n\nUmiejętność 3 sojuszników nakładających Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zyskuje Moc Monet Plus +2 i zadaje +25% obrażeń.\n- Umiejętności z monetą Minus: zamiast Mocy Monet Plus zyskują Moc Bazową +(8/liczba monet) (min. 1; zaokrąglone w dół).\n\nGdy sojusznik nakładający Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zadaje obrażenia wrogowi o co najmniej 2 Szybkości wolniejszemu od siebie, zadaje +(Moc [Vibration] celu, maks. 25)% obrażeń i nakłada 2 [DefenseDown] za każdym razem, gdy zadaje obrażenia (maks. 6).\n\nNa początku tury nakłada (12-bieżąca Szybkość) Moc [Vibration] (min. 6) i połowę tej wartości Licznika [Vibration] (zaokrąglone w górę; w przypadku Anomalii — jedna Partia; do 1 razy na falę) na 1 wroga z najwyższą Szybkością.",
+      "kr_sha256": "e0a66e0846458d0833367d142b8ac1f0dfd5173ada62578b7c4a9d14a2317f99",
+      "en_sha256": "4188341cdabe607d6d77bec0754854de441189a95817c91647e09943a1401d29",
+      "origin": "ai"
+    },
+    "dataList[id=9729].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ E",
+      "kr_sha256": "073766ca8f5e01c39d8199293118b7c9873c74b82f7ce0cd2b32c978f6ebbc12",
+      "en_sha256": "ee17541915d2f1811ad7be1f86801653d2f8f98f64bd956383c256b50f812642",
+      "origin": "ai"
+    },
+    "dataList[id=9729].simpleDesc[abilityID=97291].simpleDesc": {
+      "pl": "— opis skrócony] Zadaje +(Moc [Vibration] celu)% obrażeń i nakłada 2 [DefenseDown] za każdym razem, gdy zadaje obrażenia",
+      "kr_sha256": "acfd9d8463f1a11e02a58dfc64174a753f6f45dd2ab19a0f40496ce63ff558cb",
+      "en_sha256": "2b5e7fa2b2a89665f039808d3d70447f5ad2ec7b409810ae7e7e8b277192c969",
+      "origin": "ai"
+    },
+    "dataList[id=9729].simpleDesc[abilityID=97292].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada (12-bieżąca Szybkość) Moc [Vibration] i połowę tej wartości Licznika [Vibration]",
+      "kr_sha256": "493030d3fb4b2d4eea641798647121b4b03a40ec82a2485a712a17837e9ba7df",
+      "en_sha256": "2af3cce089b37d0eef834a4f8a31b25834a1d969577138bc8892c83d8338e1ff",
+      "origin": "ai"
+    },
+    "dataList[id=9729].simpleDesc[abilityID=9729].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet/Moc Bazową i zadaje +25% obrażeń",
+      "kr_sha256": "7d3174c0ee12a71782848c057b38cf394113146048ea420dd14b6029d07e5fa9",
+      "en_sha256": "4b95598a15533bcd6200f6741617c15a10cb1ac17f34db002649e435965e3ef5",
+      "origin": "ai"
+    },
+    "dataList[id=9730].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie).\n\nUmiejętność 3 sojuszników nakładających Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zyskuje Moc Monet Plus +2 i zadaje +25% obrażeń.\n- Umiejętności z monetą Minus: zamiast Mocy Monet Plus zyskują Moc Bazową +(8/liczba monet) (min. 1; zaokrąglone w dół).\n\nTożsamości Yurodivy: efekt jest wzmocniony i Umiejętność 3 zyskuje Moc Monet +2, zadając +(25 + suma Mocy [Vibration] i Licznika [Vibration] celu, maks. 100)% obrażeń.\n\nTożsamości Yurodivy: na początku tury zyskują +3 Licznika [Vibration].",
+      "kr_sha256": "0aa6e7f74968a64a6d3f8e50007cae4f03280efb61faad1e0c60cec22a563b31",
+      "en_sha256": "daa55cb9d83a78e4d8f478cc96f75539f924130b32e5f4400d0082a164f4deef",
+      "origin": "ai"
+    },
+    "dataList[id=9730].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ Y",
+      "kr_sha256": "e412d303e0142b5093e81e46b6a201aee9fda3874be8787b94a78e0040f82e7c",
+      "en_sha256": "f026544e8f66c645826bd7b848f38974fe52d3790e2c52db3faadd8532940e4b",
+      "origin": "ai"
+    },
+    "dataList[id=9730].simpleDesc[abilityID=97301].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet +2 i zadaje +(25 + suma Mocy [Vibration] i Licznika [Vibration] celu)% obrażeń",
+      "kr_sha256": "881aa7ab830a8ac16847184f64287219cbe2708afca524c9a9ad7c21aa344354",
+      "en_sha256": "58b1b9407736a6b547d276cbda9d6f5a907e243d12d636ca00a4b3f693b32f97",
+      "origin": "ai"
+    },
+    "dataList[id=9730].simpleDesc[abilityID=97302].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje +3 Licznika [Vibration]",
+      "kr_sha256": "4798fd74b9240bd384c5033c348b384d9c8a7a56ea0daaf72ee8e6cc3170b098",
+      "en_sha256": "65282ec56d18f3371b234e2ad011076fa46166472ad32bf203d9f1b67d8c7c0a",
+      "origin": "ai"
+    },
+    "dataList[id=9730].simpleDesc[abilityID=9730].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet/Moc Bazową i zadaje +25% obrażeń",
+      "kr_sha256": "7d3174c0ee12a71782848c057b38cf394113146048ea420dd14b6029d07e5fa9",
+      "en_sha256": "4b95598a15533bcd6200f6741617c15a10cb1ac17f34db002649e435965e3ef5",
+      "origin": "ai"
+    },
+    "dataList[id=9731].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku nakładające Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie).\n\nUmiejętność 3 sojuszników nakładających Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' zyskuje Moc Monet Plus +2 i zadaje +25% obrażeń.\n- Umiejętności z monetą Minus: zamiast Mocy Monet Plus zyskują Moc Bazową +(8/liczba monet) (min. 1; zaokrąglone w dół).\n\nGdy sojusznik nakładający Moc [Vibration], Licznik [Vibration] lub 'Szczególny Wstrząs' prowadzi starcie z wrogiem szybszym o co najmniej 2 Szybkości, zyskuje Moc Starcia +2 i zadaje +(Moc [Vibration] celu, maks. 50)% obrażeń.\n\nNa początku tury trzej najwolniejsi sojusznicy, od najwolniejszego do najszybszego, zyskują kolejno 5 [AttackUp], 3 [AttackUp] i 2 [AttackUp].",
+      "kr_sha256": "5f7c4db53929240a2847f08d078c50f5ba3c72806c6420ed1c7fe70e0b1db42f",
+      "en_sha256": "0fb45386b3178cec50bc036b4cee54e2f8956977e649019a0dbd0976b4948dc2",
+      "origin": "ai"
+    },
+    "dataList[id=9731].name": {
+      "pl": "— nazwa] Zegarek Kieszonkowy : Typ P",
+      "kr_sha256": "7281f9ea80b0bc528c1a35c3aeeaf19bfa877d8a198c5be4aa80ec019abb19c1",
+      "en_sha256": "9ed063aa720fed3172e8d09183730676d407728203c9b26e80030240e4b68895",
+      "origin": "ai"
+    },
+    "dataList[id=9731].simpleDesc[abilityID=97311].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia +2 i zadaje +(Moc [Vibration] celu)% obrażeń",
+      "kr_sha256": "7870c68c0c8d2511f62ca637f51002de3bcb1fafae90057738770ae325ade45d",
+      "en_sha256": "074122a11d6c661b4fe4ad7eef85fb94f30019534ce8b4ec6ef8d5700446c9d3",
+      "origin": "ai"
+    },
+    "dataList[id=9731].simpleDesc[abilityID=97312].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje [AttackUp]",
+      "kr_sha256": "50f7002497c52e9a32973115982fe05d7390456c25ffaee63de7164faadd242d",
+      "en_sha256": "e5f09d6b92e123e9e729b26d07ce7abedf8460a08d65f52afbbf5561566c0f29",
+      "origin": "ai"
+    },
+    "dataList[id=9731].simpleDesc[abilityID=9731].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 3 zyskuje Moc Monet/Moc Bazową i zadaje +25% obrażeń",
+      "kr_sha256": "7d3174c0ee12a71782848c057b38cf394113146048ea420dd14b6029d07e5fa9",
+      "en_sha256": "4b95598a15533bcd6200f6741617c15a10cb1ac17f34db002649e435965e3ef5",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "entries": {
+    "dataList[id=19001].desc": {
+      "pl": "— opis] Gdy Umiejętność nakłada Moc [Combustion] lub Szczególne Podpalenie wroga w stanie [Combustion] lub 'Szczególnego Podpalenia', losowo dzieli <style=\"upgradeHighlight\">4 Moc [Combustion]</style> między wszystkich wrogów.\n\nPrzy wywołaniu Pełnego Rezonansu Gniewu, na początku walki losowo dzieli <style=\"upgradeHighlight\">6 Moc [Combustion]</style> między wszystkich wrogów.",
+      "kr_sha256": "7b748feefe568741a8f6a42b26851aad5ac342b6c2f704baf57c275d5a80df8e",
+      "en_sha256": "7317f10a5fa5c847b1da5429289dc2916b9f02fec3e02119fc5c97f6f89eb5a2",
+      "origin": "ai"
+    },
+    "dataList[id=19001].name": {
+      "pl": "— nazwa] Sen Piekielnego Motyla+",
+      "kr_sha256": "dc318beb6a79fc61b57e5e8ab750d3c4f51a83b1bb015008ff546a535d21c715",
+      "en_sha256": "559435e5e359c87578304045be6188ed839b524bfa0c43877c34a93602d038ef",
+      "origin": "ai"
+    },
+    "dataList[id=19001].simpleDesc[abilityID=190011].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli 6 Moc [Combustion] między wszystkich wrogów",
+      "kr_sha256": "3283e081172cfdd3e4f569812162c352a7a1d920e3df67f29e0d817b0981784c",
+      "en_sha256": "c41d59c7704d7632455110e02914426ab1392b24b5b970195d1967a1ae625880",
+      "origin": "ai"
+    },
+    "dataList[id=19001].simpleDesc[abilityID=19001].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli 4 Moc [Combustion] między wszystkich wrogów",
+      "kr_sha256": "2e997f9142037c654b1f15e55f8264e4a01d7b79260f72b3cb55e571f2ab9807",
+      "en_sha256": "1a067656891b8286d9c86ea53490cf18558ca8b78a87bdc3183701f6e45193b5",
+      "origin": "ai"
+    },
+    "dataList[id=19003].desc": {
+      "pl": "— opis] Na początku walki <style=\"upgradeHighlight\">nakłada 2 Moc [Combustion] na wszystkich wrogów (Anomalie — wszystkie Partie) w stanie [Combustion] lub 'Szczególnego Podpalenia'</style>.",
+      "kr_sha256": "6d27c9641dbf7a6930900d3febf4d0d102328f9d856ceee456291842ff1668e6",
+      "en_sha256": "58aff5e663cdc221c98c3291cd8ec2cac7f0afb7014c1ced8dac274f79146bb8",
+      "origin": "ai"
+    },
+    "dataList[id=19003].name": {
+      "pl": "— nazwa] Z Popiołu w Popiół+",
+      "kr_sha256": "aea07f47a02fa56efa55a848782a8959f6ae8511f565618ae7431374136190c9",
+      "en_sha256": "7cd4739dac5388b94cf6e099626da28ee46d35e2282fade349bf11d663761585",
+      "origin": "ai"
+    },
+    "dataList[id=19003].simpleDesc[abilityID=19003].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Moc [Combustion]",
+      "kr_sha256": "7c2e6799da36eebe630fed02d9ea73e08335749779ba21534fa7bb31ddf25680",
+      "en_sha256": "f8744c53082527cac8488284d905c5e8d387cc7fca08f160902064fc78849ffa",
+      "origin": "ai"
+    },
+    "dataList[id=19005].desc": {
+      "pl": "— opis] Przy trafieniu wroga <style=\"upgradeHighlight\">Umiejętnością nakładającą Moc [Laceration] lub Szczególne Krwawienie albo Umiejętnością atrybutu Gniewu</style>, nakłada <style=\"upgradeHighlight\">5 Moc [Laceration]</style> na cel.",
+      "kr_sha256": "a8dff66edf47d7bcb236949fd49e2d4b79819ca3ddfad986525f8560b641edc1",
+      "en_sha256": "f2fe86bca0478479c7fb9c32ffcc18aa93eaf2fa726860f6a6163213469a53cd",
+      "origin": "ai"
+    },
+    "dataList[id=19005].name": {
+      "pl": "— nazwa] Wtapiacz Ran+",
+      "kr_sha256": "456005a351e37d5f639bf08f12633a59e9b53d0e5844d754ffd23d97d9511b52",
+      "en_sha256": "2258e9656e36136d750bd605b7b64bd4d69bb672c8418e79773a9d83eab5c17f",
+      "origin": "ai"
+    },
+    "dataList[id=19005].simpleDesc[abilityID=19005].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 5 Moc [Laceration]",
+      "kr_sha256": "1ac8b1be4663122921bcd9e1da64a898a51910e451c6d1ad6466c6f37bed5109",
+      "en_sha256": "e9a09f348dd658847fd695ac8d1f1bd0d21a82cc410015d731f72f32afac6b6c",
+      "origin": "ai"
+    },
+    "dataList[id=29001].desc": {
+      "pl": "— opis] Gdy Umiejętność nakłada Moc [Combustion] lub Szczególne Podpalenie wroga w stanie [Combustion] lub 'Szczególnego Podpalenia', losowo dzieli <style=\"upgradeHighlight\">5 [Combustion]</style> między wszystkich wrogów.\n\nPrzy wywołaniu <style=\"upgradeHighlight\">Rezonansu Gniewu</style>, na początku walki losowo dzieli <style=\"upgradeHighlight\">8 Moc [Combustion]</style> między wszystkich wrogów.",
+      "kr_sha256": "05b56a4e6bb8a0514bc6174f72f858779a178782cd1d099756517d8fd88f0da4",
+      "en_sha256": "9a7f34fd398b6db7fc2bd8229ea4e8634c46ae841dd6501b793b487f6205af85",
+      "origin": "ai"
+    },
+    "dataList[id=29001].name": {
+      "pl": "— nazwa] Sen Piekielnego Motyla++",
+      "kr_sha256": "331102579dfa1342c9f2aca3012a2780fd8f1f4ccd4b08c48b084e5039150960",
+      "en_sha256": "7618c3c42e12913f63b7704114dd3fe65ca71183847c28c2f9dd48b9784f1fe9",
+      "origin": "ai"
+    },
+    "dataList[id=29001].simpleDesc[abilityID=290011].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli 8 Moc [Combustion] między wszystkich wrogów",
+      "kr_sha256": "5360f6da0c3d2981b8a6388362c601974210d35d7c53d37073148040a09cbe27",
+      "en_sha256": "f8be8cc9968cf4249e8702f1bccb618241611da6b71e13e1fe536cb40b7942b1",
+      "origin": "ai"
+    },
+    "dataList[id=29001].simpleDesc[abilityID=29001].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli 5 Moc [Combustion] między wszystkich wrogów",
+      "kr_sha256": "ad208f62efbea7357be37f57a49c5ca716e70343168981b9388eaecc5ed83d32",
+      "en_sha256": "093104b0d2e871a26cd55dd358734d0654d3aead2cdaa74746fe585ffda881a9",
+      "origin": "ai"
+    },
+    "dataList[id=29003].desc": {
+      "pl": "— opis] Na początku walki nakłada <style=\"upgradeHighlight\">3 Moc [Combustion] na wszystkich wrogów (w przypadku Anomalii — wszystkie Partie)</style>.",
+      "kr_sha256": "63fb615859f6c47a4aaec88a9016d01a17b9d631700c00a24e43de8ef860473c",
+      "en_sha256": "f0fcb47191a09a56e0f5c0111fd5d4cb29ca81ae3b530c2ac6e84e2d1c3b7040",
+      "origin": "ai"
+    },
+    "dataList[id=29003].name": {
+      "pl": "— nazwa] Z Popiołu w Popiół++",
+      "kr_sha256": "a6b7af089bc0408d261c102b9902018687d954b0ecf433ef6b84db700da70759",
+      "en_sha256": "bb49b2baa1cf3a8aa2697d3c1b5a93484b4d6959be12d4ecb97ce11514212db9",
+      "origin": "ai"
+    },
+    "dataList[id=29003].simpleDesc[abilityID=29003].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc [Combustion]",
+      "kr_sha256": "f0419366e3f8f124f7e4e7a1ec798a20bc9d1610e648753a82400dd308a41814",
+      "en_sha256": "48babb289f45eb5eee020c7e80d3770d8c13017d4aef2244ffd82f870a957d73",
+      "origin": "ai"
+    },
+    "dataList[id=29005].desc": {
+      "pl": "— opis] Przy trafieniu wroga Umiejętnością nakładającą Moc [Laceration] lub Szczególne Krwawienie albo Umiejętnością atrybutu Gniewu, nakłada 5 Moc [Laceration] i <style=\"upgradeHighlight\">+1 Licznika [Laceration]</style> na cel.",
+      "kr_sha256": "00a254bf5d6607a1aec3a36523606dd9124aa929af1f07bbd9191a5c051a0a35",
+      "en_sha256": "c404ccac710cd6c8a44ba4281c09dc56c6bb4c4b6142e8c60f71b96d6338f946",
+      "origin": "ai"
+    },
+    "dataList[id=29005].name": {
+      "pl": "— nazwa] Wtapiacz Ran++",
+      "kr_sha256": "687121c83969931d1bd9ceeddfdb65eb45e8c07b8bd20da629b3dc958d52ae77",
+      "en_sha256": "2df1fdc557387e758f91006474a5c1ab7990384cb7ae82b6ad6742470c0a3fec",
+      "origin": "ai"
+    },
+    "dataList[id=9001].desc": {
+      "pl": "— opis] Gdy Umiejętność nakłada Moc [Combustion] lub Szczególne Podpalenie wroga w stanie [Combustion] lub 'Szczególnego Podpalenia', losowo dzieli 3 Moc [Combustion] między wszystkich wrogów.\n\nPrzy wywołaniu Pełnego Rezonansu Gniewu, na początku walki losowo dzieli 5 Moc [Combustion] między wszystkich wrogów.",
+      "kr_sha256": "02a7ade2bdd75b6ed757e78ba4ab9828a0004d6925fd7ed4fdf7baf882fa64cf",
+      "en_sha256": "c30adbbab62e3b43ed0f259f95c92d1bfae8a47fcb47b9acd823457b760e4098",
+      "origin": "ai"
+    },
+    "dataList[id=9001].name": {
+      "pl": "Sen Piekielnego Motyla",
+      "kr_sha256": "465e96c0c8bb4bb58860792032605b6cb344fe0b5a3473cf7cdbeaa807e87f33",
+      "en_sha256": "5a68f122da0fdc685f3d194ab320303a860d57a37e67bf002d4ce3380d327b7f",
+      "origin": "ai"
+    },
+    "dataList[id=9001].simpleDesc[abilityID=90011].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli 5 Moc [Combustion] między wszystkich wrogów",
+      "kr_sha256": "ad208f62efbea7357be37f57a49c5ca716e70343168981b9388eaecc5ed83d32",
+      "en_sha256": "093104b0d2e871a26cd55dd358734d0654d3aead2cdaa74746fe585ffda881a9",
+      "origin": "ai"
+    },
+    "dataList[id=9001].simpleDesc[abilityID=9001].simpleDesc": {
+      "pl": "— opis skrócony] Losowo dzieli 3 Moc [Combustion] między wszystkich wrogów",
+      "kr_sha256": "28454d056e6364b923d77fbf42aefddf852f49162b1db7d3d46a4d7c6253a6eb",
+      "en_sha256": "d9b66549f63dceaa3211066247e42bf59b041b40dfeca9c39a7045b9f5f09465",
+      "origin": "ai"
+    },
+    "dataList[id=9002].desc": {
+      "pl": "— opis] Po pokonaniu co najmniej jednego wroga Umiejętnością ataku, zyskuje na początku następnej tury zasób E.G.O atrybutu tej Umiejętności.\n\nGdy użyto Umiejętności ataku atrybutu Gniewu, efekt jest wzmocniony i zyskuje na początku następnej tury zasoby E.G.O wszystkich atrybutów Umiejętności ataku tego sojusznika.",
+      "kr_sha256": "ad4829d1c62ebe09af76c7377980aec2317ec8bfab1e077d2f95cf5203cac85b",
+      "en_sha256": "67ece1ec6d06d6985b447b2e0d9f78b21f726d3a296f8819c92baae492d3b80e",
+      "origin": "ai"
+    },
+    "dataList[id=9002].name": {
+      "pl": "Perwersja",
+      "kr_sha256": "0424355545bf8e6ebb9238431466adaa20557f2421df09849c157a935b62ef95",
+      "en_sha256": "ded46d753c30270184c321150fa276a3ae721cdc94bd6cab64125487a741afec",
+      "origin": "ai"
+    },
+    "dataList[id=9002].simpleDesc[abilityID=90021].simpleDesc": {
+      "pl": "— opis skrócony] +1 zasób E.G.O wszystkich atrybutów Umiejętności posiadacza",
+      "kr_sha256": "5cfee7ffe9a3f29692abbbd9f1831e4f2592fc7f056bcc49669838c1c169fd48",
+      "en_sha256": "0a1a90bb7b0933f0cbf0256603a881a5bb0d7841f71d03b983eec21c91533aa9",
+      "origin": "ai"
+    },
+    "dataList[id=9002].simpleDesc[abilityID=9002].simpleDesc": {
+      "pl": "— opis skrócony] +1 zasób E.G.O atrybutu użytej Umiejętności",
+      "kr_sha256": "639eb4401ff54975f26bb385df4b89f4b2c7e9a8c862ecacee04c979cd225e94",
+      "en_sha256": "9a2a4d40f1422fca534107b061281b2a8e5acd70a34d8a804f4cbb24fc38539f",
+      "origin": "ai"
+    },
+    "dataList[id=9003].desc": {
+      "pl": "— opis] Na początku walki, jeżeli wszyscy wrogowie (Anomalie — wszystkie Partie) są w stanie [Combustion] lub 'Szczególnego Podpalenia', nakłada 2 Moc [Combustion] na wszystkich wrogów (Anomalie — wszystkie Partie).",
+      "kr_sha256": "b8b406fa8ae68bf453a9f78040252aba4e1d956844a78be86b4007c22dee600f",
+      "en_sha256": "88034f0f3f88c5b5589082e0054322291cb9c1596504ae68d5665951c53b0727",
+      "origin": "ai"
+    },
+    "dataList[id=9003].name": {
+      "pl": "Z Prochu w Proch",
+      "kr_sha256": "e7aaa2b618f955ba03b4a892f2ac102fbaf69ec9df6ad61e4e8d24700f100269",
+      "en_sha256": "76b16aca62740cdc2b0638494cc9e3dd840ddd3049ba6e5b69198cb1b9773072",
+      "origin": "ai"
+    },
+    "dataList[id=9003].simpleDesc[abilityID=9003].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Moc [Combustion]",
+      "kr_sha256": "7c2e6799da36eebe630fed02d9ea73e08335749779ba21534fa7bb31ddf25680",
+      "en_sha256": "f8744c53082527cac8488284d905c5e8d387cc7fca08f160902064fc78849ffa",
+      "origin": "ai"
+    },
+    "dataList[id=9004].desc": {
+      "pl": "— opis] Przy trafieniu wroga Umiejętnością, odzyskuje HP równy 12.5% brakującego HP tej Tożsamości (1 raz na postać na turę).\n\nGdy użyto Umiejętności atrybutu Gniewu, efekt jest wzmocniony i odzyskuje HP równy 25% brakującego HP.",
+      "kr_sha256": "4846a318aa741e94cefdce8426f0e5ca41cffea1e17622660dfd644472740175",
+      "en_sha256": "892f8354b082e5b94fdcd75685ec169ca58a177c13163cac394190c92a160f79",
+      "origin": "ai"
+    },
+    "dataList[id=9004].name": {
+      "pl": "Pakiet Krwiodawczy",
+      "kr_sha256": "40f013e239f34007b25a62b55026ce592a55e67856e6dae4802c53510cf6144d",
+      "en_sha256": "b2e87445bf8a7d652980d8cf845dc04ad819e08ead385114b3d670645308c757",
+      "origin": "ai"
+    },
+    "dataList[id=9004].simpleDesc[abilityID=90041].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje HP równy 25% brakującego HP",
+      "kr_sha256": "21fb81b2c593e1b0ba027b0581f0664938a1d1da8ac72b04cc94f8d34918ef6b",
+      "en_sha256": "a3b5afdaf22587e4a867f847d1883ab7853ca2278b5e4824d58f6b58f4174da0",
+      "origin": "ai"
+    },
+    "dataList[id=9004].simpleDesc[abilityID=9004].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje HP równy 12.5% brakującego HP",
+      "kr_sha256": "37ce1c00ea1d44377fdf4262e4339ee271db8e4439039c55258689cf3f13b984",
+      "en_sha256": "953576910739c6dc63fd07e53b29ebbd7e51f24af7ad38b470ee92a93c210747",
+      "origin": "ai"
+    },
+    "dataList[id=9005].desc": {
+      "pl": "— opis] Przy trafieniu wroga Umiejętnością nakładającą Moc [Laceration] lub Szczególne Krwawienie, nakłada 4 Moc [Laceration] na cel.",
+      "kr_sha256": "67a4a9bb96b5efa291ff44b3e7b0e771f00c1c579e41039bd63defd225f8e178",
+      "en_sha256": "09d1417a26133c77476a89ac9e94ec67a2e981f86b3aaee73132c999370462de",
+      "origin": "ai"
+    },
+    "dataList[id=9005].name": {
+      "pl": "Chrząszcz Rany",
+      "kr_sha256": "89f6788df77cb8a2c3505d4ddd60192478760966eaede08433577e15b1871b38",
+      "en_sha256": "46f9532e574a843b62025a45750736b23ee8ae106c8478002189aae49c85785a",
+      "origin": "ai"
+    },
+    "dataList[id=9005].simpleDesc[abilityID=9005].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 4 Moc [Laceration]",
+      "kr_sha256": "2d35234107d39b5aa2f91d8463f7ef8c6f85f82ff9521410d73dfb67c0e6f272",
+      "en_sha256": "84753ead3dbb0648890db8b918e90bdffaeab249f0f1faa38ba78f2a8569ec48",
+      "origin": "ai"
+    }
+  }
+}

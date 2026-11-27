@@ -1,0 +1,316 @@
+{
+  "entries": {
+    "dataList[id=9732].desc": {
+      "pl": "— opis] Na koniec tury najwolniejsza Tożsamość z Szybkością 5 lub mniej zyskuje w następnej turze 1 [Agility].",
+      "kr_sha256": "7c2f30e6ed864dfab15a5a288e3ebe797dde2f7de554617044e246cc612f45cd",
+      "en_sha256": "53459e6ae6e98370985b58d274437a28b0ae80e7e1528c728860214c3dfe81b6",
+      "origin": "ai"
+    },
+    "dataList[id=9732].name": {
+      "pl": "— nazwa] Kupon Rabatowy na Klasę Ekonomiczną",
+      "kr_sha256": "75629c314c4856d062aa41e5470a44dc417e61d2f19abdcb8ccb1bde8dd7900b",
+      "en_sha256": "1fa763a82581dff4f83360baace02688feca74f57fe36703e40b1fddb0b55cc6",
+      "origin": "ai"
+    },
+    "dataList[id=9732].simpleDesc[abilityID=9732].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje +1 Pośpiechu w następnej turze",
+      "kr_sha256": "721253f4841de6fecae97eaac35a3abb7502b08e10918574b12625afa300fc1b",
+      "en_sha256": "11c66c30bb2c3c0afd1c80df080d123f54e8433900f9d7f15fb52c464d1c06e9",
+      "origin": "ai"
+    },
+    "dataList[id=9733].desc": {
+      "pl": "— opis] Gdy sojusznik straci HP przez efekt własnej Umiejętności ataku, na początku następnej tury odzyskuje połowę HP straconego przez ten efekt (zaokrąglone w dół).\n\nGdy sojusznik odzyskuje HP przez efekt Umiejętności E.G.O, efekt Leczenia HP rośnie o 12.5% (zaokrąglone w dół).",
+      "kr_sha256": "25e100d183a1fb92361fc3a5b9ea040c99b116c22aa5f9362702192bd8f5f9ae",
+      "en_sha256": "60752f0461ce59a8f3df7bf3aa9aa7a9353cbe8cc2b35337cb9f63123bb90f93",
+      "origin": "ai"
+    },
+    "dataList[id=9733].name": {
+      "pl": "— nazwa] Lody w Puszce",
+      "kr_sha256": "df9249c23c2f09fbed6dbaed636d90f15050aa0f6f2657d22e8914bdf120e490",
+      "en_sha256": "0fce2c95842840a9dc7ab081f9db615757cc52268c6d50ab2fc452e11884fa71",
+      "origin": "ai"
+    },
+    "dataList[id=9733].simpleDesc[abilityID=97331].simpleDesc": {
+      "pl": "— opis skrócony] Wzmacnia efekt Leczenia HP Umiejętności E.G.O",
+      "kr_sha256": "b1cde48ec7c071a186c38ceaae9db22f8022e1d3359a41c51e3a1b3d94423295",
+      "en_sha256": "f048b2d4459eda060eb98501fd804fa0d32a7cc8e8ef34ec60e417df413d830e",
+      "origin": "ai"
+    },
+    "dataList[id=9733].simpleDesc[abilityID=9733].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje HP na początku następnej tury",
+      "kr_sha256": "d3ecccd24e9d83f458890e78270d80fe01ea4a732cc37f3786dd7fe54fbb050d",
+      "en_sha256": "d53cbec823af53f8d8821f4b461054ebb837f6c79a46a25017f0e2f432b58e9a",
+      "origin": "ai"
+    },
+    "dataList[id=9734].desc": {
+      "pl": "— opis] Umiejętność 1 zwiększająca Licznik [Charge] lub 'Szczególne Ładowanie' zyskuje Moc Starcia +1 i zadaje +5% obrażeń.\n\nJeżeli ta Umiejętność 1 ma jedną monetę, efekt jest wzmocniony i zyskuje Moc Starcia +1 oraz zadaje +12.5% obrażeń.\n\nGdy Tożsamość Korp. W zada wrogowi obrażenia Umiejętnością atrybutu Żądzy (łącznie z Umiejętnościami E.G.O), nakłada 2 Spadku Leczenia HP (bez kumulowania).",
+      "kr_sha256": "3988bfdf57099fdccf064bb7a7daee62ed61b1d6a6d10124bef5c3c433672f98",
+      "en_sha256": "9bd2f6218228851180e2a292d17db7179ca83763d57828783e3b4e895e8c3168",
+      "origin": "ai"
+    },
+    "dataList[id=9734].name": {
+      "pl": "— nazwa] Wymiarowy Sztylet Typu E",
+      "kr_sha256": "ea93523f53c2170889208108002a7338b1f2e0893d1d9296a5ef04c38420ef54",
+      "en_sha256": "cc1f917c1e247f77966bb1c516ce7ef2582348a14004b02e977548ccbe565e15",
+      "origin": "ai"
+    },
+    "dataList[id=9734].simpleDesc[abilityID=97341].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 1 zyskuje Moc Starcia i zadaje więcej obrażeń",
+      "kr_sha256": "7d3e353a453429e9922fd569510a56115a019bd4e9b76b5bc5bbd03cdb0f3b94",
+      "en_sha256": "9ef30c3aa955f8fa7a5aa6cd58973bd1bea60d5d814207712219e6eaf3bfdbea",
+      "origin": "ai"
+    },
+    "dataList[id=9734].simpleDesc[abilityID=97342].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 2 Spadku Leczenia HP",
+      "kr_sha256": "ebae4fca1cbdc1899ef74465b0b53ee7fe913ef3964ad1268fdc518b0153de8e",
+      "en_sha256": "6328a20869497b4b06ce8d997b07894cd84be924d3a41e82840b487ced23ca5b",
+      "origin": "ai"
+    },
+    "dataList[id=9734].simpleDesc[abilityID=9734].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 1 zyskuje Moc Starcia i zadaje więcej obrażeń",
+      "kr_sha256": "26cb36ba9cfa807def2cf96bd3ac0868131561f93a9cf147607f5fadc82e9646",
+      "en_sha256": "9ef30c3aa955f8fa7a5aa6cd58973bd1bea60d5d814207712219e6eaf3bfdbea",
+      "origin": "ai"
+    },
+    "dataList[id=9735].desc": {
+      "pl": "— opis] Umiejętność 1 zwiększająca Licznik [Charge] lub 'Szczególne Ładowanie' zyskuje Moc Starcia +2.\n\nPrzy użyciu tej Umiejętności zyskuje 2 Licznika [Charge] i 1 [ChargeForceField] (1 raz na turę).\n\nGdy Tożsamość Korp. W otrzyma obrażenia HP od efektu innego niż bezpośrednie obrażenia Umiejętności podczas fazy walki, zyskuje 5 [ChargeForceField] (1 raz na turę).",
+      "kr_sha256": "ac593ae97f9c63c62c18ca14e86e1cb2b4aafb08409ec804d12c8f3f0bae7d94",
+      "en_sha256": "11e98039e23d4c53378af3dba0aba7258e60855cfc3d27cd34f1c145f791d63c",
+      "origin": "ai"
+    },
+    "dataList[id=9735].name": {
+      "pl": "— nazwa] Przenośna Bateria Bariery",
+      "kr_sha256": "90c86ab538e92a97b693d334e6974d6cbf7a0cc66ef95f2f30aa072224c9f5b3",
+      "en_sha256": "1f0ff0d67f02c097546fac27277de57aabad244a3d7d89ab81d7b10832733387",
+      "origin": "ai"
+    },
+    "dataList[id=9735].simpleDesc[abilityID=97351].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Bariery Ładunku",
+      "kr_sha256": "350bc46c7a8e707c57165f117e33e86a097c4cbb41c0e54bb9b97a0de5f04ba3",
+      "en_sha256": "11fa60aaf1da7b36dd73e8ffaf7ced1d284765a76eec2521a5c56908742f5300",
+      "origin": "ai"
+    },
+    "dataList[id=9735].simpleDesc[abilityID=9735].simpleDesc": {
+      "pl": "— opis skrócony] Umiejętność 1 zyskuje Moc Starcia i Licznik Ładowania oraz Bariery Ładunku",
+      "kr_sha256": "da473cd2804588055707b0a4a8ac1bd19bea8bec925f4ba050fb7bcf2fea63ac",
+      "en_sha256": "45e3fee5e8539a5bb8194c3fe6e7e6eb09b4dd8c581094735d4eaacc5f9c0b02",
+      "origin": "ai"
+    },
+    "dataList[id=9736].desc": {
+      "pl": "— opis] Sojusznicy z Licznikiem [Charge] lub 'Szczególnym Ładowaniem' zyskują Poziom Ataku za każde przeprowadzone starcie (maks. 6, resetuje się na koniec ataku).\n\nNa koniec tury Tożsamości z sumą Licznika [Charge] i 'Szczególnego Ładowania' (z ustaloną Mocą) co najmniej 10 zyskują w następnej turze 1 [Agility]. Jeżeli suma wynosi co najmniej 18, zyskują dodatkowo 3 [AttackUp].\n\n※ 'Szczególne Ładowanie' posiadające zarówno Moc, jak i Licznik liczone jest jako Licznik Ładowania",
+      "kr_sha256": "83f5e8e4a2cd74277928aeef395f5c318bcc53b8d569b1e9276090ca1cddcab1",
+      "en_sha256": "11a493fa0793dcb19e129f0e6194eef4fcb5029d05cfa0eabecda2eae0661d6d",
+      "origin": "ai"
+    },
+    "dataList[id=9736].name": {
+      "pl": "— nazwa] Bateria Biogeneracyjna",
+      "kr_sha256": "247bfcb85099969d63982b54aedfb5e10c9ab759f510d3b369ed6491fb649ef1",
+      "en_sha256": "4b96e6f5b855bd13ca6f771667637b6d7ee894676ba587e12a1305e761005451",
+      "origin": "ai"
+    },
+    "dataList[id=9736].simpleDesc[abilityID=97361].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Pośpiech",
+      "kr_sha256": "9519eae5d4f921e6c677171ffb7e1baaff912704aae1e344f8053fd0b60ad8a9",
+      "en_sha256": "8216425cbeb959021c94e54f1f749979f0fa48d231d7f7f2561e263b1d8530bf",
+      "origin": "ai"
+    },
+    "dataList[id=9736].simpleDesc[abilityID=97362].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9736].simpleDesc[abilityID=9736].simpleDesc": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "c81a6f5dd960f96547a32a93f447818b319837a534e35bdbb1f64b92d93f35b3",
+      "en_sha256": "2391b626d924ed298ada1369257c77bf3f568eeb1d10e61a8196d98d5a51df86",
+      "origin": "ai"
+    },
+    "dataList[id=9737].desc": {
+      "pl": "— opis] Gdy sojusznik z Licznikiem [Charge] lub 'Szczególnym Ładowaniem' przegra starcie, zyskuje Tarczę równą sumie Licznika [Charge] i 'Szczególnego Ładowania' (1 raz na turę).\n\nPrzy HP ≤ połowy efekt jest wzmocniony i zyskuje Tarczę równą (suma Licznika Ładowania i 'Szczególnego Ładowania' x 2) (1 raz na turę)\n\nGdy Tożsamość Biura MultiCrack otrzymała obrażenia HP w tej potyczce, w następnej turze odzyskuje 33% HP straconego w poprzedniej turze (zaokrąglone w dół)",
+      "kr_sha256": "4439f286a6cb62d280a806efc5d6a9046786d763ba8ebab1ddd7935a5d084020",
+      "en_sha256": "b9714c645d6d57a766735f579b840155d8fbb68b65ca5f4b343c3e464e5e77f0",
+      "origin": "ai"
+    },
+    "dataList[id=9737].name": {
+      "pl": "— nazwa] Moduł Reaktywny Serca",
+      "kr_sha256": "7a5ba057a8ebf99fcb1f1eca281e2079c7219e49d18d1d854e5a86bef3a1880f",
+      "en_sha256": "f6aabeed61c3b09719b05c5fd04e940d5e1667c3ca388b29e6be21fd8b404914",
+      "origin": "ai"
+    },
+    "dataList[id=9737].simpleDesc[abilityID=97371].simpleDesc": {
+      "pl": "— opis skrócony] Odzyskuje HP proporcjonalnie do HP straconego w poprzedniej turze",
+      "kr_sha256": "48e5ebc94371e9c91eb96fa09cd82ed299806a2931efabab677c661b98165a86",
+      "en_sha256": "b0a8f2baf375346401b720598382da53024fca719f8358bf07fdb892f9663c8d",
+      "origin": "ai"
+    },
+    "dataList[id=9737].simpleDesc[abilityID=9737].simpleDesc": {
+      "pl": "Zyskuje Tarczę",
+      "kr_sha256": "7ee780d6b38f4aa70619af5d0c85a68787fcc1f3067a943b19015df77ba80acd",
+      "en_sha256": "902b85cbdfa489344589ffd2b3d416fb3623c15ae37866cc752b8c183008266c",
+      "origin": "ai"
+    },
+    "dataList[id=9738].desc": {
+      "pl": "— opis] W następnej turze sojusznicy zyskują [Agility] i Licznik [Charge] równy liczbie użytych Podstawowych Umiejętności ataku zyskujących Licznik [Charge] lub 'Szczególne Ładowanie' (maks. 2).\n\nZa każde zdobycie lub zużycie Licznika [Charge] Podstawową Umiejętnością ataku, Tożsamość Biura MultiCrack zyskuje dodatkowo 1 Licznika [Charge] (maks. 2).",
+      "kr_sha256": "972ef648e1ca215a9ead2fee988262884e3f0b8368e86fb6ae71a346828e9b13",
+      "en_sha256": "495e6c8688434a4db1059866f6bc3ed9eef956691965e42b4d8a06dbe8b835bc",
+      "origin": "ai"
+    },
+    "dataList[id=9738].name": {
+      "pl": "— nazwa] Serwomotory Stawów Protezy",
+      "kr_sha256": "c1f5876894a466ddc5a2a2f48cd1476711c4b2de96dc20a9ca3b5b1cf9a91cd6",
+      "en_sha256": "d2032b3e9812b11d2de0a8485c4309d55f693802349eb3060fabe6fe11044b1f",
+      "origin": "ai"
+    },
+    "dataList[id=9738].simpleDesc[abilityID=97381].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje dodatkowo Licznika Ładowania",
+      "kr_sha256": "83ef0e0a3b48bf7c9de0baf25b16ea35bac821894cdb04724f230ffe924ecb58",
+      "en_sha256": "40d7390f594319bf5372993f93191aa8ad8e78e218ca9f616ef04d610fb4c0c8",
+      "origin": "ai"
+    },
+    "dataList[id=9738].simpleDesc[abilityID=9738].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Pośpiech i Licznik Ładowania",
+      "kr_sha256": "fa45e41f82b7077b0c536d0f4515bbabe79046014f369b555909f1839a144a18",
+      "en_sha256": "ae6c5d4fc0bf810f706e0365cf6ec43975e7b89ff9e80a5241c9a3fb66414f9f",
+      "origin": "ai"
+    },
+    "dataList[id=9739].desc": {
+      "pl": "— opis] Na koniec tury, jeżeli jednostka jest w stanie [Laceration], Moc [Laceration] jednostki maleje o połowę, a odzyskuje HP równy (zmniejszona Moc [Laceration] x Licznik [Laceration]) (zaokrąglone w dół; ten efekt Daru odzyskuje naraz do 10% Maks. HP).",
+      "kr_sha256": "f7cace5a2e990fe233510867510e80ea80428038d94d8ba22d4f60d6f2c1bcb5",
+      "en_sha256": "a5cc5ff91976d0dc68ebed614ddbb6340598fb929fcb983655fe1d3c8e0b24a4",
+      "origin": "ai"
+    },
+    "dataList[id=9739].name": {
+      "pl": "— nazwa] Skrystalizowana Krew",
+      "kr_sha256": "238cfcd4f3b5df22aa89f32e2707330e6e43849b963e35eb6a2f66b429ff6dbb",
+      "en_sha256": "9996bc75f24ab7d09a2c4a1c5a9fe3ba53e4c3244fc5214ca35e2a22ca967e41",
+      "origin": "ai"
+    },
+    "dataList[id=9739].simpleDesc[abilityID=9739].simpleDesc": {
+      "pl": "— opis skrócony] Zmniejsza Moc Krwawienia o połowę i odzyskuje HP",
+      "kr_sha256": "9a2138595c9361258f3dd1594f37a6e5e2beb29d22be5840979350d00096c9ec",
+      "en_sha256": "047b84872ebc563e844f8d0f7d427f30126cb3898b0394663c96c5e9747126ac",
+      "origin": "ai"
+    },
+    "dataList[id=9740].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku zyskujące Licznik [Charge] lub 'Szczególne Ładowanie' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie)\n\nPodstawowe Umiejętności ataku z monetą Plus zużywające Licznik [Charge] lub 'Szczególne Ładowanie' zyskują Moc Monet +1 i zadają +(suma Licznika [Charge] i 'Szczególnego Ładowania' zużytego przez tę Umiejętność x 4)% obrażeń (maks. 40%).\n- Podstawowe Umiejętności ataku z monetą Minus: zamiast Mocy Monet zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglone w dół)\n\nNa koniec tury sojusznicy z Licznikiem [Charge] lub 'Szczególnym Ładowaniem' zyskują w następnej turze 1 [Agility] (maks. 2) i 1 [AttackDmgUp] (maks. 3) za każde użycie Podstawowej Umiejętności ataku zużywającej Licznik [Charge] i 'Szczególne Ładowanie' podczas tej potyczki.\n\nJeżeli Tożsamość Biura MultiCrack ma co najmniej 5 [Charge], Podstawowe Umiejętności ataku zyskują Moc Monet +1.",
+      "kr_sha256": "1f94d0a1f15f3ceb276a7859acf038e09e7a6e9c5fd621453b8c1f3cc5fc64f1",
+      "en_sha256": "9898995542a161ccba7c8eeb4466741187d935cf1e1ae3b484881dc1e9ed2182",
+      "origin": "ai"
+    },
+    "dataList[id=9740].name": {
+      "pl": "— nazwa] Automatyczne Stawy",
+      "kr_sha256": "7c162b9f1bbf745d3b1c526ce887f812d7e81e78cfd6ad12ce77abd0fbff906b",
+      "en_sha256": "b8af8bd2089414e796b492474c8d69ac9daeaee2a553e19b6a01de7783b0137c",
+      "origin": "ai"
+    },
+    "dataList[id=9740].simpleDesc[abilityID=97401].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Pośpiech i Wzrost Obrażeń w następnej turze",
+      "kr_sha256": "0ae9912faf15aeeb2641e6e7a19e3494b8aacffdcee9fc384b71479f5a4dedf4",
+      "en_sha256": "e1710ea0707f092cd13c738e81c10639b78920be8b51337928d6b68729055f6b",
+      "origin": "ai"
+    },
+    "dataList[id=9740].simpleDesc[abilityID=97402].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=9740].simpleDesc[abilityID=9740].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet/Moc Bazową i zadaje więcej obrażeń",
+      "kr_sha256": "85f5c5cd9d0d3e990cdc083b4a6fbd4ea975cb4efa0a4d80dc8ca740dca4eec8",
+      "en_sha256": "b154e16e38e5259eb272fcc9fb2b24c73f8452dd7df701c012f4a8eec9c77fd2",
+      "origin": "ai"
+    },
+    "dataList[id=9741].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku zyskujące Licznik [Charge] lub 'Szczególne Ładowanie' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie)\n\nPodstawowe Umiejętności ataku z monetą Plus zużywające Licznik [Charge] lub 'Szczególne Ładowanie' zyskują Moc Monet +1 i zadają +(suma Licznika [Charge] i 'Szczególnego Ładowania' zużytego przez tę Umiejętność x 4)% obrażeń (maks. 40%).\n- Podstawowe Umiejętności ataku z monetą Minus: zamiast Mocy Monet zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglone w dół)\n\nGdy sojusznik z Licznikiem [Charge] lub 'Szczególnym Ładowaniem' prowadzi starcie Podstawową Umiejętnością ataku, zyskuje Moc Starcia +2; przy wygranej w starciu Licznik [Charge] rośnie o 3, a przy przegranej maleje o 6.\n\nPrzy wygranej w starciu Podstawową Umiejętnością ataku atrybutu Żądzy, nakłada 1 [VioletTakeDamageUp] (kumuluje się do 3 razy).",
+      "kr_sha256": "39ffcc20ec19909bc8dae09afb9db1bf5550d7848e2f15e2ae3abf53c0b365f1",
+      "en_sha256": "ebe04257a990c70883268ab8837180c9d99a2d9b7ea3c19b942a71cd74228068",
+      "origin": "ai"
+    },
+    "dataList[id=9741].name": {
+      "pl": "— nazwa] Nadładowana Bateria",
+      "kr_sha256": "a358e5fb4512fa4fc127a581c3cf5af78c9ef6cd81ce563e8072014c0d70e39b",
+      "en_sha256": "f647f0e92c6868111d35c3570334552fd3be9ef962ab74d4e2d43db964b12cd5",
+      "origin": "ai"
+    },
+    "dataList[id=9741].simpleDesc[abilityID=97411].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia; zyskuje Licznik Ładowania przy wygranej w starciu, traci przy przegranej",
+      "kr_sha256": "fa6ba901d5a2a64fc47e08d65ec0877c7cba66c97f997f633e6d8762c9a961a8",
+      "en_sha256": "0f7bdd79349d1ef610c262f5f1da9886e1cc14cb81c8cd34f5beffd68a6246b5",
+      "origin": "ai"
+    },
+    "dataList[id=9741].simpleDesc[abilityID=97412].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Wrażliwość Żądzy",
+      "kr_sha256": "e4c93b527cc6e33569f8afe4381653a6be5d81772cf8fe1f0a677e83ddb5264c",
+      "en_sha256": "ef3adb8c62931b25f885f2b95339677a0584b259817d69179098c0e9dea8e277",
+      "origin": "ai"
+    },
+    "dataList[id=9741].simpleDesc[abilityID=9741].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet/Moc Bazową i zadaje więcej obrażeń",
+      "kr_sha256": "85f5c5cd9d0d3e990cdc083b4a6fbd4ea975cb4efa0a4d80dc8ca740dca4eec8",
+      "en_sha256": "b154e16e38e5259eb272fcc9fb2b24c73f8452dd7df701c012f4a8eec9c77fd2",
+      "origin": "ai"
+    },
+    "dataList[id=9742].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku zyskujące Licznik [Charge] lub 'Szczególne Ładowanie' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie)\n\nPodstawowe Umiejętności ataku z monetą Plus zużywające Licznik [Charge] lub 'Szczególne Ładowanie' (z ustaloną Mocą) zyskują Moc Monet +1 i zadają +(suma Licznika [Charge] i 'Szczególnego Ładowania' (z ustaloną Mocą) zużytego przez tę Umiejętność x 4)% obrażeń (maks. 40%).\n- Podstawowe Umiejętności ataku z monetą Minus: zamiast Mocy Monet zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglone w dół)\n\nGdy sojusznik z Licznikiem [Charge] lub 'Szczególnym Ładowaniem' prowadzi starcie Podstawową Umiejętnością ataku, zyskuje Moc Starcia +1, a na początku tury zyskuje 2 [AttackUp] za każdą wygraną w starciu podczas tej potyczki (maks. 6).\n\nGdy podczas walki otrzymuje obrażenia śmiertelne, zużywa cały posiadany Licznik [Charge] i 'Szczególne Ładowanie' (z ustaloną Mocą) i natychmiast odzyskuje (10 + suma zużytego Licznika Ładowania i 'Szczególnego Ładowania' (z ustaloną Mocą))% Maks. HP (1 raz na potyczkę), zyskując przed śmiercią 3 [Protection].\n\n※ 'Szczególne Ładowanie' posiadające zarówno Moc, jak i Licznik liczone jest jako Licznik Ładowania",
+      "kr_sha256": "7dd9efbee7d0135eab80b64add1a2b77d1080980c081841f7f383a159aa6e2a7",
+      "en_sha256": "6a9a3a6625641e872728a1e1c2ccd604af0512240a2b386d6f91e8f1d9ca2cda",
+      "origin": "ai"
+    },
+    "dataList[id=9742].name": {
+      "pl": "— nazwa] Serwomotory Silnika Wieczystego",
+      "kr_sha256": "f4d8108a027a8c03411ce03d913cba6481c7dbe88b164b757417ca87959bb44c",
+      "en_sha256": "6a394087f0df8b6ce7efd202ab57829851a00775e1e607b57fc032be4bf7851e",
+      "origin": "ai"
+    },
+    "dataList[id=9742].simpleDesc[abilityID=97421].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia i Wzrost Poziomu Ataku",
+      "kr_sha256": "21fe51a8e460aea0d433746f0cf2a14f0b66a0d46935e15fe882343cc15e7f6f",
+      "en_sha256": "33a110f11192523a26ed3c6dc471eecc67260e8da5df6f6ae27a716c3d8efcf8",
+      "origin": "ai"
+    },
+    "dataList[id=9742].simpleDesc[abilityID=97422].simpleDesc": {
+      "pl": "— opis skrócony] Tuż przed śmiercią zużywa Licznik Ładowania, by natychmiast odzyskać HP i Ochronę",
+      "kr_sha256": "a11cdf68eb44389ae6b0058b034eb8424a52916a72f05bc269032a10fa0eb261",
+      "en_sha256": "5b43ae67fec0039ecc4f35586835bbfddbefeecf2855ea5bd34c0b59bd40d85c",
+      "origin": "ai"
+    },
+    "dataList[id=9742].simpleDesc[abilityID=9742].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet/Moc Bazową i zadaje więcej obrażeń",
+      "kr_sha256": "85f5c5cd9d0d3e990cdc083b4a6fbd4ea975cb4efa0a4d80dc8ca740dca4eec8",
+      "en_sha256": "b154e16e38e5259eb272fcc9fb2b24c73f8452dd7df701c012f4a8eec9c77fd2",
+      "origin": "ai"
+    },
+    "dataList[id=9743].desc": {
+      "pl": "— opis] Na początku tury uruchamia się przez całą potyczkę, gdy co najmniej 5 Tożsamości ma Umiejętności ataku zyskujące Licznik [Charge] lub 'Szczególne Ładowanie' (poza Umiejętnościami E.G.O; z pominięciem Tożsamości w rezerwie)\n\nPodstawowe Umiejętności ataku z monetą Plus zużywające Licznik [Charge] lub 'Szczególne Ładowanie' zyskują Moc Monet +1 i zadają +(suma Licznika [Charge] i 'Szczególnego Ładowania' zużytego przez tę Umiejętność x 4)% obrażeń (maks. 40%).\n- Podstawowe Umiejętności ataku z monetą Minus: zamiast Mocy Monet zyskują Moc Bazową +(4/liczba monet) (min. 1, zaokrąglone w dół)\n\nJeżeli suma posiadanych Licznika [Charge] i 'Szczególnego Ładowania' wynosi co najmniej 15 i użyto Umiejętności 3 zużywającej Licznik [Charge] lub 'Szczególne Ładowanie', na koniec ataku, jeżeli pozostał Licznik [Charge] lub 'Szczególne Ładowanie', zużywa go w całości i zadaje dodatkowe obrażenia stałe równe (suma zużytego Licznika [Charge] i 'Szczególnego Ładowania' x 7.5)% zadanych obrażeń (maks. 75%).\n\nMaks. Licznik Ładowania +5.",
+      "kr_sha256": "6bc0e5ab009e2505ccb75b3c613d5211eaa3159a4e912fc019a1140fa66cca49",
+      "en_sha256": "bc7d15fdfc120262927d726ae00f48dc17d7f9ba14324351704b3875f8868c3d",
+      "origin": "ai"
+    },
+    "dataList[id=9743].name": {
+      "pl": "— nazwa] Klejnot Napędzany Sercami",
+      "kr_sha256": "dd9a95224ac83da724a263fd959418cd76ae981e4c602f7e99154a4d604e5f10",
+      "en_sha256": "3e827bc02057cb62dd1fcdff2bc80e0a68eb54ae66bb62821cd9d42565751eee",
+      "origin": "ai"
+    },
+    "dataList[id=9743].simpleDesc[abilityID=97431].simpleDesc": {
+      "pl": "— opis skrócony] Zużywa dodatkowo Licznik Ładowania, by zadać dodatkowe obrażenia",
+      "kr_sha256": "a21070e9d1ba8795e2f37191fdffc674b21b78f5600810c6f21ded0563737820",
+      "en_sha256": "b468bb87e0295765b501469d632227d7c93100dada2989d63596a344ff5b91dd",
+      "origin": "ai"
+    },
+    "dataList[id=9743].simpleDesc[abilityID=97432].simpleDesc": {
+      "pl": "— opis skrócony] Maks. Licznik Ładowania +5",
+      "kr_sha256": "3bd4a1089fec15bd42686d7eb2247e51379d07d916654059cbd0989109f64290",
+      "en_sha256": "2d66e667bf80032c3c357250f594adadd585acf040b9471f98e25257b409e41e",
+      "origin": "ai"
+    },
+    "dataList[id=9743].simpleDesc[abilityID=9743].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Monet/Moc Bazową i zadaje więcej obrażeń",
+      "kr_sha256": "85f5c5cd9d0d3e990cdc083b4a6fbd4ea975cb4efa0a4d80dc8ca740dca4eec8",
+      "en_sha256": "b154e16e38e5259eb272fcc9fb2b24c73f8452dd7df701c012f4a8eec9c77fd2",
+      "origin": "ai"
+    }
+  }
+}
