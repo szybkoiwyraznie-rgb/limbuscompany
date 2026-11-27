@@ -30,6 +30,7 @@ if __package__ in (None, ""):
 
 from tools.lcb_text import Texts, one_line, stage_label, to_markdown
 from tools.localize import Snapshot
+from tools.md_table_align import align_markdown_tables
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -208,7 +209,8 @@ def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str,
         phase = PHASE_TEXT.get(scene.get("etap"))
         if scene.get("trasa"):
             phase = f"{phase} · trasa {scene['trasa']}" if phase else f"Trasa {scene['trasa']}"
-        out += [f"<!-- {scene['plik']} -->", ""]
+        if out and out[-1] != "":
+            out.append("")
         if phase:
             out += [f"*— {phase} —*", ""]
         stats["kwestie"] += render_scene(lines, texts, out, place_state)
@@ -230,7 +232,7 @@ def main(argv: list[str] | None = None) -> int:
     args.out.mkdir(parents=True, exist_ok=True)
     toc = [f"# {GAME} — Czytanki: spis rozdziałów", "",
            f"Wersja językowa: {args.lang}. Kolejność: `{args.index.name}`.", "",
-           "| # | Rozdział | Sceny | Kwestie | Plik |", "|---|---|---|---|---|"]
+           "| # | Rozdział | Sceny | Kwestie | Plik |", "|---:|---|---:|---:|---|"]
     with Snapshot.open(args.snapshot) as snapshot:
         texts = Texts(snapshot, args.lang)
         chapters = Chapters(texts)
@@ -243,10 +245,11 @@ def main(argv: list[str] | None = None) -> int:
                 continue
             name, text, stats = build_chapter(chapter, texts, chapters, args.lang, en_texts)
             file_name = f"{chapter['kolejnosc']:02d}_{slug(naming.heading(chapter)[0])}_{args.lang.upper()}.md"
-            (args.out / file_name).write_text(text, encoding="utf-8")
+            (args.out / file_name).write_text(align_markdown_tables(text), encoding="utf-8")
             toc.append(f"| {chapter['kolejnosc']} | {name} | {stats['sceny']} | {stats['kwestie']} | "
                        f"[{file_name}]({file_name}) |")
-    (args.out / f"00_spis_{args.lang.upper()}.md").write_text("\n".join(toc) + "\n", encoding="utf-8")
+    (args.out / f"00_spis_{args.lang.upper()}.md").write_text(
+        align_markdown_tables("\n".join(toc)) + "\n", encoding="utf-8")
     print(f"zapisano {len(toc) - 6} rozdziałów do {args.out}")
     return 0
 

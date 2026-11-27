@@ -31,6 +31,7 @@ if __package__ in (None, ""):
 
 from tools.build_profiles import coin_text, merged_levels, number, season, signed
 from tools.lcb_text import Texts, one_line, to_markdown
+from tools.md_table_align import align_markdown_tables
 from tools.localize import Snapshot
 from tools.static_data import StaticData
 
@@ -98,7 +99,7 @@ class Library:
         rows = merged_levels(data.get("skillData", []) or [])
         if rows:
             out += ["| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |",
-                    "|---|---|---|---|---|---|---|---|"]
+                    "|---:|---|---|---:|---:|---:|---:|---:|"]
             previous = None
             for level, state in rows:
                 cells = (self.sin(state.get("attributeType")), self.attack(state.get("atkType")),
@@ -208,7 +209,7 @@ def main(argv: list[str] | None = None) -> int:
             name, text = library.sinner_file(character, args.lang)
             ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
             file_name = f"ego_{character:02d}_{re.sub(r'[^A-Za-z0-9]+', '_', ascii_name).strip('_')}_{args.lang.upper()}.md"
-            (args.out / file_name).write_text(text, encoding="utf-8")
+            (args.out / file_name).write_text(align_markdown_tables(text), encoding="utf-8")
             written += 1
     print(f"zapisano {written} plików do {args.out}")
     return 0

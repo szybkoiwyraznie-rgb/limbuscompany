@@ -29,6 +29,7 @@ if __package__ in (None, ""):
 
 from tools.lcb_text import Texts, one_line, to_markdown
 from tools.localize import Snapshot
+from tools.md_table_align import align_markdown_tables
 from tools.static_data import StaticData
 
 
@@ -140,7 +141,7 @@ class Library:
         rows = merged_levels(data.get("skillData", []) or [])
         if rows:
             out += ["| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |",
-                    "|---|---|---|---|---|---|---|---|"]
+                    "|---:|---|---|---:|---:|---:|---:|---:|"]
             previous = None
             for level, state in rows:
                 kind = DEFENSE.get(state.get("defType")) if state.get("defType") != "ATTACK" else None
@@ -234,7 +235,7 @@ class Library:
             out += ["## Akta więźnia", "", "\n".join("> " + l if l.strip() else ">"
                                                      for l in to_markdown(intro["description"]).splitlines()), ""]
         out += ["## Katalog Identity", "", "| Rzadkość | Identity | Sezon | Grzech wyróżniony | Słowa kluczowe |",
-                "|---|---|---|---|---|"]
+                "|---:|---|---:|---|---|"]
         for pid in ids:
             row = self.personalities[pid]
             title, _ = self.identity_name(pid)
@@ -274,7 +275,7 @@ def main(argv: list[str] | None = None) -> int:
             en_name = one_line(to_markdown(english.characters.get(str(character), {}).get("name"))) or name
             ascii_name = unicodedata.normalize("NFKD", en_name).encode("ascii", "ignore").decode()
             file_name = f"identity_{character:02d}_{re.sub(r'[^A-Za-z0-9]+', '_', ascii_name).strip('_')}_{args.lang.upper()}.md"
-            (args.out / file_name).write_text(text, encoding="utf-8")
+            (args.out / file_name).write_text(align_markdown_tables(text), encoding="utf-8")
             written += 1
     print(f"zapisano {written} plików do {args.out}")
     return 0
