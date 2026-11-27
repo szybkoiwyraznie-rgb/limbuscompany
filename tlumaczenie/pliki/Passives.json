@@ -2411,6 +2411,810 @@
       "kr_sha256": "d0e0db1d4b1e067d5f5242bbb133b4b4690182603dd833cac6c583932df3bf79",
       "en_sha256": "ca3d1957f14d38ea6cdb2692c5723b1e5da48061c643c034724239e599d38a7e",
       "origin": "ai"
+    },
+    "dataList[id=1040101].desc": {
+      "pl": "Zadaje i otrzymuje +25% obrażeń.",
+      "kr_sha256": "1f9d0eb619b4b21feb546807c903886981df81aabd8c0247793f2e86e298e0f5",
+      "en_sha256": "08a2238b613567a328e43e5f855d3a847d8be145ec523a26e03464e9a63714a5",
+      "origin": "ai"
+    },
+    "dataList[id=1040101].name": {
+      "pl": "Sztuka bez Refleksji",
+      "kr_sha256": "1b854574766b4bee6e92d04dd77674e636dbca150e014ff9a4fa998f211a1f5d",
+      "en_sha256": "0fe4897e9837ed218be8fd748ea2e857257e6acf862f8aa39db42d6606ce6fec",
+      "origin": "ai"
+    },
+    "dataList[id=1040121].desc": {
+      "pl": "1 Sojusznik z najniższym Maks. HP zadaje i otrzymuje +20% obrażeń.",
+      "kr_sha256": "8c25a888a64242bd773bdbcca507e409868ae1581ce5ed62c2be10e7f9d86bd4",
+      "en_sha256": "ab82a51668e07669a5770ae5eff77708ed732b3cb9830fc3ddc93f83685555b5",
+      "origin": "ai"
+    },
+    "dataList[id=1040121].name": {
+      "pl": "Najście",
+      "kr_sha256": "185b8fe076d737689c061568afe5584a9572f412c4d0d4bc0305701a1e70b8ce",
+      "en_sha256": "ffafaee5b6a277eb01b556ff1af2a4dd54f73cb4f1eee2d96a98ab9c7b2221f9",
+      "origin": "ai"
+    },
+    "dataList[id=1040201].desc": {
+      "pl": "Zadaje +10% obrażeń Cięcia w tej turze.",
+      "kr_sha256": "715c14bc0634079853693c27889b7167ff54d6718ca8e3535f8592867d4fb37d",
+      "en_sha256": "5531e528c12cf513114376fb219762ab2ed7baa098164da1324d39a974a3d310",
+      "origin": "ai"
+    },
+    "dataList[id=1040201].name": {
+      "pl": "C. I. H.",
+      "kr_sha256": "def16f872cb2e2c3595c1ca4bb2a855dad6949df9eafea4eb6872ff0558dc430",
+      "en_sha256": "5d763be35e9c83edb24de2a100eb82babdd71aabede4c877310adb9995fd4a90",
+      "origin": "ai"
+    },
+    "dataList[id=1040221].desc": {
+      "pl": "1 Sojusznik z najniższym Maks. HP nakłada o 1 więcej Rozdarcia",
+      "kr_sha256": "798ca337d082c7de514e65eb2640acefdc70323c52e6947895ce81e2223aa575",
+      "en_sha256": "a7b64b98827a81e4410bbf0628a7c753835c80c34a884a9d4023691044289a4a",
+      "origin": "ai"
+    },
+    "dataList[id=1040221].name": {
+      "pl": "Przebijający Lód",
+      "kr_sha256": "b7f219773f1eeebb7adf580ef27d39f1b1479c333c4d0baa4267e7950b953220",
+      "en_sha256": "9ea89bb54bfc0f9ecee70e500d92c75b3043c774f104e751c07e705b8808e285",
+      "origin": "ai"
+    },
+    "dataList[id=1040301].desc": {
+      "pl": "Zadaje +10% obrażeń celom z [Laceration]",
+      "kr_sha256": "eca934fc65cf4e0b9d3257087452d885e8f1e851800f18bf969df0fc0d4ff9a5",
+      "en_sha256": "a6b867db6edc26da4279a794817bad8a2d1fd2a17e590a67e5cdb05cc300f7c4",
+      "origin": "ai"
+    },
+    "dataList[id=1040301].name": {
+      "pl": "Klinga Czarnego Obłoku",
+      "kr_sha256": "84160b15fea33de16a223dd7718e4e4519dc6f45f1b4d2d55893d6502d3af9ad",
+      "en_sha256": "41ebb6f694f3948f836fcdfd779b06c3fba2eb8ee44d890b9180319d7ac0f2ca",
+      "origin": "ai"
+    },
+    "dataList[id=1040321].desc": {
+      "pl": "1 Sojusznik z najwyższą Szybkością nakłada o 1 więcej Krwawienia",
+      "kr_sha256": "42ac4c0a9006c94291fcbc83f415d26482262ff83d310167404442a74cb6c58f",
+      "en_sha256": "8dde59324f305345441c4587e58fadf259279cde18d6dd6f2f6109cce0d3675d",
+      "origin": "ai"
+    },
+    "dataList[id=1040321].name": {
+      "pl": "Mięśnie z Nakazem Władzy",
+      "kr_sha256": "e74ca5c4112c896203e5aeb6b4ea96b062b8cba2f3a404cfdb2131a93d332b21",
+      "en_sha256": "25d50968c8c9ed144ba4fb660c15c355f6c2334332532833594d9029bef283d8",
+      "origin": "ai"
+    },
+    "dataList[id=1040401].desc": {
+      "pl": "Po pokonaniu wroga odzyskuje 15 HP Sojusznik z najmniejszym HP. (1 raz na turę.)\nJeżeli ma Pragnienie, zużywa je w całości, a odzysk HP rośnie proporcjonalnie do zużytego Pragnienia.",
+      "kr_sha256": "b3614b86190d91fb47202080739bfb4bdf7610d0cd88324d4aa5b9e68740a90e",
+      "en_sha256": "90c2140271ae605340f79744717602c960c232a99102b55e5de2c4174ecaa188",
+      "origin": "ai"
+    },
+    "dataList[id=1040401].name": {
+      "pl": "Ruch Kuchenny",
+      "kr_sha256": "3351947c05b45ac9c151e77e8aa4455f1a52f929cbf963aade5f025b67f6a764",
+      "en_sha256": "90ed94c745f211bd2b69f46aec90666b585842f9a8192b9e5dc12f53256461ab",
+      "origin": "ai"
+    },
+    "dataList[id=1040421].desc": {
+      "pl": "Gdy wróg ginie, 1 Sojusznik z najmniejszym HP odzyskuje 15 HP. (1 raz na turę.)",
+      "kr_sha256": "518a744411ab3b47d89c7ff6ea640eb8962694a5f8b6e04803796f5ff377a4ac",
+      "en_sha256": "4b7f058882815c803f080bc98274955f753e5b84c80264cb73c2d75910737b32",
+      "origin": "ai"
+    },
+    "dataList[id=1040421].name": {
+      "pl": "Artystyczny Smak",
+      "kr_sha256": "76a999d027e8792de98b320ec0898ee6221657ec04db20c2fd96317e9197ff00",
+      "en_sha256": "3df4847f2cad4e11d047bfcc43694f44078ad4a523511eec38d64d3e27f82734",
+      "origin": "ai"
+    },
+    "dataList[id=1040501].desc": {
+      "pl": "Po pokonaniu wroga zyskuje +2 Licznika Ładowania (maks. 3 razy na turę)",
+      "kr_sha256": "811947bfacd791ebfa164c6044c4486e9eb897df8e562fa9e107bc82bb692a21",
+      "en_sha256": "b6debf75d8f7236c04e14c5fd60181d00f82e2a92e37608a662a84c3ca711dad",
+      "origin": "ai"
+    },
+    "dataList[id=1040501].name": {
+      "pl": "Wymienny Ostrze Demonów",
+      "kr_sha256": "bfe9fe0516f8f13c532bef8dceb00ba2e29bc681f2fb1cf2b57d26d29d771eae",
+      "en_sha256": "afecd9a08c5a537a92dee499c10c96cf12c96c7021b15e395dca4249aac8b4d1",
+      "origin": "ai"
+    },
+    "dataList[id=1040521].desc": {
+      "pl": "Gdy Sojusznik z najniższym Maks. HP pokonuje wroga, zyskuje +2 Licznika Ładowania (1 raz na turę)",
+      "kr_sha256": "4a69c5b7c07d4c7f796c36d472297daa8366be162092272d49bc9bd9ce5dd672",
+      "en_sha256": "03fb578e82fa6fb23f24469abea385409ff31a2a22573299f95de3eee969b92b",
+      "origin": "ai"
+    },
+    "dataList[id=1040521].name": {
+      "pl": "Wymienna Ostrze Załamująca Wymiary - Type: Blade Mk7",
+      "kr_sha256": "3147a82e8e9afadfac22dadc8d58b8b0ccc3c91a7a77de88343ddd14380d1bdf",
+      "en_sha256": "3066620d37c6ba240d83e4507499a4ee81ed32dee48a26b3c27c788309b10a37",
+      "origin": "ai"
+    },
+    "dataList[id=1040601].desc": {
+      "pl": "Na koniec tury, jeżeli ta jednostka ma 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechu</link></u></color>, odzyskuje 8 Poczytalności.",
+      "kr_sha256": "f18877e4d4042e03bc3de058bcd2e1394e7476fb2e7ae9049eef55b6e33fc214",
+      "en_sha256": "9caf4adf1b6ed236d99bf8dec6be3385a86fa34e52407ce00ebea36cc0930fe0",
+      "origin": "ai"
+    },
+    "dataList[id=1040601].name": {
+      "pl": "A S. B.",
+      "kr_sha256": "23059c5e3798cd45acffd182369e740996e9bb02abd9ade2b09b8c4b25ad746b",
+      "en_sha256": "f28c356671f65a09602163121bf84d0d666578f766a1baf9b26ca2bea3cad4f0",
+      "origin": "ai"
+    },
+    "dataList[id=1040602].desc": {
+      "pl": "<style=\"highlight\">- Zawsze aktywne: rozpoczyna spotkania z 7 amunicją</style>\nNa koniec tury, jeżeli ta jednostka ma 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechu</link></u></color>, odzyskuje 8 Poczytalności.",
+      "kr_sha256": "f7da5101e2a5a88f4d9e43bf243c2853c8b44ba197a630fa0a4d65ee563d79f5",
+      "en_sha256": "0d6aa15cb23c7b9b629ae51f647183714e0d607a385b32d67a5fd8c21dc8535c",
+      "origin": "ai"
+    },
+    "dataList[id=1040602].name": {
+      "pl": "A S. B.",
+      "kr_sha256": "23059c5e3798cd45acffd182369e740996e9bb02abd9ade2b09b8c4b25ad746b",
+      "en_sha256": "f28c356671f65a09602163121bf84d0d666578f766a1baf9b26ca2bea3cad4f0",
+      "origin": "ai"
+    },
+    "dataList[id=1040611].desc": {
+      "pl": "- Zawsze aktywne: rozpoczyna spotkania z 7 amunicją\n- Na koniec tury, jeżeli ta jednostka ma 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechu</link></u></color>, odzyskuje 8 Poczytalności.\n<style=\"highlight\">- Jeżeli Poczytalność jest już maksymalna, zyskuje w następnej turze 1 Oddechu</style>",
+      "kr_sha256": "cf25e5f084e5bb6aa4005daacbf87cda49b010cfb7c28879c9ab4b31e83e7cdf",
+      "en_sha256": "63156209b9b9ece60c40e623d32f656400439502a9c28767f7fb1108bf97f4a5",
+      "origin": "ai"
+    },
+    "dataList[id=1040611].name": {
+      "pl": "A S. B.",
+      "kr_sha256": "23059c5e3798cd45acffd182369e740996e9bb02abd9ade2b09b8c4b25ad746b",
+      "en_sha256": "f28c356671f65a09602163121bf84d0d666578f766a1baf9b26ca2bea3cad4f0",
+      "origin": "ai"
+    },
+    "dataList[id=1040621].desc": {
+      "pl": "Gdy 1 Sojusznik z najmniejszym [Bullet] zużyje ostatnią amunicję monetą, na koniec ataku tej monety zadaje każdemu celowi dodatkowe obrażenia równe 50% obrażeń zadanych przez atak tej monety. (zaokrąglone w górę)",
+      "kr_sha256": "db328ff14134d3c1b642a4406bfdd1563eada6a41037461fd22368b06332dcce",
+      "en_sha256": "820ac0cfe366614913d0e9e6fca6a93e714ba3d8e4f8971a10e4ee9a6f099bf2",
+      "origin": "ai"
+    },
+    "dataList[id=1040621].name": {
+      "pl": "Pełna Fajka Szczęścia",
+      "kr_sha256": "20aa10088b1fb44e7d1514643b1c600cec9dee00e37368fccff1a38a4baa9f7b",
+      "en_sha256": "5c79977b0e28d4c8e443923863b46d78f1349bfea3f1f2312b4aac4ce5914864",
+      "origin": "ai"
+    },
+    "dataList[id=1040631].desc": {
+      "pl": "<style=\"highlight\">- Gdy 1 Sojusznik z najmniejszym [Bullet] użyje Umiejętności zużywającej [Bullet], zyskuje 3 Oddechu. (1 raz na turę; nie dotyczy sojuszników bez amunicji)</style>\nGdy 1 Sojusznik z najmniejszym [Bullet] zużyje ostatnią amunicję monetą, na koniec ataku tej monety zadaje każdemu celowi dodatkowe obrażenia równe 50% obrażeń zadanych przez atak tej monety. (zaokrąglone w górę)",
+      "kr_sha256": "54db058c3dfa7e87b3aa2bb609c48eca5d06d2aab542b7c575d05fe5593e8653",
+      "en_sha256": "cff9d75851984909282e0395ceeaadd0809e2f987483ab04ed5b2c6acd4b04fd",
+      "origin": "ai"
+    },
+    "dataList[id=1040631].name": {
+      "pl": "Pełna Fajka Szczęścia",
+      "kr_sha256": "20aa10088b1fb44e7d1514643b1c600cec9dee00e37368fccff1a38a4baa9f7b",
+      "en_sha256": "5c79977b0e28d4c8e443923863b46d78f1349bfea3f1f2312b4aac4ce5914864",
+      "origin": "ai"
+    },
+    "dataList[id=1040701].desc": {
+      "pl": "Gdy ta jednostka pokonuje wroga z [Combustion], nakłada 4 [Combustion] na 1 losowego wroga bez [Combustion] lub z najniższą Mocą [Combustion] (1 raz na turę)\n- W walce skupionej nakłada na część ciała",
+      "kr_sha256": "9e2cd19c884b7efc0461bbddcc50f32299ca2147c9c71179b6a9275b3768dec9",
+      "en_sha256": "7c9c50a1da60efa7733213311978c19dfdc08edf712627be24266e23b5509dfb",
+      "origin": "ai"
+    },
+    "dataList[id=1040701].name": {
+      "pl": "Rozprzestrzenienie Płomienia",
+      "kr_sha256": "5726c4195b7db8c0a7ff46ce65e79f9b8e0fe9ff716008e344a33d32880926a7",
+      "en_sha256": "1cfd74413d5352fb014668e4a045cf41fbb8059b28ea651f42b780fe9f164782",
+      "origin": "ai"
+    },
+    "dataList[id=1040701].summary": {
+      "pl": "Gdy ta jednostka pokonuje wroga z [Combustion], nakłada 4 [Combustion] na 1 losowego wroga bez [Combustion] lub z najniższą Mocą [Combustion]",
+      "kr_sha256": "8cfabd68735820dd2cebe42814ef781bdcc38cda53ac3babefca592d106937d4",
+      "en_sha256": "a1a642571b2aa661621982549a1fcb1d06013a17b5f8f15288ea9dc5457eabb8",
+      "origin": "ai"
+    },
+    "dataList[id=1040711].desc": {
+      "pl": "Gdy ta jednostka pokonuje wroga z [Combustion], nakłada 4 [Combustion] na 2 losowych wrogów bez [Combustion] lub z najniższą Mocą [Combustion] (2 razy na turę)\n- W walce skupionej nakłada na 2 losowe części ciała",
+      "kr_sha256": "f85fcd0decfedf0817fb66bb1b2888dfbbb31e96007a2c63a96de10448219869",
+      "en_sha256": "e66a5d5dcbfdc79ef77a2586a4cd31c90178e28fcb529f26b3d9638dfb12d15d",
+      "origin": "ai"
+    },
+    "dataList[id=1040711].name": {
+      "pl": "Rozprzestrzenienie Płomienia",
+      "kr_sha256": "5726c4195b7db8c0a7ff46ce65e79f9b8e0fe9ff716008e344a33d32880926a7",
+      "en_sha256": "1cfd74413d5352fb014668e4a045cf41fbb8059b28ea651f42b780fe9f164782",
+      "origin": "ai"
+    },
+    "dataList[id=1040711].summary": {
+      "pl": "Gdy ta jednostka pokonuje wroga z [Combustion], nakłada 4 [Combustion] na 2 losowych wrogów bez [Combustion] lub z najniższą Mocą [Combustion]",
+      "kr_sha256": "f75f2aec93614516248d63ba9aba7859e460df09b3f2e3399ebb4b8d7df6ded8",
+      "en_sha256": "66647c6afed500bdae37e3f593d4e571a8a334ba4af8e5d619144e3257fc2b21",
+      "origin": "ai"
+    },
+    "dataList[id=1040721].desc": {
+      "pl": "Gdy 1 Sojusznik z najniższą Szybkością pokonuje wroga z [Combustion], nakłada 3 [Combustion] na 1 losowego wroga (1 raz na turę)\n- W walce skupionej nakłada na 1 losową część ciała",
+      "kr_sha256": "cf2ae1f63e6ca1c5b58c0c8fa2248586e4a963d1be6ab00aeeead67c175652b2",
+      "en_sha256": "e8f744dda569007501f2b4843fa142bde770982c2e6c757e6411ebf668cb8c6a",
+      "origin": "ai"
+    },
+    "dataList[id=1040721].name": {
+      "pl": "Rozdmuchanie Płomienia",
+      "kr_sha256": "6db518d738ede9912d1052e4e63185e321762f1437b210ef71d2737272fcff45",
+      "en_sha256": "5c4c86bb6f6487a3f04ff69924a6c30090fac2663f3bf7c9822aa36d8dd24933",
+      "origin": "ai"
+    },
+    "dataList[id=1040721].summary": {
+      "pl": "Gdy 1 Sojusznik z najniższą Szybkością pokonuje wroga z [Combustion], nakłada 3 [Combustion] na 1 losowego wroga",
+      "kr_sha256": "8f164d77beb006731e1f0cac45d0b9300138b1a54312aad5b42e171eeedf59ea",
+      "en_sha256": "f480f60bfe649cb9f10ffb5777356bf58dbf6091c2f803c519a484a83dbd8775",
+      "origin": "ai"
+    },
+    "dataList[id=1040731].desc": {
+      "pl": "Gdy 1 Sojusznik z najniższą Szybkością pokonuje wroga z [Combustion], nakłada 3 [Combustion] na 2 losowych wrogów (1 raz na turę)\n- W walce skupionej nakłada na 2 losowe części ciała",
+      "kr_sha256": "15565c1c4cdd1ccc6669eb1824c85a04a1903f6b10414a5f3f2c516530945b9a",
+      "en_sha256": "a9b57936ab10efb0bd91bdf85022dc6e48e5e2be715abe419defe097c78c5c99",
+      "origin": "ai"
+    },
+    "dataList[id=1040731].name": {
+      "pl": "Rozdmuchanie Płomienia",
+      "kr_sha256": "6db518d738ede9912d1052e4e63185e321762f1437b210ef71d2737272fcff45",
+      "en_sha256": "5c4c86bb6f6487a3f04ff69924a6c30090fac2663f3bf7c9822aa36d8dd24933",
+      "origin": "ai"
+    },
+    "dataList[id=1040731].summary": {
+      "pl": "Gdy 1 Sojusznik z najniższą Szybkością pokonuje wroga z [Combustion], nakłada 3 [Combustion] na 2 losowych wrogów",
+      "kr_sha256": "876acf20c70a923a29e909e06661e492c9ed1ca1cbbf8e4abacd57ec60da5d12",
+      "en_sha256": "26b440195af88364bc33a8528a11360abf4eb7e167d196ece3b6f9f733e5ddea",
+      "origin": "ai"
+    },
+    "dataList[id=1040801].desc": {
+      "pl": "Przy trafieniu celu z [MarkOfButler] zyskuje w następnej turze 1 [Agility] (maks. 3 razy na turę)\nPrzy trafieniu krytycznym celu z [MarkOfButler] usuwa jego [MarkOfButler], a jeżeli Szybkość tej jednostki jest większa niż celu, zadaje +5% obrażeń przy trafieniu krytycznym za każde 1 różnicy Szybkości (maks. 30%)",
+      "kr_sha256": "5aa78ac6c5a97a56689e55c083dedba7d7100d849abe9f9f5ec74b42b0964d39",
+      "en_sha256": "ae38dca915f0f0742910e874c78d26c231f8d34fe8e666ff0608e8f45c8e5ad6",
+      "origin": "ai"
+    },
+    "dataList[id=1040801].name": {
+      "pl": "Uporządkowanie Domu",
+      "kr_sha256": "1a0648c89e5404ff222a374dfab7961921a82a2c936dda27805ad97e5c25faa7",
+      "en_sha256": "34d0d932542c1b24fa22b1882c5c902c87db86d86f70619a70eeaf1c1ff10b03",
+      "origin": "ai"
+    },
+    "dataList[id=1040811].desc": {
+      "pl": "Przy trafieniu celu z [MarkOfButler] zwiększa Licznik [Breath] o 1 i zyskuje w następnej turze 1 [Agility] (maks. 3 razy na turę)\nPrzy trafieniu krytycznym celu z [MarkOfButler] usuwa jego [MarkOfButler], a jeżeli Szybkość tej jednostki jest większa niż celu, zadaje +10% obrażeń przy trafieniu krytycznym za każde 1 różnicy Szybkości (maks. 60%)",
+      "kr_sha256": "5fabc0e0f0a1b8c1afe2a6cf650a7117aa135fb2668d81a252e455ebdfc1ca3e",
+      "en_sha256": "2267f313de4aec36460bb94627181da0a483acdfd5af8736ae3bed5bf219b185",
+      "origin": "ai"
+    },
+    "dataList[id=1040811].name": {
+      "pl": "Uporządkowanie Domu",
+      "kr_sha256": "1a0648c89e5404ff222a374dfab7961921a82a2c936dda27805ad97e5c25faa7",
+      "en_sha256": "34d0d932542c1b24fa22b1882c5c902c87db86d86f70619a70eeaf1c1ff10b03",
+      "origin": "ai"
+    },
+    "dataList[id=1040821].desc": {
+      "pl": "Gdy 1 Sojusznik przydzielony najpóźniej wygrywa Starcie, zwiększa Licznik [Breath] o 1 (3 razy na turę)",
+      "kr_sha256": "971183bc97477109539acbff26d48f410dffa50da30d4570d1952d8cb36c159d",
+      "en_sha256": "ec238b932e03ab03174a01a0c1952bd787a18f2a1da7c05c0c35c4844d26661a",
+      "origin": "ai"
+    },
+    "dataList[id=1040821].name": {
+      "pl": "Dowodzenie Sprzątaniem",
+      "kr_sha256": "542b68a62a17652a6b8591e394ee9c47c7c790dc82468d8af2c039e1b3f05d62",
+      "en_sha256": "77dcf0a4997826823f36aaa527fb842ab22c45fc5b31031a4e59c097e2e28582",
+      "origin": "ai"
+    },
+    "dataList[id=1040831].desc": {
+      "pl": "Gdy 1 Sojusznik przydzielony najpóźniej wygrywa Starcie, zwiększa Licznik [Breath] o 1 (3 razy na turę) i zyskuje w następnej turze 1 [Agility] (1 raz na turę)",
+      "kr_sha256": "94d5ed3b3f9e5f702102edbf9ddc9a37aa80f68ed7c76e948314dc5dfb47c594",
+      "en_sha256": "802f765e05f39bb933448a7de7506bebf93360a2e6ab757ede59781e8a6a63d4",
+      "origin": "ai"
+    },
+    "dataList[id=1040831].name": {
+      "pl": "Dowodzenie Sprzątaniem",
+      "kr_sha256": "542b68a62a17652a6b8591e394ee9c47c7c790dc82468d8af2c039e1b3f05d62",
+      "en_sha256": "77dcf0a4997826823f36aaa527fb842ab22c45fc5b31031a4e59c097e2e28582",
+      "origin": "ai"
+    },
+    "dataList[id=1040901].desc": {
+      "pl": "- Gdy inny sojusznik Ogłuszy wroga atakiem, używa Umiejętności 1 na Ogłuszonym wrogu. (1 raz na turę)\n- Jeżeli Ogłuszono kilku wrogów naraz, namierza wroga z najmniejszym HP (w przypadku Abnormalności: najpierw trzon o najmniejszym HP, potem część ciała).\n- Używając Umiejętności 1 z tym efektem, ta jednostka zyskuje o 1 więcej Licznika [Vibration] z efektów monet, a ostatnia moneta przy trafieniu wywołuje [VibrationExplosion]",
+      "kr_sha256": "0fdfa014b832d28ef1a232b3d93a0ef2ae17de377beb6b312c79e0aaec12ff34",
+      "en_sha256": "5e78744b33f531363f45eb0cc3cb850f07c235e8194fe544ecdc3ab3f72f8cda",
+      "origin": "ai"
+    },
+    "dataList[id=1040901].name": {
+      "pl": "N. O.",
+      "kr_sha256": "eb47307653fdf09c64bc1ee7bc5fa2a10676ca595cbaaaac3bed9fc4db2bf357",
+      "en_sha256": "d52090c5f6a90a3abe4204a8105ac514bb30a91635e8a2e2046a69124e9aca5f",
+      "origin": "ai"
+    },
+    "dataList[id=1040921].desc": {
+      "pl": "Sojusznik przydzielony na 1. pozycji zyskuje o 1 więcej Licznika [Vibration] z efektów Umiejętności i monet (2 razy na turę)",
+      "kr_sha256": "594ef02893fcf69beedbc9353c2f894d824d374bf3b7cd667fe85d0e330d7579",
+      "en_sha256": "ac40e62db679a11369936c0b2c9a6c44fe3085031dfc50538312307435400dd2",
+      "origin": "ai"
+    },
+    "dataList[id=1040921].name": {
+      "pl": "The A. I.",
+      "kr_sha256": "10a3d07df2ae5abbe7395531a87601b19a5099dc291569f6aba5e538bf2ca8f9",
+      "en_sha256": "40c2f016a88112586e3ecdc20d799b6c1f9b9506f6f216a74650525e91aafad6",
+      "origin": "ai"
+    },
+    "dataList[id=1041001].desc": {
+      "pl": "Przy trafieniu wroga monetą zyskującą [RedEyeFirst]\n- zadaje +([RedEyeFirst]/2)% obrażeń\n- jeżeli cel ma [Laceration], zyskuje 1 [RedEyeFirst] (maks. 3 na turę)\n\nPrzy trafieniu wroga monetą zyskującą [PenanceFirst]\n- zadaje +([PenanceFirst]/2)% obrażeń\n- przy Poczytalności 20+ zyskuje 1 [PenanceFirst] (maks. 3 na turę)",
+      "kr_sha256": "55411a806825269d24e4851e40b815dc6a2863e19ccf29513ddbbf180115441d",
+      "en_sha256": "cdbec9fbde9d2b1843b42b29a38e4269e56ec6b3dd0f33afa69b54c005376643",
+      "origin": "ai"
+    },
+    "dataList[id=1041001].name": {
+      "pl": "Pajęcza Łeba / Koścista Łeba",
+      "kr_sha256": "9ab5d89b556c4f5971625c0eb1c575fd2021b93e440be5a2f732db8a0d706148",
+      "en_sha256": "57380a65340cd4daf8c70945bc9f07170fdc3442a187fbe6f49572716a638d08",
+      "origin": "ai"
+    },
+    "dataList[id=1041001].summary": {
+      "pl": "Monety zyskujące Czerwone Oko zadają więcej obrażeń; jeżeli cel ma Krwawienie, zyskuje 1 Czerwone Oko\nMonety zyskujące Pokutę zadają więcej obrażeń; przy Poczytalności 20+ zyskuje 1 Pokuty",
+      "kr_sha256": "67bc1cb972514882a1ca12ae685a1d476e14df5fab0c2fe67b62290fc7875783",
+      "en_sha256": "774a49f0af4c1f28c9935c96daed792f2894201cb2cf8f75fc007c747c411d81",
+      "origin": "ai"
+    },
+    "dataList[id=1041002].desc": {
+      "pl": "Zyskując Licznik [Charge], zamiast tego zyskuje [RedEyeFirst] lub [PenanceFirst]\n- [RedEyeFirst] i [PenanceFirst] nie podlegają wpływowi Mocy [Charge]",
+      "kr_sha256": "67f88f989b4d49aceec6043cbaa9ed0e351f6b7be517405b5329768261bf3528",
+      "en_sha256": "b3bb4264b587f750cfd1a0317eb33f66f654ad6c2b71a92223f9f22576eda0a9",
+      "origin": "ai"
+    },
+    "dataList[id=1041002].name": {
+      "pl": "Asymilacja E.G.O",
+      "kr_sha256": "10d25c8a548c78c7b5d214e81f7db116bfafb8bde7f6b92cd0ab3dec5b83bda7",
+      "en_sha256": "5ac2d932ba8373b530b4620a766972d0f061b5d6bb6c84010ec82ae4e4fa5568",
+      "origin": "ai"
+    },
+    "dataList[id=1041002].summary": {
+      "pl": "Zyskując Licznik Ładowania, zamiast tego zyskuje Czerwone Oko lub Pokutę",
+      "kr_sha256": "167e7d9049e34f95f533fe4931c5884b4ba95e8aa0ea8e108776c891e291b0ea",
+      "en_sha256": "6a67ac433c75cbf8f442d976c4568a29c0e314c010192622e611c30900e8ea6d",
+      "origin": "ai"
+    },
+    "dataList[id=1041011].desc": {
+      "pl": "Przy trafieniu wroga monetą zyskującą [RedEyeFirst]\n- zadaje +([RedEyeFirst]/2)% obrażeń\n<style=\"highlight\">- jeżeli Szybkość tej jednostki jest większa od celu o 3 lub więcej, zadaje dodatkowo +([RedEyeFirst]/2)% obrażeń</style>\n- jeżeli cel ma [Laceration], zyskuje 1 [RedEyeFirst] (maks. 3 na turę)\n\nPrzy trafieniu wroga monetą zyskującą [PenanceFirst]\n- zadaje +([PenanceFirst]/2)% obrażeń\n<style=\"highlight\">- jeżeli Poczytalność celu jest niższa, zadaje dodatkowo +([PenanceFirst]/2)% obrażeń (cele bez Poczytalności liczone jako 0)</style>\n- przy Poczytalności 20+ zyskuje 1 [PenanceFirst] (maks. 3 na turę)\n\n<style=\"highlight\">Przy trafieniu przez wroga zyskuje 1 [PenanceFirst] (maks. 3)</style>",
+      "kr_sha256": "18187f9fcab02575c3bfa55e62ba19be31e2a28b81156d669ea806a1a6e40eb4",
+      "en_sha256": "e439b53de1ec8d9d7107d53c213d4c96b53ebf63dbd52bdcd6929334e939ce1d",
+      "origin": "ai"
+    },
+    "dataList[id=1041011].name": {
+      "pl": "Pajęcza Łeba / Koścista Łeba",
+      "kr_sha256": "9ab5d89b556c4f5971625c0eb1c575fd2021b93e440be5a2f732db8a0d706148",
+      "en_sha256": "57380a65340cd4daf8c70945bc9f07170fdc3442a187fbe6f49572716a638d08",
+      "origin": "ai"
+    },
+    "dataList[id=1041011].summary": {
+      "pl": "Monety zyskujące Czerwone Oko zadają więcej obrażeń; jeżeli cel ma Krwawienie, zyskuje 1 Czerwone Oko\nMonety zyskujące Pokutę zadają więcej obrażeń; przy Poczytalności 20+ zyskuje 1 Pokuty\nPrzy trafieniu przez wroga zyskuje 1 Pokuty (maks. 3)",
+      "kr_sha256": "33b377ac106a88a70fcd2a1d22fd708ce30a93a9dd7518a33256ee1893854f3e",
+      "en_sha256": "33035c0b0b9569d6b332ed74fac5d98fa4ed4414417f61b14b9c446df8d83206",
+      "origin": "ai"
+    },
+    "dataList[id=1041021].desc": {
+      "pl": "Na początku walki:\n- 1 Sojusznik z najniższym procentem HP odzyskuje 3 HP\n- 1 Sojusznik z najniższą Poczytalnością odzyskuje 3 Poczytalności",
+      "kr_sha256": "fcc44f69a12aac59da0bb47473633b0e09987a370f0e2c8d802347ee5aafa486",
+      "en_sha256": "fdcd2f70880937994aeb80fecfcb46992834d6548451d9b4999317d82af70ce3",
+      "origin": "ai"
+    },
+    "dataList[id=1041021].name": {
+      "pl": "Jedz i Śpij",
+      "kr_sha256": "cf68133d3981fb9729228324eb922551bb1ad33e338c76db4a3de7bd7f20bb48",
+      "en_sha256": "44269a0e42c3e20f7a7a7dfe9c20fcb1af2b0d1c688fea1bb8c12c32fbd26212",
+      "origin": "ai"
+    },
+    "dataList[id=1041021].summary": {
+      "pl": "Odzysk HP dla 1 Sojusznika z najniższym procentem HP, odzysk Poczytalności dla 1 Sojusznika z najniższą Poczytalnością",
+      "kr_sha256": "ef9ef848485261d235b8aed631b6028b45d8549e81f3765e998b58a6aa9f9168",
+      "en_sha256": "e56a45c03bc4747a85cbaf1b4a9816fdfa5c47cad0ad1f514fd6ae3c7d5b19fd",
+      "origin": "ai"
+    },
+    "dataList[id=1041101].desc": {
+      "pl": "Jeżeli ta jednostka ma [LegStrength], zadaje +5% obrażeń",
+      "kr_sha256": "f4093c86bce721141f5d533448808228c03f2b110a9a11a1ec0d2e4c23c38d48",
+      "en_sha256": "d21837007cdfac388bc5da5e38dc68d2ed5f145837447912ad700c564dc1cda8",
+      "origin": "ai"
+    },
+    "dataList[id=1041101].name": {
+      "pl": "Mutacja Heishou [Mao]",
+      "kr_sha256": "09e3888b7eb365486e06d09e1ba2f88f038facf17da28f053598cf71c89563fa",
+      "en_sha256": "17f0f6b88920e1c5939d167d60349f77c2eeb48cb4be93e128e391c1c6593a2d",
+      "origin": "ai"
+    },
+    "dataList[id=1041111].desc": {
+      "pl": "Jeżeli ta jednostka ma [LegStrength], zadaje +5% obrażeń\nJeżeli cel ma [BurstAgility], zadaje +5% obrażeń",
+      "kr_sha256": "c52d14ba8c8f207accf6ef0f8ca6735569409dbfb791ea785699f954ff2c5765",
+      "en_sha256": "c54c743948c19446f5f3666867643c48fd4c9638dd08af016bb45ed853b6b014",
+      "origin": "ai"
+    },
+    "dataList[id=1041111].name": {
+      "pl": "Mutacja Heishou [Mao]",
+      "kr_sha256": "09e3888b7eb365486e06d09e1ba2f88f038facf17da28f053598cf71c89563fa",
+      "en_sha256": "17f0f6b88920e1c5939d167d60349f77c2eeb48cb4be93e128e391c1c6593a2d",
+      "origin": "ai"
+    },
+    "dataList[id=1041121].desc": {
+      "pl": "Na koniec tury 1 Sojusznik z najwyższą Szybkością zyskuje w następnej turze 2 [Agility]",
+      "kr_sha256": "03961db956474522cd3a7cecee3f125c8a8dd4cf7dbbb74b79b0ae597c3af846",
+      "en_sha256": "6b3bf9a434ca50c0a2324b1ba59bd4ac3d1ab0d542085dab9e0355863e44ec4a",
+      "origin": "ai"
+    },
+    "dataList[id=1041121].name": {
+      "pl": "Trening Częściowej Mutacji Heishou",
+      "kr_sha256": "7831c087568b9fe5d7f944bd9375754d0d09defdb5fdb93878f1d4ba71be9d43",
+      "en_sha256": "13a31274266e5ce220f2bddbab3a37e430cca82b04c15a72392d3d8d47ba3786",
+      "origin": "ai"
+    },
+    "dataList[id=1041201].desc": {
+      "pl": "Przy trafieniu wroga nakłada 1 [GazeRyoshu] (maks. 1 raz na turę na wroga)\n- Jeżeli ta jednostka ma [GazePersonality], nakłada o 1 więcej [GazeRyoshu]\n\nPrzy trafieniu przez wroga nakłada 1 [GazeRyoshu] na atakującego (maks. 1 raz na Umiejętność, 3 razy na turę)\n- Jeżeli ta jednostka ma [ContemptPersonality], gdy ostatnia moneta atakującego trafi, zadaje atakującemu obrażenia Lenistwa równe 10% obrażeń otrzymanych od tej monety (maks. 10 na Umiejętność, maks. 30 na turę)\n\nJeżeli ta jednostka zużyła podstawowymi Umiejętnościami ataku [GazeRyoshu] lub [ContemptRyoshu] wroga, zyskuje w następnej turze [GazePersonality] równy (zużyte [GazeRyoshu] wroga/2 + zużyte [ContemptRyoshu] wroga x 3) (maks. 6 na turę, zaokrąglone w dół)",
+      "kr_sha256": "356d085466b4d64afb9f8b46626b06322b17f616852c46ca547fe23174ecdfe0",
+      "en_sha256": "defc4a749c091d1e0b35c8d2c3ca53d582ab65a6d431ae989e321743117d8b07",
+      "origin": "ai"
+    },
+    "dataList[id=1041201].name": {
+      "pl": "@#$- ręka, której pozwoliłam ujść",
+      "kr_sha256": "abd7388a22c3fb9f1c1fd801cfa25d01dbcd0518ce063fffb940010fc12fb383",
+      "en_sha256": "938f874fb7e38b1393d369cd80af355b5b9973a45ada876117b94653dc9c2c71",
+      "origin": "ai"
+    },
+    "dataList[id=1041202].desc": {
+      "pl": "Po Ogłuszeniu zyskuje 4 [Protection] i zyskuje [ContemptPersonality] w następnej turze (1 raz na spotkanie)\n\nPo śmierci stosuje na 3 wrogach z największą liczbą [GazeRyoshu] lub [ContemptRyoshu] (w walce skupionej: częściach ciała) poniższe efekty:\n- Nakłada w następnej turze 2 [Binding]\n- Nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 1\n- Nakłada 2 [Vibration] i zwiększa Licznik [Vibration] o 1",
+      "kr_sha256": "d72788ae24ebd8ec9a2664bb5c0fae7089018850e4be6b4f4e0f333d1524334c",
+      "en_sha256": "e9db6cfa6534ec4a7ccdb1eca8b91c552ae0bc5425bc00a9c62dd23c6f3e73ce",
+      "origin": "ai"
+    },
+    "dataList[id=1041202].name": {
+      "pl": "Uchwyt Nie Pozwalający Paść",
+      "kr_sha256": "eeac48b083546ddfd5991fd4dec320d4761f5795d71f505c83475f369427d04d",
+      "en_sha256": "28f47632709f1bc55aa457b614dc31f19dbb7452f6d26e18a1f2fe3c6d43e146",
+      "origin": "ai"
+    },
+    "dataList[id=1041203].desc": {
+      "pl": "Na początku walki Umiejętność „Korekta Celowania Ogniem” E.G.O N Corp.::<noparse>Przebity Pocisk</noparse> Yi Sang zyskuje poniższe efekty:\n- Przed użyciem Umiejętności, jeżeli E.G.O N Corp.::<noparse>Pogarda</noparse>, Groza Ryōshū ma [ContemptPersonality] i może użyć podstawowych Umiejętności, używa „Przyjmę Ostrzał / Zawsze” na Ryōshū (1 raz na turę; „Przyjmę Ostrzał / Zawsze” odzwierciedla poziom Uptie Yi Sanga)\n- Przed użyciem Umiejętności, jeżeli głównym celem nie jest E.G.O N Corp.::<noparse>Pogarda</noparse>, Groza Ryōshū i ona może użyć podstawowych Umiejętności, Ryōshū używa swojej Umiejętności 1 jako ataku nieopartego na głównym celu (1 raz na turę; [CantIdentify]; Umiejętność 1 zadaje -50% obrażeń; ta Umiejętność nie zabija głównego celu)",
+      "kr_sha256": "7beb1d54f75c91d461a5900d86b563ba5fd3a37f7885fae523a8b56c34c9243e",
+      "en_sha256": "0a7734e576bdb6dee2674797f9187fbbbc16e61e2c30189b6740ba6e8ff9fba0",
+      "origin": "ai"
+    },
+    "dataList[id=1041203].name": {
+      "pl": "Pokażmy wszystkim coś bardzo ciekawego",
+      "kr_sha256": "f540109186cdacfd6e403a581b9a3cdb437eae086b9f35acc10806f3db180c62",
+      "en_sha256": "26244f4b3da58d4b2fde0765bc05dee227c0421b6b4632ef74b5878ac5c3d09c",
+      "origin": "ai"
+    },
+    "dataList[id=1041211].desc": {
+      "pl": "Przy trafieniu wroga nakłada <style=\"highlight\">2</style> [GazeRyoshu] (maks. 1 raz na turę na wroga)\n- Jeżeli ta jednostka ma [GazePersonality], nakłada o 1 więcej [GazeRyoshu]\n\nPrzy trafieniu przez wroga nakłada 1 [GazeRyoshu] na atakującego (maks. 1 raz na Umiejętność, 3 razy na turę)\n- Jeżeli ta jednostka ma [ContemptPersonality], gdy ostatnia moneta atakującego trafi, zadaje atakującemu obrażenia Lenistwa równe <style=\"highlight\">20</style>% obrażeń otrzymanych od tej monety (maks. <style=\"highlight\">20</style> na Umiejętność, maks. <style=\"highlight\">60</style> na turę)\n\nJeżeli ta jednostka zużyła podstawowymi Umiejętnościami ataku [GazeRyoshu] lub [ContemptRyoshu] wroga, zyskuje w następnej turze [GazePersonality] równy (zużyte [GazeRyoshu] wroga/2 + zużyte [ContemptRyoshu] wroga x 3) (maks. 6 na turę, zaokrąglone w dół)",
+      "kr_sha256": "3dfa1747b62a46b494c2b8afac1ca39bcfa7b5d5d7899fd84fc280f20f282d3b",
+      "en_sha256": "e976a56eb46b42109ff733fc20fab6c1539e66c4a653331336c4e6d09135f410",
+      "origin": "ai"
+    },
+    "dataList[id=1041211].name": {
+      "pl": "@#$- ręka, której pozwoliłam ujść",
+      "kr_sha256": "abd7388a22c3fb9f1c1fd801cfa25d01dbcd0518ce063fffb940010fc12fb383",
+      "en_sha256": "938f874fb7e38b1393d369cd80af355b5b9973a45ada876117b94653dc9c2c71",
+      "origin": "ai"
+    },
+    "dataList[id=1041221].desc": {
+      "pl": "Gdy 1 Sojusznik przydzielony najwcześniej trafia wroga atakiem, nakłada 1 [Laceration] (maks. 1 raz na turę na wroga)\n- Jeżeli cel ma [Laceration], dodatkowo zwiększa Licznik [Laceration] o 1\n\nGdy 1 Sojusznik przydzielony najwcześniej zostaje trafiona przez wroga, nakłada 1 [Vibration] na atakującego (3 razy na turę)\n- Jeżeli atakujący ma [Vibration], dodatkowo zwiększa Licznik [Vibration] o 1",
+      "kr_sha256": "44102d68212ea66f90c779f02dc3b5b23d4bd2f7e867f85cbbeac43ffe6e0581",
+      "en_sha256": "c533b8fc146c0c4a2bf84f66bdaf21f9e6d0f896e02c5181c5dc3a16d133e9b4",
+      "origin": "ai"
+    },
+    "dataList[id=1041221].name": {
+      "pl": "To płynie i jęczy",
+      "kr_sha256": "308ae54ab1bdae25d4f5ae57d266ca353350f6709da11aa7856a3ec75cddeb77",
+      "en_sha256": "cdfc46e1bb35bbafb2569bdfb4ca3bac648506ad75d19b94db21c113b22e95f0",
+      "origin": "ai"
+    },
+    "dataList[id=1041221].summary": {
+      "pl": "Przy trafieniu nakłada [Laceration]; jeżeli cel już go ma, dodatkowo zwiększa Licznik\nPrzy trafieniu przez wroga nakłada [Vibration]; jeżeli cel już go ma, dodatkowo zwiększa Licznik",
+      "kr_sha256": "208c8aef714ffbd70fe7e3268620fb5247cde02c8010875b907c704fe192b89f",
+      "en_sha256": "cb8c86105f16ecb4cab515ed782d1d685995095a946c53900afd36d4bf200652",
+      "origin": "ai"
+    },
+    "dataList[id=1041301].desc": {
+      "pl": "Jeżeli sojusznik ginie od ataku wroga lub jego HP po ataku spada poniżej 25%, na koniec tego ataku Wędrowne Ostrze Hongyuan Ryōshū używa „Cios Wsparcia” jako ataku nieopartego na tym wrogu (1 raz na spotkanie)\n- Władca Hongyuan Hong Lu może dodatkowo uruchomić ten efekt 1 raz ponad limit\n\nGdy „Hej, Odstąp” uruchamia się dzięki pasywce „I. L. T. L. T.”, ta Umiejętność zadaje +30% obrażeń przy trafieniu krytycznym i odzyskuje 2–4 Poczytalności 1 innemu Sojusznikowi z najniższą Poczytalnością (1 raz na turę; wyłączając sojuszników z Poczytalnością -40 lub niższą)",
+      "kr_sha256": "c30e01a1fe1167437f41b93039ec9732b12a4fd87f3f3273f3e2de5b65458e91",
+      "en_sha256": "3e86ed6540c44b29600d81660bd194dda70f9baeca9b70faa3b82f4aec847de6",
+      "origin": "ai"
+    },
+    "dataList[id=1041301].name": {
+      "pl": "Wierny Wojownik",
+      "kr_sha256": "84933e2960ff3499a6d7ccac5c47f38c1fc12beec40ea7dc43dc5fabbffb06e7",
+      "en_sha256": "3911a0c912b16d60e812d864c87bd14c6f2e2e1a9272814eab6d57172b1c9466",
+      "origin": "ai"
+    },
+    "dataList[id=1041301].summary": {
+      "pl": "Gdy sojusznik otrzyma śmiertelne obrażenia, używa Umiejętności 3 na atakującym. Wzmacnia Umiejętność 1 uruchamianą pasywką Zawsze aktywne",
+      "kr_sha256": "fa37523b7180dd504b98b46d9ab97e737c9479cd5c49af35ffca8079a81e5f41",
+      "en_sha256": "05023e7e0e2acd941303ac647fa16f8104e7dbfb2098c713ceaaff9479d96556",
+      "origin": "ai"
+    },
+    "dataList[id=1041302].desc": {
+      "pl": "Gdy Umiejętność innego sojusznika trafi wroga, na koniec tego ataku używa „Hej, Odstąp” jako ataku nieopartego (1 raz na turę)\n\nW turze, w której ta jednostka weszła na pole przez Wejście z rezerwy lub Powrót, zyskuje 2 [ProtectStanceRyoshu]\nGdy otrzymuje rozkaz ataku nieopartego od pasywki „Heishou Lord” Władcy Hongyuan Hong Lu, liczy się jako frakcja Watahy Heishou lub Rodu Jia",
+      "kr_sha256": "dddcdf497a3ddbbb7955b54d4d46ee7d5b9d7bcb0f27146a93316a89cbce2cfd",
+      "en_sha256": "789bf711625503f8957fbdcd44f1c99c39b8b075c1831358081c77d3143da67e",
+      "origin": "ai"
+    },
+    "dataList[id=1041302].name": {
+      "pl": "I. L. T. L. T.\n(Najchętniej Kroczyłbym Drogą\nWładcy Ramię w Ramię.)",
+      "kr_sha256": "1c417c673c35ce0cb2525a17eea1ac8303fb6208a432bd5cbdbea58ba1672309",
+      "en_sha256": "a32cec1f8893849c9a750e2ef554a9f9bf2977d175d6787eded9fa5952f17758",
+      "origin": "ai"
+    },
+    "dataList[id=1041302].summary": {
+      "pl": "Używa Umiejętności 1 jako ataku nieopartego na wrogu zaatakowanym przez sojusznika",
+      "kr_sha256": "cbcd45438207dbe2117f28b960c46244af57dd90163b5e87724b7d8420ef7d21",
+      "en_sha256": "d4866302231b18fc9e3a37f676ea416a02c7861d45fbfa3135a181b1998091d7",
+      "origin": "ai"
+    },
+    "dataList[id=1041321].desc": {
+      "pl": "Na początku walki 1 Sojusznik przydzielony najwcześniej zyskuje 1 Tarczy za każde 1 własnej Mocy [Breath] (maks. 10)",
+      "kr_sha256": "c0adb88dd91cb137e861b30ce79f3887e3d2c6b7635ae9dc79686b74c6dab9ec",
+      "en_sha256": "919cf9bc0de5685d3bfea0579f16067319feb9da0caa75f60537960fc5a43228",
+      "origin": "ai"
+    },
+    "dataList[id=1041321].name": {
+      "pl": "Wędrowiec",
+      "kr_sha256": "0f4315b16094de4fad2759acd808e0b83cc53793da7f2c3c3d6672e7abd9ed16",
+      "en_sha256": "c89cf5e4dfd1e990e4e8c2e8c4e4762993e5c63eeefae0affb0cbe9702fb03ce",
+      "origin": "ai"
+    },
+    "dataList[id=1041401].desc": {
+      "pl": "Gdy wróg otrzymuje obrażenia [Sinking], zyskuje 1 [AlriuneEGOWe]\nZyskuje [AlriuneEGOWe] równy nakładanym [AlriuneEGOThey] za każdym razem, gdy wrogowie zyskują [AlriuneEGOThey]\nGdy wywołany zostaje [VibrationExplosion], zyskuje 2 [AlriuneEGOWe]",
+      "kr_sha256": "63fc86365348be01e43b483183cc62c8460bc524eb67b471155058c2c6edda1e",
+      "en_sha256": "9691de3665116160665bf93682cb3ed8f7846b3ad86e7c3257d3e7fb994a5dc3",
+      "origin": "ai"
+    },
+    "dataList[id=1041401].name": {
+      "pl": "Nieześwieżający Kwiat",
+      "kr_sha256": "b52c07986d32af24dd4b5afe9991983420a74b1190021a06fd848a91663491e5",
+      "en_sha256": "5b3a762139ab33046fdc62911828e53c33247102d657e6f12d299ae5dd051d3e",
+      "origin": "ai"
+    },
+    "dataList[id=1041401].summary": {
+      "pl": "Zyskuje [AlriuneEGOWe]",
+      "kr_sha256": "9e3d03e73cd2f5459b9048f67e833ed711ab2212658b58efa7a9c6514dd7f1b2",
+      "en_sha256": "086c1f5948e729b01a51fb44160e3f85a288da3f919f9b9329afb8814eea9299",
+      "origin": "ai"
+    },
+    "dataList[id=1041402].desc": {
+      "pl": "Zawsze aktywne: rozpoczyna spotkania z 6 [BulletGodok]\n\nPrzy 1+ [BulletGodok], jeżeli na koniec ataku tej jednostki lub sojusznika wróg ma Poczytalność poniżej -40 albo jest Ogłuszony, używa „Kabum. Kabum.” jako ataku nieopartego (1 raz na turę)\n\nNa koniec ataku przy 0 [BulletGodok] używa „Historie, Które Nie Ustają” jako ataku nieopartego na celu i zużywa 10 Poczytalności, aby [FullReload]",
+      "kr_sha256": "62ca71bf789181319e414667d8722cb1a1ddbb401ab23dd1d84cfbdf1356b224",
+      "en_sha256": "6a473c61995cee26da57b55902dabb9a27c7162c047ac0696b0e80effbcf34fb",
+      "origin": "ai"
+    },
+    "dataList[id=1041402].name": {
+      "pl": "Pustka, Której Nie da się Wypełnić",
+      "kr_sha256": "68c6af505d65502d75e3da2d129f3ce39fc7de2e53dc8832390569776b962533",
+      "en_sha256": "0a444a75b72be4727555714e0581ca47785ba697186c0139f7be1756ddc60288",
+      "origin": "ai"
+    },
+    "dataList[id=1041402].summary": {
+      "pl": "Uruchamia „Umiejętność 1-1” i [FullReload]",
+      "kr_sha256": "2873646f51ad44635104b3f8f4a8821efbb63d30add975b954cfc37f2287711f",
+      "en_sha256": "f71c1acffc63dc7dc7f67b89908eb71487fe7b60371ade944273539791dc0ff9",
+      "origin": "ai"
+    },
+    "dataList[id=1041411].desc": {
+      "pl": "Gdy wróg otrzymuje obrażenia [Sinking], zyskuje 1 [AlriuneEGOWe]\nZyskuje [AlriuneEGOWe] równy nakładanym [AlriuneEGOThey] za każdym razem, gdy wrogowie zyskują [AlriuneEGOThey]\nGdy wywołany zostaje [VibrationExplosion], zyskuje 2 [AlriuneEGOWe]\n\nNa koniec Umiejętności ataku przy 30+ [AlriuneEGOWe] uruchamia „Wspaniałomyślny Koniec” na celu z najwyższym Stosem [AlriuneEGOThey]\n\nZadaje +([AlriuneEGOThey] celu)% obrażeń Ogłuszonym celom\n\nJeżeli ta jednostka straciła w tej turze 10%+ HP, odzyskuje 3% HP i 10 Poczytalności (1 raz na turę)",
+      "kr_sha256": "a4b7e36456ae8d8fb7e773b515261468c4afac3cb213ae95770d4194484bc630",
+      "en_sha256": "23a98d66096dcf1cbabc398216e26c4bebd728ebfabae9ac40722f906f77d326",
+      "origin": "ai"
+    },
+    "dataList[id=1041411].name": {
+      "pl": "Nieześwieżający Kwiat",
+      "kr_sha256": "b52c07986d32af24dd4b5afe9991983420a74b1190021a06fd848a91663491e5",
+      "en_sha256": "5b3a762139ab33046fdc62911828e53c33247102d657e6f12d299ae5dd051d3e",
+      "origin": "ai"
+    },
+    "dataList[id=1041411].summary": {
+      "pl": "Zyskuje [AlriuneEGOWe]",
+      "kr_sha256": "9e3d03e73cd2f5459b9048f67e833ed711ab2212658b58efa7a9c6514dd7f1b2",
+      "en_sha256": "086c1f5948e729b01a51fb44160e3f85a288da3f919f9b9329afb8814eea9299",
+      "origin": "ai"
+    },
+    "dataList[id=1041421].desc": {
+      "pl": "Gdy 1 Sojusznik z najwyższą Szybkością trafia wroga Umiejętnością nakładającą Moc, Licznik [Sinking] lub „Specjalne Zatopienie”[TabExplain], nakłada 2 [Vibration] i wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1 (1 raz na turę)",
+      "kr_sha256": "8f0eb06282ce8322fdb5ef523c6b24df1562b99df6cd51b702c975901a4dadce",
+      "en_sha256": "3457745ca6f218e734a6d3982442489465e0956a7a1e33a82432637ed2fa0871",
+      "origin": "ai"
+    },
+    "dataList[id=1041421].name": {
+      "pl": "Narodziny Wiosny",
+      "kr_sha256": "e31db2813c0f1817f56ff47c6851b03993c59553303db760d8f06f1b9a638d4a",
+      "en_sha256": "2654a2b7a218f86c7b8de7289b7cbd74f3d2d7970bbda49c49fdc6d7ea83b2e1",
+      "origin": "ai"
+    },
+    "dataList[id=1041421].summary": {
+      "pl": "Nakłada [Vibration], wywołuje [VibrationExplosion]",
+      "kr_sha256": "cdc9369c36a82396ab7088ab40df1952a80f1226b991acbff59c499331d7f344",
+      "en_sha256": "53e212c686154a8f9bfbd38e25e3e6208f0a3b0b24b209e8e8541eab749bfae4",
+      "origin": "ai"
+    },
+    "dataList[id=1041501].desc": {
+      "pl": "Zadaje +1% obrażeń przy trafieniu krytycznym podstawowymi Umiejętnościami ataku za każde 1 nadwyżki [Breath] ponad 20 (maks. 10%)\nPrzy trafieniu krytycznym podstawowymi Umiejętnościami ataku nakłada 1 [PhantomIncisionID]\n\nPasywka „Trzy Tysiące Wielkiego Świata” E.G.O Ryōshū[TabExplain] może zostać uruchomiona Umiejętnościami ataku namierzającymi sojuszników",
+      "kr_sha256": "2cfa72d3c886f5368d657d5d7702d88837637aa5649888e5079bcf7d2159bcff",
+      "en_sha256": "15e6701933c740b3ef095a99f769407322d9fa4c1f9753b9ebe27fdb59429f44",
+      "origin": "ai"
+    },
+    "dataList[id=1041501].name": {
+      "pl": "Rezonans Fantoma",
+      "kr_sha256": "6b762c1ea607820eb62a6c7534bfd765f16eac05b0a043873226fa3709f7d195",
+      "en_sha256": "c788695904f9a00aefe8c18b567aa16d402c60922b1953354c3a401cbe7ce1de",
+      "origin": "ai"
+    },
+    "dataList[id=1041501].summary": {
+      "pl": "Zadaje więcej obrażeń przy trafieniu krytycznym[TabExplain], nakłada [PhantomIncisionID] przy trafieniu krytycznym",
+      "kr_sha256": "792969b60c9dc6fc1a4902df7717d1524db7cf9b079fb3234cecf981ceadaaa9",
+      "en_sha256": "fa9fe58466f687384f486ad8efaa003f3108b5fd64d9da36118565affc3007e3",
+      "origin": "ai"
+    },
+    "dataList[id=1041502].desc": {
+      "pl": "Przy pierwszym pojawieniu się na polu zyskuje 0 [SojiRyoshuEchoPast] i 0 [SojiRyoshuEntangle]\n\nPrzy pierwszym pojawieniu się na polu, za każde 3 Tożsamości Domu Pajęczyn w składzie (łącznie z tą jednostką), podnosi minimalny i maksymalny stos [SojiRyoshuEchoPast] o 1 (maks. 3)\n\nJeżeli jakakolwiek sojusznicza Tożsamość Domu Pajęczyn jest na polu, przenosi otrzymane obrażenia HP na sojuszniczą Tożsamość Domu Pajęczyn z najniższym obecnym procentem HP\n\nGdy ta jednostka otrzymuje obrażenia redukujące HP do 0, jej HP nie spada poniżej 1 w tej turze (1 raz na spotkanie)\n\nGdy sojusznicza Tożsamość Domu Pajęczyn ginie, stosuje poniższe efekty:\n- Zyskuje 1 [SojiRyoshuEchoPast]\n- Na czas tego spotkania zyskuje dodatkowe efekty zależnie od tego, która Tożsamość Domu Pajęczyn została pokonana\n · Wyroczni Abi Yi Sang Domu Pajęczyn: przy użyciu podstawowej Umiejętności ataku ostatnia moneta zmienia się w [SuperCoin]. Zadaje +10% obrażeń monetami [SuperCoin] podstawowych Umiejętności ataku\n · Pełnomocnik Wskazującego - Rozkwita E.G.O::Pełnomocnictwo Don Quixote: przy użyciu podstawowej Umiejętności ataku zyskuje 2 [Breath]. Przy trafieniu krytycznym podstawowymi Umiejętnościami ataku nakłada 1 [Sinking]\n · Środkowego Uczeń Ishmael Domu Pajęczyn: Poziom obrony +2. Nakłada o 1 więcej Mocy [Combustion] podstawowymi Umiejętnościami\n · Ringu Abi Hong Lu Domu Pajęczyn: zyskuje [MelodyBodyArt]\n · Ringu Uczeń Faust Domu Pajęczyn: na początku każdej tury zyskuje Tarczę równą 10% HP\n · Wyroczni Mały Palec Uczeń Sinclair Domu Pajęczyn: na początku każdej tury zyskuje +1 Licznika [Breath] i 1 [CriticalDamageUp]\n\nGdy nie ma już Tożsamości do Wejścia z rezerwy lub Powrotu, Ostrze Domu Pajęczyn Ryōshū zyskuje +1 slot Umiejętności za każde 3 pokonane sojusznicze Tożsamości Domu Pajęczyn (maks. 3 razy)\n- Ten efekt nie może zwiększyć slotów Umiejętności ponad maksymalny limit slotów tego spotkania\n- Dla niektórych treści ten efekt może się uruchomić, ignorując ograniczenie zwiększania slotów Umiejętności tych treści\n\nTa Tożsamość liczy się wyłącznie jako „Tożsamość nakładająca [Combustion], [Laceration] i [Breath]”[TabExplain]\n\nPo spełnieniu warunków zmienia muzykę walki na czas tego spotkania (wyłączając niektóre walki)",
+      "kr_sha256": "70ee4026a7db930d2f26fa9b2966b80ab51e8a20a04e0f251df5dee645370404",
+      "en_sha256": "3f09841dac8202779553a6e0ab61d2951b0037c8daf1815f8f9d66fbc9c6f65e",
+      "origin": "ai"
+    },
+    "dataList[id=1041502].flavor": {
+      "pl": "„To, czego boję się ujrzeć ponownie, zawsze wraca. To, czego tęsknie pragnę ujrzeć ponownie, nie wraca nigdy”.\n„Dlatego też w chwili ponownego spotkania trzeba nabrać zimnej krwi i stwardnieć sercem”",
+      "kr_sha256": "560c6a660564426dfc9574d91fb221587105dd7d5d7fcb2804e7de3f13b6ea99",
+      "en_sha256": "717209e70496d4a6fdca3555c1831dc6f9989e17209f9b3e92a51d09920f1bc0",
+      "origin": "ai"
+    },
+    "dataList[id=1041502].name": {
+      "pl": "Saikai [再会]",
+      "kr_sha256": "9b312a92fbfa784019a86b24e93c47a11f858f7067d22dcbc46ba025d6ce83cb",
+      "en_sha256": "270751727e7f6ec04fa882d53d3e3dc4ffd0dd34820c35c4dd0297b2336d39d6",
+      "origin": "ai"
+    },
+    "dataList[id=1041502].summary": {
+      "pl": "Przenosi otrzymane obrażenia na Tożsamości Domu Pajęczyn",
+      "kr_sha256": "4c3678b0321f6a0f46d336a8ef16f295ad63163980f5061e8bfb8b55035add8d",
+      "en_sha256": "e6df45ce60da226bc2a4ff9f263dc541d308a1d186234cad3de2b1a81ecf4b04",
+      "origin": "ai"
+    },
+    "dataList[id=1041503].desc": {
+      "pl": "Przy 50+ [PhantomIncisionTotalID] uruchamia „Rozprucie Przestrzeni - Połączenie” na 1 losowym wrogu na samym końcu tury (1 raz na spotkanie)\n- Po użyciu „Rozprucia Przestrzeni - Połączenie” tym efektem stosuje na sobie poniższe efekty:\n· Na czas tego spotkania nie może się wycofać\n· Na koniec tury przy 50+ [PhantomIncisionTotalID] zamienia podstawową Umiejętność w „Rozprucie Przestrzeni - Echoshear” na początku następnej tury (najpierw Umiejętność z lewego dolnego slotu Panelu Sterowania)",
+      "kr_sha256": "17c3a2d4c7504e5212d009fa235bc65795ec8d8628e7f8eeb4642c198b5cb834",
+      "en_sha256": "2d0c6bf8ef929e888a136b973956587503e1c5095ff08d3b90da05011d4835bd",
+      "origin": "ai"
+    },
+    "dataList[id=1041503].flavor": {
+      "pl": "„Miecz Gwiazdy Dihui i Miecz Gwiazdy Tiansha. Skoro nie jedno, lecz <i>dwa</i> ostrza wykute w gwiazdy spoczęły w Twoich dłoniach, kuszę się spytać: czyje imię Gwiazdy mogłoby Cię godnie przedstawić?”\n„Twoja Wyrocznia niechybnie też opowiedziała Ci historię — o Gwiazdach, które u kresu zaborczości zostały połamane i ścięte. Tak więc wybierz spośród tych dwóch mieczów jeden jedyny”",
+      "kr_sha256": "6b487611a3cd0f22f687a183f29ce503c0dd7fdfe36584f258bbc338c195d139",
+      "en_sha256": "adadff4ee9b96683349b96ff356e57e1a70b445d630bd29f2e4d935f3a562e9a",
+      "origin": "ai"
+    },
+    "dataList[id=1041503].name": {
+      "pl": "Gwiazda Dihui [地慧星]",
+      "kr_sha256": "bf152d9fc2cb3e950c0ff7ba00493c2444025438d90350202a0b29c42d44dd71",
+      "en_sha256": "410ae58210f741366ba17d5eb84d63e8a050c1048d98a313a110a04adfee43f3",
+      "origin": "ai"
+    },
+    "dataList[id=1041504].desc": {
+      "pl": "Na początku tury nakłada [SojiRyoshuEchoFuture] na 1 losowego wroga (w walce skupionej: na trzon)\n- Za każde 3 pokonane sojusznicze Tożsamości Domu Pajęczyn nakłada dodatkowo [SojiRyoshuEchoFuture] na 1 losowego wroga (maks. 3)\n- Na początku walki jeżeli wrogowie z [SojiRyoshuEchoFuture] są głównym celem podstawowych Umiejętności ataku tej jednostki, przed użyciem tej Umiejętności używa „Nieuchronnej Egzekucji” jako ataku nieopartego (1 raz na turę)\n- Przy użyciu podstawowej Umiejętności ataku na celu z [SojiRyoshuEchoFuture],\n · wszystkie monety tej Umiejętności zmieniają się w [SuperCoin] i zyskuje Moc Końcową +1\n · zyskuje 1 [SojiRyoshuEchoPast] (1 raz na turę)",
+      "kr_sha256": "ca2c4c64ac2a21f7f3e4f02c9606d592c7cf36603605d95f52ec6744a1b5e6a8",
+      "en_sha256": "7a171b116aa5e1e78b1e3a02e903da7689c54a2a7fa200fe817c1fa277e6cf8e",
+      "origin": "ai"
+    },
+    "dataList[id=1041504].flavor": {
+      "pl": "„Wystrzępić się bez końca, spojrzeć w twarz każdej utkanej przyszłości, i znów przeciąć w każdej z tych przyszłości...”\n„Tyle rozedrgań przetrwać, nie tracąc siebie... Spora otucha”",
+      "kr_sha256": "2820e06cb42c046ed9250acf5af917ad6adcf26c4214e93e071dba32057687ab",
+      "en_sha256": "353fd446dc02abc29353c97adbe453bc220ea7d3b853496c6ed9d8e9575d2c4b",
+      "origin": "ai"
+    },
+    "dataList[id=1041504].name": {
+      "pl": "Rozpad Fantomu Czasoprzestrzeni",
+      "kr_sha256": "02a23e3460ee439323fe0fcb80a9985c5e06e96d20642439d2202a66e35402ef",
+      "en_sha256": "e6e38e122b997a0c1350f4075165f05d465d9aa28535058e6da733c19d26bf5f",
+      "origin": "ai"
+    },
+    "dataList[id=1041521].desc": {
+      "pl": "Gdy 1 Sojusznik przydzielony najwcześniej użyje podstawowej Umiejętności, zyskuje 2 Mocy [Breath] (3 razy na turę)",
+      "kr_sha256": "25c9ebaeb70ffc2f3562d25d07fd4dc2cc0a5017eb8d40f6c6c531325ce13429",
+      "en_sha256": "786d7f6d52d0583a1c3ffcb136b522897e386a75bc1237ce1ce3080e3de0bb3f",
+      "origin": "ai"
+    },
+    "dataList[id=1041521].name": {
+      "pl": "Nauki Mistrza [師事]",
+      "kr_sha256": "cd148e5da0ed364889eb7ab033602b432f7034106626c3467e1081b7363038a5",
+      "en_sha256": "4120c21ea7aec5185308c067e5c475e553c3b3906efd12f37fe6d40a9e1b9535",
+      "origin": "ai"
+    },
+    "dataList[id=1041601].desc": {
+      "pl": "Gdy wywołuje [VibrationExplosion] na wrogu, podniesienie Progu Oszołomienia +15%\n- Przy 12+ Liczniku [ChargeNoirAlly] zamiast tego zużywa 1 Licznika [ChargeNoirAlly] przy wywołaniu [VibrationExplosion], aby podnieść Próg Oszołomienia o +30% (efekt stosowany per cel)\n\nGdy zostaje trafiona, jeżeli ma Tarczę, nakłada 2 Mocy [Vibration] na atakującego wroga (2 razy na turę per wróg)",
+      "kr_sha256": "1ccbd194942f83918764b65fa5c619e286b405af9de4edd66104a85688eaa22f",
+      "en_sha256": "bd9d198cd3011a2fd5baec5952c2d1853c6381336a0752f520227c4eeba0ed10",
+      "origin": "ai"
+    },
+    "dataList[id=1041601].flavor": {
+      "pl": "Le Noir wierzy, że gwałtownymi wstrząsami może zburzyć wartość przeciwnika — im mocniej drga, tym więcej zmian przechodzi z chwili na chwilę. Techniki walki Le Noir zbudowano właśnie na tym przekonaniu.\n\nA choć Le Noir nie pamiętają ani nie doświadczyły tego same, poza Dzielnica Sisyphe istnieją techniki walki oparte na tej samej zasadzie, które od tamtej pory rozwinęły się znacznie dalej.",
+      "kr_sha256": "3a1fba05ecc5c50640f64288eaff4d268ea5058cf9284d6cf8c7dffdbb02764c",
+      "en_sha256": "97b292b9ee8ed66a2cb7748b254e19f2f2be96183ae5667bf2d952f57b312a6b",
+      "origin": "ai"
+    },
+    "dataList[id=1041601].name": {
+      "pl": "Deprawiacja",
+      "kr_sha256": "46788e842e85b230e137ab0d746ee7d795d050ea165cbfb9d6edc11ee32e9bb9",
+      "en_sha256": "aac77df347205252b074d45aff7891debdba0ff1466cc0c351416d1662bb71ab",
+      "origin": "ai"
+    },
+    "dataList[id=1041601].summary": {
+      "pl": "Podnosi podniesienie Progu Oszołomienia",
+      "kr_sha256": "59b79b248c23dcb3547daed6d2b6bbbe944c7dda3bbbc018995fcd5e036039c9",
+      "en_sha256": "3aa722c34822886ee78c773fbfb3a81015452a7351b0b8df61910e5b893ebe92",
+      "origin": "ai"
+    },
+    "dataList[id=1041602].desc": {
+      "pl": "Przy wejściu na pole zyskuje 25 [NoirSuitAlly]\n\nNa początku tury zyskuje Tarczę równą (([NoirSuitAlly]\n+ [RealisationAlly]) / 5)% Maks. HP",
+      "kr_sha256": "08eac26e93275129039c801372c63b1df979723f1389c7ec1ac8f0ba00540812",
+      "en_sha256": "e7b21ed57f0858981672457ea4c4d159a1a901d915dcef06ede8c66d155b7ef8",
+      "origin": "ai"
+    },
+    "dataList[id=1041602].name": {
+      "pl": "Le Noir: Tkanina Gabardyna",
+      "kr_sha256": "89055c7f49804cf56f956f4f1e95db52889fd28eeb33a0ad52d45117c4a7ff31",
+      "en_sha256": "32e99135dc38466ce02b1aa60cb99629d5ae47ef0c14edfc7d0f87bacf861f62",
+      "origin": "ai"
+    },
+    "dataList[id=1041602].summary": {
+      "pl": "Zyskuje Tarczę",
+      "kr_sha256": "7ee780d6b38f4aa70619af5d0c85a68787fcc1f3067a943b19015df77ba80acd",
+      "en_sha256": "902b85cbdfa489344589ffd2b3d416fb3623c15ae37866cc752b8c183008266c",
+      "origin": "ai"
+    },
+    "dataList[id=1041603].desc": {
+      "pl": "Przy wejściu na pole zyskuje 25 [NoirSuitAlly]\n\nNa początku tury\n- zyskuje Tarczę równą (([NoirSuitAlly]\n+ [RealisationAlly]) / 5)% Maks. HP\n- jeżeli ma [RealisationAlly], „Potrójny Podbijany Ścieg” stosuje się jako „Jedno Kopnięcie - Couture Multiple”",
+      "kr_sha256": "63223edd1b39872eace86d6ceaef22e56e4531a1bcdf8a0771267b77734d6cf9",
+      "en_sha256": "dd1bea1020aa92b6f02b1f7f04f9125bd15db5aea5a4346eb37f71ebc4d27892",
+      "origin": "ai"
+    },
+    "dataList[id=1041603].name": {
+      "pl": "Le Noir: Tkanina Gabardyna",
+      "kr_sha256": "89055c7f49804cf56f956f4f1e95db52889fd28eeb33a0ad52d45117c4a7ff31",
+      "en_sha256": "32e99135dc38466ce02b1aa60cb99629d5ae47ef0c14edfc7d0f87bacf861f62",
+      "origin": "ai"
+    },
+    "dataList[id=1041603].summary": {
+      "pl": "Zyskuje Tarczę",
+      "kr_sha256": "7ee780d6b38f4aa70619af5d0c85a68787fcc1f3067a943b19015df77ba80acd",
+      "en_sha256": "902b85cbdfa489344589ffd2b3d416fb3623c15ae37866cc752b8c183008266c",
+      "origin": "ai"
+    },
+    "dataList[id=1041604].desc": {
+      "pl": "Za każde łączne zużycie 10 własnego Licznika [ChargeNoirAlly] podczas walki zyskuje 1 Mocy [ChargeNoirAlly]\n\nNa koniec tury poniżej 3 Mocy [ChargeNoirAlly] zużywa całe Liczniki [ChargeNoirAlly], aby zyskać (zużyta wartość x 5) Tarczy w następnej turze\n\nPrzy 3+ Mocy [ChargeNoirAlly] podstawowe Umiejętności tej jednostki zyskują o 1 więcej Licznika [ChargeNoirAlly], gdy ma poniżej 12 Licznika [ChargeNoirAlly]\n\nPrzy użyciu podstawowej Umiejętności ataku,\n- Jeżeli cel ma 6+ Mocy [Vibration], Moc Monet +1\n- Przy 3+ Mocy [ChargeNoirAlly] Moc Monet +1\n- Zadaje +(własna Moc [ChargeNoirAlly] x 2)% obrażeń (maks. 10%)\n· Jeżeli tą Umiejętnością jest „Potrójny Podbijany Ścieg” albo „Jedno Kopnięcie - Couture Multiple”, zamiast tego zadaje +(własna Moc [ChargeNoirAlly] x 4)% obrażeń (maks. 20%)",
+      "kr_sha256": "494cb89f85b7c2a1684d192e43ec7ec6c95bc22563e8d19cbb109a2d3db4dadb",
+      "en_sha256": "58ac2b6e4a0eff3bfe05c5a78ec697d4c3a082f2bc389c2c777582cc53636412",
+      "origin": "ai"
+    },
+    "dataList[id=1041604].name": {
+      "pl": "Zachowanie",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "e43f60bbc4e69bac962d92f4e903eb284d459dd45574a3cdc7d767b5943fb26d",
+      "origin": "ai"
+    },
+    "dataList[id=1041604].summary": {
+      "pl": "Poniżej pewnej liczby Licznika Konserwacji zyskuje o więcej Licznika Konserwacji\nPrzy użyciu podstawowej Umiejętności ataku zyskuje Moc Monet i zadaje więcej obrażeń",
+      "kr_sha256": "ab1e6c689590475a58f43d80e8d0bdf1f0107062cf7105c2de36caee200db582",
+      "en_sha256": "10dbdbaea85e39d42c87d7fffdec88f7256cf530c186a888a628abb48f0fa301",
+      "origin": "ai"
+    },
+    "dataList[id=1041621].desc": {
+      "pl": "Wśród sojuszników z [Charge] lub Specjalnym [Charge] 1 Sojusznik przydzielony najwcześniej zwiększa podniesienie Progu Oszołomienia przez [VibrationExplosion] wywoływane podstawowymi Umiejętnościami o +12.5%",
+      "kr_sha256": "c1b05e3107b6eecf749335215fd5c02ec00fb944f846b9058b6fc7857845bfd3",
+      "en_sha256": "c8b32b9b2d0046e88b16b2aff056f507e8e1bcb19c2ff17b96db6b2652162b84",
+      "origin": "ai"
+    },
+    "dataList[id=1041621].name": {
+      "pl": "Cnota i Wartość Le Noir",
+      "kr_sha256": "70b278cb05e4f959606c109c7487f085b0dbee747bd932dca4e8340376c2f90f",
+      "en_sha256": "a5c91dd6b34ad0944e3f17a455573756649721840599d57e316090faaae24f07",
+      "origin": "ai"
+    },
+    "dataList[id=1041621].summary": {
+      "pl": "Zwiększa podniesienie Progu Oszołomienia przez Wybuch Wstrząsu\nPrzy trafieniu nakłada Moc Wstrząsu",
+      "kr_sha256": "ac6b4e1ed78cb511a1c614a99932e7a75c37c582938475c5083db539d0f572b2",
+      "en_sha256": "0f50d98c5e98188f19ef4e4f3815608ec5c0635a4e3f2f7f7c2b2458f91e6e5b",
+      "origin": "ai"
     }
   }
 }

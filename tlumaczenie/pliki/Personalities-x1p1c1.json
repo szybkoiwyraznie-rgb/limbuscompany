@@ -71,6 +71,30 @@
       "kr_sha256": "e3ff65f113edf3741e9a0f7a6a72b8b12e7073b938edcb62978a3d6dae098246",
       "en_sha256": "0581df0aafa20368d7fdbec7fed1f8ab595a6ac72faaf38c0e98f0686659f8fb",
       "origin": "ai"
+    },
+    "dataList[id=400028].desc": {
+      "pl": "Tożsamość ??? Ryōshū",
+      "kr_sha256": "06df1f517aca7162dff8bafb6fe0836c8c201cd8d45e869c67605446c9bc076c",
+      "en_sha256": "56715bb00b6a5b19c8f9172d8a561365e1f27928e6722797796630eacc1c15dd",
+      "origin": "ai"
+    },
+    "dataList[id=400028].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=400028].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=400028].title": {
+      "pl": "Grzesznik Grupy Słoników",
+      "kr_sha256": "e3ff65f113edf3741e9a0f7a6a72b8b12e7073b938edcb62978a3d6dae098246",
+      "en_sha256": "0581df0aafa20368d7fdbec7fed1f8ab595a6ac72faaf38c0e98f0686659f8fb",
+      "origin": "ai"
     }
   }
 }

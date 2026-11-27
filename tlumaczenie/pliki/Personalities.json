@@ -1175,6 +1175,390 @@
       "kr_sha256": "b5c5b60602f7b48cb949665fb713887302850a54f9b869cce087eeb861b1ee55",
       "en_sha256": "8f379211924faa03a8dfd73ba076641f802f1c0d14575bb584d9c847828804e1",
       "origin": "ai"
+    },
+    "dataList[id=10401].desc": {
+      "pl": "Pierwsza Tożsamość Ryōshū",
+      "kr_sha256": "99b16f927499a4206fde0626db167c3ee1491543ecd715683cbb6c484ddf7605",
+      "en_sha256": "f4971ff7016cd59c8ddb0a44665c1be88cd5f32e2ece96a20ed8557f5e9250b2",
+      "origin": "ai"
+    },
+    "dataList[id=10401].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10401].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10401].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10402].desc": {
+      "pl": "Druga Tożsamość Ryōshū",
+      "kr_sha256": "f9df7a59025a5fc68579210cfb85af359eb3bfb5587841cebc0454e94c3f1948",
+      "en_sha256": "00f01a8c17b4afb0905fb94e27e6752b27c60b45187e8abbfb0816c39027344e",
+      "origin": "ai"
+    },
+    "dataList[id=10402].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10402].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10402].title": {
+      "pl": "Południowe Stowarzyszenie Seven\nSekcja 6",
+      "kr_sha256": "21a06f1bcb8507ca4fbc2263a9e7cf12a650de5065475d3dd22a38eee451e71d",
+      "en_sha256": "86ff6fb873979802de6224fdb942980a300790376501b60786dd99263f8a6d03",
+      "origin": "ai"
+    },
+    "dataList[id=10403].desc": {
+      "pl": "Trzecia Tożsamość Ryōshū",
+      "kr_sha256": "d41e2b0d6a977ae0653fea1bd2e4166df9aa14ec7c3dd2ecf0038140159604f8",
+      "en_sha256": "3485351bd1e404301679b12a71f8f05ecd9545f9cfd23f6907e84ec6b46f6b04",
+      "origin": "ai"
+    },
+    "dataList[id=10403].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10403].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10403].title": {
+      "pl": "Klan Kurokumo\nWakashu",
+      "kr_sha256": "924e1ef14fac36e716b24ba8c162336a175c780b9dc52368d8b09538feb58506",
+      "en_sha256": "476c6c1cf1971c3e4319f6cec8dbed8f80616c9e1b2fe4a5fb7d9ec69c3c80c8",
+      "origin": "ai"
+    },
+    "dataList[id=10404].desc": {
+      "pl": "Czwarta Tożsamość Ryōshū",
+      "kr_sha256": "106d95570df4106ded55d6215ee72b32b755365f8b5706caa868b72224a88318",
+      "en_sha256": "51a3b9692cca20f66274864f90be39200736fb918910f08a98af1a081557f461",
+      "origin": "ai"
+    },
+    "dataList[id=10404].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10404].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10404].title": {
+      "pl": "R. B.\nSzef Kuchni",
+      "kr_sha256": "7ab4212c6501e4b35f72b072593f7c11e336eb641623aa142e33d995b4e3c1e0",
+      "en_sha256": "7cb0b6ec3bb58d3ea737ae722a72e6201e37616c15d8cf3820366682bc99fe1f",
+      "origin": "ai"
+    },
+    "dataList[id=10405].desc": {
+      "pl": "Piąta Tożsamość Ryōshū",
+      "kr_sha256": "3ee5f8ed575d3fef66028d30a57022b2990961b45204b73e9adaa59d9a6435a9",
+      "en_sha256": "0c432d425d506e75401a0a12e54396690cbfe92d53d746ef5bdd6093b801dddf",
+      "origin": "ai"
+    },
+    "dataList[id=10405].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10405].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10405].title": {
+      "pl": "W Corp. L3\nAgentka Oczyszczania",
+      "kr_sha256": "7b03a4f185fbac59dda960683f6925c69b9a4b7ddf124c3b57353fab166c37a7",
+      "en_sha256": "230664d3b835508c6f5f47fe4137ff4f40e19b29c7821ce22b7fb9d564cd50bb",
+      "origin": "ai"
+    },
+    "dataList[id=10406].desc": {
+      "pl": "Szósta Tożsamość Ryōshū",
+      "kr_sha256": "f231ff42fb6de0653104615f260d2ab3fc86f66bb86f38135049c213856ee86c",
+      "en_sha256": "b83fe20898e333edc83190627a58f396e3472b6d502c4a844813612cfda1e201",
+      "origin": "ai"
+    },
+    "dataList[id=10406].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10406].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10406].title": {
+      "pl": "LCCB\nZastępca Kierownika",
+      "kr_sha256": "ccbdcc5c033787890ceed474cc97c66d121ddb3601d9510bcb7e93547b6bf454",
+      "en_sha256": "57b357d35ae6b16d1cbdf6b3311cda682da7c1560d8ebfd2294a69ea6603d7de",
+      "origin": "ai"
+    },
+    "dataList[id=10407].desc": {
+      "pl": "Siódma Tożsamość Ryōshū",
+      "kr_sha256": "6f5b7f0565a37e627190f76d3080a99f0e55db1099e2fd8b36b5909b7d8f745d",
+      "en_sha256": "67dff982fe891f51b00574198a96dc2601453c768578ddf4e0ba478ffd56c445",
+      "origin": "ai"
+    },
+    "dataList[id=10407].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10407].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10407].title": {
+      "pl": "Południowe Stowarzyszenie Liu\nSekcja 4",
+      "kr_sha256": "9aedcf2bcb3908e5c6474f359d53f947155b483bd907bdefd4b23fd89e665cb0",
+      "en_sha256": "ad58993e2812dcd7bf6d25760fa5db98c05d1ba75b0a972737547b55a3e86e53",
+      "origin": "ai"
+    },
+    "dataList[id=10408].desc": {
+      "pl": "Ósma Tożsamość Ryōshū",
+      "kr_sha256": "fdb40b815193f633adf504d82d24897d7915ae0db16e8e2bcb86523981f12cac",
+      "en_sha256": "ea7c2bbf9d39a964f9ad8479e38660973e3f9072a13f9b8d191c5a24334928fd",
+      "origin": "ai"
+    },
+    "dataList[id=10408].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10408].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10408].title": {
+      "pl": "Rodzina Edgar\nGłówna Kamerdynerka",
+      "kr_sha256": "291d1edbe9b4be28f5ac3f1e9f3382a1abc519ed324b8225f1b56a4f68c0851e",
+      "en_sha256": "46ed60b0360a2ab5d43edeb1f861dbc2eb13cb2945ddf4c3851bd4ab31a4fa8b",
+      "origin": "ai"
+    },
+    "dataList[id=10409].desc": {
+      "pl": "Dziewiąta Tożsamość Ryōshū",
+      "kr_sha256": "5ef5184e45fada874c40567844c5adc000cf7c3f9e3d24dc4cf3eaa9f339678e",
+      "en_sha256": "629806446393c395bc7b55e706a6f1b435eae4e43c2685581ba21234bec4af1c",
+      "origin": "ai"
+    },
+    "dataList[id=10409].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10409].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10409].title": {
+      "pl": "Dystrykt 20\nJurodiwyj",
+      "kr_sha256": "5f127444e9f5fd68d8399e3b9c0f5c6de4d9979514cf47dc148abf1b7b0360ee",
+      "en_sha256": "4ddede255a3d6964667cf267c75b9bc8e166deb3277cf3dedacd94276843ece6",
+      "origin": "ai"
+    },
+    "dataList[id=10410].desc": {
+      "pl": "Dziesiąta Tożsamość Ryōshū",
+      "kr_sha256": "bf803d14b3c8238801c8a5bcc0ebb0ddd21b735937efc7d9fdcb4f73584fd86b",
+      "en_sha256": "b1b0294e2f76b3071d5abe95c41bb4b46f2f6903994c5b231302e65905d840d8",
+      "origin": "ai"
+    },
+    "dataList[id=10410].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10410].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10410].title": {
+      "pl": "Lobotomy E.G.O::\nCzerwone Oczy i\nPokuta",
+      "kr_sha256": "56f52fe69ade28b0dbc34b8b4125af7e6acaf92096f6666c5599c80066925fd3",
+      "en_sha256": "a46929d26d4f34f5586e6acbf72e1967c11c65a420a71f4309ddd1ef3d00080e",
+      "origin": "ai"
+    },
+    "dataList[id=10411].desc": {
+      "pl": "Jedenasta Tożsamość Ryōshū",
+      "kr_sha256": "9ea53b1b247bfd3b604cdd524e75f2780efca826c0c0451855482c1af54e79ce",
+      "en_sha256": "c33c9493d2f36f4c43d30f43a15d8aeb2a94c7f788b8490e21f1142929fb8de9",
+      "origin": "ai"
+    },
+    "dataList[id=10411].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10411].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10411].title": {
+      "pl": "Wataha Heishou - Gałąź Mao",
+      "kr_sha256": "628b6c260f9cdbd33d424a3baab62f77636c5effca0b6ae599bf2c921979e236",
+      "en_sha256": "9a91341d5b6982e64fd61488f5f2a35fa731f1e6fc1be39c2fb3c1b071734dc7",
+      "origin": "ai"
+    },
+    "dataList[id=10412].desc": {
+      "pl": "Dwunasta Tożsamość Ryōshū",
+      "kr_sha256": "95ebca36b6d3c1f42401f0e345293240c2f3189e14cac1efa4024e239c6a56ef",
+      "en_sha256": "7800f62f0325e1cea9949892dbc74a13b8d24563fc0431899fc77b0a705a64be",
+      "origin": "ai"
+    },
+    "dataList[id=10412].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10412].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10412].title": {
+      "pl": "E.G.O N Corp.::\nPogarda, Groza",
+      "kr_sha256": "5bcedf3c191bcc021a4dd82a20c2bb4434700f9fac5ad432b740b4c923af2c01",
+      "en_sha256": "fb2d22783bb2ad1c8562538a9bf947a481dc51ce99fbbdd0d2e253a958dcff9a",
+      "origin": "ai"
+    },
+    "dataList[id=10413].desc": {
+      "pl": "Trzynasta Tożsamość Ryōshū",
+      "kr_sha256": "6e8b264c8e868e91194e017b3f3daa1a95133fa9361bde474ced14707106a478",
+      "en_sha256": "f7c19442c1dff4b2a67ddb1e9cdf6e926057e3cc94c211542d4463beb8bdb498",
+      "origin": "ai"
+    },
+    "dataList[id=10413].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10413].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10413].title": {
+      "pl": "Wędrowne Ostrze Hongyuan",
+      "kr_sha256": "01779da64ea13a484cfd391be0715d063b01a49dedb3f15ba0297d07c32bbde7",
+      "en_sha256": "924199fae22e5fe2b001094bfb76626d98c10eba67487612e48622a1841c5a21",
+      "origin": "ai"
+    },
+    "dataList[id=10414].desc": {
+      "pl": "Czternasta Tożsamość Ryōshū",
+      "kr_sha256": "c47a8ee28322ee79efd8ef3627c3bfb1e070b5c3b250001c6d2f42850bedd917",
+      "en_sha256": "5d739e15e2fd61c1ebc0ac7554d5c5fcfe93c78d1317c8adaf62a5cfd76a61ad",
+      "origin": "ai"
+    },
+    "dataList[id=10414].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10414].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10414].title": {
+      "pl": "Lobotomy E.G.O::\nNikła Woń i\nSamotność",
+      "kr_sha256": "4305da524554ff244bbc93487d42dcbe98cca5a9d1c8ac7234142e7c92652139",
+      "en_sha256": "283c52e50f9374460fb17e0826b188853bee2c6a9c018bbbb40eef047d8c37b4",
+      "origin": "ai"
+    },
+    "dataList[id=10415].desc": {
+      "pl": "Piętnasta Tożsamość Ryōshū",
+      "kr_sha256": "6ad9924560ca6ffa6a5b08d10a95d794ac065af555aa0426150e671fc8b7cc81",
+      "en_sha256": "4d189031fdb730b8a46c0aabf6c730521c50feab228b9c95ec2b69342ad16c3d",
+      "origin": "ai"
+    },
+    "dataList[id=10415].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10415].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10415].title": {
+      "pl": "Ostrze Domu Pajęczyn",
+      "kr_sha256": "f8383c8dd33d568ae8c1c79bdc899407b025e606a6d406ef528cd740c02f9715",
+      "en_sha256": "03dd9e59830a58166271e425bee4603d4af976c36b8691c02821f4b3244a9d22",
+      "origin": "ai"
+    },
+    "dataList[id=10416].desc": {
+      "pl": "Szesnasta Tożsamość Ryōshū",
+      "kr_sha256": "9f78d9fd5f07eb38ba56c09d0a366a14f5dc0c851ddde6896f46cd49d963a038",
+      "en_sha256": "bc6908081ff627b6adc814cf15cb12f20d076bb70a302a951bff6a8452066919",
+      "origin": "ai"
+    },
+    "dataList[id=10416].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10416].nameWithTitle": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=10416].title": {
+      "pl": "Haute Couture::\nLe Noir\nGaleria Obuwia",
+      "kr_sha256": "452da4687aa4f242210d6944fe936ba60bb62a8d169938d9a37402eeb40d1175",
+      "en_sha256": "642d7f373caab636b49be8ead8dd2b6c273ecf79e35047ff9250e7c7cfb9f623",
+      "origin": "ai"
     }
   }
 }

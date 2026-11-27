@@ -71,6 +71,30 @@
       "kr_sha256": "4c612bbe2171dfdacdd3dfa65b642b2a21f39cde5c4e51651062c6c3f4bc107b",
       "en_sha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3",
       "origin": "ai"
+    },
+    "dataList[id=40002801].desc": {
+      "pl": "Zadaje i otrzymuje +25% obrażeń.",
+      "kr_sha256": "1f9d0eb619b4b21feb546807c903886981df81aabd8c0247793f2e86e298e0f5",
+      "en_sha256": "08a2238b613567a328e43e5f855d3a847d8be145ec523a26e03464e9a63714a5",
+      "origin": "ai"
+    },
+    "dataList[id=40002801].name": {
+      "pl": "Indiscwiminate Awt",
+      "kr_sha256": "6117fbb5453193a5115e3bf1462d8aff6844ff44c785d3f65af0c44b20c5a11a",
+      "en_sha256": "75f2f7617569345673dd66c30d1f79732b789266233545449dfbe9e58f0aaa5c",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].desc": {
+      "pl": "1 Sojusznik z najniższym Maks. HP zadaje i otrzymuje +20% obrażeń.",
+      "kr_sha256": "8c25a888a64242bd773bdbcca507e409868ae1581ce5ed62c2be10e7f9d86bd4",
+      "en_sha256": "ab82a51668e07669a5770ae5eff77708ed732b3cb9830fc3ddc93f83685555b5",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].name": {
+      "pl": "Hustlwe",
+      "kr_sha256": "185b8fe076d737689c061568afe5584a9572f412c4d0d4bc0305701a1e70b8ce",
+      "en_sha256": "69da17fe8c258c98c36420dcbb904d23f0bc55c6e0ace233be920092a342b3e6",
+      "origin": "ai"
     }
   }
 }
