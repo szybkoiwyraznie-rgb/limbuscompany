@@ -40,7 +40,7 @@ PHASE_TEXT = {
     "w trakcie": "W trakcie etapu",
     "walka": "W trakcie walki",
 }
-LANG_NAMES = {"en": "angielskiej", "kr": "koreańskiej", "jp": "japońskiej"}
+LANG_NAMES = {"en": "angielskiej", "kr": "koreańskiej", "jp": "japońskiej", "pl": "polskiej"}
 SPEAKER_OVERRIDES = {"Me": "Ja"}
 
 
@@ -156,7 +156,8 @@ def render_scene(lines: list[dict], texts: Texts, out: list[str], place_state: d
     return written
 
 
-def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str) -> tuple[str, str, dict]:
+def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str,
+                  en_texts: Texts | None = None) -> tuple[str, str, dict]:
     name, details = chapters.heading(chapter)
     out = [f"# {GAME} — {name}", ""]
     for detail in details:
@@ -164,10 +165,20 @@ def build_chapter(chapter: dict, texts: Texts, chapters: Chapters, lang: str) ->
     missing = [s["plik"] for s in chapter["sceny"] if texts.story(s["plik"]) is None]
     note = (f"> **Uwaga dla czytelnika:** tekst w wersji {LANG_NAMES.get(lang, lang)}; kolejność scen według "
             "Teatru Opowieści i tabel etapów gry (`wiedza/indeks_fabuly.json`).")
+    if en_texts is not None:
+        note += " Sceny bez przekładu pozostają w oryginale (angielskim)."
     if any(s.get("trasa") for s in chapter["sceny"]):
         note += " Rozdział ma rozgałęzienia (trasy A/B/C); sceny tras podano w kolejności plików."
     if missing:
         note += f" Brak tekstu {len(missing)} scen w tej wersji danych."
+    fallback = 0
+    if en_texts is not None:
+        for scene in chapter["sceny"]:
+            lines = texts.story(scene["plik"])
+            if lines is not None and lines == en_texts.story(scene["plik"]):
+                fallback += 1
+        if fallback:
+            note += f" {fallback} scen(y) w tej Czytance to jeszcze wersja angielska."
     out += [note, "", "## Sceny fabularne", ""]
     stats = {"sceny": 0, "kwestie": 0}
     current_stage = object()
@@ -225,10 +236,12 @@ def main(argv: list[str] | None = None) -> int:
         chapters = Chapters(texts)
         # File names come from the English titles, so every language has the same names.
         naming = Chapters(Texts(snapshot, "en")) if args.lang != "en" and "en" in snapshot.languages else chapters
+        # PL: scenes without a translation keep their English original (fallback).
+        en_texts = Texts(snapshot, "en") if args.lang == "pl" and "en" in snapshot.languages else None
         for chapter in index["rozdzialy"]:
             if args.only and chapter["id"] not in args.only:
                 continue
-            name, text, stats = build_chapter(chapter, texts, chapters, args.lang)
+            name, text, stats = build_chapter(chapter, texts, chapters, args.lang, en_texts)
             file_name = f"{chapter['kolejnosc']:02d}_{slug(naming.heading(chapter)[0])}_{args.lang.upper()}.md"
             (args.out / file_name).write_text(text, encoding="utf-8")
             toc.append(f"| {chapter['kolejnosc']} | {name} | {stats['sceny']} | {stats['kwestie']} | "

@@ -587,3 +587,31 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   wgrana na Dysk Google właściciela ze zgodną sumą kontrolną.
 
 
+
+### E-017 · 2026-11-27 · Paczka produkcyjna v3 (`LCB_PL_Polski_26917622_v3.zip` — AI do P64) i Czytanki PL (fallback EN)
+
+- **Paczka produkcyjna (`dist/LCB_PL_Polski_26917622_v3.zip`):**
+  `7 574 690` B, SHA-256
+  `af7087402f9c8c3ae46e166e99622bdb76a3543a6dc35a06c66e9a9b3eaf21a0` —
+  `2 422` plików JSON (`1 161` zmodyfikowanych), **`62 476 / 193 309` = `32,32%`**
+  przetłumaczonych liści (v2: 29,52%) — Tłumacz (LC_PL1+LC_PL2) + AI (P01–P64),
+  `0` znaczników diagnostycznych, fallback EN dla reszty.
+- **Nowa seria Czytanek E.G.O (`tools/build_ego.py` → `czytanki/plik_EGO_PL`, 12 plików):**
+  łączy `StaticData` (`skill/ego-skill-*` z `skillType` `EGO_AWAKEN`/`EGO_EROSION`,
+  `passive/passive-ego` wymagania) z `Localize` (`Egos`/`Skills_Ego`/`Passive_Ego`,
+  głosy `EGOVoiceDig`). Układ plików ID (E-00x): katalog kart, per karta
+  Przebudzenie/Erozja/wariant sezonowy z tabelą per Uptie i opisami monet,
+  pasywka z wymaganiami, kwestie E.G.O. Identyfikator Grzesznika = cyfry 2–3
+  id karty (`20101` → 1, `21201` → 12); warianty sezonowe (np. `2010112`
+  z `ego-skill-a1c9p3`) etykietowane „Wariant”. Gra dopisuje adnotacje po
+  tokenach („[Motyl](Żyjącego)”) — generator łamie sąsiedztwo `](` → `] (`,
+  by checker dokumentacji nie czytał tego jako linku.
+- **Czytanki PL (fallback EN):** `czytanki/fabula_PL` (36 rozdziałów),
+  `czytanki/plik_ID_PL`, `czytanki/plik_EGO_PL` — wejście: produkcyjna
+  `Lang/Polski` (fallback EN wbudowany per wpis) jako katalog snapshotu
+  `pl/` + `en/` dla nazw plików i detekcji nieprzetłumaczonych scen.
+  Czytanka fabularna liczy sceny bez przekładu (porównanie tabel PL↔EN,
+  np. Canto X: 57/65 scen w oryginale); `tools/build_reading.py` dostaje
+  wersję „polską” w nocie, `tools/build_profiles.py` — dopisek o fallbacku.
+  Snapshot `local/cz_snapshot/` i `local/lang_pl_v3/` regenerowalne,
+  zignorowane w `.gitignore` (test polityki zaktualizowany razem, 65/65).

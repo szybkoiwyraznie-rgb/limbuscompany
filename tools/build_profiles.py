@@ -221,7 +221,9 @@ class Library:
         out = [f"# {GAME} — {name}: Identity", "",
                "*Profil postaci: dane liczbowe z tabel gry, opisy z plików lokalizacji.*", "",
                "## Zakres i zasady odczytu", "",
-               f"- Teksty w wersji `{lang}`; liczby z `StaticData` (wartości bazowe, bez E.G.O i bonusów).",
+               f"- Teksty w wersji `{lang}`"
+               + ("; wpisy bez przekładu pozostają w oryginale (angielskim)" if lang == "pl" else "")
+               + "; liczby z `StaticData` (wartości bazowe, bez E.G.O i bonusów).",
                "- **Ulepszenie** = Uptie (gaksung) 1–4; tabela umiejętności pokazuje tylko wiersze, w których "
                "coś się zmienia. Moc ataku = moc bazowa + moc monety za każdą wyrzuconą reszkę/orła wg reguł gry.",
                "- **Poziom ataku/obrony** to korekta względem poziomu postaci.",

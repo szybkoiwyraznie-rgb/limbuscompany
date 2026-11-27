@@ -7,6 +7,11 @@ artifacts/
 downloads/
 LimbusCompany_Data/
 
+# Snapshoty wejściowe Czytanek PL — w pełni regenerowalne (docs/CZYTANKI.md,
+# sekcja „Wersja PL (fallback EN)”; rozpakowana paczka produkcyjna + kopie index/).
+local/cz_snapshot/
+local/lang_pl_v3/
+
 # Sekrety i środowiska lokalne.
 .env
 .env.*

@@ -154,6 +154,9 @@ class RepositoryConfigurationTests(unittest.TestCase):
             "game/sharedassets0.assets",
             "game/archive.zip",
             "node_modules/module/index.js",
+            # Snapshoty wejściowe Czytanek PL — regenerowalne (docs/CZYTANKI.md).
+            "local/cz_snapshot/pl/Egos.json",
+            "local/lang_pl_v3/LimbusCompany_Data/Lang/Polski/config.json",
         }
         allowed = {
             "README.md",

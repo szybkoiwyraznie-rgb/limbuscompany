@@ -9,9 +9,9 @@ Decyzja o układzie: [DECYZJE.md](DECYZJE.md) D-07.
 
 | Seria | Narzędzie | Zawartość | Stan |
 |---|---|---|---|
-| **Fabuła** | `tools/build_reading.py` | jeden plik na rozdział (Prolog, Canto, Intervallo, opowiadania) w kolejności gry | **prototyp** — [`czytanki/fabula_EN`](../czytanki/fabula_EN/00_spis_EN.md), [`czytanki/fabula_KR`](../czytanki/fabula_KR/00_spis_KR.md) (po 36 rozdziałów) |
-| **Plik ID (Identity)** | `tools/build_profiles.py` | jeden plik na Grzesznika: akta, katalog Identity, profile z liczbami, umiejętnościami, pasywkami i kwestiami | **prototyp** — `czytanki/plik_ID_EN`, `czytanki/plik_ID_KR` (po 12 plików) |
-| **E.G.O** | planowane (to samo narzędzie) | opisy, statystyki, kwestie, powiązane Abnormality | planowane |
+| **Fabuła** | `tools/build_reading.py` | jeden plik na rozdział (Prolog, Canto, Intervallo, opowiadania) w kolejności gry | **prototyp** — [`czytanki/fabula_EN`](../czytanki/fabula_EN/00_spis_EN.md), [`czytanki/fabula_KR`](../czytanki/fabula_KR/00_spis_KR.md) (po 36 rozdziałów), [`czytanki/fabula_PL`](../czytanki/fabula_PL/00_spis_PL.md) (PL + fallback EN) |
+| **Plik ID (Identity)** | `tools/build_profiles.py` | jeden plik na Grzesznika: akta, katalog Identity, profile z liczbami, umiejętnościami, pasywkami i kwestiami | **prototyp** — `czytanki/plik_ID_EN`, `czytanki/plik_ID_KR`, `czytanki/plik_ID_PL` (PL + fallback EN) |
+| **E.G.O** | `tools/build_ego.py` | jeden plik na Grzesznika: karty E.G.O (Przebudzenie/Erozja/warianty sezonowe, statystyki per Uptie, opisy monet), pasywki z wymaganiami, kwestie E.G.O | **prototyp** — `czytanki/plik_EGO_PL` (PL + fallback EN, 12 plików) |
 | **Miasto (lore)** | planowane | słowniczek pojęć: Skrzydła, Dystrykty, Palce… | planowane |
 
 Każda Czytanka ma wersję **EN** lub **KR** od razu, a później **PL** (z
@@ -74,6 +74,36 @@ Liczby pochodzą z tabel `StaticData` (lustro OpenLethe, tylko lokalnie — D-06
 opisy z `Localize`. Kolejne ulepszenia nadpisują tylko zmienione pola, więc
 narzędzie składa je kumulatywnie i pokazuje tylko wiersze, w których coś się
 zmienia.
+
+## Układ pliku E.G.O
+
+```text
+# Limbus Company — Yi Sang: E.G.O
+## Zakres i zasady odczytu        ← co znaczą liczby, czego nie ma
+## Katalog E.G.O                  ← tabela: karta, podtytuł („Podstawowe/Wyłączny…”)
+## Karty
+### 4. Płomyk Zapałki
+*Wyłączny Sprzęt E.G.O Yi Sanga*                          ← podtytuł z tabeli `Egos`
+#### Przebudzenie: 4. Płomyk Zapałki                      ← `skillType` = EGO_AWAKEN
+| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | … |  ← Uptie 1/3/4, zmienne wiersze
+*Od ulepszenia N:* opis + opisy monet
+#### Erozja: …                                            ← `skillType` = EGO_EROSION, gdy karta ją ma
+#### Wariant: …                                           ← sezonowe warianty danych (np. a1c9p3)
+#### Pasywka: <nazwa>
+*Wymagania: przebudzenie E.G.O na poziomie 2*             ← `passive-ego` requireIDList
+opis pasywki
+## Kwestie E.G.O                  ← EGOVoiceDig: sytuacja + kwestia (per Grzesznik)
+```
+
+## Wersja PL (fallback EN)
+
+Wersje `*_PL` Czytanek łączą przekład z oryginałem: tam, gdzie przekładu
+jeszcze nie ma (wpis AI-tymczasowe lub Tłumacza), tekst pozostaje
+**angielski**. Czytanka fabularna mówi to wprost w „Uwadze dla czytelnika”
+(liczba scen jeszcze nieprzetłumaczonych), a pliki ID i E.G.O — w „Zakresie
+i zasadach odczytu”. Dane PL budowane są z produkcyjnej paczki
+`Lang/Polski` (fallback EN jest w niej wbudowany per wpis); wiersz
+`Uwaga` przy scenach bez przekładu pochodzi z porównania z tabelami EN.
 
 ## Zasady
 
@@ -185,3 +215,23 @@ python tools/build_profiles.py --lang kr          # → czytanki/plik_ID_KR/
 
 Domyślnym wejściem jest `index/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)); można
 podać inny katalog lub ZIP zbieracza jako argument.
+
+Wersje PL buduje się ze snapshotu `Lang/Polski` (paczka produkcyjna,
+fallback EN wbudowany per wpis) podanego jako katalog z podkatalogami
+`pl/`, `en/`, `kr/`:
+
+```sh
+# 1) rozpakuj paczkę produkcyjną do podkatalogu pl/ snapshotu:
+python tools/build_lang.py --unpack-to local/lang_pl_v3
+#    (LimbusCompany_Data/Lang/Polski → local/cz_snapshot/pl)
+# 2) uzupełnij brakujące tabele kopiami z index/localize/en (fallback EN),
+#    zachowując podkatalogi (np. EGOVoiceDig/);
+# 3) zbuduj wszystkie trzy serie PL:
+python tools/build_reading.py  local/cz_snapshot --lang pl   # → czytanki/fabula_PL/
+python tools/build_profiles.py index/static-data local/cz_snapshot --lang pl  # → czytanki/plik_ID_PL/
+python tools/build_ego.py      index/static-data local/cz_snapshot --lang pl  # → czytanki/plik_EGO_PL/
+```
+
+Snapshot (`local/cz_snapshot/`) i rozpakowana paczka
+(`local/lang_pl_v3/`) są w pełni regenerowalne i nie trafiają do Git
+(zignorowane w `.gitignore`).
