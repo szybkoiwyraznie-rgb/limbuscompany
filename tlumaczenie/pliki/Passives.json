@@ -1,5 +1,173 @@
 {
   "entries": {
+    "dataList[id=1000101].desc": {
+      "pl": "— opis] Przy każdym trafieniu atakiem zadaje +1 obrażeń w tej turze.",
+      "kr_sha256": "7a5bdd05d0c8adea2c5aa73717407720062a0aba87aa445262c4ff8608d1f658",
+      "en_sha256": "2651b8f88e88d5a5ac8ed8c16f3b5022272ca3fc6dc0759d59ac54365593ea29",
+      "origin": "ai"
+    },
+    "dataList[id=1000101].name": {
+      "pl": "Gniew",
+      "kr_sha256": "5a90f06f273092fc4e707dda4f38dafc5dc84f8f524b5c8c23612a00daf647d1",
+      "en_sha256": "119acf47524fde99876be2236aa55b13ce5e36be2bf7c17371714763659e050d",
+      "origin": "ai"
+    },
+    "dataList[id=1000121].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Przy każdym trafieniu atakiem zadaje +1 obrażeń w tej turze.",
+      "kr_sha256": "b74b7429e50d46a2492669150af36baa6b358f3f68823f759f020157afaa8b07",
+      "en_sha256": "884277ed9c9d095b5c297b82f1174c16bec0feae4fdf6477a2c8b42ad1d16c7d",
+      "origin": "ai"
+    },
+    "dataList[id=1000121].name": {
+      "pl": "Gniew",
+      "kr_sha256": "5a90f06f273092fc4e707dda4f38dafc5dc84f8f524b5c8c23612a00daf647d1",
+      "en_sha256": "119acf47524fde99876be2236aa55b13ce5e36be2bf7c17371714763659e050d",
+      "origin": "ai"
+    },
+    "dataList[id=1000201].desc": {
+      "pl": "— opis] Przy otrzymaniu trafienia w tej turze odzyskuje 3 HP z 50% szansą.",
+      "kr_sha256": "181cb6dc5ea30a62ab4c6fc1b61ea5a57993e53259fb9d2bffa7d470c3832a73",
+      "en_sha256": "9b32583ffa0acd2ebde96afeac04533045b61297f1d0227daf075522a8fc67cd",
+      "origin": "ai"
+    },
+    "dataList[id=1000201].name": {
+      "pl": "Żądza",
+      "kr_sha256": "b1cc04a93f474f4111fa5dacfdb399cb468e7b4160663707734cc165ada276fd",
+      "en_sha256": "73513993ecea1e323ad74e1904cef2c1dea9fdd03f4818e8c3a5e8af340fb193",
+      "origin": "ai"
+    },
+    "dataList[id=1000221].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Przy otrzymaniu trafienia w tej turze odzyskuje 3 HP z 50% szansą.",
+      "kr_sha256": "1f1c50503c8de08f4c24fab1d674c57740484a3a90ad6474e80d850230793e86",
+      "en_sha256": "95878e7b79d6c3274f4fdda5d7b645552e1959d65ff4535ccea92f845347490d",
+      "origin": "ai"
+    },
+    "dataList[id=1000221].name": {
+      "pl": "Żądza",
+      "kr_sha256": "b1cc04a93f474f4111fa5dacfdb399cb468e7b4160663707734cc165ada276fd",
+      "en_sha256": "73513993ecea1e323ad74e1904cef2c1dea9fdd03f4818e8c3a5e8af340fb193",
+      "origin": "ai"
+    },
+    "dataList[id=1000301].desc": {
+      "pl": "— opis] Otrzymuje o 1 mniej obrażeń w tej turze.",
+      "kr_sha256": "ee8e023b709b890507d45f786a213f8ed30d42d60d4092ee8e9092fd985dd415",
+      "en_sha256": "4450de3419718f7fdfc477750ae8cd2d6abc2c181cfd7ff8d6662242d74769d8",
+      "origin": "ai"
+    },
+    "dataList[id=1000301].name": {
+      "pl": "Lenistwo",
+      "kr_sha256": "b48b5dcf7e3309ac358455925042097bc209299b16c26c4bc2f11065fdb872d4",
+      "en_sha256": "275fae28d97c7e7951635077b47188276fa6561e9079d71ceaa78b56c90d9ce2",
+      "origin": "ai"
+    },
+    "dataList[id=1000321].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Otrzymuje o 1 mniej obrażeń w tej turze.",
+      "kr_sha256": "a5d0f0b94d21619075fcadf4ef64fbf4a552d492a78009063970612303c796c6",
+      "en_sha256": "dce24694930817eef8423c1dcb7027bace4d090766bb625fd0052716ccbfa537",
+      "origin": "ai"
+    },
+    "dataList[id=1000321].name": {
+      "pl": "Lenistwo",
+      "kr_sha256": "b48b5dcf7e3309ac358455925042097bc209299b16c26c4bc2f11065fdb872d4",
+      "en_sha256": "275fae28d97c7e7951635077b47188276fa6561e9079d71ceaa78b56c90d9ce2",
+      "origin": "ai"
+    },
+    "dataList[id=1000401].desc": {
+      "pl": "— opis] Na początku fazy walki odzyskuje 5 HP.",
+      "kr_sha256": "a6b5ad65ccd4c7aecf645f1532275e4c9730919cc3e9ec0a6ea191f3dee31012",
+      "en_sha256": "36317dff9fe5b1d4ff08d307144bba09b750ab183ae2eb31a8ebad8a8c6bf7ef",
+      "origin": "ai"
+    },
+    "dataList[id=1000401].name": {
+      "pl": "Obżar.",
+      "kr_sha256": "02048b43cf844464944366b1f954909c4709f4d50b544bbf23802a055a6b1f18",
+      "en_sha256": "7403247df3b33c2b87e3992e8becce86b11579202e3308eb2c0b6ef1425e794a",
+      "origin": "ai"
+    },
+    "dataList[id=1000421].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Na początku fazy walki odzyskuje 5 HP.",
+      "kr_sha256": "b87f137ea5d0a4021271b5691cc948cc9f16c42faa6a2955e0db8f695bb74339",
+      "en_sha256": "993bc5e693bec013d9ded0820ba1277e1dce2711a649e2b46221580c7e763739",
+      "origin": "ai"
+    },
+    "dataList[id=1000421].name": {
+      "pl": "Obżar.",
+      "kr_sha256": "02048b43cf844464944366b1f954909c4709f4d50b544bbf23802a055a6b1f18",
+      "en_sha256": "7403247df3b33c2b87e3992e8becce86b11579202e3308eb2c0b6ef1425e794a",
+      "origin": "ai"
+    },
+    "dataList[id=1000501].desc": {
+      "pl": "— opis] Na początku fazy walki odzyskuje 5 Poczytalności.",
+      "kr_sha256": "df3a3a016d6050a52839ebd765bac27ef6cc793837a8418b8fcc1c382309b52b",
+      "en_sha256": "2e41b28b6e8073b5d7b295dd17650c21eb19b759576d44684efac9082febb54e",
+      "origin": "ai"
+    },
+    "dataList[id=1000501].name": {
+      "pl": "Posępność",
+      "kr_sha256": "f524b0c43df5387c3c69dd533faca2b96c02421d1d928b2ba9a6fa80c5bd26ec",
+      "en_sha256": "70c970f3ebda575285c1ae235975918d2c5dd74a2e870275e3af92a590569178",
+      "origin": "ai"
+    },
+    "dataList[id=1000521].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Na początku fazy walki odzyskuje 5 Poczytalności.",
+      "kr_sha256": "ea5d5d7c9e8ef018e1e5e905a80556fa40a75a01b77adaed8963dad5e19edb70",
+      "en_sha256": "2a3e365f46e2f54f41543d300d801c8e9c4329beb2534dd0e18858f9cf3dbad4",
+      "origin": "ai"
+    },
+    "dataList[id=1000521].name": {
+      "pl": "Posępność",
+      "kr_sha256": "f524b0c43df5387c3c69dd533faca2b96c02421d1d928b2ba9a6fa80c5bd26ec",
+      "en_sha256": "70c970f3ebda575285c1ae235975918d2c5dd74a2e870275e3af92a590569178",
+      "origin": "ai"
+    },
+    "dataList[id=1000601].desc": {
+      "pl": "— opis] Po wygranej w starciu zadaje +2 obrażeń.",
+      "kr_sha256": "75fbc2a1e16459da934e6101692159055b742aae6ff0df664a8c0e41ba3e84fa",
+      "en_sha256": "8c1f95cd17ab160732e787fe84110e3fe3f41e8c4cd3a6de6416559192adc07a",
+      "origin": "ai"
+    },
+    "dataList[id=1000601].name": {
+      "pl": "Pycha",
+      "kr_sha256": "f698713f45091726685fd217caeebf0c3d8e919bb24bce1ed93130ef8adbe8f5",
+      "en_sha256": "8c574c9b9ad6fe8745c3a26d9cc3e3026100cfc4cb33ae11f75b174009b27b2d",
+      "origin": "ai"
+    },
+    "dataList[id=1000621].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Po wygranej w starciu zadaje +2 obrażeń.",
+      "kr_sha256": "18118ce5fee5b0bc96ac25ac9b7131e024ecc48e816b8587bb46fe0864d05086",
+      "en_sha256": "a6c6c68c84a5b6a692b65fde85fb77624ab01b838e05467b9225def55a575730",
+      "origin": "ai"
+    },
+    "dataList[id=1000621].name": {
+      "pl": "Pycha",
+      "kr_sha256": "f698713f45091726685fd217caeebf0c3d8e919bb24bce1ed93130ef8adbe8f5",
+      "en_sha256": "8c574c9b9ad6fe8745c3a26d9cc3e3026100cfc4cb33ae11f75b174009b27b2d",
+      "origin": "ai"
+    },
+    "dataList[id=1000701].desc": {
+      "pl": "— opis] Przy otrzymaniu trafienia w tej turze zadaje 1 obrażeń atakującemu z 25% szansą.",
+      "kr_sha256": "c55877add04d10cd69bafedb5e60d1053c417885010e56922b5273092feaa524",
+      "en_sha256": "db09ca7c7027edb50d13f5a8dbb09c4adae6500eeb7de3c5e452b77d755e593e",
+      "origin": "ai"
+    },
+    "dataList[id=1000701].name": {
+      "pl": "Zawiść",
+      "kr_sha256": "0d2e004c2fa7b771791e4b247fae4269a04349856d7856ab1802fab46ee95c3c",
+      "en_sha256": "65535c95e4b6c6021bf14a1749513d885fbb3b524855b2f0cba22d85d8aa6046",
+      "origin": "ai"
+    },
+    "dataList[id=1000721].desc": {
+      "pl": "— opis] Nakłada na 1 losowego sojusznika poniższy efekt: Przy otrzymaniu trafienia w tej turze zadaje 1 obrażeń atakującemu z 25% szansą.",
+      "kr_sha256": "0e0d25aeb6b39c106423005cfe1370b786ac457169bfaf1375d21418c905f09b",
+      "en_sha256": "dd3660f6daecaeeead4707a8cb7ddcbeb192837874c01f388a809c60d94ed167",
+      "origin": "ai"
+    },
+    "dataList[id=1000721].name": {
+      "pl": "Zawiść",
+      "kr_sha256": "0d2e004c2fa7b771791e4b247fae4269a04349856d7856ab1802fab46ee95c3c",
+      "en_sha256": "65535c95e4b6c6021bf14a1749513d885fbb3b524855b2f0cba22d85d8aa6046",
+      "origin": "ai"
+    },
     "dataList[id=1010101].desc": {
       "pl": "Na panelu sterowania nakłada 1 Wzrostu Obrażeń na 2 sojuszników ustawionych za tą jednostką",
       "kr_sha256": "f94e91b68b8aaa3bef5852e8f16574e675ee9d4c400c708e000f16ef443f3d19",
@@ -8914,6 +9082,90 @@
       "pl": "— nazwa] Łatanie",
       "kr_sha256": "0a16a0945f76584eca8e15fc547c12f9918354a1e8a1cd7c84e389879699b029",
       "en_sha256": "16f9697c3474d3d1a9e25abda76e90f1da6fc43aa426a108b7bc264e3449cb00",
+      "origin": "ai"
+    },
+    "dataList[id=999901].desc": {
+      "pl": "— opis] Na koniec tury nakłada 3 [Binding] na wrogów z 50% HP lub więcej, w następnej turze.\nJeżeli wróg zamierzający użyć Umiejętności na tej jednostce ma obniżone HP, ten wróg zyskuje 1 [Reduction] za każde 20% pozostałego HP.",
+      "kr_sha256": "6c155755f5dd41aafefeaf4d90055c5d01754c0169869a6a305f80146142c2d4",
+      "en_sha256": "c36baf8089c78277a5ce4290199dd788124193d2bf9039a4fcb64805f446b205",
+      "origin": "ai"
+    },
+    "dataList[id=999901].name": {
+      "pl": "— tytuł] Czerwone Spojrzenie",
+      "kr_sha256": "39739d74dd388d350cb97d9784b92b0fc0b9470086a39193d9c718185630adef",
+      "en_sha256": "fa336e27323267f1a91043514b671f3038f70b1975a51c9c901b7dab3ef5e650",
+      "origin": "ai"
+    },
+    "dataList[id=999902].desc": {
+      "pl": "— opis] Przy trafieniu Umiejętnością Gladius nakłada 1 [AaCfPcBi]",
+      "kr_sha256": "8e529d1d8d84826324c67c337198118bf7d67455df385ad3e68dc1242f13f07e",
+      "en_sha256": "24b61eed861e6aabfb3c612de495d8881eed1026ea8b9f8f96a2d2d61eb96dea",
+      "origin": "ai"
+    },
+    "dataList[id=999902].name": {
+      "pl": "— nazwa] Rozżarzony Gladius",
+      "kr_sha256": "f9d8afc34ff166b115a68d83ee57d7262e3496d6ef5bbd636b9819991f9e3588",
+      "en_sha256": "e8fbc1e1833104154c376e82695164860a9ca4860075c2426b6f34f0e4e3166e",
+      "origin": "ai"
+    },
+    "dataList[id=999903].desc": {
+      "pl": "— opis] Przy użyciu Umiejętności otrzymuje 3% Maks. HP jako obrażenia stałe (ten efekt nie zabija).\nNa koniec ataku odzyskuje 15% Maks. HP za każdą pokonaną jednostkę",
+      "kr_sha256": "223881d0568f43f417ba133b52e6a0053bfa30beb98bf1e48daa0c8842e80f94",
+      "en_sha256": "045036e2203fc0cf2e73d0bc08b0ed7317274d35e2e2d572212234bfbcd9c466",
+      "origin": "ai"
+    },
+    "dataList[id=999903].name": {
+      "pl": "— nazwa] Krwawe Łzy",
+      "kr_sha256": "0827d20529a1e131866738015ed38ea9c0617144efba5a40b7c6d85486751ca3",
+      "en_sha256": "7d59a56ec9f17d38f9f15ac23bf3af5b8931805d78ec0a512d3378eb61688f38",
+      "origin": "ai"
+    },
+    "dataList[id=999904].desc": {
+      "pl": "— opis] Każdej tury wszyscy sojusznicy, włącznie z tą jednostką, zyskują Tarczę.\nW tej walce wszyscy sojusznicy, włącznie z tą jednostką, nie mogą stracić HP poniżej 1.",
+      "kr_sha256": "899ef0cc10d159fe34d1371545600e220c6e910980af7e65cea19ea5aa8c043c",
+      "en_sha256": "518715e39015ac611b640d2db5ea747d17546fec6bb26ca76cd0c4632cc89f91",
+      "origin": "ai"
+    },
+    "dataList[id=999904].name": {
+      "pl": "— nazwa] Krwawa Bariera",
+      "kr_sha256": "851c432c3c3aa0cab2f159e43ec02f02e7ccff3c9ba8aeff5fc7406d21b6ec7b",
+      "en_sha256": "b3b7161ae3e8b1744718471b0e619491f957bbdc69004abce3dde9e3ffb9fca0",
+      "origin": "ai"
+    },
+    "dataList[id=999905].desc": {
+      "pl": "— opis] Umiejętność „Czerwone Spojrzenie” dostępna",
+      "kr_sha256": "eace1f85a15d84a5af5e1ab59386f70fd37f241491f1ef5e4ca0c9549284063d",
+      "en_sha256": "61cd97c4854236972cfcec58db4fd2b779f060c1f900fb3244198efd3f41fa2a",
+      "origin": "ai"
+    },
+    "dataList[id=999905].name": {
+      "pl": "— nazwa] Oczy Przyjaciela, Który ████",
+      "kr_sha256": "c1d8e0a9c5e6f10b6cd9c8fce02a655b0335d3b3f1de35a1dbae1e9547bfce98",
+      "en_sha256": "8865161dbd285766a62546742cb2251cdb77ecbeb37b18d775199acb67c1eea4",
+      "origin": "ai"
+    },
+    "dataList[id=999906].desc": {
+      "pl": "— opis] Generuje Mang zależnie od Poczytalności",
+      "kr_sha256": "8a5ca739d4bce717b37ad796851d67a266cc77a78bd0d74dde4ac4a3b8f04ba6",
+      "en_sha256": "1225f66f1bfb524d780b4f8e27662aaa6147f03091ba11607403a7bc16d047f3",
+      "origin": "ai"
+    },
+    "dataList[id=999906].name": {
+      "pl": "Shin (心) - Czerwone Spojrzenie",
+      "kr_sha256": "c8f003a4bbfe85fcda17db16905bdb1999b78c88a08f1cc740ded363a9603fea",
+      "en_sha256": "69ccbfb60720c5a19fbc9e49801740b8ac2655df580228c0e8dd273933d08433",
+      "origin": "ai"
+    },
+    "dataList[id=999907].desc": {
+      "pl": "— opis] Zużywa Poczytalność, aby wygenerować Mang. Zadaje więcej obrażeń zależnie od liczby Mang",
+      "kr_sha256": "0880504b933b378500a4a866df02463ed6c9ba855d7fd16e6e0d08859a08a747",
+      "en_sha256": "c5860832cc2c0d04160d3c0e4d3f9dd4f85f6d2bef1d418eadef835d29947041",
+      "origin": "ai"
+    },
+    "dataList[id=999907].name": {
+      "pl": "— nazwa] Mang (望)",
+      "kr_sha256": "0730ebb566b0b2eb0da2f50817f08dbccee0c6d6db65da03aa5fd52ea6744108",
+      "en_sha256": "e37d51b1dbdd84432f761cc621a107cdd5c0a29db5bbfce72cb4256006e21767",
       "origin": "ai"
     }
   }

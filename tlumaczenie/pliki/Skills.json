@@ -1,5 +1,41 @@
 {
   "entries": {
+    "dataList[id=0].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Po wygranej w starciu podnosi Próg Oszołomienia przeciwnika",
+      "kr_sha256": "f458c7ffa5b6b8521ef09179db71e61dc49cf651205f2c48b36267cfdac70c53",
+      "en_sha256": "b33e1d1859012166da532f84deb4bc755cfc44bbbd4abd9f687097164f6f6c0d",
+      "origin": "ai"
+    },
+    "dataList[id=0].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Garda",
+      "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1000101].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Garda",
+      "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1000102].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=1000103].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Kontra",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=1000104].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Korozja E.G.O",
+      "kr_sha256": "ea157f4771bd0669c96f4434dc261133e335abe24384a16f0967e978b3defa0e",
+      "en_sha256": "6d0a4600ddb5bb6b5d068194dd9f8cb92a193a04579491a240605857f9b6fc8b",
+      "origin": "ai"
+    },
     "dataList[id=1010101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
       "pl": "[OnSucceedAttackHead] Nakłada 1 Zatonięcia",
       "kr_sha256": "f14578a0d52f87c0762b23d5d4465bc0b7df45f5c831efe2baa203271572e55e",
@@ -10492,6 +10528,138 @@
       "pl": "Blok",
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Po wygranej w starciu obniża własny Próg Oszołomienia",
+      "kr_sha256": "8ff4fc55b6c866309e49944e3d69b3577af960f15cdeda44174b64b85747673e",
+      "en_sha256": "2958ee028ae3009e1f515912df8e60e3a34194e9002905081afded4032735edb",
+      "origin": "ai"
+    },
+    "dataList[id=1].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=2].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Stosowana przy otrzymaniu ataku bez kontr",
+      "kr_sha256": "7fa53ef9f6cb7c58de95af31b898b4a57c24578936d77dd1e1220ba756325dbd",
+      "en_sha256": "384f66f189d1409cda84f31181d054d49353388ef8e839cac17907659a6110db",
+      "origin": "ai"
+    },
+    "dataList[id=2].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Kontra",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=999901].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999901].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Rozżarzony Cios",
+      "kr_sha256": "6f33aaed19a1e2260072ddd9e02e14d39c90af567e77d0eb2cdd7aae70255cf8",
+      "en_sha256": "92907d1f01a6a92d2628551937fde0d1806ca67d1d48a0156b3cf9ea91e5b21d",
+      "origin": "ai"
+    },
+    "dataList[id=999902].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999902].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Płonące Nacięcie",
+      "kr_sha256": "0c0c1697a8150fc8db91baa917ccb92562c15188cf472234da782988f039d014",
+      "en_sha256": "5da7117b42cf721c222e1882084c8ac7d81ad65fe571f5302ab750dbb258feb9",
+      "origin": "ai"
+    },
+    "dataList[id=999903].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999903].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Za Prądem",
+      "kr_sha256": "54aa92243d1316f1979e678bc7b491cc8fe3c07693fca7e4a470bfdf439abdab",
+      "en_sha256": "66e9de55d5a00ead6a3190437cd32b882a3744643abbee29f984fb709f52c2ff",
+      "origin": "ai"
+    },
+    "dataList[id=999904].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999904].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Otworzę Drogę",
+      "kr_sha256": "9c56f887a1ef654b1d8728b3859b37985b380b4cb3d5729e724f1bdfb71f4281",
+      "en_sha256": "a28955f0f2a1595e5a62e9ab4c680b03b3acc5f408ff2bf0229e22d14e0e9197",
+      "origin": "ai"
+    },
+    "dataList[id=999905].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999905].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Milczenie",
+      "kr_sha256": "f0ad8b3e578827012a07a8fd5dd1ace7bf3f55ecaf20eacf0c78d1653843a812",
+      "en_sha256": "6c61fe498281f4216fd03973936e6f88b0142654174538f4eb41987dfc4c965a",
+      "origin": "ai"
+    },
+    "dataList[id=999906].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999906].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] ?",
+      "kr_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "en_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "origin": "ai"
+    },
+    "dataList[id=999907].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999907].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] ?",
+      "kr_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "en_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "origin": "ai"
+    },
+    "dataList[id=999908].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999908].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] ?",
+      "kr_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "en_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "origin": "ai"
+    },
+    "dataList[id=999909].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Poza Obserwacją",
+      "kr_sha256": "951c9d16809cf92d32b88dc2cbce773fdef4c5ed8a3910e0cc815f79a4632c03",
+      "en_sha256": "6b44386458058547b28e7a36d6452b43243e9616e57458fb135f2793e04e7045",
+      "origin": "ai"
+    },
+    "dataList[id=999909].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] ?",
+      "kr_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+      "en_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
       "origin": "ai"
     }
   }

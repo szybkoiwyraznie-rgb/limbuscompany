@@ -36,6 +36,12 @@
       "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
       "origin": "ai"
     },
+    "dataList[id=400005].name": {
+      "pl": "Jia Xichun",
+      "kr_sha256": "63aa4b10918084a2b8d516e742d6722fa47f4ac98e67a1eb10dd73a061de9995",
+      "en_sha256": "6383cb51f0bb0b5faa0a0db4df1e7015ebecce11ed6cc9471c61111a8108b140",
+      "origin": "ai"
+    },
     "dataList[id=4].name": {
       "pl": "Ryōshū",
       "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",

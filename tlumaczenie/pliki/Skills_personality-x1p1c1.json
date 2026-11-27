@@ -1,0 +1,742 @@
+{
+  "entries": {
+    "dataList[id=40002501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=40002501].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Podszlifoję",
+      "kr_sha256": "8db5ff4fb42467a6918a19fc0132174b4c2eab754811249fd6ff68e7d2b128bb",
+      "en_sha256": "2ce84bc15c08188d8f8cbd52e927f126c521fad0592f0c06fe9b7c00062d8246",
+      "origin": "ai"
+    },
+    "dataList[id=40002502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Zatonięcia i zwiększa Licznik Zatonięcia o 1",
+      "kr_sha256": "bc40379c87649b5af7bb492426af57c0f51fb50570094b4a3d7c4955da288a2c",
+      "en_sha256": "fed11ed796cf9eb6b94e5713a62034368db4d07b9533bea6fa83cda692ecda98",
+      "origin": "ai"
+    },
+    "dataList[id=40002502].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Zrobię Zybie!",
+      "kr_sha256": "6baf3a48182ce600905c40be17569c8f4455e928068b48eddf4078212e53f492",
+      "en_sha256": "dff655faaf440f53081807adf3ef12b5721e96408d9af6a1eeb22066672db918",
+      "origin": "ai"
+    },
+    "dataList[id=40002503].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=40002503].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada 1 Zatonięcie",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "4e3a253883068c5f79af85262cf0521b930b2a71902eec3906ceb95191dbfaf1",
+      "origin": "ai"
+    },
+    "dataList[id=40002503].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 3, efekt 1 — opis] [OnSucceedAttack] Przy Poczytalności <0 nakłada w nast. turze 1 Wrażliwość",
+      "kr_sha256": "935622e4fd83219e0f2761e496cc2b2592c46af628b8fac4b3cae05bf9df64ef",
+      "en_sha256": "8cf79be1d2378a522b55c330a01a9d572e6e291bae9814a232276fc7728f5ed2",
+      "origin": "ai"
+    },
+    "dataList[id=40002503].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Idealneńko..",
+      "kr_sha256": "5a5766ba8b47b73dacc628ea367b20a97bf5e92a0e3af3c8f809bc8b74c63f33",
+      "en_sha256": "9800c12853821e35c2ac34831ab42508c5184266b0c44bf14525ff155bbf428b",
+      "origin": "ai"
+    },
+    "dataList[id=40002504].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Idealnkio Tu Nic",
+      "kr_sha256": "d3059d50d2c97990d042c73875207a9916f544385b95ff268ee7d5bd6c6048cf",
+      "en_sha256": "7141f16df44746e0200a4bcd72297c301543ea733fbe7010d8fe4113a6e98285",
+      "origin": "ai"
+    },
+    "dataList[id=40002601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 1 Paraliż",
+      "kr_sha256": "1f1e8f28a49a4759f2c9fa5f8ecb99c324ef0c48c8d47993f45fcd7a772dd625",
+      "en_sha256": "a50de08637248058bce047bdf6109a03de5de9bf945dc24e90d2485db163ceb7",
+      "origin": "ai"
+    },
+    "dataList[id=40002601].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Hm.",
+      "kr_sha256": "814a513e69ecda9e296558f5e6935bf92f6bcb5fff81dd6698c1264a8adb7f5f",
+      "en_sha256": "6e72d95cb4b4fe164ee677f8ddce4bde2e5af04e9e282ccd4a2a17fa6ec71d81",
+      "origin": "ai"
+    },
+    "dataList[id=40002602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada w następnej turze 3 Spadek Poziomu Ataku",
+      "kr_sha256": "438d9acd11d3f5be769ca23af54acb85a831381f801a64ef29466a547f3d9a7c",
+      "en_sha256": "b6b2689fd61c36d5273e7e4b9fd876d7e85b23406b00126f9d00d71c1d50b9c5",
+      "origin": "ai"
+    },
+    "dataList[id=40002602].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Paus zrobzi to.",
+      "kr_sha256": "469af27304f93c548fd54466ab5f323e779c5d90fe640178e30789357925486c",
+      "en_sha256": "942ee58f71a66f789ff0882c1df09b58ab6363ea297e255d966b48b7a578410b",
+      "origin": "ai"
+    },
+    "dataList[id=40002603].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada w następnej turze 1 Spadek Mocy Ataku",
+      "kr_sha256": "45bc26d7c2285376f7182b35d35f41057bd9bbc5499c74d106d0c52c9b6006df",
+      "en_sha256": "3b1fdc4033f552b0c5b22efb43d36c71d5dbf62182b412f14353084dc50130b9",
+      "origin": "ai"
+    },
+    "dataList[id=40002603].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada w następnej turze 1 Spadek Mocy Ataku",
+      "kr_sha256": "4a9bbb71dd76eef322865e1c256284ca9afcbddfebc07ceaf324fab015ef8cd7",
+      "en_sha256": "5cd69d8db5b37bfa922d3c55f7e2b1718326eb507d35ad9b686d139aeecbb922",
+      "origin": "ai"
+    },
+    "dataList[id=40002603].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Muss Wywagę.",
+      "kr_sha256": "3b802a5c503638f96a08d109611b6947e17b81d6b6e97c035f45a312d672561a",
+      "en_sha256": "572ea7bfdd5dbee5c0870c0cf92c0546d9b4e0ec81897047608356c5306cbb6c",
+      "origin": "ai"
+    },
+    "dataList[id=40002604].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Rośnie.. Rośnie.",
+      "kr_sha256": "a56bc4b3f8215e78885025dcd80683d748c6e408259bc4f36a23932deee7a9a7",
+      "en_sha256": "4ff7544b792cf6e26ec8296e58f960b3e0711ba8b281b603b23134cb73771908",
+      "origin": "ai"
+    },
+    "dataList[id=40002701].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] [WinDuel] Zyskuje 2 Pośpiechu w następnej turze",
+      "kr_sha256": "cf64ad2da85a70ce0456d32d8c9546245bb21fb031317593431b0d22f2c80f88",
+      "en_sha256": "a580b002cfd32794836fdefdc0b2ba68fadc8886c18ce61207f21ede64404f53",
+      "origin": "ai"
+    },
+    "dataList[id=40002701].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Dzengi!",
+      "kr_sha256": "e17f3d8b38ee9383930e7c96f33ad9cc77d91d63669458d8127be59b83b010ba",
+      "en_sha256": "9e0a20d196655a29a41f2d5bd15a946b2efb1e9bf00934e770bff75cbfd0fe40",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 2 Krwawienia",
+      "kr_sha256": "a7365fbf39ce0b71524f7bbb2dfd7b3f0db333669e1c3916e796d761ef24b71d",
+      "en_sha256": "eab61ea4f8d17c3fbda0db307d34a59e8c32b52a032e695f507fbeca48ec58c2",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] [WinDuel] Zyskuje 2 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "20ffb03df883870fd9cb15c637e165f5d72a1327553dfa66722c3263f5d71127",
+      "en_sha256": "ed8950c1386c05970d85fd12392ca995fc3d57b81b1e19bab3a6639108e0dae0",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Dzengi!!",
+      "kr_sha256": "96fe4098b39e44a6840fd107156ab724ae730869ffa83667f1fb71c7692e4234",
+      "en_sha256": "2e346c51bd73ecdf545676598342c35e00ae74e7278fac12d36ab7e764ecaf9b",
+      "origin": "ai"
+    },
+    "dataList[id=40002703].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 Krwawienie",
+      "kr_sha256": "b5aabc72d97c275c19b5b29642411e6a6a433cfc774ac6f2ef0c087303902f27",
+      "en_sha256": "cfbc9c9dff6385ae5e41e1153a3cb60def20093b0a06c9625aabd1f546d10c43",
+      "origin": "ai"
+    },
+    "dataList[id=40002703].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 Krwawienie",
+      "kr_sha256": "b5aabc72d97c275c19b5b29642411e6a6a433cfc774ac6f2ef0c087303902f27",
+      "en_sha256": "cfbc9c9dff6385ae5e41e1153a3cb60def20093b0a06c9625aabd1f546d10c43",
+      "origin": "ai"
+    },
+    "dataList[id=40002703].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 3, efekt 1 — opis] [OnSucceedAttack] Nakłada +2 Licznika Krwawienia",
+      "kr_sha256": "42e6d93f0c245e0ad465886611f119c8d12bfd490a6536a0c16264101c85e1eb",
+      "en_sha256": "5c237a7dd13196da7e57479b47a46d3962ffac9ceaf5d43f840589ea1a250b17",
+      "origin": "ai"
+    },
+    "dataList[id=40002703].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] Przy Szybkości 10 lub wyższej Moc Monet +2",
+      "kr_sha256": "6603b640935a9d342fbb935cd533949eed57c50911308feb7508d2f1a522c8b7",
+      "en_sha256": "9f0d078dc1a3f87c51a8a375de7eb49890f4820b16c971359da6b643e607c9a3",
+      "origin": "ai"
+    },
+    "dataList[id=40002703].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Dzengi!!!",
+      "kr_sha256": "39f826cdf4a67070972bf76fbac526a38eb3677d31d2d42f8bed3bb88603d568",
+      "en_sha256": "437fa6ce2b390a0b6536712648c1f107fe085016fa512801336dc4e9268ff2f6",
+      "origin": "ai"
+    },
+    "dataList[id=40002704].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Dzengi?",
+      "kr_sha256": "21fbf90c51474d2c5fe007de62c927242ad7a58c21f619caefcb6aae59054a9c",
+      "en_sha256": "8b10e722e7795fadb0e2a0de56b634e6d48b3f033d03926e49b48c298942a4ad",
+      "origin": "ai"
+    },
+    "dataList[id=40002801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Zyskuje 2 Oddechu w następnej turze",
+      "kr_sha256": "899276080b35c49acc255901fc84da63adbc24920d80dda75b5b659e7306f7af",
+      "en_sha256": "f0ddc8d3ebebce4d706f6751d7cbd75e2babde7a9ecccb572c523cc0fbf85163",
+      "origin": "ai"
+    },
+    "dataList[id=40002801].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Heh.",
+      "kr_sha256": "c2cf6dccd86cae7e4e8bcd9552f2455e3055bae7fe2f5495315467f49cfc55d8",
+      "en_sha256": "708454aa097a65274c30aa638118969e13a1d8037e3307d5d085396eb0f9e150",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] Jeżeli cel otrzymał obrażenia w tej turze, zadaje +30% obrażeń",
+      "kr_sha256": "6bc75a0dc9075a3f7ebdfcdccf7671c044d1df44d6c7f5c09f4e74efbb2c790a",
+      "en_sha256": "47c3218e638972147e884548c9db618c2164103fda43bc9d95d2ce3271a8bad7",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] Jeżeli cel otrzymał obrażenia w tej turze, zadaje +30% obrażeń",
+      "kr_sha256": "6bc75a0dc9075a3f7ebdfcdccf7671c044d1df44d6c7f5c09f4e74efbb2c790a",
+      "en_sha256": "47c3218e638972147e884548c9db618c2164103fda43bc9d95d2ce3271a8bad7",
+      "origin": "ai"
+    },
+    "dataList[id=40002802].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Skrócence.",
+      "kr_sha256": "309a465910401c4eaa488137ef33077497f2e1f0119d58e2b6f41d9ba8f2e103",
+      "en_sha256": "7153a75ff1816b1920bc798c0e1b963beb4bc623488ed819fb3b63779eaa422b",
+      "origin": "ai"
+    },
+    "dataList[id=40002803].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Zyskuje 2 Oddechu w następnej turze",
+      "kr_sha256": "899276080b35c49acc255901fc84da63adbc24920d80dda75b5b659e7306f7af",
+      "en_sha256": "f0ddc8d3ebebce4d706f6751d7cbd75e2babde7a9ecccb572c523cc0fbf85163",
+      "origin": "ai"
+    },
+    "dataList[id=40002803].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] [StartBattle] Zyskuje 2 [SlashDamageUp]",
+      "kr_sha256": "3a683afe08d6b5aab9195016bebf897d429294256f2afb0fe65b53d8b00a9656",
+      "en_sha256": "38eb44f99f806e8804a953d40e7e5bf8d2c3884779f545a8527a262b96c74090",
+      "origin": "ai"
+    },
+    "dataList[id=40002803].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] S.C.N.C.",
+      "kr_sha256": "beea58ffcac252ef8c441ef1d11997cc735ebb786661c5fff58f4a5495189e9a",
+      "en_sha256": "816c5c38ccef0849f4b800fe0c9c5bcc713389fa8421901bb57842d0fab5ff5d",
+      "origin": "ai"
+    },
+    "dataList[id=40002804].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Cha. Os.",
+      "kr_sha256": "6cb31586c82015d71bbc70d973538f4a0fdc1958fd69fc613b0460089ce1373a",
+      "en_sha256": "9548b348e4adcf47c34d09e76199259f35000af4a3cb4343991aad0aa35380c5",
+      "origin": "ai"
+    },
+    "dataList[id=40002901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 1 Wstrząsu",
+      "kr_sha256": "4a3b4f2da4fcf193e53f959ea0fe60d5adc5a49de02a9f9511c6a255f513184a",
+      "en_sha256": "3edb1186c7e9d41833f3992678ed9d675a8878e817ae3f5af3bddd7e7664db14",
+      "origin": "ai"
+    },
+    "dataList[id=40002901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 1 Wstrząsu",
+      "kr_sha256": "4a3b4f2da4fcf193e53f959ea0fe60d5adc5a49de02a9f9511c6a255f513184a",
+      "en_sha256": "3edb1186c7e9d41833f3992678ed9d675a8878e817ae3f5af3bddd7e7664db14",
+      "origin": "ai"
+    },
+    "dataList[id=40002901].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Powierz Zybie.",
+      "kr_sha256": "73251d1275fa6cd422f058e6adec0e5a52ee4c4391682b94f617d541587f72ca",
+      "en_sha256": "3e7ecc64d879da0eef88ec811919108d61afe37fa190fe07c4541f2dfe0220c8",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Wywołuje Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] [WhenUse] Zyskuje 3 Wzrost Mocy Obrony w następnej turze",
+      "kr_sha256": "8f99ea03268122b9c5ce2115770739602ad2b6bf3f94db2001de57fce4975a42",
+      "en_sha256": "3bae2ba4053e309ea281de083edf784667f6455b2a6759f10225ac5e6c46fa07",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Plat-doo-joor.",
+      "kr_sha256": "34933d1266af85aaf4e8fc01afad15756e069297a38b34ef17c544897c016647",
+      "en_sha256": "285cbd3feff7b5d83ea12ead37a37804636d651cc1946c0b6483762f6e75ae9a",
+      "origin": "ai"
+    },
+    "dataList[id=40002903].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 [Vibration]",
+      "kr_sha256": "cba8929ae8f8208e1b9e439c90189f7b8f0dfc6e157092b11c767b98d449cc9c",
+      "en_sha256": "b51274a3f7e5e39f75e5469fd6691fb5b31f7f2a4e5f1e7366f80cc973153e6c",
+      "origin": "ai"
+    },
+    "dataList[id=40002903].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 [Vibration]",
+      "kr_sha256": "cba8929ae8f8208e1b9e439c90189f7b8f0dfc6e157092b11c767b98d449cc9c",
+      "en_sha256": "b51274a3f7e5e39f75e5469fd6691fb5b31f7f2a4e5f1e7366f80cc973153e6c",
+      "origin": "ai"
+    },
+    "dataList[id=40002903].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 [Vibration]",
+      "kr_sha256": "cba8929ae8f8208e1b9e439c90189f7b8f0dfc6e157092b11c767b98d449cc9c",
+      "en_sha256": "b51274a3f7e5e39f75e5469fd6691fb5b31f7f2a4e5f1e7366f80cc973153e6c",
+      "origin": "ai"
+    },
+    "dataList[id=40002903].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 4, efekt 1 — opis] [OnSucceedAttack] Zwiększa Licznik Wstrząsu o 2",
+      "kr_sha256": "851481865c345b7e87569a63659ddf58554095e69170e3ad2179df341c9617a3",
+      "en_sha256": "f5c16a32e6fa0b75f0d68259e3ea7c7bc28d549102f4312e531a21a26a66aea5",
+      "origin": "ai"
+    },
+    "dataList[id=40002903].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] Zyskuje 3 [Protection] w następnej turze",
+      "kr_sha256": "d0230934317357669bce3f34a8ea8d914e286ad83342bd83be3ac0d659ab3f60",
+      "en_sha256": "b59c1678901ec5244e373545aa29242a0a37f752c8875f4ebb31cd30c9c25732",
+      "origin": "ai"
+    },
+    "dataList[id=40002903].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Mizanplas.",
+      "kr_sha256": "6fb76dedfd457535063ac1bfb2f19f8ba61d8c3f5211c20949ac5fb9e01018af",
+      "en_sha256": "0b7d4b5fb19807c69c2f49d7c6bb76e7596f2c98215be4052191111665ce7a3d",
+      "origin": "ai"
+    },
+    "dataList[id=40002904].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Mm.",
+      "kr_sha256": "b7f972781643cdb47b8a724b953dc255d428c8a3b5d9fed94eb8e28e2ec0f693",
+      "en_sha256": "f8de5235a137907cc0adb5acf022c750af46981e5b286f2a0116f59d6a810b95",
+      "origin": "ai"
+    },
+    "dataList[id=40003001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=40003001].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Zoba się~",
+      "kr_sha256": "016c9011e2f2f0b796f5ed249c08edd78fbab81fba25c778b83598415a052fa3",
+      "en_sha256": "f379cb33295893d84d25a953ff4952c0fdf5c2c11009679a46f6077022b1383c",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] Jeżeli w poprzedniej turze nie otrzymała obrażeń, Moc Monet +1",
+      "kr_sha256": "c5f7999e133d13a40922a695620a9b8d2b4993772bb2afa6b4048842d1067d43",
+      "en_sha256": "4de940485aad5fb84ac5ccb19616d6d072afba56aec0f74a06be7a90c69ef423",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Zaskakujoce~",
+      "kr_sha256": "3a234c28a098ab2f92ed87ac32b874f0f6f81613d337d3ddd72d086a1db522ed",
+      "en_sha256": "3b4b5f5a3fdb638f03bdd2bd9861f861b6db2e6d9cbf822afce421bc42a2f319",
+      "origin": "ai"
+    },
+    "dataList[id=40003003].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 2 Spadek Mocy Ataku",
+      "kr_sha256": "4ef22c2a8b87ae5bf3d5e37976d0e4d89dca2b88479e746b89e79dd3889b6892",
+      "en_sha256": "383bb43dc9993635852c2deb23b3d5be871d5a79dac49fde7696679fb0937d98",
+      "origin": "ai"
+    },
+    "dataList[id=40003003].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=40003003].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=40003003].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] Jeżeli w poprzedniej turze nie otrzymała obrażeń, Moc Monet +2",
+      "kr_sha256": "63ad34440ac0438001d14b32d1f1edb5468c8dfa051fcde002abeba13045fa4b",
+      "en_sha256": "d67566d8a0386ac3993943197bbd5178a7b2e0e04ba5854bf1483c6b89f07a91",
+      "origin": "ai"
+    },
+    "dataList[id=40003003].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] To nie moj gust!",
+      "kr_sha256": "c0156a42d453bbae69d03da589ff9d1abb94c4acc1849a8e291949fb604542d0",
+      "en_sha256": "358166805946f334ca278da9932dc1bc1ec49602113fd9501f35f3d4a2b16bbf",
+      "origin": "ai"
+    },
+    "dataList[id=40003004].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Zasmakuje Wam?",
+      "kr_sha256": "56a9906d1a8b02c2df33b5860b4eaeed6c9e9856e61fa39774f766432fd29769",
+      "en_sha256": "cf9d1f7c66f958e3c501981499e7aeceaf074ffa3b0d6a91507ddda77f4979e3",
+      "origin": "ai"
+    },
+    "dataList[id=40003101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 3 Wstrząsu",
+      "kr_sha256": "f48cd5745a914acfda84ab4ab6806b56323e5b4aaa220c01aa26a1c329540dfa",
+      "en_sha256": "d0f33de244fb95e0ae4a13e4e68a6a0d3fc8b6af766c2e66a5f4559115a247f7",
+      "origin": "ai"
+    },
+    "dataList[id=40003101].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Hihihi!",
+      "kr_sha256": "cce790f26f3773e8d0130f49878b4e64d396b644acb92f4e81d5ed72eb013eb4",
+      "en_sha256": "0853742246df8c925f66fc4132ba92ea5b65da87d76c53d955b82da0ebc2d66d",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 2 Wstrząsu",
+      "kr_sha256": "1941c2a70a3b712ccf3bb9dc8444e1823072187f776a5e6486b2c731ca215b30",
+      "en_sha256": "939bfe49372a356edfc70d73ad418fbc8e337d3e5625abc3ceb6a7fde9e2a5e4",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] [WhenUse] Zyskuje Wzrost Mocy Ataku i Wzrost Obrażeń w następnej turze",
+      "kr_sha256": "c9056973927754683dc13fecb4fad2901fccb02a1ffe21c5b84e07c796774174",
+      "en_sha256": "e191a6252798bc65f4b0c09d5aa35e2b354e2f2ad6b27187c872439e1880252d",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Zlamzy Nożyzko!",
+      "kr_sha256": "1af694b40016cd89b68f90dc9b5c497dc5c2bc2134d5fe0e628ef421055e90be",
+      "en_sha256": "357379771ac7c60e93cc81c21880d5d7626c084496b167a26590189a9fa9faaa",
+      "origin": "ai"
+    },
+    "dataList[id=40003103].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Następna moneta zyskuje Moc +2",
+      "kr_sha256": "455eba62a9fcb609db98c836c262ab9cea6014031e32b98969e4328b154f7e0e",
+      "en_sha256": "73657657cf32e0636421db20a3a6f0a2181386df607276dadfb7addf4a3d61f0",
+      "origin": "ai"
+    },
+    "dataList[id=40003103].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Wywołuje Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=40003103].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Zdziesz!",
+      "kr_sha256": "4bc0b784d508b4c32ca30d440de832cf40479a67757391329c6f1e8db3a79b80",
+      "en_sha256": "beb056676209b4de6eee3f3a047584177a5af150e5b778b0f0113d64ab042a83",
+      "origin": "ai"
+    },
+    "dataList[id=40003104].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Cego Patrzysz?!",
+      "kr_sha256": "6ccb9eddfd95bf49adcc56d5e6c23622fdcd461100cc39ea13603e9c34a26c84",
+      "en_sha256": "58fad2257a9aa693bffd3e38166830d758a7fea2bf31d68cd423cf40b41bd46f",
+      "origin": "ai"
+    },
+    "dataList[id=40003201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Zwiększa Licznik Wstrząsu o 1",
+      "kr_sha256": "7186cbcdc751da50ddf7ef2b10318346893b5ab1e2a19c350cff97390fd7ae52",
+      "en_sha256": "c5d617a1ff418abc0380c239814a90bc09b16bd22956d7d0ff058c27aabaa0b0",
+      "origin": "ai"
+    },
+    "dataList[id=40003201].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Heeej!",
+      "kr_sha256": "9f9eba6719e879c711816f71dde7c89efcc7b0a1724bd388efac6eddc71dd56a",
+      "en_sha256": "832a68d142879a5e54f3b36b15d92ffc1cd2b54968ed77fb7e1ca619e9fd268b",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 3 Wstrząsu",
+      "kr_sha256": "f48cd5745a914acfda84ab4ab6806b56323e5b4aaa220c01aa26a1c329540dfa",
+      "en_sha256": "d0f33de244fb95e0ae4a13e4e68a6a0d3fc8b6af766c2e66a5f4559115a247f7",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] [WinDuel] Nakłada 3 Spadek Mocy Obrony",
+      "kr_sha256": "923106e6e2628554d100d72a811d0c3001aaaceeae4a5b771e170a6fe49403ff",
+      "en_sha256": "9f5b4d3cedde93e2d51c83658635e75a710be8ea71ef4ab74c4ba43eb8b54cdc",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Zrobiłam dobrze?",
+      "kr_sha256": "34720b07f1ec0e2a5e5f788f17d35bc6fcf46f7cb14fd9e583d8668a2ca14e1c",
+      "en_sha256": "35041ed5485b32bc2649877300732eda49a0720d654170fcf2504372e48be23f",
+      "origin": "ai"
+    },
+    "dataList[id=40003203].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Wywołuje Wybuch Wstrząsu. Nakłada 1 Kruchość Uderzenia",
+      "kr_sha256": "7308352ec2bb5569d13ef1bb9d2571ec25c5ae7c808d3dc8a6891911d4a9fe7e",
+      "en_sha256": "1fcf0847d978a49522410e45eb23336eef8faf52e2fa7a5f554af3c5207320de",
+      "origin": "ai"
+    },
+    "dataList[id=40003203].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Dawaj Mięsko!",
+      "kr_sha256": "465cb0f6c331dcdd50ad3a6c618c0f8bae8355f372c859af9e11fa709618899f",
+      "en_sha256": "9089a9da00407daa019e73b956633173d6c8ec4ab01eb38e09cc3b04969ff7a5",
+      "origin": "ai"
+    },
+    "dataList[id=40003204].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Oskargaj To!",
+      "kr_sha256": "2c78b12fd2b8e29d629f1f80081ef215915c0e40338a4010cd1d5ec55b4b648d",
+      "en_sha256": "9395897ef22824b74f03602f664a67dea2cb4b06979e0d6a7fb250396c229de2",
+      "origin": "ai"
+    },
+    "dataList[id=40003301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "60d720e11f31a04d4f3fe52db89ca367b22de525ccfc733a4827cc4841b6879e",
+      "origin": "ai"
+    },
+    "dataList[id=40003301].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Hm Hm Hm~",
+      "kr_sha256": "d4f77f50e4421f5f745d56bd81253f1075e108d750bb63386270ca47eec757fb",
+      "en_sha256": "c14c88e14dfbfac94ccda72aa07cd065b80d728961e2e1b094cabd0ee705975e",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "60d720e11f31a04d4f3fe52db89ca367b22de525ccfc733a4827cc4841b6879e",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "60d720e11f31a04d4f3fe52db89ca367b22de525ccfc733a4827cc4841b6879e",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] Zwiększa Licznik Krwawienia o 1",
+      "kr_sha256": "c947e41723f87ca222d3eefffb3a1c41447d4c3a5da93820effbcae6313e0cc5",
+      "en_sha256": "2ee8aa8eee792fd920bc42b796107c44e110dd1f3af47e28481340594f08a3a9",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Pyszo!",
+      "kr_sha256": "11cdc68d12ed865d38f0707a11be8dba543a9c6d865a8559da521769ae6bda9b",
+      "en_sha256": "46f6e0d53c6c240651a0fcae628f7e4a197dd54cb38e64b3fa3131579979d09f",
+      "origin": "ai"
+    },
+    "dataList[id=40003303].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 [Laceration]",
+      "kr_sha256": "389d2049269fa0d0abb970ca3b77b276332e1b3a0df146608efde1fc695116dc",
+      "en_sha256": "096adeecb08ea4349049573e63d9f5588e9db384dc6d2e21ba3e316d71ed5fca",
+      "origin": "ai"
+    },
+    "dataList[id=40003303].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 [Laceration]",
+      "kr_sha256": "389d2049269fa0d0abb970ca3b77b276332e1b3a0df146608efde1fc695116dc",
+      "en_sha256": "096adeecb08ea4349049573e63d9f5588e9db384dc6d2e21ba3e316d71ed5fca",
+      "origin": "ai"
+    },
+    "dataList[id=40003303].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 [Laceration]",
+      "kr_sha256": "389d2049269fa0d0abb970ca3b77b276332e1b3a0df146608efde1fc695116dc",
+      "en_sha256": "096adeecb08ea4349049573e63d9f5588e9db384dc6d2e21ba3e316d71ed5fca",
+      "origin": "ai"
+    },
+    "dataList[id=40003303].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 4, efekt 1 — opis] [OnSucceedAttack] Jeżeli cel ma 6+ [Laceration], zadaje +20% obrażeń",
+      "kr_sha256": "3c19ef1ed4684963a82448da00339f70a4d7b23fd8cbf5f340dcd55af9147f1f",
+      "en_sha256": "6ff7476c74ed59bc0cb102ec950b4452ffa637dc7e43e8a807d8410618223cc1",
+      "origin": "ai"
+    },
+    "dataList[id=40003303].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] Przy Poczytalności poniżej 0 Moc Umiejętności +1",
+      "kr_sha256": "221234f14b1642ddbf467fbcf09669c16808e619af03badd79165ec0a1b226d5",
+      "en_sha256": "5cb2b880f50f01e5ead936d660b004fc18efdea1072499e4fac801b648697772",
+      "origin": "ai"
+    },
+    "dataList[id=40003303].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Mam Co Jeść!",
+      "kr_sha256": "7e7513e4c90830259c679e25124972b4b17adcd8cf0720fb47af004d8b2e3b9a",
+      "en_sha256": "950811b74a228158edf41bc8994606a0cfa7f005c076a4ae400828f71883028a",
+      "origin": "ai"
+    },
+    "dataList[id=40003304].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Daccie Coś?",
+      "kr_sha256": "5f0a954d15e08a3bba3ba28af439519ad6967eb4e66e49e11043b18c4a7bb1ec",
+      "en_sha256": "47a1c629e088e3ee66b2bf31de9276d9b8e1f767b0b86c65288375bb6ecadf94",
+      "origin": "ai"
+    },
+    "dataList[id=40003401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=40003401].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Chodź Tu!",
+      "kr_sha256": "78cb3c8c99d8de8bdd2b476eebf511379e4bcdb281410c74ee8a2bfa2fc2c1a3",
+      "en_sha256": "4f09b088777c78a92e3f64b0e5778575178fb7049033bc4b9cd00f53585e4f5b",
+      "origin": "ai"
+    },
+    "dataList[id=40003402].levelList[level=1].desc": {
+      "pl": "(ulepszenie 1) — opis] [WinDuel] Zadaje +30% obrażeń",
+      "kr_sha256": "053504dcc59b8aaaacdf2cb3285c6eeb53ced1e4d0f0c4652971b0d41be09cd9",
+      "en_sha256": "dbc39e469fb746b4af81238ceadde8efea29deaf219f7f595b8451d30b538e43",
+      "origin": "ai"
+    },
+    "dataList[id=40003402].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Odwago!",
+      "kr_sha256": "06c570c75bb070668c1f63b0bb4f307294d08a1e6989dff104f2bbd737cd6fb3",
+      "en_sha256": "7a8cc7b3770834fc7580140070e868ca306188e7725cbb5e5cbd365ee365066a",
+      "origin": "ai"
+    },
+    "dataList[id=40003403].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 Rozdarcie",
+      "kr_sha256": "5061289d28f944bab63abeb751e36042c2efde1af10b0f935d90e5399d4289f3",
+      "en_sha256": "99daaee53c6363421bb79cb700ec5aebb11c8400e9a42af531edd5dae13cc2ea",
+      "origin": "ai"
+    },
+    "dataList[id=40003403].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 Rozdarcie",
+      "kr_sha256": "5061289d28f944bab63abeb751e36042c2efde1af10b0f935d90e5399d4289f3",
+      "en_sha256": "99daaee53c6363421bb79cb700ec5aebb11c8400e9a42af531edd5dae13cc2ea",
+      "origin": "ai"
+    },
+    "dataList[id=40003403].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 Rozdarcie",
+      "kr_sha256": "5061289d28f944bab63abeb751e36042c2efde1af10b0f935d90e5399d4289f3",
+      "en_sha256": "99daaee53c6363421bb79cb700ec5aebb11c8400e9a42af531edd5dae13cc2ea",
+      "origin": "ai"
+    },
+    "dataList[id=40003403].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] [WinDuel] Zyskuje 1 Wzrost Mocy Ataku",
+      "kr_sha256": "7f7096859c18e9be7a2f116c98c72701347ac10feb1b80b2d05c259bc3534648",
+      "en_sha256": "3d2b20f59d2b75ba13944d5eea90696e5432aa8a4a88576ea6e261c1de6e7472",
+      "origin": "ai"
+    },
+    "dataList[id=40003403].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Tę... Marynatę..!",
+      "kr_sha256": "e6328f788a7709141dc49d240b25dc0e23c03718bc6c42bd077219dff04bd205",
+      "en_sha256": "feca3cad75de895e3e14866cd18428f4ff3e782b248b357a27883fd7d04b48b9",
+      "origin": "ai"
+    },
+    "dataList[id=40003404].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Bwo! Bwo!",
+      "kr_sha256": "086b3fad6ecd3ae71850162a5cfd646f063a177d2961709a59279aa48536cb2a",
+      "en_sha256": "9f99c281102573e089c6768170d6677728b81617190c8cebe74507cd3a05ae8a",
+      "origin": "ai"
+    },
+    "dataList[id=40003501].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=40003501].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 1 Rozdarcie",
+      "kr_sha256": "5061289d28f944bab63abeb751e36042c2efde1af10b0f935d90e5399d4289f3",
+      "en_sha256": "99daaee53c6363421bb79cb700ec5aebb11c8400e9a42af531edd5dae13cc2ea",
+      "origin": "ai"
+    },
+    "dataList[id=40003501].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Składniqa!",
+      "kr_sha256": "12cedbea6c95717ec2a957ebe166d3f5d7ecc14f2cf07252d5d588a85983f37a",
+      "en_sha256": "fd94e240688e995f56cebb6252402b2b891cd1d1232df1230daf9e1a0da33a5d",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] Jeżeli Szybkość jest wyższa niż celu, zadaje +20% obrażeń",
+      "kr_sha256": "29409f333678cde8ff6e04c5b57e33111f0d99bc1763f6048e2f25aebd7bd603",
+      "en_sha256": "6d15e9352317215bcd03307be0a3c10f41d7aadf3825c52e898717e92c3ef878",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] Jeżeli Szybkość jest wyższa niż celu, zadaje +20% obrażeń",
+      "kr_sha256": "29409f333678cde8ff6e04c5b57e33111f0d99bc1763f6048e2f25aebd7bd603",
+      "en_sha256": "6d15e9352317215bcd03307be0a3c10f41d7aadf3825c52e898717e92c3ef878",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Opeqacja!",
+      "kr_sha256": "9aa1c2e1fd1c153d5a12df803afe07d5260bdfd6877b089dad36811b414622e3",
+      "en_sha256": "45cd89234b2ef296ca18931de41d51605e113b2872003b32ba67b804f89308b1",
+      "origin": "ai"
+    },
+    "dataList[id=40003503].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "254101ee547753603ed90e66dcc33c38236536edef23c30f43a605a8670b97ff",
+      "en_sha256": "f3e81a5cbc8d7682d793923eb36f8d88347415608809f31b46b9561ecc3e1366",
+      "origin": "ai"
+    },
+    "dataList[id=40003503].levelList[level=3].desc": {
+      "pl": "(ulepszenie 3) — opis] Jeżeli cel ma 50% HP lub więcej, zadaje +20% obrażeń",
+      "kr_sha256": "8e0aba567d57cd1f45cbfbae83068d42797f041bcdaadd97d52891a4dec291e2",
+      "en_sha256": "a57586934b9aa6589792aaec5aa755e0213d4cd6060385cbd2de22ff075f9c9f",
+      "origin": "ai"
+    },
+    "dataList[id=40003503].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Gastwonomia!",
+      "kr_sha256": "0633f14f8f807e0c776a343673016fdab4386babc311c1c2d9c110fd08e31613",
+      "en_sha256": "4a546eb31f2cab8d5908b92c1a70d6ae87cc0080a8dda063bf61ba637505b6ed",
+      "origin": "ai"
+    },
+    "dataList[id=40003504].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Oskargaj Ich!",
+      "kr_sha256": "e74682733f8d5a9b4d15af06cda4dd6813c5f9a9be8887604b7909b5fb0bad52",
+      "en_sha256": "f50b325027a3143dbeb494f7cd0e8e784d18f1c82ba46f1ebf79fba5872b190b",
+      "origin": "ai"
+    },
+    "dataList[id=40003601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] Nakłada 4 Rozdarcia",
+      "kr_sha256": "ae3175967b17af57edacf344d6d8352069ac19aa9246ad9de373f33726a7db43",
+      "en_sha256": "0d852d0a2e0b643bc34409195e496d9f9abe2cb3e79fb89914e1e5b177d36bba",
+      "origin": "ai"
+    },
+    "dataList[id=40003601].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Chwytacz Klopka!",
+      "kr_sha256": "1185b1683b75e2df86c0129a87f3087be11c27f04ce463d3fa555ab4d1b3d9a4",
+      "en_sha256": "45683e9bf456a4e639e561f86750d70daab779aa700bbca09f2fbadd039f748f",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "254101ee547753603ed90e66dcc33c38236536edef23c30f43a605a8670b97ff",
+      "en_sha256": "f3e81a5cbc8d7682d793923eb36f8d88347415608809f31b46b9561ecc3e1366",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] Nakłada 1 Kruchość Przebijania",
+      "kr_sha256": "6bdb13d7b7c49fa58ab91ab979db07ff6681e85a6943a86e58f260c3da356484",
+      "en_sha256": "aa9f6798ab0709f9683ba3f250d990d215a2ffc3280f92332231003f9b9e1f42",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Wawalczyć..",
+      "kr_sha256": "b392e04c7b910acca135a3ce1c7e87c0ddbb9540caf697af72ce7e238c4c50ef",
+      "en_sha256": "28308f628c17e0f610ffe14fdeda793e6e964390fcd968b6b49eddde7031a02b",
+      "origin": "ai"
+    },
+    "dataList[id=40003603].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Jeżeli cel ma [Burst], zadaje +10% obrażeń",
+      "kr_sha256": "7b383a2ca3d75189e2b00925ffd11ec6947828a9d5511c7c35d17c9dde34bdfa",
+      "en_sha256": "3b8e662e285992ebca5916008e6400a7238e7b517467aea6709d250b2ac57fab",
+      "origin": "ai"
+    },
+    "dataList[id=40003603].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "(ulepszenie 3) — moneta 1, efekt 1 — opis] [OnSucceedAttack] Jeżeli cel ma [Burst], zadaje +10% obrażeń",
+      "kr_sha256": "7b383a2ca3d75189e2b00925ffd11ec6947828a9d5511c7c35d17c9dde34bdfa",
+      "en_sha256": "3b8e662e285992ebca5916008e6400a7238e7b517467aea6709d250b2ac57fab",
+      "origin": "ai"
+    },
+    "dataList[id=40003603].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "(ulepszenie 3) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] Odzyskuje HP równy 30% zadanych obrażeń",
+      "kr_sha256": "bb3ac5232c91a1828216f833441990260d0e3ce355076bfab24dda5afc3a4163",
+      "en_sha256": "2cf12d5c88fe2f9e22537513c65d62771efc3c644adde1298d6beea059491de1",
+      "origin": "ai"
+    },
+    "dataList[id=40003603].levelList[level=3].name": {
+      "pl": "(ulepszenie 3) — nazwa] Hija!!",
+      "kr_sha256": "606c8bf2584f82b971d8e63790100dbca1124408701817656de6067e6b7fd801",
+      "en_sha256": "3cb5a8212203fbc23366b69cf116452f091d4cd9850b982ca4074c9a8f7191c3",
+      "origin": "ai"
+    },
+    "dataList[id=40003604].levelList[level=1].name": {
+      "pl": "(ulepszenie 1) — nazwa] Nie Robak!",
+      "kr_sha256": "5c5723b4779b010885f850a551c12058274acd172fb259ff3cd92449a70571d7",
+      "en_sha256": "1dd56af3a1bb1d2d1cb10b74ab0ed2b63f5bf48f7024230a870428da4da9c3c3",
+      "origin": "ai"
+    }
+  }
+}

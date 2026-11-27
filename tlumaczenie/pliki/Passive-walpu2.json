@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=814702].desc": {
+      "pl": "— opis] Przy pokonaniu wroga Umiejętnością ataku zadaje 10 obrażeń Poczytalności wszystkim wrogom.",
+      "kr_sha256": "0a943e1d181063c3ed19fe541619610912dfdc42831d87224885c9dec5a090da",
+      "en_sha256": "6c68a98c43f017e3e43b36b2fc644180843166bb7e57653085cea1a7d3114796",
+      "origin": "ai"
+    },
+    "dataList[id=814702].name": {
+      "pl": "Wątpliwość",
+      "kr_sha256": "2464052b07ed6ba6b3f36608d09dbeb208b698d3da97fe5e288864aec13f3a15",
+      "en_sha256": "df47b2f305e51058831ec93657e4f9a1b8d262f3695175bd14e169485569c908",
+      "origin": "ai"
+    },
+    "dataList[id=814801].desc": {
+      "pl": "— opis] Przy Ogłuszeniu albo pokonaniu wroga Umiejętnością ataku odzyskuje 50 HP (odzyskuje Rdzeń i Party)",
+      "kr_sha256": "507d8ee241e9eecd2f1995e246e7804b6d5dda6fe446c6dd11595aef79e38aef",
+      "en_sha256": "f28902c87753a74c8cec41cc73370d74bdef57ec388eb7ebc369ba5e72416ecf",
+      "origin": "ai"
+    },
+    "dataList[id=814801].name": {
+      "pl": "— nazwa] Życie",
+      "kr_sha256": "51b8cf2254f33012eb5759685e327a7f070cbe6c2a55d05bfb5e4a004a1251c2",
+      "en_sha256": "52d46ffedcf86c4d0859f4b77883cbe66ed1dd3e7162a72a355dc7a318ce01f4",
+      "origin": "ai"
+    },
+    "dataList[id=814901].desc": {
+      "pl": "— opis] Jeżeli sojusznik ginie w walce, zyskuje w następnej turze 1 Spętanie, 1 Wzrost Mocy Ataku i 3 Wzrost Obrażeń.",
+      "kr_sha256": "fa1012f6b187873ebfc8c52606902c016d6182bcb0d66331e20c348a4dca03b1",
+      "en_sha256": "e44a462d7b5309ae3fcb581f30fa65b188b8928cdbdf9c383d1c6a6ac2f78b99",
+      "origin": "ai"
+    },
+    "dataList[id=814901].name": {
+      "pl": "Ból",
+      "kr_sha256": "84e22bc49fad97e980ccd09d7712167dbe128930fe48051072368af7834016a6",
+      "en_sha256": "b94dac135b0befd5f0ec921c222d0b1214781e0b06c738191587ba72ec3e82e6",
+      "origin": "ai"
+    },
+    "dataList[id=814902].desc": {
+      "pl": "— opis] Jeżeli ta jednostka ginie, nakłada 5 Wzrost Obrażeń na wszystkich wrogów w nast. turze. Efekt się nie kumuluje.",
+      "kr_sha256": "38de24cad4f118eb36f7188a9e806a553edb8b6d845829c4ca35ff53b1477434",
+      "en_sha256": "3558c4ed38dec0f067b0cfc3043df7cf97e266d183beb511feb96b9656cdd1f4",
+      "origin": "ai"
+    },
+    "dataList[id=814902].name": {
+      "pl": "Słaba",
+      "kr_sha256": "86d59d4379555dc0ea339b595aadb0082809e807706406142a1a63a8f21ac2e8",
+      "en_sha256": "f3e0689e79fd25ed490fac398e253ebbd4828670267a9afbeda60651179cc622",
+      "origin": "ai"
+    },
+    "dataList[id=815001].desc": {
+      "pl": "— opis] Jeżeli nie ma innych sojuszników poza Zielonym Świtem - Wątpliwość - δ, efekty Wątpliwości i Życia działają 2 razy mocniej.",
+      "kr_sha256": "e8b35ac847e378cc40acef0659acf5a3a705467ae102410c8ccdb0558bf5f971",
+      "en_sha256": "f2729b2f9a6bc98161a096d1a136de9c9ad350526a3b57bf454ebcf915eeb0d4",
+      "origin": "ai"
+    },
+    "dataList[id=815001].name": {
+      "pl": "— nazwa] Nieodpowiedzialność",
+      "kr_sha256": "0f234f53bc1215e9e4883a09e23d6277a9649b86ce81fbc612844de4197247cf",
+      "en_sha256": "a016b9909a0547160ca2d311a2df0a7eb5ed397ce4c17f6cbd665f317052a09a",
+      "origin": "ai"
+    },
+    "dataList[id=815002].desc": {
+      "pl": "— opis] Jeżeli ta jednostka żyje, na koniec tury nie generują się żadni wrogowie.",
+      "kr_sha256": "cdc950bd86119ad971ea5a940dfabc5e4672d6a752c36008b19bfe5836f9939a",
+      "en_sha256": "d5927bc1fc5a2cae827533582712ccc4356814a29e284e1e601dbcb898d98d88",
+      "origin": "ai"
+    },
+    "dataList[id=815002].name": {
+      "pl": "Start",
+      "kr_sha256": "b1f28cd21af730b22ed30302c4078cf8a25118d1172485004a8318cbba5c5e82",
+      "en_sha256": "9e6b4172e207e65781ec20702a0da1e6fc1508851202d96e63abaf932b137f2e",
+      "origin": "ai"
+    }
+  }
+}

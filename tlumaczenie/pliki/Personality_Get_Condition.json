@@ -1,0 +1,2224 @@
+{
+  "entries": {
+    "dataList[id=10102_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Seven Sekcja 6 Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "cd3b969577d0eb74513d2bc232188522e7b0bf52cb307e053c5f672dc7e33459",
+      "en_sha256": "8ec40d4752c6835de05c881f280f9d7dc74f42ea549698747722209eafde79f8",
+      "origin": "ai"
+    },
+    "dataList[id=10102_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Seven Sekcja 6 Yi Sang",
+      "kr_sha256": "74194c082d5937072e0a3e9be005778c7650087227e16056cb895c8ec2a7a289",
+      "en_sha256": "828a9d9b8bf6b3c31bd5080fa8abba6fb533dc31738449613481ffee9b223d8b",
+      "origin": "ai"
+    },
+    "dataList[id=10103_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ród Ostrza Zabójca Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "893021361600775101e3892950bba754533e5695c10b378aba3388cf4dbd2ea8",
+      "en_sha256": "8bec00635372c88dc95037f09c63858908b981d166a15829e4d875f0e1b194f3",
+      "origin": "ai"
+    },
+    "dataList[id=10103_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ród Ostrza Zabójca Yi Sang",
+      "kr_sha256": "cbd1ea6dc6c60cb3af3a62dbbabfbb7e69c310a4c8e058084a7427bdd5a60ab4",
+      "en_sha256": "66d7778ad4d09ad0f148568b2befcea6f6362182c216a504a1c2e580403898b5",
+      "origin": "ai"
+    },
+    "dataList[id=10104_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Effloresced E.G.O::Spicebush Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "1a3f1821505da2ce8dda0be79badc5d7db54391a67dd521c016a3919fbe23cfa",
+      "en_sha256": "83545fc3d1a27e4aa2110e0a7b628558dac4511b91c01b994a1eda34b5782f15",
+      "origin": "ai"
+    },
+    "dataList[id=10104_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Effloresced E.G.O::Spicebush Yi Sang",
+      "kr_sha256": "55f32439372f431f9d1438bfcc84cf3cb139c3b3627789d19dcf1e0d8c6c9152",
+      "en_sha256": "112d29cc802ae3ff8e9db244e18583a8c85828bb621f5bd32f511cbfb4f4b563",
+      "origin": "ai"
+    },
+    "dataList[id=10105_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Molar Fikser Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "012bc900590bc5c4eb1593486f3e7aae307cfc6c9bfb6c9a7a6c62a78322c5a4",
+      "en_sha256": "883432678baf1c0e854d31ac23d47005cb02d67b3932e2bf541ba9f7ca1eaf66",
+      "origin": "ai"
+    },
+    "dataList[id=10105_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Molar Fikser Yi Sang",
+      "kr_sha256": "2f8f987615ebff692c379b91eaf7c8d29bd9a61ffdd0f81d6360da10e5f2b8fb",
+      "en_sha256": "82537b39e022f9790ed623b69c47dce0d26159ec3e7abe040c82e4b53355778d",
+      "origin": "ai"
+    },
+    "dataList[id=10106_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 3 Agent Porządkowy Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "e0307bbac1b2623c7ad47f02d7e97698659bec93e814c3c27a8f9c2077c42c09",
+      "en_sha256": "f47855573d78fc59f8351d50c97ba6128e2b4d3c64a2bd9764eaae37ceececb4",
+      "origin": "ai"
+    },
+    "dataList[id=10106_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 3 Agent Porządkowy Yi Sang",
+      "kr_sha256": "81bb028d730b4b6e61fc38d01a30001d877c1ec8c8254735a4115f0f1d5b7dca",
+      "en_sha256": "89fef896ee011bacca277d6692f5555ea49ec717adb1534cd9db166917bdb548",
+      "origin": "ai"
+    },
+    "dataList[id=10107_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Pierwszy Oficer Pequodu Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "7487317d2d26cf3ce993148847742e6a959c029c689329c365ae69c7138707f1",
+      "en_sha256": "e7ef2d94755b9689a5a6988783e244c80b02629bad48835b8e52c206630f4539",
+      "origin": "ai"
+    },
+    "dataList[id=10107_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Pierwszy Oficer Pequodu Yi Sang",
+      "kr_sha256": "dafe410d8a855e5bc726d70d3ccd785fffefebbebfbfcf758e2351fc38b8e147",
+      "en_sha256": "f563bb9ba093d44fa008cb9f57c62c5175fa135129e01feabe4e0fe86d34d66b",
+      "origin": "ai"
+    },
+    "dataList[id=10108_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Dieci Sekcja 4 Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "965376a94875a8dc8865daaf908162a8c1ea595b27a65b1d6254f6569b7c3a23",
+      "en_sha256": "4c6034fcd70725210d051b3b882e57ace28aa555f4c75775d243b25f1bdc86dc",
+      "origin": "ai"
+    },
+    "dataList[id=10108_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Dieci Sekcja 4 Yi Sang",
+      "kr_sha256": "6051ea2435076a805433dbb56798d756e6b3b7474ba0040722eca0b8a81ee789",
+      "en_sha256": "a300f2024213e01ff338e563dd8176c794f1bde6abe50e376101ce42bad24b72",
+      "origin": "ai"
+    },
+    "dataList[id=10109_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Student Punktury The Ring Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "ad23f1c06f24897cecb6429022b82c963575fdde6228639912f5c4db4d68aee9",
+      "en_sha256": "bb62b3290b29cc8b691669b6d7ea33fd2ac586346fa06a98d16247a1ff0216b6",
+      "origin": "ai"
+    },
+    "dataList[id=10109_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Student Punktury The Ring Yi Sang",
+      "kr_sha256": "87d9a4d4926b5935aa1f6f18576176feb8ed9068cc4030a3494b959f02ee0fda",
+      "en_sha256": "0fa8b51c10eb0012458e06a8a9bd8fb20987aafc7bb7ba831255d7fc54899b2f",
+      "origin": "ai"
+    },
+    "dataList[id=10110_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Solemn Lament Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "7b56491e9a7f1bae8f4ed3b7829f79ca9da683daae8de6d08e801153ae66cf36",
+      "en_sha256": "c701f24734eff3370d3fccfaa085c50c93133d89c4a83069ed732d48d46142da",
+      "origin": "ai"
+    },
+    "dataList[id=10110_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Solemn Lament Yi Sang",
+      "kr_sha256": "442e555228f8a4ccd86986238d875c354c570df04b47eb4217d62466d6ec0fb2",
+      "en_sha256": "36e1e17c08ee96920e89e72b9d721903c1def1b7117509ccfa7e73d62b4dc2b0",
+      "origin": "ai"
+    },
+    "dataList[id=10111_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź LCE E.G.O::Lantern Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "2fae025d2885798e92abe7f54366f4c6a36677a3db3dc56d9494fae5965937ac",
+      "en_sha256": "e01f2ba8c0525a823b9bf5047f4d6d2c6720a4bf5b6da90ebceb74ebe7d5d0e3",
+      "origin": "ai"
+    },
+    "dataList[id=10111_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź LCE E.G.O::Lantern Yi Sang",
+      "kr_sha256": "fe5f5a995a31d06cbf8bf4e55aa81ad3aee2d1ade08fbb843ab1b220656a631a",
+      "en_sha256": "964c31da4da075c61ffbca56d05d6f3249f0e5231a45bcf4fd60654411cc7e14",
+      "origin": "ai"
+    },
+    "dataList[id=10112_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 3 Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "481c5b7be737864c31570d7ecfb0e39bcc5833d8290f9e37fd0c335b10765504",
+      "en_sha256": "15c1d7cb5275ad7fc603f6b1e513fd8165eb51d25139d63f07291c35a2bed57d",
+      "origin": "ai"
+    },
+    "dataList[id=10112_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 3 Yi Sang",
+      "kr_sha256": "6b34cf0eb11a76fd4135b94152dd60b0590cc0e4936f6a2bfee9c85e39c8e808",
+      "en_sha256": "af9dfbd738c11344c0f8b2edf1cee05ad94d8eaa1e6af5410b4712ee622365c3",
+      "origin": "ai"
+    },
+    "dataList[id=10113_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź N Corp. E.G.O::Fell Bullet Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "a6dc3569b80415f70ca52119d903df890afff433dd20dfc40ea73bb4ba860fd7",
+      "en_sha256": "a35ef9cfecf7f657592fd19b17d3acf7fd678c0400ef0ade76c0901c888e96ee",
+      "origin": "ai"
+    },
+    "dataList[id=10113_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź N Corp. E.G.O::Fell Bullet Yi Sang",
+      "kr_sha256": "c7d8051151eaec5b6bafd518d542a61755f7162c2591d3f9e33a8c4a80c8ab7c",
+      "en_sha256": "16fd58fc4ffe46e14d309cff0e250dfa0a5b45448866e2c05bf4d73b56fb6cf7",
+      "origin": "ai"
+    },
+    "dataList[id=10114_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Wu Adept Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "5bf793c7a2c12b86c9aa42a4f9b2319a0e1234348ef047e07bf64070193785e4",
+      "en_sha256": "3525111da625923ab0ec34c7ace6bb0db66419f9815f067bfe4a8d82cb87a42e",
+      "origin": "ai"
+    },
+    "dataList[id=10114_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Wu Adept Yi Sang",
+      "kr_sha256": "8aa653d272083de58ec5afd0f9949bcf8eda0ed5e94bffd55ee9ff0e59a1e567",
+      "en_sha256": "5e3ba252538489eb4bf297f9c9a81d24f17a35f69765e596f7ceee346a36fdbc",
+      "origin": "ai"
+    },
+    "dataList[id=10115_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Niania-Ojciec Indeksu Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "458a05c622817de60a0e3cc69c0eefa244bcc9b7ec4ef8c2ab15eaea3fe99b3f",
+      "en_sha256": "bbf00aa127e1ddf3b48be3b5b71cc5e3c484e61892a1ad993b1b8809cd17688d",
+      "origin": "ai"
+    },
+    "dataList[id=10115_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Niania-Ojciec Indeksu Yi Sang",
+      "kr_sha256": "9162fadded35efccc48f532fb5df7dfe87641e70af444c74e34366c9a29a6c4b",
+      "en_sha256": "b62a7c4ec44946f0f3b72fedbeabe763808c2723a2472df6a1979e3aaa4834cb",
+      "origin": "ai"
+    },
+    "dataList[id=10116_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź LCE E.G.O::Dimension Shredder Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "589956e8c3eb207b48a7d5964682f32f185c3e41605bf315261bc74f1a30885c",
+      "en_sha256": "ac5c1e9ee0de341f4defd7415598461cefaf64a6e35ad65cb658442cd68193cd",
+      "origin": "ai"
+    },
+    "dataList[id=10116_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź LCE E.G.O::Dimension Shredder Yi Sang",
+      "kr_sha256": "f3b8c79250baacea1d4c2796120a050350c3e7c6979de7beb8a0c36dad5c2fdb",
+      "en_sha256": "a9c51d179cc6aef67908161d20688a653c78c8d933c4c5c5273fef49e741df6c",
+      "origin": "ai"
+    },
+    "dataList[id=10117_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Le Noir B3F Suszarnia Yi Sang do 3. etapu Uptie",
+      "kr_sha256": "47333fba8f0e7c435e88ce8d13155c12746a93914f19cacfe27a9ebe8a9372f0",
+      "en_sha256": "dcacdab17392f929a32300d71e41c87cee7bc8a9dd26662664501ff6fc9e2b59",
+      "origin": "ai"
+    },
+    "dataList[id=10117_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Le Noir B3F Suszarnia Yi Sang",
+      "kr_sha256": "d6a5723ad263a0b33f416805c05a13dff5c3a29a181aa17c9c3321670eabf021",
+      "en_sha256": "01a6c7e59d96d5b30f94bdf094acf3b1f9a04c8503ef39dce8b2201c509c61ca",
+      "origin": "ai"
+    },
+    "dataList[id=10202_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 2 Agent Porządkowy Faust do 3. etapu Uptie",
+      "kr_sha256": "01b7048a37357be4f5ccd36c570b982ef0905cd02cc01e47eb11cfeafd28ad90",
+      "en_sha256": "d536b0e972a77e1511e86a239cca0677286006f0d19a795950c6ae7262b1528d",
+      "origin": "ai"
+    },
+    "dataList[id=10202_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 2 Agent Porządkowy Faust",
+      "kr_sha256": "0f41e9e6d0b1a4933a0d33c00fea19696289f7d23353d669bb0844991afbfc6e",
+      "en_sha256": "289336f437eec2704a835f5fd03249b5632bab89fa1d06bc1a091fcc80487275",
+      "origin": "ai"
+    },
+    "dataList[id=10203_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ocalały Pracownik Korp. Lobotomy Faust do 3. etapu Uptie",
+      "kr_sha256": "2e912e0085d55af054ac0a64b0bb66203514303164beaa1a02ed965f5dd48e8b",
+      "en_sha256": "59554c5e32c6f08cf02ef5ba81298fc1479c310969d87e2034f62012c9d66de1",
+      "origin": "ai"
+    },
+    "dataList[id=10203_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ocalały Pracownik Korp. Lobotomy Faust",
+      "kr_sha256": "a54f5208983e97e0747094ff2541a82ef621c1939d41d15f8a89395b6771e0bf",
+      "en_sha256": "0ca75b675df6663c84e9a034ec14dc77dc972776ee7263321d81dc9fd2308ea2",
+      "origin": "ai"
+    },
+    "dataList[id=10204_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ta, Która Ściska Faust do 3. etapu Uptie",
+      "kr_sha256": "926744c4755603bacdca1aec37bbd9611b74d5b8532716bb0f2660546360de01",
+      "en_sha256": "2c07c2195c37dc200288e080160b02f4899ac6a6449078d2b72ec32606274bf9",
+      "origin": "ai"
+    },
+    "dataList[id=10204_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ta, Która Ściska Faust",
+      "kr_sha256": "dea2cdf53ab710856777f9385584ee505d1341daacd98c3db701329325be7935",
+      "en_sha256": "78ae0f7d3faf812768519cf9ddc4ae6e21c3dc0d07abf889a0ae5814e2f5561b",
+      "origin": "ai"
+    },
+    "dataList[id=10205_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Zwei Sekcja 4 Faust do 3. etapu Uptie",
+      "kr_sha256": "76c1d4fe18edcba69e6eb568f942edfaf01846dda86192f3c3fef826f65d09a1",
+      "en_sha256": "6251ad10eece6c44eece7d051a2b36a3b8f7fe80a1fd882ffde366c80aa60e26",
+      "origin": "ai"
+    },
+    "dataList[id=10205_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Zwei Sekcja 4 Faust",
+      "kr_sha256": "bafcf935850c7b6deddd4e5ea9c96e5ec338ca72c58a93837f0d96ebaef9837e",
+      "en_sha256": "77cbcdb66eb3d0aa09ac21ca310f4db08a0bc7ffa5aa05954efa6792d0b4b207",
+      "origin": "ai"
+    },
+    "dataList[id=10206_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Seven Sekcja 4 Faust do 3. etapu Uptie",
+      "kr_sha256": "c5c7edb2632e8d34ef8c9ea2715b3be53f1d35be1b93a4a70c5a6d64bb49f4c5",
+      "en_sha256": "ef00032efd216e41e22e17873a74c459c41aa792d1403af8988051684d0f5d98",
+      "origin": "ai"
+    },
+    "dataList[id=10206_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Seven Sekcja 4 Faust",
+      "kr_sha256": "f3c3e1ab7e743fea0672ed5d25d770fc704b87be5624d2ea92d1d16cfc61ea15",
+      "en_sha256": "d7ddbe88302c2f34d9649d143f5d56954b7cbb0a220f0b3407d56d8d6e5504b1",
+      "origin": "ai"
+    },
+    "dataList[id=10207_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Regret Faust do 3. etapu Uptie",
+      "kr_sha256": "1bc06eb681d6272c22a36af389869180118f32ece7b795de66ee63459b57cfd8",
+      "en_sha256": "b573480d373f87b22cb08c7261c385867338c76d4aecc9074fa81eec0ec9cccd",
+      "origin": "ai"
+    },
+    "dataList[id=10207_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Regret Faust",
+      "kr_sha256": "f86673cf9d630cdc5c826cf09c8c1f1623168e6f39ab2254a8ae9f080a5c555e",
+      "en_sha256": "cd4def4c2e8dff030af81be9a07b7074f0f65869bd708a4ef45513cf240bb302",
+      "origin": "ai"
+    },
+    "dataList[id=10208_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ród Ostrza Zabójca Faust do 3. etapu Uptie",
+      "kr_sha256": "535c88ea68d8af7cb801ff23ddf86d3da9a0238265bec9009c6343a62a716d54",
+      "en_sha256": "a87e9aab66c479204d388de2ecf44715c0701f49d435a46ca3f240d519456345",
+      "origin": "ai"
+    },
+    "dataList[id=10208_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ród Ostrza Zabójca Faust",
+      "kr_sha256": "ba55e5cd6b63acc5e855d47ee9d6c7b7982bf1f03c1dd4cc4ef87703873aa66c",
+      "en_sha256": "1f1ff0ee49ef9c81bf5b3be472a92a934b07cfcb0c6b7060eb2a48c60afea52f",
+      "origin": "ai"
+    },
+    "dataList[id=10209_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Wuthering Heights Kamerdyner Faust do 3. etapu Uptie",
+      "kr_sha256": "a4228196dd3247ceca70fea0db50f0ab235db625fbbcf8c10cf34d73c7e71a74",
+      "en_sha256": "c3cd2128643db103dc7b97c1d2413a162ff760abd16c0cfc5bcb0c7caf993276",
+      "origin": "ai"
+    },
+    "dataList[id=10209_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Wuthering Heights Kamerdyner Faust",
+      "kr_sha256": "6a06746cbc9010190e6f0033e1b6e367c5740c0b91ef47bdd5bb0b14aa342f9a",
+      "en_sha256": "42debd58ac68d80f8539818a1566938d0c6303fc67fe112b09b6167888cc3259",
+      "origin": "ai"
+    },
+    "dataList[id=10210_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro MultiCrack Rep Faust do 3. etapu Uptie",
+      "kr_sha256": "7017944b3baa866f3568c739489c9fa997dd12681d1c32848230cf26db81bf7f",
+      "en_sha256": "d61c8affce456efa58f50a29f59350866d6ff737e3b2b59b345ddc4e412ca547",
+      "origin": "ai"
+    },
+    "dataList[id=10210_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro MultiCrack Rep Faust",
+      "kr_sha256": "e5433c33d4e2a4a837c32ddc04fff886ef271e78fbefcd00078851d42cf2f27e",
+      "en_sha256": "d3fec17df573a408cd8d714a0f01f851043ea26a873e3346f25eec8b98f35fba",
+      "origin": "ai"
+    },
+    "dataList[id=10211_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź LCE E.G.O::Ardor Blossom Star Faust do 3. etapu Uptie",
+      "kr_sha256": "0a3069ed86573649c299206ba79901e447ba189b067afcf7144a0d82db30472b",
+      "en_sha256": "f62192d517cf42b54a03e5ae5d31064a364ff0686e6ba5cc4a220dad35cbf4f7",
+      "origin": "ai"
+    },
+    "dataList[id=10211_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź LCE E.G.O::Ardor Blossom Star Faust",
+      "kr_sha256": "d50658e2821722c871a5571a5e454ee807626fa38058ccefdcf694b9cde9a379",
+      "en_sha256": "73dfc352d0343395471e0ee43ea183b1c16dd6fe3fac85484a5f87b0e4b2b9eb",
+      "origin": "ai"
+    },
+    "dataList[id=10212_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Mao Adept Faust do 3. etapu Uptie",
+      "kr_sha256": "843d5f21f29843ed3a08190565fa417975f44e7a16c1ad8703c4efbacad31f31",
+      "en_sha256": "30e1b44abb20f7bf7d1afdf6b3407c03dfb39ce5d197cf8997e37ffe382ae042",
+      "origin": "ai"
+    },
+    "dataList[id=10212_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Mao Adept Faust",
+      "kr_sha256": "bccc231a0ce1f5885e2705b62bfb09e8c3a48522c550b109906984e616814b1e",
+      "en_sha256": "3f3675f321a0989c3ece75224dd5af3ac988449ab6aa63115720fb2512de488b",
+      "origin": "ai"
+    },
+    "dataList[id=10213_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Wschodnie Stowarzyszenie Shi Sekcja 3 Faust do 3. etapu Uptie",
+      "kr_sha256": "8ce28e86f08aa35bfa69af1d89a224d1fccd56d13b83382d2b14576e0f6f12b6",
+      "en_sha256": "33d80d806f462051064ddf9a7acdf286dd9f6c449b5664f615f4e49d58e21f0a",
+      "origin": "ai"
+    },
+    "dataList[id=10213_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Wschodnie Stowarzyszenie Shi Sekcja 3 Faust",
+      "kr_sha256": "705489997189297eee524333e387be7f1cc3862153b72a24bf7996f16b352b9e",
+      "en_sha256": "f035bf97e3398253be93048d025fff80257bacf7fa1ebc17dbfa47c70116dacd",
+      "origin": "ai"
+    },
+    "dataList[id=10214_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Prozelita Indeksu: 【Kartka Papieru】 Faust do 3. etapu Uptie",
+      "kr_sha256": "865675b95b1a3afb3b8d73ffeb150264dfd4f657516ae12eac11d5e676a8d987",
+      "en_sha256": "4b8678fcf2d28812b0d8201f4461aee31d9babc290e9bbe13890691c4172cda9",
+      "origin": "ai"
+    },
+    "dataList[id=10214_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Prozelita Indeksu: 【Kartka Papieru】 Faust",
+      "kr_sha256": "038890777cae5f91711f180d90bbcd6aecfc93289f7a5533612db42cffd95cd0",
+      "en_sha256": "e768c3f2e348bc6a7d75ab38674bf53a30a08b1df19d819a4a39b950c67d2901",
+      "origin": "ai"
+    },
+    "dataList[id=10215_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Uczeń The Ring Faust do 3. etapu Uptie",
+      "kr_sha256": "05c2cbe26e96ea941679b6bf9b258e7c2204fe6af6ee8582af582c23b2dfbdbd",
+      "en_sha256": "ea44b35f341db707481ea3717662028a9cd56819b1ec72a81c7e34271ba9a488",
+      "origin": "ai"
+    },
+    "dataList[id=10215_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Uczeń The Ring Faust",
+      "kr_sha256": "a8920302fc0e092dd31e2cdc0e6eb76025371692b4218af78f016579faeea8f6",
+      "en_sha256": "4a51504e472c85b632c380ed33874ed0fb7429302e86223da744f5e85a7549bf",
+      "origin": "ai"
+    },
+    "dataList[id=10216_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Świtu Fikser Faust do 3. etapu Uptie",
+      "kr_sha256": "d37db4e84309ed6c25f60a7530347fb246ebba11fad9d4158b62452906d86333",
+      "en_sha256": "24c21950473b3ecfd27c4d97f15f8f9781417c1f6cb225d487da055bc3c9ee48",
+      "origin": "ai"
+    },
+    "dataList[id=10216_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Świtu Fikser Faust",
+      "kr_sha256": "1c40a90dc78cf349186709d497ca46e38748c9342ba3e4d2a18c62c4bba2cda2",
+      "en_sha256": "9316005f3029075a067184c810bcf3cba6aef73d8f51e8f527d7e2e176167df2",
+      "origin": "ai"
+    },
+    "dataList[id=10302_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 3 Agent Porządkowy Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "df3956fefdf95704711e32d8bd6282f4642d01a3dfc0a7648a5773738797ddcb",
+      "en_sha256": "c96441d2122e3fd306c71c0ece6400d11c484a31ff419230ebc2c9ee4052dbcc",
+      "origin": "ai"
+    },
+    "dataList[id=10302_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 3 Agent Porządkowy Don Quixote",
+      "kr_sha256": "b6a4162d4a0f86d3736635818e85adb747fc1b17318e827dc765664903f6f106",
+      "en_sha256": "a7765269d51e2370d2cd584687eb61457841a026f126aa6a914cf731362b270b",
+      "origin": "ai"
+    },
+    "dataList[id=10303_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Shi Sekcja 5 Dyrektor Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "89ed428eb866c6df04867bde678aa1a0f4ad85f1abed357b35813597bad55542",
+      "en_sha256": "626e6e8845b9c4ab8cdeb0bcb8d96353c314a5aa19109e2872f6157c55ce95ec",
+      "origin": "ai"
+    },
+    "dataList[id=10303_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Shi Sekcja 5 Dyrektor Don Quixote",
+      "kr_sha256": "1e4edb3d4d93a7f3d88d01dac4820dcefa8e99db1365832232d00e2a551b232d",
+      "en_sha256": "e7a4386fd9feef826502edec7968115b574dd6cff7a4cf75ce17a3cf89ab5377",
+      "origin": "ai"
+    },
+    "dataList[id=10304_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. N Mittelhammer Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "eaf85e96f7c3676e55248fda3a66cb1a4eabf0a99fd39707b01f2d95ec3edee2",
+      "en_sha256": "d907e17fb485355cfea97a4550b9dd6f3fde73033780e85fa25eee2029fe50a8",
+      "origin": "ai"
+    },
+    "dataList[id=10304_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. N Mittelhammer Don Quixote",
+      "kr_sha256": "f76a38e1b8390e5a4eaf6552bf5def6c73e9fd11bd3b958930c45a112deb2a12",
+      "en_sha256": "92855a8f198b2cad883157030e9d5c7429e1a476c6a9972964003c264293bed7",
+      "origin": "ai"
+    },
+    "dataList[id=10305_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Cinq Sekcja 5 Dyrektor Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "7212f1e3a877716bd6e875339597137f591e7aa61fe11bc057ea9bdecbb95bec",
+      "en_sha256": "4704e851df0631469d127f41739bc45c944140d93cf8aa5598120262d218abbf",
+      "origin": "ai"
+    },
+    "dataList[id=10305_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Cinq Sekcja 5 Dyrektor Don Quixote",
+      "kr_sha256": "14334983703533b264cf055618ee38521bab6b70024aa03671cee45a0ca47589",
+      "en_sha256": "30b6e9a3519b0a899a04d9058baae5d907f44615d274d3ca14a6f20be2181676",
+      "origin": "ai"
+    },
+    "dataList[id=10306_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Młodsza Siostra Środkowego Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "5536f4de32b39129a7d6af184b39dc56644ac94eb6cd968a90d433a8410db18e",
+      "en_sha256": "932bf76a3485ec87c2fc09f01f0bd45fc989c3b18e24a79a851481d844b27d34",
+      "origin": "ai"
+    },
+    "dataList[id=10306_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Młodsza Siostra Środkowego Don Quixote",
+      "kr_sha256": "6369ad87d857c50ae3174cf5e2cfe01e150bdd9715827e3cec96baba3eefc2f2",
+      "en_sha256": "d3600b15412a9ecbdcde42c43da14c68ceedd21c838aa37817bfc894df9eae7f",
+      "origin": "ai"
+    },
+    "dataList[id=10307_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Lantern Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "2efc4611da5c6cb395aeb576a67934db1f065630b2b08bc82651774b749d815e",
+      "en_sha256": "a30325c7522752dc5168fcccc4d81c333346b32b154b308ed8739407f2b2a81a",
+      "origin": "ai"
+    },
+    "dataList[id=10307_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Lantern Don Quixote",
+      "kr_sha256": "5dfe208dc2b36469c8de55f4cea820ccbbd9d16bcab0dfec447fa4bd7c596029",
+      "en_sha256": "745aaacf82e58767f60d5f095f29d5f2dfcf50d1e8c32af8e16264ab54d1400c",
+      "origin": "ai"
+    },
+    "dataList[id=10308_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ród Ostrza Zabójca Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "91fdf74fbc4bdf694adbb1bd2f5cd59374afe837f53745afb86919450b8fe48c",
+      "en_sha256": "b0235d8f2bf58f770ab17d959b843cbed3a594542f2aedcea439d9d0f3dcbe42",
+      "origin": "ai"
+    },
+    "dataList[id=10308_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ród Ostrza Zabójca Don Quixote",
+      "kr_sha256": "a341afd4f131ab46475f600f0deb7bff12d913e2e6ce72505f04bb1bf6b71eb3",
+      "en_sha256": "d398f52b0e72e69ba42b417dfdb34ec2e3a0c7c4a271baec93a9932ff964eacc",
+      "origin": "ai"
+    },
+    "dataList[id=10309_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. T Klasy 3 Personel VDCU Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "257a4b53faa6fb0ce374d80ffc9675bf152b7b09f1f78e84cf32cdb8b524bc7a",
+      "en_sha256": "9719882ae434ee4f6ed43056d00d04edac6c816963dcf8d1d867b8613bb7c17b",
+      "origin": "ai"
+    },
+    "dataList[id=10309_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. T Klasy 3 Personel VDCU Don Quixote",
+      "kr_sha256": "6ac87d1ca3e98ad2861789f2d9e376924062b06f24f76a8890f34d1978db25ae",
+      "en_sha256": "df94f14074d8611c7cd2c2f3406874ce4c2ea8437bbf91d2c3fd22ac660ccac5",
+      "origin": "ai"
+    },
+    "dataList[id=10310_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kierownik La Manchaland Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "8be8952ecf31ff28607c5eb499a7a6f1fce3fbc1c6cc1715db8dbf647adb98c9",
+      "en_sha256": "f89a46b9cecddc2aef76af8ff45352ec896fdd92ec4acca5d688a8f4abe15997",
+      "origin": "ai"
+    },
+    "dataList[id=10310_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kierownik La Manchaland Don Quixote",
+      "kr_sha256": "a2ca463ec2e399a61837d092d85c125b5b63820da1f1984a7676db48ef3dcf20",
+      "en_sha256": "ec119c92d865df7d88b5995f5793381e3f81df30f8859db9a29fcb19f897439d",
+      "origin": "ai"
+    },
+    "dataList[id=10311_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Wschodnie Stowarzyszenie Cinq Sekcja 3 Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "50aa01ac3e724928e266ff98880acd43c58ef6b40f07f714a4c8e73f1cfb6e49",
+      "en_sha256": "c27e6b0c1c49ef9e631da6e3a1dbea337291c949eddf3474dd2917968b22923f",
+      "origin": "ai"
+    },
+    "dataList[id=10311_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Wschodnie Stowarzyszenie Cinq Sekcja 3 Don Quixote",
+      "kr_sha256": "9440c09dddab17b654e90d136551cd2544ee1d62d8a61182bc93a2af9478e0cc",
+      "en_sha256": "25e90dc0f39b57199b8a9a2c148637f899167ba8fb10c3ac057ba6e701f76823",
+      "origin": "ai"
+    },
+    "dataList[id=10312_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::In the Name of Love and Hate Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "96af559780706b542a636785f6490ab49b6c9afb14d34004fa7b043b9cf2a013",
+      "en_sha256": "20c5b37a03ccfd2102e251f872036a5c76cfc1c607a7c1b56d33acbd87c9f125",
+      "origin": "ai"
+    },
+    "dataList[id=10312_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::In the Name of Love and Hate Don Quixote",
+      "kr_sha256": "339a6bc51857a0200408a67eb8b7dd3809ab8e220193da9ece841bff3daeaac5",
+      "en_sha256": "e3b6733bdaf5218a9f14e4af2368d1d9d69356d5ae43baa8aee1d230c8f2964a",
+      "origin": "ai"
+    },
+    "dataList[id=10313_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Wei Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "7b795aebffc7ed52f711d5b708dd21ccdf1bc4e6c593e3780432257874d6ad56",
+      "en_sha256": "2f7de8bb3373231304350e58ccd9e8dd296e2b915bf4ba976db0a193e0712800",
+      "origin": "ai"
+    },
+    "dataList[id=10313_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Wei Don Quixote",
+      "kr_sha256": "5c939c728dfd98f09788f631a3d2e0a44cf79656f3b89383f013fca056a92566",
+      "en_sha256": "d44fd9a71bf178cd899498fcc0c98f3056b33c52b72e3c2edb9065edf726318d",
+      "origin": "ai"
+    },
+    "dataList[id=10314_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Pełnomocnik Indeksu - Effloresced E.G.O::Procuration Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "91098a8dd010d508657183361322d610b77f027e5df24b4f80b567ac458cbc54",
+      "en_sha256": "3537b9bac1273249cb59548d52930d17e822a805a7675b77c56d0d09eea27762",
+      "origin": "ai"
+    },
+    "dataList[id=10314_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Pełnomocnik Indeksu - Effloresced E.G.O::Procuration Don Quixote",
+      "kr_sha256": "1f5ca54a3a67c8d03e72ba56ac42adc6a7e88e8b9021c012afc2dd2548d9e2ca",
+      "en_sha256": "dfa274c70be47d6d0283f445d4ebad9964af19fcc7f065caa3d4803c97477b87",
+      "origin": "ai"
+    },
+    "dataList[id=10315_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Le Noir Menedżer Marki Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "0879583286d83abc43c8a1b14e4b6001fa453212891e2f528244c95e932c08d2",
+      "en_sha256": "8613f9ea580dc08397beb26c0c03144051fbce41b7c0af2194d2247178391d70",
+      "origin": "ai"
+    },
+    "dataList[id=10315_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Le Noir Menedżer Marki Don Quixote",
+      "kr_sha256": "010c973ecd0883f5cfc5709a4c4991d6108407e312c7e1a054075456f5dcb01c",
+      "en_sha256": "7b60232748354154ff9a95928c5adc6c71836980f6d74c5ff2b3bc117cfdf038",
+      "origin": "ai"
+    },
+    "dataList[id=10316_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Klina Fikser Don Quixote do 3. etapu Uptie",
+      "kr_sha256": "bbbca33c8ad8bdb3564d2f5f8ede6e5fae9324c00912674c3d4271a80f1dc5a3",
+      "en_sha256": "deb6c98b615c630087659df4116fccadff186b14a859632a153101cf092a06a9",
+      "origin": "ai"
+    },
+    "dataList[id=10316_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Klina Fikser Don Quixote",
+      "kr_sha256": "d227ae29caf38d88d6f3471a250b0f9e682905e839b81b07cfe2395ce18dd423",
+      "en_sha256": "1af3496211b42b130d37f6d84613a5a3451dfc9b01936b6ee1cc31c7280b1cd4",
+      "origin": "ai"
+    },
+    "dataList[id=10402_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Seven Sekcja 6 Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "7c46df521c71b125025b63e5f3c27ffb60fec18f54b7ddafdcef85191e0f5042",
+      "en_sha256": "89716b9cfe6a2b6189854777a033a8a459e64aa6c69a582cab5901073db4f20e",
+      "origin": "ai"
+    },
+    "dataList[id=10402_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Seven Sekcja 6 Ryōshū",
+      "kr_sha256": "e80c8155052a06a31589ac59a346f1bf6f1750ad840d6eb475ca6c75cf17f6eb",
+      "en_sha256": "06f44465bb797f8743ce8f92398816bcf9b2092240320ec7c669b9661b921ea1",
+      "origin": "ai"
+    },
+    "dataList[id=10403_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Klan Kurokumo Wakashu Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "7f169cdd2f889c5e8ed732a0e7e39bb51d779a9d088e00e2e62efa76411fa801",
+      "en_sha256": "8eb4cd4731848f9192e2598dd7613219df62b04206c848382bd83de3f43f8c34",
+      "origin": "ai"
+    },
+    "dataList[id=10403_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Klan Kurokumo Wakashu Ryōshū",
+      "kr_sha256": "565849052223d09cfb056901198bd9028a3862a123f33e80d757cfbda2b9d382",
+      "en_sha256": "080f5ba427c9b81deeb299130072c58c4313459c17ff7b571614106a6f4f7f0f",
+      "origin": "ai"
+    },
+    "dataList[id=10404_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź R. B. O. P. Szef Kuchni Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "e9a6f288ef724ecb0a1b3b2afa9813226e3a843d4755feb7af1ba0c047ef10cd",
+      "en_sha256": "fb0b7abe18439f52647a2832af2d18115c589b3dcc71b3cad98f81d0b23d2f89",
+      "origin": "ai"
+    },
+    "dataList[id=10404_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź R. B. O. P. Szef Kuchni Ryōshū",
+      "kr_sha256": "75ab1d55b1a3807779e89732f0c137a6b29f1915101c3f4df3e9c20dbb17400c",
+      "en_sha256": "852c67f7f773e057cd206f31806c947a892b8b2bcef3a5d15f498945c0ba96df",
+      "origin": "ai"
+    },
+    "dataList[id=10405_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 3 Agent Porządkowy Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "48d0694fbc09e6f68077278fbaea67954363100db871ca569a384cdc8587dd90",
+      "en_sha256": "1c6abbe812472b72fb4e02adda20cef4237b4ba9e3227b991c55915d528ba5c9",
+      "origin": "ai"
+    },
+    "dataList[id=10405_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 3 Agent Porządkowy Ryōshū",
+      "kr_sha256": "2bd5271ede31f9017ee02ef21be80f01f8c9b226a313ad441dccf8604f9bcd6a",
+      "en_sha256": "6689cba99d91c72d31b1f15a7a180250dd3af26c44a9811e448c5fff7ea77720",
+      "origin": "ai"
+    },
+    "dataList[id=10406_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Zastępca Kierownika LCCB Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "d127a1c97063bf154e14ac009e8ed922592d1900c37cfc4676f13b57bfaeb54e",
+      "en_sha256": "d385cae44667f2ef0aa4ed3c585782e2e6f89c65ba1b5d9c286027e001f7a2ef",
+      "origin": "ai"
+    },
+    "dataList[id=10406_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Zastępca Kierownika LCCB Ryōshū",
+      "kr_sha256": "8d9ec90faf5bc53fbf3a19c0b8ff0c039a6db5a397f59515c61bcfa09397589f",
+      "en_sha256": "4c8dbf81aaf9a81eb1c299621cacd70b7cdb92e0a1b706294ed21036dc5332a0",
+      "origin": "ai"
+    },
+    "dataList[id=10407_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 4 Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "fda4d7aae298701833e6a0baf1e90dd7f9e0c68798d6188f4de35c90e801428d",
+      "en_sha256": "acc304587c416d910915f0406412de86a95976e495244cdc0ffea543da02961d",
+      "origin": "ai"
+    },
+    "dataList[id=10407_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 4 Ryōshū",
+      "kr_sha256": "3e00b4aebccbdb40b00f7f6dbb3e876214f4435ea405d0f77bc292a9725ee97e",
+      "en_sha256": "f46033b9f8f5f4f6e6ac22758dbb395fbd88d53c775bd623f82a8d011968517e",
+      "origin": "ai"
+    },
+    "dataList[id=10408_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Rodzina Edgar Kwatermistrz Kamerdynerów Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "67b0c625fb28c50bed6d16c9b0de3bea2ff6639872f4e830de8343575b6760ae",
+      "en_sha256": "e25d74563ac7864a946e1c34e17af6acbe259bc0b5b0e74621665eeab9ec7ae1",
+      "origin": "ai"
+    },
+    "dataList[id=10408_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Rodzina Edgar Kwatermistrz Kamerdynerów Ryōshū",
+      "kr_sha256": "3e370cf12d7a81ca76d7f076bcc4372130854edde6300da0b066c33140610dc8",
+      "en_sha256": "ebb2a8d118186ed29f3c5190b0a7f619ba8e601bee6abd7fecb2b67452c5bdf1",
+      "origin": "ai"
+    },
+    "dataList[id=10409_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dystrykt 20 Yurodivy Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "497b5c5beda413b726fafe849ddd30b046f839fe2c22a60c6d7e79a7da59ac2a",
+      "en_sha256": "a43ef3f8d81c4946171846c132b5b164c56c2af046fbd5d19ad1a37e263ac0d6",
+      "origin": "ai"
+    },
+    "dataList[id=10409_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dystrykt 20 Yurodivy Ryōshū",
+      "kr_sha256": "6dc667d511ad440967e6d8b355f9b8d65430c3dc7e88746a50a38a8cee31062c",
+      "en_sha256": "1a10918db8aea6fa1f4bb6bd7d76aa7d29aa50c29f5f0e5f3f89ea8cc5ccb1a5",
+      "origin": "ai"
+    },
+    "dataList[id=10410_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Red Eyes & Penitence Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "6b55b3883a1dcb3e85cdb96731e4109fe3fd555ff2ff19f76bb986de96eb826a",
+      "en_sha256": "410f27c22f51e7f551698bd8b122352cb45530d220fb3d8d9e7c487a742a09aa",
+      "origin": "ai"
+    },
+    "dataList[id=10410_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Red Eyes & Penitence Ryōshū",
+      "kr_sha256": "ef753a5465e372b16c273e5888652fdfd9beed792965ce9c0bc7e0b754170aab",
+      "en_sha256": "831406620022efb197035b30a29e46e46f8b68f6faf0b2f86cbacd01b45d94af",
+      "origin": "ai"
+    },
+    "dataList[id=10411_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Mao Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "d87cc82db0187305fc4530a6845bb761a79c7b4337b0a30f86908e84ce531549",
+      "en_sha256": "cebb2ddf7760c2d954cd66b115aaa5443dc5ab380aaf60da9876abb267f725f0",
+      "origin": "ai"
+    },
+    "dataList[id=10411_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Mao Ryōshū",
+      "kr_sha256": "cebd5571f6c6312fc258ea1281eccbea805bf3eaae202ae6679c78f35d9915b3",
+      "en_sha256": "a17f1414f89d9b7ba90e9388f5f0431b7cb05ac126f4d561bec5eb7f9ee8929c",
+      "origin": "ai"
+    },
+    "dataList[id=10412_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź N Corp. E.G.O::Contempt, Awe Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "7910a925217b5c432100464c0c91e44e14cc79fdc338b2cfc178ccfc67089f0f",
+      "en_sha256": "69ef815eec80aacf38fd23395863adc2ecfa2c02ad53bd1f49fa5da010ca29b9",
+      "origin": "ai"
+    },
+    "dataList[id=10412_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź N Corp. E.G.O::Contempt, Awe Ryōshū",
+      "kr_sha256": "d9e73a9826e9e201ac19ed27f2e47071c3235b912878f2f96ac36713ba71413d",
+      "en_sha256": "f18318ec79a62cc2abee4926d46263136d5c1daf4d30db070c3d9c3ddef7d65e",
+      "origin": "ai"
+    },
+    "dataList[id=10413_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Błądzące Ostrze Hongyuan Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "2d2d383393d7b68a3d05bcb45fad5a7c13ff2159edf7223ad28a0a4444afa340",
+      "en_sha256": "2505ffbe1cb3ce30b68d405048145f434c8616141cd401dc3c042151d7cf43e3",
+      "origin": "ai"
+    },
+    "dataList[id=10413_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Błądzące Ostrze Hongyuan Ryōshū",
+      "kr_sha256": "9ca605f35fe2695769f201f5b7763f7f4bf7c956e9facbc451d39f6b223ffa1c",
+      "en_sha256": "a0a2b1d00041eaa5c7b1a2be824db8dade914f78524bfac1a5bbbd9d8945aa7d",
+      "origin": "ai"
+    },
+    "dataList[id=10414_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Faint Aroma & Solitude Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "77990a39cc538575b9af1c14ad1c124419dc7a7f8125b65a36c0cf8825587aa0",
+      "en_sha256": "af04180d9bca63ed7f78599bec8092a4ba203dda39ccedbf5b5b0a4ddfa76238",
+      "origin": "ai"
+    },
+    "dataList[id=10414_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Faint Aroma & Solitude Ryōshū",
+      "kr_sha256": "3658a6627996e2e911cb4c4c27710a50ab49d6aee158993a131312d40a8fbebc",
+      "en_sha256": "39a130e6d7d17de4efe9cb2d497b378458e2842413089edba0ef1752db5ce4dd",
+      "origin": "ai"
+    },
+    "dataList[id=10415_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Miecz Domu Pajęczyn Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "cf5e03c431ee548e1fc51243cdfd1d67fcdd43cb9b0be2599d8a9a40bffd1d3e",
+      "en_sha256": "560d2de7814bbd5cfeccebb4df9e44dc10b6ca65fa354dfb87e9322d29e7c677",
+      "origin": "ai"
+    },
+    "dataList[id=10415_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Miecz Domu Pajęczyn Ryōshū",
+      "kr_sha256": "7917a5442660eac40c20b7c292fc6d883122e94e8d14b9c303845528e9f9fa88",
+      "en_sha256": "8af8a36fac22db39c464fd94c2bb8cd0a78c57ea700231dec5b1e01b5b77c211",
+      "origin": "ai"
+    },
+    "dataList[id=10416_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Le Noir Salon Obuwia Ryōshū do 3. etapu Uptie",
+      "kr_sha256": "7127dbf1761a70e1ac7ff31529bdc0a5172fdca4df85877a929c79fa71bfa9ee",
+      "en_sha256": "9e912831467abc3af0341dd2a4afe655f9b4bf6566eaf8fc113454bd0f7d74fb",
+      "origin": "ai"
+    },
+    "dataList[id=10416_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Le Noir Salon Obuwia Ryōshū",
+      "kr_sha256": "1049fce38af650ce407f2b7dd57d866d86da0341b5942b323dc91827c6a9a06b",
+      "en_sha256": "8bf75e295005c4509581be84ef9b46bf283b955a40a702cb36e472fc4607b4c3",
+      "origin": "ai"
+    },
+    "dataList[id=10502_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 6 Meursault do 3. etapu Uptie",
+      "kr_sha256": "a2d2cdfaaa95d2c04c331a2bf96157fcb5475220263a5dc24e948fe262793f9b",
+      "en_sha256": "18db84c6a25cb0c5e47c6c733b08ee41f0a93694ec5080b79a3cc4e691230785",
+      "origin": "ai"
+    },
+    "dataList[id=10502_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 6 Meursault",
+      "kr_sha256": "1b63e62cf2bfcb8e53c68bda2fc864f2dba420fd74885dd05155542cc4934b77",
+      "en_sha256": "4cca287759b4b9b3ad5ab26629c2dad6fa520df2892484aa24d2f9df02a60142",
+      "origin": "ai"
+    },
+    "dataList[id=10503_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 2 Agent Porządkowy Meursault do 3. etapu Uptie",
+      "kr_sha256": "288975d43596d10cfb715e26e76b64445ea16b4f21b5a6555d47d3826d46d52b",
+      "en_sha256": "6bfdc4480dae3644d5f6c9cbdb6bbbef88887bcd31b8892686bcf2f9607a7633",
+      "origin": "ai"
+    },
+    "dataList[id=10503_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 2 Agent Porządkowy Meursault",
+      "kr_sha256": "26594266241b52be9a11fb6deb681d1fe1772bf95e934bb60436c5cb6cb05c8f",
+      "en_sha256": "f49331dfcc7af1214dbee01f5b74b5eb63c77804b2645319b4e7e194b7b3674a",
+      "origin": "ai"
+    },
+    "dataList[id=10504_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. N Großhammer Meursault do 3. etapu Uptie",
+      "kr_sha256": "106d0cee267bfa2eff8a3e73b73bf11b7db256069a2a263e4c29ebadcc95ae1d",
+      "en_sha256": "491e13b7db918c5e57fcc1c32594097bb0b31374128eb82c5753ce6986991856",
+      "origin": "ai"
+    },
+    "dataList[id=10504_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. N Großhammer Meursault",
+      "kr_sha256": "fd7541f7b3efd7af9c99ed8c932b547f99849bf8f537d5fd00fea5c6b0cda067",
+      "en_sha256": "60984470721786dd8062157cfd11c8668b7034f25614135e0fafb283920d8d07",
+      "origin": "ai"
+    },
+    "dataList[id=10505_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Warsztat Rosespanner Fikser Meursault do 3. etapu Uptie",
+      "kr_sha256": "1aaec4f2e59fc2b6baff234de9aaeb77007ccea701ed5bbafa33e6cb697a5017",
+      "en_sha256": "81e8a42f21be99c10c2ea7be66a59561659d9e87e9af881b2bb81b71cd6e90c2",
+      "origin": "ai"
+    },
+    "dataList[id=10505_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Warsztat Rosespanner Fikser Meursault",
+      "kr_sha256": "ceb162334ca6380b97e3d063fa6252ad92ff216e4d49d9ef3a761f6684aa5f80",
+      "en_sha256": "282a5a86819bb07e25fcc17647be87af1b6aaa8f2fd170fb079bbd29a746b112",
+      "origin": "ai"
+    },
+    "dataList[id=10506_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. R 4. Wataha Oddział Nosorożców Meursault do 3. etapu Uptie",
+      "kr_sha256": "d34c839f225a0e0eb346d6f50228d7133b24acac7a942628d637183955f7beb6",
+      "en_sha256": "871604d8da5302bb8562aac326c6b2e5d1fc7b721a6240e271827d53fe9f3473",
+      "origin": "ai"
+    },
+    "dataList[id=10506_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. R 4. Wataha Oddział Nosorożców Meursault",
+      "kr_sha256": "2735e8e07ba324fdfc7d5d5c769f88bc416142699862a0e30607e0ae9287d323",
+      "en_sha256": "92b32a2668d698cdc0571af6b12a829ad026a771618714dd09b863c736c6755c",
+      "origin": "ai"
+    },
+    "dataList[id=10507_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Młodszy Brat Środkowego Meursault do 3. etapu Uptie",
+      "kr_sha256": "1d9b9fb98340c56e13ee8adb632ec63181c9a92b7b5cd8cacb45a21e7e5577f3",
+      "en_sha256": "977462579223002179d4c9436694395e28bad57cce4524553d132ce0611ba32a",
+      "origin": "ai"
+    },
+    "dataList[id=10507_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Młodszy Brat Środkowego Meursault",
+      "kr_sha256": "471b1d1f0b6b90ae5eab4c530a907539f8ba0ace411887508df347032df62f59",
+      "en_sha256": "ac2756759110f96bfeac549a34ee665164937f1d634e4c7e20649e7e15a538b8",
+      "origin": "ai"
+    },
+    "dataList[id=10508_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Mentor Rodu Ostrza Meursault do 3. etapu Uptie",
+      "kr_sha256": "4165aa47114cfab379aea5adeead1a6f04a6639d63c47c0d3d5dd1613287bf13",
+      "en_sha256": "f859bcc34ea052b604c3cb49f0d1958ed7a077d7e7360ca4b8e0af84c4dbf3cd",
+      "origin": "ai"
+    },
+    "dataList[id=10508_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Mentor Rodu Ostrza Meursault",
+      "kr_sha256": "76c73c28256609b2b9655ecdb7209e6b31d1fd3e1f6954be2d91aba1d17e95c8",
+      "en_sha256": "181c3adf7156aad4c8589b1269a96cd4006aef12014642e7ef9052432d03c445",
+      "origin": "ai"
+    },
+    "dataList[id=10509_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Szef Dead Rabbits Meursault do 3. etapu Uptie",
+      "kr_sha256": "aa43388c8327f5668a992b3b27fbace3e2a4339ece75204df9e1fe851ea58f7a",
+      "en_sha256": "5abd1755b275a6ac04880d91542312935a061d66c3ef572b42900b6c55c4b40f",
+      "origin": "ai"
+    },
+    "dataList[id=10509_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Szef Dead Rabbits Meursault",
+      "kr_sha256": "8c54d59c18e605bbfa98d611e24130fc0c1e92c798818312d5e6b332ec91fac1",
+      "en_sha256": "6fb680b2240fd7b5be9cc2111dfc7114cee4b0103c1321d5f146bb29fa8c3017",
+      "origin": "ai"
+    },
+    "dataList[id=10510_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Dieci Sekcja 4 Dyrektor Meursault do 3. etapu Uptie",
+      "kr_sha256": "50d2275a3aaefbc64bcc3b9c49e3db100b9aa983eb248abbbfc02fcc3a798d67",
+      "en_sha256": "49d57c61bdfb1116986975b5186d6f8d2918f4bf2fb417fb751219d512027611",
+      "origin": "ai"
+    },
+    "dataList[id=10510_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Dieci Sekcja 4 Dyrektor Meursault",
+      "kr_sha256": "e370d22a526a76934ccc1eb96c24c777c17aa95965bea66adcaeecb04bc5b530",
+      "en_sha256": "34a9c9c34fa84c79793359385b74af1bb89305179a22156498886e19055469da",
+      "origin": "ai"
+    },
+    "dataList[id=10511_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Zachodnie Stowarzyszenie Cinq Sekcja 3 Meursault do 3. etapu Uptie",
+      "kr_sha256": "d293f3229c6aac22fc915f0bc12081283c0d94fa176c7c6c6806c7dee1e509b5",
+      "en_sha256": "2d2451bdbda23ee45405c3def40378b328737df848ab58907b998f17ff48450d",
+      "origin": "ai"
+    },
+    "dataList[id=10511_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Zachodnie Stowarzyszenie Cinq Sekcja 3 Meursault",
+      "kr_sha256": "b74f9682b0d9c90aa30ffe7625fbcf537affba58463a64f4ffc17078e9d21cfd",
+      "en_sha256": "6749d9683e422c790ec2465c56c5e0985064afd3939c07f86ee0585ceea34380",
+      "origin": "ai"
+    },
+    "dataList[id=10512_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kciuk Wschodu Capo IIII Meursault do 3. etapu Uptie",
+      "kr_sha256": "b94de839ab0a9e801533217068fdc5501f381b56c4a8d76bb0989a497b58a98b",
+      "en_sha256": "1520b3148d17802fa6d135fb82b2742f9e8a85594ed16e7b3434e58135bb2f8b",
+      "origin": "ai"
+    },
+    "dataList[id=10512_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kciuk Wschodu Capo IIII Meursault",
+      "kr_sha256": "436bd7a91ee94f256679e142b54e134f05b0f18c16457963456edea12e5eefe0",
+      "en_sha256": "fc422e583c14e25251b950ad20df203e448eda7785c711876c46c80b295bbc02",
+      "origin": "ai"
+    },
+    "dataList[id=10513_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Książę La Manchaland Meursault do 3. etapu Uptie",
+      "kr_sha256": "8ff33027619987c57ac79f1ac9a3c0bd1aa2fbb618a5cf2c342f638111e79a3a",
+      "en_sha256": "f108f0e33eaae57e3a978e3b2bbd240f1fd648685241e8415b0d0899e2768574",
+      "origin": "ai"
+    },
+    "dataList[id=10513_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Książę La Manchaland Meursault",
+      "kr_sha256": "7724c97394e8d4d0d2342ca89942b03dfb0f7e90ef14c0daea81ab06d2e480b5",
+      "en_sha256": "3333e33a8c14f581d94ca2fffc0881faff3ef2f63d6cbe3907aba26f9f6b02fa",
+      "origin": "ai"
+    },
+    "dataList[id=10514_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Hornet 【Alteration】 Meursault do 3. etapu Uptie",
+      "kr_sha256": "c7b69c392910edb0e1d93a7c5674220ee5198d5162452db1ea5804eae58950df",
+      "en_sha256": "44b4cce1b73a0a385fc1ca8c5b4a98f8f53ed0db779f07f4bf662f1e8e81b0c1",
+      "origin": "ai"
+    },
+    "dataList[id=10514_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Hornet 【Alteration】 Meursault",
+      "kr_sha256": "c36f5e76c2333816d5d6601a26abf29d415fbed42bbbfb26143a1b7f0106001b",
+      "en_sha256": "08781c5f8d4a5389d350ab3ace2aeda1130198c59dac4968593451020aac8c69",
+      "origin": "ai"
+    },
+    "dataList[id=10515_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Student Fowizmu The Ring Meursault do 3. etapu Uptie",
+      "kr_sha256": "e23137020593592959c0fd464127d62f03af7e5b6a55af2b7a92d0db0fc8a4d5",
+      "en_sha256": "7ba72c5c8ed0cde6e80d64f733c2b9b203f19ee31e0237138050abe3bf4ea9b1",
+      "origin": "ai"
+    },
+    "dataList[id=10515_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Student Fowizmu The Ring Meursault",
+      "kr_sha256": "54b22b1895d6072cb2a75c157da9c21cbd34af52f27a925f3155d4fea414b85a",
+      "en_sha256": "32ecb470d0ffa494f8ccfbccbd89f73d6730c2d3d73cbe51461c2e811615c435",
+      "origin": "ai"
+    },
+    "dataList[id=10602_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Klan Kurokumo Wakashu Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "0d948f85dc7d219e700d01f283e7c569832fb3eecd3b95b6d0f3fa9431fe0e9e",
+      "en_sha256": "3dfa45e50390282a3532f689c7f93260c6bf9d2d116ad7e556e587430be84505",
+      "origin": "ai"
+    },
+    "dataList[id=10602_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Klan Kurokumo Wakashu Hong Lu",
+      "kr_sha256": "ae6b0c22234dc121e34a28e6e67edb4614afbee3bebc598827aa8e70dd24b842",
+      "en_sha256": "c3e636db24fd2e52a0f8c638de5d82ca4c9fa62a3b891f7bd08f87115fbc5838",
+      "origin": "ai"
+    },
+    "dataList[id=10603_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Przywódca Gangu Tingtang Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "7077ed4427252140265a932f207b8548fe235845a564735942d189ab2afe2644",
+      "en_sha256": "c28b5f1db7c921898f9182090dd1859474dfd4cc3afcb9b641d22ac0168df639",
+      "origin": "ai"
+    },
+    "dataList[id=10603_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Przywódca Gangu Tingtang Hong Lu",
+      "kr_sha256": "46b3dec9ad11a42346feefdbaaba92c5cfc695f3b3518f8ec76ce5d0b12eb78f",
+      "en_sha256": "de4fa9ab076c6f6808541a3ba3d885d3ffae888d58c6283f849909f5c03629bb",
+      "origin": "ai"
+    },
+    "dataList[id=10604_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 5 Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "2907a7280d7434927a88bff723dee4e9672c9dc8857e7fc04d676dde4a778ccb",
+      "en_sha256": "0daceec1a2261cd03a9556f85e6ca01814b9d8e86c1454245fc7ee6163c8b563",
+      "origin": "ai"
+    },
+    "dataList[id=10604_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 5 Hong Lu",
+      "kr_sha256": "d33eae59de3418b655c67fd9045e7a1d132b7578a02fbe0e407e32a01284e09f",
+      "en_sha256": "ae004512b734309b1844565ef8bc94229e99fcf88b7e3b1904f729436e62639f",
+      "origin": "ai"
+    },
+    "dataList[id=10605_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. K Klasy 3 Personel Wycinkowy Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "9024ec445afdb3e1b58264b12333ac88915c1fe0accdcc2060e689138d5f69e0",
+      "en_sha256": "df2b0c00a1e37fac52791f66cda208ee76234e2fec00d809cc21f200f12447db",
+      "origin": "ai"
+    },
+    "dataList[id=10605_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. K Klasy 3 Personel Wycinkowy Hong Lu",
+      "kr_sha256": "b353baf8023b27d6c6cbe3a455a8005b17f0c55d01619e69b831ab4b6353c262",
+      "en_sha256": "a26ff0de820d7d49f2cbb41e61b39e8cdb5b7ab9bf466ecb9013ef5618616ae3",
+      "origin": "ai"
+    },
+    "dataList[id=10606_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 2 Agent Porządkowy Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "ee348598877336ec367ca5b4d7e1b8ac5de157852d6a7f71d583b7299201c29a",
+      "en_sha256": "178e9d44590c1255760f4d9aa4229a8eca437a8f0393ee64b546b76a23cee7df",
+      "origin": "ai"
+    },
+    "dataList[id=10606_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 2 Agent Porządkowy Hong Lu",
+      "kr_sha256": "110e9fdca2f4db708b77793112046e9de51c1f807228ea66172ba054a81bd307",
+      "en_sha256": "5254f5864e2f382a8ec2c615d810741be674f5e7df6acf1d66ecbcb7e53495a3",
+      "origin": "ai"
+    },
+    "dataList[id=10607_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Haka Fikser Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "3ae447cda8e9d486808e1ae49847aa8601e7e08ef06a4bb94e0a853e0eb00770",
+      "en_sha256": "1952ee03f4ed537a9fff4109b9ae9848c2032cffa77ea4f4ccdd51f71b40f2ad",
+      "origin": "ai"
+    },
+    "dataList[id=10607_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Haka Fikser Hong Lu",
+      "kr_sha256": "61710d0fa2ee4a957aa50023e44f5c0c883ef2d9f701286e465d410d732bf0b3",
+      "en_sha256": "abe39d844dfd3e958d973c29ff1e0f95a3840ab1d606fd566612fd71c4522b06",
+      "origin": "ai"
+    },
+    "dataList[id=10608_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Dieci Sekcja 4 Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "a9fd93345dfca57e66e9d736eb059daede725592ce7b1d3ac3562cd429a26476",
+      "en_sha256": "503dbf2768fe6e42b542540e3e2f035d3ddeadee3c1993caf2f4d8caa4452b7e",
+      "origin": "ai"
+    },
+    "dataList[id=10608_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Dieci Sekcja 4 Hong Lu",
+      "kr_sha256": "e8e2c4eda596fcdcaabb6c7fe036cba412eb6b5035ed26cad9ffb2bbf971c5d3",
+      "en_sha256": "f6bd217b06e04da092db644842bd802d37a4cb4c0638b719423bcfc85031e498",
+      "origin": "ai"
+    },
+    "dataList[id=10609_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dystrykt 20 Yurodivy Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "0d5545862d0d0c4d84ed58d234203bd0c557b67ffd92615a4744e0d7c8216b8c",
+      "en_sha256": "5c80b4d5d59aa773015268c3274cc12e95ba5dae7e07946a476a11a4cf4c8b94",
+      "origin": "ai"
+    },
+    "dataList[id=10609_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dystrykt 20 Yurodivy Hong Lu",
+      "kr_sha256": "c82cbff2a4a10274d4a7cb03335b3f753ae99f2c1474fb57bf4df52c955a7bb0",
+      "en_sha256": "d04f103735ea3862c1937b94c15693c03906568c767881d8f4c0ca33f547def6",
+      "origin": "ai"
+    },
+    "dataList[id=10610_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Łowców Kłów Fikser Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "1f8759b8578b376d30d1ade1d84be4cf91ee904c081ff8ab1147a340d3fbf9b2",
+      "en_sha256": "ac6d4121df31f579df6c29643055b9c5d80f160dbb5ff55532e8841df21d4326",
+      "origin": "ai"
+    },
+    "dataList[id=10610_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Łowców Kłów Fikser Hong Lu",
+      "kr_sha256": "6289dc7d32f15662814ce1c382d8b05f49acb750fa42c3f0a5e1ee92314a61c1",
+      "en_sha256": "141655efc2620329ea78f822894bdbdf727ab55eb0d45266e507fcd6cc6bf377",
+      "origin": "ai"
+    },
+    "dataList[id=10611_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Kropki Rep Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "faa6e0c9206cef91517a497391e15840845e5895af14e762c7dbf990a49041ac",
+      "en_sha256": "4243e464d88be14abbc6f4d26ff3caeb31bcc0c9bfd6fffd89158c6f51a5c583",
+      "origin": "ai"
+    },
+    "dataList[id=10611_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Kropki Rep Hong Lu",
+      "kr_sha256": "f9450d5f8dfdb175ea6d11a9245e9d4b0ec54ff23e0d4c44a5484adf5c69105e",
+      "en_sha256": "b7d454c8e6f3e9cab0b8961c956dcf9346a8836a5f202f6d425700eda4ee95e8",
+      "origin": "ai"
+    },
+    "dataList[id=10612_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. R 4. Wataha Oddział Reniferów Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "17ba6c33056eb7f1f8db7dc878d1394aa1831f0dff58adb9841ddc002d659ec6",
+      "en_sha256": "2a6c502d3ee4269e2156820c91bab015c6f3fe9a20d0d934f2b177a35ebc843e",
+      "origin": "ai"
+    },
+    "dataList[id=10612_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. R 4. Wataha Oddział Reniferów Hong Lu",
+      "kr_sha256": "f10c74b7045b8395a6cf21ec7095dce1ab6f02701448951eb727f09ec812bdb8",
+      "en_sha256": "58b8a4f6c6f291c33c9671caf85093fa1e86c01a7d155995dd5b13b68dbbbd09",
+      "origin": "ai"
+    },
+    "dataList[id=10613_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Władca Hongyuan Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "0b4d15fdd1f3f1f893357551b13af84e67a08cd9a12e5d5bf4d805bfc9674c01",
+      "en_sha256": "9c689e16290d1b6522d434604a5ef9146cca94c1635f4fe766929e82e30df222",
+      "origin": "ai"
+    },
+    "dataList[id=10613_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Władca Hongyuan Hong Lu",
+      "kr_sha256": "7f5daf34974a1a6e617eaada499faac8b85520957f7bae70a68399ad1a30dbac",
+      "en_sha256": "6f26cdf9795c1d9dac788af83d332b8b712a0551311d262075ef17541d2b4c7d",
+      "origin": "ai"
+    },
+    "dataList[id=10614_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Niania-Ojciec The Ring Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "92bf37c8536398cdb410fc293006b7410644abdd92a86b27492f641c7b0c061c",
+      "en_sha256": "8f97b18f73e06e5a494ba7125c66cbce129dfd38f8ba628a61fdbe3b493ba3a0",
+      "origin": "ai"
+    },
+    "dataList[id=10614_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Niania-Ojciec The Ring Hong Lu",
+      "kr_sha256": "2383769ca785b1b049e67cb981f4d3b7f6bec9974cf9fd42ac901e02b7badad8",
+      "en_sha256": "c3064f10f5d040c5cccf52cb726557761138420a18e6285448b4b7908bd75504",
+      "origin": "ai"
+    },
+    "dataList[id=10615_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. S Ch'unokkun Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "fbf34e0d0a616a8106307e5b0900e5bf518cc016b81cd30c4dede5d3c5262237",
+      "en_sha256": "87178d0e09795a642588bef99e6315835e22ad9b63e54ee7679d4f42c50c8542",
+      "origin": "ai"
+    },
+    "dataList[id=10615_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. S Ch'unokkun Hong Lu",
+      "kr_sha256": "f527203382221573ae8e7005d34939989d6ff522fc5c35a1cdfc5b3ca7ce518b",
+      "en_sha256": "1def80df47090306ffeef16a8a7e7e3be7256d729b9dc3767574bdf150d635b1",
+      "origin": "ai"
+    },
+    "dataList[id=10616_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Wschodnie Stowarzyszenie Cinq Sekcja 3 Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "26f12da8f9a64a0b9c1aed132cfd667a10628c1a9c7f03b0a515f466349f2baf",
+      "en_sha256": "d7cf0e365911af40bdedb9a3d355f53afa009689ab54690fd04d0c54b81213e3",
+      "origin": "ai"
+    },
+    "dataList[id=10616_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Wschodnie Stowarzyszenie Cinq Sekcja 3 Hong Lu",
+      "kr_sha256": "99c166aef4ea78ccf450ce203d46df7c7f32dcfd3c0fa2ab35015d45dbde22fd",
+      "en_sha256": "463188f292e3c9b453ed108368bf2eb3cf8bf37b02148e307d6848f89e2ed15c",
+      "origin": "ai"
+    },
+    "dataList[id=10617_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Le Noir 3F Pokój Nadawania Hong Lu do 3. etapu Uptie",
+      "kr_sha256": "1b4dc8fdd0d8b5e9aafa401c9c381fc8d6022048c94813f09cb2b7edf7a41853",
+      "en_sha256": "3076ba4e1ae4cc1e58cc03371f248211441a1f6446d40b996783eb193407f25b",
+      "origin": "ai"
+    },
+    "dataList[id=10617_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Le Noir 3F Pokój Nadawania Hong Lu",
+      "kr_sha256": "180bcb50debcb606d72e5bccc3b2c1ff8ec7aba5450419ba3f91bf0c3993ff30",
+      "en_sha256": "0812f51d29f97cc2414c6985ca3a17930dc3100901ae944194448b0b22732920",
+      "origin": "ai"
+    },
+    "dataList[id=10702_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Shi Sekcja 5 Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "a846c678e7429e34e0eb1f24799f015fc8287c2102823899483f84dded9a4fb8",
+      "en_sha256": "83708a6c77e4fb46f1020088bfffb0d6415e446434fa5489eeec644bef0c0a5e",
+      "origin": "ai"
+    },
+    "dataList[id=10702_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Shi Sekcja 5 Heathcliff",
+      "kr_sha256": "05b0ff332c3c4aa5dd53b309a28f97ff8b62aa09704c9cecdc36126f7a49b9ec",
+      "en_sha256": "af6625a250db5ed156dd4115ac2c3ef4b7e94e5291ca991c2fa8de41b96ac522",
+      "origin": "ai"
+    },
+    "dataList[id=10703_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. R 4. Wataha Oddział Królików Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "f4af754927be09bccd9a36cb0f1cba8a0e17114fc8d75e6f58392eb20d961225",
+      "en_sha256": "264c2ffecc43597678e6de999b3a3a6194b53fdc8a2a633bc9feb7ced5de8ec5",
+      "origin": "ai"
+    },
+    "dataList[id=10703_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. R 4. Wataha Oddział Królików Heathcliff",
+      "kr_sha256": "8ac02724323b938ebd6705ca5a6eacd3524599545fc5fa47bd61f62c98527b86",
+      "en_sha256": "e8f5ba7adf01c92b494ccdf7db429c36739cd7bb1cf3ad645dfc8eaed4548dea",
+      "origin": "ai"
+    },
+    "dataList[id=10704_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. N Kleinhammer Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "835922d0262fe6effc6eda47d82c956f41d1feca2d88e7cd196b81212dcc101a",
+      "en_sha256": "86c379499052ba6d97121d061dac14b386a6f531270366e4af27103a7c1cb4cb",
+      "origin": "ai"
+    },
+    "dataList[id=10704_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. N Kleinhammer Heathcliff",
+      "kr_sha256": "a1d1d06e3f5789b0440855a82eef114f4742b2e7776c2e06eba3d098abe8611f",
+      "en_sha256": "5152dd3d023783ed2bed6f8cc4e3ff9f8af7f116f3a19f05b3e31ab296e17c4d",
+      "origin": "ai"
+    },
+    "dataList[id=10705_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Sunshower Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "26eeeccf500b38d0dee186978f11b687ffaeee90dd99be0cdbd5f63a688ebee1",
+      "en_sha256": "ef20b9f4a3a913c4d7161867924f9300d49c07d75d1dd4e8fc8ac6e988cdd563",
+      "origin": "ai"
+    },
+    "dataList[id=10705_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Sunshower Heathcliff",
+      "kr_sha256": "38e3d56afb7a339dcf48ded92da2db36641ba9d9f580f2a13347831c67949d04",
+      "en_sha256": "38cb170d416f05bb42134893a3e4d22eaa8e0306fac7c9d1d93fb05239023808",
+      "origin": "ai"
+    },
+    "dataList[id=10706_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Seven Sekcja 4 Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "1564501ce12c3e6d11e980c1fc4b24dd466769fe98c5ed02bd10b4f9eaf848b6",
+      "en_sha256": "4b9014f8e7b69c5a4733e146cf90e538b379c8a26356655adc57573c4ae67f15",
+      "origin": "ai"
+    },
+    "dataList[id=10706_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Seven Sekcja 4 Heathcliff",
+      "kr_sha256": "dfb8f4b90f3335fcad9fccaa7ff088f43a11d0bb890015f10b31a7379c95d9f7",
+      "en_sha256": "5fd24742ff5dc6a898ac8f86333c54bc17be321ba6b67edc0bade20f165a63f6",
+      "origin": "ai"
+    },
+    "dataList[id=10707_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Harpunnik Pequodu Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "d141e4b3b25a0c4dedac29ad53bac80c6b7ed448a74341b84d736dee27a09ef9",
+      "en_sha256": "d916e13081f2502db42ccffad624499730d1c35a10cefb9dbb83d8a492a1c8bb",
+      "origin": "ai"
+    },
+    "dataList[id=10707_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Harpunnik Pequodu Heathcliff",
+      "kr_sha256": "0cac9620f34a13ab0186e52d00485793cf4d3c14226d7dc95eca13a3d70a8cdd",
+      "en_sha256": "597e1e35b32ae5e03f70135e2d024fa1dbae5b70ba715691fbe2938762b07808",
+      "origin": "ai"
+    },
+    "dataList[id=10708_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Öufi Sekcja 3 Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "84de7c32c1369a3e9102874a45c0565010406a0616f818f619a972a8b477ee05",
+      "en_sha256": "8fed5e7ec6b0496e607f1c50f9bedd8593f934839192bc7074a0019d264b525d",
+      "origin": "ai"
+    },
+    "dataList[id=10708_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Öufi Sekcja 3 Heathcliff",
+      "kr_sha256": "0a8a6d176bc2b72693913d5319790a9b1c579f5f5fede77157d19e4bed284a91",
+      "en_sha256": "909d19a14dd594d08bbd02852291fb2b701314e38c23a83a7ab1c68b3d0093dc",
+      "origin": "ai"
+    },
+    "dataList[id=10709_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro MultiCrack Fikser Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "aafffc72028cc3ade912cf269a5f14aae9e41e6651a11d8f86b119b14aa9eab6",
+      "en_sha256": "097211dcc65e88d2951b9c46721218e49dcc9437f2ceed0aef712f5c0098cb37",
+      "origin": "ai"
+    },
+    "dataList[id=10709_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro MultiCrack Fikser Heathcliff",
+      "kr_sha256": "0287c62ffa271ec96f7efb2ef89600873854cd5610f437f4121d42481703ed6b",
+      "en_sha256": "c1ec30b44d440c51efed019e0fa3b51cb5ee087b95fff9e6940215c1ffedea2b",
+      "origin": "ai"
+    },
+    "dataList[id=10710_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dziki Łów Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "d3ab950b7716ded6d561a015d5503d678179ed312c168861f43f5237f9500c97",
+      "en_sha256": "a6a68e2b039ce2f30b5d93faf99a7a6624090af1db1b0d0b01a79b00ea28e306",
+      "origin": "ai"
+    },
+    "dataList[id=10710_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dziki Łów Heathcliff",
+      "kr_sha256": "a1d21a356ea8fd78be211e03b7b926b48cb32487472a79606d683eb6065bf631",
+      "en_sha256": "704aaf0628287442b00635aea8b69d2aaa7463bd4b4a71de67c412337c0941a3",
+      "origin": "ai"
+    },
+    "dataList[id=10711_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Kropki Fikser Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "eeb40e6554f3e9028e716d129a359fcf5fcc521b00760c85a24ed98752ac55d5",
+      "en_sha256": "362174644e4793b3b504f573576ade5cf53a5fb19b7140a16de3ea8a560eb8e5",
+      "origin": "ai"
+    },
+    "dataList[id=10711_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Kropki Fikser Heathcliff",
+      "kr_sha256": "c3d4b3392a99e90711319ae3c8bb9b5c629ad441c5a6a1ebe91cbf0dbad1a676",
+      "en_sha256": "a20cae78b203c7bd1db5715574d62a078c4b5fb1bcda466bc860bdead99ee0d2",
+      "origin": "ai"
+    },
+    "dataList[id=10712_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Klan Kurokumo Wakashu Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "203ca6e6bb9327b01d3b5912e72cf66f177b25c480a1e465088988185fc3d604",
+      "en_sha256": "fb69c12270d1c590497bf7893008d284d527ce9dc48d6d042dc5c40283b6dafb",
+      "origin": "ai"
+    },
+    "dataList[id=10712_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Klan Kurokumo Wakashu Heathcliff",
+      "kr_sha256": "e16436a51bdd114fe5190451d5fc50ebc4ffb6f218e8b51d384c9f8301b7e91a",
+      "en_sha256": "1a30b29affd440312dc652d1fe65e5717a0ab2dcd73200154a59e8828e71dde7",
+      "origin": "ai"
+    },
+    "dataList[id=10713_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Klasy 4 Agent Porządkowy - CCA Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "f9cb89d4fde37f1e59f7423a05990885c18dd5e0453130adaf9fc903962eb640",
+      "en_sha256": "c19a0670c7e04c51e1802e4cdf2fc294a9c5ebd51de046451ef41e6a4cfae50f",
+      "origin": "ai"
+    },
+    "dataList[id=10713_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 4 Agent Porządkowy - CCA Heathcliff",
+      "kr_sha256": "d4c84bed215aa5c8aaa5efb98ee25d4693fd40d823e6083dc75d4f2045c8c4c8",
+      "en_sha256": "3ddbe25ef55cedc15c4e5bf026211a57456563cbbcff4dc5a435c6857f976390",
+      "origin": "ai"
+    },
+    "dataList[id=10714_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Wei Adept Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "9f0ac4575856e47027d3cdd947eeaf7c84b7ddaa2f3311bf3159c9c934d5aba5",
+      "en_sha256": "b266164cf8064e471bca7087f532ed1ef91f54adf389562920cab78866083b4a",
+      "origin": "ai"
+    },
+    "dataList[id=10714_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Wei Adept Heathcliff",
+      "kr_sha256": "52eb62b756a2f9f9ba7fee62b6f62bdcf29237850e7a4a643d66312255956e71",
+      "en_sha256": "c35c02f0015fb835998975813f893e940faa2274ea65f99116c47727a6c8a475",
+      "origin": "ai"
+    },
+    "dataList[id=10715_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Starszy Brat Środkowego Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "1ca5ff9ad68afbb51b4876f0d609416357cd6378e001348b893a0cf2e1a52e53",
+      "en_sha256": "4cada4d3d5c91702663bcfe0e2aca3707c032d6749495b7f37ccdeeee29c666f",
+      "origin": "ai"
+    },
+    "dataList[id=10715_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Starszy Brat Środkowego Heathcliff",
+      "kr_sha256": "a5159a0129e036cdfff484ded7bdbbf1a2e0c4fc9c7a6773e1487c9eaab69b8d",
+      "en_sha256": "a56b129865a9260e99e12df769d1bbe8fc3cc7b4854481d1c4656bfc592d6b4a",
+      "origin": "ai"
+    },
+    "dataList[id=10716_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Uczeń Kciuka Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "50b2f7a3cbfbeb2fc8bc13b34e9fcba1520c834d3e15cc1f920676851bb6c3c8",
+      "en_sha256": "fbf828726e9693990e215a91cb088d269c66f1b8a48e9e4e89760ad79493eaf5",
+      "origin": "ai"
+    },
+    "dataList[id=10716_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Uczeń Kciuka Heathcliff",
+      "kr_sha256": "b4624507b336bc9ed75b5122c787dd454a7567ff12b7fbfc2f12b5ca9aa6b8c3",
+      "en_sha256": "af8cd3bb9bf99137ff7960f430eda2995b33ca20666a885dc290e3b23c8a0d84",
+      "origin": "ai"
+    },
+    "dataList[id=10717_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Le Rouge Król Szycia Heathcliff do 3. etapu Uptie",
+      "kr_sha256": "03755c0f9302154109bab9635a018b1182a95ca767639f7ff976507d71320b02",
+      "en_sha256": "0f4833307b70d4a7ce04ec4a69e0a30751e5da0971d69e70d4bc44d44dc80321",
+      "origin": "ai"
+    },
+    "dataList[id=10717_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Le Rouge Król Szycia Heathcliff",
+      "kr_sha256": "93310d164b38d93dca7b10e31624d51d0dd66c4152846c2d399905038f2ac377",
+      "en_sha256": "0b2d4d2ce816dee8e7fa6b9956c7b90e9ed01500dd621650099d3555db67c7af",
+      "origin": "ai"
+    },
+    "dataList[id=10802_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. R 4. Wataha Oddział Reniferów Ishmael do 3. etapu Uptie",
+      "kr_sha256": "c85470ab4e7044519e832d20dd756b5336ce5966665a071e2ad4022df3cc0321",
+      "en_sha256": "047d1a69d698268b27445cb48985dcfcc7c2e4c030de6bb5eb6af084b255f61d",
+      "origin": "ai"
+    },
+    "dataList[id=10802_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. R 4. Wataha Oddział Reniferów Ishmael",
+      "kr_sha256": "2241503121589d765f2b164ee1ffc7326f131ff522f99b6b1da68146d2896633",
+      "en_sha256": "b8d1d2e0106080151072cf76da1beae36777072c107953d20c3c360c3dfe82de",
+      "origin": "ai"
+    },
+    "dataList[id=10803_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Shi Sekcja 5 Ishmael do 3. etapu Uptie",
+      "kr_sha256": "29b949ad5df7af50be5317d3b13256cb09bfc200b8ac4be5bf180fd78410f868",
+      "en_sha256": "1128e926473c4be3a77f98c531b0c7dcc85d3a7b4eb44ade57edd3d749802b7d",
+      "origin": "ai"
+    },
+    "dataList[id=10803_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Shi Sekcja 5 Ishmael",
+      "kr_sha256": "b8e24245ea23bd0a9c11e48f1678462461b9799f3ce9dc737cb6c2004128f2cd",
+      "en_sha256": "90ee6c1fa69479745d55f2b244581c80b929a7e596a31b96062fe337f082ceb3",
+      "origin": "ai"
+    },
+    "dataList[id=10804_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Zastępca Kierownika LCCB Ishmael do 3. etapu Uptie",
+      "kr_sha256": "ac1a70f905507f7554471910484b4c9ce3277bedb512fbad3dbf2be28828778f",
+      "en_sha256": "22c9177e8ef7975e672bbae9430ce49115adae0722b32ce7b73c523d30b1cc71",
+      "origin": "ai"
+    },
+    "dataList[id=10804_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Zastępca Kierownika LCCB Ishmael",
+      "kr_sha256": "c7746e13841969ff1816b508711e907f71dbb774668bd24f68c7815edcd64953",
+      "en_sha256": "a47fbd7f5cf0dfdbae2a8d8bdb27c8eee48dd69d0db48f53b79a885a6c052dff",
+      "origin": "ai"
+    },
+    "dataList[id=10805_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Sloshing Ishmael do 3. etapu Uptie",
+      "kr_sha256": "9b460f57f15bbf338b76a71f4dcc11e0c15a576d353cd493b022656f4836187e",
+      "en_sha256": "4c1f1b77bf643527d4171321bbcd279913d3d1b45dba42301a4cb104f9ef32be",
+      "origin": "ai"
+    },
+    "dataList[id=10805_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Sloshing Ishmael",
+      "kr_sha256": "2068a2eac4a9373468eff534ecea9db90a7c9690d34dec0fea0a6f1ae85ad4dc",
+      "en_sha256": "9d46091a2b725dd5fb45c584e64c3d003959ee2636427576378aaf66f400227b",
+      "origin": "ai"
+    },
+    "dataList[id=10806_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 4 Ishmael do 3. etapu Uptie",
+      "kr_sha256": "ec829d26f227ae7f1731e737f2593e86491ffd84e32aaf476d9b6d10990a6d51",
+      "en_sha256": "d638cd13242c95292228357f394ac670af62c5b22935bda236f4619e4b69e9dd",
+      "origin": "ai"
+    },
+    "dataList[id=10806_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 4 Ishmael",
+      "kr_sha256": "b041fa55281212c6f65936d7b35a100c17d9de5fb60c255e1a1aa4ca96537a9d",
+      "en_sha256": "a197fb920da041a0cf1350b2647e18ff6b3c1da7b6504ebed8e414cf886abc2d",
+      "origin": "ai"
+    },
+    "dataList[id=10807_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Stocznia Molar Fikser Ishmael do 3. etapu Uptie",
+      "kr_sha256": "d8008b298a2403d14c514df1ce1d454504d73adff4eb399397ea4afde13ad698",
+      "en_sha256": "7fa62aa796e288fd7caefdc1fe1c8d65b92e685fd663394703efcf32bde8cf62",
+      "origin": "ai"
+    },
+    "dataList[id=10807_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Stocznia Molar Fikser Ishmael",
+      "kr_sha256": "08120c3feab6f11b44865f642efe02e27b0c2111920e6f1430d920cf92ae3c9d",
+      "en_sha256": "bf5a962e88ceedfa6461613f28a2c73e18c6d5912aa2d99c1b88a8d0dbf03cf7",
+      "origin": "ai"
+    },
+    "dataList[id=10808_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kapitan Pequodu Ishmael do 3. etapu Uptie",
+      "kr_sha256": "a9ba319d78b07a4ed8da902dc7d03a97e5a8c42e9ff50c602be0a1f449e36529",
+      "en_sha256": "28c7e9795aa7d4fd24490774ce03d2ab84a5aac53e6a009d1c8c1a3b79e1e45b",
+      "origin": "ai"
+    },
+    "dataList[id=10808_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kapitan Pequodu Ishmael",
+      "kr_sha256": "222db0e5bd6ec446ede907a19a7faab8f6170e68036c375f7101180c036b6f72",
+      "en_sha256": "b4c0efbc5dfe15a5ebc37f8131240c4f97947be03f3345b385ed2800e7beb63f",
+      "origin": "ai"
+    },
+    "dataList[id=10809_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Rodzina Edgar Kamerdyner Ishmael do 3. etapu Uptie",
+      "kr_sha256": "3446627e7369615a471359c9291812869bb51e9e889ab3148534d85823c45e9f",
+      "en_sha256": "4cd202b6b9e59857e858e183a62733c30e9b0e42b8fba1093d7bc407857bcb7e",
+      "origin": "ai"
+    },
+    "dataList[id=10809_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Rodzina Edgar Kamerdyner Ishmael",
+      "kr_sha256": "782e0431980d2db2c8e8e8a1114f042e1142e2edf82f87690eafb220b8ae321e",
+      "en_sha256": "f6f1ceea22a15408732c2e847160311e6f7a9e6e7788295389dfe60883774c6d",
+      "origin": "ai"
+    },
+    "dataList[id=10810_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Zachodnie Stowarzyszenie Zwei Sekcja 3 Ishmael do 3. etapu Uptie",
+      "kr_sha256": "98a52e4cadbab5da58da9490000b2da827838d3d53be740f3550f6746d1ef86f",
+      "en_sha256": "40e6e1e0ec4e03cf26fdf444e262ca5108173b4577996da13ced6748ab620403",
+      "origin": "ai"
+    },
+    "dataList[id=10810_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Zachodnie Stowarzyszenie Zwei Sekcja 3 Ishmael",
+      "kr_sha256": "f552d3af81bc132ed01c65b1d657bf3d84c7776cd12862b7fd7cfd4227e23bf0",
+      "en_sha256": "4eacf2c4d49395f85eaaf770d230b3b85cb8b55c823e63b135810785b36f9773",
+      "origin": "ai"
+    },
+    "dataList[id=10811_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kapitan Klanu Kurokumo Ishmael do 3. etapu Uptie",
+      "kr_sha256": "0027425d62c332f30757b6714c846046d466dc075d0af79ae2ac0ece75caa2f2",
+      "en_sha256": "4e3492e036d584cde5aa8f697e714faf527b63e33ae80507c753fc3af66d8df8",
+      "origin": "ai"
+    },
+    "dataList[id=10811_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kapitan Klanu Kurokumo Ishmael",
+      "kr_sha256": "6657c31d7e0fdd154911f30a53164e42302c21f4b53e1a7829d9cae8c6f558a7",
+      "en_sha256": "3d5363e0f5aa0dbbba1c977530766479718e1acc57927a0cb1979fba884bcc3e",
+      "origin": "ai"
+    },
+    "dataList[id=10812_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kandydat na Głowę Rodziny Ishmael do 3. etapu Uptie",
+      "kr_sha256": "f988d3a4e894d08a7c6e56b8c86c88d251984c7dbfa19359cbf9bc7cc553eb6a",
+      "en_sha256": "248042cddaaf8c97e65a015c9724f18c1609e860672a1d20bcbf1e64b15cb800",
+      "origin": "ai"
+    },
+    "dataList[id=10812_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kandydat na Głowę Rodziny Ishmael",
+      "kr_sha256": "26238bebdef4696dda14cd8ae31dfbf3435b9ca85c48b8e65d0daed52a20b7f3",
+      "en_sha256": "d47f08863f4440fc5b4f5bf0ccf7f870d584668308ac619cd8ea1c834a56f363",
+      "origin": "ai"
+    },
+    "dataList[id=10813_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Jeong Rep Ishmael do 3. etapu Uptie",
+      "kr_sha256": "c574f9ea091fee1e0113f235d9f8966da3b2d6888ebaf41f101e18c3cffb9d03",
+      "en_sha256": "9aa1c43a3068875a15ce22a8b343622f20607e0a78617d13db213f4a867e7d43",
+      "origin": "ai"
+    },
+    "dataList[id=10813_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Jeong Rep Ishmael",
+      "kr_sha256": "509bd1d1c0078fd8d97918205b9170861d046cb0980b4cceb64ad59cdbe4c1d0",
+      "en_sha256": "9cd410bdd7ac7ccc8d4e8293e3dcf33bfcd0bd0f747cb4af37e7a059ed4686cd",
+      "origin": "ai"
+    },
+    "dataList[id=10814_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Uczeń Środkowego Ishmael do 3. etapu Uptie",
+      "kr_sha256": "81d094198fb514d82e030f41e349df70746f0800b682cd7038ce54830cadefc7",
+      "en_sha256": "9a6d040140de4c432f851fcdc8bfbd3a30a71281db9ffdf1759a98a3e3335f43",
+      "origin": "ai"
+    },
+    "dataList[id=10814_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Uczeń Środkowego Ishmael",
+      "kr_sha256": "295b499f026a4870598ccdc2c0c1ccaaa9d1bf0eafed2374b30bf7ef54777e93",
+      "en_sha256": "7011056b58d28701fcda1cbd0ee794894b0889e42f521ac3d002aafbc864c89b",
+      "origin": "ai"
+    },
+    "dataList[id=10815_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź LCE OSIR Team Ishmael do 3. etapu Uptie",
+      "kr_sha256": "cab7281062a40a5a2f4b659fe1139660f8c211a5a6259b76b3493a26769e0f25",
+      "en_sha256": "21f4d4f01c4b77bd7b753654f2f5e341017a9689ff16b8f881436d35747545f2",
+      "origin": "ai"
+    },
+    "dataList[id=10815_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź LCE OSIR Team Ishmael",
+      "kr_sha256": "80978def12ca558eedd71c10dafb6d7c223611d042774aa494e77aab76dbf1c6",
+      "en_sha256": "7261671e45e543c01eecdef2c314ecd82dbdf0cb60e8bdd9e1b02f240451d9e4",
+      "origin": "ai"
+    },
+    "dataList[id=10816_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Boutique du Rouge Ishmael do 3. etapu Uptie",
+      "kr_sha256": "c6c5706d6c4ebe3b310d8db18cd23c0c8550ca3cd419d75c93bc040425e2e6d6",
+      "en_sha256": "57c3b54cfca596a2d97490905916c3a5b51cd2cbd085dad5344941e48316f9f6",
+      "origin": "ai"
+    },
+    "dataList[id=10816_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Boutique du Rouge Ishmael",
+      "kr_sha256": "a1a3cdfb65dcad5e2afcd2f93fa8079d05628ffbc63bff928e923edf6f5a152d",
+      "en_sha256": "4a6f2638d93fb9afd695dc59b34cc56f80b4aed20240c602144fb0b03e049bf0",
+      "origin": "ai"
+    },
+    "dataList[id=10902_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Klan Kurokumo Wakashu Rodya do 3. etapu Uptie",
+      "kr_sha256": "b2f2adbe367ffab8cc996af69fc83f1ae8783f9db4e8df6c96ccafbb50a71822",
+      "en_sha256": "d1d83ad7de9c4739a54d7bf0ba360b8080a8407958238c4b95761e26f986ebd5",
+      "origin": "ai"
+    },
+    "dataList[id=10902_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Klan Kurokumo Wakashu Rodya",
+      "kr_sha256": "754bfa7ce6826452d1fc07607cc8a36b164242674d886d770db824bf40e52d49",
+      "en_sha256": "6a9ebc0d776f93a74803041f4540de0f06e70ef65b64a668212e184f00f69807",
+      "origin": "ai"
+    },
+    "dataList[id=10903_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Zastępca Kierownika LCCB Rodya do 3. etapu Uptie",
+      "kr_sha256": "8c5c49e5008f0def7256221fdc06de301dc0bb3fe5819c618c5ef3121bf0b7e0",
+      "en_sha256": "3ed272aadd8ead878d4f8df4047505db36aad69979b029d5851a2e2bcd0ee712",
+      "origin": "ai"
+    },
+    "dataList[id=10903_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Zastępca Kierownika LCCB Rodya",
+      "kr_sha256": "e218d1af0fb2f1425cda91e11e730be1d9a5bb023274b60bfad72c0341acf8ff",
+      "en_sha256": "39e3a77f02a0044207af25ecd1c0b1093d3b55f1675cf0fc07423a5424431f78",
+      "origin": "ai"
+    },
+    "dataList[id=10904_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. N Mittelhammer Rodion do 3. etapu Uptie",
+      "kr_sha256": "7091265e4338b029c9fd32857722cde3427bd6eec1e5fa5524538dc289791484",
+      "en_sha256": "c5dd0c4d15ed07adc6ecdf76c0bef0c30912971e8d06d611f39e021bb9fa30fc",
+      "origin": "ai"
+    },
+    "dataList[id=10904_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. N Mittelhammer Rodion",
+      "kr_sha256": "dc0fb6453c40660da9ba45912201b5980a030a385907684ddb118cceefcb7f05",
+      "en_sha256": "a6749372f1facb2dd704bf79a6599f088bf4925a31fc69c526a8c818566b581e",
+      "origin": "ai"
+    },
+    "dataList[id=10905_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Warsztat Rosespanner Rep Rodion do 3. etapu Uptie",
+      "kr_sha256": "1acb85e7a4ee74769bcc06db6ec049230dc5007cbe4f96fbde26c537340eb9b8",
+      "en_sha256": "1b2337c8b5f0d016abc2383dbb15d60021e952789edca293c68ccec309035a10",
+      "origin": "ai"
+    },
+    "dataList[id=10905_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Warsztat Rosespanner Rep Rodion",
+      "kr_sha256": "a543a2713c96216914ec64133f738af2702f878aa8847eebd08be2431c1d8ec9",
+      "en_sha256": "e11884089c6ff277e706a11e8a27f38903da29727b971172b1bbf47537358cc4",
+      "origin": "ai"
+    },
+    "dataList[id=10906_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Zwei Sekcja 5 Rodion do 3. etapu Uptie",
+      "kr_sha256": "5572f3fa5af5d22c91a580a68a3e65931111259e60c0e7f41d049d99e93c375d",
+      "en_sha256": "f7a83b5ffe46dace5228c7695c854a593ab2d850c1c992ebeafd64a07f18f554",
+      "origin": "ai"
+    },
+    "dataList[id=10906_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Zwei Sekcja 5 Rodion",
+      "kr_sha256": "8868950aec32b0b9c41c6652bf4b73e2c2c576dd2ac5ddfd39b189ae22c16cbf",
+      "en_sha256": "17c84ea863290b040be196572ef30035dac8b73f3accffc9b002bff407011a51",
+      "origin": "ai"
+    },
+    "dataList[id=10907_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Dieci Sekcja 4 Rodion do 3. etapu Uptie",
+      "kr_sha256": "489dca004e5199e0f41bb482297b60efa54ef63e1c2ad9c8db5f4e6d9bef156b",
+      "en_sha256": "a86765509d50e675b135fed9da49d0deec532bb3481b44f2c9d3b8d77a9e4d8e",
+      "origin": "ai"
+    },
+    "dataList[id=10907_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Dieci Sekcja 4 Rodion",
+      "kr_sha256": "394b3f562bde8ce97023dddafb7d19d5ef925da1f67b5a158b1d0bf428b824ef",
+      "en_sha256": "269b2e30e847514f7dba51deef40afe035f9a02692ec14598f5e8e7da2693bb5",
+      "origin": "ai"
+    },
+    "dataList[id=10908_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 4 Dyrektor Rodion do 3. etapu Uptie",
+      "kr_sha256": "38241d6115c26b8323d84e8a5de5b91b0437e67c5e4346ded49a71589c981959",
+      "en_sha256": "77016ff819fcb27acfb8e9a0ecbd220858eefe81288f7c7f533f05a38b3af111",
+      "origin": "ai"
+    },
+    "dataList[id=10908_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 4 Dyrektor Rodion",
+      "kr_sha256": "793ab3165274cb2e3508c521da89e30f7c60d9a94d1b3092b6e966566fa65e54",
+      "en_sha256": "92a1066321788e08b19c74ef88fd866a0b9301eda038aa73930c1b16550c9a87",
+      "origin": "ai"
+    },
+    "dataList[id=10909_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. T Klasy 2 Personel VDCU Rodion do 3. etapu Uptie",
+      "kr_sha256": "10194a4f802e5ad4ab6f1837cd517662ce0a535011a67eb29bc5e848db5b4ace",
+      "en_sha256": "ed458c1e5bcea8e01779c02b7be4520b509681f01756dee69a2081efb4273c45",
+      "origin": "ai"
+    },
+    "dataList[id=10909_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. T Klasy 2 Personel VDCU Rodion",
+      "kr_sha256": "a3fc4d2f4105db8d54ccc4efa96062b0463f3aae8ad17b83b1fa03b05aacfdec",
+      "en_sha256": "33ca517f39db14b610f88084bf40fc42cce23d876abab083e2f05a6b5a839331",
+      "origin": "ai"
+    },
+    "dataList[id=10910_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Północne Stowarzyszenie Devyat' Sekcja 3 Rodion do 3. etapu Uptie",
+      "kr_sha256": "8829f16de7bcac9f5a61d09ca11a52a431a679a6ee651213e6939eb34cf77c5b",
+      "en_sha256": "c1b030f70685699a11bd6a73161c2612b0f02b4fb6dea194189c20d6b9eaafdc",
+      "origin": "ai"
+    },
+    "dataList[id=10910_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Północne Stowarzyszenie Devyat' Sekcja 3 Rodion",
+      "kr_sha256": "90211da0a5582f506fff924305e203d468cdfff80c6ade75ba4f1402d87b4b90",
+      "en_sha256": "5367a20ed014a095cd6c70d7ab9c4209e4eda2f5b9c91b8f3c89dd96b78ad4b2",
+      "origin": "ai"
+    },
+    "dataList[id=10911_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Księżniczka La Manchaland Rodion do 3. etapu Uptie",
+      "kr_sha256": "b828768769eada575b2f92132dcf77e7a5dc8552c13a526ed054d052068fca23",
+      "en_sha256": "ff8832a7f6acd1e0c9e3bc6e3d0f47857f4c159f9cec3ceb5e51cbe6b6c89fd4",
+      "origin": "ai"
+    },
+    "dataList[id=10911_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Księżniczka La Manchaland Rodion",
+      "kr_sha256": "944c2759ccf7838b820cc44f59243878013fd6cd6923cf90523522545f6f16a3",
+      "en_sha256": "dd4303fef74df3e8fdcc295e40f4d9b17e732192068bcb3d24d8087e2e435f7b",
+      "origin": "ai"
+    },
+    "dataList[id=10912_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Si Rodion do 3. etapu Uptie",
+      "kr_sha256": "479005adf884d2f52317b99f61e489cdd6d033e50bd66bef28c60b7315df4970",
+      "en_sha256": "ff46e82fb29d70c5d0f94e35af9cf7ffeb8cb34923a260c461704c52d4493cc7",
+      "origin": "ai"
+    },
+    "dataList[id=10912_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Si Rodion",
+      "kr_sha256": "b9ca6c16c30ebac5bbf9bcd9e45d86f3e835984da65121cff0e6a1dcf3ed599a",
+      "en_sha256": "ca505f220bab42b696bba3d0ca68f2b1379e66bea4c3e8ac0bd58d7cf9fc86de",
+      "origin": "ai"
+    },
+    "dataList[id=10913_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::The Sword Sharpened with Tears Rodion do 3. etapu Uptie",
+      "kr_sha256": "abbd73c453587ac7af2e96aed8db4aa301dc962e667e33a1edda16c309701919",
+      "en_sha256": "4d225c24683c4dfffbefed536cd9f8bf469160f6ec4d6c1cac4c7297ce6c5602",
+      "origin": "ai"
+    },
+    "dataList[id=10913_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::The Sword Sharpened with Tears Rodion",
+      "kr_sha256": "fae6b660e5849f7e8c55d2f5eed065d2be0c15ea3522cc9eca67551c1ce4e54f",
+      "en_sha256": "b41add17681bd0448d04d268a58eaa699fcc9719462e7e3f32983b550f72fe5a",
+      "origin": "ai"
+    },
+    "dataList[id=10914_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. R 4. Wataha Oddział Reniferów Rodion do 3. etapu Uptie",
+      "kr_sha256": "7208faebc42389cd8b76ceee89d1ff6da0d617fe12c45dee380248ece5d59ad6",
+      "en_sha256": "a194848fba5df09c5d9ab24d1e79d7af2531617f4ec8ba24b3876ef086a266c2",
+      "origin": "ai"
+    },
+    "dataList[id=10914_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. R 4. Wataha Oddział Reniferów Rodion",
+      "kr_sha256": "12ef58bc5896ff1dc0a4834ef3ad25f10a08c20d5cd7df4efef5d4e60515a857",
+      "en_sha256": "32a3a0aff856f968d6f389d8411da0d00f143cdb16ff9443f5735eab76b033b0",
+      "origin": "ai"
+    },
+    "dataList[id=10915_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Docent Fowizmu The Ring Rodion do 3. etapu Uptie",
+      "kr_sha256": "50f30bf561973b50791f3adb6c95c84493d940fe3d71565bc8eb203f5781c413",
+      "en_sha256": "6b64fc5468c557cf8824f64ae85b41d72b0cb0dde3afe83ca599100db00625ec",
+      "origin": "ai"
+    },
+    "dataList[id=10915_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Docent Fowizmu The Ring Rodion",
+      "kr_sha256": "724f71da8660b7747ec04c15de68d010d2cd51190dcb53bf6a888dc3f5f730f6",
+      "en_sha256": "ff505a3499110348946edfb738f329fe07dece388f63b9c2900d10419a008baf",
+      "origin": "ai"
+    },
+    "dataList[id=10916_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Niania-Ojciec Kciuka Rodion do 3. etapu Uptie",
+      "kr_sha256": "f93453dbc25d85d19fe4ce190dca9b7a77c8fb1ccb1028ba013f32229379fe36",
+      "en_sha256": "8d6b8424e2af36850045dabce724de7faa7fee0e50685e0e259fddc6c6bf6d61",
+      "origin": "ai"
+    },
+    "dataList[id=10916_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Niania-Ojciec Kciuka Rodion",
+      "kr_sha256": "87037cc97acd98b3c5ed0ac1bc9f0a9b39fa198016a682dff62a702e6a7b1790",
+      "en_sha256": "7335fdd94aaab1dd16390d44cb387b5a78ad93207cc02cccdb3e4d5eda3a8ed9",
+      "origin": "ai"
+    },
+    "dataList[id=10917_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Pracownia Alteracji Rodion do 3. etapu Uptie",
+      "kr_sha256": "07f4c7912bef27d6fd993da90fe15f593012f39ec1c0813343d4bc798da4bb23",
+      "en_sha256": "274a1a25ed6b888f0fd29ab8adad441a7e331a8c2a5bc35bb7b857c598525530",
+      "origin": "ai"
+    },
+    "dataList[id=10917_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Pracownia Alteracji Rodion",
+      "kr_sha256": "b7b66a481a94cec9f006ba74513b0a8fdbe18b604632133cfa29204e5134d859",
+      "en_sha256": "7f1aae126eb5c566615bd8f80b5f5d574862037c6c38f38a1fcb32d0440c112e",
+      "origin": "ai"
+    },
+    "dataList[id=11002_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ród Ostrza Zabójca Sinclair do 3. etapu Uptie",
+      "kr_sha256": "5991302c64a9683e2761fee9a895a9fd066d1f1cfc7abb5475240b8b1e78bc72",
+      "en_sha256": "23897291e0b83fe7093d9163808cd7fb28f1e7e353da994be358bf88cc78360f",
+      "origin": "ai"
+    },
+    "dataList[id=11002_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ród Ostrza Zabójca Sinclair",
+      "kr_sha256": "c76aad24a6de1f121f6b8eb456d51d1a7a612f310979eb1f7f1e86cdd6d5dde5",
+      "en_sha256": "f84faeaaaf9d7b3ed664f4db1096098a66cfe83ffafbbc40402d54856f8f9674",
+      "origin": "ai"
+    },
+    "dataList[id=11003_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Zwei Sekcja 6 Sinclair do 3. etapu Uptie",
+      "kr_sha256": "55f065214c264f5e47f53c2f6cc1b0e2a5a1f90d0a87f2e2266a37e9d8acfbae",
+      "en_sha256": "4f98bfe46b6b78e076ddc9597b487ff696270877974864446651ab172dc9141d",
+      "origin": "ai"
+    },
+    "dataList[id=11003_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Zwei Sekcja 6 Sinclair",
+      "kr_sha256": "46a5f922175124b3859d0d74e92997335529074fbc2602bb794f75c26536a838",
+      "en_sha256": "f60ba12576ee68f45d4de1de87e15616b3814cc5e6161a6544fc8a751f888f5a",
+      "origin": "ai"
+    },
+    "dataList[id=11004_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Jefe de Los Mariachis Sinclair do 3. etapu Uptie",
+      "kr_sha256": "4546edf4aad82336d19020f63f26da1fdaf4257d41e6afcfa42cc7a0a36aeebc",
+      "en_sha256": "e15ed7ce5feaed8b37e387665f6100796c330c3f94cfdc0d04da1899eaeabfa8",
+      "origin": "ai"
+    },
+    "dataList[id=11004_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Jefe de Los Mariachis Sinclair",
+      "kr_sha256": "f0d4b5ad204c78ca9bd91c31dfd1092a772600cfc0c40e5d32a8dc56abb87319",
+      "en_sha256": "e91a4f6fc660b6b9d60746f68e4e0ed63e5ec86d6a88a349cd23f20c02ae9fea",
+      "origin": "ai"
+    },
+    "dataList[id=11005_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ten, Który Ścisnie Sinclair do 3. etapu Uptie",
+      "kr_sha256": "6c93ca875bfa3da31564715d5fdd7ac0a6e44f0b8ea19278472b66aff694e029",
+      "en_sha256": "bde6236aedf170d348555c6ba577c966b99a3a74c0138bf0f35d28f7c45cfffa",
+      "origin": "ai"
+    },
+    "dataList[id=11005_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ten, Który Ścisnie Sinclair",
+      "kr_sha256": "a97d68e2d1a76b7249e0add53be19c4856a0a034d8c8535c7f4639600e5fe974",
+      "en_sha256": "eb012b973b3e9c3a0b7538b6bb0fe8c09964288aba5f3f612a0a9c52134d2ad1",
+      "origin": "ai"
+    },
+    "dataList[id=11006_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Red Sheet Sinclair do 3. etapu Uptie",
+      "kr_sha256": "36d7bcded3e2d0fdb3e3f0910ee5315791f4f6196ef1b33d480550fde2cfdbc0",
+      "en_sha256": "466b3104dbe491b1d697a7dab3231165522f117d36d90ee96ebfe18edfba0058",
+      "origin": "ai"
+    },
+    "dataList[id=11006_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Red Sheet Sinclair",
+      "kr_sha256": "7edb8f9b7b9aa7da872dccd162410e5a3dcba39be9dcd95471ab7a2fc62e220d",
+      "en_sha256": "bd94b54545f8e595616636b7c405005d51a76fff87f0d303d84cd9b141a69e1b",
+      "origin": "ai"
+    },
+    "dataList[id=11007_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Stocznia Molar Fikser Sinclair do 3. etapu Uptie",
+      "kr_sha256": "350c6d1bb285d8c89f30c67320b466e1aade9a2f7d0832bac84ca19d6970151d",
+      "en_sha256": "caaa110554035788b182786b08468f092c2f7ec532b47c733b112e265cc58ef3",
+      "origin": "ai"
+    },
+    "dataList[id=11007_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Stocznia Molar Fikser Sinclair",
+      "kr_sha256": "67127e00ce47bf03539b5af13842d946d4d2c35063a78fc1f5312e3657aaac3d",
+      "en_sha256": "727075fd341a08dc20708f95915db58c6e80fa890d3a44f9414f6e931caf4f32",
+      "origin": "ai"
+    },
+    "dataList[id=11008_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Cinq Sekcja 4 Dyrektor Sinclair do 3. etapu Uptie",
+      "kr_sha256": "d9c4c8c9bdacf4bd22ee58264ec9f26281abe9544cfd241807dc100684247f32",
+      "en_sha256": "709656db51b5107c45c5588890fc816d52454c9adec6267a2cd649a91b6de734",
+      "origin": "ai"
+    },
+    "dataList[id=11008_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Cinq Sekcja 4 Dyrektor Sinclair",
+      "kr_sha256": "bf7cabc79b58ce1359cd59c4cd66449518581a570e2ecfb08184c7c52027c238",
+      "en_sha256": "3743f05ec0b2bd6f47df50a8645b71202c57547f6f1cc79ae8045a27fe72432f",
+      "origin": "ai"
+    },
+    "dataList[id=11009_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Świtu Fikser Sinclair do 3. etapu Uptie",
+      "kr_sha256": "619c07e3f5288c52ff9129fc9f35c75462d6343d65387d90e5beac0dc50798d0",
+      "en_sha256": "3d57cf353b6275921a982cebfd3b9de8736c32e721c5a0264d98a1d943b07a9f",
+      "origin": "ai"
+    },
+    "dataList[id=11009_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Świtu Fikser Sinclair",
+      "kr_sha256": "5cd95bb5881939cf4aa79a6b5bc58f6f9bbef85376b1c416cc5703bb96addd5c",
+      "en_sha256": "a999384ddbe16c83b09a31228f0050973fa96ffbcef3f181972355cb4761604b",
+      "origin": "ai"
+    },
+    "dataList[id=11010_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Zachodnie Stowarzyszenie Zwei Sekcja 3 Sinclair do 3. etapu Uptie",
+      "kr_sha256": "4a8562812780d043a8a3e30c3d84820f380e54f66d35378dde82a3d3207efb4f",
+      "en_sha256": "fd999f0bbf408c3cde48e42d42dae3af904706f688f945155d0d630b8e1ad7c7",
+      "origin": "ai"
+    },
+    "dataList[id=11010_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Zachodnie Stowarzyszenie Zwei Sekcja 3 Sinclair",
+      "kr_sha256": "8a14c0c7f264454961c13683c8edeae92f8ee06b67dfc61815cac1e1eb7f990b",
+      "en_sha256": "2ab51f283bc690ff388c6021d3d9ca6f6ed82213fb7d4bb4c6c70ae1a27d0e81",
+      "origin": "ai"
+    },
+    "dataList[id=11011_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Północne Stowarzyszenie Devyat' Sekcja 3 Sinclair do 3. etapu Uptie",
+      "kr_sha256": "0b489d75dbb1978fd9b1470e23d9cc9baedec9fde9537594a08732b5fb1da21f",
+      "en_sha256": "88e2aeeac31254681817c1f2aa4cb65bd3621792c50fe08775224ea78eb5d839",
+      "origin": "ai"
+    },
+    "dataList[id=11011_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Północne Stowarzyszenie Devyat' Sekcja 3 Sinclair",
+      "kr_sha256": "922d3795066c855acf0f8a45b5e85b193abdd642102b7f50cb5f69224f384a56",
+      "en_sha256": "ea0340d8845107851ff5eaa730d1bd2f6a1a3e22bf63784d09e67c49ee8e9b3b",
+      "origin": "ai"
+    },
+    "dataList[id=11012_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Młodszy Brat Środkowego Sinclair do 3. etapu Uptie",
+      "kr_sha256": "7fd55f9430ab1663cbc2df12dc120016150c9299809f7d4674bb17d5c6095014",
+      "en_sha256": "84146d8d73911d77bba07bb32be85ae9354ae24cdbe3d3167e671922f99b4d8c",
+      "origin": "ai"
+    },
+    "dataList[id=11012_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Młodszy Brat Środkowego Sinclair",
+      "kr_sha256": "245cb99d5db01835e16f626e5b75bf4816ed3eb99a3c87b8886ac7b3bee3f3a8",
+      "en_sha256": "9814f72dff7622323cad1aae2bec50e04b499b54a4d72705fa761273ab67cb83",
+      "origin": "ai"
+    },
+    "dataList[id=11013_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kciuk Wschodu Soldato II Sinclair do 3. etapu Uptie",
+      "kr_sha256": "2b71b8fb818763348326bddc89feb8267cebd96677398a88eb660705e0f697ed",
+      "en_sha256": "bbcaed48992b14f307306abda6f2a6646a5cdfddc380c8c719a54b17b92338b9",
+      "origin": "ai"
+    },
+    "dataList[id=11013_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kciuk Wschodu Soldato II Sinclair",
+      "kr_sha256": "0aafa5f7e519c630132d760ba77268d20cb587666fae42853e371eaf806de71b",
+      "en_sha256": "dd10f61bb05508f04733bf110491fdbb9db45077238c3cd43e50d40bd38f147d",
+      "origin": "ai"
+    },
+    "dataList[id=11014_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie You Sinclair do 3. etapu Uptie",
+      "kr_sha256": "0fcc839fee9144182d69e9c73c25402445d8516d561746870480eaedda09274e",
+      "en_sha256": "9c30cda08132917b2fb19f39ee605fe02f56e92c3e637a2cbe1f8666a712328c",
+      "origin": "ai"
+    },
+    "dataList[id=11014_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie You Sinclair",
+      "kr_sha256": "12e9c3c3d455e76d4ffb72df93cc0acc77374fb428b5319469675873c59c2fa9",
+      "en_sha256": "ca0e8fb0b3b2ee1ab621d16d1e20c478a871bd6c410d297d1922f80ea2bd78e2",
+      "origin": "ai"
+    },
+    "dataList[id=11015_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Uczeń Małego Palca Sinclair do 3. etapu Uptie",
+      "kr_sha256": "f836751ddf2f24fe2a588db707d0a538757615bbe3cddb0e976ac467d12dd175",
+      "en_sha256": "1b228c0087193157cec5442e8456d817a5e1d0612b08989fa8c8e4366e31d3ff",
+      "origin": "ai"
+    },
+    "dataList[id=11015_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Uczeń Małego Palca Sinclair",
+      "kr_sha256": "a380eb3f8b1e5a2aa5fdb2bf3f7e4923db80344e263a8c016e8be74bcae3da6a",
+      "en_sha256": "0ce789c21b845d00941b5f815bb1986a624f7c4848170cebc7d09e1f517e0ec2",
+      "origin": "ai"
+    },
+    "dataList[id=11016_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Szkarłatny Bóg Le Rouge Sinclair do 3. etapu Uptie",
+      "kr_sha256": "a35cbe68d9e7e7a475cc3fa2d4b94345579894f8a0d571a70f95e9b7561fceb6",
+      "en_sha256": "1b0b08860b2f8ea06111b3d58b76dd9523e2cc4caa7983fcd28dec7a08d544e6",
+      "origin": "ai"
+    },
+    "dataList[id=11016_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Szkarłatny Bóg Le Rouge Sinclair",
+      "kr_sha256": "e46529bd6c025dcc2f16f33b3b5807b0e4063eae3266518f0f31305fa38cd545",
+      "en_sha256": "0f15c17fb8209ca78c766b19ee18ea244dcdf1b2d5468c61273123e034e352f8",
+      "origin": "ai"
+    },
+    "dataList[id=11017_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Klina Fikser Sinclair do 3. etapu Uptie",
+      "kr_sha256": "cd78085cff5489e2d2f8b64791bec22b8d08fe6920b1ff0f466929dbfc8dde98",
+      "en_sha256": "c00e03727a279927be630a7d93d4e87d2caeade2e9f462693b2f75eae1dce5ea",
+      "origin": "ai"
+    },
+    "dataList[id=11017_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Klina Fikser Sinclair",
+      "kr_sha256": "f1fd1cfd5b53f00b58e7e02291efcb3779dd5d17fe0fecac8e061ca1a9556ae1",
+      "en_sha256": "976b22111c0f511740076a610bfb655bba9c759426374d16e24767b1251f684f",
+      "origin": "ai"
+    },
+    "dataList[id=11102_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Ród Ostrza Zabójca Outis do 3. etapu Uptie",
+      "kr_sha256": "f3725f342ecec2f7197fa3ace1e5c8ee24ec78e9d7f8d5f46e53c9faff4d1387",
+      "en_sha256": "231846bb0c88910cc80ceda51e15b62723589550f67d4df76cf1d6662062336a",
+      "origin": "ai"
+    },
+    "dataList[id=11102_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Ród Ostrza Zabójca Outis",
+      "kr_sha256": "8e0f8be4a06cebdfb4ceee175b6fa05c4a7677e4ca969cfd77d56365155c594c",
+      "en_sha256": "e6086354c1c1d594189cbb474a7eccd806ddeae760c82f288492ca9b54ea958c",
+      "origin": "ai"
+    },
+    "dataList[id=11103_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. G Główny Kierownik Outis do 3. etapu Uptie",
+      "kr_sha256": "d6b4e924a0f146b9e8efc7680f1a6e0762d1f1b0e4f8a2549b23c8b46e8b72e9",
+      "en_sha256": "1ddc2bcf37922f7e37c649fd23f0e123d705f7d79943dfcb146c28123228958d",
+      "origin": "ai"
+    },
+    "dataList[id=11103_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. G Główny Kierownik Outis",
+      "kr_sha256": "b2fdb6ccbc60c69deb28cccbbb012303658fc94f7ab4a66aeb85ae683599255e",
+      "en_sha256": "4c6e1bf7ac0a8484aef5b12c1972bafb2f0b6090dc5094be173909c826012a30",
+      "origin": "ai"
+    },
+    "dataList[id=11104_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Seven Sekcja 6 Dyrektor Outis do 3. etapu Uptie",
+      "kr_sha256": "42eddbf3148f0d748de787567e84a41407a73bbdbbc7ae336cb6b4d8c3868e8c",
+      "en_sha256": "2cb2d83ef8e34aabd369c3328aa12210d1ea753ff66bd593305f2d02dc069885",
+      "origin": "ai"
+    },
+    "dataList[id=11104_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Seven Sekcja 6 Dyrektor Outis",
+      "kr_sha256": "6031ebfe99f9123e6ecd9904baa3f9227a31848a1e855ac59c436dee774869fd",
+      "en_sha256": "7b0a05985fa5b7d1c50884377dcc2913f35c86c0f8505dbadb0bc3e9c37cadc7",
+      "origin": "ai"
+    },
+    "dataList[id=11105_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Molar Fikser Outis do 3. etapu Uptie",
+      "kr_sha256": "528a9fa9544074f7d2bd4f2cb539e4c4de3f504bf6759f00c0dab79b2d84a002",
+      "en_sha256": "17d30e0ee0004334d4cdc93bfd6ca6c3d67f2d498ff780e8d85a13e3cd4ade3d",
+      "origin": "ai"
+    },
+    "dataList[id=11105_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Molar Fikser Outis",
+      "kr_sha256": "00987aeec1ad15a13efa04cd3540d44a26b49961eefb4da247f1ff2d7994ce79",
+      "en_sha256": "5d1878ba090c6d7629aebfef3f6e07792c67beece87f2adb84d749ad2cd54864",
+      "origin": "ai"
+    },
+    "dataList[id=11106_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Cinq Sekcja 4 Outis do 3. etapu Uptie",
+      "kr_sha256": "e1a3972cf432f857fb6d3e2ee2fdde15995e137448606222e96ebaa7c2d9a6c8",
+      "en_sha256": "ea35e2c97d7ebf0c39bc9eea94727890cf2509f0ad19d800c5f3fe582311f6ba",
+      "origin": "ai"
+    },
+    "dataList[id=11106_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Cinq Sekcja 4 Outis",
+      "kr_sha256": "516429fd620190bafc1547e67ea4d330e2e150d1cd2fc291b161522db87399bf",
+      "en_sha256": "d22faab1bce16969a399e4761a61516ceaaa7f1cffa3844aa10e7e7d2c7107b2",
+      "origin": "ai"
+    },
+    "dataList[id=11107_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Magic Bullet Outis do 3. etapu Uptie",
+      "kr_sha256": "974bf05ca85f0ffdb587c9613460ce09a48b70d17a8a4195f748104e17edf8bf",
+      "en_sha256": "226f4e2c4490a5c339df87fbe4e0d6cca8a41ecde089b8989b2055209ff2e1da",
+      "origin": "ai"
+    },
+    "dataList[id=11107_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Magic Bullet Outis",
+      "kr_sha256": "11e684484c9446082e6220a0bb518188fc4c375d1ca3f3e1934ded04d843fc0b",
+      "en_sha256": "2550f9248fadcc546c2554c1ebcb354839b2e6101a830fe15898303223c7b597",
+      "origin": "ai"
+    },
+    "dataList[id=11108_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Wuthering Heights Kwatermistrz Kamerdynerów Outis do 3. etapu Uptie",
+      "kr_sha256": "220ac0ba3b6078eb804b7d1470afe65de7c5ce13d7805c71b849c9e26c0ef96c",
+      "en_sha256": "58504ec18f2e01d45e4657ae3f2ee08ee12171b565f4e7f1281841b531f3ca3b",
+      "origin": "ai"
+    },
+    "dataList[id=11108_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Wuthering Heights Kwatermistrz Kamerdynerów Outis",
+      "kr_sha256": "536479f97bc88ab23b58801b37cc3d9107ba752ab4cfb7f58f65844c0bfd7bfa",
+      "en_sha256": "67b1fcc4a1eff6c6b74e7a8441a98c667d8bfece476f4862890a227c6d246cb4",
+      "origin": "ai"
+    },
+    "dataList[id=11109_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Student Punktury The Ring Outis do 3. etapu Uptie",
+      "kr_sha256": "7a8a3aca8358bacd250d96c586d9d8dca4d3b6f5548f4d759f53d74e3f9250c7",
+      "en_sha256": "3e8b74e759bb86aee9f1a6f0739884af4852a1f04d8c124f10f9d67a9fbb43b8",
+      "origin": "ai"
+    },
+    "dataList[id=11109_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Student Punktury The Ring Outis",
+      "kr_sha256": "e393012b4aa8561c91b1564bf021967d717c59ee7578f5ed3cbf488b0faef1e0",
+      "en_sha256": "8b879fdd52f8b8b7b79876a9593f455ff3533581c51288727ff1009dacc62f4b",
+      "origin": "ai"
+    },
+    "dataList[id=11110_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. W Kapitan Oczyszczania Outis do 3. etapu Uptie",
+      "kr_sha256": "2f1fdf6710f8fa19381fa8794fb5387f9097a83f4f7722c3d55ff68d3c47ceba",
+      "en_sha256": "24aa307bc21da08f14a61cf00f2fe53a839405f19ef539e316e741ad06518f76",
+      "origin": "ai"
+    },
+    "dataList[id=11110_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. W Klasy 3 Kapitan Oczyszczania Outis",
+      "kr_sha256": "0b430b42693857990ba2f0113d6a874dda7a61458d1ea29ed6dc70e3d4f8601e",
+      "en_sha256": "f0156a4e24cd65b8d14a575a51c43c938a7bab06de7dc9e5586efccfe29681ce",
+      "origin": "ai"
+    },
+    "dataList[id=11111_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Fryzjer z La Manchaland Outis do 3. etapu Uptie",
+      "kr_sha256": "0819aee85cd133c2830a55224cb23635573a61be729a9e7edbed779b1d2de8d5",
+      "en_sha256": "b39677cc8453d8dfe194eb4546d58d42a4c3994fe46ebeb2130e935fec281de6",
+      "origin": "ai"
+    },
+    "dataList[id=11111_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Fryzjer z La Manchaland Outis",
+      "kr_sha256": "15907b92482e93ae48e714d93ec8a9af1ca4626a19d33eaeb8c74655570ccdab",
+      "en_sha256": "257793fd515f9e3430038d1ba2df8d1361523bba60aeff605f55958b54d77756",
+      "origin": "ai"
+    },
+    "dataList[id=11112_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Mao Outis do 3. etapu Uptie",
+      "kr_sha256": "1cb2edc0f422adfdd6d063e9b0eae222272ce50d428b87aa7c9a111c5dd9ca89",
+      "en_sha256": "be4ed00be110ff4a22cafbd74a3bf4b33100f4ee8d0f46088cd28f93827387c3",
+      "origin": "ai"
+    },
+    "dataList[id=11112_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Mao Outis",
+      "kr_sha256": "5a2a94d6ab339f8eea6f06766702f695cae4f8186981c3e9abd6a99ca45eed05",
+      "en_sha256": "9106775c9093d777d9be30b817f973304b31c773d8a88136f26c92b49c88aabd",
+      "origin": "ai"
+    },
+    "dataList[id=11113_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. T Klasy 3 Personel VDCU Outis do 3. etapu Uptie",
+      "kr_sha256": "8b463a2b0d7db665bfe94fa8e396a3459f9da34adfcb645cfa1d755f2b330f09",
+      "en_sha256": "c6533822a8eb277e6a0b32a44077c07d3f78f70ee33693b35bd1611fa037d9ca",
+      "origin": "ai"
+    },
+    "dataList[id=11113_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. T Klasy 3 Personel VDCU Outis",
+      "kr_sha256": "f40a41aa79d961629ff868eaef0eef945fa9e1ba585959883843cd8d95b1a60c",
+      "en_sha256": "8cf37ae418308ee6fa67a2fba0e0d5fe989e0511ece473354bc040290d6842c4",
+      "origin": "ai"
+    },
+    "dataList[id=11114_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź LCA Udjat Awangarda Dowódca 3. Zespołu Outis do 3. etapu Uptie",
+      "kr_sha256": "08c56329706b7b00e2fce89eff0bfb8002494bac4108035bb9e1d178b7b5de5b",
+      "en_sha256": "ee58057f74853b1a1009fb7c0fb50d74a8d6fe5ae251a5c3763f88e5eb3f0825",
+      "origin": "ai"
+    },
+    "dataList[id=11114_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź LCA Udjat Awangarda Dowódca 3. Zespołu Outis",
+      "kr_sha256": "e7b5d523bb4eebb317153be107a6ebe1485a01a9b45568e01c187480b5a8a588",
+      "en_sha256": "2fd4d909e61bdf9e84c281f54839cbfd93eb1babb40893f27dbf8ba3a5b8a969",
+      "origin": "ai"
+    },
+    "dataList[id=11115_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Dom Pajęczyn: Niania-Ojciec Środkowego Outis do 3. etapu Uptie",
+      "kr_sha256": "07f41350d7e5bdabfc3e04539608560fe77f78391df6b61fdaa57b5751a0c2f3",
+      "en_sha256": "5f1528da286ed1877abd0b2f89f30e2df83fb792e97684c7b348a172e655b203",
+      "origin": "ai"
+    },
+    "dataList[id=11115_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Dom Pajęczyn: Niania-Ojciec Środkowego Outis",
+      "kr_sha256": "80766fb62dfca81fd0eb53efb253f54b5b35cfc25263b6719aff077ad67365b6",
+      "en_sha256": "a5b4ee8fdc2943330fc539b34047400fd2bcbde7460bc21d527545f567a0a2cb",
+      "origin": "ai"
+    },
+    "dataList[id=11116_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Klina Rep Outis do 3. etapu Uptie",
+      "kr_sha256": "472bb12aef4df3d473ddd7b2a0fc04e0e407d1df23f4cceb066719edb4109e74",
+      "en_sha256": "57142f494df0d5ebdfd502240a4196bfef26b51534e35ceb7b46d57c94103ee2",
+      "origin": "ai"
+    },
+    "dataList[id=11116_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Klina Rep Outis",
+      "kr_sha256": "6b12248066f2a8f06ef0230d2660086e01932381766c61a27dbefe2b7ff1f5d0",
+      "en_sha256": "7e9cc4289c471012be42373f63a0f48c18ba8aaa9b344fb99cb3199d6eff19ec",
+      "origin": "ai"
+    },
+    "dataList[id=11202_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Liu Sekcja 6 Gregor do 3. etapu Uptie",
+      "kr_sha256": "43dca191be21c49e37fcae5583f5d4c499454f8bc7fe5bdac5802843ce8e79a8",
+      "en_sha256": "7a951e4d0188d2cc520cd23bbf6f4478f8d07a44c74d80851e2e33c6c70e47c8",
+      "origin": "ai"
+    },
+    "dataList[id=11202_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Liu Sekcja 6 Gregor",
+      "kr_sha256": "52badfc242f3183fdba82abd89950e83b50cea0e93fbcdc61e07ab78cebe91a2",
+      "en_sha256": "ecb4388a1edf4b17dac80583db3cc389d6e7423ad33f74ed14249703aa0e8dc3",
+      "origin": "ai"
+    },
+    "dataList[id=11203_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Korp. G Pierwszy Porucznik Gregor do 3. etapu Uptie",
+      "kr_sha256": "34ca2e4536f6bf1c7f836faa7283969544bb402de8b014d7fc9a9313b70db46f",
+      "en_sha256": "f8382e4db4e6c5afe88e6b6a773ffd57a9108d365d5c29b0ac3edab27116671e",
+      "origin": "ai"
+    },
+    "dataList[id=11203_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Korp. G Pierwszy Porucznik Gregor",
+      "kr_sha256": "1d71134f0389d8cfc7206557ea17f1e7c6d1a8924fddec91c5c645c8dff56fcd",
+      "en_sha256": "6b2b088dd803f7341321a3e54b8a63197b5501ab57a44580220ec693da2325f0",
+      "origin": "ai"
+    },
+    "dataList[id=11204_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź R. B. O. P. Sous-chef Gregor do 3. etapu Uptie",
+      "kr_sha256": "b1ef985fc16dc46a30ae49dce1d27576923727dca01c9d189dd0f5a4d5580c24",
+      "en_sha256": "ac8768884eb84da4896da3db1c2b23247c1fc6751c431df4afe9de6f74c608db",
+      "origin": "ai"
+    },
+    "dataList[id=11204_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź R. B. O. P. Sous-chef Gregor",
+      "kr_sha256": "41e4d966c0896e4f17240560118855f13ad5e3d958f4d304dcb713dbd4a8cef3",
+      "en_sha256": "7fe7e5f2b7284ba49580413199571c0178bac24dfda481411fd23be77e593edf",
+      "origin": "ai"
+    },
+    "dataList[id=11205_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Warsztat Rosespanner Fikser Gregor do 3. etapu Uptie",
+      "kr_sha256": "64d2008a1a1bce24a5ed8d472eb848cd318a17677dbeeeb18b5d69194645ca54",
+      "en_sha256": "f50ab51a0b7e527fc831a6bd81387c7208f2c04d5229a24b5e37c26dfa3693cc",
+      "origin": "ai"
+    },
+    "dataList[id=11205_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Warsztat Rosespanner Fikser Gregor",
+      "kr_sha256": "6ffa164c2d205b2eb54d8b25e3179b78833b21f98e9335bd02b90450577b568c",
+      "en_sha256": "b0d8b9d31aaf475ffe3c552c915ded7369d67e8f2054f1cd74d4c1cb05d9523e",
+      "origin": "ai"
+    },
+    "dataList[id=11206_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Południowe Stowarzyszenie Zwei Sekcja 4 Gregor do 3. etapu Uptie",
+      "kr_sha256": "d5285b2144bb0bcd7f293a495ab44e6ef1a59aa01e66f949cdeffa28927c9308",
+      "en_sha256": "dec76fb3047e5ec5a08fa4fea87ef80c52203edcdad2336d836b3e8e1696aa6a",
+      "origin": "ai"
+    },
+    "dataList[id=11206_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Południowe Stowarzyszenie Zwei Sekcja 4 Gregor",
+      "kr_sha256": "d29e259c2cd1c001a18fa15771a434152f7f349da8d4d3069bc4d738a4bf7295",
+      "en_sha256": "2edfdf8ee5ce74c692e4d7d3912d7385fda26adcfa1a4374aeaf2bf75134f27d",
+      "origin": "ai"
+    },
+    "dataList[id=11207_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Piraci Podwójnego Haka Pierwsza Oficer Gregor do 3. etapu Uptie",
+      "kr_sha256": "4b094e97b81e86e2f254997212ea9ca73254aa8e2871d48dd70fa448ddb86f2d",
+      "en_sha256": "d978d76375d10cc523fcf29af4b11e80c295daac8c12624a6959505a5d80b0df",
+      "origin": "ai"
+    },
+    "dataList[id=11207_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Piraci Podwójnego Haka Pierwsza Oficer Gregor",
+      "kr_sha256": "1f9835a283e4c270fce0f62223ea1b5948c34ef71f1e108266901597b0028837",
+      "en_sha256": "8bb04dd7bc51afe79bffe14bf542318ba8452218f21825b15dda39c18a3990e0",
+      "origin": "ai"
+    },
+    "dataList[id=11208_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kapitan Klanu Kurokumo Gregor do 3. etapu Uptie",
+      "kr_sha256": "6358e108cf18a743fea9baa2f7337c7b157f28c5e3c67a2a1cdd7714d64d6ca6",
+      "en_sha256": "fc50988b9cd1f80e2fa953a1f128cdd30ea9f25b3813e8afb9472c36ebefb90e",
+      "origin": "ai"
+    },
+    "dataList[id=11208_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kapitan Klanu Kurokumo Gregor",
+      "kr_sha256": "5fe73a4f1f1e2e64fbcd27d1e3b71a1e3b72becf6a6fbfb32820bf5164508398",
+      "en_sha256": "6a3543541679e8f7bdcaa17d6464cd6ace81e4491de384865de804213ce72afe",
+      "origin": "ai"
+    },
+    "dataList[id=11209_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Rodzina Edgar Następca Gregor do 3. etapu Uptie",
+      "kr_sha256": "fd0ede183cc41017f322e285766589638218ba1d623b814d992acbf3f618c8a7",
+      "en_sha256": "e083d29d910393b38973c64b4ae0b9ded61520b490e5510b75d66b9b482c2d8c",
+      "origin": "ai"
+    },
+    "dataList[id=11209_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Rodzina Edgar Następca Gregor",
+      "kr_sha256": "8d20892a3f003e1b8959fc30436362519df2567e6d5015d796db47d5c9571216",
+      "en_sha256": "62acbc8184952d73842db782b699f1a19bbcdd2e21b0777886af593a26556b89",
+      "origin": "ai"
+    },
+    "dataList[id=11210_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Kapłan z La Manchaland Gregor do 3. etapu Uptie",
+      "kr_sha256": "2815632826a75d0f70867a993e645ba378f05c197c045672ca1248a79ecae79f",
+      "en_sha256": "f6620ffb7b9b4446268f1712b50af01d70cf3733c5f91d4480ec42edf5a3a664",
+      "origin": "ai"
+    },
+    "dataList[id=11210_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Kapłan z La Manchaland Gregor",
+      "kr_sha256": "be7d4b511d4107d36187cc4978746d21684a9c6bdf3ab1d358866b47e92c68eb",
+      "en_sha256": "665292814e33a640b343926327c4ffd821f7c68be17eb1f446d7033611243bee",
+      "origin": "ai"
+    },
+    "dataList[id=11211_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Ognistej Pięści Ocalały Gregor do 3. etapu Uptie",
+      "kr_sha256": "29c3ee3248ff21afb64c05374c7d73616ce95a36d0a2400b6aad44aff668f5f7",
+      "en_sha256": "07af26a8dcf06a369659791026a26065de66fb464c476cc98d1acae39f8683f7",
+      "origin": "ai"
+    },
+    "dataList[id=11211_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Ognistej Pięści Ocalały Gregor",
+      "kr_sha256": "3568e10fa2bd1acf8394127f00267f79d997962b286d2f97c1a29c6432efd3a1",
+      "en_sha256": "391acdb6da88279bda801201f7dc3efa5fd7b1e631cdc7cded2e77e72ceb0c5e",
+      "origin": "ai"
+    },
+    "dataList[id=11212_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Sfora Heishou - Odgałęzienie Si Gregor do 3. etapu Uptie",
+      "kr_sha256": "c496f5f910c2e3110a1a89064be1598912d55aa4e29a443b50a1e25c49a439a5",
+      "en_sha256": "a0aa90e576aaf070d685973c28b2a15d6d3b769a6664ac22519b7f39f1da6c94",
+      "origin": "ai"
+    },
+    "dataList[id=11212_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Sfora Heishou - Odgałęzienie Si Gregor",
+      "kr_sha256": "f29a49a7a97cc0142f02b597c6813c126365ab8f1bdee21d30efad52248cf569",
+      "en_sha256": "d9f63a9e72f0abde781aa915dfcf8336556e2069b23aed5f4a1b0d7a228b6739",
+      "origin": "ai"
+    },
+    "dataList[id=11213_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Szydło Nocy Capitano Gregor do 3. etapu Uptie",
+      "kr_sha256": "de95f70006bcff8b3892da73ee640d604b25496533e9c996198df4b5579795ee",
+      "en_sha256": "02ca31d92f23945d2daf156b914004f51b6c27d574e72c116858d6137dc94c0e",
+      "origin": "ai"
+    },
+    "dataList[id=11213_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Szydło Nocy Capitano Gregor",
+      "kr_sha256": "67216f0f35b76578d19161c4f9e39ff6898a0e07af7e8a8c2efd60f769b5d071",
+      "en_sha256": "93a10b4d8a877719e6a37167852cf6fdfb0c29f776e5326933055a44d4659ef7",
+      "origin": "ai"
+    },
+    "dataList[id=11214_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Lobotomy E.G.O::Lamp Gregor do 3. etapu Uptie",
+      "kr_sha256": "48d9829662e6eb05194a21af25db1e6cab65da6835021699c08749d442e14dad",
+      "en_sha256": "6081471d7f6e3d3a9f6e27fb10c8feacdbc9b6b4e9fa6577e9cbcaedd5b882ac",
+      "origin": "ai"
+    },
+    "dataList[id=11214_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Lobotomy E.G.O::Lamp Gregor",
+      "kr_sha256": "d2a04e08633afc98ca5ef0cde2fc8b73ea75970bfad7007c9d805165a731f5b8",
+      "en_sha256": "d31dca7108d4b9318a93df4b608cdbd1be17e811d07dc5b7abf1e361c760756b",
+      "origin": "ai"
+    },
+    "dataList[id=11215_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź LCE E.G.O::AEDD Gregor do 3. etapu Uptie",
+      "kr_sha256": "ebe59e42b8a42b2d8870ad499924bdaba69410e3e638f7983a1de68c4895b3cc",
+      "en_sha256": "fb1d8d35563cf264ae74f68596ec294ee5bfd6ded5996f9f2b27a36ce4de2707",
+      "origin": "ai"
+    },
+    "dataList[id=11215_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź LCE E.G.O::AEDD Gregor",
+      "kr_sha256": "c4a7c56c8a80673563cd9d2a0ceec3439531249a7674dd344d17d91417ddad84",
+      "en_sha256": "8bb0591c721dec66967ae9924526c9b61bd559c8a3eb16ec2d1dfbd99885da48",
+      "origin": "ai"
+    },
+    "dataList[id=11216_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Biuro Świtu Rep Gregor do 3. etapu Uptie",
+      "kr_sha256": "a796e980cf780a68de842fbb42aac9d8f08a208cb2378ca598ccdb6e426f655f",
+      "en_sha256": "9b54177aff3e0dad477f07191b5232992c7b2cb71780dd745f5e92dd7e3212c1",
+      "origin": "ai"
+    },
+    "dataList[id=11216_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Biuro Świtu Rep Gregor",
+      "kr_sha256": "f26a5a3bac939884d5bf119ef05c7b771889c3103166e1a12addd836f2d200fe",
+      "en_sha256": "663069511b534048c9bd653de1d3c45b3e55303818f1256880b36a4077465341",
+      "origin": "ai"
+    },
+    "dataList[id=11217_getCondition_gacksung].content": {
+      "pl": "— tekst] Doprowadź Haute Couture::Le Rouge B2F Kłębowisko Kłębek Gregor do 3. etapu Uptie",
+      "kr_sha256": "71cc91e92c281361a5740827f8ba6c8f87ab60e203df4b9860aeb3865bcf40b7",
+      "en_sha256": "47be88c415875bbf8ea8d62b5b6660ef38c4662762372c413981969117748783",
+      "origin": "ai"
+    },
+    "dataList[id=11217_getCondition_normal].content": {
+      "pl": "— tekst] Zdobądź Haute Couture::Le Rouge B2F Kłębowisko Kłębek Gregor",
+      "kr_sha256": "cbc05e4890ad386a4242cee13c493f7fb74879abaa8bfd510f8a2a9d7c4f125c",
+      "en_sha256": "c9ebb59e0824dd78f23c8a65b28f481eba2ba9104d5b7425d92643a70b3dc90b",
+      "origin": "ai"
+    }
+  }
+}

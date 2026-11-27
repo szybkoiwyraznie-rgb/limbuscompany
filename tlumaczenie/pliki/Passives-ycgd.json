@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=9011001].desc": {
+      "pl": "— opis] Przy trafieniu nakłada 1 Krwawienie (3 razy na turę)",
+      "kr_sha256": "f9732f014350511a7b69bc6a06c52077ee78c6bd03e0876685d8b1f74a1940a0",
+      "en_sha256": "bd26dd0d8d0a9eb9939e838d34204db6e59ed9533417770e4951304ec0191dac",
+      "origin": "ai"
+    },
+    "dataList[id=9011001].name": {
+      "pl": "— nazwa] Wyostrzony Cios",
+      "kr_sha256": "0093684025d48c8b5115973a819fff9961db41b2861db276a2b5880926f0638b",
+      "en_sha256": "2c77cd0560bb21a00f83f0643d9ece3838c98c9929a6741f22b5dde78f61c27a",
+      "origin": "ai"
+    },
+    "dataList[id=9011002].desc": {
+      "pl": "— opis] Po wygranej w starciu zwiększa Licznik Krwawienia o 1",
+      "kr_sha256": "c08b2a97adea3dedf9018f94f28926db6327f312adf71fe7494cb789aa26008f",
+      "en_sha256": "2c4967c1cad3863bba94899ffbc349ff5e6a17c65e199e0a4e0fb400b84f9580",
+      "origin": "ai"
+    },
+    "dataList[id=9011002].name": {
+      "pl": "— nazwa] Głębokie Cięcie",
+      "kr_sha256": "aa4b73e0548c7c0621ce01e2c24be9c1a69903e7fb665031f9db4d277f58ffe3",
+      "en_sha256": "46f4c7e30989da49ed2f1af3f1b6ce67d985293180926f750c7977173fdec4e4",
+      "origin": "ai"
+    },
+    "dataList[id=9011301].desc": {
+      "pl": "— opis] Gdy Umiejętność ataku nakłada Krwawienie, nakłada o 1 więcej Krwawienia",
+      "kr_sha256": "e014858d510693664143cdcab5cca8a52a68c7cf87d6bd58391a5bf887dd5918",
+      "en_sha256": "2a25e88e39816f3924173bd8e86c31c52c549f2d5437a2ab2d4b5899f0f15915",
+      "origin": "ai"
+    },
+    "dataList[id=9011301].name": {
+      "pl": "— nazwa] Brutalne Nakłucie",
+      "kr_sha256": "dd17d481eaded30653e137ba2a8bdfba20d5efff49ae1b4f7ee8d3cb1e5f496c",
+      "en_sha256": "229a54a8f827ea889de433a1e4b88c9e8a4324c7bb247f62f841d033c80a0861",
+      "origin": "ai"
+    },
+    "dataList[id=9101301].desc": {
+      "pl": "— opis] Moc Końcowa Umiejętności Siecznych +1",
+      "kr_sha256": "bab04c21e6e36c24c81934bf0e88495ece66d4db3fa2cedaaa35560ac80fa1d9",
+      "en_sha256": "8a57886743114876410a6c917ec799be8a6de8dd7e6e0fbe75d3f8807ab0839b",
+      "origin": "ai"
+    },
+    "dataList[id=9101301].name": {
+      "pl": "Klinga Czarnego Obłoku",
+      "kr_sha256": "84160b15fea33de16a223dd7718e4e4519dc6f45f1b4d2d55893d6502d3af9ad",
+      "en_sha256": "41ebb6f694f3948f836fcdfd779b06c3fba2eb8ee44d890b9180319d7ac0f2ca",
+      "origin": "ai"
+    },
+    "dataList[id=9101302].desc": {
+      "pl": "— opis] Gdy sojusznik ginie, zyskuje 1 slot Umiejętności w następnej turze. (maks. 5 slotów)",
+      "kr_sha256": "c6e66d28d3680a203d774f985e54fabf27d6ba8758c4c23514cf1fb88a44aa54",
+      "en_sha256": "c55b81877ce97b43e869a7bb8b3c2aa005bbfa81a33386211ef930373bc5918d",
+      "origin": "ai"
+    },
+    "dataList[id=9101302].name": {
+      "pl": "Posprzątanie",
+      "kr_sha256": "cf84ae452c774db6e5ed8b154738d6690a273c70848012ea8bbefe0f2366ee10",
+      "en_sha256": "650917c85ce8407187e79bc723466d72be4ea35c0b7a3226c36a3d3c949c4c8e",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "entries": {
+    "dataList[id=500101].desc": {
+      "pl": "— opis] Na początku tury zyskuje [AttackUp] równy numerowi bieżącej tury",
+      "kr_sha256": "584b4060c20e154fa4a1549915bfa84b62194c53c76d5c1ff1dd28c4b4624cc2",
+      "en_sha256": "35328046512e65b55f3537bcd45777b861af6bdea8089097d2358367d8a24bea",
+      "origin": "ai"
+    },
+    "dataList[id=500101].name": {
+      "pl": "— nazwa] Dość Zabawy",
+      "kr_sha256": "0516751cf716cf2ed8134682f8c114f09536db9eb44b1a2260905925aec7089b",
+      "en_sha256": "a4692fae59dfda7124c3b53ad828de772524f23ef8a8c21e80e6c0e45acaf782",
+      "origin": "ai"
+    },
+    "dataList[id=500102].desc": {
+      "pl": "— opis] Na początku tury nakłada 1 [RicardoBookRaid] na wszystkich wrogów\n\nPrzy otrzymaniu trafienia nakłada 2 [RicardoBookRaid] na atakującego\nPrzy trafieniu obniża [RicardoBookRaid] celu o 1\n\nW tej walce zyskuje [RicardoTattooRaid] równy liczbie [RicardoBookRaid] obniżonej przez tę jednostkę",
+      "kr_sha256": "41b4839731e6e2abdd18a77fe5ec8fb406800fedc083ad0f32c875426d218618",
+      "en_sha256": "fb241f73a0912043dde336ff5d398e1851a36099f1a7e513d0031bf9c3e4e61b",
+      "origin": "ai"
+    },
+    "dataList[id=500102].name": {
+      "pl": "— nazwa] Zapiszę To w Księdze",
+      "kr_sha256": "95c3cebf180d0b9c0abea00151d4f7fe0d12a7fc81166619ec3436862e3069c6",
+      "en_sha256": "63afc6ca8331c0ecd03794e43cc64294291ed84f627217334ba2d56a3185f72f",
+      "origin": "ai"
+    },
+    "dataList[id=500103].desc": {
+      "pl": "— opis] Przy użyciu Umiejętności, jeżeli cel ma <color=#ff6000><mark=#ff000040><b><u>20+ stosów [RicardoBookRaid]</u></b></mark></color>,\nwszystkie monety tej Umiejętności stają się [SuperCoin]ami\n\nJeżeli Umiejętność Ricarda wskazuje jako cel jednostkę z <color=#ff6000><mark=#ff000040><b><u>maksymalną liczbą stosów [RicardoBookRaid]</u></b></mark></color>, umiejętność uzyskuje stan <color=#ff6000><mark=#ff000040><b><u>zablokowanej zmiany celu</u></b></mark></color>",
+      "kr_sha256": "e3237657751afd2e0c587f0a444da0e4ed1ce9457b3801ee8b71e08195998c19",
+      "en_sha256": "024587834e56c0d467869b33314dc885f31162d3c23a92940c1a31931cfc97ed",
+      "origin": "ai"
+    },
+    "dataList[id=500103].name": {
+      "pl": "— nazwa] Ten Grzech Jest Zbyt Ciężki",
+      "kr_sha256": "c49f52076be60548388e65266108670de670f95110cf382c575fdc2fc2ddaef8",
+      "en_sha256": "49c3579401f352fe46bc500b79ac40d61695054784ee3e2cd712432d098836e6",
+      "origin": "ai"
+    },
+    "dataList[id=500104].desc": {
+      "pl": "— opis] Na początku walki, jeżeli cel <color=#ff6000><mark=#ff000040><b><u>wyposażył Umiejętności obrony</u></b></mark></color>,\nzadaje tym celom -30% obrażeń",
+      "kr_sha256": "cf0e3df8a72e62cf444f7bfee22cb9f3e92b0e19605ca52b05627436633fb5e5",
+      "en_sha256": "df1ba760e0716e6cac6149f9ba0b6976196eac08400da1b212024c8cdbe999aa",
+      "origin": "ai"
+    },
+    "dataList[id=500104].name": {
+      "pl": "— nazwa] Pokornie Poddaj Się Egzekucji",
+      "kr_sha256": "ea894b8967150973a11e11f3936a127c160fd548886eb1ce02e46206d3cdeaa6",
+      "en_sha256": "ec466dd835af3032606db45e0a9952633fd7db694e698f96ae1f00c7accdb485",
+      "origin": "ai"
+    },
+    "dataList[id=500105].desc": {
+      "pl": "— opis] <color=#ff6000><mark=#ff000040><b><u>Przy 60% HP lub mniej, zmienia fazę</u></b></mark></color>\n- Wszystkie efekty inne niż własne unikalne efekty znikają",
+      "kr_sha256": "98f65e2469ff19cca5adcda741a22837b168f7d0bb2ac3a75a6ee08b0077ddaa",
+      "en_sha256": "45d7b5588e8ef172faa37e65ab9e19d4e988b3aa081a57db6f1aef0521163216",
+      "origin": "ai"
+    },
+    "dataList[id=500105].name": {
+      "pl": "— nazwa] Miłość Rodzinna",
+      "kr_sha256": "d7ffceb1a800a7013bce46fba678045f7e3683727c56d45420cd9a609062a0d6",
+      "en_sha256": "788124cbf4a6715ec67bb4eca497c7de82a3d05d87ed03cff07e1dd2f492bb73",
+      "origin": "ai"
+    },
+    "dataList[id=500106].desc": {
+      "pl": "— opis] Pasywka wyłącznie dla Fazy 2\nNa początku Fazy 2 nakłada [BurstAgility] i [BurstZilu] na Ricarda\nRicardo otrzymuje +50% obrażeń Łaknienia",
+      "kr_sha256": "f958729452c7f40b910e26560aeed41434307fdf2bb520b2641905462c02f264",
+      "en_sha256": "9059cf899a61768a126f9a65bb7ee70ef824bde87bd4064347d515ea435732cf",
+      "origin": "ai"
+    },
+    "dataList[id=500106].name": {
+      "pl": "— nazwa] Ta Mutacja Heishou Zostawiła Bolesny Ślad",
+      "kr_sha256": "774d18cd8b1d0a47eff4ce150e729c962ff396531eb8a6254af6383a495e7313",
+      "en_sha256": "8bd6e228068074f36819e501f3004c84ccaefbe70755b8c770f6fa68e871653d",
+      "origin": "ai"
+    },
+    "dataList[id=500107].desc": {
+      "pl": "— opis] Na początku tury, jeżeli istnieje cel z <color=#ff6000><mark=#ff000040><b><u>30 stosami [RicardoBookRaid]</u></b></mark></color>,\ntworzy dodatkowy slot Umiejętności i stosuje nim Umiejętność „Całkowita Zagłada!”",
+      "kr_sha256": "c83d9fff57b36f91b9de07fc262c223a412ac92808c7fb743cc4a1360963dff2",
+      "en_sha256": "c251e96bd1d7c6b2053bf75e094d4402e3485e1eec893fba4adc1138b97dae6e",
+      "origin": "ai"
+    },
+    "dataList[id=500107].name": {
+      "pl": "— nazwa] Jesteś Głównym Celem Zemsty Środkowego",
+      "kr_sha256": "37cbaca4bfab063aee4d4161dfaf3670634cc958a11f988f54d9d9be2b1a9027",
+      "en_sha256": "242a760116f5c2cd4d27fd48fda6aafefe89dcea82e673d3d737f0ad9409983d",
+      "origin": "ai"
+    },
+    "dataList[id=500108].desc": {
+      "pl": "— opis] Od 2. tury <color=#ff6000><mark=#ff000040><b><u>wszyscy sojusznicy, włącznie z tą jednostką, odzyskują 10 Poczytalności na początku tury</u></b></mark></color>\nOtrzymuje -20% obrażeń z [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]",
+      "kr_sha256": "12429b375405ce7bdad6f7a297b30da7f4db489fa7742463386d73629b873ac9",
+      "en_sha256": "a8c6de6dbe352d5b0f8226dabc0ea5ef1b30c0159ea80f796e2975fa554a0d6d",
+      "origin": "ai"
+    },
+    "dataList[id=500108].name": {
+      "pl": "Starszy Brat",
+      "kr_sha256": "ad9e1976f9faa93c80873d3ef710642b40235d7e2d4a6751f9969f6c5487acc8",
+      "en_sha256": "7de59d22c9a12fa3a9361b572571bccfea142dce72b20a8179b5a37c73ca28a3",
+      "origin": "ai"
+    },
+    "dataList[id=500109].desc": {
+      "pl": "— opis] Otrzymuje efekt uniemożliwiający zmianę Paniki,\nna koniec tury, jeżeli jest w Panice, Poczytalność spada do 0\n\n<color=#ff6000><mark=#ff000040><b><u>Przy 50% HP lub mniej, zmienia fazę</u></b></mark></color>\n-Wszystkie efekty inne niż własne unikalne efekty znikają",
+      "kr_sha256": "3ef6b1436ee6b43f78c8faa3c84d7d75880261d6b5d07e53fc3cf63392d06e01",
+      "en_sha256": "8e0eebf04bae9b0e1088368f827445f68b2cc08057c2f3e72f09d48b73033173",
+      "origin": "ai"
+    },
+    "dataList[id=500109].name": {
+      "pl": "— nazwa] Zmiata To",
+      "kr_sha256": "13eaa7de590c0218865dccc682c730d66b874a80117b92ac27e9e3203160f445",
+      "en_sha256": "a01864539f7d592f43e9b68cd658beeed8cf22aa790695a3b4398d1274476c44",
+      "origin": "ai"
+    },
+    "dataList[id=500110].desc": {
+      "pl": "— opis] Otrzymuje efekt uniemożliwiający zmianę Paniki,\nna koniec tury, jeżeli jest w Panice, Poczytalność spada do 0",
+      "kr_sha256": "544fc8624b97db84ee31c095dc467bc2e0161d181c076134586ce50c8608a7d1",
+      "en_sha256": "eb1ebac81f9d856ec59f65927b67d58b40a604ef4d9652d1b7f4cf3adfc01bf0",
+      "origin": "ai"
+    },
+    "dataList[id=500110].name": {
+      "pl": "— nazwa] Zmiata To",
+      "kr_sha256": "13eaa7de590c0218865dccc682c730d66b874a80117b92ac27e9e3203160f445",
+      "en_sha256": "a01864539f7d592f43e9b68cd658beeed8cf22aa790695a3b4398d1274476c44",
+      "origin": "ai"
+    },
+    "dataList[id=501201].desc": {
+      "pl": "— opis] Na początku sceny zyskuje 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Co 3 tury zmienia własną Postawę Ojczyzny</u></b></mark></color>\n\nNa koniec tury, jeżeli ma Tarczę, zyskuje 5 [Breath] i 2 Licznika [Breath] w następnej turze\n\nGdy Im Gyeong-eop spełnia poniższe warunki, stosuje wzorzec zawierający Umiejętność „Łuk Ojczyzny - Wypuszczenie Strzały”\n- Jeżeli przez 2 tury z rzędu przegrywa wszystkie starcia (ataki bez kontr nie są liczone)\n- W turze po Ogłuszeniu\n- Przy spadku morale i Panice",
+      "kr_sha256": "e52f703f1ad6f8ecd54cfcce205bf4b841b1ba0063c45b5786f94222aba268e1",
+      "en_sha256": "d5e75f60fb54c585797f1a6305d9736bbfefee3d0997d736ce747385b10ea29e",
+      "origin": "ai"
+    },
+    "dataList[id=501201].flavor": {
+      "pl": "— tekst klimatyczny] Szermierka Ojczyzny, tradycyjna sztuka miecza przekazywana w Korp. S, dzieli się także na trzy gałęzie: Sal, Pi i Ppyeo.\nW jej naukach przekazywane są również techniki do siekania i przecinania gigantycznych istot takich jak Sangu.\nAby w pełni je wykonać, szermierz musi dzierżyć wielki hwando, zdolny znieść obciążenie tych technik.",
+      "kr_sha256": "c9b7d1196b164137b7ee3aad4b78a7c3e901acb71a221183e3da0bd499986dd2",
+      "en_sha256": "0402cbcea1e049807f138b99d5c1be62a3612796e11b685683b17e8ad9b613ba",
+      "origin": "ai"
+    },
+    "dataList[id=501201].name": {
+      "pl": "— nazwa] Szermierka Ojczyzny[Sal] - Wielki Hwando",
+      "kr_sha256": "056e512d47fd9b02d225efb93f952008afd19456800c395324cd8df3aa30ad7c",
+      "en_sha256": "e3e7b3e414ec2268b2d174d2c0f6c565df289c7e982cec40add05da92944d20f",
+      "origin": "ai"
+    },
+    "dataList[id=501202].desc": {
+      "pl": "— opis] Otrzymuje -30% obrażeń z [Laceration], [Burst] i [Sinking] (zaokrąglone w dół)\n\nOtrzymuje efekty [PanicChangeLock]; jeżeli na koniec tury jest w Panice, Poczytalność ustawia się na 45\n\nPrzy pierwszym wejściu na scenę zyskuje 5 [ChoiSwordsmanshipShield]\n\n<color=#ff6000><mark color=#ff000040><b><u>Jeżeli [ChoiSwordsmanshipShield] wygaśnie, w następnej turze zostaje Ogłuszona\nNa koniec tury Ogłuszenia tym efektem zmienia fazę</u></b></mark></color>\n- Podczas Fazy 1 HP nie spada poniżej <color=#ff6000><mark color=#ff000040><b><u>70%</u></b></mark></color>",
+      "kr_sha256": "1a11250ff54f3e8373253ebae10d93a2ec09368a1eefb3d8006272dfb82a4f7c",
+      "en_sha256": "4a20629bd4606c4654b34095fabca4e254dfc956e34b3dec64e78143f492cf95",
+      "origin": "ai"
+    },
+    "dataList[id=501202].flavor": {
+      "pl": "— tekst klimatyczny] Wschodnie Pancerze Warstride to broń, którą się raczej „pilotuje”, niż „zakłada”, a Brigandyna Dujeong Korp. S jest jedną z nich.\nPodobnie jak skafandry Pancerza Napędowego Korp. R czy pełne zbroje płytowe zachodnich rycerzy, Brigandyna Dujeong gwałtownie podnosi zdolności bojowe użytkownika w ataku i obronie.\nJednak pancerze o tak znakomitych osiągach nie są łatwo dostępne. Każdy z nich ma inne metody obsługi, a do działania wymagają osobnego paliwa.\nNiemniej pewne jest jedno: tak jak w przypadku skafandrow Pancerza Napędowego, pełnych zbroi płytowych i innych pancerzy Warstride, gdy tylko pilot oswoi się z rozszerzonym zasięgiem i wzmocnioną mocą wyjściową Brigandyny Dujeong, siła zabijania na polu bitwy rośnie skokowo.",
+      "kr_sha256": "fb21c8011d8ea5639ce5bac5836283f116524513dd1c400ea4ad831bc207e592",
+      "en_sha256": "0c54da51eac2e03efbd12cccdefdd839db53736978c779ce4863bdfc41bfee05",
+      "origin": "ai"
+    },
+    "dataList[id=501202].name": {
+      "pl": "— nazwa] Brigandyna Dujeong [Sal] - Żelazny Bastion",
+      "kr_sha256": "acbc9b8541b51bd88cae29c4f7ea1b3c9697ff19584042774958a293ee94cfc8",
+      "en_sha256": "c18ec579c64f645a97753fc10d2e4d37909629aef03c44bfe12d0ae18981e1a4",
+      "origin": "ai"
+    },
+    "dataList[id=501203].desc": {
+      "pl": "— opis] Po wygranej w starciu zyskuje +2 Licznika [Breath] (2 razy na turę)\n\nJeżeli cel trafiony Umiejętnością ma mniej niż 5 Mocy [Laceration], na koniec ataku nakłada 1 [Laceration] i zwiększa Licznik [Laceration] o 2 (1 raz na Umiejętność, 2 razy na turę, najpierw główny cel)",
+      "kr_sha256": "7d568bd9a95a364ec9e32648f196d9f41afec1628c61f1643693764a3c2b1632",
+      "en_sha256": "b33c42b30bfd79a1d44466559a9ccdfefacc0b519d845dad3a3b42b47e29ef65",
+      "origin": "ai"
+    },
+    "dataList[id=501203].flavor": {
+      "pl": "— tekst klimatyczny] 'Są tacy, którzy treningiem nadrabiają brak talentu. Są i tacy, którzy obdarzeni talentem, nie wkładają w nic trudu.'\n'Wszyscy powtarzali, że imię Najdoskonalszego Ostrza może zdobyć tylko ktoś utalentowany.'\n'Ale nieważne. Aż przyjdzie dzień, w którym to ostrze sięgnie chmur, będę po prostu trenować.'",
+      "kr_sha256": "3ac6eec0f27bd108f6fe68e9f8ee2f664b9e528b04018f1e90e205a0fc453e49",
+      "en_sha256": "a1ef2e1a0e4b49761a24d6ab4ff68b0eab3a97c8f82c597d435bdf65f316bd71",
+      "origin": "ai"
+    },
+    "dataList[id=501203].name": {
+      "pl": "— nazwa] Sztuka Walki Wytrwałości",
+      "kr_sha256": "ec5779a0d828089be2b847b3afb473f70f98178db483d3375f80c113b6064bb9",
+      "en_sha256": "1b6e790e35ac939fdfc77e38dfe58f45cdc1ac3ba041e3bd66573c06029114f1",
+      "origin": "ai"
+    },
+    "dataList[id=501204].desc": {
+      "pl": "— opis] Po przegranej w starciu zyskuje 1 [RegretSCorp] (1 raz na turę)",
+      "kr_sha256": "52f188390ef615eba3ddf0ef49e2ef7b0eb9b4a31667bcb9e879230cc404a031",
+      "en_sha256": "06fca50850fe4bb25f62620a04b81a974869fe92d30c036ac32feabc09273004",
+      "origin": "ai"
+    },
+    "dataList[id=501204].name": {
+      "pl": "Kolące w Skroniach Wspomnienie",
+      "kr_sha256": "a67f56db35c211bd29b4e1a6526398671738f7b9b6c1d83216377e5fc0f8c2cf",
+      "en_sha256": "97903d57dc6ac6fd13a0c710ca5663cf3784556258c43d09d8f17d83f303cf03",
+      "origin": "ai"
+    },
+    "dataList[id=501205].desc": {
+      "pl": "— opis] Przy wejściu na scenę zyskuje 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>Na początku tury przy 0 stosach [PhotoTransitionChoi] wycofuje się, a mapa ulega zmianie</u></b></mark></color>\n\nPrzy powrocie na pole bitwy zyskuje lub traci [ChoiSwordsmanship] zależnie od obecnej Postawy Ojczyzny\n- W [ChoiSwordsmanshipOne]: zyskuje stosy\n- W [ChoiSwordsmanshipMany]: traci stosy\n\nJeżeli [ChoiSwordsmanshipShield] wygasło, usuwa [PhotoTransitionChoi]",
+      "kr_sha256": "3583b06ffbfd35db7684d1c1c1586425ab76f5fd1aaded7d7d2a0d2cd2c895ec",
+      "en_sha256": "faf2386c93132827d4545ca48c2f8d0d27f82fde5b4b5f435b3582203965ca24",
+      "origin": "ai"
+    },
+    "dataList[id=501205].name": {
+      "pl": "Rozwinięte Wspomnienia",
+      "kr_sha256": "8480cf96fd019c784520535cd67ac94e2c378eaef17568843a3e2a84ba8ffe8e",
+      "en_sha256": "1565fb2a3e70ebf752e8ce1fd806b89b0c330fe82c541f29dba84192fb274594",
+      "origin": "ai"
+    },
+    "dataList[id=501206].desc": {
+      "pl": "— opis] Po 10+ starciach z tym samym przeciwnikiem Moc Starcia losowo rośnie lub maleje o (Liczba Starć/10) w starciu (zaokrąglone w dół)\n\nMoc [Laceration], [Burst] i [Sinking] kumuluje się do maks. 30, a ich Licznik do maks. 10\n\nMoc [Combustion] i [Vibration] kumuluje się do <color=#ff6000><mark color=#ff000040><b><u>maks. 50, a ich Licznik do maks. 30</u></b></mark></color>",
+      "kr_sha256": "9eda72e051b5e939770e46f95680099139f0716b8ef546ef64333b931cc59488",
+      "en_sha256": "0fa4f03eeafe92a27f731efc67c3674bfdcc5728dae41cefffbcdb925f110904",
+      "origin": "ai"
+    },
+    "dataList[id=501206].name": {
+      "pl": "Walka Projekcyjna",
+      "kr_sha256": "b434bcdbec69b70038646e62c70bf4394fdf0399d97e87d9fa81c9c4c4584a2d",
+      "en_sha256": "7e8e89da7dd575c88060fd38e5166c3dbc2d556e25f07c35e2fb9caba30f2447",
+      "origin": "ai"
+    },
+    "dataList[id=501207].desc": {
+      "pl": "— opis] Na początku tury uruchamia poniższe efekty\n- W [ChoiSwordsmanshipOne], przy mniej niż 5 stosach [ChoiSwordsmanship], zyskuje (5 - stosy [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color>\n- W [ChoiSwordsmanshipMany], przy więcej niż 5 stosach [ChoiSwordsmanship], zyskuje (nadwyżka ponad 5) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color>",
+      "kr_sha256": "1736aa743f600a13c6387fa2d8e4b67061fdff4b9b18fb055d08dd014f68eb16",
+      "en_sha256": "834dfe08ef1c9ad04c3ad529fe26dabe1cef5229c1b5766795aa877ebd3c80b3",
+      "origin": "ai"
+    },
+    "dataList[id=501207].name": {
+      "pl": "— nazwa] Niezgodne Wspomnienia",
+      "kr_sha256": "7a457614ea9d3c29b1faf2ecbe843241af0ec4534cb9ef8fa1713d373ae3e01a",
+      "en_sha256": "03f555f668918a353cb766487704d4b3eb842fb3710b570af463e4de25a82a17",
+      "origin": "ai"
+    },
+    "dataList[id=501301].desc": {
+      "pl": "— opis] Na początku sceny zyskuje 5 [ChoiSwordsmanship]\n\nCo 3 tury zmienia własną Postawę Ojczyzny\n\nPrzy trafieniu Umiejętnością Sieczną zyskuje 1 Moc [Breath] (1 raz na Umiejętność)\n\nPo spełnieniu poniższych warunków stosuje wzorzec zawierający Umiejętność „Łuk Ojczyzny - Wypuszczenie Strzały”\n- Jeżeli przez 2 tury z rzędu przegrywa wszystkie starcia (ataki bez kontr nie są liczone)\n- W turze po Ogłuszeniu\n- Przy spadku morale i Panice\n\nNa początku tury przy minimalnej lub maksymalnej wartości [ChoiSwordsmanship] stosuje potężną Umiejętność\nJeżeli w poprzedniej turze stosowała „Łuk Ojczyzny - Wypuszczenie Strzały”, stosuje potężną Umiejętność niezależnie od wartości [ChoiSwordsmanship]\nJeżeli HP wynosi 60% lub mniej, [ChoiSwordsmanship] tej jednostki nie maleje",
+      "kr_sha256": "92f7d5689d3351bbd4b3156b00ab707062f232b287261426ba3e64887ca5b9a4",
+      "en_sha256": "c5c1c26c427828441da8d2aef18bd2490979cd577d5552038ad9b565b5967d33",
+      "origin": "ai"
+    },
+    "dataList[id=501301].flavor": {
+      "pl": "— tekst klimatyczny] Szermierka Ojczyzny przekazywana w Kręgu Dworskim Sal nie ma w swej istocie zabijania jako celu.\nCiąć i znów ciąć, aż krew popłynie, a kość będzie odsłonięta, odrywając płaty mięsa z ciała przeciwnika. Takie jest Szermierka Ojczyzny „Sal”.",
+      "kr_sha256": "301ac782e392e6f9fd773a95f6103ae397fcf5c17225e662daae0814f78b8964",
+      "en_sha256": "3beaa469c7f2c5ad3c7fe7d68e7577e3808ac0edef0f2011af56d4547762019e",
+      "origin": "ai"
+    },
+    "dataList[id=501301].name": {
+      "pl": "— nazwa] Szermierka Ojczyzny[Sal] - Rozdarcie Mięsa",
+      "kr_sha256": "a432cd4978c895450552c5d3067275f21d23b8bc34ef9e3ad1862c0baa56b99a",
+      "en_sha256": "e5d1d1a9c2e983d2f1c34fd75643b8c81adacd2a04ea98b9648d03aa84fa9e09",
+      "origin": "ai"
+    },
+    "dataList[id=501304].desc": {
+      "pl": "— opis] <color=#ff6000><mark color=#ff000040><b><u>Na początku tury zyskuje lub traci 2 stosy [ChoiSwordsmanship] zależnie od własnej Postawy Ojczyzny (nie uruchamia się w 1. turze spotkania)</u></b></mark></color>\n- W [ChoiSwordsmanshipOne]: zyskuje stosy\n- W [ChoiSwordsmanshipMany]: traci stosy\n\nW turze z wyposażonymi Umiejętnościami Zazdrości nie podlega efektowi regulacji wartości [ChoiSwordsmanship] i <color=#ff6000><mark color=#ff000040><b><u>na początku następnej tury ustawia [ChoiSwordsmanship] na 5</u></b></mark></color>",
+      "kr_sha256": "53ba2ce9aacbf29656b567e284f8cd4a84e10b6db7117ebb7d092d783afceb1d",
+      "en_sha256": "c6761e457e15a2d5af149cea34e78213c44153568d471d5f9d0d1b812c95f90f",
+      "origin": "ai"
+    },
+    "dataList[id=501304].name": {
+      "pl": "— nazwa] Szermierka Ojczyzny[Sal] - Zmiana Postawy",
+      "kr_sha256": "ef35d1c684900c7abbc62d22cb695f2c86268e4dbaa1e584c7ba4f4a075dabf4",
+      "en_sha256": "bd92114538c1b968ce8b227a58e164d09fff5af0ff9a59eaebb0fb5761804ff2",
+      "origin": "ai"
+    },
+    "dataList[id=501305].desc": {
+      "pl": "— opis] Otrzymuje -30% obrażeń z [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] (zaokrąglone w dół[TabExplain], z wyłączeniem Podniesienia Prógu Oszołomienia przez [VibrationExplosion])\n\nOtrzymuje efekty [PanicChangeLock]; jeżeli na koniec tury jest w Panice, Poczytalność ustawia się na 45\n\nNa początku tury uruchamia poniższe efekty\n- W [ChoiSwordsmanshipOne], przy mniej niż 5 stosach [ChoiSwordsmanship], zyskuje (5 - stosy [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color>\n- W [ChoiSwordsmanshipMany], przy więcej niż 5 stosach [ChoiSwordsmanship], zyskuje (nadwyżka ponad 5) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</u></b></mark></color>",
+      "kr_sha256": "8829c5e312c4c5a475a921ef6a357c95e89e5b5f0b7a623601166eda620be561",
+      "en_sha256": "d377aec17597dd19c1e98515a938b28ba9138fa1d4f310f988dcf61ae58dae14",
+      "origin": "ai"
+    },
+    "dataList[id=501305].flavor": {
+      "pl": "— tekst klimatyczny] Trzy Kręgi Dworskie Sal, Pi i Ppyeo przekształciły standardową Brigandynę Dujeong Korp. S w formy zgodne z własnymi doktrynami.\nWedług starych opowieści „Sal” zawsze otwierało rzeź jako pierwsze, eagerly siekąc ciało wroga przed innymi.\n„Pi” zbiera krew wylatującą z każdej rozciętej rany i wykorzystuje ją, by podtrzymać trwanie bitwy.\n„Ppyeo” zadaje ostateczny cios rzezi. Przerywa stawy zginając przeciwnika na kolana, by w końcu ściąć jego kręgi szyjne i zakończyć życie.",
+      "kr_sha256": "48dd38cb2af03df71d2759b3a9976d4e1380a12f2f9e63e92057d152a468fbe4",
+      "en_sha256": "06b17b2e387506c734462a0585783774a43904df801d4629ed2637d8ec52d6ba",
+      "origin": "ai"
+    },
+    "dataList[id=501305].name": {
+      "pl": "— nazwa] Brigandyna Dujeong [Sal] - Wielka Góra",
+      "kr_sha256": "6bcbfdc1e1a1581d610832e2b3c76f4e953dfe9972ed3e05b70705e94551dd1d",
+      "en_sha256": "4fd127913d6a61608e908e25d889d7f32b8de067983865e76fe8e4ff806244b0",
+      "origin": "ai"
+    },
+    "dataList[id=501401].desc": {
+      "pl": "— opis] Ta jednostka nie może zginąć, otrzymuje wyłącznie obrażenia z Umiejętności celujących w nią jako główny cel i nie otrzymuje żadnych innych obrażeń \n\nSzybkość jest na stałe ustawiona na 1\n\nNa początku tury po wejściu na scenę zyskuje 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>Jeżeli HP tej jednostki osiąga 1 albo liczba stosów [PhotoTransitionChoiCamera] na początku tury spada do 0</u></b></mark></color>, uruchamia poniższe efekty\n- Usuwa z pola bitwy Personel Korp. N Klasy 2 oraz tę jednostkę\n- Sprowadza Im Gyeong-eop z powrotem\n- Zmienia mapę</u></b></mark></color>",
+      "kr_sha256": "a69fd729e66479a3eb3daf5e692b0ef162870ab83a9752cc3274665eb40d9501",
+      "en_sha256": "10cdb561cbebd02840df80beb59b1159d591e08eb0d362a2581d014eb14d1669",
+      "origin": "ai"
+    },
+    "dataList[id=501401].name": {
+      "pl": "— nazwa] Wypaczenie: Pracownia Fotograficzna",
+      "kr_sha256": "01744b367bdf2ccb1cb3675af0c4e8c6e5b769364345408b60038be022cd1c22",
+      "en_sha256": "97b7fc8a8f4684d7d41bd03f435c961d64f347e316a2d7c3c340f6ec57bfeb0f",
+      "origin": "ai"
+    },
+    "dataList[id=501501].desc": {
+      "pl": "— opis] Po śmierci daje +1 zasobu E.G.O Afinności o najmniejszym stanie",
+      "kr_sha256": "04988a60808bac2329048f2f285ae08a483b445dc0a744bd2868b00350cdcdaa",
+      "en_sha256": "c1f1a050cd7ee7d3d68a79260b30695740a25c6c5947bb7830c8c50afd9285a2",
+      "origin": "ai"
+    },
+    "dataList[id=501501].name": {
+      "pl": "— nazwa] Rozproszone Wspomnienia",
+      "kr_sha256": "1051edaf4f7cec42938951ade3a06dbf057ed27aa31f94ab0f4643cda4d39b17",
+      "en_sha256": "8562e3e3273ef8bcd2c3201df9059ca5c2d9a33e1ed7620d54295c2d05bed975",
+      "origin": "ai"
+    },
+    "dataList[id=501501].summary": {
+      "pl": "— podsumowanie] Po śmierci daje zasób E.G.O",
+      "kr_sha256": "a039d959829173f1ebd15f4bc91bd44189152cf74d29ec9fadff5e652edbf448",
+      "en_sha256": "ab3421bb4555cc8585fccc4ab84cb30b1e8b78fc5f4a891791215ac0d4d2ef25",
+      "origin": "ai"
+    },
+    "dataList[id=501901].desc": {
+      "pl": "— opis] Otrzymuje -30% obrażeń z [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\n\nPrzy rzucie monety zużywającej [BulletPropellant]: brak [BulletPropellant] nie przerywa ataku, ale efekty monety „nakłada [Combustion]” i „zwiększa Licznik [Combustion]” nie uruchamiają się\n\nPodczas starcia zwiększa Licznik [Vibration] celu o (1 + Liczba Starcy/3)\n(maks. 3, maks. 3 razy na turę na jednym celu)",
+      "kr_sha256": "a96eb91495f1b6a8f675a83c9b42ceb1e99c0a6262f522a7ef9f1376e8959186",
+      "en_sha256": "1505aea6306319535ceb2cbb38c569ccbe3ab8cc14cf8e4e4662925104ca9a82",
+      "origin": "ai"
+    },
+    "dataList[id=501901].name": {
+      "pl": "— nazwa] Oficer Kciuka, Capo IIII",
+      "kr_sha256": "bebf3e9f057d41d53144582ac7e3f07f8441e966659225247da2e18474c8c21e",
+      "en_sha256": "ae7186e775ed74e89917be56301511d23a1acf7f78be8e7ea4ae72cdd4509487",
+      "origin": "ai"
+    },
+    "dataList[id=501902].desc": {
+      "pl": "— opis] Na początku sceny i na początku tury po zmianie wzorca\n- Zyskuje 1 [Bothersome]\n- Odzyskuje 5 Poczytalności za każde 10% brakującego HP (maks. 40)\n\nOtrzymuje efekty [PanicChangeLock]\nNa koniec tury, jeżeli jest w Panice, Poczytalność ustawia się na 45",
+      "kr_sha256": "61773f543ca7d87205dab4e7d59c397b112d27f4a1b3193e0e1369fa06ea4ac1",
+      "en_sha256": "a720df1420b2b83367e817aff82a97d08d7395819179a0bcbc0040c86fb19da9",
+      "origin": "ai"
+    },
+    "dataList[id=501902].name": {
+      "pl": "— nazwa] Dziesięć Ostrzy Wschodu",
+      "kr_sha256": "9646b9f26c12bcf763445fafbccc2191bf97cfc4773530cfea133edf09a86b07",
+      "en_sha256": "b3b4638d018967a41144533b0df4d881923af10e02bc0b34002cde80e4217b51",
+      "origin": "ai"
+    },
+    "dataList[id=501903].desc": {
+      "pl": "— opis] Na początku tury <color=#ff6000><mark=#ff000040><b><u>nakłada 1 [Prey_leiheng] na Grzesznika, który w poprzedniej turze zadał jej najwięcej obrażeń</u></b></mark></color>\n\nPo tym, jak Lei Heng zaatakowała Grzesznika posiadającego [Prey_leiheng], na koniec ataku, jeżeli cel\n- został Ogłuszony, wszyscy Grzesznicy tracą 10 Poczytalności i zyskują 1 [ParryingResultDown] w tej i następnej turze (1 raz na turę)\n- zginął, powyższy efekt uruchamia się dodatkowo 1 raz",
+      "kr_sha256": "ae9f22e22e2abab01d0782f80295c19ff9c8b41c7d547b57242232dd3b154371",
+      "en_sha256": "0d5018d40995b2c0b930eb35b38d04f79adbf71100d1a37b0ff8b3dd20aabefb",
+      "origin": "ai"
+    },
+    "dataList[id=501903].name": {
+      "pl": "— nazwa] Wybrana Zdobycz",
+      "kr_sha256": "413218540755005fe4f1944e16a6cc9a7a8780f6c0fb177db58561ccfd8680c1",
+      "en_sha256": "e7fd96dd41815ee18d9bb2ce6dc8db7c760f9100d09cb6f19b6dcc5b001a5745",
+      "origin": "ai"
+    },
+    "dataList[id=501904].desc": {
+      "pl": "— opis] <color=#ff6000><mark=#ff000040><b><u>Ataki bez kontr przy trafieniu</u></b></mark></color> zadają +30% obrażeń i nakładają 1 [Vulnerable] w następnej turze\n\nMonety Umiejętności, które zużyły [BulletPropellant], zadają przy trafieniu +20% obrażeń i nakładają 2 [DefenseDown] w następnej turze\n\n<color=#ff6000><mark=#ff000040><b><u>Powyższe efekty nie uruchamiają się, jeżeli cel wyposażył Umiejętność obrony</u></b></mark></color>",
+      "kr_sha256": "0e7c02fcb8b99e9c30f7f42a0c37c3acd0bc8a53a2948379bf2ad48fdd807166",
+      "en_sha256": "67920c40b5ce953df929f1ff010b1d14be7ccf5fd9631be35eb94e2122730e52",
+      "origin": "ai"
+    },
+    "dataList[id=501904].name": {
+      "pl": "Ostrze Gwiazdy Tiantui [天退星刀]",
+      "kr_sha256": "b2e3ce12cc41a5c5a99981992055c576595d6239c95669d14f115f0f3ca3f168",
+      "en_sha256": "1eeaf17b4a395e22220bf2d4c0b798f9d6c4ea67f1c9b187c4981dc49bfcdf64",
+      "origin": "ai"
+    },
+    "dataList[id=501905].desc": {
+      "pl": "— opis] Na koniec pierwszej tury przeładowuje [BulletPropellant] i zmienia wzorzec w następnej turze\n- Jeżeli jest Ogłuszona, wychodzi z Ogłuszenia",
+      "kr_sha256": "c83fa593a9c03adc761dc8056ad2bf5487bc348550e2efcc11a9a1240f688d51",
+      "en_sha256": "ae3e9735fae03b1f57f81239d68e4f5bb2dc3f27b8b654181218d287141656a3",
+      "origin": "ai"
+    },
+    "dataList[id=501905].name": {
+      "pl": "— nazwa] Nabój Tygrysa - Przeładowanie",
+      "kr_sha256": "3605648a0ec2b6530724880ebb5d934d36a013611f8439b2f5da8f0e8283a2a8",
+      "en_sha256": "47243f08d809250a6357089c60c4b9997bf8869f49a4debd2a9f3bcf634b4ad5",
+      "origin": "ai"
+    },
+    "dataList[id=501906].desc": {
+      "pl": "— opis] Na koniec tury przy HP 85% lub mniej albo na koniec drugiej tury zmienia wzorzec w następnej turze\n- Stosuje potężny atak („Tanglecleaver”), powtarzany co 3. turę; Minimalna i Maksymalna Szybkość +10 w turach, w których stosuje tę Umiejętność\n- Na początku tej tury zyskuje 25 [BattleSense]\n- Jeżeli jest Ogłuszona, wychodzi z Ogłuszenia",
+      "kr_sha256": "c9e273baa2a0764d916762c34eebf3d01d2b2b456310d942c826f9db8c9aa3a5",
+      "en_sha256": "089b774b87153ad4d9ca0958fbfc6afc585c47cc8c3577729c0451ac530b25ef",
+      "origin": "ai"
+    },
+    "dataList[id=501906].name": {
+      "pl": "— nazwa] Lei Heng [雷橫]",
+      "kr_sha256": "cc00a00a1706a0effa66080380bf6a2a19d236e4da14c9b48e1242ec8f2006a7",
+      "en_sha256": "a93a06ac397da9cb538f85b3c70deb73bc56f15df290953ad9532d626724996c",
+      "origin": "ai"
+    },
+    "dataList[id=501907].desc": {
+      "pl": "— opis] Jeżeli podczas walki HP spadło do 66% lub mniej, w następnej turze zmienia fazę i wzorzec\n- Na początku tej tury zyskuje 1 [Irritation]\n- Na początku tej tury zyskuje 18 [BulletPropellantSpecial] i natychmiast przeładowuje\n· Jeżeli zużyje wszystkie [BulletPropellantSpecial], zamienia ten efekt w [BulletPropellant] i przywołuje 2 jednostki „Surowego Soldato Kciuka”, które zaopatrują ją w [BulletPropellantSpecial]\n- Jeżeli jest Ogłuszona, wychodzi z Ogłuszenia",
+      "kr_sha256": "753b83e7ede91d3eaec373f70ca7c0c5462f04233d3a2f963c829d20317f66e9",
+      "en_sha256": "c1fe114a92930f86758bdcf6bb7dcdb26f6b875906359580c2d0980f79e65786",
+      "origin": "ai"
+    },
+    "dataList[id=501907].name": {
+      "pl": "— nazwa] Gwiazda Tiantui [天退星]",
+      "kr_sha256": "514e702ffe7f93a730e6f8b6eb080e1e8e7b2dbce7368cdf4a32ab7298d0d99a",
+      "en_sha256": "d1c7efebf5a98e3d3aa34b0589eb7d5693958a551702a1ba48f1f9ca87083ee9",
+      "origin": "ai"
+    },
+    "dataList[id=501908].desc": {
+      "pl": "— opis] Na koniec tury przy HP 50% lub mniej zmienia wzorzec w następnej turze\n- Potężny atak „Tanglecleaver” zmienia się w „Savage Tigerslayer's Perfected Flurry of Blades”; Minimalna i Maksymalna Szybkość +15 w turach, w których stosuje tę Umiejętność\n- [BattleSense] zamienia się w [RestoredBattleSense]\n- [Irritation] zamienia się w [HugeIrritation]\n- Jeżeli jest Ogłuszona, wychodzi z Ogłuszenia",
+      "kr_sha256": "81da4b10036124b952aea43d0869e732c74648b03693ec51ae1bad6ee30fe800",
+      "en_sha256": "38235d71a87eada8b08ad317906b29e37118ff86a97a57a77b1eb307ab1cc926",
+      "origin": "ai"
+    },
+    "dataList[id=501908].name": {
+      "pl": "— nazwa] Lei Heng, Gwiazda Tiantui Małego Palca",
+      "kr_sha256": "31ec32d274a1110d591b4bc010c83dfbea8cf7a31b95f1f9448199b16f42f12d",
+      "en_sha256": "5635a4379350276fdd23c5a7736dbaed2a56d4d5c8eb101e4ba5dfcc21818d5a",
+      "origin": "ai"
+    },
+    "dataList[id=501910].desc": {
+      "pl": "— opis] Na początku walki <color=#ff6000><mark=#ff000040><b><u>zależnie od wartości Szybkości</u></b></mark></color>\n- odzyskuje Poczytalność równą tej wartości; przy Poczytalności poniżej 0 odzysk x2\n- zyskuje (Wartość Szybkości/3) [SlashDamageUp] (maks. 5)\n\nNa początku walki, <color=#ff6000><mark=#ff000040><b><u>jeżeli ma 3+ [Binding], powyższy efekt nie uruchamia się</u></b></mark></color> i zyskuje [DefenseDown] równy liczbie posiadanych stosów [Binding] (maks. 9)",
+      "kr_sha256": "16867f5491bf3c499c66b569a6aafe3dec83a1d73406a72805a0539994a89e5a",
+      "en_sha256": "b81701d9182d9a75e943a0ba3be6bfd40749f12005d441fdacf94bdefd460a1f",
+      "origin": "ai"
+    },
+    "dataList[id=501910].name": {
+      "pl": "Chachihu [揷翅虎]",
+      "kr_sha256": "d276285af848c7f62abec5873fcd1311d05fa216a295e525dada88d39183ba75",
+      "en_sha256": "1e4eb7f246c9a0b9eeb242d2ba47d93a4acd7c56954c3a00d238f004968a621b",
+      "origin": "ai"
+    },
+    "dataList[id=501911].desc": {
+      "pl": "— opis] Po 10+ starciach z tym samym przeciwnikiem Moc Starcia losowo rośnie lub maleje o (Liczba Starć/10) w starciu (maks. 10)\n\nMoc [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] kumuluje się do maks. 30, a Licznik powyższych efektów do maks. 10\n\nPrzy wejściu w 1. Przydziale na początku sceny\n- Zmienia Poczytalność siebie i wszystkich Grzeszników na polu bitwy na 30 (dla Tożsamości z monetami minus, na -30)\n- Zyskuje +3 zasobów E.G.O dla wszystkich Afinności\n\nPo uruchomieniu efektów pasywki „Gwiazda Tiantui”\ntura się kończy, a w następnej turze wchodzi w Fazę 2\n- Wejście w nową fazę nie resetuje efektów tej jednostki\n\nPrzy wejściu w 2. i 3. Przydziale na początku sceny, według obecnego procentu HP poniższe pasywki traktowane są jako już uruchomione, w podanej kolejności\n- Ponad 85%: <noparse>Nabój Tygrysiego Znaku</noparse> Przeładowanie\n- 85% lub mniej: <noparse>Nabój Tygrysiego Znaku</noparse> Przeładowanie, Lei Heng\n- 66% lub mniej: <noparse>Nabój Tygrysiego Znaku</noparse> Przeładowanie, Lei Heng, Gwiazda Tiantui\n- 50% lub mniej: <noparse>Nabój Tygrysiego Znaku</noparse> Przeładowanie, Lei Heng, Gwiazda Tiantui, Lei Heng, Gwiazda Tiantui Małego Palca",
+      "kr_sha256": "cd469826b785fcd0116fe56182a3fa35570a9f784e0d17c5cd96c0ebd864ee92",
+      "en_sha256": "e2b895c092f61b40defd554e7a6d946a1d5f9548eb3d41a4e3fa318c5595e03b",
+      "origin": "ai"
+    },
+    "dataList[id=501911].name": {
+      "pl": "Walka Projekcyjna",
+      "kr_sha256": "b434bcdbec69b70038646e62c70bf4394fdf0399d97e87d9fa81c9c4c4584a2d",
+      "en_sha256": "7e8e89da7dd575c88060fd38e5166c3dbc2d556e25f07c35e2fb9caba30f2447",
+      "origin": "ai"
+    },
+    "dataList[id=501912].desc": {
+      "pl": "— opis] Jeżeli stosowała potężny atak („Tanglecleaver” albo „Savage Tigerslayer's Perfected Flurry of Blades”), zyskuje w następnej turze [Complacency] równy liczbie użyć tych Umiejętności w tej walce (maks. 5)",
+      "kr_sha256": "8c88e5c7ad236441372c07b348957b231e2162c96566fa3a17aaf139d84a1f86",
+      "en_sha256": "62d75394acb5de6dab0df49618a0f7cae3974b71e20afc559caf51fab968f579",
+      "origin": "ai"
+    },
+    "dataList[id=501912].name": {
+      "pl": "— nazwa] Ostrze Gwiazdy Tiantui - Przegrzanie",
+      "kr_sha256": "b1777961f058279d78a8d72bba6e7f134dc46a8750366b89c090f4c40878b661",
+      "en_sha256": "4f261ae5aa7be01cd43373a7723371efd04d57850fe15336eb9c1b739670919a",
+      "origin": "ai"
+    },
+    "dataList[id=502001].desc": {
+      "pl": "— opis] Na początku tury zyskuje 3 [Vulnerable]\nNa koniec tury zaopatruje Lei Heng w [BulletPropellantSpecial]\n\nPo śmierci Lei Heng zyskuje 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "846ffeafdcbacb73a757c6743962c9d90f33010ecead5f931de214fb88306445",
+      "en_sha256": "c35d54b1ab9bf3863e4e26ba90e9509a353b9c990ea4daf7f42295d34bcb0f02",
+      "origin": "ai"
+    },
+    "dataList[id=502001].name": {
+      "pl": "— nazwa] Wsparcie Nabojów Tygrysa",
+      "kr_sha256": "ecee0bd70d5cf67b139d604b2c455c69991fe2c68ddb4885ea51ca793b3a9d16",
+      "en_sha256": "932c682270fe97e59df00a69ea29de658e839d67fd80b40c12670b4469e2b04a",
+      "origin": "ai"
+    }
+  }
+}
