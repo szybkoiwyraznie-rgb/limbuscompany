@@ -1866,6 +1866,54 @@
       "en_sha256": "e98a4e329d39431c04a4855ac540073edaa0a0514f70d461174ee67e74674c83",
       "origin": "ai"
     },
+    "dataList[id=19199].desc": {
+      "pl": "— opis] Umiejętność 2 typu Kłucia zyskuje Poziom Ataku +2; przy 2 monetach lub mniej efekt jest wzmocniony: Poziom Ataku +2 i Moc Starcia +(2/liczba monet).\n- Tożsamości Sojuszu Wyzwolenia Technologii: efekt zmienia się i stosuje do wszystkich podstawowych Umiejętności ataku typu Kłucia <style=\"upgradeHighlight\">lub Grzechu Obżarstwa</style>\n\nNa początku tury Tożsamości Sojuszu Wyzwolenia Technologii zyskują <style=\"upgradeHighlight\">(liczba posiadanych ujemnych efektów + 1)</style> [AttackUp] (maks. <style=\"upgradeHighlight\">4</style>).",
+      "kr_sha256": "6cdc217ce5deeaca34c03310c5226bd8a1417695c8afe39adfd61321fec94cb6",
+      "en_sha256": "da8dbbd1c080ee3ae3e724a4d5d72c977f8742336dc45c2afda0797f8916fa64",
+      "origin": "ai"
+    },
+    "dataList[id=19199].name": {
+      "pl": "— nazwa] Podarte Rękawy+",
+      "kr_sha256": "5bddb3fcb51791a09a6bc9eb62321922f5b580de59e9421ee55f1f963f89c3b6",
+      "en_sha256": "c1deadf54828cca16b31394eeb3dfee3b708030230234431773b2724540ae518",
+      "origin": "ai"
+    },
+    "dataList[id=19199].simpleDesc[abilityID=191991].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=19199].simpleDesc[abilityID=19199].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Poziomu Ataku; Umiejętności z 2 monetami lub mniej zyskują dodatkowo Moc Starcia",
+      "kr_sha256": "49c8f3f5f2b46fa4f16dad7a4308c1ec70acf771f148cbbf25a8db22cb13e066",
+      "en_sha256": "9586eed3003da789bb710afff099d8dd97837bacc90d7709b3868a9017a63972",
+      "origin": "ai"
+    },
+    "dataList[id=19202].desc": {
+      "pl": "— opis] Przy wygranej Starciu podstawową Umiejętnością ataku Uderzenia nakłada na cel 2 Spadku Poziomu Obrony na następną turę (1 raz na turę na Tożsamość; nie kumuluje się na tym samym wrogu).\n- Tożsamości Stowarzyszenia Dieci: efekt stosuje się również do podstawowych Umiejętności ataku Cięcia i Kłucia oraz nakłada dodatkowo 1 Spadek Poziomu Obrony\n\nJeżeli Tożsamość Stowarzyszenia Dieci odrzuciła własną Umiejętność Umiejętnością Odrzucenia, na początku następnej tury zyskuje Wzrost Poziomu Ataku równy (Ranga odrzuconej Umiejętności<style=\"upgradeHighlight\"> + 1</style>) (liczone wg najwyższej rangi; maks. <style=\"upgradeHighlight\">4</style>).",
+      "kr_sha256": "013a391570ddd72fd909a22ed4c223ada01908206d9c940bf976b49b53b5b18c",
+      "en_sha256": "38c8c50c8309c4c698b161f7b31f26ebf7f2065b1ee76d85cfae6c3a0601833d",
+      "origin": "ai"
+    },
+    "dataList[id=19202].name": {
+      "pl": "— nazwa] Kieszonkowe Fiszki+",
+      "kr_sha256": "fe6ee392fcf760aa6afcb87d1f93a7de8658f226f57e67ae560954220c00405e",
+      "en_sha256": "d4f83725c5cc85e13ea521eea45dd6a9563b374ddce80c47cef8c86897a68ec7",
+      "origin": "ai"
+    },
+    "dataList[id=19202].simpleDesc[abilityID=192021].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku równy Rangi odrzuconej Umiejętności",
+      "kr_sha256": "e881d23a758804e6ab317d8590718ca4f3b571d16a6550b0cb6eb8c4e300c848",
+      "en_sha256": "d28f6cc5578ebe33d5f416f78abbf23dfe1791fae1d752cd049c0da85cb9b539",
+      "origin": "ai"
+    },
+    "dataList[id=19202].simpleDesc[abilityID=19202].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Spadek Poziomu Obrony na następną turę",
+      "kr_sha256": "867d87ecc32ba788668014d4e80df7f48a82951ce33e5c900884d0f605b85093",
+      "en_sha256": "8f1458300cdad3735ba22d062bc727aabf64a303e16323e2bee7dc1383e7c0d4",
+      "origin": "ai"
+    },
     "dataList[id=29001].desc": {
       "pl": "— opis] Gdy Umiejętność nakłada Moc [Combustion] lub Szczególne Podpalenie wroga w stanie [Combustion] lub 'Szczególnego Podpalenia', losowo dzieli <style=\"upgradeHighlight\">5 [Combustion]</style> między wszystkich wrogów.\n\nPrzy wywołaniu <style=\"upgradeHighlight\">Rezonansu Gniewu</style>, na początku walki losowo dzieli <style=\"upgradeHighlight\">8 Moc [Combustion]</style> między wszystkich wrogów.",
       "kr_sha256": "05b56a4e6bb8a0514bc6174f72f858779a178782cd1d099756517d8fd88f0da4",
@@ -3718,6 +3766,54 @@
       "pl": "— opis skrócony] Nakłada Spętanie; Tożsamości Stowarzyszenia Cinq dodatkowo zyskują Pośpiech",
       "kr_sha256": "09c40c73993ce888c82509d8cad8e2d0c3fa27dd06c6398ad9f643a590b4f295",
       "en_sha256": "e98a4e329d39431c04a4855ac540073edaa0a0514f70d461174ee67e74674c83",
+      "origin": "ai"
+    },
+    "dataList[id=29199].desc": {
+      "pl": "— opis] Umiejętność 2 typu Kłucia zyskuje Poziom Ataku +2; przy 2 monetach lub mniej efekt jest wzmocniony: Poziom Ataku +2 i Moc Starcia +(2/liczba monet).\n- Tożsamości Sojuszu Wyzwolenia Technologii: efekt zmienia się i stosuje do <style=\"upgradeHighlight\">wszystkich</style> podstawowych Umiejętności ataku\n\nNa początku tury Tożsamości Sojuszu Wyzwolenia Technologii zyskują <style=\"upgradeHighlight\">1 Wzrost Mocy Starcia</style> oraz [AttackUp] w liczbie równej (najwyższa wartość posiadanych ujemnych efektów +1) (maks. <style=\"upgradeHighlight\">5</style>).",
+      "kr_sha256": "588402c410817877bd6aef852e7ea9596e7dfc7f5f123c22d874f437ef81b678",
+      "en_sha256": "919e38cbc866dadddc410e478fba23f2f8167562e5018e3ff87019cddba74d21",
+      "origin": "ai"
+    },
+    "dataList[id=29199].name": {
+      "pl": "— nazwa] Podarte Rękawy++",
+      "kr_sha256": "23be3ba56f4fef96dd2575137a7045042999afd25fae4f0c0fa78dee157a4440",
+      "en_sha256": "4a78bd69fbb7bc4178a8c0f6aa1e07dd70ea181c27195c241252664e8a303e5b",
+      "origin": "ai"
+    },
+    "dataList[id=29199].simpleDesc[abilityID=291991].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Starcia i Wzrost Poziomu Ataku",
+      "kr_sha256": "21fe51a8e460aea0d433746f0cf2a14f0b66a0d46935e15fe882343cc15e7f6f",
+      "en_sha256": "33a110f11192523a26ed3c6dc471eecc67260e8da5df6f6ae27a716c3d8efcf8",
+      "origin": "ai"
+    },
+    "dataList[id=29199].simpleDesc[abilityID=29199].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Poziomu Ataku; Umiejętności z 2 monetami lub mniej zyskują dodatkowo Moc Starcia",
+      "kr_sha256": "49c8f3f5f2b46fa4f16dad7a4308c1ec70acf771f148cbbf25a8db22cb13e066",
+      "en_sha256": "9586eed3003da789bb710afff099d8dd97837bacc90d7709b3868a9017a63972",
+      "origin": "ai"
+    },
+    "dataList[id=29202].desc": {
+      "pl": "— opis] Przy wygranej Starciu podstawową Umiejętnością ataku Uderzenia nakłada na cel 2 Spadku Poziomu Obrony na następną turę (1 raz na turę na Tożsamość; nie kumuluje się na tym samym wrogu).\n- Tożsamości Stowarzyszenia Dieci: efekt stosuje się również do podstawowych Umiejętności ataku Cięcia i Kłucia oraz nakłada dodatkowo 1 Spadek Poziomu Obrony\n\nJeżeli Tożsamość Stowarzyszenia Dieci odrzuciła własną Umiejętność Umiejętnością Odrzucenia, na początku następnej tury zyskuje Wzrost Poziomu Ataku równy (Ranga odrzuconej Umiejętności<style=\"upgradeHighlight\">+2</style>) (liczone wg najwyższej rangi; maks. <style=\"upgradeHighlight\">5</style>).",
+      "kr_sha256": "2aeae65fcf641e559e96a7adc5304aefd64ffae20f10a16ce461d9008cd35e16",
+      "en_sha256": "5012fb7b2cc1d377f5acef70f707260cdcbb62bb959291e0bb05754e4b65659e",
+      "origin": "ai"
+    },
+    "dataList[id=29202].name": {
+      "pl": "— nazwa] Kieszonkowe Fiszki++",
+      "kr_sha256": "c993eb4b20721023519745a8ae2d310378889776ee603ea904c3a3f13f1649fd",
+      "en_sha256": "bc837db9cacf4ed0b18512e69ba06ca2e7a8d3d3cf97a77df500a7e127b2d282",
+      "origin": "ai"
+    },
+    "dataList[id=29202].simpleDesc[abilityID=292021].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku równy Rangi odrzuconej Umiejętności",
+      "kr_sha256": "e881d23a758804e6ab317d8590718ca4f3b571d16a6550b0cb6eb8c4e300c848",
+      "en_sha256": "d28f6cc5578ebe33d5f416f78abbf23dfe1791fae1d752cd049c0da85cb9b539",
+      "origin": "ai"
+    },
+    "dataList[id=29202].simpleDesc[abilityID=29202].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Spadek Poziomu Obrony na następną turę",
+      "kr_sha256": "867d87ecc32ba788668014d4e80df7f48a82951ce33e5c900884d0f605b85093",
+      "en_sha256": "8f1458300cdad3735ba22d062bc727aabf64a303e16323e2bee7dc1383e7c0d4",
       "origin": "ai"
     },
     "dataList[id=9001].desc": {
@@ -7654,6 +7750,174 @@
       "pl": "— opis skrócony] Nakłada Spętanie; Tożsamości Stowarzyszenia Cinq dodatkowo zyskują Pośpiech",
       "kr_sha256": "09c40c73993ce888c82509d8cad8e2d0c3fa27dd06c6398ad9f643a590b4f295",
       "en_sha256": "e98a4e329d39431c04a4855ac540073edaa0a0514f70d461174ee67e74674c83",
+      "origin": "ai"
+    },
+    "dataList[id=9199].desc": {
+      "pl": "— opis] Umiejętność 2 typu Kłucia zyskuje Poziom Ataku +2; przy 2 monetach lub mniej efekt jest wzmocniony: Poziom Ataku +2 i Moc Starcia +(2/liczba monet).\n- Tożsamości Sojuszu Wyzwolenia Technologii: efekt zmienia się i stosuje do wszystkich podstawowych Umiejętności ataku typu Kłucia\n\nNa początku tury Tożsamości Sojuszu Wyzwolenia Technologii zyskują [AttackUp] w liczbie równej liczbie posiadanych ujemnych efektów (maks. 3).",
+      "kr_sha256": "aea1cdf22184a1b2912f1003f7b2b6187a1f57afa637dfcc6720d77da6a1d855",
+      "en_sha256": "43d2c1a39b1363cd57196a494deed3d48f2bba23c62f803f4dee8759a5d76800",
+      "origin": "ai"
+    },
+    "dataList[id=9199].name": {
+      "pl": "— nazwa] Podarte Rękawy",
+      "kr_sha256": "40f4b70245ac3f1a8227988b62ad34de92b6d97a2c333249deae54140363ecf9",
+      "en_sha256": "74bb2032399ae148e8532515f8a6ea7837f4673b9bbb6adf3d86cd36a8e1334a",
+      "origin": "ai"
+    },
+    "dataList[id=9199].simpleDesc[abilityID=91991].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9199].simpleDesc[abilityID=9199].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Poziomu Ataku; Umiejętności z 2 monetami lub mniej zyskują dodatkowo Moc Starcia",
+      "kr_sha256": "49c8f3f5f2b46fa4f16dad7a4308c1ec70acf771f148cbbf25a8db22cb13e066",
+      "en_sha256": "9586eed3003da789bb710afff099d8dd97837bacc90d7709b3868a9017a63972",
+      "origin": "ai"
+    },
+    "dataList[id=9200].desc": {
+      "pl": "— opis] Moc Starcia podstawowych Umiejętności ataku Kłucia +2. Na początku walki zyskuje [AttackUp] w liczbie równej liczbie Tożsamości używających podstawowych Umiejętności ataku Kłucia w tej turze (maks. 3).\n\nSojusznicy, których wszystkie podstawowe Umiejętności ataku są typu Kłucia, zyskują na początku tury 2 [PenetrateDamageUp] (z pominięciem Umiejętności wzmocnionych lub wymagających specjalnych warunków).\n\nMoc Umiejętności Uniku +2. Za każde 2 udane Uniki sojuszniczej Tożsamości w tej turze zyskuje ona 1 [AttackDmgUp] na następną turę (maks. 3).\n\nTożsamości Stowarzyszenia Cinq zyskują na początku tury 1 [PenetrateResultUp] i 2 [PenetrateDamageUp]. Przy trafieniu podstawową Umiejętnością wroga posiadającego Wyzwanie na Pojedynek, Punkt Witalny lub Atak Skupiony nałożone przez tę Tożsamość, jeżeli zadano obrażenia, zyskuje ona 2 [PenetrateDamageUp] i 1 [Agility] na następną turę (1 raz na turę na Tożsamość).",
+      "kr_sha256": "06a1f60043047f52ab01b763253a8a4892bfd3c0758dc3f899ad3238d51a1c90",
+      "en_sha256": "b52559ea956088e8106af1850508b2b079c1828a1858b7882b7688ab35ffe9ac",
+      "origin": "ai"
+    },
+    "dataList[id=9200].name": {
+      "pl": "— nazwa] Podręcznik Pojedynków Tom 3",
+      "kr_sha256": "4618ed87907d6f559c17c978bd4ca7c0b6a3671791ab402f38788e58125918bf",
+      "en_sha256": "5c99730574c5e648111268223523d10b551013714dfa8ead1659a5e60722035c",
+      "origin": "ai"
+    },
+    "dataList[id=9200].simpleDesc[abilityID=92001].simpleDesc": {
+      "pl": "Wzrost Obrażeń Przebicia",
+      "kr_sha256": "3c292c59b4433ee591094d6414e032bb4b22ae4888c02f2cb024468a9314ec7f",
+      "en_sha256": "469beea6434250756063bafebcc024ee58a9eb413ab2bb09c846b12ea12a6ea7",
+      "origin": "ai"
+    },
+    "dataList[id=9200].simpleDesc[abilityID=92002].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Mocy Umiejętności Uniku. Za każde 3 udane Uniki Wzrost Obrażeń Kłucia",
+      "kr_sha256": "6c5319851897e8c0001272b4e1cab085ae0b7feab9b1b26e6e004a5dc1898709",
+      "en_sha256": "8a6ff201f73586757726559159a7b0e7324641893a52053db980311e8bada8e9",
+      "origin": "ai"
+    },
+    "dataList[id=9200].simpleDesc[abilityID=92003].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Mocy Kłucia i Wzrost Obrażeń Kłucia",
+      "kr_sha256": "5d0e600efceba8b94990fd97c4db1a1fb30cb4dedf020ad0af00b0e455d45d0e",
+      "en_sha256": "a4c4587ae709465e9d79dd187b01183b47f4a938d224574accde5d49ad47c655",
+      "origin": "ai"
+    },
+    "dataList[id=9200].simpleDesc[abilityID=9200].simpleDesc": {
+      "pl": "Wzrost Mocy Starcia",
+      "kr_sha256": "e7b660580984f8796373ad58bb8883cb65d6cf9b51f7eaf3ed5ca1555db7e13d",
+      "en_sha256": "d8b83de6fd4c15a31918f3d1771a03d84034105be5f6b6884d836fea302a7430",
+      "origin": "ai"
+    },
+    "dataList[id=9201].desc": {
+      "pl": "— opis] [Efekt wyłącznie dla Tożsamości na Przydziale #3]\n\nUmiejętności Uderzenia zyskują Poziom Ataku równy liczbie posiadanych podstawowych Umiejętności ataku Uderzenia (te same Umiejętności liczone raz; maks. 3).\n\nGdy przy ataku na wroga Umiejętnością odrzucono inną Umiejętność [Discard], zadaje +(10+Ranga odrzuconej Umiejętności x 5)% obrażeń Uderzenia (liczone wg najwyższej rangi; maks. 25%).",
+      "kr_sha256": "77030cbbcc29b495c73514092efbefff5a37e9f8a13a7f6b58880511eff70bcc",
+      "en_sha256": "dfd6c3d835ca9f36c00acba05cf79128f4ed4f21051d14a7c4fe860a2b50b228",
+      "origin": "ai"
+    },
+    "dataList[id=9201].name": {
+      "pl": "— nazwa] Wymiarowy Kosz Segregacyjny",
+      "kr_sha256": "36e2addcbeb50913e2d5141bd78f4a8c67815ae2f30ec3e3d8c7b55ae2c5ca37",
+      "en_sha256": "cd2af1e7554343bc13e22bbf62d714e7d0e0201cee97a4b88b3bc7682f4ecbed",
+      "origin": "ai"
+    },
+    "dataList[id=9201].simpleDesc[abilityID=92011].simpleDesc": {
+      "pl": "Wzrost Obrażeń Uderzenia",
+      "kr_sha256": "c89b35a16378039f34e350419f73e51f5ce9dab0c1a42a1be746c84383580cae",
+      "en_sha256": "59729883c0b9235866fd5210fa0705d211a336891ad549e63ca52f18f52c7bd7",
+      "origin": "ai"
+    },
+    "dataList[id=9201].simpleDesc[abilityID=9201].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Poziomu Ataku Umiejętności Uderzenia",
+      "kr_sha256": "a4e5e5fa92e1506f171d3f7b1f0b45a12c718c5da0c80c4dad8c1deb80fe8a15",
+      "en_sha256": "a942f1d0b753028e39e0a2058ced2ea20dd81d65f7106d47d97e5122c9f8932f",
+      "origin": "ai"
+    },
+    "dataList[id=9202].desc": {
+      "pl": "— opis] Przy wygranej Starciu podstawową Umiejętnością ataku Uderzenia nakłada na cel 2 Spadku Poziomu Obrony na następną turę (1 raz na turę na Tożsamość; nie kumuluje się na tym samym wrogu).\n- Tożsamości Stowarzyszenia Dieci: efekt stosuje się również do podstawowych Umiejętności ataku Cięcia i Kłucia oraz nakłada dodatkowo 1 Spadek Poziomu Obrony\n\nJeżeli Tożsamość Stowarzyszenia Dieci odrzuciła własną Umiejętność Umiejętnością Odrzucenia, na początku następnej tury zyskuje Wzrost Poziomu Ataku równy Rangi odrzuconej Umiejętności (liczone wg najwyższej rangi; maks. 3).",
+      "kr_sha256": "261895539a61ee45bed288675b9c8bc7232361f08340ba5728f8d647d4b2922e",
+      "en_sha256": "863b33880f2210395a65dfcec0cc5fe36abc9aada7a1b166c80f8afdfd70ccdc",
+      "origin": "ai"
+    },
+    "dataList[id=9202].name": {
+      "pl": "— nazwa] Kieszonkowe Fiszki",
+      "kr_sha256": "de739a37142ed103db42c9ce4c84488b40f24fef1409e41395ef50827e6d23f0",
+      "en_sha256": "0ce40eb3f6df61d236b7adc65ddb93c9a598bd9f6c05b61da024cf1f9411bcd1",
+      "origin": "ai"
+    },
+    "dataList[id=9202].simpleDesc[abilityID=92021].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku równy Rangi odrzuconej Umiejętności",
+      "kr_sha256": "e881d23a758804e6ab317d8590718ca4f3b571d16a6550b0cb6eb8c4e300c848",
+      "en_sha256": "d28f6cc5578ebe33d5f416f78abbf23dfe1791fae1d752cd049c0da85cb9b539",
+      "origin": "ai"
+    },
+    "dataList[id=9202].simpleDesc[abilityID=9202].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Spadek Poziomu Obrony na następną turę",
+      "kr_sha256": "867d87ecc32ba788668014d4e80df7f48a82951ce33e5c900884d0f605b85093",
+      "en_sha256": "8f1458300cdad3735ba22d062bc727aabf64a303e16323e2bee7dc1383e7c0d4",
+      "origin": "ai"
+    },
+    "dataList[id=9203].desc": {
+      "pl": "— opis] Umiejętności 1 i 2 typu Uderzenia: Poziom Ataku +(liczba monet-1) (maks. 2)\n- Umiejętności z efektem Odrzucenia: zamiast tego Poziom Ataku +(liczba monet) (maks. 4)\n\nGdy jednostka odrzuci własną Umiejętność Umiejętnością Odrzucenia, na początku następnej tury zyskuje 1 Wzrost Obrażeń i Wzrost Poziomu Ataku równy Rangi odrzuconej Umiejętności (1 raz na turę na Tożsamość; liczone wg najwyższej rangi; maks. 3).\n- Jeżeli odrzucono Umiejętność typu Uderzenia, dodatkowo zyskuje 1 Wzrost Obrażeń Uderzenia",
+      "kr_sha256": "ebba24e84b5bc6294ee6ee2c26fc88fc5ca0d148058cea6432b3fc6f1f1c8210",
+      "en_sha256": "0d494940a343b8a4c17345bd544cab01fed5dfb3f99c94d530af6e7defebdbec",
+      "origin": "ai"
+    },
+    "dataList[id=9203].name": {
+      "pl": "— nazwa] Wymiarowy Modyfikator Percepcji",
+      "kr_sha256": "796e5319b85d89ed6deb9febc8238755c45ab0319768db3134d6667aea2fea91",
+      "en_sha256": "db05cd9b93dbd7f6c8bd46e6fd6c40702922a354c76e8fce38ab559813d2785c",
+      "origin": "ai"
+    },
+    "dataList[id=9203].simpleDesc[abilityID=92031].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Obrażeń i Poziomu Ataku. Jeżeli odrzucono Umiejętność Uderzenia, dodatkowo Wzrost Obrażeń Uderzenia",
+      "kr_sha256": "45fc92aed33625f54015dfc4080d0daf1ddc12a8dade2bcfb2240fb2dd1c61cb",
+      "en_sha256": "fe30642afcaccc6a86355cffb177e6656db7b2ab5c29fefe4c57417fb36aab1c",
+      "origin": "ai"
+    },
+    "dataList[id=9203].simpleDesc[abilityID=9203].simpleDesc": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "c81a6f5dd960f96547a32a93f447818b319837a534e35bdbb1f64b92d93f35b3",
+      "en_sha256": "2391b626d924ed298ada1369257c77bf3f568eeb1d10e61a8196d98d5a51df86",
+      "origin": "ai"
+    },
+    "dataList[id=9204].desc": {
+      "pl": "— opis] Umiejętności podstawowe ataku Uderzenia zyskują Moc Starcia +2. Na początku walki zyskuje [AttackUp] w liczbie równej liczbie Tożsamości używających Umiejętności podstawowych ataku Uderzenia w tej turze (maks. 3).\n\nSojusznicy, których wszystkie Umiejętności podstawowe ataku są typu Uderzenia, zyskują na początku tury 2 [HitDamageUp] (z pominięciem Umiejętności wzmocnionych lub wymagających specjalnych warunków).\n\nPrzy użyciu Umiejętności Kontry (z pominięciem Wzmocnionej Kontry) zyskuje Tarczę równą 7.5% Maks. HP i zadaje +20% obrażeń. Przy otrzymaniu obrażeń podczas używania Umiejętności Kontry nie ulega Oszołomieniu (1 raz na walkę na Tożsamość).\n\nTożsamości frakcji Środkowego zyskują na początku tury 1 [HitResultUp] i 2 [Endurance]. Przy użyciu Umiejętności Kontry przez Tożsamości frakcji Środkowego powyższy efekt wzmocnienia Kontry uruchamia się 2 razy na walkę, a obrażenia Kontry są wzmocnione do +40%.",
+      "kr_sha256": "d75de4dd536836ae10ca29013d0c7d1e7c18b2128ce99637f8851bf9afc7902a",
+      "en_sha256": "af353270a129319b7b3e5562e83fa05918c41d76f3de0bc09e34169919105a84",
+      "origin": "ai"
+    },
+    "dataList[id=9204].name": {
+      "pl": "Księga Zemsty",
+      "kr_sha256": "e7992abe5dcb6f1972ff5ef5c3a809bb80f5be5e9e445fd0130077ab10de9fd3",
+      "en_sha256": "3bc6ced95ec279399009a374664f756f043eaade1d64d5215463c8121d7717f8",
+      "origin": "ai"
+    },
+    "dataList[id=9204].simpleDesc[abilityID=92041].simpleDesc": {
+      "pl": "Wzrost Obrażeń Uderzenia",
+      "kr_sha256": "c89b35a16378039f34e350419f73e51f5ce9dab0c1a42a1be746c84383580cae",
+      "en_sha256": "cc1b6d6849161d270033b4b4efb5dee208c013a59e11b767e2cdc9d3a65e35d8",
+      "origin": "ai"
+    },
+    "dataList[id=9204].simpleDesc[abilityID=92042#2].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Mocy Uderzenia, Wzrost Mocy Obrony, Wzrost Obrażeń Kontry",
+      "kr_sha256": "3ad46a6dfed1000ef66def12bb1f1c27ddbff5c2bd815a894ca8768095e7bfa5",
+      "en_sha256": "82126c5728f4556d5d39906f9174414e005fc29ac5a1d8656f3aaccbbf0f9b28",
+      "origin": "ai"
+    },
+    "dataList[id=9204].simpleDesc[abilityID=92042].simpleDesc": {
+      "pl": "— opis skrócony] Nie ulega Oszołomieniu od obrażeń przy użyciu Umiejętności Kontry",
+      "kr_sha256": "416439eae9ba908d37101613d171f217abc7eb926641713364adf7407574e0bf",
+      "en_sha256": "901638951b0d2536f8c0e77a6374f963432453c902ebc02b01502b9b94086f30",
+      "origin": "ai"
+    },
+    "dataList[id=9204].simpleDesc[abilityID=9204].simpleDesc": {
+      "pl": "— opis skrócony] Wzrost Mocy Starcia i Poziomu Ataku",
+      "kr_sha256": "ae3b80b4d0561df4f85dacf6c0fc3c3c977296484bd1e9df0cff5fe0a87baeaf",
+      "en_sha256": "33a110f11192523a26ed3c6dc471eecc67260e8da5df6f6ae27a716c3d8efcf8",
       "origin": "ai"
     },
     "dataList[id=9991].desc": {
