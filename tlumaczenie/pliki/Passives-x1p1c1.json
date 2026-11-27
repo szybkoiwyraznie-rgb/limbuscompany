@@ -215,6 +215,30 @@
       "kr_sha256": "ce6cb7e9757fce56c98d5d84d732b5a7be76ec555782c21867599f2c023be4f5",
       "en_sha256": "663bb5acfc35005a936e9f33e26dbc83a02c8a71266ba335c6d09fc05700fdc4",
       "origin": "ai"
+    },
+    "dataList[id=40003401].desc": {
+      "pl": "Jeżeli w tej turze ginie sojusznik, zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "169f79b25026eae00bfacb5c0198a56df2002e80b7e4fa74aad718e475c0d826",
+      "en_sha256": "b0748cf9c69e045c7ce95f4bcc99ee6ed66755de6ea42047620df84785ee1c12",
+      "origin": "ai"
+    },
+    "dataList[id=40003401].name": {
+      "pl": "Stawchnesh",
+      "kr_sha256": "04a64299a2f5ce5214aa4b0c0afce8818ac7153a159c518c4b7f59de6e70f0a9",
+      "en_sha256": "62f6cf1fdc0c20f5c4b05d69096f680a9af310be3fcf7d7513766a8ffd78bca2",
+      "origin": "ai"
+    },
+    "dataList[id=40003402].desc": {
+      "pl": "1 Sojusznik z najniższą Poczytalnością: zyskuje 1 Wzrost Mocy Ataku w turze po śmierci innego sojusznika",
+      "kr_sha256": "0c4329ab12bd3e9aaeecd66433cc1d4fc51a774547f6642a24ffb37ac8c59903",
+      "en_sha256": "6e437c1f5fefc6c657efd7a0b5e45b59cc9a18a96dcbf3e64f364a9ae659c857",
+      "origin": "ai"
+    },
+    "dataList[id=40003402].name": {
+      "pl": "— nazwa] Uraza",
+      "kr_sha256": "5a95e34aa6df0fd55aa0611b8c913bbdb255474260f29bf78633c2fceff920c5",
+      "en_sha256": "9345dfa468277cd71538e7ee2a58bb88bb266a44f6fd626bfe6aafadef8798f1",
+      "origin": "ai"
     }
   }
 }

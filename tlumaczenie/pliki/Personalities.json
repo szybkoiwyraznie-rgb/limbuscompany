@@ -3528,6 +3528,414 @@
       "en_sha256": "5096a5bcd7489f60561a3173c1a88208891d745fa0c2be8fc00a5091e9698472",
       "origin": "ai"
     },
+    "dataList[id=11001].desc": {
+      "pl": "Pierwsza Tożsamość Sinclair",
+      "kr_sha256": "2079c1c560a890ef37389fb22fd6e9b91f3174d89c85bf7a1a7348a33792c899",
+      "en_sha256": "a270cabd4722554cd28b97f14e91ccb8ebf466390ad490b4b3622aa11d4c3b65",
+      "origin": "ai"
+    },
+    "dataList[id=11001].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11001].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11001].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=11002].desc": {
+      "pl": "Druga Tożsamość Sinclair",
+      "kr_sha256": "81712132671692c36b796efd0ab939bcec2f06a264ac4bcb607320f7bd0dbc4f",
+      "en_sha256": "1bc2ca5310d4173b025cad2aa818eda67fabb6e47f4d31b432babb83bf2f679f",
+      "origin": "ai"
+    },
+    "dataList[id=11002].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11002].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11002].title": {
+      "pl": "Ród Ostrza\nSalsu",
+      "kr_sha256": "08d1b99aab5ceff62d7a7df030487119c93faf8ba0d57a036d529425173020ce",
+      "en_sha256": "565a7e6db7bcdf742809293e2fae609e19c45992cfbc13e601d4eac8cda78007",
+      "origin": "ai"
+    },
+    "dataList[id=11003].desc": {
+      "pl": "Trzecia Tożsamość Sinclair",
+      "kr_sha256": "7237881665879e8a76009895640c1b63fdaf1fc43055345e10236fb1c6c7f3b4",
+      "en_sha256": "6b9da2bb9a1a8967a81d3a5273637dcd19309de9a5d9358434ce60d2d27e3083",
+      "origin": "ai"
+    },
+    "dataList[id=11003].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11003].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11003].title": {
+      "pl": "Południowe Stowarzyszenie Zwei\nSekcja 6",
+      "kr_sha256": "4ead955774559ae50e64bb01ddd4577da7b6ff5a7971008fbe3558b6b95338c8",
+      "en_sha256": "119243401682038cea374af36c10a4b15da79fd8e39053d0bb4b054fdebc5b49",
+      "origin": "ai"
+    },
+    "dataList[id=11004].desc": {
+      "pl": "Czwarta Tożsamość Sinclair",
+      "kr_sha256": "4877ba3a7b560a68d1f858e583a5dfce8d8860a7421cf7740ab6e0c23c5fa8db",
+      "en_sha256": "3861b8274d29fb2d3e0a81dcdae3b0413ef231ac285c2d628d47b89718cf60ed",
+      "origin": "ai"
+    },
+    "dataList[id=11004].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11004].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11004].title": {
+      "pl": "Los Mariachis\nJefe",
+      "kr_sha256": "1a782e15141dc5a5ae7802d7e224bfd1ffe6da3e3b7710161f4b05946f410704",
+      "en_sha256": "6864f6d2aed3644e2c0b221bd2b7bd61e48652d51edd0bc96a9d3f954125b5fb",
+      "origin": "ai"
+    },
+    "dataList[id=11005].desc": {
+      "pl": "Piąta Tożsamość Sinclair",
+      "kr_sha256": "f5c6d47dd9f8f40494df9d468cf4056fdaad2a8d965b989b5e07784dd45fd03f",
+      "en_sha256": "939f8826e5c8b0f723c67f0a04b537f729b434ea98d7c1e59d3983fc2442f3e2",
+      "origin": "ai"
+    },
+    "dataList[id=11005].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11005].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11005].title": {
+      "pl": "Ten, Który Zaciska Uścisk",
+      "kr_sha256": "3066e3754315873f1d52a7f33f501ba633b2fc9dadfb1db217a12ed30c6ed323",
+      "en_sha256": "4ee3e222e5f1bcddc2954fa32393b68b3865adc1de2754e0ffbfce6021a70a43",
+      "origin": "ai"
+    },
+    "dataList[id=11006].desc": {
+      "pl": "Szósta Tożsamość Sinclair",
+      "kr_sha256": "daa77628f3f6e098a1dcd0086c97b8312ba7224e974233451e1537b684242218",
+      "en_sha256": "ac4322e7f45bea565b36b261b17b6b319ae035b5952d8e2afa2ca6f7b94bbee1",
+      "origin": "ai"
+    },
+    "dataList[id=11006].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11006].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11006].title": {
+      "pl": "Lobotomy E.G.O::\nCzerwony Arkusz",
+      "kr_sha256": "1014f9b7529471130ffafb44ef7581660beb33a9a55f349539203f90366b019d",
+      "en_sha256": "dfd28bf229601a5c8c9b400471f4a9816f02fea3160c4603aa5d24157cbd7aeb",
+      "origin": "ai"
+    },
+    "dataList[id=11007].desc": {
+      "pl": "Siódma Tożsamość Sinclair",
+      "kr_sha256": "900efad06e93c102e1f716b4952c85b8dc656c87f6f04e24978cc65439857204",
+      "en_sha256": "abfb3918909775be51bcb80bccfe85fb96cf828eb6e7586f04eca77721255f4f",
+      "origin": "ai"
+    },
+    "dataList[id=11007].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11007].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11007].title": {
+      "pl": "Centrum Łodzi Trzonowca\nFikser",
+      "kr_sha256": "b37dbc956d14972b34216965a508d18f03e14063f6635a90980a40fb7d5d8036",
+      "en_sha256": "08a82f348b037c8db233e544aa4bdd21144ccdffe057d538c02fcfb8e3e2323c",
+      "origin": "ai"
+    },
+    "dataList[id=11008].desc": {
+      "pl": "Ósma Tożsamość Sinclair",
+      "kr_sha256": "dde1eb5642b5c173b43d5d41d5ad7d8004c87cae551b77bce56e97199e872d66",
+      "en_sha256": "55a1f91b2140f84e7caa52248dbb2897ce0d92c6df9bdbdc744c2895edcf5812",
+      "origin": "ai"
+    },
+    "dataList[id=11008].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11008].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11008].title": {
+      "pl": "Południowe Stowarzyszenie Cinq\nSekcja 4 Dyrektor",
+      "kr_sha256": "23d38b44da1ad4505061e46eca637d562d7f7f53023b40fe3a9dee9436f1bcf6",
+      "en_sha256": "0ee4fcf9a788f8c876c7891ac98dd2a8eeda1121a6e47006781ae512dfe55e92",
+      "origin": "ai"
+    },
+    "dataList[id=11009].desc": {
+      "pl": "Dziewiąta Tożsamość Sinclair",
+      "kr_sha256": "85582871037584628867edd370dbe0dd896927c747d1b69dfefc293e39a336f4",
+      "en_sha256": "81b99e7359ba6ed107b27b4fd57b338e65a94c79dc2ab547395453ad06f40c8b",
+      "origin": "ai"
+    },
+    "dataList[id=11009].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11009].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11009].title": {
+      "pl": "Biuro Świtu\nFikser",
+      "kr_sha256": "a96597729a24c3741c1f7c78c2c369c1a56551a8baa3aa9f6ae4ab5bf5b554b3",
+      "en_sha256": "eda6e8167c0a7d428a0c4173d42767a0f1c3a86707e094d2c587a096e83bf4ee",
+      "origin": "ai"
+    },
+    "dataList[id=11010].desc": {
+      "pl": "Dziesiąta Tożsamość Sinclair",
+      "kr_sha256": "3e2d43699a51099926cc6dea3720b86bc4e915483e7a0829049cb63af1aec42c",
+      "en_sha256": "1e992d4893bde1ba452fa03f04dae35ef742682ada06ad25e9629d4daa4aaf9d",
+      "origin": "ai"
+    },
+    "dataList[id=11010].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11010].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11010].title": {
+      "pl": "Zachodnie Stowarzyszenie Zwei\nSekcja 3",
+      "kr_sha256": "9d4d71d38460da9a7c8ae710a9e3f51780eb1eb21786d2397a9728837845d95d",
+      "en_sha256": "5dcdadc88d11803163be3154ba42ff6051816d01f3fafd3c07632d07e8a25182",
+      "origin": "ai"
+    },
+    "dataList[id=11011].desc": {
+      "pl": "Jedenasta Tożsamość Sinclair",
+      "kr_sha256": "107d5083e5320b8a3c09ebd85d04a92223bb2ebdda5e241dd98c11873c28db80",
+      "en_sha256": "a2b14889b3d46c9102726c968e2dd47a415fdd0ced4abd311617dd9acbb1fc4a",
+      "origin": "ai"
+    },
+    "dataList[id=11011].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11011].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11011].title": {
+      "pl": "Północne Stowarzyszenie Devyat'\nSekcja 3",
+      "kr_sha256": "80a82b6245f4bfafa98a6d229d9c80cd1f5979e53d7d4dd149b44797e92aebf1",
+      "en_sha256": "3d8bb37886c95b934252f9faecf9f2e2c39b55224794f1a9d8a301b9044f2f3f",
+      "origin": "ai"
+    },
+    "dataList[id=11012].desc": {
+      "pl": "Dwunasta Tożsamość Sinclair",
+      "kr_sha256": "ec1309560ea244ace745a05de8f07d8e8f14171c52cb8b424fc66772fc7cb237",
+      "en_sha256": "9ed0cc8eaf9523a5bf747bf9fad986bb3206810fd70a5df547c395b495aef3d4",
+      "origin": "ai"
+    },
+    "dataList[id=11012].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11012].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11012].title": {
+      "pl": "Środkowego\nMłodsza Siostra",
+      "kr_sha256": "c854e0390c031e4227b409a31984fe3243606b99d7251e6a8036a6d2ddda5de3",
+      "en_sha256": "264c3dca7ef51d02939017f5542ad9f74e774a88e5e7846da7396fcd085537e5",
+      "origin": "ai"
+    },
+    "dataList[id=11013].desc": {
+      "pl": "Trzynasta Tożsamość Sinclair",
+      "kr_sha256": "b304feec99a004a5009580996187ba2a578b157014e2595412c9ce400e910389",
+      "en_sha256": "950374952dc2d6f33b2c6d27594560aad32cc2a41820fbc38376d0f6ee297468",
+      "origin": "ai"
+    },
+    "dataList[id=11013].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11013].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11013].title": {
+      "pl": "Kciuk\nWschodni Soldato II",
+      "kr_sha256": "8b16e26c6ad5f08016723b87af79061ea4b2dc81a871fb5a9164d143e909ae3b",
+      "en_sha256": "bcd0c4ec516ce3b1e55354d626a448b5328b74f1aebe2c976c44822a4b628afe",
+      "origin": "ai"
+    },
+    "dataList[id=11014].desc": {
+      "pl": "Czternasta Tożsamość Sinclair",
+      "kr_sha256": "6e891905154138d57ef4946cf1c78bb599d4c25b7600df70547eb8fa0cb3c9bd",
+      "en_sha256": "ae6d7fbb5363a97cb6a5b86d056eed554166193f90bc1373aa71045f834dfe55",
+      "origin": "ai"
+    },
+    "dataList[id=11014].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11014].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11014].title": {
+      "pl": "Wataha Heishou - Gałąź You",
+      "kr_sha256": "2582a5d94e16337fae679bddb937703df62cbab8dd9550bc600ccde142522db5",
+      "en_sha256": "3df3175355af88b762aad4c3effa0284a21492381d42ecd8914580e7526d4478",
+      "origin": "ai"
+    },
+    "dataList[id=11015].desc": {
+      "pl": "Piętnasta Tożsamość Sinclair",
+      "kr_sha256": "b7af3bd46a3b67ca48c3065d0e4ff3f10905eb06c7ba7e8354fdecc04795c8bf",
+      "en_sha256": "058329a0e6948cb4b74659a7a341ef08ec33f82519e0124e7f5145470416f3f7",
+      "origin": "ai"
+    },
+    "dataList[id=11015].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11015].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11015].title": {
+      "pl": "Dom Pajęczyn:\nUczeń Małego Palca",
+      "kr_sha256": "b22d20e5ddc96021eccce11d02af8a42ac48abc9b02de0fb74565451e4e05d6f",
+      "en_sha256": "c66e40e87b56f4db21b4b759a857e46485a701fdc2cb50ed9636aedfa96806c8",
+      "origin": "ai"
+    },
+    "dataList[id=11016].desc": {
+      "pl": "Szesnasta Tożsamość Sinclair",
+      "kr_sha256": "159c84787a03e6e79b2721e8b4290c73de0ac10dd4da8f38c63663a42cb06a4a",
+      "en_sha256": "9d9ef8d62420f7721296fdb0734d2bfc9267f44cd7d3c12612a23ddbf19b0644",
+      "origin": "ai"
+    },
+    "dataList[id=11016].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11016].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11016].title": {
+      "pl": "Haute Couture::\nSzkarłatny Bóg Le Rouge",
+      "kr_sha256": "c27ec3cb3223badcc9f202c0f456058b0b7f9d9fd2a65475a6d744900bdfb29d",
+      "en_sha256": "0069e98b10c43018ee19e149bf51386f00f9b2b686dce5b13d5b5a840fc8c9cc",
+      "origin": "ai"
+    },
+    "dataList[id=11017].desc": {
+      "pl": "Siedemnasta Tożsamość Sinclair",
+      "kr_sha256": "68fbe69ebae5d9f1beda3c525e9b9226342bcc37a78eeb7195d10bffc80ddf70",
+      "en_sha256": "1128f39b1d2bdb9b8271b159e55ec157b0a04e7c71e67d87da621535c1b5bb1a",
+      "origin": "ai"
+    },
+    "dataList[id=11017].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11017].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=11017].title": {
+      "pl": "Biuro Klin\nFikser",
+      "kr_sha256": "b5c5b60602f7b48cb949665fb713887302850a54f9b869cce087eeb861b1ee55",
+      "en_sha256": "8f379211924faa03a8dfd73ba076641f802f1c0d14575bb584d9c847828804e1",
+      "origin": "ai"
+    },
     "dataList[id=40501].desc": {
       "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
       "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",

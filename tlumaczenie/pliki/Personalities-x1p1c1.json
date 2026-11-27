@@ -215,6 +215,30 @@
       "kr_sha256": "93f4e6488570d9ac0100376ba007299eba329d6e809538322d99e40c66c79bf6",
       "en_sha256": "69c0d4d20a97eec459e33080764a7b7db6f1db74d559abadf13cd500f6d7b55c",
       "origin": "ai"
+    },
+    "dataList[id=400034].desc": {
+      "pl": "??? Tożsamość Sinclair",
+      "kr_sha256": "72972423f19a6c2032026510e0f8064645761cbf78e91fbe31fc819f9371bc89",
+      "en_sha256": "031d57321ea409bbfa241faf795bb229a7f75962e0cb8cf1883b2dcd06d87f57",
+      "origin": "ai"
+    },
+    "dataList[id=400034].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=400034].nameWithTitle": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=400034].title": {
+      "pl": "Grzeszniczek Grupy Pisklaków",
+      "kr_sha256": "8aa3a9f088559490dcd685ffd1188898bb195abba947e8884c8433c30839e8ec",
+      "en_sha256": "6a20637f9ec4476e811322908569e7b74dc31775298aeb44f6a34c7f664e09d5",
+      "origin": "ai"
     }
   }
 }
