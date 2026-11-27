@@ -119,6 +119,30 @@
       "kr_sha256": "e3657a075177d461893d35d06fe876179735b267e168f787cf6378a13885c7ab",
       "en_sha256": "fb0d85ae47540b3f1c31fe0bd0aafb403d28fe05cdd2acc456a191f159975b9e",
       "origin": "ai"
+    },
+    "dataList[id=40003001].desc": {
+      "pl": "Odzyskuje w następnej turze 6 Poczytalności.",
+      "kr_sha256": "086eee7b32ce22fec0c2b7f3597d7596dcb8a260c034f89d392a5b5294bdef84",
+      "en_sha256": "6bde34bf839598f31573d4178e2671a0903aee13a9fa85b951587a113f2c29b2",
+      "origin": "ai"
+    },
+    "dataList[id=40003001].name": {
+      "pl": "— nazwa] Rozrywka",
+      "kr_sha256": "131d05775b38c5c48ae1e6df44437961bb94cac6e7b8f1ea9aebf83cae5dcabd",
+      "en_sha256": "48ac21f41e560dc850c840cdbb5a28c1ef5acb7356720631125585d8906093ae",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].desc": {
+      "pl": "Na początku walki 1 Sojusznik z najniższą Poczytalnością odzyskuje 6 Poczytalności.",
+      "kr_sha256": "96e8ddf14944abb58c9cc07e98c9fb66b46fae3b196be11c5a91ac24618a6792",
+      "en_sha256": "0e87ec92563b7020e7733530784bab4f5313fbf02756895acd762190283f104a",
+      "origin": "ai"
+    },
+    "dataList[id=40003002].name": {
+      "pl": "— nazwa] Bezsensowne Żarciki",
+      "kr_sha256": "935c302500db0969763ce8953fa0db17694ff63d9a2f357ec7b2de9bb29c3732",
+      "en_sha256": "6b851172df887b109e831992c30150fb296151be93665d0703d734f3e28e65bc",
+      "origin": "ai"
     }
   }
 }
