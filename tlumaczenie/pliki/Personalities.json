@@ -3120,6 +3120,414 @@
       "en_sha256": "371ee5ad011a3aaf7701e427378a7f7025efab741c70cf6168f35985ddfdbcc8",
       "origin": "ai"
     },
+    "dataList[id=10901].desc": {
+      "pl": "Pierwsza Tożsamość Rodion",
+      "kr_sha256": "99f8bf233ea9bbd7e6f7ffe2cee3558a7a57a2406857d3bbe9ae77f273b323fb",
+      "en_sha256": "ca15db3a033aa4bc8b8eccf3ac5393facf425401e230f1a3d2e3a9da88ffe310",
+      "origin": "ai"
+    },
+    "dataList[id=10901].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10901].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10901].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10902].desc": {
+      "pl": "Druga Tożsamość Rodion",
+      "kr_sha256": "a1120936de329bf6240e77c8e223730bef45f950d81cfe389648cc672e03f2d5",
+      "en_sha256": "4a6bdccfe6fa2b0442a2495fa7a6cbb9446fd75949dff079397054108793ea89",
+      "origin": "ai"
+    },
+    "dataList[id=10902].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10902].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10902].title": {
+      "pl": "Klan Kurokumo\nWakashu",
+      "kr_sha256": "924e1ef14fac36e716b24ba8c162336a175c780b9dc52368d8b09538feb58506",
+      "en_sha256": "476c6c1cf1971c3e4319f6cec8dbed8f80616c9e1b2fe4a5fb7d9ec69c3c80c8",
+      "origin": "ai"
+    },
+    "dataList[id=10903].desc": {
+      "pl": "Trzecia Tożsamość Rodion",
+      "kr_sha256": "c97d7f936e8bc208c2a83319009ab48d3aa0cd662a3b20ade66dc2c971fc58e5",
+      "en_sha256": "b060eba0ce0fba3670b607663e5375c90885a9110bae71817c19a7c8f92a6ad4",
+      "origin": "ai"
+    },
+    "dataList[id=10903].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10903].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10903].title": {
+      "pl": "LCCB\nZastępca Kierownika",
+      "kr_sha256": "ccbdcc5c033787890ceed474cc97c66d121ddb3601d9510bcb7e93547b6bf454",
+      "en_sha256": "57b357d35ae6b16d1cbdf6b3311cda682da7c1560d8ebfd2294a69ea6603d7de",
+      "origin": "ai"
+    },
+    "dataList[id=10904].desc": {
+      "pl": "Czwarta Tożsamość Rodion",
+      "kr_sha256": "bf95824c2d23a502e205063ac76c1feb5b5d56ecaa0df77132c30cbf2bd51da0",
+      "en_sha256": "935c049efc1091e700b5884a67938c17b75ebcdb2ce934c130673838336e3263",
+      "origin": "ai"
+    },
+    "dataList[id=10904].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10904].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10904].title": {
+      "pl": "Korporacja N\nMittelhammer",
+      "kr_sha256": "35b2a7d8329d6126470b7eb727f1399b67eb691e757e63fdad89021c17573e22",
+      "en_sha256": "bab100d3b733026762e58236f14f3091a862c2b073862190824eb6b542b93c75",
+      "origin": "ai"
+    },
+    "dataList[id=10905].desc": {
+      "pl": "Piąta Tożsamość Rodion",
+      "kr_sha256": "e5a4da7221935defffff0cd8e88d489726c5b8e4552e322ca957dc5274f29bf9",
+      "en_sha256": "2a5d6d08a75156f201a479272f8877eab9887d5af1ef88bf6dbda7fd9c3fd67d",
+      "origin": "ai"
+    },
+    "dataList[id=10905].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10905].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10905].title": {
+      "pl": "Warsztat Różanego Klucza\nRep",
+      "kr_sha256": "70579726bf9842f74f6983ea390da41c0f64b6ab81de7733cc37612bd21413c7",
+      "en_sha256": "71b4b62d3c4a73673d03e328968e7a8f7b61b3632f203e24247ee004e23f8312",
+      "origin": "ai"
+    },
+    "dataList[id=10906].desc": {
+      "pl": "Szósta Tożsamość Rodion",
+      "kr_sha256": "602912db56b547605b6691d7ca954de0916adeeaf735b5cb3ce707ae594906d3",
+      "en_sha256": "ea065edc915d8fa1025de15d25c4f64a840c40924e3e975cbd89f0326d79bb65",
+      "origin": "ai"
+    },
+    "dataList[id=10906].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10906].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10906].title": {
+      "pl": "Południowe Stowarzyszenie Zwei\nSekcja 5",
+      "kr_sha256": "4a838f12cd87c972f2da564582960d34b3e6a86662126bea097f5c4f014d9b5e",
+      "en_sha256": "be6efe55522524f927a3f7b4d123aeca15d37192d85ee3d2b1e9a7c93db0882c",
+      "origin": "ai"
+    },
+    "dataList[id=10907].desc": {
+      "pl": "Siódma Tożsamość Rodion",
+      "kr_sha256": "d0fb3348fd467649096076fe44b6727c99895421ac707fb1511c9587222b2950",
+      "en_sha256": "cad59569c9bcf616276a16600730fd5135a6e14dfed8841e976eeee18d1846f5",
+      "origin": "ai"
+    },
+    "dataList[id=10907].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10907].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10907].title": {
+      "pl": "Południowe Stowarzyszenie Dieci\nSekcja 4",
+      "kr_sha256": "834addd604e11f1e76c8a2dfd9a257200049bab5b2168dc7c57322dcb9e79699",
+      "en_sha256": "ca040aea0df862458bebc20b7106a52bb035dd2d3a8eae421d6f50461121c87d",
+      "origin": "ai"
+    },
+    "dataList[id=10908].desc": {
+      "pl": "Ósma Tożsamość Rodion",
+      "kr_sha256": "61b3986ceccde0d861c75b1bf47aa7d237260490c0615c7298b58220d7a44549",
+      "en_sha256": "3f9c559ba82201180cdfa8014be2972aa6f69a76357d4fb93f519e0c3e88972d",
+      "origin": "ai"
+    },
+    "dataList[id=10908].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10908].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10908].title": {
+      "pl": "Południowe Stowarzyszenie Liu\nSekcja 4 Dyrektor",
+      "kr_sha256": "04747c3607e35b6e629740530cab5bb328980028b0ecc9db68d05272e4291335",
+      "en_sha256": "2e3e201b5492ac44f17e309db545f0c496b1fa31c2dae9fde5d09e0d904e998c",
+      "origin": "ai"
+    },
+    "dataList[id=10909].desc": {
+      "pl": "Dziewiąta Tożsamość Rodion",
+      "kr_sha256": "dfe9a56b3aba10f2181947048e0313c8f2f52923880f6b1be5bf2809ba94b3de",
+      "en_sha256": "a9e86011aca311ff7754cf4750ad06809b809b54a08250367ea4cb6f83b39aea",
+      "origin": "ai"
+    },
+    "dataList[id=10909].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10909].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10909].title": {
+      "pl": "T Corp. Klasa 2\nPersonel Zbierania",
+      "kr_sha256": "09068d871a3152808faeb94a3ee0bacaf98a6dfdb665de3581fe6b9648019aa0",
+      "en_sha256": "d775519d4c02d71ca61496292c23dd9c5333d1e217be4d0a54a9fbdb92a570b0",
+      "origin": "ai"
+    },
+    "dataList[id=10910].desc": {
+      "pl": "Dziesiąta Tożsamość Rodion",
+      "kr_sha256": "b5b3f53998d6fd7505322e844c2124aa53beddf78cda7bf6cf863888c1313ced",
+      "en_sha256": "d7201081e5424f11bdf5b0c4b465e10a8f4aee0fe6380348ef0953c529ed8f32",
+      "origin": "ai"
+    },
+    "dataList[id=10910].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10910].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10910].title": {
+      "pl": "Północne Stowarzyszenie Devyat'\nSekcja 3",
+      "kr_sha256": "80a82b6245f4bfafa98a6d229d9c80cd1f5979e53d7d4dd149b44797e92aebf1",
+      "en_sha256": "3d8bb37886c95b934252f9faecf9f2e2c39b55224794f1a9d8a301b9044f2f3f",
+      "origin": "ai"
+    },
+    "dataList[id=10911].desc": {
+      "pl": "Jedenasta Tożsamość Rodion",
+      "kr_sha256": "25076928a727f503e688d451e70bedfdca112831898803ddf4776917e42f9c90",
+      "en_sha256": "8d6e18b91027429fea1ba6a4406638f3941d6fed0fa98b642b870fdf0e2bcf93",
+      "origin": "ai"
+    },
+    "dataList[id=10911].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10911].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10911].title": {
+      "pl": "La Manchaland\nKsiężniczka",
+      "kr_sha256": "6159152b5de9ffee32393990bc7a6f581976cba5b04c7b3a7d7ed4943a87a3e9",
+      "en_sha256": "8b6cfc8e6e48f8e301870735eca24f4dfb27f4b2f3e1ff5a056b14bee724c542",
+      "origin": "ai"
+    },
+    "dataList[id=10912].desc": {
+      "pl": "Dwunasta Tożsamość Rodion",
+      "kr_sha256": "ae7a4f26a14876a709d19b276f94f72554a88441e598cfe0fbbfdbb87639117c",
+      "en_sha256": "5f325f426f55fbebfbcb3e115ab471d71fcd4cd731a8c91f9045e71371b4b557",
+      "origin": "ai"
+    },
+    "dataList[id=10912].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10912].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10912].title": {
+      "pl": "Wataha Heishou - Gałąź Si",
+      "kr_sha256": "538a629d14b9150b504d932ecd4e7c923d329d89becd8342e7291f28faa1cf33",
+      "en_sha256": "b254fd115fbfd14892aa1165f82308ab6296ee38e1f8e5a9ec35e06b0c97e947",
+      "origin": "ai"
+    },
+    "dataList[id=10913].desc": {
+      "pl": "Trzynasta Tożsamość Rodion",
+      "kr_sha256": "88b9ff2d3b1f70dc36ef7814d39db4d55eabd45bab3f01f98d0c46a9bdc10034",
+      "en_sha256": "5864d18117c0a2a0efb0f90505daa62d3d251cc50a21c2af1beebe3f106c81df",
+      "origin": "ai"
+    },
+    "dataList[id=10913].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10913].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10913].title": {
+      "pl": "Lobotomy E.G.O::\nMiecz Zaostrzony\nŁzami",
+      "kr_sha256": "7b6688f302011db0ef9719ad1b18c3480271471f1b06dc78100451f0f03b906f",
+      "en_sha256": "0d98a4f9f0bfaefb8c15826b4ae4149375ae57e20f9187421a4df953143e6c73",
+      "origin": "ai"
+    },
+    "dataList[id=10914].desc": {
+      "pl": "Czternasta Tożsamość Rodion",
+      "kr_sha256": "7d17bbb91dcaeb840bd697f4e295e73b04d22080537f972fed25642624ba947c",
+      "en_sha256": "9c8a76c41e5f5b9abc89aa21716edf39bc68f3527858aedb71d7ace59dc52e80",
+      "origin": "ai"
+    },
+    "dataList[id=10914].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10914].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10914].title": {
+      "pl": "R Corp. 4 Pack\nZespół Reniferów",
+      "kr_sha256": "98150772ab1799f2d2d2168ac16e941e288221cca9965f43dc257adf5835b1f9",
+      "en_sha256": "8341860ba0654580ad0b1cd3298ccbee96d7c061a1278e2d4352daa1421f4a76",
+      "origin": "ai"
+    },
+    "dataList[id=10915].desc": {
+      "pl": "Piętnasta Tożsamość Rodion",
+      "kr_sha256": "8a5a462a54f4e0f65990305e3d2ea86b939538329fd5294c64b6e7d62456994f",
+      "en_sha256": "8417941e0116345ebb781fe212b46f6eaaa28a39aa7fa8a775b2871e2699380a",
+      "origin": "ai"
+    },
+    "dataList[id=10915].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10915].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10915].title": {
+      "pl": "Dom Ringu Fowizmu\nDocent",
+      "kr_sha256": "21f3a7e556a39655d11332f3ba3cd973094276a63d00ddb3933c702a711e7f82",
+      "en_sha256": "c7509cdedada4cc6e8416ce1068f38abdd8d47278d891843dff8ee09aaa85224",
+      "origin": "ai"
+    },
+    "dataList[id=10916].desc": {
+      "pl": "Szesnasta Tożsamość Rodion",
+      "kr_sha256": "e310f67c8b906a5fa27907a011a1064842aa298cb82705863f80d2d7d82b713d",
+      "en_sha256": "9a31b9365b8ffb1f57b2517b1a7d6eb2d64fbb868752156c3ef5dab5f52ce315",
+      "origin": "ai"
+    },
+    "dataList[id=10916].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10916].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10916].title": {
+      "pl": "Dom Pajęczyn:\nAbi Kciuka",
+      "kr_sha256": "ac1048f0d3e7fba11acbb416dfec329bab65a9525facd454027262c1a8498fa1",
+      "en_sha256": "3a6dec1eed4a8d9dd057500d3165232def1ca59ab7dc9e8b1fe8acbbfe9cbd10",
+      "origin": "ai"
+    },
+    "dataList[id=10917].desc": {
+      "pl": "Siedemnasta Tożsamość Rodion",
+      "kr_sha256": "abf308a9553d1a4eca57b5c01f8ccd68fc3357407fd7b1ea42223b7f1af96367",
+      "en_sha256": "823c4b0062f49f8e87598f360b8b3c6a86fe08f0d9e6e853e882b5e01308424a",
+      "origin": "ai"
+    },
+    "dataList[id=10917].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10917].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=10917].title": {
+      "pl": "Haute Couture::\nPracownia Przeróbek",
+      "kr_sha256": "f8024c99100322415570d47b3d50bf4ce9b421cfd58cc204567f32ad9b1d06ca",
+      "en_sha256": "5096a5bcd7489f60561a3173c1a88208891d745fa0c2be8fc00a5091e9698472",
+      "origin": "ai"
+    },
     "dataList[id=40501].desc": {
       "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
       "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",

@@ -47,6 +47,12 @@
       "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
       "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
       "origin": "ai"
+    },
+    "dataList[id=9].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
     }
   }
 }

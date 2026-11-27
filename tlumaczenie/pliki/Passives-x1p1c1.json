@@ -191,6 +191,30 @@
       "kr_sha256": "baf817cf17d96d919ef24ed247c2ce65809f4f3c6f2e73270c2e8332a9ddadb1",
       "en_sha256": "fef8512e265698aee0fc04d0c165fb48a0de47b1c3cceba5491ef0af1a1fe082",
       "origin": "ai"
+    },
+    "dataList[id=40003301].desc": {
+      "pl": "Przy trafieniu 50% szansy na nałożenie 1 Krwawienia.",
+      "kr_sha256": "e9510060120a97daf7e11642428d31fba8727b5add0a87f6928bc7eea4a42aa8",
+      "en_sha256": "c4313baaebc32d54c14d9fe7de061e7774eca582435452392939bc636a25cf87",
+      "origin": "ai"
+    },
+    "dataList[id=40003301].name": {
+      "pl": "— nazwa] Rozłupanie Zła",
+      "kr_sha256": "d7b416d7fd2769877afdbcbbccdf18a73bd085395dcfa4471739e061b8c0a107",
+      "en_sha256": "2f273f7abc91518dad673e9b8fa4c22ffc6a6fb4a639c97da445af0c56894530",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].desc": {
+      "pl": "1 Sojusznik z najwyższym HP zadaje +20% obrażeń monetami awersu.",
+      "kr_sha256": "e859a4cb93202a36ddaef88b1cb3f95373a89ad26f935d48792785ae6793a302",
+      "en_sha256": "31ebd8e2654726f5ab33334371e2d0166b7fa329f8b3736a45ff06fe7687014f",
+      "origin": "ai"
+    },
+    "dataList[id=40003302].name": {
+      "pl": "— nazwa] Hazardzistka",
+      "kr_sha256": "ce6cb7e9757fce56c98d5d84d732b5a7be76ec555782c21867599f2c023be4f5",
+      "en_sha256": "663bb5acfc35005a936e9f33e26dbc83a02c8a71266ba335c6d09fc05700fdc4",
+      "origin": "ai"
     }
   }
 }

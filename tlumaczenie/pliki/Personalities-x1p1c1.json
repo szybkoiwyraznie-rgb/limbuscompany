@@ -191,6 +191,30 @@
       "kr_sha256": "8aa3a9f088559490dcd685ffd1188898bb195abba947e8884c8433c30839e8ec",
       "en_sha256": "6a20637f9ec4476e811322908569e7b74dc31775298aeb44f6a34c7f664e09d5",
       "origin": "ai"
+    },
+    "dataList[id=400033].desc": {
+      "pl": "??? Tożsamość Rodion",
+      "kr_sha256": "6d31f78f2fba4177faf703477a14037124b71e91ab6598a951f73817a7dae3d7",
+      "en_sha256": "d1d33ab8470bb93e7fa4d3b6ffc938193ea79b2753ee914dd3756d2caa22922c",
+      "origin": "ai"
+    },
+    "dataList[id=400033].name": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=400033].nameWithTitle": {
+      "pl": "Rodion",
+      "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
+      "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
+      "origin": "ai"
+    },
+    "dataList[id=400033].title": {
+      "pl": "Grzesznik Grupy Penglów",
+      "kr_sha256": "93f4e6488570d9ac0100376ba007299eba329d6e809538322d99e40c66c79bf6",
+      "en_sha256": "69c0d4d20a97eec459e33080764a7b7db6f1db74d559abadf13cd500f6d7b55c",
+      "origin": "ai"
     }
   }
 }
