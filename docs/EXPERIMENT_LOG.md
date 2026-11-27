@@ -675,3 +675,50 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
   dataList[id=<한글>].description`); `tlumaczenie/MANIFEST.json`:
   `human_addresses` `7 147` → **`7 159`**, `translated_addresses`
   `58 750` → **`58 762`**.
+
+### E-020 · 2026-11-27 · Czwarta seria Czytanek „plik META" (`tools/build_meta.py` → `czytanki/plik_META_PL`) i paczka produkcyjna v4 (`LCB_PL_Polski_26917622_v4.zip`)
+
+- **Zakres serii (prośba właściciela: elementy spoza trzech dotychczasowych
+  grup):** (1) teksty tutoriali bojowych z misji — `TutorialRenewalDesc`
+  (`198` tekstów) pogrupowane po etapach (`Etap 0-1 · Pantera, Lew i Wilk` …
+  `Etap 2-12`; dekodowanie `tuto_<CH>_<ST>_*` → węzeł `StageNode`
+  `10000+CH·100+ST`, `stage_label`) plus fragment `TutorialRenewalMainUIDesc`
+  (`tuto_10108` = Etap 1-8); (2) Notatki Dantego — `100` haseł
+  (`StoryTheaterDanteNote*`) i `177` pełnych wpisów „Zapiski"
+  (`StoryTheaterDanteNoteDetail*`; `44` PL, `133` w oryginale EN — wpisane bez
+  przekładu, jak konwencja fabuły); (3) splashe pobierania patcha
+  (`FileDownloadDesc`, `9` ekranów Miasto/Gniazda/Skrzydła/…); (4) akta
+  Grzeszników #1–#12 (`IntroduceCharacter` + imiona z `Characters`) z
+  tłumaczeń E-019. Dodatkowo w pliku 01: poradniki poza misjami
+  (`tuto_exp_mining`, `tuto_lobby_at_start`, `tuto_mirror_dungeon`,
+  `tuto_personality_ego_info`), wskazówki w walce (`BattleHint*`, `46`) i
+  pop-upy tutoriali (`TutorialPopUpDesc`). Poza zakresem (odnotowane w spisie):
+  `TutorialMainUIText` (1 474 tekstów interfejsu), `TutorialMirrorDungeon`
+  (575), starsze `TutorialDesc*` (167) — poprzednia wersja tutoriali,
+  nadpisana przez zestawy Renewal.
+- **Narzędzia:** `tools/build_meta.py` (5 plików + spis z tabelą liczbową
+  `| ---: |`, wyrównanie `align_markdown_tables`, nagłówki etapów z `StageNode`
+  i `stage_label`, źródła w nagłówkach; PL/EN etykiety) oraz
+  `tests/test_build_meta.py` (`7` testów na syntetycznym snapshocie:
+  grupowanie po misjach, łączenie `10108` z etapem 1-8, usuwanie markupu
+  `<color>`, twarde łamania linii, pary title/desc, kolejność Grzeszników,
+  puste źródła → brak pliku). Testy: **76/76**.
+- **Seria PL:** `5` plików (`00_spis` + 4 grupy, `450` wpisów razem:
+  `252` misje/hints/pop-upy, `277` Notatki, `9` splashe, `12` akta).
+  Przebudowane serie istniejące: `plik_ID_PL` (12 plików — akta Grzeszników
+  po polsku zamiast fallbacku EN, po E-019), `fabula_PL`/`plik_EGO_PL`
+  bez zmian.
+- **Paczka produkcyjna (`dist/LCB_PL_Polski_26917622_v4.zip`):**
+  `7 581 096` B, SHA-256
+  `b770b5058a8f07d02aa596070e9599fc92ea376cf4e5fe74edffaf373b43d508` —
+  `2 422` plików JSON (`1 211` zmodyfikowanych), **`66 024 / 193 309` =
+  `34,16%`** przetłumaczonych liści (v3: 32,32%) — Tłumacz
+  (LC_PL1+LC_PL2+LC_PL3) + AI (P01–P68), `0` znaczników diagnostycznych.
+- **Dostawa na Dysk Google (folder kanału):** paczka
+  `LCB_PL_Polski_26917622_v4.zip` (`1oAwOD_r6cKf-GjXx7Fh5mbdbgUqPPABr`,
+  `7 581 096` B) oraz Czytanki `LCB_Czytanki_PL_2026-11-27_v2.zip`
+  (`1-6eX0Uy6U_tGT4C8vHAknZyRjshifjaC`, `2 205 379` B, `65` plików MD;
+  SHA-256 `463a0a4740d2db86aa3240d73fc99f22f81795999acb15b3e8e781cc03daae10`).
+  Poprzednie wersje przeniesione do kosza: paczka v3
+  (`1C8LtGyPaKaJ_BdK5bJ7CkAGZWDmrJtGt`) i Czytanki z E-018
+  (`1Fz9csdM4jhg1TAOIUNastxaP_yKAqrdh`).
