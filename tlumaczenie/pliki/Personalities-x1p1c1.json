@@ -23,6 +23,30 @@
       "kr_sha256": "80cb82cf4bda207deb5d099ec6bfcecaedc9ec566212f5241fb03010b324acf6",
       "en_sha256": "f2514a7af6884d376c3ecd1fef498f9ebe0da3ceeccc7479115af3545135424d",
       "origin": "ai"
+    },
+    "dataList[id=400026].desc": {
+      "pl": "Tożsamość ??? Faust",
+      "kr_sha256": "ae8689bd5d8ad040d7f4bf349ab45ffc7bcb9fb00a3b8724c652bf30617c8660",
+      "en_sha256": "95056319a6dec5653fe35181be64b225fd5e1382e0269aeb0dc682bccdeac310",
+      "origin": "ai"
+    },
+    "dataList[id=400026].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=400026].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=400026].title": {
+      "pl": "Kapitan Grupy Słoników",
+      "kr_sha256": "83eea7a79271ddb296a6f1b995b2cc31a194ecd2acfd2d0fd0f680804cb3ac6f",
+      "en_sha256": "608b52bccf15d800bcecffbb3df313f3a03f044bb8ce733beb3de6398f370384",
+      "origin": "ai"
     }
   }
 }

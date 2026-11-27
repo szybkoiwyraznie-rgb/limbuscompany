@@ -23,6 +23,30 @@
       "kr_sha256": "24a6f662c494184893eadd6949eaf249472ee2d53acf9c5241ac77e325fe4510",
       "en_sha256": "4398ff28e1a146fb9777912119abb7cf7e5c79447b19bb1abab7b6310c7a382f",
       "origin": "ai"
+    },
+    "dataList[id=40002601].desc": {
+      "pl": "Zadaje +10% obrażeń celom z negatywnymi efektami",
+      "kr_sha256": "901e6875863e1eeb72a6ecfab8acfd6cc56a29879fc2a1ae722293f2b2502917",
+      "en_sha256": "2ff0c382f1109ab3a602146ece63d11acb23be8e5388485b5d1e460babd5ea84",
+      "origin": "ai"
+    },
+    "dataList[id=40002601].name": {
+      "pl": "Anawytic Ewe",
+      "kr_sha256": "44a233ecb566c917b16d2e472ff9f838c225d3eda7a55c155ffafbbf01d895e4",
+      "en_sha256": "4e091c2389efd54ac38670a79b3a8fc08dc463a2b626b0f49784bfbca610b022",
+      "origin": "ai"
+    },
+    "dataList[id=40002602].desc": {
+      "pl": "1 Sojusznik z najwyższym Maks. HP: przy trafieniu atakiem z 25% szansą nakłada 2 Spadku Poziomu Ataku",
+      "kr_sha256": "3a9c01febd88451ab99bc9d4b6f94543cf41f15ccfa8361e61fee9f48b06830e",
+      "en_sha256": "b6138b602040aa81f821ed0388c9677e7064d114401d4a59e96694d72c230173",
+      "origin": "ai"
+    },
+    "dataList[id=40002602].name": {
+      "pl": "Keen Obsewashun",
+      "kr_sha256": "320ff44acb0611d3d7819437b029e1b3ee52141f85789b71da431ddf0cc29713",
+      "en_sha256": "1105798465c74d4d82ebfd97dcbca7802dc89c8f17ba577e91c406e7b4553069",
+      "origin": "ai"
     }
   }
 }

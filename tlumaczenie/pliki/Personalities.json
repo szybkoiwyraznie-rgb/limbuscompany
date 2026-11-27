@@ -407,6 +407,390 @@
       "kr_sha256": "5edbcde81704980cc101cd6e677010bf06bd5885457a1483ad5a6a36f56b9a63",
       "en_sha256": "dd1413cae0ca4465c56c600767058380035b5a1d2964ed99e16b0ee0e4987c64",
       "origin": "ai"
+    },
+    "dataList[id=10201].desc": {
+      "pl": "Pierwsza Tożsamość Faust",
+      "kr_sha256": "c88d6ea1052a903284996e2794045c15585b4608acb7b70f55519ab8dff6ab00",
+      "en_sha256": "ea0932d7016c477348feab9f41d79d1d76c129a94fff882efbcff7b229b75b39",
+      "origin": "ai"
+    },
+    "dataList[id=10201].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10201].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10201].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10202].desc": {
+      "pl": "Druga Tożsamość Faust",
+      "kr_sha256": "7b8bb96e72d6f51e55cef85831a6eb46343111b485125be1efa1269d4dd811dd",
+      "en_sha256": "413f95e0f40292227be2a50ef6997bcbd3779e975af7f32b6747cfc17ada8887",
+      "origin": "ai"
+    },
+    "dataList[id=10202].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10202].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10202].title": {
+      "pl": "W Corp. L2\nAgentka Oczyszczania",
+      "kr_sha256": "9e2971fe561e01493b1b73bd02a678d19778a15ee89f98289cda1c42042cddee",
+      "en_sha256": "8d8e43b8ef3f462c4db23cd5ba630c84ce445c6e493b4dd46f814b5d720cdc2e",
+      "origin": "ai"
+    },
+    "dataList[id=10203].desc": {
+      "pl": "Trzecia Tożsamość Faust",
+      "kr_sha256": "b6f616b2e6f62f53b336c31018c598901c93ab93521b577424eb7a1d4eacfec8",
+      "en_sha256": "a8c1dc7075dc4c845c9d66143ef7c2dc2b807b349c1bd5bd5eafa16326a8ceae",
+      "origin": "ai"
+    },
+    "dataList[id=10203].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10203].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10203].title": {
+      "pl": "Ocalała pracownica Lobotomy Corporation",
+      "kr_sha256": "6240ffe51cf6f8cc35c0388eb23a5c3e0b0db6ed814bf8845c13820aa774cfb2",
+      "en_sha256": "80fb9e1f9879eff673c12f53acbd39ebbd4bb3c6b1bca3444b11c84fcdaea35e",
+      "origin": "ai"
+    },
+    "dataList[id=10204].desc": {
+      "pl": "Czwarta Tożsamość Faust",
+      "kr_sha256": "06b10d8f06cdd77bbc22d2bdfb97fdbc412f2fe82c46731c3293c63eff8a9167",
+      "en_sha256": "22f29129774973cd4e8e4e391069b3e9fb5c24a2430e44d00ca3177471769a17",
+      "origin": "ai"
+    },
+    "dataList[id=10204].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10204].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10204].title": {
+      "pl": "Ta, Która Ściska",
+      "kr_sha256": "0c6277c8641f607db8aa69957c06046424631c69cd2de46cc6b11478656e3730",
+      "en_sha256": "4012d9e14b5f5288c8b2b4931e2573b340de262fb0624767584c7e47f6d8ebdb",
+      "origin": "ai"
+    },
+    "dataList[id=10205].desc": {
+      "pl": "Piąta Tożsamość Faust",
+      "kr_sha256": "c95cc53d654623ad04452976893a8de0e4fbeba4653d1a33ef78b03cafbed136",
+      "en_sha256": "10819dc8b2751ae023252b7387dc749e870f3e3ff89eaba5e37a59f5125586b3",
+      "origin": "ai"
+    },
+    "dataList[id=10205].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10205].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10205].title": {
+      "pl": "Południowe Stowarzyszenie Zwei\nSekcja 4",
+      "kr_sha256": "bcb6e6015a8c5d91151c4f6b64d7aa8216f556757ccda574b7adef733913bf9e",
+      "en_sha256": "8be23922f00e5abb09df67ea898b5365e2b756da536d305bd7b5980f3117c0fe",
+      "origin": "ai"
+    },
+    "dataList[id=10206].desc": {
+      "pl": "Szósta Tożsamość Faust",
+      "kr_sha256": "5ca895618ae8197b52864471633fddbb5c11fa03c000014e9faa2aab2481c612",
+      "en_sha256": "274f01c7872d95ba8c34de0f919df3cb27474ca00bab747b6bbb2fd31d68202d",
+      "origin": "ai"
+    },
+    "dataList[id=10206].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10206].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10206].title": {
+      "pl": "Południowe Stowarzyszenie Seven\nSekcja 4",
+      "kr_sha256": "fe8152184ff5561871105e740f4a362e898c427b2d4a98eb81ef671315e93879",
+      "en_sha256": "bcc9aa4ed429d42ce309d4c17e22a0ef737c424ff210e98c95c8587294896b0a",
+      "origin": "ai"
+    },
+    "dataList[id=10207].desc": {
+      "pl": "Siódma Tożsamość Faust",
+      "kr_sha256": "9560d4d3434ef4b0c2fe6db3d8e916060a0483f7814e076982e45d4fc3df51c4",
+      "en_sha256": "7a35f1ac885425644bed72cfa2a4f67f3b3a62d2a3fbbb7e58d9606c9807def5",
+      "origin": "ai"
+    },
+    "dataList[id=10207].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10207].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10207].title": {
+      "pl": "Lobotomy E.G.O::\nSkrucha",
+      "kr_sha256": "df5d17b02e1ee4496b3948ebdf495b9aab62548f2b250ddc6c35d00706d6b81a",
+      "en_sha256": "1a1b04da0f9e1f8cd28b0b1c39319eced7498d0724765bd6f249c39e66fd3310",
+      "origin": "ai"
+    },
+    "dataList[id=10208].desc": {
+      "pl": "Ósma Tożsamość Faust",
+      "kr_sha256": "9d4f24649d71897f309c0c57b8f0074eb452548f0fc075e3f6bfc3d39947c26b",
+      "en_sha256": "8081e4899c4b400007a76f8a71a511cd421b4ee9c1fc170d4ec62b2ed8825a63",
+      "origin": "ai"
+    },
+    "dataList[id=10208].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10208].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10208].title": {
+      "pl": "Ród Ostrza\nSalsu",
+      "kr_sha256": "08d1b99aab5ceff62d7a7df030487119c93faf8ba0d57a036d529425173020ce",
+      "en_sha256": "565a7e6db7bcdf742809293e2fae609e19c45992cfbc13e601d4eac8cda78007",
+      "origin": "ai"
+    },
+    "dataList[id=10209].desc": {
+      "pl": "Dziewiąta Tożsamość Faust",
+      "kr_sha256": "13232df0fecfb6ccc24e823073ca679622116654192c14feff0c3095b2756bce",
+      "en_sha256": "297e2946284bd6ac732de402aa6d5713f32395e88d1ccb4ba0bdb62bacfaec74",
+      "origin": "ai"
+    },
+    "dataList[id=10209].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10209].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10209].title": {
+      "pl": "Wichrowe Wzgórza\nKamerdyner",
+      "kr_sha256": "196fdbd40046116b62dc2154a0c28cdc9801bd8c36caa6e39095b791a1a4d33c",
+      "en_sha256": "5ac0ea629e4f7ebc28774b51a952e6ea5902efaf1026804cf7e9ff814768cfad",
+      "origin": "ai"
+    },
+    "dataList[id=10210].desc": {
+      "pl": "Dziesiąta Tożsamość Faust",
+      "kr_sha256": "5037df0e3b58dff80dc695e4a24c864c948d8d2d9e1777f468bc122d31bc0e09",
+      "en_sha256": "9db046ec72e7cc067e4b24e653a8b65464ad441147a19174c5bcd45379f55620",
+      "origin": "ai"
+    },
+    "dataList[id=10210].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10210].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10210].title": {
+      "pl": "Biuro MultiCrack\nSzefowa",
+      "kr_sha256": "6e64ca972805e08541d208dc7a2716977ef7725bd9b4e48d7be7c0e3ef278df5",
+      "en_sha256": "0f7eb74686abae78eaabbd24b25e7b95adaada635e98bdaf6bc9f4c398157ec5",
+      "origin": "ai"
+    },
+    "dataList[id=10211].desc": {
+      "pl": "Jedenasta Tożsamość Faust",
+      "kr_sha256": "27771ed23eaecccc4b3fec245a478601cf4f134e67688d721339915e0c4347ce",
+      "en_sha256": "c6fc0889b296cb0cfbad21672ac978cb1071da0762bd954f1cd8eb54ccf52556",
+      "origin": "ai"
+    },
+    "dataList[id=10211].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10211].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10211].title": {
+      "pl": "LCE E.G.O::\nGwiazda Żarzącego Kwiatu",
+      "kr_sha256": "7f07b2cbefcb76be97c082ce78acfafece706f732bbe68774b14151aaf85bcc7",
+      "en_sha256": "a2e1efea3d8e618d445daab2ae9fb9d6c57b3a8d6a17136086d00e001ec7f05e",
+      "origin": "ai"
+    },
+    "dataList[id=10212].desc": {
+      "pl": "Dwunasta Tożsamość Faust",
+      "kr_sha256": "23f482ba50dcab8568997f775b379340795ffc9cd1f5fcb547457654e3855c33",
+      "en_sha256": "ebee0f646d5de9cf3f5a64472a42326ac00ffe01746136c412143f0cae383be5",
+      "origin": "ai"
+    },
+    "dataList[id=10212].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10212].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10212].title": {
+      "pl": "Wataha Heishou -\nGałąź Mao, Adept",
+      "kr_sha256": "9fba997801f51001b916ce1e9196d665c432e017843100b6398cd696f5d1f148",
+      "en_sha256": "b49d4a99174dd5f650f2e150b9f4cfff977a2026137639f03b311533b9834585",
+      "origin": "ai"
+    },
+    "dataList[id=10213].desc": {
+      "pl": "Trzynasta Tożsamość Faust",
+      "kr_sha256": "6008448762842c748fbad4c4bbce5c83401f2c3379105ecced16dc4c0ef7ea91",
+      "en_sha256": "508c1bffbd8dff6c59c6762d8cf56d8cd0aa8ae25224d42b67f88bdfb4ea5419",
+      "origin": "ai"
+    },
+    "dataList[id=10213].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10213].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10213].title": {
+      "pl": "Wschodnie Stowarzyszenie Shi\nSekcja 3",
+      "kr_sha256": "9ce0240671814992802a23be9162a1315b7cda50e79618647d2b294bc2abfbae",
+      "en_sha256": "443e62abf161bc9ab4746777dc9bf81218449ffd03dee6fccd15aca2b15a62ef",
+      "origin": "ai"
+    },
+    "dataList[id=10214].desc": {
+      "pl": "Czternasta Tożsamość Faust",
+      "kr_sha256": "07826b94eee652fa376a73fab7ebe8d2e32e1f1fa5c912d34ce5e9bc904903c4",
+      "en_sha256": "4ebfd671d7c72f4573b0e7b430f9e9c28c7c2849ed1fd50285ba5f5b728be33b",
+      "origin": "ai"
+    },
+    "dataList[id=10214].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10214].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10214].title": {
+      "pl": "Akolitka Wskazującego:\n【Karteczka】",
+      "kr_sha256": "bf8397229ebfebac4c51d0ec78440131cb014b4e365af677d7ad28a36f169918",
+      "en_sha256": "42b64a583cbdf213e60043148ee2fd864bae03a5fcb85518e5006e8e0201b48d",
+      "origin": "ai"
+    },
+    "dataList[id=10215].desc": {
+      "pl": "Piętnasta Tożsamość Faust",
+      "kr_sha256": "b9ee825552ff898d615bddce92d80b8cef30aec66d1bd9f937361a7e4a848b46",
+      "en_sha256": "c3b5d935cea5d35f35003e6ef1edf8a022bee1884135ac6d9b97acce31d8d6f7",
+      "origin": "ai"
+    },
+    "dataList[id=10215].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10215].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10215].title": {
+      "pl": "Dom Pajęczyn:\nUczeń Serdecznego",
+      "kr_sha256": "d630b0f4b5eb2cbc17eae0ed90ef7b77890ce76b8fe829f35384b18237cc0947",
+      "en_sha256": "83599b600cf933eb965f1be0215ac28c09abe30c63a054c884361e083c03ab52",
+      "origin": "ai"
+    },
+    "dataList[id=10216].desc": {
+      "pl": "Szesnasta Tożsamość Faust",
+      "kr_sha256": "1813045251f70a7e408dfbe59ee3a41852ad6674056e04fa4a63669b96cc123f",
+      "en_sha256": "0d5e8fb1387502643b493efed30972e90a984b7dc8e0392ec63825469f62a267",
+      "origin": "ai"
+    },
+    "dataList[id=10216].name": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10216].nameWithTitle": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[id=10216].title": {
+      "pl": "Biuro Świtu\nFikser",
+      "kr_sha256": "a96597729a24c3741c1f7c78c2c369c1a56551a8baa3aa9f6ae4ab5bf5b554b3",
+      "en_sha256": "eda6e8167c0a7d428a0c4173d42767a0f1c3a86707e094d2c587a096e83bf4ee",
+      "origin": "ai"
     }
   }
 }
