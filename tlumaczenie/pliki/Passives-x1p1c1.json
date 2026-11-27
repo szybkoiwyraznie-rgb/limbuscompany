@@ -239,6 +239,30 @@
       "kr_sha256": "5a95e34aa6df0fd55aa0611b8c913bbdb255474260f29bf78633c2fceff920c5",
       "en_sha256": "9345dfa468277cd71538e7ee2a58bb88bb266a44f6fd626bfe6aafadef8798f1",
       "origin": "ai"
+    },
+    "dataList[id=40003501].desc": {
+      "pl": "Gdy Poczytalność celu jest poniżej 0, zadaje +10% obrażeń",
+      "kr_sha256": "6394bd23c6db19c77f9baca98e60005cba21f35d7f11fccbc789a6ce45509824",
+      "en_sha256": "2f81e12b5ecaa23fd8a5d0eeb779b21ff5e8faff5e0d4d68c3f576204577364a",
+      "origin": "ai"
+    },
+    "dataList[id=40003501].name": {
+      "pl": "Egzekutor",
+      "kr_sha256": "d61f42b26c0da6ccfd4c0cc7108e627944add2d42e1715ebbad7ab7828718d17",
+      "en_sha256": "a12697d208aca7ac1aca0524de7a78462bff1d5a59efcb537b51a203abaffe6f",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].desc": {
+      "pl": "1 Sojusznik z najwyższym HP zadaje +30% obrażeń wrogom z Poczytalnością poniżej 0",
+      "kr_sha256": "f83e471ea1b002c6a00a4a2d35f0638d2cefef5a10045dfafbdf11da1f0a575f",
+      "en_sha256": "147d2dd769506f148315d67fba1a38e44f4b46b0b42c6dc76e918b94dbc8d2b9",
+      "origin": "ai"
+    },
+    "dataList[id=40003502].name": {
+      "pl": "Żołnierski Duh",
+      "kr_sha256": "9afda83186bc6a239324303b15223a8ca2bc2c713b4bb352224bc3d2252c2e20",
+      "en_sha256": "5301ded41a332bee33e55bc6e9444d10c7407b53c79403d96f5648533a0ab4ca",
+      "origin": "ai"
     }
   }
 }

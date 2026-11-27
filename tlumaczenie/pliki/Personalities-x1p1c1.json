@@ -239,6 +239,30 @@
       "kr_sha256": "8aa3a9f088559490dcd685ffd1188898bb195abba947e8884c8433c30839e8ec",
       "en_sha256": "6a20637f9ec4476e811322908569e7b74dc31775298aeb44f6a34c7f664e09d5",
       "origin": "ai"
+    },
+    "dataList[id=400035].desc": {
+      "pl": "??? Tożsamość Outis",
+      "kr_sha256": "db25e21bbf5a92cb769cf5014cce3a6e990b55f8066e9164fb5eee408b797928",
+      "en_sha256": "1c282954a76a2880a5e6e18d87b346dfaabca0c489db8b32a12fb10f512d1cc4",
+      "origin": "ai"
+    },
+    "dataList[id=400035].name": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=400035].nameWithTitle": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=400035].title": {
+      "pl": "Wychowawczyni Klasy Żwawych Pingwinów",
+      "kr_sha256": "b8fc3f195233163c1367b572e49924ceb6ca5e82bf33f0a5aae0fcbca2decdc7",
+      "en_sha256": "8ec813acadeafc17df4245f73545dd37b5cf113e88d0e5d0b695ac8b2a93b129",
+      "origin": "ai"
     }
   }
 }

@@ -8957,6 +8957,642 @@
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Rozdarcia",
+      "kr_sha256": "0e2ca768f2f7825836552ee0771d13c3b3a0b4e661aa37f0ec89bf49f32fbc16",
+      "en_sha256": "8ec973b9ca2f8295ec6bc529496f3d520e3f7613b9ecb8305a585c7d095d9a74",
+      "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=1].name": {
+      "pl": "Wyjęty Ostrze",
+      "kr_sha256": "bb925f54113bd30d17486d8122cd533d18e4b55e1c5f4e652048ae1dc2464a09",
+      "en_sha256": "502bceeaf657f589da21282b648ab9b6c75078026f2a18f924c5ae2ee898d092",
+      "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=2].name": {
+      "pl": "Wyjęty Ostrze",
+      "kr_sha256": "bb925f54113bd30d17486d8122cd533d18e4b55e1c5f4e652048ae1dc2464a09",
+      "en_sha256": "502bceeaf657f589da21282b648ab9b6c75078026f2a18f924c5ae2ee898d092",
+      "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "e991136a0fb41a5a1dc6f709ecd330cf5c18f02e67a5f267afcb367968a9a5a5",
+      "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 Rozdarcia",
+      "kr_sha256": "5061289d28f944bab63abeb751e36042c2efde1af10b0f935d90e5399d4289f3",
+      "en_sha256": "99daaee53c6363421bb79cb700ec5aebb11c8400e9a42af531edd5dae13cc2ea",
+      "origin": "ai"
+    },
+    "dataList[id=1110101].levelList[level=4].name": {
+      "pl": "Wyjęty Ostrze",
+      "kr_sha256": "bb925f54113bd30d17486d8122cd533d18e4b55e1c5f4e652048ae1dc2464a09",
+      "en_sha256": "502bceeaf657f589da21282b648ab9b6c75078026f2a18f924c5ae2ee898d092",
+      "origin": "ai"
+    },
+    "dataList[id=1110102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Jeżeli Szybkość jest wyższa niż celu, zadaje +10% obrażeń",
+      "kr_sha256": "c503b57cb263e337ed97ab85e63f47082473cb44a96f850d176c7d89faeb63ff",
+      "en_sha256": "e1d1b474130d8f38a239c6f7da753dcc8215bc9da5565b920e6044ddbf469d27",
+      "origin": "ai"
+    },
+    "dataList[id=1110102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Jeżeli Szybkość jest wyższa niż celu, zadaje +10% obrażeń",
+      "kr_sha256": "c503b57cb263e337ed97ab85e63f47082473cb44a96f850d176c7d89faeb63ff",
+      "en_sha256": "e1d1b474130d8f38a239c6f7da753dcc8215bc9da5565b920e6044ddbf469d27",
+      "origin": "ai"
+    },
+    "dataList[id=1110102].levelList[level=1].name": {
+      "pl": "Cięcie od Tyłu",
+      "kr_sha256": "eaae02d4a0327df9dd66d2bc387239fdd164adec467061097a1ebffa18069c2d",
+      "en_sha256": "f144a3e6da53871b0c0ca2b3c17d31f08efa1511ddee61e88013d90e89ebb886",
+      "origin": "ai"
+    },
+    "dataList[id=1110102].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Jeżeli Szybkość jest wyższa niż celu, zadaje +20% obrażeń",
+      "kr_sha256": "29409f333678cde8ff6e04c5b57e33111f0d99bc1763f6048e2f25aebd7bd603",
+      "en_sha256": "3ebd77d9c54eb479d1b16a5404be717b7fa8d316e8e4580660d4d8bbe66be9f4",
+      "origin": "ai"
+    },
+    "dataList[id=1110102].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Jeżeli Szybkość jest wyższa niż celu, zadaje +20% obrażeń",
+      "kr_sha256": "29409f333678cde8ff6e04c5b57e33111f0d99bc1763f6048e2f25aebd7bd603",
+      "en_sha256": "3ebd77d9c54eb479d1b16a5404be717b7fa8d316e8e4580660d4d8bbe66be9f4",
+      "origin": "ai"
+    },
+    "dataList[id=1110102].levelList[level=2].name": {
+      "pl": "Cięcie od Tyłu",
+      "kr_sha256": "eaae02d4a0327df9dd66d2bc387239fdd164adec467061097a1ebffa18069c2d",
+      "en_sha256": "f144a3e6da53871b0c0ca2b3c17d31f08efa1511ddee61e88013d90e89ebb886",
+      "origin": "ai"
+    },
+    "dataList[id=1110103].levelList[level=3].desc": {
+      "pl": "Jeżeli HP celu wynosi 50% lub więcej, zadaje +20% obrażeń",
+      "kr_sha256": "8e0aba567d57cd1f45cbfbae83068d42797f041bcdaadd97d52891a4dec291e2",
+      "en_sha256": "d2f0d61596de5f711eb20a9ae249ce70e01728f3cf76ea497b300ea5e9428d60",
+      "origin": "ai"
+    },
+    "dataList[id=1110103].levelList[level=3].name": {
+      "pl": "Przebijające Dzierżenie",
+      "kr_sha256": "cf4192c1178bc822d1caf59f3e19c08cfe5c6b9a8bd5bf63a0047c886292109f",
+      "en_sha256": "a87f5fc9f77cfb38776c504793e1f4c6ca592473c1967ab3fa977556e8c09a51",
+      "origin": "ai"
+    },
+    "dataList[id=1110103].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "254101ee547753603ed90e66dcc33c38236536edef23c30f43a605a8670b97ff",
+      "en_sha256": "f3e81a5cbc8d7682d793923eb36f8d88347415608809f31b46b9561ecc3e1366",
+      "origin": "ai"
+    },
+    "dataList[id=1110103].levelList[level=4].desc": {
+      "pl": "Jeżeli HP celu wynosi 50% lub więcej, zadaje +20% obrażeń",
+      "kr_sha256": "8e0aba567d57cd1f45cbfbae83068d42797f041bcdaadd97d52891a4dec291e2",
+      "en_sha256": "d2f0d61596de5f711eb20a9ae249ce70e01728f3cf76ea497b300ea5e9428d60",
+      "origin": "ai"
+    },
+    "dataList[id=1110103].levelList[level=4].name": {
+      "pl": "Przebijające Dzierżenie",
+      "kr_sha256": "cf4192c1178bc822d1caf59f3e19c08cfe5c6b9a8bd5bf63a0047c886292109f",
+      "en_sha256": "a87f5fc9f77cfb38776c504793e1f4c6ca592473c1967ab3fa977556e8c09a51",
+      "origin": "ai"
+    },
+    "dataList[id=1110104].levelList[level=1].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 2 Oddechu",
+      "kr_sha256": "aa0cc41ad15be87cf36a5cda5049544da4289421b54a8a98993cbda64036cd78",
+      "en_sha256": "f4f1e92bb0e495601f78ffbe8ed15cec9174c7e3c68669d55da599a308514e50",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=1].name": {
+      "pl": "Dobycie Ostrza",
+      "kr_sha256": "4df915a1488bb4ab09941c0fd95a8974a67b304879bf81487c4bb7304b9d13b4",
+      "en_sha256": "207d026e1ef460be4af9b61111bc8534d4e2e92e9469a7ccfcb6bf552b9bd59d",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 4 Oddechu",
+      "kr_sha256": "244f2ffb431bffa3eaf2a7909ae3d6326b4213629dd5a6741d97e38967d81e3f",
+      "en_sha256": "c701f7e5e07abbf061ab0198059e436a37a8ffa32896af16b1ef965d5c12f9a3",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=2].name": {
+      "pl": "Dobycie Ostrza",
+      "kr_sha256": "4df915a1488bb4ab09941c0fd95a8974a67b304879bf81487c4bb7304b9d13b4",
+      "en_sha256": "207d026e1ef460be4af9b61111bc8534d4e2e92e9469a7ccfcb6bf552b9bd59d",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje 4 Oddechu",
+      "kr_sha256": "4d43253bc0a1bfa8a15aa02c0d7c9f9116dc7ff2b4155fe98087d256db6aab2e",
+      "en_sha256": "816e33f388e7a332720b7cd8f755d182063e6fecd7af29e350b475d16993d942",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=4].desc": {
+      "pl": "Przy [Breath] 5 lub wyższej Moc Monet +1",
+      "kr_sha256": "0eeed52ef83c97e95a7d24915e2c95c993afd13b8fe062584bc063b3fff6d1be",
+      "en_sha256": "79621e17dc5616b95a2a6c319e9b64427b1bd83b619c776d99f57e95f7b33e07",
+      "origin": "ai"
+    },
+    "dataList[id=1110201].levelList[level=4].name": {
+      "pl": "Dobycie Ostrza",
+      "kr_sha256": "4df915a1488bb4ab09941c0fd95a8974a67b304879bf81487c4bb7304b9d13b4",
+      "en_sha256": "207d026e1ef460be4af9b61111bc8534d4e2e92e9469a7ccfcb6bf552b9bd59d",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 1 Wzrostu Obrażeń Siecznych w następnej turze",
+      "kr_sha256": "2f9f915bff4cd6093478c78183539a6110dfe66a9a3bffefd10c62d9604ed6af",
+      "en_sha256": "4bfd92fab2dcd25e783f9857ce72940f696de5e0a818d4516b47417c837fc5db",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=1].name": {
+      "pl": "Akupunktura",
+      "kr_sha256": "bde60b7f1c5d4e0d79496eacafda9dec3ae850e9529506a910ca3892ed6ad231",
+      "en_sha256": "811a2280c909f5f408f5e7e5f6b40e33cd1357047cb21bc234c9a48d69b44946",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 2 Wzrostu Obrażeń Siecznych w następnej turze",
+      "kr_sha256": "e94b67bbe7f28a84b1d41832f2c31da149e636fd3142089eb5557f1d655a3385",
+      "en_sha256": "73370a876d3d0bd0d73cbf894d922cb57087b266d5d2be093d7b75fa730022fe",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=2].desc": {
+      "pl": "[WinDuel] Zwiększa własny Licznik [Breath] o 1",
+      "kr_sha256": "c6f1d1a568e75d16fff69783ed427d62730bd41be30da181b87b528c47e1e681",
+      "en_sha256": "6e49fcc828715f33d90a11f66a1502abbd45d197241d16f3419442d711d8930d",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=2].name": {
+      "pl": "Akupunktura",
+      "kr_sha256": "bde60b7f1c5d4e0d79496eacafda9dec3ae850e9529506a910ca3892ed6ad231",
+      "en_sha256": "811a2280c909f5f408f5e7e5f6b40e33cd1357047cb21bc234c9a48d69b44946",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 2 Wzrostu Obrażeń Siecznych w następnej turze",
+      "kr_sha256": "e94b67bbe7f28a84b1d41832f2c31da149e636fd3142089eb5557f1d655a3385",
+      "en_sha256": "73370a876d3d0bd0d73cbf894d922cb57087b266d5d2be093d7b75fa730022fe",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=4].desc": {
+      "pl": "[WinDuel] Zwiększa własny Licznik [Breath] o 2",
+      "kr_sha256": "d3cc6301b17fec6b8f54ec08b15014b9e80cdb250aade29f7bcb12e02df0e65c",
+      "en_sha256": "7f171d9365b016211f0a7f1d1e7ac9029ff3eed3ce3be02139a3f0dc61b5bd2d",
+      "origin": "ai"
+    },
+    "dataList[id=1110202].levelList[level=4].name": {
+      "pl": "Akupunktura",
+      "kr_sha256": "bde60b7f1c5d4e0d79496eacafda9dec3ae850e9529506a910ca3892ed6ad231",
+      "en_sha256": "811a2280c909f5f408f5e7e5f6b40e33cd1357047cb21bc234c9a48d69b44946",
+      "origin": "ai"
+    },
+    "dataList[id=1110203].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] Podnosi pierwszy Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "a715b02a638fd90ee707db399ad67e6eb36299996f2048d50939f0b0b6a21657",
+      "en_sha256": "381390f438bca74e5fd3a0c3b3bc47b2903d153f581fc4be122c278e66996417",
+      "origin": "ai"
+    },
+    "dataList[id=1110203].levelList[level=3].desc": {
+      "pl": "Gdy HP celu jest poniżej 25%, Moc Końcowa +2",
+      "kr_sha256": "66573caade95e16e181662fb5c415ffdb62c008aa200139b208709b7eec08bd6",
+      "en_sha256": "814477d883ac741c85b40433bfd20c6222c4b81571bbc12a2b081f449407d8dd",
+      "origin": "ai"
+    },
+    "dataList[id=1110203].levelList[level=3].name": {
+      "pl": "Decydujące Zanurzenie",
+      "kr_sha256": "cc729f2effcc3dfdd8eab311e9c84c51641edf3790d7d2222ba4df4512093383",
+      "en_sha256": "d87d7d6106188e982363bfe40746e9567ff11fcaa0928501e1ed65a5cbaf529a",
+      "origin": "ai"
+    },
+    "dataList[id=1110203].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] Podnosi pierwszy Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "a715b02a638fd90ee707db399ad67e6eb36299996f2048d50939f0b0b6a21657",
+      "en_sha256": "381390f438bca74e5fd3a0c3b3bc47b2903d153f581fc4be122c278e66996417",
+      "origin": "ai"
+    },
+    "dataList[id=1110203].levelList[level=4].desc": {
+      "pl": "Gdy HP celu jest poniżej 50%, Moc Końcowa +2",
+      "kr_sha256": "f29114fcd6ee6b65881a2ac289b91bbe4104eaf6e35cdc7ed59a98b4e7017ab1",
+      "en_sha256": "d2d45daa4c0d805417fbf550fa9bc60c9554987e0cae649634bdf31ae3eae299",
+      "origin": "ai"
+    },
+    "dataList[id=1110203].levelList[level=4].name": {
+      "pl": "Decydujące Zanurzenie",
+      "kr_sha256": "cc729f2effcc3dfdd8eab311e9c84c51641edf3790d7d2222ba4df4512093383",
+      "en_sha256": "d87d7d6106188e982363bfe40746e9567ff11fcaa0928501e1ed65a5cbaf529a",
+      "origin": "ai"
+    },
+    "dataList[id=1110204].levelList[level=1].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=1110204].levelList[level=4].desc": {
+      "pl": "Przy [Breath] 6 lub wyższej Moc Monet +3",
+      "kr_sha256": "7b6879da24de8bcf3522eaa270994437163f0039e3b7d36037835b6cf1a73d3f",
+      "en_sha256": "c70fa6b7ef13fb87fefc27abf5a08c66f55132e76515869d9649348a210237bb",
+      "origin": "ai"
+    },
+    "dataList[id=1110204].levelList[level=4].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Ochrony na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "90df8a9ff1102de9bd4a5591de75472fb322ce39f3a478d9ab4314aa0c296b2f",
+      "en_sha256": "260c69e05e203da4af0fc2a007f71b635f752b51ba206999befaf0205890b29a",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=1].name": {
+      "pl": "Rozkaz",
+      "kr_sha256": "460ff55ac7d717679cbc5e2aab9174a9c36aa26219f148cee0582220182d5285",
+      "en_sha256": "6be090825c9971035aee21d9ac0fc9c32f279b921e956026460e4cc1eb611dd6",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Ochrony na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "971328bcea24761c6f769d68b4ed4d8dd5f4ef8e93d2f2e6cd7e2acdde8bb698",
+      "en_sha256": "6fa970b28d40864da782b9f0bbf744c9e9f3e84b94653c56bdbd42c1e3dfeec7",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=2].name": {
+      "pl": "Rozkaz",
+      "kr_sha256": "460ff55ac7d717679cbc5e2aab9174a9c36aa26219f148cee0582220182d5285",
+      "en_sha256": "6be090825c9971035aee21d9ac0fc9c32f279b921e956026460e4cc1eb611dd6",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Ochrony na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "971328bcea24761c6f769d68b4ed4d8dd5f4ef8e93d2f2e6cd7e2acdde8bb698",
+      "en_sha256": "6fa970b28d40864da782b9f0bbf744c9e9f3e84b94653c56bdbd42c1e3dfeec7",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=4].desc": {
+      "pl": "Jeżeli cel ma 5+ [Sinking], Moc Monet +2",
+      "kr_sha256": "736faab394616e8e2bd5ecd84ba633829daa7bb4b3bc2cc1c228f22fece0df5b",
+      "en_sha256": "f06a3bef95cad80af24055f95b9a0e6ca4f7886e0272cf3818a1b9542538d5dc",
+      "origin": "ai"
+    },
+    "dataList[id=1110301].levelList[level=4].name": {
+      "pl": "Rozkaz",
+      "kr_sha256": "460ff55ac7d717679cbc5e2aab9174a9c36aa26219f148cee0582220182d5285",
+      "en_sha256": "6be090825c9971035aee21d9ac0fc9c32f279b921e956026460e4cc1eb611dd6",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 Wzrost Obrażeń na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "e63ab5f64130759f810ac3b724ad79af32b466ce13f174c03858e932e6f2a8c8",
+      "en_sha256": "04b9cfd7cfa190ced6fa69043e073a8c1be468087a65e3c4627b3bde42da2def",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=1].name": {
+      "pl": "Rozkaz Natarcia",
+      "kr_sha256": "4f0bf9f1c509b2ca45dd23a6ffca3a31217f52e721fb705e6c09b28c67ed3052",
+      "en_sha256": "ed0f27d654127f2e18f69a4d31d95bb95694180e5398f42d208a72381575e1d9",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Wzrost Obrażeń na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "2bef96af8cd33c9d575b6d711dd31c605a78ff341694fb6e41a36f3320149f34",
+      "en_sha256": "95a51b9243a42a5d6eae236ddf9f10bf212d2e077b8dda8d4291b1dd33ff0e04",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=2].desc": {
+      "pl": "[WhenUse] Nakłada 1 Wzrost Mocy Ataku na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "1453bda90be0b9af4f5955bfc9e34f68f93fb5fbaaf72dc69eeadae7fd15ae5b",
+      "en_sha256": "4bfca8c37d99a34c90b66e8c0ba00080f2e23705b63218b37b48abbf191cd3ed",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=2].name": {
+      "pl": "Rozkaz Natarcia",
+      "kr_sha256": "4f0bf9f1c509b2ca45dd23a6ffca3a31217f52e721fb705e6c09b28c67ed3052",
+      "en_sha256": "ed0f27d654127f2e18f69a4d31d95bb95694180e5398f42d208a72381575e1d9",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Wzrost Obrażeń na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "775cf07dcd06c970e21e1db85b90e0ac47be1e751bb249b04e8d46d78729ad75",
+      "en_sha256": "8a623b31ace0e1aff127e5bd0b5e9849c143ba4a5c968670e0643b57219b2078",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=4].desc": {
+      "pl": "[WhenUse] Nakłada 1 Wzrost Mocy Ataku na Sojusznika z najniższą Szybkością",
+      "kr_sha256": "1453bda90be0b9af4f5955bfc9e34f68f93fb5fbaaf72dc69eeadae7fd15ae5b",
+      "en_sha256": "4bfca8c37d99a34c90b66e8c0ba00080f2e23705b63218b37b48abbf191cd3ed",
+      "origin": "ai"
+    },
+    "dataList[id=1110302].levelList[level=4].name": {
+      "pl": "Rozkaz Natarcia",
+      "kr_sha256": "4f0bf9f1c509b2ca45dd23a6ffca3a31217f52e721fb705e6c09b28c67ed3052",
+      "en_sha256": "ed0f27d654127f2e18f69a4d31d95bb95694180e5398f42d208a72381575e1d9",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "40eae9b158c3564f9e22e6615784f0678b6c4f65c1e6f1084d218658cfd91a19",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Mocy Ataku",
+      "kr_sha256": "5f6fde023725d0e04240ec106de8645d3690d51d807ffcfd9b0eda6f4c6580d0",
+      "en_sha256": "6a0e37461602710e444d1bc13564350d08cdc5fd136e036de0a513554793494e",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=3].name": {
+      "pl": "Skupienie",
+      "kr_sha256": "46af41ef7be51a51982bea788c41694d665a0158f7af89a0ba162a98e873f4e9",
+      "en_sha256": "9d3cab2b5efed4eaef42a707dbc813da2ffad53220aa713b5f3c950596fe35f5",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "40eae9b158c3564f9e22e6615784f0678b6c4f65c1e6f1084d218658cfd91a19",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Mocy Ataku",
+      "kr_sha256": "5f6fde023725d0e04240ec106de8645d3690d51d807ffcfd9b0eda6f4c6580d0",
+      "en_sha256": "6a0e37461602710e444d1bc13564350d08cdc5fd136e036de0a513554793494e",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 4 [Sinking]",
+      "kr_sha256": "3604eb17d942edb10d66cbd2dd9f82a5dae38672c0df564faada7141fa849edb",
+      "en_sha256": "1ba7da057721c31db95125a1fbd25f520cf29b57f8f7d12c35f7165973a99d98",
+      "origin": "ai"
+    },
+    "dataList[id=1110303].levelList[level=4].name": {
+      "pl": "Skupienie",
+      "kr_sha256": "46af41ef7be51a51982bea788c41694d665a0158f7af89a0ba162a98e873f4e9",
+      "en_sha256": "9d3cab2b5efed4eaef42a707dbc813da2ffad53220aa713b5f3c950596fe35f5",
+      "origin": "ai"
+    },
+    "dataList[id=1110304].levelList[level=1].name": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada w następnej turze 1 Paraliżu",
+      "kr_sha256": "6e21b93ee8cbc2ad70483eb59d64b68d6512d672bf79218abf8c0b8591e3bcac",
+      "en_sha256": "bbf95bd96887994457aa31839caaaefd0aef6d48386fc69dd5431c6f0d449e24",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=1].desc": {
+      "pl": "W starciu Moc Starcia celu -1",
+      "kr_sha256": "3fcf9e84b276674b2d3ad965f6fc5b9069301fdc7020869600875e16b9c096b7",
+      "en_sha256": "6b3806aaac63e164a52413c0e77b372ff4954b44e362cbea4d3a8d6a9d5c25ee",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=1].name": {
+      "pl": "Analiza Predykcyjna",
+      "kr_sha256": "82f0e128c52e43a6576ec57550c48acd7e68b40c0fa6c33ecc2d5347c365bccb",
+      "en_sha256": "6308b6930c37ee35c5ee224fc8071c5d98e4882775c549b94abe240602cb6447",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Paraliżu w następnej turze",
+      "kr_sha256": "2780b21d875b769f6f188cd8899dfaef43a89dce27904086b9bf3e27e6f2be1c",
+      "en_sha256": "19a10145800396c26dd5101f241e50be460f95fbbef1386987547e2cfb9bbb07",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=2].desc": {
+      "pl": "W starciu Moc Starcia celu -2",
+      "kr_sha256": "ce90eec055c0c495c0732e2dfabfda3722dc30153c9623999fa830e07321c171",
+      "en_sha256": "c073ac211be8103e6a43520d4c0dd19cac863e680e31dc3b6256553e829a9848",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=2].name": {
+      "pl": "Analiza Predykcyjna",
+      "kr_sha256": "82f0e128c52e43a6576ec57550c48acd7e68b40c0fa6c33ecc2d5347c365bccb",
+      "en_sha256": "6308b6930c37ee35c5ee224fc8071c5d98e4882775c549b94abe240602cb6447",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Paraliżu w następnej turze",
+      "kr_sha256": "2780b21d875b769f6f188cd8899dfaef43a89dce27904086b9bf3e27e6f2be1c",
+      "en_sha256": "19a10145800396c26dd5101f241e50be460f95fbbef1386987547e2cfb9bbb07",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Rozdarcia",
+      "kr_sha256": "6e52224c89c66c2a421685483037cf52b1be97fafc7faaf810d6a58a239d1af4",
+      "en_sha256": "e957d81c202b4e4bfb6677e7ac78589ffa07e4111ed36883954fce5591a9d462",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=4].desc": {
+      "pl": "W starciu Moc Starcia celu -2",
+      "kr_sha256": "ce90eec055c0c495c0732e2dfabfda3722dc30153c9623999fa830e07321c171",
+      "en_sha256": "c073ac211be8103e6a43520d4c0dd19cac863e680e31dc3b6256553e829a9848",
+      "origin": "ai"
+    },
+    "dataList[id=1110401].levelList[level=4].name": {
+      "pl": "Analiza Predykcyjna",
+      "kr_sha256": "82f0e128c52e43a6576ec57550c48acd7e68b40c0fa6c33ecc2d5347c365bccb",
+      "en_sha256": "6308b6930c37ee35c5ee224fc8071c5d98e4882775c549b94abe240602cb6447",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "45c07fe1d7833b0c10d6ddacaec2fdf3981b0fdef4f2840b79271fc64645f1cb",
+      "en_sha256": "aaca5b561cdccfc699acfb8b2c6392d60ebbde482d43f054481590bb53111daf",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada w następnej turze 2 Spadki Poziomu Obrony",
+      "kr_sha256": "aed667edaaaba743c78e86cf1371f73155a646f2e2e85f45221e471f1ad94792",
+      "en_sha256": "32336f79afd087723ff70643d076ec3fb8a84ce0c4da54e0edaf8649b874fc17",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "45c07fe1d7833b0c10d6ddacaec2fdf3981b0fdef4f2840b79271fc64645f1cb",
+      "en_sha256": "aaca5b561cdccfc699acfb8b2c6392d60ebbde482d43f054481590bb53111daf",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada w następnej turze 2 Spadki Poziomu Obrony",
+      "kr_sha256": "aed667edaaaba743c78e86cf1371f73155a646f2e2e85f45221e471f1ad94792",
+      "en_sha256": "32336f79afd087723ff70643d076ec3fb8a84ce0c4da54e0edaf8649b874fc17",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=1].desc": {
+      "pl": "W starciu Moc Starcia celu -1",
+      "kr_sha256": "3fcf9e84b276674b2d3ad965f6fc5b9069301fdc7020869600875e16b9c096b7",
+      "en_sha256": "6b3806aaac63e164a52413c0e77b372ff4954b44e362cbea4d3a8d6a9d5c25ee",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=1].name": {
+      "pl": "Dowodzenie na Polu",
+      "kr_sha256": "7bcc3b4d6001e2a38a863419746044323f3a673ec89ebc5e578e1fe9ac40dbc8",
+      "en_sha256": "bd7dffc273ec0d40c091c70c787856696af5d55b52073b0cf03a77a4e06dff6e",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "254101ee547753603ed90e66dcc33c38236536edef23c30f43a605a8670b97ff",
+      "en_sha256": "f3e81a5cbc8d7682d793923eb36f8d88347415608809f31b46b9561ecc3e1366",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Poziomu Obrony w następnej turze",
+      "kr_sha256": "845e564ef50657d9e2ff74055c53a5f987dd165b4558ddc66e1d67b6afdface7",
+      "en_sha256": "c949eecdc54318729690625d8234bfc46fcf363196dbf2d6280999e7d9bcbf06",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "254101ee547753603ed90e66dcc33c38236536edef23c30f43a605a8670b97ff",
+      "en_sha256": "f3e81a5cbc8d7682d793923eb36f8d88347415608809f31b46b9561ecc3e1366",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Poziomu Obrony w następnej turze",
+      "kr_sha256": "845e564ef50657d9e2ff74055c53a5f987dd165b4558ddc66e1d67b6afdface7",
+      "en_sha256": "c949eecdc54318729690625d8234bfc46fcf363196dbf2d6280999e7d9bcbf06",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=2].desc": {
+      "pl": "W starciu Moc Starcia celu -2",
+      "kr_sha256": "ce90eec055c0c495c0732e2dfabfda3722dc30153c9623999fa830e07321c171",
+      "en_sha256": "c073ac211be8103e6a43520d4c0dd19cac863e680e31dc3b6256553e829a9848",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=2].name": {
+      "pl": "Dowodzenie na Polu",
+      "kr_sha256": "7bcc3b4d6001e2a38a863419746044323f3a673ec89ebc5e578e1fe9ac40dbc8",
+      "en_sha256": "bd7dffc273ec0d40c091c70c787856696af5d55b52073b0cf03a77a4e06dff6e",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 1",
+      "kr_sha256": "254101ee547753603ed90e66dcc33c38236536edef23c30f43a605a8670b97ff",
+      "en_sha256": "f3e81a5cbc8d7682d793923eb36f8d88347415608809f31b46b9561ecc3e1366",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Poziomu Obrony w następnej turze",
+      "kr_sha256": "845e564ef50657d9e2ff74055c53a5f987dd165b4558ddc66e1d67b6afdface7",
+      "en_sha256": "c949eecdc54318729690625d8234bfc46fcf363196dbf2d6280999e7d9bcbf06",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "d49a61b9617284b0496bbe4ae0d0049f69b9b78433abaf209e7ec215097bc177",
+      "en_sha256": "1e324e5c66da9c3c7abab6f1cdd87899c5f35f97336d6fbd80aa3947bb5ce617",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Poziomu Obrony w następnej turze",
+      "kr_sha256": "845e564ef50657d9e2ff74055c53a5f987dd165b4558ddc66e1d67b6afdface7",
+      "en_sha256": "c949eecdc54318729690625d8234bfc46fcf363196dbf2d6280999e7d9bcbf06",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=4].desc": {
+      "pl": "W starciu Moc Starcia celu -2",
+      "kr_sha256": "ce90eec055c0c495c0732e2dfabfda3722dc30153c9623999fa830e07321c171",
+      "en_sha256": "c073ac211be8103e6a43520d4c0dd19cac863e680e31dc3b6256553e829a9848",
+      "origin": "ai"
+    },
+    "dataList[id=1110402].levelList[level=4].name": {
+      "pl": "Dowodzenie na Polu",
+      "kr_sha256": "7bcc3b4d6001e2a38a863419746044323f3a673ec89ebc5e578e1fe9ac40dbc8",
+      "en_sha256": "bd7dffc273ec0d40c091c70c787856696af5d55b52073b0cf03a77a4e06dff6e",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Poziomu Ataku w następnej turze",
+      "kr_sha256": "b46138d43d76f9713145ad87d5a83809e1fb2dbdb2f7e2ce1911edd3e196481e",
+      "en_sha256": "c5a6154a1c502a9e0c3e8619613f3855ce44862525dbc5f89e1a83c19e72c415",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zadaje dodatkowe obrażenia Sieczne równe 15% zadanych obrażeń",
+      "kr_sha256": "c1eba9b87f36581978d3b3414c5ee614715174f87c1c27b831f2da672c10a7a2",
+      "en_sha256": "47c1a59b73c34318a805264b178200e3a4a073f7ebaf23a05d7251718d8ac40f",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada Zbadaną Słabość w następnej turze",
+      "kr_sha256": "8558d5717bee59b8d9e9e1b165710cf3f5fca8138042350c89e3644eb582222a",
+      "en_sha256": "48d3400077aa0e218f7569534f71650ce76f0de564332032cf4b6efd97e31d37",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=3].desc": {
+      "pl": "W starciu Moc Starcia celu -2",
+      "kr_sha256": "ce90eec055c0c495c0732e2dfabfda3722dc30153c9623999fa830e07321c171",
+      "en_sha256": "c073ac211be8103e6a43520d4c0dd19cac863e680e31dc3b6256553e829a9848",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=3].name": {
+      "pl": "Wykorzystanie Luki",
+      "kr_sha256": "bab99e8021ceb0dbcecb0821d99f42a1ba675988972dc4c7134770858f627ccb",
+      "en_sha256": "9a192ccfb5ada8b182e025be9c22ec49358493380da8fc023fd60175205e389d",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadek Poziomu Ataku w następnej turze",
+      "kr_sha256": "b46138d43d76f9713145ad87d5a83809e1fb2dbdb2f7e2ce1911edd3e196481e",
+      "en_sha256": "c5a6154a1c502a9e0c3e8619613f3855ce44862525dbc5f89e1a83c19e72c415",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zadaje dodatkowe obrażenia Sieczne równe 15% zadanych obrażeń",
+      "kr_sha256": "c1eba9b87f36581978d3b3414c5ee614715174f87c1c27b831f2da672c10a7a2",
+      "en_sha256": "47c1a59b73c34318a805264b178200e3a4a073f7ebaf23a05d7251718d8ac40f",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada Zbadaną Słabość w następnej turze",
+      "kr_sha256": "8558d5717bee59b8d9e9e1b165710cf3f5fca8138042350c89e3644eb582222a",
+      "en_sha256": "48d3400077aa0e218f7569534f71650ce76f0de564332032cf4b6efd97e31d37",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=4].desc": {
+      "pl": "W starciu Moc Starcia celu -2\nJeżeli cel ma 7+ [Burst], Moc Monet +2",
+      "kr_sha256": "4f3eb64c200c19ed8c54c8ec092bcd0b592990c0dbd56a611bbba60facaef4cc",
+      "en_sha256": "3a20ec6f6d1df863200e35a65b19f6a583c132787f2020e53f027c555854c587",
+      "origin": "ai"
+    },
+    "dataList[id=1110403].levelList[level=4].name": {
+      "pl": "Wykorzystanie Luki",
+      "kr_sha256": "bab99e8021ceb0dbcecb0821d99f42a1ba675988972dc4c7134770858f627ccb",
+      "en_sha256": "9a192ccfb5ada8b182e025be9c22ec49358493380da8fc023fd60175205e389d",
+      "origin": "ai"
+    },
+    "dataList[id=1110404].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zyskuje 1 [Agility] i 1 Wzrost Mocy Obrony w następnej turze",
+      "kr_sha256": "e180e6e58863fbd929820858c5d12e26aa29e1e91eb0e857159f784b8a883918",
+      "en_sha256": "d756df102c3e09dd8c11e79eb076ac92aa67a34012a8fb71fe432d25557c73ae",
+      "origin": "ai"
+    },
+    "dataList[id=1110404].levelList[level=1].name": {
+      "pl": "Poprowadzę z Przodu",
+      "kr_sha256": "fd0d0bbd5a9f2b32b3d48bb1da1bfda40fa8594e107503518824c5951bc01503",
+      "en_sha256": "4549a4557480ab9b199de42fcf7d5970900abbac018d28b6d1aeae4bff59d4a4",
+      "origin": "ai"
     }
   }
 }
