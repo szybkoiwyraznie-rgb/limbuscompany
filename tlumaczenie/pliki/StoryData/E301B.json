@@ -1,0 +1,229 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Proszę wysiadać. Tu mamy się spotkać z klientem w sprawie następnej misji.",
+      "kr_sha256": "74f166f7a3b246b96126b115ca8c5117d926eb514bc6483329021f8cc7ddc762",
+      "en_sha256": "273d884885b3c5e2aac2d1747299f063b4ee527ebe89a2a0091b098638ee50cf"
+    },
+    "dataList[id=10].content": {
+      "pl": "…Zda się, żem już o tym słyszał.",
+      "kr_sha256": "3077a282ab3555f35bdc8ec3dd6b486be0dacbde472b2ec8d3b472df9f056f2c",
+      "en_sha256": "cc35d4376926aa89f40d75e134eaa9cf679558ab6f24d4d51fe51f6d63a1b45a"
+    },
+    "dataList[id=11].content": {
+      "pl": "No proszę~ Nasz Yi Sang, który chyba najbardziej ze wszystkich nie nadąża za nowinkami?",
+      "kr_sha256": "d53660672a9dfb44f23600f8a96c02ba0fa58f936ddcdc5387aaca1773e2eb88",
+      "en_sha256": "614a9af69542ae2e32a555ad0c6f12546f1837667a074773880baac1cab1de98"
+    },
+    "dataList[id=12].content": {
+      "pl": "…A ty to w ogóle kto?",
+      "kr_sha256": "4cb2e46aae459e97d5a306ceef3845dfbc6a4265f3746eb1196de15bf315dbf8",
+      "en_sha256": "e7c6942f5df2fa9b15e12b31017c3ff31f84cb4607eafff3944053d1009935c4"
+    },
+    "dataList[id=13].content": {
+      "pl": "Jak tak się bezczelnie wpychasz w cudzą rozmowę, to chyba nie wiesz, z kim gadasz.",
+      "kr_sha256": "8ff8011e75836be8392369de13178c8a7df44445f63bea9076b2ce2a0488b557",
+      "en_sha256": "37fd83f2d78cd032cd5ca751d77c9fc89c72cf8664cf22f76e5ed2857cd6aee2"
+    },
+    "dataList[id=14].content": {
+      "pl": "…A kim my niby jesteśmy?",
+      "kr_sha256": "c776dfe3ea7376f2f842d9bb6fe5237f2e8c61bf79a227404680496bd3ee000c",
+      "en_sha256": "a82a9d4715ad94b2bebbb485dbc8d88c9b1a36cc389c3b1133310db609da8860"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ojej, a cóż to się kręci przed lokalem? Nie wygląda mi to na nic normalnego.",
+      "kr_sha256": "52852dfa5b46cd21b89d0e8deb0d07539f930f2d84884c1a576d82d2b1784661",
+      "en_sha256": "c01de7e1873e0cf28d2b35048be82ef1aad8b919c1906438ab44d00cf248f3cb"
+    },
+    "dataList[id=16].content": {
+      "pl": "Gdy na jego słowa odwróciłem głowę, zobaczyłem ludzi w dziwacznym przebraniu.",
+      "kr_sha256": "794b0f8b5c3e1397d2f93e768a18226e6354d923b3e03b52db2d3e3c0f950a33",
+      "en_sha256": "fec5f69c7f0955e898a8bc06bc9facfab2c08a634d761c57dfcae2deeb06a781"
+    },
+    "dataList[id=17].content": {
+      "pl": "<T-to nie są pracownicy K Corp.? Co oni wyprawiają?>",
+      "kr_sha256": "380ba20c75ffae8e7b9545e3ada47f3ba927195df9878c94a943feee0707158d",
+      "en_sha256": "6204de9337ea36d555239a59867dc4d539ebb7ce698f071cfd150bd0fc90cc1c"
+    },
+    "dataList[id=18].content": {
+      "pl": "Widzę osoby z dziwnymi maskami naciągniętymi na głowy.",
+      "kr_sha256": "0c3ecd89cefb15096b5b9a23e6a8bf94a7d5c4e00caaad13b5b46d534fe59d66",
+      "en_sha256": "33f0ffcc58dbdd44e11cc07be8f08f865d80988f7db8a6c7e0db07c23d9dfc45"
+    },
+    "dataList[id=19].content": {
+      "pl": "M-może to jakieś maskotki? Z bliska pewnie wyglądają całkiem uroczo…",
+      "kr_sha256": "da5a0c6bafe8033e508d528c528da0178f8f46494778251d0628280cf6ffcef2",
+      "en_sha256": "761cf7d53f85ed8bf28931730e24805d7220fc57a864edbb0ffe4ca915c6e3a8"
+    },
+    "dataList[id=1].content": {
+      "pl": "Też coś. Teraz jeszcze bierzemy zlecenia jak jacyś chłopcy na posyłki?",
+      "kr_sha256": "dd7fc1b9a275539ac9d74ab59917dde88f451755615add7e1481c8ba7c6b496d",
+      "en_sha256": "08e7c4f4f81aacd6867a876e3b8a2bb165ee32da8dd108dfe6fbb0ff81d2eed7"
+    },
+    "dataList[id=20].content": {
+      "pl": "To przed tymi maskotkami ludzie uciekają z krzykiem?",
+      "kr_sha256": "c6f1d9636d7b8a496475905588f0348a242161f4865eba62f31126be53657374",
+      "en_sha256": "00ea2e71739b60e71c612a469c0a0a4cdee24e475ce2dcf28cc0f18dc086b487"
+    },
+    "dataList[id=21].content": {
+      "pl": "Trochę to podejrzane, ale siedźmy cicho. Do nas jakoś nie podchodzą, a ja tam nie mam ochoty pakować się w niepotrzebną awanturę…",
+      "kr_sha256": "92a64810567b6d7327e3b8c88f90924f9363158e5eb8bb5ceb69fad3cadcef4e",
+      "en_sha256": "1cea3ad9b7c4345e7f323f12dc4e7938ae6d84fe7e6fe44ce521b1f3c70278d9"
+    },
+    "dataList[id=22].content": {
+      "pl": "Racja. Do nas jakoś nie podchodzą.",
+      "kr_sha256": "3ca532d411877b9c1c40715cdac31099b1ba7b862762ec3e7bccb4d49d9637a7",
+      "en_sha256": "50f78e36e1ca7f8ec3fb5d7fff7a422e5c11acb39e5b94bcf8d5a2361ac19e9d"
+    },
+    "dataList[id=23].content": {
+      "pl": "A czemu nagle podnosisz kamień z chodnika, tajemniczy jegomościu?",
+      "kr_sha256": "ea856a4bb7535e0ee107bd82527cef997ade325d4488c16d859c926a735e4ff0",
+      "en_sha256": "ef027e1e6d5c615f3b517e0f6e379a371a56ee1c764e898208a3537c54f4e865"
+    },
+    "dataList[id=24].content": {
+      "pl": "!",
+      "kr_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62",
+      "en_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62"
+    },
+    "dataList[id=25].content": {
+      "pl": "<Coś ty właśnie zrobił?!>",
+      "kr_sha256": "38a27d7b4c51b8ab66d135e95e5ce9f6ce39e5fe7b58d3c754c30cc33a89aff0",
+      "en_sha256": "96587c11adaa416c459c49947883980e80523f3e4f4bc666c2c1ac29ba21ae05"
+    },
+    "dataList[id=26].content": {
+      "pl": "Trafione kamieniem to coś rozejrzało się wokół…",
+      "kr_sha256": "f743999ca58c081faed2eb37b44f2cfe948a26f49e71769c258bf24205013908",
+      "en_sha256": "1ba33f5c1c9844e0ca8d8b2005f335de4f9dbf3122764a55f3ffc46fe2b6a367"
+    },
+    "dataList[id=27].content": {
+      "pl": "…i zaraz ruszyło w naszą stronę dziwacznym, rozkołysanym krokiem.",
+      "kr_sha256": "ae4093d89288b209e253da0d7949174e4a32fb1589d1e50f7244a73af4ac284d",
+      "en_sha256": "136d811aa7185359788d550b5ef118131d202beb7616e9423b503f9d6255f408"
+    },
+    "dataList[id=28].content": {
+      "pl": "Giiiii… Giiii…",
+      "kr_sha256": "05769b8e48614ae92ddb1c925d35f88320ff3c133c2c5bc460243598edd9e00f",
+      "en_sha256": "810a3839b9dca5e678913d0481ab5f843ff4240ee75b91950710cc5b1f55117a"
+    },
+    "dataList[id=29].content": {
+      "pl": "Ojej, pomyłka. Co by tu teraz zrobić?",
+      "kr_sha256": "aa02491c8eb458168e7ab5e0c15c1738b317402133affe6a33caa9055e0dd161",
+      "en_sha256": "841db5054f7e5acde1173af7b8caead38369767392c0ca0315741e014ae626f6"
+    },
+    "dataList[id=2].content": {
+      "pl": "Hm? A tam co jest? Strasznie długa kolejka.",
+      "kr_sha256": "ae6575814b9fdbf4b59dce306dbd5264dce490ae9c00c5aed89b0c0626040902",
+      "en_sha256": "09d0c94e82ed153f6180ab4b4d5e50f5d1410f2f0f28adc2a2d200fe84dc7fe4"
+    },
+    "dataList[id=30].content": {
+      "pl": "Ale tupet… Trafił prosto w łeb…",
+      "kr_sha256": "9665ce93788ce365631a49bb51119e8b5bab3c831c3c75f1dceeaf8e05d98de6",
+      "en_sha256": "f603f17c449088973ffbf389adcc8c427f32904fab48a1ec6352fde5b16ad6da"
+    },
+    "dataList[id=31].content": {
+      "pl": "Ojej~ I postawę miał pan bardzo pewną.",
+      "kr_sha256": "329122f661c70c5542325d9bb0f2ebf78dd8e79732775883150a8cc1bd5f2f74",
+      "en_sha256": "8a7cb575b2fa88656b153281a24f9a3b25aefa8ea1761fe3e549e2d4f8a479e8"
+    },
+    "dataList[id=32].content": {
+      "pl": "Dziękuję. Kiedyś marzyłem, żeby zostać baseballistą w Mieście.",
+      "kr_sha256": "654bd85f93a9aa3339b979a8587127886a2d1468e41ac4f58a660893711e6ce7",
+      "en_sha256": "e6db5f494fd7c7bee002614ef626391cbb2c4972b36cae7c7036ca7c1c933310"
+    },
+    "dataList[id=33].content": {
+      "pl": "To ja ci zaraz twoim łbem zaliczę home run. Stój.",
+      "kr_sha256": "31635447c2f89c5782ae2e5b2311ff28e0a736bf7114da5ae80a52fae2e02635",
+      "en_sha256": "02c66afb4763894827fca3769f2d3ef328d3a89783ab2314964c3dbaf979aa96"
+    },
+    "dataList[id=34].content": {
+      "pl": "Zbliżają się coraz szybciej. Może najpierw zajmiecie się nimi, a dopiero potem home runem z mojej głowy?",
+      "kr_sha256": "fe5725d2654f14eb91b88cee6ecf5afe2087fc004b74d26c191b96bae222080d",
+      "en_sha256": "72f479cab285241966c915855cf5df0fdae3671ae90720a9ec19d2df2bc34a02"
+    },
+    "dataList[id=35].content": {
+      "pl": "Gdy wściekła Ryōshū sięgnęła do pochwy, to coś zdążyło już do nas dotrzeć…",
+      "kr_sha256": "cf3291230c4e8e3ad9d992cbffd9d6e6de68cc05262e5673b9fbef200a5ea865",
+      "en_sha256": "8d36273c8abf277ef3a41f959c7da84e93f656af794a9f9c325afb2b6f392b19"
+    },
+    "dataList[id=36].content": {
+      "pl": "Mają kurze głowy.",
+      "kr_sha256": "bd8ec283549c3b6e0371ba551048c9c4659fdde62b5f8b6a77bad0537d8737a4",
+      "en_sha256": "c34de0ee68aed768297d96f3e56987752dd9b960632ad7a358ddc1b255744b97"
+    },
+    "dataList[id=37].content": {
+      "pl": "No, kurze.",
+      "kr_sha256": "28af3e137d5ba841bfb0dec3e6c2822c48649ed44bba22970cf93527636051b6",
+      "en_sha256": "6e0aff4afe844cfb1219f7381b91027a37df069d6fd899e3a2119a85486eaa67"
+    },
+    "dataList[id=38].content": {
+      "pl": "I to surowe.",
+      "kr_sha256": "8280bc681f78ddec149034fc62733b86d30d674eacbd8af755dfdfaeebe1f17f",
+      "en_sha256": "5189799fb30e5da0aca4078219caf6112880cd02d03a67ccec9bedd8ab765286"
+    },
+    "dataList[id=39].content": {
+      "pl": "Wyglądają jak kury, które z żalem w sercu wylazły z samego piekła…",
+      "kr_sha256": "0f4e50407d6da8e2e4cb9b551b57f4fd2dbc270259b82bd200f62e6af9c97308",
+      "en_sha256": "ca542187bb83ddc46f4c0f4283c269c2b5f0c05965b5cef2fb2adf1b213c4db1"
+    },
+    "dataList[id=3].content": {
+      "pl": "Ach~ Nie czujesz tego cudownego zapachu? Kurczak smażony, Greg!! I to chrupiący, na drogim oleju!",
+      "kr_sha256": "87dd5b42e3396147f016fb8ca2b5fd6ae17ce14da2b4c813617099ca40055e83",
+      "en_sha256": "22c8856da3fed7d8611584b766abd3b041eaa357ec40dd3e438d5ca4009692a1"
+    },
+    "dataList[id=40].content": {
+      "pl": "Wiecie co… Może to dlatego, że Sinclair zostawił wtedy skrzydełko, bo nie chciało mu się obgryzać kości? Bo nic innego nie przychodzi mi do głowy…",
+      "kr_sha256": "c3040024f73db6d13a6c5facd5afc65bda12e7036850606120905904b8d99899",
+      "en_sha256": "578fa0b3c7c7d02894c4fcce62e5f738d2c76fddd3e73762eed0e620b743c7e2"
+    },
+    "dataList[id=41].content": {
+      "pl": "Już mnie takie rzeczy nie ruszają… Zresztą i tak to skrzydełko zabrała pani Rodion i zjadła do czysta…",
+      "kr_sha256": "b34faee638d297939691fa894505b6a4adc32ee2508cfc19311025dcd41cecd3",
+      "en_sha256": "b8fba136ed849fd0204357da7875a365c9e1833242085068ec6604c8b7efe975"
+    },
+    "dataList[id=42].content": {
+      "pl": "Hm, skoro tak wyszło, pozostaje nam chyba tylko walczyć.",
+      "kr_sha256": "53afb19725a7d50da7ae90486e0c6be8723d80ca1e36eff7c450b454fc483811",
+      "en_sha256": "5be0314ed47b8efe87f89a87d4ed58c4828d4f35884e4aa38b35f1352fb85b89"
+    },
+    "dataList[id=43].content": {
+      "pl": "<A ten czemu tak naturalnie chowa się za mną?>",
+      "kr_sha256": "2f8b41d208fe746858837509b26d4d95eb6641b1cb84ce8750a120adbb544cc1",
+      "en_sha256": "4e7fb02bec67017c77f1d26b33df8695502217b37debe2977678bd92107be485"
+    },
+    "dataList[id=44].content": {
+      "pl": "Zanim zdążyłem cokolwiek powiedzieć, kurogłowi rzucili się na nas.",
+      "kr_sha256": "14e3f3276c571b0471a694845c29287ef2f5812786e14bdddac3d24e25e7c549",
+      "en_sha256": "cbb9b0a50dd35c59bd724ce17a08ff619f14f74ab05f8adcadb0594dca51359c"
+    },
+    "dataList[id=4].content": {
+      "pl": "Kto nie zna Bodhisattva Chicken, najmodniejszego lokalu w K Corp., ten widać jeszcze niewiele po K Corp. pochodził.",
+      "kr_sha256": "a8e4a193a05f2fe81401e47181127d207739607d36673541de62304ca2468df5",
+      "en_sha256": "e0a689755621bf39d67f1fbd96c4a28e615982d19928c10a187d627e84ccd42d"
+    },
+    "dataList[id=5].content": {
+      "pl": "Jakiś człowiek o pedantycznym wyglądzie znienacka, a zarazem całkiem naturalnie, wtrącił się między Grzeszników.",
+      "kr_sha256": "96c728692992d691e610e79048fe74cdf6997dad31c74b312e71596543efd1cc",
+      "en_sha256": "7eeef6ace3588a7b0f7d350824de58005b2683ad4647a6841cbd3eb091f1b381"
+    },
+    "dataList[id=6].content": {
+      "pl": "Ho, ho… Bodhisattva Chicken? A cóż to takiego?",
+      "kr_sha256": "8050c20b5140174595d0ef32a87d6366e19758e55e1a7edc1ca3ced306c170df",
+      "en_sha256": "06ddcf84c2454800d66dd8f119b41c0c593293246439b399b2cbb93805404f36"
+    },
+    "dataList[id=7].content": {
+      "pl": "Pozwolę sobie… odpowiedzieć.",
+      "kr_sha256": "a759d24e3dea8473c422c2adba6aba74e5d42237ee581ed41d8aa1447c13c90c",
+      "en_sha256": "acd4b2049c1c16731924a1d1e6c53dc752b75e37965a0063d9bce6ca69108e14"
+    },
+    "dataList[id=8].content": {
+      "pl": "Bodhisattva Chicken to sieć smażalni słynąca z kurczaków o sześciu udkach i ośmiu skrzydełkach, a smak i porcje ma miłosierne jak sam bodhisattwa.",
+      "kr_sha256": "994e2a20648002798096f03d2cb3c43b2ff724a91ed820dbbcb9c369dded9f89",
+      "en_sha256": "0b738dac5b0fbe825fa9163438d1e98e3b1c5b9e7acbdbe97f10be0a6a9f1862"
+    },
+    "dataList[id=9].content": {
+      "pl": "Co więcej, dogodzi każdemu gustowi. Mięsiak o wybornej strukturze mięsa, Grubasek, na którym mięsa jest wyjątkowo dużo, i Żujek o sprężystym mięsie. Proszę, na co macie ochotę?",
+      "kr_sha256": "3e97ffbaa4386e57bf3c1f4675852d6deff88c59191e7628bf6b221325944887",
+      "en_sha256": "7b0864a33cf291df01f6de70a75b28ffb1365d63dba6339507351eb17bc19889"
+    }
+  }
+}

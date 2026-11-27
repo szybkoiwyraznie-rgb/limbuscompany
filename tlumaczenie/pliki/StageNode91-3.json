@@ -1,172 +1,144 @@
 {
   "entries": {
     "dataList[id=910301].desc": {
-      "pl": "Aby odebrać wytyczne kolejnego zadania, przybyliśmy do tętniącej życiem dzielnicy K Corp.\nGdy smakowity aromat pieczeni miał już pogrążyć Grzeszników we wspomnieniach,\nna naszą drużynę rzuciło się stado chodzących surowych kurczaków.\nCzyżby mściły się za lata poniżeń na ludzkich talerzach…?",
+      "pl": "Po następną misję przyjechaliśmy do śródmieścia Gniazda K Corp.\nGdy apetyczny, kuszący zapach wdarł się Grzesznikom do nosów i wszyscy już mieli się rozmarzyć,\nna Grzeszników rzuciły się chodzące surowe kury.\nCzyżby wyładowywały upokorzenie, że tak długo zjadali je ludzie…?",
       "kr_sha256": "ad7efd4085b12327e012e28a1af6efe4c73bbbf39729bb3680c438e7287cb87e",
-      "en_sha256": "dbfc4f931e9890780437cfd808e95085f44092b1ce24bf21161b85cad6477c90",
-      "origin": "ai"
+      "en_sha256": "dbfc4f931e9890780437cfd808e95085f44092b1ce24bf21161b85cad6477c90"
     },
     "dataList[id=910301].place": {
-      "pl": "Zaułek w centrum K Corp.",
+      "pl": "Zaułek w śródmieściu Gniazda K Corp.",
       "kr_sha256": "ebef4d96aa23a0babf005dcc620fee4a8265a03e4e777af39fba15e8d3e445f0",
-      "en_sha256": "659c410a38fcabaad9094eb83f97fa77e3f12263d62450f28f85a24c2dc63040",
-      "origin": "ai"
+      "en_sha256": "659c410a38fcabaad9094eb83f97fa77e3f12263d62450f28f85a24c2dc63040"
     },
     "dataList[id=910301].title": {
-      "pl": "Kurzy Atak",
+      "pl": "Atak kurczaków",
       "kr_sha256": "6a02b7ccb885ffb25a45fd31f9dd8bf1d0afcd22f7002a20c7cd25b9bd6e12b9",
-      "en_sha256": "97eae5ffbc5db204916bab4ed87d2aef07b08aa668c1d3610c276fbf08f7c9eb",
-      "origin": "ai"
+      "en_sha256": "97eae5ffbc5db204916bab4ed87d2aef07b08aa668c1d3610c276fbf08f7c9eb"
     },
     "dataList[id=910302].desc": {
-      "pl": "Aby odebrać wytyczne kolejnego zadania, przybyliśmy do tętniącej życiem dzielnicy K Corp.\nGdy smakowity aromat pieczeni miał już pogrążyć Grzeszników we wspomnieniach,\nna naszą drużynę rzuciło się stado chodzących surowych kurczaków.\nCzyżby mściły się za lata poniżeń na ludzkich talerzach…?",
+      "pl": "Po następną misję przyjechaliśmy do śródmieścia Gniazda K Corp.\nGdy apetyczny, kuszący zapach wdarł się Grzesznikom do nosów i wszyscy już mieli się rozmarzyć,\nna Grzeszników rzuciły się chodzące surowe kury.\nCzyżby wyładowywały upokorzenie, że tak długo zjadali je ludzie…?",
       "kr_sha256": "ad7efd4085b12327e012e28a1af6efe4c73bbbf39729bb3680c438e7287cb87e",
-      "en_sha256": "dbfc4f931e9890780437cfd808e95085f44092b1ce24bf21161b85cad6477c90",
-      "origin": "ai"
+      "en_sha256": "dbfc4f931e9890780437cfd808e95085f44092b1ce24bf21161b85cad6477c90"
     },
     "dataList[id=910302].place": {
-      "pl": "Zaułek w centrum K Corp.",
+      "pl": "Zaułek w śródmieściu Gniazda K Corp.",
       "kr_sha256": "ebef4d96aa23a0babf005dcc620fee4a8265a03e4e777af39fba15e8d3e445f0",
-      "en_sha256": "659c410a38fcabaad9094eb83f97fa77e3f12263d62450f28f85a24c2dc63040",
-      "origin": "ai"
+      "en_sha256": "659c410a38fcabaad9094eb83f97fa77e3f12263d62450f28f85a24c2dc63040"
     },
     "dataList[id=910302].title": {
-      "pl": "Kurzy Atak 2",
+      "pl": "Atak kurczaków 2",
       "kr_sha256": "d973ef208324a3099edaa4b15b6359843d91d18107282035115b0c5ed08cb7fa",
-      "en_sha256": "b169849bbf0ed9251c8032ab159f73fc64ef804df8d9ce90175cf57e03a2c4b5",
-      "origin": "ai"
+      "en_sha256": "b169849bbf0ed9251c8032ab159f73fc64ef804df8d9ce90175cf57e03a2c4b5"
     },
     "dataList[id=910303].desc": {
-      "pl": "Sposobem na rozwiązanie Wypaczenia okazało się…\nprzyrządzenie „dania z kurczaka”, które zadowoli jego podniebienie.\nGrzesznicy z zapałem zakasali rękawy do gotowania, ale…\nczy nie powinni najpierw zgasić papierosów?",
+      "pl": "Sposób na rozwiązanie Zniekształcenia, na który padło…\nto przyrządzenie “dania z kurczaka”, które zadowoli Zniekształcenie.\nGrzesznicy zakasują rękawy i pewni siebie biorą się do gotowania, ale…\nczy nie powinni najpierw zgasić papierosów?",
       "kr_sha256": "7cff9fc77f2e0533b50c0cf65e4d1e5f7a9e4be4fc7460303b5db2f9d8251ed5",
-      "en_sha256": "f7e87ce7db50144ee668248d6e7ec10b0780def0ce20d348dc140f74b22fd4f1",
-      "origin": "ai"
+      "en_sha256": "f7e87ce7db50144ee668248d6e7ec10b0780def0ce20d348dc140f74b22fd4f1"
     },
     "dataList[id=910303].place": {
-      "pl": "Przed barem „U Eunbonga”",
+      "pl": "Przed Barem u Eunbong",
       "kr_sha256": "1ff632203992245f674897bc0ab654232c3606831987ab44ea4b7a5a94dd931c",
-      "en_sha256": "bbfcf3b3d96d976f73f3cef440485e0a50535f498c9b25e05af7f92028f03239",
-      "origin": "ai"
+      "en_sha256": "bbfcf3b3d96d976f73f3cef440485e0a50535f498c9b25e05af7f92028f03239"
     },
     "dataList[id=910303].title": {
-      "pl": "Piekielny Kurczak",
+      "pl": "Hell’s Chicken",
       "kr_sha256": "524f9d3406b7fc30ae0b30ab471fec49a64e31eecf39212d299e9c563aa8adf1",
-      "en_sha256": "ed8443d8d315e84ce9175aa488434ac45b1d3fdf0348536827dbedcc9b01d33b",
-      "origin": "ai"
+      "en_sha256": "ed8443d8d315e84ce9175aa488434ac45b1d3fdf0348536827dbedcc9b01d33b"
     },
     "dataList[id=910304].desc": {
-      "pl": "Sposobem na rozwiązanie Wypaczenia okazało się…\nprzyrządzenie „dania z kurczaka”, które zadowoli jego podniebienie.\nGrzesznicy z zapałem zakasali rękawy do gotowania, ale…\nczy nie powinni najpierw zgasić papierosów?",
+      "pl": "Sposób na rozwiązanie Zniekształcenia, na który padło…\nto przyrządzenie “dania z kurczaka”, które zadowoli Zniekształcenie.\nGrzesznicy zakasują rękawy i pewni siebie biorą się do gotowania, ale…\nczy nie powinni najpierw zgasić papierosów?",
       "kr_sha256": "7cff9fc77f2e0533b50c0cf65e4d1e5f7a9e4be4fc7460303b5db2f9d8251ed5",
-      "en_sha256": "f7e87ce7db50144ee668248d6e7ec10b0780def0ce20d348dc140f74b22fd4f1",
-      "origin": "ai"
+      "en_sha256": "f7e87ce7db50144ee668248d6e7ec10b0780def0ce20d348dc140f74b22fd4f1"
     },
     "dataList[id=910304].place": {
-      "pl": "Przed barem „U Eunbonga”",
+      "pl": "Przed Barem u Eunbong",
       "kr_sha256": "1ff632203992245f674897bc0ab654232c3606831987ab44ea4b7a5a94dd931c",
-      "en_sha256": "bbfcf3b3d96d976f73f3cef440485e0a50535f498c9b25e05af7f92028f03239",
-      "origin": "ai"
+      "en_sha256": "bbfcf3b3d96d976f73f3cef440485e0a50535f498c9b25e05af7f92028f03239"
     },
     "dataList[id=910304].title": {
-      "pl": "Piekielny Kurczak 2",
+      "pl": "Hell’s Chicken 2",
       "kr_sha256": "5aba925c71e7178699447c4cae95ba015fe93d9dce0352c738becde597d96142",
-      "en_sha256": "2f3199ded71f9c54bcbc38be20283a38e0fc8d7e4c0c0b17ddbf954ca265c4ce",
-      "origin": "ai"
+      "en_sha256": "2f3199ded71f9c54bcbc38be20283a38e0fc8d7e4c0c0b17ddbf954ca265c4ce"
     },
     "dataList[id=910305].desc": {
-      "pl": "Podzieleni na dwie drużyny Grzesznicy po kolei prezentują swoje potrawy.\nWciąż nie rozumiem, jak zmieniło się to w pojedynek kulinarny…\nTak czy inaczej, do dania zdolnego zadowolić wypaczonego właściciela lokalu jeszcze bardzo im daleko.\nSzczerze mówiąc, nikogo by te potrawy nie zadowoliły…",
+      "pl": "Podzieleni na drużyny Grzesznicy po kolei prezentują swoje dania.\nWciąż nie rozumiem, jak to się zmieniło w pojedynek…\nAle do dania, które zadowoli zniekształconego właściciela, jeszcze daleka droga.\nCo prawda takie dania nie zadowoliłyby nikogo…",
       "kr_sha256": "268b6182cea786c8575e93188004b2a3ae0e3880180995afd5e1e0152b479201",
-      "en_sha256": "a3f711deb202ff71d4fe99df4c5fe41db75b10f279670ed25b95232fac3075a4",
-      "origin": "ai"
+      "en_sha256": "a3f711deb202ff71d4fe99df4c5fe41db75b10f279670ed25b95232fac3075a4"
     },
     "dataList[id=910305].place": {
-      "pl": "Kuchnia baru „U Eunbonga”",
+      "pl": "Kuchnia Baru u Eunbong",
       "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
-      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179",
-      "origin": "ai"
+      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
     },
     "dataList[id=910305].title": {
-      "pl": "Poproszę Danie z Kurczaka",
+      "pl": "Danie z kurczaka, poproszę",
       "kr_sha256": "d64e0a6c26aa43892e9be89c1c92bee513510e5e5bc98da1bd76ba5696de8bc0",
-      "en_sha256": "653cae5e15cff9c93f7c5931a7efd6a3415e4f23ad885016be766adf94a9f49c",
-      "origin": "ai"
+      "en_sha256": "653cae5e15cff9c93f7c5931a7efd6a3415e4f23ad885016be766adf94a9f49c"
     },
     "dataList[id=910306].desc": {
-      "pl": "Podzieleni na dwie drużyny Grzesznicy po kolei prezentują swoje potrawy.\nWciąż nie rozumiem, jak zmieniło się to w pojedynek kulinarny…\nTak czy inaczej, do dania zdolnego zadowolić wypaczonego właściciela lokalu jeszcze bardzo im daleko.\nSzczerze mówiąc, nikogo by te potrawy nie zadowoliły…",
+      "pl": "Podzieleni na drużyny Grzesznicy po kolei prezentują swoje dania.\nWciąż nie rozumiem, jak to się zmieniło w pojedynek…\nAle do dania, które zadowoli zniekształconego właściciela, jeszcze daleka droga.\nCo prawda takie dania nie zadowoliłyby nikogo…",
       "kr_sha256": "268b6182cea786c8575e93188004b2a3ae0e3880180995afd5e1e0152b479201",
-      "en_sha256": "a3f711deb202ff71d4fe99df4c5fe41db75b10f279670ed25b95232fac3075a4",
-      "origin": "ai"
+      "en_sha256": "a3f711deb202ff71d4fe99df4c5fe41db75b10f279670ed25b95232fac3075a4"
     },
     "dataList[id=910306].place": {
-      "pl": "Kuchnia baru „U Eunbonga”",
+      "pl": "Kuchnia Baru u Eunbong",
       "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
-      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179",
-      "origin": "ai"
+      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
     },
     "dataList[id=910306].title": {
-      "pl": "Poproszę Danie z Kurczaka 2",
+      "pl": "Danie z kurczaka, poproszę 2",
       "kr_sha256": "b80916c7afb88c571a1a4268b80a776277d06cadc02a4c1579634faca3c14b1b",
-      "en_sha256": "b036ad291f35769c91fd2c22b874d0b7c89133174224d8e500b7e71b31f0b97c",
-      "origin": "ai"
+      "en_sha256": "b036ad291f35769c91fd2c22b874d0b7c89133174224d8e500b7e71b31f0b97c"
     },
     "dataList[id=910307].desc": {
-      "pl": "Reakcja właściciela lokalu po spróbowaniu potraw nie mogła być gorsza.\nNiewiele też zostało nam kolejnych szans.\nPozostaje już chyba tylko zdać się na najbardziej obiecującego kucharza wśród Grzeszników…?",
+      "pl": "Reakcja właściciela po skosztowaniu była fatalna.\nSzans też zostało już chyba niewiele.\nPozostaje chyba tylko poprosić tego z Grzeszników, kto wydaje się najbardziej obiecujący…?",
       "kr_sha256": "db4a8c31c2fbf4de90935ca271fef139da49851bde21577b9943efd31ef1e582",
-      "en_sha256": "e7a4d86c4b2cfdeb6d042c27657ec3f4dac181cfa9ab8ddaab8b42d751ed9beb",
-      "origin": "ai"
+      "en_sha256": "e7a4d86c4b2cfdeb6d042c27657ec3f4dac181cfa9ab8ddaab8b42d751ed9beb"
     },
     "dataList[id=910307].place": {
-      "pl": "Kuchnia baru „U Eunbonga”",
+      "pl": "Kuchnia Baru u Eunbong",
       "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
-      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179",
-      "origin": "ai"
+      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
     },
     "dataList[id=910307].title": {
-      "pl": "Mistrz Kurzej Kuchni",
+      "pl": "Kurczakowy MasterChef",
       "kr_sha256": "5ca176572bff769ee52f7dd437a0c4c32322a5a72f10825e35b8f3925a5cbcb1",
-      "en_sha256": "383d903724a01e20142f95895f5616b74608f1cec936b305eeb33776dbae9b3e",
-      "origin": "ai"
+      "en_sha256": "383d903724a01e20142f95895f5616b74608f1cec936b305eeb33776dbae9b3e"
     },
     "dataList[id=910308].desc": {
-      "pl": "Reakcja właściciela lokalu po spróbowaniu potraw nie mogła być gorsza.\nNiewiele też zostało nam kolejnych szans.\nPozostaje już chyba tylko zdać się na najbardziej obiecującego kucharza wśród Grzeszników…?",
+      "pl": "Reakcja właściciela po skosztowaniu była fatalna.\nSzans też zostało już chyba niewiele.\nPozostaje chyba tylko poprosić tego z Grzeszników, kto wydaje się najbardziej obiecujący…?",
       "kr_sha256": "db4a8c31c2fbf4de90935ca271fef139da49851bde21577b9943efd31ef1e582",
-      "en_sha256": "e7a4d86c4b2cfdeb6d042c27657ec3f4dac181cfa9ab8ddaab8b42d751ed9beb",
-      "origin": "ai"
+      "en_sha256": "e7a4d86c4b2cfdeb6d042c27657ec3f4dac181cfa9ab8ddaab8b42d751ed9beb"
     },
     "dataList[id=910308].place": {
-      "pl": "Kuchnia baru „U Eunbonga”",
+      "pl": "Kuchnia Baru u Eunbong",
       "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
-      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179",
-      "origin": "ai"
+      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
     },
     "dataList[id=910308].title": {
-      "pl": "Mistrz Kurzej Kuchni",
+      "pl": "Kurczakowy MasterChef",
       "kr_sha256": "5ca176572bff769ee52f7dd437a0c4c32322a5a72f10825e35b8f3925a5cbcb1",
-      "en_sha256": "0287c6d162985610f0633310103fa0ea730f6e55b49237e50440b258c9d90037",
-      "origin": "ai"
+      "en_sha256": "0287c6d162985610f0633310103fa0ea730f6e55b49237e50440b258c9d90037"
     },
     "dataList[id=910309].place": {
-      "pl": "Kuchnia baru „U Eunbonga”",
+      "pl": "Kuchnia Baru u Eunbong",
       "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
-      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179",
-      "origin": "ai"
+      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
     },
     "dataList[id=910309].title": {
-      "pl": "Łagodna Głębia Szefa Kuchni",
+      "pl": "Głębie właściciela: wersja łagodna",
       "kr_sha256": "deb574ab73339ec678ab6fa585ce5c96abf83f14e3ef5003aa9199f8a3597845",
-      "en_sha256": "b57f6963c9ce941a5d6cc5f83333e68ced6a0e7ac45f4730b62684b993614c19",
-      "origin": "ai"
+      "en_sha256": "b57f6963c9ce941a5d6cc5f83333e68ced6a0e7ac45f4730b62684b993614c19"
     },
     "dataList[id=910310].place": {
-      "pl": "Kuchnia baru „U Eunbonga”",
+      "pl": "Kuchnia Baru u Eunbong",
       "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
-      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179",
-      "origin": "ai"
+      "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
     },
     "dataList[id=910310].title": {
-      "pl": "Pikantna Głębia Szefa Kuchni",
+      "pl": "Głębie właściciela: wersja ostra",
       "kr_sha256": "1dbc2a6a81b42f16fa70c9f88f611453c87deba46f81b83d8f38d4142463d5b6",
-      "en_sha256": "1c85c0a94e192ac005865c32883b91bf7f0b2e2b6056d0bd19c9e35febc7d815",
-      "origin": "ai"
+      "en_sha256": "1c85c0a94e192ac005865c32883b91bf7f0b2e2b6056d0bd19c9e35febc7d815"
     }
   }
 }

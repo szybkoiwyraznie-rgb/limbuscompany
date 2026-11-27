@@ -1,202 +1,169 @@
 {
   "entries": {
     "dataList[id=10101].desc": {
-      "pl": "W autobusie panuje niezręczna, złowroga atmosfera. Nadano mi wprawdzie tytuł Kierownika, ale nie mam pojęcia, jak powinienem się tu zachować. Postanowiłem zapytać siedzącego naprzeciwko Grzesznika z owadzią ręką, dokąd właściwie zmierzamy.",
+      "pl": "W autobusie panuje atmosfera niezręczna, a zarazem groźna. Dostałem wprawdzie stanowisko “Kierownika”, ale nie mam pojęcia, co powinienem tu robić. Postanowiłem zapytać siedzącego naprzeciwko Grzesznika z robaczą ręką, dokąd jedziemy.",
       "kr_sha256": "8214addbdcd8561b365064d6593214a84fc610fc7bbb061dc1a07f235078bc9a",
-      "en_sha256": "a4ad0de09e8084790528ff17429f571c79c58069d1841f642b8788fcb2950580",
-      "origin": "ai"
+      "en_sha256": "a4ad0de09e8084790528ff17429f571c79c58069d1841f642b8788fcb2950580"
     },
     "dataList[id=10101].place": {
-      "pl": "Wnętrze Mefistofelesa",
+      "pl": "Na pokładzie Mephistophelesa",
       "kr_sha256": "4d8e8db7ecbd1beffeef4944954c037245114de4988e89d756d7350fe56ca305",
-      "en_sha256": "5a4a4efef2ba3deecd38e4297ae0f5b713a4fb30b4020a1adaf80dd54791b334",
-      "origin": "ai"
+      "en_sha256": "5a4a4efef2ba3deecd38e4297ae0f5b713a4fb30b4020a1adaf80dd54791b334"
     },
     "dataList[id=10101].title": {
       "pl": "Brum-brum",
       "kr_sha256": "3341cbe43e528465289d37b966c52bcd9f5bef4b964acd3600e13d4972491f45",
-      "en_sha256": "e688b50887f49bd3b5f8522e67eb36ee58c54079b5aa4d1ab2cd1d1d166c4da5",
-      "origin": "ai"
+      "en_sha256": "e688b50887f49bd3b5f8522e67eb36ee58c54079b5aa4d1ab2cd1d1d166c4da5"
     },
     "dataList[id=10102].desc": {
-      "pl": "Zmuszony „prośbą” brzmiącą jak groźba, cofnąłem wskazówki zegara, doświadczając raz po raz bólu gorszego niż śmierć. W autobusie zapadła nieprzyjemna cisza, więc sam również trzymałem język za zębami. Obyśmy już w spokoju dotarli do Dystryktu 4…",
+      "pl": "Po prośbie, która brzmiała jak groźba - cofnij zegar - przeszedłem pod rząd kilka męczarni gorszych od śmierci. W autobusie zrobiło się cicho, choć wcale nie przyjemnie, więc i ja postanowiłem trzymać język za zębami. Gdybyśmy tylko tak spokojnie dojechali do Dystryktu 4…",
       "kr_sha256": "660aa76a54803496c35b5ec2bef9c24836ae05c7e8554b58f042c2a39590e9fc",
-      "en_sha256": "baf79b61e8f41606f900db0a1e669105fd39bc9f90a077a558c3e4f498d60594",
-      "origin": "ai"
+      "en_sha256": "baf79b61e8f41606f900db0a1e669105fd39bc9f90a077a558c3e4f498d60594"
     },
     "dataList[id=10102].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10102].title": {
-      "pl": "Czas na Taniec",
+      "pl": "Pora tańca",
       "kr_sha256": "421e050cb5f0bae7e7eb4548ccb2713237c579870fccc19c4b83c1e8a8d15ccc",
-      "en_sha256": "696f8d8d183f70985dc2fefb002f7f7dad29de0a11819ece7d0044b3c83e904e",
-      "origin": "ai"
+      "en_sha256": "696f8d8d183f70985dc2fefb002f7f7dad29de0a11819ece7d0044b3c83e904e"
     },
     "dataList[id=10103].desc": {
-      "pl": "Zaatakowała nas banda oprychów z Zaułków dybiących na autobus. Z jakiegoś powodu zamiast dobijać napastników, układamy ledwie przytomne ciała przed paszczą Mefistofelesa…",
+      "pl": "Napadli na nas zbiry z Zaułków, które upatrzyły sobie autobus. Ale z jakiegoś powodu nie dobijamy ich od razu, tylko zaczynamy układać ich na wpół przytomne ciała przed Mephistophelesem…",
       "kr_sha256": "2048ac3854f8ff3e1d31b3b04f643a4bc3ed42eae975514e3589a021685cae03",
-      "en_sha256": "6b28bee90b9ca3bb4bcf7cc452c46cd688aaa0ea0e43348ede380a34a2cdfff5",
-      "origin": "ai"
+      "en_sha256": "6b28bee90b9ca3bb4bcf7cc452c46cd688aaa0ea0e43348ede380a34a2cdfff5"
     },
     "dataList[id=10103].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10103].title": {
-      "pl": "Pokład Autobusu",
+      "pl": "Pokład autobusu",
       "kr_sha256": "4b9473168842bac0e62d89776c71d3b950f3d9e59dcadc0e5ca58e935c248f05",
-      "en_sha256": "24ce34b363c0a0f77d5c4085b4f83299fa97f6cbdab6ac830a4adcbe11d525f1",
-      "origin": "ai"
+      "en_sha256": "24ce34b363c0a0f77d5c4085b4f83299fa97f6cbdab6ac830a4adcbe11d525f1"
     },
     "dataList[id=10104].desc": {
-      "pl": "Przyglądaliśmy się, jak Mefistofeles pożera zwłoki sprawniej niż sami Grzesznicy. Od pierwszego wejrzenia czułem, że ten autobus kryje tajemnicę, ale czym on właściwie jest? Wygląda na to, że Faust chce coś powiedzieć.",
+      "pl": "Podziwiałem Mephistophelesa, który rozprawiał się z ciałami sprawniej niż Grzesznicy. Od pierwszej chwili czułem, że to nie jest zwyczajny pojazd, ale czym właściwie jest ten autobus? Faust porusza wargami, jakby chciała coś powiedzieć.",
       "kr_sha256": "a57012b571e1c6f3e42b7c5a68ac162c6d9b6ba1d3ded7fcef987aa9de217f26",
-      "en_sha256": "4ad3fcb5507226b2e48554e90d056dfc5857904f6a1b1817c21554d7d5c2ddf2",
-      "origin": "ai"
+      "en_sha256": "4ad3fcb5507226b2e48554e90d056dfc5857904f6a1b1817c21554d7d5c2ddf2"
     },
     "dataList[id=10104].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10104].title": {
       "pl": "Enkefalina",
       "kr_sha256": "27cae99d0deec2dc6d09b673f0f40942ddd614e60111252dd78253adf8f824a4",
-      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0",
-      "origin": "ai"
+      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0"
     },
     "dataList[id=10105].desc": {
-      "pl": "Gdy autobus niemal skończył swój „posiłek”, Vergilius zawołał, że wkrótce zjawi się gość. Ciekawe, kto potowarzyszy nam w tej mało przyjemnej podróży.",
+      "pl": "Kiedy autobus mniej więcej skończył “posiłek”, Vergilius oznajmił, że zaraz zjawi się gość. Ciekawe, kto dołączy do tej niezbyt przyjemnej podróży.",
       "kr_sha256": "50e0c822bb74905e596f1d02a563a7f7e6c0e545ee068f9da70ca05bd2319cc9",
-      "en_sha256": "39f5add62a00f4e365d54b7eb233bb3ae46c1a0ab7cb002564fee8a965cd3d87",
-      "origin": "ai"
+      "en_sha256": "39f5add62a00f4e365d54b7eb233bb3ae46c1a0ab7cb002564fee8a965cd3d87"
     },
     "dataList[id=10105].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10105].title": {
       "pl": "Yuri",
       "kr_sha256": "4b585bc5692d408917f254dbf33a8234c51116377697bd327ca904bd78243c7c",
-      "en_sha256": "5af45e38fe555dd5985c04274c00012c3e9ff3360b91ae06ff90bc7183b78144",
-      "origin": "ai"
+      "en_sha256": "5af45e38fe555dd5985c04274c00012c3e9ff3360b91ae06ff90bc7183b78144"
     },
     "dataList[id=10106].desc": {
-      "pl": "Naszym gościem okazała się Fikserka imieniem Yuri, dawna pracownica Lobotomy Corporation. Widok autobusu pożerającego zwłoki nie zrobił na niej najmniejszego wrażenia — musiała w życiu niejedno przejść. Nagle jednak, spojrzawszy na mapę, z niepokojem zerknęła w stronę fotela kierowcy…",
+      "pl": "Gościem okazała się Fikserka imieniem Yuri, która niegdyś pracowała w Lobotomy Corporation. Patrzyła spokojnie, jak autobus pożera trupy, jakby znała ten widok, więc musiała sporo przejść. I właśnie ta Yuri, zerknąwszy na mapę, nagle zaczęła nerwowo spoglądać w stronę fotela kierowcy…",
       "kr_sha256": "bb7d7d7179d9b12eeee22550eee28db809d9079646a3e261c6af932d43f4e950",
-      "en_sha256": "350ebf38af9ea46251f434978ff0499e355dc6f74cf7261864589d0ca6992d99",
-      "origin": "ai"
+      "en_sha256": "350ebf38af9ea46251f434978ff0499e355dc6f74cf7261864589d0ca6992d99"
     },
     "dataList[id=10106].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10106].title": {
       "pl": "Mapa",
       "kr_sha256": "82c5fe62d75b8c38b81015f927f9c24bcff8ca9c33cd1b63490651ff1b81f7d6",
-      "en_sha256": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f",
-      "origin": "ai"
+      "en_sha256": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
     },
     "dataList[id=10107].desc": {
-      "pl": "Może to i dobrze, że wyszło to na jaw już teraz… Odkryliśmy szokujący fakt: Charon kompletnie nie ma orientacji w terenie. Nie mogąc na to patrzeć, Yuri zakasała rękawy, by nauczyć ją czytać mapę, a po chwili naturalnie dołączył do nich Sinclair. Trochę hałasują, ale… miło na nich popatrzeć.",
+      "pl": "Może i dobrze, że wyszło to już teraz… ale odkryliśmy wstrząsającą prawdę: Charon nie ma za grosz orientacji w terenie. Yuri nie mogła na to patrzeć i zakasała rękawy, oznajmiając, że nauczy Charon czytać mapę, a Sinclair, który też nie mógł na to patrzeć, jakoś sam się przyłączył. Trochę przy tym hałasu… ale miło popatrzeć.",
       "kr_sha256": "e857f6eb3c6771a7bb7583b9aad688683361d909052539f34271f07f1b482c10",
-      "en_sha256": "1abb4f68bcd2e87d614cdca52e50e8f820665f61ac05de4c939a55fb618782a7",
-      "origin": "ai"
+      "en_sha256": "1abb4f68bcd2e87d614cdca52e50e8f820665f61ac05de4c939a55fb618782a7"
     },
     "dataList[id=10107].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10107].title": {
-      "pl": "Trio",
+      "pl": "Trójka",
       "kr_sha256": "171cd716f4b2d57d4ac59b43c0fcccd6f89d355a433e61add3dc2bbbe25d45ff",
-      "en_sha256": "a16cd165e1b7649d9fcb538e3e5d0153e43f7d953fdcc9828df401022b16dc07",
-      "origin": "ai"
+      "en_sha256": "a16cd165e1b7649d9fcb538e3e5d0153e43f7d953fdcc9828df401022b16dc07"
     },
     "dataList[id=10108].desc": {
-      "pl": "Wyglądająca przez okno na Zaułki Rodia nagle wzdrygnęła się z obrzydzeniem. Podążywszy za jej wzrokiem, ujrzałem grupkę ludzi o owadzich głowach. W tej samej chwili stężała również twarz Gregora — lecz malowało się na niej zupełnie inne uczucie niż wstręt Rodii.",
+      "pl": "Rodion, która wyglądała przez okno na Zaułki, nagle się wzdrygnęła. Spojrzałem tam, gdzie patrzyła: stała tam grupka ludzi z owadzimi głowami. W mgnieniu oka twarz Gregora też stężała. Ale jego mina wyraźnie różniła się od obrzydzenia, jakie czuła Rodion.",
       "kr_sha256": "8117100ea62e13755de0a5861c946cad023f8f90b2f8f0e4b304f322c7af2955",
-      "en_sha256": "44f7a791a471ce77e8c9a48130493ce6931d40847b32bd8dec7a38bf8925c79f",
-      "origin": "ai"
+      "en_sha256": "44f7a791a471ce77e8c9a48130493ce6931d40847b32bd8dec7a38bf8925c79f"
     },
     "dataList[id=10108].place": {
-      "pl": "Zaułki Dystryktu 4",
+      "pl": "Gdzieś w Zaułkach Dystryktu 4",
       "kr_sha256": "635512f5e57cccd26e0861519096edba91ead71547638700c243b07e0498b8d3",
-      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5",
-      "origin": "ai"
+      "en_sha256": "06dffa1597b7c0d47f6ebe1cac31cac96f9fbd7d67a61b6c6edbc2a645376cb5"
     },
     "dataList[id=10108].title": {
-      "pl": "Robactwo",
+      "pl": "Szkodniki",
       "kr_sha256": "b8b105a5d59b354c732ce2b107fb6a7bce4c2d2ad39604fc6480e40c48db7670",
-      "en_sha256": "3e0bb03884dfa1b9a22cb060e604808073da98722bc40ef0c6c297de98b94e18",
-      "origin": "ai"
+      "en_sha256": "3e0bb03884dfa1b9a22cb060e604808073da98722bc40ef0c6c297de98b94e18"
     },
     "dataList[id=10109].desc": {
-      "pl": "Po kilku utarczkach dotarliśmy przed dawną filię Lobotomy Corporation. Przy wejściu czekała już na nas grupka nieznajomych…",
+      "pl": "Po kilku zamieszaniach dotarliśmy do dawnej filii Lobotomy Corporation. Przy wejściu zebrali się nieznajomi, jakby na nas czekali…",
       "kr_sha256": "5e132e563479e9c66c9658d06955c2c051c1fc18beed6df8669cae331b49298f",
-      "en_sha256": "ec418d25ea0b613b9bf04421a611343ec50441dbcadf69e8a0e21a7bc0a37386",
-      "origin": "ai"
+      "en_sha256": "ec418d25ea0b613b9bf04421a611343ec50441dbcadf69e8a0e21a7bc0a37386"
     },
     "dataList[id=10109].place": {
-      "pl": "Dystrykt 4 — przed filią L Corp.",
+      "pl": "Dystrykt 4 - przed filią L Corp.",
       "kr_sha256": "8f64f684248dbaaa7e2a24d3ab4c807f738380fdd14cdf2d6b7419431c369e9b",
-      "en_sha256": "e0827218b08dcaac24c54cf0c4910af5493b249eb73512bcffaa1682229aa649",
-      "origin": "ai"
+      "en_sha256": "e0827218b08dcaac24c54cf0c4910af5493b249eb73512bcffaa1682229aa649"
     },
     "dataList[id=10109].title": {
       "pl": "Przewodnicy",
       "kr_sha256": "e2e1efb2ea75dbd41cb4d000a83fa7df44e52169b0618298e31bbe9330e1e97e",
-      "en_sha256": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff",
-      "origin": "ai"
+      "en_sha256": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
     },
     "dataList[id=10110].desc": {
-      "pl": "Tuż przed wejściem do filii Lobotomy Corp. Vergilius niespodziewanie odciągnął mnie na bok. Wygląda na to, że chce porozmawiać w cztery oczy.",
+      "pl": "Tuż przed wejściem do filii L Corp. Vergilius nagle dyskretnie mnie przywołał. Wygląda na to, że chce ze mną porozmawiać w cztery oczy.",
       "kr_sha256": "aaca72e4ac819c5177f34d69150a310fe787d58df0ca0dac5d7059993780d0e1",
-      "en_sha256": "7f81470d86f8b1df6ed8363917cdd834cd380b0186932bc8aa64eebb227080b8",
-      "origin": "ai"
+      "en_sha256": "7f81470d86f8b1df6ed8363917cdd834cd380b0186932bc8aa64eebb227080b8"
     },
     "dataList[id=10110].place": {
-      "pl": "Dystrykt 4 — przed filią L Corp.",
+      "pl": "Dystrykt 4 - przed filią L Corp.",
       "kr_sha256": "8f64f684248dbaaa7e2a24d3ab4c807f738380fdd14cdf2d6b7419431c369e9b",
-      "en_sha256": "e0827218b08dcaac24c54cf0c4910af5493b249eb73512bcffaa1682229aa649",
-      "origin": "ai"
+      "en_sha256": "e0827218b08dcaac24c54cf0c4910af5493b249eb73512bcffaa1682229aa649"
     },
     "dataList[id=10110].title": {
-      "pl": "Fikserzy 8. Stopnia",
+      "pl": "Fikserzy 8. stopnia",
       "kr_sha256": "4b6c8f3e4bbd2a95e81efae99f699632086a91ba0ca4e4fb9718266ad251adf1",
-      "en_sha256": "aa7e9c2d203fa2f7cbaeace06ac3e20cbb33b87037408c9c1b0c0e5dd4f51a7c",
-      "origin": "ai"
+      "en_sha256": "aa7e9c2d203fa2f7cbaeace06ac3e20cbb33b87037408c9c1b0c0e5dd4f51a7c"
     },
     "dataList[id=10111].desc": {
-      "pl": "Zeszliśmy pod ziemię. Wśród zaścielających korytarze zwłok unosił się nieznośny odór i roiło się od robactwa. Co tu się właściwie wydarzyło? I czy zdołamy wyjść stąd cało ze Złotą Gałęzią?",
+      "pl": "Zeszliśmy pod ziemię. W tym miejscu, usłanym trupami, panował straszny smród i roiło się od robactwa. Co tu się wydarzyło? I czy zdołamy bez szwanku odbić Złotą Gałąź?",
       "kr_sha256": "86e55bb7ad88ba97fcb1e0d4dcaff828bcb2b92e99e6aedf83ed8b32a50e3882",
-      "en_sha256": "512ffba2a0f898d21023a18a27a87b04ebcfe38595d6c23ccb8730f3495db28d",
-      "origin": "ai"
+      "en_sha256": "512ffba2a0f898d21023a18a27a87b04ebcfe38595d6c23ccb8730f3495db28d"
     },
     "dataList[id=10111].place": {
-      "pl": "Dystrykt 4 — wnętrze filii L Corp.",
+      "pl": "Dystrykt 4 - gdzieś w filii L Corp.",
       "kr_sha256": "89340384f0008fde25f792dd6ed3686b241e1cff8c20b9e99cb9226074fbc1cc",
-      "en_sha256": "60ae73a20e9052eac676c3effb46f5786e05231f97231b7ace8ea3aeebc7ec46",
-      "origin": "ai"
+      "en_sha256": "60ae73a20e9052eac676c3effb46f5786e05231f97231b7ace8ea3aeebc7ec46"
     },
     "dataList[id=10111].title": {
       "pl": "Filia D-02",
       "kr_sha256": "b57e4b018ea4ac20548376902e153d2cbe21ec840116b09d1e8b13e5a4699a24",
-      "en_sha256": "631c635f1e959ae71f64889dafca979fa56631950c09ec97b718d0355adbe677",
-      "origin": "ai"
+      "en_sha256": "631c635f1e959ae71f64889dafca979fa56631950c09ec97b718d0355adbe677"
     }
   }
 }

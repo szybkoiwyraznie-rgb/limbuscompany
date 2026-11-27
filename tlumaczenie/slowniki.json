@@ -123,10 +123,20 @@
         "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
         "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
       },
+      "K사 번화가 골목": {
+        "pl": "Zaułek w śródmieściu Gniazda K Corp.",
+        "kr_sha256": "ebef4d96aa23a0babf005dcc620fee4a8265a03e4e777af39fba15e8d3e445f0",
+        "en_sha256": "659c410a38fcabaad9094eb83f97fa77e3f12263d62450f28f85a24c2dc63040"
+      },
       "검은 숲": {
         "pl": "Ciemny las",
         "kr_sha256": "b017d5e0b6a888a650214e2661f74371526438f9480b5e1a7cdb1cc030f1045f",
         "en_sha256": "4f72ee362d0362b4853952ad3934334fdaaf303f1a3a6bef3d4da298110be721"
+      },
+      "과거의 은봉이네 호프집": {
+        "pl": "Bar u Eunbong: przeszłość",
+        "kr_sha256": "efdb18bc2ecc213f70267b56a21d139d8fdc0b2e0544a96d44999d617f053b0c",
+        "en_sha256": "056e2c93119d65e0e1bc8d13716fd85f52b50879c6e54df2f177d14d1212a74a"
       },
       "교실": {
         "pl": "Klasa",
@@ -157,6 +167,16 @@
         "pl": "Na pokładzie Mephistophelesa",
         "kr_sha256": "a3064f2606c0d998f9aef2cb12b6518b9481c365a1ac5b60a98ff284bff19685",
         "en_sha256": "a8d5f19555ad0bd2be4274f16f1301b15dc2ee845ddcdade3130106a8e3077bb"
+      },
+      "보살 치킨": {
+        "pl": "Bodhisattva Chicken",
+        "kr_sha256": "186c9db036c2829c81840e9d94f53d78a6b4d21a523f5d42070ac1498fdaf8d1",
+        "en_sha256": "fefeac81c68a946d4e7e1394ab703696a3165c059349ce28fc525c186b5847f7"
+      },
+      "보살 치킨 앞": {
+        "pl": "Przed Bodhisattva Chicken",
+        "kr_sha256": "ec3f245e221fb07a1adc47cd4b362d692281d5a96a2e5a6d52945422db423953",
+        "en_sha256": "fefeac81c68a946d4e7e1394ab703696a3165c059349ce28fc525c186b5847f7"
       },
       "소란스러운 교실": {
         "pl": "Rozwrzeszczana klasa",
@@ -192,6 +212,21 @@
         "pl": "W samym środku Wojny Dymnej",
         "kr_sha256": "145b724ff2c31693168acc456d07d30a43de927614fd3845eef8c89ce77b34cc",
         "en_sha256": "5519ed88f185b0b05406351f9bb54ae480e6975aacb609125acc4e14dad7b4dd"
+      },
+      "은봉이네 호프집": {
+        "pl": "Bar u Eunbong",
+        "kr_sha256": "6835aca744362ce23067221e88c5a25264872afe07c1cd6ce7dbe307cd6c302a",
+        "en_sha256": "25a694520425e4eccc7d2180418da5e9c144e71864bd7f8721e84953d1f4bc5e"
+      },
+      "은봉이네 호프집 앞": {
+        "pl": "Przed Barem u Eunbong",
+        "kr_sha256": "1ff632203992245f674897bc0ab654232c3606831987ab44ea4b7a5a94dd931c",
+        "en_sha256": "bbfcf3b3d96d976f73f3cef440485e0a50535f498c9b25e05af7f92028f03239"
+      },
+      "은봉이네 호프집 주방": {
+        "pl": "Kuchnia Baru u Eunbong",
+        "kr_sha256": "8e68730598d5a5794096adb279a3bde07efe6c683bcd022e5517ca1cbd3c8c7d",
+        "en_sha256": "53e398f680d285d968ca6f22338ed5fc38acc1e2da149d6c5b2068296fcde179"
       },
       "이웃이 잠든 얼음 성": {
         "pl": "Lodowy zamek, w którym śpią sąsiedzi",
@@ -335,6 +370,11 @@
         "kr_sha256": "5564363d88f7fa9a9d0367d9c4d0e500b55b761080e952e3f0e281df699b5184",
         "en_sha256": "aade0f94467d1f761788ee97e98c45564df97c51daa74e30bf30ec0684b8bc3c"
       },
+      "그레고르 & 료슈": {
+        "pl": "Gregor i Ryōshū",
+        "kr_sha256": "ed2e4a037d855751a18907ebd3f49dd058ae3dd79979c6c69e180b58c755617b",
+        "en_sha256": "a709de26a1efb074a43766200c69941e85bc430ec4c17cbed24127119735fbf4"
+      },
       "기다리는 사람들": {
         "pl": "Ludzie w kolejce",
         "kr_sha256": "38fc9d941a2fbef32dd76d652873d993d7d3e9dc51411c00cac818d34dd67864",
@@ -395,6 +435,16 @@
         "kr_sha256": "5ff279460941e1711e924afba614af6c1c1cc1b8e0135e88612fbadd9fa15558",
         "en_sha256": "c06770b58143dcc98a29c4fb1709396909e0107def6d36bf503251543bd0506d"
       },
+      "닭머리 K사 검문소 요원": {
+        "pl": "Kurogłowy agent punktu kontrolnego K Corp.",
+        "kr_sha256": "aba8c6a2cd82ac158240359b079d056f1473e46d148f537f3fa3bb9aef1cef56",
+        "en_sha256": "7548c96c0bc03c68cb470844b1df3556adabef2ead776d09ebeb79bf34eeb8b9"
+      },
+      "닭머리 사람": {
+        "pl": "Kurogłowy",
+        "kr_sha256": "7f8fb1b48a02db1e5a429d7bbbda7c278f86825d8905d7151a5a9940ec748267",
+        "en_sha256": "d007f2ca678034fad4526c361afe5791bc139adccc957182fe4d2448d650c335"
+      },
       "대가리 불한당": {
         "pl": "Herszt zbirów",
         "kr_sha256": "9299f16a48a0198532ae20fec9ea78428591dd1c024bcd9f0c50adaf2c888c83",
@@ -410,6 +460,11 @@
         "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
         "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e"
       },
+      "둥지 주민": {
+        "pl": "Mieszkaniec Gniazda",
+        "kr_sha256": "63e5e4f6276a4c33e64ab420f7ac063568e8cc40533421d3254d02492df497cc",
+        "en_sha256": "7a9e04f9f7f5c2e8aff1d07032f52da6a1331c0c94538025ac1aaf3c0b78d2ad"
+      },
       "몸 푸는 철공회 조직원": {
         "pl": "Rozgrzewający się członek Tieqiu",
         "kr_sha256": "c7d4a4a74b214e1e34e9b67090ab25ae045a38c6dc2032caa8696467beb1157c",
@@ -419,6 +474,11 @@
         "pl": "Vergilius",
         "kr_sha256": "c17124f4fb2ab4276f551a7e1bf05b8cc4c900b7ae180a011d42f66344f5aea9",
         "en_sha256": "e449e72b3014d1b6ab496b37e0d75809028066486a9cf88c7b7a4636a88e568c"
+      },
+      "보살 치킨 사장": {
+        "pl": "Właściciel Bodhisattva Chicken",
+        "kr_sha256": "5e8e4f5e88d2eb1d14cae297fc0666198fbe97c8727829072ae64bb77e44e642",
+        "en_sha256": "0bccc4f2b0e40467affc92601c062e09e75efead9260ebebe6fb6cc839ff2304"
       },
       "볼모가 된 빚쟁이": {
         "pl": "Dłużnik-zakładnik",
@@ -434,6 +494,21 @@
         "pl": "Lew",
         "kr_sha256": "df410774e3dd128a2f39a456f9658b885f42e48fa7adaf0d9509a9c3461a23d1",
         "en_sha256": "ffee89e3ddeb59c589c78e13fdde6702ab73bc0e3510fdaede786890360d3a48"
+      },
+      "사장 엄마": {
+        "pl": "Mama właściciela",
+        "kr_sha256": "f34546cbc2d2243b82a4aa29c61f3fbc5590c60683678817ab2ce2e4dc3cc392",
+        "en_sha256": "0e68a59de8efc424a859501accaa6808cabc5b992d3b51f13a8129be28fc51b6"
+      },
+      "삼조": {
+        "pl": "Samjo",
+        "kr_sha256": "25b591a91cb725caf6e98866641de240a43a37481d7bce2b67e73032a5fef4ce",
+        "en_sha256": "74de268e9ae9bc75054aab6cecea65ad1905f106e9527986d24ccae146b9f2d5"
+      },
+      "생닭": {
+        "pl": "Surowy kurczak",
+        "kr_sha256": "3f6c6874f8828b44976670d0ba09812de8d44ec42c646b85ba34521486f2516d",
+        "en_sha256": "7d60a77019af356c0a50585dcb2d46d63eda8dfc5714240d2e0cf803f6d41cab"
       },
       "석상 머리": {
         "pl": "Posągowa głowa",
@@ -539,6 +614,21 @@
         "pl": "Yuri",
         "kr_sha256": "4b585bc5692d408917f254dbf33a8234c51116377697bd327ca904bd78243c7c",
         "en_sha256": "5af45e38fe555dd5985c04274c00012c3e9ff3360b91ae06ff90bc7183b78144"
+      },
+      "은봉이네 호프집 사장": {
+        "pl": "Właściciel Baru u Eunbong",
+        "kr_sha256": "a87334c5755f325d707cc10f1748f5fce0b7849f50d039179d27b090caadc861",
+        "en_sha256": "116b47910fb24ef9f5d9f519bf199f5e8ce9b258b37c44ae3d0c82ee32e1ddaf"
+      },
+      "은봉이네 호프집 주인": {
+        "pl": "Właściciel Baru u Eunbong",
+        "kr_sha256": "8cfaf0d19288640d1f238de758a2ebdcabc0aff22d7ce8951cfd70662590609b",
+        "en_sha256": "116b47910fb24ef9f5d9f519bf199f5e8ce9b258b37c44ae3d0c82ee32e1ddaf"
+      },
+      "은봉이네 호프집 주인?": {
+        "pl": "Właściciel Baru u Eunbong?",
+        "kr_sha256": "e63ba07d2bb2a3900f9203b1f0af9808d30f233fa382abb5b6ce8148a8db4818",
+        "en_sha256": "1c4848adae590f885df0eff93b4922025f4b7c1a8f8f21453a7ff1d66584afef"
       },
       "의아한 패잔병": {
         "pl": "Zdziwiony weteran",
@@ -664,6 +754,11 @@
         "pl": "Mariachi Alegre",
         "kr_sha256": "d94e77770ed5db285ae13154d2538ba4fb86c853c6d1c35ece7e0dcc7eefce32",
         "en_sha256": "2ef6d87593768625ed7443c4831870af7f5f90dee9ef8564e2b9ba9ead4ba741"
+      },
+      "히스클리프?": {
+        "pl": "Heathcliff?",
+        "kr_sha256": "03d94d276394bbd701e76eaed74ff9e7deaaa0ab1905d1beba469d2b3127fbd1",
+        "en_sha256": "a08926f6b09fb5a48945a33e13ef51a0ae63eabac25e5058d15047c23050ffb6"
       }
     },
     "title": {
@@ -716,6 +811,16 @@
         "pl": "Punkt kontrolny K Corp.",
         "kr_sha256": "7e185e9e77dc4bcb0684f7aef5196df55067c0baef3678b084142e1cd277c8ad",
         "en_sha256": "f826c30ec7219828a97c4b3fd8069d7ad8405b63bfaf79ae7a82046c9cd8be43"
+      },
+      "K사 식량자원개량부": {
+        "pl": "Dział Ulepszania Zasobów Żywności K Corp.",
+        "kr_sha256": "db9e5af040a7429ca33320fc5e935e65c8feb41def54f1d5c02a87e89ddc06f7",
+        "en_sha256": "d6fdf446cf309ebc316c221a3cd9e6d613faa7afc3eea000a073476d9e543ca3"
+      },
+      "K사 식량자원개량부?": {
+        "pl": "Dział Ulepszania Zasobów Żywności K Corp.?",
+        "kr_sha256": "9073601431b22edb3b2f84bf6b3f6abae46be4a77e5eb53a81d2251bbeac886a",
+        "en_sha256": "d3f3e9426e0744940da471e0873b6ff5b5256e42838d6169bce432a89d69a170"
       },
       "LCCA": {
         "pl": "LCCA",
@@ -782,6 +887,16 @@
         "kr_sha256": "4a4042bc87939945c4ea596a991b7715e55dc6d2cd79591a7ae7b46feb493a05",
         "en_sha256": "fbc61a55c6bcf22630477ed7963bcc58e3d438ea06dfd919e3b97a9dc3116563"
       },
+      "뒤틀린 것": {
+        "pl": "Zniekształcony",
+        "kr_sha256": "ca7db6d2ff4a34efa3bc7d8a282f8596e978ab790e0926a0281b523db9d771f6",
+        "en_sha256": "2345de5fda7f108cc5ead333e744a09e1f14bd364b378c2e52d9d81a4809a9f6"
+      },
+      "뒤틀린 것?": {
+        "pl": "Zniekształcony?",
+        "kr_sha256": "3dbca361bb46fa0ac59c61a5a3add7aab6fac4130728064f15d662f391a3a5c5",
+        "en_sha256": "c0214bb9306ad2dac802a6a20b7d4a49fa25f29b6b25551d390e13a663b0f7d4"
+      },
       "마리아치": {
         "pl": "Los Mariachis",
         "kr_sha256": "43565b0d40551cdc91361758e6374c090e6ad835af4f4e560a74857f2f4d6e82",
@@ -797,20 +912,45 @@
         "kr_sha256": "158c907ec4d671a645224f4d60b04e75d224aa7e8f9af6842382e49a66ab40f2",
         "en_sha256": "fe9a818508a1fcc0d8ff1e47a0eaaffafb8961de4532a096c6616b5c2a64e52d"
       },
+      "보살 치킨": {
+        "pl": "Bodhisattva Chicken",
+        "kr_sha256": "186c9db036c2829c81840e9d94f53d78a6b4d21a523f5d42070ac1498fdaf8d1",
+        "en_sha256": "fefeac81c68a946d4e7e1394ab703696a3165c059349ce28fc525c186b5847f7"
+      },
       "생존자?": {
         "pl": "Ktoś ocalały?",
         "kr_sha256": "4341d0b31307d70f5ebe926130b079d797bfa6fa1984f298d98c9990f6849adc",
         "en_sha256": "3d25ccdc7e898a00d09724e49f2b5a252906a83927929a133faa106698a3db2d"
+      },
+      "수감자들": {
+        "pl": "Grzesznicy",
+        "kr_sha256": "cbae505661522f29a3dcac715fdad16bf28b2fc08c55f2d821e71af366d15fe2",
+        "en_sha256": "7064ce559a3edb0f063f7d69ad8a1513fff0eb1f7fcf29f5f7a8002435958356"
       },
       "신비로운 전학생": {
         "pl": "Tajemniczy nowy uczeń",
         "kr_sha256": "8874760d55359f9455d8ec82470153bcdde129bdba7ea4378da00165478ffbae",
         "en_sha256": "83c726de083fb9c312ff54e4e5b7cfd538c342de177a887a111c175b81040c28"
       },
+      "요리사": {
+        "pl": "Kucharze",
+        "kr_sha256": "c4b65734920ac48c96986b0df4a312291bdd8d8a6581de320db3cc0970bc3121",
+        "en_sha256": "13ea9c8bb2cd52af0b6872c848566db35a9b137a23f5f67b26314f3089b0df94"
+      },
       "유로지비": {
         "pl": "Jurodiwi",
         "kr_sha256": "cf1fdffec79754bcab3cc6a189647bafa1fa350d28cdd66ede9a41ae0f99ea2e",
         "en_sha256": "7dfa5f4a1f0901b9a31e1079138b5637468e47db1bb07aa2d47043f478a46d75"
+      },
+      "은봉이네 호프집": {
+        "pl": "Bar u Eunbong",
+        "kr_sha256": "6835aca744362ce23067221e88c5a25264872afe07c1cd6ce7dbe307cd6c302a",
+        "en_sha256": "25a694520425e4eccc7d2180418da5e9c144e71864bd7f8721e84953d1f4bc5e"
+      },
+      "은봉이네 호프집?": {
+        "pl": "Bar u Eunbong?",
+        "kr_sha256": "e5767a65be9e367a38f883e36856f0f0e084c565c12d73791dff35c733bde11a",
+        "en_sha256": "ed65e3680cd758507137a24201df6de353f3df555de1969ed8a2cd7b4d850645"
       },
       "철공회": {
         "pl": "Ekipa Tieqiu",

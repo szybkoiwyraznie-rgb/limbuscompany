@@ -1707,8 +1707,7 @@
     "dataList[id=mainui_main_enkephalin].content": {
       "pl": "Enkefalina",
       "kr_sha256": "27cae99d0deec2dc6d09b673f0f40942ddd614e60111252dd78253adf8f824a4",
-      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0",
-      "origin": "ai"
+      "en_sha256": "48baa2233ba6aa1e70556bfebd7ae19c6ca1c3316d6b847921a035e2fa6164f0"
     },
     "dataList[id=mainui_main_enkephalin_Box].content": {
       "pl": "Skrzynka Enkefaliny",

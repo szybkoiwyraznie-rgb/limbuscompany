@@ -3,8 +3,7 @@
     "dataList[id=EventTitleText_9010].title": {
       "pl": "Notatki Dantego",
       "kr_sha256": "04e24960d9b309a22940848a0049594d3fcd5f1c71d4909dd031c5403accb75a",
-      "en_sha256": "f56a75ceb302512603fe1ff522f04084ab5738a710680d266b308ddffba74150",
-      "origin": "ai"
+      "en_sha256": "f56a75ceb302512603fe1ff522f04084ab5738a710680d266b308ddffba74150"
     },
     "dataList[id=EventTitleText_9011].title": {
       "pl": "O Pokojach za Tylnymi Drzwiami",
@@ -81,20 +80,17 @@
     "dataList[id=STORY_901001].title": {
       "pl": "Zapiski Dantego",
       "kr_sha256": "8249a6449a8393698cf97a7e0a44cba5e531f158e40510c3e5f96b0fd17559fb",
-      "en_sha256": "bf7152261fefc5fa90471e4568cde163bfbe399c5e8f89e3884586f1c9b42481",
-      "origin": "ai"
+      "en_sha256": "bf7152261fefc5fa90471e4568cde163bfbe399c5e8f89e3884586f1c9b42481"
     },
     "dataList[id=STORY_901002].title": {
-      "pl": "Tylne Drzwi Autobusu",
+      "pl": "Tylne Drzwi autobusu",
       "kr_sha256": "2b603748dca02245a92775b2fae548de470d2892ed26ac2f07bd7c59c126f064",
-      "en_sha256": "df9f60a992ebdaca755a916643b98e0b3bf43caeeaa05078697948abdfdfdde8",
-      "origin": "ai"
+      "en_sha256": "df9f60a992ebdaca755a916643b98e0b3bf43caeeaa05078697948abdfdfdde8"
     },
     "dataList[id=STORY_901003].title": {
-      "pl": "Za Korytarzem Autobusu",
+      "pl": "W głębi Korytarza autobusu",
       "kr_sha256": "38b98a30b0f2e1a1c8bf1896510af4f769f417b299affead578c01959d12e5bb",
-      "en_sha256": "d1c6e1152c0109b767a3b89deb9ecae5b8d9624cc6ade67095797123d01504f3",
-      "origin": "ai"
+      "en_sha256": "d1c6e1152c0109b767a3b89deb9ecae5b8d9624cc6ade67095797123d01504f3"
     },
     "dataList[id=STORY_901004].title": {
       "pl": "O Pokojach za Tylnymi Drzwiami",

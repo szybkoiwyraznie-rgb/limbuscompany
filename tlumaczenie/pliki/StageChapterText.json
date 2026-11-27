@@ -3,344 +3,287 @@
     "dataList[id=chapter_d_100].area": {
       "pl": "Dystrykt 4",
       "kr_sha256": "f7b55631375c91f7ddcf3b44d23aac264d0f1241c3adff655c969310c8aae8c8",
-      "en_sha256": "4f970d32b3d07c00ee9e68a97a790d6ef64a59f286e573218b56b4e61ab115f1",
-      "origin": "ai"
+      "en_sha256": "4f970d32b3d07c00ee9e68a97a790d6ef64a59f286e573218b56b4e61ab115f1"
     },
     "dataList[id=chapter_d_100].chapter": {
       "pl": "Prolog",
       "kr_sha256": "aa7f2f091628596f6fcade811fba524200a8a4f02476a5707ad7054c0cc8624b",
-      "en_sha256": "eb7f661e0d35afaf03a56278d2f5fa34012445f759914e0bd818612fd7411a2b",
-      "origin": "ai"
+      "en_sha256": "eb7f661e0d35afaf03a56278d2f5fa34012445f759914e0bd818612fd7411a2b"
     },
     "dataList[id=chapter_d_100].chaptertitle": {
       "pl": "Selva Oscura",
       "kr_sha256": "b7969f1ea9ec9dcbd17e2d09b0fc8310a037df9633b8585b630b47fa29e6c33e",
-      "en_sha256": "0b6c48021b4bc8615fc80f35a42ad9d68bec517f5ad7befa429425bad06c6648",
-      "origin": "ai"
+      "en_sha256": "0b6c48021b4bc8615fc80f35a42ad9d68bec517f5ad7befa429425bad06c6648"
     },
     "dataList[id=chapter_d_100].company": {
       "pl": "D Corp.",
       "kr_sha256": "b11743ec78aca66ac5ca2fb37fb37a3f13d03237d90a8009534051fa2a8a75bf",
-      "en_sha256": "9ee097269babc601ab2129c7294fbec1d5c04ecacad6a714591375398b8ffb28",
-      "origin": "ai"
+      "en_sha256": "9ee097269babc601ab2129c7294fbec1d5c04ecacad6a714591375398b8ffb28"
     },
     "dataList[id=chapter_d_101].area": {
       "pl": "Dystrykt 4",
       "kr_sha256": "f7b55631375c91f7ddcf3b44d23aac264d0f1241c3adff655c969310c8aae8c8",
-      "en_sha256": "4f970d32b3d07c00ee9e68a97a790d6ef64a59f286e573218b56b4e61ab115f1",
-      "origin": "ai"
+      "en_sha256": "4f970d32b3d07c00ee9e68a97a790d6ef64a59f286e573218b56b4e61ab115f1"
     },
     "dataList[id=chapter_d_101].chapter": {
       "pl": "Canto I",
       "kr_sha256": "e63188a6c5a42780f4f48f09ff2f43024f802310c4c71d16c6ed4ade476323e5",
-      "en_sha256": "56556e779c92a4e8c9299908a74447301c9d404a74847940f244345a09416a37",
-      "origin": "ai"
+      "en_sha256": "56556e779c92a4e8c9299908a74447301c9d404a74847940f244345a09416a37"
     },
     "dataList[id=chapter_d_101].chaptertitle": {
       "pl": "Nieprzynależny",
       "kr_sha256": "5599ee30344196b39a3677af7ecf0a310c7407282aa0ef3374bc67fb39bcffcc",
-      "en_sha256": "70e752c2c53d0fb3eaa48b6026a9973522099fb767e15f19400ed1e521e76354",
-      "origin": "ai"
+      "en_sha256": "70e752c2c53d0fb3eaa48b6026a9973522099fb767e15f19400ed1e521e76354"
     },
     "dataList[id=chapter_d_101].company": {
       "pl": "D Corp.",
       "kr_sha256": "b11743ec78aca66ac5ca2fb37fb37a3f13d03237d90a8009534051fa2a8a75bf",
-      "en_sha256": "9ee097269babc601ab2129c7294fbec1d5c04ecacad6a714591375398b8ffb28",
-      "origin": "ai"
+      "en_sha256": "9ee097269babc601ab2129c7294fbec1d5c04ecacad6a714591375398b8ffb28"
     },
     "dataList[id=chapter_h_108].area": {
       "pl": "Dystrykt 8",
       "kr_sha256": "e3851e967f4ad82dce2f2aceb01e73cf515b2f98cfd95b58b18c47ba6f40eaac",
-      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0",
-      "origin": "ai"
+      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0"
     },
     "dataList[id=chapter_h_108].chapter": {
       "pl": "Canto VIII",
       "kr_sha256": "b9c86ebdf3b03df7f54085edbf7c81610d9c58e9c569a43394a7aae3e7dea634",
-      "en_sha256": "cea0c0343a6e300e3b2efb4894b392ecc1c2a47a36d29476f925fa87eccdde20",
-      "origin": "ai"
+      "en_sha256": "cea0c0343a6e300e3b2efb4894b392ecc1c2a47a36d29476f925fa87eccdde20"
     },
     "dataList[id=chapter_h_108].chaptertitle": {
-      "pl": "Skazany na Patrzenie",
+      "pl": "Skazany na patrzenie",
       "kr_sha256": "3447a84e69b818bdca94c8d70f6c317bac62ffe75fcbdab87e09a4eb0a9412da",
-      "en_sha256": "5c67c8c0bb0bb842e0f869b42bcc9d03a274f708440dde31001fffe8f0e0a509",
-      "origin": "ai"
+      "en_sha256": "5c67c8c0bb0bb842e0f869b42bcc9d03a274f708440dde31001fffe8f0e0a509"
     },
     "dataList[id=chapter_h_108].company": {
       "pl": "H Corp.",
       "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
-      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
-      "origin": "ai"
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d"
     },
     "dataList[id=chapter_h_109].area": {
       "pl": "Dystrykt 8",
       "kr_sha256": "e3851e967f4ad82dce2f2aceb01e73cf515b2f98cfd95b58b18c47ba6f40eaac",
-      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0",
-      "origin": "ai"
+      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0"
     },
     "dataList[id=chapter_h_109].chapter": {
       "pl": "Canto IX",
       "kr_sha256": "819a9ecc1caaf30264f6b2080ed4094824025d3cb448d9b966c61e11b913b877",
-      "en_sha256": "d2f5b5b6081701111ecfbb843aea2abf0cb06768911a24069dd3d022a0967ca9",
-      "origin": "ai"
+      "en_sha256": "d2f5b5b6081701111ecfbb843aea2abf0cb06768911a24069dd3d022a0967ca9"
     },
     "dataList[id=chapter_h_109].chaptertitle": {
-      "pl": "Nierozerwalne",
+      "pl": "Nierozerwana",
       "kr_sha256": "18c0788f03f26c696ec9f6df65ad9f2acc26e6772fab8b66a8fcd2aa97daabe3",
-      "en_sha256": "eda93433982ecd7f3a3b194ba6774ed96bc4369f6dd08f2ac1a9f8407b5d2b95",
-      "origin": "ai"
+      "en_sha256": "eda93433982ecd7f3a3b194ba6774ed96bc4369f6dd08f2ac1a9f8407b5d2b95"
     },
     "dataList[id=chapter_h_109].company": {
       "pl": "H Corp.",
       "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
-      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
-      "origin": "ai"
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d"
     },
     "dataList[id=chapter_h_9116].area": {
       "pl": "Dystrykt 8",
       "kr_sha256": "e3851e967f4ad82dce2f2aceb01e73cf515b2f98cfd95b58b18c47ba6f40eaac",
-      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0",
-      "origin": "ai"
+      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0"
     },
     "dataList[id=chapter_h_9116].chapter": {
       "pl": "Intervallo V",
       "kr_sha256": "bb6e503404e4926811506b2cc55182bc394158f2498a87859995faa058f68cab",
-      "en_sha256": "6f9fbb55b5c1d56656dbf237447912ad9aaae2a5ebd3fb037dce25f5bed5be25",
-      "origin": "ai"
+      "en_sha256": "6f9fbb55b5c1d56656dbf237447912ad9aaae2a5ebd3fb037dce25f5bed5be25"
     },
     "dataList[id=chapter_h_9116].chaptertitle": {
-      "pl": "Nocne Sprzątanie",
+      "pl": "Nocne zamiatanie",
       "kr_sha256": "0e5d3b316cc6023f3e65d07f618dd0b16950d03736e7c5c88382863bde671114",
-      "en_sha256": "0f36a2f9ac9610687d75510e61862a902fab0ae6e8260394e567b107a7d7b9d9",
-      "origin": "ai"
+      "en_sha256": "0f36a2f9ac9610687d75510e61862a902fab0ae6e8260394e567b107a7d7b9d9"
     },
     "dataList[id=chapter_h_9116].company": {
       "pl": "H Corp.",
       "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
-      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
-      "origin": "ai"
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d"
     },
     "dataList[id=chapter_h_9119].area": {
       "pl": "Dystrykt 8",
       "kr_sha256": "e3851e967f4ad82dce2f2aceb01e73cf515b2f98cfd95b58b18c47ba6f40eaac",
-      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0",
-      "origin": "ai"
+      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0"
     },
     "dataList[id=chapter_h_9119].chapter": {
       "pl": "Intervallo VI",
       "kr_sha256": "8b2462d41646cc1877769db4e2c053a74064b87308d1640fc74a4b48ee689694",
-      "en_sha256": "d8a731da149882270327623b5c7b0a1c479f82b6a4a058cac4f681683dbdf247",
-      "origin": "ai"
+      "en_sha256": "d8a731da149882270327623b5c7b0a1c479f82b6a4a058cac4f681683dbdf247"
     },
     "dataList[id=chapter_h_9119].chaptertitle": {
-      "pl": "Wiosenny Szlif",
+      "pl": "Wiosenne szlify",
       "kr_sha256": "6752961b28158e5ae4597a751f56155788f1bbb4bbc35d15401c371d23dd20f0",
-      "en_sha256": "f67d2577b913960a2f6a63f1557db66fc048cea270a266f4d964a9f0c39cb129",
-      "origin": "ai"
+      "en_sha256": "f67d2577b913960a2f6a63f1557db66fc048cea270a266f4d964a9f0c39cb129"
     },
     "dataList[id=chapter_h_9119].company": {
       "pl": "H Corp.",
       "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
-      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
-      "origin": "ai"
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d"
     },
     "dataList[id=chapter_h_9120].area": {
       "pl": "Dystrykt 8",
       "kr_sha256": "e3851e967f4ad82dce2f2aceb01e73cf515b2f98cfd95b58b18c47ba6f40eaac",
-      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0",
-      "origin": "ai"
+      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0"
     },
     "dataList[id=chapter_h_9120].chapter": {
       "pl": "8.5-EX",
       "kr_sha256": "d98480e8f2840861708e5925baffd010d1becd9926fc8ea41e9a29b6b0d1e807",
-      "en_sha256": "d98480e8f2840861708e5925baffd010d1becd9926fc8ea41e9a29b6b0d1e807",
-      "origin": "ai"
+      "en_sha256": "d98480e8f2840861708e5925baffd010d1becd9926fc8ea41e9a29b6b0d1e807"
     },
     "dataList[id=chapter_h_9120].chaptertitle": {
-      "pl": "Pielgrzymka Współczucia",
+      "pl": "Pielgrzymka dobrej woli",
       "kr_sha256": "263eaa64c692918a03c19ea0e799baa8140fc83a9cc391374af2db249f56dd05",
-      "en_sha256": "50f5016d85c6ff8d894bd5a6f1c6cc72c3b8a6d9fa36df52b16f97745eedbadd",
-      "origin": "ai"
+      "en_sha256": "50f5016d85c6ff8d894bd5a6f1c6cc72c3b8a6d9fa36df52b16f97745eedbadd"
     },
     "dataList[id=chapter_h_9120].company": {
       "pl": "H Corp.",
       "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
-      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
-      "origin": "ai"
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d"
     },
     "dataList[id=chapter_h_9125].area": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_h_9125].chapter": {
       "pl": "Intervallo VII",
       "kr_sha256": "6274feef61d04552f9c7aceda1e70697c49e049dfed950f3de7c8929a9cba10a",
-      "en_sha256": "da00b10222902637e9b272ed6563011ade48e8059c8f4d844121200f11882463",
-      "origin": "ai"
+      "en_sha256": "da00b10222902637e9b272ed6563011ade48e8059c8f4d844121200f11882463"
     },
     "dataList[id=chapter_h_9125].chaptertitle": {
-      "pl": "Splatanie Pasm",
+      "pl": "Splatanie nici",
       "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
-      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36",
-      "origin": "ai"
+      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36"
     },
     "dataList[id=chapter_h_9125].company": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_j_102].area": {
       "pl": "Dystrykt 10",
       "kr_sha256": "5b39fedac7f75f162816fb98314e84923346bd0e6e60580b4124d80ee9b68b32",
-      "en_sha256": "adfec1096b6bf01e27bff5c6cf1d0b058f62460c464418af58545016cd0afdaf",
-      "origin": "ai"
+      "en_sha256": "adfec1096b6bf01e27bff5c6cf1d0b058f62460c464418af58545016cd0afdaf"
     },
     "dataList[id=chapter_j_102].chapter": {
       "pl": "Canto II",
       "kr_sha256": "941a59891ea9a54075bfa924fce6d679ada3bfd0feed307b0cea6602c17c6f56",
-      "en_sha256": "d9d07af87ee38cca9839d7d6ced7acdb691f1456dc24e71510101a7c9a4511b4",
-      "origin": "ai"
+      "en_sha256": "d9d07af87ee38cca9839d7d6ced7acdb691f1456dc24e71510101a7c9a4511b4"
     },
     "dataList[id=chapter_j_102].chaptertitle": {
       "pl": "Niekochająca",
       "kr_sha256": "303b62dac16984cdf78237e07c61099b07afbeab7f707328591be03a47eae27d",
-      "en_sha256": "c53c617f0d57ea8ef98bc1b99dcc436f1172d9704e635827c67f614d8b5e3f98",
-      "origin": "ai"
+      "en_sha256": "c53c617f0d57ea8ef98bc1b99dcc436f1172d9704e635827c67f614d8b5e3f98"
     },
     "dataList[id=chapter_j_102].company": {
       "pl": "J Corp.",
       "kr_sha256": "4eca8ce94db84c7fcb3edd61211dc00498ad185a1adc2c5bae72dd22405deafd",
-      "en_sha256": "f88c916ba04dcbf77672e5cf3ffd5af21cb815b0054053412f8299d2f1ae942c",
-      "origin": "ai"
+      "en_sha256": "f88c916ba04dcbf77672e5cf3ffd5af21cb815b0054053412f8299d2f1ae942c"
     },
     "dataList[id=chapter_k_103].area": {
       "pl": "Dystrykt 11",
       "kr_sha256": "259500bd9224fec4b0bdfdcf21086492ca3ccc0db6e0fcdfb59c9aaee0c19a6d",
-      "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d",
-      "origin": "ai"
+      "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d"
     },
     "dataList[id=chapter_k_103].chapter": {
       "pl": "Canto III",
       "kr_sha256": "ae8748b58926ca5e93847a3301a455ab4616adb6d52133d5f63b0c50f41b57ff",
-      "en_sha256": "63e21b274576c3c126a8f2e379b6f6dd63b5293486e6c1275d61324872070b8c",
-      "origin": "ai"
+      "en_sha256": "63e21b274576c3c126a8f2e379b6f6dd63b5293486e6c1275d61324872070b8c"
     },
     "dataList[id=chapter_k_103].chaptertitle": {
       "pl": "Unikający",
       "kr_sha256": "6370159b1b48737cde78dbf21ac73de663f7f0173d4b506963eaa82041be9160",
-      "en_sha256": "7ad6dafcc3a7a31579c0cb70b991ce85e9b6b732b6cbf5f28cd1c647b9d1eba3",
-      "origin": "ai"
+      "en_sha256": "7ad6dafcc3a7a31579c0cb70b991ce85e9b6b732b6cbf5f28cd1c647b9d1eba3"
     },
     "dataList[id=chapter_k_103].company": {
       "pl": "K Corp.",
       "kr_sha256": "6d215f5c0b6e8f995afcc4be35293b387bb255075d078ef3b749db99add65f28",
-      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6",
-      "origin": "ai"
+      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6"
     },
     "dataList[id=chapter_k_104].area": {
       "pl": "Dystrykt 11",
       "kr_sha256": "259500bd9224fec4b0bdfdcf21086492ca3ccc0db6e0fcdfb59c9aaee0c19a6d",
-      "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d",
-      "origin": "ai"
+      "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d"
     },
     "dataList[id=chapter_k_104].chapter": {
       "pl": "Canto IV",
       "kr_sha256": "0a24bc0017e279f8ca75bf113f3a9ba6a843e659ff0003877b5fd2b56f7e58c9",
-      "en_sha256": "495c29d6ced3d1afd0bbe4d845696e87606c7f54d71fe60d06d0114a676513c0",
-      "origin": "ai"
+      "en_sha256": "495c29d6ced3d1afd0bbe4d845696e87606c7f54d71fe60d06d0114a676513c0"
     },
     "dataList[id=chapter_k_104].chaptertitle": {
       "pl": "Niezmienny",
       "kr_sha256": "ab6c3940033ae7ea2fcd37b3b05767e20241f50d71223842d54245f66de24810",
-      "en_sha256": "820ac21e4afca4eb0b8ede260bcdca403d6eaca64a178d77634c64bcb19db266",
-      "origin": "ai"
+      "en_sha256": "820ac21e4afca4eb0b8ede260bcdca403d6eaca64a178d77634c64bcb19db266"
     },
     "dataList[id=chapter_k_104].company": {
       "pl": "K Corp.",
       "kr_sha256": "6d215f5c0b6e8f995afcc4be35293b387bb255075d078ef3b749db99add65f28",
-      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6",
-      "origin": "ai"
+      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6"
     },
     "dataList[id=chapter_k_9103].area": {
       "pl": "Dystrykt 11",
       "kr_sha256": "259500bd9224fec4b0bdfdcf21086492ca3ccc0db6e0fcdfb59c9aaee0c19a6d",
-      "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d",
-      "origin": "ai"
+      "en_sha256": "fe52e30420ab27933d15055492ebd62f98be359e67ac696374a445cd2d40ef8d"
     },
     "dataList[id=chapter_k_9103].chapter": {
       "pl": "Intervallo I",
       "kr_sha256": "735c642e4b635e8c6a57ee7bef8ab73e417015edacc090d3e0102f07e4fec61d",
-      "en_sha256": "079a0054b471fdc3bcf7454d27a250b012b6f6981baad3f5b0a2c0d9b568c547",
-      "origin": "ai"
+      "en_sha256": "079a0054b471fdc3bcf7454d27a250b012b6f6981baad3f5b0a2c0d9b568c547"
     },
     "dataList[id=chapter_k_9103].chaptertitle": {
-      "pl": "Piekielny Kurczak",
+      "pl": "Hell’s Chicken",
       "kr_sha256": "524f9d3406b7fc30ae0b30ab471fec49a64e31eecf39212d299e9c563aa8adf1",
-      "en_sha256": "ed8443d8d315e84ce9175aa488434ac45b1d3fdf0348536827dbedcc9b01d33b",
-      "origin": "ai"
+      "en_sha256": "ed8443d8d315e84ce9175aa488434ac45b1d3fdf0348536827dbedcc9b01d33b"
     },
     "dataList[id=chapter_k_9103].company": {
       "pl": "K Corp.",
       "kr_sha256": "6d215f5c0b6e8f995afcc4be35293b387bb255075d078ef3b749db99add65f28",
-      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6",
-      "origin": "ai"
+      "en_sha256": "6a12232fe175cc577880aa55f899ed97c1285a75ee1c6f450ecb6da15030c8e6"
     },
     "dataList[id=chapter_n_110].area": {
       "pl": "Dystrykt 14",
       "kr_sha256": "4856efccab05083566198d8fc0e072daa306592dd05c32a780065ae8c6ba5c51",
-      "en_sha256": "55e08cf644435a575c87327fae2f8844b2efe6eb08b5ee7f40a16f1228689f00",
-      "origin": "ai"
+      "en_sha256": "55e08cf644435a575c87327fae2f8844b2efe6eb08b5ee7f40a16f1228689f00"
     },
     "dataList[id=chapter_n_110].chapter": {
       "pl": "Canto X",
       "kr_sha256": "e6760f2b2d15a9bd35ff755b7caafe34c9fc36f4a76af5d30fc9cb226382f9ff",
-      "en_sha256": "60ad51a3d5f4ec428c18b4fd8d980574dd47d0e1de514cb0ba77ac304f8c8b97",
-      "origin": "ai"
+      "en_sha256": "60ad51a3d5f4ec428c18b4fd8d980574dd47d0e1de514cb0ba77ac304f8c8b97"
     },
     "dataList[id=chapter_n_110].chaptertitle": {
-      "pl": "Pod Spojrzeniem",
+      "pl": "Obserwowany",
       "kr_sha256": "c0094939f0969989a8a4d4dd8b31c8cd981f8649b6def1fa056c87139008c04a",
-      "en_sha256": "a80f41906f3970e18ed3ee75700112b2ad0ad8d66314d4d137384ab462c014d0",
-      "origin": "ai"
+      "en_sha256": "a80f41906f3970e18ed3ee75700112b2ad0ad8d66314d4d137384ab462c014d0"
     },
     "dataList[id=chapter_n_110].company": {
       "pl": "N Corp.",
       "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
-      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb",
-      "origin": "ai"
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb"
     },
     "dataList[id=chapter_n_9127].area": {
       "pl": "Dystrykt 14",
       "kr_sha256": "4856efccab05083566198d8fc0e072daa306592dd05c32a780065ae8c6ba5c51",
-      "en_sha256": "55e08cf644435a575c87327fae2f8844b2efe6eb08b5ee7f40a16f1228689f00",
-      "origin": "ai"
+      "en_sha256": "55e08cf644435a575c87327fae2f8844b2efe6eb08b5ee7f40a16f1228689f00"
     },
     "dataList[id=chapter_n_9127].chapter": {
       "pl": "Intervallo VII",
       "kr_sha256": "6274feef61d04552f9c7aceda1e70697c49e049dfed950f3de7c8929a9cba10a",
-      "en_sha256": "da00b10222902637e9b272ed6563011ade48e8059c8f4d844121200f11882463",
-      "origin": "ai"
+      "en_sha256": "da00b10222902637e9b272ed6563011ade48e8059c8f4d844121200f11882463"
     },
     "dataList[id=chapter_n_9127].chaptertitle": {
-      "pl": "Pamięć Doświadczenia",
+      "pl": "Pamięć doświadczeń",
       "kr_sha256": "f9eb86699cc3a3ef89e3845d4f72b1be96dcd5b68ad7cad3f55e08ab7a938439",
-      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4",
-      "origin": "ai"
+      "en_sha256": "9c7cf3d4194cada8e7293e15fea03daca222d9e843c9e158aaf19e1e0dd44db4"
     },
     "dataList[id=chapter_n_9127].company": {
       "pl": "N Corp.",
       "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
-      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb",
-      "origin": "ai"
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb"
     },
     "dataList[id=chapter_n_9128].area": {
       "pl": "Dystrykt 14",
       "kr_sha256": "4856efccab05083566198d8fc0e072daa306592dd05c32a780065ae8c6ba5c51",
-      "en_sha256": "55e08cf644435a575c87327fae2f8844b2efe6eb08b5ee7f40a16f1228689f00",
-      "origin": "ai"
+      "en_sha256": "55e08cf644435a575c87327fae2f8844b2efe6eb08b5ee7f40a16f1228689f00"
     },
     "dataList[id=chapter_n_9128].chapter": {
       "pl": "Canto X",
@@ -357,8 +300,7 @@
     "dataList[id=chapter_n_9128].company": {
       "pl": "N Corp.",
       "kr_sha256": "0150cd26029b29aa91ddb588c794725b1e7b090864777455374810a7f06101b4",
-      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb",
-      "origin": "ai"
+      "en_sha256": "e732e5e1c63c6107c2c36692a7cc4319f6d9821244bee533d33a41d3c7b9f8bb"
     },
     "dataList[id=chapter_p_9019].area": {
       "pl": "Dystrykt 16",
@@ -367,10 +309,9 @@
       "origin": "ai"
     },
     "dataList[id=chapter_p_9019].chaptertitle": {
-      "pl": "5. Noc Walpurgii",
+      "pl": "Piąta Noc Walpurgii",
       "kr_sha256": "64e5562dd570784d68e78ffc8e8afb0b253dafb76b52aedde8aa8e3aa8f7473e",
-      "en_sha256": "fc46c8e4fcab9fdd47f2e49569ef946f6ca83ac6e0a46d465ee0f1518600683f",
-      "origin": "ai"
+      "en_sha256": "fc46c8e4fcab9fdd47f2e49569ef946f6ca83ac6e0a46d465ee0f1518600683f"
     },
     "dataList[id=chapter_p_9019].company": {
       "pl": "P Corp.",
@@ -381,20 +322,17 @@
     "dataList[id=chapter_p_9020].area": {
       "pl": "Dystrykt 8",
       "kr_sha256": "e3851e967f4ad82dce2f2aceb01e73cf515b2f98cfd95b58b18c47ba6f40eaac",
-      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0",
-      "origin": "ai"
+      "en_sha256": "acd757dce1849ff2ac35cd3d1f884c2182e27d53551a5ff15bade9e9645929d0"
     },
     "dataList[id=chapter_p_9020].chaptertitle": {
-      "pl": "6. Noc Walpurgii",
+      "pl": "Szósta Noc Walpurgii",
       "kr_sha256": "ab18ebc32fb1ce7640d70e1e38e8e08f021456ea198786c5709bb206dd9ac8f5",
-      "en_sha256": "4908287ae31f24a4991d08ff86196f1001e302dff34ee310a39dbf49aa010019",
-      "origin": "ai"
+      "en_sha256": "4908287ae31f24a4991d08ff86196f1001e302dff34ee310a39dbf49aa010019"
     },
     "dataList[id=chapter_p_9020].company": {
       "pl": "H Corp.",
       "kr_sha256": "1958679657aecbb94b8fa51786c01741bff2628a92181664deb3c68665de63a1",
-      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d",
-      "origin": "ai"
+      "en_sha256": "bd76a3abbcb85aef4c47b885f3556d273fbb830b1cf59fe956fdce38765b713d"
     },
     "dataList[id=chapter_p_9111].area": {
       "pl": "Dystrykt 16",
@@ -403,10 +341,9 @@
       "origin": "ai"
     },
     "dataList[id=chapter_p_9111].chaptertitle": {
-      "pl": "4. Noc Walpurgii",
+      "pl": "Czwarta Noc Walpurgii",
       "kr_sha256": "a4e5897566c657ec591111d9189c0e33da7867ef42036361423051a559da0f2c",
-      "en_sha256": "983d701a0218e49288b44349a52615495a9e76c8d4fbac47b72faabfea8749db",
-      "origin": "ai"
+      "en_sha256": "983d701a0218e49288b44349a52615495a9e76c8d4fbac47b72faabfea8749db"
     },
     "dataList[id=chapter_p_9111].company": {
       "pl": "P Corp.",
@@ -423,14 +360,12 @@
     "dataList[id=chapter_p_9114].chapter": {
       "pl": "Intervallo V",
       "kr_sha256": "bb6e503404e4926811506b2cc55182bc394158f2498a87859995faa058f68cab",
-      "en_sha256": "6f9fbb55b5c1d56656dbf237447912ad9aaae2a5ebd3fb037dce25f5bed5be25",
-      "origin": "ai"
+      "en_sha256": "6f9fbb55b5c1d56656dbf237447912ad9aaae2a5ebd3fb037dce25f5bed5be25"
     },
     "dataList[id=chapter_p_9114].chaptertitle": {
-      "pl": "Okresowe Badania LCB",
+      "pl": "Okresowe badania LCB",
       "kr_sha256": "65c5e58a8bd7a86fe398040bee99a7add09898b4b1b363a24746832ccc2c98d6",
-      "en_sha256": "5a1f00b1efc7ac94c8e8c40a3ba4610ee90675355389d7025457fdcaf18b741a",
-      "origin": "ai"
+      "en_sha256": "5a1f00b1efc7ac94c8e8c40a3ba4610ee90675355389d7025457fdcaf18b741a"
     },
     "dataList[id=chapter_p_9114].company": {
       "pl": "P Corp.",
@@ -441,266 +376,222 @@
     "dataList[id=chapter_t_106].area": {
       "pl": "Dystrykt 20",
       "kr_sha256": "718bed2c93ba1d249068442e7a4f6e89ae75f0f939d4e9395cd4f80e12fd946a",
-      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036",
-      "origin": "ai"
+      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036"
     },
     "dataList[id=chapter_t_106].chapter": {
       "pl": "Canto VI",
       "kr_sha256": "57b8ca8989af47f6f13484e7ca6ca53f43b87082ef18ca7550a2f1e6f6f56fee",
-      "en_sha256": "c281358b451ee01f9175e07fcc31c8d225ad67305f0af074a3c3f1f54c30a6f9",
-      "origin": "ai"
+      "en_sha256": "c281358b451ee01f9175e07fcc31c8d225ad67305f0af074a3c3f1f54c30a6f9"
     },
     "dataList[id=chapter_t_106].chaptertitle": {
-      "pl": "Rozdzierające Serca",
+      "pl": "Rozdarty",
       "kr_sha256": "c19c3d65fdacc9c64f7e001f28ff36569e85938141ff3898ec01ea349b2b6486",
-      "en_sha256": "bc9c9697c5f46ad35075e5b0f66f55c181d9f7b11068183f7e5038866fe825f3",
-      "origin": "ai"
+      "en_sha256": "bc9c9697c5f46ad35075e5b0f66f55c181d9f7b11068183f7e5038866fe825f3"
     },
     "dataList[id=chapter_t_106].company": {
       "pl": "T Corp.",
       "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
-      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
-      "origin": "ai"
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137"
     },
     "dataList[id=chapter_t_9107].area": {
       "pl": "Dystrykt 20",
       "kr_sha256": "718bed2c93ba1d249068442e7a4f6e89ae75f0f939d4e9395cd4f80e12fd946a",
-      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036",
-      "origin": "ai"
+      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036"
     },
     "dataList[id=chapter_t_9107].chapter": {
       "pl": "Intervallo III",
       "kr_sha256": "b3f2cf034976749d7c054883e8a08d80da5ec5ace2bcae6c4b4bbbc6d503b90d",
-      "en_sha256": "e440c4d851a0f76fe645927df942235ec01037e315528e511be3061d208adf84",
-      "origin": "ai"
+      "en_sha256": "e440c4d851a0f76fe645927df942235ec01037e315528e511be3061d208adf84"
     },
     "dataList[id=chapter_t_9107].chaptertitle": {
-      "pl": "Oddam Ciało,\nby Złamać Ich Kości",
+      "pl": "Poświęcić ciało,\nby zmiażdżyć kości",
       "kr_sha256": "9509ec09eb2b43783f11239f2ca90599d3658ab19069fb09a3ca4b93231cb723",
-      "en_sha256": "8f719b4eeaf15c60805c69cb56027aba0e7192c21c14bb53987e194d0fcabb51",
-      "origin": "ai"
+      "en_sha256": "8f719b4eeaf15c60805c69cb56027aba0e7192c21c14bb53987e194d0fcabb51"
     },
     "dataList[id=chapter_t_9107].company": {
       "pl": "T Corp.",
       "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
-      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
-      "origin": "ai"
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137"
     },
     "dataList[id=chapter_t_9108].area": {
       "pl": "Dystrykt 20",
       "kr_sha256": "718bed2c93ba1d249068442e7a4f6e89ae75f0f939d4e9395cd4f80e12fd946a",
-      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036",
-      "origin": "ai"
+      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036"
     },
     "dataList[id=chapter_t_9108].chaptertitle": {
-      "pl": "3. Noc Walpurgii",
+      "pl": "Trzecia Noc Walpurgii",
       "kr_sha256": "593ce6761cc74db6212ade689b0b0108e32cf3e2a9e05810c3571afc650f2d26",
-      "en_sha256": "130a807d566d1c689b9b6bc3798c94938a3634b5ceca2e5e89df598448eb741c",
-      "origin": "ai"
+      "en_sha256": "130a807d566d1c689b9b6bc3798c94938a3634b5ceca2e5e89df598448eb741c"
     },
     "dataList[id=chapter_t_9108].company": {
       "pl": "T Corp.",
       "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
-      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
-      "origin": "ai"
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137"
     },
     "dataList[id=chapter_t_9109].area": {
       "pl": "Dystrykt 20",
       "kr_sha256": "718bed2c93ba1d249068442e7a4f6e89ae75f0f939d4e9395cd4f80e12fd946a",
-      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036",
-      "origin": "ai"
+      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036"
     },
     "dataList[id=chapter_t_9109].chapter": {
       "pl": "Intervallo IV",
       "kr_sha256": "e08513a71695d809e3825e3bcd43126395e07b60efcd4583a76e8baff45a326b",
-      "en_sha256": "7c34db135f77f27c2fcf79d054495b39170d567f5dcab838b20f4d84bf594062",
-      "origin": "ai"
+      "en_sha256": "7c34db135f77f27c2fcf79d054495b39170d567f5dcab838b20f4d84bf594062"
     },
     "dataList[id=chapter_t_9109].chaptertitle": {
-      "pl": "Czas Zabijania Czasu",
+      "pl": "Czas zabijania czasu",
       "kr_sha256": "c69542103a65b1ae48bbc11729f9d1fe743394e73df134c756cca95aeb4e4ed0",
-      "en_sha256": "4f6bb38b5d15b5696ef94bc157228a44c4e1f9b13f394949b1eeab46e961ae3a",
-      "origin": "ai"
+      "en_sha256": "4f6bb38b5d15b5696ef94bc157228a44c4e1f9b13f394949b1eeab46e961ae3a"
     },
     "dataList[id=chapter_t_9109].company": {
       "pl": "T Corp.",
       "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
-      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
-      "origin": "ai"
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137"
     },
     "dataList[id=chapter_t_9110].area": {
       "pl": "Dystrykt 20",
       "kr_sha256": "718bed2c93ba1d249068442e7a4f6e89ae75f0f939d4e9395cd4f80e12fd946a",
-      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036",
-      "origin": "ai"
+      "en_sha256": "a865ecbc009075b8600c7ecb1793ea88abe237aeccc6f5425e25d670dacc6036"
     },
     "dataList[id=chapter_t_9110].chapter": {
       "pl": "Intervallo IV",
       "kr_sha256": "e08513a71695d809e3825e3bcd43126395e07b60efcd4583a76e8baff45a326b",
-      "en_sha256": "7c34db135f77f27c2fcf79d054495b39170d567f5dcab838b20f4d84bf594062",
-      "origin": "ai"
+      "en_sha256": "7c34db135f77f27c2fcf79d054495b39170d567f5dcab838b20f4d84bf594062"
     },
     "dataList[id=chapter_t_9110].chaptertitle": {
-      "pl": "Morderstwo\nw Ekspresie WARP",
+      "pl": "Morderstwo\nw Warp Expressie",
       "kr_sha256": "318990182fc982c44a6bba37ac09862e88c03d83d0e7cbf3fcc7c238e20814ca",
-      "en_sha256": "fde42738c826e6d6cde3bdd6d25b80153812921644129a359d6fe1cb6ede1ae8",
-      "origin": "ai"
+      "en_sha256": "fde42738c826e6d6cde3bdd6d25b80153812921644129a359d6fe1cb6ede1ae8"
     },
     "dataList[id=chapter_t_9110].company": {
       "pl": "T Corp.",
       "kr_sha256": "2f87c98303176207ed4fd32c45f931899895d5e59024f6df24c26b9cc1bfee19",
-      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137",
-      "origin": "ai"
+      "en_sha256": "9b007e81fe97f40a2be58256abca832e3c539b48245cb8da8a9dae89e20c1137"
     },
     "dataList[id=chapter_u_105].area": {
       "pl": "Dystrykt 21",
       "kr_sha256": "dff764eaee5d7dc58a1cb465505ae6de965eb21442b7702456f69d6c7ecfcd6f",
-      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e",
-      "origin": "ai"
+      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e"
     },
     "dataList[id=chapter_u_105].chapter": {
       "pl": "Canto V",
       "kr_sha256": "e0f30b515a124bd5376c22fb43e372528e7fccebd05e513a6b3d9f0339cd7551",
-      "en_sha256": "1cd06e6eb0e7d085b22da4109663965f3806ae779eee6eb6781e90a8f7087a25",
-      "origin": "ai"
+      "en_sha256": "1cd06e6eb0e7d085b22da4109663965f3806ae779eee6eb6781e90a8f7087a25"
     },
     "dataList[id=chapter_u_105].chaptertitle": {
-      "pl": "Naznaczające Zło",
+      "pl": "Uznana za zło",
       "kr_sha256": "49507d4dc9c4fcab7ef261127cca48339f52630331b3566dfcdf468b5c7f9601",
-      "en_sha256": "a83133b00078a1e03bcbcefec8eff4d745d6615d0a72235ae5be13e434caece2",
-      "origin": "ai"
+      "en_sha256": "a83133b00078a1e03bcbcefec8eff4d745d6615d0a72235ae5be13e434caece2"
     },
     "dataList[id=chapter_u_105].company": {
       "pl": "U Corp.",
       "kr_sha256": "372637739cb8c8cdc37e867cc99294a3511dd72b82533d0ec1df08d3fe556128",
-      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6",
-      "origin": "ai"
+      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6"
     },
     "dataList[id=chapter_u_9104].area": {
       "pl": "Dystrykt 21",
       "kr_sha256": "dff764eaee5d7dc58a1cb465505ae6de965eb21442b7702456f69d6c7ecfcd6f",
-      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e",
-      "origin": "ai"
+      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e"
     },
     "dataList[id=chapter_u_9104].chapter": {
       "pl": "Intervallo II",
       "kr_sha256": "7addd94899dac98cb5c1b1b2a2064b9befd36da05dd42f8e1d3cca78b3ce0429",
-      "en_sha256": "8872be77faeabb3d57254762d3c62d5514318666e9805724e6667cde2181255e",
-      "origin": "ai"
+      "en_sha256": "8872be77faeabb3d57254762d3c62d5514318666e9805724e6667cde2181255e"
     },
     "dataList[id=chapter_u_9104].chaptertitle": {
       "pl": "M.O.R.Z.E.",
       "kr_sha256": "cc3ae1afdc4354d088fd9ef9d262fbee86ee6d6d73aba14702f3cae076052c6c",
-      "en_sha256": "d2b3207ad16d682a9feb240ad96e01ea3166764cf1dc8564f79777257af832a0",
-      "origin": "ai"
+      "en_sha256": "d2b3207ad16d682a9feb240ad96e01ea3166764cf1dc8564f79777257af832a0"
     },
     "dataList[id=chapter_u_9104].company": {
       "pl": "U Corp.",
       "kr_sha256": "372637739cb8c8cdc37e867cc99294a3511dd72b82533d0ec1df08d3fe556128",
-      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6",
-      "origin": "ai"
+      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6"
     },
     "dataList[id=chapter_u_9105].area": {
       "pl": "Dystrykt 21",
       "kr_sha256": "dff764eaee5d7dc58a1cb465505ae6de965eb21442b7702456f69d6c7ecfcd6f",
-      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e",
-      "origin": "ai"
+      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e"
     },
     "dataList[id=chapter_u_9105].chapter": {
       "pl": "Intervallo III",
       "kr_sha256": "b3f2cf034976749d7c054883e8a08d80da5ec5ace2bcae6c4b4bbbc6d503b90d",
-      "en_sha256": "e440c4d851a0f76fe645927df942235ec01037e315528e511be3061d208adf84",
-      "origin": "ai"
+      "en_sha256": "e440c4d851a0f76fe645927df942235ec01037e315528e511be3061d208adf84"
     },
     "dataList[id=chapter_u_9105].chaptertitle": {
       "pl": "Cud w Dystrykcie 20",
       "kr_sha256": "87cb35473a95d38f2fab5ded3b0c9431c6baa80fda9802f74f0a04a3e8780b64",
-      "en_sha256": "dc2938bba856b83dd7f780265b71563695d405cb0b5c94c9eec927c4789e5094",
-      "origin": "ai"
+      "en_sha256": "dc2938bba856b83dd7f780265b71563695d405cb0b5c94c9eec927c4789e5094"
     },
     "dataList[id=chapter_u_9105].company": {
       "pl": "U Corp.",
       "kr_sha256": "372637739cb8c8cdc37e867cc99294a3511dd72b82533d0ec1df08d3fe556128",
-      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6",
-      "origin": "ai"
+      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6"
     },
     "dataList[id=chapter_u_9106].area": {
       "pl": "Dystrykt 21",
       "kr_sha256": "dff764eaee5d7dc58a1cb465505ae6de965eb21442b7702456f69d6c7ecfcd6f",
-      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e",
-      "origin": "ai"
+      "en_sha256": "299249c421057d9db1240828ae5db97937457d882059b599a3a30fe48bdba12e"
     },
     "dataList[id=chapter_u_9106].chaptertitle": {
-      "pl": "2. Noc Walpurgii",
+      "pl": "Druga Noc Walpurgii",
       "kr_sha256": "2391012e4865306af8991aeca4abb03a9cfcfd1add6d0574f17823cfaec4628d",
-      "en_sha256": "680bc0e50dd6f16b776c0ea36c10a0e2d3cc47a7af37e4d0ba585cd8dba1e8a5",
-      "origin": "ai"
+      "en_sha256": "680bc0e50dd6f16b776c0ea36c10a0e2d3cc47a7af37e4d0ba585cd8dba1e8a5"
     },
     "dataList[id=chapter_u_9106].company": {
       "pl": "U Corp.",
       "kr_sha256": "372637739cb8c8cdc37e867cc99294a3511dd72b82533d0ec1df08d3fe556128",
-      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6",
-      "origin": "ai"
+      "en_sha256": "6f67bec09a6bdb54c6a3f49692271cf4cab66d7d40b67816fb71b138988a4be6"
     },
     "dataList[id=chapter_unknown_109].area": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_unknown_109].chapter": {
       "pl": "Canto IX",
       "kr_sha256": "819a9ecc1caaf30264f6b2080ed4094824025d3cb448d9b966c61e11b913b877",
-      "en_sha256": "d2f5b5b6081701111ecfbb843aea2abf0cb06768911a24069dd3d022a0967ca9",
-      "origin": "ai"
+      "en_sha256": "d2f5b5b6081701111ecfbb843aea2abf0cb06768911a24069dd3d022a0967ca9"
     },
     "dataList[id=chapter_unknown_109].chaptertitle": {
-      "pl": "Nierozerwalne",
+      "pl": "Nierozerwana",
       "kr_sha256": "18c0788f03f26c696ec9f6df65ad9f2acc26e6772fab8b66a8fcd2aa97daabe3",
-      "en_sha256": "eda93433982ecd7f3a3b194ba6774ed96bc4369f6dd08f2ac1a9f8407b5d2b95",
-      "origin": "ai"
+      "en_sha256": "eda93433982ecd7f3a3b194ba6774ed96bc4369f6dd08f2ac1a9f8407b5d2b95"
     },
     "dataList[id=chapter_unknown_109].company": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_unknown_9123].area": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_unknown_9123].company": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_unknown_9125].area": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     },
     "dataList[id=chapter_unknown_9125].chapter": {
       "pl": "Intervallo VII",
       "kr_sha256": "6274feef61d04552f9c7aceda1e70697c49e049dfed950f3de7c8929a9cba10a",
-      "en_sha256": "da00b10222902637e9b272ed6563011ade48e8059c8f4d844121200f11882463",
-      "origin": "ai"
+      "en_sha256": "da00b10222902637e9b272ed6563011ade48e8059c8f4d844121200f11882463"
     },
     "dataList[id=chapter_unknown_9125].chaptertitle": {
-      "pl": "Splatanie Pasm",
+      "pl": "Splatanie nici",
       "kr_sha256": "3833f728fb44196fc3a13162c0d6fd08614bf7c7a193876fad0340a66795992b",
-      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36",
-      "origin": "ai"
+      "en_sha256": "262b8fedec51286669b3f159f0ca7f508059b66280e63eb1a496384f38050b36"
     },
     "dataList[id=chapter_unknown_9125].company": {
       "pl": "??",
       "kr_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0",
-      "origin": "ai"
+      "en_sha256": "e270aeb347f2165574c3a5c5bf11d038bcd3acd5abfdb5ae8a1b52d91cb842f0"
     }
   }
 }

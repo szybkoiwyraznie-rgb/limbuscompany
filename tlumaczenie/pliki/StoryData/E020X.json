@@ -1,0 +1,439 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "?! C-co jest?!",
+      "kr_sha256": "143ebec773aa74a7326011b0c56f9ea019f7b374798165b9399bf855500b55ae",
+      "en_sha256": "0fa05f6eeb1da485e0d42cc9b04bf8f13dea70b2770e7ad67377a8d67ef9aef6"
+    },
+    "dataList[id=10].content": {
+      "pl": "Hu, hu, zależnie od tego, kto mówi, nawet zwykłe zdanie potrafi być takie dowcipne~",
+      "kr_sha256": "1e5679bafc40bd07224c7c411eab3e8d99d47ce08ff132e5abb8fe9073c789b3",
+      "en_sha256": "ff63dd5ebe1ef4461cee3f8d9974da1257396a5de3cc1f9e4bce9d2a4b91b1e5"
+    },
+    "dataList[id=11].content": {
+      "pl": "Ha, paniczyk chyba myśli to samo co ja. Śmiesznie to brzmi z ust kogoś, kto sam jest najmniej elastyczny ze wszystkich.",
+      "kr_sha256": "abbd477d94ec184e6994289c567d198d38da15f66d81126aa506514743f862d6",
+      "en_sha256": "9948539db6b939dd537361cb31c3b469cd96aa298e67ad17967cef0c3a095180"
+    },
+    "dataList[id=12].content": {
+      "pl": "…Skończyłeś? To co powiesz o tamtej zgredzicy, która dalej myśli, że jest oficerem na froncie…",
+      "kr_sha256": "e7f008b15b343cd4252b56b21a76b6014ae9fd749922a1d1115dd0dc08e89c85",
+      "en_sha256": "67301e355591e845c15ddca75200ef18885e32de2362bb6899bc74e7b53b4e7b"
+    },
+    "dataList[id=13].content": {
+      "pl": "Ishmael wskazała palcem Outis, a na pięści Outis, mimo kamiennej twarzy, na naszych oczach nabrzmiewały żyły.",
+      "kr_sha256": "3280f841042701f37a10d756e8cc8f0fd1169dc0d445ce03d04f50e838c1b460",
+      "en_sha256": "8d58c80f10ab87da153930dfb77f7c3263c48f89aebedebc3a3455f7aee27a02"
+    },
+    "dataList[id=14].content": {
+      "pl": "Ech.",
+      "kr_sha256": "8a6db700e71a625033982f4ea2a72eaf7e512000aa1a9696167b54e58652a943",
+      "en_sha256": "5061a5ecf0ff4094074be37815dd95a82536151fbf435c203496e045ab2f0a5e"
+    },
+    "dataList[id=15].content": {
+      "pl": "Oto, jak straszny potrafi być strach wpojony na dobre.",
+      "kr_sha256": "4e7dab0552096dfa0f40d5b6dea538ff291ed2ebb4f8a40966c5d827271611e9",
+      "en_sha256": "3d62a04ad62aa5935b6e079c31b675c56b1276260542d65d7939a41bd35b2189"
+    },
+    "dataList[id=16].content": {
+      "pl": "Niby powinienem przywyknąć… ale wciąż czasem przeraża mnie, jak od jednego gestu czy słowa Vergiliusa w autobusie zapada lodowata cisza.",
+      "kr_sha256": "7272f68bcfde170ff96078982f2e9700844a0cca3ee7d87a036abae68b9164be",
+      "en_sha256": "47a28746ec2c0c2265c30dc277bea2d0b1e451d9050ce744b5e0aff2ba9e2857"
+    },
+    "dataList[id=17].content": {
+      "pl": "…Co jest? Tak ładnie szczebiotaliście. Mielcie dalej ozorami.",
+      "kr_sha256": "a13082511da04bd374a9505ad1d6e9a390e2d118d8eaf05319ac0e64393aa4e9",
+      "en_sha256": "964aaef5d1d04517dd19155f852a270e51ff118d6e5f6db1e4306f81828a940f"
+    },
+    "dataList[id=18].content": {
+      "pl": "A nie westchnąłeś czasem dlatego, że zaraz zrobisz rozróbę?",
+      "kr_sha256": "f4844816204399d441aaed371ac7e129833c5e9ea9714a9fc29f95856f7342de",
+      "en_sha256": "b9e0c8b94d6adcc8a58f505be1a863d8719c090028f935a0e9030d9480f4155f"
+    },
+    "dataList[id=19].content": {
+      "pl": "Przeciągałem się. Kości mi zesztywniały…",
+      "kr_sha256": "bdaf0b1184753e36543c84e588d6aa42d106842d3f0fc6ce270dc1671683ac07",
+      "en_sha256": "907966999aedc0acf767f399c5a221f4dccfc1cd487cb07f2a79147a7d8173cd"
+    },
+    "dataList[id=1].content": {
+      "pl": "Autobus, który dotąd gładko mknął przez Zaułki, nagle stanął.",
+      "kr_sha256": "4ea61aae85225e705258c2af350fcbcaa91b93dde9554b09eccfbedbf722a380",
+      "en_sha256": "47aabe862c6e0fc6893c2742758cfb76bb782944bd1e42788f60b1a2a7bcddef"
+    },
+    "dataList[id=20].content": {
+      "pl": "Co za…",
+      "kr_sha256": "d15979d4f74a6a1645f6f92b2d276cb909f0bb4a002e120a9bf075c9095b07c4",
+      "en_sha256": "8cade31b5ac685b2791af8a3fb9d156da1248f31293cfb6ed1141026dc09c540"
+    },
+    "dataList[id=21].content": {
+      "pl": "Khm…",
+      "kr_sha256": "88d122f3eba2884b7843b2fb8211a909e3e4f21db9162cfac9ba9cbdb006c7d0",
+      "en_sha256": "bc2fb04b84cf5b36256b750bc0b1bc0efd3545052056c59323614c4da81aea08"
+    },
+    "dataList[id=22].content": {
+      "pl": "Zabawnie się zachowujecie. Jak psy, którym cieknie ślina na dźwięk dzwonka.",
+      "kr_sha256": "52bd8f67dc29b0eee195175ef538e5141f026cb21e2c49f1b9dd4c01c85dbdf4",
+      "en_sha256": "8fb12cbe6569343db4a7a04e9efc966f266c9c84d894a4a8880eff0284dbec80"
+    },
+    "dataList[id=23].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=24].content": {
+      "pl": "Jeśli ktoś ma pretensje, jak zawsze zapraszam do mojego biura w tylnym wagonie. Znajdę czas na rozmowę… Pani Faust, resztę zostawiam pani.",
+      "kr_sha256": "d0d7abd2df043e9f8dbdf2218c2cc451a16c062269fbf2700395c705512ec566",
+      "en_sha256": "e5f0adf98073c7db4c13077daa9cc36cfef01239594aad587835f26e3ef66d39"
+    },
+    "dataList[id=25].content": {
+      "pl": "Tak.",
+      "kr_sha256": "8445741d7d6a831276e8794b874cebee94940ba0e963d4f109bf72f437426789",
+      "en_sha256": "404cba15a4acdcfea85caa97d009b1042d20f0967c26f9a1abf59aecbeddf9bd"
+    },
+    "dataList[id=26].content": {
+      "pl": "Vergilius, jakby nigdy nic, przeszedł wraz z Charon między Grzesznikami (a ściślej: między ich świdrującymi spojrzeniami) i stanął na samym końcu autobusu.",
+      "kr_sha256": "c2d6b92e2826f9015f1a7fe2988950515364c6c05498aaf63697ab5e28f31c6d",
+      "en_sha256": "c890608a45f971ef5c25d819a8fb4c9d7a4cdc865290122a3fe97c746b7a0357"
+    },
+    "dataList[id=27].content": {
+      "pl": "Selerze, otwórz się.",
+      "kr_sha256": "5b176f196ebe0aad02077fccd11a02de5bfb5b020635901cc4b8c2be86bf9d89",
+      "en_sha256": "81285c17dcc608aef167f5758468ad6a5bad49d10911187da88cad92e9c38047"
+    },
+    "dataList[id=28].content": {
+      "pl": "Sezamie, Charon.",
+      "kr_sha256": "5b3644dbb86168c671526fb89c13b357875a5a0b295d91c759bd69c16edceef8",
+      "en_sha256": "4fd71d3b2fc12ca2dab83d662f89ed1319a433eb6435af512db53a17c00ac200"
+    },
+    "dataList[id=29].content": {
+      "pl": "Charon wie. I tak nie otwiera się tego zaklęciem, nie.",
+      "kr_sha256": "62d9651779e6b5e4b1610ff908556fe294fcd3bd33ee3503485ca73cdc65867b",
+      "en_sha256": "7cc9908c533f51fa5f1daf55fd4d90bffa97622ca1eced9fc91aab6574ea2744"
+    },
+    "dataList[id=2].content": {
+      "pl": "Dziś stajemy tutaj.",
+      "kr_sha256": "9ef8f243db292219d4128994575f8b2bc9d51d268de06b3cec01f334ae7d6092",
+      "en_sha256": "6a407ff6bfdf88cdf389319a4eb57822d581571151d5c8f3b7d51f145187fb7d"
+    },
+    "dataList[id=30].content": {
+      "pl": "…No tak.",
+      "kr_sha256": "be9b9bb9804e9542d73905bdd1393c1c0040f2180b35d5cd488f7a494ecf3691",
+      "en_sha256": "af765c9f5ec6f3a4cb6b454d7c721672d5fae87633ee08370b064105ddf1250a"
+    },
+    "dataList[id=31].content": {
+      "pl": "Przy wtórze tych błahych żarcików powoli otworzyły się ogromne drzwi, zajmujące cały tył autobusu…",
+      "kr_sha256": "109fd19505934186f735ab63ca65e7c21077e2384aaccc574d107e319a85d7b5",
+      "en_sha256": "934d38202ac7230d5fa83e5b21280da0ed3f932bd841c1a90447173923494d5e"
+    },
+    "dataList[id=32].content": {
+      "pl": "Minęło już parę miesięcy, a mnie dalej dziwnie się robi za każdym razem, jak to widzę…",
+      "kr_sha256": "50db19134ca015b4edcfa89b812e61115e0795d79d18ec82fdee9cbde37a1fec",
+      "en_sha256": "83a31fbae83c7b6c44f8096aa4fb2b2ffef7dca619792ab26c3b1880790b80d6"
+    },
+    "dataList[id=33].content": {
+      "pl": "W środku jest więcej miejsca, niż się wydaje z zewnątrz, prawda?",
+      "kr_sha256": "961e211e3cdef1db5be7923130a5c6f9359d662a482a90cddba9997990156d89",
+      "en_sha256": "2c53b4d9ff584cb059d0c37891d07aa9c3ab009b18fbb28fde0d311d408a0dc8"
+    },
+    "dataList[id=34].content": {
+      "pl": "Gdy otworzyły się Tylne Drzwi autobusu, ukazał się za nimi korytarz: przestronny, a zarazem wąski, głęboki i majestatyczny.",
+      "kr_sha256": "60d696b5e91d9d0381ea63ccb5952a1f2d5df14ccf6f40869752647a25df9b87",
+      "en_sha256": "cb4146be22a6458d65a638f7dc294437a47a0e117b50bc69cdb42d747d1ff951"
+    },
+    "dataList[id=35].content": {
+      "pl": "Korytarz, który zdawał się nie mieć końca… ciągnący się bez kresu.",
+      "kr_sha256": "1398e14b849bbabb39830f1da3540a556afb48cca97047db71af4b5f310bd6be",
+      "en_sha256": "51348ba397b2f39b517a5ece3767ccc999653d11ae7c4642d2cd923eeee9e65d"
+    },
+    "dataList[id=36].content": {
+      "pl": "A na skraju pola widzenia, jakby właśnie tam był koniec, eleganckie słupki wyznaczały strefę zakazu wstępu, a za nimi czerwone lampy, ciągnące się, jak okiem sięgnąć.",
+      "kr_sha256": "f5daae8e7bfbfd67ebc71df6c513d1f01ad34bbcbecefb30cc9cc94150ecea3c",
+      "en_sha256": "24e69e794cbefdc5b91de05bf2e89a62a53ff29d72fe274628c3d321233edb59"
+    },
+    "dataList[id=37].content": {
+      "pl": "Przytulny z pozoru widok… z którego tu i ówdzie wypełzało coś niepokojącego.",
+      "kr_sha256": "bb420db9c01ef823440f34f88e5846d571a9beae2ab5d1789d0dcbbb281c2d39",
+      "en_sha256": "296e400a3cfef0adeab3b2947e2e0831037f36c78a71b849ab6049420d65d6ac"
+    },
+    "dataList[id=38].content": {
+      "pl": "Jak tak pomyśleć… to też jakaś Osobliwość któregoś Skrzydła? Faust, ty chyba wiesz?",
+      "kr_sha256": "a4d240400c018ffbbf7aabcc03093ed3d01c8a2f0b1b6fba66cbbd8868ea359a",
+      "en_sha256": "5ae3cd771b9d9f96f80a30e7d95cd21005e577dab7a4044a8cecc46b5de1fb08"
+    },
+    "dataList[id=39].content": {
+      "pl": "Oczywiście, że wiem. Ale chyba pan też wie, że o większości nie mogę mówić szczegółowo, panie Gregorze.",
+      "kr_sha256": "b6c8001c40949fa3eacad4633b1ca0e8fc620144ec2c00265cabf2fb0167fbe8",
+      "en_sha256": "ce1eec7447fd14731cae80b487ba7bbe077eed0b51e2c64969c6133e6e97c7c5"
+    },
+    "dataList[id=3].content": {
+      "pl": "Charon, zdaje się, że nie dojechaliśmy jeszcze tam, gdzie planowaliśmy.",
+      "kr_sha256": "d760b688fc49d1308c6679423ebda5bba771398edc1380a8ed5349e1c3fa2a59",
+      "en_sha256": "a4107b285c5259b40e5dc228da77295bdd15100a263e2f6a00d6060e86696143"
+    },
+    "dataList[id=40].content": {
+      "pl": "Mogłabyś to chociaż powiedzieć trochę milej…",
+      "kr_sha256": "48f9bdfef21d710294fa48b27aaf1fc5a563b4e68f75450c386ced9248eb182d",
+      "en_sha256": "6cd3c52a811c0f27530b7e83131663fca4d654c3ad20bc6544e0924ef33b0cb7"
+    },
+    "dataList[id=41].content": {
+      "pl": "To jest Korytarz.",
+      "kr_sha256": "204d1639e5b33e3f1c7a0c1e7854316fcfc8a7ee516d2072e08603d07f705310",
+      "en_sha256": "da793a6c21a42d86fa06eeaa3d5141b21991295e6e20ad6f75d996e8dcfbdea6"
+    },
+    "dataList[id=42].content": {
+      "pl": "Zgadza się. To Korytarz.",
+      "kr_sha256": "d3ec3719d637b5f535b4b4c1369f4ddd4217e0b35cc24f2d0d1716b9319553d1",
+      "en_sha256": "2c985aa3ef9fd84254993a972ff9243fd9c6dec6bcb09aa15aa8d6d265871a20"
+    },
+    "dataList[id=43].content": {
+      "pl": "Haa… No tak, długie to, pokoje jeden przy drugim, to i korytarz jak korytarz.",
+      "kr_sha256": "4cd036ef8bf384c1e81334d0aeec03c6a892189185d423cfb0ddf707f14c0524",
+      "en_sha256": "457d832dd34936148dd267f74b7852434b940aa4155e0c7af97cf4d0a7afe975"
+    },
+    "dataList[id=44].content": {
+      "pl": "N. W.",
+      "kr_sha256": "6cf2ae7c01bbbed07a4f3109451d55b2df2d2430026a892973f35ad12ebfad7a",
+      "en_sha256": "f3edb1476de5e22292aaf3e957ad6a0982a3cf709cae423c6e9d985c992231ea"
+    },
+    "dataList[id=45].content": {
+      "pl": "Co ty gadasz… Uff, dajmy spokój. Sam jestem zmęczony… Szefie, zrób już szybko to, co trzeba.",
+      "kr_sha256": "ec47ab382c45654af9a20286d03b0992dd9edec7d5f07d78e9e9f0cf58053f10",
+      "en_sha256": "c0b85e74497cbc1b7809609915bac3ef2cbe0505d0c8eee5f047a22e6f155e2a"
+    },
+    "dataList[id=46].content": {
+      "pl": "Gapiłem się bezmyślnie w koniec tej przestrzeni, aż słowa Gregora mnie otrzeźwiły.",
+      "kr_sha256": "2262f7969c0e42120e3c89fbd80d0b7933a3834688d18a806e0e3af16f8d61d1",
+      "en_sha256": "48f07a4da67b66ea7a45029bebf8de82b56f0597178e9dd1fa92bba38209674f"
+    },
+    "dataList[id=47].content": {
+      "pl": "<A, a… No tak.>",
+      "kr_sha256": "5dc5ad4a838fe31f349b56319a13b0a08a6016004db7172810f7c850ef17b05b",
+      "en_sha256": "f4ec0ba2af865c25a80b0992a2fd60aeda186eedb8754dddf3103fab942e842a"
+    },
+    "dataList[id=48].content": {
+      "pl": "Dante, wiem, że to rutyna i może pan nie widzieć w tym potrzeby… ale zatwierdzenie przez Kierownika to ważny element procedury. Proszę to zrozumieć.",
+      "kr_sha256": "6128c7366c16460030697589f96a1d699379e8758eeff95afa905070f493bd84",
+      "en_sha256": "4c548cc4cfb865f209caf4e5aae92fa5e9f60de703d3067cd79c8656a893c878"
+    },
+    "dataList[id=49].content": {
+      "pl": "<Nie musisz mi tego aż tak tłumaczyć, Faust…>",
+      "kr_sha256": "487d73b37bb78a348dbfe5eb4ac2d98865f162f70dbb39589a33f2b42ef3c1f5",
+      "en_sha256": "b1850b88a527c589abd7fec189a8037fd5d215749ace6abf660a91ff9bd4c279"
+    },
+    "dataList[id=4].content": {
+      "pl": "Do celu brakuje około 15%. Ze względu na dalszy harmonogram optymalnie byłoby przejechać jeszcze co najmniej 3%.",
+      "kr_sha256": "561f65988cfb654907a015deaab0cb1c7a6e8999f6c264f02300be02b441773d",
+      "en_sha256": "8c9bc6dd9512e5049caf6f76c2d56fc94f50e5fb08330ce67460300c9bc5070d"
+    },
+    "dataList[id=50].content": {
+      "pl": "Odpowiedziałem coś zdawkowo, wstałem z miejsca i stanąłem z przodu autobusu, twarzą do wszystkich.",
+      "kr_sha256": "215cef497371fe8c2983adfec63011baeb663167e11bb316d06cf4a2a396561b",
+      "en_sha256": "3d605ee482c906276a29e6e43d13866f5868d8bb60d09457bb6c4a8f310f67fe"
+    },
+    "dataList[id=51].content": {
+      "pl": "<Zatwierdzam zakończenie pracy Grzeszników.>",
+      "kr_sha256": "95da00960ed7393fd5fa3b38faeab7cbc739dd117e6e7c55499beda7205f7295",
+      "en_sha256": "b1653018045034d648971ade452a1c9788ae5e32e0fbe368c6b7888cbb36faea"
+    },
+    "dataList[id=52].content": {
+      "pl": "Dziękuję. Od tej chwili rozpoczyna się sen i odpoczynek, maksymalnie 12 godzin, z zastrzeżeniem możliwych zmian. Dobrej nocy.",
+      "kr_sha256": "aa53c14566f058c2b0bcb64b03ccd1897f9d9d0e9a094a0705e192c017267f31",
+      "en_sha256": "31d3857522dc07fcd7bbce173d1263b5de2e920acbad34347d92e7041ebfd557"
+    },
+    "dataList[id=53].content": {
+      "pl": "Ledwie Faust skończyła, Grzesznicy, postękując każdy na swój sposób, powlekli się przed siebie.",
+      "kr_sha256": "3a63ee13c6ac613818102a1c706773e9d5abb0f5de6eaa79d5908f65880a192b",
+      "en_sha256": "35fe1164a00bc68841792150bbf0d2d307c5209bbdd7968e905b3a4c77f07a7d"
+    },
+    "dataList[id=54].content": {
+      "pl": "Ojojoj~ Ale jestem skonany…",
+      "kr_sha256": "cced92e12af8614e3b4ca0fe6cfdfc1f9f50b36e0e351c32b1bf4456eb81f500",
+      "en_sha256": "e9c48bc57dda4b324c93c462810770637a49879c0060f6dbe778dd76ffadaa48"
+    },
+    "dataList[id=55].content": {
+      "pl": "Mości Sinclairze! Czyż nie zagramy i dziś w szachy?!",
+      "kr_sha256": "ac9ece068cd9fd8fad09bbc9d740238710c5214461075a2b3176fc622e6bb1fb",
+      "en_sha256": "fb84ca491dae7c9ad16582bde61aa6f865a2b6bece64123d139bd4a5a6168da4"
+    },
+    "dataList[id=56].content": {
+      "pl": "N-nie, dziękuję… Pani Don Quixote, ilekroć pani przegrywa, prosi pani pana Yi Sanga o podpowiedzi!",
+      "kr_sha256": "943c36707d59349a2f7f7d9480c43d7a4f6a3652f151ab38fa52d6c5a7396b12",
+      "en_sha256": "24704778638537c82a4a1f19aa0ec902c04b5d04b30fbc4c7dfc858a4219a129"
+    },
+    "dataList[id=57].content": {
+      "pl": "To nieprawda, panie Sinclairze. To… po prostu nie mogłem bezczynnie patrzeć na tak fatalne ruchy…",
+      "kr_sha256": "9a7fb24065d9e6ecc6fd0568120420eeba7ebaf690ac5b9e78051a80296adc7a",
+      "en_sha256": "07dfa490c1c46fb38ebbc2715ae561faf125e67bbe7aa49567ad774c084c7ba0"
+    },
+    "dataList[id=58].content": {
+      "pl": "T-to jeszcze gorzej!",
+      "kr_sha256": "84cc52cc17fe87082599e5502c04f81eeda5be8ad9c519c94abd3eca99ad5669",
+      "en_sha256": "1310ac70298778ed8bdb3c45c81de1a33c10e826c9630933228f1385a875dff8"
+    },
+    "dataList[id=59].content": {
+      "pl": "Kierowniku, dziękuję za dzisiejszy trud. Co do dzisiejszej warty nocnej…",
+      "kr_sha256": "1bdd0c2cacf20aff9b031547abf391696771c358699aadb77484abd23a42ea03",
+      "en_sha256": "b6f9880251cb6edc863649b3b56e63c3347bcab1dc26c79228daa3399ae71b38"
+    },
+    "dataList[id=5].content": {
+      "pl": "Charon, śpiąca. Porządny kierowca autobusu nie prowadzi, kiedy śpiący.",
+      "kr_sha256": "b40027a43a1d0166930ee0f63cf99fe589a68fbb34853a86517b7fe5b5f10c9d",
+      "en_sha256": "782b07c6e5aa02b48c4db9e52c7c7393a2789e2688d90c43a67f5d9f988afc03"
+    },
+    "dataList[id=60].content": {
+      "pl": "<Ach, Meursault. Dzięki. Tak, dziś jakoś nie chce mi się spać…>",
+      "kr_sha256": "7fb88551d06faf6ebcd9b38f0260a55842b116f431bd23dfd554418ef02e22aa",
+      "en_sha256": "135565db377aab5c4867407ee703686d4a0634c39e82e52a96ddd07bc8bdfe9b"
+    },
+    "dataList[id=61].content": {
+      "pl": "Wtedy nagle wtrąciła się Outis.",
+      "kr_sha256": "052b616c668a297c0f43b9db91c6b879ed449bd075e81828b49b2bd5820b9b71",
+      "en_sha256": "ed4e7626bae8cd6a3f08caa645bfd3847747d20d79f3b7ed20a26406e07ef216"
+    },
+    "dataList[id=62].content": {
+      "pl": "Kierowniku! Jak zawsze powtarzam: jeśli jest pan zmęczony, w każdej chwili mogę przejąć wartę…",
+      "kr_sha256": "d9cfea01c3b68985bccc9575452129b03c43c406e0effef02e6213f4914062cc",
+      "en_sha256": "46eb40a6978824c805245c3926c6125c850b86bc9221a4f25a880d50e4ac4a95"
+    },
+    "dataList[id=63].content": {
+      "pl": "No już, już. Adiutantko kochana~ Chodźmy spać~",
+      "kr_sha256": "5c67a30f0b4a45b02627aa122c32cb6553185b899dd9a714ec229dc047c4dc3e",
+      "en_sha256": "4643d81f21f8ae9c68dc9db91f67bbdc757fafba42a098c638dab21bd2709f39"
+    },
+    "dataList[id=64].content": {
+      "pl": "Kierowniku! Za trudy dzisiejszej służ…",
+      "kr_sha256": "8aae75566c45ea3166ef8525ebd75ef626e54a30b0a4b393ade7c4538036edf6",
+      "en_sha256": "961776628656c362bf9b9f8e2bb4969f99347991c8b20d8da0dfa696574b06a3"
+    },
+    "dataList[id=65].content": {
+      "pl": "No już~ Idziemy.",
+      "kr_sha256": "e68388c25725c3972eefa0da4b610fc3e4667cc6136a77ff275074b77654dfb1",
+      "en_sha256": "49705aaea59f1cb987ce2c83c9eeed7195a04ac1d0b017107303c86e61cc3bb8"
+    },
+    "dataList[id=66].content": {
+      "pl": "Ishmael lekko skinęła mi głową na pożegnanie, po czym razem z Rodion wciągnęła Outis za Tylne Drzwi autobusu.",
+      "kr_sha256": "8c878d4c8366f3e0beee0176caa4f1975595cd98346adafcd27ec3a21a0609c4",
+      "en_sha256": "c18e66f952ae7c2820eaaf75552253994e32fee79e4d8fd72f351d92ab345036"
+    },
+    "dataList[id=67].content": {
+      "pl": "I zostaliśmy tylko ja i Faust.",
+      "kr_sha256": "7eb7f6f3acd16ec10005d6e131d778d2684c3bdb69be8c0f164308c0f72f7f87",
+      "en_sha256": "f755af39c6de4367c1a94edf7b34990283de12b29c3874df0e7417e6a7bb827d"
+    },
+    "dataList[id=68].content": {
+      "pl": "Dobrze się składa, Dante. Gdyby nie wepchnęli pani Outis do środka, znów długo by pana męczyła, żeby oddał jej pan wartę.",
+      "kr_sha256": "2ff0e06078f9b61c50dcc48038bd073e0562118f0a3eb977e1ade70523451cb3",
+      "en_sha256": "be29bb9da3101264cd4f84a4767865d3de04405196f9c442ee936e390d2e382f"
+    },
+    "dataList[id=69].content": {
+      "pl": "<Ha, ha, zwykle tak jest…>",
+      "kr_sha256": "98c0f547a4d8a005926735ec5069430cf9e6de9f464d65770d170455e4fb22df",
+      "en_sha256": "87adf7705d01ab07db2dc15ef05b2fa82b50fffabcba453ce7cf0fee84184c40"
+    },
+    "dataList[id=6].content": {
+      "pl": "Dobra, kapuję, ale nie wciskaj tak nagle hamulca!! Wiesz, który to już raz?!",
+      "kr_sha256": "ffa58d06a3cd6534a5ad11a8c61e824150c8aab0e90961168d4e9e983b104678",
+      "en_sha256": "906a88e6d5d29bf046b3fb1fc504a216da06e9d75d1470f6378858969d8e6572"
+    },
+    "dataList[id=70].content": {
+      "pl": "Odpowiedziałem nieobecnym tonem, patrząc w głąb korytarza, w którym jeden po drugim znikali Grzesznicy.",
+      "kr_sha256": "4b51b9144efce203c4c62859f71a20b2c078e0b8c1bbf8aa1dd128edaa900c43",
+      "en_sha256": "5385fecaf886fc338d06339b1dd76fae077157832951c8765f2ccc869480de1a"
+    },
+    "dataList[id=71].content": {
+      "pl": "Drzwi, za którymi przed chwilą zniknęła Rodion, zamykają się, a teraz otwiera je i wchodzi do środka Ishmael.",
+      "kr_sha256": "d64c8cce1498057da3a39c16761c97e1aa480b1283c1fbadc1fe1e3373b01598",
+      "en_sha256": "d64b313ea3ed83989fed6be35b3f693ed5f372a6c9bf7d72d81d04d538d60617"
+    },
+    "dataList[id=72].content": {
+      "pl": "<Mówiłaś, że za każdym razem, gdy otwiera się i zamyka drzwi, pojawia się inne miejsce?>",
+      "kr_sha256": "4e62ec3112b67f0fffa54f9b8ea7b5b64ce35c3d4a060422c13b0ba976c1d8b8",
+      "en_sha256": "dd6174b323e7c022be0d44385d3731e75477a06bdde5795cf6d4cbcbc8c7da7e"
+    },
+    "dataList[id=73].content": {
+      "pl": "Tak. O ile Grzesznik jest w odpowiednim stanie psychicznym… drzwi prowadzą do odpowiedniego dla niego miejsca, w którym może nocować i z którego może korzystać.",
+      "kr_sha256": "3d75c8c2735dd40086a30efd965d52e2afb63551a59b18002e1a6395a3cdbf49",
+      "en_sha256": "b6526a56f211de5a537ea877d15aba66bd9d175b1974f7383a6b4519b652a6ad"
+    },
+    "dataList[id=74].content": {
+      "pl": "Miejsce do nocowania… Kiedy ostatnio zajrzałem tam przez okienko, wyglądało raczej jak cela.",
+      "kr_sha256": "acb210c1f8dba59139fe7bd9c647a3ab28cf4bf7ab22780d336c0dbabc5c5cad",
+      "en_sha256": "9b493c933c4bcb8a77e2461271d7f4b90f6a78bdf20d2537cd8c4632cfd7aa08"
+    },
+    "dataList[id=75].content": {
+      "pl": "Ale skoro tak, to można się tam umyć, przespać… jest wszystko, co mam w swoim pokoju…",
+      "kr_sha256": "2fb1b42b108d8dd8e050997fe3b8d8a7cbdf4b34ec0ede356a59bf817b88f40a",
+      "en_sha256": "2ccd89089fc4c7ef896e67cba136c3b3d070333e5f1cfe84ec7532928f936167"
+    },
+    "dataList[id=76].content": {
+      "pl": "…Widzę, że ma pan jeszcze jakieś pytania.",
+      "kr_sha256": "196daf2875dc5aa269f5ffcb25acd9cff3879b31746dc45242f614a784f71c5f",
+      "en_sha256": "334ec108e8fad64e16fb6b8041175857bb3f35c9c68a9fbd72a09b3061563009"
+    },
+    "dataList[id=77].content": {
+      "pl": "Zegar przecież nie ma ani oczu, ani nosa, ani ust.",
+      "kr_sha256": "d583cf0ff8ab4e7a00168385a4015b88d194807f1657d03a180ac7d52eea5132",
+      "en_sha256": "9ef47a7068af440bf388079495c8d0a1907b3d389add561ea6bc5fa87f639385"
+    },
+    "dataList[id=78].content": {
+      "pl": "A jednak Faust zdaje się coś ze mnie wyczytywać.",
+      "kr_sha256": "643e8b39bcca289ad757f8a6fff4c5688a691db77a5ecdc32b7bef5ced2665de",
+      "en_sha256": "621632fde12c2ea21eaedf14746b283022c79c8a4667f3772a74ecf271c4ce7f"
+    },
+    "dataList[id=79].content": {
+      "pl": "…I tak pewnie nie usłyszę porządnej odpowiedzi, ale…",
+      "kr_sha256": "59889d92f35b98bbde071987c9323594b660fa16a728aae1035e81f48ae39992",
+      "en_sha256": "0fd92686f78a3d0ea794e1dbcff6d29335c3174d6847548543b1ce418df14b5e"
+    },
+    "dataList[id=7].content": {
+      "pl": "Hm, hm! Mości Heathcliff już czwarty raz wyrżnął nosem w przedni fotel, zatem i hamowanie to już czwarte być musi!",
+      "kr_sha256": "caa1bb475e929f4cb037538de50026b397f020beeedbb476e72a5286e5d945b0",
+      "en_sha256": "12c3b4673ebaf264bc6785b065b1b0c5416b7d4bffc1dc15647166c3d6c39401"
+    },
+    "dataList[id=80].content": {
+      "pl": "<…Po prostu ciekawi mnie, co jest tam dalej.>",
+      "kr_sha256": "2304e14a8f2109703589ee57893b76dcf7870f27955b3a29e00c684df186cdf7",
+      "en_sha256": "00b1b8d9aee30a20c25cd9cf410bc708912911365fe5c5d83fcfcd752f223cb9"
+    },
+    "dataList[id=81].content": {
+      "pl": "Wskazałem palcem koniec korytarza.",
+      "kr_sha256": "c40021fba9d076bfd9b6d293d8f8d2b6fb7306882e8dcc4f084079ca54df1086",
+      "en_sha256": "62528ceec8554da8aa154179e94f708a328fd0b0d0a207d8738c66848b2da898"
+    },
+    "dataList[id=82].content": {
+      "pl": "To, co leży dalej: w głębi korytarza, o którym nie wiadomo, dokąd sięga.",
+      "kr_sha256": "84c278f77b181232ee5207155615c534764c653746308b0171b1d2576969c744",
+      "en_sha256": "cd029f2024e2afaf2565e2c22b5f42cc32e90b3a454cd1b58e8bb4fbd95e0d4d"
+    },
+    "dataList[id=83].content": {
+      "pl": "…Mówiłam już panu wiele razy, Dante: lepiej się tym nie interesować.",
+      "kr_sha256": "fefe9b0183f0e86ba9bd601f98c917f86b5a1f1a2b622aa32dfd2c48c8def26e",
+      "en_sha256": "5b55e1fe1ceb1440dea6abc64423da4bb8d964ddbe614273140367e68ec471ec"
+    },
+    "dataList[id=84].content": {
+      "pl": "Zgodnie z przewidywaniami zamiast odpowiedzi Faust wybrała ciche westchnienie i ruszyła w stronę korytarza.",
+      "kr_sha256": "fd59cae270e38734b77db44a8d73b8726217108b88c6ab8913116c798c0a3d5a",
+      "en_sha256": "e2850a0c8ced1a8c630e57753ef29e372610a884bc65886be16d784989d25cbe"
+    },
+    "dataList[id=85].content": {
+      "pl": "Ale może… Faust już wtedy wiedziała. W końcu Faust wie wszystko.",
+      "kr_sha256": "b6857b08f8b821883536624110d18b0e9eaecfa756e16773f12dc0a5257e4a60",
+      "en_sha256": "dda9f7d56641e1360b768141e435ba6d51d5aa8b8cfe0f9805f187dd5a3dfde8"
+    },
+    "dataList[id=86].content": {
+      "pl": "…Wiedziała, że już niedługo sam się dowiem, co jest w głębi korytarza.",
+      "kr_sha256": "b09f1f98749e97fa7fa807c20ead4f0e6674982c22651ef6d551c3207e500d6f",
+      "en_sha256": "2653cbf658ea862e838e62fed1e3619711511053669271b56e8b9982e89523b6"
+    },
+    "dataList[id=8].content": {
+      "pl": "Należy odejść od kierownicy, gdy tylko pojawi się senność. Tak mówiło radio.",
+      "kr_sha256": "0de2feaf80bce696d981809b4f9f9e2c8535ecfe881d0ed55a6933ba159b7952",
+      "en_sha256": "c1a2c1c720333e28c37ccf2e87d11296f7bc77270b48050e3cb667ab72c395ba"
+    },
+    "dataList[id=9].content": {
+      "pl": "Niby racja… ale można by do tego podejść trochę elastyczniej, nie?",
+      "kr_sha256": "c724a0d275b6823a03f09623a416d44d354fc06e89bc55de094529754a0e6c11",
+      "en_sha256": "8667551a6b35189d6caecc7e16613cb31d1606c7b43f46fd67b382ec25f9c678"
+    }
+  }
+}

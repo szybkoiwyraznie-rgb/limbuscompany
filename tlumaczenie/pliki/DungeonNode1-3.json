@@ -1,634 +1,529 @@
 {
   "entries": {
     "dataList[id=10301].stageList[id=0].title": {
-      "pl": "Wejście do Podziemi",
+      "pl": "Wejście do piwnicy",
       "kr_sha256": "44576680ca1f692a1c5921bcbf9a5ccba7823f0e7e263cfbe89413a991222028",
-      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a",
-      "origin": "ai"
+      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a"
     },
     "dataList[id=10301].stageList[id=100].title": {
-      "pl": "Wejście do Podziemnej Kaplicy",
+      "pl": "Wejście do podziemnego kościoła",
       "kr_sha256": "fce41fca70921e81c090eb9b577b9e98984804209dfec35ca37b6f75f10114fd",
-      "en_sha256": "91a438626c592d9e2004e1b067fa74887a73cea4abf4b335fe3a4f203f23ff4d",
-      "origin": "ai"
+      "en_sha256": "91a438626c592d9e2004e1b067fa74887a73cea4abf4b335fe3a4f203f23ff4d"
     },
     "dataList[id=10301].stageList[id=101].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "5fafba93360a42118e13a7987de2ab808710d2045b5e99a70544b8ee5086a7d8",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=101].title": {
-      "pl": "Korytarz Podziemnej Kaplicy",
+      "pl": "Korytarz podziemnego kościoła",
       "kr_sha256": "52d76a0f1916d37935d0eaa1f37d471261adadfbf4fa4462b3c46dc76539f1b2",
-      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b",
-      "origin": "ai"
+      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b"
     },
     "dataList[id=10301].stageList[id=102].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "5fafba93360a42118e13a7987de2ab808710d2045b5e99a70544b8ee5086a7d8",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=102].title": {
-      "pl": "Korytarz Podziemnej Kaplicy",
+      "pl": "Korytarz podziemnego kościoła",
       "kr_sha256": "52d76a0f1916d37935d0eaa1f37d471261adadfbf4fa4462b3c46dc76539f1b2",
-      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b",
-      "origin": "ai"
+      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b"
     },
     "dataList[id=10301].stageList[id=10].desc": {
-      "pl": "Zajęta przez Inkwizytorów filia Lobotomy Corp. zmieniła się w krwawą katownię. Mieszkańcy miasteczka Calw bezsilnie znosili katusze wyłącznie za to, że poddali się wszczepieniu protez.",
+      "pl": "Zajęta przez Inkwizytorów filia L Corp. stała się salą tortur, w której trwa straszliwa rzeź. Mieszkańcy Calw, tylko dlatego, że mają protezy, mogą jedynie bezsilnie znosić tę mękę.",
       "kr_sha256": "bc237b31b835cd790fcd89c702e0c6eff8ab35850d363729460f2d8e0c259b37",
-      "en_sha256": "a3ca8fcd686c751699952d06841a86d4199b3a28b4f1236e2c00f981b30823c0",
-      "origin": "ai"
+      "en_sha256": "a3ca8fcd686c751699952d06841a86d4199b3a28b4f1236e2c00f981b30823c0"
     },
     "dataList[id=10301].stageList[id=10].title": {
-      "pl": "Wejście do Podziemi",
+      "pl": "Wejście do piwnicy",
       "kr_sha256": "44576680ca1f692a1c5921bcbf9a5ccba7823f0e7e263cfbe89413a991222028",
-      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a",
-      "origin": "ai"
+      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a"
     },
     "dataList[id=10301].stageList[id=1100].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=1100].title": {
-      "pl": "Droga do Sanktuarium",
+      "pl": "Droga do sanktuarium",
       "kr_sha256": "a0e20d1a71416eed52b7254466273111b026ed39d0b4a920f93e662124c4bd2b",
-      "en_sha256": "4f6547ab1b876d64976b357d82820c10172684f49b5ef6ab5205f6a0f61a9b88",
-      "origin": "ai"
+      "en_sha256": "4f6547ab1b876d64976b357d82820c10172684f49b5ef6ab5205f6a0f61a9b88"
     },
     "dataList[id=10301].stageList[id=110].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "5fafba93360a42118e13a7987de2ab808710d2045b5e99a70544b8ee5086a7d8",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=110].title": {
-      "pl": "Zamknięta Rozmównica Modlitewna",
+      "pl": "Zamknięta modlitewnia",
       "kr_sha256": "fa6968c6f32fc908cf30a82bba0bde82e8c1067e6e3e862adb6680f34c1be721",
-      "en_sha256": "6f0817a617d0a373de6dc7d8ffccb678402fbfb8cf633d31d9e00c47a9a40ba6",
-      "origin": "ai"
+      "en_sha256": "6f0817a617d0a373de6dc7d8ffccb678402fbfb8cf633d31d9e00c47a9a40ba6"
     },
     "dataList[id=10301].stageList[id=111].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "5fafba93360a42118e13a7987de2ab808710d2045b5e99a70544b8ee5086a7d8",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=111].title": {
-      "pl": "Korytarz Podziemnej Kaplicy",
+      "pl": "Korytarz podziemnego kościoła",
       "kr_sha256": "52d76a0f1916d37935d0eaa1f37d471261adadfbf4fa4462b3c46dc76539f1b2",
-      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b",
-      "origin": "ai"
+      "en_sha256": "8c3d42af08a22c638ba20c83c7144a1a0f993c9f47c5ca3f86fa9910cca9dc5b"
     },
     "dataList[id=10301].stageList[id=11].desc": {
-      "pl": "Przy wejściu do podziemi natknęliśmy się na konającą Saude. Nikt nie miał serca odpowiedzieć zgodnie z prawdą na jej rozpaczliwe pytanie o los Effiego.",
+      "pl": "Przy wejściu do piwnicy natrafiliśmy na umierającą Saude. Na jej rozpaczliwe pytanie, czy Effie żyje, nikt z nas nie potrafił odpowiedzieć zgodnie z prawdą.",
       "kr_sha256": "70db9e9ec5f96a1825dd9abd938cc28d81afff97f96e83a0ba3ede5fa0bda3fe",
-      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119",
-      "origin": "ai"
+      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119"
     },
     "dataList[id=10301].stageList[id=11].title": {
-      "pl": "Wejście do Podziemi",
+      "pl": "Wejście do piwnicy",
       "kr_sha256": "44576680ca1f692a1c5921bcbf9a5ccba7823f0e7e263cfbe89413a991222028",
-      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a",
-      "origin": "ai"
+      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a"
     },
     "dataList[id=10301].stageList[id=120].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=120].title": {
-      "pl": "Zamknięta Rozmównica Modlitewna",
+      "pl": "Zamknięta modlitewnia",
       "kr_sha256": "fa6968c6f32fc908cf30a82bba0bde82e8c1067e6e3e862adb6680f34c1be721",
-      "en_sha256": "6f0817a617d0a373de6dc7d8ffccb678402fbfb8cf633d31d9e00c47a9a40ba6",
-      "origin": "ai"
+      "en_sha256": "6f0817a617d0a373de6dc7d8ffccb678402fbfb8cf633d31d9e00c47a9a40ba6"
     },
     "dataList[id=10301].stageList[id=121].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=121].title": {
-      "pl": "Komnata Krzyków",
+      "pl": "Komnata krzyków",
       "kr_sha256": "7fc29bdfb67f40ba085af5a622a8de1fabe006136b9de373d3282131867524c8",
-      "en_sha256": "a2c7913d5cf09e1b51ccd9aab76d81a3d32fe3947cfcc2121186b2ddf278a2b9",
-      "origin": "ai"
+      "en_sha256": "a2c7913d5cf09e1b51ccd9aab76d81a3d32fe3947cfcc2121186b2ddf278a2b9"
     },
     "dataList[id=10301].stageList[id=12].desc": {
-      "pl": "Zajęta przez Inkwizytorów filia Lobotomy Corp. zmieniła się w krwawą katownię. Mieszkańcy miasteczka Calw bezsilnie znosili katusze wyłącznie za to, że poddali się wszczepieniu protez.",
+      "pl": "Zajęta przez Inkwizytorów filia L Corp. stała się salą tortur, w której trwa straszliwa rzeź. Mieszkańcy Calw, tylko dlatego, że mają protezy, mogą jedynie bezsilnie znosić tę mękę.",
       "kr_sha256": "a37e608e06159c321389511739d264cdd8d9de735854fb832462409c2d054c52",
-      "en_sha256": "a3ca8fcd686c751699952d06841a86d4199b3a28b4f1236e2c00f981b30823c0",
-      "origin": "ai"
+      "en_sha256": "a3ca8fcd686c751699952d06841a86d4199b3a28b4f1236e2c00f981b30823c0"
     },
     "dataList[id=10301].stageList[id=12].title": {
-      "pl": "Wejście do Podziemi",
+      "pl": "Wejście do piwnicy",
       "kr_sha256": "44576680ca1f692a1c5921bcbf9a5ccba7823f0e7e263cfbe89413a991222028",
-      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a",
-      "origin": "ai"
+      "en_sha256": "7d0dfef40008b8274a4e40c1dbc8584725fef5ecf72003b83f4e8290408ccc9a"
     },
     "dataList[id=10301].stageList[id=130].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=130].title": {
-      "pl": "Brama nr 2",
+      "pl": "Brama 2",
       "kr_sha256": "da78141c862605a1779fc9092edb111f4f3f97947f895efd009e5fd0a93cf39a",
-      "en_sha256": "e9307812a39271287b48b1e236197432194b6f4651a6ee9fbb7e74f4de287d51",
-      "origin": "ai"
+      "en_sha256": "e9307812a39271287b48b1e236197432194b6f4651a6ee9fbb7e74f4de287d51"
     },
     "dataList[id=10301].stageList[id=140].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=140].title": {
-      "pl": "Komnata Jątrzenia",
+      "pl": "Komnata ropienia",
       "kr_sha256": "4a35ebdad9fb684652c109b46693e580b8ef8d476699ba84b054da6710a16384",
-      "en_sha256": "ed9d31af5c6168d9c35c6b0a1cebd35fe0d06801ab97dc462ce216d0be691432",
-      "origin": "ai"
+      "en_sha256": "ed9d31af5c6168d9c35c6b0a1cebd35fe0d06801ab97dc462ce216d0be691432"
     },
     "dataList[id=10301].stageList[id=150].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=150].title": {
-      "pl": "Wnętrze Kaplicy",
+      "pl": "Wnętrze kościoła",
       "kr_sha256": "3413fcef89549f57a304ff88805f27666e841f380b1c0c4943584124128c1827",
-      "en_sha256": "9c1247072ae36b5447bec731fb24c03ceb993615e1e419602cbf2335405c2c87",
-      "origin": "ai"
+      "en_sha256": "9c1247072ae36b5447bec731fb24c03ceb993615e1e419602cbf2335405c2c87"
     },
     "dataList[id=10301].stageList[id=151].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=151].title": {
-      "pl": "Wrota Kaplicy",
+      "pl": "Wejście do kościoła",
       "kr_sha256": "ad741987a228a2275f5e68bd7a813a0b2a5d7be0186f3c8d486483447a989d28",
-      "en_sha256": "f962733943bbf1ce9001cd72a993030e10e87c3abb4ea0bf889649d6e4788973",
-      "origin": "ai"
+      "en_sha256": "f962733943bbf1ce9001cd72a993030e10e87c3abb4ea0bf889649d6e4788973"
     },
     "dataList[id=10301].stageList[id=152#2].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=152#2].title": {
-      "pl": "Ołtarz Łez",
+      "pl": "Ołtarz łez",
       "kr_sha256": "48856bab3b335c55193b4365221655868c47382d89d73119d540a13d1f2bd993",
-      "en_sha256": "07e0bf20027d421f6aa9caabeb8f3c6238cdff844bf1de6757b68f78b9fd4f89",
-      "origin": "ai"
+      "en_sha256": "07e0bf20027d421f6aa9caabeb8f3c6238cdff844bf1de6757b68f78b9fd4f89"
     },
     "dataList[id=10301].stageList[id=152].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=152].title": {
-      "pl": "Most Kontemplacji",
+      "pl": "Most kontemplacji",
       "kr_sha256": "c058a1e79df9149cdc50bf472d000a762e32e800e4b00dfe3d29ea9ddd29660f",
-      "en_sha256": "77ba05c8dacd333718d2eed585468c26ca898ae7e324cd57f24899ac89db5d1b",
-      "origin": "ai"
+      "en_sha256": "77ba05c8dacd333718d2eed585468c26ca898ae7e324cd57f24899ac89db5d1b"
     },
     "dataList[id=10301].stageList[id=160].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=160].title": {
-      "pl": "Ołtarz Łez",
+      "pl": "Ołtarz łez",
       "kr_sha256": "48856bab3b335c55193b4365221655868c47382d89d73119d540a13d1f2bd993",
-      "en_sha256": "07e0bf20027d421f6aa9caabeb8f3c6238cdff844bf1de6757b68f78b9fd4f89",
-      "origin": "ai"
+      "en_sha256": "07e0bf20027d421f6aa9caabeb8f3c6238cdff844bf1de6757b68f78b9fd4f89"
     },
     "dataList[id=10301].stageList[id=161].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=161].title": {
-      "pl": "Relikwiarz",
+      "pl": "Zakrystia",
       "kr_sha256": "61feab083f7d7361f74461e966a1460a2a7dce09043d23c82e35cdd72a4d931c",
-      "en_sha256": "8d960cc4ec8b483ae2aa4a4a920e215066f94136f1cb93d2852ecf81f3c34614",
-      "origin": "ai"
+      "en_sha256": "8d960cc4ec8b483ae2aa4a4a920e215066f94136f1cb93d2852ecf81f3c34614"
     },
     "dataList[id=10301].stageList[id=162].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=162].title": {
-      "pl": "Strefa Centralna",
+      "pl": "Strefa centralna",
       "kr_sha256": "e99feaa1a852ca7554e903d4ccc27057aa838b94eb2acd8afa7731e578479ec9",
-      "en_sha256": "b5d75cb6425fd067a71a591934d4d9fa7e921947cf985baaf59995c9b7b0fbc4",
-      "origin": "ai"
+      "en_sha256": "b5d75cb6425fd067a71a591934d4d9fa7e921947cf985baaf59995c9b7b0fbc4"
     },
     "dataList[id=10301].stageList[id=163].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=163].title": {
-      "pl": "Wejście do Ołtarza",
+      "pl": "Droga do ołtarza",
       "kr_sha256": "bfc4881fab6a91092c20c02ca9c43e7aa31c2edbc348990f0ce81fdd5839abad",
-      "en_sha256": "0d5860aacecb13a4662638220976644d3f22cc44d0cc5b566830f2fcfcb01890",
-      "origin": "ai"
+      "en_sha256": "0d5860aacecb13a4662638220976644d3f22cc44d0cc5b566830f2fcfcb01890"
     },
     "dataList[id=10301].stageList[id=164].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=164].title": {
-      "pl": "Ołtarz Pokuty",
+      "pl": "Ołtarz pokuty",
       "kr_sha256": "71389e5b8d56e1e7fac5460896925a266191981bf2152723ad3c3f44472bc6dc",
-      "en_sha256": "01f429d3a0a6594f95e4b68b8a567eea057edbd1bfebd9bd0359d88b4e7bcb32",
-      "origin": "ai"
+      "en_sha256": "01f429d3a0a6594f95e4b68b8a567eea057edbd1bfebd9bd0359d88b4e7bcb32"
     },
     "dataList[id=10301].stageList[id=170].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=170].title": {
-      "pl": "Oczyszczalnia",
+      "pl": "Miejsce oczyszczenia",
       "kr_sha256": "5da4bc865fc2987d74f30161bb2bb58a5a25d1ab0c2b5cce789ddbbc4124f6e5",
-      "en_sha256": "de45bea7fb63246e82a0e2b52e56e9e395407ec56ef0ed4832e2999a412dc89e",
-      "origin": "ai"
+      "en_sha256": "de45bea7fb63246e82a0e2b52e56e9e395407ec56ef0ed4832e2999a412dc89e"
     },
     "dataList[id=10301].stageList[id=180].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=180].title": {
-      "pl": "Wnętrze Kaplicy",
+      "pl": "Wnętrze kościoła",
       "kr_sha256": "3413fcef89549f57a304ff88805f27666e841f380b1c0c4943584124128c1827",
-      "en_sha256": "9c1247072ae36b5447bec731fb24c03ceb993615e1e419602cbf2335405c2c87",
-      "origin": "ai"
+      "en_sha256": "9c1247072ae36b5447bec731fb24c03ceb993615e1e419602cbf2335405c2c87"
     },
     "dataList[id=10301].stageList[id=181].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=181].title": {
-      "pl": "Brama nr 3",
+      "pl": "Brama 3",
       "kr_sha256": "78dc393fa75e439e52e3fa0c5ae9da2bd19644939ca09a4d18054e6083df3a39",
-      "en_sha256": "435f337eef0b5bbee6ebfa1d637f27eb5ff5acf2b9e6b59c16c04ed7ae8eb830",
-      "origin": "ai"
+      "en_sha256": "435f337eef0b5bbee6ebfa1d637f27eb5ff5acf2b9e6b59c16c04ed7ae8eb830"
     },
     "dataList[id=10301].stageList[id=182].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=182].title": {
-      "pl": "Wnętrze Kaplicy",
+      "pl": "Wnętrze kościoła",
       "kr_sha256": "3413fcef89549f57a304ff88805f27666e841f380b1c0c4943584124128c1827",
-      "en_sha256": "9c1247072ae36b5447bec731fb24c03ceb993615e1e419602cbf2335405c2c87",
-      "origin": "ai"
+      "en_sha256": "9c1247072ae36b5447bec731fb24c03ceb993615e1e419602cbf2335405c2c87"
     },
     "dataList[id=10301].stageList[id=190].desc": {
-      "pl": "Dotarliśmy na kolejne piętro. Wszędzie wokół poniewierały się narzędzia tortur, strzępy ciał i konający z bólu mieszkańcy Calw. Najtrudniej było jednak znieść rozbrzmiewające co jakiś czas gwizdanie.",
+      "pl": "Dotarliśmy na kolejne piętro. Wszędzie narzędzia tortur ustawione przez Inkwizytorów, strzępy ciał i mieszkańcy Calw, gasnący z bólu. Najtrudniej było jednak znieść czyjeś pogwizdywanie, które co jakiś czas do nas dobiegało.",
       "kr_sha256": "c48fd87fe89164f834ef0a32547f81994c2774e911e8698bc6fd4d48fd60f10a",
-      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03",
-      "origin": "ai"
+      "en_sha256": "f22e734ff2cc3be7d199d650f5c5eacbba0826889f00b905dea6605dc20a2b03"
     },
     "dataList[id=10301].stageList[id=190].title": {
-      "pl": "Trybunał Osądu",
+      "pl": "Probierz godności",
       "kr_sha256": "09fc73d6576cf2b77cfc3ae7d3d11ae0cb9c7ab283783802ffe5d2660a48cdb1",
-      "en_sha256": "cb1a906a0fcaca05d76509b94fbdb4f9c153ed73baec8486d99d3e95231d7ed1",
-      "origin": "ai"
+      "en_sha256": "cb1a906a0fcaca05d76509b94fbdb4f9c153ed73baec8486d99d3e95231d7ed1"
     },
     "dataList[id=10301].stageList[id=200].title": {
-      "pl": "Wejście na Plac Rytualny",
+      "pl": "Wejście na plac obrzędów",
       "kr_sha256": "3a91aff1705e022033a19542ab97d587f64b2df86f60c381e769c9b0dcd14a93",
-      "en_sha256": "a51c8cd34843e3493b1b0a18052f9993c0db5b338824aba5728b02f5974f3018",
-      "origin": "ai"
+      "en_sha256": "a51c8cd34843e3493b1b0a18052f9993c0db5b338824aba5728b02f5974f3018"
     },
     "dataList[id=10301].stageList[id=20].desc": {
-      "pl": "Przy wejściu do podziemi natknęliśmy się na konającą Saude. Nikt nie miał serca odpowiedzieć zgodnie z prawdą na jej rozpaczliwe pytanie o los Effiego.",
+      "pl": "Przy wejściu do piwnicy natrafiliśmy na umierającą Saude. Na jej rozpaczliwe pytanie, czy Effie żyje, nikt z nas nie potrafił odpowiedzieć zgodnie z prawdą.",
       "kr_sha256": "70db9e9ec5f96a1825dd9abd938cc28d81afff97f96e83a0ba3ede5fa0bda3fe",
-      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119",
-      "origin": "ai"
+      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119"
     },
     "dataList[id=10301].stageList[id=20].title": {
       "pl": "Maszynownia",
       "kr_sha256": "9691d6a2582f6dca2845c77d4d47450ab11c5227c594ff55bbfc66d2ad019e87",
-      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277",
-      "origin": "ai"
+      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277"
     },
     "dataList[id=10301].stageList[id=2100].desc": {
-      "pl": "Wspomnienia burzy, która obróciła życie Sinclaira w ruinę, dobiegają końca. Tylko Kromer otwarcie okazuje uczucia — niepohamowaną satysfakcję.",
+      "pl": "Straszny czas w życiu Sinclaira, zrujnowanym jak przez kataklizm, dobiega końca. Tylko Kromer śmieje się, jakby nie mogła wytrzymać z zadowolenia.",
       "kr_sha256": "f9763d5962c846ea34531913b6cf81c25489e5c48b7c63d7ed6fd8e8c8fcb038",
-      "en_sha256": "2fc11ca5fa4d6416023a3ac1f79fac220ce3425a4b9bcddf88d538201e0cdace",
-      "origin": "ai"
+      "en_sha256": "2fc11ca5fa4d6416023a3ac1f79fac220ce3425a4b9bcddf88d538201e0cdace"
     },
     "dataList[id=10301].stageList[id=2100].title": {
       "pl": "Wzgórze Trupów",
       "kr_sha256": "f1951746020bd68bb8be847e62a06c37b732103e9a8b9a2a286434affc8f5715",
-      "en_sha256": "652817dea745cfd0c92fc69ec0f1c5a58bf1b067e2d108dc91dc58808cd0bf1b",
-      "origin": "ai"
+      "en_sha256": "652817dea745cfd0c92fc69ec0f1c5a58bf1b067e2d108dc91dc58808cd0bf1b"
     },
     "dataList[id=10301].stageList[id=210].desc": {
-      "pl": "Pod wpływem Złotej Gałęzi przestrzeń ta zmieniła się w bezkresne wzgórze trupów. Widać Inkwizytorów pogrążonych w modłach ku czyjejś czci.",
+      "pl": "To miejsce, już odmienione przez Złotą Gałąź, stało się Bezkresnym Wzgórzem Trupów. Widać Inkwizytorów oddających komuś cześć.",
       "kr_sha256": "174ba6bdc2529110b9c255031aa8c2c5125f6f83b60c847601a479d53a15cf2f",
-      "en_sha256": "aebaf7b83733688ad7c68686e702e354f6adb307648140a37b912085f36a5a84",
-      "origin": "ai"
+      "en_sha256": "aebaf7b83733688ad7c68686e702e354f6adb307648140a37b912085f36a5a84"
     },
     "dataList[id=10301].stageList[id=210].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=21].desc": {
-      "pl": "Przy wejściu do podziemi natknęliśmy się na konającą Saude. Nikt nie miał serca odpowiedzieć zgodnie z prawdą na jej rozpaczliwe pytanie o los Effiego.",
+      "pl": "Przy wejściu do piwnicy natrafiliśmy na umierającą Saude. Na jej rozpaczliwe pytanie, czy Effie żyje, nikt z nas nie potrafił odpowiedzieć zgodnie z prawdą.",
       "kr_sha256": "70db9e9ec5f96a1825dd9abd938cc28d81afff97f96e83a0ba3ede5fa0bda3fe",
-      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119",
-      "origin": "ai"
+      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119"
     },
     "dataList[id=10301].stageList[id=21].title": {
       "pl": "Maszynownia",
       "kr_sha256": "9691d6a2582f6dca2845c77d4d47450ab11c5227c594ff55bbfc66d2ad019e87",
-      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277",
-      "origin": "ai"
+      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277"
     },
     "dataList[id=10301].stageList[id=220].desc": {
-      "pl": "Wśród bicia dzwonów — dla jednych znajomego, dla innych obcego — zaglądamy w przeszłość Sinclaira. Chłopak siedzi pośrodku gwarnej klasy pełnej rozgadanych uczniów.",
+      "pl": "Przy dźwięku dzwonu, dla jednych aż nazbyt znajomym, dla innych obcym, oglądamy przeszłość Sinclaira. Gwarna klasa, rozszczebiotani uczniowie, a pośród nich siedzi Sinclair.",
       "kr_sha256": "07920498abca96aa44c337878259d63f8e6cf31b078c2372136181a8d2db1c23",
-      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5",
-      "origin": "ai"
+      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5"
     },
     "dataList[id=10301].stageList[id=220].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=22].desc": {
-      "pl": "Przy wejściu do podziemi natknęliśmy się na konającą Saude. Nikt nie miał serca odpowiedzieć zgodnie z prawdą na jej rozpaczliwe pytanie o los Effiego.",
+      "pl": "Przy wejściu do piwnicy natrafiliśmy na umierającą Saude. Na jej rozpaczliwe pytanie, czy Effie żyje, nikt z nas nie potrafił odpowiedzieć zgodnie z prawdą.",
       "kr_sha256": "70db9e9ec5f96a1825dd9abd938cc28d81afff97f96e83a0ba3ede5fa0bda3fe",
-      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119",
-      "origin": "ai"
+      "en_sha256": "e15e12e5b3f2c6069aaeccbe526a7adf843210888649ae8fac7b41fb301d9119"
     },
     "dataList[id=10301].stageList[id=22].title": {
       "pl": "Maszynownia",
       "kr_sha256": "9691d6a2582f6dca2845c77d4d47450ab11c5227c594ff55bbfc66d2ad019e87",
-      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277",
-      "origin": "ai"
+      "en_sha256": "6cd89b38d05ea1d960059622cb8d5fbfaa69610bf785bc86e15314dc585e8277"
     },
     "dataList[id=10301].stageList[id=230].desc": {
-      "pl": "Wśród bicia dzwonów — dla jednych znajomego, dla innych obcego — zaglądamy w przeszłość Sinclaira. Chłopak siedzi pośrodku gwarnej klasy pełnej rozgadanych uczniów.",
+      "pl": "Przy dźwięku dzwonu, dla jednych aż nazbyt znajomym, dla innych obcym, oglądamy przeszłość Sinclaira. Gwarna klasa, rozszczebiotani uczniowie, a pośród nich siedzi Sinclair.",
       "kr_sha256": "07920498abca96aa44c337878259d63f8e6cf31b078c2372136181a8d2db1c23",
-      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5",
-      "origin": "ai"
+      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5"
     },
     "dataList[id=10301].stageList[id=230].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=240].desc": {
-      "pl": "Wśród bicia dzwonów — dla jednych znajomego, dla innych obcego — zaglądamy w przeszłość Sinclaira. Chłopak siedzi pośrodku gwarnej klasy pełnej rozgadanych uczniów.",
+      "pl": "Przy dźwięku dzwonu, dla jednych aż nazbyt znajomym, dla innych obcym, oglądamy przeszłość Sinclaira. Gwarna klasa, rozszczebiotani uczniowie, a pośród nich siedzi Sinclair.",
       "kr_sha256": "07920498abca96aa44c337878259d63f8e6cf31b078c2372136181a8d2db1c23",
-      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5",
-      "origin": "ai"
+      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5"
     },
     "dataList[id=10301].stageList[id=240].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=250].desc": {
-      "pl": "Wśród bicia dzwonów — dla jednych znajomego, dla innych obcego — zaglądamy w przeszłość Sinclaira. Chłopak siedzi pośrodku gwarnej klasy pełnej rozgadanych uczniów.",
+      "pl": "Przy dźwięku dzwonu, dla jednych aż nazbyt znajomym, dla innych obcym, oglądamy przeszłość Sinclaira. Gwarna klasa, rozszczebiotani uczniowie, a pośród nich siedzi Sinclair.",
       "kr_sha256": "07920498abca96aa44c337878259d63f8e6cf31b078c2372136181a8d2db1c23",
-      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5",
-      "origin": "ai"
+      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5"
     },
     "dataList[id=10301].stageList[id=250].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=260].desc": {
-      "pl": "Wśród bicia dzwonów — dla jednych znajomego, dla innych obcego — zaglądamy w przeszłość Sinclaira. Chłopak siedzi pośrodku gwarnej klasy pełnej rozgadanych uczniów.",
+      "pl": "Przy dźwięku dzwonu, dla jednych aż nazbyt znajomym, dla innych obcym, oglądamy przeszłość Sinclaira. Gwarna klasa, rozszczebiotani uczniowie, a pośród nich siedzi Sinclair.",
       "kr_sha256": "07920498abca96aa44c337878259d63f8e6cf31b078c2372136181a8d2db1c23",
-      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5",
-      "origin": "ai"
+      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5"
     },
     "dataList[id=10301].stageList[id=260].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=270].desc": {
-      "pl": "Wśród bicia dzwonów — dla jednych znajomego, dla innych obcego — zaglądamy w przeszłość Sinclaira. Chłopak siedzi pośrodku gwarnej klasy pełnej rozgadanych uczniów.",
+      "pl": "Przy dźwięku dzwonu, dla jednych aż nazbyt znajomym, dla innych obcym, oglądamy przeszłość Sinclaira. Gwarna klasa, rozszczebiotani uczniowie, a pośród nich siedzi Sinclair.",
       "kr_sha256": "07920498abca96aa44c337878259d63f8e6cf31b078c2372136181a8d2db1c23",
-      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5",
-      "origin": "ai"
+      "en_sha256": "9a637c1f7a2113f2394dd607a1254f249798b405d95dd4ec8ef65dd5e4f045b5"
     },
     "dataList[id=10301].stageList[id=270].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=280].desc": {
-      "pl": "Wspomnienia burzy, która obróciła życie Sinclaira w ruinę, dobiegają końca. Tylko Kromer otwarcie okazuje uczucia — niepohamowaną satysfakcję.",
+      "pl": "Straszny czas w życiu Sinclaira, zrujnowanym jak przez kataklizm, dobiega końca. Tylko Kromer śmieje się, jakby nie mogła wytrzymać z zadowolenia.",
       "kr_sha256": "f9763d5962c846ea34531913b6cf81c25489e5c48b7c63d7ed6fd8e8c8fcb038",
-      "en_sha256": "2fc11ca5fa4d6416023a3ac1f79fac220ce3425a4b9bcddf88d538201e0cdace",
-      "origin": "ai"
+      "en_sha256": "2fc11ca5fa4d6416023a3ac1f79fac220ce3425a4b9bcddf88d538201e0cdace"
     },
     "dataList[id=10301].stageList[id=280].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=290].desc": {
-      "pl": "Wspomnienia burzy, która obróciła życie Sinclaira w ruinę, dobiegają końca. Tylko Kromer otwarcie okazuje uczucia — niepohamowaną satysfakcję.",
+      "pl": "Straszny czas w życiu Sinclaira, zrujnowanym jak przez kataklizm, dobiega końca. Tylko Kromer śmieje się, jakby nie mogła wytrzymać z zadowolenia.",
       "kr_sha256": "f9763d5962c846ea34531913b6cf81c25489e5c48b7c63d7ed6fd8e8c8fcb038",
-      "en_sha256": "2fc11ca5fa4d6416023a3ac1f79fac220ce3425a4b9bcddf88d538201e0cdace",
-      "origin": "ai"
+      "en_sha256": "2fc11ca5fa4d6416023a3ac1f79fac220ce3425a4b9bcddf88d538201e0cdace"
     },
     "dataList[id=10301].stageList[id=290].title": {
-      "pl": "Plac Rytualny",
+      "pl": "Plac obrzędów",
       "kr_sha256": "e960910582d8608503d2d754fd37f04eb0dbc71e8d301bc47f159d4d21382ec2",
-      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df",
-      "origin": "ai"
+      "en_sha256": "91fd977747764381a6eab222c4b27b200f1527647e58d87f169236f449c783df"
     },
     "dataList[id=10301].stageList[id=30].desc": {
-      "pl": "Nawet po kilku starciach przerażająca zawziętość Guida nie słabła. Gdy wreszcie znieruchomiał, zostawiliśmy Saude i ruszyliśmy dalej. Wszystko wokół tonęło w koszmarze i nikt nie potrafił wydusić słowa.",
+      "pl": "Stoczyliśmy z nim kilka walk, a straszliwego uporu Guida wciąż nie dało się złamać. Kiedy wreszcie przestał się ruszać, zostawiliśmy Saude i poszliśmy dalej. Wszystko było okropne, wszystko w rozsypce. Nikt się nie odzywał.",
       "kr_sha256": "e34a94a95e92f76342e75957971d49b50d77424ab4873604526d8142d2a20271",
-      "en_sha256": "1dcce57b9c7e7bcc2b9cd14b7df07e88f27e2a0e155db1d9888dffa0f0a127f5",
-      "origin": "ai"
+      "en_sha256": "1dcce57b9c7e7bcc2b9cd14b7df07e88f27e2a0e155db1d9888dffa0f0a127f5"
     },
     "dataList[id=10301].stageList[id=30].title": {
-      "pl": "Strefa Izolacji",
+      "pl": "Strefa izolacji",
       "kr_sha256": "f0cd6503f5e72fb24e8c4a5a0c2f305b1aa7dba41ef895da5d32bde50edc1adb",
-      "en_sha256": "18254cd4132f125cb72ae95f310b69f290004e37e4359776bb5e6f1afabfa46a",
-      "origin": "ai"
+      "en_sha256": "18254cd4132f125cb72ae95f310b69f290004e37e4359776bb5e6f1afabfa46a"
     },
     "dataList[id=10301].stageList[id=31].desc": {
-      "pl": "Nawet po kilku starciach przerażająca zawziętość Guida nie słabła. Gdy wreszcie znieruchomiał, zostawiliśmy Saude i ruszyliśmy dalej. Wszystko wokół tonęło w koszmarze i nikt nie potrafił wydusić słowa.",
+      "pl": "Stoczyliśmy z nim kilka walk, a straszliwego uporu Guida wciąż nie dało się złamać. Kiedy wreszcie przestał się ruszać, zostawiliśmy Saude i poszliśmy dalej. Wszystko było okropne, wszystko w rozsypce. Nikt się nie odzywał.",
       "kr_sha256": "e34a94a95e92f76342e75957971d49b50d77424ab4873604526d8142d2a20271",
-      "en_sha256": "1dcce57b9c7e7bcc2b9cd14b7df07e88f27e2a0e155db1d9888dffa0f0a127f5",
-      "origin": "ai"
+      "en_sha256": "1dcce57b9c7e7bcc2b9cd14b7df07e88f27e2a0e155db1d9888dffa0f0a127f5"
     },
     "dataList[id=10301].stageList[id=31].title": {
-      "pl": "Brama nr 1",
+      "pl": "Brama 1",
       "kr_sha256": "58ede9325b240dfad4cca6c7d53c721f1f9417215b9e1d4eed07a17f1fe4a611",
-      "en_sha256": "aa0355151629421327581f0b9a5652cecd07ca599166d853b5e622c0074e94b0",
-      "origin": "ai"
+      "en_sha256": "aa0355151629421327581f0b9a5652cecd07ca599166d853b5e622c0074e94b0"
     },
     "dataList[id=10301].stageList[id=32].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "1ee54f1455ce0040f629d87015c0a441251654a1ea0ede5e266d43501f58ea9b",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=32].title": {
-      "pl": "Zapieczętowane Drzwi",
+      "pl": "Zamknięte drzwi",
       "kr_sha256": "bd0ecb49bea27870802ca44196d6da9cba0983109029d0bd2ef51efeb84aedbb",
-      "en_sha256": "7b6316271ed8824603e8c93c4ce2974da23c2f742ce63754f28eb48cd0a5e5dd",
-      "origin": "ai"
+      "en_sha256": "7b6316271ed8824603e8c93c4ce2974da23c2f742ce63754f28eb48cd0a5e5dd"
     },
     "dataList[id=10301].stageList[id=33].desc": {
-      "pl": "Nawet po kilku starciach przerażająca zawziętość Guida nie słabła. Gdy wreszcie znieruchomiał, zostawiliśmy Saude i ruszyliśmy dalej. Wszystko wokół tonęło w koszmarze i nikt nie potrafił wydusić słowa.",
+      "pl": "Stoczyliśmy z nim kilka walk, a straszliwego uporu Guida wciąż nie dało się złamać. Kiedy wreszcie przestał się ruszać, zostawiliśmy Saude i poszliśmy dalej. Wszystko było okropne, wszystko w rozsypce. Nikt się nie odzywał.",
       "kr_sha256": "e34a94a95e92f76342e75957971d49b50d77424ab4873604526d8142d2a20271",
-      "en_sha256": "1dcce57b9c7e7bcc2b9cd14b7df07e88f27e2a0e155db1d9888dffa0f0a127f5",
-      "origin": "ai"
+      "en_sha256": "1dcce57b9c7e7bcc2b9cd14b7df07e88f27e2a0e155db1d9888dffa0f0a127f5"
     },
     "dataList[id=10301].stageList[id=33].title": {
-      "pl": "Zapomniany Korytarz",
+      "pl": "Zapomniany korytarz",
       "kr_sha256": "1e170afb35e054237e9465e6686a8fa32128fb7a1f3f651048605f43c52b6fff",
-      "en_sha256": "26cfd731032cec8ad39f0d3400e10aeb380f64ff634ccd15c7681db994801bdf",
-      "origin": "ai"
+      "en_sha256": "26cfd731032cec8ad39f0d3400e10aeb380f64ff634ccd15c7681db994801bdf"
     },
     "dataList[id=10301].stageList[id=40].desc": {
-      "pl": "Odpychając skorodowanych Inkwizytorów, parliśmy naprzód w stronę Złotej Gałęzi.",
+      "pl": "Walcząc ze skorodowanymi Inkwizytorami, parliśmy dalej ku miejscu, w którym jest Złota Gałąź.",
       "kr_sha256": "1534f7f6d6629719bdec0695865196d3608309425ae52abf4e2bcc9435615cd1",
-      "en_sha256": "64c4acdfe06cbf979e6b2f12a2da5b9d7c77edc5f03116a057d2e4376623ce16",
-      "origin": "ai"
+      "en_sha256": "64c4acdfe06cbf979e6b2f12a2da5b9d7c77edc5f03116a057d2e4376623ce16"
     },
     "dataList[id=10301].stageList[id=40].title": {
-      "pl": "Lochy Więzienne",
+      "pl": "Strefa więzienna",
       "kr_sha256": "a809630a0c6e4af1fcbd8fc3dbf4181c2109fcd972193c4a378f8e3abb302f90",
-      "en_sha256": "213f1ea4082c3b49bee0b22851ab45f5fe22c24ceedbc61dddbada745b1fbc61",
-      "origin": "ai"
+      "en_sha256": "213f1ea4082c3b49bee0b22851ab45f5fe22c24ceedbc61dddbada745b1fbc61"
     },
     "dataList[id=10301].stageList[id=50].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "1ee54f1455ce0040f629d87015c0a441251654a1ea0ede5e266d43501f58ea9b",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=50].title": {
-      "pl": "Blok Skorodowanych Bytów",
+      "pl": "Izolatki dla skorodowanych",
       "kr_sha256": "d2f74fdf039d074f1cc5073511dce5b71fa12d518ef5893015af9f39779608c6",
-      "en_sha256": "c6a01b526530da94e4842f59bead4fb1cfe57d1b3ba53ab9b5ad2e25817f93ab",
-      "origin": "ai"
+      "en_sha256": "c6a01b526530da94e4842f59bead4fb1cfe57d1b3ba53ab9b5ad2e25817f93ab"
     },
     "dataList[id=10301].stageList[id=51].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "a629c5e6a26d1ab9506f7567b75fbf0da476de39f01628babe66f9b44a9178f6",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=51].title": {
-      "pl": "Koszary Elitarne",
+      "pl": "Ośrodek szkolenia elity",
       "kr_sha256": "79142a8740412c3065d86b1a5badd68a327f2771ef47026eb5667adab2bfa516",
-      "en_sha256": "38d39d588f576b8d70f67d15e355cfe39cc0fc91b4171f4e1449f31aeb6a6515",
-      "origin": "ai"
+      "en_sha256": "38d39d588f576b8d70f67d15e355cfe39cc0fc91b4171f4e1449f31aeb6a6515"
     },
     "dataList[id=10301].stageList[id=52].desc": {
-      "pl": "Odpychając skorodowanych Inkwizytorów, parliśmy naprzód w stronę Złotej Gałęzi.",
+      "pl": "Walcząc ze skorodowanymi Inkwizytorami, parliśmy dalej ku miejscu, w którym jest Złota Gałąź.",
       "kr_sha256": "1534f7f6d6629719bdec0695865196d3608309425ae52abf4e2bcc9435615cd1",
-      "en_sha256": "64c4acdfe06cbf979e6b2f12a2da5b9d7c77edc5f03116a057d2e4376623ce16",
-      "origin": "ai"
+      "en_sha256": "64c4acdfe06cbf979e6b2f12a2da5b9d7c77edc5f03116a057d2e4376623ce16"
     },
     "dataList[id=10301].stageList[id=52].title": {
-      "pl": "Lochy Więzienne",
+      "pl": "Strefa więzienna",
       "kr_sha256": "a809630a0c6e4af1fcbd8fc3dbf4181c2109fcd972193c4a378f8e3abb302f90",
-      "en_sha256": "213f1ea4082c3b49bee0b22851ab45f5fe22c24ceedbc61dddbada745b1fbc61",
-      "origin": "ai"
+      "en_sha256": "213f1ea4082c3b49bee0b22851ab45f5fe22c24ceedbc61dddbada745b1fbc61"
     },
     "dataList[id=10301].stageList[id=53].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "1ee54f1455ce0040f629d87015c0a441251654a1ea0ede5e266d43501f58ea9b",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=53].title": {
-      "pl": "Stary Magazyn",
+      "pl": "Stary magazyn",
       "kr_sha256": "64c72aaec3d9c4841c96e3604fbf09d1006b8070cd0f7c1b9e33602841bcc1e8",
-      "en_sha256": "01b0bcd0724441018b9f15c7f76b3c31dd6f131e7ac3c06c14b7b9dbfc714f15",
-      "origin": "ai"
+      "en_sha256": "01b0bcd0724441018b9f15c7f76b3c31dd6f131e7ac3c06c14b7b9dbfc714f15"
     },
     "dataList[id=10301].stageList[id=60].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "1ee54f1455ce0040f629d87015c0a441251654a1ea0ede5e266d43501f58ea9b",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=60].title": {
-      "pl": "Sala Tortur",
+      "pl": "Sala tortur",
       "kr_sha256": "d35442ff2d3782f0ce933ab082ed68daf70fc3ccbed3da9d179b915b5df7dfed",
-      "en_sha256": "3b6e8f11dc41c226617f01abca2ae0fa97de90e1403cfda61b638596793ba654",
-      "origin": "ai"
+      "en_sha256": "3b6e8f11dc41c226617f01abca2ae0fa97de90e1403cfda61b638596793ba654"
     },
     "dataList[id=10301].stageList[id=61].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "1ee54f1455ce0040f629d87015c0a441251654a1ea0ede5e266d43501f58ea9b",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=61].title": {
       "pl": "Kaplica",
       "kr_sha256": "82141741adb10744c8920d8c8cb8dff4a9c183dc2b85d49bd850a3fe9a89eb22",
-      "en_sha256": "ea6483ea1e01d363a56a83d10f4492eba06f5726371d4af86efced2eb1a5f860",
-      "origin": "ai"
+      "en_sha256": "ea6483ea1e01d363a56a83d10f4492eba06f5726371d4af86efced2eb1a5f860"
     },
     "dataList[id=10301].stageList[id=62].desc": {
-      "pl": "Wciąż słychać, jak coś pełznie po posadzce. Część mnie chce poznać źródło tego dźwięku, a druga wolałaby nigdy się nie dowiedzieć.",
+      "pl": "Raz po raz słychać, jak coś pełznie po podłodze. Chciałbym wiedzieć, co to jest, a zarazem mam wrażenie, że lepiej nie wiedzieć.",
       "kr_sha256": "1ee54f1455ce0040f629d87015c0a441251654a1ea0ede5e266d43501f58ea9b",
-      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0",
-      "origin": "ai"
+      "en_sha256": "286e43223e94be3bc84d937ef2423f292c0994a1b0bd3120cd7790a7d9c604b0"
     },
     "dataList[id=10301].stageList[id=62].title": {
-      "pl": "Strefa Blokady",
+      "pl": "Strefa zamknięta",
       "kr_sha256": "aef98c8bd124cdc271e6445252fcffbc0ce1f7e2e5a386e30b6dd429caae0b41",
-      "en_sha256": "aec33a6a7dca5a8bf9ed42743165c4c1ef4d787cda76dc1f057a6d0cb30e6638",
-      "origin": "ai"
+      "en_sha256": "aec33a6a7dca5a8bf9ed42743165c4c1ef4d787cda76dc1f057a6d0cb30e6638"
     }
   }
 }

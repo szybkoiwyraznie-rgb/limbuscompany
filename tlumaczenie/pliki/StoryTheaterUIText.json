@@ -285,8 +285,7 @@
     "dataList[id=NOTE_OF_DANTE].content": {
       "pl": "Notatki Dantego",
       "kr_sha256": "04e24960d9b309a22940848a0049594d3fcd5f1c71d4909dd031c5403accb75a",
-      "en_sha256": "f56a75ceb302512603fe1ff522f04084ab5738a710680d266b308ddffba74150",
-      "origin": "ai"
+      "en_sha256": "f56a75ceb302512603fe1ff522f04084ab5738a710680d266b308ddffba74150"
     },
     "dataList[id=NeedsPersonalityButton].content": {
       "pl": "Pokaż wymagania",

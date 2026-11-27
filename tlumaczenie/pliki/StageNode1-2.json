@@ -1,346 +1,289 @@
 {
   "entries": {
     "dataList[id=10201].desc": {
-      "pl": "W chłodnym powietrzu Vergilius objaśnia nam cel kolejnej operacji.\nGdzie tym razem kryje się Złota Gałąź?",
+      "pl": "Gdy atmosfera stężała, Vergilius opisuje miejsce następnej operacji.\nGdzie tym razem jest Złota Gałąź?",
       "kr_sha256": "a2f9eeb983f59ffbeb117ff77cd35bdd050e917977ad41ecb10ed9e3a884406a",
-      "en_sha256": "aa1a72b6cc968442b92f0c1055fc9548a5f165f0410c85c229fb04952e54fca7",
-      "origin": "ai"
+      "en_sha256": "aa1a72b6cc968442b92f0c1055fc9548a5f165f0410c85c229fb04952e54fca7"
     },
     "dataList[id=10201].place": {
       "pl": "Miejsce etapu 2-1",
       "kr_sha256": "91c34cd59c0d643ee1b46ccb5e5d7b203998a0d5f697700857fd4e02bb9352f4",
-      "en_sha256": "7e21c0a3b40278397fa40cc32770a34343876f09e61cac6fd799b533fa76ac75",
-      "origin": "ai"
+      "en_sha256": "7e21c0a3b40278397fa40cc32770a34343876f09e61cac6fd799b533fa76ac75"
     },
     "dataList[id=10201].title": {
       "pl": "Kasyno",
       "kr_sha256": "99af247a6c38339ca63c4947086bc085ebf48c8d4f138c380091dcd01b6852e8",
-      "en_sha256": "172bd6f711a0dbdd2890b9e702ff3bad6c24a624c240f91f1dca1ffeee0c4729",
-      "origin": "ai"
+      "en_sha256": "172bd6f711a0dbdd2890b9e702ff3bad6c24a624c240f91f1dca1ffeee0c4729"
     },
     "dataList[id=10202].desc": {
-      "pl": "Faust przedstawia plan nadchodzącej operacji.\nAby wykonać zadanie, musimy najpierw udać się do „lombardu”.",
+      "pl": "Faust przedstawia plan operacji.\nŻeby wykonać zadanie, musimy pójść do “lombardu”.",
       "kr_sha256": "831290706fc019f3689568d823cf026ccae60e61dbb72c121b265f51b926b4c3",
-      "en_sha256": "6990e80081c962ed8983a79c2a1713ae406073b52fde83a83f5b5c67d6c3816e",
-      "origin": "ai"
+      "en_sha256": "6990e80081c962ed8983a79c2a1713ae406073b52fde83a83f5b5c67d6c3816e"
     },
     "dataList[id=10202].place": {
-      "pl": "Ulica Lombardów",
+      "pl": "Na Ulicy Lombardów",
       "kr_sha256": "d0c88ee1b66234a1d19903a7d6bce48b1dde39b08f7be32801ca02d83023c972",
-      "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842",
-      "origin": "ai"
+      "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842"
     },
     "dataList[id=10202].title": {
       "pl": "Lombard",
       "kr_sha256": "bd7c680245358a5b15bcbe6ccc8624c379e902f6d8718b8c96ce464c6ff7157d",
-      "en_sha256": "cbef5449826ff44079b76c71d220da03769a410704ae9ee1c736a98acc993849",
-      "origin": "ai"
+      "en_sha256": "cbef5449826ff44079b76c71d220da03769a410704ae9ee1c736a98acc993849"
     },
     "dataList[id=10203].desc": {
-      "pl": "Na potrzeby wspólnej operacji dołączyła do nas dwójka z Działu Sprzątania.\nW odróżnieniu od pewnej zgrai wyglądają niezwykle rzutko, co od razu budzi czujność Grzeszników…",
+      "pl": "Do wspólnej operacji dołączyły nowe osoby z Działu Sprzątania.\nW przeciwieństwie do niektórych są konkretni i bystrzy, więc Grzesznicy patrzą na nich mocno podejrzliwie…",
       "kr_sha256": "0a6c08e629efd740e0a62b46c8ba36fe71f1a4e7bfda66d50f400ff80ab0845c",
-      "en_sha256": "148a0a8ecd17b2be4285858f1f0da296a0207743e544ef2dbd1415ff77b43dec",
-      "origin": "ai"
+      "en_sha256": "148a0a8ecd17b2be4285858f1f0da296a0207743e544ef2dbd1415ff77b43dec"
     },
     "dataList[id=10203].place": {
-      "pl": "Ulica Lombardów",
+      "pl": "Na Ulicy Lombardów",
       "kr_sha256": "d0c88ee1b66234a1d19903a7d6bce48b1dde39b08f7be32801ca02d83023c972",
-      "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842",
-      "origin": "ai"
+      "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842"
     },
     "dataList[id=10203].title": {
-      "pl": "Plan Doskonały",
+      "pl": "Doskonały plan",
       "kr_sha256": "ec9c52a381100de444d4825e9a979c7a53d05fe775f958d7a117c99dfe32a2b7",
-      "en_sha256": "227c86898033b63ac42b8f819358a8fa21aada95a28c6a1351a3f7728b28e9f7",
-      "origin": "ai"
+      "en_sha256": "227c86898033b63ac42b8f819358a8fa21aada95a28c6a1351a3f7728b28e9f7"
     },
     "dataList[id=10204].desc": {
-      "pl": "Plan zdawał się doskonały tylko przez chwilę — jak zwykle wszystko wzięło w łeb.\nPrzez wybryk Don Quixote Grzesznicy zadarli z ludźmi z gangu Tingtang…",
+      "pl": "Plan wydawał się doskonały, ale nie na długo: jak zwykle wszystko się posypało.\nPrzez wybryk Don Quixote Grzesznicy wpadają na ludzi z gangu Tingtang…",
       "kr_sha256": "af54299d419bd3c2365d802c26e85db6407f2be075a372a0b7706009e0b9b990",
-      "en_sha256": "06eac53a5164f88a97c31278f913de6befb8f2445f857619fa8e32c0bf4c258e",
-      "origin": "ai"
+      "en_sha256": "06eac53a5164f88a97c31278f913de6befb8f2445f857619fa8e32c0bf4c258e"
     },
     "dataList[id=10204].place": {
-      "pl": "Ulica Lombardów",
+      "pl": "Na Ulicy Lombardów",
       "kr_sha256": "d0c88ee1b66234a1d19903a7d6bce48b1dde39b08f7be32801ca02d83023c972",
-      "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842",
-      "origin": "ai"
+      "en_sha256": "6c2aba21309ae73df18a4e0db4f00e96a029b343314e9268a186497be60bd842"
     },
     "dataList[id=10204].title": {
       "pl": "Wszy",
       "kr_sha256": "844e43fe8b9ac7a4f4789a542c5d481e4f3db01f306e6a2ed76e9de084fed7e2",
-      "en_sha256": "e33bcc0bcc0f3229393c9fc1bb6437b689fc80843ad35860d3d85a67ffe5833a",
-      "origin": "ai"
+      "en_sha256": "e33bcc0bcc0f3229393c9fc1bb6437b689fc80843ad35860d3d85a67ffe5833a"
     },
     "dataList[id=10205].desc": {
-      "pl": "Grzesznicy toczą kolejne starcia z ludźmi z gangu Tingtang. Cała okolica musi należeć do ich terytorium, bo wrogom nie ma końca.",
+      "pl": "Grzesznicy wciąż ścierają się z tingtangowcami. Wrogowie wyrastają bez końca, jakby cała okolica należała do gangu Tingtang.",
       "kr_sha256": "95f60d5891c4b9d21f672a959b54df8754d56503bf8d98fba8b3a172a48a3a05",
-      "en_sha256": "ed1cd43dbecc043317b3eb368d00b8120a209e6c1239e5953f42704d40756157",
-      "origin": "ai"
+      "en_sha256": "ed1cd43dbecc043317b3eb368d00b8120a209e6c1239e5953f42704d40756157"
     },
     "dataList[id=10205].place": {
-      "pl": "Zaułki Dystryktu 10",
+      "pl": "Gdzieś w Zaułkach Dystryktu 10",
       "kr_sha256": "aa5c6c034e995ad688e6eeb2380175c46010028d94a618b53d352df94d36b762",
-      "en_sha256": "69284e1e506f2f65fc226d40511181f4ecd6ba151fc7c9970a7488b25161f17e",
-      "origin": "ai"
+      "en_sha256": "69284e1e506f2f65fc226d40511181f4ecd6ba151fc7c9970a7488b25161f17e"
     },
     "dataList[id=10205].title": {
       "pl": "Jesteśmy z Limbu…",
       "kr_sha256": "790149881fd86ec82e5bceb93fc155fbe720b5fe1b906c0a0fb4438652e2f5a0",
-      "en_sha256": "c89ae480e2fa271d1bb106db22cc86df067432c6bfdb5734d5363bce586fffb8",
-      "origin": "ai"
+      "en_sha256": "c89ae480e2fa271d1bb106db22cc86df067432c6bfdb5734d5363bce586fffb8"
     },
     "dataList[id=10206].desc": {
-      "pl": "Od członka gangu Tingtang dowiedzieliśmy się, że ich szef przebywa przy wieży z aut.\nAby wdrożyć plan B, musimy udać się na złomowisko, odebrać im Moc Życzeń i przebrać się za tingtangowców.",
+      "pl": "Od tingtangowca dowiedzieliśmy się, że szef gangu jest przy wieży z aut.\nW ramach planu B musimy tam pójść, odebrać im Moc Życzeń i przebrać się za tingtangowców.",
       "kr_sha256": "3d5c37228b4011e68d176ccb34734dcc46d11b22d412fcf7a9cf1fd7cb3d8b5e",
-      "en_sha256": "4f3f0c525301b7e6be144cffd22ac2e1fdcb2bc8ac3f2de57150334bf8f24a3a",
-      "origin": "ai"
+      "en_sha256": "4f3f0c525301b7e6be144cffd22ac2e1fdcb2bc8ac3f2de57150334bf8f24a3a"
     },
     "dataList[id=10206].place": {
-      "pl": "Zaułki Dystryktu 10",
+      "pl": "Gdzieś w Zaułkach Dystryktu 10",
       "kr_sha256": "aa5c6c034e995ad688e6eeb2380175c46010028d94a618b53d352df94d36b762",
-      "en_sha256": "69284e1e506f2f65fc226d40511181f4ecd6ba151fc7c9970a7488b25161f17e",
-      "origin": "ai"
+      "en_sha256": "69284e1e506f2f65fc226d40511181f4ecd6ba151fc7c9970a7488b25161f17e"
     },
     "dataList[id=10206].title": {
-      "pl": "Wieża z Aut",
+      "pl": "Wieża z aut",
       "kr_sha256": "4eeb449b6406c46c835ecce59b57a3574d99f5bea17b3f0cad7a2c972a3fee7b",
-      "en_sha256": "5563190c35ec1a0e32d0ce5e1a7bbaa671335506990dfaf7d3a15b65d7a77682",
-      "origin": "ai"
+      "en_sha256": "5563190c35ec1a0e32d0ce5e1a7bbaa671335506990dfaf7d3a15b65d7a77682"
     },
     "dataList[id=10207].desc": {
-      "pl": "Wciąż przeczesujemy okolicę wieży z aut w poszukiwaniu szefa gangu Tingtang.",
+      "pl": "Przeczesujemy okolice wieży z aut w poszukiwaniu szefa gangu Tingtang.",
       "kr_sha256": "4d3ab478fae0c247f9a60ff906e5252a05e5755ffeee6712e416b71fe5e8876e",
-      "en_sha256": "c06fc22f994eb0cbd3b0a944730553986853416d5fcc1ac13c82e9e25f54c31b",
-      "origin": "ai"
+      "en_sha256": "c06fc22f994eb0cbd3b0a944730553986853416d5fcc1ac13c82e9e25f54c31b"
     },
     "dataList[id=10207].place": {
-      "pl": "Zaułki Dystryktu 10",
+      "pl": "Gdzieś w Zaułkach Dystryktu 10",
       "kr_sha256": "aa5c6c034e995ad688e6eeb2380175c46010028d94a618b53d352df94d36b762",
-      "en_sha256": "69284e1e506f2f65fc226d40511181f4ecd6ba151fc7c9970a7488b25161f17e",
-      "origin": "ai"
+      "en_sha256": "69284e1e506f2f65fc226d40511181f4ecd6ba151fc7c9970a7488b25161f17e"
     },
     "dataList[id=10207].title": {
-      "pl": "Kanister Życzeń",
+      "pl": "Kanister życzeń",
       "kr_sha256": "160b8c9d21907b9b29a043a8606b2737d750fa05b8266712ba8054a8c9204f53",
-      "en_sha256": "95f146698b1ad281b4d4c491c67ef65e9227a5635f274d462840adf5f37018c1",
-      "origin": "ai"
+      "en_sha256": "95f146698b1ad281b4d4c491c67ef65e9227a5635f274d462840adf5f37018c1"
     },
     "dataList[id=10208].desc": {
-      "pl": "Po wielu perypetiach odebraliśmy tingtangowcom ubrania i przeniknęliśmy do kasyna. Tym razem operacja musi się powieść.",
+      "pl": "Po wielu perypetiach odebraliśmy tingtangowcom ubrania i weszliśmy do kasyna. Tym razem operacja musi się udać.",
       "kr_sha256": "c398b1320fb7b026d62d18e6b048fdc0a1a886e96e4f17859fe6213229c8759f",
-      "en_sha256": "9d71eae07b4586a8a8e23df01dde8131f45b0a04183e62000ec6ef2b78521b79",
-      "origin": "ai"
+      "en_sha256": "9d71eae07b4586a8a8e23df01dde8131f45b0a04183e62000ec6ef2b78521b79"
     },
     "dataList[id=10208].place": {
-      "pl": "Kasyno — 1. piętro",
+      "pl": "Kasyno - poziom 1",
       "kr_sha256": "2b5407b7b59c7883f3482108f7d686042015740a9a7774d30ba8a76b4423d716",
-      "en_sha256": "d8732739db1a0851d8261b958fe3d15cd5c4e955e620a96e720e1bf6c1ff7b2b",
-      "origin": "ai"
+      "en_sha256": "d8732739db1a0851d8261b958fe3d15cd5c4e955e620a96e720e1bf6c1ff7b2b"
     },
     "dataList[id=10208].title": {
-      "pl": "Automaty do Gry",
+      "pl": "Automaty do gry",
       "kr_sha256": "cd4be8be6a63dc1f90f86f84bce64f3607892a49fd3f23ecad690a1c56556a59",
-      "en_sha256": "93e80351f1aab2aaea5a37a05efe74e73bf506873aa764152ef59d80da5e1e2e",
-      "origin": "ai"
+      "en_sha256": "93e80351f1aab2aaea5a37a05efe74e73bf506873aa764152ef59d80da5e1e2e"
     },
     "dataList[id=10209].desc": {
-      "pl": "Nasze niezłomne postanowienie prysło w mgnieniu oka, a plan znów bierze w łeb. Przed nami jeszcze długa droga, a już zwróciliśmy na siebie uwagę ochrony kasyna.",
+      "pl": "Niezłomne postanowienie rozwiało się w okamgnieniu, a operacja pięknie się posypała. Przed nami jeszcze wiele przeszkód, a tymczasem wpadliśmy w oko ochronie kasyna.",
       "kr_sha256": "cfec64371d3cf90f1e027483a1b781323d8968b8e9a86e47141cd72fe6ff3e59",
-      "en_sha256": "48ce7b97f117dde4e94325acd3dd92414d3f59bb58d1c9495c7b212ec1f1f6df",
-      "origin": "ai"
+      "en_sha256": "48ce7b97f117dde4e94325acd3dd92414d3f59bb58d1c9495c7b212ec1f1f6df"
     },
     "dataList[id=10209].place": {
-      "pl": "Kasyno — 1. piętro",
+      "pl": "Kasyno - poziom 1",
       "kr_sha256": "2b5407b7b59c7883f3482108f7d686042015740a9a7774d30ba8a76b4423d716",
-      "en_sha256": "d8732739db1a0851d8261b958fe3d15cd5c4e955e620a96e720e1bf6c1ff7b2b",
-      "origin": "ai"
+      "en_sha256": "d8732739db1a0851d8261b958fe3d15cd5c4e955e620a96e720e1bf6c1ff7b2b"
     },
     "dataList[id=10209].title": {
-      "pl": "Występ",
+      "pl": "Performans",
       "kr_sha256": "3dd5fe0893beb786f2f6b8f52ae4e3c7e7157128a2e78389d155122d6f13f12d",
-      "en_sha256": "70dc23d024c43246c377757ea7bc1e900f6329ee031d9ae693a852c9b4f0405e",
-      "origin": "ai"
+      "en_sha256": "70dc23d024c43246c377757ea7bc1e900f6329ee031d9ae693a852c9b4f0405e"
     },
     "dataList[id=10210].desc": {
-      "pl": "Przedostaliśmy się na 2. piętro kasyna. Aż kręci mi się w głowie na myśl, co znowu nas tu czeka.",
+      "pl": "Przeszliśmy na poziom 2 kasyna. Aż mi się kręci w głowie na myśl o tym, co tu na nas czeka.",
       "kr_sha256": "0458b77756017f30ec5e223cc9328e86de3313451115e75f24c6141d0fd85e29",
-      "en_sha256": "2f95360bb892efdc88005eda55edf114bd292f4fdcfaad5fbc2d2c506a6b3644",
-      "origin": "ai"
+      "en_sha256": "2f95360bb892efdc88005eda55edf114bd292f4fdcfaad5fbc2d2c506a6b3644"
     },
     "dataList[id=10210].place": {
-      "pl": "Kasyno — 2. piętro",
+      "pl": "Kasyno - poziom 2",
       "kr_sha256": "db5080a88df015c73fd7c6015708d5ace868f9cac2e418d050b315cd9e35986b",
-      "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec",
-      "origin": "ai"
+      "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec"
     },
     "dataList[id=10210].title": {
       "pl": "U.K.",
       "kr_sha256": "13d7aa4e511200a3e438cb3dbd148e2f642c1d58c3352a6fff8859545b3ddb80",
-      "en_sha256": "058aa7597bf4e2e9620cedb51a5798245b89dd2bd9e177733b3766d7338f6910",
-      "origin": "ai"
+      "en_sha256": "058aa7597bf4e2e9620cedb51a5798245b89dd2bd9e177733b3766d7338f6910"
     },
     "dataList[id=10211].desc": {
-      "pl": "Natknęliśmy się na inny syndykat kontrolujący to piętro kasyna.",
+      "pl": "Natknęliśmy się na inne organizacje, które opanowały to miejsce.",
       "kr_sha256": "de51be7bbbbe2f12b0265bf2ecf0a99648de7218923f82e2c5853570d87ad4ce",
-      "en_sha256": "f51756d8a30c079d58193e70adee1768cc77ad7c6025117528e29f23e0c343c0",
-      "origin": "ai"
+      "en_sha256": "f51756d8a30c079d58193e70adee1768cc77ad7c6025117528e29f23e0c343c0"
     },
     "dataList[id=10211].place": {
-      "pl": "Kasyno — 2. piętro",
+      "pl": "Kasyno - poziom 2",
       "kr_sha256": "db5080a88df015c73fd7c6015708d5ace868f9cac2e418d050b315cd9e35986b",
-      "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec",
-      "origin": "ai"
+      "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec"
     },
     "dataList[id=10211].title": {
       "pl": "U.K. 2",
       "kr_sha256": "4a0aea7afff34e37db6b511a6e33d13d7505636bdc05f1f53703a0c9eb062608",
-      "en_sha256": "9f8e480ece6d2a7feb516f7181f0f15f0cd645bd721fc23462a6e344e90aefd7",
-      "origin": "ai"
+      "en_sha256": "9f8e480ece6d2a7feb516f7181f0f15f0cd645bd721fc23462a6e344e90aefd7"
     },
     "dataList[id=10212].desc": {
-      "pl": "W przeciwieństwie do parteru panuje tu wyjątkowo radosna atmosfera. Co więcej, na każdym stole leżą nieznane instrumenty muzyczne. Do czego one właściwie służą?",
+      "pl": "W przeciwieństwie do poziomu 1 panuje tu wyjątkowo radosna atmosfera. A przede wszystkim na każdym stole leżą jakieś dziwne instrumenty. Do czego one, u licha, służą?",
       "kr_sha256": "914a10666162c2a9f627716438c2a5b99df0c74a4962d3b5f91163f9cb405888",
-      "en_sha256": "160ab0beece73be225526e34bedd45a147fa4e283d3b18f9e0d26054fed2e594",
-      "origin": "ai"
+      "en_sha256": "160ab0beece73be225526e34bedd45a147fa4e283d3b18f9e0d26054fed2e594"
     },
     "dataList[id=10212].place": {
-      "pl": "Kasyno — 2. piętro",
+      "pl": "Kasyno - poziom 2",
       "kr_sha256": "db5080a88df015c73fd7c6015708d5ace868f9cac2e418d050b315cd9e35986b",
-      "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec",
-      "origin": "ai"
+      "en_sha256": "e7c5e73a50b78723abed257d3e9f0768f761d7672826a03701f8d318f35364ec"
     },
     "dataList[id=10212].title": {
-      "pl": "Taniec",
+      "pl": "Porywający taniec",
       "kr_sha256": "1955d5b50a9e12c0f92c4122ec483104ace007226c252031c159dfca5da41f42",
-      "en_sha256": "0fe6ed3a95b66aa0085bb1b1db4ed2a61d051a05af073be24e3be54fa474f6db",
-      "origin": "ai"
+      "en_sha256": "0fe6ed3a95b66aa0085bb1b1db4ed2a61d051a05af073be24e3be54fa474f6db"
     },
     "dataList[id=10213].desc": {
-      "pl": "Dzięki zdumiewającemu popisowi Sinclaira dotarliśmy cało na 3. piętro. Tam jednak „przywitał” nas kolejny syndykat o wyjątkowo zakazanych gębach.",
+      "pl": "Dzięki zdumiewającemu popisowi Sinclaira bez szwanku dostaliśmy się na poziom 3. Ale tam witali nas już członkowie innej organizacji, z wyglądu wyjątkowo groźni.",
       "kr_sha256": "32365b451deab80e54cd142aca63b8da2e63c3dbb724afdeb3f5e01847cbd312",
-      "en_sha256": "bcf65aa8c8e9d996bf78a8d45ad0994415e71d65dd08f4cbb3133c15d8598548",
-      "origin": "ai"
+      "en_sha256": "bcf65aa8c8e9d996bf78a8d45ad0994415e71d65dd08f4cbb3133c15d8598548"
     },
     "dataList[id=10213].place": {
-      "pl": "Kasyno — 3. piętro",
+      "pl": "Kasyno - poziom 3",
       "kr_sha256": "096f86cfb2de27c141b0ae6d23f10933aaca91ea906252db3b07cdc6ba47e765",
-      "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe",
-      "origin": "ai"
+      "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe"
     },
     "dataList[id=10213].title": {
-      "pl": "Gorące Powitanie",
+      "pl": "Powitanie",
       "kr_sha256": "87a19b97b79dbbb7af7baa50ef0b429eb471dc6a70852a0e7449d1471891aa47",
-      "en_sha256": "becd9a3380f71c3009bb0b6f854d1a36bee5f800279b53f588549a8162ddf922",
-      "origin": "ai"
+      "en_sha256": "becd9a3380f71c3009bb0b6f854d1a36bee5f800279b53f588549a8162ddf922"
     },
     "dataList[id=10214].desc": {
-      "pl": "Dzięki zdumiewającemu popisowi Sinclaira dotarliśmy cało na 3. piętro. Tam jednak „przywitał” nas kolejny syndykat o wyjątkowo zakazanych gębach.",
+      "pl": "Dzięki zdumiewającemu popisowi Sinclaira bez szwanku dostaliśmy się na poziom 3. Ale tam witali nas już członkowie innej organizacji, z wyglądu wyjątkowo groźni.",
       "kr_sha256": "32365b451deab80e54cd142aca63b8da2e63c3dbb724afdeb3f5e01847cbd312",
-      "en_sha256": "bcf65aa8c8e9d996bf78a8d45ad0994415e71d65dd08f4cbb3133c15d8598548",
-      "origin": "ai"
+      "en_sha256": "bcf65aa8c8e9d996bf78a8d45ad0994415e71d65dd08f4cbb3133c15d8598548"
     },
     "dataList[id=10214].place": {
-      "pl": "Kasyno — 3. piętro",
+      "pl": "Kasyno - poziom 3",
       "kr_sha256": "096f86cfb2de27c141b0ae6d23f10933aaca91ea906252db3b07cdc6ba47e765",
-      "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe",
-      "origin": "ai"
+      "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe"
     },
     "dataList[id=10214].title": {
-      "pl": "Gorące Powitanie 2",
+      "pl": "Powitanie 2",
       "kr_sha256": "cbe21313f4a1bc828707546e9a6eb797ef90e92316c36c6678194050bc6daa45",
-      "en_sha256": "6ccb28df1ac88da67cda2913135d43dceeb5b6fb0b789603d772cdd842a8e7d6",
-      "origin": "ai"
+      "en_sha256": "6ccb28df1ac88da67cda2913135d43dceeb5b6fb0b789603d772cdd842a8e7d6"
     },
     "dataList[id=10215].desc": {
-      "pl": "Przedłużające się starcia z Ekipą Tieqiu coraz bardziej męczą Grzeszników. Najtrudniej jednak znieść pewnej osobie ich…",
+      "pl": "Grzesznicy coraz bardziej opadają z sił w ciągłych starciach z Ekipą Tieqiu. Ale jeszcze trudniej było znieść…",
       "kr_sha256": "8e55959ea81eabc10a2fa256c524c38e6d44cd72b0072ba4673b622c838c257a",
-      "en_sha256": "65aab287c5b2b5e74548efe920ec95200a79acd700afc440584937d081daba10",
-      "origin": "ai"
+      "en_sha256": "65aab287c5b2b5e74548efe920ec95200a79acd700afc440584937d081daba10"
     },
     "dataList[id=10215].place": {
-      "pl": "Kasyno — 3. piętro",
+      "pl": "Kasyno - poziom 3",
       "kr_sha256": "096f86cfb2de27c141b0ae6d23f10933aaca91ea906252db3b07cdc6ba47e765",
-      "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe",
-      "origin": "ai"
+      "en_sha256": "1783ccac8063707e944a94308e7af527f2f0dcb7beeb34e80cf1d6464452a1fe"
     },
     "dataList[id=10215].title": {
-      "pl": "Niewyparzone Gęby",
+      "pl": "Ozór",
       "kr_sha256": "79714899123d20c4733ae240ff8f4d93ef26982686be90a7a68139b9a92bae6c",
-      "en_sha256": "3454f77223b14c1980dccf480e4e46d7f6b95baaaa44a8f04801ff58c934c95c",
-      "origin": "ai"
+      "en_sha256": "3454f77223b14c1980dccf480e4e46d7f6b95baaaa44a8f04801ff58c934c95c"
     },
     "dataList[id=10216].desc": {
-      "pl": "Nieoczekiwana „lekcja” Ryōshū otworzyła nam drogę na ostatnie piętro, choć przypłaciliśmy ją sporym uszczerbkiem na psychice. Teraz musimy postawić na szali losu Złotą Gałąź.",
+      "pl": "Przez niespodziewaną lekcję Ryōshū i my odnieśliśmy spore szkody psychiczne, ale dotarliśmy na najwyższe piętro. Teraz musimy tu zagrać o Złotą Gałąź.",
       "kr_sha256": "b478f8db49ba77be0752df8e6cf97114afb81b843f0eba4c0317b7f0853fc1cd",
-      "en_sha256": "56fbdcfeeb7bdc2b2533ecb232f3acd0af0fb6855c571c28d6c8cafad8b92d0c",
-      "origin": "ai"
+      "en_sha256": "56fbdcfeeb7bdc2b2533ecb232f3acd0af0fb6855c571c28d6c8cafad8b92d0c"
     },
     "dataList[id=10216].place": {
-      "pl": "Kasyno — najwyższe piętro",
+      "pl": "Kasyno - najwyższe piętro",
       "kr_sha256": "ad499de93cd4c6c5eb32cdce9f7e6ee2fbe055f2b866455226da2506a9f1677b",
-      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9",
-      "origin": "ai"
+      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9"
     },
     "dataList[id=10216].title": {
-      "pl": "Wejście Graczy",
+      "pl": "Wejście zawodniczki",
       "kr_sha256": "3cf8ad2b5e219cbc000cd9af74e4e3edde8d9d6f5c91a11646de31753312d24f",
-      "en_sha256": "efaab7cdf994843437e0a89d73b5713fd1d59eda5570b4e5d7614c65b3f4958a",
-      "origin": "ai"
+      "en_sha256": "efaab7cdf994843437e0a89d73b5713fd1d59eda5570b4e5d7614c65b3f4958a"
     },
     "dataList[id=10217].desc": {
-      "pl": "Rodia zgłosiła się do gry jako nasza reprezentantka. Partia zbliża się już do ostatniego rozdania.",
+      "pl": "Rodion wzięła udział w grze jako nasza reprezentantka. Rozgrywka zbliża się do ostatniego rozdania.",
       "kr_sha256": "55ae394a5ee241fe86bc090a9341fd883984b972ea8121953517e67750fe3f91",
-      "en_sha256": "b4ede844c54ca4d1d48b6e7798b3240a5142b6abf1e37e7276e1ac984c731b99",
-      "origin": "ai"
+      "en_sha256": "b4ede844c54ca4d1d48b6e7798b3240a5142b6abf1e37e7276e1ac984c731b99"
     },
     "dataList[id=10217].place": {
-      "pl": "Kasyno — najwyższe piętro",
+      "pl": "Kasyno - najwyższe piętro",
       "kr_sha256": "ad499de93cd4c6c5eb32cdce9f7e6ee2fbe055f2b866455226da2506a9f1677b",
-      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9",
-      "origin": "ai"
+      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9"
     },
     "dataList[id=10217].title": {
-      "pl": "Ani Ruchu",
+      "pl": "Stój no",
       "kr_sha256": "3db92ec3ff533c8b5f748df033626e8f26f8803903d706cf13c6b686139d4913",
-      "en_sha256": "9d37dc6772041cff335d1ad76f34d94d477e85359d4c8fa9481525e172efb45a",
-      "origin": "ai"
+      "en_sha256": "9d37dc6772041cff335d1ad76f34d94d477e85359d4c8fa9481525e172efb45a"
     },
     "dataList[id=10218].desc": {
-      "pl": "Nie mogąc wytrzymać z ciekawości, podsłuchiwaliśmy pod drzwiami i niechcący wpadliśmy do sali gry. W środku ujrzeliśmy rozbryzgi krwi, sprasowane szczątki szefa Ekipy Tieqiu oraz łagodnie uśmiechającego się do nas mężczyznę imieniem Sonya.",
+      "pl": "Nie mogąc powstrzymać ciekawości, co się dzieje przy stole, podsłuchiwaliśmy i w końcu weszliśmy do środka. Ujrzeliśmy wszędzie bryzgi krwi, ślady, które zostały z Szefa Ekipy Tieqiu, i niejakiego Sonyę, który łagodnie się do nas uśmiechał.",
       "kr_sha256": "e5bb71a81089d072b033aa19b0beea2ae630cb737864c397600e33db65a606ec",
-      "en_sha256": "0830a28c737b9aa50c3db3357422336e75605512e2f1e5146adb1bf2b495a11f",
-      "origin": "ai"
+      "en_sha256": "0830a28c737b9aa50c3db3357422336e75605512e2f1e5146adb1bf2b495a11f"
     },
     "dataList[id=10218].place": {
-      "pl": "Kasyno — najwyższe piętro",
+      "pl": "Kasyno - najwyższe piętro",
       "kr_sha256": "ad499de93cd4c6c5eb32cdce9f7e6ee2fbe055f2b866455226da2506a9f1677b",
-      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9",
-      "origin": "ai"
+      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9"
     },
     "dataList[id=10218].title": {
       "pl": "Zwycięzca",
       "kr_sha256": "40d56d1708edee939cca66eae4babbc9695943a280fed134e0c5f795a61e0509",
-      "en_sha256": "f48b12f034bc04ee674b1dd97e2850e019bddd7dbea1617b124515e1f5a4aa40",
-      "origin": "ai"
+      "en_sha256": "f48b12f034bc04ee674b1dd97e2850e019bddd7dbea1617b124515e1f5a4aa40"
     },
     "dataList[id=10219].desc": {
-      "pl": "Gra zakończyła się zwycięstwem Rodii. Pora zejść do podziemi i na dobre ruszyć po Złotą Gałąź.",
+      "pl": "Gra zakończyła się zwycięstwem Rodion. Teraz musimy zejść pod ziemię i na dobre zabrać się do szukania Złotej Gałęzi.",
       "kr_sha256": "dcddf86fc52e7ba178b96f6b1ba90cff2da9849fe41c0a66b8d8793e55543d21",
-      "en_sha256": "e86210411545cd476a2350c7ea05c473ca5069a0a9479ca95a9f4fe40868abfa",
-      "origin": "ai"
+      "en_sha256": "e86210411545cd476a2350c7ea05c473ca5069a0a9479ca95a9f4fe40868abfa"
     },
     "dataList[id=10219].place": {
-      "pl": "Kasyno — najwyższe piętro",
+      "pl": "Kasyno - najwyższe piętro",
       "kr_sha256": "ad499de93cd4c6c5eb32cdce9f7e6ee2fbe055f2b866455226da2506a9f1677b",
-      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9",
-      "origin": "ai"
+      "en_sha256": "d29664e07dda43f57950184190b692f40de7661dc68a6e16b9ddb1e3cfdb9de9"
     },
     "dataList[id=10219].title": {
       "pl": "Filia J-03",
       "kr_sha256": "f0a36a0d3207bd529d611f34d169553b0423d6e19b41fd89e3b3e31295d0119f",
-      "en_sha256": "0fcafd205dc6e97532713d1cb2547ed6cef2c2c67f6265fed637117a68bbb2a7",
-      "origin": "ai"
+      "en_sha256": "0fcafd205dc6e97532713d1cb2547ed6cef2c2c67f6265fed637117a68bbb2a7"
     }
   }
 }

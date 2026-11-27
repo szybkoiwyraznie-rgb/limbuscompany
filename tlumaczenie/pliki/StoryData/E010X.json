@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "…Dante?",
+      "kr_sha256": "285a0f64b21d146a7458bd6a4b4ca240b8a67c0e5e97e0faf54b8ae18b603f00",
+      "en_sha256": "8ab0a7db9fdec0d2a382b727747505bdfc0d99f53ac3b331868ab21b1370ec83"
+    },
+    "dataList[id=10].content": {
+      "pl": "<Ach… To?>",
+      "kr_sha256": "ec1883fb07dde78bb5646724838272a3440f5d869d506b1ce4dc1f05e7c3a6c9",
+      "en_sha256": "ac55d8357c02cb1bbe530924e360d6fcc5f11ff365656e4ffb6d8dd438ddf093"
+    },
+    "dataList[id=11].content": {
+      "pl": "Tak. Zdaje się, że dotąd nie bawił się pan nim aż tak często.",
+      "kr_sha256": "94275ed2b71b9f3041d75c515bd292e8edd90674b96ff78fdbfec4fb41bc4bc8",
+      "en_sha256": "f5e3c679916aff70bc18ad7034f09eb109bf6e82db505331498934a7cb6e613f"
+    },
+    "dataList[id=12].content": {
+      "pl": "<Nic wielkiego… Po prostu doszła funkcja, której mi brakowało.>",
+      "kr_sha256": "6d831d0a49722b3eabe7a4d27239af9526bd22d74b2e176ec6b98b1eef141399",
+      "en_sha256": "4a79ed9598eee9c39d27b63238e8f7ba374a45a654f12a726e0a5ba56b376970"
+    },
+    "dataList[id=13].content": {
+      "pl": "Za każdym razem, gdy Faust prosi o przerwę na przegląd, moje urządzenie, “LCB-PDA”, też dostaje aktualizację.",
+      "kr_sha256": "79f5c948c919172ba1ee66c8322b34607f55cdd8856df8db7663159ae50cc887",
+      "en_sha256": "4c28254256da5e54751b0225cc10093064d50bb4bf93e5de2740ef1cddda5c7b"
+    },
+    "dataList[id=14].content": {
+      "pl": "Czasem przy okazji dochodzą nowe funkcje, a tym razem doszły…",
+      "kr_sha256": "d7f4d4512dfd719994bfc2ddd0a1a14b3387db994cc9d385af045c4f9b6e0abc",
+      "en_sha256": "4f99187880ac848c74d5f848e7b79a2411d74fd9bf13be11bb53cfebb7927ae8"
+    },
+    "dataList[id=15].content": {
+      "pl": "…Notatki? Naprawdę dotąd nie było tej funkcji?",
+      "kr_sha256": "03160bc3297a35ea26911c115762a09fbee6e00b27ae3c3cec5e916778feecaa",
+      "en_sha256": "2ce5d29075055a519eb8e08d0ba3918c52d1590508bd088b522433c64896da19"
+    },
+    "dataList[id=16].content": {
+      "pl": "<Nie było. Aż dziwne.>",
+      "kr_sha256": "e4e6f515471febba58e16907a24f8d1caa44a979b2d0012839e940a9abf505e6",
+      "en_sha256": "fa684c71bf42b1064c03df0b86e429c4a808ca01dffecdbb52a36b5294812882"
+    },
+    "dataList[id=17].content": {
+      "pl": "<…Nie wiedziałaś? Myślałem, że ty wiesz wszystko, Faust.>",
+      "kr_sha256": "a8a6d87644ff63d4dbf3acbe1c2047c9204b3ffb300100cd0a61bbb4e115471c",
+      "en_sha256": "8da9192e0853ab5e8399292f42751004641ae8cf3311bae4763776199e05eb29"
+    },
+    "dataList[id=18].content": {
+      "pl": "Faust wie wszystko to, co Faust wie.",
+      "kr_sha256": "a57fa29c99dc5a61ef978c5bcd25dad9c51c9ef0c2dc3b99d46ec27f5179f4be",
+      "en_sha256": "113becfcbc6712de466ee9daab696d3e178c65e2bc26e199d9fa8bf8da41d1e7"
+    },
+    "dataList[id=19].content": {
+      "pl": "Pozwoli pan, że zerknę.",
+      "kr_sha256": "97ef335eafc086d3a08d876e18e14de579a2d359ae33612dfc0c65eca3d364fd",
+      "en_sha256": "4659d6fd64df62de2c28febe24b62022fbda1295d146df7d65453722e156fc16"
+    },
+    "dataList[id=1].content": {
+      "pl": "Mephistopheles nie pędzi przecież przez okrągłą dobę. Charon też jest człowiekiem, a Mephisto to w końcu tylko silnik. Każdy potrzebuje czasem odpocząć.",
+      "kr_sha256": "9dd0f2e65b7c2736db9d3cdb501324df37fe7292d10ba1851cb806de1d65a03b",
+      "en_sha256": "8aff1a782cffd0a8b79284bd2aef1cabdcdce352d43c2838c6af639323cd8787"
+    },
+    "dataList[id=20].content": {
+      "pl": "Faust ukradkiem zajrzała mi w ekran.",
+      "kr_sha256": "45df2fd2620b655a7089347d48454256de589836675843224d0cd621a0d279ab",
+      "en_sha256": "3f2f62377eaed811f8f6e050958ea8100e62fbfe1e29fb21850931f8f9b7870d"
+    },
+    "dataList[id=21].content": {
+      "pl": "Dante, czyżby pisał pan encyklopedię?",
+      "kr_sha256": "f2d7a027862122bd77a4469e7a2beb9d5d3cb402d2c78f73ad21969f33915b99",
+      "en_sha256": "f6f6772b16b4208273049e44891055e065804a9c19ffccb2e457b79fa8542b73"
+    },
+    "dataList[id=22].content": {
+      "pl": "<No… bo ciągle gadacie słowami, których nie znam. Jacyś Fikserzy, jakieś Skrzydła…>",
+      "kr_sha256": "d273bd5ff600642f26c45f45c9214956af544a2d2533ce3600ba95286a6c835f",
+      "en_sha256": "bcbfd7da5fedbf07709fe6a1a7ed6c583347a4e2d882a04210b0dbb464262a6a"
+    },
+    "dataList[id=23].content": {
+      "pl": "<Dla was to może zwykłe słowa, ale…>",
+      "kr_sha256": "68c3b0477e88ec7c2eefd935bc9405d36ad8b1b58e11390bb462bf7fc01d2f0c",
+      "en_sha256": "d87480753ab6b05df939da43e949555ea8e7b6d4cef0e1d9a696ea3bfcb4b5a2"
+    },
+    "dataList[id=24].content": {
+      "pl": "Rozumiem. W końcu stracił pan wszystkie wspomnienia o Mieście.",
+      "kr_sha256": "8dd199090912ff11e3cea243aea266073daf1d9adf52239c422be8188e28e2b3",
+      "en_sha256": "7bf737572008d5ea8552903ef20240f89d6222bac0d873dad96efe71adc16130"
+    },
+    "dataList[id=25].content": {
+      "pl": "<No właśnie. Dlatego chcę zapisywać prawie wszystko.>",
+      "kr_sha256": "c24f40068bf39899dcf4981c40843f517e0ffb56bf7aeee433d0ff73d0f53048",
+      "en_sha256": "be5b90eb82afd46a1807b1671726a6ae6ba12a18e80a0ae8742ff99e5504dd6b"
+    },
+    "dataList[id=26].content": {
+      "pl": "<A przy okazji, w wolnych chwilach, przepisać to, co wcześniej bazgrałem na kartkach…>",
+      "kr_sha256": "6eba351b443130ec5d95d97ea13e515a6e10c8f810046cfbc0e900c39ab0c72d",
+      "en_sha256": "d9f48d06b3d1a02f3cc5dbcf2674f3d185b69f88f907361214db847f8bc5fd0d"
+    },
+    "dataList[id=27].content": {
+      "pl": "W tym świecie mój zegarowy łeb może się w każdej chwili zmienić w jakąś inną głowę. Moje wspomnienia też nie będą bezpieczne wiecznie.",
+      "kr_sha256": "153212f795a6e374fdddc65186c4f8b8be48e60764e2eb54da5c6b5572dd358f",
+      "en_sha256": "b2685a0d440b7b4d3796255365a843eb99fd247e9b503f11cd73b78a45efaca0"
+    },
+    "dataList[id=28].content": {
+      "pl": "Dlatego muszę się porządnie ubezpieczyć.",
+      "kr_sha256": "a0f59802965d4d34c1b42cee5ba9da1850b7ee28e7e9cb2d6e29de649677b63d",
+      "en_sha256": "f0c4ceb28ffdf394cc94a989230874feafdd2b92138cd6fb5df9b203fa1313b8"
+    },
+    "dataList[id=29].content": {
+      "pl": "Żeby nie zapomnieć drugi raz.",
+      "kr_sha256": "d4720aaa1a0ce006ea6630bcd76f79c8825ca4d63767e5c9918937c0236668f0",
+      "en_sha256": "d6c2122131f05693d364e775fded818dc815118896e13df4cc8b4b3beffcd5fa"
+    },
+    "dataList[id=2].content": {
+      "pl": "<Nie śpisz, Faust?>",
+      "kr_sha256": "597a76bfd58a956daf1f0ec265ad950f9d72dc50d06e8ef4cc91d5e8b88bfc9e",
+      "en_sha256": "6a0778aa5448815c8bf39e62c9fe61a06a74a5486cdf7e68f63b23b02cea5649"
+    },
+    "dataList[id=3].content": {
+      "pl": "Zostało mi jeszcze kilka rzeczy do sprawdzenia. Silnik, który tak ostro eksploatujemy, wymaga przeglądu wtedy, gdy odpoczywa.",
+      "kr_sha256": "27b5a83c2f758abef1900bdce9efddb6f5960e2eb8704060b421845d2496884a",
+      "en_sha256": "008874b4f2bc93b90efd532933d8e1a21727119a73eb7ef00babb74e1d33212f"
+    },
+    "dataList[id=4].content": {
+      "pl": "Rzeczywiście: zamiast wielkiego dwuręcznego miecza, z którym zwykle chodziła, Faust trzymała kilka lekkich narzędzi i niewielkie urządzenie mechaniczne.",
+      "kr_sha256": "1f145789abdf74dadbf2241908c7b51515e40a945c488f316547ab772c194e32",
+      "en_sha256": "e744c7fb148a523f8d5e40977c63a685b5d2c3cc38775c1c10d008ede4e86185"
+    },
+    "dataList[id=5].content": {
+      "pl": "<Ciężka robota, co?>",
+      "kr_sha256": "c0d539cda84e4b21c98fc92e2ff7a2b0826c4f6a48475e08db5f75a8b2220969",
+      "en_sha256": "967661e140569bddc03411359477bf76f845c6d21079c56b00cdbe5b662ce9e8"
+    },
+    "dataList[id=6].content": {
+      "pl": "To trudno nawet nazwać robotą. Znacznie ciężej byłoby bezczynnie patrzeć, jak dzieło życia Faust jest zajeżdżane bez chwili troski.",
+      "kr_sha256": "2c1b1629bc51ee7fab4cdd43e9d6abe2eabe114bd50070a08b0dd71ebbc8df30",
+      "en_sha256": "6643c26b6f6f822893875894346995a90fe35684e71b8d950d8e3562f75303dd"
+    },
+    "dataList[id=7].content": {
+      "pl": "Faust uśmiechnęła się blado…",
+      "kr_sha256": "ea712ccd5254a2aa065088378e2e2739dd1d4b66e0c2e235dfbe07a279f33d84",
+      "en_sha256": "4935b4455f83f721122dcb878f0937a0631fbb60786746d4da2bbc4bb50b8f7d"
+    },
+    "dataList[id=8].content": {
+      "pl": "Podoba się panu ta aktualizacja?",
+      "kr_sha256": "4da9a286a547e75f0b1ab21863caca9d61e782ba3170faff9be72fd6eeb50fc1",
+      "en_sha256": "5e08b76d6bbda9fe460f89068ad001aceef056090bd23ea463f8235ffb0fd09c"
+    },
+    "dataList[id=9].content": {
+      "pl": "…i spojrzała na mnie z góry. Siedziałem i grzebałem w urządzeniu.",
+      "kr_sha256": "321acbc93a33248eac5974725e1861b7686fe9537c98cab953fd4bb691b76be8",
+      "en_sha256": "d199796760d9d0a3f4b0fd40d9fd0e2c2b36372ac6e8debd85e1a58015e119c0"
+    }
+  }
+}

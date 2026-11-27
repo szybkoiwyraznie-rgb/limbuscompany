@@ -1,0 +1,69 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "<Hm…>",
+      "kr_sha256": "58b3ca248899e553c67871b9d15fa9925f3cc663ebd3a3f67f3b318ce5fffa92",
+      "en_sha256": "cefba2cdd685c16bdd0ea4d51d016107fe882501a09ad9f9b57a75131c313893"
+    },
+    "dataList[id=10].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=11].content": {
+      "pl": "Gkh!",
+      "kr_sha256": "9b855f4f11b774bf518bdebe2cfddfd5842d10c8924d56bc6a8e9ea445b4ba6a",
+      "en_sha256": "ff012e3c588011ce8427766d6d4ec9babb69a951de08c7bd0a5f33b62d7a6a0f"
+    },
+    "dataList[id=12].content": {
+      "pl": "Na krótki, dosadny rozkaz zniekształconego właściciela kury rzuciły się na nas wszystkie naraz.",
+      "kr_sha256": "7d7f42772bc3976a089949c2f0527dd52132c973b0e2897cc3cc8933e00c141a",
+      "en_sha256": "6e1a17e5d03ef1832ffe42af5bfda9623032ebe7b69aca5e26b482eacc2bae3d"
+    },
+    "dataList[id=1].content": {
+      "pl": "<Czy ktoś może mi wyjaśnić, co to za danie?>",
+      "kr_sha256": "34899b0798f8d6288eff5ef1f4cc9805e574792592efe2bc8ac93da8f3e0f04e",
+      "en_sha256": "49a0f6c96266a0467854a9640a20bf00c3564d4057135dd7ba175458840cf8d3"
+    },
+    "dataList[id=2].content": {
+      "pl": "To proste!",
+      "kr_sha256": "ab870f26c6654dfb4daa91533e2afa4b2120cafbf919337dc0402ce1ab6de2ac",
+      "en_sha256": "6606c86dea8768c6fef0c91cce308857b018bd94ca2dfe4e017de6071c0efcfa"
+    },
+    "dataList[id=3].content": {
+      "pl": "Mości Kierowniku! Czyż czokolada nie jest przepyszna? Toteż ją dodałam.",
+      "kr_sha256": "6b4dbee4dae930322bba6d1b8ae0be966700062dbc646fda7eceb67d8a90dac5",
+      "en_sha256": "d54625c27ee3a5df140a00de7296f0562b1d8a11f081749f22c660f145e49600"
+    },
+    "dataList[id=4].content": {
+      "pl": "A że kartofli nie znoszę, zamiast nich dałam podobne z wyglądu oranże.",
+      "kr_sha256": "20cb58347f49cde654418b9495059327771ec48735790785f6b5d080675da5a4",
+      "en_sha256": "d509a8b7ced612741a3c83dccf204793c8f13c686d9c9edff3d38bf7cfcb869f"
+    },
+    "dataList[id=5].content": {
+      "pl": "Co? Kto ci pozwolił wywalić kartofle? No żesz, co za bezczelna gnida.",
+      "kr_sha256": "5984f102702a3360371d6831ae77ef1e0d197c4cbf45848606597e5227c26bb1",
+      "en_sha256": "5d1f3441ce43e20b7a799b00a9506149839eb4fa9222e1b6f57853fe425bb4e9"
+    },
+    "dataList[id=6].content": {
+      "pl": "<A czemu te kurczaki są tak okrutnie poszarpane?>",
+      "kr_sha256": "377b649bbc6004c228ad999548ce7dd21d0edba78482371c10117479c22863c5",
+      "en_sha256": "b427ac2ed20fbbda148477c691a11071edc64dd4a2e2c5f6427e936bb6cf63de"
+    },
+    "dataList[id=7].content": {
+      "pl": "U nas zwykło się rwać kurczaka rękami na kawałki. Przysmak to nie lada.",
+      "kr_sha256": "c434f7aa4ee174917c7c78ba8288401d8841a728319b1e6db0924a44ac382ff9",
+      "en_sha256": "bb3c58a8e9f60b438e0c733d93161e2ae1a182dbfd883c880bdad656b5bd3474"
+    },
+    "dataList[id=8].content": {
+      "pl": "<A to czarne co to? Czemu na patelni leży węgiel…>",
+      "kr_sha256": "768d9b06fa04ce1ea220f0dee77c3a72db67a57af0dae02a4d1f09f3b33eb40c",
+      "en_sha256": "9404256c67bd06d97412372ad9b320f63a3160e222f6d4b5c4d828fe7fcd3668"
+    },
+    "dataList[id=9].content": {
+      "pl": "Patrz go, gęby nie ma, a się czepia. Ty w ogóle umiesz to zjeść?",
+      "kr_sha256": "4fbc68fe3d30f4a107fd551a258c2232cf91033575b54d6f64b894fdbeeeaf71",
+      "en_sha256": "ca123e243f58e22e42d1a772e6abe5a1938e5a3bee3c30d4ed0a17883397fb35"
+    }
+  }
+}

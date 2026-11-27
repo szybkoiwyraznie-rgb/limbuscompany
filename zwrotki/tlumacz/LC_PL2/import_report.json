@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "files_read": 24,
+  "items_seen": 22989,
+  "translated_items": 6802,
+  "inherited_repeats": 402,
+  "untranslated_items": 14510,
+  "addresses_updated": 7007,
+  "story_glossary_updated": 197,
+  "view_glossary_updated": 0,
+  "skipped_human_existing": 0,
+  "replaced_ai": 696,
+  "error_count": 0,
+  "warning_count": 1,
+  "errors": [],
+  "warnings": [
+    {
+      "file": "LC_PL2.zip!/PL/widoki/07_rozdzialy_etapy_i_zdolnosci_dantego_a.md",
+      "item": 1110,
+      "detail": "StageChapterText.json: zmienił się tekst źródłowy w nowszym buildzie — element pominięty, użyj pakietu przyrostowego"
+    }
+  ]
+}

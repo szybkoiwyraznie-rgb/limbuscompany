@@ -1,0 +1,79 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "Ryōshū i Gregor płonęli żądzą mordu.",
+      "kr_sha256": "99de0b20f02587eb8b578aa28f7727f5696ef68b621ac882979c2781a3c965a1",
+      "en_sha256": "491a77aabf61d4d68d65d94723fc1d9b7de1983217c4f46b3e38e0bda8c1d01a"
+    },
+    "dataList[id=10].content": {
+      "pl": "I skwierczenie żaru papierosów…",
+      "kr_sha256": "fab44df45eb91681e031a3a23a95b51dedb37eb436c87d70cec59d1875755188",
+      "en_sha256": "91352d82c03dcfbe4f0345661fdc7c5a49479ad6d7d67263c4841c086123dee4"
+    },
+    "dataList[id=11].content": {
+      "pl": "<…Hę?!! A czemu słychać skwierczenie papierosów?!>",
+      "kr_sha256": "3566d0247a9d319c252174db5c5c2b156d133b3cf95357594cfe61f22a41dc3f",
+      "en_sha256": "4daf0d26e15e1e8248e4fa3a86498c0be1964dfa037a889a8b49aba732a33ec2"
+    },
+    "dataList[id=12].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=13].content": {
+      "pl": "Oboje milczeli.",
+      "kr_sha256": "759bb33cec1ab58cdf0da2c339b9c259dd31fdad8f1fe13ae967292e9639930a",
+      "en_sha256": "cd797bf9abf3820db6ab1e3b7368ceaf244b3ba33f8bf48dfb5b02077416e9e5"
+    },
+    "dataList[id=14].content": {
+      "pl": "I rzecz jasna tylko od strony Gregora dało się słyszeć ciche gaszenie papierosa.",
+      "kr_sha256": "d5b901b9ec858bce19c99edcc190375fde2895d6ee3ead28ca852e9d2aa9b291",
+      "en_sha256": "db6e3a290f00424690adbd7b64b98eb833bd27d5c2b88078462ed41646e7790a"
+    },
+    "dataList[id=1].content": {
+      "pl": "Zaraz… czy przy gotowaniu w ogóle powinno się czuć żądzę mordu…?",
+      "kr_sha256": "d3ec0fa21f66bb4f805495b2aaeaf7d5d9ec19a995758badf11926b2581be197",
+      "en_sha256": "50e9cc5f9f8435bc8b0c37325f7121e5a9183c3e5663d0732b39ce627dd9fa0b"
+    },
+    "dataList[id=2].content": {
+      "pl": "Ten twój przepis to pewnie i tak kolejne żarcie z puszki?",
+      "kr_sha256": "0420a9d647c8fc523c2a25718e82b546d8e4c1a735b56137342a4ba337ae80c6",
+      "en_sha256": "dde78bc3c721fc90f9d375d399295240a6c6e0ef9c07f3c3675bd9e6c203b89a"
+    },
+    "dataList[id=3].content": {
+      "pl": "Nie ma przepisu, który pobije kuchnię przetrwania.",
+      "kr_sha256": "c05dddb3d8f2ed45d38f07d30b325b824e17ed8f2691083119cfe58d40e430ce",
+      "en_sha256": "691c5a8b7859d5a72e1ed013e07619e615fc7e2efc9a37c080e54febe544fa67"
+    },
+    "dataList[id=4].content": {
+      "pl": "Ej, Blondas! Dawaj kurę.",
+      "kr_sha256": "24001e8f644d0fe0a09be5ec88171c7289c2e9ebba870cd1e9d72af4d08e2a9b",
+      "en_sha256": "1b9873977a732d3b5f25e05adab0f14100b2a6ecc5027690bd9238c74a531fb6"
+    },
+    "dataList[id=5].content": {
+      "pl": "Co? T-tak…!",
+      "kr_sha256": "72307f7b0961c1b04e57cf427bea76e49ed8619a7b1926c46124544cda41ae20",
+      "en_sha256": "dcc170a9652eb00e9a528aba1a02d27429a27f49af865310cbd28fdce498fdfe"
+    },
+    "dataList[id=6].content": {
+      "pl": "Yi Sang! Wybacz, ale mógłbyś otworzyć tę puszkę?",
+      "kr_sha256": "f50c545fd975bda14cfa77aac0ac2ceb3c7a83e80670a25e08d1c577715eb255",
+      "en_sha256": "59e38a45a2c518b279c5f7ce0b8e811191596e7963b55691efa9e8315dc3825a"
+    },
+    "dataList[id=7].content": {
+      "pl": "Uczynię tak.",
+      "kr_sha256": "08f3fdcc9d9080ccaa58991591d36db0f3e641f6bf1e8312c579dbe36233c40b",
+      "en_sha256": "15aac7e53df0529b224f7475ca638fca72da159915124a97742b4de71acadb2d"
+    },
+    "dataList[id=8].content": {
+      "pl": "Widok i odgłosy gotowania, które wypełniły kuchnię, wydawały się całkiem przekonujące.",
+      "kr_sha256": "6f4ef06432268a61639a9c88bf58b73d3b143d7913d609004ef21f9f1be1a680",
+      "en_sha256": "bba4fb25bb78d0d116ea9545e8a5745b690b6f3e99762361b0a34c7f2dc2c8c3"
+    },
+    "dataList[id=9].content": {
+      "pl": "Stukot noży o deski do krojenia, bulgot zupy.",
+      "kr_sha256": "c6e5579c5f4556e0c5ec5d2524ed19d107663f9490fb435cb5cf85230f27d7a2",
+      "en_sha256": "340be058a01787c327cafc5e2779ed2758d4bfb27e163307f98be46296f476c7"
+    }
+  }
+}

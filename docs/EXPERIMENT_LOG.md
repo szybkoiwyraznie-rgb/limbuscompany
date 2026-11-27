@@ -546,4 +546,44 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
       - **Fala 3 (`P43`–`P87`, `45` paczek, `25 091` slotów):** komplet kart każdego z 12 Grzeszników po 1 paczce na postać + wspólne (`3A`), Dary E.G.O i karty/skille E.G.O (`3B`), statystyki i umiejętności wrogów/Anomalii/wsparcia (`3C`).
   - **Słownik terminów (`paczki_ai/SLOWNIK_TERMINOW.md`):** utrwalono kanoniczne terminy i odmianę imion 12 Grzeszników z `LC_PL1.zip` oraz konwencje bojowe dla Fal 1–3.
 
+### E-016 · 2026-11-27 · Integracja drugiej zwrotki tłumacza (`LC_PL2.zip`) — priorytet Tłumacza nad AI (`replaced_ai: 696`) — i produkcyjna paczka `LCB_PL_Polski_26917622_v2.zip`
+
+- **Rodzaj dowodu:** **test na rzeczywistej zwrotce tłumacza** (`1` błąd ścisłej bramki rozstrzygnięty `--allow-older-package` z `1` ostrzeżeniem) + pełne testy (`64/64`).
+- **Wejście (`LC_PL2.zip`):** `1 968 062` B, SHA-256
+  `b2f41e61d69b40a78f3f8a3ed143f9d993686f6f824d800d00f36a5beb6fed05` — `24`
+  plików Markdown (nowość względem `LC_PL1`: **Intervallo I „Hell's Chicken”**,
+  opowiadanie Notatek Dantego, widoki „Rozdziały, etapy i zdolności Dantego”
+  a+b oraz „Interfejs główny i ustawienia” a). Zgodnie z polityką `D-12`
+  treść MD obu zwrotek jest teraz w repozytorium:
+  `zwrotki/tlumacz/LC_PL1/` i `zwrotki/tlumacz/LC_PL2/` (+ `import_report.json`).
+- **Bramka zmienionego źródła (element `1110`):** ścisły import odrzucił
+  `07_rozdzialy_etapy_i_zdolnosci_dantego_a.md` element `1110`:
+  `StageChapterText.json :: dataList[id=chapter_n_9128].chaptertitle` — w danych
+  gry wiersz rozdziału `chapter_n_9128` (korporacja N사/N Corp., `14구`, 10장)
+  został podmieniony z tytułu dziesiątej Walpurgii (`제 10 회 발푸르기스의 밤` /
+  `The 10th Walpurgis Night`) na tytuł **Canto X** (`바라보아지는` /
+  `The Gaze Bearing`). PL Tłumacza „Dziesiąta Noc Walpurgii” przestał pasować do
+  źródła — element **pominięty z ostrzeżeniem** (`--allow-older-package`),
+  wróci w pakiecie przyrostowym dla Tłumacza z nowym źródłem.
+- **Wynik importu (`tlumaczenie/`):** `24` plików, `22 989` elementów:
+  **przetłumaczono `6 802`**, odziedziczono powtórzeń `402`, zaktualizowano
+  adresów `7 007`, **nadpisano wpisów AI (`replaced_ai`): `696`**,
+  `skipped_human_existing: 0`, słownik mówców/miejsc: `197` pozycji,
+  `1` ostrzeżenie, `0` błędów. `tlumaczenie/MANIFEST.json`:
+  `human_addresses` `5 559` → **`7 147`**, `ai_addresses` `43 358` → **`42 662`**
+  (suma `49 809` adresów), `story_glossary_entries` `169` → `197`.
+  Nowe pliki wynikowe: `StoryData/E01xx–E3xx` (Intervallo I), `EGOgift_StoryDungeon*`,
+  `StoryTheaterDanteNoteDetail_4`, `MainUIText`, `StageNode*`/`DungeonNode*`/`DungeonArea1-*`,
+  `FileDownloadDesc` i in. (łącznie `42` plików zmienionych/nowych).
+  *Dopełnienie sesyjne:* 3 pliki wynikowe importu AI z P59
+  (`EGOgift_MirrorDungeon_2/6/7.json`, `296` adresów `origin: "ai"`) dodane do
+  Git poza kolejnością checkpointa.
+- **Wynik budowy paczki produkcyjnej (`dist/LCB_PL_Polski_26917622_v2.zip`):**
+  `7 566 960` B, SHA-256
+  `4af4f29c01b47981933c721159b8fe567ad8eb04c48492dccb0955f8cc2501b8`
+  (`2 422` plików JSON, w tym **`1 130` zmodyfikowanych**,
+  **`57 071 / 193 309` = `29,52%`** przetłumaczonych liści w całej grze —
+  Tłumacz + AI, `0` zdezaktualizowanych źródeł, fallback EN dla reszty) —
+  wgrana na Dysk Google właściciela ze zgodną sumą kontrolną.
+
 

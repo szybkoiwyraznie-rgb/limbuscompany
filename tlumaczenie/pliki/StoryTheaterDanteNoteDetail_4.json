@@ -1,0 +1,19 @@
+{
+  "entries": {
+    "dataList[id=DanteNoteDetail_64].desc": {
+      "pl": "- Autobus, którym jeżdżę razem z Grzesznikami. Nasze biuro i zarazem dom. Stąd wszyscy wyruszamy do pracy, tu jemy, śpimy i się kłócimy.\n- Wygląda trochę jak pociąg, a trochę jak autobus, ale wszyscy, jakby to było oczywiste, mówią na niego “autobus”. Zważywszy na nazwę działu, to chyba rzeczywiście autobus.\n- Podobno Mephistophelesa napędza silnik zaprojektowany przez Faust.\nOd silnika biorą się wszystkie funkcje Mephistophelesa. Nie tylko wiezie nas tam, dokąd chcemy dojechać: dzięki mocy silnika możemy też wydobywać Tożsamości z innych światów, a za Tylnymi Drzwiami autobusu czekają miejsca, w których można odpocząć albo nabrać doświadczenia.\n- Mephistopheles może podobno, zależnie od potrzeb, dostawać nowe funkcje i ulepszenia. Ktoś z Grzeszników powiedział chyba na to, że autobus jakby rośnie. (Kto to był?)",
+      "kr_sha256": "4472aacf6177126a6b1ec8b25191f728f4b4a8df750c59a74dc7107f79fb0229",
+      "en_sha256": "f4fdd977181f298988ea480918155bfbfdcb01b0816a6219bebf96fed50107ec"
+    },
+    "dataList[id=DanteNoteDetail_65].desc": {
+      "pl": "- Drzwi w tylnej części Mephistophelesa. Kiedy się je otworzy, wychodzi się na korytarz z drzwiami do pokoi, w których odpoczywają Grzesznicy.\n- Z tego, co mówią Grzesznicy, każdy pokój jest urządzony inaczej. Faust wyjaśniła, że odbijają się w nich pewnie osobiste uczucia i wspomnienia każdego z nich.\n- Drzwi, z których korzystamy, jest mniej niż ludzi, ale zależnie od tego, kto je otwiera, prowadzą w inne miejsce, więc przez jedne drzwi chodzi kilkoro Grzeszników.\n- Na każdych drzwiach napisano też, do czyich pokoi mogą prowadzić.\n- Oprócz pokoi do odpoczynku są też drzwi do innych pomieszczeń.",
+      "kr_sha256": "975aaf4351e4bcc42f158e6caa14a5e51ccfc4d48c29ffab303eaaaacd2b5f38",
+      "en_sha256": "94efaf8f15c41a584adacbb503c520b2622e4457f77d30a16023cc52822936b7"
+    },
+    "dataList[id=DanteNoteDetail_66].desc": {
+      "pl": "- Przez drzwi mojego pokoju można wejść do korytarza prowadzącego do Lochów Lustra i Lochów Wydobywczych.\n- Korytarz za Tylnymi Drzwiami wydaje się dłuższy i obszerniejszy, niż wskazywałyby drzwi, z których możemy korzystać, ale stoi tam tabliczka ostrzegająca, żeby nie iść dalej.\nRaz Heathcliff przeszedł za nią i omal nie doszło do poważnego wypadku. W głębi korytarza chyba czają się niebezpieczne rzeczy albo prowadzi on w niebezpieczne miejsca.\nWciąż pamiętam przerażoną minę Heathcliffa… I to, jak Faust, zupełnie do niej niepodobnie, się spieszyła.\n- Ryōshū nazywa chyba tę ciągnącą się bez końca przestrzeń “Korytarzem”, ale mam wrażenie, że chodzi jej o coś innego niż zwykły korytarz, jaki przychodzi nam na myśl. Co to właściwie jest…?",
+      "kr_sha256": "1f3924934c0d9abb27c1011fe5f19a597882ce951e5655234b7f34714fbfb077",
+      "en_sha256": "3d4353944b3480f186c0002f28d918fb7bb7a55b8e10540b27e60435aa6699cd"
+    }
+  }
+}

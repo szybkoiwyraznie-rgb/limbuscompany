@@ -1,0 +1,504 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=10].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=11].content": {
+      "pl": "<Mamy dać komuś danie do degustacji, a sami go nie spróbowaliście?!>",
+      "kr_sha256": "6aa9150fb884b6f0d8a1b3e05874522f30a4998a84bd2bae890d98962850d64c",
+      "en_sha256": "47cc709ce1b7232bcf3cb2675476c7c0f59dc1dd3b4e578c6fdf95494f5125de"
+    },
+    "dataList[id=12].content": {
+      "pl": "Mmmm… Zegarowy gnojek pierwszy raz od dawna gada z sensem. Kto spróbuje?",
+      "kr_sha256": "95128bb02f099581daed031d1aee4110bc21eddda8afd520734ed7fe53b89a23",
+      "en_sha256": "275f3e3de5cccc7e6b6b609845cfe0704996ac25fe4114337e2cc861b1f0b230"
+    },
+    "dataList[id=13].content": {
+      "pl": "Zapanował nastrój bardziej zdeterminowany niż przed walką.",
+      "kr_sha256": "ed57577c9e1ccd8a6d2fe0fad3d93f8c2354e0f69bcec78d4edf1e062c80a09e",
+      "en_sha256": "ecb11aaf51eb976dad66a68192f9a3f5e44fd2be17ad4a5291443a97d8f3e2b9"
+    },
+    "dataList[id=14].content": {
+      "pl": "…Nie patrzcie tak na mnie…",
+      "kr_sha256": "9a0c496f43cc385ec7f0c29a60724951c8e0353835d4b7977e364c07c7c7a131",
+      "en_sha256": "b41dd6d6c69842460d57156a7db7801f1c327bcde75b810aa3301f840b63bd1f"
+    },
+    "dataList[id=15].content": {
+      "pl": "Ja jedna! Poświęcę się, byle jeno naprawić wypaczenie świata…!",
+      "kr_sha256": "8fae920ca9f1c0beded9cf9e085379066501077d66bd4b0c12b144b908879906",
+      "en_sha256": "374f738e62037b5b8b1eff92a67c482c6667066c59597bacdbbfadbf911c1a36"
+    },
+    "dataList[id=16].content": {
+      "pl": "Don Quixote zacisnęła z determinacją powieki.",
+      "kr_sha256": "fa23b5600cccdfc0bb7bbd4638f5e088cab9f45b6733e6f6204c4009653d3449",
+      "en_sha256": "cf4174121326d6b4f9a4a763e08a19cea5b1b9565dac2005327527db5c8340ff"
+    },
+    "dataList[id=17].content": {
+      "pl": "Cholera! Szlag mnie trafi, niech ktoś to wreszcie zje!",
+      "kr_sha256": "5f06d0b8a9302bf865d4142dfd7f6843fc4afce84285e86bd8e1cc141715a2be",
+      "en_sha256": "d18102a390d583e414ebb83dec64991d6877f066c965f7d74601269a30b288e0"
+    },
+    "dataList[id=18].content": {
+      "pl": "Heathcliff złapał danie ręką i wepchnął komuś do ust.",
+      "kr_sha256": "ad345082e55e2b0e628c47ac61c2db4791c01dec00053f5d7086d2f0b272680f",
+      "en_sha256": "e87e24ffd9f13203e141d273f1bd42644463727d1efc400933dc36992747be49"
+    },
+    "dataList[id=19].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=1].content": {
+      "pl": "Cóż to ma znaczyć! Nawet nie skosztował, a liczba spadła!",
+      "kr_sha256": "bd2d9f215fc381f1d1123d3a648d7ca7b824d3fc8d9c269350e7b06ca74fda7b",
+      "en_sha256": "43fd63370d4752ea6c730af96c81b39bdf81012938d13d7e863da50508ddff40"
+    },
+    "dataList[id=20].content": {
+      "pl": "Meursault, którego to nagle spotkało, zastygł bez najmniejszego ruchu.",
+      "kr_sha256": "f71d180db408cd8fc7a91e2a0b851be250ea4565ac48c3e7cefeacd9e63acb4e",
+      "en_sha256": "ee5e1f027f2358aa27f24319d26fc1a8afe78f711e441f53744fae90bea181f4"
+    },
+    "dataList[id=21].content": {
+      "pl": "<Nie umarł na stojąco?>",
+      "kr_sha256": "ca8b32b8c8ed2deb61c63f3173952f38962652417c7eeda390eeb627d3068493",
+      "en_sha256": "0c93c7db2f9075b0a7319d18d802f9920793b590becea11b7cf9029a4b4b20bd"
+    },
+    "dataList[id=22].content": {
+      "pl": "Tym razem jam naprawdę nic nie uczyniła. Gdyby imć Vergilius zechciał szukać winnych…",
+      "kr_sha256": "1363cb1af004bafdf27447d7c8284ddf0e7bafb6981988482fc520d2c372e66e",
+      "en_sha256": "f98be82105fe77668d805f2cb427d47973878655152e4f38dd541cdf08b152e7"
+    },
+    "dataList[id=23].content": {
+      "pl": "Bardzo powoli Meursault odwrócił głowę w stronę Heathcliffa.",
+      "kr_sha256": "f56d75055b75754cefaa172cf9281b45d6b1bd3dea720770a6e75728cc1849dc",
+      "en_sha256": "4998b898fd07e61d7dfb5f155929612179c799cc378c7a12545185203dbe9b59"
+    },
+    "dataList[id=24].content": {
+      "pl": "Ogół…",
+      "kr_sha256": "ed60b07ffbe32911f2b60b971b6908f7ae9601a94f0cf95d4133ae241a403840",
+      "en_sha256": "31b1e8c26cffda753277aca28cdffb39b338e93c0e7e79ba3022c2d2804ed2e7"
+    },
+    "dataList[id=25].content": {
+      "pl": "C… co?",
+      "kr_sha256": "f97635f2746b135e856a1a93a0fcb3c675a64f03a42ae96e33a30e5450a9eb72",
+      "en_sha256": "d54c2a8d22825a1a49eae966d69a483687cf4dcc2b1cbe47e266af8890b96741"
+    },
+    "dataList[id=26].content": {
+      "pl": "Ogółem źle przyprawione kurczak niedopieczony więc nie udało się zabić zapachu surowizny i stęchlizny sos za gęsty przez co brak głębi smaku kurczak porąbany zbyt nierówno więc nie pobudza apetytu.",
+      "kr_sha256": "e8ff16bfd159223c6ab5408d2fabdb719c52940ad0a1d458ae71882cfe5a2cca",
+      "en_sha256": "087db62bac75a5324aa72fb9486f0505cff11b4433bf14b2bef4ca5c689c7814"
+    },
+    "dataList[id=27].content": {
+      "pl": "Co… odbiło mu? To już wszystko?",
+      "kr_sha256": "bacab997c2cf449e1ab0095da8cabc52c9ba9d5081c681a24c9770ea7348c2fe",
+      "en_sha256": "5a7cd09f187d3eebe99476f95e2a65e829d16611fc42a355c8cffcc53066c7a4"
+    },
+    "dataList[id=28].content": {
+      "pl": "Nie.",
+      "kr_sha256": "f05525bb2385ed4397718fde4e64cfb5e0cd4a6ecaaf74e5f1f5f23fdf63599f",
+      "en_sha256": "bfd0b2bc7f155b17b1aea7aad8053aa09db23339527041996d6dee69aba415d4"
+    },
+    "dataList[id=29].content": {
+      "pl": "To nie koniec.",
+      "kr_sha256": "9c8e14497733bea5f34d2a79e5bd537c5c8cb301d49882f281a9d24a54478158",
+      "en_sha256": "6f035f0e565a14b6dcd3467a237be216527dde688076ed2799f09df8c6873a6b"
+    },
+    "dataList[id=2].content": {
+      "pl": "<Mówi, że od samego słuchania, co mówicie, odechciało mu się jeść, więc to nawet nie jest warte oceny…>",
+      "kr_sha256": "0b38c7f3245ab283ad17afcb67f9d0c8487bb2c8dc531646eb4f96adf790361b",
+      "en_sha256": "df86d597b3fab1b596a8efdadcfeb5d3184d3d9d3140189d809608c1905ad4b4"
+    },
+    "dataList[id=30].content": {
+      "pl": "Przyprawy w kompletnym nieładzie, w ustach pobojowisko jak po zagładzie. Cukru brak, więc dorzucasz masła dwie i pół łyżki, a moje usta nie zniosą tej mieszanki.",
+      "kr_sha256": "956176ae062c75dd059f4ded991049862d4cd9e4f113dd7fc9ddc8db83879088",
+      "en_sha256": "9092ef7d728761702c212747c791254dbc495ab9e2da417dd30acbae276fcce5"
+    },
+    "dataList[id=31].content": {
+      "pl": "W… w… wybaczcie…",
+      "kr_sha256": "50738274e7dccfd11ff8ae104566da963c85f20f3b646f4f6db8e4a1734aabed",
+      "en_sha256": "3452d9550a2dfbd1a49ee37cbcc26dd2db43dea74a87cf4d9f50134c8aab7eae"
+    },
+    "dataList[id=32].content": {
+      "pl": "Yi Sang, czy to imię tak cię zobowiązuje? Dziwne danie dziwnie gotujesz, zęby mi tym rujnujesz, z ideałem się rozmijasz. Moja wypowiedź na tym się kończy. To cały Yi Sang.",
+      "kr_sha256": "12afccd95e74aa6e8821655efa45c0861380521fe91b657a73315137d2dd2aec",
+      "en_sha256": "49b58622bd912d49886171ebdc9a3c128df300a30f848d381bc9c7702da4d4a1"
+    },
+    "dataList[id=33].content": {
+      "pl": "…Nie mam nic na swoje usprawiedliwienie.",
+      "kr_sha256": "4711a34b752f2120db578c034a56cbcd2ee5069a419b80bd08da515ca193a391",
+      "en_sha256": "3e48e3dfe4a2416bb0aed8c292af4761e0e0071d923c7d43e860c2db21c4cdba"
+    },
+    "dataList[id=34].content": {
+      "pl": "Zaraz, czy on… czy coś go nie opętało?",
+      "kr_sha256": "46a341c90cecbf8570b9eb703f45a4ed242d4b0cb43ac341a6182d18157573fb",
+      "en_sha256": "5a99d05693fab374b1289e5bf8259c1745ce1af63f7e9924ef1b89639229a094"
+    },
+    "dataList[id=35].content": {
+      "pl": "Zwykli ludzie im bardziej szczegółowo mówię, tym mniej pojmują sedno.",
+      "kr_sha256": "bf638f12681574bc5b0a50ee3b61ed65c740c3592c6c42dfb0994b7ab8950522",
+      "en_sha256": "40955e890ba79dafe00212771afa8ac2ec9b956733af5846f7f3a16160ea0357"
+    },
+    "dataList[id=36].content": {
+      "pl": "Dlatego do tej pory nie zadawałem sobie trudu, by mówić długo.",
+      "kr_sha256": "1c6ff6a9c75c1a7c36c9a588abf0b478e110a5c5372a8e8d5f838796a10c50fa",
+      "en_sha256": "cd8ffd437ee91440fa93af845c532b2a09fe57fc62943a749958946e36314551"
+    },
+    "dataList[id=37].content": {
+      "pl": "A ponadto…",
+      "kr_sha256": "f098bf054ea052b125b48dab1684066445a5e2dec3bfde57bf2f29f9ea6aca09",
+      "en_sha256": "a0c44e11328e0ae4486d6d1e25935d16677abc56cb270f236381c902377b2cfa"
+    },
+    "dataList[id=38].content": {
+      "pl": "To może tym razem ugotuje Meursault!",
+      "kr_sha256": "c848c5d6d1ff8ca68cbf04a9ee45d75721deb8ea66ab7c02dd68fb2545e30dd1",
+      "en_sha256": "135b74c8d97053cc5285b3d6ddc5a7ddfd9405b71797ede20bf96a5542b226e5"
+    },
+    "dataList[id=39].content": {
+      "pl": "Zanim przyszła jego kolej, Hong Lu szybko klasnął w dłonie i zmienił temat.",
+      "kr_sha256": "484422992b944f41e05a260bb34758f598180a30fe0156c65ba2069626a44f99",
+      "en_sha256": "2d101a525990666044b604a416e1c302205be13c5a65845ad8b48544c6060276"
+    },
+    "dataList[id=3].content": {
+      "pl": "Czy to tłumaczenie nie jest za długie jak na tyle sylab, ile wydusił z siebie właściciel?",
+      "kr_sha256": "48cbcb0f2a3f7d57b8db9dd63be209c46774bbf8846bc5e4489b60a1f5c6053e",
+      "en_sha256": "87c184f07649d0e23a00e66d97dcdea9ea9735bc144fdae1506e3d6d25221a45"
+    },
+    "dataList[id=40].content": {
+      "pl": "Pomożemy, czym tylko się da!",
+      "kr_sha256": "225c888518e8e1c58d9b830195cff4c1e5aba11266e957382affc980d9d22b41",
+      "en_sha256": "79d1dd4329d23c6feeeff904b715dfbbb22eadead3cf4df7c1e7993c90e4f179"
+    },
+    "dataList[id=41].content": {
+      "pl": "…Nie przepadam za pomocnikami.",
+      "kr_sha256": "e751247e3b13a7e45bd06a1c3b5373d3d2df83eb8a44c68f332c60cddfa535cd",
+      "en_sha256": "cb4d322557894d9b308ddeb4f5156411ae61bcf05c4ed9be1e7abe69df2789c3"
+    },
+    "dataList[id=42].content": {
+      "pl": "Bez obaw! Nie zawiedziemy cię!",
+      "kr_sha256": "2848afc713e3d295fd70cd1cac6f9744a4fa4ace0f10718ab37da28b7da5d4a1",
+      "en_sha256": "5f60df6bc1f7eb8b3016e4af26f5b78e87638ea0b835ac7eb1598c3a0993767f"
+    },
+    "dataList[id=43].content": {
+      "pl": "Don Quixote zakasała rękawy i zawołała raźno.",
+      "kr_sha256": "b023cd12eafd9d08e17d8ebe45663e362a169362c6e6f0097f639dc01d91554a",
+      "en_sha256": "4967934e6fd680da230c67ea6ab2032030e12493f6ee6c1f8c34f8705a4c7602"
+    },
+    "dataList[id=44].content": {
+      "pl": "Hm… Gotowanie nie jest moją specjalnością, ale skoro tego chcecie, chętnie spróbuję.",
+      "kr_sha256": "8c4788740b2c169cc227b79e34a22f6863e400d93236b94ebdc5a78955c2f307",
+      "en_sha256": "4517bfc9709b3ab3321d466c4678675aa25852ee98c354a8ae91a469aba5f0d3"
+    },
+    "dataList[id=45].content": {
+      "pl": "<T-to może zobaczymy, jak idzie drużynie Ryōshū?>",
+      "kr_sha256": "21476ce418063240f1d7e318bdc49c6fa658fcabe915bca34ff041182f532a78",
+      "en_sha256": "55440ebdfef044e04a562679bf3adcd02ac11cbcc803807b650557eca33b9f11"
+    },
+    "dataList[id=46].content": {
+      "pl": "Podczas gdy w drużynie Gregora trwał ten występ, w drużynie Ryōshū atmosfera zrobiła się wyjątkowo napięta.",
+      "kr_sha256": "86306083a1e20bda49288c677639258a20b0ad07bee861673475b55dba662058",
+      "en_sha256": "f49933ec5dea377ce105b06f22338256d1c53cf3b51a11b4b3fa89728aac2048"
+    },
+    "dataList[id=47].content": {
+      "pl": "A-ale…",
+      "kr_sha256": "9236901633374393768fd9c0c873e8cbf3a5e31ceb838fe8cfe79a28c859a31e",
+      "en_sha256": "8bd0151f5abbf1dc57441d741c0486606ee377c739deb2111947d740649c0d83"
+    },
+    "dataList[id=48].content": {
+      "pl": "Jak niby mam zrobić coś, co ma być słone, a zarazem mdłe, nie za słodkie, a jednak słodkie, niezbyt wysmażone, a za to lekko przypalone?!",
+      "kr_sha256": "37194d9fe9aac9d5f24dc885126da4d2d9feb0f67fbddb27686dda8fd11ada70",
+      "en_sha256": "7a31ca2bc21dd85a6741bab65ef35eba835f8ff1892efefa614181c244db0777"
+    },
+    "dataList[id=49].content": {
+      "pl": "Sinclair wrzasnął i ze złością cisnął fartuch, który miał na sobie.",
+      "kr_sha256": "a064c59588dad1ee1dd530ad69f917e6d5548f17c43169689bb9bb3cae15e07b",
+      "en_sha256": "8d914e6499c1e55f0eb3877c4972ba5a8b8811da6d717cf3bef15c948a92610b"
+    },
+    "dataList[id=4].content": {
+      "pl": "Słusznie! Niechaj to odwoła!!",
+      "kr_sha256": "c2ee172671993411d500db9b86977ae36cd5f6b9c40b863e6d214f1c44d44215",
+      "en_sha256": "7ab46de90ea877140b414fd56a962901d7e33f3ba8f8e8b76fb32b29d3278eeb"
+    },
+    "dataList[id=50].content": {
+      "pl": "Nie dam rady! Chyba rzeczywiście, jak mówiła pani Ishmael, łatwiej byłoby wygrać z panem Heathcliffem na rękę!",
+      "kr_sha256": "1a9f046a6e5f2ca1f3f630029636a75ebcf60188dc0d2457de5a51d9e3ad02e7",
+      "en_sha256": "7db66ebae0756ae30e6c834095de88a131475f0c49491b3a0d9c9ae6b804a878"
+    },
+    "dataList[id=51].content": {
+      "pl": "T-to był tylko żart…",
+      "kr_sha256": "727118223252255e6ca14896877984dafc4a3ca2f2c7061a4cc1ad14c39e1850",
+      "en_sha256": "8ef4bf93cfef2b2511bca7a2bb36d49eb27db9181526fe17c81529ae2c43dc85"
+    },
+    "dataList[id=52].content": {
+      "pl": "Gdyby to obliczyć statystycznie, jest to równie absurdalne, jak to, że pan Sinclair urośnie w tydzień o ponad 5 cm…",
+      "kr_sha256": "858e229ced4795c78ba589411f8f328bdc1793f386513c02fa22f484f87f8cee",
+      "en_sha256": "a73158db69ab3a12b86d22ee37e60071963dd3ff87fed3572dab8bda1cb51082"
+    },
+    "dataList[id=53].content": {
+      "pl": "Proszę być cicho! Wszyscy jesteście tacy sami!!!",
+      "kr_sha256": "f8fb9fcd99d81ac3808deb6bc3150bccef2fcc5127d1d7e17351b4889a6ca9ce",
+      "en_sha256": "97f3f2dfdda43a9030ae13d6f88731e0d8522c0db4270fb0598da94407b9913e"
+    },
+    "dataList[id=54].content": {
+      "pl": "Skomlisz po tak drobnych uwagach? Słabe i żałosne.",
+      "kr_sha256": "fd51b11e9c2a9cf3b06b12eea3c9eb1515e493e474887cdaa170732a88847932",
+      "en_sha256": "e31faebe3ec53e43118c5a2ea1d6af80bb0474de06fd3889eca43eb21c90b0a8"
+    },
+    "dataList[id=55].content": {
+      "pl": "Skoro jest pani taka pewna siebie… może pani Outis sama spróbuje?",
+      "kr_sha256": "d05a7f7239805e4716c3dd25d43236f36c0632a97fdd43f4d8339af4ab18b05a",
+      "en_sha256": "34c99d714f4e027c595277e18d9fb66ae783cf22a0fcceb5bdecd2239f68da37"
+    },
+    "dataList[id=56].content": {
+      "pl": "Jak na tak śmiałe słowa Sinclair mocno zacisnął oczy.",
+      "kr_sha256": "d9e4296cc2d7bd924e07eea9496b91e44d45545157a9ce41f2e20515b0838ae5",
+      "en_sha256": "6a7938b075d4c931d4f68d9ed81d49164e9207a241a848868b22e136152ce1f6"
+    },
+    "dataList[id=57].content": {
+      "pl": "…Trudno.",
+      "kr_sha256": "955363a3c456b89cb1aa8c7f7ac92c736188482ed28d7850c529317a96b77931",
+      "en_sha256": "87a7bcb3d48d4923d84debc01bbf951efbb8eaab3a387ed0be2d900f61ae1f3a"
+    },
+    "dataList[id=58].content": {
+      "pl": "Odstąpić, maruderzy. Koniec końców sama muszę się tym zająć.",
+      "kr_sha256": "e7b8bae034622c48a7a573429012becd2a018ea6c2bf2159a5b42d1e84d1758b",
+      "en_sha256": "aeefa0e060df04e92af3df26b65e7053737f3fb25e2a9de6c81db3ef30322896"
+    },
+    "dataList[id=59].content": {
+      "pl": "Nie wiedzieć kiedy kucharska czapka, którą nosił Gregor, przeszła na Meursaulta.",
+      "kr_sha256": "52b9deafaa9581aec68087d98ac381205e07582c1bc00dc641380195b5906422",
+      "en_sha256": "e339b98b37abb978d557246990d2cdc62a9a8e2e37addd3e58b7102df08edcb9"
+    },
+    "dataList[id=5].content": {
+      "pl": "<Z-zaraz! To ja was najpierw zapytam!>",
+      "kr_sha256": "74acd826e16ebe2086e0f62340d18e8c138145b1d4797b07db2c52da83e67f94",
+      "en_sha256": "848f2821054018c4f902aaf613303c4d2cf6475a0178448ccc1dea3dc7222115"
+    },
+    "dataList[id=60].content": {
+      "pl": "Na polecenie Meursaulta kuchnia zaczęła działać jak dobrze naoliwiona maszyna.",
+      "kr_sha256": "10d15a3e45e661ec2750b7a65aa482e1c2ac5d52dd9cd4a21eeec785bbc91479",
+      "en_sha256": "44c0d435796636ef5c6adca6e0dc1de6196b4aa0ece7870c95186de8201fc933"
+    },
+    "dataList[id=61].content": {
+      "pl": "Mości Meursaulcie! Patrz no! Wyrzeźbiłam uroczą gwiazdkę…",
+      "kr_sha256": "cdbf3efc82efdea26f07ba790a5eff12fa726837e424cc9cb61e2495c4ac54a2",
+      "en_sha256": "e35a122aa61564db2bfc71785cd9aae51be018aa620a6455c3a9543fca4450fe"
+    },
+    "dataList[id=62].content": {
+      "pl": "Ziemniaki kroi się w równe kwadraty. Muszą się równo upiec.",
+      "kr_sha256": "1d5008099308f1a9a0f464008fc80ded53c8385130f004a09790ba15843a81ab",
+      "en_sha256": "a47f950548db319dd827fd37e567ec5f2cfd93cec19918928d9ea498253661a5"
+    },
+    "dataList[id=63].content": {
+      "pl": "Ależ…!!",
+      "kr_sha256": "92bdbc797db37d73cae6d4cda4832c46f6d35c4f0e98fd8308cd0a8003ad5959",
+      "en_sha256": "878680801bb17dcea653e1e2750c4497767d5201baba7688f2add2cacfa94245"
+    },
+    "dataList[id=64].content": {
+      "pl": "Kwadraty. 5 cm.",
+      "kr_sha256": "218e625b15e1d276030ce918c5d16e8a2ebf03d5e44d1185c298a882a30beb13",
+      "en_sha256": "d6ebc3e42860120ad52138f6f2d09a7b0e49442a2f3187c4330bc40119ad1e0e"
+    },
+    "dataList[id=65].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=66].content": {
+      "pl": "Meursault, który przejął funkcję szefa kuchni, wydawał się bardziej charyzmatyczny niż kiedykolwiek.",
+      "kr_sha256": "cc49be95a6440555f7f062ad248640da1e46f00b775ba66eb6a2e5d5e741c3a4",
+      "en_sha256": "cdfbe37b83f504377c5b22d52e1a3a004644b809ee89fbe77dd19fc0b4ecc394"
+    },
+    "dataList[id=67].content": {
+      "pl": "Co mi tam. Danie z kurczaka to danie z kurczaka.",
+      "kr_sha256": "76cf0b09e569a4de6eb126cbc2f0f88cbaf5aff40220a239f84bfd365ce0473c",
+      "en_sha256": "ebf1abd207c744d2862795874f30241106359f39bd8723988cc23aec44c2e9da"
+    },
+    "dataList[id=68].content": {
+      "pl": "Kto wie, czy ten zgubiony przepis to nie było coś w stylu: łyżka serca, trzy i pół łyżki wysiłku?",
+      "kr_sha256": "8749cbd6b29de1986a9d8e46af94977b89748f6c549e5785697418e028c32551",
+      "en_sha256": "b1cbbee5a4f777c5200261c093eefccab20d4f38cff30d0c2b6443bfbd3eb45b"
+    },
+    "dataList[id=69].content": {
+      "pl": "Oo~ To tak się gotuje ziemniaki~",
+      "kr_sha256": "34e90d087d27a0f105e838a44a0ce6b79a5f99810cd511b0209195570a658fd8",
+      "en_sha256": "5ed5a921437272c479810400513ac30fa3e4b5b26cc54092033cb2d48d7c693f"
+    },
+    "dataList[id=6].content": {
+      "pl": "<Czy ktoś z was w ogóle tego spróbował?>",
+      "kr_sha256": "5950af7cac651466f44bfcb1da9572d1f3d1dae0b68d38b486cea1e55b237339",
+      "en_sha256": "f5f3dcf31963c54a24118f435e1b589f11eb43999c47477d6c49fcee412cfa5e"
+    },
+    "dataList[id=70].content": {
+      "pl": "Chyba nie myślałeś… że się je zbiera już chrupiąco upieczone?",
+      "kr_sha256": "815dbe0123887b8fef285a5e467668af89ea380d5c12d8cc4a0559921048dbe2",
+      "en_sha256": "56246417deb322c6fc4817e018f2775aba592e385891596138981f06706d2d11"
+    },
+    "dataList[id=71].content": {
+      "pl": "Ma mnie pan za głupka…!",
+      "kr_sha256": "150a914df20fefaeea4a74905129c6639153229bb7cf45faf9a0c5c11b6631f4",
+      "en_sha256": "bb6c20140ee6b93b1e9f10b5f7c186591ea056d1784ab80e11311c9c857d0250"
+    },
+    "dataList[id=72].content": {
+      "pl": "Wiem przecież, że dojrzałe owoce ziemniaka same spadają z drzewa, kiedy przyjdzie pora.",
+      "kr_sha256": "22b1718b1a71784f040e285f10e60c4f775e1f39cf6031b446af8fbe4b8a8e9e",
+      "en_sha256": "68c7e11d7436d960b78405705117ef7c2e74ca3792707a4c82596ff397ae0308"
+    },
+    "dataList[id=73].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=74].content": {
+      "pl": "Pff, żartuję, Heathcliff.",
+      "kr_sha256": "66b0dea83b7c91557555600aba357f67d38abfe89de1389dd9aada32d2be24ea",
+      "en_sha256": "c78bbf9e4493dc2ed35af74e0609d59f49ae2c136f450668caa1f1ce415ec73a"
+    },
+    "dataList[id=75].content": {
+      "pl": "Hm? Czemu nagle chwytasz za tłuczek do mięsa…",
+      "kr_sha256": "bfb1f87041c500785759e1d91e247f8ad077c561afdad6fe8abcfe6b83ad7e9f",
+      "en_sha256": "ac9442b3abc88ec8841552737db2388455a0ed9dffbb5b37d33029d27db1a88c"
+    },
+    "dataList[id=76].content": {
+      "pl": "Na ziemniaku zakwitł czysty kwiat. Ach, nawet w tak jałowym środowisku pąk w końcu się rozwija.",
+      "kr_sha256": "558b3b693a11a96434c19a6cdda728b2f4a407aca109c696cb8bb22273f8ba93",
+      "en_sha256": "24a9409f1ba0fae7465ca7f8f580ac7f042a3013bdb02754c4fe65b6fa375560"
+    },
+    "dataList[id=77].content": {
+      "pl": "To oznaka, że jest trujący. Trzeba go natychmiast odłamać. Don Quixote, skonfiskować.",
+      "kr_sha256": "4852b389ed7913f6cfca7be454bec04de9deadd95a4f37990ae338f0a2d0da71",
+      "en_sha256": "1da41156059e6a71b45ced667f81345d6bb32d468013d97378912cd2e525806d"
+    },
+    "dataList[id=78].content": {
+      "pl": "Się robi!!!",
+      "kr_sha256": "b5c755265bf64688a742bc82fc303d9b6558fdfd0b218d0594b9f0c1a5822ce7",
+      "en_sha256": "9347793d8936324e0ea7e3ff5a490fe7b795aef784d840b085799fd4d9bde42a"
+    },
+    "dataList[id=79].content": {
+      "pl": "Ach… nie, nieee, nie czyńcie tego…",
+      "kr_sha256": "849d86c8da364edf01d45547afdcd527a173dbeabc3dd4d71b6ff6f7f7586433",
+      "en_sha256": "d0f1bcf37d067a6ec8f8160f8a13b2363086f027cc098da6621c09136068e0bb"
+    },
+    "dataList[id=7].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=80].content": {
+      "pl": "Spalone ma swój sens właśnie jako spalone. Prawdę rzekłszy, “spalenie” to być może tylko fikcja, którą wymyślili ludzie, a istota rzeczy wcale się nie zmieniła.",
+      "kr_sha256": "37e7fe96a7c1ddf3d490039a88e7f397ee77869570e9e53524a4ffea9fa7bf07",
+      "en_sha256": "227e8df32e14d8fc12580fe0d056f457ef08d8d60e929368f5b2f0034df77069"
+    },
+    "dataList[id=81].content": {
+      "pl": "Spaleniem nazywa się stan, w którym powierzchnia po długim wystawieniu na wysoką temperaturę zmienia barwę ponad określony stopień i wydziela gryzący zapach.",
+      "kr_sha256": "99fe07fd183379aca2416196bf6a42bb2bd219aa5229b629887c526672f978e3",
+      "en_sha256": "1b7ca1b426daf78b93daff915d84766436604abf2c5e024fc9444bd3594ab2fa"
+    },
+    "dataList[id=82].content": {
+      "pl": "A to jest spalone na wskroś. Przy długotrwałym spożyciu może wywołać niepożądane reakcje organizmu, słusznie więc należy to wyrzucić.",
+      "kr_sha256": "2f2abc29abbbe85691564e4f0c76658060096bc68e02035bb5aefb5913e1c1a0",
+      "en_sha256": "df662eace4b5057a205ffdbc6ca5a55789363e4e818e455c3be5eee4bf9f2ef5"
+    },
+    "dataList[id=83].content": {
+      "pl": "Przykro mi…",
+      "kr_sha256": "f018727dfeb88dd587359cd587919d1f59a4ec8d46da5d1b8f9fe3104f3ef722",
+      "en_sha256": "42fced900973a8855caf92e4ffd138cf0182c7706eb1005a37b7d5bbaf1ebb3e"
+    },
+    "dataList[id=84].content": {
+      "pl": "Meursault, który coś w sobie odkrył, był bezlitosny, a z Yi Sanga nie było wielkiego pożytku.",
+      "kr_sha256": "c88927896d06da4da954ee8469da33cc92a3e55558830330b7274fbfae53784d",
+      "en_sha256": "73bdbd97eb7d38f37b583d4bbc34526bded087fbd9e45d7f65175a3ccba41fa8"
+    },
+    "dataList[id=85].content": {
+      "pl": "Heathcliff obierał ziemniaki zaskakująco szybko.",
+      "kr_sha256": "811326514165a9f726f370b37af7e221317fe5ef93e64de319944cb00bc39f2f",
+      "en_sha256": "c0185eb01c791ab81883ba93d258a22ebc8d49008a3144e34eccc7f1ee29bbb8"
+    },
+    "dataList[id=86].content": {
+      "pl": "Nie gadaj do mnie. Rozpraszasz mnie.",
+      "kr_sha256": "60211ada84c42b4239638bfed17c15bfa982ba993d795456bdbd9204d827300d",
+      "en_sha256": "86361bb59e5d93dde60f50005f7c00e40d6b3d89e99015e4651731ff0c28e461"
+    },
+    "dataList[id=87].content": {
+      "pl": "Nóż to luksus. Prawdziwy nędzarz obierze każdy kartofel zwykłą metalową łyżką.",
+      "kr_sha256": "e70675189a8e9bc06bba79d7ef5c5c153bdf490a834cf4e75db4345f9431cc2f",
+      "en_sha256": "da47dde29cb2e3b263a89721ee266e9a160ec46b18be301df60be04bd164595b"
+    },
+    "dataList[id=88].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=89].content": {
+      "pl": "Zaliczone. Dodatkowe punkty za wprawę widoczną w obieraniu pod kątem.",
+      "kr_sha256": "095990e0e24c7dcbbb06d449a3bfa6857d80d4bf7b72a698b4b4a1c23bf1b256",
+      "en_sha256": "b12516910e192cde778ebd372dead52edb251286e77ca19bcb7582e2ef878e96"
+    },
+    "dataList[id=8].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    },
+    "dataList[id=90].content": {
+      "pl": "Jest!!!!",
+      "kr_sha256": "c55662ec641e867267082063564fce8ad9170228376c78116869106e45dfb3ba",
+      "en_sha256": "b5842b1ac1e6133351a6d0983fe62e68250c10c45943ddb645752d4572c74320"
+    },
+    "dataList[id=91].content": {
+      "pl": "Patrz uważnie. Składniki trzeba dawać różne. Nie rośniesz, bo grymasisz przy jedzeniu.",
+      "kr_sha256": "e70289c1e0747a0e9fedd32c26767088cd6a2940e4379ce49b0acb1201f5ed24",
+      "en_sha256": "1d06a710433b4cb82b97f898538e8586418c34ef4ac4a729926278240e3235aa"
+    },
+    "dataList[id=92].content": {
+      "pl": "J… ja jeszcze rosnę…!",
+      "kr_sha256": "a59cccfaec00e525a35efdbd9fe2bd7cfa1c4e67a9473fc0a53aa1cfd4793e33",
+      "en_sha256": "746e228a0325eda91d7c9081255611e0e02e04e14b1b22b9433ee7312afa71bc"
+    },
+    "dataList[id=93].content": {
+      "pl": "…Chyba.",
+      "kr_sha256": "2ec4d7199cfb1eed21fb70fc0af4828614d0a7a6556f6a88d6ee23135358f21e",
+      "en_sha256": "60bda7c19a3bd5782ddad3d481d583f706735d66967808c34d221a80450c7616"
+    },
+    "dataList[id=94].content": {
+      "pl": "Do tego przez niezbilansowaną dietę tak ci posiwiały włosy.",
+      "kr_sha256": "9bcbdf1694a8327daea0e2f76ada5d0d32c388b6b04ffcb1af5a7bce98d6d149",
+      "en_sha256": "178bc809f1c84e78721367e62288e8a032082ac9a070993ddce9248bedf2441d"
+    },
+    "dataList[id=95].content": {
+      "pl": "Faust… z natury…",
+      "kr_sha256": "139f8b3b7ab3da0fa4c8aa0162db042d729f81adcc51cf7ac1b0f024b402b71d",
+      "en_sha256": "7f8e6e0ccc92c351d9116a10677cabe77bef2ba689390246e48ea4ffe8aeea5d"
+    },
+    "dataList[id=96].content": {
+      "pl": "A ręce masz takie szorstkie też przez grymaszenie.",
+      "kr_sha256": "8275365dd1ff40d7b03ab937e74a9cd93fb4396ea3338829ec225516eb2cbd32",
+      "en_sha256": "0f2868320305f41c848fdc2144052c4bc35c0a308d341254d4416fdd78757533"
+    },
+    "dataList[id=97].content": {
+      "pl": "Słucham? To od wieloletniej pracy na statku!",
+      "kr_sha256": "64abca1f19943ff3508d853f2d4d52970add865c05323cdf8177e2dce131866c",
+      "en_sha256": "c2c86ce62e4ab8df04fe971e3416b230ce5ec42d9eb595a2b1325b602c72f283"
+    },
+    "dataList[id=98].content": {
+      "pl": "Outis! A ja? Co ze mną?",
+      "kr_sha256": "1a2d778cfacee0c5c90294ccd73793d18f5d4ea80bb98a309a5bc018a31ce45a",
+      "en_sha256": "07d918359d940e8a4194aeee71f9eecba783dec360373d00c92ff91dddcb2b88"
+    },
+    "dataList[id=99].content": {
+      "pl": "Nie wrzeszcz tak, rozprasza mnie to! Lekkomyślne zachowanie!",
+      "kr_sha256": "53a9913485c4b32b4c6724c1bf08737f100b24a9088e8edb18102d61e946a27a",
+      "en_sha256": "cea0fcac8f82970e8f47025477996a04aceff0db5109af17d3dd099c7384e2fe"
+    },
+    "dataList[id=9].content": {
+      "pl": "…",
+      "kr_sha256": "7e428bfac963e979a36c34565ac48fb5ecee5c830adfb7369fe7ce653be4c521",
+      "en_sha256": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+    }
+  }
+}
