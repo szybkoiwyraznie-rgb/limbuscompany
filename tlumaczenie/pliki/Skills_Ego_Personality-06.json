@@ -906,6 +906,18 @@
       "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
       "origin": "ai"
     },
+    "dataList[id=2060811].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "ta jednostka otrzymuje obrażenia stałe równe Mocy Końcowej tej Umiejętności\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1<style=\"highlight\"></style>",
+      "kr_sha256": "0c8926064993a27db2c2266ba5ad310d48235f3540ded36fa3fdc40dcf71f6c1",
+      "en_sha256": "15586a80c7fec9589692b0df8120fa781695fd1f824cc76ebd0cef57cd56838a",
+      "origin": "ai"
+    },
+    "dataList[id=2060811].levelList[level=3].desc": {
+      "pl": "[CantDuel]\nignoruje Umiejętność Obrony celu\nta Umiejętność nie trafia wrogów\n[EndSkill] zyskuje [DragonLance]<style=\"highlight\"></style>",
+      "kr_sha256": "fcda576bb34b0b4f1d641a9bedb34d8235a05b2dba746c66358580f9a9e2ab04",
+      "en_sha256": "608dd1366c013ea685264633f0603688da2bfd03d87e07e516726871627e407f",
+      "origin": "ai"
+    },
     "dataList[id=2060811].levelList[level=3].name": {
       "pl": "Łzy Splamionej Krwi - Początek [始]",
       "kr_sha256": "6b5ae82077bfeed10fa9a43a74a855778904c7859dc14e74ec7f40897c44afb6",
@@ -918,10 +930,1126 @@
       "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
       "origin": "ai"
     },
+    "dataList[id=2060811].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "ta jednostka otrzymuje obrażenia stałe równe Mocy Końcowej tej Umiejętności\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1<style=\"highlight\"></style>",
+      "kr_sha256": "0c8926064993a27db2c2266ba5ad310d48235f3540ded36fa3fdc40dcf71f6c1",
+      "en_sha256": "15586a80c7fec9589692b0df8120fa781695fd1f824cc76ebd0cef57cd56838a",
+      "origin": "ai"
+    },
+    "dataList[id=2060811].levelList[level=4].desc": {
+      "pl": "[CantDuel]\nignoruje Umiejętność Obrony celu\nta Umiejętność nie trafia wrogów\n[EndSkill] zyskuje [DragonLance]<style=\"highlight\"></style>",
+      "kr_sha256": "fcda576bb34b0b4f1d641a9bedb34d8235a05b2dba746c66358580f9a9e2ab04",
+      "en_sha256": "608dd1366c013ea685264633f0603688da2bfd03d87e07e516726871627e407f",
+      "origin": "ai"
+    },
     "dataList[id=2060811].levelList[level=4].name": {
       "pl": "Łzy Splamionej Krwi - Początek [始]",
       "kr_sha256": "6b5ae82077bfeed10fa9a43a74a855778904c7859dc14e74ec7f40897c44afb6",
       "en_sha256": "f013ea6b2fecd587d5011f6a5e15d5ec5b016afacabd416943b2f0c3bba28d9d",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +3 Licznika [Burst]",
+      "kr_sha256": "b5a7880a26d2a849c0af4d42f2f3bed99f365ba68bee852e0933bbd3b775faee",
+      "en_sha256": "def411e0029fc653c2c0d9ee156167cea89249559701b38167a7e48c350cfb28",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].desc": {
+      "pl": "ta Umiejętność nie zużywa zasobów E.G.O\n[CantDuel]\nzadaje +2% obrażeń za każde [DragonLance] na tej jednostce (maks. 6%)\nzadaje +4% obrażeń za każde [CondensedBlood] na tej jednostce (maks. 20%)\n[WhenUse] przy 5+ [Burst] głównego celu Moc Monety +1\n[WhenUse] przy 3+ [CondensedBlood] Waga Ataku +1, Moc Bazowa +1\n[EndSkill] usuwa [DragonLance] i [CondensedBlood] od tej jednostki, po czym ginie",
+      "kr_sha256": "0a71fd4032949b3b51d197b80e8ec1e84d0aab31deab1339a85f9b0a4d7cd046",
+      "en_sha256": "b3a20351b74d334ae5c7c6564869b326b2dd36eb0f0e7cfdad04e5af773e6450",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=1].name": {
+      "pl": "Łzy Splamionej Krwi - Koniec [終]",
+      "kr_sha256": "de4802a38a1a343e32fbd0d3b2f639465f6f47ee14a92080b7b409b9e597d078",
+      "en_sha256": "f2e69543df0f52c40bd8ac36adb57d0f47e0ab99b293d116e5d17594e2392f7c",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "21390019ca767124f51900e924801da2a8d86d87400035cd1e7cea42acec11c3",
+      "en_sha256": "0dcea6a7889a46af68430eb468fb5cfba4a64317ae0c409d72f57bbdc34b143e",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d7db984f546c64e7bc3807b27a4a807f08cabc2c633a4af9587098ebc038fb5e",
+      "en_sha256": "485bb76dbadc1d14f6ab39c17e4f19439645bcc391d8a175fab259501c9a193b",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d7db984f546c64e7bc3807b27a4a807f08cabc2c633a4af9587098ebc038fb5e",
+      "en_sha256": "485bb76dbadc1d14f6ab39c17e4f19439645bcc391d8a175fab259501c9a193b",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d7db984f546c64e7bc3807b27a4a807f08cabc2c633a4af9587098ebc038fb5e",
+      "en_sha256": "485bb76dbadc1d14f6ab39c17e4f19439645bcc391d8a175fab259501c9a193b",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].desc": {
+      "pl": "ta Umiejętność nie zużywa zasobów E.G.O\n[CantDuel]\nzadaje <style=\"highlight\">+3% (maks. 9%)</style> obrażeń za każde [DragonLance] na tej jednostce\nzadaje <style=\"highlight\">+6% (maks. 30%)</style> obrażeń za każde [CondensedBlood] na tej jednostce\n<style=\"highlight\">[WhenUse] Moc Monety +1 za każde 5 [Burst] głównego celu (maks. 2)</style>\n[WhenUse] przy 3+ [CondensedBlood] Waga Ataku +1, Moc Bazowa +1\n<style=\"highlight\">- przy 4+ [CondensedBlood] zamiast tego Waga Ataku +2, Moc Bazowa +2</style>\n[EndSkill] usuwa [DragonLance] i [CondensedBlood] od tej jednostki, po czym ginie",
+      "kr_sha256": "5530ea6a29c286f29981089e149bcb184cbff1a755309af284b11b767c88b3a7",
+      "en_sha256": "d88da7be237abcb71bd43c8e5d4b94c8fddd443258ba733dd6b86f9f5a9927df",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=3].name": {
+      "pl": "Łzy Splamionej Krwi - Koniec [終]",
+      "kr_sha256": "de4802a38a1a343e32fbd0d3b2f639465f6f47ee14a92080b7b409b9e597d078",
+      "en_sha256": "f2e69543df0f52c40bd8ac36adb57d0f47e0ab99b293d116e5d17594e2392f7c",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "21390019ca767124f51900e924801da2a8d86d87400035cd1e7cea42acec11c3",
+      "en_sha256": "0dcea6a7889a46af68430eb468fb5cfba4a64317ae0c409d72f57bbdc34b143e",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d7db984f546c64e7bc3807b27a4a807f08cabc2c633a4af9587098ebc038fb5e",
+      "en_sha256": "485bb76dbadc1d14f6ab39c17e4f19439645bcc391d8a175fab259501c9a193b",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d7db984f546c64e7bc3807b27a4a807f08cabc2c633a4af9587098ebc038fb5e",
+      "en_sha256": "485bb76dbadc1d14f6ab39c17e4f19439645bcc391d8a175fab259501c9a193b",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d7db984f546c64e7bc3807b27a4a807f08cabc2c633a4af9587098ebc038fb5e",
+      "en_sha256": "485bb76dbadc1d14f6ab39c17e4f19439645bcc391d8a175fab259501c9a193b",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].desc": {
+      "pl": "ta Umiejętność nie zużywa zasobów E.G.O\n[CantDuel]\nzadaje +3% obrażeń za każde [DragonLance] na tej jednostce (maks. 9%)\nzadaje +6% obrażeń za każde [CondensedBlood] na tej jednostce (maks. 30%)\n[WhenUse] Moc Monety +1 za każde 5 [Burst] głównego celu (maks. <style=\"highlight\">3</style>)\n[WhenUse] przy 3+ [CondensedBlood] Waga Ataku +1, Moc Bazowa +1\n- przy 4+ [CondensedBlood] zamiast tego Waga Ataku +2, Moc Bazowa +2\n<style=\"highlight\">- przy 5+ [CondensedBlood] zamiast tego Waga Ataku +3, Moc Bazowa +3</style>\n[EndSkill] usuwa [DragonLance] i [CondensedBlood] od tej jednostki, po czym ginie",
+      "kr_sha256": "a72d45f37157a462ad05854bcc5c83a8b55871aec9fb49192dff7671b3fe2c27",
+      "en_sha256": "3aa709e995f9c2cfc9fa4f9fd6779d8fb5cef22887797b08b5d4cd0fe58e903a",
+      "origin": "ai"
+    },
+    "dataList[id=2060812].levelList[level=4].name": {
+      "pl": "Łzy Splamionej Krwi - Koniec [終]",
+      "kr_sha256": "de4802a38a1a343e32fbd0d3b2f639465f6f47ee14a92080b7b409b9e597d078",
+      "en_sha256": "f2e69543df0f52c40bd8ac36adb57d0f47e0ab99b293d116e5d17594e2392f7c",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Burst] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "1fddb2fafd66db2a6217a459d960dda453113a1729eaea39d0cf3d77dbfc34d3",
+      "en_sha256": "925c18f7f11d7304ca38bed056c59817b648c9192e2e08a2c74956cc4e472a4f",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n[BeforeAttack] Moc Bazowa -2 za każdą zniszczoną Monetę (maks. -8)\n[EndSkill] zyskuje [DragonLance]",
+      "kr_sha256": "b27f93951a78874fd03de160de5d37d5adccb8eac218d825c5de921f72678c78",
+      "en_sha256": "f9de7b07bf3343e2b2192f0a3686e6b8549b30a71be7d9d1294c9ec897b31e70",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=1].name": {
+      "pl": "Łzy Splamionej Krwi - Początek [始]",
+      "kr_sha256": "6b5ae82077bfeed10fa9a43a74a855778904c7859dc14e74ec7f40897c44afb6",
+      "en_sha256": "f013ea6b2fecd587d5011f6a5e15d5ec5b016afacabd416943b2f0c3bba28d9d",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Burst] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "1fddb2fafd66db2a6217a459d960dda453113a1729eaea39d0cf3d77dbfc34d3",
+      "en_sha256": "925c18f7f11d7304ca38bed056c59817b648c9192e2e08a2c74956cc4e472a4f",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n[BeforeAttack] Moc Bazowa -2 za każdą zniszczoną Monetę (maks. -8)\n[EndSkill] zyskuje [DragonLance]<style=\"highlight\"></style>",
+      "kr_sha256": "608e761928917c3b4fd89cf3a29eaea745f6db1b0ba70ceab9e1e98021891d8d",
+      "en_sha256": "f6128d05709fb5706b1a7964cf82b167a84089d786cb3c3a54af96ad95ec2a1d",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=3].name": {
+      "pl": "Łzy Splamionej Krwi - Początek [始]",
+      "kr_sha256": "6b5ae82077bfeed10fa9a43a74a855778904c7859dc14e74ec7f40897c44afb6",
+      "en_sha256": "f013ea6b2fecd587d5011f6a5e15d5ec5b016afacabd416943b2f0c3bba28d9d",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Burst] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "1fddb2fafd66db2a6217a459d960dda453113a1729eaea39d0cf3d77dbfc34d3",
+      "en_sha256": "925c18f7f11d7304ca38bed056c59817b648c9192e2e08a2c74956cc4e472a4f",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "a0c90d11741aac81d2b0b5e7c48f0faff8486b7bb0c64f3d3ee4759671473570",
+      "en_sha256": "a495a2d1a3fef5bcca011b1d01229015a291b609bc95ea2701bbacefddc40098",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n<style=\"highlight\">- przy najwyższym Rezonansie 6+ zamiast tego Waga Ataku +2</style>\n[BeforeAttack] Moc Bazowa -2 za każdą zniszczoną Monetę (maks. -8)\n[EndSkill] zyskuje [DragonLance]",
+      "kr_sha256": "ec9259c6237df6c6729759f4f51a496fb7173424b96dd9e130be08733a35e1ce",
+      "en_sha256": "7492d4396d1bab892ed46befea5cd3f499b03a3a1c06ace3d4d15d4bc2badd15",
+      "origin": "ai"
+    },
+    "dataList[id=2060821].levelList[level=4].name": {
+      "pl": "Łzy Splamionej Krwi - Początek [始]",
+      "kr_sha256": "6b5ae82077bfeed10fa9a43a74a855778904c7859dc14e74ec7f40897c44afb6",
+      "en_sha256": "f013ea6b2fecd587d5011f6a5e15d5ec5b016afacabd416943b2f0c3bba28d9d",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=1].abName": {
+      "pl": "Ling",
+      "kr_sha256": "3871b946924bec8b7913f5c6141212da6685b8a536412c3ea87507cee52653e3",
+      "en_sha256": "02df5daf9742599489f599e47b288b6ebeb2df72555786c0c6c09ff8553fe63e",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "jeżeli ta jednostka ma [Cianjing], zadaje +(Siła [Breath] / 2)% obrażeń przy trafieniu krytycznym (maks. 15%)",
+      "kr_sha256": "53b455ab8cbe11e14276a0d384376e5ba3c4968f2eb65a5e5dea28fc88fb2bc4",
+      "en_sha256": "a9dcdfa3975725ff00d8077295f75ec74ccd047db2a9d44e4545239c4f9ccbd8",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta jednostka ma [SeniorCianjing], zadaje +((Siła [Breath] + Licznik [Breath]) / 2)% obrażeń przy trafieniu krytycznym (maks. 30%)",
+      "kr_sha256": "586fe9186deea4dfd8ca34a2620b62f6fa519c5d37c976d30a3ae75f47722b1b",
+      "en_sha256": "98607b8428f8e489f16d6300add974dfdb418a92eb7d4f0d8d92acf12f12b4ca",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 [Breath]\n[BeforeAttack] przy sumie 5+ (Siła [Breath] + Licznik [Breath]) Moc Końcowa +1\n[BeforeAttack] jeżeli ta jednostka ma [Cianjing], zadaje +15% obrażeń\n[BeforeAttack] jeżeli ta jednostka ma [SeniorCianjing], zadaje +27% obrażeń\n[EndSkill] zyskuje 5 [Cianjing]\n- jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], zużywa je wszystkie i zyskuje 5 [SeniorCianjing]",
+      "kr_sha256": "41f58ed27a37bea6e97ccf5f2a650cfaa028355bb2091fc61111a6b8318adfab",
+      "en_sha256": "7ec1ff34e3c9af7fd0d89d9c55dbe340b666d6a7afc78c53b15c6e42fe9c513e",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=1].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=3].abName": {
+      "pl": "Ling",
+      "kr_sha256": "3871b946924bec8b7913f5c6141212da6685b8a536412c3ea87507cee52653e3",
+      "en_sha256": "02df5daf9742599489f599e47b288b6ebeb2df72555786c0c6c09ff8553fe63e",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "jeżeli ta jednostka ma [Cianjing], zadaje +(Siła [Breath] / 2)% obrażeń przy trafieniu krytycznym (maks. <style=\"highlight\">20%</style>)",
+      "kr_sha256": "b450e065c651fefb1c1d7086b499ada83cc5e96d2d4c012a78f4190ec7febfa6",
+      "en_sha256": "5a669409db321a18446f37ec8debec04c734488d875bfbc1f8fa8d05d14cd6e2",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta jednostka ma [SeniorCianjing], zadaje +((Siła [Breath] + Licznik [Breath]) / 2)% obrażeń przy trafieniu krytycznym (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "3cc74dccabbf6a59d73c27b28bc17652972c146b6192a882a077196bfb9a98dc",
+      "en_sha256": "c669183fd2f0ded2930ffd8d73a69cfc09e5207f6785408c078e416b77bbc301",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Sinking]",
+      "kr_sha256": "05cf7504b43ee1f91db9b214ba8fee0c55135e38e2722adc6fd51beb56237b64",
+      "en_sha256": "ca950434c64b240c66ea60741d941fc0c52d94baa913fb2d0005e6db1a621aa9",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=3].desc": {
+      "pl": "[WhenUse] zyskuje <style=\"highlight\">3</style> [Breath]\n[BeforeAttack] <style=\"highlight\">Moc Końcowa +1 za każde 5 (Siła [Breath] + Licznik [Breath]) (maks. 2)</style>\n[BeforeAttack] jeżeli ta jednostka ma [Cianjing], <style=\"highlight\">Waga Ataku +1</style>, zadaje +15% obrażeń\n[BeforeAttack] jeżeli ta jednostka ma [SeniorCianjing], <style=\"highlight\">Waga Ataku +2</style>, zadaje +27% obrażeń\n[EndSkill] zyskuje 5 [Cianjing]\n- jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], zużywa je wszystkie i zyskuje 5 [SeniorCianjing]",
+      "kr_sha256": "03cc48f375fd64a8d12f97874e7b4be55b6ef92019fc0586b06dd7d227a80c0c",
+      "en_sha256": "0a00ca0de01d93fd8f0a5a9b5b2ecc5bdb212d9c94944f65f3fed62085c972b5",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=3].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=4].abName": {
+      "pl": "Ling",
+      "kr_sha256": "3871b946924bec8b7913f5c6141212da6685b8a536412c3ea87507cee52653e3",
+      "en_sha256": "02df5daf9742599489f599e47b288b6ebeb2df72555786c0c6c09ff8553fe63e",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "jeżeli ta jednostka ma [Cianjing], zadaje +(<style=\"highlight\">Siła [Breath]</style>)% obrażeń przy trafieniu krytycznym (maks. 20%)",
+      "kr_sha256": "3f12b4298312e2b04ba2f3561aea01e6b71a552c8e718eac581013779d53b9f5",
+      "en_sha256": "4239616762e64976e5fb041b64fd1f9bf58983abe6135e5e65c1ef6c4c4c27df",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "jeżeli ta jednostka ma [SeniorCianjing], zadaje +(<style=\"highlight\">Siła [Breath] + Licznik [Breath]</style>)% obrażeń przy trafieniu krytycznym (maks. 40%)",
+      "kr_sha256": "abc3024ac13a7637979a6868a72bc1403adca396dc87648bcf4f232ce9f5661c",
+      "en_sha256": "94050a9e9bea5f81fec4f6f1cd8e2cf33a0fe3b5fc6806d2310f2ad1d5f3f4bb",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Sinking]",
+      "kr_sha256": "5864275e13c1f4d4fbdeb619eaea59cccd20461fc7e42a110bef9cb40097d31f",
+      "en_sha256": "b6470f4809c0f92d1c896679b5d7c2b3f6c8347864eefbc20aab8219503a3b90",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=4].desc": {
+      "pl": "[WhenUse] zyskuje <style=\"highlight\">4</style> [Breath]\n[BeforeAttack] Moc Końcowa +1 za każde 5 (Siła [Breath] + Licznik [Breath]) (maks. <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] jeżeli ta jednostka nie ma [Cianjing] ani [SeniorCianjing], odzyskuje połowę zasobów E.G.O i SP zużytych przez tę Umiejętność (zaokrąglone w dół. ten efekt dotyczy także Umiejętności Korozji, jeżeli uruchomiła się przez prawdopodobieństwo „To Corrode” przy użyciu Umiejętności Przebudzenia)</style>\n[BeforeAttack] jeżeli ta jednostka ma [Cianjing], Waga Ataku +1, zadaje <style=\"highlight\">+25%</style> obrażeń\n[BeforeAttack] jeżeli ta jednostka ma [SeniorCianjing], Waga Ataku +2, zadaje <style=\"highlight\">+45%</style> obrażeń\n[EndSkill] zyskuje 5 [Cianjing]\n- jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], zużywa je wszystkie i zyskuje 5 [SeniorCianjing]",
+      "kr_sha256": "19916ff993832af927930ee1176dbaa2d5dc4dec3f52142d53bfcf784a3f9c98",
+      "en_sha256": "f363891c3cfb8f41360e697b94b716c3ded416b12b2df44488137d9d73d5ae42",
+      "origin": "ai"
+    },
+    "dataList[id=2060911].levelList[level=4].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].abName": {
+      "pl": "Ling",
+      "kr_sha256": "3871b946924bec8b7913f5c6141212da6685b8a536412c3ea87507cee52653e3",
+      "en_sha256": "02df5daf9742599489f599e47b288b6ebeb2df72555786c0c6c09ff8553fe63e",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 10% zadanych obrażeń (maks. 10)",
+      "kr_sha256": "9a7145af094821b32292d27e7063edea5b7d5098b5db722f53859897a035bab9",
+      "en_sha256": "b4eea83f4a5bc87a91d71120e7f37ff53e2a42b4b9bf9f1cd0447bf351545bad",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 15% zadanych obrażeń (maks. 15)",
+      "kr_sha256": "0d584e93d51f3853b93aabad8bc03d98bf954643205fb1e8cd9b587b66dbbc24",
+      "en_sha256": "fc19135a4e0dfeaae62287e7a2bb79e3e336cb75e2f168a97ec15101d6b8cfa2",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta jednostka ma [Cianjing], zadaje +(Siła [Breath] / 2)% obrażeń przy trafieniu krytycznym (maks. 20%)",
+      "kr_sha256": "02feafc97678516cf126fb299ca6d364516935005a14278cfd216b6fbc81d75a",
+      "en_sha256": "6b4b52c02a74740276890cd62d29952241f2c2c39eac1a23fa772bbb20b5a6cf",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "jeżeli ta jednostka ma [SeniorCianjing], zadaje +((Siła [Breath] + Licznik [Breath]) / 2)% obrażeń przy trafieniu krytycznym (maks. 40%)",
+      "kr_sha256": "ce63ed5657ee2d393bbfbfca1627d25726326b0552a5ada9bd55a9cda7a1a52b",
+      "en_sha256": "c90d3eba78b08790a05d55dae674c6c4d419e61f2930f99ba13c45ca862bbf66",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 25% zadanych obrażeń (maks. 25)",
+      "kr_sha256": "1dd634089b230728e151a47876eed0162de7dbb0ad5301b29c4d87751cc3c71a",
+      "en_sha256": "d93e25acb0bebe795f6138b8d4ad983c3077c9b7280b368b5b9cb44df98abcec",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[WhenUse] zyskuje 2 [Breath] i +2 Licznika [Breath]\n[BeforeAttack] jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], Moc Monety +1\n[EndSkill] zyskuje 5 [Cianjing]\n- jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], zużywa je wszystkie i zyskuje 5 [SeniorCianjing]",
+      "kr_sha256": "92e20f1e2701ae6f4bfe289aa5ec129b80dc7a83a2bb2e8324bfe22c37a3e889",
+      "en_sha256": "daea1dde7b900f6756bb69a621877c992360ef7713f5d0e25a4bdec794fa7bbd",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=1].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].abName": {
+      "pl": "Ling",
+      "kr_sha256": "3871b946924bec8b7913f5c6141212da6685b8a536412c3ea87507cee52653e3",
+      "en_sha256": "02df5daf9742599489f599e47b288b6ebeb2df72555786c0c6c09ff8553fe63e",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 10% zadanych obrażeń (maks. 10)<style=\"highlight\"></style>",
+      "kr_sha256": "7cb98a3b99518e22370e1e2033f04b4efe9ecd9c711f6c0eb550f6809cb37487",
+      "en_sha256": "3322e9fa044d04e6b279d68e4deb8f8f8bb39b5b833f38920f3d4a40da8e7700",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 15% zadanych obrażeń (maks. 15)<style=\"highlight\"></style>",
+      "kr_sha256": "e6356d88079b84fbc40373a5088abc6b775e556e63e8394dc4b263e1962d43ae",
+      "en_sha256": "5e8e6497a01ff3a0945b3d5807bf0b7c553c38e06476d9be25d302f1500d1c91",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta jednostka ma [Cianjing], zadaje +(Siła [Breath] / 2)% obrażeń przy trafieniu krytycznym (maks. <style=\"highlight\">30%</style>)",
+      "kr_sha256": "e020e46fa2c317ad47727fe562e8f1dae76f07b455410e5ada2e59e38f424bed",
+      "en_sha256": "eeb329db9633bb3a810752e847d3c9da91ec9c4c611e1a54805b8cfe24a0fb16",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "jeżeli ta jednostka ma [SeniorCianjing], zadaje +((Siła [Breath] + Licznik [Breath]) / 2)% obrażeń przy trafieniu krytycznym (maks. <style=\"highlight\">60%</style>)",
+      "kr_sha256": "c6569e82999d4329b05bc62f885cecaaaf758ea76ac1266aad9761bdcbb65899",
+      "en_sha256": "62c9cfacaa98e4e2e17002846296c15f971797dce87d1ea286bcedec5e58a048",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Sinking]",
+      "kr_sha256": "05cf7504b43ee1f91db9b214ba8fee0c55135e38e2722adc6fd51beb56237b64",
+      "en_sha256": "ca950434c64b240c66ea60741d941fc0c52d94baa913fb2d0005e6db1a621aa9",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 25% zadanych obrażeń (maks. 25)<style=\"highlight\"></style>",
+      "kr_sha256": "e166b68adbc6d298f27d287b1ef6dee6b687bc3ba73ad2cf988ede10783aad20",
+      "en_sha256": "e74f86f58e492445917145261a8c50910d6a74a3ab1fa766d109eb8ef4072e1f",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[WhenUse] zyskuje <style=\"highlight\">3</style> [Breath] i +<style=\"highlight\">3</style> Licznika [Breath]\n[BeforeAttack] jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], <style=\"highlight\">Waga Ataku +1, Moc Bazowa +1</style>, Moc Monety +1\n[EndSkill] zyskuje 5 [Cianjing]\n- jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], zużywa je wszystkie i zyskuje 5 [SeniorCianjing]",
+      "kr_sha256": "abfa5973ccb30c78a9de1b8a7f82c07a222c1f2368a0c6d45c53e86db7ea2d80",
+      "en_sha256": "36a912e2d0aa026435fea8f6efa375602a8cfdfc1275c51e34fce995884287e6",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=3].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].abName": {
+      "pl": "Ling",
+      "kr_sha256": "3871b946924bec8b7913f5c6141212da6685b8a536412c3ea87507cee52653e3",
+      "en_sha256": "02df5daf9742599489f599e47b288b6ebeb2df72555786c0c6c09ff8553fe63e",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 10% zadanych obrażeń (maks. 10)<style=\"highlight\"></style>",
+      "kr_sha256": "7cb98a3b99518e22370e1e2033f04b4efe9ecd9c711f6c0eb550f6809cb37487",
+      "en_sha256": "3322e9fa044d04e6b279d68e4deb8f8f8bb39b5b833f38920f3d4a40da8e7700",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 15% zadanych obrażeń (maks. 15)<style=\"highlight\"></style>",
+      "kr_sha256": "e6356d88079b84fbc40373a5088abc6b775e556e63e8394dc4b263e1962d43ae",
+      "en_sha256": "5e8e6497a01ff3a0945b3d5807bf0b7c553c38e06476d9be25d302f1500d1c91",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "jeżeli ta jednostka ma [Cianjing], zadaje +(<style=\"highlight\">Siła [Breath]</style>)% obrażeń przy trafieniu krytycznym (maks. 30%)",
+      "kr_sha256": "8c40b63b2817a5defb0a6f70d279814b21d757047967fe8b5d54944a64a44200",
+      "en_sha256": "62a7dec7b35161820f706ea71969c83602d4915096ec0e61cd5bdcf647be1872",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "jeżeli ta jednostka ma [SeniorCianjing], zadaje +(<style=\"highlight\">Siła [Breath] + Licznik [Breath]</style>)% obrażeń przy trafieniu krytycznym (maks. 60%)",
+      "kr_sha256": "686d95d3b3ab2e17fe8c1f66fc03db091d676f1231f4e565e71a670b84fd3e85",
+      "en_sha256": "e1617cfae67ced608720367722adcb512387329cdde981739d59b4557ee7492e",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking], <style=\"highlight\">+2 Licznika [Sinking]</style>",
+      "kr_sha256": "75d04e06b95d8be0099f81a3f7077d3addb8f3d7782415da0e21da25dc76653d",
+      "en_sha256": "e5a37a5aee5319c8b994ebec9ef6ddf1dc6437a5231f0f5cd347cb32e6509056",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Pychy równe 25% zadanych obrażeń (maks. 25)<style=\"highlight\"></style>",
+      "kr_sha256": "e166b68adbc6d298f27d287b1ef6dee6b687bc3ba73ad2cf988ede10783aad20",
+      "en_sha256": "e74f86f58e492445917145261a8c50910d6a74a3ab1fa766d109eb8ef4072e1f",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[WhenUse] zyskuje <style=\"highlight\">4</style> [Breath] i +<style=\"highlight\">4</style> Licznika [Breath]\n[BeforeAttack] jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], Waga Ataku <style=\"highlight\">+2</style>, Moc Bazowa <style=\"highlight\">+2</style>, Moc Monety <style=\"highlight\">+2</style>\n[EndSkill] zyskuje 5 [Cianjing]\n- jeżeli ta jednostka ma [Cianjing] lub [SeniorCianjing], zużywa je wszystkie i zyskuje 5 [SeniorCianjing]",
+      "kr_sha256": "79a817cb3aab9e812c4b3430f0536372fa6ae1522ee991d0ae2787f47104e492",
+      "en_sha256": "d1e140ada627aafa8888db6973eb4a05ec8010500db10b39169ac5e43c25aa2a",
+      "origin": "ai"
+    },
+    "dataList[id=2060921].levelList[level=4].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=1].abName": {
+      "pl": "Mieszkaniec Metropolaris",
+      "kr_sha256": "03034bc1b5684db4e79ac9b960bec9fe25ccd16f3cca3fa9ac21ac16b6320c62",
+      "en_sha256": "3f0ed82473da3ef30fa6ed87f26c911841bd91ae55828366aa47ca093e02ee25",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "bff970f6894ab4136411e24ba53eed6e1cd3bf81422933ba5db2550bf33b4374",
+      "en_sha256": "2fdd109b1732369008e8d08aae74830fd6d30b9a7a4116d1ff09278268a1f079",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje +1 Licznika [Charge]\n[BeforeAttack] zużywa do 6 Licznika [Charge] i nakłada 5 [ChargeForceField] na tę jednostkę oraz na (1 + (zużyty Licznik [Charge] / 2)) losowych innych sojuszników (maks. 5 jednostek, zaokrąglone w dół)",
+      "kr_sha256": "23c4e096345d3de6f3a87d7f9b795a35ed2a47c9622cceb5291283f84a9b38d5",
+      "en_sha256": "a646cfb2dbd8987739b4b5fdca6c45d2656233d4f9babe8f5154fd3cf777968f",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=1].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=3].abName": {
+      "pl": "Mieszkaniec Metropolaris",
+      "kr_sha256": "03034bc1b5684db4e79ac9b960bec9fe25ccd16f3cca3fa9ac21ac16b6320c62",
+      "en_sha256": "3f0ed82473da3ef30fa6ed87f26c911841bd91ae55828366aa47ca093e02ee25",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "bff970f6894ab4136411e24ba53eed6e1cd3bf81422933ba5db2550bf33b4374",
+      "en_sha256": "2fdd109b1732369008e8d08aae74830fd6d30b9a7a4116d1ff09278268a1f079",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada 1 [PhotoElectricity]</style>",
+      "kr_sha256": "3427536982e1cb70691d267592f39886724f1f0503b238a58031fb0375d030ba",
+      "en_sha256": "28d7dfbc9b756f975082d2c13ba90188826f288cdf263056df151313bc68ab73",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">[WhenUse] zyskuje Moc Walce równą Siły [Charge] tej jednostki (maks. 2)</style>\n[BeforeAttack] zyskuje <style=\"highlight\">+3</style> Licznika [Charge]\n[BeforeAttack] zużywa do <style=\"highlight\">8</style> Licznika [Charge] i nakłada 5 [ChargeForceField] na tę jednostkę oraz na (1 + (zużyty Licznik [Charge] / 2)) losowych innych sojuszników (maks. <style=\"highlight\">6</style> jednostek, zaokrąglone w dół)",
+      "kr_sha256": "21942d6726516df78846ccbaa61b5e95a55a29fe33e5858fc70624db9a9b1a13",
+      "en_sha256": "abd86a15dc63ed62cce4e163ab97f2364e36e8e1903d2ac11730f249f426be23",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=3].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=4].abName": {
+      "pl": "Mieszkaniec Metropolaris",
+      "kr_sha256": "03034bc1b5684db4e79ac9b960bec9fe25ccd16f3cca3fa9ac21ac16b6320c62",
+      "en_sha256": "3f0ed82473da3ef30fa6ed87f26c911841bd91ae55828366aa47ca093e02ee25",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "bff970f6894ab4136411e24ba53eed6e1cd3bf81422933ba5db2550bf33b4374",
+      "en_sha256": "2fdd109b1732369008e8d08aae74830fd6d30b9a7a4116d1ff09278268a1f079",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [PhotoElectricity]",
+      "kr_sha256": "df53f8ffe59fb6ca5a933ea9cf324b1ae5ee5390aae7b9e1272df04d97350cb0",
+      "en_sha256": "4b34ce181ec4b95f8837570bbf11256e5cd2190cb3cd09a1bfa7c748952d6bc1",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=4].desc": {
+      "pl": "[WhenUse] zyskuje Moc Walce równą Siły [Charge] tej jednostki (maks. <style=\"highlight\">3</style>)\n[BeforeAttack] zyskuje <style=\"highlight\">+5</style> Licznika [Charge]\n[BeforeAttack] zużywa do <style=\"highlight\">10</style> Licznika [Charge] i nakłada 5 [ChargeForceField] na tę jednostkę oraz na (1 + (zużyty Licznik [Charge] / 2)) losowych innych sojuszników (maks. <style=\"highlight\">7</style> jednostek, zaokrąglone w dół)",
+      "kr_sha256": "1b387c623949404bbc800894c3f266157cc86a9df8f00832266b67a69c383734",
+      "en_sha256": "60534445711f9b60d7c1ed173c6e35ad2bee44150cea504f47acdc8e02ed4b56",
+      "origin": "ai"
+    },
+    "dataList[id=2061011].levelList[level=4].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].abName": {
+      "pl": "Mieszkaniec Metropolaris",
+      "kr_sha256": "03034bc1b5684db4e79ac9b960bec9fe25ccd16f3cca3fa9ac21ac16b6320c62",
+      "en_sha256": "3f0ed82473da3ef30fa6ed87f26c911841bd91ae55828366aa47ca093e02ee25",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "bff970f6894ab4136411e24ba53eed6e1cd3bf81422933ba5db2550bf33b4374",
+      "en_sha256": "2fdd109b1732369008e8d08aae74830fd6d30b9a7a4116d1ff09278268a1f079",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnStartCoin] zużywa do 10 Licznika [Charge], po czym ta Moneta zyskuje Moc Końcową równą zużytej wartości",
+      "kr_sha256": "bcaac1e4fb8985ca76c977447b4d7e0fecd024e20320e230fe28c1582753bc13",
+      "en_sha256": "ce493b54ab15117a02e742fd12779c7c500203b2aca3f7bc13e50ceb434e0828",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nzadaje +15% obrażeń celom posiadającym Tarczę\n[BeforeAttack] Moc Bazowa -6 za każdą zniszczoną Monetę (maks. -12)\n[BeforeAttack] zyskuje +3 Licznika [Charge]\n[BeforeAttack] zużywa do 6 Licznika [Charge] i nakłada 7 [ChargeForceField] na tę jednostkę oraz na (1 + (zużyty Licznik [Charge] / 2)) losowych innych sojuszników (maks. 5 jednostek, zaokrąglone w dół)",
+      "kr_sha256": "7c388040267abdbcdfa336215d55f43f6d4b3400a5ccd16540a43d55a618a1ef",
+      "en_sha256": "39eb39b4611f0eb7fd300fe111689688010b68a9ecc653c53c3b53f6b3f2aa51",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=1].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].abName": {
+      "pl": "Mieszkaniec Metropolaris",
+      "kr_sha256": "03034bc1b5684db4e79ac9b960bec9fe25ccd16f3cca3fa9ac21ac16b6320c62",
+      "en_sha256": "3f0ed82473da3ef30fa6ed87f26c911841bd91ae55828366aa47ca093e02ee25",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "bff970f6894ab4136411e24ba53eed6e1cd3bf81422933ba5db2550bf33b4374",
+      "en_sha256": "2fdd109b1732369008e8d08aae74830fd6d30b9a7a4116d1ff09278268a1f079",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnStartCoin] zużywa do 10 Licznika [Charge], po czym ta Moneta zyskuje Moc Końcową równą zużytej wartości",
+      "kr_sha256": "bcaac1e4fb8985ca76c977447b4d7e0fecd024e20320e230fe28c1582753bc13",
+      "en_sha256": "ce493b54ab15117a02e742fd12779c7c500203b2aca3f7bc13e50ceb434e0828",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada 1 [PhotoElectricity]</style>",
+      "kr_sha256": "3427536982e1cb70691d267592f39886724f1f0503b238a58031fb0375d030ba",
+      "en_sha256": "28d7dfbc9b756f975082d2c13ba90188826f288cdf263056df151313bc68ab73",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nzadaje +<style=\"highlight\">20</style>% obrażeń celom posiadającym Tarczę\n[BeforeAttack] Moc Bazowa -6 za każdą zniszczoną Monetę (maks. -12)\n<style=\"highlight\">[BeforeAttack] zyskuje Moc Końcową równą Siły [Charge] tej jednostki (maks. 2)</style>\n[BeforeAttack] zyskuje <style=\"highlight\">+4</style> Licznika [Charge]\n[BeforeAttack] zużywa do <style=\"highlight\">8</style> Licznika [Charge] i nakłada 7 [ChargeForceField] na tę jednostkę oraz na (1 + (zużyty Licznik [Charge] / 2)) losowych innych sojuszników (maks. <style=\"highlight\">6</style> jednostek, zaokrąglone w dół)",
+      "kr_sha256": "f69b24209d34b298e7938fd742cecedfd45eb138a6f9507084ba50aeb31b0c32",
+      "en_sha256": "cab11aaef92c9f951963dba7c4dd3b2391949d7ed32026d0fc497541ff8d62b5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=3].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].abName": {
+      "pl": "Mieszkaniec Metropolaris",
+      "kr_sha256": "03034bc1b5684db4e79ac9b960bec9fe25ccd16f3cca3fa9ac21ac16b6320c62",
+      "en_sha256": "3f0ed82473da3ef30fa6ed87f26c911841bd91ae55828366aa47ca093e02ee25",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Charge] o 2",
+      "kr_sha256": "bff970f6894ab4136411e24ba53eed6e1cd3bf81422933ba5db2550bf33b4374",
+      "en_sha256": "2fdd109b1732369008e8d08aae74830fd6d30b9a7a4116d1ff09278268a1f079",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnStartCoin] zużywa do 10 Licznika [Charge], po czym ta Moneta zyskuje Moc Końcową równą zużytej wartości",
+      "kr_sha256": "bcaac1e4fb8985ca76c977447b4d7e0fecd024e20320e230fe28c1582753bc13",
+      "en_sha256": "ce493b54ab15117a02e742fd12779c7c500203b2aca3f7bc13e50ceb434e0828",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [PhotoElectricity]",
+      "kr_sha256": "df53f8ffe59fb6ca5a933ea9cf324b1ae5ee5390aae7b9e1272df04d97350cb0",
+      "en_sha256": "4b34ce181ec4b95f8837570bbf11256e5cd2190cb3cd09a1bfa7c748952d6bc1",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nzadaje +<style=\"highlight\">25</style>% obrażeń celom posiadającym Tarczę\n[BeforeAttack] Moc Bazowa -6 za każdą zniszczoną Monetę (maks. -12)\n[BeforeAttack] zyskuje Moc Końcową równą Siły [Charge] tej jednostki (maks. <style=\"highlight\">3</style>)\n[BeforeAttack] zyskuje <style=\"highlight\">+5</style> Licznika [Charge]\n[BeforeAttack] zużywa do <style=\"highlight\">10</style> Licznika [Charge] i nakłada 7 [ChargeForceField] na tę jednostkę oraz na (1 + (zużyty Licznik [Charge] / 2)) losowych innych sojuszników (maks. <style=\"highlight\">7</style> jednostek, zaokrąglone w dół)",
+      "kr_sha256": "6fefb01511ed38ea3b5fd8ce89c52efd2ff2e8eb19d1376d3dd3bf9761612c5d",
+      "en_sha256": "e48459fd5499c29633b59a250238672f0ecac5625147eec5e3cf07c61610aa4c",
+      "origin": "ai"
+    },
+    "dataList[id=2061021].levelList[level=4].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=1].abName": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=1].desc": {
+      "pl": "[CantChangeTarget]\n[SupportAlly]\nzadaje +20% obrażeń za każde [DespairKnightEGOSword] na tej jednostce\n[BeforeAttack] zadaje +1% obrażeń za każde 20 [DespairKnightEGOMind] na tej jednostce\n[BeforeAttack] jeżeli celem jest wróg, Waga Ataku +2\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] zyskuje +6 Licznika [Charge]\n[BeforeAttack] przy 999 [DespairKnightEGOMind] zużywa wszystkie Liczniki [DespairKnightEGOMind], by następnej tury zyskać 1 [CriticalDamageUp]\n\n[EndSkill] zyskuje 1 [DespairKnightEGOSword]\n[EndSkill] zyskuje 100 [DespairKnightEGOMind]\n\n[EndSkill] jeżeli celem jest sojusznik:\n- jeżeli to [PersonalityBreath] lub [PersonalityCharge], nakłada 2 [AttackDmgUp]\n- nakłada 5 Siły [Breath]\n- nakłada +3 Licznika [Breath] na cel\n- nakłada +6 Licznika [Charge] na cel\n- nakłada Tarczę równą 20% Maks. HP tej jednostki\n- nakłada [DespairKnightEGOProtect]\n",
+      "kr_sha256": "51eb94931aebeb553124812e3aefc6f632188d2c9f5fe95dd4b9977ed614cb9b",
+      "en_sha256": "dba631d32c03666710d682b98c100ca4e0fcd83bc9f1efaf35bae84cb2841387",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=1].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=3].abName": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=3].desc": {
+      "pl": "[CantChangeTarget]\n[SupportAlly]\nzadaje +<style=\"highlight\">30</style>% obrażeń za każde [DespairKnightEGOSword] na tej jednostce\n<style=\"highlight\">zadaje +30% obrażeń za każdego celu ataku o Wadze Ataku niższej niż tej Umiejętności (w walkach skupionych rozpatrywane per Część)</style>\n[BeforeAttack] zadaje +1% obrażeń za każde 20 [DespairKnightEGOMind] na tej jednostce\n[BeforeAttack] jeżeli celem jest wróg, Waga Ataku +2\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] zyskuje +6 Licznika [Charge]\n[BeforeAttack] przy 999 [DespairKnightEGOMind] zużywa wszystkie Liczniki [DespairKnightEGOMind], by następnej tury zyskać 1 [CriticalDamageUp]\n\n[EndSkill] zyskuje 1 [DespairKnightEGOSword]\n[EndSkill] zyskuje 100 [DespairKnightEGOMind]\n\n[EndSkill] jeżeli celem jest sojusznik:\n- jeżeli to [PersonalityBreath] lub [PersonalityCharge], nakłada 2 [AttackDmgUp]\n- nakłada 5 Siły [Breath]\n- nakłada +3 Licznika [Breath] na cel\n- nakłada +6 Licznika [Charge] na cel\n- nakłada Tarczę równą 20% Maks. HP tej jednostki\n- nakłada [DespairKnightEGOProtect]\n<style=\"highlight\">- odzyskuje 15 SP na tej jednostce i celu</style>",
+      "kr_sha256": "5cdde8aab41acb71e855fdfc56541f8c20c231b6e6017c4a1889bafde3b1c637",
+      "en_sha256": "f182f57648fc291a2a026f78e2eb1d2db7aa4a8e235d100cae41c229af1f38cd",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=3].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=4].abName": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">Zadaje +30% obrażeń przy trafieniu krytycznym</style>",
+      "kr_sha256": "01a6c40ca4ef9b08f05a3b3b056daa8b80072726e48b05d630fc36a7c69cce81",
+      "en_sha256": "d9b1c335096ee5682de4a7bee8d3ac727eb6c899fa1c920c7cf66a80d4c675ef",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=4].desc": {
+      "pl": "[CantChangeTarget]\n[SupportAlly]\nzadaje +<style=\"highlight\">50</style>% obrażeń za każde [DespairKnightEGOSword] na tej jednostce\nzadaje +<style=\"highlight\">50</style>% obrażeń za każdego celu ataku o Wadze Ataku niższej niż tej Umiejętności (w walkach skupionych rozpatrywane per Część)\n[BeforeAttack] zadaje +1% obrażeń za każde 20 [DespairKnightEGOMind] na tej jednostce\n[BeforeAttack] jeżeli celem jest wróg, Waga Ataku +2\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] zyskuje +6 Licznika [Charge]\n[BeforeAttack] przy 999 [DespairKnightEGOMind] zużywa wszystkie Liczniki [DespairKnightEGOMind], by następnej tury zyskać 1 [CriticalDamageUp]\n\n[EndSkill] zyskuje 1 [DespairKnightEGOSword]\n[EndSkill] zyskuje 100 [DespairKnightEGOMind]\n\n[EndSkill] jeżeli celem jest sojusznik:\n- jeżeli to [PersonalityBreath] lub [PersonalityCharge], nakłada 2 [AttackDmgUp]\n- nakłada 5 Siły [Breath]\n- nakłada +3 Licznika [Breath] na cel\n- nakłada +6 Licznika [Charge] na cel\n- nakłada Tarczę równą 20% Maks. HP tej jednostki\n- nakłada [DespairKnightEGOProtect]\n- odzyskuje 15 SP na tej jednostce i celu\n<style=\"highlight\">- usuwa 1 losowy usuwalny negatywny efekt nałożony na cel</style>",
+      "kr_sha256": "8eee21ccc78eba724f987b0e363ceb86bef9b88a9f6d8e04f2e793cd2902384c",
+      "en_sha256": "e8a92520f329be339087f9de62837861b5ea8219dedc7feb9a70cedb23af0fd4",
+      "origin": "ai"
+    },
+    "dataList[id=2061111].levelList[level=4].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=1].abName": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Końcowa +2 za każde [DespairKnightEGOSword] na tej jednostce\n[BeforeAttack] zadaje +1% obrażeń za każde 10 [DespairKnightEGOMind] na tej jednostce\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] zyskuje +6 Licznika [Charge]\n[BeforeAttack] Moc Bazowa -3 za każdą zniszczoną Monetę (maks. 9)\n\n[EndSkill] odzyskuje SP równe ([DespairKnightEGOSword] na tej jednostce x 5), po czym ten efekt wygasa\n[EndSkill] [DespairKnightEGOMind] na tej jednostce wygasa",
+      "kr_sha256": "0a42bf4c29c4e11758bb34bcf3f946a1d052b752e0c60b520caff79faa3c017a",
+      "en_sha256": "b3391525710d5d1dc7ac0b02da95a49d84dc36d5909b6e11e3e044e9293457d0",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=1].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].abName": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] następnej tury zyskuje 1 [PenetrateResultUp] (1 raz na turę)</style>",
+      "kr_sha256": "b439ca87b62d64732e99f03c63a5ca2e8efb79999dbc3d69780a9fb1ca12a1c6",
+      "en_sha256": "dd263d79580a7a8c48e9196a49dd11b66a7e70c1278bad8c1c9aa33eaab5a12a",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] następnej tury zyskuje 1 [PenetrateDamageUp] (1 raz na turę)</style>",
+      "kr_sha256": "1cb1df95a0741d879523855ff68d118b805efebe6b2b28341bf3475736917cf6",
+      "en_sha256": "0e451003ae063e0c9a45ff6e2224dbe8c032cadd54e95f7ab1e0a6837466260d",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] następnej tury zyskuje 1 [IndigoDamageUp] (1 raz na turę)</style>",
+      "kr_sha256": "46eb02b4c41fb8e0475c885fc5524052b806508acd38d828753cd831c9469055",
+      "en_sha256": "8c96bebfa427ca43a1538c5c4db177234a457a4ff36f350e7bbb2f0c800bc0dd",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Końcowa +2 za każde [DespairKnightEGOSword] na tej jednostce\n<style=\"highlight\">zadaje +30% obrażeń za każdego celu ataku o Wadze Ataku niższej niż tej Umiejętności (w walkach skupionych rozpatrywane per Część)</style>\n[BeforeAttack] zadaje +1% obrażeń za każde 10 [DespairKnightEGOMind] na tej jednostce\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] zyskuje +6 Licznika [Charge]\n[BeforeAttack] Moc Bazowa -3 za każdą zniszczoną Monetę (maks. 9)\n\n[EndSkill] odzyskuje SP równe ([DespairKnightEGOSword] na tej jednostce x 5), po czym ten efekt wygasa\n[EndSkill] [DespairKnightEGOMind] na tej jednostce wygasa",
+      "kr_sha256": "40df4dc6d8a365c546b1323f015f3281e25ff5337897ea084632c4158de7ceca",
+      "en_sha256": "f990d96e3626f8b754e12074b87cfccdefef51ebc4f23663ca8e82b6fc32a4ab",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=3].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].abName": {
+      "pl": "Rycerz Rozpaczy",
+      "kr_sha256": "857ee9ce8eafd95f901720f6a5512540134d6a083172d61a8f9fdf5cdd7d5f03",
+      "en_sha256": "0835de5a7038e9483aaa3a7d5b2c672e1c9a7b035e4479fbb90ba6d86aec5902",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zyskuje 1 [PenetrateResultUp] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "017a534ae70cb283fb6a8383113d37ae35f4e436964ddbb3276ef46e1aa9b84f",
+      "en_sha256": "45fa1a0b8470ae8099eaa6c02eb4e99f666543befff49d1c161aa1dbbaf48a5d",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zyskuje 1 [PenetrateDamageUp] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "1c7268a9c1027f44894e8b507dfb5cde2d655c949ce2d7d320a2fdd375c39237",
+      "en_sha256": "2247b56851483a4c13f9e32f8515d06be6cfd61a7ae3e6bc4021a41314c07a9f",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">Zadaje +30% obrażeń przy trafieniu krytycznym</style>",
+      "kr_sha256": "01a6c40ca4ef9b08f05a3b3b056daa8b80072726e48b05d630fc36a7c69cce81",
+      "en_sha256": "d9b1c335096ee5682de4a7bee8d3ac727eb6c899fa1c920c7cf66a80d4c675ef",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Nakłada 1 [PenetrateTakeDamageUp] w następnej turze</style>",
+      "kr_sha256": "90ff3eefc305bfdd7e407a0ad4a2f7c0a374899a1c16215f0a8925d132c65d49",
+      "en_sha256": "93545b01c9c6cd7ec03347d7bfac7ba3f43192212ad52111706c95612b7ff780",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] następnej tury zyskuje 1 [IndigoDamageUp] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "5ece6d56e99c552b86ce23fe6841e1560f3034af469c0fce31dbdd2fbc290687",
+      "en_sha256": "390e6f69309271c02ca7b7ad1f32b371e6c0856d48daa456e91ab4749c6649a3",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">przy 999 [DespairKnightEGOMind] Moc Końcowa +3</style>\nMoc Końcowa +<style=\"highlight\">3</style> za każde [DespairKnightEGOSword] na tej jednostce\nzadaje +<style=\"highlight\">50</style>% obrażeń za każdego celu ataku o Wadze Ataku niższej niż tej Umiejętności (w walkach skupionych rozpatrywane per Część)\n<style=\"highlight\">zadaje +10% obrażeń za każdego pokonanego sojusznika</style>\n[BeforeAttack] zadaje +1% obrażeń za każde 10 [DespairKnightEGOMind] na tej jednostce\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] zyskuje +6 Licznika [Charge]\n[BeforeAttack] Moc Bazowa -3 za każdą zniszczoną Monetę (maks. 9)\n\n[EndSkill] odzyskuje SP równe ([DespairKnightEGOSword] na tej jednostce x 5), po czym ten efekt wygasa\n[EndSkill] [DespairKnightEGOMind] na tej jednostce wygasa",
+      "kr_sha256": "a5982222a591191f2499a38fc30a0378039d0cdd9b266ea42ba2ebc451958794",
+      "en_sha256": "fb3809e977fc457a019a0ae7937b72d704e7805277496e25358aced6c13c8f9e",
+      "origin": "ai"
+    },
+    "dataList[id=2061121].levelList[level=4].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
       "origin": "ai"
     }
   }

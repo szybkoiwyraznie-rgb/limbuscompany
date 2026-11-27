@@ -1,0 +1,1072 @@
+{
+  "entries": {
+    "dataList[id=2090411].levelList[level=1].abName": {
+      "pl": "Krocząca Perła",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika Trzęsienia",
+      "kr_sha256": "48a62b6601e389f4d641ac444a84e88dddec5f8cd1eb9202b775908ef1b05729",
+      "en_sha256": "91de357213c936111fd4137d718bc5420fd8c58052e3c830f32f8bb1ffdfa0bb",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] następnej tury nakłada 2 Bind",
+      "kr_sha256": "0b6a509c5a9ea63e2f14a8eb681dc2887d15ff3f27ff0e4e2d887b54f9cfa605",
+      "en_sha256": "bee66dec77b3e0b0eeb78b59a5feb31428e4a748b8f3693e1caf9ca1b0c50285",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=1].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=3].abName": {
+      "pl": "Krocząca Perła",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Trzęsienia i +5 Licznika Trzęsienia",
+      "kr_sha256": "573ef0088d96ae5952c4b77580a1bd14c7d726c53befe9a7f508ff6862b6469c",
+      "en_sha256": "d1c1f5f55e27f46cbe3ed5758f2cd7f97c53763b5b7b3023cff28ad8aba5f800",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] następnej tury nakłada 2 Bind",
+      "kr_sha256": "0b6a509c5a9ea63e2f14a8eb681dc2887d15ff3f27ff0e4e2d887b54f9cfa605",
+      "en_sha256": "bee66dec77b3e0b0eeb78b59a5feb31428e4a748b8f3693e1caf9ca1b0c50285",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] Wybuch Wstrząsu",
+      "kr_sha256": "0a7f1001aff6323553da135f4736d751c542c9a8f771d548a8be1eaad19a9785",
+      "en_sha256": "7901b0eac7db4a94ac68dc1731811846ef0c53cba7e4a3d3273c4be9cfa0d3fa",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] jeżeli główny cel ataku ma 50%+ Maks. HP, Waga Ataku +1",
+      "kr_sha256": "160de5c772e16a038ab4c080e635d41d400f5be5af615a08cb2b4d3c43de76fe",
+      "en_sha256": "92a7f84968c64e299b102ab69fba9920d61af3db64efcbb544673eec8fe83211",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=3].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=4].abName": {
+      "pl": "Krocząca Perła",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Trzęsienia i +7 Licznika Trzęsienia",
+      "kr_sha256": "886799feb5ba5b41b4234aba4d602ece9e4dced121279445f1ee5364c001e106",
+      "en_sha256": "5bb5c378e816197671050b3216343ec113366a86b43e283c92bceba1ff0cf86c",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] następnej tury nakłada 2 Bind",
+      "kr_sha256": "0b6a509c5a9ea63e2f14a8eb681dc2887d15ff3f27ff0e4e2d887b54f9cfa605",
+      "en_sha256": "bee66dec77b3e0b0eeb78b59a5feb31428e4a748b8f3693e1caf9ca1b0c50285",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] jeżeli główny cel ataku ma 50%+ Maks. HP, Waga Ataku +1;\njeżeli ma 75%+ Maks. HP, dodatkowo Waga Ataku +1",
+      "kr_sha256": "13c28587c9d33808b384ca874b591a54827de146d7358201af2cd204c3a7f2b5",
+      "en_sha256": "5f1cf51f2fe892ef9889a4bf21911937d4b23d59d1b304999cba0548ab2f109e",
+      "origin": "ai"
+    },
+    "dataList[id=2090411].levelList[level=4].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=1].abName": {
+      "pl": "Krocząca Perła",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe 30% zadanych obrażeń",
+      "kr_sha256": "8e786b33c3fe3f1cfe82456e4be658982e9de5a8c97045b987ecb8bc06800e42",
+      "en_sha256": "218e08ed385e2f423bb0395e88e4ed16f39b10bf2184628a9e364de59c14dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=1].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=3].abName": {
+      "pl": "Krocząca Perła",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe 30% zadanych obrażeń",
+      "kr_sha256": "8e786b33c3fe3f1cfe82456e4be658982e9de5a8c97045b987ecb8bc06800e42",
+      "en_sha256": "218e08ed385e2f423bb0395e88e4ed16f39b10bf2184628a9e364de59c14dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 zmniejszenia Poziomu Obrony",
+      "kr_sha256": "5ad27721638acfa78369e081a6f8fb27f0966ae61493f27191f19cff1eb9d0e8",
+      "en_sha256": "3a4ce11858f16d9b0860f09efa83cfba979b1dfe3216cfed303305418b2c9649",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] jeżeli główny cel ataku ma 50%+ Maks. HP, Waga Ataku +1",
+      "kr_sha256": "8a2a516c64b6017628f062897ca95ef3570ea131c9b319d494d56cbf4cba88ca",
+      "en_sha256": "ae07c38eb2e47b905234fcbda2a12ec489e27d3c4ea81433710166165ba37839",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=3].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=4].abName": {
+      "pl": "Krocząca Perła",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe 30% zadanych obrażeń",
+      "kr_sha256": "8e786b33c3fe3f1cfe82456e4be658982e9de5a8c97045b987ecb8bc06800e42",
+      "en_sha256": "218e08ed385e2f423bb0395e88e4ed16f39b10bf2184628a9e364de59c14dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 zmniejszenia Poziomu Obrony",
+      "kr_sha256": "cf9e26350b48e8d7393e36da9dd43ffee62f92ebb510d4df8aa8d7110333ec84",
+      "en_sha256": "30cbcbb3bd30202a82348c9702b230b710f2067b0120037a04e216dd4a07eb68",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] jeżeli główny cel ataku ma 50%+ Maks. HP, Waga Ataku +1;\njeżeli ma 75%+ Maks. HP, dodatkowo Waga Ataku +1",
+      "kr_sha256": "e05dac41deb99ea566c30e7b1938e8c02787e7bf56ecf93bfbc0577665d1da5d",
+      "en_sha256": "54b5b6a3067263190f91aad221e9b74b841a9f43be435144548983dad937167e",
+      "origin": "ai"
+    },
+    "dataList[id=2090421].levelList[level=4].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=1].abName": {
+      "pl": "Skryba Niebiańskiego Egzekutora",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] następnej tury nakłada 1 Kruchości Nieczułości",
+      "kr_sha256": "46a6714c9a0e9d1a333169b0351e5d399b2f92945ccca0de4879d39a50b51359",
+      "en_sha256": "503f16343201236f9a65aa9a37cbdc79a7f2c4f3243b9cac809c7af49faafcd0",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe 15% Maks. HP tej jednostki dla 2 innych sojuszników z najniższym aktualnym procentem HP",
+      "kr_sha256": "4cd5523f751f40bccf011ac5320f1dae7bd400b8959e61d5df11a3e68c3da466",
+      "en_sha256": "656ef99ebc28616106d9b06fb2fc2a9dfe87aeeb95c2fa9b98bbef352eb75996",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=1].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=3].abName": {
+      "pl": "Skryba Niebiańskiego Egzekutora",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] następnej tury nakłada 1 Kruchości Nieczułości",
+      "kr_sha256": "46a6714c9a0e9d1a333169b0351e5d399b2f92945ccca0de4879d39a50b51359",
+      "en_sha256": "503f16343201236f9a65aa9a37cbdc79a7f2c4f3243b9cac809c7af49faafcd0",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe 25% Maks. HP tej jednostki dla 2 innych sojuszników z najniższym aktualnym procentem HP",
+      "kr_sha256": "b9477b8ad54be81284285b500b63606deb552a650cc0a1ac0e001e8fd6103fb1",
+      "en_sha256": "4ce7639a95999df5268f90d7d631c97d4bc5823b4a48c4e398e04bc52bb280d4",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EndSkillHead] jeżeli cel jest Oszołomiony lub pokonany, nakłada Tarczę równą 10% Maks. HP tej jednostki na sojuszników, których ta jednostka leczyła",
+      "kr_sha256": "b19494a03e47d3fe939c1fc5e79b525f6257d88e52b8e34926a9521597b0c039",
+      "en_sha256": "f700157ade153105aac27e7412665531cd1e1fea6868c13e02aa61fff55d8edd",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=3].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=4].abName": {
+      "pl": "Skryba Niebiańskiego Egzekutora",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] następnej tury nakłada 1 Kruchości Nieczułości",
+      "kr_sha256": "0f77639270fc0cecd735b3a1b3d7b798b56a0372e8f7d9da9444493d9fa80bcc",
+      "en_sha256": "45352e3d6ab5562349d27c2e7bfb055db71cfd2788324a30b9b81fd99f76e653",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe 30% Maks. HP tej jednostki dla 2 innych sojuszników z najniższym aktualnym procentem HP",
+      "kr_sha256": "769979aa469159d3aecb7d4d2685cda97e439b915749c17ce4f9b9fc6c7997b4",
+      "en_sha256": "94c2c277f39177e35a5ce9e0095d3c36022c1e6622592b8a8517ac0271471ab1",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EndSkillHead] jeżeli cel jest Oszołomiony lub pokonany, nakłada Tarczę równą 15% Maks. HP tej jednostki na sojuszników, których ta jednostka leczyła",
+      "kr_sha256": "185b5dcda85ca88d2c63e98913ed92cd4e44f43c19bd95aa53ac7fe2809ec7c7",
+      "en_sha256": "f46b00772a8b0f4897cf93d7bead7f88284cf89e925dfb11508a116dc6a9188a",
+      "origin": "ai"
+    },
+    "dataList[id=2090511].levelList[level=4].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=1].abName": {
+      "pl": "Skryba Niebiańskiego Egzekutora",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi 15 obrażeń SP",
+      "kr_sha256": "34a4f9a249cdcd3e7fc37e38f3d65974e03d8e1f630b8642be3b5ebc153fea7a",
+      "en_sha256": "482aeb451e26ce1240d6e6d5f27caba471b76d6bdedc6620887238a56b7f3342",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=1].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=3].abName": {
+      "pl": "Skryba Niebiańskiego Egzekutora",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi 20 obrażeń SP",
+      "kr_sha256": "4795be2d24f00db16902468a43ff402dab3fb36f9c19f27872cfeefcd3ae45ee",
+      "en_sha256": "016956ab1d3867093a72fdd707f3da4d8e58d6e4430c76930c16e2f8a899803e",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] jeżeli cel jest Oszołomiony lub pokonany, odzyskuje 5 SP",
+      "kr_sha256": "58a55823e8cc23500eec0abad9b269d62b8f50955145dc4dac977d962fe24f59",
+      "en_sha256": "95ab9cb62eaf99346334693f4a33b3ff87457fa703f2901250a10d4554195f48",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy HP tej jednostki niższym niż 50%, Waga Ataku +1",
+      "kr_sha256": "428a858a979e5aee66658452cac0ad132f6531e3e918fe9043b02a791491d0af",
+      "en_sha256": "525a57b8672d1a1a1cccb873df2c653dc25d05654188571f4a904c2bfb46ec48",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=3].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=4].abName": {
+      "pl": "Skryba Niebiańskiego Egzekutora",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "f928f0ea310391d44d724554aeca288101e1d4cf8df9d6a09b51d3f45017c2f3",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje celowi 20 obrażeń SP",
+      "kr_sha256": "4795be2d24f00db16902468a43ff402dab3fb36f9c19f27872cfeefcd3ae45ee",
+      "en_sha256": "016956ab1d3867093a72fdd707f3da4d8e58d6e4430c76930c16e2f8a899803e",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest Oszołomiony lub pokonany, odzyskuje 7 SP",
+      "kr_sha256": "c9ce72aced5f24940006c514224dff9e5b6e6bcd336c510e21bf34146f7d5698",
+      "en_sha256": "0d9e7a7c3f47f78b6c27ccce7ce5fae1195965e879628f76f66e0d27aac95fea",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy HP tej jednostki niższym niż 50%, Waga Ataku +2",
+      "kr_sha256": "f37f9b85bd4c140aec8ec1204a0f79a706a543005d3f45d28588c08cf8528495",
+      "en_sha256": "c03d5df41a686e3a632014f3c7abe9dc848113756370c263b0c10c0a09f2b030",
+      "origin": "ai"
+    },
+    "dataList[id=2090521].levelList[level=4].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].abName": {
+      "pl": "Czerwone Buty",
+      "kr_sha256": "a8cc68d43416e2821d941378232a12e1cfdcbbc02f836bae9e0f804fa1656083",
+      "en_sha256": "d5c98369c84b0b9d400e838c635a93106211d51feeed2d688754ff8c3c19a36a",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Grzechu Żądzy równe Siły [Laceration] celu.\n- przy Rezonansie Żądzy 4+ zadaje obrażenia równe (Siła [Laceration] celu x 1.2)\n(przy obliczaniu uwzględnia się Siłę [Laceration] tylko do 99)",
+      "kr_sha256": "e20c70a2dde2bd58d40d6ae9185e9c5a8978790f56deaf967814c41f796b1106",
+      "en_sha256": "a938197d66c0a5bcca9a8199c8f39899f911e7fb9a3a425b7ef9e570060be553",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].coinlist[#0].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Grzechu Żądzy proporcjonalne do [Laceration] celu",
+      "kr_sha256": "19442e58b862df8daebdb611f5f3641ea38835817ac69ecce9709b550a15aaa8",
+      "en_sha256": "1c49ea3727531be24eaf3de8b5663a57e00f3e237344ad4e6fd20bf9f476bc7c",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] jeżeli ta Umiejętność lub jej efekty Monety zadały obrażenia przekraczające pozostałe HP celu, rozdziela nadwyżkę obrażeń jako stałe obrażenia między wszystkich wrogów.\n(w walkach skupionych oblicza się względem HP Rdzenia)",
+      "kr_sha256": "d4998f945a5682228ffa131732e417d988bb8903a3e5ceb5bd84abea2fd811ef",
+      "en_sha256": "852c2f8761d4836b70d440551b255b7f9adc40d14396d06397dd5f9bd62ab0f2",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].coinlist[#0].coindescs[#1].summary": {
+      "pl": "[EnemyKill] jeżeli zada nadwyżkowe obrażenia, rozdziela je między wszystkich wrogów",
+      "kr_sha256": "bf5b33b46a23f581a8e0324025ccd1b2371b8acbb7fac084497e56f5582130bc",
+      "en_sha256": "13e62582e7ce4506a56953ff1d9e89904039eb0a37771f6020b575d67f18aae9",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].desc": {
+      "pl": "Moc Monety +1 za każde 2 [Laceration] na celu (maks. 6)\n[StartBattle] główny cel tej Umiejętności nie traci Licznika [Laceration] w tej turze.\n[EndSkill] przez 3 tury traci 10 SP na koniec tury.",
+      "kr_sha256": "92254554b65dba99985242c466a727f993a96f8d5a46da94736f46373e9d53f3",
+      "en_sha256": "b7b194af20a1028f1472aefe538300c5b64ac91b4370d18e5df339d60c2c9069",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=1].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].abName": {
+      "pl": "Czerwone Buty",
+      "kr_sha256": "a8cc68d43416e2821d941378232a12e1cfdcbbc02f836bae9e0f804fa1656083",
+      "en_sha256": "d5c98369c84b0b9d400e838c635a93106211d51feeed2d688754ff8c3c19a36a",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Grzechu Żądzy równe <style=\"highlight\">(Siła [Laceration] celu x 1.2)</style>.\n- przy Rezonansie Żądzy 4+ zadaje obrażenia równe (Siła [Laceration] celu x <style=\"highlight\">1.5</style>)\n<style=\"highlight\">- przy Rezonansie Absolutnym Żądzy 4+ zadaje obrażenia równe (Siła [Laceration] celu x 1.8).</style>\n(przy obliczaniu uwzględnia się Siłę [Laceration] tylko do 99)",
+      "kr_sha256": "183829f9af17080e86cf7fc56b2bcc87f17640970b60c1407ddbec2736719f06",
+      "en_sha256": "dd5de12678ed8b48b070a4b5712d8ad170bfe909fa4ea9fe8b17c8e7ee8da878",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].coinlist[#0].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Grzechu Żądzy proporcjonalne do [Laceration] celu",
+      "kr_sha256": "19442e58b862df8daebdb611f5f3641ea38835817ac69ecce9709b550a15aaa8",
+      "en_sha256": "1c49ea3727531be24eaf3de8b5663a57e00f3e237344ad4e6fd20bf9f476bc7c",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] jeżeli ta Umiejętność lub jej efekty Monety zadały obrażenia przekraczające pozostałe HP celu, rozdziela nadwyżkę obrażeń jako stałe obrażenia między wszystkich wrogów.\n(w walkach skupionych oblicza się względem HP Rdzenia)",
+      "kr_sha256": "d4998f945a5682228ffa131732e417d988bb8903a3e5ceb5bd84abea2fd811ef",
+      "en_sha256": "852c2f8761d4836b70d440551b255b7f9adc40d14396d06397dd5f9bd62ab0f2",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].coinlist[#0].coindescs[#1].summary": {
+      "pl": "[EnemyKill] jeżeli zada nadwyżkowe obrażenia, rozdziela je między wszystkich wrogów",
+      "kr_sha256": "bf5b33b46a23f581a8e0324025ccd1b2371b8acbb7fac084497e56f5582130bc",
+      "en_sha256": "13e62582e7ce4506a56953ff1d9e89904039eb0a37771f6020b575d67f18aae9",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].desc": {
+      "pl": "Moc Monety +1 za każde 2 [Laceration] na celu (maks. <style=\"highlight\">9</style>)\n[StartBattle] główny cel tej Umiejętności nie traci Licznika [Laceration] w tej turze.\n[EndSkill] przez 3 tury traci 10 SP na koniec tury.",
+      "kr_sha256": "14d7172239b898d1c051051d4ff5fa35107975b110f91bd9b918fe0dc2cc8d8f",
+      "en_sha256": "4cd6ccdf36805e6c35eed4a14b90229443fe738c6897ded61ec9ac89065b1404",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=3].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].abName": {
+      "pl": "Czerwone Buty",
+      "kr_sha256": "a8cc68d43416e2821d941378232a12e1cfdcbbc02f836bae9e0f804fa1656083",
+      "en_sha256": "d5c98369c84b0b9d400e838c635a93106211d51feeed2d688754ff8c3c19a36a",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Grzechu Żądzy równe (Siła [Laceration] celu x <style=\"highlight\">1.5</style>)\n- przy Rezonansie Żądzy 4+ zadaje obrażenia równe (Siła [Laceration] celu x <style=\"highlight\">1.8</style>)\n- przy Rezonansie Absolutnym Żądzy 4+ zadaje obrażenia równe (Siła [Laceration] celu x <style=\"highlight\">2</style>)\n(przy obliczaniu uwzględnia się Siłę [Laceration] tylko do 99)",
+      "kr_sha256": "fecacbbd580980867b8a6131fcbd663739a6c9baacefe97144cedb461eeeb06b",
+      "en_sha256": "73460cb58ff7af254b172f8a8528252f118c96f6e3013e6ddad20723e949850d",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].coinlist[#0].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Grzechu Żądzy proporcjonalne do [Laceration] celu",
+      "kr_sha256": "19442e58b862df8daebdb611f5f3641ea38835817ac69ecce9709b550a15aaa8",
+      "en_sha256": "1c49ea3727531be24eaf3de8b5663a57e00f3e237344ad4e6fd20bf9f476bc7c",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] jeżeli ta Umiejętność lub jej efekty Monety zadały obrażenia przekraczające pozostałe HP celu, rozdziela nadwyżkę obrażeń jako stałe obrażenia między wszystkich wrogów.\n(w walkach skupionych oblicza się względem HP Rdzenia)",
+      "kr_sha256": "d4998f945a5682228ffa131732e417d988bb8903a3e5ceb5bd84abea2fd811ef",
+      "en_sha256": "852c2f8761d4836b70d440551b255b7f9adc40d14396d06397dd5f9bd62ab0f2",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].coinlist[#0].coindescs[#1].summary": {
+      "pl": "[EnemyKill] jeżeli zada nadwyżkowe obrażenia, rozdziela je między wszystkich wrogów",
+      "kr_sha256": "bf5b33b46a23f581a8e0324025ccd1b2371b8acbb7fac084497e56f5582130bc",
+      "en_sha256": "13e62582e7ce4506a56953ff1d9e89904039eb0a37771f6020b575d67f18aae9",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].desc": {
+      "pl": "Moc Monety +1 za każde 2 [Laceration] na celu (maks. <style=\"highlight\">13</style>)\n[StartBattle] główny cel tej Umiejętności nie traci Licznika [Laceration] w tej turze.\n[EndSkill] przez 3 tury traci 10 SP na koniec tury.",
+      "kr_sha256": "503d848b6c5a8dc2530312b800e0c4797f93a99cfaeb5835209c587517cf4ba1",
+      "en_sha256": "3f242b5815e555ff8cd36b73c7112cd29231bc9e8f4b9b37075f116cc6870dee",
+      "origin": "ai"
+    },
+    "dataList[id=2090611].levelList[level=4].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=1].abName": {
+      "pl": "Czerwone Buty",
+      "kr_sha256": "a8cc68d43416e2821d941378232a12e1cfdcbbc02f836bae9e0f804fa1656083",
+      "en_sha256": "d5c98369c84b0b9d400e838c635a93106211d51feeed2d688754ff8c3c19a36a",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada (2 + Rezonans Żądzy) [Laceration]\n(maks. 4 [Laceration] proporcjonalnie do Rezonansu)",
+      "kr_sha256": "53f70f3122d4e839960b30a60a5d23a9e54b270d0271219648028b03785efbc1",
+      "en_sha256": "bb4143d1e8b86df592153b76eb93e08d63d003ee0253ceb497fb17dcf319b0dd",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=1].coinlist[#0].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttack] nakłada (2 + Rezonans Żądzy) [Laceration]",
+      "kr_sha256": "1f9a331d6c7f63ad4aad2ae05e5bf4814d41b0c5ac47ac2486c8726125b08a78",
+      "en_sha256": "e074c505a8bb2248e44fe15335a147e06d1f797be862ea0addd2d8aef3fe5ce1",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (liczba najwyższego Rezonansu - 2) Wagi Ataku (maks. 2)",
+      "kr_sha256": "d4604fe871db0978b2fc146a99599440cc89dd001a2d6bd974a645c80c312159",
+      "en_sha256": "61b9ad35fd464918d43c466b5c439b2e47cdd49d659fae8248e06fedd787cc4a",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=1].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=3].abName": {
+      "pl": "Czerwone Buty",
+      "kr_sha256": "a8cc68d43416e2821d941378232a12e1cfdcbbc02f836bae9e0f804fa1656083",
+      "en_sha256": "d5c98369c84b0b9d400e838c635a93106211d51feeed2d688754ff8c3c19a36a",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada (<style=\"highlight\">3</style> + Rezonans Żądzy) [Laceration]\n(maks. <style=\"highlight\">5</style> [Laceration] proporcjonalnie do Rezonansu)",
+      "kr_sha256": "8a250a3b3835da6e51cc8b65ff78caa8fa73e461da3d25f40b453525f16ab264",
+      "en_sha256": "6b93c739c6457b18e0833c5506b9d693924dca36c1b46291cc3015cfb81f1970",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=3].coinlist[#0].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttack] nakłada (3 + Rezonans Żądzy) [Laceration]",
+      "kr_sha256": "b7c92e950fe48f19f6651fd2c6dfbc79d9aa41ed439b67bf42bdb8acc88828ca",
+      "en_sha256": "092dc3eb5f7c06eb4a3cba038dfb96720809a43c116db4475b5bd16986531aa5",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] celu o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (liczba najwyższego Rezonansu - 2) Wagi Ataku (maks. 2)",
+      "kr_sha256": "d4604fe871db0978b2fc146a99599440cc89dd001a2d6bd974a645c80c312159",
+      "en_sha256": "61b9ad35fd464918d43c466b5c439b2e47cdd49d659fae8248e06fedd787cc4a",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=3].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=4].abName": {
+      "pl": "Czerwone Buty",
+      "kr_sha256": "a8cc68d43416e2821d941378232a12e1cfdcbbc02f836bae9e0f804fa1656083",
+      "en_sha256": "d5c98369c84b0b9d400e838c635a93106211d51feeed2d688754ff8c3c19a36a",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada (<style=\"highlight\">4</style> + Rezonans Żądzy) [Laceration]\n(maks. <style=\"highlight\">6</style> [Laceration] proporcjonalnie do Rezonansu)",
+      "kr_sha256": "91cd8497963b91f22138841f1b284a76fa6ac50f98d6cea3087d0189b6fd0dc4",
+      "en_sha256": "2b332cbe2e3e4040138aa98c09dff3bde4ad2fda52dc79eb73bf4c389e400d33",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=4].coinlist[#0].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttack] nakłada (4 + Rezonans Żądzy) [Laceration]",
+      "kr_sha256": "18e69bbfe47e8764cbc3535b56dea14c53dfe85cf2668bcf6e0cc555b33b0a5d",
+      "en_sha256": "77736a555f35cf203025691eb9238c478a27a71c052136b548c8268c159cbc61",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada +<style=\"highlight\">3</style> Licznika [Laceration]",
+      "kr_sha256": "541b78b70cf95dfe72abcf3ae014ee7a13cbbe83c7b6c60d11c88671e80c66c9",
+      "en_sha256": "1d9458cd7b2a4aaf16c6cb4927497923e2392afc19bf961ab0a84035753b8c99",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (liczba najwyższego Rezonansu - 2) Wagi Ataku (maks. 2)",
+      "kr_sha256": "d4604fe871db0978b2fc146a99599440cc89dd001a2d6bd974a645c80c312159",
+      "en_sha256": "61b9ad35fd464918d43c466b5c439b2e47cdd49d659fae8248e06fedd787cc4a",
+      "origin": "ai"
+    },
+    "dataList[id=2090621].levelList[level=4].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=1].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]",
+      "kr_sha256": "eecb6f1ff88128298b0fa169cee68a1663448960ab8438a9f43e73af8892ec15",
+      "en_sha256": "b6c36d4b1855dca49b13562282820fa9028b22a0b6e0425108b1b86ecc291df9",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [NailPersonality]",
+      "kr_sha256": "bf2722c4d950a3f2710e110d6625f4979f4f55d995295bc43608d3330e470e85",
+      "en_sha256": "02b89b72ee04c5f00bca6f6159b729d821c86cbd4b486d5b2ed0fbf6a4c797fe",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=1].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe 12.5% Maks. HP tej jednostki dla siebie i 2 innych sojuszników z najniższym aktualnym procentem HP",
+      "kr_sha256": "3816799e96bcb2cc783496abdaceac40533fa6fd73110ce265fef37fcdba8f70",
+      "en_sha256": "52a92a14b38e9651bc4cefd0d6b9ef86c1a2e727a64838429dd4d3719e4dc6ab",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=1].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=3].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Laceration]",
+      "kr_sha256": "55e167b1aa86910dfb1bc2b26840fe60bafe420e09abc5c9e27c688a0c867206",
+      "en_sha256": "6564451dd5b061652c4d5c0bfcaf7f42b15f3575afd361c76abc8c419fbfd8ea",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]<style=\"highlight\"></style>",
+      "kr_sha256": "cbf1b8327217ad0d956de997e5ee68b505441b2199c88dde273c0e73894eb6bf",
+      "en_sha256": "af71b8531cd495173d312eee9017ae310afc5fce15cf7a8510fa43cd3a39ee30",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [NailPersonality]<style=\"highlight\"></style>",
+      "kr_sha256": "96c2b23d3c2423d847626f823e9b2d722010d2ced10fa757d69ee4bf3ae61dc2",
+      "en_sha256": "b61a37b3bbe237580d364b8dda94fc75e625d46813e0377a7f9318a1b0c37f2a",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=3].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe 12.5% Maks. HP tej jednostki dla tej jednostki i 2 innych sojuszników z najniższym aktualnym procentem HP\n<style=\"highlight\">- leczenie każdego leczonego celu rośnie o 2.5% HP za każde 2 negatywne efekty, jakie ten cel posiada (maks. 7.5)</style>",
+      "kr_sha256": "f18ee03645700855c9f57825ecf4d83e50695390690880b91db48d9ddda93a29",
+      "en_sha256": "e545c2a2721228c3f656644536db1c63ccb02c9294d5f8d1e4f1380a14613ae9",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=3].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=4].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">4</style> [Laceration]",
+      "kr_sha256": "4688571449d0172db68878a04dae0dce98c3d91ea0883422d890be13ab7a3051",
+      "en_sha256": "1a6afc0af15dc43907f81387523cd95beb938c01b2f8b3172061116e40472cb5",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">3</style> [Curse]",
+      "kr_sha256": "2a836108cc6b12f101a4c91833d7703c2693687603b9afe1fa200296f2a03e74",
+      "en_sha256": "fb195668d83e3190a1e0db2d33a87a96d922d0969574dcf8b9fd5250382cf543",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada <style=\"highlight\">3</style> [NailPersonality]",
+      "kr_sha256": "fd25026ccdf604b48ef536c3c5de1cbfc38aa3028234941b3026f8764e488c3c",
+      "en_sha256": "9e31cc5ab0399ef88104df1ff13d0de7b5d071ed3785c26d6739173abc78a6b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=4].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe <style=\"highlight\">15%</style> Maks. HP tej jednostki dla siebie i 2 innych sojuszników z najniższym aktualnym procentem HP\n- leczenie każdego leczonego celu rośnie o 2.5% HP za <style=\"highlight\">każdy 1</style> negatywny efekt, jaki ten cel posiada (maks. <style=\"highlight\">10%</style>)\n<style=\"highlight\">- przy Rezonansie Zawiści 4+ wliczając tę Umiejętność, liczba leczonych sojuszników +1</style>",
+      "kr_sha256": "0118c05419f756c5490e48e164cec08381b59711c375d7db83ccffbdf19d5d25",
+      "en_sha256": "ff22e6f219fb39309e155fc1c188b627fc3e4b164f5190c75813dcd39ec1ef5e",
+      "origin": "ai"
+    },
+    "dataList[id=2090711].levelList[level=4].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] celu o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]",
+      "kr_sha256": "eecb6f1ff88128298b0fa169cee68a1663448960ab8438a9f43e73af8892ec15",
+      "en_sha256": "b6c36d4b1855dca49b13562282820fa9028b22a0b6e0425108b1b86ecc291df9",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 2 [NailPersonality]",
+      "kr_sha256": "225c843261deecfdad627aa07e00ec8d61c4365df5f723defce4ca793922688c",
+      "en_sha256": "65d528bb58e9f2e5708cc076e1d6f9be291bf13290d36b2c99bda06e01378883",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] odzyskuje HP równe 15% Maks. HP tej jednostki dla 3 innych sojuszników z najniższym aktualnym procentem HP",
+      "kr_sha256": "fa952be5c4c2e917a3f81b08e559d35a618b8901070c505c70c0f2aa44fa72f2",
+      "en_sha256": "15ca6dc9fd69558b2bd763060ed6f64476eb979019b9a8851e2f7087607b3947",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=1].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Laceration]",
+      "kr_sha256": "55e167b1aa86910dfb1bc2b26840fe60bafe420e09abc5c9e27c688a0c867206",
+      "en_sha256": "6564451dd5b061652c4d5c0bfcaf7f42b15f3575afd361c76abc8c419fbfd8ea",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "9ce0eeb55815d8f99782490c70749049c7b6c18db2935688d6a07425817ffee6",
+      "en_sha256": "1fbe9f8a0cf761f3bb5222d78c81e8363c0c1ae1aae1112e8f8e8200cfc7d651",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]<style=\"highlight\"></style>",
+      "kr_sha256": "cbf1b8327217ad0d956de997e5ee68b505441b2199c88dde273c0e73894eb6bf",
+      "en_sha256": "af71b8531cd495173d312eee9017ae310afc5fce15cf7a8510fa43cd3a39ee30",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 2 [NailPersonality]<style=\"highlight\"></style>",
+      "kr_sha256": "3a331e0bc324852f5d90d651bd3029db34a9acd82e970f18211689334c784ba5",
+      "en_sha256": "e1ee119e2688d5c29db60083eb12e1ecd64e764cd8efda79a254e3dff46c88a1",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] odzyskuje HP równe 15% Maks. HP tej jednostki dla 3 innych sojuszników z najniższym aktualnym procentem HP\n<style=\"highlight\">- każdy leczony cel zyskuje 1 [AttackUp] do następnej tury za każde 2 negatywne efekty, jakie ten cel posiada (maks. 2)</style>",
+      "kr_sha256": "539d5b53066cb12a2eecfa03735e307afec318a01d8b17b2eb667dde7768fb80",
+      "en_sha256": "e4aeefa651a3ca633e3e22959382d659e85d1de55169dc2016ef10da1d3d8eb1",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=3].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">4</style> [Laceration]",
+      "kr_sha256": "4688571449d0172db68878a04dae0dce98c3d91ea0883422d890be13ab7a3051",
+      "en_sha256": "1a6afc0af15dc43907f81387523cd95beb938c01b2f8b3172061116e40472cb5",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "9ce0eeb55815d8f99782490c70749049c7b6c18db2935688d6a07425817ffee6",
+      "en_sha256": "1fbe9f8a0cf761f3bb5222d78c81e8363c0c1ae1aae1112e8f8e8200cfc7d651",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">3</style> [Curse]",
+      "kr_sha256": "2a836108cc6b12f101a4c91833d7703c2693687603b9afe1fa200296f2a03e74",
+      "en_sha256": "fb195668d83e3190a1e0db2d33a87a96d922d0969574dcf8b9fd5250382cf543",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada <style=\"highlight\">3</style> [NailPersonality]",
+      "kr_sha256": "6ef90821400191b29c05495c45e6a4f2b25be74a2f6745ae040810157bd3819b",
+      "en_sha256": "b0adb3a499e2423cf4a3f8caa01d84fabab3e90a5cfd0cebf5b7b6de99074967",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] odzyskuje HP równe <style=\"highlight\">20%</style> Maks. HP tej jednostki dla 3 innych sojuszników z najniższym aktualnym procentem HP\n- każdy leczony cel zyskuje 1 [AttackUp] do następnej tury za <style=\"highlight\">każdy 1</style> negatywny efekt, jaki ten cel posiada (maks. <style=\"highlight\">3</style>)\n<style=\"highlight\">- przy Rezonansie Zawiści 4+ wliczając tę Umiejętność, liczba leczonych sojuszników +1</style>",
+      "kr_sha256": "3248ac6d28425be0091e9b9f857e68e24f0bb2e9aa85610cedfcd5b2dbd217db",
+      "en_sha256": "a9409ecb8d749dc2caad86cf106deab6a2eadbd95293f20b7f4cb9fb752bd5ac",
+      "origin": "ai"
+    },
+    "dataList[id=2090721].levelList[level=4].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=1].abName": {
+      "pl": "Płonąca Księżna",
+      "kr_sha256": "519e337146a5fce5597d8184dd719dd42bb0f5f323df592c75c922de4d64f912",
+      "en_sha256": "440b896b4e83f1dd45e66d18bfca04336a6016c5367eb44b209cc83fe42f334b",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] [Combustion] 6 Podpalenia",
+      "kr_sha256": "70c97b2553033511f4cef670c2b01e6feca3367370c17ab6f29440f901dd30bd",
+      "en_sha256": "9b4bab8d4395401ea98a501583451ac263ad263971f31c9f1f27a3343f5576c0",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli to trafienie główne, następnej tury nakłada (1 + (Rezonans Gniewu / 3)) [BirdCage] na główny cel (maks. 2, zaokrąglone w dół)",
+      "kr_sha256": "e3c9ee0947b8f1dc0af0f48e13be0ccc2d0e199cb937d1fa614f2dfb4d7ea602",
+      "en_sha256": "83638656afcfea17cea7c7d38f591f134ec3cf36cb0ae8055572ac2ecfecc9ef",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=1].desc": {
+      "pl": "[EndSkill] odzyskuje HP równe 15% Maks. HP dla (1 + najwyższy Rezonans) sojuszników z najniższym aktualnym procentem HP (maks. 3 sojuszników)\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "b56b73e29d8c0091f2b54a11343f001ed085e7242bfad4271e10a392fadb9309",
+      "en_sha256": "4013465d809d2472e0eff4371fb320a9bdf03986e2cb928731488018a3841268",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=1].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=3].abName": {
+      "pl": "Płonąca Księżna",
+      "kr_sha256": "519e337146a5fce5597d8184dd719dd42bb0f5f323df592c75c922de4d64f912",
+      "en_sha256": "440b896b4e83f1dd45e66d18bfca04336a6016c5367eb44b209cc83fe42f334b",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] [Combustion] <style=\"highlight\">8</style> Podpalenia",
+      "kr_sha256": "56c0b4a6f3526cb921d391dd3331f7a4b54cc7ac4c81d89e4466bf9c33376a60",
+      "en_sha256": "b7962aaa9095c73bc13b700fc8944aa39573e8b5ae03d03c959c1f1259450709",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli to trafienie główne, następnej tury nakłada (1 + (Rezonans Gniewu / 3)) [BirdCage] na główny cel (maks. <style=\"highlight\">3</style>, zaokrąglone w dół)",
+      "kr_sha256": "8d0521e3de5f1f3012d30138c0de13ba7e24345a0e9c9c3fedeffd083056789c",
+      "en_sha256": "bc1c1c5e3003281a3f384f4d77513cadf42bf237a523bff95c3a8f3e4921c355",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Wagi Ataku (maks. 3, zaokrąglone w dół)</style>\n[EndSkill] odzyskuje HP równe <style=\"highlight\">18</style>% Maks. HP dla (1 + najwyższy Rezonans) sojuszników z najniższym aktualnym procentem HP (maks. 3 sojuszników)\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "ea01349e4d47612252d7b944aa9ebb4ecb4d01a3832626f6ddd286f6268f9566",
+      "en_sha256": "b7b83102cc45b449619cfc418d0ef532d9d5514d22f8e6af927a2a622171b24e",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=3].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=4].abName": {
+      "pl": "Płonąca Księżna",
+      "kr_sha256": "519e337146a5fce5597d8184dd719dd42bb0f5f323df592c75c922de4d64f912",
+      "en_sha256": "440b896b4e83f1dd45e66d18bfca04336a6016c5367eb44b209cc83fe42f334b",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] [Combustion] 8 Podpalenia<style=\"highlight\"></style>",
+      "kr_sha256": "4066078edb32d31a4cd114bdb0cfb9cf125dbed67ff9a0c8229808df88e12c28",
+      "en_sha256": "d140de506434a85c5c8f5a9ee623433502d8cc66cc80b6330a30d7684085a110",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli to trafienie główne, następnej tury nakłada (1 + (Rezonans Gniewu / 3)) [BirdCage] na główny cel (maks. 3, zaokrąglone w dół)<style=\"highlight\"></style>",
+      "kr_sha256": "1c9a23822a63a9104ef8bdfa6157fa6a695d4f3e168bbca77b91c29cfa7b8733",
+      "en_sha256": "599e416dbf4b79b81bcab9c6cf66b26ab3c4d9f53dc4bc063b9e107f61c40942",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Wagi Ataku (maks. 3, zaokrąglone w dół)\n[EndSkill] odzyskuje HP równe <style=\"highlight\">20</style>% Maks. HP dla (1 + najwyższy Rezonans) sojuszników z najniższym aktualnym procentem HP (maks. 3 sojuszników)\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "f3032bf47567363ab488aaf9a08950e46424f31b0a7a5d73d0f71a502c37f5be",
+      "en_sha256": "98d74cd1a341117d220f8ce0fe42e33e3885b6e3a5092f211f97910955ddb5e0",
+      "origin": "ai"
+    },
+    "dataList[id=2090811].levelList[level=4].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].abName": {
+      "pl": "Płonąca Księżna",
+      "kr_sha256": "519e337146a5fce5597d8184dd719dd42bb0f5f323df592c75c922de4d64f912",
+      "en_sha256": "440b896b4e83f1dd45e66d18bfca04336a6016c5367eb44b209cc83fe42f334b",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] [Combustion] 6 Podpalenia",
+      "kr_sha256": "ae41a91b17aca3d97a5e7acde99089f5925e8ef0a2df21c57296526e5d427926",
+      "en_sha256": "8358e9f24129c7127b59d9b15abbb0c575759e2ad826fcea2bd731fb8f8fe573",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] jeżeli to trafienie główne, nakłada (1 + Rezonans Gniewu) [BirdCage] na główny cel (maks. 3)",
+      "kr_sha256": "1b4d1ad61d2be9ed18b0d1baa892b7c9d399c91cd080550cd46cd8033bcac6b6",
+      "en_sha256": "4a8175057dfa3d8d5437ec48c858cb06613af136f68c3f9e16151baed99edaf6",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "zadaje +1% obrażeń głównemu celowi za każde 1 Siły [Combustion] głównego celu (maks. 50%)",
+      "kr_sha256": "36aaa1ad21ac0625aa0b64e0eabcbbada47c11a8d39c9f95b82b986b4cba4d20",
+      "en_sha256": "9d2b66d8bb98ba4b1867a9dcc50b216653ae3a1200730b6f9fee5925f69c4a28",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[EnemyKill] nakłada 1 [CrimsonResultUp] i 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) sojuszników z najniższym aktualnym procentem HP (maks. 4 sojuszników, 1 raz na Umiejętność)",
+      "kr_sha256": "45686793c56159c02db5cd14d14d0ee16d9b92c76080cb50b08f66bb9a310a91",
+      "en_sha256": "40b723f75c17dd787b2b350e94fe7673aaaf9e3cfdac47cf1db537d348c85c14",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Wagi Ataku (maks. 3, zaokrąglone w dół)",
+      "kr_sha256": "ec3d84425f360dd25542c1ca8cca0dba90645312a3d130347fc605d290d74936",
+      "en_sha256": "292591031031374fbba239a23ad6f5f7e21204eb772094a2d532d7acb2b0df62",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=1].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].abName": {
+      "pl": "Płonąca Księżna",
+      "kr_sha256": "519e337146a5fce5597d8184dd719dd42bb0f5f323df592c75c922de4d64f912",
+      "en_sha256": "440b896b4e83f1dd45e66d18bfca04336a6016c5367eb44b209cc83fe42f334b",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] [Combustion] <style=\"highlight\">8</style> Podpalenia",
+      "kr_sha256": "f5b583b11873924f988df1bb5222e91c2b3281500e888b456ef29544f3737864",
+      "en_sha256": "12dd153ff8feb9805c5787bf28e2b38344f7cecd09bb947cb5075fae055b3a63",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] jeżeli to trafienie główne, nakłada (1 + Rezonans Gniewu) [BirdCage] na główny cel (maks. <style=\"highlight\">4</style>)",
+      "kr_sha256": "f342c7783b269e28140870f5493bdc11f56350afa24b27c9e3b2fc68b0475818",
+      "en_sha256": "bd70d72deee8b3a6ae53407d918ab28a15a670e64749948a52332d906c625fab",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "zadaje +1% obrażeń głównemu celowi za każde 1 Siły [Combustion] głównego celu (maks. 50%)",
+      "kr_sha256": "36aaa1ad21ac0625aa0b64e0eabcbbada47c11a8d39c9f95b82b986b4cba4d20",
+      "en_sha256": "9d2b66d8bb98ba4b1867a9dcc50b216653ae3a1200730b6f9fee5925f69c4a28",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Wagi Ataku (maks. 3, zaokrąglone w dół)",
+      "kr_sha256": "ec3d84425f360dd25542c1ca8cca0dba90645312a3d130347fc605d290d74936",
+      "en_sha256": "292591031031374fbba239a23ad6f5f7e21204eb772094a2d532d7acb2b0df62",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=3].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].abName": {
+      "pl": "Płonąca Księżna",
+      "kr_sha256": "519e337146a5fce5597d8184dd719dd42bb0f5f323df592c75c922de4d64f912",
+      "en_sha256": "440b896b4e83f1dd45e66d18bfca04336a6016c5367eb44b209cc83fe42f334b",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Wagi Ataku (maks. 3, zaokrąglone w dół)",
+      "kr_sha256": "ec3d84425f360dd25542c1ca8cca0dba90645312a3d130347fc605d290d74936",
+      "en_sha256": "292591031031374fbba239a23ad6f5f7e21204eb772094a2d532d7acb2b0df62",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    }
+  }
+}

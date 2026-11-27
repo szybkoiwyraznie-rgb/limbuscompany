@@ -1,0 +1,1570 @@
+{
+  "entries": {
+    "dataList[id=2080511].levelList[level=1].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje +3 Licznika [Charge]",
+      "kr_sha256": "34b44259b86d4a7ee47f6749cc11f8dc49467b11fcbc36b8dfa082e16cb25654",
+      "en_sha256": "7efeff3e306619fbbe5646bc62d68c01497a34aad26d966680f56782a6221be4",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika Równowagi na 1 losowego sojusznika",
+      "kr_sha256": "865788f34a99e238389bc60d6246af85244a6dd6c228fe55083476a09f70187f",
+      "en_sha256": "14eb272dbd67a5e6c05969370dd03369892390f12fb38c86c429356e38b5983d",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=1].desc": {
+      "pl": "[EndSkill] odzyskuje 15 SP dla 4 sojuszników z najniższym SP",
+      "kr_sha256": "26374bd60b2772283b0782223aec0bc294f39c97b5efcbed540dca7e94e9b9b4",
+      "en_sha256": "2e0c40e53211cf59914c00030d88a9f391f34091fdd2076e657dae8089501e31",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=1].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=3].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje +4 Licznika Ładowania",
+      "kr_sha256": "d63ecff1758ca1c028fea1bf57f54b5b2684f687507d87dcfd01e6ceafbcb9c2",
+      "en_sha256": "e87cce68fcb676cc3fc69ec3926c198597ed4efcf9af4395124f143ee96a8c99",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika Równowagi na 1 losowego sojusznika",
+      "kr_sha256": "865788f34a99e238389bc60d6246af85244a6dd6c228fe55083476a09f70187f",
+      "en_sha256": "14eb272dbd67a5e6c05969370dd03369892390f12fb38c86c429356e38b5983d",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EndSkillHead] nakłada 1 [PenetrateResultUp] i 1 [AttackDmgUp] na 4 sojuszników z najwyższym SP",
+      "kr_sha256": "897e59a3cb17f0631d734d4bc8e1b2edc365a9e753ebe8f894b9250fd765d37f",
+      "en_sha256": "c0eb0a70990fd7648eddea7920f428fbc6fcb0fcd943bad665e751c0da8b09c7",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=3].desc": {
+      "pl": "[EndSkill] odzyskuje 20 SP dla 4 sojuszników z najniższym SP",
+      "kr_sha256": "004bc6d2a83f5792bedaabf9c5c3c1390559be40a5735154e74951fab09bb99c",
+      "en_sha256": "6507303f12ea9c069245de2722b99d99207497e3adb2f8e76426dbfeca5ef1e5",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=3].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=4].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +6 Licznika [Charge]",
+      "kr_sha256": "5cc52e82bcbb119f0c3f60272dc2cb513a9ccc6a9a06cc0ac6e3ed8af828e5e1",
+      "en_sha256": "3c422e37d4e174c73c8d35ba50c8c31717c61030a64d507bc0f3d2b5245acd03",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika Równowagi na 1 losowego sojusznika",
+      "kr_sha256": "63d99bda3dc7a81df239af12c99ea0babbee48d18eb5066945113e3ee28d5041",
+      "en_sha256": "5896a78a769408d3b83b85c33b9c661140ef1c3c52765ac2c55042eee1c6864a",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EndSkill] nakłada 2 [PenetrateResultUp] i 2 [AttackDmgUp] na 4 sojuszników z najwyższym SP",
+      "kr_sha256": "4e9e2b032673c0427493e4651f50c2b363bc86e3a07a6e4c3d3a8f95a0096deb",
+      "en_sha256": "ddc4cc663f8f706f2199db378e743af63b7a29980e384bafe61b89f26961c814",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=4].desc": {
+      "pl": "[EndSkill] odzyskuje 25 SP dla 4 sojuszników z najniższym SP",
+      "kr_sha256": "973d57bd1f6e50a62f17397285510c0dffd2362278a8bf1f5f9f5e31250bd753",
+      "en_sha256": "6c3225317060142515c929247bdd511539c48025ca3a9c0cfc8db88350057932",
+      "origin": "ai"
+    },
+    "dataList[id=2080511].levelList[level=4].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=1].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Równowagi i +1 Licznika Równowagi",
+      "kr_sha256": "2b0d9f1e01956f9bf229990671f4c4c32f8e2471768bd3e3dfb5b584ec248758",
+      "en_sha256": "7cbc9e4a19948a6db44c3cf63517d83ed152b1bb9e4e972b9e1f478c0d90796e",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Kruchości Pychy w tej i następnej turze",
+      "kr_sha256": "1e9324d124dd7ca08dd7bc9a8071bcd1285e47acf2d32d00be0d5045a4b28b73",
+      "en_sha256": "7963414b9d8d60a79bb376a2efed50cc8edc59c0d49eaad0aa497f8bdc110cec",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=1].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] odzyskuje HP równe 3% Maks. HP",
+      "kr_sha256": "166d2b4eda25a7ee91cf2d89998cea7f88f45220a1cb3d7278d8500d71c8aa7e",
+      "en_sha256": "f775dc296ea90ae69e1ea0e7c7e60d7fdfea52c77ccf1715e24f2d0c75888792",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Równowagi i +1 Licznika Równowagi",
+      "kr_sha256": "2b0d9f1e01956f9bf229990671f4c4c32f8e2471768bd3e3dfb5b584ec248758",
+      "en_sha256": "7cbc9e4a19948a6db44c3cf63517d83ed152b1bb9e4e972b9e1f478c0d90796e",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Kruchości Pychy w tej i następnej turze",
+      "kr_sha256": "1e9324d124dd7ca08dd7bc9a8071bcd1285e47acf2d32d00be0d5045a4b28b73",
+      "en_sha256": "7963414b9d8d60a79bb376a2efed50cc8edc59c0d49eaad0aa497f8bdc110cec",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[EndSkillTail] nakłada 2 zwiększenia zadawanych obrażeń w tej i następnej turze na 4 sojuszników z najniższym SP",
+      "kr_sha256": "d538e1b64dd78781b65e65cf8447fb4fa38ae3ab95b4a9007aa945b7428a4972",
+      "en_sha256": "3b021e258a2c9fd97585d02a6e9daee0182518517de525b15172747e788c53e5",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=3].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe 3% Maks. HP",
+      "kr_sha256": "876cb2839c022ae76c5fd7d2ced45c696e385e9358ee8fa016246cc1b91f3a93",
+      "en_sha256": "ca05824e13ecbc1e9f7fb4c2841bbaa9ea3dd8d53c2b9feaea4f3758574831aa",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Równowagi i +1 Licznika Równowagi",
+      "kr_sha256": "2b0d9f1e01956f9bf229990671f4c4c32f8e2471768bd3e3dfb5b584ec248758",
+      "en_sha256": "7cbc9e4a19948a6db44c3cf63517d83ed152b1bb9e4e972b9e1f478c0d90796e",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Kruchości Pychy w tej i następnej turze",
+      "kr_sha256": "ec030c9fa53b5c82a0c032b8e29134c961dd4cb9b4159cbac2565cdeb2983c33",
+      "en_sha256": "c1163ca1422c6cf9234c40512a620b11cc1819a1a6b6dcc3ea3bc357896bf59c",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[EndSkill] nakłada 2 zwiększenia zadawanych obrażeń w tej i następnej turze na 4 sojuszników z najniższym SP",
+      "kr_sha256": "ba60ebc002ca3e96c556a2cf4b7d7f054017c4dcb94d9f9dbf5770ba2648e21f",
+      "en_sha256": "357887d8f92a77a7746d9649d6cb8f2a2abc30208ef45882ad1ea3b849d19181",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2080521].levelList[level=4].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].abName": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe 15% Maks. HP",
+      "kr_sha256": "ee9b501916856c3fb499f49ce58fbe8d0f9c805acb9cec2e78dd94df3c2298da",
+      "en_sha256": "85cdb4f73685d2e2e4dc49184f4d68e76eda9e55e5d820fc74224c75d145e79d",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] traci 1~2 SP",
+      "kr_sha256": "f83a04b3e05187c074e57411aecfed1de039ecb61438253a844f84890015e976",
+      "en_sha256": "f2aaf4bdc5469e3fae23067291c136643aca1d55f7a0dbbf5e1284972102c16d",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] używa tej Monety ponownie (maks. 5 razy na Umiejętność)",
+      "kr_sha256": "40d286cee6b7dcb606cb976d2c720528cc32d967c0096950b2e443f4e651f54a",
+      "en_sha256": "f3b6a7fb96653eb19e6265376885bbce5e87daf05c0a14d44075b3fb5c4cf729",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe 4~8% zadanych obrażeń",
+      "kr_sha256": "8ff9695a0effe65e83bbd042cf64c56d8a75544e13998c03d7d69ef822051209",
+      "en_sha256": "2d262704e4b817433906568bddf7b4d0ab2003f69c66b44dd38f2a3e6bf4d035",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ShamrockTakeDamageUp]",
+      "kr_sha256": "a0e8a1bb9b472c3dee90ad336295f4fb9a4e805a30b1e6ad8a965f560d68fb50",
+      "en_sha256": "d7ed1f5e9a4564a67619a466fe325c209677edc54024e2962f78894a01776fb0",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].coinlist[#1].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1~3 [Laceration]",
+      "kr_sha256": "1d5147e51947215c9c5bd262606ffe408415f9091eada47615fee0904f94578b",
+      "en_sha256": "177930fda212e236b930d1fbf6dcbb8125a8cec6d5ef370ab35c019a5534662f",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=1].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].abName": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe <style=\"highlight\">18%</style> Maks. HP",
+      "kr_sha256": "01a7e22f317b1b8c63dcdffa2706a40d04dc484091befe7533b2d096b37a1235",
+      "en_sha256": "f76da66852ce0e897166cb8c6345d5d255ac2ab6f3df09922fd7170533e01f7d",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] traci 1~2 SP",
+      "kr_sha256": "f83a04b3e05187c074e57411aecfed1de039ecb61438253a844f84890015e976",
+      "en_sha256": "f2aaf4bdc5469e3fae23067291c136643aca1d55f7a0dbbf5e1284972102c16d",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] używa tej Monety ponownie (maks. 5 razy na Umiejętność)",
+      "kr_sha256": "40d286cee6b7dcb606cb976d2c720528cc32d967c0096950b2e443f4e651f54a",
+      "en_sha256": "f3b6a7fb96653eb19e6265376885bbce5e87daf05c0a14d44075b3fb5c4cf729",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe <style=\"highlight\">6~10</style>% zadanych obrażeń",
+      "kr_sha256": "f6fd5f539e142f2b359fb820898bd1910ba3165ec2f70f32e5bee130ae064eb3",
+      "en_sha256": "33c3bd815fbcf154a9865b9339768d9066932895ccaf331fd89fd3538fc07e73",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ShamrockTakeDamageUp]",
+      "kr_sha256": "a0e8a1bb9b472c3dee90ad336295f4fb9a4e805a30b1e6ad8a965f560d68fb50",
+      "en_sha256": "d7ed1f5e9a4564a67619a466fe325c209677edc54024e2962f78894a01776fb0",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].coinlist[#1].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1~3 [Laceration]",
+      "kr_sha256": "1d5147e51947215c9c5bd262606ffe408415f9091eada47615fee0904f94578b",
+      "en_sha256": "177930fda212e236b930d1fbf6dcbb8125a8cec6d5ef370ab35c019a5534662f",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].desc": {
+      "pl": "jeżeli leczenie z efektu tej Umiejętności przekracza Maks. HP tej jednostki, nadwyżkę leczenia kieruje zamiast tego na 1 sojusznika z najniższym procentem HP",
+      "kr_sha256": "10d6dc64807dc52cfb4806804e901e0893dc7b0d6eb5c957e76b7e31ee15541a",
+      "en_sha256": "0e254db97c2852ecd6cdfe5c5c9c3921b4685cab1c127b7709f1cddb08509ddd",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=3].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].abName": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe <style=\"highlight\">20</style>% Maks. HP",
+      "kr_sha256": "2ea2328de526e0248e9779b1ac2c00d853dfdc0955d4066a7cf94c2482017b78",
+      "en_sha256": "c331b8cff099d29e2a6db121409c11a845957d01dfe495a0b4fcb2ccdb4e625b",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] traci 1~2 SP",
+      "kr_sha256": "f83a04b3e05187c074e57411aecfed1de039ecb61438253a844f84890015e976",
+      "en_sha256": "f2aaf4bdc5469e3fae23067291c136643aca1d55f7a0dbbf5e1284972102c16d",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] używa tej Monety ponownie (maks. 5 razy na Umiejętność)",
+      "kr_sha256": "40d286cee6b7dcb606cb976d2c720528cc32d967c0096950b2e443f4e651f54a",
+      "en_sha256": "f3b6a7fb96653eb19e6265376885bbce5e87daf05c0a14d44075b3fb5c4cf729",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] odzyskuje HP równe <style=\"highlight\">8~12</style>% zadanych obrażeń",
+      "kr_sha256": "68e7e38004fffb3ff3e002653ae996293734e70a84fd2b93aff6980be87fa9b1",
+      "en_sha256": "fe4fb82c50909f573f6100dc1edf325d805da1d0c9b076e105296d96ee347d6d",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ShamrockTakeDamageUp]",
+      "kr_sha256": "a0e8a1bb9b472c3dee90ad336295f4fb9a4e805a30b1e6ad8a965f560d68fb50",
+      "en_sha256": "d7ed1f5e9a4564a67619a466fe325c209677edc54024e2962f78894a01776fb0",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].coinlist[#1].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1~<style=\"highlight\">4</style> [Laceration]",
+      "kr_sha256": "05e3562ffe1dd814b1516f17642462046cc291f746e2ae490bbcc6460d82326b",
+      "en_sha256": "106057bdc62a026ef3fde49f4833900327d928a517e77c7339054894c9190166",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].desc": {
+      "pl": "jeżeli leczenie z efektu tej Umiejętności przekracza Maks. HP tej jednostki, nadwyżkę leczenia kieruje zamiast tego na 1 sojusznika z najniższym procentem HP",
+      "kr_sha256": "10d6dc64807dc52cfb4806804e901e0893dc7b0d6eb5c957e76b7e31ee15541a",
+      "en_sha256": "0e254db97c2852ecd6cdfe5c5c9c3921b4685cab1c127b7709f1cddb08509ddd",
+      "origin": "ai"
+    },
+    "dataList[id=2080611].levelList[level=4].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=1].abName": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] odzyskuje HP równe 10% zadanych obrażeń",
+      "kr_sha256": "b4cdd5abbde879589ab23d5eba0aaf22001c63a753d60ced0f360535a56d8c0d",
+      "en_sha256": "22d8163e9ee145e2b1979bb29e1d0263ed469f66ffa81bdaec6e8b4ba98c7dc0",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 1~4 [Laceration]",
+      "kr_sha256": "4320449126f4e0056145a25f21a5a05f2dcd8d47af834eb0c0267abb7528e085",
+      "en_sha256": "2a8ba59bae408a11de3ca95133d8f83fce8fceaccb96ccf2f883acc90bad822a",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP Rdzenia\n[BeforeAttack] zadaje obrażenia HP równe 5% Maks. HP maks. 5 losowym innym sojusznikom.\n- odzyskuje HP równe sumie obrażeń zadanych sojusznikom.\n- jeżeli zadała obrażenia sojusznikom, w tej turze zyskuje 2 [Enhancement], a następnej tury 2 [Agility].\n(uruchamia się 1 raz na turę. zadane obrażenia wliczają obrażenia Tarczy. ten efekt może pokonać sojuszników.)",
+      "kr_sha256": "bb8aa8c8bc61b23095f8c1db10cf8b63f139b1576c06a1871f3578ee6ed54b72",
+      "en_sha256": "cb5c0811db95899a285f994c87ee9e8cd70ad33ce1174f1ac00030652f4fa553",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=1].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=3].abName": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] odzyskuje HP równe <style=\"highlight\">15</style>% zadanych obrażeń",
+      "kr_sha256": "e8aa3b9fc01d2201215cec945d46c8ed99a82ae5a0b04d1d0483ff634f53c44f",
+      "en_sha256": "0a19397b85b8ba9b1d9927aef16cb90bd677e97593e3303abdbd3991513fd423",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada <style=\"highlight\">2~5</style> [Laceration]",
+      "kr_sha256": "446e8515cf20d5c0e0fddb989edbebb558700b461a8522800bbf121afab7fc2c",
+      "en_sha256": "57b0736893b5c5bf8d786113e0a2c7ee65a896a6c5c857e36ab9b073aabc949f",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP Rdzenia\n<style=\"highlight\">[BeforeAttack] zyskuje (najwyższy Rezonans -2) Wagi Ataku (maks. 1)</style>\n[BeforeAttack] zadaje obrażenia HP równe 5% Maks. HP maks. 5 losowym innym sojusznikom.\n- odzyskuje HP równe sumie obrażeń zadanych sojusznikom.\n- jeżeli zadała obrażenia sojusznikom, w tej turze zyskuje 2 [Enhancement], a następnej tury 2 [Agility].\n(uruchamia się 1 raz na turę. zadane obrażenia wliczają obrażenia Tarczy. ten efekt może pokonać sojuszników.)\n<style=\"highlight\">[EndSkill] jeżeli leczenie z efektu tej Umiejętności przekracza Maks. HP tej jednostki, następnej tury zyskuje ((nadwyżka leczenia / Maks. HP tej jednostki) x 10) [AttackUp]. (maks. 3 na turę)</style>",
+      "kr_sha256": "2da9ab021100e91823f4d7eb557b993812ed510ac5e9a49311c9666f5872b34f",
+      "en_sha256": "da1f0215644762e8a183603836ee760a40a835156433d6f741c0a0e0a26fd843",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=3].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=4].abName": {
+      "pl": "Święto Wróżek",
+      "kr_sha256": "56bdf289170df46bf44e1b94ef01efae18b15819b1da5ec720e868afbbc3740e",
+      "en_sha256": "0d84296073c7e087b0a072963db09eee9c6e6d7c6435ca8512961dc916ee3278",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] odzyskuje HP równe <style=\"highlight\">20</style>% zadanych obrażeń",
+      "kr_sha256": "ee6617d58d8ab2dc6ed871aaa27d0646f88db62d1bd291985e246016e424b9cc",
+      "en_sha256": "f07ad891cd1178c572ab2cb0d93ad8fafd8e1275dcad7f2be77598c5f82a506c",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada <style=\"highlight\">3~6</style> [Laceration]",
+      "kr_sha256": "f1f2f6242212d331cb24504bcd436323ea05891a8046ac41975f0b389dc9a0d2",
+      "en_sha256": "c41c64cb0d05cbd5bbeaea449c7e027a8a331853f941c94a071abe0a5025fa4b",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EnemyKill] następnej tury zyskuje 1 [Enhancement] (maks. 3)",
+      "kr_sha256": "f04c7f62d3cb7f22792d803c79baef9047687f0c2fbc3afd82525e320900481d",
+      "en_sha256": "befe62e4caf4c90fae6abe7380f10b3d65699bfeb9c05764b480277ae6b07236",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP Rdzenia\n[BeforeAttack] zyskuje (najwyższy Rezonans -2) Wagi Ataku (maks. <style=\"highlight\">2</style>)\n[BeforeAttack] zadaje obrażenia HP równe 5% Maks. HP maks. 5 losowym innym sojusznikom.\n- odzyskuje HP równe sumie obrażeń zadanych sojusznikom.\n- jeżeli zadała obrażenia sojusznikom, w tej turze zyskuje 2 [Enhancement], a następnej tury 2 [Agility].\n(uruchamia się 1 raz na turę. zadane obrażenia wliczają obrażenia Tarczy. ten efekt może pokonać sojuszników.)\n[EndSkill] jeżeli leczenie z efektu tej Umiejętności przekracza Maks. HP tej jednostki, następnej tury zyskuje ((nadwyżka leczenia / Maks. HP tej jednostki) x 10) [AttackUp]. (maks. <style=\"highlight\">6</style> na turę)",
+      "kr_sha256": "09b6980442e991599db1781f480c0329cc7fb49b4f75c67b703fde391d1dca5c",
+      "en_sha256": "57afca88231dd9df0571d77de9b5d73cf0d57ad875648ba7b021a5e8b41c6769",
+      "origin": "ai"
+    },
+    "dataList[id=2080621].levelList[level=4].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=1].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Curse]",
+      "kr_sha256": "5b3af37162648dce549c8cc3f2c5a876844fb9b81c8a15c6474defb8de4c9f12",
+      "en_sha256": "b6d0d370aea1638f4475de1b501e2867c0c71cd032346f69f05980f4eb69a1b3",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [UninvitedGuestPersonality]",
+      "kr_sha256": "bb7c6083ed4950ae624fcf9c895fa0fcf351907c87e667896978a1d3fef60a47",
+      "en_sha256": "b2493124e9d7e6ee64be2e5346162ad8285aee0ed3f74047b5910198327f73dd",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n[EndSkill] leczy 2 sojuszników z najniższym aktualnym procentem HP o (5 + (Siła [Sinking] głównego celu ataku + Licznik [Sinking] głównego celu ataku) / 3)% Maks. HP (maks. 15% leczenia)",
+      "kr_sha256": "b26761f7971bd78d0f342a6da0d78e633c94189b0d2b679dbfcd4688889cbf6a",
+      "en_sha256": "31dd3f4c74402a3968d5e2be0b3c9cc4066c101b0cc4defbc67e6e667515d0cb",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=1].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 2<style=\"highlight\"></style>",
+      "kr_sha256": "0f44fa7172b9d57841e6309a3159a66be9033a03c4e1fe170966e69440ae940b",
+      "en_sha256": "c565d076123ca036510e391e23c0caeb29b5d4e3f82393c0839a5777e9fcc333",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Curse]<style=\"highlight\"></style>",
+      "kr_sha256": "cf50ee874cf406908882b8aaf7b8f9eb0c60fae3b04ebb6dde1144ab2d489b4b",
+      "en_sha256": "90de115b16a45324a8a16688b6c90147d2e3aecd846cd8cd906e34d359b3c0ca",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] przy Rezonansie Posępności 4+ nakłada 1 [AzureTakeDamageUp]</style>",
+      "kr_sha256": "54ec6b573d3b381f802e96bba06808a1b7a808d53c7b49c9d0df79c5660a1791",
+      "en_sha256": "aa766665701544e8361011680daa74e285508dbf855bba18e0c1008cfc648869",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>",
+      "kr_sha256": "ec2ad1e3020ab56cc02fba2a6de91d4be0d3948f339414033f62983ea67e0691",
+      "en_sha256": "de7f3edc8592417a191fa831902ede82a5502d21d326152d6087c949f8e78373",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n<style=\"highlight\">- jeżeli ten Rezonans był Rezonansem Posępności, Waga Ataku +1</style>\n[EndSkill] leczy 2 sojuszników z najniższym aktualnym procentem HP o (<style=\"highlight\">10</style> + (Siła [Sinking] głównego celu ataku + Licznik [Sinking] głównego celu ataku) / 3)% Maks. HP (maks. 15% leczenia)",
+      "kr_sha256": "71097d75d13692ec5ceab5bce6775e41f418f222884621d70b415012ab0aba38",
+      "en_sha256": "3ef159e699bb5cd7567fb2f8825b9367349f04f3d1ef557ba525cceedf555b47",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=3].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] o <style=\"highlight\">3</style>",
+      "kr_sha256": "b9a679261cdaecbf9b313f8e24dd3a0cb40d1cb7d9d2966c7a52bce5120610a0",
+      "en_sha256": "df9384999dfb18cb6e9964373f4ed48dc9f51e7a16cf2d2eb41f2f9e49dffd6b",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">2</style> [Curse]",
+      "kr_sha256": "60611bf86fe9ba4f246e366e0d8c4fe6aed776ed2ed172ae5f34c283c5b6b281",
+      "en_sha256": "208ad7841d68c344731915ea5640b2893411ad343abb5a35e27894834e091d97",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Posępności 4+ nakłada 1 [AzureTakeDamageUp]<style=\"highlight\"></style>",
+      "kr_sha256": "739b24fb3285f4f6038318f7254cbec1eded090c6bc7338c3cce1795db09e0d2",
+      "en_sha256": "f8ac7d0775a671fbe6a5e5ddaa5f970a6c54983e947c693338a8978e10675260",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>",
+      "kr_sha256": "ec2ad1e3020ab56cc02fba2a6de91d4be0d3948f339414033f62983ea67e0691",
+      "en_sha256": "de7f3edc8592417a191fa831902ede82a5502d21d326152d6087c949f8e78373",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n- jeżeli ten Rezonans był Rezonansem Posępności, Waga Ataku +1\n[EndSkill] leczy 2 sojuszników z najniższym aktualnym procentem HP o (10 + (Siła [Sinking] głównego celu ataku + Licznik [Sinking] głównego celu ataku) / 3)% Maks. HP (maks. <style=\"highlight\">20</style>% leczenia)\n<style=\"highlight\">- jeżeli najwyższy Rezonans był Rezonansem Posępności 4+, leczenie rośnie o 10% Maks. HP</style>",
+      "kr_sha256": "799418a473289006ee9b701180f9bc0fdbfecf1549b9146127c4abd97515e077",
+      "en_sha256": "f7e70ff1d3434d5f29fcbb1777f3ffe938c4b5d053b1a54e04e18d6b44fe6c52",
+      "origin": "ai"
+    },
+    "dataList[id=2080711].levelList[level=4].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Curse]",
+      "kr_sha256": "5b3af37162648dce549c8cc3f2c5a876844fb9b81c8a15c6474defb8de4c9f12",
+      "en_sha256": "b6d0d370aea1638f4475de1b501e2867c0c71cd032346f69f05980f4eb69a1b3",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Posępności 3+ nakłada 1 [AzureTakeDamageUp]",
+      "kr_sha256": "b07f566f31c0a614bd53340c4d4f5bb179d73f3609870efc0d63c45a664ad260",
+      "en_sha256": "99a155c0c51fe5ddb54aaa270e6e8a8467ee6d91e97f4f3f4714521549cb4249",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [UninvitedGuestPersonality]",
+      "kr_sha256": "bb7c6083ed4950ae624fcf9c895fa0fcf351907c87e667896978a1d3fef60a47",
+      "en_sha256": "b2493124e9d7e6ee64be2e5346162ad8285aee0ed3f74047b5910198327f73dd",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cel z najwyższą wartością [Sinking]\n[BeforeAttack] traci HP równe 10% Maks. HP (ten efekt nie powoduje Oszołomienia)\n[EndSkill] leczy 3 innych sojuszników z najniższym aktualnym procentem HP o (5 + (Siła [Sinking] głównego celu ataku + Licznik [Sinking] głównego celu ataku) / 3)% Maks. HP (maks. 10% leczenia)\n- przy najwyższym Rezonansie 4+ liczba leczonych sojuszników +1",
+      "kr_sha256": "0d64341f29273c0737332358b28db1609f6a119d8d883d0d04633912f7be97be",
+      "en_sha256": "7d5013e9f7ac62ede5f5f346d786c62ca71f4f451229c253d52a038d8b407188",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=1].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "153f805b96d2a1b4a80f9d5a703b833218862b984be80576a1be04fdfbe138b1",
+      "en_sha256": "7403bcfc3fff4da7ea1faf3377f9ec114cb10f47a76191bf234d681cd47f3fb1",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]",
+      "kr_sha256": "eecb6f1ff88128298b0fa169cee68a1663448960ab8438a9f43e73af8892ec15",
+      "en_sha256": "b6c36d4b1855dca49b13562282820fa9028b22a0b6e0425108b1b86ecc291df9",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Posępności 3+ nakłada 1 [AzureTakeDamageUp]",
+      "kr_sha256": "b07f566f31c0a614bd53340c4d4f5bb179d73f3609870efc0d63c45a664ad260",
+      "en_sha256": "99a155c0c51fe5ddb54aaa270e6e8a8467ee6d91e97f4f3f4714521549cb4249",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [UninvitedGuestPersonality]",
+      "kr_sha256": "bb7c6083ed4950ae624fcf9c895fa0fcf351907c87e667896978a1d3fef60a47",
+      "en_sha256": "b2493124e9d7e6ee64be2e5346162ad8285aee0ed3f74047b5910198327f73dd",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 2 [EchoOfMansion]",
+      "kr_sha256": "e0dd79e33e11df164f9c7cd3de855a010b12229199fe0c2cca1003e7fab90753",
+      "en_sha256": "0a820cdf3d27af4c0d3d32abb5cb3444b9cc9583679b30f940dd5dda67f7cba0",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cel z najwyższą wartością [Sinking]\n[BeforeAttack] traci HP równe 10% Maks. HP (ten efekt nie powoduje Oszołomienia)\n[EndSkill] leczy 3 innych sojuszników z najniższym aktualnym procentem HP o (<style=\"highlight\">10</style> + (Siła [Sinking] głównego celu ataku + Licznik [Sinking] głównego celu ataku) / 3)% Maks. HP (maks. <style=\"highlight\">15</style>% leczenia)\n- przy najwyższym Rezonansie 4+ liczba leczonych sojuszników +1",
+      "kr_sha256": "0339ef048defc1f116cb7cf10205ef61cf0026e082051ed76778a718e11c7573",
+      "en_sha256": "4015185089c805307e2eaca5761f046998b9c4644bea20b578f9260995d6cde7",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=3].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] o <style=\"highlight\">3</style>",
+      "kr_sha256": "b9a679261cdaecbf9b313f8e24dd3a0cb40d1cb7d9d2966c7a52bce5120610a0",
+      "en_sha256": "df9384999dfb18cb6e9964373f4ed48dc9f51e7a16cf2d2eb41f2f9e49dffd6b",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]",
+      "kr_sha256": "eecb6f1ff88128298b0fa169cee68a1663448960ab8438a9f43e73af8892ec15",
+      "en_sha256": "b6c36d4b1855dca49b13562282820fa9028b22a0b6e0425108b1b86ecc291df9",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] <style=\"highlight\">za każde 3</style> Rezonansu Posępności nakłada 1 [AzureTakeDamageUp] <style=\"highlight\">(maks. 2)</style>",
+      "kr_sha256": "2f944c039a0678e1da610ca0656ed64e00518a74ec287179439ad7b82bfb5e56",
+      "en_sha256": "a645d740e488fea1c4f356c8cba4b2d811a2729758f859d45b4dbf888e13c911",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [UninvitedGuestPersonality]",
+      "kr_sha256": "bb7c6083ed4950ae624fcf9c895fa0fcf351907c87e667896978a1d3fef60a47",
+      "en_sha256": "b2493124e9d7e6ee64be2e5346162ad8285aee0ed3f74047b5910198327f73dd",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 2 [EchoOfMansion]",
+      "kr_sha256": "e0dd79e33e11df164f9c7cd3de855a010b12229199fe0c2cca1003e7fab90753",
+      "en_sha256": "0a820cdf3d27af4c0d3d32abb5cb3444b9cc9583679b30f940dd5dda67f7cba0",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cel z najwyższą wartością [Sinking]\n[BeforeAttack] traci HP równe 10% Maks. HP (ten efekt nie powoduje Oszołomienia)\n[EndSkill] leczy 3 innych sojuszników z najniższym aktualnym procentem HP o (10 + (Siła [Sinking] głównego celu ataku + Licznik [Sinking] głównego celu ataku) / 3)% Maks. HP (maks. 15% leczenia)\n- przy najwyższym Rezonansie 4+ liczba leczonych sojuszników +1\n<style=\"highlight\">- jeżeli ten Rezonans był Rezonansem Posępności, leczenie rośnie dodatkowo o 5% Maks. HP</style>",
+      "kr_sha256": "5dffa2b410e36cd757395c36cbfdf924626b9344b58c9f33eda3ce1d2bfb83fa",
+      "en_sha256": "6bbd95cf30570ac53bf1a7da807257e14aeea949bd8493322dc8aa84f686a3f2",
+      "origin": "ai"
+    },
+    "dataList[id=2080721].levelList[level=4].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=1].abName": {
+      "pl": "Przytulne Łóżko",
+      "kr_sha256": "575d777e7124c9594a30fad619d237efeac4a3dfd4f3e8d6b6607a2656521ee4",
+      "en_sha256": "8b014c5471eec9e0d64548ebfbe90e57f9c46001cdca6fd3c321a05d01b5caab",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +5 Licznika [Vibration]",
+      "kr_sha256": "e610b952ccc1658fede58bd3d57b37b51f5f9e5d387f3a4ac1bab828356e9a06",
+      "en_sha256": "f34eca6972826ef7c975e2b0cb0f89fa6694f4f128ff038fe4fff44774338839",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższy Rezonans + 5) Licznika [Vibration] (maks. 10)\n[EndSkill] jeżeli wśród celów ataku są jednostki Oszołomione, z Niskim Moral lub w Panice, odzyskuje 10 SP",
+      "kr_sha256": "40881ac38b79b8fd5783181fdeae754ddf385146af825fe1fa4be2b20790457c",
+      "en_sha256": "7af9189fafebdb7da49c3af6241d13c40540bfc909bf3b05818b3e72719ab7d2",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=1].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].abName": {
+      "pl": "Przytulne Łóżko",
+      "kr_sha256": "575d777e7124c9594a30fad619d237efeac4a3dfd4f3e8d6b6607a2656521ee4",
+      "en_sha256": "8b014c5471eec9e0d64548ebfbe90e57f9c46001cdca6fd3c321a05d01b5caab",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +5 Licznika [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "d62cb5802b583f8500a3bd5df4403314acd6a9d2da03756b4e0f8f9eee919242",
+      "en_sha256": "118d9e985ed83edda394febd332a7e21db71b3b4f3307c76d260ac009096f6b1",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, nakłada 5 [Sinking]",
+      "kr_sha256": "af6e2106d5f771829094757196e43b4b5ce7520c763ba1441ec8d2352543a872",
+      "en_sha256": "436ca17e2904605571f3dea099fe8b4513ff5f003be458cef2fe7fb95bcf972f",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 2",
+      "kr_sha256": "d99edaa9e800ff158508e96903cfcc302de5d7a7ee15a296cd5a19185ed1c2a0",
+      "en_sha256": "8dd18509696085a27c1d7e05df6f30b66e85704a67a0b06f65a0a6ed75f89475",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">jeżeli SP celu jest niższy niż 0, zadaje +1% obrażeń za każdy 1 punktu SP poniżej 0 (maks. 45%)</style>\n[BeforeAttack] zyskuje (najwyższy Rezonans + 5) Licznika [Vibration] (maks. 10)\n[EndSkill] jeżeli wśród celów ataku są jednostki Oszołomione, z Niskim Moral lub w Panice, odzyskuje 10 SP",
+      "kr_sha256": "a591b78aa71e9dd6666e743c019e29ffcd0541b19353c0cd6e791b1359b65de7",
+      "en_sha256": "c040fb309b537f31c6c3680bde97ec1155fa58fe174e40e72854e06956e265ac",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=3].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].abName": {
+      "pl": "Przytulne Łóżko",
+      "kr_sha256": "575d777e7124c9594a30fad619d237efeac4a3dfd4f3e8d6b6607a2656521ee4",
+      "en_sha256": "8b014c5471eec9e0d64548ebfbe90e57f9c46001cdca6fd3c321a05d01b5caab",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +5 Licznika [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "d62cb5802b583f8500a3bd5df4403314acd6a9d2da03756b4e0f8f9eee919242",
+      "en_sha256": "118d9e985ed83edda394febd332a7e21db71b3b4f3307c76d260ac009096f6b1",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, nakłada 5 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "9b36042b4ebb385960c8bdd50cacb95d2c3abb510b2c0287c3a61313611d5ec4",
+      "en_sha256": "04fa860a96ff8e9270fa352e79e98a46af0e6f708aa47012947e98f65cca3995",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, wyzwala [VibrationExplosion] <style=\"highlight\">2 razy.</style> po czym zmniejsza Licznik [Vibration] celu o 2",
+      "kr_sha256": "15d0a3f4bbd6194cf68a3fcf093cd480ff2426ed60e2ea2153f3b87b0ca652a8",
+      "en_sha256": "f35ba68d8b9c60608fd3e8ca003787dd7205948e5d10053224b5d96643f7697c",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].desc": {
+      "pl": "jeżeli SP celu jest niższy niż 0, zadaje +1% obrażeń za każdy 1 punktu SP poniżej 0 (maks. 45%)\n[BeforeAttack] zyskuje (najwyższy Rezonans + 5) Licznika [Vibration] (maks. 10)\n[EndSkill] jeżeli wśród celów ataku są jednostki Oszołomione, z Niskim Moral lub w Panice, odzyskuje 10 SP<style=\"highlight\"></style>",
+      "kr_sha256": "d6c42702dee00bc68d4b2fa646a9ea80c5a12f3fed71dddc6a97e13148276982",
+      "en_sha256": "97681ab7d1383f581ab8e6067144525f47ad80ecc4adcfd5b32abc216ad1393e",
+      "origin": "ai"
+    },
+    "dataList[id=2080811].levelList[level=4].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=1].abName": {
+      "pl": "Przytulne Łóżko",
+      "kr_sha256": "575d777e7124c9594a30fad619d237efeac4a3dfd4f3e8d6b6607a2656521ee4",
+      "en_sha256": "8b014c5471eec9e0d64548ebfbe90e57f9c46001cdca6fd3c321a05d01b5caab",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +5 Licznika [Vibration]",
+      "kr_sha256": "e610b952ccc1658fede58bd3d57b37b51f5f9e5d387f3a4ac1bab828356e9a06",
+      "en_sha256": "f34eca6972826ef7c975e2b0cb0f89fa6694f4f128ff038fe4fff44774338839",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (najwyższy Rezonans + 5) Licznika [Vibration] (maks. 10)\n[BeforeAttack] odzyskuje 10 HP",
+      "kr_sha256": "356ce38f2811607e94768978063abbbebefc99a8b73072aaebee10d84cbd2b77",
+      "en_sha256": "0ce2705a68004ba261e6281e5162eeac864e9adc317c70194e5f217d7ba2ce47",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=1].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].abName": {
+      "pl": "Przytulne Łóżko",
+      "kr_sha256": "575d777e7124c9594a30fad619d237efeac4a3dfd4f3e8d6b6607a2656521ee4",
+      "en_sha256": "8b014c5471eec9e0d64548ebfbe90e57f9c46001cdca6fd3c321a05d01b5caab",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +5 Licznika [Vibration]",
+      "kr_sha256": "e610b952ccc1658fede58bd3d57b37b51f5f9e5d387f3a4ac1bab828356e9a06",
+      "en_sha256": "f34eca6972826ef7c975e2b0cb0f89fa6694f4f128ff038fe4fff44774338839",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, nakłada 5 [Sinking] i +2 Licznika [Sinking]",
+      "kr_sha256": "cb0cdebc4376ba9bb36771205282f09f27190b099cfcb1ab51a5ba73a91c4df1",
+      "en_sha256": "2ab6a34c921a2ba0a62d24339effca74536ffac1abd14d17242ffd25571010b0",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "1fcc289a42bcea0995d72cdc93647a40bf4ccc24b12b4c1875fe689e3ffa5d73",
+      "en_sha256": "ab72ecaa2315a5098ea5e93e0b2a94b166afe083d38e8898cdcfa4a1f3cf8d19",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">jeżeli główny cel ataku jest Oszołomiony, z Niskim Moral lub w Panice, Moc Bazowa +1</style>\n[BeforeAttack] zyskuje (najwyższy Rezonans + 5) Licznika [Vibration] (maks. 10)\n[BeforeAttack] odzyskuje 10 HP\n<style=\"highlight\">[EndSkill] odzyskuje 5 SP za każdego 1 wroga Oszołomionego, z Niskim Moral lub w Panice</style>",
+      "kr_sha256": "300a9070560ec55c2740eee7d3b1472710780b73170b61a8a9856d26eba0d02d",
+      "en_sha256": "d648f1ded24587494fc49e4a75a00676b7bbca3c104f91eee18f6099a858996d",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=3].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].abName": {
+      "pl": "Przytulne Łóżko",
+      "kr_sha256": "575d777e7124c9594a30fad619d237efeac4a3dfd4f3e8d6b6607a2656521ee4",
+      "en_sha256": "8b014c5471eec9e0d64548ebfbe90e57f9c46001cdca6fd3c321a05d01b5caab",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +5 Licznika [Vibration]",
+      "kr_sha256": "e610b952ccc1658fede58bd3d57b37b51f5f9e5d387f3a4ac1bab828356e9a06",
+      "en_sha256": "f34eca6972826ef7c975e2b0cb0f89fa6694f4f128ff038fe4fff44774338839",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, nakłada 5 [Sinking] i +2 Licznika [Sinking]",
+      "kr_sha256": "cb0cdebc4376ba9bb36771205282f09f27190b099cfcb1ab51a5ba73a91c4df1",
+      "en_sha256": "2ab6a34c921a2ba0a62d24339effca74536ffac1abd14d17242ffd25571010b0",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "1fcc289a42bcea0995d72cdc93647a40bf4ccc24b12b4c1875fe689e3ffa5d73",
+      "en_sha256": "ab72ecaa2315a5098ea5e93e0b2a94b166afe083d38e8898cdcfa4a1f3cf8d19",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie jest Oszołomiony, z Niskim Moral ani w Panice, wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "6c48f5453b133b6ace24b001253bccd405b6b679432569fd51c787e3847e4f31",
+      "en_sha256": "6e23cc91eb1308b4e6be1750cc1b2bec6b982ea78ed9b23888f62c8771f23541",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\njeżeli główny cel ataku jest Oszołomiony, z Niskim Moral lub w Panice, Moc Bazowa +<style=\"highlight\">2</style>\n[BeforeAttack] zyskuje (najwyższy Rezonans + 5) Licznika [Vibration] (maks. 10)\n[BeforeAttack] odzyskuje 10 HP\n[EndSkill] odzyskuje 5 SP za każdego 1 wroga Oszołomionego, z Niskim Moral lub w Panice<style=\"highlight\"></style>",
+      "kr_sha256": "554a505dd7e6981219aa0eff3f47805958d35a3f614a28e606958dcff77fc64c",
+      "en_sha256": "a9679f15aa24276dbf9a8ae3617d61908bf52b98fdf455e3ce63eeac65a74dcc",
+      "origin": "ai"
+    },
+    "dataList[id=2080821].levelList[level=4].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=1].abName": {
+      "pl": "Apostoł Stonogi",
+      "kr_sha256": "18c0b27c9115f783abc56e8fad312caa0af1d1212e0f6c937e967680733b052f",
+      "en_sha256": "6d1bbdb20c3963a61a6f2f42bec735c3e4cb777b839e253cd3837423b362d5f7",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Obżarstwa lub Posępności 4+ nakłada [CentipedePoison] równe wartości tego Rezonansu (maks. 4)",
+      "kr_sha256": "d479f104aff89fa6018170a9f3ad75fe395bb7194ba70941c0be4bb86453e85b",
+      "en_sha256": "eb128a51f84d936263fa127538feab24aadc5d0b945d4200a9d90222b75d5dbb",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=1].desc": {
+      "pl": "[EndSkill] nakłada [CentipedePoison] równe sumie LICZBY RODZAJÓW negatywnych efektów tej jednostki i głównego celu (maks. 5)",
+      "kr_sha256": "1056648df2fd3e12e60b72d82dc134607cb1b5d4624b5e4f7f71adabd346851b",
+      "en_sha256": "bf2d05f31a21f78cc6183c42fd240b4e39342f6f0febb8c978b8bd5c51ad8eb8",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=1].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=3].abName": {
+      "pl": "Apostoł Stonogi",
+      "kr_sha256": "18c0b27c9115f783abc56e8fad312caa0af1d1212e0f6c937e967680733b052f",
+      "en_sha256": "6d1bbdb20c3963a61a6f2f42bec735c3e4cb777b839e253cd3837423b362d5f7",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Obżarstwa lub Posępności 4+ nakłada [CentipedePoison] równe wartości tego Rezonansu (maks. 4)",
+      "kr_sha256": "d479f104aff89fa6018170a9f3ad75fe395bb7194ba70941c0be4bb86453e85b",
+      "en_sha256": "eb128a51f84d936263fa127538feab24aadc5d0b945d4200a9d90222b75d5dbb",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=3].desc": {
+      "pl": "[EndSkill] nakłada [CentipedePoison] równe sumie LICZBY RODZAJÓW negatywnych efektów tej jednostki i głównego celu (maks. <style=\"highlight\">8</style>)",
+      "kr_sha256": "953322fa4866a965889300cfd245f1131895820a81e4537e37dff770e64b5de1",
+      "en_sha256": "d349486f61c2936fad7677a2ade95e2241c0a93df61ac9114fef6c82e9d03cc9",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=3].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=4].abName": {
+      "pl": "Apostoł Stonogi",
+      "kr_sha256": "18c0b27c9115f783abc56e8fad312caa0af1d1212e0f6c937e967680733b052f",
+      "en_sha256": "6d1bbdb20c3963a61a6f2f42bec735c3e4cb777b839e253cd3837423b362d5f7",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Sinking]",
+      "kr_sha256": "05cf7504b43ee1f91db9b214ba8fee0c55135e38e2722adc6fd51beb56237b64",
+      "en_sha256": "ca950434c64b240c66ea60741d941fc0c52d94baa913fb2d0005e6db1a621aa9",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Burst]",
+      "kr_sha256": "b2528a893d4716438519359cd34c88a427fb331926b09a9324637d60f25fe985",
+      "en_sha256": "7ac16bb519790eb3721966f7608f115f8b9b29265fe76be9528a67ef772e0c5c",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Obżarstwa lub Posępności 4+ nakłada [CentipedePoison] równe wartości tego Rezonansu (maks. <style=\"highlight\">5</style>)",
+      "kr_sha256": "694dd8c61bb6506717554ad81983d1a4eaade82ea498b66bf8234ace003dd345",
+      "en_sha256": "c18e39c510b0d4bae9fa0528ac462450225a6ba600f9a69a6a03d5fc6f2fe655",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=4].desc": {
+      "pl": "[EndSkill] nakłada [CentipedePoison] równe sumie LICZBY RODZAJÓW negatywnych efektów tej jednostki i głównego celu (maks. <style=\"highlight\">10</style>)",
+      "kr_sha256": "92be6051a07eb268a46fb9a06b3830095af5ce9dfdee4e89c46e309f7dd8201d",
+      "en_sha256": "754c880fa4892c0c8db9c90c324ab4f72dfcf751a6305319d002cc5b58bc292c",
+      "origin": "ai"
+    },
+    "dataList[id=2080911].levelList[level=4].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=1].abName": {
+      "pl": "Apostoł Stonogi",
+      "kr_sha256": "18c0b27c9115f783abc56e8fad312caa0af1d1212e0f6c937e967680733b052f",
+      "en_sha256": "6d1bbdb20c3963a61a6f2f42bec735c3e4cb777b839e253cd3837423b362d5f7",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Obżarstwa lub Posępności 4+ nakłada [CentipedePoison] równe wartości tego Rezonansu (maks. 4)",
+      "kr_sha256": "d479f104aff89fa6018170a9f3ad75fe395bb7194ba70941c0be4bb86453e85b",
+      "en_sha256": "eb128a51f84d936263fa127538feab24aadc5d0b945d4200a9d90222b75d5dbb",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] nakłada [CentipedePoison] równe sumie LICZBY RODZAJÓW negatywnych efektów tej jednostki i głównego celu (maks. 8)",
+      "kr_sha256": "e3b0de3661d5764a86ae963af706b845e4457afac6aeb90c57b41f8282fce729",
+      "en_sha256": "80d5ab97c3577a4b3419f33ca4448e8c4c3cb2ca7eb1e81c2aaed9f83127e9c3",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=1].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=3].abName": {
+      "pl": "Apostoł Stonogi",
+      "kr_sha256": "18c0b27c9115f783abc56e8fad312caa0af1d1212e0f6c937e967680733b052f",
+      "en_sha256": "6d1bbdb20c3963a61a6f2f42bec735c3e4cb777b839e253cd3837423b362d5f7",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Obżarstwa lub Posępności 4+ nakłada [CentipedePoison] równe wartości tego Rezonansu (maks. 4)",
+      "kr_sha256": "d479f104aff89fa6018170a9f3ad75fe395bb7194ba70941c0be4bb86453e85b",
+      "en_sha256": "eb128a51f84d936263fa127538feab24aadc5d0b945d4200a9d90222b75d5dbb",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] nakłada [CentipedePoison] równe sumie LICZBY RODZAJÓW negatywnych efektów tej jednostki i głównego celu (maks. <style=\"highlight\">10</style>)",
+      "kr_sha256": "48e751fb05f7fa06144b8b673c669385807ad23785c02675fdab67b2b0bfabf0",
+      "en_sha256": "9f328f71e9c8b280d9ce3f9a794758008e6130f5c0e1d6410e1d4cb2ba0e4dbc",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=3].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=4].abName": {
+      "pl": "Apostoł Stonogi",
+      "kr_sha256": "18c0b27c9115f783abc56e8fad312caa0af1d1212e0f6c937e967680733b052f",
+      "en_sha256": "6d1bbdb20c3963a61a6f2f42bec735c3e4cb777b839e253cd3837423b362d5f7",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Sinking]",
+      "kr_sha256": "04c06db311ef6c4ba54548e95f1b4060c038b8f56b53ae61e4b3c24f90292684",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy Rezonansie Obżarstwa lub Posępności 4+ nakłada [CentipedePoison] równe wartości tego Rezonansu (maks. <style=\"highlight\">5</style>)",
+      "kr_sha256": "694dd8c61bb6506717554ad81983d1a4eaade82ea498b66bf8234ace003dd345",
+      "en_sha256": "c18e39c510b0d4bae9fa0528ac462450225a6ba600f9a69a6a03d5fc6f2fe655",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] nakłada [CentipedePoison] równe sumie LICZBY RODZAJÓW negatywnych efektów tej jednostki i głównego celu (maks. 10<style=\"highlight\"></style>)",
+      "kr_sha256": "00468fe131419cd905de1f89ee0d29becfbfcf101066041ea71861bc67c2ca15",
+      "en_sha256": "23129c4b94d373638531c5f4eebf87e505ff1c3a5280c9a1c5b78e4e4f79b408",
+      "origin": "ai"
+    },
+    "dataList[id=2080921].levelList[level=4].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].abName": {
+      "pl": "Skadi",
+      "kr_sha256": "c86f95324825aabc8a24f3340e54309bba9aed85fb9603bdeed2bfbc076635de",
+      "en_sha256": "0789e22c34781456e159289c667f02db34998102d9925d2aa29d85ad56e1766f",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "db4c17ca433d4914ff21b0b602a19dbed9bcf1903e96de2f4501943c4d5796e7",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Binding] następnej tury",
+      "kr_sha256": "13da5281f2e36aded6a7cde9e761774bbc72b582fec7c24d2db622f1ab39887e",
+      "en_sha256": "feb6a9714504a53ab5cdb1f9c663396be368a132718a3544d46e38c19e44256b",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli wśród celów ataku są jednostki Oszołomione, ze Zniszczoną Częścią lub pokonane, nakłada 2 [Sinking] na 1 losowego wroga, który nie jest celem ataku (1 raz na turę; w walkach skupionych każda Część liczy się jako 1 cel)",
+      "kr_sha256": "dafac1a9fc6e6815065a3a17c674fa5fea77f6422d3137c5ef770d40e8861943",
+      "en_sha256": "05e7d16e9c51b814656ec79cd40fa7d1bc16e39f550e69e620c9c3f3555abe81",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "- jeżeli celów ataku jest tylko 1, zamiast tego dotyczy 3 celów",
+      "kr_sha256": "6777e260c450dfbc624f7113c2eb67b500cb374a644510e795e779afbb9ae84a",
+      "en_sha256": "2e313f671580fafc5f5f887d7793cbd5be7253fc1d375e9efe630327c3690d71",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].desc": {
+      "pl": "jeżeli liczba celów ataku wynosi 1, Moc Monety +2, +100% obrażeń (w walkach skupionych ocenia się względem Rdzenia)\n[WhenUse] jeżeli główny cel ma [Sinking] 4+, Moc Walce +1\n[BeforeAttack] jeżeli Odporność na Posępność głównego celu przekracza 1, zadaje +2% obrażeń za każde 0.1 nadwyżki (maks. 10%)\n[BeforeAttack] przy Rezonansie Posępności 2+ zadaje +5% obrażeń za każdy 1 Rezonansu Posępności (maks. 20%)\n[EndSkill] jeżeli zginął co najmniej 1 cel ataku, zadaje (Siła [Sinking] każdego celu / 2) obrażeń od Posępności 2 losowym wrogom (maks. 15; priorytet celom ataku z najwyższą Siłą [Sinking])",
+      "kr_sha256": "e59f5a24604e0e5dc0ddacc4510118f4f829fc3d85abe165bb572e1dc58ffff5",
+      "en_sha256": "7324ae2ccc6b427e20b19b88b2ed0bc3bd2b38873e2e136002a8ece2d2e7b71e",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=1].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].abName": {
+      "pl": "Skadi",
+      "kr_sha256": "c86f95324825aabc8a24f3340e54309bba9aed85fb9603bdeed2bfbc076635de",
+      "en_sha256": "0789e22c34781456e159289c667f02db34998102d9925d2aa29d85ad56e1766f",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Sinking]",
+      "kr_sha256": "05cf7504b43ee1f91db9b214ba8fee0c55135e38e2722adc6fd51beb56237b64",
+      "en_sha256": "ca950434c64b240c66ea60741d941fc0c52d94baa913fb2d0005e6db1a621aa9",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Vibration]",
+      "kr_sha256": "d31d5262b6c63d3db8a8f7fd7c8b2ff1fe0752b4c10c2d1e260b7a6875c8d02f",
+      "en_sha256": "4f215f1f26ac5089cfd06898901b04b5321a6eadfdaf61c0138c1355173b7d0f",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Binding] następnej tury<style=\"highlight\"></style>",
+      "kr_sha256": "2dbaf00bd541e742e5e50bad20b85acf6059e8dd88adb310cb287eecdb8bb65c",
+      "en_sha256": "097fd3490e671f0ad4dd3dedaea16a5390dc5d12616a34a14f240444d8876918",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli wśród celów ataku są jednostki Oszołomione, ze Zniszczoną Częścią lub pokonane, nakłada 2 [Sinking] na 1 losowego wroga, który nie jest celem ataku (1 raz na turę; w walkach skupionych każda Część liczy się jako 1 cel)<style=\"highlight\"></style>",
+      "kr_sha256": "05d2105444bd1a8e2b040d51544da4145a413915614988e6e543c5e2ed917040",
+      "en_sha256": "230207e3d0aeaf5dcc6bbba6c9973a66c760caef4222ba7599419cae0a4a1d4f",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "- jeżeli celów ataku jest tylko 1, zamiast tego dotyczy 3 celów<style=\"highlight\"></style>",
+      "kr_sha256": "527f11f0dcc523dd155c9a1370ff93b3cd12b971810783688f200a17bc82b7b0",
+      "en_sha256": "657d68f09114be431586fade0e83fdc7f68314bf17358de1f19dfefa92248e96",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].desc": {
+      "pl": "jeżeli liczba celów ataku wynosi 1, Moc Monety +2, +100% obrażeń (w walkach skupionych ocenia się względem Rdzenia)\n[WhenUse] jeżeli główny cel ma [Sinking] 4+, Moc Walce +1\n[BeforeAttack] jeżeli Odporność na Posępność głównego celu przekracza 1, zadaje +<style=\"highlight\">3</style>% obrażeń za każde 0.1 nadwyżki (maks. <style=\"highlight\">15</style>%)\n[BeforeAttack] przy Rezonansie Posępności 2+ zadaje +<style=\"highlight\">8</style>% obrażeń za każdy 1 Rezonansu Posępności (maks. <style=\"highlight\">32</style>%)\n[EndSkill] jeżeli zginął co najmniej 1 cel ataku, zadaje (Siła [Sinking] każdego celu / 2) obrażeń od Posępności 2 losowym wrogom (maks. 15; priorytet celom ataku z najwyższą Siłą [Sinking])",
+      "kr_sha256": "0a1509a0bfa9fd1332c5873501023d7cf4cc732df0d716b30a1e72aa06fe9ecc",
+      "en_sha256": "6418316fd999421fa8eb8391668c7b0a2221010c8cda0f3a990259be33693d22",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=3].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].abName": {
+      "pl": "Skadi",
+      "kr_sha256": "c86f95324825aabc8a24f3340e54309bba9aed85fb9603bdeed2bfbc076635de",
+      "en_sha256": "0789e22c34781456e159289c667f02db34998102d9925d2aa29d85ad56e1766f",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Sinking]",
+      "kr_sha256": "5864275e13c1f4d4fbdeb619eaea59cccd20461fc7e42a110bef9cb40097d31f",
+      "en_sha256": "b6470f4809c0f92d1c896679b5d7c2b3f6c8347864eefbc20aab8219503a3b90",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Vibration]",
+      "kr_sha256": "0acb5878e9a4e378a21894d2244a789c98e87f2defab9511246be170c56aed82",
+      "en_sha256": "2a08d3ac74ba1b6736afadd04f637115befb75cfee435da48562f93e89671682",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada <style=\"highlight\">2</style> [Binding] następnej tury",
+      "kr_sha256": "e544a7b21b3bc7ec22f37d22e1f50240ff1699f17a47896dd523ed37fe7146ab",
+      "en_sha256": "35f50b686ac7cb606d2625ce583c7a4ec7659b9d538120a059c26192bed9fb09",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli wśród celów ataku są jednostki Oszołomione, ze Zniszczoną Częścią lub pokonane, nakłada 2 [Sinking] na 1 losowego wroga, który nie jest celem ataku (1 raz na turę; w walkach skupionych każda Część liczy się jako 1 cel)<style=\"highlight\"></style>",
+      "kr_sha256": "05d2105444bd1a8e2b040d51544da4145a413915614988e6e543c5e2ed917040",
+      "en_sha256": "89ff8c520de78926637ebeb13a4052997c951dc7554eb1214900ea8daeef8c6b",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "- jeżeli celów ataku jest tylko 1, zamiast tego dotyczy 3 celów<style=\"highlight\"></style>",
+      "kr_sha256": "527f11f0dcc523dd155c9a1370ff93b3cd12b971810783688f200a17bc82b7b0",
+      "en_sha256": "657d68f09114be431586fade0e83fdc7f68314bf17358de1f19dfefa92248e96",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].desc": {
+      "pl": "jeżeli liczba celów ataku wynosi 1, Moc Monety +2, +100% obrażeń (w walkach skupionych ocenia się względem Rdzenia)\n[WhenUse] Moc Walce +1 za każde 4 [Sinking] głównego celu <style=\"highlight\">(maks. 2)</style>\n[BeforeAttack] jeżeli Odporność na Posępność głównego celu przekracza 1, zadaje +<style=\"highlight\">5</style>% obrażeń za każde 0.1 nadwyżki (maks. <style=\"highlight\">20</style>%)\n[BeforeAttack] przy Rezonansie Posępności 2+ zadaje +<style=\"highlight\">10</style>% obrażeń za każdy 1 Rezonansu Posępności (maks. <style=\"highlight\">40</style>%)\n[EndSkill] jeżeli zginął co najmniej 1 cel ataku, zadaje (Siła [Sinking] każdego celu / 2) obrażeń od Posępności 2 losowym wrogom (maks. 15; priorytet celom ataku z najwyższą Siłą [Sinking])",
+      "kr_sha256": "12c5b057c18c197ef726e3169515718ab6c24089bcc0e34a775380e1c3423f92",
+      "en_sha256": "fca0008757ad5c52622466144e0077697abaeef2a33620b5cc92f48c52fb898a",
+      "origin": "ai"
+    },
+    "dataList[id=2081011].levelList[level=4].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].abName": {
+      "pl": "Skadi",
+      "kr_sha256": "c86f95324825aabc8a24f3340e54309bba9aed85fb9603bdeed2bfbc076635de",
+      "en_sha256": "0789e22c34781456e159289c667f02db34998102d9925d2aa29d85ad56e1766f",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "db4c17ca433d4914ff21b0b602a19dbed9bcf1903e96de2f4501943c4d5796e7",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "db4c17ca433d4914ff21b0b602a19dbed9bcf1903e96de2f4501943c4d5796e7",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[WhenUse] jeżeli główny cel ma [Sinking] 5+, Moc Walce +1\n[BeforeAttack] zyskuje poniższe efekty za każde 3 najwyższego Rezonansu\n- Waga Ataku +1 (maks. 2)\n- +15% obrażeń (maks. 30%)\n[EndSkill] następnej tury nakłada 1 [HitDamageUp] na (liczba najwyższego Rezonansu) losowych sojuszników (wliczając tę jednostkę, maks. 4 sojuszników, 1 raz na turę)",
+      "kr_sha256": "f9dfde6a800042b46cb164acc4679a79576ab167f1d7b540def36f604125ce23",
+      "en_sha256": "c93d0a6cc392baae6d85267f2bdbeebc57734c03caf3043d2f109269b44b7f64",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=1].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].abName": {
+      "pl": "Skadi",
+      "kr_sha256": "c86f95324825aabc8a24f3340e54309bba9aed85fb9603bdeed2bfbc076635de",
+      "en_sha256": "0789e22c34781456e159289c667f02db34998102d9925d2aa29d85ad56e1766f",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "db4c17ca433d4914ff21b0b602a19dbed9bcf1903e96de2f4501943c4d5796e7",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "db4c17ca433d4914ff21b0b602a19dbed9bcf1903e96de2f4501943c4d5796e7",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] jeżeli wśród celów ataku są jednostki Oszołomione, ze Zniszczoną Częścią lub pokonane, następnej tury nakłada 1 [AzureTakeDamageUp] na 1 losowego wroga, który nie jest celem ataku (1 raz na turę; w walkach skupionych każda Część liczy się jako 1 cel)</style>",
+      "kr_sha256": "082511bfd6e9ec8d57ea5f8e15e1d63e79fd12a9330867b74a424bf4ab0765b9",
+      "en_sha256": "6ed96f17a5981115f9fecdab07500f6bb5f81313342d698bbe02efdf96e875d9",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[WhenUse] Moc Walce +1 za każde 5 [Sinking] głównego celu <style=\"highlight\">(maks. 2)</style>\n[BeforeAttack] zyskuje poniższe efekty za każde 3 najwyższego Rezonansu\n- Waga Ataku +1 (maks. 2)\n- +15% obrażeń (maks. 30%)\n[EndSkill] następnej tury nakłada 1 [HitDamageUp] na (liczba najwyższego Rezonansu) losowych sojuszników (wliczając tę jednostkę, maks. 4 sojuszników, 1 raz na turę)\n<style=\"highlight\">- jeżeli ten Rezonans był Rezonansem Posępności lub Rezonansem Absolutnym, dodatkowo nakłada 1 [AzureDamageUp]</style>",
+      "kr_sha256": "e5cd543698a5f6a98ec270e047d6dd15b8a6f78f577c58d344376b747d0ff718",
+      "en_sha256": "f1a43a110047606c799c12bb46f22e3d156f618bc38d638b5e434bcbfabceef7",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=3].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].abName": {
+      "pl": "Skadi",
+      "kr_sha256": "c86f95324825aabc8a24f3340e54309bba9aed85fb9603bdeed2bfbc076635de",
+      "en_sha256": "0789e22c34781456e159289c667f02db34998102d9925d2aa29d85ad56e1766f",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Sinking]",
+      "kr_sha256": "b589ca7607fbc2feb706fdf5a9379ab226c3eb4c293c4f783736b75ca91589bf",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Sinking]",
+      "kr_sha256": "05cf7504b43ee1f91db9b214ba8fee0c55135e38e2722adc6fd51beb56237b64",
+      "en_sha256": "ca950434c64b240c66ea60741d941fc0c52d94baa913fb2d0005e6db1a621aa9",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "db4c17ca433d4914ff21b0b602a19dbed9bcf1903e96de2f4501943c4d5796e7",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Vibration]",
+      "kr_sha256": "d31d5262b6c63d3db8a8f7fd7c8b2ff1fe0752b4c10c2d1e260b7a6875c8d02f",
+      "en_sha256": "4f215f1f26ac5089cfd06898901b04b5321a6eadfdaf61c0138c1355173b7d0f",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli wśród celów ataku są jednostki Oszołomione, ze Zniszczoną Częścią lub pokonane, następnej tury nakłada 1 [AzureTakeDamageUp] na 1 losowego wroga, który nie jest celem ataku (1 raz na turę; w walkach skupionych każda Część liczy się jako 1 cel)<style=\"highlight\"></style>",
+      "kr_sha256": "f92e6f1904d8b129a01722e5d77c0c9ce064de1646f1e93169dc3e1939114e41",
+      "en_sha256": "4893e1d09a55e9d6f8c9ada1872c056c5ca198399b1f2dc9aad1eaf8d1121613",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[WhenUse] Moc Walce +1 za każde 5 [Sinking] głównego celu (maks. <style=\"highlight\">3</style>)\n[BeforeAttack] zyskuje poniższe efekty za każde 3 najwyższego Rezonansu <style=\"highlight\">(przy Rezonansie Posępności wymagana wartość Rezonansu zmniejsza się do 2)</style>\n- Waga Ataku +1 (maks. 2)\n- +15% obrażeń (maks. 30%)\n[EndSkill] następnej tury nakłada 1 [HitDamageUp] na (liczba najwyższego Rezonansu) losowych sojuszników (wliczając tę jednostkę, maks. 4 sojuszników, 1 raz na turę)\n- jeżeli ten Rezonans był Rezonansem Posępności lub Rezonansem Absolutnym, dodatkowo nakłada 1 [AzureDamageUp]",
+      "kr_sha256": "721f9daf64023b9dcf9b74627330a16cc95550b075974302516afd114fbffeaa",
+      "en_sha256": "144ce2830a3b35e731c816e07126be7c0f54cbb3a0d827f66d6eeacf30967602",
+      "origin": "ai"
+    },
+    "dataList[id=2081021].levelList[level=4].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    }
+  }
+}

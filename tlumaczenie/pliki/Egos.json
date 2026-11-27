@@ -683,6 +683,366 @@
       "kr_sha256": "3a4fe1937b4134e8612f8312c966eadef0da4346b05129578345c81a0e81a7fd",
       "en_sha256": "13da2e92227def2f007f39b0ab4996365c1b666615e8a997fc59a02e0fc06062",
       "origin": "ai"
+    },
+    "dataList[id=20609].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Hong Lu",
+      "kr_sha256": "d2bcd2305590bf01ae1fd17533073c2351bc8aa99e0bd2732b272d8614cd8ff1",
+      "en_sha256": "002d4964e951e7c9e7b6837299b7603697d67db16b74e39dc38be610aafddffc",
+      "origin": "ai"
+    },
+    "dataList[id=20609].name": {
+      "pl": "To Remain Oneself [宁作吾]",
+      "kr_sha256": "e061e1fd3ec36c68c244b9eb8e9e08e9c6071c937e2ce4a38c0a6006c18a4f6d",
+      "en_sha256": "4c2c591a87678eadf2df6cf1705c4897826fccae3885ec5c16f4f1db96d9a6e6",
+      "origin": "ai"
+    },
+    "dataList[id=20610].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Hong Lu",
+      "kr_sha256": "626a1ecf2f6dc40dd92d2074fd218d23b77bb2640a5b89b105431615c5dae07e",
+      "en_sha256": "002d4964e951e7c9e7b6837299b7603697d67db16b74e39dc38be610aafddffc",
+      "origin": "ai"
+    },
+    "dataList[id=20610].name": {
+      "pl": "Repudiacja",
+      "kr_sha256": "8a9ff92e76d63689144e4e36839c28436294b69264ca221e170f5308c45bca50",
+      "en_sha256": "add532c10ca0dfa90667656d1b6cc81f4c5207507e38ebcc1321b589af1db0e4",
+      "origin": "ai"
+    },
+    "dataList[id=20611].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Hong Lu",
+      "kr_sha256": "626a1ecf2f6dc40dd92d2074fd218d23b77bb2640a5b89b105431615c5dae07e",
+      "en_sha256": "002d4964e951e7c9e7b6837299b7603697d67db16b74e39dc38be610aafddffc",
+      "origin": "ai"
+    },
+    "dataList[id=20611].name": {
+      "pl": "Ostrze Wykute z Łez",
+      "kr_sha256": "1e5e88fe295cdfe7ee170e3642de73a33d90fee1a433c3a139122960843dbde3",
+      "en_sha256": "747f3a17063ae9215bb7ee4157e214851e85ade67e1a0b53000bd0ca62415227",
+      "origin": "ai"
+    },
+    "dataList[id=20701].desc": {
+      "pl": "Podstawowe E.G.O Heathcliffa",
+      "kr_sha256": "782b4c04bfbf6d1e062aadb0f4e123b1441be4f9eaac5b3651a05803ac1e3800",
+      "en_sha256": "906eeb74a4ec928ecae2ffd12cfb135d0053953d48f5527d5edd060a25432c8a",
+      "origin": "ai"
+    },
+    "dataList[id=20701].name": {
+      "pl": "Worek z Zwłok",
+      "kr_sha256": "b53b2ec5cfdbb83d5b8314889650469b9356ce84718fdf861301883082de5d29",
+      "en_sha256": "26d039dcbeaa34e462f9c4fe540c10ccabadb52a64f0468d687cc009617eeaeb",
+      "origin": "ai"
+    },
+    "dataList[id=20702].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "640ad9f7f3ba994d32327c800dca9c35b3c2cee627e132dd8383f1189d323458",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20702].name": {
+      "pl": "Telepole",
+      "kr_sha256": "e196e21cea900937abccc75582e9a804d3ed23f8934d4fb714a234550b4f8f2f",
+      "en_sha256": "5f63bcb4a0a15558433f22b4159c953d171cb104262308b5f7084bafd426f643",
+      "origin": "ai"
+    },
+    "dataList[id=20703].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "af74abf51f375ec5e4d5a17886f05240da197d1ff3b93c20c79f9c7135e5938d",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20703].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=20704].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "af74abf51f375ec5e4d5a17886f05240da197d1ff3b93c20c79f9c7135e5938d",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20704].name": {
+      "pl": "Ya Śūnyatā Tad Rūpam",
+      "kr_sha256": "6b6d0eadff75aa51eda6b883fb6991e7db24e7c32d72cc36036c3b27df6cce7d",
+      "en_sha256": "909fe21eae661b5fb0b7cdfd302a92f55eca89333ad70a41167c99689ba16f0d",
+      "origin": "ai"
+    },
+    "dataList[id=20705].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "af74abf51f375ec5e4d5a17886f05240da197d1ff3b93c20c79f9c7135e5938d",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20705].name": {
+      "pl": "Holiday",
+      "kr_sha256": "84dfbb22c160a7a4737719881b6124380ea73973c77955932036a7366e05f082",
+      "en_sha256": "992b3299061eb2b2e226baccfbb2ba6c122d1e0a85c66a1b9aee3bac5f9c76b3",
+      "origin": "ai"
+    },
+    "dataList[id=20706].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "af74abf51f375ec5e4d5a17886f05240da197d1ff3b93c20c79f9c7135e5938d",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20706].name": {
+      "pl": "Niewola",
+      "kr_sha256": "ead4f51bf6fba539c703b3d6870f8ac2fd986aabf1c77e4e292a75aa3524f9d3",
+      "en_sha256": "f61993f45462313356a2bc51f7c65cc036652c81698b897a6fba6b3ddf047464",
+      "origin": "ai"
+    },
+    "dataList[id=20707].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "af74abf51f375ec5e4d5a17886f05240da197d1ff3b93c20c79f9c7135e5938d",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20707].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=20708].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "af74abf51f375ec5e4d5a17886f05240da197d1ff3b93c20c79f9c7135e5938d",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20708].name": {
+      "pl": "Niesymetryczna Bezwładność",
+      "kr_sha256": "c34c34dadfc324965b3b4a909d3abd95e35dafab5c9d46581bf2cae30154bc03",
+      "en_sha256": "412af133b0b04198e6e34d783932885cb8d02da7b3819cd021bed24dc363b213",
+      "origin": "ai"
+    },
+    "dataList[id=20709].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Heathcliffa",
+      "kr_sha256": "640ad9f7f3ba994d32327c800dca9c35b3c2cee627e132dd8383f1189d323458",
+      "en_sha256": "b45e4a77df627057d0e8206e38fe95d0f89478b968d67ff79291373bb7f84df5",
+      "origin": "ai"
+    },
+    "dataList[id=20709].name": {
+      "pl": "Zgłoszenie Zamieszkowania",
+      "kr_sha256": "c837c700daa3cd078f83078d99773a6d118b7a471e7c9f45f13134e9ba0be31c",
+      "en_sha256": "3a25057985697a76f357ab7690a25cefc44eaf68bb4fd6cf992e776ea09c9b92",
+      "origin": "ai"
+    },
+    "dataList[id=20801].desc": {
+      "pl": "Podstawowe E.G.O Ishmael",
+      "kr_sha256": "477b7b8de7ec5e5f30d73e2192a9ee6c5f6898fa7e0658b224615fc48cca9ccf",
+      "en_sha256": "d86617b8d74f8568d3785a9358a530368f835d6bf9e2eeeb43a738e656d79f2d",
+      "origin": "ai"
+    },
+    "dataList[id=20801].name": {
+      "pl": "Zaczepiony Harpun",
+      "kr_sha256": "58a396963b0d0e985537105c9815a31f6a4f53cce1fbd7e0ffa9551baadca001",
+      "en_sha256": "afc9096ca15d879ea11e7e681e91dd9a1090920a05798381235216b7929a0d79",
+      "origin": "ai"
+    },
+    "dataList[id=20802].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "63ca8eb9f234b7bbc5e83611bcfde1a0eec189039082ef4de9c60e3d7107fd0a",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20802].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=20803].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "63ca8eb9f234b7bbc5e83611bcfde1a0eec189039082ef4de9c60e3d7107fd0a",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20803].name": {
+      "pl": "Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "2651d604286cf6150e7ccaf544b332b6d1997bf773cac85626ea644717203fa0",
+      "en_sha256": "b93de2c76947fc39f60fe4d3ca5a683ed312a162e43d8bf38b504ef5d47dc69c",
+      "origin": "ai"
+    },
+    "dataList[id=20804].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "495cd260f636d3254594e7d2bb85e5f8bf3d8b1199d722a0c21e35114b371c78",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20804].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=20805].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "495cd260f636d3254594e7d2bb85e5f8bf3d8b1199d722a0c21e35114b371c78",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20805].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=20806].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "495cd260f636d3254594e7d2bb85e5f8bf3d8b1199d722a0c21e35114b371c78",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20806].name": {
+      "pl": "Uderzenie Skrzydłami",
+      "kr_sha256": "381153c7570d1bc36802e58f571bc041dff1cfe9d169767a41384c5d982b4934",
+      "en_sha256": "aea6b6cc7645644e1da7cd93b1794685f4411736c24302230dbbc9c51122446e",
+      "origin": "ai"
+    },
+    "dataList[id=20807].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "495cd260f636d3254594e7d2bb85e5f8bf3d8b1199d722a0c21e35114b371c78",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20807].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=20808].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "495cd260f636d3254594e7d2bb85e5f8bf3d8b1199d722a0c21e35114b371c78",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20808].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=20809].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "495cd260f636d3254594e7d2bb85e5f8bf3d8b1199d722a0c21e35114b371c78",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20809].name": {
+      "pl": "Stuponoga Śmierć Larwy [蝍蛆殺]",
+      "kr_sha256": "505ed8f1ac1409330cd97b636888a588f153a798ceb3d8eb0e1499accbab4af5",
+      "en_sha256": "c7ed58e26d396ec348c16a6bd3e8bba84aa65b3fe054a49823edf9712371dbd7",
+      "origin": "ai"
+    },
+    "dataList[id=20810].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Ishmael",
+      "kr_sha256": "63ca8eb9f234b7bbc5e83611bcfde1a0eec189039082ef4de9c60e3d7107fd0a",
+      "en_sha256": "e6587e119ca51525e6b4835ec3ae8eba696813bd2dd1d087a68471bac761cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=20810].name": {
+      "pl": "Tidal Elegy",
+      "kr_sha256": "54af5807136ef11da71afca34193e0f2b94c513352ad93d9daa8823a7892e495",
+      "en_sha256": "67df5ee2a39d9d0107d506fe43dd8b6c284372a742e543eb6f95a1f33f55363a",
+      "origin": "ai"
+    },
+    "dataList[id=20901].desc": {
+      "pl": "Podstawowe E.G.O Rodion",
+      "kr_sha256": "7146dfeded4fa100463d7110ff757d5660dd3e370ab10de0fee5fa7fedaaade9",
+      "en_sha256": "f42bd556fc850c5a4acf66698049db5cd11bfb83d4a739b6ea23e5c83a79ba8f",
+      "origin": "ai"
+    },
+    "dataList[id=20901].name": {
+      "pl": "To, co Rzucone",
+      "kr_sha256": "073922315dd2cac0ab72402133958df0a1793acd45778ad503a186b930cec27b",
+      "en_sha256": "92a05faf4f227fae4088e102e85d17112e8347cf212f3858c8459e6fea65c6b7",
+      "origin": "ai"
+    },
+    "dataList[id=20902].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "39048f61dd8b51cba588bd05ae5b9bb85483831acda5200d7a8b7c50f4fa492c",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20902].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=20903].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "39048f61dd8b51cba588bd05ae5b9bb85483831acda5200d7a8b7c50f4fa492c",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20903].name": {
+      "pl": "Rime Shank",
+      "kr_sha256": "b253f1d4b066251d1eacfcfa2984e7ab1149522f02da9d2fa8425c4cfa0853c3",
+      "en_sha256": "80d90207436ed27c1ab3b9a3c0b4aeca85aa2fd406fcaf97d020628c219dc040",
+      "origin": "ai"
+    },
+    "dataList[id=20904].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20904].name": {
+      "pl": "Musująca Korozja",
+      "kr_sha256": "cc1101045fc57c8809193ab076635f1f8bf2b1c170070b0385f451820d7022a6",
+      "en_sha256": "b64572c090fcf071236a1fca7ce05640f0e805bdc3d8532d8df15a9af6d9c4ae",
+      "origin": "ai"
+    },
+    "dataList[id=20905].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20905].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=20906].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20906].name": {
+      "pl": "Krwiste Pożądanie",
+      "kr_sha256": "12dd639eeca12bbb25406fc221313d42e9f227244e8601c3bed270c0cef2b467",
+      "en_sha256": "7118274c9c815114d63f6e862c7c9fe67ce98a022a01471db96735dae6ec566d",
+      "origin": "ai"
+    },
+    "dataList[id=20907].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20907].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=20908].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20908].name": {
+      "pl": "Proces Wyznaczonego",
+      "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
+      "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
     }
   }
 }
