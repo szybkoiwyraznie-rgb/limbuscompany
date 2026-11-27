@@ -1,0 +1,131 @@
+434||(ulepszenie 1) — nazwa] 당겨서 찢기|Tear and Rip
+440||(ulepszenie 1) — nazwa] 욕망으로 꾸며진 작품|Artwork Adorned by Desire
+448||(ulepszenie 1) — moneta 3, efekt 4 — opis] [OnSucceedAttack] 다음 턴에 [Desire] 2 부여|[OnSucceedAttack] Inflict 2 [Desire] next turn
+451||(ulepszenie 1) — nazwa] 압박하는 리본|Tightening Ribbons
+452||(ulepszenie 1) — opis] [CanDuelGuard]\n피격 시 대상에게 [PinkRibbon_Ishmael] 1 부여 (스킬당 1회)\n[StartBattle] 다음 턴에 [MuscleContraction] 1 얻음. 피격 시 추가로 1 얻음. (턴 당 1회)|[CanDuelGuard]\nWhen hit, inflict 1 [PinkRibbon_Ishmael] against the attacker (once per Skill)\n[StartBattle] Gain 1 [MuscleContraction] next turn. When hit, gain 1 additional [MuscleContraction] (once per turn)
+454||Pasywka wroga [130601] — nazwa] 듀엘로|Duello
+455||Pasywka wroga [130601] — opis] 합 종료 시 합을 진행한 대상에게 [DuelEdge] 1 부여\n[DuelEdge]를 가진 대상과 합 진행 시 대상의 [DuelEdge] 수치 1당, 정신력 3 회복 (최대 15)|After Clashing, inflict 1 [DuelEdge] against the target this unit Clashed against\nIn a Clash against targets with [DuelEdge], heal 3 SP for every [DuelEdge] Stack on target (max 15)
+456||Pasywka wroga [130602] — nazwa] 팔레르모 검술|Palermitan Style
+457||Pasywka wroga [130602] — opis] [DuelEdge] 수치에 따라 다음 효과를 얻음 (중복 적용)\n- 수치 1당 부여된 대상에게 가하는 피해량 +5%, 받는 피해량 -5% \n- 1 이상이면, 부여된 대상과 합 진행 시 합 위력 +1\n- 2 이상이면, 부여된 대상과 합 진행 시 기본 위력 +1\n- 3 이상이면, 부여된 대상과 합 진행 시 코인 위력 +1, 대상에게 공격 적중 시 [SeveredTendon] 3 부여\n- 4 이상이면, 부여된 대상과 합 진행 시 최종 위력 +1|Gain the following effects based on the target's [DuelEdge] Stack\n- For every Stack, deal +5% damage against and take -5% damage from the target with [DuelEdge]\n- At 1+ Stack, in a Clash against targets with [DuelEdge], gain Clash Power +1\n- At 2+ Stack, in a Clash against targets with [DuelEdge], gain Base Power +1\n- At 3+ Stack, in a Clash against targets with [DuelEdge], gain Coin Power +1 and inflict 3 [SeveredTendon] On Hit\n- At 4+ Stack, in a Clash against targets with [DuelEdge], gain Final Power +1
+458||Pasywka wroga [130603] — nazwa] 팔레르모식 레이피어 / 절참도|Palermitan Rapier / The Cleaving Blade
+459||Pasywka wroga [130603] — opis] 자신의 스킬 효과로 [VibrationExplosion]이 발동되었다면, 다음 턴 [AttackUp] 2 얻음 (턴 당 3회)|If this unit's Skill effects triggered [VibrationExplosion], gain 2 [AttackUp] next turn (3 times per turn)
+460||Pasywka wroga [130604] — nazwa] 사냥 표식|Hunter's Mark
+461||Pasywka wroga [130604] — opis] 3턴마다 료슈를 제외한 나머지 적들을 우선으로 무작위 1명을 지정하여, 속도를 1로 만들고 모든 스킬의 타겟으로 지정한다\n(흐트러짐으로 발동되지 못한 경우, 다음 턴에 발동한다)|Every 3 turns, select a random enemy (except Ryōshū), reduce their Speed to 1, and target it with all of this unit's Skills\n(If this effect could not be activated due to Stagger, activate it next turn)
+462||Pasywka wroga [130605] — nazwa] 하나만을 위해 만들어진 교본|A Textbook with a Singular Purpose
+463||Pasywka wroga [130605] — opis] 스테이지 시작 시 [TeachersCommand] 얻음\n료슈와 합 진행 시 합 위력 -3, 기본 공격 스킬이 [SuperCoin]으로 변경되며,\n합 패배시 피해량이 80% 감소하고, 적중시 효과가 발동하지 않음|Encounter Start: gain [TeachersCommand]\nIn a Clash against Ryōshū, Clash Power -3 and convert the Coins on this unit's Base Attack Skills into [SuperCoin]s.\nAlso, on Clash Lose, deal -80% damage and any "On Hit" effects do not activate
+464||Pasywka wroga [130701] — nazwa] 무언가 찾는 팔 - 억지력 부분해제|Searching Arm - Partial Deterrence Release
+465||Pasywka wroga [130701] — opis] 다른 팔 부위가 파괴되었으면 남은 팔 부위의 모든 스킬이 [SuperCoin]이 되고, 공격 가중치 +1\n- 이 효과가 적용된 스킬 사용 시, [RapidGrowthApple] 1 얻음|If an Arm is Part Broken, convert the Coins on the remaining Arm's Skills to [SuperCoin]s, and they gain +1 Atk Weight\n- When using a Skill affected by this effect, gain 1 [RapidGrowthApple]
+466||Pasywka wroga [130702] — nazwa] 흑단 여왕 - 억지력 부분해제|Ebony Queen - Partial Deterrence Release
+467||Pasywka wroga [130702] — opis] 뿌리 부위가 있다면, 열매 부위 피격 후 [HowDareYouApple]를 1 획득함\n\n자신의 [HowDareYouApple]가 4라면 강력한 부정적인 효과 스킬을 사용함\n\n뿌리 부위가 없다면 [HowDareYouApple]를 획득하지 않고 소모하지 않음\n이후 열매 부위가 파괴되면 [HowDareYouApple]를 제거함|If this unit has Roots, gain 1 [HowDareYouApple] after its Fruit Part is hit\n\nAt 4 [HowDareYouApple], use a powerful Skill that inflicts powerful negative effects\n\nIf this unit does not have Roots, neither gain nor lose [HowDareYouApple]\nWhen the Fruit Part gets broken, lose [HowDareYouApple]
+468||Pasywka wroga [130703] — nazwa] 휘감는 뿌리|Entangling Roots
+469||Pasywka wroga [130703] — opis] 뿌리가 파괴되기 전까지 턴 시작 시 모든 적에게 [Binding] 2 부여함|Turn Start: inflict 2 [Binding] on all enemies\nThis lasts until the Roots are broken
+470||Pasywka wroga [130704] — nazwa] 단 하나의 뿌리|One Sole Root
+471||Pasywka wroga [130704] — opis] 파괴되지 않은 팔의 수만큼 뿌리가 [Enhancement] 3 얻음\n뿌리 부위가 파괴된 상태라면 얻지 않음|The Roots Part gains 3 [Enhancement] for every unbroken Arm Part\nDoes not gain this effect if the Roots are broken
+472||Pasywka wroga [131901] — nazwa] 보호와 억제를 위한 갑주|Armor of Protection & Repression
+473||Pasywka wroga [131901] — opis] 턴 시작 시, 자신이 흐트러짐 상태가 아니면 [Protection] 2, [DefenseUp] 10 얻고 보호막을 현재 체력의 10%만큼 얻음\n\n이번 전투에서 ‘억압당한 육체’ 사용 횟수 1당, 위 효과로 얻는 [Protection] 1, [DefenseUp] 5, 보호막 수치 5% 감소|Turn Start: if this unit isn't Staggered, gain 2 [Protection], 10 [DefenseUp], and Shield HP equal to 10% of this unit's current HP\n\nEvery time this unit uses "Repressed Flesh" Skill in this Encounter, gain 1 fewer [Protection], 5 fewer [DefenseUp], and reduce the percentage mentioned above by 5%
+474||Pasywka wroga [131902] — nazwa] 아이언메이든- 가시|Iron Maiden - Spikes
+475||Pasywka wroga [131902] — opis] 자신이 흐트러짐 상태가 아닐 때, 공격자의 마지막 코인으로 피격 시 효과 발동\n- 공격자에게 해당 코인으로 받은 피해량의 20%만큼 관통 피해를 입히고 출혈 2 부여 (스킬당 최대 피해 100)\n- 이 효과의 피해로 대상이 흐트러지지 않음|If this unit isn't Staggered, when hit by the last Coin of an attacker, activate the following:\n- Deal Pierce damage by 20% of the said Coin's damage and inflict 2 [Laceration] (max damage per Skill: 100)\n- Damage from this effect cannot Stagger the target
+476||Pasywka wroga [131903] — nazwa] 아이언메이든- 재세동|Iron Maiden - Defibrillation
+477||Pasywka wroga [131903] — opis] 등장 시 정신력 30 회복\n\n자신의 체력이 60% 남았을 때, 흐트러짐 상태를 해제하고 이번 턴을 종료함 (전투당 1회)|Upon entry, heal 30 SP\n\nAt 60% HP, recover from Stagger and end the turn (once per Encounter)
+478||Pasywka wroga [131904] — nazwa] 이미 재료로 사용된 육체|Corpus Spent as Material
+479||Pasywka wroga [131904] — opis] [Combustion], [Vibration], [Burst], [Sinking]으로 받는 체력, 정신력, 흐트러짐 손상 피해량 -30%\n[Laceration]로 받는 피해량 -50%|Take -30% HP, SP damage from [Combustion], [Burst], [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nTake -50% damage from [Laceration]
+480||Pasywka wroga [131905] — nazwa] 소중한 작품 파시아|Fascia, My Precious Artwork
+481||Pasywka wroga [131905] — opis] 턴 종료 시 [HumanFleshTheRings]가 2면, 다음 턴에 [HumanFleshTheRings] 소멸 후 [BoneBladeTheRings] 얻음\n\n턴 시작 시 [BoneBladeTheRings]가 있으면, 이번 턴에 강력한 공격 사용\n\n강력한 공격 사용 전에 공격 스킬로 피격 시, [UnsteadyTheRings] 1 얻음|Turn End: at 2 [HumanFleshTheRings], [HumanFleshTheRings] expires next turn; then, gain [BoneBladeTheRings]\n\nTurn Start: if this unit has [BoneBladeTheRings], use a powerful attack this turn\n\nIf this unit is hit by an Attack Skill before using the powerful attack, gain 1 [UnsteadyTheRings]
+482||Pasywka wroga [131801] — nazwa] 별의 이름을 받기 위한 수행|Training to Inherit the Name of a Star
+483||Pasywka wroga [131801] — opis] 공격 스킬 종료시, 각 대상에게 (크리티컬로 적중한 참격 코인 개수 x 10)만큼 참격 피해 (해당 피해로는 흐트러지지 않음)|Attack Skill End: Deal (# of Slash Coins that hit Critically x 10) Slash damage against each target (cannot be Staggered due to this damage)
+484||Pasywka wroga [131802] — nazwa] 정신일도|Singular Focus of the Mind
+485||Pasywka wroga [131802] — opis] [Breath] 위력이 최대 25로 제한됨\n25를 초과하여 얻는 [Breath] 위력은 [DicipleLittleFinger]로 전환됨|This unit's [Breath] Potency is capped at 25\nAny excess [Breath] Potency gained past 25 will be converted to [DicipleLittleFinger]
+486||Pasywka wroga [131803] — nazwa] 정검[整劍]|The Orthodox Blade [整劍]
+487||Pasywka wroga [131803] — opis] 스테이지 시작시 [DicipleLittleFinger] 50을 얻음|Encounter Start: gain 50 [DicipleLittleFinger]
+488||Pasywka wroga [131804] — nazwa] 정념[靜念]|Tranquility [靜念]
+489||Pasywka wroga [131804] — opis] 자신에게 [DicipleLittleFinger]가 있으면 아래 효과 적용\n- 정신력이 0 미만으로 감소하지 않음. 0 미만이었으면 0이 됨\n- 받는 정신력 피해가 우울 피해로 전환됨 (기본 정신력 증감조건 제외)|If this unit has [DicipleLittleFinger], gain the following effects:\n- SP does not drop below 0; if it was below 0, recover to 0\n- Convert any SP damage taken into Gloom damage (save for SP changes due to "Base factors increasing/decreasing Sanity")
+490||Pasywka wroga [131805] — nazwa] 은혜|Grace
+491||Pasywka wroga [131805] — opis] 료슈 외 대상과 합을 진행할 때, 합 위력 -2\n료슈 외 대상에게 받는 피해량 -20%|In a Clash against targets that aren't Ryōshū, Clash Power -2\nTake -20% damage from targets other than Ryōshū
+492||Pasywka wroga [130801] — nazwa] 매혹|Charmed
+493||Pasywka wroga [130801] — opis] 턴 시작 시 전투 참여 인원 수에 비례하여, 속도가 낮은 수감자들에게 [FairyCharm] 부여\n요정 부위가 재생될 때마다 [FairyCharm] 인원이 증가|Turn Start: based on the number of units in the Encounter, inflict [FairyCharm] on Sinners with the slowest Speed\nNumber of [FairyCharm] units increases every time the Fairy Part is restored
+495||Pasywka wroga [130802] — opis] 요정 부위를 파괴하면 몸통이 드러남\n몸통을 다시 숨길 때, 가지고 있는 버프 및 디버프 효과 전부 제거|Reveal body when the Fairy Part is broken\nAll Buffs and Debuffs expire when the Body hides again
+496||Pasywka wroga [130803] — nazwa] 앞선 미끼|Leading Lure
+497||Pasywka wroga [130803] — opis] 요정 부위를 공격당하여도 본체 체력이 소모되지 않음\n[FairyCharm]된 인원 수에 따라 특정 스킬의 공격 가중치가 증가|Cannot damage Core HP by damaging the Fairy\nA certain Skill gains Atk Weight based on the number of [FairyCharm] units
+498||Pasywka wroga [130804] — nazwa] 파괴된 밑동|Broken Stump
+499||Pasywka wroga [130804] — opis] 몸통 부위 파괴 시,\n- 요정이 재생될 때 체력이 60%인 상태로 적용됨\n- 스킬로 본체 체력을 회복할 때, 회복량 +20|When the Body is broken:\n- Fairy will have 60% of its max HP upon restoration\n- Core heals +20 more HP with Skill effects
+500||Pasywka wroga [130805] — nazwa] 진화하는 미끼|Evolving Lure
+501||Pasywka wroga [130805] — opis] 요정 부위가 재생될 때마다 최대 체력 30% 증가|Fairy gains 30% increased max HP with each restoration
+502||Pasywka wroga [130806] — nazwa] 요정 가루|Fairy Dust
+503||Pasywka wroga [130806] — opis] 요정이 죽었을 때, 모든 인격이 다음 턴에 [Breath] 5, [Breath] 횟수 2 얻음|When the Fairy is killed, all Identities gain 5 [Breath] and +2 [Breath] Count next turn
+504||Pasywka wroga [130807] — nazwa] 공격성 강화 - 억지력 부분해제|Increased Aggression - Partial Deterrence Release
+505||Pasywka wroga [130807] — opis] 요정이 2번 드러난 이후부터 한층 강화된 스킬을 사용|Use more powerful Skills after the Fairy is restored for the second time
+506||Pasywka wroga [130901] — nazwa] 차원 도주|Dimensional Escape
+507||Pasywka wroga [130901] — opis] 두 번째 턴부터 일정 턴마다 4개의 무작위 차원을 소환하여 몸을 숨김.\n- 모든 부위가 흐트러짐 상태이면, 다음 턴에 발동\n- 차원으로 몸을 숨긴 상태에서는 흐트러짐 상태가 되지 않음.|Starting from turn 2, this unit summons 4 random Dimensions and hides\n- When all Parts are Staggered, this effect activates next turn\n- Cannot be Staggered while hidden inside a 'Dimensional Rift'.
+508||Pasywka wroga [130902] — nazwa] 갇혀버린 차원 탈출|Trapped Dimensional Escape
+509||Pasywka wroga [130902] — opis] 차원이 모두 파괴되면, 다음 턴에 차원에서 빠져나와 자신을 드러냄\n이후 [Charge] 횟수 5를 잃고, 모든 부위가 흐트러짐 손상 30을 입음|When all 'Dimensional Rifts' are broken, this unit voluntarily emerges from a 'Dimensional Rift' next turn\nAfterward, this unit loses 5 [Charge] Count and all of its Parts' Stagger Thresholds are raised by 30
+510||Pasywka wroga [130903] — nazwa] 차원 굴절 칼날 수복|Regenerate Dimensional Refraction Blade
+511||Pasywka wroga [130903] — opis] 칼날 부위가 파괴되면, [Charge] 횟수 5를 잃음\n다음 턴 종료 시 [Charge] 횟수 2를 소모하여 파괴된 칼날 부위를 회복함.\n\n칼날 부위가 파괴된 상태면, 매 턴 시작 시 [AttackDown] 2를 얻음.|When the Blade Part is broken, lose 5 [Charge] Count\nAt the next Turn End, consume 2 [Charge] Count to restore the broken Blade.\n\nWhile the Blade Part is broken, gain 2 [AttackDown] at every Turn Start.
+512||Pasywka wroga [130904] — nazwa] 차원 강제 개방 시도 - 억지력 부분해제|Forced Dimensional Breach Attempt - Partial Deterrence Release
+513||Pasywka wroga [130904] — opis] 본체 체력이 60% 이하가 되면, 턴이 종료되고 패턴이 변경됨\n- '차원 도주' 패시브 비활성화\n- '갇혀버린 차원 탈출' 패시브 비활성화\n- 양팔이 파괴되지 않은 상태면, 일정 턴마다 강력한 스킬을 사용|At 60% or less Core HP, end turn and gain a new pattern\n- Deactivate "Dimensional Escape" Passive\n- Deactivate "Trapped Dimensional Escape" Passive\n- If neither of its Arms are broken, use a powerful Skill every few turns
+514||Pasywka wroga [131001] — nazwa] 피가 흐르는 차원|Hemorrhaging Dimension
+515||Pasywka wroga [131001] — opis] 피가 흐르는 차원을 통과했다면, 피해량 +10%|Deal +10% damage after passing through the Hemorrhaging Dimension[TabExplain]
+516||Pasywka wroga [131101] — nazwa] 독이 들끓는 차원|Poisonous Dimension
+517||Pasywka wroga [131101] — opis] 독이 들끓는 차원을 통과했다면, 기본 본체 최대 체력 +20%|Core gains +20% max HP after passing through the Poisonous Dimension[TabExplain]
+518||Pasywka wroga [131201] — nazwa] 끊임없이 진동하는 차원|Tremoring Dimension
+519||Pasywka wroga [131201] — opis] 끊임없이 진동하는 차원을 통과했다면, 속도 1 증가|Gain 1 Speed after passing through the Tremoring Dimension[TabExplain]
+520||Pasywka wroga [131301] — nazwa] 전류를 뿜어내는 차원|Electrifying Dimension
+521||Pasywka wroga [131301] — opis] 전류를 뿜어내는 차원을 통과했다면, 코인 위력 +1|Gain +1 Coin Power after passing through the Electrifying Dimension[TabExplain]
+522||Pasywka wroga [9103601] — nazwa] 약지 아비의 작품|The Ring Nursefather's Artwork
+523||Pasywka wroga [9103601] — opis] 메인 타겟에게 부정적인 효과가 3개 이상이면, 최종 위력 +1|If the main target has 3+ types of negative effects, Final Power +1
+524||Pasywka wroga [9103801] — nazwa] 뼈대에 묶인 매듭|Bonebound Knot
+525||Pasywka wroga [9103801] — opis] 흐트러졌을 경우 다음 턴에 흐트러짐을 해제하고 [Binding] 2 얻음\n이후 매 턴 시작 시 [Vulnerable] 2 , [Enhancement] 1 얻음|When Staggered, recover from Stagger next turn and gain 2 [Binding]\nEvery subsequent Turn Start: gain 2 [Vulnerable] and 1 [Enhancement]
+526||Pasywka wroga [9103802] — nazwa] 분홍 리본|Pink Ribbons
+527||Pasywka wroga [9103802] — opis] 합 승리시 [PinkRibbon_Ishmael] 1 부여|Clash Win: inflict 1 [PinkRibbon_Ishmael]
+528||Wróg / część [1325] — nazwa] 검지 제자 - 소라|The Index Apprentice - Sora
+531||Wróg / część [1322] — nazwa] 소지 아비 - 시오미 요루|The Pinky Nursefather - Shiomi Yoru
+534||(ulepszenie 1) — nazwa] 화염 강타|Flame Strike
+535||(ulepszenie 1) — opis] [WhenUse] [MRcAiBa] 1 얻음|[WhenUse] Gain 1 [MRcAiBa]
+536||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 5 부여, [Combustion] 횟수 3 증가|[OnSucceedAttack] Inflict 5 [Combustion] and +3 [Combustion] Count
+537||(ulepszenie 1) — nazwa] 홍염익|Ardor Blossom Pinions
+538||(ulepszenie 1) — opis] [WhenUse] [MRcAiBa] 2 얻음|[WhenUse] Gain 2 [MRcAiBa]
+539||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [CrimsonResistDown] 2 부여|[OnSucceedAttack] Inflict 2 [CrimsonResistDown] next turn
+540||(ulepszenie 1) — nazwa] 점화|Spark
+541||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion] 횟수 2 증가\n[WinDuel] 대상의 [Combustion]만큼 [Combustion] 부여\n[DefeatDuel] 아래 효과 적용\n- 이 스킬의 피해로 대상이 흐트러지지 않음\n- 이 스킬이 분노 속성 스킬이면, 대상의 [Combustion] 제거\n- [Combustion], [Combustion] 횟수 부여량이 절반으로 감소함|[WhenUse] Inflict +2 [Combustion] Count\n[WinDuel] Inflict [Combustion] equal to [Combustion] on target\n[DefeatDuel] Gain the following effects:\n- Damage dealt by this Skill cannot Stagger the target\n- If this is a Wrath Skill, remove [Combustion] on the target\n- Halve the amount of [Combustion] and [Combustion] Count this Skill inflicts
+543||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [MRcAiBb]가 3 이상이면,\n- [Combustion] 10 부여\n- [Combustion] 횟수 2 증가\n- [MRcAiBc] 2 부여\n- [MRcAiBb] 전부 감소|[UnBrokenCoinOnSucceedAttack] If target has 3+ [MRcAiBb]...\n- Inflict 10 [Combustion]\n- Inflict +2 [Combustion] Count\n- Inflict 2 [MRcAiBc]\n- [MRcAiBb] expires completely
+545||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Combustion] 6 부여, [Combustion] 횟수 4 증가|[OnSucceedAttack] Inflict 6 [Combustion] and +4 [Combustion] Count
+547||(ulepszenie 1) — nazwa] 분진 폭발|Dust Explosion
+548||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion]이 5이상이면, 이 스킬의 합 위력 +2|[WhenUse] If target has 5+ [Combustion], this Skill gains Clash Power +2
+549||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 이번 턴에 홍염 나방이 사용할 분노 스킬 수만큼 [Combustion] 횟수 증가|[OnSucceedAttack] Inflict [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+550||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 가장 느린 적에게 홍염 나방이 사용하는 분노 스킬 수만큼 [Combustion] 횟수 증가|[OnSucceedAttackHead] Against the enemy with the slowest Speed, inflict [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+551||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 이번 턴에 홍염 나방이 사용할 분노 스킬 수만큼 [Combustion] 부여|[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+552||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 가장 느린 적에게 홍염 나방이 사용하는 분노 스킬 수만큼 [Combustion] 부여|[OnSucceedAttackHead] Against the enemy with the lowest Speed, inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+553||(ulepszenie 1) — nazwa] 홍염살|Ardor Blossom Star
+554||(ulepszenie 1) — opis] (이번 턴에 홍염 나방이 사용할 분노 스킬 수 x 2)만큼 합 위력 증가\n[WhenUse] 모든 적에게 (홍염 나방이 사용하는 분노 스킬 수 x 2)만큼 [Combustion] 부여\n[DefeatDuel] 아래 효과 적용\n- 이 공격 스킬이 가하는 피해는 0이 됨\n- 모든 대상의 [Combustion] 제거\n- 이 스킬의 [Combustion], [Combustion] 횟수 부여량이 절반으로 감소함|Gain Clash Power equal to (# of Wrath Skills that the Ardor Blossom Moth will use this turn x2)\n[WhenUse] Inflict (# of Wrath Skills that the Ardor Blossom Moth will use this turn x2) [Combustion] to all enemies\n[DefeatDuel] Gain the following effects:\n- This Attack Skill deals 0 damage\n- Remove [Combustion] from all targets\n- Halve the amount of [Combustion] and [Combustion] Count this Skill inflicts
+557||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 가장 느린 적에게 이번 턴에 홍염 나방이 사용할 분노 스킬 수만큼 [Combustion] 부여, [Combustion] 횟수 증가|[UnBrokenCoinOnSucceedAttack] Against the enemy with the slowest Speed, Inflict [Combustion] and [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn
+562||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 피해량의 70%만큼 흐트러짐 손상 입힘|[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt
+563||(ulepszenie 1) — moneta 3, efekt 3 — opis] - 이 피해로 흐트러짐 상태가 된 적에게 [Combustion] 10 부여|- Inflict 10 [Combustion] against targets that have been Staggered by this
+565||(ulepszenie 1) — opis] [WhenUse] 대상의 [Combustion] 4당 기본 위력 +1 (최대 3)\n[WhenUse] 대상에게 [Combustion] 4 부여\n[OnSucceedEvade] 다음 턴에 [MRcAiBa] 1 얻음|[WhenUse] Base Power +1 for every 4 [Combustion] on target (max 3)\n[WhenUse] Inflict 4 [Combustion]\n[OnSucceedEvade] Gain 1 [MRcAiBa] next turn
+566||(ulepszenie 1) — nazwa] 불씨 지피기|Stoke the Flames
+567||(ulepszenie 1) — opis] [CantDuel] [CantChangeTarget]\n이 공격 스킬이 가하는 피해는 0이 됨|[CantDuel] [CantChangeTarget]\nDamage dealt by this Attack Skill is fixed to 0
+568||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [MRcAiBb] 2 부여|[OnSucceedAttack] Inflict 2 [MRcAiBb] next turn
+569||(ulepszenie 1) — nazwa] 물어뜯기|Bite
+570||(ulepszenie 1) — opis] [StartBattle] [SelfCharge] 2 얻음\n[WhenUse] 자신의 [SelfCharge]이 5 이상이면, 기본 위력 +2\n[DefeatDuel] [SelfCharge] 1 소모|[StartBattle] Gain 2 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Base Power +2\n[DefeatDuel] Lose 1 [SelfCharge]
+572||(ulepszenie 1) — nazwa] 꼬리찌르기|Tail Poke
+573||(ulepszenie 1) — opis] [StartBattle] [SelfCharge] 2 얻음\n[WhenUse] 자신의 [SelfCharge]이 5 이상이면, 코인 위력 +1\n[DefeatDuel] [SelfCharge] 1 소모|[StartBattle] Gain 2 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\n[DefeatDuel] Lose 1 [SelfCharge]
+575||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+576||(ulepszenie 1) — nazwa] 감아 조이기|Wrapping Coil
+577||(ulepszenie 1) — opis] [StartBattle] [SelfCharge] 3 얻음\n[WhenUse] 자신의 [SelfCharge]이 5 이상이면, 기본 위력 +2\n[DefeatDuel] [SelfCharge] 1 소모|[StartBattle] Gain 3 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Base Power +2\n[DefeatDuel] Lose 1 [SelfCharge]
+579||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable]
+580||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Binding] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Binding] next turn
+581||(ulepszenie 1) — nazwa] 전류 주입|Electric Load
+582||(ulepszenie 1) — opis] [StartBattle] [SelfCharge] 1 얻음\n[WhenUse] 자신의 [SelfCharge]이 5 이상이면, 코인 위력 +1\n대상에게 [Paralysis]가 있다면 피해량 +30%\n[DefeatDuel] [SelfCharge] 2 소모|[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 2 [SelfCharge]
+584||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Paralysis] 3 부여|[OnSucceedAttack] Inflict 3 [Paralysis]
+585||(ulepszenie 1) — nazwa] 전기 방류|Electric Release
+586||(ulepszenie 1) — opis] [StartBattle] [SelfCharge] 1 얻음\n[WhenUse] 자신의 [SelfCharge]이 5 이상이면, 코인 위력 +1\n대상에게 [Paralysis]가 있다면 피해량 +30%\n[DefeatDuel] [SelfCharge] 3 소모|[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 3 [SelfCharge]
+590||(ulepszenie 1) — nazwa] 전기 방출|Electric Discharge
+591||(ulepszenie 1) — opis] [StartBattle] [SelfCharge] 1 얻음\n대상에게 [Paralysis]가 있다면 피해량 +30%|[StartBattle] Gain 1 [SelfCharge]\nIf target has [Paralysis], deal +30% damage
+593||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Paralysis] 5 부여|[OnSucceedAttack] Inflict 5 [Paralysis]
+594||(ulepszenie 1) — nazwa] 초고압 전기 방출|High-voltage Electric Discharge
+595||(ulepszenie 1) — opis] [WhenUse] 가지고 있는 [SelfCharge] 전부 소모하고, 소모한 [SelfCharge]이 10 이상이면, 합 위력 +5\n[DefeatDuel] 이 공격 스킬이 가하는 피해는 0이 됨|[WhenUse] Lose all [SelfCharge] on self; if this unit lost 10+ [SelfCharge], gain Clash Power +5\n[DefeatDuel] This Attack Skill deals 0 damage
+597||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 메인 대상에게 [Vulnerable] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Vulnerable] on the main target
+599||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [ElectricStorage] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [ElectricStorage]
+600||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 메인 대상에게 [Paralysis] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis] on the main target
+601||(ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttack] 대상이 [ElectricStorage] 상태일 때, 최종 피해량의 40%만큼 고정 피해|[OnSucceedAttack] If target has [ElectricStorage], deal 40% of final damage dealt as fixed damage
+602||(ulepszenie 1) — nazwa] 똬리틀기|Coil Up
+603||(ulepszenie 1) — opis] [StartBattle] 머리 부위 현재 체력만큼 보호막 얻음\n[EndBattle] 머리 부위에 보호막이 있으면, 다음 턴에 [SelfCharge] 10 얻음|[StartBattle] The Head Part gains Shield by its current HP\n[EndBattle] If the Head Part has Shield, gain 10 [SelfCharge] next turn
+604||(ulepszenie 1) — nazwa] 꿈틀거리는 머리|Wriggling Head

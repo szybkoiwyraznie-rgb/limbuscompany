@@ -1,0 +1,316 @@
+{
+  "entries": {
+    "dataList[id=131401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=131401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1314].desc": {
+      "pl": "The Thumb Nursefather",
+      "kr_sha256": "708833628b6d3b18796dedf84294243482568b70f2a8a969fd82a590e0a28e2f",
+      "en_sha256": "99c0fe7fa701b0f4c7b314d3e6e373a9b19a527c6d01edf4859353b24310fe12",
+      "origin": "ai"
+    },
+    "dataList[id=1314].name": {
+      "pl": "The Thumb Nursefather - Valencina",
+      "kr_sha256": "184287f9946939cfa977ee954685f9633a76edc55a17bffc00fdab471dce5ec0",
+      "en_sha256": "562a6e4b7d95839827bc0ffd11871dc42a29a4edb3b8fbd8335615aabfa5a059",
+      "origin": "ai"
+    },
+    "dataList[id=1323].desc": {
+      "pl": "The Pinky Nursefather",
+      "kr_sha256": "b1ca1bc0a1d0a26308fff2951d4ebea68f3e238cde9d5a861118b7352595c09c",
+      "en_sha256": "ed182b141891ddbde6cf7f623ed63e181b53b6adf027cc2cdb93768acc6e3e10",
+      "origin": "ai"
+    },
+    "dataList[id=1323].name": {
+      "pl": "The Pinky Nursefather - Shiomi Yoru",
+      "kr_sha256": "c38bcdd4966c8b30ce4aa8fec58e66bd74ea7112a744d07ffdaa34f83d8537df",
+      "en_sha256": "86551296e15a5779e55013b6d37ddbe88c147e444374fdd94c7c1cc0f1e43ce8",
+      "origin": "ai"
+    },
+    "dataList[id=1324].desc": {
+      "pl": "The Pinky Nursefather",
+      "kr_sha256": "b1ca1bc0a1d0a26308fff2951d4ebea68f3e238cde9d5a861118b7352595c09c",
+      "en_sha256": "ed182b141891ddbde6cf7f623ed63e181b53b6adf027cc2cdb93768acc6e3e10",
+      "origin": "ai"
+    },
+    "dataList[id=1324].name": {
+      "pl": "The Pinky Nursefather - ???",
+      "kr_sha256": "ad567bab2145e42a0761d31e0d08697752ae5243984914aa4e139fb4b42d6b53",
+      "en_sha256": "7243d9b7629e5eeb38d62f5b0466c17b6b20bcb5472326800d5c9a934a14477a",
+      "origin": "ai"
+    },
+    "dataList[id=132701].desc": {
+      "pl": "The Middle Nursefather Part",
+      "kr_sha256": "874204ccfa6a6ce130c91a0bf384eda3b96934710792da70f2e2f635e6ea1e93",
+      "en_sha256": "b808bc64d34fdc677d3f80a76e5f31be02a679ac8b7de5e0d59675b56def969f",
+      "origin": "ai"
+    },
+    "dataList[id=132701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1327].desc": {
+      "pl": "The Middle Nursefather",
+      "kr_sha256": "df195f8bb05cea8cf95cdd682d68d9b9689bc96c44c6dcbc4a4c0270e6321726",
+      "en_sha256": "ed41d8d6f5a647e0340080001ea6c9c5a63f84868ee16287c8fcf8c1bebdb746",
+      "origin": "ai"
+    },
+    "dataList[id=1327].name": {
+      "pl": "The Middle Nursefather - Matthias",
+      "kr_sha256": "d81f0311d5ff0f4b0b0846a52d199bd41f917bd9189960fed18f3ac2849a3470",
+      "en_sha256": "5ad26e41407f09b10d870fd9e5a09a5c7e245c7afebb184356d8048cedbac8a8",
+      "origin": "ai"
+    },
+    "dataList[id=132801].desc": {
+      "pl": "The Middle Apprentice Part",
+      "kr_sha256": "5b8de43aa478c07f7206fd75d824bd01f78a5f52c5b090429c387e7fc14f0724",
+      "en_sha256": "3521991b4dedd41b633c961341f31107bc33f32fd28885c1132bfac725088506",
+      "origin": "ai"
+    },
+    "dataList[id=132801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1328].desc": {
+      "pl": "The Middle Apprentice",
+      "kr_sha256": "304d9b936c2461115aacb792e3d52dbcd43b021584ee987fee4e448b3827401b",
+      "en_sha256": "8f0f4d8636eac0ee926e718adb93214204e3be5fcf3ffd3b2354ba3b45cc628e",
+      "origin": "ai"
+    },
+    "dataList[id=1328].name": {
+      "pl": "The Middle Apprentice - Kira",
+      "kr_sha256": "e9ead37f8160c0e8507f5ac79142193f2c56ea9d1e046f72d5eeed91d149d980",
+      "en_sha256": "14fd4017afc73597986d4de16156e9e9e49b3993109493bff5459d72f1cd6417",
+      "origin": "ai"
+    },
+    "dataList[id=133101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=133101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1331].desc": {
+      "pl": "The Ring Nursefather",
+      "kr_sha256": "df0667860bcf0ecba40646cfc2d0fc776283268c69bb9a2e51a50d96977538df",
+      "en_sha256": "f758e2489d6f1530a8b6f2aa8b4789dce9cad2f317c7b64fe09658e9e3d92e14",
+      "origin": "ai"
+    },
+    "dataList[id=1331].name": {
+      "pl": "The Ring Nursefather - Callisto",
+      "kr_sha256": "cedcf235a724a99694c7d4315a2b71af657e9468b895478a8e405ab1969741e7",
+      "en_sha256": "c8400fca3277a3aadaabeca6a2eaba5287467f56770f84ec462a9809376302b8",
+      "origin": "ai"
+    },
+    "dataList[id=133201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=133201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1332].desc": {
+      "pl": "jednostka tworzona przez Umiejętność The Ring Nursefather",
+      "kr_sha256": "80000ca842004adc1f051802a2c66f248898c9c22b710662da6194c3a5f1e168",
+      "en_sha256": "782b817124a7dc8438e891e3c9eed6cbd0becc5bacfb5974ef247a987f0a14d4",
+      "origin": "ai"
+    },
+    "dataList[id=1332].name": {
+      "pl": "Corpus Theater",
+      "kr_sha256": "ac8b6041dda54d4d0468b4656a60cc7e8820b907cc52d8781b690617c9473231",
+      "en_sha256": "ce3ab2a81920d0c8f2c427d7cfa3fe5e294a0b6d5e175787a24f11984f13d1eb",
+      "origin": "ai"
+    },
+    "dataList[id=133701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=133701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1337].desc": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=1337].name": {
+      "pl": "The Index Apprentice - Sora",
+      "kr_sha256": "8bc9a5b136e08ee91502d9cbaa8ce3732e92ccc8579e027c95c0e41ff1b7fb99",
+      "en_sha256": "afbb6e7419a63f3e8cc1d49698abbd9d3d9648435b5bc1bb402294b0007d312d",
+      "origin": "ai"
+    },
+    "dataList[id=133801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=133801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1338].desc": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=1338].name": {
+      "pl": "The Pinky Apprentice - Ren",
+      "kr_sha256": "be21c2610cf1b357ed69e2c790f00f4dfaa400e00b6b37ba33cb4bc81e59c2b1",
+      "en_sha256": "b72e074d0ff6ae73e92117a5d2496c0d9b00f3547213d2b44f9830e83ffbb925",
+      "origin": "ai"
+    },
+    "dataList[id=133901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=133901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1339].desc": {
+      "pl": "broń G Corp.",
+      "kr_sha256": "57e9cdab67d41607bc697442411f1deb76ab790104b4677c9d3c9f1a23d2f441",
+      "en_sha256": "e0263c3b679887ede57949d300c729e8cc582e4fb50f6f84c5307c645985162a",
+      "origin": "ai"
+    },
+    "dataList[id=1339].name": {
+      "pl": "The Roach Emperor",
+      "kr_sha256": "04c5727db4fa68908c691bb3e23d62c7b9b0c1ddbbf9fd308c197080241bca4b",
+      "en_sha256": "62c47b8ba0b053c89628b0f0b8931df6e1949b1f8cbbaccdda4dce8b67f3268d",
+      "origin": "ai"
+    },
+    "dataList[id=134301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=134301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1343].desc": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=1343].name": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=134701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=134701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1347].desc": {
+      "pl": "The Index Nursefather",
+      "kr_sha256": "ca18108b68d08d265a4550fc575af7cea97b138ee40d99e662ab4b85d556e4df",
+      "en_sha256": "e8e988350b03f03b5bc0ed6db0333a972c2cdce1d3ffe6356877d9dc655264a7",
+      "origin": "ai"
+    },
+    "dataList[id=1347].name": {
+      "pl": "The Index Nursefather - Rien",
+      "kr_sha256": "b670df07728c3ff2ebd2e2e261b9fea0d9cf332348fcb6ccdd51d11762e35d06",
+      "en_sha256": "c950af38aa9dd2f014bac41af0dd6f55d76f182c2d8c9962bc8bc8dd088d3afd",
+      "origin": "ai"
+    },
+    "dataList[id=134801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=134801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1348].desc": {
+      "pl": "The Index Nursefather",
+      "kr_sha256": "ca18108b68d08d265a4550fc575af7cea97b138ee40d99e662ab4b85d556e4df",
+      "en_sha256": "e8e988350b03f03b5bc0ed6db0333a972c2cdce1d3ffe6356877d9dc655264a7",
+      "origin": "ai"
+    },
+    "dataList[id=1348].name": {
+      "pl": "The Index Nursefather - Rien",
+      "kr_sha256": "b670df07728c3ff2ebd2e2e261b9fea0d9cf332348fcb6ccdd51d11762e35d06",
+      "en_sha256": "c950af38aa9dd2f014bac41af0dd6f55d76f182c2d8c9962bc8bc8dd088d3afd",
+      "origin": "ai"
+    },
+    "dataList[id=137801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=137801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1378].desc": {
+      "pl": "Korpus",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1378].name": {
+      "pl": "Distorted Hohenheim",
+      "kr_sha256": "b47253a9206783d77208dab3ea57d7b3c116132960a7aa3e8d92cc3f99d47f21",
+      "en_sha256": "fbddcc6050872b9215265bee05e0cc504240875c6113a68ae488b1c60296fe25",
+      "origin": "ai"
+    }
+  }
+}

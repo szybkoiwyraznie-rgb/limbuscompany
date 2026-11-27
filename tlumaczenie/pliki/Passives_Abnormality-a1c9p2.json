@@ -1,0 +1,268 @@
+{
+  "entries": {
+    "dataList[id=132001].desc": {
+      "pl": "przy 30% HP lub mniej, zyskuje o 1 więcej [MRcAiBa]",
+      "kr_sha256": "54e84f8f3ecceab7e52a91d7f82c3de88cd13436e5334736d7645fa26005f4b5",
+      "en_sha256": "21e31f82de0547e03d289743385cb48289039b12f35937d5409d74fb2a188f86",
+      "origin": "ai"
+    },
+    "dataList[id=132001].name": {
+      "pl": "The Last Ember",
+      "kr_sha256": "220dfc22d21f1d5035430b98f6d4e7b537bd05c40b1ddf818dac2abdd61a4e13",
+      "en_sha256": "11a747dc5b2a8f7b1ab91eb442a4d5b7a36c8e3c4552068abf6d1397b0ab77e9",
+      "origin": "ai"
+    },
+    "dataList[id=132002].desc": {
+      "pl": "gdy Część Skrzydeł zostaje zniszczona, nakłada ostatniemu atakującemu [MRcAiBb] równy Licznikowi [MRcAiBa], po czym wszystkie [MRcAiBa] tej jednostki wygasają.\n\nprzy użyciu „Ardor Blossom Star” z liczbą [MRcAiBa] równą 0, dodatkowo używa „Stoke the Flames”",
+      "kr_sha256": "2d361cefb0c6be1f1771b09f199c87ee45c1766e40047f1d35df24dce83c8709",
+      "en_sha256": "7ab8f2e54f89c4d950c831b45e9a9a15d24cadecf71fde9103983fc0989e3bf4",
+      "origin": "ai"
+    },
+    "dataList[id=132002].name": {
+      "pl": "Stoke the Flames",
+      "kr_sha256": "8dd46e15f1afaea7fba8f2306c8f12c8a6c879c24671c89a62aef7f14f9104da",
+      "en_sha256": "efbd16f9756b85a56ac00b47f18887da836742d9a78d122ad370fae6dc91f514",
+      "origin": "ai"
+    },
+    "dataList[id=132003].desc": {
+      "pl": "przekształca liczbę Umiejętności innych Gniewu równą Licznikowi [MRcAiBa] w Umiejętności Gniewu",
+      "kr_sha256": "3e101c2e21e91b5c7f78c346b4f38c2678f649cf877c7caf2ca6b46107f7132e",
+      "en_sha256": "2f2165b73f3958e56355bfd50eb791b249d5d14fd7713239a77e554a2a02a095",
+      "origin": "ai"
+    },
+    "dataList[id=132003].name": {
+      "pl": "Flaming Ember",
+      "kr_sha256": "7c57284dc078decf86e14ddf1ff808a9ad3461357dfdd70b2ecfc6cda5f0c356",
+      "en_sha256": "16793ca13d9020683f8311924dce4b3506547518a03be158dec89fffcd46c795",
+      "origin": "ai"
+    },
+    "dataList[id=132004].desc": {
+      "pl": "jeżeli ta jednostka ma [MRcAiBa], przekształca liczbę Umiejętności niebędących Gniewem równą Licznikowi [MRcAiBa] w Umiejętności Gniewu\n\nprzy trafieniu nakłada [Combustion] równy (liczba Umiejętności Gniewu, których Ardor Blossom Moth użyje w tej turze)\n\nprzy trafieniu przywraca HP równe (liczba Umiejętności Gniewu, których Ardor Blossom Moth użyje w tej turze x 2)",
+      "kr_sha256": "0c741b01322cc23974e0d55692efcfcca7b115f9b11f4d91ecaa08998e6f6aed",
+      "en_sha256": "08725f5d7ab95d6aa17e1458010e884bf55ee9b136357ff64b227b802ac190ec",
+      "origin": "ai"
+    },
+    "dataList[id=132004].name": {
+      "pl": "Interlocking Ardor Blossom",
+      "kr_sha256": "9e23feb0959075b0dd95d643631ec5de7f3b8b3594374e19774952434eaace4e",
+      "en_sha256": "6636abae6b7dd0315e8cd06fd6fbc7205c057283608b0ff5a3b2ebf3a78d3a16",
+      "origin": "ai"
+    },
+    "dataList[id=132005].desc": {
+      "pl": "gdy Część Skrzydeł zostaje zniszczona, zyskuje po 2 zasobów E.G.O każdej Afinności i przywraca 15 SP wszystkim Grzesznikom",
+      "kr_sha256": "ce9d5987c13c334b8fc57cfd858e562c36f8fbe305257463ab67d6c1ad085121",
+      "en_sha256": "057c940074615445175558d330366e4245084afcec23ef7a18d4bc7defc28872",
+      "origin": "ai"
+    },
+    "dataList[id=132005].name": {
+      "pl": "Supply Resources",
+      "kr_sha256": "15bd2eade5c2613cb6187491b4ba6341616615ac01986031c011ff5f31e08a78",
+      "en_sha256": "a897289a3068bc84a85e2cfab553784fc63414073fad9530617c6cd48dc67caa",
+      "origin": "ai"
+    },
+    "dataList[id=132006].desc": {
+      "pl": "nie otrzymuje obrażeń od [Combustion]\n\nna koniec tury przywraca Korpusowi HP równe (Licznik [Combustion] jednostki x 5)",
+      "kr_sha256": "8c580e7041eebced173924c0d656640029e2319439aa5ee8e78b7c25f91004fe",
+      "en_sha256": "18d65119d01bd0458e53f2cccb8d0d9128a6d4c51dde2b0d6fcb26c6f6b45495",
+      "origin": "ai"
+    },
+    "dataList[id=132006].name": {
+      "pl": "Flaming Wings - Partial Deterrence Release",
+      "kr_sha256": "f574ebcdfda2654ff1859b42c357fa85c2e261334def33440f1bd5093aba7e47",
+      "en_sha256": "0faa5ddd557aea4eb27b0e7f36b10b95efdb5352af7d7227344e6ae9a6b287ea",
+      "origin": "ai"
+    },
+    "dataList[id=132101].desc": {
+      "pl": "przy śmierci wszystkie Umiejętności w tej turze zostają anulowane\nzyskuje 10 [SelfCharge], gdy ten efekt się uruchomi",
+      "kr_sha256": "3612f084a4263b862900f443c5569f412c2aeafa48285968e0af4e28fe937e12",
+      "en_sha256": "9fcb5e42235307f1d3da4692ae60083dec58773588cf77cac03df101f046f99d",
+      "origin": "ai"
+    },
+    "dataList[id=132101].name": {
+      "pl": "Living Nerves - Partial Deterrence Release",
+      "kr_sha256": "cf09ff95617c31f28b0f6554c9059080ed58f1318bb6dd667902773cdef7446e",
+      "en_sha256": "11352d45f7da13d328109b1667b142c7a09019f2ccc436737f475641bd057cf0",
+      "origin": "ai"
+    },
+    "dataList[id=132102].desc": {
+      "pl": "co 5 tur zyskuje Tarczę równą HP głowy",
+      "kr_sha256": "d1264c23e8038f7306fcea76b2d9f314655295a8fb2df25a148edb1c67343549",
+      "en_sha256": "f4d11614e203b9d9624c7c6f9074c737dfa6c8731babdfaecd28bba3355d786a",
+      "origin": "ai"
+    },
+    "dataList[id=132102].name": {
+      "pl": "Undying Persistence",
+      "kr_sha256": "0ac7700c1f1d3b4715609db2aa2b5ffc22e03c9960e7baa3253a96db3e9bc471",
+      "en_sha256": "506454f12edff6c2714bda5755c0e1fa356a8fe8f9ec9f1e9f900d9d8c187ee5",
+      "origin": "ai"
+    },
+    "dataList[id=132103].desc": {
+      "pl": "po użyciu „Coil Up”, jeżeli Tarcza została zużyta, zużywa wszystkie [SelfCharge]\nwszystkie Części przechodzą w Oszołamienie w następnej turze",
+      "kr_sha256": "9b8e6749a40cfdfec006f45d661dd060e5b1609ab26263dac78c72599f075524",
+      "en_sha256": "02e950a2c2afc2183685ea3ac1b87c844ad7632c6a96050626744f4a69b0b0af",
+      "origin": "ai"
+    },
+    "dataList[id=132103].name": {
+      "pl": "Terminated Persistence",
+      "kr_sha256": "4b45675d04944a9d3807a9b1c7bc1893d5761277ffc65118b138011e7f0a8e97",
+      "en_sha256": "45500ac76a163fb6bbb257a7618a1b06f9dfb6427ca163aceda4e48832394121",
+      "origin": "ai"
+    },
+    "dataList[id=132203].desc": {
+      "pl": "Początek walki: zyskuje [TimeEntangleFour]\nna Początku pierwszej tury każdego wzorca zyskuje [TimeGapAb] równy (Etap [TimeEntangleDesc] x 400) (1 raz na Etap [TimeEntangleDesc])\n\nna Etapie 3 i 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>jeżeli jednostka straci wszystkie [TimeGapAb], wzorzec się zmienia, a ona przechodzi w Oszołamienie na następną turę</u></b></mark></color>\n\notrzymuje o 30% mniej obrażeń HP i SP od [Combustion], [Laceration], [Burst] i [Sinking]; otrzymuje o 30% mniej wzrostu Próg Oszołomienia od [Vibration]",
+      "kr_sha256": "5b8e5e84d5be17d3e0733bfa184b8d89719c3417d51b76c2694769894258d7e3",
+      "en_sha256": "c859d84966c8e77ce0337591a26494f76623292771df8b51498cb8d95c677d92",
+      "origin": "ai"
+    },
+    "dataList[id=132203].name": {
+      "pl": "Superposed Afterimage",
+      "kr_sha256": "4b8f6a1c05ec6bd18c3613363f0369aab14d9418b7004fa3550401774134d9f0",
+      "en_sha256": "8600f431bb39c872b0c9f6e264da90cfb121c68a800b316ee24003c6fec0389e",
+      "origin": "ai"
+    },
+    "dataList[id=132204].desc": {
+      "pl": "przy trafieniu Monetą tej jednostki zadaje obrażenia Cięcia równe (końcowe obrażenia tej Monety / 10)\n- ten efekt uruchamia się tyle razy, ile wynosi Etap [TimeEntangleDesc]; obrażenia z tego efektu nie mogą Oszołomić celu",
+      "kr_sha256": "293247bde70644a31a3495ad8ab7dfa762210ff0e3cba75b6ae511544a5aee20",
+      "en_sha256": "2e30e0c13779207d1fd127394cfd9cb7bb013078d588751f3122486cf11388af",
+      "origin": "ai"
+    },
+    "dataList[id=132204].name": {
+      "pl": "Afterimage Reverberation",
+      "kr_sha256": "6b762c1ea607820eb62a6c7534bfd765f16eac05b0a043873226fa3709f7d195",
+      "en_sha256": "c788695904f9a00aefe8c18b567aa16d402c60922b1953354c3a401cbe7ce1de",
+      "origin": "ai"
+    },
+    "dataList[id=132204].summary": {
+      "pl": "zadaje dodatkowe obrażenia Cięcia",
+      "kr_sha256": "01429cd81984e9bde9101c0fe53ba789976695ed92c0c16ba3ec4f4aacf11330",
+      "en_sha256": "36e92c338cb84b941268c39607e21abe9ce23c33353c84814edb34d74575c79c",
+      "origin": "ai"
+    },
+    "dataList[id=132205].desc": {
+      "pl": "koniec Umiejętności ataku: zadaje każdemu celowi obrażenia Cięcia równe (liczba Monet Cięcia trafiających krytycznie x 10) (obrażenia z tego efektu nie mogą Oszołomić celu)\n\nkoniec Umiejętności ataku: zużywa całą nadwyżkę Siły [Breath] ponad 20 i nakłada tyle [PhantomIncision] celowi, ile zużyto Siły [Breath]",
+      "kr_sha256": "38fdbaa474342f12aee0f777eca1a97e188d0adc151025d7ace8c7633c10b388",
+      "en_sha256": "d0719a8b89c7cc001e4ec1df1c33d8c435f9317b276caa5c78457bb3b5a1fe1c",
+      "origin": "ai"
+    },
+    "dataList[id=132205].name": {
+      "pl": "Lacerating Afterimages from Myriad Moments",
+      "kr_sha256": "9db93cbf658e407d8ff102235e6d203e31b9c7f2d61fe623c7bb75a6205f8903",
+      "en_sha256": "ac10faac8b0728fb02d2f6648bb31692640ba5669b1a57965ea7c49cd4141853",
+      "origin": "ai"
+    },
+    "dataList[id=132208].desc": {
+      "pl": "używa potężnego wzorca ataku co 4 tury\n- przy 50+ [PhantomIncisionTotal] powyższy wzorzec zostaje wzmocniony",
+      "kr_sha256": "d48e1f63be5c4c822462ec898aa1e435050f1e20a5f90f123b143bc3cb9db60d",
+      "en_sha256": "2e3f8f90e5f7b6feae6ffa9168a1723345960e465aaf51269297f834818e1133",
+      "origin": "ai"
+    },
+    "dataList[id=132208].flavor": {
+      "pl": "'... I'm weary of this stigma of a blade.'",
+      "kr_sha256": "3ae2126cf4602dd3d5e34bcf7f4656354f75c88625ddd4daeeaacec575cac9d1",
+      "en_sha256": "a0105ef837d40aef2529a1035ff57dd74569bcd18dfb9097538f747df59eb384",
+      "origin": "ai"
+    },
+    "dataList[id=132208].name": {
+      "pl": "Unsheathing Dihui Star's Blade",
+      "kr_sha256": "95bf2f60b4a3fc1524a215f86e242298886e5c0db897320dd7793fe73efc0855",
+      "en_sha256": "567f89d5bdf19e756108d23916cb89afa3e799435d867e5eac236cb8765067e7",
+      "origin": "ai"
+    },
+    "dataList[id=132216].desc": {
+      "pl": "Umiejętności tej jednostki zadają o 50% mniej końcowych obrażeń celom, które użyły Umiejętności obrony\n\nna koniec tury co 4 tury w tej walce zyskuje 2 [Vulnerable] i 2 [AttackDmgUp] (kumuluje się; maks. 2 razy na walkę)",
+      "kr_sha256": "3606b21504e385f16838eadaaf48c297d48f11c4ee07e1a2c749ce2e0f09c4d6",
+      "en_sha256": "106486b8ab6f9caeb743f73e3a9d2d9c6b29fa349ae706dbef13d6b304bdbe49",
+      "origin": "ai"
+    },
+    "dataList[id=132216].name": {
+      "pl": "'I Shall Give You Some Quarter'",
+      "kr_sha256": "71b4106c9dddbda84db5a18632db4efc5f4efc80a6f9c42bc662d9ca09644a07",
+      "en_sha256": "28f69bc048af22e72ac3b40d265b76d2b467ba3484a5007768f494c831806c71",
+      "origin": "ai"
+    },
+    "dataList[id=132230].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, SP wraca do 30.",
+      "kr_sha256": "4fba3ea0423ffa32c7bd22c459aa209172b2cc3bf8cd36a0a2b8f8efd836c514",
+      "en_sha256": "bc5252e586516b26080916f215f1d6bcb67055fbf0243dbaa9bf8774c66a9682",
+      "origin": "ai"
+    },
+    "dataList[id=132230].name": {
+      "pl": "Panic Recovery",
+      "kr_sha256": "e3eea3f6529e6ea9565259f8e85095edeb4be438bbfe369a0fada18fd86a7598",
+      "en_sha256": "a1848737a6c2cddb3006496555ff7af839eee9d501150244fb99855fcccf2d14",
+      "origin": "ai"
+    },
+    "dataList[id=132501].desc": {
+      "pl": "Początek walki: zyskuje Tarczę równą 20% Maks. HP (utrzymuje się przez tę walkę)\n\nna Początku tury:\n- zyskuje [IndexPrescript_Base_2nd] zależnie od Etapu [UnlockBuff_Base] jednostki\n- <color=#ff6000><mark=#ff000040><b><u>nakłada [IndexPrescriptTargetToPersonality] losowemu wrogowi i priorytet: atakowanie tego wroga</u></b></mark></color> (poza określonym wzorcem)\n\nzadaje +2.5% obrażeń [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] (maks. 20%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +30% obrażeń wszystkim celom",
+      "kr_sha256": "5ecaa32dbc78efaefcedbe6a5b0a1e025ab5d9625b393f9d51d7291ce0682fce",
+      "en_sha256": "c8c1a2b1c05d690eaf9164a2625c099f53411ad90cca74d11f6733abdc996f0c",
+      "origin": "ai"
+    },
+    "dataList[id=132501].name": {
+      "pl": "Prescript Delivered on a Device",
+      "kr_sha256": "295c73f7289f81cbfdb2b8b095efc137f0e0e6d88c3ae0f1d02e99ff0fb7eb97",
+      "en_sha256": "4a8d8865a9a715d06dbb1aa9075c3c5c96615cd8dd3944de4fba3175c8bf33d7",
+      "origin": "ai"
+    },
+    "dataList[id=132502].desc": {
+      "pl": "na koniec tury: <color=#ff6000><mark=#ff000040><b><u>jeżeli w tej turze wykonano [IndexPrescript_Base_2nd]</u></b></mark></color>, przywraca 15 SP i zyskuje (Etap [UnlockBuff_Base] + 1) [BlessingOfIndexPrescriptEnemy] (1 raz na turę)\n\nna koniec tury: <color=#ff6000><mark=#ff000040><b><u>jeżeli w tej turze nie wykonano [IndexPrescript_Base_2nd]</u></b></mark></color>, zyskuje 1 [PressureOfPrescript] i 5 [KarmaOfIndexStudent]\n- jeżeli jednostka nie ma [UnlockBuff_Base], na koniec tury zyskuje 1 [BlessingOfIndexPrescriptEnemy]\n- przy 9 [BlessingOfIndexPrescriptEnemy] nie zyskuje [KarmaOfIndexStudent]\n- jeżeli ta jednostka jest w stanie Effloresced[TabExplain] E.G.O::Procuration, zyskiwane [KarmaOfIndexStudent] jest podwójne",
+      "kr_sha256": "be71588545f7a3bd7178cf0230d0feb91ebb07510176e5e925327a4209db5c2b",
+      "en_sha256": "bc3fff7eacdaaf5e94404edbab5167a02e43c9a85aa1128ed8d3a2020701aae1",
+      "origin": "ai"
+    },
+    "dataList[id=132502].name": {
+      "pl": "Will of the Prescript",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=132503].desc": {
+      "pl": "na koniec tury, przy 3/6/9 [BlessingOfIndexPrescriptEnemy] albo przy HP równym 90%/75%/60% lub mniej:\n- zyskuje [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- przywraca SP do 45\n- <color=#ff6000><mark=#ff000040><b><u>zużywa wszystkie [PressureOfPrescript]</u></b></mark></color> i dochodzi do siebie z Oszołamienia\n- w turze po pierwszym uzyskaniu [UnlockBuff_Base] zyskuje 1 [BlessingOfIndexPrescriptEnemy]\n\njeżeli [UnlockBuff_Base] zostało uzyskane dzięki warunkowi HP opisanemu powyżej:\n- zyskuje (przywrócone SP / 15) [KarmaOfIndexStudent]\n- jeżeli jednostka miała mniej niż 3/6/9 [BlessingOfIndexPrescriptEnemy], zwiększa [BlessingOfIndexPrescriptEnemy] do 3/6/9; za każdy zyskany Licznik [BlessingOfIndexPrescriptEnemy] zyskuje 1 [DefenseDown] i 2 [KarmaOfIndexStudent] w następnej turze\n\nMin. i Maks. Szybkość +10 w turze użycia potężnego ataku",
+      "kr_sha256": "4a4b170c56ef05649d6a08deb9dcf952094bcde8a27f08fbde679011a3ebae6e",
+      "en_sha256": "0a4fdee365ed559b798ffc92eacbc378bbbedb85a91a904c57062a01ec159929",
+      "origin": "ai"
+    },
+    "dataList[id=132503].flavor": {
+      "pl": "\\u201eMówi się, że ostrze i tkanina ofiarowane przez Prescript uwalniają swoją moc dopiero wtedy, gdy Prescript zostaje wykonany.\\u201d",
+      "kr_sha256": "823380c69a15b4dc6fdb7fb695f12c2514bb439f9609d28aa3b341339d2b719e",
+      "en_sha256": "83f50e7f142b298be71cfd4a134b76a56582afdd3101d092d8820d941cb21258",
+      "origin": "ai"
+    },
+    "dataList[id=132503].name": {
+      "pl": "Unlock",
+      "kr_sha256": "5da49a05ace1b6f5073832cae6c4e59653a8faa7645f62487bfa318b058e4794",
+      "en_sha256": "4ac709aa58bcfe5dca223072cd22986a2ad4e15f577c344466851b65322e416c",
+      "origin": "ai"
+    },
+    "dataList[id=132504].desc": {
+      "pl": "na Początku tury, jeżeli ta jednostka ma [UnlockBuff_Base] i SP równe 25 lub więcej, zużywa 15 SP, by wejść w stan Effloresced[TabExplain] E.G.O::Procuration, i dochodzi do siebie z Oszołamienia\n- w tym stanie zyskuje [Blandishment_Enemy] i inny zestaw wartości Odporności\n- na Początku tury przy SP równym 0 lub mniej wychodzi ze stanu Effloresced[TabExplain] E.G.O::Procuration",
+      "kr_sha256": "f8c5be6f34c5ba539c57e0cc032678d31abb270fce184192c6f635eced9250d8",
+      "en_sha256": "74503550301a5225d46f3311f16ddda1b8971be627b36538294577e8307053d1",
+      "origin": "ai"
+    },
+    "dataList[id=132504].name": {
+      "pl": "Effloresced E.G.O::Procuration",
+      "kr_sha256": "2d45acd649575d16c6230462a24e1e83a168d12864df9194ed97ca35fcf526c0",
+      "en_sha256": "1c0d9195b9d96e30fdf9e46383d9e7efd2e4fae75a75c151885bd8af509a8e3e",
+      "origin": "ai"
+    },
+    "dataList[id=132505].desc": {
+      "pl": "gdy Vespa pojawia się na polu bitwy:\n- jeżeli pojawia się w określonej turze z [UnlockBuff_Base] poniżej Etapu II, zyskuje [UnlockBuff_3], przywraca SP do 45 i dochodzi do siebie z Oszołamienia\n- zyskuje 1 [Blandishment_Shin_Enemy] i Tarczę równą 50% Maks. HP (utrzymuje się przez tę walkę)\n- wyłącza koszt [PressureOfPrescript] aktywacji Pasywu „Unlock[TabExplain]”\n- [PressureOfPrescript] zmienia się w [PressureOfPrescript_2nd] i osiąga maksimum\n- na Początku tury zyskuje 1 [PressureOfPrescript_2nd]\n- od tej pory SP tej jednostki nie spada poniżej 0\n\nprzy HP równym 20% lub mniej, [PressureOfPrescript_2nd] osiąga maksimum",
+      "kr_sha256": "1e433911a2d2a9064c06a67cb520b378becea55f55ec541bfb099acb67dad1c1",
+      "en_sha256": "a7e9dd4ea1fc13f9669540fbe46e320f0329447e35bf78e872c95f11ae0a3476",
+      "origin": "ai"
+    },
+    "dataList[id=132505].flavor": {
+      "pl": "'W-w niebezpieczna to osoba... Pr-escript może nie zostać wykonany, j-jeśli tak dalej pójdzie.'",
+      "kr_sha256": "07eb3f82b589ae50786c9554ac39615dc827fe2972b18c67fa76761f3acd7c9a",
+      "en_sha256": "63fe79a242dfc4495dee85df03d4f73e3e51e2db2b25a07098964e058fe8d4f3",
+      "origin": "ai"
+    },
+    "dataList[id=132505].name": {
+      "pl": "Annihilation Form",
+      "kr_sha256": "e1d6849f36e0451294beea281f3da27b72cbf4e06bf6116682e074896fc1ec8d",
+      "en_sha256": "006392315cf4da8fdfd835c070d843fed902a7a7d1e97bc5129d75229364f2cf",
+      "origin": "ai"
+    }
+  }
+}

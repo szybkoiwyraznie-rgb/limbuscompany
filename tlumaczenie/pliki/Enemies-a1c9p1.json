@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[id=130601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=130601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1306].name": {
+      "pl": "The Thumb Apprentice - Lucio",
+      "kr_sha256": "4b9401a3fb9345c6965e7fc6be43bb520238df8c3c8686a433bebc6ac14ba56e",
+      "en_sha256": "c3ddb4d671765ad035b265bf7226c2e0d939922df3abacbec926c22cf7413105",
+      "origin": "ai"
+    },
+    "dataList[id=131501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=131501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1315].name": {
+      "pl": "The Ring Corporist Automanikin - Researcher",
+      "kr_sha256": "039d92ac31ac68fee1283a6a1017e23a04844a3eff46656a2d8cbe5fb3787c03",
+      "en_sha256": "016590d619d5c1bda10fef1c16202845bb52e55dd0766af52a9e3e60cbe8724f",
+      "origin": "ai"
+    },
+    "dataList[id=131601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=131601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1316].name": {
+      "pl": "The Ring Corporist Automanikin - Combatant",
+      "kr_sha256": "2f54beb95567a581fe306361fe3f9df8b12de9f02a78e03574ed456f9de2dace",
+      "en_sha256": "f0416e06891d5bdd1a236e568c35fc6883670fab9f0740cf8e2f164b56f21daf",
+      "origin": "ai"
+    },
+    "dataList[id=131701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=131701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1317].name": {
+      "pl": "The Ring Corporist Automanikin - Roseate Desire Corrosion",
+      "kr_sha256": "29d888e8c99c0ba2a0a8057bd2dcf44ddc6e57a03bdfc754c8df5c2bb9520cfe",
+      "en_sha256": "db156025d325b9aba98e9c4adfd32aa52540de3dab60ee3d6ad880b2cb01aab8",
+      "origin": "ai"
+    },
+    "dataList[id=131801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=131801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1318].name": {
+      "pl": "The Pinky Apprentice - Ren",
+      "kr_sha256": "be21c2610cf1b357ed69e2c790f00f4dfaa400e00b6b37ba33cb4bc81e59c2b1",
+      "en_sha256": "b72e074d0ff6ae73e92117a5d2496c0d9b00f3547213d2b44f9830e83ffbb925",
+      "origin": "ai"
+    },
+    "dataList[id=131901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=131901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1319].name": {
+      "pl": "The Ring Apprentice - Albina",
+      "kr_sha256": "f374ecb9d1931ef9365c0ad6afdd204a6b2389824763ac8307031578922d7a43",
+      "en_sha256": "a6184fe14146594a3da7d61d3c8a9ae5d340e699f117a370fed3db3f3f84af59",
+      "origin": "ai"
+    },
+    "dataList[id=91036].name": {
+      "pl": "The Ring Corporist Automanikin - Researcher",
+      "kr_sha256": "039d92ac31ac68fee1283a6a1017e23a04844a3eff46656a2d8cbe5fb3787c03",
+      "en_sha256": "016590d619d5c1bda10fef1c16202845bb52e55dd0766af52a9e3e60cbe8724f",
+      "origin": "ai"
+    },
+    "dataList[id=91037].name": {
+      "pl": "The Ring Corporist Automanikin - Combatant",
+      "kr_sha256": "2f54beb95567a581fe306361fe3f9df8b12de9f02a78e03574ed456f9de2dace",
+      "en_sha256": "f0416e06891d5bdd1a236e568c35fc6883670fab9f0740cf8e2f164b56f21daf",
+      "origin": "ai"
+    },
+    "dataList[id=91038].name": {
+      "pl": "The Ring Corporist Automanikin - Roseate Desire Corrosion",
+      "kr_sha256": "29d888e8c99c0ba2a0a8057bd2dcf44ddc6e57a03bdfc754c8df5c2bb9520cfe",
+      "en_sha256": "db156025d325b9aba98e9c4adfd32aa52540de3dab60ee3d6ad880b2cb01aab8",
+      "origin": "ai"
+    }
+  }
+}
