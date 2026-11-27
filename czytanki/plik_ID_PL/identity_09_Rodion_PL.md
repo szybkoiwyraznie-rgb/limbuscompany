@@ -12,12 +12,12 @@
 
 ## Akta więźnia
 
-> The unfortunate traits of being Backstreets-born are apparent in this Sinner.
-> She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager.
-> She tends to deflect orders with an unimpressive wink or a silly joke;
-> we recommend taking a stern stance at times to remind her that you are her superior.
-> Her mood may be down at irregular intervals.
-> There is nothing you can do to aid her in that state, so we recommend waiting for it to pass.
+> Grzesznica, po której jaskrawo widać przykre piętno urodzenia w Zaułkach.
+> Lubi pieniądze, hazard i zakłady, dlatego wymaga baczniejszej uwagi Kierownika.
+> Na polecenia ma zwyczaj odpowiadać nieudolnym mrugnięciem albo głupim żartem,
+> dlatego czasem zalecamy okazać jej surowość przełożonego.
+> Nieregularnie popada w przygnębienie; Kierownik nie może wtedy nic
+> zrobić, najskuteczniej jest spokojnie przeczekać.
 
 ## Katalog Identity
 

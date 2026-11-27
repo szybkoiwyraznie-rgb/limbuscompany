@@ -12,14 +12,13 @@
 
 ## Akta więźnia
 
-> The Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company.
-> She claims that there is no one in the City who could rival her library of knowledge and wisdom,
-> and she isn't necessarily wrong.
-> You might find her high and mighty attitude when she allows you to converse with her displeasing,
-> but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever.
-> We recommend simply nodding once and getting over it.
-> Even though she has an unparalleled genius, we can't quite figure out how to use this one.
-> Perhaps you could be the one to find out?
+> Grzesznica, która opracowała silnik Mephistophelesa, autobusu Limbus Company.
+> Twierdzi, że w całym Mieście nikt nie dorównuje jej wiedzą ani mądrością,
+> i nie ma w tym przesady. Może pana razić jej postawa, jakby rozmawiała
+> z Kierownikiem wyłącznie z konieczności. Ponieważ tę samą wyniosłość,
+> skrywaną przed światem, okazuje wszystkim, nie ma szans na poprawę;
+> zalecamy po prostu kiwnąć głową. To geniusz jak nikt inny, ale my
+> nie wiemy, jak z niego korzystać. Może to pan odkryje?
 
 ## Katalog Identity
 

@@ -12,15 +12,13 @@
 
 ## Akta więźnia
 
-> This Sinner could serve as an excellent advisor depending on your capability.
-> However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement.
-> She is an expert when it comes to tactics and various pearls of wisdom about life,
-> making her advice all the more valuable for your mission.
-> In addition, she possesses a vast knowledge of workshop technologies;
-> you could trust her with simple repairs of the bus.
-> [NOTICE]: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.
-> [WARNING]: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect
-> for purposes other than completing our company's mission.
+> Grzesznica, która zależnie od umiejętności Kierownika może być znakomitą doradczynią.
+> Ma jednak skłonność do wtrącania się we wszystko, dlatego zalecamy
+> w miarę jej przytakiwać. W taktyce i wielu innych dziedzinach ma bogate
+> doświadczenie, warto więc zasięgać jej rady. Dodatkowo zna się świetnie
+> na technologiach Warsztatów, można jej więc powierzać drobne naprawy autobusu.
+> [UWAGA] - W odróżnieniu od innych Grzeszników wgląd w jej przeszłość jest zabroniony.
+> [UWAGA] - Proszę pilnować, by poza misją nie było słychać, jak obracają się trybiki w jej głowie.
 
 ## Katalog Identity
 

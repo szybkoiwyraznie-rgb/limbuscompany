@@ -12,14 +12,13 @@
 
 ## Akta więźnia
 
-> Even with the volatile nature of human growth around his age taken into consideration,
-> this Sinner seems to get particularly startled or frown when spoken to.
-> He isn't used to real combat at the moment,
-> meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first.
-> As there may be those with violent tendencies among your crew,
-> we recommend taking an approach focused on positive reinforcement with this Sinner.
-> He appears to possess a murderous gaze that he himself isn't aware of;
-> this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli.
+> Nawet biorąc poprawkę na burzliwy okres dorastania, Grzesznik wyróżnia się tym,
+> że zagadnięty, wyjątkowo łatwo się wzdryga albo krzywi. Nie jest też obyty
+> z walką, więc na początku może mu być ciężko nawet patrzeć na wnętrzności.
+> Wśród Grzeszników są osoby skłonne do przemocy, dlatego zalecamy,
+> by Kierownik stosował wobec niego raczej marchewkę niż kij.
+> Bywa, że ma w oczach żądzę mordu, której sam nie jest świadom, co jednak
+> oznacza potencjał w dziedzinie działalności naszej firmy; przy odpowiednich bodźcach liczymy, że wyrośnie na znakomitego fachowca.
 
 ## Katalog Identity
 

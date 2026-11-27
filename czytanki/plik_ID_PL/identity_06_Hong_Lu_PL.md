@@ -12,13 +12,12 @@
 
 ## Akta więźnia
 
-> A Sinner who had lived an affluent life before becoming our company's asset.
-> As such, he has a certain admiration for a free life;
-> but occasionally, he may make ignorant and unsavory questions in regards
-> to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture.
-> This can cause significant irritation for the other Sinners.
-> However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries,
-> so it is ill-advised to let them get physical over it.
+> Grzesznik, który do chwili, gdy stał się aktywem naszej firmy, nie zaznał niedostatku.
+> Dlatego ceni sobie swobodę, ale czasem, widząc potrawę przyrządzoną
+> przez innego Grzesznika, zdradza nieznajomość “niższej” kultury i zadaje
+> uwłaczające pytania, co może wywracać innym Grzesznikom wnętrzności.
+> Nie kryje się w tym jednak drwina, a jedynie szczera ciekawość,
+> nie warto więc dopuszczać do tego, by sięgali po ostrza.
 
 ## Katalog Identity
 

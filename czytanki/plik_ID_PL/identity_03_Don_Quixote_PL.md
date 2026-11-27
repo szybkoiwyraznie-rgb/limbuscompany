@@ -12,13 +12,13 @@
 
 ## Akta więźnia
 
-> There is no Sinner that can outmatch this one's level of passion if we were to measure it.
-> An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise.
-> They won't affect her performance in combat one way or another,
-> so there is no need for you to restrict her from keeping her decorations.
-> She is deeply immersed in the role of a righteous Fixer,
-> hence the exaggerated mannerisms akin to those of an actor. (Has such a thing ever existed, really?)
-> It's advised to play along with her for a smooth mission.
+> Gdyby mierzyć Grzeszników samym zapałem, ta otrzymałaby najwyższą ocenę.
+> Jest zagorzałą fanką i kolekcjonerką wszystkiego, co związane z Fikserami,
+> dlatego obwiesza się pamiątkami po nich od stóp do głów. Nie wpływa to
+> szczególnie na walkę, nie ma więc potrzeby jej tego zabraniać.
+> Sama jest głęboko zatopiona w roli Fiksera sprawiedliwości (czy coś takiego
+> w ogóle kiedykolwiek istniało?), stąd przesadna gestykulacja niczym
+> u aktorki trzeciej kategorii. Dla sprawnego przebiegu misji lepiej jej przytakiwać.
 
 ## Katalog Identity
 

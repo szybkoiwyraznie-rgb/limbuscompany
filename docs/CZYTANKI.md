@@ -216,6 +216,29 @@ wynika z numeracji plików, nie z przejścia gry; Czytanka mówi to wprost.
 - Jak Czytanka ma pokazywać trasy Canto X (osobne pliki na trasę czy jeden
   plik z oznaczeniami) — do decyzji właściciela po lekturze próbki.
 
+## „Plik META” — elementy spoza trzech głównych grup (E-020)
+
+Czwarta seria (`tools/build_meta.py` → `czytanki/plik_META_PL`, 5 plików)
+zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
+
+* `01_teksty_z_misji_PL` — teksty tutoriali bojowych pogrupowane po etapach
+  (`Etap 0-1 · …` z tytułami z `StageNode`; źródła `TutorialRenewalDesc`
+  i `TutorialRenewalMainUIDesc` [fragment `tuto_10108`]), poradniki poza
+  misjami (Lochy Wydobywcze, lobby, Lustrzane Lochy, przegląd Tożsamości
+  i E.G.O), wskazówki w walce (`BattleHint*`) i okna pop-up tutoriali
+  (`TutorialPopUpDesc`);
+* `02_notatki_dantego_PL` — hasła glosariusza świata (`StoryTheaterDanteNote*`)
+  i pełne pierwszoosobowe wpisy („Zapiski”, `StoryTheaterDanteNoteDetail*`);
+  wpisy bez przekładu pozostają w oryginale;
+* `03_splashe_pobierania_PL` — ekrany z lore Miasta podczas pobierania
+  patcha (`FileDownloadDesc`);
+* `04_akta_grzesznikow_PL` — akta osobowe Grzeszników #1–#12
+  (`IntroduceCharacter`; imiona z `Characters`).
+
+Poza zakresem: `TutorialMainUIText` (przechadzki po interfejsie),
+`TutorialMirrorDungeon`, starsze zestawy `TutorialDesc*` (poprzednia wersja
+tutoriali).
+
 ## Odtworzenie
 
 ```sh
@@ -224,6 +247,8 @@ python tools/build_reading.py --lang en           # → czytanki/fabula_EN/
 python tools/build_reading.py --lang kr           # → czytanki/fabula_KR/
 python tools/build_profiles.py --lang en          # → czytanki/plik_ID_EN/
 python tools/build_profiles.py --lang kr          # → czytanki/plik_ID_KR/
+python tools/build_meta.py --lang en              # → czytanki/plik_META_EN/
+python tools/build_meta.py --lang kr              # → czytanki/plik_META_KR/
 ```
 
 Domyślnym wejściem jest `index/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)); można
@@ -243,6 +268,7 @@ python tools/build_lang.py --unpack-to local/lang_pl_v3
 python tools/build_reading.py  local/cz_snapshot --lang pl   # → czytanki/fabula_PL/
 python tools/build_profiles.py index/static-data local/cz_snapshot --lang pl  # → czytanki/plik_ID_PL/
 python tools/build_ego.py      index/static-data local/cz_snapshot --lang pl  # → czytanki/plik_EGO_PL/
+python tools/build_meta.py     local/cz_snapshot --lang pl   # → czytanki/plik_META_PL/
 ```
 
 Snapshot (`local/cz_snapshot/`) i rozpakowana paczka

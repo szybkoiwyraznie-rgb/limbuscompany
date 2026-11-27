@@ -12,13 +12,13 @@
 
 ## Akta więźnia
 
-> This Sinner prefers to take action rather than wait for logic to dictate his course.
-> His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them;
-> his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship.
-> Please do note that this is not an indication of serious damage to the Sinner's thought process.
-> If his fit of rage persists, please contact the human resources department.
-> Once you realize that he is the type that tends to be simple-minded,
-> you'll have an easier time handling him.
+> Grzesznik, który od logicznego myślenia woli działanie.
+> Myśli i uczucia ma wypisane na twarzy i w słowach, i nawet nie próbuje ich ukryć,
+> może więc przysporzyć panu bólu głowy (albo i obrażeń fizycznych…)
+> przy budowaniu wzajemnych relacji. Prosimy pamiętać, że nie świadczy to
+> o poważnym zaburzeniu jego procesów myślowych. Jeśli gniew długo nie mija,
+> prosimy o kontakt z działem kadr. Ale z takimi typami jest łatwo,
+> gdy tylko się pojmie, że myślą głupio i prosto.
 
 ## Katalog Identity
 

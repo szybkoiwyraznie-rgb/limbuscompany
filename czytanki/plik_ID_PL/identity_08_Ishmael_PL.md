@@ -12,13 +12,13 @@
 
 ## Akta więźnia
 
-> You may be disheartened by the defective state of many of your Sinners,
-> but do not worry; this Sinner is one of the few who can carry out most missions without much complaint.
-> She is likely to make reasonable judgements, so it is a good idea to start conversations
-> while looking her way if you're seeking sound advice.
-> However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water.
-> Her patience may run deep, but once you take a wrong turn with her,
-> it will be a difficult task to regain her trust.
+> Być może widok tylu Grzeszników z licznymi wadami odbiera panu nadzieję.
+> Spokojnie. Ta Grzesznica należy do nielicznych, które wykonują zadania
+> bez większego szemrania. Zwykle podejmuje rozsądne decyzje, dlatego gdy
+> potrzebuje pan rady, dobrze jest zagaić, patrząc w jej stronę.
+> Proszę jednak nie zapominać: przeżyła niedorzeczną żeglugę po dalekiej
+> i ogromnej wodzie, jej cierpliwość jest więc długa, ale gdy relacja
+> raz zacznie się psuć, trudno ją będzie naprawić.
 
 ## Katalog Identity
 

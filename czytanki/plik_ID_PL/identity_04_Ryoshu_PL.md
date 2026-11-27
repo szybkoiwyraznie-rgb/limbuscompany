@@ -12,13 +12,13 @@
 
 ## Akta więźnia
 
-> As they say, every person has their own creed—and it's only right to respect it as the Executive Manager.
-> But with some creeds, you will have difficulty in even simply pretending to sympathize.
-> You will have noticed that the Sinner in question is a silent chain-smoker
-> whose eyes shine with a euphoric gleam only during battle.
-> She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art.
-> [CAUTION]: This Sinner's background is one that even our company may have trouble handling;
-> it is advised against making her breed personal resentment towards you.
+> Każdy Grzesznik ma własne credo, a szanowanie go należy ponoć do obowiązków Kierownika,
+> ale czasem trudno będzie choćby udawać zrozumienie. Zapewne pan zauważył,
+> że ta Grzesznica na co dzień tylko pali i milczy, lecz w walce jej oczy
+> migocą zachwytem. Bezmyślne rozbijanie przeciwnikom głów w czasie walki
+> uważa za prostackie i cofające sztukę w rozwoju.
+> [OSTRZEŻENIE] - Grzesznica ma przeszłość, z którą nawet nasza firma może
+> sobie nie poradzić; w miarę możliwości proszę nie wzbudzać w niej osobistej urazy.
 
 ## Katalog Identity
 

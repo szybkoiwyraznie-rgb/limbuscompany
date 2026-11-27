@@ -12,7 +12,7 @@
 
 ## Akta więźnia
 
-> Wants clear and concise commands, requiring no judgement on his part.
+> Wymaga jasnych i krótkich poleceń, niezostawiających mu pola do własnego osądu.
 
 ## Katalog Identity
 

@@ -12,14 +12,13 @@
 
 ## Akta więźnia
 
-> This Sinner is relatively easy to handle in terms of personality.
-> However, an upsurge of emotion or a sudden change of environment
-> may cause parts or the whole of his body to transform into insectile
-> (notably akin to a carapace, resembling that of the _________) tissues.
-> If you do not wish to be a rude manager (not that you're obligated to be nice),
-> we recommend keeping your facial expression in check so that your disgust is not visible to him.
-> He sometimes uses cynical language, but he can still be reasoned with,
-> and you can get around him without much difficulty as long as you learn the knack of it.
+> Ten Grzesznik pod względem charakteru jest łatwiejszy w obyciu od pozostałych.
+> Jednak pod wpływem silnych emocji albo nagłej zmiany otoczenia część jego ciała,
+> a niekiedy całe, zmienia się w tkankę owada (fragmenty pancerza, podobne do ***).
+> Jeśli nie chce pan być nieuprzejmym Kierownikiem (choć oczywiście nie musi pan),
+> zalecamy pilnować wyrazu twarzy, by nie okazać obrzydzenia.
+> Bywa cyniczny, ale gdy pozna się sposób, można się z nim swobodnie porozumieć,
+> nie sprawia więc większych trudności.
 
 ## Katalog Identity
 

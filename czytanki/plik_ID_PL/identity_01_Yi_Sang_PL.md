@@ -12,13 +12,12 @@
 
 ## Akta więźnia
 
-> Formerly the youngest chief researcher at the [REDACTED] Wing,
-> this Sinner possesses higher intelligence compared to most others.
-> We estimate that everyday conversation with this Sinner will prove difficult
-> for managers selected by our current screening process.
-> Avoiding communication altogether will pose a risk on its own, however.
-> If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought;
-> we recommend waiting patiently for him.
+> [UTAJNIONO] Były najmłodszy główny badacz w Skrzydle; pod względem inteligencji
+> przewyższa pozostałych Grzeszników. Oceniamy, że codzienna rozmowa z nim
+> przekroczy zapewne możliwości Kierownika, którego wybraliśmy. Z drugiej strony
+> otwarte unikanie kontaktu również niesie ryzyko. Jeśli Grzesznik milczy
+> zbyt długo, oznacza to, że przetwarza w głowie ciąg myśli;
+> zalecamy wyrozumiałość i cierpliwe czekanie.
 
 ## Katalog Identity
 
