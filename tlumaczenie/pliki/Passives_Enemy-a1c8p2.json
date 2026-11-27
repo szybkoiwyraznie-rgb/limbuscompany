@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=9020501].desc": {
+      "pl": "na Początku tury zyskuje [DefenseUp] równy (liczba trafień otrzymanych od Umiejętności ataku wrogów w tej walce / 2) (maks. 10)\n\npo pierwszym przejściu w Oszołamienie efekt ten znika, a na Początku tury od następnej tury zyskuje 10 [DefenseDown]",
+      "kr_sha256": "df4ccc70ba039a2612ee77f80e29c59ba2503f967d26bdf0def5e21ef849b580",
+      "en_sha256": "eda73cc45c265163553372e44c1299bad53dd6abb2b35f8174989a16ebaa3a45",
+      "origin": "ai"
+    },
+    "dataList[id=9020501].name": {
+      "pl": "Experiment Goal - Maturation",
+      "kr_sha256": "051b2c0011053f7e23f29601a7a94dc4d16e1afe571644207523deaa5dab8703",
+      "en_sha256": "910244ea9057f3a37cf799615001cca05baa8b951a83ea55a5b9c7be055fbfbd",
+      "origin": "ai"
+    },
+    "dataList[id=9020601].desc": {
+      "pl": "na Początku tury, jeżeli HP nie jest pełne, przywraca HP równe 80% brakującego HP\n- przy każdym przywróceniu efekt tego Pasywu maleje o połowę (spada do minimum 10%; dotyczy tylko przywrócenia co najmniej 1 HP)\n- nie uruchamia się w Oszołamieniu\n\npo pierwszym przejściu w Oszołamienie albo po spadnięciu efektu przywracania do minimum zyskuje 3 [Vulnerable] na każdym Początku tury",
+      "kr_sha256": "1366a4fc75f7f7be21ab8d6d13ca6e8f023bb6b08d0f7f5d7f6c05c0be266327",
+      "en_sha256": "496ce982b2da61517029198939cb4a10ea43f8837902886d1cc0f5edf75504ca",
+      "origin": "ai"
+    },
+    "dataList[id=9020601].name": {
+      "pl": "Experiment Goal - Germination",
+      "kr_sha256": "12874f02587a8fcfb459bd217104a2398cd22b00fb2b43560861442ac91dc742",
+      "en_sha256": "a46f77be430129988efea744548aacc0a586287417d9d1686413143960b94ac6",
+      "origin": "ai"
+    },
+    "dataList[id=9020701].desc": {
+      "pl": "gdy w tej walce ta jednostka otrzymuje obrażenia sprowadzające HP do 0, jej HP pozostaje równe 1 do następnej tury; zadaje +50% obrażeń (1 raz na walkę)\n\nnie uruchamia się w Oszołamieniu",
+      "kr_sha256": "f0fbb939d65b11efd93e0a5212c948da16d6d96a0a95d0202539422800a768b0",
+      "en_sha256": "b3b011d7ed0af85b47321455feb9931ee66a24bc52454f6eff6db4e2158be852",
+      "origin": "ai"
+    },
+    "dataList[id=9020701].name": {
+      "pl": "Experiment Goal - Blossom",
+      "kr_sha256": "fff149af6104645f11df655be52f306c07d91cf4d1243c29c64684360a386d4a",
+      "en_sha256": "cca517394a20c1d95933ddb6b6ae1a3c400a4f8f6a0564c42c5dbe3c11a52e0d",
+      "origin": "ai"
+    },
+    "dataList[id=9020801].desc": {
+      "pl": "za każdym razem, gdy nakłada [OminousTalisman] wrogowi, traci 10 SP\n\nwobec celów z [OminousTalisman] zadaje +(0 - SP jednostki)% obrażeń (maks. 30%, min. 0%)",
+      "kr_sha256": "9bfb8a14bbb3230bac50f2428c0455e61eb056a1cfd86da95a7b1721363dfc12",
+      "en_sha256": "798bc6d12ba1fec1b4240151a2e4ba5b15d98c63bdec4b507075cd5cd086aa4b",
+      "origin": "ai"
+    },
+    "dataList[id=9020801].name": {
+      "pl": "Talisman Sorcerer",
+      "kr_sha256": "c60d1fe9cd47fd0f781376d0086af1f23b09d5d25fabb6e36733e62051083eec",
+      "en_sha256": "18e9a89553903aa0a41ec2c29acd7e33bf0ecd5b8c84b92b4ffd79ac8a982f71",
+      "origin": "ai"
+    },
+    "dataList[id=9020802].desc": {
+      "pl": "przy śmierci nakłada 10 [OminousTalisman] losowemu wrogowi bez [OminousTalisman]\n- jeżeli wszyscy wrogowie już mają [OminousTalisman], zamiast tego zmniejsza [OminousTalisman] wszystkich wrogów o 1",
+      "kr_sha256": "cec9e5038b9172cba1a6bd28c347672e5e06472f8aa07cd80fa3d018fcdae866",
+      "en_sha256": "2740f29bc2251db2b157561a54e856523a3ff555eb7cee3d7e080461d6ed097d",
+      "origin": "ai"
+    },
+    "dataList[id=9020802].name": {
+      "pl": "Proliferating Misfortune",
+      "kr_sha256": "cbcf67c55442f5a35d5feb57c86735a18354ff6b1b3948cb583dd5357b67dc12",
+      "en_sha256": "df128f176934a24d201d7f81e40b874272bc99c8a54ae9e501f9679dd7302dd0",
+      "origin": "ai"
+    },
+    "dataList[id=9020803].desc": {
+      "pl": "gdy nakłada [OminousTalisman] wrogowi, jeżeli cel już posiada [OminousTalisman], zużywa 1–2 [OminousTalisman] celu i nakłada tyle samo [DefenseDown] temu celowi w tej turze i następnej",
+      "kr_sha256": "b7a4217ccfd61bdec36dc3df8a1e0a08a225c2ba9dc523040724475a1a450ece",
+      "en_sha256": "83a619aef0bb9a666320258ae3b571971a98892ddddefb16cc89edab9389007c",
+      "origin": "ai"
+    },
+    "dataList[id=9020803].name": {
+      "pl": "Wicked Energy",
+      "kr_sha256": "fcf287c1be89fa985ebea1299dcefe5402f0a682668a415cf0996e467e56f009",
+      "en_sha256": "7e60445dfb549c1972b2c3eedcc436d6a0732934fd1a0bd129baf77481e45a9f",
+      "origin": "ai"
+    },
+    "dataList[id=9020901].desc": {
+      "pl": "za każdym razem, gdy nakłada [OminousTalisman] wrogowi, traci 10 SP\n\nwobec celów z [OminousTalisman] zadaje +(10 - SP jednostki)% obrażeń (maks. 50%, min. 0%)",
+      "kr_sha256": "84834d9f5a950e70177a14baf535ff408da0b483c204ec01353e89fba310424f",
+      "en_sha256": "3b4a4ea1e7dc6f3c1f4e55698bd275a95592b4dfec45bd409f90136131c4e607",
+      "origin": "ai"
+    },
+    "dataList[id=9020901].name": {
+      "pl": "Skilled Talisman Sorcerer",
+      "kr_sha256": "e684017ca6c850a1d9f9398a1253ad2e80bdd12f382d60c4b29bf1212e0a8570",
+      "en_sha256": "b955f0d50bc9a122d9f2231c3d0feaad7db90f67af6a4d7052d12bd807e56dd3",
+      "origin": "ai"
+    },
+    "dataList[id=9020902].desc": {
+      "pl": "na Początku tury, przy HP równym 50% lub mniej, poświęca losowego Wicked Deathrite Monk, by przywrócić HP równe (10% Maks. HP tej jednostki + 50% Maks. HP poświęconej jednostki), przywraca 25 SP i dochodzi do siebie z Oszołamienia (1 raz na turę)",
+      "kr_sha256": "b507ec9a7c84a0a87e341c5c18ea52ce82672fa4ddb9a043378771b887371650",
+      "en_sha256": "53d6c3f5e60bfbe5c46744092f0ef50793e0624730c6eba267ed6d5bb4c6bdcb",
+      "origin": "ai"
+    },
+    "dataList[id=9020902].name": {
+      "pl": "Soul Siphon Technique",
+      "kr_sha256": "3ebf93e4d52cdcc6ca2902fe53aab84dec8a94d6b6a5fa54d07636f9850e30a4",
+      "en_sha256": "1ece09fa33d4113b1dbba198755d73b309bae89bf2ac0fb7f154b4139c09a113",
+      "origin": "ai"
+    },
+    "dataList[id=9020903].desc": {
+      "pl": "gdy nakłada [OminousTalisman] wrogowi, jeżeli cel już posiada [OminousTalisman], zużywa do 3 [OminousTalisman] celu i nakłada tyle samo [DefenseDown] temu celowi w tej turze i następnej",
+      "kr_sha256": "ed91396b0fc185e681c3ee76575ee1da92ccfd79d2ad0d32f17fc3777a171067",
+      "en_sha256": "e86102538337a0e25366e198dc497064796fa7dac941f5fbc701d27a39af57bd",
+      "origin": "ai"
+    },
+    "dataList[id=9020903].name": {
+      "pl": "Wicked Energy",
+      "kr_sha256": "fcf287c1be89fa985ebea1299dcefe5402f0a682668a415cf0996e467e56f009",
+      "en_sha256": "7e60445dfb549c1972b2c3eedcc436d6a0732934fd1a0bd129baf77481e45a9f",
+      "origin": "ai"
+    },
+    "dataList[id=9021001].desc": {
+      "pl": "zadaje +10% obrażeń Hong Lu",
+      "kr_sha256": "8294cb5611e2a0361d3d1cb488a477bca778b48bcf31d786d31162d444375edd",
+      "en_sha256": "66d18aeefc38057d70bf50db61d5619690130b3a80e82e1656069451f7dbd017",
+      "origin": "ai"
+    },
+    "dataList[id=9021001].name": {
+      "pl": "Rival Candidate",
+      "kr_sha256": "a4f05e8277e55d5acbe082e4d8eacb9b57fc1a27f534c117c0d91dbf86b6a5dd",
+      "en_sha256": "e9a68884bcee301e387d937c4f83f1eeefe211705e7a728bfdd22ae84e9db51d",
+      "origin": "ai"
+    },
+    "dataList[id=9021002].desc": {
+      "pl": "zyskuje 1 [Charge] za każde 10 Licznika [Charge] łącznie zużyte przez jednostkę w tej walce\nna koniec tury, przy 2+ [Charge], zyskuje 1 [ParryingResultUp] w następnej turze",
+      "kr_sha256": "10fd75668d012564f1d49321e28107dfc9544be7e8bb7c3ff309b0e8b44d0e4c",
+      "en_sha256": "d2a5503886400c464f898d134cfd02c5b46c6737729db2950185d9c4edae533d",
+      "origin": "ai"
+    },
+    "dataList[id=9021002].name": {
+      "pl": "Shi(史) Family Charge Circuitry",
+      "kr_sha256": "da0419ff3dc1829c0dc9e8a404ced0496030cd57b569c859d2db3b61f1bf4ba1",
+      "en_sha256": "04038fc06541f22769f4ebec90a31489a3575a2d7bc9ff205a19aec6816e1d2e",
+      "origin": "ai"
+    },
+    "dataList[id=9021003].desc": {
+      "pl": "zadaje +5% obrażeń za każde 6 [Burst] celu (maks. 10%)",
+      "kr_sha256": "a55e91253d2097af320d96beb2e9a613a187dcb879b23d0e533d91d27e3f576a",
+      "en_sha256": "bb185ed12a3435bf1eab35a0c1e51e6f656f1e25ee0abdd53cd0744221449437",
+      "origin": "ai"
+    },
+    "dataList[id=9021003].name": {
+      "pl": "Charge Circuitry Activation",
+      "kr_sha256": "7146c20e3054b9aaffb1a399c126ef8659a3e7a4edc9118032b3b124fc56fc79",
+      "en_sha256": "a549b9725616ad8874c7610d9c95ebbd38e716de7dec7f41a95e374e91cf8490",
+      "origin": "ai"
+    },
+    "dataList[id=9021004].desc": {
+      "pl": "Koniec tury: przy 3+ [Charge], zyskuje 3 [DefenseDown] i 1 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "2fd90e5aad517feeb79e373ba02d3f298a08a98eea10fc2ae946580662894559",
+      "en_sha256": "a4022e3d60a2e05b7614f2333437505298a24fd290c9fbf6e67a6d070ee9002d",
+      "origin": "ai"
+    },
+    "dataList[id=9021004].name": {
+      "pl": "Overload",
+      "kr_sha256": "9fd698ba5d34442f097bf678d8a2b0659ab225d585c2727b77b80bc698d341f6",
+      "en_sha256": "3b782428828dd6d141cd5eb1e5ef18bf693db784f3ef6a647e072ab86edf9172",
+      "origin": "ai"
+    },
+    "dataList[id=9021201].desc": {
+      "pl": "Koniec tury: przy 5+ [Charge], zyskuje 4 [DefenseDown] i 3 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "036709990c34ab1d6fc37c2cad6cbb6479840cb41702b662fe3d255370ae8680",
+      "en_sha256": "9803b29d65f345a9522d88e91d3ca2ccaccc8ba2dda89df41232f5d216aec605",
+      "origin": "ai"
+    },
+    "dataList[id=9021201].name": {
+      "pl": "Severe Overload",
+      "kr_sha256": "0225f9cae8c0ca504df8016803b01750382a877936c60c264fe47c7fc967a0a4",
+      "en_sha256": "e66191d85aa1177d25ae70087db450a805ebfeee76a1495eb84ebe72ef141126",
+      "origin": "ai"
+    }
+  }
+}

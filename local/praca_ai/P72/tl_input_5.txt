@@ -1,0 +1,36 @@
+939||Pasywka wroga [9021004] — nazwa] 과부하|Overload
+940||Pasywka wroga [9021004] — opis] 턴 종료 시, 자신의 [Charge]이 3 이상이면, 다음 턴에 [DefenseDown] 3, [AttackDmgUp] 1 얻음|Turn End: at 3+ [Charge], gain 3 [DefenseDown] and 1 [AttackDmgUp] next turn
+941||Pasywka wroga [9021201] — nazwa] 심한 과부하|Severe Overload
+942||Pasywka wroga [9021201] — opis] 턴 종료 시, 자신의 [Charge]이 5 이상이면, 다음 턴에 [DefenseDown] 4, [AttackDmgUp] 3 얻음|Turn End: at 5+ [Charge], gain 4 [DefenseDown] and 3 [AttackDmgUp] next turn
+943||Pasywka wroga [9020501] — nazwa] 실험 목표 - 생장|Experiment Goal - Maturation
+944||Pasywka wroga [9020501] — opis] 턴 시작 시, (이번 전투 동안 적에게 스킬 공격으로 피해를 받은 횟수/2)만큼 [DefenseUp] 얻음 (최대 10)\n\n처음으로 흐트러진 이후에는 이 효과가 사라지고, 다음 턴 부터 턴 시작 시 [DefenseDown] 10 얻음|Turn Start: gain [DefenseUp] equal to (number of times this unit was hit by the enemies' Skill Attacks / 2) (max 10)\n\nLose this effect when Staggered for the first time; then, at the next Turn Start, gain 10 [DefenseDown]
+945||Pasywka wroga [9020601] — nazwa] 실험 목표 - 발아|Experiment Goal - Germination
+946||Pasywka wroga [9020601] — opis] 체력이 최대 상태가 아니면 턴 시작 시, 잃은 체력의 80%만큼 자신의 체력을 회복\n- 회복할 때마다 이 패시브의 효과가 절반으로 감소 (최소 10%까지 감소, 체력을 1 이상 회복하는 경우에만 적용됨)\n- 흐트러짐 상태에서는 이 효과가 발동하지 않음\n\n처음으로 흐트러진 이후 또는 회복 효과가 최소가 되면 매 턴 시작 시 [Vulnerable] 3 얻음|Turn Start: if this unit isn't at max HP, heal 80% of the missing HP\n- With every healing, halve the healing effect of this Passive by half (halves down to 10% minimum; applies only when this unit heals more than 1 HP)\n- Does not activate when Staggered\n\nAfter this unit is Staggered for the first time, or when the healing effect is reduced to its minimum, gain 3 [Vulnerable] at every Turn Start
+947||Pasywka wroga [9020701] — nazwa] 실험 목표 - 만발|Experiment Goal - Blossom
+948||Pasywka wroga [9020701] — opis] 이번 전투에서 체력이 0이 되는 피해를 받았을 때, 다음 턴까지 체력이 1로 유지되고 피해량 +50% (전투당 1회)\n\n흐트러짐 상태에서는 이 효과가 발동하지 않음|When this unit takes damage that brings its HP down to 0, and maintain this unit's HP at 1 until the next turn; deal +50% damage (once per Encounter)\n\nDoes not activate when Staggered
+949||Pasywka wroga [9020801] — nazwa] 부적술사|Talisman Sorcerer
+950||Pasywka wroga [9020801] — opis] [OminousTalisman]을 적에게 부여할 때마다 자신의 정신력 10을 소모함\n\n[OminousTalisman]을 보유한 대상에게 가하는 피해량이 (0 - 자신의 정신력)%만큼 증가 (최대 30%, 최소 0%)|Whenever this unit inflicts [OminousTalisman] against an enemy, lose 10 SP\n\nAgainst targets with [OminousTalisman], deal +(0 - SP on self)% damage (max 30%, min 0%)
+951||Pasywka wroga [9020802] — nazwa] 불길함 전이|Proliferating Misfortune
+952||Pasywka wroga [9020802] — opis] 사망 시, [OminousTalisman]이 없는 무작위 적에게 [OminousTalisman] 10 부여\n- 모든 적이 [OminousTalisman]을 보유하였다면, 대신 모든 적의 [OminousTalisman] 1 감소|On death, apply 10 [OminousTalisman] against a random enemy without [OminousTalisman]\n- If all enemies already have [OminousTalisman], then reduce all enemies' [OminousTalisman] by 1 instead
+954||Pasywka wroga [9020803] — opis] [OminousTalisman]을 적에게 부여할 때 대상이 이미 [OminousTalisman]을 보유하였다면, 대상이 보유한 [OminousTalisman]을 1~2만큼 소모하고 그 수치만큼 이번 턴과 다음 턴에 [DefenseDown] 부여|When inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume 1~2 [OminousTalisman] on the target and inflict the same value as [DefenseDown] Stacks to the target this turn and next turn
+955||Pasywka wroga [9020901] — nazwa] 뛰어난 부적술사|Skilled Talisman Sorcerer
+956||Pasywka wroga [9020901] — opis] [OminousTalisman]을 적에게 부여할 때마다 자신의 정신력 10을 소모함\n\n[OminousTalisman]을 보유한 대상에게 가하는 피해량이 (10 - 자신의 정신력)%만큼 증가 (최대 50%, 최소 0%)|Whenever this unit inflicts [OminousTalisman] against an enemy, lose 10 SP\n\nAgainst targets with [OminousTalisman], deal +(10 - SP on self)% damage (max 50%, min 0%)
+957||Pasywka wroga [9020902] — nazwa] 흡혼요법|Soul Siphon Technique
+958||Pasywka wroga [9020902] — opis] 턴 시작 시 자신의 체력이 50% 이하면, 무작위 사특한 주살승을 1명 희생하여 (자신의 최대 체력 10% + 희생한 대상의 최대 체력 50%)만큼 체력을 회복, 25만큼 정신력을 회복, 흐트러짐 상태에서 해제됨 (턴당 1회)|Turn Start: at 50% or less HP, sacrifice a random Wicked Deathrite Monk to heal (10% of this unit's HP + 50% of the sacrificed unit's HP) HP, heal 25 SP, and recover from Stagger (once per turn)
+961||Wróg / część [1145] — nazwa] 뇌횡|Lei Heng
+962||Wróg / część [1145] — opis] 본체|Core
+964||Wróg / część [114501] — opis] 부위|Part
+965||Wróg / część [1171] — nazwa] 엄격한 엄지 솔다토|Stern Soldato of the Thumb
+969||Wróg / część [1139] — nazwa] 재빠른 N사 E.G.O::끈적임|Swift N Corp. E.G.O::Sticking
+973||Wróg / część [1140] — nazwa] 날렵한 N사 E.G.O::끈적임|Nimble N Corp. E.G.O::Sticking
+978||Wróg / część [90218] — nazwa] 각 잡힌 엄지 솔다토|Rigid Soldato of the Thumb
+979||Wróg / część [1135] — nazwa] N사 E.G.O::경멸,경외 가환|N Corp. E.G.O::Contempt, Awe Jia Huan
+980||Wróg / część [1136] — nazwa] N사 E.G.O::흉탄 구보|N Corp. E.G.O::Fell Bullet Gubo
+981||Wróg / część [1146] — nazwa] 가모|Jia Mu
+982||Wróg / część [1152] — nazwa] 혼각온량흑수[混覺轀輬黑獸]|Muddled Heishou of the Corpse Palanquin [混覺轀輬黑獸]
+983||Wróg / część [115202] — nazwa] 가마|Palanquin
+984||Wróg / część [1153] — nazwa] 보옥|Baoyu, the Precious Jade
+985||Wróg / część [115301] — nazwa] 옥|Jade
+986||Wróg / część [1154] — nazwa] 하늘 어르신|Heavenly Elder
+987||Wróg / część [1155] — nazwa] 땅 어르신|Earthly Elder
+988||Wróg / część [1156] — nazwa] 뇌 어르신|Brain Elder

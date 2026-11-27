@@ -1,0 +1,256 @@
+{
+  "entries": {
+    "dataList[id=9019501].desc": {
+      "pl": "gdy ta jednostka przechodzi w Oszołamienie, Siła [Burst] i Licznik [Burst] ostatnio przez nią trafionego celu maleją o połowę",
+      "kr_sha256": "4431db336b81408d5941f7e79c9bd67e970d8d7728154c8daafc36beb43214b0",
+      "en_sha256": "ed693191cfc748fbe8bd9cc067345785c3951ccbcde7c4006cd9fc8b3a93633d",
+      "origin": "ai"
+    },
+    "dataList[id=9019501].name": {
+      "pl": "Off-mark Curse",
+      "kr_sha256": "8780ff3117622b5301d6a0c7861355786eaf75334005b3bc17c657f4d5e57290",
+      "en_sha256": "75874fb13b8ddff2ef4ddb5656c42c82e3a0dcffbaba30450b5546027d5449ed",
+      "origin": "ai"
+    },
+    "dataList[id=9019502].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka trafiła cel w tej turze, zyskuje 1 [Enhancement] w następnej turze\njeżeli zabije się sama, nakłada 1 [Enhancement] wszystkim sojusznikom",
+      "kr_sha256": "79d31f3ea45853400568b2890c29dbead662aaaa2fb7fbfd160de5f8e420132a",
+      "en_sha256": "6cf30e53561d6806fff571d416423a7481a90e47349ec9d30d8d730d26b70c38",
+      "origin": "ai"
+    },
+    "dataList[id=9019502].name": {
+      "pl": "Jar-haunting Curse",
+      "kr_sha256": "a2c8a1397ba8cde4b0ea4bce202e925af3d6d60aec25e47146c7fcddd1496f70",
+      "en_sha256": "8ae5282ca66347bdc9286515cf8fec45f3ecfe40553841fb5e9a0eea2f232411",
+      "origin": "ai"
+    },
+    "dataList[id=9019601].desc": {
+      "pl": "przy trafieniu Umiejętnością: jeżeli cel ma 1 pozostałego Licznika [Burst], nakłada 1 Licznika [Burst] (2 razy na turę)\nprzy trafieniu: jeżeli cel ma 1 pozostałe [Burst], nakłada 2 [Burst] (2 razy na turę)\njeżeli jednostka zabije się sama, nakłada 2 [Burst] i 1 Licznika [Burst] wszystkim wrogom",
+      "kr_sha256": "1584f916b8b1bd0e88a8f0bba50d6a89fba1f0f8fa238037a9849619c926e382",
+      "en_sha256": "4e7e0dd33c837a723c4a0f7fb6c5114b02e7175b4fa1a9232fc7a8984d07dc7d",
+      "origin": "ai"
+    },
+    "dataList[id=9019601].name": {
+      "pl": "Jar-haunting Curse",
+      "kr_sha256": "a2c8a1397ba8cde4b0ea4bce202e925af3d6d60aec25e47146c7fcddd1496f70",
+      "en_sha256": "8ae5282ca66347bdc9286515cf8fec45f3ecfe40553841fb5e9a0eea2f232411",
+      "origin": "ai"
+    },
+    "dataList[id=9019701].desc": {
+      "pl": "przy trafieniu Umiejętnością: jeżeli cel ma 4+ [Burst], nakłada 1 [DefenseDown] w następnej turze (3 razy na turę)\njeżeli jednostka zabije się sama, nakłada 3 [DefenseDown] wszystkim wrogom",
+      "kr_sha256": "cd2c4d8ec272a59f736b71285f9720e0a8633c53db3dece2ef212f56c724387c",
+      "en_sha256": "01a24f65c99d2adce868b968d56445afc5c94b7988806ebb8cf4e5f465725f31",
+      "origin": "ai"
+    },
+    "dataList[id=9019701].name": {
+      "pl": "Jar-haunting Curse",
+      "kr_sha256": "a2c8a1397ba8cde4b0ea4bce202e925af3d6d60aec25e47146c7fcddd1496f70",
+      "en_sha256": "8ae5282ca66347bdc9286515cf8fec45f3ecfe40553841fb5e9a0eea2f232411",
+      "origin": "ai"
+    },
+    "dataList[id=9019801].desc": {
+      "pl": "przy otrzymaniu trafienia podczas fazy walki: +10% obrażeń w tej turze\nprzy otrzymaniu trafienia podczas fazy walki: po wygranej w Starciu +20% obrażeń",
+      "kr_sha256": "5be252bedafaca5c5a3e16cf4fd3a9b66d8f185968388f82cbe376e383e5bdde",
+      "en_sha256": "cbaf5a034ae11fc4033b22dc2635938cd3b67b26c88a1d93478309f3de107750",
+      "origin": "ai"
+    },
+    "dataList[id=9019801].name": {
+      "pl": "Damage Taken",
+      "kr_sha256": "109303fe7c65e4be8b24637abd0516b83ef439645205751ce6d8a3257d5cb4d2",
+      "en_sha256": "13dec6f9421af3b766b62d0d9082287be2d5e80c355a662c05943cc5860762df",
+      "origin": "ai"
+    },
+    "dataList[id=9019802].desc": {
+      "pl": "priorytet: Hong Lu",
+      "kr_sha256": "d24d58f1c4d8a8782812049f844f1d3dad115d24677d5fd63c0192525cfc90c8",
+      "en_sha256": "7f5ff44a6962c78d1ffdece1c2bda3ef01c4d7cd468ddfda3765a4e7184b0569",
+      "origin": "ai"
+    },
+    "dataList[id=9019802].name": {
+      "pl": "Target - Jia Baoyu",
+      "kr_sha256": "4b310eea1d2242942ff7f2285d537c9eabefacb4b18bcdceaa86313a30228b00",
+      "en_sha256": "29df820e74850f13769f5f67e8462a18e948afdc1f7a54e9c88d8e30996cc059",
+      "origin": "ai"
+    },
+    "dataList[id=9019803].desc": {
+      "pl": "przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Reduction] w następnej turze\nponiżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, nakłada w następnej turze o 1 więcej Siły [Laceration] i Licznika [Laceration]",
+      "kr_sha256": "5e7ec587ae48f4bd00a9e876f211faf2b738d7767c0d650af9cd37c2e46b70ea",
+      "en_sha256": "681d79a327d29075181438d969cfc3ed6139c6ccc1fba5cdbdfcffdf14cfc51d",
+      "origin": "ai"
+    },
+    "dataList[id=9019803].name": {
+      "pl": "Focusing on Target",
+      "kr_sha256": "9ed741d45ae17ea2dc3c9c02ce402a07c09e01a3da634341f947e2bd0bdae9b4",
+      "en_sha256": "05ef8a78c8eadec6d92bf563a5b77232ba8614daa4160aaacc3edf471a55f3ab",
+      "origin": "ai"
+    },
+    "dataList[id=9020001].desc": {
+      "pl": "zadaje +0.5% obrażeń za każde 1% brakującego HP jednostki (maks. 50%)",
+      "kr_sha256": "ef610ed41abd5a1853b070b84dbf0f3b75693c7036a53ead0bc5f670c64fb922",
+      "en_sha256": "50c97b22d25320d20f5101c1fa77e3af2e0631978f64163982ec053e24a2f368",
+      "origin": "ai"
+    },
+    "dataList[id=9020001].name": {
+      "pl": "Mission Progress",
+      "kr_sha256": "295047b47d2abcdf40c645344e26faca08f6c8b1642fcb8d56377d38fdc12ce3",
+      "en_sha256": "e1a336bff5f1b4b2dc090c50aa660322509534c544f628b2e1ddba3c5a0eab08",
+      "origin": "ai"
+    },
+    "dataList[id=9020002].desc": {
+      "pl": "przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Reduction] w następnej turze\nponiżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 1 [Enhancement] w następnej turze\n- nakłada w następnej turze o 1 więcej Siły [Laceration] i Licznika [Laceration]",
+      "kr_sha256": "212c1eea0ac138a777cd19a6d6ca05bc9984bd6db4563da4b1f18095aba056b8",
+      "en_sha256": "7ea4c3139e2876b56a2d07afda9b2ea08462969011af289ad878ae75b4b1138f",
+      "origin": "ai"
+    },
+    "dataList[id=9020002].name": {
+      "pl": "Honing in on Target",
+      "kr_sha256": "a88254f9aa327bee636e34b4f875cdaee2aac15c7e6604949203a8fd6ef3121b",
+      "en_sha256": "4256a01de9faf829db411c9beb43f9249592742c8820444046b9ea6ecd4da8c1",
+      "origin": "ai"
+    },
+    "dataList[id=9020101].desc": {
+      "pl": "może otrzymać obrażenia tylko o wartości 10 lub wyższej\nwszystkie obrażenia poniżej 10 są niwelowane",
+      "kr_sha256": "5e7569af8989390b7f8f1b7db548419937e22be7d9befd65cc8f6a105e168576",
+      "en_sha256": "a1864dd92e4078a66299320b64ce07d11889efc81cd18a5766a7d95b8cc20e19",
+      "origin": "ai"
+    },
+    "dataList[id=9020101].name": {
+      "pl": "Training Dummy",
+      "kr_sha256": "ef455efcd1c4d1f60bc758c534e1524fd0fa57d2e83721801457e801bdedf2bf",
+      "en_sha256": "f237ac857a841730eb2019f1bf15b6e91f486331c4fa08adab85037fb40d91fd",
+      "origin": "ai"
+    },
+    "dataList[id=9020102].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka nie trafiła Umiejętnością, zyskuje [ParryingResultUp] w następnej turze równy liczbie tur bez trafienia\nprzy trafieniu wroga Umiejętnością powyższa liczba się resetuje",
+      "kr_sha256": "a8c0f1440c61509bcc72961246bef2746c47af295a7f5bc63c6751d1482ccaff",
+      "en_sha256": "c19f8ebecf051e03fe99fd03a94c2dd6f10ae4148723546fb6941d922a8c2948",
+      "origin": "ai"
+    },
+    "dataList[id=9020102].name": {
+      "pl": "Upgradable Training Dummy",
+      "kr_sha256": "8474922835929cc99cc856f5b2f30d06ccddd17ac47c26dd98dff676ecdd4c6b",
+      "en_sha256": "2dcb3226869dcbf1ce8bc9357eff93a2d78271a60caf93a876ddd0587ab302bf",
+      "origin": "ai"
+    },
+    "dataList[id=9020103].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka otrzymała trafienia od 4 lub więcej Umiejętności ataku, nakłada 1 [AttackDmgUp] w następnej turze wszystkim wrogom, którzy ją zaatakowali, za każdą turę otrzymywania trafień\njeżeli otrzymała trafienia od 3 lub mniej Umiejętności ataku, powyższa liczba się resetuje",
+      "kr_sha256": "be6813234e3569fccac38533c05cee943811ae91e61bd2538dca0d2f15f2757c",
+      "en_sha256": "ff14b34d74076187c43a88bfc95427986d0fa0c851e29e53bb4cf2128e7f11dd",
+      "origin": "ai"
+    },
+    "dataList[id=9020103].name": {
+      "pl": "Remember the Basics",
+      "kr_sha256": "91eb467b6ecacd8037ce712be2b1d46d4c771a3117695cbdca0f36c0a5e6f9a7",
+      "en_sha256": "7404cc833655f9ff419098694d4429b7706c6a1bbf12cd42c6fe89eee2b73b62",
+      "origin": "ai"
+    },
+    "dataList[id=9020301].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka trafiła cel w tej turze, zyskuje 1 [Enhancement] w następnej turze\njeżeli celem jest Hong Lu, dodatkowo zyskuje 1 [ParryingResultUp] i 1 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "4d2184f1a53d2b8d62c2802747a1612c9c34973b457e08cb2c1464c90a211164",
+      "en_sha256": "1f251d2a7dd48bf7b56fbc1b904e7ac14341c71988a71948f6af09690f1f22f1",
+      "origin": "ai"
+    },
+    "dataList[id=9020301].name": {
+      "pl": "Easy Money",
+      "kr_sha256": "9ff71076fe1a6de5494e40f21f950b8261a345b636050cd6ab1799524ccc6313",
+      "en_sha256": "6ff63189ff3b81deb1e204bf9167a928ce524073016db302d061324bc987fa2b",
+      "origin": "ai"
+    },
+    "dataList[id=9020302].desc": {
+      "pl": "po przegranej w Starciu traci 5 SP\nw Oszołamieniu zyskuje 2 [Vulnerable] w następnej turze (1 raz na turę)",
+      "kr_sha256": "13601ec43a2065e9022d583220a1e9c6dc24c5de9ed498889e94f9c94ec44ff9",
+      "en_sha256": "3fa78e11e235d3b39b2262108aeb9b3dbbf32b23c4f93faa9080d2d10c6df1b9",
+      "origin": "ai"
+    },
+    "dataList[id=9020302].name": {
+      "pl": "oh no",
+      "kr_sha256": "815022e7a7f35804affd2febf2353536d0b99b541eaad1c680d9a4ad3bad0d13",
+      "en_sha256": "0efea166568eee1c3747bdbfb5b18df82e8873e385e10f5f65bc7f4f0de69b10",
+      "origin": "ai"
+    },
+    "dataList[id=9102101].desc": {
+      "pl": "przy otrzymaniu trafienia podczas fazy walki: +20% obrażeń w tej turze\npodczas fazy walki: po przegranej w Starciu otrzymuje +15% obrażeń od tej Umiejętności",
+      "kr_sha256": "2da6beaa2185bec9ae67ab86d8c0a3ad1b29ca2c2ce28ca2832e350f0c708b7d",
+      "en_sha256": "782e1ddd6cf1ff6abe8948c1697a45a64e8661337588c94d07f6c3d01ce09405",
+      "origin": "ai"
+    },
+    "dataList[id=9102101].name": {
+      "pl": "Damage Taken",
+      "kr_sha256": "109303fe7c65e4be8b24637abd0516b83ef439645205751ce6d8a3257d5cb4d2",
+      "en_sha256": "13dec6f9421af3b766b62d0d9082287be2d5e80c355a662c05943cc5860762df",
+      "origin": "ai"
+    },
+    "dataList[id=9102102].desc": {
+      "pl": "zadaje +2% obrażeń za każde 1% brakującego HP jednostki (maks. 100%)",
+      "kr_sha256": "b72bec8e03a09b13578e31010891349ea66c40b0763ec1b9fc42c38fe7bd3dd6",
+      "en_sha256": "06162c05bc3e87fbdfa228e45f600597fbdeb3505b646a33e7aabdc09f7135a4",
+      "origin": "ai"
+    },
+    "dataList[id=9102102].name": {
+      "pl": "Plastered Training",
+      "kr_sha256": "1c93b8808d50e4c50770df89e45941b31c021f9e38e8d4511b2a56b4edbb6aa2",
+      "en_sha256": "c64ae213773be627cb56febc3301677327527628822fdd4409c3bb77f0a451a2",
+      "origin": "ai"
+    },
+    "dataList[id=9102103].desc": {
+      "pl": "przy 50% HP dochodzi do siebie z Oszołamienia i kończy tę turę.\nSzybkość w następnej turze jest ustalona na 10",
+      "kr_sha256": "b88bdbb73d4ac8cb94a6ad23b1854f1b6f6f49d10cd235ee59324c8c1114e2fb",
+      "en_sha256": "def6c4bc49881c0f6bb8c44e754a220f4d49d1083fe614422f31a8b28b40656e",
+      "origin": "ai"
+    },
+    "dataList[id=9102103].name": {
+      "pl": "Well, well... Hic. This won't do",
+      "kr_sha256": "4c1ae4fdaca21e51c6613417f54890ca728b8cca824823f5f379ca1e360eeaa3",
+      "en_sha256": "7fa36dafbcbd1fe778ef64895b05b6fb08e0300cd0f51ccd17d1f6424a6f252d",
+      "origin": "ai"
+    },
+    "dataList[id=9102104].desc": {
+      "pl": "przy 70%+ HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 3 [AttackDown] w następnej turze\nponiżej 70% HP: na koniec tury, jeżeli nie trafiła Hong Lua Umiejętnością, zyskuje 6 [AttackUp] w następnej turze",
+      "kr_sha256": "c8f02afbbc6476709af5daaaf198a07f800ac07592b2fa8906726b86078e5bd3",
+      "en_sha256": "ce19ee3f753934bc821d92061130bd9d3ed4726b45c2429851861b5ab1f61899",
+      "origin": "ai"
+    },
+    "dataList[id=9102104].name": {
+      "pl": "Clear Target",
+      "kr_sha256": "6ec37877a175eb1f7d86ee7c0887b41c5f53a472a33c1768a29535db29166a46",
+      "en_sha256": "394573f2e4dde64bf3640d7cb1c5878f4c7dac21e603dd285742c92c82a6467b",
+      "origin": "ai"
+    },
+    "dataList[id=9102201].desc": {
+      "pl": "gdy ta jednostka przechodzi w Oszołamienie, eliminuje Siłę [Burst] i Licznik [Burst] ostatnio przez nią trafionego celu",
+      "kr_sha256": "77eca16ebf2b5d3e63a4c6401d968e7286fc4420b75b59fb674c73b017feb220",
+      "en_sha256": "f2928aa3ec6e433a0edd6ac3556dd21eaceccabeb6facd54debab1b211227ca0",
+      "origin": "ai"
+    },
+    "dataList[id=9102201].name": {
+      "pl": "Off-mark Curse",
+      "kr_sha256": "8780ff3117622b5301d6a0c7861355786eaf75334005b3bc17c657f4d5e57290",
+      "en_sha256": "75874fb13b8ddff2ef4ddb5656c42c82e3a0dcffbaba30450b5546027d5449ed",
+      "origin": "ai"
+    },
+    "dataList[id=9102202].desc": {
+      "pl": "przy trafieniu, jeżeli (Siła [Burst] celu + Licznik [Burst] celu) wynosi 5 lub więcej, nakłada 1 [DefenseDown] (do 5 razy na turę)",
+      "kr_sha256": "7521f3ef9dc411563cb9f1cdfcc32b9eebb9917544e6e81e0b8ce91ad310b3fb",
+      "en_sha256": "86f6dea7040922667e057a43c61d6bb41ced25593c4f6b9d693f1da8a4e84b09",
+      "origin": "ai"
+    },
+    "dataList[id=9102202].name": {
+      "pl": "Cursed Spirit Jar",
+      "kr_sha256": "1752c02ef90e31779a870d622b56d6b6998385a318c8ed028d17f5a847d34a06",
+      "en_sha256": "10ab0c1c05eca28fcce2db7daebd43858ac15c451ed18df41a3f797b03cf4cf7",
+      "origin": "ai"
+    },
+    "dataList[id=9102203].desc": {
+      "pl": "Koniec tury: nakłada [Poison] wszystkim wrogom równy liczbie tur od dołączenia tej jednostki do walki (maks. 5)\njeżeli jednostka zabije się sama, nakłada (liczba tur x 5) [Poison] wszystkim wrogom w następnej turze (maks. 25) oraz 2 Licznika [Burst]",
+      "kr_sha256": "b31c56f9d66cc331f9c5257b28208cb25aa298fce240319ca3c7933b18d20033",
+      "en_sha256": "39cbf75eb7f1d484b5b4ccf5046e287fcb079f924c10226e5a95fa8dcd06cfa1",
+      "origin": "ai"
+    },
+    "dataList[id=9102203].name": {
+      "pl": "Jar-haunting Curse",
+      "kr_sha256": "a2c8a1397ba8cde4b0ea4bce202e925af3d6d60aec25e47146c7fcddd1496f70",
+      "en_sha256": "8ae5282ca66347bdc9286515cf8fec45f3ecfe40553841fb5e9a0eea2f232411",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+426||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 4 부여|[OnSucceedAttack] Inflict 4 [Burst]
+427||(ulepszenie 1) — nazwa] 비례물동(非禮勿動)|Act Not With Impropriety (非禮勿動)
+428||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 횟수 2당, 합 위력 +1 (최대 3)|[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)
+430||(ulepszenie 1) — moneta 1, efekt 2 — opis] [WinDuelAttack] 다음 턴에 [Binding] 1 부여|[WinDuelAttack] Inflict 1 [Binding] next turn
+433||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [BurstStop] 부여|[OnSucceedAttack] Inflict [BurstStop]
+434||(ulepszenie 1) — nazwa] 회피|Evade
+435||(ulepszenie 1) — opis] 이 스킬을 사용하지 못했다면, 다음 턴에 [Binding] 1 얻음\n[WhenUse] 대상의 [Burst] 2당, 코인 위력 +1 (최대 3)|If this unit failed to use this Skill, gain 1 [Binding] next turn\n[WhenUse] Coin Power +1 for every 2 [Burst] on target (max 3)
+436||(ulepszenie 1) — nazwa] 뇌정만균|Thunderstrike
+437||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 2 증가|[WhenUse] If target has 5+ [Burst], Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count
+439||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [BurstWave] 부여|[OnSucceedAttack] Inflict [BurstWave]
+440||(ulepszenie 1) — nazwa] 베어라. 묘|Cut them Down, Mao
+441||(ulepszenie 1) — opis] [WhenUse] 정신력 10 회복\n[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 2 부여|[WhenUse] Heal 10 SP\n[WhenUse] If target has 5+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [Burst]
+445||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [BurstSuppress] 부여|[OnSucceedAttack] Inflict [BurstSuppress]
+446||(ulepszenie 1) — nazwa] 좀 더 몰아쳐야겠구나|I Must Push You Further
+447||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 횟수 2당, 합 위력 +1 (최대 3)\n[WinDuel] [Burst] 2 부여, [Burst] 횟수 2 증가|[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)\n[WinDuel] Inflict 2 [Burst] and +2 [Burst] Count
+449||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 횟수 4 증가|[UnBrokenCoinOnSucceedAttack] Inflict +4 [Burst] Count
+451||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Burst]
+454||(ulepszenie 1) — moneta 4, efekt 2 — opis] 대상의 ([Burst] 위력 + [Burst] 횟수)당 피해량 +5% (최대 200%)\n[OnSucceedAttack] 대상의 모든 주살을 0으로 만듦|Deal +5% damage for every ([Burst] Potency on target + [Burst] Count on target) (max 200%)\n[OnSucceedAttack] Reduce all Deathrites on target to 0
+455||(ulepszenie 1) — nazwa] 나서지 마라|Do Not Meddle
+456||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 3)\n[WinDuel] [Burst] 횟수 2 증가|[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 3)\n[WinDuel] Inflict +2 [Burst] Count
+461||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1|[WhenUse] If target has 5+ [Burst], Clash Power +1
+463||(ulepszenie 1) — nazwa] 척살|Perforating Kill
+464||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1\n[WhenUse] [LegStrength] 3 얻음|[WhenUse] If target has 5+ [Burst], Coin Power +1\n[WhenUse] Gain 3 [LegStrength]
+466||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [BurstAgility]이 있으면, 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] If target has [BurstAgility], gain 1 [Agility] next turn
+467||(ulepszenie 1) — nazwa] 표각|Etching Strike
+472||(ulepszenie 1) — nazwa] 각주살검 - 순보|Cursewrit Butcherblade - Blinkstep
+473||(ulepszenie 1) — opis] [BurstAgility]이 있는 대상을 우선 공격함\n[StartBattle] [SupportProtect] 1 얻음\n자신과 대상의 속도 차이 2 당 피해량 +15% (최대 60%)\n[WhenUse] 대상의 [Burst] 5 당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 횟수 2 당, 기본 위력 +1 (최대 3)\n[WinDuel] [Burst] 횟수 2 증가|Prioritizes targets with [BurstAgility]\n[StartBattle] Gain 1 [SupportProtect]\nDeal +15% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on the target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Count on the target (max 3)\n[WinDuel] Inflict +2 [Burst] Count
+477||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst]
+481||(ulepszenie 1) — moneta 3, efekt 4 — opis] [UnBrokenCoinOnSucceedAttack] 이 코인 1회 재사용 (스킬당 1회)|[UnBrokenCoinOnSucceedAttack] Reuse this Coin once (once per Skill)
+482||(ulepszenie 1) — nazwa] 각주|Cursewrit
+483||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 대상보다 3 이상 빠르면, 합 위력 +1\n[WhenUse] 대상에게 [BurstAgility]이 있으면, 이 스킬에서 부여하는 [Burst] 횟수 1 추가 증가|[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Clash Power +1\n[WhenUse] If target has [BurstAgility], inflict +1 more [Burst] Count with this Skill
+487||(ulepszenie 1) — nazwa] 금제 부분 해방 : <천구성도>|Incomplete Seal Release: <Tianjiu Star's Blade>
+488||(ulepszenie 1) — opis] 자신과 대상의 속도 차이 2 당 피해량 +20% (최대 60%)\n[WhenUse] 대상의 [Burst] 5 당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Burst] 횟수 2 당, 합 위력 +1 (최대 3)|+20% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on target (max 3)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)
+490||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst] Count
+492||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 5 부여|[UnBrokenCoinOnSucceedAttack] Inflict 5 [Burst]
+494||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [BurstZilu] 부여|[OnSucceedAttack] Inflict [BurstZilu]
+495||(ulepszenie 1) — nazwa] 다시 물으마|I Ask Again
+496||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WinDuel] [Burst] 횟수 2 증가|[WhenUse] If target has 5+ [Burst], Clash Power +1\n[WinDuel] Inflict +2 [Burst] Count
+504||(ulepszenie 1) — nazwa] 나서지 마라|You Will Not Meddle
+509||(ulepszenie 1) — nazwa] 뇌정만균 - 파(波)|Thunderstrike - Ripple (波)
+510||(ulepszenie 1) — opis] 주살 종류를 가장 많이 가진 대상 우선 공격\n[WhenUse] 메인 타겟의 [Burst] 2당, 코인 위력 +1 (최대 4)|Prioritizes targets with the most types of Deathrite\n[WhenUse] Coin Power +1 for every 2 [Burst] on the main target (max 4)
+512||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 주살이 2종류 이상 있는 대상일 경우, [BurstWave] 부여|[OnSucceedAttack] If the target has 2+ types of Deathrite, inflict [BurstWave]
+513||(ulepszenie 1) — nazwa] 흑수 묘 연계 - 난격|Heishou - Mao Linkstrike - Bladestorm
+514||(ulepszenie 1) — opis] [WhenUse] 정신력 10 회복\n[WhenUse] 대상의 [Burst] 5 당, 코인 위력 +1 (최대 2)\n[WinDuel] [Burst] 2 부여|[WhenUse] Heal 10 SP\n[WhenUse] Coin Power +1 for every 5 [Burst] on target (max 2)\n[WinDuel] Inflict 2 [Burst]
+523||(ulepszenie 1) — nazwa] 자로여|Heed Me, Zilu
+533||(ulepszenie 1) — nazwa] 주살 쇄도|Deathrite Deluge
+534||(ulepszenie 1) — opis] [CantChangeTarget]\n주살 종류를 가장 많이 가진 대상우선 공격\n[WhenUse] 대상의 주살 수당, 코인 위력 +1 (최대 3)|[CantChangeTarget]\nPrioritizes targets with the most types of Deathrite\n[WhenUse] Coin Power +1 for every type of Deathrite on target (max 3)
+536||(ulepszenie 1) — moneta 1, efekt 2 — opis] 대상의 ([Burst] 위력 + [Burst] 횟수 + 보유한 주살 종류)당 피해량 +5% (최대 200%)\n[OnSucceedAttack] 대상의 모든 주살을 0으로 만듦|Deal +5% damage for every ([Burst] Potency on target + [Burst] Count on target + number of Deathrite types on target) (max 200%)\n[OnSucceedAttack] Reduce all Deathrites on target to 0
+537||(ulepszenie 1) — nazwa] 답하라, 가보옥|Answer Me, Jia Baoyu
+538||(ulepszenie 1) — opis] [CantChangeTarget]\n홍루를 우선 공격함\n[WinDuel] [Burst] 횟수 4 증가\n[DefeatDuel] 대상이 홍루면, [Teaching] 1 부여|[CantChangeTarget]\nPrioritizes Hong Lu\n[WinDuel] Inflict +4 [Burst] Count\n[DefeatDuel] If the target is Hong Lu, inflict 1 [Teaching]
+540||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]
+547||(ulepszenie 1) — nazwa] 천강성 - 격(格)|Tiangang Star - Form (格)
+548||(ulepszenie 1) — opis] 홍루를 우선 공격함\n대상의 [Teaching]당, 코인 위력 -2\n[DefeatDuel] 이 공격으로 흐트러짐 상태가 되지 않음. 이번 전투동안 [DefenseDown] 24 얻음\n[DefeatDuel] 피해량이 50%만큼 감소함|Prioritizes Hong Lu\nCoin Power -2 for every [Teaching] on target\n[DefeatDuel] Cannot Stagger with this attack. Gain 24 [DefenseDown] for this Encounter\n[DefeatDuel] Deal -50% damage
+556||(ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 ([Burst] 위력 + [Burst] 횟수 + 보유한 주살 종류)당 피해량 +5% (최대 100%)|[UnBrokenCoinOnSucceedAttack] Deal +5% damage for every ([Burst] Potency on target + [Burst] Count on target + number of Deathrite types on target) (max 100%)
+557||(ulepszenie 1) — nazwa] 나약한 것..|Weaklings...
+558||(ulepszenie 1) — opis] [StartBattle] 속도가 가장 빠른 아군에게 [AttackDmgUp] 2 부여|[StartBattle] Apply 2 [AttackDmgUp] to the fastest ally
+561||(ulepszenie 1) — nazwa] 우둔한 놈들..|Dolts...
+562||(ulepszenie 1) — opis] [StartBattle] 속도가 가장 느린 아군에게 다음 턴에 [Agility] 2 부여|[StartBattle] Apply 2 [Agility] to the slowest ally next turn
+564||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+565||(ulepszenie 1) — nazwa] 죽여버리겠어!|I'm Gonna Kill You!
+566||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 3개 이상이면, 기본 위력 +1\n[WhenUse] 대상의 [Burst] 6 당, 코인 위력 +1 (최대 2)\n[DefeatDuel] [Vulnerable] 1 얻음|[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[DefeatDuel] Gain 1 [Vulnerable]
+569||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 정신력 5 피해|[OnSucceedAttack] Deal 5 SP damage
+573||(ulepszenie 1) — nazwa] 뛰어들어라!!|Jump In!!
+574||(ulepszenie 1) — opis] [WhenUse] 정신력 15 회복\n[WhenUse] 대상의 부정적인 효과가 3개 이상이면, 기본 위력 +1\n[EndSkill] 현재 체력이 가장 낮은 항아리 1개가 대상에게 ‘뛰어드는 금 간 항아리’ 스킬 발동 (흐트러짐 무시)|[WhenUse] Heal 15 SP\n[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[EndSkill] 1 Jar with the least current HP uses the Skill 'Leaping Cracked Jar' at the target (ignores Stagger)
+576||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+578||(ulepszenie 1) — nazwa] 좋은 구경은 더 해야지?|Let's Watch This Spectacle, All Together!
+579||(ulepszenie 1) — opis] [StartBattle] 다음 턴에 항아리 2개 소환\n[WhenUse] 대상의 부정적인 효과가 3개 이상이면, 기본 위력 +1|[StartBattle] Summon 2 Jars next turn\n[WhenUse] If target has 3+ negative effects, Base Power +1
+583||(ulepszenie 1) — nazwa] 부령술(符靈術) - 부격|Spirit Talisman School - Talisman Strike
+584||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 최종 위력 +1 (최대 3)\n[WhenUse] 자신의 잃은 체력 30%당 합 위력 +1 (최대 2)|[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)\n[WhenUse] Clash Power +1 for every 30% missing HP on self (max 2)
+585||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 2 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count
+586||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [OminousTalisman] 10 부여|[OnSucceedAttack] Inflict 10 [OminousTalisman]
+587||(ulepszenie 1) — nazwa] 부령술(符靈術) - 효력 발동|Spirit Talisman School - Trigger Effect
+589||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count
+591||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [OminousTalisman] 2 소모|[OnSucceedAttack] Reduce [OminousTalisman] on target by 2
+592||(ulepszenie 1) — nazwa] 부령술(符靈術) - 주살 인형|Spirit Talisman School - Deathrite Doll
+593||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 최종 위력 +1 (최대 4)|[WhenUse] Final Power +1 for every 4 [Burst] on target (max 4)
+596||(ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [OminousTalisman] 5 소모|[UnBrokenCoinOnSucceedAttack] Reduce [OminousTalisman] on target by 5
+597||(ulepszenie 1) — nazwa] 부령술(符靈術) - 사기 폭주|Spirit Talisman School - Vilerage
+598||(ulepszenie 1) — opis] [StartBattle] 자신의 잃은 체력 20%당 가중치 +1 (최대 4)\n[WhenUse] 대상의 [Burst] 4당, 최종 위력 +1 (최대 4)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해, 효과로 대상이 흐트러지지 않음\n[EndSkill] 이 스킬로 사망한 적이 있다면, 자신을 포함한 모든 아군에게 다음 턴에 [ResultEnhancement] 2, [AttackDmgUp] 2 부여 (턴당 1회)|[StartBattle] Atk Weight +1 for every 20% missing HP on self (max 4)\n[WhenUse] Final Power +1 for every 4 [Burst] on target (max 4\n[DefeatDuel] Deal -50% damage; this Skill cannot Stagger the target with damage or effect\n[EndSkill] If this Skill has defeated an enemy, apply 2 [ResultEnhancement] and 2 [AttackDmgUp] to all allies, including this unit, next turn (once per turn)
+606||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [OminousTalisman] 전부 소모|[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target
+607||(ulepszenie 1) — nazwa] 받아라!|Take This!
+608||(ulepszenie 1) — opis] [WhenUse] 대상의 보유한 부정적인 효과 2개당 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)
+609||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [MadFeather] 1 부여|[OnSucceedAttack] Inflict 1 [MadFeather]
+613||(ulepszenie 1) — nazwa] 무릎을 꿇으라!|KNEEL!
+614||(ulepszenie 1) — opis] [CantIdentify]\n[WhenUse] 대상의 보유한 부정적인 효과 2개당 코인 위력 +1 (최대 2)|[CantIdentify]\n[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)
+621||(ulepszenie 1) — nazwa] 네 놈 꼬라지를 봐라!|Look at You Flaming Idiots!
+622||(ulepszenie 1) — opis] [WhenUse] 대상이 보유한 부정적인 효과 2개당 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)
+625||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Burst] 1회 발동. 대상의 [Burst] 횟수 1 감소|[OnSucceedAttack] Activate [Burst] on target once. Target loses 1 [Burst] Count
+626||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [MadFeather] 수치만큼 [Laceration] 위력, [Burst] 위력 부여|[OnSucceedAttack] Inflict [Laceration] and [Burst] Potency equal to [MadFeather] Stack
+627||(ulepszenie 1) — nazwa] 예를 갖추거라!|Know Your Place!
+628||(ulepszenie 1) — opis] [WideAreaRampage]\n[WhenUse] 자신의 체력을 최대 체력의 3%만큼 소모 (이 피해로 사망하지 않음)|[WideAreaRampage]\n[WhenUse] Consume 3% HP on self (this damage does not kill this unit)
+632||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] 다음 턴에 [ShamrockTakeDamageUp] 1 부여|[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp] next turn
+634||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [MadFeather] 2 부여|[OnSucceedAttack] Inflict 2 [MadFeather]
+638||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [MadFeather] 3 부여|[OnSucceedAttack] Inflict 3 [MadFeather]
+641||(ulepszenie 1) — nazwa] 고개를 조아리라!|Kowtow Before Me!
+642||(ulepszenie 1) — opis] [CantIdentify]\n[WhenUse] 자신의 체력을 최대 체력의 5%만큼 소모 (이 피해로 사망하지 않음)|[CantIdentify]\n[WhenUse] Consume 5% HP on self (this damage does not kill this unit)
+644||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 ([MadFeather] 수치 x 10)만큼 [Burst]을 부여하고, 대상의 [MadFeather] 전부 소멸|[UnBrokenCoinOnSucceedAttack] Inflict ([MadFeather] on target x 10) [Burst]; all [MadFeather] on target expires
+645||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Burst] 2회 발동. 대상의 [Burst] 횟수 2 감소|[OnSucceedAttack] Activate [Burst] on target 2 times. Target loses 2 [Burst] Count
+646||(ulepszenie 1) — nazwa] 기회를 주마|I'll Give You a Chance
+647||(ulepszenie 1) — opis] [DuelCounter]\n[DefeatDuel] 대상이 보유한 [MadFeather] 전부 소멸|[DuelCounter] \n[DefeatDuel] All [MadFeather] on target expires
+651||(ulepszenie 1) — nazwa] 충도류(充刀流) - 내려베기|Charge Blade Style - Downward Cleave
+652||(ulepszenie 1) — opis] [WhenUse] [Charge] 횟수를 5 소모하여, 최종 위력 + 1 (최대 2)\n[WhenUse] 자신의 [Charge] 횟수 2 증가|[WhenUse] Consume 5 [Charge] Count to gain Final Power +1 (max 2)\n[WhenUse] Gain +2 [Charge] Count
+653||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Charge] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Charge] Count
+655||(ulepszenie 1) — nazwa] 충도류(充刀流) - 휘둘러베기|Charge Blade Style - Windup Slash
+656||(ulepszenie 1) — opis] [WhenUse] [Charge] 횟수를 5 소모하여, 합 위력 + 1 (최대 2)\n[WhenUse] 자신의 [Charge] 횟수 5 증가|[WhenUse] Consume 5 [Charge] Count to gain Clash Power +1 (max 2)\n[WhenUse] Gain +5 [Charge] Count
+661||(ulepszenie 1) — nazwa] 충도류(充刀流) - 베어부수기|Charge Blade Style - Crushing Slice
+662||(ulepszenie 1) — opis] [WhenUse] [Charge] 횟수를 5 소모하여, 코인 위력 + 1 (최대 2)\n[WhenUse] [Charge] 횟수를 5 이상 소모했다면, [Burst] 부여량 +2\n[WhenUse] [Charge] 횟수를 10 소모했다면, [Burst] 횟수 3 증가\n[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, [Burst] 위력을 2 × (13 - 현재 [Charge] 횟수)만큼 획득하여 [Charge] 횟수가 10으로 증가\n[DefeatDuel] 피해량이 75%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1 (max 2)\n[WhenUse] If this unit consumed 5+ [Charge] Count, inflict +2 more [Burst]\n[WhenUse] If this unit consumed 10+ [Charge] Count, inflict +3 [Burst] Count\n[WhenUse] At 5~9 [Charge] Count, gain 2(13 - current [Charge] Count) [Burst] to raise this unit's [Charge] Count to 10\n[DefeatDuel] Deal -75% damage; damage dealt by this Skill cannot Stagger the target
+670||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst] 위력만큼 탐식 피해를 주고, [Burst] 횟수 1 감소 (최대 30)|[OnSucceedAttack] Inflict Gluttony damage equal to [Burst] Potency on target; then, reduce [Burst] Count by 1 (max 30)
+671||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 스킬 사용시 소모한 [Charge] 횟수 5당 [Burst] 횟수 2 부여 (최대 4)|[OnSucceedAttack] Inflict +2 [Burst] Count for every 5 [Charge] Count consumed On Use (max 4)
+672||(ulepszenie 1) — nazwa] 충도류(充刀流) - 흐름 베기|Charge Blade Style - Flowing Slash
+673||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 5 증가|[WhenUse] Gain +5 [Charge] Count
+676||(ulepszenie 1) — nazwa] 충권류(充拳流) - 마주치기|Charge Fist Style - Faceoff
+677||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [Charge] 횟수 3 증가|[WhenUse] Final Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Gain +3 [Charge] Count
+678||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Charge] 횟수 3 증가|[OnSucceedAttack] Gain +3 [Charge] Count
+680||(ulepszenie 1) — nazwa] 충권류(充拳流) - 휘둘러치기|Charge Fist Style - Roundhouse Punch
+681||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 5당, 최종 위력 +1 (최대 2)\n[WhenUse] [Charge] 횟수를 5 소모하여, 최종 위력 + 1\n[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, [Burst] 위력 2 × (13 - 현재 [Charge] 횟수)만큼 획득하여 [Charge] 횟수가 10으로 증가 (턴 당 1회)\n[WhenUse] 자신의 [Charge] 횟수 5 증가|[WhenUse] Final Power +1 for every 5 [Burst] on target (max 2)\n[WhenUse] Consume 5 [Charge] Count to gain Final Power +1\n[WhenUse] At 5~9 [Charge] Count, gain 2(13 - current [Charge] Count) [Burst] Potency to raise [Charge] Count to 10 (once per turn)\n[WhenUse] Gain +5 [Charge] Count
+682||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Charge] 횟수 5 증가|[OnSucceedAttack] Gain +5 [Charge] Count
+684||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 [Charge]이 2 이상이면 [Burst] 횟수 2 증가|[OnSucceedAttack] At 2+ [Charge], inflict +2 [Burst] Count
+685||(ulepszenie 1) — nazwa] 충권류(充拳流) - 쳐 부수기|Charge Fist Style - Destroy
+686||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 6당, 최종 위력 +1 (최대 2) \n[WhenUse] [Charge] 횟수를 5 소모하여, 코인 위력 + 1 (최대 3)\n[WhenUse] [Charge] 횟수를 5 이상 소모했다면, [Burst] 부여량 +2\n[WhenUse] [Charge] 횟수를 10 이상 소모했다면, 대상의 [Burst] 횟수 3 증가\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] Final Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1 (max 3)\n[WhenUse] If this unit consumed 5+ [Charge] Count, inflict +2 more [Burst]\n[WhenUse] If this unit consumed 10+ [Charge] Count, inflict +3 [Burst] Count\n[DefeatDuel] Deal -80% damage; damage dealt by this Skill cannot Stagger the target
+690||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] [Charge] 횟수 소모 시 [OminousTalisman] 10 부여\n- 소모한 [Charge] 횟수가 10 이상이면, 초과한 [Charge] 횟수만큼 대상의 [Burst] 횟수 증가|[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 10 [OminousTalisman]\n- If this unit consumed 10+ [Charge] Count, inflict ([Charge] Count consumed - 10) [Burst] Count
+692||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 [OminousTalisman] 전부 소모|[OnSucceedAttack] Remove all [OminousTalisman] on target
+694||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 스킬 사용시 소모한 [Charge] 횟수가 5 이상이라면 [OminousTalisman] 10 부여|[UnBrokenCoinOnSucceedAttack] If this unit consumed 5+ [Charge] Count On Use, inflict 10 [OminousTalisman]
+695||(ulepszenie 1) — moneta 3, efekt 3 — opis] [WinDuelAttack] 스킬 사용시 소모한 [Charge] 횟수가 10 이상이라면 [OminousTalisman] 전부 소모|[WinDuelAttack] If this unit consumed 10+ [Charge] Count On Use, consume all [OminousTalisman] on target
+696||(ulepszenie 1) — nazwa] 충권류(充拳流) - 흐름맞추기|Charge Fist Style - Rhythm Matching
+699||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [OminousTalisman] 3 소모|[OnSucceedAttack] Reduce [OminousTalisman] on target by 3
+700||(ulepszenie 1) — nazwa] 초속호위|Swiftfeet Protection
+701||(ulepszenie 1) — opis] [CanDuelGuard]\n[BeforeUse] [SupportProtect]가 2 이상이면, 흑수 묘 오의 - 운해현현으로 발동됨\n[WhenUse] 자신이 이번 전투에서 잃은 체력 누적 5% 당, 이 스킬의 방어 레벨이 1 증가 (최대 10)\n[WhenUse] 이 스킬 종료 시까지 피해로 인해 흐트러짐 상태가 되지 않음|[CanDuelGuard]\n[BeforeUse] At 2+ [SupportProtect], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] Gain 1 Defense Level for every 5% HP this unit cumulatively lost in this Encounter (max 10)\n[WhenUse] Cannot be Staggered by damage until this Skill ends
+703||(ulepszenie 1) — nazwa] 흑수 묘 오의 - 운해현현|Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation
+711||(ulepszenie 1) — nazwa] 휩쓸고 몰아쳐라|Like a Roaring Storm
+712||(ulepszenie 1) — opis] [CantDuel]\n[CantChangeTarget]\n이 스킬은 홍루를 제외한 인원을 공격함\n다음 턴에 홍루를 제외한 다른 인격들을 흑수 - 묘를 이용해 흐트러짐 상태로 만듦, 자신의 흐트러짐 상태를 해제함\n[EndSkill] 턴이 종료함|[CantDuel]\n[CantChangeTarget]\nThis Skill attacks targets that aren't Hong Lu\nUses the Heishou Pack - Mao Branch to Stagger every Identity except for Hong Lu next turn; this unit recovers from Stagger\n[EndSkill] Ends turn

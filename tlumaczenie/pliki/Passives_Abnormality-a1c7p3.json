@@ -72,6 +72,48 @@
       "en_sha256": "33f595183c965ed504d38a3cbf8d53baad1a4b9b1814fc573c9e9f4e30973699",
       "origin": "ai"
     },
+    "dataList[id=837601].summary": {
+      "pl": "jeżeli cel ma [Burst] bezpośrednio przed atakiem, 20% szans na nałożenie 1 Licznika [Burst]",
+      "kr_sha256": "fdb5dbdf6e6668f77b094091bab64aaa6f1d9cefe55d2f4a0bf10f55da2aa928",
+      "en_sha256": "7181d19961816b3d1da1559f8066b836b4ae6e60ca15d1140d7e7cd0ed846300",
+      "origin": "ai"
+    },
+    "dataList[id=837602].desc": {
+      "pl": "zyskuje Szybkość równą liczbie utworzonych na polu jednostek „Barbed Lasso”",
+      "kr_sha256": "54d6b059242d1397bb96e44f880c335ac076898f97d08c22ab4c67723ac5432e",
+      "en_sha256": "af9d8f36ca4d2cac2d0228c554e1bde3b6355231f5a3cb3fb2dadc607f9e1624",
+      "origin": "ai"
+    },
+    "dataList[id=837602].name": {
+      "pl": "Bramble Steed",
+      "kr_sha256": "16a995a5718f54eed1739fee8942f9ea4788e87c39cdd524d84fcc706718f5cb",
+      "en_sha256": "ac0065e104e689773d0d5556dffb8a4c049192d6984e9cf9d1b743d506cb3d53",
+      "origin": "ai"
+    },
+    "dataList[id=837603].desc": {
+      "pl": "przy 40% HP lub mniej przybiera nowy wzorzec\nco turę nakłada [Burst] każdemu wrogowi w wysokości jego Szybkości\nnakłada 2 [ThornNoose]\nz każdą upływającą turą zyskuje po 2 [AttackUp] i [DefenseDown] (maks. 12)",
+      "kr_sha256": "052db6084cff161297ac364152fed6cebed08cdf22ef2f1f717a28fb4e8bd1a8",
+      "en_sha256": "b8330be0e3890961039ae4c9e398db429425e731f9a2ce4d7c5c74de05baba8f",
+      "origin": "ai"
+    },
+    "dataList[id=837603].name": {
+      "pl": "Interlocking Brambles",
+      "kr_sha256": "ba4d05c0bb3493430c7a60f4bd39ecccfbba53ffbc2db482cd7a46406e727b33",
+      "en_sha256": "91a2cc146602bb972db7af15a4dfe7f2163c0149f817cf67e66458c8fb211efa",
+      "origin": "ai"
+    },
+    "dataList[id=837701].desc": {
+      "pl": "przy śmierci [ThornNoose] wroga związanego z tą jednostką znika",
+      "kr_sha256": "68ebefd1a390e63b2907eefce53affe4a6a913ae4b0f6277adaf319378d4be78",
+      "en_sha256": "66c6ce15b0eb0d4a2ecbf45e8977ded8a14b534db48010ed82a9ba45416124c2",
+      "origin": "ai"
+    },
+    "dataList[id=837701].name": {
+      "pl": "Barbed Lasso",
+      "kr_sha256": "708f17f778dfc08436fc3da2808a0fb3568ca28b2085098631ee69261fb52dde",
+      "en_sha256": "be69d87c99173470b5c3b44ba7c257a5070c366f6e32cb5520c20dee10030d1e",
+      "origin": "ai"
+    },
     "dataList[id=837801].desc": {
       "pl": "Koniec tury: uruchamia własne [Laceration] (do 50; zużywa 1 Licznika [Laceration]). przywraca 50 HP Korpusowi i Części sojuszniczego Bloodfienda z najniższym HP (nie uruchamia się, jeżeli żaden sojusznik nie otrzymał obrażeń)",
       "kr_sha256": "1382b60d3bf1c5d8a50e675e5cc37061368f10ddeb7c2c45d65baf62d3ce802e",
@@ -190,6 +232,384 @@
       "pl": "Please Don't be Sick",
       "kr_sha256": "6391a3d73eac7d0123b632c7474a7c0617b800ef24e5da0afc03cfd7c45f2e7f",
       "en_sha256": "f8ca4a98f4aa88f6c6995554c9bf3b53928c31496bac9e68890ca100f63413e0",
+      "origin": "ai"
+    },
+    "dataList[id=838001].desc": {
+      "pl": "przy 80%, 60% i 40% HP przestaje tracić HP i przybiera nowy wzorzec\npo zmianie wzorca dochodzi do siebie z Oszołamienia, a Szybkość w następnej turze wynosi 10",
+      "kr_sha256": "c33d395281a26c1ff780d198caeddc1f312b1e557c64abf6f76d5f3f2760575b",
+      "en_sha256": "85c67205e1f9cc2a7dbb887908bce1e65b84991be5cc26ba06687f3b18fafa71",
+      "origin": "ai"
+    },
+    "dataList[id=838001].name": {
+      "pl": "The Enthralling Tales, the Beating Passion",
+      "kr_sha256": "5b8cb1defd58e36af6ff12cc51fe93d7b4e5e2c5a65df0e4a6382e9311aae1bb",
+      "en_sha256": "a1a0f3f061278c6474fbef63334f77f22d9a88102118f352eb1c9d353aebcbbc",
+      "origin": "ai"
+    },
+    "dataList[id=838002].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma [Laceration], przywraca Części i Korpusowi HP równe 40% zadanych obrażeń.\n- ten Pasyw przywraca o 1% więcej HP za każde 1 Siły [Laceration] jednostki (maks. 20%)\n- przy Niezniszczalnych Monetach: ten efekt nie uruchamia się przy trafieniu po przegranej w Starciu.\nPoczątek tury: przywraca HP równe ([BloodDinner]/10). (maks. 50)\nPoczątek tury: przy SP równym -15 lub mniej zużywa (20 - aktualne SP) [BloodDinner], by przywrócić SP, i zyskuje 2 Wzrostu Mocy Starcia\nprzy pokonaniu wroga zyskuje 5 [BloodArmor]",
+      "kr_sha256": "85160346d57365b540021b08a9d7ec31a3d63ee23922a3fc9a04826be9a2aa79",
+      "en_sha256": "1d8ffe44d78e3559ca9c556f4c315e0fc6ab990e0f25b5d51075d2331761afab",
+      "origin": "ai"
+    },
+    "dataList[id=838002].name": {
+      "pl": "If we can be freed from this excruciating sickness",
+      "kr_sha256": "8952404fb9c37fc45bf9b61ec53d0933cea570164a298a32a52e697672812272",
+      "en_sha256": "442b397c7a126a3f5cb0a383498b1b1ed888c5c22d56e2cd472f1beeafe52c0d",
+      "origin": "ai"
+    },
+    "dataList[id=838002].summary": {
+      "pl": "przy trafieniu, jeżeli cel ma [Laceration], przywraca HP",
+      "kr_sha256": "0cd7c0ebb7fe98f2cf11856f99e07578c3aacfcf0d281be8eb78e488abe8b530",
+      "en_sha256": "683a5bf2f139ad47272e743aad9c85d3d295451d0ea4f40294674a97865d24a3",
+      "origin": "ai"
+    },
+    "dataList[id=838003].desc": {
+      "pl": "Koniec tury: Min. i Maks. Szybkość +1 w następnej turze za każde 300 [BloodDinner]",
+      "kr_sha256": "b9b323226d6d3cb360953d214f775de533c2f5f4195a52cd4840bf157ebed8c8",
+      "en_sha256": "7637175e0bacc2366723344d8daa37e10caf00020b375b361eaf84faeaf910c8",
+      "origin": "ai"
+    },
+    "dataList[id=838003].name": {
+      "pl": "Can I go on an adventure, too?",
+      "kr_sha256": "370086cf1595f7c6c0ddfdea3159136c46de0e6b7b590a3479ccd2f775baff42",
+      "en_sha256": "50dcfbb901601150994354fc7b6b9c164c7df3ab44e1480b7e593162af659a5c",
+      "origin": "ai"
+    },
+    "dataList[id=838004].desc": {
+      "pl": "jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [BloodDinner] rośnie o łączną wartość obrażeń [Laceration] otrzymanych przez wszystkie jednostki.\ngdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypełnia powierzchnię po brzegi.",
+      "kr_sha256": "205f1075b34ded52c1773fdbdb37b95588d0f4a6fb5cd3212635e8028bb0f963",
+      "en_sha256": "f8df96026687174fb33b2678bdddcf57bd150d257baaee5e8084d364ad34ce05",
+      "origin": "ai"
+    },
+    "dataList[id=838004].name": {
+      "pl": "Bloodfeast",
+      "kr_sha256": "f5700dcc78928782572f472a62c7e0593254d34c4f4fff89ceaf59d0571c5411",
+      "en_sha256": "cf9136a9b13a7e14df15e39eae75ce74e860e431241fa8fe1a80bc223afb7591",
+      "origin": "ai"
+    },
+    "dataList[id=838005].desc": {
+      "pl": "Początek walki: zyskuje 1 [BloodArmor]\n- [BloodArmor] nie spadnie poniżej 1\n- przy 10+ [BloodArmor], przekształca je w [BloodArmor_2nd].\n- przy 20+ [BloodArmor], przekształca je w [BloodArmor_3rd].\nMin. i Maks. Szybkość +1 za każdy Etap tego efektu (maks. 2)\njeżeli jednostka zużyje [BloodArmor] i spadnie poniżej powyższych progów, wraca do poprzednich Etapów",
+      "kr_sha256": "d4e68a6aee3f44ded4d51d3b0ba3278570295cbdec99eee7f47506087c972f49",
+      "en_sha256": "d0d09feb911cf95cf9be0d901a9ffa6df218ef6e1bf213d95c8c71079aa86db3",
+      "origin": "ai"
+    },
+    "dataList[id=838005].name": {
+      "pl": "Hardblood",
+      "kr_sha256": "953e3acc380ba25b5276a99fe7aeb1311b2a3e40daca35173a78cf0dfa6513df",
+      "en_sha256": "3d81490e6ceaf6bee11c9c2cbc6cb9c5857f64f1428cdcef580acd4771448d7d",
+      "origin": "ai"
+    },
+    "dataList[id=838006].desc": {
+      "pl": "Początek walki: zyskuje [Dreamy].\nPoczątek walki: uśpiona krew przesiąkająca pole bitwy wynurza się, zwiększając [BloodDinner] o 400.",
+      "kr_sha256": "ff55ae1db4858ced1f1002b08d15b52092185c9994ffd2edf038285425a6e7dc",
+      "en_sha256": "45553c7da4edec80f4df4accb5e46f129cb98222f97d72fa210748f58a509989",
+      "origin": "ai"
+    },
+    "dataList[id=838006].name": {
+      "pl": "In Dreams",
+      "kr_sha256": "1122e3715c57c20631281208485cf8b9119503a12f3e8ba5aba194a56c9fc308",
+      "en_sha256": "1648ccee6a6ef630878e8897e11045f0a404839046e7bcaa6aa41587e7f3b12e",
+      "origin": "ai"
+    },
+    "dataList[id=838007].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, dochodzi do siebie z Paniki i zużywa 100 [BloodDinner], by zyskać 3 [Enhancement]\n- jeżeli nie udało się zużyć [BloodDinner], zyskuje 30 [Laceration], 3 [Enhancement] i 2 Wzrost Obrażeń",
+      "kr_sha256": "6f3d10377d7b2db583f3af422eaaae8d000761f4dbff534a49c2f24b465746a3",
+      "en_sha256": "1d01c31eb49091d10c1b90ab14d85474decf859fd56bd5f3457d6c70c9c2dab5",
+      "origin": "ai"
+    },
+    "dataList[id=838007].name": {
+      "pl": "But I have my Father and my Family whom I cannot abandon",
+      "kr_sha256": "558cff023baa2f32976332b91260a1b0c508b4d44284baae2ba00e5390957bd6",
+      "en_sha256": "219685c02a654bf560c7600e97e0919c6443b4cb14fdf5323ac1bd17d371eb38",
+      "origin": "ai"
+    },
+    "dataList[id=839001].desc": {
+      "pl": "HP Korpusu nie spada poniżej 1.",
+      "kr_sha256": "035bdc210820e5622855b177c1f25fff404635311a8a041bf2e5fc7b6b3d0f08",
+      "en_sha256": "417865c5d49ab79605a8d9b19ed8ffb40b7e19854571a242a6522bb62806eaa4",
+      "origin": "ai"
+    },
+    "dataList[id=839001].name": {
+      "pl": "Fix Core HP to 1",
+      "kr_sha256": "9ad63049494050eb4a4473fc67ee287c71535a9189a55cd2687707f02093b63d",
+      "en_sha256": "802e1803bc63ac1b4521889a5bbca2a0eceb2617116a81ad358055b4b615615f",
+      "origin": "ai"
+    },
+    "dataList[id=839002].desc": {
+      "pl": "generuje Gondole wypełnione Bloodfiendami i Bloodbagami w stałych odstępach. gdy Gondola się generuje, określona liczba Bloodfiendów i Bloodbagów może pojawić się na polu bitwy.",
+      "kr_sha256": "25a7dea2bcd36f16e5e7f53727e0d44a695d610ba5731886adb6c554c8e59967",
+      "en_sha256": "4734c7023de70dfd1b959210d12d8efe64fefb614c86c1a2fa5133ec51915f8d",
+      "origin": "ai"
+    },
+    "dataList[id=839002].name": {
+      "pl": "La Manchaland, Abandoned and Festering",
+      "kr_sha256": "286f51aa48b38974dd5474d4ed86792e92118b021d97cbe8806861bdb992297a",
+      "en_sha256": "9ad2b4b6968a5ea1825f2f01e5f5653c6b5f2377f5efca8b03a5898b44c5c6fb",
+      "origin": "ai"
+    },
+    "dataList[id=839003].desc": {
+      "pl": "nie może być atakowana, gdy na polu bitwy znajduje się Gondola.\nnie traci HP od obrażeń Umiejętności. nie otrzymuje obrażeń HP od efektów [Combustion], [Laceration], [Vibration], [Burst] ani [Sinking].",
+      "kr_sha256": "c94d37f32563db73ba80db2edd0c01e7b3d86503ddf11d7a9ba49655bc328df4",
+      "en_sha256": "1f76e00b94c1d9bca15e4b40ec5348196b356f23786a171c4bcd2515e05cd8b7",
+      "origin": "ai"
+    },
+    "dataList[id=839003].name": {
+      "pl": "The Eternal Cycle of Windmills, Wheels, and Us",
+      "kr_sha256": "ba32ba8098a16eccdbd97c50e7a7002a4cd4d08f935dc70db4a3cb3169b99a1c",
+      "en_sha256": "d18f906143af574f5ede93298a7bb9a724d649729707cd89679cf6c4802140b5",
+      "origin": "ai"
+    },
+    "dataList[id=839004].desc": {
+      "pl": "jeżeli [FerrisWheel] wynosi 0 i nie ma wrogów do pojawienia się w następnej turze — na koniec tury lub podczas fazy walki — przechodzi do następnej Fazy.",
+      "kr_sha256": "928938121606752c1de52e4cf919b03cda1ba67be102f98312e0cde16a5191f8",
+      "en_sha256": "569c86c056a9f237743689c5b74bf21a85327e8f2692f59096b6df78885cad29",
+      "origin": "ai"
+    },
+    "dataList[id=839004].name": {
+      "pl": "Here we go... another lap.",
+      "kr_sha256": "c66505604c7327b82d7f8cbaa09a2998c2bcef9628717536c14d2f2f0b39427a",
+      "en_sha256": "836050d937aac6d740c29b893fe7652b4f59e87d4894719f314ed906bc8ef545",
+      "origin": "ai"
+    },
+    "dataList[id=839005].desc": {
+      "pl": "Początek walki: zyskuje [StarvingDonqui]",
+      "kr_sha256": "0978cd277a305b6c873d9f80dc7d45842ef47abee30deb58d2eeef07f87e66a7",
+      "en_sha256": "2c261bb43e41d61dac63a75cda6663e9e8e3bf0084d1825cb5df5a3f34acfb75",
+      "origin": "ai"
+    },
+    "dataList[id=839005].name": {
+      "pl": "Starved and Withered",
+      "kr_sha256": "a46d41694db4b8ceec20232ec6c494306e13c9f56636dda277aa3a512cced1c4",
+      "en_sha256": "91687e22a7038a50ebd385a1daf025ad392cef886f4e3ee687c507de2c996fbc",
+      "origin": "ai"
+    },
+    "dataList[id=839006].desc": {
+      "pl": "Początek walki: zyskuje [ConfinementOfGoldenBranch].",
+      "kr_sha256": "bb235137fa887cc0f6d7540b332d43d8143d8a5c6c9d2fad8f7a0920e593dce0",
+      "en_sha256": "24e805ec5d72bab46a76bfbfac2ef62da1f5de58399ce10f8c16a3d34bdb4fe0",
+      "origin": "ai"
+    },
+    "dataList[id=839006].name": {
+      "pl": "The Golden Bough's Forced Arbitration",
+      "kr_sha256": "e66aa0cea110c78393b856b075066047a951087d119de03d67c1cfefebbfde69",
+      "en_sha256": "3720e22ee41c67cbf2dc64b9ed0cbc100338b99a03700f6dd8500b02e6316192",
+      "origin": "ai"
+    },
+    "dataList[id=839401].desc": {
+      "pl": "na Początku tury nakłada 2 Wzrost Poziomu Obrony sojusznikowi, który utracił największy procent HP od ostatniej tury",
+      "kr_sha256": "246fdfaba613f763df7697344022accd9cbba47294f0f0eab87ac08652cc0346",
+      "en_sha256": "c1b5fb5bd0ccad545b4c2a7e88851d3396bd3cd27656b82754bb345f0d4b01e7",
+      "origin": "ai"
+    },
+    "dataList[id=839401].name": {
+      "pl": "Designated Protection",
+      "kr_sha256": "a7e061098ec2429dcc69aa4b1fb825dfdbf00738ff58a8b99a9ec564efc54606",
+      "en_sha256": "d205a2a88c0d42b2993b2b585ed7791f219e868ff5c3a757849afbe1fdcee00a",
+      "origin": "ai"
+    },
+    "dataList[id=840301].desc": {
+      "pl": "gdy jednostka ginie od ataku wroga lub obrażeń Efektu, zwiększa [BloodDinner] o 30 i zwiększa o 2 zasób E.G.O losowej Afinności. nie uruchamia się, jeżeli jednostka zabiła się sama.",
+      "kr_sha256": "25ba4d22a252f91b8cb4df36d7577f93a1e18da6c910431e79e6da0d596c6dd2",
+      "en_sha256": "9788b5c3cf1abece4d88a02e3c23880399743f82ec456dc8db569a5e27616741",
+      "origin": "ai"
+    },
+    "dataList[id=840301].name": {
+      "pl": "Shattering, Scattering Hardblood",
+      "kr_sha256": "17ed17078b9735db2b0f6a8f300dee8bff776900b1902f4a17af53aea18f78bd",
+      "en_sha256": "563eadb0f06644700cc18a25a7e05717da32f5980eec0d6d61e08c6e20087421",
+      "origin": "ai"
+    },
+    "dataList[id=840302].desc": {
+      "pl": "jeżeli na koniec tury jeszcze żyje, w następnej turze używa samodetonującej Umiejętności. jeżeli na koniec tury, w której użyła samodetonującej Umiejętności, nadal żyje — ginie.",
+      "kr_sha256": "4b4d04569ce71e5fff50751fc8f5de4da9947b415f532a11b85c35a03fd51dde",
+      "en_sha256": "fcbdbae5eb10464bae6ae9a8c4de25f362c95543771cea18cded1218826b1e8c",
+      "origin": "ai"
+    },
+    "dataList[id=840302].name": {
+      "pl": "This Explosive Insanity!",
+      "kr_sha256": "03fdc7ed17a0d247c60ea9274b66b23688911bff1b2e024975a00fc240fa7f07",
+      "en_sha256": "9b01fb1f314ef66257744d38dc52404f36d26125a2dad381231f6705469c9265",
+      "origin": "ai"
+    },
+    "dataList[id=841001].desc": {
+      "pl": "- przy 10+ [RegainedStrength], przekształca je w [RegainedStrength_2nd].\n- przy 20+ [RegainedStrength], przekształca je w [RegainedStrength_3rd].\n- jeżeli jednostka zużyje [RegainedStrength] i spadnie poniżej powyższych progów, wraca do poprzednich Etapów",
+      "kr_sha256": "0dd116a06e278bf4575d2f297db2915f4f881f2eb4248fb853d4a346425925be",
+      "en_sha256": "c8fafb8c316cc1a93555cdc0e0610cbc860f6fed3f935226ea9dbe38d835968a",
+      "origin": "ai"
+    },
+    "dataList[id=841001].name": {
+      "pl": "Returning Bloodlust",
+      "kr_sha256": "62e298cb9dcd5630b23ec0435c249af19b4e464fadd64de65795b07ec44a53ce",
+      "en_sha256": "a0f9f2b3349b482704ae60cd2424280ac2b37870fcbe2b12e81b0584da77bb68",
+      "origin": "ai"
+    },
+    "dataList[id=841002].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma [Laceration], przywraca Części i Korpusowi HP równe 30% zadanych obrażeń HP.\nprzy Niezniszczalnych Monetach: ten efekt nie uruchamia się przy trafieniu po przegranej w Starciu.",
+      "kr_sha256": "84eeba01a8f1f55a222f4f3af6435af3a0381425ab571f9bd7e1fd6f192a60af",
+      "en_sha256": "799181865997080554af29781d4789ad8e95f9ccf9d5c62e4cdcf557d3476d04",
+      "origin": "ai"
+    },
+    "dataList[id=841002].name": {
+      "pl": "Don Quixote Hardblood Arts",
+      "kr_sha256": "a3fe2eed7533febe5630654e5d7b6434b9c70486c0170d64f5cbbdf274a03a0f",
+      "en_sha256": "72b466e0db6b9908f8d2e12be706d32c44615431806e17036917ec86456d98ba",
+      "origin": "ai"
+    },
+    "dataList[id=841003].desc": {
+      "pl": "jeżeli w jednej turze przywróciła więcej niż 15% Maks. HP lub wchłonęła [Laceration] wroga, zyskuje 3 [Binding] w następnej turze. (1 raz na turę)\njeżeli pokonała cel własną Umiejętnością, zyskuje 2 [AttackDown] i 1 [DefenseDown] w następnej turze. (do 3 razy)",
+      "kr_sha256": "fd2dbc6cd9db036544567132f99a960c2a64bf9ff6ae6c5a426390cda518f3a3",
+      "en_sha256": "3a69b8bd18a5ce1e0c2121496d32fadf5e6083e7674fc0a9131b5d58b85302f3",
+      "origin": "ai"
+    },
+    "dataList[id=841003].name": {
+      "pl": "An Unfamiliar Banquet",
+      "kr_sha256": "e920de908d4f158ab5ec75241aedd93fb1f509f858f2ebf12fa896162455e498",
+      "en_sha256": "f4730f0016f44649e6d263ae417df4e1c5575d677357d390acb6764750cf9d69",
+      "origin": "ai"
+    },
+    "dataList[id=841004].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, na początku następnej tury dochodzi do siebie z Paniki, a SP wraca do 0.\nprzy dochodzeniu do siebie z Paniki:\n- zużywa 30 [BloodDinner], by zyskać 2 [Enhancement] i 1 [Agility] w następnej turze, oraz przywraca 30 SP.\n- jeżeli nie udało się zużyć [BloodDinner], zyskuje 40 [Laceration], natychmiast uruchamia [Laceration], po czym traci 5 Licznika [Laceration].\n- następnie w następnej turze zyskuje 2 [Enhancement] i przywraca 30 SP",
+      "kr_sha256": "6281101adcac2dac9229cdaa5ac1e4aaffabf5dd596d31c301436813ba846e8e",
+      "en_sha256": "e501cc2eb40f9b3cd20c4ea0b402aed5a04481a3d016a9930f1288b48a50297e",
+      "origin": "ai"
+    },
+    "dataList[id=841004].name": {
+      "pl": "For the Family...",
+      "kr_sha256": "90a94669d5f4710a1d655d7ce6404aef77f8237417dbcb0f30503e2a20b45ad8",
+      "en_sha256": "449f6e058aba5d3f6c139cdbf1d45c3803c9dd026585926c2960ddc4f14b96eb",
+      "origin": "ai"
+    },
+    "dataList[id=841005].desc": {
+      "pl": "przy zmianie wzorca zmniejsza o połowę Siłę [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] należące do Części tej jednostki.",
+      "kr_sha256": "239dec471dd924a55f4618454004120a3cf472301fd76a5bf6d02c1186423677",
+      "en_sha256": "7358d1af4fcd2080ec1a715df5ee97ba13ee557dae7b3303b77ac3f44ba79ee0",
+      "origin": "ai"
+    },
+    "dataList[id=841005].name": {
+      "pl": "Please, try again",
+      "kr_sha256": "79e2a1b962d4bbde6abf7c9d2f2c41e039ddc084fbd3a56b5e2b6420453e9477",
+      "en_sha256": "18a59980326b6ed33ba1b6080881cbda6a9d2d81085310aafda7710a00e7a85c",
+      "origin": "ai"
+    },
+    "dataList[id=841101].desc": {
+      "pl": "gdy ta jednostka zostaje usunięta, zwiększa [BloodDinner] o 30\nprzy pokonaniu przez Grzesznika tworzy Memories of the Dreaming Adventure",
+      "kr_sha256": "bac475fdee8d01a252ce85cf431c8e7202df03dd18d7ea955dcbd79b4deda991",
+      "en_sha256": "40c7d655376515f030d715d29b7f95251a6d88450b194e425cc413d5cab098a6",
+      "origin": "ai"
+    },
+    "dataList[id=841101].name": {
+      "pl": "Broken Fragment of a Futile, Naive Dream",
+      "kr_sha256": "3afe7af165a70737b34b613be589e1825f634dc35cd3d0737bc510f79353c543",
+      "en_sha256": "b85c424ade392227340d775ac62d123d8ea3dea6f53bba7305492e737607907e",
+      "origin": "ai"
+    },
+    "dataList[id=841102].desc": {
+      "pl": "gdy zostaje pokonana przez Don Quixote:\n- Don Quixote zyskuje 5 [RegainedStrength].\n- wszyscy Grzesznicy otrzymują 30 obrażeń Żądzy i zyskują po 8 Siły i Licznika [Laceration].",
+      "kr_sha256": "52de300a9e9e3cba5d6784282e90a02e676a91e72b2a591c16cda49a38b45ef3",
+      "en_sha256": "fcab043b71822ce15493f37e5ff69fc3cdfcea138b47c80fafc3f9d3c80c19b8",
+      "origin": "ai"
+    },
+    "dataList[id=841102].name": {
+      "pl": "A Selfish Wish at the Expense of the Family",
+      "kr_sha256": "b2bb58234517d05c0013aedead3a904ffbd6f29681750d7d734b8f6e46de5f11",
+      "en_sha256": "c1e28de23d1c23fcb95e3340d5ffe0ffe27355c950f7f02ce7c4b25fd1cc52d2",
+      "origin": "ai"
+    },
+    "dataList[id=841103].desc": {
+      "pl": "jeżeli ta jednostka ma [Precarious], Memories of the Dreaming Adventure nie zostaną utworzone przy śmierci",
+      "kr_sha256": "4cad32235be96b7a4dbfe736a1329421227871b330f9c976f0614f8b5d14ca92",
+      "en_sha256": "c39aee0b5beb2dfe423bfb3bc76312af6203d0313cf478f5bf7023b944509728",
+      "origin": "ai"
+    },
+    "dataList[id=841103].name": {
+      "pl": "I never should've dreamed this irresponsible dream",
+      "kr_sha256": "99bc091a8bfb63ace0977cb87591103318bd9bc3a505b76b20050e46e39f1fec",
+      "en_sha256": "260693f0e2dd0c6f795a946ab389cc4d6e81b770097733607f7c1af883ab50d1",
+      "origin": "ai"
+    },
+    "dataList[id=841104].desc": {
+      "pl": "Don Quixote zyskuje Tarczę na każdym Początku tury.",
+      "kr_sha256": "0b48866a91e6d466fdad53a0f28cc74cc09a9cd9498a969d88926698c47da17b",
+      "en_sha256": "c8a87780541e8f33110b89be94898d2ec378d8c39e00579966d4c3856876406a",
+      "origin": "ai"
+    },
+    "dataList[id=841104].name": {
+      "pl": "The adventure ends here.",
+      "kr_sha256": "604c153226beda33855ba5b66b280ef1dcc0a2ad75843338f7fd06521311524b",
+      "en_sha256": "7be6b52916089e4db60ea7ddb314b58d570f8655c066f7dfa654f94766e359f3",
+      "origin": "ai"
+    },
+    "dataList[id=841201].desc": {
+      "pl": "gdy ta jednostka zostaje usunięta, w następnej turze sojusznik przebit przez tę jednostkę traci stan [Penetration].",
+      "kr_sha256": "86a186766e1d6ed0c5a23d046cbb925b6417a5b124ef1ed067cc4f3514296cd9",
+      "en_sha256": "97eb7eed7ba2d5e20e93975b198182c9ff9397ecb770168dbcb80fd4dc328919",
+      "origin": "ai"
+    },
+    "dataList[id=841201].name": {
+      "pl": "Hardblood Wedge Gaol",
+      "kr_sha256": "d1fe89c19090ab1594dfdf2b88d22caab0f82ac348ea9978c8d9151715ec6ded",
+      "en_sha256": "b5cca197272e17ce80bbe60e1a9d028222206b69ac2a9620f845a1163b66109c",
+      "origin": "ai"
+    },
+    "dataList[id=841202].desc": {
+      "pl": "gdy ta jednostka zostaje usunięta, zyskuje 3 sztuk najsłabiej posiadanego zasobu E.G.O oraz 3 losowe zasoby E.G.O.",
+      "kr_sha256": "152810618c9bb45ec619772960ca21053e0edec0af64085fbcca365534e5be3d",
+      "en_sha256": "0217bfe97ffd148f1587773c02558f0d6456e7d9a75f45f84a81e068d0fa2405",
+      "origin": "ai"
+    },
+    "dataList[id=841202].name": {
+      "pl": "Shattering, Scattering Hardblood",
+      "kr_sha256": "17ed17078b9735db2b0f6a8f300dee8bff776900b1902f4a17af53aea18f78bd",
+      "en_sha256": "563eadb0f06644700cc18a25a7e05717da32f5980eec0d6d61e08c6e20087421",
+      "origin": "ai"
+    },
+    "dataList[id=841203].desc": {
+      "pl": "jeżeli jednostka nie zostanie usunięta do następnej tury po utworzeniu, na koniec tej tury zostaje usunięta, uruchamiając swój efekt usunięcia.\nnastępnie sojusznik przebit przez tę jednostkę otrzymuje stałe obrażenia równe 30% Maks. HP i zyskuje 10 Siły [Laceration] oraz 5 Licznika [Laceration].",
+      "kr_sha256": "cd2148e4dd5de690daa540aacbf1a4d1fd2d65ed6e3aec2bcd9cec8f68c6d692",
+      "en_sha256": "154b0f09d083b342631916f2b09dff7c569d96b0c43d6921a9e38f4d36a9e56f",
+      "origin": "ai"
+    },
+    "dataList[id=841203].name": {
+      "pl": "Internal Blood Crystallization",
+      "kr_sha256": "628adfe79d5414272718de000f7717277663941df7db028247c990745efc5ae9",
+      "en_sha256": "d48a867a6bbc3b64e21301b3fba195fd4d422c762bab1bfd6d2a639a29eefbba",
+      "origin": "ai"
+    },
+    "dataList[id=841204].desc": {
+      "pl": "gdy zostaje pokonana przez prawdziwego Don Quixote, uruchamia efekt przy śmierci, a sojusznik przebit przez tę jednostkę ginie.",
+      "kr_sha256": "2dab746d7aa41938edee9c2e2cf602ac6e8b26601b36b574669fe92b15f6bfe0",
+      "en_sha256": "a750cfa0f88f66cdabf3379f7b03bd045d194612821db937483ac26739fcc6ce",
+      "origin": "ai"
+    },
+    "dataList[id=841204].name": {
+      "pl": "Total Blood Coagulation",
+      "kr_sha256": "924c9f0874c8d9da349b576430b83112ea0af144f92f33f06016f83419d524e0",
+      "en_sha256": "1211234158cde5a143e52bc353839e72fcb2b120f68b1a317cc8a0c1457d8f86",
+      "origin": "ai"
+    },
+    "dataList[id=841301].desc": {
+      "pl": "na każdym Początku tury wszyscy Grzesznicy przywracają 5 SP.\nnakłada specjalny efekt na Grzesznika Don Quixote",
+      "kr_sha256": "0a53c1a263bf6d16a92f04826e36ac994f6545b08d497addc5a695578ce1fbc4",
+      "en_sha256": "94cfc75aab22fc34460350786f8bfbe36bdc1c2fdd99341d7dde48dcea3bdf85",
+      "origin": "ai"
+    },
+    "dataList[id=841301].name": {
+      "pl": "Memories of the Journeys Past",
+      "kr_sha256": "dddf5d229ad70dc60e1b47d350fb919da8dae250ebcd787e990fe2449a741cb4",
+      "en_sha256": "1344a59915921002667caf851de44c98b89cb1b2c605545801ba47bbb09d5e71",
+      "origin": "ai"
+    },
+    "dataList[id=841302].desc": {
+      "pl": "gdy zostaje pokonana przez Don Quixote: Don Quixote zyskuje 3 [Reduction] w tej turze i następnej.",
+      "kr_sha256": "ce24be88daea4540aedbe306bc4292b380bfa923c6e06564bf627747a2528191",
+      "en_sha256": "a88d36843a94498a2511da9586c4ac5f6d2a2ee543abc47e3631760e03f0c0a2",
+      "origin": "ai"
+    },
+    "dataList[id=841302].name": {
+      "pl": "Reminders of Determination",
+      "kr_sha256": "a6067407b0fd8ddf93a7f221209067ce5eb966a19feb4ba9821ca5e0dc71d313",
+      "en_sha256": "ca21bb15d74b3f76f7c5e00079e85ae38cd7639c0ae6ff2eb0fd38e9f689a4e4",
       "origin": "ai"
     }
   }
