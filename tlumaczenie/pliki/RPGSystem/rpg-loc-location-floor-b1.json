@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[key=210100].text": {
+      "pl": "Strefa Gastronomiczna",
+      "kr_sha256": "3396f985fc2b198216b29492d70cc076bb18c511f00a0b85899be79ff8d45652",
+      "en_sha256": "b18865070698cf2bb054aa5d7a22d5ad85811073a57c9ca805e9241eb146869d",
+      "origin": "ai"
+    },
+    "dataList[key=210200].text": {
+      "pl": "Stoisko ze Świeżym Mięsem",
+      "kr_sha256": "a392c88fb6695d88fa8d266b1b7eb6571bda6d18c5bb3fe83998d7691bae8cdb",
+      "en_sha256": "5e2a13b389ca7a3c2987c7efae335c54142aaef81d03cce6b1e4eb4ecb0a07ab",
+      "origin": "ai"
+    },
+    "dataList[key=210500].text": {
+      "pl": "Hala Schodów Ruchomych",
+      "kr_sha256": "4248dbaf2c805c1c8c03c6be39b02cf85ef5230446ce2a7d1a56ad55d26759d4",
+      "en_sha256": "7117d03db0ca663841b367de70bcf5813cf76c2377e4da03bd93d4a327c2a5dc",
+      "origin": "ai"
+    },
+    "dataList[key=210600].text": {
+      "pl": "Korytarz Prawy",
+      "kr_sha256": "d6daa31d90d194f1ee5e1d5104404573854cd61c108018e4cc122e056fdb7024",
+      "en_sha256": "9dd9de2c0c492cc3273de7486e9a87ee86c7bce1517ddc895d7c42827770b52d",
+      "origin": "ai"
+    },
+    "dataList[key=210700].text": {
+      "pl": "Korytarz Lewy",
+      "kr_sha256": "5316748118695e7818b38f7e3a8413e11582a77f16e99f98ed0410f7d6b47d19",
+      "en_sha256": "9f40b73b623efc88f3543d8f67b2fbf7d6ad814ffb7eece10f49970d387c4048",
+      "origin": "ai"
+    }
+  }
+}

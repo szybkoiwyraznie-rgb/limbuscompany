@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[key=N101002].displayName": {
+      "pl": "Siostra Kromer",
+      "kr_sha256": "319351aca812254025b20f7ece84a7e3b7e3bc7188dc2605530ab600feddd4b8",
+      "en_sha256": "3ee72c65677d9d6687a3be39a8c914313dcf9937510f7aef782e6f230e0eb383",
+      "origin": "ai"
+    },
+    "dataList[key=N101003].displayName": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[key=N101005].displayName": {
+      "pl": "Dubois",
+      "kr_sha256": "41782e509af605f841f84b5a1bcbc4cd99d2f93c3ad4c19be0df70c448e882ba",
+      "en_sha256": "53739d49d32ba7753e718bef10b98dd6bd5a80b4bb8f7ba46465142c10ad785e",
+      "origin": "ai"
+    },
+    "dataList[key=N101007].displayName": {
+      "pl": "Quillian",
+      "kr_sha256": "c59608bf09f6ce2731ab72326445ae9276238a4300aea63e3c5653f19cb9b546",
+      "en_sha256": "c565f747792e21a9b5ce52f5030d7eab5b476e6c98639cf97c26296d968f7b2d",
+      "origin": "ai"
+    },
+    "dataList[key=N101008].displayName": {
+      "pl": "Dubois",
+      "kr_sha256": "41782e509af605f841f84b5a1bcbc4cd99d2f93c3ad4c19be0df70c448e882ba",
+      "en_sha256": "53739d49d32ba7753e718bef10b98dd6bd5a80b4bb8f7ba46465142c10ad785e",
+      "origin": "ai"
+    },
+    "dataList[key=N101012].displayName": {
+      "pl": "Klient Tylko Oglądający",
+      "kr_sha256": "48bca5666ad2045383632ea8f74edbf3ed62bc5e11252a03fc43f7416163b9b4",
+      "en_sha256": "70433b0ef2236a0d60aa30a80e757395cde566a8ec307fc5a7366cba9e2bfa97",
+      "origin": "ai"
+    },
+    "dataList[key=N101013].displayName": {
+      "pl": "Klient w Trakcie Zabiegu",
+      "kr_sha256": "b5c5189ed9e03d8e6501e04e253568f20747017ac1648a8774ab56b91000ed3b",
+      "en_sha256": "5d9177da3745806a21eb22bac49c40b1362183e0dd0231ced2669e0dc9319878",
+      "origin": "ai"
+    },
+    "dataList[key=N101014].displayName": {
+      "pl": "Klient w Trakcie Zabiegu",
+      "kr_sha256": "b5c5189ed9e03d8e6501e04e253568f20747017ac1648a8774ab56b91000ed3b",
+      "en_sha256": "5d9177da3745806a21eb22bac49c40b1362183e0dd0231ced2669e0dc9319878",
+      "origin": "ai"
+    },
+    "dataList[key=N101015].displayName": {
+      "pl": "Klient Tylko Oglądający",
+      "kr_sha256": "48bca5666ad2045383632ea8f74edbf3ed62bc5e11252a03fc43f7416163b9b4",
+      "en_sha256": "70433b0ef2236a0d60aa30a80e757395cde566a8ec307fc5a7366cba9e2bfa97",
+      "origin": "ai"
+    },
+    "dataList[key=N101017].displayName": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=N101021].displayName": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[key=N101022].displayName": {
+      "pl": "Faust",
+      "kr_sha256": "44a1082366bff13a24a7ae7e53a10b0c8a3ba977f808826e9bd9899dd6911979",
+      "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
+      "origin": "ai"
+    },
+    "dataList[key=N101023].displayName": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[key=N101024].displayName": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[key=N101025].displayName": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[key=N101026].displayName": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[key=N101027].displayName": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[key=N101028].displayName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[key=N101029].displayName": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[key=N101031].displayName": {
+      "pl": "Niecierpliwy Klient",
+      "kr_sha256": "4e0eeecde16ba3bcdf2f34f43b00f611710687029d7f0e84a4d636b2eda82d91",
+      "en_sha256": "4499ec5f85f33b07122d0771648cd3296c0746bd5cfd782e9c7dccdbf8975f19",
+      "origin": "ai"
+    },
+    "dataList[key=N101032].displayName": {
+      "pl": "Zdesperowany Klient",
+      "kr_sha256": "7213451817908befdebbe2f4d4565f8f31697cd605029ddc6bf04b8a23ae62c9",
+      "en_sha256": "1f35bfa57cb6a9b5b58065b0e64a9d8950405556de914cd6dc54c282552848cc",
+      "origin": "ai"
+    },
+    "dataList[key=N101033].displayName": {
+      "pl": "Skrajnie Biedny Klient",
+      "kr_sha256": "4ccf4c98de3e5ea3f041228bdedeb59801a32ffbf25d83af090cd5584e64b819",
+      "en_sha256": "3691ba716db427bdb3b9f5b7694b0679ee1e4fbef6a8ddcebfad6d99007973fc",
+      "origin": "ai"
+    }
+  }
+}

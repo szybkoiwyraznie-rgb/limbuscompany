@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[key=140100].text": {
+      "pl": "Korytarz",
+      "kr_sha256": "9d00137ef85a652be05425539ff0d895df127d4af8c47f3da795fc77dc40ec00",
+      "en_sha256": "5ff30619e9df240ef480b983b8e0e4b052de3bb10af8a306a2e7ef0d6c1d8973",
+      "origin": "ai"
+    },
+    "dataList[key=140200].text": {
+      "pl": "Salon Obuwia",
+      "kr_sha256": "bef657962ea448c877c88f04f4b33510aa85a22845279c2e9e6be3e06bef922f",
+      "en_sha256": "956b478698f22e9b62f09b20e5ff169f3b5edbc91e6dfdc401fc13a6910b76fe",
+      "origin": "ai"
+    },
+    "dataList[key=140300].text": {
+      "pl": "Salon Mebli",
+      "kr_sha256": "081b1d650827511a92b919fe529a9848d80c6536456fbcbd549079cd8de24b82",
+      "en_sha256": "2607b117f9d0b7186b0ea3bffbd0646e94fbd194abc2800d81637932bcabed04",
+      "origin": "ai"
+    },
+    "dataList[key=140400].text": {
+      "pl": "Schody ruchome",
+      "kr_sha256": "6bc97d9b6032c2ae34f34ef1ce0385b99abbf13ae3d25cac014a09eeca015eb5",
+      "en_sha256": "0c20dff8c3d9ff887bb9cabf37d3e0ea05c030c5b813151bf246ea9f5caa68d7",
+      "origin": "ai"
+    }
+  }
+}

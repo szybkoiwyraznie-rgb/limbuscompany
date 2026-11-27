@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[key=N102002].displayName": {
+      "pl": "Dyrektor Marki",
+      "kr_sha256": "7b985b807ef640d50304fd2ea895a402bf29ec9ede0ad7ac8f05bdca9616b2e9",
+      "en_sha256": "b4288136ae4f99411e7e77d3c59dba9f54b6bc2484089c42c64041ce89ed6200",
+      "origin": "ai"
+    },
+    "dataList[key=N102004].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102025].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102026].displayName": {
+      "pl": "Buntujący się Le Rouge",
+      "kr_sha256": "7e0309a823a11e67fc337a79e46d802f5e74cb9dde407d23eea75d285955ad53",
+      "en_sha256": "a107ed32871998d017dada2a52ce287a056b7f0690bce8315773c9015bed34bc",
+      "origin": "ai"
+    },
+    "dataList[key=N102027].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102042].displayName": {
+      "pl": "Szarżujący Le Noir",
+      "kr_sha256": "6ebf6289e90b97b9394618f3983064b59ebe748fb0fa6cd16ad8de8f461ea1be",
+      "en_sha256": "747910d468209a889e5b8f1f5c7a66620dfb7c3d77000493f25cff558ffd291f",
+      "origin": "ai"
+    },
+    "dataList[key=N102043].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102044].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102046].displayName": {
+      "pl": "Szarżujący Le Noir",
+      "kr_sha256": "6ebf6289e90b97b9394618f3983064b59ebe748fb0fa6cd16ad8de8f461ea1be",
+      "en_sha256": "747910d468209a889e5b8f1f5c7a66620dfb7c3d77000493f25cff558ffd291f",
+      "origin": "ai"
+    }
+  }
+}

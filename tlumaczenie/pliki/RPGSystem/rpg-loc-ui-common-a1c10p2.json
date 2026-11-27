@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[key=ItemFilterBuffetUpgrade].text": {
+      "pl": "Ulepszenia Pwie",
+      "kr_sha256": "61c131ab6e1951ab401cdbbf623e1e0e67ee149827aec2a0056e074eece522dc",
+      "en_sha256": "5cd4c9bcace2445a279726bc0a4bed7062e0f77e190e9ca2e2a34673ed7e066b",
+      "origin": "ai"
+    },
+    "dataList[key=KeyBind_InvalidKey].text": {
+      "pl": "Ten klawisz jest niedostępny.",
+      "kr_sha256": "af692a5a22dc70ad2f363d7a1a48539fe182c6ac5c5c42776099db6770f7e136",
+      "en_sha256": "f9ed7b8df3e14b33dd8a617e3e6f9f9b399896fd8d068acaf99d5a45d9747a67",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerAutoAttackToggle].text": {
+      "pl": "Atak Automatyczny",
+      "kr_sha256": "03fa0972a64b806938512e00934900a1c2272331a94676fb81227031ca152e58",
+      "en_sha256": "2e1a5eb62078f126a52ed633150d8b5370f77a6904a216c33f0f4df5289008e6",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerDodge].text": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerFieldAttack].text": {
+      "pl": "Atak",
+      "kr_sha256": "ff1b59466ae65927bbbbb1f8059e9a9817bcd636add2727708406237db906b74",
+      "en_sha256": "4cd548f3cc29cf9c99a0134a971b1be03c8f6bf80ba8f03e174e030b0d292396",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerGuard].text": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "211d0bb8cf4f5b5202c2a9b7996e483898644aa24714b1e10edd80a54ba4b560",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerLanternToggle].text": {
+      "pl": "Lampa wł./wył.",
+      "kr_sha256": "7888b53feb95a1f65abab57d01e748042d8eb7b1d4d8841853abf31be9ba321f",
+      "en_sha256": "6b374a3dbb4acd403e18adb307cf232031b76b180cee5138e7325dbba7d65064",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerMoveDown].text": {
+      "pl": "Ruch w dół",
+      "kr_sha256": "d0f3f70895d22abaa3a7e6f24cbd525512a75c52dce7e306cf70d68a533c5c8e",
+      "en_sha256": "40bb50da160cdc21d6029a927b68f92b07fd450688e609826cbc70d202db96da",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerMoveLeft].text": {
+      "pl": "Ruch w lewo",
+      "kr_sha256": "4fbce823b7ce8c779296e655d65d12865558f77d40c98e827e83caa27bf22681",
+      "en_sha256": "6c94221edd26ec06f40865e683ec09046fc1963a73cd0ca635023c188775f76b",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerMoveRight].text": {
+      "pl": "Ruch w prawo",
+      "kr_sha256": "52f6ba668e7345991e875af32b90977157fcb6ae4ebb3eda0bfd575108fbd4e6",
+      "en_sha256": "8d60decd44f3c39ea1f52494eb1f203cb3c961fffdd12641b5897cbab3841651",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerMoveUp].text": {
+      "pl": "Ruch w górę",
+      "kr_sha256": "75488ce181bc8e05c68e03a03aae98715451312ed6ab5841649eb80a2719b798",
+      "en_sha256": "c66feb5eb8f217c76bfb0f1b41e3ee73ab41cb9959fae8284911bd3ad3816086",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerQuestNavigationToggle].text": {
+      "pl": "Przełącz strzałkę naprowadzania zadania",
+      "kr_sha256": "aaf784145d7882c65e8bbb0dd6a5e190a0f06634b7908078106a2b0f852cf96c",
+      "en_sha256": "efa210ba208b8802c8795d0c4f8f13de9785f1229af5a685050fed5005fa8c35",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerRun].text": {
+      "pl": "Bieg",
+      "kr_sha256": "4c47747ba8ec10732144abada94e4683974665e0de537ab4ebc826717ec60817",
+      "en_sha256": "fd04788626e5f87b3b22b2b855bddaae2f1ee43956232d2fa57c5afa7d3f09b9",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_PlayerSuicide].text": {
+      "pl": "Powrót do Źródła",
+      "kr_sha256": "b9d5b8cddd5a7fcd13c35f8dc84730069396a069f814f7d88055961622e5d308",
+      "en_sha256": "e5cadd350938a7632dce0a1a22be4d2faf2940a6cb84852f9081da2c435e32bc",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_UiToggleInventoryTab].text": {
+      "pl": "Ekwipunek",
+      "kr_sha256": "21b980bcef5c82f2fc0a92f0f336cf4ca3084a5ebafade10a168e85998dad6ef",
+      "en_sha256": "1f70331cfa968ffc814151a660754b41c5327f970f66204e5b704ed6645e141f",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_UiToggleManualTab].text": {
+      "pl": "Przewodnik po skrótach klawiszowych",
+      "kr_sha256": "74c0990655a810f877c0d214d792d51ffd05b7c14dfed9629a78cbd3c7fad06d",
+      "en_sha256": "81c197b9d360fb33b46ceec3c92433131409bdfc067216a39bf6901cbd64c7cc",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_UiToggleQuestTab].text": {
+      "pl": "Dziennik: Zadania",
+      "kr_sha256": "efe9900f9bdf184d44990eaf13885071b6949be45f58b3edf0b91951759910c1",
+      "en_sha256": "f4dc582fa76bee9d89c434866b87d65126bfcb53f0eb9fb95843800f593f085e",
+      "origin": "ai"
+    },
+    "dataList[key=KeyDesc_UiToggleSystemLog].text": {
+      "pl": "Pełny dziennik",
+      "kr_sha256": "2d5df9b73d004f10eee123a13dfcbbd389999c23bbfec2c7d9962fe5a5bac792",
+      "en_sha256": "df3242f90bef6c4ff0e39896b93b02d16a45a549cf6d01cb19cae86422994a56",
+      "origin": "ai"
+    },
+    "dataList[key=MoveToKeyBind].text": {
+      "pl": "Do mapowania klawiszy",
+      "kr_sha256": "e78f103ea2e8b3697007d90b8b8b77e8096ff880917f7a32f4ae2fd129bb64e6",
+      "en_sha256": "be34870a5c0ac9a4690495db5c7e1fef577658d135a1f76a315202bab82ccdce",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Tab_Key].text": {
+      "pl": "Mapowanie klawiszy",
+      "kr_sha256": "fcfb096dcc05005b7020eddb97829965820c4de52fbd5222e99b5fff10297aca",
+      "en_sha256": "5c4b9aac402cf864b2257559bb92f6fe51ba996a28369cbbfc4673107691295f",
+      "origin": "ai"
+    }
+  }
+}

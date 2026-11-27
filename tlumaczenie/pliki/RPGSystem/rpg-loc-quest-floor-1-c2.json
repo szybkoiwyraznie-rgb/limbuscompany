@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=Q1001_C2].description": {
+      "pl": "Sprzeciwiliśmy się przeznaczeniu. Strażnik już się nie pojawi. Udamy się na 5. piętro, gdzie skończyła się nasza poprzednia pętla.",
+      "kr_sha256": "b6c80510f2b20ad06dfb8e460f807832443b27f59b9d408a6d344a57b8a95109",
+      "en_sha256": "b9d616b56429070b7d50a06032bb43f4b0b5dcbc129c6d11064a28b1b2e8d207",
+      "origin": "ai"
+    },
+    "dataList[key=Q1001_C2].steps[#0].goalDescription1": {
+      "pl": "Wspinaj się na 5. piętro",
+      "kr_sha256": "f50ce25f0dd8b9c621b44cd4b45ed8c088ec2782ffd4300f6a0887ee7edb0413",
+      "en_sha256": "889839f134d8059b6a4737ad26b7b31b5aecfb88f9dbd9b5b1d811c368648f4a",
+      "origin": "ai"
+    },
+    "dataList[key=Q1001_C2].title": {
+      "pl": "Wspinaj się na 5. piętro",
+      "kr_sha256": "f50ce25f0dd8b9c621b44cd4b45ed8c088ec2782ffd4300f6a0887ee7edb0413",
+      "en_sha256": "889839f134d8059b6a4737ad26b7b31b5aecfb88f9dbd9b5b1d811c368648f4a",
+      "origin": "ai"
+    }
+  }
+}

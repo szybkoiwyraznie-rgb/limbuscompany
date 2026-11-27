@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[key=120100].text": {
+      "pl": "Wejście do Salonu Prestiżu",
+      "kr_sha256": "1b80e341c3c81d838e59f8fb332b73f30a70232575ee72726a71b337b77f6f72",
+      "en_sha256": "ab2cdc20dfbb6c89131861d0fec11e5358afdf9ba3966cebb8bb93b67dba1dd5",
+      "origin": "ai"
+    },
+    "dataList[key=120200].text": {
+      "pl": "Wejście do Kołyski Salonu Prestiżu",
+      "kr_sha256": "fc0377bd8a9a847f4288f87ccfcd6d2f3dc3d86b215e027b9d8ab5cd619804ad",
+      "en_sha256": "0dd1168a6397229157978de7d772d84773a8d23ff601d67ce4b55a75ba5155c6",
+      "origin": "ai"
+    },
+    "dataList[key=120300].text": {
+      "pl": "Salon Prestiżu",
+      "kr_sha256": "87fa4f8bd84c7369cd685182afdc8e40f8def46c7eb490e374a5654ded7a4efa",
+      "en_sha256": "f3e0a53c2e6a90d5f31e88a1c6a45bbf85639252683062d5e7ad1da3c9ac6445",
+      "origin": "ai"
+    },
+    "dataList[key=120400].text": {
+      "pl": "Kołyska Salonu Prestiżu",
+      "kr_sha256": "606cc064d33d7afe6a7dd1a031b5ba94588d05c0efeb828b788f14da67ee0280",
+      "en_sha256": "1deb5e496dd86bdd86f16f9a88a6f139375836849614213e14f1e2c857096d63",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[key=170100].text": {
+      "pl": "Jasny Pokój",
+      "kr_sha256": "9196a4b7c8477d359b81a2f2703d3d5709d4e6cbb4169adf6041d67d5ae3e0d9",
+      "en_sha256": "8afb3f13d477b2220547945622f5784688a3f104113ff9f46ffbee6e01858e99",
+      "origin": "ai"
+    },
+    "dataList[key=170200].text": {
+      "pl": "Pusty Pokój",
+      "kr_sha256": "e2da456389d5e1bb97a15ca102c9ba264768b2fa54d82b885fdfa1b919a8a85e",
+      "en_sha256": "5e19a2c4bde22e3c701d5f172321259098780d4fe338802b7c989bb55fb42649",
+      "origin": "ai"
+    },
+    "dataList[key=170300].text": {
+      "pl": "Ciemny Pokój",
+      "kr_sha256": "fcd22a39bceb29c960a76443ff2a09cc28599b8a65f4e8881df13cf6a9990b0a",
+      "en_sha256": "0882c2316313fb0d8c3c2a313fec20208973bf73d323de21d4321b943bb872b4",
+      "origin": "ai"
+    },
+    "dataList[key=170400].text": {
+      "pl": "Ciemny Pokój",
+      "kr_sha256": "fcd22a39bceb29c960a76443ff2a09cc28599b8a65f4e8881df13cf6a9990b0a",
+      "en_sha256": "0882c2316313fb0d8c3c2a313fec20208973bf73d323de21d4321b943bb872b4",
+      "origin": "ai"
+    },
+    "dataList[key=170500].text": {
+      "pl": "Ciemny Pokój",
+      "kr_sha256": "fcd22a39bceb29c960a76443ff2a09cc28599b8a65f4e8881df13cf6a9990b0a",
+      "en_sha256": "0882c2316313fb0d8c3c2a313fec20208973bf73d323de21d4321b943bb872b4",
+      "origin": "ai"
+    },
+    "dataList[key=170600].text": {
+      "pl": "Ciemny Pokój",
+      "kr_sha256": "fcd22a39bceb29c960a76443ff2a09cc28599b8a65f4e8881df13cf6a9990b0a",
+      "en_sha256": "0882c2316313fb0d8c3c2a313fec20208973bf73d323de21d4321b943bb872b4",
+      "origin": "ai"
+    }
+  }
+}

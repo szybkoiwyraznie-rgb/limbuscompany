@@ -1,0 +1,130 @@
+{
+  "entries": {
+    "dataList[key=N101028].displayName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[key=N101029].displayName": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[key=N104002].displayName": {
+      "pl": "Kościany Wieszak",
+      "kr_sha256": "36858b6276b15f7b4ec46ed5843d4f931571f8cd11f1651b51f24b11632ab42d",
+      "en_sha256": "21da5916c1cd777989f0c47582514aab0cad61edb9b348165cd6bb7eaf102b0e",
+      "origin": "ai"
+    },
+    "dataList[key=N104003].displayName": {
+      "pl": "Lampa Łukowa",
+      "kr_sha256": "192825d276347307ccb82a0bbf0977fc5ce9246d4cee8120d33c86bd171a3506",
+      "en_sha256": "f960f48375b12be30ac233118c66b3ffd3575a8ae23650de2a90967ab2ccfe5d",
+      "origin": "ai"
+    },
+    "dataList[key=N104004].displayName": {
+      "pl": "Wypchana Skórzana Kurtyna",
+      "kr_sha256": "2223c550073afefc10842054e32da75bbbefe3e65a385c587d71ec93b59bd272",
+      "en_sha256": "deb355631ac522d59ccda04184e902190b25cf705ad18ab9100fcc7d947a3d55",
+      "origin": "ai"
+    },
+    "dataList[key=N104005].displayName": {
+      "pl": "Sofa ze Skóry",
+      "kr_sha256": "b9ec03ef44191106101e5bea298a1b8d2bc054cfe74b6194edecd7c90bf8b04b",
+      "en_sha256": "9bc4e955d066db1456108cc573ccb8edb4123646354d61133da21aaa11b6c3a0",
+      "origin": "ai"
+    },
+    "dataList[key=N104006].displayName": {
+      "pl": "Szczęśliwa Szafa",
+      "kr_sha256": "4f10055db66c910073d2c6b5f5067e6233015c984784d0d52d4f4123c5d7566f",
+      "en_sha256": "cbbcd5432d5a991eaf31aa1887269c3fedc2cf78cebb1c6a370e9508bce5caae",
+      "origin": "ai"
+    },
+    "dataList[key=N104009].displayName": {
+      "pl": "Dorothea",
+      "kr_sha256": "8a4431a476934ef31ebbb89e1d85ce48b12dbe2defb09cfbee8fab0ab1226d33",
+      "en_sha256": "2f6567883779b432bfb3d15820fbd0079e4ce183299306c257c6d7659cfc33e1",
+      "origin": "ai"
+    },
+    "dataList[key=N104010].displayName": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=N104011].displayName": {
+      "pl": "Surowa Noga",
+      "kr_sha256": "f2c88decd3785066fd5407ad2b9fa7a43115a7b491233e2120117a438cc147f1",
+      "en_sha256": "7a4425b3138f03786940a22c8b56abe11084f1d5667dc6bf96698209ec8834dc",
+      "origin": "ai"
+    },
+    "dataList[key=N104012].displayName": {
+      "pl": "Czteronogi",
+      "kr_sha256": "df89bef4104c2b02735dd4347d81d186ccc72244cbc6d79dd852df5189372019",
+      "en_sha256": "f07c4ac4a81b5f069730c9d312590be7062c0298e6e57bb7fe580055eea7b412",
+      "origin": "ai"
+    },
+    "dataList[key=N104013].displayName": {
+      "pl": "Cosette",
+      "kr_sha256": "e80f2d8c93404beacba0598fabad73caf1838aff24ddd4e0b80abd4626edea9b",
+      "en_sha256": "bff308d766e8f68c8f3c149cb1c1cb0e542ed7c2206e3da6c7863bf63cf04d8d",
+      "origin": "ai"
+    },
+    "dataList[key=N104015].displayName": {
+      "pl": "Lampa-Bliźniak",
+      "kr_sha256": "95df1ea074bd0f9c3861999eeeb8cda6ba96c5e05f71f31b894b97c9ec61352b",
+      "en_sha256": "b9a1a025067811b5b731ef2aae334968e055abca4a45a2223bd93b4ad129bf9f",
+      "origin": "ai"
+    },
+    "dataList[key=N104016].displayName": {
+      "pl": "Taboret z Czerwonym Gąbkiem",
+      "kr_sha256": "12468180d1fc1b1cb1cf0083367d353c550b5694200c01842a9b47a53c70b372",
+      "en_sha256": "0886776e6a1e83c07685ee4d1639db18813e88bf18e969b77a5c7e2089856960",
+      "origin": "ai"
+    },
+    "dataList[key=N104017].displayName": {
+      "pl": "Spokojne Skórzane Łóżko",
+      "kr_sha256": "6835d5c8f01871fa16d5591597bdc7170d200aafaa6236057aac0c8363ad9212",
+      "en_sha256": "af53b56615ccedc2db078aacff2b54e4e18a84f553d59e3a87b16aa63c80126a",
+      "origin": "ai"
+    },
+    "dataList[key=N104018].displayName": {
+      "pl": "Skórzane Łóżko",
+      "kr_sha256": "eb6acd30cad927d6a6d16902309222e956111e94906fcbe56b646a7ba6b64e03",
+      "en_sha256": "597eaadd692934cae9c4f1b134a4eef75967d6fd1d10036c420584ef1a6d2bc7",
+      "origin": "ai"
+    },
+    "dataList[key=N104019].displayName": {
+      "pl": "Skórzane Łóżko",
+      "kr_sha256": "eb6acd30cad927d6a6d16902309222e956111e94906fcbe56b646a7ba6b64e03",
+      "en_sha256": "597eaadd692934cae9c4f1b134a4eef75967d6fd1d10036c420584ef1a6d2bc7",
+      "origin": "ai"
+    },
+    "dataList[key=N104020].displayName": {
+      "pl": "Sofa ze Skóry",
+      "kr_sha256": "b9ec03ef44191106101e5bea298a1b8d2bc054cfe74b6194edecd7c90bf8b04b",
+      "en_sha256": "9bc4e955d066db1456108cc573ccb8edb4123646354d61133da21aaa11b6c3a0",
+      "origin": "ai"
+    },
+    "dataList[key=N104021].displayName": {
+      "pl": "Taboret z Czerwonym Gąbkiem",
+      "kr_sha256": "12468180d1fc1b1cb1cf0083367d353c550b5694200c01842a9b47a53c70b372",
+      "en_sha256": "0886776e6a1e83c07685ee4d1639db18813e88bf18e969b77a5c7e2089856960",
+      "origin": "ai"
+    },
+    "dataList[key=N104022].displayName": {
+      "pl": "Wydłużona Lampa",
+      "kr_sha256": "e98c0fff9669018c1185a43703b1869dc81b5b3a2988eb3e4602d782ba38ff44",
+      "en_sha256": "a9dace5e531f6d0791395d1eee53a700c795a7482d4cf22a8873385e7d9dc7ea",
+      "origin": "ai"
+    },
+    "dataList[key=N104023].displayName": {
+      "pl": "Sofa ze Skóry",
+      "kr_sha256": "b9ec03ef44191106101e5bea298a1b8d2bc054cfe74b6194edecd7c90bf8b04b",
+      "en_sha256": "9bc4e955d066db1456108cc573ccb8edb4123646354d61133da21aaa11b6c3a0",
+      "origin": "ai"
+    }
+  }
+}

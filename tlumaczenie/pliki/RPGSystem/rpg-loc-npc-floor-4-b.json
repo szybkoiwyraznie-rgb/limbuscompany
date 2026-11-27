@@ -1,0 +1,226 @@
+{
+  "entries": {
+    "dataList[key=N101028].displayName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[key=N101029].displayName": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[key=N104002].displayName": {
+      "pl": "Kościany Wieszak",
+      "kr_sha256": "36858b6276b15f7b4ec46ed5843d4f931571f8cd11f1651b51f24b11632ab42d",
+      "en_sha256": "21da5916c1cd777989f0c47582514aab0cad61edb9b348165cd6bb7eaf102b0e",
+      "origin": "ai"
+    },
+    "dataList[key=N104003].displayName": {
+      "pl": "Lampa Łukowa",
+      "kr_sha256": "192825d276347307ccb82a0bbf0977fc5ce9246d4cee8120d33c86bd171a3506",
+      "en_sha256": "f960f48375b12be30ac233118c66b3ffd3575a8ae23650de2a90967ab2ccfe5d",
+      "origin": "ai"
+    },
+    "dataList[key=N104004].displayName": {
+      "pl": "Wypchana Skórzana Kurtyna",
+      "kr_sha256": "2223c550073afefc10842054e32da75bbbefe3e65a385c587d71ec93b59bd272",
+      "en_sha256": "deb355631ac522d59ccda04184e902190b25cf705ad18ab9100fcc7d947a3d55",
+      "origin": "ai"
+    },
+    "dataList[key=N104005].displayName": {
+      "pl": "Sofa ze Skóry",
+      "kr_sha256": "b9ec03ef44191106101e5bea298a1b8d2bc054cfe74b6194edecd7c90bf8b04b",
+      "en_sha256": "9bc4e955d066db1456108cc573ccb8edb4123646354d61133da21aaa11b6c3a0",
+      "origin": "ai"
+    },
+    "dataList[key=N104006].displayName": {
+      "pl": "Szczęśliwa Szafa",
+      "kr_sha256": "4f10055db66c910073d2c6b5f5067e6233015c984784d0d52d4f4123c5d7566f",
+      "en_sha256": "cbbcd5432d5a991eaf31aa1887269c3fedc2cf78cebb1c6a370e9508bce5caae",
+      "origin": "ai"
+    },
+    "dataList[key=N104009].displayName": {
+      "pl": "Dorothea",
+      "kr_sha256": "8a4431a476934ef31ebbb89e1d85ce48b12dbe2defb09cfbee8fab0ab1226d33",
+      "en_sha256": "2f6567883779b432bfb3d15820fbd0079e4ce183299306c257c6d7659cfc33e1",
+      "origin": "ai"
+    },
+    "dataList[key=N104010].displayName": {
+      "pl": "Pracownik Salonu Obuwia Le Noir",
+      "kr_sha256": "e4b2c1509e9840fdd6b3cec90ea02b75b5e1ea5398d95691b3abe0387ffd0ab0",
+      "en_sha256": "01c7bc21095a1205c21e7351a616146ddd8fa7bebbd371167d993eccc13ee93d",
+      "origin": "ai"
+    },
+    "dataList[key=N104011].displayName": {
+      "pl": "Surowa Noga",
+      "kr_sha256": "f2c88decd3785066fd5407ad2b9fa7a43115a7b491233e2120117a438cc147f1",
+      "en_sha256": "7a4425b3138f03786940a22c8b56abe11084f1d5667dc6bf96698209ec8834dc",
+      "origin": "ai"
+    },
+    "dataList[key=N104012].displayName": {
+      "pl": "Czteronogi",
+      "kr_sha256": "df89bef4104c2b02735dd4347d81d186ccc72244cbc6d79dd852df5189372019",
+      "en_sha256": "f07c4ac4a81b5f069730c9d312590be7062c0298e6e57bb7fe580055eea7b412",
+      "origin": "ai"
+    },
+    "dataList[key=N104013].displayName": {
+      "pl": "Cosette",
+      "kr_sha256": "e80f2d8c93404beacba0598fabad73caf1838aff24ddd4e0b80abd4626edea9b",
+      "en_sha256": "bff308d766e8f68c8f3c149cb1c1cb0e542ed7c2206e3da6c7863bf63cf04d8d",
+      "origin": "ai"
+    },
+    "dataList[key=N104015].displayName": {
+      "pl": "Lampa-Bliźniak",
+      "kr_sha256": "95df1ea074bd0f9c3861999eeeb8cda6ba96c5e05f71f31b894b97c9ec61352b",
+      "en_sha256": "b9a1a025067811b5b731ef2aae334968e055abca4a45a2223bd93b4ad129bf9f",
+      "origin": "ai"
+    },
+    "dataList[key=N104016].displayName": {
+      "pl": "Taboret z Czerwonym Gąbkiem",
+      "kr_sha256": "12468180d1fc1b1cb1cf0083367d353c550b5694200c01842a9b47a53c70b372",
+      "en_sha256": "0886776e6a1e83c07685ee4d1639db18813e88bf18e969b77a5c7e2089856960",
+      "origin": "ai"
+    },
+    "dataList[key=N104017].displayName": {
+      "pl": "Spokojne Skórzane Łóżko",
+      "kr_sha256": "6835d5c8f01871fa16d5591597bdc7170d200aafaa6236057aac0c8363ad9212",
+      "en_sha256": "af53b56615ccedc2db078aacff2b54e4e18a84f553d59e3a87b16aa63c80126a",
+      "origin": "ai"
+    },
+    "dataList[key=N104018].displayName": {
+      "pl": "Skórzane Łóżko",
+      "kr_sha256": "eb6acd30cad927d6a6d16902309222e956111e94906fcbe56b646a7ba6b64e03",
+      "en_sha256": "597eaadd692934cae9c4f1b134a4eef75967d6fd1d10036c420584ef1a6d2bc7",
+      "origin": "ai"
+    },
+    "dataList[key=N104019].displayName": {
+      "pl": "Skórzane Łóżko",
+      "kr_sha256": "eb6acd30cad927d6a6d16902309222e956111e94906fcbe56b646a7ba6b64e03",
+      "en_sha256": "597eaadd692934cae9c4f1b134a4eef75967d6fd1d10036c420584ef1a6d2bc7",
+      "origin": "ai"
+    },
+    "dataList[key=N104020].displayName": {
+      "pl": "Sofa ze Skóry",
+      "kr_sha256": "b9ec03ef44191106101e5bea298a1b8d2bc054cfe74b6194edecd7c90bf8b04b",
+      "en_sha256": "9bc4e955d066db1456108cc573ccb8edb4123646354d61133da21aaa11b6c3a0",
+      "origin": "ai"
+    },
+    "dataList[key=N104021].displayName": {
+      "pl": "Taboret z Czerwonym Gąbkiem",
+      "kr_sha256": "12468180d1fc1b1cb1cf0083367d353c550b5694200c01842a9b47a53c70b372",
+      "en_sha256": "0886776e6a1e83c07685ee4d1639db18813e88bf18e969b77a5c7e2089856960",
+      "origin": "ai"
+    },
+    "dataList[key=N104022].displayName": {
+      "pl": "Wydłużona Lampa",
+      "kr_sha256": "e98c0fff9669018c1185a43703b1869dc81b5b3a2988eb3e4602d782ba38ff44",
+      "en_sha256": "a9dace5e531f6d0791395d1eee53a700c795a7482d4cf22a8873385e7d9dc7ea",
+      "origin": "ai"
+    },
+    "dataList[key=N104023].displayName": {
+      "pl": "Sofa ze Skóry",
+      "kr_sha256": "b9ec03ef44191106101e5bea298a1b8d2bc054cfe74b6194edecd7c90bf8b04b",
+      "en_sha256": "9bc4e955d066db1456108cc573ccb8edb4123646354d61133da21aaa11b6c3a0",
+      "origin": "ai"
+    },
+    "dataList[key=N104024].displayName": {
+      "pl": "Projektant Salonu Torebek Le Noir",
+      "kr_sha256": "be48e2662e54e753ae3580027139a3c9249ac015200b9e9a346386e4cd44480b",
+      "en_sha256": "81014332cc20225797afcbc084fd441324b8f3cc40557491a2767da5208ce183",
+      "origin": "ai"
+    },
+    "dataList[key=N104025].displayName": {
+      "pl": "Renée",
+      "kr_sha256": "28ef9f3c1a3f612d8e062ee74fa460a5c3587ed4fd2f3a9e3e29e2a642a22751",
+      "en_sha256": "6e39a5fbc296fb6c9e665cd4a7779947f218d98e72dbb3c4bb9d9183df2eb353",
+      "origin": "ai"
+    },
+    "dataList[key=N104026].displayName": {
+      "pl": "Projektant Salonu Torebek Le Rouge",
+      "kr_sha256": "bb22d59e5481c289f3082e44f8909cc0cedec0cb7014750bd4d1a18bbffb8e6a",
+      "en_sha256": "4aa37f0505b74ba1929a8e241472501d752cb18930cb7d14c8e87ca055c1de34",
+      "origin": "ai"
+    },
+    "dataList[key=N104031].displayName": {
+      "pl": "Dzieło Projektanta",
+      "kr_sha256": "39224b99932972ad3a2ee12b99c8d735be947c69b17663aae045513aa80fd5e7",
+      "en_sha256": "4c81354d5beb9c54e46b27138b0e19bc36d4eb9405806525c52f71b3bfc77db9",
+      "origin": "ai"
+    },
+    "dataList[key=N104032].displayName": {
+      "pl": "Dzieło Projektanta",
+      "kr_sha256": "39224b99932972ad3a2ee12b99c8d735be947c69b17663aae045513aa80fd5e7",
+      "en_sha256": "4c81354d5beb9c54e46b27138b0e19bc36d4eb9405806525c52f71b3bfc77db9",
+      "origin": "ai"
+    },
+    "dataList[key=N104033].displayName": {
+      "pl": "Dzieło Projektanta",
+      "kr_sha256": "39224b99932972ad3a2ee12b99c8d735be947c69b17663aae045513aa80fd5e7",
+      "en_sha256": "4c81354d5beb9c54e46b27138b0e19bc36d4eb9405806525c52f71b3bfc77db9",
+      "origin": "ai"
+    },
+    "dataList[key=N104037].displayName": {
+      "pl": "Jajo ???",
+      "kr_sha256": "cf8f20621727af2200c30428c149814be7c112cc93811bad4f875edf3d9f7719",
+      "en_sha256": "5b3810fc8ea4ecee2150bc1e15b681622592c6e286d638ca3d5188efcd64c7c8",
+      "origin": "ai"
+    },
+    "dataList[key=N104038].displayName": {
+      "pl": "Zniszczony Mebel",
+      "kr_sha256": "491572c8216a074c8ae5c898db27b6e06d1fe25874f4f7307c7b9799d0b73fb3",
+      "en_sha256": "8f5c1d8151044ddb0c5bd8832ebf7e7ecb9566b863423c735e1ec3ddef64fe6e",
+      "origin": "ai"
+    },
+    "dataList[key=N104039].displayName": {
+      "pl": "Dorothea",
+      "kr_sha256": "8a4431a476934ef31ebbb89e1d85ce48b12dbe2defb09cfbee8fab0ab1226d33",
+      "en_sha256": "2f6567883779b432bfb3d15820fbd0079e4ce183299306c257c6d7659cfc33e1",
+      "origin": "ai"
+    },
+    "dataList[key=N104040].displayName": {
+      "pl": "Szczątki ???",
+      "kr_sha256": "e758cbac11ca879e0099fc98eee5045def2bf903a7efe29a5014a63fbeafd40b",
+      "en_sha256": "40457f2aef9c70b9e5089dc93ac10dae825825182d64e6db3e08aa75375a9ff3",
+      "origin": "ai"
+    },
+    "dataList[key=N104041].displayName": {
+      "pl": "Zniszczony Kościany Wieszak",
+      "kr_sha256": "e535270185ba96c34395f4d75216c76e548673af148b5a48e09118893de1c424",
+      "en_sha256": "e9b3bc8e4f6b1beae499ca5bfb807a2e5d53b1c8b00054266789e90d8ce7cc84",
+      "origin": "ai"
+    },
+    "dataList[key=N104042].displayName": {
+      "pl": "Zniszczone Spokojne Skórzane Łóżko",
+      "kr_sha256": "0b425fb904fecd4cee7d76c5cbe125ac338e2a0e7a0a515d92bec7eb172f790c",
+      "en_sha256": "5c9aee69e52d03bf489793289165c9d35483d1d2e5c49c7865a3e4d6df119380",
+      "origin": "ai"
+    },
+    "dataList[key=N104043].displayName": {
+      "pl": "Zniszczona Wypchana Skórzana Kurtyna",
+      "kr_sha256": "c32cd94d001725d44f4d14533806ce007ad894aca30d6b39e9c9689a0a0da62c",
+      "en_sha256": "a1b8c5f6f1faaf4dbb5735a5408e64b23bece00c2c1ecf668fbc2478a22dbb98",
+      "origin": "ai"
+    },
+    "dataList[key=N104044].displayName": {
+      "pl": "Zniszczony Taboret z Czerwonym Gąbkiem",
+      "kr_sha256": "5b98ceb4180fcd383e0a864060f3e587d57c4f6f0c39b0e144bd4b7633a40f15",
+      "en_sha256": "f6a26c331d18ecc0089c04ff115befd518d77bfb22f7287452e0afc10a411005",
+      "origin": "ai"
+    },
+    "dataList[key=N104045].displayName": {
+      "pl": "Zniszczona Sofa ze Skóry",
+      "kr_sha256": "5562760b932bff029cd046e1fee4f0eb16d7db062eb882222ffb184f57fa15b4",
+      "en_sha256": "fcccb2387c0eaf658361b345c6c79e848e040e82e8d15337b976a8bb2d71bb8c",
+      "origin": "ai"
+    },
+    "dataList[key=N104046].displayName": {
+      "pl": "Zniszczona Lampa-Bliźniak",
+      "kr_sha256": "036089bd3ca235f71b6f89326aa057e07c06f8fb1563d628e99b1f528ffccda1",
+      "en_sha256": "5d325ad126d93f299e18f9f48a3ce5cd113fe8c717af293ce313a93ae79baca7",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[key=110200].text": {
+      "pl": "Salon Urody, 1. piętro",
+      "kr_sha256": "d2dd2fbda19e93491f573be93c2729f7a300a9379af306b325d66a4c9246a93a",
+      "en_sha256": "18c6dc6f317b5336626bf99269ae76987b232e6881e547b528cd5d8c518abd75",
+      "origin": "ai"
+    },
+    "dataList[key=110300].text": {
+      "pl": "Salon Urody",
+      "kr_sha256": "51ae04c7a9169b5423efc9689e610407fd6454ea1fa65bb3057dfc99311bbf44",
+      "en_sha256": "3b203805c220318a8abba1f2753f24b5f949690cb7ff9d5b6f2ded1671026b4a",
+      "origin": "ai"
+    },
+    "dataList[key=110400].text": {
+      "pl": "Salon Urody, Korytarz",
+      "kr_sha256": "d32d12f634bc1f2e7f3fd684eb79a438fd9a4a7fa2b4b88325a4f1d768d1d3d5",
+      "en_sha256": "2b8fad857c34a981c9490bfa3210702ffcdd458bd80b92da7f093e46c554ed59",
+      "origin": "ai"
+    },
+    "dataList[key=110500].text": {
+      "pl": "Salon SPA, Zachód",
+      "kr_sha256": "5c7aa767d141b32ba9c2cf8b13c38108fe12e48ca2c41fa1c6bc6c7eb3419a77",
+      "en_sha256": "c8aac5932356ad71dfe3a86b4caa2e167bd3bab0a5d7932b0ef097791fc0e4b9",
+      "origin": "ai"
+    },
+    "dataList[key=110600].text": {
+      "pl": "Salon SPA, Środek",
+      "kr_sha256": "52838acf031888bad37706b44bea279f4b6841e8f52d35ee5236c9527d9debd5",
+      "en_sha256": "8c770abc4a805c134a392440b653d6777af9aba83772863e988efb83f0352182",
+      "origin": "ai"
+    },
+    "dataList[key=110700].text": {
+      "pl": "Salon SPA, Wschód",
+      "kr_sha256": "7e2e5caff2508f920694a921740bfa9c0af8950136cf025a698d87dd2ace0f3f",
+      "en_sha256": "4fc81c951ef90c4ce82fd824bffcbbfd82be9fc4eff5c99b09f922fec01e2311",
+      "origin": "ai"
+    },
+    "dataList[key=110800].text": {
+      "pl": "Salon SPA, Korytarz",
+      "kr_sha256": "963ac180ea663f82a6db88e3ec0e86b71e82e7cf689e1d183ec82db67945e884",
+      "en_sha256": "098034acca146245aa214f355ad9e650a88ca2aa12c540c5d422f26468c31ca5",
+      "origin": "ai"
+    },
+    "dataList[key=110900].text": {
+      "pl": "Salon Contempora Le Noir",
+      "kr_sha256": "c0c6810b1040129e70a0b5293a01db3774898b6c27ea773e65b93984c297eba4",
+      "en_sha256": "b34e67d98ac3230ea52b8681348bbd96023498417a58f278dab616dfe2bc53fe",
+      "origin": "ai"
+    },
+    "dataList[key=111000].text": {
+      "pl": "Korytarz Salonu Contempora",
+      "kr_sha256": "5677ff745150dbbe5bebfb53e85d36e8c59dd16ba067e079f402140f2eaaae1f",
+      "en_sha256": "4a5155b2de2e729be4136a3eb607c689d5c024ab7c3dfed99604db5d736f3e0e",
+      "origin": "ai"
+    },
+    "dataList[key=111100].text": {
+      "pl": "Salon Contempora Le Rouge",
+      "kr_sha256": "640ee4c171c978d29465282ac11d4271ef62bb31c91f4af275fb42ea8ca8ecb6",
+      "en_sha256": "750b7556cf8e81b87965cd1405456c5807446e9c810c8eb0b3aa3d2334f11200",
+      "origin": "ai"
+    },
+    "dataList[key=8000].text": {
+      "pl": "Teatr A",
+      "kr_sha256": "98fd0002e08d94c9a57d298bdd04f2709e545e9e84828f1a67cc506ea6e60ca8",
+      "en_sha256": "8d11dbb26bd12b4beabe0f9fba104501cde11d072e765472085b7f976877644c",
+      "origin": "ai"
+    },
+    "dataList[key=8001].text": {
+      "pl": "Teatr B",
+      "kr_sha256": "add25a16944345818863f13dbb66b100039e55001c082bee7baafc97027d2024",
+      "en_sha256": "d4105240235d0c0569de38ba4a391667d4eb429848b508f4a74c1027db459b16",
+      "origin": "ai"
+    },
+    "dataList[key=8002].text": {
+      "pl": "Teatr C",
+      "kr_sha256": "829d9aecf90d3c87eeb1cec20cfb0aee861d314765d5366263c00ed6fa0f5775",
+      "en_sha256": "b651d145471f5bee170f570fb455ba10a4ff41d5e89adfc8acb99cbf8828f719",
+      "origin": "ai"
+    },
+    "dataList[key=999999].text": {
+      "pl": "Źródło",
+      "kr_sha256": "0cdffa85600695dacec94eb949fb889a8ac365c54348b36cc8faab7e189d032f",
+      "en_sha256": "d556bf18e58ae2bdf919b9731a3687795fb3ccab79ab61879ec9c7d3f2fe29b1",
+      "origin": "ai"
+    }
+  }
+}

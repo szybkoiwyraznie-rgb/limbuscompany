@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[key=N104001].displayName": {
+      "pl": "Trzaskająca Szuflada",
+      "kr_sha256": "4332875c232e1b8e8ccbed8ce70230fb151e7d4cea9c2f5e8caa96efd8561db5",
+      "en_sha256": "99aaaa7c2de2028c7c586b2d357a7539ba47e092a9b486cf8e5dcb8e43aa9a6a",
+      "origin": "ai"
+    },
+    "dataList[key=N104007].displayName": {
+      "pl": "Skrzypiąca Szuflada",
+      "kr_sha256": "2193477abd42fee33ed65553d89d6038d9daa8df1ad9ad184aa01f2b4ae9deb0",
+      "en_sha256": "0a1aedbc68709e259a16b363ef9b5dba689463f784fcf9cd3e4ef14725c79bab",
+      "origin": "ai"
+    },
+    "dataList[key=N104008].displayName": {
+      "pl": "Skrzypiąca Szuflada",
+      "kr_sha256": "2193477abd42fee33ed65553d89d6038d9daa8df1ad9ad184aa01f2b4ae9deb0",
+      "en_sha256": "0a1aedbc68709e259a16b363ef9b5dba689463f784fcf9cd3e4ef14725c79bab",
+      "origin": "ai"
+    },
+    "dataList[key=N104014].displayName": {
+      "pl": "Trzaskająca Szuflada",
+      "kr_sha256": "4332875c232e1b8e8ccbed8ce70230fb151e7d4cea9c2f5e8caa96efd8561db5",
+      "en_sha256": "99aaaa7c2de2028c7c586b2d357a7539ba47e092a9b486cf8e5dcb8e43aa9a6a",
+      "origin": "ai"
+    },
+    "dataList[key=N104029].displayName": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=N104030].displayName": {
+      "pl": "Renée",
+      "kr_sha256": "28ef9f3c1a3f612d8e062ee74fa460a5c3587ed4fd2f3a9e3e29e2a642a22751",
+      "en_sha256": "6e39a5fbc296fb6c9e665cd4a7779947f218d98e72dbb3c4bb9d9183df2eb353",
+      "origin": "ai"
+    },
+    "dataList[key=N104034].displayName": {
+      "pl": "Torebka ze Złotym Ogonkiem",
+      "kr_sha256": "4eb5fbbf177509eef178cf134be206e0d3e943ceb9e0f5070d6aef08cf9e6ba4",
+      "en_sha256": "abc697ac68c81e4192ee52533dd68daca877d4b9db1091d8542dacafa1c27275",
+      "origin": "ai"
+    },
+    "dataList[key=N104035].displayName": {
+      "pl": "Torebka ze Złotym Okiem",
+      "kr_sha256": "3d812f0977f353fb5491ea30b76e0d796eeb89a9bfdb51506288ca92cba536c6",
+      "en_sha256": "831bfab5cc90b849415024ec4f156ff5524eab2815dea38cec12429f72f433c5",
+      "origin": "ai"
+    },
+    "dataList[key=N104036].displayName": {
+      "pl": "Torebka ze Złotymi Wąsami",
+      "kr_sha256": "580f4924bfdfab8c963ae8dee2acfcb6fe52efb07183e66c1f6ff6df6507969b",
+      "en_sha256": "5d7fe858209b68bb7c4ec4088597e06f9893312105972a36c6b5e7df34463384",
+      "origin": "ai"
+    }
+  }
+}

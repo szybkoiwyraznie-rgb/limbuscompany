@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=Q2001].description": {
+      "pl": "Nawet jeśli nic się nie zmieni, musimy iść w górę dalej.",
+      "kr_sha256": "300c1b8772944e5cfaad151368c2114acc95ebd98c1d24bc74cc43f6a229be77",
+      "en_sha256": "0e946d6e789b1073732e5eee466408741532bad2d526c725c35a1c7109873941",
+      "origin": "ai"
+    },
+    "dataList[key=Q2001].steps[#0].goalDescription1": {
+      "pl": "Udaj się na 2. piętro",
+      "kr_sha256": "1b865c222b1613b740e6e409259d5f19503a83bd194aa7f2812d9266e8cf0dab",
+      "en_sha256": "fb09a0045a0931a97260fd90dfa35fdbe8285edb30fda4b15f9e3963d7831246",
+      "origin": "ai"
+    },
+    "dataList[key=Q2001].title": {
+      "pl": "Udaj się na 2. piętro",
+      "kr_sha256": "1b865c222b1613b740e6e409259d5f19503a83bd194aa7f2812d9266e8cf0dab",
+      "en_sha256": "fb09a0045a0931a97260fd90dfa35fdbe8285edb30fda4b15f9e3963d7831246",
+      "origin": "ai"
+    }
+  }
+}

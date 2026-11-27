@@ -1,0 +1,250 @@
+{
+  "entries": {
+    "dataList[key=Q3001].description": {
+      "pl": "Jak można było oczekiwać, 2. piętro znów jest w trakcie „remontu”. Szybko udamy się na 3. piętro.",
+      "kr_sha256": "cc9393352598b3fa9a9de9b3897a0115ef9f345d210af3f611bd8d8f09a53620",
+      "en_sha256": "50d7f57f63afefde0454249e0e213619171141934a435890fbfb7b3e5bbdd200",
+      "origin": "ai"
+    },
+    "dataList[key=Q3001].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 3. piętro",
+      "kr_sha256": "65ad393cee9f66242dc08021273c702dce889158462ce65779b867b3c4d9638e",
+      "en_sha256": "4aaddfff8d6ab9a9110fc947963e70a665b7db2755082cc5e2d5fa12ca0a8b8c",
+      "origin": "ai"
+    },
+    "dataList[key=Q3001].title": {
+      "pl": "Wspinaj się na 3. piętro",
+      "kr_sha256": "ca532987c60a4e9200c5f6718dc2e3a3a1eb05cea336425c4c764f5a835f8ce5",
+      "en_sha256": "8e42d05dbd84b8e839ca6e2903b975e6ed9657605a82a293be9283cd640d76f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q3002].description": {
+      "pl": "Dotarliśmy na 3. piętro. I znów słychać dźwięk nożyc. Udamy się do Warsztatu Poprawek i spotkamy się z krawcową Annette.",
+      "kr_sha256": "089da9fe15f5528d1a7782f56130ba2e1973431b056f25b5e55dfee608bce51d",
+      "en_sha256": "de704c2f7110aa5aafee090c749babdccfddc65ca21eb4fdaf6c3f8ea84a79f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q3002].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Warsztatu Poprawek",
+      "kr_sha256": "e7ccbd9765df4fab378fd607559856c2b6cedc159f49eb1d435ede61486586c3",
+      "en_sha256": "30dcdc2967ebae721b9193a30d1c50ffc96566d95be561664fecb0aa3c7c36e8",
+      "origin": "ai"
+    },
+    "dataList[key=Q3002].title": {
+      "pl": "Pójdź za dźwiękiem nożyc",
+      "kr_sha256": "38f72570d6d0b901a0656d65174318770d063508da0dd748c2db74a79621a93e",
+      "en_sha256": "b348911f915af81e5b3649dc7eb316e54a84646632a8aff8816f191bf6f90c52",
+      "origin": "ai"
+    },
+    "dataList[key=Q3003].description": {
+      "pl": "Tym razem Annette nie oddała nam nożyc. Bez nich trudno będzie poradzić sobie z manekinem zagradzającym korytarz… Sprawdźmy, czy Garnitur Dzielony znów blokuje przejście.",
+      "kr_sha256": "2c455b5dbd44e07259532d0a0d70a3935c36f6a42656473c9067afd4ade3b2c7",
+      "en_sha256": "e71f3ef22406d04f1df217548e43dfa4d22ce768f21ee004cc1e431376e98bf4",
+      "origin": "ai"
+    },
+    "dataList[key=Q3003].steps[#0].goalDescription1": {
+      "pl": "Wyjdź na korytarz",
+      "kr_sha256": "5b7877bb5ed9c3c70a2ad183b35c6fc5725d35d5d027b9f870002b34178d8664",
+      "en_sha256": "7803c7bdb45adec6b05af61a2b51725e47a650d56cb70f4743c4554f479c845c",
+      "origin": "ai"
+    },
+    "dataList[key=Q3003].title": {
+      "pl": "Wyjdź na korytarz",
+      "kr_sha256": "5b7877bb5ed9c3c70a2ad183b35c6fc5725d35d5d027b9f870002b34178d8664",
+      "en_sha256": "10e5d02461f932c3418f2f3faddfdbb5be3be3184e550c2321592a0d7136807b",
+      "origin": "ai"
+    },
+    "dataList[key=Q3004].description": {
+      "pl": "Jak zwykle Garnitur Dzielony znów zagradza drogę, przez co trudno wejść do sklepu po prawej. Udamy się na lewo, do Boutique du Rouge.",
+      "kr_sha256": "2829f7dd5d547698f5cb9e43129fdc6106866eb199dbed0d9789bfa76ce337ee",
+      "en_sha256": "c5638c42c609c75fa718b2ea619e929259a12c82c6c0ab5f7f16f14e6bd6ef2a",
+      "origin": "ai"
+    },
+    "dataList[key=Q3004].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Boutique du Rouge",
+      "kr_sha256": "f2ff99f1f8593c71d2b5b746454d1ba79c3d97b6a91fc4f73d4dd2c84e716554",
+      "en_sha256": "4976d536e8c75da25eff362401df3abb230f3d7a340e30976c7a53bad0326d16",
+      "origin": "ai"
+    },
+    "dataList[key=Q3004].title": {
+      "pl": "Udaj się do Boutique du Rouge",
+      "kr_sha256": "f2ff99f1f8593c71d2b5b746454d1ba79c3d97b6a91fc4f73d4dd2c84e716554",
+      "en_sha256": "4976d536e8c75da25eff362401df3abb230f3d7a340e30976c7a53bad0326d16",
+      "origin": "ai"
+    },
+    "dataList[key=Q3005].description": {
+      "pl": "I tym razem w sklepie rozbrzmiewa głos giganta Le Rouge… matki Meursaulta. Sprzedawca Boutique bardzo cierpiał, że nie mógł usłyszeć tego głosu, i pewnie tym razem będzie podobnie. Zagadajmy najpierw L'Inamovible.",
+      "kr_sha256": "42558e2d73f6e8a79d0bc7462faeabc6eb8bbdbc5b80ecd4d4dc971c8f6b938d",
+      "en_sha256": "b473e6a2c59eee6a5f45b409d0af91864449a0a2176b9f88f4cd090355eb4dfe",
+      "origin": "ai"
+    },
+    "dataList[key=Q3005].steps[#0].goalDescription1": {
+      "pl": "Zagadaj L'Inamovible",
+      "kr_sha256": "3dde50956aed1769f4059c7a1ecdb193d490d086fe2bd2b4437d2eabf91868a9",
+      "en_sha256": "a26c4d25f5191b97ff6bf61ff0f08d4e6ed47183fa6f2c299e25aefb57be7fbf",
+      "origin": "ai"
+    },
+    "dataList[key=Q3005].title": {
+      "pl": "Zagadaj L'Inamovible",
+      "kr_sha256": "3dde50956aed1769f4059c7a1ecdb193d490d086fe2bd2b4437d2eabf91868a9",
+      "en_sha256": "a26c4d25f5191b97ff6bf61ff0f08d4e6ed47183fa6f2c299e25aefb57be7fbf",
+      "origin": "ai"
+    },
+    "dataList[key=Q3006].description": {
+      "pl": "L'Inamovible, który wcześniej tylko cierpiał, powiedział, że znów słyszy głos. Może to za sprawą kawałka ciała, który nosimy przy sobie. On chce, byśmy zabili Annette z Warsztatu Poprawek. Nie wiemy jeszcze, co robić, ale na razie udamy się do Maison du Noir po prawej. Może „spotkanie” już się skończyło…",
+      "kr_sha256": "b83960f9b748e34ee7bd726635ac6e1ebc16bf799fd8aa9f1cfdefeeb0b568a9",
+      "en_sha256": "fa1be7eeb1d229c5f765c7b8c4ba6f1fad7e63752acbacd8ef6552ca90d0c462",
+      "origin": "ai"
+    },
+    "dataList[key=Q3006].steps[#0].goalDescription1": {
+      "pl": "Wyjdź na korytarz",
+      "kr_sha256": "5b7877bb5ed9c3c70a2ad183b35c6fc5725d35d5d027b9f870002b34178d8664",
+      "en_sha256": "7803c7bdb45adec6b05af61a2b51725e47a650d56cb70f4743c4554f479c845c",
+      "origin": "ai"
+    },
+    "dataList[key=Q3006].title": {
+      "pl": "Wyjdź na korytarz",
+      "kr_sha256": "5b7877bb5ed9c3c70a2ad183b35c6fc5725d35d5d027b9f870002b34178d8664",
+      "en_sha256": "10e5d02461f932c3418f2f3faddfdbb5be3be3184e550c2321592a0d7136807b",
+      "origin": "ai"
+    },
+    "dataList[key=Q3020].description": {
+      "pl": "Garnitur Dzielony znów blokuje korytarz. Poza tym chyba zwietrzył kawałek ciała, który nosimy. Obejdźmy go i udamy się do Maison du Noir drogą przez Pomieszczenie Zapowiedzi w Boutique du Rouge.",
+      "kr_sha256": "dca89225875b11ed0f888b319e98c8027ea303a1983b6d2593747caa4d22348d",
+      "en_sha256": "8aecf399a0a331fba48d147ae6e3cca3aa1cfc882b419d530d981a41adedefb8",
+      "origin": "ai"
+    },
+    "dataList[key=Q3020].steps[#0].goalDescription1": {
+      "pl": "Obejdź i udaj się do Maison du Noir",
+      "kr_sha256": "26424a4ae4ece3f7fffee32180e5b982e4c17e1ecbec35a40d7a5a16b26ce974",
+      "en_sha256": "01f95e4da2a7f3360bb0258d1dac2263184f878f6f1f98284e198f38398288ca",
+      "origin": "ai"
+    },
+    "dataList[key=Q3020].title": {
+      "pl": "Obejdź i udaj się do Maison du Noir",
+      "kr_sha256": "26424a4ae4ece3f7fffee32180e5b982e4c17e1ecbec35a40d7a5a16b26ce974",
+      "en_sha256": "01f95e4da2a7f3360bb0258d1dac2263184f878f6f1f98284e198f38398288ca",
+      "origin": "ai"
+    },
+    "dataList[key=Q3021].title": {
+      "pl": "Zabij Flannela i Felta z Maison du Noir",
+      "kr_sha256": "6352a143daa5fe5726c5936bc74e5d2e18078b85bade9fb1ecac0e85f243e22e",
+      "en_sha256": "5c5519aa250e6468731df5ff3ac6c8279c5977d5e938c775834c63ffa3b3dd5a",
+      "origin": "ai"
+    },
+    "dataList[key=Q3022].description": {
+      "pl": "Według Jeanne koniec Grand Magasin jest już przesądzony, a inne wybory nic nie zmienią. Ale nie możemy stać w miejscu z założonymi rękami. Żeby dokonać innego wyboru, postanowiliśmy wrócić do Warsztatu Poprawek.",
+      "kr_sha256": "a305ed20d0a130658f12f43fc0f17b6157e506e5743bdf95b36993a810f3ca9d",
+      "en_sha256": "5b919556b3dee68bbb472b13286f65a6fa83f15c57c097c37ed5793c6854e6d7",
+      "origin": "ai"
+    },
+    "dataList[key=Q3022].steps[#0].goalDescription1": {
+      "pl": "Wróć do Warsztatu Poprawek",
+      "kr_sha256": "b9c4b223175ae76ebb6220ec3374361b1d9857b16d653259c6350f4a3212983b",
+      "en_sha256": "857ebaee87275192963a1fcabe2ef06db29a7a72bd5e3c75ffbf6d6d53babd35",
+      "origin": "ai"
+    },
+    "dataList[key=Q3022].title": {
+      "pl": "Wróć do Warsztatu Poprawek",
+      "kr_sha256": "b9c4b223175ae76ebb6220ec3374361b1d9857b16d653259c6350f4a3212983b",
+      "en_sha256": "857ebaee87275192963a1fcabe2ef06db29a7a72bd5e3c75ffbf6d6d53babd35",
+      "origin": "ai"
+    },
+    "dataList[key=Q3023].title": {
+      "pl": "Zabij krawcową Annette",
+      "kr_sha256": "2728b30836ad1f2f076a2693ccccf63d285a2fa2e022fd88cd9d88d6c3e12538",
+      "en_sha256": "fe1c63c516b6645675a42959830e7da1dbc997c3bd10ac7178fddd0d5a917f71",
+      "origin": "ai"
+    },
+    "dataList[key=Q3024].description": {
+      "pl": "Pokonaliśmy Annette, ale ostrzegła, że już nigdy nie będzie mogła stanąć po stronie Le Noir. Czy tym razem wybór doprowadzi do innego zakończenia? Wróćmy do L'Inamovible z Boutique du Rouge.",
+      "kr_sha256": "ab81cdefe9c8dc9a44d5748c8825b7c62b7e03de91387ba399db57f5ebb1cff9",
+      "en_sha256": "c2da7e4441d0baeb5731b227fdaa9d7ba23f92a0b2162293fdf9a4bae1ed4d6b",
+      "origin": "ai"
+    },
+    "dataList[key=Q3024].steps[#0].goalDescription1": {
+      "pl": "Wróć do L'Inamovible",
+      "kr_sha256": "c26e8c09cc53fd10eb4b93a532eee6ddf993093797c493be6a765b37e7190ec1",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q3024].title": {
+      "pl": "Wróć do L'Inamovible",
+      "kr_sha256": "c26e8c09cc53fd10eb4b93a532eee6ddf993093797c493be6a765b37e7190ec1",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q3025].description": {
+      "pl": "L'Inamovible ucieszył się niesamowicie i kazał nam udać się do Salonu Prestiżu na 2. piętrze. Podobno głos wzywa nas tam. Może wszystko potoczyłoby się inaczej, gdybyśmy ostatnim razem nie wyciągnili tego czegoś z kokonu siłą? Wróćmy na 2. piętro.",
+      "kr_sha256": "7a166bfd1ffd41a5903d1585e9906bf8ad9a7572a1e3bae2f815f61529265162",
+      "en_sha256": "5e5f0e238e44936d3786a0aa29df9e46f29e64d5f1a424cd3992c83ed3160788",
+      "origin": "ai"
+    },
+    "dataList[key=Q3025].steps[#0].goalDescription1": {
+      "pl": "Wróć na 2. piętro",
+      "kr_sha256": "2509754cbe7a90a7b68802f7951a5efb191e28ba460f0be49328007e3743a576",
+      "en_sha256": "e35619cfc4128c00d4c157ce920be7f99d0d7d1168e4408caf2a660c25e6dc89",
+      "origin": "ai"
+    },
+    "dataList[key=Q3025].title": {
+      "pl": "Wróć na 2. piętro",
+      "kr_sha256": "2509754cbe7a90a7b68802f7951a5efb191e28ba460f0be49328007e3743a576",
+      "en_sha256": "e35619cfc4128c00d4c157ce920be7f99d0d7d1168e4408caf2a660c25e6dc89",
+      "origin": "ai"
+    },
+    "dataList[key=Q3026].description": {
+      "pl": "Tym razem zdecydowaliśmy się stanąć po stronie Le Rouge, więc będziemy z nimi współpracować. Udamy się do L'Inamovible z 3. piętra, który gorączkowo czeka na ponowne usłyszenie głosu.",
+      "kr_sha256": "8154b0c036d0f32f378606359b405338ce76944d6940c50cbdd6315b9bdbbd69",
+      "en_sha256": "ea08271bc8d7cf99c7558e832323c69d7bcef462a1f8c44a2412b5a10faa619d",
+      "origin": "ai"
+    },
+    "dataList[key=Q3026].steps[#0].goalDescription1": {
+      "pl": "Udaj się na 3. piętro",
+      "kr_sha256": "507141481ef0be5de93fb2345c76855a5bcc517f89574770ed520b3ca8647738",
+      "en_sha256": "8e42d05dbd84b8e839ca6e2903b975e6ed9657605a82a293be9283cd640d76f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q3026].title": {
+      "pl": "Udaj się na 3. piętro",
+      "kr_sha256": "507141481ef0be5de93fb2345c76855a5bcc517f89574770ed520b3ca8647738",
+      "en_sha256": "8e42d05dbd84b8e839ca6e2903b975e6ed9657605a82a293be9283cd640d76f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q3027].description": {
+      "pl": "Dotarliśmy na 3. piętro. Pokażmy dziecko L'Inamovible.",
+      "kr_sha256": "6f0cb0955bdb454083dac3c71b028e9464553b63a264abe779b3c9914208ede3",
+      "en_sha256": "81c7131889f7f4ebce75dc1342dc3f82c0bc345aac7bfdf3202aa20df36b3caa",
+      "origin": "ai"
+    },
+    "dataList[key=Q3027].steps[#0].goalDescription1": {
+      "pl": "Pokaż dziecko L'Inamovible",
+      "kr_sha256": "dbd7cab7711aaf9dd95671fae77ec95a1685da02c05b8d0dc5b77da9032570ae",
+      "en_sha256": "9e653aec99c6db60275289d6380acb7e62f5ebbc3ea415406d93d544f36bbd09",
+      "origin": "ai"
+    },
+    "dataList[key=Q3027].title": {
+      "pl": "Pokaż dziecko L'Inamovible",
+      "kr_sha256": "dbd7cab7711aaf9dd95671fae77ec95a1685da02c05b8d0dc5b77da9032570ae",
+      "en_sha256": "9e653aec99c6db60275289d6380acb7e62f5ebbc3ea415406d93d544f36bbd09",
+      "origin": "ai"
+    },
+    "dataList[key=Q3028].description": {
+      "pl": "L'Inamovible podał dziecku chusteczkę, a gdy je przyjęło, wybuchł nam na oczach. Przejrzyjmy szczątki, czy nie da się z nich zrobić gwóździa.",
+      "kr_sha256": "01d43991c9b65ddf13e902a829e5c96f1481e6f96971760ddbf826b6c4555328",
+      "en_sha256": "f3d44f7a6b5648eac8d972c3cee239da7f79864d44a4388d3327ea37fd1b00aa",
+      "origin": "ai"
+    },
+    "dataList[key=Q3028].steps[#0].goalDescription1": {
+      "pl": "Przejrzyj szczątki L'Inamovible",
+      "kr_sha256": "b10da58c17ad13997626ca4fd79f8306dc2cceb8ab173b10b095c9968fd3e6e5",
+      "en_sha256": "4429b5e3960313cf7e69704cea4488f4118dd7c3aefc49caf09e9a29ecda01e6",
+      "origin": "ai"
+    },
+    "dataList[key=Q3028].title": {
+      "pl": "Przejrzyj szczątki L'Inamovible",
+      "kr_sha256": "b10da58c17ad13997626ca4fd79f8306dc2cceb8ab173b10b095c9968fd3e6e5",
+      "en_sha256": "4429b5e3960313cf7e69704cea4488f4118dd7c3aefc49caf09e9a29ecda01e6",
+      "origin": "ai"
+    }
+  }
+}

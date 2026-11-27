@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[key=140500].text": {
+      "pl": "Salon Torebek Le Noir",
+      "kr_sha256": "bc9aded743b5f1a6d684be49ec7e2f13842d035331637aa4f3a29da7fc8a2754",
+      "en_sha256": "2206319f977d4fafe8cbb7f08d9709c63598d9f6b87f97267d078ca77062b627",
+      "origin": "ai"
+    },
+    "dataList[key=140600].text": {
+      "pl": "Salon Torebek Le Rouge",
+      "kr_sha256": "2d2778319aa22478ef3730217e9256f7fd3e1deaf350f01c77ae8998faf31f55",
+      "en_sha256": "7496b726e4f0cebd7f3cf4fd720c90b5207744e50c953c7e0d434e711d1d9c2f",
+      "origin": "ai"
+    }
+  }
+}

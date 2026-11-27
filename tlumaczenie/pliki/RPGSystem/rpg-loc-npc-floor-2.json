@@ -1,0 +1,202 @@
+{
+  "entries": {
+    "dataList[key=N102001].displayName": {
+      "pl": "Siostra Kromer",
+      "kr_sha256": "319351aca812254025b20f7ece84a7e3b7e3bc7188dc2605530ab600feddd4b8",
+      "en_sha256": "3ee72c65677d9d6687a3be39a8c914313dcf9937510f7aef782e6f230e0eb383",
+      "origin": "ai"
+    },
+    "dataList[key=N102003].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102008].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102009].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102010].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102011].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102012].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102013].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102014].displayName": {
+      "pl": "Szarżujący Le Noir",
+      "kr_sha256": "6ebf6289e90b97b9394618f3983064b59ebe748fb0fa6cd16ad8de8f461ea1be",
+      "en_sha256": "747910d468209a889e5b8f1f5c7a66620dfb7c3d77000493f25cff558ffd291f",
+      "origin": "ai"
+    },
+    "dataList[key=N102015].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102018].displayName": {
+      "pl": "Kokon",
+      "kr_sha256": "d3c71198ecbc819bf3253a436a033e08f1d303d6dd44cdf8ca09e5053f81840d",
+      "en_sha256": "d7214f62787d648b76d44ef50f8309baad1c8f7e324595771a0326a73397e8f9",
+      "origin": "ai"
+    },
+    "dataList[key=N102019].displayName": {
+      "pl": "Buntujący się Le Rouge",
+      "kr_sha256": "7e0309a823a11e67fc337a79e46d802f5e74cb9dde407d23eea75d285955ad53",
+      "en_sha256": "a107ed32871998d017dada2a52ce287a056b7f0690bce8315773c9015bed34bc",
+      "origin": "ai"
+    },
+    "dataList[key=N102020].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102021].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102022].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102023].displayName": {
+      "pl": "Dyrektor Marki",
+      "kr_sha256": "7b985b807ef640d50304fd2ea895a402bf29ec9ede0ad7ac8f05bdca9616b2e9",
+      "en_sha256": "b4288136ae4f99411e7e77d3c59dba9f54b6bc2484089c42c64041ce89ed6200",
+      "origin": "ai"
+    },
+    "dataList[key=N102024].displayName": {
+      "pl": "Dyrektor Marki",
+      "kr_sha256": "822cab905ed627e4f86b55435f583cbc9d3b9b977661722eb05eae302c5b03b0",
+      "en_sha256": "ce332ba1e081123612c06cab57ffe4ea00c39ebced4ec32af797d9945e518535",
+      "origin": "ai"
+    },
+    "dataList[key=N102028].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102029].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102030].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102031].displayName": {
+      "pl": "Buntujący się Le Rouge",
+      "kr_sha256": "7e0309a823a11e67fc337a79e46d802f5e74cb9dde407d23eea75d285955ad53",
+      "en_sha256": "a107ed32871998d017dada2a52ce287a056b7f0690bce8315773c9015bed34bc",
+      "origin": "ai"
+    },
+    "dataList[key=N102032].displayName": {
+      "pl": "Buntujący się Le Rouge",
+      "kr_sha256": "7e0309a823a11e67fc337a79e46d802f5e74cb9dde407d23eea75d285955ad53",
+      "en_sha256": "a107ed32871998d017dada2a52ce287a056b7f0690bce8315773c9015bed34bc",
+      "origin": "ai"
+    },
+    "dataList[key=N102033].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102034].displayName": {
+      "pl": "Buntujący się Le Rouge",
+      "kr_sha256": "7e0309a823a11e67fc337a79e46d802f5e74cb9dde407d23eea75d285955ad53",
+      "en_sha256": "a107ed32871998d017dada2a52ce287a056b7f0690bce8315773c9015bed34bc",
+      "origin": "ai"
+    },
+    "dataList[key=N102035].displayName": {
+      "pl": "Personel Le Rouge",
+      "kr_sha256": "df45db6dcfb5d301716d2d3ef721970e90587e41639a12ca8bb662cd077febd0",
+      "en_sha256": "1d005dae0b9d25219a1854aa2423b5efa4ee4ee68a1757185fbcd0e9825a0d48",
+      "origin": "ai"
+    },
+    "dataList[key=N102036].displayName": {
+      "pl": "Buntujący się Le Rouge",
+      "kr_sha256": "7e0309a823a11e67fc337a79e46d802f5e74cb9dde407d23eea75d285955ad53",
+      "en_sha256": "a107ed32871998d017dada2a52ce287a056b7f0690bce8315773c9015bed34bc",
+      "origin": "ai"
+    },
+    "dataList[key=N102037].displayName": {
+      "pl": "Kierownik Sklepu Le Rouge",
+      "kr_sha256": "f9e8bcafd0b88db68403a86f3d1e3b795519549048bcf6a2e53e23c3817dbd18",
+      "en_sha256": "ff04d3166b6b633efaffcc758f0891d0f1bf8fc98124d98bea9e6312e17994bf",
+      "origin": "ai"
+    },
+    "dataList[key=N102038].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102039].displayName": {
+      "pl": "Szturmujący Le Noir",
+      "kr_sha256": "cf8979dde51f51aa71b1b1bcda3a47af1707bfec49dcfc51639c6829fd71bf12",
+      "en_sha256": "300dd67a09e5a3fb692afb8a07173572eabad295729641e2cc9bc88c68e19adf",
+      "origin": "ai"
+    },
+    "dataList[key=N102040].displayName": {
+      "pl": "Szarżujący Le Noir",
+      "kr_sha256": "6ebf6289e90b97b9394618f3983064b59ebe748fb0fa6cd16ad8de8f461ea1be",
+      "en_sha256": "747910d468209a889e5b8f1f5c7a66620dfb7c3d77000493f25cff558ffd291f",
+      "origin": "ai"
+    },
+    "dataList[key=N102041].displayName": {
+      "pl": "Wielki Strażnik Le Noir",
+      "kr_sha256": "056495345dc38e9d5b2de99dbd51876b9b35afd35cb4343f635e0fb436a91178",
+      "en_sha256": "e3cf76d7baf8cbcbfb4720bff71bed382d713b6d5dbcabe06c3b2ab6d7d6df6f",
+      "origin": "ai"
+    },
+    "dataList[key=N102045].displayName": {
+      "pl": "Dyrektor Marki",
+      "kr_sha256": "7b985b807ef640d50304fd2ea895a402bf29ec9ede0ad7ac8f05bdca9616b2e9",
+      "en_sha256": "b4288136ae4f99411e7e77d3c59dba9f54b6bc2484089c42c64041ce89ed6200",
+      "origin": "ai"
+    },
+    "dataList[key=N102047].displayName": {
+      "pl": "Karmazynowy Bóg [Zarodek Życia]",
+      "kr_sha256": "1d06addd523ac956a6e918dfac908f9482448c570627231fe09b33ae2863f074",
+      "en_sha256": "2398c6abf21cb72f1d82f95f30237011b5fe85de1c87b0e8dea6a80f1c904066",
+      "origin": "ai"
+    }
+  }
+}

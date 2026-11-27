@@ -1,0 +1,286 @@
+{
+  "entries": {
+    "dataList[key=Q1011].description": {
+      "pl": "Przybyliśmy do miejsca zwanego Grand Magasin Sisyphe. Gdzie może być Meursault? Najpierw dobrze się rozejrzyjmy.",
+      "kr_sha256": "a7b366eaa5ed2e719be91cc503f8855f91908cc1399f09097907e219166d5e7a",
+      "en_sha256": "2a35a9023d9ce568790ccdd54856dc8026bc302528951fc80aae99fbefc2d112",
+      "origin": "ai"
+    },
+    "dataList[key=Q1011].steps[#0].goalDescription1": {
+      "pl": "Rozglądaj się w okolicy",
+      "kr_sha256": "4c366297c9eac271ae41f7db222bfe263f851e9e42fa28383f39f29da54fcefc",
+      "en_sha256": "f6727343af6642a45c6af98338575ceca6e3a4068c64348e8d43e0aeb2ce59ba",
+      "origin": "ai"
+    },
+    "dataList[key=Q1011].title": {
+      "pl": "Rozglądaj się w okolicy",
+      "kr_sha256": "4c366297c9eac271ae41f7db222bfe263f851e9e42fa28383f39f29da54fcefc",
+      "en_sha256": "f6727343af6642a45c6af98338575ceca6e3a4068c64348e8d43e0aeb2ce59ba",
+      "origin": "ai"
+    },
+    "dataList[key=Q1012].description": {
+      "pl": "W Grand Magasin Sisyphe spotkaliśmy rodzoną siostrę Kromer. Najpierw wróćmy do toalety i przegrupujmy się.",
+      "kr_sha256": "76cefbdd9f42d5ed8dd23ee90a9094fef3f8fd95df40b4a454f73c131aed4df5",
+      "en_sha256": "67bf6fd7b06018165536267ff43db2180e8c182c84f8564feb39d41475914bdf",
+      "origin": "ai"
+    },
+    "dataList[key=Q1012].steps[#0].goalDescription1": {
+      "pl": "Wróć do toalety",
+      "kr_sha256": "a78326a20d98b10df1236636666a2c7a3e8aae83914b0772af4e123ca39a0b1b",
+      "en_sha256": "ba16f76e61dd71ab50481107bf12900e8098d7df0291846668f36b5f3b3511f6",
+      "origin": "ai"
+    },
+    "dataList[key=Q1012].title": {
+      "pl": "Wróć do toalety",
+      "kr_sha256": "a78326a20d98b10df1236636666a2c7a3e8aae83914b0772af4e123ca39a0b1b",
+      "en_sha256": "ba16f76e61dd71ab50481107bf12900e8098d7df0291846668f36b5f3b3511f6",
+      "origin": "ai"
+    },
+    "dataList[key=Q1013].description": {
+      "pl": "Meursault chyba przebywa gdzieś w domu handlowym. Widzieliśmy dywan na podłodze, a przed nim miejsce, gdzie wystawiono ubrania. Zwiedźmy dom handlowy i odszukajmy miejsce z wystawą odzieży.",
+      "kr_sha256": "b6148fa2cd7f22689ac0feaaf2ce525aad46bb366c70f8f55b640ca8d02098a6",
+      "en_sha256": "05f3984eed13719b3488215f9189b07b51bc5d0408c983e91171be39ef40d6e5",
+      "origin": "ai"
+    },
+    "dataList[key=Q1013].steps[#0].goalDescription1": {
+      "pl": "Zbadaj Dom Handlowy",
+      "kr_sha256": "d66c571e636276460e087e79afaee227d0ff1744a7ed688be67d98b55efbcf03",
+      "en_sha256": "5e1860427535718323e440d0f9bac1cfb78db8394745070bc488a2ebe93f95ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q1013].title": {
+      "pl": "W poszukiwaniu Meursaulta",
+      "kr_sha256": "a58288fa4054b133b4fa8e8430400e42cdacf8e6d6b24851c1fd04b83395d622",
+      "en_sha256": "f6345232d87cf4e8a93b75a27310f028c2b273a484703fbe7237e3a607e5c113",
+      "origin": "ai"
+    },
+    "dataList[key=Q1014].description": {
+      "pl": "Wygląda na to, że coś się tu ukrywa.",
+      "kr_sha256": "7d666b7fb28017b6c303aa2b2599c2e81777ab42b240df7254afad5574cfb9b0",
+      "en_sha256": "69347ce5a7311de2372260a90a5222dd41785ca667bb5c6223045ba5275bce52",
+      "origin": "ai"
+    },
+    "dataList[key=Q1014].steps[#0].goalDescription1": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1014].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1018].title": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[key=Q1021].description": {
+      "pl": "Meursault chyba jest gdzieś w pobliżu. Poszukajmy go.",
+      "kr_sha256": "cc306bf91c2ea90959ad530d5662e9f590ddb380caedf18e35e78a6f77434e2c",
+      "en_sha256": "c59969f8fb781b116aeb2298c324134f58ac09a50e731ea030bdc262917a8d0c",
+      "origin": "ai"
+    },
+    "dataList[key=Q1021].steps[#0].goalDescription1": {
+      "pl": "Zlokalizuj Meursaulta",
+      "kr_sha256": "73a262210e9e954b9ab27af422341f3c7013b6dd0c2c05a04e413d84d4059769",
+      "en_sha256": "333f84f797ead271711f95e317bc58811e1a2acbc4122e09b540b2ab81205a62",
+      "origin": "ai"
+    },
+    "dataList[key=Q1021].title": {
+      "pl": "W poszukiwaniu Meursaulta (2)",
+      "kr_sha256": "a527d8470f6fe0465c74f33d2855979c35a3a57536beb9e20c7938023179891f",
+      "en_sha256": "205205feaeef184a1f6670c9c22a3bcef60886ffc57a4daa96d0b38649778f76",
+      "origin": "ai"
+    },
+    "dataList[key=Q1022].description": {
+      "pl": "Zdecyduj, czy przyjąć propozycję Meursaulta.\n→ Przyjęcie rozpoczyna zadanie łowieckie; przy odmowie można zapytać ponownie pracownika Salonu SPA.",
+      "kr_sha256": "d111dfc380d39c65578dcc69274ea033eca566a9a24f50513158910c19f57d01",
+      "en_sha256": "9448d102e0eebccff97bd8f7f67247cea805f58cd1c0062541421ab848c214b3",
+      "origin": "ai"
+    },
+    "dataList[key=Q1022].title": {
+      "pl": "Zadanie 4-1 — Propozycja Meursaulta",
+      "kr_sha256": "0ed3506d2582fad62971705a5b4cb9461cd3aedbc6428a786a17f2c2bebf403e",
+      "en_sha256": "6f0a9d4d4fa371e618cf98334d705b628df1e7e642b47dd945f576ad88819037",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].description": {
+      "pl": "Aby odzyskać Meursaulta, mamy podobno „odprowadzić do wyjścia” trzy manekiny. Pokonajmy je i wróćmy do Mimosy, która wygląda na właścicielkę sklepu.",
+      "kr_sha256": "49ff32ca2890615166ba4679bf73edf6e3edd3b1a1fa8fece73ea6fa179bc9aa",
+      "en_sha256": "2988ece8c34ebe51bdc24a260489ba7e994dd831e3873c506554096f7984f4c4",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].steps[#0].goalDescription1": {
+      "pl": "Pomóż manekinom „dotrzeć do wyjścia”",
+      "kr_sha256": "4bb420f8c478041ba0306e41688bbe0183e41ce5fa799ea7d7f3c595b1764d79",
+      "en_sha256": "f7e9ccf56c53a2e032ced03ed7e7103981742c058922a240dd7a9fc7c9b197f2",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].steps[#1].goalDescription1": {
+      "pl": "Wróć do Mimosy",
+      "kr_sha256": "3c89e2da280a3fd5736cd543ab5feea1940d0b83ac47c3112ab8d1fa3422b2f7",
+      "en_sha256": "c7b2b4c92938ace4a641f2246dfe62b1ffaef25f0b20169120eba855bfc95839",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].title": {
+      "pl": "Wyprowadź Manekiny",
+      "kr_sha256": "cdfc615d4833867fdb513d3865c8f8494b50f78530eb67c87c77d043158d322e",
+      "en_sha256": "c2afba8cd0d49836907c7e9460a053766cbf92a0aa08028bc9da6396d5f09e01",
+      "origin": "ai"
+    },
+    "dataList[key=Q1031].description": {
+      "pl": "Meursault opowiedział nam, co wie o Grand Magasin Sisyphe. Nie wszystko zrozumiałem, ale jedno jest pewne: nie wygląda na to, by było tu normalne wyjście. Rozglądajmy się dalej.",
+      "kr_sha256": "49f68930ccaa5084c0c9b23a75281c11a5e6e3083135223538abb419f670466b",
+      "en_sha256": "b8e372755c4c6296e76235e0df9f76fc6ab55cff90761128ee7a5a20476c2fdb",
+      "origin": "ai"
+    },
+    "dataList[key=Q1031].steps[#0].goalDescription1": {
+      "pl": "Zbadaj Dom Handlowy",
+      "kr_sha256": "d66c571e636276460e087e79afaee227d0ff1744a7ed688be67d98b55efbcf03",
+      "en_sha256": "5e1860427535718323e440d0f9bac1cfb78db8394745070bc488a2ebe93f95ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q1031].title": {
+      "pl": "Zbadaj Grand Magasin Sisyphe",
+      "kr_sha256": "0c9c12a7af25e4fc4658da8bd52f5e94eeb80461dc1af72bbdff261ab90deda5",
+      "en_sha256": "56a4f498d81201e53af89aa122a4e684c786d946647932f63e4fb7750d6a0717",
+      "origin": "ai"
+    },
+    "dataList[key=Q1032].description": {
+      "pl": "Spotkaliśmy człowieka nazwiskiem Dubois. Wygląda na to, że jak my trafił tu niedawno. Szukajmy dalej sposobu na dostanie się na wyższe piętra.",
+      "kr_sha256": "24b189baeede3b253edc30c3cc661a2c941fafcad872b0c2d34ff19df451a602",
+      "en_sha256": "a4bf33d3c305b256edc67cd93c2471f7f9ca9ceec494f0dd727d3df95d34b1be",
+      "origin": "ai"
+    },
+    "dataList[key=Q1032].steps[#0].goalDescription1": {
+      "pl": "Zbadaj Dom Handlowy",
+      "kr_sha256": "d66c571e636276460e087e79afaee227d0ff1744a7ed688be67d98b55efbcf03",
+      "en_sha256": "5e1860427535718323e440d0f9bac1cfb78db8394745070bc488a2ebe93f95ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q1032].title": {
+      "pl": "Zbadaj Grand Magasin Sisyphe (2)",
+      "kr_sha256": "9cdfce9eb4b13dd2ab0f48d9b9d1d5d68f8db4612776b58eca810abc64c5b5d5",
+      "en_sha256": "00bfb8de69e8f22a65cf4b84e753514e2cbaaccefda0e00dd56e1b087caa04f1",
+      "origin": "ai"
+    },
+    "dataList[key=Q1041].description": {
+      "pl": "Dotarliśmy do Salonu Contempora. Jego pracownik nie kwapi się do rozmowy. Możemy się przyjrzeć ubraniom wystawionym w sklepie.",
+      "kr_sha256": "942e436bbbea927746a93a1cda294284ca2595ed70cb6309ea4057b2ff9ab043",
+      "en_sha256": "654dd057f58c17f9c90328f3575c71e70a6193ed330c24f12c151b5412baf913",
+      "origin": "ai"
+    },
+    "dataList[key=Q1041].steps[#0].goalDescription1": {
+      "pl": "Obejrzyj ubrania",
+      "kr_sha256": "dea0f7a6824bdf4e32179fd3c12dd5f4b14a413cc4e2c6314566a75a6a302820",
+      "en_sha256": "1ba441b84a494966bf05c0e0c31c3cc388ae470e6cd51ccdc9346b5aa5a02669",
+      "origin": "ai"
+    },
+    "dataList[key=Q1041].title": {
+      "pl": "Obejrzyj wystawę ubrań",
+      "kr_sha256": "8e82588b2fa610a08ebe720807a16fcb1358800b457caf50695ba225b6b14cc1",
+      "en_sha256": "e608f9fefbce15c3fcf1bf51aff3c29bb671a8e19eec7a0511504bd17942e5cc",
+      "origin": "ai"
+    },
+    "dataList[key=Q1042].title": {
+      "pl": "Odepchnij agresywnego pracownika Le Noir",
+      "kr_sha256": "3e326d9fb505a170ee68a8d63597dba6e9df349c2ceb67f5280dbcd57c79f939",
+      "en_sha256": "81c03c865da26c48180bc606fcd410e393c597cf73ff1764d9e5ecc76570443c",
+      "origin": "ai"
+    },
+    "dataList[key=Q1051].description": {
+      "pl": "Pracownik Le Noir opowiedział nam o Złotej Żywicy. Teraz udajmy się do położonego wyżej Salonu Contempora Le Rouge.",
+      "kr_sha256": "440a40aa72a53d1f5957c3ea1f17c25dafbb254495ba2b77fd902815f896a8d7",
+      "en_sha256": "38332ae784e4a0735bcda721a0712a7bd31f7bae907d1d3617d556208714119e",
+      "origin": "ai"
+    },
+    "dataList[key=Q1051].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Salonu Contempora Le Rouge",
+      "kr_sha256": "ce3252e61b061083d0bdaae9c3f781c0ea0d8d7b1bfd0d2d524cafc1ce7f3576",
+      "en_sha256": "e2a32ebe1d21be8cd365d0b2240c9258ab81a2668ad5c1820059199da5a57c14",
+      "origin": "ai"
+    },
+    "dataList[key=Q1051].title": {
+      "pl": "Udaj się do sklepu Le Rouge",
+      "kr_sha256": "50abbb8c685318ce339bdc6e8ef222b1a3529c3ab2b75d777e20c40380b363d9",
+      "en_sha256": "c34e1f3506dd32c9b3db939d973124ca8c689236a0d32329ab60ba2593896eca",
+      "origin": "ai"
+    },
+    "dataList[key=Q1052].description": {
+      "pl": "Quillian, pracownik Salonu Contempora Le Rouge, poprosił o przyniesienie wielkiej igły. Odszukaj manekina, który ją ma, zdobądź igłę i wróć do Quilliana.",
+      "kr_sha256": "1e7eb0134387eab223431b7ab646904d6a3ebf3efe98148ce7d19c7fb65dcf8b",
+      "en_sha256": "3aa77c5cdaa709870a827c134a0e75c67924048e3938988930a3a52541d36a11",
+      "origin": "ai"
+    },
+    "dataList[key=Q1052].steps[#0].goalDescription1": {
+      "pl": "Zdobądź wielką igłę od manekina i wróć do Quilliana",
+      "kr_sha256": "19375bccf33606244f2180523d0769f5f46380ff9a3d361be4b38432b22ee0bc",
+      "en_sha256": "d9c8edd8d5ac10875ea37d5d1ea67fbd1b17da04638cdcec222ca9280fe45dcb",
+      "origin": "ai"
+    },
+    "dataList[key=Q1052].title": {
+      "pl": "Zdobądź wielką igłę",
+      "kr_sha256": "656ed2c796ff96c1ed3bcc99b578478d4d5b5da3a989c49b1134a24f37620e7c",
+      "en_sha256": "7be9cad4c7a8f7c5f34e551192fcdb3c873d7600344de85f68addf319c238831",
+      "origin": "ai"
+    },
+    "dataList[key=Q1061].description": {
+      "pl": "Podobno, żeby dostać się na wyższe piętro, trzeba najpierw zbudować historię zakupów. Kup coś od pracownika sklepu i szukajmy dalej sposobu wejścia na górę.",
+      "kr_sha256": "52dcbb384e75351442b74bc2b2777ef1d2245a06a8333768c9d748ace35eabb9",
+      "en_sha256": "b417dadf0e1968cca1297a47574e86f7104381298d380e4371747ddb25e0fd15",
+      "origin": "ai"
+    },
+    "dataList[key=Q1061].steps[#0].goalDescription1": {
+      "pl": "Kup ubrania od Quilliana",
+      "kr_sha256": "8b2f3a5cb599a3a873c888187bbe3daedf47c604ac483aac3899dbd8edab9e3b",
+      "en_sha256": "63b4e4b17b1940e3e4280e02e57b758165294c61ffdd5048c512b0d3e38342aa",
+      "origin": "ai"
+    },
+    "dataList[key=Q1061].title": {
+      "pl": "Kup ubrania",
+      "kr_sha256": "ddf60cdd6e80b78a4ebc6e265a21c8ea216e8ac2fb0f92fd53cbdf131434ac0f",
+      "en_sha256": "c855b52da167f094b956558484a4e37e551506ca4af99e844bc9588dce28f19a",
+      "origin": "ai"
+    },
+    "dataList[key=Q1062].description": {
+      "pl": "Znaleźliśmy schody ruchome na kolejne piętro. Widzę też Dubois. Porozmawiajmy z nim przed wjazdem.",
+      "kr_sha256": "21b438695e38829bc026a1957513b176fb934e14162968d3233ad8796f35dc8d",
+      "en_sha256": "91379875e8a1099b14986e3eec5c27c649d445b0bb71d34dd467224d9fe708e0",
+      "origin": "ai"
+    },
+    "dataList[key=Q1062].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Dubois",
+      "kr_sha256": "6f98d5e879f6b27e0fecd2f4c483800b864dfdf90300ff9f04f442febb522877",
+      "en_sha256": "b359cb4cdf187c04b11fd05833a3d2d0d077f9ae5a34d80986e35326abea74c8",
+      "origin": "ai"
+    },
+    "dataList[key=Q1062].title": {
+      "pl": "Udaj się do schodów ruchomych",
+      "kr_sha256": "ca7199542f2959cf06908dd76ab6ddece04eae43a40f8138be26a95c824c2dce",
+      "en_sha256": "d4dbcd3f74fd98dc6c94199b95828908b1caea766566632ed9b66f9928317e04",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].description": {
+      "pl": "Schody ruchome działają bez zarzutu. Chyba możemy wreszcie dostać się na 2. piętro.",
+      "kr_sha256": "6f1b05d1b83dc8d1fd50f7a6dba97aa9ed55a69c9b091e575b22f5413d4536fa",
+      "en_sha256": "d42c70833ab022d783074bdedf7232ffd67d3b6ef367a0d09b13056ae7f3d533",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 2. piętro",
+      "kr_sha256": "aade65aab17668ad672c6531901dd3ee73595f78cabff0201da89c53d85a8cd6",
+      "en_sha256": "a1026418f8404d0f2efc1659041fb6f561fd688c2a47b090503126bb34430172",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].title": {
+      "pl": "Wjedź schodami ruchomymi",
+      "kr_sha256": "59f6e9cd949a92633903bc74247c7419d9f8d64bd94afef8de8bd4f0f94f619e",
+      "en_sha256": "69ae1f4ba22f2ca3f39fa1821ff227e4d0310d735e87cd6bc90efa4e025f89e3",
+      "origin": "ai"
+    }
+  }
+}

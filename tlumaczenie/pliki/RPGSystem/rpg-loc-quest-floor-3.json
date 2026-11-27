@@ -1,0 +1,346 @@
+{
+  "entries": {
+    "dataList[key=Q3001].description": {
+      "pl": "2. piętro podobno jest „w trakcie remontu”. Cokolwiek by o tym myśleć, nie wygląda to jak zwykły remont, a teraz i tak nie można wejść do środka. Wjedźmy schodami ruchomymi na 3. piętro.",
+      "kr_sha256": "43e680209c193d72766fc6943e43d1761ef20e172eaebdba4df9db973e97882f",
+      "en_sha256": "c5319ac4869432dce60acbbc4abf59b6d0f470aef40e900c0951e6794b01bdc3",
+      "origin": "ai"
+    },
+    "dataList[key=Q3001].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 3. piętro",
+      "kr_sha256": "65ad393cee9f66242dc08021273c702dce889158462ce65779b867b3c4d9638e",
+      "en_sha256": "4aaddfff8d6ab9a9110fc947963e70a665b7db2755082cc5e2d5fa12ca0a8b8c",
+      "origin": "ai"
+    },
+    "dataList[key=Q3001].title": {
+      "pl": "Wspinaj się na 3. piętro",
+      "kr_sha256": "ca532987c60a4e9200c5f6718dc2e3a3a1eb05cea336425c4c764f5a835f8ce5",
+      "en_sha256": "8e42d05dbd84b8e839ca6e2903b975e6ed9657605a82a293be9283cd640d76f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q3002].description": {
+      "pl": "Dotarliśmy na 3. piętro. Skądś dochodzi dźwięk cięcia nożycami. Pójdźmy za tym dźwiękiem.",
+      "kr_sha256": "b0a249776995a0da4f787f0e9ae012fd6541f4d601c27cfaef6f5a26c14a3b3d",
+      "en_sha256": "804c75bcaa8f9e039a4ec4c4b61ea5e36c9f7114176296bf158c0cc6d2b8b94b",
+      "origin": "ai"
+    },
+    "dataList[key=Q3002].steps[#0].goalDescription1": {
+      "pl": "Pójdź za dźwiękiem nożyc w górę",
+      "kr_sha256": "a16de67e06e2b70cb1ac4b4b96daf67b9fc7d84f0ac0a89a25188747cf00237e",
+      "en_sha256": "5b0b7dd15039812173435dd879dd9340d2b4e04b5f1e9b924324d15b7ad2dcdc",
+      "origin": "ai"
+    },
+    "dataList[key=Q3002].title": {
+      "pl": "Pójdź za dźwiękiem nożyc",
+      "kr_sha256": "38f72570d6d0b901a0656d65174318770d063508da0dd748c2db74a79621a93e",
+      "en_sha256": "b348911f915af81e5b3649dc7eb316e54a84646632a8aff8816f191bf6f90c52",
+      "origin": "ai"
+    },
+    "dataList[key=Q3003].description": {
+      "pl": "Poznaliśmy krawcową Annette. Przyda się, gdy kiedyś będziemy potrzebować utkać tkaninę. A teraz czas wyjść z Warsztatu Poprawek.",
+      "kr_sha256": "0c8bf54f59b53ebc2740255de4967d2f2296e1d719a19be05302132d0cbd1991",
+      "en_sha256": "457d1d823c2948330e6b95dca42f3e1f34056ae8ff81fe5440c6981bbec9d0b5",
+      "origin": "ai"
+    },
+    "dataList[key=Q3003].steps[#0].goalDescription1": {
+      "pl": "Wyjdź z Warsztatu Poprawek i udaj się na korytarz",
+      "kr_sha256": "f12feece0e89d8ad9041e8daea2ddd2d5161f990a1b1b679b714c4c0f140c8be",
+      "en_sha256": "b2dc402676af019b86a0275ea04220131b1668e977621a458c259ca7ee21e750",
+      "origin": "ai"
+    },
+    "dataList[key=Q3003].title": {
+      "pl": "Udaj się na korytarz",
+      "kr_sha256": "c7880921bbeaac057e9c856fe934fe1ef1329ed410ce2b00d793907d91c26f47",
+      "en_sha256": "c5754c6bbd194542101055b9a019c2e45b5f89df804c70330b49a1b8e7f0f1dc",
+      "origin": "ai"
+    },
+    "dataList[key=Q3004].description": {
+      "pl": "Niestety z Garniturem Dzielonym nie dało się dogadać. Najpierw rozejrzyjmy się gdzie indziej. Dobrym pomysłem będzie sklep po lewej.",
+      "kr_sha256": "aab3de447738c98d89d2e848a6e031a8ee168234fff55ad299d3e17c5566eb48",
+      "en_sha256": "98929c96f4f29ae77fbbef58bfa6eeab6dba6c46e0be0d7b58d620246d212696",
+      "origin": "ai"
+    },
+    "dataList[key=Q3004].steps[#0].goalDescription1": {
+      "pl": "Udaj się do sklepu po lewej",
+      "kr_sha256": "6fb4a2b7272bc8dd14e8081fa1d379739e06bb2572f38914fd3ef7da66173430",
+      "en_sha256": "ef010ec9471663debdcf3cea4ae91a4bd452f348fd7b1fc79bb4538b6bd52288",
+      "origin": "ai"
+    },
+    "dataList[key=Q3004].title": {
+      "pl": "Rozejrzyj się po 3. piętrze",
+      "kr_sha256": "7b3fdadbf229d8db2f420c858e7537a52c15ea883da9a5fbc0150de156c85153",
+      "en_sha256": "d637ab80c5e0319b1b813b48c1dc36c7851c767918bdb79f557374d0b084b6e1",
+      "origin": "ai"
+    },
+    "dataList[key=Q3005].description": {
+      "pl": "Trafiliśmy do sklepu zwanego „Boutique”. Gdzieś w sklepie wciąż rozbrzmiewa głos, który należy do jakiegoś „Giganta”. Porozmawiajmy ze sprzedawcą i dowiedzmy się, co można o tym miejscu wiedzieć.",
+      "kr_sha256": "93c11f7d73f798526437056e1974b4e75c02121c21aedd610ec33febd6664075",
+      "en_sha256": "dec3dfc2a3bd36aa9fb037b799bc6530b122f69bd787e0f5d75df13214518d7e",
+      "origin": "ai"
+    },
+    "dataList[key=Q3005].steps[#0].goalDescription1": {
+      "pl": "Zagadaj pracownika Boutique du Rouge",
+      "kr_sha256": "def9d66a8b673fe6493caeb1357aa38c7950996d6d0f9de7a5d28e3c0d09792e",
+      "en_sha256": "6e17e32495e78951c8c883e4992d391d080986e95a6dde282cfec79cf37c602c",
+      "origin": "ai"
+    },
+    "dataList[key=Q3005].title": {
+      "pl": "Zagadaj Le Rouge z Boutique",
+      "kr_sha256": "584705f1bcf024920b6cddd024c85b3688aaad198e4d12810c0cb610ddf04f23",
+      "en_sha256": "b28fb4f96c803b6b4bb1cd0878eb413ca115be0675939a2c7c2647d36ce3579e",
+      "origin": "ai"
+    },
+    "dataList[key=Q3006].description": {
+      "pl": "Sprzedawca z Boutique du Rouge rozpacza, że głos wciąż powtarza to samo, i chce się dowiedzieć dlaczego. Ale tożsamością głosu okazała się matka Meursaulta, która już nie żyje… Mimo to postanowiliśmy, na jego prośbę, udać się do Pomieszczenia Zapowiedzi.",
+      "kr_sha256": "61a817d722d3577b6b0bc7bfba89aae3b41fe80693043d4d950f18f01dd0420e",
+      "en_sha256": "ee6d33ae607d5aa103f531d71c3c0c592055b874603dcd17c53c8303737a0763",
+      "origin": "ai"
+    },
+    "dataList[key=Q3006].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Pomieszczenia Zapowiedzi",
+      "kr_sha256": "e2d988721de237150123abdb0f8dda6baea17892cc72154ca245d142e44d9e3a",
+      "en_sha256": "02f3ccd6b24b5312c3625d5a5816447631c6816c46ee9d0901e18b9d345fe8b3",
+      "origin": "ai"
+    },
+    "dataList[key=Q3006].title": {
+      "pl": "Udaj się do Pomieszczenia Zapowiedzi",
+      "kr_sha256": "e2d988721de237150123abdb0f8dda6baea17892cc72154ca245d142e44d9e3a",
+      "en_sha256": "02f3ccd6b24b5312c3625d5a5816447631c6816c46ee9d0901e18b9d345fe8b3",
+      "origin": "ai"
+    },
+    "dataList[key=Q3007].description": {
+      "pl": "Otrzymaliśmy od Kierownika 3. Piętra taśmę z Pomieszczenia Zapowiedzi. Może na tej taśmie zapisany jest głos Giganta? Wróćmy do Boutique du Rouge i przekażmy ją L'Inamovible.",
+      "kr_sha256": "2124a2e63cb92c4adb07cc597d7d662a449f5e5a99e7eec9493c6ecc1eb2a29e",
+      "en_sha256": "3e0070f5e8803767a2be0a97c956bbb265ceb0048e9ae475a97555238bedc5a2",
+      "origin": "ai"
+    },
+    "dataList[key=Q3007].steps[#0].goalDescription1": {
+      "pl": "Wróć do L'Inamovible",
+      "kr_sha256": "c26e8c09cc53fd10eb4b93a532eee6ddf993093797c493be6a765b37e7190ec1",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q3007].title": {
+      "pl": "Wróć do L'Inamovible",
+      "kr_sha256": "c26e8c09cc53fd10eb4b93a532eee6ddf993093797c493be6a765b37e7190ec1",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q3008].description": {
+      "pl": "Otrzymaliśmy od Kierownika 3. Piętra taśmę z Pomieszczenia Zapowiedzi. Może na tej taśmie zapisany jest głos Giganta? Wróćmy do Boutique du Rouge i przekażmy ją L'Inamovible.",
+      "kr_sha256": "2124a2e63cb92c4adb07cc597d7d662a449f5e5a99e7eec9493c6ecc1eb2a29e",
+      "en_sha256": "3e0070f5e8803767a2be0a97c956bbb265ceb0048e9ae475a97555238bedc5a2",
+      "origin": "ai"
+    },
+    "dataList[key=Q3008].steps[#0].goalDescription1": {
+      "pl": "Wróć do L'Inamovible",
+      "kr_sha256": "c26e8c09cc53fd10eb4b93a532eee6ddf993093797c493be6a765b37e7190ec1",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q3008].title": {
+      "pl": "Wróć do L'Inamovible",
+      "kr_sha256": "c26e8c09cc53fd10eb4b93a532eee6ddf993093797c493be6a765b37e7190ec1",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q3009].description": {
+      "pl": "Najwyższy czas, by „spotkanie” się skończyło, nie? Wróćmy do Garnituru Dzielonego blokującego korytarz po prawej i się przekonajmy.",
+      "kr_sha256": "c2d928eea866179d68402f98e5e43477992014ede44a60c78c160eecf0988020",
+      "en_sha256": "5329ac11616ccd14932b3512d988a2994f10a7a80cf28bc64b7a57b7f5950c17",
+      "origin": "ai"
+    },
+    "dataList[key=Q3009].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Garnitur Dzielony na korytarzu",
+      "kr_sha256": "01e589ad17d83fc225049f7159a8a3277e4f6d3d292e74f543fba89505833016",
+      "en_sha256": "a5167ffb72f672aa10107e31e101461a9f143ddf87a64f26799b09e09ad59090",
+      "origin": "ai"
+    },
+    "dataList[key=Q3009].title": {
+      "pl": "Zagadaj Garnitur Dzielony (2)",
+      "kr_sha256": "3086c86e4b3eafaba07e5f332827f46827e019c304f8de9cdbd2196830be53e5",
+      "en_sha256": "bf09e39735e83086d0771d7791cc70b3a6f1bc5165ad75f1690ed29ecffd2892",
+      "origin": "ai"
+    },
+    "dataList[key=Q3010].description": {
+      "pl": "Spotkanie wciąż trwa i nie widać, by miało się kiedyś skończyć. Outis i Sinclair wymienili spojrzenia, po czym zasugerowali wypad do Warsztatu Poprawek… Chyba mają jakiś plan?",
+      "kr_sha256": "27872d770a382aa1b89dddda7c321cd01fb31134ae2a9d54c54a74962fa5bffa",
+      "en_sha256": "41df27c7fa018f712ebd4ec0f85681ac8c3548e9f0cac3d48ef110f502da6284",
+      "origin": "ai"
+    },
+    "dataList[key=Q3010].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Warsztatu Poprawek",
+      "kr_sha256": "e7ccbd9765df4fab378fd607559856c2b6cedc159f49eb1d435ede61486586c3",
+      "en_sha256": "30dcdc2967ebae721b9193a30d1c50ffc96566d95be561664fecb0aa3c7c36e8",
+      "origin": "ai"
+    },
+    "dataList[key=Q3010].title": {
+      "pl": "Udaj się do Warsztatu Poprawek",
+      "kr_sha256": "e7ccbd9765df4fab378fd607559856c2b6cedc159f49eb1d435ede61486586c3",
+      "en_sha256": "30dcdc2967ebae721b9193a30d1c50ffc96566d95be561664fecb0aa3c7c36e8",
+      "origin": "ai"
+    },
+    "dataList[key=Q3011].description": {
+      "pl": "Chyba krawcowa Annette sprzedawała kilka par nożyc. Kupmy „Ostre Nożyczki Krawieckie” i wróćmy do Garnituru Dzielonego. Outis i Sinclair wymieniają zadowolone, dziwne uśmiechy. Czyżby to miało być to…?",
+      "kr_sha256": "5664dfdeb8f70601de8f0c20c5344ad45d7ccff5d9ba53a31e9772ad2c14a462",
+      "en_sha256": "5c0f872805bf7609d1fa535b3a5f4c3c2fd8fe0f087f2dc6d2cde84ab78d7593",
+      "origin": "ai"
+    },
+    "dataList[key=Q3011].steps[#0].goalDescription1": {
+      "pl": "Kup „Ostre Nożyczki Krawieckie” od krawcowej Annette",
+      "kr_sha256": "10bcd9498a3c2a8b3c20a3caf9039b8b6e8c1a2537b38d59aa80a91616e18665",
+      "en_sha256": "ecdedc8b6bfa1208c42c8f289bfad7d12afb2bdad545c5f1241647898dd1be32",
+      "origin": "ai"
+    },
+    "dataList[key=Q3011].steps[#1].goalDescription1": {
+      "pl": "Wróć do Garnituru Dzielonego na korytarzu",
+      "kr_sha256": "74d477303e5b82f92cd47141a60dd1e19027b9c84194e1b95c83336c702f84df",
+      "en_sha256": "9fe4a90cbc499349015a7959cbef723de6d2610aa7837b11ee30b6348dbc0bb3",
+      "origin": "ai"
+    },
+    "dataList[key=Q3011].title": {
+      "pl": "Kup nożyczki i zakończ spotkanie",
+      "kr_sha256": "3262b973c240f4f2442946a9c0597540243b56ec0924ed2ab43aa0edc20f54b8",
+      "en_sha256": "e7371996c2c1a2735b62e657192b51d7ec7b3aadeea918732fdcb4a046c29588",
+      "origin": "ai"
+    },
+    "dataList[key=Q3012].description": {
+      "pl": "Annette miała rację: nożyczki były naprawdę ostre, i Garnitur Dzielony rozpadł się na dwie połowy. Zobaczmy, co jest za nimi.",
+      "kr_sha256": "160c0667b9dc28e88ba160c89e111644d45eb2138f7629bc6fa298c35efe2af1",
+      "en_sha256": "8437242698fe101da2487b28a0ad71cb63f813a71b277d764947b04dbe94a577",
+      "origin": "ai"
+    },
+    "dataList[key=Q3012].steps[#0].goalDescription1": {
+      "pl": "Udaj się do sklepu po prawej",
+      "kr_sha256": "e9783c3b78da35ececa8f6e9565e1567367fac355c1a806798a95291ab492358",
+      "en_sha256": "c278c6fb1601ca73c737a333aaf6ea2e9df7a89431569f204f7126a6e67a13cf",
+      "origin": "ai"
+    },
+    "dataList[key=Q3012].title": {
+      "pl": "Udaj się na prawo",
+      "kr_sha256": "fe376a37ea2c7762185657a4fa5c108bdc5192f2535bfe436944b6320aed1487",
+      "en_sha256": "76f64db9ca16b06a2135f602724156d08c70bc8722592aaad2493457821619ab",
+      "origin": "ai"
+    },
+    "dataList[key=Q3013].description": {
+      "pl": "Dotarliśmy do Maison du Noir. Flannel i Felt, dwóch Le Noir prowadzących sklep, chcą „podnieść prestiż” swojej marki i poprosili nas o pozbycie się kilku Le Noir, które zaczarował obcy Głos. Po usunięciu około trzech Oczarowanych Le Noir wróćmy do nich, by porozmawiać.",
+      "kr_sha256": "dad0f60e0e41e1d362b7be6d279ec56929650d2c2a7a7a78b489c164b9591e63",
+      "en_sha256": "d846a1b283054c3b4dd2c72a490d765cd7f36992ad28ede23930514451b3d7fa",
+      "origin": "ai"
+    },
+    "dataList[key=Q3013].steps[#0].goalDescription1": {
+      "pl": "Usuń 3 Oczarowanych Le Noir",
+      "kr_sha256": "92ca4181263b15e8ac333d40b11e28547f6167a5c1be5d5ffb8e671736079930",
+      "en_sha256": "46a94e634a8c08d824e883c2a6a708e604d4363c6600a630b56a813afc895b85",
+      "origin": "ai"
+    },
+    "dataList[key=Q3013].steps[#1].goalDescription1": {
+      "pl": "Wróć do Flannela i Felta",
+      "kr_sha256": "de91c51734f43f06a44b3ca319adab3730d4720722a8b04c62d9d6384dd50c8f",
+      "en_sha256": "f82be3fbe87220a148f3d70b4cf71363d07c6a5efe2cf7e6c46e99af67217433",
+      "origin": "ai"
+    },
+    "dataList[key=Q3013].title": {
+      "pl": "Usuń Oczarowanych Le Noir",
+      "kr_sha256": "81f1eac122adf5396c70b33a15b3ee4862643591af5e4c5e9d5322d6e59369d4",
+      "en_sha256": "b78e97e80ed298550e88f711b7294a437c183b8edec8d10078f615cd70485b91",
+      "origin": "ai"
+    },
+    "dataList[key=Q3016H1].description": {
+      "pl": "0901",
+      "kr_sha256": "07c4b46160c71a2135063b4c47638ce816fc99968dbce0e52faec985bbbb27fd",
+      "en_sha256": "07c4b46160c71a2135063b4c47638ce816fc99968dbce0e52faec985bbbb27fd",
+      "origin": "ai"
+    },
+    "dataList[key=Q4014].description": {
+      "pl": "Ze szczątków Szczęśliwej Szafy uzyskaliśmy przepis opisujący „Złotą Tkaninę i Gwóźdź”. Chyba to jest broń, o której mówiła Surowa Noga? Przekażmy zgodnie z obietnicą te informacje Surowej Nodze, pracownikowi Salonu Obuwia Le Noir na 4. piętrze, a potem wróćmy do Flannela i Felta z Maison du Noir na 3. piętrze.",
+      "kr_sha256": "963ca14965b0a14a8957746043ad17bc1efaa5b086645c6c1b9811fd8af71daa",
+      "en_sha256": "7e0e7fe163027ba691c1e7a19c9b807aeb58880f26fd687cc168d0b1c00a9f9b",
+      "origin": "ai"
+    },
+    "dataList[key=Q4014].steps[#0].goalDescription1": {
+      "pl": "Przed wyjściem zagadaj Lampę Łukową",
+      "kr_sha256": "11f85c419fbcc3cf1ddfafff47852b9a4582afc500f1665e2c69756df40a3c0c",
+      "en_sha256": "d34428a4c904e6aaccfd7b492d55ec8a4fced7063a053ed13cfaee3401bdc5b9",
+      "origin": "ai"
+    },
+    "dataList[key=Q4014].steps[#1].goalDescription1": {
+      "pl": "Zagadaj Surową Nogę w Salonie Obuwia Le Noir na 4. piętrze",
+      "kr_sha256": "6393b2efdf3356b51090824b9a04e8f98010a67027a3ee1a7cd42915218acd92",
+      "en_sha256": "8c02c64a65eb90c06f0a04fe1829144fa9779f6070f6c31ae92410a6c4f40520",
+      "origin": "ai"
+    },
+    "dataList[key=Q4014].steps[#2].goalDescription1": {
+      "pl": "Zagadaj Flannela w Maison du Noir na 3. piętrze",
+      "kr_sha256": "dd12d12487cdeede895f2a490174f33a93f49d95b40936fba5a8c6e0ee207c56",
+      "en_sha256": "e6ac1eca7e20cde1681c024a2557eeee90d87d8e3b865682d62cb206ac4c715c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4014].title": {
+      "pl": "Przekaż Le Noir informacje",
+      "kr_sha256": "d2601853aa95cf951b39be290f66bb697dae9fe05511ee2de5c24b10c43f28e0",
+      "en_sha256": "f765c5149c2d43a73911724439551f3a788a4b45a94ef635e9a95e03da93a16c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4015].description": {
+      "pl": "Znowu jesteśmy na 3. piętrze. Jeśli przyniesiemy krawcowej Annette Złotą Przędzę, utka z niej Złotą Tkaninę.",
+      "kr_sha256": "5dddd60ad568291f9e0e70e5350dc7de47f9d5688e95c982da4cd24b715b0d39",
+      "en_sha256": "9778bea0107de62d7e90c3022a1bc380cdd5b4ed970ef2692c5589f3ac0ab60e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4015].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Warsztatu Poprawek",
+      "kr_sha256": "e7ccbd9765df4fab378fd607559856c2b6cedc159f49eb1d435ede61486586c3",
+      "en_sha256": "30dcdc2967ebae721b9193a30d1c50ffc96566d95be561664fecb0aa3c7c36e8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4015].title": {
+      "pl": "Udaj się do Warsztatu Poprawek",
+      "kr_sha256": "e7ccbd9765df4fab378fd607559856c2b6cedc159f49eb1d435ede61486586c3",
+      "en_sha256": "30dcdc2967ebae721b9193a30d1c50ffc96566d95be561664fecb0aa3c7c36e8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4016].description": {
+      "pl": "Pozbiliśmy L'Inamovible, którego Wypaczenie gwałtownie postępowało. Teraz trzeba wyciągnąć z niego kręgosłup… to znaczy „Gwóźdź”. Gdy owiniemy Złotą Tkaninę wokół gwóździa, powstanie legendarna broń Le Noir, zdolna poderwać każdą tkaninę. Udamy się do Maison du Noir, gdzie czekają Flannel i Felt, i przekażmy im wiadomość.",
+      "kr_sha256": "059ec21b8b4ed5779895474a84faf04697874bb8b4b4fac3a40140d1403023fb",
+      "en_sha256": "c00ec4d324c2aa3ab38f28b92f78c9109ede9d71c99b4056b7dccb9be10c5c0d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4016].steps[#0].goalDescription1": {
+      "pl": "Zdobądź „Gwóźdź” ze szczątków L'Inamovible",
+      "kr_sha256": "069e3890ab02b00f95077adc232babec38e5ce44748a54e9beecc2fb763afa89",
+      "en_sha256": "baf727b00b73c91ee241231695109828b3df8c7ce09229ed2d6aa2262aff56c1",
+      "origin": "ai"
+    },
+    "dataList[key=Q4016].steps[#1].goalDescription1": {
+      "pl": "Udaj się do Maison du Noir",
+      "kr_sha256": "12a41470dac6df4565c8b952106ea4c1f4eb4647120390dccd2643abc78d0b6d",
+      "en_sha256": "36c1454eab0ae99b8dca31a89ae26ed99e7ca9337249e8c6cb6e0d34e360ff87",
+      "origin": "ai"
+    },
+    "dataList[key=Q4016].title": {
+      "pl": "Zdobądź „Gwóźdź” i udaj się do Maison du Noir",
+      "kr_sha256": "9cfd0608d7347b20efb945e8a0cad2ad5225e381cbd08e303a4e327f8bcb3e4e",
+      "en_sha256": "cbf498cf1bc53e032e02ad5e0485ab045d1d5be1428842d9bf6b95fd7ec213b5",
+      "origin": "ai"
+    },
+    "dataList[key=Q4017].description": {
+      "pl": "Krawcowa Annette utkała nam Złotą Tkaninę. Teraz trzeba zdobyć gwóźdź. Podobno dostaniemy go od L'Inamovible, Le Rouge z Boutique. A właściwie: to ma być jego kręgosłup…",
+      "kr_sha256": "20c272a2a8862e35f1af3399398adbf4139be625c995ecb4554d474cfc9fcb1e",
+      "en_sha256": "f89ad8dda9313a41fcf38ce48a43d03c6e23357cbe22392370b0dd85d5868084",
+      "origin": "ai"
+    },
+    "dataList[key=Q4017].steps[#0].goalDescription1": {
+      "pl": "Udaj się do L'Inamovible",
+      "kr_sha256": "09a08213657c7777cbe29d6c093dd8f3d640eb2f6dfff1a6f822a0adbfbff951",
+      "en_sha256": "7cc3be3952272b2d3922652ec4650c320a21bcfa57de5ca02bc0f0feccf15916",
+      "origin": "ai"
+    },
+    "dataList[key=Q4017].title": {
+      "pl": "Udaj się do Boutique du Rouge",
+      "kr_sha256": "f2ff99f1f8593c71d2b5b746454d1ba79c3d97b6a91fc4f73d4dd2c84e716554",
+      "en_sha256": "4976d536e8c75da25eff362401df3abb230f3d7a340e30976c7a53bad0326d16",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "entries": {
+    "dataList[key=swarm_lanoir_fanatic].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_lanoir_fanatic_3f].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=swarm_lanoir_guard].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "entries": {
+    "dataList[key=Q4001].description": {
+      "pl": "Dotarliśmy na 4. piętro. Udajmy się korytarzem do Salonu Obuwia.",
+      "kr_sha256": "35f4f6226cb1f9e7a95d86d6565f83c1f91a299f454b05026200654d156a547b",
+      "en_sha256": "1b27db674d05917e1b39a9db0e0f3a2d26fa05210b38106bbfd09d686d5ae26d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4001].steps[#0].goalDescription1": {
+      "pl": "Idziemy do Salonu Obuwia",
+      "kr_sha256": "8a0d87c17709429606937604aeeb70cf585e22f4c43acbd2379d00a5338e8c46",
+      "en_sha256": "34e669f85751a7cd67ff410d4c47312ae13d72c84de9d4b47198eb9838e78f17",
+      "origin": "ai"
+    },
+    "dataList[key=Q4001].title": {
+      "pl": "Do Salonu Obuwia",
+      "kr_sha256": "82404591d0ad9fedf76b52d6370bb7d0c12360206153d4cc5234b3358e8cf8df",
+      "en_sha256": "014ce021adf249ac5daee2a89b291aa231689898a9a125bede90f98fc85b902d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002A].title": {
+      "pl": "Zabij Czteronogiego",
+      "kr_sha256": "8d4f530028b78f4342f8921b43de7b467af02ad2e0f5ea15b1ad9e4baa3fc6cd",
+      "en_sha256": "7903c09ef837f2139c2e7306a5726d2b7b4d41ab8cfee13f5469e220f683ad32",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002].description": {
+      "pl": "Nazwaliśmy dziecko, które podąża za nami, „Pwie”. Chyba wciąż nie czuje się przy nas pewnie… Ale najpierw, jak ostatnio, udamy się do Salonu Obuwia na 4. piętrze.",
+      "kr_sha256": "e444c9c170127c07767ac5b97457373327bc961bfae37b3578b01e221a61b87a",
+      "en_sha256": "a676c601767ff0ac651cc998c959ce9569a6d99cbc40caa2a09ae023277b5116",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Salonu Obuwia",
+      "kr_sha256": "9972473c64c746d4fbf91c457f18e370f8aac5da77bbbce113930a71f76b2dda",
+      "en_sha256": "5aaa2bb13c771d901ebd123ef0a3042c6f97d433cb23c5d89521e0af8c856f1d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4002].title": {
+      "pl": "Udaj się do Salonu Obuwia",
+      "kr_sha256": "9972473c64c746d4fbf91c457f18e370f8aac5da77bbbce113930a71f76b2dda",
+      "en_sha256": "5aaa2bb13c771d901ebd123ef0a3042c6f97d433cb23c5d89521e0af8c856f1d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003A].steps[#0].goalDescription1": {
+      "pl": "Rozmawiamy z tym, kto został w Salonie Obuwia",
+      "kr_sha256": "c708ea9bff9373e3eb5783c8489fa7a6d2c9c716435df4f664670fd289b8230e",
+      "en_sha256": "6ca52c2cdfb7c49dac12b35f5ac8dcadbbfac33f3b408f49cac630d373ef8530",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003B].description": {
+      "pl": "Dorothea z Salonu Obuwia Le Rouge poprosiła o przyniesienie odłamka serca, żeby móc znaleźć drogę do domu. W zamian zdradzi, jak dostać się na 5. piętro. Udamy się do Salonu Mebli, by go zdobyć.",
+      "kr_sha256": "bc3afe9c2b90a2ecd2055dca5ca4e150608bf02ebbbe18da162d34d0aa581f80",
+      "en_sha256": "aea3f2ea62f8862ad479102a7064c4d96156103fb6401aa48235a9bdeb423c49",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003B].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Szczęśliwej Szafy w Salonie Mebli",
+      "kr_sha256": "a3c293d61d5f44f1b57942ec1c8b13a7fb4a24a06ada7be1ceb985d1e367453a",
+      "en_sha256": "9737f6fb013eb508927f3c5f76bc4f7b6c81d80bd8f1d45b0fce9532b03f9072",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003B].title": {
+      "pl": "Udaj się do Salonu Mebli",
+      "kr_sha256": "05c78f6a3bd962b0746f45fb2574c4bedf1a241b1f19d3c0a503a50b70ba7b23",
+      "en_sha256": "7ab531582b5782109b3457b3436dd24719c5328138a3ce5ad2476168a26e1a45",
+      "origin": "ai"
+    },
+    "dataList[key=Q4003].title": {
+      "pl": "Zabij Surową Nogę",
+      "kr_sha256": "5b85bc913c18ca429229eade55efc0d0b74e1ad6ed97f452d071cd09ffbc6a65",
+      "en_sha256": "ec4ec28759512b979192257b57c97ea24cd52dcd1efbe1b0f463609472e6cc4e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4004].description": {
+      "pl": "Zagadaliśmy Szczęśliwą Szafę w Salonie Mebli, ale on wciąż milczy. Oderwaliśmy od niego kilka przedmiotów. Udamy się do Lampy Łukowej.",
+      "kr_sha256": "2b60a3119d55579c38c021ffd05e6fdf0170e2b209dc03ba3e6a7187ede48b9f",
+      "en_sha256": "4c51a0c7ef35f73c1031b1c0f6dfe8f098541cb08acd1568404ea276de683643",
+      "origin": "ai"
+    },
+    "dataList[key=Q4004].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Lampę Łukową",
+      "kr_sha256": "22d400bda70ac02e7713aa4dc0a0bcf9ad75fd4e1bc8187d357018750b04440e",
+      "en_sha256": "e00541b4091d28c333b6164a25e84f1555a4d09425d83794766df9cced149f43",
+      "origin": "ai"
+    },
+    "dataList[key=Q4004].title": {
+      "pl": "Zagadaj Lampę Łukową",
+      "kr_sha256": "22d400bda70ac02e7713aa4dc0a0bcf9ad75fd4e1bc8187d357018750b04440e",
+      "en_sha256": "e00541b4091d28c333b6164a25e84f1555a4d09425d83794766df9cced149f43",
+      "origin": "ai"
+    },
+    "dataList[key=Q4005].steps[#0].goalDescription1": {
+      "pl": "Przynosisz ubranie Lampie Łukowej",
+      "kr_sha256": "0375173fb380f8207c5874119f24dece7382aeacaa9226cc2ee5fc1e2c71b9ec",
+      "en_sha256": "6c596cddb9034ee370c447dcfd9f615c8a3afc4b8ea50479be1cca875482bfef",
+      "origin": "ai"
+    },
+    "dataList[key=Q4006].description": {
+      "pl": "Wręczyliśmy Lampie Łukowej ubranie zdobyte od Szczęśliwej Szafy. Teraz pozostałe Meble rzucają się, by przynieść im coś do ubrania. Wróćmy do Szczęśliwej Szafy.",
+      "kr_sha256": "4b760afecf4a779d176d679f0412266c89c833eafd512b557fdd43035b681bee",
+      "en_sha256": "4b2fb3c345caa14b288a4f98269f8c81d5979bb916dafbfb7cc25761976299cf",
+      "origin": "ai"
+    },
+    "dataList[key=Q4006].steps[#0].goalDescription1": {
+      "pl": "Wróć do Szczęśliwej Szafy",
+      "kr_sha256": "b8d6fcedbfbd70e05fae13084529e27b92e5bf40915aeb509dbfe30f1796e1c5",
+      "en_sha256": "7c5a83ce8094d6631a149198af4b234cb6307c7a6dfb71c072c33b1b3e0d110d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4006].title": {
+      "pl": "Wróć do Szczęśliwej Szafy",
+      "kr_sha256": "b8d6fcedbfbd70e05fae13084529e27b92e5bf40915aeb509dbfe30f1796e1c5",
+      "en_sha256": "7c5a83ce8094d6631a149198af4b234cb6307c7a6dfb71c072c33b1b3e0d110d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].description": {
+      "pl": "Szczęśliwa Szafa znów rozdała, co miała, bez wahania. Dostarczmy ubrania Meblom.",
+      "kr_sha256": "a53c8547b2bbe4549abd481dd3f433a9900eef59383c4b98bd63513e22708abd",
+      "en_sha256": "8efae6fa55bdb5c355e124ea97ad07143fc2ec4d5eebd17d331c9c829e33112f",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription1": {
+      "pl": "Dostawa dla Kościanego Wieszaka",
+      "kr_sha256": "10e5a819b62bdfead4b05aa046cf4be56b126e17f68fac7613a4e6013fd99f10",
+      "en_sha256": "ec780f8a6398ea7800a6d1e931a0092dc79b17fc83180d1c032de15afeacde4e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription2": {
+      "pl": "Dostawa dla Spokojnego Skórzanego Łóżka",
+      "kr_sha256": "00d8f0425c978bf9a60e1da92e41858c04b5ad17453ac2db9120af71d97a54c2",
+      "en_sha256": "c8a78d289367adc8b71446176b7e397ac7a85d9051c903e20672655f22129b00",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription3": {
+      "pl": "Dostawa dla Wypchanej Skórzanej Kurtyny",
+      "kr_sha256": "d75086657045799855291fa2da9409eb32dab9809d7857d1449aa6771e16f8fe",
+      "en_sha256": "a97b71b26a8f834fb541ce95e382badf977e56a6e60ec880d0555bc111cc4e25",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription4": {
+      "pl": "Dostawa dla Taboretu z Czerwonym Gąbkiem",
+      "kr_sha256": "f2f652d993c3c26899f93a522b6ff71ddc7be102ae0ca4499e5e74e01341b542",
+      "en_sha256": "e02539dca71879450d5795aa8326dad4db510e7de3fe36afa4d3df064456e4c3",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription5": {
+      "pl": "Dostawa dla Sofy ze Skóry",
+      "kr_sha256": "c5215137775e94862fe53405cbf49a881cba1ccc8de61e189a3bc70fdb011225",
+      "en_sha256": "a39472f67fbb273446c7b6d740d08a3d0e59c298505dd19d89d6fb976dcc4403",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].steps[#0].goalDescription6": {
+      "pl": "Dostawa dla Lampy-Bliźniaka",
+      "kr_sha256": "b64f73e17b6dce9cc99ee2c95de33047bcbf14c4b293100f6b114cb31196b02b",
+      "en_sha256": "9bb0e872abe923923157f91909e1221b397b3a823dc77491ca22652293f2d99c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4007].title": {
+      "pl": "Dostarcz ubrania Meblom",
+      "kr_sha256": "b2b8aec751fddb90b6d6cd20a0cb5336205192b2e8d484581194abc76fc51886",
+      "en_sha256": "7f9270e4bf94b139c10e967b68003f67b79e47ef54e2597edfb792fdad63f2cb",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008A].steps[#0].goalDescription1": {
+      "pl": "Przyglądamy się zasadzce Mebli",
+      "kr_sha256": "0aeb8bfb93cd7755c25f04612d044e52a24883532a70f9842e228aab32adebe7",
+      "en_sha256": "bfc709bbd4d550c228fcacbcfa0b1205b7c2c378c8773bf647030d02c77eb056",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008A].title": {
+      "pl": "Zasadzka Mebli",
+      "kr_sha256": "f3d721cd0f612dd7b84333c7f233b74add01fdb0278460ea8318d71bbbcc3388",
+      "en_sha256": "f3aee90ece77cb5ed463108b08a580d607bf224153180d48e7d8da5bf5b2e997",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].description": {
+      "pl": "Pomogliśmy już wszystkim Meblom. Czas zapytać Szczęśliwą Szafę o odłamek serca.",
+      "kr_sha256": "69cc6924e261f7f5953b4914b9a9f0bad3663d81a2f77560bc3704d33835496a",
+      "en_sha256": "0ef6b0bc32ef738ee58d868f4c276f5fdd6b88333d81399147024d4dca8b9420",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].steps[#0].goalDescription1": {
+      "pl": "Zapytaj Szczęśliwą Szafę o odłamek serca",
+      "kr_sha256": "14166ca510384884f060fcc3d79feee45541f9401a3456dca74aeffa6525f7ee",
+      "en_sha256": "b75fc728de698921b2d6c0f6cb8a37e7e211d0c691edc59a10104e4466445897",
+      "origin": "ai"
+    },
+    "dataList[key=Q4008].title": {
+      "pl": "Zapytaj Szczęśliwą Szafę o odłamek serca",
+      "kr_sha256": "14166ca510384884f060fcc3d79feee45541f9401a3456dca74aeffa6525f7ee",
+      "en_sha256": "b75fc728de698921b2d6c0f6cb8a37e7e211d0c691edc59a10104e4466445897",
+      "origin": "ai"
+    },
+    "dataList[key=Q4013].description": {
+      "pl": "Meble rozszarpały Szczęśliwą Szafę w walce o jej rzeczy, aż w końcu pozabijały się nawzajem. Przejrzyjmy szczątki Szczęśliwej Szafy.",
+      "kr_sha256": "328bbc3d53c1065667e6eb18bf2f03ae79ace451750a09781c3a505ac7bad928",
+      "en_sha256": "ed47339cfee0c433d8ff4890934d3ac60f1ff8e2d62cbf8edc8dee261233cb85",
+      "origin": "ai"
+    },
+    "dataList[key=Q4013].steps[#0].goalDescription1": {
+      "pl": "Przejrzyj szczątki Szczęśliwej Szafy",
+      "kr_sha256": "34b1d30922a0cc9dea339169738f127264eacd4c85d8489766954ed329b094c2",
+      "en_sha256": "2c01d267a28689b26d1a8de050e4385303c15e78f9a9c5aebe8074d6e1b0d0aa",
+      "origin": "ai"
+    },
+    "dataList[key=Q4013].title": {
+      "pl": "Przejrzyj szczątki Szczęśliwej Szafy",
+      "kr_sha256": "34b1d30922a0cc9dea339169738f127264eacd4c85d8489766954ed329b094c2",
+      "en_sha256": "2c01d267a28689b26d1a8de050e4385303c15e78f9a9c5aebe8074d6e1b0d0aa",
+      "origin": "ai"
+    },
+    "dataList[key=Q4021].description": {
+      "pl": "Nasze sprawy w Salonie Obuwia Le Noir wyglądają na skończone. Udamy się do położonego tuż obok, niżej Salonu Obuwia Le Rouge.",
+      "kr_sha256": "3d71492b1d3542909abdb9323b19eccbfd3761af8b6d509d8a52fde04b62aa6f",
+      "en_sha256": "0f0bc36dc966a294e8919e81704f5ab518a5a31e9a572b62f114dce3e50a99b1",
+      "origin": "ai"
+    },
+    "dataList[key=Q4021].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Salonu Obuwia Le Rouge",
+      "kr_sha256": "14664cc833aee39f0a8d446eeb196753dba9ddb8ef2d9a15936e291e002cb6c4",
+      "en_sha256": "37122875cace8ffba7552b1355bdbeaf6dfb85c2bd8fbd680aa1bf07c50ea5a9",
+      "origin": "ai"
+    },
+    "dataList[key=Q4021].title": {
+      "pl": "Udaj się do Salonu Obuwia Le Rouge",
+      "kr_sha256": "14664cc833aee39f0a8d446eeb196753dba9ddb8ef2d9a15936e291e002cb6c4",
+      "en_sha256": "37122875cace8ffba7552b1355bdbeaf6dfb85c2bd8fbd680aa1bf07c50ea5a9",
+      "origin": "ai"
+    },
+    "dataList[key=Q4022].description": {
+      "pl": "Udało się zdobyć odłamek serca ze Szczęśliwej Szafy. Wróćmy do Salonu Obuwia Le Rouge i przekażmy serce Dorothei.",
+      "kr_sha256": "818e244001e094347f5b3aa3b8016adeeba94e0bd95afa474093d8fd590c0295",
+      "en_sha256": "08973b985cc4060c0bbe3ee51c09bb0826a949b20755947ddcbe312f8606f4ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q4022].steps[#0].goalDescription1": {
+      "pl": "Wróć do Salonu Obuwia Le Rouge",
+      "kr_sha256": "06ac5ee569c9e406f5fb20f182ed3a2cd167f4d376c652a82aae13467130b663",
+      "en_sha256": "d781e17c769de2400027dd35ecec72eb83cfe1c85fa7c98f803b065e5187d49b",
+      "origin": "ai"
+    },
+    "dataList[key=Q4022].title": {
+      "pl": "Wróć do Salonu Obuwia Le Rouge",
+      "kr_sha256": "06ac5ee569c9e406f5fb20f182ed3a2cd167f4d376c652a82aae13467130b663",
+      "en_sha256": "d781e17c769de2400027dd35ecec72eb83cfe1c85fa7c98f803b065e5187d49b",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023A].description": {
+      "pl": "W ścianie powstała dziura. Przyjrzyjmy się jej z bliska.",
+      "kr_sha256": "aa82afc2ebc99afad4e826a515bff33ac1b960767684456e7e29e02de4915f1c",
+      "en_sha256": "970b691325224ffcef5c0642e79402d6486b8b2277ccb4c51724bcab417b297d",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023A].steps[#0].goalDescription1": {
+      "pl": "Sprawdzamy powstałą dziurę",
+      "kr_sha256": "f6b6dc00df4a6e1593a060c3cef5e2802d5b60aeebcc1ab4a30c86c350e37518",
+      "en_sha256": "c2a8f5959f88ac45a49021ef90cbca0beff36141dc2ec6945f7114c63b0e8fbe",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023A].title": {
+      "pl": "Dziura w Ścianie",
+      "kr_sha256": "60a42be1c2792296c4235f6ad50851147fce8bb4d01c8a53f580353b6ad25c40",
+      "en_sha256": "bda7c40c0419e3735e4a8339d0089ae58ae9829d0d15d956d1be5d59952d2f47",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023B].description": {
+      "pl": "Dorothea stuknęła obcasami, a w ścianie otworzyło się wejście prowadzące gdzieś w głąb. Wejdźmy do środka.",
+      "kr_sha256": "f37a33fd3d0e96c066be2ce90addf3cefb09237c981064a35e4156821cbf63bf",
+      "en_sha256": "0e23a97fc3f346f48ec388f0e3e227b97841b9bce633588073d039be906c717e",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023B].steps[#0].goalDescription1": {
+      "pl": "Wejdź do środka przez otwór w ścianie",
+      "kr_sha256": "a0d65ce2aa315734a0f8ff4d35c41d1cf1fb1949dd7f89d18bf4e7aca996f148",
+      "en_sha256": "aeb258a6eaa8c81c33d06e0e4bcdf7005736d513991f7edc402a5f06a479078c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023B].title": {
+      "pl": "Wejdź do środka przez otwór w ścianie",
+      "kr_sha256": "a0d65ce2aa315734a0f8ff4d35c41d1cf1fb1949dd7f89d18bf4e7aca996f148",
+      "en_sha256": "bbf306440526982d22ba9ddc755afd2870babf9a45957026e65eaf967b945c6c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023C].description": {
+      "pl": "To, do czego weszliśmy, okazało się miejscem zwanym Przytułkiem Zagubionych Dzieci. Abnormalność pojawiła się i porwała Dorotheę. Trzeba za nią podążyć.",
+      "kr_sha256": "34dc14e51e58c4da56516c9be4338252ff449835d7a16613f6d08f1698efe331",
+      "en_sha256": "1f4df0911e06093fa731a60a9c74655f51a39f261c13661bff548cdfa37798df",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023C].steps[#0].goalDescription1": {
+      "pl": "Pogoni za Abnormalnością",
+      "kr_sha256": "9a212c9e9157669137c9a928c4f456772370b728463aa394042e2dec8da200e4",
+      "en_sha256": "cd1094b6e01d2eabf3fb6e9f103c6611a69eae3e9ff9db25b2ae42307f5a6e11",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023C].title": {
+      "pl": "Pogoni za Abnormalnością",
+      "kr_sha256": "9a212c9e9157669137c9a928c4f456772370b728463aa394042e2dec8da200e4",
+      "en_sha256": "cd1094b6e01d2eabf3fb6e9f103c6611a69eae3e9ff9db25b2ae42307f5a6e11",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023D].description": {
+      "pl": "Pokonaliśmy Abnormalność. Przejrzyjmy jej szczątki.",
+      "kr_sha256": "ea715379cf31ed8f204322b15c33049ef48aeac2f52d9c0fc4113e603b73696b",
+      "en_sha256": "49e1f6884bc5b396b818684d847538513798b46591043ddf37d5fb03ada18ff6",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023D].steps[#0].goalDescription1": {
+      "pl": "Przejrzyj szczątki Abnormalności",
+      "kr_sha256": "627e732925f92acd701ad24e5b191301a5050b62fd1dcb498b9b98a26c43d272",
+      "en_sha256": "dbac62a36d2e45bc74e03a28cb150c535c729ed76d6b246176604fd09ac4805c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023D].title": {
+      "pl": "Przejrzyj szczątki Abnormalności",
+      "kr_sha256": "627e732925f92acd701ad24e5b191301a5050b62fd1dcb498b9b98a26c43d272",
+      "en_sha256": "2c27217b035406bc76934d25f2cf7086576125ee55e8d4c3bcfd497eb95c9331",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023E].description": {
+      "pl": "Porwana Dorothea leży na podłodze. Przejrzyjmy ją.",
+      "kr_sha256": "c631d1d1e69d1794d3e1138284bc17bbf7ea49c8820f8849d9e3df728fd734ab",
+      "en_sha256": "2b44a3a9907a19ae31f7070c56b71cf11e7f5223a87f27a452c879d0a4a28320",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023E].title": {
+      "pl": "Przejrzyj szczątki Abnormalności",
+      "kr_sha256": "627e732925f92acd701ad24e5b191301a5050b62fd1dcb498b9b98a26c43d272",
+      "en_sha256": "2c27217b035406bc76934d25f2cf7086576125ee55e8d4c3bcfd497eb95c9331",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023].description": {
+      "pl": "Wręczyliśmy Dorothei odłamek serca ze Szczęśliwej Szafy, a ona zgodziła się zdradzić, jak dostać się na 5. piętro. Pójdźmy za nią.",
+      "kr_sha256": "b021a779375457510b3fe9b4c2a2ca0eaf206407353730ec43ed285f44edbcfd",
+      "en_sha256": "85189f2ef6c759e0d8fd6c329b82b407fd45e0e05c634fb9ec4bf5f5ef4f8439",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023].steps[#0].goalDescription1": {
+      "pl": "Pójdź za Dorotheą",
+      "kr_sha256": "8bda4aa797885ccbf46ff2e50ee9ed03685ea7c0a97fc3bcb3110cb2e6d59f10",
+      "en_sha256": "6d548e4cc8f7c871927574ef19022a760bcc9f5fed55dc2aea6fb1a0b1c879dc",
+      "origin": "ai"
+    },
+    "dataList[key=Q4023].title": {
+      "pl": "Pójdź za Dorotheą",
+      "kr_sha256": "8bda4aa797885ccbf46ff2e50ee9ed03685ea7c0a97fc3bcb3110cb2e6d59f10",
+      "en_sha256": "6d548e4cc8f7c871927574ef19022a760bcc9f5fed55dc2aea6fb1a0b1c879dc",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024A].description": {
+      "pl": "Sprawdźmy sami tę ścianę.",
+      "kr_sha256": "1b2c43f0a7ddeb9125bdaf4685025bc46831767ee6b493ea92757a62f98a01b7",
+      "en_sha256": "5b1ff4ac2e37e80c8c1d5b9cdfd26e852f2b748e18f095bfb1d090886f03d741",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024A].steps[#0].goalDescription1": {
+      "pl": "Badamy ścianę",
+      "kr_sha256": "6ab6bc08a0b122457e04835f25498edab4f29ea6777f73992183848197e67a99",
+      "en_sha256": "5b673cb4b87c166c006f3785def768bd866e166e9c9308450d5951579941d49b",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024A].title": {
+      "pl": "Zbadaj ścianę w Salonie Torebek Le Rouge",
+      "kr_sha256": "36a4e2f3a3fa42e390e3e52227bc92d651ee33d84dbd70174c83fa7ad0a56aa3",
+      "en_sha256": "a392b75cacba3a55d6b9628759364b6068201d0cc6e44d6712b4772498769591",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024B].description": {
+      "pl": "Ta, która ukrywała się za ścianą, ujawniła swoją tożsamość. Rozstrzygnijmy, co z nią zrobić.",
+      "kr_sha256": "21ede243aa225ead4188d34be88a07482cb9f00f012afd64ce4ca40f42c1e86b",
+      "en_sha256": "f21f5fc86186cba4c49ba6d089fb4aae2a20d55d2d801fac15649d407eda7997",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024B].steps[#0].goalDescription1": {
+      "pl": "Rozstrzygnij, co zrobić z Renée.",
+      "kr_sha256": "8910146773b9168d9648d00214259e2271e433663caa046c3b496a3acd54d7e9",
+      "en_sha256": "0f2fc100ce6b7998b73541b408b238dd31a1d475efda661de9568ddda7b00ac2",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024B].title": {
+      "pl": "To, co się Ukrywało",
+      "kr_sha256": "abd490b1ea61f387a83c999b941d7420d7bd56a108d9643d8fac24145758b8bd",
+      "en_sha256": "8ce71ae9c19549efd75d0f133d3383a39bccb9f8214871023d246a8a581d8da5",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024C].description": {
+      "pl": "Przyglądajmy się, aż wykonanie decyzji dobiegnie końca.",
+      "kr_sha256": "0733160ec7776e0eb459e3cc2aaff3086e081ac8a3832c960be608ec21d12161",
+      "en_sha256": "73d0e5d6082be5bd4bd5cfe105627762af0b558ce2559d7ab9fa9dfecbbc1a82",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024C].steps[#0].goalDescription1": {
+      "pl": "Rozstrzygnij, co zrobić z Renée.",
+      "kr_sha256": "8910146773b9168d9648d00214259e2271e433663caa046c3b496a3acd54d7e9",
+      "en_sha256": "0f2fc100ce6b7998b73541b408b238dd31a1d475efda661de9568ddda7b00ac2",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024C].title": {
+      "pl": "Rozstrzygnij, co zrobić z Renée.",
+      "kr_sha256": "8910146773b9168d9648d00214259e2271e433663caa046c3b496a3acd54d7e9",
+      "en_sha256": "0f2fc100ce6b7998b73541b408b238dd31a1d475efda661de9568ddda7b00ac2",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024].description": {
+      "pl": "Pwie ma już piękne nowe buty. Chyba zostały jeszcze sklepy na 4. piętrze, których nie odwiedziliśmy. Udamy się do nich.",
+      "kr_sha256": "8e36d14f8df17229bf5fe5ce8445adad3b66f484cc63366a32284a427f3472c2",
+      "en_sha256": "bce48e1558985f52ea72025a7fe5c1d9ddb4023278e533434ac50947cc3cb92b",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024].steps[#0].goalDescription1": {
+      "pl": "Udaj się do innych sklepów",
+      "kr_sha256": "3ddaa2d563d8cc1165861a10852d45d0aebe36f1ed11e1f2ef15d5962218a1db",
+      "en_sha256": "544f651db79bf1d5a0fc61dd58c71dfa8c97bfd48fa82fc298a7fb5659f7a8d9",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024].steps[#0].goalDescription2": {
+      "pl": "Porozmawiaj z innym pracownikiem Salonu Torebek",
+      "kr_sha256": "36cd03d6bce36d26d0d74c211bfd413bb5aea9eda62c7bc3ec887d603f9167de",
+      "en_sha256": "06ddf436a2743988075bb6b220cd7f60c9175d6cb748aa0b367de0ab30db15ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q4024].title": {
+      "pl": "Udaj się do innych sklepów",
+      "kr_sha256": "3ddaa2d563d8cc1165861a10852d45d0aebe36f1ed11e1f2ef15d5962218a1db",
+      "en_sha256": "a0b889d43ffc49c2e33880cfa404c887c078f64bf194b0c48224fb4f6adc0d87",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025A].description": {
+      "pl": "Projektant z Salonu Torebek Le Noir poprosił o zebranie Złotych Materiałów. Jeśli spełnimy jego prośbę, może zdradzi, gdzie są schody ruchome na 5. piętro. Materiały można zdobyć od manekinów.",
+      "kr_sha256": "f41e2114abce2c0b02d1377ef9ebaa094edaab39e4fee138b285d29942fc4e88",
+      "en_sha256": "f66b76f6b8c5e6eb2bff7f211ba79c008ead0db9728ad66b6684d0a3a3573220",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025A].steps[#0].goalDescription1": {
+      "pl": "Zdobywamy Złoty Guzik",
+      "kr_sha256": "b7a1157e9c3a6fe8c817452b0ad47b3c162fd4e3a114287bfcce7c4d5df93172",
+      "en_sha256": "1fd39a244e98aba7017e92fd2ef41503a8725475bf700ea1783a6c4a4bd5fe69",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025A].steps[#0].goalDescription2": {
+      "pl": "Zdobywamy Złoty Ząb",
+      "kr_sha256": "bf5dc2f0821a696db81f887263a8ec6e2e7afa47cba7a7c87a66b62320f5daa2",
+      "en_sha256": "f52fca0c4b5e1788edfd6a2c29dbf09778ba82b719217b8221516947bccc46b8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025A].steps[#0].goalDescription3": {
+      "pl": "Zdobywamy Złote Włosy",
+      "kr_sha256": "9c53bcf50cc6579a38c07f3b4ca2df90faaa79e31228eb1cb82d664ccca6cee6",
+      "en_sha256": "c79a5b05d5050688f9fc802d83d18c10c67a43f8d97f7a5fd6774afdeb1bf1b8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025A].title": {
+      "pl": "Zbierz Złote Materiały",
+      "kr_sha256": "c9687fe59ef5fbb5217c48a5808f29ea462944ce659ad256e634740ba4f8ac34",
+      "en_sha256": "6ba3a8c38161fb26015c4f66a02b5b2d88707f4fc57ee0e12695bcd487c41753",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025B].description": {
+      "pl": "Zebraliśmy wszystkie Złote Materiały. Wróćmy do projektanta i z nim pogadajmy.",
+      "kr_sha256": "a2ae839e8bc36203b1c6c4795ec89a3434e59ba3b158446d8add422ba4133caa",
+      "en_sha256": "ffa146996581f0878bfc6f87e42eea73a8f0140587488f6f2404d4e2733fd804",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025B].steps[#0].goalDescription1": {
+      "pl": "Wróć do projektanta z Salonu Torebek Le Noir",
+      "kr_sha256": "ebff5e08668208f5bbc2eeb3dd12555f65fdc24f2e5a180a7096d3dc6cc8f970",
+      "en_sha256": "a9ef2a21b47a3967966f03319bbb4411cca1796909790e78dec8ff633499bf4c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025B].steps[#1].goalDescription1": {
+      "pl": "Zagadaj pierwsze Dzieło",
+      "kr_sha256": "9ecd4d692d45b178fd4ca5a8b1b705ae9b67e46e7c3eb809f0aa1df32a2ef218",
+      "en_sha256": "868c665eb6326515831b833e0acbddd4565b29eadf5ec8a08ca7430fb49d391b",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025B].steps[#1].goalDescription2": {
+      "pl": "Zagadaj drugie Dzieło",
+      "kr_sha256": "0863d794dfb8d4fc28bc3cf2730a91f8d0a8d7f5c0280360483894b31e46e5e6",
+      "en_sha256": "ad22a9d0eeb511981d97ec9ff769127314341a49d8f800b2ba9481ce6872735a",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025B].steps[#1].goalDescription3": {
+      "pl": "Zagadaj trzecie Dzieło",
+      "kr_sha256": "fd40db012e8a0d9bd3e7b4a3e3760c3f331aaab462f06d10c123cb6884fd40bd",
+      "en_sha256": "02c3e7d0692da0fda4f8913f4ef387c6997c190feb3f4a1d134b8a87d7916235",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025B].title": {
+      "pl": "Wróć do projektanta z Salonu Torebek Le Noir",
+      "kr_sha256": "ebff5e08668208f5bbc2eeb3dd12555f65fdc24f2e5a180a7096d3dc6cc8f970",
+      "en_sha256": "a9ef2a21b47a3967966f03319bbb4411cca1796909790e78dec8ff633499bf4c",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025C].description": {
+      "pl": ".",
+      "kr_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+      "en_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025C].steps[#0].goalDescription1": {
+      "pl": "Przyglądamy się Wyborowi Projektanta",
+      "kr_sha256": "ecf3a7964d3eced9e4d0f89871d91eb08bc7ceb13177bc3af6c93b27e775391f",
+      "en_sha256": "5270cb03a43d70cee05fdd8fb93c7c8825ac91945687a4c584d85c3979aa3226",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025C].steps[#1].goalDescription1": {
+      "pl": "Przyglądamy się Wyborowi Projektanta do końca",
+      "kr_sha256": "7689e2516c34b05f4b3d5c943e4c37ab5efa39e9c3a5722a36846dbad8e2d80f",
+      "en_sha256": "e67ca778802cfccb17d8a5b5346d4e8b448bcc477a95d60fd5bf4861f60f6985",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025C].title": {
+      "pl": "Wybór Projektanta",
+      "kr_sha256": "c408320bdec037ac74e8003d758d5aed4f3cc489c317680289d8f179f81b7bec",
+      "en_sha256": "f29232ca449c40ed167365d44d35106b53195c2e981d8a70347527ea0068e0d0",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025].description": {
+      "pl": "Nasze sprawy w Salonie Torebek Le Rouge są skończone. Udamy się do innego sklepu.",
+      "kr_sha256": "95497d5252c14a7963050a2c8100a2e51c36b839efa2ec3d3e7f0c745c8cb928",
+      "en_sha256": "010741791b4c8ff3329e93b2679467551567b7a9e566ab85f3750719d4b03253",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025].steps[#0].goalDescription1": {
+      "pl": "Udaj się do innych sklepów",
+      "kr_sha256": "3ddaa2d563d8cc1165861a10852d45d0aebe36f1ed11e1f2ef15d5962218a1db",
+      "en_sha256": "544f651db79bf1d5a0fc61dd58c71dfa8c97bfd48fa82fc298a7fb5659f7a8d9",
+      "origin": "ai"
+    },
+    "dataList[key=Q4025].title": {
+      "pl": "Udaj się do innych sklepów",
+      "kr_sha256": "3ddaa2d563d8cc1165861a10852d45d0aebe36f1ed11e1f2ef15d5962218a1db",
+      "en_sha256": "a0b889d43ffc49c2e33880cfa404c887c078f64bf194b0c48224fb4f6adc0d87",
+      "origin": "ai"
+    },
+    "dataList[key=Q4026].description": {
+      "pl": "Nasze sprawy w Salonie Obuwia są skończone. Udamy się do schodów ruchomych na 5. piętro.",
+      "kr_sha256": "615299af4f2def5060a13b9942c73bb621e32a61c797699f8e8daf5918975194",
+      "en_sha256": "4e69376e453d86505cc2b375e03dda1dcecac498697c0ed5fe4361039eaada48",
+      "origin": "ai"
+    },
+    "dataList[key=Q4026].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 5. piętro",
+      "kr_sha256": "8e435e8967e7d40206eb9d6f3ac0f61ee8124f3b39ac357d24bae95e639b47e1",
+      "en_sha256": "c68e27192452ebf4beb2927b678f6175301aaccb8331f93e8f12ec5ab82eff72",
+      "origin": "ai"
+    },
+    "dataList[key=Q4026].title": {
+      "pl": "Wjedź schodami ruchomymi na 5. piętro",
+      "kr_sha256": "8e435e8967e7d40206eb9d6f3ac0f61ee8124f3b39ac357d24bae95e639b47e1",
+      "en_sha256": "c68e27192452ebf4beb2927b678f6175301aaccb8331f93e8f12ec5ab82eff72",
+      "origin": "ai"
+    }
+  }
+}

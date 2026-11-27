@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[key=140500].text": {
+      "pl": "Salon Torebek Le Noir",
+      "kr_sha256": "bc9aded743b5f1a6d684be49ec7e2f13842d035331637aa4f3a29da7fc8a2754",
+      "en_sha256": "2206319f977d4fafe8cbb7f08d9709c63598d9f6b87f97267d078ca77062b627",
+      "origin": "ai"
+    },
+    "dataList[key=140600].text": {
+      "pl": "Salon Torebek Le Rouge",
+      "kr_sha256": "2d2778319aa22478ef3730217e9256f7fd3e1deaf350f01c77ae8998faf31f55",
+      "en_sha256": "7496b726e4f0cebd7f3cf4fd720c90b5207744e50c953c7e0d434e711d1d9c2f",
+      "origin": "ai"
+    },
+    "dataList[key=140700].text": {
+      "pl": "Przytułek Zagubionych Dzieci",
+      "kr_sha256": "30b77d089d635a1d080a2741d496e0141d8219281a798c20e3ec4bae2325e103",
+      "en_sha256": "eb70209817b0ea5eed0ce4c52f40c731ca5e26fd2fb7e81b3b648de9a743a6f1",
+      "origin": "ai"
+    },
+    "dataList[key=140800].text": {
+      "pl": "Wnętrze Przytułku Zagubionych Dzieci",
+      "kr_sha256": "36773b314532060fa0f9998121ad074eb97f282fff8479e7e308c780f6368249",
+      "en_sha256": "4d60f5ed611abb864f0b1aeacf485d389702832e142dbdf157d1efa87d7b550d",
+      "origin": "ai"
+    }
+  }
+}

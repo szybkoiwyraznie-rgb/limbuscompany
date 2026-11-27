@@ -1,0 +1,46 @@
+{
+  "entries": {
+    "dataList[key=N103001].displayName": {
+      "pl": "L'Inamovible",
+      "kr_sha256": "586c2622db03b8d40407ab2c21cb4db82fea0e4d6c6a7b43d42cad32efb9e965",
+      "en_sha256": "e5e595fcb953a6761a2b4ca6d2f53b69114540352e21cbbffe8b1e37e0c09a49",
+      "origin": "ai"
+    },
+    "dataList[key=N103003].displayName": {
+      "pl": "Garnitur Dzielony",
+      "kr_sha256": "e053c26031ac350424d6221f361c75fd37c56c35f82a704d90886069c541119d",
+      "en_sha256": "74eb5de9f4e04bd48ea563e38bb31c6b30f0e0992808c01b3e95fe8ef53b83cf",
+      "origin": "ai"
+    },
+    "dataList[key=N103004].displayName": {
+      "pl": "Krawcowa Annette",
+      "kr_sha256": "eebddf8db1b7edba8ddff68fb62e96a456cd33acffaa862791553bdf1bc07b66",
+      "en_sha256": "96de05204474e17f2376c82a1c6a5ff8fba30037202918671ab87d5338d6d74a",
+      "origin": "ai"
+    },
+    "dataList[key=N103005].displayName": {
+      "pl": "Flannel",
+      "kr_sha256": "1a40344390fa883beb5f025fa578177b42042fd28a388a9743874a4b8fe0091c",
+      "en_sha256": "afa8bb6bcf374495decd3aa31190682b58fcb2121ca031fc70015deb67479b37",
+      "origin": "ai"
+    },
+    "dataList[key=N103010].displayName": {
+      "pl": "Ionesco",
+      "kr_sha256": "ca56e3bbc5e40d5c41b782084090190406ba4b54c3234942accbf8ea0d03c247",
+      "en_sha256": "f1ddfa6568aaecb44299de348c2b07ea64ec4c80170447e534326acb480f3a2d",
+      "origin": "ai"
+    },
+    "dataList[key=N103011].displayName": {
+      "pl": "L'Inamovible",
+      "kr_sha256": "586c2622db03b8d40407ab2c21cb4db82fea0e4d6c6a7b43d42cad32efb9e965",
+      "en_sha256": "e5e595fcb953a6761a2b4ca6d2f53b69114540352e21cbbffe8b1e37e0c09a49",
+      "origin": "ai"
+    },
+    "dataList[key=N103017].displayName": {
+      "pl": "Felt",
+      "kr_sha256": "69b431d3efe68cfd19c8431ebe2c2ca0993c66fb9d7ba31d11ce95969474dd62",
+      "en_sha256": "61a44eaf1609cec4f50a29b7d0396472615b910f5e92270a487181f2c611ea17",
+      "origin": "ai"
+    }
+  }
+}

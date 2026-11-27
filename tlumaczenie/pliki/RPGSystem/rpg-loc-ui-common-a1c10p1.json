@@ -42,6 +42,12 @@
       "en_sha256": "79c025e4ceb6568b9405fcd31a4479d15aad2af24c094847dac5599fc459be02",
       "origin": "ai"
     },
+    "dataList[key=FormationUI_AskToBack].text": {
+      "pl": "Wyjście z walki przyciskiem „wstecz” oznacza porażkę.",
+      "kr_sha256": "d71f7b1984fbdf77fe68726b243b2d3bca00661ae13f92d90a429700c1b5bd61",
+      "en_sha256": "5f5912e259b25ebce1638c707ec9f70e7aabae66f6ea195d3baffb874685f559",
+      "origin": "ai"
+    },
     "dataList[key=Inventory_Empty].text": {
       "pl": "Nie masz żadnych przedmiotów.",
       "kr_sha256": "d384a7dd9f2b9914b7bce92da1b1add9655392256a7946b07e30cb5c156a3fe8",
@@ -426,6 +432,42 @@
       "en_sha256": "4d81db5fabb1168d4866cd87ce5495766cad16d26fd7a11c467605a876a9f98b",
       "origin": "ai"
     },
+    "dataList[key=Rpg_Menu_Status_Character_Mental_Status].text": {
+      "pl": "Stan SP Grzeszników",
+      "kr_sha256": "1658dc2aa3eaf6d183184dca32b564d668b95ac05685d3451fac3a43a7241915",
+      "en_sha256": "9137d067eee9624a7e4dfe28b34e2ef66faaa514aad3c1af02ba3dee683efd69",
+      "origin": "ai"
+    },
+    "dataList[key=Rpg_Menu_Status_Ego_Resources_Owned].text": {
+      "pl": "Stan zasobów E.G.O",
+      "kr_sha256": "b967328a96d72b258c73f1d8017b98f87bc5928703515d3e9f13f8b138cecc43",
+      "en_sha256": "87bbd4a6950e717e8f3e31b65bc8b9951262616663c6429e975313830f3cf1e8",
+      "origin": "ai"
+    },
+    "dataList[key=Rpg_Move_Floor_Ui_Current_Floor].text": {
+      "pl": "Obecne piętro",
+      "kr_sha256": "dda82aae0bb1ac0ef7f3d0e12d4f9cdb888eaac731d1d166280af3395d6fddd2",
+      "en_sha256": "14bb3e33677293d23f9b57ee4891f2b4b2272c31c34b252e406e8a0eae99a74f",
+      "origin": "ai"
+    },
+    "dataList[key=SettingTitle].text": {
+      "pl": "Ustawienia",
+      "kr_sha256": "115bced49291a6a0df971e8cd50b00fad1ea43e34be6d37b41f7128b3cf6a65d",
+      "en_sha256": "74a883a037bc227f91891ab654a753d3a99f31ab06ae5b5d2b6e594a692b41f8",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Attack].text": {
+      "pl": "Atak",
+      "kr_sha256": "ff1b59466ae65927bbbbb1f8059e9a9817bcd636add2727708406237db906b74",
+      "en_sha256": "4cd548f3cc29cf9c99a0134a971b1be03c8f6bf80ba8f03e174e030b0d292396",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_BattleStatus].text": {
+      "pl": "Status w Zacienionym",
+      "kr_sha256": "6d48967ee42783edb2d35d070fa4ac7fc7436369ef7a534f62b66e9be227de01",
+      "en_sha256": "b5969cc54003a881664cb9e65ffefedbdbc8374fbb453101fb0997a36caa6242",
+      "origin": "ai"
+    },
     "dataList[key=Setting_Sisyphus_BrightnessCeiling].text": {
       "pl": "Limit jasności",
       "kr_sha256": "6dd5e76b03fdbe7384b3682d4a3219ef653e1501fa19c969f41cab1e86485669",
@@ -444,10 +486,88 @@
       "en_sha256": "1846e95db4c8fda4789b301700536da3069e69783ea3b6a613aef27fdd022956",
       "origin": "ai"
     },
+    "dataList[key=Setting_Sisyphus_CloseWindowOrSetting].text": {
+      "pl": "Zamknij okno / Ustawienia",
+      "kr_sha256": "75a0ec8d11f93c735d4ba21883fcf0102f6b8d7f9fd8486bb380d4f16e5affec",
+      "en_sha256": "2f005741a1fd13db406b56a0843e37bb17938fa7f73d412775efbe339389df18",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_CreditFastForward].text": {
+      "pl": "Przewiń napisy końcowe szybciej",
+      "kr_sha256": "c2c557586417522c7f9c76afa934e8b78dcee262b9d8ea737a2e3def1e11fe6d",
+      "en_sha256": "1303fd26acd318801df10322e9faf16b041272ab8d4d0040f785efe3d616a7bb",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_CreditSkip].text": {
+      "pl": "Pomiń napisy końcowe",
+      "kr_sha256": "10636c438d4f862a645db311f93d52337cb728a8415cc72d31924ee572a4a9fd",
+      "en_sha256": "03d569ff0eed12f360e054da781daab145b720eba8b6dedd2ffa4ca73a7d3f05",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_DialogueChoice].text": {
+      "pl": "Przeglądaj opcje dialogu",
+      "kr_sha256": "9a53df9113770b66adf3c3b349da1b90feb00b6e0d9a0cbb345686743574d149",
+      "en_sha256": "2c65e10379ef6024c4d20d6fb9199ded239f77c17e876113d22a332a53e0beb6",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_DialogueNext].text": {
+      "pl": "Kontynuuj / zatwierdź wybór dialogu",
+      "kr_sha256": "a5ece246180f27390d28309131c7610c539ff69adda76ea6590c02ab12c08e2f",
+      "en_sha256": "d5265ab7639ac23060f72f3ffbde8332610aec813fd85389fabd42ec73d0f846",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_DialogueSkip].text": {
+      "pl": "Pomiń dialog",
+      "kr_sha256": "25349316cc633961f471ce08026b30d09be188d9eb5a74a9ae40c2a5805be207",
+      "en_sha256": "a622fdb9fe71a5f14f3bf750ce9d94eb88f27412cb47e2daa360024611f0778a",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Dodge].text": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_FullLog].text": {
+      "pl": "Pełny dziennik",
+      "kr_sha256": "2d5df9b73d004f10eee123a13dfcbbd389999c23bbfec2c7d9962fe5a5bac792",
+      "en_sha256": "df3242f90bef6c4ff0e39896b93b02d16a45a549cf6d01cb19cae86422994a56",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_GauntletSuicide].text": {
+      "pl": "Powrót do Źródła",
+      "kr_sha256": "b9d5b8cddd5a7fcd13c35f8dc84730069396a069f814f7d88055961622e5d308",
+      "en_sha256": "e5cadd350938a7632dce0a1a22be4d2faf2940a6cb84852f9081da2c435e32bc",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Guard].text": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "211d0bb8cf4f5b5202c2a9b7996e483898644aa24714b1e10edd80a54ba4b560",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Interaction].text": {
+      "pl": "Interakcja",
+      "kr_sha256": "fc08ad9e2599733014a92965e5907a2b9ed2027a71b08af29784f83b81fcf6af",
+      "en_sha256": "04adda4ac0c788b8fd0d1ab8ac3ac5e4f88d92504a0c8f501ae0a7fc11317275",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Inventory].text": {
+      "pl": "Ekwipunek",
+      "kr_sha256": "21b980bcef5c82f2fc0a92f0f336cf4ca3084a5ebafade10a168e85998dad6ef",
+      "en_sha256": "d2c0df452a2c99ed3c6bc5d940c9bf3d21accf2d0b6c0d102d6b605c2f8b1199",
+      "origin": "ai"
+    },
     "dataList[key=Setting_Sisyphus_KeyManual].text": {
       "pl": "Przewodnik po skrótach klawiszowych",
       "kr_sha256": "74c0990655a810f877c0d214d792d51ffd05b7c14dfed9629a78cbd3c7fad06d",
       "en_sha256": "81c197b9d360fb33b46ceec3c92433131409bdfc067216a39bf6901cbd64c7cc",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_LanternToggle].text": {
+      "pl": "Lampa wł./wył.",
+      "kr_sha256": "7888b53feb95a1f65abab57d01e748042d8eb7b1d4d8841853abf31be9ba321f",
+      "en_sha256": "6b374a3dbb4acd403e18adb307cf232031b76b180cee5138e7325dbba7d65064",
       "origin": "ai"
     },
     "dataList[key=Setting_Sisyphus_LightMode].text": {
@@ -456,10 +576,82 @@
       "en_sha256": "dd730cebcca12f35312a61d55a4a4100d7124068c2151595dd01e44d5722b175",
       "origin": "ai"
     },
+    "dataList[key=Setting_Sisyphus_LockedNeedItem].text": {
+      "pl": "※ Zablokowane. Odblokujesz, kupując odpowiedni przedmiot.",
+      "kr_sha256": "cab424ab6ad504d00ad03abeeb2d0e86694b61e29c22a69df802956b550ed6e5",
+      "en_sha256": "0ed2d7e0d57b8f0c29931d9c61a11119f5f077a9766ea98288fa749bcc5fd175",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Manual].text": {
+      "pl": "Instrukcja",
+      "kr_sha256": "cddde2d286a173b2b6d2a532adfe9e475b0bceda46bc255519c11794b09f434d",
+      "en_sha256": "b0b9fe24ffa9629125bdc59b122f80d605ab604eb1b74485c2f2ecfde26576ae",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_MobileAutoAttack].text": {
+      "pl": "Atak Automatyczny",
+      "kr_sha256": "03fa0972a64b806938512e00934900a1c2272331a94676fb81227031ca152e58",
+      "en_sha256": "2e1a5eb62078f126a52ed633150d8b5370f77a6904a216c33f0f4df5289008e6",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_MobileInteraction].text": {
+      "pl": "Interakcja",
+      "kr_sha256": "d833c28f2e337cce945cd758db92dcfb5e247f92c965d9b49049840467ba023f",
+      "en_sha256": "04adda4ac0c788b8fd0d1ab8ac3ac5e4f88d92504a0c8f501ae0a7fc11317275",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_MobileLantern].text": {
+      "pl": "Lampa",
+      "kr_sha256": "5538c0af91ae48b12857250a68974f6d10af1b419fd7cc58d2e1b44b70b81ce8",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_MobileMenu].text": {
+      "pl": "Menu",
+      "kr_sha256": "13b36d6d0ccc7f4960aad13ace6e17d5cea4a4dbe24856e38673a4e785a8633f",
+      "en_sha256": "c219bbd71512525e34cc910cc5eb6d3e50b5b5e2d8652f72d32c2afb9e3217b7",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_MobileQuestNavigation].text": {
+      "pl": "Strzałka naprowadzania zadania",
+      "kr_sha256": "2785ce58df740e52a9350ad23006f0af5707be2ce5740b0471b60cc7db9d3602",
+      "en_sha256": "284549dfbad65c222df0a31d81edca7f3a19ecd6f83cfc38ef18c7bf07addac4",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_MobileUnlockNotice].text": {
+      "pl": "Funkcje oznaczone „※” można odblokować, kupując odpowiedni przedmiot.",
+      "kr_sha256": "c3256c57b08c1d07faee5da1e4dabbe9c45f7672ba9a2aed4646a661f373df19",
+      "en_sha256": "6cb65eebaa64cdd829b6273c604e9d3eee327b0e146e2be8c85a07eb811090a5",
+      "origin": "ai"
+    },
     "dataList[key=Setting_Sisyphus_MoveAssist].text": {
       "pl": "Korekta kierunku ruchu",
       "kr_sha256": "205162e695925f14de98ad2577f41e39661ee7fe9a7d7adc530998e566ca2f6b",
       "en_sha256": "2c5c9bffc190de580931222e938569bf3e4facc4c7cd5e85e1bc7e7b4cccd385",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Move].text": {
+      "pl": "Ruch",
+      "kr_sha256": "83b651b85e13a22556de8bf75e768a0141aa45b58239072aa2d11e3a7ed4172a",
+      "en_sha256": "6ecc3df6bffdd06c58cd4f6e276929e119c8f653c53f5a6a5a5e66dfa1c3fc93",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_QuestNavigation].text": {
+      "pl": "Przełącz strzałkę naprowadzania zadania",
+      "kr_sha256": "aaf784145d7882c65e8bbb0dd6a5e190a0f06634b7908078106a2b0f852cf96c",
+      "en_sha256": "0d4fb3768fa3271012a1c9157ed2a39a8856c7937e23674632c761e99e79d597",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_Quest].text": {
+      "pl": "Dziennik: Zadania",
+      "kr_sha256": "efe9900f9bdf184d44990eaf13885071b6949be45f58b3edf0b91951759910c1",
+      "en_sha256": "f4dc582fa76bee9d89c434866b87d65126bfcb53f0eb9fb95843800f593f085e",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_RunStartDelayValue].text": {
+      "pl": "{0} sek.",
+      "kr_sha256": "e747de4794a88c5fad0a877e0d9c714c39ed9e339b5ecec4b45e32f5f9c29cc8",
+      "en_sha256": "b6d37c86179664eae84aa397dd4698c43429f6d99f93f2db6e8ec767d8738382",
       "origin": "ai"
     },
     "dataList[key=Setting_Sisyphus_RunStartDelay].text": {
@@ -468,10 +660,70 @@
       "en_sha256": "49bdbc9d56c22d5584e48b77b1e85818854d867bab4d17cd6bc23352cfecc1ed",
       "origin": "ai"
     },
+    "dataList[key=Setting_Sisyphus_Run].text": {
+      "pl": "Bieg",
+      "kr_sha256": "4c47747ba8ec10732144abada94e4683974665e0de537ab4ebc826717ec60817",
+      "en_sha256": "fd04788626e5f87b3b22b2b855bddaae2f1ee43956232d2fa57c5afa7d3f09b9",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_TabDefault].text": {
+      "pl": "Sterowanie (klawiatura)",
+      "kr_sha256": "086f41200b4712b3a5e4fa40787a3b42f666f917bf1b4158b047b2dafea8c59d",
+      "en_sha256": "1b707bb6259210fad60ddffaf22b869df1b34d391f008c24e8b20f08268af8b4",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_TabMobile].text": {
+      "pl": "Sterowanie (dotyk)",
+      "kr_sha256": "605632038f49400b72d725f05802cd4d4b68dc144806bb020867f57be233c8b0",
+      "en_sha256": "9ebd5950a4ec3ad4448768f542b7ba34fbbc06d06f0d94f49d8c4a1f665f6b61",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_TurnAssist].text": {
+      "pl": "Asysta skrętu w ruchu",
+      "kr_sha256": "3e5890e3027cbf8c232c858c7e1aa5f26ee1dcad1a4c3383834fcd86246729f8",
+      "en_sha256": "fa1616a722938f91963c0987445df3cd52ddcbd077c37cdde92fd9996d2e3050",
+      "origin": "ai"
+    },
     "dataList[key=Setting_Sisyphus_UiSetting].text": {
       "pl": "Ustawienia UI",
       "kr_sha256": "5864cdaa8de48abb0c90a6f9c3937599902ff7a1b61fd6e972b742877fb0a500",
       "en_sha256": "2042b39a60a69db107cd9ffc16468cb40d75ddc009379cfcf3f90ad5599dcb30",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_VirtualPadModeFixed].text": {
+      "pl": "Stały",
+      "kr_sha256": "1775770ae6e2eda31d949f6e15ddab57eef224324e9b663e98da40b74cc1bd53",
+      "en_sha256": "1246fc93bca00b90d0fcaf2f7b7b41546f08817ce552c25eabc7dca19181c65a",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_VirtualPadModeFloating].text": {
+      "pl": "Pływający",
+      "kr_sha256": "ddbf109a7853c64cf509374f2c0641ee4bdbe52038cf9e8cf33f15e3f23d8b62",
+      "en_sha256": "56dd6d833c402fba585035cc944d1f48f552f127d841c5bf1a1981cbcaefe3f1",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_VirtualPadMode].text": {
+      "pl": "Tryb wirtualnego pada",
+      "kr_sha256": "4394f0f8898da7c83880163fe5425db314c18d990ce0d4c315e16be3f38fb87f",
+      "en_sha256": "1f8dc1c4f5d032df2828139ef08d14ca0c1df70916ccc68981cc00650148825c",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_VirtualPadRunKeep].text": {
+      "pl": "Promień utrzymania biegu",
+      "kr_sha256": "1a98061694cbd8be7474989c9e2b5d92b5f2d2666944e48882eaf6cbf26a3f8a",
+      "en_sha256": "dec24f225f8bc38df21ade5130b1b85bc07ff460a8daf03e7903e29c1b57b510",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_VirtualPadRunStart].text": {
+      "pl": "Próg rozpoczęcia biegu",
+      "kr_sha256": "04c0d71a2ebd0a449327fc87009a3dc4840ca7be4ed60096aa2c4f401e4a9e7b",
+      "en_sha256": "5e68123f3e63161bf48c1374c38280f5cfb3a2e159cf661fb4f2173695976052",
+      "origin": "ai"
+    },
+    "dataList[key=Setting_Sisyphus_VirtualPadWalkStart].text": {
+      "pl": "Próg rozpoczęcia chodu",
+      "kr_sha256": "4342a0fb84bf16039aeaccc947c105ca6ed9e37a4b7446672f9d32256274acb9",
+      "en_sha256": "10fa626b72d32c92e14c21f147f5420158f141810be1a4eb67d422bafe62643a",
       "origin": "ai"
     },
     "dataList[key=Setting_Tab_Sisyphus].text": {
@@ -538,6 +790,18 @@
       "pl": "Sklep",
       "kr_sha256": "de9d31548e094efd2662817e016df5b801698752a92f7dff333280378a7584a9",
       "en_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "origin": "ai"
+    },
+    "dataList[key=TheaterTitle].text": {
+      "pl": "Teatr",
+      "kr_sha256": "a0c4d7f64777335916b25f02c480a59105f3f74a40650763fed63a37d0309d71",
+      "en_sha256": "bc6d281a0fd7598e52e673127e061a45a2b04e6dd0d15c3b43e5c76c586401dc",
+      "origin": "ai"
+    },
+    "dataList[key=WardenBigNail].text": {
+      "pl": "Wielki Gwóźdź Strażnika",
+      "kr_sha256": "dd989d7140a2470c561db4bf9a1efcb4cdfca208787dd446d00371b3762a6cd4",
+      "en_sha256": "0e84281513dfda78e21f6343c0717aa2724c09ea08410926ffdbc92ed6281846",
       "origin": "ai"
     },
     "dataList[key=rpg_quest_tag_battle].text": {

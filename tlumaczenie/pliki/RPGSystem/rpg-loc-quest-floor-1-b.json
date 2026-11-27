@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[key=Q1001].description": {
+      "pl": "Wróć do toalety",
+      "kr_sha256": "a78326a20d98b10df1236636666a2c7a3e8aae83914b0772af4e123ca39a0b1b",
+      "en_sha256": "ba16f76e61dd71ab50481107bf12900e8098d7df0291846668f36b5f3b3511f6",
+      "origin": "ai"
+    },
+    "dataList[key=Q1011].description": {
+      "pl": "Coś jest nie tak. Znaleźliśmy się z powrotem w toalecie, a wszyscy zachowują się, jakby niczego nie pamiętali, i nie widać Meursaulta. To nie mogło być tylko snem. Zbadajmy dom handlowy.",
+      "kr_sha256": "5b1659174639fb03c81e096ed11b697bf934fb67e199577dd216c77fe37e0145",
+      "en_sha256": "55c44da17e8f4323837027b95042999b19286541301a83fe4f87cb359a6df9a8",
+      "origin": "ai"
+    },
+    "dataList[key=Q1011].steps[#0].goalDescription1": {
+      "pl": "Zbadaj Dom Handlowy",
+      "kr_sha256": "d66c571e636276460e087e79afaee227d0ff1744a7ed688be67d98b55efbcf03",
+      "en_sha256": "5e1860427535718323e440d0f9bac1cfb78db8394745070bc488a2ebe93f95ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q1011].title": {
+      "pl": "Zbadaj Dom Handlowy",
+      "kr_sha256": "7fe804cea7d696bea3a5fc95d26ff52a9b96b7e41bbed42fa29449e5bd206b23",
+      "en_sha256": "5e1860427535718323e440d0f9bac1cfb78db8394745070bc488a2ebe93f95ef",
+      "origin": "ai"
+    },
+    "dataList[key=Q1013].description": {
+      "pl": "Wygląda na to, że to jednak nie był sen. Na razie idźmy dalej. Najpierw trzeba odnaleźć Meursaulta. Może wciąż jest w tym samym sklepie co ostatnio?",
+      "kr_sha256": "e0413924e0f09409099051d3347db07aa59af02128b13fa7d67055280b3f3be0",
+      "en_sha256": "85c214a9b6f3ccfed21f53557af77f8f308a3f7add1afbc86e3f51f842c7bf05",
+      "origin": "ai"
+    },
+    "dataList[key=Q1013].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Salonu SPA",
+      "kr_sha256": "244dfc9092972ec5fa3bee1c7d24776db4e46d39188742582dfe89bf83d3a774",
+      "en_sha256": "fe6257410830df3ac7321633260d9406c91dfd7d5cd4183bbc79af392ad56550",
+      "origin": "ai"
+    },
+    "dataList[key=Q1013].title": {
+      "pl": "Udaj się do Salonu SPA",
+      "kr_sha256": "244dfc9092972ec5fa3bee1c7d24776db4e46d39188742582dfe89bf83d3a774",
+      "en_sha256": "fe6257410830df3ac7321633260d9406c91dfd7d5cd4183bbc79af392ad56550",
+      "origin": "ai"
+    },
+    "dataList[key=Q1021].description": {
+      "pl": "Meursault powinien być gdzieś w pobliżu. Odnajdź go i zagadaj.",
+      "kr_sha256": "6ca05c3a9f368c039f132d2a18f08c5f8d0a9c5b1d63485fe36d22778fbf6731",
+      "en_sha256": "4a445154ea452e0f376132384d399496c15fa8caf75fec89bcb671bffc0074e9",
+      "origin": "ai"
+    },
+    "dataList[key=Q1021].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Meursaulta",
+      "kr_sha256": "117db4d6e8c9969b0da7220498bee9b290ab6a999688bb6a26379bf3c063f47d",
+      "en_sha256": "53907f812b794afbfed1652d65d31575ee515466f4602c364443478d183c6f1e",
+      "origin": "ai"
+    },
+    "dataList[key=Q1021].title": {
+      "pl": "Odnajdź Meursaulta",
+      "kr_sha256": "c0d0e3af54021b31190f0e2c3b61d45c82a7409e2ca40cdcefd4ad4d0a1da5ef",
+      "en_sha256": "6fe53e69c1b0f5fc38bc7ff90a6394ed4c8a064e7fd345240ab20f6624f45e63",
+      "origin": "ai"
+    },
+    "dataList[key=Q1022].description": {
+      "pl": "Żeby zabrać Meursaulta, musimy najpierw spełnić prośbę Mimosy z Salonu SPA. Szybko rozprawmy się z manekinami i stąd uciekajmy.",
+      "kr_sha256": "d36ab1e412087b8914997231a322dc08d8e57cd69c79bcb7cdf5a1866fcaad59",
+      "en_sha256": "a1ad4644ceb15626ed0b4488a95358628328cb83f54e2f0b786f087aef04a4d1",
+      "origin": "ai"
+    },
+    "dataList[key=Q1022].steps[#0].goalDescription1": {
+      "pl": "Idź odszukać manekiny",
+      "kr_sha256": "7ebc61220cb7c731c8173d78a9186e91467da40eb91947aaf90aa6f0b058d2ef",
+      "en_sha256": "a50b7c25e9cc3673fcf60782064cc632ec9eaabd0920b0b17ec4ee3c85d32d3e",
+      "origin": "ai"
+    },
+    "dataList[key=Q1022].title": {
+      "pl": "Wyprowadź Manekiny",
+      "kr_sha256": "cdfc615d4833867fdb513d3865c8f8494b50f78530eb67c87c77d043158d322e",
+      "en_sha256": "c2afba8cd0d49836907c7e9460a053766cbf92a0aa08028bc9da6396d5f09e01",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].description": {
+      "pl": "Nie ma sensu przeciągać tej rozmowy. Szybko przepędźmy manekiny.",
+      "kr_sha256": "198ba1f056b5f4b4184ad9857a063743e36e010df35aba2eb6cc68be63c2fa5b",
+      "en_sha256": "e63180d5d688656fc650c02af000204df032e530c2c0335e90bbad5d86c38643",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].steps[#0].goalDescription1": {
+      "pl": "Pomóż manekinom „dotrzeć do wyjścia”",
+      "kr_sha256": "4bb420f8c478041ba0306e41688bbe0183e41ce5fa799ea7d7f3c595b1764d79",
+      "en_sha256": "f7e9ccf56c53a2e032ced03ed7e7103981742c058922a240dd7a9fc7c9b197f2",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].steps[#1].goalDescription1": {
+      "pl": "Wróć do Mimosy",
+      "kr_sha256": "3c89e2da280a3fd5736cd543ab5feea1940d0b83ac47c3112ab8d1fa3422b2f7",
+      "en_sha256": "c7b2b4c92938ace4a641f2246dfe62b1ffaef25f0b20169120eba855bfc95839",
+      "origin": "ai"
+    },
+    "dataList[key=Q1023].title": {
+      "pl": "Wyprowadź Manekiny (2)",
+      "kr_sha256": "f61eb01d6a5c71eb04924d61e2527fc5ff0507c163f17a29da71a64627c32bed",
+      "en_sha256": "cad60bedb3931c9bba4f1a303faefb68eb5b9ef96f3b7b860fedf960cf60349b",
+      "origin": "ai"
+    },
+    "dataList[key=Q1031].description": {
+      "pl": "Na szczęście sytuacja wygląda lepiej niż za pierwszym razem. Tym razem musi wyjść inaczej. Priorytetem jest opuszczenie 1. piętra. Szybko opuśćmy Salon SPA i udamy się do kolejnego sklepu.",
+      "kr_sha256": "9c18d2f75f42ab3a2c5cc8af8c1ec223efbd173dd029ce803a7406681c0b48cc",
+      "en_sha256": "626289bf9998d6cb37e6f529974fa479ab18865c04a8de8ee1e4dc5262c2189c",
+      "origin": "ai"
+    },
+    "dataList[key=Q1031].steps[#0].goalDescription1": {
+      "pl": "Opuść Salon SPA",
+      "kr_sha256": "ad04768f3a9a0823311f540b96384d7b960b491a9cb2fa9a97c6c2e73c9f8f2b",
+      "en_sha256": "727d84bd47ee4a99b9b41e6a4995a65f287a3b9f88d4fb80dbba99227e838ba3",
+      "origin": "ai"
+    },
+    "dataList[key=Q1031].title": {
+      "pl": "Opuść 1. piętro",
+      "kr_sha256": "7314646f6ca50c217f172ce3e11708ac708c86d65d90a6a7f66a1256a5460864",
+      "en_sha256": "832c260ea026500be7cf2295e61fe0be63273cf08f1710371cf9c161ab6f5fcc",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].description": {
+      "pl": "Spotkaliśmy Dubois, który rozmawiał z nami już ostatnio. Nie ma jednak czasu na długie rozmowy. Szybko udamy się na kolejne piętro.",
+      "kr_sha256": "d64ee7364a7cf9f59a7db572cb8e6b26cb8eef0d43a20953f875c6d0f6607ed7",
+      "en_sha256": "b7e19bb75b25969537089b34c500695516ae58022141456a98aa05a34cc4c700",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].steps[#0].goalDescription1": {
+      "pl": "Wjedź schodami ruchomymi na 2. piętro",
+      "kr_sha256": "69d64cb0259c401df063ad93828bf183bb6c5c5a468a393832bd09b6d933e6cb",
+      "en_sha256": "a1026418f8404d0f2efc1659041fb6f561fd688c2a47b090503126bb34430172",
+      "origin": "ai"
+    },
+    "dataList[key=Q1064].title": {
+      "pl": "Wjedź schodami ruchomymi na 2. piętro",
+      "kr_sha256": "69d64cb0259c401df063ad93828bf183bb6c5c5a468a393832bd09b6d933e6cb",
+      "en_sha256": "a1026418f8404d0f2efc1659041fb6f561fd688c2a47b090503126bb34430172",
+      "origin": "ai"
+    }
+  }
+}
