@@ -95,6 +95,30 @@
       "kr_sha256": "e3ff65f113edf3741e9a0f7a6a72b8b12e7073b938edcb62978a3d6dae098246",
       "en_sha256": "0581df0aafa20368d7fdbec7fed1f8ab595a6ac72faaf38c0e98f0686659f8fb",
       "origin": "ai"
+    },
+    "dataList[id=400029].desc": {
+      "pl": "Tożsamość ??? Meursaulta",
+      "kr_sha256": "d3ea5150b0c009ab49597c8d13bd4375132de2b5879e7978404e35ec15712b40",
+      "en_sha256": "526f93a04f913acb8b81c556e4cf2a6db6995defc496486d21d966b52ea470b6",
+      "origin": "ai"
+    },
+    "dataList[id=400029].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=400029].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=400029].title": {
+      "pl": "Grzesznik Grupy Penglów",
+      "kr_sha256": "93f4e6488570d9ac0100376ba007299eba329d6e809538322d99e40c66c79bf6",
+      "en_sha256": "69c0d4d20a97eec459e33080764a7b7db6f1db74d559abadf13cd500f6d7b55c",
+      "origin": "ai"
     }
   }
 }

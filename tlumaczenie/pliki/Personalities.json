@@ -1559,6 +1559,396 @@
       "kr_sha256": "452da4687aa4f242210d6944fe936ba60bb62a8d169938d9a37402eeb40d1175",
       "en_sha256": "642d7f373caab636b49be8ead8dd2b6c273ecf79e35047ff9250e7c7cfb9f623",
       "origin": "ai"
+    },
+    "dataList[id=10501].desc": {
+      "pl": "Pierwsza Tożsamość Meursaulta",
+      "kr_sha256": "04e81c5cdfdceebd6a167fbfe813df9d863178f0a226e9d834b943d9c14ce10e",
+      "en_sha256": "6fbe12ae10cac5862a91b8ba95d0c8a88720c2b9a590aa704eff7da64443a438",
+      "origin": "ai"
+    },
+    "dataList[id=10501].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10501].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10501].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10502].desc": {
+      "pl": "Druga Tożsamość Meursaulta",
+      "kr_sha256": "f5fe1e598327c3b9498d0deb3afde844e746635960daa3101dad490d021b3e7a",
+      "en_sha256": "ce3f4c4c5e26082e4a089adc37e3963607e1922d7d548eeebb62298db13fa73c",
+      "origin": "ai"
+    },
+    "dataList[id=10502].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10502].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10502].title": {
+      "pl": "Południowe Stowarzyszenie Liu\nSekcja 6",
+      "kr_sha256": "e93bec226e838b0e729b643a795b9b4d1abf575020bec22c5be5021b7482da2c",
+      "en_sha256": "e505453e45fd3e0b2a65cc6bd0e2cdc060cf6fe379ccea26c40c9bae039b3f85",
+      "origin": "ai"
+    },
+    "dataList[id=10503].desc": {
+      "pl": "Trzecia Tożsamość Meursaulta",
+      "kr_sha256": "5d2148a74ae80153adb4c0866b3305614d5b7cb32e2cb2d5447aca88bc5bf2c6",
+      "en_sha256": "31ca6276b274e3972093d8efd2d6e9a2fcd8b82296669f2f1d1c7c3c2c1c4fc7",
+      "origin": "ai"
+    },
+    "dataList[id=10503].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10503].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10503].title": {
+      "pl": "W Corp. L2\nAgentka Oczyszczania",
+      "kr_sha256": "9e2971fe561e01493b1b73bd02a678d19778a15ee89f98289cda1c42042cddee",
+      "en_sha256": "8d8e43b8ef3f462c4db23cd5ba630c84ce445c6e493b4dd46f814b5d720cdc2e",
+      "origin": "ai"
+    },
+    "dataList[id=10504].desc": {
+      "pl": "Czwarta Tożsamość Meursaulta",
+      "kr_sha256": "48bf63f21fddd63082de3707ee8ad1520b5672c1be06f71e1b4703a12cb43039",
+      "en_sha256": "ad3a459d06008dd402d69e4dbed0bfab27514c7b54bcf56f256d4c316632640c",
+      "origin": "ai"
+    },
+    "dataList[id=10504].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10504].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10504].title": {
+      "pl": "N Corp.\nWielki Młot",
+      "kr_sha256": "b5575529e69f118e81ec3ef396a5b79a250dd8b9e4ad50f74f0ef6a841165ca2",
+      "en_sha256": "1c862981c3ace3338f8b29ee3209a94edcb285c13d340641da81e7c9c75a313c",
+      "origin": "ai"
+    },
+    "dataList[id=10505].desc": {
+      "pl": "Piąta Tożsamość Meursaulta",
+      "kr_sha256": "a304da09e1064e7be46c84f653806da50cfe197a8b13fb89ab2aa3dc16630e85",
+      "en_sha256": "3d61ff041d35a076e9683f45ee6552c375e994229729c229bea7366f8d753c2c",
+      "origin": "ai"
+    },
+    "dataList[id=10505].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10505].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10505].title": {
+      "pl": "Warsztat Różanego Klucza\nFikser",
+      "kr_sha256": "c2927098384cc3360286ce4b3245f6901292463398b0cceab65d2f8f3f6e773a",
+      "en_sha256": "930ebd8481cd7b9759d9249ff93a7c1347ce600677820cee8b7e7854b519b206",
+      "origin": "ai"
+    },
+    "dataList[id=10506].desc": {
+      "pl": "Szósta Tożsamość Meursaulta",
+      "kr_sha256": "c98d93af38ce07a70908ba4bbe31b480be97ef99f3dbe089a72a00f734482743",
+      "en_sha256": "84f740ae160a501584022219fe37842399d58a0daa5613c15288e6c31a1427a8",
+      "origin": "ai"
+    },
+    "dataList[id=10506].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10506].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10506].title": {
+      "pl": "R Corp. 4 Pack\nOddział Nosorożców",
+      "kr_sha256": "458f70bff0d88d2268e02e38506cddfec899f615a390efb8c4fd967857a176bd",
+      "en_sha256": "4cf7e1dc2bcba6bb0ffc88574d8722fbe2c667a3b76cfc4a7d5cc110297b99a2",
+      "origin": "ai"
+    },
+    "dataList[id=10507].desc": {
+      "pl": "Siódma Tożsamość Meursaulta",
+      "kr_sha256": "de7a36a17b67cb4579c7bcc26528fb9129113f6dde46490c50ba9568af46a6da",
+      "en_sha256": "5e5d22036decbae4207998cf20e2207ca8fd8afcad61bd1ac6c7cb1d31df83c4",
+      "origin": "ai"
+    },
+    "dataList[id=10507].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10507].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10507].title": {
+      "pl": "Środkowego\nMłodszy Brat",
+      "kr_sha256": "c854e0390c031e4227b409a31984fe3243606b99d7251e6a8036a6d2ddda5de3",
+      "en_sha256": "264c3dca7ef51d02939017f5542ad9f74e774a88e5e7846da7396fcd085537e5",
+      "origin": "ai"
+    },
+    "dataList[id=10508].desc": {
+      "pl": "Ósma Tożsamość Meursaulta",
+      "kr_sha256": "7e11a80de8acbd3b64fa83a64e4b18dd86f36130806f4cfcd25ce7dd6d4feaaa",
+      "en_sha256": "a69afb1ae7f066eafa4c712d89a622d80e1938e8f1f0e6dee7a0e9702c671439",
+      "origin": "ai"
+    },
+    "dataList[id=10508].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10508].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10508].title": {
+      "pl": "Ród Ostrza\nMentor",
+      "kr_sha256": "c144d9d4f09f29b4b9f2f3939f150118dc7707383b2ee3cd1802bcc37de29155",
+      "en_sha256": "9d15b772b00c37909a2b8072f6e897bffeb98933e57d541d9c23e0508d7ecccd",
+      "origin": "ai"
+    },
+    "dataList[id=10509].desc": {
+      "pl": "Dziewiąta Tożsamość Meursaulta",
+      "kr_sha256": "1e57b3fe93b28042d334e62ebdb450dfc3eb69372f6b400932cc2df83f3dca1b",
+      "en_sha256": "7966e02a705f0c5ccef633127a1fa570d6b0d905b4c75c0f210ee533448e11b5",
+      "origin": "ai"
+    },
+    "dataList[id=10509].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10509].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10509].title": {
+      "pl": "Martwe Króliki\nSzef",
+      "kr_sha256": "08d209231d8216fbc51bddb7d3077babfb4457ecb099bd656b063ebc5914370a",
+      "en_sha256": "605fce8319536ed8d060d59c55058f5f22f92ac6ab5870406c0606d2b7b42c8d",
+      "origin": "ai"
+    },
+    "dataList[id=10510].desc": {
+      "pl": "Dziesiąta Tożsamość Meursaulta",
+      "kr_sha256": "94df125a6a04944065d25a1d93624d2fc38ea81f3b50680f869dc3767ae55d3d",
+      "en_sha256": "e809117bd1b4ada8a24f9ee6752648b560726c430220fe6ed4af8b72ddb56297",
+      "origin": "ai"
+    },
+    "dataList[id=10510].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10510].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10510].title": {
+      "pl": "Południowe Stowarzyszenie Dieci\nDyrektor Sekcji 4",
+      "kr_sha256": "1712c3dfd938db4c2b2fa146b2a6c06daaea9b93f691957563632170b47c208a",
+      "en_sha256": "f56616527e78a85a88cbcfc33cd3e407a361839c2289d0d196b1ec8265f8ef6b",
+      "origin": "ai"
+    },
+    "dataList[id=10511].desc": {
+      "pl": "Jedenasta Tożsamość Meursaulta",
+      "kr_sha256": "df7ec52b5503000e2595194a2d391a5c31100d9a0d22db5597644a96cfb6d234",
+      "en_sha256": "cc27fbb0b080c8ce4372a834646679975f95a6ae116117f53a43e767a82d382e",
+      "origin": "ai"
+    },
+    "dataList[id=10511].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10511].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10511].title": {
+      "pl": "Zachodnie Stowarzyszenie Cinq\nSekcja 3",
+      "kr_sha256": "486c28e5f15fc086e35804ab1b61942415a4362fcb4154e6d7a9dee1fc676257",
+      "en_sha256": "32e359a4505e0e61b60a6f8a43f6b680c5322f77bebbcdb18ccca4f5a7387029",
+      "origin": "ai"
+    },
+    "dataList[id=10512].desc": {
+      "pl": "Dwunasta Tożsamość Meursaulta",
+      "kr_sha256": "9bfd67b0fa61036e17da3f5538beae45f898a0a936220d0d331848f11e0449c9",
+      "en_sha256": "2e31d815c5505c24bb514d41fb1b9276697834a2eb292ca0fd25cbfda3c303aa",
+      "origin": "ai"
+    },
+    "dataList[id=10512].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10512].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10512].title": {
+      "pl": "Kciuk ze Wschodu\nCapo IIII",
+      "kr_sha256": "8714e90f6c81555210155f342bbd43330a948d6d9b46be77060bbbe74e3dee7e",
+      "en_sha256": "c9af0086919b334437f78ef75ef7baa31c7bbc421daf7edb581fd29761405133",
+      "origin": "ai"
+    },
+    "dataList[id=10513].desc": {
+      "pl": "Trzynasta Tożsamość Meursaulta",
+      "kr_sha256": "bca35edf26c330637fdd42a39b7a1fc08d1fad3f4c90050236ee4c9361aa8313",
+      "en_sha256": "52bc511d9cf66b8b85968bf7f84a9447b975d550f96af511f67af600a2f79659",
+      "origin": "ai"
+    },
+    "dataList[id=10513].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10513].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10513].title": {
+      "pl": "Książę\nLa Manchalandu",
+      "kr_sha256": "18135c636397204c6c2efc5dc16851cac255d1d57cded85dac82108fc9be5414",
+      "en_sha256": "ce2dbbc6266ad2f5281e8bcab540bc621d678e3e4ce1f1919c5767583399b755",
+      "origin": "ai"
+    },
+    "dataList[id=10514].desc": {
+      "pl": "Czternasta Tożsamość Meursaulta",
+      "kr_sha256": "a8af33d89f5230114f10c9d3ed4b79b11b9e90b6a622cd7391322ae5708fc07f",
+      "en_sha256": "f3eec684446aac94e74a6c396f48e2fd35a5aaf9f775fa197416dfe9681fe878",
+      "origin": "ai"
+    },
+    "dataList[id=10514].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10514].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10514].title": {
+      "pl": "Lobotomy E.G.O::\nHornet 【Zmodyfikowany】",
+      "kr_sha256": "027adab91abeb2d6424c8946ab2d359d94b6c8f2cecab1ff35fdf65c2de57318",
+      "en_sha256": "cc5ec7ea41e5092e7253a83cb770e681b091231293b9a509063eb641427698af",
+      "origin": "ai"
+    },
+    "dataList[id=10515].desc": {
+      "pl": "Piętnasta Tożsamość Meursaulta",
+      "kr_sha256": "898fca1e2697a6f1488f6cefdaf1ee7897c1bfca7b86ac6e9363cd509a6f6204",
+      "en_sha256": "40499c0f3012333c5095eb1169a39a26046f06679f8ddc8b42db008e29dee576",
+      "origin": "ai"
+    },
+    "dataList[id=10515].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10515].nameWithTitle": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=10515].title": {
+      "pl": "Ringu Fauwista\nStudent",
+      "kr_sha256": "d2d77d878f9ef2780e387244ad9ed7a2dffa4775e6199cddb5f76e3e08fc63f6",
+      "en_sha256": "1cf6b3189ecb073c5ba2b79931a093039ff3e470d84828cd8891e97bde3bc7a5",
+      "origin": "ai"
+    },
+    "dataList[id=40501].desc": {
+      "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
+      "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",
+      "en_sha256": "44597063de8a455f141dfd3bb224a47b8b47678ebb39c902713f2ccf549ae539",
+      "origin": "ai"
+    },
+    "dataList[id=40501].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=40501].skinItemDesc": {
+      "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
+      "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",
+      "en_sha256": "44597063de8a455f141dfd3bb224a47b8b47678ebb39c902713f2ccf549ae539",
+      "origin": "ai"
+    },
+    "dataList[id=40501].skinItemTitle": {
+      "pl": "[Fasadowe] Nocne Pożegnanie z Domem",
+      "kr_sha256": "5780c48868c6548ec21e1442a2ff5f126af059f19d0da71ddd0fa8f29b01be5f",
+      "en_sha256": "f01fc4afa9e161f5992e6fe36d867d1c4d0362b812f28c338aa72d31b4a2a8c1",
+      "origin": "ai"
+    },
+    "dataList[id=40501].title": {
+      "pl": "Nocne Pożegnanie z Domem",
+      "kr_sha256": "36115ba0f54c5b02332dae296c1f4a00475ed3390423d0e4e8bef1465019fdae",
+      "en_sha256": "4e550277ab541cad5bb19fc2e6c8d5fe5eec5c82c44be230a7db7b110f783817",
+      "origin": "ai"
     }
   }
 }

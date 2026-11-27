@@ -23,6 +23,12 @@
       "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
       "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
       "origin": "ai"
+    },
+    "dataList[id=5].name": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
     }
   }
 }

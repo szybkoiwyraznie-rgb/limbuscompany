@@ -95,6 +95,30 @@
       "kr_sha256": "185b8fe076d737689c061568afe5584a9572f412c4d0d4bc0305701a1e70b8ce",
       "en_sha256": "69da17fe8c258c98c36420dcbb904d23f0bc55c6e0ace233be920092a342b3e6",
       "origin": "ai"
+    },
+    "dataList[id=40002901].desc": {
+      "pl": "Na początku walki przy HP poniżej 50% zyskuje 1 Ochrony",
+      "kr_sha256": "9b5efdfcb636d933438b9303b8c9c428cc3e94962bac4ff23daac8cbed79aed8",
+      "en_sha256": "4be684aee0939577b66df562af321e21e6eaa4a5bfe5881dc27117cd13b4f5e9",
+      "origin": "ai"
+    },
+    "dataList[id=40002901].name": {
+      "pl": "Stawchnesh",
+      "kr_sha256": "04a64299a2f5ce5214aa4b0c0afce8818ac7153a159c518c4b7f59de6e70f0a9",
+      "en_sha256": "4ac519d23194c3e31907b51af2dd2a45ab09da5e9d19569ec18b6eb07fb538a8",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].desc": {
+      "pl": "1 Sojusznik z najwyższym Maks. HP otrzymuje -10% obrażeń od Umiejętności ataku.",
+      "kr_sha256": "476a2c8e64566d5ecec1eb7a106f6976b386018f93524269a096eab607aa0128",
+      "en_sha256": "f77a358f0dd1ab00793566701802a67b31bbf82afa817271c0d2be38f5aa08e7",
+      "origin": "ai"
+    },
+    "dataList[id=40002902].name": {
+      "pl": "Backap",
+      "kr_sha256": "e3657a075177d461893d35d06fe876179735b267e168f787cf6378a13885c7ab",
+      "en_sha256": "fb0d85ae47540b3f1c31fe0bd0aafb403d28fe05cdd2acc456a191f159975b9e",
+      "origin": "ai"
     }
   }
 }
