@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=40003701].desc": {
+      "pl": "Rozpoczyna etap z [HeatingWireOffSpider]\n\nPoczątek tury: przy 2+ [ReinforcedTattooSpiderDaughterTwo] [HeatingWireOffSpider] zmienia się w [HeatingWireOnSpiderTwo], a Umiejętności nakładające [Laceration] nakładają dodatkowo [Combustion]",
+      "kr_sha256": "503b38be3f913d1c69f9ecfff4f260719db0c3501c3613be12afdba4bcf00d68",
+      "en_sha256": "4e9478dbfbfc55756c64ffca47d84d2570572ba57ad7e001d5be9294be7107e0",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].name": {
+      "pl": "Broń Termiczna",
+      "kr_sha256": "48fa4d2dc95ec7b778b43cd99f98dbbd2d0f9b47a92f976ea46ad1782469a3f4",
+      "en_sha256": "c4cd00c4cd9f0f3438d39ad12ee976ab12c2ddc21d94853dd0d9ea3a73a2070a",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].desc": {
+      "pl": "Jeżeli ta jednostka trafiła więcej niż 2 Umiejętnościami, zyskuje 1 [ReinforcedTattooSpiderDaughterTwo] za każdą nadwyżkową Umiejętność, która trafiła",
+      "kr_sha256": "834dbcd016a001ee488a661a4dafa50a5d311eb08f37df3fb5a6bc2e9d629846",
+      "en_sha256": "43045cf6739f284ba6e8cafff33ad01a32630e406174d325e485008e343d1ded",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].name": {
+      "pl": "<s>Środkowy</s>",
+      "kr_sha256": "bb264b238a28ba4316fac56b1f0645c01b16e3489a4d130805055b4ab0f3abf3",
+      "en_sha256": "eff1e80774463cf4a34d1f7a0b66b85e24cf6ddc196d5adaf45a42b5efc69dd5",
+      "origin": "ai"
+    },
+    "dataList[id=40003703].desc": {
+      "pl": "Po trafieniu Umiejętnością zyskuje 2 [ResentmentSpiderDaughterTwo] (1 raz na Umiejętność)\n\nGdy trafiony zostaje sojusznik, zyskuje 1 [ResentmentSpiderDaughterTwo] (1 raz na Umiejętność)\n\nPrzy maksymalnym stosie [ResentmentSpiderDaughterTwo] używa potężnego ataku\n\nKoniec tury: przy HP niższym niż 80% / 60% / 40% zdobywa [ResentmentSpiderDaughterTwo] do maksimum",
+      "kr_sha256": "e895c750ab22e8b76f1d48b1343c47bf67963fae0052e7276f2806f0abfdb3e3",
+      "en_sha256": "5d6e671eba63dc955d19f4e9f60f24a7c82e74abb591c6a3be8d57c06995c2a8",
+      "origin": "ai"
+    },
+    "dataList[id=40003703].name": {
+      "pl": "Uraza",
+      "kr_sha256": "0e23f48c859b2ac21f0cb7ccff4c7df88fd6c0b5570d807f016274f12929f61a",
+      "en_sha256": "f41301f3b74a299a0c33f1fb11fd10d4d1ad92bcfcb81c9f62df05cf8d95b6aa",
+      "origin": "ai"
+    }
+  }
+}

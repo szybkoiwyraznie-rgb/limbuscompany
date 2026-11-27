@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=Choice_901070401].content": {
+      "pl": "Zyskaj <color=#f8c200>2 zasoby E.G.O Gniewu</color>\nZyskaj <color=#f8c200>2 zasoby E.G.O Pychy</color>",
+      "kr_sha256": "3011f1f68a38f5531e6d7961717b9d4def12115c3f19caa9a87437bba17b44c1",
+      "en_sha256": "65954369f7ca5dbe69a7636765d438a63b9f183494c327e7a928c185bdaef268",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901070402].content": {
+      "pl": "Zyskaj <color=#f8c200>2 zasoby E.G.O Żądzy</color>\nZyskaj <color=#f8c200>2 zasoby E.G.O Obżarstwa</color>",
+      "kr_sha256": "c66e5ff8ed7b23be5071341ea9d7ecb3f51c9e56a9f0432232b621b2cc7faaca",
+      "en_sha256": "d300c65e9020fa39887474d1e2c5cf6bafdf91bef1e2b6f00db3788a860859fc",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901070403].content": {
+      "pl": "Zyskaj <color=#f8c200>2 zasoby E.G.O Posępności</color>\nZyskaj <color=#f8c200>2 zasoby E.G.O Zawiści</color>",
+      "kr_sha256": "d1f6143c4dd37b855978475381d9cd0122a579d14c382fabf82fd1157f3b4d42",
+      "en_sha256": "999b7f5c3aec6734a612e4189fa8e48bc8796e16f9dd6540a2e036a538ae71bd",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901070404].content": {
+      "pl": "Wszyscy Grzesznicy zyskują <color=#e30000>4 Licznik Rozdarcia</color> na początku następnej walki",
+      "kr_sha256": "aa6476380f42c9920502b00d03f5d98392e494a1ed7fd1994d78b0b7fbb46ada",
+      "en_sha256": "b38a7d12387d3611867b87f3be23406f53989422ac8d3ed9e1969c99ec722d8f",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901070405].content": {
+      "pl": "Wszyscy Grzesznicy zyskują <color=#e30000>4 Rozdarcia i 4 Licznik Rozdarcia</color> na początku następnej walki",
+      "kr_sha256": "c8293b12ad5905d7e1eb4263963b861bb71edd36d4c887a78936920d9b4c9b66",
+      "en_sha256": "91c3b79fcc5b6b8b97a3ce1f7a21073b0a8145cdfb72b64ee327f74eaf3d1afd",
+      "origin": "ai"
+    },
+    "dataList[id=LoseRatioHpOnly].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>zadano {amount}% HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "509dc17578977e10e1d68b6df6a876b6974b44e428b0f7d663659b604bde0f9e",
+      "en_sha256": "23db65ebc00f66878682bcd69ce3def1008408ac40900fa664ebf8ae9df96e5f",
+      "origin": "ai"
+    }
+  }
+}

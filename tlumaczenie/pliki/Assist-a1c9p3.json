@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=40000701].desc": {
+      "pl": "Część Alyssa",
+      "kr_sha256": "3fd4391e2dd9c35ee3d42efb5c591482bdecfd6bd5960fb1be3dc2d29545f85d",
+      "en_sha256": "af73d98b9a7abbe655e2a95229470adfcf6924c3a5252632a5110cb1ce4ea043",
+      "origin": "ai"
+    },
+    "dataList[id=40000701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400007].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400007].name": {
+      "pl": "LCE E.G.O::Ardor Blossom Star Alyssa",
+      "kr_sha256": "754f20093508e25e5230aa251278d6b7a3d54f0cd5fe3d6a6f345242888bd02a",
+      "en_sha256": "2bc09efecded76456b0ba876321c37a81363f8b84a5263b7ed0bda9042e8a014",
+      "origin": "ai"
+    },
+    "dataList[id=40000801].desc": {
+      "pl": "Część Hohenheim",
+      "kr_sha256": "09f46bedc648768c8d1e34c021e529837c9c275a09d083b377204bdbc5e00ac5",
+      "en_sha256": "0ee700d1e19e9bc45e0ae088e950a829353305a529b843294f0b8c6236b98e30",
+      "origin": "ai"
+    },
+    "dataList[id=40000801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400008].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400008].name": {
+      "pl": "Lobotomy E.G.O::Lamp Hohenheim",
+      "kr_sha256": "7bb09278c3b355162ad8dc82686b0177b6496b5eeb638117f5800f0a75855573",
+      "en_sha256": "d38381d1bbf6dc41a8466fee2f10e1dc95698263562a4ef3aa182552914cb1f5",
+      "origin": "ai"
+    },
+    "dataList[id=40000901].desc": {
+      "pl": "Część Vespa",
+      "kr_sha256": "e493f3a6bd5fe51fbc53337e9c7331a6cfea5fde7414874aa3a22f07feb87378",
+      "en_sha256": "7f415735008fa447f1cb98c9da8f37115363660c1b55492c9178bda26015bb51",
+      "origin": "ai"
+    },
+    "dataList[id=40000901].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400009].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400009].name": {
+      "pl": "Vespa",
+      "kr_sha256": "650ec3dd4e334c3461950dac160a279cf9ac4b2e886be9c4195bd6af5b719c1e",
+      "en_sha256": "8fcdf27226dd311b4aa9f9287cfb6a016c9fcce263fa5885e421a3ee7ae8c244",
+      "origin": "ai"
+    },
+    "dataList[id=40001001].desc": {
+      "pl": "Część Moses",
+      "kr_sha256": "0e4e8db255a7b8450793eab20ec271b615446cfebadb8e23f831d879f54c31f9",
+      "en_sha256": "e711077af7a1cc1853a1fdaa48268fce6460f9deece776928d3dacf1e7092b3a",
+      "origin": "ai"
+    },
+    "dataList[id=40001001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400010].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400010].name": {
+      "pl": "Moses",
+      "kr_sha256": "e424d2a5beca25a0314212542ecf09343a6ec341fe4ea233adb9ab664217409f",
+      "en_sha256": "b4b140c9d039ca28bdf9ca1b7954efcb323392701020fe1a3087e0ff3f248632",
+      "origin": "ai"
+    },
+    "dataList[id=40001101].desc": {
+      "pl": "Część Ezry",
+      "kr_sha256": "585ee0e80bc571e220240518aa59f733ada113c6dcdaee123958ce0076e824ef",
+      "en_sha256": "6f4b7cf00cf705c47837b6ca049e3f4538bff2ca415c26e0facdf1cbdbe58ab4",
+      "origin": "ai"
+    },
+    "dataList[id=40001101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400011].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400011].name": {
+      "pl": "Ezra",
+      "kr_sha256": "d14a482625c04932ab8e10ddd6465726d7150f3a3481bffd58e0631786cef84e",
+      "en_sha256": "70f4fac203ef8065e981bc569deff09c1abf87cfd837e3e88dab5d19317f25a6",
+      "origin": "ai"
+    },
+    "dataList[id=40001301].desc": {
+      "pl": "Część A Certain Sinclair",
+      "kr_sha256": "2684a6c165b3f908c2109894d9011f303f2bef20752692083b9b48c015aa3736",
+      "en_sha256": "92422e3a78a1ea16e8b4cd3937f4b81fa90c45d9500798241682cfcb75b0c0aa",
+      "origin": "ai"
+    },
+    "dataList[id=40001301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400013].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400013].name": {
+      "pl": "A Certain Sinclair",
+      "kr_sha256": "59293ef73584585038a8016979f8a4a02f59b7709d35d376bfd4321f34513ded",
+      "en_sha256": "e90331de9f8c0e59957fca00dcf9879cc4d99f93a93e6bd29f91045b4ca25d73",
+      "origin": "ai"
+    },
+    "dataList[id=40001501].desc": {
+      "pl": "Część Ryošū",
+      "kr_sha256": "83a7af63db2efad0bcbb0f11a97119c52b41a85cab43a856c59b65f975c13358",
+      "en_sha256": "33f70646b9a9abbb6de9f7bc4863e90bcc643de8fb30d239070188f04e78f09f",
+      "origin": "ai"
+    },
+    "dataList[id=40001501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400015].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400015].name": {
+      "pl": "Muga Ryošū",
+      "kr_sha256": "4f952e046e561ee3d4b997df35e8122a7d8a240d0243bcb0edf3ca9585d67772",
+      "en_sha256": "747cc83e48291e8bad1d9ee183a3908b26d5c0c095db459a59db4789bb15d84b",
+      "origin": "ai"
+    }
+  }
+}

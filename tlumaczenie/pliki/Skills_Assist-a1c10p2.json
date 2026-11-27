@@ -1,0 +1,700 @@
+{
+  "entries": {
+    "dataList[id=40004101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=1].desc": {
+      "pl": "[WhenUse] za każde 4 [Laceration] celu Moc Bazowa +1 (maks. 2)",
+      "kr_sha256": "16045137f58a827f88b93c7e0a1050d8fc97faf4c046557dfcda9949ae99b4b9",
+      "en_sha256": "89684b6d4e42a38185fd5b580416485f2ca7c3b91a0264d33cad18d28113331e",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=1].name": {
+      "pl": "Crimson Nail",
+      "kr_sha256": "afe29c4617356ef7d6c6e6c43f1251cbc9d2f748aef2358650eb765af201c45f",
+      "en_sha256": "e3c38ff58e7171069703fe693624a3eb19600ac328b493c8d2d4d44f56378493",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] za każde 2 Siły [ChargeRouge] tej jednostki nakłada 1 [BloodyMucusAlly] (maks. 2)",
+      "kr_sha256": "4de77f42b344f1436871e14494f910fbf6578addc166bc4ef9a83845c33adcdb",
+      "en_sha256": "436f76bb9c4abdaa09fb9aa5f70585a721b212086a80d6cd340020cbd06a7e33",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Przeciw jednostkom bez SP zadaje +50% obrażeń",
+      "kr_sha256": "22925ec33a2500328d150f8c4dd31ac7cfac5abcc083a6b115a84cd93e1bd8b6",
+      "en_sha256": "1426d12891da1dc1d71469bb3364c66f303cfcbc51b2d350369c7942e3518252",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] cel traci 10 SP",
+      "kr_sha256": "0bb31fde828c0c78bf1f0c6949ecd8d72168af8190f0842ec1b00bb800cf3833",
+      "en_sha256": "e4c523e2dc421629e2ea4f159a008e4e0e10c055936fe590a86365ddcd275818",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].desc": {
+      "pl": "[WhenUse] za każde 4 [Laceration] celu Moc Bazowa +1 (maks. 2)",
+      "kr_sha256": "16045137f58a827f88b93c7e0a1050d8fc97faf4c046557dfcda9949ae99b4b9",
+      "en_sha256": "89684b6d4e42a38185fd5b580416485f2ca7c3b91a0264d33cad18d28113331e",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=2].name": {
+      "pl": "Crimson Nail",
+      "kr_sha256": "afe29c4617356ef7d6c6e6c43f1251cbc9d2f748aef2358650eb765af201c45f",
+      "en_sha256": "e3c38ff58e7171069703fe693624a3eb19600ac328b493c8d2d4d44f56378493",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] za każde 2 Siły [ChargeRouge] tej jednostki nakłada 1 [BloodyMucusAlly] (maks. 2)",
+      "kr_sha256": "4de77f42b344f1436871e14494f910fbf6578addc166bc4ef9a83845c33adcdb",
+      "en_sha256": "436f76bb9c4abdaa09fb9aa5f70585a721b212086a80d6cd340020cbd06a7e33",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Przeciw jednostkom bez SP zadaje +50% obrażeń",
+      "kr_sha256": "22925ec33a2500328d150f8c4dd31ac7cfac5abcc083a6b115a84cd93e1bd8b6",
+      "en_sha256": "1426d12891da1dc1d71469bb3364c66f303cfcbc51b2d350369c7942e3518252",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] cel traci 10 SP",
+      "kr_sha256": "0bb31fde828c0c78bf1f0c6949ecd8d72168af8190f0842ec1b00bb800cf3833",
+      "en_sha256": "e4c523e2dc421629e2ea4f159a008e4e0e10c055936fe590a86365ddcd275818",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BuffetGold]",
+      "kr_sha256": "d171603f3f2f5455b8bf39f63e77796391b76cb35efe91ff616481c9817660c3",
+      "en_sha256": "96732168e089bf07b228b8dac8d10d64c84733e1686794af22d462b6ebab6950",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].desc": {
+      "pl": "[WhenUse] za każde 4 [Laceration] celu Moc Bazowa +1 (maks. 2)\n[WhenUse] jeżeli ta jednostka ma wyższą Poczytalność niż cel albo cel nie ma SP, Moc Monety +1",
+      "kr_sha256": "5e9eebdf0b81398b39f1f6be75450e636979e851d0d15eec15105ff238f95db8",
+      "en_sha256": "433b506f3b5f07d161be428587f7f0c1d4ee9eb228c1ad66b72c90c01f90ea78",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].levelList[level=3].name": {
+      "pl": "Crimson Nail",
+      "kr_sha256": "afe29c4617356ef7d6c6e6c43f1251cbc9d2f748aef2358650eb765af201c45f",
+      "en_sha256": "e3c38ff58e7171069703fe693624a3eb19600ac328b493c8d2d4d44f56378493",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=1].desc": {
+      "pl": "[WhenUse] za każde 4 [Laceration] celu Moc Monety +1 (maks. 2)",
+      "kr_sha256": "250e45058663ae303af4a86c7097fa53ccaa5dc9e4e67831f5a49acbf7447fba",
+      "en_sha256": "47171446ce9c34412c2f311cc08b4e9aa60f56e85941ca4524a2d41f7c602b8a",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=1].name": {
+      "pl": "Go Away",
+      "kr_sha256": "5954fc01329ab1a0f29119815c94d29b1e3e90f89bf4c0ad6e06eacd5eb1bd8f",
+      "en_sha256": "6069f6dc7e274333abfcc739ba60ef18ba1c6f6db14fa35359d18f8fc4f6351b",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] za każde 2 Siły [ChargeRouge] tej jednostki nakłada 1 [BloodyMucusAlly] (maks. 2)",
+      "kr_sha256": "4de77f42b344f1436871e14494f910fbf6578addc166bc4ef9a83845c33adcdb",
+      "en_sha256": "436f76bb9c4abdaa09fb9aa5f70585a721b212086a80d6cd340020cbd06a7e33",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] za każde 2 Siły [ChargeRouge] tej jednostki nakłada 1 [BloodyMucusAlly] (maks. 2)",
+      "kr_sha256": "4de77f42b344f1436871e14494f910fbf6578addc166bc4ef9a83845c33adcdb",
+      "en_sha256": "436f76bb9c4abdaa09fb9aa5f70585a721b212086a80d6cd340020cbd06a7e33",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].desc": {
+      "pl": "[WhenUse] za każde 4 [Laceration] celu Moc Monety +1 (maks. 2)\n[WhenUse] za każde 2 Siły [ChargeRouge] tej jednostki Waga Ataku +1 (maks. 2)",
+      "kr_sha256": "37883ebe6ca3b01e33530aaa1c3aca460fce77388f4f5961a58eb5b10e647763",
+      "en_sha256": "028aa55f8f880776a87557d67a3f527205c1b235e2cec72de1488fb03d946763",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=2].name": {
+      "pl": "Go Away",
+      "kr_sha256": "5954fc01329ab1a0f29119815c94d29b1e3e90f89bf4c0ad6e06eacd5eb1bd8f",
+      "en_sha256": "6069f6dc7e274333abfcc739ba60ef18ba1c6f6db14fa35359d18f8fc4f6351b",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] za każde 2 Siły [ChargeRouge] tej jednostki nakłada 1 [BloodyMucusAlly] (maks. 2)",
+      "kr_sha256": "4de77f42b344f1436871e14494f910fbf6578addc166bc4ef9a83845c33adcdb",
+      "en_sha256": "436f76bb9c4abdaa09fb9aa5f70585a721b212086a80d6cd340020cbd06a7e33",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BuffetGold]",
+      "kr_sha256": "d171603f3f2f5455b8bf39f63e77796391b76cb35efe91ff616481c9817660c3",
+      "en_sha256": "96732168e089bf07b228b8dac8d10d64c84733e1686794af22d462b6ebab6950",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] za każde 2 Siły [ChargeRouge] tej jednostki nakłada 1 [BloodyMucusAlly] (maks. 2)",
+      "kr_sha256": "4de77f42b344f1436871e14494f910fbf6578addc166bc4ef9a83845c33adcdb",
+      "en_sha256": "436f76bb9c4abdaa09fb9aa5f70585a721b212086a80d6cd340020cbd06a7e33",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BuffetGold]",
+      "kr_sha256": "d171603f3f2f5455b8bf39f63e77796391b76cb35efe91ff616481c9817660c3",
+      "en_sha256": "96732168e089bf07b228b8dac8d10d64c84733e1686794af22d462b6ebab6950",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].desc": {
+      "pl": "[WhenUse] za każde 4 [Laceration] celu Moc Monety +1 (maks. 2)\n[WhenUse] za każde 2 Siły [ChargeRouge] tej jednostki Waga Ataku +1 (maks. 2)",
+      "kr_sha256": "37883ebe6ca3b01e33530aaa1c3aca460fce77388f4f5961a58eb5b10e647763",
+      "en_sha256": "028aa55f8f880776a87557d67a3f527205c1b235e2cec72de1488fb03d946763",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].levelList[level=3].name": {
+      "pl": "Go Away",
+      "kr_sha256": "5954fc01329ab1a0f29119815c94d29b1e3e90f89bf4c0ad6e06eacd5eb1bd8f",
+      "en_sha256": "6069f6dc7e274333abfcc739ba60ef18ba1c6f6db14fa35359d18f8fc4f6351b",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] nakłada 1 [ParryingResultUp]",
+      "kr_sha256": "d473fdd43389bb1105dc40e1360f326e8a13c75c54b1d0a1c07d3a681f13e063",
+      "en_sha256": "18eb4e9e5a9687a4eeca291cc3819dfe9414cbebc0fc92400d139da1a89576ea",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] za każde 1 Siły [ChargeRouge] tej jednostki nakłada 1 [AttackUp] (maks. 5)",
+      "kr_sha256": "dbd3470482e7c562597354700b05a54ad1697023bd1e8dd80df78f2b8a11c959",
+      "en_sha256": "572e1a5cc5d19a357385a23ed30dc2d778eef0d7f49664b5ae3b40ec8cd25a68",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
+      "kr_sha256": "7e340c1844fc7f4adf2cb07ac392676e11384576d3b8ddba3255350c8409ab7b",
+      "en_sha256": "7e340c1844fc7f4adf2cb07ac392676e11384576d3b8ddba3255350c8409ab7b",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=1].name": {
+      "pl": "Perk Up",
+      "kr_sha256": "9968c56518135d46b9e3c625da44a8b45063ada2d6a7f10e7f5e2f85738880b5",
+      "en_sha256": "9a839bd5c948786b5b626037a8d2e0977c86ba70857fe8a4ac3b7a70898117f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] nakłada 1 [ParryingResultUp]",
+      "kr_sha256": "d473fdd43389bb1105dc40e1360f326e8a13c75c54b1d0a1c07d3a681f13e063",
+      "en_sha256": "18eb4e9e5a9687a4eeca291cc3819dfe9414cbebc0fc92400d139da1a89576ea",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] za każde 1 Siły [ChargeRouge] tej jednostki nakłada 1 [AttackUp] (maks. 5)",
+      "kr_sha256": "dbd3470482e7c562597354700b05a54ad1697023bd1e8dd80df78f2b8a11c959",
+      "en_sha256": "572e1a5cc5d19a357385a23ed30dc2d778eef0d7f49664b5ae3b40ec8cd25a68",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=2].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] za każde 2 Siły [ChargeRouge] tej jednostki Waga Ataku +1 (maks. 2)",
+      "kr_sha256": "a34ee28a59f30c897854b80186ec93df4a849c35a51f2654198bfa0dce96530d",
+      "en_sha256": "8c4560e99b9cb614e544b405c064961804bd2711754862ebbd8801b8c4e3101b",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=2].name": {
+      "pl": "Perk Up",
+      "kr_sha256": "9968c56518135d46b9e3c625da44a8b45063ada2d6a7f10e7f5e2f85738880b5",
+      "en_sha256": "9a839bd5c948786b5b626037a8d2e0977c86ba70857fe8a4ac3b7a70898117f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] nakłada 1 [ParryingResultUp]",
+      "kr_sha256": "d473fdd43389bb1105dc40e1360f326e8a13c75c54b1d0a1c07d3a681f13e063",
+      "en_sha256": "18eb4e9e5a9687a4eeca291cc3819dfe9414cbebc0fc92400d139da1a89576ea",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] za każde 1 Siły [ChargeRouge] tej jednostki nakłada 1 [AttackUp] (maks. 5)",
+      "kr_sha256": "dbd3470482e7c562597354700b05a54ad1697023bd1e8dd80df78f2b8a11c959",
+      "en_sha256": "572e1a5cc5d19a357385a23ed30dc2d778eef0d7f49664b5ae3b40ec8cd25a68",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=3].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] za każde 2 Siły [ChargeRouge] tej jednostki Waga Ataku +1 (maks. 2)\n[EndSkill] jeżeli ta jednostka ma efekt [GourmandiseAlly], a jej Licznik [ChargeRouge] wynosi 10+, zużywa do 10 [ChargeRouge] i nakłada 1 [SkillPowerUp] na wszystkie trafione cele",
+      "kr_sha256": "96125d925576d167402f8773f07ced359bec64c1752f26649c054d9bd7af57d6",
+      "en_sha256": "3c8ee7598bf486646dd8d02e1b9de6dbda9a7810e640f5590d2d0401ae022ec3",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=3].name": {
+      "pl": "Perk Up",
+      "kr_sha256": "9968c56518135d46b9e3c625da44a8b45063ada2d6a7f10e7f5e2f85738880b5",
+      "en_sha256": "9a839bd5c948786b5b626037a8d2e0977c86ba70857fe8a4ac3b7a70898117f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] nakłada 1 [SkillPowerUp]",
+      "kr_sha256": "45c843c99cac1c89311f3fba4f9597ffd82eeb7b16867e01c2d3dcffaa968215",
+      "en_sha256": "60140f8ef419ef4e80932d10c41d039ba646c48247760811da5f3d04541eb9da",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] za każde 1 Siły [ChargeRouge] tej jednostki nakłada 1 [AttackUp] w tej i w następnej turze (maks. 5)",
+      "kr_sha256": "090b7bd1bc4247d6ef6c890f97c349d687d56bcb6733ad08954efbdbbf4b01d8",
+      "en_sha256": "4750243ad61bae7e08d3bb12d9ed37b9ba4b3c579affcaf21dc76750eff37704",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=4].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] za każde 2 Siły [ChargeRouge] tej jednostki Waga Ataku +1 (maks. 2)\n[EndSkill] jeżeli ta jednostka ma efekt [GourmandiseAlly], a jej Licznik [ChargeRouge] wynosi 10+, zużywa do 10 [ChargeRouge] i nakłada 1 [SkillPowerUp] na wszystkie trafione cele",
+      "kr_sha256": "96125d925576d167402f8773f07ced359bec64c1752f26649c054d9bd7af57d6",
+      "en_sha256": "3c8ee7598bf486646dd8d02e1b9de6dbda9a7810e640f5590d2d0401ae022ec3",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].levelList[level=4].name": {
+      "pl": "Perk Up",
+      "kr_sha256": "9968c56518135d46b9e3c625da44a8b45063ada2d6a7f10e7f5e2f85738880b5",
+      "en_sha256": "9a839bd5c948786b5b626037a8d2e0977c86ba70857fe8a4ac3b7a70898117f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] przywraca celowi HP równe (Moc Końcowa tej Umiejętności x 2)\n- jeżeli cel należy do frakcji Le Rouge, zamiast tego obniża jego HP i przywraca sobie tyle samo HP (obrażenia z tego efektu nie Oszołamiają i nie obniżają HP celu poniżej 1)",
+      "kr_sha256": "87df5f59a65c88775de71950a7ec6afc62dacb384131da1ff642d48ee4b0696e",
+      "en_sha256": "3c35fc8a2aeedf17452a992f7031222f8bc244fc4eef3a87ed6bdb59e4e73073",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
+      "kr_sha256": "7e340c1844fc7f4adf2cb07ac392676e11384576d3b8ddba3255350c8409ab7b",
+      "en_sha256": "7e340c1844fc7f4adf2cb07ac392676e11384576d3b8ddba3255350c8409ab7b",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=1].name": {
+      "pl": "Don't Get Hurty",
+      "kr_sha256": "e39c3917384a2aa167c3834f81f5ec4024b6a34383826a7780555dcce7fc80d6",
+      "en_sha256": "cacf37a67c4e351889e46e3128b33f495f3a72bd1ef7d01351633276d2487582",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] przywraca celowi HP równe (Moc Końcowa tej Umiejętności x 2)\n- jeżeli cel należy do frakcji Le Rouge, zamiast tego obniża jego HP i przywraca sobie tyle samo HP (obrażenia z tego efektu nie Oszołamiają i nie obniżają HP celu poniżej 1)",
+      "kr_sha256": "87df5f59a65c88775de71950a7ec6afc62dacb384131da1ff642d48ee4b0696e",
+      "en_sha256": "3c35fc8a2aeedf17452a992f7031222f8bc244fc4eef3a87ed6bdb59e4e73073",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] przywraca celowi SP równe Mocy Końcowej tej Umiejętności\n- jeżeli cel ma maksymalne SP, usuwa 1 losowy usuwalny negatywny efekt celu",
+      "kr_sha256": "46e77968d347f94789810506d31d18a471e7f9d5cacb733bbc3b85912cc78f6d",
+      "en_sha256": "7e6ae5e52c2602cbb5058153bbf629099eae1d36f623157a47ef057600aebf07",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=2].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] przy 3+ Siły [ChargeRouge] Waga Ataku +2",
+      "kr_sha256": "840bfc1a577224c84fc40c905d3c73d01259e146e253e21556186272629b5dc8",
+      "en_sha256": "69d4fdfb1098e9686c763d3ac119bb8918aaab1945eb7256e8c6085a4e9369ff",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=2].name": {
+      "pl": "Don't Get Hurty",
+      "kr_sha256": "e39c3917384a2aa167c3834f81f5ec4024b6a34383826a7780555dcce7fc80d6",
+      "en_sha256": "cacf37a67c4e351889e46e3128b33f495f3a72bd1ef7d01351633276d2487582",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] przywraca celowi HP równe (Moc Końcowa tej Umiejętności x 2)\n- dodatkowo przywraca HP równe (Siła [ChargeRouge] tej jednostki x 2)% Maks. HP celu\n- jeżeli cel należy do frakcji Le Rouge, zamiast tego obniża jego HP i przywraca sobie tyle samo HP (obrażenia z tego efektu nie Oszołamiają i nie obniżają HP celu poniżej 1)",
+      "kr_sha256": "5530052c1cff308214f4d215f4d8dfea5009588523697a5264b999cd02408933",
+      "en_sha256": "d0032171bde17b96ac6fc3140a13ac430e334f6561ce1b15e81235e744e86482",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] przywraca celowi SP równe Mocy Końcowej tej Umiejętności\n- dodatkowo przywraca SP równe (Siła [ChargeRouge] tej jednostki x 3)\n- jeżeli cel ma maksymalne SP, usuwa 1 losowy usuwalny negatywny efekt celu",
+      "kr_sha256": "73093145921ec90aaa9bfc146128d8c73f1689ed87d84753e6634c9b4261505b",
+      "en_sha256": "6f3591699400065ece14b5cc89b78cc00f84faa52e441ea933660d6d53a0a081",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=3].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] przy 3+ Siły [ChargeRouge] Waga Ataku +4",
+      "kr_sha256": "0f021e63e567757a2631a81dbb5ec8e29d6d6b56d209b9975707d64dbb2c5a2a",
+      "en_sha256": "50a991945248829d0f4f3cd2cde62d29b4c147a1e5ae4841757ff214bcf08a86",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].levelList[level=3].name": {
+      "pl": "Don't Get Hurty",
+      "kr_sha256": "e39c3917384a2aa167c3834f81f5ec4024b6a34383826a7780555dcce7fc80d6",
+      "en_sha256": "cacf37a67c4e351889e46e3128b33f495f3a72bd1ef7d01351633276d2487582",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] przywraca cel ze stanu Oszołomienia",
+      "kr_sha256": "13652e281d17e92a0a5a325a3b1c45ca02206472eccc666490747b2e50184a00",
+      "en_sha256": "aed4d288dc631634e56d811f44b7464d6dd227a901a7ab5d333cd322b61fa764",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] przywraca celowi HP równe Mocy Końcowej tej Umiejętności",
+      "kr_sha256": "db0a265f63fff7bb96aa40ce9f010c9e5ad13c36e1b6a3b1811871a345b1d172",
+      "en_sha256": "7793606bacdb694979c5fbcef81f54e8bda22ddb914533b46a23fbe6e39c527f",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] zyskuje 5 [Binding] w następnej turze",
+      "kr_sha256": "13dd86baead35e883a58e0b96295b223af5c8cee6cb38296990d8c8db095e3b3",
+      "en_sha256": "95e2d24cb36df75ac9c2d456a9979f02a6fdf2cda3fbdf45ebcb6ce1aca8d2f5",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=1].name": {
+      "pl": "Grab My Hand",
+      "kr_sha256": "689e52abdbca21c3e3b470e37711ba56714f62eee8e3763ed382ff1623d8d376",
+      "en_sha256": "e917fbeaa503975cc17cf199a30fb4437baf817a416a99b6f92d847c21c5b3b4",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndCoin] przywraca cel ze stanu Oszołomienia",
+      "kr_sha256": "13652e281d17e92a0a5a325a3b1c45ca02206472eccc666490747b2e50184a00",
+      "en_sha256": "aed4d288dc631634e56d811f44b7464d6dd227a901a7ab5d333cd322b61fa764",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndCoin] przywraca celowi HP równe Mocy Końcowej tej Umiejętności",
+      "kr_sha256": "db0a265f63fff7bb96aa40ce9f010c9e5ad13c36e1b6a3b1811871a345b1d172",
+      "en_sha256": "7793606bacdb694979c5fbcef81f54e8bda22ddb914533b46a23fbe6e39c527f",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=2].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EndCoin] nakłada w następnej turze Tarczę równą 50% Maks. HP celu",
+      "kr_sha256": "0a71bb9a50c28bef85d5de469b8b21bea61c7b75f847d37908532f1bbc7b12dd",
+      "en_sha256": "fa1cea4f071c1f4b2beb03a399e45f5cd5293b0ad9b195dac6fb1dc4f06a87fd",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=2].desc": {
+      "pl": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
+      "kr_sha256": "7e340c1844fc7f4adf2cb07ac392676e11384576d3b8ddba3255350c8409ab7b",
+      "en_sha256": "7e340c1844fc7f4adf2cb07ac392676e11384576d3b8ddba3255350c8409ab7b",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].levelList[level=2].name": {
+      "pl": "Grab My Hand",
+      "kr_sha256": "689e52abdbca21c3e3b470e37711ba56714f62eee8e3763ed382ff1623d8d376",
+      "en_sha256": "e917fbeaa503975cc17cf199a30fb4437baf817a416a99b6f92d847c21c5b3b4",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 10+ Licznika [ChargeRouge] zużywa do 10 Licznika [ChargeRouge], aby zyskać Wagę Ataku +2 i Moc Monety +2",
+      "kr_sha256": "b94a8309e39a2e71f84fc4166b819e663f51f1b03aa7f113faf6991ffc4a77ce",
+      "en_sha256": "75b9389e4d8cb82a30686b86c5257ee5d6a56db80aea77357b25c333be62a572",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=1].name": {
+      "pl": "Baptism of Crimson Nails",
+      "kr_sha256": "ceb21494b27f9a1dc6e1c9a9a8d4c03ceabfca4afad1cb60f2a52a5e449718b5",
+      "en_sha256": "6479cb7e7cf6638f1fe9960d81d38d326213412096277130796fd6202efa4d7c",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].desc": {
+      "pl": "[WhenUse] przy 10+ Licznika [ChargeRouge] zużywa do 10 Licznika [ChargeRouge], aby zyskać Wagę Ataku +2 i Moc Monety +2\n[WhenUse] za każde 4 [Laceration] celu Moc Bazowa +1 (maks. 2)",
+      "kr_sha256": "ecdbf0443c726783c2b5d311ba1f62ca957ac6986c01f3465c108296006661a5",
+      "en_sha256": "a6bd23b32e061eaba4328fa3f548997584cda1f547a15156ecb80d4999900db0",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=2].name": {
+      "pl": "Baptism of Crimson Nails",
+      "kr_sha256": "ceb21494b27f9a1dc6e1c9a9a8d4c03ceabfca4afad1cb60f2a52a5e449718b5",
+      "en_sha256": "6479cb7e7cf6638f1fe9960d81d38d326213412096277130796fd6202efa4d7c",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BuffetGold]",
+      "kr_sha256": "d171603f3f2f5455b8bf39f63e77796391b76cb35efe91ff616481c9817660c3",
+      "en_sha256": "96732168e089bf07b228b8dac8d10d64c84733e1686794af22d462b6ebab6950",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BuffetGold]",
+      "kr_sha256": "d171603f3f2f5455b8bf39f63e77796391b76cb35efe91ff616481c9817660c3",
+      "en_sha256": "96732168e089bf07b228b8dac8d10d64c84733e1686794af22d462b6ebab6950",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BloodyMucusAlly]",
+      "kr_sha256": "e59ea69f7aac86da18002c64786a12b9ed144fb1d76b63c916a1a4436b53a1de",
+      "en_sha256": "dbcc41d3561fccee29ea708873cf68a26b4a90764219778a40c215d0f2f463fc",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [BuffetGold]",
+      "kr_sha256": "d171603f3f2f5455b8bf39f63e77796391b76cb35efe91ff616481c9817660c3",
+      "en_sha256": "96732168e089bf07b228b8dac8d10d64c84733e1686794af22d462b6ebab6950",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].desc": {
+      "pl": "[WhenUse] przy 10+ Licznika [ChargeRouge] zużywa do 10 Licznika [ChargeRouge], aby zyskać Wagę Ataku +2 i Moc Monety +2\n[WhenUse] za każde 4 [Laceration] celu Moc Bazowa +1 (maks. 2)\n[WhenUse] przy 5+ Siły [ChargeRouge] stosuje poniższe efekty:\n- zyskuje Wagę Ataku +2\n- zyskuje Moc Monety +(Siła [ChargeRouge] tej jednostki - 3)",
+      "kr_sha256": "cb571804ddaf936d88d111098046adfbcd5b1490465262a0b6ade61f1b0c48a9",
+      "en_sha256": "b7727b822faa890e8f7e0b778f1f0a31561a11809bb9cdcc5b01e9e1ac9eb4fd",
+      "origin": "ai"
+    },
+    "dataList[id=40004106].levelList[level=3].name": {
+      "pl": "Baptism of Crimson Nails",
+      "kr_sha256": "ceb21494b27f9a1dc6e1c9a9a8d4c03ceabfca4afad1cb60f2a52a5e449718b5",
+      "en_sha256": "6479cb7e7cf6638f1fe9960d81d38d326213412096277130796fd6202efa4d7c",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "94b893d15f9c8cdeb10feb7f8e2c4d5c7db1c1801e5eb8e7cd7f5fb978d652d5",
+      "en_sha256": "26a93fee4ca07f8d44204f71c70c643d0db3a1d05f676ff72bd74cb285b603ab",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta jednostka ma [GourmandiseAlly], używa tej Monety ponownie (maks. 1 raz)",
+      "kr_sha256": "9e9669307e3707e33a6cdb26aa7e224ccfcb9139ff4bf2b3f7ce6aec8d84a8a9",
+      "en_sha256": "fa1523b43177e2c8cb1cf9813b0d5317b7605941ca176e333139cad12d018f0c",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nzadaje +0.5% obrażeń za każde 1% utraconego HP celu (maks. 30%)\n[WhenUse] jeżeli ta jednostka ma [GourmandiseAlly], zyskuje Wagę Ataku +1",
+      "kr_sha256": "56ec4ac200cb30976dc1f490ee912a4d4c4151b0ecff6c73016181499e1d4d41",
+      "en_sha256": "95e1b1b10e481550c535b41e6b4aee6007dc2bb1986e351e711df66f7d94d594",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].levelList[level=1].name": {
+      "pl": "I'll End It for You...",
+      "kr_sha256": "1dae86f96d1ba7e5460ce63591ddf1d686192b38246d21611f3a0be75f8e818a",
+      "en_sha256": "48bdebb8bec08320c9eaed9eff5624ca41e6a63501b140be314756a53d80c8ff",
+      "origin": "ai"
+    },
+    "dataList[id=40004201].levelList[level=1].desc": {
+      "pl": "[StartBattle] zużywa całą wartość Licznika [ChargeRouge], aby przywrócić wszystkim sojusznikom, wliczając tę jednostkę, HP równe (zużyta wartość [ChargeRouge])% Maks. HP",
+      "kr_sha256": "01f46d16e37b36b78625926d1d37493409a7d5b7071c27e3c69e9cd07048e1f9",
+      "en_sha256": "cc9ce9f4628ebafe33cd761dc4f93b4e83e27b8e468cf1b82b211cc6199f4862",
+      "origin": "ai"
+    },
+    "dataList[id=40004201].levelList[level=1].flavor": {
+      "pl": "Nieuchronne bóle wzrastania tych, którzy rozrastają się w bogów. U jednych przybiera postać zawrotów głowy, u innych mdłości, konwulsji, samozakłamania... a u niektórych odmowy. Świat jawi się im jako pełen grozy i obcego chaosu. By przetrwać mdłości, by ocalić to, co jeszcze jest ich własne, a czego jeszcze nie uznano za zbyteczne, narodzony bóg wymiotuje, czym tylko może.",
+      "kr_sha256": "c5986efac85791066d31104852cb6500bb773996cde18da95fbb768241a029ec",
+      "en_sha256": "9e3267c8653bc056296fbbc94d211d6478e5c538b29cee447bae5a277062d01e",
+      "origin": "ai"
+    },
+    "dataList[id=40004201].levelList[level=1].name": {
+      "pl": "La Nausée",
+      "kr_sha256": "a6c28149a68a894e5cb3ebff8e4f1ba97aae0765cf69dbe3a41edf97462a5ea4",
+      "en_sha256": "f34c00adbf548526e957fad988e34df51f53398cae0c51b611fa072a5ead92ff",
+      "origin": "ai"
+    },
+    "dataList[id=40004202].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 4 Licznika [ChargeRouge]",
+      "kr_sha256": "51498a9e71d8d0d091d8f655cc323f1102254934b2b7fa22861df740608a2813",
+      "en_sha256": "73ece832e2fe4e17877dc8a470752c34e795b3bb186bacd41156b046a4fb3c27",
+      "origin": "ai"
+    },
+    "dataList[id=40004202].levelList[level=1].flavor": {
+      "pl": "To jest szkarłatna dziura. Choć zamknięta, trwa w niej nieskończony głód, pragnący wypełnienia nasyceniem, którego osiągnąć nie sposób. Bo tak oczekują od tej istoty inni. Bo po to ta istota przyszła na świat.",
+      "kr_sha256": "088dfb4fb01b10ef9fa284590855af48a0c7265551259b4d1ba7acb0a25bdc5c",
+      "en_sha256": "410c3ad10a1fe8ffd653157372acdfbc49b8bc436de9736a3afbcc5c7cb6792f",
+      "origin": "ai"
+    },
+    "dataList[id=40004202].levelList[level=1].name": {
+      "pl": "Le Trou Rouge",
+      "kr_sha256": "d71e99f45f8f795057b418ea522a92f66e1da88e756f7b275c1ddc29a102d3a8",
+      "en_sha256": "398a12989cf674260472cd193a1494e920aa0764c661ffcb320bc94f4d9dc476",
+      "origin": "ai"
+    }
+  }
+}

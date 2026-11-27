@@ -1,0 +1,131 @@
+1||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>{amount}%만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>{conditions}{targets}</color> takes <color=#e30000>{amount}% HP</color> <color=#ebcaa2>Damage!</color>
+2||— tekst] <color=#f8c200>분노 속성 E.G.O 자원을 2개</color> 획득\n<color=#f8c200>오만 속성 E.G.O 자원을 2개</color> 획득|Gain <color=#f8c200>2 Wrath E.G.O resources</color>\nGain <color=#f8c200>2 Pride E.G.O resources</color>
+3||— tekst] <color=#f8c200>색욕 속성 E.G.O 자원을 2개</color> 획득\n<color=#f8c200>탐식 속성 E.G.O 자원을 2개</color> 획득|Gain <color=#f8c200>2 Lust E.G.O resources</color>\nGain <color=#f8c200>2 Gluttony E.G.O resources</color>
+4||— tekst] <color=#f8c200>우울 속성 E.G.O 자원을 2개</color> 획득\n<color=#f8c200>질투 속성 E.G.O 자원을 2개</color> 획득|Gain <color=#f8c200>2 Gloom E.G.O resources</color>\nGain <color=#f8c200>2 Envy E.G.O resources</color>
+5||— tekst] 모든 수감자가 다음 전투 시작 시 <color=#e30000>파열 횟수 4</color> 얻음|All sinners gain <color=#e30000>+4 Rupture Count</color> at the next Combat Start
+6||— tekst] 모든 수감자가 다음 전투 시작 시 <color=#e30000>파열 4, 파열 횟수 4</color> 얻음|All sinners gain <color=#e30000>4 Rupture and +4 Rupture Count</color> at the next Combat Start
+7||— tekst] <color=#ebcaa2>기물 {reward} 획득!</color>|<color=#ebcaa2>{reward} Artifact obtained!</color>
+8||— tekst] <color=#ebcaa2>기물 {reward} {stack}개 획득!</color>|<color=#ebcaa2>{stack} {reward} Artifact(s) obtained!</color>
+9||— tekst] <color=#ebcaa2>기물 {reward} {stack}개 잃음!</color>|<color=#ebcaa2>{stack} {reward} Artifact(s) lost!</color>
+10||— tekst] <color=#ebcaa2>기물 {reward}</color> <color=#e30000>소멸!</color>|<color=#ebcaa2>{reward} Artifact</color> <color=#e30000>lost!</color>
+11||— tekst] <color=#ebcaa2>다음 전투 승리 시 기물 {reward} 획득!</color>|<color=#ebcaa2>Win the next battle to gain {reward} Artifact!</color>
+12||— tekst] <color=#ebcaa2>새로운 길이 지도에 추가됨!</color>|<color=#ebcaa2>A new path opened up on the map!</color>
+13||— tekst] <color=#ebcaa2>아무 일도 일어나지 않았다.</color>|<color=#ebcaa2>Nothing happened.</color>
+14||— tekst] <color=#ebcaa2>수감자 강화 이벤트 발생!</color>|<color=#ebcaa2>Event: Sinner Power-up!</color>
+15||— tekst] <color=#ebcaa2>랜덤 에고기프트 획득 이벤트 발생!</color>|<color=#ebcaa2>Event: Random E.G.O Gift!</color>
+16||— tekst] <color=#ebcaa2>수감자 추가 이벤트 발생!</color>|<color=#ebcaa2>Event: Sinner Recruitment!</color>
+17||— tekst] <color=#ebcaa2>다음 전투 승리 시 수감자 추가 이벤트 발생!</color>|<color=#ebcaa2>Win the next battle to recruit a Sinner!</color>
+18||— tekst] <color=#ebcaa2>다음 전투 승리 시 E.G.O 기프트 {reward} 획득!</color>|<color=#ebcaa2>Win the next battle to gain E.G.O Gift {reward}!</color>
+19||— tekst] <color=#ff0000>전투 발생!</color>|<color=#ff0000>Combat Encounter!</color>
+20||— tekst] <color=#ff0000>일반 전투 발생!</color>|<color=#ff0000>Regular Encounter!</color>
+21||— tekst] <color=#ff0000>위험 전투 발생!</color>|<color=#ff0000>Risky Encounter!</color>
+22||— tekst] <color=#ff0000>집중 전투 발생!</color>|<color=#ff0000>Focused Encounter!</color>
+23||— tekst] <color=#ff0000>층 보스 전투 발생!</color>|<color=#ff0000>Floor Boss Encounter!</color>
+24||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>{amount}만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP.</color>
+25||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#80c9ff>{amount}만큼 정신력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#80c9ff>{amount} SP.</color>
+26||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>체력 최대로</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed back to</color> <color=#00ff9c>Full HP.</color>
+27||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#80c9ff>정신력 최대로</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed back to</color> <color=#80c9ff>Full SP.</color>
+28||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>{amount}만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP Damage!</color>
+29||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#fe4b48>{amount}만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>lost</color> <color=#fe4b48>{amount} SP!</color>
+30||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>{amount}만큼 체력</color>, <color=#80c9ff>정신력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP</color> and <color=#80c9ff>SP.</color>
+31||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>{hpAmount}만큼 체력</color> <color=#ebcaa2>회복</color>, <color=#80c9ff>{mpAmount}만큼 정신력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{hpAmount} HP</color> and <color=#80c9ff>{mpAmount} SP.</color>
+32||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>{amount}만큼 체력</color>, <color=#fe4b48>정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP</color> and <color=#fe4b48>SP damage!</color>
+33||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>{hpAmount}만큼 체력</color> <color=#ebcaa2>피해</color>, <color=#fe4b48>{mpAmount}만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{hpAmount} HP</color> and <color=#fe4b48>{mpAmount} SP damage!</color>
+34||— tekst] <color=#ebcaa2>E.G.O 기프트 {reward} 획득!</color>|<color=#ebcaa2>E.G.O Gift {reward} obtained!</color>
+35||— tekst] <color=#ebcaa2>E.G.O 기프트 {reward} {stack}개 획득!</color>|<color=#ebcaa2>E.G.O Gift {stack} {reward} obtained!</color>
+36||— tekst] <color=#ebcaa2>E.G.O 기프트 {reward} {stack}개 잃음!</color>|<color=#ebcaa2>E.G.O Gift {stack} {reward} lost!</color>
+37||— tekst] <color=#ebcaa2>다음 전투에서 스테이지 진입 시 {conditional}{target} {buffName} {stack} 획득</color>|<color=#ebcaa2>{target} {conditional} will enter the next combat encounter with {stack} {buffName}.</color>
+38||— tekst] <color=#ebcaa2>새로운 길이 지도에 추가됨!</color>|<color=#ebcaa2>There’s a new path on the map!</color>
+39||— tekst] <color=#ebcaa2>다음 전투에서 적 웨이브 {waveNum} 감소</color>|<color=#ebcaa2>Enemy waves reduced by {waveNum} for the next battle</color>
+40||— tekst] <color=#ebcaa2>E.G.O 기프트 {reward}</color> <color=#e30000>소멸!</color>|<color=#ebcaa2>E.G.O Gift {reward}</color> <color=#e30000>destroyed!</color>
+41||— tekst] <color=#ebcaa2>이번 전투 동안</color> <color=#f8c200>속도 +1</color>|<color=#f8c200>Speed +1</color> <color=#ebcaa2>for this battle</color>
+42||— tekst] <color=#ebcaa2>전투 시작 시</color> <color=#a0392b>분노 속성 공격 스킬</color>을 보유하지 않은 인격이 <color=#e30000>분노 피해 5</color> <color=#ebcaa2>입음</color>|<color=#ebcaa2>At the start of the combat phase,</color> allies without <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#e30000>5 Wrath damage</color>
+43||— tekst] <color=#ebcaa2>턴 시작 시</color> <color=#00ff9c>10만큼 체력</color>, <color=#80c9ff>정신력</color> </color=#ebcaa2>회복</color> (최대 3턴)|<color=#ebcaa2>At the start of the turn,</color> </color=#ebcaa2>heal</color> <color=#00ff9c>10 HP</color> and <color=#80c9ff>10 SP</color> (Up to 3 turns)
+44||— tekst] <color=#ebcaa2>전투 시작 시</color> <color=#e30000>스킬 최종 위력 -1</color>|<color=#e30000>Skill Final Power -1</color> <color=#ebcaa2>at the start of the combat phase.</color>
+45||— tekst] <color=#ebcaa2>전투 시작 시</color> <color=#bb521f>색욕 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격이 흐트러짐 상태로 시작함</color>|<color=#ebcaa2>At the start of the next battle,</color> <color=#ebcaa2>Ally Units without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>are Staggered</color>
+46||— tekst] <color=#ebcaa2>전투 시작 시</color> <color=#e30000>속도 -2</color>|<color=#e30000>Speed -2</color> <color=#ebcaa2>at the start of the combat phase.</color>
+47||— tekst] <color=#ebcaa2>이번 전투 동안</color> <color=#f8c200>속도 +2</color>|<color=#f8c200>Speed +2</color> <color=#ebcaa2>for this battle</color>
+48||— tekst] <color=#ebcaa2>다음 전투 시작 시 모든 아군이</color> <color=#f8c200>공격 위력 증가 3</color><color=#ebcaa2>을 얻음</color>|<color=#ebcaa2>At the start of the next battle, All Ally Units</color> <color=#ebcaa2>gain</color> <color=#f8c200>3 Attack Power Up.</color>
+49||— tekst] <color=#ff0000>전투 발생!</color>\n<color=#ebcaa2>모든 적에게</color> <color=#e30000>공격 위력 감소 5</color> <color=#ebcaa2>부여됨!</color>|<color=#ff0000>Combat Encounter!</color>\n<color=#ebcaa2>All enemies</color> <color=#ebcaa2>are inflicted with</color> <color=#e30000>5 Attack Power Down!</color>
+50||— tekst] <color=#ebcaa2>선택한 인격이 다음 전투 2회동안</color> <color=#e30000>피해량 감소 3</color><color=#ebcaa2>을 얻음</color>|<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>gains</color> <color=#e30000>3 Damage Down</color> <color=#ebcaa2>for the next 2 battles.</color>
+51||— tekst] <color=#ebcaa2>판정에 실패한 수감자</color> <color=#e30000>12만큼 체력</color> <color=#ebcaa2>피해</color>, <color=#fe4b48>8만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>12 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>8 SP</color> <color=#ebcaa2>damage!</color>
+52||— tekst] <color=#ebcaa2>판정에 실패한 수감자</color> <color=#e30000>15만큼 체력</color> <color=#ebcaa2>피해</color>, <color=#fe4b48>12만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>
+53||— tekst] <color=#bb521f>색욕 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>10만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>
+54||— tekst] <color=#ebcaa2>판정에 실패한 수감자</color> <color=#fe4b48>15만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>
+55||— tekst] <color=#ebcaa2>판정에 성공한 수감자</color> <color=#fe4b48>5만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who passed the check takes</color> <color=#fe4b48>5 SP</color> <color=#ebcaa2>damage!</color>
+56||— tekst] <color=#ebcaa2>판정에 실패한 수감자</color> <color=#fe4b48>25만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>25 SP</color> <color=#ebcaa2>damage!</color>
+57||— tekst] <color=#ebcaa2>판정에 실패한 수감자</color> <color=#fe4b48>12만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>
+58||— tekst] <color=#ebcaa2>판정에 실패한 수감자</color> <color=#fe4b48>10만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>
+59||— tekst] <color=#61822b>탐식 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>5만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#61822b>Gluttony Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>damage!</color>
+60||— tekst] <color=#61822b>탐식 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>10만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#61822b>Gluttony Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>
+61||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>13만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>13 HP</color> <color=#ebcaa2>damage!</color>
+62||— tekst] <color=#7d4e94>질투 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#e30000>15만큼 체력</color>, <color=#fe4b48>정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>
+63||— tekst] <color=#a0392b>분노 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>16만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>16 HP</color> <color=#ebcaa2>damage!</color>
+64||— tekst] <color=#a0392b>분노 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#f8c200>15만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>
+65||— tekst] <color=#bb521f>색욕 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#80c9ff>정신력</color> </color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>
+66||— tekst] <color=#bb521f>색욕 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#f8c200>10만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>
+67||— tekst] <color=#bb521f>색욕 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>20만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>damage!</color>
+68||— tekst] <color=#e48801>나태 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>20만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#e48801>Sloth Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>damage!</color>
+69||— tekst] <color=#e48801>나태 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>12만큼 체력</color>과 <color=#fe4b48>정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#e48801>Sloth Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>
+70||— tekst] <color=#61822b>탐식 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#80c9ff>정신력</color> </color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#61822b>Gluttony Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>
+71||— tekst] <color=#a0392b>분노 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 무작위 인격 1명</color> <color=#fe4b48>10만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>One random Identity without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>
+72||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>10만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>
+73||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>9만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>9 SP</color> <color=#ebcaa2>damage!</color>
+74||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 무작위 인격 1명</color> <color=#fe4b48>10만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>One random Identity without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>
+75||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 정신력이 가장 낮은 인격</color> <color=#f8c200>체력 최대로</color> </color=#ebcaa2>회복</color>|<color=#ebcaa2>The Identity with the lowest Sanity who possesses</color> <color=#306471>Gloom Affinity Attack Skill</color> </color=#ebcaa2>fully heals their</color> <color=#f8c200>HP.</color>
+76||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>20만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>damage!</color>
+77||— tekst] <color=#306471>우울 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#f8c200>20만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>20 HP.</color>
+78||— tekst] <color=#185188>오만 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>10만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>
+79||— tekst] <color=#185188>오만 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#f8c200>10만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>
+80||— tekst] <color=#185188>오만 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>25만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>damage!</color>
+82||— tekst] <color=#185188>오만 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>5만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>damage!</color>
+83||— tekst] <color=#185188>오만 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#f8c200>15만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>
+84||— tekst] <color=#7d4e94>질투 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>20만큼 정신력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>damage!</color>
+86||— tekst] <color=#7d4e94>질투 속성 공격 스킬</color><color=#ebcaa2>을 보유하지 않은 인격</color> <color=#fe4b48>12만큼 체력</color> <color=#ebcaa2>피해!</color>|<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>damage!</color>
+87||— tekst] <color=#7d4e94>질투 속성 공격 스킬</color><color=#ebcaa2>을 보유하고 있는 인격</color> <color=#f8c200>15만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>Identities with</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>
+88||— tekst] <color=#ebcaa2>선택한 인격 다음 전투에서 1턴 동안</color> <color=#e30000>파열 10</color><color=#ebcaa2>을 얻음</color>|<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>has</color> <color=#e30000>10 Rupture</color> <color=#ebcaa2>for 1 turn in the next battle.</color>
+89||— tekst] <color=#ebcaa2>코스트 {amount} 획득 </color>|<color=#ebcaa2>Cost {amount} gained</color>
+90||— tekst] <color=#ebcaa2>코스트 {amount} 소멸 </color>|<color=#ebcaa2>Cost {amount} lost</color>
+91||— tekst] <color=#ebcaa2>다음 전투에서 모든 속성의 <color=#f8c200>E.G.O 자원을 2</color> <color=#ebcaa2>얻고 시작함</color>|<color=#ebcaa2>Start the next battle with</color> <color=#f8c200>+2 E.G.O resources</color> <color=#ebcaa2>of all affinities</color>
+92||— tekst] <color=#ebcaa2>다음 전투에서 모든 인격이 <color=#f8c200>최종 스킬 위력 2</color> <color=#ebcaa2>증가</color>|<color=#ebcaa2>All allies have</color> <color=#f8c200>+2 Skill Final Power</color> <color=#ebcaa2>for the next battle</color>
+93||— tekst] <color=#ebcaa2>다음 전투에서 모든 인격이 <color=#f8c200>스킬 위력 1</color> <color=#ebcaa2>증가</color>|<color=#ebcaa2>All allies have</color> <color=#f8c200>+1 Skill Power</color> <color=#ebcaa2>for the next battle</color>
+94||— tekst] 편성한 모든 인격 레벨 2 증가|All Deployed Identities gain 2 Levels
+95||— tekst] 편성한 모든 인격 레벨 3 증가|All Deployed Identities gain 3 Levels
+99||— tekst] <color=#ff0000>전투 패배 시, 보상 없음</color>|<color=#ff0000>No rewards upon Defeat</color>
+100||— tekst] 전투 승리 시, E.G.O 기프트 "지옥나비의 꿈", "불빛꽃" 획득|Win the battle to gain E.G.O Gifts "Hellterfly's Dream" & "Ardent Flower"
+101||— tekst] 전투 승리 시, E.G.O 기프트 "도착증", "경외심" 획득|Win the battle to gain E.G.O Gifts "Perversion" & "Awe"
+102||— tekst] 전투 승리 시, E.G.O 기프트 "작열우모", "융해된 파라핀" 획득|Win the battle to gain E.G.O Gifts "Fiery Down" & "Melted Paraffin"
+103||— tekst] 전투 승리 시, E.G.O 기프트 "블러디 가젯", "장엄" 획득|Win the battle to gain E.G.O Gifts "Bloody Gadget" & "Grandeur"
+104||— tekst] 전투 승리 시, E.G.O 기프트 "여우비", "해진 우산" 획득|Win the battle to gain E.G.O Gifts "Sunshower" & "Ragged Umbrella"
+105||— tekst] 전투 승리 시, E.G.O 기프트 "부적 묶음", "낡은 목각 인형" 획득|Win the battle to gain E.G.O Gifts "Talisman Bundle" & "Old Wooden Doll"
+106||— tekst] 전투 승리 시, E.G.O 기프트 "녹슨 기념 주화", "울화통" 획득|Win the battle to gain E.G.O Gifts "Rusty Commemorative Coin" & "Pain of Stifled Rage"
+107||— tekst] 전투 승리 시, E.G.O 기프트 "초록빛 결실", "시큼한 주향" 획득|Win the battle to gain E.G.O Gifts "Green Spirit" & "Sour Liquor Aroma"
+108||— tekst] 전투 승리 시, E.G.O 기프트 "장미 면류관", "안식처" 획득|Win the battle to gain E.G.O Gifts "Crown of Roses" & "Respite"
+109||— tekst] 전투 승리 시, E.G.O 기프트 "끈적거리는 진액", "생체 맹독 바이알" 획득|Win the battle to gain E.G.O Gifts "Sticky Muck" & "Bio-venom Vial"
+110||— tekst] 전투 승리 시, E.G.O 기프트 "흰 목화", "옭아맨 타래" 획득|Win the battle to gain E.G.O Gifts "White Gossypium" & "Tangled Bundle"
+111||— tekst] 전투 승리 시, E.G.O 기프트 "쪽빛 지포라이터", "순찰용 손전등" 획득|Win the battle to gain E.G.O Gifts "Blue Zippo Lighter" & "Patrolling Flashlight"
+112||— tekst] 전투 승리 시, E.G.O 기프트 "녹아내린 눈알", "극독성 외피" 획득|Win the battle to gain E.G.O Gifts "Melted Eyeball" & "Venomous Skin"
+113||— tekst] 전투 승리 시, E.G.O 기프트 "닉시 다이버전스", "톱니바퀴 태엽" 획득|Win the battle to gain E.G.O Gifts "Nixie Divergence" & "Clockwork Spring"
+114||— tekst] 전투 승리 시, E.G.O 기프트 "근무용 통상 배터리", "제한 풀린 제세동기" 획득|Win the battle to gain E.G.O Gifts "Standard-duty Battery" & "Uncapped Defibrilator"
+115||— tekst] 전투 승리 시, E.G.O 기프트 "일점타격논리회로", "무정전 전원장치" 획득|Win the battle to gain E.G.O Gifts "Pinpoint Logic Circuit" & "UPS System"
+116||— tekst] 전투 승리 시, E.G.O 기프트 "네잎클로버", "녹빛 겉날개" 획득|Win the battle to gain E.G.O Gifts "Four-leaf Clover" & "Emerald Elytra"
+117||— tekst] 전투 승리 시, E.G.O 기프트 "한겨울 밤의 악몽", "고목 함정" 획득|Win the battle to gain E.G.O Gifts "Midwinter Nightmare" & "Eldtree Snare"
+118||— tekst] 전투 승리 시, E.G.O 기프트 "엔도르핀 키트", "형광색 램프" 획득|Win the battle to gain E.G.O Gifts "Endorphin Kit" & "Fluorescent Lamp"
+119||— tekst] 전투 승리 시, E.G.O 기프트 "E식 차원 단검", "휴대용 역장 배터리" 획득|Win the battle to gain E.G.O Gifts "E-Type Dimensional Dagger" & "Portable Barrier Battery"
+121||— tekst] 전투 승리 시, E.G.O 기프트 "미니어처 전봇대" 획득|Win the battle to gain E.G.O Gifts "Miniature Telepole"
+122||— tekst] 전투 승리 시, E.G.O 기프트 "찢어진 피주머니" 획득|Win the battle to earn the E.G.O Gift "Ruptured Blood Sac"
+123||— tekst] 전투 승리 시, E.G.O 기프트 "찰랑이는 연료통" 획득|Win the battle to gain E.G.O Gift "Swishing Fuel Tank"
+124||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#fe4b48>정신력 최소치로</color> <color=#ebcaa2>감소</color>|<color=#ebcaa2>Reduce</color> <color=#fe4b48>SP to minimum value for</color> <color=#ebcaa2>{conditions}{targets}</color>
+125||— tekst] 사망한 수감자 부활 및 모든 수감자 <color=#00ff9c>체력 최대로</color> <color=#ebcaa2>회복</color>|Revive all dead Sinners and <color=#ebcaa2>heal</color> any surviving Sinners <color=#00ff9c>to max HP</color>
+126||— tekst] <color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>최대 체력의 {amount}%만큼 체력</color> <color=#ebcaa2>회복</color>|<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount}% of max HP.</color>
+128||— tekst] 스테이지 진입 시|Upon Stage Entry
+129||— tekst] [ATTRIBUTES] 속성 공격 스킬을 보유한|with the [ATTRIBUTES] Sin Affinity Attack Skill
+130||— tekst] [ATTRIBUTES] 속성 공격 스킬을 보유하지 않은|without the [ATTRIBUTES] Sin Affinity Attack Skill
+131||— tekst] 다음 전투에 참여하는|participating in the next battle
+132||— tekst] 가장 정신력이 낮은|with the lowest SP
+133||— tekst] 판정에 실패한|that failed the Check
+134||— tekst] 판정에 성공한|that passed the Check
+135||— tekst] 더하기|Add
+136||— tekst] 빼기|Subtract
+137||— tekst] 붉은|Crimson
+138||— tekst] 주홍|Scarlet

@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=40000601].desc": {
+      "pl": "Część Vespa",
+      "kr_sha256": "e493f3a6bd5fe51fbc53337e9c7331a6cfea5fde7414874aa3a22f07feb87378",
+      "en_sha256": "7f415735008fa447f1cb98c9da8f37115363660c1b55492c9178bda26015bb51",
+      "origin": "ai"
+    },
+    "dataList[id=40000601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=400006].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400006].name": {
+      "pl": "Vespa",
+      "kr_sha256": "650ec3dd4e334c3461950dac160a279cf9ac4b2e886be9c4195bd6af5b719c1e",
+      "en_sha256": "8fcdf27226dd311b4aa9f9287cfb6a016c9fcce263fa5885e421a3ee7ae8c244",
+      "origin": "ai"
+    }
+  }
+}

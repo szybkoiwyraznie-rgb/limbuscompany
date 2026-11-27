@@ -1,0 +1,244 @@
+{
+  "entries": {
+    "dataList[id=940000501].desc": {
+      "pl": "Od tury 3: zyskuje 2 [AttackUp] na początku każdej tury",
+      "kr_sha256": "a72c423e63e63528d3734d1c21666e7437ccac81d0357f9554f6fd138a6e28ea",
+      "en_sha256": "d6d0095b1dc29478c15ea74a9e77d1a08bdf9d6f996b1eba65c4e0f7bc9ce299",
+      "origin": "ai"
+    },
+    "dataList[id=940000501].name": {
+      "pl": "The Inner Self",
+      "kr_sha256": "7f2ac93c98e466f22b97b902eb2d2151ee5f202779e09a678ebd47ac5c4270a2",
+      "en_sha256": "ff193f1e5914c0e8b2aa901ffc3c9921cf0a9209f0bdf8f6527999cb4fb8c0cb",
+      "origin": "ai"
+    },
+    "dataList[id=940000502].desc": {
+      "pl": "Przed własnym atakiem: atakowany wróg zyskuje +1,0 Odporności na Uderzenie (resetuje się po zakończeniu Umiejętności)",
+      "kr_sha256": "58aeae9404c78de441c93bd4d71b387bb0943badb2e6edb35acfd4cea6513cae",
+      "en_sha256": "608524cf732d723167d3ae37b430c286483eb7e7c213fa373bcb75ce7ebbdc77",
+      "origin": "ai"
+    },
+    "dataList[id=940000502].name": {
+      "pl": "Widening Knowledge",
+      "kr_sha256": "74c40caa29044564f6e738f7f260e3c4bafd7139ee3f066f39b2e41b99d5da9f",
+      "en_sha256": "0f70b16b5a3bcc97019e6d1fed818f0e256a91094bb21800f6178ec4412fdf4a",
+      "origin": "ai"
+    },
+    "dataList[id=940000503].desc": {
+      "pl": "Usuwa pierwszy Próg Oszołomienia tej jednostki\nPo otrzymaniu obrażeń zyskuje 1 [Protection] i 1 [AttackUp] oraz odzyskuje 3 SP (1 raz na turę)",
+      "kr_sha256": "cabcf1dc5bf244ba76959d3cca85cff3a49a5c384d3c64b0e0ebdeb20f42c55e",
+      "en_sha256": "cf44cbc278c028f67aa7c6534d5974af3ab7b719554b0426b0b243594a603ea5",
+      "origin": "ai"
+    },
+    "dataList[id=940000503].name": {
+      "pl": "Duch Fixerów",
+      "kr_sha256": "a8eb7373f553951dfa3b5ba4b9653402566e313c34873e505b78184cbe45d8d5",
+      "en_sha256": "44bd26b97273a0d495fc94a36661a2a9da7cee4fbfad9891c80aa72c2fb7eadf",
+      "origin": "ai"
+    },
+    "dataList[id=940000504].desc": {
+      "pl": "Koniec tury: przy 15+ Siły [Breath], połowa Siły [Breath] i wywołuje następujące efekty:\n- wszyscy sojusznicy, licząc tę jednostkę, odzyskują 10 HP\n- wszyscy sojusznicy, licząc tę jednostkę, odzyskują 3 SP\n- połowa wszystkich usuwalnych negatywnych efektów wszystkich sojuszników, licząc tę jednostkę",
+      "kr_sha256": "c3df732772cf581c897ee4eebf3160dab2939cb1dd4f66b38c0f7d164a465bcd",
+      "en_sha256": "a98c9d7f8b9294cf58c62d92e41e5a225466290b92d4fc4b0083e569282a51f3",
+      "origin": "ai"
+    },
+    "dataList[id=940000504].name": {
+      "pl": "The Tianya Sword",
+      "kr_sha256": "d46316631d7b74a59dfb27437195b3e22c113a3c2ad3a5826a045e4f614fd845",
+      "en_sha256": "6c2c3fffd550da8386031b81b2751dbe4a7c9d9b0fae7a937b276fb17b58efe3",
+      "origin": "ai"
+    },
+    "dataList[id=940000505].desc": {
+      "pl": "Na początku etapu: przywraca 10 SP, zyskuje 2 [AttackUp] i 2 [DefenseUp]",
+      "kr_sha256": "7ed9fed56ee524847c08bffecdb2435ced468a681fb504da0b53cdb34266ea28",
+      "en_sha256": "a642a242dd57e6b768c82a6d98674bdc5b7b06598000d5a47b0ec6ed228157e6",
+      "origin": "ai"
+    },
+    "dataList[id=940000505].name": {
+      "pl": "How to Prepare for War",
+      "kr_sha256": "47db1dc4393d20653ae7c34240b3f991d799cdd4647748a8f190b26a7a10e329",
+      "en_sha256": "40601f2cf221767cea577a14820b0dee72eaa69a7c7ab4c8e02068c54a7f9320",
+      "origin": "ai"
+    },
+    "dataList[id=940000506].desc": {
+      "pl": "W tej walce: gdy ta jednostka ma otrzymać obrażenia obniżające jej HP do 0, nie otrzymuje ich, a przez resztę tury jej HP nie spada poniżej 1. (1 raz na walkę)",
+      "kr_sha256": "2de0159cbd61a2163efb8a618ece4d21a39cabd0aa0ab205301ca543d91c47c7",
+      "en_sha256": "6f5973bc15dbdb51ef96b44c2331d0cb7220967fff16e09e9b1379e5b261d8ac",
+      "origin": "ai"
+    },
+    "dataList[id=940000506].name": {
+      "pl": "How to Survive",
+      "kr_sha256": "392ec02e655d3db3387dea20d38ff45783e9783d7ab0fa57939a5306310396ca",
+      "en_sha256": "31d43762f911f17b13045895c51b80f379694cfb9fb33eecbc421d41e5215635",
+      "origin": "ai"
+    },
+    "dataList[id=940000507].desc": {
+      "pl": "Gdy sojusznicy poza tą jednostką zostaną trafieni, zyskuje 1 [AttackUp], a w następnej turze 2 [Agility] (1 raz na turę)",
+      "kr_sha256": "64021ccc7d919822ebc60aeb2d7751fc3edfc0d7659b4050a49ad798ac4782ed",
+      "en_sha256": "f92909921adf20371dc050acdae066ffc786b9440733b743fb0f9f79717534a7",
+      "origin": "ai"
+    },
+    "dataList[id=940000507].name": {
+      "pl": "Apathetic Response",
+      "kr_sha256": "af9dc8dc0e7cf847ddc6eb0d9cff4574602d9914016630138e17ee800b9c791d",
+      "en_sha256": "ea22ce5dc9833e3f45024ae34eb62e3d549e00eb7397ffed193633f3f7d89e9a",
+      "origin": "ai"
+    },
+    "dataList[id=940000508].desc": {
+      "pl": "Przy trafieniu atakiem: jeżeli cel ma [Binding] lub [Laceration], w następnej turze zyskuje Wzrost Mocy Starcia 1 (2 razy na turę)",
+      "kr_sha256": "b60c4ffa0b70f0a1e530682b33afcf5c8e28c5299d73c1fc93a5614d32e2f0e0",
+      "en_sha256": "219055a4397e9dd16fe540550a55eb87c4a2ad8a9e9fd45040eb7126869b9de7",
+      "origin": "ai"
+    },
+    "dataList[id=940000508].name": {
+      "pl": "POW Torture Technique",
+      "kr_sha256": "e72aa6625934823cde7f8716d2b32d76e424fa880eba0419d53e1c7aba1de50b",
+      "en_sha256": "e52683c5f425bc7079b0ea6353da08f4577bba2d9e58d93f63db38baaeb322e0",
+      "origin": "ai"
+    },
+    "dataList[id=940000509].desc": {
+      "pl": "Początek tury: wszyscy sojusznicy, licząc tę jednostkę, odzyskują 5 SP\n Początek walki: jeżeli Poczytalność celu głównego jest równa lub wyższa od Poczytalności tej jednostki, zyskuje 1 [Protection] (1 raz na turę)",
+      "kr_sha256": "653934cbf1d8c4f3e4b98209bd741a8ca28db6ba628d3d0c51ed79881eda28dc",
+      "en_sha256": "1d429dcfbb212ae003daf905d124227dab1e01243f017aa39a8d808d67cb96cd",
+      "origin": "ai"
+    },
+    "dataList[id=940000509].name": {
+      "pl": "The Reassuring Heart",
+      "kr_sha256": "88c5a58cd5fb8e761446efc5420ca5e343ca0e4b3620a706f5ba48da497378db",
+      "en_sha256": "ce097a3a82f625e48e113537b76f9d354e7c42dfedc49d90a2a55cfa31b75848",
+      "origin": "ai"
+    },
+    "dataList[id=940000510].desc": {
+      "pl": "Po wygranej starciu bez utraty Monet: niezależnie od trafienia, jeżeli wszystkie Monety tej Umiejętności — aż po ostatnią — wypadły awersem, ostatnia Moneta zadaje +30% obrażeń",
+      "kr_sha256": "dd1ac228173ebfaaf50ce89256466245bdd5ddeef73484bfa41800139b33b30e",
+      "en_sha256": "c66d6bceb3743d59f4fd2a73cdd2cee2f1f9b0125d226ea0f46a5138e44ef892",
+      "origin": "ai"
+    },
+    "dataList[id=940000510].name": {
+      "pl": "God of Gamblers",
+      "kr_sha256": "1ffa05bab01b385fb299012ef71cd27934212d0bceac6a3b7e3560c450e7c8fb",
+      "en_sha256": "9079f6756b3199096edc120b7f37f9918bf7780b5f5699327ce885d9aae159c5",
+      "origin": "ai"
+    },
+    "dataList[id=940000511].desc": {
+      "pl": "Początek tury: jeżeli Grzesznik Sinclair uczestniczy w walce, ta jednostka i Sinclair zyskują po 2 [AttackUp] i 2 [DefenseUp] (nie licząc Rezerwy)",
+      "kr_sha256": "7463da5c3ba7a258320a42c7a441ed5c98dd9e3cf59828cc7329cc159c606ba6",
+      "en_sha256": "06251b5d974ea004b9b2db176b56a9b71e827ad15beb801bfb5149473888a75e",
+      "origin": "ai"
+    },
+    "dataList[id=940000511].name": {
+      "pl": "My Bestie and a Rival",
+      "kr_sha256": "e6489181e78af1fd5d35cd4e8bf8d08dd85af652a70f3f440407d4690bc5ada1",
+      "en_sha256": "227e5ecb2a5f8750b41c368793f149985b3166d5ad97f1f14d1dff816dd95b5d",
+      "origin": "ai"
+    },
+    "dataList[id=940000512].desc": {
+      "pl": "Początek tury: nakłada 1 [DefenseUp] na wszystkich sojuszników, licząc tę jednostkę",
+      "kr_sha256": "a6eee955fdf90eb5caa4037b1bbce512bfda382915d2a8974d84a039ed0cc790",
+      "en_sha256": "3d7a32ca7e7ad6103f3deb2da881a8879fadc50f5e98b0c67f56da3bfbcffe8c",
+      "origin": "ai"
+    },
+    "dataList[id=940000512].name": {
+      "pl": "Hierarcha Hongyuan",
+      "kr_sha256": "a4fb03aacf4ce46071588e16f712ddbeb7ed069caccd846d5a459869d9c5eb5c",
+      "en_sha256": "3f70e4e17b03910ac0df221a76bdf1b02287c64c69dc06f3edc0f37d7fe3b92f",
+      "origin": "ai"
+    },
+    "dataList[id=940000513].desc": {
+      "pl": "Początek tury: nakłada 1 [AttackUp] i 1 [DefenseUp] na wszystkich sojuszników, licząc tę jednostkę",
+      "kr_sha256": "f3f417fd9ee1a36f18cc7c0142c3d50497ac2231bc637ee86a96bcf44b4715cd",
+      "en_sha256": "f08605dd2dafb64b4b948dedac6e9f4376290fcf52694b0f53d6995cb6bda318",
+      "origin": "ai"
+    },
+    "dataList[id=940000513].name": {
+      "pl": "Hierarcha Hongyuan",
+      "kr_sha256": "a4fb03aacf4ce46071588e16f712ddbeb7ed069caccd846d5a459869d9c5eb5c",
+      "en_sha256": "3f70e4e17b03910ac0df221a76bdf1b02287c64c69dc06f3edc0f37d7fe3b92f",
+      "origin": "ai"
+    },
+    "dataList[id=940000514].desc": {
+      "pl": "Początek tury: nakłada 2 [AttackUp] i 2 [DefenseUp] na wszystkich sojuszników, licząc tę jednostkę",
+      "kr_sha256": "c925955849bce62c6d7d884e333eac8e568d2cc12c5eeef4f7ba0363e761cfce",
+      "en_sha256": "39cecb8b61cc46ffb760182e9902e5fbc5e87bc15aa24c8eaff2d090234f6571",
+      "origin": "ai"
+    },
+    "dataList[id=940000514].name": {
+      "pl": "Hierarcha Hongyuan",
+      "kr_sha256": "a4fb03aacf4ce46071588e16f712ddbeb7ed069caccd846d5a459869d9c5eb5c",
+      "en_sha256": "3f70e4e17b03910ac0df221a76bdf1b02287c64c69dc06f3edc0f37d7fe3b92f",
+      "origin": "ai"
+    },
+    "dataList[id=940000515].desc": {
+      "pl": "Początek tury: nakłada 3 [AttackUp] i 3 [DefenseUp] na wszystkich sojuszników, licząc tę jednostkę",
+      "kr_sha256": "89fe8afda7f7461a8fcaca6eb033a4f7624d9fe71f01bf385243ddbc1de4b206",
+      "en_sha256": "16bc0a902031d56df66b83718751943124fd64b167ab61e10a3669c0bde2054e",
+      "origin": "ai"
+    },
+    "dataList[id=940000515].name": {
+      "pl": "Hierarcha Hongyuan",
+      "kr_sha256": "a4fb03aacf4ce46071588e16f712ddbeb7ed069caccd846d5a459869d9c5eb5c",
+      "en_sha256": "3f70e4e17b03910ac0df221a76bdf1b02287c64c69dc06f3edc0f37d7fe3b92f",
+      "origin": "ai"
+    },
+    "dataList[id=940000516].desc": {
+      "pl": "Po przegranej starciu: zyskuje 1 [Protection] i 3 [DefenseUp] (2 razy na turę)",
+      "kr_sha256": "f445875894c03d3868555473d0a60bafe4d7653a5202903cc4e02b33d7472224",
+      "en_sha256": "a2903630bfc5e2c56188ae457424004675c8eb88276148024e85f4b1c0b09357",
+      "origin": "ai"
+    },
+    "dataList[id=940000516].name": {
+      "pl": "Jin Gang Bolus",
+      "kr_sha256": "3cc1d308380337c4635844cf1f5d81e7286d7379bf159e8796b7a57d994c3029",
+      "en_sha256": "63a8618a871a39f4752a1fab262ac8a54c738ec6088d79858c888afecb5baed9",
+      "origin": "ai"
+    },
+    "dataList[id=940000517].desc": {
+      "pl": "Po przegranej starciu: zyskuje 1 [Protection], 1 [AttackUp] i 3 [DefenseUp] (2 razy na turę)",
+      "kr_sha256": "bdf871d12c8d0404f2d5a9567ac8a05fc9c1a5ba540ef81cc4ce7026f5b49568",
+      "en_sha256": "42aa8f949cc249fc071ae75add4a41485dadc94522779b5a3c77218e280e57e6",
+      "origin": "ai"
+    },
+    "dataList[id=940000517].name": {
+      "pl": "Jin Gang Bolus",
+      "kr_sha256": "3cc1d308380337c4635844cf1f5d81e7286d7379bf159e8796b7a57d994c3029",
+      "en_sha256": "63a8618a871a39f4752a1fab262ac8a54c738ec6088d79858c888afecb5baed9",
+      "origin": "ai"
+    },
+    "dataList[id=940000518].desc": {
+      "pl": "Po przegranej starciu: zyskuje 2 [Protection], 1 [AttackUp] i 3 [DefenseUp] (2 razy na turę)",
+      "kr_sha256": "c81f413a458c7ac16f8f3bc0224cdb1029377d0d42d20f9a882fdd54eb275e28",
+      "en_sha256": "74610b8af18be99af66c7e2e9a38b31acbd3ddc0101257696507839f1cad4a65",
+      "origin": "ai"
+    },
+    "dataList[id=940000518].name": {
+      "pl": "Jin Gang Bolus",
+      "kr_sha256": "3cc1d308380337c4635844cf1f5d81e7286d7379bf159e8796b7a57d994c3029",
+      "en_sha256": "63a8618a871a39f4752a1fab262ac8a54c738ec6088d79858c888afecb5baed9",
+      "origin": "ai"
+    },
+    "dataList[id=940000519].desc": {
+      "pl": "Po przegranej starciu: zyskuje 2 [Protection], 1 [AttackUp] i 4 [DefenseUp] (2 razy na turę)",
+      "kr_sha256": "2f6462602c3bda204504da0873460c8692f728ac62bae5489837878bc2498bb6",
+      "en_sha256": "faeae351de45547b9240388e5b087f0c375a3ad0d4cc54f6014649e972bb85da",
+      "origin": "ai"
+    },
+    "dataList[id=940000519].name": {
+      "pl": "Jin Gang Bolus",
+      "kr_sha256": "3cc1d308380337c4635844cf1f5d81e7286d7379bf159e8796b7a57d994c3029",
+      "en_sha256": "63a8618a871a39f4752a1fab262ac8a54c738ec6088d79858c888afecb5baed9",
+      "origin": "ai"
+    },
+    "dataList[id=940000520].desc": {
+      "pl": "Po przegranej starciu: zyskuje 3 [Protection], 1 [AttackUp] i 4 [DefenseUp] (2 razy na turę)",
+      "kr_sha256": "5cd5c0ff6a4be996c43ea83b9f9a7f4bce4472e4a15f4cc2164a45db40ffae92",
+      "en_sha256": "baf39a90558395dbab84a90215e378c3a32c52fead800f2af2aced5edd39b826",
+      "origin": "ai"
+    },
+    "dataList[id=940000520].name": {
+      "pl": "Jin Gang Bolus",
+      "kr_sha256": "3cc1d308380337c4635844cf1f5d81e7286d7379bf159e8796b7a57d994c3029",
+      "en_sha256": "63a8618a871a39f4752a1fab262ac8a54c738ec6088d79858c888afecb5baed9",
+      "origin": "ai"
+    }
+  }
+}

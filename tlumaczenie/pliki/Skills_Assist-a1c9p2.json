@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=40000601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=40000601].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=40000601].levelList[level=1].desc": {
+      "pl": "zadaje +50% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 100%)\n[WhenUse] za każde 2 ([Laceration] + [Vibration]) celu Moc Bazowa +1 (maks. 5)\n[WhenUse] zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "0895fbcf248edb0db5536cdabecedc1e010af96f77f866831763ce204c8faf09",
+      "en_sha256": "72d0ef004e4fafe4b6113618477b3cbf3cd3de114d7b2e1640cdf19477db6eee",
+      "origin": "ai"
+    },
+    "dataList[id=40000601].levelList[level=1].name": {
+      "pl": "Obstruction",
+      "kr_sha256": "1dac12a9038fbed5317170b2d98ea6f0f6153a26152ace3c10c4d59b42574ad4",
+      "en_sha256": "7b8bd6be5f4fd18632f780e72f40e4286d4df003749928612b4fb28ae2b02b8d",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Vibration] o 3",
+      "kr_sha256": "f75b0372b2e6bc7d1a86d8955c4b59655ea22d1c005628d2f27db58d3a5f1381",
+      "en_sha256": "0d0a8b310ae73d7837df8e76ee61e270e33df641c1b545167c371fa5d39e68f2",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].levelList[level=1].desc": {
+      "pl": "zadaje +50% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 100%)\n[WhenUse] za każde 2 ([Laceration] + [Vibration]) celu Moc Bazowa +1 (maks. 5)\n[WhenUse] zyskuje 3 Licznika [Breath]",
+      "kr_sha256": "0895fbcf248edb0db5536cdabecedc1e010af96f77f866831763ce204c8faf09",
+      "en_sha256": "72d0ef004e4fafe4b6113618477b3cbf3cd3de114d7b2e1640cdf19477db6eee",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].levelList[level=1].name": {
+      "pl": "Double Chaincleave",
+      "kr_sha256": "3b8d735d886310fa76d5d87cd7b3099787870f077d5e85a2c206c09d2172268c",
+      "en_sha256": "2d033edc1d1fb4c04ec601077f263d3ab0fc112327e8a9b0d0375247022f61c3",
+      "origin": "ai"
+    },
+    "dataList[id=40000603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40000603].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [BeeSting]",
+      "kr_sha256": "98cb7175a68462ffb4da1acd6728bb1f35aa1e9aff2bc5c71e637f717dc138d3",
+      "en_sha256": "3cb2272964cdbcd8928ed868977b8b8df614bdf01a0274ddecf310c5c8185355",
+      "origin": "ai"
+    },
+    "dataList[id=40000603].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o wartość 80% zadanych obrażeń",
+      "kr_sha256": "8abb12b5ea33cc2455b85dc92cd67d233fe5249ad55ac6ba9670f010cbbcf0f2",
+      "en_sha256": "60a6c1d252d2029094a701f39c039d31b0a1b0c01aed3bd75ec3a5b704e19726",
+      "origin": "ai"
+    },
+    "dataList[id=40000603].levelList[level=1].desc": {
+      "pl": "zadaje +50% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 200%)\n[WhenUse] zyskuje 2 [CriticalDmgUpVespa] w następnej turze",
+      "kr_sha256": "383e048f36c25342cfd5b7ac83fb75d62c5f2e7705630a03aaf2fee29485c671",
+      "en_sha256": "4a9c6dd17c27c58793238974732e3101be44ecae87a5ac8ec77c6d0408106ca4",
+      "origin": "ai"
+    },
+    "dataList[id=40000603].levelList[level=1].name": {
+      "pl": "Harpoon Throw",
+      "kr_sha256": "df121a5b9f075a2f18b26eb677d251f4be23f16937d9cf58faa8371e43fb9449",
+      "en_sha256": "9e00251c7c95a3c6225f35f34cd21980026ae2c593ed98c581100eb3c4a5a67f",
+      "origin": "ai"
+    },
+    "dataList[id=40000604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40000604].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [ArtifactBeeSting]",
+      "kr_sha256": "02e5c90d69e00ef31fb0a2d6ef80d3ad6045f8403fe04d886141694acdc45f50",
+      "en_sha256": "0cc09ca2f571a0fbdd2636966e9af6385abbac4df0fab534e60a691b9166eff5",
+      "origin": "ai"
+    },
+    "dataList[id=40000604].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Oszołamia cel",
+      "kr_sha256": "8ce72714970fbd5a297fdf3dfb9b4bbc711628e88efdd139d718dc5ab5362cbd",
+      "en_sha256": "305b0afacef119a1bf5a920fc00f91235866fbd8990cf493bf14717e35f480bd",
+      "origin": "ai"
+    },
+    "dataList[id=40000604].levelList[level=1].desc": {
+      "pl": "[CantChangeTarget]\nzadaje +50% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 300%)\n[WhenUse] zyskuje 5 [CriticalDmgUpVespa] w następnej turze",
+      "kr_sha256": "9999c02d6df15a163319d42fc3601bdf5fb4c799fd1ed3004311154e52cfa63e",
+      "en_sha256": "8943ae28bb56f96a7db931d3b7206b3384f470ffaf5544a1105fa9b53dba7358",
+      "origin": "ai"
+    },
+    "dataList[id=40000604].levelList[level=1].name": {
+      "pl": "Harpoon Impalement - There It Is.",
+      "kr_sha256": "7c68d6b91dc909eadd0525487b62dd25a46613e9582d3b97d3c8fd4fc4d68a18",
+      "en_sha256": "6bd1f9ecd5965581068d15a635902163bd393cf36073bd3e373eb7302680278e",
+      "origin": "ai"
+    },
+    "dataList[id=40000605].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] usuwa Nested Harpoon z celu",
+      "kr_sha256": "84f61ef74c0a6bc9a816e09315d1c826970022020b601ce8cbcd74c68623a862",
+      "en_sha256": "c6a76a88ea5a9f99b31947fcb30aa186aa7241b77da10d2783103b8bf3458e06",
+      "origin": "ai"
+    },
+    "dataList[id=40000605].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nzadaje +50% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 200%)",
+      "kr_sha256": "c5bc43db5e8c72ed477246e3176eaabc4fac4fe82e839a195343cbc89d66c353",
+      "en_sha256": "c9227f8132a8297afdba2d206f1cd08f0933e30681facfdc6aa35f5be2fa0727",
+      "origin": "ai"
+    },
+    "dataList[id=40000605].levelList[level=1].name": {
+      "pl": "Harpoon Recall",
+      "kr_sha256": "b1f571ff4f2be1ae3785f9d75b6f43e088f0112f4ac8698710495d160fe3e88a",
+      "en_sha256": "f6da35b03a578ec1058719e2c9b17d8c01696d2bbe6d3b59f5c0fcc3e7d45da9",
+      "origin": "ai"
+    },
+    "dataList[id=40000606].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=40000606].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Vibration] o 3",
+      "kr_sha256": "f75b0372b2e6bc7d1a86d8955c4b59655ea22d1c005628d2f27db58d3a5f1381",
+      "en_sha256": "0d0a8b310ae73d7837df8e76ee61e270e33df641c1b545167c371fa5d39e68f2",
+      "origin": "ai"
+    },
+    "dataList[id=40000606].levelList[level=1].desc": {
+      "pl": "[DuelCounter]\nzadaje +50% obrażeń za każdy rodzaj negatywnego efektu celu (maks. 100%)\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>zyskuje 1 [SupportProtect]</u></b></mark></color>\n[WhenUse] zyskuje 2 [ResultEnhancement] i 2 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "15aed6e01888ad0f57fb3a4d676406e0d0f935d066df6b6ef37ce415834d7af1",
+      "en_sha256": "c8eb634c646a6fbeeaefdac2e909b7ce696b7958132ae910e3540f11a68a9230",
+      "origin": "ai"
+    },
+    "dataList[id=40000606].levelList[level=1].name": {
+      "pl": "Counterattack.",
+      "kr_sha256": "15480cbee63557532b03c68f1ca644d012e8d2253ef340bb33a9bbe39792024f",
+      "en_sha256": "aa2ed8ec988dd9cd929a4f00486c309e92e37ad5e4d094c9fa6f8eac15b7a1f2",
+      "origin": "ai"
+    },
+    "dataList[id=40000607].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40000607].levelList[level=1].desc": {
+      "pl": "[CanDuelGuard]\nUmiejętność wyłącznie dla [SupportProtect]",
+      "kr_sha256": "f67dd8ed28db18959b949f6150a351ccc9a37d0606bff51b9a9f8cd318fc0040",
+      "en_sha256": "7613eecbddf41e6d08b5e0c29c2c22e3ece5d242191f09c87e3fb583554ce7b5",
+      "origin": "ai"
+    },
+    "dataList[id=40000607].levelList[level=1].name": {
+      "pl": "Defensive Assist.",
+      "kr_sha256": "763805492e42d8d6fe56123e95f4b92511f9e800c55357bc0de8d215cce5dd00",
+      "en_sha256": "d7f810353104fe39f40380267d4fccbf7f91601d0540ebf420870c431d3c5eb6",
+      "origin": "ai"
+    }
+  }
+}

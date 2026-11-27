@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=1460].desc": {
+      "pl": "Nazwa wrogiej jednostki asystującej",
+      "kr_sha256": "e6ad4051406fe770e9730a89eddb673949ee2d5552a79095722ce05d17fc0b79",
+      "en_sha256": "a56119227be8c8aadc4d7b695df1ad7b49f0ad149a8cc27f35b6046f010533a3",
+      "origin": "ai"
+    },
+    "dataList[id=1460].name": {
+      "pl": "Zjawisko Rozbłysku - Projektor",
+      "kr_sha256": "4154068f92e2d513033aee680368d3d65f49641f8fa9fcc14e4ff73589953a10",
+      "en_sha256": "047cacbb2faa6459da670ddf9f0631a103f84018c6495732dfb875533e2794fc",
+      "origin": "ai"
+    },
+    "dataList[id=400038].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400038].name": {
+      "pl": "Aeng-du",
+      "kr_sha256": "5968e19b67953597d1404ec28c916786fbc39fa6a183f75c41cbf3daa6166712",
+      "en_sha256": "536c210c409aaf1ccde4cb2779fee43e0218d9198d3b163ca142b3f734aa70b9",
+      "origin": "ai"
+    },
+    "dataList[id=400040].desc": {
+      "pl": "Nazwa jednostki asystującej",
+      "kr_sha256": "c955a7ab7b95257ff5f1c916174607e3a7215f1fe78438df77f47a483c98ad71",
+      "en_sha256": "c8baee08be5b04c3fa497830493be49df6ea54a920b2c5b64a5afb960a2b3fbe",
+      "origin": "ai"
+    },
+    "dataList[id=400040].name": {
+      "pl": "Kim w Bambusowym Kapeluszu",
+      "kr_sha256": "c5821d9ab78d47b0c740e118449c2341ecd507076936bf49f2c0ab60b39916e5",
+      "en_sha256": "5dfaa54722c0a4c2483a0368f56be63b2324f3e09406403237defb65cd049527",
+      "origin": "ai"
+    }
+  }
+}

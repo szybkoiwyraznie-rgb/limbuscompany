@@ -1,0 +1,688 @@
+{
+  "entries": {
+    "dataList[id=Choice_1030301].content": {
+      "pl": "<color=#ebcaa2>Na początku następnej walki wszyscy sojusznicy zyskują</color> <color=#f8c200>Wzrost Mocy Ataku 3</color>.",
+      "kr_sha256": "9dd5debbdd4a5f27c77ba5c50f8264c61bd6b9e9c211e911684fe6943a6b463b",
+      "en_sha256": "f6cd7677fb52c45b801ece13207789d665cb568068b0b81a3be464ed44387f48",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_1030501].content": {
+      "pl": "<color=#ff0000>Wybuch walki!</color>\n<color=#ebcaa2>Wszyscy wrogowie</color> <color=#ebcaa2>otrzymują</color> <color=#e30000>Redukcję Mocy Ataku 5</color>!",
+      "kr_sha256": "af35f31cd7ebe8b48f5138fcdf496fb97715942cb27f22ce4a11f55ad0765d1f",
+      "en_sha256": "56929c84f7ee97b2a3c98c021078f328506b6716668ed7abac5fb45cc7627d41",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_1031001].content": {
+      "pl": "<color=#ebcaa2>Wybrany Grzesznik</color> <color=#ebcaa2>zyskuje</color> <color=#e30000>Redukcję Obrażeń 3</color> <color=#ebcaa2>na następne 2 walki.</color>",
+      "kr_sha256": "40ec6579539cf0b8fe174e2bf7d8b731e40f5268ea061d7934329bb9fc22245a",
+      "en_sha256": "d08c370b12935717f261d9c7b08c266557553557b3683c7e956b5519282bd0b6",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_1040301].content": {
+      "pl": "<color=#ebcaa2>Wybrany Grzesznik</color> <color=#ebcaa2>ma</color> <color=#e30000>10 Rozdarcia</color> <color=#ebcaa2>przez 1 turę w następnej walce.</color>",
+      "kr_sha256": "8814f2b3f4b7cf95414dd77a09fb5292c4ff81ed18462f2fd4c7c2fd5cfe5b37",
+      "en_sha256": "dfbba2293a5b3a29a205b296d1877911b28d981a7ca9cf09855e3fbf47927c89",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90100101].content": {
+      "pl": "Tożsamości bez <color=#a0392b>Umiejętności ataku o Afiniczności Gniewu</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>16 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "e2e3dfb8e6ce50d2a3f858b050bcef670db9482bd5a80a214cf823cc9aad2a04",
+      "en_sha256": "d03d1907b8879079313e426e7f36804172b16ad0e8a9e4a83e7f5c18ce2167d5",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901001].content": {
+      "pl": "<color=#ebcaa2>Na początku walki</color> Tożsamości bez <color=#a0392b>Umiejętności ataku o Afiniczności Gniewu</color> otrzymują <color=#e30000>5 obrażeń Gniewu</color>",
+      "kr_sha256": "1fd7a956d7a3380a2e1fd55d153e797b1ad2481f97caa57106bc678f13137439",
+      "en_sha256": "206441d88e36e199ec6f35dbb5d7e9de96029159660e7fc5bc2e1747e3bf78cf",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90100201].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#e30000>12 HP</color> <color=#ebcaa2>obrażeń i</color> <color=#fe4b48>8 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "5e54fd58d2aab59285734aecc5c606ed10c625ad087610cf237c1639f71638df",
+      "en_sha256": "6a192a313f819d7f1bcfe4ab26282988645627c40482fc074cfc4914afbfff37",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901004].content": {
+      "pl": "Tożsamości z <color=#a0392b>Umiejętnością ataku o Afiniczności Gniewu</color> <color=#ebcaa2>przywracają</color> <color=#f8c200>15 HP.</color>",
+      "kr_sha256": "faf46f1843fe55df77ba531cadd4e534c4d5207a85dc2d63314811ba50bdd339",
+      "en_sha256": "311cdff1241351ba02d69ea83847b395547322fd6f8ed523dc03c4aeacea8b84",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90100502].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#e30000>15 HP</color> <color=#ebcaa2>obrażeń i</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "926adb1b97f425feff1fb7cf9d38672305f98fc20ec0f587bb1539b0f7181e3d",
+      "en_sha256": "19f58eb7631018f85b4c03082bb020c66f7b5e57b8665f16ca7d2b9cac18d20c",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90100701].content": {
+      "pl": "<color=#ebcaa2>Tożsamości z</color> <color=#bb521f>Umiejętnością ataku o Afiniczności Żądzy</color> </color=#ebcaa2>przywracają</color> <color=#80c9ff>SP.</color>",
+      "kr_sha256": "1663e6b04205559f5f9ec46227089f72f90915e8208887bfe669e2af23a24d44",
+      "en_sha256": "3b834b952dc06dc06724704b8538b933ca60f3ca0c8edc7c6fab774be985449d",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901007].content": {
+      "pl": "<color=#ebcaa2>Na początku tury</color> </color=#ebcaa2>przywraca</color> <color=#00ff9c>10 HP</color> i <color=#80c9ff>SP</color> (maks. 3 tury)",
+      "kr_sha256": "90fe42cd8c38a678b30381a171d313f9fcbc96688affa085b2c2104b48ca3e9b",
+      "en_sha256": "0f9e70a7f1a959ef3f9a4da96df64b2e42ecb70e58d4f207f3fbdfdefd8164d8",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901008].content": {
+      "pl": "Tożsamości z <color=#bb521f>Umiejętnością ataku o Afiniczności Żądzy</color> <color=#ebcaa2>przywracają</color> <color=#f8c200>10 HP.</color>",
+      "kr_sha256": "5ee0387740e4e1b3a3cfcc3d8fc2eb4054780a9561e4623034fda6a796bceb67",
+      "en_sha256": "22af302a5b4acdd0caef9f517e14e0a5f8b0061f8d5eba487c004c9acc81c9e5",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90100901].content": {
+      "pl": "Tożsamości bez <color=#bb521f>Umiejętności ataku o Afiniczności Żądzy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "1e7d8cdcb40affa7a5113ffccb3571365e460ad2e0cbe9d4d2fdb0953450ddd0",
+      "en_sha256": "8ccbaca494d289c78eb87b2edd4e174c3fd2c204455ac9cbbd4c2e0999b0b1c7",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901009].content": {
+      "pl": "<color=#ebcaa2>Na początku walki</color> <color=#e30000>Moc Końcowa Umiejętności -1</color>",
+      "kr_sha256": "aa986471960580f9ffa223aa6c4bc59fcb39efc9dce542a9d3a105910035da25",
+      "en_sha256": "1de02671d40240f5160663516141b82637c7480b22c71d57207b1ffbc5daf494",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101001].content": {
+      "pl": "Tożsamości bez <color=#bb521f>Umiejętności ataku o Afiniczności Żądzy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "47859bd8f33bb20d9401219cf1508cbbda3170e1d61b18104de4ef32872ee2c1",
+      "en_sha256": "cf52de36b2b0fa3f5bc27ed47386155197cd49f03a6d355385cd113aaf2503b1",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901010].content": {
+      "pl": "<color=#ebcaa2>Na początku walki</color> Tożsamości bez <color=#bb521f>Umiejętności ataku o Afiniczności Żądzy</color> <color=#ebcaa2>zaczynają w stanie Oszołomienia</color>",
+      "kr_sha256": "72f0d39ff64e8b03e236cc2c2209fde33ac178fe8c14119080e18e0da627abd5",
+      "en_sha256": "15f65bb5f6e52ee8861aba0b6f0845d49d6dd53727303bf1e7524358f3a37997",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101101].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "a19d2fc0c7b5976390844f9c357d9026fd04cc5d09f35d4e6bf678195221e918",
+      "en_sha256": "a2464b61ceff3f098d2bc5855cf2cd66302facba4794dbdc70bcd6a9a58e80d8",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101401].content": {
+      "pl": "Tożsamości bez <color=#e48801>Umiejętności ataku o Afiniczności Lenistwa</color> <color=#fe4b48>otrzymują 12 HP</color> <color=#ebcaa2>obrażeń i</color> <color=#fe4b48>SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "9a239051ca3fefaea4e5e065b6fb6fdbe3f91d6d50902809cc4f436b4364ca56",
+      "en_sha256": "f793d521a98e4a34c81d1b1b66488394c432c4045ea248210192820a3ccdc450",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901014].content": {
+      "pl": "Tożsamości bez <color=#e48801>Umiejętności ataku o Afiniczności Lenistwa</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "c84c63280f6f41586b6c37752d5261076ea85a24ffba915b42413147a147efb6",
+      "en_sha256": "130233f017f3e97386191396f5c9533eef19e81e4fb28ba58d520cbb631235db",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101601].content": {
+      "pl": "<color=#ebcaa2>Tożsamości z</color> <color=#61822b>Umiejętnością ataku o Afiniczności Obżarstwa</color> </color=#ebcaa2>przywracają</color> <color=#80c9ff>SP.</color>",
+      "kr_sha256": "d36cf0dd63d23a02afac1dfd9a36346b69fb9ddb7f97e9e00d13d2f8eb4f891b",
+      "en_sha256": "cfaa7cc16f15bab1e63ae9417acfd9732b62c6b5bcbb1e751fee085c578ebbee",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101701].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który zaliczył test, otrzymuje</color> <color=#fe4b48>5 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "615c23114a73ca4917854bc52f58091e69d4be69eda53fa8b590fa7a5c45b29d",
+      "en_sha256": "f1b24f878afb81494021e9e80ad396442ba451056609be261fd3efb582376e95",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101702].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#fe4b48>25 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "387d91df76daa34d698ada6884cea4bb551de73348282b23a157220418fd125a",
+      "en_sha256": "a3fae50c702d022b47649b9963513ca2aa91e17dcd9efc897d6c1e5ab798f0a6",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101801].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "629284e635793d48baac8a920ddcea945718ca54a76a0127225d898db09f084e",
+      "en_sha256": "9c5be6b5e6082df961541a931764c11231e9650937dc25b9067c4013b12594f8",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901018].content": {
+      "pl": "1 losowa Tożsamość bez <color=#a0392b>Umiejętności ataku o Afiniczności Gniewu</color> <color=#ebcaa2>otrzymuje</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "42924e8d5ad1b278db451c908b0695fe1f139f62700a03738c150f97130ef1a7",
+      "en_sha256": "85c343117e7a210a2bbc6f86227128645947b69f2f7b7c4bbc225a4666449d0f",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90101901].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "cf000f980613678a693409fb10e78a557b01bc1db7db45ff249de8ba7c0eb41d",
+      "en_sha256": "be50f2410ac3df86dc5b753a4b1882d9877d325ea8671d842d1f083c5dd25f6c",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901019].content": {
+      "pl": "<color=#ebcaa2>Na początku walki</color> <color=#e30000>Szybkość -2</color>",
+      "kr_sha256": "90f5b56d8d8422940a0d7e33d007cfccaa588664c22a7183eead186cdec79a08",
+      "en_sha256": "f37e15c4fb644528d702a68b0ec381a25e6abc6d25935875e72bf02906c6e786",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102001].content": {
+      "pl": "Tożsamości bez <color=#61822b>Umiejętności ataku o Afiniczności Obżarstwa</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "ee267b401cab41c6c5871abfea2442f14cb4d630e3ec9ad2ec2b2ee613af2144",
+      "en_sha256": "a3711723c27bfba1b9ce2933c2f2c26950cb5057ed3ed0f38821ec6790762435",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102002].content": {
+      "pl": "Tożsamości bez <color=#61822b>Umiejętności ataku o Afiniczności Obżarstwa</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "451f4dc25255bea8f2428262fdb94afe9c174b02fb1c59662bbf15c7ac315a6b",
+      "en_sha256": "c7cfb0fa46dc9c3ae395f4276e63f0fc05e5f2c6e527051851dd53eb1709c336",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901021].content": {
+      "pl": "Tożsamości bez <color=#306471>Umiejętności ataku o Afiniczności Posępności</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "2019fc67297f26d12d86c16c1a732bcbbcbb86c5357e095f3eda82645f5172b4",
+      "en_sha256": "e3b4c40e37d1a9f5b948dd3c987d6979987cb0103430ac8854710f62d27d2bb4",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102201].content": {
+      "pl": "Tożsamości bez <color=#306471>Umiejętności ataku o Afiniczności Posępności</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>13 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "ffc114ba1784745197edae9619a777888d60fdd68f5bc95ea938627f8d5e6af5",
+      "en_sha256": "98a1c4bd493291dbb14eb05f35030f8d93cb4104fe15f5230127a3f57753b0b7",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102301].content": {
+      "pl": "1 losowa Tożsamość bez <color=#306471>Umiejętności ataku o Afiniczności Posępności</color> <color=#ebcaa2>otrzymuje</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "3281a469b3d3633a613827555b5afb43d8e615d62f19a8489d559ef2aa231793",
+      "en_sha256": "f2e99f4fe8d17cec859d14be57422ce0ed55b0e5a70a16a68676b4e99ffc31c3",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901023].content": {
+      "pl": "Tożsamości bez <color=#306471>Umiejętności ataku o Afiniczności Posępności</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>9 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "6ac588a17ab1068b566b672ebe0187df70a3876925770bdd3520238aac6fcbca",
+      "en_sha256": "3094c423043408f8f2556cc5ad976132fbeed57a37e79dc35e2972dec47a04b7",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901024].content": {
+      "pl": "<color=#ebcaa2>Tożsamość z najniższą Poczytalnością, posiadająca</color> <color=#306471>Umiejętność ataku o Afiniczności Posępności</color> </color=#ebcaa2>przywraca</color> <color=#f8c200>pełne HP.</color>",
+      "kr_sha256": "f012a4810c37c94f7ddea6be6ee191e960cff7be7ada985d590881554a904625",
+      "en_sha256": "e576366f65a9659173b7d9202aa82c7e08e81953054c14dde65fd5fedf16dab7",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102501].content": {
+      "pl": "Tożsamości z <color=#306471>Umiejętnością ataku o Afiniczności Posępności</color> <color=#ebcaa2>przywracają</color> <color=#f8c200>20 HP.</color>",
+      "kr_sha256": "ca49b3d5a12b7691c9387f03f372c73f6454653ef6b030713fa04c099e81de43",
+      "en_sha256": "7516ed6d6d6729a8b116e55ec4504d170dd9e5cb9da44e2d949fcfb901b53207",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901025].content": {
+      "pl": "Tożsamości bez <color=#306471>Umiejętności ataku o Afiniczności Posępności</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "3f60445303d289956da5df478eabec62263df65eafa6943b5c85456278184b78",
+      "en_sha256": "8e4541b15c5c5d36fde8e71b9ea8ba9490bf27aff506aee2f81f756ca3ea987b",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102601].content": {
+      "pl": "Tożsamości z <color=#185188>Umiejętnością ataku o Afiniczności Pychy</color> <color=#ebcaa2>przywracają</color> <color=#f8c200>10 HP.</color>",
+      "kr_sha256": "72534ee7fba090b6b904dc49e16f2906f5ec6951817b325162fd77f114f599b8",
+      "en_sha256": "05c670d82ec3136afc34196c6737954036e67f45be4e197a99fa82915b350e31",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901026].content": {
+      "pl": "Tożsamości bez <color=#185188>Umiejętności ataku o Afiniczności Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "70bbf04a67394a9735a26c4d40be1b3f890d4175aea0f6a70625e25786542be8",
+      "en_sha256": "84310b18fddb7573091f847e791e41d0e85378fa139ca8ee77821b05eb1949dd",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102701].content": {
+      "pl": "Tożsamości bez <color=#185188>Umiejętności ataku o Afiniczności Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "03136c4e40e15c6e1ba21dcd998f0b3d8c5cf7a06907cfe6be98fce70108e464",
+      "en_sha256": "a920c6811822b5f8fb4514aaa2dcfb0524e2ce737adf56cf99aef43caf8dad7d",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901027].content": {
+      "pl": "Tożsamości bez <color=#185188>Umiejętności ataku o Afiniczności Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "03136c4e40e15c6e1ba21dcd998f0b3d8c5cf7a06907cfe6be98fce70108e464",
+      "en_sha256": "a920c6811822b5f8fb4514aaa2dcfb0524e2ce737adf56cf99aef43caf8dad7d",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90102801].content": {
+      "pl": "Tożsamości z <color=#185188>Umiejętnością ataku o Afiniczności Pychy</color> <color=#ebcaa2>przywracają</color> <color=#f8c200>15 HP.</color>",
+      "kr_sha256": "ba8ce1aa1ed5b0c029f78cf2d9132a252375cdff279e10a59c430a81309ad0b5",
+      "en_sha256": "3cee2b8d8eda03890fa8caa29b1811fa4f5ff85734a2fc0725d18f17a649a84f",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901028].content": {
+      "pl": "Tożsamości bez <color=#185188>Umiejętności ataku o Afiniczności Pychy</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "3dc3fe35307debda592179886848c5245045ebaa997547b30d287b2b4db03330",
+      "en_sha256": "9810992fba71ccf7da515492b373e18ec1545ec5e9ed6a592059d4f0ea6511c0",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901032].content": {
+      "pl": "Tożsamości bez <color=#7d4e94>Umiejętności ataku o Afiniczności Zawiści</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "9cf30b6b1ba5fbe2bea3de8be15c349cdfee9c831e6fa95b6f22a834e0108e81",
+      "en_sha256": "5c4a7a43e2495a1f2a71616fbc8f67faf220299a82be73781418a605e2ad1b98",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90103301].content": {
+      "pl": "<color=#ebcaa2>W tej walce</color> <color=#f8c200>Szybkość +1</color>",
+      "kr_sha256": "19ee138e5daecdfa49eb031b0e71c9fc651e7ddc1112e66393fccdd372fe3d34",
+      "en_sha256": "c214eb07cb5cbbcc2865b66d899b73b4568eadb8f804167542aabbcf01dd1817",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90103302].content": {
+      "pl": "Tożsamości bez <color=#7d4e94>Umiejętności ataku o Afiniczności Zawiści</color> <color=#ebcaa2>otrzymują</color> <color=#e30000>15 HP</color> i <color=#fe4b48>SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "93a0e178d6105133b8e65d8caeefeee03bb9a2cd0fd4c6c5c9672eb7d36bb2c6",
+      "en_sha256": "21435281ba41944c34e8fa38f48145f64883fbc3545d3a52b8177c928d119956",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90103402].content": {
+      "pl": "<color=#ebcaa2>W tej walce</color> <color=#f8c200>Szybkość +2</color>",
+      "kr_sha256": "47360a022f646a7125888ee258a1929dbb9fa4d2b9430109f374106264fd7eea",
+      "en_sha256": "a88e5f7a09e9425602c6984908d9cec5befbd8c047f557bd470c601ff48d3568",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901034].content": {
+      "pl": "Tożsamości bez <color=#7d4e94>Umiejętności ataku o Afiniczności Zawiści</color> <color=#ebcaa2>otrzymują</color> <color=#e30000>15 HP</color> i <color=#fe4b48>SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "93a0e178d6105133b8e65d8caeefeee03bb9a2cd0fd4c6c5c9672eb7d36bb2c6",
+      "en_sha256": "21435281ba41944c34e8fa38f48145f64883fbc3545d3a52b8177c928d119956",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90103501].content": {
+      "pl": "Tożsamości z <color=#7d4e94>Umiejętnością ataku o Afiniczności Zawiści</color> <color=#ebcaa2>przywracają</color> <color=#f8c200>15 HP.</color>",
+      "kr_sha256": "e874457576a1ae31f7ff43f0e3da655bab8ef06910b0dc281eabd5188c2d21fb",
+      "en_sha256": "3a878521a41e9ff157c95f024f1d29031fe1407cb749d35af79182eec893fc46",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_901035].content": {
+      "pl": "Tożsamości bez <color=#7d4e94>Umiejętności ataku o Afiniczności Zawiści</color> <color=#ebcaa2>otrzymują</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "8ba99b970630e0c5620c2746718ed409d504406599557c1689600ce430661e5c",
+      "en_sha256": "ef0d93cfca23e0c0077d49259fa69cba8c7c8b3e18929e8f80b13f76dfe24322",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_9010400101].content": {
+      "pl": "<color=#ebcaa2>W następnej walce wszystkie Tożsamości zyskują</color> <color=#f8c200>Moc Końcową Umiejętności 2</color>",
+      "kr_sha256": "1d2ca683585bed55627bf3c80d7cc19e3c3c418e65267c034619231b28fc708a",
+      "en_sha256": "b04ed82a75b7b16dabb7652b1c03e359c409ca48cf96814fd1e505b34d73465f",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90104001].content": {
+      "pl": "<color=#ebcaa2>Następną walkę rozpoczynasz z</color> <color=#f8c200>2 zasobami E.G.O</color> <color=#ebcaa2>każdej Afiniczności</color>",
+      "kr_sha256": "e7abd8257687ee0e53cd5ece8ec0e522d4347873ccac83d2609a264ce14810d3",
+      "en_sha256": "9423f1723370d9f387585e9163db3b13c83e1cb2a3c0caf2ef244f174413b683",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90104002].content": {
+      "pl": "<color=#ebcaa2>W następnej walce wszystkie Tożsamości zyskują</color> <color=#f8c200>Moc Umiejętności 1</color>",
+      "kr_sha256": "7ec5ac05527773033956db58b604d4f0eed2b3291d308c4fd7d354c9a8314f64",
+      "en_sha256": "047887198a788988118c8f9320c8cb86d696420898dbf29b0485520ebbcd2510",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90105801].content": {
+      "pl": "Wszystkie przydzielone Tożsamości zyskują 2 poziomy",
+      "kr_sha256": "b4d1a3e3878d92572eb4431a526503dac6aa72561b1a668153541e5940269ccc",
+      "en_sha256": "6f96e5c6d6c7a4844491724231e3d507526e6ef07cc26cd1b8e171fe40e73db9",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90106802].content": {
+      "pl": "Wszystkie przydzielone Tożsamości zyskują 3 poziomy",
+      "kr_sha256": "d5b30f0a43c70f630d8588679f83c7fa0a8ac6539cb52d87054bb8062d755880",
+      "en_sha256": "553253505676792a62f86756e45a66285883ec60a0e26d49ca08fe7b06ba80ba",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90107402].content": {
+      "pl": "Wszystkie przydzielone Tożsamości zyskują 2 poziomy",
+      "kr_sha256": "b4d1a3e3878d92572eb4431a526503dac6aa72561b1a668153541e5940269ccc",
+      "en_sha256": "6f96e5c6d6c7a4844491724231e3d507526e6ef07cc26cd1b8e171fe40e73db9",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90109101].content": {
+      "pl": "Wszystkie przydzielone Tożsamości zyskują 2 poziomy",
+      "kr_sha256": "b4d1a3e3878d92572eb4431a526503dac6aa72561b1a668153541e5940269ccc",
+      "en_sha256": "6f96e5c6d6c7a4844491724231e3d507526e6ef07cc26cd1b8e171fe40e73db9",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_90200502].content": {
+      "pl": "<color=#ebcaa2>Grzesznik, który nie zaliczył testu, otrzymuje</color> <color=#e30000>15 HP</color> <color=#ebcaa2>obrażeń i</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "926adb1b97f425feff1fb7cf9d38672305f98fc20ec0f587bb1539b0f7181e3d",
+      "en_sha256": "19f58eb7631018f85b4c03082bb020c66f7b5e57b8665f16ca7d2b9cac18d20c",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901001].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Sen Piekielnego Motyla” i „Płonący Kwiat”",
+      "kr_sha256": "04df4c3c8496fb80bc973840bba5b1af22c4c52d8e391a9f166f9ff3fa1c9591",
+      "en_sha256": "4f2065520d6f6399140ac98b6a3efa8886da7f79b5366ed1144bf0ec5b6da0ed",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901002].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Perwersja” i „Groza”",
+      "kr_sha256": "4be0d2aa9a28a638a74629aeb6ed5c7894ef6d2644f2538c112fabfb3f3e2e4b",
+      "en_sha256": "1ff98fa7971aa6974255fd097e3b32e582ccde3ae881d0932a4751796ce4c310",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901009].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Żarzące Pióro” i „Roztopiony Parafin”",
+      "kr_sha256": "0fc0eef15f964dd708b0bcebb68ea9322c523871530f1ead177dbb12b8a149d9",
+      "en_sha256": "650e5a280868d6f85948ab4827ffe02f85f736d3e021de5043ab4e3e36466d08",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901010].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Krwawy Gadżet” i „Wielkość”",
+      "kr_sha256": "b81795510a5eb85813abd59b21902712251d3002b7e772f18f8c658f8dc31ae0",
+      "en_sha256": "4bb46a00ce8cf216e0048b0eec66b093548a9a917575bc4feb645af61a0e6af7",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901011].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Lisi Deszcz” i „Zniszczony Parasol”",
+      "kr_sha256": "f4690c922dd428da5f08c71b2875b960e259a770ff27e65d69076f2fd7c754bf",
+      "en_sha256": "6163475dae09a3eade3269b13efb0fd5e47075bd507a82627b64a95213cf442b",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901013].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Plik Talizmanów” i „Stara Drewniana Lalka”",
+      "kr_sha256": "b976445f3a709b0957b186141f02ca327bd2f50a75dc97e02c4673d429e985bd",
+      "en_sha256": "699cb919d2664b52d00133dbb1e45d9cdf46ffb61e6ab34e54afc0161cc6481b",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901014].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Zardzewiała Moneta Pamiątkowa” i „Przytłumiona Wściekłość”",
+      "kr_sha256": "4fe8a8d1766d15b016fa5fcb53e9d20a92346268b20672e7eaf1caf70e2db29c",
+      "en_sha256": "9b6be08cb198828862af5c9789bedd766187e09b42a68b07c491f9ccd8abec84",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901016].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Zielony Owoc” i „Kwaśny Zapach Alkoholu”",
+      "kr_sha256": "feebc53bd777cdde6fe8a8aa9edc0068765c9f55a62a104f0e7c77ecfe267a6e",
+      "en_sha256": "4ddf151a4cf2a56392c92ad1b268e3716df89db7a1c4000d1b329733facae022",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901018].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Korona z Róż” i „Azyl”",
+      "kr_sha256": "fda32d5d7028c6f1529f4654ce61121d5bf86d5799f8f72b9a6ed8e44e48ebde",
+      "en_sha256": "9626a0f65bbd89da32169401277ff0f0c012ba9d95a1920528428a86572d077a",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901019].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Lepka Wydzielina” i „Fiolka Biojadu”",
+      "kr_sha256": "f2a4457b69a5b238bfe5292fe9981bdf6067f6c61cab207570d83e56eecfc2a1",
+      "en_sha256": "e88be6fece7906e91817c0672dc3279d80cc3cf6e09f1b6de81675351376fff4",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901020].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Białe Gossypium” i „Spowity Klębek”",
+      "kr_sha256": "ed64dd9b5c7648d9d8b9a8bcfa1429f98b23929965245810568d78f81490bc9d",
+      "en_sha256": "abe7427e8cd21f8a38c53d31418cebba4b51dab2f8cf6e4a757d13ecccd16d9d",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901021].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Zapalniczka Indygo” i „Latarka Patrolowa”",
+      "kr_sha256": "995a3ff65ba6c511126e18b88b3736747cc314836f9846db4190d542b5e6ce37",
+      "en_sha256": "4d462995c0cf38e07625a51292e25a310344c663bc9cd4fa4045596a8041c769",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901024].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Stopiona Gałka Oczna” i „Trująca Skóra”",
+      "kr_sha256": "9a09f738cf5715abc056d5260ff6228f0d20ff2b83541b1a0233dc60131a55e3",
+      "en_sha256": "9318a345071fce4f1c80ee3d0025bdb4c228f80006885d2787a754c2855f54f8",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901031].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Dywergencja Nixie” i „Sprężyna Zegarowa”",
+      "kr_sha256": "b0bb1118ca577c61bca7be4097250c7d968826446bfe667f9123d48967f6e493",
+      "en_sha256": "4bd3c4e1a53faafef5b6a61a0aca716e826865773216e0dad077b4460e38fa2f",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901033].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Standardowa Bateria Służbowa” i „Bezlimitowy Defibrylator”",
+      "kr_sha256": "41b2c8ed411e74d45db63390f4d63fb5c9a23c5f0a0a4176efe5a329f851d601",
+      "en_sha256": "c4a8f5fb242992ad5e9fe7891c26bb419b0a4442ae94c0e411d5e7d27234bb77",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901034].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Obwód Logiczny Punktowego Uderzenia” i „Zasilacz Bezprzerwowy”",
+      "kr_sha256": "1f99c6fe6d1d20963a182fcba133ed63227596e559a5e14e664406a612ff995a",
+      "en_sha256": "d76217a0a0bd4f1111c557ebf52338e3f065ba2813c90e725c2cef59e46829d3",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901056].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Czterolistna Koniczyna” i „Smaragdowe Pokrywy”",
+      "kr_sha256": "0c4b37e439c5d16e1d4234081ad6b5723433d42e6613d71ddd327c2f749b2653",
+      "en_sha256": "4398c63ca18e6519a9eeef2d772403063c2ca1fe16abdd46e07639e4c8c16aad",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901059].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Koszmara Środka Zimy” i „Wnyki Prastarego Drzewa”",
+      "kr_sha256": "535dc8d30e06de6438f12ed8490a9735a71e5e128ac42fcfb292bc8e0b6bb428",
+      "en_sha256": "4288a10c9e4d1bdeaad37fb02624d1db76e60c20867063cab11c8485a6e6318b",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901073].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Zestaw Endorfin” i „Lampa Fluorescencyjna”",
+      "kr_sha256": "fa13943560c56316a3e08050c86f3e6712fed4ee1f3860cd53c25a5249f240be",
+      "en_sha256": "bffb939d11913951527970592e2660c1d1ef8add94aa5834fdc82b96243f6544",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901101].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dar E.G.O „Miniatura Telepole”",
+      "kr_sha256": "451bd8585708149224c627c9bbb07a4dc2a82cba2620d1b941380fb0eb4b96a3",
+      "en_sha256": "cb965b4671097477809e12c9a1a71c99a5e60027c893707e27c165d26d8f315a",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO901104].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dar E.G.O „Rozdarty Worek Krwi”",
+      "kr_sha256": "3fade5eaf91ffd9694e15210abdb1b92baa4eb5e2c0eea8ed336a7147d80fcd5",
+      "en_sha256": "dffea47d1adaa7c08c03f1d61b522c2662fbb4eb89d06c6b615e7e05170c9600",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO971029].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dary E.G.O „Wymiarowy Sztylet Typu E” i „Przenośna Bateria Bariery”",
+      "kr_sha256": "aeee31b486e631b1af968b78ad91425203f9469f171a751181d032159a24f76e",
+      "en_sha256": "53a14206d0e5637c5b84144a97f9233e9528e95cf5abbbec322818eb35e1ddcd",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_EGO971054].content": {
+      "pl": "Wygraj walkę, aby zdobyć Dar E.G.O „Chlupoczący Zbiornik Paliwa”",
+      "kr_sha256": "61540c723347a527a664851cb5a939e4e10952e7307a0bbdf67c17f2e801f46f",
+      "en_sha256": "deec13a9418ff680ef238dea37385b6bb2cc27feca719c0c276b2ef942d81dab",
+      "origin": "ai"
+    },
+    "dataList[id=Choice_LoseBattle].content": {
+      "pl": "<color=#ff0000>W razie przegranej walki — brak nagród</color>",
+      "kr_sha256": "6c215f5ad9a7384188acc6c7034bcd175805c0b3e28bd2059a65affc30fed5e2",
+      "en_sha256": "1b02b04c31152e31f6a39262fe6bcafa4d7ac46230f40bc019ced1f51fd86382",
+      "origin": "ai"
+    },
+    "dataList[id=DestroyEgogift].content": {
+      "pl": "<color=#ebcaa2>Dar E.G.O {reward}</color> <color=#e30000>zniszczony!</color>",
+      "kr_sha256": "e063da6a0bc7195208b1b8720873d412685db735bbaa728a266a8b1f67728754",
+      "en_sha256": "b8135a11866f1cd910fa9c8a0496e7ac0c065e7435f57152966804f34ed997ec",
+      "origin": "ai"
+    },
+    "dataList[id=GetBuff_OnStageStart].content": {
+      "pl": "<color=#ebcaa2>{target} {conditional} wejdzie do następnej walki z {stack} {buffName}.</color>",
+      "kr_sha256": "7a7ce2ea0e2adf7c0deff771e27db7b3ea3a460776b12d5ea85a716e531dbe60",
+      "en_sha256": "bbd74e6611f48278c355b61f16e02b9284e9e0a0841ea6c56220e815c5ea9aee",
+      "origin": "ai"
+    },
+    "dataList[id=GetCharacter].content": {
+      "pl": "<color=#ebcaa2>Wydarzenie: rekrutacja Grzesznika!</color>",
+      "kr_sha256": "62145a91d4cdf69247bd0a2bf7a4e4d831bde0eb5d7de952c2bd28e484d5b463",
+      "en_sha256": "cd035841449bb738d21276a6bb232826158608fc781256af306f1e550306590b",
+      "origin": "ai"
+    },
+    "dataList[id=GetConfirmedEgogiftOnWinBattle].content": {
+      "pl": "<color=#ebcaa2>Wygraj następną walkę, aby zdobyć Dar E.G.O {reward}!</color>",
+      "kr_sha256": "b92e5735216f5d94eea9e4cebccabb9436057f032e47a3528fb602801fcbc00b",
+      "en_sha256": "051621db82e9c5223272dcb367bb938aa8b3e4aa336908ab546406750211847c",
+      "origin": "ai"
+    },
+    "dataList[id=GetConfirmedEgogift].content": {
+      "pl": "<color=#ebcaa2>Zdobyto Dar E.G.O {reward}!</color>",
+      "kr_sha256": "c4c55cf6768623483525be3e00eadc1a32aa5e787cb7dec33617e89cc5779cf9",
+      "en_sha256": "81f34ba08fda2022e7a60ea152e5dcb2fbbed9664e477562e32663aee461a53a",
+      "origin": "ai"
+    },
+    "dataList[id=GetConfirmedStackableEgogift].content": {
+      "pl": "<color=#ebcaa2>Zdobyto Dar E.G.O {reward} x{stack}!</color>",
+      "kr_sha256": "d8812d91f824c598912ca18b6f1e07076fd9ae343649b2075a0a3f70f2e56719",
+      "en_sha256": "6c44243e96fd7caf1d6c10465d8f53aa588a23a3574e7a2080aafd52fa7ddcfb",
+      "origin": "ai"
+    },
+    "dataList[id=GetEgogift].content": {
+      "pl": "<color=#ebcaa2>Wydarzenie: losowy Dar E.G.O!</color>",
+      "kr_sha256": "285c2b11f609fbc9a2845bb1c1be2c7b5b212b3cbfdabd87e3d98fa40f4b0dd9",
+      "en_sha256": "a04747e56bd8866aba9d139a1fd851b491ac15038bd61cda263dc2390cdd6c2a",
+      "origin": "ai"
+    },
+    "dataList[id=GetImmediateConfirmedEgogifts].content": {
+      "pl": "<color=#ebcaa2>Zdobyto Dar E.G.O {reward}!</color>",
+      "kr_sha256": "c4c55cf6768623483525be3e00eadc1a32aa5e787cb7dec33617e89cc5779cf9",
+      "en_sha256": "81f34ba08fda2022e7a60ea152e5dcb2fbbed9664e477562e32663aee461a53a",
+      "origin": "ai"
+    },
+    "dataList[id=LevelupPersonalityOnWinBattle].content": {
+      "pl": "<color=#ebcaa2>Wygraj następną walkę, aby zrekrutować Grzesznika!</color>",
+      "kr_sha256": "d3c0f4ee0f60ec40da9c8959257bdc8447b0e986abdba7eab62d74eb025fe307",
+      "en_sha256": "7ca6cb02f562bbebfe3e6383c513a651c8b094b2b5ecb79f6d5deff3722a1793",
+      "origin": "ai"
+    },
+    "dataList[id=LevelupPersonality].content": {
+      "pl": "<color=#ebcaa2>Wydarzenie: wzmocnienie Grzesznika!</color>",
+      "kr_sha256": "b8d18353c981bc2be640471d56c4a464f3c75e1048db3712bdb8f0ceb91e0516",
+      "en_sha256": "d2b59670c505cb0234fba9db7ada87b8e8c80338770de8aff8253a69589718ed",
+      "origin": "ai"
+    },
+    "dataList[id=LoseConfirmedStackableEgogift].content": {
+      "pl": "<color=#ebcaa2>Utracono Dar E.G.O {reward} x{stack}!</color>",
+      "kr_sha256": "77503c921aff811551f4d5abd32ab4f4fdb04f72646ca492c0af85f534a83027",
+      "en_sha256": "7170c2e7d68e3efa70d5265112e90672659b10750e8e686f49e2ce32805d2315",
+      "origin": "ai"
+    },
+    "dataList[id=LoseHpMpDifferentAmount].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>zadano</color> <color=#e30000>{hpAmount} HP</color> i <color=#fe4b48>{mpAmount} SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "cec96feb1ebca80bd3bdd5e661fb742a9c19b97131a75a5c2ff8abd09a3e53f5",
+      "en_sha256": "e8bd167a8fafdaa4de48ba3770e645483cc98a0d8ed39bdc40ff582316a14e5e",
+      "origin": "ai"
+    },
+    "dataList[id=LoseHpMpSameAmount].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>zadano</color> <color=#e30000>{amount} HP</color> i <color=#fe4b48>SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "b89e291c0a74a7c5b7b8e69bc72c20e34ec4d4c086c7284d26ec5d726369f734",
+      "en_sha256": "63dcd4b4d30e8b937dc2fc137eac2253f9e16692825926f8fb85731553fd63f7",
+      "origin": "ai"
+    },
+    "dataList[id=LoseHpOnly].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>zadano {amount} HP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "4dea1626343b7b914811ed5958eab0f3931686861b7d6fdbe1b530be1a878e3a",
+      "en_sha256": "e666c50248f5b4d31868674e14670e274f068f67cc0a6c487d5365c8499f5747",
+      "origin": "ai"
+    },
+    "dataList[id=LoseMpOnlyUntilMin].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#fe4b48>SP do wartości minimalnej</color> <color=#ebcaa2>zredukowane</color>",
+      "kr_sha256": "1134e99951f350c693ab0163173931f1a630620a8493aadee2ff548f724b746a",
+      "en_sha256": "0470f1b514f2f1dd65000cb39a30e662d4aa5fe54eee9d16f1d2ca029cd51d61",
+      "origin": "ai"
+    },
+    "dataList[id=LoseMpOnly].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#fe4b48>zadano {amount} SP</color> <color=#ebcaa2>obrażeń!</color>",
+      "kr_sha256": "64eb8db73c836764f51ddfa6a76bbc84a0c71181fadf730c949ae1ba5c73cfd6",
+      "en_sha256": "04d512ed90c7ab3e0daafcecaf7dd805ed920cdd2215aeec1acb83b41db886f6",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorDungeonAcquireCost].content": {
+      "pl": "<color=#ebcaa2>Zyskano Koszt {amount} </color>",
+      "kr_sha256": "8dee4134e34e959e1fe608e851279eb14b031779da0136abb6390906b1666ad2",
+      "en_sha256": "b87878a565761a4ee2e4903aa5dbc65f219e5a9011c98d6154092fcc8c24f374",
+      "origin": "ai"
+    },
+    "dataList[id=MirrorDungeonLossCost].content": {
+      "pl": "<color=#ebcaa2>Koszt {amount} przepadł </color>",
+      "kr_sha256": "088787a6830ed1d693daa2446c410fbd988ec9d1d1fa1e58e8ba4b5494ff9bb9",
+      "en_sha256": "69e908c800b9797f9a786fa54b050d8a772845881a4a8d8815ff912ee51173e7",
+      "origin": "ai"
+    },
+    "dataList[id=Nothing].content": {
+      "pl": "<color=#ebcaa2>Nic się nie stało.</color>",
+      "kr_sha256": "037eb79711719b334e4ea0431bb7f24c77b15f65bdff4e9a39a6cb48cdcbac76",
+      "en_sha256": "7d9b4cc39367818299c67645e66f04d2e3ea34832b89cbb1e1a84fb8d5310506",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverHpMpDifferentAmount].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono</color> <color=#00ff9c>{hpAmount} HP</color> i <color=#80c9ff>{mpAmount} SP.</color>",
+      "kr_sha256": "70247c69bfa776066dacb920c4a757b51819c19466baf59d404abc29f34c5a3d",
+      "en_sha256": "9ce02812fbe23805c361e9efa019668920cc5db3180ba3f48ce67571fc7069a5",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverHpMpSameAmount].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono</color> <color=#00ff9c>{amount} HP</color> i <color=#80c9ff>SP.</color>",
+      "kr_sha256": "e28e6415ed6e517bd1f4367a072edfaf678654c79579383deb253ae3c8b1b9f6",
+      "en_sha256": "0f4982de7d3890a6de6e9f6277651b911c0a0b75ce626c05be0c3312fe82898f",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverHpOnlyUntilMax].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono do</color> <color=#00ff9c>pełnego HP.</color>",
+      "kr_sha256": "725c4cb4c317988019af681691b892915027ba9eb15c35b5731c2cc58366a2b8",
+      "en_sha256": "15269fc4b755292329b523c54e5c8c001da7fa7e99be47402a17d9d8c824b002",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverHpOnly].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono</color> <color=#00ff9c>{amount} HP.</color>",
+      "kr_sha256": "3b57b5c3270bafd470bdeb9d1decdc097b5a9539459f219ccd5b76858ecf6b73",
+      "en_sha256": "4877cf778989bcca870669d879a3dce5f8cf5fa2f538db435741914aece5e444",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverMpOnlyUntilMax].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono do</color> <color=#80c9ff>pełnego SP.</color>",
+      "kr_sha256": "28df6f980310ee73b24183f8704c9c7cc8ddc10d0cbde6077237825cb9cb7bf5",
+      "en_sha256": "e0c635ff1fc52b6cd24af2c8cd19f2c8ae4383744d6e0595de5b74306afb8dac",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverMpOnly].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono</color> <color=#80c9ff>{amount} SP.</color>",
+      "kr_sha256": "5614af5fa276fe85e622f1545aab120959c326fb0149f1d39054f6b9de1b8f87",
+      "en_sha256": "576e999f5e8c1e5230c13eecc3ce4dd08daf1a58140107bb8f16c03ea3ebdd2e",
+      "origin": "ai"
+    },
+    "dataList[id=RecoverRatioHpOnly].content": {
+      "pl": "<color=#ebcaa2>{conditions}{targets}</color> <color=#ebcaa2>przywrócono</color> <color=#00ff9c>{amount}% Maks. HP.</color>",
+      "kr_sha256": "9efa2413f77af2a81e602add9140a284d79b6b993d4ceb3098277b77702261ce",
+      "en_sha256": "558371237addc763e366f2037aeaafb4b5e7ce3bac779f1758de9e1f01c6dc1a",
+      "origin": "ai"
+    },
+    "dataList[id=ReduceEnemyWave].content": {
+      "pl": "<color=#ebcaa2>Liczba fal wrogów w następnej walce zmniejszona o {waveNum}</color>",
+      "kr_sha256": "aecc2f141b7773e76af2742140c495b7c8f760ba4286211d762026c6fcc1d33f",
+      "en_sha256": "a6031ec0173625caba0948a2ea7de04565cc0e69837a7f7b5a3b86eb1c8eb9a3",
+      "origin": "ai"
+    },
+    "dataList[id=ReviveOutOfBattleAndRecoverHpAll].content": {
+      "pl": "Wskrzeszenie zmarłych Grzeszników oraz <color=#00ff9c>przywrócenie pełnego HP</color> <color=#ebcaa2>wszystkim Grzesznikom</color>",
+      "kr_sha256": "6f12570418f6d14dbf2bb370ce685f14f23acb715cb1a592c60f58edd9d86dc9",
+      "en_sha256": "c00433981db822cfce9f7ebb3a3ba7b34269881ce9d95a0553777e18186e2aec",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle].content": {
+      "pl": "<color=#ff0000>Wybuch walki!</color>",
+      "kr_sha256": "2d7e12b800a988654d3184c271d14f688239807694e1f29ae6d023329d5f5589",
+      "en_sha256": "9c3c5492e2df7e65f0aba951e32666d1993f3150e6f1f771c2197bfe82bfa15e",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle_Abnormality].content": {
+      "pl": "<color=#ff0000>Wybuch walki skupionej!</color>",
+      "kr_sha256": "60d6f3712020d3e08ebc3e34025715aed58a7e723841760c954a6f5ad89dc43e",
+      "en_sha256": "ea8afea2e6df174b30636b2adaea62b28274e07d742b7f1018e8a59fc80ea667",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle_Danger].content": {
+      "pl": "<color=#ff0000>Wybuch ryzykownej walki!</color>",
+      "kr_sha256": "0d79904abf5d0ed6cb658b09c31fda94f57a02aafa3449771b0953e03b59b546",
+      "en_sha256": "c8c1db4456bf2fdb422298f29c755127766332d64ff7fae66e407332d5560e7e",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle_FloorBoss].content": {
+      "pl": "<color=#ff0000>Wybuch walki z Bossem Piętra!</color>",
+      "kr_sha256": "748011b7946fc0b14f123ecd4c01c9e76885ca9d25bc664b4f3d62c48ddcb7d0",
+      "en_sha256": "6094bda935de0b0ef37589a7c46de9708694777247056a82ec084e21aa3ff8cb",
+      "origin": "ai"
+    },
+    "dataList[id=StartBattle_Normal].content": {
+      "pl": "<color=#ff0000>Wybuch zwykłej walki!</color>",
+      "kr_sha256": "66a1d88ff90d206455a2f118286d9164ca2c180f0b0d67ac032c14d48b2c79c6",
+      "en_sha256": "37d271df5928f2420b22f80cc61e1524429ba4755718c3d64ffdb9b534149ebe",
+      "origin": "ai"
+    },
+    "dataList[id=UnlockHiddenRoute].content": {
+      "pl": "<color=#ebcaa2>Nowa ścieżka na mapie!</color>",
+      "kr_sha256": "d01c5102ff742f619cc54e746b63060009f289de67d76d22baa71836a9955119",
+      "en_sha256": "aa489674cb00a54e3d59970561789b126283a91c3abc321173febe7bdcee539f",
+      "origin": "ai"
+    }
+  }
+}

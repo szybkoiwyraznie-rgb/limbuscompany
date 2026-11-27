@@ -1,0 +1,202 @@
+{
+  "entries": {
+    "dataList[id=40004101].desc": {
+      "pl": "Gdy ta jednostka zyskuje [Charge], zamiast tego zyskuje [ChargeRouge]\n\nPoczątek etapu: zyskuje 1 Siły [ChargeRouge]\n\nPoczątek tury: przy 2+ Siły [ChargeRouge], zwiększa Licznik [ChargeRouge] o (Siła [ChargeRouge] x 2)",
+      "kr_sha256": "a1109df44faebe7bacf75514f4bc0de00b7953bef726379a99a8dd65f2f0314a",
+      "en_sha256": "b6b962cbaa353337249d4eb59a10a2426eceb92b0e17fc104a324cf6c0ccbe30",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].flavor": {
+      "pl": "Młody bóg — ale jednak bóg.",
+      "kr_sha256": "597e47107c30ab07bd1aed70aeaa7fb34a693fd16271946b4a863a23082b3075",
+      "en_sha256": "26affd3d3bd427460c63337fcefb2ae7715e61566dcd027bc8dff1d6a517805f",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].name": {
+      "pl": "The Nascent Crimson God",
+      "kr_sha256": "f6a65babbcfad5cce8532e5caff874c91842f8cb902e5740c664f5922818f650",
+      "en_sha256": "9c30648a6b20de3c00cea873636f42ff2fdc7fdb1d71f1aa7c243227dcd39090",
+      "origin": "ai"
+    },
+    "dataList[id=40004101].summary": {
+      "pl": "Zyskuje [ChargeRouge]",
+      "kr_sha256": "7053f6d082a4292edd46d909e9cc5a15a94fab0553b513804f7b2267f326a5e2",
+      "en_sha256": "65c3ab2764ce52959dc2f297264c3415891bf594b4be014679f9551f0948c924",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].desc": {
+      "pl": "Za każdym razem, gdy w walce uruchamia się efekt [Laceration], zwiększa Licznik [ChargeRouge] o 1",
+      "kr_sha256": "c444ba4ed3ef4e3ddbab43656b204754ad99a16c75df53999c1ab23f6a513da2",
+      "en_sha256": "61b0331054ca3648137e4dea3c46e51ef2d70a420fb36b66bf92bb7a4293e960",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].flavor": {
+      "pl": "Dlaczego... przy każdym widoku krwi serce mi tak szaleje…?",
+      "kr_sha256": "7747e53992d5123c253b8bbba5be66f22db59eef8b9b6d215a1660c41af30955",
+      "en_sha256": "e99403125dc9106094fa79105eb75bca827814c1a7411633b98809ab33353e4b",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].name": {
+      "pl": "Pulsating Nature",
+      "kr_sha256": "f34afafb0e6351109994c1542e4ca192c2e10a19ebb9724846aabf14d995d2ec",
+      "en_sha256": "3d6680a86765ea60521e3c66e612e2655df42235c5be0f0db8861cf15e8fdba8",
+      "origin": "ai"
+    },
+    "dataList[id=40004102].summary": {
+      "pl": "Zwiększa Licznik [ChargeRouge]",
+      "kr_sha256": "128c053a168bd07fc5438b32873cbc15e7b994567e4d497cec4d7656728dbb2f",
+      "en_sha256": "552f1939ba34de074af78609f6c25a3f7f2324357eb24a2bfaddefb365cd2bab",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].desc": {
+      "pl": "Zyskuje wszystkie poniższe efekty w zależności od Siły [ChargeRouge] tej jednostki\n- 1: za każde 1 Licznika [ChargeRouge] zadaje +2% obrażeń (maks. 20%) i przywraca celowi +10% HP (maks. 100%, zaokrąglone w dół)\n- 2: za każde 2 Siły [ChargeRouge] Moc Bazowa +1\n- 3: na początku tury, jeżeli ta jednostka nie ma efektu [GourmandiseAlly], a jej Licznik [ChargeRouge] wynosi 15+, zużywa cały Licznik [ChargeRouge] i zyskuje 3 [GourmandiseAlly]\n- 4: liczba slotów Umiejętności +1\n- 5: na początku etapu zyskuje 3 [GourmandiseAlly] i nakłada 3 [BloodyMucusAlly] na wszystkich wrogów",
+      "kr_sha256": "99805cc0793c73297dad6c99964d75a46ac3eb99b15d45be7a8e4af0232c4848",
+      "en_sha256": "f60e3d147468a012bc4f5d614d85968d8bfa8f1c3d72a6bf9695516f8864d04c",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].flavor": {
+      "pl": "Patrząc im na plecy, krok po kroku poznawało świat i dom towarowy. A także siebie — bo spośród części tego ciała tylko oczy było najjaśniejsze i najbardziej naturalne.",
+      "kr_sha256": "0d8c17d15f107647b9126b3576771cecd1132e72dbaa39e8a17a3bd165c93576",
+      "en_sha256": "4ff1c2b6429e1070bdfa03ee1d45b1a9cf0d7d5e397533ddf99f323de330c37b",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].name": {
+      "pl": "The Adventure",
+      "kr_sha256": "0fa1ddd018f195b187cc465030a386b4ef290fbbdef37e9a6b757f1fb52a0172",
+      "en_sha256": "fb023412d0ef9ed2a5625b310b79cabce548517355828fb10eb70d48a3ee9026",
+      "origin": "ai"
+    },
+    "dataList[id=40004103].summary": {
+      "pl": "Efekt wzmocniony w zależności od Siły [ChargeRouge] tej jednostki",
+      "kr_sha256": "faee8b082f8b93752a960d1ac4577867c8a0d7c54edc62787450668ad18cd26f",
+      "en_sha256": "b8cc3d361c3f46ac950176ecf0bfb8fa9b0d5f6f927f3cb42e5080491b9c7813",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].desc": {
+      "pl": "Gdy w walce któryś sojusznik zostanie Oszołomiony, używa na nim Umiejętności „Grab My Hand” (2 razy na turę)",
+      "kr_sha256": "7b4d7a9f7a2d211d3180ad20acaf95868db5d9c61645fbfc3cb4e591896781a2",
+      "en_sha256": "6b5c8c58f74a8a458bc8d7d7bf4e1346111b5e93e86df2a58c990a87a572a28e",
+      "origin": "ai"
+    },
+    "dataList[id=40004104].name": {
+      "pl": "A Helping Hand",
+      "kr_sha256": "3adf52c02ab8451c00d495a904e2e7a43dc284e70112c5335a7988d145f92e89",
+      "en_sha256": "65728c12a123c9e2fd1a1fb4bfa504354086b5f06b1e3549f95e5892f8785118",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].desc": {
+      "pl": "Jeżeli ta jednostka ma efekt [GourmandiseAlly], zyskuje następujące efekty:\n- przywraca HP równe 20% zadanych obrażeń\n- przy użyciu Umiejętności zwiększa Licznik [Laceration] o 3\n- przy trafieniu Umiejętnością zyskuje 1 [Laceration]",
+      "kr_sha256": "3c517b02cc2e2567080dbfa72af5c379f4d85ef5256d94a7bd8a1d8b6e94139e",
+      "en_sha256": "62854e12c2fbe45c2190acd95a98cc1fac921b24ea16c0e0d5dfded3a448b950",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].flavor": {
+      "pl": "Choć ramiona, nogi i wszystko inne w tym ciele wydają się obce, słabe tętno z jego wnętrza stopniowo zaczyna jedynie szaleńczo pulsować.",
+      "kr_sha256": "2d617b94fc25cfc58fff52bf5538a1746c4d3f33813e9571b038c09ee454cac8",
+      "en_sha256": "7afc1d96ad6cdd9bb0664b887074c79b6c4164d1063fc52ed0675fb208b2570f",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].name": {
+      "pl": "Body Out of Control",
+      "kr_sha256": "851639947f2d33eddb0434645c6909026653912a5cf43aedbb5e3014239e20b4",
+      "en_sha256": "0eac13140d07ea06ce6787ebed0237aaedc87028d663d4d4597d3ca078296623",
+      "origin": "ai"
+    },
+    "dataList[id=40004105].summary": {
+      "pl": "Zyskuje 1 [Laceration]",
+      "kr_sha256": "cb5c4f14dd4c8b9bf6472b89bc22860610ae5f950f0bf0f944efee26c1495d31",
+      "en_sha256": "7f2e0b4ed11ff78483de03d0af875f63dff499fcade94f9029c59bc876e03911",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].desc": {
+      "pl": "Gdy Umiejętność ataku nie pokonuje wroga, używa na nim Umiejętności „I'll End It for You...” (1 raz na turę)",
+      "kr_sha256": "41404a9a7ef7f7ba816a492aa1b599c24046de28b7f969a0d37eccdcc0d58781",
+      "en_sha256": "d89df191328ce307edf99bfe40bc82cc2ba23f79879eb1994046d3e3562ef46e",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].flavor": {
+      "pl": "Mówili, że do przeszywania skóry potrzeba gwoździa grubego i mocnego, nie tylko ostrego. Jeśli to nie przebije — spróbuję jeszcze raz…!",
+      "kr_sha256": "263fe7c5c53abccafe367726d5091ee1ad352b041f93818f2e2d6244092f6084",
+      "en_sha256": "89761f0e689090d981d429b8abfee51aa162a182e49d7677f1b3f4de03751546",
+      "origin": "ai"
+    },
+    "dataList[id=40004107].name": {
+      "pl": "Leather-sewing Nail",
+      "kr_sha256": "cedefe705509a3cbcd20d1482f4c9b212d25fcf70155eab1e400070c0b32692e",
+      "en_sha256": "23011f02cfaf970e874dca720cd212f55d2958baca9267f561b199bbc796e5d0",
+      "origin": "ai"
+    },
+    "dataList[id=40004108].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40004108].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40004108].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40004202].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40004202].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40004202].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40004203].desc": {
+      "pl": "Ta jednostka otrzymuje obrażenia tylko od Umiejętności, których celem głównym jest ta jednostka; innych obrażeń nie otrzymuje\n\nGdy po raz pierwszy pojawia się w walce, tworzy [BuffetField] na polu walki\n\nPoczątek tury: jednostki w zasięgu [BuffetField] otrzymują następujące efekty\n- sojusznicy (licząc tę jednostkę)\n· przywraca 5% Maks. HP\n· zwiększa Licznik [Charge] o 4\n· nakłada 1 [Protection]\n· jeżeli dotknięty sojusznik należy do frakcji Le Rouge, nakłada 2 [Enhancement]\n· Umiejętności E.G.O zadają +50% obrażeń\n\n- wrogowie\n· nakłada 3 [AttackDown]\n· nakłada 3 [DefenseDown]\n· nakłada 2 [BloodyMucusAlly]",
+      "kr_sha256": "6aa9e8879e6ca57679d6d7e30a0c92bb0ddf9025648928ea22447f6ef6d342dc",
+      "en_sha256": "27b10f220d4cdd826eafdd4b9c40b8daba296ce94360a928dd64366c71613f0f",
+      "origin": "ai"
+    },
+    "dataList[id=40004203].flavor": {
+      "pl": "W nieustającej uczcie Karmazynowy Bóg pożera i pożera; to, co połknięte, zostaje strawione i wydalone jako pole śluzu wokół niego.\nTo owoc konsumpcji, w której granica między mną a innymi zaciera się. Czy ta flegmatyczna wydzielina jest częścią mnie, czy czegoś obcego? W tych granicach wszystko, co moje, pulsuje, a to, co nie moje — rozpada się.\n\nBo przeraża mnie to, co leży poza ich obwodem.",
+      "kr_sha256": "26572d99344f07efc1a0939c035d9399cd113f35f033416a9751cb29286dd390",
+      "en_sha256": "8c7eb5a53a38e47484e09c6e768a5ab0ade610ba725de06fab4003389f186c33",
+      "origin": "ai"
+    },
+    "dataList[id=40004203].name": {
+      "pl": "Le Visqueux-Abject",
+      "kr_sha256": "5216d2ebfad2c458c64de775408e41090cc43f61974cf093c61c21037e649200",
+      "en_sha256": "5ddd27cbe6bbe17c9f0461d4372e6b9c7d610138c5d50f756a506c60aef61180",
+      "origin": "ai"
+    },
+    "dataList[id=40004204].desc": {
+      "pl": "Początek etapu: zyskuje 5 Siły [ChargeRouge]\n\nKoniec tury: przy Liczniku [ChargeRouge] 15+, wyposaża Umiejętność „La Nausée”\nNa początku każdej tury zyskuje +20 [Aggro]",
+      "kr_sha256": "83ceeca8e3600b3aeb0656199746cadbeb97517cfc0efa58aaf6712aff70266a",
+      "en_sha256": "926137a1388fbfa92deb2c40ee5bba6baba49b1aa34fc5f714a6978419dff2df",
+      "origin": "ai"
+    },
+    "dataList[id=40004204].flavor": {
+      "pl": "Kto wyznacza koniec dzieciństwa?\n\nKarmazynowe dziecko dorastało podczas wyprawy, kształtowane przez doświadczenia i szkicujące własną przyszłość na jej końcu — tak przynajmniej myślało. Dzieciństwo skończyło się nagle, a wraz z nim wyprawa; nigdy nie było czymś, co można zakończyć na własnych warunkach.\n\nKoniec dzieciństwa to nagła, brutalna ingerencja rzeczywistości ze świata zewnętrznego — bardziej wymuszona nota niż obiecywany rytuał: „Nie jesteś już dzieckiem.”",
+      "kr_sha256": "f2ffe2bea8fc5c3a4941f89f789d6f6b1771d476ad04722f5f3f0b15a2ba5e25",
+      "en_sha256": "9158ba885bb32c96aca118233717f48bec4eec393df08577bed22ddced16400c",
+      "origin": "ai"
+    },
+    "dataList[id=40004204].name": {
+      "pl": "La Fin de l'Enfance",
+      "kr_sha256": "3dea13a01dda14c94beb256b5cc60a03842460f73c4fdbac907c1ab5f0286752",
+      "en_sha256": "a0a3c54d7c856289925a067ae05da03e7aa05ea9d2e9ef01c5160004569b3f58",
+      "origin": "ai"
+    }
+  }
+}

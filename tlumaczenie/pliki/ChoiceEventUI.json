@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "dataList[id=all_attribute].content": {
+      "pl": "Wszystkie Afiniczności",
+      "kr_sha256": "48628547012bfac2e1c7e2c5715e86c127c3c6bb27651565a9bcc33bcaa22371",
+      "en_sha256": "2fd2156ff0c3a155bb3a74e4c4f3ba4e883d9edd50449ff0e3a78e192063ff8d",
+      "origin": "ai"
+    },
+    "dataList[id=event_expected_success_rate_format].content": {
+      "pl": "Przewidywane szanse: {0}",
+      "kr_sha256": "9fdd92bb221dfe44eb330f3124adc58bc4a010f3884fbf2617c260ce4be1e446",
+      "en_sha256": "0c6dca29d7b53d1b2a0a229b86806d9bb42608ccd2fd388466b72d39d2e81803",
+      "origin": "ai"
+    },
+    "dataList[id=event_judgement_above].content": {
+      "pl": "Test <color=#f8c200>korzystny</color>",
+      "kr_sha256": "e1f2173bd64486b0cc7e095f9e3cad1ada42125940e1d3cdda7f38caf7203359",
+      "en_sha256": "a71d655a8239828d50358077aa8439b8b0ee1cf770ff874dc6854b390f05368b",
+      "origin": "ai"
+    },
+    "dataList[id=event_judgement_below].content": {
+      "pl": "Test <color=#e30000>niekorzystny</color>",
+      "kr_sha256": "00a35bf9e42a2af254af6db147f156b8403b59bf955f0aa726116abec8f4a0c3",
+      "en_sha256": "2eff46c396967171f468db88d93ef12111842509c65d1cf0017781476ad8a13a",
+      "origin": "ai"
+    },
+    "dataList[id=event_select_personality_to_proceed_judgement].content": {
+      "pl": "Wybierz Tożsamość, która wykona test:",
+      "kr_sha256": "84f5c2626ea48c78435e905200eeb9f8627a9501854470013f152bc90ebebf2e",
+      "en_sha256": "85b53282a919c9396d26cfafc5a3435555801f9857de2ac6adebaaecf8da0da1",
+      "origin": "ai"
+    }
+  }
+}

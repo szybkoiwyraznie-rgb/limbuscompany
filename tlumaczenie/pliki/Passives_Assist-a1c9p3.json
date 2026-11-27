@@ -1,0 +1,616 @@
+{
+  "entries": {
+    "dataList[id=40000701].desc": {
+      "pl": "Koniec tury: jeżeli wszyscy sojusznicy poza tą jednostką zostali unieruchomieni przez efekty zewnętrzne, w następnej turze wyposaża Umiejętność „A.B.S Max Attunement 【Degraded Corrosion】”",
+      "kr_sha256": "116fb06b6614aab67d15c8d983245e679ce3e6349b3ac2db1bd273a90bb88284",
+      "en_sha256": "6151818bf1c3ff0a488eefd99bef5a9fc9a4695c7f83da43f134d3b5228bc630",
+      "origin": "ai"
+    },
+    "dataList[id=40000701].flavor": {
+      "pl": "„Wszyscy… no tak, przeczuwałem…”",
+      "kr_sha256": "a4a0be0e244aa5185193cc760cb8a2db55ad7eaab5a7daa6ee542fdac3bf5f51",
+      "en_sha256": "db88d662d221c396270ac9ae464e2aea4098557effd43db6c3e27d50f3c16863",
+      "origin": "ai"
+    },
+    "dataList[id=40000701].name": {
+      "pl": "The Last Resort",
+      "kr_sha256": "105749bcf740713db2605f44e783d2ea1319eaafaf93544c16def4422aa8cff2",
+      "en_sha256": "fbfbe56404490aab077b84ad38a2324518a4dc849ae66d505fba3c01ed66f9d1",
+      "origin": "ai"
+    },
+    "dataList[id=40000702].desc": {
+      "pl": "Obrażenia od [Combustion] nie Oszołamiają tej jednostki i nie obniżają jej HP poniżej 1; ta jednostka nie może zostać unieruchomiona przez efekty zewnętrzne\n\nOtrzymuje -50% obrażeń od [Combustion]",
+      "kr_sha256": "f5311c4cd3a8beefa9a7d7927d3ddc8588ba73b4ba5a17ed056c6702e4c94961",
+      "en_sha256": "b9d964aec3059c4bcf4229a56818a32475940c82ca8cfc68ed72bc0c3eb35531",
+      "origin": "ai"
+    },
+    "dataList[id=40000702].name": {
+      "pl": "Ognioodporność",
+      "kr_sha256": "53a1bb6ffdc6183c7b6f8054ffc211635c789c613ded388e1dbe8ec2f2d82f8b",
+      "en_sha256": "c821b08662be0c50fcd6d521cda24425c101da5922b71fc58386f7ced18dadf5",
+      "origin": "ai"
+    },
+    "dataList[id=40000703].desc": {
+      "pl": "Początek etapu: zyskuje [LvUpFireFly]\n\nPrzy HP niższym niż 70%, przy trafieniu atakiem nakłada 1 [Combustion] na cel i na siebie",
+      "kr_sha256": "df8b0f93d26d1d726390ffa4a9e0d23a7a1f4d6db6ae9ef6fe31175d5e55a7e6",
+      "en_sha256": "b99bbf6a6075f933849c3a7ccea59dda7674fe7e00d2d2811c5c87e8b59165df",
+      "origin": "ai"
+    },
+    "dataList[id=40000703].name": {
+      "pl": "Wzrost Dostrojenia E.G.O",
+      "kr_sha256": "87ec11f3632539837fa512f9d6ba96def7f38df6037d1c6339ea0e318d471c18",
+      "en_sha256": "0a87812802173559dc36159fd9ba9b7af832501ba7e6a20233d4ac82d8095402",
+      "origin": "ai"
+    },
+    "dataList[id=40000704].desc": {
+      "pl": "Początek tury: zyskuje 1 [AttackUp] za każdego 1 sojusznika w Sprzęcie E.G.O",
+      "kr_sha256": "9882d88459c6d1e8f8962b77b095dd548fb0d1beec0f0de8f3bff22608d636d9",
+      "en_sha256": "34e4fa7eefbef0f33e5c787d0813d949ff9ddbc6db98f7d6cc1ffa1858e89b37",
+      "origin": "ai"
+    },
+    "dataList[id=40000704].name": {
+      "pl": "E.G.O Resonance Boost",
+      "kr_sha256": "3bb381c76fd741b4af0aea72081f0aa6759a333353c1c17ed07fb45d208af4c0",
+      "en_sha256": "6c80a90463466e5ec1a3e16df34b6062c2110020cbeeeecbcd4ad5d803075c42",
+      "origin": "ai"
+    },
+    "dataList[id=40000705].desc": {
+      "pl": "Ta jednostka atakuje w pierwszej kolejności wrogów z najniższym Maks. HP\n\nZabijając wroga obrażeniami od [Combustion] lub Umiejętnością ataku nakładającą [Combustion], odzyskuje 10 SP (maks. 1 raz na turę)",
+      "kr_sha256": "7a1c3c675b9e0f888460a1622c91d142ef237a202e215b96e50aca109f3cd6b6",
+      "en_sha256": "26b35ef16ce805f9ec39ba0b4ada581fe37f607360e9d48dc13298d10e8146f2",
+      "origin": "ai"
+    },
+    "dataList[id=40000705].name": {
+      "pl": "Like a Moth to a Flame",
+      "kr_sha256": "ac221fe63984e3d531836891093f3e144a7460e48bda18940051a9adbc05cb36",
+      "en_sha256": "6c0895287803a0a177afd4a44a788f9cfab56b104e995403195f81d7ef5af6d9",
+      "origin": "ai"
+    },
+    "dataList[id=40000706].desc": {
+      "pl": "Jeżeli ta jednostka ginie, gdy Hohenheim już nie żyje, walka jest przegrana",
+      "kr_sha256": "23bb07e72a0aad8dd9042fede282121316e5015dfeea692a519b210486acc6b8",
+      "en_sha256": "ee9ae0c14687a5a583acf05d8128a6d148f89a40e696c966e24f2496cb7e216c",
+      "origin": "ai"
+    },
+    "dataList[id=40000706].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40000706].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40000801].desc": {
+      "pl": "Początek etapu: zyskuje [LvUpHohenheimBigBird]",
+      "kr_sha256": "ac9df559d12e1bb5e0ce3246b09ee5de4aac83888d8becdf131e682e50fe5ecc",
+      "en_sha256": "d0067e20c7ad87a3ec069a4c6de89a35ca8228786b10a0377a24c1fc772b0c8f",
+      "origin": "ai"
+    },
+    "dataList[id=40000801].name": {
+      "pl": "Can't Underestimate the HQ's E.G.O Attunement and its Corrosion",
+      "kr_sha256": "80531af29ec9b4ebcdfbd14a12c2f3f0ab8723b6de0d3708fdf954c18a087009",
+      "en_sha256": "787c52b0b29297b1f4c3706ca44458dd81d2cdfbb44978677661b60015eadcbc",
+      "origin": "ai"
+    },
+    "dataList[id=40000802].desc": {
+      "pl": "Początek tury: zyskuje 1 [DefenseUp] za każdego 1 sojusznika w Sprzęcie E.G.O",
+      "kr_sha256": "a02f28a7df793def7cf940023e1195c721679239d8e8c0f00a34769e59d6006e",
+      "en_sha256": "9fd2d47279154e363786cb4a569d9585577688384f0b510668e1747d0a1a8a0a",
+      "origin": "ai"
+    },
+    "dataList[id=40000802].flavor": {
+      "pl": "Autorem: Hohenheim.",
+      "kr_sha256": "af7b003d9f3a1a0aba6c20a28b741a965994c3130ba7435c96dfeb37ca44c0a7",
+      "en_sha256": "4bb610a8df50f6cc05909a9803237ebbf81b33926e106cfe6389955dbd3eb254",
+      "origin": "ai"
+    },
+    "dataList[id=40000802].name": {
+      "pl": "Podręcznik Wprawy w Sprzęcie E.G.O",
+      "kr_sha256": "6651eb963b86cf98c0f8a716406c70030ffdd51b0a62b1170139eda7c8c01048",
+      "en_sha256": "5033deb3fdaa20a5dc92d7220a863b7394f14e3d7f5b2e2c9a5aa8ba1c8318cd",
+      "origin": "ai"
+    },
+    "dataList[id=40000803].desc": {
+      "pl": "Początek tury: jeżeli ta jednostka nie ma [LanternHohenheimBigBird], zyskuje 1 [LanternHohenheimBigBird]\n\n<color=#ff6000><mark=#ff000040><b><u>Koniec tury: przy 20 [LanternHohenheimBigBird] nakłada [DelusionHohenheimBigBird] na wroga, który w następnej turze użyje potężnego ataku</u></b></mark></color>",
+      "kr_sha256": "7c03b68fd82808d8800e0c7013c3cf3518e0727e92715142596e93af3beecc20",
+      "en_sha256": "e9bbac0b84d938ea1c9a0be4317e9e29463ea347e13f7d56af8dc68cc663cf23",
+      "origin": "ai"
+    },
+    "dataList[id=40000803].name": {
+      "pl": "Don't Blindly Follow the Light when Lost in the Black Forest",
+      "kr_sha256": "8f089ade14c1048978e72dd6b973fa4c1f9c97cba7ca85de158c9697c2725e21",
+      "en_sha256": "d22e04341a5d1a7ecba2247c25f11db2708c2d89db0256a1d65a7f978230ec99",
+      "origin": "ai"
+    },
+    "dataList[id=40000804].desc": {
+      "pl": "Ta jednostka atakuje w pierwszej kolejności wroga z najwyższą Maks. Szybkością\n\nPrzy łańcuchowaniu Umiejętności może przyciągnąć atak wrogów na siebie niezależnie od Szybkości (tylko w walkach skupionych)",
+      "kr_sha256": "b341b7a659333eb16baccf4cb58e9a742b3505867003d8287c9558883e127810",
+      "en_sha256": "bd939621d4e7e0b1cd26da81565308e25512ae6b4bfa56942812ca1bbc2f62ff",
+      "origin": "ai"
+    },
+    "dataList[id=40000804].name": {
+      "pl": "Olśniewająca Lampa",
+      "kr_sha256": "cc3d53e38e0d156502e938375928dc34016cbc8fcf1edde9b89b5c5b51b93642",
+      "en_sha256": "cec73b6454e3704ab1118c6e3fbfbc7e12785898bdf36ba170c62ac120f18dfe",
+      "origin": "ai"
+    },
+    "dataList[id=40000805].desc": {
+      "pl": "Początek tury: nakłada w następnej turze na 1 sojusznika (poza nią) z najniższą Szybkością [Agility] w wysokości ([Binding] tej jednostki / 2) (maks. 2, zaokrąglone w dół[TabExplain])\n\nJeżeli ta jednostka ma najniższą Szybkość wśród sojuszników, podstawowe ataki zadają +10% obrażeń\n- przy Szybkości 1 tej jednostki zamiast tego +20% obrażeń",
+      "kr_sha256": "97510f310f8137c26eff1a5b5d59a65fc004ce3be5fc4247321611ab0082963a",
+      "en_sha256": "6ad70aa8c3492953650723e0a90a7562dc6f51c93da9d485ba79386b185a4236",
+      "origin": "ai"
+    },
+    "dataList[id=40000805].name": {
+      "pl": "Its Eyes Have Watched Over the Entire Black Forest",
+      "kr_sha256": "8537dba2d94101d8fe4fc885a4ee09636d3de996edcb62f0bedbbdefc479c1c0",
+      "en_sha256": "d575524ec2becf611b792f5cc291f9e60f9eae1cbcb6e2653f811f080b88aa5d",
+      "origin": "ai"
+    },
+    "dataList[id=40000806].desc": {
+      "pl": "Jeżeli ta jednostka ginie, gdy Alyssa już nie żyje, walka jest przegrana",
+      "kr_sha256": "334720a4b77cce1e3dc711622b549cb4b1fb22c847a01b3df4294761534c177b",
+      "en_sha256": "65779e006caba1a9c881d6070917ab284ed720af3d1377ca85c1d0d7072fb986",
+      "origin": "ai"
+    },
+    "dataList[id=40000806].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40000806].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40000901].desc": {
+      "pl": "Początek etapu: zyskuje [YellowHarpoon]\n\nPoczątek tury: jeżeli ta jednostka ma 0+ SP, a Ojciec Środkowego ma 2 [ReinforcedTattooSpider], zyskuje [YellowHarpoonSin]\n\nPrzy SP niższym niż 0 traci [YellowHarpoonSin]",
+      "kr_sha256": "b09cb5a60ff04262f468de9651157d1df4892884b3f6c8b89bb4bc8514cd42c2",
+      "en_sha256": "eea2966c0bc25522e23bffa9767d5841c59a97f622ac324c3e921ca00339bbb6",
+      "origin": "ai"
+    },
+    "dataList[id=40000901].flavor": {
+      "pl": "<color=#fde55d>„Nie, no posłuchaj! Mała, ty naprawdę świetnie władasz harpuną!\nTa harpuna jest po prostu wyjątkowa! A ty celowałaś w żółty kolor!\nWięc „Żółty Harpun” — idealnie!!!”</color>",
+      "kr_sha256": "4b37abb863545e664efa8f299e891339127e9f2a529e6bec1d79983b7ff7fde6",
+      "en_sha256": "f4a4bb8cbcf0d7ef0b76ae29f3ec382949f263260afc78ab23e4ca317a666f55",
+      "origin": "ai"
+    },
+    "dataList[id=40000901].name": {
+      "pl": "Żółty Harpun (nazwał: Ezra)",
+      "kr_sha256": "6635dac814e908877b8eacd66576a3871cd9a138ab0d54a7873e55b611d6220f",
+      "en_sha256": "5a4c51b7925b957b52a0fb919c565d4958e17eca3583b220452f064306b6bd8c",
+      "origin": "ai"
+    },
+    "dataList[id=40000902].desc": {
+      "pl": "W turze, w której Moses wyposaża „Inhale Deep the Red Breath”, ta jednostka zyskuje [YellowHarpoonSin] — i już go nie traci",
+      "kr_sha256": "971747f744ee29b6b8d14c0fb07903cfee1e64cbb4169de33b96dae4c9864cf4",
+      "en_sha256": "64cc0c61d7f6a5f6e35bb3b34e42ce346806639d60dfbfcfcfdffbdd80d57047",
+      "origin": "ai"
+    },
+    "dataList[id=40000902].name": {
+      "pl": "The Wasp of the Distortion Detective Office",
+      "kr_sha256": "df77f7f34af41eb5036e5abcbb0d923f8d2fd9ad244f593dbc764bfd84550861",
+      "en_sha256": "3e7ededf4234a855a8c09178a8114244e572fbc269d60093c2fb326104335955",
+      "origin": "ai"
+    },
+    "dataList[id=40000904].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40000904].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40000904].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40001001].desc": {
+      "pl": "Początek etapu: zyskuje [MosesWarPTSD]",
+      "kr_sha256": "6d52e5f1114c632d02eec3d467f05c3a090db6d907a18b5f0983c8a849c44c44",
+      "en_sha256": "08e14c2c58296c5dcd4b2f18076d2d15564f22d6fa32c032f6277617e907d55e",
+      "origin": "ai"
+    },
+    "dataList[id=40001001].name": {
+      "pl": "Deep Contemplation",
+      "kr_sha256": "e1417e8b328ab65ffc018b5252d595fb5d9af06fa6c3fbe1f777ada58f056a3b",
+      "en_sha256": "848efc79cbd18276afb4b69199d46db7d1023888c7c3149341706f6bf7a849bd",
+      "origin": "ai"
+    },
+    "dataList[id=40001002].desc": {
+      "pl": "Gdy Ojciec Środkowego ma Lævateinn, ta jednostka zyskuje [MosesSin] i każdej tury używa „Inhale Deep the Red Breath”\n\nJeżeli ta jednostka ma [MosesRedBreathCharge], nie przechodzi w Panikę\n\n<color=#ff6000><mark color=#ff000040><b><u>Koniec tury: przy 3 [MosesRedBreathCharge] używa potężnej Umiejętności</u></b></mark></color>",
+      "kr_sha256": "8eeac9378896bda46bd7a03cf3d76fa79e64f9459ee91394e0bf9b0dcf17c96d",
+      "en_sha256": "bae515662506d580bdeada57cc06ee799469067eb39fb5d9e1adaeb6e5f44e52",
+      "origin": "ai"
+    },
+    "dataList[id=40001002].flavor": {
+      "pl": "Skupia w jednym punkcie wszystko, co tworzy siłę fizyczną, i nakłada warstwa po warstwie, formując walcowaty słup — po czym wystrzeliwuje go ku drugiemu punktowi.",
+      "kr_sha256": "49df26d9b15a227262fd3b2bd1b21dffd770b43fde23adf7a8f6ef1659c1a9ff",
+      "en_sha256": "58b92847a9fabc653edfd531f4f633f4e9fac240b878e8d8eb54419a829bffaa",
+      "origin": "ai"
+    },
+    "dataList[id=40001002].name": {
+      "pl": "Crimson Point",
+      "kr_sha256": "5711bfefa7eaa625e67946d34ede9e3e025b232b8fad4dde045f40728575aaed",
+      "en_sha256": "58a8d69aab4a7cba29414fc5f5bba172643f4349c6e859c1c4c0209efd2ea41c",
+      "origin": "ai"
+    },
+    "dataList[id=40001003].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40001003].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40001003].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40001101].desc": {
+      "pl": "Początek etapu: zyskuje 1 [DimensionalBagEzraA]\n\nJeżeli ta jednostka użyła aktualnej broni warsztatowej co najmniej 1 raz, w następnej turze wymienia broń warsztatową\n\nLista broni warsztatowej:\n- Allas Workshop Gloves\n- Nester Workshop Hammer\n- Screw Atelier Drill Hammer\n- Namir Workshop Gauntlets",
+      "kr_sha256": "65a19a2960d84083952a5ff4e4d2e7c9ac746d70b2d77ac29934e8ab8c0e82d3",
+      "en_sha256": "b7e56de91e0554349d06757d1a89807ae658b03b05f29589b8ddfb74db44b6aa",
+      "origin": "ai"
+    },
+    "dataList[id=40001101].name": {
+      "pl": "Dimensional Bag [Ezra]",
+      "kr_sha256": "2521ab011458119466e922b86670be377ab362006469fc4ccdc5c7150d3a3961",
+      "en_sha256": "bab561663ba855b8b143e57af5ca621cc530670b6e899dc0b8ce574fd9e53c16",
+      "origin": "ai"
+    },
+    "dataList[id=40001102].desc": {
+      "pl": "Od tury, w której Moses wyposaża „Inhale Deep the Red Breath”,\nta jednostka używa wyłącznie broni „YuRia Atelier Special Handmade Golden Retriever-Exclusive Axe”\n\nOd tury, w której Moses wyposaża „Inhale Deep the Red Breath”, ta jednostka zyskuje [MiddleFingerEzraSin]",
+      "kr_sha256": "f985d3fb1006705291f5779ed1d0919315e45cd31f3652aca30bb2e3bf39bfc3",
+      "en_sha256": "d7ca42b7ff636b252a36587b9416b5be45cb4cfd6ab60901bd4a40cf9b1f0c71",
+      "origin": "ai"
+    },
+    "dataList[id=40001102].flavor": {
+      "pl": "„Nie pamiętasz tej sprawy w hotelu z Krwiożercą? To było mocne.”",
+      "kr_sha256": "be810235a01e78e1462b7e3e7f138d01882032b5f4a200d44d9784596829889c",
+      "en_sha256": "25597f3c13691c38627d849e34b032851cb9d2326a3a3294ba630d2d6d196502",
+      "origin": "ai"
+    },
+    "dataList[id=40001102].name": {
+      "pl": "Detecti—I mean, Team Leader! We've Got Your Back!",
+      "kr_sha256": "fffa778de4ef826e4be2286eb29efa120f0e08c17f16c392d92a62191041f0e2",
+      "en_sha256": "a36f23e0843e66d6e6cf6369ae7e285b5e1823c72db15bab56ac0f81fe8dcc88",
+      "origin": "ai"
+    },
+    "dataList[id=40001104].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40001104].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40001104].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40001201].desc": {
+      "pl": "Koniec tury: nakłada 3 [Binding] na wrogów z 50%+ Maks. HP na następną turę\n<color=#ff6000><mark=#ff000040><b><u>Wrogowie, którzy mają użyć Umiejętności ataku na tej jednostce, zyskują 1 [Reduction]</u></b></mark></color>",
+      "kr_sha256": "5edc887cf1718a51dbff7b2d67f623cb98ac66296f5e11a47bf0d23c417661d3",
+      "en_sha256": "25bb10b3be28b2249df4dbfea2b229ef31fbb0f4d7ca6fa80b57767004a6c58c",
+      "origin": "ai"
+    },
+    "dataList[id=40001201].name": {
+      "pl": "Czerwone Spojrzenie",
+      "kr_sha256": "39739d74dd388d350cb97d9784b92b0fc0b9470086a39193d9c718185630adef",
+      "en_sha256": "fa336e27323267f1a91043514b671f3038f70b1975a51c9c901b7dab3ef5e650",
+      "origin": "ai"
+    },
+    "dataList[id=40001202].desc": {
+      "pl": "Przy trafieniu Umiejętnością Gladius nakłada 1 [AaCfPcBiv2]",
+      "kr_sha256": "c27ef6befb4c0cff14127345cd48d16ea1db501f9bc2797f07929cc5a35099ce",
+      "en_sha256": "80745b6744c46f5138f7e790e34f200b7d9f5aac4b6a63ea9d75c715419cf6d8",
+      "origin": "ai"
+    },
+    "dataList[id=40001202].name": {
+      "pl": "Rozżarzony Gladius",
+      "kr_sha256": "f9d8afc34ff166b115a68d83ee57d7262e3496d6ef5bbd636b9819991f9e3588",
+      "en_sha256": "e8fbc1e1833104154c376e82695164860a9ca4860075c2426b6f34f0e4e3166e",
+      "origin": "ai"
+    },
+    "dataList[id=40001203].desc": {
+      "pl": "Przy użyciu Umiejętności: otrzymuje 3% Maks. HP jako stałe obrażenia (nie zabijają tej jednostki)\nPrzy trafieniu Umiejętnością: przywraca HP równe 10% zadanych obrażeń",
+      "kr_sha256": "dc74407df89811c71b77f50887a0b5c4710c17b8b6ce975cb46f9e53adcdabf5",
+      "en_sha256": "d577a5ceb92b620c26a9cf09562bb13d062118a83e67349a4ded59516b198100",
+      "origin": "ai"
+    },
+    "dataList[id=40001203].name": {
+      "pl": "Krwawe Łzy",
+      "kr_sha256": "0827d20529a1e131866738015ed38ea9c0617144efba5a40b7c6d85486751ca3",
+      "en_sha256": "7d59a56ec9f17d38f9f15ac23bf3af5b8931805d78ec0a512d3378eb61688f38",
+      "origin": "ai"
+    },
+    "dataList[id=40001204].desc": {
+      "pl": "W każdej turze wszyscy sojusznicy, licząc tę jednostkę, zyskują Tarczę.",
+      "kr_sha256": "be167255d5eec2c846bb313a544420eb63f3081a234cd60c6e04d1f393fa5664",
+      "en_sha256": "eb67ee52d7fae3f018d5343c55df48107b7f35343d88e08d1464a2049cbf00ab",
+      "origin": "ai"
+    },
+    "dataList[id=40001204].name": {
+      "pl": "Krwawa Bariera",
+      "kr_sha256": "851c432c3c3aa0cab2f159e43ec02f02e7ccff3c9ba8aeff5fc7406d21b6ec7b",
+      "en_sha256": "b3b7161ae3e8b1744718471b0e619491f957bbdc69004abce3dde9e3ffb9fca0",
+      "origin": "ai"
+    },
+    "dataList[id=40001205].desc": {
+      "pl": "Gdy „Ojciec Kciuka - Valencina” ma [ObsessionAndGreed], ta jednostka zyskuje [VergiliusSin] w następnej turze",
+      "kr_sha256": "dc031bdb289a0d8e24f4ed2836402b85022efe46ba5210119334a3be42d8240c",
+      "en_sha256": "f07b76828c993c69f2e7e2458a3904535ea0180320091f235d83af2e4ea2d690",
+      "origin": "ai"
+    },
+    "dataList[id=40001205].name": {
+      "pl": "Shin (心) - Czerwone Spojrzenie",
+      "kr_sha256": "c8f003a4bbfe85fcda17db16905bdb1999b78c88a08f1cc740ded363a9603fea",
+      "en_sha256": "69ccbfb60720c5a19fbc9e49801740b8ac2655df580228c0e8dd273933d08433",
+      "origin": "ai"
+    },
+    "dataList[id=40001206].desc": {
+      "pl": "Przechodzi w stan Effloresced[TabExplain] E.G.O::Lavacrum Sanguinis i zyskuje następujące efekty:\n- zyskuje 3 Pośpiechu co turę\n- nie otrzymuje obrażeń od [Laceration]\n- odblokowuje Umiejętności Wyzwolenia E.G.O",
+      "kr_sha256": "28d516832eec9b551e4498b498e393770a0c50cf1b6964596b9b808f54df9d22",
+      "en_sha256": "44cebc4b77fe869ffa748a2379d9915932407ed70f5b12f951479556f4b359b9",
+      "origin": "ai"
+    },
+    "dataList[id=40001206].name": {
+      "pl": "Effloresced E.G.O::Lavacrum Sanguinis",
+      "kr_sha256": "6914ac2611806111565117c278cd50ae093ec2f836d58153a1e778c21b110116",
+      "en_sha256": "79362afbf60bcd934860e4b9a58e3ba11519415301c21e7317db8744fabfc088",
+      "origin": "ai"
+    },
+    "dataList[id=40001208].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40001208].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40001208].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40001209].desc": {
+      "pl": "Słucha komend Dantego i odpowiednio dostosowuje cele swoich Umiejętności",
+      "kr_sha256": "90857743633055b948b4a29068aa225af95c78ed5205a27964a360e4699e3635",
+      "en_sha256": "e3fd4513fe30f7f94979393558840f83486fbb0a2cfdaa740db98572b1b5d2e5",
+      "origin": "ai"
+    },
+    "dataList[id=40001209].flavor": {
+      "pl": "„Podążam za nurtem…”",
+      "kr_sha256": "a5477b6a29101008f0531c43b276455a6af2355205d38a8319443f75518363d6",
+      "en_sha256": "ffac8cde055fd0a5e28ef61bb8942372cb470ed7fe063716ebec114777451645",
+      "origin": "ai"
+    },
+    "dataList[id=40001209].name": {
+      "pl": "Przewodnik",
+      "kr_sha256": "5f369e647caba26edc2a0414b238db22aedc0bc81d63e0cbbd57bd90c7e9d6e9",
+      "en_sha256": "5115845d6e3deabc77efcb70a834e63b115b487ec289da2b74654897b7531d46",
+      "origin": "ai"
+    },
+    "dataList[id=40001301].desc": {
+      "pl": "Cele z mniej niż 20 [Burst] nie tracą Licznika [Burst], gdy ta jednostka trafia ich Umiejętnościami nakładającymi Moc lub Licznik [Burst]",
+      "kr_sha256": "b13a5cbddcac985483c2f3db969543ec87dd5737009b8a15252da3fb4c4048ac",
+      "en_sha256": "0706d600b1f2c62da5b296718e91cebfb63079fe2fcae8af5a26f3c7df40069a",
+      "origin": "ai"
+    },
+    "dataList[id=40001301].flavor": {
+      "pl": "W Drugiej Wojnie Dymów kluczową rolę odgrywały oddziały partyzanckie.\nNajwiększą postrachem były jednostki powietrznodesantowe, zrzucane wprost na teren operacji, które nieoczekiwianie odmieniały losy bitwy.\nDzięki technologiom takim jak Singularities of the Wings pojawiały się bez ostrzeżenia, natychmiast wykonywały zadanie, a po jego osiągnięciu znikwały bez śladu.\nSpośród nich „Abraxas Chariot” — obok „Descenders of 101 Doors” i „The Dimension Roamers” — należało do tych, które budziły najwięcej trwogi.",
+      "kr_sha256": "3323c67b17e882e1df3972701eaae129dd7469cddb91658a8118a4a345714677",
+      "en_sha256": "168113a1641e7404674cc186a6003c7b22eb1129a6f018db0ed241658bad9548",
+      "origin": "ai"
+    },
+    "dataList[id=40001301].name": {
+      "pl": "Special Airborne Operations Force - Abraxas Chariot",
+      "kr_sha256": "806b43af4a975478c2690b51b06e6558b31bcfee8f44222d39dc1eed87d2b53d",
+      "en_sha256": "9b2dffca693f3aa3bce27709e9a99ec07444376ea76c9d1d2e3c351b19da8852",
+      "origin": "ai"
+    },
+    "dataList[id=40001302].desc": {
+      "pl": "Zadaje +40% obrażeń <Mechanical Amalgam> i <Distortion>\n\nPrzy zabiciu wroga wszyscy sojusznicy poza tą jednostką odzyskują 20 SP (1 raz na turę)",
+      "kr_sha256": "e802dddf98f8e8f4709d111de916921a69f63f88f053a05466afeea5128b035a",
+      "en_sha256": "d9ef7089ff8f37125041cc44b35b77e2d3abbb50572c1fd6d5dffba294b7b17d",
+      "origin": "ai"
+    },
+    "dataList[id=40001302].flavor": {
+      "pl": "Druga Wojna Dymów była konfliktem między ludźmi a ludźmi, którzy już nie wyglądali jak ludzie.",
+      "kr_sha256": "2db6b95b474fcb572ac957b3b02471dc47df5c5d03e133503d75053ae417080f",
+      "en_sha256": "e6012e54a2d42770c0cce00b97f9949347becf096c4b862af63bc2f54b44f487",
+      "origin": "ai"
+    },
+    "dataList[id=40001302].name": {
+      "pl": "Dismantle Prosthesis",
+      "kr_sha256": "d1a59d30dfb38997b1e715afcd78ffb71f1dd88d331bf9814f3535537a2de2e1",
+      "en_sha256": "57dc484f525be920b4ea4fcebd2df44ffbdabd8bd8555acc838069105ec671b9",
+      "origin": "ai"
+    },
+    "dataList[id=40001304].desc": {
+      "pl": "Koniec ataku: usuwa 1 pozytywny efekt celu i nakłada 4 [Burst] (1 raz na turę)\n\nKoniec tury: usuwa 1 negatywny efekt z siebie, zyskuje 5 [Breath] i zwiększa Licznik [Breath] o 2",
+      "kr_sha256": "89a9d43f706d38ae212c987768dbed5d9409dd391bcd46b8113c73d5d283538b",
+      "en_sha256": "c81a5309e0f0ba2c0a3c285d28a813c456b8422058714dad496f331ff1eb4eca",
+      "origin": "ai"
+    },
+    "dataList[id=40001304].flavor": {
+      "pl": "Młodzieniec z bezimiennym halbardem i bastardowym mieczem, otulony przygaszonym zielonym płaszczem, szarpał linie wroga, po czym znikał bez śladu.\nJedni nazywali go Zielonym Potępieniem, inni Zielonym Ocaleniem.",
+      "kr_sha256": "ad198c36b4b1be628e97f311aad770104e5deda4f514eea94f0679e02548c44d",
+      "en_sha256": "f700d3f913eebcacbaaac09ccd15d26e6c6b57622e572050e225d7f89a242071",
+      "origin": "ai"
+    },
+    "dataList[id=40001304].name": {
+      "pl": "Halberd and Bastard Sword",
+      "kr_sha256": "becc20e86238c31153e39a870378cb192ce7dae57fcbf0cfdcefeece56f98d73",
+      "en_sha256": "0bb67ec91b634b8cd3b2ceb4ca2b1008d8c16f6878b786344d624b4a1ca51f98",
+      "origin": "ai"
+    },
+    "dataList[id=40001306].desc": {
+      "pl": "Początek tury: zyskuje [WillAwakenSinclair] (1 raz na walkę)",
+      "kr_sha256": "1c7c7d33e0d42268bbf04031e29b6635b72b8fa79c4effbaa1638481e1e25fce",
+      "en_sha256": "4b199c7936df66355c8e8df98559c552484fb597c4a89796b3fcb37fc27a06b5",
+      "origin": "ai"
+    },
+    "dataList[id=40001306].name": {
+      "pl": "Shin (心) - Pewien Sinclair",
+      "kr_sha256": "63403dfaccb0db0f81dfc7932dd3e44cbe118a7c202f0f7f21f8d3c12de54f86",
+      "en_sha256": "f3910a1a52a39937dbb918a84ae679b654ca723001b2e8cdbaab992a6d2f0d95",
+      "origin": "ai"
+    },
+    "dataList[id=40001307].desc": {
+      "pl": "Wszyscy sojusznicy, licząc tę jednostkę, zyskują przy użyciu Umiejętności 1 zasób E.G.O więcej\n\nKoniec tury: odzyskuje 6 SP za każdego 1 Grzesznika poza tą jednostką",
+      "kr_sha256": "1d8d10fbaeea844098386f8db2710c9943ccb5204ba6a3d959833dea891e2f03",
+      "en_sha256": "474130d2e13087f38da5eebfed773f96f8555e1ebe66d8758a9d88fbd45ec659",
+      "origin": "ai"
+    },
+    "dataList[id=40001307].name": {
+      "pl": "Znak - Manifestacja Przyszłości",
+      "kr_sha256": "c88ab6607d3e939ae5d9e24ea884ce13d53138a5816b13754d193fb2db6c91f8",
+      "en_sha256": "4d2c888184098e01471e433a312bee98af1d21d5f11d7c9cd9a0301a9974fee4",
+      "origin": "ai"
+    },
+    "dataList[id=40001308].desc": {
+      "pl": "Zabijając wroga z Maks. HP 1000+, zyskuje [SignAwakenSinclair] i [LimitedAwakenSinclair] (1 raz na walkę)\n- potem, używając Umiejętności o Afiniczności Pychy, Gniewu lub Zawiści, zamienia wszystkie Monety na [SuperCoin]",
+      "kr_sha256": "ffdd7b06955d45dedb20e1d4321b92097b3fa023b6809280c378f0b5736f9b5b",
+      "en_sha256": "7300fe549fc6ca38a01600dd48978d44f494df481478b9039c5c43fcb4f26634",
+      "origin": "ai"
+    },
+    "dataList[id=40001308].name": {
+      "pl": "Lend My Ear to the Inner Self, Hold onto the Representation of its Voice...",
+      "kr_sha256": "f377ec3d90cc3be0595329153ff4c8aa88f0cc02fc1eecc7cf27e70333f64c3a",
+      "en_sha256": "e3280bc42a1dfb0db2d7a891f86f5bf0316d69427af559ac7b59d099f2a8e1bc",
+      "origin": "ai"
+    },
+    "dataList[id=40001309].desc": {
+      "pl": "Nie otrzymuje obrażeń SP od efektów zewnętrznych i nie może zostać unieruchomiona\n\nJeżeli przed końcem tury sojusznik zostanie unieruchomiony przez efekty zewnętrzne, używa „Abate the Smoke[TabExplain]”",
+      "kr_sha256": "a9a84a0e54aba15198cb398a56b18e3735c34c667a369536ca7749039e72438e",
+      "en_sha256": "7115b8619f29bab90d78323c76899184053e834224421ee5d112d90b0ccef381",
+      "origin": "ai"
+    },
+    "dataList[id=40001309].flavor": {
+      "pl": "Dym Drugiej Wojny nie różnił się istotnie od dymu z czasów Pierwszej — wdzierał się w umysł i zacierał osąd.\nPrzetrwać w Wojnie Dymów mógł tylko ten, kto nauczył się przyjmować dym jako część codzienności, tak naturalnie jak oddech.",
+      "kr_sha256": "2a02399990e42caa876d1d607b1162a569cdc28e5782af7446d6383b8ccb3487",
+      "en_sha256": "0309f8b1faf8bc680ecb722729ddab606fb89e296c2782d014a1fa874981a4c5",
+      "origin": "ai"
+    },
+    "dataList[id=40001309].name": {
+      "pl": "Withstand the Smoke",
+      "kr_sha256": "2370084cb8fa6181fbe74563d68234e08c767d932ab9167e97ccf8d5dc998506",
+      "en_sha256": "c41964f62ee640248721dfa35ed8d1b43692f51e0300786e838b4679efc29354",
+      "origin": "ai"
+    },
+    "dataList[id=40001310].desc": {
+      "pl": "Jeżeli ta jednostka ginie, walka jest przegrana",
+      "kr_sha256": "60cde124faeec3734e5947deded4dd2be33ce849c8e9a674ca47b45135b27784",
+      "en_sha256": "b6a6231305cf1ae3ee10353a4a0df253b05fee45eb95599fcb8f61f6232172e9",
+      "origin": "ai"
+    },
+    "dataList[id=40001310].flavor": {
+      "pl": "Można zabłądzić i zbić z drogi, lecz bunt przeciw nurtowi albo jego porzucenie zakazuje „ono”.",
+      "kr_sha256": "28fcfd1db66819d6bf6af7db3fe0dfb2e2fbb5896def053e042598fe54872a66",
+      "en_sha256": "2369be39f60ca877f54947335eb836f27b1380903f8dbf410c3281655972c9b8",
+      "origin": "ai"
+    },
+    "dataList[id=40001310].name": {
+      "pl": "Fate Lost",
+      "kr_sha256": "0c3443d129e717d19fcf6ce39ce1c37ce8a9aff67990b36e154f719d3b7d4217",
+      "en_sha256": "5771fa05333ecba358eb5a85f5558522ea4fd7103fde77a70b899ba20f01d591",
+      "origin": "ai"
+    },
+    "dataList[id=40001401].desc": {
+      "pl": "Początek etapu: zyskuje [VergiliusSin]",
+      "kr_sha256": "78ce6a0452f83133ab4ae8944008247f92fb7dd4bde9adbb87d84ca0b4d02e8e",
+      "en_sha256": "5fff07e9d28ac879710a51b30c5b6ab4482e2c32260601edf106b67cfb65d028",
+      "origin": "ai"
+    },
+    "dataList[id=40001401].name": {
+      "pl": "Shin (心) - Czerwone Spojrzenie",
+      "kr_sha256": "c8f003a4bbfe85fcda17db16905bdb1999b78c88a08f1cc740ded363a9603fea",
+      "en_sha256": "69ccbfb60720c5a19fbc9e49801740b8ac2655df580228c0e8dd273933d08433",
+      "origin": "ai"
+    },
+    "dataList[id=40001501].desc": {
+      "pl": "Początek tury: zyskuje [CutbondRyoshu] równy liczbie bieżącej tury\nZyskuje 1 [CutbondRyoshu] za każde użycie Monety tej jednostki",
+      "kr_sha256": "418e2eb029e5a0ae7437cc2aae0c3ef78636b2fcbd99cc3d0ef4794288a86294",
+      "en_sha256": "2949a58023f8c00ef098f00fbed7487c603b4236965185821fbc81e1347e9822",
+      "origin": "ai"
+    },
+    "dataList[id=40001501].flavor": {
+      "pl": "„Muszę wyglądać, jakbym już uratował Arayę i wyniósł ją z Domu Pajęczyn.”\n\n„Ustawiam scenę: rąbam Ojców, którzy tropią Arayę — jakbym próbował ich powstrzymać.”",
+      "kr_sha256": "c5d4032985d825f19049dcd014a5bea502efd8badfec75f929287f3707f919ab",
+      "en_sha256": "e3deb8761e6587272426362ca2fe90705e07afa326e44551ad976fab207bc2eb",
+      "origin": "ai"
+    },
+    "dataList[id=40001501].name": {
+      "pl": "Wading Through a Dream, the Self Nowhere to be Found [無我夢中]",
+      "kr_sha256": "b3a15870b4b74d3a1bbe8f07dbcdc06b47b45879818e8d67c989e8831e63715b",
+      "en_sha256": "3fbbf722774680008eb198c9b08c879cc377ea57c018a3696bdc126e61384149",
+      "origin": "ai"
+    },
+    "dataList[id=40001502].desc": {
+      "pl": "Początek etapu: zyskuje [HeavenlyKillerStar], a jej SP zostaje zamrożone na -44\n\nOtrzymując obrażenia SP (w tym efekty wynikające z Zatonięcia), zamiast tego otrzymuje 3-krotność tej wartości jako obrażenia HP",
+      "kr_sha256": "5207da9e9c37e4f1b5e92a449d87cb2b5a8c23ab48ae6ad9833b58fba1e749a9",
+      "en_sha256": "0d09fc400d33f2cf9e678eb2506308a6d4f5a257bae281ac67ba01de86d54473",
+      "origin": "ai"
+    },
+    "dataList[id=40001502].flavor": {
+      "pl": "„Lepiej niż ktokolwiek znam siłę i zacietrzewienie Ojców.”\n\n„By ich oszukać, muszę zagrać rozpaczliwie, ze wszystkim, co mam.”\n\n„Rozkładam każdą z nich: jak z nią walczyć, jak krzyżować ze mną ostrza.”\n\n„Nawet gdy umysł mi odpływa, bez końca przewijam obraz w głowie.”",
+      "kr_sha256": "83b8df3fa3303c44ab424c0698b3c634dfe2ba5e6db2209013c1dbaa15b9ed1e",
+      "en_sha256": "1f805e83b349cd0ed9bfe544a5aad22c01a5a06044efecdc70c725fd1522ec94",
+      "origin": "ai"
+    },
+    "dataList[id=40001502].name": {
+      "pl": "Like the Naraka of Avīci and Raurava [阿鼻叫喚]",
+      "kr_sha256": "7ebb5ad3022ca5975f6562f6280036c2b0fea8690faf23b6abb4b1bf358267ad",
+      "en_sha256": "e2a1027c7088ae2a2f3dbe243feae2620c972ab0bd6bf41fb60dce00e9aa7816",
+      "origin": "ai"
+    },
+    "dataList[id=40001503].desc": {
+      "pl": "Przy trafieniu atakiem nakłada 1 [CutoffRyoshu]\n- początek tury: za każde 10 [CutbondRyoshu] tej jednostki nakłada o 1 więcej [CutoffRyoshu] (maks. 4)\n\nPo otrzymaniu obrażeń ich wartość spada o ([CutbondRyoshu] tej jednostki + [CutoffRyoshu] celu)% (maks. 90%)\n\nJeżeli po zakończeniu wszystkich ataków Umiejętnościami istnieje wróg z 100 [CutoffRyoshu], używa na nim potężnej Umiejętności",
+      "kr_sha256": "d890467e4276193ab334b15d6cdfef63c59c524f21dc6be815592a1c4345080f",
+      "en_sha256": "6a95ba67755759bb0ee334423de3924de89b633b0ed8bfab6178e3aa759a284d",
+      "origin": "ai"
+    },
+    "dataList[id=40001503].flavor": {
+      "pl": "„Nie zabiję Ojców — to wiem. Ale mogę ich na chwilę unieruchomić i powstrzymać.”\n\n„A potem.”\n\n„Wyjdę.”\n\n„I wrócę silniejszy.”\n\n„Zdobędę kogoś silniejszego ode mnie albo powiększę swoją stronę — muszę wrócić ze środkiem, który na pewno położy im kres.”",
+      "kr_sha256": "50a0d057946998f99aeacec9b686c0c2df3f72c8a10a67999ce088e6f0460ebf",
+      "en_sha256": "c306af74d2c0ae10f6378a8c9552de834a54eab8e47f54f4e7688473a722ff20",
+      "origin": "ai"
+    },
+    "dataList[id=40001503].name": {
+      "pl": "Severed and Torn until Even the Form is Undone [支離滅裂]",
+      "kr_sha256": "d70647bb9ca4cf7c991bcf8df5ebed9fd4ccdb97adb7006cbed9878f1bed8acb",
+      "en_sha256": "9ab45f46b2a92fdd59c9f62399dcf744c531d6f6c1fb5094127faf9ad0bca9b6",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "entries": {
+    "dataList[id=40000601].desc": {
+      "pl": "Początek tury: zyskuje [YellowHarpoon] (1 raz na walkę)\n\nRozpoczyna walkę z 35 SP\n\nKoniec tury: jeżeli HP wroga jest niższe niż 50%, zyskuje [YellowHarpoonSin]",
+      "kr_sha256": "1cd01c63f20f4fd75e471f0a6df869de7f77d430b9e6c484139f7f649765b4bf",
+      "en_sha256": "8ff3530fc2c346939394948bd4cfd1a36cd68946acc2624808ded8991f08eb5b",
+      "origin": "ai"
+    },
+    "dataList[id=40000601].flavor": {
+      "pl": "<color=#fde55d>„Nie, no posłuchaj! Mała, ty naprawdę świetnie władasz harpuną!\nTa harpuna jest po prostu wyjątkowa! A ty celowałaś w żółty kolor!\nWięc „Żółty Harpun” — idealnie!!!”</color>",
+      "kr_sha256": "4b37abb863545e664efa8f299e891339127e9f2a529e6bec1d79983b7ff7fde6",
+      "en_sha256": "f4a4bb8cbcf0d7ef0b76ae29f3ec382949f263260afc78ab23e4ca317a666f55",
+      "origin": "ai"
+    },
+    "dataList[id=40000601].name": {
+      "pl": "Żółty Harpun (nazwał: Ezra)",
+      "kr_sha256": "6635dac814e908877b8eacd66576a3871cd9a138ab0d54a7873e55b611d6220f",
+      "en_sha256": "5a4c51b7925b957b52a0fb919c565d4958e17eca3583b220452f064306b6bd8c",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].desc": {
+      "pl": "Przy wygranej starciu z celem z [BeeSting] uruchamia [Switch_Vibration], zamieniając [Vibration] celu na [VibrationBleeding]\n\nPrzy wygranej starciu z celem z [ArtifactBeeSting] uruchamia [FusionVibration], zamieniając [Vibration] celu na [VibrationEcho]\n\nPrzy trafieniu ostatnią Monetą celu z [BeeSting] i [ArtifactBeeSting] uruchamia [VibrationExplosion]",
+      "kr_sha256": "9c939f6583eecaeeb2422d3b8efc6ae5a81ed630469eb93c9f24b6970c6ff01b",
+      "en_sha256": "1f9e612c0f045167e657ad140bfa798b36bcff8551a8fb6dbbaf2ac2321872a8",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].flavor": {
+      "pl": "<color=#fde55d>Najwyższego stopnia relikwia, odkrywana w głębinach Ruin.\nKiedyś chłopiec ocieczony krwią podniósł ten grot przypadkiem — i przypadkiem miał predyspozycje, by go używać. Cóż to jest przypadek.</color>",
+      "kr_sha256": "e435278c4743c6ae9b15c192fdde6c66dd4f35e6063840eef056245ea85ec760",
+      "en_sha256": "b78156a3be2d4a28f1e047673a692c2c3f2d0aa7ce144ae962f861473ba3c530",
+      "origin": "ai"
+    },
+    "dataList[id=40000602].name": {
+      "pl": "Gungnir",
+      "kr_sha256": "6ff55372303573668fe71e2fdd76b62e331cb54f147cc0fa48bb898d4a2e1e2b",
+      "en_sha256": "79ae427d9cb633611cf4ccc538ae73cbcf2ddb444397dec18c066abac1d56feb",
+      "origin": "ai"
+    }
+  }
+}
