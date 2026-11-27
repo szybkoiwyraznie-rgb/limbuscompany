@@ -143,6 +143,30 @@
       "kr_sha256": "935c302500db0969763ce8953fa0db17694ff63d9a2f357ec7b2de9bb29c3732",
       "en_sha256": "6b851172df887b109e831992c30150fb296151be93665d0703d734f3e28e65bc",
       "origin": "ai"
+    },
+    "dataList[id=40003101].desc": {
+      "pl": "— opis] Zadaje +10% obrażeń celom z wyższym Maks. HP.",
+      "kr_sha256": "fa5fd615cb71a8beee4985eb6c775711d585b372bfb06b1d79aa33dd9bced835",
+      "en_sha256": "62381fdb3e58e2900f0a08f15a8342627c65613e7d0479616608593b0ccd105f",
+      "origin": "ai"
+    },
+    "dataList[id=40003101].name": {
+      "pl": "— nazwa] Reszenszimen",
+      "kr_sha256": "dc1ec8fc78690cdcd59ba4477f071efc6a67151a02625a7cdee58fb55d660704",
+      "en_sha256": "c7a39d10e281eb7dd950ee0ecd62a341b1e0d7e601240745e83812f09a31e7d8",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].desc": {
+      "pl": "— opis] 1 Sojusznik z najniższym Maks. HP zadaje +10% obrażeń Uderzenia.",
+      "kr_sha256": "5e8d6658bd570e620eb993687b26a674e48320de365b5661c5a6896127eabce9",
+      "en_sha256": "11d741e50dc9edea737d8baa1302faccadfea27234ef2bac3dc29a8023de33c1",
+      "origin": "ai"
+    },
+    "dataList[id=40003102].name": {
+      "pl": "— nazwa] Napędzany Złością",
+      "kr_sha256": "df5b4e33a5f0199f5bd2605613f98f5d94ac29014dd7fe6da48ac19116eb2bfa",
+      "en_sha256": "93aba63a7d7158f143cdc078a743c40f96a846e6a3f41a3abf45da5af5aa78b3",
+      "origin": "ai"
     }
   }
 }

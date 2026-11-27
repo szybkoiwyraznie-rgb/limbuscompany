@@ -2328,6 +2328,414 @@
       "en_sha256": "b5a723eefb41bd0c5b3b8ab74524258b375113da56cd88f606424d25c5a4ec24",
       "origin": "ai"
     },
+    "dataList[id=10701].desc": {
+      "pl": "Pierwsza Tożsamość Heathcliffa",
+      "kr_sha256": "436464fd7273b65d6886c3303bf1cf8914a2fba1f4a820b425bafc3776e30373",
+      "en_sha256": "46a4f6f07cd2c672e7d86e94ab0211483bc2555023ad1ba9288be5beaf2f6a81",
+      "origin": "ai"
+    },
+    "dataList[id=10701].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10701].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10701].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10702].desc": {
+      "pl": "Druga Tożsamość Heathcliffa",
+      "kr_sha256": "bb1d11bd8c80355fd17fa40ad90705125c3442f4e1c3606398328f63830c1d31",
+      "en_sha256": "220024d3a911179b6a55d36f6af1f99a6f910ccc00d740bea54472b47bb64e3b",
+      "origin": "ai"
+    },
+    "dataList[id=10702].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10702].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10702].title": {
+      "pl": "Południowe Stowarzyszenie Shi\nSekcja 5",
+      "kr_sha256": "ec855cf97d46768ff42adeeb646ba0184f88cfc94d6da74d7c42842f7ad2dec6",
+      "en_sha256": "a561e30bed1bf1e9640a258f3341789e458077ad115917670ac7174bf0b85200",
+      "origin": "ai"
+    },
+    "dataList[id=10703].desc": {
+      "pl": "Trzecia Tożsamość Heathcliffa",
+      "kr_sha256": "7ce2da572cc73f17cdbfe37dfb6a14e46e8887482bacb3fad1639919cb8f5c17",
+      "en_sha256": "a3a9a9f19572085e20ae81a4d3e1f65e41c8775a83059eb23bd9afb90fba9499",
+      "origin": "ai"
+    },
+    "dataList[id=10703].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10703].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10703].title": {
+      "pl": "R Corp. 4 Pack\nOddział Królików",
+      "kr_sha256": "976672d1995d0ef5696fd545e15fb8b3fcab5ca5f348cb16f72898f8e0455888",
+      "en_sha256": "9d90b1ab6606a2814ba1b9745e069614c8459058afee2e581a9bcb560c761842",
+      "origin": "ai"
+    },
+    "dataList[id=10704].desc": {
+      "pl": "Czwarta Tożsamość Heathcliffa",
+      "kr_sha256": "0cd49df5971436a4fccf368de401105d4caea0e12af48fd605d3a44b8bdcaa8e",
+      "en_sha256": "76ff333573f7e999f2cef0b3377308e9f0fc77ffdd2e5262f0441a976d636981",
+      "origin": "ai"
+    },
+    "dataList[id=10704].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10704].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10704].title": {
+      "pl": "N Corp.\nMały Młot",
+      "kr_sha256": "512f73cdcdb74026ca26b3382cdd61575aa84c83ae46dc563523ea70f05b0158",
+      "en_sha256": "db9e92c98048b4d5336543ca85db6cc82792476fd25f2e0f59b61392c0a7b244",
+      "origin": "ai"
+    },
+    "dataList[id=10705].desc": {
+      "pl": "Piąta Tożsamość Heathcliffa",
+      "kr_sha256": "90c100af340f4654afc18384825db651f8548bf97e40edd487f8d0fca0566ce4",
+      "en_sha256": "c08892103986e7d51f9a2a9d1def9a8fb254ff136c7d12999c00f16016e3396b",
+      "origin": "ai"
+    },
+    "dataList[id=10705].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10705].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10705].title": {
+      "pl": "Lobotomy E.G.O::\nLisi Deszcz",
+      "kr_sha256": "2747c714c53d938eaa4ba93c27bcec724a1b841cb356585a92247defc5537739",
+      "en_sha256": "039950f6a04d5895ecb57d5bff9ba45a94833517d8d30b711214310350ea180b",
+      "origin": "ai"
+    },
+    "dataList[id=10706].desc": {
+      "pl": "Szósta Tożsamość Heathcliffa",
+      "kr_sha256": "d8e8e7cdbc6bce33ab344ff1124a9fb39f962b1277fdfa8b392d66fed2c36ecb",
+      "en_sha256": "1704d1bf4b069d23117e81cc3ed28d8da8dabcbb674aa790abf237ad006e3475",
+      "origin": "ai"
+    },
+    "dataList[id=10706].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10706].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10706].title": {
+      "pl": "Południowe Stowarzyszenie Seven\nSekcja 4",
+      "kr_sha256": "fe8152184ff5561871105e740f4a362e898c427b2d4a98eb81ef671315e93879",
+      "en_sha256": "bcc9aa4ed429d42ce309d4c17e22a0ef737c424ff210e98c95c8587294896b0a",
+      "origin": "ai"
+    },
+    "dataList[id=10707].desc": {
+      "pl": "Siódma Tożsamość Heathcliffa",
+      "kr_sha256": "f6203184e18d851dab9f45e8ecfeb010485168ab23cbacfbb5d812ffe0f10957",
+      "en_sha256": "d077e71438e89384bfd8ee2d78b4a09c2688e781b3664b2044b2c6a5c0b0766d",
+      "origin": "ai"
+    },
+    "dataList[id=10707].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10707].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10707].title": {
+      "pl": "Pequod\nHarpuonier",
+      "kr_sha256": "9536d4e220e44501b05785fa44796f6b83a6aca6c3d4f2be2200294254481f5f",
+      "en_sha256": "548aa8802650a5de50ead870d8b1b19717df592f99e9a7963daaccdad780345a",
+      "origin": "ai"
+    },
+    "dataList[id=10708].desc": {
+      "pl": "Ósma Tożsamość Heathcliffa",
+      "kr_sha256": "07194566af39f1387b577a91fa7304a97efababc5c48bb78a66c7da33db21fb8",
+      "en_sha256": "d980b554828fa3e71bbdd5980d2bcba6b73917702e6cba0bd0dee822875719bf",
+      "origin": "ai"
+    },
+    "dataList[id=10708].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10708].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10708].title": {
+      "pl": "Południowe Stowarzyszenie Öufi\nSekcja 3",
+      "kr_sha256": "9e0e7d0ab0cb908bd358f8ab4cf2c75665dd988752170249da170aefbc950723",
+      "en_sha256": "ed58b72d66f1c9ec065ca6684e55ee2a6c20a9bc7ba68a1db96f6bca0e31f5b8",
+      "origin": "ai"
+    },
+    "dataList[id=10709].desc": {
+      "pl": "Dziewiąta Tożsamość Heathcliffa",
+      "kr_sha256": "831b878587bc9d750504b4c9bb4a94299ea00c52dacb9f8a2035e733560fd033",
+      "en_sha256": "114880e65dc7154f704969026986558d0125b1d6ad4f3b71669ec2b28a0f984b",
+      "origin": "ai"
+    },
+    "dataList[id=10709].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10709].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10709].title": {
+      "pl": "Biuro MultiCrack\nFikser",
+      "kr_sha256": "8dc439a8393da092078abacbe97d981a125cc8ede4785b9f27c212ec13464d71",
+      "en_sha256": "8fa160739dc069021c83fbc5a1488c20187f8a1f7faaee3473d93e20ed6ab3a0",
+      "origin": "ai"
+    },
+    "dataList[id=10710].desc": {
+      "pl": "Dziesiąta Tożsamość Heathcliffa",
+      "kr_sha256": "1f3eeea196e709a75f055e168c1fe73dc188cfb553e198fbadcd053d7271f155",
+      "en_sha256": "b12101df69913089bb12f0b04aa72f2d217fd8e7f46afe292da0786ea67ae657",
+      "origin": "ai"
+    },
+    "dataList[id=10710].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10710].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10710].title": {
+      "pl": "Dziki Gon",
+      "kr_sha256": "a28edcf0ecc0462f8780017ee7b17bfc2b3f79c7d66fe82275065b06c4aacc32",
+      "en_sha256": "db26758da1c46f40a1158fc32e6650acd451c4295b8b5e7cb3b5cdbc6b1f7bbe",
+      "origin": "ai"
+    },
+    "dataList[id=10711].desc": {
+      "pl": "Jedenasta Tożsamość Heathcliffa",
+      "kr_sha256": "29e3501011299973efa0d3461597c8af64e864377fef718a6b3f781159bf59f0",
+      "en_sha256": "e043ba527141cf9015b904a6506ccde68f3bd23c1648c5e4039d53fe82475db6",
+      "origin": "ai"
+    },
+    "dataList[id=10711].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10711].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10711].title": {
+      "pl": "Biuro Kropka\nFikser",
+      "kr_sha256": "430afd788f72dd3a76a7ef7dba65665370cdba07c17fb91b3569f7ba15067674",
+      "en_sha256": "f16ba2383344edac6c6bbf05a80a099c4b4034157f15239735d7e29ce576fb00",
+      "origin": "ai"
+    },
+    "dataList[id=10712].desc": {
+      "pl": "Dwunasta Tożsamość Heathcliffa",
+      "kr_sha256": "7e7978c7236e9cdbc2e66a91e9f1d5dd5da61e42f759f79ec89fc3db2ebe87f0",
+      "en_sha256": "95613e5d04c48ecfc8f2f2258dd3b26eb601ee12e45b942889710ac21690b376",
+      "origin": "ai"
+    },
+    "dataList[id=10712].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10712].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10712].title": {
+      "pl": "Klan Kurokumo\nWakashu",
+      "kr_sha256": "924e1ef14fac36e716b24ba8c162336a175c780b9dc52368d8b09538feb58506",
+      "en_sha256": "476c6c1cf1971c3e4319f6cec8dbed8f80616c9e1b2fe4a5fb7d9ec69c3c80c8",
+      "origin": "ai"
+    },
+    "dataList[id=10713].desc": {
+      "pl": "Trzynasta Tożsamość Heathcliffa",
+      "kr_sha256": "f2894e175d98ebc421f68f36ec6d32d189cbf402cea6d85a2971c25314c68600",
+      "en_sha256": "7ab396e2c96f68fd1ec2e0f43c4104ecf64fc6aad2c61143b63edc4d6d92cc15",
+      "origin": "ai"
+    },
+    "dataList[id=10713].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10713].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10713].title": {
+      "pl": "W Corp. L4\nAgentka Oczyszczania - CCA",
+      "kr_sha256": "24b2395f172335a4a2ae06024f24618ac091f9c2ee373d07823715844edcf1fa",
+      "en_sha256": "1f972b22081acf687210845a2bf62395aad3178529dc23c823de37ca9e3aa074",
+      "origin": "ai"
+    },
+    "dataList[id=10714].desc": {
+      "pl": "Czternasta Tożsamość Heathcliffa",
+      "kr_sha256": "0268e14ced675e7f518653f6ffd281760e53aeacb43a7538de845dcf62e9c2c3",
+      "en_sha256": "d663b754fad56d3c5c144ba62420eab25edf9fddfac8ab3dc90c14c0439cf677",
+      "origin": "ai"
+    },
+    "dataList[id=10714].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10714].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10714].title": {
+      "pl": "Wataha Heishou -\nGałąź You, Adept",
+      "kr_sha256": "a6af668d1640a7921c6aa9bd06d02c08b2eb9a1ee46896bfdba9f16aea3efed1",
+      "en_sha256": "5ec29177c3451c2ecb98aa255be804af33d4928dd280b69345d79a98e566333d",
+      "origin": "ai"
+    },
+    "dataList[id=10715].desc": {
+      "pl": "Piętnasta Tożsamość Heathcliffa",
+      "kr_sha256": "c974898e0c8d6bb8111984853c5ac28380fc5ae38719362e43277a93eb16c64b",
+      "en_sha256": "9b1f6125d8ff2129738700329d1f8063a128eaac00f0aee5880293439bc7afcf",
+      "origin": "ai"
+    },
+    "dataList[id=10715].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10715].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10715].title": {
+      "pl": "Środkowego\nStarszy Brat",
+      "kr_sha256": "2f2e84984ffda6980ec014f06c1d40f614b1325dd759d8b91e8da4fed2843294",
+      "en_sha256": "4f3997b7797ebc3e246859ec83e430ecd37162b4b80f0a7270d3b73d8331ce13",
+      "origin": "ai"
+    },
+    "dataList[id=10716].desc": {
+      "pl": "Szesnasta Tożsamość Heathcliffa",
+      "kr_sha256": "37318d2333ac573cdaf557b636896a5b081524dbe00c7885195e00c07d4c1487",
+      "en_sha256": "f19707be203b76abdb7890f87aac5e708da8861dbb752f6801d6ae3fe5d30d4f",
+      "origin": "ai"
+    },
+    "dataList[id=10716].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10716].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10716].title": {
+      "pl": "Dom Pajęczyn:\nUczeń Kciuka",
+      "kr_sha256": "cffdf2775664941c892a717109e4123aa2e2d6286c8b3f5874e6c5f54d0ccabf",
+      "en_sha256": "fa0b074da39d1f589053d07c5f8fe9181541a7797051fe576b0a93a409a438a9",
+      "origin": "ai"
+    },
+    "dataList[id=10717].desc": {
+      "pl": "Siedemnasta Tożsamość Heathcliffa",
+      "kr_sha256": "4ce026447d7748fb2d2579489f9fb61749a38abfb974bfe17d8cec9f8ce28f7d",
+      "en_sha256": "23ba91a3ea2fbb3135612770fe9f44c75ed584b1afa9acdc9bb0a0953806d9f1",
+      "origin": "ai"
+    },
+    "dataList[id=10717].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10717].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=10717].title": {
+      "pl": "Haute Couture::\nLe Rouge\nKról Obszywek",
+      "kr_sha256": "0c4f5504cebfc282ef82070a07587ad9a1685bc1e6fe56b2b80e5f3b72833201",
+      "en_sha256": "72b2369796d9025947c3ec354cdd367d2f0de2d97804ce3e90a0a3519836fa65",
+      "origin": "ai"
+    },
     "dataList[id=40501].desc": {
       "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
       "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",

@@ -35,6 +35,12 @@
       "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
       "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
       "origin": "ai"
+    },
+    "dataList[id=히스클리프].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
     }
   }
 }

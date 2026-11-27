@@ -143,6 +143,30 @@
       "kr_sha256": "e3ff65f113edf3741e9a0f7a6a72b8b12e7073b938edcb62978a3d6dae098246",
       "en_sha256": "0581df0aafa20368d7fdbec7fed1f8ab595a6ac72faaf38c0e98f0686659f8fb",
       "origin": "ai"
+    },
+    "dataList[id=400031].desc": {
+      "pl": "??? Tożsamość Heathcliffa",
+      "kr_sha256": "6b7509b525c1eb9c6f6bd1f35af287c446953f860215978bf6756800d34d3455",
+      "en_sha256": "979280f1a0d4270d6b80162eea9c9eae7b49966727daf064f83c81c1e4491d8e",
+      "origin": "ai"
+    },
+    "dataList[id=400031].name": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=400031].nameWithTitle": {
+      "pl": "Heathcliff",
+      "kr_sha256": "bd7df81561966c0094b4e699fc9be526cbe1f5d1b0683ad4839658d69bf572ae",
+      "en_sha256": "2c65c7a0b54b04dd14b97535e92001897ff28ebdea30fd5d02144bbb9213d5ec",
+      "origin": "ai"
+    },
+    "dataList[id=400031].title": {
+      "pl": "Grzeszniczek Grupy Pisklaków",
+      "kr_sha256": "8aa3a9f088559490dcd685ffd1188898bb195abba947e8884c8433c30839e8ec",
+      "en_sha256": "6a20637f9ec4476e811322908569e7b74dc31775298aeb44f6a34c7f664e09d5",
+      "origin": "ai"
     }
   }
 }
