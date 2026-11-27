@@ -1,0 +1,742 @@
+{
+  "entries": {
+    "dataList[id=148305].desc": {
+      "pl": "poziom tej jednostki jest podniesiony pod wpływem Shower of Stinging Sunshine\n\nNa początku etapu: zyskuje 2 Siły [ChargeNoir] i +15 Licznika [ChargeNoir]\n\nrozpoczyna tę walkę z 30 SP i 1000 trwałej Tarczy",
+      "kr_sha256": "152b2ca5f4abba5aad1be24d895b192c0cb4a01200dab092453e9867548175fc",
+      "en_sha256": "7cc233de83cf1fcce05a3fa7116fea827f330bcecdd70119776d7f7f8898d1cf",
+      "origin": "ai"
+    },
+    "dataList[id=148305].flavor": {
+      "pl": "Tym, którzy wsłuchują się w ciepło promieni słonecznych, blask brzmi tym bardziej przypiekająco, olśniewająco i intensywnie.",
+      "kr_sha256": "d9766d97d6d821d141ec8f7d6d4f08c0c7c3232674ba5419bc813bc78b24d2e1",
+      "en_sha256": "54560d6829524c1028e211e1d47561e750d1286df0c6e044d125fd7b88480927",
+      "origin": "ai"
+    },
+    "dataList[id=148305].name": {
+      "pl": "Shower of Stinging Sunshine",
+      "kr_sha256": "e90248619a5d6976088653e935d3c67c29421faddbeafe58ba6710a95059e3b4",
+      "en_sha256": "600bf07affdcfb5841f44a8a912867b953de1caef6b486acd2551d0b82579e6a",
+      "origin": "ai"
+    },
+    "dataList[id=148801].desc": {
+      "pl": "Początek tury: jeżeli na polu jest 2 lub mniej Tanned Prisoner, tworzy dodatkowy slot\nKoniec tury: zyskuje 1 [AttackDmgUp] w następnej turze za każdego <color=#ff6000><mark=#ff000040><b><u>Tanned Prisoner na polu</u></b></mark></color>",
+      "kr_sha256": "ccd1addb55e1a7fb29b9a2edcb0cef99e9bad947b5b59813c69dc03ceae47e5b",
+      "en_sha256": "b6113b1be69094125d66eb0042a218f191c37079cda152f8f48dd19ec6fde3e9",
+      "origin": "ai"
+    },
+    "dataList[id=148801].flavor": {
+      "pl": "Skórę przestępcy zdejmuje się i zdrapuje z niej grzech, który się na niej przywarował — pozostaje tylko skóra do zbioru.",
+      "kr_sha256": "16dc142437e38cbab09b0a3af90c2cb8e8c440b042a6e81dbb46e2b6c4e95f91",
+      "en_sha256": "c6b697d0008bd9fd5e35fb49cf494391a425e2ca2c8a533485735e80c73636ef",
+      "origin": "ai"
+    },
+    "dataList[id=148801].name": {
+      "pl": "Reaping Raw Hide: Original Sin Style",
+      "kr_sha256": "90ec32f837c4597766bf698bab4af502a1c921299959be9ee11684f25775ab47",
+      "en_sha256": "7ca3353c0bdd5499ba762b51d6d2c23d3f3c3dab42ec9fcd78d12cf44736d2de",
+      "origin": "ai"
+    },
+    "dataList[id=148802].desc": {
+      "pl": "tworzy dodatkowy slot, jeżeli na polu jest sojusznik — z wyłączeniem tej jednostki — mający mniej niż 80% HP",
+      "kr_sha256": "1c99ea12b2b4381f71d24f9c9a7b99629be6f5aaf01ee975113b728c17e1041b",
+      "en_sha256": "2a9d858b4e6349eb2a89133ac5b3d26baaf4f76b74581dbff14cd569bd8ead3f",
+      "origin": "ai"
+    },
+    "dataList[id=148802].flavor": {
+      "pl": "Gdy grzech ponownie przesiąknie skórę, garbarnia odbiera ją i garbuje od nowa.",
+      "kr_sha256": "6f38d5094194e4a91c88f3bf2cf44febffa304e8e51dd95232d651500af90840",
+      "en_sha256": "83351fbc2565d083268cc3408ee1523be1609b40168eac6e2d441d910a1ef4bb",
+      "origin": "ai"
+    },
+    "dataList[id=148802].name": {
+      "pl": "Retanning Preparation",
+      "kr_sha256": "10dfee110cfe9670dae941040fdcd48a1d9f2140c07ede8816dc0128da7b46bf",
+      "en_sha256": "3c029447fdf563642298c8d24a91031b38b2ea1d41fad604aad56213fca27470",
+      "origin": "ai"
+    },
+    "dataList[id=148803].desc": {
+      "pl": "gdy HP rdzenia tej jednostki spadnie poniżej 50% Maks. HP, kończy turę, przechodzi do nowego wzorca, a wszyscy sojusznicy — łącznie z tą jednostką — zyskują [RestrictFailed] na resztę tej walki",
+      "kr_sha256": "7b826e49405c319d25aefb436df029234b89629d99f94aa7cbd05a02a5ce71c3",
+      "en_sha256": "4bf4abb0a8cafe3032f69be6ac261299ed5d5423fcebf341183068423ca05d1d",
+      "origin": "ai"
+    },
+    "dataList[id=148803].flavor": {
+      "pl": "Popyt eksplodował, a skór surowych coraz trudniej zdobyć. Skóra grzeszników pierworodnych była niegdyś tego rodzaju, na który nikt nie chciał patrzeć. Potem jeden sezon zmienił wszystko: popyt wystrzelił, ceny poszybowały, a to, co kiedyś sprzedawano za grosze albo wyrzucano, stało się pożądanym materiałem.\n\nDziś nawet skazy na powierzchni skóry pierworodnego grzechu opakowuje się w estetykę i sprzedaje jako część jej uroku.",
+      "kr_sha256": "de997c3cd804d5e36ea36882a46329b409ccbdec6e931364a2dc53e8e8c38e78",
+      "en_sha256": "380c3f1fd7da97b2c9f90c1d52c5a881f45676d193568a400fe63595b3219b8f",
+      "origin": "ai"
+    },
+    "dataList[id=148803].name": {
+      "pl": "Tannery of the Original Sin: Full Operation",
+      "kr_sha256": "79e2bfc6d591e20fb74ba56cd3682ff53423e263a4c82fe3197a5f5e29445f07",
+      "en_sha256": "a946e94d6307bf4a7835317afc50f3986ea5e9097c7a41bc2514c38f74a732c4",
+      "origin": "ai"
+    },
+    "dataList[id=148804].desc": {
+      "pl": "od tury 2 na początku każdej tury nakłada losowo 1 z poniższych efektów na 3 losowych wrogów\n- [RestrictMob]\n- [RestrictBoss]\n- [RestrictTier1]\n- [RestrictDef]\n\nprzy naruszeniu reguły nakłada 1 [RestrictDenied]",
+      "kr_sha256": "7ce34c086f3aac384b1434b2468c3868944f845054352b6222fa25c48cc6be0a",
+      "en_sha256": "25f67e7584001644f4f65fc983d6fcde18d98dfd9a5aecb31411e0c2e255d621",
+      "origin": "ai"
+    },
+    "dataList[id=148804].flavor": {
+      "pl": "To, co oddziela bryłę mięsa od skóry, to rygorystyczny reżim garbowania, rządzony bezlitosnymi regułami.",
+      "kr_sha256": "a8677f0ce96670c4d9f8b29c3fbbc24e9dd8f892122a33cd3d54f9a110e8127c",
+      "en_sha256": "5185e2dce02422bfefd75fffac97c087ed2bf7e8f3c816f059aad9809ecf9e26",
+      "origin": "ai"
+    },
+    "dataList[id=148804].name": {
+      "pl": "Rules of the Tannery",
+      "kr_sha256": "9e1bf915c514fa9dbc4bcb765ba332b999dc72a6f20e56b129d5d4b98b0ceb9f",
+      "en_sha256": "10383dd0ed81f67c056ef68d2ce8f3211162d7ef7c4af4369a87a90754bbba68",
+      "origin": "ai"
+    },
+    "dataList[id=148805].desc": {
+      "pl": "rozpoczyna tę walkę z 90% HP i 45 SP",
+      "kr_sha256": "5139fb278e4bcb52569b354fe075db346d8fc7e41fb6cbbb6a4876bf98c2cf87",
+      "en_sha256": "db5497f950d138e8af53a8ae156b67352aa47206ee1c6c52ccebb432ad66f10c",
+      "origin": "ai"
+    },
+    "dataList[id=148805].name": {
+      "pl": "The Battle Continues",
+      "kr_sha256": "96a971aed2ec52a975a74a09b03ec3cc2fa277fb9c061e6814c931f7b9f9f410",
+      "en_sha256": "7aade3c684dd2ebdeff1ba4cd0f913427a4ca253c4e3047d3e8a3bbde738c817",
+      "origin": "ai"
+    },
+    "dataList[id=149101].desc": {
+      "pl": "po śmierci Poziom Obrony The Overseer trwale maleje o 1 na resztę tej walki",
+      "kr_sha256": "43561f3444b1a41c0a94d52434b279473c14a8b82eb1390afb2cbd9bae13f05b",
+      "en_sha256": "9dac2824631e330325293626a269e45b79e381e5824de698bb16d8cef730a740",
+      "origin": "ai"
+    },
+    "dataList[id=149101].name": {
+      "pl": "Tanned Prisoner",
+      "kr_sha256": "785b2e474dfd43bf6ac19b370516f61b2cb0bd500967ad7d870b9f0b377590c8",
+      "en_sha256": "60a533d5fbfc4b153c209ae9ad10e912b41668b4beb9f73201d0eb106a82aaa7",
+      "origin": "ai"
+    },
+    "dataList[id=149501].desc": {
+      "pl": "Początek tury: <color=#ff6000><mark=#ff000040><b><u>nakłada 1 [TailoringTarget] na Grzesznika, który zadał najwięcej obrażeń</u></b></mark></color> tej jednostce w poprzedniej turze, i używa „Patterning”\n- jeżeli Grzesznik z [TailoringTarget] <color=#ff6000><mark=#ff000040><b><u>ma 9 [ScissorsMark]</u></b></mark></color>, „Patterning” uruchamia się jako <color=#ff6000><mark=#ff000040><b><u>„Surfile à la Chaîne”</u></b></mark></color>\n\nza każdym razem, gdy ta jednostka zostanie trafiona przez Grzesznika:\n- nakłada 1 [ScissorsMark] na tego Grzesznika (maks. 5 na turę na Grzesznika)\n- zyskuje 1 Licznika [ChargeKhaki] (maks. 5 na turę na Grzesznika)\n\n<color=#ff6000><mark=#ff000040><b><u>za każdym razem, gdy ta jednostka zostanie trafiona Umiejętnością ataku Grzesznika mającego [TailoringTarget], zyskuje 3 [ResultEnhancement] (maks. 9 na turę)</u></b></mark></color>",
+      "kr_sha256": "07c59b79e7ff7812b6e70f5bb4781fceb73926296925e59d74b70cbbc8e79353",
+      "en_sha256": "e8299c683160368c80c4a346a8fcecf39afd8f72a2b693efccde50d65a558c0b",
+      "origin": "ai"
+    },
+    "dataList[id=149501].flavor": {
+      "pl": "Mówi się, że ubranie naprawdę powstaje dopiero dzięki przeróbce. Dopóki nie uszyto go na miarę, trzeba je dopasowywać, aż leży na noszącym.\n\nA nie dotyczy to tylko odzieży. Cokolwiek nabytego z zewnątrz trzeba najpierw przerobić na własną miarę — dopiero wtedy można je nosić, żyć w tym i dopasować do serca.",
+      "kr_sha256": "8a364facb42a33273538374413b188a7230f4d1e9e50f523dbc03db444fa911e",
+      "en_sha256": "26ea9346bc5e10d9a9741aeb386438c5b120ce4aefcc39fa4562e364525f079e",
+      "origin": "ai"
+    },
+    "dataList[id=149501].name": {
+      "pl": "Alteration",
+      "kr_sha256": "9de1ff063d395642a84d01cfc1a838b3d6af5e098a2774869c14bb4d4cd103f1",
+      "en_sha256": "187218b805a772f9158e8980810d9bd2a59612066434897cbd99d03bb38b144c",
+      "origin": "ai"
+    },
+    "dataList[id=149503].desc": {
+      "pl": "Na początku etapu albo na początku tury, w której ta jednostka doszła do siebie po Oszołamieniu, zyskuje 30 [FinishedFabric]\n\nstosuje efekt [PanicChangeLock]\nKoniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 30\n\nPoczątek tury:\n- <color=#ff6000><mark=#ff000040><b><u>zyskuje Tarczę równą (Stosy [FinishedFabric])% HP</u></b></mark></color> (maks. 30%)\n- przywraca SP równe Stosom [FinishedFabric]",
+      "kr_sha256": "9b809c8bf93e4c11263dc094bab6a01af70c1a009d091d663bf5449696cb7e46",
+      "en_sha256": "e41be6528cb80b9de2b0c16093db18371ddc769f2d8059c9657fe5adee244690",
+      "origin": "ai"
+    },
+    "dataList[id=149503].flavor": {
+      "pl": "Cięcie to nadawanie materiałowi kształtu zgodnego ze wzorem. Cięcie nadaje ubraniu formę, przeróbka czyni je noszalnym.\n\nDla materiału więc samo cięcie jest formą przeróbki. Gdy już zostanie pocięty, materiał przybiera kształt odzwierciedlający jego własne właściwości, stając się ubraniem, o które chodziło krojczyni.",
+      "kr_sha256": "7d435ead15128788412f061cdea6c4aea14f773f2b876b1203c0ed16b5c24417",
+      "en_sha256": "53c90d7195255898dfa7fc2d5deb61f2c040d99d52817fb18c767ace6fb8f46a",
+      "origin": "ai"
+    },
+    "dataList[id=149503].name": {
+      "pl": "Tailoring",
+      "kr_sha256": "98b42aa9c6b28fa867eff93d970ed649a35a373e4dd77455479e755f986d9012",
+      "en_sha256": "7d854f73f443c7cc5f5a4be1bdf0439d57b746226f95fc80e7b02fc0c9ebe714",
+      "origin": "ai"
+    },
+    "dataList[id=149504].desc": {
+      "pl": "za każde trafienie Annette the Alterationist przez Grzesznika <color=#ff6000><mark=#ff000040><b><u>podnosi Próg Oszołomienia o wartość 0.8% HP</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>gdy przechodzi w Oszołamienie, traci całą Tarczę, wszystkie [FinishedFabric] i [LargeTailoringShears], a następnie zyskuje 3 [Vulnerable]</u></b></mark></color>\n\nPoczątek tury: przy HP 60% lub mniej:\n- zyskuje 1 [ResultEnhancement] i 1 [SlashDamageUp] za każde 20% utraconego HP (maks. 3 każde)\n- ostatnia Moneta „Trimming” i druga Moneta „Cutting” zamieniają się w [SuperCoin]",
+      "kr_sha256": "fab01288fea73cef7c0aa5c1e0ae185b327f7beef04c17086292d54767091be6",
+      "en_sha256": "43241373a9e749b2f5e05f968a30117872e60350c8ff8a45b577f5834644779b",
+      "origin": "ai"
+    },
+    "dataList[id=149504].flavor": {
+      "pl": "Ciało ukształtowane z przeróbki jako wartości nie przestaje ciąć — nieustannie przerabia i kroi.\n\nNawet gdy ciało się rozpada, nie potrafi przestać przerabiać i kroić. Została stworzona, by wycinać, ale samej siebie wyciąć nie potrafi.",
+      "kr_sha256": "aee5874e54f1615b1440b5e852ce6da1595269413699f1a8ff8c21c10d1377a0",
+      "en_sha256": "85f3f30a5f3f0a169f551de60d870b261b3dd68cd0a5c9dafdafcb2b427a534e",
+      "origin": "ai"
+    },
+    "dataList[id=149504].name": {
+      "pl": "Scissors That Do Not Rest",
+      "kr_sha256": "c562f304a91af2d2e29b08b306d87edd36123c28449bc9939925146fb29cbcc7",
+      "en_sha256": "4b9035898145e81f2df0393d55d1bb126e4f0eded434b4fb01823c79bb030376",
+      "origin": "ai"
+    },
+    "dataList[id=149505].desc": {
+      "pl": "zyskuje 1 Siły [ChargeKhaki] za każde 10 łącznie zużytych Liczników [ChargeKhaki] tej jednostki w tej walce\n\nprzy 3+/5+ Siły [ChargeKhaki] maks. wartość Liczników [ChargeKhaki] +5/+10",
+      "kr_sha256": "49bb50bc2c568b772374d33bc86b7e863342b843bcd0424a0406e2eff0706c12",
+      "en_sha256": "edd08d4231905557abad972f315b9aff88aaa9b6fdd8be06331eb3db59a0e8a1",
+      "origin": "ai"
+    },
+    "dataList[id=149505].flavor": {
+      "pl": "Dryfują zgodnie z wartościami ukształtowanymi przez Erę Domu Towarowego, niesione własną inercją; im silniejsza staje się inercja, tym trudniej im przestać dryfować.",
+      "kr_sha256": "7a24bca0929608fb3b33759ed8f6f1ee8ceb80db0a6e155efb06d13f4c65e505",
+      "en_sha256": "2ac883a6094de5cedc8348384f4876a9eaad38b14a9a57cec531092e064543c1",
+      "origin": "ai"
+    },
+    "dataList[id=149505].name": {
+      "pl": "Inertia of Drifting",
+      "kr_sha256": "47d7764893093f7c9ce6e109a347c2314d5ccc876171005c4d405b7cb9cda284",
+      "en_sha256": "1fd78544bba2eed7c305ed00198a0a97cb8cf501033fb0b6584460915d1a1461",
+      "origin": "ai"
+    },
+    "dataList[id=149604].desc": {
+      "pl": "poziom tej jednostki jest podniesiony pod wpływem słońca\n\nNa początku etapu: zyskuje [GoldenLeatherEnhance]",
+      "kr_sha256": "b93952d63f4108e4cd2b3b9ee19522fc0cfbf41f3493bd3f64c0c11820081b28",
+      "en_sha256": "c97531f953b96ea1e533ee00ead30b94cf51caf06226fa2ec96752523aea7079",
+      "origin": "ai"
+    },
+    "dataList[id=149604].flavor": {
+      "pl": "Tym, którzy wsłuchują się w ciepło promieni słonecznych, blask brzmi tym bardziej przypiekająco, olśniewająco i intensywnie.",
+      "kr_sha256": "d9766d97d6d821d141ec8f7d6d4f08c0c7c3232674ba5419bc813bc78b24d2e1",
+      "en_sha256": "54560d6829524c1028e211e1d47561e750d1286df0c6e044d125fd7b88480927",
+      "origin": "ai"
+    },
+    "dataList[id=149604].name": {
+      "pl": "Shower of Stinging Sunshine",
+      "kr_sha256": "e90248619a5d6976088653e935d3c67c29421faddbeafe58ba6710a95059e3b4",
+      "en_sha256": "600bf07affdcfb5841f44a8a912867b953de1caef6b486acd2551d0b82579e6a",
+      "origin": "ai"
+    },
+    "dataList[id=149608].desc": {
+      "pl": "„Cry of the Cocoon” słychać w każdej turze\nnie może zostać unieruchomiona[TabExplain]",
+      "kr_sha256": "42b97561aac4519a97cb33f4219618d6072bc1b41e763e84c3153366d0af36eb",
+      "en_sha256": "83a118902be9912908d49c8b179c495be4a98b02569c2556529a2a05cedaeb9f",
+      "origin": "ai"
+    },
+    "dataList[id=149608].name": {
+      "pl": "Unending, Unavoidable Stream of Customer Complaints",
+      "kr_sha256": "4df7bcef2395aaa6e4d1ab740bffea337e668569c2fde003d24c0e077ccb16a0",
+      "en_sha256": "046f4cc26d8109b4638a24b43e8e474c611092f1ac3313443578300dcfbdd5b1",
+      "origin": "ai"
+    },
+    "dataList[id=150101].desc": {
+      "pl": "Na początku etapu: przywraca HP do maksimum\n\nrdzeń i Części nie otrzymują obrażeń od [Combustion] i [Laceration]",
+      "kr_sha256": "1a4e684167ce43dfdd65bfe2259cc1236429ab67b70284a0edbae91f3325a351",
+      "en_sha256": "5038715f1d536223c98e280266e1dc63831f30089dec2ad764427e5fb791160b",
+      "origin": "ai"
+    },
+    "dataList[id=150101].flavor": {
+      "pl": "Porcelanowa skóra pochodzi z gliny.",
+      "kr_sha256": "4ffd3c60033ebc7065b4fd8774b9d66865a63404f3e10501e3f3eac58bbaa328",
+      "en_sha256": "edcd0bcfe1bcd4e38432d16e88c35a3c0abedf5f4895aa06228847aa0079e465",
+      "origin": "ai"
+    },
+    "dataList[id=150101].name": {
+      "pl": "A Doll Molded from Clay",
+      "kr_sha256": "18a066fcbe35630bcd2eca52e9aba056253f1b4b080a534c304d9d3e1bed82c4",
+      "en_sha256": "4732cda512d708fa44c23be23b34e54b32e66b0bd9b2a25c8d13d253847d22c4",
+      "origin": "ai"
+    },
+    "dataList[id=150102].desc": {
+      "pl": "Początek walki: zyskuje 1 [AlriunePetal]\n\njeżeli ta jednostka przechodzi w Oszołamienie:\n- zyskuje 2 [Vulnerable] w następnej turze\n- przywraca 20 SP Grzesznikom i jednostkom wsparcia\n- Początek tury, w której doszła do siebie po Oszołamieniu: resetuje [AlriunePetal] do 1\n\nPoczątek tury: jeżeli żaden wróg nie ma [FlowerLaurelWreath], <color=#ff6000><mark color=#ff000040><b><u>zakłada Umiejętność „Fragrant Laurel Wreath”</u></b></mark></color>\n- jeżeli w tej turze założono „Bearing the hope to return to dust...”, zakłada ją w następnej turze\n\n<color=#ff6000><mark color=#ff000040><b><u>otrzymuje -50% obrażeń z Umiejętności wrogów nieposiadających [FlowerLaurelWreath]</u></b></mark></color>\n<color=#ff6000><mark color=#ff000040><b><u>otrzymuje +150% obrażeń od wrogów mających [FlowerLaurelWreath]</u></b></mark></color>",
+      "kr_sha256": "87fc266ffddbaa063d18965e71b6a7e0061941499eeb6d7c2103f0c7fcb11637",
+      "en_sha256": "2ea5afe6546e641ca11682c5739c732bf3dc9633cbeb4e158d96625807628c3d",
+      "origin": "ai"
+    },
+    "dataList[id=150102].flavor": {
+      "pl": "Kwiaty więdną. I znów zakwitają.",
+      "kr_sha256": "e37457145c1f6024ac7e3fe84a8b2467c49a214a4dd4f17dd597617bb7f3e1b2",
+      "en_sha256": "3096f4b2531e7ec3c49ca2471acaa2bee5000031d7518e086cb6fd45454baf71",
+      "origin": "ai"
+    },
+    "dataList[id=150102].name": {
+      "pl": "Unwithering Flower",
+      "kr_sha256": "b52c07986d32af24dd4b5afe9991983420a74b1190021a06fd848a91663491e5",
+      "en_sha256": "5b3a762139ab33046fdc62911828e53c33247102d657e6f12d299ae5dd051d3e",
+      "origin": "ai"
+    },
+    "dataList[id=150103].desc": {
+      "pl": "zadaje 20 obrażeń SP oszołamionym wrogom\n\nPoczątek tury: <color=#ff6000><mark color=#ff000040><b><u>jeżeli istnieje cel w Panice lub w Korozji, używa „... It shall go back to the grave with all that desires to live” na tym celu</u></b></mark></color> (maks. 2 razy na turę, używa na celach od najwolniejszych, z wyłączeniem jednostek wsparcia)\n\njeżeli ta Umiejętność pokonała cel, w następnej turze powstaje 1 One Who Emerged from the Earth\n- efekt nie uruchamia się, jeżeli na polu są 4 One Who Emerged from the Earth",
+      "kr_sha256": "3b17a938332c55951deadbb5d0d15569e6ad41fa5df90589090a1588199099de",
+      "en_sha256": "ac0e675ef659ade4c0299efffda4c1accb0a3ab6ba70dfd4bee4e0f2845bb27e",
+      "origin": "ai"
+    },
+    "dataList[id=150103].flavor": {
+      "pl": "Gdy przyjdzie wiosna, zakwitnie.",
+      "kr_sha256": "b421a68cf3205ddbaef6c88ac4c00f1d47e5610091956999b0b0d4a458f4b60b",
+      "en_sha256": "43d2c8d7b924b6efb29b6147dc6c0994827ab1bbf2303aaac8af6fbf4dbc6241",
+      "origin": "ai"
+    },
+    "dataList[id=150103].name": {
+      "pl": "Spring's Advent",
+      "kr_sha256": "36fb6899705c862f96e6661026a5ae73c77b9626bbb875d0129522589e3ec147",
+      "en_sha256": "7231e9e8b25aaa360620e66596b329b690147d82539b5211065e63499d64fba2",
+      "origin": "ai"
+    },
+    "dataList[id=150201].desc": {
+      "pl": "ta jednostka nie otrzymuje obrażeń od [Combustion] i [Laceration]\n\n<color=#ff6000><mark color=#ff000040><b><u>podniesienie Progu Oszołomienia przez [Vibration] zwiększa się o 100%</u></b></mark></color>\n\n<color=#ff6000><mark color=#ff000040><b><u>ta jednostka zostaje pokonana, gdy przechodzi w Oszołamienie</u></b></mark></color>",
+      "kr_sha256": "46acc2cbe3c90efcbccc3f74bbcf9e6010fd42105eb1635c1e86c195adf5d160",
+      "en_sha256": "32be00f2c6ded8e13d8fb0a61b5c56df5dee33a7aaf7de1ed3c458799cdad497",
+      "origin": "ai"
+    },
+    "dataList[id=150201].flavor": {
+      "pl": "Z powrotem do ziemi.",
+      "kr_sha256": "477902459cca9dbcde4b0dc6794b3c019afa27340d694db19cd331d9bb1674ce",
+      "en_sha256": "e6cc98b591b6c07fd98cebfde76323e6df8993c18f8a9ab7e91b9be5a481c94a",
+      "origin": "ai"
+    },
+    "dataList[id=150201].name": {
+      "pl": "From the Earth",
+      "kr_sha256": "14684e0ce5b7753001a776f9a1ddaec0f21ef82831b09b76e2543c5da958419d",
+      "en_sha256": "5fbaa6a5532f8224b4ca5dafc8ed66118e89140f1d653c6f49c421a1a705e681",
+      "origin": "ai"
+    },
+    "dataList[id=150301].desc": {
+      "pl": "Na początku etapu: rozpoczyna walkę w Panice\n\nw Panice stosuje następujące efekty:\n- <color=#ff6000><mark color=#ff000040><b><u>wszystkie ataki celują w Pwie</u></b></mark></color>\n- przy użyciu Umiejętności, jeżeli Pwie jest głównym celem, zwiększa Moc Starcia i Moc Bazową[TabExplain]\n- na początku walki wszystkie Monety tej Umiejętności zamieniają się w [SuperCoin]y",
+      "kr_sha256": "f5187c74c706c5297a6e3052e8fdb6d89664915432820f3b233e12cb279947e7",
+      "en_sha256": "65eebb288ebfbecdb33f2d01dcae4b46f0e1ec822b93a541e261943e73066442",
+      "origin": "ai"
+    },
+    "dataList[id=150301].flavor": {
+      "pl": "Dzieci dawnej rzeczy już nie istnieją.",
+      "kr_sha256": "b6cae2ba0336cec20c657041cf3c43091c1ae798234b303098447d7beafb6477",
+      "en_sha256": "a3f9dd67538efdc6d2e2d9371b404cf3cf4f6d84acddd28ee2bd667f2fa95fa1",
+      "origin": "ai"
+    },
+    "dataList[id=150301].name": {
+      "pl": "Ceaseless Wailing",
+      "kr_sha256": "84f7943e24dc0093a65dceeaca22ab38328adfac92fb5701ec205f4f7aa51689",
+      "en_sha256": "818e56b617dc85638199697a9c78d6a41279d1073ecb5b140fe4a57a2ef049de",
+      "origin": "ai"
+    },
+    "dataList[id=150302].desc": {
+      "pl": "Umiejętności tej jednostki, Niski Moral oraz Panika nakładają [TangleBlackYarn] na wroga\n※ [TangleBlackYarn] można zmniejszyć, <color=#ff6000><mark color=#ff000040><b><u>używając Umiejętności obrony lub przez określone Umiejętności tej jednostki</u></b></mark></color>\n\nprzy trafieniu uruchamia następujące efekty:\n- zyskuje 1 [SickBlackYarn]\n- jeżeli Umiejętność, którą trafiono tę jednostkę, ma <color=#ff6000><mark color=#ff000040><b><u>Afiniczność Cięcia</u></b></mark></color>, zyskuje dodatkowo 1 [SickBlackYarn]\n- przy trafieniu Umiejętnością o <color=#ff6000><mark color=#ff000040><b><u>Wadze Ataku 5+</u></b></mark></color> zyskuje w następnej turze [HeavyBlackYarn] (1 raz na turę)",
+      "kr_sha256": "0ec8045c93233387296f3e01b9f6f001c95621786ca6bb75547570611e1f9483",
+      "en_sha256": "defce3dd2f5943ad8471323bb8a88ccb18a9c57f9a68c0a90190f8638f479502",
+      "origin": "ai"
+    },
+    "dataList[id=150302].flavor": {
+      "pl": "Czarne włókno oplatające jego ciało nie znajdowało się tam wcześniej. Z czystego szczęścia, gdy poprzednia era ustępowała następnej, włókna oplotły ciało dawnej rzeczy. Oplecione włóknem ciało pozwoliło mu przetrwać Erę Domu Towarowego. A teraz te czarne włókna zaczynają się rozplatać.\n\nPrzed Erą Akwarium była Era Placu, Era Schronów, Era Sali Rozpraw i wiele innych. Różniły się nazwami i formą, lecz istota napędzająca System Sisyphe pozostawała niezmienna.\n\nZ każdą zmianą ery ludzie dostosowywali się do przemienionego świata, odcierając cierpienia kolejnych czasów w ludzkiej postaci.\n\nWłókna splątane w obecnej Erze nie są jedynie spleceniem dwóch poprzednich, lecz wszystkich er, które osiadały tu warstwa po warstwie.",
+      "kr_sha256": "a47782fd5411b1c024aea4e7a829469d897dbc6ed3e1bd308adb54ec3174f2fd",
+      "en_sha256": "bbaf32722b19c711eb85df9981a9a3083607d652cab8fb425e15045c881685f2",
+      "origin": "ai"
+    },
+    "dataList[id=150302].name": {
+      "pl": "Tangled Black Thread",
+      "kr_sha256": "d73176f8e2a9a86980f112e9515f9e10ad9bfe1fea2fa4558319831d7cb5a5ce",
+      "en_sha256": "3d3cb33f3271994a6c9e26dc7a1c9625f83f14e1b12c0e3132f87861cafffaad",
+      "origin": "ai"
+    },
+    "dataList[id=150303].desc": {
+      "pl": "gdy <color=#ff6000><mark color=#ff000040><b><u>Część przechodzi w Oszołamienie</u></b></mark></color>, <color=#ff6000><mark color=#ff000040><b><u>usuwa po 1 Próg Oszołomienia z innych Części i kończy turę</u></b></mark></color>, a następnie wszystkie Części zyskują [HideBlackYarn] w następnej turze\n\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli [HideBlackYarn] wygasło przez trafienie</u></b></mark></color>,\n- zyskuje 10 [SickBlackYarn]\n- jeżeli zyskane [SickBlackYarn] przekroczyło maksimum, zyskuje w tej i w następnej turze 3 Kruchości\n\njeżeli [HideBlackYarn] wygasło na koniec tury,\n- zyskuje (7 - pozostała Siła) [SickBlackYarn]\n- zyskuje 1 [AngryBlackYarn] w następnej turze",
+      "kr_sha256": "b1e26c9aed60f09c74de7388a937abb8828694cb302ba6676684d9a597cd5926",
+      "en_sha256": "687dad67857a4e5d6c2dba854d381954723443ccb7428b28973ef6346541c8b5",
+      "origin": "ai"
+    },
+    "dataList[id=150303].flavor": {
+      "pl": "W objęcia morza minionej ery, gdzie niegdyś pływało tak swobodnie i naturalnie, jak tylko się dało.",
+      "kr_sha256": "9c533789e80a63fbeaf703b10d496898aba7172c7e6c790e2ba8189053b83cf3",
+      "en_sha256": "1a5868bafa86e1130f68a36f6cde196aba1bc3d1db14ada5cf4da2539654295b",
+      "origin": "ai"
+    },
+    "dataList[id=150303].name": {
+      "pl": "Into the Waters of Eld",
+      "kr_sha256": "637f4a4c95487de3a8981a2965e436fd7d497d0401b8f028eec2f29465606e0d",
+      "en_sha256": "60c43a4d67a777978a40dc774b0b034914588b9e84674add8c9f50930aa18aca",
+      "origin": "ai"
+    },
+    "dataList[id=150304].desc": {
+      "pl": "otrzymuje -50% obrażeń HP i SP od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]; podniesienie Progu Oszołomienia przez [Vibration] zmniejsza się o 50%\n\ntyp Paniki tej jednostki nie ulega zmianie\nKoniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0",
+      "kr_sha256": "3e51fdc378af7c669d1d6e847b4b18a20b2e128939ef8365ba18aad89e442531",
+      "en_sha256": "b81526185c081b1bc7cffafb01117e2bb2a394be61ba097438a32c2516a31a75",
+      "origin": "ai"
+    },
+    "dataList[id=150304].flavor": {
+      "pl": "Aquarium Sisyphe odszedł, lecz w tym ciele wciąż kryje się nikłe mokre piętno tamtych czasów — wilgoć, która nie zdążyła stać się włóknem.",
+      "kr_sha256": "06004f245d817fe30eb4a92ac2b7ed6cdbc6f2da65acbeca1815596465612529",
+      "en_sha256": "c5bb8ca7d3846371bcc34ab8d5ff1bfb52590b88d8bafd6793c33f0a6ed198fd",
+      "origin": "ai"
+    },
+    "dataList[id=150304].name": {
+      "pl": "Lingering Dampness",
+      "kr_sha256": "5ac923bbf00e7f736f339bbab2efd8e4c41fb172ddaaa573c812f8174bc11847",
+      "en_sha256": "aadf2b04e175bd149885bcfb30cad72550c31851b14b0e1895769f25f3a96f10",
+      "origin": "ai"
+    },
+    "dataList[id=150401].desc": {
+      "pl": "Przy pierwszym pojawieniu się w walce zyskuje 5 [NoirBindArmor]\n\nPoczątek tury: zyskuje Tarczę równą (Stosy [NoirBindArmor])% Maks. HP tej jednostki\n\ngdy staje się Oszołamiona, traci wszystkie [NoirBindArmor]\nPoczątek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 [NoirBindArmor]",
+      "kr_sha256": "2383751d3c3573534f0355f763ed318818944e7695bf748b795260f2b0162260",
+      "en_sha256": "f524385e49312ac079e9474f509619444c0e977c9c60937bd188665fbb3e4f39",
+      "origin": "ai"
+    },
+    "dataList[id=150401].flavor": {
+      "pl": "Tkanina Le Noir trzyma ciało jak zbroję, eksponując je pod twardą, niezmienną sylwetką.",
+      "kr_sha256": "5d1c9a71e8c8f2c685deb9bc206813940c111b745e3a806e69ee65efdfed3952",
+      "en_sha256": "8cac25a43808e04b0d2ab840cb6e2b80cf61a2cda5d3dc589705dd707b5151e8",
+      "origin": "ai"
+    },
+    "dataList[id=150401].name": {
+      "pl": "Le Noir: Fabric",
+      "kr_sha256": "d123c5395d881d4693ae1bb17715e3d533641be5b3e240abea5ceed6f3e89d9c",
+      "en_sha256": "9d372b95f01e3da69c4a7ac8bf5979253ee97315da44866c1f3b2d93241c1584",
+      "origin": "ai"
+    },
+    "dataList[id=150402].desc": {
+      "pl": "uruchamia następujące efekty, zależnie od łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce:\n- zyskuje 1 [NoirBindArmor] za każde 3 łącznie zużyte Liczniki [ChargeNoir]\n- zyskuje 1 [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir]\n\nprzy 3+ Siły [ChargeNoir] maks. wartość Liczników [ChargeNoir] +5",
+      "kr_sha256": "358043da4e8afa4aba18f34f168bd3d0bca72e6067cf688e1fdae284d5b58e82",
+      "en_sha256": "ecafbf2199b65634b5d035bbd86f8ce864ffee8cbdce3008578c9dbd8a3eab4b",
+      "origin": "ai"
+    },
+    "dataList[id=150402].flavor": {
+      "pl": "Siła zostaje sprężona, skupiona i utrwalona. Czasem potrzeba więcej siły, by powstrzymać zmianę, niż ją wywołać.",
+      "kr_sha256": "3e79f8c381c71f64fff9bb4f3d5bb8460c0cb810e4998a920a33532dce2ad12c",
+      "en_sha256": "16236fac480e333be8909bfb20786099a803dbe97ed5bc550b79e8f3fddd1cb5",
+      "origin": "ai"
+    },
+    "dataList[id=150402].name": {
+      "pl": "Conservation",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "e43f60bbc4e69bac962d92f4e903eb284d459dd45574a3cdc7d767b5943fb26d",
+      "origin": "ai"
+    },
+    "dataList[id=150403].desc": {
+      "pl": "przy trafieniu, gdy ta jednostka ma Tarczę, zyskuje 1 Licznika [ChargeNoir]\n\nprzy 10+ Licznika [ChargeNoir] używa potężnej Umiejętności",
+      "kr_sha256": "139b1148942cdb9ee31468f8721f700512ba7476273249c4de183626c0dbe357",
+      "en_sha256": "4d0d8d62be0b0140f3cf9b2e78088ac06df1474bc18764cec9b96dcd64bb3a88",
+      "origin": "ai"
+    },
+    "dataList[id=150403].flavor": {
+      "pl": "Jakość towarów musi być ściśle zarządzana i zachowana.",
+      "kr_sha256": "c2e1a6f214d03197297fabe988d76adeb7130d709d237c4be9ebd034f9a6e098",
+      "en_sha256": "c17d2493a4bcb9467a9680373cd45fb94b2d1eb5a96f96a0f09d9c3eb3eac961",
+      "origin": "ai"
+    },
+    "dataList[id=150403].name": {
+      "pl": "Quality Preservation",
+      "kr_sha256": "77dd1daff694e9f8c413a001e4cd00f05994baf3c02591571e67c7798a33c5e2",
+      "en_sha256": "0fc16cb702404c1d622d439bfe9abaa0dcca34c01f74a16229e226131056a118",
+      "origin": "ai"
+    },
+    "dataList[id=150404].desc": {
+      "pl": "przy 3+/5+ Siły [ChargeNoir] nakłada dodatkowo +1/+2 Siły [Vibration]\n\nprzy użyciu Umiejętności, jeżeli Poziom Obrony tej jednostki jest wyższy niż celu, zadaje +3% obrażeń za każdą 1 różnicy Poziomu Obrony (maks. 30%)\n- przy Poziomie Obrony wyższym o 5+ Moc Bazowa +1",
+      "kr_sha256": "8be3e9d6414fa11be8d7ff3efbaa67badcd595ad6985f429da8fd506992ff439",
+      "en_sha256": "4ba30f94b6cf67288a8be86897716836cd69e201d558e0bda5db8637315842bb",
+      "origin": "ai"
+    },
+    "dataList[id=150404].flavor": {
+      "pl": "Le Noir miażdży wszystko, co miększe niż jego własna tkanina.",
+      "kr_sha256": "01a3f835d33852ed4e875b31cd8032cfe7bef6150b8b6d1cf614b0c35695b1db",
+      "en_sha256": "28b20cd38ca3e87a1cfe52a74cc9ea6786872f4fb8e232f4d315bfebdf15e8d2",
+      "origin": "ai"
+    },
+    "dataList[id=150404].name": {
+      "pl": "Fabric Density Disparity",
+      "kr_sha256": "b03842296a65d9251ac7079727ffab70570a83dfeb1c0a381c192a347960ed68",
+      "en_sha256": "34fece8ce79af60e57815aeb2a59455c123a39f29ce5f8efbda8c455e07c2cdb",
+      "origin": "ai"
+    },
+    "dataList[id=150501].desc": {
+      "pl": "Przy pierwszym pojawieniu się w walce zyskuje 5 [NoirBindArmor]\n\nPoczątek tury: zyskuje Tarczę równą (Stosy [NoirBindArmor])% Maks. HP tej jednostki\n\ngdy staje się Oszołamiona, traci wszystkie [NoirBindArmor]\nPoczątek tury: gdy ta jednostka dochodzi do siebie po Oszołamieniu, zyskuje 5 [NoirBindArmor]",
+      "kr_sha256": "2383751d3c3573534f0355f763ed318818944e7695bf748b795260f2b0162260",
+      "en_sha256": "f524385e49312ac079e9474f509619444c0e977c9c60937bd188665fbb3e4f39",
+      "origin": "ai"
+    },
+    "dataList[id=150501].flavor": {
+      "pl": "Tkanina Le Noir trzyma ciało jak zbroję, eksponując je pod twardą, niezmienną sylwetką.",
+      "kr_sha256": "5d1c9a71e8c8f2c685deb9bc206813940c111b745e3a806e69ee65efdfed3952",
+      "en_sha256": "8cac25a43808e04b0d2ab840cb6e2b80cf61a2cda5d3dc589705dd707b5151e8",
+      "origin": "ai"
+    },
+    "dataList[id=150501].name": {
+      "pl": "Le Noir: Fabric",
+      "kr_sha256": "d123c5395d881d4693ae1bb17715e3d533641be5b3e240abea5ceed6f3e89d9c",
+      "en_sha256": "9d372b95f01e3da69c4a7ac8bf5979253ee97315da44866c1f3b2d93241c1584",
+      "origin": "ai"
+    },
+    "dataList[id=150502].desc": {
+      "pl": "uruchamia następujące efekty, zależnie od łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce:\n- zyskuje 1 [NoirBindArmor] za każde 3 łącznie zużyte Liczniki [ChargeNoir]\n- zyskuje 1 [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir]\n\nprzy 3+ Siły [ChargeNoir] maks. wartość Liczników [ChargeNoir] +5",
+      "kr_sha256": "358043da4e8afa4aba18f34f168bd3d0bca72e6067cf688e1fdae284d5b58e82",
+      "en_sha256": "cb67c393ea365d528902f7dac2b3564aec7e757b77fe3e6fd7f75060cdd389f8",
+      "origin": "ai"
+    },
+    "dataList[id=150502].flavor": {
+      "pl": "Siła zostaje sprężona, skupiona i utrwalona. Czasem potrzeba więcej siły, by powstrzymać zmianę, niż ją wywołać.",
+      "kr_sha256": "3e79f8c381c71f64fff9bb4f3d5bb8460c0cb810e4998a920a33532dce2ad12c",
+      "en_sha256": "16236fac480e333be8909bfb20786099a803dbe97ed5bc550b79e8f3fddd1cb5",
+      "origin": "ai"
+    },
+    "dataList[id=150502].name": {
+      "pl": "Conservation",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "e43f60bbc4e69bac962d92f4e903eb284d459dd45574a3cdc7d767b5943fb26d",
+      "origin": "ai"
+    },
+    "dataList[id=150503].desc": {
+      "pl": "przy 10+ Licznika [ChargeNoir] używa potężnej Umiejętności",
+      "kr_sha256": "b494dfb27607a943db3fb53f78d02913e5dbbd88231295bf6249bf6a56653d52",
+      "en_sha256": "521f84190da6a5ba0d842e436a6673e38a619a0e76974e7586867c0c99a4ac0e",
+      "origin": "ai"
+    },
+    "dataList[id=150503].flavor": {
+      "pl": "Jakość musi przejść kontrolę, a w tym procesie zachowanie nie może ucierpieć.",
+      "kr_sha256": "531a13000fddb845c79a8971c7b7b58035705907416522d450bf2184a49b3add",
+      "en_sha256": "75fb6cfa8fffcb6cb5f9221fb1f957a2f31d235931f14e40cb1afa55e7657b4e",
+      "origin": "ai"
+    },
+    "dataList[id=150503].name": {
+      "pl": "Inspection Preservation",
+      "kr_sha256": "bd1fca173eb5c4ba9855d9b4ae866af1bbfa18d6c2f7aa188ccd12b0c4e1e91c",
+      "en_sha256": "5cdc98e37a16cc564dcf5ec31a478daed2ec02bde5d645692d1f6cd1e369c404",
+      "origin": "ai"
+    },
+    "dataList[id=150504].desc": {
+      "pl": "przy 3+/5+ Siły [ChargeNoir] nakłada dodatkowo +1/+2 Siły [Vibration]\n\nprzy użyciu Umiejętności ataku, jeżeli Poziom Obrony tej jednostki jest wyższy niż celu, zadaje +3% obrażeń za każdą 1 różnicy Poziomu Obrony (maks. 30%)\n- przy Poziomie Obrony wyższym o 5+ Moc Bazowa +1",
+      "kr_sha256": "453a4d928a4b50d5199f65ace7e128c0509784419777e976c6e438f64c242bf3",
+      "en_sha256": "e8d9aca3b48b332aa4cd55c9ecc886bac5e4e1584e299699d1a50c1136209bb0",
+      "origin": "ai"
+    },
+    "dataList[id=150504].flavor": {
+      "pl": "Le Noir miażdży wszystko, co miększe niż ich własna tkanina.",
+      "kr_sha256": "01a3f835d33852ed4e875b31cd8032cfe7bef6150b8b6d1cf614b0c35695b1db",
+      "en_sha256": "a621828dc98eb03fef01df5cea50fcd508e5b0d0018c930b12403862e1375cc1",
+      "origin": "ai"
+    },
+    "dataList[id=150504].name": {
+      "pl": "Fabric Density Disparity",
+      "kr_sha256": "b03842296a65d9251ac7079727ffab70570a83dfeb1c0a381c192a347960ed68",
+      "en_sha256": "34fece8ce79af60e57815aeb2a59455c123a39f29ce5f8efbda8c455e07c2cdb",
+      "origin": "ai"
+    },
+    "dataList[id=150601].desc": {
+      "pl": "zyskuje 1 Siły [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce\nmaks. wartość Liczników [ChargeNoir] +10",
+      "kr_sha256": "5f55f61f4f4d6c8adf4d3f2d4c4836573e47f877b90bdf7db3e10934c69d4486",
+      "en_sha256": "e31e48c3325ee01e17730a49e7cb2c115814ef7964acb0731f577da5eb958195",
+      "origin": "ai"
+    },
+    "dataList[id=150601].name": {
+      "pl": "Conservation",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "e43f60bbc4e69bac962d92f4e903eb284d459dd45574a3cdc7d767b5943fb26d",
+      "origin": "ai"
+    },
+    "dataList[id=150602].desc": {
+      "pl": "przy trafieniu lub gdy ta jednostka zostanie trafiona, zyskuje 1 Licznika [ChargeNoir]",
+      "kr_sha256": "8462e83ce7d982524f62562f7bce229c2ea66b8163f1d589394579a2ccab1070",
+      "en_sha256": "2b1b4dd687fab22d2c053cc017e76a16241a2483903d38aa708089be56c72caa",
+      "origin": "ai"
+    },
+    "dataList[id=150602].flavor": {
+      "pl": "Młot wbija gwoździe. Ten młot uderza wyłącznie w gwoździe. W co uderzy, tym jest gwóźdź. Tak została zawarta umowa.",
+      "kr_sha256": "3e5400fa0c1d417946516df9053076cd6e565862ec67ac8a7f68199f7bb4ae4c",
+      "en_sha256": "8296b53e1b8fe6a0267b54f3cefe9df5b88061c56f021aa8ec552f158b38466a",
+      "origin": "ai"
+    },
+    "dataList[id=150602].name": {
+      "pl": "Malleus Promissionis",
+      "kr_sha256": "58cebcf53bd53e229e8a3cb6a059c48c6b9a6ebf9248e29b22dc4eb33d3087da",
+      "en_sha256": "ade2c2b1222897e1e60d5efc2cc888069cd004b6bd93cb748c8f622b2b4a36eb",
+      "origin": "ai"
+    },
+    "dataList[id=150603].desc": {
+      "pl": "znacznie podnosi poziom sojuszników Le Noir\n\nwszyscy sojusznicy Le Noir otrzymują -5% obrażeń za każdego żywego sojusznika Le Noir na polu\npo śmierci sojusznika Le Noir wszyscy sojusznicy Le Noir zyskują 1 [NoirSquareCollapse] na resztę tej walki (łącznie z nowo przywołanymi jednostkami)",
+      "kr_sha256": "c789ca7275ac593f31730292ebedddbba23cb92c6670a47d7021095a61655d31",
+      "en_sha256": "150f45c9d1faca188bf3dd8de06749b6d0961f877f0a1ea19f61ad5205ba985c",
+      "origin": "ai"
+    },
+    "dataList[id=150603].flavor": {
+      "pl": "Każdy strzeże swego stanowiska i wiernie wykonuje powierzoną mu służbę. Razem tworzą szyk, a szyk ten staje się obrazem, który zachowuje całość. Wykonuj wiernie swój obowiązek, każdy na wyznaczonym miejscu.",
+      "kr_sha256": "798cbcadf2f10bb51e8320060ff6c49f14a207cf7b13a2aa65401d9f0d879019",
+      "en_sha256": "ebaa8de15ef3397287303a4be802adc23c35e465dfecb384b94eeccf0e2282b2",
+      "origin": "ai"
+    },
+    "dataList[id=150603].name": {
+      "pl": "Formation Conservation",
+      "kr_sha256": "0ec33ab5c274a24737e700f8d3e6f3e76beb04d7e9048ea29483bec9d1866fca",
+      "en_sha256": "454add2cc5bd9ba75d7c512a5263795710137db53867259c52197cde525ca854",
+      "origin": "ai"
+    },
+    "dataList[id=150604].desc": {
+      "pl": "rozpoczyna tę walkę z 80% HP i 45 SP",
+      "kr_sha256": "3e91d75ae38472b626622e61059a46c51235b261098319413a1c9b588de26674",
+      "en_sha256": "3e7a38f87b834d6310fcfd7da959ae8c93a81fb7bd0fb42098b61d30ac507620",
+      "origin": "ai"
+    },
+    "dataList[id=150604].name": {
+      "pl": "The Battle Continues",
+      "kr_sha256": "96a971aed2ec52a975a74a09b03ec3cc2fa277fb9c061e6814c931f7b9f9f410",
+      "en_sha256": "7aade3c684dd2ebdeff1ba4cd0f913427a4ca253c4e3047d3e8a3bbde738c817",
+      "origin": "ai"
+    },
+    "dataList[id=151001].desc": {
+      "pl": "Początek tury: nakłada [NiddleExpected] na 2 losowych wrogów",
+      "kr_sha256": "ef3b44288534a4b1b7c291bd6393a0223cda4a9ccb032f60922ac42b70d76fea",
+      "en_sha256": "452023ed3076ec30875ce30023ecab4255424393fee3789c73eab12ec0871fb0",
+      "origin": "ai"
+    },
+    "dataList[id=151001].name": {
+      "pl": "The Sewing Commences",
+      "kr_sha256": "f4032e363dc6a2812d3d263e353a1d3741358c9946f2ea03e0fba1a623cc0c3f",
+      "en_sha256": "99f852810dceadaf0f1334471b292ccc7e518300aaefa2166be4dd8ff95dc0d6",
+      "origin": "ai"
+    },
+    "dataList[id=151002].desc": {
+      "pl": "Moc Końcowa Umiejętności +1 za każdego 1 Needlekin[TabExplain] na polu",
+      "kr_sha256": "258f318a630c0f8d2883efba877c7d78b46d42ee098b13137a3823f054da30a4",
+      "en_sha256": "7469dfc3cddb00639f0f7a683d5bf1ee84027c21f26c40da55773f51295b464b",
+      "origin": "ai"
+    },
+    "dataList[id=151002].flavor": {
+      "pl": "Ręczne szycie nie daje rady na jednej parze rąk. Żeby tchnąć w nie życie, potrzeba rzeszy wprawionych rzemieślników.",
+      "kr_sha256": "5c10264dac073a420278303edbe8920c11d117f141bd6a283193a3f0401a5dd3",
+      "en_sha256": "5b1b249b003d2afd89390d81359df528437ac215ff2153b13987ab975122f9cd",
+      "origin": "ai"
+    },
+    "dataList[id=151002].name": {
+      "pl": "Handmade",
+      "kr_sha256": "dbf8553443ef9349a7b09ac34e2900b3c307f9c3ae0256716695677f2ddc0847",
+      "en_sha256": "354daa8752272b474f36848515530335e4e1a3442683dd616f4bfd1537bbe822",
+      "origin": "ai"
+    },
+    "dataList[id=151003].desc": {
+      "pl": "„Cry of the Cocoon” słychać w turach będących wielokrotnością 3\nod wejścia do Fazy 2 „Cry of the Cocoon” słychać w każdej turze\n\nw turze, w której słychać „Cry of the Cocoon”, ta jednostka jest odporna na stan unieruchomienia\n\njeżeli HP tej jednostki spadnie poniżej jej Progu Oszołomienia, zyskuje w następnej turze 2 [Vulnerable]",
+      "kr_sha256": "f083c510a46253b7f9de93dcca334425b340129e98493b34db6683f43db94491",
+      "en_sha256": "7f82e89d6ca8865127f29fbe78dfb900e5cb6053d75c3887698602df36d506fc",
+      "origin": "ai"
+    },
+    "dataList[id=151003].flavor": {
+      "pl": "Z kokonu sączą się Głosy.\n\n„Poniżej przędzy 80/2? Nawet nie tkanina!”\n„Dlaczego dziurki na guziki nie są poziome?”\n„Dżersej na maszynie? Serio?”\n„Dlaczego selwedżyn nie jest czerwony?”\n„To nawet nie przeszło obróbki antyosadzającej.”\n„Cokolwiek poniżej Super 150 to oczywista tandeta.”\n„Myślisz, że skala Super to po prostu grubość przędzy? Średnica i numer to dwie różne rzeczy. Nie wiesz nawet tego?”\n„Rąbek wykańczasz Union Specialem, prawda? No pewnie, że tak!”\n„To jest Rigid? ... A. Selwedżyn?”\n„Zaraz... liczba ściegów na cal jest zbyt równa. Użyłeś maszyny, co?”\n„Bez ręcznego szycia to nie bespoke.”\n„... To nawet nie jest dziurka mediolańska.”\n„Tkanina na koszulę musi mieć ponad 200 numeru.”\n„Ależ widać ścieg na zewnątrz.”\n„No proszę, tam widać dwa rzędy ściegu. Odrzucone.”\n„Co to za wykończenie szwu?”\n„Trzy nitki, minimum.”",
+      "kr_sha256": "044921ec0b75e9bf75b3c862bfe9cbc3353971b8785da5500963fbd49b625d7b",
+      "en_sha256": "5b74120285a08a7c2d9d8dc1a1e02aa845d659966394a34390f4095ab9a94ff6",
+      "origin": "ai"
+    },
+    "dataList[id=151003].name": {
+      "pl": "Unending, Unavoidable Stream of Customer Complaints",
+      "kr_sha256": "4df7bcef2395aaa6e4d1ab740bffea337e668569c2fde003d24c0e077ccb16a0",
+      "en_sha256": "046f4cc26d8109b4638a24b43e8e474c611092f1ac3313443578300dcfbdd5b1",
+      "origin": "ai"
+    },
+    "dataList[id=151101].desc": {
+      "pl": "poziom tej jednostki jest podniesiony pod wpływem Shower of Stinging Sunshine\nNa początku etapu: zyskuje [SapsareeGold]",
+      "kr_sha256": "fcd0840085307f1754cff6ef0f5fbd18d774654606ab4b50bcfcad5d6bb54ed4",
+      "en_sha256": "f5e0da4707183174580f27132ae3b4eb44b09e29bf0383e4ad9f0d51ae590fe4",
+      "origin": "ai"
+    },
+    "dataList[id=151101].flavor": {
+      "pl": "Tym, którzy wsłuchują się w ciepło promieni słonecznych, blask brzmi tym bardziej przypiekająco, olśniewająco i intensywnie.",
+      "kr_sha256": "d9766d97d6d821d141ec8f7d6d4f08c0c7c3232674ba5419bc813bc78b24d2e1",
+      "en_sha256": "54560d6829524c1028e211e1d47561e750d1286df0c6e044d125fd7b88480927",
+      "origin": "ai"
+    },
+    "dataList[id=151101].name": {
+      "pl": "Shower of Stinging Sunshine",
+      "kr_sha256": "e90248619a5d6976088653e935d3c67c29421faddbeafe58ba6710a95059e3b4",
+      "en_sha256": "600bf07affdcfb5841f44a8a912867b953de1caef6b486acd2551d0b82579e6a",
+      "origin": "ai"
+    },
+    "dataList[id=151201].desc": {
+      "pl": "poziom tej jednostki jest podniesiony pod wpływem Shower of Stinging Sunshine\n\nNa początku etapu: przywraca całe HP i zyskuje [GoldenManager]",
+      "kr_sha256": "a95d42beaee874f7f25e380ee8af0a862c8ff5e1caea5646ba9aa2ca3c3da3da",
+      "en_sha256": "ab53de3a83b373a9babf8150482725b924775ef658af120d67fda34ce79e2219",
+      "origin": "ai"
+    },
+    "dataList[id=151201].flavor": {
+      "pl": "Tym, którzy wsłuchują się w ciepło promieni słonecznych, blask brzmi tym bardziej przypiekająco, olśniewająco i intensywnie.",
+      "kr_sha256": "d9766d97d6d821d141ec8f7d6d4f08c0c7c3232674ba5419bc813bc78b24d2e1",
+      "en_sha256": "54560d6829524c1028e211e1d47561e750d1286df0c6e044d125fd7b88480927",
+      "origin": "ai"
+    },
+    "dataList[id=151201].name": {
+      "pl": "Shower of Stinging Sunshine",
+      "kr_sha256": "e90248619a5d6976088653e935d3c67c29421faddbeafe58ba6710a95059e3b4",
+      "en_sha256": "600bf07affdcfb5841f44a8a912867b953de1caef6b486acd2551d0b82579e6a",
+      "origin": "ai"
+    },
+    "dataList[id=151901].desc": {
+      "pl": "jeżeli <color=#ff6000><mark color=#ff000040><b><u>Szybkość atakowanego celu jest niższa niż tej jednostki, Moc Starcia +3</u></b></mark></color>\n\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli na koniec tury, w której ta jednostka użyła Umiejętności zużywającej Liczniki [ChargeKhaki], ma ona 11+ Licznika [ChargeKhaki],</u></b></mark></color> używa potężnej Umiejętności\n\nprzy HP 50% lub mniej używa potężnej Umiejętności (1 raz na walkę)",
+      "kr_sha256": "76baef10ef39bfadad6c86c80531c43fdd4c9cc4ec174ae6de3b8c27bb4c3238",
+      "en_sha256": "6170d297c1e905bb63cec1066aae027f5a4a330a731515f250d143aff50182f6",
+      "origin": "ai"
+    },
+    "dataList[id=151901].flavor": {
+      "pl": "Big Sis can reach 10,000 SPM.",
+      "kr_sha256": "5f9fd7a441aef4b2bc0a7f07f88e61e11454c83321b431c87f7fb625e995606d",
+      "en_sha256": "d4791d990cf535e012b1e95b1e8c4bb0c0e0e376f25a0d341bed55a693785f49",
+      "origin": "ai"
+    },
+    "dataList[id=151901].name": {
+      "pl": "Ultra-High-Speed SPM",
+      "kr_sha256": "cf2b7d76ac133b790ab420010fac5caab0d1bff87503bb51e413ab84fba47ffe",
+      "en_sha256": "a2c2483d83ab7828e1d71923c367da9edc2cb6018f88694dec580c22ef4627d0",
+      "origin": "ai"
+    },
+    "dataList[id=151901].summary": {
+      "pl": "jeżeli Szybkość celu jest niższa niż tej jednostki, zwiększa Moc Starcia",
+      "kr_sha256": "dce6a584393f69e3a546a68be40849d0ca1a6cc817d9c463048a86eafacedaae",
+      "en_sha256": "8ed5c1a97cded80fdca4a9b50322fd2b7622d412d601aba6bf018452b080453d",
+      "origin": "ai"
+    },
+    "dataList[id=151902].desc": {
+      "pl": "zadaje +40% obrażeń celom oszołamionym lub unieruchomionym",
+      "kr_sha256": "6d27a2f2c4447896e00d70fb595065a6ce92b85256155ddd45ac08f353edbbbe",
+      "en_sha256": "c772cfde8377083eaae5e79f59c36193ff20d0f121038d9a8a7e3fb48e999b0e",
+      "origin": "ai"
+    },
+    "dataList[id=151902].flavor": {
+      "pl": "Nic nie jest łatwiejsze niż zszywanie czegoś, co nie może się ruszać.",
+      "kr_sha256": "2c4f0cad38ce9ee11e80ca37a49da908543f77960318fb51cdbce93c4fd4047a",
+      "en_sha256": "f61b796df1cac93f76b76b97b39676384585615300383a48ce41f144de37925b",
+      "origin": "ai"
+    },
+    "dataList[id=151902].name": {
+      "pl": "Nailed Stitch",
+      "kr_sha256": "ce06e687d1209f97caa493c1fd1ab49b01bbcc71e4ac013e47791517ae1f414b",
+      "en_sha256": "441262f9cedddc40aa2a5e780bdecde277386d008ba6e63a9cf76f15de7de20a",
+      "origin": "ai"
+    },
+    "dataList[id=151903].desc": {
+      "pl": "jeżeli ta jednostka ma [SpreadingDye], nakłada 1 [StickyDye] na cele trafione Umiejętnością tej jednostki\n\nstosuje poniższe efekty na celach mających [ThreadDye]:\n- Umiejętności nakładają dodatkowo (Siła [ThreadDye]) Siły [Laceration] i Licznika [Laceration]\n- nakładając [StickyDye] tym efektem, nakłada 1 [StickyDye] na 1 losowego wroga mającego [ThreadDye], z wyłączeniem celu, któremu nakładano\n\nnie nakłada [ThreadDye] na cele Umiejętności mające [Inactible]",
+      "kr_sha256": "cccf4340e610604f0883e2a31b267dd69f64b17a5b3fc4bef8896d785fa08695",
+      "en_sha256": "3df412bcc1a9c055eb8667b43b8ae6e5a7c81373f2b1c95880892658251e3ffb",
+      "origin": "ai"
+    },
+    "dataList[id=151903].flavor": {
+      "pl": "You stitch the fabric, Big Sis. I'll dye with you.",
+      "kr_sha256": "5977f41bfa3edcaa01bc0fce796e1b2c8acce0052de0eb88035d4e9311ffb7b7",
+      "en_sha256": "bb26fbe09931fb1969ff879aa01dc45ed8c83b29eb8fc06da814167a595d7466",
+      "origin": "ai"
+    },
+    "dataList[id=151903].name": {
+      "pl": "Color Stitch",
+      "kr_sha256": "5ce4801bd28e2bbf7f57ee2d8bd9f54e74d1088f79f461e29896a579eb8edfa7",
+      "en_sha256": "baa0fbff1a995e5a35c624404eebc5c0018bfd63a583ddc7b4bd303386539719",
+      "origin": "ai"
+    },
+    "dataList[id=151904].desc": {
+      "pl": "Na początku etapu: przywraca HP do maksimum i 45 SP\n\nzyskuje 1 [ChargeKhaki] za każde 10 łącznie zużytych Liczników [ChargeKhaki] tej jednostki w tej walce",
+      "kr_sha256": "caf4e24c420f9ee84eca6ac3362431692b51bbd33760f9c230cefc8f39211a04",
+      "en_sha256": "19aaaa1e34be24c55e1b4fdb6cf1d4d02361ecc9a42b70c3b3f82cc8ae3d5261",
+      "origin": "ai"
+    },
+    "dataList[id=151904].name": {
+      "pl": "Stitch Count Regulator Adjustment",
+      "kr_sha256": "0d1fd72bd83d682cf2f216a214c464d6a00ee31db49a069ef4c2e7ed27da9778",
+      "en_sha256": "8ad7ffd4d367062a05e8d8410569a5b3ddd0a34e9b3dcd9e4bae13888dea8232",
+      "origin": "ai"
+    },
+    "dataList[id=1590001].desc": {
+      "pl": "poziom tej jednostki jest podniesiony pod wpływem słońca",
+      "kr_sha256": "7f8fdde0ef5783f981c74163e90b395125f713d1d49d563ebf3a417825986260",
+      "en_sha256": "9129bdb73aab02b85de3b73d6f84bd5c9fbea9b49b959c358d5cb683c336c62b",
+      "origin": "ai"
+    },
+    "dataList[id=1590001].flavor": {
+      "pl": "Tym, którzy wsłuchują się w ciepło promieni słonecznych, blask brzmi tym bardziej przypiekająco, olśniewająco i intensywnie.",
+      "kr_sha256": "d9766d97d6d821d141ec8f7d6d4f08c0c7c3232674ba5419bc813bc78b24d2e1",
+      "en_sha256": "54560d6829524c1028e211e1d47561e750d1286df0c6e044d125fd7b88480927",
+      "origin": "ai"
+    },
+    "dataList[id=1590001].name": {
+      "pl": "Shower of Stinging Sunshine",
+      "kr_sha256": "e90248619a5d6976088653e935d3c67c29421faddbeafe58ba6710a95059e3b4",
+      "en_sha256": "600bf07affdcfb5841f44a8a912867b953de1caef6b486acd2551d0b82579e6a",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "entries": {
+    "dataList[id=148501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1485].name": {
+      "pl": "The Warden",
+      "kr_sha256": "3707d30a144256093aa01fcbd13d1384c99141ba0439552d4a403b0de86bfba5",
+      "en_sha256": "56425806c28e415875f83c2af491fb915a9f5a6079746b6c8c1dda5dfbe784ba",
+      "origin": "ai"
+    },
+    "dataList[id=148601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1486].name": {
+      "pl": "The Warden",
+      "kr_sha256": "3707d30a144256093aa01fcbd13d1384c99141ba0439552d4a403b0de86bfba5",
+      "en_sha256": "56425806c28e415875f83c2af491fb915a9f5a6079746b6c8c1dda5dfbe784ba",
+      "origin": "ai"
+    },
+    "dataList[id=148701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1487].name": {
+      "pl": "The Chaplain",
+      "kr_sha256": "2ec5f43408d90211d6d371691a1a12f0a13b7380e398f9fb49f36abed28ac1bc",
+      "en_sha256": "69b6002ecbfce75194784e89fa02bed7f375e2c647b1987378fe9552811b86eb",
+      "origin": "ai"
+    },
+    "dataList[id=151701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1517].name": {
+      "pl": "The Crimson God [Adulthood]",
+      "kr_sha256": "776827c353d977611e77bf063463a39eae78b69bedaee6f0dc75f7107625f25d",
+      "en_sha256": "0ac638ad1fd26504e4f65de6aecab70f9dca5118834d28d7fdd460099b3ce88c",
+      "origin": "ai"
+    },
+    "dataList[id=151801].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1518].name": {
+      "pl": "Ripped Flesh of the Crimson God",
+      "kr_sha256": "dd1f19db326f1b2bae24cd2eb3826927464c1c9550f803dade4fb6a706c4ab30",
+      "en_sha256": "2a1582c80f91bccd9395b701e7d19ce6c6390d9dfde0cc51fa6b286ac597163f",
+      "origin": "ai"
+    },
+    "dataList[id=152001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1520].name": {
+      "pl": "Candle of Retribution",
+      "kr_sha256": "0a31e53d2be9d265c188cbec6ea31c695d245a0f2918ddfeab95eeffe56cebf7",
+      "en_sha256": "5c743460c31edf35732b707e7ce9c1d2b928ccedf89aef8cb5d1ee9815d06805",
+      "origin": "ai"
+    },
+    "dataList[id=152101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1521].name": {
+      "pl": "Le Rouge Senior Staff",
+      "kr_sha256": "4e60bbea67b50bc241aad37225acae4e2ae3e0e1491cf43aecce16ef59be0be7",
+      "en_sha256": "a0f80b93497fcc95aeaa2056c9387f5a0531715238c0d32e7d22f233f9645870",
+      "origin": "ai"
+    },
+    "dataList[id=152201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1522].name": {
+      "pl": "Jeanne Sartre, the Sartorial Tailor",
+      "kr_sha256": "2db773be2cb993dd81d2750fc08cc54c67c27bc79061ab0189a2a5c2041b203a",
+      "en_sha256": "b6a82d912bad714024b3d31f34452430550e3d70379ea660ff492bce885ecd94",
+      "origin": "ai"
+    },
+    "dataList[id=152301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1523].name": {
+      "pl": "Jeanne-Marie Sartre",
+      "kr_sha256": "7537b0ce1116ae204ecac8beaabdd991e0d22f8d1536fa7330c1a135b697ea47",
+      "en_sha256": "24da9a465bcd2076af5f03fbbe920c7808fb839925fbddee5b20b82e73733500",
+      "origin": "ai"
+    },
+    "dataList[id=152401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1524].name": {
+      "pl": "Moulin Rouge - Jeanne-Marie Sartre",
+      "kr_sha256": "d86e95e7ab3db06af6a4f0fb8e671df172eb93cfe9fbb54148b9e4b4e618f5ac",
+      "en_sha256": "9795943a0ecc2f6cfa6a1806bb30d9083423d544851cc03e7d0b50eb5d8a257b",
+      "origin": "ai"
+    },
+    "dataList[id=152501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1525].name": {
+      "pl": "Grand Magasin Sisyphe Blueprint",
+      "kr_sha256": "2e3c05e7ea7da5aa663350d44d701833a19cea316394ca8843eab33034c5cffd",
+      "en_sha256": "c270a2adc4984fdedd87ed5c31d8a5723e156aa558ba12244a28ed55e26c333d",
+      "origin": "ai"
+    },
+    "dataList[id=152601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1526].name": {
+      "pl": "Sisyphe System Blueprint - Le Rouge",
+      "kr_sha256": "dacabd81fa2686273a0fe455213e0ce4af1107b580147a7330f3c70a18ceb7cb",
+      "en_sha256": "0e6aa0e9fda02e04a41c372532a2de985a89d311331b34581b67b7d9e00a66dc",
+      "origin": "ai"
+    },
+    "dataList[id=152701].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1527].name": {
+      "pl": "Sisyphe System Blueprint - Le Noir",
+      "kr_sha256": "50dfdc851c153b98948e4c0a48960efca7650a986c736bcb04950e17cc396189",
+      "en_sha256": "509056f8f559a9052e17f099d047be174354761a4e1987095753ea754a8a2ed7",
+      "origin": "ai"
+    }
+  }
+}
