@@ -13,8 +13,6 @@
 
 ### Etap 7-1 · WHICH TREATS THE LIFE AND THE CONTRACTS OF THE NOT-SO-FAMOUS-BUT-VALIANT DON QUIXOTE
 
-<!-- S701B -->
-
 *— Przed walką —*
 
 The night approacheth with great haste;
@@ -164,8 +162,6 @@ Vergilius looked up just as Heathcliff asked his question.
 
 ### Etap 7-2 · IN WHICH IS EXPLORED LIMBUS COMPANY'S NOT-EXACTLY-FIRST ALLIANCE WITH A WING
 
-<!-- S702B -->
-
 *— Przed walką —*
 
 #### P Corp. WARP train platform
@@ -313,8 +309,6 @@ Sinclair was still quietly suspicious, but that small doubt was practically buri
 
 ### Etap 7-3 · WHEREIN THE SINNERS ARE ACCEPTED AND RESPECTED BY FIXERS IN WAYS OF THE CITY
 
-<!-- S703B -->
-
 *— Przed walką —*
 
 #### Backstreets of P Corp., Outside the Tent
@@ -384,8 +378,6 @@ The obnoxious guy, who was clearly way in over his head, hurried away when the g
 
 ### Etap 7-4 · OF WHAT BEFELL OUR COMPANY UPON OUR DEPARTURE FROM THE RED GAZE'S HANDS
 
-<!-- S704A -->
-
 *— Po walce —*
 
 #### Backstreets of P Corp., Outside the Tent
@@ -437,8 +429,6 @@ The grumbling Sinners clearly existed outside Don Quixote's world; she was breat
 ... Of course, no one 'shook hands' or exchanged the simplest pleasantries with Camille just yet.
 
 ### Etap 7-5 · IN WHICH THE TALE OF OUR YOUNG MASTER IS REVEALED
-
-<!-- S705B -->
 
 *— Przed walką —*
 
@@ -553,8 +543,6 @@ I looked to where Sinclair was pointing at, and saw a line of Fixers walking int
 **Dante:** ... Yeah, we should.
 
 ### Etap 7-6 · OF THE IMMENSELY DEVASTATING DUEL IN WHICH OUR FIXER AND THE CINQ BATTLED
-
-<!-- S706B -->
 
 *— Przed walką —*
 
@@ -803,8 +791,6 @@ Just as I was trying to convince Faust otherwise, Don Quixote stepped in and res
 **Camille:** Sucks that I don't have my fans here to watch me wipe the floor with you... But I'm sure someone here will spread the story by word of mouth.
 **Camille:** I won't throw my gauntlet out of pity. En garde, petit nouveau!
 
-<!-- S706A -->
-
 *— Po walce —*
 
 #### Backstreets of P Corp., Outside the Tent
@@ -828,8 +814,6 @@ The momentary kerfuffle came to a close thanks to the Hana Association's interve
 **Dante:** ... Let's get back inside. I can't turn my clock in front of so many people.
 
 ### Etap 7-7 · OF THE EXCELLENT DIALOGUE IN WHICH OUR EXCEPTIONAL INFORMANT LCD DEPARTMENT HAS PASSED INTEL TO US IN OUR SECOND COMMUNICATION
-
-<!-- S707B -->
 
 *— Przed walką —*
 
@@ -916,8 +900,6 @@ I noticed on the video feed that Moses intently, yet briefly, stared at Outis be
 With her last words, which left us wondering what they were supposed to mean, the call dropped.
 
 ### Etap 7-8 · IN WHICH IS DISCUSSED THE MERRY OATH OF THE BUS DRIVER AND THE MANAGER CONCERNING AMUSEMENT PARKS
-
-<!-- S708B -->
 
 *— Przed walką —*
 
@@ -1038,8 +1020,6 @@ Looks like today's one of those days when everyone gets a twinkle in their eyes.
 
 ### Etap 7-9 · WHEREIN IS CONCLUDED THE METHOD BY WHICH ERADICATION QUEST OF FIXERS, THE BRAVE AND THE BOLD, ARE TO BE CONDUCTED
 
-<!-- S709B -->
-
 *— Przed walką —*
 
 Fixers began gathering one by one at the site...
@@ -1113,8 +1093,6 @@ A Fixer ignores Alessio's warning and rushes out to greet the survivor and helps
 **Hong Lu:** That's easy. I'm always ready to accept that anyway.
 **Bloodbag** (*La Manchaland*): Keeagggh!
 
-<!-- S709A -->
-
 *— Po walce —*
 
 **Narrator** (*La Manchaland*): La Manchaland, bloom your smiles of joy~ La Manchaland, a place of freedom to dream side-by-side with Bloodfiends. We wish you a wonderful stay here~
@@ -1130,8 +1108,6 @@ And the last thing I saw before the gate shut behind us was...
 ... as if they didn't even want to miss a little glimpse of it.
 
 ### Etap 7-10 · OF WHAT PERIL BEFELL US IN THE CASE OF LA MANCHALAND AND OUR ENCOUNTER WITH THE BLOODFIENDS
-
-<!-- S710B -->
 
 *— Przed walką —*
 
@@ -1193,8 +1169,6 @@ With Heathcliff's charge as our signal, the Sinners advanced, leaping into the h
 
 ### Etap 7-12 · OF THE TALE WHICH THE FALLEN BLOODFIENDS HAVE FAILED TO TELL, DESPITE THEIR BEST ENDEAVORS
 
-<!-- S712B -->
-
 *— Przed walką —*
 
 #### La Manchaland, Area 1
@@ -1219,8 +1193,6 @@ Don Quixote was right. Some of them did look pretty new... some of them, only ho
 **Hugo:** Holy crap... there's more of them!
 **Bloodbag:** Keeagh!
 
-<!-- S712A -->
-
 *— Po walce —*
 
 **Dante:** Huh...
@@ -1240,8 +1212,6 @@ Sinclair replied, thrusting his weapon into the skull of a dying Bloodbag.
 **Yi Sang:** Bereft of choices, we are thus compelled to enter...
 
 ### Etap 7-13 · IN WHICH THE ATTRACTION'S NARRATION AND ITS RIDDLES CONTINUE
-
-<!-- S713B -->
 
 *— Przed walką —*
 
@@ -1272,8 +1242,6 @@ In that land...
 There won't be any wearisome battles to fight. No constant fear of getting devoured...
 There shall be only laughter.
 
-<!-- S713A -->
-
 *— Po walce —*
 
 **Narrator** (*La Manchaland*): Now! I'm sure kiddos are most excited for this part of the attraction!
@@ -1284,8 +1252,6 @@ There shall be only laughter.
 **Narrator:** Only... only the real Bloodfiends remain here, now.
 
 ### Etap 7-14 · WHEREIN IS LEARNED THE UNEXPECTED TRUTHS REGARDING BLOODFIENDS
-
-<!-- S714B -->
 
 *— Przed walką —*
 
@@ -1299,8 +1265,6 @@ There shall be only laughter.
 **Narrator:** Sneaking, slithering up to drink human blood!
 
 ### Etap 7-15 · WHEREIN THE SINNERS EACH SHARE THEIR IMPRESSIONS OF LA MANCHALAND
-
-<!-- S715B -->
 
 *— Przed walką —*
 
@@ -1323,8 +1287,6 @@ There shall be only laughter.
 **Narrator:** La Manchaland was born! La Manchaland, where your smiles of joy bloom. La Manchaland, where everyone can dream free!
 **Narrator:** Look around, all! Look at all the smiling Bloodfiends, giving you a toothy grin!
 
-<!-- S715A -->
-
 *— Po walce —*
 
 **Narrator** (*La Manchaland*): But ooh, oh my! Do you see that one thing that's missing from the perfect La Manchaland?
@@ -1345,8 +1307,6 @@ There shall be only laughter.
 **Narrator:** Eh, forgot the count somewhere in the middle. Anyways, you sure killed a *lot* of those big, bad Bloodfiends.
 
 ### Etap 7-16 · IN WHICH ARE DISCUSSED THE DEEDS OF THE FIXER WHOM DON QUIXOTE HAD BELIEVED TO BE A FRIEND
-
-<!-- S716B -->
 
 *— Przed walką —*
 
@@ -1453,8 +1413,6 @@ Ryōshū swung her absurdly sharp scabbard, chopping off his wrists with blindin
 **Ishmael:** Yeah, she's nuts. Let's put her out of her misery...
 **???:** Hahaha! I just know that you'll look great in a can-can dress and boots with ribbons! Oh, I'll make you look so pretty!
 
-<!-- S716A -->
-
 *— Po walce —*
 
 **???:** Oh, hey... that reminds me.
@@ -1500,8 +1458,6 @@ The masked Bloodfiend raises his staff, and Don Quixote's mouth shuts. As though
 In that bizarre silence, her eyes shimmer quietly.
 
 ### Etap 7-17 · WHEREIN THE NUMEROUS TALES OF DON QUIXOTE'S ADVENTURES ARE RECOUNTED
-
-<!-- S717B -->
 
 *— Przed walką —*
 
@@ -1609,8 +1565,6 @@ Thinking back, we've never actually given much attention to Don Quixote's storie
 **Don Quixote:** "Flee not, ye devious caitiffs!"
 **Don Quixote:** Shouting so, I stabbed and stabbed and stabbed with all my strength behind the lance.
 
-<!-- S717A -->
-
 *— Po walce —*
 
 **Don Quixote:** Eventually, I managed to wholly purge the village of bandits and return the peace to where it belongs!
@@ -1632,8 +1586,6 @@ Still, if thou truly wishest to help, then...
 **Sansón:** Ah, can't have dead silence on the stage. Let's keep things moving and head on to the next tale, shall we?
 
 ### Etap 7-18 · OF THE ADVENTURE TO LAY CLAIM UPON THE HELM OF MAMBRINO AND THE ROLES THAT ARE GIVEN
-
-<!-- S718B -->
 
 *— Przed walką —*
 
@@ -1664,8 +1616,6 @@ Still, if thou truly wishest to help, then...
 **Gregor:** "...You can handle it, right? Like you always do?"
 **Don Quixote:** "Verily! A mere beast such as that bear shan't match our strength!"
 
-<!-- S718A -->
-
 *— Po walce —*
 
 #### Fantasy Blood-shooting
@@ -1681,8 +1631,6 @@ Oh, please. Where is the fun in that? We shall battle this fell beast like... ..
 **Dante:** ... I'm not sure. Let's keep listening.
 
 ### Etap 7-19 · OF THE VERY NICE DISCUSSION THAT WAS HAD BETWEEN THE MANAGER AND THE MAGICIAN
-
-<!-- S719B -->
 
 *— Przed walką —*
 
@@ -1730,8 +1678,6 @@ And a large passageway slowly emerged before us, like gargantuan parts of a grea
 **Don Quixote:** Ho! Let us hasten to the subsequent canto of this epic!
 
 ### Etap 7-20 · WHEREIN THE SINNERS EACH SHARE THEIR IMPRESSIONS OF THE HAUNTED MANSION
-
-<!-- S720B -->
 
 *— Przed walką —*
 
@@ -1821,8 +1767,6 @@ The family I shall grant you will forever be by your side. Come with me.
 
 ### Etap 7-21 · IN WHICH IS RECOUNTED THE SINNERS' ADVENTURE IN THE ENCOUNTER WITH 'HAUNTED: BLOODY MARY', THE NATURE OF WHICH IS UNCLEAR WHETHER IT IS A HAUNTED MANSION OR A BLOODFIENDS' DEN
 
-<!-- S721B -->
-
 *— Przed walką —*
 
 #### Haunted: Bloody Mary
@@ -1863,8 +1807,6 @@ From what we could deduce from the remaining part of the portrait, it was likely
 
 ### Etap 7-22 · WHEREIN IS DISCUSSED THE BLOODFIENDS IN HIDING AND THE FIXERS WHO ARRIVED FIRST
 
-<!-- S722B -->
-
 *— Przed walką —*
 
 #### Haunted: Bloody Mary
@@ -1900,8 +1842,6 @@ We opened the coffin Ryōshū singled out...
 **Surprised Bloodfiend:** This accursed La Manchaland!
 
 ### Etap 7-23 · HERE IT IS RECOUNTED THE TALE OF \<THE FORLORN KING AND THE FAMILY THAT WAS ONCE HAPPY>
-
-<!-- S723B -->
 
 *— Przed walką —*
 
@@ -1973,8 +1913,6 @@ There was a sign on the wall with instructions written in bolded letters.
 
 ### Etap 7-24 · OF THE PENITENT BLOODFIENDS AND THE BIZARRE SURVEY
 
-<!-- S724B -->
-
 *— Przed walką —*
 
 #### Confessional
@@ -2001,8 +1939,6 @@ But they all appeared to have gone through their share of battles. Many of them 
 **Dante:** Guys... get ready.
 **Praying Bloodfiend:** Last question: did you feel the parchedness in your throat when you looked at a human today? Say yes, no, yes, no, YES, NO. YES, NO. YES YES YES YESYESYESYESSSSS!!!
 **Praying Bloodfiend:** YES! ALWAYS! LIKE I'M ABOUT TO GO INSANE! No, actually, not really. Not even for a moment.
-
-<!-- S724A -->
 
 *— Po walce —*
 
@@ -2031,8 +1967,6 @@ It no longer served as a mask to hide his face.
 **Ryōshū:** I could snuff out his embers with a gentle stomp.
 
 ### Etap 7-25 · IN WHICH A TRUTH THAT MAY BE REVEALED BY CLOSE INSPECTION IS SPOILED BY NONE OTHER THAN SANSÓN HIMSELF
-
-<!-- S725B -->
 
 *— Przed walką —*
 
@@ -2163,8 +2097,6 @@ Sansón must be working his trickery again...
 
 ### Etap 7-26 · WHICH RECOUNTS THE CLOSE AND DRAMATIC DUEL BETWEEN THE KNIGHT OF THE WHITE MOON AND THE VALIANT DON QUIXOTE
 
-<!-- S726B -->
-
 *— Przed walką —*
 
 #### A Certain Castle
@@ -2182,8 +2114,6 @@ Sansón must be working his trickery again...
 **Don Quixote:** Well, I do believe that my skills were a smidge superior to the Knight's. Perchance, had I decided to put a little more strength behind my strike, I may have dealt a blow most final.
 **Sansón:** ... The combatants charged one another at full speed.
 **Sansón:** To see who shall emerge victorious from this epic duel.
-
-<!-- S727A -->
 
 *— Po walce —*
 
@@ -2223,8 +2153,6 @@ Sansón must be working his trickery again...
 
 ### Etap 7-27 · OF THE PREDICTABLE ENDING TO SANSÓN'S STAGEPLAY
 
-<!-- S728B -->
-
 *— Przed walką —*
 
 #### Confessional
@@ -2262,8 +2190,6 @@ And as the Sinners stood there in shock, he disappeared from our sight.
 Bloodbags and Bloodfiends begin to fill the void Sansón left behind...
 
 ### Etap 7-28 · OF JIA XICHUN'S QUERY AND THE SINNER'S LUKEWARM ANSWERS
-
-<!-- S729B -->
 
 *— Przed walką —*
 
@@ -2306,8 +2232,6 @@ He was protecting his men, yes, but... his primary concern seemed to be with the
 **Jia Xichun:** It's an insult.
 
 ### Etap 7-29 · IN WHICH IS DISCUSSED EMIL SINCLAIR'S CONCERNS AND DON QUIXOTE'S DELUSIONS
-
-<!-- S730B -->
 
 *— Przed walką —*
 
@@ -2376,8 +2300,6 @@ Don Quixote's tale of adventure continued through our entire journey to Area 3.
 
 ### Etap 7-30 · WHEREIN IS TOLD THE STORY OF DANCING BLOODFIENDS AND THE EXTRAVAGANT PARADE
 
-<!-- S731B -->
-
 *— Przed walką —*
 
 #### Carnival Parade
@@ -2405,8 +2327,6 @@ If the parade in question wasn't full of shambling Bloodbags and the terrified s
 **Bloodfiend with a Parasol:** Come on, stay with us and dance!
 
 ### Etap 7-32 · WHEREIN IS TOLD THE TALE OF CASSETTI'S FILIAL IMPIETY AND THE TRAGIC NATURE OF THE LYRICS
-
-<!-- S733B -->
 
 *— Przed walką —*
 
@@ -2445,8 +2365,6 @@ But the answers to those questions did not lie with Faust.
 **Outis:** ... Yes. Getting increasingly depressing.
 
 ### Etap 7-34 · OF WHAT BEFELL DULCINEA THE BEAUTIFUL AND DON QUIXOTE
-
-<!-- S735B -->
 
 *— Przed walką —*
 
@@ -2523,8 +2441,6 @@ She looks away into the distance, staring into the times of the far past, then c
 **Dulcinea:** I hate them still.
 
 ### Etap 7-35 · TO CONTINUE, IN WHICH IS DISCUSSED THE MEMORY NECESSARY TO BRING TO LIGHT THE CLARITY OF THIS TALE OF ADVENTURE
-
-<!-- S736B -->
 
 *— Przed walką —*
 
@@ -2764,8 +2680,6 @@ The speaker, his body one with the pillar from which the scent emanated...
 
 ### Etap 7-36 · The Tale of a Great Fixer Who Once Reached for The Dream
 
-<!-- S737B -->
-
 *— Przed walką —*
 
 **Sancho:** Yet Aegis, Fixer of the Zwei Association, refuseth to let this destroy his spirits and sails once again to the great sea in a mere raft!
@@ -2963,8 +2877,6 @@ Don Quixote slowly walked toward the man who spoke in a sedate voice.
 **Dante:** That's... the Fathoms of Ego. W-we should go after her, now.
 We woke up from our dumbfounded silence at the sudden turn of events and hurriedly followed her inside.
 
-<!-- 7D101B -->
-
 *— Po walce —*
 
 #### Fathoms of Ego
@@ -3065,8 +2977,6 @@ The entire time they bickered, I wracked my brain trying to come up with somethi
 **Sancho:** Thus...
 **Sancho:** ... I can no longer be one of you again.
 
-<!-- 7D102B -->
-
 *— Po walce —*
 
 **Don Quixote:** How glad I am to have you back, Sancho... With you by our side, this place shall be even happier.
@@ -3117,8 +3027,6 @@ The entire time they bickered, I wracked my brain trying to come up with somethi
 **Don Quixote:** Yet I... we... failed, Sancho.
 **Don Quixote:** And everything around us... is a record, a testament to our failures.
 **Don Quixote:** Look around as you will, Sancho. At our desolation...
-
-<!-- 7D102A -->
 
 *— Po walce —*
 
@@ -3198,8 +3106,6 @@ Jia Xichun stops herself midway through her sentence.
 **Hong Lu:** If you say so, Xichun, then it will be so.
 **Jia Xichun:** Don't bother saying goodbye. It'll be a waste of time.
 
-<!-- 7D103B -->
-
 *— Po walce —*
 
 **Dante:** Don Quixote...
@@ -3241,8 +3147,6 @@ Jia Xichun stops herself midway through her sentence.
 **Sancho:** Yes. Just as he had expected...
 **Sancho:** ... La Manchaland began teeming with human guests.
 
-<!-- 7D103A -->
-
 *— Po walce —*
 
 **Dante:** Abnormalities, here...?
@@ -3256,8 +3160,6 @@ I tried to urge Yi Sang, who trailed off mid-explanation, to speak, but...
 **Yi Sang:** Mm, I shall.
 **Dante:** Okay, then... let's get back on track and keep following Sancho.
 Abnormality or not, we still have a job to do.
-
-<!-- 7D104B -->
 
 *— Po walce —*
 
@@ -3336,8 +3238,6 @@ Abnormality or not, we still have a job to do.
 **Ishmael:** So that's...
 **Ishmael:** ... when the two of you left La Manchaland to go on an adventure.
 
-<!-- 7D105B -->
-
 *— Po walce —*
 
 **Corroded Bloodfiend** (*La Manchaland*): I didn't... I had no idea something could taste so delicious...!
@@ -3351,8 +3251,6 @@ Abnormality or not, we still have a job to do.
 **Corroded Bloodfiend:** We crawled on all fours on the floor just to have a taste of it...
 **Corroded Bloodfiend:** Oh, the elation I felt then...
 **Sancho:** Yes. That's where it all began to fall apart.
-
-<!-- 7D106B -->
 
 *— Po walce —*
 
@@ -3391,8 +3289,6 @@ Faust nodded affirmatively to Yi Sang's suggestion.
 **Corroded Bloodfiend:** Why... why have you forsaken us...?
 **Sancho:** …….
 
-<!-- 7D107B -->
-
 *— Po walce —*
 
 As we were in pursuit of Don Quixote, defeating any Bloodfiend that got in our way...
@@ -3421,8 +3317,6 @@ A valiant struggle.
 'Valiant'—that's a word Don Quixote loved to use so much. I looked toward her with some vague hope.
 But she nonchalantly dusted off her clothes and walked away in complete disinterest.
 **Dante:** ... Come on. Let's help them find peace.
-
-<!-- 7D108B -->
 
 *— Po walce —*
 
@@ -3577,8 +3471,6 @@ But she nonchalantly dusted off her clothes and walked away in complete disinter
 **Sancho:** I must talk to him myself.
 **The Barber:** You? You, who abandoned us and fled with Rocinante? Now you wish to talk to him?
 
-<!-- 7D109B -->
-
 *— Po walce —*
 
 #### Outskirts, Past
@@ -3640,8 +3532,6 @@ But she nonchalantly dusted off her clothes and walked away in complete disinter
 **Horrified Bloodfiend:** No, please save us...
 **Horrified Bloodfiend:** If you won't...
 **Horrified Bloodfiend:** We'll make you suffer... with the rest of us...!
-
-<!-- 7D110B -->
 
 *— Po walce —*
 
@@ -3710,8 +3600,6 @@ But she nonchalantly dusted off her clothes and walked away in complete disinter
 **Don Quixote:** Indeed... my Children.
 **Don Quixote:** You all speak true. Then please, kill them and lead La Manchaland once again into the festival of dreams...
 
-<!-- 7D111B -->
-
 *— Po walce —*
 
 **Sancho:** …….
@@ -3738,8 +3626,6 @@ But she nonchalantly dusted off her clothes and walked away in complete disinter
 
 ### Etap 7-9 · WHEREIN IS CONCLUDED THE METHOD BY WHICH ERADICATION QUEST OF FIXERS, THE BRAVE AND THE BOLD, ARE TO BE CONDUCTED
 
-<!-- 7D111I -->
-
 *— W trakcie walki —*
 
 #### Fathoms of Ego - La Mancha Eye
@@ -3763,8 +3649,6 @@ Sinclair suddenly took a step toward Sancho.
 **Sinclair:** What... do you want to do to La Manchaland...?
 **Sancho:** I will do my Father's bidding and transform it into an image of his design.
 **Sancho:** I'll kill you. Then I'll find more humans to kill. Feed their blood to my Father. Like a good Bloodfiend I am.
-
-<!-- 7D111I2 -->
 
 *— W trakcie walki —*
 
@@ -3991,8 +3875,6 @@ A familiar red sign, though incomplete, briefly flickered from his forehead...
 **Sancho:** That it was about time I woke up from my delusions.
 **Sancho:** Yes. I suppose now is the time I came to my senses.
 
-<!-- 7D111I3 -->
-
 *— W trakcie walki —*
 
 **Sancho:** Why do you persist?
@@ -4066,8 +3948,6 @@ She wasn't just talking about Don Quixote. She was—
 **Outis:** I will remember what you have said here today.
 
 ### Etap 7-36 · The Tale of a Great Fixer Who Once Reached for The Dream
-
-<!-- 7D111A -->
 
 *— Po walce —*
 
@@ -4223,8 +4103,6 @@ I know what to do. The flow I must find, the flow I must hitch myself to.
 
 ### Etap 7-10 · OF WHAT PERIL BEFELL US IN THE CASE OF LA MANCHALAND AND OUR ENCOUNTER WITH THE BLOODFIENDS
 
-<!-- 7D112I -->
-
 *— W trakcie walki —*
 
 **Don Quixote** (*La Manchaland*): Long have I not set foot upon the earth.
@@ -4235,8 +4113,6 @@ I know what to do. The flow I must find, the flow I must hitch myself to.
 **Don Quixote:** With blood, I have created this place, yet no family has found happiness within it.
 **Don Quixote:** I have dreamed, yet the dream only woke me to a heart impaled by stakes and this fetid stench of blood. ***Look at me, Sancho!***
 **Don Quixote:** I am but Don Quixote... La Manchaland's Don Quixote.
-
-<!-- 7D112I2 -->
 
 *— W trakcie walki —*
 
@@ -4315,8 +4191,6 @@ I know what to do. The flow I must find, the flow I must hitch myself to.
 **Sancho:** Even if all this is just a fake steed running in circles on a carousel… I don’t want to stop...
 **Don Quixote:** Even if it means that you must struggle against this incurable disease? Even if you must stand against your own blood, your Father?
 
-<!-- 7D112I3 -->
-
 *— W trakcie walki —*
 
 The powerful deluge of blood rips through the Sinners like blades through paper.
@@ -4362,8 +4236,6 @@ Let that star...
 **Dante:** So don't hesitate. Go—walk the journey of your own choosing.
 **Sancho:** ... I shan't be long.
 
-<!-- 7D112I4 -->
-
 *— W trakcie walki —*
 
 **Don Quixote:** …….
@@ -4383,8 +4255,6 @@ Let that star...
 **Don Quixote:** How many times must I tell you that it is that very ridiculous juvenility that gives color to life?
 **Sancho:** …….
 
-<!-- 7D112I5 -->
-
 *— W trakcie walki —*
 
 **Don Quixote:** Does this wheel not remind you of the old war, Sancho?
@@ -4397,8 +4267,6 @@ Let that star...
 **Dante:** D-dodge! O-or raise your guards!
 
 ### Etap 7-36 · The Tale of a Great Fixer Who Once Reached for The Dream
-
-<!-- 7D112A -->
 
 *— Po walce —*
 

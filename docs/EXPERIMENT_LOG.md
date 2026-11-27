@@ -621,3 +621,36 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   `7 574 690` B) oraz Czytanki PL `LCB_Czytanki_PL_2026-11-27.zip`
   (`1RVUhsYgyv2Hs6hwqliS8JwAZOXzusKzs`, `2 115 411` B, 61 plików MD:
   fabula_PL + plik_ID_PL + plik_EGO_PL).
+
+### E-018 · 2026-11-27 · Formatowanie Czytanek: tabele wyrównane w pionie (konwencja mtgcrawler) i usunięcie technicznych znaczników scen (uwagi właściciela)
+
+Właściciel zgłosił dwie uwagi do wydania Czytanek: (1) tabele mają być
+składane jak w wydaniach SRW (repo `mtgcrawler`) — kolumny `|` wyrównane
+w pionie w edytorze o stałej szerokości znaków, kolumny liczbowe
+prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
+(2) z Czytanek fabuły mają zniknąć czysto techniczne znaczniki scen
+(`<!-- S001B -->`).
+
+- **`tools/md_table_align.py` (nowy, port z `srw-oe-translation/tools/`):**
+  formatter tabel Markdown „monospace-exact” — wyrównanie kolumn w pionie
+  (nagłówek/separator/wiersze), budżet szerokości linii 216 komórek,
+  długa ostatnia kolumna zawijana z wcięciem kontynuacji, `<br>` nigdy
+  nie trafia do czystego tekstu, CJK (`unicodedata.east_asian_width`)
+  liczone jako 2 komórki; CLI do poprawki plików w miejscu. Genery
+  (`build_reading.py`, `build_profiles.py`, `build_ego.py`) wywołują
+  `align_markdown_tables` przed zapisem; separatory liczbowe
+  (`---:`) ustawione dla `#`/`Sceny`/`Kwestie` (spis), `Ulepszenie`/
+  moce/monety/cele (tabele skilli), `Rzadkość`/`Sezon` (katalog Identity).
+- **Znaczniki scen:** `build_reading.py` nie emituje `<!-- SXXX -->`;
+  rolę separatora scen przejmuje czysta linia przerwy (granice wyznaczają
+  nagłówki etapów i dopiski faz). Z wydania usunięto 2408 znaczników.
+  Test `test_reading_layout` kotwiczy zakaz `<!--` (test zaktualizowany
+  razem ze zmianą układu).
+- **Regeneracja:** wszystkie 7 serii zbudowane z generatorów
+  (EN/KR z `index/`, PL ze snapshotu `local/cz_snapshot`); 159 plików,
+  diff zawiera wyłącznie usunięte znaczniki i przeformatowane tabele
+  (0 niezamierzonych zmian), ponowne przejście alignera = operacja
+  tożsamościowa (159/159). Testy: 69/69 (nowe 4 w
+  `tests/test_md_table_align.py`, port z mtgcrawler + idempotencja).
+- **Dostawa:** paczka `LCB_Czytanki_PL_2026-11-27.zip` odświeżona na
+  Dysku Google (patrz dostawa w E-017; nowa rewizja tego samego pliku).

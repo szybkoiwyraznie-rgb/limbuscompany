@@ -17,8 +17,6 @@
 
 > The ride is awkward and intimidating. Even though I’ve been handed the title of ‘Manager’, I have no idea what to do at a time like this. I decided to ask the Sinner with a bug’s arm where we’re currently headed.
 
-<!-- S101B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -191,8 +189,6 @@ Sinclair stood up with a pained moan and bowed in appreciation before tottering 
 
 > After being “asked” a favor I couldn’t turn down, I was forced to bear a series of pains worse than death rewinding the clock. The bus fell quiet in a less-than-pleasant way, and I kept my mouth shut. Let’s hope nothing else happens until we reach District 4…
 
-<!-- S102B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -236,8 +232,6 @@ I could hear someone pounding against the bus's steel plating outside.
 
 > A band of thugs attacks us, trying to take the bus. For some reason, we leave them barely breathing instead of killing them outright, placing them in front of Mephistopheles…
 
-<!-- S103B -->
-
 *— Przed walką —*
 
 #### Some Backstreets of District 4
@@ -264,8 +258,6 @@ He was muttering under his breath like he wasn't talking to me at all.
 *Miejsce: Some Backstreets of District 4*
 
 > We watched Mephistopheles as it consumed the corpses, its maw looking more reliable than the Sinners. I knew something was up from the moment I saw this bus for the first time, but what is this thing exactly? Faust seems to have something to say.
-
-<!-- S104B -->
 
 *— Przed walką —*
 
@@ -300,8 +292,6 @@ Most of it went straight over my head, though.
 *Miejsce: Some Backstreets of District 4*
 
 > When the bus had just about finished its “meal”, Vergilius shouted to me that we’re expecting a guest. I’m curious to see who’d be joining us on this less-than-pleasant trip.
-
-<!-- S105B -->
 
 *— Przed walką —*
 
@@ -370,8 +360,6 @@ Glancing between the two of them, Gregor returned to his seat as well, scratchin
 
 > Our guest was a Fixer named Yuri, a former employee of Lobotomy Corporation. Seeing as she showed an indifferent response to the bus devouring bodies, she must’ve gone through a lot herself. But then she grows nervous as she checks the map and looks at the driver’s seat…
 
-<!-- S106B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -404,8 +392,6 @@ Yuri and Ishmael put a palm over their respective faces at the same time, almost
 *Miejsce: Some Backstreets of District 4*
 
 > I was shocked to learn that… Charon has virtually no sense of direction. Though, I guess it’s fortunate that it’s come to light this early into the trip. Yuri took matters into her own hands and started teaching her how to read a map, and Sinclair joined, too. They’re rather noisy, but still… I can’t say that I hate to see it.
-
-<!-- S107B -->
 
 *— Przed walką —*
 
@@ -450,8 +436,6 @@ Because, as if on cue, an urgent matter presented itself right before our eyes�
 **Vergilius:** Nothing to worry about, Charon. They’ll shut their mouths soon enough.
 **Vergilius:** Off the bus.
 
-<!-- S107A -->
-
 *— Po walce —*
 
 **Yuri** (*Grade 8 Fixer*): Okay, let’s look at the map again.
@@ -486,8 +470,6 @@ With Gregor quietly snickering, the bus resumed its ride.
 *Miejsce: Some Backstreets of District 4*
 
 > Rodya looks out through the window at the Backstreets before flinching abruptly. Her eyes fell on a group of people with the heads of bugs. Then, Gregor’s expression shifted as well. It was not out of flinching disgust like Rodya, though.
-
-<!-- S108B -->
 
 *— Przed walką —*
 
@@ -547,8 +529,6 @@ A cluster of insect-headed soldiers were gathered close to the bus.
 
 > After a number of scuffles and scrapes, we arrived at an old Lobotomy Corporation branch. Near the entrance, new faces were waiting for us…
 
-<!-- S109B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -594,8 +574,6 @@ A cluster of insect-headed soldiers were gathered close to the bus.
 
 > Just before we entered the LC branch facility, Vergilius stopped me all of a sudden. It seems he has something to say to me alone.
 
-<!-- S110B -->
-
 *— Przed walką —*
 
 #### District 4 - L Corp. Branch Exterior
@@ -617,8 +595,6 @@ Vergilius gave my shoulder a pat with a crooked smile, then slowly made his way 
 *Miejsce: District 4 - LC Branch Interior*
 
 > We descended into a fetid underground facility. The place was lined with corpses and critters. Just what happened here? And can we come back in one piece with the Golden Bough in our hands?
-
-<!-- S111B -->
 
 *— Przed walką —*
 
@@ -712,8 +688,6 @@ Their thin veil of affability crumbled.
 **Heathcliff:** They’ve smashed right past rock bottom a long time ago. Don't expect 'em to care a whit for honor, eh?
 **Heathcliff:** Well-off or broke, people turn on each other as long as there’s something. You’re way too naive to think otherwise.
 
-<!-- 1D101A -->
-
 *— Po walce —*
 
 #### District 4 - LC Branch Entryway
@@ -726,8 +700,6 @@ Gregor lights his cigarette and takes a drag before sighing a long plume of smok
 **Gregor:** Oh... Sorry ‘bout that. Should’ve chosen my words more carefully.
 **Yuri:** No, it’s fine. I’m sure things were rough with G Corp.’s fall, too.
 **Yuri:** ... The breaking of a Wing is a turbulent affair for many people.
-
-<!-- 1D102A -->
 
 *— Po walce —*
 
@@ -753,8 +725,6 @@ The expression on his face was such a far cry from his sycophancy before Vergili
 **Heathcliff:** What’s there to argue about? We only need to beat ‘em to death, don't we?
 **Meursault:** Give the word, and we’ll do it.
 
-<!-- 1D103A -->
-
 *— Po walce —*
 
 **Hopkins** (*Grade 8 Fixer*): Impressive... I expected no less of the Red Gaze’s underlings.
@@ -764,8 +734,6 @@ The expression on his face was such a far cry from his sycophancy before Vergili
 **Hopkins:** W-what are you talking about?! I've never had—
 Hopkins slowly got to his feet after fidgeting for a moment.
 I noticed that his pockets were stuffed full, but I didn't bother to point it out.
-
-<!-- 1D104B -->
 
 *— Po walce —*
 
@@ -786,8 +754,6 @@ Something about the way Faust put that bothered me, but I decided to trust her a
 **Yuri** (*Grade 8 Fixer*): The clock? It wasn’t just for show?
 **Gregor:** That’s not all it does. They have a really neat power. You should come and take a look, Yuri.
 **Dante:** ... Will no one recognize the pain I endure?
-
-<!-- 1D105B -->
 
 *— Po walce —*
 
@@ -830,8 +796,6 @@ Outis leveled a fiery glare at Hopkins, but soon reminded herself of her priorit
 The shadowed entity, its silhouette greater than a human's by several orders of magnitude, filled the room as its tendrils extended insidiously toward us.
 It... was approaching, invoking in us a sense of terror unlike any foe we've faced thus far.
 
-<!-- 1D105A -->
-
 *— Po walce —*
 
 **Heathcliff:** Huh? That's it?
@@ -866,8 +830,6 @@ I figured it was best to just let her be instead of trying to comfort her with a
 **Gregor:** ... Figures.
 **Faust:** No need to worry. Once we have the Golden Bough, we’ll have to return whether we like it or not.
 
-<!-- 1D201B -->
-
 *— Po walce —*
 
 We went down another floor.
@@ -887,8 +849,6 @@ We went down another floor.
 **Faust:** ... Dante, it’s time to see the star.
 **Dante:** I'm starting to feel like I'm being taken for granted...
 
-<!-- 1D202B -->
-
 *— Po walce —*
 
 Another veteran appeared from the dark, his gait grim and heavy.
@@ -907,8 +867,6 @@ He must've been a high-ranking soldier once—despite its age, his badge still g
 **Decrepit G Corp. Head Manager:** Then you ought to understand, Manager Gregor.
 **Decrepit G Corp. Head Manager:** Only one verdict awaits deserters.
 **Gregor:** You say that like it means something... But it’s against company policy to carry out summary execution for personal revenge, bossman.
-
-<!-- 1D202A -->
 
 *— Po walce —*
 
@@ -931,8 +889,6 @@ Gregor put the borrowed cigarette next to the one he already held in his mouth, 
 **Gregor:** Sorry, didn’t wanna share mine with that thing.
 **Ryōshū:** ... Hmph.
 Ryōshū gave a snort. For a short while, the smoke from Gregor’s cigarette lingered in the air with prevailing silence.
-
-<!-- 1D203B -->
 
 *— Po walce —*
 
@@ -1023,8 +979,6 @@ After a long stretch of heavy, awkward gloom, the toxic gas finally cleared.
 With that, Yuri took off her gas mask and calmly carried the Sinners on her shoulders, one by one.
 Unsure how to respond to the look on her face, I decided to keep quiet.
 
-<!-- 1D204B -->
-
 *— Po walce —*
 
 **Dante:** Were those Abnormalities responsible for killing all the employees?
@@ -1069,8 +1023,6 @@ While everyone else moved along, Yuri remained in place and kept on staring at t
 **Statuehead:** Leave me behind, Yuri... Please leave me...
 **Yuri:** ......
 **Dante:** ... Time to go.
-
-<!-- 1D301B -->
 
 *— Po walce —*
 
@@ -1137,8 +1089,6 @@ Gregor practically yanked himself out of the conversation and hurried to Faust.
 **Faust:** An open path in your psyche. In other words...
 **Faust:** We’ve entered your heart and mind, Gregor.
 
-<!-- 1D302B -->
-
 *— Po walce —*
 
 #### Central Front in the Smoke War
@@ -1174,8 +1124,6 @@ Gregor practically yanked himself out of the conversation and hurried to Faust.
 **Gregor:** At some point, I realized something:
 **Gregor:** I thought I'd woken up from the dream,
 **Gregor:** but I was still right in the middle of that nightmare.
-
-<!-- 1D303B -->
 
 *— Po walce —*
 
@@ -1217,8 +1165,6 @@ Tomah’s mouth tears open, and a pair of long antennae begin to break through h
 **Yuri:** Meaning... everyone who joined the corporation agreed to it, knowingly or not.
 **Gregor:** ... Can guess how it went for us, then.
 
-<!-- 1D304B -->
-
 *— Po walce —*
 
 **Gregor:** What’s the delay, Yuri?
@@ -1241,8 +1187,6 @@ Tomah’s mouth tears open, and a pair of long antennae begin to break through h
 **Rodion:** Plus, pink hair makes a perfect mascot to represent us. C’mon, won’t you give it some thought? Please?
 **Yuri:** A-a mascot...? Hehe.
 Yuri smiled for the first time, albeit faintly.
-
-<!-- 1D305B -->
 
 *— Po walce —*
 
@@ -1323,8 +1267,6 @@ I felt a disorienting nausea of being lifted into the sky.
 Only Faust and I managed to find our footing while everyone else stumbled around from the vertigo.
 We found ourselves in another battlefield, albeit one that was more familiar to us.
 
-<!-- 1D306B -->
-
 *— Po walce —*
 
 #### District 4 - LC Branch Interior
@@ -1342,8 +1284,6 @@ Sinclair shook his head, then dry-retched afterward.
 
 ### Eksploracja
 
-<!-- 1D306I -->
-
 *— W trakcie walki —*
 
 #### District 4 - LC Branch Interior
@@ -1354,8 +1294,6 @@ She was gone without a trace...
 **Gregor:** ......
 Without a word, Gregor hacked and slashed away at the Abnormality.
 As if he expected to find Yuri unscathed by slicing the apple open.
-
-<!-- 1D306I2 -->
 
 *— W trakcie walki —*
 
@@ -1374,8 +1312,6 @@ Then I saw a glimpse of the pink locks of hair that Rodya took a liking to.
 *Miejsce: District 4 - LC Branch Interior*
 
 > We descended into a fetid underground facility. The place was lined with corpses and critters. Just what happened here? And can we come back in one piece with the Golden Bough in our hands?
-
-<!-- 1D306A -->
 
 *— Po walce —*
 

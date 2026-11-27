@@ -14,8 +14,6 @@
 > Świat za oknami autobusu jeszcze bardziej wyblakł z barw, zamieniając się w mętną, szarą przestrzeń.
 > Wpatrujący się w szybę Heathcliff nagle marszczy brwi.
 
-<!-- E510B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -83,8 +81,6 @@ I'm sure things'll get a little clearer once we get there. I slowly disembarked 
 > Gdy tylko wysiedliśmy z autobusu, ujrzeliśmy dwie grupy szermierzy w powiewających czarnych szatach, ścierające się ze sobą na miecze.
 > Jedna strona walczyła głośno i z rozmachem, druga zaś — może zepchnięta do obrony — zdawała się ciężka i posępna.
 > Co właściwie mamy tu zdobyć?
-
-<!-- E511B -->
 
 *— Przed walką —*
 
@@ -161,8 +157,6 @@ I could practically hear our negotiations(not that I was going to negotiate) fal
 **Outis:** A rational deliberation followed by a sensible decision. I will return my appreciation for your magnificent leadership with a flawless victory.
 **Outis:** All units! Prepare for battle!
 
-<!-- E511A -->
-
 *— Po walce —*
 
 **Ryōshū:** S.A.D. All bark, no bite. Truly a disappointment.
@@ -213,8 +207,6 @@ And before he even finished his sentence...
 > Zabraliśmy ranną, nieprzytomną kobietę do autobusu.
 > Nasłuchałem się wprawdzie od Vergiliusa, ale… czułem, że tak należy postąpić, więc zamierzam doprowadzić sprawę do końca.
 > …Właśnie odzyskuje przytomność.
-
-<!-- E512B -->
 
 *— Przed walką —*
 
@@ -306,8 +298,6 @@ We'll have to think about this later. For now, let's take care of the reinforcem
 > Po powrocie zastaliśmy w autobusie osobę, której nigdy wcześniej nie widzieliśmy, a która mimo to wydała nam się dziwnie znajoma.
 > Gdyby miała na sobie błękitny mundur i nieco inną kamizelkę… przypominałaby kilkoro dawnych znajomych.
 > Dlaczego Vergilius wpuścił ją na pokład?
-
-<!-- E512A -->
 
 *— Po walce —*
 
@@ -421,8 +411,6 @@ And the bus took off.
 > Tylko…
 > Vergilius zdawał się od początku wiedzieć, dokąd zmierzamy. Po co więc kazał nam nadkładać drogi?
 
-<!-- E513B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -459,8 +447,6 @@ People dressed in Kurokumo Clan's garbs were wandering around the building, stan
 **Aeng-du:** I have to...! Agh, mentor Bamboo-hatted Kim...!
 **Faust:** Delaying further will only allow the Distortion to grow more powerful. We must enter the building as soon as possible.
 Aeng-du had already leaped out of the bus and was rushing in with her weapon drawn. We quickly followed suit.
-
-<!-- E513A -->
 
 *— Po walce —*
 
@@ -534,8 +520,6 @@ I put the radio back in my pocket and began running up the stairs.
 > Jej rany z pewnością jeszcze się nie zagoiły… To musi być czysta determinacja.
 > Jakim człowiekiem był właściwie Kim w Słomkowym Kapeluszu?
 
-<!-- E514B -->
-
 *— Przed walką —*
 
 #### Yong-jin Building 2F
@@ -574,8 +558,6 @@ Then... we have no choice but to make haste with her.
 > Skąd tutaj odczucie obecności Peccatulów…?
 > Co więcej…
 > jest nieporównanie silniejsze niż wszystko, co czułem dotąd!
-
-<!-- E515A -->
 
 *— Po walce —*
 
@@ -653,8 +635,6 @@ There was a lot I didn't understand, but since we're in the middle of an operati
 > Wspierał ramię na wielkim mieczu, a jego twarz wykrzywiał groźny grymas.
 > Bez pytania widać, że przewodzi ludziom z Klanu Kurokumo, których pokonaliśmy po drodze.
 
-<!-- E516B -->
-
 *— Przed walką —*
 
 #### Yong-jin Building 6F
@@ -707,8 +687,6 @@ The Sinners wordlessly begin to surround Jun.
 **Jun:** You're all really getting on my nerves...!
 **Jun:** You know what? That's it. I'll be in deep shit if I let anyone in there anyway.
 **Jun:** So come and get me! I'll cut you down if it's the last thing I do!
-
-<!-- E516A -->
 
 *— Po walce —*
 
@@ -771,8 +749,6 @@ She slammed the door open...
 > Spod przekrzywionego, pękniętego słomkowego kapelusza sączy się lodowaty, błękitny blask jego oczu.
 > …Nie obejdzie się bez walki.
 
-<!-- E517B -->
-
 *— Przed walką —*
 
 #### Yong-jin Building 6F Office
@@ -802,8 +778,6 @@ We tensed up, sensing the changing atmosphere. We slowly raised our weapons.
 ### Etap 12 · Głębia Demona Miecza
 
 *Miejsce: Lustrzany Loch Głębi*
-
-<!-- E518B -->
 
 *— Po walce —*
 
@@ -848,8 +822,6 @@ Aeng-du continued in a morose tone.
 We remained wordless and advanced as Aeng-du despondently muttered to herself.
 It was all silent, save for the sound of our shoes lightly pressing into the soft soil beneath our feet.
 
-<!-- E519B -->
-
 *— Po walce —*
 
 **Dante:** So that thing behind him is...
@@ -885,8 +857,6 @@ I can't help but feel a bit of sympathy at his suffocatingly painful past...
 **Outis:** Yes. It appears that we have no choice.
 Aeng-du's grown far too agitated to function properly in this battle.
 It's... all up to us now.
-
-<!-- E519A -->
 
 *— Po walce —*
 

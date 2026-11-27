@@ -17,8 +17,6 @@
 
 > Gdy zamieszanie z zielonym światłem dobiegło końca, nasz autobus-łódź płynie dalej. Faust rusza w stronę steru, jakby coś dostrzegła.
 
-<!-- S501B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles's Deck
@@ -112,8 +110,6 @@ After an indeterminate amount of time...
 *Miejsce: Autobus-Łódź Mefistofeles*
 
 > Gdy wykład Outis o żegludze sięgał zenitu, silnik zgasł z kaszlem. A przed nami wciąż szmat drogi…
-
-<!-- S502B -->
 
 *— Przed walką —*
 
@@ -271,8 +267,6 @@ Ishmael walked up to the helm.
 > W rytm komend Outis nasz autobus-łódź z martwym silnikiem wciąż posuwał się naprzód dzięki jedności serc i rąk… no, może nie wszystkich, ale większości Grzeszników. Przy okazji poznaliśmy bezcenną lekcję przetrwania na Wielkim Jeziorze: złamanie jego praw grozi marnym końcem.
 > …I właśnie wtedy zauważyliśmy, że coś ściąga nas z kursu.
 
-<!-- S503B -->
-
 *— Przed walką —*
 
 #### Cabins of Mephistopheles
@@ -344,8 +338,6 @@ Whichever was the case, it was clear that the port was a mega-structure built fr
 *Miejsce: Portowiec Marlin U Corp.*
 
 > Po wielu niebezpieczeństwach dotarliśmy do celu — olbrzymiego statku-portu Marlin należącego do U Corp., złożonego z niezliczonych kontenerów.
-
-<!-- S504B -->
 
 *— Przed walką —*
 
@@ -519,8 +511,6 @@ She was billowing wildly and helplessly in the tempest. I could not even hope to
 
 > Zamiast łącznika LCCB powitała nas zgraja porywaczy żądających okupu. Gdy naradzaliśmy się, co począć, Ishmael bez ostrzeżenia ruszyła do ataku; w jej oczach kłębił się istny zamęt uczuć. Nie wiedząc nawet, czy porwany agent LCCB żyje, musimy rozprawić się z porywaczami.
 
-<!-- S505A -->
-
 *— Po walce —*
 
 #### Dark Corners of U Corp.
@@ -579,8 +569,6 @@ Maybe I was the only one who sought a sense of belonging from them. That we'd fi
 *Miejsce: Portowiec Marlin U Corp.*
 
 > Wygląda na to, że nie wszyscy czuli się częścią jednej drużyny. Ruszyliśmy pod adres szefa wydobyty groźbami przez Ishmael.
-
-<!-- S506B -->
 
 *— Przed walką —*
 
@@ -656,8 +644,6 @@ The bouncer whispers something into the radio.
 
 > Siedzibą szefa porywaczy okazał się tętniący głośną muzyką klub. Chciałem załatwić sprawę po cichu… lecz już od progu wywiązała się bójka z bramkarzami, których ledwie zmusiliśmy do ustąpienia.
 
-<!-- S507B -->
-
 *— Przed walką —*
 
 #### Marlin Port Club Entrance
@@ -685,8 +671,6 @@ And that was more than enough for the clubbers to realize the seriousness of the
 
 > Przeczesując klub, rozbiliśmy członków syndykatu stojącego za porwaniem. Pora dowiedzieć się, w którym pokoju kryje się ich przywódca…
 
-<!-- S509A -->
-
 *— Po walce —*
 
 #### Marlin Port Club
@@ -712,8 +696,6 @@ And that was more than enough for the clubbers to realize the seriousness of the
 *Miejsce: Portowiec Marlin U Corp.*
 
 > Dzięki Sinclairowi odnaleźliśmy właściwe drzwi. Czekająca w środku kobieta przedstawiła się jako pierwsza oficer Piratów Podwójnego Haka…
-
-<!-- S510B -->
 
 *— Przed walką —*
 
@@ -741,8 +723,6 @@ And that was more than enough for the clubbers to realize the seriousness of the
 **Smee:** What she's up to, who she's with, the last thing she said to you... I want to hear all of it.
 **Smee:** I'm sure there's no need to remind you who's got the upper hand here.
 **Ishmael:** Ha... I wish I could tell you. I really do.
-
-<!-- S510A -->
 
 *— Po walce —*
 
@@ -838,8 +818,6 @@ Heathcliff shook his head and walked away.
 
 > Smee, pierwsza oficer Piratów Podwójnego Haka, zdradziła nam miejsce przetrzymywania kierownika zespołu LCCB. Ishmael chciała wybić piratów co do nogi, lecz własnym ciałem zastąpiłem jej drogę. Nie potrafiłem jej tego logicznie wytłumaczyć, ale nie żałuję swojej decyzji.
 
-<!-- S511B -->
-
 *— Przed walką —*
 
 #### Twinhook Pirates' Hideout
@@ -856,8 +834,6 @@ I tried my best to not speculate about what terrible things the pirates might be
 *Miejsce: Portowiec Marlin U Corp.*
 
 > Gdy otworzyliśmy wskazany przez Smee kontener, ujrzeliśmy zalaną łzami, młodzieńczą twarz agenta LCCB. Na szczęście nie wyglądał na ciężko rannego, ale… to naprawdę ma być kierownik zespołu?
-
-<!-- S513B -->
 
 *— Przed walką —*
 
@@ -931,8 +907,6 @@ Rodya seemed to have noticed that I was following them all along. She signaled m
 *Miejsce: Portowiec Marlin U Corp.*
 
 > Spotkaliśmy ocalałego agenta LCCB o pseudonimie Pilot, który przekazał nam radosną wieść: Saude żyje! Pora wysłuchać jego relacji.
-
-<!-- S514B -->
 
 *— Przed walką —*
 
@@ -1091,8 +1065,6 @@ I think Ishmael nodded, too.
 
 > Pilot przekazał nam zmienne współrzędne filii Lobotomy Corp., w której po raz ostatni widziano Złotą Gałąź. Choć próbował nadrabiać miną, w końcu zalał się łzami. Z całego serca chciałem wierzyć, że na miejscu zastaniemy jeszcze żywych ocalałych.
 
-<!-- S515B -->
-
 *— Przed walką —*
 
 We made our way past the mountains of shipping containers and back to where we first docked...
@@ -1153,8 +1125,6 @@ I saw Vergilius and Charon on a bench, watching us approach. The latter of the t
 
 > Kierując się zmiennymi współrzędnymi od Pilota, płyniemy ku filii Lobotomy Corp. gdzieś na wodach Jeziora. Ishmael z napięciem na twarzy co chwilę spogląda przez lunetę.
 
-<!-- S516B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles's Deck
@@ -1203,8 +1173,6 @@ I was wondering if all the times I've spent thinking, hoping, and contemplating 
 
 > Na ogonie siedzieli nam Piraci Podwójnego Haka. Za radą Ishmael postanowiliśmy pierwsi wedrzeć się na ich pokład.
 
-<!-- S517A -->
-
 *— Po walce —*
 
 #### The Twinhook Pirate Ship
@@ -1241,8 +1209,6 @@ The ship was still as death. Its sails fluttered a forlorn dance in the winds.
 *Miejsce: Autobus-Łódź Mefistofeles*
 
 > Odparliśmy piratów, lecz niepokój nie ustępuje. Pozostaje nam płynąć dalej, bacznie przestrzegając praw Wielkiego Jeziora…
-
-<!-- S518B -->
 
 *— Przed walką —*
 
@@ -1338,8 +1304,6 @@ A colossal wave rises to its crest before us.
 **Ishmael & Outis** (*Grzesznicy*): 'Trust nothing but your own resolve to hold steadfast in the face of terror, in the face of calamity.'
 **Ishmael:** 'Though the raging Lake may remain indifferent to the will of your meager existence.'
 
-<!-- S518A -->
-
 *— Po walce —*
 
 **Yi Sang:** No words come to mind to rightly describe that... creature.
@@ -1369,8 +1333,6 @@ Two previous victims of Vergilius interjected, albeit in hollow voices, to rebut
 *Miejsce: Autobus-Łódź Mefistofeles*
 
 > Aby zyskać na czasie, Outis zaproponowała złamanie praw Jeziora i przebicie się prosto przez Fale. Niebo natychmiast pociemniało, a naprzeciw ruszył ku nam nieznany żywioł.
-
-<!-- S519A -->
 
 *— Po walce —*
 
@@ -1407,8 +1369,6 @@ And Ishmael, who'd already weathered and braved these endless, crashing Waves…
 > Przedarliśmy się przez Fale na spokojniejsze wody.
 > Przez chwilę łudziłem się, że dalej pożeglujemy już bez przeszkód…
 > …gdy na środku Jeziora dostrzegłem dryfujący nieruchomo wycieczkowiec.
-
-<!-- S520B -->
 
 *— Przed walką —*
 
@@ -1496,8 +1456,6 @@ In a manner that was extremely out of character, Vergilius waved at us. ... Does
 
 > Weszliśmy na pokład wycieczkowca w poszukiwaniu informacji. Wśród wystawnych potraw i dekoracji nie widać żywej duszy, od czego po plecach przebiega chłodny dreszcz.
 
-<!-- S521B -->
-
 *— Przed walką —*
 
 #### Mephistopheles' Skiff
@@ -1562,8 +1520,6 @@ Sinclair hurriedly left the room in search of the ship's storage.
 > Wszedłem pod pokład w poszukiwaniu Sinclaira, który uciekł przed strasznymi opowieściami Hong Lu. Odnalezienie go nie sprawiło trudności.
 > Jednakże…
 
-<!-- S522B -->
-
 *— Przed walką —*
 
 #### Cruise Ship
@@ -1611,8 +1567,6 @@ That seemed to have done the trick. Sinclair suddenly snapped back to reality an
 
 > Wycieczkowiec okazał się pomnikiem rzezi. Cena zlekceważenia praw Wielkiego Jeziora była przerażająca.
 > …Następnym razem muszę podejmować rozważniejsze decyzje.
-
-<!-- S523A -->
 
 *— Po walce —*
 
@@ -1667,8 +1621,6 @@ For a moment, I wondered if I should follow her like I did earlier, but...
 *Miejsce: Opuszczony Statek Wiertniczy Lobotomy Corp.*
 
 > Zza zasłony mgły wyłoniła się wreszcie poszukiwana filia Lobotomy Corp. w U Corp. Gdyby nie dziwaczna biała błona pokrywająca całą konstrukcję, mógłbym uznać, że wszystko idzie zgodnie z planem…
-
-<!-- S524B -->
 
 *— Przed walką —*
 
@@ -1765,8 +1717,6 @@ I was starting to believe that she considered all of that nothing but obstacles 
 
 > Makabryczny widok nie kończył się na poszyciu. Biała, blada błona wyścielała każdy zakamarek wnętrza.
 > Co gorsza… natknęliśmy się na postacie snujące się pod warstwą tej samej tkanki.
-
-<!-- S525B -->
 
 *— Przed walką —*
 
@@ -1965,8 +1915,6 @@ Not only their physical senses but also their sense of self... forgotten deep un
 
 > Podążając za tajemniczym motylem, zapuściliśmy się w głąb filii. W środku czekał na nas człowiek o falującej jak woda głowie.
 
-<!-- S526A -->
-
 *— Po walce —*
 
 #### Abandoned Lobotomy Corp. Drilling Ship
@@ -2072,8 +2020,6 @@ With that, he stepped into the puddle... and disappeared into its depths.
 > Człowiek imieniem Rim zniknął jak ze snu — niczym motyl wzbijający się znad tafli wody. Pozostawił nam w pamięci znajomy czerwony znak.
 > …Syreny znów nadciągają.
 
-<!-- S527B -->
-
 *— Przed walką —*
 
 #### Abandoned Lobotomy Corp. Drilling Ship
@@ -2095,8 +2041,6 @@ I remember the one marked with the bright red sign.
 
 > Zgodnie ze słowami Rima wewnątrz filii nie zostało ani śladu po Złotej Gałęzi.
 > …Pozostaje nam odszukać Wieloryba, o którym mówił.
-
-<!-- S529A -->
 
 *— Po walce —*
 
@@ -2135,8 +2079,6 @@ We will likely never understand them.
 *Miejsce: Wejście na Statek Wiertniczy Lobotomy Corp.*
 
 > Czekaliśmy na dołączenie Wergiliusza, gdy całą placówką wstrząsnęło uderzenie. Wybiegliśmy na zewnątrz i ujrzeliśmy groźnie wyglądające jednostki wyłaniające się z mgły.
-
-<!-- S530B -->
 
 *— Przed walką —*
 
@@ -2209,8 +2151,6 @@ Ryoshu parried a few harpoons away with the back of her sword, but there were si
 *Miejsce: Wejście na Statek Wiertniczy Lobotomy Corp.*
 
 > Sprawnie odpierałem nacierających piratów, lecz przemknęło mi przez myśl, że to zaledwie zwiad. Największy i najbardziej okazały okręt ich floty wciąż nie zarzucił na nas haków…
-
-<!-- S532B -->
 
 *— Przed walką —*
 
@@ -2327,8 +2267,6 @@ Ryōshū threw her one last cig to the ground, smoked down to the butt...
 **Ryōshū:** Unsatisfying... I'll get a proper luxury cig next time. ... If there is a next time.
 And the Big Brother quite literally soared into the air.
 
-<!-- S532A -->
-
 *— Po walce —*
 
 **Ricardo** (*The Middle's Big Brother*): You regenerate... Like nothing happened.
@@ -2391,8 +2329,6 @@ With every turn of the clock, with every revival, he howled with laughter and cl
 
 > To nie walka, lecz rzeź i upokorzenie. Ishmael ginie raz po raz, a ja dzielę ból każdej jej śmierci, przywracając ją do życia.
 > …Nie mamy szans na zwycięstwo. Czy tak, jak mówiła Faust, tutaj kończy się nasza podróż?
-
-<!-- S533B -->
 
 *— Przed walką —*
 
@@ -2473,8 +2409,6 @@ The harpoon was still in his hand, and if he wished to strike us with it... we c
 *Miejsce: Autobus-Łódź Mefistofeles*
 
 > Starzec z cygarem tlącym się błękitnym płomieniem emanował potęgą niewymagającą żadnych słów. Faust, wyraźnie wiedząc, kim jest nieznajomy, po krótkim powitaniu zaprowadziła go do Wergiliusza.
-
-<!-- S534B -->
 
 *— Przed walką —*
 
@@ -2601,8 +2535,6 @@ A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh...
 
 > Zgodnie z ustaleniami ze Starcem Indygo wiosłowaliśmy w stronę szarego Jeziora. Ponad mętną taflą majaczyły białawe kształty przypominające rafy, między którymi musieliśmy ostrożnie lawirować.
 
-<!-- S535B -->
-
 *— Przed walką —*
 
 #### Mephistopheles' Skiff
@@ -2672,8 +2604,6 @@ A colossal creature shudders as it wakes from a long slumber.
 > Domniemana rafa okazała się Dziurawym Wielorybem, z którego otworów wypełzły Syreny. Rozprawiliśmy się z nimi, lecz… to przecież nie tego Wieloryba szukamy. Co chodzi po głowie Ishmael?
 > Sądząc po minie Heathcliffa, nie tylko ja zachodziłem w głowę.
 
-<!-- S537A -->
-
 *— Po walce —*
 
 #### Mephistopheles' Skiff
@@ -2739,8 +2669,6 @@ Once we eliminated the Mermaids of the last Whale singled out by Ishmael, the fo
 > Przebiwszy się przez morską mgłę, wpłynęliśmy na kruczoczarne Jezioro.
 > Jezioro z legend opowiadanych przez Ishmael. A pośród jego wód…
 > …czekał przejmująco Blady Wieloryb.
-
-<!-- S538B -->
 
 *— Przed walką —*
 
@@ -2890,8 +2818,6 @@ And like a droplet in sea, we melted into the fathomless dark.
 > Jezioro z legend opowiadanych przez Ishmael. A pośród jego wód…
 > …czekał przejmująco Blady Wieloryb.
 
-<!-- S539B -->
-
 *— Po walce —*
 
 **Ishmael:** It is said that Queequeg's ropes, twisted by her powerful grip and her esoteric techniques…
@@ -2928,8 +2854,6 @@ Come aboard my ship. And sail with me to the cold abyss of the Lake.
 **Ishmael:** How long have you been... here?
 **???:** Always. Always been here.
 **Ishmael:** …….
-
-<!-- 5D101B -->
 
 *— Po walce —*
 
@@ -2992,8 +2916,6 @@ But...
 **Dante:** Guys, where's—where's the boat?
 The boat was nowhere to be seen.
 
-<!-- 5D102B -->
-
 *— Po walce —*
 
 **Outis:** Men! We will commence a search. This boat must be found as soon as possible.
@@ -3018,8 +2940,6 @@ Hong Lu was pointing at the pitiful sight of an absolutely busted looking pieces
 **Dante:** Ohh...
 The Whale's pallor had taken over their bodies and minds.
 Of course. It only makes sense that this place is crawling with Mermaids.
-
-<!-- 5D102A -->
 
 *— Po walce —*
 
@@ -3052,8 +2972,6 @@ I stared at Hong Lu's shoulder. Something had burrowed a hole there, and the sur
 **Don Quixote:** Are we fated to become porridge... so soon after our arrival...?
 **Faust:** There is one positive discovery, however. This creature appears to share similar biological mechanisms and shapes as an ordinary organic lifeform.
 **Dante:** Everyone... We gotta run...!
-
-<!-- 5D103B -->
 
 *— Po walce —*
 
@@ -3127,8 +3045,6 @@ He scratched his head. 'Captain' Charon clearly didn't ring a bell.
 Ishmael comes to a sudden stop. So do our guides.
 ... Not because of what she said.
 
-<!-- 5D104B -->
-
 *— Po walce —*
 
 #### Pequod Town
@@ -3157,8 +3073,6 @@ The Captain remained serene, even as Ishmael suddenly charged at her.
 **Gagged Pequod Town Villager** (*Pequod Town*): We'll show you what we're made of!
 **Blinded Pequod Town Villager:** We'll toss you back into that river of acid!
 
-<!-- 5D105B -->
-
 *— Po walce —*
 
 **Ishmael:** Not a lot of good men left, Ahab.
@@ -3173,8 +3087,6 @@ A sailor wearing an odd-looking mask joined the fray.
 **Heathcliff:** Blimey... Look at the size of that harpoon.
 **Ryōshū:** A direct hit from that will turn your bones to dust. That one... That one's a real warrior. Huhu...
 **Heathcliff:** Gah! Could you stop being so bloody creepy for one second? Givin' me the shivers outta nowhere...
-
-<!-- 5D105A -->
 
 *— Po walce —*
 
@@ -3232,8 +3144,6 @@ Ishmael's gaze followed Queequeg, who walked wordlessly behind the Captain.
 **Ishmael:** There's nowhere to run, after all.
 **Ishmael:** For her, or for us.
 **Queequeg:** …….
-
-<!-- 5D106B -->
 
 *— Po walce —*
 
@@ -3372,8 +3282,6 @@ The Sinners were all expressing their opinions... which were all very diametrica
 And I...
 ... was unnerved by how easily Ahab managed to see right through us.
 
-<!-- 5D107B -->
-
 *— Po walce —*
 
 **Ahab:** I see that you are having some trouble coming to an agreement amongst yourselves.
@@ -3464,8 +3372,6 @@ Curious, Starbuck asked.
 **Gregor:** ... It's a long story. We just happened to get lucky... and I'll leave it at that.
 Gregor cut in and blocked Don Quixote's mouth.
 
-<!-- 5D108B -->
-
 *— Po walce —*
 
 **Ahab:** There are tasks that must be completed if we are to reach the heart.
@@ -3527,8 +3433,6 @@ Ahab provided us with a boat that could bring us all the way to the heart.
 Queequeg joined us as our helmswoman.
 Queequeg wasn't lying—this boat wasn't like any other boat we'd ever seen. Its body was made of flesh and bones. I also noted that a few pieces of metal plates were visible between the organic materials.
 ... Only a crew of the Pequod could possibly know how to steer this bizarre ship.
-
-<!-- 5D201B -->
 
 *— Po walce —*
 
@@ -3611,8 +3515,6 @@ It's growing more and more frequent... Maybe it's the influence of the Golden Bo
 **Starbuck:** We'll all be free soon.
 **Starbuck:** Once we kill the Pallid Whale and leave this ship... We...
 
-<!-- 5D202B -->
-
 *— Po walce —*
 
 #### The Pallid Whale's Right Atrium
@@ -3637,8 +3539,6 @@ She was scratching so hard that blood and pale gunk were starting to seep from h
 **Ishmael:** ... Still doing that, huh...?
 **Queequeg:** ... Born again.
 **Queequeg:** Cocoon. Couldn't become one.
-
-<!-- 5D202A -->
 
 *— Po walce —*
 
@@ -3762,8 +3662,6 @@ If Ishmael finally gets what she wants...
 What's 'next'? Would there even be anything left?
 Should I... is it right for me to even ask her to continue onto the 'next'?
 
-<!-- 5D203B -->
-
 *— Po walce —*
 
 **Heathcliff:** Oi, your headband...!
@@ -3857,8 +3755,6 @@ Should I... is it right for me to even ask her to continue onto the 'next'?
 **Queequeg:** The Whale-heart. To kill it...
 **Queequeg:** I put my heart to sleep.
 
-<!-- 5D204B -->
-
 *— Po walce —*
 
 #### The Pallid Whale's Right Ventricle
@@ -3884,8 +3780,6 @@ Unless she's talking about an actual heart... I never had any powers like that. 
 **Queequeg:** I want... Ishmael to...
 **Queequeg:** ... find her way.
 
-<!-- 5D205B -->
-
 *— Po walce —*
 
 **Dante:** Whew, we just need to get past that Abnormality. Then we can get to cutting the Whale's arteries.
@@ -3909,8 +3803,6 @@ Outis was the first to put the pieces together.
 **Queequeg:** Want to know, now.
 **Ishmael:** Know... what?
 **Queequeg:** My way. My path.
-
-<!-- 5D205A -->
 
 *— Po walce —*
 
@@ -3978,8 +3870,6 @@ Outis was the first to put the pieces together.
 **Dante:** So all along, we've not only...
 **Dante:** ... been trapped inside the Whale, but also in her palms, all along...
 
-<!-- 5D206B -->
-
 *— Po walce —*
 
 Ahab's commands led us straight to her singular goal, the heart.
@@ -4001,8 +3891,6 @@ Everyone bites onto that bait. Getting dragged deeper and deeper into the abyss.
 **Queequeg:** The heart, beating...
 **Dante:** It'll take us some time... But let's pay close attention to the heartbeat and feel our way there.
 
-<!-- 5D301B -->
-
 *— Po walce —*
 
 #### Rendezvous Area Before the Heart
@@ -4013,8 +3901,6 @@ Something twitched before us. An entity skewered by numerous fluorescent bars.
 **Ishmael:** … Get out of my way.
 **Dante:** Watch out, it's charging!
 Perhaps it felt threatened when Ishmael grabbed her harpoon. It leaped out of the Lake and began rushing toward us.
-
-<!-- 5D301A -->
 
 *— Po walce —*
 
@@ -4062,8 +3948,6 @@ Ahab's journey through the pancreas plays right before my eyes.
 **Hesitating Villager:** I can die, for this cause I will...!
 **Ahab:** Nay, not death! I have never, and will never order my men to their deaths.
 **Ahab:** I send them to greatness, not death.
-
-<!-- 5D302B -->
 
 *— Po walce —*
 
@@ -4139,8 +4023,6 @@ I won't seek death willingly.
 **Ahab:** Silence!!! Shut up. This... is a moment of paramount importance.
 The path to the heart opened as Ahab finished her words.
 
-<!-- 5D303B -->
-
 *— Po walce —*
 
 #### The Pallid Whale's Heart
@@ -4179,8 +4061,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** Very well! Then crash unto me like the Waves! Let your world and mine clash!
 **Ahab:** Let us see whose evil is the more tenacious, the more overwhelming!!!
 
-<!-- 5D304B -->
-
 *— Po walce —*
 
 **Ishmael:** You could've given your crew a chance!
@@ -4196,15 +4076,11 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 
 > Kierując się zmiennymi współrzędnymi od Pilota, płyniemy ku filii Lobotomy Corp. gdzieś na wodach Jeziora. Ishmael z napięciem na twarzy co chwilę spogląda przez lunetę.
 
-<!-- 5D304I -->
-
 *— W trakcie walki —*
 
 **Ishmael:** …!
 **Ahab** (*Effloresced E.G.O::GasHarpoon*): Do you still fail to see? They are already 'Ahab'.
 **Ahab:** They are my harpoons. My hatred is their hatred. My vengeance is their vengeance. And my harpoons... shall not be defied!
-
-<!-- 5D304I2 -->
 
 *— W trakcie walki —*
 
@@ -4218,8 +4094,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** The fault lies with you, Ishmael!
 **Ahab:** Yet I am the evil here?
 
-<!-- 5D304I3 -->
-
 *— W trakcie walki —*
 
 **Ishmael:** Starbuck...! You... you were the only crew of the ship that could challenge Ahab.
@@ -4230,8 +4104,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** If you knew that he had sought a better path, then why have you not helped him see it?!
 **Ahab:** So the fault lies with you again, Ishmael!
 
-<!-- 5D304I4 -->
-
 *— W trakcie walki —*
 
 **Ishmael:** Queequeg... I don't...! I don't want to let you go... Not you...!
@@ -4239,8 +4111,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** This happened because you dared to unearth her buried heart! Because you forced her broken heart into the open!
 **Ahab:** The fault lies with you once again, Ishmael!
 **Ahab:** Look at what you've done. Watch her determination crumble, her conviction collapse. Now, with her faith broken, the pale claims Queequeg!
-
-<!-- 5D304I5 -->
 
 *— W trakcie walki —*
 
@@ -4313,8 +4183,6 @@ So that I may not be lost.
 **Dante:** But at the end of all things, you still have to be the Captain of your own ship. You're the one who has to steer your very own path...
 **Dante:** So don't you dare let go of your helm before the voyage is over. Because I... I won't, either.
 
-<!-- 5D304I6 -->
-
 *— W trakcie walki —*
 
 Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
@@ -4325,8 +4193,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 **Ahab:** YES! Now, we have become one and the same, Ishmael.
 **Ahab:** The paths to our destinations are both unclouded. Any sacrifice, any amount of death can be justified as long as we can see our missions through to their ends!
 **Ahab:** As long as we kill that bastard, we will have nothing more to wish for in our lives!
-
-<!-- 5D304I7 -->
 
 *— W trakcie walki —*
 
@@ -4366,8 +4232,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 **Ahab:** Hm. Still, sailing with this ship will net you a Grade 9 Fixer license for the Eight Association.
 **Ishmael:** I hoped to be like her one day. To be someone who will face the destiny of her own choosing. To have something I could give it my all with conviction and without a moment of hesitation.
 
-<!-- 5D304I8 -->
-
 *— W trakcie walki —*
 
 #### The Pallid Whale's Heart
@@ -4387,8 +4251,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 **Ishmael:** That's why I have to let you live. That is how I will chart my own path.
 **Ahab:** What...?
 
-<!-- 5D304I9 -->
-
 *— W trakcie walki —*
 
 **Ahab:** What... What have you...!
@@ -4403,8 +4265,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 > Przebiwszy się przez morską mgłę, wpłynęliśmy na kruczoczarne Jezioro.
 > Jezioro z legend opowiadanych przez Ishmael. A pośród jego wód…
 > …czekał przejmująco Blady Wieloryb.
-
-<!-- 5D304A -->
 
 *— Po walce —*
 

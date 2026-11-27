@@ -12,16 +12,16 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Las Płomieni | Podstawowe E.G.O Ryōshū |
-| 4. Płomyk Zapałki | Wyłączny Sprzęt E.G.O Ryōshū |
-| Czerwone Oko | Wyłączny Sprzęt E.G.O Ryōshū |
-| Czerwone Oczy (Otwarte) | Wyłączny Sprzęt E.G.O Ryōshū |
-| Gazowany Napój | Wyłączny Sprzęt E.G.O Ryōshū |
-| Zaślepiona Obsesja | Wyłączny Sprzęt E.G.O Ryōshū |
-| Pogarda, Trwoga | Wyłączny Sprzęt E.G.O Ryōshū |
-| Torakalgia | Wyłączny Sprzęt E.G.O Ryōshū |
+| Karta                             | Podtytuł                     |
+| --------------------------------- | ---------------------------- |
+| Las Płomieni                      | Podstawowe E.G.O Ryōshū      |
+| 4. Płomyk Zapałki                 | Wyłączny Sprzęt E.G.O Ryōshū |
+| Czerwone Oko                      | Wyłączny Sprzęt E.G.O Ryōshū |
+| Czerwone Oczy (Otwarte)           | Wyłączny Sprzęt E.G.O Ryōshū |
+| Gazowany Napój                    | Wyłączny Sprzęt E.G.O Ryōshū |
+| Zaślepiona Obsesja                | Wyłączny Sprzęt E.G.O Ryōshū |
+| Pogarda, Trwoga                   | Wyłączny Sprzęt E.G.O Ryōshū |
+| Torakalgia                        | Wyłączny Sprzęt E.G.O Ryōshū |
 | Wielki Trichiliokosm [三千大世界] | Wyłączny Sprzęt E.G.O Ryōshū |
 
 ## Karty
@@ -32,11 +32,11 @@
 
 #### Przebudzenie: Las Płomieni
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 14 | +6 | 1 | +0 | 1 |
-| 3 | Żądza | Slash | 18 | +6 | 1 | +0 | 1 |
-| 4 | Żądza | Slash | 18 | +10 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |         14 |         +6 |      1 |           +0 |    1 |
+|          3 | Żądza  | Slash |         18 |         +6 |      1 |           +0 |    1 |
+|          4 | Żądza  | Slash |         18 |        +10 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] nakłada 4 Podpalenia
 
@@ -53,11 +53,11 @@ Moneta 1: [Trafienie Awersem] nakłada 1 [Wrażliwość] następnej tury
 
 #### Przebudzenie: 4. Płomyk Zapałki
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 16 | +16 | 1 | +3 | 1 |
-| 3 | Gniew | Slash | 21 | +16 | 1 | +3 | 1 |
-| 4 | Gniew | Slash | 21 | +16 | 1 | +3 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |         16 |        +16 |      1 |           +3 |    1 |
+|          3 | Gniew  | Slash |         21 |        +16 |      1 |           +3 |    1 |
+|          4 | Gniew  | Slash |         21 |        +16 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* Moc Umiejętności +2 przeciwko jednostkom posiadającym [Podpalenie]  
 [Przy Zabiciu] następnej tury zyskuje 1 [Wzrost Mocy Ataku]  
@@ -80,12 +80,12 @@ Moneta 1: [Przy Trafieniu] nakłada 4 [Podpalenie]
 
 #### Erozja: 4. Płomyk Zapałki
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 38 | −22 | 1 | +3 | 1 |
-| 3 | Gniew | Slash | 42 | −22 | 1 | +3 | 1 |
-| 4 | Gniew | Slash | 42 | −22 | 1 | +3 | 3 |
-| 5 | Gniew | Slash | 42 | −16 | 1 | +3 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |         38 |        −22 |      1 |           +3 |    1 |
+|          3 | Gniew  | Slash |         42 |        −22 |      1 |           +3 |    1 |
+|          4 | Gniew  | Slash |         42 |        −22 |      1 |           +3 |    3 |
+|          5 | Gniew  | Slash |         42 |        −16 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -126,11 +126,11 @@ Moneta 1: [Przy Trafieniu] nakłada 4 [Podpalenie]
 
 #### Przebudzenie: Czerwone Oko
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 16 | +6 | 1 | +0 | 1 |
-| 3 | Żądza | Slash | 18 | +6 | 1 | +0 | 1 |
-| 4 | Żądza | Slash | 18 | +6 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |         16 |         +6 |      1 |           +0 |    1 |
+|          3 | Żądza  | Slash |         18 |         +6 |      1 |           +0 |    1 |
+|          4 | Żądza  | Slash |         18 |         +6 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada w następnej turze 3 Spętania  
 Moneta 1: [Przy Trafieniu] jeżeli cel ma 3+ [Spętanie], nakłada 1 Osłabienia Monety Plus następnej tury
@@ -145,11 +145,11 @@ Moneta 1: [Przy Trafieniu] jeżeli Prędkość celu jest niższa niż użytkowni
 
 #### Erozja: Czerwone Oko
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 24 | −8 | 1 | +0 | 1 |
-| 3 | Żądza | Slash | 26 | −8 | 1 | +0 | 1 |
-| 4 | Żądza | Slash | 26 | −8 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |         24 |         −8 |      1 |           +0 |    1 |
+|          3 | Żądza  | Slash |         26 |         −8 |      1 |           +0 |    1 |
+|          4 | Żądza  | Slash |         26 |         −8 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -168,10 +168,10 @@ Moneta 1: [Przy Trafieniu] jeżeli Prędkość celu jest niższa niż użytkowni
 
 #### Przebudzenie: Czerwone Oczy (Otwarte)
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Slash | 18 | +8 | 1 | +2 | 2 |
-| 3 | Zawiść | Slash | 22 | +8 | 1 | +2 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Slash |         18 |         +8 |      1 |           +2 |    2 |
+|          3 | Zawiść | Slash |         22 |         +8 |      1 |           +2 |    3 |
 
 *Od ulepszenia 1:* jeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +4 do Mocy Monety  
 Moneta 1: [Przy Trafieniu] jeżeli cel ma 3+ [Spętanie], zadaje +20% obrażeń
@@ -186,10 +186,10 @@ Moneta 1: [Przy Trafieniu] jeżeli ta Umiejętność Oszołomi lub pokona cel, u
 
 #### Erozja: Czerwone Oczy (Otwarte)
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Slash | 30 | −14 | 1 | +2 | 2 |
-| 3 | Zawiść | Slash | 33 | −14 | 1 | +2 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Slash |         30 |        −14 |      1 |           +2 |    2 |
+|          3 | Zawiść | Slash |         33 |        −14 |      1 |           +2 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -214,10 +214,10 @@ Moneta 1: [Przy Trafieniu] jeżeli ta Umiejętność Oszołomi lub pokona cel, u
 
 #### Przebudzenie: Gazowany Napój
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Penetrate | 15 | +10 | 1 | +0 | 1 |
-| 4 | Posępność | Penetrate | 15 | +10 | 1 | +0 | 2 |
+| Ulepszenie | Grzech    | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Penetrate |         15 |        +10 |      1 |           +0 |    1 |
+|          4 | Posępność | Penetrate |         15 |        +10 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada 4 [Zatonięcie]  
 Moneta 1: [Przy Zabiciu] zyskuje 3 zasoby E.G.O 1 losowego Grzechu, którego zasoby aktualnie posiada
@@ -239,10 +239,10 @@ Moneta 1: [Przy Zabiciu] zyskuje 3 zasoby E.G.O 1 losowego Grzechu, którego zas
 
 #### Erozja: Gazowany Napój
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Penetrate | 26 | −12 | 1 | +0 | 1 |
-| 4 | Posępność | Penetrate | 26 | −12 | 1 | +0 | 2 |
+| Ulepszenie | Grzech    | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Penetrate |         26 |        −12 |      1 |           +0 |    1 |
+|          4 | Posępność | Penetrate |         26 |        −12 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -278,11 +278,11 @@ Moneta 1: [Koniec Ataku Rewersem] wszyscy sojusznicy zyskują 1 [Zysk Zasobów E
 
 #### Przebudzenie: Zaślepiona Obsesja
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 18 | +6 | 1 | +0 | 1 |
-| 3 | Pycha | Slash | 18 | +6 | 1 | +0 | 2 |
-| 4 | Pycha | Slash | 18 | +6 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         18 |         +6 |      1 |           +0 |    1 |
+|          3 | Pycha  | Slash |         18 |         +6 |      1 |           +0 |    2 |
+|          4 | Pycha  | Slash |         18 |         +6 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje 4 Równowagi  
 Moneta 1: [Przy Trafieniu] Zwiększa Licznik Ładowania o 2  
@@ -300,11 +300,11 @@ Moneta 1: [Trafienie Krytyczne] zyskuje +2 Licznika Ładowania
 
 #### Erozja: Zaślepiona Obsesja
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 30 | −12 | 1 | +3 | 1 |
-| 3 | Pycha | Slash | 30 | −12 | 1 | +3 | 2 |
-| 4 | Pycha | Slash | 30 | −12 | 1 | +3 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         30 |        −12 |      1 |           +3 |    1 |
+|          3 | Pycha  | Slash |         30 |        −12 |      1 |           +3 |    2 |
+|          4 | Pycha  | Slash |         30 |        −12 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -331,10 +331,10 @@ Moneta 1: [Trafienie Krytyczne] przy 10+ [Oddech] zyskuje +30% obrażeń krytycz
 
 #### Przebudzenie: Pogarda, Trwoga
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 8 | +6 | 2 | +0 | 1 |
-| 4 | Żądza | Slash | 10 | +7 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |          8 |         +6 |      2 |           +0 |    1 |
+|          4 | Żądza  | Slash |         10 |         +7 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższy Rezonans) Wagi Ataku (maks. 2)  
 [Przed Atakiem] zyskuje (najwyższy Rezonans + 1) [Pogardliwe Spojrzenie] (maks. 7)  
@@ -354,10 +354,10 @@ Moneta 2: [Koniec Ataku] równomiernie rozdziela 15 [Krwawienie] między wszystk
 
 #### Erozja: Pogarda, Trwoga
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 40 | −18 | 1 | +3 | 1 |
-| 4 | Żądza | Slash | 44 | −20 | 1 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |         40 |        −18 |      1 |           +3 |    1 |
+|          4 | Żądza  | Slash |         44 |        −20 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -387,10 +387,10 @@ Moneta 1: [Przy Trafieniu] nakłada +5 Licznika [Krwawienie]
 
 #### Przebudzenie: Torakalgia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 6 | +5 | 2 | +3 | 3 |
-| 4 | Pycha | Slash | 8 | +5 | 2 | +3 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |          6 |         +5 |      2 |           +3 |    3 |
+|          4 | Pycha  | Slash |          8 |         +5 |      2 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższego Rezonansu) [Oddech] (maks. 4)  
 - przy 15+ [Oddech], zamiast tego zyskuje +(najwyższy Rezonans) do Mocy Końcowej (maks. 4)  
@@ -417,10 +417,10 @@ Moneta 2: [Przy Trafieniu] zyskuje 4 [Głęboki Wdech] (1 raz na turę)
 
 #### Erozja: Torakalgia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 20 | −8 | 2 | +5 | 4 |
-| 4 | Pycha | Slash | 24 | −8 | 2 | +5 | 4 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         20 |         −8 |      2 |           +5 |    4 |
+|          4 | Pycha  | Slash |         24 |         −8 |      2 |           +5 |    4 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Priorytet ataku: cele z najniższym HP (najpierw sojusznicy)  
@@ -467,11 +467,11 @@ Moneta 2: [Przy Trafieniu] zyskuje 7 [Głęboki Wdech] (1 raz na turę)
 
 #### Przebudzenie: Wielki Trichiliokosm [三千大世界]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 5 | +4 | 3 | +3 | 7 |
-| 3 | Gniew | Slash | 6 | +4 | 3 | +3 | 7 |
-| 4 | Gniew | Slash | 6 | +5 | 3 | +3 | 7 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |          5 |         +4 |      3 |           +3 |    7 |
+|          3 | Gniew  | Slash |          6 |         +4 |      3 |           +3 |    7 |
+|          4 | Gniew  | Slash |          6 |         +5 |      3 |           +3 |    7 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższego Rezonansu) [Oddech] (maks. 7)  
   
@@ -523,11 +523,11 @@ Moneta 3: [Początek Monety] zużywa wszystkie [Splecione Życie [羅生]] i zad
 
 #### Erozja: Wielki Trichiliokosm [三千大世界]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 12 | −4 | 3 | +3 | 7 |
-| 3 | Gniew | Slash | 12 | −3 | 3 | +3 | 7 |
-| 4 | Gniew | Slash | 14 | −3 | 3 | +3 | 7 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |         12 |         −4 |      3 |           +3 |    7 |
+|          3 | Gniew  | Slash |         12 |         −3 |      3 |           +3 |    7 |
+|          4 | Gniew  | Slash |         14 |         −3 |      3 |           +3 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

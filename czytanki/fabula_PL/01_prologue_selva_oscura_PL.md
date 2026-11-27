@@ -17,8 +17,6 @@
 
 > Zgubiłem drogę w czarnym, ciemnym lesie.
 
-<!-- S001B -->
-
 *— Przed walką —*
 
 #### Ciemny las
@@ -115,8 +113,6 @@ Jakiś czas później…
 **Faust:** …Proszę dać z siebie wszystko, Dante.
 **Dante:** …I tak nie mam innego wyjścia.
 
-<!-- S001A -->
-
 *— Po walce —*
 
 **Pantera** (*???*): Nie pojmuję. Coś takiego załatwiło Lwa?
@@ -177,8 +173,6 @@ Wszystko, co zdołałem pochwycić gasnącą świadomością, to…
 *Miejsce: Ciemny las*
 
 > Ocknąłem się w osobliwym autobusie. Ktoś, kto przedstawił się jako Vergilius, nazwał mnie Kierownikiem i przedstawił mi dwunastu Grzeszników, którymi mam kierować…
-
-<!-- S002B -->
 
 *— Przed walką —*
 
@@ -376,8 +370,6 @@ Nie bardzo docierało do mnie, o czym mówi, więc zamiast odpowiedzieć, odwró
 
 > Chyba powoli przywykam do walki u boku Grzeszników. Ale czy oni przywykają do mnie u swojego boku, to już chyba zupełnie inna sprawa…
 
-<!-- S003B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -387,8 +379,6 @@ Nie bardzo docierało do mnie, o czym mówi, więc zamiast odpowiedzieć, odwró
 **Faust:** Martwi się o wrogów, którzy umknęli.
 **Vergilius:** Nie ma powodu… I tak tamtędy jedziemy. Charon?
 **Charon:** Gaz w podłogę, wcisk-wcisk. Jadę wesoło.
-
-<!-- S003A -->
 
 *— Po walce —*
 
@@ -421,8 +411,6 @@ Nie bardzo docierało do mnie, o czym mówi, więc zamiast odpowiedzieć, odwró
 
 > Z Lustra wyłoniły się możliwości. Faust mówi, że to ja mam nimi kierować. Jakim cudem ja z przeszłości wpakowałem się w coś takiego…
 
-<!-- S004B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -449,8 +437,6 @@ Nie bardzo docierało do mnie, o czym mówi, więc zamiast odpowiedzieć, odwró
 **Gregor:** Przemiana, co…
 **Vergilius:** Koniec pogawędki?
 **Vergilius:** Najpierw torujemy drogę. I tak będziecie na siebie skazani aż do znudzenia, więc reszta później.
-
-<!-- S004A -->
 
 *— Po walce —*
 

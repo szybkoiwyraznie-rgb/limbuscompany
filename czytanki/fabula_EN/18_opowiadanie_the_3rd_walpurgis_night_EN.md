@@ -6,8 +6,6 @@
 
 ### Etap 1 · The Night Returns
 
-<!-- E061X -->
-
 #### Aboard Mephistopheles
 
 **Sinclair:** Ah...
@@ -101,8 +99,6 @@ That's when...
 **Dante:** Yeah... Let's get this over with first.
 
 ### Etap 2 · Fairy Festival
-
-<!-- E062X -->
 
 #### The Library - A Space Within a Book
 

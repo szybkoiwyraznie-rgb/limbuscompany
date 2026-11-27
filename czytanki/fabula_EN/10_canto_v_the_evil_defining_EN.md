@@ -17,8 +17,6 @@
 
 > We sail on, the incident with the green lights finally behind us. Faust approaches the helm as though she noticed something.
 
-<!-- S501B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles's Deck
@@ -112,8 +110,6 @@ After an indeterminate amount of time...
 *Miejsce: Mephistopheles the Busboat*
 
 > The engine came to a sputtering halt as Outis's seafaring lecture reached its climax. But we still have so much to go...
-
-<!-- S502B -->
 
 *— Przed walką —*
 
@@ -271,8 +267,6 @@ Ishmael walked up to the helm.
 > Our busboat with a dead engine was still sailing, with every Sinner's hearts and bodies... well, not exactly every Sinner, but most Sinner's hearts and bodies working as one. Oh, and we learned a very valuable lesson about surviving in the Great Lake: that breaking its laws can have catastrophic results.
 > ... And that's when we noticed that our busboat was getting dragged by something off course.
 
-<!-- S503B -->
-
 *— Przed walką —*
 
 #### Cabins of Mephistopheles
@@ -344,8 +338,6 @@ Whichever was the case, it was clear that the port was a mega-structure built fr
 *Miejsce: U Corp.'s Marlin Portship*
 
 > After numerous trials and tribulations, we finally arrived at our destination. Looks like this place is called Marlin Portship of U Corp., a giant seafaring vessel made by merging together countless shipping containers.
-
-<!-- S504B -->
 
 *— Przed walką —*
 
@@ -519,8 +511,6 @@ She was billowing wildly and helplessly in the tempest. I could not even hope to
 
 > In place of the LCCB Agent we were supposed to meet was a posse of kidnappers who demanded ransom from us. As we were discussing our plan of action, Ishmael suddenly decided to act. I could see from her eyes... that there was a mix of numerous, complex feelings. Now, we have no choice but to take these kidnappers out, even if we are yet to learn if the LCCB Agent is alive or not.
 
-<!-- S505A -->
-
 *— Po walce —*
 
 #### Dark Corners of U Corp.
@@ -579,8 +569,6 @@ Maybe I was the only one who sought a sense of belonging from them. That we'd fi
 *Miejsce: U Corp.'s Marlin Portship*
 
 > Maybe not everyone felt a sense of unity, a sense of belonging from this group. We headed to the boss's location that Ishmael threatened out of the kidnappers.
-
-<!-- S506B -->
 
 *— Przed walką —*
 
@@ -656,8 +644,6 @@ The bouncer whispers something into the radio.
 
 > Following the kidnapper's directions, we found ourselves at the entrance of a club blaring with music. I wanted to do this quietly... But we broke into a fight pretty much immediately as we tried to talk to the bouncers. We had to find different ways to convince them to let us in.
 
-<!-- S507B -->
-
 *— Przed walką —*
 
 #### Marlin Port Club Entrance
@@ -685,8 +671,6 @@ And that was more than enough for the clubbers to realize the seriousness of the
 
 > We trashed the club and defeated members of the Syndicate that the kidnappers were part of. Hopefully we can learn their boss's location soon...
 
-<!-- S509A -->
-
 *— Po walce —*
 
 #### Marlin Port Club
@@ -712,8 +696,6 @@ And that was more than enough for the clubbers to realize the seriousness of the
 *Miejsce: U Corp.'s Marlin Portship*
 
 > We learned where the boss's room was, all thanks to Sinclair. She introduced herself as the first mate of the Twinhook Pirates...
-
-<!-- S510B -->
 
 *— Przed walką —*
 
@@ -741,8 +723,6 @@ And that was more than enough for the clubbers to realize the seriousness of the
 **Smee:** What she's up to, who she's with, the last thing she said to you... I want to hear all of it.
 **Smee:** I'm sure there's no need to remind you who's got the upper hand here.
 **Ishmael:** Ha... I wish I could tell you. I really do.
-
-<!-- S510A -->
 
 *— Po walce —*
 
@@ -838,8 +818,6 @@ Heathcliff shook his head and walked away.
 
 > Smee, first mate of the Twinhook Pirates, told us where they were keeping the captured LCCB Team Leader. Ishmael wanted to leave no loose threads behind... But I stopped her, even if it meant putting myself in danger. I have no logical explanation for what I did, nor could I convince Ishmael... But I don't regret what I did.
 
-<!-- S511B -->
-
 *— Przed walką —*
 
 #### Twinhook Pirates' Hideout
@@ -856,8 +834,6 @@ I tried my best to not speculate about what terrible things the pirates might be
 *Miejsce: U Corp.'s Marlin Portship*
 
 > When we opened the shipping container Smee singled out, an unexpectedly tearful and youthful face of an LCCB Agent greeted us. I'm glad that he looks mostly unharmed, but... Is he really the Team Leader?
-
-<!-- S513B -->
 
 *— Przed walką —*
 
@@ -931,8 +907,6 @@ Rodya seemed to have noticed that I was following them all along. She signaled m
 *Miejsce: U Corp.'s Marlin Portship*
 
 > We met an LCCB survivor who called himself Pilot. He shared a very good news with us—that Saude was alive! It's time to listen to what he's got to say.
-
-<!-- S514B -->
 
 *— Przed walką —*
 
@@ -1091,8 +1065,6 @@ I think Ishmael nodded, too.
 
 > Pilot handed us the variable coordinates to the Lobotomy Corp. Branch where the Golden Bough was last seen. Pilot, who so far has been trying to appear nonchalant, broke into tears. I really wanted to believe that there are survivors at the upcoming Lobotomy Corp. Branch.
 
-<!-- S515B -->
-
 *— Przed walką —*
 
 We made our way past the mountains of shipping containers and back to where we first docked...
@@ -1153,8 +1125,6 @@ I saw Vergilius and Charon on a bench, watching us approach. The latter of the t
 
 > We have to make our way to the Lobotomy Corp. Branch based on the variable coordinates that Pilot gave us. Meanwhile, Ishmael keeps nervously checking the telescope.
 
-<!-- S516B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles's Deck
@@ -1203,8 +1173,6 @@ I was wondering if all the times I've spent thinking, hoping, and contemplating 
 
 > The Twinhook Pirates were tailing us. I decided to follow Ishmael's advice and board their ship first before they did ours.
 
-<!-- S517A -->
-
 *— Po walce —*
 
 #### The Twinhook Pirate Ship
@@ -1241,8 +1209,6 @@ The ship was still as death. Its sails fluttered a forlorn dance in the winds.
 *Miejsce: Mephistopheles the Busboat*
 
 > We defeated the Pirates, but... I can't shake this uneasy feeling. Well, no choice but to continue our voyage while minding the laws of the Great Lake.
-
-<!-- S518B -->
 
 *— Przed walką —*
 
@@ -1338,8 +1304,6 @@ A colossal wave rises to its crest before us.
 **Ishmael & Outis** (*Sinners*): 'Trust nothing but your own resolve to hold steadfast in the face of terror, in the face of calamity.'
 **Ishmael:** 'Though the raging Lake may remain indifferent to the will of your meager existence.'
 
-<!-- S518A -->
-
 *— Po walce —*
 
 **Yi Sang:** No words come to mind to rightly describe that... creature.
@@ -1369,8 +1333,6 @@ Two previous victims of Vergilius interjected, albeit in hollow voices, to rebut
 *Miejsce: Mephistopheles the Busboat*
 
 > Outis suggested that we break the laws of the Great Lake and sail headfirst into the Waves. The sky immediately darkens, and the unknown Waves begin crashing into us.
-
-<!-- S519A -->
 
 *— Po walce —*
 
@@ -1407,8 +1369,6 @@ And Ishmael, who'd already weathered and braved these endless, crashing Waves…
 > We finally made it out of the Waves and into calmer seas.
 > I briefly wondered if we can finally start smooth-sailing toward the coordinates...
 > ... and that's when I noticed a stationary cruise ship floating in the middle of a Lake.
-
-<!-- S520B -->
 
 *— Przed walką —*
 
@@ -1496,8 +1456,6 @@ In a manner that was extremely out of character, Vergilius waved at us. ... Does
 
 > We boarded the cruise ship to gather some intel. Though it's littered with gaudy decorations, I don't see anyone on board... Something about this whole affair is creeping me out.
 
-<!-- S521B -->
-
 *— Przed walką —*
 
 #### Mephistopheles' Skiff
@@ -1562,8 +1520,6 @@ Sinclair hurriedly left the room in search of the ship's storage.
 > I ran into the cabins of the ship in search of Sinclair, who fled from Hong Lu's scary tales. Thankfully, I was able to find him without much trouble.
 > But...
 
-<!-- S522B -->
-
 *— Przed walką —*
 
 #### Cruise Ship
@@ -1611,8 +1567,6 @@ That seemed to have done the trick. Sinclair suddenly snapped back to reality an
 
 > The Cruise was an aftermath of a devastation. The consequences of breaking the laws of the Great Lake were severe.
 > ... I'll have to be more careful from now on.
-
-<!-- S523A -->
 
 *— Po walce —*
 
@@ -1667,8 +1621,6 @@ For a moment, I wondered if I should follow her like I did earlier, but...
 *Miejsce: Abandoned Lobotomy Corp. Drilling Ship*
 
 > The elusive Lobotomy Corp. Branch of U Corp. finally appeared from beyond the veil of mist. But... it was completely covered under a layer of bizarre, white membrane. I think we're on the correct path, at least...
-
-<!-- S524B -->
 
 *— Przed walką —*
 
@@ -1765,8 +1717,6 @@ I was starting to believe that she considered all of that nothing but obstacles 
 
 > The bizarreness continued deep into the Lobotomy Corp. Branch. That white, pallid membrane was covering every inch of its interiors.
 > And... we found those that were shambling around, wrapped under that very same membrane.
-
-<!-- S525B -->
 
 *— Przed walką —*
 
@@ -1965,8 +1915,6 @@ Not only their physical senses but also their sense of self... forgotten deep un
 
 > We followed the mysterious butterfly deeper into the Lobotomy Corp. Branch. A man with a flowing head was waiting for us in there.
 
-<!-- S526A -->
-
 *— Po walce —*
 
 #### Abandoned Lobotomy Corp. Drilling Ship
@@ -2072,8 +2020,6 @@ With that, he stepped into the puddle... and disappeared into its depths.
 > Rim disappeared from our sights like a butterfly leaving its brief respite upon the water surface. It was as though we had all awakened from a dream. From him we saw that familiar red mark. 
 > ... The Mermaids are coming back.
 
-<!-- S527B -->
-
 *— Przed walką —*
 
 #### Abandoned Lobotomy Corp. Drilling Ship
@@ -2095,8 +2041,6 @@ I remember the one marked with the bright red sign.
 
 > Rim was right. We could not find even a hint of the Golden Bough from within the Lobotomy Corp. Branch.
 > ... We'll have to search for the Whale like he said, then.
-
-<!-- S529A -->
 
 *— Po walce —*
 
@@ -2135,8 +2079,6 @@ We will likely never understand them.
 *Miejsce: Lobotomy Corp. Drilling Ship Entrance*
 
 > We were waiting by the entrance when a sudden shock shook the Lobotomy Corp. Branch. We hurried out and gazed into the mists... and saw several intimidating-looking vessels emerge.
-
-<!-- S530B -->
 
 *— Przed walką —*
 
@@ -2209,8 +2151,6 @@ Ryoshu parried a few harpoons away with the back of her sword, but there were si
 *Miejsce: Lobotomy Corp. Drilling Ship Entrance*
 
 > We were making relatively short work of the ambushing pirates, but I had a feeling that they were just gauging our capabilities... Now that I mention it, the largest and gaudiest vessel from their fleet has yet to hook us.
-
-<!-- S532B -->
 
 *— Przed walką —*
 
@@ -2327,8 +2267,6 @@ Ryōshū threw her one last cig to the ground, smoked down to the butt...
 **Ryōshū:** Unsatisfying... I'll get a proper luxury cig next time. ... If there is a next time.
 And the Big Brother quite literally soared into the air.
 
-<!-- S532A -->
-
 *— Po walce —*
 
 **Ricardo** (*The Middle's Big Brother*): You regenerate... Like nothing happened.
@@ -2391,8 +2329,6 @@ With every turn of the clock, with every revival, he howled with laughter and cl
 
 > This is nothing short of a massacre. A humiliation. He kills Ishmael again and again. I keep bringing her back, feeling that very same pain that killed her.
 > ... This battle is lost. Maybe Faust is right... Maybe this is where our journey ends.
-
-<!-- S533B -->
 
 *— Przed walką —*
 
@@ -2473,8 +2409,6 @@ The harpoon was still in his hand, and if he wished to strike us with it... we c
 *Miejsce: Mephistopheles the Busboat*
 
 > Blue embers flickered from the old man's cigar. We didn't need anyone to tell us that he was overwhelmingly powerful; we knew instinctively. Faust, who seemed to recognize the old man, led him to Vergilius after a quick exchange of pleasantries.
-
-<!-- S534B -->
 
 *— Przed walką —*
 
@@ -2601,8 +2535,6 @@ A body that was torn asunder. Shattered bones, strips of muscle tissue, flesh...
 
 > We rowed toward the gray Lake as we previously discussed with the Indigo Elder. We can see some rocks poking out of the pale, opaque waters of the Lake. Looks like we'll have to maneuver our way between them.
 
-<!-- S535B -->
-
 *— Przed walką —*
 
 #### Mephistopheles' Skiff
@@ -2672,8 +2604,6 @@ A colossal creature shudders as it wakes from a long slumber.
 > What we thought to be a rock was a Porous Whale. When its Mermaids crawled out of the holes, we defeated them. But... This isn't the Whale we're looking for, is it? What is Ishmael thinking?
 > I could tell from the look on Heathcliff's face that I wasn't the only one wondering about this.
 
-<!-- S537A -->
-
 *— Po walce —*
 
 #### Mephistopheles' Skiff
@@ -2739,8 +2669,6 @@ Once we eliminated the Mermaids of the last Whale singled out by Ishmael, the fo
 > We waded past the ocean mist and entered the obsidian Lake.
 > The Lake of legends, as told by Ishmael. Within it...
 > ... Was the Pallid Whale, pale as the midnight moon.
-
-<!-- S538B -->
 
 *— Przed walką —*
 
@@ -2890,8 +2818,6 @@ And like a droplet in sea, we melted into the fathomless dark.
 > The Lake of legends, as told by Ishmael. Within it...
 > ... Was the Pallid Whale, pale as the midnight moon.
 
-<!-- S539B -->
-
 *— Po walce —*
 
 **Ishmael:** It is said that Queequeg's ropes, twisted by her powerful grip and her esoteric techniques…
@@ -2928,8 +2854,6 @@ Come aboard my ship. And sail with me to the cold abyss of the Lake.
 **Ishmael:** How long have you been... here?
 **???:** Always. Always been here.
 **Ishmael:** …….
-
-<!-- 5D101B -->
 
 *— Po walce —*
 
@@ -2992,8 +2916,6 @@ But...
 **Dante:** Guys, where's—where's the boat?
 The boat was nowhere to be seen.
 
-<!-- 5D102B -->
-
 *— Po walce —*
 
 **Outis:** Men! We will commence a search. This boat must be found as soon as possible.
@@ -3018,8 +2940,6 @@ Hong Lu was pointing at the pitiful sight of an absolutely busted looking pieces
 **Dante:** Ohh...
 The Whale's pallor had taken over their bodies and minds.
 Of course. It only makes sense that this place is crawling with Mermaids.
-
-<!-- 5D102A -->
 
 *— Po walce —*
 
@@ -3052,8 +2972,6 @@ I stared at Hong Lu's shoulder. Something had burrowed a hole there, and the sur
 **Don Quixote:** Are we fated to become porridge... so soon after our arrival...?
 **Faust:** There is one positive discovery, however. This creature appears to share similar biological mechanisms and shapes as an ordinary organic lifeform.
 **Dante:** Everyone... We gotta run...!
-
-<!-- 5D103B -->
 
 *— Po walce —*
 
@@ -3127,8 +3045,6 @@ He scratched his head. 'Captain' Charon clearly didn't ring a bell.
 Ishmael comes to a sudden stop. So do our guides.
 ... Not because of what she said.
 
-<!-- 5D104B -->
-
 *— Po walce —*
 
 #### Pequod Town
@@ -3157,8 +3073,6 @@ The Captain remained serene, even as Ishmael suddenly charged at her.
 **Gagged Pequod Town Villager** (*Pequod Town*): We'll show you what we're made of!
 **Blinded Pequod Town Villager:** We'll toss you back into that river of acid!
 
-<!-- 5D105B -->
-
 *— Po walce —*
 
 **Ishmael:** Not a lot of good men left, Ahab.
@@ -3173,8 +3087,6 @@ A sailor wearing an odd-looking mask joined the fray.
 **Heathcliff:** Blimey... Look at the size of that harpoon.
 **Ryōshū:** A direct hit from that will turn your bones to dust. That one... That one's a real warrior. Huhu...
 **Heathcliff:** Gah! Could you stop being so bloody creepy for one second? Givin' me the shivers outta nowhere...
-
-<!-- 5D105A -->
 
 *— Po walce —*
 
@@ -3232,8 +3144,6 @@ Ishmael's gaze followed Queequeg, who walked wordlessly behind the Captain.
 **Ishmael:** There's nowhere to run, after all.
 **Ishmael:** For her, or for us.
 **Queequeg:** …….
-
-<!-- 5D106B -->
 
 *— Po walce —*
 
@@ -3372,8 +3282,6 @@ The Sinners were all expressing their opinions... which were all very diametrica
 And I...
 ... was unnerved by how easily Ahab managed to see right through us.
 
-<!-- 5D107B -->
-
 *— Po walce —*
 
 **Ahab:** I see that you are having some trouble coming to an agreement amongst yourselves.
@@ -3464,8 +3372,6 @@ Curious, Starbuck asked.
 **Gregor:** ... It's a long story. We just happened to get lucky... and I'll leave it at that.
 Gregor cut in and blocked Don Quixote's mouth.
 
-<!-- 5D108B -->
-
 *— Po walce —*
 
 **Ahab:** There are tasks that must be completed if we are to reach the heart.
@@ -3527,8 +3433,6 @@ Ahab provided us with a boat that could bring us all the way to the heart.
 Queequeg joined us as our helmswoman.
 Queequeg wasn't lying—this boat wasn't like any other boat we'd ever seen. Its body was made of flesh and bones. I also noted that a few pieces of metal plates were visible between the organic materials.
 ... Only a crew of the Pequod could possibly know how to steer this bizarre ship.
-
-<!-- 5D201B -->
 
 *— Po walce —*
 
@@ -3611,8 +3515,6 @@ It's growing more and more frequent... Maybe it's the influence of the Golden Bo
 **Starbuck:** We'll all be free soon.
 **Starbuck:** Once we kill the Pallid Whale and leave this ship... We...
 
-<!-- 5D202B -->
-
 *— Po walce —*
 
 #### The Pallid Whale's Right Atrium
@@ -3637,8 +3539,6 @@ She was scratching so hard that blood and pale gunk were starting to seep from h
 **Ishmael:** ... Still doing that, huh...?
 **Queequeg:** ... Born again.
 **Queequeg:** Cocoon. Couldn't become one.
-
-<!-- 5D202A -->
 
 *— Po walce —*
 
@@ -3762,8 +3662,6 @@ If Ishmael finally gets what she wants...
 What's 'next'? Would there even be anything left?
 Should I... is it right for me to even ask her to continue onto the 'next'?
 
-<!-- 5D203B -->
-
 *— Po walce —*
 
 **Heathcliff:** Oi, your headband...!
@@ -3857,8 +3755,6 @@ Should I... is it right for me to even ask her to continue onto the 'next'?
 **Queequeg:** The Whale-heart. To kill it...
 **Queequeg:** I put my heart to sleep.
 
-<!-- 5D204B -->
-
 *— Po walce —*
 
 #### The Pallid Whale's Right Ventricle
@@ -3884,8 +3780,6 @@ Unless she's talking about an actual heart... I never had any powers like that. 
 **Queequeg:** I want... Ishmael to...
 **Queequeg:** ... find her way.
 
-<!-- 5D205B -->
-
 *— Po walce —*
 
 **Dante:** Whew, we just need to get past that Abnormality. Then we can get to cutting the Whale's arteries.
@@ -3909,8 +3803,6 @@ Outis was the first to put the pieces together.
 **Queequeg:** Want to know, now.
 **Ishmael:** Know... what?
 **Queequeg:** My way. My path.
-
-<!-- 5D205A -->
 
 *— Po walce —*
 
@@ -3978,8 +3870,6 @@ Outis was the first to put the pieces together.
 **Dante:** So all along, we've not only...
 **Dante:** ... been trapped inside the Whale, but also in her palms, all along...
 
-<!-- 5D206B -->
-
 *— Po walce —*
 
 Ahab's commands led us straight to her singular goal, the heart.
@@ -4001,8 +3891,6 @@ Everyone bites onto that bait. Getting dragged deeper and deeper into the abyss.
 **Queequeg:** The heart, beating...
 **Dante:** It'll take us some time... But let's pay close attention to the heartbeat and feel our way there.
 
-<!-- 5D301B -->
-
 *— Po walce —*
 
 #### Rendezvous Area Before the Heart
@@ -4013,8 +3901,6 @@ Something twitched before us. An entity skewered by numerous fluorescent bars.
 **Ishmael:** … Get out of my way.
 **Dante:** Watch out, it's charging!
 Perhaps it felt threatened when Ishmael grabbed her harpoon. It leaped out of the Lake and began rushing toward us.
-
-<!-- 5D301A -->
 
 *— Po walce —*
 
@@ -4062,8 +3948,6 @@ Ahab's journey through the pancreas plays right before my eyes.
 **Hesitating Villager:** I can die, for this cause I will...!
 **Ahab:** Nay, not death! I have never, and will never order my men to their deaths.
 **Ahab:** I send them to greatness, not death.
-
-<!-- 5D302B -->
 
 *— Po walce —*
 
@@ -4139,8 +4023,6 @@ I won't seek death willingly.
 **Ahab:** Silence!!! Shut up. This... is a moment of paramount importance.
 The path to the heart opened as Ahab finished her words.
 
-<!-- 5D303B -->
-
 *— Po walce —*
 
 #### The Pallid Whale's Heart
@@ -4179,8 +4061,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** Very well! Then crash unto me like the Waves! Let your world and mine clash!
 **Ahab:** Let us see whose evil is the more tenacious, the more overwhelming!!!
 
-<!-- 5D304B -->
-
 *— Po walce —*
 
 **Ishmael:** You could've given your crew a chance!
@@ -4196,15 +4076,11 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 
 > We have to make our way to the Lobotomy Corp. Branch based on the variable coordinates that Pilot gave us. Meanwhile, Ishmael keeps nervously checking the telescope.
 
-<!-- 5D304I -->
-
 *— W trakcie walki —*
 
 **Ishmael:** …!
 **Ahab** (*Effloresced E.G.O::GasHarpoon*): Do you still fail to see? They are already 'Ahab'.
 **Ahab:** They are my harpoons. My hatred is their hatred. My vengeance is their vengeance. And my harpoons... shall not be defied!
-
-<!-- 5D304I2 -->
 
 *— W trakcie walki —*
 
@@ -4218,8 +4094,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** The fault lies with you, Ishmael!
 **Ahab:** Yet I am the evil here?
 
-<!-- 5D304I3 -->
-
 *— W trakcie walki —*
 
 **Ishmael:** Starbuck...! You... you were the only crew of the ship that could challenge Ahab.
@@ -4230,8 +4104,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** If you knew that he had sought a better path, then why have you not helped him see it?!
 **Ahab:** So the fault lies with you again, Ishmael!
 
-<!-- 5D304I4 -->
-
 *— W trakcie walki —*
 
 **Ishmael:** Queequeg... I don't...! I don't want to let you go... Not you...!
@@ -4239,8 +4111,6 @@ Queequeg also slowly positions herself next to Ahab. I could not read her expres
 **Ahab:** This happened because you dared to unearth her buried heart! Because you forced her broken heart into the open!
 **Ahab:** The fault lies with you once again, Ishmael!
 **Ahab:** Look at what you've done. Watch her determination crumble, her conviction collapse. Now, with her faith broken, the pale claims Queequeg!
-
-<!-- 5D304I5 -->
 
 *— W trakcie walki —*
 
@@ -4313,8 +4183,6 @@ So that I may not be lost.
 **Dante:** But at the end of all things, you still have to be the Captain of your own ship. You're the one who has to steer your very own path...
 **Dante:** So don't you dare let go of your helm before the voyage is over. Because I... I won't, either.
 
-<!-- 5D304I6 -->
-
 *— W trakcie walki —*
 
 Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
@@ -4325,8 +4193,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 **Ahab:** YES! Now, we have become one and the same, Ishmael.
 **Ahab:** The paths to our destinations are both unclouded. Any sacrifice, any amount of death can be justified as long as we can see our missions through to their ends!
 **Ahab:** As long as we kill that bastard, we will have nothing more to wish for in our lives!
-
-<!-- 5D304I7 -->
 
 *— W trakcie walki —*
 
@@ -4366,8 +4232,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 **Ahab:** Hm. Still, sailing with this ship will net you a Grade 9 Fixer license for the Eight Association.
 **Ishmael:** I hoped to be like her one day. To be someone who will face the destiny of her own choosing. To have something I could give it my all with conviction and without a moment of hesitation.
 
-<!-- 5D304I8 -->
-
 *— W trakcie walki —*
 
 #### The Pallid Whale's Heart
@@ -4387,8 +4251,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 **Ishmael:** That's why I have to let you live. That is how I will chart my own path.
 **Ahab:** What...?
 
-<!-- 5D304I9 -->
-
 *— W trakcie walki —*
 
 **Ahab:** What... What have you...!
@@ -4403,8 +4265,6 @@ Ishmael slowly approaches Ahab. Her face is shrouded in a grim shadow.
 > We waded past the ocean mist and entered the obsidian Lake.
 > The Lake of legends, as told by Ishmael. Within it...
 > ... Was the Pallid Whale, pale as the midnight moon.
-
-<!-- 5D304A -->
 
 *— Po walce —*
 

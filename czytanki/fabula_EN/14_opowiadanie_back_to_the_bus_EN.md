@@ -6,8 +6,6 @@
 
 ### Etap 1 · Back to the Bus.
 
-<!-- E053X -->
-
 #### Cabins of Mephistopheles
 
 **Charon:** Warning, warning. Land ahoy.

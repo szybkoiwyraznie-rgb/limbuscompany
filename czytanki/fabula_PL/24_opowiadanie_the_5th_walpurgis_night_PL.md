@@ -8,8 +8,6 @@
 
 ### Etap 1 · Kościół Trybów
 
-<!-- E070X -->
-
 #### Dante's Room
 
 **Faust:** This seems like a good place to end it, Dante.
@@ -119,8 +117,6 @@ That's when I realized that the Sinners were all equipped with something resembl
 Let's do this.
 
 ### Etap 2 · Scenariusz Nocy
-
-<!-- E071X -->
 
 #### The Church of Gears Meeting House
 

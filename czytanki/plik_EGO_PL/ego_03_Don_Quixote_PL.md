@@ -12,18 +12,18 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| La Sangre de Sancho | Podstawowe E.G.O Don Kichota |
-| Sakiewka Wody | Wyłączny Sprzęt E.G.O Don Kichota |
-| Telepole | Wyłączny Sprzęt E.G.O Don Kichota |
-| Dożywotni Gulasz | Wyłączny Sprzęt E.G.O Don Kichota |
-| Kopczyk Życzeń | Wyłączny Sprzęt E.G.O Don Kichota |
-| Elektryczny Wrzask | Wyłączny Sprzęt E.G.O Don Kichota |
-| Tęsknota-Mircalla | Wyłączny Sprzęt E.G.O Don Kichota |
-| Czerwony Arkusz | Wyłączny Sprzęt E.G.O Don Kichota |
+| Karta                       | Podtytuł                          |
+| --------------------------- | --------------------------------- |
+| La Sangre de Sancho         | Podstawowe E.G.O Don Kichota      |
+| Sakiewka Wody               | Wyłączny Sprzęt E.G.O Don Kichota |
+| Telepole                    | Wyłączny Sprzęt E.G.O Don Kichota |
+| Dożywotni Gulasz            | Wyłączny Sprzęt E.G.O Don Kichota |
+| Kopczyk Życzeń              | Wyłączny Sprzęt E.G.O Don Kichota |
+| Elektryczny Wrzask          | Wyłączny Sprzęt E.G.O Don Kichota |
+| Tęsknota-Mircalla           | Wyłączny Sprzęt E.G.O Don Kichota |
+| Czerwony Arkusz             | Wyłączny Sprzęt E.G.O Don Kichota |
 | W Imię Miłości i Nienawiści | Wyłączny Sprzęt E.G.O Don Kichota |
-| Idę w nożyce. A ty? | Wyłączny Sprzęt E.G.O Don Kichota |
+| Idę w nożyce. A ty?         | Wyłączny Sprzęt E.G.O Don Kichota |
 
 ## Karty
 
@@ -33,10 +33,10 @@
 
 #### Przebudzenie: La Sangre de Sancho
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 12 | +11 | 1 | +2 | 1 |
-| 4 | Żądza | Penetrate | 12 | +14 | 1 | +2 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |         12 |        +11 |      1 |           +2 |    1 |
+|          4 | Żądza  | Penetrate |         12 |        +14 |      1 |           +2 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 4 Krwawienia
 
@@ -48,10 +48,10 @@ Moneta 1: [Przy Trafieniu] Odzyskuje HP równe 50% zadanych obrażeń
 
 #### Wariant: La Sangre de Sancho
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 12 | +11 | 1 | +2 | 1 |
-| 4 | Żądza | Penetrate | 12 | +14 | 1 | +2 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |         12 |        +11 |      1 |           +2 |    1 |
+|          4 | Żądza  | Penetrate |         12 |        +14 |      1 |           +2 |    1 |
 
 Moneta 1: [Przy Trafieniu] nakłada 8 [Krwawienie]  
 Moneta 1: [Przy Trafieniu] Odzyskuje HP równe 50% zadanych obrażeń
@@ -62,11 +62,11 @@ Moneta 1: [Przy Trafieniu] Odzyskuje HP równe 50% zadanych obrażeń
 
 #### Przebudzenie: Sakiewka Wody
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 15 | +18 | 1 | +0 | 1 |
-| 3 | Posępność | Hit | 20 | +18 | 1 | +0 | 1 |
-| 4 | Posępność | Hit | 20 | +18 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         15 |        +18 |      1 |           +0 |    1 |
+|          3 | Posępność | Hit |         20 |        +18 |      1 |           +0 |    1 |
+|          4 | Posępność | Hit |         20 |        +18 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Wybuch Wstrząsu  
 Moneta 1: [Przy Trafieniu] zadaje 15 obrażeń SP
@@ -82,11 +82,11 @@ Moneta 1: [Przy Trafieniu] Nakłada 2 Zatonięcia
 
 #### Erozja: Sakiewka Wody
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 37 | −25 | 1 | +0 | 1 |
-| 3 | Posępność | Hit | 42 | −25 | 1 | +0 | 1 |
-| 4 | Posępność | Hit | 42 | −25 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         37 |        −25 |      1 |           +0 |    1 |
+|          3 | Posępność | Hit |         42 |        −25 |      1 |           +0 |    1 |
+|          4 | Posępność | Hit |         42 |        −25 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -111,11 +111,11 @@ Moneta 1: jeżeli cel NIE jest Oszołomiony, w Niskim Moralu ani w Panice, zadaj
 
 #### Przebudzenie: Telepole
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 14 | +8 | 1 | +0 | 1 |
-| 3 | Zawiść | Penetrate | 18 | +8 | 1 | +0 | 1 |
-| 4 | Zawiść | Penetrate | 18 | +8 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         14 |         +8 |      1 |           +0 |    1 |
+|          3 | Zawiść | Penetrate |         18 |         +8 |      1 |           +0 |    1 |
+|          4 | Zawiść | Penetrate |         18 |         +8 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] zyskuje +10 Licznika [Ładowanie]
 
@@ -127,11 +127,11 @@ Moneta 1: [Koniec Ataku] daje wszystkim sojusznikom Liczniki [Ładowanie] propor
 
 #### Erozja: Telepole
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 16 | +10 | 1 | +0 | 1 |
-| 3 | Zawiść | Penetrate | 19 | +10 | 1 | +0 | 1 |
-| 4 | Zawiść | Penetrate | 19 | +10 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         16 |        +10 |      1 |           +0 |    1 |
+|          3 | Zawiść | Penetrate |         19 |        +10 |      1 |           +0 |    1 |
+|          4 | Zawiść | Penetrate |         19 |        +10 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] zyskuje +10 Licznika [Ładowanie] i 10 [Rozdarcie]
 
@@ -148,10 +148,10 @@ Moneta 1: [Koniec Ataku] daje wszystkim sojusznikom 5 [Wrażliwość], 10 [Rozda
 #### Przebudzenie: Dożywotni Gulasz
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 18 | +4 | 1 | +3 | 1 |
-| 3 | Żądza | Hit | 21 | +4 | 1 | +3 | 1 |
-| 4 | Żądza | Hit | 21 | +4 | 1 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         18 |         +4 |      1 |           +3 |    1 |
+|          3 | Żądza  | Hit |         21 |         +4 |      1 |           +3 |    1 |
+|          4 | Żądza  | Hit |         21 |         +4 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zwiększa obrażenia proporcjonalnie do posiadanych zasobów E.G.O Żądzy (do 25%)  
 Moneta 1: [Przy Trafieniu] Nakłada +1 Licznika Podpalenia
@@ -171,10 +171,10 @@ Moneta 1: [Przy Trafieniu] nakłada +3 Licznika [Krwawienie]
 #### Erozja: Dożywotni Gulasz
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 19 | +5 | 1 | +3 | 1 |
-| 3 | Żądza | Hit | 22 | +5 | 1 | +3 | 1 |
-| 4 | Żądza | Hit | 22 | +5 | 1 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         19 |         +5 |      1 |           +3 |    1 |
+|          3 | Żądza  | Hit |         22 |         +5 |      1 |           +3 |    1 |
+|          4 | Żądza  | Hit |         22 |         +5 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje jednostkę z najwyższym HP  
@@ -216,10 +216,10 @@ Moneta 1: [Przy Trafieniu] nakłada +4 Licznika [Krwawienie]
 
 #### Przebudzenie: Kopczyk Życzeń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 18 | +9 | 1 | −2 | 1 |
-| 4 | Lenistwo | Hit | 18 | +9 | 1 | −2 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         18 |         +9 |      1 |           −2 |    1 |
+|          4 | Lenistwo | Hit |         18 |         +9 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Zwiększa Licznik [Krwawienie] celu o 3  
 Moneta 1: [Przy Trafieniu] Nakłada 4 [Wstrząs]
@@ -234,9 +234,9 @@ Moneta 1: [Trafienie Awersem] nakłada 2 [Paraliż]
 
 #### Erozja: Kopczyk Życzeń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 24 | −10 | 1 | −2 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         24 |        −10 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -265,9 +265,9 @@ Moneta 1: [Przy Trafieniu] wyzwala [Wybuch Wstrząsu]; następnie zmniejsza Licz
 
 #### Przebudzenie: Elektryczny Wrzask
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 19 | +8 | 1 | +3 | 2 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         19 |         +8 |      1 |           +3 |    2 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (Rezonans Zawiści - 2) Wagi Ataku (maks. 1)  
 [Przed Atakiem] jeżeli ta jednostka ma 20+ Licznika [Ładowanie], zużywa 20 Liczników [Ładowanie], zadając +30% obrażeń  
@@ -289,9 +289,9 @@ Moneta 1: [Przy Zabiciu] zyskuje +2 Licznika [Ładowanie]
 
 #### Erozja: Elektryczny Wrzask
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 28 | −12 | 1 | +5 | 2 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         28 |        −12 |      1 |           +5 |    2 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -323,10 +323,10 @@ Moneta 1: [Przy Zabiciu] zyskuje +3 Licznika [Ładowanie]
 
 #### Przebudzenie: Tęsknota - Mircalla
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 3 | +3 | 4 | +3 | 5 |
-| 4 | Żądza | Penetrate | 3 | +3 | 4 | +3 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |          3 |         +3 |      4 |           +3 |    5 |
+|          4 | Żądza  | Penetrate |          3 |         +3 |      4 |           +3 |    7 |
 
 *Od ulepszenia 1:* Podczas użycia tej Umiejętności HP tej jednostki nie spada poniżej 1.  
 +1 do Mocy Starcia za każde 100 [Skonsumowana Krwawa Uczta] tej jednostki (maks. 2)  
@@ -374,10 +374,10 @@ Moneta 4: [Trafienie po Wygranym Starciu] nakłada [Spragniona Róża] proporcjo
 
 #### Erozja: Tęsknota - Mircalla
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 30 | −10 | 2 | +5 | 5 |
-| 4 | Żądza | Penetrate | 30 | −10 | 2 | +5 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |         30 |        −10 |      2 |           +5 |    5 |
+|          4 | Żądza  | Penetrate |         30 |        −10 |      2 |           +5 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -423,9 +423,9 @@ Moneta 2: [Trafienie po Wygranym Starciu] leczy 50% zadanych obrażeń HP (maks.
 
 #### Przebudzenie: Czerwony Arkusz
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Slash | 16 | +4 | 2 | +3 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Slash |         16 |         +4 |      2 |           +3 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] nakłada (4 + Rezonans Obżarstwa) [Spleciony Talizman Klątwy] (maks. 10)  
 Moneta 2: [Przy Trafieniu] nakłada ([Spleciony Talizman Klątwy] celu / 2) [Rozdarcie] (maks. 3, zaokrąglone w dół)  
@@ -443,9 +443,9 @@ Moneta 2: [Przy Trafieniu] nakłada +([Spleciony Talizman Klątwy] celu / 4) Lic
 
 #### Erozja: Czerwony Arkusz
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Slash | 26 | −10 | 2 | +5 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Slash |         26 |        −10 |      2 |           +5 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -475,8 +475,8 @@ Moneta 2: [Przy Trafieniu] nakłada +([Spleciony Talizman Klątwy] celu / 3) Lic
 #### Przebudzenie: W Imię Miłości i Nienawiści - Major Arcana Slave!!!
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 16 | +5 | 2 | +3 | 5 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         16 |         +5 |      2 |           +3 |    5 |
 
 *Od ulepszenia 1:* [Przed Atakiem] nakłada 1 [Inkantacja Czarodziejki] na (1 + (Rezonans Zawiści / 3)) losowych innych sojuszników (maks. 3 sojuszników)  
   
@@ -524,8 +524,8 @@ Moneta 2: - jeżeli ta jednostka ma [Pojawia się Czarodziejka!], nakłada +1 Li
 #### Erozja: Zmaksymalizowane Odwrócone Arcana Slave - Zatarcie Nienawiści
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 31 | −12 | 2 | +5 | 5 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         31 |        −12 |      2 |           +5 |    5 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -595,9 +595,9 @@ Moneta 2: - jeżeli ta jednostka ma [Transformacja Wsteczna - Odwrócona], nakł
 
 #### Przebudzenie: Idę w nożyce. A ty?
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Slash | 12 | +12 | 1 | +2 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Slash |         12 |        +12 |      1 |           +2 |    3 |
 
 *Od ulepszenia 1:* [Koniec Ataku po Wygranym Starciu] leczy (2 + Rezonans Zawiści / 2) sojuszników z najniższym aktualnym procentem HP po 2% HP i 5 SP każdego (maks. 3 jednostek)  
 [Przegrane Starcie] zyskuje (Rezonans Zawiści x 5) Tarczy (maks. 20)  
@@ -622,9 +622,9 @@ Moneta 1: [Przy Trafieniu] Nakłada 4 [Krwawienie]
 
 #### Erozja: Idę w nożyce. A ty?
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Slash | 4 | +4 | 3 | +3 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Slash |          4 |         +4 |      3 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

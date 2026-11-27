@@ -14,8 +14,6 @@
 > The deeper we go into the Backstreets, the world outside the bus becomes increasingly colorless.
 > Heathcliff, who's been looking out the window for a while, suddenly furrows his brow.
 
-<!-- E510B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -83,8 +81,6 @@ I'm sure things'll get a little clearer once we get there. I slowly disembarked 
 > The first thing we noticed the moment we disembarked the bus was a crowd of swordsmen, all garbed in black cloaks, engaged in a fierce battle.
 > One side was loud and bustling, while the other side was quiet and somber. Perhaps the latter side was losing...
 > What could we possibly have to gain from this?
-
-<!-- E511B -->
 
 *— Przed walką —*
 
@@ -161,8 +157,6 @@ I could practically hear our negotiations(not that I was going to negotiate) fal
 **Outis:** A rational deliberation followed by a sensible decision. I will return my appreciation for your magnificent leadership with a flawless victory.
 **Outis:** All units! Prepare for battle!
 
-<!-- E511A -->
-
 *— Po walce —*
 
 **Ryōshū:** S.A.D. All bark, no bite. Truly a disappointment.
@@ -213,8 +207,6 @@ And before he even finished his sentence...
 > We brought the wounded woman aboard the bus.
 > Vergilius was none to happy about it, but... I'm pretty confident in my decision. I will see this through to the end.
 > ... Looks like she's waking up.
-
-<!-- E512B -->
 
 *— Przed walką —*
 
@@ -306,8 +298,6 @@ We'll have to think about this later. For now, let's take care of the reinforcem
 > When we returned to the bus, an oddly familiar yet previously unacquainted person was waiting for us.
 > If she was wearing a blue uniform, a slightly different looking vest... she would have reminded me of some people we've met before.
 > Why did Vergilius let her board the bus?
-
-<!-- E512A -->
 
 *— Po walce —*
 
@@ -420,8 +410,6 @@ And the bus took off.
 > I'm not sure how this is related to retrieving the Golden Boughs, but I'm starting to feel that none of us really have much say in the matter anyway.
 > It seemed to me that Vergilius already knew where we were headed. What was the point in not telling us and letting us go through a roundabout route?
 
-<!-- E513B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -458,8 +446,6 @@ People dressed in Kurokumo Clan's garbs were wandering around the building, stan
 **Aeng-du:** I have to...! Agh, mentor Bamboo-hatted Kim...!
 **Faust:** Delaying further will only allow the Distortion to grow more powerful. We must enter the building as soon as possible.
 Aeng-du had already leaped out of the bus and was rushing in with her weapon drawn. We quickly followed suit.
-
-<!-- E513A -->
 
 *— Po walce —*
 
@@ -533,8 +519,6 @@ I put the radio back in my pocket and began running up the stairs.
 > I'm pretty sure her wounds are far from healed... I suppose she's just that determined.
 > It makes me wonder, though. What was Bamboo-hatted Kim like?
 
-<!-- E514B -->
-
 *— Przed walką —*
 
 #### Yong-jin Building 2F
@@ -573,8 +557,6 @@ Then... we have no choice but to make haste with her.
 > Why am I sensing the Peccatula here...?
 > And...
 > These sensations are far stronger than what I usually feel from these Peccatula...!
-
-<!-- E515A -->
 
 *— Po walce —*
 
@@ -652,8 +634,6 @@ There was a lot I didn't understand, but since we're in the middle of an operati
 > He carries a large sword and wears a nasty scowl...
 > This guy has to be the leader of the gang of Kurokumo Clan henchmen we've defeated along the way.
 
-<!-- E516B -->
-
 *— Przed walką —*
 
 #### Yong-jin Building 6F
@@ -706,8 +686,6 @@ The Sinners wordlessly begin to surround Jun.
 **Jun:** You're all really getting on my nerves...!
 **Jun:** You know what? That's it. I'll be in deep shit if I let anyone in there anyway.
 **Jun:** So come and get me! I'll cut you down if it's the last thing I do!
-
-<!-- E516A -->
 
 *— Po walce —*
 
@@ -770,8 +748,6 @@ She slammed the door open...
 > Cold blue light from his eye seeps past the crack of a slanted bamboo hat.
 > ... He won't go down without a fight.
 
-<!-- E517B -->
-
 *— Przed walką —*
 
 #### Yong-jin Building 6F Office
@@ -801,8 +777,6 @@ We tensed up, sensing the changing atmosphere. We slowly raised our weapons.
 ### Etap 12 · A Blade Fiend's Fathoms
 
 *Miejsce: Mirror Dungeon of the Fathoms*
-
-<!-- E518B -->
 
 *— Po walce —*
 
@@ -847,8 +821,6 @@ Aeng-du continued in a morose tone.
 We remained wordless and advanced as Aeng-du despondently muttered to herself.
 It was all silent, save for the sound of our shoes lightly pressing into the soft soil beneath our feet.
 
-<!-- E519B -->
-
 *— Po walce —*
 
 **Dante:** So that thing behind him is...
@@ -884,8 +856,6 @@ I can't help but feel a bit of sympathy at his suffocatingly painful past...
 **Outis:** Yes. It appears that we have no choice.
 Aeng-du's grown far too agitated to function properly in this battle.
 It's... all up to us now.
-
-<!-- E519A -->
 
 *— Po walce —*
 

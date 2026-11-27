@@ -6,8 +6,6 @@
 
 ### Etap 1 · Dante’s Records
 
-<!-- E010X -->
-
 **Faust:** …Dante?
 Mephistopheles doesn’t roar and grumble ahead all day long. Mephisto is an engine that needs rest from time to time, much like how Charon is still a human who needs regular breaks.
 **Dante:** Are you still awake, Ms. Faust?
@@ -39,8 +37,6 @@ That’s why I must prepare a backup plan like this.
 So I don’t forget twice.
 
 ### Etap 2 · Bus’s Backdoor
-
-<!-- E020X -->
 
 **Heathcliff:** ?! W-What the hell?!
 Without warning, the bus ground to a sudden halt in the Backstreets.
@@ -130,8 +126,6 @@ And yet, just maybe… Faust knew all along. She “knows it all” as she likes
 …Maybe she knew that I would learn about what lies beyond in the corridor soon enough.
 
 ### Etap 3 · Beyond the Bus’s Corridor
-
-<!-- E030X -->
 
 It happened exactly a week after that fruitless exchange.
 **Faust:** Thank you kindly. Starting now, you all will be given a maximum of 12 hours to partake in sleep and rest; the duration is subject to change. Have a good night.

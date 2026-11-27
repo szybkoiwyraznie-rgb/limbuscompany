@@ -8,8 +8,6 @@
 
 ### Etap 1 · Rozmowa
 
-<!-- E915B -->
-
 *— Przed walką —*
 
 ... Mm. No, wait—for this one, we should go about it like...
@@ -97,8 +95,6 @@ Hang on.
 
 ### Etap 2 · Spotkanie
 
-<!-- E916B -->
-
 *— Przed walką —*
 
 #### Butter Street, District 14
@@ -178,8 +174,6 @@ Hang on.
 **Kim w Bambusowym Kapeluszu:** Uh... Yes, that's me. Guess I should say pleased to meet you...? Folks?
 
 ### Etap 3 · Szukając Punktu Zwrotnego
-
-<!-- E917B -->
 
 *— Przed walką —*
 
@@ -426,8 +420,6 @@ Okay, then... We should get moving, too...
 
 ### Etap 4 · Nieporozumienie
 
-<!-- E918B -->
-
 *— Przed walką —*
 
 #### Abandoned Photo Lab, District 14
@@ -529,8 +521,6 @@ Wherever Kim's gone off to, this definitely isn't the time to be asking trivial 
 **Dante:** ... Right. Let's do what Ezra says and get ready for battle.
 **Outis:** On your orders, Executive Manager. Men! Prepare for battle!
 
-<!-- E918A -->
-
 *— Po walce —*
 
 **Aeng-du:** ... Hm. That should be all of them.
@@ -601,8 +591,6 @@ As one part of me watched Ezra stamp her feet in frustration...
 
 ### Etap 5 · Klisza
 
-<!-- E919B -->
-
 *— Przed walką —*
 
 Meanwhile, Heathcliff's team...
@@ -637,8 +625,6 @@ Meanwhile, Heathcliff's team...
 **Kim w Bambusowym Kapeluszu:** I'd say that about covers the price of admittance for your troupe circus. Wouldn't you?
 **Kim w Bambusowym Kapeluszu:** Well, then... I leave the rest to you folks. Wandering blades in murim tales never linger on the stage for long, after all!
 **Heathcliff:** Oi! Where the hell do you think you're going? Ah, damn it—
-
-<!-- E919A -->
 
 *— Po walce —*
 
@@ -780,8 +766,6 @@ Meursault, you...
 
 ### Etap 6 · Zdjęcia
 
-<!-- E920B -->
-
 *— Przed walką —*
 
 After the battle...
@@ -886,8 +870,6 @@ I took a closer look at the words written on the wicker basket in the first phot
 **Dante:** Where's that bakery you're at?
 
 ### Etap 7 · Konserwy
-
-<!-- E921B -->
 
 *— Przed walką —*
 
@@ -998,8 +980,6 @@ A second later, all color drained out of his face.
 
 ### Etap 8 · Tabu
 
-<!-- E922B -->
-
 *— Przed walką —*
 
 #### Butter Street, District 14
@@ -1099,8 +1079,6 @@ Something about what Ishmael said must've tickled Bamboo-hatted Kim, because he 
 ... Nope. *This* crowd sure don't look like they're gonna let us follow them.
 
 ### Etap 10 · Pościg 2
-
-<!-- E923B -->
 
 *— Przed walką —*
 
@@ -1276,8 +1254,6 @@ The warrior drew a bow that hung from the waistguard, and nocked an arrow...
 The warrior loosened the nocked arrow, which soared into the sky with a piercing whistle...
 ... and with that air-splitting sound as their cue, the Ch'unokkun began to swarm us.
 
-<!-- E923I -->
-
 *— W trakcie etapu —*
 
 #### Projection Room, District 14
@@ -1426,8 +1402,6 @@ With a sigh, Kim shook his head and joined us, dragging his feet all the while.
 **Kim w Bambusowym Kapeluszu:** ... A-a mere jest, you needn't worry.
 
 ### Etap 11 · Głębia ???
-
-<!-- E924B -->
 
 *— Po walce —*
 
@@ -1584,8 +1558,6 @@ Aeng-du's eyes had gone wide in shock, her voice rising unconsciously.
 **Kim w Bambusowym Kapeluszu:** This enchanted place seems intent on unearthing all of my past, both savory and unsavory. All shall be revealed in due time.
 Kim looked around, a twinge of loneliness in his eyes, before moving on.
 ... We followed without a word.
-
-<!-- E925B -->
 
 *— Po walce —*
 
@@ -1745,8 +1717,6 @@ Like the projections of Kim's darkening fathoms...
 **Yi Sang:** ... Then they must be after...
 **Dante:** Yeah. Kim believes that if the Blade Lineage were to come back to life, they would want to kill him.
 
-<!-- E926B -->
-
 *— Po walce —*
 
 **Kim w Bambusowym Kapeluszu:** ... Like a prey backed against the cliff's edge, I am left bereft of paths; my hand hesitates with no room to place the stone.
@@ -1792,8 +1762,6 @@ Like the projections of Kim's darkening fathoms...
 **Im Gyeong-eop:** ... and sever the buds of rebellion before they propagate.
 
 ### Etap 10 · Pościg 2
-
-<!-- E926I -->
 
 *— W trakcie walki —*
 
@@ -1886,8 +1854,6 @@ Kim turned around to look at her, and I saw that a weighty shadow seemed to have
 
 ### Etap 11 · Głębia ???
 
-<!-- E926A -->
-
 *— Po walce —*
 
 The photographs rapidly fold away from reality,
@@ -1961,8 +1927,6 @@ And there...
 ... we found a large group of injured N Corp. staff thrown pell-mell about the room, and Ezra, who was looking down at the headless body of the Docugrapher.
 
 ### Etap 12 · Obiekt Zdjęcia
-
-<!-- E927B -->
 
 *— Przed walką —*
 

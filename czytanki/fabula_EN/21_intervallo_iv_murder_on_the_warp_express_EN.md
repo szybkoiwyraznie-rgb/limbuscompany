@@ -8,8 +8,6 @@
 
 ### Etap 1 · First Class
 
-<!-- E616B -->
-
 *— Przed walką —*
 
 #### ???
@@ -118,8 +116,6 @@ I expected Vergilius to answer with his usual exasperated rebuff. Contrary to my
 **Vergilius:** Fine. Keep your... shoes on.
 
 ### Etap 2 · The Northern Fixer
-
-<!-- E617B -->
 
 *— Przed walką —*
 
@@ -246,8 +242,6 @@ But one thing I knew for sure was...
 
 ### Etap 3 · Disappearing Passengers
 
-<!-- E618B -->
-
 *— Przed walką —*
 
 #### WARP Train First Class Cabin
@@ -368,8 +362,6 @@ And just like that, the ominous feeling I had turned out to be right.
 
 ### Etap 4 · Inaccessible
 
-<!-- E619B -->
-
 *— Przed walką —*
 
 #### WARP Train First Class Cabin
@@ -437,8 +429,6 @@ Bleep—
 After a brief, mechanical beep...
 **???:** KAAAGGHHHH!!!
 Hideous creatures suddenly crashed through the open door and charged wildly in our direction.
-
-<!-- E619A -->
 
 *— Po walce —*
 
@@ -532,8 +522,6 @@ She paused, holding a bloody, slimy chunk of flesh in her hands.
 **Ryōshū:** Hooh. Finally, the awakening has begun.
 
 ### Etap 5 · MultiCrack Office
-
-<!-- E620B -->
 
 *— Przed walką —*
 
@@ -653,8 +641,6 @@ It was just as we had feared. The scene that appeared before us looked like it c
 
 ### Etap 7 · Painting of Hell 2
 
-<!-- E621A -->
-
 *— Przed walką —*
 
 #### WARP Train Economy Class Cabin
@@ -700,8 +686,6 @@ With that, Faust turned around and faced the rest of the Sinners.
 **Faust:** ... is a Bloodfiend.
 
 ### Etap 8 · Bloodfiends
-
-<!-- E622B -->
 
 *— Przed walką —*
 
@@ -774,8 +758,6 @@ Let's move forward... for now.
 
 ### Etap 9 · The Cleanup Agent
 
-<!-- E623A -->
-
 *— Po walce —*
 
 #### WARP Train Economy Class Cabin
@@ -829,8 +811,6 @@ Well, then. I guess we gotta...
 ... keep on keeping on.
 
 ### Etap 12 · Prosthetic Fixers
-
-<!-- E624A -->
 
 *— Po walce —*
 
@@ -907,8 +887,6 @@ Don Quixote's sudden outburst immediately put a stop to the chatter.
 With that, I opened the door leading to the last car of this train.
 
 ### Etap 13 · The One Who Lords
-
-<!-- E625B -->
 
 *— Przed walką —*
 
@@ -1009,8 +987,6 @@ Don Quixote did not give Sasha time to finish her sentence; she was already char
 
 ### Etap 13
 
-<!-- E625I -->
-
 *— W trakcie walki —*
 
 #### WARP Train Economy Class Cabin
@@ -1029,8 +1005,6 @@ An armor of hardened blood materialized over the Bloodfiend's body; his sheer ag
 **Cassetti:** Challenge me now, O rebels! Challenge thy king!
 
 ### Etap 13 · The One Who Lords
-
-<!-- E625A -->
 
 *— Po walce —*
 
@@ -1129,8 +1103,6 @@ Thus we left the incapacitated Sinners and Don Quixote, who watched on with holl
 With that, the door closed shut behind us.
 
 ### Etap 14 · The Negotiation
-
-<!-- E626B -->
 
 *— Przed walką —*
 
@@ -1286,8 +1258,6 @@ She gasped, stumbled, and...
 ... slumped to the ground.
 
 ### Etap 15 · Uncertainty
-
-<!-- E627B -->
 
 *— Przed walką —*
 

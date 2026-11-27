@@ -16,8 +16,6 @@
 
 > I found myself looking at dead and dying Sinners in the middle of the Nest, a place that's supposed to be peaceful. And in front of me is... I began tracing back my memories to figure out what happened.
 
-<!-- S401B -->
-
 *— Przed walką —*
 
 We were neither highfliers nor greedy vultures; we were merely children who loved technology.
@@ -109,8 +107,6 @@ Before Ishmael could finish her sentence, a dull thud at the window interrupted 
 *Miejsce: K Corp's Nest*
 
 > Why are there Abnormalities in the middle of K Corp's Nest? Vergilius seemed to mean it when he said we could return to the bus after we've dealt with this commotion. Passing by frightened crowds, we head to the center of the mess.
-
-<!-- S402B -->
 
 *— Przed walką —*
 
@@ -238,8 +234,6 @@ Now the drones have started lining up, and formed a wall as if to stop us from p
 
 > Getting suspicious drones out of the way, we're dealing with the chaos. They look quite expensive at a glance, and the K Corp. logo on them makes me all the more hesitant about destroying them.
 
-<!-- S403A -->
-
 *— Po walce —*
 
 #### Nest K’s Ruined Streets
@@ -280,8 +274,6 @@ I’ve come too far to be afraid of pulling dead Sinners back to life.
 *Miejsce: K Corp's Nest*
 
 > We no longer see those annoying drones. Now, it's us between the Abnormalities, the threat we actually should remove.
-
-<!-- S406A -->
 
 *— Po walce —*
 
@@ -331,8 +323,6 @@ Ishmael was breathing audibly through her nose. The incident at the checkpoint m
 *Miejsce: K Corp. Laboratory*
 
 > We managed to defeat the Abnormalities and got back on the bus. Who could be giving us a request? I looked out the window, pretending not to hear Ishmael's faint humming.
-
-<!-- S407B -->
 
 *— Przed walką —*
 
@@ -386,8 +376,6 @@ Faust tried to say something to Dongrang, but he and Samjo pulled me far away by
 *Miejsce: K Corp. Laboratory*
 
 > We saw someone we never thought we would see again. But, the Sinners didn't seem too thrilled about the reunion. The client, who says his name is 'Dongrang', starts a friendly conversation. This is despite the fact that no one other than the Sinners can hear what I say...
-
-<!-- S408B -->
 
 *— Przed walką —*
 
@@ -534,8 +522,6 @@ I wasn’t sure if that was an appropriate way to celebrate things… but since 
 
 > After boasting about K Corp's regeneration technology, Dongrang invited us to his lab. Disregarding Samjo's visible shock, we followed Dongrang into his workplace.
 
-<!-- S409B -->
-
 *— Przed walką —*
 
 #### K Corp. Laboratory - Modification Lab
@@ -590,8 +576,6 @@ Yi Sang spoke, staring directly into Dongrang. It was unusual of him to take thi
 *Miejsce: K Corp. Laboratory*
 
 > Intruders broke into the lab. Samjo called them terrorists, but they rejected the notion and instead introduced themselves as the 'technology liberation alliance'. Whatever they are, we have to fight them to survive the attack and proceed with the request.
-
-<!-- S410B -->
 
 *— Przed walką —*
 
@@ -678,8 +662,6 @@ Soon enough, people wearing familiar outfits appeared, along with the unforgetta
 
 > Intruders broke into the lab. Samjo called them terrorists, but they rejected the notion and instead introduced themselves as the 'technology liberation alliance'. Whatever they are, we have to fight them to survive the attack and proceed with the request.
 
-<!-- S412B -->
-
 *— Przed walką —*
 
 #### Invaded K Corp. Laboratory
@@ -754,8 +736,6 @@ Meanwhile, Yi Sang was staring at empty ampules rolling on the floor.
 *Miejsce: K Corp. Laboratory*
 
 > As continued battles against the machines were wearing us out, I heard a confident voice.
-
-<!-- S415B -->
 
 *— Przed walką —*
 
@@ -835,8 +815,6 @@ I whispered back to him saying "I know".
 
 > Accompanying Shrenne and Fixers from Rosespanner Workshop, we headed for the Lobotomy Corp. branch. Feels like a lot of people are involved in this mission. Are we really gonna be safe walking into a place occupied by terrorists?
 
-<!-- S416B -->
-
 *— Przed walką —*
 
 #### Nest K - LC Branch Interior
@@ -857,8 +835,6 @@ I whispered back to him saying "I know".
 Was it even a conversation if one of us never communicated their thoughts to the other?
 **Dongrang:** Shh. I hear some movement.
 I think you're the only one here who has to keep his mouth shut.
-
-<!-- S416A -->
 
 *— Po walce —*
 
@@ -893,8 +869,6 @@ Heathcliff kicked Gregor away from the machine.
 *Miejsce: Nest K Lobotomy Corp. Branch*
 
 > In the branch facility, we ran into the same machines we saw at K Corp. instead of terrorists. For some reason, these machines are playing a strange voice that calls us worms when we destroy them.
-
-<!-- S417A -->
 
 *— Po walce —*
 
@@ -940,8 +914,6 @@ As we suspected, the halted machine began to play an ominous noise.
 *Miejsce: Nest K Lobotomy Corp. Branch*
 
 > According to Samjo, one of the technology liberation alliance's members is a former K Corp. laboratory worker. What does that organization build these machines for, and why do they attack and terrorize K Corp's labs?
-
-<!-- S418B -->
 
 *— Przed walką —*
 
@@ -1024,8 +996,6 @@ Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
 
 > Glaring at Shrenne, Outis stops on the way, having made some kind of conclusion. I couldn't begin to guess what it could be, so I decided to stay and listen.
 
-<!-- S421B -->
-
 *— Przed walką —*
 
 #### Nest K - LC Branch Interior
@@ -1077,8 +1047,6 @@ Niko raised his weapon and pointed it at us.
 
 > Outis and Meursault claimed that there's a traitor in our group. Niko from Rosespanner Workshop denied the accusation, but the suspicion wasn't without reason. The Sinners were now confronting the people they were talking with mere moments ago. This one is an outsider turning against us, but... it made me wonder how long "our" bond could last.
 
-<!-- S422B -->
-
 *— Przed walką —*
 
 #### Nest K - LC Branch Interior
@@ -1119,8 +1087,6 @@ Resembling larvas or snails...
 *Miejsce: Nest K Lobotomy Corp. Branch*
 
 > Now that the Rosespanner Workshop Fixers are defeated, it's time to question Shrenne. She stands still and watches the situation unfold without a hint of panic.
-
-<!-- S426B -->
 
 *— Przed walką —*
 
@@ -1183,8 +1149,6 @@ Ryōshū clicked her tongue and complained about the assassins' retreat, even th
 *Miejsce: Nest K Lobotomy Corp. Branch*
 
 > Assassins claimed Shrenne's life. Dongrang didn't appear too shocked by her death even though they had joined the Wing at the same time. He says internal conflict is like a cycle of some kind. How much trust do I have in the Sinners, and how much trust do they have in me? With questions I won't be able to answer, we headed for the place where the Golden Bough resonated.
-
-<!-- S427B -->
 
 *— Przed walką —*
 
@@ -1255,8 +1219,6 @@ The faded monochrome photograph slowly falls to the floor.
 *Miejsce: Nest K Lobotomy Corp. Branch*
 
 > Dongbaek's unexpected attack pierced Yi Sang's chest. Winding time would heal the wound, but will it really fill the hole in his heart? I had no way to know what dream Yi Sang could have been dreaming, resting with his eyes closed.
-
-<!-- S428B -->
 
 *— Przed walką —*
 
@@ -1337,8 +1299,6 @@ A hole in his chest, wide open with no signs of mending.
 
 > Yi Sang came back to his senses as though nothing happened. Meanwhile, Samjo's phone starts ringing incessantly.
 
-<!-- S429B -->
-
 *— Przed walką —*
 
 #### Nest K - LC Branch Manager's Office
@@ -1365,8 +1325,6 @@ Outis lashed out in frustration.
 *Miejsce: K Corp. Laboratory*
 
 > The K Corp. laboratory was unexpectedly attacked. It seems that the technology liberation alliance has acquired the ability to revert Abnormalities to eggs. We hurried back to the building.
-
-<!-- S430B -->
 
 *— Przed walką —*
 
@@ -1480,8 +1438,6 @@ A researcher was crying and clinging to someone who appeared to be a liberation 
 
 > The liberation alliance member was waiting for us instead of retreating. As if they have a secret weapon prepared...
 
-<!-- S433B -->
-
 *— Przed walką —*
 
 #### Ruined K Corp. Laboratory Hallway
@@ -1491,8 +1447,6 @@ A researcher was crying and clinging to someone who appeared to be a liberation 
 **Heathcliff:** You're so dead now. Bunch of book-smart sods who think using things others made is a talent...
 **Alliance Member:** Fair point.
 **Alliance Member:** Which is why we brought something new from the Lobotomy Corp. branch.
-
-<!-- S433A -->
 
 *— Po walce —*
 
@@ -1524,8 +1478,6 @@ A researcher was crying and clinging to someone who appeared to be a liberation 
 *Miejsce: K Corp. Laboratory*
 
 > Samjo's phone is ringing like crazy again. Maybe we can try and find useful information we couldn't get from Dongrang and Samjo while they're away...
-
-<!-- S435B -->
 
 *— Przed walką —*
 
@@ -1565,8 +1517,6 @@ Probably thanks to the pride in this achievement, Outis sounded much more excite
 *Miejsce: K Corp. Laboratory*
 
 > Meursault has returned. Let's see what information he brought with him.
-
-<!-- S438B -->
 
 *— Przed walką —*
 
@@ -1612,8 +1562,6 @@ Probably thanks to the pride in this achievement, Outis sounded much more excite
 
 > We see ominous-looking K Corp. staff on the other side. Dongrang and Samjo rejoined our group; it seems the talk went well enough.
 
-<!-- S441B -->
-
 *— Przed walką —*
 
 #### Ruined K Corp. Laboratory Hallway
@@ -1651,8 +1599,6 @@ Dongrang interjected like he's always been here. I suppose he's got done with th
 *Miejsce: K Corp. Laboratory*
 
 > We met a familiar technology liberation alliance member. That's the one who was with Ran in the last laboratory raid.
-
-<!-- S443B -->
 
 *— Przed walką —*
 
@@ -1699,8 +1645,6 @@ Faust broke her silence.
 *Miejsce: K Corp. Laboratory*
 
 > An unhappy Ryōshū calls Yi Sang. We began talking about our reasons for joining the company.
-
-<!-- S445B -->
 
 *— Przed walką —*
 
@@ -1767,8 +1711,6 @@ Was he keeping it in... or was it spilling out?
 *Miejsce: K Corp. Laboratory*
 
 > We made our way to the 'screening room'. It was dark, but we could see something at the center hanging down from above, like it was looking down at us.
-
-<!-- S447B -->
 
 *— Przed walką —*
 
@@ -1880,8 +1822,6 @@ Small bubbles rose from where he dove, but a few seconds later, no sound could b
 *Miejsce: K Corp. Laboratory*
 
 > Past bonds thought to be severed have met again; Dongbaek showed obsessive determination to reclaim the Singularity.
-
-<!-- S448B -->
 
 *— Przed walką —*
 
@@ -2004,8 +1944,6 @@ Dongbaek muttered into emptiness. It was as though she was talking to someone.
 **Dongbaek:** Even if this is my own heart-wrenching path, understood by no one...
 **Dongbaek** (*Effloresced E.G.O::Spicebush*): I'll still leave behind a morrow, strong and fertile like fallen petals.
 
-<!-- S448A -->
-
 *— Po walce —*
 
 **Dongrang** (*K Corp. Dept. of Food Resource Development*): Why don't we look at it this way?
@@ -2056,8 +1994,6 @@ And the scent of the grave was in full bloom.
 
 > An intense golden glow blinked from the Golden Bough that was stabbed into Dongbaek. Soon enough, the space in the K Corp. building around us begins to twist and morph. What could be happening?
 
-<!-- S449B -->
-
 *— Przed walką —*
 
 Ah, and so...
@@ -2093,8 +2029,6 @@ Their organs or body parts were severely damaged; this could only be described a
 
 > Technology liberation alliance members we were sure were dead start attacking us. We keep moving forward in the rearranging space, looking for the Golden Bough that's still near us.
 
-<!-- S451B -->
-
 *— Przed walką —*
 
 #### Reconstructing K Corp. Laboratory
@@ -2119,8 +2053,6 @@ When I took a closer look at the revived foes after the battle, I could see a li
 *Miejsce: K Corp. Laboratory*
 
 > Technology liberation alliance members we were sure were dead start attacking us. We keep moving forward in the rearranging space, looking for the Golden Bough that's still near us.
-
-<!-- S454B -->
 
 *— Przed walką —*
 
@@ -2231,8 +2163,6 @@ Even the flower just outside the window was devoid of color, waving like a turbi
 Ishmael began to lightly limber up, cracking her joints.
 **Ishmael:** So let's focus on the foes on deck for now.
 
-<!-- 4D102A -->
-
 *— Po walce —*
 
 #### Blossoming League of Nine Littérateurs
@@ -2259,8 +2189,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Yi Sang:** ……
 **Yi Sang:** Brother Young-ji was a man of kindness. He was not one to rashly harbor spite or reproach for others.
 **Yi Sang:** You resemble him in that sense.
-
-<!-- 4D103B -->
 
 *— Po walce —*
 
@@ -2303,8 +2231,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Yi Sang:** Is it... truly okay for me... to handle a technology as valuable as the glass window?
 **Hong Lu:** You got it wrong. I'm making this suggestion because it's valuable.
 
-<!-- 4D104B -->
-
 *— Po walce —*
 
 **Ishmael:** It looks like the group was at peace.
@@ -2336,8 +2262,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Dongrang:** The enemies will start attacking again, you know.
 **Heathcliff:** Look who's fooling around like an oaf, failing what's as easy as reading words on paper.
 **Ishmael:** Haah...
-
-<!-- 4D105B -->
 
 *— Po walce —*
 
@@ -2402,8 +2326,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Yi Sang:** We thought it would be fine since it was only used as a pastime between us.
 **Yi Sang:** The decision couldn't have been more glib.
 
-<!-- 4D106B -->
-
 *— Po walce —*
 
 #### Outreaches of the Outskirts
@@ -2438,8 +2360,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Hong Lu:** Did the mind of that Tearful Thing melt into this resonance as well, then?
 **Sinclair:** That means... the Tearful Thing is... no different from people...
 **Faust:** Dante, in this world... there are many who seek after stars.
-
-<!-- 4D107B -->
 
 *— Po walce —*
 
@@ -2480,8 +2400,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Sang Yi:** That you'd have to exploit others if you don't want to be.
 **Sang Yi:** So don't feel guilty about it.
 
-<!-- 4D201B -->
-
 *— Po walce —*
 
 #### Rowdy League of Nine Littérateurs
@@ -2501,8 +2419,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Yi Sang:** As heavy rain might pour for days after a spell of clear skies...
 **Yi Sang:** I saw no meaning in attempting to fathom the caprices of the weather.
 **Yi Sang:** I would simply wait for things to calm, looking out for the day's arrival.
-
-<!-- 4D202B -->
 
 *— Po walce —*
 
@@ -2545,8 +2461,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Dongrang:** It was actually what Nul-in said that gave me an important lesson.
 **Dongrang:** That no matter how hard I try, if technology doesn't have an immediate use... no one will give it a passing glance...
 
-<!-- 4D203B -->
-
 *— Po walce —*
 
 **Stephanette** (*???*): It's a beautiful yet poignant story, isn't it?
@@ -2556,8 +2470,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Stephanette:** ……
 **Stephanette:** I'll tell you tales of more worlds.
 **Stephanette:** So cry for me. In my stead, and in everyone else's.
-
-<!-- 4D204B -->
 
 *— Po walce —*
 
@@ -2591,8 +2503,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Dongrang:** It all heals up in seconds. Amazing, isn't it? It only takes a short while for the pain to be gone. Hahaha.
 **Dongrang:** It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?
 **Yi Sang:** ...Dongrang.
-
-<!-- 4D205B -->
 
 *— Po walce —*
 
@@ -2628,8 +2538,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Ishmael:** That was a painful experience. It was like I was actually in the shoes of a League of Nine member...
 **Faust:** We're synchronizing with their memories. It's only natural that their traces will influence us.
 
-<!-- 4D206B -->
-
 *— Po walce —*
 
 **Yi Sang:** As it turned out, each of us wanted to protect a different point in time.
@@ -2641,8 +2549,6 @@ Ishmael began to lightly limber up, cracking her joints.
 **Dongbaek** (*League of Nine Littérateurs*): I sent Young-ji a letter in advance telling him to seek refuge.
 **Dongbaek:** We must hide the glass window and the mirror in the basement before they can take them.
 **Dongbaek:** Dongrang and I will carry them to safety... I want the rest of you to hold the door while we do.
-
-<!-- 4D206A -->
 
 *— Po walce —*
 
@@ -2706,8 +2612,6 @@ Our League... burning down in a colorless fire.
 **Yi Sang:** So, did you accomplish your wish there at last, Dongrang?
 **Dongrang:** ……
 
-<!-- 4D207B -->
-
 *— Po walce —*
 
 **Yi Sang:** The explosion of the League of Nine shattered everything there was, and everything came to a halt for me as well.
@@ -2723,8 +2627,6 @@ Our League... burning down in a colorless fire.
 **Yi Sang:** If he told me to hide on the spot and pretend I know nothing, I would have followed it.
 **Yi Sang:** How many of the nine survived and ran away...
 **Yi Sang:** I do not know.
-
-<!-- 4D208B -->
 
 *— Po walce —*
 
@@ -2763,8 +2665,6 @@ Our League... burning down in a colorless fire.
 **Dongrang:** So all we can do is just... look at it with gratitude and respect.
 **Dongrang:** Like looking up at the stars in my hometown.
 
-<!-- 4D301B -->
-
 *— Po walce —*
 
 **Yi Sang:** An overlong silence shrouded the passage of time.
@@ -2795,8 +2695,6 @@ Our League... burning down in a colorless fire.
 **Sang Yi:** Isn't that the truth? The League used to be bound with such strong solidarity, but now it has disbanded...
 **Sang Yi:** There's no point in feeling joy or despair over every passing moment.
 **Sang Yi:** So I want you to stay here with me. Be someone I can talk with.
-
-<!-- 4D302B -->
 
 *— Po walce —*
 
@@ -2843,8 +2741,6 @@ Our League... burning down in a colorless fire.
 **Meursault:** It's implausible for employees of T Corp's tech agency to chase him into N Corp.
 **Meursault:** Which suggests this is a foreign substance attempting to breach into the fathoms of ego.
 
-<!-- 4D303B -->
-
 *— Po walce —*
 
 **Yi Sang:** You returned to me after some time... and spoke strange things.
@@ -2871,8 +2767,6 @@ Our League... burning down in a colorless fire.
 **Yi Sang:** And I wished to believe that there must have been a misunderstanding between Gubo and me.
 **Yi Sang:** Alas...
 **Yi Sang:** I stepped outside the white square and kept walking.
-
-<!-- 4D304B -->
 
 *— Po walce —*
 
@@ -2957,8 +2851,6 @@ Our League... burning down in a colorless fire.
 **Faust:** As we do, he will naturally come to accept that what lies ahead is his path.
 **Faust:** That is how we can help him.
 
-<!-- 4D305B -->
-
 *— Po walce —*
 
 **Dongrang** (*K Corp. Dept. of Food Resource Development*): So it comes down to this. I'll probably die soon.
@@ -3001,8 +2893,6 @@ Our League... burning down in a colorless fire.
 *Miejsce: K Corp. Laboratory*
 
 > The liberation alliance member was waiting for us instead of retreating. As if they have a secret weapon prepared...
-
-<!-- 4D305I -->
 
 *— W trakcie walki —*
 
@@ -3085,8 +2975,6 @@ Our League... burning down in a colorless fire.
 **Yi Sang:** Just once more...
 **Yi Sang:** I wished to fly.
 
-<!-- 4D305I2 -->
-
 *— W trakcie walki —*
 
 **Dongrang** (*Effloresced E.G.O::Farmwatch*): Yi... Sang...
@@ -3106,8 +2994,6 @@ Our League... burning down in a colorless fire.
 *Miejsce: K Corp. Laboratory*
 
 > Technology liberation alliance members we were sure were dead start attacking us. We keep moving forward in the rearranging space, looking for the Golden Bough that's still near us.
-
-<!-- 4D305A -->
 
 *— Po walce —*
 

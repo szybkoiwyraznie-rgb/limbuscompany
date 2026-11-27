@@ -115,6 +115,19 @@ i zasadach odczytu”. Dane PL budowane są z produkcyjnej paczki
   `czytanki/fabula_KR` (fabuła) i `czytanki/plik_ID_EN`, `czytanki/plik_ID_KR`
   (pliki ID), zbudowane z `index/` ([INDEX_FORMAT.md](INDEX_FORMAT.md)). Po zmianie `index/` lub
   generatorów budujemy je od nowa i commitujemy razem.
+- **Formatowanie tabel (konwencja mtgcrawler, zaakceptowana przez właściciela):**
+  wszystkie tabele Markdown w Czytankach są składane przez
+  `tools/md_table_align.py` (genery wywołują `align_markdown_tables` przed
+  zapisem) — kolumny `|` wyrównane w pionie dla edytora o stałej szerokości
+  znaków, budżet szerokości linii 216 komórek, długa ostatnia kolumna
+  zawijana z 2-spacjowym wcięciem kontynuacji, kolumny liczbowe/indeksowe
+  (`#`, `Slot`, `Ulepszenie`, `Rzadkość`, `Sezon`, liczniki, moce) prawostronnie
+  przez `---:`, tekstowe lewostronnie. Weryfikacja: ponowne przejście
+  alignera na plikach jest operacją tożsamościową.
+- **Bez czysto technicznych znaczników:** identyfikatory scen (`<!-- S001B -->`)
+  nie trafiają do tekstu Czytanki — granice scen wyznaczają nagłówki etapów
+  i dopiski faz (`*— Przed walką —*`); test `test_reading_layout` kotwiczy
+  zakaz `<!--` w wydaniu.
 
 ## Kolejność fabuły
 

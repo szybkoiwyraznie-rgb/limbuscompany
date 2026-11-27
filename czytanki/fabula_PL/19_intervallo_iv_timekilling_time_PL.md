@@ -10,8 +10,6 @@
 
 *Miejsce: Zaułki T Corp.*
 
-<!-- E601B -->
-
 *— Przed walką —*
 
 #### Alleyways of T Corp.
@@ -124,8 +122,6 @@ With their not-so-helpful answers, my mind immediately began to wander toward Fa
 
 *Miejsce: Zaułki T Corp.*
 
-<!-- E602A -->
-
 *— Po walce —*
 
 #### Alleyways of T Corp.
@@ -164,8 +160,6 @@ Vergilius let out a deep sigh before turning toward the T Corp. employee.
 ### Etap 3 · Zagadka Szubienicy
 
 *Miejsce: Biuro Zarządu Czasu T Corp.*
-
-<!-- E603B -->
 
 *— Przed walką —*
 
@@ -289,8 +283,6 @@ Vergilius and Faust, who returned just as this incident occurred, were both glar
 ### Etap 4 · Przygoda Trójki Detektywów
 
 *Miejsce: Biuro Zarządu Czasu T Corp.*
-
-<!-- E604B -->
 
 *— Przed walką —*
 
@@ -472,8 +464,6 @@ Ryōshū, who was staring off into the distance while puffing her cigarette, sud
 
 *Miejsce: Fabryka Zegarków T Corp.*
 
-<!-- E605B -->
-
 *— Przed walką —*
 
 #### T Corp. Watch Factory
@@ -618,8 +608,6 @@ Bumble gently fixed his mustache and hair before caressing his expensive coat wi
 
 *Miejsce: Fabryka Zegarków T Corp.*
 
-<!-- E606B -->
-
 *— Przed walką —*
 
 #### T Corp. Watch Factory
@@ -675,8 +663,6 @@ A sudden explosion tore Hong Lu to shreds as he was peeking around an alleyway..
 ### Etap 7 · Cofający się Zegar
 
 *Miejsce: Zaułki T Corp.*
-
-<!-- E607B -->
 
 *— Przed walką —*
 
@@ -788,8 +774,6 @@ Some time later...
 
 *Miejsce: Tajna kryjówka Jurodiwych*
 
-<!-- E609B -->
-
 *— Przed walką —*
 
 #### An Alleyway of T Corp.
@@ -816,8 +800,6 @@ Rodya exclaimed triumphantly as she flicked her hair back, but I sensed the smal
 ### Etap 10 · Tajemnica Jurodiwych
 
 *Miejsce: Tajna kryjówka Jurodiwych*
-
-<!-- E610A -->
 
 *— Po walce —*
 
@@ -893,8 +875,6 @@ Rodya ignored the Assistant's question and turned around to leave the hideout, w
 
 *Miejsce: Mroczne zaułki T Corp.*
 
-<!-- E611B -->
-
 *— Przed walką —*
 
 #### An Alleyway of T Corp.
@@ -954,8 +934,6 @@ An odd impression.
 ### Etap 12 · Rozpruwacz Czasu
 
 *Miejsce: Mroczne zaułki T Corp.*
-
-<!-- E612B -->
 
 *— Przed walką —*
 
@@ -1041,8 +1019,6 @@ I guess that's a... relief...
 ### Etap 13 · Skrzywiony Czas
 
 *Miejsce: Zaułki T Corp.*
-
-<!-- E613B -->
 
 *— Przed walką —*
 
@@ -1162,8 +1138,6 @@ I thought the condition of getting exempt from our Time Tax was that we had to c
 
 *Miejsce: Wieża Zegarowa*
 
-<!-- E614B -->
-
 *— Przed walką —*
 
 #### Clock Tower
@@ -1252,8 +1226,6 @@ About 30 minutes ago...
 **Heathcliff:** Right, so is that sod the Time Ripper or somethin'?
 **Faust:** A Distortion we must defeat.
 
-<!-- E614A -->
-
 *— Po walce —*
 
 #### Clock Tower
@@ -1279,8 +1251,6 @@ Ryōshū quickly shut us down with her brief summary of the circumstances. We di
 ### Etap 15 · Ostatnia Sprawa
 
 *Miejsce: Lustrzany Loch Głębi*
-
-<!-- E615B -->
 
 *— Przed walką —*
 
@@ -1352,8 +1322,6 @@ And I'll...
 
 ### Etap 12
 
-<!-- E615I -->
-
 *— W trakcie walki —*
 
 #### Mirror Dungeon of the Fathoms
@@ -1366,8 +1334,6 @@ And I'll...
 **The Time Ripper:** Letting this drag on for any longer will cost us more in the long term.
 **The Time Ripper:** This attack will surely eliminate them.
 **The Time Ripper:** Think of how much time we will save by taking care of them here and now. We shall share this burden of time together.
-
-<!-- E615I2 -->
 
 *— W trakcie walki —*
 
@@ -1382,8 +1348,6 @@ And I'll...
 **Dante:** They're starting to fight each other.
 **Hong Lu:** Ah, I get it. You're saying that now is our chance, right?
 
-<!-- E615I3 -->
-
 *— W trakcie walki —*
 
 **The Time Ripper:** Bloody hell, this is really gettin' on my nerves. Oi!
@@ -1396,8 +1360,6 @@ The Time Ripper, cornered, grabs the lapels of his long coat, and...
 ### Etap 15 · Ostatnia Sprawa
 
 *Miejsce: Lustrzany Loch Głębi*
-
-<!-- E615A -->
 
 *— Po walce —*
 

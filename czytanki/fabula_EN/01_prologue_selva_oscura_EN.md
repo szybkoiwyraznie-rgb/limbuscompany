@@ -17,8 +17,6 @@
 
 > In a black, dusky forest, I lost the way.
 
-<!-- S001B -->
-
 *— Przed walką —*
 
 #### A Dark Forest
@@ -115,8 +113,6 @@ After some time passed…
 **Faust:** … Please do your best, Dante.
 **Dante:** … I guess I don't have any other choice.
 
-<!-- S001A -->
-
 *— Po walce —*
 
 **Panther** (*???*): I don’t get it. These nobodies managed to take Lion down?
@@ -177,8 +173,6 @@ My consciousness fading, the only thing I could perceive…
 *Miejsce: A Dark Forest*
 
 > When I awoke, I was on a peculiar bus. The man who introduced himself as “Vergilius” showed me to the twelve Sinners I’ll be overseeing as their new manager…
-
-<!-- S002B -->
 
 *— Przed walką —*
 
@@ -374,8 +368,6 @@ I wasn’t sure what he was getting at, so I turned away to look through the win
 
 > I’m starting to get used to fighting alongside these Sinners. Though, whether they’re used to my presence is another story…
 
-<!-- S003B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -385,8 +377,6 @@ I wasn’t sure what he was getting at, so I turned away to look through the win
 **Faust:** They’re worried over the foes we lost.
 **Vergilius:** No need for concern… That’s the direction we were heading anyway. Charon?
 **Charon:** Pedal to the metal. Up for an exciting ride.
-
-<!-- S003A -->
 
 *— Po walce —*
 
@@ -419,8 +409,6 @@ I wasn’t sure what he was getting at, so I turned away to look through the win
 
 > Various possibilities emerged from the Mirror. Faust says it’s my job to take care of them. Just who was I in the past, and how did I get myself roped into this…?
 
-<!-- S004B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -447,8 +435,6 @@ I wasn’t sure what he was getting at, so I turned away to look through the win
 **Gregor:** Transformation, huh…
 **Vergilius:** Done chatting?
 **Vergilius:** First, we make way for the bus. You’ll spend more time together than you’d ever ask for, so table that discussion for later.
-
-<!-- S004A -->
 
 *— Po walce —*
 

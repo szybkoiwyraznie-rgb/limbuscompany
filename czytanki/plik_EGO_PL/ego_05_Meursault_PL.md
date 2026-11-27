@@ -12,18 +12,18 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Łańcuchy Innych | Podstawowe E.G.O Meursaulta |
-| Cios Wywalonej Śruby | Wyłączny Sprzęt E.G.O Meursaulta |
-| Egzekucja | Wyłączny Sprzęt E.G.O Meursaulta |
-| Capote | Wyłączny Sprzęt E.G.O Meursaulta |
-| Skrucha | Wyłączny Sprzęt E.G.O Meursaulta |
-| Elektryczny Krzyk | Wyłączny Sprzęt E.G.O Meursaulta |
-| Tęsknota-Mircalla | Wyłączny Sprzęt E.G.O Meursaulta |
-| Rozgnieciona Przeszłość | Wyłączny Sprzęt E.G.O Meursaulta |
+| Karta                                    | Podtytuł                         |
+| ---------------------------------------- | -------------------------------- |
+| Łańcuchy Innych                          | Podstawowe E.G.O Meursaulta      |
+| Cios Wywalonej Śruby                     | Wyłączny Sprzęt E.G.O Meursaulta |
+| Egzekucja                                | Wyłączny Sprzęt E.G.O Meursaulta |
+| Capote                                   | Wyłączny Sprzęt E.G.O Meursaulta |
+| Skrucha                                  | Wyłączny Sprzęt E.G.O Meursaulta |
+| Elektryczny Krzyk                        | Wyłączny Sprzęt E.G.O Meursaulta |
+| Tęsknota-Mircalla                        | Wyłączny Sprzęt E.G.O Meursaulta |
+| Rozgnieciona Przeszłość                  | Wyłączny Sprzęt E.G.O Meursaulta |
 | Okryty Cieniem Tancerz Ostrzy [着影揮刀] | Wyłączny Sprzęt E.G.O Meursaulta |
-| Dziura | Wyłączny Sprzęt E.G.O Meursaulta |
+| Dziura                                   | Wyłączny Sprzęt E.G.O Meursaulta |
 
 ## Karty
 
@@ -34,9 +34,9 @@
 #### Przebudzenie: Łańcuchy Innych
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Hit | 15 | +3 | 1 | −3 | 1 |
-| 3 | Pycha | Hit | 19 | +3 | 1 | −3 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Hit |         15 |         +3 |      1 |           −3 |    1 |
+|          3 | Pycha  | Hit |         19 |         +3 |      1 |           −3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada w następnej turze 3 Spętania  
 Moneta 1: [Przy Trafieniu] zyskuje 3 [Spętanie] następnej tury  
@@ -58,9 +58,9 @@ Moneta 1: [Przy Trafieniu] zyskuje 2 Ochrony następnej tury
 #### Wariant: Łańcuchy Innych
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Hit | 15 | +3 | 1 | −3 | 1 |
-| 3 | Pycha | Hit | 19 | +3 | 1 | −3 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Hit |         15 |         +3 |      1 |           −3 |    1 |
+|          3 | Pycha  | Hit |         19 |         +3 |      1 |           −3 |    1 |
 
 Moneta 1: [Przy Trafieniu] nakłada 5 [Spętanie] następnej tury  
 Moneta 1: [Przy Trafieniu] zyskuje 3 [Spętanie] następnej tury  
@@ -75,10 +75,10 @@ Moneta 1: [Przy Trafieniu] zyskuje 2 [Ochrona] następnej tury
 #### Przebudzenie: Cios Wywalonej Śruby
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 18 | +4 | 1 | +5 | 1 |
-| 3 | Zawiść | Hit | 23 | +4 | 1 | +5 | 1 |
-| 4 | Zawiść | Hit | 23 | +4 | 1 | +5 | 2 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         18 |         +4 |      1 |           +5 |    1 |
+|          3 | Zawiść | Hit |         23 |         +4 |      1 |           +5 |    1 |
+|          4 | Zawiść | Hit |         23 |         +4 |      1 |           +5 |    2 |
 
 *Od ulepszenia 1:* [Koniec Ataku] zyskuje 3 Ochrony  
 Moneta 1: [Trafienie Awersem] Nakłada 3 Paraliżu
@@ -90,10 +90,10 @@ Moneta 1: [Trafienie Awersem] Nakłada 3 Paraliżu
 #### Erozja: Cios Wywalonej Śruby
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 16 | +8 | 1 | +5 | 1 |
-| 3 | Zawiść | Hit | 21 | +8 | 1 | +5 | 1 |
-| 4 | Zawiść | Hit | 21 | +8 | 1 | +5 | 2 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         16 |         +8 |      1 |           +5 |    1 |
+|          3 | Zawiść | Hit |         21 |         +8 |      1 |           +5 |    1 |
+|          4 | Zawiść | Hit |         21 |         +8 |      1 |           +5 |    2 |
 
 *Od ulepszenia 1:* [Koniec Ataku] zyskuje 2 Zabiegu następnej tury  
 Moneta 1: [Trafienie Awersem] Nakłada 3 Paraliżu
@@ -108,11 +108,11 @@ Moneta 1: podnosi Próg Oszołomienia o wartość 30% zadanych obrażeń
 
 #### Przebudzenie: Egzekucja
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 20 | +8 | 1 | −1 | 1 |
-| 3 | Lenistwo | Hit | 26 | +8 | 1 | −1 | 1 |
-| 4 | Lenistwo | Hit | 26 | +8 | 1 | −1 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         20 |         +8 |      1 |           −1 |    1 |
+|          3 | Lenistwo | Hit |         26 |         +8 |      1 |           −1 |    1 |
+|          4 | Lenistwo | Hit |         26 |         +8 |      1 |           −1 |    3 |
 
 *Od ulepszenia 1:* [Koniec Ataku] leczy 2 innych sojuszników z najniższym HP o 15% Maks. HP  
 Moneta 1: [Trafienie Awersem] Wybuch Wstrząsu
@@ -122,10 +122,10 @@ Moneta 1: [Przy Trafieniu] Wybuch Wstrząsu
 
 #### Erozja: Egzekucja
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 28 | −8 | 1 | −1 | 3 |
-| 3 | Lenistwo | Hit | 34 | −8 | 1 | −1 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         28 |         −8 |      1 |           −1 |    3 |
+|          3 | Lenistwo | Hit |         34 |         −8 |      1 |           −1 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -144,10 +144,10 @@ Moneta 1: [Przy Trafieniu] Wybuch Wstrząsu
 #### Przebudzenie: Capote
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Hit | 16 | +15 | 1 | +0 | 1 |
-| 3 | Gniew | Hit | 20 | +15 | 1 | +0 | 1 |
-| 4 | Gniew | Hit | 20 | +25 | 1 | +0 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Hit |         16 |        +15 |      1 |           +0 |    1 |
+|          3 | Gniew  | Hit |         20 |        +15 |      1 |           +0 |    1 |
+|          4 | Gniew  | Hit |         20 |        +25 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Koniec Ataku] zyskuje 1 [Pośpiech], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury  
 Moneta 1: [Przy Trafieniu] nakłada 4 Podpalenia  
@@ -169,10 +169,10 @@ Moneta 1: [Przy Trafieniu] uruchamia [Wybuch Wstrząsu], po czym zmniejsza Liczn
 #### Erozja: Capote
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Hit | 33 | −15 | 1 | +3 | 1 |
-| 3 | Gniew | Hit | 37 | −15 | 1 | +3 | 1 |
-| 4 | Gniew | Hit | 37 | −15 | 1 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Hit |         33 |        −15 |      1 |           +3 |    1 |
+|          3 | Gniew  | Hit |         37 |        −15 |      1 |           +3 |    1 |
+|          4 | Gniew  | Hit |         37 |        −15 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -204,8 +204,8 @@ Moneta 1: [Przy Trafieniu] uruchamia [Wybuch Wstrząsu], po czym zmniejsza Liczn
 #### Przebudzenie: Skrucha
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Hit | 20 | +10 | 1 | +2 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Hit |         20 |        +10 |      1 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Przed Atakiem] usuwa 1 losowy usuwalny negatywny efekt nałożony na tę jednostkę  
 Moneta 1: [Przy Trafieniu] nakłada +2 Licznika [Wstrząs]; nakłada dodatkowo (Absolutnego Rezonansu Gniewu / 3) Licznika [Wstrząs]  
@@ -226,8 +226,8 @@ zadaje obrażenia Gniewu równe (12 + 3x(Absolutnego Rezonansu Gniewu))% podnies
 #### Erozja: Skrucha
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Hit | 30 | −10 | 1 | +5 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Hit |         30 |        −10 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -263,9 +263,9 @@ Moneta 1: [Koniec Ataku] zyskuje 3 [Spętanie] i 1 zwiększenia Mocy Uderzenia n
 
 #### Przebudzenie: Elektryczny Krzyk
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 22 | +4 | 1 | +0 | 2 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         22 |         +4 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje +8 Licznika [Ładowanie]  
 [Koniec Ataku] nakłada +8 Licznika [Ładowanie] na 1 innego sojusznika z najniższym Licznikiem [Ładowanie]  
@@ -287,9 +287,9 @@ Moneta 1: [Przy Trafieniu] Nakłada 3 [Rozdarcie]
 
 #### Erozja: Elektryczny Krzyk
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 28 | −12 | 1 | +3 | 2 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         28 |        −12 |      1 |           +3 |    2 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -319,10 +319,10 @@ Moneta 1: [Przy Trafieniu] Nakłada 3 [Rozdarcie]
 
 #### Przebudzenie: Tęsknota - Mircalla
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 5 | +3 | 4 | +0 | 1 |
-| 3 | Żądza | Penetrate | 5 | +4 | 4 | +0 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |          5 |         +3 |      4 |           +0 |    1 |
+|          3 | Żądza  | Penetrate |          5 |         +4 |      4 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Koniec Ataku] przez 3 tury traci 10 SP na koniec tury  
 Moneta 1: [Przy Trafieniu] Nakłada 2 [Krwawienie]  
@@ -360,10 +360,10 @@ Moneta 4: [Przy Zabiciu] jeżeli zadane obrażenia przekroczyły pozostałe HP w
 
 #### Erozja: Tęsknota - Mircalla
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 6 | +3 | 4 | +3 | 1 |
-| 3 | Żądza | Penetrate | 6 | +4 | 4 | +3 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |          6 |         +3 |      4 |           +3 |    1 |
+|          3 | Żądza  | Penetrate |          6 |         +4 |      4 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -415,11 +415,11 @@ Moneta 4: [Przy Zabiciu] jeżeli zadane obrażenia przekroczyły pozostałe HP w
 
 #### Przebudzenie: Rozgnieciona Przeszłość
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 3 | +3 | 4 | +2 | 6 |
-| 3 | Lenistwo | Hit | 4 | +3 | 4 | +2 | 6 |
-| 4 | Lenistwo | Hit | 4 | +4 | 4 | +2 | 6 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |          3 |         +3 |      4 |           +2 |    6 |
+|          3 | Lenistwo | Hit |          4 |         +3 |      4 |           +2 |    6 |
+|          4 | Lenistwo | Hit |          4 |         +4 |      4 |           +2 |    6 |
 
 *Od ulepszenia 1:* [Koniec Ataku] przez 3 tury traci 10 SP na koniec tury  
 [Koniec Ataku] przy Rezonansie Nieczułości o nieparzystej wartości w nieparzystych turach albo o parzystej wartości w parzystych turach odzyskuje 10 SP  
@@ -462,11 +462,11 @@ Moneta 4: [Przy Trafieniu] jeżeli efekty tej Monety zwiększyły zadawane obra�
 
 #### Erozja: Rozgnieciona Przeszłość
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 28 | −12 | 1 | +4 | 7 |
-| 3 | Lenistwo | Hit | 30 | −12 | 1 | +4 | 7 |
-| 4 | Lenistwo | Hit | 30 | −10 | 1 | +4 | 7 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         28 |        −12 |      1 |           +4 |    7 |
+|          3 | Lenistwo | Hit |         30 |        −12 |      1 |           +4 |    7 |
+|          4 | Lenistwo | Hit |         30 |        −10 |      1 |           +4 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -513,9 +513,9 @@ Moneta 1: [Przy Trafieniu] jeżeli efekty tej Monety zwiększyły zadawane obra�
 
 #### Przebudzenie: Okryty Cieniem Tancerz Ostrzy [着影揮刀]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 12 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         12 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* pierwsze użycie w walce zużywa 15 mniej SP  
 - jeżeli to Mentor Rodu Ostrza Meursault, wymaga odpowiednio o 1 mniej zasobów E.G.O Gniewu, Pychy i Zawiści  
@@ -555,9 +555,9 @@ Moneta 2: [Przy Trafieniu] Zwiększa Licznik [Krwawienie] celu o 2
 
 #### Erozja: Okryty Cieniem Tancerz Ostrzy [着影揮刀]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 13 | −2 | 4 | +4 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         13 |         −2 |      4 |           +4 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -628,11 +628,11 @@ Moneta 4: [Przy Trafieniu] Zwiększa Licznik [Krwawienie] celu o 2
 
 #### Przebudzenie: Dziura
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 10 | +1 | 2 | +3 | 7 |
-| 3 | Pycha | Penetrate | 12 | +1 | 2 | +3 | 7 |
-| 4 | Pycha | Penetrate | 12 | +2 | 2 | +3 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         10 |         +1 |      2 |           +3 |    7 |
+|          3 | Pycha  | Penetrate |         12 |         +1 |      2 |           +3 |    7 |
+|          4 | Pycha  | Penetrate |         12 |         +2 |      2 |           +3 |    7 |
 
 *Od ulepszenia 1:* jeżeli cel ginie podczas trwania Umiejętności, wybiera jako cel jednostkę ataku z najniższym HP (w walkach skupionych rozpatrywane per Część)  
   
@@ -711,10 +711,10 @@ Moneta 2: [Przy Trafieniu] Zwiększa Licznik [Zatonięcie] o 3
 
 #### Erozja: Dziura
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 14 | −3 | 2 | +5 | 7 |
-| 3 | Pycha | Penetrate | 16 | −2 | 2 | +5 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         14 |         −3 |      2 |           +5 |    7 |
+|          3 | Pycha  | Penetrate |         16 |         −2 |      2 |           +5 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

@@ -12,18 +12,18 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Nagle, Pewnego Dnia | Podstawowy Sprzęt E.G.O Gregor |
-| Kuglarstwo | Wyłączny Sprzęt E.G.O Gregor |
-| Lampa | Wyłączny Sprzęt E.G.O Gregor |
-| AEDD | Wyłączny Sprzęt E.G.O Gregor |
-| Ogród Cierni | Wyłączny Sprzęt E.G.O Gregor |
-| Dni Przeszłe | Wyłączny Sprzęt E.G.O Gregor |
-| Uroczysty Lament | Wyłączny Sprzęt E.G.O Gregor |
-| Bożonarodzeniowy Koszmar | Wyłączny Sprzęt E.G.O Gregor |
-| Nieoślepiająca Chwała | Wyłączny Sprzęt E.G.O Gregor |
-| Zgłoszenie Zamieszkowania | Wyłączny Sprzęt E.G.O Gregor |
+| Karta                     | Podtytuł                       |
+| ------------------------- | ------------------------------ |
+| Nagle, Pewnego Dnia       | Podstawowy Sprzęt E.G.O Gregor |
+| Kuglarstwo                | Wyłączny Sprzęt E.G.O Gregor   |
+| Lampa                     | Wyłączny Sprzęt E.G.O Gregor   |
+| AEDD                      | Wyłączny Sprzęt E.G.O Gregor   |
+| Ogród Cierni              | Wyłączny Sprzęt E.G.O Gregor   |
+| Dni Przeszłe              | Wyłączny Sprzęt E.G.O Gregor   |
+| Uroczysty Lament          | Wyłączny Sprzęt E.G.O Gregor   |
+| Bożonarodzeniowy Koszmar  | Wyłączny Sprzęt E.G.O Gregor   |
+| Nieoślepiająca Chwała     | Wyłączny Sprzęt E.G.O Gregor   |
+| Zgłoszenie Zamieszkowania | Wyłączny Sprzęt E.G.O Gregor   |
 
 ## Karty
 
@@ -33,10 +33,10 @@
 
 #### Przebudzenie: Nagle, Pewnego Dnia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 12 | +12 | 1 | −1 | 1 |
-| 3 | Lenistwo | Hit | 14 | +14 | 1 | −1 | 1 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         12 |        +12 |      1 |           −1 |    1 |
+|          3 | Lenistwo | Hit |         14 |        +14 |      1 |           −1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] nakłada 3 wartości 1 losowego z efektów: [Podpalenie], [Krwawienie], [Wstrząs], [Rozdarcie] lub [Zatonięcie]
 
@@ -51,9 +51,9 @@
 #### Przebudzenie: Kuglarstwo
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Hit | 15 | +5 | 1 | −2 | 3 |
-| 3 | Obżar. | Hit | 18 | +5 | 1 | −2 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Hit |         15 |         +5 |      1 |           −2 |    3 |
+|          3 | Obżar. | Hit |         18 |         +5 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada 2 [Wstrząs]  
 Moneta 1: [Trafienie Awersem] nakłada 2 [Paraliż]
@@ -69,9 +69,9 @@ Moneta 1: [Przy Trafieniu] nakłada 4 [Paraliż]
 #### Erozja: Kuglarstwo
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Hit | 25 | −14 | 1 | −2 | 3 |
-| 3 | Obżar. | Hit | 28 | −14 | 1 | −2 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Hit |         25 |        −14 |      1 |           −2 |    3 |
+|          3 | Obżar. | Hit |         28 |        −14 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -96,11 +96,11 @@ Moneta 1: [Przy Trafieniu] nakłada 6 [Czerwie]
 
 #### Przebudzenie: Lampa
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 14 | +8 | 1 | −3 | 1 |
-| 3 | Obżar. | Penetrate | 16 | +8 | 1 | −3 | 1 |
-| 4 | Obżar. | Penetrate | 16 | +8 | 1 | −3 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         14 |         +8 |      1 |           −3 |    1 |
+|          3 | Obżar. | Penetrate |         16 |         +8 |      1 |           −3 |    1 |
+|          4 | Obżar. | Penetrate |         16 |         +8 |      1 |           −3 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] leczy własne HP o 40% zadanych obrażeń
 
@@ -108,11 +108,11 @@ Moneta 1: [Przy Trafieniu] nakłada 6 [Czerwie]
 
 #### Erozja: Lampa
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 17 | +4 | 1 | −3 | 3 |
-| 3 | Obżar. | Penetrate | 19 | +4 | 1 | −3 | 3 |
-| 4 | Obżar. | Penetrate | 19 | +4 | 1 | −3 | 5 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         17 |         +4 |      1 |           −3 |    3 |
+|          3 | Obżar. | Penetrate |         19 |         +4 |      1 |           −3 |    3 |
+|          4 | Obżar. | Penetrate |         19 |         +4 |      1 |           −3 |    5 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najwyższym HP  
@@ -130,10 +130,10 @@ Moneta 1: [Trafienie Awersem] Nakłada 5 Rozdarcia
 
 #### Przebudzenie: AEDD
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 20 | +5 | 1 | +0 | 1 |
-| 3 | Posępność | Hit | 22 | +5 | 1 | +0 | 1 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         20 |         +5 |      1 |           +0 |    1 |
+|          3 | Posępność | Hit |         22 |         +5 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje +5 Licznika [Ładowanie]  
 Moneta 1: [Przy Trafieniu] nakłada 5 [Wyładowanie Prądu]
@@ -146,11 +146,11 @@ Moneta 1: [Przy Trafieniu] nakłada 15 [Wyładowanie Prądu]
 
 #### Erozja: AEDD
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 22 | +7 | 1 | +0 | 1 |
-| 3 | Posępność | Hit | 24 | +7 | 1 | +0 | 1 |
-| 4 | Posępność | Hit | 24 | +7 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         22 |         +7 |      1 |           +0 |    1 |
+|          3 | Posępność | Hit |         24 |         +7 |      1 |           +0 |    1 |
+|          4 | Posępność | Hit |         24 |         +7 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 priorytetowo atakuje jednostki posiadające [Ładowanie]  
@@ -173,9 +173,9 @@ Moneta 1: [Przy Trafieniu] nakłada 15 [Wyładowanie Prądu] i +7 Licznika [Ład
 
 #### Przebudzenie: Ogród Cierni
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 20 | +10 | 1 | +0 | 4 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |         20 |        +10 |      1 |           +0 |    4 |
 
 *Od ulepszenia 1:* [Przed Atakiem] przy najwyższym Rezonansie 3+ Waga Ataku +1  
 [Przy Użyciu] nakłada 1 zwiększenia zadawanych obrażeń i 1 zwiększenia Mocy Umiejętności odpowiadającego Afiniczności tego Rezonansu na (1 + najwyższy Rezonans) sojuszników  
@@ -200,9 +200,9 @@ Moneta 1: [Koniec Ataku] leczy 4 sojuszników z najniższym aktualnym procentem 
 
 #### Erozja: Ogród Cierni
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Slash | 30 | −10 | 1 | +0 | 4 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Slash |         30 |        −10 |      1 |           +0 |    4 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -234,9 +234,9 @@ Moneta 1: [Przy Trafieniu] nakłada 1 Kruchości i 1 Redukcji Mocy odpowiadając
 
 #### Przebudzenie: Dni Przeszłe
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Penetrate | 20 | +4 | 1 | −3 | 1 |
+| Ulepszenie | Grzech    | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Penetrate |         20 |         +4 |      1 |           −3 |    1 |
 
 *Od ulepszenia 1:* [Koniec Ataku] odzyskuje 10 SP dla siebie i 2 sojuszników z najniższym SP innych niż ta jednostka  
 - jeżeli cel przeżył ten atak, zużywa 5 Licznika [Zatonięcie] celu i dodatkowo leczy SP (siebie oraz wskazanych sojuszników) o wartość Siły [Zatonięcie] celu (maks. leczenia SP: 20)  
@@ -252,9 +252,9 @@ Moneta 1: [Przy Trafieniu] nakłada 1 Kruchości i 1 Redukcji Mocy odpowiadając
 
 #### Erozja: Dni Przeszłe
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 27 | −8 | 1 | +3 | 1 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         27 |         −8 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -281,10 +281,10 @@ Moneta 1: [Przy Trafieniu] nakłada 3 [Klątwa]
 
 #### Przebudzenie: Uroczysty Lament
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 8 | +1 | 3 | +2 | 3 |
-| 4 | Posępność | Hit | 8 | +2 | 3 | +2 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |          8 |         +1 |      3 |           +2 |    3 |
+|          4 | Posępność | Hit |          8 |         +2 |      3 |           +2 |    3 |
 
 *Od ulepszenia 1:* gdy ta Umiejętność rzuca Monety, każda Moneta trafia losowo wybranego wroga wśród celów ataku.  
 - pierwsza Moneta zawsze trafia cel główny.  
@@ -320,9 +320,9 @@ Moneta 3: [Przy Trafieniu] przy SP 0 lub wyższym, ponownie używa tej Monety (m
 
 #### Erozja: Uroczysty Lament
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 32 | −8 | 1 | +0 | 5 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         32 |         −8 |      1 |           +0 |    5 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -357,9 +357,9 @@ Moneta 1: [Przy Trafieniu] jeżeli HP celu wynosi 50% lub mniej, zadaje obrażen
 
 #### Przebudzenie: Bożonarodzeniowy Koszmar
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Slash | 12 | +4 | 2 | +1 | 5 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Slash |         12 |         +4 |      2 |           +1 |    5 |
 
 *Od ulepszenia 1:* [Koniec Ataku] przy pełnym HP, na koniec tury odzyskuje 10 SP i następnej tury zyskuje 1 [Wzrost Mocy Ataku]  
 Moneta 1: [Przy Trafieniu] Nakłada 5 [Wstrząs]  
@@ -385,9 +385,9 @@ Moneta 2: [Przy Trafieniu] jeżeli cel jest Oszołomiony, w Niskim Moralu lub w 
 
 #### Erozja: Bożonarodzeniowy Koszmar
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Slash | 22 | −6 | 2 | +2 | 5 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Slash |         22 |         −6 |      2 |           +2 |    5 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -426,9 +426,9 @@ Moneta 2: [Przy Trafieniu] jeżeli cel jest Oszołomiony, w Niskim Moralu lub w 
 
 #### Przebudzenie: Nieoślepiająca Chwała - Przepływ
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Slash | 5 | +5 | 1 | +0 | 1 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Slash |          5 |         +5 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Niestarciowy]  
 przy pierwszym użyciu w walce wymagane zasoby E.G.O są niższe o 1 Gniew, 2 Lenistwo i 1 Pychę  
@@ -456,9 +456,9 @@ ta Umiejętność nie trafia wrogów, nie uruchamia Umiejętności Obrony, a zew
 
 #### Wariant: Nieoślepiająca Chwała - Żar
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Slash | 10 | +5 | 1 | +3 | 3 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Slash |         10 |         +5 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Niestarciowy]  
 zewnętrzne efekty nie mogą ponownie użyć tej Umiejętności  
@@ -530,9 +530,9 @@ Moneta 1: [Trafienie bez Pęknięcia] jeżeli ta Moneta została użyta 4 razy, 
 
 #### Erozja: Nieoślepiająca Chwała - Przepływ
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Slash | 20 | −4 | 4 | +6 | 3 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Slash |         20 |         −4 |      4 |           +6 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -603,8 +603,8 @@ Moneta 4: [Trafienie bez Pęknięcia] jeżeli Siła [Wstrząs] celu wynosi 15+, 
 #### Przebudzenie: Zgłoszenie Zamieszkowania
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 9 | +6 | 2 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |          9 |         +6 |      2 |           +3 |    3 |
 
 *Od ulepszenia 1:* Moc Monety +1 przy spełnieniu poniższych warunków (maks. 3)  
 - za każde 6 Siły [Podpalenie] na celu głównym  
@@ -649,8 +649,8 @@ Moneta 2: [Przy Trafieniu] Nakłada w następnej turze 1 [Spętanie]
 #### Erozja: Zgłoszenie Zamieszkowania
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 7 | +7 | 2 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |          7 |         +7 |      2 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

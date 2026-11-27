@@ -6,8 +6,6 @@
 
 ### Etap 1 · Znajomy Alarm
 
-<!-- E063X -->
-
 #### Dante's Room
 
 **Dante:** ... Right, I think we can conclude our consultation session here.

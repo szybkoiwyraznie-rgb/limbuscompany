@@ -6,8 +6,6 @@
 
 ### Etap 1 · Poziomy Ryzyka i Numery Seryjne
 
-<!-- E054X -->
-
 #### Na pokładzie Mephistophelesa
 
 **Rodion:** I guess the traffic sucks no matter which Nest we go to...

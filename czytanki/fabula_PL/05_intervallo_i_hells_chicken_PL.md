@@ -15,8 +15,6 @@
 > na Grzeszników rzuciły się chodzące surowe kury.
 > Czyżby wyładowywały upokorzenie, że tak długo zjadali je ludzie…?
 
-<!-- E301B -->
-
 *— Przed walką —*
 
 #### Zaułek w śródmieściu Gniazda K Corp.
@@ -66,8 +64,6 @@ Gdy wściekła Ryōshū sięgnęła do pochwy, to coś zdążyło już do nas do
 **???:** Hm, skoro tak wyszło, pozostaje nam chyba tylko walczyć.
 **Dante:** A ten czemu tak naturalnie chowa się za mną?
 Zanim zdążyłem cokolwiek powiedzieć, kurogłowi rzucili się na nas.
-
-<!-- E301A -->
 
 *— Po walce —*
 
@@ -172,8 +168,6 @@ Przyglądałem się w milczeniu, jak Rodion wyciera Don Quixote buzię.
 > to przyrządzenie “dania z kurczaka”, które zadowoli Zniekształcenie.
 > Grzesznicy zakasują rękawy i pewni siebie biorą się do gotowania, ale…
 > czy nie powinni najpierw zgasić papierosów?
-
-<!-- E302B -->
 
 *— Przed walką —*
 
@@ -353,8 +347,6 @@ Rozwścieczone niespodziewanymi intruzami stado kur zatrzepotało groźnie skrzy
 **Gregor i Ryōshū** (*Grzesznicy*): Kto przeszkodzi, tego posiekam (przedziurawię)!
 **Dante:** A teraz wyglądacie na całkiem zgranych…
 
-<!-- E302A -->
-
 *— Po walce —*
 
 #### Kuchnia Baru u Eunbong
@@ -383,8 +375,6 @@ I rzecz jasna tylko od strony Gregora dało się słyszeć ciche gaszenie papier
 > Wciąż nie rozumiem, jak to się zmieniło w pojedynek…
 > Ale do dania, które zadowoli zniekształconego właściciela, jeszcze daleka droga.
 > Co prawda takie dania nie zadowoliłyby nikogo…
-
-<!-- E303B -->
 
 *— Przed walką —*
 
@@ -430,8 +420,6 @@ Uch… Zdaje się, że właśnie usłyszałem coś niesamowitego, ale przez wrza
 **Dante:** Obydwa dania to klapa…
 Właściciel i zniekształcone surowe kury ruszyły na nas z warkotem.
 Jakby chciały wyładować gniew, który jeszcze nie znalazł ujścia…
-
-<!-- E303A -->
 
 *— Po walce —*
 
@@ -484,8 +472,6 @@ Wszyscy razem podziwialiśmy, jak rzucona przez Heathcliffa patelnia uderza o ś
 > Szans też zostało już chyba niewiele.
 > Pozostaje chyba tylko poprosić tego z Grzeszników, kto wydaje się najbardziej obiecujący…?
 
-<!-- E304B -->
-
 *— Przed walką —*
 
 **Dante:** Hm…
@@ -501,8 +487,6 @@ Wszyscy razem podziwialiśmy, jak rzucona przez Heathcliffa patelnia uderza o ś
 **Właściciel Baru u Eunbong** (*Bar u Eunbong*): …
 **Właściciel Baru u Eunbong:** Gkh!
 Na krótki, dosadny rozkaz zniekształconego właściciela kury rzuciły się na nas wszystkie naraz.
-
-<!-- E304A -->
 
 *— Po walce —*
 
@@ -611,8 +595,6 @@ Heathcliff obierał ziemniaki zaskakująco szybko.
 
 *Miejsce: Kuchnia Baru u Eunbong*
 
-<!-- E305A -->
-
 *— Po walce —*
 
 #### Kuchnia Baru u Eunbong
@@ -658,8 +640,6 @@ Ja…
 **Rodion:** Ale co właściwie było innego w daniu Outi?
 **Outis:** Wkraczamy, żołnierze. Idziemy z tym skończyć.
 
-<!-- E306B -->
-
 *— Po walce —*
 
 #### Bar u Eunbong: przeszłość
@@ -703,8 +683,6 @@ Ja…
 **Outis:** Problemem jest twoja marna postawa!
 **Dante:** Czemu… czemu sama szukasz zaczepki…
 **Outis:** No już! Wyprostuję ci tę beznadziejną postawę!
-
-<!-- E306A -->
 
 *— Po walce —*
 

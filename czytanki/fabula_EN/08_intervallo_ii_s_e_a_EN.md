@@ -14,8 +14,6 @@
 > Taking in the view of the vast and turquoise waters, the Sinners begin excitedly chattering about what they want to do at the beach.
 > But... are we really here on vacation?
 
-<!-- E401B -->
-
 *— Przed walką —*
 
 It’s been about two weeks since we took care of the job at K Corp.
@@ -102,8 +100,6 @@ Only the despairing cries of Sinners echoed in the dark and damp view outside th
 > Though I can see the blue sea in the distance, it feels as far away as a dream... buried in mountains of trash from who-knows-where.
 > What could we possibly be here for?
 
-<!-- E402B -->
-
 *— Przed walką —*
 
 #### ???
@@ -155,8 +151,6 @@ And there it was, all of a sudden... a monster.
 
 > From mountainous refuse, out crawled crustacean creatures covered in all sorts of scrap. According to Ishmael, they're pretty infamous in the Backstreets of U Corp.
 > Speaking of which... I wonder what's going on with her? She's been in the doldrums all day.
-
-<!-- E402A -->
 
 *— Po walce —*
 
@@ -212,8 +206,6 @@ But nothing good could ever come out of this conversation, so I decided to table
 
 > The pair called Mika and Rain seems to have been expecting us. I guess the LCCB already informed them of our arrival.
 > Looks like we're going to have to modify Mephistopheles in order to get to our next destination.
-
-<!-- E403B -->
 
 *— Przed walką —*
 
@@ -362,8 +354,6 @@ Toward where the trash crabs were.
 > I wonder if we can get some time off?
 > If we do... then I should try talking to Ishmael.
 
-<!-- E404B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 21
@@ -452,8 +442,6 @@ The almost icy mood seemed to defrost slightly.
 > Taking Don Quixote and Yi Sang's advice to mend the growing rift between Ishmael and the other Sinners, I decided that we should all try out a few rounds of beach volleyball.
 > Maybe this activity can be an opportunity to build some rapport.
 
-<!-- E405B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 21
@@ -534,8 +522,6 @@ I... really thought that this could be the activity to dramatically bring us all
 > The beach volleyball plan completely backfired…
 > Everyone has a scowl on their face as they fight off the trash crabs.
 > I have to do something about this…
-
-<!-- E405A -->
 
 *— Po walce —*
 
@@ -654,8 +640,6 @@ We spent the next few days collecting scraps with the rest of the Sinners.
 > I decided to watch as the Sinners got to work,
 > wondering what I could do about Ishmael and Heathcliff...
 
-<!-- E406B -->
-
 *— Przed walką —*
 
 The days were as suffocating for them as it was for me.
@@ -749,8 +733,6 @@ Mephistopheles' mise à mer was entering its final stages.
 > Mika grimly requested that everyone gather to watch the test drive.
 > I'm glad that the modifications are finally complete... but can we really press on in this state?
 
-<!-- E407B -->
-
 *— Przed walką —*
 
 #### Molar Boatworks Entrance
@@ -842,8 +824,6 @@ Visions of destruction pass before me.
 Limbs and bits of flesh tear off in the shredding storm that brings crashing waves, Ishmael clings to the ship for dear life...
 And a behemoth of an eye, its overwhelming and all-consuming size looming over the ship, watches her in silence.
 Perhaps... This could be a clue to Ishmael's perplexing behavior.
-
-<!-- E407A -->
 
 *— Po walce —*
 

@@ -12,17 +12,17 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Gałąź Wiedzy | Podstawowy Sprzęt E.G.O Sinclair |
-| Nadchodzący Dzień | Wyłączny Sprzęt E.G.O Sinclair |
-| Dożywotni Gulasz | Wyłączny Sprzęt E.G.O Sinclair |
-| Lampa | Wyłączny Sprzęt E.G.O Sinclair |
-| 9:2 | Wyłączny Sprzęt E.G.O Sinclair |
-| Niskie Ualenie | Wyłączny Sprzęt E.G.O Sinclair |
-| Gwóźdź Klątwy | Wyłączny Sprzęt E.G.O Sinclair |
-| Łzy Splamionej Krwi [汚血泣淚] | Wyłączny Sprzęt E.G.O Sinclair |
-| Harmonia | Wyłączny Sprzęt E.G.O Sinclair |
+| Karta                          | Podtytuł                         |
+| ------------------------------ | -------------------------------- |
+| Gałąź Wiedzy                   | Podstawowy Sprzęt E.G.O Sinclair |
+| Nadchodzący Dzień              | Wyłączny Sprzęt E.G.O Sinclair   |
+| Dożywotni Gulasz               | Wyłączny Sprzęt E.G.O Sinclair   |
+| Lampa                          | Wyłączny Sprzęt E.G.O Sinclair   |
+| 9:2                            | Wyłączny Sprzęt E.G.O Sinclair   |
+| Niskie Ualenie                 | Wyłączny Sprzęt E.G.O Sinclair   |
+| Gwóźdź Klątwy                  | Wyłączny Sprzęt E.G.O Sinclair   |
+| Łzy Splamionej Krwi [汚血泣淚] | Wyłączny Sprzęt E.G.O Sinclair   |
+| Harmonia                       | Wyłączny Sprzęt E.G.O Sinclair   |
 
 ## Karty
 
@@ -32,10 +32,10 @@
 
 #### Przebudzenie: Gałąź Wiedzy
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Slash | 10 | +15 | 1 | +3 | 1 |
-| 3 | Obżar. | Slash | 14 | +15 | 1 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Slash |         10 |        +15 |      1 |           +3 |    1 |
+|          3 | Obżar. | Slash |         14 |        +15 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] nakłada 6 [Rozdarcie]  
 Moneta 1: [Przy Trafieniu] traci 10 SP
@@ -55,9 +55,9 @@ Moneta 1: [Trafienie Rewersem] zyskuje 10 SP. następnej tury zyskuje 1 [Ochrona
 #### Przebudzenie: Nadchodzący Dzień
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Hit | 24 | −8 | 1 | +1 | 1 |
-| 3 | Gniew | Hit | 28 | −8 | 1 | +1 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Hit |         24 |         −8 |      1 |           +1 |    1 |
+|          3 | Gniew  | Hit |         28 |         −8 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* przy HP celu niższym niż 25%, zadaje +10% obrażeń  
 Moneta 1: [Przy Zabiciu] odzyskuje HP równe 10% Maks. HP dla wszystkich sojuszników
@@ -73,9 +73,9 @@ Moneta 1: [Przy Zabiciu] odzyskuje HP równe 15% Maks. HP dla wszystkich sojuszn
 #### Erozja: Nadchodzący Dzień
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Hit | 24 | −8 | 1 | +1 | 1 |
-| 3 | Gniew | Hit | 28 | −8 | 1 | +1 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Hit |         24 |         −8 |      1 |           +1 |    1 |
+|          3 | Gniew  | Hit |         28 |         −8 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -101,11 +101,11 @@ Moneta 1: [Nieudane Zabicie] następnej tury zyskuje 3 [Wzrost Mocy Ataku]
 #### Przebudzenie: Dożywotni Gulasz
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 16 | −8 | 1 | −2 | 3 |
-| 3 | Żądza | Hit | 18 | −8 | 1 | −2 | 3 |
-| 4 | Żądza | Hit | 18 | −8 | 1 | −2 | 7 |
-| 5 | Żądza | Hit | 24 | −8 | 1 | −2 | 7 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         16 |         −8 |      1 |           −2 |    3 |
+|          3 | Żądza  | Hit |         18 |         −8 |      1 |           −2 |    3 |
+|          4 | Żądza  | Hit |         18 |         −8 |      1 |           −2 |    7 |
+|          5 | Żądza  | Hit |         24 |         −8 |      1 |           −2 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najniższym HP  
@@ -142,10 +142,10 @@ Moneta 1: [Trafienie Rewersem] nakłada 7 [Podpalenie]
 #### Erozja: Dożywotni Gulasz
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 20 | −12 | 1 | +1 | 3 |
-| 3 | Żądza | Hit | 24 | −12 | 1 | +1 | 3 |
-| 5 | Żądza | Hit | 28 | −12 | 1 | +1 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         20 |        −12 |      1 |           +1 |    3 |
+|          3 | Żądza  | Hit |         24 |        −12 |      1 |           +1 |    3 |
+|          5 | Żądza  | Hit |         28 |        −12 |      1 |           +1 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najniższym HP  
@@ -182,9 +182,9 @@ Moneta 1: [Trafienie bez Pęknięcia] jeżeli zużyto zasób E.G.O przez efekt t
 
 #### Przebudzenie: Lampa
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Slash | 18 | +6 | 1 | −2 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Slash |         18 |         +6 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 3 Rozdarcia  
 Moneta 1: [Przy Trafieniu] leczy 2 sojuszników z najniższym aktualnym procentem HP o 10% Maks. HP.
@@ -199,9 +199,9 @@ Moneta 1: [Przy Trafieniu] leczy 2 sojuszników z najniższym aktualnym procente
 
 #### Erozja: Lampa
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Slash | 30 | −12 | 1 | +1 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Slash |         30 |        −12 |      1 |           +1 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najwyższym HP  
@@ -229,8 +229,8 @@ Moneta 1: [Przy Trafieniu] leczy własne HP o 50% zadanych obrażeń
 #### Przebudzenie: 9:2
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 26 | −10 | 1 | +0 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         26 |        −10 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] jeżeli cel nie ma [Podpalenie], nakłada 4 Podpalenia  
 Moneta 1: [Przy Trafieniu] nakłada 4 Podpalenia
@@ -248,8 +248,8 @@ Moneta 1: [Trafienie Rewersem] jeżeli cel ma 10+ [Podpalenie], następnej tury 
 #### Erozja: 9:2
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 33 | −16 | 1 | +0 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         33 |        −16 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -277,9 +277,9 @@ Moneta 1: [Trafienie Rewersem] jeżeli cel ma 10+ [Podpalenie], następnej tury 
 
 #### Przebudzenie: Niskie Ualenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 16 | +8 | 1 | −2 | 1 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         16 |         +8 |      1 |           −2 |    1 |
 
 *Od ulepszenia 1:* [Przed Atakiem] przy najwyższym Rezonansie 4+ Waga Ataku +1  
 Moneta 1: [Koniec Ataku] nakłada Tarczę równą 10% Maks. HP tej jednostki na siebie i 1 sojusznika z najniższym aktualnym HP oraz nakłada 2 [Pękająca Bańka]  
@@ -299,9 +299,9 @@ Moneta 1: - przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe e
 
 #### Erozja: Niskie Ualenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 24 | −8 | 1 | +0 | 1 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         24 |         −8 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -337,10 +337,10 @@ Moneta 1: - przy Rezonansie Posępności 4+ dodatkowo nakłada na siebie Tarczę
 
 #### Przebudzenie: Gwóźdź Klątwy
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 7 | +6 | 2 | +0 | 1 |
-| 4 | Zawiść | Penetrate | 9 | +6 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |          7 |         +6 |      2 |           +0 |    1 |
+|          4 | Zawiść | Penetrate |          9 |         +6 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Koniec Ataku] jeżeli cel ma [Klątwa], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Klątwa] o 2  
 Moneta 1: [Trafienie Awersem] Nakłada 2 [Krwawienie]  
@@ -367,10 +367,10 @@ Moneta 2: [Trafienie Awersem] następnej tury nakłada 2 [Spętanie] (1 raz na t
 
 #### Erozja: Gwóźdź Klątwy
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 22 | −6 | 2 | +2 | 3 |
-| 4 | Zawiść | Penetrate | 25 | −6 | 2 | +2 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         22 |         −6 |      2 |           +2 |    3 |
+|          4 | Zawiść | Penetrate |         25 |         −6 |      2 |           +2 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -403,9 +403,9 @@ Moneta 2: [Trafienie Rewersem] następnej tury nakłada 2 [Spadek Poziomu Obrony
 
 #### Przebudzenie: Łzy Splamionej Krwi
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 8 | +6 | 2 | +0 | 5 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |          8 |         +6 |      2 |           +0 |    5 |
 
 *Od ulepszenia 1:* [Początek Walki] zyskuje [Zakaz [不許]]  
 [Przed Atakiem] zyskuje tyle [Igła Pogrzebania Kwiatów [埋花針]], ile wynosi Rezonans Obżarstwa (maks. 5)  
@@ -442,9 +442,9 @@ Moneta 2: [Ponowne Użycie - Przy Trafieniu] zużywa całe własne HP, by zadawa
 
 #### Erozja: Łzy Splamionej Krwi
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 20 | −8 | 2 | +2 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         20 |         −8 |      2 |           +2 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -488,9 +488,9 @@ Moneta 2: [Ponowne Użycie - Przy Trafieniu] zużywa całe własne HP, by zadawa
 
 #### Przebudzenie: Harmonia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 6 | +2 | 3 | +2 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |          6 |         +2 |      3 |           +2 |    3 |
 
 *Od ulepszenia 1:* Moc Walki +1 za każde 2 (suma [Krwawienie] i [Podpalenie]) na celu głównym (maks. 6)  
 zadaje więcej obrażeń w zależności od brakującego HP (maks. 10%)  
@@ -539,9 +539,9 @@ Moneta 3: [Przy Trafieniu] 1 losowy sojusznik następnej tury zyskuje 1 ~ 3 [Ryt
 
 #### Erozja: Harmonia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 14 | −2 | 3 | +4 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |         14 |         −2 |      3 |           +4 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

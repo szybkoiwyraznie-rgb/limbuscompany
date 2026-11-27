@@ -6,8 +6,6 @@
 
 ### Etap 1 · A Notable Change
 
-<!-- E050X -->
-
 #### Dante's Room
 
 It's been a long while since I was able to relax like this, all alone in my room with not a concern in my mind.

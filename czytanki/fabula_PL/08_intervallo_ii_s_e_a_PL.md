@@ -14,8 +14,6 @@
 > Na widok rozległego błękitnego brzegu Grzesznicy z przejęciem zaczęli snuć plany plażowego wypoczynku.
 > Tylko… czy naprawdę przyjechaliśmy tu odpoczywać?
 
-<!-- E401B -->
-
 *— Przed walką —*
 
 It’s been about two weeks since we took care of the job at K Corp.
@@ -102,8 +100,6 @@ Only the despairing cries of Sinners echoed in the dark and damp view outside th
 > Wokół piętrzą się góry złomu naniesionego nie wiadomo skąd, a błękit wody majaczy w oddali niczym nieosiągalne marzenie.
 > Co my tu właściwie mamy robić?
 
-<!-- E402B -->
-
 *— Przed walką —*
 
 #### ???
@@ -155,8 +151,6 @@ And there it was, all of a sudden... a monster.
 
 > W hałdach odpadów czaiły się stworzenia przypominające kraby oblepione rozmaitym żelastwem. Sądząc po słowach Ishmael, słyną z nich tutejsze Zaułki U Corp.
 > Swoją drogą, Ishmael od rana chodzi posępna… O co może chodzić?
-
-<!-- E402A -->
 
 *— Po walce —*
 
@@ -212,8 +206,6 @@ But nothing good could ever come out of this conversation, so I decided to table
 
 > Dwójka imieniem Mika i Rain najwyraźniej już na nas czekała — widać LCCB uprzedziło ich o naszym przybyciu.
 > Aby dotrzeć do kolejnego celu, musimy przebudować tutaj Mefistofelesa.
-
-<!-- E403B -->
 
 *— Przed walką —*
 
@@ -362,8 +354,6 @@ Toward where the trash crabs were.
 > Ciekawe, czy dostaniemy chwilę wytchnienia?
 > Jeśli tak… powinienem w tym czasie porozmawiać z Ishmael.
 
-<!-- E404B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 21
@@ -452,8 +442,6 @@ The almost icy mood seemed to defrost slightly.
 > Zastanawiając się, jak załagodzić narastający rozłam między Ishmael a resztą Grzeszników, za radą Don Quixote i Yi Sanga zarządziłem mecz siatkówki plażowej.
 > Oby wspólny ruch zbliżył wszystkich do siebie.
 
-<!-- E405B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 21
@@ -534,8 +522,6 @@ I... really thought that this could be the activity to dramatically bring us all
 > Wbrew nadziejom… siatkówka plażowa zakończyła się kompletną klapą.
 > Wszyscy z posępnymi minami walczą ze Złomokrabami.
 > Chyba… muszę wreszcie zabrać głos.
-
-<!-- E405A -->
 
 *— Po walce —*
 
@@ -654,8 +640,6 @@ We spent the next few days collecting scraps with the rest of the Sinners.
 > Przyglądałem się z oddali pracującym Grzesznikom,
 > głowiąc się, co począć z Ishmael i Heathcliffem…
 
-<!-- E406B -->
-
 *— Przed walką —*
 
 The days were as suffocating for them as it was for me.
@@ -749,8 +733,6 @@ Mephistopheles' mise à mer was entering its final stages.
 > Mika z poważną miną poprosiła, bym zebrał wszystkich na rejs próbny.
 > Cieszę się z ukończenia prac… ale czy naprawdę możemy ruszać dalej w takim stanie?
 
-<!-- E407B -->
-
 *— Przed walką —*
 
 #### Molar Boatworks Entrance
@@ -842,8 +824,6 @@ Visions of destruction pass before me.
 Limbs and bits of flesh tear off in the shredding storm that brings crashing waves, Ishmael clings to the ship for dear life...
 And a behemoth of an eye, its overwhelming and all-consuming size looming over the ship, watches her in silence.
 Perhaps... This could be a clue to Ishmael's perplexing behavior.
-
-<!-- E407A -->
 
 *— Po walce —*
 

@@ -13,8 +13,6 @@
 > Our wait in the Lake grows ever longer. One by one, the Sinners begin succumbing to the tedium.
 > Then Heathcliff suddenly and anxiously calls over to Vergilius...
 
-<!-- E501B -->
-
 *— Przed walką —*
 
 #### Cabins of Mephistopheles
@@ -129,8 +127,6 @@ Don Quixote wore a confident smile. She slowly, gingerly walked over to presentl
 > Don Quixote brought us to the helm of the ship.
 > There it was, the monitor that Faust would analyze whenever we had a Backdoor volatility. ... And there they were again, those unknown symbols.
 
-<!-- E502B -->
-
 *— Przed walką —*
 
 #### Cabins of Mephistopheles
@@ -231,8 +227,6 @@ We agreed on a precise time before returning to our respective rooms.
 
 > We entered the Backdoor Don Quixote claimed to have seen. In it was... what appeared to be a factory.
 > Clearly not her first time in this establishment, Don Quixote calls over to someone...
-
-<!-- E503B -->
 
 *— Przed walką —*
 
@@ -420,8 +414,6 @@ This was absolutely not worth it.
 **Dodoru:** Grab your tool-omes! Fresh, locally produced materials coming up-ome!!!
 **Heathcliff:** Right then! Let's crack on, you little shitbags!
 
-<!-- E503A -->
-
 *— Po walce —*
 
 **Heathcliff:** Tsk... These were some fierce sods...
@@ -450,8 +442,6 @@ Faust did tell me that each district within the City had different cultures and 
 
 > What popped out from the sack we found atop the sleigh were... several mutilated bodies and a small child.
 > It looks like they were kidnapped here... I wonder what happened.
-
-<!-- E504B -->
 
 *— Przed walką —*
 
@@ -527,8 +517,6 @@ I bolted up and looked toward the voice. There, I saw another door...
 > Heathcliff and Don Quixote were both out cold, but I managed to survive thanks to the Sinners who came for me.
 > ... But I don't see the two unconscious Sinners anywhere.
 
-<!-- E505B -->
-
 *— Przed walką —*
 
 #### Gift Factory Reception Hall
@@ -587,8 +575,6 @@ I told them exactly how the events transpired.
 **Yi Sang:** Dante, come hither to the back of the line.
 The door slammed open, and gnomes began flooding into the room. We prepared ourselves for battle.
 
-<!-- E505A -->
-
 *— Po walce —*
 
 **Ishmael:** I can see their similarities with humans... but they certainly aren't humans.
@@ -611,8 +597,6 @@ Ishmael kicked open the door the gnomes rushed in from.
 
 > The factory was much larger and much more complicated than it first appeared. Who are the gnomes making these gifts for? And why?
 
-<!-- E506B -->
-
 *— Przed walką —*
 
 #### Gift Factory Collection Line
@@ -631,8 +615,6 @@ Sinclair looked to the ground with a somber expression.
 I wanted to say 'no chance', but... the City and the Wings that we've experienced so far were...
 **Dante:** Yeah, I can see that.
 ... Yeah. There was a non-zero chance of that being the case.
-
-<!-- E506A -->
 
 *— Po walce —*
 
@@ -664,8 +646,6 @@ After a long silence, Meursault spoke up. He pointed in a direction.
 
 > The location pointed out by Meursault was the gift assembly line. The sight of them assembling gifts with the 'materials' they kidnapped was... shocking.
 > And the two Sinners we were searching for were also about to be turned into gifts themselves.
-
-<!-- E507B -->
 
 *— Przed walką —*
 
@@ -715,8 +695,6 @@ Looks like we got here in the nick of time. Heathcliff was about to be shoved in
 **Ishmael:** Right. Get a hold of yourself, you two.
 **Ishmael:** Manager... what now?
 **Dante:** Well... we've got to trash this place. Come on. Get ready to wear your Identities.
-
-<!-- E507A -->
 
 *— Po walce —*
 
@@ -816,8 +794,6 @@ After silencing the pair with a short, stern command, Outis approached me and sp
 
 > Our negotiation attempt with the beard giant Santata predictably fell through. We have no choice but to defeat him here.
 
-<!-- E508A -->
-
 *— Po walce —*
 
 #### Gift Assembly
@@ -842,8 +818,6 @@ The man who staked Santata's gut explained as he approached us.
 *Miejsce: Gift Assembly*
 
 > We defeated Santata, but his body begins to expand as though it's about to explode. That's when we hear a sudden, unfamiliar voice from somewhere...
-
-<!-- E509B -->
 
 *— Przed walką —*
 

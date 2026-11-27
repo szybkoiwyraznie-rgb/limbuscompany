@@ -8,8 +8,6 @@
 
 ### Etap 1 · Nieznane Morze
 
-<!-- PC01B -->
-
 *— Przed walką —*
 
 #### ???
@@ -192,8 +190,6 @@ as Ishmael seemed to be a lot more apprehensive about these monsters than anyone
 **Dante:** Doesn’t seem like we can talk things out with them, though.
 **Dante:** So… let’s take them out!
 
-<!-- PC01A -->
-
 *— Po walce —*
 
 **Amiya:** All remaining enemies have retreated to the sea. Good work, everyone.
@@ -245,8 +241,6 @@ Skadi’s concern only served to fan my curiosity, but…
 … something about her expression communicated that I probably shouldn’t pry, so I quietly quickened my pace as we walked to the village.
 
 ### Etap 2 · Wioska Martwej Latarni
-
-<!-- PC02B -->
 
 *— Przed walką —*
 
@@ -426,8 +420,6 @@ Skadi nodded lightly before leaping off into the night, out of our sights.
 Trying our best to ignore the mood that was starting to turn awkward, we made our way into a nearby unoccupied building.
 
 ### Etap 3 · Terra
-
-<!-- PC03B -->
 
 *— Przed walką —*
 
@@ -645,8 +637,6 @@ But it seemed that the lives its people led were just as difficult as they were 
 
 ### Etap 4 · Statek Masas
 
-<!-- PC04B -->
-
 *— Przed walką —*
 
 #### Faro Muerto, Coast
@@ -788,8 +778,6 @@ Something about how we keep finding these similarities in the ways of our lives,
 
 ### Etap 5 · Mała Fala
 
-<!-- PC05A -->
-
 *— Po walce —*
 
 #### Faro Muerto, Coast
@@ -865,8 +853,6 @@ As we were conversing, Faust descended from the ship with a neatly organized set
 **Dante:** Yeah. Back to the village for now...
 
 ### Etap 6 · Inkwizytor
-
-<!-- PC06B -->
 
 *— Przed walką —*
 
@@ -1019,8 +1005,6 @@ I didn’t quite grasp its significance, but it seemed to surprise the Inquisito
 **Mayors:** That’s what they call the calamity that destroyed Iberia.
 
 ### Etap 7 · Obracający się Zegar
-
-<!-- PC07B -->
 
 *— Przed walką —*
 
@@ -1203,8 +1187,6 @@ I couldn’t stop shaking—all of my limbs were trembling from the icy solitude
 **Fabius:** How unfortunate.
 **Fabius:** I had high hopes that all of you would become fine bloodkins.
 
-<!-- PC07A -->
-
 *— Po walce —*
 
 **Dante:** W-wait, I think they’re heading to—
@@ -1238,8 +1220,6 @@ The vessel Masas soon disappeared into the mist, and…
 ... Leaving only Mayors.
 
 ### Etap 8 · Porozumienie Trójstronne
-
-<!-- PC08B -->
 
 *— Przed walką —*
 
@@ -1345,8 +1325,6 @@ Irene eventually agreed to put her trust in Mayors.
 Thanks to Skadi, who had already finished the first step of the plan, we were able to move on to step two immediately.
 
 ### Etap 9 · Operacja Odbicia Latarni
-
-<!-- PC09B -->
 
 *— Przed walką —*
 
@@ -1460,8 +1438,6 @@ Faust’s reply sounded almost sulking, but Don Quixote immediately began to exp
 
 ### Etap 11 · Rycerz z Baśni
 
-<!-- PC11B -->
-
 *— Przed walką —*
 
 #### Eye of Iberia, Entrance
@@ -1500,8 +1476,6 @@ The figure looked a lot like one of those ‘knights’ of the City's western re
 Waves crest high and violent behind the spear-wielding knight.
 We have to protect the already precarious lighthouse against the knight…
 The knight begins to charge at us, his steed splitting the very sea—and I instinctively know that this isn't going to be easy.
-
-<!-- PC11A -->
 
 *— Po walce —*
 
@@ -1587,8 +1561,6 @@ Skadi listened to us quietly before replying in the exact same manner as she did
 **Rodion:** What an oddball.
 
 ### Etap 12 · Rhodes Island
-
-<!-- PC12B -->
 
 *— Przed walką —*
 
@@ -1684,8 +1656,6 @@ Our style is...
 **Dante:** ... Trust me to bring you back, no matter how many times they cut you down.
 **Dante:** Let's wipe them out.
 
-<!-- PC12A -->
-
 *— Po walce —*
 
 **Irene:** They’re pretty persistent…!
@@ -1737,8 +1707,6 @@ We turned away from this scene that could not be described as anything else othe
 **Dante:** Mayors… was the Bishop of the Deep.
 
 ### Etap 9 · Operacja Odbicia Latarni
-
-<!-- PC14I -->
 
 *— W trakcie walki —*
 
@@ -1864,8 +1832,6 @@ If Mayors’s wish is to achieve an altruistic world, then…
 **Mayors, Tęskniący Dryf:** …….
 **Hong Lu:** Trying to carry such a heavy burden all by yourself, Miss Mayors, it's…
 **Hong Lu:** … such a prideful thing to do.
-
-<!-- PC14A -->
 
 *— Po walce —*
 
@@ -2039,8 +2005,6 @@ The Sinners each begin waking up, some of them looking around to get their beari
 Like they were just pulled out of a long dream.
 
 ### Etap 13 · Światło Miasta
-
-<!-- PC13B -->
 
 *— Przed walką —*
 
@@ -2280,8 +2244,6 @@ Following Mayors, who had already disappeared into the portal...
 ... we take our steps into the utopian world beyond.
 
 ### Scena
-
-<!-- PC14B -->
 
 #### Ægir, Mayors's House
 

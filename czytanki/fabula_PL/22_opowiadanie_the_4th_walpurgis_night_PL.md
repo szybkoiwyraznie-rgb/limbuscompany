@@ -6,8 +6,6 @@
 
 ### Etap 1 · Fioletowa Próba
 
-<!-- E064X -->
-
 #### L Corp. Headquarters?
 
 **Dante:** Alright... I did as you asked, Faust.
@@ -93,8 +91,6 @@ Even though she probably didn't have much to tell me about them anyway.
 **Ishmael:** Yeah, yeah. Zip it and grab your weapon. I'm going in!
 
 ### Etap 2 · Obdarz Nas Miłością
-
-<!-- E065X -->
 
 Some time later...
 

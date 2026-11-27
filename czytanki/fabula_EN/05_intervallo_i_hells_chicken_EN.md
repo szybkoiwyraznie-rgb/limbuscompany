@@ -14,8 +14,6 @@
 > As a whiff of a roasty scent was about to take the Sinners for a nostalgia trip, a flock of walking raw chickens began to attack them.
 > Are they trying to exact revenge for all their brethren that humans fried and gobbled up…?
 
-<!-- E301B -->
-
 *— Przed walką —*
 
 #### Nest K Downtown Alley
@@ -65,8 +63,6 @@ As Ryōshū furiously reached for her sheath, those things came right for us…
 **???:** Hm, it appears that combat is going to be our sole recourse.
 **Dante:** So why is this guy taking cover behind me then?
 Before I could complain further, the chicken-headed crowd attacked us.
-
-<!-- E301A -->
 
 *— Po walce —*
 
@@ -169,8 +165,6 @@ I watched as Rodya wiped Don Quixote’s mouth clean.
 > One idea we came up with to unravel the Distortion… was to present some “chicken-based cooking” that would appease it.
 > The Sinners confidently start preparing their dishes, but…
 > Shouldn’t they put their cigarettes out first?
-
-<!-- E302B -->
 
 *— Przed walką —*
 
@@ -347,8 +341,6 @@ An angered flock of chickens fluttered to intimidate the sudden intruders, but m
 **Gregor & Ryōshū** (*Sinners*): Get in my way and you’re all getting chopped! Get in my way and you’re all getting sliced!
 **Dante:** You guys look more in sync now…
 
-<!-- E302A -->
-
 *— Po walce —*
 
 #### Eunbong’s Bar & Fryers Kitchen
@@ -377,8 +369,6 @@ Of course, as expected, the sound of a cigarette being snuffed out only came fro
 > I still don’t get how this turned into a competition…
 > But, in any case, they have a long way to go to sate the distorted restaurant owner’s palate.
 > Or anyone else’s, if I’m being honest here…
-
-<!-- E303B -->
 
 *— Przed walką —*
 
@@ -422,8 +412,6 @@ Ugh… I think I just heard a staggering statement, but the owner’s cries are 
 **Dante:** Looks like both your dishes failed…
 The owner and his chickens came at us with growls.
 As if to express their master’s anger in full…
-
-<!-- E303A -->
 
 *— Po walce —*
 
@@ -475,8 +463,6 @@ Everyone watched as the pan Heathcliff threw hit a wall and broke into pieces.
 > We only have a few chances remaining, too.
 > It looks like our only option is to count on the Sinners who seem like they know their stuff, I hope…?
 
-<!-- E304B -->
-
 *— Przed walką —*
 
 **Dante:** Hm…
@@ -492,8 +478,6 @@ Everyone watched as the pan Heathcliff threw hit a wall and broke into pieces.
 **Eunbong’s Bar & Fryers Owner** (*Eunbong’s Bar & Fryers*): ……
 **Eunbong’s Bar & Fryers Owner:** Grhkk!
 The chickens rushed at us under the Distorted restaurant owner’s short yet decisive order.
-
-<!-- E304A -->
 
 *— Po walce —*
 
@@ -602,8 +586,6 @@ Heathcliff was peeling ingredients at a surprisingly brisk pace.
 
 *Miejsce: Eunbong’s Bar & Fryers Kitchen*
 
-<!-- E305A -->
-
 *— Po walce —*
 
 #### Eunbong’s Bar & Fryers Kitchen
@@ -649,8 +631,6 @@ I…
 **Rodion:** What made Outie’s dish stand out anyway?
 **Outis:** Let us march, soldiers. May we see the end of this.
 
-<!-- E306B -->
-
 *— Po walce —*
 
 #### Eunbong’s Bar & Fryers - The Past
@@ -694,8 +674,6 @@ I…
 **Outis:** The problem is still your weak will!
 **Dante:** Just… Why are you so eager to start fights…
 **Outis:** Come! I will fix that helpless attitude of yours!
-
-<!-- E306A -->
 
 *— Po walce —*
 

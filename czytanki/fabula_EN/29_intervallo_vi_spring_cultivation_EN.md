@@ -8,8 +8,6 @@
 
 ### Etap 1 · The Family Hierarch's Proof
 
-<!-- E801B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Heishou Houses Assembly
@@ -188,8 +186,6 @@ Zigong gestured confidently toward the flabbergasted Sinners, and the assembly c
 
 ### Etap 2 · Twelve Teachers
 
-<!-- E802B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Yihongyuan Interior
@@ -290,8 +286,6 @@ Wait, is that... supposed to be Zigong's grimace?
 **Zigong:** The recent events have taught me that… the path of learning is truly one without end.
 
 ### Etap 3 · Another Student
-
-<!-- E803B -->
 
 *— Przed walką —*
 
@@ -497,8 +491,6 @@ Sinclair began to explain, seemingly resigned to the fact that he was essentiall
 
 ### Etap 4 · Thirty Days of Classes
 
-<!-- ES000B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Special Lecture Hall
@@ -540,8 +532,6 @@ Zilu and Saude appeared to have aged several years overnight, their faces sunken
 Despite her protestations…
 The thirty days of classes commenced.
 
-<!-- ES011B -->
-
 *— Przed walką —*
 
 **Yi Sang:** My name is Yi Sang. That is all.
@@ -564,8 +554,6 @@ The thirty days of classes commenced.
 **Yi Sang:** It reflects the potentialities, the latent strength, and the world.
 **Yi Sang:** Yet, even among them, the reflection of the greatest importance is... that of the self.
 **Yi Sang:** Let not the innumerable worlds of the Mirror enchant your gaze; first, one must direct their studies inward and reflect upon oneself.
-
-<!-- ES011A -->
 
 *— Po walce —*
 
@@ -604,8 +592,6 @@ For some reason, Xichun appeared to hesitate before the mirror.
 But it seemed like Sinclair couldn't really bring himself to face the mirror.
 **Jia Xichun:** Hey, after what we just discussed, I think... I think I understand something now.
 **Jia Xichun:** Now that I've had some quiet time looking at my reflection, I think I uncovered a part of myself I've had hidden away for a long time.
-
-<!-- ES013B -->
 
 *— Przed walką —*
 
@@ -668,8 +654,6 @@ I tick-tocked in response.
 **Don Quixote:** Much did I anticipate an opportunity to regale these tales to such audience... Enough to study the ways of minstrels!
 ... There was a clear look of pride in her twinkling eyes.
 
-<!-- ES013A -->
-
 *— Po walce —*
 
 **Don Quixote:** What was the secret technique honorable Fixer Lysander employed in his resolution of the case of the Fae Forest? Speak its name in full!
@@ -695,8 +679,6 @@ Don Quixote, who was watching Sinclair and Jia Xichun's two-person play, silentl
 **Jia Xichun:** I get why she's so obsessed with Fixers...
 Clutched tightly in Xichun's hands were the badges Don Quixote had gifted to her.
 
-<!-- ES012B -->
-
 *— Przed walką —*
 
 Boom!
@@ -709,8 +691,6 @@ Boom!
 **Faust:** Mephistopheles is indeed Faust's work, but not all of it was mine. It is possible that Faust may never reveal every small detail that went into its creation.
 **Faust:** I would very much enjoy a chance to completely disassemble it, even its engines, so that it could be reassembled with my own hands.
 **Sinclair:** Y-yeah, sure...
-
-<!-- ES012A -->
 
 *— Po walce —*
 
@@ -726,8 +706,6 @@ BANG!!!
 **Faust:** …….
 **Faust:** Hm. The voltage must have been set too high. Repeating experiment with a different combination of fuses and wires.
 **Sinclair:** ... There was supposed to be a lesson somewhere in there, right?
-
-<!-- ES040B -->
 
 *— Przed walką —*
 
@@ -750,8 +728,6 @@ His left hand was trembling as though the room's temperature had plummeted only 
 **Gregor:** Man, do I appreciate that sentiment.
 **Gregor:** Well, still, though. I can't dilly-dally when Miss Xichun's got other stuff to deal with, huh?
 **Gregor:** So... let's take a look at how things were at the very beginning of the Wing War.
-
-<!-- ES040A -->
 
 *— Po walce —*
 
@@ -777,8 +753,6 @@ There, he must've witnessed things far worse than the worst the City presently h
 **Gregor:** …….
 Even after the two students had left, Gregor lingered in that room for a while, lighting up cigarette after cigarette without erasing what he wrote on the chalkboard. Smoke soon filled the room...
 He left only after almost emptying the entire pack.
-
-<!-- ES050B -->
 
 *— Przed walką —*
 
@@ -844,8 +818,6 @@ The three silver spoons Hong Lu had cast earlier were slowly melting away after 
 **Hong Lu:** You'll get the hang of it after a few tries~
 **Hong Lu:** I'll help you out. Shall we begin with two bowls?
 
-<!-- ES050A -->
-
 *— Po walce —*
 
 **Jia Xichun** (*The Hierarch of Hongyuan*): I see... when you say you just avoided whatever felt wrong with "a hunch", you were reflexively identifying the threat by reading the room and connecting it to your intuitive experiences.
@@ -857,8 +829,6 @@ The three silver spoons Hong Lu had cast earlier were slowly melting away after 
 **Jia Xichun:** Hmph, you're worrying over nothing.
 Jia Xichun whipped around away from Hong Lu as if to express dissatisfaction, but...
 ... her softened expression told me that she was glad to see him worried.
-
-<!-- ES060B -->
 
 *— Przed walką —*
 
@@ -877,8 +847,6 @@ It seemed that Wei's rather funereal voice wasn't just out of his concern for Xi
 **Zigong:** In fact, never have I once seen paperwork trained in the arts of airwalking until now...
 **Zigong:** ... I must be severely sleep-deprived.
 **Dante:** Looks like we're not the only ones going through the wringer...
-
-<!-- ES061B -->
 
 *— Przed walką —*
 
@@ -908,8 +876,6 @@ It seemed that Wei's rather funereal voice wasn't just out of his concern for Xi
 **Jia Xichun:** Good. Come on, let's do this.
 **Jia Xichun:** Many illustrious Fixers of the past have said... that naught but disparagement awaits unjust victories!
 
-<!-- ES061A -->
-
 *— Po walce —*
 
 **Shi Huazhen:** Good for you, you won. Now stop giving me that look and get out of here.
@@ -928,8 +894,6 @@ It seemed that Wei's rather funereal voice wasn't just out of his concern for Xi
 **Shi Huazhen:** You... you knew my name? ... Ma'am?
 **Jia Xichun:** I do.
 **Jia Xichun:** So, what do you think? Wanna make them sing your name in glory for the remaining history of Hongyuan?
-
-<!-- ES030B -->
 
 *— Przed walką —*
 
@@ -985,8 +949,6 @@ Seemingly affected by the oddly familiar setting of the story, Jia Xichun nodded
 **Ishmael:** W-well, you know how it is. The point is, you guys need to go find that sword.
 **Jia Xichun:** Then... I will claim the Tianya Sword, no matter what it costs me.
 Jia Xichun nods with determination.
-
-<!-- ES030A -->
 
 *— Po walce —*
 
@@ -1062,8 +1024,6 @@ After a few turns of various trials and tribulations for Sinclair...
 
 **Dante:** ... I feel like the game overtook the class at some point along the way.
 
-<!-- ES070B -->
-
 *— Przed walką —*
 
 #### Daguanyuan Training Grounds
@@ -1099,8 +1059,6 @@ His eyes snapped open.
 **Sinclair:** Come on, just what did you see—!?
 **Meursault:** Failed again.
 
-<!-- ES090B -->
-
 *— Przed walką —*
 
 **Outis:** ... Atten-tion!
@@ -1133,8 +1091,6 @@ The mention of Hongyuan seemed to put Xichun in a thoughtful mood, as she stoppe
 **Outis:** That, cadets, is what you will be learning today.
 **Outis:** To your positions, cadets.
 
-<!-- ES120B -->
-
 *— Przed walką —*
 
 #### Daguanyuan Sparring Grounds
@@ -1159,8 +1115,6 @@ The mention of Hongyuan seemed to put Xichun in a thoughtful mood, as she stoppe
 **Shi Sijing:** ... That may befit the seat of the Hierarch. However...
 **Shi Sijing:** ... a leader who responds with silence to their inferiors, a leader who considers them only disposable tools is bound to rot!
 **Shi Sijing:** I, Shi Sijing, refuse to let someone so unqualified such as yourself retain power!
-
-<!-- ES120A -->
 
 *— Po walce —*
 
@@ -1188,8 +1142,6 @@ The mention of Hongyuan seemed to put Xichun in a thoughtful mood, as she stoppe
 **Jia Xichun:** Why would any Hierarch go around arresting innocent people of H Corp. left and right, unnecessarily making more enemies for themselves?
 **Jia Xichun:** I sure don't plan on doing that.
 **Shi Sijing:** …….
-
-<!-- ES130B -->
 
 *— Przed walką —*
 
@@ -1233,8 +1185,6 @@ The kid's kinda... trembling and anxious-looking... Hmm...
 **Jia Xichun:** Even worse, you pretty much tricked that kid here using my name... he must be terrified. And I imagine his parents must've given him a whole lot of warnings, too.
 **Ryōshū:** Heh. I'll give you a demonstration. Behold.
 
-<!-- ES130A -->
-
 *— Po walce —*
 
 **Jia Xichun** (*The Hierarch of Hongyuan*): Wow, he's really taken a liking to her.
@@ -1269,8 +1219,6 @@ Sometime later, after Xiren guided the child out of the classroom, I found Jia X
 **Sinclair:** You've got a lot on your plate, huh... Dealing with Restructuring Days is just one of them.
 **Jia Xichun:** Hmph, I was going to try to improve the safety of this place anyway, whether he asked me to or not.
 **Jia Xichun:** Safe enough for a kid like that to run around the market all on his own... A place where he doesn't have to be afraid to go outside...
-
-<!-- ES150B -->
 
 *— Przed walką —*
 
@@ -1343,8 +1291,6 @@ So Wei joined the table.
 **Wei:** I will... bring some tea.
 Wei, victorious, stumbles out of the room with his shoulders slumped.
 
-<!-- ES180B -->
-
 *— Przed walką —*
 
 #### Daguanyuan Sparring Grounds
@@ -1380,8 +1326,6 @@ Wei, victorious, stumbles out of the room with his shoulders slumped.
 **Wang Qingshan:** ... I won't accept you as my Hierarch just yet.
 **Wang Qingshan:** Fight me, and prove that you're at least better than I am. Only then I'll accept you.
 
-<!-- ES180A -->
-
 *— Po walce —*
 
 **Wang Qingshan:** …….
@@ -1409,8 +1353,6 @@ Wei, victorious, stumbles out of the room with his shoulders slumped.
 Wang Qingshan left in a hurry.
 But... that look in her eyes told me that there was conflict brewing in her.
 
-<!-- ES190B -->
-
 *— Przed walką —*
 
 #### Daguanyuan Training Grounds
@@ -1431,8 +1373,6 @@ But... that look in her eyes told me that there was conflict brewing in her.
 **Heathcliff:** Oi, don't you underestimate me just 'coz I'm holdin' a different bludgeon.
 **Heathcliff:** Let's get on with it. Straighten' your shoulders! Eyes wide open! Let's get crackin'!
 With that, Heathcliff triumphantly raised his newfound weapon toward the sky. ... It made a small "boop" noise.
-
-<!-- ES210B -->
 
 *— Przed walką —*
 
@@ -1554,8 +1494,6 @@ Then the Night Drifter giggled flippantly, the suddenly serious attitude nowhere
 **Night Drifter:** Heh heh... been a while since I let myself babble on for this long. I suppose I can credit my foolish pupils for that.
 **Night Drifter:** Prepare to swing away.
 
-<!-- ES240B -->
-
 *— Przed walką —*
 
 #### Daguanyuan Sparring Grounds
@@ -1570,8 +1508,6 @@ Then the Night Drifter giggled flippantly, the suddenly serious attitude nowhere
 **Xue Pan:** All the entertainment in the world seems to have happened during my little nap, don't you think?
 **Jia Xichun:** You didn't even show your face at the regular assembly, so I doubt you've any concern for the future of Hongyuan... so just what are you doing here?
 **Xue Pan:** I just thought I'd have some fun!
-
-<!-- ES240A -->
 
 *— Po walce —*
 
@@ -1609,8 +1545,6 @@ Then the Night Drifter giggled flippantly, the suddenly serious attitude nowhere
 **Jia Xichun:** …….
 **Wei:** ... My lady?
 Jia Xichun seems deeply engrossed in thought.
-
-<!-- ES250B -->
 
 *— Przed walką —*
 
@@ -1671,8 +1605,6 @@ After a long break that seemed to freshen even our hearts...
 **Jia Xichun:** …….
 **Jia Xichun:** Yeah. I do feel a tad more comfortable than I did before.
 
-<!-- ES260B -->
-
 *— Przed walką —*
 
 #### Daguanyuan Training Grounds
@@ -1716,8 +1648,6 @@ Jia Xichun asked with considerable confusion.
 **Jia Xichun:** Hm... you don't want me to go easy on you, do you?
 **Sinclair:** ... I don't.
 
-<!-- ES260A -->
-
 *— Po walce —*
 
 **Heathcliff:** Alright, that's good enough.
@@ -1751,8 +1681,6 @@ It's not like anything bad happened when that mark manifested back in La Manchal
 **Heathcliff:** …….
 **Heathcliff:** ... Somethin' just came up.
 **Heathcliff:** Class dismissed.
-
-<!-- ES280A -->
 
 *— Po walce —*
 
@@ -1797,8 +1725,6 @@ Zilu, who'd been observing the class from a distance, approaches the Night Drift
 **Zilu:** Were you, among the Ten Blades of the East—
 **Night Drifter:** Now, now! It seems entirely unnecessary for you to dig, as I don't quite recall putting anything on your tab. Put your futile questions to rest, for I have no answers to give.
 **Night Drifter:** The past is like smoke; I've long emptied any history worth delving into.
-
-<!-- ES290B -->
 
 *— Przed walką —*
 
@@ -1989,8 +1915,6 @@ Thus the curious case of the alarm clock came to an end.
 **Dante:** ... I see.
 Sinclair and I sat there for a moment, absorbing the awkward silence.
 
-<!-- ES300A -->
-
 *— Po walce —*
 
 ... Finally, the thirty days of lessons were completed, and the day of the final exam was upon us.
@@ -2059,8 +1983,6 @@ Baochai smiled sweetly.
 
 ### Etap 5 · Finals
 
-<!-- E805B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Special Lecture Hall
@@ -2088,8 +2010,6 @@ Baochai smiled sweetly.
 
 ### Etap 6 · Hierarch Rescue Operation
 
-<!-- E806B -->
-
 *— Przed walką —*
 
 We hurried ourselves along the winding passages of Hongyuan.
@@ -2112,8 +2032,6 @@ The shadows slithered into physical form, lapping their purple, serpentine arms 
 **Dante:** Sinclair's right. We don't have any time to waste.
 
 ### Etap 8 · The Adept
-
-<!-- E808B -->
 
 *— Przed walką —*
 
@@ -2138,8 +2056,6 @@ The hooves intermittently kick the ground with anticipation and aggression.
 **Wei?:** I'll ground your filthy scales...
 **Wei?:** ... to dust.
 
-<!-- E808A -->
-
 *— Po walce —*
 
 **Wei** (*Xichun's Clan*): Nngh...
@@ -2158,8 +2074,6 @@ Wei's eyes shook restlessly, lost in the streams of past.
 **Sinclair:** Xichun became the Hierarch to transform Hongyuan into a Nest that serves its lowest.
 
 ### Etap 9 · The Master
-
-<!-- E809B -->
 
 *— Przed walką —*
 
@@ -2194,8 +2108,6 @@ Wei's eyes shook restlessly, lost in the streams of past.
 
 ### Etap 11 · When the Student Becomes the Master
 
-<!-- E811B -->
-
 *— Przed walką —*
 
 #### Pingan Residential Support Zone
@@ -2228,8 +2140,6 @@ But the Heishou wordlessly stood their ground.
 **Jia Xichun:** ... Fine. It's not like stopping one attack makes you our ally.
 **Night Drifter:** At least one of my pupils knows what she's talking about.
 **Night Drifter:** Perhaps I shall open myself a humble wuguan here in Hongyuan once this contract is over.
-
-<!-- E811I1 -->
 
 *— W trakcie etapu —*
 
@@ -2276,8 +2186,6 @@ Jia Xichun wordlessly tightened the grip around her weapon.
 **Night Drifter:** Very good. Emptiness makes for such a pleasant sight, doesn't it?
 The Night Drifter grinned, having caught the encroaching scent of death.
 
-<!-- E811A -->
-
 *— Po walce —*
 
 The Night Drifter stumbled. He smelled of pungent, bitter wine.
@@ -2285,8 +2193,6 @@ The Night Drifter stumbled. He smelled of pungent, bitter wine.
 **Night Drifter:** ... the clear, crisp waters shall spring forth, twinkling under the sun's apricity.
 
 ### Etap 12 · The Proof
-
-<!-- E812B -->
 
 *— Przed walką —*
 

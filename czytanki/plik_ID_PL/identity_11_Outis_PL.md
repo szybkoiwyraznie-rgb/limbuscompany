@@ -24,24 +24,24 @@
 
 ## Katalog Identity
 
-| Rzadkość | Identity | Sezon | Grzech wyróżniony | Słowa kluczowe |
-|---|---|---|---|---|
-| 0 | LCB Grzesznik | 0 | Lenistwo | Rozdarcie |
-| 00 | Ród Ostrza Salsu | 0 | Gniew | Oddech |
-| 00 | Korp. G Główny Kierownik | 1 | Lenistwo | Zatonięcie |
-| 000 | Południowe Stowarzyszenie Seven Sekcja 6 Dyrektor | 0 | Obżar. | Rozdarcie |
-| 000 | Biuro Trzonowca Fixer | 2 | Lenistwo | Wstrząs |
-| 00 | Południowe Stowarzyszenie Cinq Sekcja 4 | 0 | Pycha | Oddech |
-| 000 | Lobotomy E.G.O:: Magic Bullet | wydarzenie 9102 | Pycha | Podpalenie |
-| 000 | Wuthering Heights Kwatermistrz Kamerdynerów | 4 | Pycha | Zatonięcie |
-| 00 | Pointilliści Serdecznego Student | 0 | Żądza | Krwawienie |
-| 000 | Korp. W L3 Kapitan Oczyszczania | 0 | Pycha | Ładowanie, Rozdarcie |
-| 000 | Fryzjer z La Manchaland | 5 | Obżar. | Krwawienie |
-| 000 | Wataha Heishou - Gałąź Mao | 5 | Lenistwo | Rozdarcie |
-| 000 | Korp. T Klasa 3 Personel VDCU | 6 | Pycha | Wstrząs |
-| 000 | LCA Udjat Awangarda Dowódca 3. Zespołu | 7 | Pycha | Wstrząs, Zatonięcie |
-| 000 | Dom Pajęczyn: Środkowa Niania-Ojciec | 7 | Żądza | Podpalenie, Krwawienie |
-| 000 | Biuro Klina Rep | wydarzenie 9110 | Żądza | Wstrząs, Oddech |
+| Rzadkość | Identity                                          |           Sezon | Grzech wyróżniony | Słowa kluczowe         |
+| -------: | ------------------------------------------------- | --------------: | ----------------- | ---------------------- |
+|        0 | LCB Grzesznik                                     |               0 | Lenistwo          | Rozdarcie              |
+|       00 | Ród Ostrza Salsu                                  |               0 | Gniew             | Oddech                 |
+|       00 | Korp. G Główny Kierownik                          |               1 | Lenistwo          | Zatonięcie             |
+|      000 | Południowe Stowarzyszenie Seven Sekcja 6 Dyrektor |               0 | Obżar.            | Rozdarcie              |
+|      000 | Biuro Trzonowca Fixer                             |               2 | Lenistwo          | Wstrząs                |
+|       00 | Południowe Stowarzyszenie Cinq Sekcja 4           |               0 | Pycha             | Oddech                 |
+|      000 | Lobotomy E.G.O:: Magic Bullet                     | wydarzenie 9102 | Pycha             | Podpalenie             |
+|      000 | Wuthering Heights Kwatermistrz Kamerdynerów       |               4 | Pycha             | Zatonięcie             |
+|       00 | Pointilliści Serdecznego Student                  |               0 | Żądza             | Krwawienie             |
+|      000 | Korp. W L3 Kapitan Oczyszczania                   |               0 | Pycha             | Ładowanie, Rozdarcie   |
+|      000 | Fryzjer z La Manchaland                           |               5 | Obżar.            | Krwawienie             |
+|      000 | Wataha Heishou - Gałąź Mao                        |               5 | Lenistwo          | Rozdarcie              |
+|      000 | Korp. T Klasa 3 Personel VDCU                     |               6 | Pycha             | Wstrząs                |
+|      000 | LCA Udjat Awangarda Dowódca 3. Zespołu            |               7 | Pycha             | Wstrząs, Zatonięcie    |
+|      000 | Dom Pajęczyn: Środkowa Niania-Ojciec              |               7 | Żądza             | Podpalenie, Krwawienie |
+|      000 | Biuro Klina Rep                                   | wydarzenie 9110 | Żądza             | Wstrząs, Oddech        |
 
 ## Profile
 
@@ -49,26 +49,26 @@
 
 > Pierwsza Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 0 |
-| Sezon | 0 |
-| HP | 60 (+2,07 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7 |
-| Poziom obrony | poziom −4 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 70% / 40% / 20% |
-| Grzech wyróżniony | Lenistwo |
-| Przynależność | Limbus_Company, Limbus_Company_Lcb |
-| Słowa kluczowe | Rozdarcie |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 0                                                           |
+| Sezon                     | 0                                                           |
+| HP                        | 60 (+2,07 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7                                       |
+| Poziom obrony             | poziom −4                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 70% / 40% / 20%                                             |
+| Grzech wyróżniony         | Lenistwo                                                    |
+| Przynależność             | Limbus_Company, Limbus_Company_Lcb                          |
+| Słowa kluczowe            | Rozdarcie                                                   |
+| Data aktualizacji         | 20230227                                                    |
 
 #### Umiejętność 1 (×3): Wyjęty Ostrze
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Kłucie | 3 | +1 | 3 | +3 | 1 |
-| 3 | Lenistwo | Kłucie | 3 | +2 | 3 | +3 | 1 |
+| Ulepszenie | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Kłucie |          3 |         +1 |      3 |           +3 |    1 |
+|          3 | Lenistwo | Kłucie |          3 |         +2 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [Trafienie Awersem] Nakłada 2 Rozdarcia
 
@@ -79,11 +79,11 @@ Moneta 3: [Trafienie Awersem] Nakłada 1 Rozdarcia
 
 #### Umiejętność 2 (×2): Cięcie od Tyłu
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Cięcie | 3 | +4 | 2 | +3 | 1 |
-| 3 | Pycha | Cięcie | 4 | +4 | 2 | +3 | 1 |
-| 4 | Pycha | Cięcie | 5 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Cięcie |          3 |         +4 |      2 |           +3 |    1 |
+|          3 | Pycha  | Cięcie |          4 |         +4 |      2 |           +3 |    1 |
+|          4 | Pycha  | Cięcie |          5 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: Jeżeli Szybkość jest wyższa niż celu, zadaje +10% obrażeń  
 Moneta 2: Jeżeli Szybkość jest wyższa niż celu, zadaje +10% obrażeń
@@ -93,10 +93,10 @@ Moneta 2: Jeżeli Szybkość jest wyższa niż celu, zadaje +20% obrażeń
 
 #### Umiejętność 3 (×1): Przebijające Dzierżenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Posępność | Kłucie | 6 | +14 | 1 | +3 | 1 |
-| 4 | Posępność | Kłucie | 7 | +14 | 1 | +3 | 1 |
+| Ulepszenie | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Posępność | Kłucie |          6 |        +14 |      1 |           +3 |    1 |
+|          4 | Posępność | Kłucie |          7 |        +14 |      1 |           +3 |    1 |
 
 *Od ulepszenia 3:* Jeżeli HP celu wynosi 50% lub więcej, zadaje +20% obrażeń
 
@@ -105,10 +105,10 @@ Moneta 1: [Przy Trafieniu] Zwiększa Licznik Rozdarcia o 1
 
 #### Obrona: Unik
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 2 | +10 | 1 | −3 | 1 |
-| 4 | Lenistwo | obrona: unik | 2 | +10 | 1 | −3 | 1 |
+| Ulepszenie | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral  | obrona: unik |          2 |        +10 |      1 |           −3 |    1 |
+|          4 | Lenistwo | obrona: unik |          2 |        +10 |      1 |           −3 |    1 |
 
 #### Pasywka bojowa: Egzekutor
 
@@ -150,26 +150,26 @@ Gdy Poczytalność celu jest poniżej 0, zadaje +10% obrażeń
 
 > Druga Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 0 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 1–4 / 1–5 / 2–5 / 2–5 |
-| Poziom obrony | poziom +0 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×2 (Fatal), Obuch ×1 (Normal) |
-| Progi Stagger (HP) | 65% / 35% / 15% |
-| Grzech wyróżniony | Gniew |
-| Przynależność | Blade_Lineage |
-| Słowa kluczowe | Oddech |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 00                                                          |
+| Sezon                     | 0                                                           |
+| HP                        | 82 (+2,82 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 1–4 / 1–5 / 2–5 / 2–5                                       |
+| Poziom obrony             | poziom +0                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×2 (Fatal), Obuch ×1 (Normal) |
+| Progi Stagger (HP)        | 65% / 35% / 15%                                             |
+| Grzech wyróżniony         | Gniew                                                       |
+| Przynależność             | Blade_Lineage                                               |
+| Słowa kluczowe            | Oddech                                                      |
+| Data aktualizacji         | 20230227                                                    |
 
 #### Umiejętność 1 (×3): Dobycie Ostrza
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Cięcie | 3 | +6 | 1 | +1 | 1 |
-| 3 | Gniew | Cięcie | 4 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Cięcie |          3 |         +6 |      1 |           +1 |    1 |
+|          3 | Gniew  | Cięcie |          4 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Zyskuje 2 Oddechu
 
@@ -180,10 +180,10 @@ Moneta 1: [Przy Trafieniu] Zyskuje 4 Oddechu
 
 #### Umiejętność 2 (×2): Akupunktura
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Kłucie | 4 | +4 | 2 | +1 | 1 |
-| 3 | Żądza | Kłucie | 5 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Kłucie |          4 |         +4 |      2 |           +1 |    1 |
+|          3 | Żądza  | Kłucie |          5 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [Trafienie Awersem] Zyskuje 1 Wzrostu Obrażeń Siecznych w następnej turze
 
@@ -195,9 +195,9 @@ Moneta 2: [Trafienie Awersem] Zyskuje 2 Wzrostu Obrażeń Siecznych w następnej
 
 #### Umiejętność 3 (×1): Decydujące Zanurzenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pycha | Cięcie | 6 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pycha  | Cięcie |          6 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 3:* Gdy HP celu jest poniżej 25%, Moc Końcowa +2  
 Moneta 2: [Trafienie Krytyczne] Podnosi pierwszy Próg Oszołomienia o 20% zadanych obrażeń
@@ -207,10 +207,10 @@ Moneta 2: [Trafienie Krytyczne] Podnosi pierwszy Próg Oszołomienia o 20% zadan
 
 #### Obrona: Unik
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 3 | +10 | 1 | +1 | 1 |
-| 4 | Pycha | obrona: unik | 3 | +10 | 1 | +1 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          3 |        +10 |      1 |           +1 |    1 |
+|          4 | Pycha   | obrona: unik |          3 |        +10 |      1 |           +1 |    1 |
 
 *Od ulepszenia 4:* Przy [Oddech] 6 lub wyższej Moc Monet +3
 
@@ -257,26 +257,26 @@ Zadaje +20% obrażeń celom z HP poniżej 25%
 
 > Trzecia Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 1 |
-| HP | 76 (+2,6 za poziom) |
-| Szybkość (ulepszenia 1–4) | 4–6 / 4–7 / 4–8 / 4–8 |
-| Poziom obrony | poziom +2 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | Lenistwo |
-| Przynależność | G_Corp |
-| Słowa kluczowe | Zatonięcie |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 00                                                          |
+| Sezon                     | 1                                                           |
+| HP                        | 76 (+2,6 za poziom)                                         |
+| Szybkość (ulepszenia 1–4) | 4–6 / 4–7 / 4–8 / 4–8                                       |
+| Poziom obrony             | poziom +2                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35%                                                   |
+| Grzech wyróżniony         | Lenistwo                                                    |
+| Przynależność             | G_Corp                                                      |
+| Słowa kluczowe            | Zatonięcie                                                  |
+| Data aktualizacji         | 20230227                                                    |
 
 #### Umiejętność 1 (×3): Rozkaz
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Kłucie | 3 | +6 | 1 | −1 | 1 |
-| 3 | Lenistwo | Kłucie | 4 | +6 | 1 | −1 | 1 |
+| Ulepszenie | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Kłucie |          3 |         +6 |      1 |           −1 |    1 |
+|          3 | Lenistwo | Kłucie |          4 |         +6 |      1 |           −1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada 1 Ochrony na Sojusznika z najniższą Szybkością
 
@@ -287,11 +287,11 @@ Moneta 1: [Przy Trafieniu] Nakłada 2 Ochrony na Sojusznika z najniższą Szybko
 
 #### Umiejętność 2 (×2): Rozkaz Natarcia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Obuch | 4 | +10 | 1 | −1 | 1 |
-| 3 | Obżar. | Obuch | 5 | +10 | 1 | −1 | 1 |
-| 4 | Obżar. | Obuch | 6 | +10 | 1 | −1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Obuch |          4 |        +10 |      1 |           −1 |    1 |
+|          3 | Obżar. | Obuch |          5 |        +10 |      1 |           −1 |    1 |
+|          4 | Obżar. | Obuch |          6 |        +10 |      1 |           −1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 1 Wzrost Obrażeń na Sojusznika z najniższą Szybkością
 
@@ -303,9 +303,9 @@ Moneta 1: [Przy Trafieniu] Nakłada 2 Wzrost Obrażeń na Sojusznika z najniższ
 
 #### Umiejętność 3 (×1): Skupienie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Posępność | Obuch | 6 | +16 | 1 | −1 | 1 |
+| Ulepszenie | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Posępność | Obuch |          6 |        +16 |      1 |           −1 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [Przy Trafieniu] Nakłada 5 [Zatonięcie]  
 Moneta 1: [Przy Trafieniu] Nakłada 2 Spadek Mocy Ataku
@@ -316,10 +316,10 @@ Moneta 1: [Trafienie Awersem] Nakłada 4 [Zatonięcie]
 
 #### Obrona: Blok
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 9 | +4 | 1 | +2 | 1 |
-| 4 | Lenistwo | obrona: blok | 9 | +4 | 1 | +2 | 1 |
+| Ulepszenie | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral  | obrona: blok |          9 |         +4 |      1 |           +2 |    1 |
+|          4 | Lenistwo | obrona: blok |          9 |         +4 |      1 |           +2 |    1 |
 
 #### Pasywka bojowa: Podniesienie Moralu
 
@@ -364,26 +364,26 @@ W następnej turze nakłada 2 [Pośpiech] na siebie i Sojuszników przylegający
 
 > Czwarta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 86 (+2,96 za poziom) |
-| Szybkość (ulepszenia 1–4) | 5–6 / 5–7 / 5–8 / 5–8 |
-| Poziom obrony | poziom +3 |
-| Odporności | Cięcie ×2 (Fatal), Kłucie ×1 (Normal), Obuch ×0,5 (Endured) |
-| Progi Stagger (HP) | 60% |
-| Grzech wyróżniony | Obżar. |
-| Przynależność | Seven |
-| Słowa kluczowe | Rozdarcie |
-| Data aktualizacji | 20230406 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 0                                                           |
+| HP                        | 86 (+2,96 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 5–6 / 5–7 / 5–8 / 5–8                                       |
+| Poziom obrony             | poziom +3                                                   |
+| Odporności                | Cięcie ×2 (Fatal), Kłucie ×1 (Normal), Obuch ×0,5 (Endured) |
+| Progi Stagger (HP)        | 60%                                                         |
+| Grzech wyróżniony         | Obżar.                                                      |
+| Przynależność             | Seven                                                       |
+| Słowa kluczowe            | Rozdarcie                                                   |
+| Data aktualizacji         | 20230406                                                    |
 
 #### Umiejętność 1 (×3): Analiza Predykcyjna
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Obuch | 5 | +4 | 1 | +0 | 1 |
-| 3 | Obżar. | Obuch | 6 | +4 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Obuch |          5 |         +4 |      1 |           +0 |    1 |
+|          3 | Obżar. | Obuch |          6 |         +4 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* W starciu Moc Starcia celu -1  
 Moneta 1: [Trafienie Awersem] Nakłada w następnej turze 1 Paraliżu
@@ -397,10 +397,10 @@ Moneta 1: [Przy Trafieniu] Nakłada 1 Rozdarcia
 
 #### Umiejętność 2 (×2): Dowodzenie na Polu
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Cięcie | 4 | +5 | 2 | +0 | 1 |
-| 3 | Lenistwo | Cięcie | 5 | +5 | 2 | +0 | 1 |
+| Ulepszenie | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Cięcie |          4 |         +5 |      2 |           +0 |    1 |
+|          3 | Lenistwo | Cięcie |          5 |         +5 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* W starciu Moc Starcia celu -1  
 Moneta 1: [Trafienie Awersem] Zwiększa Licznik Rozdarcia o 1  
@@ -422,9 +422,9 @@ Moneta 2: [Przy Trafieniu] Nakłada 2 Spadek Poziomu Obrony w następnej turze
 
 #### Umiejętność 3 (×1): Wykorzystanie Luki
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Żądza | Obuch | 6 | +2 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Żądza  | Obuch |          6 |         +2 |      3 |           +0 |    1 |
 
 *Od ulepszenia 3:* W starciu Moc Starcia celu -2  
 Moneta 1: [Przy Trafieniu] Nakłada 2 Spadek Poziomu Ataku w następnej turze  
@@ -439,10 +439,10 @@ Moneta 3: [Przy Trafieniu] Nakłada Zbadaną Słabość w następnej turze
 
 #### Obrona: Poprowadzę z Przodu
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 13 | +4 | 1 | +5 | 1 |
-| 4 | Obżar. | obrona: blok | 13 | +7 | 1 | +5 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         13 |         +4 |      1 |           +5 |    1 |
+|          4 | Obżar.  | obrona: blok |         13 |         +7 |      1 |           +5 |    1 |
 
 [Przy Użyciu] Zyskuje 1 [Pośpiech] i 1 Wzrost Mocy Obrony w następnej turze
 
@@ -489,26 +489,26 @@ Przy ataku słabą lub śmiertelną dla celu stroną zadaje +10% obrażeń
 
 > Piąta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 2 |
-| HP | 68 (+2,39 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7 |
-| Poziom obrony | poziom −3 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×2 (Fatal), Obuch ×1 (Normal) |
-| Progi Stagger (HP) | 65% / 35% / 15% |
-| Grzech wyróżniony | Lenistwo |
-| Przynależność | Molar |
-| Słowa kluczowe | Wstrząs |
-| Data aktualizacji | 20231004 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 2                                                           |
+| HP                        | 68 (+2,39 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7                                       |
+| Poziom obrony             | poziom −3                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×2 (Fatal), Obuch ×1 (Normal) |
+| Progi Stagger (HP)        | 65% / 35% / 15%                                             |
+| Grzech wyróżniony         | Lenistwo                                                    |
+| Przynależność             | Molar                                                       |
+| Słowa kluczowe            | Wstrząs                                                     |
+| Data aktualizacji         | 20231004                                                    |
 
 #### Umiejętność 1 (×3): Chwileczkę!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Cięcie | 4 | +6 | 1 | +1 | 1 |
-| 3 | Gniew | Cięcie | 4 | +7 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Cięcie |          4 |         +6 |      1 |           +1 |    1 |
+|          3 | Gniew  | Cięcie |          4 |         +7 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Jeżeli ta Umiejętność zostanie odrzucona, zyskuje +3 Licznika Wstrząsu  
 Moneta 1: [Trafienie Awersem] Obniża Próg Oszołomienia o Licznik Wstrząsu (maks. 10)
@@ -525,10 +525,10 @@ Moneta 1: [Przy Trafieniu] Obniża Próg Oszołomienia o Licznik Wstrząsu (maks
 
 #### Umiejętność 2 (×2): Rozcięcie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Obuch | 2 | +5 | 3 | +4 | 1 |
-| 3 | Żądza | Obuch | 3 | +5 | 3 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Obuch |          2 |         +5 |      3 |           +4 |    1 |
+|          3 | Żądza  | Obuch |          3 |         +5 |      3 |           +4 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Odrzuca 1 Umiejętność najniższej Rangi ze wszystkich swoich slotów  
 Moneta 1: [Trafienie Awersem] Nakłada 1 [Wstrząs]  
@@ -549,9 +549,9 @@ Moneta 3: [Przy Trafieniu] Przy Liczniku Wstrząsu 6 lub wyższym wywołuje Wybu
 
 #### Umiejętność 3 (×1): Śmiałe Postanowienie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Lenistwo | Obuch | 4 | +3 | 4 | +5 | 1 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Lenistwo | Obuch |          4 |         +3 |      4 |           +5 |    1 |
 
 *Od ulepszenia 3:* [Przy Użyciu] Odrzuca Umiejętności ze wszystkich slotów, według malejącej rangi  
 Zużywa 10 Licznika Wstrząsu, aby zyskać Moc Monet +1  
@@ -571,10 +571,10 @@ Moneta 4: [Przy Trafieniu] Wywołuje Wybuch Wstrząsu. Zmniejsza Licznik Wstrzą
 
 #### Obrona: Lekarstwo na Kaca
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 10 | +5 | 1 | +0 | 1 |
-| 4 | Lenistwo | obrona: blok | 12 | +5 | 1 | +0 | 1 |
+| Ulepszenie | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral  | obrona: blok |         10 |         +5 |      1 |           +0 |    1 |
+|          4 | Lenistwo | obrona: blok |         12 |         +5 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Odrzuca 1 Umiejętność najniższej Rangi ze wszystkich swoich slotów
 
@@ -623,26 +623,26 @@ Przy wywołaniu Wybuchu Wstrząsu u wroga zadaje obrażenia Lenistwa równe 30% 
 
 > Szósta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 0 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7 |
-| Poziom obrony | poziom +3 |
-| Odporności | Cięcie ×2 (Fatal), Kłucie ×0,5 (Endured), Obuch ×1 (Normal) |
-| Progi Stagger (HP) | 50% |
-| Grzech wyróżniony | Pycha |
-| Przynależność | Cinq |
-| Słowa kluczowe | Oddech |
-| Data aktualizacji | 20231221 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 00                                                          |
+| Sezon                     | 0                                                           |
+| HP                        | 82 (+2,82 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7                                       |
+| Poziom obrony             | poziom +3                                                   |
+| Odporności                | Cięcie ×2 (Fatal), Kłucie ×0,5 (Endured), Obuch ×1 (Normal) |
+| Progi Stagger (HP)        | 50%                                                         |
+| Grzech wyróżniony         | Pycha                                                       |
+| Przynależność             | Cinq                                                        |
+| Słowa kluczowe            | Oddech                                                      |
+| Data aktualizacji         | 20231221                                                    |
 
 #### Umiejętność 1 (×3): Marche
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Kłucie | 2 | +4 | 2 | −1 | 1 |
-| 3 | Pycha | Kłucie | 3 | +4 | 2 | −1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Kłucie |          2 |         +4 |      2 |           −1 |    1 |
+|          3 | Pycha  | Kłucie |          3 |         +4 |      2 |           −1 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zyskuje 2 [Pośpiech] w następnej turze  
 Moneta 1: [Trafienie Awersem] Zwiększa własny Licznik [Oddech] o 1  
@@ -660,10 +660,10 @@ Moneta 2: [Przy Trafieniu] Zyskuje +1 Licznika [Oddech]
 
 #### Umiejętność 2 (×2): Punition
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Kłucie | 3 | +5 | 2 | −1 | 1 |
-| 3 | Posępność | Kłucie | 4 | +5 | 2 | −1 | 1 |
+| Ulepszenie | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Kłucie |          3 |         +5 |      2 |           −1 |    1 |
+|          3 | Posępność | Kłucie |          4 |         +5 |      2 |           −1 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zwiększa własny Licznik [Oddech] o 2  
 Moneta 1: [Trafienie Awersem] Zyskuje 2 [Oddech]  
@@ -683,9 +683,9 @@ Moneta 2: [Przy Trafieniu] Nakłada w następnej turze 2 [Spętanie]
 
 #### Umiejętność 3 (×1): Balestra Fente
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Żądza | Kłucie | 8 | +14 | 1 | −1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Żądza  | Kłucie |          8 |        +14 |      1 |           −1 |    1 |
 
 *Od ulepszenia 3:* Przy [Oddech] 7 lub wyższej Moc Końcowa +2  
 [Wygrane Starcie] Zyskuje [Oddech] według liczby starć (maks. 10)  
@@ -701,10 +701,10 @@ Moneta 1: [Trafienie Krytyczne] +70% obrażeń przy trafieniu krytycznym
 
 #### Obrona: Retraite
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 5 | +10 | 1 | +5 | 1 |
-| 4 | Pycha | obrona: unik | 5 | +10 | 1 | +5 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          5 |        +10 |      1 |           +5 |    1 |
+|          4 | Pycha   | obrona: unik |          5 |        +10 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* Jeżeli Szybkość jest wyższa niż agresora, Moc Monet +1  
 [Udany Unik] Zyskuje 1 [Oddech] (maks. 5)
@@ -768,26 +768,26 @@ Jeżeli ten sojusznik jest Fikserem Stowarzyszenia Cinq, zadaje +10% obrażeń P
 
 > Siódma Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | wydarzenie 9102 |
-| HP | 66 (+2,28 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7 |
-| Poziom obrony | poziom −3 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 70% / 40% / 20% |
-| Grzech wyróżniony | Pycha |
-| Przynależność | L_Corp |
-| Słowa kluczowe | Podpalenie |
-| Data aktualizacji | 20240111 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | wydarzenie 9102                                             |
+| HP                        | 66 (+2,28 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7                                       |
+| Poziom obrony             | poziom −3                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 70% / 40% / 20%                                             |
+| Grzech wyróżniony         | Pycha                                                       |
+| Przynależność             | L_Corp                                                      |
+| Słowa kluczowe            | Podpalenie                                                  |
+| Data aktualizacji         | 20240111                                                    |
 
 #### Umiejętność 1 (×3): Zapłon
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Obuch | 2 | +4 | 2 | +3 | 1 |
-| 3 | Gniew | Obuch | 3 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Obuch |          2 |         +4 |      2 |           +3 |    1 |
+|          3 | Gniew  | Obuch |          3 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 1 [Czarny Płomień] w następnej turze  
 Moneta 2: [Przy Trafieniu] Nakłada [Podpalenie] równy [Czarny Płomień] celu
@@ -802,10 +802,10 @@ Moneta 2: [Przy Trafieniu] Nakłada [Podpalenie] równy [Czarny Płomień] celu
 
 #### Umiejętność 2 (×2): Detonacja Magicznej Kuli
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Obuch | 4 | +5 | 2 | +3 | 1 |
-| 3 | Pycha | Obuch | 4 | +6 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Obuch |          4 |         +5 |      2 |           +3 |    1 |
+|          3 | Pycha  | Obuch |          4 |         +6 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Jeżeli cel ma 6+ [Podpalenie], Moc Monet +1  
 Moneta 1: [Przy Trafieniu] Przy mniej niż 4 [Magiczna Amunicja] zwiększa Licznik [Magiczna Amunicja] o 1, a w następnej turze nakłada [Czarny Płomień] równy [Magiczna Amunicja]  
@@ -821,9 +821,9 @@ Moneta 2: [Przy Trafieniu] Nakłada [Podpalenie] równy [Czarny Płomień] celu
 
 #### Umiejętność 3 (×1): Strzał z Magicznej Kuli
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pycha | Kłucie | 15 | +4 | 1 | +5 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pycha  | Kłucie |         15 |         +4 |      1 |           +5 |    1 |
 
 *Od ulepszenia 3:* Zadaje +0.5% obrażeń za każde 1 stosu [Podpalenie] celu (maks. 15%)  
   
@@ -847,10 +847,10 @@ Moneta 1: [Przy Trafieniu] Nakłada [Czarny Płomień] równy [Magiczna Amunicja
 
 #### Obrona: Cena za Kulę
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 10 | +4 | 1 | −3 | 1 |
-| 4 | Pycha | obrona: blok | 10 | +4 | 1 | −3 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         10 |         +4 |      1 |           −3 |    1 |
+|          4 | Pycha   | obrona: blok |         10 |         +4 |      1 |           −3 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zyskuje 1 [Magiczna Amunicja] (1 raz na turę)  
 [Koniec Umiejętności] Traci Poczytalność równą [Magiczna Amunicja]
@@ -915,26 +915,26 @@ Jeżeli Umiejętność E.G.O zużywa 7+ zasobów E.G.O, zadaje dodatkowo +5% obr
 
 > Ósma Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 4 |
-| HP | 66 (+2,28 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7 |
-| Poziom obrony | poziom −3 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×2 (Fatal), Obuch ×0,5 (Endured) |
-| Progi Stagger (HP) | 70% / 40% / 20% |
-| Grzech wyróżniony | Pycha |
-| Przynależność | Wuthering_Heights |
-| Słowa kluczowe | Zatonięcie |
-| Data aktualizacji | 20240328 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 4                                                           |
+| HP                        | 66 (+2,28 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 3–7 / 3–7                                       |
+| Poziom obrony             | poziom −3                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×2 (Fatal), Obuch ×0,5 (Endured) |
+| Progi Stagger (HP)        | 70% / 40% / 20%                                             |
+| Grzech wyróżniony         | Pycha                                                       |
+| Przynależność             | Wuthering_Heights                                           |
+| Słowa kluczowe            | Zatonięcie                                                  |
+| Data aktualizacji         | 20240328                                                    |
 
 #### Umiejętność 1 (×3): Pukanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Obuch | 2 | +4 | 2 | +2 | 1 |
-| 3 | Pycha | Obuch | 3 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Obuch |          2 |         +4 |      2 |           +2 |    1 |
+|          3 | Pycha  | Obuch |          3 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [Przy Trafieniu] Nakłada 2 [Zatonięcie]
 
@@ -946,10 +946,10 @@ Moneta 2: [Przy Trafieniu] Nakłada 2 [Zatonięcie]
 
 #### Umiejętność 2 (×2): Odkurzanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Obuch | 3 | +4 | 3 | +2 | 1 |
-| 3 | Posępność | Obuch | 4 | +4 | 3 | +2 | 1 |
+| Ulepszenie | Grzech    | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Obuch |          3 |         +4 |      3 |           +2 |    1 |
+|          3 | Posępność | Obuch |          4 |         +4 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Wygrane Starcie] Zwiększa Licznik [Zatonięcie] o 1  
 Moneta 2: [Przy Trafieniu] Nakłada 3 [Zatonięcie]  
@@ -966,9 +966,9 @@ Moneta 3: [Przy Trafieniu] Nakłada 2 [Zatonięcie]
 
 #### Umiejętność 3 (×1): Na Rozkaz Pani
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Żądza | Obuch | 4 | +3 | 4 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Żądza  | Obuch |          4 |         +3 |      4 |           +4 |    1 |
 
 *Od ulepszenia 3:* [Wygrane Starcie] Zwiększa Licznik [Zatonięcie] o 3  
 Moneta 4: [Przy Trafieniu] Nakłada 3 [Echa Rezydencji] w następnej turze  
@@ -981,10 +981,10 @@ Moneta 4: [Przy Trafieniu] Jeżeli cel ma [Echa Rezydencji], zadaje obrażenia P
 
 #### Obrona: Bezczelny Śmietku...!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 3 | +10 | 1 | −3 | 1 |
-| 4 | Posępność | obrona: unik | 4 | +10 | 1 | −3 | 1 |
+| Ulepszenie | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral   | obrona: unik |          3 |        +10 |      1 |           −3 |    1 |
+|          4 | Posępność | obrona: unik |          4 |        +10 |      1 |           −3 |    1 |
 
 *Od ulepszenia 1:* [Udany Unik] Nakłada 1 [Zatonięcie] (maks. 3 razy na turę)
 
@@ -1043,26 +1043,26 @@ Moneta 4: [Przy Trafieniu] Jeżeli cel ma [Echa Rezydencji], zadaje obrażenia P
 
 > Dziewiąta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 0 |
-| HP | 69 (+2,26 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–5 / 2–5 / 3–6 / 3–6 |
-| Poziom obrony | poziom −2 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% / 15% |
-| Grzech wyróżniony | Żądza |
-| Przynależność | Ring_Finger_Pointillism, Ring_Finger |
-| Słowa kluczowe | Krwawienie |
-| Data aktualizacji | 20240516 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 00                                                          |
+| Sezon                     | 0                                                           |
+| HP                        | 69 (+2,26 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 2–5 / 2–5 / 3–6 / 3–6                                       |
+| Poziom obrony             | poziom −2                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35% / 15%                                             |
+| Grzech wyróżniony         | Żądza                                                       |
+| Przynależność             | Ring_Finger_Pointillism, Ring_Finger                        |
+| Słowa kluczowe            | Krwawienie                                                  |
+| Data aktualizacji         | 20240516                                                    |
 
 #### Umiejętność 1 (×3): Punktowanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Kłucie | 2 | +4 | 2 | +0 | 1 |
-| 3 | Żądza | Kłucie | 3 | +4 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Kłucie |          2 |         +4 |      2 |           +0 |    1 |
+|          3 | Żądza  | Kłucie |          3 |         +4 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 1 [Krwawienie]  
 Moneta 2: [Trafienie Awersem] Nakłada 1 [Krwawienie]
@@ -1078,10 +1078,10 @@ Moneta 2: [Przy Trafieniu] Nakłada 1 [Krwawienie]
 
 #### Umiejętność 2 (×2): Sangwiniczny Obraz
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Kłucie | 4 | +4 | 2 | +0 | 1 |
-| 3 | Gniew | Kłucie | 5 | +4 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Kłucie |          4 |         +4 |      2 |           +0 |    1 |
+|          3 | Gniew  | Kłucie |          5 |         +4 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [Przy Trafieniu] 20% szans na 1 ponowne użycie monety. +20% szans za każdy 1 rodzaj negatywnego efektu na celu  
 Moneta 2: [Przy Trafieniu] Nakłada +1 Licznika [Krwawienie]
@@ -1098,9 +1098,9 @@ Zwiększa Licznik [Krwawienie] nakładany przy ponownym użyciu monety efektami 
 
 #### Umiejętność 3 (×1): Przegląd Dzieła
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Obżar. | Kłucie | 4 | +6 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Obżar. | Kłucie |          4 |         +6 |      2 |           +2 |    1 |
 
 *Od ulepszenia 3:* Zadaje +10% obrażeń za każdy rodzaj negatywnego efektu posiadanego przez cel (maks. 30%)  
 [Przy Użyciu] Nakłada 1 [Pośpiech] w następnej turze na 2 Sojuszników przylegających do niej na panelu  
@@ -1117,10 +1117,10 @@ Moneta 2: [Koniec Ataku] Jeżeli cel zostaje Ogłuszony albo ginie, nakłada 1 [
 
 #### Obrona: Blok
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 7 | +6 | 1 | +1 | 1 |
-| 4 | Żądza | obrona: blok | 7 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          7 |         +6 |      1 |           +1 |    1 |
+|          4 | Żądza   | obrona: blok |          7 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Jeżeli cel ma 10+ [Krwawienie], Moc Monet +3
 
@@ -1203,26 +1203,26 @@ Odzyskuje dodatkowo 1 za każdy rodzaj negatywnego efektu posiadanego przez cel.
 
 > Dziesiąta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 70 (+2,32 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–6 / 3–6 / 3–7 / 3–7 |
-| Poziom obrony | poziom +0 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×2 (Fatal), Obuch ×1 (Normal) |
-| Progi Stagger (HP) | 70% / 40% / 20% |
-| Grzech wyróżniony | Pycha |
-| Przynależność | W_Corp |
-| Słowa kluczowe | Ładowanie, Rozdarcie |
-| Data aktualizacji | 20240725 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 0                                                           |
+| HP                        | 70 (+2,32 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 2–6 / 3–6 / 3–7 / 3–7                                       |
+| Poziom obrony             | poziom +0                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×2 (Fatal), Obuch ×1 (Normal) |
+| Progi Stagger (HP)        | 70% / 40% / 20%                                             |
+| Grzech wyróżniony         | Pycha                                                       |
+| Przynależność             | W_Corp                                                      |
+| Słowa kluczowe            | Ładowanie, Rozdarcie                                        |
+| Data aktualizacji         | 20240725                                                    |
 
 #### Umiejętność 1 (×3): Zmarszczka
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Obuch | 3 | +3 | 2 | +0 | 1 |
-| 3 | Pycha | Obuch | 3 | +4 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Obuch |          3 |         +3 |      2 |           +0 |    1 |
+|          3 | Pycha  | Obuch |          3 |         +4 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Przy 4+ Liczniku [Ładowanie] Moc Starcia +1  
 [Przy Użyciu] Zyskuje +2 Licznika [Ładowanie]  
@@ -1240,11 +1240,11 @@ Moneta 2: [Przy Trafieniu] Zwiększa własny Licznik [Ładowanie] o 2
 
 #### Umiejętność 2 (×2): Naładowany Skok
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Obuch | 4 | +5 | 2 | +0 | 1 |
-| 3 | Zawiść | Obuch | 5 | +5 | 2 | +0 | 1 |
-| 4 | Zawiść | Obuch | 5 | +6 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Obuch |          4 |         +5 |      2 |           +0 |    1 |
+|          3 | Zawiść | Obuch |          5 |         +5 |      2 |           +0 |    1 |
+|          4 | Zawiść | Obuch |          5 |         +6 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zużywa 6 Licznika [Ładowanie], aby zyskać Moc Bazowa +1  
 [Przy Użyciu] Zyskuje +2 Licznika [Ładowanie]  
@@ -1270,9 +1270,9 @@ Moneta 2: [Przy Trafieniu] Jeżeli ta Umiejętność zużyła Licznik [Ładowani
 
 #### Umiejętność 3 (×1): Przecięcie Wymiaru
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Posępność | Cięcie | 4 | +3 | 4 | +0 | 1 |
+| Ulepszenie | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Posępność | Cięcie |          4 |         +3 |      4 |           +0 |    1 |
 
 *Od ulepszenia 3:* [Początek Walki] Nakłada [Obciążenie] równy [Ładowanie] na siebie i Sojuszników posiadających [Ładowanie] (najwyższy Rezonans)  
 (maks. 5 Sojuszników poza tą jednostką)  
@@ -1295,10 +1295,10 @@ Moneta 4: [Przy Trafieniu] Zwiększa własny Licznik [Ładowanie] o (5 - [Ładow
 
 #### Obrona: Rozmieszczenie Plazmy
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 10 | +4 | 1 | +0 | 1 |
-| 4 | Pycha | obrona: blok | 10 | +6 | 1 | +0 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         10 |         +4 |      1 |           +0 |    1 |
+|          4 | Pycha   | obrona: blok |         10 |         +6 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Moc Bazowa +1 za każde 2 Licznika [Ładowanie] (maks. 5)  
 [Przy Użyciu] Zyskuje +2 Licznika [Ładowanie] (maks. 2 razy na turę)
@@ -1350,26 +1350,26 @@ Na koniec tury nakłada 1 [Wzrost Mocy Starcia] w następnej turze na ([Ładowan
 
 > Jedenasta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 5 |
-| HP | 73 (+2,23 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 3–7 / 3–7 |
-| Poziom obrony | poziom +0 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% / 15% |
-| Grzech wyróżniony | Obżar. |
-| Przynależność | La_Mancha_Land |
-| Słowa kluczowe | Krwawienie |
-| Data aktualizacji | 20241017 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 5                                                           |
+| HP                        | 73 (+2,23 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 3–7 / 3–7                                       |
+| Poziom obrony             | poziom +0                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35% / 15%                                             |
+| Grzech wyróżniony         | Obżar.                                                      |
+| Przynależność             | La_Mancha_Land                                              |
+| Słowa kluczowe            | Krwawienie                                                  |
+| Data aktualizacji         | 20241017                                                    |
 
 #### Umiejętność 1 (×3): Szycie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Cięcie | 2 | +3 | 2 | +1 | 1 |
-| 3 | Obżar. | Cięcie | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Cięcie |          2 |         +3 |      2 |           +1 |    1 |
+|          3 | Obżar. | Cięcie |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Przy trafieniu tą Umiejętnością odzyskuje HP równy 10% zadanych obrażeń HP (maks. 10)  
 [Przy Użyciu] Zużywa do 40 [Krwawa Uczta], zyskując 1 [Zakrwawione Ostrza Nożyc] za każde zużyte 8 [Krwawa Uczta]  
@@ -1397,10 +1397,10 @@ Moneta 2: [Przy Trafieniu] Jeżeli cel ma [Cel Szycia], zwiększa Licznik [Krwaw
 
 #### Umiejętność 2 (×2): Oddzielenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Cięcie | 3 | +3 | 3 | +3 | 1 |
-| 3 | Żądza | Cięcie | 4 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Cięcie |          3 |         +3 |      3 |           +3 |    1 |
+|          3 | Żądza  | Cięcie |          4 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* Przy trafieniu tą Umiejętnością odzyskuje HP równy 10% zadanych obrażeń HP (maks. 20)  
 [Przy Użyciu] Zużywa do 60 [Krwawa Uczta], zyskując 1 [Zakrwawione Ostrza Nożyc] za każde zużyte 6 [Krwawa Uczta]  
@@ -1433,9 +1433,9 @@ Moneta 3: [Przy Trafieniu] Nakłada 1 [Cel Szycia] na cel w następnej turze
 
 #### Umiejętność 3 (×1): Uszyję Ci Nową Suknię!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Gniew | Cięcie | 3 | +3 | 4 | +5 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Gniew  | Cięcie |          3 |         +3 |      4 |           +5 |    1 |
 
 *Od ulepszenia 3:* Przy trafieniu tą Umiejętnością odzyskuje HP równy 30% zadanych obrażeń HP (maks. 20)  
 [Przed Atakiem] Przy 10+ stosach [Zakrwawione Ostrza Nożyc] Waga ataku +1  
@@ -1465,10 +1465,10 @@ Moneta 4: [Przy Trafieniu] Przy 10+ stosach [Zakrwawione Ostrza Nożyc] zadaje +
 
 #### Obrona: To Niegrzeczne!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | obrona: kontra | 5 | +6 | 1 | +0 | 1 |
-| 4 | Obżar. | obrona: kontra | 7 | +6 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | obrona: kontra |          5 |         +6 |      1 |           +0 |    1 |
+|          4 | Obżar. | obrona: kontra |          7 |         +6 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Przy 10+ stosach [Zakrwawione Ostrza Nożyc] Moc Bazowa +1  
 [Przy Użyciu] Przy własnym [Krwawienie] 5 lub wyższym Moc Monet +1  
@@ -1552,26 +1552,26 @@ Przy trafieniu zadaje +0.5% obrażeń za każde 1 [Krwawienie] celu (maks. 10%)
 
 > Dwunasta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 5 |
-| HP | 69 (+2,34 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom −3 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 70% / 40% / 20% |
-| Grzech wyróżniony | Lenistwo |
-| Przynależność | Black_Beast_Rabbit, H_Corp |
-| Słowa kluczowe | Rozdarcie |
-| Data aktualizacji | 20250320 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 5                                                           |
+| HP                        | 69 (+2,34 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–7 / 4–7                                       |
+| Poziom obrony             | poziom −3                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 70% / 40% / 20%                                             |
+| Grzech wyróżniony         | Lenistwo                                                    |
+| Przynależność             | Black_Beast_Rabbit, H_Corp                                  |
+| Słowa kluczowe            | Rozdarcie                                                   |
+| Data aktualizacji         | 20250320                                                    |
 
 #### Umiejętność 1 (×3): Szybki Krok
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Cięcie | 3 | +3 | 2 | +2 | 1 |
-| 3 | Lenistwo | Cięcie | 4 | +3 | 2 | +2 | 1 |
+| Ulepszenie | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Cięcie |          3 |         +3 |      2 |           +2 |    1 |
+|          3 | Lenistwo | Cięcie |          4 |         +3 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Jeżeli cel ma 6+ [Rozdarcie], Moc Monet +1  
 Moneta 1: [Przy Trafieniu] Nakłada 1 [Rozdarcie]  
@@ -1590,10 +1590,10 @@ Moneta 2: [Przy Trafieniu] Przy Szybkości 10 lub wyższej ponownie używa monet
 
 #### Umiejętność 2 (×2): Zabójcze Wiercenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Cięcie | 4 | +5 | 2 | +3 | 1 |
-| 3 | Obżar. | Cięcie | 4 | +6 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Cięcie |          4 |         +5 |      2 |           +3 |    1 |
+|          3 | Obżar. | Cięcie |          4 |         +6 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Jeżeli cel ma 6+ [Rozdarcie], Moc Monet +1  
 Moneta 2: Przy 10+ Szybkości zadaje +10% obrażeń  
@@ -1615,9 +1615,9 @@ Moneta 2: [Przy Trafieniu] Nakłada +1 Licznika [Rozdarcie]
 
 #### Umiejętność 3 (×1): Przeklęta Rzeźnicka Klińo-Broń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Posępność | Cięcie | 5 | +4 | 3 | +5 | 1 |
+| Ulepszenie | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Posępność | Cięcie |          5 |         +4 |      3 |           +5 |    1 |
 
 *Od ulepszenia 3:* Jeżeli Szybkość jest wyższa niż celu, zadaje +(różnica Szybkości x Moc [Rozdarcie] celu)% obrażeń (maks. 50%)  
 Jeżeli Szybkość jest o 2 lub więcej wyższa niż celu, Moc Monet +1  
@@ -1643,9 +1643,9 @@ Moneta 3: [Ponowne Użycie - Przy Trafieniu] Nakłada [Obrzęd Śmierci 【Haste
 
 #### Obrona: Częściowa Mutacja Heishou
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | obrona: kontra | 5 | +7 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | obrona: kontra |          5 |         +7 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Kontra Starciowa]  
 [Przy Użyciu] Zyskuje 3 [Biegacz【Mao】]  
@@ -1701,27 +1701,27 @@ Zyskuje 1 [Pośpiech] w następnej turze (maks. 1 raz na turę)
 
 > Trzynasta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 6 |
-| HP | 73 (+2,39 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×2 (Fatal), Obuch ×0,5 (Endured) |
-| Progi Stagger (HP) | 70% / 40% / 20% |
-| Grzech wyróżniony | Pycha |
-| Przynależność | T_Corp |
-| Słowa kluczowe | Wstrząs |
-| Data aktualizacji | 20250731 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 6                                                           |
+| HP                        | 73 (+2,39 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7                                       |
+| Poziom obrony             | poziom +2                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×2 (Fatal), Obuch ×0,5 (Endured) |
+| Progi Stagger (HP)        | 70% / 40% / 20%                                             |
+| Grzech wyróżniony         | Pycha                                                       |
+| Przynależność             | T_Corp                                                      |
+| Słowa kluczowe            | Wstrząs                                                     |
+| Data aktualizacji         | 20250731                                                    |
 
 #### Umiejętność 1 (×3): Przygotowanie do Zbierania
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Obuch | 2 | +3 | 2 | +1 | 1 |
-| 3 | Pycha | Obuch | 3 | +3 | 2 | +1 | 1 |
-| 4 | Pycha | Obuch | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Obuch |          2 |         +3 |      2 |           +1 |    1 |
+|          3 | Pycha  | Obuch |          3 |         +3 |      2 |           +1 |    1 |
+|          4 | Pycha  | Obuch |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zyskuje +1 Licznik [Wstrząs]  
 Moneta 1: [Przy Trafieniu] Nakłada +1 Licznika [Wstrząs]  
@@ -1739,10 +1739,10 @@ Moneta 2: [Przy Trafieniu] Nakłada +1 Licznika [Wstrząs]
 
 #### Umiejętność 2 (×2): Moduł Mikroogniska Korp. T
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Obuch | 3 | +4 | 3 | +3 | 1 |
-| 3 | Lenistwo | Obuch | 3 | +5 | 3 | +3 | 1 |
+| Ulepszenie | Grzech   | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Obuch |          3 |         +4 |      3 |           +3 |    1 |
+|          3 | Lenistwo | Obuch |          3 |         +5 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zwiększa własny Licznik [Wstrząs] o 2  
 Moneta 1: [Przy Trafieniu] Nakłada 2 [Wstrząs]  
@@ -1768,9 +1768,9 @@ Moneta 3: [Przy Trafieniu] Jeżeli cel ma 3+ Licznika [Wstrząs], wywołuje [Wyb
 
 #### Umiejętność 3 (×1): Maks. Aktywacja Buzdyganu Collectora T-3
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Żądza | Obuch | 5 | +4 | 3 | +5 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Żądza  | Obuch |          5 |         +4 |      3 |           +5 |    1 |
 
 *Od ulepszenia 3:* Jeżeli cel ma [Zawieszenie Czasu], zadaje +30% obrażeń  
 [Przy Użyciu] Jeżeli cel ma 6+ [Wstrząs], Moc Monet +1  
@@ -1808,10 +1808,10 @@ Moneta 3: [Przy Trafieniu] Jeżeli ma [Pożyczony Czas], nakłada 2 [Zawieszenie
 
 #### Obrona: Wypożyczony Czas - Mikroognisko
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 2 | +8 | 1 | +3 | 1 |
-| 4 | Lenistwo | obrona: blok | 3 | +10 | 1 | +3 | 1 |
+| Ulepszenie | Grzech   | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral  | obrona: blok |          2 |         +8 |      1 |           +3 |    1 |
+|          4 | Lenistwo | obrona: blok |          3 |        +10 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Blok Zdatny do Starcia]  
 [Początek Walki] Jeżeli nie jest w stanie [Pożyczony Czas], zyskuje 4 [Pożyczony Czas] na koniec tury (1 raz na turę)  
@@ -1870,26 +1870,26 @@ Jeżeli ma [Pożyczony Czas], jej Umiejętności zyskują Moc Końcowa +1
 
 > Czternasta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 7 |
-| HP | 73 (+2,85 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +3 |
-| Odporności | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 50% |
-| Grzech wyróżniony | Pycha |
-| Przynależność | Limbus_Company, Limbus_Company_Lca |
-| Słowa kluczowe | Wstrząs, Zatonięcie |
-| Data aktualizacji | 20251231 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 7                                                           |
+| HP                        | 73 (+2,85 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7                                       |
+| Poziom obrony             | poziom +3                                                   |
+| Odporności                | Cięcie ×0,5 (Endured), Kłucie ×1 (Normal), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 50%                                                         |
+| Grzech wyróżniony         | Pycha                                                       |
+| Przynależność             | Limbus_Company, Limbus_Company_Lca                          |
+| Słowa kluczowe            | Wstrząs, Zatonięcie                                         |
+| Data aktualizacji         | 20251231                                                    |
 
 #### Umiejętność 1 (×3): Szermierka Khopesh
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Cięcie | 3 | +3 | 2 | +1 | 1 |
-| 3 | Pycha | Cięcie | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Cięcie |          3 |         +3 |      2 |           +1 |    1 |
+|          3 | Pycha  | Cięcie |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zwiększa [Wartość Prowokacji] tego slotu Umiejętności o 3 w następnej turze  
 Moneta 1: [Przy Trafieniu] Zwiększa Licznik [Zatonięcie] celu o 1  
@@ -1910,10 +1910,10 @@ Moneta 2: [Przy Trafieniu] Zyskuje 1 [Ochrona] w następnej turze (1 raz na tur�
 
 #### Umiejętność 2 (×2): Nacięcie Mirażu
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Cięcie | 4 | +3 | 3 | +2 | 1 |
-| 3 | Lenistwo | Cięcie | 4 | +4 | 3 | +2 | 1 |
+| Ulepszenie | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Cięcie |          4 |         +3 |      3 |           +2 |    1 |
+|          3 | Lenistwo | Cięcie |          4 |         +4 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zwiększa [Wartość Prowokacji] tego slotu Umiejętności o 5 w następnej turze  
 Moneta 1: [Przy Trafieniu] Nakłada +2 Licznika [Zatonięcie]  
@@ -1940,9 +1940,9 @@ Moneta 3: [Przy Trafieniu] Zyskuje 1 [Ochrona] w następnej turze (1 raz na tur�
 
 #### Umiejętność 3 (×1): Awangarda Dowiezie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Posępność | Kłucie | 6 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech    | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Posępność | Kłucie |          6 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* [Przy Użyciu] Zwiększa [Wartość Prowokacji] tego slotu Umiejętności o 8 w następnej turze  
 [Przy Użyciu] Moc Bazowa +1 za każdy [Pocisk Rozłamowy LCA], który ta Umiejętność ma zużyć  
@@ -1980,10 +1980,10 @@ Jeżeli Poczytalność celu jest poniżej 0, nakłada 1 [Wrażliwość na Posęp
 
 #### Obrona: Opanowanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +5 | 1 | +5 | 1 |
-| 4 | Posępność | obrona: blok | 15 | +5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech    | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral   | obrona: blok |         12 |         +5 |      1 |           +5 |    1 |
+|          4 | Posępność | obrona: blok |         15 |         +5 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* Przy trafieniu, gdy ma Tarczę, nakłada 3 [Zatonięcie] na agresora (3 razy na turę)  
 [Przy Użyciu] Zyskuje Tarczę równą 5% Maks. HP za każde 1 [Ochrona] (maks. 15%, 1 raz na turę)
@@ -2076,27 +2076,27 @@ Na początku walki nakłada 1 [Ochrona] w następnej turze na 1 Sojusznika z naj
 
 > Piętnasta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 7 |
-| HP | 91 (+3,24 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +5 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×2 (Fatal), Obuch ×0,5 (Endured) |
-| Progi Stagger (HP) | 75% |
-| Grzech wyróżniony | Żądza |
-| Przynależność | Spider_House, Middle_Finger |
-| Słowa kluczowe | Podpalenie, Krwawienie |
-| Data aktualizacji | 20260528 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | 7                                                           |
+| HP                        | 91 (+3,24 za poziom)                                        |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–7 / 4–7                                       |
+| Poziom obrony             | poziom +5                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×2 (Fatal), Obuch ×0,5 (Endured) |
+| Progi Stagger (HP)        | 75%                                                         |
+| Grzech wyróżniony         | Żądza                                                       |
+| Przynależność             | Spider_House, Middle_Finger                                 |
+| Słowa kluczowe            | Podpalenie, Krwawienie                                      |
+| Data aktualizacji         | 20260528                                                    |
 
 #### Umiejętność 1 (×3): Deptanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Obuch | 3 | +2 | 2 | +2 | 1 |
-| 3 | Żądza | Obuch | 3 | +3 | 2 | +2 | 1 |
-| 4 | Żądza | Obuch | 3 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Obuch |          3 |         +2 |      2 |           +2 |    1 |
+|          3 | Żądza  | Obuch |          3 |         +3 |      2 |           +2 |    1 |
+|          4 | Żądza  | Obuch |          3 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Odzyskuje 5 Poczytalności  
 Moneta 1: [Przy Trafieniu] Nakłada +1 Licznika [Krwawienie]  
@@ -2125,11 +2125,11 @@ Moneta 2: [Przy Trafieniu] Jeżeli ma [Środkowy - Tatuaż Zemsty [Wielka Siostr
 
 #### Umiejętność 2 (×2): Nie Daj Się Złamać Takim Czemś!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Obuch | 3 | +3 | 3 | +3 | 1 |
-| 3 | Zawiść | Obuch | 3 | +4 | 3 | +3 | 1 |
-| 4 | Zawiść | Obuch | 4 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Obuch |          3 |         +3 |      3 |           +3 |    1 |
+|          3 | Zawiść | Obuch |          3 |         +4 |      3 |           +3 |    1 |
+|          4 | Zawiść | Obuch |          4 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zwiększa Poziom Ataku tej Umiejętności o (najwyższy Rezonans / 2) (maks. 3, zaokrąglone w dół)  
 [Przy Użyciu] Jeżeli jej miecz jest w stanie [Zdjęta Pierwsza Pieczęć], przy trafieniu monetą nakłada [Podpalenie] równy bazowej wartości [Krwawienie] nakładanej przez Umiejętność  
@@ -2173,10 +2173,10 @@ Moneta 3: [Przy Trafieniu] Jeżeli ma [Środkowy - Tatuaż Zemsty [Wielka Siostr
 
 #### Umiejętność 3 (×1): Pieczątka Zemsty
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | Obuch | 3 | +3 | 4 | +4 | 1 |
-| 4 | Zawiść | Obuch | 4 | +3 | 4 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | Obuch |          3 |         +3 |      4 |           +4 |    1 |
+|          4 | Zawiść | Obuch |          4 |         +3 |      4 |           +4 |    1 |
 
 *Od ulepszenia 3:* Moc Końcowa +1 za każde 4 (suma [Podpalenie] i [Krwawienie] celu) (maks. 3)  
 [Przed Użyciem] Jeżeli ma [Lævateinn], uruchamia się jako „Całkowita Zagłada”  
@@ -2207,10 +2207,10 @@ Moneta 4: [Przy Trafieniu] Nakłada +1 Licznik [Krwawienie]
 
 #### Umiejętność 4 (×0): Wyprę Cię jak Rybę
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | Obuch | 3 | +3 | 2 | +3 | 1 |
-| 4 | Zawiść | Obuch | 3 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | Obuch |          3 |         +3 |      2 |           +3 |    1 |
+|          4 | Zawiść | Obuch |          3 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 3:* [Lævateinn] Umiejętność wyłącznie dla tego stanu  
 Moc Monet +1 za każde 6 (suma [Podpalenie] i [Krwawienie] celu) (maks. 2)  
@@ -2239,10 +2239,10 @@ Moneta 2: [Przy Trafieniu] Jeżeli ma [Środkowy - Tatuaż Zemsty [Wielka Siostr
 
 #### Umiejętność 5 (×0): Cios w Brzuch [Lævateinn]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | Obuch | 2 | +3 | 5 | +4 | 1 |
-| 4 | Zawiść | Obuch | 3 | +3 | 5 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | Obuch |          2 |         +3 |      5 |           +4 |    1 |
+|          4 | Zawiść | Obuch |          3 |         +3 |      5 |           +4 |    1 |
 
 *Od ulepszenia 3:* [Lævateinn] Umiejętność wyłącznie dla tego stanu  
 Jeżeli cel ma 4+ (suma [Podpalenie] i [Krwawienie]), Moc Końcowa +1  
@@ -2280,10 +2280,10 @@ Moneta 5: [Przy Trafieniu] Nakłada 1 [Spętanie] i 1 [Paraliż] w następnej tu
 
 #### Umiejętność 6 (×0): Całkowita Zagłada [Lævateinn]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | Obuch | 3 | +3 | 5 | +5 | 1 |
-| 4 | Zawiść | Obuch | 4 | +3 | 5 | +5 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | Obuch |          3 |         +3 |      5 |           +5 |    1 |
+|          4 | Zawiść | Obuch |          4 |         +3 |      5 |           +5 |    1 |
 
 *Od ulepszenia 3:* [Lævateinn] Umiejętność wyłącznie dla tego stanu  
 Moc Końcowa +1 za każde 4 (suma [Podpalenie] i [Krwawienie] celu) (maks. 3)  
@@ -2331,9 +2331,9 @@ Moneta 5: [Przy Trafieniu] Zadaje obrażenia Uderzenia równe (suma [Podpalenie]
 
 #### Umiejętność 7 (×0): Czas Rozpakować!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Obuch | 4 | +3 | 4 | +4 | 1 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Obuch |          4 |         +3 |      4 |           +4 |    1 |
 
 *Od ulepszenia 1:* Zewnętrzne efekty nie mogą ponownie użyć tej Umiejętności  
 [Koniec Ataku] Zdejmuje następną pieczęć z miecza  
@@ -2360,9 +2360,9 @@ Moneta 4: [Przy Trafieniu] Nakłada 2 [Wrażliwość na Zazdrość] w następnej
 
 #### Umiejętność 8 (×0): Dobra Dziewczynka. Twoja Ofiara dla Rodziny Nie Zostanie Zapomniana.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | Obuch | 16 | +2 | 1 | +4 | 2 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | Obuch |         16 |         +2 |      1 |           +4 |    2 |
 
 [Lævateinn] Umiejętność wyłącznie dla tego stanu  
 [Niestarciowy]  
@@ -2381,24 +2381,24 @@ Moneta 1: [Przy Trafieniu] Zadaje obrażenia Uderzenia równe 100% końcowych ob
 
 #### Umiejętność 9 (×0): 1111510
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | obrona: kontra | 3 | +3 | 4 | +4 | 1 |
-| 4 | Zawiść | obrona: kontra | 4 | +3 | 4 | +4 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | obrona: kontra |          3 |         +3 |      4 |           +4 |    1 |
+|          4 | Zawiść | obrona: kontra |          4 |         +3 |      4 |           +4 |    1 |
 
 #### Umiejętność 10 (×0): 1111511
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Zawiść | obrona: kontra | 3 | +3 | 5 | +5 | 1 |
-| 4 | Zawiść | obrona: kontra | 4 | +3 | 5 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Zawiść | obrona: kontra |          3 |         +3 |      5 |           +5 |    1 |
+|          4 | Zawiść | obrona: kontra |          4 |         +3 |      5 |           +5 |    1 |
 
 #### Obrona: Naruszenie Regulaminu
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | obrona: kontra | 4 | +4 | 2 | +3 | 1 |
-| 4 | Zawiść | obrona: kontra | 4 | +6 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | obrona: kontra |          4 |         +4 |      2 |           +3 |    1 |
+|          4 | Zawiść | obrona: kontra |          4 |         +6 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Początek Walki] Zyskuje Tarczę równą 15% brakującego HP (1 raz na turę)  
 Moneta 1: [Przy Trafieniu] Nakłada 2 [Krwawienie]  
@@ -2634,26 +2634,26 @@ Na początku walki nakłada 1 [Wzrost Obrażeń] i 1 [Ochrona] na sojuszników w
 
 > Szesnasta Tożsamość Outis
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | wydarzenie 9110 |
-| HP | 85 (+3,1 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–7 / 3–8 / 4–8 / 4–8 |
-| Poziom obrony | poziom +3 |
-| Odporności | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
-| Progi Stagger (HP) | 55% |
-| Grzech wyróżniony | Żądza |
-| Przynależność | Wedge |
-| Słowa kluczowe | Wstrząs, Oddech |
-| Data aktualizacji | 20261112 |
+| Parametr                  | Wartość bazowa                                              |
+| ------------------------- | ----------------------------------------------------------- |
+| Rzadkość                  | 000                                                         |
+| Sezon                     | wydarzenie 9110                                             |
+| HP                        | 85 (+3,1 za poziom)                                         |
+| Szybkość (ulepszenia 1–4) | 3–7 / 3–8 / 4–8 / 4–8                                       |
+| Poziom obrony             | poziom +3                                                   |
+| Odporności                | Cięcie ×1 (Normal), Kłucie ×0,5 (Endured), Obuch ×2 (Fatal) |
+| Progi Stagger (HP)        | 55%                                                         |
+| Grzech wyróżniony         | Żądza                                                       |
+| Przynależność             | Wedge                                                       |
+| Słowa kluczowe            | Wstrząs, Oddech                                             |
+| Data aktualizacji         | 20261112                                                    |
 
 #### Umiejętność 1 (×3): Szybkie Dzierżenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Kłucie | 2 | +2 | 3 | +2 | 1 |
-| 3 | Żądza | Kłucie | 2 | +3 | 3 | +2 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Kłucie |          2 |         +2 |      3 |           +2 |    1 |
+|          3 | Żądza  | Kłucie |          2 |         +3 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Przy Użyciu] Zwiększa własny Licznik [Oddech] o 2  
 Moneta 1: [Przy Trafieniu] Zyskuje 2 [Oddech]  
@@ -2675,10 +2675,10 @@ Moneta 3: [Trafienie Krytyczne] Zwiększa Licznik [Wstrząs] o 1
 
 #### Umiejętność 2 (×2): Błyskawiczna Włócznia
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Kłucie | 4 | +5 | 2 | +3 | 1 |
-| 3 | Lenistwo | Kłucie | 4 | +6 | 2 | +3 | 1 |
+| Ulepszenie | Grzech   | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Kłucie |          4 |         +5 |      2 |           +3 |    1 |
+|          3 | Lenistwo | Kłucie |          4 |         +6 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Początek Walki] Nakłada 1 [Wzrost Obrażeń Przebicia] na wszystkie Tożsamości sojuszników z Biura Klina, włącznie z tą jednostką (1 raz na turę)  
 [Przy Użyciu] Jeżeli pozostała Umiejętność w tym slocie to „Szybkie Dzierżenie”, odrzuca ją  
@@ -2707,10 +2707,10 @@ Moneta 2: [Trafienie Krytyczne] Wywołuje [Wybuch Wstrząsu]. Zmniejsza Licznik 
 
 #### Umiejętność 3 (×1): Pchnięcie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pycha | Kłucie | 8 | +10 | 1 | +4 | 1 |
-| 4 | Pycha | Kłucie | 10 | +12 | 1 | +4 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pycha  | Kłucie |          8 |        +10 |      1 |           +4 |    1 |
+|          4 | Pycha  | Kłucie |         10 |        +12 |      1 |           +4 |    1 |
 
 *Od ulepszenia 3:* [Przy Użyciu] Moc Końcowa +1 za każde 4 (suma Mocy [Oddech] własnej i Mocy [Wstrząs] celu) (maks. 3)  
 [Przy Użyciu] Zyskuje 2 [Oddech]  
@@ -2752,9 +2752,9 @@ Moneta 1: [Więź]: Biuro Świtu Rep Gregor
 
 #### Umiejętność 4 (×0): Przyjęcie Szyku Klina
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pycha | Kłucie | 5 | +3 | 3 | +5 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pycha  | Kłucie |          5 |         +3 |      3 |           +5 |    1 |
 
 [Niestarciowy]  
 [Przy Użyciu] Przy Mocy [Oddech] 8 lub wyższej Moc Monet +1  
@@ -2778,9 +2778,9 @@ Moneta 3: [Przy Trafieniu] Wywołuje [Wybuch Wstrząsu]. Zmniejsza Licznik [Wstr
 
 #### Umiejętność 5 (×0): ...Wszystkie jednostki, gotowość do szarży.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pycha | Kłucie | 8 | +4 | 3 | +6 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pycha  | Kłucie |          8 |         +4 |      3 |           +6 |    1 |
 
 [Przy Użyciu] Moc Monet +1 za każde 8 Mocy [Oddech] (maks. 2)  
 [Przy Użyciu] Moc Końcowa +1 za każde 8 Mocy [Wstrząs] celu (maks. 2)  
@@ -2816,9 +2816,9 @@ Moneta 3: [Więź]: Biuro Świtu Rep Gregor
 
 #### Umiejętność 6 (×0): Klin Przebijający za Świtem
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | Pycha | Kłucie | 8 | +4 | 3 | +6 | 1 |
+| Ulepszenie | Grzech | Typ    | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | Pycha  | Kłucie |          8 |         +4 |      3 |           +6 |    1 |
 
 [Przy Użyciu] Moc Monet +1 za każde 8 Mocy [Oddech] (maks. 2)  
 [Przy Użyciu] Moc Końcowa +1 za każde 8 Mocy [Wstrząs] celu (maks. 2)  
@@ -2855,10 +2855,10 @@ Moneta 3: [Przy Trafieniu] Zadaje obrażenia Przebijające równe 20% końcowych
 
 #### Obrona: Wyrównanie Oddechu
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 4 | +10 | 1 | +3 | 1 |
-| 4 | Pycha | obrona: unik | 4 | +10 | 1 | +3 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          4 |        +10 |      1 |           +3 |    1 |
+|          4 | Pycha   | obrona: unik |          4 |        +10 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Początek Walki] Zyskuje 1 [Obrona Wsparcia] (2 razy na turę)  
 [Udany Unik]  
@@ -2873,9 +2873,9 @@ Moneta 3: [Przy Trafieniu] Zadaje obrażenia Przebijające równe 20% końcowych
 
 #### Obrona: Zejdź z Drogi.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | obrona: kontra | 5 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | obrona: kontra |          5 |         +4 |      2 |           +3 |    1 |
 
 [Kontra Starciowa]  
 Umiejętność wyłącznie dla stanu [Obrona Wsparcia]  

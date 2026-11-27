@@ -6,8 +6,6 @@
 
 ### Etap 1 · The Dawn of Green
 
-<!-- E051X -->
-
 #### Cabins of Mephistopheles
 
 **Dante:** This is...
@@ -127,8 +125,6 @@ Instead of giving me an answer, however, Faust brandished the Zweihander and ste
 **Faust:** ... We must first suppress the entities. Dante, prepare the Identity Cards.
 
 ### Etap 2 · Ordeal
-
-<!-- E052X -->
 
 #### L Corp. HQ Control Team Hallway
 

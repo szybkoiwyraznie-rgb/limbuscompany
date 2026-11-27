@@ -13,8 +13,6 @@
 
 ### Etap 6-1 · Wichrowe Wzgórza
 
-<!-- S601B -->
-
 *— Przed walką —*
 
 Come back, Heath.
@@ -108,8 +106,6 @@ Vergilius finally spoke up after quietly listening in on our discussion for the 
 
 ### Etap 6-2 · Nie ma CZASU
 
-<!-- S602B -->
-
 *— Przed walką —*
 
 #### T Corp.’s Streets
@@ -124,8 +120,6 @@ Vergilius finally spoke up after quietly listening in on our discussion for the 
 They began rushing at us with bloodshot eyes, not giving Heathcliff time to even finish his sentence.
 
 ### Etap 6-3 · Nie ma CZASU 2
-
-<!-- S603B -->
 
 *— Przed walką —*
 
@@ -148,8 +142,6 @@ The man we inadvertently saved from the hands of thieves was shuddering and scre
 **Overdue T Corp. Gang:** If you won’t give it up willingly, we’ll have to kill you all and take that clock for ourselves!
 **Dante:** Huh? Clock?
 **Dante:** … Wait, me?
-
-<!-- S603A -->
 
 *— Po walce —*
 
@@ -208,8 +200,6 @@ Maybe the lack of color made the fog appear even thicker.
 **Sinclair:** … That’s because Rodya kept making funny noises and Sweeper impressions at me every night…!
 
 ### Etap 6-4 · List
-
-<!-- S604B -->
 
 *— Przed walką —*
 
@@ -288,8 +278,6 @@ None of this conversation seemed to even register to Heathcliff, however.
 
 ### Etap 6-5 · Barwy
 
-<!-- S605B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -355,8 +343,6 @@ I can clearly hear that Heathcliff is muttering through gritted teeth.
 I have a feeling that black wasn’t always his favorite color.
 
 ### Etap 6-6 · Przemiana
-
-<!-- S606B -->
 
 *— Przed walką —*
 
@@ -498,8 +484,6 @@ It took quite a bit of convincing for Heathcliff, who was severely discouraged b
 
 ### Etap 6-7 · Brama Główna
 
-<!-- S607B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Front Gate
@@ -573,8 +557,6 @@ The front gate began to creak open as though someone was answering his pleas.
 **Hong Lu:** … The makeover was worth it, hmm?
 
 ### Etap 6-8 · Nelly
-
-<!-- S608B -->
 
 *— Przed walką —*
 
@@ -713,8 +695,6 @@ I followed Don Quixote to the halls. She appeared terribly disappointed.
 
 ### Etap 6-9 · Gorące Powitanie
 
-<!-- S609B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Hall
@@ -761,8 +741,6 @@ The man in a black suit turns away, as though it would degrade him to even enter
 **Yi Sang:** Head... of bone? What on earth is that fellow speaking of?
 **Ishmael:** He’s just expressing his explicit desire to get his ass beat. Well, since he asked for it....
 
-<!-- S609A -->
-
 *— Po walce —*
 
 **Hindley's Lackey** (*???*): …….
@@ -792,8 +770,6 @@ He just walked into the middle of it all, then put his arm around Heathcliff’s
 It was the kind of friendly gesture that only someone who's known Heathcliff for a long, long time could do.
 
 ### Etap 6-10 · Catherine
-
-<!-- S610B -->
 
 *— Przed walką —*
 
@@ -928,8 +904,6 @@ After all we've been through in this journey... this kind of silence was all too
 
 ### Etap 6-11 · Kamerdynerzy
 
-<!-- S611B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Hall
@@ -1063,8 +1037,6 @@ Don Quixote's eyes were practically exploding with joy at having her Fixer obses
 
 ### Etap 6-12 · Zjawa
 
-<!-- S612B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Hall
@@ -1194,8 +1166,6 @@ There's more than one here.
 
 ### Etap 6-13 · Zagadki
 
-<!-- S613B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Corridors
@@ -1268,8 +1238,6 @@ But the heavy, somber expression soon returned.
 
 ### Etap 6-14 · Korytarz
 
-<!-- S614B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Corridors
@@ -1331,8 +1299,6 @@ I'm sure he's thinking the same thing as I am.
 **Heathcliff:** Because Cathy... wouldn't have wanted me to abandon that sod to die by their hands. Not like this.
 
 ### Etap 6-16 · Korytarz 3
-
-<!-- S616B -->
 
 *— Przed walką —*
 
@@ -1396,8 +1362,6 @@ Some Sinners attempted to cheer Heathcliff up, who would normally be seething wi
 
 ### Etap 6-17 · Martwe Króliki
 
-<!-- S617B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Corridors
@@ -1423,8 +1387,6 @@ Things became even more puzzling once they were all unmasked.
 **Ishmael:** I don't think this is the best time to attempt the diplomatic approach...
 
 ### Etap 6-18 · Martwe Króliki 2
-
-<!-- S618B -->
 
 *— Przed walką —*
 
@@ -1494,8 +1456,6 @@ Heathcliff asked, incredulously.
 
 ### Etap 6-19 · Pamiętnik
 
-<!-- S619B -->
-
 *— Przed walką —*
 
 #### Catherine's Room
@@ -1517,8 +1477,6 @@ And in the center of all that mess were Butlers, awkwardly standing, frozen mid-
 **Discreet Butler:** That was uncalled for.
 **Heathcliff:** No. This dodgy shite you're trying to pull here is what's uncalled for. You've crossed the line.
 **Heathcliff:** I’m the only one who can tell you what to do with this room. Not that posh wanker.
-
-<!-- S619A -->
 
 *— Po walce —*
 
@@ -1620,8 +1578,6 @@ We... must descend there.
 
 ### Etap 6-20 · Pamiętnik 2
 
-<!-- S620B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Corridors
@@ -1686,8 +1642,6 @@ Heathcliff stopped himself, then scratched his head. He sighed deeply.
 
 ### Etap 6-21 · Kominek
 
-<!-- S621B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Fireplace
@@ -1715,8 +1669,6 @@ There already was a group of people by the fireplace.
 **Linton:** And those... cheap, tacky letters you sent...?
 **Linton:** All burned with the rest of the trash in the incinerator.
 **Heathcliff:** …….
-
-<!-- S621A -->
 
 *— Po walce —*
 
@@ -1791,8 +1743,6 @@ He is watching us with a hollow, dejected look.
 
 ### Etap 6-22 · Bezgłębna Piwnica
 
-<!-- S622B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Basement Stairs
@@ -1828,8 +1778,6 @@ No... crawling...
 **Ishmael:** I guess we'll find out what that 'cause' is at the end of this stairwell.
 
 ### Etap 6-23 · Bezgłębna Piwnica 2
-
-<!-- S623A -->
 
 *— Po walce —*
 
@@ -1896,8 +1844,6 @@ Thus we must embrace the encroaching sins and descend into the world beneath.
 
 ### Etap 6-24 · Szklane Kapsuły
 
-<!-- S624B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Basement
@@ -1944,8 +1890,6 @@ Don Quixote, who I was ready to see sprinting alongside Heathcliff, was standing
 The Fixers began fiddling with the lab machines...
 
 ### Etap 6-25 · Imitacje
-
-<!-- S625B -->
 
 *— Przed walką —*
 
@@ -2008,8 +1952,6 @@ Then...
 
 ### Etap 6-28 · Stęskniona Twarz
 
-<!-- S628B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Basement
@@ -2026,8 +1968,6 @@ Then...
 **Aseah:** Regrettably, I must make my exit. I rarely ever leave work on time, for I wear so many hats.
 
 ### Etap 6-29 · Imitacje 4
-
-<!-- S629A -->
 
 *— Po walce —*
 
@@ -2053,8 +1993,6 @@ Only the coffin he was walking toward mattered.
 Catherine's coffin.
 
 ### Etap 6-30 · Źle Zapięty Guzik
-
-<!-- S630B -->
 
 *— Przed walką —*
 
@@ -2109,8 +2047,6 @@ Hindley glared at Matthew with a look of reproach for a moment, as though he was
 
 ### Etap 6-31 · Czarna Trawa
 
-<!-- S631A -->
-
 *— Po walce —*
 
 #### Wuthering Heights Basement
@@ -2130,8 +2066,6 @@ Hindley glared at Matthew with a look of reproach for a moment, as though he was
 **Rodion:** Like playing cards for poker. The shape and the color...
 
 ### Etap 6-32 · Skrzypce
-
-<!-- S632B -->
 
 *— Przed walką —*
 
@@ -2172,8 +2106,6 @@ Hindley begins flailing his arms at nothing, then speaks into the void.
 **Hindley:** Wuthering Heights, this decaying manor... must crumble.
 **Hindley:** It is simply as it should be... haha!
 
-<!-- S632I -->
-
 *— W trakcie walki —*
 
 #### Wuthering Heights Fireplace
@@ -2206,8 +2138,6 @@ I will try all I can so that you may recover.
 **Catherine:** …….
 But if you would rather choose to abandon every opportunity that was ever given to you... if you would rather walk yourself into that abyss...
 
-<!-- S632A -->
-
 *— Po walce —*
 
 **Hindley:** I know this for certain...
@@ -2230,8 +2160,6 @@ Yes. That is when Hindley began to believe...
 **Hindley:** Give it back...! My home! My violin! My future! Aaaahhhhhh!
 
 ### Etap 6-33 · Matt
-
-<!-- S633B -->
 
 *— Przed walką —*
 
@@ -2271,8 +2199,6 @@ Before anyone had the chance to stop him, Heathcliff bolted up to the machine an
 **Heathcliff:** You... You!!!
 
 ### Etap 6-34 · Bestia
-
-<!-- S634B -->
 
 *— Przed walką —*
 
@@ -2341,16 +2267,12 @@ Though he looks just like Heathcliff, he appears beaten down, distraught, and in
 **Heathcliff?:** So that Cathy may forgive me... even a little.
 **Heathcliff:** STOP!!!
 
-<!-- S634I -->
-
 *— W trakcie walki —*
 
 **Heathcliff?** (*???*): Every Catherine... was destined... to be miserable.
 **Heathcliff?:** Because of Heathcliff.
 **Heathcliff?:** That is why... I must kill... every Heathcliff, in every world.
 **Heathcliff?:** You would have... done the same.
-
-<!-- S634A -->
 
 *— Po walce —*
 
@@ -2456,8 +2378,6 @@ Welcome home, Heathcliff.
 
 ### Etap 6-35 · Tykanie Zegara
 
-<!-- S635B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Basement
@@ -2476,8 +2396,6 @@ But...
 **Dante:** Even so...
 **Dante:** We have to bring him back.
 The clock turns.
-
-<!-- S635I -->
 
 *— W trakcie walki —*
 
@@ -2525,8 +2443,6 @@ The clock turns.
 **Catherine:** That is why I wrote my diary. So that I will hold these memories to eternity's end.
 **Catherine:** My... most precious memories...
 
-<!-- S635A -->
-
 *— Po walce —*
 
 #### Wuthering Heights Basement
@@ -2573,8 +2489,6 @@ I don't really know what their 'paths' really are, or how we'd go about followin
 Like feeling our way through a dark maze, learning its shape with every step we take.
 
 ### Etap 6-36 · Isabella
-
-<!-- S636B -->
 
 *— Przed walką —*
 
@@ -2697,8 +2611,6 @@ Linton receives the Sinner's deluge of resentful accusations with an unstirring 
 
 ### Etap 6-37 · Piorunochron
 
-<!-- S637B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Laboratory
@@ -2720,8 +2632,6 @@ Linton receives the Sinner's deluge of resentful accusations with an unstirring 
 It wasn't exact science or anything like that, but...
 ... I've been feeling that gaze, coming from somewhere within the manor.
 Not an aggressive gaze, no. But it was certainly stubborn and lingering.
-
-<!-- S637A -->
 
 *— Po walce —*
 
@@ -2804,8 +2714,6 @@ I thought I saw tears of joy rolling down his cheeks, but...
 
 ### Etap 6-38 · Dziki Gon
 
-<!-- S638B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Laboratory
@@ -2864,8 +2772,6 @@ Heathcliff takes a step forward to seize him, but...
 
 ### Etap 6-39 · Dziki Gon 2
 
-<!-- S639B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Laboratory
@@ -2898,8 +2804,6 @@ When even I'm starting to feel lost... What should I... do...?
 
 ### Etap 6-41 · Droga bez Przejścia
 
-<!-- S641I -->
-
 *— W trakcie walki —*
 
 #### Wuthering Heights Laboratory
@@ -2912,8 +2816,6 @@ It was that very same Vergilius, who's never once seemed to care about what's ha
 **Don Quixote:** My deepest apologies, for mine alertness is not as keen as it oft is. Could this be a dream...? Is it truly thee? May I pinch thy cheek, to ascertain my suspicions?
 **Vergilius:** Sounds like you've got enough energy to flap your gums.
 **Don Quixote:** Ooh...! What biting words! Forsooth, our very own Color has arrived indeed...!
-
-<!-- S641I2 -->
 
 *— W trakcie walki —*
 
@@ -2935,8 +2837,6 @@ I could see the smallest glimpse of it.
 Sinclair barely stops himself. He couldn't bring himself to finish his sentence.
 Yet Vergilius understood the meaning of that silence.
 **Vergilius:** Yes. That is why I am handling this.
-
-<!-- S641I3 -->
 
 *— W trakcie walki —*
 
@@ -2968,8 +2868,6 @@ A mantle of blood.
 **Dante:** ... Let's leave this to Vergilius. We have to keep moving.
 
 ### Etap 6-43 · Złota Gałąź
-
-<!-- S643B -->
 
 *— Przed walką —*
 
@@ -3051,8 +2949,6 @@ Even I didn't know that I had access to such power. I just began to feel the pos
 
 ### Etap 6-44 · Król Olch
 
-<!-- S644B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Hall
@@ -3076,8 +2972,6 @@ Even I didn't know that I had access to such power. I just began to feel the pos
 **Heathcliff:** That's... not how I want to find my peace.
 **Erlking Heathcliff:** I wonder if you would say the same thing, even with the revelation that all of this... is exactly what Catherine wanted?
 
-<!-- S644I -->
-
 *— W trakcie walki —*
 
 **Heathcliff:** Give Catherine... back.
@@ -3087,8 +2981,6 @@ Even I didn't know that I had access to such power. I just began to feel the pos
 Heathcliff the Erlking falls to his knees.
 We were less than ten paces from the rooftop; we had to stop him from going up the stairs no matter what.
 **Meursault:** He is bound. I cannot hold him with these chains for much longer; neutralize the target as soon as possible.
-
-<!-- S644A -->
 
 *— Po walce —*
 
@@ -3129,8 +3021,6 @@ Erlking Heathcliff, now freed by Nelly's hand...
 Disappeared to the rooftop of the manor.
 
 ### Etap 6-45 · Skradzione Życie
-
-<!-- S645B -->
 
 *— Przed walką —*
 
@@ -3177,8 +3067,6 @@ I can't imagine the level of betrayal he must be feeling.
 **Nelly:** But please, do not deny every memory we've shared together.
 **Nelly:** The pity I felt for you as they abused you, wishing that you would live your best life, a life better than anyone else's... were all my honest feelings.
 
-<!-- S645A -->
-
 *— Po walce —*
 
 **Nelly:** Miss Catherine was... difficult from time to time, but I do not wish to deny even the times we've spent together.
@@ -3212,8 +3100,6 @@ I can't imagine the level of betrayal he must be feeling.
 **Nelly:** No more. This tale ends here.
 
 ### Etap 6-46 · Wyznanie Miłości
-
-<!-- S646B -->
 
 *— Przed walką —*
 
@@ -3328,8 +3214,6 @@ Nelly collapsed to the floor, making an odd noise that sounded like a mixture of
 **Heathcliff:** That's all.
 
 ### Etap 6-47 · Jedno Serce
-
-<!-- S647B -->
 
 *— Przed walką —*
 
@@ -3542,8 +3426,6 @@ The Golden Bough that impaled Heathcliff began to return to whence it came...
 
 ### Etap 6-48 · Każdy ze Światów
 
-<!-- S648B -->
-
 *— Przed walką —*
 
 #### Wuthering Heights Rooftop
@@ -3572,8 +3454,6 @@ The space surrounding Catherine, who is screaming and wailing... begins to bend 
 **Faust:** It is likely that Miss Catherine's will is intervening in the summoning.
 **Ishmael:** She's... refusing the summoning?
 **Every Catherine:** Do not obstruct me! Summon me, if your love for Heathcliff is true!
-
-<!-- S648I -->
 
 *— W trakcie walki —*
 
@@ -3631,8 +3511,6 @@ So I...
 
 ### Scena
 
-<!-- S648I2 -->
-
 **Catherine:** Dante.
 **Catherine:** I see that you write a diary of your own.
 **Dante:** …….
@@ -3675,8 +3553,6 @@ So I...
 **Catherine:** Thank you so much for being the first one to talk.
 **Catherine:** I don't love every Heathcliff in every world.
 **Catherine:** I love you. As you are now.
-
-<!-- S648I3 -->
 
 In every world of possibilities that may or may not have been.
 Every Catherine and Heathcliff of all worlds call out to each other, feeling the echoes of their partners.
@@ -3750,14 +3626,10 @@ In her hands she held the Golden Bough that appeared to have been pried from the
 **Nelly:** Well, if you are that desperate... then I hope your wish shall come true one day.
 **Nelly:** It is said that the Golden Bough can make any wish... any heart... come true.
 
-<!-- S648I4 -->
-
 **Erlking Heathcliff** (*A Distant World*): Where are you? Come to me, Catherine!
 **Every Catherine** (*A Certain Every World*): Heathcliff!
 
 ### Etap 6-48 · Każdy ze Światów
-
-<!-- S648A -->
 
 *— Po walce —*
 

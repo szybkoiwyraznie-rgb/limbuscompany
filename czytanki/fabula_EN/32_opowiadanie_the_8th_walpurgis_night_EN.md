@@ -6,8 +6,6 @@
 
 ### Etap 1 · The 8th Walpurgis Night
 
-<!-- E090X -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Sector
@@ -153,8 +151,6 @@ While I was still mulling over what Faust had just said, Rodya—who seemed to h
 If we can just make sure to move faster than those things do... We should be fine.
 
 ### Etap 2 · How the Drink is Made
-
-<!-- E091X -->
 
 *— Po walce —*
 

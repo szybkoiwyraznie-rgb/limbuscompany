@@ -12,19 +12,19 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Kraina Złudzeń | Podstawowe E.G.O Hong Lu |
-| Różowe Pożądanie | Wyłączny Sprzęt E.G.O Hong Lu |
-| Rozrywacz Wymiarów | Wyłączny Sprzęt E.G.O Hong Lu |
-| Gazowany Napój | Wyłączny Sprzęt E.G.O Hong Lu |
-| Wrząca Korozja | Wyłączny Sprzęt E.G.O Hong Lu |
-| Niskie Zawodzenie | Wyłączny Sprzęt E.G.O Hong Lu |
-| Lasso | Wyłączny Sprzęt E.G.O Hong Lu |
+| Karta                          | Podtytuł                      |
+| ------------------------------ | ----------------------------- |
+| Kraina Złudzeń                 | Podstawowe E.G.O Hong Lu      |
+| Różowe Pożądanie               | Wyłączny Sprzęt E.G.O Hong Lu |
+| Rozrywacz Wymiarów             | Wyłączny Sprzęt E.G.O Hong Lu |
+| Gazowany Napój                 | Wyłączny Sprzęt E.G.O Hong Lu |
+| Wrząca Korozja                 | Wyłączny Sprzęt E.G.O Hong Lu |
+| Niskie Zawodzenie              | Wyłączny Sprzęt E.G.O Hong Lu |
+| Lasso                          | Wyłączny Sprzęt E.G.O Hong Lu |
 | Łzy Splamionej Krwi [汚血泣淚] | Wyłączny Sprzęt E.G.O Hong Lu |
-| To Remain Oneself [宁作吾] | Wyłączny Sprzęt E.G.O Hong Lu |
-| Repudiacja | Wyłączny Sprzęt E.G.O Hong Lu |
-| Ostrze Wykute z Łez | Wyłączny Sprzęt E.G.O Hong Lu |
+| To Remain Oneself [宁作吾]     | Wyłączny Sprzęt E.G.O Hong Lu |
+| Repudiacja                     | Wyłączny Sprzęt E.G.O Hong Lu |
+| Ostrze Wykute z Łez            | Wyłączny Sprzęt E.G.O Hong Lu |
 
 ## Karty
 
@@ -34,10 +34,10 @@
 
 #### Przebudzenie: Kraina Złudzeń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 11 | +10 | 1 | +0 | 3 |
-| 3 | Posępność | Hit | 15 | +10 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         11 |        +10 |      1 |           +0 |    3 |
+|          3 | Posępność | Hit |         15 |        +10 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 2 Zatonięcia
 
@@ -50,10 +50,10 @@ Moneta 1: [Koniec Ataku] następnej tury skuteczność utraty SP wszystkich soju
 
 #### Wariant: Kraina Złudzeń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 11 | +10 | 1 | +0 | 3 |
-| 3 | Posępność | Hit | 15 | +10 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         11 |        +10 |      1 |           +0 |    3 |
+|          3 | Posępność | Hit |         15 |        +10 |      1 |           +0 |    3 |
 
 [Koniec Ataku] odzyskuje 15 SP dla tej jednostki i wszystkich sojuszników  
 [Koniec Ataku] usuwa Podpalenie od tej jednostki i wszystkich sojuszników  
@@ -65,11 +65,11 @@ Moneta 1: [Przy Trafieniu] nakłada 5 [Zatonięcie]
 
 #### Przebudzenie: Różowe Pożądanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 17 | +9 | 1 | +0 | 1 |
-| 3 | Żądza | Penetrate | 19 | +9 | 1 | +0 | 1 |
-| 4 | Żądza | Penetrate | 19 | +9 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |         17 |         +9 |      1 |           +0 |    1 |
+|          3 | Żądza  | Penetrate |         19 |         +9 |      1 |           +0 |    1 |
+|          4 | Żądza  | Penetrate |         19 |         +9 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada 2 Spadki Mocy Obrony  
 Moneta 1: [Przy Trafieniu] Nakłada 2 Spadku Poziomu Obrony
@@ -82,11 +82,11 @@ Moneta 1: [Przy Trafieniu] nakłada 5 zmniejszenia Poziomu Obrony
 
 #### Erozja: Różowe Pożądanie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Penetrate | 27 | −15 | 1 | +0 | 1 |
-| 3 | Żądza | Penetrate | 30 | −15 | 1 | +0 | 1 |
-| 4 | Żądza | Penetrate | 30 | −15 | 1 | +0 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Penetrate |         27 |        −15 |      1 |           +0 |    1 |
+|          3 | Żądza  | Penetrate |         30 |        −15 |      1 |           +0 |    1 |
+|          4 | Żądza  | Penetrate |         30 |        −15 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najwyższą Szybkością  
@@ -112,11 +112,11 @@ Moneta 1: [Przy Trafieniu] nakłada 4 [Spętanie] następnej tury
 
 #### Przebudzenie: Rozrywacz Wymiarów
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 20 | +6 | 1 | +1 | 1 |
-| 3 | Pycha | Slash | 22 | +6 | 1 | +1 | 1 |
-| 4 | Pycha | Slash | 22 | +6 | 1 | +1 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         20 |         +6 |      1 |           +1 |    1 |
+|          3 | Pycha  | Slash |         22 |         +6 |      1 |           +1 |    1 |
+|          4 | Pycha  | Slash |         22 |         +6 |      1 |           +1 |    3 |
 
 *Od ulepszenia 1:* Atakuje najdalszy cel (tylko w zwykłych walkach)  
   
@@ -130,11 +130,11 @@ Moneta 1: [Przy Trafieniu] nakłada 1 [Wrażliwość] i 4 Szczelin Wymiarowych
 
 #### Erozja: Rozrywacz Wymiarów
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 22 | +10 | 1 | +5 | 1 |
-| 3 | Pycha | Slash | 24 | +10 | 1 | +5 | 1 |
-| 4 | Pycha | Slash | 24 | +10 | 1 | +5 | 3 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |         22 |        +10 |      1 |           +5 |    1 |
+|          3 | Pycha  | Slash |         24 |        +10 |      1 |           +5 |    1 |
+|          4 | Pycha  | Slash |         24 |        +10 |      1 |           +5 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najwyższym aktualnym HP  
@@ -157,10 +157,10 @@ Moneta 1: [Przy Trafieniu] nakłada 1 [Wrażliwość] i 4 Szczelin Wymiarowych
 #### Przebudzenie: Gazowany Napój
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 20 | +7 | 1 | −5 | 1 |
-| 3 | Zawiść | Hit | 20 | +7 | 1 | −5 | 2 |
-| 4 | Zawiść | Hit | 20 | +7 | 1 | −5 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         20 |         +7 |      1 |           −5 |    1 |
+|          3 | Zawiść | Hit |         20 |         +7 |      1 |           −5 |    2 |
+|          4 | Zawiść | Hit |         20 |         +7 |      1 |           −5 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Koniec Ataku Awersem] leczy 2 sojuszników z najniższym aktualnym procentem HP po 10 HP  
 Moneta 1: [Koniec Ataku Rewersem] odzyskuje 10 SP dla 2 sojuszników z najniższym SP
@@ -176,10 +176,10 @@ Moneta 1: [Koniec Ataku Krytycznego] leczy 1 sojusznika z najniższym aktualnym 
 #### Erozja: Gazowany Napój
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 25 | −15 | 1 | −3 | 1 |
-| 3 | Zawiść | Hit | 25 | −15 | 1 | −3 | 2 |
-| 4 | Zawiść | Hit | 25 | −15 | 1 | −3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         25 |        −15 |      1 |           −3 |    1 |
+|          3 | Zawiść | Hit |         25 |        −15 |      1 |           −3 |    2 |
+|          4 | Zawiść | Hit |         25 |        −15 |      1 |           −3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najniższym HP  
@@ -202,9 +202,9 @@ Moneta 1: [Przy Trafieniu] Nakłada 5 Wstrząsu
 
 #### Przebudzenie: Wrząca Korozja
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 17 | +15 | 1 | +0 | 2 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         17 |        +15 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] nakłada (Rezonans Obżarstwa / 2) Rozdarcia  
 Moneta 1: [Przy Trafieniu] nakłada 2 Więzy następnej tury
@@ -222,9 +222,9 @@ Moneta 1: [Przy Trafieniu] nakłada 2 Więzy następnej tury
 
 #### Erozja: Wrząca Korozja
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 27 | −12 | 1 | +3 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         27 |        −12 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najniższym HP  
@@ -253,9 +253,9 @@ Moneta 1: [Przy Trafieniu] nakłada 2 Więzy następnej tury
 
 #### Przebudzenie: Niskie Zawodzenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 18 | +8 | 1 | +0 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         18 |         +8 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* jeżeli cel ma [Wstrząs], zadaje +( + (Siła [Wstrząs] celu + Licznik [Wstrząs] celu) / 2)% obrażeń (maks. 20%)  
 Moneta 1: [Przy Trafieniu] Nakłada 3 [Wstrząs]  
@@ -275,9 +275,9 @@ Moneta 1: [Przy Trafieniu] Wywołuje [Wybuch Wstrząsu]. Zmniejsza Licznik [Wstr
 
 #### Erozja: Niskie Zawodzenie
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 26 | −8 | 1 | +2 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         26 |         −8 |      1 |           +2 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -311,9 +311,9 @@ Moneta 1: [Przy Trafieniu] Wywołuje [Wybuch Wstrząsu]. Zmniejsza Licznik [Wstr
 #### Przebudzenie: Lasso
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Hit | 4 | +2 | 4 | +0 | 1 |
-| 3 | Obżar. | Hit | 4 | +2 | 4 | +0 | 2 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Hit |          4 |         +2 |      4 |           +0 |    1 |
+|          3 | Obżar. | Hit |          4 |         +2 |      4 |           +0 |    2 |
 
 *Od ulepszenia 1:* Moc Monety +1 za każde 7 [Rozdarcie] celu (maks. 2)  
 Moneta 2: [Przy Trafieniu] nakłada 2 [Lasso]  
@@ -341,9 +341,9 @@ Moneta 4: [Przy Trafieniu] losowo rozdziela [Rozdarcie] równe Szybkości tej je
 #### Erozja: Lasso
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Hit | 5 | +3 | 3 | +2 | 1 |
-| 3 | Obżar. | Hit | 5 | +3 | 3 | +2 | 2 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Hit |          5 |         +3 |      3 |           +2 |    1 |
+|          3 | Obżar. | Hit |          5 |         +3 |      3 |           +2 |    2 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -384,9 +384,9 @@ Moneta 3: [Przy Trafieniu] zadaje +1% obrażeń za każde [Rozdarcie] celu (maks
 
 #### Przebudzenie: Łzy Splamionej Krwi - Początek [始]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 20 | −10 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         20 |        −10 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [Niestarciowy]  
 ignoruje Umiejętność Obrony celu  
@@ -411,10 +411,10 @@ Moneta 1: ta jednostka otrzymuje obrażenia stałe równe Mocy Końcowej tej Umi
 
 #### Wariant: Łzy Splamionej Krwi - Koniec [終]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 4 | +4 | 4 | +5 | 7 |
-| 4 | Obżar. | Penetrate | 4 | +5 | 4 | +5 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |          4 |         +4 |      4 |           +5 |    7 |
+|          4 | Obżar. | Penetrate |          4 |         +5 |      4 |           +5 |    7 |
 
 *Od ulepszenia 1:* ta Umiejętność nie zużywa zasobów E.G.O  
 [Niestarciowy]  
@@ -457,10 +457,10 @@ Moneta 4: [Przy Trafieniu] Nakłada 2 [Rozdarcie]
 
 #### Erozja: Łzy Splamionej Krwi - Początek [始]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Penetrate | 12 | −3 | 4 | +5 | 7 |
-| 3 | Obżar. | Penetrate | 12 | −2 | 4 | +5 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Penetrate |         12 |         −3 |      4 |           +5 |    7 |
+|          3 | Obżar. | Penetrate |         12 |         −2 |      4 |           +5 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -508,10 +508,10 @@ Moneta 4: [Przy Trafieniu] Nakłada 1 [Rozdarcie]
 
 #### Przebudzenie: To Remain Oneself [宁作吾]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Slash | 8 | +6 | 2 | +3 | 4 |
-| 4 | Pycha | Slash | 10 | +6 | 2 | +3 | 4 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Slash |          8 |         +6 |      2 |           +3 |    4 |
+|          4 | Pycha  | Slash |         10 |         +6 |      2 |           +3 |    4 |
 
 *Od ulepszenia 1:* [Przy Użyciu] zyskuje 2 [Oddech]  
 [Przed Atakiem] przy sumie 5+ (Siła [Oddech] + Licznik [Oddech]) Moc Końcowa +1  
@@ -546,10 +546,10 @@ Moneta 2: [Przy Trafieniu] Nakłada 3 [Zatonięcie]
 
 #### Erozja: To Remain Oneself [宁作吾]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 2 | +3 | 3 | +5 | 5 |
-| 4 | Pycha | Penetrate | 4 | +4 | 3 | +5 | 5 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |          2 |         +3 |      3 |           +5 |    5 |
+|          4 | Pycha  | Penetrate |          4 |         +4 |      3 |           +5 |    5 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -606,8 +606,8 @@ Moneta 3: [Przy Trafieniu] zadaje obrażenia Pychy równe 25% zadanych obrażeń
 #### Przebudzenie: Repudiacja
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 10 | +6 | 2 | +2 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         10 |         +6 |      2 |           +2 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje +1 Licznika [Ładowanie]  
 [Przed Atakiem] zużywa do 6 Licznika [Ładowanie] i nakłada 5 [Bariera Ładunku] na tę jednostkę oraz na (1 + (zużyty Licznik [Ładowanie] / 2)) losowych innych sojuszników (maks. 5 jednostek, zaokrąglone w dół)  
@@ -628,8 +628,8 @@ Moneta 2: [Przy Trafieniu] Nakłada 2 [Fotopobudzenie]
 #### Erozja: Repudiacja
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 22 | −6 | 2 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         22 |         −6 |      2 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -674,10 +674,10 @@ Moneta 2: [Przy Trafieniu] Nakłada 2 [Fotopobudzenie]
 
 #### Przebudzenie: Ostrze Wykute z Łez
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 10 | +6 | 2 | +3 | 1 |
-| 4 | Pycha | Penetrate | 10 | +7 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         10 |         +6 |      2 |           +3 |    1 |
+|          4 | Pycha  | Penetrate |         10 |         +7 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [Stały Cel]  
 [Dwubiegunowość]  
@@ -753,10 +753,10 @@ Moneta 2: Zadaje +30% obrażeń przy trafieniu krytycznym
 
 #### Erozja: Ostrze Wykute z Łez
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 17 | −4 | 3 | +5 | 3 |
-| 4 | Pycha | Penetrate | 17 | −3 | 3 | +5 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         17 |         −4 |      3 |           +5 |    3 |
+|          4 | Pycha  | Penetrate |         17 |         −3 |      3 |           +5 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

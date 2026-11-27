@@ -13,8 +13,6 @@
 > Oczekiwanie na Jeziorze dłuży się bez końca, a Grzesznicy niemal padają z nudów.
 > Wtem zniecierpliwiony Heathcliff zagaduje Vergiliusa…
 
-<!-- E501B -->
-
 *— Przed walką —*
 
 #### Cabins of Mephistopheles
@@ -129,8 +127,6 @@ Don Quixote wore a confident smile. She slowly, gingerly walked over to presentl
 > Don Quixote z tajemniczą miną zaprowadziła nas do sterówki.
 > Widniał tam monitor, w który Faust wpatrywała się przy każdym wahaniu Tylnych Drzwi… a na ekranie ciągnęły się nieznane znaki.
 
-<!-- E502B -->
-
 *— Przed walką —*
 
 #### Cabins of Mephistopheles
@@ -231,8 +227,6 @@ We agreed on a precise time before returning to our respective rooms.
 
 > Gdy otworzyliśmy wypatrzone przez Don Quixote Tylne Drzwi i weszliśmy do środka, naszym oczom ukazało się wnętrze przypominające fabrykę.
 > Don Quixote, najwyraźniej nie będąc tu po raz pierwszy, swobodnie kogoś woła…
-
-<!-- E503B -->
 
 *— Przed walką —*
 
@@ -420,8 +414,6 @@ This was absolutely not worth it.
 **Dodoru:** Grab your tool-omes! Fresh, locally produced materials coming up-ome!!!
 **Heathcliff:** Right then! Let's crack on, you little shitbags!
 
-<!-- E503A -->
-
 *— Po walce —*
 
 **Heathcliff:** Tsk... These were some fierce sods...
@@ -450,8 +442,6 @@ Faust did tell me that each district within the City had different cultures and 
 
 > Z worka spoczywającego na saniach wypadło małe dziecko oraz kilkoro okaleczonych ludzi.
 > Wygląda na to, że zostali tu uprowadzeni… Co tu się właściwie dzieje?
-
-<!-- E504B -->
 
 *— Przed walką —*
 
@@ -527,8 +517,6 @@ I bolted up and looked toward the voice. There, I saw another door...
 > Gdy Heathcliff i Don Quixote padli nieprzytomni, a moje życie zawisło na włosku, ocalili mnie nadbiegający Grzesznicy.
 > Nigdzie jednak… nie widać dwójki uśpionej gazem.
 
-<!-- E505B -->
-
 *— Przed walką —*
 
 #### Gift Factory Reception Hall
@@ -587,8 +575,6 @@ I told them exactly how the events transpired.
 **Yi Sang:** Dante, come hither to the back of the line.
 The door slammed open, and gnomes began flooding into the room. We prepared ourselves for battle.
 
-<!-- E505A -->
-
 *— Po walce —*
 
 **Ishmael:** I can see their similarities with humans... but they certainly aren't humans.
@@ -611,8 +597,6 @@ Ishmael kicked open the door the gnomes rushed in from.
 
 > Fabryka okazała się znacznie większa i bardziej zawiła, niż przypuszczaliśmy. Dla kogo i po co właściwie powstają te prezenty?
 
-<!-- E506B -->
-
 *— Przed walką —*
 
 #### Gift Factory Collection Line
@@ -631,8 +615,6 @@ Sinclair looked to the ground with a somber expression.
 I wanted to say 'no chance', but... the City and the Wings that we've experienced so far were...
 **Dante:** Yeah, I can see that.
 ... Yeah. There was a non-zero chance of that being the case.
-
-<!-- E506A -->
 
 *— Po walce —*
 
@@ -664,8 +646,6 @@ After a long silence, Meursault spoke up. He pointed in a direction.
 
 > Wskazane przez Meursaulta miejsce okazało się linią produkcyjną prezentów. Widok podarków tłoczonych z porwanych „surowców” był wstrząsający.
 > Co gorsza, odnaleziona wreszcie dwójka Grzeszników lada chwila sama miała stać się prezentami…
-
-<!-- E507B -->
 
 *— Przed walką —*
 
@@ -715,8 +695,6 @@ Looks like we got here in the nick of time. Heathcliff was about to be shoved in
 **Ishmael:** Right. Get a hold of yourself, you two.
 **Ishmael:** Manager... what now?
 **Dante:** Well... we've got to trash this place. Come on. Get ready to wear your Identities.
-
-<!-- E507A -->
 
 *— Po walce —*
 
@@ -816,8 +794,6 @@ After silencing the pair with a short, stern command, Outis approached me and sp
 
 > Na negocjacje z brodatym olbrzymem Santatą nie było co liczyć. Musimy pokonać go tutaj.
 
-<!-- E508A -->
-
 *— Po walce —*
 
 #### Gift Assembly
@@ -842,8 +818,6 @@ The man who staked Santata's gut explained as he approached us.
 *Miejsce: Wytwórnia Prezentów*
 
 > Santata padł, lecz jego ciało zaczęło pęcznieć, jakby szykował się do samozniszczenia. W tej samej chwili skądś dobiegł nieznajomy głos…
-
-<!-- E509B -->
 
 *— Przed walką —*
 

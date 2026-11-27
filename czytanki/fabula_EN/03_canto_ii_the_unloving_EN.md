@@ -19,8 +19,6 @@
 > Under the chill air, Vergilius introduces us to our upcoming destination.
 > Where could the next Golden Bough be?
 
-<!-- S201B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -115,8 +113,6 @@ He backed down in a way that wasn’t quite like his usual self, seemingly accep
 > Faust explains what to do for this mission:
 > As our first step, we should pay a visit to a certain “pawnshop”.
 
-<!-- S202B -->
-
 *— Przed walką —*
 
 #### Pawn Avenue
@@ -144,8 +140,6 @@ Hong Lu looked around as though he was expecting Faust to introduce us to our "p
 **Gregor:** Is pawning still a thing these days?
 **Faust:** We’re in the so-called "pawnbroker’s avenue." Most businesses double as pawnshops here.
 **Faust:** That shop over there is our rendezvous point. Let's head inside.
-
-<!-- S202A -->
 
 *— Po walce —*
 
@@ -219,8 +213,6 @@ As the rest of the Sinners stared at the Before Team duo with either cold hostil
 
 > Our team will join hands with a duo from the Clearance Department.
 > The Sinners cast a skeptical glance at their competence and comportment…
-
-<!-- S203B -->
 
 *— Przed walką —*
 
@@ -399,8 +391,6 @@ Ishmael bristled at the offending remark and seemed ready to snap back, but to m
 > The plan that seemed so perfect took little time to go awry.
 > Don Quixote’s outburst runs us afoul with the Tingtang Gang…
 
-<!-- S204B -->
-
 *— Przed walką —*
 
 #### Pawn Avenue
@@ -438,8 +428,6 @@ Even Effie seemed taken aback by Outis’s imposing attitude.
 
 > The Sinners continue to fight off the Tingtang Gang’s goons. They just keep on appearing, suggesting that we’re in their territory.
 
-<!-- S205B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 10
@@ -452,8 +440,6 @@ Effie had barely finished speaking when additional Tingtangers began spilling ou
 Effie clamped a hand over Don Quixote’s mouth before she could finish.
 **Effie:** Have you completely lost it? Do you want the entire District coming down on us?!
 **Outis:** More incoming! We await your command, Executive Manager!
-
-<!-- S205A -->
 
 *— Po walce —*
 
@@ -495,8 +481,6 @@ Though Saude spoke calmly, I caught the faint cracks beneath the veneer of compo
 > We learned from a Tingtanger that their boss is at the scrapyard housing car pagodas.
 > For our Plan B, we must take wishpower from the gang and borrow their clothes.
 
-<!-- S206B -->
-
 *— Po walce —*
 
 #### Casino Entrance
@@ -535,8 +519,6 @@ An awkward silence followed.
 
 > The team searches around the car pagodas looking for the Tingtang Gang’s boss.
 
-<!-- S207B -->
-
 *— Przed walką —*
 
 #### Casino Entrance
@@ -551,8 +533,6 @@ An awkward silence followed.
 **Tingtang Boss:** Ugh… Disgusting pervs… Lemme tell ya, that's some depraved shit.
 The man who seemed to be the gang's boss is staring at us with unmistakable disgust.
 **Dante:** ... I don’t think I've ever wanted to win a fight this badly.
-
-<!-- S207A -->
 
 *— Po walce —*
 
@@ -614,8 +594,6 @@ we pushed open the door leading into the casino.
 *Miejsce: Casino 1F*
 
 > After a series of scuffles, we relieved the Tingtang Gang of their outfits and made our way into the casino. This time, we’ll succeed for sure.
-
-<!-- S208B -->
 
 *— Przed walką —*
 
@@ -694,8 +672,6 @@ Thanks to her, I finally understood what my role was meant to be.
 
 > Our newfound determination is swept away in a torrent of glitter, along with our backup plan. There are plenty of obstacles to overcome—particularly the security guards who just noticed us.
 
-<!-- S209B -->
-
 *— Przed walką —*
 
 #### Casino 1F
@@ -733,8 +709,6 @@ A brief silence followed as both parties stared blankly at the fallen light fixt
 **Gregor:** You *just* came up with that, didn’t you?
 **Sinclair:** S-still, I’m glad none of us were hurt!
 **Ishmael:** … We’ll have to see about that.
-
-<!-- S209A -->
 
 *— Po walce —*
 
@@ -799,8 +773,6 @@ With that, we dragged ourselves up to the next floor.
 
 > We reached the second floor of the casino. It makes me dizzy imagining what troubles await.
 
-<!-- S210B -->
-
 *— Przed walką —*
 
 #### Casino 2F
@@ -821,8 +793,6 @@ With that, we dragged ourselves up to the next floor.
 *Miejsce: Casino 2F*
 
 > The enthusiasm is in stark contrast to the atmosphere just a floor below. One can find a series of unknown musical instruments on every table. What are they for?
-
-<!-- S212B -->
 
 *— Przed walką —*
 
@@ -852,8 +822,6 @@ Alas, they were harsher judges than they seemed.
 **Don Quixote:** …I find thine assessment rather disgracious.
 **Effie** (*LCCB*): This is getting further out of hand… What are you doing, Saude?
 **Saude** (*LCCB*): Oh, just working on our statement of apology to the company, given the way this is going!
-
-<!-- S212A -->
 
 *— Po walce —*
 
@@ -920,8 +888,6 @@ But those questions could wait; for now, we headed upstairs to the third floor.
 
 > Thanks to Sinclair’s astonishing performance, we could reach the third floor. Our joy was short-lived as an imposing Syndicate was waiting for us there.
 
-<!-- S213B -->
-
 *— Przed walką —*
 
 #### Casino 3F
@@ -938,8 +904,6 @@ But those questions could wait; for now, we headed upstairs to the third floor.
 *Miejsce: Casino 3F*
 
 > The Sinners were growing weary from the prolonged encounter with the Tieqiu Crew. One of them in particular…
-
-<!-- S215B -->
 
 *— Przed walką —*
 
@@ -958,8 +922,6 @@ But those questions could wait; for now, we headed upstairs to the third floor.
 **Rodion:** I— I mean, it was kinda funny. D-don't glare at me like that~
 **Heathcliff:** … Dead.
 **Heathcliff:** … You’re all bloody dead!!
-
-<!-- S215A -->
 
 *— Po walce —*
 
@@ -992,8 +954,6 @@ Even Heathcliff, who must've had his share of rough-and-tumble in the Backstreet
 *Miejsce: High Rollers Floor*
 
 > Ryōshū’s unexpected lesson in incredible violence opened a way to the top floor at the cost of our inner peace. Now we must win the Golden Bough in a game of chance.
-
-<!-- S216B -->
 
 *— Przed walką —*
 
@@ -1070,8 +1030,6 @@ Even if I were committed to my role, given how things crashed and burned under m
 
 > Rodya nominated herself to play the game. The table was reaching its final round.
 
-<!-- S217B -->
-
 *— Przed walką —*
 
 #### Private Room
@@ -1140,8 +1098,6 @@ Unfortunately, the door we were leaning against was a flimsy wooden frame covere
 
 > Curious to know what was happening, we eavesdropped on the table. We barge in by accident to find a spatter of blood, the compressed remains of the Tieqiu Boss, and a man named Sonya giving us a soft smile.
 
-<!-- S218B -->
-
 *— Przed walką —*
 
 #### Private Room
@@ -1169,8 +1125,6 @@ Once he disappeared, a sudden, deafeningly hollow clap filled the room.
 *Miejsce: High Rollers Floor*
 
 > Rodya emerged victorious. Now we must descend to the underground floors to lay our claim on the Golden Bough.
-
-<!-- S219B -->
 
 *— Przed walką —*
 
@@ -1245,8 +1199,6 @@ Thankfully, he didn’t add an obnoxious remark like “Is this in fashion?” t
 **Dante:** ……
 Almost. Almost didn’t.
 
-<!-- 2D102B -->
-
 *— Po walce —*
 
 **Gregor:** Tch… We’ve got security guards *and* Peccatula… This is starting to be a bother…
@@ -1291,8 +1243,6 @@ Cornered, Gregor suddenly started shouting in a remarkably robotic cadence.
 Gregor's catastrophically bad acting must have irritated even the guards.
 I couldn't possibly fathom why else they would throw open the locked cages—such a risky move otherwise.
 
-<!-- 2D107A -->
-
 *— Po walce —*
 
 **Rigid Security** (*J Corp. Casino*): W-wait… Why are they coming this way?! Stop! I said stop!
@@ -1303,8 +1253,6 @@ Taking advantage of that moment of opportunity, we slipped away and descended fu
 **Gregor:** Guess that counts as receiving help from these debtors, after all.
 **Rodion:** Just a coincidence.
 Rodion replied curtly, her face betraying no emotion.
-
-<!-- 2D202B -->
 
 *— Po walce —*
 
@@ -1330,8 +1278,6 @@ The containers finished cycling and their doors slid open. Out came...
 **Faust:** Otherwise, there would be no reason to mass-produce augmented humans on a conveyor belt...
 **Dante:** Got it, but we gotta get a move on! They’re pointing right at us singing that spooky song!
 
-<!-- 2D301B -->
-
 *— Po walce —*
 
 #### Casino Mine B3
@@ -1346,8 +1292,6 @@ Putting aside Ishmael’s grievance, I thought about what Faust had said.
 It was a pretty solid answer if I do say so myself.
 **Faust:** Yes, sure.
 Faust’s reply, however, was discouragingly dull, or at least that’s how it came across to me.
-
-<!-- 2D306B -->
 
 *— Po walce —*
 
@@ -1480,8 +1424,6 @@ We walked past Sonya, and then made our way into the icy castle he indicated.
 
 ### Etap 2-28
 
-<!-- 2D306I -->
-
 *— W trakcie walki —*
 
 #### Within the Ice Castle
@@ -1518,8 +1460,6 @@ We hurriedly evacuated from the castle.
 *Miejsce: High Rollers Floor*
 
 > Rodya emerged victorious. Now we must descend to the underground floors to lay our claim on the Golden Bough.
-
-<!-- 2D306A -->
 
 *— Po walce —*
 

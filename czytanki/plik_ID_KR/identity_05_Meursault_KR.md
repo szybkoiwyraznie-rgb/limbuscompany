@@ -16,23 +16,23 @@
 
 ## Katalog Identity
 
-| Rzadkość | Identity | Sezon | Grzech wyróżniony | Słowa kluczowe |
-|---|---|---|---|---|
-| 0 | LCB 수감자 | 0 | 나태 | 진동 |
-| 00 | 남부 리우 협회 6과 | 0 | 색욕 | 화상 |
-| 000 | W사 2등급 정리 요원 | 0 | 질투 | 충전, 파열 |
-| 000 | N사 큰 망치 | 1 | 분노 | 출혈 |
-| 00 | 장미스패너 공방 해결사 | 2 | 우울 | 진동, 충전 |
-| 000 | R사 제 4무리 코뿔소팀 | 0 | 질투 | 충전, 출혈 |
-| 00 | 중지 작은 아우 | 3 | 질투 | 출혈 |
-| 000 | 검계 우두머리 | 3 | 오만 | 호흡 |
-| 00 | 데드레빗츠 보스 | 4 | 탐식 | 파열 |
-| 000 | 남부 디에치 협회 4과 부장 | 0 | 탐식 | 침잠 |
-| 000 | 서부 섕크 협회 3과 | 5 | 오만 | 파열, 호흡 |
-| 000 | 동부 엄지 카포IIII | 6 | 나태 | 화상, 진동 |
-| 000 | 라만차랜드 왕자 | 6 | 분노 | 출혈, 파열 |
-| 000 | 로보토미 E.G.O:: 호넷【변조】 | wydarzenie 9108 | 색욕 | 화상, 출혈 |
-| 000 | 약지 야수파 스튜던트 | 7 | 우울 | 출혈, 침잠 |
+| Rzadkość | Identity                      |           Sezon | Grzech wyróżniony | Słowa kluczowe |
+| -------: | ----------------------------- | --------------: | ----------------- | -------------- |
+|        0 | LCB 수감자                    |               0 | 나태              | 진동           |
+|       00 | 남부 리우 협회 6과            |               0 | 색욕              | 화상           |
+|      000 | W사 2등급 정리 요원           |               0 | 질투              | 충전, 파열     |
+|      000 | N사 큰 망치                   |               1 | 분노              | 출혈           |
+|       00 | 장미스패너 공방 해결사        |               2 | 우울              | 진동, 충전     |
+|      000 | R사 제 4무리 코뿔소팀         |               0 | 질투              | 충전, 출혈     |
+|       00 | 중지 작은 아우                |               3 | 질투              | 출혈           |
+|      000 | 검계 우두머리                 |               3 | 오만              | 호흡           |
+|       00 | 데드레빗츠 보스               |               4 | 탐식              | 파열           |
+|      000 | 남부 디에치 협회 4과 부장     |               0 | 탐식              | 침잠           |
+|      000 | 서부 섕크 협회 3과            |               5 | 오만              | 파열, 호흡     |
+|      000 | 동부 엄지 카포IIII            |               6 | 나태              | 화상, 진동     |
+|      000 | 라만차랜드 왕자               |               6 | 분노              | 출혈, 파열     |
+|      000 | 로보토미 E.G.O:: 호넷【변조】 | wydarzenie 9108 | 색욕              | 화상, 출혈     |
+|      000 | 약지 야수파 스튜던트          |               7 | 우울              | 출혈, 침잠     |
 
 ## Profile
 
@@ -40,27 +40,27 @@
 
 > 뫼르소의 첫번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 0 |
-| Sezon | 0 |
-| HP | 90 (+3,1 za poziom) |
-| Szybkość (ulepszenia 1–4) | 1–2 / 1–2 / 2–3 / 2–3 |
-| Poziom obrony | poziom +3 |
-| Odporności | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
-| Progi Stagger (HP) | 50% / 20% |
-| Grzech wyróżniony | 나태 |
-| Przynależność | Limbus_Company, Limbus_Company_Lcb |
-| Słowa kluczowe | 진동 |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 0                                                      |
+| Sezon                     | 0                                                      |
+| HP                        | 90 (+3,1 za poziom)                                    |
+| Szybkość (ulepszenia 1–4) | 1–2 / 1–2 / 2–3 / 2–3                                  |
+| Poziom obrony             | poziom +3                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
+| Progi Stagger (HP)        | 50% / 20%                                              |
+| Grzech wyróżniony         | 나태                                                   |
+| Przynależność             | Limbus_Company, Limbus_Company_Lcb                     |
+| Słowa kluczowe            | 진동                                                   |
+| Data aktualizacji         | 20230227                                               |
 
 #### Umiejętność 1 (×3): 원, 투
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | 타격 | 2 | +3 | 2 | −3 | 1 |
-| 3 | 나태 | 타격 | 2 | +4 | 2 | −3 | 1 |
-| 4 | 나태 | 타격 | 3 | +4 | 2 | −3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | 타격 |          2 |         +3 |      2 |           −3 |    1 |
+|          3 | 나태   | 타격 |          2 |         +4 |      2 |           −3 |    1 |
+|          4 | 나태   | 타격 |          3 |         +4 |      2 |           −3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [앞면 적중시] 진동 1 부여  
 Moneta 2: [앞면 적중시] 진동 1 부여
@@ -70,11 +70,11 @@ Moneta 2: [적중시] 진동 1 부여
 
 #### Umiejętność 2 (×2): 주먹꽂기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 타격 | 4 | +8 | 1 | −3 | 1 |
-| 3 | 오만 | 타격 | 5 | +8 | 1 | −3 | 1 |
-| 4 | 오만 | 타격 | 6 | +9 | 1 | −3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 타격 |          4 |         +8 |      1 |           −3 |    1 |
+|          3 | 오만   | 타격 |          5 |         +8 |      1 |           −3 |    1 |
+|          4 | 오만   | 타격 |          6 |         +9 |      1 |           −3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 진동 폭발
 
@@ -83,10 +83,10 @@ Moneta 1: [적중시] 진동 폭발
 
 #### Umiejętność 3 (×1): 연격
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 우울 | 타격 | 4 | +1 | 4 | −3 | 1 |
-| 4 | 우울 | 타격 | 4 | +2 | 4 | −3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 우울   | 타격 |          4 |         +1 |      4 |           −3 |    1 |
+|          4 | 우울   | 타격 |          4 |         +2 |      4 |           −3 |    1 |
 
 *Od ulepszenia 3:* [사용시] 다음 턴에 보호 3 얻음  
 Moneta 4: [앞면 적중시] 진동 횟수 2 증가
@@ -99,10 +99,10 @@ Moneta 4: [적중시] 진동 횟수 2 증가
 
 #### Obrona: 가드
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 8 | +3 | 1 | +3 | 1 |
-| 4 | 나태 | obrona: blok | 10 | +3 | 1 | +3 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          8 |         +3 |      1 |           +3 |    1 |
+|          4 | 나태    | obrona: blok |         10 |         +3 |      1 |           +3 |    1 |
 
 #### Pasywka bojowa: 각오
 
@@ -144,26 +144,26 @@ Moneta 4: [적중시] 진동 횟수 2 증가
 
 > 뫼르소의 두번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 0 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 1–4 / 1–5 / 2–5 / 2–5 |
-| Poziom obrony | poziom +1 |
-| Odporności | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
-| Progi Stagger (HP) | 65% / 35% / 15% |
-| Grzech wyróżniony | 색욕 |
-| Przynależność | Liu |
-| Słowa kluczowe | 화상 |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 00                                                     |
+| Sezon                     | 0                                                      |
+| HP                        | 82 (+2,82 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 1–4 / 1–5 / 2–5 / 2–5                                  |
+| Poziom obrony             | poziom +1                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
+| Progi Stagger (HP)        | 65% / 35% / 15%                                        |
+| Grzech wyróżniony         | 색욕                                                   |
+| Przynależność             | Liu                                                    |
+| Słowa kluczowe            | 화상                                                   |
+| Data aktualizacji         | 20230227                                               |
 
 #### Umiejętność 1 (×3): 돌파
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 색욕 | 타격 | 2 | +4 | 2 | +1 | 1 |
-| 3 | 색욕 | 타격 | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 색욕   | 타격 |          2 |         +4 |      2 |           +1 |    1 |
+|          3 | 색욕   | 타격 |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [앞면 적중시] 화상 1 부여  
 Moneta 2: [앞면 적중시] 화상 1 부여
@@ -176,11 +176,11 @@ Moneta 2: [적중시] 화상 2 부여
 
 #### Umiejętność 2 (×2): 진각
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | 타격 | 5 | +2 | 2 | +1 | 1 |
-| 3 | 나태 | 타격 | 6 | +2 | 2 | +1 | 1 |
-| 4 | 나태 | 타격 | 7 | +2 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | 타격 |          5 |         +2 |      2 |           +1 |    1 |
+|          3 | 나태   | 타격 |          6 |         +2 |      2 |           +1 |    1 |
+|          4 | 나태   | 타격 |          7 |         +2 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 화상 2 부여  
 Moneta 2: [앞면 적중시] 화상 1 부여
@@ -195,9 +195,9 @@ Moneta 2: [적중시] 화상 1 부여
 
 #### Umiejętność 3 (×1): 연무 붕권
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 분노 | 관통 | 5 | +3 | 3 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 분노   | 관통 |          5 |         +3 |      3 |           +1 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [앞면 적중시] 화상 3 부여  
 Moneta 3: [적중시] 화상 횟수 3 증가  
@@ -210,10 +210,10 @@ Moneta 3: [적중시] 대상의 [화상]이 6 이상이면, 무작위 적 2명�
 
 #### Obrona: 가드
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 8 | +5 | 1 | +1 | 1 |
-| 4 | 색욕 | obrona: blok | 8 | +8 | 1 | +1 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          8 |         +5 |      1 |           +1 |    1 |
+|          4 | 색욕    | obrona: blok |          8 |         +8 |      1 |           +1 |    1 |
 
 #### Pasywka bojowa: 태산
 
@@ -258,26 +258,26 @@ Moneta 3: [적중시] 대상의 [화상]이 6 이상이면, 무작위 적 2명�
 
 > 뫼르소의 세번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 79 (+2,73 za poziom) |
-| Szybkość (ulepszenia 1–4) | 4–6 / 4–7 / 4–8 / 4–8 |
-| Poziom obrony | poziom +4 |
-| Odporności | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 60% / 30% |
-| Grzech wyróżniony | 질투 |
-| Przynależność | W_Corp |
-| Słowa kluczowe | 충전, 파열 |
-| Data aktualizacji | 20230227 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 0                                                      |
+| HP                        | 79 (+2,73 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 4–6 / 4–7 / 4–8 / 4–8                                  |
+| Poziom obrony             | poziom +4                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 60% / 30%                                              |
+| Grzech wyróżniony         | 질투                                                   |
+| Przynależność             | W_Corp                                                 |
+| Słowa kluczowe            | 충전, 파열                                             |
+| Data aktualizacji         | 20230227                                               |
 
 #### Umiejętność 1 (×3): 절단
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 질투 | 참격 | 4 | +6 | 1 | +0 | 1 |
-| 3 | 질투 | 참격 | 5 | +6 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 질투   | 참격 |          4 |         +6 |      1 |           +0 |    1 |
+|          3 | 질투   | 참격 |          5 |         +6 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* [사용시] 참격 보호 1 얻음
 
@@ -290,10 +290,10 @@ Moneta 1: [적중시] 자신의 충전 횟수 3 증가
 
 #### Umiejętność 2 (×2): 에너지 순환
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 우울 | 참격 | 4 | +2 | 3 | +0 | 1 |
-| 3 | 우울 | 참격 | 5 | +2 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 우울   | 참격 |          4 |         +2 |      3 |           +0 |    1 |
+|          3 | 우울   | 참격 |          5 |         +2 |      3 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [앞면 적중시] 파열 1 부여  
 Moneta 2: [앞면 적중시] 파열 1 부여  
@@ -312,10 +312,10 @@ Moneta 3: [적중시] 충전 횟수 3을 소모하여 참격 취약 2 부여
 
 #### Umiejętność 3 (×1): 에너지 교류
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 오만 | 참격 | 5 | +1 | 4 | +0 | 1 |
-| 4 | 오만 | 참격 | 5 | +2 | 4 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 오만   | 참격 |          5 |         +1 |      4 |           +0 |    1 |
+|          4 | 오만   | 참격 |          5 |         +2 |      4 |           +0 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [적중시] 충전 횟수 2를 소모하여 방어 레벨 감소 2 부여  
 Moneta 2: [적중시] 충전 횟수 2를 소모하여 방어 레벨 감소 2 부여  
@@ -330,10 +330,10 @@ Moneta 4: [적중시] 충전 횟수 2를 소모하여 방어 레벨 감소 2 부
 
 #### Obrona: 가드
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +3 | 1 | +5 | 1 |
-| 4 | 질투 | obrona: blok | 12 | +5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         12 |         +3 |      1 |           +5 |    1 |
+|          4 | 질투    | obrona: blok |         12 |         +5 |      1 |           +5 |    1 |
 
 *Od ulepszenia 4:* [전투 시작시] 자신의 충전 횟수 2 증가
 
@@ -387,26 +387,26 @@ Moneta 4: [적중시] 충전 횟수 2를 소모하여 방어 레벨 감소 2 부
 
 > 뫼르소의 네번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 1 |
-| HP | 99 (+3,41 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5 |
-| Poziom obrony | poziom +5 |
-| Odporności | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 50% |
-| Grzech wyróżniony | 분노 |
-| Przynależność | N_Corp, N_Corp_Fnatic |
-| Słowa kluczowe | 출혈 |
-| Data aktualizacji | 20230309 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 1                                                      |
+| HP                        | 99 (+3,41 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5                                  |
+| Poziom obrony             | poziom +5                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 50%                                                    |
+| Grzech wyróżniony         | 분노                                                   |
+| Przynależność             | N_Corp, N_Corp_Fnatic                                  |
+| Słowa kluczowe            | 출혈                                                   |
+| Data aktualizacji         | 20230309                                               |
 
 #### Umiejętność 1 (×3): 꿰뚫기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | 관통 | 4 | +1 | 2 | +0 | 1 |
-| 3 | 나태 | 관통 | 5 | +1 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | 관통 |          4 |         +1 |      2 |           +0 |    1 |
+|          3 | 나태   | 관통 |          5 |         +1 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 피해량의 30%만큼 흐트러짐 회복  
 Moneta 2: [적중시] 피해량의 30%만큼 흐트러짐 회복
@@ -421,10 +421,10 @@ Moneta 2: [적중시] 피해량의 60%만큼 흐트러짐 회복
 
 #### Umiejętność 2 (×2): 죄를 씻어내노라
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 분노 | 타격 | 5 | +3 | 2 | +0 | 1 |
-| 3 | 분노 | 타격 | 6 | +3 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 분노   | 타격 |          5 |         +3 |      2 |           +0 |    1 |
+|          3 | 분노   | 타격 |          6 |         +3 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 못 3 부여  
 Moneta 2: [적중시] 다음 턴에 속박 3 부여
@@ -440,9 +440,9 @@ Moneta 2: [적중시] 대상에게 못이 5 이상 있으면, 다음 턴에 속�
 
 #### Umiejętność 3 (×1): 이단 말살
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 오만 | 관통 | 8 | +3 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 오만   | 관통 |          8 |         +3 |      2 |           +0 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [적중시] 다음 턴에 못 2 부여  
 Moneta 2: [적중시] 피해량의 50%만큼 체력 회복
@@ -454,9 +454,9 @@ Moneta 2: [적중시] 피해량의 50%만큼 체력 회복
 
 #### Obrona: 어리석도다...!
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 분노 | obrona: kontra | 15 | −5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 분노   | obrona: kontra |         15 |         −5 |      1 |           +5 |    1 |
 
 [전투 시작시] 보호 1을 얻음  
 체력이 50% 미만이면 최종 위력 + 2
@@ -504,26 +504,26 @@ Moneta 2: [적중시] 피해량의 50%만큼 체력 회복
 
 > 뫼르소의 다섯번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 2 |
-| HP | 76 (+2,7 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 3–8 / 3–8 |
-| Poziom obrony | poziom +0 |
-| Odporności | 참격 ×0,5 (Endured), 관통 ×2 (Fatal), 타격 ×1 (Normal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | 우울 |
-| Przynależność | Trouble_Shooter |
-| Słowa kluczowe | 진동, 충전 |
-| Data aktualizacji | 20230601 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 00                                                     |
+| Sezon                     | 2                                                      |
+| HP                        | 76 (+2,7 za poziom)                                    |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 3–8 / 3–8                                  |
+| Poziom obrony             | poziom +0                                              |
+| Odporności                | 참격 ×0,5 (Endured), 관통 ×2 (Fatal), 타격 ×1 (Normal) |
+| Progi Stagger (HP)        | 65% / 35%                                              |
+| Grzech wyróżniony         | 우울                                                   |
+| Przynależność             | Trouble_Shooter                                        |
+| Słowa kluczowe            | 진동, 충전                                             |
+| Data aktualizacji         | 20230601                                               |
 
 #### Umiejętność 1 (×3): 떠맡은 업무 처리
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 우울 | 타격 | 3 | +6 | 1 | +1 | 1 |
-| 3 | 우울 | 타격 | 4 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 우울   | 타격 |          3 |         +6 |      1 |           +1 |    1 |
+|          3 | 우울   | 타격 |          4 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 진동 2 부여
 
@@ -536,10 +536,10 @@ Moneta 1: [적중시] 진동 2 부여
 
 #### Umiejętność 2 (×2): 강제 휴식
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 타격 | 4 | +4 | 2 | +1 | 1 |
-| 3 | 오만 | 타격 | 5 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 타격 |          4 |         +4 |      2 |           +1 |    1 |
+|          3 | 오만   | 타격 |          5 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 진동 3 부여  
 Moneta 2: [적중시] 대상에게 [진동]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여
@@ -555,9 +555,9 @@ Moneta 2: [적중시] 대상에게 [진동]이 5 이상 있을 때 다음 턴에
 
 #### Umiejętność 3 (×1): 마무리 가속
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 나태 | 타격 | 4 | +2 | 4 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 나태   | 타격 |          4 |         +2 |      4 |           +1 |    1 |
 
 *Od ulepszenia 3:* Moneta 1: [앞면 적중시] 자신의 충전 횟수 1 증가  
 Moneta 1: [적중시] 진동 1 부여  
@@ -580,10 +580,10 @@ Moneta 4: [적중시] [진동 폭발]
 
 #### Obrona: 가드
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 8 | +5 | 1 | +0 | 1 |
-| 4 | 나태 | obrona: blok | 8 | +8 | 1 | +0 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |          8 |         +5 |      1 |           +0 |    1 |
+|          4 | 나태    | obrona: blok |          8 |         +8 |      1 |           +0 |    1 |
 
 #### Pasywka bojowa: 만성 피로
 
@@ -629,26 +629,26 @@ Moneta 4: [적중시] [진동 폭발]
 
 > 뫼르소의 여섯번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 95 (+3 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5 |
-| Poziom obrony | poziom +5 |
-| Odporności | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
-| Progi Stagger (HP) | 40% |
-| Grzech wyróżniony | 질투 |
-| Przynależność | R_Corp |
-| Słowa kluczowe | 충전, 출혈 |
-| Data aktualizacji | 20230713 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 0                                                      |
+| HP                        | 95 (+3 za poziom)                                      |
+| Szybkość (ulepszenia 1–4) | 2–4 / 2–4 / 3–5 / 3–5                                  |
+| Poziom obrony             | poziom +5                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
+| Progi Stagger (HP)        | 40%                                                    |
+| Grzech wyróżniony         | 질투                                                   |
+| Przynależność             | R_Corp                                                 |
+| Słowa kluczowe            | 충전, 출혈                                             |
+| Data aktualizacji         | 20230713                                               |
 
 #### Umiejętność 1 (×3): 육중한 충돌
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 질투 | 타격 | 4 | +6 | 1 | +0 | 1 |
-| 3 | 질투 | 타격 | 5 | +6 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 질투   | 타격 |          4 |         +6 |      1 |           +0 |    1 |
+|          3 | 질투   | 타격 |          5 |         +6 |      1 |           +0 |    1 |
 
 *Od ulepszenia 1:* 충전 횟수가 10 이상이면, 최종 위력 + 1  
 Moneta 1: [앞면 적중시] 충전 횟수 2 증가
@@ -664,10 +664,10 @@ Moneta 1: [적중시] 충전 횟수 2 증가
 
 #### Umiejętność 2 (×2): 부수기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 우울 | 참격 | 4 | +3 | 3 | +0 | 1 |
-| 3 | 우울 | 참격 | 5 | +3 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 우울   | 참격 |          4 |         +3 |      3 |           +0 |    1 |
+|          3 | 우울   | 참격 |          5 |         +3 |      3 |           +0 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] 충전 횟수 4 증가  
 Moneta 2: [앞면 적중시] 출혈 횟수 1 증가  
@@ -686,10 +686,10 @@ Moneta 3: [적중시] 출혈 횟수 1 증가
 
 #### Umiejętność 3 (×1): 코뿔소 돌진
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 색욕 | 참격 | 6 | +2 | 3 | +0 | 1 |
-| 4 | 색욕 | 참격 | 6 | +3 | 3 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 색욕   | 참격 |          6 |         +2 |      3 |           +0 |    1 |
+|          4 | 색욕   | 참격 |          6 |         +3 |      3 |           +0 |    1 |
 
 *Od ulepszenia 1:* [사용시] 충전 횟수가 10 이상이면, 코인 위력 +1  
 Moneta 1: [적중시] 출혈 횟수 1 증가  
@@ -709,10 +709,10 @@ Moneta 2: [적중시] 충전 횟수 3 소모. 출혈 횟수 1 증가
 
 #### Obrona: 생체 전류 감응
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +5 | 1 | +5 | 1 |
-| 4 | 질투 | obrona: blok | 15 | +5 | 1 | +5 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         12 |         +5 |      1 |           +5 |    1 |
+|          4 | 질투    | obrona: blok |         15 |         +5 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* [사용시] 보호막이 있는동안 피격 시 충전 횟수 1 증가 (턴 당 최대 10)
 
@@ -768,26 +768,26 @@ Moneta 2: [적중시] 충전 횟수 3 소모. 출혈 횟수 1 증가
 
 > 뫼르소의 일곱번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 3 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6 |
-| Poziom obrony | poziom +3 |
-| Odporności | 참격 ×2 (Fatal), 관통 ×1 (Normal), 타격 ×0,5 (Endured) |
-| Progi Stagger (HP) | 55% / 20% |
-| Grzech wyróżniony | 질투 |
-| Przynależność | Middle_Finger |
-| Słowa kluczowe | 출혈 |
-| Data aktualizacji | 20231123 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 00                                                     |
+| Sezon                     | 3                                                      |
+| HP                        | 82 (+2,82 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6                                  |
+| Poziom obrony             | poziom +3                                              |
+| Odporności                | 참격 ×2 (Fatal), 관통 ×1 (Normal), 타격 ×0,5 (Endured) |
+| Progi Stagger (HP)        | 55% / 20%                                              |
+| Grzech wyróżniony         | 질투                                                   |
+| Przynależność             | Middle_Finger                                          |
+| Słowa kluczowe            | 출혈                                                   |
+| Data aktualizacji         | 20231123                                               |
 
 #### Umiejętność 1 (×3): 기억한다
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | 타격 | 2 | +4 | 2 | +1 | 1 |
-| 3 | 나태 | 타격 | 3 | +4 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | 타격 |          2 |         +4 |      2 |           +1 |    1 |
+|          3 | 나태   | 타격 |          3 |         +4 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [앞면 적중시] 출혈 1 부여  
 Moneta 2: [앞면 적중시] 출혈 1 부여
@@ -802,10 +802,10 @@ Moneta 2: [적중시] 출혈 1 부여
 
 #### Umiejętność 2 (×2): 의리 사슬
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 질투 | 타격 | 3 | +5 | 2 | +1 | 1 |
-| 3 | 질투 | 타격 | 4 | +5 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 질투   | 타격 |          3 |         +5 |      2 |           +1 |    1 |
+|          3 | 질투   | 타격 |          4 |         +5 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* [전투 시작시] 조작 패널에서 자신의 양 옆의 아군에게 질투 위력 증가 1 부여  
 Moneta 1: [앞면 적중시] 출혈 1 부여  
@@ -822,9 +822,9 @@ Moneta 2: [적중시] 출혈 1 부여
 
 #### Umiejętność 3 (×1): 새긴다
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 분노 | 타격 | 4 | +3 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 분노   | 타격 |          4 |         +3 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* 질투 공명이 4 이상이면 코인 위력 +1  
 Moneta 1: [적중시] 대상이 앙갚음 대상 이면, 다음 턴에 더하기 코인 약화 1 부여  
@@ -837,9 +837,9 @@ Moneta 3: [적중시] 대상이 앙갚음 대상 이면, 다음 턴에 질투 �
 
 #### Obrona: 배로 갚기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 질투 | obrona: kontra | 4 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 질투   | obrona: kontra |          4 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [앞면 적중시] 출혈 1 부여  
 Moneta 2: [앞면 적중시] 출혈 1 부여
@@ -901,26 +901,26 @@ Moneta 2: [적중시] 출혈 1 부여
 
 > 뫼르소의 여덟번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 3 |
-| HP | 82 (+2,73 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6 |
-| Poziom obrony | poziom +3 |
-| Odporności | 참격 ×0,5 (Endured), 관통 ×1 (Normal), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 80% / 20% |
-| Grzech wyróżniony | 오만 |
-| Przynależność | Blade_Lineage |
-| Słowa kluczowe | 호흡 |
-| Data aktualizacji | 20240222 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 3                                                      |
+| HP                        | 82 (+2,73 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6                                  |
+| Poziom obrony             | poziom +3                                              |
+| Odporności                | 참격 ×0,5 (Endured), 관통 ×1 (Normal), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 80% / 20%                                              |
+| Grzech wyróżniony         | 오만                                                   |
+| Przynależność             | Blade_Lineage                                          |
+| Słowa kluczowe            | 호흡                                                   |
+| Data aktualizacji         | 20240222                                               |
 
 #### Umiejętność 1 (×3): 발검
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 참격 | 2 | +4 | 2 | +3 | 1 |
-| 3 | 오만 | 참격 | 3 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 참격 |          2 |         +4 |      2 |           +3 |    1 |
+|          3 | 오만   | 참격 |          3 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [사용시] 자신의 [호흡] 횟수 2 증가  
 Moneta 1: [앞면 적중시] [호흡] 1 얻음  
@@ -945,10 +945,10 @@ Moneta 2: [적중시] [호흡] 1 얻음
 
 #### Umiejętność 2 (×2): 자법
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 참격 | 2 | +5 | 3 | +3 | 1 |
-| 3 | 오만 | 참격 | 3 | +5 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 참격 |          2 |         +5 |      3 |           +3 |    1 |
+|          3 | 오만   | 참격 |          3 |         +5 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* [사용시] 자신의 [호흡] 횟수 2 증가  
 [합 승리시] 다음 턴에 참격 위력 증가 1을 얻음  
@@ -977,9 +977,9 @@ Moneta 3: 크리티컬 피해량 +60%
 
 #### Umiejętność 3 (×1): 육참
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 분노 | 참격 | 20 | −8 | 1 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 분노   | 참격 |         20 |         −8 |      1 |           +0 |    1 |
 
 *Od ulepszenia 3:* [사용시] 다음 턴에 이 슬롯이 도발치 3 얻음  
 [사용시] 이 스킬 종료 시까지 피해로 인해 흐트러짐 상태가 되지 않음  
@@ -999,9 +999,9 @@ Moneta 3: 크리티컬 피해량 +60%
 
 #### Obrona: 살주
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 질투 | obrona: kontra | 8 | +10 | 1 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 질투   | obrona: kontra |          8 |        +10 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* [사용시] 다음 턴에 참격 위력 증가 1을 얻음 (최대 1회)  
 Moneta 1: [적중시] [호흡] 2 얻음
@@ -1012,10 +1012,10 @@ Moneta 1: [적중시] [호흡] 2 얻음
 
 #### Obrona: 골단
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 오만 | obrona: kontra | 4 | +3 | 4 | +5 | 1 |
-| 4 | 오만 | obrona: kontra | 4 | +4 | 4 | +5 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 오만   | obrona: kontra |          4 |         +3 |      4 |           +5 |    1 |
+|          4 | 오만   | obrona: kontra |          4 |         +4 |      4 |           +5 |    1 |
 
 *Od ulepszenia 1:* [공격 시작 전] 자신의 [호흡]이 10 이상이면 공격 가중치 +1  
 [사용시] 이 스킬 종료 시까지 피해로 인해 흐트러짐 상태가 되지 않음  
@@ -1136,27 +1136,27 @@ Moneta 4: [적중시] 다음 턴에 마비 5 부여
 
 > 뫼르소의 아홉번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 00 |
-| Sezon | 4 |
-| HP | 76 (+2,6 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 4–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | 참격 ×0,5 (Endured), 관통 ×2 (Fatal), 타격 ×1 (Normal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | 탐식 |
-| Przynależność | Dead_Rabbits |
-| Słowa kluczowe | 파열 |
-| Data aktualizacji | 20240328 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 00                                                     |
+| Sezon                     | 4                                                      |
+| HP                        | 76 (+2,6 za poziom)                                    |
+| Szybkość (ulepszenia 1–4) | 3–6 / 4–6 / 4–7 / 4–7                                  |
+| Poziom obrony             | poziom +2                                              |
+| Odporności                | 참격 ×0,5 (Endured), 관통 ×2 (Fatal), 타격 ×1 (Normal) |
+| Progi Stagger (HP)        | 65% / 35%                                              |
+| Grzech wyróżniony         | 탐식                                                   |
+| Przynależność             | Dead_Rabbits                                           |
+| Słowa kluczowe            | 파열                                                   |
+| Data aktualizacji         | 20240328                                               |
 
 #### Umiejętność 1 (×3): 배트치기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 색욕 | 타격 | 4 | +5 | 1 | +1 | 1 |
-| 3 | 색욕 | 타격 | 5 | +5 | 1 | +1 | 1 |
-| 4 | 색욕 | 타격 | 5 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 색욕   | 타격 |          4 |         +5 |      1 |           +1 |    1 |
+|          3 | 색욕   | 타격 |          5 |         +5 |      1 |           +1 |    1 |
+|          4 | 색욕   | 타격 |          5 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [앞면 적중시] [파열] 2 부여
 
@@ -1168,10 +1168,10 @@ Moneta 1: [적중시] [파열] 2 부여
 
 #### Umiejętność 2 (×2): 내려박기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 분노 | 관통 | 3 | +5 | 2 | +1 | 1 |
-| 3 | 분노 | 관통 | 4 | +5 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 분노   | 관통 |          3 |         +5 |      2 |           +1 |    1 |
+|          3 | 분노   | 관통 |          4 |         +5 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [적중시] [파열] 2 부여  
 Moneta 2: [적중시] 대상의 [파열]이 6 이상이면 [공격 레벨 감소] 2 부여
@@ -1187,9 +1187,9 @@ Moneta 2: [적중시] 대상의 [파열]이 4 이상이면 [공격 레벨 감소
 
 #### Umiejętność 3 (×1): 쏟아내기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 탐식 | 타격 | 4 | +2 | 4 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 탐식   | 타격 |          4 |         +2 |      4 |           +3 |    1 |
 
 *Od ulepszenia 3:* [사용시] 대상의 [파열]이 6 이상이면 코인 위력 +1  
 [합 승리시] [공격 레벨 감소] 2 부여  
@@ -1204,9 +1204,9 @@ Moneta 4: [적중시] 대상의 [파열]이 6 이상이면, 다음 턴에 [공�
 
 #### Obrona: 반격
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 탐식 | obrona: kontra | 7 | +6 | 1 | +1 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 탐식   | obrona: kontra |          7 |         +6 |      1 |           +1 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] [파열] 1 부여
 
@@ -1268,26 +1268,26 @@ Moneta 4: [적중시] 대상의 [파열]이 6 이상이면, 다음 턴에 [공�
 
 > 뫼르소의 열번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 0 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6 |
-| Poziom obrony | poziom +2 |
-| Odporności | 참격 ×2 (Fatal), 관통 ×1 (Normal), 타격 ×0,5 (Endured) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | 탐식 |
-| Przynależność | Dieci |
-| Słowa kluczowe | 침잠 |
-| Data aktualizacji | 20240711 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 0                                                      |
+| HP                        | 82 (+2,82 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–5 / 4–5 / 4–6 / 4–6                                  |
+| Poziom obrony             | poziom +2                                              |
+| Odporności                | 참격 ×2 (Fatal), 관통 ×1 (Normal), 타격 ×0,5 (Endured) |
+| Progi Stagger (HP)        | 65% / 35%                                              |
+| Grzech wyróżniony         | 탐식                                                   |
+| Przynależność             | Dieci                                                  |
+| Słowa kluczowe            | 침잠                                                   |
+| Data aktualizacji         | 20240711                                               |
 
 #### Umiejętność 1 (×3): 학업 정진
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 탐식 | 타격 | 2 | +4 | 2 | +0 | 1 |
-| 3 | 탐식 | 타격 | 3 | +4 | 2 | +0 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 탐식   | 타격 |          2 |         +4 |      2 |           +0 |    1 |
+|          3 | 탐식   | 타격 |          3 |         +4 |      2 |           +0 |    1 |
 
 *Od ulepszenia 1:* 이 스킬이 버려지면 ([탐구한 지식] x 최대 체력의 3%)만큼 보호막을 얻음  
 [사용시] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 [버림]  
@@ -1307,10 +1307,10 @@ Moneta 2: [적중시] [침잠] 횟수 2 증가
 
 #### Umiejętność 2 (×2): 배움의 시간
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | 관통 | 3 | +6 | 2 | +1 | 1 |
-| 3 | 나태 | 관통 | 4 | +6 | 2 | +1 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | 관통 |          3 |         +6 |      2 |           +1 |    1 |
+|          3 | 나태   | 관통 |          4 |         +6 |      2 |           +1 |    1 |
 
 *Od ulepszenia 1:* [전투 시작시] 자신에게 [탐구한 지식]만큼 [지식 단련] 부여  
 [사용시] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 등급이 낮은 순으로 [버림]  
@@ -1330,10 +1330,10 @@ Moneta 2: [적중시] ([탐구한 지식] x 2)만큼 [침잠] 부여
 
 #### Umiejętność 3 (×1): 지식 전소
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 우울 | 타격 | 4 | +4 | 3 | +3 | 1 |
-| 4 | 우울 | 타격 | 5 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 우울   | 타격 |          4 |         +4 |      3 |           +3 |    1 |
+|          4 | 우울   | 타격 |          5 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* [탐구한 지식] 1당 피해량 +3% (최대 18%)  
 [사용시] 대상의 [침잠]이 6 이상이면, 코인 위력 +1  
@@ -1349,10 +1349,10 @@ Moneta 3: [적중시] [침잠] 위력과 [침잠] 횟수를 합하여 [탐구한
 
 #### Obrona: 탐구 몰입
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: blok | 12 | +5 | 1 | +4 | 1 |
-| 4 | 우울 | obrona: blok | 15 | +5 | 1 | +4 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: blok |         12 |         +5 |      1 |           +4 |    1 |
+|          4 | 우울    | obrona: blok |         15 |         +5 |      1 |           +4 |    1 |
 
 *Od ulepszenia 1:* [사용시] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 [버림]
 
@@ -1404,26 +1404,26 @@ Moneta 3: [적중시] [침잠] 위력과 [침잠] 횟수를 합하여 [탐구한
 
 > 뫼르소의 열한번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 5 |
-| HP | 69 (+2,39 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | 오만 |
-| Przynależność | Cinq |
-| Słowa kluczowe | 파열, 호흡 |
-| Data aktualizacji | 20241010 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 5                                                      |
+| HP                        | 69 (+2,39 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7                                  |
+| Poziom obrony             | poziom +2                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35%                                              |
+| Grzech wyróżniony         | 오만                                                   |
+| Przynależność             | Cinq                                                   |
+| Słowa kluczowe            | 파열, 호흡                                             |
+| Data aktualizacji         | 20241010                                               |
 
 #### Umiejętność 1 (×3): 알레
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 관통 | 2 | +4 | 2 | +2 | 1 |
-| 3 | 오만 | 관통 | 3 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 관통 |          2 |         +4 |      2 |           +2 |    1 |
+|          3 | 오만   | 관통 |          3 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* [사용시] 자신의 [호흡] 횟수 2 증가  
 Moneta 1: [적중시] 자신의 [호흡] 횟수 1 증가
@@ -1443,10 +1443,10 @@ Moneta 2: [적중시] 자신이 대상보다 속도가 빠르면 대상과의 �
 
 #### Umiejętność 2 (×2): 팡트
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 탐식 | 관통 | 4 | +3 | 3 | +2 | 1 |
-| 3 | 탐식 | 관통 | 4 | +4 | 3 | +2 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 탐식   | 관통 |          4 |         +3 |      3 |           +2 |    1 |
+|          3 | 탐식   | 관통 |          4 |         +4 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [합 승리시] 자신의 [호흡] 횟수 2 증가  
 Moneta 1: [적중시] 자신의 [호흡] 횟수 1 증가  
@@ -1472,10 +1472,10 @@ Moneta 3: [적중시] 자신의 속도가 7 이상이면, [파열] 횟수 2 증�
 
 #### Umiejętność 3 (×1): 살뤼
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 우울 | 관통 | 5 | +3 | 3 | +3 | 1 |
-| 4 | 우울 | 관통 | 5 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 우울   | 관통 |          5 |         +3 |      3 |           +3 |    1 |
+|          4 | 우울   | 관통 |          5 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 3:* 자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1  
 [사용시] 대상의 [파열]이 15, [파열] 횟수가 3 이상이면, 적중 시 [파열] 횟수를 소모하지 않음  
@@ -1499,10 +1499,10 @@ Moneta 3: [공격 종료시] 이 코인으로 대상을 처치하거나 부위�
 
 #### Obrona: 데팡시브
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 4 | +10 | 1 | +2 | 1 |
-| 4 | 우울 | obrona: unik | 4 | +10 | 1 | +2 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          4 |        +10 |      1 |           +2 |    1 |
+|          4 | 우울    | obrona: unik |          4 |        +10 |      1 |           +2 |    1 |
 
 *Od ulepszenia 4:* [사용시] 자신의 속도가 공격자보다 3 이상 높으면, 코인 위력 +2
 
@@ -1576,26 +1576,26 @@ Moneta 3: [공격 종료시] 이 코인으로 대상을 처치하거나 부위�
 
 > 뫼르소의 열두번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 6 |
-| HP | 82 (+2,82 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6 |
-| Poziom obrony | poziom +2 |
-| Odporności | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 65% |
-| Grzech wyróżniony | 나태 |
-| Przynależność | Thumb_Finger |
-| Słowa kluczowe | 화상, 진동 |
-| Data aktualizacji | 20250619 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 6                                                      |
+| HP                        | 82 (+2,82 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–5 / 3–6 / 4–6 / 4–6                                  |
+| Poziom obrony             | poziom +2                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 65%                                                    |
+| Grzech wyróżniony         | 나태                                                   |
+| Przynależność             | Thumb_Finger                                           |
+| Słowa kluczowe            | 화상, 진동                                             |
+| Data aktualizacji         | 20250619                                               |
 
 #### Umiejętność 1 (×3): 이연참-폭[爆]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | 참격 | 3 | +4 | 2 | +3 | 1 |
-| 3 | 나태 | 참격 | 4 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | 참격 |          3 |         +4 |      2 |           +3 |    1 |
+|          3 | 나태   | 참격 |          4 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [호표탄] 1 소모  
 Moneta 2: [적중시] [진동] 1 부여  
@@ -1615,10 +1615,10 @@ Moneta 2: [적중시] [화상] 2 부여
 
 #### Umiejętność 2 (×2): 삼연격-폭[爆]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 색욕 | 참격 | 4 | +3 | 3 | +4 | 1 |
-| 3 | 색욕 | 참격 | 4 | +4 | 3 | +4 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 색욕   | 참격 |          4 |         +3 |      3 |           +4 |    1 |
+|          3 | 색욕   | 참격 |          4 |         +4 |      3 |           +4 |    1 |
 
 *Od ulepszenia 1:* Moneta 2: [호표탄] 1 소모  
 Moneta 2: [적중시] [진동] 1 부여  
@@ -1649,10 +1649,10 @@ Moneta 3: [적중시] 대상의 [진동] 횟수가 3 이상이면, [진동 폭�
 
 #### Umiejętność 3 (×1): 쾌도난마 [快刀亂麻]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 분노 | 타격 | 4 | +4 | 3 | +5 | 1 |
-| 4 | 분노 | 타격 | 5 | +4 | 3 | +5 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 분노   | 타격 |          4 |         +4 |      3 |           +5 |    1 |
+|          4 | 분노   | 타격 |          5 |         +4 |      3 |           +5 |    1 |
 
 *Od ulepszenia 3:* [맹호표탄]이 있으면, '초절맹호살격난참'으로 발동됨  
 - [사용전] [맹호표탄]이 없으면 발동 취소  
@@ -1686,10 +1686,10 @@ Moneta 3: [적중시] [진동 폭발]. 대상의 [진동] 횟수 1 감소
 
 #### Umiejętność 4 (×0): 초절맹호살격난참 [超絕猛虎殺擊亂斬]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 분노 | 타격 | 2 | +3 | 5 | +6 | 1 |
-| 4 | 분노 | 타격 | 3 | +3 | 5 | +6 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 분노   | 타격 |          2 |         +3 |      5 |           +6 |    1 |
+|          4 | 분노   | 타격 |          3 |         +3 |      5 |           +6 |    1 |
 
 *Od ulepszenia 3:* 메인 타겟 대상의 [화상]과 [진동]의 합이 8 이상이면, 코인 위력 +1  
 Moneta 1: [적중시] [진동] 2 부여  
@@ -1717,10 +1717,10 @@ Moneta 5: [적중시] [진동 폭발]. 대상의 [진동] 횟수 1 감소
 
 #### Obrona: 끓어오르는군.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 나태 | obrona: kontra | 4 | +3 | 2 | +3 | 1 |
-| 4 | 나태 | obrona: kontra | 5 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 나태   | obrona: kontra |          4 |         +3 |      2 |           +3 |    1 |
+|          4 | 나태   | obrona: kontra |          5 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [합 가능 반격]  
 메인 타겟 대상의 [화상]과 [진동]의 합이 4 이상이면, 최종 위력 +1  
@@ -1855,26 +1855,26 @@ Moneta 2: [적중시] [진동] 횟수 1 증가 (턴당 2회)
 
 > 뫼르소의 열세번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 6 |
-| HP | 88 (+3,05 za poziom) |
-| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7 |
-| Poziom obrony | poziom +2 |
-| Odporności | 참격 ×0,5 (Endured), 관통 ×1 (Normal), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 65% |
-| Grzech wyróżniony | 분노 |
-| Przynależność | La_Mancha_Land |
-| Słowa kluczowe | 출혈, 파열 |
-| Data aktualizacji | 20251030 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 6                                                      |
+| HP                        | 88 (+3,05 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 2–5 / 3–6 / 4–7 / 4–7                                  |
+| Poziom obrony             | poziom +2                                              |
+| Odporności                | 참격 ×0,5 (Endured), 관통 ×1 (Normal), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 65%                                                    |
+| Grzech wyróżniony         | 분노                                                   |
+| Przynależność             | La_Mancha_Land                                         |
+| Słowa kluczowe            | 출혈, 파열                                             |
+| Data aktualizacji         | 20251030                                               |
 
 #### Umiejętność 1 (×3): 행진 지휘
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 질투 | 참격 | 2 | +2 | 3 | +2 | 1 |
-| 3 | 질투 | 참격 | 2 | +3 | 3 | +2 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 질투   | 참격 |          2 |         +2 |      3 |           +2 |    1 |
+|          3 | 질투   | 참격 |          2 |         +3 |      3 |           +2 |    1 |
 
 *Od ulepszenia 1:* [사용시] 자신과 최대 체력이 가장 낮은 아군 1명에게 [혈찬]을 최대 10 소모하여, [혈찬] 5당 [경혈 갑주] 1 부여 (턴당 1회, 최댓값인 대상 제외)  
 - \<라만차랜드>소속, \<혈귀>(상위 권속)인 아군에게 우선 부여  
@@ -1904,10 +1904,10 @@ Moneta 3: [적중시] [출혈] 2 부여
 
 #### Umiejętność 2 (×2): 재건의 의무
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 참격 | 3 | +4 | 2 | +3 | 1 |
-| 3 | 오만 | 참격 | 4 | +6 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 참격 |          3 |         +4 |      2 |           +3 |    1 |
+|          3 | 오만   | 참격 |          4 |         +6 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [사용시] 자신과 최대 체력이 가장 높은 아군 1명에게 [혈찬]을 최대 10 소모하여, [혈찬] 5당 [경혈 갑주] 1 부여 (턴당 1회, 최댓값인 대상 제외)  
 - \<라만차랜드>소속, \<혈귀>(상위 권속)인 아군에게 우선 부여  
@@ -1942,9 +1942,9 @@ Moneta 2: [적중시] 다음 턴에 [색욕 취약] 1 부여 (턴당 2회)
 
 #### Umiejętność 3 (×1): 피를 굳히고, 나와 당신에게 두른다.
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 색욕 | 참격 | 4 | +3 | 4 | +4 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 색욕   | 참격 |          4 |         +3 |      4 |           +4 |    1 |
 
 *Od ulepszenia 3:* 이 스킬에서 적중 시, 입힌 체력 피해량의 40%만큼 체력 회복 (스킬당 최대 50)  
 [사용전] 자신의 [경혈 갑주]가 5면, ‘오베르튜레’로 발동됨  
@@ -1979,9 +1979,9 @@ Moneta 4: [파괴되지 않고 적중시] 다음 턴에 [라만차 퍼레이드]
 
 #### Umiejętność 4 (×0): 오베르튜레
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 색욕 | 참격 | 4 | +3 | 4 | +5 | 3 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 색욕   | 참격 |          4 |         +3 |      4 |           +5 |    3 |
 
 *Od ulepszenia 3:* 이 스킬에서 적중 시, 입힌 체력 피해량의 50%만큼 체력 회복 (스킬당 최대 85)  
 [사용시] 메인 대상의 [출혈] 3당 합 위력 +2 (최대 8)  
@@ -2019,10 +2019,10 @@ Moneta 4: [파괴되지 않고 적중시] 이 스킬 피해로 대상을 흐트�
 
 #### Obrona: 피 굳히기
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 색욕 | obrona: kontra | 5 | +3 | 2 | +3 | 1 |
-| 4 | 색욕 | obrona: kontra | 5 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 색욕   | obrona: kontra |          5 |         +3 |      2 |           +3 |    1 |
+|          4 | 색욕   | obrona: kontra |          5 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* [합 가능 반격]  
 [합 승리시] [경혈 갑주] 1 얻음 (턴당 2회)  
@@ -2144,27 +2144,27 @@ Moneta 2: [적중시] [출혈] 1 부여
 
 > 뫼르소의 열네번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | wydarzenie 9108 |
-| HP | 72 (+2,52 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–8 / 4–8 |
-| Poziom obrony | poziom +0 |
-| Odporności | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
-| Progi Stagger (HP) | 65% / 35% |
-| Grzech wyróżniony | 색욕 |
-| Przynależność | L_Corp |
-| Słowa kluczowe | 화상, 출혈 |
-| Data aktualizacji | 20260305 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | wydarzenie 9108                                        |
+| HP                        | 72 (+2,52 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–8 / 4–8                                  |
+| Poziom obrony             | poziom +0                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×0,5 (Endured), 타격 ×2 (Fatal) |
+| Progi Stagger (HP)        | 65% / 35%                                              |
+| Grzech wyróżniony         | 색욕                                                   |
+| Przynależność             | L_Corp                                                 |
+| Słowa kluczowe            | 화상, 출혈                                             |
+| Data aktualizacji         | 20260305                                               |
 
 #### Umiejętność 1 (×3): 위협 사격
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 색욕 | 관통 | 3 | +3 | 2 | +3 | 1 |
-| 3 | 색욕 | 관통 | 3 | +4 | 2 | +3 | 1 |
-| 4 | 색욕 | 관통 | 4 | +4 | 2 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 색욕   | 관통 |          3 |         +3 |      2 |           +3 |    1 |
+|          3 | 색욕   | 관통 |          3 |         +4 |      2 |           +3 |    1 |
+|          4 | 색욕   | 관통 |          4 |         +4 |      2 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [포자탄[기본]] 1 소모  
 Moneta 1: [적중시] [화상] 2 부여  
@@ -2188,11 +2188,11 @@ Moneta 2: [적중시] [출혈] 2 부여
 
 #### Umiejętność 2 (×2): E.G.O 변조 - 산탄
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 분노 | 관통 | 3 | +3 | 3 | +4 | 2 |
-| 3 | 분노 | 관통 | 3 | +4 | 3 | +4 | 2 |
-| 4 | 분노 | 관통 | 4 | +4 | 3 | +4 | 2 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 분노   | 관통 |          3 |         +3 |      3 |           +4 |    2 |
+|          3 | 분노   | 관통 |          3 |         +4 |      3 |           +4 |    2 |
+|          4 | 분노   | 관통 |          4 |         +4 |      3 |           +4 |    2 |
 
 *Od ulepszenia 1:* 서브 타겟에게 가하는 피해량 -50%  
 Moneta 1: [포자탄[산탄]] 1 소모  
@@ -2225,10 +2225,10 @@ Moneta 3: [적중시] [화상] 횟수 1 증가
 
 #### Umiejętność 3 (×1): 임상 시험 - 분진 작열
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 분노 | 관통 | 3 | +3 | 4 | +5 | 2 |
-| 4 | 분노 | 관통 | 4 | +3 | 4 | +5 | 2 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 분노   | 관통 |          3 |         +3 |      4 |           +5 |    2 |
+|          4 | 분노   | 관통 |          4 |         +3 |      4 |           +5 |    2 |
 
 *Od ulepszenia 3:* 대상의 [포자] 5당 피해량 +5% (최대 15%)  
 [사용시] 메인 타겟의 [화상]과 [출혈]의 합 6당 코인 위력 +1 (최대 2)  
@@ -2282,10 +2282,10 @@ Moneta 4: [적중시] [화상] 횟수 1 증가, [출혈] 횟수 2 증가
 
 #### Obrona: 포자 보충
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Neutral | obrona: unik | 3 | +10 | 1 | +3 | 1 |
-| 4 | 분노 | obrona: unik | 4 | +10 | 1 | +3 | 1 |
+| Ulepszenie | Grzech  | Typ          | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------- | ------------ | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Neutral | obrona: unik |          3 |        +10 |      1 |           +3 |    1 |
+|          4 | 분노    | obrona: unik |          4 |        +10 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* [전투 시작시] [재장전[포자보충]] (턴당 1회)  
 [회피 성공시] 자신의 체력 10 회복 (턴당 1회)
@@ -2402,27 +2402,27 @@ Moneta 4: [적중시] [화상] 횟수 1 증가, [출혈] 횟수 2 증가
 
 > 뫼르소의 열다섯번째 인격
 
-| Parametr | Wartość bazowa |
-|---|---|
-| Rzadkość | 000 |
-| Sezon | 7 |
-| HP | 69 (+2,39 za poziom) |
-| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7 |
-| Poziom obrony | poziom −1 |
-| Odporności | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
-| Progi Stagger (HP) | 70% / 40% |
-| Grzech wyróżniony | 우울 |
-| Przynależność | Ring_Finger, Ring_Finger_Fauvism |
-| Słowa kluczowe | 출혈, 침잠 |
-| Data aktualizacji | 20260416 |
+| Parametr                  | Wartość bazowa                                         |
+| ------------------------- | ------------------------------------------------------ |
+| Rzadkość                  | 000                                                    |
+| Sezon                     | 7                                                      |
+| HP                        | 69 (+2,39 za poziom)                                   |
+| Szybkość (ulepszenia 1–4) | 3–6 / 3–7 / 4–7 / 4–7                                  |
+| Poziom obrony             | poziom −1                                              |
+| Odporności                | 참격 ×1 (Normal), 관통 ×2 (Fatal), 타격 ×0,5 (Endured) |
+| Progi Stagger (HP)        | 70% / 40%                                              |
+| Grzech wyróżniony         | 우울                                                   |
+| Przynależność             | Ring_Finger, Ring_Finger_Fauvism                       |
+| Słowa kluczowe            | 출혈, 침잠                                             |
+| Data aktualizacji         | 20260416                                               |
 
 #### Umiejętność 1 (×3): 거친 묘사
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 분노 | 타격 | 2 | +3 | 2 | +2 | 1 |
-| 3 | 분노 | 타격 | 2 | +4 | 2 | +2 | 1 |
-| 4 | 분노 | 타격 | 3 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 분노   | 타격 |          2 |         +3 |      2 |           +2 |    1 |
+|          3 | 분노   | 타격 |          2 |         +4 |      2 |           +2 |    1 |
+|          4 | 분노   | 타격 |          3 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [적중시] [출혈] 1 부여  
 Moneta 2: [적중시] [출혈] 횟수 1 증가
@@ -2439,11 +2439,11 @@ Moneta 2: [적중시] [침잠] 횟수 1 증가
 
 #### Umiejętność 2 (×2): 본능적인 휘갈김
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 오만 | 타격 | 3 | +3 | 3 | +3 | 1 |
-| 3 | 오만 | 타격 | 3 | +4 | 3 | +3 | 1 |
-| 4 | 오만 | 타격 | 4 | +4 | 3 | +3 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 오만   | 타격 |          3 |         +3 |      3 |           +3 |    1 |
+|          3 | 오만   | 타격 |          3 |         +4 |      3 |           +3 |    1 |
+|          4 | 오만   | 타격 |          4 |         +4 |      3 |           +3 |    1 |
 
 *Od ulepszenia 1:* [사용시] 대상에게 [찢긴 색채 [루주]]가 없으면 합 위력 +1  
 Moneta 1: [적중시] [출혈] 1 부여  
@@ -2467,9 +2467,9 @@ Moneta 3: [적중시] [침잠] 1 부여
 
 #### Umiejętność 3 (×1): 야수파 - 출품작 전개
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 3 | 색욕 | 타격 | 5 | +4 | 3 | +4 | 1 |
+| Ulepszenie | Grzech | Typ  | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ---- | ---------: | ---------: | -----: | -----------: | ---: |
+|          3 | 색욕   | 타격 |          5 |         +4 |      3 |           +4 |    1 |
 
 *Od ulepszenia 3:* 대상의 부정적인 효과 1개당, 피해량 +10% (최대 60%)  
 [사용시] 자신의 체력이 50% 미만이거나 대상의 찢긴 색채가 5 이상이면, 스킬의 3코인이 추가되며 모든 코인이 [파괴 불가 코인]으로 변경됨  
@@ -2492,9 +2492,9 @@ Moneta 3: [적중시] [찢긴 색채 [루주]] 1 부여
 
 #### Obrona: 채색 준비
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | 색욕 | obrona: kontra | 4 | +4 | 2 | +2 | 1 |
+| Ulepszenie | Grzech | Typ            | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | -------------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | 색욕   | obrona: kontra |          4 |         +4 |      2 |           +2 |    1 |
 
 *Od ulepszenia 1:* [합 가능 반격]  
 자신에게 [야수파 - 마스크 드 시앵]이 있으면, 기본 위력 +2  

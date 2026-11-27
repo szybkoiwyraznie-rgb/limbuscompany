@@ -8,8 +8,6 @@
 
 ### Etap 1 · Happy New Year
 
-<!-- E718B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -81,8 +79,6 @@ Besides...
 I collected my thoughts and approached the Sinners who were flattened up against the glass window to get a good view.
 
 ### Etap 2 · The Duel
-
-<!-- E719B -->
 
 *— Przed walką —*
 
@@ -207,8 +203,6 @@ We were mesmerized by the feathery-light movements of his hands and feet that ef
 **Gregor:** ... I can kinda see how we're becoming experts at getting jumped.
 With the bitter cry of the defeated, his gang rushed toward us.
 
-<!-- E719A -->
-
 *— Po walce —*
 
 **Gregor:** This really isn’t a great start, fellas… Haah. It's never easy, is it?
@@ -238,8 +232,6 @@ A familiar voice. A voice we could not forget.
 We turned around to follow where the voice was coming from… and recognized the two people we've been hoping to see again.
 
 ### Etap 3 · A Guide
-
-<!-- E720B -->
 
 *— Przed walką —*
 
@@ -357,8 +349,6 @@ Or maybe we were simply mindful of this guy who was responsible for the quality 
 
 ### Etap 4 · Ambush
 
-<!-- E721B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 8, Entrance
@@ -445,8 +435,6 @@ Qingtao was already standing so far away from the front lines that he was practi
 **Dante:** Meursault... wake Heathcliff up and set him down.
 **Meursault:** It will be done.
 
-<!-- E721A -->
-
 *— Po walce —*
 
 **Meursault:** Hostiles in the immediate vicinity have been eliminated.
@@ -495,8 +483,6 @@ Outis opened the pamphlet and began intently glaring at its texts, as though she
 
 ### Etap 5 · Kezhan
 
-<!-- E722B -->
-
 *— Przed walką —*
 
 #### Backstreets of District 8, Entrance
@@ -539,8 +525,6 @@ I saw Faust's eyebrows slightly twitch, as though she had just heard the most ri
 **Qingtao:** ... we may be inviting even further trouble by dallying here.
 With that, the guide pulled out a watch to check the time.
 **Qingtao:** ... It will be... nighttime soon.
-
-<!-- E722A -->
 
 *— Po walce —*
 
@@ -666,8 +650,6 @@ So I and the rest of the Sinners followed her into the lodging.
 
 ### Etap 6 · Suspicion
 
-<!-- E723B -->
-
 *— Przed walką —*
 
 #### Kezhan Lobby
@@ -746,8 +728,6 @@ Outis bowed politely and returned to her room…
 Faust and I chatted a little more about Qingtao and his plans, but our discussion ended without bearing much fruit.
 
 ### Etap 7 · Witnessing
-
-<!-- E724B -->
 
 *— Przed walką —*
 
@@ -847,8 +827,6 @@ And, with an uncharacteristically wet noise for something cutting through a wall
 **Dante:** Everyone, back to your rooms, now!
 
 ### Etap 8 · The Heishou Pack
-
-<!-- E725B -->
 
 *— Przed walką —*
 
@@ -978,8 +956,6 @@ Don Quixote and Gregor stood red-faced and on edge, Meursault was covered in bat
 
 ### Etap 9 · Shi Yihua
 
-<!-- E725A -->
-
 *— Po walce —*
 
 #### Melted Kezhan Chamber
@@ -1055,8 +1031,6 @@ The voice soon reveals himself from the shadows, walking into the light with a c
 **Shi Yihua:** You may know me as a very prominent candidate to the throne of the Family Hierarch.
 
 ### Etap 10 · Unexpected Foe
-
-<!-- E726B -->
 
 *— Przed walką —*
 
@@ -1136,8 +1110,6 @@ That, even if one side has the absolute advantage in battle, the commander's wor
 So, I decided to borrow a few words from a book Hong Lu once lent me. It was a general who said it, I believe.
 **Dante:** ... Destroy them all!
 
-<!-- E726I -->
-
 *— W trakcie walki —*
 
 **Heathcliff:** Unhh?!
@@ -1191,8 +1163,6 @@ Ricardo practically rocketed toward where Zilu and Shi Yihua were standing in a 
 **Ishmael:** Ready your weapons, everyone. Payback time for what happened at the Great Lake. Let's do this.
 **Ishmael:** Besides... I've got a score to settle with that son of a bitch.
 
-<!-- E726I2 -->
-
 *— W trakcie walki —*
 
 **Dante:** …!
@@ -1201,8 +1171,6 @@ There was an explosive noise from a distance... and moments later, Ricardo lande
 **Ricardo:** ... So why'd a woman like that suddenly split from a fight...?
 **Ricardo:** Not my problem, I guess.... tsk, she's getting written down in the book, too.
 **Ricardo:** Time to take care of what I really came here for… Get ready for a beatdown, coupon thieves!
-
-<!-- E726A -->
 
 *— Po walce —*
 
@@ -1266,8 +1234,6 @@ Our realization came too late, as the wavelike noise from earlier had already en
 
 ### Etap 11 · Night in the Backstreets
 
-<!-- E727I -->
-
 *— W trakcie walki —*
 
 #### Kezhan Lobby?
@@ -1308,8 +1274,6 @@ The henchmen of the Middle, who had formed a defensive square to withstand the w
 **Sinclair:** I-I think this is definitely more doable now.
 I can feel the spirit rising among the Sinners.
 **Dante:** C'mon, let's do this. We've done this kind of fight a thousand times.
-
-<!-- E727A -->
 
 *— Po walce —*
 
@@ -1414,8 +1378,6 @@ He did not reply, his eyes gazing, yet reflecting nothing but hollow emptiness.
 And just as he had emerged from the darkness, he vanished into the shadows, carrying two decapitated heads.
 
 ### Etap 12 · Alliance
-
-<!-- E728B -->
 
 *— Przed walką —*
 

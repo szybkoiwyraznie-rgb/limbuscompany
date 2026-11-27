@@ -6,8 +6,6 @@
 
 ### Etap 4 · O Pokojach za Tylnymi Drzwiami
 
-<!-- E041X -->
-
 Whether we're riding the bus through a forest or navigating the busboat over a vast lake, our daily routine changes very little.
 **Faust:** Thank you kindly. Starting now, you all will be given a maximum of 12 hours to partake in sleep and rest; the duration is subject to change. Have a good night.
 The usual hubbub, followed by the usual leisurely idleness.
@@ -100,8 +98,6 @@ I was barely able to hold back the vertigo from setting in. Time to saunter back
 Let's turn in early tonight...
 
 ### Etap 5 · 1. Noc Walpurgii
-
-<!-- E042X -->
 
 Another day, another prolonged and dreary period of waiting, waiting, and some more waiting for something to happen. Of course, our busboat was still floating on the coastal Great Lake.
 Voices of discontent among the Sinners started small, but they have been growing increasingly incessant as of late.

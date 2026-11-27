@@ -12,17 +12,17 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Widok Oka Wrony | Podstawowe E.G.O Yi Sanga |
-| 4. Płomyk Zapałki | Wyłączny Sprzęt E.G.O Yi Sanga |
-| Kopczyk Życzeń | Wyłączny Sprzęt E.G.O Yi Sanga |
-| Rozpruwacz Wymiarów | Wyłączny Sprzęt E.G.O Yi Sanga |
-| Lisi Deszcz | Wyłączny Sprzęt E.G.O Yi Sanga |
-| Dni Przeszłe | Wyłączny Sprzęt E.G.O Yi Sanga |
-| Mroczny Pocisk | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Karta                             | Podtytuł                       |
+| --------------------------------- | ------------------------------ |
+| Widok Oka Wrony                   | Podstawowe E.G.O Yi Sanga      |
+| 4. Płomyk Zapałki                 | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Kopczyk Życzeń                    | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Rozpruwacz Wymiarów               | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Lisi Deszcz                       | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Dni Przeszłe                      | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Mroczny Pocisk                    | Wyłączny Sprzęt E.G.O Yi Sanga |
 | Wielki Trichiliokosm [三千大世界] | Wyłączny Sprzęt E.G.O Yi Sanga |
-| Uroczysty Lament | Wyłączny Sprzęt E.G.O Yi Sanga |
+| Uroczysty Lament                  | Wyłączny Sprzęt E.G.O Yi Sanga |
 
 ## Karty
 
@@ -32,10 +32,10 @@
 
 #### Przebudzenie: Widok Oka Wrony
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Penetrate | 14 | +6 | 1 | −4 | 1 |
-| 3 | Lenistwo | Penetrate | 18 | +6 | 1 | −4 | 1 |
+| Ulepszenie | Grzech   | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Penetrate |         14 |         +6 |      1 |           −4 |    1 |
+|          3 | Lenistwo | Penetrate |         18 |         +6 |      1 |           −4 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] Nakłada 2 Spadku Mocy Ataku  
 Moneta 1: [Przy Trafieniu] nakłada na wszystkich sojuszników 1 Pośpiechu następnej tury
@@ -49,10 +49,10 @@ Moneta 1: [Przy Trafieniu] nakłada 2 Spętania następnej tury
 
 #### Wariant: Widok Oka Wrony
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Penetrate | 14 | +6 | 1 | −4 | 1 |
-| 3 | Lenistwo | Penetrate | 18 | +6 | 1 | −4 | 1 |
+| Ulepszenie | Grzech   | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Penetrate |         14 |         +6 |      1 |           −4 |    1 |
+|          3 | Lenistwo | Penetrate |         18 |         +6 |      1 |           −4 |    1 |
 
 Moneta 1: [Przy Trafieniu] nakłada 2 [Spadek Mocy Ataku] w tej i następnej turze  
 Moneta 1: [Przy Trafieniu] nakłada na wszystkich sojuszników 3 [Pośpiech] następnej tury  
@@ -64,11 +64,11 @@ Moneta 1: [Przy Trafieniu] Nakłada w następnej turze 2 [Spętanie]
 
 #### Przebudzenie: 4. Płomyk Zapałki
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 12 | +8 | 1 | +2 | 3 |
-| 4 | Gniew | Slash | 12 | +8 | 1 | +2 | 5 |
-| 5 | Gniew | Slash | 14 | +12 | 1 | +3 | 5 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |         12 |         +8 |      1 |           +2 |    3 |
+|          4 | Gniew  | Slash |         12 |         +8 |      1 |           +2 |    5 |
+|          5 | Gniew  | Slash |         14 |        +12 |      1 |           +3 |    5 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] nakłada 2 Podpalenia
 
@@ -85,11 +85,11 @@ Moneta 1: [Trafienie Awersem] nakłada 6 [Podpalenie]
 
 #### Erozja: 4. Płomyk Zapałki
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Slash | 24 | −12 | 1 | +2 | 3 |
-| 4 | Gniew | Slash | 24 | −12 | 1 | +2 | 5 |
-| 5 | Gniew | Slash | 26 | −12 | 1 | +3 | 5 |
+| Ulepszenie | Grzech | Typ   | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | ----- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Slash |         24 |        −12 |      1 |           +2 |    3 |
+|          4 | Gniew  | Slash |         24 |        −12 |      1 |           +2 |    5 |
+|          5 | Gniew  | Slash |         26 |        −12 |      1 |           +3 |    5 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -121,11 +121,11 @@ Moneta 1: [Trafienie bez Pęknięcia] nakłada 6 [Podpalenie]
 
 #### Przebudzenie: Kopczyk Życzeń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Penetrate | 18 | +4 | 1 | −2 | 1 |
-| 3 | Lenistwo | Penetrate | 22 | +4 | 1 | −2 | 1 |
-| 4 | Lenistwo | Penetrate | 22 | +4 | 1 | −2 | 3 |
+| Ulepszenie | Grzech   | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Penetrate |         18 |         +4 |      1 |           −2 |    1 |
+|          3 | Lenistwo | Penetrate |         22 |         +4 |      1 |           −2 |    1 |
+|          4 | Lenistwo | Penetrate |         22 |         +4 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* Atakuje jednostkę najdalej z tyłu (tylko w zwykłych walkach)  
 Moneta 1: [Przy Trafieniu] nakłada 1 Wrażliwości na Lenistwo  
@@ -137,11 +137,11 @@ Moneta 1: [Trafienie Awersem] Nakłada 3 Paraliżu
 
 #### Erozja: Kopczyk Życzeń
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 20 | −10 | 1 | −2 | 3 |
-| 3 | Lenistwo | Hit | 24 | −10 | 1 | −2 | 3 |
-| 4 | Lenistwo | Hit | 29 | −10 | 1 | −2 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         20 |        −10 |      1 |           −2 |    3 |
+|          3 | Lenistwo | Hit |         24 |        −10 |      1 |           −2 |    3 |
+|          4 | Lenistwo | Hit |         29 |        −10 |      1 |           −2 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -160,10 +160,10 @@ Moneta 1: [Trafienie Awersem] nakłada 3 Spętania następnej tury
 
 #### Przebudzenie: Rozpruwacz Wymiarów
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 15 | +18 | 1 | +3 | 1 |
-| 3 | Pycha | Penetrate | 20 | +18 | 1 | +3 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         15 |        +18 |      1 |           +3 |    1 |
+|          3 | Pycha  | Penetrate |         20 |        +18 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* Atakuje jednostkę najdalej z tyłu (tylko w zwykłych walkach)  
   
@@ -184,10 +184,10 @@ Moneta 1: [Przy Trafieniu] zadaje dodatkowe obrażenia Pychy równe (Rozdarcie c
 
 #### Erozja: Rozpruwacz Wymiarów
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 36 | −24 | 1 | +5 | 1 |
-| 3 | Pycha | Penetrate | 42 | −24 | 1 | +5 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         36 |        −24 |      1 |           +5 |    1 |
+|          3 | Pycha  | Penetrate |         42 |        −24 |      1 |           +5 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -218,11 +218,11 @@ Moneta 1: [Przy Trafieniu] zadaje dodatkowe obrażenia Pychy równe (Rozdarcie c
 
 #### Przebudzenie: Lisi Deszcz
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Penetrate | 15 | +10 | 1 | −1 | 5 |
-| 3 | Lenistwo | Penetrate | 17 | +10 | 1 | −1 | 5 |
-| 4 | Lenistwo | Penetrate | 17 | +15 | 1 | −1 | 7 |
+| Ulepszenie | Grzech   | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Penetrate |         15 |        +10 |      1 |           −1 |    5 |
+|          3 | Lenistwo | Penetrate |         17 |        +10 |      1 |           −1 |    5 |
+|          4 | Lenistwo | Penetrate |         17 |        +15 |      1 |           −1 |    7 |
 
 *Od ulepszenia 1:* [Przed Atakiem] daje w tej i następnej turze wszystkim sojusznikom 1 Wzrostu Mocy Lenistwa, 1 Wzrostu Obrażeń Lenistwa i 2 Ochrony
 
@@ -231,11 +231,11 @@ Moneta 1: [Trafienie Awersem] odzyskuje 15 SP
 
 #### Erozja: Lisi Deszcz
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Penetrate | 28 | −10 | 1 | +3 | 5 |
-| 3 | Lenistwo | Penetrate | 30 | −10 | 1 | +3 | 5 |
-| 4 | Lenistwo | Penetrate | 35 | −15 | 1 | +3 | 7 |
+| Ulepszenie | Grzech   | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Penetrate |         28 |        −10 |      1 |           +3 |    5 |
+|          3 | Lenistwo | Penetrate |         30 |        −10 |      1 |           +3 |    5 |
+|          4 | Lenistwo | Penetrate |         35 |        −15 |      1 |           +3 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -253,9 +253,9 @@ Moneta 1: [Przy Trafieniu] nakłada w tej i następnej turze 2 Wrażliwości na 
 
 #### Przebudzenie: Dni Przeszłe
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Penetrate | 15 | +8 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Penetrate |         15 |         +8 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Koniec Ataku] losowo nakłada (6 + Rezonansu Posępności) [Zatonięcie] między cele ataku  
 Moneta 1: [Przy Trafieniu] jeżeli cel ma 6+ [Zatonięcie], nakłada 1 [Spętanie] następnej tury
@@ -268,9 +268,9 @@ Moneta 1: [Przy Trafieniu] jeżeli cel ma 6+ [Zatonięcie], nakłada 2 [Spętani
 
 #### Erozja: Dni Przeszłe
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 22 | −6 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         22 |         −6 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -296,9 +296,9 @@ Moneta 1: [Przy Trafieniu] jeżeli cel ma 6+ [Zatonięcie], nakłada 2 [Spętani
 
 #### Przebudzenie: Mroczny Pocisk
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 18 | +6 | 2 | +5 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         18 |         +6 |      2 |           +5 |    7 |
 
 *Od ulepszenia 1:* Priorytet ataku: cele z najniższym HP (najpierw sojusznicy)  
 [Przed Atakiem] zyskuje (najwyższego Rezonansu + 1) [Naderwane Wspomnienie] (maks. 7)  
@@ -344,9 +344,9 @@ Moneta 2: [Trafienie Krytyczne] nakłada 3 [Krwawienie]
 
 #### Erozja: Mroczny Pocisk
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 30 | −8 | 2 | +5 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         30 |         −8 |      2 |           +5 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Priorytet ataku: cele z najniższym HP (najpierw sojusznicy)  
@@ -410,9 +410,9 @@ Moneta 2: [Trafienie Krytyczne] nakłada 5 [Krwawienie]
 
 #### Przebudzenie: Wielki Trichiliokosm [三千大世界]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Penetrate | 4 | +3 | 4 | +3 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Penetrate |          4 |         +3 |      4 |           +3 |    7 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższego Rezonansu) [Oddech] (maks. 7)  
 - jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Oddech] (maks. 2, zaokrąglone w dół)  
@@ -457,9 +457,9 @@ Moneta 4: [Trafienie bez Pęknięcia] aktykuje [Podpalenie] na celu 1 raz; nast�
 
 #### Erozja: Wielki Trichiliokosm [三千大世界]
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Gniew | Penetrate | 12 | −2 | 4 | +3 | 7 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Gniew  | Penetrate |         12 |         −2 |      4 |           +3 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -521,10 +521,10 @@ Moneta 4: [Trafienie bez Pęknięcia] aktykuje [Podpalenie] na celu 1 raz; nast�
 
 #### Przebudzenie: Uroczysty Lament
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Penetrate | 6 | +2 | 5 | +4 | 3 |
-| 4 | Posępność | Penetrate | 6 | +3 | 5 | +4 | 3 |
+| Ulepszenie | Grzech    | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Penetrate |          6 |         +2 |      5 |           +4 |    3 |
+|          4 | Posępność | Penetrate |          6 |         +3 |      5 |           +4 |    3 |
 
 *Od ulepszenia 1:* [Ostrzał Bez Celowania]  
 Przy nakładaniu [Motyl] efektami tej Umiejętności: (szansa na wypadnięcie awersu)% szansy na nałożenie Zmarłego. Jeżeli ta jednostka nie nałożyła Zmarłego, nakłada Żyjącego. (każdy stos [Motyl] liczony osobno)  
@@ -604,9 +604,9 @@ Moneta 5: [Przy Trafieniu] zadaje obrażenia Posępności równe ([Żywe i Martw
 
 #### Erozja: Uroczysty Lament
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Penetrate | 16 | −3 | 3 | +4 | 3 |
+| Ulepszenie | Grzech    | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Penetrate |         16 |         −3 |      3 |           +4 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  

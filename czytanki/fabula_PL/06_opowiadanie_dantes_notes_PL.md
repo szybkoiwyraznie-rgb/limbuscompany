@@ -6,8 +6,6 @@
 
 ### Etap 1 · Zapiski Dantego
 
-<!-- E010X -->
-
 **Faust:** …Dante?
 Mephistopheles nie pędzi przecież przez okrągłą dobę. Charon też jest człowiekiem, a Mephisto to w końcu tylko silnik. Każdy potrzebuje czasem odpocząć.
 **Dante:** Nie śpisz, Faust?
@@ -40,8 +38,6 @@ Dlatego muszę się porządnie ubezpieczyć.
 Żeby nie zapomnieć drugi raz.
 
 ### Etap 2 · Tylne Drzwi autobusu
-
-<!-- E020X -->
 
 **Heathcliff:** ?! C-co jest?!
 Autobus, który dotąd gładko mknął przez Zaułki, nagle stanął.
@@ -132,8 +128,6 @@ Ale może… Faust już wtedy wiedziała. W końcu Faust wie wszystko.
 …Wiedziała, że już niedługo sam się dowiem, co jest w głębi korytarza.
 
 ### Etap 3 · W głębi Korytarza autobusu
-
-<!-- E030X -->
 
 Wszystko wydarzyło się równo tydzień po tamtej bezowocnej wymianie zdań.
 **Dante:** Zatwierdzam zakończenie pracy Grzeszników.

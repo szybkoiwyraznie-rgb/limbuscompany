@@ -18,8 +18,6 @@
 
 > Vergilius przedstawia cel tej operacji. Wszyscy są w świetnych humorach, tylko jeden z Grzeszników zaczyna reagować dziwnie niespokojnie…
 
-<!-- S301B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -104,8 +102,6 @@ Dopiero wtedy w autobusie zrobiło się cicho.
 
 > Podobno jedziemy do Gniazda K Corp. Wszyscy reagują na to tak samo zdumieni. Żeby dostać się do Gniazda, trzeba przejść przez punkt kontrolny, a procedury są tam ponoć bardzo drobiazgowe.
 
-<!-- S302B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -139,8 +135,6 @@ Niestety, żaden z Grzeszników mi nie odpowiedział.
 **Meursault:** …Koło autobusu słychać wielu nieproszonych gości.
 **Dante:** No cóż… chleb powszedni.
 
-<!-- S302A -->
-
 *— Po walce —*
 
 **Charon:** Charon w dobrym humorze dojechała w dobrym humorze.
@@ -173,8 +167,6 @@ Te słowa Vergiliusa brzmiały zupełnie tak, jakby mówił:
 *Miejsce: Punkt kontrolny K Corp.*
 
 > Po gruntownych próbach pod okiem Vergiliusa i Ishmael dotarliśmy tuż przed stanowisko kontroli. Gdybyśmy tylko przeszli bez przeszkód…
-
-<!-- S303B -->
 
 *— Przed walką —*
 
@@ -290,8 +282,6 @@ a ludzie w groźnie wyglądających uniformach również patrzyli na nas.
 
 > Nasza Don Quixote, która nie znosi niesprawiedliwości, znów narozrabiała. W samym środku Gniazda K Corp. ze wszystkich stron zbiegają się pracownicy, a Vergilius, najwyraźniej porządnie zły, skrzyżował ręce i przygląda się w milczeniu.
 
-<!-- S304B -->
-
 *— Przed walką —*
 
 #### Punkt kontrolny K Corp.
@@ -315,8 +305,6 @@ bo ze wszystkich stron nadciągali uzbrojeni pracownicy.
 Vergilius niespiesznie przecisnął się między uzbrojonymi strażnikami i oparł się o ścianę.
 Do tego założył ręce, jakby postanowił na dobre zostać widzem.
 
-<!-- S304A -->
-
 *— Po walce —*
 
 **Dante:** Naprawdę będziesz tylko patrzył?
@@ -332,8 +320,6 @@ Moje wątłe wołanie zostało całkowicie zignorowane (pewnie nikt go nawet nie
 *Miejsce: Punkt kontrolny K Corp.*
 
 > Dzięki pociskom HP, Osobliwości K Corp., śmiertelne rany, które z trudem zadajemy wrogom, goją się w mgnieniu oka. Grzesznikom kończy się cierpliwość.
-
-<!-- S306A -->
 
 *— Po walce —*
 
@@ -364,8 +350,6 @@ echem poniósł się czyjś śmiech, wesoły ponad wszelką miarę.
 *Miejsce: Punkt kontrolny K Corp.*
 
 > Ktoś pędzi ku nam z zewnątrz z zawrotną prędkością. Ten aż przesadnie żwawy i nadmiernie radosny jegomość nazywa się Siegfried. Wymienia pozdrowienia z Vergiliusem, jakby się znali, po czym w okamgnieniu rzuca się na Grzeszników.
-
-<!-- S307B -->
 
 *— Przed walką —*
 
@@ -433,8 +417,6 @@ Prawdę mówiąc, nie powstrzymywałem Don Quixote ze wszystkich sił. Więc kie
 *Miejsce: Przed punktem kontrolnym K Corp.*
 
 > Po chaotycznym pierwszym spotkaniu z Siegfriedem natknęliśmy się przed punktem kontrolnym na znajome twarze. Wciąż tak samo pewni siebie, witają nas…
-
-<!-- S308B -->
 
 *— Przed walką —*
 
@@ -534,8 +516,6 @@ Może, na szczęście, dotarło do niej, że jej wyczyny przysparzają innym kł
 
 > Wróciliśmy do autobusu, ale atmosfera jest jakaś nieprzyjemna. Vergilius chyba nie zamierza puścić tego płazem. Trzymaj się, Don Quixote…!
 
-<!-- S309B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -606,8 +586,6 @@ Jaką umowę oni właściwie zawarli?
 *Miejsce: Wjazd do Calw*
 
 > Zamieszanie dobiegło końca i wreszcie ruszamy do celu. W drodze do miejsca zwanego Calw, w K Corp., zanim zdążyliśmy nacieszyć się chwilą spokoju, ludzie przedstawiający się jako “Inkwizytorzy” przebili szybę autobusu.
-
-<!-- S310B -->
 
 *— Przed walką —*
 
@@ -684,8 +662,6 @@ Na te słowa Inkwizytorzy jak jeden mąż zajęli pozycje, gotowi do ataku.
 
 > Odezwała się grupa zwiadowcza. Nieznany głos z krótkofalówki zdradzał, że dzieje się coś niedobrego. Sinclair zaczął wpadać w przerażenie.
 
-<!-- S311B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -752,8 +728,6 @@ Po chwili Sinclair odzyskał przytomność i pustym, niczego niewyrażającym wz
 
 > Dotarliśmy do celu, do miasteczka Calw. Skądś dobiega znajoma piosenka, a na drzewach gęsto wiszą potworne ozdoby.
 
-<!-- S313B -->
-
 *— Przed walką —*
 
 #### Calw - rynek
@@ -813,8 +787,6 @@ Widziałem, jak wokół Guida gromadzą się inni Inkwizytorzy.
 Guido stoi za nimi niewzruszony.
 …Nic więcej, a jednak wszyscy Grzesznicy czują się przytłoczeni.
 Otaczała go wrogość, gwałtowna i ciężka.
-
-<!-- S313A -->
 
 *— Po walce —*
 
@@ -902,8 +874,6 @@ Ulicę wypełniał tylko nieprzyjemny trzask i syk iskier.
 
 > W kącie miasteczka protezy piętrzą się jak na wysypisku. Nagle zastanawiam się, czym właściwie jest moje prawdziwe ja.
 
-<!-- S315B -->
-
 *— Przed walką —*
 
 #### Calw - rynek
@@ -978,8 +948,6 @@ No co, przecież to prawda.
 
 > Żal patrzeć, jak rozpaczliwie Sinclair stara się stłumić strach. Patrząc na mnie, przypomina sobie dawnego przyjaciela.
 
-<!-- S316B -->
-
 *— Przed walką —*
 
 #### Calw - rynek
@@ -1016,8 +984,6 @@ Sinclair był już daleko przede mną.
 *Miejsce: Przed posiadłością Sinclairów*
 
 > Stanęliśmy przed posiadłością Sinclairów. Przed nią wiszą przybite gwoździami ciała z protezami. Wśród nich dostrzegamy kogoś, na kogo nie potrafimy spojrzeć wprost.
-
-<!-- S317B -->
 
 *— Przed walką —*
 
@@ -1115,8 +1081,6 @@ A potem…
 
 > Kromer weszła do płonącej rezydencji. Na widok Guida, który idzie ku nam bez draśnięcia, Grzesznicy w jednej chwili tracą ducha.
 
-<!-- S318B -->
-
 *— Przed walką —*
 
 #### Dawna posiadłość Sinclairów
@@ -1165,8 +1129,6 @@ Ishmael urywa, sapiąc ze złości.
 **Guido:** Kto nie okaże skruchy…
 **Heathcliff:** Ej, kiedy ty skończysz to swoje zasrane, rozwlekłe kazanie?
 **Guido:** …ten nie wróci w proch.
-
-<!-- S318A -->
 
 *— Po walce —*
 
@@ -1223,8 +1185,6 @@ Nie było żadnego powodu, żeby na niego nie zaczekać.
 
 > Sinclair zaprowadził nas do piwnicy, z której ciągnie się podejrzany korytarz. Faust przypuszcza, że wykopali go wysłannicy N Corp.
 
-<!-- S320B -->
-
 *— Przed walką —*
 
 #### Gdzieś w piwnicy
@@ -1260,8 +1220,6 @@ a ona, zamiast mu odpowiedzieć, przeszła płynnie obok i stanęła przed drzwi
 
 > Dotarliśmy do filii L Corp. Jak w sali tortur, wszędzie walają się narzędzia, strzępy ciał i maszyny.
 
-<!-- S322B -->
-
 *— Przed walką —*
 
 #### Dystrykt 11 - gdzieś w filii L Corp.
@@ -1290,8 +1248,6 @@ Inkwizytorzy N Corp. najwyraźniej od dłuższego czasu mieli tu swoją bazę: w
 Obejrzałem się. Rodion wzruszyła ramionami.
 **Rodion:** No co? Też chciałam raz się wykazać.
 
-<!-- 3D101A -->
-
 *— Po walce —*
 
 **???:** No proszę… państwo całkiem… podszkolili się w walce…?
@@ -1312,8 +1268,6 @@ odpowiedział cicho Hong Lu.
 **Outis:** Chyba znowu pełzną tu te dziwne stwory.
 Zaczęły się zbiegać Peccatula.
 Jakby zbiegało się do nas poczucie winy za to kłamstwo.
-
-<!-- 3D102A -->
 
 *— Po walce —*
 
@@ -1400,8 +1354,6 @@ Rozległ się stuk pistoletu, który upadł na podłogę.
 Zostawiliśmy umierającą Saude i ruszyliśmy dalej.
 Przez długi czas nikt się nie odzywał.
 
-<!-- 3D103B -->
-
 *— Po walce —*
 
 **Heathcliff:** …Słyszycie? Jakby gdzieś łaziło jakieś zwierzę.
@@ -1427,8 +1379,6 @@ czy w ogóle zostanie użyta w imię ich wartości?
 I nagle przyszło mi do głowy,
 że skoro działam, nie wiedząc, do czego doprowadzi Złota Gałąź,
 to ja także niczym się nie różnię od tych szpetnych skorodowanych.
-
-<!-- 3D301B -->
 
 *— Po walce —*
 
@@ -1537,8 +1487,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Sinclair:** Od tamtej pory
 **Sinclair:** często rozmawiałem z Kromer.
 
-<!-- 3D302B -->
-
 *— Po walce —*
 
 **Sinclair:** W naszej rodzinie obowiązywała zasada, że co rano jemy razem śniadanie.
@@ -1574,8 +1522,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Kromer:** To ci powiem następnym razem.
 **Kromer:** Ale w zamian…
 **Kromer:** Tak jak ja zaspokoję twoją urazę, tak ty będziesz musiał spełnić moją.
-
-<!-- 3D303B -->
 
 *— Po walce —*
 
@@ -1631,8 +1577,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Kromer:** Przynieś mi po kryjomu klucz do piwnicy, a resztę drogi już ci pokażę…
 **Sinclair:** Nie umiejąc uchwycić znajomego wrażenia, które czaiło się w jej słowach, powoli skinąłem głową…
 **Sinclair:** I tak w samym sercu naszego domu zaczął się świat zła.
-
-<!-- 3D304B -->
 
 *— Po walce —*
 
@@ -1699,8 +1643,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Sinclair:** Żałuję i przeklinam swoją głupotę,
 **Sinclair:** przez którą nie zapytałem ani słowem.
 
-<!-- 3D305B -->
-
 *— Po walce —*
 
 **Demian** (*Tajemniczy nowy uczeń*): Czyli w końcu dałeś Kromer ten klucz.
@@ -1720,8 +1662,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Sinclair:** Ale…
 **Sinclair:** Skoro tak, to dlaczego nie wspomniał mi ani słowem?
 **Sinclair:** Do dziś się nad tym zastanawiam.
-
-<!-- 3D306B -->
 
 *— Po walce —*
 
@@ -1770,8 +1710,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Sinclair:** Wśród dzwonienia w uszach, tupotu butów i zawrotów głowy…
 **Sinclair:** straciłem przytomność.
 
-<!-- 3D307B -->
-
 *— Po walce —*
 
 #### Pośrodku jakiejś uliczki
@@ -1797,8 +1735,6 @@ Ale wola kogoś, kto nie jest tu panem, niczego nie znaczyła.
 **Sinclair:** aż w końcu znów straciłem przytomność.
 
 ### Eksploracja
-
-<!-- 3D308B -->
 
 #### Bezkresne Wzgórze Trupów
 
@@ -1842,8 +1778,6 @@ Jakby żądza i obłęd przybierały kształt…
 
 > Dotarliśmy do filii L Corp. Jak w sali tortur, wszędzie walają się narzędzia, strzępy ciał i maszyny.
 
-<!-- 3D309B -->
-
 *— Po walce —*
 
 #### Bezkresne Wzgórze Trupów
@@ -1864,8 +1798,6 @@ Jakby żądza i obłęd przybierały kształt…
 **Kromer:** Tym razem nie uciekniesz, co?
 
 ### Etap 3-48
-
-<!-- 3D309I1 -->
 
 *— W trakcie walki —*
 
@@ -1904,8 +1836,6 @@ Jakby żądza i obłęd przybierały kształt…
 **Kromer:** No… Sinclair.
 **Kromer:** Rozedrzyj mnie i wypij.
 **Kromer:** Jeśli potrafisz… chi, chi.
-
-<!-- 3D309I2 -->
 
 *— W trakcie walki —*
 
@@ -1978,8 +1908,6 @@ górna połowa ciała Kromer zniknęła bez śladu.
 *Miejsce: Gdzieś w podziemiach posiadłości Sinclairów*
 
 > Dotarliśmy do filii L Corp. Jak w sali tortur, wszędzie walają się narzędzia, strzępy ciał i maszyny.
-
-<!-- 3D309A -->
 
 *— Po walce —*
 

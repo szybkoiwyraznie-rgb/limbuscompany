@@ -13,8 +13,6 @@
 
 ### Etap 8-1 · Homeward Bound
 
-<!-- S801B -->
-
 *— Przed walką —*
 
 *Flowers wilt, petals fall, a drizzle of blossoms sky-blotting;*
@@ -144,8 +142,6 @@ Jia Xichun gave us a wry grin before leaving. Wei followed her wordlessly.
 **Outis:** Shi Yihua is unlikely to be the only one who's going after the other candidates… Executive Manager, we best take care of them before the next palanquin arrives.
 **Dante:** … Yeah. What can we do, right?
 
-<!-- S801A -->
-
 *— Po walce —*
 
 **Outis:** No more signs of enemy reinforcements, Executive Manager.
@@ -169,8 +165,6 @@ Saude chimed in nonchalantly as though it wasn't her who pulled the plug on our 
 **Hong Lu:** … there is no reason to be upset by the way things are.
 
 ### Etap 8-2 · The Bell Tolls
-
-<!-- S802B -->
 
 *— Przed walką —*
 
@@ -279,8 +273,6 @@ Her demeanor had shifted entirely into that of a calm and collected strategist, 
 
 ### Etap 8-3 · Disruption
 
-<!-- S803B -->
-
 *— Przed walką —*
 
 #### Palanquin Interior
@@ -294,8 +286,6 @@ Not long after Saude paused over Outis's remark, a grating speaker whine rang ou
 **Dante:** ... Why am I not surprised?
 
 ### Etap 8-5 · Petals
-
-<!-- S805B -->
 
 *— Przed walką —*
 
@@ -417,8 +407,6 @@ Maybe he was trying to commiserate, tenuous as that connection might've been. We
 **Hong Lu:** And because Xiren was always so smart, I'm sure it happened exactly as she said.
 
 ### Etap 8-6 · Jia Baoyu
-
-<!-- S806B -->
 
 *— Przed walką —*
 
@@ -626,8 +614,6 @@ Hong Lu’s mother hurried up to where Jia Mu stood.
 
 ### Etap 8-7 · Xue Baochai
 
-<!-- S807B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Dahuating Banquet Hall
@@ -724,8 +710,6 @@ With that, she gracefully walked out of the room.
 **Hong Lu:** It's within walking distance from here. We should be there in no time, even on foot.
 
 ### Etap 8-8 · Yihongyuan
-
-<!-- S808B -->
 
 *— Przed walką —*
 
@@ -907,8 +891,6 @@ Oh well... it won't hurt to get our blood pumping now.
 
 ### Etap 8-9 · Training Yard
 
-<!-- S809A -->
-
 *— Po walce —*
 
 #### Daguanyuan - Yihongyuan Yard
@@ -943,8 +925,6 @@ Oh well... it won't hurt to get our blood pumping now.
 **Faust:** And please remember that... there are no second chances in the Family Hierarch war.
 
 ### Etap 8-10 · To be Free from Aging and Death
-
-<!-- S810B -->
 
 *— Przed walką —*
 
@@ -1080,8 +1060,6 @@ As Faust expected, all three judges appeared quite satisfied by what Jia Xichun 
 
 ### Etap 8-11 · N Corp.
 
-<!-- S811B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Tubitang
@@ -1189,8 +1167,6 @@ I was simultaneously reminded of Saude and the confident smile she flashed at me
 **Dante:** Looks like we have no choice but to take them down...
 
 ### Etap 8-12 · The Thumb
-
-<!-- S812A -->
 
 *— Po walce —*
 
@@ -1322,8 +1298,6 @@ Unlike Jia Qiu, whose appearance plunged the hall into utter stillness, Hong Lu'
 **Hong Lu:** Jia Baoyu, of the Jia family, will partake in the Family Hierarch Evaluations.
 
 ### Etap 8-13 · Declaration of Participation
-
-<!-- S813B -->
 
 *— Przed walką —*
 
@@ -1555,8 +1529,6 @@ Xue Baochai left us to rejoin her faction, waving sweetly as she did so.
 
 ### Etap 8-14 · Jia Xichun
 
-<!-- S814B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Yihongyuan Interior
@@ -1689,8 +1661,6 @@ But Heathcliff sounded just as uneasy.
 
 ### Etap 8-15 · Intruders
 
-<!-- S815B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Yihongyuan Interior
@@ -1724,8 +1694,6 @@ With that, the enemies began flooding into the room.
 
 ### Etap 8-17 · Night Ambush 2
 
-<!-- S817I -->
-
 *— W trakcie walki —*
 
 #### Daguanyuan - Yihongyuan Interior
@@ -1742,8 +1710,6 @@ With that, the enemies began flooding into the room.
 **???:** Really? You think I'd just tell you all that if you asked nicely, working in this line of business? Heh heh. I have no name nor allegiance to give you, friend!
 **???:** Haah... though I have no name to give, I have a title that others took the liberty of giving me. You tend to pick up one or two of those after surviving for so long.
 **Night Drifter** (*???*): He who emerges with a liquor bottle, only to fade into the nightly shadow... the world has deigned to call him the Night Drifter of the Drunken Palm!
-
-<!-- S817A -->
 
 *— Po walce —*
 
@@ -1768,8 +1734,6 @@ And the intruder disappeared from the room without another word...
 **Gregor:** Well... I imagine he's saying that he's happy we've got his back. To paraphrase.
 
 ### Etap 8-18 · Xiren
-
-<!-- S818B -->
 
 *— Przed walką —*
 
@@ -1844,8 +1808,6 @@ Silence descended in the palanquin.
 No one replied.
 
 ### Etap 8-19 · Lin Daiyu
-
-<!-- S819B -->
 
 *— Przed walką —*
 
@@ -1943,8 +1905,6 @@ The deep sorrow in the child's eyes was about to overflow, as if he were ready t
 
 ### Etap 8-20 · Second Round of the Family Hierarch Evaluation
 
-<!-- S820B -->
-
 *— Przed walką —*
 
 **Hong Lu:** *O the garden's sorrow-bearer, lamenter at the flower-funeral*
@@ -2030,8 +1990,6 @@ Hong Lu paused, then turned around.
 **Hong Lu:** Yes, I probably did.
 I'm starting to have less and less idea as to what his smile really means.
 
-<!-- 8D101B -->
-
 *— Po walce —*
 
 #### Evaluation Arena 1F
@@ -2077,8 +2035,6 @@ Three coins now hung from Hong Lu's waist, threaded by a rope.
 And with that...
 **Host:** Let the second round of the Hierarch Evaluation commence!
 The second round begins, and the two-hour time limit begins to count down.
-
-<!-- 8D102B -->
 
 *— Po walce —*
 
@@ -2229,8 +2185,6 @@ If Wang Zhao had also made it into the Dungeon of the Fathoms alongside the rest
 Unlike the Hong Lu we know, the younger version of him...
 ... did not have even a trace of that familiar smile. His eyes were fixed to the ground in silence, and that was all he did.
 
-<!-- 8D103B -->
-
 *— Po walce —*
 
 We traversed down the hallway Hong Lu found, walking in awkward, depressed silence.
@@ -2251,8 +2205,6 @@ Somehow, Hong Lu ended up comforting Sinclair.
 As we continued down the hallway, chatting...
 ... we eventually found ourselves before a shut gate.
 **Ishmael:** … Let's head inside.
-
-<!-- 8D104B -->
 
 *— Po walce —*
 
@@ -2286,8 +2238,6 @@ There was an awkward silence.
 **Hong Lu:** Like, did you know that there are people out there who sleep in roofless rooms?
 **???:** Asshole, think you're funny...?! I swear, I'm gonna eliminate you here...!
 **Wang Zhao:** You sure know how to make friends, young master Baoyu.
-
-<!-- 8D104A -->
 
 *— Po walce —*
 
@@ -2417,8 +2367,6 @@ That's when the host's cheerful voice began booming from the speakers, excitedly
 **Host:** Aha~ Looks like it's real chaotic out there! Now, let's try not to push your luck and get yourselves stuck between walls, mmkay? It'll be one hell of a clean-up job to have to scrape and scrub your bits off the walls. Better get moving!
 We began sprinting full-speed to where the walls were starting to rise from the floor, the host's snidely chipper tone taunting us the whole time.
 **Host:** Oof! Looks like some of you didn't make it! You were so close, too... And... ouch, I spy a candidate who's been separated from her clan in the chaos. Whoa, try not to lose your coins in the chaos!
-
-<!-- 8D105B -->
 
 *— Po walce —*
 
@@ -2601,8 +2549,6 @@ There was a silence. Her questions were sharp and thorned, but Hong Lu made no a
 **Lin Daiyu:** ... Then, please excuse my intrusion.
 **Lin Daiyu:** I will try my utmost to not be a... burden to you.
 
-<!-- 8D106B -->
-
 *— Po walce —*
 
 **Ishmael:** ... There's a suspicious looking door to the side. Should we check out what's inside?
@@ -2655,8 +2601,6 @@ Hong Lu began as though he recognized them.
 **Hong Lu:** Hongyuan's condemned.
 **Lin Daiyu:** …….
 The condemned howled madly as they charged us.
-
-<!-- 8D106A -->
 
 *— Po walce —*
 
@@ -2791,8 +2735,6 @@ Hong Lu tilted his head to the side curiously, as though he couldn't understand 
 Regardless of these revelations, however, the Family Hierarch war was still ongoing.
 So with Gregor's succinct words of consolation, we moved on from the area, away from the rising walls.
 
-<!-- 8D107B -->
-
 *— Po walce —*
 
 #### Evaluation Arena 1F - Lab Ruins
@@ -2828,8 +2770,6 @@ So with Gregor's succinct words of consolation, we moved on from the area, away 
 **Hong Lu:** Okay~ If that's what you'd like to do.
 **Lin Daiyu:** …….
 I beheld two different eyes. One of Hong Lu, who was willing to let the flow carry him away, and the other of Lin Daiyu, swirling with a kaleidoscope of emotions.
-
-<!-- 8D107A -->
 
 *— Po walce —*
 
@@ -2888,8 +2828,6 @@ Without a reply, she shambled out to the hallways, weeping.
 **Jia Mu:** Yes, indeed... The time is nigh.
 **Jia Mu:** The time is nigh indeed.
 
-<!-- 8D108B -->
-
 *— Po walce —*
 
 **Host:** Okay~ The end of the game is nigh!
@@ -2908,8 +2846,6 @@ Without a reply, she shambled out to the hallways, weeping.
 **Outis:** The number of remaining candidates is still shrinking.
 **Outis:** We need only collect the coins. Do not lose sight of our mission, no matter what.
 Outis gave us a consistent and constant stream of encouragements as we moved from room to room.
-
-<!-- 8D201B -->
 
 *— Po walce —*
 
@@ -2937,8 +2873,6 @@ Don Quixote now knows that the world is not as black-and-white as she used to th
 How could she, when the prisoners and we were all treated like nothing but entertainment...
 ... for the spectators watching us from so high up? When all of this was just to select the Family Hierarch?
 **Prisoner of Hongyuan:** Forgive us... forgive us...
-
-<!-- 8D201A -->
 
 *— Po walce —*
 
@@ -3026,8 +2960,6 @@ Hong Lu called it... *erosion*.
 **Lin Daiyu:** Even with her expertise, even with the support of the Kong family, creating a new branch of the Heishou Pack was an entirely different matter.
 **Lin Daiyu:** This brings us to question whether... it really was a thirteenth branch of the Heishou Pack she wanted to create.
 
-<!-- 8D202B -->
-
 *— Po walce —*
 
 #### Evaluation Arena B1
@@ -3057,8 +2989,6 @@ Indeed, despite the distance between us and the candidate, we could hear his ira
 **Hong Lu:** It's the opposite, actually. I think I'm too used to it that I don't really want to do it again.
 **Shi Sijing:** ... You're just as much of an asshole as you were then.
 **Shi Sijing:** Let's see if you'll still be spouting off that bullshit after I take all of your coins away.
-
-<!-- 8D202A -->
 
 *— Po walce —*
 
@@ -3154,8 +3084,6 @@ Indeed, despite the distance between us and the candidate, we could hear his ira
 **Jia Baoyu:** The people, I...
 **Jia Baoyu:** ... I can still hear them fall...
 
-<!-- 8D203B -->
-
 *— Po walce —*
 
 #### Evaluation Arena B1
@@ -3231,8 +3159,6 @@ Hong Lu replies with a smile.
 **Xue Pan:** A mere bodyguard in service of our family dares to lecture me about the nature of Daguanyuan?
 **Lin Daiyu:** No, I... know Daguanyuan better than you do.
 **Lin Daiyu:** So... let it be known that my advice comes from my heart.
-
-<!-- 8D203A -->
 
 *— Po walce —*
 
@@ -3313,8 +3239,6 @@ We have waited long for your arrival.
 **Xiren:** There is no need for one to question the rights and wrongs of the many things that occur here.
 **Xiren:** Would you like some tea, young master?
 **Jia Baoyu:** I…
-
-<!-- 8D204B -->
 
 *— Po walce —*
 
@@ -3458,8 +3382,6 @@ Don Quixote muttered, despondently watching as the coins rolled away.
 **Shi Yihua:** Once I had the taste of that ascendant world, I realized that the throne of the Family Hierarch was an insignificant illusion all along.
 **Shi Yihua:** You will pay me the respect that I am owed! For I have achieved immortality that you miserable insects have been crawling through mud and shit to find!
 
-<!-- 8D204A -->
-
 *— Po walce —*
 
 **Outis:** Take cover, Executive Manager!
@@ -3475,8 +3397,6 @@ Sharp feathers began to fly in all directions, puncturing the walls and anyone c
 **Lin Daiyu:** ... Miss Baochai.
 Leaving behind Xue Baochai as she and her Xue mercenaries drew Shi Yihua away...
 ... we barely managed to make it within the walls.
-
-<!-- 8D205B -->
 
 *— Po walce —*
 
@@ -3669,8 +3589,6 @@ Wordless tears streamed down Daiyu's cheeks.
 **Hong Lu:** An errant gale came and blew our kites away, ending our game. That's all.
 **Hong Lu:** Do not let the wandering winds pave these streams on your cheeks.
 
-<!-- 8D206B -->
-
 *— Po walce —*
 
 #### Evaluation Arena B2
@@ -3735,8 +3653,6 @@ Jia Xichun asked, realizing the oddly downcast atmosphere surrounding our group.
 **Wei:** Rest assured, I will protect my lady to my last dying breath.
 **Wei:** I wish you good tidings until the end of the games.
 
-<!-- 8D207B -->
-
 *— Po walce —*
 
 **Host:** We're really getting to the climax now.
@@ -3746,8 +3662,6 @@ Jia Xichun asked, realizing the oddly downcast atmosphere surrounding our group.
 **Cool-headed Clan Member:** There he is! Get 'im!
 **Anxious Clan Member:** W-who's that? Isn't he from the Jia family...?
 **Cool-headed Clan Member:** We'll never defeat Jia Qiu anyway. Let's at least take Jia Baoyu out!
-
-<!-- 8D207A -->
 
 *— Po walce —*
 
@@ -3849,8 +3763,6 @@ Neither of them are even remotely fond of Hong Lu, so they are likely going to g
 **Hong Lu:** So... the fact that he has returned...
 **Hong Lu:** ... must be proof of his indefatigable determination and will.
 **Hong Lu:** Of course, I wouldn't... know what that's like.
-
-<!-- 8D208B -->
 
 *— Po walce —*
 
@@ -3974,8 +3886,6 @@ But they soon shut again, as though he was shaking himself from an illusion.
 
 ### Etap 8-27 · The Second Battlefield
 
-<!-- 8D209I -->
-
 *— W trakcie walki —*
 
 #### Final Room of the Family Hierarch Evaluation
@@ -4076,8 +3986,6 @@ The same, lonely smile that has seen far too many things they care about float a
 **Jia Qiu:** Reflect upon yourself! Exhume your humanity, your righteousness from deep within!
 
 ### Etap 8-20 · Second Round of the Family Hierarch Evaluation
-
-<!-- 8D209A -->
 
 *— Po walce —*
 
@@ -4282,8 +4190,6 @@ And I still had no idea what Hong Lu was looking at.
 That's how the Family Hierarch war... came to a close.
 
 ### Etap 8-21 · The Hierarch of Hongyuan
-
-<!-- S821B -->
 
 *— Przed walką —*
 
@@ -4503,8 +4409,6 @@ Daiyu apologized as though she somehow felt responsible for this.
 **???:** Hey... Baoyu...
 
 ### Etap 8-22 · Momentary Power Vacuum
-
-<!-- S822B -->
 
 *— Przed walką —*
 
@@ -4801,8 +4705,6 @@ Did Xichun like the gift, as Hong Lu wanted her to?
 
 ### Etap 8-23 · Justice of Others
 
-<!-- S823B -->
-
 *— Przed walką —*
 
 #### Daguanyuan - Aojingguan Banquet Hall
@@ -4940,8 +4842,6 @@ And we both walk away, to our destinations in opposite directions.
 
 ### Etap 8-24 · Actions of a Thief
 
-<!-- S824B -->
-
 *— Przed walką —*
 
 #### Way Down to Tiekan Temple
@@ -4970,8 +4870,6 @@ Looks like I was right.
 **Generous Clan Member:** Destroy them all!
 
 ### Etap 8-25 · The Will to Change
-
-<!-- S825A -->
 
 *— Po walce —*
 
@@ -5029,8 +4927,6 @@ I imagined Hong Lu, slowly walking down this hallway alone with a dark expressio
 
 ### Etap 8-26 · A Ridiculous Idea
 
-<!-- S826B -->
-
 *— Przed walką —*
 
 #### Passageway to Tiekan Temple
@@ -5053,8 +4949,6 @@ Unfortunately, it was indeed a foreshadowing.
 
 ### Etap 8-27 · The Second Battlefield
 
-<!-- S827A -->
-
 *— Po walce —*
 
 #### Passageway to Tiekan Temple
@@ -5076,8 +4970,6 @@ The man who appeared to be leading the soldiers stabbed himself in the chest wit
 Noticing that there was a previously unseen, serious look in Hong Lu's eyes, we forged onward.
 
 ### Etap 8-28 · Those Who Do Not Decide
-
-<!-- S828B -->
 
 *— Przed walką —*
 
@@ -5123,8 +5015,6 @@ Noticing that there was a previously unseen, serious look in Hong Lu's eyes, we 
 **The Thumb Henchman:** ... Let's see if you can keep babbling like that when we cut off your tongue.
 
 ### Etap 8-30 · The Heart
-
-<!-- S830B -->
 
 *— Przed walką —*
 
@@ -5300,8 +5190,6 @@ Lei Heng begins walking in our direction, cracking his neck.
 **Lei Heng:** Should be able to wrap this up by the time they're done with the ritual thing.
 **Lei Heng:** C'mon... *Let's dance.*
 
-<!-- S830I1 -->
-
 *— W trakcie walki —*
 
 **Lei Heng:** Shoot, ya sure this is everything y'all got?
@@ -5372,8 +5260,6 @@ Very well... then.
 **Hong Lu:** ... So, have you decided what you want to do, Dante?
 **Dante:** Yeah.
 **Dante:** Time for round two.
-
-<!-- S830A -->
 
 *— Po walce —*
 
@@ -5447,8 +5333,6 @@ Jia Qiu's staff brought Lei Heng's blade to a screeching halt.
 
 ### Etap 8-31 · Temporary Truce
 
-<!-- S831B -->
-
 *— Po walce —*
 
 #### Tiekan Temple Entrance
@@ -5517,8 +5401,6 @@ Then, with one hand over his other eye, he brings his jade eye close to an engra
 **Hong Lu:** It's so that I can visit the elders whenever they want me there.
 
 ### Etap 8-32 · To be Free from Aging and Death
-
-<!-- S832B -->
 
 *— Przed walką —*
 
@@ -5809,8 +5691,6 @@ As if on cue, Gubo, Jia Huan, and their subordinates began to assume a battle st
 
 ### Etap 8-33 · Happiness, Wrath, Sorrow, and Joy
 
-<!-- S833B -->
-
 *— Przed walką —*
 
 #### Tiekan Temple Interior
@@ -5846,8 +5726,6 @@ The Golden Bough slides into Jia Mu's body and begins to flicker, its power spir
 **Jia Mu:** And it has unlocked a new level of understanding in me—the true worth of this artifact, previously unnoticed and allowed to remain untouched within the depths of our treasury.
 **Jia Mu:** Once we leave this little... ruckus behind, I will be sure to put that Golden Bough within the 'rewinding thing' to good use as well.
 
-<!-- S833I1 -->
-
 *— W trakcie walki —*
 
 **Hong Lu:** I've witnessed so many lights...
@@ -5880,8 +5758,6 @@ The Golden Bough slides into Jia Mu's body and begins to flicker, its power spir
 **Jia Mu:** That I, following in the great will of Daguanyuan... shall be reborn...!
 **Jia Mu:** ... Reborn as a mighty, noble, and... immortal being!
 
-<!-- S833I2 -->
-
 *— W trakcie walki —*
 
 **Lin Daiyu:** And tomorrow, we'll play whatever big bro Baoyu's favorite game is. How's that for a plan, huh?
@@ -5891,8 +5767,6 @@ Happiness.
 **Hong Lu:** She was always the first to sense how I was feeling, always the one to be there for me...
 **Hong Lu:** Always the one to be sad for me, to be angry in my place...
 **Hong Lu:** ... It almost deluded me into believing that I was no longer just a gem stuffed in a treasury.
-
-<!-- S833I3 -->
 
 *— W trakcie walki —*
 
@@ -5906,8 +5780,6 @@ Joy.
 **Jia Huan:** But I was just so… envious… I just wanted to know… what they were gonna show here...
 …….
 **Hong Lu:** Maybe he really could have achieved that.
-
-<!-- S833I4 -->
 
 *— W trakcie walki —*
 
@@ -5923,8 +5795,6 @@ Sorrow.
 …….
 **Hong Lu:** I wish Xiren could be back to her old self again.
 **Hong Lu:** But I know that can't happen. So I smiled.
-
-<!-- S833I5 -->
 
 *— W trakcie walki —*
 
@@ -5963,8 +5833,6 @@ Wrath.
 **Hong Lu:** Maybe it wasn't a choice at all. Maybe she was bound to me.
 **Hong Lu:** It's my fault that she has nowhere else to go.
 **Hong Lu:** So the only thing I could show her in response was...
-
-<!-- S833I6 -->
 
 *— W trakcie walki —*
 
@@ -6043,8 +5911,6 @@ Wrath.
 **Hong Lu:** despite knowing that they will eventually scatter to the winds…
 **Dante:** Then, show them the petals you’ve gathered.
 
-<!-- S833I7 -->
-
 *— W trakcie walki —*
 
 **Hong Lu:** You, grandmother, and the elders have always been caged by your desperate search for immortality.
@@ -6069,8 +5935,6 @@ Wrath.
 **Hong Lu:** So... with that, I leave you here to enjoy the immortality you so desired, grandmother. Dear elders.
 **Hong Lu:** You’ll have all the time in the world to watch as I live my tomorrows.
 **Hong Lu:** May the rest of your lives be long and unending.
-
-<!-- S833A -->
 
 *— Po walce —*
 

@@ -149,10 +149,12 @@ class StoryToolsTests(unittest.TestCase):
             "Narration en S101B ***\n"
             "**Teller en** (*Epithet en*): Tick en\n"
             "**Ja** (***): Ghaagh…! ***\n"
-            "**Dante** (*Ja*): Second tick\n\n"
-            "<!-- S101I -->",
+            "**Dante** (*Ja*): Second tick\n"
+            "\n"
+            "*— W trakcie walki —*",
             text,
         )
+        self.assertNotIn("<!--", text)
         self.assertNotIn("■", text)
         self.assertNotIn("**Me", text)
         self.assertNotIn("(*Me*)", text)

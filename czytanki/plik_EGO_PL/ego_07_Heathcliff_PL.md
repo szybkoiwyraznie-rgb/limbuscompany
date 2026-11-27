@@ -12,17 +12,17 @@
 
 ## Katalog E.G.O
 
-| Karta | Podtytuł |
-|---|---|
-| Worek z Zwłok | Podstawowe E.G.O Heathcliffa |
-| Telepole | Wyłączny Sprzęt E.G.O Heathcliffa |
-| AEDD | Wyłączny Sprzęt E.G.O Heathcliffa |
-| Ya Śūnyatā Tad Rūpam | Wyłączny Sprzęt E.G.O Heathcliffa |
-| Holiday | Wyłączny Sprzęt E.G.O Heathcliffa |
-| Niewola | Wyłączny Sprzęt E.G.O Heathcliffa |
-| Mroczny Pocisk | Wyłączny Sprzęt E.G.O Heathcliffa |
+| Karta                      | Podtytuł                          |
+| -------------------------- | --------------------------------- |
+| Worek z Zwłok              | Podstawowe E.G.O Heathcliffa      |
+| Telepole                   | Wyłączny Sprzęt E.G.O Heathcliffa |
+| AEDD                       | Wyłączny Sprzęt E.G.O Heathcliffa |
+| Ya Śūnyatā Tad Rūpam       | Wyłączny Sprzęt E.G.O Heathcliffa |
+| Holiday                    | Wyłączny Sprzęt E.G.O Heathcliffa |
+| Niewola                    | Wyłączny Sprzęt E.G.O Heathcliffa |
+| Mroczny Pocisk             | Wyłączny Sprzęt E.G.O Heathcliffa |
 | Niesymetryczna Bezwładność | Wyłączny Sprzęt E.G.O Heathcliffa |
-| Zgłoszenie Zamieszkowania | Wyłączny Sprzęt E.G.O Heathcliffa |
+| Zgłoszenie Zamieszkowania  | Wyłączny Sprzęt E.G.O Heathcliffa |
 
 ## Karty
 
@@ -33,9 +33,9 @@
 #### Przebudzenie: Worek z Zwłok
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 13 | +9 | 1 | +3 | 1 |
-| 3 | Zawiść | Hit | 15 | +9 | 1 | +3 | 1 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |         13 |         +9 |      1 |           +3 |    1 |
+|          3 | Zawiść | Hit |         15 |         +9 |      1 |           +3 |    1 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] następnej tury zyskuje 1 [Wzrost Mocy Ataku]  
 Moneta 1: [Trafienie Awersem] Zyskuje 2 Pośpiechu w następnej turze
@@ -53,10 +53,10 @@ Moneta 1: [Przy Zabiciu] następnej tury zyskuje 2 [Wzrost Mocy Ataku]
 
 #### Przebudzenie: Telepole
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 29 | −12 | 1 | +3 | 3 |
-| 3 | Zawiść | Penetrate | 33 | −12 | 1 | +3 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         29 |        −12 |      1 |           +3 |    3 |
+|          3 | Zawiść | Penetrate |         33 |        −12 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* zużywa 5 Licznika [Ładowanie], by zyskać +3 Mocy Umiejętności  
 Moneta 1: [Trafienie Rewersem] zyskuje +3 Licznika [Ładowanie]
@@ -71,10 +71,10 @@ Moneta 1: [Trafienie Rewersem] zyskuje +5 Licznika [Ładowanie]
 
 #### Erozja: Telepole
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Penetrate | 35 | −21 | 1 | +3 | 3 |
-| 3 | Zawiść | Penetrate | 39 | −21 | 1 | +3 | 3 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Penetrate |         35 |        −21 |      1 |           +3 |    3 |
+|          3 | Zawiść | Penetrate |         39 |        −21 |      1 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -99,11 +99,11 @@ Moneta 1: [Trafienie Awersem] następnej tury zyskuje 3 [Wrażliwość]
 
 #### Przebudzenie: AEDD
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 19 | +7 | 1 | +0 | 1 |
-| 3 | Posępność | Hit | 22 | +7 | 1 | +0 | 1 |
-| 4 | Posępność | Hit | 22 | +7 | 1 | +0 | 3 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         19 |         +7 |      1 |           +0 |    1 |
+|          3 | Posępność | Hit |         22 |         +7 |      1 |           +0 |    1 |
+|          4 | Posępność | Hit |         22 |         +7 |      1 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje +1 Licznika [Ładowanie] za każde 10% brakującego HP (maks. 5)  
 zyskuje 2 [Pośpiech] następnej tury  
@@ -115,10 +115,10 @@ Moneta 1: [Przy Trafieniu] nakłada 3 [Paraliż] i 1 Kruchości Posępności
 
 #### Erozja: AEDD
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 26 | −7 | 1 | +2 | 1 |
-| 3 | Posępność | Hit | 29 | −7 | 1 | +2 | 1 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         26 |         −7 |      1 |           +2 |    1 |
+|          3 | Posępność | Hit |         29 |         −7 |      1 |           +2 |    1 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -149,9 +149,9 @@ Moneta 1: [Koniec Ataku Rewersem] zużywa 10% Maks. HP, zyskując +10 Licznika [
 #### Przebudzenie: Ya Śūnyatā Tad Rūpam
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 18 | +8 | 1 | −1 | 2 |
-| 3 | Żądza | Hit | 18 | +8 | 1 | −1 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         18 |         +8 |      1 |           −1 |    2 |
+|          3 | Żądza  | Hit |         18 |         +8 |      1 |           −1 |    3 |
 
 *Od ulepszenia 1:* Moneta 1: [Przy Trafieniu] Nakłada w następnej turze 1 Spadku Mocy Ataku  
 Moneta 1: [Koniec Ataku] odzyskuje 12 SP dla 4 innych sojuszników z najniższym SP
@@ -167,9 +167,9 @@ Moneta 1: [Koniec Ataku] odzyskuje 25 SP dla 4 innych sojuszników z najniższym
 #### Erozja: Ya Śūnyatā Tad Rūpam
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Żądza | Hit | 33 | −15 | 1 | −1 | 2 |
-| 3 | Żądza | Hit | 33 | −15 | 1 | −1 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Żądza  | Hit |         33 |        −15 |      1 |           −1 |    2 |
+|          3 | Żądza  | Hit |         33 |        −15 |      1 |           −1 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -201,9 +201,9 @@ Moneta 1: [Trafienie Rewersem] nakłada 1 [Wrażliwość]
 #### Przebudzenie: Holiday
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Hit | 17 | +8 | 1 | +0 | 1 |
-| 4 | Obżar. | Hit | 17 | +8 | 1 | +0 | 2 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Hit |         17 |         +8 |      1 |           +0 |    1 |
+|          4 | Obżar. | Hit |         17 |         +8 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* Moneta 1: [Trafienie Awersem] następnej tury nakłada po 1 Siły losowo wybranego z efektów: Podpalenie, Krwawienie, Wstrząs, Rozdarcie lub Zatonięcie (2 + (Absolutnego Rezonansu Obżarstwa)) razy. (maks. 5 razy)
 
@@ -216,9 +216,9 @@ Moneta 1: [Przy Zabiciu] następnej tury losowo wybrany 1 z efektów: 2 Licznika
 #### Erozja: Holiday
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Obżar. | Hit | 25 | −10 | 1 | +0 | 1 |
-| 3 | Obżar. | Hit | 25 | −10 | 1 | +0 | 2 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Obżar. | Hit |         25 |        −10 |      1 |           +0 |    1 |
+|          3 | Obżar. | Hit |         25 |        −10 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje cel z najwyższym SP  
@@ -242,10 +242,10 @@ Moneta 1: [Przy Trafieniu] następnej tury nakłada po 1 Siły losowo wybranego 
 
 #### Przebudzenie: Niewola
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 18 | +12 | 1 | +0 | 5 |
-| 4 | Posępność | Hit | 18 | +15 | 1 | +0 | 7 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         18 |        +12 |      1 |           +0 |    5 |
+|          4 | Posępność | Hit |         18 |        +15 |      1 |           +0 |    7 |
 
 *Od ulepszenia 1:* [Koniec Ataku] przez 3 tury traci 10 SP na koniec tury  
 [Koniec Ataku] następnej tury zyskuje 20 [Spętanie], 1 [Przed Królem] i 1 [Wzrost Mocy Ataku]  
@@ -269,10 +269,10 @@ Moneta 1: [Przy Trafieniu] wyzwala [Wybuch Wstrząsu]
 
 #### Erozja: Niewola
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Posępność | Hit | 32 | −14 | 1 | +0 | 5 |
-| 4 | Posępność | Hit | 35 | −15 | 1 | +0 | 7 |
+| Ulepszenie | Grzech    | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | --------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Posępność | Hit |         32 |        −14 |      1 |           +0 |    5 |
+|          4 | Posępność | Hit |         35 |        −15 |      1 |           +0 |    7 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -310,9 +310,9 @@ Moneta 1: [Przy Trafieniu] wyzwala [Wybuch Wstrząsu]
 
 #### Przebudzenie: Mroczny Pocisk
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 7 | +7 | 2 | +5 | 1 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |          7 |         +7 |      2 |           +5 |    1 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższy Rezonans + 1) [Naderwane Wspomnienie] (maks. 7)  
 - jeżeli to był Rezonans Absolutny, zamiast tego zyskuje (najwyższy Rezonans + 2) [Naderwane Wspomnienie]  
@@ -344,10 +344,10 @@ Moneta 2: [Zabójstwo Krytyczne] jeżeli ta jednostka ma efekt [Amunicja], zysku
 
 #### Erozja: Mroczny Pocisk
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Pycha | Penetrate | 28 | −12 | 1 | +0 | 2 |
-| 4 | Pycha | Penetrate | 30 | −12 | 1 | +0 | 2 |
+| Ulepszenie | Grzech | Typ       | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | ------ | --------- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Pycha  | Penetrate |         28 |        −12 |      1 |           +0 |    2 |
+|          4 | Pycha  | Penetrate |         30 |        −12 |      1 |           +0 |    2 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -390,9 +390,9 @@ Moneta 1: [Przy Trafieniu] nakłada 3 [Krwawienie] i 3 [Zatonięcie]
 
 #### Przebudzenie: Niesymetryczna Bezwładność
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 8 | +8 | 2 | +0 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |          8 |         +8 |      2 |           +0 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższy Rezonans) Licznika [Wstrząs] (maks. 6, maks. 20 na turę)  
 - jeżeli ten Rezonans był Rezonansem Nieczułości, uruchamia [Konwersja Amplitudy] zamieniający [Wstrząs] tej jednostki na [Wstrząs - Nakręcanie]  
@@ -423,9 +423,9 @@ Moneta 2: [Przy Trafieniu] wyzwala [Wybuch Wstrząsu]. zmniejsza Licznik [Wstrz�
 
 #### Erozja: Niesymetryczna Bezwładność
 
-| Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Lenistwo | Hit | 28 | −8 | 2 | +3 | 3 |
+| Ulepszenie | Grzech   | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
+| ---------: | -------- | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Lenistwo | Hit |         28 |         −8 |      2 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Atakuje losowy cel  
@@ -470,8 +470,8 @@ Moneta 2: [Przy Trafieniu] wyzwala [Wybuch Wstrząsu]. zmniejsza Licznik [Wstrz�
 #### Przebudzenie: Zgłoszenie Zamieszkowania
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 4 | +3 | 3 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |          4 |         +3 |      3 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Przed Atakiem] zyskuje (najwyższy Rezonans + 1) Licznika [Ładowanie] (maks. 7)  
 - przy Rezonansie Zawiści 4+ zamiast tego zyskuje +7 Licznika [Ładowanie]  
@@ -506,8 +506,8 @@ Moneta 3: [Przy Trafieniu] zyskuje +1~3 Licznika [Ładowanie]
 #### Erozja: Zgłoszenie Zamieszkowania
 
 | Ulepszenie | Grzech | Typ | Moc bazowa | Moc monety | Monety | Poziom ataku | Cele |
-|---|---|---|---|---|---|---|---|
-| 1 | Zawiść | Hit | 5 | +3 | 3 | +3 | 3 |
+| ---------: | ------ | --- | ---------: | ---------: | -----: | -----------: | ---: |
+|          1 | Zawiść | Hit |          5 |         +3 |      3 |           +3 |    3 |
 
 *Od ulepszenia 1:* [Bez Rozróżnienia]  
 Priorytet ataku: cele z najwyższym HP  

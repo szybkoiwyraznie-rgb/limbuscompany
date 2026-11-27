@@ -6,8 +6,6 @@
 
 ### Etap 1 · 10. Noc Walpurgii
 
-<!-- E100X -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -150,8 +148,6 @@ Her voice was just as energetic as I remembered. Only now, something seemed to h
 There really wasn't any need to ask how she knew.
 That look on Outis's face answered the question well enough.
 
-<!-- E101X -->
-
 *— W trakcie etapu —*
 
 **Meursault:** Manager, I have retrieved their books.
@@ -196,8 +192,6 @@ Yi Sang stepped forward, answering the question in a quiet voice.
 **Oscar:** .......
 **Oscar:** ... That's all I needed to hear.
 
-<!-- E102X -->
-
 *— W trakcie etapu —*
 
 **Philip:** ... I don’t want to embellish my motives saying it's for others.
@@ -214,8 +208,6 @@ Yi Sang stepped forward, answering the question in a quiet voice.
 **Philip:** This power has to be an opportunity given to me.
 
 ### Etap 2 · Wnioskowanie Indukcyjne o Nocy
-
-<!-- E103X -->
 
 *— Po walce —*
 

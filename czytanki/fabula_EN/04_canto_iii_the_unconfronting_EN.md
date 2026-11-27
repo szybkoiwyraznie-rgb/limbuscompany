@@ -18,8 +18,6 @@
 
 > Vergilius informs us of where we will be going next. While everyone seems happy and energetic, one Sinner is reacting rather strangely…
 
-<!-- S301B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -104,8 +102,6 @@ The bus finally quieted down after that.
 
 > To everyone’s surprise, we’re told that our destination is K Corp’s Nest. The entry procedures one must go through to set foot in a Nest are supposedly quite complicated.
 
-<!-- S302B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -139,8 +135,6 @@ Sadly, none of our Sinners bothered to respond to me in any capacity.
 **Meursault:** …I hear several interlopers surrounding the bus.
 **Dante:** Welp… Have bus—will battle.
 
-<!-- S302A -->
-
 *— Po walce —*
 
 **Charon:** Cock-a-hoop Charon’s cock-a-hoop parking.
@@ -173,8 +167,6 @@ It sounded as if he were saying “You’re not reliable enough to be sent witho
 *Miejsce: K Corp. Checkpoint*
 
 > We wait our turn to undergo the checkpoint official’s interview, with Vergilius and Ishmael instructing us on the process. Here’s hoping we’ll pass…
-
-<!-- S303B -->
 
 *— Przed walką —*
 
@@ -290,8 +282,6 @@ Security forces wearing menacing uniforms were staring at us.
 
 > Our Dear Don Quixote’s intolerance for injustice rears its troublesome head again. Armed staff from K Corp. surround us on all sides, all the while Vergilius watches with his arms crossed, upset at our repeated failures to behave.
 
-<!-- S304B -->
-
 *— Przed walką —*
 
 #### K Corp. Checkpoint
@@ -315,8 +305,6 @@ Armed security staff was surrounding us on all sides.
 Vergilius casually pushed his way through the line of armed guards and leaned against a wall.
 He then crossed his arms, as if to further drive home that he’ll remain a spectator.
 
-<!-- S304A -->
-
 *— Po walce —*
 
 **Dante:** Really just gonna watch from there?
@@ -332,8 +320,6 @@ Completely ignoring my feeble plea—not that they could hear it—K Corp’s se
 *Miejsce: K Corp. Checkpoint*
 
 > HP Bullets infused with K Corp’s Singularity render all damage we inflict on our foes useless. The Sinners are running out of patience.
-
-<!-- S306A -->
 
 *— Po walce —*
 
@@ -364,8 +350,6 @@ A peal of overwhelmingly energetic laughter rang through the air.
 *Miejsce: K Corp. Checkpoint*
 
 > A man approaches from outside with tremendous speed. This exceedingly jovial and uncomfortably energetic fellow is Siegfried, who appears to have an acquaintance with Vergilius; after a friendly exchange, he rushes at our Sinners.
-
-<!-- S307B -->
 
 *— Przed walką —*
 
@@ -433,8 +417,6 @@ Truth be told, I didn’t do everything in my power to keep Don Quixote down. Ve
 *Miejsce: Road to K Corp. Checkpoint*
 
 > After a chaotic encounter with Siegfried, we meet with a couple of familiar faces at the exit, greeting us with the same confidence and comportment…
-
-<!-- S308B -->
 
 *— Przed walką —*
 
@@ -533,8 +515,6 @@ Perhaps she’s finally starting to learn that her reckless actions have repercu
 
 > Returning to the bus, I sense an uneasiness in the air. It looks like Vergilius isn’t going to let today’s incident go unpunished. Buena suerte, Don Quixote…!
 
-<!-- S309B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -605,8 +585,6 @@ It makes me wonder what it was about.
 *Miejsce: Calw - Town Entrance*
 
 > With everything sorted out, we finally resume our journey to the town of Calw. Before we can bask in our momentary peace, someone claiming to be an “inquisitor” leaves a hole in the back window of our bus.
-
-<!-- S310B -->
 
 *— Przed walką —*
 
@@ -683,8 +661,6 @@ With that, the group of Inquisitors moved into position at once, ready to attack
 
 > The advance party contacted us at last. The mysterious voice coming from the transmitter was a telltale sign that something was up, throwing Sinclair into another fit of terror.
 
-<!-- S311B -->
-
 *— Przed walką —*
 
 #### Aboard Mephistopheles
@@ -750,8 +726,6 @@ Soon enough, Sinclair came back to his senses. He stared out the window with vac
 
 > We’ve reached the town of Calw. A familiar song welcomes us, followed by the morbid sight of trees festooned with horrifying things.
 
-<!-- S313B -->
-
 *— Przed walką —*
 
 #### Calw - Town Square
@@ -811,8 +785,6 @@ A number of Inquisitors gathered around Guido.
 He stands firm behind them.
 …He’s not making any movement, but his presence alone is threatening enough.
 An intense aura of hostility was radiating straight from him.
-
-<!-- S313A -->
 
 *— Po walce —*
 
@@ -901,8 +873,6 @@ Only the unpleasant sounds of sparks and flames filled the street.
 
 > Prosthetic bodies pile up like a landfill in a corner of the town. It brings me to think about what my “true self” is.
 
-<!-- S315B -->
-
 *— Przed walką —*
 
 #### Calw - Town Square
@@ -977,8 +947,6 @@ Well, it is true.
 
 > I can only feel pity for Sinclair’s struggle to repress his fear. In looking at me, he is soon reminded of an old friend.
 
-<!-- S316B -->
-
 *— Przed walką —*
 
 #### Calw - Town Square
@@ -1015,8 +983,6 @@ Sinclair had already charged into the fray.
 *Miejsce: The Sinclair Estate*
 
 > We arrived at the Sinclair family estate. Crucified prosthetic bodies await us in the courtyard. One of them is someone we can’t bear to see straight.
-
-<!-- S317B -->
 
 *— Przed walką —*
 
@@ -1114,8 +1080,6 @@ And then…
 
 > Kromer walked inside the burning mansion. The Sinners are dismayed by Guido’s unflinching advance.
 
-<!-- S318B -->
-
 *— Przed walką —*
 
 #### The Old Sinclair Estate
@@ -1163,8 +1127,6 @@ Ishmael grunted.
 **Guido:** For he who shan’t repent…
 **Heathcliff:** Oi, when are you gonna finish your stupidly long taunt?
 **Guido:** …is not granted rest beneath the earth.
-
-<!-- S318A -->
 
 *— Po walce —*
 
@@ -1221,8 +1183,6 @@ It only made sense to wait for him to settle down.
 
 > Sinclair showed us to the basement with a suspicious passage. Faust assumes this tunnel was made by N Corp’s staff.
 
-<!-- S320B -->
-
 *— Przed walką —*
 
 #### Basement Area
@@ -1258,8 +1218,6 @@ Instead of answering him, she strode past him and stood before the door.
 
 > We’ve arrived at the branch. The room we walked into was like a torture chamber, lined with devices, contraptions, and bits of flesh.
 
-<!-- S322B -->
-
 *— Przed walką —*
 
 #### District 11 - LC Branch Interior
@@ -1288,8 +1246,6 @@ It seems N Corp’s Inquisitors have been using this place as their base for a w
 Rodya shrugged when I looked back.
 **Rodion:** What? I wanted to take charge for once.
 
-<!-- 3D101A -->
-
 *— Po walce —*
 
 **???:** Well I’ll be… You’ve all… gotten better at fighting, haven’t you…?
@@ -1310,8 +1266,6 @@ No Sinner came forward to elaborate.
 **Outis:** It seems more of those oddities are crawling our way.
 A swarm of Peccatula approached us.
 It was as though our guilt about lying to her had gained physical form.
-
-<!-- 3D102A -->
 
 *— Po walce —*
 
@@ -1398,8 +1352,6 @@ I heard her handgun drop to the floor.
 We headed for the next area, leaving Saude to die.
 We all stayed silent for a long while.
 
-<!-- 3D103B -->
-
 *— Po walce —*
 
 **Heathcliff:** …You hear beasts crawling around somewhere?
@@ -1425,8 +1377,6 @@ Will it even be used for their benefit?
 Then, it occurred to me.
 Am I really so different from those unsightly zealots…
 …when I’m searching for the Golden Boughs without even knowing what they’ll be used for?
-
-<!-- 3D301B -->
 
 *— Po walce —*
 
@@ -1535,8 +1485,6 @@ Unfortunately, his plea held no power over the realm.
 **Sinclair:** Ever since then…
 **Sinclair:** Kromer and I became friends who’d talk often.
 
-<!-- 3D302B -->
-
 *— Po walce —*
 
 **Sinclair:** As a household rule, my family used to have breakfast at the same table every morning.
@@ -1572,8 +1520,6 @@ Unfortunately, his plea held no power over the realm.
 **Kromer:** That, you’ll find out next time.
 **Kromer:** In exchange…
 **Kromer:** In return for helping you with your problem, you’ll help me deal with a grudge of my own too.
-
-<!-- 3D303B -->
 
 *— Po walce —*
 
@@ -1629,8 +1575,6 @@ Unfortunately, his plea held no power over the realm.
 **Kromer:** Just sneak me the basement key and I can navigate just fine…
 **Sinclair:** Unable to detect the faint, familiar feeling hidden in her words, I slowly nodded…
 **Sinclair:** Thus, the world of evil began there, right in the middle of our house.
-
-<!-- 3D304B -->
 
 *— Po walce —*
 
@@ -1697,8 +1641,6 @@ Unfortunately, his plea held no power over the realm.
 **Sinclair:** I didn’t think to question a single thing, and for that…
 **Sinclair:** I regret my inaction; I curse my foolishness.
 
-<!-- 3D305B -->
-
 *— Po walce —*
 
 **Demian** (*Mysterious Transfer Student*): So you ended up giving Kromer the key.
@@ -1718,8 +1660,6 @@ Unfortunately, his plea held no power over the realm.
 **Sinclair:** But…
 **Sinclair:** If that’s the case, why didn’t he warn me?
 **Sinclair:** It’s something I still ask myself to this day.
-
-<!-- 3D306B -->
 
 *— Po walce —*
 
@@ -1768,8 +1708,6 @@ Unfortunately, his plea held no power over the realm.
 **Sinclair:** Amidst the piercing noise, storms of heavy footsteps, and disorientation…
 **Sinclair:** I lost consciousness.
 
-<!-- 3D307B -->
-
 *— Po walce —*
 
 #### Middle of an Alleyway
@@ -1795,8 +1733,6 @@ Unfortunately, his plea held no power over the realm.
 **Sinclair:** I couldn’t help but fall unconscious again.
 
 ### Eksploracja
-
-<!-- 3D308B -->
 
 #### Unending Hill of Corpses
 
@@ -1840,8 +1776,6 @@ As if desire and madness were made manifest…
 
 > We’ve arrived at the branch. The room we walked into was like a torture chamber, lined with devices, contraptions, and bits of flesh.
 
-<!-- 3D309B -->
-
 *— Po walce —*
 
 #### Unending Hill of Corpses
@@ -1862,8 +1796,6 @@ As if desire and madness were made manifest…
 **Kromer:** You won’t run away this time, will you?
 
 ### Etap 3-48
-
-<!-- 3D309I1 -->
 
 *— W trakcie walki —*
 
@@ -1902,8 +1834,6 @@ As if desire and madness were made manifest…
 **Kromer:** Come… Sinclair.
 **Kromer:** Rip me up and chew me down.
 **Kromer:** If you can, that is… Keheh.
-
-<!-- 3D309I2 -->
 
 *— W trakcie walki —*
 
@@ -1975,8 +1905,6 @@ Kromer’s upper body vanished in a clean cut.
 *Miejsce: Passage Under the Sinclair Estate*
 
 > We’ve arrived at the branch. The room we walked into was like a torture chamber, lined with devices, contraptions, and bits of flesh.
-
-<!-- 3D309A -->
 
 *— Po walce —*
 

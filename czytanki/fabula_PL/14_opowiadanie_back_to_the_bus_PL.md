@@ -6,8 +6,6 @@
 
 ### Etap 1 · Z powrotem do autobusu.
 
-<!-- E053X -->
-
 #### Cabins of Mephistopheles
 
 **Charon:** Warning, warning. Land ahoy.

@@ -14,8 +14,6 @@
 
 ### Scena
 
-<!-- S1000B -->
-
 **Announcement** (*Grand Magasin Sisyphe*): We extend our warmest welcome to the valued guests of Grand Magasin Sisyphe visiting today.
 **Announcement:** Grand Magasin Sisyphe is ever committed to cherishing every experience our customers procure within.
 **Announcement:** To keep abreast of the latest fashions, we actively encourage the wide variety of shops available at the department store to open and close according to trends. Please take care not to lose your way as you explore the establishment.
@@ -23,8 +21,6 @@
 **Announcement:** To prevent hygiene issues, entry to each floor will be limited to customers who have achieved the required Prestige Tier. Please visit our Customer Service Center on the sixth floor for any further queries.
 **Announcement:** Customers are welcome to make physical contact with all Mannequins on display. Conversely, Mannequins are also allowed to make physical contact with all customers. Should you wish to participate, please talk to the sales associate at the relevant shop, who will be delighted to assist you.
 **Announcement:** We ask everyone to do their best to ensure another day of worthwhile consumer experience for our customers. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.
-
-<!-- S1001B -->
 
 *— Trasa A —*
 
@@ -99,8 +95,6 @@ Perhaps she had said all she meant to say, because she only gave a silent smile 
 **???:** .......
 ... She still said nothing, but I thought I saw her inclining her head in affirmation ever so slightly.
 **Dante:** ... Doesn't look like we got any other choice. Let's just head outside and see what's there.
-
-<!-- S1002B -->
 
 *— Trasa A —*
 
@@ -229,8 +223,6 @@ Ryōshū motioned with her chin toward where Kromer's elder sister had been stan
 ... where she had already vanished from before our eyes without so much as a sound.
 
 ### Etap 10-1 · The Trial
-
-<!-- S1003B -->
 
 *— Przed walką —*
 
@@ -379,8 +371,6 @@ Faust slowly opened her mouth amid the piercing glares from the other Sinners.
 **Faust:** ... without requiring any elaboration.
 
 ### Etap 10-2 · The Courthouse
-
-<!-- S1004B -->
 
 *— Przed walką —*
 
@@ -835,8 +825,6 @@ The courtroom was cleared as soon as the execution was completed.
 
 ### Etap 10-3 · The Plan
 
-<!-- S1005B -->
-
 *— Przed walką —*
 
 #### N Corp. Courthouse Corridor
@@ -1017,8 +1005,6 @@ Then... we switched on the monitors.
 
 ### Scena
 
-<!-- S1008B -->
-
 *— Trasa A —*
 
 #### Corridor, 3F
@@ -1076,8 +1062,6 @@ The sheer drought of—as she called it—emotional grease was like something st
 **Jeanne:** And what do you do? Marched right back into N Corp. of your own volition and promptly got yourself a life sentence in the Grand Magasin Sisyphe.
 **Jeanne:** Are you really so surprised that I'm invested enough to let my gaze linger here?
 
-<!-- S1009B -->
-
 *— Trasa A —*
 
 #### Alteration Shop, 3F
@@ -1100,8 +1084,6 @@ We emerged into a round room whose walls were lined with multicolored spools of 
 **Annette:** Come see me if you need anything patched up. There is no fabric within Sisyphe that my fingers cannot weave.
 **Annette:** You may have to get in line while I work on the Noirs' bulk fabric order...
 **Annette:** ... but I don't mind handling an odd job here and there, should you have any.
-
-<!-- S1010B -->
 
 *— Trasa A —*
 
@@ -1131,8 +1113,6 @@ We emerged into a round room whose walls were lined with multicolored spools of 
 **Meursault:** In the past, I had believed myself to be someone who would never take a step outside N Corp.
 **Meursault:** I once had faith in that idea.
 **Jeanne:** Same here. But that's not exactly "faith," is it? It's just something that's been naturally ingrained in the residents of N Corp.
-
-<!-- S1011B -->
 
 *— Trasa A —*
 
@@ -1166,8 +1146,6 @@ We emerged into a round room whose walls were lined with multicolored spools of 
 **Jeanne:** You must keep looking. Don't stop.
 **Jeanne:** If you suspend judgment and circle the question again and again, the dizziness will ease.
 
-<!-- S1012B -->
-
 *— Trasa A —*
 
 #### Food Court, B1F
@@ -1181,8 +1159,6 @@ We emerged into a round room whose walls were lined with multicolored spools of 
 **Meursault:** Identical, in the respect that neither can ever attain the genuine article.
 **Faust:** As for the underlying principle, it accumulates the flavors and experiences of its constituent ingredients, then uses those records to reconstruct for the consumer a—
 **Sous Chef:** What are you people supposed to be, you hear?
-
-<!-- S1013B -->
 
 *— Trasa A —*
 
@@ -1210,8 +1186,6 @@ The Floor Manager regarded the Authenticity Certificate Meursault produced with 
 **Dante:** We'll eventually be allowed onto the upper floors if we keep this up...
 **Meursault:** …….
 **Dante:** Let's go to the Dyehouse.
-
-<!-- S1014B -->
 
 *— Trasa A —*
 
@@ -1257,8 +1231,6 @@ Meursault laid out, one by one, every item we have purchased or obtained thus fa
 **Dante:** Th-that won't be necessary. Naked is a member of Le Noir... Maybe he'll lower the price if we show him the Authenticity Certificate.
 **Dante:** Let's find Naked and hear what he has to say. If he's Le Noir, his clothes should make him easy to spot.
 
-<!-- S1015B -->
-
 *— Trasa A —*
 
 #### Alteration Shop, 3F
@@ -1282,8 +1254,6 @@ The instant the Alterationist takes the skein and loops its string over her fing
 **Annette:** Yes. They left this place in my care and departed to grow closer to the Voice.
 **Annette:** This brings me back. Not to good times, but it does bring me back.
 Her hands, briefly stilled in reminiscence, resumed their work.
-
-<!-- S1016B -->
 
 *— Trasa A —*
 
@@ -1315,8 +1285,6 @@ You're going to ignore me this time? That's not a bad choice either, I guess.
 **L'Inamovible:** It's finally... sloughing, sloughing off me. Take these stifling things off of me... I want to be my true self...
 **L'Inamovible** (*Le Rouge Mannequin*): Has someone draped those lies over you, too?
 **L'Inamovible:** Come, I'll liberate you from those oppressive clothes... And you'll feel... just like I do...
-
-<!-- S1017B -->
 
 *— Trasa B —*
 
@@ -1418,8 +1386,6 @@ There was one very clear-cut way of finding out whether this had all been just a
 If anything, my memory of the previous experience remains. I remember every detail.
 **Dante:** First things first... Let's get a move on and see what's outside.
 
-<!-- S1018B -->
-
 *— Trasa B —*
 
 #### Beauty Hall, 1F
@@ -1484,8 +1450,6 @@ A sharp chill quietly slipped into Don Quixote's gaze.
 **???:** Not that I didn't see that coming from a mile away, but I'm *so* heartbroken by that rejection. But don't you worry about me. You're already helping me in ways you can't even imagine!
 **???:** Great things are beginning once again in Sisyphe, strangers mine and murderers of my sister dear. Great, spectacular, and magnificent. You may look forward to it.
 
-<!-- S1019B -->
-
 *— Trasa B —*
 
 #### Corridor, 3F
@@ -1544,8 +1508,6 @@ Outis glared askance at Meursault.
 **Meursault:** Our relationship entailed elements that are no different from what is conventionally expected from "romantic partners."
 **Meursault:** We went on dates and spent time together.
 
-<!-- S1020B -->
-
 #### Alteration Shop, 3F
 
 **Sinclair:** Um... Hello?
@@ -1564,8 +1526,6 @@ Outis glared askance at Meursault.
 **Sinclair:** So... why did we need a pair of scissors, again?
 **Outis:** Scissors, when honed to perfection, can be excellent weapons. It is obviously in preparation for the coming war.
 
-<!-- S1021B -->
-
 *— Trasa B —*
 
 #### Luxury Hall, 2F
@@ -1583,8 +1543,6 @@ And when they realized there was nowhere to go, they shrank to the ground and be
 **Heathcliff:** You can't be serious. Bloody hell, get someone else from the restroom, then...! Can't help the way I look, yeah?
 **Faust:** I believe this not to be a matter of appearance but of bearing.
 **???:** .......
-
-<!-- S1022B -->
 
 *— Trasa B —*
 
@@ -1646,8 +1604,6 @@ Pwie muttered for a bit while staring at the ground, then took a tentative step 
 Though Pwie seemed to be giving us a somewhat wide berth still, I noticed that they weren't hanging as far back as they were before. They were standing some distance from us with a blank stare in their eyes...
 ... as though they were waiting for us to go somewhere.
 
-<!-- S1023B -->
-
 *— Trasa B —*
 
 #### Footwear Hall, 4F
@@ -1690,8 +1646,6 @@ The room had fallen completely silent now. Pwie's eyes darted around the room, n
 **Hong Lu:** Hm? What did you understand?
 **Pwie:** I understand now... Why you don't want things to get awkward.
 
-<!-- S1024B -->
-
 *— Trasa B —*
 
 #### Lost Child Center, 4F
@@ -1717,8 +1671,6 @@ And approached them slowly, before finally slipping them on.
 **Dante:** This might just be me, Meursault...
 **Dante:** But don't you think... Pwie's started to follow us more closely than before?
 **Meursault:** ... They have, Manager.
-
-<!-- S1025B -->
 
 *— Trasa B —*
 
@@ -1798,8 +1750,6 @@ I tried to make my discomfort as evident as possible in my reply...
 **???:** As for Meursault... He may change yet... by the end of this round of the journey at your side.
 **???:** I'm looking forward to it.
 
-<!-- S1026B -->
-
 *— Trasa B —*
 
 #### Restaurant, 5F
@@ -1860,8 +1810,6 @@ like a starving child salivating at a lavish feast past the display glass.
 **Dante:** It reminded me of the first time all of you listened to me. Really listened.
 **Yi Sang:** ... And for all that has transpired before that moment, and what came thereafter... I remain ever grateful.
 
-<!-- S1027B -->
-
 *— Trasa B —*
 
 #### Skein Nest, B2F
@@ -1899,8 +1847,6 @@ like a starving child salivating at a lavish feast past the display glass.
 **Ryōshū:** If the clock keeps yapping, I'll clean out my ears. If this damn scabbard gets in my way, I'll just have to keep it pacified. That's all I need to do.
 **Meursault:** .......
 
-<!-- S1028B -->
-
 *— Trasa B —*
 
 #### Tannery, B3F
@@ -1928,8 +1874,6 @@ They only stared at their own hands... and seemed lost in thought again.
 **Pwie:** It's hurting for the cocoon... because the cocoon was hurting.
 **Dante:** ... Meursault, that sound.... It's the same wail we heard in B2, isn't it? The entity that didn't belong to any of the factions here...
 **Meursault:** ... Correct.
-
-<!-- S1029B -->
 
 *— Trasa B —*
 
@@ -1966,8 +1910,6 @@ The figure standing before us was colossal and august, with the majestic presenc
 **Buffet:** ... Join me. You won't have to climb up anymore.
 **Buffet:** We can all stay here and never stop filling ourselves. We'll leave no room for thirst to bloom. We won't need to yearn for distant places upstairs.
 **Yi Sang:** What do you mean...?
-
-<!-- S1030B -->
 
 *— Trasa C —*
 
@@ -2007,8 +1949,6 @@ Ignoring Outis and Gregor, and the other Sinners who rushed after me, trying to 
 #### Beauty Hall, 1F
 
 I threw open the door leading outside.
-
-<!-- S1031B -->
 
 *— Trasa C —*
 
@@ -2121,8 +2061,6 @@ My answer was pathetic.
 But even if it turns out nothing's going to change, we still have to keep climbing.
 
 ### Etap 10-7 · The Smoke
-
-<!-- S1044B -->
 
 *— Przed walką —*
 
@@ -2322,8 +2260,6 @@ He walks forward, wading resolutely into the infinite dark.
 
 ### Scena
 
-<!-- S1045C -->
-
 *— Trasa C —*
 
 **???:** Money and power are one and the same in the City.
@@ -2334,8 +2270,6 @@ He walks forward, wading resolutely into the infinite dark.
 **???:** And what of those who tried to work, strove to become rich, tried to play by the rules... and failed all the same? How are they supposed to keep on living?
 **???:** In this City, we need the power to live as ourselves:
 **???:** The power to resist when the Head, the Wings, the Syndicates, and the City itself come to take our lives. The power that we can gain without having to purchase it.
-
-<!-- S1046C -->
 
 *— Trasa C —*
 
@@ -2353,8 +2287,6 @@ He walks forward, wading resolutely into the infinite dark.
 **???:** ... so that each of us can simply *be* ourselves. So that our choices are in service of our true selves.
 **???:** So that we can effloresce anew... in the image that we have chosen—true to the self we have envisioned for ourselves.
 
-<!-- S1047C -->
-
 *— Trasa C —*
 
 **???:** So I will heal this dying mankind—a therapy for the fading souls.
@@ -2362,8 +2294,6 @@ He walks forward, wading resolutely into the infinite dark.
 **???:** But... I want this. This is what *I* want.
 **???:** Yes, I will shine all the same. I will give them warmth. Even if it ends up being unfair to some.
 **???:** With this power, with this plan of mine.
-
-<!-- S1048C -->
 
 *— Trasa C —*
 
@@ -2383,8 +2313,6 @@ He walks forward, wading resolutely into the infinite dark.
 **???:** That is my wish and my gift for everyone.
 **???:** That is the healing I want to offer.
 
-<!-- S1060B -->
-
 *— Trasa A —*
 
 **Judge:** Defendant. State the time when you murdered your mother.
@@ -2393,8 +2321,6 @@ He walks forward, wading resolutely into the infinite dark.
 **Meursault:** .......
 **Judge:** Answer!
 **Meursault:** The sunlight... was overwhelming...
-
-<!-- S1061B -->
 
 *— Trasa A —*
 
@@ -2421,8 +2347,6 @@ It was making sounds, but whether those sounds carried any meaning, I could not 
 **Meursault:** It's a lullaby, Manager.
 **Meursault:** The content and rhythm suggest a high degree of similarity to what those outside the Grand Magasin call a "lullaby."
 
-<!-- S1062B -->
-
 *— Trasa A —*
 
 #### Sisyphe Tower, A Giant's Room
@@ -2438,8 +2362,6 @@ So unbearably unfamiliar, so scarcely human.
 **Jeanne:** ... Let's see how the first floor is doing. Enough time has passed for the season's trends to have shifted...
 
 ### Etap 10-36
-
-<!-- S1034A -->
 
 *— W trakcie walki —*
 
@@ -2506,8 +2428,6 @@ Yet he opens the door still, living through the pain again.
 
 ### Scena
 
-<!-- S1034A2 -->
-
 *— Trasa C —*
 
 **Mother** (*Giant*): *AAAAAHHHHH!*
@@ -2559,8 +2479,6 @@ Once more, Meursault opened the door.
 **Meursault:** I do not yet know what the reason is,
 **Meursault:** But I know it is here.
 
-<!-- S1034A3 -->
-
 The battle continues in a standstill.
 We wear down the Chaplain after a grueling battle, and he rebuilds himself with the flick of his fingers.
 Against this hopeless situation, we lean on the memories of the past, and destroy what is once again rebuilt.
@@ -2572,8 +2490,6 @@ Time flows helplessly. *Ages* pass us by.
 And without knowing what this all means, if this flow will result in our success, or abject failure...
 ... we endure.
 As we always have.
-
-<!-- S1035B -->
 
 *— Trasa C —*
 
@@ -2627,8 +2543,6 @@ Buffet's relentless assault came to a brief lull, their gaze resting upon us.
 **Meursault:** ... We will proceed to the next floor, Buffet.
 **Buffet:** So you choose not to follow me in the end, strangers...
 
-<!-- S1035A -->
-
 *— Trasa C —*
 
 **Buffet:** .......
@@ -2655,8 +2569,6 @@ Buffet's relentless assault came to a brief lull, their gaze resting upon us.
 **Meursault:** .......
 **Meursault:** Yes, you can.
 
-<!-- S1036B -->
-
 *— Trasa C —*
 
 #### Customer Service, 6F
@@ -2679,8 +2591,6 @@ A human drenched in sweat.
 **Meursault:** Yes. When I was going downhill again to retrieve the boulder.
 **Meursault:** I knew I was bound to return for it, that it would invariably fall again, that it would hurt. But at very occasional moments...
 **Meursault:** I enjoyed it.
-
-<!-- S1037B -->
 
 *— Trasa C —*
 
@@ -2829,8 +2739,6 @@ Jeanne twirls around to face the white void behind her. It begins to come alive 
 
 ### Etap 10-36
 
-<!-- S1032B -->
-
 *— W trakcie walki —*
 
 #### ???
@@ -2859,8 +2767,6 @@ Outis, seemingly the first to make sense of the situation, turned in my directio
 **Dante:** ... It's time we did something different.
 **The Warden?:** ... Ye shall writhe and suffer... in the pain ye have visited upon yourself...!
 
-<!-- S1033B -->
-
 *— W trakcie walki —*
 
 **Heathcliff:** ... Oi, the tosser looks right as rain again...
@@ -2879,8 +2785,6 @@ Outis, seemingly the first to make sense of the situation, turned in my directio
 **The Warden?:** Neither the order of things... nor time itself... shall stand in thy support...
 **The Warden?:** Never shalt thou elect... to walk the path of iniquity again...
 **The Warden?:** And so, thou who hast sinned... now shall commence... thine unending penance...!
-
-<!-- S1034B -->
 
 *— W trakcie walki —*
 
@@ -3016,8 +2920,6 @@ I want nothing more than to coil the chains around my body, just as my dead moth
 
 ### Etap 10-39
 
-<!-- S1038B -->
-
 *— W trakcie walki —*
 
 #### A Bright Room, 7F
@@ -3036,8 +2938,6 @@ Meursault closed his eyes, as if considering something. When he opened them agai
 **Jeanne:** People twisting themselves for expression, for meaning... this City, doing much the same...
 **Jeanne:** They're all... directionless, drifting movements, nothing more.
 **Jeanne:** That day we first met, I thought you were someone who felt and experienced all of that minutiae of existing. That's why I decided to talk to you.
-
-<!-- S1038A -->
 
 *— W trakcie walki —*
 
@@ -3082,8 +2982,6 @@ Beams of limelight focused away from us, and illuminated a couple—Jeanne and M
 **Jeanne:** That's because you haven't danced a real dance yet, ma puce.
 **Jeanne:** Come closer... let me show you the steps.
 
-<!-- S1039B -->
-
 *— W trakcie walki —*
 
 **Meursault:** A waltz... is a dance of two different but interlocking movements. The dancers must keep a close eye on their partner's moves, and step accordingly.
@@ -3112,8 +3010,6 @@ Beams of limelight focused away from us, and illuminated a couple—Jeanne and M
 **Meursault:** When the movie begins, the countless people who fill the cinema immediately become indifferent to me.
 **Meursault:** That spellbinding moment on the screen captures their gaze, like... chains.
 **Meursault:** ... It is quiet. And therefore relaxing.
-
-<!-- S1039A -->
 
 *— W trakcie walki —*
 
@@ -3155,8 +3051,6 @@ Beams of limelight focused away from us, and illuminated a couple—Jeanne and M
 **Meursault:** But not knowing will not stop me from trying.
 **Jeanne:** ... You're leaving me again.
 
-<!-- S1040B -->
-
 *— W trakcie walki —*
 
 **Jeanne:** Why are you so eager to leave me? Where are you trying to go?
@@ -3181,14 +3075,10 @@ Meursault turns his gaze toward us, his eyes still full of uncertainty and doubt
 **Jeanne:** Don't you understand? Hell is those people—the Hell of nails that pin you down!
 **Meursault:** .......
 
-<!-- S1040A -->
-
 *— W trakcie walki —*
 
 **Meursault:** ... It doesn't matter.
 **Meursault:** I too, am Hell.
-
-<!-- S1041B -->
 
 *— W trakcie walki —*
 
@@ -3280,8 +3170,6 @@ He met my gaze, and I his.
 Seeing the cold fire that burned in his eyes, I decided not to reach out with my hand, my words, or anything at all.
 I simply placed my anticipation, my expectation on that existence before me.
 
-<!-- S1041A -->
-
 *— W trakcie walki —*
 
 **Meursault:** It is dark. Like an unlit cinema.
@@ -3296,8 +3184,6 @@ I simply placed my anticipation, my expectation on that existence before me.
 **Jeanne:** .......
 
 ### Scena
-
-<!-- S1041A2 -->
 
 *— Trasa C —*
 
@@ -3316,8 +3202,6 @@ I simply placed my anticipation, my expectation on that existence before me.
 **Jeanne:** ... No, it's gone. Why is that?
 **Meursault:** Because we infused beats and rhythm into what is ultimately meaningless...
 **Meursault:** ... and decided to enjoy this sensation that will soon come to an end. That is why.
-
-<!-- S1042B -->
 
 *— Trasa C —*
 
@@ -3448,8 +3332,6 @@ I simply placed my anticipation, my expectation on that existence before me.
 **Monologue:** ... noisy.
 **Monologue:** So...
 **Meursault:** Shut up.
-
-<!-- S1043B -->
 
 *— Trasa C —*
 

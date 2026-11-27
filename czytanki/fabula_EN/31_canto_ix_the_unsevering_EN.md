@@ -14,8 +14,6 @@
 
 ### Etap 9-1 · Ambush in the Dark
 
-<!-- S901B -->
-
 *— Przed walką —*
 
 *There is a clew of thread, raveled of a single strand whose beginning is its end.*
@@ -105,8 +103,6 @@ A broken pistol hung from her waist. It was impossible not to notice the still-f
 The first thing that caught my attention, however, was the stump right where her left arm used to be.
 
 ### Etap 9-2 · The Spiders' Thread
-
-<!-- S902B -->
 
 *— Przed walką —*
 
@@ -273,8 +269,6 @@ The intruder gestured with his hand, and strange, bizarre things dropped through
 
 ### Etap 9-3 · Textbook
 
-<!-- S903I -->
-
 *— W trakcie etapu —*
 
 #### LCCB Transporter Truck
@@ -343,8 +337,6 @@ Hatred thick in her voice, Ryōshū hissed "The Thumb Nursefather..." under her 
 **Valencina:** Hah... Bitch... you should know your place before barking at your betters.
 **Valencina:** ...!
 Sensing a sudden presence outside, the so-called Thumb Nursefather snatched Charon into her arms and swiftly assumed a fighting stance.
-
-<!-- S903A -->
 
 *— Po walce —*
 
@@ -436,8 +428,6 @@ I replied, absentmindedly rubbing the area where the chains that connected me to
 With Vergilius's words hanging heavily over us, we made our way into the Backdoor connected to the HQ Research Facility.
 
 ### Etap 9-4 · Mutilated Memory
-
-<!-- S904B -->
 
 *— Przed walką —*
 
@@ -542,8 +532,6 @@ Ryōshū whipped her hair back, furrowing her eyebrows in annoyance.
 **Gregor:** ... We need to hurry, then.
 
 ### Etap 9-7 · Paradox of the Spiral
-
-<!-- S907B -->
 
 *— Przed walką —*
 
@@ -720,8 +708,6 @@ Shadows beset the path ahead.
 
 ### Etap 9-8 · Charm
 
-<!-- S908B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Sector
@@ -748,8 +734,6 @@ Ishmael, who had been following the route Alyssa had mapped out, stopped in her 
 **Dante:** Let's take them down and reduce them back to eggs. If they prey on any survivors who stumble in here... that'll be real trouble.
 
 ### Etap 9-11 · Entangled Fate
-
-<!-- S911B -->
 
 *— Przed walką —*
 
@@ -875,8 +859,6 @@ Sinclair caught the shadow flickering across Aeng-du's face and swiftly stepped 
 **Moses:** Let us move on to the issue at hand.
 
 ### Etap 9-12 · A Distinct Objective
-
-<!-- S912B -->
 
 *— Przed walką —*
 
@@ -1104,8 +1086,6 @@ Marton gave a handful of tiny radios to Outis, who distributed them to each of u
 
 ### Etap 9-13 · Shurajō
 
-<!-- S913B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -1232,8 +1212,6 @@ Meanwhile, back at the transporter truck...
 
 ### Etap 9-14 · Roseate Desire
 
-<!-- S915B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -1265,8 +1243,6 @@ They began shuffling at us in that uncanny rhythm entirely devoid of any semblan
 Ryōshū muttered to herself.
 
 ### Etap 9-16 · The Fingers
-
-<!-- S916B -->
 
 *— Przed walką —*
 
@@ -1416,8 +1392,6 @@ Then, his lips part, soundlessly mouthing a sentence, word by word.
 
 ### Etap 9-17 · Nursefathers
 
-<!-- S917B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Laboratory Entrance
@@ -1435,8 +1409,6 @@ Leaving behind the perpetrator of the carnage greeting Ryōshū on the other sid
 **Ryōshū:** My fathers who forged the sword that I am.
 
 ### Etap 9-18 · Cigarettes & The Nursefather
-
-<!-- S918B -->
 
 *— Przed walką —*
 
@@ -1537,8 +1509,6 @@ The armored figure answered Ryōshū's question...
 **Ryōshū:** You're starting to pick up the rudiments of aesthetics, Clock.
 **Ryōshū:** Watch as I demonstrate the meaning of A.O.S.
 
-<!-- S918A -->
-
 *— Po walce —*
 
 **???:** Refrain from any deviations from the plan... Has my humble self neglected to impress upon this matter many times?
@@ -1573,8 +1543,6 @@ What remained in their place...
 ... were dozens of cigarette butts, the same kind that Ryōshū smoked, piled up like a thick layer of dust.
 
 ### Etap 9-19 · Children
-
-<!-- S919B -->
 
 *— Przed walką —*
 
@@ -1703,8 +1671,6 @@ I caught myself thinking how nice it must be to have such certainty.
 
 ### Etap 9-21 · New Hires
 
-<!-- S920B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -1776,8 +1742,6 @@ With the Sinners' help, the two employees who'd been trapped under the rubble ma
 The two LCE researchers sighed anxiously as we hurried in the elevator's direction.
 
 ### Etap 9-23 · Audience
-
-<!-- S922B -->
 
 *— Przed walką —*
 
@@ -1894,8 +1858,6 @@ The two LCE researchers sighed anxiously as we hurried in the elevator's directi
 
 ### Etap 9-24 · Hide-and-Seek
 
-<!-- S923B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -1994,8 +1956,6 @@ Back to the present...
 
 ### Etap 9-25 · Shock Centipede
 
-<!-- S924B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -2009,8 +1969,6 @@ Back to the present...
 **Gregor:** So we gotta stay sharp during the fight... I get it. Sora, Ravi—get behind me, okay?
 
 ### Etap 9-27 · The Contract
-
-<!-- S925B -->
 
 *— Przed walką —*
 
@@ -2116,8 +2074,6 @@ Contract or not... I doubt she'd come this far with Vergilius and me if she'd on
 
 ### Etap 9-30 · Will of the Prescript
 
-<!-- S926B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -2209,8 +2165,6 @@ I probably should've done something too while Sinclair was going through his tra
 But this isn't the time to dwell on what I could've done.
 First... I have to do what I must. What I can do now.
 
-<!-- S926I1 -->
-
 *— W trakcie etapu —*
 
 **Dante:** That's... E.G.O!
@@ -2222,8 +2176,6 @@ First... I have to do what I must. What I can do now.
 **Sora:** H-hearing that, I couldn't help thinking—e-even if the day the whole family's been waiting for comes, even when my big sis Y-Yoshihide finally comes home...
 **Sora:** M-maybe, just maybe... they'll make an exception and let me stay.
 **Sora:** So p-put in a good word for me with Mister Rien, please? T-tell him I've always done my best.
-
-<!-- S926I2 -->
 
 *— W trakcie etapu —*
 
@@ -2254,8 +2206,6 @@ Hearing my ticking, Vespa briefly furrowed his brow in puzzlement before checkin
 The Pinky Nursefather remained perfectly still as she continued to fixate on us with her stare.
 She made no attempt to help Sora, nor did she look for another way out.
 She simply stood there, watching in silence... with the bundle of Golden Boughs in her grasp.
-
-<!-- S926A -->
 
 *— Po walce —*
 
@@ -2351,8 +2301,6 @@ As if... I'd just perceived something I wasn't ready to face.
 The heat dissipates, and my head cools once again...
 
 ### Etap 9-31 · Drenched Gossypium
-
-<!-- S927B -->
 
 *— Przed walką —*
 
@@ -2561,8 +2509,6 @@ The heat dissipates, and my head cools once again...
 
 ### Etap 9-32 · A Beautiful Hue of Teal
 
-<!-- S928B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Hallway
@@ -2639,8 +2585,6 @@ The heat dissipates, and my head cools once again...
 
 ### Etap 9-33 · That Single Thread
 
-<!-- S929B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Elevator
@@ -2667,8 +2611,6 @@ It was like I was staring at their empty husks standing at the ready for my comm
 **Gregor:** ... Let's just appreciate this opportunity while we have it. What matters is that we do not lose the Golden Boughs, right?
 ... He's not wrong.
 The 12 Sinners, now together, approached the sole enemy.
-
-<!-- S929A -->
 
 *— Po walce —*
 
@@ -2762,8 +2704,6 @@ The Pinky Nursefather smote down upon Ryōshū's sword, holding it in place.
 **Dihui Star:** Well... when has the discussion of truths and lies ever meant anything?
 
 ### Etap 9-34 · Homeward Bound
-
-<!-- S930B -->
 
 *— Przed walką —*
 
@@ -2869,8 +2809,6 @@ Replaying his words in our minds, the nonchalance with which he invited Ryōshū
 We let the silence he left behind wash over us, overwhelmed by the sheer monumentality of the task before us.
 
 ### Etap 9-35 · The Safe
-
-<!-- S931B -->
 
 *— Przed walką —*
 
@@ -2983,8 +2921,6 @@ But before we could ask her more about Araya...
 
 ### Etap 9-36 · Operation Spider Pyre
 
-<!-- S936B -->
-
 *— Przed walką —*
 
 #### Corridor of the Ring
@@ -3034,8 +2970,6 @@ Sinclair paused for a moment, then...
 **Ryōshū:** .......
 
 ### Etap 9-37 · The Ring
-
-<!-- S937B -->
 
 *— Przed walką —*
 
@@ -3108,14 +3042,10 @@ Sinclair paused for a moment, then...
 **Sinclair:** ... What makes you think... we're going to tell you any of that?
 **Albina:** Okay, then me first. My name is Albina. I'm learning Corporism art under Maestro Callisto's tutelage with my beloved Fascia.
 
-<!-- S937I2 -->
-
 *— W trakcie walki —*
 
 **Radio:** Miss Alyssa! Now's not—!
 **Callisto:** .......
-
-<!-- S937I1 -->
 
 *— W trakcie etapu —*
 
@@ -3142,8 +3072,6 @@ Sinclair paused for a moment, then...
 **Alyssa:** I'd rather gouge out my own eyeballs, you murdering fuck...!
 
 ### Etap 9-38 · The Middle
-
-<!-- S938B -->
 
 *— Przed walką —*
 
@@ -3283,8 +3211,6 @@ Some time prior to the group's entry into the Backdoor portal...
 
 ### Etap 9-39 · The Index
 
-<!-- S939B -->
-
 *— Przed walką —*
 
 #### A Corridor somewhere
@@ -3413,8 +3339,6 @@ Ryōshū asked in a quiet voice, as though she couldn't care less about anything
 **Rien:** That's why I've only ever read picture books.
 
 ### Etap 9-40 · The Pinky
-
-<!-- S940B -->
 
 *— Przed walką —*
 
@@ -3589,8 +3513,6 @@ When her hand touches it, the thread becomes clearly visible, as though it has a
 
 ### Etap 9-41 · Araya
 
-<!-- S941B -->
-
 *— Przed walką —*
 
 #### Bioengineering Research Facility
@@ -3750,8 +3672,6 @@ When her hand touches it, the thread becomes clearly visible, as though it has a
 **Ryōshū:** this time, I'll cut everything up...
 **Ryōshū:** ... and finish the job.
 
-<!-- S941A -->
-
 *— Po walce —*
 
 **Ryōshū:** .......
@@ -3799,8 +3719,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Dihui Star:** ... I want to see the world through a haze.
 
 ### Etap 9-42 · Ticket
-
-<!-- S942B -->
 
 *— Przed walką —*
 
@@ -3905,8 +3823,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Valencina:** That's right. It's pointless to question and think. Just do exactly as you're told—*exactly* as I taught you.
 **Valencina:** It's the one thing you're good at, isn't it?
 
-<!-- S942A -->
-
 *— Po walce —*
 
 **Lucio:** .......
@@ -3953,8 +3869,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Rodion:** Greg—!
 
 ### Etap 9-43 · Hatching
-
-<!-- S943B -->
 
 *— Przed walką —*
 
@@ -4128,8 +4042,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Sinclair:** I see...
 **Sinclair:** The Smoke... was blue.
 
-<!-- S943I1 -->
-
 *— W trakcie walki —*
 
 **Sinclair:** .......
@@ -4145,8 +4057,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Sinclair:** The air here is clean.
 **Sinclair:** I haven't breathed like this in so long.
 
-<!-- S943I2 -->
-
 *— W trakcie walki —*
 
 **Callisto:** Your eyes have been witnesses to... such a vast spectrum of slaughter.
@@ -4161,8 +4071,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Callisto:** Aah...
 **Callisto:** Yes, and that is... And that is enough.
 **Sinclair:** ... So it is.
-
-<!-- S943A -->
 
 *— Po walce —*
 
@@ -4226,8 +4134,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 
 ### Etap 9-44 · Family
 
-<!-- S944I1 -->
-
 *— W trakcie etapu —*
 
 #### Corridor of the Middle
@@ -4290,8 +4196,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Don Quixote:** ... for they shall demonstrate before thee the true meaning of "badass."
 
 ### Etap 9-45 · Suddenly, One Day
-
-<!-- S945B -->
 
 *— Przed walką —*
 
@@ -4396,8 +4300,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Heathcliff:** Sod off with that "I hope so," mate.
 **Heathcliff:** We'll just try 'till it works... Yeah, that's what we're gonna do.
 
-<!-- S945A -->
-
 *— Po walce —*
 
 **Rodion:** ... He's back to normal, right...?
@@ -4412,8 +4314,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Vergilius:** Hmm...
 
 ### Etap 9-46 · Waiting
-
-<!-- S946B -->
 
 *— Przed walką —*
 
@@ -4433,8 +4333,6 @@ And I see a face that much resembles Ryōshū's, only wrinkled and older.
 **Rien:** I suppose all that's left is to wait?
 
 ### Etap 9-47 · Pity
-
-<!-- S947B -->
 
 *— Przed walką —*
 
@@ -4836,8 +4734,6 @@ The blade then unravels into a single thread in her hand.
 
 ### Etap 9-48 · Temporal Entanglement
 
-<!-- S948B -->
-
 *— Przed walką —*
 
 **Outis:** ... ger.
@@ -4890,8 +4786,6 @@ Soon, we realized she was trying to draw us in after her.
 **Ryōshū:** She's still...
 **Ryōshū:** ... waiting for me.
 **Dihui Star:** Araya is waiting for no one!
-
-<!-- S948A -->
 
 *— Po walce —*
 
@@ -5075,8 +4969,6 @@ hacked into pieces, mutilated; time itself howls with a piercing cry.
 
 ### Etap 9-49 · Non-self
 
-<!-- S949B -->
-
 *— Przed walką —*
 
 #### The House of Spiders Rooftop
@@ -5123,8 +5015,6 @@ hacked into pieces, mutilated; time itself howls with a piercing cry.
 What the Sinclair from the future said still lingers in the far corners of my mind.
 I have no way of knowing if he was a glimpse of what awaits us in our future, but...
 **Dante:** but at least let's see her off properly.
-
-<!-- S949A -->
 
 *— Po walce —*
 
@@ -5257,8 +5147,6 @@ Araya has entered the fathoms of Ryōshū, and at the same time, she exists outs
 
 ### Etap 9-50 · The Spider's Thread
 
-<!-- S950B -->
-
 *— Przed walką —*
 
 #### The House of Spiders Rooftop
@@ -5316,8 +5204,6 @@ Resting in her palm, the scabbard presses against her skin, its shape and weight
 **Rien:** My darling daughter, you'll end up losing everything if you let yourself be shackled by what gives you these feelings—happiness, wrath, sorrow, joy... Because once you get a taste of them, you'll learn the truth that to live is to suffer.
 **Rien:** That is why I must remain in the House of Spiders.
 
-<!-- S950I1 -->
-
 *— W trakcie walki —*
 
 **Rien:** ... If I let you go here, you will never come home again.
@@ -5325,8 +5211,6 @@ Resting in her palm, the scabbard presses against her skin, its shape and weight
 **Rien:** But that's still better than letting this empty regret burrow through the heart, isn't it?
 **Rien:** …….
 **Rien:** Hah. Alright. Let's get started.
-
-<!-- S950I2 -->
 
 *— W trakcie walki —*
 
@@ -5337,8 +5221,6 @@ Resting in her palm, the scabbard presses against her skin, its shape and weight
 **Rien:** …….
 **Rien:** Sweetie, all would be well if you'd just stay. The House of Spiders doesn't have to disappear.
 **Rien:** So please... don't leave.
-
-<!-- S950A -->
 
 *— Po walce —*
 
@@ -5374,8 +5256,6 @@ Resting in her palm, the scabbard presses against her skin, its shape and weight
 **Rien:** They sound lonely.
 
 ### Etap 9-51 · Causality that Threads the Past, the Present, and the Future
-
-<!-- S951B -->
 
 *— Przed walką —*
 

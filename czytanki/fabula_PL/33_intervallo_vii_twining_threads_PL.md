@@ -8,8 +8,6 @@
 
 ### Etap 1 · Pogrzeb
 
-<!-- E901B -->
-
 *— Przed walką —*
 
 #### LCE Morgue
@@ -158,8 +156,6 @@ Seeing me tilting my head, Hohenheim pushed up his glasses.
 
 ### Etap 2 · Ocalała
 
-<!-- E902B -->
-
 *— Przed walką —*
 
 #### LCE Recovery Ward
@@ -267,8 +263,6 @@ Kira pushed herself up from the bed with a sour face, but at least she didn't ar
 We made our way to the House of Spiders, with Kira trailing behind us, looking like she was smelling something particularly fishy on us.
 
 ### Etap 3 · Wayfarer
-
-<!-- E903B -->
 
 *— Przed walką —*
 
@@ -549,8 +543,6 @@ As soon as I call out to the Sinners, their voices come through Hohenheim's radi
 **Rodya** (*Radio*): Eh?! H-hang on, I just need to finish this bite...!
 **Dante:** Everyone to me.
 
-<!-- E903A -->
-
 *— Po walce —*
 
 **Faust:** It's only the first door, and the impediments are already beyond expected levels.
@@ -607,8 +599,6 @@ Could it be... that seeing the scabbard brought back some memory of Araya?
 **Hohenheim:** No, that won't be necessary. There is a facility here that should prove more than adequate.
 
 ### Etap 4 · Relikty i Znak
-
-<!-- E904B -->
 
 *— Przed walką —*
 
@@ -792,8 +782,6 @@ And before we knew it, Hohenheim and Ryōshū returned.
 
 ### Etap 5 · Renketsuen
 
-<!-- E905B -->
-
 *— Przed walką —*
 
 #### The House of Spiders Forward Base
@@ -851,8 +839,6 @@ It'll probably be okay... I can always summon them again if things get too dange
 For now... I should go see Alan again.
 
 ### Etap 6 · Saru
-
-<!-- E906B -->
 
 *— Przed walką —*
 
@@ -1047,8 +1033,6 @@ Startled, Kira pointed ahead, where figures wearing animal masks were hauling wh
 **Dante:** ... Guys, looks like we've got another job to do. Lend me a hand.
 The radio didn't buzz with the Sinner's replies this time... but it should be fine.
 
-<!-- E906A -->
-
 *— Po walce —*
 
 **Faust:** With this, the last of the Ring's infiltrators have been eradicated.
@@ -1073,8 +1057,6 @@ The scabbard gave a faint, restless stir. Perhaps it wanted to comfort Ryōshū 
 And accompanied by its tremors, we began our move toward the Corridor of the Middle.
 
 ### Etap 7 · Szkoła
-
-<!-- E907B -->
 
 *— Przed walką —*
 
@@ -1373,8 +1355,6 @@ It wasn't long before the Fauvists began rushing in through the open door...
 
 ### Etap 8 · Nieszczęścia
 
-<!-- E908B -->
-
 *— Przed walką —*
 
 #### Corridor of the Middle Nursefather
@@ -1612,8 +1592,6 @@ And with one arm, he gently opened the door.
 
 ### Etap 9 · Wspomnienia
 
-<!-- E909B -->
-
 *— Przed walką —*
 
 #### An Office Building, Somewhere
@@ -1719,8 +1697,6 @@ They must be trying to find a way to get to the Ring Nursefather's Corridor...
 **Dante:** Kill them all.
 
 ### Etap 10 · Piwnica
-
-<!-- E910B -->
 
 *— Przed walką —*
 
@@ -1845,8 +1821,6 @@ Still, if this has anything to do with Ryōshū's memories...
 **Prozelita The Index:** The Will of the Prescript is absolute.
 **Dante:** ... Is it, though?
 
-<!-- E910A -->
-
 *— Po walce —*
 
 #### Rien's Dungeon, Past
@@ -1868,8 +1842,6 @@ Still, if this has anything to do with Ryōshū's memories...
 **Dante:** ... now we've got another reason to check what's upstairs.
 
 ### Etap 11 · W Ciche Zapomnienie
-
-<!-- E911A -->
 
 *— Po walce —*
 
@@ -1902,8 +1874,6 @@ Sadly, she responded by softly shaking her head.
 **Ryōshū:** I don't.
 
 ### Etap 12 · S.A.N.G.R.I.A.
-
-<!-- E912B -->
 
 *— Przed walką —*
 
@@ -2092,8 +2062,6 @@ Ryōshū readied her scabbard.
 
 ### Etap 13 · Dobre Wspomnienia
 
-<!-- E913B -->
-
 *— Przed walką —*
 
 #### Corridor of the Pinky Nursefather
@@ -2182,8 +2150,6 @@ conveying no resentment, no hatred, but a few words of consolation...
 ... as her voice faded into the gentle dark with Ryōshū's memories.
 
 ### Etap 14 · Następny Cel
-
-<!-- E914B -->
 
 *— Przed walką —*
 

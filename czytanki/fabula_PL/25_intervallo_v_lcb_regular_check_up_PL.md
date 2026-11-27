@@ -8,8 +8,6 @@
 
 ### Etap 1 · Zbieranie Danych
 
-<!-- E701B -->
-
 *— Przed walką —*
 
 #### ???
@@ -37,8 +35,6 @@ If I tried, this researcher next to me will get in my way, claiming that they ha
 I had a lot I wanted to say, but...
 … let’s help the Sinners out of this bind first.
 
-<!-- E701A -->
-
 *— Po walce —*
 
 **Dante:** That went well…
@@ -55,8 +51,6 @@ Sure there was. Not that it would've made any difference.
 Because like Ishmael said, this all began with Gregor's particularly egregious stretching.
 
 ### Etap 2 · Badania Okresowe
-
-<!-- E702B -->
 
 *— Przed walką —*
 
@@ -240,8 +234,6 @@ I saw a large and unfamiliar vehicle through the window.
 
 ### Etap 3 · Pojazd
 
-<!-- E703B -->
-
 *— Przed walką —*
 
 Once we disembarked the bus, we made our way into this unfamiliar vehicle of sorts.
@@ -324,8 +316,6 @@ I hear heavy doors opening and closing from here and there, alongside that odd s
 
 ### Etap 4 · Hohenheim
 
-<!-- E704B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Unit
@@ -396,8 +386,6 @@ The walls of the laboratory suddenly started separating and sliding into place; 
 **Marton:** Oh, hey. We’ve got some leftover cake from our last office party. Come this way, please.
 An employee appeared and led Vergilius and Charon away into a nearby office room.
 **Dante:** ... Okay, so this is the regular check-up, huh? Let’s get this done.
-
-<!-- E704A -->
 
 *— Po walce —*
 
@@ -496,8 +484,6 @@ Yi Sang replied with a particularly downcast look.
 Marton whispered quietly at me in a voice that only I could hear.
 
 ### Etap 5 · Asystentka
-
-<!-- E705B -->
 
 *— Przed walką —*
 
@@ -599,8 +585,6 @@ Yi Sang started, carefully attempting to navigate through a conversation that ap
 
 ### Etap 6 · Bezcelowy Gniew
 
-<!-- E706B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Unit
@@ -672,8 +656,6 @@ Hong Lu was practically squished against the containment unit window, holding up
 
 ### Etap 7 · Bezładne Lenistwo
 
-<!-- E707B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Unit
@@ -694,8 +676,6 @@ Hong Lu was practically squished against the containment unit window, holding up
 **Faust:** ... This will be harder than expected. Let us provide assistance.
 
 ### Etap 8 · Dobrowolne Zatonięcie
-
-<!-- E708B -->
 
 *— Przed walką —*
 
@@ -737,8 +717,6 @@ Heathcliff, after flipping through a few more pages ahead, looked up at Hohenhei
 **Heathcliff:** Perfect timing... I've been gettin' a bit tired of all this mental exercise. Right, then... let's wrap this up quick!
 
 ### Etap 9 · Stępiony Harpun
-
-<!-- E709B -->
 
 *— Przed walką —*
 
@@ -784,8 +762,6 @@ Hohenheim droned on, as if the bickering Sinners didn't exist in his world.
 
 ### Etap 10 · Ukłucie
 
-<!-- E710B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Unit
@@ -811,8 +787,6 @@ Hohenheim droned on, as if the bickering Sinners didn't exist in his world.
 **Yi Sang:** Mm, then I shall follow.
 
 ### Etap 11 · Cena Ciekawości
-
-<!-- E711B -->
 
 *— Przed walką —*
 
@@ -929,16 +903,12 @@ My body can't even feel thirsty, this doesn't make any sense…!
 **Faust:** …….
 **Faust:** Time for us to pay the price of curiosity.
 
-<!-- E711I -->
-
 *— W trakcie walki —*
 
 **Don Quixote?** (*???*): I must…
 **Don Quixote?:** I have to be the Mother... to all of them... the Family's thirst, it's...
 **Vergilius:** No, my lady. You needn't be the Mother of anyone here. Here...
 **Vergilius:** ... you are a Sinner, nothing more.
-
-<!-- E711A -->
 
 *— Po walce —*
 
@@ -1039,8 +1009,6 @@ However, I cannot help but admit that I felt some degree of anxiety as I watched
 
 ### Etap 12 · Hierarchia
 
-<!-- E712B -->
-
 *— Przed walką —*
 
 #### LCE Research Team Lab. Unit
@@ -1116,8 +1084,6 @@ Ishmael replied in a voice that had clearly lost all interest in this discussion
 **Gregor:** Feels funny, getting consoled by the guy who placed last…
 
 ### Etap 13 · Nowe Numery Klasyfikacyjne
-
-<!-- E713B -->
 
 *— Przed walką —*
 
@@ -1207,8 +1173,6 @@ Hohenheim slowly turns around to look at me, prompting Faust and the other Sinne
 **Hohenheim:** And please, don’t forget that that is only true so long as you have Limbus Company’s backing.
 
 ### Etap 14 · Ostatnie Badanie
-
-<!-- E714B -->
 
 *— Przed walką —*
 
@@ -1307,8 +1271,6 @@ Hohenheim had already entered the portal as we stood there gawking. But we could
 
 **Wypaczony Hohenheim:** It’s… all in the past now anyway, isn’t it?
 
-<!-- E715B -->
-
 *— Po walce —*
 
 **???:** …….
@@ -1329,8 +1291,6 @@ Hohenheim had already entered the portal as we stood there gawking. But we could
 Diplomacy did not seem to be an option here—the censored people brandished their weapons threateningly and stood in our path.
 Looks like... we're going to have to take them down if we want to make any progress here.
 **Dante:** It can't be helped. Let's get ready for a fight...
-
-<!-- E716B -->
 
 *— Po walce —*
 
@@ -1402,8 +1362,6 @@ Looks like... we're going to have to take them down if we want to make any progr
 **Wypaczony Hohenheim:** Ah, the remnants of my past come to haunt us.
 **Wypaczony Hohenheim:** Perhaps it is I whom they truly wish to hurt.
 
-<!-- E716A -->
-
 *— Po walce —*
 
 #### Hohenheim's Laboratory, Past
@@ -1463,8 +1421,6 @@ It almost appeared as though his heart was crumbling as well.
 **Ishmael:** I… agree.
 **Ishmael:** We're still in deep waters here… this can't possibly be all there is to it.
 
-<!-- E717B -->
-
 *— Po walce —*
 
 #### Hohenheim's Laboratory, Past
@@ -1482,8 +1438,6 @@ That's when Heathcliff suddenly strode forward.
 **Heathcliff:** You only hire researchers from the Backstreets, don’t you? I heard from ‘em earlier.
 **Heathcliff:** They told me that you’re a right pompous bloke, but… thanks to you, they can continue to research and believe that there might be things in the world that's worth working toward.
 **Wypaczony Hohenheim:** …….
-
-<!-- E717A -->
 
 *— Po walce —*
 

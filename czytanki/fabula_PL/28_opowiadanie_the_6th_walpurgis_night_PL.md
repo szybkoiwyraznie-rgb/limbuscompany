@@ -8,8 +8,6 @@
 
 ### Etap 1 · A Jednak Nadchodzi Noc
 
-<!-- E080X -->
-
 #### Daguanyuan Pavilion
 
 **Dante:** How's the taste? Said they brewed it with the tea leaves Xichun gave us. It's called Baihao Yinzhen... or something, I think?
@@ -153,8 +151,6 @@ Then, the alarm that was blaring all throughout the company suddenly went quiet.
 
 ### Etap 2 · Rycerz Rozpaczy
 
-<!-- E081X -->
-
 #### L Corp. HQ Central Command
 
 **Gregor:** Ah... tsk, this one's uh... this one's kinda elaborate, huh.
@@ -169,8 +165,6 @@ Just as we braced...
 **Magical Girl?** (*???*): Here comes~ Magical Girl!
 
 ### Etap 3 · Czarodziejka
-
-<!-- E082X -->
 
 #### L Corp. HQ Central Command
 

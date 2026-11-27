@@ -18,8 +18,6 @@
 > Gdy atmosfera stężała, Vergilius opisuje miejsce następnej operacji.
 > Gdzie tym razem jest Złota Gałąź?
 
-<!-- S201B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -115,8 +113,6 @@ Jakby zrozumiał, że zabijaniem nic tu nie wskóra; ta rezygnacja zupełnie do 
 > Faust przedstawia plan operacji.
 > Żeby wykonać zadanie, musimy pójść do “lombardu”.
 
-<!-- S202B -->
-
 *— Przed walką —*
 
 #### Ulica Lombardów
@@ -144,8 +140,6 @@ Hong Lu rozglądał się wokoło, jakby Faust miała ich zaraz przyprowadzić i 
 **Gregor:** To jeszcze są takie interesy?
 **Faust:** Ta okolica nazywana jest wręcz Ulicą Lombardów, bo prawie każdy sklep prowadzi tu przy okazji lombard.
 **Faust:** Tamten sklep to punkt zbiórki. Wchodzimy.
-
-<!-- S202A -->
 
 *— Po walce —*
 
@@ -219,8 +213,6 @@ a reszta zakończyła prezentację, mierząc ich wzrokiem w połowie lodowatym, 
 
 > Do wspólnej operacji dołączyły nowe osoby z Działu Sprzątania.
 > W przeciwieństwie do niektórych są konkretni i bystrzy, więc Grzesznicy patrzą na nich mocno podejrzliwie…
-
-<!-- S203B -->
 
 *— Przed walką —*
 
@@ -399,8 +391,6 @@ Ishmael najwyraźniej poczuła się urażona i chciała się odciąć, ale bardz
 > Plan wydawał się doskonały, ale nie na długo: jak zwykle wszystko się posypało.
 > Przez wybryk Don Quixote Grzesznicy wpadają na ludzi z gangu Tingtang…
 
-<!-- S204B -->
-
 *— Przed walką —*
 
 #### Ulica Lombardów
@@ -438,8 +428,6 @@ Nawet Effie zbiła z tropu ta pewna siebie postawa Outis.
 
 > Grzesznicy wciąż ścierają się z tingtangowcami. Wrogowie wyrastają bez końca, jakby cała okolica należała do gangu Tingtang.
 
-<!-- S205B -->
-
 *— Przed walką —*
 
 #### Dystrykt 10, Zaułki
@@ -452,8 +440,6 @@ Ledwie Effie skończył mówić, z bocznych uliczek znów zaczęli wyłazić tin
 Effie błyskawicznie zatkał Don Quixote usta.
 **Effie:** Oszalałaś? Chcesz jeszcze wywiesić w Zaułkach billboard?
 **Outis:** Następni! Kierowniku, rozkazy!
-
-<!-- S205A -->
 
 *— Po walce —*
 
@@ -495,8 +481,6 @@ Ale co jakiś czas było widać, jak usilnie stara się zachować spokój, i mo�
 > Od tingtangowca dowiedzieliśmy się, że szef gangu jest przy wieży z aut.
 > W ramach planu B musimy tam pójść, odebrać im Moc Życzeń i przebrać się za tingtangowców.
 
-<!-- S206B -->
-
 *— Po walce —*
 
 #### Wejście do kasyna
@@ -535,8 +519,6 @@ Zapadła chwila niezręcznej ciszy.
 
 > Przeczesujemy okolice wieży z aut w poszukiwaniu szefa gangu Tingtang.
 
-<!-- S207B -->
-
 *— Przed walką —*
 
 #### Wejście do kasyna
@@ -551,8 +533,6 @@ Zapadła chwila niezręcznej ciszy.
 **Szef gangu Tingtang:** Fuj… obrzydliwe gnoje… Tak nie można żyć, ludzie…
 Teraz ten, kogo nazywali wielkim szefem, patrzy na nas z najszczerszym obrzydzeniem.
 **Dante:** …Chyba jeszcze nigdy tak bardzo nie chciałem wygrać.
-
-<!-- S207A -->
 
 *— Po walce —*
 
@@ -614,8 +594,6 @@ otworzyliśmy drzwi kasyna.
 *Miejsce: Kasyno - poziom 1*
 
 > Po wielu perypetiach odebraliśmy tingtangowcom ubrania i weszliśmy do kasyna. Tym razem operacja musi się udać.
-
-<!-- S208B -->
 
 *— Przed walką —*
 
@@ -695,8 +673,6 @@ Dzięki temu chyba wreszcie stało się dla mnie jasne, co mam robić.
 
 > Niezłomne postanowienie rozwiało się w okamgnieniu, a operacja pięknie się posypała. Przed nami jeszcze wiele przeszkód, a tymczasem wpadliśmy w oko ochronie kasyna.
 
-<!-- S209B -->
-
 *— Przed walką —*
 
 #### Kasyno - poziom 1
@@ -734,8 +710,6 @@ My i nasi przeciwnicy przez dłuższą chwilę gapiliśmy się tępo na żyrando
 **Gregor:** Dopiero co to wymyśliłaś, co?
 **Sinclair:** Ale przynajmniej wszyscy są cali!
 **Ishmael:** …Choć nie wiadomo, jak długo jeszcze.
-
-<!-- S209A -->
 
 *— Po walce —*
 
@@ -800,8 +774,6 @@ I tak, w żałosnym stylu, weszliśmy na drugi poziom.
 
 > Przeszliśmy na poziom 2 kasyna. Aż mi się kręci w głowie na myśl o tym, co tu na nas czeka.
 
-<!-- S210B -->
-
 *— Przed walką —*
 
 #### Kasyno - poziom 2
@@ -822,8 +794,6 @@ I tak, w żałosnym stylu, weszliśmy na drugi poziom.
 *Miejsce: Kasyno - poziom 2*
 
 > W przeciwieństwie do poziomu 1 panuje tu wyjątkowo radosna atmosfera. A przede wszystkim na każdym stole leżą jakieś dziwne instrumenty. Do czego one, u licha, służą?
-
-<!-- S212B -->
 
 *— Przed walką —*
 
@@ -854,8 +824,6 @@ Okazali się jednak surowsi, niż na to wyglądali.
 **Don Quixote:** …Wyście, zaiste, nieco nieokrzesani.
 **Effie** (*LCCB*): Coraz trudniej będzie to odkręcić… Co ty robisz, Saude?
 **Saude** (*LCCB*): Ach, piszę już zawczasu notatkę wyjaśniającą, ot co.
-
-<!-- S212A -->
 
 *— Po walce —*
 
@@ -922,8 +890,6 @@ Ciekawiło mnie to i owo, ale postanowiłem dowiadywać się wszystkiego powoli 
 
 > Dzięki zdumiewającemu popisowi Sinclaira bez szwanku dostaliśmy się na poziom 3. Ale tam witali nas już członkowie innej organizacji, z wyglądu wyjątkowo groźni.
 
-<!-- S213B -->
-
 *— Przed walką —*
 
 #### Kasyno - poziom 3
@@ -940,8 +906,6 @@ Ciekawiło mnie to i owo, ale postanowiłem dowiadywać się wszystkiego powoli 
 *Miejsce: Kasyno - poziom 3*
 
 > Grzesznicy coraz bardziej opadają z sił w ciągłych starciach z Ekipą Tieqiu. Ale jeszcze trudniej było znieść…
-
-<!-- S215B -->
 
 *— Przed walką —*
 
@@ -960,8 +924,6 @@ Ciekawiło mnie to i owo, ale postanowiłem dowiadywać się wszystkiego powoli 
 **Rodion:** N-no co, przecież to śmieszne. C-czemu się tak na mnie patrzysz~
 **Heathcliff:** …Wszyst…
 **Heathcliff:** …Wszystkich pozabijam!!
-
-<!-- S215A -->
 
 *— Po walce —*
 
@@ -994,8 +956,6 @@ Nawet Heathcliff, który w Zaułkach musiał przejść niejedno, co chwila aż s
 *Miejsce: Kasyno - najwyższe piętro*
 
 > Przez niespodziewaną lekcję Ryōshū i my odnieśliśmy spore szkody psychiczne, ale dotarliśmy na najwyższe piętro. Teraz musimy tu zagrać o Złotą Gałąź.
-
-<!-- S216B -->
 
 *— Przed walką —*
 
@@ -1072,8 +1032,6 @@ Zresztą nawet gdybym się przykładał, przy takim obrocie spraw wypadałoby j�
 
 > Rodion wzięła udział w grze jako nasza reprezentantka. Rozgrywka zbliża się do ostatniego rozdania.
 
-<!-- S217B -->
-
 *— Przed walką —*
 
 #### Kasyno - sala prywatna
@@ -1142,8 +1100,6 @@ I wszyscy, jak staliśmy, wpadliśmy prosto do sali gry.
 
 > Nie mogąc powstrzymać ciekawości, co się dzieje przy stole, podsłuchiwaliśmy i w końcu weszliśmy do środka. Ujrzeliśmy wszędzie bryzgi krwi, ślady, które zostały z Szefa Ekipy Tieqiu, i niejakiego Sonyę, który łagodnie się do nas uśmiechał.
 
-<!-- S218B -->
-
 *— Przed walką —*
 
 #### Kasyno - sala prywatna
@@ -1171,8 +1127,6 @@ Za to w pokoju nagle rozległy się puste oklaski.
 *Miejsce: Kasyno - najwyższe piętro*
 
 > Gra zakończyła się zwycięstwem Rodion. Teraz musimy zejść pod ziemię i na dobre zabrać się do szukania Złotej Gałęzi.
-
-<!-- S219B -->
 
 *— Przed walką —*
 
@@ -1247,8 +1201,6 @@ Na szczęście tym razem nie dodał czegoś tak niemądrego jak ‘To pewnie ter
 **Dante:** …
 Prawie nie dodał.
 
-<!-- 2D102B -->
-
 *— Po walce —*
 
 **Gregor:** Tsk… ochrona, a do tego Peccatula… Robi się uciążliwie…
@@ -1293,8 +1245,6 @@ Przyparty do muru Gregor nagle zaczął wykrzykiwać wyjątkowo nienaturalnym g�
 Najwyraźniej fatalne aktorstwo Gregora rozjuszyło nawet strażników.
 Inaczej przecież nie otworzyliby na oścież zamkniętych klatek.
 
-<!-- 2D107A -->
-
 *— Po walce —*
 
 **Wyprężony ochroniarz kasyna** (*Kasyno J Corp.*): Z-zaraz… czemu one idą w tę stronę? Stać! Stać, mówię!
@@ -1305,8 +1255,6 @@ Wykorzystaliśmy zamieszanie i zeszliśmy niżej.
 **Gregor:** Wychodzi na to, że dłużnicy nam pomogli.
 **Rodion:** Przypadek i tyle.
 Tylko Rodion odparła to z obojętną miną.
-
-<!-- 2D202B -->
 
 *— Po walce —*
 
@@ -1332,8 +1280,6 @@ Kontenery skończyły pracę, drzwi się otworzyły, a w środku…
 **Faust:** Inaczej nikt nie produkowałby masowo wzmocnionych ludzi…
 **Dante:** Dobra, rozumiem, ale uciekajmy! One śpiewały i pokazywały prosto na nas!
 
-<!-- 2D301B -->
-
 *— Po walce —*
 
 #### Kopalnia pod kasynem - poziom -3
@@ -1348,8 +1294,6 @@ Zostawiwszy westchnienia Ishmael za sobą, zastanowiłem się nad słowami Faust
 Wydawało mi się, że udzieliłem całkiem wzorowej odpowiedzi.
 **Faust:** Tak, owszem.
 Faust odpowiedziała jednak bez entuzjazmu (choć może tylko w moich uszach tak to zabrzmiało).
-
-<!-- 2D306B -->
 
 *— Po walce —*
 
@@ -1482,8 +1426,6 @@ Minęliśmy więc Sonyę i weszliśmy do lodowego zamku, który nam wskazał.
 
 ### Etap 2-28
 
-<!-- 2D306I -->
-
 *— W trakcie walki —*
 
 #### Wnętrze lodowego zamku
@@ -1520,8 +1462,6 @@ W pośpiechu wydostaliśmy się z zamku.
 *Miejsce: Kasyno - najwyższe piętro*
 
 > Gra zakończyła się zwycięstwem Rodion. Teraz musimy zejść pod ziemię i na dobre zabrać się do szukania Złotej Gałęzi.
-
-<!-- 2D306A -->
 
 *— Po walce —*
 

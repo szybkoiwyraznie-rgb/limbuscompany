@@ -6,8 +6,6 @@
 
 ### Etap 1 · Powrót Nocy
 
-<!-- E061X -->
-
 #### Na pokładzie Mephistophelesa
 
 **Sinclair:** Ah...
@@ -101,8 +99,6 @@ That's when...
 **Dante:** Yeah... Let's get this over with first.
 
 ### Etap 2 · Święto Wróżek
-
-<!-- E062X -->
 
 #### The Library - A Space Within a Book
 

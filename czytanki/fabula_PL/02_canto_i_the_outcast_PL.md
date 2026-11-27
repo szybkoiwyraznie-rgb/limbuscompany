@@ -18,8 +18,6 @@
 
 > W autobusie panuje atmosfera niezręczna, a zarazem groźna. Dostałem wprawdzie stanowisko “Kierownika”, ale nie mam pojęcia, co powinienem tu robić. Postanowiłem zapytać siedzącego naprzeciwko Grzesznika z robaczą ręką, dokąd jedziemy.
 
-<!-- S101B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -192,8 +190,6 @@ Sinclair z bolesnym jękiem podniósł się, ukłonił mi się nisko i chwiejnie
 
 > Po prośbie, która brzmiała jak groźba - cofnij zegar - przeszedłem pod rząd kilka męczarni gorszych od śmierci. W autobusie zrobiło się cicho, choć wcale nie przyjemnie, więc i ja postanowiłem trzymać język za zębami. Gdybyśmy tylko tak spokojnie dojechali do Dystryktu 4…
 
-<!-- S102B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -237,8 +233,6 @@ Ktoś na zewnątrz zaczął walić w stalowe poszycie autobusu.
 
 > Napadli na nas zbiry z Zaułków, które upatrzyły sobie autobus. Ale z jakiegoś powodu nie dobijamy ich od razu, tylko zaczynamy układać ich na wpół przytomne ciała przed Mephistophelesem…
 
-<!-- S103B -->
-
 *— Przed walką —*
 
 #### Gdzieś w Zaułkach Dystryktu 4
@@ -265,8 +259,6 @@ Wymamrotał to, jakby powtarzał to sobie albo komuś innemu, nie mnie.
 *Miejsce: Gdzieś w Zaułkach Dystryktu 4*
 
 > Podziwiałem Mephistophelesa, który rozprawiał się z ciałami sprawniej niż Grzesznicy. Od pierwszej chwili czułem, że to nie jest zwyczajny pojazd, ale czym właściwie jest ten autobus? Faust porusza wargami, jakby chciała coś powiedzieć.
-
-<!-- S104B -->
 
 *— Przed walką —*
 
@@ -301,8 +293,6 @@ Niewiele z tego wchodziło mi do głowy.
 *Miejsce: Gdzieś w Zaułkach Dystryktu 4*
 
 > Kiedy autobus mniej więcej skończył “posiłek”, Vergilius oznajmił, że zaraz zjawi się gość. Ciekawe, kto dołączy do tej niezbyt przyjemnej podróży.
-
-<!-- S105B -->
 
 *— Przed walką —*
 
@@ -371,8 +361,6 @@ Gregor popatrzył na przemian na nią i na Ishmael, podrapał się w potylicę i
 
 > Gościem okazała się Fikserka imieniem Yuri, która niegdyś pracowała w Lobotomy Corporation. Patrzyła spokojnie, jak autobus pożera trupy, jakby znała ten widok, więc musiała sporo przejść. I właśnie ta Yuri, zerknąwszy na mapę, nagle zaczęła nerwowo spoglądać w stronę fotela kierowcy…
 
-<!-- S106B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -405,8 +393,6 @@ Yuri i Ishmael jednocześnie łapią się za czoło, jakby się wcześniej umów
 *Miejsce: Gdzieś w Zaułkach Dystryktu 4*
 
 > Może i dobrze, że wyszło to już teraz… ale odkryliśmy wstrząsającą prawdę: Charon nie ma za grosz orientacji w terenie. Yuri nie mogła na to patrzeć i zakasała rękawy, oznajmiając, że nauczy Charon czytać mapę, a Sinclair, który też nie mógł na to patrzeć, jakoś sam się przyłączył. Trochę przy tym hałasu… ale miło popatrzeć.
-
-<!-- S107B -->
 
 *— Przed walką —*
 
@@ -451,8 +437,6 @@ Tym bardziej że coś, czym trzeba się zająć, właśnie zbliżało się nam p
 **Vergilius:** Nie musisz się martwić, Charon. Zaraz będzie cicho.
 **Vergilius:** Wszyscy wysiadać.
 
-<!-- S107A -->
-
 *— Po walce —*
 
 **Yuri** (*Fikser 8. stopnia*): No dobrze, wróćmy do mapy.
@@ -488,8 +472,6 @@ Gregor zachichotał, a autobus znów ruszył.
 *Miejsce: Gdzieś w Zaułkach Dystryktu 4*
 
 > Rodion, która wyglądała przez okno na Zaułki, nagle się wzdrygnęła. Spojrzałem tam, gdzie patrzyła: stała tam grupka ludzi z owadzimi głowami. W mgnieniu oka twarz Gregora też stężała. Ale jego mina wyraźnie różniła się od obrzydzenia, jakie czuła Rodion.
-
-<!-- S108B -->
 
 *— Przed walką —*
 
@@ -550,8 +532,6 @@ Przy autobusie tłoczą się żołnierze z robaczymi głowami.
 
 > Po kilku zamieszaniach dotarliśmy do dawnej filii Lobotomy Corporation. Przy wejściu zebrali się nieznajomi, jakby na nas czekali…
 
-<!-- S109B -->
-
 *— Przed walką —*
 
 #### Na pokładzie Mephistophelesa
@@ -597,8 +577,6 @@ Przy autobusie tłoczą się żołnierze z robaczymi głowami.
 
 > Tuż przed wejściem do filii L Corp. Vergilius nagle dyskretnie mnie przywołał. Wygląda na to, że chce ze mną porozmawiać w cztery oczy.
 
-<!-- S110B -->
-
 *— Przed walką —*
 
 #### Dystrykt 4 - przed filią L Corp.
@@ -620,8 +598,6 @@ Vergilius uśmiechnął się krzywo, poklepał mnie po ramieniu i powoli ruszył
 *Miejsce: Dystrykt 4 - gdzieś w filii L Corp.*
 
 > Zeszliśmy pod ziemię. W tym miejscu, usłanym trupami, panował straszny smród i roiło się od robactwa. Co tu się wydarzyło? I czy zdołamy bez szwanku odbić Złotą Gałąź?
-
-<!-- S111B -->
 
 *— Przed walką —*
 
@@ -715,8 +691,6 @@ w jednej chwili się rozsypała, ledwie zobaczył Gregora.
 **Heathcliff:** Myślisz, że takim, co sięgnęli samego dna, zostało coś takiego jak lojalność?
 **Heathcliff:** Nawet ci, co mają wszystko, wbijają innym nóż w plecy. A ty liczysz na takie miękkie bajeczki?
 
-<!-- 1D101A -->
-
 *— Po walce —*
 
 #### Dystrykt 4 - przy wejściu do filii L Corp.
@@ -729,8 +703,6 @@ Gregor zapala papierosa i wypuszcza dym dłużej niż kiedykolwiek.
 **Gregor:** Ach… przepraszam. Nie pomyślałem.
 **Yuri:** Nic nie szkodzi. W G Corp. i w L Corp. sytuacja była pewnie podobna.
 **Yuri:** …Złamanie Skrzydła to przecież wielki wstrząs.
-
-<!-- 1D102A -->
 
 *— Po walce —*
 
@@ -756,8 +728,6 @@ Była tak różna od tej, którą pokazywał przy Vergiliusie, że aż przeszły
 **Heathcliff:** Co się tak cackacie z gadaniem? Idzie się, tłucze i tyle.
 **Meursault:** Jeśli będzie rozkaz, wykonam. Nic więcej.
 
-<!-- 1D103A -->
-
 *— Po walce —*
 
 **Hopkins** (*Fikser 8. stopnia*): Jak przystało na podwładnych Szkarłatnego Spojrzenia… państwo też nie są w ciemię bici.
@@ -767,8 +737,6 @@ Była tak różna od tej, którą pokazywał przy Vergiliusie, że aż przeszły
 **Hopkins:** C-co ty wygadujesz? Kiedy niby ja…
 Hopkins, który przez chwilę grzebał się w miejscu, wstał.
 Kieszenie miał chyba wypchane, ale postanowiłem nie dawać po sobie poznać, że to widzę.
-
-<!-- 1D104B -->
 
 *— Po walce —*
 
@@ -789,8 +757,6 @@ Coś w słowach Faust mi się nie podobało, ale na razie postanowiłem jej pos�
 **Yuri** (*Fikser 8. stopnia*): Cofnie? Ten zegar naprawdę da się cofnąć?
 **Gregor:** Żeby tylko cofnąć! Szef ma niesamowitą moc. Niech pani Yuri też popatrzy.
 **Dante:** …Mój ból nikogo nie obchodzi?
-
-<!-- 1D105B -->
 
 *— Po walce —*
 
@@ -833,8 +799,6 @@ Outis przeszyła Hopkinsa piorunującym spojrzeniem, ale zaraz chyba przypomnia�
 Powoli sunące pnącza i cień wielokrotnie większy od człowieka.
 To coś… nadciągało, niosąc grozę zupełnie innego rzędu niż wszyscy dotychczasowi wrogowie.
 
-<!-- 1D105A -->
-
 *— Po walce —*
 
 **Heathcliff:** Co jest. Już koniec?
@@ -869,8 +833,6 @@ Myślałem, że śmierć Ayi mocno nią wstrząsnęła, ale widząc, jak uparcie
 **Gregor:** …No tak, mogłem się domyślić.
 **Faust:** Nie ma powodu do obaw. Kiedy tylko znajdziemy Złotą Gałąź, i tak będziemy musieli wrócić, czy się to komuś podoba, czy nie.
 
-<!-- 1D201B -->
-
 *— Po walce —*
 
 Zeszliśmy jeszcze jedno piętro niżej.
@@ -890,8 +852,6 @@ Zeszliśmy jeszcze jedno piętro niżej.
 **Faust:** …Dante, czas spojrzeć na gwiazdę.
 **Dante:** Coś za wygodnie się mną posługujecie…
 
-<!-- 1D202B -->
-
 *— Po walce —*
 
 Z ciemności wyłonił się kolejny weteran, z posępną miną.
@@ -910,8 +870,6 @@ Musiał kiedyś mieć wysoki stopień: odznaka, choć stara, wciąż lśniła.
 **Zgrzybiały dyrektor z dawnego G Corp.:** To powinieneś zrozumieć, kierowniku.
 **Zgrzybiały dyrektor z dawnego G Corp.:** Na polu bitwy wyrok dla zdrajcy jest zawsze ten sam.
 **Gregor:** Ładnie to brzmi… tylko że doraźna egzekucja z zemsty to naruszenie regulaminu firmy, dyrektorku.
-
-<!-- 1D202A -->
 
 *— Po walce —*
 
@@ -934,8 +892,6 @@ Gregor wsunął do ust i swojego papierosa, i pożyczonego, zapalił ten pożycz
 **Gregor:** Wybacz, ale nie chciałem dzielić się z nim własnym.
 **Ryōshū:** …Phi.
 Prychnięcie Ryōshū, dym z papierosa Gregora i wszechogarniająca cisza. Tylko tyle zostało tam przez dłuższą chwilę.
-
-<!-- 1D203B -->
 
 *— Po walce —*
 
@@ -1026,8 +982,6 @@ Długo ciągnęła się niezręczna, posępna cisza, aż w końcu trucizna całk
 Z tymi słowami Yuri zdjęła maskę i z kamienną twarzą zaczęła po kolei zarzucać sobie na plecy leżących Grzeszników.
 Nie wiedziałem, co powiedzieć na ten wyraz twarzy, więc postanowiłem milczeć.
 
-<!-- 1D204B -->
-
 *— Po walce —*
 
 **Dante:** To ta Anomalia przed chwilą zabiła wszystkich pracowników?
@@ -1072,8 +1026,6 @@ Wszyscy poszli dalej, tylko Yuri stała w miejscu i patrzyła z góry na postać
 **Posągowa głowa:** Zostaw mnie, Yuri… Proszę, zostaw mnie…
 **Yuri:** …
 **Dante:** …Chodźmy.
-
-<!-- 1D301B -->
 
 *— Po walce —*
 
@@ -1140,8 +1092,6 @@ Gregor niemal odepchnął mężczyznę, żeby się od niego odsunąć, i pospies
 **Faust:** Ścieżka, która biegnie przez pańskie serce. Innymi słowy…
 **Faust:** …weszliśmy do wnętrza serca pana Gregora.
 
-<!-- 1D302B -->
-
 *— Po walce —*
 
 #### Środkowy front Wojny Dymnej
@@ -1177,8 +1127,6 @@ Gregor niemal odepchnął mężczyznę, żeby się od niego odsunąć, i pospies
 **Gregor:** Kiedy to do mnie dotarło?
 **Gregor:** Że choć myślałem, że obudziłem się ze snu,
 **Gregor:** wciąż tkwiłem w samym środku koszmaru.
-
-<!-- 1D303B -->
 
 *— Po walce —*
 
@@ -1220,8 +1168,6 @@ Usta Tomaha rozwarły się upiornie i zaczęły z nich wyłazić długie czułki
 **Yuri:** Czyli… każdy, kto się zatrudnił, zgodził się, sam o tym nie wiedząc.
 **Gregor:** …U nas niby było inaczej?
 
-<!-- 1D304B -->
-
 *— Po walce —*
 
 **Gregor:** Yuri, co tam robisz? Chodź.
@@ -1244,8 +1190,6 @@ Usta Tomaha rozwarły się upiornie i zaczęły z nich wyłazić długie czułki
 **Rodion:** A poza tym różowe włosy to idealna maskotka firmy. No? Co ty na to? Hm?
 **Yuri:** M-maskotka…? He, he.
 Po raz pierwszy Yuri uśmiechnęła się, choć blado.
-
-<!-- 1D305B -->
 
 *— Po walce —*
 
@@ -1326,8 +1270,6 @@ a żołądek podszedł do gardła, jakbym unosił się w powietrze.
 Wszystkim kręciło się w głowach; tylko ja i Faust staliśmy prosto.
 Czułem, że pole bitwy wokół nas zmieniło się w znajome miejsce.
 
-<!-- 1D306B -->
-
 *— Po walce —*
 
 #### Dystrykt 4 - gdzieś w filii L Corp.
@@ -1345,8 +1287,6 @@ Sinclair pokręcił głową i zaraz potem zebrało mu się na wymioty.
 
 ### Eksploracja
 
-<!-- 1D306I -->
-
 *— W trakcie walki —*
 
 #### Dystrykt 4 - gdzieś w filii L Corp.
@@ -1358,8 +1298,6 @@ i Yuri zniknęła bez śladu…
 **Gregor:** …
 Gregor bez słowa dalej atakował Anomalię.
 Jakby rozcinając skórkę jabłka, mógł wydobyć ze środka Yuri całą i zdrową.
-
-<!-- 1D306I2 -->
 
 *— W trakcie walki —*
 
@@ -1378,8 +1316,6 @@ I wydało mi się, że mignęły mi różowe włosy, które tak spodobały się 
 *Miejsce: Dystrykt 4 - gdzieś w filii L Corp.*
 
 > Zeszliśmy pod ziemię. W tym miejscu, usłanym trupami, panował straszny smród i roiło się od robactwa. Co tu się wydarzyło? I czy zdołamy bez szwanku odbić Złotą Gałąź?
-
-<!-- 1D306A -->
 
 *— Po walce —*
 
