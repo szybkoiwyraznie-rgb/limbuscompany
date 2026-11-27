@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=40002501].desc": {
+      "pl": "Nakłada 1 Wzrostu Obrażeń na 2 sojuszników ustawionych za tą jednostką na panelu",
+      "kr_sha256": "f94e91b68b8aaa3bef5852e8f16574e675ee9d4c400c708e000f16ef443f3d19",
+      "en_sha256": "f4ae41b0842126ebda61b92bf2db8e06a4d11babd15ef3cbcf6cc472bc7f1303",
+      "origin": "ai"
+    },
+    "dataList[id=40002501].name": {
+      "pl": "Pszekaz Infomacji",
+      "kr_sha256": "46f5238a0d5a7ad786bb92e474235a7dbdfb61867314e9fe13d4a996ac0474cc",
+      "en_sha256": "ad647b2efb44cac082f77ad5c794051a7653f838cef75a9a40db8372a818d188",
+      "origin": "ai"
+    },
+    "dataList[id=40002502].desc": {
+      "pl": "Sojusznik z najniższą Poczytalnością: jeżeli w tej turze stracił Poczytalność, na koniec tury odzyskuje 10 Poczytalności",
+      "kr_sha256": "2f141079b8a89e27fbf467d2ac69d996a47eee7f613a4f26a8af03bc7117ab02",
+      "en_sha256": "2aee133dafdf788b042b405086e6851fa54c2eb4aa0ac09739cbdd2b270ba281",
+      "origin": "ai"
+    },
+    "dataList[id=40002502].name": {
+      "pl": "Neutwalizacja Infomacji",
+      "kr_sha256": "24a6f662c494184893eadd6949eaf249472ee2d53acf9c5241ac77e325fe4510",
+      "en_sha256": "4398ff28e1a146fb9777912119abb7cf7e5c79447b19bb1abab7b6310c7a382f",
+      "origin": "ai"
+    }
+  }
+}

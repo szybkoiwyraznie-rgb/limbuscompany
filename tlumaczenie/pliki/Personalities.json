@@ -1,0 +1,412 @@
+{
+  "entries": {
+    "dataList[id=10101].desc": {
+      "pl": "Pierwsza Tożsamość Yi Sanga",
+      "kr_sha256": "3f25a90bb41e1cc02a2b0361c617ca9cfebed03b98ffbcc40a4be846174b1d2f",
+      "en_sha256": "4a350711a4dad4e843f41c8cd6cf7290905e20cdae40a4cfae3f5f27b7aa8f31",
+      "origin": "ai"
+    },
+    "dataList[id=10101].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10101].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10101].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10102].desc": {
+      "pl": "Druga Tożsamość Yi Sanga",
+      "kr_sha256": "825b513de8e898f0834dc03e9896313774b4841b261265bd2eded78c3b452064",
+      "en_sha256": "7c04352d73b947ac4b535713f40be2fac35357ba56d0a887a82e202f39ed7843",
+      "origin": "ai"
+    },
+    "dataList[id=10102].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10102].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10102].title": {
+      "pl": "Południowe Stowarzyszenie Seven\nSekcja 6",
+      "kr_sha256": "21a06f1bcb8507ca4fbc2263a9e7cf12a650de5065475d3dd22a38eee451e71d",
+      "en_sha256": "86ff6fb873979802de6224fdb942980a300790376501b60786dd99263f8a6d03",
+      "origin": "ai"
+    },
+    "dataList[id=10103].desc": {
+      "pl": "Trzecia Tożsamość Yi Sanga",
+      "kr_sha256": "c0b5e34e00ba78bed8b1b0e74c9c2ccaede3e1527f5b21326a8c137f3cf13392",
+      "en_sha256": "ee6dac5a628502edbce52abdc6199ed982693b67ce671029ec58403806732d7c",
+      "origin": "ai"
+    },
+    "dataList[id=10103].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10103].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10103].title": {
+      "pl": "Ród Ostrza\nSalsu",
+      "kr_sha256": "08d1b99aab5ceff62d7a7df030487119c93faf8ba0d57a036d529425173020ce",
+      "en_sha256": "565a7e6db7bcdf742809293e2fae609e19c45992cfbc13e601d4eac8cda78007",
+      "origin": "ai"
+    },
+    "dataList[id=10104].desc": {
+      "pl": "Czwarta Tożsamość Yi Sanga",
+      "kr_sha256": "662d50db69895ba69713e389dccf61e25c45497bc960596f93dab9a4f2c72d63",
+      "en_sha256": "07c694c3e259b8efe280d3617b7e011edf612170ef9e30d780f976b33324bb23",
+      "origin": "ai"
+    },
+    "dataList[id=10104].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10104].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10104].title": {
+      "pl": "Rozkwitłe E.G.O::\nSpicebush",
+      "kr_sha256": "ef761fc5000d3700a01da1698fe86d4bb549ed4b1151a56b491b073f8cb4de46",
+      "en_sha256": "96556def38c1cb2473f9283ae12a9ced2d8618b0aaf81de419026f026508b35d",
+      "origin": "ai"
+    },
+    "dataList[id=10105].desc": {
+      "pl": "Piąta Tożsamość Yi Sanga",
+      "kr_sha256": "9151a9f7dcd8a6206a894eae94beb80b7e148a265f35016ef5101dcf198662e2",
+      "en_sha256": "47bb92a7be47efed4ea287059e219d17e31dee12a77e1ed7da796a3b7dc2ae05",
+      "origin": "ai"
+    },
+    "dataList[id=10105].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10105].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10105].title": {
+      "pl": "Biuro Trzonowca\nFixer",
+      "kr_sha256": "ed83b5353775369210912d43762450cee39857b33ac6c8857d3e612841c3ef9e",
+      "en_sha256": "065d8a177a9d6789cd58ca8c67a56bbcd6e7c2f50c53ffafe33b66dd36f0e155",
+      "origin": "ai"
+    },
+    "dataList[id=10106].desc": {
+      "pl": "Szósta Tożsamość Yi Sanga",
+      "kr_sha256": "36937a6c9240e52c7ead26b0d07c2b19432260a0b8b42ccc77bb48a202ec60a5",
+      "en_sha256": "985f5bf5c14319e1e3d56faec1963f381d10a2c68b98a096c7719016bfc3fc32",
+      "origin": "ai"
+    },
+    "dataList[id=10106].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10106].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10106].title": {
+      "pl": "W Corp. L3\nAgent Oczyszczania",
+      "kr_sha256": "7b03a4f185fbac59dda960683f6925c69b9a4b7ddf124c3b57353fab166c37a7",
+      "en_sha256": "230664d3b835508c6f5f47fe4137ff4f40e19b29c7821ce22b7fb9d564cd50bb",
+      "origin": "ai"
+    },
+    "dataList[id=10107].desc": {
+      "pl": "Siódma Tożsamość Yi Sanga",
+      "kr_sha256": "8569407da6280418810808b352019440421e8ef4acf4d4f74bb5f3893081c782",
+      "en_sha256": "ef101e9151de22ca32d9e9e856bd2a88fc58b3ea67491d6ad1f46e1c1ca47b15",
+      "origin": "ai"
+    },
+    "dataList[id=10107].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10107].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10107].title": {
+      "pl": "Pequod\nPierwszy Oficer",
+      "kr_sha256": "a4acca78328714d04d0c845a3fe5dccdb6b462b2cf6addd222ff96e2ebffd58c",
+      "en_sha256": "924a2357266ff0679cb74e689f6da37a9748acd1045072db6a7eb15acf6f7cad",
+      "origin": "ai"
+    },
+    "dataList[id=10108].desc": {
+      "pl": "Ósma Tożsamość Yi Sanga",
+      "kr_sha256": "516252ccccdc9f00b43f9f8f0ace738377ebfdad5b4dd7665b469ea2cbc43b1d",
+      "en_sha256": "a30d904ca7bd31521d3b94dca1dfde256a1976caf788143ab3e96f7a065a4d44",
+      "origin": "ai"
+    },
+    "dataList[id=10108].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10108].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10108].title": {
+      "pl": "Południowe Stowarzyszenie Dieci\nSekcja 4",
+      "kr_sha256": "834addd604e11f1e76c8a2dfd9a257200049bab5b2168dc7c57322dcb9e79699",
+      "en_sha256": "ca040aea0df862458bebc20b7106a52bb035dd2d3a8eae421d6f50461121c87d",
+      "origin": "ai"
+    },
+    "dataList[id=10109].desc": {
+      "pl": "Dziewiąta Tożsamość Yi Sanga",
+      "kr_sha256": "6ef8833646ec6bbcd1cad5fee421e3aa413cea6eb769c9f7cccceba6b47c0ef4",
+      "en_sha256": "22c0ad8dd788137712d4638509f6915a516921443307264da384b8f53f2a6474",
+      "origin": "ai"
+    },
+    "dataList[id=10109].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10109].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10109].title": {
+      "pl": "Pointilliści Serdecznego\nStudent",
+      "kr_sha256": "ba07103d9d5600b05fe5f729d065f38bc8ab461fe25bc9d0bc6beda29952476c",
+      "en_sha256": "a87e8ed1c4a6b1155b7d0f8816cce912184e281144cf57ea2b13a97b9793062c",
+      "origin": "ai"
+    },
+    "dataList[id=10110].desc": {
+      "pl": "Dziesiąta Tożsamość Yi Sanga",
+      "kr_sha256": "f3134e8491515e4ab2fec310315679cfa3fe719db609c850099260ef67dee95e",
+      "en_sha256": "1a80298728aefb74c2e53720427b769e7dc67444e23b40f3f60a4403e29487cc",
+      "origin": "ai"
+    },
+    "dataList[id=10110].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10110].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10110].title": {
+      "pl": "Lobotomy E.G.O::\nUroczysty Lament",
+      "kr_sha256": "c0eaf563d7a0ad5db706a24b5f91a0a6a10b16e618c094d1377a9fba9cb5f7f8",
+      "en_sha256": "d70d188bcb4218c4455c4934a26ada8be4b2a6ac86ca6a4477e8489c81a9d015",
+      "origin": "ai"
+    },
+    "dataList[id=10111].desc": {
+      "pl": "Jedenasta Tożsamość Yi Sanga",
+      "kr_sha256": "3d59662ad990a84f658327a8c201e09827a2abf6c93766ece0cc66b813c9bb50",
+      "en_sha256": "37dc3e8bb720e53b2124ab904918b46bd642972b29ba10e0701780ced4a103a3",
+      "origin": "ai"
+    },
+    "dataList[id=10111].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10111].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10111].title": {
+      "pl": "LCE E.G.O::\nLatarnia",
+      "kr_sha256": "14d010b34f47762e02200134e3a4a1d16baa051596240a92f92d39754bbd797f",
+      "en_sha256": "1a81cece33bc281aed6ad23a362436587d74d2d853e0b175a12ec69680998416",
+      "origin": "ai"
+    },
+    "dataList[id=10112].desc": {
+      "pl": "Dwunasta Tożsamość Yi Sanga",
+      "kr_sha256": "22a4af58e1e73d8ab3e71247d866729fb76d2da35eab1d9e14c1473a94884d53",
+      "en_sha256": "2e0e465ac749db93a3f05c58f7e4554b3ef7518c9f26897171ee8b7579a4182e",
+      "origin": "ai"
+    },
+    "dataList[id=10112].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10112].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10112].title": {
+      "pl": "Południowe Stowarzyszenie Liu\nSekcja 3",
+      "kr_sha256": "c30cff3071f8acd0bc81abfa14a57572dafefb2e93ec3089415e5432344e9234",
+      "en_sha256": "cb70f41ca65dbe8a640c4a51f0d462d367fb4123d547262ecc6bf12536a7b76d",
+      "origin": "ai"
+    },
+    "dataList[id=10113].desc": {
+      "pl": "Trzynasta Tożsamość Yi Sanga",
+      "kr_sha256": "095a4a94d5e0b46062ef3034fc3e01cf0c520f57557182bb19ccec1b5141a971",
+      "en_sha256": "dd8f8553d01ed0e5fc3672edd2f1fb3719aa257761ccdbe281b6572b0cd7e92a",
+      "origin": "ai"
+    },
+    "dataList[id=10113].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10113].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10113].title": {
+      "pl": "E.G.O Korp. N::\nMroczny Pocisk",
+      "kr_sha256": "e119a90277358cbab80c25014b7902765f97f4f7de2c54dcaf1643fabd36a5bd",
+      "en_sha256": "b239956ccfadc29efc8add4f0957fc646977e8a5539a8a1fb4863ebd1868f7be",
+      "origin": "ai"
+    },
+    "dataList[id=10114].desc": {
+      "pl": "Czternasta Tożsamość Yi Sanga",
+      "kr_sha256": "d0c63c568c0cf32a73b70caf34d9e0a7ec54738b775b177f8710f1c2877ae7ae",
+      "en_sha256": "261638d569005535a42d36835fd6f1b293e9cfa519c799e405bace699a8d62e6",
+      "origin": "ai"
+    },
+    "dataList[id=10114].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10114].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10114].title": {
+      "pl": "Adept Watahy Heishou -\nGałąź Wu",
+      "kr_sha256": "43654585c7ca47219fd3a95134fdebeb7e6acca311d68c6ddde6209ec35a7aad",
+      "en_sha256": "b40f3e32e5e5dd7e2a1d31cd93104a21cdcb76ba277d39cbf078492a27f74e80",
+      "origin": "ai"
+    },
+    "dataList[id=10115].desc": {
+      "pl": "Piętnasta Tożsamość Yi Sanga",
+      "kr_sha256": "7f4e7a4d28e75059a447adc1b52d39bb60fda69a72bf4325244403c22293f2ec",
+      "en_sha256": "8f109b58fd09cf88312c1e56405c352cd78c270618519910129a14bc8c7136c5",
+      "origin": "ai"
+    },
+    "dataList[id=10115].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10115].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10115].title": {
+      "pl": "Dom Pajęczyn:\nOjciec Wskazującego",
+      "kr_sha256": "1a67c4b70b0ad122448001cdda2cbf921812909b6e466f86b866aeabf7b6b14a",
+      "en_sha256": "56fabec8bc96d6c462b3b2499dc8926389f83f6db32186c099ad7b3f3dd26520",
+      "origin": "ai"
+    },
+    "dataList[id=10116].desc": {
+      "pl": "Szesnasta Tożsamość Yi Sanga",
+      "kr_sha256": "309b02cacc1af74f065bdeee96598c33f1f4272d9ed5f75e43661414042dece7",
+      "en_sha256": "e015344bf43183319c29bb90fb9bbdda0e1ae41426f93edbf7fd1b5b30a1e5e9",
+      "origin": "ai"
+    },
+    "dataList[id=10116].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10116].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10116].title": {
+      "pl": "LCE E.G.O::\nRozpruwacz Wymiarów",
+      "kr_sha256": "3089bf3333fc5d017b8b3a4b685e1d58151263424bb068e337bcd62aa64b8141",
+      "en_sha256": "61ef8afc07e9edeca8fc61e8de3230b657d158ed22683ac2db0f102c2c3f5ae5",
+      "origin": "ai"
+    },
+    "dataList[id=10117].desc": {
+      "pl": "Siedemnasta Tożsamość Yi Sanga",
+      "kr_sha256": "b966c84cf68c02760a73b3090915d1ea0b58a381cd6b7636c7e903089b00dbdd",
+      "en_sha256": "8bbfe136bf5489febec9ed868ccc50109eae88bdce2b3a2d9c35a0b7fabc1ad9",
+      "origin": "ai"
+    },
+    "dataList[id=10117].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10117].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=10117].title": {
+      "pl": "Haute Couture::\nLe Noir B3F Suszarnia",
+      "kr_sha256": "5edbcde81704980cc101cd6e677010bf06bd5885457a1483ad5a6a36f56b9a63",
+      "en_sha256": "dd1413cae0ca4465c56c600767058380035b5a1d2964ed99e16b0ee0e4987c64",
+      "origin": "ai"
+    }
+  }
+}

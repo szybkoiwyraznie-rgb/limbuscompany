@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=400025].desc": {
+      "pl": "Tożsamość Yi Sanga: ???",
+      "kr_sha256": "ecefaf4d43466d937ff7307992ed3aab3400891272006da7c14339db0c2683f0",
+      "en_sha256": "14b9e4912f6949f54db904b75aee6122474503879f34465a7b4def602cf3238a",
+      "origin": "ai"
+    },
+    "dataList[id=400025].name": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=400025].nameWithTitle": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=400025].title": {
+      "pl": "Przewodniczący Grupy Kurczaczków",
+      "kr_sha256": "80cb82cf4bda207deb5d099ec6bfcecaedc9ec566212f5241fb03010b324acf6",
+      "en_sha256": "f2514a7af6884d376c3ecd1fef498f9ebe0da3ceeccc7479115af3545135424d",
+      "origin": "ai"
+    }
+  }
+}
