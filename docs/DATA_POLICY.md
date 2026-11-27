@@ -8,7 +8,8 @@ Repozytorium jest **publiczne**. Zasady przejęte z WWM i SRW
 - Pliki binarne gry: bundle Unity, `*.assets`, `*.resS`, pliki wykonywalne i
   biblioteki, archiwa, czcionki gry, zrzuty pamięci.
 - ZIP-y od właściciela (`LCB_DANE_*.zip`) w całości — trzymamy je w
-  ignorowanym `google_drive/` lub `local/`.
+  ignorowanym `google_drive/` (D-12: `local/` jest już commitowane i nie jest
+  miejscem na surowe dane).
 - Dane konta, zapisy, logi gry, prywatne zrzuty ekranu, identyfikatory i linki
   do prywatnych plików Dysku, pełne ścieżki z nazwą użytkownika Windows.
 - Teksty innych fanowskich tłumaczeń ([PRIOR_ART.md](PRIOR_ART.md)) — także
@@ -36,6 +37,9 @@ diff przeglądaj samodzielnie.
   liczby), np. `indeks_fabuly.json`, `kolejnosc_fabuly.json`.
 - **`tlumaczenie/`, `zwrotki/` (planowane):** przyjęte przekłady i rejestr
   zwrotek tłumacza z raportami importu.
+- **`local/` (D-12):** artefakty pracy agentów — rendery paczek, wyciągi AI
+  (`parsed`/`work`/`krmatch`/`fresh`), `merged`/`filled`, skrypty builderów,
+  `krmap.json` — commitowane w checkpointach. `/tmp` tylko na śmieci turyczne.
 - **`assets/fonts/` (planowane):** wyłącznie czcionki na licencji pozwalającej
   na redystrybucję (np. SIL OFL) razem z plikiem licencji.
 

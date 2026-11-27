@@ -1,5 +1,4 @@
-# Prywatne dane, kopie plików gry i lokalne wyniki (w dowolnym podkatalogu).
-local/
+# Kanał Dysku Google właściciela (surowe ZIP-y ze zbieracza — patrz D-12).
 google_drive/
 build/
 dist/

@@ -62,11 +62,18 @@ własnych tłumaczeń** ([FEASIBILITY.md](docs/FEASIBILITY.md)).
   patchujemy bundli Unity, plików wykonywalnych ani pamięci, nie używamy
   BepInEx/MelonLoader i nie obchodzimy zabezpieczeń. Jeśli coś da się
   przetłumaczyć tylko inną drogą — zapisz to jako ograniczenie, nie obchodź.
-- **Dane gry:** do Git trafiają teksty, wyciągi, indeksy, powiązania i
-  dokumentacja; **binarne pliki gry, jej czcionki, archiwa i zrzuty zostają poza
-  Git** ([DATA_POLICY.md](docs/DATA_POLICY.md)). Surowe kopie ze zbieracza żyją
-  w ignorowanym `local/` / `google_drive/`. Budowanie paczek i Czytanek ma
-  działać **wyłącznie z repozytorium** — nigdy z `local/` ani z Dysku.
+- **Wszystko poza binariami gry — w Gicie (D-12, właściciel 2026-11-25).**
+  Jedyne artefakty, które nie mogą trafić do Git, to binarne pliki gry (bundle
+  Unity, `*.assets`, wykonywalne, czcionki gry, archiwa, zapisy, zrzuty) oraz
+  prywatne dane konta ([DATA_POLICY.md](docs/DATA_POLICY.md)). Każdy inny plik
+  pracy — rendery paczek, wyciągi AI (`parsed`/`work`/`krmatch`/`fresh`),
+  `merged`/`filled`, skrypty builderów, `krmap`, indeksy, teksty i bazy — żyje
+  w commitowanym drzewie (np. `local/`, `paczki_ai/`, `tlumaczenie/`) i trafia
+  do checkpointów. **Zakaz trzymania pracy w `/tmp`** — piaskownica ginie razem
+  z `/tmp`, a ignorowane katalogi nie przechodzą przez odtworzenie sesji;
+  oba mechanizmy już bezpowrotnie skasowały artefakty. Surowe ZIP-y właściciela
+  żyją w ignorowanym `google_drive/`. Budowanie paczek i Czytanek ma działać
+  **wyłącznie z repozytorium** — nigdy z `/tmp` ani z Dysku.
 - **Zbieracz zamiast ręcznych oględzin** ([COLLECTOR.md](docs/COLLECTOR.md)):
   właściciel uruchamia `URUCHOM.bat`, ZIP wraca przez Dysk, agent sprawdza go
   `tools/validate_collector_return.py` i bada prywatnie. Nie proś o cały katalog

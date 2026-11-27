@@ -141,8 +141,6 @@ class RepositoryConfigurationTests(unittest.TestCase):
 
     def test_gitignore_blocks_typical_private_files_but_allows_text_sources(self):
         ignored = {
-            "local/source.jsonl",
-            "nested/local/source.txt",
             "google_drive/LCB_DANE.zip",
             "artifacts/LCB_ZBIERZ_DANE.zip",
             "LimbusCompany_Data/Lang/config.json",
@@ -160,6 +158,9 @@ class RepositoryConfigurationTests(unittest.TestCase):
             "tests/fixtures/example.txt",
             "collector/URUCHOM.bat",
             ".env.example",
+            # D-12 (2026-11-25): artefakty pracy agentów w `local/` są commitowane.
+            "local/source.jsonl",
+            "nested/local/source.txt",
         }
         found = self.ignored(sorted(ignored | allowed))
         self.assertEqual(found, ignored)

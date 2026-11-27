@@ -201,6 +201,23 @@ Polecenie właściciela (przeniesione z `szybkoiwyraznie-rgb/wherewindsmeet`):
   (`paczki_ai/MANIFEST.json`, `docs/PLAN_TLUMACZENIA_AI.md`) agenty czekają na
   wyraźny sygnał właściciela przed rozpoczęciem tłumaczenia.
 
+### D-12 · 2026-11-25 · Wszystkie artefakty pracy w Gicie; poza Gitem tylko binaria gry
+
+Decyzja właściciela po utracie artefaktów paczki P59 (`/tmp` znika razem z
+piaskownicą, a ignorowane `local/` nie przechodzi przez odtworzenie sesji —
+oba mechanizmy skasowały pliki pracy):
+
+- **Jedyne pliki, których nie wolno trzymać w Git, to binarne pliki gry**
+  (bundle Unity, `*.assets`, pliki wykonywalne, czcionki gry, archiwa, zapisy,
+  zrzuty) oraz dane prywatne — jak w D-06 i [DATA_POLICY.md](DATA_POLICY.md).
+- **Wszystko inne** — rendery paczek, wyciągi AI (`parsed`/`work`/`krmatch`/
+  `fresh`), pliki `merged`/`filled`, skrypty builderów, `krmap`, indeksy,
+  teksty, bazy — trafia do commitowanego drzewa (katalog `local/` przestaje
+  być ignorowany) i jest zapisywana w checkpointach.
+- **Zakaz pracy w `/tmp`** dla czegokolwiek, co ma przetrwać turę; narzędzia
+  i pipeline AI zapisują pośrednie artefakty wyłącznie pod ścieżkami w repo.
+- Surowe ZIP-y od właściciela nadal żyją w ignorowanym `google_drive/`.
+
 ## Otwarte (decyduje właściciel; agent przygotowuje opcje)
 
 Brak otwartych decyzji — wszystkie `O-01` … `O-07` zostały rozstrzygnięte.
