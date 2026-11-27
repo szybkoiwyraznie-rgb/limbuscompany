@@ -615,3 +615,8 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   wersję „polską” w nocie, `tools/build_profiles.py` — dopisek o fallbacku.
   Snapshot `local/cz_snapshot/` i `local/lang_pl_v3/` regenerowalne,
   zignorowane w `.gitignore` (test polityki zaktualizowany razem, 65/65).
+- **Dostawa na Dysk Google (folder kanału):** paczka produkcyjna
+  `LCB_PL_Polski_26917622_v3.zip` (`1C8LtGyPaKaJ_BdK5bJ7CkAGZWDmrJtGt`,
+  `7 574 690` B) oraz Czytanki PL `LCB_Czytanki_PL_2026-11-27.zip`
+  (`1RVUhsYgyv2Hs6hwqliS8JwAZOXzusKzs`, `2 115 411` B, 61 plików MD:
+  fabula_PL + plik_ID_PL + plik_EGO_PL).
