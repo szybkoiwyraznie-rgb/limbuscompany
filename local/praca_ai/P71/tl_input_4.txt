@@ -1,0 +1,131 @@
+679||(ulepszenie 1) — nazwa] 피의 환희|Ecstasy of Blood
+680||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n[StartBattle] 적 중 [Laceration]을 가진 적이 있다면, 모든 적의 [Laceration]을 발동시킴. [Laceration] 횟수 2 감소\n[WhenUse] 전투 시작 시 효과가 발동하지 않았다면, [Laceration] 30 얻음.\n[WinDuel] [BloodDinner]을 최대 40 소모하여, 소모한 [BloodDinner] 10당, [BloodArmor] 1 얻고 피해량 +25% (최대 100%)\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻고 발동시킴. [Laceration] 횟수 2 감소\n[EndSkill] 이번 턴 종료|Can Clash with this Skill regardless of Speed\n[StartBattle] If there are enemies with [Laceration], activate [Laceration] on all enemies. All enemies lose 2 [Laceration] Count\n[WhenUse] If this effect did not activate at Combat Start, gain 30 [Laceration].\n[WinDuel] Consume up to 40 [BloodDinner]: for every 10 [BloodDinner] consumed, gain 1 [BloodArmor] and deal +25% damage (max 100%)\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count\n[EndSkill] Ends this turn
+682||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count
+686||(ulepszenie 1) — nazwa] 돈키호테류 경혈 4식 - 도려내기|Don Quixote Hardblood Arts 4 - Sundering
+687||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WinDuel] [BloodArmor] 단계에 따라, 이 스킬의 피해량 +20% (최대 60%)\n[DefeatDuel] [BloodArmor] 4 소모하여, 보호막 체력 20 얻음|[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WinDuel] With this Skill, deal +20% damage with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to gain 20 Shield HP
+688||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+690||(ulepszenie 1) — nazwa] 돈키호테류 경혈11식 - 후벼파기|Don Quixote Hardblood Arts 11 - Impaling
+691||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 3당, 기본 위력 +1 (최대 3)\n[WinDuel] [BloodArmor] 단계에 따라, 이 스킬의 피해량 +20% (최대 60%)\n[DefeatDuel] [BloodArmor] 4 소모하여, 보호막 체력 20 얻음|[WhenUse] Base Power +1 for every 3 [Laceration] on the target (max 3)\n[WinDuel] With this Skill, deal +20% damage with every Stage of [BloodArmor] (max 60%)\n[DefeatDuel] Consume 4 [BloodArmor] to gain 20 Shield HP
+694||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration]을 횟수만큼 발동시킴. 대상의 [Laceration] 횟수를 1까지 소모시킴|[OnSucceedAttack] Activate [Laceration] on the target equal to its Count. Use up the target's [Laceration] Count down to 1
+695||(ulepszenie 1) — nazwa] 돈키호테류 경혈 2식 - 경혈|Don Quixote Hardblood Arts 2 - Hardblood
+696||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n[StartBattle] [BloodDinner]을 200 소모하여, 500만큼 보호막 체력 얻고 [BloodArmor] 5, [SwirlingBlood] 1 얻음\n- [BloodDinner]이 부족할 경우, [Laceration] 50을 얻고 발동시킴. [Laceration] 횟수 2 감소. 500만큼 보호막 체력을 얻고 [BloodArmor] 5, [SwirlingBlood] 1 얻음 (이 피해로 체력이 1미만이 되지 않음)\n[WinDuel] 200만큼 보호막 체력을 얻음\n[DefeatDuel] 이 스킬로 얻은 보호막 효과가 있는 동안 [Vulnerable]을 3 얻음\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 이번 턴 종료|Can Clash with this Skill regardless of Speed\n[StartBattle] Consume 200 [BloodDinner], gain 500 Shield HP, 5 [BloodArmor], and 1 [SwirlingBlood]\n- If this unit doesn't have enough [BloodDinner], gain 50 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count. Gain 500 Shield HP and 1 [SwirlingBlood] (this damage does not reduce this unit's HP to 1)\n[WinDuel] Gain 200 Shield HP\n[DefeatDuel] Gain 3 [Vulnerable] as long as the Shield gained due to this Skill is active\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target\n[EndSkill] Ends this turn
+701||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count
+702||(ulepszenie 1) — nazwa] 돈키호테 아류 산초 4식 - 추적|Variant Don Quixote Style: Sancho Arts 4 - Track
+703||(ulepszenie 1) — opis] [Laceration]이 가장 많은 대상 우선 공격\n[BeforeAttack] [Laceration]이 가장 많은 대상이면, 공격 가중치 +2, 합 위력 +3\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 15당 [BloodArmor] 1 얻음. 코인 위력 +1 (최대 2)\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 10 얻고 발동시킴. [Laceration] 횟수 1 감소\n[EndSkill] 이 스킬로 입히는 피해량만큼 [BloodDinner] 증가|Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], gain Atk Weight +2 and Clash Power +3\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [BloodArmor] and Coin Power +1 for every 15 [BloodDinner] consumed (max 2)\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration], and activate [Laceration] immediately. Lose 2 [Laceration] Count\n[EndSkill] Increase [BloodDinner] equal to the damage this Skill dealt
+705||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여\n- 이 스킬에서 [BloodDinner]을 30 소모했다면, [Binding] 2 추가 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn\n- If this Skill consumed 30 [BloodDinner], inflict 2 additional [Binding]
+706||(ulepszenie 1) — nazwa] 돈키호테 아류 산초 3식 - 기습|Variant Don Quixote Style: Sancho Arts 3 - Ambush
+707||(ulepszenie 1) — opis] [Laceration]이 가장 많은 대상 우선 공격\n[BeforeAttack] [Laceration]이 가장 많은 대상이면, 공격 가중치 +2, 합 위력 +3\n[WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10당 [BloodArmor] 1 얻음. 기본 위력 +1 (최대 5)\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 10 얻고 발동시킴. [Laceration] 횟수 1 감소\n[EndSkill] 이 스킬로 입히는 피해량만큼 [BloodDinner] 증가|Prioritizes targets with the most [Laceration]\n[BeforeAttack] If the target is the one with the most [Laceration], gain Atk Weight +2 and Clash Power +3\n[WhenUse] Consume up to 50 [BloodDinner]: gain 1 [BloodArmor] and Base Power +1 for every 10 [BloodDinner] consumed (max 5)\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration], and activate [Laceration] immediately. Lose 1 [Laceration] Count\n[EndSkill] Increase [BloodDinner] equal to the damage this Skill dealt
+710||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여\n- 이 스킬에서 [BloodDinner]을 50 소모했다면, [Paralysis] 2 추가 부여|[OnSucceedAttack] Inflict 1 [Paralysis] next turn\n- If this Skill consumed 50 [BloodDinner], inflict 2 additional [Paralysis]
+711||(ulepszenie 1) — nazwa] 돈키호테 아류 산초 2식 - 라 샹그레|Variant Don Quixote Style: Sancho Arts 2 - La Sangre
+712||(ulepszenie 1) — opis] 속도에 상관없이 이 스킬과 합을 할 수 있음\n[WhenUse] [BloodDinner]을 50 소모하여, 대상과 자신에게 [Paralysis] 1 부여\n[WhenUse] [BloodDinner]을 100 소모하여, 합 위력 +5\n- [BloodDinner]이 부족할 경우, 자신의 체력을 100 소모하여 합 위력 +5\n[EndSkill] 이번 턴 종료|Can Clash with this Skill regardless of Speed\n[WhenUse] Consume 50 [BloodDinner] to inflict 1 [Paralysis] against the target and self\n[WhenUse] Consume 100 [BloodDinner] to gain Clash Power +5\n- If there isn't enough [BloodDinner], consume 100 HP from this unit to gain Clash Power +5\n[EndSkill] Ends this turn
+715||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttackHead] 피해량만큼 체력 회복|[OnSucceedAttackHead] Heal by damage dealt
+716||(ulepszenie 1) — nazwa] 라 어벤투라 아 테르미나도|La Aventura Ha Terminado
+717||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 (45 - 현재 정신력)만큼 소모하여 정신력을 45까지 회복\n- [BloodDinner]이 부족할 경우, 자신의 체력을 (45 - 현재 정신력)만큼 소모하여 정신력을 45까지 회복 (이 피해로 체력이 1미만이 되지 않음)\n- 남은 [BloodDinner]만큼 보호막 체력을 얻음 (최대 100)\n[WinDuel] 대상에게 [Laceration] 10 부여\n[DefeatDuel] [BloodDinner] 100 소모\n[EndSkill] 피해량만큼 [BloodDinner] 증가|[WhenUse] Consume (45 - current SP) [BloodDinner] to heal up to 45 SP\n- If there isn't enough [BloodDinner], consume up to (45 - current SP) HP to heal up to 45 SP (this damage does not lower this unit's HP below 1)\n- Gain Shield HP equal to the remaining [BloodDinner] (max 100)\n[WinDuel] Inflict 10 [Laceration]\n[DefeatDuel] Consume 100 [BloodDinner]\n[EndSkill] Increase [BloodDinner] equal to the damage dealt
+719||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]당, 피해량 +10% (최대 200%)|[OnSucceedAttack] Deal +10% damage for every [Laceration] on the target (max 200%)
+720||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [BloodDinner]당 피해량 +10% (최대 100%)|[OnSucceedAttack] Deal +10% damage for every [BloodDinner] (max 100%)
+722||(ulepszenie 1) — nazwa] 키기기이긱|Keeehhhhnnhhh
+723||(ulepszenie 1) — opis] [WhenUse] [DefenseUp] 3을 얻음\n[DefeatDuel] [DefenseUp] 3을 얻음|[WhenUse] Gain 3 [DefenseUp]\n[DefeatDuel] Gain 3 [DefenseUp]
+724||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseUp] 2를 얻음|[OnSucceedAttack] Gain 2 [DefenseUp] next turn
+726||(ulepszenie 1) — nazwa] 키이 이익|Knnhgh nhhnnh
+727||(ulepszenie 1) — opis] [WinDuel] 다음 턴에 [Binding] 1 부여\n[WhenUse] 자신의 [DefenseUp] 4 당, 기본 위력 +1 (최대 2)\n[WhenUse] [DefenseUp] 3을 얻음|[WinDuel] Inflict 1 [Binding] next turn\n[WhenUse] Base Power +1 for every 4 [DefenseUp] on self (max 2)\n[WhenUse] Gain 3 [DefenseUp]
+728||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseUp] 2 얻음|[OnSucceedAttack] Gain 2 [DefenseUp] next turn
+731||(ulepszenie 1) — nazwa] 키이익|Knngghh
+732||(ulepszenie 1) — opis] [StartBattle] 자신을 포함한 체력 비율이 가장 적은 아군 1명 [DefenseUp] 3 부여\n[WhenUse] 자신의 [DefenseUp] 5 당 기본 위력 +1 (최대 4)|[StartBattle] Apply 3 [DefenseUp] to 1 ally, including this unit, with the least HP percentage\n[WhenUse] Base Power +1 for every 5 [DefenseUp] on self (max 4)
+733||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseUp]만큼 공격 레벨 증가 얻음|[OnSucceedAttack] Gain Offense Level Up equal to [DefenseUp] next turn
+734||(ulepszenie 1) — nazwa] 키긱|Knnh
+735||(ulepszenie 1) — opis] [StartBattle] (자신의 [DefenseUp] X 2)만큼 보호막을 얻음 (최대 20, 턴 당 2회)|[StartBattle] Gain 2 x ([DefenseUp] on self) Shield HP (max 20, 2 times per turn)
+736||(ulepszenie 1) — nazwa] 가시 채찍|Spiked Whip
+737||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 6 이상이면, 합 위력 +1|[WhenUse] If target has 6+ [Burst], Clash Power +1
+739||(ulepszenie 1) — nazwa] 채찍 휘두르기|Whip Crack
+740||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 2 증가|[WhenUse] If target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count
+741||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Burst] 횟수가 5 미만이면, [Burst] 횟수 2 증가\n- 5 이상이면, 대신하여 [Burst] 2 부여|[OnSucceedAttack] If target has less than 5 [Burst] Count, inflict +2 [Burst] Count\n- At 5+ [Burst] Count, inflict 2 [Burst] instead
+743||(ulepszenie 1) — nazwa] 옭아매는 가시관|Strangling Crown of Thorns
+744||(ulepszenie 1) — opis] 정신력이 가장 낮은 대상 우선 공격\n[WhenUse] 대상의 정신력이 0 이하라면, 합 위력 +3\n[WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 3)|Prioritizes targets with the lowest SP\n[WhenUse] If target has 0- SP, Clash Power +3\n[WhenUse] Coin Power +1 for every 4 [Burst] on the target (max 3)
+745||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 10 피해\n- 대상의 정신력이 0 이하라면, 대신하여 정신력 20 피해|[OnSucceedAttack] Deal 10 SP damage\n- If target has 0- SP, deal 20 SP damage instead
+746||(ulepszenie 1) — nazwa] 채찍 거두기|Withdraw Whip
+747||(ulepszenie 1) — opis] [ThornNoose]를 가진 대상 우선 공격\n[ThornNoose]가 없는 대상일 경우, 피해량이 50% 감소|Prioritizes targets with [ThornNoose]\nIf the target does not have [ThornNoose], deal -50% damage
+748||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [ThornNoose]가 있으면, [Burst] 2 부여\n- 대상의 [Burst]이 10이상이면, 대신하여 [Burst] 횟수 2 증가|[OnSucceedAttack] If the target has [ThornNoose], inflict 2 [Burst]\n- If the target has 10+ [Burst], inflict +2 [Burst] Count instead
+752||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [ThornNoose]가 있으면, 피해량 +50%|[OnSucceedAttack] If target has [ThornNoose], deal +50% damage
+754||(ulepszenie 1) — opis] [WhenUse] 대상의 속도보다 자신의 속도가 빠르다면, 합 위력 +5\n[WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] [ThornNoose]를 가지고 있는 대상만큼 기본 위력이 증가|[WhenUse] If this unit's Speed is faster than the target's, Clash Power +5\n[WhenUse] Coin Power +1 for every 4 [Burst] on the target (max 2)\n[WhenUse] Gain Base Power by the number of targets with [ThornNoose]
+756||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Burst] 4, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 4 [Burst] and +2 [Burst] Count
+757||(ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] 대상이 흐트러짐 상태이거나 [ThornNoose]가 있으면, 피해량 +30%|[OnSucceedAttack] If target is Staggered or has [ThornNoose], deal +30% damage
+758||(ulepszenie 1) — moneta 4, efekt 4 — opis] [EnemyKill] (대상의 [Burst] 횟수 * 2)만큼 모든 적에게 [Burst] 부여 (최대 10)|[EnemyKill] Inflict ([Burst] Count on the target x 2) [Burst] against all enemies (max 10)
+759||(ulepszenie 1) — nazwa] 채찍 두르기|Whip Wreath
+760||(ulepszenie 1) — opis] [StartBattle] 현재 체력의 ([ThornNoose]를 가진 적 수)%만큼 보호막을 얻음|[StartBattle] Gain (number of enemies with [ThornNoose])% of HP as Shield
+761||(ulepszenie 1) — nazwa] 부여잡는 올가미|Snaring Lasso
+762||(ulepszenie 1) — opis] [StartBattle] [ThornNoose]를 가진 적이 3명 이하라면, [ThornNoose] 1 부여|[StartBattle] If there are 3- enemies with [ThornNoose], inflict 1 [ThornNoose]
+765||(ulepszenie 1) — nazwa] 가시|Thorns
+766||(ulepszenie 1) — opis] [CantChangeTarget]\n가시 올가미를 가진 대상 우선 공격|[CantChangeTarget]\nPrioritizes targets with Barbed Lasso
+767||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 4 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 4 [Burst] and +2 [Burst] Count
+768||(ulepszenie 1) — nazwa] 고귀하게...|Gracefully...
+769||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1|[WhenUse] If target has 6+ [Laceration], Coin Power +1
+772||(ulepszenie 1) — nazwa] 끝나지 않는 축제|The Infinite Parade
+773||(ulepszenie 1) — opis] [CantDuel]\n대상이 수비 스킬을 사용했으면 피해량 -100%\n[WhenUse] 다음 턴에 곤돌라 1개를 생성|[CantDuel]\nIf the target used a Defense Skill, deal -100% damage\n[WhenUse] Generate 1 Gondola next turn
+774||(ulepszenie 1) — nazwa] 영원한 축제|The Eternal Festival
+775||(ulepszenie 1) — opis] [CantDuel]\n대상이 수비 스킬을 사용했으면 피해량 -100%\n[WhenUse] 다음 턴에 곤돌라 4개를 생성|[CantDuel]\nIf the target used a Defense Skill, deal -100% damage\n[WhenUse] Generate 4 Gondola next turn
+776||(ulepszenie 1) — nazwa] 내보내주세요!!! 내보내주세요!!!|LETMEOUT!!!LETMEOUT!!!
+777||(ulepszenie 1) — opis] 다음 턴에 폭발하는 스킬을 사용함.|Uses a self-detonating Skill next turn.
+778||(ulepszenie 1) — nazwa] 터진다!! 터진다!!!!|IT'S ABOUT TO BLOW!!!!!
+779||(ulepszenie 1) — opis] [CantDuel]\n[StartBattle] 취약 3 얻음|[CantDuel]\n[StartBattle] Gain 3 Fragile
+780||(ulepszenie 1) — moneta 1, efekt 1 — opis] [EndCoin] 대상에게 10의 색욕 피해를 주고 제거됨.|[EndCoin] Deal 10 Lust damage against the target, then expires
+781||(ulepszenie 1) — nazwa] 팡파레!|The Fanfare!
+782||(ulepszenie 1) — opis] [CantDuel]|[CantDuel]
+783||(ulepszenie 1) — moneta 1, efekt 1 — opis] [EndCoin] 대상에게 10의 색욕 피해를 주고 사망함.|[EndCoin] Deal 10 Lust damage against the target, then dies.
+784||(ulepszenie 1) — nazwa] 타는 갈증|Burning Thirst
+785||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 5당 기본 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]을 최대 30 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻음\n[DefeatDuel] 정신력 3 감소|[WhenUse] Base Power +1 for every 5 [Laceration] on the target (max 3)\n[WhenUse] Consume up to 30 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed\n[DefeatDuel] Lose 3 SP
+788||(ulepszenie 1) — nazwa] 꿰뚫려라|Be Impaled
+789||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 40 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 3 회복\n\n[DefeatDuel] 정신력 3 감소\n[DefeatDuel] [RegainedStrength] 3 소모. 다음 턴에 [DefenseDown] 3 얻음|[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP\n[DefeatDuel] Consume 3 [RegainedStrength]. Gain 3 [DefenseDown] next turn
+790||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 최대 체력의 20%만큼 색욕 피해를 줌|[OnSucceedAttack] Deal Lust damage equal to 20% of the target's max HP
+792||(ulepszenie 1) — nazwa] 돈키호테류 경혈 2식 - 말뚝|Don Quixote Hardblood Arts 2 - Stake
+793||(ulepszenie 1) — opis] [Laceration]이 가장 많이 부여된 대상 공격\n[WhenUse] 대상의 [Laceration] 5당 코인 위력 +1 (최대 2)|Attacks the target with the most [Laceration]\n[WhenUse] Coin Power +1 for every 5 [Laceration] on the target (max 2)
+798||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] (대상의 [Laceration] 위력 X 횟수)만큼 색욕 피해를 줌|[OnSucceedAttack] Deal Lust damage equal to ([Laceration] Potency x Count)
+799||(ulepszenie 1) — nazwa] 경혈식 쐐기|Hardblood Wedge
+800||(ulepszenie 1) — opis] [StartBattle] 자신의 [RegainedStrength] 3당 가중치 +1 (최대 2)\n[EndSkill] [RegainedStrength] 3 소모|[StartBattle] Gain Atk Weight +1 for every 3 [RegainedStrength] on self (max 2)\n[EndSkill] Consume 3 [RegainedStrength]
+803||(ulepszenie 1) — moneta 1, efekt 3 — opis] [WinDuelAttack] [Burst] 3 부여|[WinDuelAttack] Inflict 3 [Burst]
+804||(ulepszenie 1) — moneta 1, efekt 4 — opis] [DefeatDuelAttack] [RegainedStrength] 1 소모|[DefeatDuelAttack] Consume 1 [RegainedStrength]
+810||(ulepszenie 1) — nazwa] 피의 욕망|Desire for Blood
+811||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 40 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 5 회복|[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed
+820||(ulepszenie 1) — nazwa] 혈찬의 시간|Moment of Bloodfeast
+821||(ulepszenie 1) — opis] [CantIdentify]\n[WhenUse] [BloodDinner]을 최대 300 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 3 회복\n[WhenUse] [BloodDinner]을 소모했으면 정신력 30 회복|[CantIdentify]\n[WhenUse] Consume up to 300 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit consumed [BloodDinner], heal 30 SP
+824||(ulepszenie 1) — opis] 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음.\n[WhenUse] [BloodDinner]을 최대 100 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 15 회복\n[WhenUse] 자신의 [BloodDinner_Accumulation] 수치 30당 합 위력 +1 (최대 15)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음.\n[EndSkill] 증가한 합 위력만큼 이번 턴과 다음 턴에 [AttackDown], [DefenseDown]를 얻음. (최대 15)|Cannot be Staggered until he uses this Skill.\n[WhenUse] Consume up to 100 [BloodDinner]: gain 1 [RegainedStrength] and heal 15 SP for every 10 [BloodDinner] consumed\n[WhenUse] Clash Power +1 for every [BloodDinner_Accumulation] by this unit (max 15)\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target.\n[EndSkill] For this turn and next turn, gain [AttackDown] and [DefenseDown] equal to the Clash Power gained with this Skill. (max 15)
+827||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [RegainedStrength] 2 소모|[OnSucceedAttack] Consume 2 [RegainedStrength]
+828||(ulepszenie 1) — nazwa] 돈키호테류 경혈 14식 망토|Don Quixote Hardblood Arts 14: Mantle
+829||(ulepszenie 1) — opis] [DuelGuard]\n[WinDuel] 대상에게 [Laceration] 4, [Burst] 4 부여\n[DefeatDuel] [RegainedStrength] 2 소모|[DuelGuard]\n[WinDuel] Inflict 4 [Laceration] and [Burst]\n[DefeatDuel] Consume 2 [RegainedStrength]
+831||(ulepszenie 1) — nazwa] 약하디 약하구나|Frail, So Frail
+832||(ulepszenie 1) — opis] [DuelCounter]\n[RegainedStrength] 10당 기본 위력 +1\n대상의 [Laceration] 5당 코인 위력 +1 (최대 2)\n[DefeatDuel] 정신력 3 감소|[DuelCounter]\nBase Power +1 for every 10 [RegainedStrength]\nCoin Power +1 for every 5 [Laceration] on the target (max 2)\n[DefeatDuel] Lose 3 SP
+835||(ulepszenie 1) — nazwa] 블러디 메리 고 라운드|Bloody-Merry-Go-Round
+836||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 다음 턴에 굳어진 꿈을 생성함|[CantDuel]\n[WhenUse] Generate Coagulated Dream next turn
+841||(ulepszenie 1) — nazwa] 꿰어져라|Be Impaled
+842||(ulepszenie 1) — opis] [DefeatDuel] 정신력 3 감소|[DefeatDuel] Lose 3 SP
+844||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 상태가 되고, 다음 턴에 [Penetration] 상태가 됨|[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] next turn
+845||(ulepszenie 1) — moneta 2, efekt 3 — opis] [EndCoin] 대상의 [Laceration] 위력 25 감소. 해당 수치만큼 [Laceration]을 얻고, [BloodDinner] 증가|[EndCoin] The target loses 25 [Laceration] Potency. Gain [Laceration] and increase [BloodDinner] equal to that value
+846||(ulepszenie 1) — nazwa] 돈키호테류 경혈 오의 - 구|Ascendant Don Quixote Hardblood Arts - The Sphere
+847||(ulepszenie 1) — opis] 이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음.\n[BloodDinner_Common_Accumulation]만큼 피해량이 증가함.(최대 300%)\n[WhenUse] 정신력 30 회복\n[WhenUse] [RegainedStrength] 10당 합 위력 +1\n[EndSkill] [RegainedStrength] 모두 소모. 이번 턴과 다음 턴에 [Vulnerable] 5 얻음. 다음 턴에 [Binding] 2 얻음.|Cannot be Staggered until he uses this Skill.\nDeal more damage equal to [BloodDinner_Common_Accumulation]. (max 300%)\n[WhenUse] Heal 30 SP\n[WhenUse] Clash Power +1 for every 10 [RegainedStrength]\n[EndSkill] Consume all [RegainedStrength]. Gain 5 [Vulnerable] this turn and next turn. Gain 2 [Binding] next turn.
+850||(ulepszenie 1) — nazwa] 키익|Ksssh
+851||(ulepszenie 1) — opis] [WhenUse] [DuelDeclaration_Camille] 부여\n[WhenUse] 자신의 [Breath] 5 얻음\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count
+852||(ulepszenie 1) — nazwa] 키이이익|Hnnnhhhhhh
+853||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 2 얻음|[WhenUse] Gain 2 [Breath]
+855||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 속도가 7 이상이면, [Burst] 3 부여|[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]
+856||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 3 얻음|[OnSucceedAttack] Gain 3 [Breath]
+858||(ulepszenie 1) — nazwa] 키이|Kihh
+859||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 7 이상이면, 코인 위력 +2\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[WhenUse] At 7+ [Breath], Coin Power +2\n[WinDuel] Gain +2 [Breath] Count
+861||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 속도가 7 이상이면, [Burst] 횟수 3 증가|[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] Count
+862||(ulepszenie 1) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] 크리티컬 피해량 +50%|[CriticalOnSucceedAttack] +50% Damage on Critical Hit
+864||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 공격자보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 3)|[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)
+865||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 4 증가|[OnSucceedAttack] Gain +4 [Breath] Count
+866||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 속도가 7 이상이면, [Burst] 3 부여, [Burst] 횟수 1 증가|[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count
+867||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 5 얻음|[OnSucceedAttack] Gain 5 [Breath]
+871||(ulepszenie 1) — moneta 4, efekt 1 — opis] [CriticalOnSucceedAttack] 크리티컬 피해량 +100%|[CriticalOnSucceedAttack] +100% Damage on Critical Hit
+872||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]당 피해량 +5% (최대 50%)|[OnSucceedAttack] Deal +5% damage for every [Burst] on the target (Max 50%)
+874||(ulepszenie 1) — opis] [WinDuel] 합 횟수에 비례하여 피해량이 증가 (합 횟수 1당 +10%. 최대 50%)\n[WinDuel] 다음 턴에 [Agility] 2 얻음\n[DefeatDuel] 다음 턴에 [Binding] 2 얻음|[WinDuel] Deal more damage based on number of Clashes (+10% damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn
+875||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+876||(ulepszenie 1) — nazwa] 키기기긱|Knhhh
+877||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Agility] 1 얻음|[OnSucceedEvade] Gain 1 [Agility] next turn
+878||(ulepszenie 1) — nazwa] 돈키호테류 경혈 오의 - 라 샹그레|Ascendant Don Quixote Hardblood Arts - La Sangre
+879||(ulepszenie 1) — nazwa] 빛나는 모험의 기억|Shining Memories of the Adventure
+880||(ulepszenie 1) — opis] [StartBattle] 무작위 수감자 1명에게 [ParryingResultUp] 1, [AttackDmgUp] 1 부여\n[StartBattle] 돈키호테와 굳어진 꿈에게 [Vulnerable] 1 부여|[StartBattle] Apply 1 [ParryingResultUp] and 1 [AttackDmgUp] to a random Sinner\n[StartBattle] Inflict 1 [Vulnerable] against both Don Quixote and his Coagulated Dream
+881||(ulepszenie 1) — nazwa] 경혈식 찌르기|Hardblood Stab
+883||(ulepszenie 1) — nazwa] 경혈식 베어내기|Hardblood Cleave
+887||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration]이 6 이상이면 [HardenedBlood]을 1 얻음|[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]
+889||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8, [BloodScissor] 1 얻음.|[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]
+890||(ulepszenie 1) — nazwa] 경혈식 강화 베어내기|Hardblood Powercleave

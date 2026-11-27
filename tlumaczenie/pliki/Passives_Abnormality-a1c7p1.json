@@ -1,0 +1,178 @@
+{
+  "entries": {
+    "dataList[id=837101].desc": {
+      "pl": "Początek tury: jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, zyskuje 1 [PenetrateDamageUp]",
+      "kr_sha256": "28a9e5bb0d8a188dc07ac1955461353f5d8451a63ae41b77f26f97cdda5dde93",
+      "en_sha256": "9583182d4ca0c9dd5c6710ef2f76d56ad6045485e88969e33c9bac073d6027ba",
+      "origin": "ai"
+    },
+    "dataList[id=837101].name": {
+      "pl": "Casual Opportunity",
+      "kr_sha256": "b6d9499875c6144be0c4ed1b73b29d373aeb01413ed330c9cf6077a6550fcc87",
+      "en_sha256": "787fb0559eb920121554084c54980c2d631f54d20cb92ba53d6b8b520b350a39",
+      "origin": "ai"
+    },
+    "dataList[id=837102].desc": {
+      "pl": "Koniec tury: przywraca 7 SP\nKoniec tury: zyskuje [Agility] w następnej turze równe ([Breath] tej jednostki/4) (maks. 3)",
+      "kr_sha256": "b331040ccdc977bc38faa716723f5869e6e890b1c38a975cb7b642f0eacfdb83",
+      "en_sha256": "0644a9c5ab2d3d556f5df693b81ee654befa56eb43fa207701b5472764efa289",
+      "origin": "ai"
+    },
+    "dataList[id=837102].name": {
+      "pl": "Leisurely Breathing",
+      "kr_sha256": "ef284acdc52603923803cd285a73d092fdcb585b5ffaca8ed608a7acbba51644",
+      "en_sha256": "3e7bd755843336a70db90e40d90bc9847726c3ab9eca15858ebfedf5125dd227",
+      "origin": "ai"
+    },
+    "dataList[id=837103].desc": {
+      "pl": "używa „Salut”, gdy cel jest w Oszołamieniu",
+      "kr_sha256": "c98134e71ff7bd1788fd01270b04cb84af4177ad859cb380e8604ce9f8d944f9",
+      "en_sha256": "9d2278d2f84d13cedc47b64a3bdc06807bd7902389eb8b8b31acac991c94d95a",
+      "origin": "ai"
+    },
+    "dataList[id=837103].name": {
+      "pl": "Single Combat",
+      "kr_sha256": "5a30348fb29184f696f9b572e6d6a0d5cd44f9149ff607f8cc8efe4efd6f33c4",
+      "en_sha256": "d08ea644041794685392d893bec252b3497edbe834cf57a3ba51895f3c073df9",
+      "origin": "ai"
+    },
+    "dataList[id=837104].desc": {
+      "pl": "przy użyciu Umiejętności przeciwko Slotowi, w który ta jednostka trafiła w poprzedniej turze, zyskuje następujące efekty w zależności od liczby kolejnych tur trafień\nresetuje się, jeżeli jednostka nie zaatakowała w poprzedniej turze.\n- 1 trafienie z rzędu: Moc Starcia +1\n- 2 trafienia z rzędu: Moc Bazowa +1\n- 3 trafienia z rzędu: Moc Bazowa +1, Moc Monety +1",
+      "kr_sha256": "d563521b50ef53083f4239b30f261673fb9236e2a547b1c742c4b6885e926b1b",
+      "en_sha256": "0ccb07a11364c178d74c4ab59df562efa85ba221543750866763a901439844bf",
+      "origin": "ai"
+    },
+    "dataList[id=837104].name": {
+      "pl": "Focused Attack",
+      "kr_sha256": "fb280bc2db6a07a33db6b54258999bb07af176987c6c9b0e1db803964c3ee327",
+      "en_sha256": "87ddf36b43f6d8a99479716bb14b9659dedeaee98cd80ff72fa0354f8f39d823",
+      "origin": "ai"
+    },
+    "dataList[id=837201].desc": {
+      "pl": "priorytet: [LineCutting].",
+      "kr_sha256": "866262d7fa7e1bbf250c8b3a4b80064b69cdc562188cc1eae1b43c3c1cd50238",
+      "en_sha256": "0f7cdf711b535728b8bb1f61ea98b7cee7954c837af7dec8b36b0af8385d1346",
+      "origin": "ai"
+    },
+    "dataList[id=837201].name": {
+      "pl": "I'll Cut You First!",
+      "kr_sha256": "9d11ae1636fe206b7dbe5f9e7439d1449e4e62e29d4e2f9a9ab08cb229676dc6",
+      "en_sha256": "ae06734f9ef0c91d7b309a0548e2fdecd9da942b671be6320cbfb8934bcab622",
+      "origin": "ai"
+    },
+    "dataList[id=837202].desc": {
+      "pl": "wygrana w Starciu: jeżeli cel ma [Laceration], przywraca Części i Korpusowi HP równe 40% zadanych obrażeń HP.\npo zakończeniu Ataku: jeżeli jednostka przywróciła co najmniej 100 HP, przywraca 10 SP\nten efekt nie uruchamia się przy trafieniu Umiejętnością z Niezniszczalną Monetą po przegranej w Starciu.",
+      "kr_sha256": "1349d51626fb937999717414e60107790cf298bf31329dca60714f92f811c8cc",
+      "en_sha256": "5b66adeda794e8e2f4283c5108cd2073e4afad8bedc2d01bf38fd00bcf0593fa",
+      "origin": "ai"
+    },
+    "dataList[id=837202].name": {
+      "pl": "Hardblood Scissor",
+      "kr_sha256": "1119688eb150786a5b6e707c35fee46b2da9576ce16cd0cb117a7795c833e1b9",
+      "en_sha256": "b015b3bd070a4a4a922f5d8c56ea209bd2f826066ab5658fcb86d5555228d612",
+      "origin": "ai"
+    },
+    "dataList[id=837202].summary": {
+      "pl": "przywraca HP atakując wrogów z Krwawieniem. gdy jednostka przywróci 100 HP, przywraca również SP.",
+      "kr_sha256": "099b3b707eba679d5fe5a04a656a715635b60d348e564cdb53afb26dbdd743eb",
+      "en_sha256": "f823930a85c738fedd0faf55b2b5a6e5457e785c6d12e9219acf99831f96423f",
+      "origin": "ai"
+    },
+    "dataList[id=837203].desc": {
+      "pl": "jeżeli istnieją wrogowie z HP równym 30% lub mniej, używa Umiejętności „I Don't Need Ugly Things!!”.",
+      "kr_sha256": "9837b276dc4a41eacbe747c6c9d2a347147f1f80a32f1f8769684fdbbb597c2a",
+      "en_sha256": "dfd8abc96f1b825c6164e154662a6834c21bf43a3a9cccb245546f40f09c56e5",
+      "origin": "ai"
+    },
+    "dataList[id=837203].name": {
+      "pl": "I Don't Need Ugly Things!!",
+      "kr_sha256": "dff9107493ade5c160de4c150016aea062672b486e4a5f9224706c74758c30a4",
+      "en_sha256": "00edc32d8e70507eb4ee32dce7e9d65a1f3b8dbc64999153151b02fd1231fca5",
+      "origin": "ai"
+    },
+    "dataList[id=837204].desc": {
+      "pl": "przybiera nowy wzorzec przy 40% Maks. HP tej jednostki\npo zmianie wzorca zyskuje co turę 10 [Laceration] i 2 [BloodScissor].",
+      "kr_sha256": "8331d472fefb50a1d8f0f951bae62670c9a6a4175c4eefe780407b5ae1aced59",
+      "en_sha256": "e9ed06c462de39794cc404ba7ad10997182b034963bde311d565fe35d97a04f9",
+      "origin": "ai"
+    },
+    "dataList[id=837204].name": {
+      "pl": "It's Not Over Yet",
+      "kr_sha256": "a7fe216dcb9f0ac00cbc3473bfe51c7367ccd5311e01dc3d03e3d108bba118f1",
+      "en_sha256": "4eedccf5bfa1966b142b988d112f1131d028c1b9c2f7e2b8bdd66cc613ff975e",
+      "origin": "ai"
+    },
+    "dataList[id=837205].desc": {
+      "pl": "jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [BloodDinner] rośnie o łączną wartość obrażeń [Laceration] otrzymanych przez wszystkie jednostki.\ngdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypływa na powierzchnię.",
+      "kr_sha256": "9f22192d4a92acabad42ffca0b7d7e1f46fb34eaa8991bb6918e9e4d3f43cb3f",
+      "en_sha256": "1a423d3cde438d2c39eb82870f85c6565c6897d5b8439ed7726327e3b148131a",
+      "origin": "ai"
+    },
+    "dataList[id=837205].name": {
+      "pl": "Bloodfeast",
+      "kr_sha256": "f5700dcc78928782572f472a62c7e0593254d34c4f4fff89ceaf59d0571c5411",
+      "en_sha256": "cf9136a9b13a7e14df15e39eae75ce74e860e431241fa8fe1a80bc223afb7591",
+      "origin": "ai"
+    },
+    "dataList[id=837206].desc": {
+      "pl": "Początek walki: zyskuje 10 [BloodScissor]\n- [BloodScissor] nie spadnie poniżej 1\n- przy 10+ [BloodScissor], przekształca je w [BloodScissorTwo].\n- przy 20+ [BloodScissor], przekształca je w [BloodScissorThree].\njeżeli jednostka zużyje [BloodScissor] i spadnie poniżej powyższych progów, przekształca je odpowiednio.",
+      "kr_sha256": "4316099e2c475d0c4b8c30c059903c03b710657cb875cfbfba33c838add3a220",
+      "en_sha256": "d46c517dbb155b89dc63cf15c1ef8b815de3cf811a79e6b66790a17cc24c4383",
+      "origin": "ai"
+    },
+    "dataList[id=837206].name": {
+      "pl": "Bloodsteeped Scissors",
+      "kr_sha256": "92d56a8be7a964f33a84ea99238b71b1fda3cc7b3350039f4b27d42407468c15",
+      "en_sha256": "4bb4e43c1301e7528eb51649c3e52d829972dc9efdc083b63880b208bd90998e",
+      "origin": "ai"
+    },
+    "dataList[id=837207].desc": {
+      "pl": "Początek walki: zyskuje [StarvingBarberTwo]",
+      "kr_sha256": "2ac512cf4667b06d724a54f11415be2dbed51e4df8bf61938655edfb928a8eca",
+      "en_sha256": "14fddc80e380e685fdfb70ec67266ac6b16019c9cb472ccdfdae89976c751a93",
+      "origin": "ai"
+    },
+    "dataList[id=837207].name": {
+      "pl": "Starved and Withered",
+      "kr_sha256": "a46d41694db4b8ceec20232ec6c494306e13c9f56636dda277aa3a512cced1c4",
+      "en_sha256": "91687e22a7038a50ebd385a1daf025ad392cef886f4e3ee687c507de2c996fbc",
+      "origin": "ai"
+    },
+    "dataList[id=837208].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, na początku następnej tury dochodzi do siebie z Paniki, a SP wraca do 0.\nprzy dochodzeniu do siebie z Paniki:\n- zużywa 30 [BloodDinner], by zyskać 2 [Enhancement] i 1 [BloodScissor] w następnej turze, oraz przywraca 20 SP.\n- jeżeli nie udało się zużyć [BloodDinner], zyskuje 30 [Laceration], natychmiast uruchamia obrażenia od [Laceration], po czym traci 3 Licznika [Laceration]. Następnie w następnej turze zyskuje 2 [Enhancement], 2 [AttackDmgUp] i przywraca 20 SP.",
+      "kr_sha256": "9c3508a4ce266e360bea75af0034393cfd313990cb4f79602df04ec9c23f0939",
+      "en_sha256": "9f6c7e6cac502b9c00ef35b8d89bb5ecf94af9e8c93d1a019216e4e5e011cca3",
+      "origin": "ai"
+    },
+    "dataList[id=837208].name": {
+      "pl": "Blood... Blood... Blood...!",
+      "kr_sha256": "365920498b071c698651800da2e2fcb2844d7cefd793ea74289910b6f4066c21",
+      "en_sha256": "490b9044cb19633846bd0f103316f9a748323f31654d9713984ff96b52522d22",
+      "origin": "ai"
+    },
+    "dataList[id=9999996].desc": {
+      "pl": "gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.",
+      "kr_sha256": "3e75bb1e1ed2c18b6cbffe44559244cf9808946e11815a8445f8823204718af2",
+      "en_sha256": "80b56172152e3c3e233ed29bffa2962e32b93653e16c423865f7a96488389a44",
+      "origin": "ai"
+    },
+    "dataList[id=9999996].name": {
+      "pl": "Panika zablokowana",
+      "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
+      "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=9999997].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, SP wraca do 0.",
+      "kr_sha256": "0646936d317fa881c2c9e83d774d48dfba9a2193e4f6417f7a908bd2936aa170",
+      "en_sha256": "9945b3ea15ea285421ab81feb5d610e0ace1710fceb7a0cbf75d4fba97686dc4",
+      "origin": "ai"
+    },
+    "dataList[id=9999997].name": {
+      "pl": "Panic Recovery",
+      "kr_sha256": "e3eea3f6529e6ea9565259f8e85095edeb4be438bbfe369a0fada18fd86a7598",
+      "en_sha256": "a1848737a6c2cddb3006496555ff7af839eee9d501150244fb99855fcccf2d14",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "entries": {
+    "dataList[id=8373].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8373].name": {
+      "pl": "Peccatulum Luxuriae?",
+      "kr_sha256": "4293228a0a5526bc8c7b135a08dcba991ff07dd07c6a818043e1583d16d3f481",
+      "en_sha256": "63523c6a28b79b76421beb2ba58c59256db4374f632c1411774e92c7a1ad5953",
+      "origin": "ai"
+    },
+    "dataList[id=8374].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8374].name": {
+      "pl": "Peccatulum Superbiae?",
+      "kr_sha256": "565a00c6afeb4b3b0ddd3933bedc0a000904b86eea73a6690f3e0981bc434a6b",
+      "en_sha256": "14c5ca60a5dc0230d25c33e02ab8323a2f74ef77e99e04f43dd7e1f333a970e3",
+      "origin": "ai"
+    },
+    "dataList[id=8375].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8375].name": {
+      "pl": "Budding Cinq West Fixer",
+      "kr_sha256": "23e95f7cdd17ec1a8ccb84a5392afca53a973a58090996117ce2c273c44a7d6b",
+      "en_sha256": "67c6eaf296a52e794caddf1182c1f66c191bd3ce0ed314a09719dc5d40952a81",
+      "origin": "ai"
+    },
+    "dataList[id=8376].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8376].name": {
+      "pl": "Rose Hunter",
+      "kr_sha256": "474818877d63090b89de7e915096e99151442960e998feab34b2f64e994119e0",
+      "en_sha256": "fe0bf7499ff29f40d79410a8a5be512e21df4f13de4f315d668eba866be73644",
+      "origin": "ai"
+    },
+    "dataList[id=8377].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8377].name": {
+      "pl": "Barbed Lasso",
+      "kr_sha256": "1f53cc71daf481bda8df28118f3ff177942b10f194ed63ad4d6b0c9e9e2b2eee",
+      "en_sha256": "09647c90d602b3a5debaa715541b4cae1d1c84013144f9780ad6915dc135e8a4",
+      "origin": "ai"
+    },
+    "dataList[id=8378].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8378].name": {
+      "pl": "The Priest",
+      "kr_sha256": "2ec5f43408d90211d6d371691a1a12f0a13b7380e398f9fb49f36abed28ac1bc",
+      "en_sha256": "61f76c2b05d3bf43b9aa17baa8c3199423b59d9ddc60056ca4907a90428d535e",
+      "origin": "ai"
+    },
+    "dataList[id=8379].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8379].name": {
+      "pl": "Hurting Teddy Bear",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=8380].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8380].name": {
+      "pl": "Sancho",
+      "kr_sha256": "2f2c17cca99e3cb3d6d6170fe471ef4cf6f9b65ea0b1e0a4ff0087a964403f17",
+      "en_sha256": "b72d019b999fd9ba87d51c8a9a751d0aae83acbba14b71080d80452b873f546b",
+      "origin": "ai"
+    },
+    "dataList[id=839001].desc": {
+      "pl": "Boss",
+      "kr_sha256": "031bf95933a4931cb8a6db4a98487adab6a7a88508872a3bd5f061b972ea0876",
+      "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
+      "origin": "ai"
+    },
+    "dataList[id=839001].name": {
+      "pl": "The Wheel of La Manchaland",
+      "kr_sha256": "30f193f6a7fa8d2bb220a9d735c41491e694c3ec22f004484634951d86c4d97d",
+      "en_sha256": "b0c92e3d6a2f4229725ea8ce2baca7fadecb2dd324feaf23e16f83ab72702ff4",
+      "origin": "ai"
+    },
+    "dataList[id=8390].desc": {
+      "pl": "Boss",
+      "kr_sha256": "031bf95933a4931cb8a6db4a98487adab6a7a88508872a3bd5f061b972ea0876",
+      "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
+      "origin": "ai"
+    },
+    "dataList[id=8390].name": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=8394].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8394].name": {
+      "pl": "Budding Zwei Fixer",
+      "kr_sha256": "e6cc1ba7f37b2f0082e22c581c986a4e99c40c14cd0f93fa6c9f24d30495834f",
+      "en_sha256": "a8dbc62c283a7dc3a6c6b1a6986e365a2e0822697f02298e3f61cfa76d1e9f72",
+      "origin": "ai"
+    },
+    "dataList[id=8395].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8395].name": {
+      "pl": "The Barber",
+      "kr_sha256": "f313e58f64340255c61605015acab454610627e5bd3180025cb8421f7e0dadd6",
+      "en_sha256": "1780516858b405a98e79444e1074f02c857d573a0615d1a1e685afca252c0bd3",
+      "origin": "ai"
+    },
+    "dataList[id=8396].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8396].name": {
+      "pl": "Dulcinea",
+      "kr_sha256": "190b14ffc8cd4a0e8b6d65d8504f307dbbb2a7faed042fbc70895acb3b510f09",
+      "en_sha256": "78474db06a14d99d2e9705de9b559c2e517146a1a6c8e81764c2e3ebddc78f51",
+      "origin": "ai"
+    },
+    "dataList[id=840301].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=840301].name": {
+      "pl": "Gondola",
+      "kr_sha256": "2f11655324ca93e6abe8fa2f107b65f9e342afab4d1e4ee614c905acefcc76db",
+      "en_sha256": "02d5cb2689c4bf3e0a197c858a0b14577bb2f1b19de1b41226e44c822910a22a",
+      "origin": "ai"
+    },
+    "dataList[id=8403].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8403].name": {
+      "pl": "Gondola",
+      "kr_sha256": "2f11655324ca93e6abe8fa2f107b65f9e342afab4d1e4ee614c905acefcc76db",
+      "en_sha256": "02d5cb2689c4bf3e0a197c858a0b14577bb2f1b19de1b41226e44c822910a22a",
+      "origin": "ai"
+    },
+    "dataList[id=8410].desc": {
+      "pl": "Boss",
+      "kr_sha256": "031bf95933a4931cb8a6db4a98487adab6a7a88508872a3bd5f061b972ea0876",
+      "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
+      "origin": "ai"
+    },
+    "dataList[id=8410].name": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=841101].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=841101].name": {
+      "pl": "Dreamshard",
+      "kr_sha256": "4cbe0554b3f7a24e6123ec2f83b9550fafcbe58213c62bea4e199282cc9ce6db",
+      "en_sha256": "304a66eaddea81388aaf28e78aec7142dec012f5d3515d825c0d6c24445596da",
+      "origin": "ai"
+    },
+    "dataList[id=8411].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8411].name": {
+      "pl": "Coagulated Dream",
+      "kr_sha256": "14a082ba066a68918615a5ed4260ddcf32938a8f8910c0e9f61ec94eb6a02833",
+      "en_sha256": "053450b66394e3b434e02a0e0f3e654518303d9214ef5fce77fe3ee538c080ba",
+      "origin": "ai"
+    },
+    "dataList[id=841201].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=841201].name": {
+      "pl": "Hardblood Fragment",
+      "kr_sha256": "11275986b20822b803dfa6416516f88f9b4c5d22ba9d1cff71abb5ce0ba4e332",
+      "en_sha256": "27c6cfb1284c966f95a1b02ed2453946fb4d15dc3ae7ec98dcb44ed30be01dff",
+      "origin": "ai"
+    },
+    "dataList[id=8412].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8412].name": {
+      "pl": "Impaling Spear",
+      "kr_sha256": "2b499bbabd3fe23f276253fde872221ca47273ddafc7b0ecfe2c6d1e8b8d3ca6",
+      "en_sha256": "b3889074ead007edae3301e01fb52ef6092c8dc81eed3abf4243fc8381e196d6",
+      "origin": "ai"
+    },
+    "dataList[id=841301].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=841301].name": {
+      "pl": "Memories of the Adventure",
+      "kr_sha256": "ae645fc9886f98f68d15e7b0d1c5fc3ac6149dfe460378f53b8291ea5dbd1ee8",
+      "en_sha256": "77c99e3b9f570dc93781890a114cc087d238805a259f14445ddaebd1828ae20c",
+      "origin": "ai"
+    },
+    "dataList[id=8413].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8413].name": {
+      "pl": "Memories of the Dreaming Adventure",
+      "kr_sha256": "8d635c3f7d0c347e3bcad23fe65befc36b8889ab857a95ba1a7b6420c4699b35",
+      "en_sha256": "c8fae264efd2bef104330bbb51a7816ecc4b0c69f97fd99f29423b0cd8a4b69e",
+      "origin": "ai"
+    },
+    "dataList[id=90162].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90162].name": {
+      "pl": "Budding Bloodbag",
+      "kr_sha256": "b88e1d1242bfd7c771005ac9d4bad137c414538c81828970b11ae8e469e6f426",
+      "en_sha256": "b2671568464423e09e90825a234156557bca30c474d994c6785af5f5c035a992",
+      "origin": "ai"
+    },
+    "dataList[id=90165].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90165].name": {
+      "pl": "Budding Zwei West Fixer",
+      "kr_sha256": "6e44b28bf334a5f5f671d5d979269309ab19465bf6effd67be6ba5e3367a9d58",
+      "en_sha256": "c6cfae9c25048639138f526ace8c107d7a73eac50d051c0d5abcbdbaa52eb477",
+      "origin": "ai"
+    },
+    "dataList[id=90166].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90166].name": {
+      "pl": "Budding Bloodfiend",
+      "kr_sha256": "0264e45e254a43958be12199dacb18cd82c3a8bcc74a1ce8a803e7caaf1cb381",
+      "en_sha256": "8ef47c1d28d4b239cfe9f296efd589c42fc59e89733d246a9fbcca0928aa09d2",
+      "origin": "ai"
+    },
+    "dataList[id=90167].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90167].name": {
+      "pl": "Blossomed Bloodfiend",
+      "kr_sha256": "56ad09c487e837c6f3d22935963378d5c3ab88432c7be7a8cae998296601bf0c",
+      "en_sha256": "d5fad698a43fe98e9bcff93a16973d5131b47e93e54e841619d57d90bdc4acc2",
+      "origin": "ai"
+    },
+    "dataList[id=90168].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90168].name": {
+      "pl": "Bloomed Bloodfiend",
+      "kr_sha256": "1780dd4c221c099de1825ac830952995a3b5be862b86458d3f0194a9d8b01919",
+      "en_sha256": "77cee48131eab6dc15cec0290d49f9479afbf968830a55f8551cd195accb7a23",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "entries": {
+    "dataList[id=9015202].desc": {
+      "pl": "Początek tury: jeżeli nikt nie ma [Laceration], Maks. Szybkość -2 (dotyczy sojuszników i wrogów)",
+      "kr_sha256": "f7b2e5416fcab8a530def936ec6ca4736c54e20e49c2615692c53d31e0509fff",
+      "en_sha256": "f1a6d71e6c62ce429ed9cf7fe6c7b1a806efaaaf55daf7460677b571dfcc428c",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].name": {
+      "pl": "Withered",
+      "kr_sha256": "ce2cc8c95a600ab71b7a9b07b20fc6a0295acb2815f5f1b4b38e76164de01a34",
+      "en_sha256": "569e0e5a062b3f0364a21d10d68a897dd5ecff9c63ae542ad7c0c9ffaacf7994",
+      "origin": "ai"
+    },
+    "dataList[id=9015203].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma [Laceration], przywraca HP równe 15% zadanych obrażeń",
+      "kr_sha256": "937f18f893eb94f94e8819766d3383efb95dfe82ef3175d020a872847b022a12",
+      "en_sha256": "398cbb9952c09956e67bcc2bec30ab2d2c0858dcc7f99e1d7923bdc06c30bb63",
+      "origin": "ai"
+    },
+    "dataList[id=9015203].name": {
+      "pl": "Bloodsucking",
+      "kr_sha256": "1d211cba5340433939b6a5cf02fce6a7b29f309e1a66895d5eac14d58ef12065",
+      "en_sha256": "a20c5b6b1308d41fdd4583fbeb77a3546e18587cceaa5efd16250e5eb44f35d1",
+      "origin": "ai"
+    },
+    "dataList[id=9015204].desc": {
+      "pl": "po zakończeniu Ataku: jeżeli cel ma 8+ [Laceration], zyskuje 1 [HardenedBlood]",
+      "kr_sha256": "9827054c42a225758a03a4d609af0bb54ee9ba06f2e11ec33e70b716f2dbf5aa",
+      "en_sha256": "6078434abd52e9ea7474a45b93f99472e84ca1e2a71ba34f30cb95c4d7d4b8b4",
+      "origin": "ai"
+    },
+    "dataList[id=9015204].name": {
+      "pl": "Blood Coagulation",
+      "kr_sha256": "c8fe864e7f987789459277c524ddad7f8de09616f617ca989c4489bd65a1a828",
+      "en_sha256": "e08cd13e7a8656e32f7a9a948280884c744cb6f5e62d8ede27aee63d8d434981",
+      "origin": "ai"
+    },
+    "dataList[id=9015205].desc": {
+      "pl": "przy 1+ [BloodScissor], ostrza nożyc są wzmocnione.",
+      "kr_sha256": "b011f328e17425cbeb6da5ce2139c9e88e79dbcf5bd3659aef87c1b3f041a42c",
+      "en_sha256": "510699995af2b75f9b08bbbb4231f3e4521ac77a8d1892da4339dca62a26090c",
+      "origin": "ai"
+    },
+    "dataList[id=9015205].name": {
+      "pl": "Blood-tinged Scissorblades",
+      "kr_sha256": "bd9326d7506e5da2b0b6b41a6452991e4b63a92a4311db6d75d937c853eb7c13",
+      "en_sha256": "109e89441c0584316118c7f401a93696e2e9b7b4b73f143620cf62b344c56dc1",
+      "origin": "ai"
+    },
+    "dataList[id=9015206].desc": {
+      "pl": "Początek walki: zyskuje [StarvingBarberOne]",
+      "kr_sha256": "0d205161d1761c44959dc312615c8e2692d6e0d4bec6e1d600cdb1273a11cbe9",
+      "en_sha256": "c45ff34dfa291bb15fd5120663859c34b054006d0d6d300eed93d7ab618711de",
+      "origin": "ai"
+    },
+    "dataList[id=9015206].name": {
+      "pl": "Starved and Withered",
+      "kr_sha256": "a46d41694db4b8ceec20232ec6c494306e13c9f56636dda277aa3a512cced1c4",
+      "en_sha256": "91687e22a7038a50ebd385a1daf025ad392cef886f4e3ee687c507de2c996fbc",
+      "origin": "ai"
+    },
+    "dataList[id=9015207].desc": {
+      "pl": "przy otrzymaniu trafienia zyskuje 1 Licznika [Laceration].\nzyskuje 1 [HardenedBlood] za każdym razem, gdy traci 20% HP.\njeżeli na polu bitwy znajduje się Bloodfiend — sojusznik lub wróg — przy śmierci zwiększa [BloodDinner] o 30",
+      "kr_sha256": "eb7671ded3077291f15acc8402b4059db6a2b36e01bc124cade206f2d334967f",
+      "en_sha256": "2cf0569eee17345182b60079389df3883cb834400e30710739590c262ae9304b",
+      "origin": "ai"
+    },
+    "dataList[id=9015207].name": {
+      "pl": "Bloodbag",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "3977abc0bb8b16d3312da3424e7a1f9885ceea7d7b64877a5277b7b8d76f082a",
+      "origin": "ai"
+    },
+    "dataList[id=9015401].desc": {
+      "pl": "przy trafieniu, jeżeli cel ma [Laceration], przywraca HP równe 20% zadanych obrażeń",
+      "kr_sha256": "5de2ebfd31fa0fb94b616870f775bc61a9be6ebe665dce2ee3580fb56bb6547e",
+      "en_sha256": "2ded6b27ff06448fb44a1017ffe3075a8aaf73395aa7598db3d2cfc31c714464",
+      "origin": "ai"
+    },
+    "dataList[id=9015401].name": {
+      "pl": "Bloodsucking",
+      "kr_sha256": "1d211cba5340433939b6a5cf02fce6a7b29f309e1a66895d5eac14d58ef12065",
+      "en_sha256": "a20c5b6b1308d41fdd4583fbeb77a3546e18587cceaa5efd16250e5eb44f35d1",
+      "origin": "ai"
+    },
+    "dataList[id=9015402].desc": {
+      "pl": "po zakończeniu Ataku: jeżeli cel ma 5+ [Laceration], zyskuje 1 [HardenedBlood]",
+      "kr_sha256": "fd85720787a4002692452cb94f54141c0222001d92684ec81a53bf481cb2786d",
+      "en_sha256": "f62acaab1d3f3523b3d2026012412e31776e9ead30f0ad22e5daaf6a49587c19",
+      "origin": "ai"
+    },
+    "dataList[id=9015402].name": {
+      "pl": "Blood Coagulation",
+      "kr_sha256": "c8fe864e7f987789459277c524ddad7f8de09616f617ca989c4489bd65a1a828",
+      "en_sha256": "e08cd13e7a8656e32f7a9a948280884c744cb6f5e62d8ede27aee63d8d434981",
+      "origin": "ai"
+    },
+    "dataList[id=9015403].desc": {
+      "pl": "- priorytet: cele z [Laceration]\n- Koniec tury: jeżeli nie zadała żadnych obrażeń w tej turze, zyskuje 2 [Vulnerable] i 2 Wzrost Poziomu Ataku w następnej turze\n- Koniec tury: jeżeli zadała obrażenia w tej turze, przywraca 5 SP",
+      "kr_sha256": "627e288ecb289d695c9c591c7df4c3d1e020623430954b3a74630cfa68ea7369",
+      "en_sha256": "94f6342d8678d7c6620ee84afadc58275606c48a6a856e3ef472250a9878c804",
+      "origin": "ai"
+    },
+    "dataList[id=9015403].name": {
+      "pl": "Thirst for Blood",
+      "kr_sha256": "4b94694fdeed2eae338be4e399650f785ff8c4a6cda60d53e664485482d14e89",
+      "en_sha256": "4559c8efe9157961877671bfb202a844aa6b98f0508b5e40d1628bdcba234abd",
+      "origin": "ai"
+    },
+    "dataList[id=9015404].desc": {
+      "pl": "jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [BloodDinner] rośnie o łączną wartość obrażeń [Laceration] otrzymanych przez wszystkie jednostki.\ngdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wynurza się na powierzchnię.",
+      "kr_sha256": "1a7552ed3378a5148b0a3c1c74ab08a40bf5915ea25f4c76a7aa22a9ee2e74dd",
+      "en_sha256": "3cb5962b7441a20fd43b159b329b050aaa7dddafe64b5241c0449d62795efcf6",
+      "origin": "ai"
+    },
+    "dataList[id=9015404].name": {
+      "pl": "Bloodfeast",
+      "kr_sha256": "f5700dcc78928782572f472a62c7e0593254d34c4f4fff89ceaf59d0571c5411",
+      "en_sha256": "cf9136a9b13a7e14df15e39eae75ce74e860e431241fa8fe1a80bc223afb7591",
+      "origin": "ai"
+    },
+    "dataList[id=9015405].desc": {
+      "pl": "przy 2+ [BloodScissor], ostrza nożyc są wzmocnione.",
+      "kr_sha256": "e143af81fa0878898522e427b5bf21621326d4aa56f8c66423478d06d909277f",
+      "en_sha256": "be34e1078bd70e91ce3fcf1e1c36fd9d4a885e965f03e9199161f4207a6bf374",
+      "origin": "ai"
+    },
+    "dataList[id=9015405].name": {
+      "pl": "Blood-tinged Scissorblades",
+      "kr_sha256": "bd9326d7506e5da2b0b6b41a6452991e4b63a92a4311db6d75d937c853eb7c13",
+      "en_sha256": "109e89441c0584316118c7f401a93696e2e9b7b4b73f143620cf62b344c56dc1",
+      "origin": "ai"
+    },
+    "dataList[id=9015601].desc": {
+      "pl": "jeżeli cel to <Bloodfiend> lub <Bloodbag>, zadaje +10% obrażeń",
+      "kr_sha256": "f386404b56913e5374e18c84009613defd46467c4ca06570cd31e48a6c7863d9",
+      "en_sha256": "9347799b5a4dbff59f8dc8239894c47779e45ca28e8f17a84271b2ed152751ca",
+      "origin": "ai"
+    },
+    "dataList[id=9015601].name": {
+      "pl": "Bloodfiend Hunter",
+      "kr_sha256": "a13e6a6b7c6573bcece04eee823f1277bc1fd7d91ca196b27b2e8e60c2af8cf7",
+      "en_sha256": "285659d5f00a63d45e4d3bb5c12c8f89511509ae1c82955862a0e37189b9abd3",
+      "origin": "ai"
+    },
+    "dataList[id=9015602].desc": {
+      "pl": "przy trafieniu wroga Umiejętnością ataku 10% szans na nałożenie 2 Licznika [Burst]",
+      "kr_sha256": "4c306d2912dee89296f545c94770f21274a733eb7a12642532f6170ffebe02d5",
+      "en_sha256": "5b70d7dbaf1efe739919e2d52bee88dbe6acd89268c29f6d7991935c9c73274d",
+      "origin": "ai"
+    },
+    "dataList[id=9015602].name": {
+      "pl": "Aggressive Hunting Techniques",
+      "kr_sha256": "0dbe39d2ce762dfdde2e7cc6cec2f61f109ecff14fbcc8899f774909c07dee8b",
+      "en_sha256": "135a6720ac7acd672a3dc74fb66ef7414e02b80351068e6f0f8dad438cf21ed0",
+      "origin": "ai"
+    },
+    "dataList[id=9015603].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli cel ma 10+ [Burst], zamiast nakładać [Burst] zadaje +30% obrażeń",
+      "kr_sha256": "49470657700c069b096332e8c5455c817fa2a7071bd4af070fc3c358c8614f53",
+      "en_sha256": "d7189adb971baff6ef4d66fe3c37dd45d94ca2f2d1b46fceb547b5d74de34cec",
+      "origin": "ai"
+    },
+    "dataList[id=9015603].name": {
+      "pl": "Anti-Bloodfiend Hammer",
+      "kr_sha256": "f994a7cfb4bbec6ae6655407af3c3482ae8b89268df44318e652a0ee6c5fcfda",
+      "en_sha256": "d990fde7e61cee5e05627566b4b561858d09d17b099656734446e9dd87b40ca4",
+      "origin": "ai"
+    },
+    "dataList[id=9015604].desc": {
+      "pl": "Koniec tury: jeżeli ta jednostka ma [Laceration], traci 1 Licznika [Laceration]",
+      "kr_sha256": "bc7db17a2b207d21e8bb621cfdf5bf614f24e8b8a0af7134b7ef2d012494192b",
+      "en_sha256": "4b510ebaf35059115764287522b16e9430e0a74d033ac74c35750afa2ef9bdc7",
+      "origin": "ai"
+    },
+    "dataList[id=9015604].name": {
+      "pl": "Styptics",
+      "kr_sha256": "064e8dc48f13e2b4a670c671a592a8b1dcbe37f0a08f43da43c9215e819208b6",
+      "en_sha256": "e3575b86e01c16267961bda9bda99d5b9211c042d4e5cdd7be3295d7be982e10",
+      "origin": "ai"
+    },
+    "dataList[id=9016001].desc": {
+      "pl": "wygrana w Starciu: nakłada debuff [TrulyWeak] na cel",
+      "kr_sha256": "cea018931fdfafa3ab3c2a409ed80e985ecd15df3b155439349747d3ad2d964e",
+      "en_sha256": "4a551040579e1a542756d5e8b51d1938533cf4ea7090c2cee6b9ba8d726e3115",
+      "origin": "ai"
+    },
+    "dataList[id=9016001].name": {
+      "pl": "Weakling Mark",
+      "kr_sha256": "29c73a6e552f4be5c55756034bf8cf32a6fd7403d72c02cc12037e2cb3e82229",
+      "en_sha256": "ffb2c799407eff76bb477d23174c03d969bb5c3a6752bc92f3fa6c449b44d864",
+      "origin": "ai"
+    },
+    "dataList[id=9016002].desc": {
+      "pl": "uwielbia znęcać się nad słabszymi",
+      "kr_sha256": "9ec93d2697c7cd98bdfacf98d446125198e35fe738c98f5734fe9317ae52806b",
+      "en_sha256": "b6306ff1ed571baf8b3396b2c434387b3d95ef0d0c7a7899dbe867c1d1601d4f",
+      "origin": "ai"
+    },
+    "dataList[id=9016002].name": {
+      "pl": "The Wicked Caitiffs",
+      "kr_sha256": "7d0cf7b0f71eba22f11a4f51e114b7e40cdb29f2c6299f14d6e82e9206a511d2",
+      "en_sha256": "8a4e1ada482516535bd9a893fa62a5ddc809b85c8f099493980a2c03e0cb6135",
+      "origin": "ai"
+    },
+    "dataList[id=9016003].desc": {
+      "pl": "Moc Starcia +1 przy atakowaniu wroga z debuffem [TrulyWeak]",
+      "kr_sha256": "5fc3f275cafc48612c22723bab08cc58b2285c3fa7837a1ce4d4f711947e1f58",
+      "en_sha256": "0d95fb56f17f406fd2a9ae76d3c71b6ef44650fed2bd9b5e0b447f403f77fa55",
+      "origin": "ai"
+    },
+    "dataList[id=9016003].name": {
+      "pl": "Bullies",
+      "kr_sha256": "77b78d35ec6a51f3cdb64c67aada7d4adc0b3db223c151975b7f9b6b7e3d9291",
+      "en_sha256": "83db0d6483ac59adb9d9343764f533b63670f51233e448030870ff88a506eaa5",
+      "origin": "ai"
+    },
+    "dataList[id=9016101].desc": {
+      "pl": "zadaje +15% obrażeń",
+      "kr_sha256": "f932d848582210ae186a33d976b522e948a88652e8dcc2ccbbf0436422996b6e",
+      "en_sha256": "8ec4aa3bc4ed6bdbdd47f2d1ea4744edebfc9e3a05e4b65e6f360c8be076e693",
+      "origin": "ai"
+    },
+    "dataList[id=9016101].name": {
+      "pl": "An Encounter of Moderate Difficulty",
+      "kr_sha256": "5dd977f5c7ce8360b6ccfd5d608b74dc2f78746272995703896acc20fc0e74db",
+      "en_sha256": "0c7f1597a86fd04a41c2de46bdaa6cb348a7e4063011d57ee62f2aadc887cb74",
+      "origin": "ai"
+    },
+    "dataList[id=9016102].desc": {
+      "pl": "zadaje +25% obrażeń celom z 50% HP lub mniej",
+      "kr_sha256": "51110276815c54203ad7d5b1dc3b9dd9203f2051ace92d3f6700477a3adb47a3",
+      "en_sha256": "9502ec0548a5c276b752ef7fb582edfd83e674d2f2e6912c93706b1cb5bff6b7",
+      "origin": "ai"
+    },
+    "dataList[id=9016102].name": {
+      "pl": "The Man-eating Bear",
+      "kr_sha256": "49a26b5e05b3845781e3b683bf8bc83d17c2533faffd9a508bbbcc7ceb60db71",
+      "en_sha256": "a3d8941e48c185dfda692ae281fa3b54369afcd1ef68bc63cbf950ad6cf12961",
+      "origin": "ai"
+    },
+    "dataList[id=9016103].desc": {
+      "pl": "podczas Starcia przeciwnik czasem traci 1 SP — może",
+      "kr_sha256": "d806fd4dd23221093eca1a7c0a534b8ee6217feb59223c5a08c4cf404fbf6739",
+      "en_sha256": "b48f1bf98fd396fe237eb3df0e26cfa6756422fdc4f483494a3c5f2de697ce1e",
+      "origin": "ai"
+    },
+    "dataList[id=9016103].name": {
+      "pl": "Big & Scary",
+      "kr_sha256": "3a6a0f020c02aa5f0e1e01cb679c0790fb1c13af77a2db0872843216978b9a93",
+      "en_sha256": "7da37a81396eacaf2d8656b2c7288cc041f92c4f5764ca263b0fe760feeac718",
+      "origin": "ai"
+    }
+  }
+}

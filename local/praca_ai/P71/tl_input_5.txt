@@ -1,0 +1,36 @@
+891||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1\n[HardenedBlood]당 피해량 +5% (최대 25%)\n[EndSkill] [HardenedBlood], [BloodScissor] 전부 소모|[WhenUse] If target has 6+ [Laceration], Base Power +1\nDeal +5% damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]
+893||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 (대상의 [Laceration])%만큼 체력 회복 (최대 20%)|[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)
+895||(ulepszenie 1) — opis] [WhenUse] 자신의 [HardenedBlood] 1당, 기본 위력 +1|[WhenUse] Base Power +1 for every [HardenedBlood] on self
+897||(ulepszenie 1) — nazwa] 축제야 축제!|It's a Festival, a Festival!
+900||(ulepszenie 1) — nazwa] 옷 입혀줄게|Let's Dress Up
+901||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 피해량 +20%|[WhenUse] If target has 6+ [Laceration], deal +20% damage
+905||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻음\n[WhenUse] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 5, [HardenedBlood]을 1 얻음.\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1|[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If target has 5+ [Laceration], Coin Power +1
+962||Pasywka wroga [837804] — opis] 전투 시작시, [StarvingPriestTwo] 얻음|Gain [StarvingPriestTwo] at the start of the Encounter
+963||Pasywka wroga [837801] — nazwa] 종부성사|Unctio Extrema
+964||Pasywka wroga [837801] — opis] 턴 종료시, 자신의 [Laceration]을 발동시킴 (최대 50. 자신의 [Laceration] 횟수 1 소모). 가장 체력이 낮은 아군 혈귀의 (본체와 부위의) 체력을 50 회복시킴 (피해를 입은 아군이 없으면 발동하지 않음)|Turn End: activate [Laceration] on self. (max 50; consume 1 [Laceration] Count on self) Heal 50 HP to Core and Part of an allied Bloodfiend with the least HP (does not activate if all allies are at full HP)
+965||Pasywka wroga [837802] — nazwa] 고백성사|Sacramentum Paenitentiae
+966||Pasywka wroga [837802] — opis] 턴 종료시, 자신의 정신력이 5 감소하고 가장 정신력이 낮은 아군 혈귀의 정신력 10 회복 (정신력이 있는 대상이 없으면 발동하지 않음)|Turn End: lose 5 SP and heal 10 SP for an allied Bloodfiend with the least SP (does not activate if there aren't any allies with SP)
+967||Pasywka wroga [837803] — nazwa] 닳아버린 마음|Ailing Heart
+968||Pasywka wroga [837803] — opis] 자신의 [WornHeart]의 수치에 따라 패턴이 변경됨\n턴 종료시, [WornHeart] 1 얻음|Gains new patterns based on [WornHeart] value on self\nTurn End: gain 1 [WornHeart]
+969||Pasywka wroga [837805] — nazwa] 피로 물든 손|Bloodied Hand
+970||Pasywka wroga [837805] — opis] - [BloodyHand]이 10 이상이면, [BloodyHand_2nd] 로 전환됨.\n- [BloodyHand_2nd]이 20 이상이면, [BloodyHand_3rd] 으로 전환됨.|- At 10+ [BloodyHand], convert them to [BloodyHand_2nd].\n- At 20+ [BloodyHand_2nd], convert them to [BloodyHand_3rd].
+971||Pasywka wroga [837901] — nazwa] 사랑했던 이들|The Once-loved Ones
+972||Pasywka wroga [837901] — opis] 턴 시작 시 모든 적이 [AffectionTeddy]을 보유하였다면, 강력한 스킬을 사용|Turn Start: if all enemies have [AffectionTeddy], use a powerful Skill
+973||Pasywka wroga [837902] — nazwa] 늘어붙은 쇠말뚝|Grimy Iron Stake
+974||Pasywka wroga [837902] — opis] 단일 코인 스킬을 사용하여 적에게 적중 시, 대상에게 [Laceration] 위력 3을 부여하고 다음 턴까지 [DefenseDown] 2 부여\n대상이 [Laceration] 상태일 경우, 효과가 강화되어 [Laceration] 위력 5 부여|When hitting an enemy using a single-Coin Skill, inflict 3 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration], inflict 5 [Laceration] Potency instead
+975||Pasywka wroga [837903] — nazwa] 기억하기|To Remember
+976||Pasywka wroga [837903] — opis] 이번 턴에 서글픈 포옹의 턴 종료 시 효과로 흐트러졌다면, 다음 턴 시작 시 [FaintMemory] 10 얻음|If this unit was Staggered due to the Turn End effect of A Sad Embrace, gain 10 [FaintMemory] at the next Turn Start
+977||Pasywka wroga [837904] — nazwa] 사랑 베풀기|To Love
+978||Pasywka wroga [837904] — opis] 턴 종료 시 체력이 30% 이하인 상태라면 모든 적에게 [AffectionTeddy] 3을 부여하는 대신 다음 턴에 [AttackDown] 15 얻음 (전투당 1회)|If at less than or equal to 30% HP at Turn End: instead of inflicting 3 [AffectionTeddy] to all enemies, gain 15 [AttackDown] next turn (once per Encounter)
+979||Pasywka wroga [837905] — nazwa] 아프지 않기를|Please Don't be Sick
+980||Pasywka wroga [837905] — opis] 대상이 보유한 부정적 효과의 종류 수 3개당 기본 위력 1 감소 (최대 3)|Base Power -1 for every 3 types of negative effects on the target (max 3)
+981||Pasywka wroga [837301] — nazwa] 죄악 저항|Sin Resistance
+982||Pasywka wroga [837301] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Laceration] 피해 50% 감소|Unless this unit is Staggered or Part Broken, take 50% less [Laceration] damage
+984||Pasywka wroga [837401] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면 크리티컬 피해를 받을 때 크리티컬 피해량의 절반만큼 받음.|Unless this unit is Staggered or Part Broken, take only half of Critical Damage.
+985||Pasywka wroga [837501] — nazwa] 카르밀라|Carmilla
+986||Pasywka wroga [837501] — opis] 턴 시작 시, 무작위 적 1명의 최대 체력 5%만큼 고정 피해를 입힘.|Turn Start: to a random enemy, deal fixed damage equal to 5% of their HP.
+987||Pasywka wroga [837502] — nazwa] 한 방울의 양분|A Drop of Nourishment
+988||Pasywka wroga [837502] — opis] 공격 종료 시 자신의 공격 스킬로 입힌 피해량의 절반만큼 본체, 부위 체력 회복\n- 자신의 체력이 100%라면, 다음 턴에 [AttackUp] 2 얻음. (최대 2회)\n회복한 체력 비율에 따라 다음의 효과를 누적으로 받음\n- 수치 1 이상: 매 턴 시작 시 방어 레벨 증가 3 얻음\n- 수치 2 이상: 매 턴 시작 시 [AttackUp] 3 얻음\n- 수치 3 이상: 매 턴 시작 시 속도 최솟값 +2, 최댓값 +2\n- 수치 5 이상: 매 턴 시작 시 [Enhancement] 3 얻음|Attack End: Heal Core and Part equal to 50% of the damage this unit dealt with its Attack Skill\n- At 100% HP, gain 2 [AttackUp] next turn. (2 times max)\nBased on the percentage of HP healed, gain the following effects (cumulative)\n- At 1+ Stack: Gain 3 Defense Level Up at every Turn Start\n- At 2+ Stack: Gain 3 [AttackUp] at every Turn Start\n- At 3+ Stack: Gain +2 Min & Max Speed\n- At 5+ Stack: Gain 3 [Enhancement] at every Turn Start
+989||Pasywka wroga [837503] — nazwa] 옭아매는 한 송이|A Single Strangling Flower
+990||Pasywka wroga [837503] — opis] 공격 종료 시 [TinyCarmilla] 1을 부여함\n[Laceration]이 있는 대상일 경우, 공격 종료 시 [TinyCarmilla] 1 추가 부여|Attack End: Inflict 1 [TinyCarmilla]\nIf the target has [Laceration], inflict 1 additional [TinyCarmilla] at Attack End
+992||Pasywka wroga [837601] — opis] 공격 직전 대상에게 [Burst]이 있으면, 20%확률로 [Burst] 횟수 1 증가\n대상에게 [ThornNoose]를 부여할 때, 가시 올가미를 생성함.|If the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count\nWhen inflicting [ThornNoose], generate a 'Barbed Lasso' Unit.

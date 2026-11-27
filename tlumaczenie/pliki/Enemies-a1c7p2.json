@@ -1,0 +1,220 @@
+{
+  "entries": {
+    "dataList[id=8381].desc": {
+      "pl": "Boss",
+      "kr_sha256": "031bf95933a4931cb8a6db4a98487adab6a7a88508872a3bd5f061b972ea0876",
+      "en_sha256": "6a6ac8386005b00f2af86a300f1ae811527b9d979db505e11ae7c5b85fa679c3",
+      "origin": "ai"
+    },
+    "dataList[id=8381].name": {
+      "pl": "Dulcinea",
+      "kr_sha256": "190b14ffc8cd4a0e8b6d65d8504f307dbbb2a7faed042fbc70895acb3b510f09",
+      "en_sha256": "78474db06a14d99d2e9705de9b559c2e517146a1a6c8e81764c2e3ebddc78f51",
+      "origin": "ai"
+    },
+    "dataList[id=8382].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8382].name": {
+      "pl": "Disgraced Bloodbag",
+      "kr_sha256": "37f1a26824f1fae5195a978b9c7c8cf474e82d189835f3e0bf8275dc4c32f3f6",
+      "en_sha256": "00ba514a28ab590a7331b6dbe47cfac546883a346be821674a33e2511b08dad6",
+      "origin": "ai"
+    },
+    "dataList[id=8383].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8383].name": {
+      "pl": "Despairing Bloodbag",
+      "kr_sha256": "cbe2be4be0e2f26e16ce0c2b87026e51b268c12f1d19beece3fdefbd9c370c87",
+      "en_sha256": "f7d916424e775048db66f9cb03067e42485c3a1a0ec17559b85ccc147ed61a52",
+      "origin": "ai"
+    },
+    "dataList[id=8384].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8384].name": {
+      "pl": "Bloodbag of the Painful Parade",
+      "kr_sha256": "cdfaf5abb9d838409fbb1d6a96a6669efb82e3375c2d05f66a97904c79d2e120",
+      "en_sha256": "3774b1503fd08e8d0715db545ecd9eddf5ea1d7dde21342701758aa47d20be07",
+      "origin": "ai"
+    },
+    "dataList[id=8385].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8385].name": {
+      "pl": "Bloodbag of the Rear Parade",
+      "kr_sha256": "0c794ce17a46c346f52cbf6f38c5a01eedc6708bef5f7441cc699da8585c9e3f",
+      "en_sha256": "f67f96b5a35bdadbb5566c4a0057de3a087ad7ece2bd82936d3b0ca26828d092",
+      "origin": "ai"
+    },
+    "dataList[id=8386].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8386].name": {
+      "pl": "Bloodfiend of the Happy Parade",
+      "kr_sha256": "205008dbd39cf99a6f53c05d03c7beb2fa552852201dae5a5d3a7fce23385ec8",
+      "en_sha256": "212f30f422975d8d9aa03698c4400972aa655bcb8a057448559cb0087b776480",
+      "origin": "ai"
+    },
+    "dataList[id=8387].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8387].name": {
+      "pl": "Bloodfiend of the Joyful Parade",
+      "kr_sha256": "8e8d55b3d1f9baf81c76bf3e46434059426f0349bd8c4541c7f184276aa4ff33",
+      "en_sha256": "777faac35c2d414e51d21d69aef9d2213f7430217a1dde53dd4dc7d9fa521a4c",
+      "origin": "ai"
+    },
+    "dataList[id=8389].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=8389].name": {
+      "pl": "The Knight of the White Moon",
+      "kr_sha256": "bbf2e0c3b40f53ea4e23ce66d8bbd8b6810cea149a3015a98999c5a04bc00baa",
+      "en_sha256": "0c78453469f9811d965cd0d29af0b49b044e710f49057f0e73e5fa1d9fe0b924",
+      "origin": "ai"
+    },
+    "dataList[id=90158].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90158].name": {
+      "pl": "Disgraced Bloodbag",
+      "kr_sha256": "37f1a26824f1fae5195a978b9c7c8cf474e82d189835f3e0bf8275dc4c32f3f6",
+      "en_sha256": "00ba514a28ab590a7331b6dbe47cfac546883a346be821674a33e2511b08dad6",
+      "origin": "ai"
+    },
+    "dataList[id=90159].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90159].name": {
+      "pl": "Despairing Bloodbag",
+      "kr_sha256": "cbe2be4be0e2f26e16ce0c2b87026e51b268c12f1d19beece3fdefbd9c370c87",
+      "en_sha256": "f7d916424e775048db66f9cb03067e42485c3a1a0ec17559b85ccc147ed61a52",
+      "origin": "ai"
+    },
+    "dataList[id=90169].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90169].name": {
+      "pl": "Eerie Bloodbag",
+      "kr_sha256": "1b03b25d73fad3d5e36253b6173ac58416fc700fdc9a385d0cb2ad06a7c3c13f",
+      "en_sha256": "e3f50811e92a9abb274b16500c62e19a4c14842c6d006e5cfe06f5236b03ea96",
+      "origin": "ai"
+    },
+    "dataList[id=90170].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90170].name": {
+      "pl": "Sinister Bloodbag",
+      "kr_sha256": "39c6d2287b00b9088e6fed2428fe184810a613ca534324a3fcfb02a6f55b4c91",
+      "en_sha256": "3b367aaa20832946513247de2375d864aac20ed8277edfd7641941846efcc800",
+      "origin": "ai"
+    },
+    "dataList[id=90171].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90171].name": {
+      "pl": "\"Ghost\" Bloodfiend of Failed Penitence",
+      "kr_sha256": "3bd52279550b2526b28bc5e8d3ea20d4fb19987fa70b39b93eeb3b27694b884d",
+      "en_sha256": "a92234b7486c1ffdd9dff2a060e4ca28e9cda7437a86675cfebd68b69822e51f",
+      "origin": "ai"
+    },
+    "dataList[id=90172].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90172].name": {
+      "pl": "\"Ghost\" Bloodfiend of Prayers",
+      "kr_sha256": "6150b03dcbbcffe2f12d6dbd7a4fbcbe3ab1654b05a355de703dfb3c6b9ecdaa",
+      "en_sha256": "b9ce22157d116e445269bbfc3ab36f972fadb9e9f6deca4bbd54eba47a517ea3",
+      "origin": "ai"
+    },
+    "dataList[id=90173].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90173].name": {
+      "pl": "Bloodbag of the Painful Parade",
+      "kr_sha256": "cdfaf5abb9d838409fbb1d6a96a6669efb82e3375c2d05f66a97904c79d2e120",
+      "en_sha256": "3774b1503fd08e8d0715db545ecd9eddf5ea1d7dde21342701758aa47d20be07",
+      "origin": "ai"
+    },
+    "dataList[id=90174].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90174].name": {
+      "pl": "Bloodbag of the Rear Parade",
+      "kr_sha256": "0c794ce17a46c346f52cbf6f38c5a01eedc6708bef5f7441cc699da8585c9e3f",
+      "en_sha256": "f67f96b5a35bdadbb5566c4a0057de3a087ad7ece2bd82936d3b0ca26828d092",
+      "origin": "ai"
+    },
+    "dataList[id=90175].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90175].name": {
+      "pl": "Bloodfiend of the Happy Parade",
+      "kr_sha256": "205008dbd39cf99a6f53c05d03c7beb2fa552852201dae5a5d3a7fce23385ec8",
+      "en_sha256": "212f30f422975d8d9aa03698c4400972aa655bcb8a057448559cb0087b776480",
+      "origin": "ai"
+    },
+    "dataList[id=90176].desc": {
+      "pl": "jednostka",
+      "kr_sha256": "2d93b177879b2228947dd547bf0be69c92089491719fa1a07ec4f9a5f512cdab",
+      "en_sha256": "4e545960f1bffc134026127ef92963e136ec84b24bb2a6103c0731a64843a40b",
+      "origin": "ai"
+    },
+    "dataList[id=90176].name": {
+      "pl": "Bloodfiend of the Joyful Parade",
+      "kr_sha256": "8e8d55b3d1f9baf81c76bf3e46434059426f0349bd8c4541c7f184276aa4ff33",
+      "en_sha256": "777faac35c2d414e51d21d69aef9d2213f7430217a1dde53dd4dc7d9fa521a4c",
+      "origin": "ai"
+    }
+  }
+}

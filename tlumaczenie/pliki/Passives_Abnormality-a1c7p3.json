@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=837301].desc": {
+      "pl": "o ile ta jednostka nie jest w Oszołamieniu i nie ma zniszczonej Części, otrzymuje o 50% mniej obrażeń [Laceration]",
+      "kr_sha256": "f5a9e6bf4d0728afe504d8fa22d7404885dd6bf94524dedb1742050fb1d5be00",
+      "en_sha256": "de772dd385b020978d9e9721e014e0a7aee38afbca15b7578348abf2f77f23d9",
+      "origin": "ai"
+    },
+    "dataList[id=837301].name": {
+      "pl": "Sin Resistance",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=837401].desc": {
+      "pl": "o ile ta jednostka nie jest w Oszołamieniu i nie ma zniszczonej Części, otrzymuje tylko połowę obrażeń krytycznych.",
+      "kr_sha256": "a9a85d2e9229578f91e8efedf968897ff29a01db4e35deee5005df95226c6686",
+      "en_sha256": "599680f25d749eb90fbc4b5d312fc27c0712fd66c7137ae197856e9464cb7604",
+      "origin": "ai"
+    },
+    "dataList[id=837401].name": {
+      "pl": "Sin Resistance",
+      "kr_sha256": "e0225fd2b37545f663453ee8119035b6aeb1af9f54f92436869731c9f2b2d3b4",
+      "en_sha256": "c01eb1c5614f56584aa23d3c868e3685afaf86bf18c1fae202c5477c0424ef9e",
+      "origin": "ai"
+    },
+    "dataList[id=837501].desc": {
+      "pl": "Początek tury: zadaje losowemu wrogowi stałe obrażenia równe 5% jego HP.",
+      "kr_sha256": "bb4b669bcd814ff5b8e2048951c6066ffeb4b98bc8cca990ae134d9ba77a0ef5",
+      "en_sha256": "00b4bc797db929126f9425536d3130d7d1a29bfb070163fd825b32d3d5ebd736",
+      "origin": "ai"
+    },
+    "dataList[id=837501].name": {
+      "pl": "Carmilla",
+      "kr_sha256": "4def94bb54d6554ec5ea25f68823d54c51a92f6a4b446f38fa6ab3dd77c05b50",
+      "en_sha256": "f182695e70cd167766677ff7602948b36a5afea25ef3f924adc7d0a0bfee6655",
+      "origin": "ai"
+    },
+    "dataList[id=837502].desc": {
+      "pl": "po zakończeniu Ataku: przywraca Korpusowi i Części HP równe połowę obrażeń zadanych własnymi Umiejętnościami ataku\n- przy 100% HP zyskuje 2 [AttackUp] w następnej turze. (do 2 razy)\nw zależności od procentu przywróconego HP kumuluje następujące efekty:\n- przy wartości 1+: zyskuje 3 Wzrost Poziomu Obrony na każdym Początku tury\n- przy wartości 2+: zyskuje 3 [AttackUp] na każdym Początku tury\n- przy wartości 3+: Min. i Maks. Szybkość +2\n- przy wartości 5+: zyskuje 3 [Enhancement] na każdym Początku tury",
+      "kr_sha256": "20e8543cc231867164fb4b0a5f64904928b39fed41872f1aeeddbecdbf4baaf8",
+      "en_sha256": "1d6fd21aa0b2131a684a908623a0a5cc6131db89b50119e9af5a2d00338d02c5",
+      "origin": "ai"
+    },
+    "dataList[id=837502].name": {
+      "pl": "A Drop of Nourishment",
+      "kr_sha256": "e5c979217ba811f2c812aa4df96dc9104945e503cf76ba581bc94db9afee0b47",
+      "en_sha256": "1a233930f80e192dc3ff614218943c28344ff346688739bfcc0bf8a02e82fa48",
+      "origin": "ai"
+    },
+    "dataList[id=837503].desc": {
+      "pl": "po zakończeniu Ataku nakłada 1 [TinyCarmilla]\njeżeli cel ma [Laceration], po zakończeniu Ataku nakłada dodatkowo 1 [TinyCarmilla]",
+      "kr_sha256": "a085725357c711cd25020cf8e1adb0dc2ee1b5a0823532f3fe13557cd937d861",
+      "en_sha256": "62cc57f3055b0f9a0648ea40183ccccc63b70cf048b36cb7c231f617e166dd84",
+      "origin": "ai"
+    },
+    "dataList[id=837503].name": {
+      "pl": "A Single Strangling Flower",
+      "kr_sha256": "983aeb67289beaffbd7573e3164acc103323c5131736d7013906f41fa7dda999",
+      "en_sha256": "913c3f9663a84cebce27ec3b0c4483d3eb1465473f33609b227cfdd83cfda31b",
+      "origin": "ai"
+    },
+    "dataList[id=837601].desc": {
+      "pl": "jeżeli cel ma [Burst] bezpośrednio przed atakiem, 20% szans na nałożenie 1 Licznika [Burst]\nprzy nakładaniu [ThornNoose] tworzy jednostkę „Barbed Lasso”.",
+      "kr_sha256": "5b05fd67c8e4b8cc6040ef6f05057082576297edc0465a1e8be7c8adeaacb160",
+      "en_sha256": "4b598254a57e2510645dd88c99de73e3eb57ba63db2c061da28f56edf57da9c9",
+      "origin": "ai"
+    },
+    "dataList[id=837601].name": {
+      "pl": "Spiked Whip",
+      "kr_sha256": "7e5da44537e72c9656affc8ad440d2d46e028347ba0fff9b3bf1fc5b3bd61099",
+      "en_sha256": "33f595183c965ed504d38a3cbf8d53baad1a4b9b1814fc573c9e9f4e30973699",
+      "origin": "ai"
+    },
+    "dataList[id=837801].desc": {
+      "pl": "Koniec tury: uruchamia własne [Laceration] (do 50; zużywa 1 Licznika [Laceration]). przywraca 50 HP Korpusowi i Części sojuszniczego Bloodfienda z najniższym HP (nie uruchamia się, jeżeli żaden sojusznik nie otrzymał obrażeń)",
+      "kr_sha256": "1382b60d3bf1c5d8a50e675e5cc37061368f10ddeb7c2c45d65baf62d3ce802e",
+      "en_sha256": "a108124dbcc8c1ae354838f52bf6c2eb48abc328ee0c8036938f75671da4011a",
+      "origin": "ai"
+    },
+    "dataList[id=837801].name": {
+      "pl": "Unctio Extrema",
+      "kr_sha256": "29d4990c19009764eee105efe5da7c12c58366f66c7ee473bd3eb0e99b597038",
+      "en_sha256": "7e5dfa18f47baeacbbe45c2f9fb72dea79046d5ff71439035a0e79950c421c84",
+      "origin": "ai"
+    },
+    "dataList[id=837802].desc": {
+      "pl": "Koniec tury: traci 5 SP i przywraca 10 SP sojuszniczemu Bloodfiendowi z najniższym SP (nie uruchamia się, jeżeli nie ma sojuszników z SP)",
+      "kr_sha256": "029160830f721c4d3f6ae2f0a3ecb9fbc2a8b76a00934d4b40e89e2d4e105afc",
+      "en_sha256": "4c5da2f98bf2e2d866a8138647c9bbbb0e053f40666da20eec269054fa80a819",
+      "origin": "ai"
+    },
+    "dataList[id=837802].name": {
+      "pl": "Sacramentum Paenitentiae",
+      "kr_sha256": "8969bd4f1f57e445963dd96fc016d930bbaaade2564c6d6d21087abaa6f731c7",
+      "en_sha256": "cfcab3d225a594a91a10d572af046704f9ae71ecdfa5d7f8c4e53abd8d5f9a43",
+      "origin": "ai"
+    },
+    "dataList[id=837803].desc": {
+      "pl": "przybiera nowe wzorce w zależności od wartości [WornHeart] tej jednostki\nKoniec tury: zyskuje 1 [WornHeart]",
+      "kr_sha256": "b6f5718d4ddfa14dfdb25b50fe34ba0ccbbbd7352ee3901e1ef0303ba8b143a9",
+      "en_sha256": "3b0a05461e9dcc1fd25a9ea9e87bb07942758593fe5412d3a690bed1ac20d77d",
+      "origin": "ai"
+    },
+    "dataList[id=837803].name": {
+      "pl": "Ailing Heart",
+      "kr_sha256": "b57b03bd35b09b0fb0d7065161b62fa11ab30eebd2412e88de7a11185ad22720",
+      "en_sha256": "1f6e2cbf0b9dcb8fa128ff671308cf0637882d05227886045c3a73431456e504",
+      "origin": "ai"
+    },
+    "dataList[id=837804].desc": {
+      "pl": "Początek walki: zyskuje [StarvingPriestTwo]",
+      "kr_sha256": "45476eebdf791dc59a7e2df89a1ee0750a18b40283c46dc75b2e46899211979e",
+      "en_sha256": "c1187521e466b2b331d345bb6cf7ced8616112f81bb08d30e131cbd9fd6a73d8",
+      "origin": "ai"
+    },
+    "dataList[id=837804].name": {
+      "pl": "Starved and Withered",
+      "kr_sha256": "a46d41694db4b8ceec20232ec6c494306e13c9f56636dda277aa3a512cced1c4",
+      "en_sha256": "91687e22a7038a50ebd385a1daf025ad392cef886f4e3ee687c507de2c996fbc",
+      "origin": "ai"
+    },
+    "dataList[id=837805].desc": {
+      "pl": "- przy 10+ [BloodyHand], przekształca je w [BloodyHand_2nd].\n- przy 20+ [BloodyHand_2nd], przekształca je w [BloodyHand_3rd].",
+      "kr_sha256": "e3c13b728f721dba2872888c66c9ac8b80f1e14fcdb44604150820d8b5e44dcc",
+      "en_sha256": "e832fed7dd8d7b04e8f9b3a0c04ea585883cd9d77a605a9daafbfb879c459dc0",
+      "origin": "ai"
+    },
+    "dataList[id=837805].name": {
+      "pl": "Bloodied Hand",
+      "kr_sha256": "952a1b29dba155ef94a3492437f03e583f57ecd905cf04ed519b40e6fc5a3d9d",
+      "en_sha256": "0e50eb6e2cc106e9e3e1e53de70ef24c5fa4394bf862cddab0aee94c740251c0",
+      "origin": "ai"
+    },
+    "dataList[id=837901].desc": {
+      "pl": "Początek tury: jeżeli wszyscy wrogowie mają [AffectionTeddy], używa potężnej Umiejętności",
+      "kr_sha256": "57a1bef83dae430654c89e9b80e43c9cb1f5fbd41cfa4a21383033c933e3de1b",
+      "en_sha256": "bb29945e5a9b90e0e981fa0cd7946c9b1cb2d35a02f332dbff883b8071a3b4b7",
+      "origin": "ai"
+    },
+    "dataList[id=837901].name": {
+      "pl": "The Once-loved Ones",
+      "kr_sha256": "e9d4ca6e439d126c6f97e00d75f015ce8c051546c9e65d2615ee3faa64a86a36",
+      "en_sha256": "11d7983c9515805c41b7dd9977425c60c46cb69042bb77cb92a3536db66c09fb",
+      "origin": "ai"
+    },
+    "dataList[id=837902].desc": {
+      "pl": "przy trafieniu wroga Umiejętnością z jedną Monetą nakłada 3 Siły [Laceration] i 2 [DefenseDown] do końca następnej tury\njeżeli cel ma już [Laceration], zamiast tego nakłada 5 Siły [Laceration]",
+      "kr_sha256": "557c07b40a2ba60b3f0a01d195c2c8544725124e8617af37fa5b1bd6b7ece575",
+      "en_sha256": "e69401b2aae8fe4d5c7651aa0dc6d5931df7feeedf604663152d50efe034af04",
+      "origin": "ai"
+    },
+    "dataList[id=837902].name": {
+      "pl": "Grimy Iron Stake",
+      "kr_sha256": "5c17d1fd01975fadb54ebb6fe65e76cc0a986a69c1b4842e104e03fc4fc471ec",
+      "en_sha256": "534500ad642190fed48b5b5f3938b942bd3278f883eddb4ec2d0a1c77c4b0f18",
+      "origin": "ai"
+    },
+    "dataList[id=837903].desc": {
+      "pl": "jeżeli Oszołamienie nastąpiło przez efekt końca tury „A Sad Embrace”, na Początku następnej tury zyskuje 10 [FaintMemory]",
+      "kr_sha256": "0a28a1a8a1df65cdd92da8ed2218f4935d385f23de49b9fa87db11db9bcdfe0d",
+      "en_sha256": "a21a19b9a54054b440a18c51d413d81246416d0e35f6605fc9dbc49c72fc7e9b",
+      "origin": "ai"
+    },
+    "dataList[id=837903].name": {
+      "pl": "To Remember",
+      "kr_sha256": "16716e8cd818fbf0a552c572c3bd02133450a552fc967299abbf2e8a837092ab",
+      "en_sha256": "662e87d884fbc041c187d20784ac750853df0455aba36e394a890ed48a744e2c",
+      "origin": "ai"
+    },
+    "dataList[id=837904].desc": {
+      "pl": "jeżeli na koniec tury HP wynosi 30% lub mniej: zamiast nakładać 3 [AffectionTeddy] wszystkim wrogom, zyskuje 15 [AttackDown] w następnej turze (1 raz na walkę)",
+      "kr_sha256": "37fd6ea488300d2a175f3766f5f57de99d8df044eec1f04c5c7ef6cf0b2f4e4f",
+      "en_sha256": "6419fe0530f513416df090d75418ce125a49b076ff5d391932acd5c1471af3c9",
+      "origin": "ai"
+    },
+    "dataList[id=837904].name": {
+      "pl": "To Love",
+      "kr_sha256": "407ef0af95a82d68be5979af3c484e1ff97d7f4307e6adc66272555caee2ab14",
+      "en_sha256": "633f3ab2834ec6520793a914e8a9369bea77d0909c76de79bd1d66471c533110",
+      "origin": "ai"
+    },
+    "dataList[id=837905].desc": {
+      "pl": "Moc Bazowa -1 za każde 3 typy negatywnych efektów celu (maks. 3)",
+      "kr_sha256": "6704c223656efb98f1235c5b7d8078f2a56c8ad7e280df5d859477ff4c4aaca4",
+      "en_sha256": "474777be6b617406bcd8efb10fcf26731e1ae5b13467b60481db242dfb23387a",
+      "origin": "ai"
+    },
+    "dataList[id=837905].name": {
+      "pl": "Please Don't be Sick",
+      "kr_sha256": "6391a3d73eac7d0123b632c7474a7c0617b800ef24e5da0afc03cfd7c45f2e7f",
+      "en_sha256": "f8ca4a98f4aa88f6c6995554c9bf3b53928c31496bac9e68890ca100f63413e0",
+      "origin": "ai"
+    }
+  }
+}

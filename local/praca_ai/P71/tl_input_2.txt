@@ -1,0 +1,131 @@
+172||Wróg / część [8381] — nazwa] 돌시네아|Dulcinea
+173||Wróg / część [8381] — opis] 보스|Boss
+174||Wróg / część [90158] — nazwa] 전락한 피주머니|Disgraced Bloodbag
+176||Wróg / część [90159] — nazwa] 절망하는 피주머니|Despairing Bloodbag
+190||Wróg / część [90169] — nazwa] 으스스한 피주머니|Eerie Bloodbag
+192||Wróg / część [90170] — nazwa] 섬뜩한 피주머니|Sinister Bloodbag
+194||Wróg / część [90171] — nazwa] 회개 못한 유령 역할 혈귀|"Ghost" Bloodfiend of Failed Penitence
+196||Wróg / część [90172] — nazwa] 기도하는 유령 역할 혈귀|"Ghost" Bloodfiend of Prayers
+198||Wróg / część [8389] — nazwa] 하얀 달의 기사|The Knight of the White Moon
+200||(ulepszenie 1) — nazwa] 걸음은 우아하게...|Walk With Grace...
+201||(ulepszenie 1) — opis] 흐트러지지 않은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n대상의 [Laceration] 3당 합 위력 +1 (최대 3)|Prioritize an unstaggered ally. If the target is an ally, gain Clash Power +10, and fix the damage to 0 at all times\nClash Power +1 for every 3 [Laceration] on the target (max 3)
+202||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여\n- 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [AttackUp] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]\n- If the target is an ally, replace this effect with 3 [AttackUp] until next turn
+203||(ulepszenie 1) — nazwa] 몸짓은 아름답게...|Move With Beauty...
+205||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가\n- 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [DefenseUp] 3 부여|[OnSucceedAttack] Inflict +3 [Laceration] Count\n- If the target is an ally, replace this effect with 3 [DefenseUp] until next turn
+206||(ulepszenie 1) — nazwa] 관객을 향해 손짓해...|Beckon the Audience Hither...
+207||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 4)\n[WhenUse] [BloodDinner]이 15 미만이면, [Laceration] 15를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[EndSkill] [BloodDinner] 15 소모|[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 4)\n[WhenUse] At less than 15 [BloodDinner], gain 15 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[EndSkill] Consume 15 [BloodDinner]
+208||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 6당 [AttackUp] 1, [DefenseUp] 1 얻음 (각각 최대 3)|[OnSucceedAttack] Gain 1 [AttackUp] and 1 [DefenseUp] for every 6 [Laceration] on the target (max 3 of each)
+210||(ulepszenie 1) — moneta 2, efekt 2 — opis] [WinDuelAttack] [Laceration] 횟수 5 증가|[WinDuelAttack] Inflict +5 [Laceration] Count
+211||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [BloomingThorns] 3 얻음|[OnSucceedAttack] Gain 3 [BloomingThorns]
+212||(ulepszenie 1) — nazwa] 환상의 퍼레이드|Parade of Wonders
+213||(ulepszenie 1) — opis] [CantIdentify]\n메인 타겟은 적, 서브 타겟은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n[WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 25 미만이면, [Laceration] 25를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[EndSkill] [BloodDinner] 25 소모\n[EndBattle] [FestivalFever]를 전부 소모|[CantIdentify]\nPrioritizes enemies for its main target, and prioritizes allies for its sub-targets. If the target is an ally, Clash Power +10 and always fix the damage to 0.\n[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 25 [BloodDinner], gain 25 [Laceration], immediately trigger it once, then lose 1 [Laceration] Count (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume all [FestivalFever]
+214||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [FestivalFever]에 비례하여 다음 턴까지 [AttackUp] 1, [DefenseUp] 1 부여 ([FestivalFever] 3당 1 부여, 각각 최대 3)|[OnSucceedAttack] Inflict 1 [AttackUp] and [DefenseUp] until next turn based on [FestivalFever] (1 per 3 [FestivalFever], max 3 of each)
+216||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가\n- 대상이 아군이면 이 효과를 대신하여 [BloomingThorns] 5 부여|[OnSucceedAttack] Inflict +3 [Laceration] Count\n- If the target is an ally, replace this effect with 5 [BloomingThorns]
+217||(ulepszenie 1) — nazwa] 퍼레이드는 영원히 반복될거야|The Parade Repeats for Eternity
+218||(ulepszenie 1) — opis] [WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 50 미만이면, [Laceration] 25, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[WhenUse] [BloodDinner]을 절반만큼 소모\n[EndBattle] [IncompleteParade]를 전부 소모\n[EndBattle] [FestivalFever] 10 얻음|[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 50 [BloodDinner], gain 25 [Laceration], +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] Gain 10 [FestivalFever]
+219||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 입힌 피해량의 25%만큼 체력 회복|[OnSucceedAttack] Heal by 25% of damage dealt
+222||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 입힌 피해량의 50%만큼 체력 회복|[OnSucceedAttack] Heal by 50% of damage dealt
+223||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [Laceration] 5, [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration] and 5 [Burst]
+224||(ulepszenie 1) — moneta 3, efekt 4 — opis] [EndCoin] 이 스킬로 소모한 [BloodDinner] 10당 [BloomingThorns] 1 얻음 (최대 10)|[EndCoin] Gain 1 [BloomingThorns] for every 10 [BloodDinner] consumed by this Skill (max 10)
+225||(ulepszenie 1) — nazwa] 그걸 반복할 뿐...|And that's all it does...
+226||(ulepszenie 1) — opis] [DuelCounter]\n[WhenUse] 자신의 [FestivalFever]가 5 이상이면 합 위력 +3\n[StartBattle] [BloomingThorns] 5 얻음\n[DefeatDuel] [BloomingThorns] 5 잃음|[DuelCounter]\n[WhenUse] At 5+ [FestivalFever], Clash Power +3\n[StartBattle] Gain 5 [BloomingThorns]\n[DefeatDuel] Lose 5 [BloomingThorns]
+229||(ulepszenie 1) — nazwa] 피날레|The Finale
+230||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 절반만큼 소모\n[WinDuel] 피해량이 (이 스킬로 소모한 [BloodDinner])%만큼 증가 (최대 150%)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 정신력 -45로 감소|[WhenUse] Consume half of [BloodDinner]\n[WinDuel] Deal +([BloodDinner] consumed by this Skill)% damage (max 150%)\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target\n[EndSkill] This unit's SP drops to -45
+232||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+233||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 횟수 6 증가|[OnSucceedAttack] Inflict +6 [Laceration] Count
+235||(ulepszenie 1) — moneta 2, efekt 2 — opis] [WinDuelAttack] [Burst] 6 부여|[WinDuelAttack] Inflict 6 [Burst]
+236||(ulepszenie 1) — moneta 2, efekt 3 — opis] [WinDuelAttack] [Burst] 횟수 6 증가|[WinDuelAttack] Inflict +6 [Burst] Count
+239||(ulepszenie 1) — nazwa] 샘의 용|Dragon of the Spring
+240||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Agility] 2 얻음|[WhenUse] Gain 2 [Agility] next turn
+241||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] Gain 1 [Agility] next turn
+242||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable] next turn
+243||(ulepszenie 1) — nazwa] 가을 연꽃|Lotus in Autumn
+247||(ulepszenie 1) — nazwa] 흐릿한 궤적|Faint Trace
+248||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Agility] 3 얻음|[WhenUse] Gain 3 [Agility] next turn
+250||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [SlashTakeDamageUp] 3 부여|[OnSucceedAttack] Inflict 3 [SlashTakeDamageUp]
+251||(ulepszenie 1) — nazwa] 창백한 궤적|Pallid Trace
+252||(ulepszenie 1) — opis] 대상보다 속도가 5 이상 빠르면, 합 위력 +5|If user's Speed is faster than target's by 5+, Clash Power +5
+254||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 추가 피해 100|[OnSucceedAttack] Deal 100 Bonus Damage
+255||(ulepszenie 1) — nazwa] 붉은살|Red Arwe
+257||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 피해 50|[OnSucceedAttack] Deal 50 Bonus Damage
+259||(ulepszenie 1) — nazwa] 검은살|Blak Arwe
+261||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [MentalCrack] 2 부여|[OnSucceedAttack] Inflict 2 [MentalCrack]
+263||(ulepszenie 1) — nazwa] 물의 거울|Mirror of Water
+264||(ulepszenie 1) — opis] [CanDuelGuard]\n[WhenUse] [Protection] 3 얻음\n[WinDuel] 이 스킬의 마지막 합 위력만큼 체력 피해를 입힘|[CanDuelGuard]\n[WhenUse] Gain 3 [Protection]\n[WinDuel] Deal HP damage equal to the final Clash Power of this Skill
+266||(ulepszenie 1) — nazwa] 전자가속 레일 활성화|Electron Accelerator Rail Activation
+267||(ulepszenie 1) — opis] [StartBattle] 다음 턴에 [Enhancement] 10, [Agility] 10 얻음|[StartBattle] Gain 10 [Enhancement] and [Agility] next turn
+268||(ulepszenie 1) — nazwa] 살|Arwe
+269||(ulepszenie 1) — opis] [WhenUse] [PenetrateDamageUp] 5 얻음|[WhenUse] Gain 5 [PenetrateDamageUp]
+270||(ulepszenie 1) — nazwa] 경혈식 내려치기|Hardblood Slam
+271||(ulepszenie 1) — opis] [WhenUse] 자신에게 [HardenedBlood]이 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 횟수 1 증가|[WhenUse] If this unit has [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well
+274||(ulepszenie 1) — nazwa] 목적 잃은 분노|Aimless Wrath
+275||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신에게 [HardenedBlood]이 3 이상 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 2 부여|[WhenUse] If target has 5+ [Laceration], Coin Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict 2 [Laceration] as well
+279||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상에게 [Laceration]이 있으면, [HardenedBlood] 1 얻음|[OnSucceedAttack] If target has [Laceration], gain 1 [HardenedBlood]
+280||(ulepszenie 1) — nazwa] 무절제한 내려찍기|Unbridled Smite
+281||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1|[WhenUse] If target has 5+ [Laceration], Coin Power +1
+287||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 피해량 +20%|[OnSucceedAttack] If target has 10+ [Laceration], deal +20% damage
+288||(ulepszenie 1) — nazwa] 가드|Guard
+289||(ulepszenie 1) — opis] [WhenUse] 대상에게 [Laceration]이 있다면, [HardenedBlood] 1 얻음|[WhenUse] If target has [Laceration], gain 1 [HardenedBlood]
+293||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Laceration] Count
+295||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신에게 [HardenedBlood]이 3 이상 있고 이 스킬의 코인에 [Burst]을 부여하는 효과가 있으면, 추가로 [Laceration] 1 부여|[WhenUse] If target has 5+ [Laceration], Coin Power +1\n[WhenUse] If this unit has 3+ [HardenedBlood], and if this Skill's Coin effect inflicts [Burst], inflict +1 [Laceration] Count as well
+310||(ulepszenie 1) — nazwa] 경혈식 후려치기|Hardblood Thrash
+311||(ulepszenie 1) — opis] [DefeatDuel] [Laceration] 10, [Laceration] 횟수 1 얻음|[DefeatDuel] Gain 10 [Laceration] and +1 [Laceration] Count
+313||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 10 과 [BloodyHand] 1 얻음|[OnSucceedAttack] Gain 10 [Laceration] and 1 [BloodyHand]
+314||(ulepszenie 1) — nazwa] 경혈식 휘두르기|Hardblood Lash
+315||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 8 이상이면, 피해량 +20%|[WhenUse] If target has 8+ [Laceration], deal +20% damage
+318||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, [HardenedBlood] 1 얻음|[OnSucceedAttack] If target has 6+ [Laceration], gain 1 [HardenedBlood]
+320||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 20과 [BloodyHand] 2 얻음|[OnSucceedAttack] Gain 20 [Laceration] and 2 [BloodyHand]
+321||(ulepszenie 1) — nazwa] 경혈식 강화 타격|Hardblood Strike
+322||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1\n[WhenUse] 이 스킬로 대상에게 [Laceration]을 부여할 때, 자신의 [HardenedBlood] 만큼 [Burst]을 추가로 부여\n[EndSkill] [HardenedBlood], [BloodyHand] 전부 소모|[WhenUse] If target has 6+ [Laceration], Base Power +1\n[WhenUse] When inflicting [Laceration] with this Skill, inflict [Burst] equal to [HardenedBlood] on self as well\n[EndSkill] Consume all [HardenedBlood] and [BloodyHand]
+325||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 (대상의 [Laceration])% 만큼 체력 회복 (최대 20%)|[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)
+327||(ulepszenie 1) — opis] [WhenUse] 자신의 [HardenedBlood] 1 당, 기본 위력 +1|[WhenUse] Base Power +1 for every [HardenedBlood] on self
+328||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] [Laceration] 2 부여|[OnSucceedAttackHead] Inflict 2 [Laceration]
+332||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 10과 [BloodyHand] 1 얻음|[OnSucceedAttack] Gain 10 [Laceration] and 1 [BloodyHand]
+348||(ulepszenie 1) — nazwa] 질문에 답을 해 주세요.|Please answer the survey.
+349||(ulepszenie 1) — opis] [WhenUse] [Laceration] 5, [Laceration] 횟수 1 얻음|[WhenUse] Gain 5 [Laceration] and +1 [Laceration] Count
+352||(ulepszenie 1) — nazwa] 말 끊지 마세요!|Don't! Don't Cut Me Off!
+355||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Laceration] 5 이상이면, [BloodyHand] 1 얻음|[OnSucceedAttack] If target has 5+ [Laceration], gain 1 [BloodyHand]
+356||(ulepszenie 1) — nazwa] 빛바랜 인내|Faded Patience
+357||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10 당 [BloodyHand] 1 얻음\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1|[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodyHand] for every 10 [BloodDinner] consumed\n[WhenUse] If target has 5+ [Laceration], Coin Power +1
+359||(ulepszenie 1) — moneta 2, efekt 1 — opis] [EndSkill] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 10, [BloodyHand] 1 얻음.|[EndSkill] If this unit failed to consume [BloodDinner] with this Skill, gain 10 [Laceration] and 1 [BloodyHand].
+360||(ulepszenie 1) — nazwa] 끝없는 고해|Endless Atonement
+361||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [HardenedBlood] 1 당, 합 위력 +1\n[DefeatDuel] [BloodyHand] 2 감소|[WhenUse] If target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [HardenedBlood] on self\n[DefeatDuel] Lose 2 [BloodyHand]
+364||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [BloodyHand]을 전부 소모하여, 대상의 [Laceration] 횟수 3 증가|[OnSucceedAttack] Consume all [BloodyHand] to inflict +3 [Laceration]
+365||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 자신의 [HardenedBlood]을 모두 소모하여, (소모한 [HardenedBlood] x 3) 만큼 [BloodDinner]이 증가하고, [Laceration] 5 얻음|[OnSucceedAttack] Consume all [HardenedBlood] on self to increase [BloodDinner] by (consumed [HardenedBlood] x 3) and gain 5 [Laceration]
+366||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 최대 체력의 (대상의 [Laceration])% 만큼 체력 회복 (최대 30%)|[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 30%)
+368||(ulepszenie 1) — opis] [WhenUse] [BloodyHand]이 1 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [HardenedBlood]이 3 이상이면, 코인 위력 +1|[WhenUse] At 1+ [BloodyHand], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1
+376||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+392||(ulepszenie 1) — nazwa] 경혈식 내려베기|Hardblood Downward Cut
+393||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +1|[WhenUse] At 5+ [FestivalFever], Final Power +1
+394||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count
+395||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Burst] 2 부여|[OnSucceedAttackHead] Inflict 2 [Burst]
+396||(ulepszenie 1) — nazwa] 경혈식 깎아내기|Hardblood Carve
+397||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 2)\n[WhenUse] [Laceration] 15를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소|[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 15 [Laceration], immediately trigger it once, and reduce [Laceration] Count by 1
+399||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count
+400||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [BloomingThorns] 1 얻음|[OnSucceedAttack] Gain 1 [BloomingThorns]
+401||(ulepszenie 1) — nazwa] 경혈식 강화 펼치기|Hardblood Power Unfurling
+402||(ulepszenie 1) — opis] [WhenUse] [Laceration] 15, [Laceration] 횟수 2를 얻음 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소\n[EndBattle] [HardenedBlood], [FestivalFever] 전부 소모|[WhenUse] Gain 15 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]
+403||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [HardenedBlood]만큼 [Laceration], [Burst] 부여|[OnSucceedAttack] Inflict [Laceration] and [Burst] equal to [HardenedBlood] on self
+404||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 ([FestivalFever] x 2.5)%만큼 체력 회복 (최대 20%)|[OnSucceedAttack] Heal ([FestivalFever] x 2.5)% HP (max 20%)
+405||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [FestivalFever] 2 얻음|[OnSucceedAttack] Gain 2 [FestivalFever]
+406||(ulepszenie 1) — nazwa] 회피|Evade
+407||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +1\n[StartBattle] [FestivalFever] 2 얻음\n[OnDefeatEvade] [FestivalFever] 2 잃음|[WhenUse] At 5+ [FestivalFever], Final Power +1\n[StartBattle] Gain 2 [FestivalFever]\n[OnDefeatEvade] Lose 2 [FestivalFever]
+412||(ulepszenie 1) — nazwa] 경혈식 마구 찌르기|Hardblood Wild Jag
+424||(ulepszenie 1) — nazwa] 환상의 축제로 오세요!|Welcome to the Festival of Wonders!
+425||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever]가 5 이상이면, 최종 위력 +2|[WhenUse] At 5+ [FestivalFever], Final Power +2
+427||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Burst] 3 부여|[OnSucceedAttackHead] Inflict 3 [Burst]
+428||(ulepszenie 1) — nazwa] 즐거운 행렬에 함께 해요!|Join the Joyful Parade!
+429||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 3)\n[WhenUse] [BloodDinner]이 20 미만이면, [Laceration] 20을 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소\n[EndSkill] [BloodDinner] 20 소모|[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 3)\n[WhenUse] At less than 20 [BloodDinner], gain 20 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1\n[EndSkill] Consume 20 [BloodDinner]
+430||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 6당 [HardenedBlood] 1 얻음 (최대 2)|[OnSucceedAttack] Gain 1 [HardenedBlood] for every 6 [Laceration] on the target (max 2)
+432||(ulepszenie 1) — moneta 2, efekt 2 — opis] [WinDuelAttack] [Laceration] 4 부여, [Laceration] 횟수 3 증가|[WinDuelAttack] Inflict 4 [Laceration] and +3 [Laceration] Count
+433||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [BloomingThorns] 2 ~ 3 얻음|[OnSucceedAttack] Gain 2~3 [BloomingThorns]
+434||(ulepszenie 1) — nazwa] 기쁨의 미소를 꽃피워요!|Blossom your Smiles of Joy!
+435||(ulepszenie 1) — opis] [WhenUse] [FestivalFever]가 5 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 합 위력 +1|[WhenUse] At 5+ [FestivalFever], Coin Power +1\n[WhenUse] If target has 6+ [Laceration], Clash Power +1
+437||(ulepszenie 1) — moneta 3, efekt 1 — opis] [WinDuelAttack] [FestivalFever] 2 얻음|[WinDuelAttack] Gain 2 [FestivalFever]
+438||(ulepszenie 1) — nazwa] 영원한 행복의 왕국 라만차랜드!|Eternal Kingdom of Happiness, La Manchaland!
+439||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]이 40 미만이면, [Laceration] 20, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소\n[EndSkill] [BloodDinner] 40 소모\n[EndBattle] [HardenedBlood], [FestivalFever] 전부 소모|[WhenUse] At less than 40 [BloodDinner], gain 20 [Laceration] and +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2\n[EndSkill] Consume 40 [BloodDinner]\n[EndBattle] Consume all [HardenedBlood] and [FestivalFever]
+441||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 최대 체력의 ([FestivalFever] x 4)%만큼 체력 회복 (최대 40%)|[OnSucceedAttack] Heal ([FestivalFever] x 4)% HP (max 40%)
+443||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [BloomingThorns] 5 얻음|[OnSucceedAttack] Gain 5 [BloomingThorns]
+445||(ulepszenie 1) — opis] [WhenUse] 자신의 [FestivalFever]가 5 이상이면 최종 위력 +2\n[StartBattle] [FestivalFever] 3 얻음\n[OnDefeatEvade] [FestivalFever] 3 잃음|[WhenUse] At 5+ [FestivalFever], Final Power +2\n[StartBattle] Gain 3 [FestivalFever]\n[OnDefeatEvade] Lose 3 [FestivalFever]
+448||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 2 [Laceration] and +3 [Laceration] Count
+450||(ulepszenie 1) — nazwa] 모두 발 맞추어 춤을 춰요!|Let's All Match Our Steps, Dance!

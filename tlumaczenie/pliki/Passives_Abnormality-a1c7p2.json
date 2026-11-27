@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=838101].desc": {
+      "pl": "zyskuje 1 [FestivalFever] za każdym razem, gdy efekty Umiejętności nakładają pozytywny Efekt na innych sojuszników (1 raz na typ Efektu)\n\nPoczątek tury: zyskuje [FestivalFever] równe liczbie innych sojuszników (maks. 3)\nKoniec tury: przywraca SP równe własnego [FestivalFever] (nie uruchamia się przy SP równym -45)\n\nKoniec tury: przy 10+ [FestivalFever] używa w następnej turze potężnej Umiejętności (jednak jeżeli aktywny jest efekt „The Parade Repeats for Eternity”, ten efekt się nie uruchamia)",
+      "kr_sha256": "746d85888e9b8ebabbe0d7031702822abe8737c7fc0463ab83e689986164d7d9",
+      "en_sha256": "37ef33f7711ccd8aab2e59cae790707312a2b539b469587df25cb48b06fbf8df",
+      "origin": "ai"
+    },
+    "dataList[id=838101].name": {
+      "pl": "Festival of Wonders",
+      "kr_sha256": "5931896aef3f1ca558225322a4f36c67b0ccfe3cec92e54eef7810d10ab6bbea",
+      "en_sha256": "8f94339e255a28f0c33d32043937ef31b09aa7b172fd5f8b3d114c4842ea4a69",
+      "origin": "ai"
+    },
+    "dataList[id=838102].desc": {
+      "pl": "Początek tury: zyskuje 8 [Protection]\n- za każdą śmierć sojusznika zyskuje o 1 mniej [Protection] na Początku tury\nKoniec tury: jeżeli ta jednostka nie otrzymała obrażeń HP w tej turze, zyskuje 2 [Agility] w następnej turze",
+      "kr_sha256": "c617e7eca88ad0d485c6608dfbdfe4652bd819684316de90c14a670b0b546a3b",
+      "en_sha256": "03a596f56882ff3f7885299b00461f972209cf9f55768f60fa8f378350a0565d",
+      "origin": "ai"
+    },
+    "dataList[id=838102].name": {
+      "pl": "The Parade's Lady",
+      "kr_sha256": "23d4b4102eb7240852be39fb511610043ef1fe26ffc0ff3e90c7cf192e67355e",
+      "en_sha256": "38caa9ace24e37d6a7e1b8506611d3aaedb7730ee70c7c3fc3d937043f8d17aa",
+      "origin": "ai"
+    },
+    "dataList[id=838103].desc": {
+      "pl": "Koniec tury: przy 5+ [IncompleteParade], używa w następnej turze potężnej Umiejętności",
+      "kr_sha256": "f369627aa7e99512940f0afe9a79d2b0987cc20f53df37fe7641460137a8c9aa",
+      "en_sha256": "8305787af7879efc1781696c03f72ed18632a02cfcf9b9532b517e3cf8d7ac06",
+      "origin": "ai"
+    },
+    "dataList[id=838103].name": {
+      "pl": "The Parade Repeats for Eternity",
+      "kr_sha256": "c3fffcd67f2951b103ed01bf8b4c49e7cb5ce56dc2ea069d2d5193d90bb3ebdb",
+      "en_sha256": "11500c344b34eaf0aff14def4af49c57952cc4ca8dba3989ee922af153fdd65a",
+      "origin": "ai"
+    },
+    "dataList[id=838104].desc": {
+      "pl": "przybiera nowy wzorzec, gdy HP tej jednostki po raz pierwszy spada do 66% lub mniej\n\npo zmianie wzorca:\n- Min. i Maks. Szybkość +1\n- zmienia własne [BloomingThorns] w [BloomingThorns_2nd]\n- co turę wszyscy sojusznicy zyskują 3 [FestivalFever] i 3 [BloomingThorns]",
+      "kr_sha256": "13c0b14dcb101bd19caa0e91aa0eb5bb95d9c844fb4983a0d993dc45c66df66b",
+      "en_sha256": "14b268a8bff562d9c7833097acfe90c8f122d0b7fbaf0f107934057a98d0d999",
+      "origin": "ai"
+    },
+    "dataList[id=838104].name": {
+      "pl": "Parade of Happiness",
+      "kr_sha256": "13d78fe2ab17f176c52c1984a28f4518adce32ace75560cac1f8eb4e1f466f83",
+      "en_sha256": "9f7518436134123f1cc15d84af49dbfc23e36fa241553e38313834742d384c84",
+      "origin": "ai"
+    },
+    "dataList[id=838105].desc": {
+      "pl": "przybiera nowy wzorzec, gdy HP tej jednostki po raz pierwszy spada do 33% lub mniej\n\npo zmianie wzorca:\n- Min. i Maks. Szybkość +2\n- używa potężnej Umiejętności, po czym Osłabia Odporność na Cięcia, Przebicie i Uderzenie (+0.5)\n- zmienia własne [BloomingThorns] i [BloomingThorns_2nd] w [BloomingThorns_3rd]\n- co turę wszyscy sojusznicy zyskują 5 [FestivalFever] i 5 [BloomingThorns]",
+      "kr_sha256": "e60f37535ff71184beb2f654838f5bf0437c13eb2de21952b476ff61025fca97",
+      "en_sha256": "020b20a0aebc0fa3272061e49fac6cd4447186b243acf24c0374d595b3d1d69c",
+      "origin": "ai"
+    },
+    "dataList[id=838105].name": {
+      "pl": "Eternal Parade of Happiness",
+      "kr_sha256": "c1e18d8ca3e04a5e2b45f0aacbf0a02a72ac9a50ad29ae5a6e88dce03cbcd9b4",
+      "en_sha256": "e8e47426918e150b0f57c7e5bd4ba37a364d48cdfa7df652582ad48e5b36917d",
+      "origin": "ai"
+    },
+    "dataList[id=838106].desc": {
+      "pl": "Koniec tury: jeżeli nie ma żyjących sojuszników ani sojuszników rezerwowych, w następnej turze zużywa całe [FestivalFever] i [IncompleteParade] i przechodzi w Oszołamienie (uruchamia się natychmiast, jeżeli na Początku tury nie ma żyjących sojuszników)\n\nw turze po Oszołamieniu przywołuje 2 Kindred Bloodfiends",
+      "kr_sha256": "8c7b69d51d5bd0ad967d10e12f2c1970d102719ba576a49a9a1bbf97cc4039bf",
+      "en_sha256": "1961969a2a4f518d168ad0e2b943acfb2d09ad50f01b994f5392e16473a2fd6b",
+      "origin": "ai"
+    },
+    "dataList[id=838106].name": {
+      "pl": "This isn't how it ends",
+      "kr_sha256": "3703fa1627eec952a3fa3261c69e3853e7c743c02c132f7b52acfe7fc1c7ad5d",
+      "en_sha256": "4405a71a02040a30753025fb3b556f9075c7e279f52f86aca8237aa30c167b79",
+      "origin": "ai"
+    },
+    "dataList[id=838107].desc": {
+      "pl": "jeżeli ta jednostka jest na polu bitwy lub znajduje się na liście wrogów mogących się pojawić w tej walce, od 1. tury [BloodDinner] rośnie o łączną wartość obrażeń [Laceration] otrzymanych przez wszystkie jednostki. gdy ta jednostka pojawia się na polu bitwy, uśpiona krew przesiąkająca pole bitwy wypełnia powierzchnię.",
+      "kr_sha256": "21fce2c5e1f3573d7f6268b9be8e3adcd28c35326892c9aa9a2dc63e56dd2a9f",
+      "en_sha256": "1530af6f07e71928401e85b051a18577547fad71b0d7c6b8731c25a6b6567ba4",
+      "origin": "ai"
+    },
+    "dataList[id=838107].name": {
+      "pl": "Bloodfeast",
+      "kr_sha256": "f5700dcc78928782572f472a62c7e0593254d34c4f4fff89ceaf59d0571c5411",
+      "en_sha256": "cf9136a9b13a7e14df15e39eae75ce74e860e431241fa8fe1a80bc223afb7591",
+      "origin": "ai"
+    },
+    "dataList[id=838108].desc": {
+      "pl": "Początek walki: zyskuje [StarvingDolcineaOne]",
+      "kr_sha256": "0576de2331bfa4901910b2f3709efa46e89ce3caa80c4d1782cde70a38919b66",
+      "en_sha256": "d1ff849e0f07a5a69b59874ca393035d0d7c2e5629ffab66fa083962a447de8f",
+      "origin": "ai"
+    },
+    "dataList[id=838108].name": {
+      "pl": "Starved and Withered",
+      "kr_sha256": "a46d41694db4b8ceec20232ec6c494306e13c9f56636dda277aa3a512cced1c4",
+      "en_sha256": "91687e22a7038a50ebd385a1daf025ad392cef886f4e3ee687c507de2c996fbc",
+      "origin": "ai"
+    },
+    "dataList[id=838901].desc": {
+      "pl": "otrzymuje o 20% mniej obrażeń\npo przegranej w Starciu zyskuje 3 [Enhancement]",
+      "kr_sha256": "6b8df2443b133cf3d7b0464a591dd7745705570de8758827c735a984d1b8bdb1",
+      "en_sha256": "9b4b1b44bdacc4a9c95746fbcd55c7a44d7085f44ffacff66634e2867c8070ee",
+      "origin": "ai"
+    },
+    "dataList[id=838901].name": {
+      "pl": "The Knight of the White Moon",
+      "kr_sha256": "bbf2e0c3b40f53ea4e23ce66d8bbd8b6810cea149a3015a98999c5a04bc00baa",
+      "en_sha256": "0c78453469f9811d965cd0d29af0b49b044e710f49057f0e73e5fa1d9fe0b924",
+      "origin": "ai"
+    },
+    "dataList[id=838902].desc": {
+      "pl": "po 10+ Starciach z tym samym wrogiem, podczas rozstrzygania Starcia Moc Starcia losowo rośnie lub maleje o (Liczba Starć / 10). (zaokrąglone w dół)",
+      "kr_sha256": "3786547b541261936a0280bef55cdf435a0004722c03e5006c1c08a97fc04f7f",
+      "en_sha256": "7e54873559590597db6a15d98dc88f22fd4383a87bc68d5d0ad63ff38b24b472",
+      "origin": "ai"
+    },
+    "dataList[id=838902].name": {
+      "pl": "A Close Match",
+      "kr_sha256": "139ec5e086755e9129773be9c6168dba50330367d14d510e8e796af92788bab9",
+      "en_sha256": "ce99d9ed9bc80d21a5467796b54021d2395df913fc2596ac863295645111c64d",
+      "origin": "ai"
+    }
+  }
+}
