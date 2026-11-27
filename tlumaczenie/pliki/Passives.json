@@ -5267,6 +5267,660 @@
       "kr_sha256": "1adc2ba4508a8f5100ae9dfbeed24ed580ae4654c45da76ad646a9c17504efa5",
       "en_sha256": "b8966c319a3ad441c48d1075fa6f5e0a3d20d96a36c7a21b49415695186d6b27",
       "origin": "ai"
+    },
+    "dataList[id=1080101].desc": {
+      "pl": "Przy HP poniżej 25% zyskuje Moc Starcia +1 w starciu",
+      "kr_sha256": "db647efadf529304cd8e092d2d54eab30fd57dd52ef46dd5fa4a1e65dc9ca9f9",
+      "en_sha256": "f1d1a75888562ca7afaa9a1b030b01c843e2c59cd5945173dc2561242c8a3c60",
+      "origin": "ai"
+    },
+    "dataList[id=1080101].name": {
+      "pl": "Ostatnie Zrywy",
+      "kr_sha256": "5b8ccbebe952e051896405353f1be4bf098a2d906abccc5dd5fba13696b0919c",
+      "en_sha256": "1c0ae79ec2794fdbe445970ad4735e299d332da182faa8828b8b2f3bcc5d81a3",
+      "origin": "ai"
+    },
+    "dataList[id=1080121].desc": {
+      "pl": "Sojusznik z najniższym HP poniżej 50% Maks. HP zyskuje Moc Starcia +1 w starciu",
+      "kr_sha256": "03438ade139f034b855936a4a80671a3aa4907297cc1181050bdf939da043784",
+      "en_sha256": "260397f898d616900361e5a3ed2cf92bc32dbed51a90d59604bf36834fe378f0",
+      "origin": "ai"
+    },
+    "dataList[id=1080121].name": {
+      "pl": "Postanowienie Przetrwania",
+      "kr_sha256": "c76b7b3bcee64630c7a9b3b994d8eff05b4e42610bdd087faaf929bd11cebbb9",
+      "en_sha256": "fa21084ed67d162afaa00873ceb26a9b23024c42183a8cf5a60c18c3728ad52e",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].desc": {
+      "pl": "Na początku walki traci 15 Poczytalności.\nNa początku następnej tury zyskuje Wzrost Mocy Ataku równy (Rezonans Posępności/3)",
+      "kr_sha256": "507762f30c272eb5fda8db7fc0bb58b9c33f37730d7bdec450ea600ac7aaa966",
+      "en_sha256": "3f8278aa1edc9423e39b182985fc89b37da16b268ee082862801dc2126f48915",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].name": {
+      "pl": "Skupienie Fal Mózgowych",
+      "kr_sha256": "ad683350d73d26706cca35f487f9f3ad79d2b491032f1eb0aff8ed66978e4c11",
+      "en_sha256": "2e11a343ea3adb4c53f7c654f09e90d0ad5a5ca0259ee04b127b03f8aa0f5f07",
+      "origin": "ai"
+    },
+    "dataList[id=1080221].desc": {
+      "pl": "1 Sojusznik z najniższą Poczytalnością zadaje +10% obrażeń Uderzenia.",
+      "kr_sha256": "0cec3fcaa764c4938cb3a1f7aaf49cd9388a93cc58963c07a08332080c8af367",
+      "en_sha256": "df41ac6f0c6c60b23b55e22568a6aa8a7bded9622a3f0584150c4702613a4148",
+      "origin": "ai"
+    },
+    "dataList[id=1080221].name": {
+      "pl": "Upór",
+      "kr_sha256": "08874b55f09a2d9404455cb63fbed5e3a471a4c19feb048f4e91781d5a94ac04",
+      "en_sha256": "89c3077044084ce092f99b47052a9e69591ea497b6da11c61d8cadabd83272ae",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].desc": {
+      "pl": "Przy HP poniżej 50% zyskuje o 1 więcej Oddechu z efektów Umiejętności",
+      "kr_sha256": "0f530dbe074eaca35af0db652016099d80df612cd2c226d89860150c64e2b315",
+      "en_sha256": "cdd0419038a190ff1ba03ad84fed24187c6945d4528fc10c8ac70eb9c691f659",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].name": {
+      "pl": "Balansowanie na Linii Śmierci",
+      "kr_sha256": "4c3726706783f219893d6b5686e772c1deee96d0280f8cea3ce3574813fd1621",
+      "en_sha256": "3ac4589bdcf47123a3cc5fb70ec3eb4714cf8eed96677272c9807675dbb1782d",
+      "origin": "ai"
+    },
+    "dataList[id=1080321].desc": {
+      "pl": "1 Sojusznik z najniższym HP: Moc Końcowa Umiejętności Kontry +2",
+      "kr_sha256": "a8a4602aa83954cbdc1faef8aca3145c10c501b965f24960055cdf94001df4d7",
+      "en_sha256": "64d4f4db0593dec288b014a18cd4fb2acdc34cb55a7119039a60a0fd0cf12ebc",
+      "origin": "ai"
+    },
+    "dataList[id=1080321].name": {
+      "pl": "Zmagania",
+      "kr_sha256": "9e67acc28365b9b3ed73b898ea25ab84d52f3c8a9d43470ba9d205a9c2eddd6d",
+      "en_sha256": "9c9dd476e1eb5704f4021f7f33a4bf91d703d0530628d7fe6747b668d96255b4",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].desc": {
+      "pl": "Po wygranej w starciu każde trafienie nakłada 1 Wstrząsu",
+      "kr_sha256": "701397e8a0adbac16c38f9ab68e6004441108c3047cfd9bec970d0a5f6dc4f3a",
+      "en_sha256": "aa51f1a8bc43eececf3ca534cf5a6df077b3a446f4f03bbefde021f649f01c0f",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].name": {
+      "pl": "Wyczuwanie Słabości",
+      "kr_sha256": "adb9c70faa07806d9c0a477bc2c63ba54f670e526b57d209d7636f8752d16218",
+      "en_sha256": "642cb108ac0a497f07fc8701c2cc82bc55765d951b91abcc1b9db8d928ee4bb7",
+      "origin": "ai"
+    },
+    "dataList[id=1080421].desc": {
+      "pl": "1 Sojusznik z najniższą Szybkością: Moc Końcowa Umiejętności Gardy +2",
+      "kr_sha256": "3671e73a5506183bdf9b64186919f71c9b9d0366668d21da24934730a2dbe928",
+      "en_sha256": "4ea81c11aa01f5be852d3d6ff9f6dcf921015886884a8ad6f6515eaeb42b68ed",
+      "origin": "ai"
+    },
+    "dataList[id=1080421].name": {
+      "pl": "Zgodnie z Instrukcją",
+      "kr_sha256": "b0ccd93e2d16c96d09d556466b7a3247c8a9d630794863651958b0c80cdd9e6f",
+      "en_sha256": "9eadb6f2c2177b06377e34fb53689ecd97a3355e2f22102caa162e02fda3d4b5",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].desc": {
+      "pl": "Jeżeli w turze nie zada obrażeń HP Umiejętnością ataku, zyskuje w następnej turze Tarczę równą 5% Maks. HP (maks. 30)",
+      "kr_sha256": "7c507706f7408589985a197fb768e67b1efbc9be9432afed5a06b3ee4bf526f3",
+      "en_sha256": "4f6f52a1769b2ae5a4976cc08c593adafd3dc0279c38e652d7640bec3603762c",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].name": {
+      "pl": "Nabierający Płyn",
+      "kr_sha256": "9e774f3028fc8f7b6c04a9a9fbfba47ada6fb8972ad25b219476c22e8c1740ab",
+      "en_sha256": "5a6f1b2077d473b57e82bae1d3f7f1b2987f0e4bbeedfbd2338e9bb8fab0bb5f",
+      "origin": "ai"
+    },
+    "dataList[id=1080521].desc": {
+      "pl": "Gdy 1 Sojusznik z najwyższą Szybkością wywołuje [VibrationExplosion], nakłada 2 Rozdarcia",
+      "kr_sha256": "3806fdfa594b66196e03537460b1807c36c49db55c890e40035041609f7c3f01",
+      "en_sha256": "a212013a6eeb93ec852963bda1ba3352e9a5270c4f42970cfa6786a648ace0be",
+      "origin": "ai"
+    },
+    "dataList[id=1080521].name": {
+      "pl": "Żrący Śluz",
+      "kr_sha256": "db502348db12cb8829066ab3af7e358521ae49fd5ac5fe1f2a6fc1abaccafe3a",
+      "en_sha256": "fd0e95c80f3d9040f5830ad6d1768c5ee5febd43feca2c3e8df497fb3e785da5",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].desc": {
+      "pl": "Zadaje +10% obrażeń Uderzenia za każde 3 Licznika Podpalenia celu (maks. 30%)",
+      "kr_sha256": "6a911986ac7ec93282871438a354014e5ee21ba07b42948cad48f15ba279bda5",
+      "en_sha256": "dc6080afa1c8d79e869167b5c77d55534b3b039e9ab2e9c76d0072a0121d1d3d",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].name": {
+      "pl": "Gwałtowny Żar",
+      "kr_sha256": "87f9fc32863ea54fa257f426bd50d1b92cd82f7fdbdef9d7cbba8f7234431f53",
+      "en_sha256": "71911b47d5db66846fc0c1485318ecd199c1bcb6e3c412418b6633ccdcb6795d",
+      "origin": "ai"
+    },
+    "dataList[id=1080621].desc": {
+      "pl": "1 Sojusznik z najniższą Szybkością zadaje +5% obrażeń Uderzenia za każde 3 Licznika Podpalenia celu (maks. 15%)",
+      "kr_sha256": "de1f7ccf02024d85ee83477c6d7324574baf8bd12266e8298983958665ef6a56",
+      "en_sha256": "6cb132ed7f25921681555c2673cf510d82e47b84bdee5a96027e169afc88e2b0",
+      "origin": "ai"
+    },
+    "dataList[id=1080621].name": {
+      "pl": "Gwałtowny Żar",
+      "kr_sha256": "87f9fc32863ea54fa257f426bd50d1b92cd82f7fdbdef9d7cbba8f7234431f53",
+      "en_sha256": "71911b47d5db66846fc0c1485318ecd199c1bcb6e3c412418b6633ccdcb6795d",
+      "origin": "ai"
+    },
+    "dataList[id=1080701].desc": {
+      "pl": "Przy trafieniu celu z [Vibration] nakłada +1 Licznika Zatonięcia",
+      "kr_sha256": "7bad852219c73b142f197cec7c607d7117025b38816a30c2efd5bcd2b5d58bf7",
+      "en_sha256": "ed1b3d79a9ca9985efb72b6890ccf0adbdb5148557fd44a392652ff07a123a6c",
+      "origin": "ai"
+    },
+    "dataList[id=1080701].name": {
+      "pl": "Miażdżące Kraby",
+      "kr_sha256": "d9b1e9cd4db19bd17690c6f25f5ad2e3d6b7a75018710dcf7c902cfaad137bc7",
+      "en_sha256": "88163cd4c15bb9aaaf068d9313b9feedbdb19e63de455dcee38f8d302054cf6b",
+      "origin": "ai"
+    },
+    "dataList[id=1080721].desc": {
+      "pl": "Gdy Sojusznik z najniższym Maks. HP trafi awersem i efektem monety nakłada Licznik Wstrząsu wrogowi, nakłada dodatkowo 1 Licznika Zatonięcia",
+      "kr_sha256": "ba1852c5f614220678597fb9b4c3941cd75003279f65f7d438a36e5cb4efa603",
+      "en_sha256": "362ec8aeb8ff85e14a21b46c9cb6bf1ca848cd734279a3458e540833cfc8d3fe",
+      "origin": "ai"
+    },
+    "dataList[id=1080721].name": {
+      "pl": "Atak Kraba",
+      "kr_sha256": "2d88ba755a04f063014d3c9a231858534e50a22c9c6b2fc880a0c3f393a645b6",
+      "en_sha256": "22a46dd4ba33ed0f6fa5d29addc721c679273a8511e788ba5a6e2894e47d5793",
+      "origin": "ai"
+    },
+    "dataList[id=1080801].desc": {
+      "pl": "Na koniec ataku, jeżeli cel ginie:\n- W następnej turze wchodzi w stan [HeatedGasHarpoon].\n- 1 Sojusznik z najniższą Poczytalnością (poza tą jednostką) odzyskuje 7 Poczytalności.\n- Jeżeli cel jest z Pequod, dodatkowo odzyskuje 5 Poczytalności.",
+      "kr_sha256": "2ba56bbdce7dfaaf95c33bd82cd4e977f547332d6a0c755ad034e5de1d9b5c3a",
+      "en_sha256": "4bdfa720ed2ec582d9097fe34201a6f037d4bce873db81a5ad6466663d480c6a",
+      "origin": "ai"
+    },
+    "dataList[id=1080801].name": {
+      "pl": "Kapitan Pequod",
+      "kr_sha256": "9923fa559ef55c49ceda61c8efa7fbc4d038ddc8baa90437f214779d91d79f7c",
+      "en_sha256": "fc582cfd2fc6d28a1be816fe03bbfa59537a1567cf66d4fc9a6b292b4480f6f6",
+      "origin": "ai"
+    },
+    "dataList[id=1080802].desc": {
+      "pl": "Jeżeli cel to <Istota z Jeziora>, zadaje +10% obrażeń",
+      "kr_sha256": "8776fe3535c089c29f036289707bd90005d80b240545baf02b24628059cdbf74",
+      "en_sha256": "d5369c96a0965c08fd841c1a896a3143ee48e7aaedb87fed166dce03eb871e99",
+      "origin": "ai"
+    },
+    "dataList[id=1080802].name": {
+      "pl": "Czas Polowania",
+      "kr_sha256": "cd048aa740b0592e062e8781f80ac740f70dbe80db5ed830f786973d315903f7",
+      "en_sha256": "4680d540d6fabde799661537139b2e6782af975b9f1f3863b3f6cc7705746269",
+      "origin": "ai"
+    },
+    "dataList[id=1080811].desc": {
+      "pl": "Na koniec ataku, jeżeli cel ginie:\n<style=\"highlight\">- Zyskuje 4 Oddechu i +2 Licznika Oddechu, a w następnej turze wchodzi w stan [OverHeatedGasHarpoon].</style>\n- <style=\"highlight\">2 Sojuszników z najniższą Poczytalnością odzyskuje 7 Poczytalności i zyskuje 4 Oddechu.</style> (poza tą jednostką)\n- Jeżeli cel jest z Pequod, dodatkowo odzyskuje 5 Poczytalności, <style=\"highlight\">a w następnej turze 1 raz na turę nakłada 1 Wzrost Mocy Przebicia</style>.",
+      "kr_sha256": "9e439023848e56e471f31f3440522ef4f1aa99ae13b0dde17bc388cc06f116e7",
+      "en_sha256": "72b260f5c1638128e9a670da96da63f0cff58eba2fb7c2c9c9f9e8512d2b67c4",
+      "origin": "ai"
+    },
+    "dataList[id=1080811].name": {
+      "pl": "Kapitan Pequod",
+      "kr_sha256": "9923fa559ef55c49ceda61c8efa7fbc4d038ddc8baa90437f214779d91d79f7c",
+      "en_sha256": "fc582cfd2fc6d28a1be816fe03bbfa59537a1567cf66d4fc9a6b292b4480f6f6",
+      "origin": "ai"
+    },
+    "dataList[id=1080821].desc": {
+      "pl": "Gdy 1 Sojusznik z najwyższą Poczytalnością zabił cel swoim atakiem, zyskuje 2 Oddechu (2 razy na turę)",
+      "kr_sha256": "9188f81b1b81192237a1c95878aa0d115fc8a76a0dc876cd370fbdcd3a894e05",
+      "en_sha256": "48088c4a6554eaf77f93a21e23cb8c6444dabef9950cebd2ae3d36179e487e20",
+      "origin": "ai"
+    },
+    "dataList[id=1080821].name": {
+      "pl": "Rozkazy Kapitana",
+      "kr_sha256": "305cf78f83744d874e9d0c1a1ce652a13dbbc3e7a97d2f5d4b57859a1e29b5d7",
+      "en_sha256": "5ce0a08d3450c334dbec5f830cdf4aac21924c0c1158976442e10ed9ec94d5bf",
+      "origin": "ai"
+    },
+    "dataList[id=1080831].desc": {
+      "pl": "Gdy 1 Sojusznik z najwyższą Poczytalnością zabił cel swoim atakiem, zyskuje 2 Oddechu i <style=\"highlight\">+2 Licznika Oddechu</style> (2 razy na turę)",
+      "kr_sha256": "d1f6caa97e0955bfc42a3f3bd09a5e816380ea4dd192d8bab39ce7ec90e89858",
+      "en_sha256": "b918d824f315235e196033d5867e62c016fcf30f597a03e567d7510b0f3ab5dc",
+      "origin": "ai"
+    },
+    "dataList[id=1080831].name": {
+      "pl": "Rozkazy Kapitana",
+      "kr_sha256": "305cf78f83744d874e9d0c1a1ce652a13dbbc3e7a97d2f5d4b57859a1e29b5d7",
+      "en_sha256": "5ce0a08d3450c334dbec5f830cdf4aac21924c0c1158976442e10ed9ec94d5bf",
+      "origin": "ai"
+    },
+    "dataList[id=1080901].desc": {
+      "pl": "Przy trafieniu krytycznym celu z niższą Szybkością, efekty negatywne nakładane jej Umiejętnościami zyskują +1 Mocy (maks. 3 razy na turę)",
+      "kr_sha256": "1eb041d159fb895764e3694e1161db815c01c78e1f7e1ef6e48cb415e56482ed",
+      "en_sha256": "9dc6a9dc068208b6b3f80bb87993d3fc9cc405490d02ef9ce852f9cc0b928b80",
+      "origin": "ai"
+    },
+    "dataList[id=1080901].name": {
+      "pl": "Głębokie Sprzątanie",
+      "kr_sha256": "ab583328bae614c759def1f8a2ada4feb435fbca13a8b18a3987c59385fed6d4",
+      "en_sha256": "0f2178edd0ba78515d42a0648ac02da90dd6951aebaba2d7802fc83c459b68b5",
+      "origin": "ai"
+    },
+    "dataList[id=1080921].desc": {
+      "pl": "Gdy 1 Sojusznik z najwyższą Szybkością atakuje cel z [Sinking], zadaje +0.5% obrażeń za każde 1 [Sinking] celu (maks. 10%)",
+      "kr_sha256": "9ac081764d0bb8fd7de6677ed69fd255eeb6940ddc315965f8da73002a1f7617",
+      "en_sha256": "9211f5df269549b6f1a3033ca589232d2cf67fef1f397e22b020bdfca6efb607",
+      "origin": "ai"
+    },
+    "dataList[id=1080921].name": {
+      "pl": "Wierny Pomocnik",
+      "kr_sha256": "8f0a23c76c2b89b97590c99dead0bbf44a190b7ede671ba65e74639309313aa4",
+      "en_sha256": "68006cf6f7cf8da60ca039f216e2522d1e578fa270028c40ff3de1f219db3be5",
+      "origin": "ai"
+    },
+    "dataList[id=1080931].desc": {
+      "pl": "Gdy 1 Sojusznik z najwyższą Szybkością atakuje cel z [Sinking], zadaje +1% obrażeń za każde 1 [Sinking] celu (maks. 20%)",
+      "kr_sha256": "1f0e7788bc4b7854e12aa2a3b11441ca989d13b7131a789ab4f3e6904e68e58d",
+      "en_sha256": "4eb09db242f78d65416ca7e7f793435581c690842878b9e79fdae7769ab84dcc",
+      "origin": "ai"
+    },
+    "dataList[id=1080931].name": {
+      "pl": "Wierny Pomocnik",
+      "kr_sha256": "8f0a23c76c2b89b97590c99dead0bbf44a190b7ede671ba65e74639309313aa4",
+      "en_sha256": "68006cf6f7cf8da60ca039f216e2522d1e578fa270028c40ff3de1f219db3be5",
+      "origin": "ai"
+    },
+    "dataList[id=1081001].desc": {
+      "pl": "Na początku walki zyskuje [DefenseUp] równy własnemu Licznikowi [Vibration] (maks. 5)",
+      "kr_sha256": "3a57bdbf65750a9b57200e2a71656537997675b58267058a36f7826cb765693b",
+      "en_sha256": "94eb9ec74e28aefae508e55e016bd6b910ea96c970a6953eddc31ccc1c024b96",
+      "origin": "ai"
+    },
+    "dataList[id=1081001].name": {
+      "pl": "Wielki Miecz Niwelujący Wstrząsy",
+      "kr_sha256": "b51ca64631d36c0dd09b20c42232a28fe0cebd24f341a6191f16ff0de604b27a",
+      "en_sha256": "15a6442ebb193f6b9fff4ebf978889fd6a570fbe2d8403dacdd197ab4180ad61",
+      "origin": "ai"
+    },
+    "dataList[id=1081011].desc": {
+      "pl": "Na początku walki zyskuje [DefenseUp] równy własnemu Licznikowi [Vibration] (maks. 5)\n- Jeżeli jest w [DefensiveStance], [DefenseUp] zyskany powyższym efektem jest podwojony (x2).",
+      "kr_sha256": "121bc2766b766e2d9fa6897884e8f0b51e4f310f841c5818b26f301a11333cfc",
+      "en_sha256": "214d9a03459d4cb7cca8ad47663826500962dc01a88fa11f1df6c4eb08d0a757",
+      "origin": "ai"
+    },
+    "dataList[id=1081011].name": {
+      "pl": "Wielki Miecz Niwelujący Wstrząsy",
+      "kr_sha256": "b51ca64631d36c0dd09b20c42232a28fe0cebd24f341a6191f16ff0de604b27a",
+      "en_sha256": "15a6442ebb193f6b9fff4ebf978889fd6a570fbe2d8403dacdd197ab4180ad61",
+      "origin": "ai"
+    },
+    "dataList[id=1081021].desc": {
+      "pl": "Na początku walki nakłada 2 [DefenseUp] na Tożsamość, której HP najbardziej odbiega od stanu z początku poprzedniej tury",
+      "kr_sha256": "2b820062db7fc7560d026afd984f4973b2a3109fb836d9d5731d423118266f2e",
+      "en_sha256": "8037671e12cf8a42601386bdcdd509fed1ad531830b6b4716059890367f29c6d",
+      "origin": "ai"
+    },
+    "dataList[id=1081021].name": {
+      "pl": "Awaryjna Ochrona",
+      "kr_sha256": "7b439ce799635224e8070c112ebf7a2455e65ffe289c70f1aad09f1a508bfc70",
+      "en_sha256": "1c81369c169c170c598c969e5ccf31d27db436005b1d6d2b293552ccc30e0bff",
+      "origin": "ai"
+    },
+    "dataList[id=1081101].desc": {
+      "pl": "Na początku walki, jeżeli 2 lub więcej Tożsamości Klanu Kurokumo (łącznie z tą jednostką) uczestniczy w walce, zyskuje 1 [BlackCloudBlade]\n\nNa początku walki nakłada 1 [BlackCloud] na Tożsamości Klanu Kurokumo przylegające do tej jednostki na panelu",
+      "kr_sha256": "f4f29c7cf7037551ae2371a458f7c85512a41a42e2a67f622ca7c97879c7b9b4",
+      "en_sha256": "1e6a08329de80d5a4e20b66a594546f69fbe365e5843a14f97b37098673a82c5",
+      "origin": "ai"
+    },
+    "dataList[id=1081101].name": {
+      "pl": "Nadciągające Czarne Chmury",
+      "kr_sha256": "732c1776eb4482a669b4907e5de2a78eb7df21a5c4a4c4e78e594fe06aef0fe8",
+      "en_sha256": "1321bb9f63a1d7724c99a52079f4b519ec24971268b78afc94d969b2374360ba",
+      "origin": "ai"
+    },
+    "dataList[id=1081101].summary": {
+      "pl": "Zyskuje [BlackCloudBlade], nakłada [BlackCloud] na Tożsamości sojuszników Klanu Kurokumo",
+      "kr_sha256": "a897a42a301b5adb4380aee6f0a421e6067c61c6fa0e595259f0613354e60c83",
+      "en_sha256": "54dde011cbc13c1662f8c25cbe6df881e4f81b4a37202454723b3cf232d465f2",
+      "origin": "ai"
+    },
+    "dataList[id=1081102].desc": {
+      "pl": "Gdy sojusznik Klanu Kurokumo ginie, zyskuje 1 [SlashResultUp] w tym spotkaniu\n\nGdy zginie 3 lub więcej sojuszników Klanu Kurokumo, zyskuje [EngageToBattle] w tym spotkaniu",
+      "kr_sha256": "ce4bf3f27c48ce6da9fc5a2eb2efeb28da4d676d41196ff6bacd19226da4bcbc",
+      "en_sha256": "8158cbfad2f850692e7b93f07bc507cb5d94cf69de6651e17b493adef26c8382",
+      "origin": "ai"
+    },
+    "dataList[id=1081102].name": {
+      "pl": "Gotowość Bojowa",
+      "kr_sha256": "a2c9fb78df8bf34e456162822d7f880d4f6c995adf0287a23f2ec1bb02e5a4ae",
+      "en_sha256": "ae37fcfcd0b53181e36372c2c03e866acc61ebd6f7008706b13183934eaf347e",
+      "origin": "ai"
+    },
+    "dataList[id=1081111].desc": {
+      "pl": "Na początku walki, jeżeli 2 lub więcej Tożsamości Klanu Kurokumo (łącznie z tą jednostką) uczestniczy w walce, zyskuje 1 [BlackCloudBlade]\n\nNa początku walki nakłada 1 [BlackCloud] na Tożsamości Klanu Kurokumo przylegające do tej jednostki na panelu\n<style=\"highlight\">- Przy 4+ Rezonansie Żądzy, nakłada 1 [BlackCloud] na wszystkich pozostałych sojuszników Klanu Kurokumo</style>",
+      "kr_sha256": "c03333981d1d82953ef7cba5f0c9b1a337b47e4855c1c61afe8199960c684f33",
+      "en_sha256": "a05b7bd867badf20659154328cad6ac1b031085ea58ef87825f904c5d5dfcc25",
+      "origin": "ai"
+    },
+    "dataList[id=1081111].name": {
+      "pl": "Nadciągające Czarne Chmury",
+      "kr_sha256": "732c1776eb4482a669b4907e5de2a78eb7df21a5c4a4c4e78e594fe06aef0fe8",
+      "en_sha256": "1321bb9f63a1d7724c99a52079f4b519ec24971268b78afc94d969b2374360ba",
+      "origin": "ai"
+    },
+    "dataList[id=1081111].summary": {
+      "pl": "Zyskuje [BlackCloudBlade], nakłada [BlackCloud] na Tożsamości sojuszników Klanu Kurokumo",
+      "kr_sha256": "a897a42a301b5adb4380aee6f0a421e6067c61c6fa0e595259f0613354e60c83",
+      "en_sha256": "54dde011cbc13c1662f8c25cbe6df881e4f81b4a37202454723b3cf232d465f2",
+      "origin": "ai"
+    },
+    "dataList[id=1081121].desc": {
+      "pl": "1 Sojusznik z najwyższą Szybkością nakłada o 1 więcej Mocy lub Licznika [Laceration] efektami Umiejętności i monet wrogom",
+      "kr_sha256": "94231a2621e950566d60eab521c3f46aec40508c8598bc4bb48ecf28cb7f4f4d",
+      "en_sha256": "c2603c06ca0aaf46da6bbfd09fd24765e324439a1923a230fd2c958c9ef1a761",
+      "origin": "ai"
+    },
+    "dataList[id=1081121].name": {
+      "pl": "Ostrze Warsztatu Chmur",
+      "kr_sha256": "8cf2ceb5d8e0775667435cf6f83e7695af615e0358d383c76dc2faad162cea4f",
+      "en_sha256": "cfb662b04d2a90082332a08c1b3f69282c206c029929a983f94a667fd84eea7a",
+      "origin": "ai"
+    },
+    "dataList[id=1081201].desc": {
+      "pl": "Gdy zabija cel Umiejętnością ataku, zyskuje [Breath] równy wartości [Burst] celu (maks. 3 na 1 wroga, maks. 1 raz na turę)\n- Jeżeli zyskał tak 3 [Breath], zwiększa własny Licznik [Breath] o wartość Licznika [Burst] celu (maks. 2 na 1 wroga, maks. 1 raz na turę)\n\nW starciu, jeżeli Poziom Ataku jest wyższy niż wroga prowadzącego starcie, Moc Starcia +1\n\nW starciu, jeżeli Poziom Ataku jest wyższy niż wroga prowadzącego starcie, podstawowe Umiejętności ataku nakładają o 1 więcej Mocy lub Licznika [Burst] (2 razy na turę)",
+      "kr_sha256": "871a7b7ad56bbfd18cdf6a69e376d7faa0e395797a69a0dc3cc366c7477520d5",
+      "en_sha256": "af0d127a60aff80f53890b5ef7a5be814904d74562901b2fa942579afc1bb081",
+      "origin": "ai"
+    },
+    "dataList[id=1081201].name": {
+      "pl": "Rozrywający Oddech [破吸自桓]",
+      "kr_sha256": "665eb694f01dd732963e322dc9f408f9aaf6d40f25cf5c4614c36fb59059e242",
+      "en_sha256": "f4be4bab987fef2bfb04b9c388d55056fa4fc0a5df5ed0da4781900e170d3add",
+      "origin": "ai"
+    },
+    "dataList[id=1081201].summary": {
+      "pl": "W starciu, jeżeli Poziom Ataku jest wyższy niż celu, Moc Starcia +1\nPodstawowe Umiejętności ataku nakładają o 1 więcej Mocy i Licznika [Burst]",
+      "kr_sha256": "d1e1837729ad8a7c7b12aadc7b0b3f116112a77099144e47321a5d289e34c6a1",
+      "en_sha256": "2018fb3bb915a9b95398f04ec8de8e2c5f81c7194dbe862fc06ec007bd603a4b",
+      "origin": "ai"
+    },
+    "dataList[id=1081202].desc": {
+      "pl": "Przy Odwrócie z walki nakłada 1 Wzrost Poziomu Ataku w następnej turze sojusznikom w kolejności przydziału\n- Liczba objętych sojuszników: liczba stosów [StartXichun]\n- Jeżeli objętym sojusznikiem jest jednostka „Rodu Jia”, zamiast tego nakłada 2 Wzrostu Poziomu Ataku w następnej turze\n- Nie dotyczy sojuszników, którzy w następnej turze Powracają albo Wchodzą z rezerwy\n\nW turze Wejścia z rezerwy albo Powrotu zyskuje [WaitingXichun], a na początku walki, jako pierwsza Umiejętność w kolejce, używa „Szkarłatny Cios - Wyrzutnia【始】” na losowym celu",
+      "kr_sha256": "a2d9a74130718af8713fcbd0a1248bd860a47673694b6c85a59b0976f8d26cf7",
+      "en_sha256": "830b7ad173752de59c4cb8da097d14a29ed86ef898bc410a992590fc554427d1",
+      "origin": "ai"
+    },
+    "dataList[id=1081202].name": {
+      "pl": "Manewr Startowy [始動]",
+      "kr_sha256": "6f4d6815475222c3dba307f66cc56a79bc7fab7d3d6fb260e9f28c64e0dce3b6",
+      "en_sha256": "48c6ec838bea387ffcab0e380604bb547c6856f4868c22bbd96b0d0cbd20dc29",
+      "origin": "ai"
+    },
+    "dataList[id=1081202].summary": {
+      "pl": "Na początku walki w turze Wejścia z rezerwy albo Powrotu, jako pierwsza Umiejętność w kolejce, używa \"Szkarłatny Cios - Wyrzutnia(始)\" na losowym celu",
+      "kr_sha256": "469e07ee3fd818f5b2902adcc47124d421fccb6c50d5c88cf17205634474fbc7",
+      "en_sha256": "e5b4012595dcf04122baa498ce35f8e97885a7c8329650bfb8ab5d18f23cd20c",
+      "origin": "ai"
+    },
+    "dataList[id=1081221].desc": {
+      "pl": "Jeżeli ta jednostka ginie podczas walki, nakłada [CheerUpXichun] na początku walki Tożsamości, która Wejdzie z rezerwy w następnej turze (najwcześniej przydzielona jednostka w rezerwie)\n\nW walkach łańcuchowych, gdy ta jednostka jest w rezerwie albo się wycofała, uruchamia poniższy efekt:\nNa początku walki Tożsamość z HP równym 50% Maks. HP lub niższym, która użyła Umiejętności obrony i ma najwcześniejszy przydział, na koniec tury dochodzi z Ogłuszenia od obrażeń i wycofuje się [RetreatForCommon] (2 razy na spotkanie)",
+      "kr_sha256": "2e38ed281719c105553ca7c91c39250f81cfa5d985e22c19afff8a81abdddb57",
+      "en_sha256": "16a7a40d9062f3df2bf1080845a013d513ba6b1623487581f49024c3f76f128d",
+      "origin": "ai"
+    },
+    "dataList[id=1081221].name": {
+      "pl": "Przedłużone Postanowienie [餘桓]",
+      "kr_sha256": "20ba222216d05c32b94fd6b30b572b1822b3710fb67a5cb6a3df0ea19a72f695",
+      "en_sha256": "7a77cb176deb5bac3e92fcbda3f52e4b5caf91c9a55360a5fd053967c0f5310f",
+      "origin": "ai"
+    },
+    "dataList[id=1081221].summary": {
+      "pl": "Na koniec tury wycofuje Tożsamość, która na początku walki ma 50% HP lub mniej i użyła w tej turze Umiejętności obrony",
+      "kr_sha256": "27f462cf47ceacab30e0fc010f5177e0d0a745e5ada32e986fc1fe5278a73740",
+      "en_sha256": "0f96a237d83fc1ce30b099c8ce77241af6d3fe316304b8b0c5115ef136e7936c",
+      "origin": "ai"
+    },
+    "dataList[id=1081301].desc": {
+      "pl": "Przy trafieniu rewersem odzyskuje 5 Poczytalności (1 raz na turę)\nZadaje +10% obrażeń celom w stanie Niskiego Moralu albo Paniki",
+      "kr_sha256": "e5f90c154684899f83107662353cbb350111038fbc1dc07d1cefe5ca0d22bb25",
+      "en_sha256": "669bb4a09316cb6e674d8cc21b5a8318dd90fdd0e60ca26a90452fbbfa9b16c4",
+      "origin": "ai"
+    },
+    "dataList[id=1081301].name": {
+      "pl": "Przekładanie Kart",
+      "kr_sha256": "eed7967863684e860e3a108b349a92cdcde374582661509e6e196052354d294e",
+      "en_sha256": "d196a0c7e863c1fba36e562e2e98e3e22ce6f57d25d30bf828b5cbe886651ba1",
+      "origin": "ai"
+    },
+    "dataList[id=1081301].summary": {
+      "pl": "Odzyskuje Poczytalność\nZadaje więcej obrażeń celom z Niskim Moralami albo w Panice",
+      "kr_sha256": "3bc8c38e24d8670dc91cfbc04f0db966568a8e85ecd877d2dc5721dc996966c5",
+      "en_sha256": "e563197ac25da67587db9293da0af28040bd1c3988456bbd2321656b45044a01",
+      "origin": "ai"
+    },
+    "dataList[id=1081302].desc": {
+      "pl": "Na początku tury, jeżeli nie ma [HanafudaCombo], zyskuje 0 Mocy [HanafudaCombo] i 3 Licznika [HanafudaCombo]\n\nNa początku tury, jeżeli nie ma „koloru”, zyskuje losowy „kolor” ([HanafudaOne], [HanafudaTwo] lub [HanafudaThree]) odpowiadający podstawowej Umiejętności ataku w najbardziej lewym slocie\n\nNa początku walki, przy użyciu podstawowej Umiejętności ataku albo Umiejętności E.G.O wyposażonej w najbardziej lewym slocie, stosuje poniższe efekty (1 raz na turę)\n- W następnej turze zamienia „kolor” na ten odpowiadający atrybutowi użytej Umiejętności\n- Jeżeli Umiejętnością jest „Sakura-sen” albo Umiejętność E.G.O, zyskuje 1 Moc [HanafudaCombo]\n- Jeżeli atrybut Umiejętności zgadza się z „kolorem”, stosuje poniższe efekty:\n  · Zyskuje 1 Moc [HanafudaCombo]\n  · Jeżeli „kolor” pasował też w poprzedniej turze, zyskuje 1 Moc [HanafudaCombo]\n  · Przy trafieniu tą Umiejętnością wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1\n  · 25% szansy na zyskanie 1 zasobu E.G.O atrybutu Umiejętności\n- Na koniec Umiejętności, przy 5 Mocy [HanafudaCombo] albo 0 Licznika [HanafudaCombo], stosuje „Kōzan”",
+      "kr_sha256": "727adc75d05bda0c0befbbf15035e22b0acca6578f37fb7fcabfd6f62cf88523",
+      "en_sha256": "52a7bb0a8b2cad1f6eab304a4c2262152d0e1916c604f9694ca42e51d1e4594a",
+      "origin": "ai"
+    },
+    "dataList[id=1081302].name": {
+      "pl": "Koi-Koi [こいこい]",
+      "kr_sha256": "090937f80f50d044bc33c8acd7265d3a043d95e1535fa2a21214efca66b85837",
+      "en_sha256": "46eb580f7ee773d93518046bf1c0661c46218b05cce43885f6d18fa58111bf87",
+      "origin": "ai"
+    },
+    "dataList[id=1081302].summary": {
+      "pl": "Przy dopasowaniu „koloru” zyskuje [HanafudaCombo]. Wywołuje [VibrationExplosion].",
+      "kr_sha256": "001d9bcdfc0a6c88c8bb658d53549face9b26850c19b7c2101294c3e79d00026",
+      "en_sha256": "2597357f92097b7f1dda1b8a2c31ddee501b78e3f60782e3a2f02c733704e232",
+      "origin": "ai"
+    },
+    "dataList[id=1081321].desc": {
+      "pl": "Na początku walki, gdy 1 Sojusznik z najniższą Poczytalnością trafi awersem podstawową Umiejętnością ataku, odzyskuje 5 Poczytalności (2 razy na turę; bez sojuszników z Poczytalnością -40 lub niższą)",
+      "kr_sha256": "ab472b57f3ef7c7a402607581ff856eb539d1289b14678a00596ca50f7e6a4cb",
+      "en_sha256": "89e52eb503305f9f98149d505992b0795edd52384e58485930f01fef62dca278",
+      "origin": "ai"
+    },
+    "dataList[id=1081321].name": {
+      "pl": "Przekaźnik",
+      "kr_sha256": "dcd4868d159834f4a4690f87e2ed8a9cd2038ccba28e537f9910f2fb48a43c04",
+      "en_sha256": "c226b0485361a7d12f677de5fd6d094fce775723bed9f5cb44000056b45636fc",
+      "origin": "ai"
+    },
+    "dataList[id=1081321].summary": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=1081401].desc": {
+      "pl": "Na koniec tury nakłada [RetaliationBook] na wroga, który w tej turze zadał sojusznikom najwięcej obrażeń Umiejętnościami\n\nZa każdym razem, gdy ta jednostka zostaje trafiona przez wroga, zyskuje 2 [ResentmentIshmael] (2 razy na turę)\nZa każdym razem, gdy sojusznik frakcji Środkowego (poza tą jednostką) zostaje trafiony przez wroga, zyskuje 1 [ResentmentIshmael] (1 raz na turę na Tożsamość)\n\nZa każde zużycie 5 [ResentmentIshmael] zyskuje 1 [ReinforcedTattooIshmael] (2 razy na turę)\n\nNa początku walki, jeżeli nie ma [HeatingWireIshmael], przy 3+ sumie Rezonansów Zazdrości zyskuje 2 [HeatingWireIshmael] w następnej turze\nNa początku walki, jeżeli ma [HeatingWireIshmael], na koniec tury zyskuje [HeatingWireIshmael] równy wartości (suma Rezonansów Zazdrości / 3) (maks. 2)",
+      "kr_sha256": "5d29282a59c9fb9d4937324d7f0f90b006e872e0916277d32e93abad5698de89",
+      "en_sha256": "a17cd3012a6682ebde96a4de5ea18a1894fb003305a90989d3bf4afe8636a8bd",
+      "origin": "ai"
+    },
+    "dataList[id=1081401].name": {
+      "pl": "Środkowy nigdy nie zapomina",
+      "kr_sha256": "a020a5941b81d587413ef681e0678e8039da97e23a4c5442358dffbddcf72bd5",
+      "en_sha256": "e45f1bebaacb57987f1b17c1147524eb69c2c80986a67b097c1659fd3de7a33f",
+      "origin": "ai"
+    },
+    "dataList[id=1081402].desc": {
+      "pl": "Ta Tożsamość traktowana jest jako Tożsamość nakładająca [Combustion] i [Laceration].\nPrzy posiadaniu efektu [HeatingWireIshmael], Umiejętności nakładające [Laceration] traktowane są jako nakładające zarówno [Combustion], jak i [Laceration].",
+      "kr_sha256": "a754661a483cd07bdb6a2258dca9abae8a91d0ab78b2815cedf8b64c4baebc67",
+      "en_sha256": "d9f5194e2188e15e353b93a6ca29bf51d850c87296c1819d4405e5b9b9fa9b0e",
+      "origin": "ai"
+    },
+    "dataList[id=1081402].name": {
+      "pl": "Broń Termiczna",
+      "kr_sha256": "48fa4d2dc95ec7b778b43cd99f98dbbd2d0f9b47a92f976ea46ad1782469a3f4",
+      "en_sha256": "c4cd00c4cd9f0f3438d39ad12ee976ab12c2ddc21d94853dd0d9ea3a73a2070a",
+      "origin": "ai"
+    },
+    "dataList[id=1081411].desc": {
+      "pl": "Na koniec tury nakłada [RetaliationBook] na wroga, który w tej turze zadał sojusznikom najwięcej obrażeń Umiejętnościami\n\nZa każdym razem, gdy ta jednostka zostaje trafiona przez wroga, zyskuje 2 [ResentmentIshmael] (2 razy na turę)\nZa każdym razem, gdy sojusznik frakcji Środkowego (poza tą jednostką) zostaje trafiony przez wroga, zyskuje 1 [ResentmentIshmael] (1 raz na turę na Tożsamość)\n<style=\"highlight\">- Jeżeli atakujący cel ma [RetaliationBook], dodatkowo zyskuje 1 [ResentmentIshmael]\n- Na początku walki, przy Pełnym Rezonansie Zazdrości, zyskuje w tej turze 2x więcej [ResentmentIshmael]</style>\n\nZa każde zużycie 5 [ResentmentIshmael] zyskuje 1 [ReinforcedTattooIshmael] (2 razy na turę)\n\nNa początku walki, jeżeli nie ma [HeatingWireIshmael], przy 3+ sumie Rezonansów Zazdrości zyskuje 2 [HeatingWireIshmael] w następnej turze\nNa początku walki, jeżeli ma [HeatingWireIshmael], na koniec tury zyskuje [HeatingWireIshmael] równy wartości (suma Rezonansów Zazdrości / 3) (maks. 2)",
+      "kr_sha256": "e1dded6c7f84ec8c48fa6b94f1beb23f720e99847a5f092ba7abe60208c3dfa7",
+      "en_sha256": "9cf6ad869a1637932ffdd0f16ac2d14b7cc2e2af493243aca2ad616b647ad3d5",
+      "origin": "ai"
+    },
+    "dataList[id=1081411].name": {
+      "pl": "Środkowy nigdy nie zapomina",
+      "kr_sha256": "a020a5941b81d587413ef681e0678e8039da97e23a4c5442358dffbddcf72bd5",
+      "en_sha256": "e45f1bebaacb57987f1b17c1147524eb69c2c80986a67b097c1659fd3de7a33f",
+      "origin": "ai"
+    },
+    "dataList[id=1081421].desc": {
+      "pl": "Moc Starcia +1 podstawowych Umiejętności ataku Tożsamości przydzielonej na 1. pozycji (1 raz na turę)\nPrzy Pełnym Rezonansie Zazdrości, podstawowe Umiejętności Tożsamości przydzielonej na 1. pozycji zadają +10% obrażeń",
+      "kr_sha256": "ce1f85a8a7bafa3b3442238508f6abd2c3ad0eb7fc3e67e613e57ebfc6c72d66",
+      "en_sha256": "5d97de0eb3b0ffb833a5ac629fe84c1d04141bcbf736a958bb94567f955b5e6e",
+      "origin": "ai"
+    },
+    "dataList[id=1081421].name": {
+      "pl": "Hej, to ty lubisz Fikserów?",
+      "kr_sha256": "14e2b40004cbc7d3337e7e8b58ec7a534fd13fbf5a4debaee8843b86befffc1e",
+      "en_sha256": "9c4576f4beac76e5e6fcac3f4478d3d7c0dbb4be905abafd83f0057c9cca4df8",
+      "origin": "ai"
+    },
+    "dataList[id=1081421].summary": {
+      "pl": "Moc Starcia +1 podstawowych Umiejętności ataku\nPrzy Pełnym Rezonansie Zazdrości podstawowe Umiejętności zadają +10% obrażeń",
+      "kr_sha256": "5604b41856bbcb0b23213a630fa7cf0fa1920cc4b9fa701c750dfbcac231837a",
+      "en_sha256": "55f911fbdcfa8aaff8809bf259e47186d66acf86ee56a9b443008e4b67b56dbb",
+      "origin": "ai"
+    },
+    "dataList[id=1081501].desc": {
+      "pl": "Na początku walki zyskuje [AengduNewArmIshmael] i odzyskuje (Rezonans Pychy) Poczytalności dla Tożsamości sojuszników Ród Ostrza (poza tą jednostką)\n\nNa początku walki, jeżeli na polu jest Tożsamość sojusznika (poza tą jednostką) z HP poniżej 50%, zyskuje 1 [SupportProtect] (1 raz na turę)\n\nNa koniec Umiejętności zyskuje 1 [WindBladeIshmael] za każde 3 Mocy [Breath] (maks. 5, 2 razy na turę)",
+      "kr_sha256": "4b3cba4d7cdd545e7e6f835108c3828276c87250ea700a249230134b2ac93c56",
+      "en_sha256": "0d62ee63a1b2d2f4d3c427672ffc94400c7be5c1b34b96686b871625c0f97b9d",
+      "origin": "ai"
+    },
+    "dataList[id=1081501].name": {
+      "pl": "Specjalna Prototypowa Proteza mk5 Limbus Company - Ramię Dokkaebi",
+      "kr_sha256": "ac042e5dbef6fd14743d3c389572b78134cc7797f07f2424e5376936a0f65b41",
+      "en_sha256": "ea44521ba411e8b2cf9a6fe2462ee9c06e24ac14152f801d1f17866d59bc4193",
+      "origin": "ai"
+    },
+    "dataList[id=1081501].summary": {
+      "pl": "Zyskuje [AengduNewArmIshmael]",
+      "kr_sha256": "c8737cc4041599534593d12cfe7b1304c19f7adcd32107a99fea938efed41d45",
+      "en_sha256": "803c86e1facb24b48877a998106d80843d06a061b492ab115e0faefe98bf5940",
+      "origin": "ai"
+    },
+    "dataList[id=1081502].desc": {
+      "pl": "Przy pierwszym wejściu na pole spotkania zyskuje [BladelineagePride] za każdą 1 Tożsamość Ród Ostrza na polu (poza tą jednostką) (maks. 3)\n\nJeżeli w tym spotkaniu ginie 3 lub więcej Tożsamości Ród Ostrza (poza tą jednostką):\n- Przed użyciem Umiejętności, jeżeli nie ma [SwordPlayOfTheHomeland], zyskuje [SwordPlayOfTheHomeland]\n- Gdy zyskuje Moc lub Licznik [Breath] efektami Umiejętności albo monet, zyskuje o 1 więcej Mocy i Licznika [Breath]\n- Jeżeli ginie 5 lub więcej Tożsamości Ród Ostrza, zamiast tego zyskuje o 2 więcej Mocy i Licznika [Breath]",
+      "kr_sha256": "b7fc29809016716550759e1f878f348df4d38712c49187b445cad56d24b2d0d1",
+      "en_sha256": "f3956e4294f4c2e67dae52b92019361da91fa97fbfdce5202c69ae6bc6c5f91d",
+      "origin": "ai"
+    },
+    "dataList[id=1081502].name": {
+      "pl": "Tam, Dokąd Muszę Wrócić",
+      "kr_sha256": "e6e4838cd6ceae7ec5cc13653b1a1a1878fef024165d2985687538dfa0d181a5",
+      "en_sha256": "bd4d70bb18c6663f9e55d78e8adefc64605741d4566a470719ea55855614262f",
+      "origin": "ai"
+    },
+    "dataList[id=1081503].desc": {
+      "pl": "Przy przegranej w starciu Umiejętności obrony, przy 3+ [Agility], do końca Umiejętności obrony nie może zostać Ogłuszona obrażeniami, a po trafieniu stosuje „Odbieranie Kości” (2 razy na turę, z wyłączeniem wymuszonego Ogłuszenia)",
+      "kr_sha256": "97d78a8d23ca2769130c85de13d8d515fce83ec8e7ec6ed27b7af4ba1e5aa097",
+      "en_sha256": "fb71a95a651ebbacdbb99e5c776191f5ad80b82fdfff5cb0e1009c52043afd22",
+      "origin": "ai"
+    },
+    "dataList[id=1081503].name": {
+      "pl": "Przechwyt Demonognia",
+      "kr_sha256": "b4425ef53c3e4b400844f99af4a872220e5ef19380eb333562f5906bfa2b3548",
+      "en_sha256": "d4a99a3d60bc53db8719718eb93f3422baacb8d6da1e7ab84cff1fb108c19c8f",
+      "origin": "ai"
+    },
+    "dataList[id=1081503].summary": {
+      "pl": "Uruchamia dodatkową Umiejętność przy spełnieniu warunków",
+      "kr_sha256": "724045e2d791b6d1b292772409f7386e8e6b101a1252b4aa977e5029bfe002eb",
+      "en_sha256": "89740380bc975cc4e371967dbd16e2d4e415a5a67730158f39bf6e97db7e13b0",
+      "origin": "ai"
+    },
+    "dataList[id=1081513].desc": {
+      "pl": "<style=\"highlight\">Na koniec podstawowej Umiejętności ataku, przy 15+ stosach [WindBladeIshmael], stosuje „Rozliczenie - Błękitny Falujący Płomień” (1 raz na turę)</style>\n\nPrzy przegranej w starciu Umiejętności obrony, przy 3+ [Agility], do końca Umiejętności obrony nie może zostać Ogłuszona obrażeniami, a po trafieniu stosuje „Odbieranie Kości” (2 razy na turę, z wyłączeniem wymuszonego Ogłuszenia)",
+      "kr_sha256": "9fab25c128ab213239e9621051c348b412e94bff05813f7cd12e9dba4d40b0a7",
+      "en_sha256": "341891c341125a99dedb8b1f3bb5991ae4be00361a53bcce98687766b5752133",
+      "origin": "ai"
+    },
+    "dataList[id=1081513].name": {
+      "pl": "Przechwyt Demonognia",
+      "kr_sha256": "b4425ef53c3e4b400844f99af4a872220e5ef19380eb333562f5906bfa2b3548",
+      "en_sha256": "d4a99a3d60bc53db8719718eb93f3422baacb8d6da1e7ab84cff1fb108c19c8f",
+      "origin": "ai"
+    },
+    "dataList[id=1081513].summary": {
+      "pl": "Uruchamia dodatkową Umiejętność przy spełnieniu warunków",
+      "kr_sha256": "724045e2d791b6d1b292772409f7386e8e6b101a1252b4aa977e5029bfe002eb",
+      "en_sha256": "89740380bc975cc4e371967dbd16e2d4e415a5a67730158f39bf6e97db7e13b0",
+      "origin": "ai"
+    },
+    "dataList[id=1081521].desc": {
+      "pl": "1 Sojusznik z najwyższą Szybkością zadaje +10% obrażeń Umiejętnościami Siecznymi\n- Jeżeli ten sojusznik ma [Agility], zamiast tego zadaje +15% obrażeń Umiejętnościami Siecznymi",
+      "kr_sha256": "527614da1277b2c434045f2fa5ce1d747fcc62223fefc7ecc378c610f2a0fb8b",
+      "en_sha256": "88ac25b4faf3d993fa1a590efc5d257e9c87516f8dbeb15ee0824047537dc715",
+      "origin": "ai"
+    },
+    "dataList[id=1081521].name": {
+      "pl": "Tylko Ciąć i Zabijać",
+      "kr_sha256": "ccaf94427003118d3e73ed17db6f8151973280f7b63f48e1255d212580d5c7e1",
+      "en_sha256": "4ff7532bae7b6495253331808ced121c5141d0825a48633d1c3e3fe900db11e6",
+      "origin": "ai"
+    },
+    "dataList[id=1081601].desc": {
+      "pl": "Przy użyciu podstawowej Umiejętności, przy mniej niż 10 Licznika [ChargeRougeAlly], Moc Starcia +2\n\nW stanie [RougeIshmaelEclose], przy trafieniu podstawową Umiejętnością odzyskuje 8% HP (5 razy na turę)",
+      "kr_sha256": "7f1905edbc124fcb6c42fde401aa3ba7daa52ea898e1d87169899aede1990e63",
+      "en_sha256": "f8dea26ddbda945f3e56dbebbec76f2e039c948dd8196e4f8456476f1a1f032c",
+      "origin": "ai"
+    },
+    "dataList[id=1081601].flavor": {
+      "pl": "Choć nazywane bywa „kabiną przebieralni”, z zewnątrz właściwiej byłoby mówić o „poczwarkach” albo „jajach”.\nW środku rozpuszcza i rozcina własne ciało, metamorfozując... Aż gdy przyjdzie czas, rozbije skorupę i wyłoni się na zewnątrz.\nLecz gdy ktoś z zewnątrz rozedrze skorupę, zanim będzie gotowa... niestety, zostanie złamana.\nTo jej najbardziej wrażliwy moment, dlatego wymaga opieki bardziej niż kiedykolwiek.",
+      "kr_sha256": "f48906b55d0ae4bbc792111243db0b90b37d287863d9d6698e35e2866ac0b311",
+      "en_sha256": "2ac90c6d4318d5d8819677e324a4afac7051be215418215ca767227525b5bb3f",
+      "origin": "ai"
+    },
+    "dataList[id=1081601].name": {
+      "pl": "Kolebka Zmiany",
+      "kr_sha256": "2f657ebe69250691515d01d32348e27d60dd29821dbecf604da816e8a21ec8ff",
+      "en_sha256": "caaaa365f1476d0b5ffe07c2a3121bf8e10083da7bf5c375be7a91416a8f6254",
+      "origin": "ai"
+    },
+    "dataList[id=1081602].desc": {
+      "pl": "Za każde łączne zużycie 10 własnego Licznika [ChargeRougeAlly] podczas walki zyskuje 1 [ChargeRougeAlly]\n\nEfekty zużycia HP własnych podstawowych Umiejętności nie Ogłuszają ani nie obniżają HP tej jednostki poniżej 1\n(Przy 1 HP efekty zużycia HP podstawowych Umiejętności uruchamiane są bezpłatnie)\n\nW tym spotkaniu, gdy ta jednostka otrzymuje obrażenia redukujące HP do 0, unieważnia te obrażenia; natychmiast zyskuje 2 [RougeIshmaelCocoon] i wchodzi w stan [RougeIshmaelCocoon] (1 raz na spotkanie)\n- Jeżeli weszła w stan [RougeIshmaelCocoon] przez efekty Umiejętności obrony, powyższy efekt nie uruchamia się do końca spotkania\n\nWchodząc w stan [RougeIshmaelCocoon], zyskuje Tarczę równą własnemu Maks. HP\n- Tarcza zyskana tym efektem nie wygasa na koniec tury\n- Gdy stan [RougeIshmaelCocoon] wygasa, Tarcza zyskana powyższym efektem wygasa\n\nW stanie [RougeIshmaelCocoon] dostępna jest wyłącznie Umiejętność „Na Głos Chętnie Wycofuję się do Siebie” (Umiejętności E.G.O niedostępne)\n\nNa koniec tury, przy 0 stosów [RougeIshmaelCocoon], stan [RougeIshmaelCocoon] wygasa, jednostka wchodzi w stan [RougeIshmaelEclose] i zyskuje 5 Licznika [ChargeRougeAlly]",
+      "kr_sha256": "50954c4e208ebe52d6178ece14e091b2dfbdd076ad53f5ade456de0b25951d3c",
+      "en_sha256": "52dc6829bf1973e8ac66a389cf09a15ed9e6c0375ca42b03254e1104b397642f",
+      "origin": "ai"
+    },
+    "dataList[id=1081602].flavor": {
+      "pl": "Przebiorę się. Bliżej prawdziwej wersji siebie!",
+      "kr_sha256": "2580ee7b60da99e6693581023f5a334b72643f6a25394b6f982e1cd6c79990be",
+      "en_sha256": "7d214a641f56419a523f77744644d2ac0360c1ef513748cb5e01dfaadec68d31",
+      "origin": "ai"
+    },
+    "dataList[id=1081602].name": {
+      "pl": "Do Kabiny Przebieralni...",
+      "kr_sha256": "b4d143d05ccfddc647592ae562539eb9fa82d6816d04f6ab09281434a049aa4e",
+      "en_sha256": "862722755062cff1716ef5d2fc892d80a2b7a11fe7d16d9d4ad2845725fade15",
+      "origin": "ai"
+    },
+    "dataList[id=1081621].desc": {
+      "pl": "Tożsamości przydzielone na 1. i 2. pozycji odzyskują +20% więcej HP efektami pasywek, Umiejętności i monet\n\nPrzy Pełnym Rezonansie Żądzy otrzymują w tej turze -10% obrażeń od Umiejętności",
+      "kr_sha256": "2f21150fe5e7cae449f392ba6eeec78275e4f6127faffa8e0369ed4ca7868aee",
+      "en_sha256": "d8373fbf69516a99ed3f016a492569fdb4654ec54289971491c80cf8caea27e7",
+      "origin": "ai"
+    },
+    "dataList[id=1081621].flavor": {
+      "pl": "Gdy nie da się nadpisać Tożsamości ze Świata Lustra jej oryginalną postacią, „kostium” szyty na miarę każdego aktora zostaje zaprojektowany i założony.\nHaute Couture to forma kinowej reinterpretacji; zamienia istniejące istnienie w ubiór, a aktor, teraz nadpisany, gorliwie odgrywa powierzoną rolę w pełnym zanurzeniu.\nTo oszustwo rzeczywistości chętnie akceptuje widownia w teatrze, podczas gdy aktor, przynajmniej w granicach narracji, ucieleśnia oryginalne istnienie z prawdziwym oddaniem.",
+      "kr_sha256": "e4cf4777f90c18132082c995066fc729455e15270e233b5b54bef4ba90122337",
+      "en_sha256": "c0dbcd5b8c9f3d2e9dcd3e21419141cb5d79bbfe26ac0647f54da812d4012eca",
+      "origin": "ai"
+    },
+    "dataList[id=1081621].name": {
+      "pl": "[Actrice Haute Couture du Rouge] - Roba",
+      "kr_sha256": "915c29092aa81f3c2adde3a194e64f80e00ff2fbebcda0e8b7e53a4bad29fb4e",
+      "en_sha256": "c1234d3f9783db4f33cf57445deb0213ecbab0e752f3d843a615c1f7ff55f0e3",
+      "origin": "ai"
     }
   }
 }

@@ -167,6 +167,30 @@
       "kr_sha256": "8aa3a9f088559490dcd685ffd1188898bb195abba947e8884c8433c30839e8ec",
       "en_sha256": "6a20637f9ec4476e811322908569e7b74dc31775298aeb44f6a34c7f664e09d5",
       "origin": "ai"
+    },
+    "dataList[id=400032].desc": {
+      "pl": "??? Tożsamość Ishmael",
+      "kr_sha256": "ac4d65a118e09d8a89a5508423355b1c2542f1c6293104c50c3e2a9e282be966",
+      "en_sha256": "4e87b242be96c3b4ea1a0a97f801256e7682d25ece2fdef6762e7bb9a40a6015",
+      "origin": "ai"
+    },
+    "dataList[id=400032].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=400032].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=400032].title": {
+      "pl": "Grzeszniczek Grupy Pisklaków",
+      "kr_sha256": "8aa3a9f088559490dcd685ffd1188898bb195abba947e8884c8433c30839e8ec",
+      "en_sha256": "6a20637f9ec4476e811322908569e7b74dc31775298aeb44f6a34c7f664e09d5",
+      "origin": "ai"
     }
   }
 }

@@ -2736,6 +2736,390 @@
       "en_sha256": "72b2369796d9025947c3ec354cdd367d2f0de2d97804ce3e90a0a3519836fa65",
       "origin": "ai"
     },
+    "dataList[id=10801].desc": {
+      "pl": "Pierwsza Tożsamość Ishmael",
+      "kr_sha256": "ff30fc7a4c14f3c665e17c91c29b373b90ddbe312c55130a226bc247f18dc12e",
+      "en_sha256": "2b4ff79648555bfc86cad04a2b1d603c655a0ceb8884b68ec0ae523608c06633",
+      "origin": "ai"
+    },
+    "dataList[id=10801].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10801].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10801].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=10802].desc": {
+      "pl": "Druga Tożsamość Ishmael",
+      "kr_sha256": "ccee7cae0b008293dfc941c1aac0820674a43c57af968edf44efa24dad4af5b2",
+      "en_sha256": "72d096f7567cacca52f3eb31ffe626fa821a064a8168707570788117819cd8b9",
+      "origin": "ai"
+    },
+    "dataList[id=10802].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10802].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10802].title": {
+      "pl": "R Corp. 4 Pack\nZespół Reniferów",
+      "kr_sha256": "98150772ab1799f2d2d2168ac16e941e288221cca9965f43dc257adf5835b1f9",
+      "en_sha256": "8341860ba0654580ad0b1cd3298ccbee96d7c061a1278e2d4352daa1421f4a76",
+      "origin": "ai"
+    },
+    "dataList[id=10803].desc": {
+      "pl": "Trzecia Tożsamość Ishmael",
+      "kr_sha256": "214d52453607615246bda709040ddb6f53b79c80f30b3ba0bed69a5e7f3e80fc",
+      "en_sha256": "79ae48a7fadcc5b5565f08c18fb499c341aa8824cd9068a2aed89abfd8f510bd",
+      "origin": "ai"
+    },
+    "dataList[id=10803].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10803].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10803].title": {
+      "pl": "Południowe Stowarzyszenie Shi\nSekcja 5",
+      "kr_sha256": "ec855cf97d46768ff42adeeb646ba0184f88cfc94d6da74d7c42842f7ad2dec6",
+      "en_sha256": "a561e30bed1bf1e9640a258f3341789e458077ad115917670ac7174bf0b85200",
+      "origin": "ai"
+    },
+    "dataList[id=10804].desc": {
+      "pl": "Czwarta Tożsamość Ishmael",
+      "kr_sha256": "60ff5f5d0bc73a7f5657e5b6c6c199393aa389882ff97ec1aced5e8675219b29",
+      "en_sha256": "2def8b3f36f797c49853d74af60dc469d10486c91e75f59da6aab2c95eee371c",
+      "origin": "ai"
+    },
+    "dataList[id=10804].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10804].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10804].title": {
+      "pl": "LCCB\nZastępca Kierownika",
+      "kr_sha256": "ccbdcc5c033787890ceed474cc97c66d121ddb3601d9510bcb7e93547b6bf454",
+      "en_sha256": "57b357d35ae6b16d1cbdf6b3311cda682da7c1560d8ebfd2294a69ea6603d7de",
+      "origin": "ai"
+    },
+    "dataList[id=10805].desc": {
+      "pl": "Piąta Tożsamość Ishmael",
+      "kr_sha256": "80bdc5fbb21c0889fa0118ae35d5680cf2dc0158a4da08f2ce6529c800510644",
+      "en_sha256": "56c722a46b9af64257541617175bf1c51637b20bd395cdd3bf5378efea55f657",
+      "origin": "ai"
+    },
+    "dataList[id=10805].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10805].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10805].title": {
+      "pl": "Lobotomy E.G.O::\nChlupot",
+      "kr_sha256": "1e92a52aa257930166c321a12e155a4cc0b9d11e7c6ea65643a87386333cac8c",
+      "en_sha256": "fcb465c0dbe8b229a4458fef8b6711c5caa8dfb8706f68d0a2cd4c2e7cc446cc",
+      "origin": "ai"
+    },
+    "dataList[id=10806].desc": {
+      "pl": "Szósta Tożsamość Ishmael",
+      "kr_sha256": "be7b0083fbe83e02fa0c26dddd7c29b6484c1da1d4277d067a2b87202342e334",
+      "en_sha256": "5f91f2ac906e69e1ceeb54bae48176e1de9c61ccebbd6646aa5dbda50ed796e2",
+      "origin": "ai"
+    },
+    "dataList[id=10806].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10806].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10806].title": {
+      "pl": "Południowe Stowarzyszenie Liu\nSekcja 4",
+      "kr_sha256": "9aedcf2bcb3908e5c6474f359d53f947155b483bd907bdefd4b23fd89e665cb0",
+      "en_sha256": "ad58993e2812dcd7bf6d25760fa5db98c05d1ba75b0a972737547b55a3e86e53",
+      "origin": "ai"
+    },
+    "dataList[id=10807].desc": {
+      "pl": "Siódma Tożsamość Ishmael",
+      "kr_sha256": "626d53af90fa4a35c1801941d391eb2814d9bb6b1da56348b81f4f686f6223de",
+      "en_sha256": "017671cf69f484a249151bff926083ed61a8226fca8a85714f3a89bd46b51c24",
+      "origin": "ai"
+    },
+    "dataList[id=10807].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10807].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10807].title": {
+      "pl": "Centrum Łodzi Trzonowca\nFikser",
+      "kr_sha256": "b37dbc956d14972b34216965a508d18f03e14063f6635a90980a40fb7d5d8036",
+      "en_sha256": "08a82f348b037c8db233e544aa4bdd21144ccdffe057d538c02fcfb8e3e2323c",
+      "origin": "ai"
+    },
+    "dataList[id=10808].desc": {
+      "pl": "Ósma Tożsamość Ishmael",
+      "kr_sha256": "70b99366f1815a3ce2785a4467848180cf347aa197ac67e0d165a3b70fbb39ab",
+      "en_sha256": "5c9f3d6f9e4a1e25383ef78d5d2537b10559af63f84258ad5b1c04f0d8b47602",
+      "origin": "ai"
+    },
+    "dataList[id=10808].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10808].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10808].title": {
+      "pl": "Pequod\nKapitan",
+      "kr_sha256": "d59f241c4989fbfe4cfe223a41202174b5e80fb203aa37e8e793ecb6e9ae2949",
+      "en_sha256": "39361c28cf74dcd8e059ba19215322a9d674ed13c7bbeb48cab4ec8dd435f48c",
+      "origin": "ai"
+    },
+    "dataList[id=10809].desc": {
+      "pl": "Dziewiąta Tożsamość Ishmael",
+      "kr_sha256": "b63a7f8210bfc0eff228e3b62d562a28e162f0c278130c82f31aa360ee7e5e6d",
+      "en_sha256": "410fb6ffa77b00ccec63ffa499e1e91161fac14c2deacbc745127a9471acd46a",
+      "origin": "ai"
+    },
+    "dataList[id=10809].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10809].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10809].title": {
+      "pl": "Rod Edgara\nKamerdyner",
+      "kr_sha256": "eade12c3e57e32eedce2c32680e8c62f34978305a002c6b83654b0f812e9f038",
+      "en_sha256": "4761fa6c748fc3dbdb4365b60fb93f7ecb82dabbf9fb2a5c7d67d078361612c2",
+      "origin": "ai"
+    },
+    "dataList[id=10810].desc": {
+      "pl": "Dziesiąta Tożsamość Ishmael",
+      "kr_sha256": "ff2011302e92ca1c42747f0ea3e7396cbfc056422f42515d12b20cb5eb9e11f8",
+      "en_sha256": "2ac66a6ffc059900ffcd860a344d7b149b53265b247cf5f4e855e8f3f95f8c21",
+      "origin": "ai"
+    },
+    "dataList[id=10810].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10810].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10810].title": {
+      "pl": "Zachodnie Stowarzyszenie Zwei\nSekcja 3",
+      "kr_sha256": "9d4d71d38460da9a7c8ae710a9e3f51780eb1eb21786d2397a9728837845d95d",
+      "en_sha256": "5dcdadc88d11803163be3154ba42ff6051816d01f3fafd3c07632d07e8a25182",
+      "origin": "ai"
+    },
+    "dataList[id=10811].desc": {
+      "pl": "Jedenasta Tożsamość Ishmael",
+      "kr_sha256": "55dd3fdd7fe8cdfbe4688186c8aa647e8b8ab10e5aa3ce45dd2d87d40667b720",
+      "en_sha256": "c94ccf0f53ef2cd9bd16999d6fec3586f663794387dfcf30330f9ac0e1e73f9a",
+      "origin": "ai"
+    },
+    "dataList[id=10811].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10811].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10811].title": {
+      "pl": "Klan Kurokumo\nKapitan",
+      "kr_sha256": "ba28b856e6475d18786c6d012768da94f8e79ec513b141867658e9ef1b7ba13a",
+      "en_sha256": "95f1f498735ebd873f8ac659617ee7fb9b2255a5f37b0f1e28835b183c772855",
+      "origin": "ai"
+    },
+    "dataList[id=10812].desc": {
+      "pl": "Dwunasta Tożsamość Ishmael",
+      "kr_sha256": "b11ddecb7492bc47886632fd2eecab5b7d944613afa9302e1ab2bab2b3fcccb9",
+      "en_sha256": "91675b86ce0e2ff2b595988febf6cdd0477278486c679407a700d4ab64b535e9",
+      "origin": "ai"
+    },
+    "dataList[id=10812].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10812].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10812].title": {
+      "pl": "Kandydat na Głowę Rodu",
+      "kr_sha256": "370985c4c889146fa31ff97026a9a98fd780538e47f07001cea531fc765c4427",
+      "en_sha256": "d7eeaeee21ca4080eaeee8b4d23ff9977746c9f570162cf5bda6dc15fdb0b898",
+      "origin": "ai"
+    },
+    "dataList[id=10813].desc": {
+      "pl": "Trzynasta Tożsamość Ishmael",
+      "kr_sha256": "63df9d8078f8a5eda2bcd7d2d83b7f0a5239cada1a6e4b47912b2b62eb945a2f",
+      "en_sha256": "fc8e18a1fa8f0f7e0808d786628ff5ae101a996a81251f1acfa8cfd3729951c5",
+      "origin": "ai"
+    },
+    "dataList[id=10813].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10813].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10813].title": {
+      "pl": "Biuro Jeonga\nRep",
+      "kr_sha256": "2399be98dbe11faf769ba54b28e462001d63e5262ebbec77623cf37070e63106",
+      "en_sha256": "fc1b8f29a7b6485fde3dcd650004ff2c1b188b3d38894dc32f8e74f39d2e756e",
+      "origin": "ai"
+    },
+    "dataList[id=10814].desc": {
+      "pl": "Czternasta Tożsamość Ishmael",
+      "kr_sha256": "c41596e4a1bd571b98adc6c03bd73b16b29b3a2d046cd1103e0cd7800b773c0d",
+      "en_sha256": "427f726a270d60b77a55dc3b288be91c97e4a96da36e34bf42757f52362a9cdb",
+      "origin": "ai"
+    },
+    "dataList[id=10814].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10814].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10814].title": {
+      "pl": "Dom Pajęczyn:\nUczeń Środkowego",
+      "kr_sha256": "894eeb7f7990cee9fbcbbeed0a7223ab7e830e6fe5c8b4559a1276aa08ae15eb",
+      "en_sha256": "208b0cf6811a822f1ca6a165cf9cc57c92843b4caeec8b28bb1f332da73318a9",
+      "origin": "ai"
+    },
+    "dataList[id=10815].desc": {
+      "pl": "Piętnasta Tożsamość Ishmael",
+      "kr_sha256": "4a41747199c48637f556abb3293c892f0bc7045844c32271173ee71e9cd4e930",
+      "en_sha256": "62e45d50db9998c8b23018a39d3ad4412c40030a49758023571c69cd0bb8af9a",
+      "origin": "ai"
+    },
+    "dataList[id=10815].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10815].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10815].title": {
+      "pl": "LCD\nZespół Śledczy OSIR",
+      "kr_sha256": "4e80ffbbe32790d00bea2bb70fe82fb4b6e1049097c46ad7f62bb8a11a85c855",
+      "en_sha256": "f8e8e93e45402da60a1abc162480f3dfa371438dd9953b90bc61a7136bc1e76c",
+      "origin": "ai"
+    },
+    "dataList[id=10816].desc": {
+      "pl": "Szesnasta Tożsamość Ishmael",
+      "kr_sha256": "4e49e04ffd7ea71024a04b8143802b928f2538346a8443bfa5905f86cddfb10c",
+      "en_sha256": "4b38eb9c7d3e542101c3e8bb3199586e35bf0902229e6b42cf9ca363366c4dab",
+      "origin": "ai"
+    },
+    "dataList[id=10816].name": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10816].nameWithTitle": {
+      "pl": "Ishmael",
+      "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
+      "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
+      "origin": "ai"
+    },
+    "dataList[id=10816].title": {
+      "pl": "Haute Couture::\nButik Le Rouge",
+      "kr_sha256": "76999ff23d075b9a5b9bc751a08b411a604a73e5959f1d43505a7bdbde370858",
+      "en_sha256": "371ee5ad011a3aaf7701e427378a7f7025efab741c70cf6168f35985ddfdbcc8",
+      "origin": "ai"
+    },
     "dataList[id=40501].desc": {
       "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
       "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",

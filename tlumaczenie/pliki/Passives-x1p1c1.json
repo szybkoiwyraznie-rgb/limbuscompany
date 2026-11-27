@@ -167,6 +167,30 @@
       "kr_sha256": "df5b4e33a5f0199f5bd2605613f98f5d94ac29014dd7fe6da48ac19116eb2bfa",
       "en_sha256": "93aba63a7d7158f143cdc078a743c40f96a846e6a3f41a3abf45da5af5aa78b3",
       "origin": "ai"
+    },
+    "dataList[id=40003201].desc": {
+      "pl": "Przy HP poniżej 25% zyskuje Moc Starcia +1 w starciu",
+      "kr_sha256": "db647efadf529304cd8e092d2d54eab30fd57dd52ef46dd5fa4a1e65dc9ca9f9",
+      "en_sha256": "f1d1a75888562ca7afaa9a1b030b01c843e2c59cd5945173dc2561242c8a3c60",
+      "origin": "ai"
+    },
+    "dataList[id=40003201].name": {
+      "pl": "— nazwa] Ostatnie Zrywy",
+      "kr_sha256": "cd542b70de3d4d033a5d064d60ae4fa4d75af693e692ceac0a50d4c49fd2448c",
+      "en_sha256": "1e0e728bddfa2b679979be6fd4df91db0dc20f8fd3a0d8bb3e143a729075c03f",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].desc": {
+      "pl": "Sojusznik z najniższym HP poniżej 50% Maks. HP zyskuje Moc Starcia +1 w starciu",
+      "kr_sha256": "03438ade139f034b855936a4a80671a3aa4907297cc1181050bdf939da043784",
+      "en_sha256": "260397f898d616900361e5a3ed2cf92bc32dbed51a90d59604bf36834fe378f0",
+      "origin": "ai"
+    },
+    "dataList[id=40003202].name": {
+      "pl": "— nazwa] Postanowienie Przetrwania",
+      "kr_sha256": "baf817cf17d96d919ef24ed247c2ce65809f4f3c6f2e73270c2e8332a9ddadb1",
+      "en_sha256": "fef8512e265698aee0fc04d0c165fb48a0de47b1c3cceba5491ef0af1a1fe082",
+      "origin": "ai"
     }
   }
 }

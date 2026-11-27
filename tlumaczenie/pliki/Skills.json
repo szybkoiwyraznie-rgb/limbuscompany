@@ -5693,6 +5693,1110 @@
       "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
       "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
       "origin": "ai"
+    },
+    "dataList[id=1080101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada +1 Licznika Wstrząsu",
+      "kr_sha256": "1c1f7c9ef3d5cd5ad63355ba5d8cc16d7d068c40dedfe2ec562bab2b4c52a4e3",
+      "en_sha256": "a94049919e1166681fcfa4c34f0736e2d20aa4a602521bb0fc07989a907dd681",
+      "origin": "ai"
+    },
+    "dataList[id=1080101].levelList[level=1].name": {
+      "pl": "Hak",
+      "kr_sha256": "e8397215c513eeb90351cd260e4c7848805e3870dab54f636fc112601b688ecf",
+      "en_sha256": "9a4f4f8ef698297808904d59cf4c952e7ef5b7093cffdf090e299a73b53a608f",
+      "origin": "ai"
+    },
+    "dataList[id=1080101].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "7186cbcdc751da50ddf7ef2b10318346893b5ab1e2a19c350cff97390fd7ae52",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=1080101].levelList[level=2].name": {
+      "pl": "Hak",
+      "kr_sha256": "e8397215c513eeb90351cd260e4c7848805e3870dab54f636fc112601b688ecf",
+      "en_sha256": "9a4f4f8ef698297808904d59cf4c952e7ef5b7093cffdf090e299a73b53a608f",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=1].desc": {
+      "pl": "[WinDuel] Nakłada 1 Spadek Mocy Obrony",
+      "kr_sha256": "ec6ef829084e33b32363fee4d7168efdae57eeb9eb2e14f462788e829fdda992",
+      "en_sha256": "9187d82807c8aa4b2437ab7a106b4d1c5a64fc2dbcde2671fde610322a9566d3",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=1].name": {
+      "pl": "Ślizg",
+      "kr_sha256": "9f2aaa45f3ec0d4ed55a5df5d40b26d76d4f03c80d5bbebfd7c361627b02f48e",
+      "en_sha256": "6bb4c1177681ec4eb53bb315e71185f702e52f845cc7ff3ae114c41464f67510",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=2].desc": {
+      "pl": "[WinDuel] Nakłada 3 Spadek Mocy Obrony",
+      "kr_sha256": "923106e6e2628554d100d72a811d0c3001aaaceeae4a5b771e170a6fe49403ff",
+      "en_sha256": "9f5b4d3cedde93e2d51c83658635e75a710be8ea71ef4ab74c4ba43eb8b54cdc",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=2].name": {
+      "pl": "Ślizg",
+      "kr_sha256": "9f2aaa45f3ec0d4ed55a5df5d40b26d76d4f03c80d5bbebfd7c361627b02f48e",
+      "en_sha256": "6bb4c1177681ec4eb53bb315e71185f702e52f845cc7ff3ae114c41464f67510",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Vibration]",
+      "kr_sha256": "f48cd5745a914acfda84ab4ab6806b56323e5b4aaa220c01aa26a1c329540dfa",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=4].desc": {
+      "pl": "[WinDuel] Nakłada 3 Spadek Mocy Obrony",
+      "kr_sha256": "923106e6e2628554d100d72a811d0c3001aaaceeae4a5b771e170a6fe49403ff",
+      "en_sha256": "9f5b4d3cedde93e2d51c83658635e75a710be8ea71ef4ab74c4ba43eb8b54cdc",
+      "origin": "ai"
+    },
+    "dataList[id=1080102].levelList[level=4].name": {
+      "pl": "Ślizg",
+      "kr_sha256": "9f2aaa45f3ec0d4ed55a5df5d40b26d76d4f03c80d5bbebfd7c361627b02f48e",
+      "en_sha256": "6bb4c1177681ec4eb53bb315e71185f702e52f845cc7ff3ae114c41464f67510",
+      "origin": "ai"
+    },
+    "dataList[id=1080103].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Nakłada 1 Wrażliwości na Uderzenie",
+      "kr_sha256": "7308352ec2bb5569d13ef1bb9d2571ec25c5ae7c808d3dc8a6891911d4a9fe7e",
+      "en_sha256": "80695a2291617f3f381362aa79b0a5ad3fa6fcc1830e68e977aa5c60485ac363",
+      "origin": "ai"
+    },
+    "dataList[id=1080103].levelList[level=3].name": {
+      "pl": "Garda",
+      "kr_sha256": "1ca3cf82813fd6b9f9a7b7c9549e62ae51b20a03e733709bd4172ddcef314d9d",
+      "en_sha256": "f581cb043ffa9c25f094bca0f3c6c7530b72c9a13731ed2cba288544633b5d1a",
+      "origin": "ai"
+    },
+    "dataList[id=1080104].levelList[level=1].name": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 Zatonięcia",
+      "kr_sha256": "f14578a0d52f87c0762b23d5d4465bc0b7df45f5c831efe2baa203271572e55e",
+      "en_sha256": "eb2470723fbb91c951af909044978a2540f4ef704666b3570b4d065c252744ac",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 Zatonięcia",
+      "kr_sha256": "f14578a0d52f87c0762b23d5d4465bc0b7df45f5c831efe2baa203271572e55e",
+      "en_sha256": "eb2470723fbb91c951af909044978a2540f4ef704666b3570b4d065c252744ac",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=1].name": {
+      "pl": "Cios w Umysł",
+      "kr_sha256": "02551326f5f43315241aeed0cada4d41863660eab730043780d2c98ea563bbb7",
+      "en_sha256": "9eaffb237a3f4c943cee2eabb447004e68c9a0cd7804b70d42e6258c53ba7054",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "05351bdd029d4d64154372b57db49cb75e76585bca0f96579d91c4ca1d1b5e79",
+      "en_sha256": "dbff108fa80164f87cc0d784bccbe808b621466a1bf29537a73253d62af4dede",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=2].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "05351bdd029d4d64154372b57db49cb75e76585bca0f96579d91c4ca1d1b5e79",
+      "en_sha256": "dbff108fa80164f87cc0d784bccbe808b621466a1bf29537a73253d62af4dede",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=2].name": {
+      "pl": "Cios w Umysł",
+      "kr_sha256": "02551326f5f43315241aeed0cada4d41863660eab730043780d2c98ea563bbb7",
+      "en_sha256": "9eaffb237a3f4c943cee2eabb447004e68c9a0cd7804b70d42e6258c53ba7054",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "393fc49561f7934359e243562ff1cec0c82d4406a88905f5c231a8be24cf1be7",
+      "en_sha256": "b0a5a0af40661610e7a8364bdb286d7a0dc31bdc7bc454f93010b33df5283188",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "393fc49561f7934359e243562ff1cec0c82d4406a88905f5c231a8be24cf1be7",
+      "en_sha256": "b0a5a0af40661610e7a8364bdb286d7a0dc31bdc7bc454f93010b33df5283188",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "be0f5f9c488fc6544714e53e695d6b954c92e1e56cbc89eeee2c1afddd8f76c0",
+      "en_sha256": "aac4960b2754c5cc5f67a7ab7cd9f41f733c5f1f004a43f85757d1b9242d9ea5",
+      "origin": "ai"
+    },
+    "dataList[id=1080201].levelList[level=4].name": {
+      "pl": "Cios w Umysł",
+      "kr_sha256": "02551326f5f43315241aeed0cada4d41863660eab730043780d2c98ea563bbb7",
+      "en_sha256": "9eaffb237a3f4c943cee2eabb447004e68c9a0cd7804b70d42e6258c53ba7054",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada +3 Licznika Zatonięcia",
+      "kr_sha256": "2addf5d163752fbd5314b287d212afab8b0c783ebc009034cc99821c7a1945e4",
+      "en_sha256": "a05a697ec44008531ddb3022bddeab2c8e2be9eba5e162e713617fb5c49aa241",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=1].name": {
+      "pl": "Przezdzieranie",
+      "kr_sha256": "31363f212bdafd78e9fea7a6740f4f7a7893c54aa56db25b58bf650707420a6a",
+      "en_sha256": "33831c3e6fb356f7e897bc12cb578187be5c419dcd6dd71e62bae96eb58ce577",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada +3 Licznika Zatonięcia",
+      "kr_sha256": "2addf5d163752fbd5314b287d212afab8b0c783ebc009034cc99821c7a1945e4",
+      "en_sha256": "a05a697ec44008531ddb3022bddeab2c8e2be9eba5e162e713617fb5c49aa241",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=2].desc": {
+      "pl": "[WhenUse] Zyskuje +5 Licznika Ładowania",
+      "kr_sha256": "1b436e0f832e20233f5ae0146f4f8aa6c9c0ccded7610233f5f9d905846e5679",
+      "en_sha256": "9d358ea6de024ba249659686fa1596c91dbb71c6f8d928d2080473eb7590d02a",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=2].name": {
+      "pl": "Przezdzieranie",
+      "kr_sha256": "31363f212bdafd78e9fea7a6740f4f7a7893c54aa56db25b58bf650707420a6a",
+      "en_sha256": "33831c3e6fb356f7e897bc12cb578187be5c419dcd6dd71e62bae96eb58ce577",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +3 Licznika Zatonięcia",
+      "kr_sha256": "e47baa739c02852cac346bd7f620bdee75ac01145221eb73b2130d63a15608ae",
+      "en_sha256": "a568365989517493ef9d5b3c630871eb37354d055f327a7d69f3111c62a73fd1",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik Ładowania o 7",
+      "kr_sha256": "e54ed7adcce1382d5b878baddb6f4de5aded3534834dbd8a9c826e03839c80ff",
+      "en_sha256": "b6ce3d2ce0babbe789c946bb15fcebd8e3c94ddb9879cbb4455ae6beb31beb79",
+      "origin": "ai"
+    },
+    "dataList[id=1080202].levelList[level=4].name": {
+      "pl": "Przezdzieranie",
+      "kr_sha256": "31363f212bdafd78e9fea7a6740f4f7a7893c54aa56db25b58bf650707420a6a",
+      "en_sha256": "33831c3e6fb356f7e897bc12cb578187be5c419dcd6dd71e62bae96eb58ce577",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 40% zadanych obrażeń",
+      "kr_sha256": "dc556eb24978101cf16fdb8eaec1d49e2c2a0d01c125e3c26e9f23b2feb31eab",
+      "en_sha256": "fbfd84f0dab03b052bb51b887c9f01f641905f0d84225930fbf38d49f9a4949f",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 30% zadanych obrażeń",
+      "kr_sha256": "8d60562fe98bc08e658b2bbe5b7042b61e3bbd8760a52b22341a0add5b4ff3a2",
+      "en_sha256": "81c574414ab12e643709bd7e5ffaee458cb9e8b95b94d21f6189262d1bff4ba4",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "1fe611f5cc0112b48adae359498106bf24db0fa06766f9b70d41f20fbc09479e",
+      "en_sha256": "8e84d0498f58e220ce419ca9d3434c3690f4c08848fa0705e737a1618fbca665",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 10% zadanych obrażeń",
+      "kr_sha256": "fa9ca1d75d7cc128e6ff1d5111e384a37a8395b807de24629a5fcac9afe0822f",
+      "en_sha256": "4b9083f2739d7f479c73de9e5138383d64170d7bd4246c804faa25eb0406bd59",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].desc": {
+      "pl": "[StartBattle] Zużywa cały Licznik Ładowania.\nJeżeli na początku walki ma mniej niż 10 Licznika Ładowania, atakuje nieoparciego losowego celu",
+      "kr_sha256": "d20fd80697b6cc0f26c391083c4fc34b43be14481acc23d2a24bd98ee4c25998",
+      "en_sha256": "9f9be6de9125bdd16012f3784b803d347ecd11f8f8c77dd87db9a9c97d9c2860",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=3].name": {
+      "pl": "Bicz na Umysł",
+      "kr_sha256": "261986e7752bcb7728333fd4bfeed440cb0a086c0235beafb297aca34228231c",
+      "en_sha256": "7e4c9e2e406b9c636eff215ffa05d4d9beb8dd2c7f3c4a3f0c19bfdfa87380ae",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 40% zadanych obrażeń",
+      "kr_sha256": "dc556eb24978101cf16fdb8eaec1d49e2c2a0d01c125e3c26e9f23b2feb31eab",
+      "en_sha256": "fbfd84f0dab03b052bb51b887c9f01f641905f0d84225930fbf38d49f9a4949f",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 30% zadanych obrażeń",
+      "kr_sha256": "8d60562fe98bc08e658b2bbe5b7042b61e3bbd8760a52b22341a0add5b4ff3a2",
+      "en_sha256": "81c574414ab12e643709bd7e5ffaee458cb9e8b95b94d21f6189262d1bff4ba4",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "1fe611f5cc0112b48adae359498106bf24db0fa06766f9b70d41f20fbc09479e",
+      "en_sha256": "8e84d0498f58e220ce419ca9d3434c3690f4c08848fa0705e737a1618fbca665",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Zatonięcia",
+      "kr_sha256": "d85e36d20029b3ebcbbd3e0c86a47ecd17d1facf1f5c0953958d21bb8431bf85",
+      "en_sha256": "bba4074e2584735669f45b37598f8d70a7cafda170a988c23e9e58436df3caec",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Podnosi Próg Oszołomienia o 10% zadanych obrażeń",
+      "kr_sha256": "fa9ca1d75d7cc128e6ff1d5111e384a37a8395b807de24629a5fcac9afe0822f",
+      "en_sha256": "4b9083f2739d7f479c73de9e5138383d64170d7bd4246c804faa25eb0406bd59",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].desc": {
+      "pl": "[StartBattle] Zużywa 8 Licznika Ładowania.\nJeżeli na początku walki ma mniej niż 8 Licznika Ładowania, atakuje nieoparciego losowego celu",
+      "kr_sha256": "b3805d6c8aee44200cfaea00e049f55b16bf2bcb3d8bc674c31e4d5a7e079e2c",
+      "en_sha256": "7765e4feec79d2574099058ca9fc80425039f0dc9feb7f0320b9793a6b504c72",
+      "origin": "ai"
+    },
+    "dataList[id=1080203].levelList[level=4].name": {
+      "pl": "Bicz na Umysł",
+      "kr_sha256": "261986e7752bcb7728333fd4bfeed440cb0a086c0235beafb297aca34228231c",
+      "en_sha256": "7e4c9e2e406b9c636eff215ffa05d4d9beb8dd2c7f3c4a3f0c19bfdfa87380ae",
+      "origin": "ai"
+    },
+    "dataList[id=1080204].levelList[level=1].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=1080204].levelList[level=4].desc": {
+      "pl": "[OnSucceedEvade] Zwiększa własny Licznik Ładowania o 1",
+      "kr_sha256": "1dd2f751f0c5619bf4651cced1f840b03dde9597956e7f11e3fe8baadbc69e0f",
+      "en_sha256": "0a9dbad82d1c121db6ff49c86410a06d6c9c60ec87909846d4b9b8924a7f2f1b",
+      "origin": "ai"
+    },
+    "dataList[id=1080204].levelList[level=4].name": {
+      "pl": "Unik",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 2 Oddechu",
+      "kr_sha256": "aa0cc41ad15be87cf36a5cda5049544da4289421b54a8a98993cbda64036cd78",
+      "en_sha256": "f4f1e92bb0e495601f78ffbe8ed15cec9174c7e3c68669d55da599a308514e50",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=1].name": {
+      "pl": "Latający Miecz",
+      "kr_sha256": "13ee7ab903ca67a7faa90adac8b3f287d25b9dfbd25bcc3db142c9a2e87c7cd6",
+      "en_sha256": "4d35f60d2bcf9170840fa790cbb460f0c8414cddb7802e2483123fbc5486dc54",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje 2 Oddechu",
+      "kr_sha256": "96fb52ac306ce002d0d880bb58943daeb977d723a11a13f42f0b67d7e482beb9",
+      "en_sha256": "685b857fae91862f4d505874cdbec9007bff88a52075538f93b33db2f4f73852",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=2].desc": {
+      "pl": "Przy HP poniżej 50% zyskuje o 1 więcej Oddechu z tej Umiejętności",
+      "kr_sha256": "66c64c76b89b7755bc5d48dd403fd730f521cda7b6639bf9caa5c465130429fe",
+      "en_sha256": "7c1932c367324305adbe15bcb4eaa3e3e57fd419a5f10237ccef399b6dbbf84c",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=2].name": {
+      "pl": "Latający Miecz",
+      "kr_sha256": "13ee7ab903ca67a7faa90adac8b3f287d25b9dfbd25bcc3db142c9a2e87c7cd6",
+      "en_sha256": "4d35f60d2bcf9170840fa790cbb460f0c8414cddb7802e2483123fbc5486dc54",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje 2 Oddechu",
+      "kr_sha256": "96fb52ac306ce002d0d880bb58943daeb977d723a11a13f42f0b67d7e482beb9",
+      "en_sha256": "685b857fae91862f4d505874cdbec9007bff88a52075538f93b33db2f4f73852",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=4].desc": {
+      "pl": "Przy HP poniżej 50% zyskuje o 3 więcej Oddechu z tej Umiejętności",
+      "kr_sha256": "e23ee208efd0eeebdb61680292208c253faef14d34a858e0d3df372338d0223f",
+      "en_sha256": "921b18b9511f4dacfa8abc510116ec3d5e47ca5642b93b331ae902dbcfa8e68f",
+      "origin": "ai"
+    },
+    "dataList[id=1080301].levelList[level=4].name": {
+      "pl": "Latający Miecz",
+      "kr_sha256": "13ee7ab903ca67a7faa90adac8b3f287d25b9dfbd25bcc3db142c9a2e87c7cd6",
+      "en_sha256": "4d35f60d2bcf9170840fa790cbb460f0c8414cddb7802e2483123fbc5486dc54",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa własny Licznik Oddechu o 1",
+      "kr_sha256": "33b544d382208e5aee54dc48d9e26e09d329045f6ca96da0d37c6940fcfde2a1",
+      "en_sha256": "7c776e4d3dda25fadb204a5e423681fca0c6f86cf7a9fdce06aafb7c54daf7d9",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa własny Licznik Oddechu o 1",
+      "kr_sha256": "33b544d382208e5aee54dc48d9e26e09d329045f6ca96da0d37c6940fcfde2a1",
+      "en_sha256": "7c776e4d3dda25fadb204a5e423681fca0c6f86cf7a9fdce06aafb7c54daf7d9",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=1].name": {
+      "pl": "Błyskawiczne Uderzenie",
+      "kr_sha256": "1fe9b3f77c63f9dcd002dd7958d025bdc8792009cd1f8d83dcedea4777523f67",
+      "en_sha256": "b9f31c95ec45e4dacf3798c3a9f2413b07ca004667f5e531961e75b407310950",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik Oddechu o 1",
+      "kr_sha256": "4dc1a6300d8bfecaeb9d90e559627e3efd2f5c57f483badff3c1e4cfe63ccc6c",
+      "en_sha256": "5d18505587dd5821cadae03df9319c13b79df249a0dfe33e9b465a4a993ccd7b",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik Oddechu o 1",
+      "kr_sha256": "4dc1a6300d8bfecaeb9d90e559627e3efd2f5c57f483badff3c1e4cfe63ccc6c",
+      "en_sha256": "5d18505587dd5821cadae03df9319c13b79df249a0dfe33e9b465a4a993ccd7b",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=2].desc": {
+      "pl": "[WhenUse] Przy HP poniżej 50% monety 1 i 2 są używane dodatkowo",
+      "kr_sha256": "f0f4c21d6d70ae4e0154d9733e93ae732e61402e7eba15c73aeb766f3166049e",
+      "en_sha256": "e0fe044ba3944cf2fb222a11334a8ec5a4aa306bebcf89fc1fb04f220cc5fceb",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=2].name": {
+      "pl": "Błyskawiczne Uderzenie",
+      "kr_sha256": "1fe9b3f77c63f9dcd002dd7958d025bdc8792009cd1f8d83dcedea4777523f67",
+      "en_sha256": "b9f31c95ec45e4dacf3798c3a9f2413b07ca004667f5e531961e75b407310950",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje +2 Licznika Oddechu",
+      "kr_sha256": "3ac08587b33a151f2642e7ca0ea3f4391c924604d1d02f09fd47090411dd6480",
+      "en_sha256": "528ab400b43a9d36b8c05b2dce9fa79b3df0e06714a258b9ef1b1b0e06ded96d",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zyskuje +2 Licznika Oddechu",
+      "kr_sha256": "3ac08587b33a151f2642e7ca0ea3f4391c924604d1d02f09fd47090411dd6480",
+      "en_sha256": "528ab400b43a9d36b8c05b2dce9fa79b3df0e06714a258b9ef1b1b0e06ded96d",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=4].desc": {
+      "pl": "[WhenUse] Przy HP poniżej 50% monety 1 i 2 są używane dodatkowo",
+      "kr_sha256": "f0f4c21d6d70ae4e0154d9733e93ae732e61402e7eba15c73aeb766f3166049e",
+      "en_sha256": "e0fe044ba3944cf2fb222a11334a8ec5a4aa306bebcf89fc1fb04f220cc5fceb",
+      "origin": "ai"
+    },
+    "dataList[id=1080302].levelList[level=4].name": {
+      "pl": "Błyskawiczne Uderzenie",
+      "kr_sha256": "1fe9b3f77c63f9dcd002dd7958d025bdc8792009cd1f8d83dcedea4777523f67",
+      "en_sha256": "b9f31c95ec45e4dacf3798c3a9f2413b07ca004667f5e531961e75b407310950",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 2 Oddechu",
+      "kr_sha256": "aa0cc41ad15be87cf36a5cda5049544da4289421b54a8a98993cbda64036cd78",
+      "en_sha256": "f4f1e92bb0e495601f78ffbe8ed15cec9174c7e3c68669d55da599a308514e50",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] Przy HP poniżej 25% odzyskuje HP równe 100% zadanych obrażeń",
+      "kr_sha256": "2a30f66c3a124945f472606f062370720b7d70c0b3d976a1717501029d0157af",
+      "en_sha256": "141f636e4972137eae26c8b305ce4203ce53af418fe2eb9d701b9363b8da2483",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=3].name": {
+      "pl": "Wyrównanie Oddechu",
+      "kr_sha256": "6dd4145c381afd979668e63ec96a196a6d3d739aedd6e9b49624772be8cf2497",
+      "en_sha256": "230e167f8546b9c509d6faf962879b5500c0b3d224bbee807ada00968f565b27",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Zyskuje 2 Oddechu",
+      "kr_sha256": "aa0cc41ad15be87cf36a5cda5049544da4289421b54a8a98993cbda64036cd78",
+      "en_sha256": "f4f1e92bb0e495601f78ffbe8ed15cec9174c7e3c68669d55da599a308514e50",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[CriticalOnSucceedAttack] Przy HP poniżej 25% odzyskuje HP równe 100% zadanych obrażeń",
+      "kr_sha256": "2a30f66c3a124945f472606f062370720b7d70c0b3d976a1717501029d0157af",
+      "en_sha256": "141f636e4972137eae26c8b305ce4203ce53af418fe2eb9d701b9363b8da2483",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=4].desc": {
+      "pl": "Przy 5+ Liczniku Oddechu zadaje +50% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "f507db115ecbfe87ea5a9968a5a0cd8b7ba99242d7a31e7a38abdde3eb2dbbab",
+      "en_sha256": "0eaf7f973bc282af54e1debd07ce883382e397c3ea9e81a141f6ab00c72df3e3",
+      "origin": "ai"
+    },
+    "dataList[id=1080303].levelList[level=4].name": {
+      "pl": "Wyrównanie Oddechu",
+      "kr_sha256": "6dd4145c381afd979668e63ec96a196a6d3d739aedd6e9b49624772be8cf2497",
+      "en_sha256": "230e167f8546b9c509d6faf962879b5500c0b3d224bbee807ada00968f565b27",
+      "origin": "ai"
+    },
+    "dataList[id=1080304].levelList[level=1].name": {
+      "pl": "Kontra",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=1080304].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Oddechu o 1",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "5d18505587dd5821cadae03df9319c13b79df249a0dfe33e9b465a4a993ccd7b",
+      "origin": "ai"
+    },
+    "dataList[id=1080304].levelList[level=4].desc": {
+      "pl": "Przy 5+ Liczniku Oddechu zadaje +50% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "f507db115ecbfe87ea5a9968a5a0cd8b7ba99242d7a31e7a38abdde3eb2dbbab",
+      "en_sha256": "0eaf7f973bc282af54e1debd07ce883382e397c3ea9e81a141f6ab00c72df3e3",
+      "origin": "ai"
+    },
+    "dataList[id=1080304].levelList[level=4].name": {
+      "pl": "Kontra",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 Paraliżu",
+      "kr_sha256": "30b5a51fe1ddaf4d67bd483aa90b1fc5741543128567adc542d487b8e529bfc1",
+      "en_sha256": "40b2a4f750d41c741520e96d3c5806844b86bf24862e4000c6f6fd7fc6884a03",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=1].name": {
+      "pl": "Odepchnięcie",
+      "kr_sha256": "e57472a03068c9abb1df2ebb14ca6f181d2bdee89cd17ccbd8faf9b23dec5283",
+      "en_sha256": "638b48bdb5bb3e3cb34898c975a921e7cbddc304cb0a5cd65e6324edba478f48",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Paraliżu",
+      "kr_sha256": "7212113e0da7e7344688c2d4c39a0e9c68e21fdba936d70e17b3f8f018c2a1ea",
+      "en_sha256": "2a0aee28c6b1b6af07a1876c12647a4fe39c0ad1b35df4ea893585521c399c59",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=2].name": {
+      "pl": "Odepchnięcie",
+      "kr_sha256": "e57472a03068c9abb1df2ebb14ca6f181d2bdee89cd17ccbd8faf9b23dec5283",
+      "en_sha256": "638b48bdb5bb3e3cb34898c975a921e7cbddc304cb0a5cd65e6324edba478f48",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Paraliżu",
+      "kr_sha256": "7212113e0da7e7344688c2d4c39a0e9c68e21fdba936d70e17b3f8f018c2a1ea",
+      "en_sha256": "2a0aee28c6b1b6af07a1876c12647a4fe39c0ad1b35df4ea893585521c399c59",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa Prowokację tego slotu Umiejętności o 4 w następnej turze\nJeżeli cel ma 8+ [Vibration], Moc Umiejętności +2",
+      "kr_sha256": "54bad542bb810591c9113b41d52a86bb146cd1c325f22c0204c7502d80321003",
+      "en_sha256": "79d5e4fd3442690812880775182816015d70045b32918d2900ef19a9e796a16e",
+      "origin": "ai"
+    },
+    "dataList[id=1080401].levelList[level=4].name": {
+      "pl": "Odepchnięcie",
+      "kr_sha256": "e57472a03068c9abb1df2ebb14ca6f181d2bdee89cd17ccbd8faf9b23dec5283",
+      "en_sha256": "638b48bdb5bb3e3cb34898c975a921e7cbddc304cb0a5cd65e6324edba478f48",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 Spadek Mocy Ataku",
+      "kr_sha256": "74d32027ec8d4176842ad36736bb553da063813f54a8c78c668a270615b586dc",
+      "en_sha256": "5c62415ea08a1553f6b5c8bd9428e362e362ec409627580c235e41520065b316",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 4 Wstrząsu",
+      "kr_sha256": "11167322566ffbe3c64c78ffb9d820386face6ad5852c8027668e5e683692bfc",
+      "en_sha256": "0b61647080e11eff9d1420b8876c61ebeafb1dd4d2453b36820a9c8fee5f9305",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 4 Wstrząsu",
+      "kr_sha256": "11167322566ffbe3c64c78ffb9d820386face6ad5852c8027668e5e683692bfc",
+      "en_sha256": "0b61647080e11eff9d1420b8876c61ebeafb1dd4d2453b36820a9c8fee5f9305",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=1].name": {
+      "pl": "Pociski Wstrząsu",
+      "kr_sha256": "b743ab2608dbf95ff90e4f4cfd3b07315faa8f5405e64818e30f16a0b3e9e2c5",
+      "en_sha256": "e385b98748e44f013200d7f3f304aabf0f8c854384ac5bdafe8af4fba454833c",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Spadek Mocy Ataku",
+      "kr_sha256": "bfe95df34067b8046cd0f01676324503a5d205b9feb45d90bb320ff9505ab189",
+      "en_sha256": "e99e7a172da8d113a4051b86677c6fd68157940d59b327240693e5c2b27b68b2",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 8 Wstrząsu i zwiększa Licznik Wstrząsu o 2",
+      "kr_sha256": "8eb169f5dd00ebb29c485a31558467115888520d213e98c5a9ba0408132010d8",
+      "en_sha256": "7aea31e81eacd5aa004eb5cbd507e876fbd3eaf85afb86959e2f0b5928963edf",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=2].coinlist[#2].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 8 Wstrząsu i zwiększa Licznik Wstrząsu o 2",
+      "kr_sha256": "8eb169f5dd00ebb29c485a31558467115888520d213e98c5a9ba0408132010d8",
+      "en_sha256": "7aea31e81eacd5aa004eb5cbd507e876fbd3eaf85afb86959e2f0b5928963edf",
+      "origin": "ai"
+    },
+    "dataList[id=1080402].levelList[level=2].name": {
+      "pl": "Pociski Wstrząsu",
+      "kr_sha256": "b743ab2608dbf95ff90e4f4cfd3b07315faa8f5405e64818e30f16a0b3e9e2c5",
+      "en_sha256": "e385b98748e44f013200d7f3f304aabf0f8c854384ac5bdafe8af4fba454833c",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 4 Rozdarcia i zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "486e5940b0beec5029994197d5be1c71c4234248d5c2341ebe85df65a68edb7c",
+      "en_sha256": "7267930ab1787f2335ccd17e2e32e268a8f20f561d2ae89a28f04f58242ddb67",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 4 Rozdarcia i zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "486e5940b0beec5029994197d5be1c71c4234248d5c2341ebe85df65a68edb7c",
+      "en_sha256": "7267930ab1787f2335ccd17e2e32e268a8f20f561d2ae89a28f04f58242ddb67",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 5 Wrażliwości",
+      "kr_sha256": "0f27bb3456b5040bbe70a3eaf0a5f7cd513e9785c2c5955766c2a44e4b2cf266",
+      "en_sha256": "6342e364257c61c4171028a16be124c9b52429c0ad50d667a258e2af997cb65b",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=3].name": {
+      "pl": "Powstrzymanie",
+      "kr_sha256": "80032b543c1e845c00b5bffce2964a5bf6137477a5d62088e9cb8a7c4e28a642",
+      "en_sha256": "60b199879b9917e0cb932e99a98ec69b4fb03ea9ded83e5babad511b0979d611",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 4 Rozdarcia i zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "486e5940b0beec5029994197d5be1c71c4234248d5c2341ebe85df65a68edb7c",
+      "en_sha256": "7267930ab1787f2335ccd17e2e32e268a8f20f561d2ae89a28f04f58242ddb67",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 4 Rozdarcia i zwiększa Licznik Rozdarcia o 2",
+      "kr_sha256": "486e5940b0beec5029994197d5be1c71c4234248d5c2341ebe85df65a68edb7c",
+      "en_sha256": "7267930ab1787f2335ccd17e2e32e268a8f20f561d2ae89a28f04f58242ddb67",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "Zużywa 1 amunicji.\n[OnSucceedAttack] Nakłada 5 Wrażliwości",
+      "kr_sha256": "0f27bb3456b5040bbe70a3eaf0a5f7cd513e9785c2c5955766c2a44e4b2cf266",
+      "en_sha256": "6342e364257c61c4171028a16be124c9b52429c0ad50d667a258e2af997cb65b",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=4].desc": {
+      "pl": "Jeżeli cel ma 5+ Licznika Wstrząsu, Moc Monet +1",
+      "kr_sha256": "408d4a8c6e7d3d415fe6b432e47fee8a75bcd3a417e75b7b3223b08e1bd28e75",
+      "en_sha256": "a3a0a7f42c92511b461fec41aae2d9bab91a0d60beab2d8697b8f7163e2fa15c",
+      "origin": "ai"
+    },
+    "dataList[id=1080403].levelList[level=4].name": {
+      "pl": "Powstrzymanie",
+      "kr_sha256": "80032b543c1e845c00b5bffce2964a5bf6137477a5d62088e9cb8a7c4e28a642",
+      "en_sha256": "60b199879b9917e0cb932e99a98ec69b4fb03ea9ded83e5babad511b0979d611",
+      "origin": "ai"
+    },
+    "dataList[id=1080404].levelList[level=1].name": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1080404].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa Prowokację tego slotu o 4 w następnej turze\nPrzy 0 amunicji zwiększa ją dodatkowo o 2",
+      "kr_sha256": "b27fb5ef8b13a694a80975c8fec7251cd7f77e1e916f7bce421c65d0f6a05d81",
+      "en_sha256": "8272a89533fc1631b79d2322a85201aa24bb3f47b3800b9fcc773788c6f37c7b",
+      "origin": "ai"
+    },
+    "dataList[id=1080404].levelList[level=4].name": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada +1 Licznika Wstrząsu",
+      "kr_sha256": "1c1f7c9ef3d5cd5ad63355ba5d8cc16d7d068c40dedfe2ec562bab2b4c52a4e3",
+      "en_sha256": "a94049919e1166681fcfa4c34f0736e2d20aa4a602521bb0fc07989a907dd681",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=1].name": {
+      "pl": "Ciężkie...!",
+      "kr_sha256": "0dd2d748a623644be56a8f2005e9863f00b60db24c8707ad2274dc7b22dbce19",
+      "en_sha256": "27e5483e7c120ce6464deb558c4ccc98d0cdee7688b6a56451290978af76cefa",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 [Vibration]",
+      "kr_sha256": "4cd20f2d2c9097d894efd570c33aecb3764a2ea75fa471ded7f30f9e0946b962",
+      "en_sha256": "b51274a3f7e5e39f75e5469fd6691fb5b31f7f2a4e5f1e7366f80cc973153e6c",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=2].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "7186cbcdc751da50ddf7ef2b10318346893b5ab1e2a19c350cff97390fd7ae52",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=2].name": {
+      "pl": "Ciężkie...!",
+      "kr_sha256": "0dd2d748a623644be56a8f2005e9863f00b60db24c8707ad2274dc7b22dbce19",
+      "en_sha256": "27e5483e7c120ce6464deb558c4ccc98d0cdee7688b6a56451290978af76cefa",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 [Vibration]",
+      "kr_sha256": "4cd20f2d2c9097d894efd570c33aecb3764a2ea75fa471ded7f30f9e0946b962",
+      "en_sha256": "b51274a3f7e5e39f75e5469fd6691fb5b31f7f2a4e5f1e7366f80cc973153e6c",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "7186cbcdc751da50ddf7ef2b10318346893b5ab1e2a19c350cff97390fd7ae52",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa Prowokację tego slotu Umiejętności o 4 w następnej turze\n[DefeatDuel] Nakłada 2 Wstrząsu i 2 Rozdarcia",
+      "kr_sha256": "0e08fad3f32ed7da9f95aaba86b484d41b283617eecf3edab49dec932620742c",
+      "en_sha256": "d8a53e15ebf8363d6e1936e7012d938d2419e6af85400e57980356082fc5f4ed",
+      "origin": "ai"
+    },
+    "dataList[id=1080501].levelList[level=4].name": {
+      "pl": "Ciężkie...!",
+      "kr_sha256": "0dd2d748a623644be56a8f2005e9863f00b60db24c8707ad2274dc7b22dbce19",
+      "en_sha256": "27e5483e7c120ce6464deb558c4ccc98d0cdee7688b6a56451290978af76cefa",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 1 [Vibration]",
+      "kr_sha256": "4cd20f2d2c9097d894efd570c33aecb3764a2ea75fa471ded7f30f9e0946b962",
+      "en_sha256": "b51274a3f7e5e39f75e5469fd6691fb5b31f7f2a4e5f1e7366f80cc973153e6c",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 [Vibration]",
+      "kr_sha256": "1941c2a70a3b712ccf3bb9dc8444e1823072187f776a5e6486b2c731ca215b30",
+      "en_sha256": "1c25d27de83c909580aa0c8a786b3c1cf89e92957f4403b38551a667914e1275",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=1].name": {
+      "pl": "Coś się burzy...!",
+      "kr_sha256": "d13f6b94598b86cef935b0179f4c7cfb62beabb0a4bd15375de14e5ce38fe2b0",
+      "en_sha256": "e60c26eb2671015aeb5263b0b22ed5f7d9be719f407ddc68e3cf7ecac63837fd",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "4a3b4f2da4fcf193e53f959ea0fe60d5adc5a49de02a9f9511c6a255f513184a",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "4e1c6c99d03c2bf80de804b9924b6009e4d23bf3d2e60867cd4b174d48d6e6ff",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=2].name": {
+      "pl": "Coś się burzy...!",
+      "kr_sha256": "d13f6b94598b86cef935b0179f4c7cfb62beabb0a4bd15375de14e5ce38fe2b0",
+      "en_sha256": "e60c26eb2671015aeb5263b0b22ed5f7d9be719f407ddc68e3cf7ecac63837fd",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Vibration]",
+      "kr_sha256": "4a3b4f2da4fcf193e53f959ea0fe60d5adc5a49de02a9f9511c6a255f513184a",
+      "en_sha256": "d796d2692d92c21a2286cd9ab316923482e77c8259482c3fe4ba3f5efef455e8",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "4e1c6c99d03c2bf80de804b9924b6009e4d23bf3d2e60867cd4b174d48d6e6ff",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa Prowokację tego slotu Umiejętności o 4 w następnej turze\n[DefeatDuel] Nakłada 3 Wstrząsu i 3 Rozdarcia",
+      "kr_sha256": "4daff31e591c85f128c8e1ed512448a24f8c6e0a8610fff6a4aaafa084d8785e",
+      "en_sha256": "1d80be943aa64f6924c57c3d291ec3911f5dfa87ce5bf2121e3c5cf1a10b4d8e",
+      "origin": "ai"
+    },
+    "dataList[id=1080502].levelList[level=4].name": {
+      "pl": "Coś się burzy...!",
+      "kr_sha256": "d13f6b94598b86cef935b0179f4c7cfb62beabb0a4bd15375de14e5ce38fe2b0",
+      "en_sha256": "e60c26eb2671015aeb5263b0b22ed5f7d9be719f407ddc68e3cf7ecac63837fd",
+      "origin": "ai"
+    },
+    "dataList[id=1080503].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]\nPo wywołaniu [VibrationExplosion] zmniejsza Licznik Wstrząsu o 4. Nakłada 5 Rozdarcia",
+      "kr_sha256": "c2a5d98c0100f7bc8e7809c26dd311e3ebbeffbb14ba77e0425d35846ca71458",
+      "en_sha256": "b62c606e41ac087511fe247e2019bba1b7a8e293633d083f2639cdc1a5b8397b",
+      "origin": "ai"
+    },
+    "dataList[id=1080503].levelList[level=1].name": {
+      "pl": "Cios Żrącego Śluzu",
+      "kr_sha256": "872a94d26c9afcf2ea65ac17d3d18bbcbd51bb1c5ffd10d2324ff6c1c748317f",
+      "en_sha256": "3430891304ac27f3a65977b9748705c5acaa1639a414b4cb5f15ca727190a2dd",
+      "origin": "ai"
+    },
+    "dataList[id=1080503].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]\nPo wywołaniu [VibrationExplosion] zmniejsza Licznik Wstrząsu o 4. Nakłada 5 Rozdarcia",
+      "kr_sha256": "c2a5d98c0100f7bc8e7809c26dd311e3ebbeffbb14ba77e0425d35846ca71458",
+      "en_sha256": "b62c606e41ac087511fe247e2019bba1b7a8e293633d083f2639cdc1a5b8397b",
+      "origin": "ai"
+    },
+    "dataList[id=1080503].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa Prowokację tego slotu Umiejętności o 4 w następnej turze\n[DefeatDuel] Nakłada 5 Wstrząsu i 5 Rozdarcia",
+      "kr_sha256": "d5dc1d66a22d42a8815418ff2bc94024f57f2e3c2469a95cf7891d76911bc210",
+      "en_sha256": "f8143f3415bfde882f71fa03dbd35b8a7bd2f51243a9f50b840988e6f0586266",
+      "origin": "ai"
+    },
+    "dataList[id=1080503].levelList[level=4].name": {
+      "pl": "Cios Żrącego Śluzu",
+      "kr_sha256": "872a94d26c9afcf2ea65ac17d3d18bbcbd51bb1c5ffd10d2324ff6c1c748317f",
+      "en_sha256": "3430891304ac27f3a65977b9748705c5acaa1639a414b4cb5f15ca727190a2dd",
+      "origin": "ai"
+    },
+    "dataList[id=1080504].levelList[level=1].name": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1080504].levelList[level=4].desc": {
+      "pl": "[WhenUse] Zwiększa Prowokację tego slotu Umiejętności o 4 w następnej turze",
+      "kr_sha256": "d2dec649d8ed788906ad20e88cfa29fb13bf35a95374e470b68bcf5189521226",
+      "en_sha256": "5b4ed65aac25a1065b0690aae8caf13af53daf12d8024e91340d07928c9c47d9",
+      "origin": "ai"
+    },
+    "dataList[id=1080504].levelList[level=4].name": {
+      "pl": "Blok",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=1].name": {
+      "pl": "Czerwony Kopniak",
+      "kr_sha256": "1c5b0be47a072844a33b7ef1be378727e898729250ffafc642711aa47f0955a9",
+      "en_sha256": "80a6cb61354b0767e6c6c51bf6530b8cd5b7b4c18ee3aa7e0f2fcb31344478a2",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=2].desc": {
+      "pl": "Jeżeli cel ma 3+ [Combustion], Moc Monet +1",
+      "kr_sha256": "5263d97da5a936e946f7957fc30d6e5648b3a26293f420a7608624fb5006b992",
+      "en_sha256": "e4c0cc51c4cf3d67ab197729a4f253d45c9314ddb512e6d3b8cc59e142251b4a",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=2].name": {
+      "pl": "Czerwony Kopniak",
+      "kr_sha256": "1c5b0be47a072844a33b7ef1be378727e898729250ffafc642711aa47f0955a9",
+      "en_sha256": "80a6cb61354b0767e6c6c51bf6530b8cd5b7b4c18ee3aa7e0f2fcb31344478a2",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=4].desc": {
+      "pl": "Moc Monet +1 za każde 3 Podpalenia celu (maks. 2)",
+      "kr_sha256": "b392c6a9883fbdedd257f2d79fdc91be31812b77fe05d0be8a0fbf2a5605b35c",
+      "en_sha256": "d774017228796a66631f6fadffeaa85b7ccf152d6856d1280065ee78590c4a8c",
+      "origin": "ai"
+    },
+    "dataList[id=1080601].levelList[level=4].name": {
+      "pl": "Czerwony Kopniak",
+      "kr_sha256": "1c5b0be47a072844a33b7ef1be378727e898729250ffafc642711aa47f0955a9",
+      "en_sha256": "80a6cb61354b0767e6c6c51bf6530b8cd5b7b4c18ee3aa7e0f2fcb31344478a2",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Jeżeli cel ma 6+ [Combustion], nakłada 2 Licznika Podpalenia",
+      "kr_sha256": "4db601cf011f4c38c633ead66f2d8336164c5fa18af67c87652dc4e22801e667",
+      "en_sha256": "f2d7ff78ca777577044bb9d94d1b72481548c51acf3bf5dfd0d6993872f318fe",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=1].name": {
+      "pl": "Atak Czołowy",
+      "kr_sha256": "a31adc41f15daff1fb88b71b6167fb18cf3fa611f2e6fdfb1550f96faf8917d7",
+      "en_sha256": "6ec6f1cff5a523c66c8e53c48d822481dea90b5c645d975a91f98ddef458a9d0",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=2].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=2].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=2].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Jeżeli cel ma 6+ [Combustion], nakłada 2 Licznika Podpalenia",
+      "kr_sha256": "4db601cf011f4c38c633ead66f2d8336164c5fa18af67c87652dc4e22801e667",
+      "en_sha256": "f2d7ff78ca777577044bb9d94d1b72481548c51acf3bf5dfd0d6993872f318fe",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=2].desc": {
+      "pl": "Jeżeli cel ma 6+ [Combustion], Moc Monet +1",
+      "kr_sha256": "3e6e9088f4011d62ef87e87587bb0ed2eaab8ee962a52dc9a705a51f8f21b732",
+      "en_sha256": "878acd3c1d0b4614c322090836971f870453cf2af9e754a7293db77cc9202ea6",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=2].name": {
+      "pl": "Atak Czołowy",
+      "kr_sha256": "a31adc41f15daff1fb88b71b6167fb18cf3fa611f2e6fdfb1550f96faf8917d7",
+      "en_sha256": "6ec6f1cff5a523c66c8e53c48d822481dea90b5c645d975a91f98ddef458a9d0",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Jeżeli cel ma 6+ [Combustion], nakłada 2 Licznika Podpalenia",
+      "kr_sha256": "4db601cf011f4c38c633ead66f2d8336164c5fa18af67c87652dc4e22801e667",
+      "en_sha256": "f2d7ff78ca777577044bb9d94d1b72481548c51acf3bf5dfd0d6993872f318fe",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=4].desc": {
+      "pl": "Moc Monet +1 za każde 6 Podpalenia celu (maks. 2)",
+      "kr_sha256": "b3656ac475795653d62eaab421850b94540b4d162289f69901ee3efca0fa4e6b",
+      "en_sha256": "db692fe012759ae7948acf8da86c8fd148433891809029c63f020e364c927a22",
+      "origin": "ai"
+    },
+    "dataList[id=1080602].levelList[level=4].name": {
+      "pl": "Atak Czołowy",
+      "kr_sha256": "a31adc41f15daff1fb88b71b6167fb18cf3fa611f2e6fdfb1550f96faf8917d7",
+      "en_sha256": "6ec6f1cff5a523c66c8e53c48d822481dea90b5c645d975a91f98ddef458a9d0",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika Podpalenia",
+      "kr_sha256": "50d443fbcfa5eb9ce3c2b2a6bd4ec9158d8b6d4e9abc4cb9d3eb3b6b00a10e77",
+      "en_sha256": "ba4f8f52833a45677ecb0d418445efe734f2c5eef15f82331a1b9305baad4aa4",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[EndSkill] Jeżeli cel zostaje Ogłuszony albo ginie, zyskuje 1 Wzmocnienie Monet Plus w następnej turze",
+      "kr_sha256": "b6e19e887d900170fe401084e302c44f4e5c6bf92a1e96159eb936bf7f068aa4",
+      "en_sha256": "39f58f4eadafd39c84480d858e023c479c5b83e3ecc9167e3b6f3874c6ed1a61",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=1].desc": {
+      "pl": "Przy 6+ (suma Podpalenia i Licznika Podpalenia celu) zadaje +30% obrażeń",
+      "kr_sha256": "5e636f97248d3c53fb75e1c6201bbbd8b3c127cea6a0345e71cbb14d88123865",
+      "en_sha256": "1b92a3020b77187e1808229847bbfac51960fb9a958fe4f473386fc3b557f402",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=1].name": {
+      "pl": "Łokieć Wewnętrznej Bramy",
+      "kr_sha256": "02f4e5545ab8ec7b43a495cc8660de581a05a96ddd9b0ead2a69d44f6386c97c",
+      "en_sha256": "04433ea021d5d4a90c763d753a97a26b0a795134933722f225f69957c6ee26c9",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 Podpalenia",
+      "kr_sha256": "7d367a413d0a8517a72d4c3c80c98519d6c260c30fae6e93c4791d3b1ce0c96e",
+      "en_sha256": "fb638450a7c63bf99ac742dbb34924919aab7f1257f3d10ab9da932791ff85df",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika Podpalenia",
+      "kr_sha256": "50d443fbcfa5eb9ce3c2b2a6bd4ec9158d8b6d4e9abc4cb9d3eb3b6b00a10e77",
+      "en_sha256": "ba4f8f52833a45677ecb0d418445efe734f2c5eef15f82331a1b9305baad4aa4",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[EndSkill] Jeżeli cel zostaje Ogłuszony albo ginie, zyskuje 1 Wzmocnienie Monet Plus w następnej turze",
+      "kr_sha256": "b6e19e887d900170fe401084e302c44f4e5c6bf92a1e96159eb936bf7f068aa4",
+      "en_sha256": "39f58f4eadafd39c84480d858e023c479c5b83e3ecc9167e3b6f3874c6ed1a61",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=4].desc": {
+      "pl": "Przy 6+ (suma Podpalenia i Licznika Podpalenia celu) zadaje +50% obrażeń",
+      "kr_sha256": "67f5fab4ae06fa27a3a6ff2a51111474cc2ecd50b8f5a4791c72310a9c455301",
+      "en_sha256": "9f976c164b588544cf6b3d6069d5b2ec11fca1fc52266b7f33830917df20f529",
+      "origin": "ai"
+    },
+    "dataList[id=1080603].levelList[level=4].name": {
+      "pl": "Łokieć Wewnętrznej Bramy",
+      "kr_sha256": "02f4e5545ab8ec7b43a495cc8660de581a05a96ddd9b0ead2a69d44f6386c97c",
+      "en_sha256": "04433ea021d5d4a90c763d753a97a26b0a795134933722f225f69957c6ee26c9",
+      "origin": "ai"
+    },
+    "dataList[id=1080604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika Podpalenia",
+      "kr_sha256": "0f80efad22468b62f6115bf3e3a572209d20b58496c6a26f606d739fe75154c9",
+      "en_sha256": "ef03092ef696ba5c7eb40373c3052d0b256003bbc65e33ae33909e57f06ab0c2",
+      "origin": "ai"
+    },
+    "dataList[id=1080604].levelList[level=1].name": {
+      "pl": "Kontra",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
     }
   }
 }
