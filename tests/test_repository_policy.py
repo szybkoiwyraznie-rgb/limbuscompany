@@ -23,8 +23,6 @@ def entry(path: str, *, mode: str = "100644", stage: int = 0) -> IndexEntry:
 class PathPolicyTests(unittest.TestCase):
     def test_private_directories_are_blocked_at_any_depth_case_insensitively(self):
         for path in (
-            "local/entries.jsonl",
-            "data/LOCAL/source.txt",
             "build/kit.txt",
             "foo/google_drive/report.txt",
             "node_modules/package/readme.md",
@@ -33,6 +31,12 @@ class PathPolicyTests(unittest.TestCase):
         ):
             with self.subTest(path=path):
                 self.assertTrue(entry_violations(entry(path), 1))
+
+    def test_local_directory_is_committed_since_d12(self):
+        # D-12 (2026-11-25): artefakty pracy agentów w `local/` są częścią
+        # repozytorium — jedyne pliki poza Gitem to binaria gry i dane prywatne.
+        self.assertEqual(entry_violations(entry("local/krmap.json"), 1), [])
+        self.assertEqual(entry_violations(entry("local/praca_ai/P59/parsed.json"), 1), [])
 
     def test_unity_binaries_archives_and_secrets_are_blocked_even_if_forced(self):
         for path in (

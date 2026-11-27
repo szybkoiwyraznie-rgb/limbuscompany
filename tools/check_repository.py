@@ -20,9 +20,10 @@ MAX_FILE_BYTES = 10 * 1024 * 1024
 
 # These deliberately mirror the protective parts of .gitignore. A reviewer must
 # still inspect every staged file: its contents may be private under any name.
+# `local` is NOT blocked since D-12 (2026-11-25): work artifacts committed there.
 BLOCKED_DIRECTORIES = frozenset(
     {
-        "local", "google_drive", "build", "dist", "out", "artifacts", "downloads",
+        "google_drive", "build", "dist", "out", "artifacts", "downloads",
         ".venv", "venv", ".direnv", "__pycache__", ".pytest_cache", ".mypy_cache",
         ".ruff_cache", ".cache", "coverage", "node_modules",
         # A raw copy of the game's data directory never belongs in Git; the
