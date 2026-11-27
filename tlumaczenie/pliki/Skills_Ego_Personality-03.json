@@ -1020,6 +1020,18 @@
       "en_sha256": "acde2e30ad57772c391b916ca4bb42cf8d5f89ab6f8f2ccde33be1e1a298abc8",
       "origin": "ai"
     },
+    "dataList[id=2030911].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada ([Charge] - 1) [Burst] (maks. <style=\"highlight\">3</style>)",
+      "kr_sha256": "8caef5605017320cf3081e686f65c7cac1d89da5caf4179475f779786f978e10",
+      "en_sha256": "82363b2a60d11e7abc2ee810e9da81a4ff5096df4b2e973a42445dacd51c0cbc",
+      "origin": "ai"
+    },
+    "dataList[id=2030911].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] nakłada 1 [MagicalGirlResponse] na (1 + (Rezonans Zawiści / 3)) losowych innych sojuszników (maks. 3 sojuszników)\n<style=\"highlight\">- jeżeli ta jednostka ma [MagicalGirlAppear], zamiast tego nakłada 2 [MagicalGirlResponse] na (1 + (Rezonans Zawiści / 3)) losowych innych sojuszników (maks. 3 sojuszników)</style>\n\n[BeforeAttack] zyskuje +([Charge] - 1) Wagi Ataku (maks. <style=\"highlight\">5</style>)\n\n[EndSkill] zużywa wszystkie Liczniki [Charge] tej jednostki, lecąc (2 + (Rezonans Zawiści / 2)) sojuszników z najniższym procentem HP o (zużyte Liczniki [Charge])% HP (maks. 5 sojuszników, maks. <style=\"highlight\">8</style>%)\n\n[EndSkill] jeżeli ta jednostka to Lobotomy E.G.O::W Imię Miłości i Nienawiści Don Kichote, zyskuje 1 [ArcanaQueenOfHate]",
+      "kr_sha256": "90d2a04b6d6f9cfbf965d101c57bf379ecb71d9d2731e65211dde0d7639986c4",
+      "en_sha256": "703066ab715de6194a1091da5335aa8261b2285b3ef2b9ce2ceff9cac5f27f26",
+      "origin": "ai"
+    },
     "dataList[id=2030911].levelList[level=3].name": {
       "pl": "W Imię Miłości i Nienawiści - Major Arcana Slave!!!",
       "kr_sha256": "822c8c0dd41686b1eb08848823bf1326da730403ff8fbddc31955c8bdeedf363",
@@ -1038,16 +1050,448 @@
       "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
       "origin": "ai"
     },
+    "dataList[id=2030911].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +<style=\"highlight\">2</style> Licznika [Charge] (<style=\"highlight\">10</style> razy na turę)",
+      "kr_sha256": "3bed484fb3bd21ea626b0f81978d298a99d5ed901d82a1c9725a96d9d740fce1",
+      "en_sha256": "45e4ffd37b33df82999acb60fef7209cd9a46d6b6c55ee83da04a24cdab1976c",
+      "origin": "ai"
+    },
     "dataList[id=2030911].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
       "pl": "[SuperCoin]",
       "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
       "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
       "origin": "ai"
     },
+    "dataList[id=2030911].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [VillainMark] na cel główny następnej tury",
+      "kr_sha256": "99a60aa1d67b088bdbc10b21bc6dad83233f8b46c5516049823e193c3dd949f8",
+      "en_sha256": "b22a966c2c1a659d0bac81427b52a20b25bfbd073979689811857d349be41928",
+      "origin": "ai"
+    },
+    "dataList[id=2030911].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada ([Charge] - 1) [Burst] (maks. <style=\"highlight\">4</style>)",
+      "kr_sha256": "9587c9c94e10ebdc46ff15d4e8f358afe97a1d3b631ecd179865368d5a4d7f40",
+      "en_sha256": "9aa3afc45a58de1ffb1e892185ee8550cf1635aa677cd6342e2962f7236fe8ee",
+      "origin": "ai"
+    },
+    "dataList[id=2030911].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">- jeżeli ta jednostka ma [MagicalGirlAppear], nakłada +1 Licznika [Burst]</style>",
+      "kr_sha256": "1fe0474ad52d25aa76aa4b71d96d9e654a65aa2e9a9b39aecf59a718d3c2fb7c",
+      "en_sha256": "5db7cee88da390a20e1d6bcce323072d0fc5b2f6e34be28f73e3096548e706ca",
+      "origin": "ai"
+    },
+    "dataList[id=2030911].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] nakłada 1 [MagicalGirlResponse] na (1 + (Rezonans Zawiści / <style=\"highlight\">2</style>)) losowych innych sojuszników (maks. <style=\"highlight\">4</style> sojuszników)\n- jeżeli ta jednostka ma [MagicalGirlAppear], zamiast tego nakłada 2 [MagicalGirlResponse] na (1 + (Rezonans Zawiści / <style=\"highlight\">2</style>)) losowych innych sojuszników (maks. <style=\"highlight\">4</style> sojuszników)\n\n[BeforeAttack] zyskuje +([Charge] - 1) Wagi Ataku (maks. 5)\n<style=\"highlight\">- jeżeli ta jednostka ma [MagicalGirlAppear], zamiast tego zyskuje +([Charge]) Wagi Ataku (maks. 5)</style>\n\n[EndSkill] zużywa wszystkie Liczniki [Charge] tej jednostki, lecąc (2 + (Rezonans Zawiści / 2)) sojuszników z najniższym procentem HP o (zużyte Liczniki [Charge])% HP (maks. 5 sojuszników, maks. <style=\"highlight\">10</style>%)\n\n[EndSkill] jeżeli ta jednostka to Lobotomy E.G.O::W Imię Miłości i Nienawiści Don Kichote, zyskuje 1 [ArcanaQueenOfHate]",
+      "kr_sha256": "9f26b66107c2dd1b267bf6c0277c3aa2472ff33cf1fcae9da82580a4753703b9",
+      "en_sha256": "c3d7df81e45b1186a23269ef0968cc9a6181c56e681ccdba99ee4162a5d9019d",
+      "origin": "ai"
+    },
     "dataList[id=2030911].levelList[level=4].name": {
       "pl": "W Imię Miłości i Nienawiści - Major Arcana Slave!!!",
       "kr_sha256": "822c8c0dd41686b1eb08848823bf1326da730403ff8fbddc31955c8bdeedf363",
       "en_sha256": "f01d165cfea04ba079744ffafc90ee1809e182268551347f32f7c3127721e627",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].abName": {
+      "pl": "Królowa Nienawiści",
+      "kr_sha256": "2491603b9f6a4b596c959661633a4dea13979df6fc9d0b07489084ab13817931",
+      "en_sha256": "a49914ce55f0a036cd63083b017c677b1f6df7cbaec8bf0f0d4545b5fe1d13c8",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +1 Licznika [Charge] (maks. 7 razy na turę)",
+      "kr_sha256": "ee7bb4ff676a46ad04a86454c0fa4a9edbd99880fd589ec484121d8e00c91a3c",
+      "en_sha256": "d108c957d23db944d5049dfa6cc50ee7775e1e0479796a78a5e6c0364887d48f",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada [VillainMark] na cel główny następnej tury",
+      "kr_sha256": "1134abbdd191553130b17a5c83cc212a579f3e52bc8f69f83aa088d295aa9438",
+      "en_sha256": "5e38a4550a3f0ee5ca34c91a8348a7b06eddad4dbcb3a5a0b3d66732da883882",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada ([Charge] - 1) [Sinking] (maks. 2)",
+      "kr_sha256": "c1923bdabc8d99827f301e86f8509b953763b9c3ecdaf51c393533b306418fbb",
+      "en_sha256": "95166aa0139f564b2598b2acaf67ba43049a9121faa8cdf6998e193827258b6f",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje +([Charge]) Wagi Ataku (maks. 5)\n\n[BeforeAttack] zużywa wszystkie Liczniki [Charge], zadając +1% więcej obrażeń za każdy zużyty Licznik [Charge] (maks. 20%)\n\n[BeforeAttack] jeżeli cel główny ma [VillainMark], zadaje +3% obrażeń za każde [Charge] (maks. 15%)\n\n[BeforeAttack] +5% obrażeń za każde 3 Rezonansu Zawiści (maks. 10%, zaokrąglone w dół)\n\n[BeforeAttack] -12 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -24)\n\n[EndSkill] jeżeli ta jednostka to Lobotomy E.G.O::W Imię Miłości i Nienawiści Don Kichote, zyskuje 1 [HystericGauge]",
+      "kr_sha256": "d58e34117f722537544dcf4f8bab1032069c2f718c9a692661fe89a4e20afb29",
+      "en_sha256": "026ae164691803c24cfd88d8d96701513f40fdbcfc3705ff30000d34fca67794",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=1].name": {
+      "pl": "Zmaksymalizowane Odwrócone Arcana Slave - Zatarcie Nienawiści",
+      "kr_sha256": "fcb5900a80f10fe1b700a604c8cd1035fa648704704d3050edcf75bd94c7a5df",
+      "en_sha256": "e34a81db5e6668af1a80577a512b44df1ae07eb651f338b978de536fb963b097",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].abName": {
+      "pl": "Królowa Nienawiści",
+      "kr_sha256": "2491603b9f6a4b596c959661633a4dea13979df6fc9d0b07489084ab13817931",
+      "en_sha256": "a49914ce55f0a036cd63083b017c677b1f6df7cbaec8bf0f0d4545b5fe1d13c8",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +2 Licznika [Charge] (<style=\"highlight\">10</style> razy na turę)",
+      "kr_sha256": "4307c1181980ab553d7b305f76238a4733ef3cc558d62e49e32de750dfabb017",
+      "en_sha256": "04ee7731afcf056fe7b062d7d24191af17a7c0b1f99b21283e2dd502a33e88fa",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada [VillainMark] na cel główny następnej tury",
+      "kr_sha256": "1134abbdd191553130b17a5c83cc212a579f3e52bc8f69f83aa088d295aa9438",
+      "en_sha256": "5e38a4550a3f0ee5ca34c91a8348a7b06eddad4dbcb3a5a0b3d66732da883882",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada ([Charge] - 1) [Sinking] (maks. <style=\"highlight\">3</style>)",
+      "kr_sha256": "d592695dcc47fdb34ee9087366bf43b822fd8d8ddc6cd991c4b9b558d60d3c2f",
+      "en_sha256": "879121985e9f20dc74ec17ce4078c9446c77b67c99597ab756364e4be3d7d146",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje +([Charge]) Wagi Ataku (maks. 5)\n<style=\"highlight\">- jeżeli ta jednostka ma [NoVillain], zamiast tego zyskuje +([Charge] + 1) Wagi Ataku (maks. 5)</style>\n\n[BeforeAttack] zużywa wszystkie Liczniki [Charge], zadając +<style=\"highlight\">2</style>% więcej obrażeń za każdy zużyty Licznik [Charge] (maks. <style=\"highlight\">40</style>%)\n\n[BeforeAttack] jeżeli cel główny ma [VillainMark], zadaje +<style=\"highlight\">5</style>% obrażeń za każde [Charge] (maks. <style=\"highlight\">25</style>%)\n<style=\"highlight\">- jeżeli ta jednostka ma [HystericGauge], zamiast tego zadaje +7% obrażeń za każde [Charge] (maks. 35%)</style>\n\n[BeforeAttack] +<style=\"highlight\">7</style>% obrażeń za każde 2 Rezonansu Zawiści (maks. <style=\"highlight\">21</style>%, zaokrąglone w dół)\n\n[BeforeAttack] -12 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -24)\n\n[EndSkill] jeżeli ta jednostka to Lobotomy E.G.O::W Imię Miłości i Nienawiści Don Kichote, zyskuje 1 [HystericGauge]",
+      "kr_sha256": "7cb3da4cc80f7beb932f0172881e55fc7051e77fea669f2e41527ff83b462a1a",
+      "en_sha256": "3a90cf6e244cac9ade584a8c3e2811a594cfbfe2eebbf9474231fc69fd68d8a5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=3].name": {
+      "pl": "Zmaksymalizowane Odwrócone Arcana Slave - Zatarcie Nienawiści",
+      "kr_sha256": "fcb5900a80f10fe1b700a604c8cd1035fa648704704d3050edcf75bd94c7a5df",
+      "en_sha256": "e34a81db5e6668af1a80577a512b44df1ae07eb651f338b978de536fb963b097",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].abName": {
+      "pl": "Królowa Nienawiści",
+      "kr_sha256": "2491603b9f6a4b596c959661633a4dea13979df6fc9d0b07489084ab13817931",
+      "en_sha256": "a49914ce55f0a036cd63083b017c677b1f6df7cbaec8bf0f0d4545b5fe1d13c8",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +2 Licznika [Charge] (<style=\"highlight\">14</style> razy na turę)",
+      "kr_sha256": "23958182a79859f317e84b64947024f00926c02f5c9af3c6c7b5d02ea3dc328a",
+      "en_sha256": "69534546e9c668a470622380597738209ea282a5df89cccf7e565b45f6a63c54",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack]</style> Nakłada w następnej turze [VillainMark] na główny cel",
+      "kr_sha256": "d5fd6d8859f53f765cf10a24b11f49ca03884ac11b009c930efd9949511c0bea",
+      "en_sha256": "fcc5abb5f567ca8e0af8f01d01943a59f5c2f7f14e112d3605550e338c402912",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada ([Charge] - 1) [Sinking] (maks. <style=\"highlight\">4</style>)",
+      "kr_sha256": "117a2042c9dee1b0069aea08ba2b389d458274ceef13759c2ad5c1428d6831f4",
+      "en_sha256": "f7280e342cfc92f1398aa1070922bea27672e1d1d571d293ef43ca88b4d4632b",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">- jeżeli ta jednostka ma [NoVillain], nakłada +1 Licznika [Sinking]</style>",
+      "kr_sha256": "90419ac612537c0cab441a00b7b0c290f9ac9611eca918d51a4df77302f287c1",
+      "en_sha256": "877add1a8171026d320ccd78c17865a71e3c31e8b03ebc0a07a0dbc24943ae8c",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje +([Charge]) Wagi Ataku (maks. 5)\n- jeżeli ta jednostka ma [NoVillain], zamiast tego zyskuje +([Charge] + 1) Wagi Ataku (maks. 5)\n\n[BeforeAttack] zużywa wszystkie Liczniki [Charge], zadając +<style=\"highlight\">2,5</style>% więcej obrażeń za każdy zużyty Licznik [Charge] (maks. <style=\"highlight\">50</style>%)\n\n[BeforeAttack] jeżeli cel główny ma [VillainMark], zadaje +5% obrażeń za każde [Charge] (maks. 25%)\n- jeżeli ta jednostka ma [HystericGauge], zamiast tego zadaje +<style=\"highlight\">10</style>% obrażeń za każde [Charge] (maks. <style=\"highlight\">50</style>%)\n\n[BeforeAttack] +<style=\"highlight\">10%</style> obrażeń za każde 2 Rezonansu Zawiści (maks. <style=\"highlight\">30%</style>, zaokrąglone w dół)\n\n[BeforeAttack] -12 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -24)\n\n[EndSkill] jeżeli ta jednostka to Lobotomy E.G.O::W Imię Miłości i Nienawiści Don Kichote, zyskuje 1 [HystericGauge]",
+      "kr_sha256": "1badc3fa98ca3305d0163208a79d3fa541761e0db8b09bd92fc22b10ad97b783",
+      "en_sha256": "098b287f3d57085c2b284cb0d8d84a07f16112124212dfac8148784a5c37ce71",
+      "origin": "ai"
+    },
+    "dataList[id=2030921].levelList[level=4].name": {
+      "pl": "Zmaksymalizowane Odwrócone Arcana Slave - Zatarcie Nienawiści",
+      "kr_sha256": "fcb5900a80f10fe1b700a604c8cd1035fa648704704d3050edcf75bd94c7a5df",
+      "en_sha256": "e34a81db5e6668af1a80577a512b44df1ae07eb651f338b978de536fb963b097",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=1].abName": {
+      "pl": "Pobawisz się?",
+      "kr_sha256": "f7f120a5f9f8a1644de0dc751e856c00747ec60b84e6185c7cb114ef6e8e84cf",
+      "en_sha256": "647b8fad6b6c0da74fa6214e4da9ea087ff2ba06e58df6a32942fe927efa520a",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[WinDuelAttack] nakłada 1 [ResultReduction] następnej tury (1 raz na turę na cel)",
+      "kr_sha256": "0bcbb90823f212de1135b040690deea1a9bfeccec26ce88d17d6d8174a3aed81",
+      "en_sha256": "7584ef28e0db634f23a22d79863f7771057823947cc5c2c1b5cf4cc8e68fc259",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=1].desc": {
+      "pl": "[WinDuelEndSkill] leczy (2 + Rezonans Zawiści / 2) sojuszników z najniższym aktualnym procentem HP po 2% HP i 5 SP każdego (maks. 3 jednostek)\n[DefeatDuel] zyskuje (Rezonans Zawiści x 5) Tarczy (maks. 20)\n[DefeatDuel] zadaje +100% obrażeń celowi głównemu",
+      "kr_sha256": "e561700106fb82c0514154d35ede98ee3d282515d4b272ada5bef062ce75d60c",
+      "en_sha256": "13fe784c600238660c3acba47352db5da7a61cb9db8c7c30ea006d75af63ccbb",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=1].name": {
+      "pl": "Idę w nożyce. A ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=3].abName": {
+      "pl": "Pobawisz się?",
+      "kr_sha256": "f7f120a5f9f8a1644de0dc751e856c00747ec60b84e6185c7cb114ef6e8e84cf",
+      "en_sha256": "647b8fad6b6c0da74fa6214e4da9ea087ff2ba06e58df6a32942fe927efa520a",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[WinDuelAttack] nakłada 1 [ResultReduction] następnej tury (1 raz na turę na cel)",
+      "kr_sha256": "0bcbb90823f212de1135b040690deea1a9bfeccec26ce88d17d6d8174a3aed81",
+      "en_sha256": "7584ef28e0db634f23a22d79863f7771057823947cc5c2c1b5cf4cc8e68fc259",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=3].desc": {
+      "pl": "[WinDuelEndSkill] leczy (2 + Rezonans Zawiści / 2) sojuszników z najniższym aktualnym procentem HP po <style=\"highlight\">4</style>% HP i 5 SP każdego (maks. <style=\"highlight\">4</style> jednostek)\n[DefeatDuel] zyskuje (Rezonans Zawiści x 5) Tarczy (maks. <style=\"highlight\">25</style>)\n[DefeatDuel] zadaje +<style=\"highlight\">150</style>% obrażeń celowi głównemu",
+      "kr_sha256": "90b3f10e90ca8cc63bbf9f93ca267abf0c7515ae0a785b00d45ee5ba1853bef1",
+      "en_sha256": "dd9d705e58c5395ac64857c82323c8b0be5742a936455d6b4a995c55475edbfc",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=3].name": {
+      "pl": "Idę w nożyce. A ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=4].abName": {
+      "pl": "Pobawisz się?",
+      "kr_sha256": "f7f120a5f9f8a1644de0dc751e856c00747ec60b84e6185c7cb114ef6e8e84cf",
+      "en_sha256": "647b8fad6b6c0da74fa6214e4da9ea087ff2ba06e58df6a32942fe927efa520a",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[WinDuelAttack] nakłada 1 [ResultReduction] następnej tury (1 raz na turę na cel)",
+      "kr_sha256": "0bcbb90823f212de1135b040690deea1a9bfeccec26ce88d17d6d8174a3aed81",
+      "en_sha256": "7584ef28e0db634f23a22d79863f7771057823947cc5c2c1b5cf4cc8e68fc259",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Laceration]",
+      "kr_sha256": "0bf7fcbc2913720f81b82882269a0da85e68afc432d0dd7b253b621295d32ef0",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=4].desc": {
+      "pl": "[WinDuelEndSkill] leczy (2 + Rezonans Zawiści / 2) sojuszników z najniższym aktualnym procentem HP po <style=\"highlight\">6</style>% HP i 5 SP każdego (maks. 4 jednostek)\n[DefeatDuel] zyskuje (Rezonans Zawiści x 5) Tarczy (maks. <style=\"highlight\">30</style>)\n[DefeatDuel] zadaje +<style=\"highlight\">200</style>% obrażeń celowi głównemu",
+      "kr_sha256": "9573b3bbd60ea36adf96dc7111ee028fb155efe428414b3e07f2d314a0b3914d",
+      "en_sha256": "806752d2026df6dfdbd297ae2f6cbc0704b2170243cb7ed26640f95612d478e1",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].levelList[level=4].name": {
+      "pl": "Idę w nożyce. A ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].abName": {
+      "pl": "Pobawisz się?",
+      "kr_sha256": "f7f120a5f9f8a1644de0dc751e856c00747ec60b84e6185c7cb114ef6e8e84cf",
+      "en_sha256": "647b8fad6b6c0da74fa6214e4da9ea087ff2ba06e58df6a32942fe927efa520a",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ResultReduction] następnej tury (1 raz na turę na cel)",
+      "kr_sha256": "2e9ad61c7d9602754e875a353ee52357f43e7e22b958da6a98cf152d23c20b57",
+      "en_sha256": "e782db54d7fd9dc4d8ce2bdbe14f0df968d84c413dfe7d1f2444c830cc70d861",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 [Laceration]",
+      "kr_sha256": "cedd3cfa30f52b2c7016b9dc0705b67d59443c9d9b0764d98f4fbe973d61f7e8",
+      "en_sha256": "f0e337fdb9679e27beda0b93a2117349ec24b4342056e6c1e575bdd349bf3f45",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nprzy Rezonansie Zawiści 2+ +1 do Mocy Końcowej\n[WinDuel] zadaje +60% obrażeń celowi głównemu\n[DefeatDuel] zyskuje Tarczę równą (Rezonans Zawiści x 5) (maks. 20)\n[DefeatDuel] ta Umiejętność nakłada +1 więcej [ResultReduction]",
+      "kr_sha256": "eb29de7ceb9dab5aeb2893010dabc509223594da25cb4fc17e0d2f8d96aeaf89",
+      "en_sha256": "2ba6111aca353a6d6ad1fc1c2e93d0c890a463e36529d88954b27600c9483611",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=1].name": {
+      "pl": "Idę w nożyce. A ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].abName": {
+      "pl": "Pobawisz się?",
+      "kr_sha256": "f7f120a5f9f8a1644de0dc751e856c00747ec60b84e6185c7cb114ef6e8e84cf",
+      "en_sha256": "647b8fad6b6c0da74fa6214e4da9ea087ff2ba06e58df6a32942fe927efa520a",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ResultReduction] następnej tury (1 raz na turę na cel)",
+      "kr_sha256": "2e9ad61c7d9602754e875a353ee52357f43e7e22b958da6a98cf152d23c20b57",
+      "en_sha256": "e782db54d7fd9dc4d8ce2bdbe14f0df968d84c413dfe7d1f2444c830cc70d861",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 [Laceration]",
+      "kr_sha256": "cedd3cfa30f52b2c7016b9dc0705b67d59443c9d9b0764d98f4fbe973d61f7e8",
+      "en_sha256": "f0e337fdb9679e27beda0b93a2117349ec24b4342056e6c1e575bdd349bf3f45",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n+1 do Mocy Końcowej <style=\"highlight\">za każde 2 Rezonansu Zawiści</style> <style=\"highlight\">(maks. 2)</style>\n[WinDuel] zadaje +<style=\"highlight\">80</style>% obrażeń celowi głównemu\n[DefeatDuel] zyskuje Tarczę równą (Rezonans Zawiści x 5) (maks. <style=\"highlight\">25</style>)\n[DefeatDuel] ta Umiejętność nakłada +1 więcej [ResultReduction]",
+      "kr_sha256": "6a3dd8d36cf25cc4ee7fa621f11e46ea43bb1ae27b7bf7af563fbdb3203a9d1e",
+      "en_sha256": "fb8257cde55b8078a85a09622e4ce77e13b7d9d4a79344b377762126d2444360",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=3].name": {
+      "pl": "Idę w nożyce. A ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].abName": {
+      "pl": "Pobawisz się?",
+      "kr_sha256": "f7f120a5f9f8a1644de0dc751e856c00747ec60b84e6185c7cb114ef6e8e84cf",
+      "en_sha256": "647b8fad6b6c0da74fa6214e4da9ea087ff2ba06e58df6a32942fe927efa520a",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ResultReduction] następnej tury (1 raz na turę na cel)",
+      "kr_sha256": "2e9ad61c7d9602754e875a353ee52357f43e7e22b958da6a98cf152d23c20b57",
+      "en_sha256": "e782db54d7fd9dc4d8ce2bdbe14f0df968d84c413dfe7d1f2444c830cc70d861",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 [Laceration]",
+      "kr_sha256": "cedd3cfa30f52b2c7016b9dc0705b67d59443c9d9b0764d98f4fbe973d61f7e8",
+      "en_sha256": "f0e337fdb9679e27beda0b93a2117349ec24b4342056e6c1e575bdd349bf3f45",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n+1 do Mocy Końcowej za każde 2 Rezonansu Zawiści (maks. <style=\"highlight\">3</style>)\n[WinDuel] zadaje +<style=\"highlight\">100</style>% obrażeń celowi głównemu\n[DefeatDuel] zyskuje Tarczę równą (Rezonans Zawiści x 5) (maks. <style=\"highlight\">30</style>)\n[DefeatDuel] ta Umiejętność nakłada +1 więcej [ResultReduction]",
+      "kr_sha256": "b688d5db1cda92294311c2ea461df39b183faf5fc9cd7f8e5b970ee9f671c9d8",
+      "en_sha256": "c741c67273b93baab8123f295af873b708e87b9b2dd19eb0dc494ac48ff55e8c",
+      "origin": "ai"
+    },
+    "dataList[id=2031021].levelList[level=4].name": {
+      "pl": "Idę w nożyce. A ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
       "origin": "ai"
     }
   }

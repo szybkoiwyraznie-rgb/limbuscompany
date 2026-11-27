@@ -1907,6 +1907,1512 @@
       "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
       "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
       "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=1].abName": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 4 Podpalenia",
+      "kr_sha256": "c64e948c92324142f35afc3bb7f35ed3c0efa46a94a254621c61329d59c423eb",
+      "en_sha256": "213271f44fbdb4bee7f1eb52e1162a864c6a79cab72c98cbdff012d3bfb9676a",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=1].name": {
+      "pl": "Las Płomieni",
+      "kr_sha256": "a4f0ddaf5df0a5992885b112865be2797fdc7bc51eeaafad48d9a8e9d1448b41",
+      "en_sha256": "025135ba0a0606c1a7932333a4ff8ecb7863190a4c1315b274954103bd9b143b",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=3].abName": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 Podpalenia",
+      "kr_sha256": "4da59028211e948d502d92b3f7d25d6a802d01fab8ec91383b651b7c919c22d8",
+      "en_sha256": "9b4bab8d4395401ea98a501583451ac263ad263971f31c9f1f27a3343f5576c0",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Vulnerable] następnej tury",
+      "kr_sha256": "78b86e99975620a9d4ea100586744ad7c074e3dd3989a90f09c897759799e80b",
+      "en_sha256": "49923e613180fe492bd2a3feb976981b35fc27d892c580411b4e1ad35c1f1093",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=3].name": {
+      "pl": "Las Płomieni",
+      "kr_sha256": "a4f0ddaf5df0a5992885b112865be2797fdc7bc51eeaafad48d9a8e9d1448b41",
+      "en_sha256": "025135ba0a0606c1a7932333a4ff8ecb7863190a4c1315b274954103bd9b143b",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=4].abName": {
+      "pl": "Ryōshū",
+      "kr_sha256": "ed92a97535b3299fe97b2c1723df9b0e9c98e104dd56179b5a84eb1663e1d39a",
+      "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 Podpalenia",
+      "kr_sha256": "4da59028211e948d502d92b3f7d25d6a802d01fab8ec91383b651b7c919c22d8",
+      "en_sha256": "9b4bab8d4395401ea98a501583451ac263ad263971f31c9f1f27a3343f5576c0",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 Wrażliwości",
+      "kr_sha256": "77caf25672e0af14b616c907cbab0f9fd0026818e290601850a8a21baefd361a",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 [Vulnerable] następnej tury",
+      "kr_sha256": "78b86e99975620a9d4ea100586744ad7c074e3dd3989a90f09c897759799e80b",
+      "en_sha256": "49923e613180fe492bd2a3feb976981b35fc27d892c580411b4e1ad35c1f1093",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].levelList[level=4].name": {
+      "pl": "Las Płomieni",
+      "kr_sha256": "a4f0ddaf5df0a5992885b112865be2797fdc7bc51eeaafad48d9a8e9d1448b41",
+      "en_sha256": "025135ba0a0606c1a7932333a4ff8ecb7863190a4c1315b274954103bd9b143b",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=1].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=1].desc": {
+      "pl": "Moc Umiejętności +2 przeciwko jednostkom posiadającym [Combustion]\n[EnemyKill] następnej tury zyskuje 1 [Enhancement]",
+      "kr_sha256": "530f4b9a600307e799c8c329320054f28ed3a75a2c5a3c2cdd1d0c557e7e2d1f",
+      "en_sha256": "0e4e001f4a032e3cd44895ee36e3b0c23192c438c6f1f504fe28f95fd47492ab",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=1].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=3].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=3].desc": {
+      "pl": "Moc Umiejętności +2 przeciwko jednostkom posiadającym [Combustion]\n[EnemyKill] następnej tury zyskuje 2 [Enhancement]",
+      "kr_sha256": "dfbf75b5a1dda8d695518df83501ad3ca5a9b3f57b5e9ee4d196df0ca81b5bd2",
+      "en_sha256": "6099a76ff17ae37c338ac04892066d53e6c2eda80791a9aa3f28955c438da60b",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=3].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=4].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=4].desc": {
+      "pl": "Moc Umiejętności +2 przeciwko jednostkom posiadającym [Combustion]\nzadaje +5% obrażeń za każdą 1 Siłę [Combustion] celu (maks. 100%)\n[EnemyKill] następnej tury zyskuje +2 [Enhancement]",
+      "kr_sha256": "766faede2edb4ff3e20a7d291eeee9b079c2de2fe659cf77e264cd95bb0aea09",
+      "en_sha256": "493477c836f74b148934f095650567d5992460b9f895a8aad61732b9f40062bd",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=4].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=5].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] <style=\"highlight\">zadaje ((Siła [Combustion] celu x 2)% końcowych obrażeń tej Monety) obrażeń Gniewu (maks. 20%)</style>",
+      "kr_sha256": "318a7941ba9c6dbfe5a422b1227d43a8ff190997d7fb2d2e47ce2415ddc8d3bc",
+      "en_sha256": "8157d6795a6378510084c6f02a10464f0c2d9e3a5d5c92d6cf847435a463a642",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "d5338dd8be1e22a66700c2aa4357d16af9ba285534fb2718e0e9c69509d861ed",
+      "en_sha256": "ac90b71b572b0436ce709553fdc8c6c003607ee373009d4f2e8a4da03da42964",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=5].desc": {
+      "pl": "Moc Umiejętności +2 przeciwko jednostkom posiadającym [Combustion]\n<style=\"highlight\">[BeforeAttack]</style> zadaje +5% obrażeń za każdą <style=\"highlight\">1 sumy [Combustion] wszystkich celów ataku</style> (maks. 100%)\n[EnemyKill] następnej tury zyskuje 2 [Enhancement]",
+      "kr_sha256": "680b117846daf2542d5055004b1ee44ec95c9d0d2386885e4bb0a8381c9063a9",
+      "en_sha256": "00fc3cf20a0c7cd2f41fc4c7c7eb9f6d55d2342bd5eab48ed6c7e212227a8e6c",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].levelList[level=5].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=1].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Umiejętności +2 przeciwko jednostkom posiadającym [Combustion]\n[EnemyKill] następnej tury zyskuje 2 [Enhancement].\n[EnemyKillFail] następnej tury zyskuje 10 [Combustion]",
+      "kr_sha256": "51cf143a5c9b45f05137c942331037451e255e7925be4d83a5fbf83176a97d93",
+      "en_sha256": "3b89f74ce684a9fb2c5d59a2da9d82ba2e1be452315d85a43d92f737bb1577e1",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=1].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=3].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Umiejętności +4 przeciwko jednostkom posiadającym [Combustion]\n[EnemyKill] następnej tury zyskuje 3 [Enhancement].\n[EnemyKillFail] następnej tury zyskuje 3 [Enhancement] i 10 [Combustion]",
+      "kr_sha256": "b85dcb850a355ad888aa1cf8ccc0455ebba17002694826bab655c6a2ad43c43c",
+      "en_sha256": "82aad8a123b37e323fe185a30d3592840bded65de42448727be6c580436ca8b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=3].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=4].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Umiejętności +4 przeciwko jednostkom posiadającym [Combustion]\nzadaje +5% obrażeń za każdą 1 Siłę [Combustion] celu (maks. 100%)\n[EnemyKill] następnej tury zyskuje 3 [Enhancement].\n[EnemyKillFail] następnej tury zyskuje 3 [Enhancement] i 10 [Combustion]",
+      "kr_sha256": "bad161d889c53dc42dd3b9e4d53bbe72c2b7b4687bf559ba8209a254324dcce4",
+      "en_sha256": "e4577cc3e58439631f87b176f7f2d44ed4dc04e08bc0d5a2f7cafaf06a298776",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=4].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=5].abName": {
+      "pl": "Spalona Dziewczynka",
+      "kr_sha256": "851e2ad33db0a336c8cedfbb6b9b3c2797605c7a25b682a75ac4bf1f2d890f4f",
+      "en_sha256": "79d1724a2bfe844d497ef4f33972f59e94157cf60c74a6b018a3e31f99316c38",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[SuperCoin]</style>",
+      "kr_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "en_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] <style=\"highlight\">zadaje ((Siła [Combustion] celu x 3)% końcowych obrażeń tej Monety) obrażeń Gniewu (maks. 30%)</style>",
+      "kr_sha256": "cc2f6cb7191ec74addca69c6a72fd1d1dd3b2626e6e0ca70283bfd4c38ee0c9f",
+      "en_sha256": "29c72b10b597cfa0e4508139778fab525ff2307832410efa9bd6ea1ee30cdec7",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "d5338dd8be1e22a66700c2aa4357d16af9ba285534fb2718e0e9c69509d861ed",
+      "en_sha256": "ac90b71b572b0436ce709553fdc8c6c003607ee373009d4f2e8a4da03da42964",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=5].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Umiejętności +4 przeciwko jednostkom posiadającym [Combustion]\n<style=\"highlight\">[BeforeAttack]</style> zadaje +5% obrażeń za każdą <style=\"highlight\">1 sumy [Combustion] wszystkich celów ataku</style> (maks. 100%)\n<style=\"highlight\">[DefeatDuel] Moc Bazowa -16</style>\n[EnemyKill] następnej tury zyskuje 3 [Enhancement]\n[EnemyKillFail] następnej tury zyskuje 3 [Enhancement] i 10 [Combustion]",
+      "kr_sha256": "af5637aa70105933619e1db7209e97bab7fb489b7c3e825b35318c9eb18a4129",
+      "en_sha256": "6dfa0384a810b828304821857958c13b0cf912017c12dcf2c55987f3cafbae88",
+      "origin": "ai"
+    },
+    "dataList[id=2040221].levelList[level=5].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=1].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], nakłada 1 Osłabienia Monety Plus następnej tury",
+      "kr_sha256": "8b3bb67e9e3184f654a8902a8c7a390f1bd6596ad98f30cf3b44a259262e4d25",
+      "en_sha256": "eb8842720539bef56d3e166b6cf78f19063eb86be4bb1c9d585ec121da933ba6",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=1].name": {
+      "pl": "Czerwone Oko",
+      "kr_sha256": "d7daefa36f5ad2057316f51869f8755cb20845245ca706d534c8d0bef70e2283",
+      "en_sha256": "e495bbd3606a212f07a64af464afb50ba9ac5bbf404ce8271246e91c90b97074",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=3].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], nakłada 1 Osłabienia Monety Plus następnej tury",
+      "kr_sha256": "8b3bb67e9e3184f654a8902a8c7a390f1bd6596ad98f30cf3b44a259262e4d25",
+      "en_sha256": "eb8842720539bef56d3e166b6cf78f19063eb86be4bb1c9d585ec121da933ba6",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Prędkość celu jest niższa niż użytkownika, nakłada 2 Kruchości Cięcia następnej tury",
+      "kr_sha256": "8929700440bdd7c5aee6311b9d592a1a60eeb383889e2732d434dda15520bca4",
+      "en_sha256": "45b97bd6cb2e1b48ec9138ca7d3719a41468e74804ff9dd847a8eaf297752534",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=3].name": {
+      "pl": "Czerwone Oko",
+      "kr_sha256": "d7daefa36f5ad2057316f51869f8755cb20845245ca706d534c8d0bef70e2283",
+      "en_sha256": "e495bbd3606a212f07a64af464afb50ba9ac5bbf404ce8271246e91c90b97074",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=4].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], nakłada 1 Osłabienia Monety Plus następnej tury",
+      "kr_sha256": "8b3bb67e9e3184f654a8902a8c7a390f1bd6596ad98f30cf3b44a259262e4d25",
+      "en_sha256": "eb8842720539bef56d3e166b6cf78f19063eb86be4bb1c9d585ec121da933ba6",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Prędkość celu jest niższa niż użytkownika, nakłada 2 Kruchości Cięcia następnej tury",
+      "kr_sha256": "8929700440bdd7c5aee6311b9d592a1a60eeb383889e2732d434dda15520bca4",
+      "en_sha256": "45b97bd6cb2e1b48ec9138ca7d3719a41468e74804ff9dd847a8eaf297752534",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].levelList[level=4].name": {
+      "pl": "Czerwone Oko",
+      "kr_sha256": "d7daefa36f5ad2057316f51869f8755cb20845245ca706d534c8d0bef70e2283",
+      "en_sha256": "e495bbd3606a212f07a64af464afb50ba9ac5bbf404ce8271246e91c90b97074",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=1].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], nakłada 2 Osłabienia Monety Plus następnej tury",
+      "kr_sha256": "a198f7c62c5d1cb4c0b4d51f9b92d62773a3f332c89ca2d880def9df56a0434c",
+      "en_sha256": "e9bb3dc4f78a0647766765969d0b439a95393bd0d2c1497a75bcdddb9f19424d",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=1].name": {
+      "pl": "Czerwone Oko",
+      "kr_sha256": "d7daefa36f5ad2057316f51869f8755cb20845245ca706d534c8d0bef70e2283",
+      "en_sha256": "e495bbd3606a212f07a64af464afb50ba9ac5bbf404ce8271246e91c90b97074",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=3].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], nakłada 2 Osłabienia Monety Plus następnej tury",
+      "kr_sha256": "a198f7c62c5d1cb4c0b4d51f9b92d62773a3f332c89ca2d880def9df56a0434c",
+      "en_sha256": "e9bb3dc4f78a0647766765969d0b439a95393bd0d2c1497a75bcdddb9f19424d",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli Prędkość celu jest niższa niż użytkownika, nakłada 1-3 Kruchości Cięcia następnej tury",
+      "kr_sha256": "646ec8f3951cd3f52eaeffacde97be3ea07c03efba4bdcdbb6bef088f14fc232",
+      "en_sha256": "75d025414a5a028793429d8e5e88f6d9fc4a76e05361028db47959a0dd786a3d",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2040321].levelList[level=3].name": {
+      "pl": "Czerwone Oko",
+      "kr_sha256": "d7daefa36f5ad2057316f51869f8755cb20845245ca706d534c8d0bef70e2283",
+      "en_sha256": "e495bbd3606a212f07a64af464afb50ba9ac5bbf404ce8271246e91c90b97074",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=1].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], zadaje +20% obrażeń",
+      "kr_sha256": "aa88e2cc19483279581bf5a09460969e921f11d2e4767f5220091622134c23b9",
+      "en_sha256": "ee1648f1e56f975f47c693c85f6e184b96971e8cbcc87bab75ac886a32844f61",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=1].desc": {
+      "pl": "jeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +4 do Mocy Monety",
+      "kr_sha256": "6c678a979bd740458e442a7e73e56bceaf6350a7aa645d9e2758d65415d17251",
+      "en_sha256": "15e81b1f3ee89eec8e6e23bb972540662c1c4722d54ef8543e80e37a22f32f5b",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=1].name": {
+      "pl": "Czerwone Oczy (Otwarte)",
+      "kr_sha256": "62d0302320514759069d2ac5abee18e33d9f9b68751f68f8fe25f4326d2ae243",
+      "en_sha256": "17ee6f164b5821f8bd6f5c0403a6d379c1c567099198e23d2420723ff318e107",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=3].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], zadaje +20% obrażeń",
+      "kr_sha256": "aa88e2cc19483279581bf5a09460969e921f11d2e4767f5220091622134c23b9",
+      "en_sha256": "ee1648f1e56f975f47c693c85f6e184b96971e8cbcc87bab75ac886a32844f61",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta Umiejętność Oszołomi lub pokona cel, użytkownik i 1 sojusznik z najniższym HP odzyskują 10% Maks. HP",
+      "kr_sha256": "833f14d8dc6ad75dbb60f474242aea3942d073edd39d1681cc8665ed51bad0fe",
+      "en_sha256": "f4f50d4fb39ed5ca0ba3d86574bfe13fe38030a053539ee66e855bbc407779e9",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=3].desc": {
+      "pl": "jeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +4 do Mocy Monety",
+      "kr_sha256": "6c678a979bd740458e442a7e73e56bceaf6350a7aa645d9e2758d65415d17251",
+      "en_sha256": "15e81b1f3ee89eec8e6e23bb972540662c1c4722d54ef8543e80e37a22f32f5b",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=3].name": {
+      "pl": "Czerwone Oczy (Otwarte)",
+      "kr_sha256": "62d0302320514759069d2ac5abee18e33d9f9b68751f68f8fe25f4326d2ae243",
+      "en_sha256": "17ee6f164b5821f8bd6f5c0403a6d379c1c567099198e23d2420723ff318e107",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=4].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], zadaje +40% obrażeń",
+      "kr_sha256": "5a55ea632cbab66f3b09bb94991983416ae42f3a5147a0e6aa77b74b43321eaa",
+      "en_sha256": "ead0ccf8f2a29204cd28ab86519eed82c59bf979edc1fd79f563e0c547c59a4b",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta Umiejętność Oszołomi lub pokona cel, użytkownik i 1 sojusznik z najniższym HP odzyskują 10% Maks. HP",
+      "kr_sha256": "833f14d8dc6ad75dbb60f474242aea3942d073edd39d1681cc8665ed51bad0fe",
+      "en_sha256": "f4f50d4fb39ed5ca0ba3d86574bfe13fe38030a053539ee66e855bbc407779e9",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=4].desc": {
+      "pl": "jeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +7 do Mocy Monety",
+      "kr_sha256": "bdb4fc2cef7fa52a400b581bae20215e5a86d56a91fd0af39019fcdd6b981622",
+      "en_sha256": "d5f30cafe365d1b863d35a7ef5c475d5dbbf38878d4434d34799961cde85a1e5",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].levelList[level=4].name": {
+      "pl": "Czerwone Oczy (Otwarte)",
+      "kr_sha256": "62d0302320514759069d2ac5abee18e33d9f9b68751f68f8fe25f4326d2ae243",
+      "en_sha256": "17ee6f164b5821f8bd6f5c0403a6d379c1c567099198e23d2420723ff318e107",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=1].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], zadaje +30% obrażeń",
+      "kr_sha256": "d26250781be9585500e812f5db6439c8613c92635ae3074db1afef904c8542d8",
+      "en_sha256": "c911ed7e690c9df1e43ebceb5e5f02c9682df04e161850cbee3e2def396f7a19",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\njeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +7 do Mocy Końcowej",
+      "kr_sha256": "073268dd56792eeab04b9a25695596b33d9361ce1835362da66dff00a5533822",
+      "en_sha256": "a94581a3eeeee2d499e89f4b20a3d1963ad276721eec311d8514a05b572899f2",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=1].name": {
+      "pl": "Czerwone Oczy (Otwarte)",
+      "kr_sha256": "62d0302320514759069d2ac5abee18e33d9f9b68751f68f8fe25f4326d2ae243",
+      "en_sha256": "17ee6f164b5821f8bd6f5c0403a6d379c1c567099198e23d2420723ff318e107",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=3].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], zadaje +30% obrażeń",
+      "kr_sha256": "d26250781be9585500e812f5db6439c8613c92635ae3074db1afef904c8542d8",
+      "en_sha256": "c911ed7e690c9df1e43ebceb5e5f02c9682df04e161850cbee3e2def396f7a19",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta Umiejętność Oszołomi lub pokona cel, użytkownik i 1 sojusznik z najniższym HP odzyskują 10% Maks. HP",
+      "kr_sha256": "833f14d8dc6ad75dbb60f474242aea3942d073edd39d1681cc8665ed51bad0fe",
+      "en_sha256": "f4f50d4fb39ed5ca0ba3d86574bfe13fe38030a053539ee66e855bbc407779e9",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\njeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +7 do Mocy Końcowej",
+      "kr_sha256": "073268dd56792eeab04b9a25695596b33d9361ce1835362da66dff00a5533822",
+      "en_sha256": "a94581a3eeeee2d499e89f4b20a3d1963ad276721eec311d8514a05b572899f2",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=3].name": {
+      "pl": "Czerwone Oczy (Otwarte)",
+      "kr_sha256": "62d0302320514759069d2ac5abee18e33d9f9b68751f68f8fe25f4326d2ae243",
+      "en_sha256": "17ee6f164b5821f8bd6f5c0403a6d379c1c567099198e23d2420723ff318e107",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=4].abName": {
+      "pl": "Pąk Pająka",
+      "kr_sha256": "856a11d4af7d7e8d49a72cdff060d55cad94563fba86e019e8dd3438dbc7ffaa",
+      "en_sha256": "d1bdd9ea864fa7c43bbe312035a1a7a6ec52b86d6ba11f177b60543f87322cf8",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 3+ [Binding], zadaje +50% obrażeń",
+      "kr_sha256": "2619364bac1ca74d8d5164ed7154ba932da5ab1df2cdfaed76bd2b08f73a1685",
+      "en_sha256": "c47a352f598473bc73d21fad5fcb385918bdf84beee9f0d26942411c569a88d8",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta Umiejętność Oszołomi lub pokona cel, użytkownik i 1 sojusznik z najniższym HP odzyskują 10% Maks. HP",
+      "kr_sha256": "833f14d8dc6ad75dbb60f474242aea3942d073edd39d1681cc8665ed51bad0fe",
+      "en_sha256": "f4f50d4fb39ed5ca0ba3d86574bfe13fe38030a053539ee66e855bbc407779e9",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\njeżeli Prędkość głównego celu ataku jest niższa niż użytkownika o 3 lub więcej, +10 do Mocy Końcowej",
+      "kr_sha256": "0dbc2cd93c84cccd045465799b1de899af0c5283b71fdcac957ced4394750389",
+      "en_sha256": "99442e48f59743843d7e33966bc6424796150ee8e07ca7350339ea18648a4bfe",
+      "origin": "ai"
+    },
+    "dataList[id=2040421].levelList[level=4].name": {
+      "pl": "Czerwone Oczy (Otwarte)",
+      "kr_sha256": "62d0302320514759069d2ac5abee18e33d9f9b68751f68f8fe25f4326d2ae243",
+      "en_sha256": "17ee6f164b5821f8bd6f5c0403a6d379c1c567099198e23d2420723ff318e107",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=1].abName": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Binding] następnej tury",
+      "kr_sha256": "175ce14789bf78536b88b5bd9795b696715ced1fdabf54270cce2ca0b8428359",
+      "en_sha256": "d7358e8f121ac9b8b76b46b4698f18238018c1d9baed6eb068e21ebf4d37aa4f",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Redukcji Mocy Ataku następnej tury",
+      "kr_sha256": "78b5d2ac09e95f5138b5c528b2cd5dec5c3d67efbaaf55d393dbcae714604592",
+      "en_sha256": "d725cabe6516a2b21ed5d770d075c2af532fb0161b2bb2a0777da59b79f23e9f",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 Redukcji Mocy Ataku następnej tury",
+      "kr_sha256": "88e6c3e91fbe721743d6241acd32901158161c8b07aa5aad8c0ab8172a10e2aa",
+      "en_sha256": "0b589dd2904b2853ae1f2308018402821f8cccb6b7be9d80616e038a6437732b",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=1].name": {
+      "pl": "Łańcuchy Innych",
+      "kr_sha256": "aad0b119807cc0d93e8881eb60d65b5dd8da5fc357900ccb2e3f677afeadbac5",
+      "en_sha256": "31b13ec4a416103a382326997f0decf05ae76a8a419fa1cda99a59a8111bd6f7",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].abName": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Binding] następnej tury",
+      "kr_sha256": "eb1a1bcc844b2d6fab03b928a64da85a421c79527fa72c765958372901844933",
+      "en_sha256": "146688406500310f9963b7621240fa2e543a722bfce865c1f1e52975c7c128d0",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 5 [Binding] następnej tury",
+      "kr_sha256": "5bfda92df924e12dd6327638646b9b2580142c0295305915cd6b8a91b5dddccc",
+      "en_sha256": "44bd468ec32204a9a2483ede1972b179c2e8817f00d636badad63052a774e2fe",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Redukcji Mocy Ataku następnej tury",
+      "kr_sha256": "56bde30f28f3958441401222f2525837e9bb96f3e5e9f25f0b5065c2db4a59dc",
+      "en_sha256": "c52fac6339b11dc0d012b5b701d0565f7668fe26affe035d2944e6eedb2f30a0",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 Redukcji Mocy Ataku następnej tury",
+      "kr_sha256": "a2658fd09525b11f7751c53e9846bcad65acde8f4e116ecb8dc118aae5ced1a3",
+      "en_sha256": "5250b3b94af702d8785f1fd2e3abdbe4acb141a54a0a57080232dcdb68a03909",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttackHead] zyskuje 2 Ochrony następnej tury",
+      "kr_sha256": "32e0a8c0cfd14853130eb84c3ae3f284d89eec7e0af3c2649112dd4dd376ce59",
+      "en_sha256": "df2a70825ee4f2adc13e88698e574267fae0445d498632ee5486a45b8af9b3cc",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=3].name": {
+      "pl": "Łańcuchy Innych",
+      "kr_sha256": "aad0b119807cc0d93e8881eb60d65b5dd8da5fc357900ccb2e3f677afeadbac5",
+      "en_sha256": "31b13ec4a416103a382326997f0decf05ae76a8a419fa1cda99a59a8111bd6f7",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].abName": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Binding] następnej tury",
+      "kr_sha256": "eb1a1bcc844b2d6fab03b928a64da85a421c79527fa72c765958372901844933",
+      "en_sha256": "146688406500310f9963b7621240fa2e543a722bfce865c1f1e52975c7c128d0",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Binding] następnej tury",
+      "kr_sha256": "175ce14789bf78536b88b5bd9795b696715ced1fdabf54270cce2ca0b8428359",
+      "en_sha256": "d7358e8f121ac9b8b76b46b4698f18238018c1d9baed6eb068e21ebf4d37aa4f",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Redukcji Mocy Ataku następnej tury",
+      "kr_sha256": "56bde30f28f3958441401222f2525837e9bb96f3e5e9f25f0b5065c2db4a59dc",
+      "en_sha256": "c52fac6339b11dc0d012b5b701d0565f7668fe26affe035d2944e6eedb2f30a0",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 Redukcji Mocy Ataku następnej tury",
+      "kr_sha256": "404f389a3db0284d898fd7b3ad5cee36bbc079651811b96f9338450326e8c3b9",
+      "en_sha256": "71e803fe77cad65227a2592c9e0509c5a2acc6e2888d8d9e63b760cb1e0780c2",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 Ochrony następnej tury",
+      "kr_sha256": "ebf34f7b559a9516bc985c7417b300aca7d1fa6326b4769429b7e42cf4581474",
+      "en_sha256": "c593e3d2c7135b0f89afd783b1b9449e0595c7db9e424b4fd1039f5fe971e1d2",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].levelList[level=4].name": {
+      "pl": "Łańcuchy Innych",
+      "kr_sha256": "aad0b119807cc0d93e8881eb60d65b5dd8da5fc357900ccb2e3f677afeadbac5",
+      "en_sha256": "31b13ec4a416103a382326997f0decf05ae76a8a419fa1cda99a59a8111bd6f7",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=1].abName": {
+      "pl": "Chcesz oberwać? Mocno?",
+      "kr_sha256": "3c1e371850d6a8d1196513697733e52bee6a7027f1eacbd43549213a832bd395",
+      "en_sha256": "b8f1af451626169eb310f17b346c6ef536ce91eb00d2af56c951515d60a1998f",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Paraliżu",
+      "kr_sha256": "1dac18d4f39e3c15a006df50576b9599869a1feac00eef74d53facc434095819",
+      "en_sha256": "90bfeeda2d1f4a941dccbf497fbaa1a832ad752765cef71fc17492a57f407380",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=1].desc": {
+      "pl": "[EndSkill] zyskuje 3 Ochrony",
+      "kr_sha256": "ed897d0b6eb87618d48ba64fee68503cad50738a410f1704ffce771e327606f5",
+      "en_sha256": "d847fbee051cbdc0da1b8d078e14c5e8734b59e5c33e937eb4059f3bb1348fed",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=1].name": {
+      "pl": "Cios Wywalonej Śruby",
+      "kr_sha256": "9a53a317e40a70ab02c08013f1c11c6688deb6f78c108b848f4e7351f7d5f84e",
+      "en_sha256": "393817070c7463055ea58aa2d73fa2422cad0cd219ef6160814d4f581156131f",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=3].abName": {
+      "pl": "Chcesz oberwać? Mocno?",
+      "kr_sha256": "3c1e371850d6a8d1196513697733e52bee6a7027f1eacbd43549213a832bd395",
+      "en_sha256": "b8f1af451626169eb310f17b346c6ef536ce91eb00d2af56c951515d60a1998f",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Paraliżu",
+      "kr_sha256": "1dac18d4f39e3c15a006df50576b9599869a1feac00eef74d53facc434095819",
+      "en_sha256": "90bfeeda2d1f4a941dccbf497fbaa1a832ad752765cef71fc17492a57f407380",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=3].desc": {
+      "pl": "[EndSkill] zyskuje 3 Ochrony\n[EndSkill] zyskuje 1 Zabiegu następnej tury",
+      "kr_sha256": "3392e21e1d4f1111e4c9a47f1a679d49f4245a3f26eaf5a4ea3a6e61ffc7eac0",
+      "en_sha256": "ca4e67717cdb92c55ba0da4d8f168e17e054a9d23b81a8f308d647b3f76c55f8",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].levelList[level=3].name": {
+      "pl": "Cios Wywalonej Śruby",
+      "kr_sha256": "9a53a317e40a70ab02c08013f1c11c6688deb6f78c108b848f4e7351f7d5f84e",
+      "en_sha256": "393817070c7463055ea58aa2d73fa2422cad0cd219ef6160814d4f581156131f",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=1].abName": {
+      "pl": "Chcesz oberwać? Mocno?",
+      "kr_sha256": "3c1e371850d6a8d1196513697733e52bee6a7027f1eacbd43549213a832bd395",
+      "en_sha256": "b8f1af451626169eb310f17b346c6ef536ce91eb00d2af56c951515d60a1998f",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Paraliżu",
+      "kr_sha256": "1dac18d4f39e3c15a006df50576b9599869a1feac00eef74d53facc434095819",
+      "en_sha256": "90bfeeda2d1f4a941dccbf497fbaa1a832ad752765cef71fc17492a57f407380",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=1].desc": {
+      "pl": "[EndSkill] zyskuje 2 Zabiegu następnej tury",
+      "kr_sha256": "7cf956eeed5078118f14ba38d5a92b173e9abcd38b586a8967329f813c25e2e7",
+      "en_sha256": "66b2a928609f9da74026f7417a794b5e769fb1f0715d3168c3ca1871f731935e",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=1].name": {
+      "pl": "Cios Wywalonej Śruby",
+      "kr_sha256": "9a53a317e40a70ab02c08013f1c11c6688deb6f78c108b848f4e7351f7d5f84e",
+      "en_sha256": "393817070c7463055ea58aa2d73fa2422cad0cd219ef6160814d4f581156131f",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=3].abName": {
+      "pl": "Chcesz oberwać? Mocno?",
+      "kr_sha256": "3c1e371850d6a8d1196513697733e52bee6a7027f1eacbd43549213a832bd395",
+      "en_sha256": "b8f1af451626169eb310f17b346c6ef536ce91eb00d2af56c951515d60a1998f",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Paraliżu",
+      "kr_sha256": "1dac18d4f39e3c15a006df50576b9599869a1feac00eef74d53facc434095819",
+      "en_sha256": "90bfeeda2d1f4a941dccbf497fbaa1a832ad752765cef71fc17492a57f407380",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "podnosi Próg Oszołomienia o wartość 30% zadanych obrażeń",
+      "kr_sha256": "2d2b873178284975f5f6955eba6d67bf62d418d99d532656eb8831800c8b9ad3",
+      "en_sha256": "0a2804439d6c956e37a54f5855c897dbaf0072f6d9078fea449bdff9204dd6ea",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=3].desc": {
+      "pl": "[EndSkill] zyskuje 2 Zabiegu następnej tury",
+      "kr_sha256": "7cf956eeed5078118f14ba38d5a92b173e9abcd38b586a8967329f813c25e2e7",
+      "en_sha256": "66b2a928609f9da74026f7417a794b5e769fb1f0715d3168c3ca1871f731935e",
+      "origin": "ai"
+    },
+    "dataList[id=2050221].levelList[level=3].name": {
+      "pl": "Cios Wywalonej Śruby",
+      "kr_sha256": "9a53a317e40a70ab02c08013f1c11c6688deb6f78c108b848f4e7351f7d5f84e",
+      "en_sha256": "393817070c7463055ea58aa2d73fa2422cad0cd219ef6160814d4f581156131f",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=1].abName": {
+      "pl": "Skribe Niebiańskiego Wykonawcy",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Wybuch Wstrząsu",
+      "kr_sha256": "0a7f1001aff6323553da135f4736d751c542c9a8f771d548a8be1eaad19a9785",
+      "en_sha256": "5915a321a196be1e5e25f3e4787c44ec3324ea315c75efa3c56f975587efa352",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=1].desc": {
+      "pl": "[EndSkill] leczy 2 innych sojuszników z najniższym HP o 15% Maks. HP",
+      "kr_sha256": "1f6cb51daa8ae26ffd9526a60dff8a2b014fd6314149879cfe711c824d0a57ba",
+      "en_sha256": "9aededf5da80a61ca7d006e9c4c37ac7fe6589e3bbe6925ad15af3fc53c0aac0",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=1].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=3].abName": {
+      "pl": "Skribe Niebiańskiego Wykonawcy",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=3].desc": {
+      "pl": "[EndSkill] leczy 2 innych sojuszników z najniższym HP o 30% Maks. HP; nakłada 2 Ochrony następnej tury",
+      "kr_sha256": "0cdc249d1c17f1a3fdee2f651c613e050ca62a1dbab29c05b30b197e4070a812",
+      "en_sha256": "020a9dda386db205295864b2451779d8da08a1b14820936c5281e49a11868008",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].levelList[level=3].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=1].abName": {
+      "pl": "Skribe Niebiańskiego Wykonawcy",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Wybuch Wstrząsu",
+      "kr_sha256": "0a7f1001aff6323553da135f4736d751c542c9a8f771d548a8be1eaad19a9785",
+      "en_sha256": "5915a321a196be1e5e25f3e4787c44ec3324ea315c75efa3c56f975587efa352",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] nakłada 1 [Vulnerable] i 2 zwiększenia zadawanych obrażeń następnej tury na 2 innych sojuszników z najniższym HP",
+      "kr_sha256": "c9d1fa1da33e5c4002d61a0f5c88037fdbeb5660bf4fe21893eb0b2be98b7181",
+      "en_sha256": "38ab6efdd03034fa199b415349867f23ab5d6a68a7f17c652c5f48c978cfc76e",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=1].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=3].abName": {
+      "pl": "Skribe Niebiańskiego Wykonawcy",
+      "kr_sha256": "548410ff14dae578852b1cc0dc549693466084d1f5333d62440f9208aa284da6",
+      "en_sha256": "7ae10f280791b33dfcfef049dc4366c63425e46ed5dd8437e958a36fcb418e72",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] nakłada 2 [Vulnerable] i 3 zwiększenia zadawanych obrażeń następnej tury na 2 innych sojuszników z najniższym HP",
+      "kr_sha256": "30620be8c0dc91e7bcbbc974a226b9dc2b0693dd9b5157acb8c7d3374f21d06a",
+      "en_sha256": "e658f22ae7c4f7e13c75ebd14a86e47840e8bd2b9064115482bdcecbe915e752",
+      "origin": "ai"
+    },
+    "dataList[id=2050321].levelList[level=3].name": {
+      "pl": "Egzekucja",
+      "kr_sha256": "674e172f7ecce4db45b90e88938fbb8df53948cd4b8aa0ddf92b752be0ead336",
+      "en_sha256": "297ce3ef966e172d4fb4d350d4907fea385c7bf991db6d460dfa8cd1d8059c22",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=1].abName": {
+      "pl": "Spiżowy Byk",
+      "kr_sha256": "5200b5434efd971e3f00b2ae4f7bb170607dbf7c943c54d112e1c1ab5fa01960",
+      "en_sha256": "b9e18522ad2c8b39bf1960f563881a5ffed8aa37e7072844ce120d911fc53cfe",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ecbcef35e8ed21121c4be89b5c5e4aa616b97e6ff6ec6eff91903046909de858",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Vibration] w ilości równej [Combustion] celu",
+      "kr_sha256": "64b29197b12f7c67fb30c54e4cae746603565c9977b4b7cdd7b139fddc950464",
+      "en_sha256": "69301740715b7c6131b139c2549b6454a38712f11a34b47d502606593fffdc75",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] o 3; jeżeli [VibrationExplosion] Oszołomił cel, nakłada +1 Licznika [Combustion] na 5 losowych wrogów",
+      "kr_sha256": "b3c21f0539311deeed74619d3e7c6c70b414a405f145d1831aa570b31ce57512",
+      "en_sha256": "115283650a7afe692e68cc33791147034dc683533839cacb59e2ce7aba6dc5b4",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=1].desc": {
+      "pl": "[EndSkill] zyskuje 1 [Agility], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury",
+      "kr_sha256": "07734b1ae77fb1d0c34caf51283baa828cd0b0da2d1e46b4b75eb4f061b9973d",
+      "en_sha256": "5c852591b1e9fee944da82381ba6bd54ff0ba0bf2cecdd3346c046d9a3478827",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=1].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].abName": {
+      "pl": "Spiżowy Byk",
+      "kr_sha256": "5200b5434efd971e3f00b2ae4f7bb170607dbf7c943c54d112e1c1ab5fa01960",
+      "en_sha256": "b9e18522ad2c8b39bf1960f563881a5ffed8aa37e7072844ce120d911fc53cfe",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 7 Podpalenia",
+      "kr_sha256": "dfa8d5546bc60f16fa46c9c81c16131ac177e5278107ab5d279bfa140c3a88f4",
+      "en_sha256": "23df1974313def6cf0f401be33cd986a9971faecd570e21196b289705e54bc12",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Vibration] w ilości równej [Combustion] celu",
+      "kr_sha256": "64b29197b12f7c67fb30c54e4cae746603565c9977b4b7cdd7b139fddc950464",
+      "en_sha256": "69301740715b7c6131b139c2549b6454a38712f11a34b47d502606593fffdc75",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Podpalenia na 5 losowych wrogów",
+      "kr_sha256": "b7eb0a1d776de044447f05102166a0bc291e29627b8f97dd6a55eee863648863",
+      "en_sha256": "be971ea3ff3ff747b826bfcce17bbd2adb48bbdf024db9cf481ee3bb71216fec",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] o 2; jeżeli [VibrationExplosion] Oszołomił cel, nakłada +2 Licznika [Combustion] na 5 losowych wrogów",
+      "kr_sha256": "254c40c83d6d4f01424a7887ff2f24d78b074fbd9b32e794f7a164136c217daa",
+      "en_sha256": "749193134d6c6884de4f81bec32ff73305913e30a89332b5e67ea4436b26f61f",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].desc": {
+      "pl": "[EndSkill] zyskuje 2 [Agility], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury",
+      "kr_sha256": "88edd9188e5153ac53b113912e819ec24bf61abf44d15d927461ded70aebef11",
+      "en_sha256": "7a016fb0798acd869eabb70dcceb7e82448c4012d84a6428bc8177ba884d3644",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=3].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].abName": {
+      "pl": "Spiżowy Byk",
+      "kr_sha256": "5200b5434efd971e3f00b2ae4f7bb170607dbf7c943c54d112e1c1ab5fa01960",
+      "en_sha256": "b9e18522ad2c8b39bf1960f563881a5ffed8aa37e7072844ce120d911fc53cfe",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 Podpalenia",
+      "kr_sha256": "d768f745d9e7e42850eaecc6412a1189d3cab53567879d810e5c59fbc784ce82",
+      "en_sha256": "9d45c8e2586a644a3923043e0a8c8026d08233c2a8fc5877a1ddc2b3074b8a25",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Vibration] w ilości równej [Combustion] celu",
+      "kr_sha256": "64b29197b12f7c67fb30c54e4cae746603565c9977b4b7cdd7b139fddc950464",
+      "en_sha256": "69301740715b7c6131b139c2549b6454a38712f11a34b47d502606593fffdc75",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Podpalenia na 5 losowych wrogów",
+      "kr_sha256": "8db284a2902a73c5143a87b7899e7ebb050359e8447062d895a0c0214fc4db60",
+      "en_sha256": "4433e26ab47b78effe058facffaa2b28bf0f30c6848b5a51ca03bf83bee84551",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] o 2; jeżeli [VibrationExplosion] Oszołomił cel, nakłada +3 Licznika [Combustion] na 5 losowych wrogów",
+      "kr_sha256": "56317735bd030c0e99c7bbd1786147cff5196bb0dbcdc85de2ddc26df83d6735",
+      "en_sha256": "3ab558b3e4a1313318c0a89794493089b304abb4ad2b132be4c298c2f004b594",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].desc": {
+      "pl": "[EndSkill] zyskuje 2 [Agility], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury",
+      "kr_sha256": "88edd9188e5153ac53b113912e819ec24bf61abf44d15d927461ded70aebef11",
+      "en_sha256": "7a016fb0798acd869eabb70dcceb7e82448c4012d84a6428bc8177ba884d3644",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].levelList[level=4].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=1].abName": {
+      "pl": "Spiżowy Byk",
+      "kr_sha256": "5200b5434efd971e3f00b2ae4f7bb170607dbf7c943c54d112e1c1ab5fa01960",
+      "en_sha256": "b9e18522ad2c8b39bf1960f563881a5ffed8aa37e7072844ce120d911fc53cfe",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 Podpalenia",
+      "kr_sha256": "4da59028211e948d502d92b3f7d25d6a802d01fab8ec91383b651b7c919c22d8",
+      "en_sha256": "9b4bab8d4395401ea98a501583451ac263ad263971f31c9f1f27a3343f5576c0",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Vibration] w ilości równej [Combustion] celu",
+      "kr_sha256": "64b29197b12f7c67fb30c54e4cae746603565c9977b4b7cdd7b139fddc950464",
+      "en_sha256": "69301740715b7c6131b139c2549b6454a38712f11a34b47d502606593fffdc75",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] o 3; jeżeli [VibrationExplosion] Oszołomił cel, nakłada +2 Licznika [Combustion] na 5 losowych jednostek",
+      "kr_sha256": "a2586c0d09769400954963d3b26eda9f628af46972637fc9d847ebdd1e412faa",
+      "en_sha256": "577b0a2ee51f72f34c1dda43fb502b6eb6485ea77cdd2e642ff02992d1dcbfc7",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] zyskuje 1 [Agility], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury",
+      "kr_sha256": "8406dca75bb2163b052f58b40a81608024521523e31ee35c0533be59bff7ecff",
+      "en_sha256": "ba49e606fe316a09003bff6911f56fe8f416ddeb468ab04ac1f8a18ee29838d7",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=1].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].abName": {
+      "pl": "Spiżowy Byk",
+      "kr_sha256": "5200b5434efd971e3f00b2ae4f7bb170607dbf7c943c54d112e1c1ab5fa01960",
+      "en_sha256": "b9e18522ad2c8b39bf1960f563881a5ffed8aa37e7072844ce120d911fc53cfe",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 Podpalenia",
+      "kr_sha256": "d768f745d9e7e42850eaecc6412a1189d3cab53567879d810e5c59fbc784ce82",
+      "en_sha256": "9d45c8e2586a644a3923043e0a8c8026d08233c2a8fc5877a1ddc2b3074b8a25",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Vibration] w ilości równej [Combustion] celu",
+      "kr_sha256": "64b29197b12f7c67fb30c54e4cae746603565c9977b4b7cdd7b139fddc950464",
+      "en_sha256": "69301740715b7c6131b139c2549b6454a38712f11a34b47d502606593fffdc75",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Podpalenia na 5 losowych jednostek",
+      "kr_sha256": "e132d9750c238185c854d3a1be6379ad5df2627bba80729cb5c602e9b5e12ece",
+      "en_sha256": "97e2f9a610e5defa7132935d379948ecce0b545d5e8aaa6e12bdc91198947bac",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] o 2; jeżeli [VibrationExplosion] Oszołomił cel, nakłada +3 Licznika [Combustion] na 5 losowych jednostek",
+      "kr_sha256": "674b9a2a8910c1d8a8497f3cd2d73dbbdabe3b61265421252870642769eec213",
+      "en_sha256": "1da17e2f8e3170da8845fad1f40961cbdacdc37cff56567d940c90ded4130b88",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] zyskuje 2 [Agility], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury",
+      "kr_sha256": "337a2525386d221382766710d300e59b798825e98e2f38982704d03c19f1c666",
+      "en_sha256": "4a4474cf1070e0e0068fb0a1985d721a676a01f4c5d60f584fb0337d42c81917",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=3].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].abName": {
+      "pl": "Spiżowy Byk",
+      "kr_sha256": "5200b5434efd971e3f00b2ae4f7bb170607dbf7c943c54d112e1c1ab5fa01960",
+      "en_sha256": "b9e18522ad2c8b39bf1960f563881a5ffed8aa37e7072844ce120d911fc53cfe",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 12 Podpalenia",
+      "kr_sha256": "357b98842609c17bb38a5b5cf0da9ca4999564883ea18b98d34e6aa93cf8f6a4",
+      "en_sha256": "5491d651dc934fa95de5c0bcd4244d0b3101fc200abd3c06640626aaeca88c09",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Vibration] w ilości równej [Combustion] celu",
+      "kr_sha256": "64b29197b12f7c67fb30c54e4cae746603565c9977b4b7cdd7b139fddc950464",
+      "en_sha256": "69301740715b7c6131b139c2549b6454a38712f11a34b47d502606593fffdc75",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Podpalenia na 5 losowych jednostek",
+      "kr_sha256": "227bbdae5bb683e8aa1cf9fca967617e2a075e444739711d6fb450e1c3ece71f",
+      "en_sha256": "c5aef7cb4575da419142d161da8f0a48a96e632119aeaacd57f0b109ea858e54",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] o 2; jeżeli [VibrationExplosion] Oszołomił cel, nakłada +4 Licznika [Combustion] na 5 losowych jednostek",
+      "kr_sha256": "6a8d151c252036aeb2bc03a44117013c962c327fbcf57710b7337dccf29a27da",
+      "en_sha256": "ee8967a07947c63155f0bb812b5bace8ee7cb28092bbee7d0dbb9e15653ade61",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] zyskuje 2 [Agility], 1 zwiększenia Mocy Gniewu i 1 zwiększenia Mocy Uderzenia następnej tury",
+      "kr_sha256": "337a2525386d221382766710d300e59b798825e98e2f38982704d03c19f1c666",
+      "en_sha256": "4a4474cf1070e0e0068fb0a1985d721a676a01f4c5d60f584fb0337d42c81917",
+      "origin": "ai"
+    },
+    "dataList[id=2050421].levelList[level=4].name": {
+      "pl": "Capote",
+      "kr_sha256": "6c5921b9f59ba6db4eb566e00aac245b5eaf5a2a7b24f2388beb8eec04087940",
+      "en_sha256": "105247941ee4c096abc56afd5847825fad32513fe5d56394601187c94404f09a",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=1].abName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Zatonięcia",
+      "kr_sha256": "4b604703fbc331d0d167c93e30caf7563af87dffe44f3d105005354409d55193",
+      "en_sha256": "561cafdbb1fa6d51e772211a27e4ee724ab1766f2244c6b8c7089353debae1da",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=1].name": {
+      "pl": "Kraina Złudzeń",
+      "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
+      "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=3].abName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "40eae9b158c3564f9e22e6615784f0678b6c4f65c1e6f1084d218658cfd91a19",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=3].desc": {
+      "pl": "[EndSkill] odzyskuje 15 SP",
+      "kr_sha256": "21b079648fc716a65134a16729e5536618ffdcd6e9f9a24a95dbc3618bed3ea5",
+      "en_sha256": "bf8f4e4c4a9b1ae69510d34ea01fb1eafe63dea628cf6977cb6fd3f9bf8aa5b6",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=3].name": {
+      "pl": "Kraina Złudzeń",
+      "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
+      "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=4].abName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "40eae9b158c3564f9e22e6615784f0678b6c4f65c1e6f1084d218658cfd91a19",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] następnej tury skuteczność utraty SP wszystkich sojuszników -2, utrata SP przy użyciu E.G.O -2",
+      "kr_sha256": "a76da61ed5eee91249cb2c254c2d11c682c2817355d7a02ab2bb000d0d39b274",
+      "en_sha256": "f631dccd80548ca1b342e14ca9a5f829eb990a72bcab118ccf42ea48c17d7564",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=4].desc": {
+      "pl": "[EndSkill] odzyskuje 15 SP",
+      "kr_sha256": "21b079648fc716a65134a16729e5536618ffdcd6e9f9a24a95dbc3618bed3ea5",
+      "en_sha256": "bf8f4e4c4a9b1ae69510d34ea01fb1eafe63dea628cf6977cb6fd3f9bf8aa5b6",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].levelList[level=4].name": {
+      "pl": "Kraina Złudzeń",
+      "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
+      "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=1].abName": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadki Mocy Obrony",
+      "kr_sha256": "af5a871ab2fe59239e4dff1518539d3b21df2615b83bbaaac4d3289093b7c5c8",
+      "en_sha256": "f0831f8fe4a56c7a2d6b0300bcdb27e73352958296130285f6bcc12b9c6151ce",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadku Poziomu Obrony",
+      "kr_sha256": "62ff25aa4d6eb3987065c25420d45cabcf0e40939d1ac281637e5830cf9004fd",
+      "en_sha256": "db60bfcd9c361bd7b2ba1306834cd2b9297d1c126d03f1f9f59314f7541e30d2",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=1].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=3].abName": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadki Mocy Obrony",
+      "kr_sha256": "af5a871ab2fe59239e4dff1518539d3b21df2615b83bbaaac4d3289093b7c5c8",
+      "en_sha256": "f0831f8fe4a56c7a2d6b0300bcdb27e73352958296130285f6bcc12b9c6151ce",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Spadki Poziomu Obrony",
+      "kr_sha256": "0354654c5957d9e1f472353cbb065c230861d4263a97b16ac70553b9b3e1c5e7",
+      "en_sha256": "67f9834a3a8528f1375fe108acf3fff604fb78e2ca5c4ea8cfd06c0ffb3a3995",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=3].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=4].abName": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadki Mocy Obrony",
+      "kr_sha256": "af5a871ab2fe59239e4dff1518539d3b21df2615b83bbaaac4d3289093b7c5c8",
+      "en_sha256": "f0831f8fe4a56c7a2d6b0300bcdb27e73352958296130285f6bcc12b9c6151ce",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 zmniejszenia Poziomu Obrony",
+      "kr_sha256": "cf9e26350b48e8d7393e36da9dd43ffee62f92ebb510d4df8aa8d7110333ec84",
+      "en_sha256": "bec2a18871ab0f306ee075b8b7678beedbb792e1558371ff19597d4808e65a03",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].levelList[level=4].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=1].abName": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadki Mocy Obrony",
+      "kr_sha256": "af5a871ab2fe59239e4dff1518539d3b21df2615b83bbaaac4d3289093b7c5c8",
+      "en_sha256": "f0831f8fe4a56c7a2d6b0300bcdb27e73352958296130285f6bcc12b9c6151ce",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadku Poziomu Obrony",
+      "kr_sha256": "62ff25aa4d6eb3987065c25420d45cabcf0e40939d1ac281637e5830cf9004fd",
+      "en_sha256": "db60bfcd9c361bd7b2ba1306834cd2b9297d1c126d03f1f9f59314f7541e30d2",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 4 [Binding] następnej tury",
+      "kr_sha256": "6ba0f6a9aa49b4e19616b79f9d2999acf7048d12cb24704ab6892d8a67ef2dec",
+      "en_sha256": "0c6a35d23cecb79f40e8cdc2aa83d0afa412273a86f21e6e219648bae89f254d",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższą Szybkością",
+      "kr_sha256": "2457efed864ca26172d9c4e71f776bd3a4083cd7b234c22dacddf9f1331bd2c5",
+      "en_sha256": "b8a120b8f363e87163854b81610b78ae6d9cca41fbefe3732acf50cb7ad759a4",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=1].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=3].abName": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadki Mocy Obrony",
+      "kr_sha256": "af5a871ab2fe59239e4dff1518539d3b21df2615b83bbaaac4d3289093b7c5c8",
+      "en_sha256": "f0831f8fe4a56c7a2d6b0300bcdb27e73352958296130285f6bcc12b9c6151ce",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Spadki Poziomu Obrony",
+      "kr_sha256": "0354654c5957d9e1f472353cbb065c230861d4263a97b16ac70553b9b3e1c5e7",
+      "en_sha256": "67f9834a3a8528f1375fe108acf3fff604fb78e2ca5c4ea8cfd06c0ffb3a3995",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Binding] następnej tury",
+      "kr_sha256": "a1cfbbbaa5833e0f370cf1dea2a812aba96542ac7175cb4ea8ba03f898c3308a",
+      "en_sha256": "2b3678e49543f9fc7e02739b3cd28dabdf7f0b2c3642c9be574adf8667a733a1",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższą Szybkością",
+      "kr_sha256": "2457efed864ca26172d9c4e71f776bd3a4083cd7b234c22dacddf9f1331bd2c5",
+      "en_sha256": "b8a120b8f363e87163854b81610b78ae6d9cca41fbefe3732acf50cb7ad759a4",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=3].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=4].abName": {
+      "pl": "Różowe Buty",
+      "kr_sha256": "edf22348127c3efa32c24a3d32e85d8d182612bbe45ae0dc993fd6339e81edd5",
+      "en_sha256": "fa05041815616477e9880d99b3f968d6f7c8125bbcf77216b71f01ee8cabbc9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Spadki Mocy Obrony",
+      "kr_sha256": "af5a871ab2fe59239e4dff1518539d3b21df2615b83bbaaac4d3289093b7c5c8",
+      "en_sha256": "f0831f8fe4a56c7a2d6b0300bcdb27e73352958296130285f6bcc12b9c6151ce",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 zmniejszenia Poziomu Obrony",
+      "kr_sha256": "cf9e26350b48e8d7393e36da9dd43ffee62f92ebb510d4df8aa8d7110333ec84",
+      "en_sha256": "bec2a18871ab0f306ee075b8b7678beedbb792e1558371ff19597d4808e65a03",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Binding] następnej tury",
+      "kr_sha256": "a1cfbbbaa5833e0f370cf1dea2a812aba96542ac7175cb4ea8ba03f898c3308a",
+      "en_sha256": "2b3678e49543f9fc7e02739b3cd28dabdf7f0b2c3642c9be574adf8667a733a1",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższą Szybkością",
+      "kr_sha256": "2457efed864ca26172d9c4e71f776bd3a4083cd7b234c22dacddf9f1331bd2c5",
+      "en_sha256": "b8a120b8f363e87163854b81610b78ae6d9cca41fbefe3732acf50cb7ad759a4",
+      "origin": "ai"
+    },
+    "dataList[id=2060221].levelList[level=4].name": {
+      "pl": "Różowe Pożądanie",
+      "kr_sha256": "a11979e98e26023448a6b940d1d882500dcfc4ffff4a5bf4a10d7d19c5b8f81d",
+      "en_sha256": "683ad45b3c6747fb02d9d5b9c009e90c58a163771ffc787a12b4bac01d82c095",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=1].abName": {
+      "pl": "Zbłąkany Pasażer",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] i 2 Szczelin Wymiarowych",
+      "kr_sha256": "417197493e57e5afdaea4612c7310d9273049f23c6409b68817d9a85522d4dc5",
+      "en_sha256": "4ed762a25509e4362673f12c253e4e1915e513207b95fb42d25ca1987668b15b",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=1].desc": {
+      "pl": "Atakuje najdalszy cel (tylko w zwykłych walkach)\n\n[BeforeAttack] zyskuje +3 Licznika [Charge]; zyskuje 2 [Agility] następnej tury",
+      "kr_sha256": "5c8d97daad0da42d90937f1533b8c19d56bc9514ab048b7ef8960502c99ac0f5",
+      "en_sha256": "6dd4397da75645d62ec65f6d772199efcba91e822a64bcc02dc9840dc8248769",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=1].name": {
+      "pl": "Rozrywacz Wymiarów",
+      "kr_sha256": "a00221212f41dc77d0673f8d71798e730fb8f039c42b9a0ac9d449c52f2e2f4c",
+      "en_sha256": "fef76c84108a8991a8eff678aa4c88252194663801c0ba5a263d9ae5a0048df6",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=3].abName": {
+      "pl": "Zbłąkany Pasażer",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] i 4 Szczelin Wymiarowych",
+      "kr_sha256": "ac8446575cbe80c2d68e8a5a7daf0cb5d93934b8c1c3533454300f936935a993",
+      "en_sha256": "ce0396432b09f4909cbe377e4f25a58f6b0eb9fdb9d96db6719c5f2711c582e9",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=3].desc": {
+      "pl": "Atakuje najdalszy cel (tylko w zwykłych walkach)\n\n[BeforeAttack] zyskuje +5 Licznika [Charge]; zyskuje 2 [Agility] następnej tury",
+      "kr_sha256": "432648c53d2ae7bfcfe4d66f0f0c1dfd14cb1bc8963bab4afac497d6fb4498c4",
+      "en_sha256": "1d6ed191e760f2abc4655bc9eee9b8c9395435913c04d685a566679c5ccde3d5",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].levelList[level=3].name": {
+      "pl": "Rozrywacz Wymiarów",
+      "kr_sha256": "a00221212f41dc77d0673f8d71798e730fb8f039c42b9a0ac9d449c52f2e2f4c",
+      "en_sha256": "fef76c84108a8991a8eff678aa4c88252194663801c0ba5a263d9ae5a0048df6",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=1].abName": {
+      "pl": "Zbłąkany Pasażer",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] i 3 Szczelin Wymiarowych",
+      "kr_sha256": "c17294d9b7d87aea078a4bdbcedb405ff9589c54035d89e34946bb12c9ddbc50",
+      "en_sha256": "1e523a7747c03f248fab9a40a9f25fbfd04e1ec31327994dfcc5a0c70e1bfa6f",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym aktualnym HP\n\n[BeforeAttack] zyskuje 2 [Agility] następnej tury.\nzużywa 10 Licznika [Charge], nakładając +1 więcej [Vulnerable] i Szczelin Wymiarowych przy trafieniu tą Umiejętnością",
+      "kr_sha256": "0a1f86e0f83f0f58066619ec6e944c9255d30c95472f69867eff44d05d799964",
+      "en_sha256": "77c4a9892c44874f03b97fb48ea87686168ce51882777b55022a77c55da2fb17",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=1].name": {
+      "pl": "Rozrywacz Wymiarów",
+      "kr_sha256": "a00221212f41dc77d0673f8d71798e730fb8f039c42b9a0ac9d449c52f2e2f4c",
+      "en_sha256": "fef76c84108a8991a8eff678aa4c88252194663801c0ba5a263d9ae5a0048df6",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=3].abName": {
+      "pl": "Zbłąkany Pasażer",
+      "kr_sha256": "edb4b8f792c8eba62c0da0130aa3dbf634e04a3d4144ddd52b287ebdeb1644d1",
+      "en_sha256": "903e6d3cb38d6c3f7e8272fb62661b21bf3b0371965db4f80d81b76fbbcac5a8",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] i 4 Szczelin Wymiarowych",
+      "kr_sha256": "ac8446575cbe80c2d68e8a5a7daf0cb5d93934b8c1c3533454300f936935a993",
+      "en_sha256": "ce0396432b09f4909cbe377e4f25a58f6b0eb9fdb9d96db6719c5f2711c582e9",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym aktualnym HP\n\n[BeforeAttack] zyskuje <style=\"highlight\">3</style> [Agility] następnej tury.\nzużywa 10 Licznika [Charge], nakładając <style=\"highlight\">+2</style> więcej [Vulnerable] i Szczelin Wymiarowych przy trafieniu tą Umiejętnością",
+      "kr_sha256": "0e2884d5978f9f12577c911c4d6348500664b3d7bf5c3bd9205e90718b5d3c9d",
+      "en_sha256": "52c1be48b2128a683044b1fe62c4f605faee9dfc6272ea4a31fc34283f8aab33",
+      "origin": "ai"
+    },
+    "dataList[id=2060321].levelList[level=3].name": {
+      "pl": "Rozrywacz Wymiarów",
+      "kr_sha256": "a00221212f41dc77d0673f8d71798e730fb8f039c42b9a0ac9d449c52f2e2f4c",
+      "en_sha256": "fef76c84108a8991a8eff678aa4c88252194663801c0ba5a263d9ae5a0048df6",
+      "origin": "ai"
     }
   }
 }

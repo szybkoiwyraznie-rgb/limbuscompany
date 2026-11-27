@@ -413,6 +413,390 @@
       "kr_sha256": "2516d44eee066bb1f0459e967c3de44115eb4052424288162f300ed3d374b9ec",
       "en_sha256": "9b8d543ea95028d4bd0505bbb027baceebbd7402d63aa90a8f881932651c746a",
       "origin": "ai"
+    },
+    "dataList[id=2030911].desc": {
+      "pl": "zyskuje 1 [Charge] za każde skumulowane zużycie 10 Liczników [Charge]\n- jeżeli ta jednostka już zyskuje [Charge] zużywając własne Liczniki [Charge], ten efekt nie kumuluje się z tamtym\n- Umiejętności Podstawowego Ataku tej jednostki zużywające Liczniki [Charge]: zadają +5% obrażeń za każde własne [Charge] (maks. 25%)\n\nJeżeli ta jednostka to Lobotomy E.G.O::W Imię Miłości i Nienawiści Don Kichote, zyskuje 1 dodatkowe użycie Umiejętności 3",
+      "kr_sha256": "9be965d110517d0fca0246d828ce46401db6722a1cd7681d763a421b88794a18",
+      "en_sha256": "a484655176a3e170696371a41bddd5b52356037f80065a806348788c7806aa2c",
+      "origin": "ai"
+    },
+    "dataList[id=2030911].name": {
+      "pl": "Obwód Predyspozycji Arcana",
+      "kr_sha256": "a666e1f9e58fb6b028a4bef1debea8594b3d9e1dd6ef10a74eedca56c44030fb",
+      "en_sha256": "8ee54b967f4140858d9d530055a8f82a5c80151d65adedbc33acbc717397d84e",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].desc": {
+      "pl": "Umiejętności Zawiści zadają +10% obrażeń\n- te Umiejętności zadają +1% więcej obrażeń za każdy 1 Rezonans Zawiści (maks. 7%)\n\nNa początku tury zyskuje [AttackUp] równy (skumulowane obrażenia HP otrzymane przez tę jednostkę w tej walce (wliczając obrażenia Tarczy) / 20) (maks. 3)\n\nPoczątek walki: przy Rezonansie Absolutnym Zawiści nakłada 1 [NiddleEGO] na wszystkich wrogów (w walkach skupionych na wszystkich Częściach)",
+      "kr_sha256": "ae152c8dc2ba0f5b8b5da9b68c6335ece84fe29efe7e8849856afb8726424711",
+      "en_sha256": "c2592ff88b91df5be03e34aeaa5c19639ca858d4f951cdb3d814014e747cdab0",
+      "origin": "ai"
+    },
+    "dataList[id=2031011].name": {
+      "pl": "Teraz twoja kolej, by połknąć igłę..!",
+      "kr_sha256": "198ce537574f40315d494961e176ff375a96b3e0cb9cbef5b152f20fcaed2a65",
+      "en_sha256": "9331b82cd3f46055888592c9554310c5b9b7763810205d445280fc676a05c9f1",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].desc": {
+      "pl": "zadaje i otrzymuje +5% obrażeń za każdego wroga pokonanego przez tę jednostkę w poprzedniej turze",
+      "kr_sha256": "c570f59ce4a53a0fd7f0fef310598cacf2e144df3d69acdef8573f4fe7e303d0",
+      "en_sha256": "d3539501b2f29f35df50a6fc4807368d38f1052bc7fa6bd8f0b6a044c0adc376",
+      "origin": "ai"
+    },
+    "dataList[id=2040111].name": {
+      "pl": "Sztuka",
+      "kr_sha256": "49e1f872b45e52c125bcf08a15c2d3fcd04c336c52b541960f5e5ce45b3f5b2e",
+      "en_sha256": "75df3579c73089e317e5bf917f6b6cf1cb8d19f21ad70c15e70e431c3aa2a62a",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].desc": {
+      "pl": "Każda 4. użyta Umiejętność tej jednostki zyskuje +4 do Mocy Końcowej i nakłada 4 [Combustion] przy trafieniu",
+      "kr_sha256": "390281f70e3aba0082f9c979032ffde30780ee2bf135ec98adb3c1a840c8f43e",
+      "en_sha256": "5f9105172a5be642b37214474ee6580d29fe2dae562f940036755e300950a3a4",
+      "origin": "ai"
+    },
+    "dataList[id=2040211].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040212].desc": {
+      "pl": "Każda 4. użyta Umiejętność tej jednostki zyskuje +4 do Mocy Końcowej i nakłada 4 [Combustion] przy trafieniu\n- jeżeli to Umiejętność Gniewu, dodatkowo zadaje +(Siła [Combustion] wszystkich celów ataku / 2)% obrażeń (maks. 20%)\n- jeżeli to Umiejętność E.G.O, na początku pierwszej Monety stosuje poniższe efekty:\n· jeżeli to Moneta Plus, odzyskuje 10 SP\n· jeżeli to Moneta Minus, traci 15 SP (ten efekt nie obniża SP tej jednostki poniżej -40)",
+      "kr_sha256": "a21fc5c00de770efb7eaa6d9b62579bd626f1e3f79c3ff6fe50e0132e0be78da",
+      "en_sha256": "4659641a04afacea58213abd3f16182284b496f4ef49aa79cc9803be09304cfb",
+      "origin": "ai"
+    },
+    "dataList[id=2040212].name": {
+      "pl": "4. Płomyk Zapałki",
+      "kr_sha256": "55eb362802791c3473d6b71f5456ba7edffa5b2163152b0b9d1177fd46e51adf",
+      "en_sha256": "df22cf4f713d57cda1bb0a7643e9ac2156becbe2ed95aa459e3ece38a6e09e50",
+      "origin": "ai"
+    },
+    "dataList[id=2040212].summary": {
+      "pl": "Każda 4. użyta Umiejętność jest wzmocniona",
+      "kr_sha256": "fe99609a786ef2c33a96d6ddf3586c568611ed27862c2e36905a9f106ea0e25f",
+      "en_sha256": "3ac5fd0560f3a1b815c4247f57d1c45ac8450c12072a8d523c964793411248e6",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].desc": {
+      "pl": "Po wygranym Starciu nakłada 1 [Binding] następnej tury (maks. 3 razy na turę)",
+      "kr_sha256": "df9eaf2a745dd42297225cf3b938828434e1751908a5815fc6ef2d6e3af45e62",
+      "en_sha256": "f1ebdd8a168e8379a148c0618d4ea027a7c96617199467890d99115931958829",
+      "origin": "ai"
+    },
+    "dataList[id=2040311].name": {
+      "pl": "Pajęcza Nić",
+      "kr_sha256": "5806eb3f0ec42e5a771d5be37889b507ea11772d0946aa00adc1d88c6d1743a6",
+      "en_sha256": "3a58b8397dd105e52c5d2fe5686b5de07a478755d05232441915e70843e0a9a6",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].desc": {
+      "pl": "Jeżeli ta jednostka odzyskała w tej turze więcej niż 10% Maks. HP, następnej tury zyskuje 1 [Enhancement].",
+      "kr_sha256": "b9364b971b55d1139568e5b2ff80cc97ece52784942d1ad023ad61c01bc0b71a",
+      "en_sha256": "733a6ba7f8cc29b7d53c0f2a80c85dd4f15581f079d1e6e56680651e54617079",
+      "origin": "ai"
+    },
+    "dataList[id=2040411].name": {
+      "pl": "Drapieżność",
+      "kr_sha256": "92ea4bfceedd42c9edc5e86b5661716fa3b6787f01c3fed8604d5a58d79418b5",
+      "en_sha256": "7b48649831fe26c230a39198b1fbc89f0501e23cac6d7ab816f151aa81d6310a",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].desc": {
+      "pl": "Przy trafieniu jeżeli cel ma 5+ [Sinking], nakłada 1 [Disarming] (maks. 5 razy na turę)",
+      "kr_sha256": "1e46afecea8bdb483097add397873ca65d7df3e47847ff116f93751ae3670a2a",
+      "en_sha256": "635aff8490cdc348a5274539c9772f37445c03ee1ecce3ffe67c94f4f1236f92",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].name": {
+      "pl": "Otwarta Puszka",
+      "kr_sha256": "51e2aa3f4eb3b252f14d560b656826fa9d7323b3e46bdada7fdf7609cdfbd7e0",
+      "en_sha256": "95b758ce440e1fe973df3ffe91e6c188f656cb234a70f54f384562ee7337926a",
+      "origin": "ai"
+    },
+    "dataList[id=2040512].desc": {
+      "pl": "Przy trafieniu jeżeli cel ma 5+ [Sinking], nakłada 1 [Disarming] (maks. 5 razy na turę)\n\n<style=\"highlight\">Przy trafieniu wroga w stanie Oszołomienia lub Paniki następnej tury zyskuje 1 [AttackUp] (3 razy na turę; w walkach skupionych liczone per Rdzeń)</style>",
+      "kr_sha256": "4bde7f69cf4e661e636fcf4d864ed187c75e8ef375211aa22cebc08d6658eed9",
+      "en_sha256": "f4ba77539f3b69f2a0c4cae4e728d2810368162e1d47c5860a1c96a08cbfc33c",
+      "origin": "ai"
+    },
+    "dataList[id=2040512].name": {
+      "pl": "Otwarta Puszka",
+      "kr_sha256": "51e2aa3f4eb3b252f14d560b656826fa9d7323b3e46bdada7fdf7609cdfbd7e0",
+      "en_sha256": "95b758ce440e1fe973df3ffe91e6c188f656cb234a70f54f384562ee7337926a",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].desc": {
+      "pl": "Przy trafieniu krytycznym Umiejętnością Grzechu Pychy zyskuje 1 Licznika [Breath] (maks. 3 razy na turę)",
+      "kr_sha256": "cb060bf72d4bdf2139fb1e50e75f0bd86f39733a71b9bbc03307dcb5b30aad4e",
+      "en_sha256": "692701e5d8ff56045279724b21d26e8909aacfd23d9db94fd4fb6d9628c0c9dd",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].name": {
+      "pl": "Pożeranie Snów",
+      "kr_sha256": "6836312e6fee4871eb438ba964acef2eb629a2eb9cd83e1a8ce0bd5d9796a1f5",
+      "en_sha256": "5db675d4adcfc0ca7c060fb46fafff3baf2064ba9e6a52bc59f8bdd6151fda2f",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].desc": {
+      "pl": "Za każdym razem gdy ta jednostka używa Umiejętności Podstawowego Ataku na wrogu, dodatkowo zyskuje 1 zasób E.G.O losowego, najmniej posiadanego Grzechu nieodpowiadającego Grzechowi użytej Umiejętności Ataku (2 razy na turę)",
+      "kr_sha256": "e64687f346e1a2be7d20d0fdc366c2b6b9cf73218189fbdac5f77b29d38417e8",
+      "en_sha256": "a6e94c6120b35b4bb4311ce3ef99b0118f883b711c1d4c0352e303625f7e3081",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].name": {
+      "pl": "Ślad Spojrzenia",
+      "kr_sha256": "ac5cd00a2727ba3a674299b3c0be6941bf0b0b4d6e47d3bcef053c8a8fd80f46",
+      "en_sha256": "657b7c32cf7fed9bc32fe92bde59a3f8c80327119e2660d940c8e2d848a72d2e",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].desc": {
+      "pl": "Początek tury następnej po użyciu tej Umiejętności E.G.O: zyskuje 1 [NebulizerInhale] (1 raz na turę)\n- jeżeli ta Umiejętność pokonała wrogów, dodatkowo tyle [NebulizerInhale], ile celów pokonano\n- jeżeli ta Umiejętność pokonała sojuszników, dodatkowo (pokonane cele x 2) [NebulizerInhale]\n- ta wartość kumuluje się przez czas trwania tej walki",
+      "kr_sha256": "01c837371d04d9c35faea4f2a328bcbeb4578abd7ee84d8784e56778f069be9d",
+      "en_sha256": "5a0227fc24fd9ec722f202ceb94de3338819ee158d6365acc4edfa1cd604fb66",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].name": {
+      "pl": "Oddech",
+      "kr_sha256": "19b65768173f5897377ad2d9365f4acc47bd64ccc0d563e98894164e9a3c09b3",
+      "en_sha256": "3c8b4cf724e6c16ef615e199336338cef9dbc9f97d0647e8731d4be6d08fc38c",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel wpada w Oszołomienie lub ginie, następnej tury zyskuje 1 [CriticalDamageUp] (3 razy na turę)",
+      "kr_sha256": "3d990fcf85804ed6573106b4905b51f132ed8ac9714a6b195b030a5206cbdba3",
+      "en_sha256": "e67c5e1d89cabc98b16ac35d6e264b77769d978b10b85cd21c1db9258f58e44b",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].name": {
+      "pl": "Sanzu [三途]",
+      "kr_sha256": "aebad03b05daacf7afe79c13085caf84054f22a47938c5508adf3b58be4c1cce",
+      "en_sha256": "591c107abe0a6fa237653cd7bab2ef5076a055fc105c710811f59949fbcda728",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].desc": {
+      "pl": "Początek walki: przy 3+ Umiejętnościach skierowanych na tę jednostkę zyskuje 3 Ochrony",
+      "kr_sha256": "34eaa25ea0d11263ed5589627c4e8720e0b26b074cbbf3dbab33b0b8165587f2",
+      "en_sha256": "5413823402a60d7a984a72eb19cd385f517ddd8a0575d05c8a489eaeabe18fd8",
+      "origin": "ai"
+    },
+    "dataList[id=2050111].name": {
+      "pl": "Odmowa Osądu",
+      "kr_sha256": "07f43b8b1fc17e3fe7af2372e2b42366f2ca77e80bcf016876dddd2154f08f37",
+      "en_sha256": "8b0d0f5689847338790f28dd6079b15b31872e51254d635e71383705ac854cb5",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].desc": {
+      "pl": "przy HP niższym niż 25% użycie Umiejętności E.G.O <Cios Wywalonej Śruby> daje tej jednostce co turę 3 zwiększenia Mocy Umiejętności, Wytrzymałości i Szybkości, ale umiera ona po 3 turach",
+      "kr_sha256": "a9a0feb6169e145ec6f26ea6de4e136108fa65bb52ecd432584e272e7004929c",
+      "en_sha256": "c32197032b5dc97049f810a7884ede5ee251b61531dbefce8ad66d14956ed6a7",
+      "origin": "ai"
+    },
+    "dataList[id=2050211].name": {
+      "pl": "Ostateczna Przeróbka",
+      "kr_sha256": "07289a9e000612d47558b19129d21877c00f159c3447a13371109f7fc6d1f2a5",
+      "en_sha256": "c02d03dec67027f79983c42725a8595cc93a058a9d0c88329202d761be288038",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].desc": {
+      "pl": "po wygranej Walce lewym Umiejętnością Panelu Sterowania nakłada 1 [Enhancement] lub [Endurance] na losowego sojusznika następnej tury",
+      "kr_sha256": "248dc41efc44302ec3ca997ad46eb997e67c55765cc8f086e7bf7474d457b0e6",
+      "en_sha256": "36a227c5ce7c72acfd3bd391929b7985b3f65cacf90a9dc465b59bfd1921de7b",
+      "origin": "ai"
+    },
+    "dataList[id=2050311].name": {
+      "pl": "Objawienie z Nieba",
+      "kr_sha256": "fa5ed0542c3e6528085791bad0e2ac2e33d93897f478ee1d74267ef082eb1375",
+      "en_sha256": "8a7a0bcb11b97d5c422dc77ff709c002c2b890ae3ecd5d861721a99438e22af9",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].desc": {
+      "pl": "Początek walki: przy 2+ Umiejętnościach skierowanych na tę jednostkę Moc Bazowa Umiejętności tej jednostki +1; przy trafieniu nakłada 1 [Combustion] na atakującego (5 razy na turę)",
+      "kr_sha256": "4df35fe79404c386febc0912681f6e748fef76ba4ed95baf2d8b7b1ade307bc6",
+      "en_sha256": "ca0a074fdc070dd0414b062016e5561938dfa6ab2c8ee57229a3c639ffcbbb96",
+      "origin": "ai"
+    },
+    "dataList[id=2050411].name": {
+      "pl": "Nieukojone Pobudzenie",
+      "kr_sha256": "71daec2ed464a4c82cbf0241723711bb16a00f5e36bd1dad2c52918f997fdace",
+      "en_sha256": "840c1120203235923acaa8d51f5dc390af94b0f69d8df75211dadf4f7e080c9d",
+      "origin": "ai"
+    },
+    "dataList[id=2050511].desc": {
+      "pl": "Moc Bazowa lewej Umiejętności Panelu Sterowania tej jednostki -1, Moc Monety +2\nPoczątek tury: przy Szybkości 4- zyskuje 1 zwiększenia Mocy Uderzenia",
+      "kr_sha256": "f7429ad0859ca9ec1dd86324b456d59d8dc140d758107de9589bfbb017074af5",
+      "en_sha256": "1638f3a1cf3e2850e64dbb5022b9c78ff3c0c8877b86c0c5533395f5cf2944de",
+      "origin": "ai"
+    },
+    "dataList[id=2050511].name": {
+      "pl": "Skuty Gniew",
+      "kr_sha256": "08021620d0278e622864782ca6a75c48fc0594195b235d0ba99e326d057c2ae9",
+      "en_sha256": "ac678f20d519c207d67ecc39a9f4eeeebb8cd7852d66dc562c2517b4c6d39d59",
+      "origin": "ai"
+    },
+    "dataList[id=2050611].desc": {
+      "pl": "Początek walki: przy Rezonansie 4+ zyskuje 2 [AttackUp] i 2 [DefenseUp].\njeżeli ten Rezonans był Rezonansem Zawiści, nakłada powyższe efekty także na 2 sojuszników sąsiadujących z tą jednostką przy Panelu Sterowania",
+      "kr_sha256": "e4b27e352022701a6c0e4bbd14ee8c76e81c1026c9813bb3dd8ff787036dd245",
+      "en_sha256": "4d1c2392ee7ad0aafbb7948f809d9ba4dee6aefb124cb8abd5d45230ed94ce3a",
+      "origin": "ai"
+    },
+    "dataList[id=2050611].name": {
+      "pl": "Przeciążone Kable",
+      "kr_sha256": "3bc74b3efd0985ff321af56ccb26150db76221cadd9a0c073bbd161b2a88a731",
+      "en_sha256": "138d3829c7f97fd624497d5f1a7fa9c39752e6673b6968036a776fa7a4d3cf73",
+      "origin": "ai"
+    },
+    "dataList[id=2050711].desc": {
+      "pl": "przy zadawaniu lub otrzymywaniu obrażeń [Laceration] leczy HP równe obrażeniom [Laceration] (maks. 10 na turę)\n- przy uruchomieniu efektu Umiejętności/Monety nakładającej [Laceration], jeżeli cel ma [RoseWedge], nakłada na cel 1 [Laceration] (2 razy na turę)",
+      "kr_sha256": "659ab58d2180f7b2f77babeecff8733144aa9d3f2b92ad277a6b33ddebc3c64e",
+      "en_sha256": "649973143ecdc37d6cef54f2cfd2db6abbccebd0a58a51471efb25a662ba97b6",
+      "origin": "ai"
+    },
+    "dataList[id=2050711].name": {
+      "pl": "Krwiożercza Uczta",
+      "kr_sha256": "709934df7464ed8608f341920dc46e9c7a5900da259bd54b574d4b29064943d7",
+      "en_sha256": "c0050229df50ec1d12e029213777fcbcebb3432cbe2b2a751436dea619eafc5e",
+      "origin": "ai"
+    },
+    "dataList[id=2050811].desc": {
+      "pl": "Początek tury: w nieparzystych turach zyskuje 1 [AttackDmgUp], w parzystych turach 1 [Protection]\n- nie kumuluje się z Prezentem E.G.O Metronom. (jeżeli ten Prezent jest w stanie wzmocnionym, najpierw odejmowane są jego wartości)\n- nie wpływa na instancje tego efektu nakładane na innych sojuszników\n\nprzy użyciu Umiejętności E.G.O zyskuje 1 [AccumulatedPastSinner] następnej tury (1 raz na Encounter)\n- po tym zyskuje 1 [AccumulatedPastSinner] przy każdym kolejnym zakończeniu tury",
+      "kr_sha256": "15fb6339f00c95d021271ff4da55fb5354236dd38706c55f5977808331f6abc6",
+      "en_sha256": "daf8f2e43f84850dc0f4be857100aa5fadf15ae7491280ffd9282eed4444a327",
+      "origin": "ai"
+    },
+    "dataList[id=2050811].name": {
+      "pl": "Metronom",
+      "kr_sha256": "b0e9ccda247047ada33d11b2010810d7ef472469ab451988dbe2595167a58e96",
+      "en_sha256": "3634f1227eddd94bde97ddff138a4d7dde0e0774468f81cde68afcab6f9a6c6d",
+      "origin": "ai"
+    },
+    "dataList[id=2050911].desc": {
+      "pl": "[AlwaysUseEGOPassive2050911]\n\nprzy trafieniu Podstawową Umiejętnością Ataku nakłada 2 [Laceration] na cel (1 raz na Umiejętność)\n\nta Tożsamość liczy się jako Tożsamość nakładająca [Laceration] i [Breath]\n- przez ten efekt Podstawowe Umiejętności tej jednostki liczą się jako Umiejętności nakładające [Laceration] i [Breath]\n\n[WhenUseEGOPassive]\n\nprzy pokonaniu sojusznika zyskuje 1 [AlcoholKimPersonal] następnej tury\n- jeżeli pokonany sojusznik należy do Rodu Ostrza, zamiast tego zyskuje 2 [AlcoholKimPersonal]\n\nPoczątek tury: jeżeli ta jednostka ma [AlcoholKimPersonal], wchodzi w stan [GhostKimPersonal]\n- Mentor Rodu Ostrza Meursault zyskuje przy tym dodatkowo [RootSoupKimPersonal]\n\nPoczątek tury: jeżeli ta jednostka nie ma [AlcoholKimPersonal], wygasają następujące efekty: [GhostKimPersonal], [GrudgePersonal] i [RootSoupKimPersonal]\n\njeżeli ta jednostka ma [AlcoholKimPersonal] i otrzymuje obrażenia sprowadzające jej HP do 0, leczy HP równe (Licznik [AlcoholKimPersonal] x 25)% Maks. HP, po czym [AlcoholKimPersonal] wygasa (1 raz na walkę; ten efekt uruchamia się po Pasywach Tożsamości o podobnym działaniu)\n- w stanie Oszołomienia dochodzi do siebie (poza wymuszonym Oszołomieniem)",
+      "kr_sha256": "12557e34bc5bb3b96bab620eeaa391049cb29fd2bd169237ec37e6e7cf8b2480",
+      "en_sha256": "5295335e761e62ff055c1ab17e6c52a47a669ab46ebcac4dea2bd792e8a7c489",
+      "origin": "ai"
+    },
+    "dataList[id=2050911].name": {
+      "pl": "Kropla Alkoholu na Czubku Ostrza",
+      "kr_sha256": "1a20f0c1557b1393bb2c3616efdd29d88a08e09f00cea44542fa92a33aac0b9c",
+      "en_sha256": "2ebf9bb44fa987a387d3e8678599886b04d789f088ec1ab226c3610e71962f82",
+      "origin": "ai"
+    },
+    "dataList[id=2050911].summary": {
+      "pl": "zyskuje [AlcoholKimPersonal]",
+      "kr_sha256": "aa9936a99e4747881252f60653703ecb4035594d85389b7c766130efbe3a52c9",
+      "en_sha256": "c6a8e856f0e827802f27b413ecbbf21366f0599e7855dd9874d5f151607b9f43",
+      "origin": "ai"
+    },
+    "dataList[id=2051011].desc": {
+      "pl": "[AlwaysUseEGOPassive]\njeżeli ta jednostka ma 5 [BulletHole], użycie Umiejętności E.G.O „Hollow” (zarówno Przebudzenia, jak i Erozji) nie zużywa zasobów E.G.O\n\nPoczątek tury: zyskuje 1 [BulletHole]\n\n[WhenUseEGOPassive]\nPoczątek tury: zyskuje 1 [BlackWingHole]\n\nza każde skumulowane zużycie lub utratę 3 [Bullet] odzyskuje 5 SP i zyskuje 1 [ResultEnhancement] następnej tury (w tym unikalne [Bullet]; rozpatrywane do maks. 9 [Bullet] na turę)",
+      "kr_sha256": "1e54f240973170608feb2a824a99d5dd1a4907348957cbd9607329f132f38dee",
+      "en_sha256": "0272c92996e8c297cd097b5b659c6cea47e0d8567b14a96ccedede39cfe4613a",
+      "origin": "ai"
+    },
+    "dataList[id=2051011].flavor": {
+      "pl": "Spojrzenie innego wbija się we mnie, wydrążając otwór, z którego wysypuje się mnóstwo.\nTo wyładowanie zostaje obite w pocisk, który znów wierci w tobie otwór.",
+      "kr_sha256": "79f19758b9b919e8cd22dace9baf7ac67417b00960020705775cb7559ae3c19c",
+      "en_sha256": "2e8af3d08e578b862232c3ab1830dbfb23c7cb238fc8428ab32b344ed59c7ef4",
+      "origin": "ai"
+    },
+    "dataList[id=2051011].name": {
+      "pl": "L'Hémorragie interne",
+      "kr_sha256": "3a52d7c3677e65e1a41c5a64b4d77f0808bc4c5102b76629079a95f0e0ded42c",
+      "en_sha256": "11981caf2e40b56e881220d46cdbaa4ef196afb7d45250f41ee0cea22fb60a08",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].desc": {
+      "pl": "Początek walki: sojusznik z najniższym SP odzyskuje SP równe najwyższemu Absolutnemu Rezonansowi tej jednostki\n- z wyłączeniem sojuszników w Panice",
+      "kr_sha256": "36468e2c6b0eb989bb5c018df33b3934a5874019972d86a26b5bdbc341e9f1b2",
+      "en_sha256": "08db0fda095d2a780b636e1e3dfbe14962265d4ed99cec603ca97bb056c3fc4b",
+      "origin": "ai"
+    },
+    "dataList[id=2060111].name": {
+      "pl": "Zmarszczka",
+      "kr_sha256": "1c97123ab67310b633f004ef2c72710e54e66342d9dd4b01f8d620644282b6e7",
+      "en_sha256": "f0e9810e9100146c0bc9e0adc911bcc666881648378ab1595da6b321909487f0",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].desc": {
+      "pl": "na cel lewej Umiejętności Panelu Sterowania, na koniec ataku tej Umiejętności\nnakłada (Absolutnego Rezonansu Żądzy / 4) zwiększenia otrzymywanych obrażeń od Żądzy następnej tury",
+      "kr_sha256": "08a2519b5512605633a552f969e003cb019c83bf3bbf0fd72abbd456930eb3e4",
+      "en_sha256": "3483745c7b856790bf50d5231d373e1ee78ee1a31270a8868324dc002e9ecb1c",
+      "origin": "ai"
+    },
+    "dataList[id=2060211].name": {
+      "pl": "Uwiązujące Wstążki",
+      "kr_sha256": "c0cb1e6329b80e52f1e410ea4f2c3b1e2fde1b39c1e17fb4a045c46cdd91e8b0",
+      "en_sha256": "09b4e230124a3d13aea09986235bd8615b527a352cb24c2accc72ef69eacfb9b",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].desc": {
+      "pl": "przy trafieniu wroga posiadającego negatywne efekty zyskuje +1 Licznika [Charge] (4 razy na turę).\nprzy spadku HP do 0 zużywa wszystkie Liczniki [Charge], lecąc HP proporcjonalnie do zużytych Liczników (1 raz na walkę; maks. 25% HP)",
+      "kr_sha256": "76eacb32110aea9e856feb351824a3ca656473d07452134d977ed489221939ca",
+      "en_sha256": "78a67bc42c03cd9e3048ee45d8f7ea841a6a08c85684b4aa34c998ff2bbcd821",
+      "origin": "ai"
+    },
+    "dataList[id=2060311].name": {
+      "pl": "Odtworzenie Splątanych Zjawisk",
+      "kr_sha256": "991484980fdb1ed51ded0d49cbd389315aa882eb5106f08e0fd86f0fa166ac6f",
+      "en_sha256": "2d40a189a4477944815da53c5fd3656c216a6e7e2b2ab8f92be80b8b9a589c17",
+      "origin": "ai"
+    },
+    "dataList[id=2060411].desc": {
+      "pl": "przy pokonaniu wroga 1 sojusznik z najniższym SP odzyskuje 1 SP\nza każde pokonanie wroga wartość leczenia rośnie o 2 (maks. 9)\nrosnąca wartość resetuje się na początku fali",
+      "kr_sha256": "314479a189df04d12988b386783d8ae6fca1a5db9655e168e29f7c2e99c69138",
+      "en_sha256": "ea8c4e5b9a3c5b54f553d3195ab2192f7c2f70f18d25ef50d92a3b24f59aab61",
+      "origin": "ai"
+    },
+    "dataList[id=2060411].name": {
+      "pl": "Płacz Mewy z Dalekich Mórz",
+      "kr_sha256": "b8db84d14d79bcdc67ca6bcc3a0bcf90f0dcc94ae74e312766a5f075d50e7797",
+      "en_sha256": "cc21d4253d995320d982be35fbe4bee5794681cef4fc9d865bd8f454f75a20fe",
+      "origin": "ai"
+    },
+    "dataList[id=2060511].desc": {
+      "pl": "przy trafieniu tej jednostki jeżeli HP niższe niż 50% Maks. HP nakłada 1 [Burst] na atakującego. (uruchamia się (Absolutny Rezonans Obżarstwa) razy na turę)",
+      "kr_sha256": "121eb85ae552e525a87bfb5d47094a324517d88cf5fcd1138f6dfcc4752b1b6d",
+      "en_sha256": "086ed91f4ade8019d77a66f433cb86463a3e82026dcc6b825e35326eacdfe513",
+      "origin": "ai"
+    },
+    "dataList[id=2060511].name": {
+      "pl": "Zielony Śluz",
+      "kr_sha256": "b9e698094c98694bc9a7c4dc5b00585ff628b8fe12de5cebd86945bac62c4673",
+      "en_sha256": "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9",
+      "origin": "ai"
+    },
+    "dataList[id=2060611].desc": {
+      "pl": "przy wywołaniu [VibrationExplosion] na wrogu Umiejętnością tej jednostki nakłada na wroga 1 [AttackDown] i 2 [DefenseDown] następnej tury. (3 razy na turę, wliczając Umiejętności E.G.O)",
+      "kr_sha256": "3b1cc7ac9385a2750cfa916205ea22a0b1ee5a2bc7f351ac2d63373a95ce45ea",
+      "en_sha256": "6f047e3d4aee7b2e228b1f6fcfdeb40c1bf640e6dde815ee01fa7b2981ee81c3",
+      "origin": "ai"
+    },
+    "dataList[id=2060611].name": {
+      "pl": "Przygnębienie",
+      "kr_sha256": "9cf3f81f5752de32e2b77ce3dcb261ab0ce81195fdd2092b81fa8299d54d80a0",
+      "en_sha256": "a5b6dc6e468cf380ba8f63d204a4e1dc867bff3811ce88936603149005547b23",
+      "origin": "ai"
+    },
+    "dataList[id=2060611].summary": {
+      "pl": "przy wywołaniu [VibrationExplosion] nakłada 1 [AttackDown] i 2 [DefenseDown] następnej tury",
+      "kr_sha256": "d725866259e052458a33ed4a28cc531e83fdb68ca8ded654313b27a0af258d8c",
+      "en_sha256": "38690084dcd3abbf864ebe279e5c1407f701c5594662e69fefbb1a4e4e222027",
+      "origin": "ai"
+    },
+    "dataList[id=2060711].desc": {
+      "pl": "jeżeli [Burst] lub [Laceration] pokonuje wroga lub sojusznika, nakłada 2 [Snare] na losowego wroga i zyskuje 1 [Agility] następnej tury (1 raz na turę)",
+      "kr_sha256": "7b903a608cc3978faa8ac0bd5f97c76e54f8351f518415a9937abd34ce59e21a",
+      "en_sha256": "a0275ebe3b2028b0b1d0b6c7da85702cdc80eeb23cd555223ced9e69d6cb0cdd",
+      "origin": "ai"
+    },
+    "dataList[id=2060711].name": {
+      "pl": "Czas Polowania",
+      "kr_sha256": "0f0bcdd2d9df4e4c630a3d334f6ff1a92fbfc9e2f00a82dc8fc12efd13717329",
+      "en_sha256": "7eeeed3010aee8788a7033c54c99ebab6c70976cfa663372f0b68cbb39769318",
+      "origin": "ai"
     }
   }
 }

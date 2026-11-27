@@ -1,0 +1,1258 @@
+{
+  "entries": {
+    "dataList[id=2040511].levelList[level=1].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Sinking]",
+      "kr_sha256": "13266d0932e641d7738a434892958e88758ba0fd26e41951bd8410d790180eee",
+      "en_sha256": "59248e08db531c0f808483dd2064383c6abe71cf8292603966e5af86c7f28f61",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] zyskuje 3 zasoby E.G.O 1 losowego Grzechu, którego zasoby aktualnie posiada",
+      "kr_sha256": "3964d7ad85986426b0e0e6a2a19ab9269639f27e5d3aa542d6943f8c324adfce",
+      "en_sha256": "d66c125a21e8ee102abe1c0c068a1920b6ef116d3ccd5084117bd10c8e51146e",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=1].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=3].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "40eae9b158c3564f9e22e6615784f0678b6c4f65c1e6f1084d218658cfd91a19",
+      "en_sha256": "d3be4966e4c6f3276a6d17aed2ab694ad7031ce7b734f10505923a18fb7076cb",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] zyskuje 3 zasoby E.G.O 1 losowego Grzechu, którego zasoby aktualnie posiada; wszyscy sojusznicy odzyskują 3 SP",
+      "kr_sha256": "118ac1497207cedc0ea6fa636f2e1fb9e704e0567eb8cb5e56fb3a89fae9e090",
+      "en_sha256": "503de284a4580a0e2384acec326666c26f00eba2d6fd974f4bcc9fed4c1cd5b6",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=3].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=4].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 Zatonięcia",
+      "kr_sha256": "726dc34f0f0bb08c17fa3f7bacdac748f5d026a43351a76d87df8ee0b46d967b",
+      "en_sha256": "212fb53125f1080fe1d2b986180b0ea09a1ba447c4204b82f469f4653adb3abe",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] zyskuje 3 zasoby E.G.O 1 losowego Grzechu, którego zasoby aktualnie posiada; wszyscy sojusznicy odzyskują 3 SP",
+      "kr_sha256": "118ac1497207cedc0ea6fa636f2e1fb9e704e0567eb8cb5e56fb3a89fae9e090",
+      "en_sha256": "503de284a4580a0e2384acec326666c26f00eba2d6fd974f4bcc9fed4c1cd5b6",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=4].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=5].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada 4 [Vibration]</style>",
+      "kr_sha256": "c8bc770ac3bd385df1cdcb2f37a06c3134fde0e698516fddd189b208ee32cd7a",
+      "en_sha256": "0eb228505579a1be95c509167918c698703f6ba0c155bb324f0660283130428b",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "1884902f0c07408f29744bb63a1fce1de20d3f4bb907afadb545f9a3d98841c8",
+      "en_sha256": "d273129670761bbf8db80a77fa48aa42f0aff1d76bf2789c5d33965a7915fd26",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[EnemyKill] zyskuje 3 zasoby E.G.O 1 losowego Grzechu, którego zasoby aktualnie posiada; wszyscy sojusznicy odzyskują 3 SP<style=\"highlight\"></style>",
+      "kr_sha256": "ea76b7ab32d08e4e8abde3a6e83fba9f7407b4a69f155717f18c2c99a881a625",
+      "en_sha256": "0a1ea0757f32655df34a7be1b73e89024c284aee6c58de1ff5f86515e64553bb",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=5].desc": {
+      "pl": "<style=\"highlight\">jeżeli cel ma mniej niż 25% HP, zadaje +40% obrażeń\n[BeforeAttack] przy 4+ najwyższego Rezonansu zyskuje +1 Wagi Ataku\n\n[EndSkill] nakłada 1 [GainSinStockAdder] następnej tury na (2 + najwyższy Rezonans) losowych sojuszników, wliczając tę jednostkę (maks. 7)\n[EndSkill] jeżeli wśród celów są jednostki Oszołomione lub w Panice, zyskuje 1 zasób E.G.O najmniej posiadanego Grzechu; odzyskuje 3 SP</style>",
+      "kr_sha256": "7e5559f4c414c280f523e2ff4f06de5c11a2db89c2670c442db847ce19538357",
+      "en_sha256": "6c5424ebd032ba5864637946a381a6680d525aa0b1dc0e6d7ed072ea79fe70c2",
+      "origin": "ai"
+    },
+    "dataList[id=2040511].levelList[level=5].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=1].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Sinking]",
+      "kr_sha256": "13266d0932e641d7738a434892958e88758ba0fd26e41951bd8410d790180eee",
+      "en_sha256": "59248e08db531c0f808483dd2064383c6abe71cf8292603966e5af86c7f28f61",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] wszyscy sojusznicy zyskują +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Amplifikacji Zasobów E.G.O</link></u></color>.",
+      "kr_sha256": "ecf4e4c8ff31e08a492f29fbba55f762dd22b9c7370a5303ff1b9eb1f72e1847",
+      "en_sha256": "28a241436a10971b0b32922eb674a9f4e942fc9f6168626610527a3f001f59f9",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=1].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=3].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Sinking]",
+      "kr_sha256": "40eae9b158c3564f9e22e6615784f0678b6c4f65c1e6f1084d218658cfd91a19",
+      "en_sha256": "d3be4966e4c6f3276a6d17aed2ab694ad7031ce7b734f10505923a18fb7076cb",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] wszyscy sojusznicy zyskują +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Amplifikacji Zasobów E.G.O</link></u></color>.",
+      "kr_sha256": "ecf4e4c8ff31e08a492f29fbba55f762dd22b9c7370a5303ff1b9eb1f72e1847",
+      "en_sha256": "28a241436a10971b0b32922eb674a9f4e942fc9f6168626610527a3f001f59f9",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=3].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=4].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 Zatonięcia",
+      "kr_sha256": "726dc34f0f0bb08c17fa3f7bacdac748f5d026a43351a76d87df8ee0b46d967b",
+      "en_sha256": "212fb53125f1080fe1d2b986180b0ea09a1ba447c4204b82f469f4653adb3abe",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] wszyscy sojusznicy zyskują +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Amplifikacji Zasobów E.G.O</link></u></color>., nakłada 1 Pośpiechu następnej tury",
+      "kr_sha256": "cf19b5653880ebd409ec63feafe1a7d188ec36100999584ab3969db46090bbec",
+      "en_sha256": "c3629c1c870e11e2f873f5108eba08b03dedec8f99431d70266127f4c7b8b33f",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=4].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].abName": {
+      "pl": "Wellcheers",
+      "kr_sha256": "ea5b8db137ac2126182605da0a5a1c6491b7cec8bd3beb1caa59596f90488d1c",
+      "en_sha256": "ff1134d7e0e53aad2d289c22ff38804f0648b5e7324344189fd42210cde91651",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[SuperCoin]</style>",
+      "kr_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "en_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada 4 [Vibration]</style>",
+      "kr_sha256": "c8bc770ac3bd385df1cdcb2f37a06c3134fde0e698516fddd189b208ee32cd7a",
+      "en_sha256": "0eb228505579a1be95c509167918c698703f6ba0c155bb324f0660283130428b",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "1884902f0c07408f29744bb63a1fce1de20d3f4bb907afadb545f9a3d98841c8",
+      "en_sha256": "d273129670761bbf8db80a77fa48aa42f0aff1d76bf2789c5d33965a7915fd26",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[EndSkill] wszyscy sojusznicy zyskują 1 [GainSinStockAdder] i 1 [Agility] następnej tury<style=\"highlight\"></style>",
+      "kr_sha256": "84acd9835e3562527c023274664c7c0d3e66f97e4cff43a6a03f2a7248c13107",
+      "en_sha256": "5cfc5f08ce4d8a2c4aae5e73b7403e0f5a174565aa3ecc646b925b05a5aebad9",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].coinlist[#0].coindescs[#4].desc": {
+      "pl": "<style=\"highlight\">[EndSkillTail] wszyscy sojusznicy zyskują 1 [GainSinStockAdder] następnej tury (1 raz na turę)</style>",
+      "kr_sha256": "413ae234db1c9ebbd0aeb09ef43269f0f5bd520078cead19f700646282a8346d",
+      "en_sha256": "2f82661f862293eec3339768d76d5cc449b396df4089dad2ddd74976372a2179",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n\n<style=\"highlight\">jeżeli cel ma mniej niż 25% HP, zadaje +40% obrażeń\n[DefeatDuel] Moc Bazowa -12\n[BeforeAttack] przy 4+ najwyższego Rezonansu zyskuje +1 Wagi Ataku\n[EndSkill] jeżeli wśród celów są jednostki Oszołomione lub w Panice, zyskuje 1 zasób E.G.O najmniej posiadanego Grzechu; odzyskuje 3 SP</style>",
+      "kr_sha256": "3fd7438db00872b7148f96ba66dccd486b193fc7432571ce9609d3b845a21b53",
+      "en_sha256": "72e3eefd29b8cfd26b426916aa858ca62dcbd5af92e04e6f3c382975be5300ad",
+      "origin": "ai"
+    },
+    "dataList[id=2040521].levelList[level=5].name": {
+      "pl": "Gazowany Napój",
+      "kr_sha256": "9386c03c1aeb6d2f67fc56e74305c24ca9c93ddd3a4b03f01eed2c28b1f7847e",
+      "en_sha256": "49dadc5e16e6944748d54fecdec5726e170227f1f02841ed98c57ba61ab01c56",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=1].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Ładowania o 2",
+      "kr_sha256": "a1dc8a1f11153290994dafaea46140e999d57ea924e77d42f3356c27f8fdb07c",
+      "en_sha256": "b0a5a0af40661610e7a8364bdb286d7a0dc31bdc7bc454f93010b33df5283188",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "18a68455817a72e976b004415e8b27ab046d97e4895b28ff930ef0fc2b2fb155",
+      "en_sha256": "b09caa0482e625fd43f2a48cbbc9ece0f09435aee7504050fefb711f0054687d",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje 4 Równowagi",
+      "kr_sha256": "51839e785c2019b3777f8cbefad7a6bc69d3989786c1c400ddfdd8d62dd66d1d",
+      "en_sha256": "1be6bc99406d60b788444321673c3d2cdf2316a6ea16c62dbc5ea3778ab13ac4",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=1].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=3].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Ładowania o 2",
+      "kr_sha256": "a1dc8a1f11153290994dafaea46140e999d57ea924e77d42f3356c27f8fdb07c",
+      "en_sha256": "b0a5a0af40661610e7a8364bdb286d7a0dc31bdc7bc454f93010b33df5283188",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "18a68455817a72e976b004415e8b27ab046d97e4895b28ff930ef0fc2b2fb155",
+      "en_sha256": "b09caa0482e625fd43f2a48cbbc9ece0f09435aee7504050fefb711f0054687d",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] zyskuje 4 Równowagi\n[EndSkill] zyskuje 2 Równowagi za każdą jednostkę pokonaną przez tę Umiejętność",
+      "kr_sha256": "f31345dffc6982b1303dc08343dc78d797693b8848071e7430d07a9d6f5e6e31",
+      "en_sha256": "40f5231dd838c8b9e0c6abbb966d64639a2e55fb4f3e8b8b3dc8091adb7927c8",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=3].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=4].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Ładowania o 2",
+      "kr_sha256": "a1dc8a1f11153290994dafaea46140e999d57ea924e77d42f3356c27f8fdb07c",
+      "en_sha256": "b0a5a0af40661610e7a8364bdb286d7a0dc31bdc7bc454f93010b33df5283188",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] zyskuje +2 Licznika Ładowania",
+      "kr_sha256": "18a68455817a72e976b004415e8b27ab046d97e4895b28ff930ef0fc2b2fb155",
+      "en_sha256": "b09caa0482e625fd43f2a48cbbc9ece0f09435aee7504050fefb711f0054687d",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje 4 Równowagi\n[EndSkill] zyskuje 2 Równowagi za każdą jednostkę pokonaną przez tę Umiejętność",
+      "kr_sha256": "f31345dffc6982b1303dc08343dc78d797693b8848071e7430d07a9d6f5e6e31",
+      "en_sha256": "40f5231dd838c8b9e0c6abbb966d64639a2e55fb4f3e8b8b3dc8091adb7927c8",
+      "origin": "ai"
+    },
+    "dataList[id=2040611].levelList[level=4].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=1].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Breath] o 1",
+      "kr_sha256": "8b39ac5204c9c05998fe2f04df4fd7550e4895f6276920f5e1598344dfd067a4",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje 4 Równowagi. Zużywa 2 Liczników Ładowania, by zyskać 1 Równowagę (maks. 10)\n[EndSkill] zyskuje +4 Licznika Ładowania za każdą jednostkę pokonaną przez tę Umiejętność",
+      "kr_sha256": "285065014a19891a57ca152831a43a778f0c25208ddf242e2d6d5b23838267f5",
+      "en_sha256": "209eebca2b9b8fee1529e863a952b2991ff5f47582bd1936fc9cbd5e8cbcb412",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=1].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=3].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Breath] o 1",
+      "kr_sha256": "8b39ac5204c9c05998fe2f04df4fd7550e4895f6276920f5e1598344dfd067a4",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje 4 Równowagi. Zużywa 2 Liczników Ładowania, by zyskać 1 Równowagę (maks. 10)\n[EndSkill] zyskuje +4 Licznika Ładowania za każdą jednostkę pokonaną przez tę Umiejętność",
+      "kr_sha256": "285065014a19891a57ca152831a43a778f0c25208ddf242e2d6d5b23838267f5",
+      "en_sha256": "209eebca2b9b8fee1529e863a952b2991ff5f47582bd1936fc9cbd5e8cbcb412",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=3].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=4].abName": {
+      "pl": "Mułowy Prąd Pożerający Sny",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Breath] o 1",
+      "kr_sha256": "8b39ac5204c9c05998fe2f04df4fd7550e4895f6276920f5e1598344dfd067a4",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] przy 10+ [Breath] zyskuje +30% obrażeń krytycznych",
+      "kr_sha256": "a3e284499c6d5e60ef9f4269f4c8af8055d3051bdb0cdea1ccb7d4e7ca97c00b",
+      "en_sha256": "201bf6ec94df57ab250dbc418f16ef79acd76f1234870cd1759754dcda5f4f10",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje 4 Równowagi. Zużywa 2 Liczników Ładowania, by zyskać 1 Równowagę (maks. 10)\n[EndSkill] zyskuje +4 Licznika Ładowania za każdą jednostkę pokonaną przez tę Umiejętność",
+      "kr_sha256": "285065014a19891a57ca152831a43a778f0c25208ddf242e2d6d5b23838267f5",
+      "en_sha256": "209eebca2b9b8fee1529e863a952b2991ff5f47582bd1936fc9cbd5e8cbcb412",
+      "origin": "ai"
+    },
+    "dataList[id=2040621].levelList[level=4].name": {
+      "pl": "Zaślepiona Obsesja",
+      "kr_sha256": "e3cd010eb775ce408be8368a13811a011457000a52093bc0e39953da655eb611",
+      "en_sha256": "f0df4fc91e8024737be82202e9e7b843b7809e061d810de63e129c2f10a34db8",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=1].abName": {
+      "pl": "Spirala Pogardy",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[EndSkill] równomiernie rozdziela 10 [Laceration] między wszystkie cele ataku",
+      "kr_sha256": "ead6593caec2eeae898f834716174d47a0433c47f67ff9bfebdb1f8597a289ca",
+      "en_sha256": "31f08428bf6686e3b702c5afdfabcd53cbc2bad5afce22eac9c97d4cb99de01b",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższy Rezonans) Wagi Ataku (maks. 2)\n[BeforeAttack] zyskuje (najwyższy Rezonans + 1) [GazePersonality] (maks. 7)\n[EndSkill] przez 2 tury traci 10 SP na koniec tury",
+      "kr_sha256": "8f82673410c829c3073252dcba70273b6ab25b02e6c3fd5441abd9cf9bcf5244",
+      "en_sha256": "4b3143a83026bce349d42d0f2eaa186b87d54c085d39a3092b73b4db7088ed55",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=1].name": {
+      "pl": "Pogarda, Trwoga",
+      "kr_sha256": "274e88b86e118ec50985e9aa8ad8bf34358d98aa9aa4407b67e4ce10479ff54f",
+      "en_sha256": "4b8f02bee53e41e7f6166316706a1e4880bb4530fd9c003a2c769933b335e253",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=3].abName": {
+      "pl": "Spirala Pogardy",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[EndSkill] równomiernie rozdziela <style=\"highlight\">15</style> [Laceration] między wszystkie cele ataku",
+      "kr_sha256": "a2cc107feb8d1d3640e731f0e2829ecae09010846caac94b0a59b8d9a2d96912",
+      "en_sha256": "0aa3bc7aac142cb06aea244281f4813d9fe40e03af195da11be7abc75439fe79",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższy Rezonans) Wagi Ataku (maks. <style=\"highlight\">4</style>)\n[BeforeAttack] zyskuje (najwyższy Rezonans + 1) [GazePersonality] (maks. 7)\n[EndSkill] przez 2 tury traci 10 SP na koniec tury",
+      "kr_sha256": "a23b40dffbf562f695660625d79fcbce5101b00a8bb949c0ae28324aab72d2f6",
+      "en_sha256": "9b9b31e8bc37122386979662e15cb5c873b207a519e674bbfefa4bfa222426e0",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=3].name": {
+      "pl": "Pogarda, Trwoga",
+      "kr_sha256": "274e88b86e118ec50985e9aa8ad8bf34358d98aa9aa4407b67e4ce10479ff54f",
+      "en_sha256": "4b8f02bee53e41e7f6166316706a1e4880bb4530fd9c003a2c769933b335e253",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=4].abName": {
+      "pl": "Spirala Pogardy",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[EndSkill] równomiernie rozdziela 15 [Laceration] między wszystkie cele ataku<style=\"highlight\"></style>",
+      "kr_sha256": "b5e37d9b1e649cfbd6d8f0640ad95a8a231f980cfb4e435110473aa93042c92f",
+      "en_sha256": "6cf0ecb6b1ecb330de2bfa05abcac5305a2db222883820885f5be19c4d91a313",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższy Rezonans) Wagi Ataku (maks. <style=\"highlight\">6</style>)\n[BeforeAttack] zyskuje (najwyższy Rezonans + 1) [GazePersonality] <style=\"highlight\">w tej i następnej turze</style> (maks. 7)\n<style=\"highlight\">[EndSkill] jeżeli w Rezonansie uczestniczyła Żądza, zyskuje po 1 zasobie E.G.O dla Grzechów odpowiadających Umiejętnościom Ataku tej jednostki</style>\n[EndSkill] przez 2 tury traci 10 SP na koniec tury",
+      "kr_sha256": "97b21d97c7005e690f1fc8fa861c3dd4bf446250734cbf719d039e36af93035c",
+      "en_sha256": "9d7a32e52ca52b710330c28c58dc9e12109a86abe428826fd1db0116255cb059",
+      "origin": "ai"
+    },
+    "dataList[id=2040711].levelList[level=4].name": {
+      "pl": "Pogarda, Trwoga",
+      "kr_sha256": "274e88b86e118ec50985e9aa8ad8bf34358d98aa9aa4407b67e4ce10479ff54f",
+      "en_sha256": "4b8f02bee53e41e7f6166316706a1e4880bb4530fd9c003a2c769933b335e253",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=1].abName": {
+      "pl": "Spirala Pogardy",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], zadaje +(Siła [Laceration] celu + Licznik [Laceration] celu)% obrażeń (maks. 20%)",
+      "kr_sha256": "1bb3ae7ca0f677855a1c6211f58166ffa815943436d462f29a5fd5dc154585ad",
+      "en_sha256": "a53e2627e02d43ee8611b42c26fefb6b16eecc958f6f7c0b4b8a960c318dfc33",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada (1 + (najwyższy Rezonans x 1,5)) [Laceration] (maks. 10, zaokrąglone w dół)",
+      "kr_sha256": "f953ec347c85d2497fa551ba90bc1e529964e74a328ccc20b8d3c526e1a8ed59",
+      "en_sha256": "c13f2c3e9be36f010a649a5489842eb3a4612e0db78ec2edca1207774da79750",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] celu o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje 7 [GazePersonality]",
+      "kr_sha256": "6976ab2db2799b404e08048cc844275fca9de10e3bcb27edba3fbdf4b7ec6a91",
+      "en_sha256": "cada2f479fcc9e3f982d5ce0ebc07bf660eed6c706c61196fa0f692224abc5f9",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=1].name": {
+      "pl": "Pogarda, Trwoga",
+      "kr_sha256": "274e88b86e118ec50985e9aa8ad8bf34358d98aa9aa4407b67e4ce10479ff54f",
+      "en_sha256": "4b8f02bee53e41e7f6166316706a1e4880bb4530fd9c003a2c769933b335e253",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=3].abName": {
+      "pl": "Spirala Pogardy",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], zadaje +(Siła [Laceration] celu + Licznik [Laceration] celu)% obrażeń (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "5e1923e3d75dd1abf50f608e1b9f047c3e5a6065ade745630ccda6cc74a168b4",
+      "en_sha256": "8bd2b96670a140801b8dc3d8be797787edf8446ee89138c4ca6048649cb3ff08",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">(3 + (najwyższy Rezonans x 2))</style> [Laceration] (maks. <style=\"highlight\">15</style>, zaokrąglone w dół)",
+      "kr_sha256": "2e672513fa40702560990701ae0ba6ab11e899bf9e04abd45fb6309dbaff427e",
+      "en_sha256": "b01491e51776ef90916bc57a8756a2dad678b5b258ec9a0097a7c66fd24b128d",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada +<style=\"highlight\">3</style> Licznika [Laceration]",
+      "kr_sha256": "541b78b70cf95dfe72abcf3ae014ee7a13cbbe83c7b6c60d11c88671e80c66c9",
+      "en_sha256": "1d9458cd7b2a4aaf16c6cb4927497923e2392afc19bf961ab0a84035753b8c99",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje 7 [GazePersonality]",
+      "kr_sha256": "6976ab2db2799b404e08048cc844275fca9de10e3bcb27edba3fbdf4b7ec6a91",
+      "en_sha256": "cada2f479fcc9e3f982d5ce0ebc07bf660eed6c706c61196fa0f692224abc5f9",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=3].name": {
+      "pl": "Pogarda, Trwoga",
+      "kr_sha256": "274e88b86e118ec50985e9aa8ad8bf34358d98aa9aa4407b67e4ce10479ff54f",
+      "en_sha256": "4b8f02bee53e41e7f6166316706a1e4880bb4530fd9c003a2c769933b335e253",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=4].abName": {
+      "pl": "Spirala Pogardy",
+      "kr_sha256": "cc8248e1f72b13d4010cf64625a6273c8f42f7b2be9bafd3f9a9aefbd73d0528",
+      "en_sha256": "00041d22b57160da3f1820cc74a1aeca61e68259b46e7830883fa0e94e0abce5",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [Laceration], zadaje +(Siła [Laceration] celu + Licznik [Laceration] celu)% obrażeń (maks. <style=\"highlight\">60%</style>)",
+      "kr_sha256": "f116b85527dd6fb77cfcd90a5f621b4948a0a7255ea9b66175752ccaa2866a0f",
+      "en_sha256": "dcde1963ae2cd7f5488004d53ab34f97c65d6aaac53d94456511726d46d32fc3",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">(10 + (najwyższy Rezonans x 2,5))</style> [Laceration] (maks. <style=\"highlight\">25</style>, zaokrąglone w dół)",
+      "kr_sha256": "e1178ab7b0ce3a99701e1edb848006c487b39f7ea43990214d0875149f2aee98",
+      "en_sha256": "46219e96dbb160cd4a21b4ed81707a5001496e59393618f3bfaf5e422ca76f19",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada +<style=\"highlight\">5</style> Licznika [Laceration]",
+      "kr_sha256": "cebf18a0356532f158d5975c9551971dd8f5c27a392e363edc7554adbe9608d9",
+      "en_sha256": "7dab8ad75b92780cd77cd8d4b793af9d80b9eab885a362908dca4961ca71c2bf",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] jeżeli w Rezonansie uczestniczyła Żądza, zyskuje po 1 zasobie E.G.O dla Grzechów odpowiadających Umiejętnościom Ataku tej jednostki</style>",
+      "kr_sha256": "312f0abd3a82cf6ec22c07f50b23b6975527722cdb02ba9e64d5921533c5ed19",
+      "en_sha256": "3fdcec352bb2c556c09d2369826eb3f053fa15eefe822b680fc9dc0e2a723a47",
+      "origin": "ai"
+    },
+    "dataList[id=2040721].levelList[level=4].name": {
+      "pl": "Pogarda, Trwoga",
+      "kr_sha256": "274e88b86e118ec50985e9aa8ad8bf34358d98aa9aa4407b67e4ce10479ff54f",
+      "en_sha256": "4b8f02bee53e41e7f6166316706a1e4880bb4530fd9c003a2c769933b335e253",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=1].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [HoldingBreath] (1 raz na turę)",
+      "kr_sha256": "bc7782df7b9abee1f256222e4727b2a4ebef800de286a6f5bba7f235a7f6aad6",
+      "en_sha256": "5f06246dbda224747d1ef39e39cacef4dc1b7bcd267157db743e8a7d102ae83f",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 4)\n- przy 15+ [Breath], zamiast tego zyskuje +(najwyższy Rezonans) do Mocy Końcowej (maks. 4)\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Licznika [Breath] (maks. 2)\n- przy 5+ Licznika [Breath], zamiast tego zyskuje +(najwyższy Rezonans / 2) do Mocy Monety (maks. 2)\n[TargetKill] następnej tury zyskuje 1 [HoldingBreath] (maks. 2 razy na turę)",
+      "kr_sha256": "2bd2ad2b4ba6ec21004d0e91185372e1356c7df7febb99375bab3e564591ada5",
+      "en_sha256": "1aac26dfc4be9642a55a99ae464b063f8b207f3dfc6677dfd05651b4df3072de",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=1].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=3].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">+(Siła [Breath] + Licznik)% obrażeń krytycznych (maks. 20%)</style>",
+      "kr_sha256": "7772f51c73cc6afc1ca84e3652d8826f6e8708b5411f23419e444946d8b7da20",
+      "en_sha256": "0d89070d0850fe97da40046a5f1d51edb2e187a92e816a81a44c7b6acaa565c0",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [HoldingBreath] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "83d7ee378cdf7e29b88f4ef8e490613c6a37829ab94ede7fe93969f071d5f210",
+      "en_sha256": "9b364ec23281dd6035a75c283f07b7755cba68fbf332b18134fbe88f510c56f8",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. <style=\"highlight\">6</style>)\n- przy 15+ [Breath], zamiast tego zyskuje +(najwyższy Rezonans) do Mocy Końcowej (maks. <style=\"highlight\">6</style>)\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Licznika [Breath] (maks. 2)\n- przy 5+ Licznika [Breath], zamiast tego zyskuje +(najwyższy Rezonans / 2) do Mocy Monety (maks. 2)\n[TargetKill] następnej tury zyskuje <style=\"highlight\">2</style> [HoldingBreath] (maks. <style=\"highlight\">4</style> razy na turę)",
+      "kr_sha256": "4fcfb6a752afd5a92e3719524bcdc4476b6d8136e89b26f07dc071ea2dcc4abb",
+      "en_sha256": "049a9edb7740bacb2cd321d461e6434d38f363eae9573d8eb13d4f77517755e5",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=3].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=4].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "+(Siła [Breath] + Licznik)% obrażeń krytycznych (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "63c6f7ed9cccf9d2f3622f1d250c1322bba32912718530874eb3464327431c8d",
+      "en_sha256": "7d8e180b981293c17b0fdb97757e3082005170dac0a431834ac26023c00ddd71",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje <style=\"highlight\">4</style> [HoldingBreath] (1 raz na turę)",
+      "kr_sha256": "f25bbca73b0d7d07c68f48d5f0bce52a5efa9b4761b62551b384a6fd1f388041",
+      "en_sha256": "e5b093c0acd427f9e723a7f44fa047658ff0bdf189882643c96a9cd059968e25",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 6)\n- przy 15+ [Breath], zamiast tego zyskuje +(najwyższy Rezonans) do Mocy Końcowej (maks. 6)\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Licznika [Breath] (maks. <style=\"highlight\">3</style>)\n- przy 5+ Licznika [Breath], zamiast tego zyskuje +(najwyższy Rezonans / 2) do Mocy Monety (maks. <style=\"highlight\">3</style>)\n[TargetKill] następnej tury zyskuje 2 [HoldingBreath] (maks. <style=\"highlight\">6</style> razy na turę)",
+      "kr_sha256": "fb0f96a0d9699770a1228b19f1fb88cc6f40d1eea15dff1bf000db85af838924",
+      "en_sha256": "5a584b725496ca9b05f4043aa7cb2c5290cc6e6bcf1de259e86f00df177db242",
+      "origin": "ai"
+    },
+    "dataList[id=2040811].levelList[level=4].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=1].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [HoldingBreath] (1 raz na turę)",
+      "kr_sha256": "78a0ae9267c9a0cd8c3c34a9807947ef462d965378ad676b1944224d23c11b20",
+      "en_sha256": "5b11ac2299c144c1e58080755dfb5ae9a8cb133e5b98fc26df4447cf09b3c0a9",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cele z najniższym HP (najpierw sojusznicy)\njeżeli w celach tej Umiejętności jest sojusznik, zadaje +30% obrażeń\n\n[BeforeAttack] przy [Breath] niższym niż 15 zużywa 10% HP, by zyskać 5 [Breath] i +5 Licznika [Breath]\n- ten efekt nie powoduje Oszołomienia ani śmierci\n\n[EndSkill] jeżeli cel ginie, następnej tury zyskuje 2 [HoldingBreath]. (1 raz na turę) Jeżeli tym celem był sojusznik, dodatkowo uruchamia poniższe:\n- sojusznicy, którzy z powodu pokonanych sojuszników wstępują do walki lub są odsuwani do Rezerwy, zyskują 2 [Breath] i +2 Licznika [Breath]",
+      "kr_sha256": "d829eb272de05897b8f55b2f23cea9f9a8cd476a8e355324803fadb53d234ead",
+      "en_sha256": "defd8ca76b8f71b270831228f4795e69928a957a6a22240cf7ce38a35bd9d134",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=1].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=3].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">+(Siła [Breath] + Licznik)% obrażeń krytycznych (maks. 20%)</style>",
+      "kr_sha256": "7772f51c73cc6afc1ca84e3652d8826f6e8708b5411f23419e444946d8b7da20",
+      "en_sha256": "0d89070d0850fe97da40046a5f1d51edb2e187a92e816a81a44c7b6acaa565c0",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 4 [HoldingBreath] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "1dab733c691dfdabed812f28338318439a03a6cc12f937fe089bc4b4c4007f42",
+      "en_sha256": "5f3e86b8476fcbeda1896576f5ffca9f8ce55077c11c108fd1e93f01715c6681",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cele z najniższym HP (najpierw sojusznicy)\njeżeli w celach tej Umiejętności jest sojusznik, zadaje +30% obrażeń\n\n[BeforeAttack] przy [Breath] niższym niż 15 zużywa 10% HP, by zyskać 5 [Breath] i +5 Licznika [Breath]\n- ten efekt nie powoduje Oszołomienia ani śmierci\n<style=\"highlight\">- za każdego sojusznika w celach tej Umiejętności zyskuje 1 [Breath] (maks. 2)</style>\n\n[EndSkill] jeżeli cel ginie, następnej tury zyskuje 2 [HoldingBreath]. (1 raz na turę) Jeżeli tym celem był sojusznik, dodatkowo uruchamia poniższe:\n- sojusznicy, którzy z powodu pokonanych sojuszników wstępują do walki lub są odsuwani do Rezerwy, zyskują <style=\"highlight\">4</style> [Breath] i +2 Licznika [Breath]\n<style=\"highlight\">- odzyskuje połowę SP zużytego przez tę Umiejętność</style>",
+      "kr_sha256": "918e60095c1370190295b3921aa623362b301b2e544e81e19d41061bbb2f4322",
+      "en_sha256": "23a1f58ca6605df372f83d41cec600aeb6aea8dd9206b6bb25c0a167004639b3",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=3].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=4].abName": {
+      "pl": "Śpiwór Dni Przeszłych",
+      "kr_sha256": "0d8e6f3ae6898b1f36760c5bb5b96f64c48fdc6d7c87d18f21769f77c1a26881",
+      "en_sha256": "d872effce50f3ecd47d7da3f3596c0195c6b362c98b21cebce5c10ab6986284b",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "+(Siła [Breath] + Licznik)% obrażeń krytycznych (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "63c6f7ed9cccf9d2f3622f1d250c1322bba32912718530874eb3464327431c8d",
+      "en_sha256": "7d8e180b981293c17b0fdb97757e3082005170dac0a431834ac26023c00ddd71",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje <style=\"highlight\">7</style> [HoldingBreath] (1 raz na turę)",
+      "kr_sha256": "ccaba7ab990ff4dd2563a78b83c9f4ec3482463ceb200a35263d51207f16d1f5",
+      "en_sha256": "0f305873eace8de08663cc6f5881a812ab4ff43bd47208ca3356fc8d8720d5ba",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cele z najniższym HP (najpierw sojusznicy)\njeżeli w celach tej Umiejętności jest sojusznik, zadaje +30% obrażeń\n\n[BeforeAttack] przy [Breath] niższym niż 15 zużywa 10% HP, by zyskać 5 [Breath] i +5 Licznika [Breath]\n- ten efekt nie powoduje Oszołomienia ani śmierci\n- za każdego sojusznika w celach tej Umiejętności zyskuje <style=\"highlight\">2</style> [Breath] (maks. <style=\"highlight\">4</style>)\n\n[EndSkill] jeżeli cel ginie, następnej tury zyskuje 3 [HoldingBreath]. (1 raz na turę) Jeżeli tym celem był sojusznik, dodatkowo uruchamia poniższe:\n- sojusznicy, którzy z powodu pokonanych sojuszników wstępują do walki lub są odsuwani do Rezerwy, zyskują 4 [Breath] i +<style=\"highlight\">4</style> Licznika [Breath]\n<style=\"highlight\">- odzyskuje SP zużyte przez tę Umiejętność i odzyskuje po 1 każdym zużytym zasobie E.G.O</style>",
+      "kr_sha256": "b98c37cdfc0a10fddaea6c4347b5bc15dbd347da13b5d85125dc93bedac46d5d",
+      "en_sha256": "714df53389de398d7d6f0a535b26d09ab2987d67ea98b9c26119c72a371088db",
+      "origin": "ai"
+    },
+    "dataList[id=2040821].levelList[level=4].name": {
+      "pl": "Torakalgia",
+      "kr_sha256": "301d0a94e36b59af3df92004a2a8359dc43555a7f0b4e044a5076d68e7d023fc",
+      "en_sha256": "2f09e188f242c13fac368235410379145fbc54255b18cf9a32e0c601a65ec594",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "Zadaje +30% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "0196b147de225579e5264b4637ee62c8ef5617cdbefd357ca6458472798e08fc",
+      "en_sha256": "9878b2fadb3405e49b3489d6fe7469468f6f9e3eed02835eac5441d113cba50d",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnStartCoin] zużywa wszystkie [RyoshuEGOPF] i zadaje +1% obrażeń za każde 5 zużytych [RyoshuEGOPF] (maks. 100%)",
+      "kr_sha256": "7ebfb70ada15bc1df0391a0ddfa72fd53ee94f1f8d725ecb0a2166ebdf6c86e8",
+      "en_sha256": "9a697dfca14ed15eeeea45caf25a74b90751a6f350f99cffafd47dd446368f5f",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].coinlist[#2].coindescs[#2].summary": {
+      "pl": "[OnStartCoin] zadaje więcej obrażeń w zależności od [RyoshuEGOPF]",
+      "kr_sha256": "5c2675c8d9476093e220bdf7eee003e1e2084e7cb091b90d0241f1e0be688d89",
+      "en_sha256": "c21204632f63fa7e577f4843e3fc02b3e117a50a553667bc2ebdd3ac6fe985f6",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n\n[EndSkill] zyskuje 1 [RyoshuEGOPF]\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "ec5830f3e4b67aa550b28be0ef57b1b5a8513f74619f4290558d2083398f7273",
+      "en_sha256": "bc6891a6ca4f7df78ee00789e6cbcbcac2fb351fb1cd7a19bb535fbad0bf5ac5",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=1].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Nakłada w następnej turze 1 [Binding]</style>",
+      "kr_sha256": "62f7203021268a2533cc97e17ab0df8823cf67a658db3c7489a8e8893cacfc36",
+      "en_sha256": "f585954289a4a34d6042a263ca11db527acb95fe28657daa2056adccda75c376",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "c81c94a6ccc49d2a1fbcb35ba8eeccaea9c5ebb40b12f690eb929218f26a2f04",
+      "en_sha256": "c2a1ce5d5e1ba84011f29d81d747ec76ce9150a2c38a9b987c5fc14ecd2c8170",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[CriticalOnSucceedAttack] +3 do Mocy Monety ostatniej Monety (1 raz na Umiejętność)</style>",
+      "kr_sha256": "84641d271f70511e48433c3c5a2052d4cb0e2125853060cbe6f9f02ee8fef83b",
+      "en_sha256": "f03f3c8d9fca836870b4d65402bc28bb7e45e1ffe8ff157ab0182e098860caef",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "Zadaje +30% obrażeń przy trafieniu krytycznym<style=\"highlight\"></style>",
+      "kr_sha256": "e00bb541ab69c1a653026eaee0ca7c4f2808103e1f50587b469f5098988e3280",
+      "en_sha256": "b587012374da9fb22ecb1a746d8da4c6db9685fbfb4d66cf69009b767599c8cf",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnStartCoin] zadaje +1% obrażeń za każde 10 (Siła [Combustion] + Siła [Laceration]) na wszystkich celach (maks. 30%)</style>",
+      "kr_sha256": "643ce327052698a7c1167f885012d1943fc4e8a43c63ed7c3c1c08370c7926de",
+      "en_sha256": "ca765c178eeeac6752584605dd2506d6aac25cf20a6a9d3515244ec4db286e34",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[OnStartCoin] +1 do Mocy Monety za każde 10 (Licznik [Combustion] + Licznik [Laceration]) na wszystkich celach (maks. 3)</style>",
+      "kr_sha256": "9c003111c6db7cc37baa6371b93a14f646990bf656318aafe2513b9594d9fd2f",
+      "en_sha256": "251fb4e9632b495a0b95454c027ee5bec34a64929446db11120fd38f5a7c5b7f",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnStartCoin] zużywa wszystkie [RyoshuEGOPF] i zadaje +1% obrażeń za każde 5 zużytych [RyoshuEGOPF] (maks. 100%)\n- przy ataku na tylko 1 cel powyższy modyfikator obrażeń działa z wartością x 1,5 (w walkach skupionych Rdzeń z połączonymi Częściami liczą się jako 1 cel)",
+      "kr_sha256": "ed76607cfdf57f6b098cbf93b2632e826d8c3debccf13beb4993ce5395821182",
+      "en_sha256": "e23badbcee6a97c72b5c0162d2dacf8d90961010c6516ef0d5b88aff4f78a860",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].coinlist[#2].coindescs[#4].summary": {
+      "pl": "<style=\"highlight\">[OnStartCoin] zadaje więcej obrażeń w zależności od [RyoshuEGOPF]</style>",
+      "kr_sha256": "3d1993b87f095e2ba3c7c5a4fadcedc8cf97727e49cd48430deada927019f234",
+      "en_sha256": "f42d6a039b3aa379d139e7741c904f62aab28288e0e8b357fc5ce7a598636fcf",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n<style=\"highlight\">[BeforeAttack] zyskuje +2 Licznika [Breath]</style>\n\n[EndSkill] zyskuje 1 [RyoshuEGOPF]\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "8a016f91d7fdf300615a60b9dc011a9334b44ac10a95b0085ec742cf05e989d1",
+      "en_sha256": "193bb14999661c754a990abffeee2f740666a052c4346b855cc118d7e54039ba",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=3].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 [Binding]<style=\"highlight\"></style>",
+      "kr_sha256": "9ba8d7ccfcbc660b65e79517517a499148747e2f629992cc33b9de9e3ebe797f",
+      "en_sha256": "ea9c018addf06940200d40a9a9f7c78bb568cd40536e849b1ef1b967060b9b04",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "c81c94a6ccc49d2a1fbcb35ba8eeccaea9c5ebb40b12f690eb929218f26a2f04",
+      "en_sha256": "c2a1ce5d5e1ba84011f29d81d747ec76ce9150a2c38a9b987c5fc14ecd2c8170",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] ostatnia Moneta zyskuje Moc Monety <style=\"highlight\">+5</style> (1 raz na Umiejętność)",
+      "kr_sha256": "4fe7d9678b851f2b3680158f2e42ca7cd1783590e9ee6cc7987a640cfb9bc6b4",
+      "en_sha256": "8aabe37b80d384fccd8520afe0aad73fe0cdf550b304a6879ad1e477f0b624f8",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "Zadaje +30% obrażeń przy trafieniu krytycznym<style=\"highlight\"></style>",
+      "kr_sha256": "e00bb541ab69c1a653026eaee0ca7c4f2808103e1f50587b469f5098988e3280",
+      "en_sha256": "b587012374da9fb22ecb1a746d8da4c6db9685fbfb4d66cf69009b767599c8cf",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnStartCoin] zadaje +1% obrażeń za każde 10 (Siła [Combustion] + Siła [Laceration]) na wszystkich celach <style=\"highlight\">(maks. 50%)</style>",
+      "kr_sha256": "a065d543dda070a4cb1a0bda26d5b99974f3be787707d5437eb4fcc37868741b",
+      "en_sha256": "a70e598361badc5f3074dd25e34aee512566cd0cb814bd32b2d5146ffe441c51",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnStartCoin] +1 do Mocy Monety za każde 10 (Licznik [Combustion] + Licznik [Laceration]) na wszystkich celach <style=\"highlight\">(maks. 5)</style>",
+      "kr_sha256": "ae5f7d5720102f4f6c02b66776bf77da465742c49b6f57a2f44abd2a113502ea",
+      "en_sha256": "b01fba6a04e543cce1e4b878fde85958e48d6de84404299f23da2dbd9056534c",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnStartCoin] zużywa wszystkie [RyoshuEGOPF] i zadaje +1% obrażeń za każde 5 zużytych [RyoshuEGOPF] <style=\"highlight\">(maks. 198%)</style>\n- przy ataku na tylko 1 cel powyższy modyfikator obrażeń działa z wartością <style=\"highlight\">x 2</style> (w walkach skupionych Rdzeń z połączonymi Częściami liczą się jako 1 cel)",
+      "kr_sha256": "a27723274aa6f8f817b5ccedde763c201842a627882a28f69026331827b1233a",
+      "en_sha256": "1375cabd8b315065b1080cc2e241f5f1d5221617d7dc609ab213647126c9da41",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].coinlist[#2].coindescs[#4].summary": {
+      "pl": "[OnStartCoin] zadaje więcej obrażeń w zależności od [RyoshuEGOPF]",
+      "kr_sha256": "5c2675c8d9476093e220bdf7eee003e1e2084e7cb091b90d0241f1e0be688d89",
+      "en_sha256": "c21204632f63fa7e577f4843e3fc02b3e117a50a553667bc2ebdd3ac6fe985f6",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n[BeforeAttack] zyskuje <style=\"highlight\">+3</style> Licznika [Breath]\n\n[EndSkill] zyskuje 1 [RyoshuEGOPF]\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "a24c42438a38f5e79cfb1f03b08b354cf685ee2957a980a6e543cf2e948a2acd",
+      "en_sha256": "2ee4e838fc85055f21c86162e6fe5f2242b33350f1cd16556800ecce3af43465",
+      "origin": "ai"
+    },
+    "dataList[id=2040911].levelList[level=4].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "Zadaje +30% obrażeń przy trafieniu krytycznym",
+      "kr_sha256": "0196b147de225579e5264b4637ee62c8ef5617cdbefd357ca6458472798e08fc",
+      "en_sha256": "9878b2fadb3405e49b3489d6fe7469468f6f9e3eed02835eac5441d113cba50d",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnStartCoin] zużywa wszystkie [RyoshuEGOPF] i zadaje +1% obrażeń za każde 5 zużytych [RyoshuEGOPF] (maks. 100%)",
+      "kr_sha256": "7ebfb70ada15bc1df0391a0ddfa72fd53ee94f1f8d725ecb0a2166ebdf6c86e8",
+      "en_sha256": "9a697dfca14ed15eeeea45caf25a74b90751a6f350f99cffafd47dd446368f5f",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].coinlist[#2].coindescs[#2].summary": {
+      "pl": "[OnStartCoin] zadaje więcej obrażeń w zależności od [RyoshuEGOPF]",
+      "kr_sha256": "5c2675c8d9476093e220bdf7eee003e1e2084e7cb091b90d0241f1e0be688d89",
+      "en_sha256": "c21204632f63fa7e577f4843e3fc02b3e117a50a553667bc2ebdd3ac6fe985f6",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zużywa do 20 nadwyżkowych [Breath] ponad 20 własnego [Breath], odzyskując za każde zużyte [Breath] 1% Maks. HP (min. 1 HP) i zadając +1% obrażeń tą Umiejętnością\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] przy 999 [RyoshuEGOPF] Moc Bazowa +1\n[BeforeAttack] -3 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -9)\n\n[EndSkill] zyskuje 10 [RyoshuEGOPF]",
+      "kr_sha256": "8202eb51ae350ffd079b2198a09bf6507eb3cfe921f6e77f81024c7be0c031a4",
+      "en_sha256": "8e24fe9645356d0e9a5858058edc15414eb5b220b29ccdc9f4feb5a2dfab6875",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=1].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Nakłada w następnej turze 1 [Binding]</style>",
+      "kr_sha256": "62f7203021268a2533cc97e17ab0df8823cf67a658db3c7489a8e8893cacfc36",
+      "en_sha256": "f585954289a4a34d6042a263ca11db527acb95fe28657daa2056adccda75c376",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "c81c94a6ccc49d2a1fbcb35ba8eeccaea9c5ebb40b12f690eb929218f26a2f04",
+      "en_sha256": "c2a1ce5d5e1ba84011f29d81d747ec76ce9150a2c38a9b987c5fc14ecd2c8170",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[CriticalOnSucceedAttack] zadaje +30% obrażeń ostatnią Monetą (1 raz na Umiejętność)</style>",
+      "kr_sha256": "db80894650aa3a26247c5dfd2da46de80505646bb2cabf68fcf102aac9287c68",
+      "en_sha256": "04428e64d12c9e8c64f923a8be8ed1f97a42a7fbb3f951e832ea37e9adf0b003",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "Zadaje +30% obrażeń przy trafieniu krytycznym<style=\"highlight\"></style>",
+      "kr_sha256": "e00bb541ab69c1a653026eaee0ca7c4f2808103e1f50587b469f5098988e3280",
+      "en_sha256": "b587012374da9fb22ecb1a746d8da4c6db9685fbfb4d66cf69009b767599c8cf",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnStartCoin] zadaje +1% obrażeń za każde 10 (Siła [Combustion] + Siła [Laceration]) na wszystkich celach (maks. 30%)</style>",
+      "kr_sha256": "643ce327052698a7c1167f885012d1943fc4e8a43c63ed7c3c1c08370c7926de",
+      "en_sha256": "ca765c178eeeac6752584605dd2506d6aac25cf20a6a9d3515244ec4db286e34",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[OnStartCoin] +1 do Mocy Końcowej za każde 10 (Licznik [Combustion] + Licznik [Laceration]) na wszystkich celach (maks. 3)</style>",
+      "kr_sha256": "f1a19dac1984b69191db30a65910632bd7a80449181310e9c0ef7f4f800cb7ab",
+      "en_sha256": "53356cf1ce4910d218c4eac617375983dc603041678e90ae4310733cf693ebe8",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnStartCoin] zużywa wszystkie [RyoshuEGOPF] i zadaje +1% obrażeń za każde 5 zużytych [RyoshuEGOPF] (maks. 100%)\n<style=\"highlight\">- przy ataku na tylko 1 cel powyższy modyfikator obrażeń działa z wartością x 1,5 (w walkach skupionych Rdzeń z połączonymi Częściami liczą się jako 1 cel)</style>",
+      "kr_sha256": "a4c2463261795e73ad332cda7d570298d8303b7c820d3c7591b0e2e31f6a566e",
+      "en_sha256": "36910daabcdbf1826f5a6294549d47e7bd2b0b649cd385ce44ba16f9c4dd1d81",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].coinlist[#2].coindescs[#4].summary": {
+      "pl": "[OnStartCoin] zadaje więcej obrażeń w zależności od [RyoshuEGOPF]",
+      "kr_sha256": "5c2675c8d9476093e220bdf7eee003e1e2084e7cb091b90d0241f1e0be688d89",
+      "en_sha256": "c21204632f63fa7e577f4843e3fc02b3e117a50a553667bc2ebdd3ac6fe985f6",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zużywa do 20 nadwyżkowych [Breath] ponad 20 własnego [Breath], odzyskując za każde zużyte [Breath] 1% Maks. HP (min. 1 HP) i zadając +1% obrażeń tą Umiejętnością\n[BeforeAttack] zyskuje +3 Licznika [Breath]\n[BeforeAttack] przy 999 [RyoshuEGOPF] Moc Bazowa <style=\"highlight\">+2</style>\n[BeforeAttack] -3 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -9)\n\n[EndSkill] zyskuje <style=\"highlight\">20</style> [RyoshuEGOPF]",
+      "kr_sha256": "3d830964dc7f8bb670a42548073b6aa0fa824809007efc4819ceac273656ceba",
+      "en_sha256": "75df29a1143790b830dc1eafc225ad5c224ac4318bc0e1019897536a6280d41b",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=3].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 [Binding]<style=\"highlight\"></style>",
+      "kr_sha256": "9ba8d7ccfcbc660b65e79517517a499148747e2f629992cc33b9de9e3ebe797f",
+      "en_sha256": "ea9c018addf06940200d40a9a9f7c78bb568cd40536e849b1ef1b967060b9b04",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "c81c94a6ccc49d2a1fbcb35ba8eeccaea9c5ebb40b12f690eb929218f26a2f04",
+      "en_sha256": "c2a1ce5d5e1ba84011f29d81d747ec76ce9150a2c38a9b987c5fc14ecd2c8170",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] zadaje <style=\"highlight\">+50%</style> obrażeń ostatnią Monetą (1 raz na Umiejętność)",
+      "kr_sha256": "e0ba5915112b54285f3ea046269ff378c67d658e39ad21a7038268c565f94ecd",
+      "en_sha256": "bc90552281466616244cc90ae5004e3cb0f7208bc39a162205247a0e3208dd22",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "Zadaje +30% obrażeń przy trafieniu krytycznym<style=\"highlight\"></style>",
+      "kr_sha256": "e00bb541ab69c1a653026eaee0ca7c4f2808103e1f50587b469f5098988e3280",
+      "en_sha256": "b587012374da9fb22ecb1a746d8da4c6db9685fbfb4d66cf69009b767599c8cf",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnStartCoin] zadaje +1% obrażeń za każde 10 (Siła [Combustion] + Siła [Laceration]) na wszystkich celach <style=\"highlight\">(maks. 50%)</style>",
+      "kr_sha256": "a065d543dda070a4cb1a0bda26d5b99974f3be787707d5437eb4fcc37868741b",
+      "en_sha256": "a70e598361badc5f3074dd25e34aee512566cd0cb814bd32b2d5146ffe441c51",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnStartCoin] +1 do Mocy Końcowej za każde 10 (Licznik [Combustion] + Licznik [Laceration]) na wszystkich celach <style=\"highlight\">(maks. 5)</style>",
+      "kr_sha256": "24ad7baf741d1d35ac97d4688c0f5929939d9c10d422631ef6f2e3cc3de1f9e1",
+      "en_sha256": "dc3be8398e724312e4a0204ac0aacbc3dc2447c1ffbdee0ab248569fff86439d",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnStartCoin] zużywa wszystkie [RyoshuEGOPF] i zadaje <style=\"highlight\">+1,25% (maks. 248%)</style> obrażeń za każde 5 zużytych [RyoshuEGOPF]\n- przy ataku na tylko 1 cel powyższy modyfikator obrażeń działa z wartością <style=\"highlight\">x 2</style> (w walkach skupionych rozpatrywane na podstawie Rdzenia)",
+      "kr_sha256": "a698b34d61713f2542c4ad18480007aa91c75b9689c14928fbd79e533d843d59",
+      "en_sha256": "4af1704ddbf86124ccc2cb81f8bd1a600de7c889ee333adc3bee3cc0c8883b81",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].coinlist[#2].coindescs[#4].summary": {
+      "pl": "[OnStartCoin] zadaje więcej obrażeń w zależności od [RyoshuEGOPF]",
+      "kr_sha256": "5c2675c8d9476093e220bdf7eee003e1e2084e7cb091b90d0241f1e0be688d89",
+      "en_sha256": "c21204632f63fa7e577f4843e3fc02b3e117a50a553667bc2ebdd3ac6fe985f6",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zużywa do 20 nadwyżkowych [Breath] ponad 20 własnego [Breath], odzyskując za każde zużyte [Breath] 1% Maks. HP (min. 1 HP) i zadając +1% obrażeń tą Umiejętnością\n[BeforeAttack] zyskuje <style=\"highlight\">+5</style> Licznika [Breath]\n[BeforeAttack] przy 999 [RyoshuEGOPF] Moc Bazowa <style=\"highlight\">+3</style>\n[BeforeAttack] -3 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -9)\n\n[EndSkill] zyskuje <style=\"highlight\">33</style> [RyoshuEGOPF]",
+      "kr_sha256": "22e6a4539ca034149b0c28e08c2fd50dc9aacf7514df906935f78d3139b54363",
+      "en_sha256": "7b367715c48df09315a089cffaf2fdf52624b31f9b6db8eef7afcc902d493f6a",
+      "origin": "ai"
+    },
+    "dataList[id=2040921].levelList[level=4].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    }
+  }
+}

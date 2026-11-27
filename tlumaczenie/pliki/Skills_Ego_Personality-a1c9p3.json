@@ -53,6 +53,72 @@
       "kr_sha256": "a95de870d52ab519904c84158ea2d08c2f92f07c33ded67942a438566370da31",
       "en_sha256": "3e71445c66939a1ec8606e14cb4125744def27f3238ffe8267fea0ccd20d191c",
       "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].abName": {
+      "pl": "Meursault",
+      "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
+      "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
+      "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Binding] następnej tury",
+      "kr_sha256": "dcbff974ef6f4db92fa14a7b8dc9d975712d9cdf5bffc9cce56819b7c4a1cfa8",
+      "en_sha256": "146688406500310f9963b7621240fa2e543a722bfce865c1f1e52975c7c128d0",
+      "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 3 [Binding] następnej tury",
+      "kr_sha256": "5a111d33ee7f1a510dcbb0ea5bd3df94144b3b22fe7f59e67ed30d6c9e148c57",
+      "en_sha256": "d7358e8f121ac9b8b76b46b4698f18238018c1d9baed6eb068e21ebf4d37aa4f",
+      "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Reduction] następnej tury",
+      "kr_sha256": "993e3cd3bde48b25454a4e9eb0e3be53f3dac5e8ee2cc546934f5c3cc5f3b7f3",
+      "en_sha256": "c52fac6339b11dc0d012b5b701d0565f7668fe26affe035d2944e6eedb2f30a0",
+      "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Reduction] następnej tury",
+      "kr_sha256": "b1df129402081a9c2f0ea9a8a10c8a80fcfa5b8136455cd5b0a4bea4bbba29bc",
+      "en_sha256": "71e803fe77cad65227a2592c9e0509c5a2acc6e2888d8d9e63b760cb1e0780c2",
+      "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 2 [Protection] następnej tury",
+      "kr_sha256": "3ad1aeb349ae6da24c23bc145e6f0629590ddfce3e71fe4aa062f98348b3092e",
+      "en_sha256": "3e99948525d35fb27df6c8d6f0f4c622f90039c7fa69224942591c2efd984915",
+      "origin": "ai"
+    },
+    "dataList[id=2050112].levelList[level=4].name": {
+      "pl": "Łańcuchy Innych",
+      "kr_sha256": "aad0b119807cc0d93e8881eb60d65b5dd8da5fc357900ccb2e3f677afeadbac5",
+      "en_sha256": "31b13ec4a416103a382326997f0decf05ae76a8a419fa1cda99a59a8111bd6f7",
+      "origin": "ai"
+    },
+    "dataList[id=2060112].levelList[level=4].abName": {
+      "pl": "Hong Lu",
+      "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
+      "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
+      "origin": "ai"
+    },
+    "dataList[id=2060112].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=2060112].levelList[level=4].desc": {
+      "pl": "[EndSkill] odzyskuje 15 SP dla tej jednostki i wszystkich sojuszników\n[EndSkill] usuwa Podpalenie od tej jednostki i wszystkich sojuszników",
+      "kr_sha256": "132c390c91180811cf9a8b9639be0694aa0ab1544f0b765a675666a6f33b6f18",
+      "en_sha256": "8a91deec245aafbcd69d765a94772fed2619486b3eb788964c4f34e87252de68",
+      "origin": "ai"
+    },
+    "dataList[id=2060112].levelList[level=4].name": {
+      "pl": "Kraina Złudzeń",
+      "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
+      "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
+      "origin": "ai"
     }
   }
 }

@@ -23,6 +23,30 @@
       "kr_sha256": "a95de870d52ab519904c84158ea2d08c2f92f07c33ded67942a438566370da31",
       "en_sha256": "3e71445c66939a1ec8606e14cb4125744def27f3238ffe8267fea0ccd20d191c",
       "origin": "ai"
+    },
+    "dataList[id=205011].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Meursaulta do sekwencji kinowych",
+      "kr_sha256": "fbdc90ae836854bafe8eb37f918039dbf2e84d8a238d4d44aa83984f38b7e3ea",
+      "en_sha256": "96a308cce23ae06acaff375b9517150ca2347f773803076b0cda8f06499c98bd",
+      "origin": "ai"
+    },
+    "dataList[id=205011].name": {
+      "pl": "Łańcuchy Innych",
+      "kr_sha256": "aad0b119807cc0d93e8881eb60d65b5dd8da5fc357900ccb2e3f677afeadbac5",
+      "en_sha256": "31b13ec4a416103a382326997f0decf05ae76a8a419fa1cda99a59a8111bd6f7",
+      "origin": "ai"
+    },
+    "dataList[id=206011].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Hong Lu do sekwencji kinowych",
+      "kr_sha256": "913781fa5f38c50ca63a9cdf659a3076d5b2369eae73756e7eeed19573d88dc9",
+      "en_sha256": "ac443896bb4d4a7fc81863cab844d08c28bde677a8c65887ac44201b067da965",
+      "origin": "ai"
+    },
+    "dataList[id=206011].name": {
+      "pl": "Kraina Złudzeń",
+      "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
+      "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
+      "origin": "ai"
     }
   }
 }
