@@ -119,6 +119,36 @@
       "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
       "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
       "origin": "ai"
+    },
+    "dataList[id=2110112].levelList[level=4].abName": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=2110112].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Burst]",
+      "kr_sha256": "5aa7402f26c3d0ee14a6ed8f34541115abcff47bb62e1b8368aeb3b99f18f7ee",
+      "en_sha256": "8b1367ff62f67bd7be5e8cd4f61c8bc80eb6eaa0f84657c2a3285e3d246b0041",
+      "origin": "ai"
+    },
+    "dataList[id=2110112].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] nakłada 1 [AttackDmgUp] na losowego sojusznika",
+      "kr_sha256": "d93940457adf6e77ade02837fd75c087ac57b7cd87036c1b07900a85e2b212f5",
+      "en_sha256": "7ac7aa547f15650fe1a8e3db7a8e7404047909c9bd32aec7d0ad2b64333f835a",
+      "origin": "ai"
+    },
+    "dataList[id=2110112].levelList[level=4].desc": {
+      "pl": "jeżeli HP celu jest niższe niż 50%, zadaje +30% obrażeń",
+      "kr_sha256": "f8f79a8f157af77a0c14312ec314d6bfc1d94ce70e17b63267a80a92824d71c3",
+      "en_sha256": "436555f2d223d12069af3c566eaceabd1c7c514438c437a480ba38ba8017f9f1",
+      "origin": "ai"
+    },
+    "dataList[id=2110112].levelList[level=4].name": {
+      "pl": "To Páthos Máthos",
+      "kr_sha256": "6fe1e82d46a5537c03e657a1b1b8d534b963dac85d944072d2a40b9c16c78d7d",
+      "en_sha256": "c982e79e2132288d53527ed31a4822f0a46639fefaa466fc6b23abe3a8b27d32",
+      "origin": "ai"
     }
   }
 }

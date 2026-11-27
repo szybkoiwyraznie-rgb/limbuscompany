@@ -1043,6 +1043,366 @@
       "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
       "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
       "origin": "ai"
+    },
+    "dataList[id=20909].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20909].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=20910].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Rodion",
+      "kr_sha256": "347b9f4fd2f5c5be50c12f86fac2c5e97355967f7d1fee65ff69eeb101a2ea93",
+      "en_sha256": "4fbe1367977b96257648c77c9df3fec9443d59a10c02bfee57028be320379537",
+      "origin": "ai"
+    },
+    "dataList[id=20910].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
+      "origin": "ai"
+    },
+    "dataList[id=21001].desc": {
+      "pl": "Podstawowy Sprzęt E.G.O Sinclair",
+      "kr_sha256": "c062a2feee2476b624e8dc95083d62edbcca9c58d9a206ca9c9084325a20442e",
+      "en_sha256": "ad02df2646b65b2abd7df9dfd3a050d01c2d326b9c010b9d869f7c4a764544be",
+      "origin": "ai"
+    },
+    "dataList[id=21001].name": {
+      "pl": "Gałąź Wiedzy",
+      "kr_sha256": "95471a296f42a340a14f9ef8c52a1b63311f37affb96ab5effa442d0a97c0be6",
+      "en_sha256": "97bba37f3974f9f8872f49593fed2d89f5739e1dc5294b1248ceefc9518374f9",
+      "origin": "ai"
+    },
+    "dataList[id=21002].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21002].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=21003].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21003].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=21004].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21004].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=21005].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21005].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=21006].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21006].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=21007].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21007].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=21008].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "a49afe7eca70a50fd2486e6a39c8cf26888753c0c177aa0fc0ecfb927dd78361",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21008].name": {
+      "pl": "Łzy Splamionej Krwi [汚血泣淚]",
+      "kr_sha256": "3a4fe1937b4134e8612f8312c966eadef0da4346b05129578345c81a0e81a7fd",
+      "en_sha256": "13da2e92227def2f007f39b0ab4996365c1b666615e8a997fc59a02e0fc06062",
+      "origin": "ai"
+    },
+    "dataList[id=21009].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Sinclair",
+      "kr_sha256": "b4f04d779a2003c63680052e20f176ab86169178fa242827a5730c099a28d408",
+      "en_sha256": "9f6a8d7d1c87724e9d77cf1a8a5a0c27a26cc1c668aa0a36abe484571d02639e",
+      "origin": "ai"
+    },
+    "dataList[id=21009].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    },
+    "dataList[id=21101].desc": {
+      "pl": "Podstawowy Sprzęt E.G.O Outis",
+      "kr_sha256": "8c0e6d75b816684fd878648c93c34648b584ccdc43825cd4eb93614c4d9f3b6a",
+      "en_sha256": "89010f337c1756fa79d30c5cd1daedbf2f8c5275fddbb57da4a7222be7cd3a31",
+      "origin": "ai"
+    },
+    "dataList[id=21101].name": {
+      "pl": "To Páthos Máthos",
+      "kr_sha256": "6fe1e82d46a5537c03e657a1b1b8d534b963dac85d944072d2a40b9c16c78d7d",
+      "en_sha256": "c982e79e2132288d53527ed31a4822f0a46639fefaa466fc6b23abe3a8b27d32",
+      "origin": "ai"
+    },
+    "dataList[id=21102].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21102].name": {
+      "pl": "Hebanowa Łodyga",
+      "kr_sha256": "543e0bbab4e2f7320ad9b5c2fceb29e40033e8871d2b6aaa69417005a189f723",
+      "en_sha256": "aaf0d2c97095481e399a88f1b50b70bfbf859c0e722ae4529eac6303b1e41960",
+      "origin": "ai"
+    },
+    "dataList[id=21103].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21103].name": {
+      "pl": "Ya Śūnyatā Tad Rūpam",
+      "kr_sha256": "6b6d0eadff75aa51eda6b883fb6991e7db24e7c32d72cc36036c3b27df6cce7d",
+      "en_sha256": "909fe21eae661b5fb0b7cdfd302a92f55eca89333ad70a41167c99689ba16f0d",
+      "origin": "ai"
+    },
+    "dataList[id=21104].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21104].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=21105].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21105].name": {
+      "pl": "Holiday",
+      "kr_sha256": "84dfbb22c160a7a4737719881b6124380ea73973c77955932036a7366e05f082",
+      "en_sha256": "992b3299061eb2b2e226baccfbb2ba6c122d1e0a85c66a1b9aee3bac5f9c76b3",
+      "origin": "ai"
+    },
+    "dataList[id=21106].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21106].name": {
+      "pl": "Niewola",
+      "kr_sha256": "ead4f51bf6fba539c703b3d6870f8ac2fd986aabf1c77e4e292a75aa3524f9d3",
+      "en_sha256": "f61993f45462313356a2bc51f7c65cc036652c81698b897a6fba6b3ddf047464",
+      "origin": "ai"
+    },
+    "dataList[id=21107].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21107].name": {
+      "pl": "Rozdzieracz Wymiarów",
+      "kr_sha256": "a00221212f41dc77d0673f8d71798e730fb8f039c42b9a0ac9d449c52f2e2f4c",
+      "en_sha256": "fef76c84108a8991a8eff678aa4c88252194663801c0ba5a263d9ae5a0048df6",
+      "origin": "ai"
+    },
+    "dataList[id=21108].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "54f86172b8018a6bcdc11d1088026e3767db8f3bae729a1040f5277ea483434e",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21108].name": {
+      "pl": "Magiczna Amunicja",
+      "kr_sha256": "d492fcd9372842e8bc6756d99e6fad423624be4b4afa59eebde101b25dcd77f0",
+      "en_sha256": "b92fae600ceaf3cccaeb5e4e8db25dbed443f2ebf14684e4195cab3b23822ad0",
+      "origin": "ai"
+    },
+    "dataList[id=21109].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis",
+      "kr_sha256": "9ae001f47a08cfb08e3c39589236a41306a773db6449d54689fea2b969148e6a",
+      "en_sha256": "ed0435e28f8373f0c9e925cc81566691cced11a080e9e54e651d3b9ebd91067d",
+      "origin": "ai"
+    },
+    "dataList[id=21109].name": {
+      "pl": "Ja Graję Nożyczki. A Ty?",
+      "kr_sha256": "8701c9ba41bc14b5b3c96827d95da940bd231386314a9479cd27aa46bd010cd7",
+      "en_sha256": "5720c328ea58799cae76ef1f70a8b93bc9c71b18baf403ece9f86f08abdbf81c",
+      "origin": "ai"
+    },
+    "dataList[id=21201].desc": {
+      "pl": "Podstawowy Sprzęt E.G.O Gregor",
+      "kr_sha256": "ada95b463abea2a05e3f19bafd569ee4cea75f7949552d65dc48c7663dc77d8d",
+      "en_sha256": "80224d412edf90edd49fe329d840e5d3f73286a820141a32928737a9f1bea51b",
+      "origin": "ai"
+    },
+    "dataList[id=21201].name": {
+      "pl": "Nagle, Pewnego Dnia",
+      "kr_sha256": "c303f2dce694030c8e7ed51c9fef392475b94e113267c25cd6831134a5beb23f",
+      "en_sha256": "49a6181cc6c3df5f43e79f34d275e711c26de6b2e64a45da30bff0a84de87617",
+      "origin": "ai"
+    },
+    "dataList[id=21202].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21202].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=21203].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21203].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=21204].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21204].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=21205].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21205].name": {
+      "pl": "Ogród Cierni",
+      "kr_sha256": "59cbec2b4462ca39b054e6aa20464b4e191d4f6d9528235e56c8694626f8e115",
+      "en_sha256": "6ab58c3250af15280bdc7bfe04d427c10b813a15c6a5f8ae653649ecb670c376",
+      "origin": "ai"
+    },
+    "dataList[id=21206].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21206].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=21207].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21207].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    },
+    "dataList[id=21208].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "b8917fc3970a5c209e4bc28ef24ea722ca1566ca1d8030fc64369dc97ff06310",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21208].name": {
+      "pl": "Bożonarodzeniowy Koszmar",
+      "kr_sha256": "a080d78f90d693f3caef1da88191e3eed795d0729a30abd0320cb765b40ca15b",
+      "en_sha256": "c494e2f4d7199339e4f2c703634c190e6a7780e1862bb67ef018042f43ebe68b",
+      "origin": "ai"
+    },
+    "dataList[id=21209].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "cc1a3ac3afab712d3c8ffe1a993ab1b6af48a99769e0449afe1372fceddd63ba",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21209].name": {
+      "pl": "Nieoślepiająca Chwała",
+      "kr_sha256": "38329c2f03ec0af9cf97b46ed7349a95073cfc8b4c7ab7b79d96c5f182d77ea8",
+      "en_sha256": "9e54c1f6a43e77d7096fda744225c2e74d8f43d9c091419e1bfe49cd3ca78d00",
+      "origin": "ai"
+    },
+    "dataList[id=21210].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Gregor",
+      "kr_sha256": "cc1a3ac3afab712d3c8ffe1a993ab1b6af48a99769e0449afe1372fceddd63ba",
+      "en_sha256": "1c0a9869b4e0a40acc252e24143bcf59f69d94ce6f69b936faffdd8044236370",
+      "origin": "ai"
+    },
+    "dataList[id=21210].name": {
+      "pl": "Zgłoszenie Zamieszkowania",
+      "kr_sha256": "c837c700daa3cd078f83078d99773a6d118b7a471e7c9f45f13134e9ba0be31c",
+      "en_sha256": "3a25057985697a76f357ab7690a25cefc44eaf68bb4fd6cf992e776ea09c9b92",
+      "origin": "ai"
     }
   }
 }

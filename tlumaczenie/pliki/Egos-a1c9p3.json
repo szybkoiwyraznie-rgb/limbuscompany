@@ -47,6 +47,18 @@
       "kr_sha256": "f3d26bc91c2e07fe276916b598cc1985abc5dbbabb0b79641e80f8aea663597d",
       "en_sha256": "ef039921e1804bc34024dd2a1097a06567207f3cb2c8790554175644e5b5b7a0",
       "origin": "ai"
+    },
+    "dataList[id=211011].desc": {
+      "pl": "Wyłączny Sprzęt E.G.O Outis ze Scenką Walki",
+      "kr_sha256": "04f81097f15d1a80c9a6f77480a3467e528f73e8d8251f81ce2ddd8c50d9639b",
+      "en_sha256": "81e3bf2bc69926f33c4143ad8580484d5a5d58222223277815b0eb53c4b913fa",
+      "origin": "ai"
+    },
+    "dataList[id=211011].name": {
+      "pl": "To Páthos Máthos",
+      "kr_sha256": "6fe1e82d46a5537c03e657a1b1b8d534b963dac85d944072d2a40b9c16c78d7d",
+      "en_sha256": "c982e79e2132288d53527ed31a4822f0a46639fefaa466fc6b23abe3a8b27d32",
+      "origin": "ai"
     }
   }
 }

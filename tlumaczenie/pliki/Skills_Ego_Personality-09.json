@@ -1026,6 +1026,12 @@
       "en_sha256": "9d2b66d8bb98ba4b1867a9dcc50b216653ae3a1200730b6f9fee5925f69c4a28",
       "origin": "ai"
     },
+    "dataList[id=2090821].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[EnemyKill] nakłada 1 [CrimsonResultUp] i 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) sojuszników z najniższym aktualnym procentem HP (maks. <style=\"highlight\">5</style> sojuszników, 1 raz na Umiejętność)",
+      "kr_sha256": "9f7f7cbaaed9215062b3bfe7497f926c4acfb1db15522d2476351ea21fc63e0d",
+      "en_sha256": "37d3d58997abf43757f2ee88680cce25aee3e2477f563b143a70e79f339a3acf",
+      "origin": "ai"
+    },
     "dataList[id=2090821].levelList[level=3].desc": {
       "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (najwyższy Rezonans / 2) Wagi Ataku (maks. 3, zaokrąglone w dół)",
       "kr_sha256": "ec3d84425f360dd25542c1ca8cca0dba90645312a3d130347fc605d290d74936",
@@ -1050,10 +1056,40 @@
       "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
       "origin": "ai"
     },
+    "dataList[id=2090821].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada <style=\"highlight\">10</style> [Combustion]",
+      "kr_sha256": "391568dc3601686cc4adfc78217f10fa1521992129f79616b971469ee26b3709",
+      "en_sha256": "b32608fde4b9fe9805b905c36a82d1eb8c1bc30a9e0edb11309e13f93a1a376f",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] nakłada +1 Licznika [Combustion]</style>",
+      "kr_sha256": "18d3815141e48a994c24508a9e85da5246f04b480fb848a1d038a050b4da8c5e",
+      "en_sha256": "4b7dade30209e57b53b6745711762651044f0c1a0033df787673d3954eef24e3",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] jeżeli celem jest cel główny, nakłada (1 + Rezonans Gniewu) [BirdCage] (maks. <style=\"highlight\">5</style>)",
+      "kr_sha256": "932d72ad634659645179cd142e86cebd5a58a0b96e45a98ab4b2baef46d3787a",
+      "en_sha256": "71395cdcbbb543215f97bb64543715212918065f3890cad73d462888884a271d",
+      "origin": "ai"
+    },
     "dataList[id=2090821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
       "pl": "[SuperCoin]",
       "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
       "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "zadaje +<style=\"highlight\">2</style>% obrażeń głównemu celowi za każde 1 Siły [Combustion] głównego celu (maks. <style=\"highlight\">100</style>%)",
+      "kr_sha256": "44302394ff11cabd862383e159a0a88a0a68480d50f1cc0bcc1f85cdd1b1e542",
+      "en_sha256": "c52e088bf786154bed06671a131c8e86752c9b0f3a13fba6b29f2aa8772a16be",
+      "origin": "ai"
+    },
+    "dataList[id=2090821].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[EnemyKill] nakłada 1 [CrimsonResultUp] i 1 [CrimsonDamageUp] na (1 + najwyższy Rezonans) sojuszników z najniższym aktualnym procentem HP (maks. <style=\"highlight\">6</style> sojuszników, 1 raz na Umiejętność)",
+      "kr_sha256": "6f44e70bc8433182707e1bfb3bf13ccb216eee9f8bd2492a1c7ddf9a87cba01a",
+      "en_sha256": "0c3335f68d327f80998f87516f4a1ac0a278854a73180b8a5680354fe17684ec",
       "origin": "ai"
     },
     "dataList[id=2090821].levelList[level=4].desc": {
@@ -1066,6 +1102,672 @@
       "pl": "Proces Wyznaczonego",
       "kr_sha256": "e1b5f942f5189db21b6f1a7a651d8dca08285d40196b5ef5dc9c0412050d1927",
       "en_sha256": "110d0e7264514ccfac684847c1a776999a5172464a576ce2a171f0720a7e0b81",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=1].abName": {
+      "pl": "Wędrowiec Zmierzchu",
+      "kr_sha256": "3912e81aae5ff7c9a2cc647413a1d3e3c92ec12de7832d27361ea74645f380e9",
+      "en_sha256": "a1f547bb37a3736b87be592521bb62ae0eea4390f137893a3bde90e18e3878ee",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=1].desc": {
+      "pl": "[EndSkill] leczy 2 sojuszników z najniższym aktualnym procentem HP o 5% Maks. HP i nakłada 2 [ScarletMothRodion] na tych sojuszników (minimalna ilość leczonego HP: 1)\n- liczba leczonych sojuszników rośnie o (Rezonans Żądzy - 1) (maks. 2 sojuszników)",
+      "kr_sha256": "5ada3f15ea4e0e7121fc39975c90d82fbc74844c7c8be9ac7983642ff851bcb0",
+      "en_sha256": "ac48722a4c6b7c25272b9497864b238d1daada6c0d7cfc031efe30ce0bbde4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=1].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=3].abName": {
+      "pl": "Wędrowiec Zmierzchu",
+      "kr_sha256": "3912e81aae5ff7c9a2cc647413a1d3e3c92ec12de7832d27361ea74645f380e9",
+      "en_sha256": "a1f547bb37a3736b87be592521bb62ae0eea4390f137893a3bde90e18e3878ee",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Combustion]",
+      "kr_sha256": "9fca55b3f4c75eca42f7748df59002760509da0547c06631b66f860422b5a8b3",
+      "en_sha256": "307edd036adceaa9ed9cf4bb2637847025de2c1a8f3ca02914b66bb7f51665a8",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Laceration]",
+      "kr_sha256": "55e167b1aa86910dfb1bc2b26840fe60bafe420e09abc5c9e27c688a0c867206",
+      "en_sha256": "6564451dd5b061652c4d5c0bfcaf7f42b15f3575afd361c76abc8c419fbfd8ea",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">[WhenUse] Moc Walce +1 za każde 6 (suma [Combustion] i [Laceration]) na wszystkich celach (maks. 2)</style>\n[EndSkill] leczy 2 sojuszników z najniższym aktualnym procentem HP o <style=\"highlight\">8%</style> Maks. HP i nakłada 2 [ScarletMothRodion] na tych sojuszników (minimalna ilość leczonego HP: 1)\n- liczba leczonych sojuszników rośnie o (Rezonans Żądzy - 1) (maks. 2 sojuszników)\n<style=\"highlight\">- jeżeli leczony sojusznik ma wyposażoną Umiejętność Żądzy, dodatkowo odzyskuje 3 SP</style>",
+      "kr_sha256": "c47eea8b8ea0976efff142bca4f58ce0c80faa828f2910505e742dedec8315fa",
+      "en_sha256": "ef580f009f08a538d7f0015461deb1217a88a144afcc91395708812308026ebd",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=3].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=4].abName": {
+      "pl": "Wędrowiec Zmierzchu",
+      "kr_sha256": "3912e81aae5ff7c9a2cc647413a1d3e3c92ec12de7832d27361ea74645f380e9",
+      "en_sha256": "a1f547bb37a3736b87be592521bb62ae0eea4390f137893a3bde90e18e3878ee",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "3f943e98d072bec45608a7d548e96f4081ff93dccbba7e920c34dc461f8b9fac",
+      "en_sha256": "9e9b333d3b941937f22a22690d37eddfabb9443bd64d3d36be45ecc49e9390fa",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "50090800d4a694c54b08a0d0099bbe157859330b3ca25b7044c0fb80520e9c2e",
+      "en_sha256": "610794ef1d23750cbc290ceeaa8b7dc97f2ecc8d74701ad3090fac48194cc141",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[EndCoin] następnej tury nakłada 1 [CrimsonTakeDamageUp] i 1 [ScarletTakeDamageUp] trafionemu celowi</style>",
+      "kr_sha256": "77b201da1185deb1a8288918ce7d4261b4ffa6a99737ffe966aff8aef18f4c3d",
+      "en_sha256": "c9eb10de4cb12dee6546b5f54105c7f6fab2d7ad745e3d872883d970622d7a8d",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=4].desc": {
+      "pl": "[WhenUse] Moc Walce +1 za każde 6 (suma [Combustion] i [Laceration]) na wszystkich celach (maks. 2)\n[EndSkill] leczy 2 sojuszników z najniższym aktualnym procentem HP o <style=\"highlight\">10%</style> Maks. HP i nakłada 2 [ScarletMothRodion] na tych sojuszników (minimalna ilość leczonego HP: 1)\n- liczba leczonych sojuszników rośnie o (Rezonans Żądzy - 1) (maks. 2 sojuszników)\n- jeżeli leczony sojusznik ma wyposażoną Umiejętność Żądzy, dodatkowo odzyskuje <style=\"highlight\">6</style> SP",
+      "kr_sha256": "84d41e54f4d51d5205f04aa1ab92f469c893ae40742866e48c35d0b95af5372b",
+      "en_sha256": "3aa94c57f1fa2ae42c1d365244eb805b2ce7cdd996338e76bd1eca7729d2f97c",
+      "origin": "ai"
+    },
+    "dataList[id=2090911].levelList[level=4].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].abName": {
+      "pl": "Wędrowiec Zmierzchu",
+      "kr_sha256": "3912e81aae5ff7c9a2cc647413a1d3e3c92ec12de7832d27361ea74645f380e9",
+      "en_sha256": "a1f547bb37a3736b87be592521bb62ae0eea4390f137893a3bde90e18e3878ee",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "6aa4c8465441a1da6a142e4682b336de17247c0c05728decfe418cb8983552c5",
+      "en_sha256": "68373c9596cc2897674710317e85d3e251c2e0ae26159169bab7a9aafd3cb483",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[EndCoin] następnej tury nakłada 1 [CrimsonTakeDamageUp] trafionemu celowi (1 raz na turę)",
+      "kr_sha256": "90ec625ac71c1aa91b294998eeac480fd877bc76c183ce2faeae3f06d3f30178",
+      "en_sha256": "e59770a8a20404b7a0fa04cc16b64387df36b102341af5a4c9db681315ef2e82",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Laceration]",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[EndCoin] następnej tury nakłada 1 [ScarletTakeDamageUp] trafionemu celowi (1 raz na turę)",
+      "kr_sha256": "08296644676a83bc3f1935821ffb3a8a150869cd179130f07dfe9375ddca6d56",
+      "en_sha256": "adcd78e575b944bb1bcbe1a39280b8db656b417fcc5b68348d2c0dd0d38e1ee8",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zadaje +5% obrażeń za każde 4 (suma [Combustion] i [Laceration]) na wszystkich celach (maks. 15%)\n[BeforeAttack] Moc Bazowa -6 za każdą zniszczoną Monetę (maks. -12)\n[EndSkill] rozdziela 3 razy po 1 [ScarletMothRodion] między losowych sojuszników",
+      "kr_sha256": "ac442de5df4b1f838527327cc1a9dd3490e65eb3bc14c52420ea22d2282555ba",
+      "en_sha256": "dab4fb596663ff32b879236ec9c02b8d4172b9f05dba3ad977f97dbed6d0a300",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=1].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].abName": {
+      "pl": "Wędrowiec Zmierzchu",
+      "kr_sha256": "3912e81aae5ff7c9a2cc647413a1d3e3c92ec12de7832d27361ea74645f380e9",
+      "en_sha256": "a1f547bb37a3736b87be592521bb62ae0eea4390f137893a3bde90e18e3878ee",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Combustion]",
+      "kr_sha256": "2ded9a981374ef75f098d42e5a47ce468c76d02842ce287871c06a5b0e83b251",
+      "en_sha256": "93c452f397a64277ed2885186e856e2310c547138706b32097ab09a13716bdff",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "6aa4c8465441a1da6a142e4682b336de17247c0c05728decfe418cb8983552c5",
+      "en_sha256": "68373c9596cc2897674710317e85d3e251c2e0ae26159169bab7a9aafd3cb483",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[EndCoin] następnej tury nakłada 1 [CrimsonTakeDamageUp] trafionemu celowi (1 raz na turę)",
+      "kr_sha256": "90ec625ac71c1aa91b294998eeac480fd877bc76c183ce2faeae3f06d3f30178",
+      "en_sha256": "e59770a8a20404b7a0fa04cc16b64387df36b102341af5a4c9db681315ef2e82",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Laceration]",
+      "kr_sha256": "0b9259e732dde29e8c03f41c52f9b29bace9683b5f9b2db9fa675cc7739c3779",
+      "en_sha256": "b9acdc4a3bbc1b57214078e4ebda604bf549fe23aff881619e2968d53feb23e0",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Laceration]",
+      "kr_sha256": "b204b8da0a1e39d33e047e709b130778052fb30c79e33af882d0d3ba7fdc895c",
+      "en_sha256": "4e6210a6e93bdca6ebf45c81a4434362ab1ec33090580e3ab742eb37ca3aaff8",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[EndCoin] następnej tury nakłada 1 [ScarletTakeDamageUp] trafionemu celowi (1 raz na turę)",
+      "kr_sha256": "08296644676a83bc3f1935821ffb3a8a150869cd179130f07dfe9375ddca6d56",
+      "en_sha256": "adcd78e575b944bb1bcbe1a39280b8db656b417fcc5b68348d2c0dd0d38e1ee8",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zadaje +5% obrażeń za każde 4 (suma [Combustion] i [Laceration]) na wszystkich celach (maks. 15%)\n<style=\"highlight\">- przy Rezonansie Absolutnym Gniewu lub Rezonansie Absolutnym Żądzy dodatkowo zadaje +10% obrażeń</style>\n[BeforeAttack] Moc Bazowa -6 za każdą zniszczoną Monetę (maks. -12)\n[EndSkill] rozdziela 1 [ScarletMothRodion] <style=\"highlight\">4 razy</style> między losowych sojuszników",
+      "kr_sha256": "da326f49d5a60a63d36419b4118495277f0559309ecb48e9260a7b1b202eb3f2",
+      "en_sha256": "bdbdaae256bd2a391d65e482b6d65ccbe70dc978e0924e00d66d3219cdf16df5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=3].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].abName": {
+      "pl": "Wędrowiec Zmierzchu",
+      "kr_sha256": "3912e81aae5ff7c9a2cc647413a1d3e3c92ec12de7832d27361ea74645f380e9",
+      "en_sha256": "a1f547bb37a3736b87be592521bb62ae0eea4390f137893a3bde90e18e3878ee",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Combustion] celu o <style=\"highlight\">2</style>",
+      "kr_sha256": "196833149a42101ff6780b8222f56fc151fecf6490fe124933f4fab94c10f36e",
+      "en_sha256": "de16df102a8d18a3cd25d612a84f7b2c1526474c6e486348dab1862c6bd1a94e",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[EndCoin] następnej tury nakłada 1 [CrimsonTakeDamageUp] trafionemu celowi (1 raz na turę)",
+      "kr_sha256": "90ec625ac71c1aa91b294998eeac480fd877bc76c183ce2faeae3f06d3f30178",
+      "en_sha256": "e59770a8a20404b7a0fa04cc16b64387df36b102341af5a4c9db681315ef2e82",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "c81c94a6ccc49d2a1fbcb35ba8eeccaea9c5ebb40b12f690eb929218f26a2f04",
+      "en_sha256": "c2a1ce5d5e1ba84011f29d81d747ec76ce9150a2c38a9b987c5fc14ecd2c8170",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Laceration] celu o <style=\"highlight\">2</style>",
+      "kr_sha256": "514b05a660b58748cb367e0c3f780cb590af345060c572d20748ad2d2b67e277",
+      "en_sha256": "4ff65b52aaedf93ba3fe3297fa140fe6dfb201bc5f8f0fec4a455decf288b876",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[EndCoin] następnej tury nakłada 1 [ScarletTakeDamageUp] trafionemu celowi (1 raz na turę)",
+      "kr_sha256": "08296644676a83bc3f1935821ffb3a8a150869cd179130f07dfe9375ddca6d56",
+      "en_sha256": "adcd78e575b944bb1bcbe1a39280b8db656b417fcc5b68348d2c0dd0d38e1ee8",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zadaje <style=\"highlight\">+10% (maks. 30%)</style> obrażeń za każde 4 (suma [Combustion] i [Laceration]) na wszystkich celach\n- przy Rezonansie Absolutnym Gniewu lub Rezonansie Absolutnym Żądzy dodatkowo zadaje <style=\"highlight\">+20%</style> obrażeń\n[BeforeAttack] Moc Bazowa <style=\"highlight\">-5 (maks. -10)</style> za każdą zniszczoną Monetę\n[EndSkill] rozdziela 1 [ScarletMothRodion] <style=\"highlight\">5 razy</style> między losowych sojuszników",
+      "kr_sha256": "c2d195c615104afc5f74d939928d91de32f0c9938f92a56b343f29065cf79158",
+      "en_sha256": "7d8f0d2d1ff1851df777589f4756d9a97f9feb6ddb4051b77d31e41d79c2cae7",
+      "origin": "ai"
+    },
+    "dataList[id=2090921].levelList[level=4].name": {
+      "pl": "W Zmierzch",
+      "kr_sha256": "341b5f58ed96c87fc6034e8da9582d5ec50617f152f96715a362628c1839d55f",
+      "en_sha256": "fbd2d09b2adc1084a9bef32fda435f97d5158e16d0f124e8132eacbe6745eee4",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].abName": {
+      "pl": "Błądzące Serce",
+      "kr_sha256": "85c0696d405694880e95fc673ea27ab673b4056cb951380aa81bf700f0c3bd04",
+      "en_sha256": "82fe884a985eb7c81c2108315c6dce49d78d667531cd9ceb69f806c97c598a84",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [AttackDown]",
+      "kr_sha256": "e0e34eb9f051b599870b9c9fe1dd8d745baf64f9124ac4230e6b5b67d18b9a0b",
+      "en_sha256": "079fec28236754bb17300b1ed4db91526a7e6c390e4737fb36219cab99e37c16",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].desc": {
+      "pl": "Moc Walki +1 za każde 6 (Siła [Breath] tej jednostki + Siła [Vibration] głównego celu) (maks. 2)\n[BeforeAttack] zyskuje (2 + najwyższy Rezonans) [Breath] (maks. 8)\n[BeforeAttack] zyskuje +2 Licznika [Breath]\n[EndSkill] rozdziela (1 + najwyższy Rezonans) Liczników [EmpathicDistressAlly] między losowych celów ataku, po 1 na raz (maks. 5)",
+      "kr_sha256": "9cda168d8b3a475aa74c4a2c03840116464a336243e1193e619dc02090e9ff99",
+      "en_sha256": "7c9749d26d0018ffc59f6307b490bf5ed1df141d82509aaefcd19cbf7ce60fae",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=1].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].abName": {
+      "pl": "Błądzące Serce",
+      "kr_sha256": "85c0696d405694880e95fc673ea27ab673b4056cb951380aa81bf700f0c3bd04",
+      "en_sha256": "82fe884a985eb7c81c2108315c6dce49d78d667531cd9ceb69f806c97c598a84",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Vibration]",
+      "kr_sha256": "0acb5878e9a4e378a21894d2244a789c98e87f2defab9511246be170c56aed82",
+      "en_sha256": "2a08d3ac74ba1b6736afadd04f637115befb75cfee435da48562f93e89671682",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +<style=\"highlight\">2</style> Licznika [Vibration]",
+      "kr_sha256": "09abf6079df7bb5b49a25d6bc68893aae8c7f40a239f10e71c8c2692f82f7176",
+      "en_sha256": "a933867a24d7aac0c6289adabccb72dcf716fb87d458099f8f2e800fec9f3744",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [AttackDown]",
+      "kr_sha256": "e0e34eb9f051b599870b9c9fe1dd8d745baf64f9124ac4230e6b5b67d18b9a0b",
+      "en_sha256": "079fec28236754bb17300b1ed4db91526a7e6c390e4737fb36219cab99e37c16",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].desc": {
+      "pl": "Moc Walki +1 za każde 6 (Siła [Breath] tej jednostki + Siła [Vibration] głównego celu) (maks. <style=\"highlight\">3</style>)\n[BeforeAttack] zyskuje (<style=\"highlight\">3</style> + najwyższy Rezonans) [Breath] (maks. 8)\n[BeforeAttack] zyskuje +<style=\"highlight\">3</style> Licznika [Breath]\n[EndSkill] rozdziela (1 + najwyższy Rezonans) Liczników [EmpathicDistressAlly] między losowych celów ataku, po 1 na raz (maks. 5)",
+      "kr_sha256": "1abbc2b90aa5fc8a04ee9b054e1887647c0492b3be742248ffeba58bd37a02d0",
+      "en_sha256": "c6465bde7f4550dc8f5dd1fd1f72fb3ccf53601ca720e8ef1397de99c40b7ef2",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=3].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].abName": {
+      "pl": "Błądzące Serce",
+      "kr_sha256": "85c0696d405694880e95fc673ea27ab673b4056cb951380aa81bf700f0c3bd04",
+      "en_sha256": "82fe884a985eb7c81c2108315c6dce49d78d667531cd9ceb69f806c97c598a84",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">4</style> [Vibration]",
+      "kr_sha256": "1d5ae50bdee285099daa54741bebec442f41d41038279fe3044fceb67e244cce",
+      "en_sha256": "20978c1941b04a525d2683dc16000201aa3c712ab855be6ad5a143abe3a03027",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Vibration] celu o <style=\"highlight\">3</style>",
+      "kr_sha256": "7d98730c3e14d7508c3d9473e63d92b72678049e231adafe1506cd3b6883394f",
+      "en_sha256": "ecf6eaf56827deaee401e7b5b3ff5bc07a7c3e0d11a5c84362424224beacd200",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [AttackDown]",
+      "kr_sha256": "e0e34eb9f051b599870b9c9fe1dd8d745baf64f9124ac4230e6b5b67d18b9a0b",
+      "en_sha256": "079fec28236754bb17300b1ed4db91526a7e6c390e4737fb36219cab99e37c16",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].desc": {
+      "pl": "Moc Walki +1 za każde 6 (Siła [Breath] tej jednostki + Siła [Vibration] głównego celu) (maks. <style=\"highlight\">4</style>)\n[BeforeAttack] zyskuje (<style=\"highlight\">4</style> + najwyższy Rezonans) [Breath] (maks. 8)\n[BeforeAttack] zyskuje +<style=\"highlight\">4</style> Licznika [Breath]\n[EndSkill] rozdziela (1 + najwyższy Rezonans) Liczników [EmpathicDistressAlly] między losowych celów ataku, po 1 na raz (maks. 5)",
+      "kr_sha256": "4d1a1caaa74f8b3593b6bf514ee68257c76fa40599f8c7fd95f1284008bf7805",
+      "en_sha256": "7bccbd842e2917f76e0055a57095e927f241d64d7a7d7e0b8130b50e907f2493",
+      "origin": "ai"
+    },
+    "dataList[id=2091011].levelList[level=4].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].abName": {
+      "pl": "Błądzące Serce",
+      "kr_sha256": "85c0696d405694880e95fc673ea27ab673b4056cb951380aa81bf700f0c3bd04",
+      "en_sha256": "82fe884a985eb7c81c2108315c6dce49d78d667531cd9ceb69f806c97c598a84",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Licznika [Vibration], wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "116b23ed709b893808335ee9952893a788b557aa04e59b1cd947b43d5108322c",
+      "en_sha256": "e1779b19835e7374473c31bb38f5864fec38aaf5e9b74b7054cba874a0b20f05",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Licznika [Vibration], wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "116b23ed709b893808335ee9952893a788b557aa04e59b1cd947b43d5108322c",
+      "en_sha256": "e1779b19835e7374473c31bb38f5864fec38aaf5e9b74b7054cba874a0b20f05",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [AttackDown]",
+      "kr_sha256": "cf80edb15d22fc8bbed29b040717ef5e9d76980910ae991c2515a5de84460459",
+      "en_sha256": "c047dbe8530a8a016d82422e4e3e6db5f74f09c2fece338d1b141d26a597ec1d",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "4aa7c26260348688b5ea4b2c70aff01bb0a9372963d583ed5b2f33b3481207fb",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Walki +1 za każde 6 (Siła [Breath] tej jednostki + Siła [Vibration] głównego celu) (maks. 2)\n[BeforeAttack] zyskuje (2 + najwyższy Rezonans) [Breath] (maks. 10)\n[BeforeAttack] zyskuje +2 Licznika [Breath]\n[BeforeAttack] Moc Bazowa -4 za każdą zniszczoną Monetę (maks. -12)\n[BeforeAttack] przy 10+ Licznika [Breath] zużywa 4 Licznika [Breath] i zadaje +20% obrażeń krytycznych głównemu celowi\n[EndSkill] rozdziela (1 + najwyższy Rezonans) Liczników [EmpathicDistressAlly] między losowych celów ataku, po 1 na raz (maks. 5)",
+      "kr_sha256": "adc2312c04ff8bee083dbf263865b31d325ba99079533a6acd72072265d717f0",
+      "en_sha256": "a589a6375b37a11302e59cecd1716a0f899d201538bce1f2a520b32a19f63357",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=1].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].abName": {
+      "pl": "Błądzące Serce",
+      "kr_sha256": "85c0696d405694880e95fc673ea27ab673b4056cb951380aa81bf700f0c3bd04",
+      "en_sha256": "82fe884a985eb7c81c2108315c6dce49d78d667531cd9ceb69f806c97c598a84",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">4</style> [Vibration]",
+      "kr_sha256": "1d5ae50bdee285099daa54741bebec442f41d41038279fe3044fceb67e244cce",
+      "en_sha256": "20978c1941b04a525d2683dc16000201aa3c712ab855be6ad5a143abe3a03027",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Licznika [Vibration], wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "116b23ed709b893808335ee9952893a788b557aa04e59b1cd947b43d5108322c",
+      "en_sha256": "e1779b19835e7374473c31bb38f5864fec38aaf5e9b74b7054cba874a0b20f05",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Licznika [Vibration], wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "116b23ed709b893808335ee9952893a788b557aa04e59b1cd947b43d5108322c",
+      "en_sha256": "e1779b19835e7374473c31bb38f5864fec38aaf5e9b74b7054cba874a0b20f05",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Nakłada +1 Licznika [Vibration]</style>",
+      "kr_sha256": "ca7fab4e768b11841c3cfa68fd6348bd59ed972c4255a5772f056679c94de614",
+      "en_sha256": "7d5e27a79345f2e35c6201d3e94e9a0d6ff46aae09a00b4940a8338615e7c7f9",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [AttackDown]<style=\"highlight\"></style>",
+      "kr_sha256": "fd338d079638c4048ef7fd52e5d901d2920cc3c1d6843833c7ed6c88a5575a13",
+      "en_sha256": "c4d17dcd13e627f353fcb27d24844051fe0ee02247585629d270678bf9d2e923",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Walki +1 za każde 6 (Siła [Breath] tej jednostki + Siła [Vibration] głównego celu) (maks. <style=\"highlight\">3</style>)\n[BeforeAttack] zyskuje (<style=\"highlight\">3</style> + najwyższy Rezonans) [Breath] (maks. 10)\n[BeforeAttack] zyskuje +<style=\"highlight\">3</style> Licznika [Breath]\n[BeforeAttack] Moc Bazowa -4 za każdą zniszczoną Monetę (maks. -12)\n[BeforeAttack] przy 10+ Licznika [Breath] zużywa 4 Licznika [Breath] i zadaje +<style=\"highlight\">30</style>% obrażeń krytycznych głównemu celowi\n[EndSkill] rozdziela (1 + najwyższy Rezonans) Liczników [EmpathicDistressAlly] między losowych celów ataku, po 1 na raz (maks. 5)",
+      "kr_sha256": "a863ca410e4e10653ee67fdaa31a1d6552b9f974ecd86da95d80a7cb4fb087a8",
+      "en_sha256": "3a826389ac8b66375a6928264ea459aa70bea7e992de92801f0b4357c3c6c5e6",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=3].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].abName": {
+      "pl": "Błądzące Serce",
+      "kr_sha256": "85c0696d405694880e95fc673ea27ab673b4056cb951380aa81bf700f0c3bd04",
+      "en_sha256": "82fe884a985eb7c81c2108315c6dce49d78d667531cd9ceb69f806c97c598a84",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">5</style> [Vibration]",
+      "kr_sha256": "8cb751b31309689b68a1333f35db3cee170e16864a1220def62878cbbc5ecc95",
+      "en_sha256": "5fa37c55264328d7c627e78e4b996f6eefe7e7e143e49e7914d4909eefa16795",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Licznika [Vibration], wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "116b23ed709b893808335ee9952893a788b557aa04e59b1cd947b43d5108322c",
+      "en_sha256": "e1779b19835e7374473c31bb38f5864fec38aaf5e9b74b7054cba874a0b20f05",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Licznika [Vibration], wyzwala [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "116b23ed709b893808335ee9952893a788b557aa04e59b1cd947b43d5108322c",
+      "en_sha256": "e1779b19835e7374473c31bb38f5864fec38aaf5e9b74b7054cba874a0b20f05",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +<style=\"highlight\">2</style> Licznika [Vibration]",
+      "kr_sha256": "09abf6079df7bb5b49a25d6bc68893aae8c7f40a239f10e71c8c2692f82f7176",
+      "en_sha256": "a933867a24d7aac0c6289adabccb72dcf716fb87d458099f8f2e800fec9f3744",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [AttackDown]<style=\"highlight\"></style>",
+      "kr_sha256": "fd338d079638c4048ef7fd52e5d901d2920cc3c1d6843833c7ed6c88a5575a13",
+      "en_sha256": "c4d17dcd13e627f353fcb27d24844051fe0ee02247585629d270678bf9d2e923",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1<style=\"highlight\"></style>",
+      "kr_sha256": "9fb69ae6728b45a4a7d0a2d6567379e855c9bdc9ef74ab87700f81598b4f2f90",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Walki +1 za każde 6 (Siła [Breath] tej jednostki + Siła [Vibration] głównego celu) (maks. <style=\"highlight\">4</style>)\n[BeforeAttack] zyskuje (<style=\"highlight\">4</style> + najwyższy Rezonans) [Breath] (maks. 10)\n[BeforeAttack] zyskuje +<style=\"highlight\">4</style> Licznika [Breath]\n[BeforeAttack] Moc Bazowa -4 za każdą zniszczoną Monetę (maks. -12)\n[BeforeAttack] przy 10+ Licznika [Breath] zużywa 4 Licznika [Breath] i zadaje +<style=\"highlight\">40</style>% obrażeń krytycznych głównemu celowi\n[EndSkill] rozdziela (1 + najwyższy Rezonans) Liczników [EmpathicDistressAlly] między losowych celów ataku, po 1 na raz (maks. 5)",
+      "kr_sha256": "c4b17898fe1379b41006403b1269ad225a1471d257e00177a7407d2690270718",
+      "en_sha256": "efaa91fda1d515f18bd67cbfdb60f5e2320cf2402dbef31fe77fe899a5359be6",
+      "origin": "ai"
+    },
+    "dataList[id=2091021].levelList[level=4].name": {
+      "pl": "Lustrzany Dotyk",
+      "kr_sha256": "13c612fa800c70c4a4ff5bd383c9e6149698aa3b2f9a0c3f015c8bbe87f95ce7",
+      "en_sha256": "3e4513ab90df4583e6fe2e3f62ec318a2de88f9e54e7b2c91546d0a612463876",
       "origin": "ai"
     }
   }

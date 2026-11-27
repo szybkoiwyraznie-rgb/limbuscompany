@@ -5039,6 +5039,1524 @@
       "kr_sha256": "b253f1d4b066251d1eacfcfa2984e7ab1149522f02da9d2fa8425c4cfa0853c3",
       "en_sha256": "80d90207436ed27c1ab3b9a3c0b4aeca85aa2fd406fcaf97d020628c219dc040",
       "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=1].abName": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 6 [Burst]",
+      "kr_sha256": "07382890d55405a5197b61dd405d1bf5c5d5b326035581b930587d652ffb997d",
+      "en_sha256": "8b129eb85765aa67dc74a3121ed2064dc344fb78198497fcbe96035a197db55c",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] traci 10 SP",
+      "kr_sha256": "5c3a984c0060967f71c980eb43bdadef6834b3ab91c10386c885a387fec61992",
+      "en_sha256": "8ebbe3c809e9ef759f90e385e1538a69ca8e3ddeff3ab45af9162f50bc008aa8",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=1].name": {
+      "pl": "Gałąź Wiedzy",
+      "kr_sha256": "95471a296f42a340a14f9ef8c52a1b63311f37affb96ab5effa442d0a97c0be6",
+      "en_sha256": "97bba37f3974f9f8872f49593fed2d89f5739e1dc5294b1248ceefc9518374f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=3].abName": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 12 [Burst]",
+      "kr_sha256": "344b6e752884eac8e4cdcf8c39b281fb169e8ea72b20514e806c094001289a15",
+      "en_sha256": "ceccf0fbee1677e61219a6dc44e387f979daf6fd8196ec3ae5ec7f11b3496983",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] traci 10 SP",
+      "kr_sha256": "b509e49587b2bd36853ef8e1a28f065ea945df8e85e68a8051f39d2ace891e32",
+      "en_sha256": "2c3a43ccf858ae7ec1bd597c69ca504cfdc28443eebb3a1c4b6995803f238fc5",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] odzyskuje 10 SP",
+      "kr_sha256": "7f3b8ec77da2020e77ae476a4e6d1fecf72f42103c2d165151f516328c7f397a",
+      "en_sha256": "38c951004efaf2a7b4aa2b8d621a3918dcc150948a9cfe97939aa33507adbab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=3].name": {
+      "pl": "Gałąź Wiedzy",
+      "kr_sha256": "95471a296f42a340a14f9ef8c52a1b63311f37affb96ab5effa442d0a97c0be6",
+      "en_sha256": "97bba37f3974f9f8872f49593fed2d89f5739e1dc5294b1248ceefc9518374f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=4].abName": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 12 [Burst]",
+      "kr_sha256": "344b6e752884eac8e4cdcf8c39b281fb169e8ea72b20514e806c094001289a15",
+      "en_sha256": "ceccf0fbee1677e61219a6dc44e387f979daf6fd8196ec3ae5ec7f11b3496983",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] traci 10 SP. <style=\"highlight\">następnej tury zyskuje 1 [Enhancement]</style>",
+      "kr_sha256": "5c463fbf3628769604564fb69c01c753a8c1dec0318765a077ea78118abe7e7f",
+      "en_sha256": "cca1d155d018edc10d29b8d0b740f9b2fb4a5cea9fec4a279c4d1d939f754ef3",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttackTail] zyskuje 10 SP. <style=\"highlight\">następnej tury zyskuje 1 [Protection]</style>",
+      "kr_sha256": "739d613a5c803b4f280e47c3506857099034ce85735372b0b26dc3a8916b866d",
+      "en_sha256": "a53b515941fd1d816125c767c262f9e49cd1fd927119f2fceca03fe210324b39",
+      "origin": "ai"
+    },
+    "dataList[id=2100111].levelList[level=4].name": {
+      "pl": "Gałąź Wiedzy",
+      "kr_sha256": "95471a296f42a340a14f9ef8c52a1b63311f37affb96ab5effa442d0a97c0be6",
+      "en_sha256": "97bba37f3974f9f8872f49593fed2d89f5739e1dc5294b1248ceefc9518374f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=1].abName": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "9dccd4c18329901eb30ce2bc71652e49999e33578ef6098f49b344e77357c10e",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EnemyKill] odzyskuje HP równe 10% Maks. HP dla wszystkich sojuszników",
+      "kr_sha256": "3a4ee665c296d89a7bb84963af422fa6eaf99288d1c588dfc40a4c0a1732c2cc",
+      "en_sha256": "1aab0e14c774b9fedc1d531c154399227d0b9fb812d53043979f92d36102f09d",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=1].desc": {
+      "pl": "przy HP celu niższym niż 25%, zadaje +10% obrażeń",
+      "kr_sha256": "95aa2afcabbb48e6305054a3570f0c2f95e29948a868d87334622dc0f9de4735",
+      "en_sha256": "45a4428b4a137a585bf83047508e38eb8f9db3fb361f4ccc1c8d3ecf3989d552",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=1].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=3].abName": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "9dccd4c18329901eb30ce2bc71652e49999e33578ef6098f49b344e77357c10e",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EnemyKill] następnej tury zyskuje 1 [Enhancement]",
+      "kr_sha256": "72d91eaa64254744758eb7e3fab53b058faf3d4e2c969660e84276fdac441b32",
+      "en_sha256": "99b345d6b898cf989ef985793c2cf1d32fc48d7970e866c7c6754919b5e895eb",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] odzyskuje HP równe 15% Maks. HP dla wszystkich sojuszników",
+      "kr_sha256": "bed463676bb528895c347065b5398826dbc36c2e26568a7fba69fecbcdffbf8f",
+      "en_sha256": "b1b41ad3b3359c1aa17765c0fcf21707155a81212e2f9cbd008c510e9874cea0",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=3].desc": {
+      "pl": "przy HP celu niższym niż 25%, zadaje +20% obrażeń",
+      "kr_sha256": "598d19598070baf1eaa514dbbc3eba0748a90500e71364d8da76a99bbfcb3ab8",
+      "en_sha256": "ba1dace26feebef1ffadc877922cfb5887063be46c29af00dd22ca6b2985e399",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=3].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=4].abName": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "9dccd4c18329901eb30ce2bc71652e49999e33578ef6098f49b344e77357c10e",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EnemyKill] następnej tury zyskuje 1 [Enhancement]",
+      "kr_sha256": "72d91eaa64254744758eb7e3fab53b058faf3d4e2c969660e84276fdac441b32",
+      "en_sha256": "99b345d6b898cf989ef985793c2cf1d32fc48d7970e866c7c6754919b5e895eb",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] odzyskuje HP równe 15% Maks. HP dla wszystkich sojuszników",
+      "kr_sha256": "bed463676bb528895c347065b5398826dbc36c2e26568a7fba69fecbcdffbf8f",
+      "en_sha256": "b1b41ad3b3359c1aa17765c0fcf21707155a81212e2f9cbd008c510e9874cea0",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=4].desc": {
+      "pl": "przy HP celu niższym niż 25%, zadaje +40% obrażeń",
+      "kr_sha256": "fbd676185c04d8f4c6633c2c1d6c7171a0128308939ed690b5c665f7dbb27ac4",
+      "en_sha256": "1c4de4db179f80ff3feecacfba836aaf66729b1e52d744d0520387eedfac2e74",
+      "origin": "ai"
+    },
+    "dataList[id=2100211].levelList[level=4].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=1].abName": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "9dccd4c18329901eb30ce2bc71652e49999e33578ef6098f49b344e77357c10e",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EnemyKillFail] następnej tury zyskuje 10 [Laceration]",
+      "kr_sha256": "26d9adc16a8cef978ffd9b0875e6703b37a32b037a348c5f41a3f15a5a54023f",
+      "en_sha256": "e1b0a67a0b1dba1c1865e7807c9d425c53b59f56075d016a0f6107e23eb88e91",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nprzy HP celu niższym niż 25%, +15% obrażeń",
+      "kr_sha256": "b8052fa629deea2d32a83db39b0a4aa04742872cb6cabe58e5f7c48ae5bd12ef",
+      "en_sha256": "32193cef40f16e43903f70fe74ac0f580a4fb873c905a8d16a649daa134d3819",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=1].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=3].abName": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "9dccd4c18329901eb30ce2bc71652e49999e33578ef6098f49b344e77357c10e",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EnemyKillFail] następnej tury zyskuje 10 [Laceration]",
+      "kr_sha256": "26d9adc16a8cef978ffd9b0875e6703b37a32b037a348c5f41a3f15a5a54023f",
+      "en_sha256": "e1b0a67a0b1dba1c1865e7807c9d425c53b59f56075d016a0f6107e23eb88e91",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKillFail] następnej tury zyskuje 3 [Enhancement]",
+      "kr_sha256": "451be7ebc26862ac9d03d5c20ed4579f4c63075ac6dc5c27aa809feed412eddb",
+      "en_sha256": "51095b5c42db5e2b6fc30e8031ae935e7fa9401314703ec417373146a50f78f7",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nprzy HP celu niższym niż 25%, +25% obrażeń",
+      "kr_sha256": "171cc06348389d8a6bbec151b83719fbe3aee2faff10c1b1dccac2f76b170727",
+      "en_sha256": "6289cdded818b1c6b8c285a21951d778ee9969ed5cabc3641348e0ee939a3a81",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=3].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=4].abName": {
+      "pl": "Kalendarz Zagłady",
+      "kr_sha256": "9dccd4c18329901eb30ce2bc71652e49999e33578ef6098f49b344e77357c10e",
+      "en_sha256": "3ef09022a1eb2568ccf84ec00ce2d3a41c5b8ef45976cce882e44b48e85cbefa",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EnemyKillFail] następnej tury zyskuje 10 [Laceration]",
+      "kr_sha256": "26d9adc16a8cef978ffd9b0875e6703b37a32b037a348c5f41a3f15a5a54023f",
+      "en_sha256": "e1b0a67a0b1dba1c1865e7807c9d425c53b59f56075d016a0f6107e23eb88e91",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKillFail] następnej tury zyskuje 3 [Enhancement]",
+      "kr_sha256": "451be7ebc26862ac9d03d5c20ed4579f4c63075ac6dc5c27aa809feed412eddb",
+      "en_sha256": "51095b5c42db5e2b6fc30e8031ae935e7fa9401314703ec417373146a50f78f7",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nprzy HP celu niższym niż 25%, +50% obrażeń",
+      "kr_sha256": "13dbc1ddc3b2d370817031b06a3e96c817f56bddd18ec349682a05974c4d6780",
+      "en_sha256": "124ff07225aed73efcc8046222741d73348b1ec3349720dfeb97109fa9531854",
+      "origin": "ai"
+    },
+    "dataList[id=2100221].levelList[level=4].name": {
+      "pl": "Nadchodzący Dzień",
+      "kr_sha256": "4fabada4900849340da26504a36bfd0f9c564bc6ee3c067563155153f92a4ac4",
+      "en_sha256": "ba92ccef39bf94a835bef47190071fbd86008974c1105c8f04aba18015a78cd6",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=1].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] jeżeli celem jest sojusznik, leczy HP celu o 5% Maks. HP tej jednostki",
+      "kr_sha256": "3495c6238437cc2265d3b28d8e70cc4393d1ce6e6658e3fb18074ef330d48fa1",
+      "en_sha256": "62d7b735f9c7f2e7799bc34e2abf399ebbba54ca65ae028ed7fbf0330ef74a21",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 7 Podpalenia; jeżeli celem jest sojusznik, następnej tury nakłada 2 [Agility]",
+      "kr_sha256": "17dc2a9ea1d48951f06317704cdaffacbe2734e4a65b1a2661aabb1055482b6d",
+      "en_sha256": "f8f434a36b159849865f98e863d7de3fa08afceb5d5546b0c5e3ea1354aaeb5f",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\njeżeli celem jest sojusznik, zadaje zawsze 0 obrażeń",
+      "kr_sha256": "58bac0955526af9d819ecebfcc095565bb8afb1367da83249454a6130548cbb6",
+      "en_sha256": "b0415dc7dbd5122923fed11a5bd8af952505a518e8ce8425263b6b3f6ce44208",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=1].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=3].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] jeżeli celem jest sojusznik, leczy HP celu o 10% Maks. HP tej jednostki",
+      "kr_sha256": "4caf26a1d2671c0a0fc4ab63a0718d2782109bbc8bccaaa5bde430f426fe6392",
+      "en_sha256": "c24ab45ac129a68a72184f003fd068e6d437ba0dfdaf3bca9b7ae4da635cfb9f",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 7 Podpalenia; jeżeli celem jest sojusznik, następnej tury nakłada 2 [Agility] i 1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Wzmocnienia Zasobów E.G.O</link></u></color>",
+      "kr_sha256": "301133b528f0703418d53580645dced65f966c1e800caf8854f062104ba9b2bf",
+      "en_sha256": "58df5091260180fb2eb1171912b983c1f5f27e7c95708d9037ae464505c2bf04",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\njeżeli celem jest sojusznik, zadaje zawsze 0 obrażeń",
+      "kr_sha256": "58bac0955526af9d819ecebfcc095565bb8afb1367da83249454a6130548cbb6",
+      "en_sha256": "b0415dc7dbd5122923fed11a5bd8af952505a518e8ce8425263b6b3f6ce44208",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=3].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=4].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] jeżeli celem jest sojusznik, leczy HP celu o 10% Maks. HP tej jednostki",
+      "kr_sha256": "4caf26a1d2671c0a0fc4ab63a0718d2782109bbc8bccaaa5bde430f426fe6392",
+      "en_sha256": "c24ab45ac129a68a72184f003fd068e6d437ba0dfdaf3bca9b7ae4da635cfb9f",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 7 Podpalenia; jeżeli celem jest sojusznik, następnej tury nakłada 2 [Agility] i 1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Wzmocnienia Zasobów E.G.O</link></u></color>",
+      "kr_sha256": "301133b528f0703418d53580645dced65f966c1e800caf8854f062104ba9b2bf",
+      "en_sha256": "58df5091260180fb2eb1171912b983c1f5f27e7c95708d9037ae464505c2bf04",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\njeżeli celem jest sojusznik, zadaje zawsze 0 obrażeń",
+      "kr_sha256": "58bac0955526af9d819ecebfcc095565bb8afb1367da83249454a6130548cbb6",
+      "en_sha256": "b0415dc7dbd5122923fed11a5bd8af952505a518e8ce8425263b6b3f6ce44208",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=4].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[SuperCoin]</style>",
+      "kr_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "en_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] jeżeli celem jest sojusznik,</style>",
+      "kr_sha256": "2ea42d377afdc797898bbce42a66e5c28fdc0db0a297587d56450845cb91d2b1",
+      "en_sha256": "5d495fed7b9df2c3923f02194b1ed0d0122f2684bb3a00ad33c8083335b769c3",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">- leczy HP celu równe (5 x liczba sojuszników wskazanych celami tej Umiejętności)% Maks. HP tej jednostki (maks. 20%)</style>",
+      "kr_sha256": "050f64403d861389d68aeac8a3d1fea4cdc9db133f0ba0d4e6b2228cdefadc39",
+      "en_sha256": "8e57ec228fd30d86477783dfe1c77d45f82a207e91a75954760a355037fa52fe",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].coinlist[#0].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">- następnej tury nakłada 1 [GainSinStockAdder] i 2 [Agility]</style>",
+      "kr_sha256": "48de75b68d76ea8f64ae8e4c3cfec05d2d2848b48c253ad87a3a4389bccf9cc6",
+      "en_sha256": "06dc61ef3f948f5b22c1993e4ec0b284c79d6ebc11155ae97a8990ba6537f4a0",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 7 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "369899a1e93ed71a87303a6517b7297d31da3b3483e4e555d9778401a6eeb36d",
+      "en_sha256": "2734c9a3fbd764c86067175da3af0e882e7341d4e75ea2c586277dc28238b468",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym aktualnym HP\n<style=\"highlight\">wymagany zasób E.G.O Obżarstwa do użycia tej Umiejętności wynosi 0\njeżeli celem jest sojusznik, zadaje zawsze 0 obrażeń i nie uruchamia Umiejętności Obrony (wliczając Umiejętności Obrony zdolne do Starcia)\n[DefeatDuel] Moc Bazowa -8\n[EndSkill] jeżeli ta Umiejętność trafiła sojusznika, odzyskuje SP równe liczbie sojuszników wskazanych celami tej Umiejętności\n[EndSkill] odzyskuje HP równe (5 x liczba sojuszników wskazanych celami tej Umiejętności)% Maks. HP tej jednostki (min. 5%, maks. 20%)\n[EndSkill] następnej tury zyskuje 1 [GainSinStockAdder] i 2 [Agility]</style>",
+      "kr_sha256": "10300fc85f7a69c6f11901a9e7e812d239aac35e2784e42b81b8be29df238c99",
+      "en_sha256": "457d7dfbbcf4609ec8c0a78067e6f923802bcc3cada876941fe45088b9fa4858",
+      "origin": "ai"
+    },
+    "dataList[id=2100311].levelList[level=5].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=1].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika Podpalenia",
+      "kr_sha256": "50d443fbcfa5eb9ce3c2b2a6bd4ec9158d8b6d4e9abc4cb9d3eb3b6b00a10e77",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\n\n[BeforeAttack] zużywa 3 losowe zasoby E.G.O, by zwiększyć obrażenia o 10%",
+      "kr_sha256": "90247ec68b6bab092ada2207bdabfa0a72925c2e681511085ca7bde37757e91e",
+      "en_sha256": "b32ffff5a227cad87efcb27fe54020d590242303822e5c3539b5de52c3ce94e5",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=1].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=3].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika Podpalenia",
+      "kr_sha256": "50d443fbcfa5eb9ce3c2b2a6bd4ec9158d8b6d4e9abc4cb9d3eb3b6b00a10e77",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\n\n[BeforeAttack] zużywa 3 losowe zasoby E.G.O, by zwiększyć obrażenia o 20%",
+      "kr_sha256": "eb19c20be1784a137491eb08bc458fee6f8e26f65fb721af9dc78e111f7117fe",
+      "en_sha256": "b75b261e8f9fa144a4c61ab66600f8cd5ef21f02031eeb0d10d141da0dad2fde",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=3].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=4].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika Podpalenia",
+      "kr_sha256": "50d443fbcfa5eb9ce3c2b2a6bd4ec9158d8b6d4e9abc4cb9d3eb3b6b00a10e77",
+      "en_sha256": "bc0dd1a7153d978e179e02ce249e0303111f04a3efee0ec0b9dc59a2d47f8a5b",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\n\n[BeforeAttack] zużywa 3 losowe zasoby E.G.O, by zwiększyć obrażenia o 30%",
+      "kr_sha256": "6b3c66523e48786c733fa64703e4de841d01e47a9a9270794676e70fea14c036",
+      "en_sha256": "16bec013f423ffcfac3fc07bd547737819565967e969cffcbe6cf4f79587dcb9",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=4].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].abName": {
+      "pl": "Basilisoup",
+      "kr_sha256": "9511b500aa616aef5dcbd833d32cbd32d97555e339aea734df9a8fd5b935b0ee",
+      "en_sha256": "1fb3d75b62a841280fd16dfcb6d982f1914e9cb05a36a7023ecb3b8d1cef0a2a",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].coinlist[#0].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">[SuperCoin]</style>",
+      "kr_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "en_sha256": "a2c9c189c6b6f59f8f4f230ca1f5e18b4366bf24c20a106fa6bea4d2532c66c4",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].coinlist[#0].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] [Combustion] 2 Podpalenia</style>",
+      "kr_sha256": "e3402bff2bd7f061005b86b45008a51149658f020abb0e4ca89d2495cf802baa",
+      "en_sha256": "00b532e8aa4f6c49798aa5c9e59a7f279634e5533170125076ecc07ab98e4710",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada +2 Licznika [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "bf5fda29594c68a98bc48f4d3e2c5213afb40ffd48f9d714d55001e54a10fbb5",
+      "en_sha256": "7da6de256c7a7374948131507a6796e536b350b9d4bd6d0ff9ff1dda93a7745b",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].coinlist[#0].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] jeżeli zużyto zasób E.G.O przez efekt tej Umiejętności, zadaje obrażenia Żądzy równe 50% końcowych obrażeń tej Monety</style>",
+      "kr_sha256": "0b8d5a0fbfac0865973f80e957ca4d903998210869cfaaef5b3a5b1563dff154",
+      "en_sha256": "a65b1145c3629bcec7b4f563b4d98cd09e2297c889a4f4bc76cfc290760ba01e",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym aktualnym HP\n<style=\"highlight\">wymagany zasób E.G.O Obżarstwa do użycia tej Umiejętności wynosi 0\n[DefeatDuel] Moc Bazowa -12\n[BeforeAttack] zadaje +15% obrażeń za każde 4 (suma Siły [Combustion] wszystkich celów ataku) (maks. 60%)\n[BeforeAttack] zużywa maks. 3 najbardziej posiadanych zasobów E.G.O i zadaje +10% obrażeń za każdy 1 zużyty zasób E.G.O (maks. 30%)</style>",
+      "kr_sha256": "ab7826e478bdd186581151352e1119b040dec23c23a601d7e6aa2951849bb007",
+      "en_sha256": "4ba5cd60d3822486013b1cda7984cbcd42922e3370c556b9fd3c2e671ab7e2c8",
+      "origin": "ai"
+    },
+    "dataList[id=2100321].levelList[level=5].name": {
+      "pl": "Dożywotni Gulasz",
+      "kr_sha256": "0d6ef0d48aca654f9b07b0c2736eaed82bde9193294a7e1a3b8636a8610b3659",
+      "en_sha256": "c41af32facaf472e8c049cd6189b277ecb054ae359e837bc6b554320a9cdbed5",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=1].abName": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=1].desc": {
+      "pl": "jeżeli HP celu jest niższe niż 50%, zadaje +10% obrażeń",
+      "kr_sha256": "f170a0cc84557acd25d4bb986158be7cbb8dc7610d15cccf3e5fee35d608f2c4",
+      "en_sha256": "2175a1445b265950782f4bcb886febfb2f1747729cbdb5b65d27dc961b347b8a",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=1].name": {
+      "pl": "To Páthos Máthos",
+      "kr_sha256": "6fe1e82d46a5537c03e657a1b1b8d534b963dac85d944072d2a40b9c16c78d7d",
+      "en_sha256": "c982e79e2132288d53527ed31a4822f0a46639fefaa466fc6b23abe3a8b27d32",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=3].abName": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Rozdarcia",
+      "kr_sha256": "ee730d99e0f716cf9881bf102b22c88957a6a1952a04891bd42367218e36cd4a",
+      "en_sha256": "8b1367ff62f67bd7be5e8cd4f61c8bc80eb6eaa0f84657c2a3285e3d246b0041",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=3].desc": {
+      "pl": "jeżeli HP celu jest niższe niż 50%, zadaje +30% obrażeń",
+      "kr_sha256": "efb4ebf57eaf0cad6db4f0512689a979e3433d2617557a35217641936a1284ab",
+      "en_sha256": "3fbdf19313287df5e5881f6f6239ac73d5482963d897f4006d2e84ddf822d903",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=3].name": {
+      "pl": "To Páthos Máthos",
+      "kr_sha256": "6fe1e82d46a5537c03e657a1b1b8d534b963dac85d944072d2a40b9c16c78d7d",
+      "en_sha256": "c982e79e2132288d53527ed31a4822f0a46639fefaa466fc6b23abe3a8b27d32",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=4].abName": {
+      "pl": "Outis",
+      "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
+      "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Rozdarcia",
+      "kr_sha256": "ee730d99e0f716cf9881bf102b22c88957a6a1952a04891bd42367218e36cd4a",
+      "en_sha256": "8b1367ff62f67bd7be5e8cd4f61c8bc80eb6eaa0f84657c2a3285e3d246b0041",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EnemyKill] daje 1 [AttackDmgUp] losowemu sojusznikowi",
+      "kr_sha256": "8f6b3acb79d8c3a9c958f6e4c571a90ac123b41bf04f5f34b1e7adae7e7236bb",
+      "en_sha256": "486687d6608a73ffcf1ab983a7b833ab93a035983329793568e56801e655bbf0",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=4].desc": {
+      "pl": "jeżeli HP celu jest niższe niż 50%, zadaje +30% obrażeń",
+      "kr_sha256": "efb4ebf57eaf0cad6db4f0512689a979e3433d2617557a35217641936a1284ab",
+      "en_sha256": "3fbdf19313287df5e5881f6f6239ac73d5482963d897f4006d2e84ddf822d903",
+      "origin": "ai"
+    },
+    "dataList[id=2110111].levelList[level=4].name": {
+      "pl": "To Páthos Máthos",
+      "kr_sha256": "6fe1e82d46a5537c03e657a1b1b8d534b963dac85d944072d2a40b9c16c78d7d",
+      "en_sha256": "c982e79e2132288d53527ed31a4822f0a46639fefaa466fc6b23abe3a8b27d32",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=1].abName": {
+      "pl": "Jabłko Hebanowej Królowej",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Krwawienia",
+      "kr_sha256": "a7365fbf39ce0b71524f7bbb2dfd7b3f0db333669e1c3916e796d761ef24b71d",
+      "en_sha256": "f8b2ecdf9efc30a8f16e03255f91b08d962add2a52be935933758f7b9adfbe3f",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=1].name": {
+      "pl": "Hebanowa Łodyga",
+      "kr_sha256": "543e0bbab4e2f7320ad9b5c2fceb29e40033e8871d2b6aaa69417005a189f723",
+      "en_sha256": "aaf0d2c97095481e399a88f1b50b70bfbf859c0e722ae4529eac6303b1e41960",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=3].abName": {
+      "pl": "Jabłko Hebanowej Królowej",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Rozdarcia",
+      "kr_sha256": "5e2c6054d380d65486e4c857079f99ec154e4616f59cfff361c8d4025a63f426",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 Krwawienia",
+      "kr_sha256": "a7365fbf39ce0b71524f7bbb2dfd7b3f0db333669e1c3916e796d761ef24b71d",
+      "en_sha256": "f8b2ecdf9efc30a8f16e03255f91b08d962add2a52be935933758f7b9adfbe3f",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Kruchości Obżarstwa",
+      "kr_sha256": "7ef7d23b79ef34f57859d74a7316ef4a013f3e7df8fbfc211e35ee596586da90",
+      "en_sha256": "eb9b221d1d4a53a4925531815deb1b245ab5a2acf7c5376b76bb122885ee4f89",
+      "origin": "ai"
+    },
+    "dataList[id=2110211].levelList[level=3].name": {
+      "pl": "Hebanowa Łodyga",
+      "kr_sha256": "543e0bbab4e2f7320ad9b5c2fceb29e40033e8871d2b6aaa69417005a189f723",
+      "en_sha256": "aaf0d2c97095481e399a88f1b50b70bfbf859c0e722ae4529eac6303b1e41960",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=1].abName": {
+      "pl": "Jabłko Hebanowej Królowej",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "da587981f0ca2a8daae97080635c6a404594603b800202e1785ff7f212f997cb",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Krwawienia",
+      "kr_sha256": "6ff8fd05bf7529581cd3fce0565f6d7bee043b27237411abe9cb83dcffbad4d8",
+      "en_sha256": "b085d6648736c323ca1f269e3724c5192e66814f73a1ba6ec0b58ef58b5c875b",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=1].name": {
+      "pl": "Hebanowa Łodyga",
+      "kr_sha256": "543e0bbab4e2f7320ad9b5c2fceb29e40033e8871d2b6aaa69417005a189f723",
+      "en_sha256": "aaf0d2c97095481e399a88f1b50b70bfbf859c0e722ae4529eac6303b1e41960",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=3].abName": {
+      "pl": "Jabłko Hebanowej Królowej",
+      "kr_sha256": "ba94253f4f280d8854d192cb51107be098bd162570012f910286c47aec113941",
+      "en_sha256": "f4125dba9909fd88b6d69ec5e5052524e8cd01b6e9482330a8a453734598b0e0",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 Rozdarcia",
+      "kr_sha256": "0046413a5ff94d30beb99377d089ce31abc0c67ed22f2ac349e5c92a60ba4ffe",
+      "en_sha256": "6138e2c49abb5422fbcedd4ce0acfcc501f2642092114cb31eac4c3bf40fad82",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration]",
+      "kr_sha256": "2097d4453f9391b49d081a1432e015d79f74840e69e66e124b32fcfb7e079b4a",
+      "en_sha256": "ae97aee4410048ee6c9fd227c1c6ed6b2a1637b235aa4f2163f25acfd394fe36",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Kruchości Obżarstwa",
+      "kr_sha256": "05e3d01a79248acecfebaa96377623dab58503045b24c31e6384f65452600e09",
+      "en_sha256": "0977a3a8b0ccf50a3e3d9de1f1954e29de53917303c707b28166f27c2f6d922d",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2110221].levelList[level=3].name": {
+      "pl": "Hebanowa Łodyga",
+      "kr_sha256": "543e0bbab4e2f7320ad9b5c2fceb29e40033e8871d2b6aaa69417005a189f723",
+      "en_sha256": "aaf0d2c97095481e399a88f1b50b70bfbf859c0e722ae4529eac6303b1e41960",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=1].abName": {
+      "pl": "Wolę się Opróżnić",
+      "kr_sha256": "431f49d42256146bef82208002335a14c228820268c318c7575b7cb001d57aa2",
+      "en_sha256": "91a22cada51b386a9180bc8d7d16216dbbd8c3046fcd307f450c40c55abb581d",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Kruchości Żądzy",
+      "kr_sha256": "7ab13f2536cc4616029987cd2a4d562e6013765538d641d964980274f7347dc2",
+      "en_sha256": "4ce2fcd4f919e671f36036b33c8d3349d9073c04d85d633d56e335b34a365066",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=1].desc": {
+      "pl": "[EndSkill] odzyskuje 12 SP",
+      "kr_sha256": "9c020cae95468965d7356c43399c5dc98254a1a935e3fca4f4ba066727cadfd7",
+      "en_sha256": "5c7c2a1cacfc278a2dd4bf89a7e3a4fa594d98e66a21f25a979eb8ea32739e2d",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=1].name": {
+      "pl": "Ya Śūnyatā Tad Rūpam",
+      "kr_sha256": "6b6d0eadff75aa51eda6b883fb6991e7db24e7c32d72cc36036c3b27df6cce7d",
+      "en_sha256": "909fe21eae661b5fb0b7cdfd302a92f55eca89333ad70a41167c99689ba16f0d",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=3].abName": {
+      "pl": "Wolę się Opróżnić",
+      "kr_sha256": "431f49d42256146bef82208002335a14c228820268c318c7575b7cb001d57aa2",
+      "en_sha256": "91a22cada51b386a9180bc8d7d16216dbbd8c3046fcd307f450c40c55abb581d",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Kruchości Żądzy",
+      "kr_sha256": "8ae60a61d9a2a72c0126958b3fb37531b7beeab894797d12b668c998d154d805",
+      "en_sha256": "2bde7e1e26ba326961b0bd152c848210b99da38e72708541e414916bb22c0644",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=3].desc": {
+      "pl": "[EndSkill] odzyskuje 18 SP\n[EndSkill] nakłada 1 [Enhancement] na 2 innych losowych sojuszników",
+      "kr_sha256": "de9be6b66041aad9d604d7200943a3250acf4062be9343d0d247f0bbb2e1c46a",
+      "en_sha256": "8a86ba34e26dc43269fb2238c32232fab2597d89be8320bd1d810f2acae40004",
+      "origin": "ai"
+    },
+    "dataList[id=2110311].levelList[level=3].name": {
+      "pl": "Ya Śūnyatā Tad Rūpam",
+      "kr_sha256": "6b6d0eadff75aa51eda6b883fb6991e7db24e7c32d72cc36036c3b27df6cce7d",
+      "en_sha256": "909fe21eae661b5fb0b7cdfd302a92f55eca89333ad70a41167c99689ba16f0d",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=1].abName": {
+      "pl": "Wolę się Opróżnić",
+      "kr_sha256": "431f49d42256146bef82208002335a14c228820268c318c7575b7cb001d57aa2",
+      "en_sha256": "91a22cada51b386a9180bc8d7d16216dbbd8c3046fcd307f450c40c55abb581d",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Kruchości Żądzy",
+      "kr_sha256": "7ab13f2536cc4616029987cd2a4d562e6013765538d641d964980274f7347dc2",
+      "en_sha256": "4ce2fcd4f919e671f36036b33c8d3349d9073c04d85d633d56e335b34a365066",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 1 [Vulnerable]",
+      "kr_sha256": "996c034bb135021942bd6c8f960ce2da6b7c3703c1b81515a94e56b958afb22f",
+      "en_sha256": "adfdcc40b6d4f95dad69e8b7b6234d6c1dafc68e24e177a714369abcbc1b3c71",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] zyskuje 1 [Vulnerable]",
+      "kr_sha256": "399ceaa6a8de487cda8282907fa82aa103caf72451b0f449272abec3b44c5df5",
+      "en_sha256": "32a96e7605ffb10a4ce0c241c6efc2f0273e60bd1f78be133c694324a347ecf5",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=1].name": {
+      "pl": "Ya Śūnyatā Tad Rūpam",
+      "kr_sha256": "6b6d0eadff75aa51eda6b883fb6991e7db24e7c32d72cc36036c3b27df6cce7d",
+      "en_sha256": "909fe21eae661b5fb0b7cdfd302a92f55eca89333ad70a41167c99689ba16f0d",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=3].abName": {
+      "pl": "Wolę się Opróżnić",
+      "kr_sha256": "431f49d42256146bef82208002335a14c228820268c318c7575b7cb001d57aa2",
+      "en_sha256": "91a22cada51b386a9180bc8d7d16216dbbd8c3046fcd307f450c40c55abb581d",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Kruchości Żądzy",
+      "kr_sha256": "8ae60a61d9a2a72c0126958b3fb37531b7beeab894797d12b668c998d154d805",
+      "en_sha256": "2bde7e1e26ba326961b0bd152c848210b99da38e72708541e414916bb22c0644",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable]",
+      "kr_sha256": "e69c514ce0cbf6de03e2bc6c0fe5c1a5d0c53dc98c905afa41ed4dca8b3b3d4b",
+      "en_sha256": "ccf08ed2364a096752cdecff1598fef033a20111588689cb6edecfc32a5bf71c",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] zyskuje 2 [Vulnerable]",
+      "kr_sha256": "ad5755a287ad236a07caed3ef3134195bef76e282465bfcdf0056c0115d5b553",
+      "en_sha256": "86069c5b6c7f8dca4c3751c0b48846ac417294283ff23b6bfbd6125ddb61aee6",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] nakłada 1 [Enhancement] na 2 innych losowych sojuszników",
+      "kr_sha256": "b568b15172f9411ff4df5f14675bfaba71f83dd9a4e7899a1908f5a2fe848f82",
+      "en_sha256": "f9085813c3c6364845255340a21787992af27871685cc93e9fa9766b9c02db40",
+      "origin": "ai"
+    },
+    "dataList[id=2110321].levelList[level=3].name": {
+      "pl": "Ya Śūnyatā Tad Rūpam",
+      "kr_sha256": "6b6d0eadff75aa51eda6b883fb6991e7db24e7c32d72cc36036c3b27df6cce7d",
+      "en_sha256": "909fe21eae661b5fb0b7cdfd302a92f55eca89333ad70a41167c99689ba16f0d",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=1].abName": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] następnej tury nakłada 2 [Binding]",
+      "kr_sha256": "93f91eef6adc9b4b32380a94a9a9425c75b36c4db04d20a7534c58d261b893e5",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] wywołuje [VibrationExplosion]",
+      "kr_sha256": "b67822cba92d6fcc1f75f7bde073ecd794d12dc94a9710a211bff75f02ac8ae3",
+      "en_sha256": "c1f069c1330dabad8a4f93709aa341e6778c0567e74a029b5f5b5444ffbdb51d",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje +4 Licznika [Breath]",
+      "kr_sha256": "611b5de303bccb7d97f82a25ce70c9113d108962193be169932579518b61373f",
+      "en_sha256": "ce28c4ddd1f97d27d50ec088894b2f07b9d33c671e37ea55414c7ae5db69ed1e",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=1].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=3].abName": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Sinking]",
+      "kr_sha256": "13266d0932e641d7738a434892958e88758ba0fd26e41951bd8410d790180eee",
+      "en_sha256": "f5095780d80269c47e7d902b7457b63ee6962b90c6a38c0f0a89e5408f394f86",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] następnej tury nakłada 2 [Binding]",
+      "kr_sha256": "93f91eef6adc9b4b32380a94a9a9425c75b36c4db04d20a7534c58d261b893e5",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] wywołuje [VibrationExplosion]; nakłada +2 Licznika [Sinking]",
+      "kr_sha256": "202dd2ba171bfc1edc38bae10df771d75ba9a8beb200147a2dc76374531121de",
+      "en_sha256": "4b07cca8fb970d3ecc05a7d3a938e6d1a9f02acf3f9bbecb0fdd51e8d2adee6f",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] zyskuje +6 Licznika [Breath]",
+      "kr_sha256": "47ef986ef76c19573c611b7f95fafd5144067e539f7a689b8f4fba949b317fdc",
+      "en_sha256": "7708320759ad66693d19a9b3e8936b47f5afe79f9f89d192dcbdd36086a27620",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=3].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=4].abName": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 Zatonięcia",
+      "kr_sha256": "726dc34f0f0bb08c17fa3f7bacdac748f5d026a43351a76d87df8ee0b46d967b",
+      "en_sha256": "a4fd0da2f8de629762d04308f669dc493c40d06ac3981923390bb7c70ff2613b",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] wywołuje [VibrationExplosion]; nakłada +3 Licznika [Sinking]",
+      "kr_sha256": "75448f3f64807ffdef99a2433d2ea81a0ff77a6849d561f766939e5d72b99dec",
+      "en_sha256": "eb00bbb30689120ddc80f2644dd758fb267032a4669fd37bc972b80d8416a1d2",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje +7 Licznika [Breath]",
+      "kr_sha256": "81dd1355cd592c9beb42a1651156cd68af2f765b537cca8ec57adc8b1767d667",
+      "en_sha256": "c74b91261ec53336a502bfad150fcd2760535d254456d456c6449ceeba4b01ae",
+      "origin": "ai"
+    },
+    "dataList[id=2110411].levelList[level=4].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=1].abName": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] następnej tury nakłada 2 [Binding]",
+      "kr_sha256": "93f91eef6adc9b4b32380a94a9a9425c75b36c4db04d20a7534c58d261b893e5",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[CriticalOnSucceedAttack] wywołuje [VibrationExplosion]",
+      "kr_sha256": "b67822cba92d6fcc1f75f7bde073ecd794d12dc94a9710a211bff75f02ac8ae3",
+      "en_sha256": "c1f069c1330dabad8a4f93709aa341e6778c0567e74a029b5f5b5444ffbdb51d",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\n[BeforeAttack] zyskuje +5 Licznika [Breath]",
+      "kr_sha256": "07fc58892e2acccf0d20428eb7b279b56fc95523c445ba5177667282968b824d",
+      "en_sha256": "8dd6c572709568035b3d26c62226523666f88860b9855ca3d31fb99cdb22e309",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=1].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].abName": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 [Sinking]",
+      "kr_sha256": "13266d0932e641d7738a434892958e88758ba0fd26e41951bd8410d790180eee",
+      "en_sha256": "f5095780d80269c47e7d902b7457b63ee6962b90c6a38c0f0a89e5408f394f86",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Rozdarcia",
+      "kr_sha256": "ee730d99e0f716cf9881bf102b22c88957a6a1952a04891bd42367218e36cd4a",
+      "en_sha256": "8b1367ff62f67bd7be5e8cd4f61c8bc80eb6eaa0f84657c2a3285e3d246b0041",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] następnej tury nakłada 2 [Binding]",
+      "kr_sha256": "93f91eef6adc9b4b32380a94a9a9425c75b36c4db04d20a7534c58d261b893e5",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] wywołuje [VibrationExplosion]; nakłada +2 Licznika [Sinking] i Licznika [Burst]",
+      "kr_sha256": "c7f37d9e68db4b0f740158a9828a5de4778274eb5755d783a40e7b4529188848",
+      "en_sha256": "5cd0fd1d30b58ee44105cddc597304f7c9121180acd3c7a6627c3739c8e03930",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\n[BeforeAttack] zyskuje +7 Licznika [Breath]",
+      "kr_sha256": "2ccc8ecb7cbd82576122b82130d53068a1197d8e116cea699ee15a1ff46a739a",
+      "en_sha256": "915039ca6d5f6b12b3498d14a3013e077f0acdafc69f548d150e8072d45fca28",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=3].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].abName": {
+      "pl": "Błędny Lis",
+      "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
+      "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 Zatonięcia",
+      "kr_sha256": "726dc34f0f0bb08c17fa3f7bacdac748f5d026a43351a76d87df8ee0b46d967b",
+      "en_sha256": "a4fd0da2f8de629762d04308f669dc493c40d06ac3981923390bb7c70ff2613b",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Burst]",
+      "kr_sha256": "810cf50ca1c353d4f2fa47b04357819ea4902866447252a82a2c3ab8b4fa3448",
+      "en_sha256": "7f20798a4548facf9d767076a66cc6858a2134da8eda338637a3372c346446fe",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 3 Spętania",
+      "kr_sha256": "5265cf92eda24ee911a6d3b38417275b26d17d9c9d38bed374617f95581c76b4",
+      "en_sha256": "2cabb642d4d4ae34b6479ffe41f3b42eeac2c20de28780c8b73ebe60a48ba6bb",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[CriticalOnSucceedAttack] wywołuje [VibrationExplosion]; nakłada +3 Licznika [Sinking] i Licznika [Burst]",
+      "kr_sha256": "b84d16c4936cfac5ddd73d6e18d981cdc1b087d32f4208e1c1e1a1e5f23c81ac",
+      "en_sha256": "06cf50a3199ed3e64df306697a436ffeb0c774843540787de4a6e577b3f6e151",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najniższym HP\n[BeforeAttack] zyskuje +7 Licznika [Breath]",
+      "kr_sha256": "2ccc8ecb7cbd82576122b82130d53068a1197d8e116cea699ee15a1ff46a739a",
+      "en_sha256": "915039ca6d5f6b12b3498d14a3013e077f0acdafc69f548d150e8072d45fca28",
+      "origin": "ai"
+    },
+    "dataList[id=2110421].levelList[level=4].name": {
+      "pl": "Lisi Deszcz",
+      "kr_sha256": "a50877f53cd7a507d7359670d9e162146c3d6883b19ecdbbed8229eafc663143",
+      "en_sha256": "d89c1afc466c37903a5d9a5e0d4f240049214e8f588316389b013675ca5349d9",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=1].abName": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 wartości 1 losowego z efektów: [Combustion], [Laceration], [Vibration], [Burst] lub [Sinking]",
+      "kr_sha256": "97c80fcbe9d9120c6a0f531adf5df0e36f1cbded44be5de17e6d362f7c5f33ac",
+      "en_sha256": "0f5a1e7a70ba1218b8b8c8f9adefdd685eec9350887d81c79261d0616f19801a",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=1].name": {
+      "pl": "Nagle, Pewnego Dnia",
+      "kr_sha256": "c303f2dce694030c8e7ed51c9fef392475b94e113267c25cd6831134a5beb23f",
+      "en_sha256": "49a6181cc6c3df5f43e79f34d275e711c26de6b2e64a45da30bff0a84de87617",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=3].abName": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 wartości 1 losowego z efektów: [Combustion], [Laceration], [Vibration], [Burst] lub [Sinking]",
+      "kr_sha256": "30b6d2d1206e70d5f95022b1e1b47041e7749512d3c3f46927ed0f6ea7b11196",
+      "en_sha256": "c6a72751e7aff01675e13afbaea0e12c519d2057e46fa82089e72f3588a86abd",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=3].name": {
+      "pl": "Nagle, Pewnego Dnia",
+      "kr_sha256": "c303f2dce694030c8e7ed51c9fef392475b94e113267c25cd6831134a5beb23f",
+      "en_sha256": "49a6181cc6c3df5f43e79f34d275e711c26de6b2e64a45da30bff0a84de87617",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=4].abName": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 wartości 1 losowego z efektów: [Combustion], [Laceration], [Vibration], [Burst] lub [Sinking]",
+      "kr_sha256": "b9bf1abc552591379f4ed2a631edbece6b0e8b2c396d77befb98cb386c33b216",
+      "en_sha256": "d15f5c790aa9da3efa8e00de090754a33abaec12bfe23dda2660b14aaa646b0e",
+      "origin": "ai"
+    },
+    "dataList[id=2120111].levelList[level=4].name": {
+      "pl": "Nagle, Pewnego Dnia",
+      "kr_sha256": "c303f2dce694030c8e7ed51c9fef392475b94e113267c25cd6831134a5beb23f",
+      "en_sha256": "49a6181cc6c3df5f43e79f34d275e711c26de6b2e64a45da30bff0a84de87617",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=1].abName": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "4e1c6c99d03c2bf80de804b9924b6009e4d23bf3d2e60867cd4b174d48d6e6ff",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Paralysis]",
+      "kr_sha256": "798598ef12daa84352d0e9ef2fdf94ec0e95b6d5338d5288397d2450c48f6b84",
+      "en_sha256": "5370702091a054f4bc5a0c4bee789900b0c853d2a2d5309b030d1b037c85f5dd",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=1].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=3].abName": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Wstrząsu",
+      "kr_sha256": "ed7f2cde815d2d5cb69d23b9778d5d57dea5dee23ae7548f1dc411cf4c894ff7",
+      "en_sha256": "a94f42b5896e04117813907308dfef524e933ff403e0f52c4e65f837a63f377f",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 4 [Paralysis]",
+      "kr_sha256": "9d2f3ee33de0fd5071245ae5e2a6076993d667cd21cac4be6a775dd2c62473cb",
+      "en_sha256": "6e647f6ab4a7d996acfe84f5b5f91b381eab7c5a1b9b3c0122a40f259611c803",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=3].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=4].abName": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wybuch Wstrząsu",
+      "kr_sha256": "64cc48995e3107d11c01affb3271d248bdd3430bfb0ab32211c14e0c24f24d6a",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 6 [Vibration]",
+      "kr_sha256": "a24de5d9e33a664c599f547be8501bac15e7d6378367ffa4294ba9d9342f5075",
+      "en_sha256": "87fd31ef94e2f1d1e6399d44caee091d96979065778c235b20d6d0104a38d5da",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Paralysis]",
+      "kr_sha256": "2a92e3ab74d4b23bdfd475577593c0354dc61c7de5517ed62b21ed79c5b50961",
+      "en_sha256": "b1d5ad82edff88f1ebea198679c3e1dfe4468eee92f2a0a3fdcd9aa72ee91f72",
+      "origin": "ai"
+    },
+    "dataList[id=2120211].levelList[level=4].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=1].abName": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Paralysis]",
+      "kr_sha256": "798598ef12daa84352d0e9ef2fdf94ec0e95b6d5338d5288397d2450c48f6b84",
+      "en_sha256": "5370702091a054f4bc5a0c4bee789900b0c853d2a2d5309b030d1b037c85f5dd",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=1].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=3].abName": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Krwawienia",
+      "kr_sha256": "1458d28d818061aa450eafe6b81b2cb52c7ec44c3e3130cd1b8b8a8e2ec8a9c9",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Paralysis]",
+      "kr_sha256": "2a92e3ab74d4b23bdfd475577593c0354dc61c7de5517ed62b21ed79c5b50961",
+      "en_sha256": "b1d5ad82edff88f1ebea198679c3e1dfe4468eee92f2a0a3fdcd9aa72ee91f72",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Muckworm]",
+      "kr_sha256": "52e5bdfce6b347c29bfff9dcafb958a5ff25a1be2b7a3b1eb91e297317c74081",
+      "en_sha256": "8342ebffca2d3b18c54f0651fbe243a0c82d84f9ebb1ff358cf7019e2420e8f5",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=3].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=4].abName": {
+      "pl": "Złociste Jabłko",
+      "kr_sha256": "b7f91ea7d70ed1e9516e77accae682818a73d313c516ce1db6c1d770dbe6fb45",
+      "en_sha256": "d7270ab860ace8e552323e951cde67f70e16d4b9018f64b8393aa01692c2016f",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 4 Krwawienia",
+      "kr_sha256": "1458d28d818061aa450eafe6b81b2cb52c7ec44c3e3130cd1b8b8a8e2ec8a9c9",
+      "en_sha256": "6e3550474ed25adc8098a219dffe454575a6ef9184d49cc2daf6ce47f4598b03",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Paralysis]",
+      "kr_sha256": "2a92e3ab74d4b23bdfd475577593c0354dc61c7de5517ed62b21ed79c5b50961",
+      "en_sha256": "b1d5ad82edff88f1ebea198679c3e1dfe4468eee92f2a0a3fdcd9aa72ee91f72",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Muckworm]",
+      "kr_sha256": "70c1ea9e227a6445ebc95e200314673b8fa51f4e7912db82192b04fa55a107aa",
+      "en_sha256": "7bdf3abdd1e970adc9c3ddad3d2a0c0dc363da03bbb2e6abe192ce06901bbe7d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2120221].levelList[level=4].name": {
+      "pl": "Kuglarstwo",
+      "kr_sha256": "ad93fd856c1c5aff95d1220f04393a886479391a9b965e1f3f01de4bca421939",
+      "en_sha256": "15bcd5fe5399237a94e7845fde199eebe474bf713a984dd61da60982876fe20d",
+      "origin": "ai"
+    },
+    "dataList[id=2120311].levelList[level=1].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2120311].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 40% zadanych obrażeń",
+      "kr_sha256": "684446047b1858a9fb0b76b04843b533f3c996bf182d1739fdd7b9253dec1c26",
+      "en_sha256": "2a54df4c873b8b1c858c181f67abccafb48a9eb0c4c482b3e128a814458b8952",
+      "origin": "ai"
+    },
+    "dataList[id=2120311].levelList[level=1].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2120311].levelList[level=3].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2120311].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 60% zadanych obrażeń",
+      "kr_sha256": "adb8bd26121df3710ef6cae3f7e02c9de2778ddda92f4f4d9e27bf6b0c4385bf",
+      "en_sha256": "7d73bd98494d98cd8c005edced71785d2491d7369b76d2dbfeda6d0c192b0590",
+      "origin": "ai"
+    },
+    "dataList[id=2120311].levelList[level=3].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=1].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 20% zadanych obrażeń",
+      "kr_sha256": "3771feb67b470920be52f096db9fcdee4c62be4bbb7c0fa34245ac308c8a9808",
+      "en_sha256": "2ed42458fcccdf3a463d15583fa685a2efd07f9f5103c725e64726aaf6cff208",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "4c4cd45fde3b343403b3bbb9b096e2b4bee30438066fee4bf78cf0ec55f17c26",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym HP",
+      "kr_sha256": "35c94d0cc15c8d09b1fe4e9304dce3fa14db715bbf4197db9c07cab1c8e10803",
+      "en_sha256": "126f60b64ca302d99b39dbecf56c4a7e1837f3b8492bfa4cef8cd1f617b77af5",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=1].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=3].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 30% zadanych obrażeń",
+      "kr_sha256": "8e786b33c3fe3f1cfe82456e4be658982e9de5a8c97045b987ecb8bc06800e42",
+      "en_sha256": "218e08ed385e2f423bb0395e88e4ed16f39b10bf2184628a9e364de59c14dcfd",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 5 Rozdarcia",
+      "kr_sha256": "7971523ac14b9bfe8564722ff067aab0b2c3d1aa87c28f2098e9ed54f7be5d96",
+      "en_sha256": "0c7c69e80e98343d281beaa95c4048b29bae880c7f9e1ad0416aba75b73a3d3f",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym HP",
+      "kr_sha256": "35c94d0cc15c8d09b1fe4e9304dce3fa14db715bbf4197db9c07cab1c8e10803",
+      "en_sha256": "126f60b64ca302d99b39dbecf56c4a7e1837f3b8492bfa4cef8cd1f617b77af5",
+      "origin": "ai"
+    },
+    "dataList[id=2120321].levelList[level=3].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=1].abName": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [EmittedCurrent]",
+      "kr_sha256": "4f5015f819bc446dc4a687397f2f60459a9b94cdf8c9f0e1fcc4b29501c4eab5",
+      "en_sha256": "ec8fa42d60001baa33e9ce319cb57e55cb699243af026d8c798f261d6cfb3f4c",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje +5 Licznika [Charge]",
+      "kr_sha256": "c4e89e546e509cd914a3e26b58b63df3a84511868c697b7030bfa0ed2439a47d",
+      "en_sha256": "b630ad6c7b7a9899373e17a2c92587333fcc10ac8b090ea3852acbd7dd4acb70",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=1].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=3].abName": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [EmittedCurrent]",
+      "kr_sha256": "d8104309efb9f6d46e7d6326405b9f6a8d68c671044eee344d095505e8356e42",
+      "en_sha256": "9774a2a8ff35870b6e4daa6973c0a134ed904bd633a27016aee3f1a561a0ab07",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] zyskuje +7 Licznika [Charge]",
+      "kr_sha256": "3c5297b46728e63103e424817f04122d4daaff4e28d53a67f25a776f2163bee8",
+      "en_sha256": "d43eb5f4b17922f0adda12d86b061c01efa6b0377f18f4f3e49e4e48fdad2e83",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=3].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=4].abName": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 15 [EmittedCurrent]",
+      "kr_sha256": "3f0eed49c0ff3b1ae0aa55e3bc8c2572c113a752f14a84f27b3eaf072fbe577b",
+      "en_sha256": "016c86059e4f545d1e28eb43a5c5f5565bfb93b8fa73893e1dcab7b51f896245",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje +10 Licznika [Charge]",
+      "kr_sha256": "bdea13e32a466d51e07fa025babe6dca337e6143ad48e23a428a96620f4b08e8",
+      "en_sha256": "67f369dae2aef35be7870b79c7fc25851f71573336cb8791058af5406e8204c9",
+      "origin": "ai"
+    },
+    "dataList[id=2120411].levelList[level=4].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=1].abName": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [EmittedCurrent] i +5 Licznika [Charge] celu",
+      "kr_sha256": "ae0a4b707482e98defd9b70c3098f5808572965693945f6250c30da0089397e3",
+      "en_sha256": "348231aa00191cfc17778fa2a263f795e8729e92029fbc587b414a6273445246",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\npriorytetowo atakuje jednostki posiadające [Charge]\n[BeforeAttack] zyskuje +5 Licznika [Charge]",
+      "kr_sha256": "b047ce5024647720d6f85b46eeb8a023b71d51c20bf566206586ba93d0ed89bf",
+      "en_sha256": "d507da8357abab249aaaea7741769ec2ff3bfc79deefa35a9c89e7752965563f",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=1].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=3].abName": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [EmittedCurrent] i +5 Licznika [Charge] celu",
+      "kr_sha256": "a8cbec52b14553a49cbc8517f9ee680587d59ee1a098f2d05f89857b9a9e21e0",
+      "en_sha256": "51d6c3c9547be107b66e91582a4c6e65141022d846dfa815f0887c8adf60c93c",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\npriorytetowo atakuje jednostki posiadające [Charge]\n[BeforeAttack] zyskuje +7 Licznika [Charge]",
+      "kr_sha256": "9011c98d2fd9a7747471d04eecf57eec59ceaa43d1573f12e20047a5ac80d9ee",
+      "en_sha256": "97ec3df1838b151344ba0534f50c5770dba63766835501706376e25a5afb6a9e",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=3].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=4].abName": {
+      "pl": "Wstrząsowa Stonoga",
+      "kr_sha256": "566b3f75f6da44d7f4c72eb47cf485c2c8fbd3f82d66a7b9e7fb8e6082610db7",
+      "en_sha256": "118a965f744e7283ea63e1b048a7d62778dcebd1d6db9b6d7be7653125fa6c13",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 15 [EmittedCurrent] i +7 Licznika [Charge] celu",
+      "kr_sha256": "d91e11f6a441f2d28d32640b094e73e9472c396489ad1d53c51e2b5a51509060",
+      "en_sha256": "e5df6319bdfafcbc79be31401fbb63f3862d5a93cd56a0e32c39d64957fcdf97",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\npriorytetowo atakuje jednostki posiadające [Charge]\n[BeforeAttack] zyskuje +10 Licznika [Charge]",
+      "kr_sha256": "e8e919fd374532b616b4aef9a20589ab60cad49b50e857d81c3f574c3b47f8a0",
+      "en_sha256": "d90ba2acbb385d7481254092033f93f36407f116b93e09852379a84ff66a6f6d",
+      "origin": "ai"
+    },
+    "dataList[id=2120421].levelList[level=4].name": {
+      "pl": "AEDD",
+      "kr_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "en_sha256": "5c8fc32980dc2c25b87d5353f118a7dd30f443e8c9c0771faf87c3c7e3caa483",
+      "origin": "ai"
     }
   }
 }

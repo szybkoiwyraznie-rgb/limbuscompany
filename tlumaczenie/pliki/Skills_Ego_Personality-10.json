@@ -1,0 +1,1564 @@
+{
+  "entries": {
+    "dataList[id=2100411].levelList[level=1].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "4c4cd45fde3b343403b3bbb9b096e2b4bee30438066fee4bf78cf0ec55f17c26",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] leczy 2 sojuszników z najniższym aktualnym procentem HP o 10% Maks. HP.",
+      "kr_sha256": "644bf930abbedb9bbad7d0bb4b7dc380d078b3e4ba6bcf5781f56d34170da117",
+      "en_sha256": "901f618da43e5f4a47ae84cc5108c19ed6b79ea286695c5ba92ff32fec8a6c09",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=1].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=3].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "4c4cd45fde3b343403b3bbb9b096e2b4bee30438066fee4bf78cf0ec55f17c26",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] leczy 2 sojuszników z najniższym aktualnym procentem HP o 12% Maks. HP.",
+      "kr_sha256": "6195e6ba1838d919a7c347da2d733471d0f22873d0879ca56e810307ef95b80e",
+      "en_sha256": "00515ec14f825647c7f59cd385e69f4d5ce3a8d09a9874e5650447c57431795f",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] przy własnym HP niższym niż 50%, Waga Ataku +1",
+      "kr_sha256": "1e0db1c40843c0314950a641c6eaafc93190df4691143c5571984c0c556a6203",
+      "en_sha256": "ea635f6dad85644afcd221ffb172fb7a23232625d657931f7c643d95906d50d3",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=3].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=4].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 Rozdarcia",
+      "kr_sha256": "e59dade59d8d046842dda56dc1bb4fa658fa8e0412fc7db9677a49aab3a59d32",
+      "en_sha256": "da587981f0ca2a8daae97080635c6a404594603b800202e1785ff7f212f997cb",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] leczy 2 sojuszników z najniższym aktualnym procentem HP o 15% Maks. HP.",
+      "kr_sha256": "3caed7a448db36639cdbb3635ce7d2376c252e12c893effd6a7c8c0974b3ad3e",
+      "en_sha256": "b196b70262bf498910fc22ac68fe4412c836f160a6111cf5cb0d9c6f4be5d65b",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] przy własnym HP niższym niż 50%, Waga Ataku +2",
+      "kr_sha256": "5fced221b0a431c6eab7d9bf95f2c5c62bc311f78aa6f91f361c9d79c16bd3bc",
+      "en_sha256": "9344f0cc33493a6c4fbdc1766cdd394e3afa18b0641454f12fb6be5f106f1c6c",
+      "origin": "ai"
+    },
+    "dataList[id=2100411].levelList[level=4].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=1].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada +2 Licznika [Burst]",
+      "kr_sha256": "3065c211b32516d9652a34677aee5b0feae892e3819a04013a19dcbd80420761",
+      "en_sha256": "36894648599649f5a8b263f41bb46814eb1610191a5fb3912b142087d0c39963",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 30% zadanych obrażeń",
+      "kr_sha256": "bc510823dea8ed4a886759789cbf2aebb0a8517ffb4e52be6789b98eadcd3976",
+      "en_sha256": "e7bcb4668dd460d2089cf931d17418054b576503ff5933530340a96c74f5309a",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym HP",
+      "kr_sha256": "35c94d0cc15c8d09b1fe4e9304dce3fa14db715bbf4197db9c07cab1c8e10803",
+      "en_sha256": "3bb543ea8c72216502263742ef5fd8cdbcce210b8505e81f49cd09007dda9889",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=1].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=3].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada +3 Licznika [Burst]",
+      "kr_sha256": "7c53c90e8693b952dda3e80d821ba0bfcdada17c0d1173d910ed79b52de42bc9",
+      "en_sha256": "66da2f2dd361094415096e29df12ff153f985a6b7f2c64b7d86c597320d4bd53",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [DefenseDown]",
+      "kr_sha256": "5ad27721638acfa78369e081a6f8fb27f0966ae61493f27191f19cff1eb9d0e8",
+      "en_sha256": "38b481f53310abe7d03971ebd72b47220f29c06add7377523ad3e333c9cf8ee9",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 50% zadanych obrażeń",
+      "kr_sha256": "b5e4e2b200c895db4ac731651e6705924ab2b53733c942751247ffd5ac4c36ef",
+      "en_sha256": "959be77786d5094eadae33e54e31c01fb4480dd153d5bc97d3001df18a75f85c",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym HP\n[BeforeAttack] przy własnym HP niższym niż 50%, Waga Ataku +1",
+      "kr_sha256": "498f74cb8ccceae6670bc69c217a9a4ef3723b3bb79bc6750bcfd284649eb355",
+      "en_sha256": "e69888afdd12b4341c17aeb7c61113f423e678db360959afc5dc8086c2cb957b",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=3].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=4].abName": {
+      "pl": "Wróżkowa Latarnia",
+      "kr_sha256": "06be27870d47d95c115f66485cc10961834acb2e93bc75c4adc69bca0faeb1e3",
+      "en_sha256": "81a7f1cbc4c3618bfc4bc0b0955b6365bf1509103602564677f99064602fdc09",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik Rozdarcia o 3",
+      "kr_sha256": "54c53d9775387080838ea1ae8cfcc4493142066fa699231c34cc1cb37236028b",
+      "en_sha256": "def411e0029fc653c2c0d9ee156167cea89249559701b38167a7e48c350cfb28",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [DefenseDown]",
+      "kr_sha256": "cf9e26350b48e8d7393e36da9dd43ffee62f92ebb510d4df8aa8d7110333ec84",
+      "en_sha256": "bec2a18871ab0f306ee075b8b7678beedbb792e1558371ff19597d4808e65a03",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] leczy własne HP o 50% zadanych obrażeń",
+      "kr_sha256": "b5e4e2b200c895db4ac731651e6705924ab2b53733c942751247ffd5ac4c36ef",
+      "en_sha256": "959be77786d5094eadae33e54e31c01fb4480dd153d5bc97d3001df18a75f85c",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje cel z najwyższym HP\n[BeforeAttack] przy własnym HP niższym niż 50%, Waga Ataku +2",
+      "kr_sha256": "fc44b4b9b3653c17c906346913719cfe0cd51eb6d9cd22aa7849f9c9b02f545e",
+      "en_sha256": "d186a5ee8ee4aabd4cef54b62ea6d84db3dfaec22335dd99fc4d136786dfac60",
+      "origin": "ai"
+    },
+    "dataList[id=2100421].levelList[level=4].name": {
+      "pl": "Lampa",
+      "kr_sha256": "21c7d1822f86e863e6d8febe69cc4c08b8e488c59692c602a8ddf6dada84debb",
+      "en_sha256": "ee4b4532f4c4fc3628b33c3cfab34ee318fbbbde4d382b70c3f0649a5de39294",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=1].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie ma [Combustion], nakłada 4 Podpalenia",
+      "kr_sha256": "d4af42b5021622fd56c8fa26bf341cf6d67c9690fcbd5e6d9014da53a8949a04",
+      "en_sha256": "550c25b702900337b2aa73534d288414e28f80cf965c98ee3cff5c12959c4b62",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ccc26fe0b5d4897174a5cd7db2f63d0abec3cca84baa6b90a92e2e8c67534f54",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=1].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=3].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie ma [Combustion], nakłada 4 Podpalenia",
+      "kr_sha256": "d4af42b5021622fd56c8fa26bf341cf6d67c9690fcbd5e6d9014da53a8949a04",
+      "en_sha256": "550c25b702900337b2aa73534d288414e28f80cf965c98ee3cff5c12959c4b62",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ccc26fe0b5d4897174a5cd7db2f63d0abec3cca84baa6b90a92e2e8c67534f54",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=3].desc": {
+      "pl": "[BeforeAttack] przy 4+ (Rezonansie Żądzy) Waga Ataku +1",
+      "kr_sha256": "52ab1859f15ddc04fffa697d27c1bbe295f21f72f609e2184f4485af3b48ef08",
+      "en_sha256": "147fefc0e66f5e666f7eadbf066ea151087a78d84321680ceadd3e344fb5a40f",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=3].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=4].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie ma [Combustion], nakłada 4 Podpalenia",
+      "kr_sha256": "d4af42b5021622fd56c8fa26bf341cf6d67c9690fcbd5e6d9014da53a8949a04",
+      "en_sha256": "550c25b702900337b2aa73534d288414e28f80cf965c98ee3cff5c12959c4b62",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ccc26fe0b5d4897174a5cd7db2f63d0abec3cca84baa6b90a92e2e8c67534f54",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] jeżeli cel ma 10+ [Combustion], następnej tury nakłada 1 Redukcji Mocy Ataku i 1 Redukcji Mocy Obrony",
+      "kr_sha256": "7496f8e79ff8a68a28ee764591d7cdc67117207bd009dddeea3ae3304f985ee8",
+      "en_sha256": "55f168bd76b11e1355714efe821915316af57653a511f9f18a89dd022a01b766",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] przy 4+ (Rezonansie Żądzy) Waga Ataku +1\n[BeforeAttack] przy 4+ (najwyższym Rezonansie Absolutnym Żądzy) dodatkowo Waga Ataku +1",
+      "kr_sha256": "fa0161d6a7548c17d973e3985db23bbfe921bd9a8d3d0dcaa2d16c186b767bcf",
+      "en_sha256": "c7f57df3056fd063930d4b759dd9a0622a53e0834915cbcce468f03f54ab28f4",
+      "origin": "ai"
+    },
+    "dataList[id=2100511].levelList[level=4].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=1].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie ma [Combustion], nakłada 6 Podpalenia",
+      "kr_sha256": "be3a31ed067ef6c34838e0e7f20d44846d836f72abcc6df8cc3c56f0c442dafc",
+      "en_sha256": "2eb79363b3cb2f07706a117abe207453764f6afc635020b79193c51407964821",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ccc26fe0b5d4897174a5cd7db2f63d0abec3cca84baa6b90a92e2e8c67534f54",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=1].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=3].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie ma [Combustion], nakłada 6 Podpalenia",
+      "kr_sha256": "be3a31ed067ef6c34838e0e7f20d44846d836f72abcc6df8cc3c56f0c442dafc",
+      "en_sha256": "2eb79363b3cb2f07706a117abe207453764f6afc635020b79193c51407964821",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ccc26fe0b5d4897174a5cd7db2f63d0abec3cca84baa6b90a92e2e8c67534f54",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] jeżeli cel ma 10+ [Combustion], następnej tury nakłada 1 Kruchości Żądzy",
+      "kr_sha256": "c0d528af007ce4a7a25a90f19d89b1192860f8723f309ff0693dab4b20281676",
+      "en_sha256": "25b540472389403191e86b10e1a2b1ac5a61107b6a930c563f033c31bd8dbaf6",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy 4+ (Rezonansie Żądzy) Waga Ataku +1",
+      "kr_sha256": "129a5e18431502a17b3271b4a3a0c660eebed915b5c75ff4938709e5a38ec26a",
+      "en_sha256": "ccc717466af3ff122fe13b9570bb8a60699919c22ff41ba841474fdc20906980",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=3].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=4].abName": {
+      "pl": "Prorok Skóry",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel nie ma [Combustion], nakłada 6 Podpalenia",
+      "kr_sha256": "be3a31ed067ef6c34838e0e7f20d44846d836f72abcc6df8cc3c56f0c442dafc",
+      "en_sha256": "2eb79363b3cb2f07706a117abe207453764f6afc635020b79193c51407964821",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Podpalenia",
+      "kr_sha256": "9a97962897d3e54ea5a94834d0c784982c72c333d787d87842127df843d4c01c",
+      "en_sha256": "ccc26fe0b5d4897174a5cd7db2f63d0abec3cca84baa6b90a92e2e8c67534f54",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackTail] jeżeli cel ma 10+ [Combustion], następnej tury nakłada 2 Kruchości Żądzy",
+      "kr_sha256": "3027a1a6b19e25483ab202f83dfd846c1576db11e5bd2b57cf57d1406f12ce45",
+      "en_sha256": "e4a3cebc8660e3197d1eaae64d023836aa5a0096af7e32f3e5fa24550f255572",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy 4+ (Rezonansie Żądzy) Waga Ataku +1\n[BeforeAttack] przy 4+ (najwyższym Rezonansie Absolutnym Żądzy) dodatkowo Waga Ataku +1",
+      "kr_sha256": "11cd36d1e84e2f7e1860f7eb6faab707c9b2d8a647f59cf62a9146d9d3de3353",
+      "en_sha256": "dac1470759de191436b1aef8a4f20ff01e9e3f0a955229cd39d8187257a087d0",
+      "origin": "ai"
+    },
+    "dataList[id=2100521].levelList[level=4].name": {
+      "pl": "9:2",
+      "kr_sha256": "56a6d1a6ac8fe88e3baae5daa4a64b03ff609035f42b5bc9bcfdc7df0fdb0f1d",
+      "en_sha256": "61456c3ba4db5db7414a046a471fd6aee7719e68ce26e4f94664a0dbc9013ab7",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].abName": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndSkill] nakłada Tarczę równą 10% Maks. HP tej jednostki na siebie i 1 sojusznika z najniższym aktualnym HP oraz nakłada 2 [ShieldManagerCryingToad]",
+      "kr_sha256": "db2b4477717fe607832e00ce4c09f1ca932f44e628c86432a03b59ef7fd06242",
+      "en_sha256": "0623878ae5ee04cd38282e0d6b7c00cb9a9b12641701f68e0b63346488132e04",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "- przy najwyższym Rezonansie 4+ nakłada na 1 dodatkowego sojusznika",
+      "kr_sha256": "2089d93d7cc8ac553327749e03a553207b9768f96025326c61c8c67c4a31cde4",
+      "en_sha256": "c30c6750c8f20f3e52e4b5e48e2ab4699ceb64d54503cb547c1615cae7c8fdeb",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "- jeżeli wskazana jednostka ma już [ShieldManagerCryingToad], zmienia wartość [ShieldManagerCryingToad] na 2",
+      "kr_sha256": "21b0d237c99f6a6395ce4e28b1284a38266284d4215dc59d5f5387d2af2a93a5",
+      "en_sha256": "c13f1c79f00cf24695769bd41a7044a1698131e3442f886109f9df955d56971b",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "- przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe efekty tej Umiejętności zmieniają się odpowiednio na „nakłada 3 [ShieldManagerCryingToad]\" i „zmienia wartość [ShieldManagerCryingToad] na 3\"",
+      "kr_sha256": "dd58df7ca69ddfbe116048c05082bac972349b53ae7dd5d0cdf018208b85c622",
+      "en_sha256": "84e8371141c71dd97fbe505e2a67ebc14fe8afbf0f84c0226155c36375c7aa9e",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1",
+      "kr_sha256": "6ae9266f5286346e327b677b1b237fdf3d449edc197a9acc04fc4f39a960c615",
+      "en_sha256": "948e7e88455a326ad1582b0e1b6f9267f97fff050cd8a8acd73712d4a13d22d4",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=1].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=3].abName": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndSkill] nakłada Tarczę równą <style=\"highlight\">14%</style> Maks. HP tej jednostki na siebie i <style=\"highlight\">1+(najwyższy Rezonans - 2)</style> sojuszników z najniższym aktualnym HP oraz nakłada 2 [ShieldManagerCryingToad] <style=\"highlight\">(maks. liczba innych sojuszników zyskujących [ShieldManagerCryingToad]: 3)</style>",
+      "kr_sha256": "0bfd914b09af2da975b957d141d6ff0363ae6e780e3356dcde1d1a0ef2543fc6",
+      "en_sha256": "193759393a45f2a1e9fd209e255e3ff79e3fd57b666fa02dbfda95c42b9be85a",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "- jeżeli wskazana jednostka ma już [ShieldManagerCryingToad], zmienia wartość [ShieldManagerCryingToad] na 2<style=\"highlight\"></style>",
+      "kr_sha256": "8f7aa4a68e780496466ba6b3f90dfed27998c504cb3b57f674a606c88649ab0b",
+      "en_sha256": "6558f6041a3e7445a3d0bf441e7956da2a3e3dac8cf162b52c595d6da8d988c6",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "- przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe efekty tej Umiejętności zmieniają się odpowiednio na „nakłada 3 [ShieldManagerCryingToad]\" i „zmienia wartość [ShieldManagerCryingToad] na 3\"<style=\"highlight\"></style>",
+      "kr_sha256": "bcc7bbb0c56a805a1a6e39bfc0c09597a76c257d9ab9a5a65a924deb363df7bd",
+      "en_sha256": "f42ed3a68b70f5e4134f6927f918d70e21e1de09d60646cb001a83477a3a89f2",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">[BeforeAttack] zyskuje (najwyższy Rezonans - 2) Wagi Ataku (maks. 2)</style>",
+      "kr_sha256": "49884438d90c5e73c567e4393e2b67a7582a82e4da57c97113d9e4310f4e1395",
+      "en_sha256": "e8494328bbae274c2638956dd8729e913d4f507e00bd7282231e19b24aa44998",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=3].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=4].abName": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[EndSkill] nakłada Tarczę równą <style=\"highlight\">20%</style> Maks. HP tej jednostki na siebie i 1+(najwyższy Rezonans - 2) sojuszników z najniższym aktualnym HP oraz nakłada 2 [ShieldManagerCryingToad] (maks. liczba innych sojuszników zyskujących [ShieldManagerCryingToad]: 3)",
+      "kr_sha256": "c78dfe6f6d2a62f0e2aaa546a34d24ee39ad81d2edcf88281f99c19dfbd25906",
+      "en_sha256": "3183dffee8f79dfcb4368e8f8a06251d0826e8a7412afddb6d06f9190e1e59f2",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "- jeżeli wskazana jednostka ma już [ShieldManagerCryingToad], zmienia wartość [ShieldManagerCryingToad] na 2<style=\"highlight\"></style>",
+      "kr_sha256": "8f7aa4a68e780496466ba6b3f90dfed27998c504cb3b57f674a606c88649ab0b",
+      "en_sha256": "6558f6041a3e7445a3d0bf441e7956da2a3e3dac8cf162b52c595d6da8d988c6",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "- przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe efekty tej Umiejętności zmieniają się odpowiednio na „nakłada 3 [ShieldManagerCryingToad]\" i „zmienia wartość [ShieldManagerCryingToad] na 3\"<style=\"highlight\"></style>",
+      "kr_sha256": "bcc7bbb0c56a805a1a6e39bfc0c09597a76c257d9ab9a5a65a924deb363df7bd",
+      "en_sha256": "f42ed3a68b70f5e4134f6927f918d70e21e1de09d60646cb001a83477a3a89f2",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższy Rezonans - 2) Wagi Ataku (maks. 2)<style=\"highlight\"></style>",
+      "kr_sha256": "80b364446c829fb0fdd18ae1771264f3cf321374171d022a34033f707d6841d5",
+      "en_sha256": "736530695b7cf669cdcbeff18abf794ed5be9ea64ad4295f1ce049da92fe36fa",
+      "origin": "ai"
+    },
+    "dataList[id=2100611].levelList[level=4].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].abName": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]",
+      "kr_sha256": "982121e92809999f828c0d619db035db4ebe83f50f01205acafe4ae16faccadc",
+      "en_sha256": "0c2bb3834680c86c334a37c52447b0ec1901ea1ec0d69aab722e36a47d4b891f",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] nakłada na siebie Tarczę równą (15 + najwyższy Rezonans x 2.5)% Maks. HP tej jednostki i zyskuje 2 [ShieldManagerCryingToad]. (maks. 25%)",
+      "kr_sha256": "b71caa04d036e0464cf1af451289c3871ff9ff802cafce19708657e0e4ba9ac5",
+      "en_sha256": "1b49b9c9c29aa0f51d8d7afdf6f4f74be6032c40fc2822a53ec6ca164979ee70",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "- jeżeli ta jednostka ma już [ShieldManagerCryingToad], zmienia wartość [ShieldManagerCryingToad] na 2",
+      "kr_sha256": "9c88116d67e45266871ddc248d93c1fd4552dd1acbefbe6c228749e2289c7b12",
+      "en_sha256": "1f80b6a2d92e27e7c17fa2048407b5369963b955c1050abe775fb54dae08eae3",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "- przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe efekty tej Umiejętności zmieniają się odpowiednio na „zyskuje 3 [ShieldManagerCryingToad]\" i „zmienia wartość [ShieldManagerCryingToad] na 3\"",
+      "kr_sha256": "dd58df7ca69ddfbe116048c05082bac972349b53ae7dd5d0cdf018208b85c622",
+      "en_sha256": "a7965d60a02ecdf8d7d4923f960698d8a47819110ed5bf16d24cfc60a738c2f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy najwyższym Rezonansie 4+ Waga Ataku +1\n[BeforeAttack] następnej tury zyskuje 5 [Aggro] na tym Slocie Umiejętności",
+      "kr_sha256": "1c243558de68d20f321258597fef2352974a88044584d59134816f58796af595",
+      "en_sha256": "dfef1073b48fd6e654340e17429b00240a64b531cf2a814efab7d77a0423637e",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=1].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].abName": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "e890a503fdf2b219b0e363a10a66f9e2fbe2f36f292e4889d1e793125ccc56c5",
+      "en_sha256": "36590a0a5eccf42297a33337e827163e0c2133c12ef28c5c2a51d4d3eff62679",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] nakłada na siebie Tarczę równą (<style=\"highlight\">18</style> + najwyższy Rezonans x <style=\"highlight\">3</style>)% Maks. HP tej jednostki i zyskuje 2 [ShieldManagerCryingToad]. (maks. <style=\"highlight\">30%</style>)",
+      "kr_sha256": "67e797a5f3c62bbd554ffd792b7c259c86e8d1ee385b33d7e5f60e050771b80a",
+      "en_sha256": "57e0025043c087dce450eca096c80ea788a9466966f9e5f55671144b8e676f5a",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "- jeżeli ta jednostka ma już [ShieldManagerCryingToad], zmienia wartość [ShieldManagerCryingToad] na 2<style=\"highlight\"></style>",
+      "kr_sha256": "5a064f3c2d33fe4103d8f56a1f337a37fc2854f7f295dc5045fa0c56ded0d573",
+      "en_sha256": "fb292b9428fcd230553e0972cd931c22dcb90b6364bc217dcbc4bc296f59e20c",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "- przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe efekty tej Umiejętności zmieniają się odpowiednio na „nakłada 3 [ShieldManagerCryingToad]\" i „zmienia wartość [ShieldManagerCryingToad] na 3\"<style=\"highlight\"></style>",
+      "kr_sha256": "bcc7bbb0c56a805a1a6e39bfc0c09597a76c257d9ab9a5a65a924deb363df7bd",
+      "en_sha256": "f42ed3a68b70f5e4134f6927f918d70e21e1de09d60646cb001a83477a3a89f2",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">[BeforeAttack] zyskuje (najwyższy Rezonans - 2) Wagi Ataku (maks. 2)</style>\n[BeforeAttack] następnej tury zyskuje <style=\"highlight\">10 [Aggro]</style> na tym Slocie Umiejętności",
+      "kr_sha256": "1a18ec34afccdcb529763c852394a995403ad655964d7be3026e48a0d07bd5b4",
+      "en_sha256": "290b116aa33a4fe153831764999ca504ed0fab395571b6c9573f60897edeaa09",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=3].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].abName": {
+      "pl": "Szlochająca Ropucha",
+      "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
+      "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking] i <style=\"highlight\">3 Licznika [Sinking]</style>",
+      "kr_sha256": "71683fd39d08458345e1d758d6b897e77883e8561cb11c7d5fee60889207be5c",
+      "en_sha256": "526e9403c660fa2f7e40bbd1cc37499a6e56794335f319d100b0c0151495e751",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[EndSkill] nakłada na siebie Tarczę równą (<style=\"highlight\">20</style> + najwyższy Rezonans x <style=\"highlight\">5</style>)% Maks. HP tej jednostki i zyskuje 2 [ShieldManagerCryingToad]. (maks. <style=\"highlight\">40%</style>)",
+      "kr_sha256": "e8f2cb139c5b07a4fe6fa58a864570dbb92e3fc03cd4899a71f94546492283ce",
+      "en_sha256": "6792df1ed1c063eca132b7a1c2b5c379feb0c4f9381c808cec82c71901ffabff",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "- jeżeli ta jednostka ma już [ShieldManagerCryingToad], zmienia wartość [ShieldManagerCryingToad] na 2<style=\"highlight\"></style>",
+      "kr_sha256": "5a064f3c2d33fe4103d8f56a1f337a37fc2854f7f295dc5045fa0c56ded0d573",
+      "en_sha256": "fb292b9428fcd230553e0972cd931c22dcb90b6364bc217dcbc4bc296f59e20c",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "- przy 4+ (najwyższym Rezonansie Absolutnym Posępności) powyższe efekty tej Umiejętności zmieniają się odpowiednio na „nakłada 3 [ShieldManagerCryingToad]\" i „zmienia wartość [ShieldManagerCryingToad] na 3\"<style=\"highlight\"></style>",
+      "kr_sha256": "bcc7bbb0c56a805a1a6e39bfc0c09597a76c257d9ab9a5a65a924deb363df7bd",
+      "en_sha256": "f42ed3a68b70f5e4134f6927f918d70e21e1de09d60646cb001a83477a3a89f2",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "<style=\"highlight\">- przy Rezonansie Posępności 4+ dodatkowo nakłada na siebie Tarczę równą 10% Maks. HP tej jednostki</style>",
+      "kr_sha256": "2d25e21b7510399168c3a0da0f31e32d95285b6430be3b2a7b3b86012d6e66e7",
+      "en_sha256": "0c1c0bc2d75a4b66550d1e177326784031dcc875fc81c69f5db98d9bb72d5ebc",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje (najwyższy Rezonans - 2) Wagi Ataku (maks. 2)\n[BeforeAttack] następnej tury zyskuje 10 [Aggro] na tym Slocie Umiejętności<style=\"highlight\"></style>",
+      "kr_sha256": "db4e8a02270e583cbe81af84b77940a82ef4bb0325d353cbcd2e098bda1cbb0a",
+      "en_sha256": "bb949f256ac5fda6d5331be6c72982eea4961f2ad256883003a9a8d36d443c91",
+      "origin": "ai"
+    },
+    "dataList[id=2100621].levelList[level=4].name": {
+      "pl": "Niskie Ualenie",
+      "kr_sha256": "434b5b0325c2132d79360ecc312abfbc014e7ac64da7ec53629912643f188c04",
+      "en_sha256": "f2633adbcf823e95e999d13820b36808ab6d7d0b0e2487305e6a15425c9b6f8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=1].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 2 [Laceration]",
+      "kr_sha256": "f57b8d3c5003cf40bf19533198932431a07e5e8647f7ab0c01d8647b61c81116",
+      "en_sha256": "f8b2ecdf9efc30a8f16e03255f91b08d962add2a52be935933758f7b9adfbe3f",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]\n- dodatkowo nakłada 1 [Curse] za każde 3 negatywnych efektów na celu innych niż [Curse] i [NailPersonality] (maks. 2)",
+      "kr_sha256": "359642cbcf3dc0dc156794eec88b387ebe320e40e1c2f1fe4b86d93c678e1c02",
+      "en_sha256": "46a3ec3e9a8d4f1e337fdd0e97f450ce9bb30dbab10f3029c5f9bafd521f613f",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NailPersonality]",
+      "kr_sha256": "872bd327732df681f88e2b53d35bc8a85a8603bbd2fcac6652f8c970202ee488",
+      "en_sha256": "df32eb16278e018911530514e0c30a93acb1d3298e5423b2bf36e7ee690c084f",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=1].desc": {
+      "pl": "[EndSkill] jeżeli cel ma [Curse], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Curse] o 2",
+      "kr_sha256": "22419f31b8db79e90318398432ceddabab3274c18b5951da3e35a2e9005a0b6a",
+      "en_sha256": "380eb9142de733400e76038ddb258327bc22f5bb5e679515e80618f1b3204b97",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=1].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "1e2eca59f1237920ae642b56be4535a58b7785aaa2ed7f2f7593b8306f3b14c5",
+      "en_sha256": "20cf0db375f8b2cd9396716eb524921e26e5e9a8bef7db9fc312246b50eaf126",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]\n- dodatkowo nakłada 1 [Curse] za każde 3 negatywnych efektów na celu innych niż [Curse] i [NailPersonality] (maks. 2)<style=\"highlight\"></style>",
+      "kr_sha256": "47d53be0b808b9306924aa8e225f16c8143f8043ca366e94166fa56765f6e760",
+      "en_sha256": "ac5cdf7142cfbd500f0ef52af76c2f5b73bea921bff29af02129c7b0c2639ee2",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">3</style> [NailPersonality]",
+      "kr_sha256": "e9a8525eed9cc266f6b96ccf24f6c4ec55da47b951a42b7501e55454e8690db3",
+      "en_sha256": "3c9cd64605f4adb43de90c0ed779f052bd45448bd8f318ec76826d844ef7ccef",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttackHead] następnej tury nakłada 2 [Binding] (1 raz na turę)</style>",
+      "kr_sha256": "4a5154d7dae06621fb41ccb5e214d0c5530f2db4a35b7d8d7eefe863ef0ed751",
+      "en_sha256": "643c1dad723bf900d8865d5dcadaafd9745989492fa2ab8117f37f6a4b5818bf",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">[BeforeAttack] przy Rezonansie Zazdrości 4+ (wliczając tę Umiejętność), Waga Ataku +1</style>\n[EndSkill] jeżeli cel ma [Curse], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Curse] o 2",
+      "kr_sha256": "158d9c731cae3d9aab81a2adabf66b218ddb6becf713382c671ff45c0d01b9fc",
+      "en_sha256": "b90709850d29b9634c7d5145b30805feda286c6fa0756b648acf51aec3cbe012",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=3].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "1e2eca59f1237920ae642b56be4535a58b7785aaa2ed7f2f7593b8306f3b14c5",
+      "en_sha256": "20cf0db375f8b2cd9396716eb524921e26e5e9a8bef7db9fc312246b50eaf126",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Curse]\n- dodatkowo nakłada 1 [Curse] za każde <style=\"highlight\">2</style> negatywnych efektów na celu innych niż [Curse] i [NailPersonality] (maks. 2)",
+      "kr_sha256": "f86e6bbe61b1283c4a4b903e6c0b5e29b94821df3167ee66b765c8a21dc8b277",
+      "en_sha256": "4f55932fdf98b7ca76ff74e7277b6fe50f92be6035b9058ce0ca2633d2bd7238",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [NailPersonality]<style=\"highlight\"></style>",
+      "kr_sha256": "f1e1140768e33c5b70479f60f92875c1106502a06ea8214c4bfc9307f2fe60c0",
+      "en_sha256": "535d6b7e56908ce05413c3abb2f21f36f80ea41572523375d87398d02ba60632",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] jeżeli cel ma 4+ [Curse], nakłada 1 [ParryingResultDown] (1 raz na turę)</style>",
+      "kr_sha256": "b8c6261fb2e135a5a702263510eb2d65410eb2ecf0214e3987351db9d6279a1a",
+      "en_sha256": "6bc638aa4194481e60685397b5d530d12d0261b6b5d7be7beb0a41136389818b",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttackHead] następnej tury nakłada 2 [Binding] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "eb0edd9500420e4856445816b5ecca9c964b2a1f0dd4823370d35629048f7cdc",
+      "en_sha256": "43df58e7cf3f7283efd2cee042156cec640d4ffdabf51ccf096000eedc52ff04",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].desc": {
+      "pl": "<style=\"highlight\">[BeforeAttack] za każde 3 Rezonansu Zazdrości (wliczając tę Umiejętność), Waga Ataku +1 (maks. 2)</style>\n[EndSkill] jeżeli cel ma [Curse], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Curse] o 2",
+      "kr_sha256": "2917fdf677212021174963e867f6d735130c2e9f6c207b156bdadca2a0e380e2",
+      "en_sha256": "63c8c98c30287bb4a6548c36dc3b7a846d8b334b866a56859b827f727c3216ae",
+      "origin": "ai"
+    },
+    "dataList[id=2100711].levelList[level=4].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=1].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 2 [Laceration]",
+      "kr_sha256": "c1e362e4713900863cf7008c81fe7815981792526f1aa99272cbedeeafb17c16",
+      "en_sha256": "33891b2a4e6a7c59f1d0078d09963c89f47e65c813a80ee120cb5bff2830047f",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Curse]",
+      "kr_sha256": "7ce4fa24ef75468d6dff2dd97736d8d6edc047a901ffe81e412521e6dc3d1469",
+      "en_sha256": "50322cadde5adb3bf695baac04b0d5eeef0886896f48d964da966c217e9a5fc4",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [NailPersonality]",
+      "kr_sha256": "872bd327732df681f88e2b53d35bc8a85a8603bbd2fcac6652f8c970202ee488",
+      "en_sha256": "df32eb16278e018911530514e0c30a93acb1d3298e5423b2bf36e7ee690c084f",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] jeżeli cel ma [Curse], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Curse] o 2",
+      "kr_sha256": "dd708e2392dc2145d12f80f4e3c38e65ba69972603febccd14c11a3c46f03c36",
+      "en_sha256": "566e5fcf72b53ae473ab59815dec3d73050a631deefaafee5fd6a610133cbd89",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=1].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada <style=\"highlight\">3</style> [Laceration]",
+      "kr_sha256": "4406da8902d439f27fe88bb1a68548c33d4d561d8e46cf5b3c8683d0364f8a62",
+      "en_sha256": "1cc4ea3d051d651e634b30cc4fbc9295aa3a59f691cd3551bab804dd9c62e760",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Curse]<style=\"highlight\"></style>",
+      "kr_sha256": "2bc2873029a7ff3625d9215d348b9954dcb05f81b14be8a36d84e6ea1f3fb944",
+      "en_sha256": "f558f58ecdb71268af8ce2f9f0ee6112af22da83d500f4d68871240c71fadda2",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">3</style> [NailPersonality]",
+      "kr_sha256": "e9a8525eed9cc266f6b96ccf24f6c4ec55da47b951a42b7501e55454e8690db3",
+      "en_sha256": "3c9cd64605f4adb43de90c0ed779f052bd45448bd8f318ec76826d844ef7ccef",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttackTail] następnej tury nakłada 2 [Binding] (1 raz na turę)</style>",
+      "kr_sha256": "bf8c820c2bb2c64ae37320cf1e24d7a26dc37c85501336666f706e23676919fa",
+      "en_sha256": "3299a059264fd75385fdda09c069edeb979857489d4f877b62404e7d5ffdc2cd",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] jeżeli cel ma [Curse], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Curse] o 2<style=\"highlight\"></style>",
+      "kr_sha256": "85ad1f9e8169cc20a432e38095d4f7962138274165226b7f23ee6f64e0ac8e25",
+      "en_sha256": "4d776e93318516424f3218188f105473ee5e38cd70593da214699468c8fb4de3",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=3].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].abName": {
+      "pl": "Cierpiący Miś",
+      "kr_sha256": "14a99a294e85474d72b219c4567635c518c8f8f04550f8c0af82caeef9548763",
+      "en_sha256": "e059ad99b03a0630085070ef60ca7e23f9dd2731d3b0d72e01863e3cfd1f0bd9",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackTail] nakłada 3 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "8d04af44640588696a141567639cfafe083095b70444a17520fa9ac1a4a0c16c",
+      "en_sha256": "d85caacc3dbd6609ba2d192865093aaebbd2da1911fd0c5fe558386dce7bf5b1",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 [Curse]<style=\"highlight\"></style>",
+      "kr_sha256": "2bc2873029a7ff3625d9215d348b9954dcb05f81b14be8a36d84e6ea1f3fb944",
+      "en_sha256": "f558f58ecdb71268af8ce2f9f0ee6112af22da83d500f4d68871240c71fadda2",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [NailPersonality]<style=\"highlight\"></style>",
+      "kr_sha256": "f1e1140768e33c5b70479f60f92875c1106502a06ea8214c4bfc9307f2fe60c0",
+      "en_sha256": "535d6b7e56908ce05413c3abb2f21f36f80ea41572523375d87398d02ba60632",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] przy Rezonansie Zazdrości 4+ (wliczając tę Umiejętność), nakłada 1 [ParryingResultDown] (1 raz na turę)</style>",
+      "kr_sha256": "fbde1ea8463f306b4c7f09826e79e713f3b8b7ff66a7828bce27479d85142b6f",
+      "en_sha256": "e39882761af7ff9e6d5cd689d56895d67d806ca79e3a896a0aa105404c6327ee",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttackTail] następnej tury nakłada 2 [Binding] (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "cc5609220914a5fbec66d7d916b1dddb65bcc30eab8202e113fd1fde3fc9ab45",
+      "en_sha256": "d719293e581a4a85743780047a9d9a2c8cc82c5a19ae23184021bd7bfe04734a",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].coinlist[#1].coindescs[#4].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttackTail] następnej tury nakłada 2 [DefenseDown] (1 raz na turę)</style>",
+      "kr_sha256": "61c7e11eb7ae3224c2b8a9e2e14e800bafa75cfc9a123588a62ba72ed627b2e5",
+      "en_sha256": "4b111b16fc8a101145af2c17d24ae90c6e90de509fcd8994d682e52ad46bba86",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[EndSkill] jeżeli cel ma [Curse], natychmiast uruchamia jego efekt 2 razy i zmniejsza [Curse] o 2<style=\"highlight\"></style>",
+      "kr_sha256": "85ad1f9e8169cc20a432e38095d4f7962138274165226b7f23ee6f64e0ac8e25",
+      "en_sha256": "4d776e93318516424f3218188f105473ee5e38cd70593da214699468c8fb4de3",
+      "origin": "ai"
+    },
+    "dataList[id=2100721].levelList[level=4].name": {
+      "pl": "Gwóźdź Klątwy",
+      "kr_sha256": "c5dd98324b958bd4addae338a43ade39ec38201ad9870178baabf9652471c0d0",
+      "en_sha256": "8ba182266467481bf5c28c044081e5b291d3463e121c918ee10aa699d83361b4",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli aktualne HP tej jednostki jest poniżej 30% Maks. HP albo [YesdragonSelf] wynosi 20, ponownie używa tej Monety (1 raz na Umiejętność)",
+      "kr_sha256": "2af6888774753eb8dd0e41f1b0549167c70c4fc9fa905aa1199585d3b511c550",
+      "en_sha256": "8b7ca6a56c2ace1328d414c8ae47dd92e89e2116c23c831ad6df347640cafed7",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[ReUseOnSucceedAttack] zużywa całe własne HP, by zadawać +20% obrażeń tą Monetą (1 raz na turę)",
+      "kr_sha256": "c59a7b98d76a02dbe2cb274706080af6e999d552dcf3187c622856f4d9d62e09",
+      "en_sha256": "b0ccf8c88534193d6f807dd550c83a9e5fcd557ddadf31eabba54653e6251892",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje [YesdragonNodie]\n[BeforeAttack] zyskuje tyle [YesdragonSelf], ile wynosi Rezonans Obżarstwa (maks. 5)\n[BeforeAttack] otrzymuje (posiadane [YesdragonSelf] x 2) obrażeń HP\n- jeżeli przez ten efekt HP spadłoby poniżej progu Oszołomienia, ta jednostka nie zostaje Oszołamiona; zamiast tego usuwa próg Oszołomienia wyższy niż jej aktualne HP\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "bc01f9221539c6ac6038f97ce26374bf448a92b8537f57cf6938ba0c45ceba5d",
+      "en_sha256": "2f8f4ad8109f8f718501067df7fcb8ae2159112af9534a62243c7b90baebac8e",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=1].name": {
+      "pl": "Łzy Splamionej Krwi",
+      "kr_sha256": "2f5c800396e17c6626d584658ed857fea9886c027a5998ee49f113c2cd57e2ae",
+      "en_sha256": "6f46339009fcd4c6f20c7dd551d01dc0ea2fddaa6a9f3c4a15ddb4cc7ab3143e",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d61943245006ca447631a1ca6ca1918af01b2cfd9c454c49a01cc40ac31e7572",
+      "en_sha256": "112ac83a90c9e66ed505a766eebdb137239d6d6f9e77ffcca3020c6e1494a565",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Burst]",
+      "kr_sha256": "8ee9af47a0a0762409c0248b3bfdd60592bb19f6beed1e9c5e1e911b41fdd7b5",
+      "en_sha256": "cd904b17f584557ce946705b271c0f6551dfadb3d00e00e9919d724075f1473c",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli aktualne HP tej jednostki jest poniżej 30% Maks. HP albo [YesdragonSelf] wynosi 20, ponownie używa tej Monety (1 raz na Umiejętność)<style=\"highlight\"></style>",
+      "kr_sha256": "fd376b4d577135e214e775992456d7faf6890e690edf40a6b054509d68d9eebd",
+      "en_sha256": "5d07022f32e7420b20b8ff608888c4a214480a87a1c2a95f3bd787c4c58c12cb",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[ReUseOnSucceedAttack] zużywa całe własne HP, by zadawać +20% obrażeń tą Monetą (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "e39cdc1146145e237f490336c2b0d4d0d266420694292b98ac95c1306bee3c0b",
+      "en_sha256": "5cf20a675cbc65b052c6384d8eebdf00ac3cfdcf442832753d5a7ad7ae23c115",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">przy 6+ [YesdragonSelf] Moc Monety +1</style>\n[StartBattle] zyskuje [YesdragonNodie]\n[BeforeAttack] zyskuje tyle [YesdragonSelf], ile wynosi Rezonans Obżarstwa (maks. 5)\n[BeforeAttack] otrzymuje (posiadane [YesdragonSelf] x 2) obrażeń HP\n- jeżeli przez ten efekt HP spadłoby poniżej progu Oszołomienia, ta jednostka nie zostaje Oszołamiona; zamiast tego usuwa próg Oszołomienia wyższy niż jej aktualne HP\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "ca50a47a7f8b56c2b7f61dae1a4b7c139a4632b0f5d34472bb0f4c731e8dc22c",
+      "en_sha256": "5ee1405291d4e0ed7ed2f0444e26f206260ea86f0c48efd7744c586c466accaa",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=3].name": {
+      "pl": "Łzy Splamionej Krwi",
+      "kr_sha256": "2f5c800396e17c6626d584658ed857fea9886c027a5998ee49f113c2cd57e2ae",
+      "en_sha256": "6f46339009fcd4c6f20c7dd551d01dc0ea2fddaa6a9f3c4a15ddb4cc7ab3143e",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d61943245006ca447631a1ca6ca1918af01b2cfd9c454c49a01cc40ac31e7572",
+      "en_sha256": "112ac83a90c9e66ed505a766eebdb137239d6d6f9e77ffcca3020c6e1494a565",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">zadaje +1% obrażeń za każde 2% brakującego HP (maks. 40%)</style>",
+      "kr_sha256": "06a0c950a17d236bc372b2a67412b66e6aeaf1a9d13b0281234d22abd21c3195",
+      "en_sha256": "9f2d7583cf0cdd1d152359d631af0e9452dabd3e26679cb95aeb955daca7059a",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "3415f686b5104d86993d4dbcfff3ee3a5fbd6760dc9e88a311fd6d6e8ef3d30d",
+      "en_sha256": "82c96353b4bb0d99e7b301680031cb21da7ef905bfa748b8691d4a335eb098b6",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli aktualne HP tej jednostki jest poniżej 30% Maks. HP albo [YesdragonSelf] wynosi 20, ponownie używa tej Monety (1 raz na Umiejętność)<style=\"highlight\"></style>",
+      "kr_sha256": "fd376b4d577135e214e775992456d7faf6890e690edf40a6b054509d68d9eebd",
+      "en_sha256": "5d07022f32e7420b20b8ff608888c4a214480a87a1c2a95f3bd787c4c58c12cb",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].coinlist[#1].coindescs[#3].desc": {
+      "pl": "[ReUseOnSucceedAttack] zużywa całe własne HP, by zadawać +20% obrażeń tą Monetą (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "e39cdc1146145e237f490336c2b0d4d0d266420694292b98ac95c1306bee3c0b",
+      "en_sha256": "5cf20a675cbc65b052c6384d8eebdf00ac3cfdcf442832753d5a7ad7ae23c115",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].desc": {
+      "pl": "<style=\"highlight\">Moc Monety +1 za każde 6 [YesdragonSelf] na tej jednostce (maks. 3)</style>\n[StartBattle] zyskuje [YesdragonNodie]\n[BeforeAttack] zyskuje tyle [YesdragonSelf], ile wynosi Rezonans Obżarstwa (maks. 5)\n[BeforeAttack] otrzymuje (posiadane [YesdragonSelf] x 2) obrażeń HP\n- jeżeli przez ten efekt HP spadłoby poniżej progu Oszołomienia, ta jednostka nie zostaje Oszołamiona; zamiast tego usuwa próg Oszołomienia wyższy niż jej aktualne HP\n[EndSkill] przez 3 tury traci 10 SP na koniec tury",
+      "kr_sha256": "e0e473ff1bfd27797a1ecb7d2a7b280312c5bf78c4826defe3ac2ffc62d7e523",
+      "en_sha256": "063978f42254cef863542a342f421aec889c91e929fc9682ca8f52cbe292b1ba",
+      "origin": "ai"
+    },
+    "dataList[id=2100811].levelList[level=4].name": {
+      "pl": "Łzy Splamionej Krwi",
+      "kr_sha256": "2f5c800396e17c6626d584658ed857fea9886c027a5998ee49f113c2cd57e2ae",
+      "en_sha256": "6f46339009fcd4c6f20c7dd551d01dc0ea2fddaa6a9f3c4a15ddb4cc7ab3143e",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]",
+      "kr_sha256": "39f67fc5f5d4342fb415340cdd4626ad1246f162511f9b3821ecd1f36ed6c6f0",
+      "en_sha256": "a1048fb0647c457d1476c47812ae2b1cb464222aafe13c46abd9636c3be02d7a",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Burst]",
+      "kr_sha256": "979818325d61da69db39fbd68d49ce14bf4fb4f6519d24a93a7c584e9c061781",
+      "en_sha256": "6a691c8c776c7a2cbec13e2bf5e7db9a0cad8e5a9cd92680f33fd55fc157eb35",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli aktualne HP tej jednostki jest poniżej 30% Maks. HP albo [YesdragonSelf] wynosi 20, ponownie używa tej Monety (1 raz na Umiejętność)",
+      "kr_sha256": "2af6888774753eb8dd0e41f1b0549167c70c4fc9fa905aa1199585d3b511c550",
+      "en_sha256": "8b7ca6a56c2ace1328d414c8ae47dd92e89e2116c23c831ad6df347640cafed7",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[ReUseOnSucceedAttack] zużywa całe własne HP, by zadawać +20% obrażeń tą Monetą (1 raz na turę)",
+      "kr_sha256": "c59a7b98d76a02dbe2cb274706080af6e999d552dcf3187c622856f4d9d62e09",
+      "en_sha256": "b0ccf8c88534193d6f807dd550c83a9e5fcd557ddadf31eabba54653e6251892",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[StartBattle] zyskuje [YesdragonNodie]\n[BeforeAttack] zyskuje (Rezonans Obżarstwa + 4) [YesdragonSelf] (maks. 10)\n[BeforeAttack] otrzymuje (posiadane [YesdragonSelf] x 2) obrażeń HP\n- jeżeli przez ten efekt HP spadłoby poniżej progu Oszołomienia, ta jednostka nie zostaje Oszołamiona; zamiast tego usuwa próg Oszołomienia wyższy niż jej aktualne HP",
+      "kr_sha256": "d23331e0e9ed7578269ef7924f31594b41463ff5e1678c33c1874336d2510a0c",
+      "en_sha256": "c11a8043de937555ed727e047aee2474d437f65103919137e943729d34c5f28e",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=1].name": {
+      "pl": "Łzy Splamionej Krwi",
+      "kr_sha256": "2f5c800396e17c6626d584658ed857fea9886c027a5998ee49f113c2cd57e2ae",
+      "en_sha256": "6f46339009fcd4c6f20c7dd551d01dc0ea2fddaa6a9f3c4a15ddb4cc7ab3143e",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d61943245006ca447631a1ca6ca1918af01b2cfd9c454c49a01cc40ac31e7572",
+      "en_sha256": "112ac83a90c9e66ed505a766eebdb137239d6d6f9e77ffcca3020c6e1494a565",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Burst]",
+      "kr_sha256": "8ee9af47a0a0762409c0248b3bfdd60592bb19f6beed1e9c5e1e911b41fdd7b5",
+      "en_sha256": "cd904b17f584557ce946705b271c0f6551dfadb3d00e00e9919d724075f1473c",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli aktualne HP tej jednostki jest poniżej 30% Maks. HP albo [YesdragonSelf] wynosi 20, ponownie używa tej Monety (1 raz na Umiejętność)<style=\"highlight\"></style>",
+      "kr_sha256": "fd376b4d577135e214e775992456d7faf6890e690edf40a6b054509d68d9eebd",
+      "en_sha256": "5d07022f32e7420b20b8ff608888c4a214480a87a1c2a95f3bd787c4c58c12cb",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[ReUseOnSucceedAttack] zużywa całe własne HP, by zadawać +20% obrażeń tą Monetą (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "e39cdc1146145e237f490336c2b0d4d0d266420694292b98ac95c1306bee3c0b",
+      "en_sha256": "5cf20a675cbc65b052c6384d8eebdf00ac3cfdcf442832753d5a7ad7ae23c115",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">przy 10+ [YesdragonSelf] Moc Bazowa +1</style>\n[StartBattle] zyskuje [YesdragonNodie]\n[BeforeAttack] zyskuje (Rezonans Obżarstwa + 4) [YesdragonSelf] (maks. 10)\n[BeforeAttack] otrzymuje (posiadane [YesdragonSelf] x 2) obrażeń HP\n- jeżeli przez ten efekt HP spadłoby poniżej progu Oszołomienia, ta jednostka nie zostaje Oszołamiona; zamiast tego usuwa próg Oszołomienia wyższy niż jej aktualne HP",
+      "kr_sha256": "5d0461c0220ea164b6f7bad8ed60c9aeaf0a3092bf3200ca3f6c458c0827528d",
+      "en_sha256": "38785ce11b0dc0e6ae137848e81c7fe571331d3a0fa7c360232216daf0ab2579",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=3].name": {
+      "pl": "Łzy Splamionej Krwi",
+      "kr_sha256": "2f5c800396e17c6626d584658ed857fea9886c027a5998ee49f113c2cd57e2ae",
+      "en_sha256": "6f46339009fcd4c6f20c7dd551d01dc0ea2fddaa6a9f3c4a15ddb4cc7ab3143e",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].abName": {
+      "pl": "Yinglong",
+      "kr_sha256": "7b73d83fd936379747ed1d440ba2a8b2a10e1dc2726029d9392fa47e9f38b6a3",
+      "en_sha256": "69896453661f0245d44e4c4fa6164cf94fea987a687f773ad49146ca3e9bba09",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "d61943245006ca447631a1ca6ca1918af01b2cfd9c454c49a01cc40ac31e7572",
+      "en_sha256": "112ac83a90c9e66ed505a766eebdb137239d6d6f9e77ffcca3020c6e1494a565",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Burst]<style=\"highlight\"></style>",
+      "kr_sha256": "3415f686b5104d86993d4dbcfff3ee3a5fbd6760dc9e88a311fd6d6e8ef3d30d",
+      "en_sha256": "82c96353b4bb0d99e7b301680031cb21da7ef905bfa748b8691d4a335eb098b6",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "<style=\"highlight\">zadaje +1% obrażeń za każde 2% brakującego HP (maks. 40%)</style>",
+      "kr_sha256": "06a0c950a17d236bc372b2a67412b66e6aeaf1a9d13b0281234d22abd21c3195",
+      "en_sha256": "9f2d7583cf0cdd1d152359d631af0e9452dabd3e26679cb95aeb955daca7059a",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli aktualne HP tej jednostki jest poniżej 30% Maks. HP albo [YesdragonSelf] wynosi 20, ponownie używa tej Monety (1 raz na Umiejętność)<style=\"highlight\"></style>",
+      "kr_sha256": "fd376b4d577135e214e775992456d7faf6890e690edf40a6b054509d68d9eebd",
+      "en_sha256": "5d07022f32e7420b20b8ff608888c4a214480a87a1c2a95f3bd787c4c58c12cb",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[ReUseOnSucceedAttack] zużywa całe własne HP, by zadawać +20% obrażeń tą Monetą (1 raz na turę)<style=\"highlight\"></style>",
+      "kr_sha256": "e39cdc1146145e237f490336c2b0d4d0d266420694292b98ac95c1306bee3c0b",
+      "en_sha256": "5cf20a675cbc65b052c6384d8eebdf00ac3cfdcf442832753d5a7ad7ae23c115",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">Moc Bazowa +1 za każde 10 [YesdragonSelf] na tej jednostce (maks. 2)</style>\n[StartBattle] zyskuje [YesdragonNodie]\n[BeforeAttack] zyskuje (Rezonans Obżarstwa + 4) [YesdragonSelf] (maks. 10)\n[BeforeAttack] otrzymuje (posiadane [YesdragonSelf] x 2) obrażeń HP\n- jeżeli przez ten efekt HP spadłoby poniżej progu Oszołomienia, ta jednostka nie zostaje Oszołamiona; zamiast tego usuwa próg Oszołomienia wyższy niż jej aktualne HP",
+      "kr_sha256": "96528ad022efe9dfec82f634540dc17b1ddc22f15ba94dbee3f18cdd592e92d6",
+      "en_sha256": "5eb107e2696d29638bd2a3c979176b0aa47790ed092bd452381d22116591e36d",
+      "origin": "ai"
+    },
+    "dataList[id=2100821].levelList[level=4].name": {
+      "pl": "Łzy Splamionej Krwi",
+      "kr_sha256": "2f5c800396e17c6626d584658ed857fea9886c027a5998ee49f113c2cd57e2ae",
+      "en_sha256": "6f46339009fcd4c6f20c7dd551d01dc0ea2fddaa6a9f3c4a15ddb4cc7ab3143e",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].abName": {
+      "pl": "Śpiewająca Maszyna",
+      "kr_sha256": "564425518399d09e29a01e20d531bf599d51d06e6d5ba11188942a4ead468a7c",
+      "en_sha256": "4c30fe32c3a03d75c2aa28ee57def82af8061b7929d79fd1fdd03b365de5c196",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] przy HP 10% lub wyższym, otrzymuje 4 ~ 8 obrażeń HP (1 raz na Monetę)\n- po czym ponownie używa tej Monety (maks. 4 razy na Umiejętność)\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1",
+      "kr_sha256": "83d7436a01bbc5737b6ecfa0f13941458231004eb2d4da280dbea161d1c1e73a",
+      "en_sha256": "a4b7aec82e302f183f9b71fb340226d2923b758e9a07616c3a12b4e81346fa9a",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#2].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttackHead] po zużyciu własnego HP, ponownie używa tej Monety",
+      "kr_sha256": "87c59b92aaccbbd5567395db7f14e39f9d37dcf295c8ad96bae9145afdacba8f",
+      "en_sha256": "62f3e09fbd93c0a8fd8df9dba0556d212dfc7f2689625a3fc2508f9206002710",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] 1 losowy sojusznik następnej tury zyskuje 1 [ThatIsRhythm] (1 raz na Monetę)",
+      "kr_sha256": "839c126069e6e8935b13b633c098b51dad299c2e939367064f1638e9e40607d6",
+      "en_sha256": "7473935d9913dc3212e0fa2ec977a7ddc6ff6bc0742ec88546119f070bf807bd",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].desc": {
+      "pl": "Moc Walki +1 za każde 2 (suma [Laceration] i [Combustion]) na celu głównym (maks. 6)\nzadaje więcej obrażeń w zależności od brakującego HP (maks. 10%)\nzadaje -50% obrażeń celom pobocznym\n[TargetKill] wszyscy sojusznicy następnej tury zyskują 2 [ThatIsRhythm] (1 raz na Umiejętność)\n[EndSkill] odzyskuje 8 SP dla (1 + najwyższy Rezonans) sojuszników z najniższym SP innych niż ta jednostka (maks. 4 jednostki)\n[EndSkill] przez 2 tury traci 8 SP na koniec walki",
+      "kr_sha256": "9d85a47273e97fd048adcc276f137b600a265e1ccc806dae9a808791fed08bfe",
+      "en_sha256": "994e75de575357d0fb5fe5356e2155d203395066b09d20f5df54a33dd8553463",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=1].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].abName": {
+      "pl": "Śpiewająca Maszyna",
+      "kr_sha256": "564425518399d09e29a01e20d531bf599d51d06e6d5ba11188942a4ead468a7c",
+      "en_sha256": "4c30fe32c3a03d75c2aa28ee57def82af8061b7929d79fd1fdd03b365de5c196",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] przy HP 10% lub wyższym, otrzymuje 4 ~ 8 obrażeń HP (1 raz na Monetę)\n- po czym ponownie używa tej Monety (maks. 4 razy na Umiejętność)\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1",
+      "kr_sha256": "83d7436a01bbc5737b6ecfa0f13941458231004eb2d4da280dbea161d1c1e73a",
+      "en_sha256": "a4b7aec82e302f183f9b71fb340226d2923b758e9a07616c3a12b4e81346fa9a",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#2].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttackHead] po zużyciu własnego HP, ponownie używa tej Monety",
+      "kr_sha256": "87c59b92aaccbbd5567395db7f14e39f9d37dcf295c8ad96bae9145afdacba8f",
+      "en_sha256": "62f3e09fbd93c0a8fd8df9dba0556d212dfc7f2689625a3fc2508f9206002710",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] 1 losowy sojusznik następnej tury zyskuje <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] (1 raz na Monetę)",
+      "kr_sha256": "f200bf6191281a51a2d63a680558fb4a8a4884b0c9d09c649df9a614f3598abe",
+      "en_sha256": "08592bc0ad121d6f8918141fc6d97e5848397164880fd3c736efe85104018339",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].desc": {
+      "pl": "Moc Walki +1 za każde 2 (suma [Laceration] i [Combustion]) na celu głównym (maks. <style=\"highlight\">8</style>)\nzadaje więcej obrażeń w zależności od brakującego HP (maks. <style=\"highlight\">15</style>%)\nzadaje -50% obrażeń celom pobocznym\n[TargetKill] wszyscy sojusznicy następnej tury zyskują 2 [ThatIsRhythm] (1 raz na Umiejętność)\n[EndSkill] odzyskuje <style=\"highlight\">10</style> SP dla (1 + najwyższy Rezonans) sojuszników z najniższym SP innych niż ta jednostka (maks. 4 jednostki)\n[EndSkill] przez 2 tury traci 8 SP na koniec walki",
+      "kr_sha256": "168bb4d10be832f80e2cb18b1c457a0c6c1af6bc8dab43b01601f19313a848c4",
+      "en_sha256": "b4eac485e1042bdef763eb7c4ebda1929d5b5ae03ff8a12cb0415b8ce1621853",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=3].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].abName": {
+      "pl": "Śpiewająca Maszyna",
+      "kr_sha256": "564425518399d09e29a01e20d531bf599d51d06e6d5ba11188942a4ead468a7c",
+      "en_sha256": "4c30fe32c3a03d75c2aa28ee57def82af8061b7929d79fd1fdd03b365de5c196",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] przy HP 10% lub wyższym, otrzymuje 4 ~ 8 obrażeń HP (1 raz na Monetę)\n- po czym ponownie używa tej Monety (maks. 4 razy na Umiejętność)\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1",
+      "kr_sha256": "83d7436a01bbc5737b6ecfa0f13941458231004eb2d4da280dbea161d1c1e73a",
+      "en_sha256": "a4b7aec82e302f183f9b71fb340226d2923b758e9a07616c3a12b4e81346fa9a",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#2].coindescs[#0].summary": {
+      "pl": "[OnSucceedAttackHead] po zużyciu własnego HP, ponownie używa tej Monety",
+      "kr_sha256": "87c59b92aaccbbd5567395db7f14e39f9d37dcf295c8ad96bae9145afdacba8f",
+      "en_sha256": "62f3e09fbd93c0a8fd8df9dba0556d212dfc7f2689625a3fc2508f9206002710",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] 1 losowy sojusznik następnej tury zyskuje 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] (1 raz na Monetę)",
+      "kr_sha256": "f4fdb6ae1dce9764f9bcfc59feb5a254df5652b005f7d4eacb7771581622888f",
+      "en_sha256": "f14a42dda949b4bb0391b447cc36e3dee1597f77d77726664f1835c003997b7b",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].desc": {
+      "pl": "Moc Walki +1 za każde 2 (suma [Laceration] i [Combustion]) na celu głównym (maks. <style=\"highlight\">10</style>)\nzadaje więcej obrażeń w zależności od brakującego HP (maks. <style=\"highlight\">20</style>%)\nzadaje -50% obrażeń celom pobocznym\n[TargetKill] wszyscy sojusznicy następnej tury zyskują 2 [ThatIsRhythm] (1 raz na Umiejętność)\n[EndSkill] odzyskuje <style=\"highlight\">12</style> SP dla (1 + najwyższy Rezonans) sojuszników z najniższym SP innych niż ta jednostka (maks. 4 jednostki)\n[EndSkill] przez 2 tury traci 8 SP na koniec walki",
+      "kr_sha256": "1d0627225ab7dbf4b10cb78d602c9f400e2bc8ee00b51226be9be13dd7af16f8",
+      "en_sha256": "d0e76fb2d371caeb3beb4375b3de4117a044623dcfa2aea81f2d29911e2911f2",
+      "origin": "ai"
+    },
+    "dataList[id=2100911].levelList[level=4].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].abName": {
+      "pl": "Śpiewająca Maszyna",
+      "kr_sha256": "564425518399d09e29a01e20d531bf599d51d06e6d5ba11188942a4ead468a7c",
+      "en_sha256": "4c30fe32c3a03d75c2aa28ee57def82af8061b7929d79fd1fdd03b365de5c196",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy HP 10% lub wyższym, otrzymuje 10 ~ 20 obrażeń HP (1 raz na Monetę)\n- po czym ponownie używa tej Monety, jeżeli suma HP zużytego przez ten efekt jest niższa niż 50 (maks. 4 razy na Umiejętność)\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1",
+      "kr_sha256": "fd027f821c0e02e0e365a888e574cf9aa04ae342acd43d29cdf0c7de7365badd",
+      "en_sha256": "6049e037e4ea2af1b9015097c1461c63cc5703cba1d9876c2cbe9b03fea643d7",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#2].coindescs[#1].summary": {
+      "pl": "[OnSucceedAttack] zużywa własne HP\nponownie używa tej Monety, jeżeli warunki są spełnione",
+      "kr_sha256": "5f7e6ae9e10da0ff96fb6edad9317f302e5506f00e6ff23c0e5c1e7ca1ed5b40",
+      "en_sha256": "75708840e639c27416c54249864c9861be3e8cdad57c32aaa688d532bd11a360",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] 1 losowy sojusznik następnej tury zyskuje 1 [ThatIsRhythm] (1 raz na Monetę)",
+      "kr_sha256": "839c126069e6e8935b13b633c098b51dad299c2e939367064f1638e9e40607d6",
+      "en_sha256": "7473935d9913dc3212e0fa2ec977a7ddc6ff6bc0742ec88546119f070bf807bd",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Walki +1 za każde 2 (suma [Laceration] i [Combustion]) na celu głównym (maks. 6)\nzadaje więcej obrażeń w zależności od brakującego HP (maks. 10%)\nzadaje -50% obrażeń celom pobocznym\n[BeforeAttack] zyskuje Wagę Ataku równą (najwyższy Rezonans / 2) (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -2 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -6)\n[EndSkill] odzyskuje 10 SP dla 4 sojuszników z najniższym SP innych niż ta jednostka\n[EndSkill] wszyscy sojusznicy następnej tury zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable]\n- jeżeli cel został pokonany, uruchamia powyższy efekt jeszcze raz",
+      "kr_sha256": "6ca64fd930500bc0337f94fac239c88c764b0b2819b60b1ef875eb2bb8c92e55",
+      "en_sha256": "90d121090d5a4825a3f4fe6c2d89e4649f9a115fd5d8159115089d3d8ac16e25",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=1].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].abName": {
+      "pl": "Śpiewająca Maszyna",
+      "kr_sha256": "564425518399d09e29a01e20d531bf599d51d06e6d5ba11188942a4ead468a7c",
+      "en_sha256": "4c30fe32c3a03d75c2aa28ee57def82af8061b7929d79fd1fdd03b365de5c196",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy HP 10% lub wyższym, otrzymuje 10 ~ 20 obrażeń HP (1 raz na Monetę)\n- po czym ponownie używa tej Monety, jeżeli suma HP zużytego przez ten efekt jest niższa niż 50 (maks. 4 razy na Umiejętność)\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1",
+      "kr_sha256": "fd027f821c0e02e0e365a888e574cf9aa04ae342acd43d29cdf0c7de7365badd",
+      "en_sha256": "6049e037e4ea2af1b9015097c1461c63cc5703cba1d9876c2cbe9b03fea643d7",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#2].coindescs[#1].summary": {
+      "pl": "[OnSucceedAttack] zużywa własne HP\nponownie używa tej Monety, jeżeli warunki są spełnione",
+      "kr_sha256": "5f7e6ae9e10da0ff96fb6edad9317f302e5506f00e6ff23c0e5c1e7ca1ed5b40",
+      "en_sha256": "75708840e639c27416c54249864c9861be3e8cdad57c32aaa688d532bd11a360",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] 1 losowy sojusznik następnej tury zyskuje <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] (1 raz na Monetę)",
+      "kr_sha256": "f200bf6191281a51a2d63a680558fb4a8a4884b0c9d09c649df9a614f3598abe",
+      "en_sha256": "08592bc0ad121d6f8918141fc6d97e5848397164880fd3c736efe85104018339",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Walki +1 za każde 2 (suma [Laceration] i [Combustion]) na celu głównym (maks. <style=\"highlight\">8</style>)\nzadaje więcej obrażeń w zależności od brakującego HP (maks. <style=\"highlight\">15</style>%)\nzadaje -50% obrażeń celom pobocznym\n[BeforeAttack] zyskuje Wagę Ataku równą (najwyższy Rezonans / 2) (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -2 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -6)\n[EndSkill] odzyskuje <style=\"highlight\">12</style> SP dla 4 sojuszników z najniższym SP innych niż ta jednostka\n[EndSkill] wszyscy sojusznicy następnej tury zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable]\n- jeżeli cel został pokonany, uruchamia powyższy efekt jeszcze raz",
+      "kr_sha256": "8cbd02ad848ad3ab4e12a39e04c6054dd1db0715f7c64db6f88fb0d59008f832",
+      "en_sha256": "30337f535c267d4a0a038deda17d3ed2881a27941140c3745267967edefe156d",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=3].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].abName": {
+      "pl": "Śpiewająca Maszyna",
+      "kr_sha256": "564425518399d09e29a01e20d531bf599d51d06e6d5ba11188942a4ead468a7c",
+      "en_sha256": "4c30fe32c3a03d75c2aa28ee57def82af8061b7929d79fd1fdd03b365de5c196",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy HP 10% lub wyższym, otrzymuje 10 ~ 20 obrażeń HP (1 raz na Monetę)\n- po czym ponownie używa tej Monety, jeżeli suma HP zużytego przez ten efekt jest niższa niż 50 (maks. 4 razy na Umiejętność)\n- te obrażenia nie Oszołamiają i nie obniżają HP tej jednostki poniżej 1",
+      "kr_sha256": "fd027f821c0e02e0e365a888e574cf9aa04ae342acd43d29cdf0c7de7365badd",
+      "en_sha256": "6049e037e4ea2af1b9015097c1461c63cc5703cba1d9876c2cbe9b03fea643d7",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#2].coindescs[#1].summary": {
+      "pl": "[OnSucceedAttack] zużywa własne HP\nponownie używa tej Monety, jeżeli warunki są spełnione",
+      "kr_sha256": "5f7e6ae9e10da0ff96fb6edad9317f302e5506f00e6ff23c0e5c1e7ca1ed5b40",
+      "en_sha256": "75708840e639c27416c54249864c9861be3e8cdad57c32aaa688d532bd11a360",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] 1 losowy sojusznik następnej tury zyskuje 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] (1 raz na Monetę)",
+      "kr_sha256": "f4fdb6ae1dce9764f9bcfc59feb5a254df5652b005f7d4eacb7771581622888f",
+      "en_sha256": "f14a42dda949b4bb0391b447cc36e3dee1597f77d77726664f1835c003997b7b",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nMoc Walki +1 za każde 2 (suma [Laceration] i [Combustion]) na celu głównym (maks. <style=\"highlight\">10</style>)\nzadaje więcej obrażeń w zależności od brakującego HP (maks. <style=\"highlight\">20</style>%)\nzadaje -50% obrażeń celom pobocznym\n[BeforeAttack] zyskuje Wagę Ataku równą (najwyższy Rezonans / 2) (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -2 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -6)\n[EndSkill] odzyskuje <style=\"highlight\">15</style> SP dla 4 sojuszników z najniższym SP innych niż ta jednostka\n[EndSkill] wszyscy sojusznicy następnej tury zyskują 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable]\n- jeżeli cel został pokonany, uruchamia powyższy efekt jeszcze raz",
+      "kr_sha256": "37ce6631e3d9956d9e71241748dda0f513afb65bd75da01bef180e780ec5b882",
+      "en_sha256": "74a0d88b9b363dd2e6a2c8f2c7700424f3f5d13fcabcb6e1fcc23b9a52bcce7d",
+      "origin": "ai"
+    },
+    "dataList[id=2100921].levelList[level=4].name": {
+      "pl": "Harmonia",
+      "kr_sha256": "ef3ea3fb627b456ae4ff28367fa579ef35e75fee2f53b97aca988cd00bf8dd3b",
+      "en_sha256": "ccfe55dfa0fe963910dc3949af46239e26744dbe365e6504920774f5bfb9e4f4",
+      "origin": "ai"
+    }
+  }
+}
