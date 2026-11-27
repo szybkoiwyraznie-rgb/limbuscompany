@@ -1,0 +1,232 @@
+{
+  "entries": {
+    "dataList[id=9795].desc": {
+      "pl": "— opis] Na początku tury, jeżeli co najmniej 3 Tożsamości ma Umiejętności zużywające [BloodDinner], Dar ten uruchamia się na całą walkę (poza Umiejętnościami E.G.O; z pominięciem jednostek zapasowych)\n\nNa początku walki, jeżeli [Laceration] celu atakowanego przez Tożsamość zużywającą [BloodDinner] wynosi co najmniej 30, zmniejsza Moc [Laceration] celu do 15 i generuje [BloodDinner] równy zredukowanej Mocy [Laceration] (1 wywołanie na turę na wszystkich wrogów; w przypadku Umiejętności obszarowych stosowane tylko do głównego celu).\n\nZa każde 10 [BloodDinner] wygenerowanych tym efektem nakłada na Tożsamości z Umiejętnościami zużywającymi [BloodDinner] 1 Wzrost Mocy i 1 Wzrost Obrażeń na następną turę (maks. 4)",
+      "kr_sha256": "bf64243cc0fafce66243fc317263aef79cc33c6d66f344b887c0ed6ec6bc9193",
+      "en_sha256": "9000b66520d902d727de113127ffdf2b64b8e53a39273f5ef1e848a0d8f6816a",
+      "origin": "ai"
+    },
+    "dataList[id=9795].name": {
+      "pl": "— nazwa] Kropla",
+      "kr_sha256": "4b3649fdca4f933f6632f7dae5716081f8767eefb114c33ded68961490a6b0b6",
+      "en_sha256": "2515092972040eb2ce7c637b958132ce3766cae05217c24634ef2b95a3328719",
+      "origin": "ai"
+    },
+    "dataList[id=9795].simpleDesc[abilityID=979501].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Wzrost Mocy i Wzrost Obrażeń",
+      "kr_sha256": "6dc6098a162a1502c5d2d3b590cd4e8f3744d44a9fcaa4e6ccad016be316b9f4",
+      "en_sha256": "14ce5fefe813b30092096f6f0d8cfd5838815951f2899ccf47d63a36aa86e3c8",
+      "origin": "ai"
+    },
+    "dataList[id=9795].simpleDesc[abilityID=9795].simpleDesc": {
+      "pl": "— opis skrócony] Zmniejsza Moc Krwawienia i zwiększa Krwawą Ucztę",
+      "kr_sha256": "3bf562dc6360b2e98876fb7857a9b18c31ed82d559b3bdb41a8ac2d0b8df0ab1",
+      "en_sha256": "5a398a152aa4d0c9ab1a95ca8569925235c10d01c6599a89edcda927014f9cb8",
+      "origin": "ai"
+    },
+    "dataList[id=9796].desc": {
+      "pl": "— opis] Jeżeli suma Mocy [Breath] i Liczników [Breath] sojusznika przydzielonego na 5. pozycji wynosi co najmniej 50, Monety Umiejętności używanych przy wygranej Starciu lub ataku jednostronnym wypadają zawsze jako Awers (w przypadku monet Minus — Rewers), a zadawane Obrażenia Krytyczne +80% (1 raz na walkę; poza Umiejętnościami E.G.O)\n\nJeżeli co najmniej 5 Tożsamości w zespole ma Umiejętności ataku nakładające lub zyskujące Moc [Breath] lub Liczniki [Breath], sojusznik przydzielony na 5. pozycji zadaje Obrażenia Krytyczne +60% (dodatkowo +20% Obrażeń Krytycznych na każdą Tożsamość w zespole ponad warunek, wliczając w zespół)",
+      "kr_sha256": "f22317e4b4fa17ff0e71b56a3719547bd2c7738dda2a11323c66fe6a3adc34f5",
+      "en_sha256": "7d409b40f4f9ea5c411b6cbecd8a245c7c9b9792455f04ed2ea2245d64845cca",
+      "origin": "ai"
+    },
+    "dataList[id=9796].name": {
+      "pl": "— nazwa] Smutny Wydech",
+      "kr_sha256": "2208deff02bfb53fac4698ba3910f355b792001ced31c9cba8daece96f3f8011",
+      "en_sha256": "05f0c54bf44677531d4932474757c735c132144ba203b856e12fb96a5e18732f",
+      "origin": "ai"
+    },
+    "dataList[id=9796].simpleDesc[abilityID=979601].simpleDesc": {
+      "pl": "Wzrost Obrażeń Krytycznych",
+      "kr_sha256": "3c748c835755519a73bdc0953d0895bc2e04e2845cb8b78bcb8ee4a736e56794",
+      "en_sha256": "d7fba448d151b16989c905ee235fb654f615edec7f5879efd87229d9c8b8f06b",
+      "origin": "ai"
+    },
+    "dataList[id=9796].simpleDesc[abilityID=9796].simpleDesc": {
+      "pl": "Wzrost Obrażeń Krytycznych",
+      "kr_sha256": "3c748c835755519a73bdc0953d0895bc2e04e2845cb8b78bcb8ee4a736e56794",
+      "en_sha256": "d7fba448d151b16989c905ee235fb654f615edec7f5879efd87229d9c8b8f06b",
+      "origin": "ai"
+    },
+    "dataList[id=9797].desc": {
+      "pl": "— opis] Na początku tury zyskuje co turę 2 [GiftCannon] i 2 [GiftGlass]\nOd 2. tury wartości zyskiwane co turę rosną o 1 każda (maks. 8 zwiększeń)",
+      "kr_sha256": "dad1679b72a1f775148d43d3432961167db6b9fcf518d2d1757f864c282a1258",
+      "en_sha256": "806d6ff75da600683f7da026f62ed8ddd577cdb466691b6cbf020e32827c9f69",
+      "origin": "ai"
+    },
+    "dataList[id=9797].name": {
+      "pl": "— nazwa] Działo Roztrzaskania",
+      "kr_sha256": "298ae3d53a80328a68d23bfe369805a55de3ca7e1ea3dc264144c44a19388a8d",
+      "en_sha256": "11fde3f97c3e8656c847ccae0b0435e4e5190fd4b6a0ed2c8da9bab3976e1b52",
+      "origin": "ai"
+    },
+    "dataList[id=9797].simpleDesc[abilityID=9797].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Siłę Ognia i Delikatność",
+      "kr_sha256": "c753157c5daa7f6662be4b989a83a282a96966229bc6447b6e21f343064622fa",
+      "en_sha256": "a4e19d2bd116a145fca329acdae559b1b2350576a0dbe92eb9c6493edff7aa57",
+      "origin": "ai"
+    },
+    "dataList[id=9798].desc": {
+      "pl": "— opis] Na początku spotkania generuje 100 [BloodDinner]\nNa początku tury nakłada 2 [RoseThorn] na wrogów (Partie) z [Laceration].\nJeżeli wszyscy wrogowie (wszystkie Partie) mają [Laceration], nakłada 4 [RoseThorn].",
+      "kr_sha256": "1f4c93d1f3bd1e630c02c67695cd3cbe5fb2f4440f0c84fed7ef8d869380f701",
+      "en_sha256": "4bc3bae5b3aa53c46a8def22ee39e097d36cc6ca68eed8f3ee58b12099e6141b",
+      "origin": "ai"
+    },
+    "dataList[id=9798].name": {
+      "pl": "— nazwa] Pożądający Cierń",
+      "kr_sha256": "2b98a7ab3097dc6cbc0dd0e633956d53c55650428cbc427aac0bfcfcb33f4815",
+      "en_sha256": "7b10129a27d4e01f306226d0b041b2221e9138ab9ddb27c140866f2f640e448b",
+      "origin": "ai"
+    },
+    "dataList[id=9798].simpleDesc[abilityID=979801].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Kolec Obżarstwa (貪食棘)",
+      "kr_sha256": "ee4b66cc854d990fe50457384d2025f0ec576910223f6e1e45627aafc7511294",
+      "en_sha256": "597deb69d887744351dc3ed41162aa740c6bc2225d75a7c7d70bdbb876973f8c",
+      "origin": "ai"
+    },
+    "dataList[id=9798].simpleDesc[abilityID=9798].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada Kolec Obżarstwa (貪食棘)",
+      "kr_sha256": "ee4b66cc854d990fe50457384d2025f0ec576910223f6e1e45627aafc7511294",
+      "en_sha256": "597deb69d887744351dc3ed41162aa740c6bc2225d75a7c7d70bdbb876973f8c",
+      "origin": "ai"
+    },
+    "dataList[id=9799].desc": {
+      "pl": "— opis] Prognoza prawdopodobieństwa syntezy Darów zawsze wynosi 100%",
+      "kr_sha256": "c7d116071f3b1fc961daa1fd1b1b8c3ace23ba7153358db0c6c6533aaccf6bc2",
+      "en_sha256": "23608d0c32b1e1ea0bf4428f1a7876b5e7259ca0ab8e34fd9040c42f055ad53b",
+      "origin": "ai"
+    },
+    "dataList[id=9799].name": {
+      "pl": "— nazwa] Pewna Filozofia",
+      "kr_sha256": "9e13b5f94a987f325e1fdd78cfe04d643d9746f00b797b220479d6654c037d98",
+      "en_sha256": "ba6edc9c33f622ef47f130be4dca95276def614071760c55fded1e5238a2fe82",
+      "origin": "ai"
+    },
+    "dataList[id=9800].desc": {
+      "pl": "— opis] Koszt zakupu i ulepszania wszystkich Darów E.G.O jest ustalony na 1.\n\nWszyscy sojusznicy zyskują 1 [AttackUp] za każde 500 Kosztu (maks. 20)",
+      "kr_sha256": "2286076502fc09d44087c6a07695d9e81b0286ac07142a700f535adf5e81c1f8",
+      "en_sha256": "1ae11b296c18bea23c1f8dd1927c42526162b4406beba1447d1ead26679a7e42",
+      "origin": "ai"
+    },
+    "dataList[id=9800].name": {
+      "pl": "— nazwa] Bogactwo",
+      "kr_sha256": "0a468f0864a0ff7e05c533066a2175b4e2bfe9301df28d3ff973ec04e60ba237",
+      "en_sha256": "35466d70b1189c565c010d286ca6e27265b7b5be031a960d1754a9bf8839d695",
+      "origin": "ai"
+    },
+    "dataList[id=9800].simpleDesc[abilityID=980001].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9801].desc": {
+      "pl": "— opis] Na początku tury 1 sojusznik z najwyższym Maks. HP zyskuje [DefenseUp] w liczbie równej liczbie otrzymanych obrażeń od Umiejętności ataku wrogów w tej walce (maks. 6).",
+      "kr_sha256": "b9603044f5d6670ff8428e83acd887376134cc137d2bf71831d8acb5f08fa9cf",
+      "en_sha256": "8631eed96532ffec400f05efa8f54fba4c682d55a33ca4c9dda4410d9463753e",
+      "origin": "ai"
+    },
+    "dataList[id=9801].name": {
+      "pl": "— nazwa] Bolus Wytrwałości",
+      "kr_sha256": "8f7b107e65d77253a4d6904e8b797057bc90f520af4dbcf444907ffb73e7009f",
+      "en_sha256": "d8336c2a3ef3042b44eae3a5892e5c862efd6aec1a56ee29ca476c3e065a33cc",
+      "origin": "ai"
+    },
+    "dataList[id=9801].simpleDesc[abilityID=9801].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Wzrost Poziomu Obrony",
+      "kr_sha256": "1670c1f37a052bddf0046ceddb3c67d9c5411691a7533ef2b6715b8989ec650e",
+      "en_sha256": "62b48125890c9da60c3b6c1ce41f5058694e9136ef8e3d8b33bed62b43e29810",
+      "origin": "ai"
+    },
+    "dataList[id=9802].desc": {
+      "pl": "— opis] Przy trafieniu Umiejętnością zużywającą Liczniki [Charge], nakłada 1 [Burst] (3 wywołania na Umiejętność; wliczając Szczególne Ładowanie)\n\nEfekty tego Daru są wzmocnione w zależności od liczby Tożsamości w zespole z Umiejętnościami ataku nakładającymi [Burst] lub zyskującymi [Charge] (poza Umiejętnościami E.G.O; wlicza wszystkie jednostki zespołu).\n\n- Przy co najmniej 6 Tożsamościach\nPrzy zadaniu obrażeń [Burst] wrogowi, zwiększa Liczniki [Charge] o 1 (3 razy na Umiejętność)\n\n- Przy co najmniej 8 Tożsamościach\nPrzy trafieniu Umiejętnością zużywającą Liczniki [Charge], zwiększa Liczniki [Burst] o 1 (3 razy na Umiejętność; wliczając Szczególne Ładowanie)",
+      "kr_sha256": "26b4aba3b3766e7bdd07477b5ed545068a49f4f9e71f74ce91803079b98c8b83",
+      "en_sha256": "1ba20f24b5ebd8ad48f7df8f694158b3f7d8f16dcaf591660f37fdcfb96eff44",
+      "origin": "ai"
+    },
+    "dataList[id=9802].name": {
+      "pl": "— nazwa] Topór Piorunowy",
+      "kr_sha256": "c5c2fdabae65a1053a202e4ad28e660c5b683bf8236051472e07bb2f356d273d",
+      "en_sha256": "f0f4819af413a881c869aaa78e2d3a41c3d61a527f1623e4e02466e37b1a2df0",
+      "origin": "ai"
+    },
+    "dataList[id=9802].simpleDesc[abilityID=980202].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Liczniki Ładowania o 1",
+      "kr_sha256": "7c016d3bb2dd4c1127e2758042b8c8ad6ade23abce926d87808435eab815c586",
+      "en_sha256": "36ccabf218e18205223d1538d408300f8c8224b1eb4be5d2e579cb3bd2d022c7",
+      "origin": "ai"
+    },
+    "dataList[id=9802].simpleDesc[abilityID=980203].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Liczniki Rozdarcia o 1",
+      "kr_sha256": "84e37037481f35b5048c3261e2683535923ccc3148fb0a5bc3f8f55756876ad7",
+      "en_sha256": "b77d6c89253f03a1c2acd054792b333390937676781dd6e6f32e59c03d6eca08",
+      "origin": "ai"
+    },
+    "dataList[id=9802].simpleDesc[abilityID=9802].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 1 Rozdarcie",
+      "kr_sha256": "ddd80f9aa1de1245f14aa527476ca2832dd779fa7116b857b37d1adee5ae9a28",
+      "en_sha256": "229039a35bfc0a06f199152772cc4556ad1cec350042afbd866e9e7579944720",
+      "origin": "ai"
+    },
+    "dataList[id=9803].desc": {
+      "pl": "— opis] Przy każdym początku tury nakłada 3 Moc [Burst] na wszystkich wrogach i zwiększa Liczniki [Burst] o 1 (walki Skupione — wszystkie Partie).\n\nEfekty Daru są wzmocnione w zależności od liczby Tożsamości w zespole z Umiejętnościami ataku nakładającymi lub zyskującymi [Burst] lub [Breath] (poza Umiejętnościami E.G.O; wlicza cały zespół).\n\n- Przy co najmniej 6 Tożsamościach\nPrzy trafieniu z obrażeniami [Burst], zyskuje 1 Licznik [Breath] (3 razy na Umiejętność)\n\n- Przy co najmniej 10 Tożsamościach\nPrzy Trafieniu Krytycznym Umiejętnością, zwiększa Liczniki [Burst] o 1 (3 razy na Umiejętność)",
+      "kr_sha256": "3c6092542ea6a8bc78da5e7783b320335c355d4d07c265ce434b7a7813f30d92",
+      "en_sha256": "e7c46a71197ec8142398ec6077379ba18d2a571982fa7462cc2949aa153a9362",
+      "origin": "ai"
+    },
+    "dataList[id=9803].name": {
+      "pl": "— nazwa] Kwiat w Lustrze",
+      "kr_sha256": "78b7a533a5d67db9921b701c0309c5633cbb62cab89d43d87d90dcbcdf82797c",
+      "en_sha256": "143c3a0b71859b45a01783640560a07bbce94add05fe779b42fc43f2efde1aa5",
+      "origin": "ai"
+    },
+    "dataList[id=9803].simpleDesc[abilityID=980302].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje 1 Licznik Oddechu",
+      "kr_sha256": "614b0edbee4698473251227578ee561fa4ad6a8e878a8e79e3505ac93703043d",
+      "en_sha256": "d5b0ddb6e5a4e4682473fc49e4b266a29a42c455d65ec0cb49141c00340ab361",
+      "origin": "ai"
+    },
+    "dataList[id=9803].simpleDesc[abilityID=980303].simpleDesc": {
+      "pl": "— opis skrócony] Zwiększa Liczniki Rozdarcia o 1",
+      "kr_sha256": "84e37037481f35b5048c3261e2683535923ccc3148fb0a5bc3f8f55756876ad7",
+      "en_sha256": "b77d6c89253f03a1c2acd054792b333390937676781dd6e6f32e59c03d6eca08",
+      "origin": "ai"
+    },
+    "dataList[id=9803].simpleDesc[abilityID=9803].simpleDesc": {
+      "pl": "— opis skrócony] Nakłada 3 Moc Rozdarcia i zwiększa Liczniki Rozdarcia o 1",
+      "kr_sha256": "c4ddb5b78727c4a527b8820dffe2b5b36d212427b21ef0fcafa383216051b72e",
+      "en_sha256": "ffc2b68be2585bf3bea1f45b718079217805d5d73c1607c1ec941f3dfa08b650",
+      "origin": "ai"
+    },
+    "dataList[id=9804].desc": {
+      "pl": "— opis] Przy trafieniu atakiem wroga z nałożoną Mocą [Burst] co najmniej 5, zyskuje 1 Moc [Breath] i zwiększa własne Liczniki [Breath] o 1 (maks. 3 razy na Umiejętność).\n\nEfekty tego Daru są wzmocnione w zależności od liczby Tożsamości w zespole z Umiejętnościami ataku nakładającymi lub zyskującymi [Burst] lub [Breath] (poza Umiejętnościami E.G.O; wlicza wszystkie jednostki zespołu).\n\nPrzy trafieniu Umiejętnością, jeżeli [Burst] celu wynosi co najmniej 20, Obrażenia Krytyczne +10% (Obrażenia Krytyczne dodatkowo +3% na każdą Tożsamość w zespole)\n\n- Przy co najmniej 12 Tożsamościach\nPrzy trafieniu Umiejętnością, jeżeli wystąpiło Trafienie Krytyczne, usuwa 1 losowy ujemny efekt z odwracalnych nałożonych na siebie (1 raz na turę na Tożsamość)",
+      "kr_sha256": "694bdd06a3cb2b5a3ccaaf72dc9a9f41d682d357e1b8476b85ed85800b46740a",
+      "en_sha256": "8e02d8301d228114da336b9cbac8c23369816fdce94ee66f757f8e4ed7a0576d",
+      "origin": "ai"
+    },
+    "dataList[id=9804].name": {
+      "pl": "— nazwa] Księżyc na Wodzie",
+      "kr_sha256": "374e7c1113c3c892329207dfb612cbaf64b70f93134cdca7cefdcda39bd8020f",
+      "en_sha256": "aed6f36e007009d137623469a34c305ed16ecd4eefbda5f451ab7efac7b9623e",
+      "origin": "ai"
+    },
+    "dataList[id=9804].simpleDesc[abilityID=980402].simpleDesc": {
+      "pl": "Wzrost Obrażeń Krytycznych",
+      "kr_sha256": "3c748c835755519a73bdc0953d0895bc2e04e2845cb8b78bcb8ee4a736e56794",
+      "en_sha256": "d7fba448d151b16989c905ee235fb654f615edec7f5879efd87229d9c8b8f06b",
+      "origin": "ai"
+    },
+    "dataList[id=9804].simpleDesc[abilityID=980403].simpleDesc": {
+      "pl": "— opis skrócony] Usuwa 1 losowy ujemny efekt",
+      "kr_sha256": "c6750d89b40bdabb4f2a279760ef963ab4ed5f7c046fb7e5c019330bd6230765",
+      "en_sha256": "632fb7f4a34e56a892a5f3d7f2b10b95535d7b05c68bb7c06f284141b05bdf77",
+      "origin": "ai"
+    },
+    "dataList[id=9804].simpleDesc[abilityID=9804].simpleDesc": {
+      "pl": "— opis skrócony] Zyskuje Moc Oddechu i Liczniki Oddechu",
+      "kr_sha256": "0973099bd3183aee09a7969b6b0b9975d10b3f75f67ad40013a4147ae179b606",
+      "en_sha256": "40d3196fb352a229ede4f5d81b075de07dcfb5dba04bc5827bd8126acd7c9871",
+      "origin": "ai"
+    }
+  }
+}
