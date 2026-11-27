@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=114504].desc": {
-      "pl": "nieprzeciwstawiane Ataki zadają przy trafieniu +30% obrażeń i nakładają 1 [Vulnerable] w następnej turze\n\nMonety Umiejętności, które zużyły [BulletPropellant], zadają przy trafieniu +20% obrażeń i nakładają 2 [DefenseDown] w następnej turze\n\npowyższe efekty nie uruchamiają się, jeżeli cel wyposażył Umiejętność obrony",
+      "pl": "Ataki Jednostronne zadają przy trafieniu +30% obrażeń i nakładają 1 [Vulnerable] w następnej turze\n\nMonety Umiejętności, które zużyły [BulletPropellant], zadają przy trafieniu +20% obrażeń i nakładają 2 [DefenseDown] w następnej turze\n\npowyższe efekty nie uruchamiają się, jeżeli cel wyposażył Umiejętność obrony",
       "kr_sha256": "be1c6cba6536c9ce5fa44711fafb70a6db0ce22c44bf0af03581cd56a3ea44a7",
       "en_sha256": "6a9163715cddf9400fb9b741463420233d7ea32e013c123b1b83338cfd4dd9db",
       "origin": "ai"

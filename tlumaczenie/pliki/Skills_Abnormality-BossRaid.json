@@ -1,0 +1,520 @@
+{
+  "entries": {
+    "dataList[id=500101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowe obrażenia Uderzeniem",
+      "kr_sha256": "29b31205115168d18a1d280708e452caef2010a51505623f32f536d506f7490e",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=500101].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowe obrażenia Uderzeniem",
+      "kr_sha256": "29b31205115168d18a1d280708e452caef2010a51505623f32f536d506f7490e",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=500101].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis]",
+      "kr_sha256": "7c4e0a7f2df22ff9abfdab479fa5cc15a959b7b70a7602573033941cb50601c3",
+      "en_sha256": "df36f0a161cce621ff78134815f959e82e28ef0b913fdd44864cee4684268c73",
+      "origin": "ai"
+    },
+    "dataList[id=500101].levelList[level=1].name": {
+      "pl": "Punching",
+      "kr_sha256": "57992fc3e44c762d91dd8b2186a5de0b4deb8b8d1621e6065551dceb898e7802",
+      "en_sha256": "122224098ac978ae16bf5a4224fc0221d6e05be1ca7d4416a697af6745cee37b",
+      "origin": "ai"
+    },
+    "dataList[id=500102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "cf8fcf0003a60e28158514c40b942def2d00a4ad12a62211bcb1dd7082b88525",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=500102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "cf8fcf0003a60e28158514c40b942def2d00a4ad12a62211bcb1dd7082b88525",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=500102].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Paralysis] w następnej turze",
+      "kr_sha256": "5d76ed052893c5a8d60ed2845bca627bf47ae5b3593f24ec3e4daf7a6e6a2810",
+      "en_sha256": "035d3ebdcc297b2bbb652cdd0adfa7a8a39c40903d9db2d4459ce208e1e5eba0",
+      "origin": "ai"
+    },
+    "dataList[id=500102].levelList[level=1].name": {
+      "pl": "Kicking",
+      "kr_sha256": "4c25db1ce7c09dd5dc15c846102aeeb788af33cb84035a699202e42e34c89979",
+      "en_sha256": "1479215c83d910453c77b6ca61247a90339d553f03076298ebc988efc4dc4f6e",
+      "origin": "ai"
+    },
+    "dataList[id=500103].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel traci 5 SP",
+      "kr_sha256": "591bdb706ed1cd5ce474a5c9c154779faf6dd815aee6cd0afb8068e4f6bd23bf",
+      "en_sha256": "02698cc4d342e3476e7c1034f6b9fddb9b7ad00a39d33782dfa2cce28a930c72",
+      "origin": "ai"
+    },
+    "dataList[id=500103].levelList[level=1].name": {
+      "pl": "Payback",
+      "kr_sha256": "85daf541fa07a3bb4a30419144bdca0e511091bd1944ed28748afe3a1bd726a4",
+      "en_sha256": "debb0b1b8f38af9cc24bd716b46de16bb10ef8b07d196b28c894e0f5327ed986",
+      "origin": "ai"
+    },
+    "dataList[id=500104].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 10 SP jednostki",
+      "kr_sha256": "f323db961ceccdf35764d9340495caf21673fb3f503129c3e73d826bc546cee6",
+      "en_sha256": "85fc998747891ae46c703cbd7b07e9531ceb7e46fbc304ab3dcf12b6d01021dd",
+      "origin": "ai"
+    },
+    "dataList[id=500104].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] i 2 [Reduction] w następnej turze",
+      "kr_sha256": "9b43003dc3fb639c1bb6fcd54b4f85053ef4785be9f8137b1db5265c1a935034",
+      "en_sha256": "a4b239e4805989eebdad9247c062147145343dc7e1485e8575c002803f739588",
+      "origin": "ai"
+    },
+    "dataList[id=500104].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel traci 20 SP",
+      "kr_sha256": "ad0082e9695c7cfa7c21bd5a734e8d1409e1f33984d042d541891b38cadbd3f5",
+      "en_sha256": "94b5b074e7bfcf558a2194a2d3466df5bf79d04027479ba8b23307eaef6990d4",
+      "origin": "ai"
+    },
+    "dataList[id=500104].levelList[level=1].desc": {
+      "pl": "jeżeli SP celu jest niższe niż 0, Moc Monety +3",
+      "kr_sha256": "9df17823a5032a76b8522c48b9635acc02892658e5f15602d96c4eb6ebbeb473",
+      "en_sha256": "56db807df8a1aa199eca5d1caf05fc003b0acc6a77b702f55eb942ba2566efe9",
+      "origin": "ai"
+    },
+    "dataList[id=500104].levelList[level=1].name": {
+      "pl": "Watch Your Back!",
+      "kr_sha256": "c5bd9e28ee54691dd3ea9ef67b12d09be8a1f4c3689f691757ef05f0942eea19",
+      "en_sha256": "2ad4831aee9851b6b5e8708a9fbef6dbd1411f00fb352fe632605f72b0b7ce0c",
+      "origin": "ai"
+    },
+    "dataList[id=500105].levelList[level=1].desc": {
+      "pl": "[StartBattle] przywołuje 2 sojuszników w następnej turze",
+      "kr_sha256": "0cc4e75514385e95596b5b18c407424495da9a1d56adf17b0ad95cbeebf23ed6",
+      "en_sha256": "f031c1a6e2ff3be8ae5be8940c9d7ee33c815e91f3283c96c92159d5c71cf5f5",
+      "origin": "ai"
+    },
+    "dataList[id=500105].levelList[level=1].name": {
+      "pl": "Assemble",
+      "kr_sha256": "7bcf832aeaf41d3cc77a404f686983b0165f72eeb18034865ad2a5c0c5fae740",
+      "en_sha256": "cfc3f8e950bb812b948d85c1d4e52c27c29f6b8faa0b7215577b675f4225aba4",
+      "origin": "ai"
+    },
+    "dataList[id=500106].levelList[level=1].name": {
+      "pl": "Make this Memorable",
+      "kr_sha256": "fa6c85ff04b301ed194ecd8d2a463c917c9512800f28ee08124e5f446ca0d6b4",
+      "en_sha256": "df1fcc867d864368011dbdb92dd7857f5895c0787e6ba99ebce85b8ec3abe62c",
+      "origin": "ai"
+    },
+    "dataList[id=500107].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] podnosi Próg Oszołomienia o 30",
+      "kr_sha256": "48da49feb6dfb283001d741c6b3848b5cb75f5f6713c62330077a48d9f1ab6d7",
+      "en_sha256": "3a957d7500891234232fd500d39fb217513d90ce9a75ef9c23d700dd154e9d7c",
+      "origin": "ai"
+    },
+    "dataList[id=500107].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "dfd47a432bb29b0c47ea9ca7659dcc90ef806e3f3b7e23bd475f2905ba1bd173",
+      "en_sha256": "66850c995ffbdb055b99a439d4f9b91e2e2eccc1416c144c4ff2292330c05eee",
+      "origin": "ai"
+    },
+    "dataList[id=500107].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zmniejsza [RicardoBookRaid] celu o 5",
+      "kr_sha256": "c3ed02af4ade2a4e191f514524431298de798639c991a2c8ec756eed23d50d22",
+      "en_sha256": "7cc5e8015396024a1af1fccedb7ef61f5d3a0a36b5d3060f1793007d0ea9b2b5",
+      "origin": "ai"
+    },
+    "dataList[id=500107].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 30% mniej końcowych obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "75cf2daa528366133642363ac0dad72758b6c7b63586b504db7115beec90c8db",
+      "en_sha256": "d5defb94fe61d604be7a9238783c40cc0efd9b4a98ea44372c2872e9adb301fd",
+      "origin": "ai"
+    },
+    "dataList[id=500107].levelList[level=1].name": {
+      "pl": "MY HAIR COUPOOOOOOOOOOONS!!!",
+      "kr_sha256": "aefe725317a52c7c10e4ae6c4bed8e470acd2cca80a2e4342acaab5b1c424340",
+      "en_sha256": "e9467c97206f87236a2b88e3bf2d9a3224a7e2afe4c9bd9acdc12037b213b83b",
+      "origin": "ai"
+    },
+    "dataList[id=500108].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w tej i następnej turze",
+      "kr_sha256": "0eca030d85b5a078d04ef15069f3280521bb6c26540b7ba40fd22fee7575fa73",
+      "en_sha256": "20d56c78082979bc0171f83d0b723f3c0d32870fd46a9bb2f1a15f076c87630a",
+      "origin": "ai"
+    },
+    "dataList[id=500108].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w tej i następnej turze",
+      "kr_sha256": "0eca030d85b5a078d04ef15069f3280521bb6c26540b7ba40fd22fee7575fa73",
+      "en_sha256": "20d56c78082979bc0171f83d0b723f3c0d32870fd46a9bb2f1a15f076c87630a",
+      "origin": "ai"
+    },
+    "dataList[id=500108].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje ([RicardoBookRaid] celu x 3) dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "77b74d9366140df3ef6c50c29fba60ee0c1fdaea9c50edb2bc1506b7db41dccc",
+      "en_sha256": "de773712cbb5cc6adec23a081d9334eaa515170b7c8f6259474fc6561ec38bcb",
+      "origin": "ai"
+    },
+    "dataList[id=500108].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zmniejsza [RicardoBookRaid] celu o 3",
+      "kr_sha256": "d8bf4cac329beba6438fa6f9dc694ed132b9f88310b57726a2cdcaae9cd8a2ee",
+      "en_sha256": "6bdac5dff80ebef9d30579d0ebcca37268ce198780496ab217c6f5e9ff9c988d",
+      "origin": "ai"
+    },
+    "dataList[id=500108].levelList[level=1].desc": {
+      "pl": "priorytet: cele z najwyższym Licznikiem [RicardoBookRaid]\n[WhenUse] jeżeli cel ma <color=#ff6000><mark=#ff000040><b><u>3+ [RicardoBookRaid]</u></b></mark></color>,\nwszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y",
+      "kr_sha256": "63cbbf8d44c8e1ad5847f8132e868cf825d0be638eabe8d8ffb52ae0cc17b913",
+      "en_sha256": "020fcda61367c1edc75062c722703a6f3010f5dac070732403ce66adc3fdd3d5",
+      "origin": "ai"
+    },
+    "dataList[id=500108].levelList[level=1].name": {
+      "pl": "Promised Suffering",
+      "kr_sha256": "0b51554170e237d72d47ce275e16b35c5a635af38321ea52ec385f6a3b67ad84",
+      "en_sha256": "18f761b8cb50b282a2c7aa13ea2dba36628f08813a59aab697e4b19daa5a2264",
+      "origin": "ai"
+    },
+    "dataList[id=500109].levelList[level=1].desc": {
+      "pl": "[StartBattle] przywraca 20 SP\n[EndBattle] zyskuje 5 [Enhancement] w następnej turze",
+      "kr_sha256": "c19668d442169fb36368a0d28de72e3c041e41919c5ac47cc0b39f915b839fb6",
+      "en_sha256": "3ac956afd3c18827ac83ca8a869069b61cc9b3c7fc2018dccf09583ac6e53e35",
+      "origin": "ai"
+    },
+    "dataList[id=500109].levelList[level=1].name": {
+      "pl": "Enough Games",
+      "kr_sha256": "0516751cf716cf2ed8134682f8c114f09536db9eb44b1a2260905925aec7089b",
+      "en_sha256": "a4692fae59dfda7124c3b53ad828de772524f23ef8a8c21e80e6c0e45acaf782",
+      "origin": "ai"
+    },
+    "dataList[id=500110].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=500110].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje obrażenia równe 3% Maks. HP celu za każde [RicardoBookRaid] celu",
+      "kr_sha256": "4b0ebf9062a2b771be6c9e9284425707209d66e095337c3068313f99854120c0",
+      "en_sha256": "faced359458ac4105d00b040bbf17e8fbda15a847fd58cee4ffddfa38aad748f",
+      "origin": "ai"
+    },
+    "dataList[id=500110].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zmniejsza [RicardoBookRaid] celu o 10",
+      "kr_sha256": "b7252cf132ba57351df9398f47643f1a3e7e6904f44d9c09c4e592c46344bcc2",
+      "en_sha256": "40dd1a86c53c10fb66687846ebaddee7e852ed42fb9a1d9dbb08781fee6a7ee2",
+      "origin": "ai"
+    },
+    "dataList[id=500110].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zadaje o 30% mniej końcowych obrażeń, a obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "75cf2daa528366133642363ac0dad72758b6c7b63586b504db7115beec90c8db",
+      "en_sha256": "d5defb94fe61d604be7a9238783c40cc0efd9b4a98ea44372c2872e9adb301fd",
+      "origin": "ai"
+    },
+    "dataList[id=500110].levelList[level=1].name": {
+      "pl": "COMPLETE AND TOTAL EXTERMINATION!!!",
+      "kr_sha256": "4003c8619c1d657283cc99b455afbbcdc03ef44fe178aa24e4f1e504a80070a9",
+      "en_sha256": "8e1de781c004c73b55b72c8005bdb5f4962f2fd582fd99d3da477351850e1778",
+      "origin": "ai"
+    },
+    "dataList[id=500111].levelList[level=1].desc": {
+      "pl": "[StartBattle] wszystkie jednostki frakcji Środkowego przywracają 10 SP",
+      "kr_sha256": "db923fd8d88d0cbb7830e63993c6bf33532c6587898bef5f54cb862b0fb660d9",
+      "en_sha256": "d6dc589c68f06c9e69af69fba04d8bdfa63f07128a3d154539b41ae3b287f40e",
+      "origin": "ai"
+    },
+    "dataList[id=500111].levelList[level=1].name": {
+      "pl": "Ah, You Were One of the Fam",
+      "kr_sha256": "6ddd9887fcabd11c34bf66a9cadc70c388c431528f549f58ac1ab08d1363f9fe",
+      "en_sha256": "cc05e6fbeba70259636c9c3f5c0beb5c4ef07a214cfd5bb7d2a63e5db13de423",
+      "origin": "ai"
+    },
+    "dataList[id=500112].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=500112].levelList[level=1].desc": {
+      "pl": "[StartBattle] traci 20 SP\n[StartBattle] zyskuje 6 [AttackUp]\n[StartBattle] zyskuje 4 [Vulnerable]",
+      "kr_sha256": "0eb320a7c223c1add998451acad5a54a83acf97e6546cf0f12ada9c122ad8861",
+      "en_sha256": "21ce689d882146addcc1429c8d5673c8e18efd9a8c6acc682f5fc87a6575e60f",
+      "origin": "ai"
+    },
+    "dataList[id=500112].levelList[level=1].name": {
+      "pl": "TRICKED ME, DID YOU??!!",
+      "kr_sha256": "82fa05eb93a24579e2d4a9bd5ace00bb2a0876e186241b7a47355b4780e3f4fb",
+      "en_sha256": "e5fd726fd322c6bd60948efacbfd6dac4dde2f55dadd56a57ca454cd91b2ed4f",
+      "origin": "ai"
+    },
+    "dataList[id=500113].levelList[level=1].desc": {
+      "pl": "[EndBattle] zyskuje 3 [AttackUp] w następnej turze\n- jeżeli Slot używający tej Umiejętności <color=#ff6000><mark=#ff000040><b><u>jest głównym celem Umiejętności ataku</u></b></mark></color>, zyskuje o 1 mniej Licznika [AttackUp] z tego efektu",
+      "kr_sha256": "3819fcf2a9810e5db6c06e6443903bb5cdbaee0d1d5864a4b02c8ec80d3340bf",
+      "en_sha256": "72e899b1be2fb84c78d048cdcb03e43b14b0f88602454a468dab1d0912985394",
+      "origin": "ai"
+    },
+    "dataList[id=500113].levelList[level=1].name": {
+      "pl": "Swear Vengeance",
+      "kr_sha256": "5af562bab168cec35ecadfa50d8eeb5efc9e3d1013999bbc7c510d9630cf706d",
+      "en_sha256": "04810092f6d3ba01513ed850f8ac3768ecb7c3d000d0f6cd6ee76cdf92f1590e",
+      "origin": "ai"
+    },
+    "dataList[id=500114].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia równe 1% Maks. HP celu za każde [RicardoBookRaid] celu",
+      "kr_sha256": "c9b133779b5966a25c5b3ebaffda771b648be2235dfe2d45f29acfa32ce42731",
+      "en_sha256": "628de4d649c5f0a5e2f00148985eeea3be3b0d5ef4a660da5d664facca236d98",
+      "origin": "ai"
+    },
+    "dataList[id=500114].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia równe 1% Maks. HP celu za każde [RicardoBookRaid] celu",
+      "kr_sha256": "c9b133779b5966a25c5b3ebaffda771b648be2235dfe2d45f29acfa32ce42731",
+      "en_sha256": "628de4d649c5f0a5e2f00148985eeea3be3b0d5ef4a660da5d664facca236d98",
+      "origin": "ai"
+    },
+    "dataList[id=500114].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia równe 1% Maks. HP celu za każde [RicardoBookRaid] celu",
+      "kr_sha256": "c9b133779b5966a25c5b3ebaffda771b648be2235dfe2d45f29acfa32ce42731",
+      "en_sha256": "628de4d649c5f0a5e2f00148985eeea3be3b0d5ef4a660da5d664facca236d98",
+      "origin": "ai"
+    },
+    "dataList[id=500114].levelList[level=1].name": {
+      "pl": "IMMEDIATE, COMPLETE, AND TOTAL EXTERMINATION!",
+      "kr_sha256": "25aecd0d266cd578fa00f6c268d3585d2c110a8e36b93d0cf479ecebd1f70124",
+      "en_sha256": "67e46028fc5fdf368b783dca1611d8b00e5be88ff5357e1e25f656f261a66ac8",
+      "origin": "ai"
+    },
+    "dataList[id=500115].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 3 [HitDamageUp] w następnej turze\n[WhenUse] jeżeli główny cel ma <color=#ff6000><mark=#ff000040><b><u>5+ [RicardoBookRaid]</u></b></mark></color>, wszystkie Monety tej Umiejętności zmieniają się w [SuperCoin]y",
+      "kr_sha256": "104a232b53e48c09be4151cb4c74751a70cd6e436509775418f9de476021b03f",
+      "en_sha256": "95b3c8fa010d2b8bdd1aa0877d20e54d11353e638a747d5dfb70671f9bc0f2ad",
+      "origin": "ai"
+    },
+    "dataList[id=500115].levelList[level=1].name": {
+      "pl": "No More Tests",
+      "kr_sha256": "2c56eb8c9494f9755010b249ca97962c960480456e16ff6db12ed23bfb418815",
+      "en_sha256": "0437fe9ac5e72590a7b54f2adfff1dd883f212b0d6d2c4bbb07f18f4695898d6",
+      "origin": "ai"
+    },
+    "dataList[id=500116].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=500116].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>zmniejsza [RicardoBookRaid] celu o 10</u></b></mark></color>",
+      "kr_sha256": "e8c9460b1c9f0a9632e81e87083b80784ecb00e6d508decd57d1baa45e99fb39",
+      "en_sha256": "a8fdbabd33352da37ec9c55bce72a5f06c033f606b75b375db1ec2708eb769d3",
+      "origin": "ai"
+    },
+    "dataList[id=500116].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Oszołomi cel</u></b></mark></color>",
+      "kr_sha256": "9e15870c90b1eff424a35964442ded42c06d0035dda614947d5dedc19668c60c",
+      "en_sha256": "e963fa46de553336851250c157e8f4ce00a1014af87b2209648c29d2ce8ecb7e",
+      "origin": "ai"
+    },
+    "dataList[id=500116].levelList[level=1].name": {
+      "pl": "Mercy of the Big Brother",
+      "kr_sha256": "ff5ecd4832aea71ce034d5290da04ded914d8ef7d8098e54a9b1f0d3c759222d",
+      "en_sha256": "34e2df47f5ced4087f968d8552829b0095e8f8ba01d2ef12e8c13c36ef1e9610",
+      "origin": "ai"
+    },
+    "dataList[id=500301].levelList[level=1].desc": {
+      "pl": "[BeforeHit] zyskuje 5 Tarczy za każdy [MiddleFingerBook] celu (1 raz na turę; maks. 50)\n[WhenUse] jeżeli cel ma 5+ [MiddleFingerBook], Moc Bazowa +3; nakłada 4 [DefenseDown]",
+      "kr_sha256": "27424f124df056d5d625d7fc1860f663525cf9e33328d03b2837b60afdc22ca4",
+      "en_sha256": "2cc2d08ade9a78f6b8e19ea6f4d1f0c4d769744e065403a6ae182d3c17d28a3d",
+      "origin": "ai"
+    },
+    "dataList[id=500301].levelList[level=1].name": {
+      "pl": "Seize ya Chance",
+      "kr_sha256": "2cad27303c63c7ee710a558518dbacb1a289b0dc8bee7feec7c6b92713e3f039",
+      "en_sha256": "0d51cd56b105ff509f39c7a62a4678029cab9620ba121cc3ad93fcd9014d2b66",
+      "origin": "ai"
+    },
+    "dataList[id=500401].levelList[level=1].name": {
+      "pl": "Multifold Retribution",
+      "kr_sha256": "7403d4a9fc1db23096cf3091775d3c8e9c32f22decc803933cc8bae01c1ddcb6",
+      "en_sha256": "cb25a2398d7d56e0cc3329858a2ce3722244d21b7037eb94f437a9c1f666a6de",
+      "origin": "ai"
+    },
+    "dataList[id=501203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [SlashResistDown] w tej i następnej turze",
+      "kr_sha256": "25224ecf07a41f90e681e8b2106fbd343a440c4a42b8b7de458e766affd213ed",
+      "en_sha256": "2b3a775dbed6281f0536b26655f02a693054c8f4d437a9617bcb3a543c5cfb5a",
+      "origin": "ai"
+    },
+    "dataList[id=501203].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration] i zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "06b8e1de7b7459906fd4d0b99ee396833d51988101587e72ea97e71f6cb6de8c",
+      "en_sha256": "440a008c3ae803c62c800e577e13130a949985e9d2ed0277844be8bc1a4c3cc5",
+      "origin": "ai"
+    },
+    "dataList[id=501203].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 8+ [Breath] zadaje +40% obrażeń przy trafieniu krytycznym\n[WhenUse] Końcowa Moc +1 za każde 4 [Laceration] celu (maks. 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>przy 7+ [ChoiSwordsmanship] wszystkie Monety zmieniają się w [SuperCoin]y i zadaje +100% obrażeń przy trafieniu krytycznym</u></b></mark></color>\n[DefeatDuel]\n- zadaje o 80% mniej obrażeń\n- nie trafia krytycznie\n- obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "8ce7d9322c97a34f29d37e418771402e99877e89367cb01a7a63cda5a13b1457",
+      "en_sha256": "b1c1f795a68d078bc8bf6792224e1fac5693eeada251f1922dd70540b53fa37a",
+      "origin": "ai"
+    },
+    "dataList[id=501203].levelList[level=1].name": {
+      "pl": "Bearspine Breaker",
+      "kr_sha256": "c620cabc345a7eacee8f9576b7839fc6a28f7c3edda1ddea6d184d1ebfd6fd72",
+      "en_sha256": "b446b0d3b23e193144598d4f3c80138d26f22a3a37ea24d353dca55a07ba9735",
+      "origin": "ai"
+    },
+    "dataList[id=501207].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "f76c48b344cd949a575e57028b98ef18cde770a4ee65e7d3a756f5ca1c90ba82",
+      "en_sha256": "428b0c474658408ab45d35b7285985a412fb748436c4051589d487ca6f8d97ff",
+      "origin": "ai"
+    },
+    "dataList[id=501207].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "f76c48b344cd949a575e57028b98ef18cde770a4ee65e7d3a756f5ca1c90ba82",
+      "en_sha256": "428b0c474658408ab45d35b7285985a412fb748436c4051589d487ca6f8d97ff",
+      "origin": "ai"
+    },
+    "dataList[id=501207].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=501207].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [SlashResistDown] w tej i następnej turze",
+      "kr_sha256": "25224ecf07a41f90e681e8b2106fbd343a440c4a42b8b7de458e766affd213ed",
+      "en_sha256": "2b3a775dbed6281f0536b26655f02a693054c8f4d437a9617bcb3a543c5cfb5a",
+      "origin": "ai"
+    },
+    "dataList[id=501207].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 8+ [Breath] zadaje +40% obrażeń przy trafieniu krytycznym\n[WhenUse] Końcowa Moc +1 za każde 4 [Laceration] celu (maks. 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>przy 3 lub mniej [ChoiSwordsmanship] wszystkie Monety zmieniają się w [SuperCoin]y i zadaje +100% obrażeń przy trafieniu krytycznym</u></b></mark></color>\n[DefeatDuel]\n- zadaje o 80% mniej obrażeń\n- nie trafia krytycznie\n- obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "527a7d3f0424f512d0ed8663b18e2e6165f938ed4915b3f4d67a6dd82cec936c",
+      "en_sha256": "1727d738ca0675185c6728ce34de04681b77f7fa20adee8a3573de726fb94e0a",
+      "origin": "ai"
+    },
+    "dataList[id=501207].levelList[level=1].name": {
+      "pl": "Tigersplitter",
+      "kr_sha256": "c7b53d45fe8b29b26310aaadaab870bda19d46b0015bcc8c21ade53b340d4246",
+      "en_sha256": "f0cdbca20fe7db461748577658873b190f98bb43423dd48fdabfe3035a9c1dc4",
+      "origin": "ai"
+    },
+    "dataList[id=501209].levelList[level=1].desc": {
+      "pl": "nie podlega wpływowi [ChoiSwordsmanship]\njeżeli Umiejętność celu jest Umiejętnością wyłącznie dla [SupportProtect], zmienia się w [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>traci 3 [ChoiSwordsmanship]</u></b></mark></color>\n- jeżeli Umiejętność celu jest Umiejętnością wyłącznie dla [SupportProtect], ten efekt nie uruchamia się\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>przy trafieniu jako Atak Jednostronny albo przy trafieniu celu, który użył Umiejętności wyłącznie dla [SupportProtect], zyskuje 2 [ChoiSwordsmanship]</u></b></mark></color>",
+      "kr_sha256": "21a9d4d69efc64b138a6e2602c1b0c93f085e0e1c4cb510441d27e6f74598d7c",
+      "en_sha256": "ad2842dbf21b66d0a8d17341d5a38276f9e2d633997dc1ab3880188e9cf18def",
+      "origin": "ai"
+    },
+    "dataList[id=501209].levelList[level=1].name": {
+      "pl": "Sword of the Homeland [Sal] - Reassume Stance",
+      "kr_sha256": "296b19be66db0faf91a3e9e0e3b7efc00f82376b388b1cb4b96eeb4cc01dc6d4",
+      "en_sha256": "0f485567964c7aefb2abe20fa6ee39d7383bbca50ca96d53a341161fb80f697c",
+      "origin": "ai"
+    },
+    "dataList[id=501210].levelList[level=1].desc": {
+      "pl": "nie podlega wpływowi [ChoiSwordsmanship]\njeżeli Umiejętność celu jest Umiejętnością wyłącznie dla [SupportProtect], zmienia się w [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>zyskuje 3 [ChoiSwordsmanship]</u></b></mark></color>\n- jeżeli Umiejętność celu jest Umiejętnością wyłącznie dla [SupportProtect], ten efekt nie uruchamia się\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>przy trafieniu jako Atak Jednostronny albo przy trafieniu celu, który użył Umiejętności wyłącznie dla [SupportProtect], traci 2 [ChoiSwordsmanship]</u></b></mark></color>",
+      "kr_sha256": "3cf5258dece4accf50fdb2916e2180565fcff8cfce14857400906e41d43c4e18",
+      "en_sha256": "86bc3ac6662060d7a5c9df5dc523c232cb8bc83a009ae8965b69bb17993ef16d",
+      "origin": "ai"
+    },
+    "dataList[id=501210].levelList[level=1].name": {
+      "pl": "Sword of the Homeland [Sal] - Swordhoning",
+      "kr_sha256": "5e22fc0bb2aabf897a95ecadf2646f4191ee089475e4a234322f328968bc8a23",
+      "en_sha256": "92ea900b31978336f1123ead8400e59978e2c3d175ff01deb8d33d44c683c066",
+      "origin": "ai"
+    },
+    "dataList[id=501303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [SlashResistDown] w tej i następnej turze",
+      "kr_sha256": "25224ecf07a41f90e681e8b2106fbd343a440c4a42b8b7de458e766affd213ed",
+      "en_sha256": "2b3a775dbed6281f0536b26655f02a693054c8f4d437a9617bcb3a543c5cfb5a",
+      "origin": "ai"
+    },
+    "dataList[id=501303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Laceration] i zwiększa Licznik [Laceration] o 3",
+      "kr_sha256": "06b8e1de7b7459906fd4d0b99ee396833d51988101587e72ea97e71f6cb6de8c",
+      "en_sha256": "440a008c3ae803c62c800e577e13130a949985e9d2ed0277844be8bc1a4c3cc5",
+      "origin": "ai"
+    },
+    "dataList[id=501303].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 8+ [Breath] zadaje +40% obrażeń przy trafieniu krytycznym\n[WhenUse] Końcowa Moc +1 za każde 4 [Laceration] celu (maks. 2)\n[WhenUse] przy więcej niż 6 [ChoiSwordsmanship] zyskuje Końcową Moc za każdy nadmiarowy Licznik [ChoiSwordsmanship] (maks. 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>przy 7+ [ChoiSwordsmanship] wszystkie Monety zmieniają się w [SuperCoin]y i zadaje +100% obrażeń przy trafieniu krytycznym</u></b></mark></color>\n[DefeatDuel]\n- zadaje o 80% mniej obrażeń\n- nie trafia krytycznie\n- obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "cb852f04f68ec22583046f603714843ca93d8f239989802bb80a97d93c3383c2",
+      "en_sha256": "b62431cee58c6cbb28d4c2db03d9a9b09ca9fce0310ee50cc854ef211cf8032f",
+      "origin": "ai"
+    },
+    "dataList[id=501303].levelList[level=1].name": {
+      "pl": "Bearspine Breaker",
+      "kr_sha256": "c620cabc345a7eacee8f9576b7839fc6a28f7c3edda1ddea6d184d1ebfd6fd72",
+      "en_sha256": "b446b0d3b23e193144598d4f3c80138d26f22a3a37ea24d353dca55a07ba9735",
+      "origin": "ai"
+    },
+    "dataList[id=501304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=501304].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje obrażenia Cięcia równe ([Breath] tej jednostki x 10)% końcowych obrażeń tej Monety (maks. 100%)",
+      "kr_sha256": "1fccd101333b2d26f75eee608e32007b7cd56dea821e3d64cb3c78f10cd0944f",
+      "en_sha256": "55567b0c61e16a51fed1c0675ba4fd9a6c29fdfb7f6d795bee346fae727019e5",
+      "origin": "ai"
+    },
+    "dataList[id=501304].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] zadaje obrażenia Żądzy równe ([Laceration] celu x 10)% końcowych obrażeń tej Monety (maks. 100%)",
+      "kr_sha256": "51c61e0f400ca3b80cc24e06814c7ebc183b47d6e9ae3de1bdd05a3e99287c21",
+      "en_sha256": "8e3d0acfe0b37f206d40e7f7b5595671cd722ffe35788d6d130ff9eb9f20824b",
+      "origin": "ai"
+    },
+    "dataList[id=501304].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [Laceration] celu 1 raz. Cel traci 1 Licznika [Laceration]",
+      "kr_sha256": "c64dad4bf53831ca55d0872696d4db2eef4f49983dbfb66b194ba16016ad4899",
+      "en_sha256": "a225a27f28427cfd8ba024dd95708cf737e3178754bfadcf953c888cb0af4188",
+      "origin": "ai"
+    },
+    "dataList[id=501304].levelList[level=1].desc": {
+      "pl": "cel: wróg z największą liczbą [Laceration]\n[WhenUse] nie przechodzi w Oszołamienie od otrzymanych obrażeń do zakończenia tej Umiejętności\n[WhenUse] Końcowa Moc +1 za każde 4 [Laceration] celu (maks. 3)\n[WhenUse] przy więcej niż 6 [ChoiSwordsmanship] zyskuje Końcową Moc +2 za każdy nadmiarowy Licznik [ChoiSwordsmanship] (maks. 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>ta Umiejętność zawsze wyrzuca Awers, trafia krytycznie i nie zużywa Licznika [Breath]</u></b></mark></color>\n[BeforeAttack] zadaje +30% obrażeń przy trafieniu krytycznym za każde 2 [ChoiSwordsmanship] tej jednostki (maks. 120%)\n[DefeatDuel]\n- zadaje o 80% mniej obrażeń\n- nie trafia krytycznie\n- obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "cdf739bf4203a6680561e757f0b1864e1b1d85600b9d604f38c51c470843137f",
+      "en_sha256": "8b3b1a72f19a5fa5d5fe2d017805823c7f0739d9e80c7cdb1397102f475e68df",
+      "origin": "ai"
+    },
+    "dataList[id=501304].levelList[level=1].name": {
+      "pl": "Even Sanguns Shall Be Cleft Under This Sword",
+      "kr_sha256": "bf21b0b066b17026c1d48d9834d21501275a3d79093c7270f8889e4e2355237f",
+      "en_sha256": "6f18c375167c3a9969a9736596cc1d4999a5df022b5d9d81670bf7ea8f0ba75a",
+      "origin": "ai"
+    },
+    "dataList[id=501307].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "f76c48b344cd949a575e57028b98ef18cde770a4ee65e7d3a756f5ca1c90ba82",
+      "en_sha256": "428b0c474658408ab45d35b7285985a412fb748436c4051589d487ca6f8d97ff",
+      "origin": "ai"
+    },
+    "dataList[id=501307].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration] i zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "f76c48b344cd949a575e57028b98ef18cde770a4ee65e7d3a756f5ca1c90ba82",
+      "en_sha256": "428b0c474658408ab45d35b7285985a412fb748436c4051589d487ca6f8d97ff",
+      "origin": "ai"
+    },
+    "dataList[id=501307].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=501307].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [SlashResistDown] w tej i następnej turze",
+      "kr_sha256": "25224ecf07a41f90e681e8b2106fbd343a440c4a42b8b7de458e766affd213ed",
+      "en_sha256": "2b3a775dbed6281f0536b26655f02a693054c8f4d437a9617bcb3a543c5cfb5a",
+      "origin": "ai"
+    },
+    "dataList[id=501307].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 8+ [Breath] zadaje +40% obrażeń przy trafieniu krytycznym\n[WhenUse] Końcowa Moc +1 za każde 4 [Laceration] celu (maks. 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>przy 3 lub mniej [ChoiSwordsmanship] wszystkie Monety zmieniają się w [SuperCoin]y i zadaje +100% obrażeń przy trafieniu krytycznym</u></b></mark></color>\n[DefeatDuel]\n- zadaje o 80% mniej obrażeń\n- nie trafia krytycznie\n- obrażenia zadawane tą Umiejętnością nie mogą Oszołomić celu",
+      "kr_sha256": "527a7d3f0424f512d0ed8663b18e2e6165f938ed4915b3f4d67a6dd82cec936c",
+      "en_sha256": "1727d738ca0675185c6728ce34de04681b77f7fa20adee8a3573de726fb94e0a",
+      "origin": "ai"
+    },
+    "dataList[id=501307].levelList[level=1].name": {
+      "pl": "Tigersplitter",
+      "kr_sha256": "c7b53d45fe8b29b26310aaadaab870bda19d46b0015bcc8c21ade53b340d4246",
+      "en_sha256": "f0cdbca20fe7db461748577658873b190f98bb43423dd48fdabfe3035a9c1dc4",
+      "origin": "ai"
+    }
+  }
+}

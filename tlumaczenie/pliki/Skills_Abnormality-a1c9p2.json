@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=132109].levelList[level=1].desc": {
-      "pl": "priorytet: wrogowie z najmniejszym HP\njeżeli cel ma [Paralysis], zadaje +50% obrażeń\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli cel użył Umiejętności obrony, zadaje o 100% mniej obrażeń</u></b></mark></color>\nMoc Bazowa +1 za każde [SelfCharge]\n[WhenUse] traci 1 [SelfCharge]\n[EndSkill] jeżeli był to nieprzeciwstawiany atak, traci 1 [SelfCharge]\n- jeżeli zaatakowany cel użył Umiejętności obrony, traci dodatkowe 1 [SelfCharge]",
+      "pl": "priorytet: wrogowie z najmniejszym HP\njeżeli cel ma [Paralysis], zadaje +50% obrażeń\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli cel użył Umiejętności obrony, zadaje o 100% mniej obrażeń</u></b></mark></color>\nMoc Bazowa +1 za każde [SelfCharge]\n[WhenUse] traci 1 [SelfCharge]\n[EndSkill] jeżeli był to Atak Jednostronny, traci 1 [SelfCharge]\n- jeżeli zaatakowany cel użył Umiejętności obrony, traci dodatkowe 1 [SelfCharge]",
       "kr_sha256": "c0df9e30b98ce12570774df38eb2f89dd2a257abf2cc5350dc42d51cc309ab8a",
       "en_sha256": "2d8497699779ca8d08cc54b76761afbeb17ca9fa76754b1f080b58fbe4e34c17",
       "origin": "ai"
@@ -463,7 +463,7 @@
       "origin": "ai"
     },
     "dataList[id=132110].levelList[level=1].desc": {
-      "pl": "priorytet: wrogowie z najmniejszym HP\njeżeli cel ma [Paralysis], zadaje +50% obrażeń\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli cel użył Umiejętności obrony, zadaje o 100% mniej obrażeń</u></b></mark></color>\nMoc Bazowa +1 za każde [SelfCharge]\n[WhenUse] traci 1 [SelfCharge]\n[EndSkill] jeżeli był to nieprzeciwstawiany atak, traci 1 [SelfCharge]\n- jeżeli zaatakowany cel użył Umiejętności obrony, traci dodatkowe 1 [SelfCharge]",
+      "pl": "priorytet: wrogowie z najmniejszym HP\njeżeli cel ma [Paralysis], zadaje +50% obrażeń\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli cel użył Umiejętności obrony, zadaje o 100% mniej obrażeń</u></b></mark></color>\nMoc Bazowa +1 za każde [SelfCharge]\n[WhenUse] traci 1 [SelfCharge]\n[EndSkill] jeżeli był to Atak Jednostronny, traci 1 [SelfCharge]\n- jeżeli zaatakowany cel użył Umiejętności obrony, traci dodatkowe 1 [SelfCharge]",
       "kr_sha256": "c0df9e30b98ce12570774df38eb2f89dd2a257abf2cc5350dc42d51cc309ab8a",
       "en_sha256": "2d8497699779ca8d08cc54b76761afbeb17ca9fa76754b1f080b58fbe4e34c17",
       "origin": "ai"

@@ -1,0 +1,131 @@
+1||(ulepszenie 1) — nazwa] 재료획득 - 피로 목욕하는 오브제|Gather Ingredient - Blood-bathed Objet
+2||(ulepszenie 1) — opis] 신체관극을 대상으로 우선 지정함\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|Prioritizes Corpus Theaters\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+3||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+4||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가|[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count
+5||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Laceration] 횟수 1 증가|[OnSucceedAttack] Inflict +1 [Laceration] Count
+7||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [ResultReduction] 1 부여|[OnSucceedAttack] Inflict 1 [ResultReduction] next turn
+8||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [ResultEnhancement] 1 얻음|[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn
+9||(ulepszenie 1) — nazwa] 티비아의 멜로디 - 해체된 것이 해체되지 않은 것을 해체하는 것|Tibia's Melody - Anatomization of the Unanatomized by the Anatomized
+10||(ulepszenie 1) — opis] 이 스킬을 장착한 턴에 <color=#ff6000><mark=#ff000040><b><u>공격 스킬로 피격 시</u></b></mark></color>, [PlusCoinValueDown] 1, [ResultReduction] 1 얻음 (스킬당 1회. 턴당 최대 3회)\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n이 스킬로 처치한 대상 하나당 정신력 15 회복\n[StartBattle] [Protection] 4 얻음\n[WhenUse] 메인 타겟과 서브 타겟의 [Laceration]의 합 6당, 피해량 +3% (최대 30%)\n[DefeatDuel] 피해량이 60%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [MineTheRings] 소멸|During the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Gain 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [MineTheRings] expires
+12||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 정신력 피해 5|[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage
+13||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 자신의 정신력 5 회복 (스킬당 1회)|[OnSucceedAttack] Heal 5 SP (once per Skill)
+15||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn
+16||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Protection] 1 얻음 (스킬당 1회)|[OnSucceedAttack] Gain 1 [Protection] next turn (once per Skill)
+18||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [AttackDmgDown] 1 부여|[UnBrokenCoinOnSucceedAttack] Inflict 1 [AttackDmgDown] next turn
+19||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [AttackDmgUp] 1 얻음 (스킬당 1회)|[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn (once per Skill)
+21||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+22||(ulepszenie 1) — nazwa] 우린 피와 살을 사랑해요|Oh, How We Love the Flesh and the Blood
+23||(ulepszenie 1) — opis] 약지 제자 - 알비나를 대상으로 우선 지정함\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>[AttackDmgDown] 4 얻음</u></b></mark></color>|Prioritizes The Ring Apprentice - Albina\n[DefeatDuel] Gain <color=#ff6000><mark=#ff000040><b><u>4 [AttackDmgDown]</u></b></mark></color>
+25||(ulepszenie 1) — moneta 1, efekt 2 — opis] 이 코인은 체력 피해를 입히지 않음|This Coin does not deal HP damage
+27||(ulepszenie 1) — moneta 1, efekt 4 — opis] - 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [AttackUp] 6 부여|- If target is an ally, apply 6 [AttackUp] instead of the effect above
+28||(ulepszenie 1) — nazwa] 전시회 주최|Curating the Exhibition
+29||(ulepszenie 1) — opis] [StartBattle] <color=#ff6000><mark=#ff000040><b><u>[SupportProtect] 2 얻음</u></b></mark></color>\n[WhenUse] 공격자의 공격 종료 전까지 공격자가 보유한 [Laceration] 횟수가 감소하지 않음|[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Gain 2 [SupportProtect]</u></b></mark></color>\n[WhenUse] The attacker does not lose [Laceration] Count before Attack End
+30||(ulepszenie 1) — nazwa] 반달리즘은 사절이랍니다|Please. Vandalism is Prohibited.
+31||(ulepszenie 1) — opis] [DuelCounter]\n[SupportProtect] 전용 스킬\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n[WhenUse] [Protection] 1 얻음\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1|[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Gain 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1
+32||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+33||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Protection] 1 얻음|[OnSucceedAttack] Gain 1 [Protection] next turn
+36||(ulepszenie 1) — nazwa] 폐장 - 설치미술 제 1호 ‘당신들이 흩뿌린 살과 뼈가 객석이 되어’|Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats
+37||(ulepszenie 1) — opis] [CantDuel]\n레벨이 높은 적을 대상으로 우선 지정함\n이 스킬은 수비 스킬을 발동시키지 않음\n[WhenUse] 대상의 [Laceration] 8당, 코인 위력 +1 (최대 2)\n[EndSkill] 턴 종료|[CantDuel]\nPrioritizes enemy with the highest level\nThis Skill does not trigger Defense Skills\n[WhenUse] Coin Power +1 for every 8 [Laceration] on target (max 2)\n[EndSkill] End this turn
+38||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 현재 체력이 최대 체력의 60% 미만이면, 체력 피해 대신 정신력 피해를 입힘|[OnSucceedAttack] At less than 60% HP, deal SP damage instead of HP damage
+39||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>흐트러짐 상태로 만들고 다음 턴에 [LivingSpecimenTheRings]으로 만듦</u></b></mark></color>|[OnSucceedAttack]\n<color=#ff6000><mark=#ff000040><b><u>Stagger target and turn target into [LivingSpecimenTheRings] next turn</u></b></mark></color>
+40||(ulepszenie 1) — nazwa] 도축 - 갈비뼈|Butcher - Ribs
+41||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1|[WhenUse] If target has 6+ [Laceration], Coin Power +1
+42||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+45||(ulepszenie 1) — nazwa] 회전분쇄|Rotator Crush
+47||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+48||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+49||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 1 얻음|[OnSucceedAttack] Gain 1 [Agility] next turn
+50||(ulepszenie 1) — nazwa] 힘줄파열|Tendon Tear
+51||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration] 4당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)
+52||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+56||(ulepszenie 1) — nazwa] 파시아 식사 시간이야|Time to Eat, Fascia
+57||(ulepszenie 1) — opis] [DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+59||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여|[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration]
+61||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 2 증가|[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count
+63||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 정신력 피해 5|[OnSucceedAttack] Deal 5 SP damage
+64||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 자신의 정신력 10 회복|[OnSucceedAttack] Heal 10 SP on self
+65||(ulepszenie 1) — moneta 3, efekt 4 — opis] [OnSucceedAttack] [HumanFleshTheRings] 1 얻음|[OnSucceedAttack] Gain 1 [HumanFleshTheRings]
+66||(ulepszenie 1) — nazwa] 억압당한 육체의 해방|Liberation of the Repressed Flesh
+67||(ulepszenie 1) — opis] 이 스킬을 장착한 턴에 <color=#ff6000><mark=#ff000040><b><u>공격 스킬로 피격 시</u></b></mark></color>, [PlusCoinValueDown] 1, [ResultReduction] 1 얻음 (스킬당 1회. 턴당 최대 3회)\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음\n이 스킬로 처치한 대상 하나당 정신력 15 회복\n[StartBattle] [Protection] 4 얻음\n[WhenUse] 메인 타겟과 서브 타겟의 [Laceration]의 합 6당, 피해량 +3% (최대 30%)\n[DefeatDuel] 피해량이 60%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] [BoneBladeTheRings] 소멸|During the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Gain 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [BoneBladeTheRings] expires
+79||(ulepszenie 1) — nazwa] 시작된 전시회|The Exhibition Begins
+80||(ulepszenie 1) — opis] [StartBattle] <color=#ff6000><mark=#ff000040><b><u>[SupportProtect] 1 얻음</u></b></mark></color>\n[StartBattle] 다음 턴에 [Agility] 1 얻음|[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Gain 1 [SupportProtect]</u></b></mark></color>\n[StartBattle] Gain 1 [Agility] next turn
+81||(ulepszenie 1) — nazwa] 반달리즘은 사절이야|You there. Vandalism is Prohibited.
+87||(ulepszenie 1) — nazwa] 짓밟기|Stomping
+88||(ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면 코인 위력 +1|If target has 4+ [Laceration], Coin Power +1
+89||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+92||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 자신에게 [ReinforcedTattooSpider]이 있으면, [Paralysis] 2 부여|[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]
+93||(ulepszenie 1) — nazwa] 걷어차기|Punting
+95||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 5|[OnSucceedAttack] Raise Stagger Threshold by 5
+97||(ulepszenie 1) — nazwa] 원한 스탬핑|Stamp of Vengeance
+98||(ulepszenie 1) — opis] 대상의 [Laceration] 3당 기본 위력 +1 (최대 3)\n[EndSkill] 자신의 [ResentmentSpider]을 전부 소모하고, [DaughterEducationSpider] 1 얻음|Base Power +1 for every 3 [Laceration] on target (max 3)\n[EndSkill] Consume all [ResentmentSpider] on self and gain 1 [DaughterEducationSpider]
+104||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]
+108||(ulepszenie 1) — nazwa] 고작 이거에 부서지지 말라고!|Don't Let Somethin' Like This Break Ya!
+109||(ulepszenie 1) — opis] [WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 추가 타격 피해 5|[WhenUse] If this unit has [ReinforcedTattooSpider], deal 5 Blunt bonus damage On Coin Hit
+111||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding]
+113||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 추가 타격 피해 10|[OnSucceedAttack] Deal 10 Blunt bonus damage
+115||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Paralysis] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis]
+116||(ulepszenie 1) — nazwa] 규칙 위반|Rule Violation
+117||(ulepszenie 1) — opis] 피격 시 자신의 [ReinforcedTattooSpider] 1당 이 스킬 1회 재사용 (최대 1회)\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가|When hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count
+119||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 회복 10|[OnSucceedAttack] Lower user's Stagger Threshold by 10
+120||(ulepszenie 1) — nazwa] 포장 하나 뜯는다!|Gonna Unbox a Layer of Packaging!
+121||(ulepszenie 1) — opis] [CantChangeTarget]\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 추가 타격 피해 10\n[EndSkill] [MiddleFatherSwordOne]이 [MiddleFatherSwordTwo] 상태가 됨|[CantChangeTarget]\n[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Blunt bonus damage on Coin Hit\n[EndSkill] [MiddleFatherSwordOne] becomes [MiddleFatherSwordTwo]
+129||(ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 [Laceration] 1 추가 부여\n[DefeatDuel] 다음 턴에 [ParryingResultUp] 1 얻음 (턴당 2회)|If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [ParryingResultUp] next turn (2 times per turn)
+135||(ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 [Laceration] 1 추가 부여\n[DefeatDuel] 다음 턴에 [VioletDamageUp] 1 얻음 (턴당 2회)|If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [VioletDamageUp] next turn (2 times per turn)
+136||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 10|[OnSucceedAttack] Raise Stagger Threshold by 10
+139||(ulepszenie 1) — opis] 대상의 [Laceration] 3당 기본 위력 +1 (최대 3)\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 [Laceration] 1 추가 부여\n[EndSkill] 자신의 [ResentmentSpider]을 전부 소모하고, [DaughterEducationSpider] 1 얻음|Base Power +1 for every 3 [Laceration] on target (max 3)\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[EndSkill] Consume all [ResentmentSpider] on self and gain 1 [DaughterEducationSpider]
+145||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 4 부여|[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]
+149||(ulepszenie 1) — nazwa] 후끈해지지 않나?!|Are Ya Feelin' the Heat?!
+150||(ulepszenie 1) — opis] [WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 추가 타격 피해 10\n[BeforeAttack] 자신의 체력이 50% 이하일 때, 피해량 +40%|[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Blunt bonus damage On Coin Hit\n[BeforeAttack] At 50% or less HP, deal +40% damage
+152||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Combustion] 2 부여|[OnSucceedAttack] Inflict 2 [Combustion]
+156||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 추가 타격 피해 15|[OnSucceedAttack] Deal 15 Blunt bonus damage
+159||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Paralysis] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]
+161||(ulepszenie 1) — opis] 피격 시 <color=#ff6000><mark=#ff000040><b><u>자신의 [ReinforcedTattooSpider] 1당 이 스킬 1회 재사용</u></b></mark></color> (최대 1회)\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[BeforeAttack] 자신의 체력이 50% 이하일 때, 피해량 +40%|When hit, <color=#ff6000><mark=#ff000040><b><u>Reuse this Skill once for every [ReinforcedTattooSpider] on self</u></b></mark></color> (1 time max)\n[WhenUse] If this unit has [ReinforcedTattooSpider], On Coin Hit, inflict +1 [Laceration] Count\n[BeforeAttack] At 50% or less HP, deal +40% damage
+164||(ulepszenie 1) — nazwa] 두번째 포장지까지 벗기게 되는군.|Looks Like I Gotta Unbox the Second Layer, too.
+165||(ulepszenie 1) — opis] [CantChangeTarget]\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 추가 타격 피해 10\n[EndSkill] [MiddleFatherSwordTwo] 상태가 [MiddleFatherSwordThree] 상태가 됨|[CantChangeTarget]\n[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Blunt bonus damage on Coin Hit\n[EndSkill] [MiddleFatherSwordTwo] becomes [MiddleFatherSwordThree]
+173||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 5 부여|[OnSucceedAttack] Inflict 5 [Vulnerable]
+174||(ulepszenie 1) — nazwa] 몸 좀 풀어볼까?|Time for Some Warm-up!
+175||(ulepszenie 1) — opis] 대상의 [Laceration]이 5 이상이면 기본 위력 +2\n[DefeatDuel] 이 스킬 피해로 대상이 흐트러지지 않음|If target has 5+ [Laceration], Base Power +2\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target
+176||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 3|[OnSucceedAttack] Deal 3 Blunt bonus damage
+179||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 추가 타격 피해 3|[UnBrokenCoinOnSucceedAttack] Deal 3 Blunt bonus damage
+180||(ulepszenie 1) — moneta 3, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 자신에게 [ReinforcedTattooSpiderDaughter]이 있으면, [Binding] 2 부여|[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughter], inflict 2 [Binding]
+181||(ulepszenie 1) — nazwa] 욜라 패기|Totally Badass Ass-kicking
+182||(ulepszenie 1) — opis] 대상의 [Laceration]이 5 이상이면 기본 위력 +2\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughter]이 있으면, 코인 적중시 [Laceration] 2 부여|If target has 5+ [Laceration], Base Power +2\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], inflict 2 [Laceration] On Coin Hit
+183||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 추가 타격 피해 5|[OnSucceedAttack] Deal 5 Blunt bonus damage
+187||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 자신의 [GotACompliment]가 4 이상이면, 이 코인 3회 재사용|[OnSucceedAttack] At 4+ [GotACompliment], Reuse this Coin 3 times
+188||(ulepszenie 1) — nazwa] 해결사 배 가르기!|Fixer Disemboweling!
+189||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpider] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Laceration]이 4 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughter]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[EndSkill] 자신의 [GotACompliment]가 2 이상이면, 다음 턴에 [VioletDamageUp] 1 얻음|Thermal Blade Skill. \nWhen in [HeatingWireOnSpider] state, this Skill activates its Thermal Blade effects\nIf target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], inflict +1 [Laceration] Count On Coin Hit\n[EndSkill] At 2+ [GotACompliment], gain 1 [VioletDamageUp] next turn
+192||(ulepszenie 1) — nazwa] 십자난무!|Crossing Dervish!
+193||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpider] 상태일 때 열선[TabExplain] 효과가 적용됨\n대상의 [Laceration]이 4 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughter]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[DefeatDuel] 이 스킬 피해로 대상이 흐트러지지 않음|Thermal Blade Skill. \nWhen in [HeatingWireOnSpider] state, this Skill activates its Thermal Blade effects\nIf target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], inflict +1 [Laceration] Count On Coin Hit\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target
+201||(ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 추가 타격 피해 5|[UnBrokenCoinOnSucceedAttack] Deal 5 Blunt bonus damage
+203||(ulepszenie 1) — nazwa] 바이올렛 브레이크 슬램!|Violet~ Breaking Slam!
+204||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpider] 상태일 때 열선[TabExplain] 효과가 적용됨\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughter]이 있으면, 코인 적중시 대상의 [Laceration] 횟수 1 증가\n[WhenUse] 자신의 체력이 40% 이하일 때, 피해량 +60%\n[WhenUse] 자신의 [GotACompliment]가 5 이상이면, 코인 적중시 50% 확률로 [Paralysis] 1 부여\n[DefeatDuel] 이 스킬 피해로 대상이 흐트러지지 않음\n[EndSkill] 자신의 [ResentmentSpiderDaughter]을 전부 소모하고, [GotACompliment] 1 얻음|Thermal Blade Skill. \nWhen in [HeatingWireOnSpider] state, this Skill activates its Thermal Blade effects\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], inflict +1 [Laceration] Count On Coin Hit\n[WhenUse] At 40% or less HP, deal +60% damage\n[WhenUse] At 5+ [GotACompliment], 50% chance to inflict 1 [Paralysis] On Coin Hit\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[EndSkill] Consume all [ResentmentSpiderDaughter] on self and gain 1 [GotACompliment]
+213||(ulepszenie 1) — moneta 4, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 흐트러짐 손상 5|[UnBrokenCoinOnSucceedAttack] Raise Stagger Threshold by 5
+216||(ulepszenie 1) — nazwa] 가만 안둬|I'll Get You Back for This...!
+217||(ulepszenie 1) — opis] 이 스킬은 [HeatingWireOnSpider] 상태일 때 열선[TabExplain] 효과가 적용됨\n피격 시 <color=#ff6000><mark=#ff000040><b><u>자신의 [ReinforcedTattooSpiderDaughter] 1당 이 스킬 1회 재사용</u></b></mark></color> (최대 2회)\n[WhenUse] 자신에게 [ReinforcedTattooSpiderDaughter]이 있으면, 코인 적중시 [Laceration] 1 부여\n[WhenUse] 자신의 체력이 40% 이하일 때, 피해량 +40%|Thermal Blade Skill. \nWhen in [HeatingWireOnSpider] state, this Skill activates its Thermal Blade effects\nWhen Hit, <color=#ff6000><mark=#ff000040><b><u>Reuse this Skill once for every [ReinforcedTattooSpiderDaughter] on self</u></b></mark></color> (2 times max)\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughter], inflict 1 [Laceration] On Coin Hit\n[WhenUse] At 40% or less HP, deal +40% damage
+219||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration]
+221||(ulepszenie 1) — nazwa] 짓밟기!|Stomping!
+222||(ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면 코인 위력 +1\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 [Laceration] 1 추가 부여\n[DefeatDuel] 다음 턴에 [SkillPowerUp] 1 얻음 (턴당 2회)|If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)
+223||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+227||(ulepszenie 1) — nazwa] 걷어차기!|Punting!
+229||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 15|[OnSucceedAttack] Raise Stagger Threshold by 15
+231||(ulepszenie 1) — nazwa] 즉결 처형 스탬핑!|Stamp of Complete and Total Extermination!
+238||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 5 부여|[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]
+240||(ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 3 증가|[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count
+242||(ulepszenie 1) — nazwa] 슬슬 녹아 죽을 차례다|Time to Melt Away and Die
+243||(ulepszenie 1) — opis] [WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 추가 참격 피해 10\n[BeforeAttack] 자신의 체력이 50% 이하일 때, 피해량 +40%|[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Slash bonus damage On Coin Hit\n[BeforeAttack] At 50% or less HP, deal +40% damage
+245||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Combustion] 4 부여|[OnSucceedAttack] Inflict 4 [Combustion]
+249||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 추가 참격 피해 15|[OnSucceedAttack] Deal 15 Slash bonus damage
+253||(ulepszenie 1) — nazwa] 규칙 위반!|Rule Violation!
+257||(ulepszenie 1) — nazwa] 레바테인 - 여기까지 꺼내는 것도 오랜만이군!|Lævateinn - Been a While Since I Had to Unbox the Whole Thing!
+258||(ulepszenie 1) — opis] [CantChangeTarget]\n[WhenUse] 자신에게 [ReinforcedTattooSpider]이 있으면, 코인 적중시 추가 참격 피해 10\n[EndSkill] [MiddleFatherSwordThree] 상태가 [MiddleFatherSwordFour]이 됨|[CantChangeTarget]\n[WhenUse] If this unit has [ReinforcedTattooSpider], deal 10 Slash bonus damage on Coin Hit\n[EndSkill] [MiddleFatherSwordThree] becomes [MiddleFatherSwordFour]
+260||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 추가 참격 피해 10|[OnSucceedAttack] Deal 10 Slash bonus damage
+266||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Vulnerable] 10 부여|[OnSucceedAttack] Inflict 10 [Vulnerable]
+267||(ulepszenie 1) — nazwa] 배떼지를 갈라주지|I'll Gut Ya Like a Fish
+268||(ulepszenie 1) — opis] [BeforeUse] 자신의 정신력 10 감소\n[DefeatDuel] 이 스킬 피해로 대상이 흐트러지지 않음\n[DefeatDuel] 다음 턴에 [SkillPowerUp] 1 얻음 (턴당 2회)\n[BeforeAttack] (이 스킬의 코인 수 x 2)만큼 [Combustion] 얻음|[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]
+270||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 흐트러짐 손상 10|[UnBrokenCoinOnSucceedAttack] Raise Stagger Threshold by 10
+273||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Combustion] 10 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 10 [Combustion] and +2 [Combustion] Count
+274||(ulepszenie 1) — nazwa] 칼빵 [레바테인]|Gut Stab [Lævateinn]
+275||(ulepszenie 1) — opis] [BeforeUse] 자신의 정신력 10 감소\n[DefeatDuel] 이 스킬 피해로 대상이 흐트러지지 않음\n[BeforeAttack] 자신의 체력이 50% 이하일 때, 피해량 +40%\n[BeforeAttack] (이 스킬의 코인 수 x 2)만큼 [Combustion] 얻음|[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At 50%- HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]
+277||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 추가 타격 피해 10|[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage
+281||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Combustion] 10 부여|[OnSucceedAttack] Inflict 10 [Combustion]
+283||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] [Combustion] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Combustion] Count
