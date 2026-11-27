@@ -1,10 +1,20 @@
 {
   "entries": {
+    "dataList[id=그레고르].description": {
+      "pl": "Ten Grzesznik pod względem charakteru jest łatwiejszy w obyciu od pozostałych.\nJednak pod wpływem silnych emocji albo nagłej zmiany otoczenia część jego ciała,\na niekiedy całe, zmienia się w tkankę owada (fragmenty pancerza, podobne do ■■■■).\nJeśli nie chce pan być nieuprzejmym Kierownikiem (choć oczywiście nie musi pan),\nzalecamy pilnować wyrazu twarzy, by nie okazać obrzydzenia.\nBywa cyniczny, ale gdy pozna się sposób, można się z nim swobodnie porozumieć,\nnie sprawia więc większych trudności.",
+      "kr_sha256": "166539fb6308cbb07d0236cdba50cd2ed9e7b02e214bc07b4511e250957db82d",
+      "en_sha256": "9594a03f76ba3abab6df4f3a887ead0e428077721e9696413d8e922700ca3261"
+    },
     "dataList[id=그레고르].name": {
       "pl": "Gregor",
       "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
       "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
       "origin": "ai"
+    },
+    "dataList[id=돈키호테].description": {
+      "pl": "Gdyby mierzyć Grzeszników samym zapałem, ta otrzymałaby najwyższą ocenę.\nJest zagorzałą fanką i kolekcjonerką wszystkiego, co związane z Fikserami,\ndlatego obwiesza się pamiątkami po nich od stóp do głów. Nie wpływa to\nszczególnie na walkę, nie ma więc potrzeby jej tego zabraniać.\nSama jest głęboko zatopiona w roli Fiksera sprawiedliwości (czy coś takiego\nw ogóle kiedykolwiek istniało?), stąd przesadna gestykulacja niczym\nu aktorki trzeciej kategorii. Dla sprawnego przebiegu misji lepiej jej przytakiwać.",
+      "kr_sha256": "64b44cbceee1f61b8fa759350543043fb7e073871bd2e1c05aa583be7ee2df25",
+      "en_sha256": "7b00ce9f20d6da82cffa47981f8bc356d8627791f8571cdce0e07157d8c83d14"
     },
     "dataList[id=돈키호테].name": {
       "pl": "Don Quixote",
@@ -12,11 +22,21 @@
       "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
       "origin": "ai"
     },
+    "dataList[id=로쟈].description": {
+      "pl": "Grzesznica, po której jaskrawo widać przykre piętno urodzenia w Zaułkach.\nLubi pieniądze, hazard i zakłady, dlatego wymaga baczniejszej uwagi Kierownika.\nNa polecenia ma zwyczaj odpowiadać nieudolnym mrugnięciem albo głupim żartem,\ndlatego czasem zalecamy okazać jej surowość przełożonego.\nNieregularnie popada w przygnębienie; Kierownik nie może wtedy nic\nzrobić, najskuteczniej jest spokojnie przeczekać.",
+      "kr_sha256": "b2b257ed970b971b8e01b76e68e0f676710db08a6fba076fe6ca706831b95955",
+      "en_sha256": "1b2cd84b4f20ca50accc7068a2387749d96ed56875222efd2914f380a82b4158"
+    },
     "dataList[id=로쟈].name": {
       "pl": "Rodion",
       "kr_sha256": "16d8c1c1b63831d5fec78cf40edb5f5faccd0b57ef22652ab7e97c63209ad18b",
       "en_sha256": "cdc363d53e27f293f3fe1d54db1fd9edf502feb4145e376ae79827225bc65143",
       "origin": "ai"
+    },
+    "dataList[id=료슈].description": {
+      "pl": "Każdy Grzesznik ma własne credo, a szanowanie go należy ponoć do obowiązków Kierownika,\nale czasem trudno będzie choćby udawać zrozumienie. Zapewne pan zauważył,\nże ta Grzesznica na co dzień tylko pali i milczy, lecz w walce jej oczy\nmigocą zachwytem. Bezmyślne rozbijanie przeciwnikom głów w czasie walki\nuważa za prostackie i cofające sztukę w rozwoju.\n[OSTRZEŻENIE] - Grzesznica ma przeszłość, z którą nawet nasza firma może\nsobie nie poradzić; w miarę możliwości proszę nie wzbudzać w niej osobistej urazy.",
+      "kr_sha256": "943bff71e0b007590c5a8e6b0fa5b2bc3829a713b165d8dbdb133d54dbdc9efe",
+      "en_sha256": "73b8bafdbddad31a5eb633c15b83804b2b08e70799f187a46d6c27ae5042f781"
     },
     "dataList[id=료슈].name": {
       "pl": "Ryōshū",
@@ -24,11 +44,21 @@
       "en_sha256": "2d2638ed1d0c187bd6efc8438a3b857e72af96a38209daac16da437786211a2e",
       "origin": "ai"
     },
+    "dataList[id=뫼르소].description": {
+      "pl": "Wymaga jasnych i krótkich poleceń, niezostawiających mu pola do własnego osądu.",
+      "kr_sha256": "7534f8b2d3e52edb72f40fc617b72b720f1de0cc6479f3bd78eff0c6391e2f2f",
+      "en_sha256": "0764ab27b49c72bef6b3420967e7c4c3729b7094396899cac4e8c95ab17f959e"
+    },
     "dataList[id=뫼르소].name": {
       "pl": "Meursault",
       "kr_sha256": "a6bffbdb7e99e74cfd7e82872fd54706ab334e7b8e8075569d430d77f8a73eff",
       "en_sha256": "93b316a9967aac5b60bb6754e7b97f3d6200de7f161a04fb9e3d7e5eb53534fe",
       "origin": "ai"
+    },
+    "dataList[id=싱클레어].description": {
+      "pl": "Nawet biorąc poprawkę na burzliwy okres dorastania, Grzesznik wyróżnia się tym,\nże zagadnięty, wyjątkowo łatwo się wzdryga albo krzywi. Nie jest też obyty\nz walką, więc na początku może mu być ciężko nawet patrzeć na wnętrzności.\nWśród Grzeszników są osoby skłonne do przemocy, dlatego zalecamy,\nby Kierownik stosował wobec niego raczej marchewkę niż kij.\nBywa, że ma w oczach żądzę mordu, której sam nie jest świadom, co jednak\noznacza potencjał w dziedzinie działalności naszej firmy; przy odpowiednich bodźcach liczymy, że wyrośnie na znakomitego fachowca.",
+      "kr_sha256": "5e6f134240927e7a5b995d59df3a834184a944d124a4a2b24dbee7a472852a81",
+      "en_sha256": "8431e89b9493183fd8bad345fdeeabe8ab03769e53fff5b859a936e35b147d8e"
     },
     "dataList[id=싱클레어].name": {
       "pl": "Sinclair",
@@ -36,11 +66,21 @@
       "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
       "origin": "ai"
     },
+    "dataList[id=오티스].description": {
+      "pl": "Grzesznica, która zależnie od umiejętności Kierownika może być znakomitą doradczynią.\nMa jednak skłonność do wtrącania się we wszystko, dlatego zalecamy\nw miarę jej przytakiwać. W taktyce i wielu innych dziedzinach ma bogate\ndoświadczenie, warto więc zasięgać jej rady. Dodatkowo zna się świetnie\nna technologiach Warsztatów, można jej więc powierzać drobne naprawy autobusu.\n[UWAGA] - W odróżnieniu od innych Grzeszników wgląd w jej przeszłość jest zabroniony.\n[UWAGA] - Proszę pilnować, by poza misją nie było słychać, jak obracają się trybiki w jej głowie.",
+      "kr_sha256": "341cd2fdb3a20a8cabe33536f6ac14ceb4885d2abe5f8b1c7530084a2edf8e01",
+      "en_sha256": "dfe0526ceac7d9743d1377d8d6f8834ac33fd6cbeb61d765b9848b601488e074"
+    },
     "dataList[id=오티스].name": {
       "pl": "Outis",
       "kr_sha256": "6a7b35722f0200adb7ccbb1f8997effef21a975f24c21be3e870cf1d5ff5ca78",
       "en_sha256": "1a902be05b7a935924efad11e5354b78977bce10f07d091c8f12bca89dcfd497",
       "origin": "ai"
+    },
+    "dataList[id=이상].description": {
+      "pl": "[UTAJNIONO] Były najmłodszy główny badacz w Skrzydle; pod względem inteligencji\nprzewyższa pozostałych Grzeszników. Oceniamy, że codzienna rozmowa z nim\nprzekroczy zapewne możliwości Kierownika, którego wybraliśmy. Z drugiej strony\notwarte unikanie kontaktu również niesie ryzyko. Jeśli Grzesznik milczy\nzbyt długo, oznacza to, że przetwarza w głowie ciąg myśli;\nzalecamy wyrozumiałość i cierpliwe czekanie.",
+      "kr_sha256": "4a9947d4e6ab6029ffd50040b68d45e0b759c5cf2993d41953ca46ea6a636aa9",
+      "en_sha256": "6b69241d60a9b1f2dc83744dce96d744f732be6c210280f1879c7a78f0220515"
     },
     "dataList[id=이상].name": {
       "pl": "Yi Sang",
@@ -48,11 +88,21 @@
       "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
       "origin": "ai"
     },
+    "dataList[id=이스마엘].description": {
+      "pl": "Być może widok tylu Grzeszników z licznymi wadami odbiera panu nadzieję.\nSpokojnie. Ta Grzesznica należy do nielicznych, które wykonują zadania\nbez większego szemrania. Zwykle podejmuje rozsądne decyzje, dlatego gdy\npotrzebuje pan rady, dobrze jest zagaić, patrząc w jej stronę.\nProszę jednak nie zapominać: przeżyła niedorzeczną żeglugę po dalekiej\ni ogromnej wodzie, jej cierpliwość jest więc długa, ale gdy relacja\nraz zacznie się psuć, trudno ją będzie naprawić.",
+      "kr_sha256": "380d344c9e4d7cbae03abfc1fbab262561bbdbbf573845f96011a8f8e0ad837b",
+      "en_sha256": "56ebdf2b1600be3460a84190a5990566548d6f72d2135415696c287bb3865873"
+    },
     "dataList[id=이스마엘].name": {
       "pl": "Ishmael",
       "kr_sha256": "c2074a2e5b6aa154dadc947a270215c99355a6f56e08a219d2acdb10a9e1f4e7",
       "en_sha256": "1aa0fcc1147088ab255380f60b7d1b6394fd447a33ef5a067c188b79f9b81d94",
       "origin": "ai"
+    },
+    "dataList[id=파우스트].description": {
+      "pl": "Grzesznica, która opracowała silnik Mephistophelesa, autobusu Limbus Company.\nTwierdzi, że w całym Mieście nikt nie dorównuje jej wiedzą ani mądrością,\ni nie ma w tym przesady. Może pana razić jej postawa, jakby rozmawiała\nz Kierownikiem wyłącznie z konieczności. Ponieważ tę samą wyniosłość,\nskrywaną przed światem, okazuje wszystkim, nie ma szans na poprawę;\nzalecamy po prostu kiwnąć głową. To geniusz jak nikt inny, ale my\nnie wiemy, jak z niego korzystać. Może to pan odkryje?",
+      "kr_sha256": "8bfe79b2712891091053d60fa6aa971beffdc3364ed21e3b4985ff139d3c557d",
+      "en_sha256": "02d40a482a0f77311e78911f572c673f043e8332c98f0ecbca92b02397db2594"
     },
     "dataList[id=파우스트].name": {
       "pl": "Faust",
@@ -60,11 +110,21 @@
       "en_sha256": "b84cf1bf2ccd36dfb13947043dcbf706443e9c25846ed0793d3ed2fc989a17f8",
       "origin": "ai"
     },
+    "dataList[id=홍루].description": {
+      "pl": "Grzesznik, który do chwili, gdy stał się aktywem naszej firmy, nie zaznał niedostatku.\nDlatego ceni sobie swobodę, ale czasem, widząc potrawę przyrządzoną\nprzez innego Grzesznika, zdradza nieznajomość “niższej” kultury i zadaje\nuwłaczające pytania, co może wywracać innym Grzesznikom wnętrzności.\nNie kryje się w tym jednak drwina, a jedynie szczera ciekawość,\nnie warto więc dopuszczać do tego, by sięgali po ostrza.",
+      "kr_sha256": "05e0c0dc9befb13e2140dd0df4716b2627061c1632b43af6b05212c2322473f1",
+      "en_sha256": "5fd01ddba053e71f153dc318215d7169a52edcb6faee29be0e660f7092a19954"
+    },
     "dataList[id=홍루].name": {
       "pl": "Hong Lu",
       "kr_sha256": "2b369f13319577b09b369b2b7ac7848ec9782c844f41d033b3b0ad4ad1fd2233",
       "en_sha256": "ca223f8d41f5eb9fe1ea7acc081a865b03039d61ed9c0cd64158f880f9eab9a2",
       "origin": "ai"
+    },
+    "dataList[id=히스클리프].description": {
+      "pl": "Grzesznik, który od logicznego myślenia woli działanie.\nMyśli i uczucia ma wypisane na twarzy i w słowach, i nawet nie próbuje ich ukryć,\nmoże więc przysporzyć panu bólu głowy (albo i obrażeń fizycznych…)\nprzy budowaniu wzajemnych relacji. Prosimy pamiętać, że nie świadczy to\no poważnym zaburzeniu jego procesów myślowych. Jeśli gniew długo nie mija,\nprosimy o kontakt z działem kadr. Ale z takimi typami jest łatwo,\ngdy tylko się pojmie, że myślą głupio i prosto.",
+      "kr_sha256": "efc98df45568bf76619a39c18600ed68b1c596c8fabdb2072377655062affbb2",
+      "en_sha256": "90343241b5f5b587d1f721e18586916f63f32b7a5dbdcb8b415bc0b9167b77fe"
     },
     "dataList[id=히스클리프].name": {
       "pl": "Heathcliff",

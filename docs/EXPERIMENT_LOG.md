@@ -656,3 +656,22 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
   Dysku Google (`1Fz9csdM4jhg1TAOIUNastxaP_yKAqrdh`, `2 125 507` B,
   61 plików MD; wcześniejsza wersja `1RVUhsYgyv2Hs6hwqliS8JwAZOXzusKzs`
   z E-017 przeniesiona do kosza).
+
+### E-019 · 2026-11-27 · Integracja trzeciej zwrotki tłumacza (`LC_PL3.zip`) — akta Grzeszników (#1–#12)
+
+- **Wejście (`LC_PL3.zip`):** `2 871 898` B, SHA-256
+  `cd1ae6b6b8e733497b3bf2fafc3681808a2411cff9ddfce336a3d97ec81f2b69` — `36`
+  plików Markdown: `24` plików identycznych z `LC_PL2` (porównanie bajtowe)
+  plus `12` **nowych** widoków `02_tozsamosc_01..12_<Grzesznik>_a.md`
+  (karty Tożsamości Grzeszników #1–#12 z aktami więźnia). Do integracji
+  wzięto wyłącznie deltę (`12` plików → `zwrotki/tlumacz/LC_PL3/PL/widoki/`,
+  polityka `D-12`, wraz z `import_report.json`).
+- **Wynik importu (`tlumaczenie/`, tryb Tłumacza, bez `--ai`):** `12` plików,
+  `12 954` elementów: **przetłumaczono `12`**, odziedziczono powtórzeń `0`,
+  zaktualizowano adresów `12`, bez przekładu `8 398` (karty Tożsamości
+  pozostają niezapełnione w zwrotce — do osobnej dostawy), `replaced_ai: 0`,
+  `skipped_human_existing: 0`, `0` ostrzeżeń, `0` błędów. Nowe wpisy PL =
+  **akta (bio) wszystkich 12 Grzeszników** (`IntroduceCharacter.json ::
+  dataList[id=<한글>].description`); `tlumaczenie/MANIFEST.json`:
+  `human_addresses` `7 147` → **`7 159`**, `translated_addresses`
+  `58 750` → **`58 762`**.
