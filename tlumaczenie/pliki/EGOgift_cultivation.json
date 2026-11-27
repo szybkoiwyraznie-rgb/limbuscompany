@@ -1,0 +1,352 @@
+{
+  "entries": {
+    "dataList[id=19826].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #2, <style=\"upgradeHighlight\">#4</style>]\n\nPodstawowe Umiejętności zadają +1% obrażeń za każde 1% brakującego własnego HP (maks. 10%)",
+      "kr_sha256": "8ba00f8e0d8dd4070977fb1acd18a02fb946abb8c506fbcad7fc1c41ec92118d",
+      "en_sha256": "7c6fb9e44316cb8e00f37351a909fe216ae9ee271caae01830cf6264687b9984",
+      "origin": "ai"
+    },
+    "dataList[id=19826].name": {
+      "pl": "Wino Shaoxing+",
+      "kr_sha256": "a9e71769d652055f63f5cf087d35ba8c2eae8fee3c9c19fdddb5f51824746f90",
+      "en_sha256": "97f4fee27c83034fb8b7874c49bc5e488f4a205b51b75fde87858c4bb631f81b",
+      "origin": "ai"
+    },
+    "dataList[id=19826].simpleDesc[abilityID=19826].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń zależnie od brakującego HP",
+      "kr_sha256": "cbc3b43a44a7095c6be97b229d17c009859e775ef399d80dcc1e4c7b5ef2e311",
+      "en_sha256": "78f6de791f853c4954419337d77373272a4375aaec9acc2b518534e7c20c1b3f",
+      "origin": "ai"
+    },
+    "dataList[id=29826].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #2, #4, <style=\"upgradeHighlight\">#6</style>]\n\nPodstawowe Umiejętności zadają +1% obrażeń za każde 1% brakującego własnego HP (maks. 10%)",
+      "kr_sha256": "9827508e89f562c29b05e6a98bee05afaddabf0f92245544ef16f3b5c4a1bb43",
+      "en_sha256": "0342109c8cb51a246fb69493bac283c3c7fbe087d8ac4a582c7e436bf193f154",
+      "origin": "ai"
+    },
+    "dataList[id=29826].name": {
+      "pl": "Wino Shaoxing++",
+      "kr_sha256": "10e85cf27a2b04c417c3c24120b3d9beea4165b97d916c5c79bb75a6ec80220d",
+      "en_sha256": "2c408a19ed31269f3776ee4748f9ca293844c38bae4e639086957567b6f9fa00",
+      "origin": "ai"
+    },
+    "dataList[id=29826].simpleDesc[abilityID=29826].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń zależnie od brakującego HP",
+      "kr_sha256": "cbc3b43a44a7095c6be97b229d17c009859e775ef399d80dcc1e4c7b5ef2e311",
+      "en_sha256": "78f6de791f853c4954419337d77373272a4375aaec9acc2b518534e7c20c1b3f",
+      "origin": "ai"
+    },
+    "dataList[id=9819].desc": {
+      "pl": "Na początku pierwszej tury walki: Tożsamości z Podstawowymi Umiejętnościami ataku nakładającymi [Combustion] zyskują 5 [Combustion] i odzyskują 8 SP\n\nTożsamości frakcji Heishou - Gałąź You mają Maks. HP ograniczone do 49%; w zamian otrzymują o 50% mniej obrażeń i o 50% mniej leczenia (z wyjątkiem leczenia z Darów E.G.O)",
+      "kr_sha256": "c052a88e44a6d509ca1ea45f468d94b370c44987a1dc9cfc9687a548f568e764",
+      "en_sha256": "84a5f135e52e81a3b92e581a496de1e1718a501e2646537c69632994a200841f",
+      "origin": "ai"
+    },
+    "dataList[id=9819].name": {
+      "pl": "Krwawopłomienny Miecz",
+      "kr_sha256": "378023ff54950ed6b3cc53e05df0b071408989a8a281cec10eee0e7138bf1055",
+      "en_sha256": "30a7cef198a903b6a08f7cba80c9e20d98c2658dbc8fa8921982375f888aae38",
+      "origin": "ai"
+    },
+    "dataList[id=9819].simpleDesc[abilityID=98191].simpleDesc": {
+      "pl": "Maks. HP ograniczone. Otrzymuje mniej obrażeń i mniejsze leczenie.",
+      "kr_sha256": "b04ac6e3a6e0972915e4e6d2e8f1b41afd7d489d7fdc37225f71974f68f44e4a",
+      "en_sha256": "94442a27b2d3dc7ea742011d6616f5044ba32d2818f44ca553bf7c9d0d0b70df",
+      "origin": "ai"
+    },
+    "dataList[id=9819].simpleDesc[abilityID=9819].simpleDesc": {
+      "pl": "Zyskuje [Combustion], Wzrosty Poziomu Ataku i odzyskuje SP",
+      "kr_sha256": "79faa81a20368d7f191b53cb56ee16f9d2bb0d11089493b37d46be6e7253f945",
+      "en_sha256": "5d4ce317625cbbfca97875feab9974954882381d3a8eebbe3d60bcfa1c720a17",
+      "origin": "ai"
+    },
+    "dataList[id=9820].desc": {
+      "pl": "Na początku tury: nakłada Tarczę (Poziom Obrony/3) na 1 sojusznika z najwyższym Poziomem Obrony (priorytet: Tożsamości frakcji Heishou - Gałąź Wu; maks. Tarcza 15)\n\nGdy sojusznik z Tarczą wygra Starcie, nakłada na wroga (Prędkość/2) Siły [Vibration], a następna tura zyskuje 2 [Agility] i 2 [DefenseUp] (1 raz na turę na Tożsamość)",
+      "kr_sha256": "af8dd8fab428f20509b5c3274a3b95db888120e7f086f44e94e55cdc225c4c3c",
+      "en_sha256": "34d62b940faf9036f36059721f0161f9675f7f72bd82f3fd8d68d8d58c25cf86",
+      "origin": "ai"
+    },
+    "dataList[id=9820].name": {
+      "pl": "Czarnożelazna Zbroja",
+      "kr_sha256": "cf18d5eb3b6109b861ca1eed6e6289291def5110312de589ac5c11d908d2f9de",
+      "en_sha256": "f9108c3d01af4932b6b01d0471c7008a31068bd151ff781a504c0c3a70523558",
+      "origin": "ai"
+    },
+    "dataList[id=9820].simpleDesc[abilityID=98201].simpleDesc": {
+      "pl": "Nakłada Siłę Wstrząsu proporcjonalną do Prędkości; następna tura zyskuje Poziom Obrony",
+      "kr_sha256": "720a439495f93db1dbed310e7470af3bfab4f3d210e1be9483b6b928d8c13746",
+      "en_sha256": "f5db237ffe0078fae7df847d25bfd7e98d5c8709801b8b067f2bc8154dd232ea",
+      "origin": "ai"
+    },
+    "dataList[id=9820].simpleDesc[abilityID=9820].simpleDesc": {
+      "pl": "Nakłada Tarczę i [Agility] na sojusznika",
+      "kr_sha256": "66651c98d2263b61ece5a300adb6d66056914ae424eaa1d6af4775e7b803cdc8",
+      "en_sha256": "9dfd3b5a212a77d49440168ce9e37013f75b8acd951c55c6982e01e55e8ca07c",
+      "origin": "ai"
+    },
+    "dataList[id=9821].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #1]\n\nGdy inni sojusznicy trafią wroga Atakiem Jednostronnym, następna tura zyskuje 1 [AttackUp] (każda Tożsamość wywołuje to 1 raz na turę; efekt działa maks. 6 razy na turę)\n\nGdy inni sojusznicy wykonają [RetreatForCommon], następna tura zyskuje 1 [SlashResultUp] i 1 [SlashDamageUp] (maks. 1 raz na turę)\n\nJeżeli wszystkie powyższe warunki są spełnione, następna tura zyskuje 1 [ResultEnhancement] (maks. 1 raz na turę)",
+      "kr_sha256": "95bdc036b02908aa6c7530d29afe6713a56a4ba6fff97b0112852351ab323697",
+      "en_sha256": "132bbc19c5edd175fa705aa606e64f7ff6f429e64ab0473dc25562c89849b448",
+      "origin": "ai"
+    },
+    "dataList[id=9821].name": {
+      "pl": "Czerwona Tkanina Zamykająca Serce",
+      "kr_sha256": "b7f64c6eaea062bbf3d668f3a3a211ac0c13b62087193ceed32de8917304ab4d",
+      "en_sha256": "bd195e576c552dba8eeac71150c84be91c2d36f55340c31330e710896c340cc9",
+      "origin": "ai"
+    },
+    "dataList[id=9821].simpleDesc[abilityID=98211].simpleDesc": {
+      "pl": "Następna tura zyskuje Wzrost Mocy Cięcia i Wzrost Obrażeń Cięcia",
+      "kr_sha256": "f11d0f4bd13193c80b4c6ee46f45574702f79b28161e65acb33c1eff5ce763cd",
+      "en_sha256": "c5eabc15af0d9146c2e1c92fba2d369763cb44687db17e5008555dca82bf22a7",
+      "origin": "ai"
+    },
+    "dataList[id=9821].simpleDesc[abilityID=98212].simpleDesc": {
+      "pl": "Następna tura zyskuje Wzrost Mocy",
+      "kr_sha256": "0f03bcb21518724767a2d036ad014f8fba0fe2b2f14e4144a0a01f850c88786a",
+      "en_sha256": "830048145de4b396bc4b802edad308933caa2cd0c17566367354cf523f90f47f",
+      "origin": "ai"
+    },
+    "dataList[id=9821].simpleDesc[abilityID=9821].simpleDesc": {
+      "pl": "Następna tura zyskuje Poziom Ataku",
+      "kr_sha256": "700c49af966642e1d798d0717abcc7f3ad681f0538016b6868379986927c4cbd",
+      "en_sha256": "e15cf542008deb3c2c93262a02bc26d84fd9975cb4f71ce79780aba0c6d959d3",
+      "origin": "ai"
+    },
+    "dataList[id=9822].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nGdy wygra Starcie Umiejętnością ataku (łącznie z Umiejętnościami E.G.O) nakładającą Siłę lub Licznik [Burst], następna tura zyskuje 2 [DefenseUp] (maks. 1 raz na turę)\n- Frakcja Kandydata na Głowę Rodu dodatkowo zyskuje 1 [Agility] następnej tury",
+      "kr_sha256": "09f8a6b157dfed53c4efd385645241a5e0c086b4ed8a7826bc39d6fa6d794e78",
+      "en_sha256": "4b48c409066b99c8ad786e57767cfbe15a3f6ba0d7d51a7c563449e4d2dffb94",
+      "origin": "ai"
+    },
+    "dataList[id=9822].name": {
+      "pl": "Cnota - Zhi (智)",
+      "kr_sha256": "5824e70205ad3255e79c1523882e94a23aac633e9b545b18104cb8a426d930ae",
+      "en_sha256": "ae92666b24a8d3559e68f19a669ae03171a6e954f4ff3d57edda066d0df581a4",
+      "origin": "ai"
+    },
+    "dataList[id=9822].simpleDesc[abilityID=9822].simpleDesc": {
+      "pl": "Zyskuje Wzrost Poziomu Obrony. Frakcja Kandydata na Głowę Rodu również zyskuje [Agility] następnej tury",
+      "kr_sha256": "9ef9210100dcbc456ee1747154cb6b7c42c98b3817d0de7d162f046c822e68eb",
+      "en_sha256": "83edfbdbe71cd781e956473caa6a94c184d78209e4c0929ee2f6ab5437383983",
+      "origin": "ai"
+    },
+    "dataList[id=9823].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nGdy wygra Starcie Umiejętnością ataku (łącznie z Umiejętnościami E.G.O) nakładającą Siłę lub Licznik [Burst], następna tura zyskuje 2 [AttackUp] (maks. 1 raz na turę)\n- Frakcja Kandydata na Głowę Rodu dodatkowo zyskuje 3 [AttackUp] następnej tury",
+      "kr_sha256": "0ad6879a788cca1b36da6feaec2c0016d56f92302aee63e8bd7e77a540e5dd36",
+      "en_sha256": "53495deca944fedb8850c667b3c38893a6dc6d61a22f82505b8fb1dea6fb812b",
+      "origin": "ai"
+    },
+    "dataList[id=9823].name": {
+      "pl": "Cnota - Yong (勇)",
+      "kr_sha256": "59cf89c6fbf16783780676b2e865a923db6bb9fafa7bc33ec01ee15528809317",
+      "en_sha256": "816072d9b7c694ff2073bb26c8351c87957200c60f4f1344ea9c8b0b9fb51993",
+      "origin": "ai"
+    },
+    "dataList[id=9823].simpleDesc[abilityID=9823].simpleDesc": {
+      "pl": "Zyskuje Wzrost Poziomu Ataku. Frakcja Kandydata na Głowę Rodu również zyskuje [AttackUp] następnej tury",
+      "kr_sha256": "d2d448b4383e1f014d188dabe3048e6958475b71f23d0c3402430f724ffbad5c",
+      "en_sha256": "02a55157e6dac182fa787e560ed8df9260140e0d02d868da8faeebe9aa941328",
+      "origin": "ai"
+    },
+    "dataList[id=9824].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nGdy wygra Starcie Umiejętnością ataku (łącznie z Umiejętnościami E.G.O) nakładającą Siłę lub Licznik [Burst], leczy 15 HP (maks. 1 raz na turę)\n- Frakcja Kandydata na Głowę Rodu dodatkowo zyskuje 1 [Protection] następnej tury",
+      "kr_sha256": "0d33ba207703c3dc4ce814ebcae160dd73c96f59af7bbe5022333a45f490c7d0",
+      "en_sha256": "a1744d858001357706d51df67642786f67cb7dd93b1fd0086efa608c66ef6e3d",
+      "origin": "ai"
+    },
+    "dataList[id=9824].name": {
+      "pl": "Cnota - Ren (仁)",
+      "kr_sha256": "8eba8c8bf7c8f9b6348d7463805a0475624c3c3851d7b4d20b5c76edc4c4f80c",
+      "en_sha256": "a94c00b08485b59645167d5fbf40600c725218bf4d752fadb43560789b8583d0",
+      "origin": "ai"
+    },
+    "dataList[id=9824].simpleDesc[abilityID=9824].simpleDesc": {
+      "pl": "Leczy HP. Frakcja Kandydata na Głowę Rodu również zyskuje [Protection] następnej tury",
+      "kr_sha256": "040bcbf9323cfb18537d42504075ce90490d947f5b589760a2c966c2f523666d",
+      "en_sha256": "cab53c970253eaf7dfa8016d819a855c69ef3bd237379d9f809af3adcb239802",
+      "origin": "ai"
+    },
+    "dataList[id=9825].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nGdy wygra Starcie Umiejętnością ataku (łącznie z Umiejętnościami E.G.O) nakładającą Siłę lub Licznik [Burst], leczy 20 HP, a następna tura zyskuje 3 [AttackUp] i 3 [DefenseUp] (maks. 1 raz na turę)\n- Frakcja Kandydata na Głowę Rodu dodatkowo nakłada na wszystkich sojuszników, łącznie z tą jednostką, 1 [Agility], 1 [Protection] i 3 [AttackUp] następnej tury",
+      "kr_sha256": "a9ead7f945fa417a6a68dde9f088a9d8cc1b5368f0b68c6078a01cfc0d03363c",
+      "en_sha256": "256b721fe10f27d4b32cf5543bae26d7c1e4b4bd529a3f595a30ce46adeb2854",
+      "origin": "ai"
+    },
+    "dataList[id=9825].name": {
+      "pl": "Szlifowanie: Tnij, Piłuj, Rzeźb, Poleruj (切磋琢磨)",
+      "kr_sha256": "96710a0151a898fe0313e015847e1f22635f8bd201033695a82155a3d3f87914",
+      "en_sha256": "21510506f4f8bd56cbd0b1211f543aad935f2a5fa1943416f6befe4e36d5ada5",
+      "origin": "ai"
+    },
+    "dataList[id=9825].simpleDesc[abilityID=9825].simpleDesc": {
+      "pl": "Zyskuje Wzrost Poziomu Ataku, Wzrost Poziomu Obrony i leczy HP. Frakcja Kandydata na Głowę Rodu dodatkowo nakłada Pośpiech, Ochronę i Wzrost Poziomu Ataku na wszystkich sojuszników następnej tury",
+      "kr_sha256": "ee3928d9b31059ce89fa95b2828da1dfa7d42ede1c95011e5604308be8560de0",
+      "en_sha256": "76148a9cfb402fdb6df465d3fb1079d7d7d15b82d5227e0193d1707bfd8347c5",
+      "origin": "ai"
+    },
+    "dataList[id=9826].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #2]\n\nPodstawowe Umiejętności zadają +1% obrażeń za każde 1% brakującego własnego HP (maks. 10%)",
+      "kr_sha256": "0f3564645df7b9f5c72b4128f8c82b3b7fde73cbecdb8aa12a3966b6adf0774e",
+      "en_sha256": "dc3d37930cd2c10ae9bec591fdd5897ef242195ff439d73d48a7270fb5e81adf",
+      "origin": "ai"
+    },
+    "dataList[id=9826].name": {
+      "pl": "Wino Shaoxing",
+      "kr_sha256": "220562b74aa23b93ec56f122b83cba60822d60e50c575cca8bc7be1a1706a2e7",
+      "en_sha256": "117710e93ae59ccadcaf7d3cd139e2c95ba69f063ddbd7b7d7ada1bfe65f319f",
+      "origin": "ai"
+    },
+    "dataList[id=9826].simpleDesc[abilityID=9826].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń zależnie od brakującego HP",
+      "kr_sha256": "cbc3b43a44a7095c6be97b229d17c009859e775ef399d80dcc1e4c7b5ef2e311",
+      "en_sha256": "78f6de791f853c4954419337d77373272a4375aaec9acc2b518534e7c20c1b3f",
+      "origin": "ai"
+    },
+    "dataList[id=9827].desc": {
+      "pl": "Ilość wytwarzanej Krwawej Uczty w walce jest dwukrotnie większa\nUmiejętności nakładające Siłę, Licznik [Laceration] lub Szczególne Krwawienie: na koniec ataku leczy HP równe 30% zadanych obrażeń HP (maks. 20)\n- Jednostka, która leczyła się tym efektem, na początku następnej tury zyskuje 1 [Enhancement] (maks. 2)\n\nZa każde 50 [BloodDinner_Common_Accumulation] wszyscy sojusznicy na początku następnej tury zyskują 1 [AttackUp] (maks. 5)\nJednostki La Manchaland dodatkowo zyskują 1 [AttackUp] za każde 30 własnego [BloodDinner_Accumulation] na początku następnej tury (maks. 3)",
+      "kr_sha256": "14b0de480277a7761c4c6fb463b60339efaa79badf3d67c58b74c1f2c6beddb2",
+      "en_sha256": "d5de99251e75d68e58b86c04eb543a022a32503c622df3ce7a0f6abc1e6cad22",
+      "origin": "ai"
+    },
+    "dataList[id=9827].name": {
+      "pl": "Uraza Rodu",
+      "kr_sha256": "3f737ea430d6d173f9c743d3340842285bf27c521f67da331fdcfd7672e3c2e3",
+      "en_sha256": "5a821aacd47ef2a2db99aa53673753dfbeb3d2e77573d946aae28204937a9edb",
+      "origin": "ai"
+    },
+    "dataList[id=9827].simpleDesc[abilityID=98271].simpleDesc": {
+      "pl": "Odzyskiwanie HP",
+      "kr_sha256": "97bffd4ac2751f97188b092b8c96060844f8b739e0200e26bce545612cc11f95",
+      "en_sha256": "88d4b9ecef43d8c1cf3c9e8014e6366550303638f827ff5012e811813a5b6af5",
+      "origin": "ai"
+    },
+    "dataList[id=9827].simpleDesc[abilityID=98272#2].simpleDesc": {
+      "pl": "Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9827].simpleDesc[abilityID=98272].simpleDesc": {
+      "pl": "Zyskuje Wzrost Poziomu Ataku",
+      "kr_sha256": "3d0bc661ada0d77b8b47726499b5a19e22b382cf0985a282122a1e6128ac34bb",
+      "en_sha256": "31f25d248dbbbf4144f785f6d92f2fc24f81d27b20c25d73476078a2d29cebe9",
+      "origin": "ai"
+    },
+    "dataList[id=9827].simpleDesc[abilityID=9827].simpleDesc": {
+      "pl": "Generuje więcej Krwawej Uczty",
+      "kr_sha256": "c416021c74cf85b801b9f395f9f1fc6d022c2923f8ad99debda283cca43aca51",
+      "en_sha256": "ea490f6aeea2904f07099228b1199ce5b5ffef8dd360d98791895a05e0e58410",
+      "origin": "ai"
+    },
+    "dataList[id=9828].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #1]\nPrzy użyciu Umiejętności zużywającej [Bullet] działają następujące efekty:\n- Następna tura zyskuje 3 [Agility] (1 raz na turę)\n- Przy trafieniu: wywołuje [VibrationExplosion] i zużywa 1 Licznika [Vibration] (2 razy na turę)\n- Przy trafieniu po wygranym Starciu: jeżeli cel ma jednocześnie [Combustion] i [Vibration] (łącznie ze Szczególnym Podpaleniem i Szczególnym Wstrząsem), zadaje obrażenia Gniewu równe sumie Sił [Combustion] i [Vibration]. (2 razy na turę)\n\nPrzy Rezonansie Gniewu 4+ działają następujące efekty:\n- Umiejętności Gniewu przy użyciu zyskują +2 Moc Monety\n- Przy trafieniu, jeżeli zużyto [Bullet], zadaje +30% obrażeń",
+      "kr_sha256": "68103d592cb131729ebc5d1ee2d268df4300c5118b4a728d8497569314ef8c1c",
+      "en_sha256": "510075387fad0145e4c5028c856a1edeaba489d3f9c3efdee3f45b25680fc251",
+      "origin": "ai"
+    },
+    "dataList[id=9828].name": {
+      "pl": "Dla Kapo",
+      "kr_sha256": "69c91d211aef8a79c3572f2f35f05ded63d70302ad780618ee4d0071eafe57cb",
+      "en_sha256": "dbe74cd547ac7ee4f550d1767da9f7f375ed2240802fc68cf842383508f30d35",
+      "origin": "ai"
+    },
+    "dataList[id=9828].simpleDesc[abilityID=98281].simpleDesc": {
+      "pl": "Wybuch Wstrząsu",
+      "kr_sha256": "4996b40ea1c0ef64f4e8663bf08b27ebdf8dc98c46ff19dcd40038b52c7e2186",
+      "en_sha256": "e250b75ca1bc836cffb2612210b600afca13839efbd25864c75222028a4fd783",
+      "origin": "ai"
+    },
+    "dataList[id=9828].simpleDesc[abilityID=98282].simpleDesc": {
+      "pl": "Obrażenia Gniewu",
+      "kr_sha256": "d352b49874937bbb63f86533978bdb74652239903d3b3819c79348ba7c40c066",
+      "en_sha256": "dc1e37ddd579e4ce6bb419cd88b7f5e83107f4b14199ae9c439d909498009da5",
+      "origin": "ai"
+    },
+    "dataList[id=9828].simpleDesc[abilityID=98283].simpleDesc": {
+      "pl": "Zyskuje Moc Monet",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=9828].simpleDesc[abilityID=98284].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń",
+      "kr_sha256": "d4ec77ede181a2fd74baa455d2efa19d020faf292083212465668e04884e5ad5",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9828].simpleDesc[abilityID=9828].simpleDesc": {
+      "pl": "Zyskuje Pośpiech",
+      "kr_sha256": "9519eae5d4f921e6c677171ffb7e1baaff912704aae1e344f8053fd0b60ad8a9",
+      "en_sha256": "8216425cbeb959021c94e54f1f749979f0fa48d231d7f7f2561e263b1d8530bf",
+      "origin": "ai"
+    },
+    "dataList[id=9829].desc": {
+      "pl": "Podstawowe Umiejętności Obuchu: +1 do Mocy Monety; Tożsamości frakcji Środkowego zyskują zamiast tego +2 do Mocy Monety\nGdy sojusznik zostanie trafiony, wszyscy sojusznicy następną turę zyskują 2 [AttackUp] (maks. 3 razy na turę)\n\nPoniższe efekty działają dodatkowo, gdy w walce są co najmniej 3 Tożsamości frakcji Środkowego.\nPoczątek Walki: za każdą wartość Rezonansu Zawiści zyskuje 1 [Enhancement] i 1 [Protection] (maks. 3)\nGdy Tożsamość frakcji Środkowego użyje Podstawowej Umiejętności Zawiści, jej Monety zamieniają się w [SuperCoin], otrzymuje o 50% mniej obrażeń, a w tej i następnej turze zyskuje 2 [HitDamageUp]",
+      "kr_sha256": "cd9be033d0a8799a56519a78e6d96206e11317a5ac846ce6e70c40ce938a8b9d",
+      "en_sha256": "094950fc1c3bfad1672108c6b7c512817902a81f4a948d1af02f58d66dff3eb3",
+      "origin": "ai"
+    },
+    "dataList[id=9829].name": {
+      "pl": "Zasady Środkowego",
+      "kr_sha256": "a6d5ce003cc4acb221ae288d212943601b74149afbbb8d97b7461700b9c107ef",
+      "en_sha256": "af4b9e797b9a459346c24f02f0962861ec9fbbdb0489e07c6d46b3d8dd33e4fc",
+      "origin": "ai"
+    },
+    "dataList[id=9829].simpleDesc[abilityID=98291].simpleDesc": {
+      "pl": "Zyskuje Moc Monet",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=9829].simpleDesc[abilityID=98292].simpleDesc": {
+      "pl": "Wzrost Poziomu Ataku",
+      "kr_sha256": "c81a6f5dd960f96547a32a93f447818b319837a534e35bdbb1f64b92d93f35b3",
+      "en_sha256": "2391b626d924ed298ada1369257c77bf3f568eeb1d10e61a8196d98d5a51df86",
+      "origin": "ai"
+    },
+    "dataList[id=9829].simpleDesc[abilityID=98293].simpleDesc": {
+      "pl": "Zyskuje Wzrost Mocy Ataku i Ochronę",
+      "kr_sha256": "0a7b9787bb500b7e532746f8bc2b457787be927c524cfff06bd6269e9f6c2245",
+      "en_sha256": "a15327de091316538049386ee0048cb9e8e480afb0748516b5cc921e9b22b5ad",
+      "origin": "ai"
+    },
+    "dataList[id=9829].simpleDesc[abilityID=98294].simpleDesc": {
+      "pl": "Zamienia Monety w Monety Niezniszczalne, otrzymuje mniej obrażeń i zadaje więcej obrażeń obuchowych",
+      "kr_sha256": "5b2122401bcb73dfc714adc25c78fcb5d69814e2adb25dbfec0135dca40785df",
+      "en_sha256": "0dde3409e6f947860488c957a3827a1f0e6a4be4e6c76faad665e40ded9863c4",
+      "origin": "ai"
+    },
+    "dataList[id=9829].simpleDesc[abilityID=9829].simpleDesc": {
+      "pl": "Zyskuje Moc Monet",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=9830].desc": {
+      "pl": "Na pierwszym początku tury walki oraz sojusznikom wchodzącym z Rezerwy nakłada 3 [VerEmergencyCandy]\nJeżeli w poprzedniej turze nie zużyto [VerEmergencyCandy], na początku tury nakłada 1 [VerHunger]",
+      "kr_sha256": "19c42b132168cda1bf833d9f0bbcd92d1d442147e5ab7c28607595530107fd75",
+      "en_sha256": "1df3982137bb49902f2579f9a4a6495eb1d5353f0aa8e388e238bec1c5d69d71",
+      "origin": "ai"
+    },
+    "dataList[id=9830].name": {
+      "pl": "Mały Prezent od Kkomiego",
+      "kr_sha256": "b1d6435478fb9004b119bbf6584d80340c2dbfcb24284de5c574f0d7f6527c53",
+      "en_sha256": "186bbfe48c13bf73deca3839ff4456d27c6e5726e7cfffa2dfde3811b506a182",
+      "origin": "ai"
+    },
+    "dataList[id=9830].simpleDesc[abilityID=98301].simpleDesc": {
+      "pl": "Nakłada Głód",
+      "kr_sha256": "c7fa42689fb37a9787fa518da6caf9594bc89c9f29bd8cfeb79920f48476d8a2",
+      "en_sha256": "bfaaee0a20566810820cad0b4db95076879ddfef6edd0b82e364863ea006ac00",
+      "origin": "ai"
+    },
+    "dataList[id=9830].simpleDesc[abilityID=9830].simpleDesc": {
+      "pl": "Nakłada Zapasowy Cukierek",
+      "kr_sha256": "471115c4a315c44207c5ad1f78c864737e8f75ecfb4cd65fe23577f5c37cfb7b",
+      "en_sha256": "5b58b90ccf060d85eb174961993e23928d6ae31a2615e2cc2cdb242369ea6e33",
+      "origin": "ai"
+    }
+  }
+}

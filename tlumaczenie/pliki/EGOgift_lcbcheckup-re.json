@@ -1,0 +1,166 @@
+{
+  "entries": {
+    "dataList[id=9243].desc": {
+      "pl": "Umiejętności ataku nakładające Siłę, Licznik [Combustion] lub Szczególne Podpalenie zadają +10% obrażeń\n- Jeżeli Umiejętność zwiększa własny Licznik [Combustion], dodatkowo +1 do Mocy Starcia\n- Za każde 2% brakującego własnego HP dodatkowo +1% obrażeń (maks. 15%)",
+      "kr_sha256": "601674c6a2624b3459bab1af9e70ff6bacf46b45071801832abcbcb0a1226d35",
+      "en_sha256": "8f8f466595d3e167594f29fafe5dcd776b59f5664ed5d6ca4ac60035b31ff8d5",
+      "origin": "ai"
+    },
+    "dataList[id=9243].name": {
+      "pl": "Ekstrakcja : Gwiazda Żarzącego Kwiatu",
+      "kr_sha256": "feaaeb8e9f3e0e8e667dceed57b5361a7f0a120b1186d2257bbc72558a10337d",
+      "en_sha256": "02a36c6d1493bc347e945d7cf08c444a641812f10bd7c17246794a42af831043",
+      "origin": "ai"
+    },
+    "dataList[id=9243].simpleDesc[abilityID=9243].simpleDesc": {
+      "pl": "Umiejętności ataku zadają więcej obrażeń [TabExplain], przy spełnionych warunkach +1 do Mocy Starcia [TabExplain]",
+      "kr_sha256": "75f012ddfc5505de11a20199d0b5a5be672a9646ab79e5a99e97f47302ec2a1c",
+      "en_sha256": "5f6624a5046b0a0d4163a516f635cf2d64e304a220d6dc1422544ea71a381ccb",
+      "origin": "ai"
+    },
+    "dataList[id=9244].desc": {
+      "pl": "Umiejętności ataku nakładające Siłę lub Licznik [Burst] zadają +10% obrażeń\n- Przy 20%+ brakującego własnego HP dodatkowo +1 do Mocy Starcia\n- Umiejętności ataku zadają +1% obrażeń za każde 1 (suma [Aggro] na wszystkich slotach Umiejętności) (maks. 15%)",
+      "kr_sha256": "69d2f0828b125b0f6ad29139b86b6a572d68d10f5754ddbabdafc734cb2cfbff",
+      "en_sha256": "07b94e6a22d9d3b6cbaa01254eb1cba3f8688a80e0eb40e7b24660670f0c29c3",
+      "origin": "ai"
+    },
+    "dataList[id=9244].name": {
+      "pl": "Ekstrakcja Próbna : Latarnia",
+      "kr_sha256": "7ad88f5c54c1c38c7ce2c33ade58a5ad85d22e8cdf69880b7f7507d083ac0b6a",
+      "en_sha256": "dd3184bbc85681f024c6ab30094de4642a8803c5daeb0b4a96802341ba1e7434",
+      "origin": "ai"
+    },
+    "dataList[id=9244].simpleDesc[abilityID=9244].simpleDesc": {
+      "pl": "Umiejętności ataku zadają więcej obrażeń [TabExplain], przy spełnionych warunkach +1 do Mocy Starcia [TabExplain]",
+      "kr_sha256": "75f012ddfc5505de11a20199d0b5a5be672a9646ab79e5a99e97f47302ec2a1c",
+      "en_sha256": "5f6624a5046b0a0d4163a516f635cf2d64e304a220d6dc1422544ea71a381ccb",
+      "origin": "ai"
+    },
+    "dataList[id=9245].desc": {
+      "pl": "Jeżeli w tej turze zyskano Liczniki [Charge] lub Szczególne Ładowanie ponad limit, następna tura zyskuje 1 [AttackUp] za każde 2 nadwyżki (maks. 2 na turę na Tożsamość)\n- Tożsamości z Podstawowymi Umiejętnościami zyskującymi lub zużywającymi Liczniki [Charge] albo Szczególne Ładowanie: zamiast tego maks. 6 na turę na Tożsamość\n- Jeżeli jednostka posiada [HighVoltageExoshell], dodatkowo zyskuje 1 Siły [Charge] (1 raz na walkę)",
+      "kr_sha256": "3268865b2fdd55e626f9d2b1f8a48961dd3a07362a064d0e766abdbecc90cf10",
+      "en_sha256": "4ff98319cad202563fdeabd181d127c8c4453a7e3de04b44d4f60cf433a57928",
+      "origin": "ai"
+    },
+    "dataList[id=9245].name": {
+      "pl": "Ekstrakcja Zmodyfikowana : AEDD",
+      "kr_sha256": "a173c807d2b2d0c25c0608fdf7bcdc3f43abfa68a6cc5399db868c64eeb017fa",
+      "en_sha256": "4ca590da0e329739c1152852488a7202165c634d68fbb05ddfd0ebca19216459",
+      "origin": "ai"
+    },
+    "dataList[id=9245].simpleDesc[abilityID=9245].simpleDesc": {
+      "pl": "Zyskuje [AttackUp] zależnie od nadwyżki Liczników [Charge], a przy spełnionych warunkach Siłę [Charge]",
+      "kr_sha256": "cc953207fb96f03a04032c9ec0dd94787bb615bca9eb743461a54ac20fff94bb",
+      "en_sha256": "5c19c6414cb25702a950d52ff0f5d874468b301f1310f59941b2f7a2cc8ff238",
+      "origin": "ai"
+    },
+    "dataList[id=9246].desc": {
+      "pl": "Tożsamości frakcji Limbus Company:\n- Na początku tury zyskuje (liczba Tożsamości frakcji Limbus Company w walce / 3) [ParryingResultUp] (maks. 2, zaokrąglenie w dół)\n\nTożsamości frakcji LCE:\n- Zadaje +(liczba Tożsamości w walce w Sprzęcie E.G.O x 10)% obrażeń (maks. 30%)\n- Po śmierci sojusznika z tej samej frakcji zyskuje po 1 Zasobie E.G.O każdego Grzechu, a na czas tej walki na początku tury zyskuje 1 [PlusCoinValueUp] i 1 [MinusCoinValueUp] (maks. 2 razy na walkę na Tożsamość)",
+      "kr_sha256": "079c93e9812425393c5c0cd0e95207d40c769ad1b1c02c61be8f3991c819a540",
+      "en_sha256": "6b795fdb28cb63c356b8e6e3c3057683cbf2d60259cc3b9e1de54f2865bda478",
+      "origin": "ai"
+    },
+    "dataList[id=9246].name": {
+      "pl": "Karta Pracownicza Zgubiona przez Kogoś",
+      "kr_sha256": "a126471a038e74dec1636b9842c07af92963d9cdc8d96549541b897ef877d189",
+      "en_sha256": "4ec96e67c2aa6b217a99c3ab0245bf97670efa0074f70929de9f9f6e18bcd3e2",
+      "origin": "ai"
+    },
+    "dataList[id=9246].simpleDesc[abilityID=92461].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń zależnie od liczby Tożsamości w walce w Sprzęcie E.G.O [TabExplain]",
+      "kr_sha256": "70777aa000974f4b8adf57a24cec79ae43f997afd54367383bbf04ff6dab5de4",
+      "en_sha256": "0ee4a3a56af4dba36fcc9c063659348b101625a37e25f1ca01ce9eb9e868aa03",
+      "origin": "ai"
+    },
+    "dataList[id=9246].simpleDesc[abilityID=92462].simpleDesc": {
+      "pl": "Po śmierci sojusznika z tej samej frakcji zyskuje Zasoby E.G.O; od następnej tury na początku tury zyskuje [PlusCoinValueUp] i [MinusCoinValueUp] na czas tej walki",
+      "kr_sha256": "c897ac3a801374f0fd5cfca0ac7781193ce3f5ebcc050b37f3b7892c8013dc24",
+      "en_sha256": "d71a82c7772f0de6073554d8317f912b08fb8a32646693852f6e5ca8ceeca676",
+      "origin": "ai"
+    },
+    "dataList[id=9246].simpleDesc[abilityID=9246].simpleDesc": {
+      "pl": "Zyskuje [ParryingResultUp] zależnie od liczby Tożsamości frakcji Limbus Company w walce",
+      "kr_sha256": "3196332a306f8f739f0eda8a4c76f2d5b9d25d4dc7b7c1ceca06fec6631afe8f",
+      "en_sha256": "6b8aa22f5186ea409f54bef6d0003a0536598a5393f16f7a50169fceecb376d8",
+      "origin": "ai"
+    },
+    "dataList[id=9248].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #1, #2, #3]\n\nGdy wygra Starcie Umiejętnością ataku nakładającą Siłę lub Licznik [Burst], nakłada na cel 5 Siły [Burst] i +3 do Licznika [Burst] (1 raz na turę na Tożsamość)\n\nW Starciu z wrogiem o niższej Prędkości zyskuje +1 do Mocy Końcowej i zadaje +25% obrażeń\n\nGdy wygra Starcie z wrogiem posiadającym buff [AttackUp], następna tura zyskuje 3 [AttackUp], a wroga przegrywającego Starcie obdarza 3 [AttackDown] (maks. 3 razy na turę na Tożsamość)\n\nPrzy każdym użyciu Umiejętności 1, 2 lub 3 wywołuje następujący efekt (1 raz na rangę Umiejętności)\n- Jednostka, która użyła danej Umiejętności, na czas tej walki zyskuje na początku tury 1 [Agility] i 1 [SkillPowerUp] (kumuluje do 3 razy)",
+      "kr_sha256": "a5aa7d95356b65913d2243d80a304c4f1a54b57ea5f3c4406aefa24a99baa5b0",
+      "en_sha256": "4926b68cf635a7181d5751c071a6870d435fb4f26d5eb03c3d5f9b32bfe180bb",
+      "origin": "ai"
+    },
+    "dataList[id=9248].name": {
+      "pl": "Kwiat Agnotisa, Okulary i Przekazany List",
+      "kr_sha256": "a5741904c32ca70d0cdd9e5eaec92fb66d712a0af2e77d4ac1bb1fa2f62a28aa",
+      "en_sha256": "2974f5ed6c658005a402f9abb4d0e3f46eb855521f4f0c8b87b011fcfae95ffb",
+      "origin": "ai"
+    },
+    "dataList[id=9248].simpleDesc[abilityID=92481].simpleDesc": {
+      "pl": "W Starciu z wrogiem o niższej Prędkości zyskuje Moc Końcową [TabExplain] i zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "6fd2bc4dd4eca03f4f5167b7e7a430e7ff25d33330341f862c4a0644dc8eb759",
+      "en_sha256": "df12f920a97ebe2b55a3b02c08dfcf8a391bf8cad27257b65f4ea66b3feef54b",
+      "origin": "ai"
+    },
+    "dataList[id=9248].simpleDesc[abilityID=92482].simpleDesc": {
+      "pl": "Przy spełnionych warunkach zyskuje [AttackUp] na siebie i nakłada [AttackDown] na wroga",
+      "kr_sha256": "f2c1a0333d4cded9475151ad91db059c8becce9869f6834a9dff220219212593",
+      "en_sha256": "6e89632908cc50c80f35a2c1e453cb901526ceb5f4f943c7ca330902563dbbc7",
+      "origin": "ai"
+    },
+    "dataList[id=9248].simpleDesc[abilityID=92483].simpleDesc": {
+      "pl": "Przy spełnionych warunkach na początku tury zyskuje [Agility] i [SkillPowerUp]",
+      "kr_sha256": "104524b6dda4180e4d120bd7e802312f16b9a5f9bd7cfbc31edbf2d6e393a939",
+      "en_sha256": "857904bd142b59fc1ec17cdfe70b6d24a62b069226d2213ee71ca672ef801ede",
+      "origin": "ai"
+    },
+    "dataList[id=9248].simpleDesc[abilityID=9248].simpleDesc": {
+      "pl": "Po wygranym Starciu nakłada [Burst] na cel",
+      "kr_sha256": "c13369223257f65d597662f95d769af67aa9bb0738ecee3a1a999c3678d0148b",
+      "en_sha256": "e10ef2855807ba0530d3f22e78a13feafc297392b1868e7d5b30848a84646bde",
+      "origin": "ai"
+    },
+    "dataList[id=9249].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #5, #6]\n\nLeczy własne HP równe 10% obrażeń zadanych Umiejętnością (maks. 20 leczenia na Umiejętność)\n\nPo wygranym Starciu zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] (2 razy na turę na Tożsamość)\n\nPrzy użyciu Umiejętności zyskuje 1 [AttackUp] i 1 [TakeHpHealIncrease] (2 razy na turę na Tożsamość)\n\nUmiejętności obuchowe zadają +10% obrażeń\n\nUmiejętność, która wygrała Starcie, zadaje +(liczba Starć x 6)% obrażeń (maks. 30%)",
+      "kr_sha256": "87c6da3f7f65cb3e2b34680c023cab7948adb07f130b9ab97d8afb134f2e591a",
+      "en_sha256": "f2ea6115ce191049c62fc45c2cfa17f48613a723f0b3f7859d9fcf6227a76366",
+      "origin": "ai"
+    },
+    "dataList[id=9249].name": {
+      "pl": "Małe, Cudowne Skrzypce",
+      "kr_sha256": "44ac9d9ad4355bf2ec6197d77133ed1f4ea81a873d6e041aca482a2e4ddf324f",
+      "en_sha256": "171ee2120a35713bc531782b40c2c3578213ff04149cc62d3d540b686340ce35",
+      "origin": "ai"
+    },
+    "dataList[id=9249].simpleDesc[abilityID=92491].simpleDesc": {
+      "pl": "Po wygranym Starciu zyskuje [AttackUp] i [TakeHpHealIncrease]",
+      "kr_sha256": "914c6f917902a43e4ed320284c48aaad8ab55a5c636e62bc90fd919585ce66cb",
+      "en_sha256": "384aea53dd0eb3f4ff0f35429870b4c991f9af2281b55b63ee3987e5a81afeb5",
+      "origin": "ai"
+    },
+    "dataList[id=9249].simpleDesc[abilityID=92492].simpleDesc": {
+      "pl": "Przy użyciu Umiejętności zyskuje [AttackUp] i [TakeHpHealIncrease]",
+      "kr_sha256": "f5a32e21964622a1c4bc95513cc5aea72cca276dac5a59c34e5c7ba28caa3a54",
+      "en_sha256": "04e2e6b66aac4572ed8fa95aa28973925b953386fc63b59d4ca696ddd1213c6e",
+      "origin": "ai"
+    },
+    "dataList[id=9249].simpleDesc[abilityID=92493].simpleDesc": {
+      "pl": "Umiejętności obuchowe zadają więcej obrażeń [TabExplain]",
+      "kr_sha256": "0dffbe8a03594278fa57f62ac5435bf793600419f747b503a06bf89c664801e8",
+      "en_sha256": "8c890983d73343ceed2367751572e160dbd9d79e3126a3961013eb460502e42e",
+      "origin": "ai"
+    },
+    "dataList[id=9249].simpleDesc[abilityID=92494].simpleDesc": {
+      "pl": "Umiejętności, które wygrały Starcie, zadają więcej obrażeń [TabExplain]",
+      "kr_sha256": "425f97b1b5f45672d229c792716a590449dd3630d1610dae38c9d705f4f382b5",
+      "en_sha256": "b975d4155cb3539f719d7c018d7bb12c6853ee4c81b386cf49c4857e31feff75",
+      "origin": "ai"
+    },
+    "dataList[id=9249].simpleDesc[abilityID=9249].simpleDesc": {
+      "pl": "Leczy własne HP zależnie od obrażeń zadanych Umiejętnością",
+      "kr_sha256": "d249aad10eeba7e53d7c93a28ed6f34203798f65e548f792640454695be2c932",
+      "en_sha256": "dbc467d19cf375f85bfcabfcfb39f1ad24d3f12cc82718310ada831e08c3d627",
+      "origin": "ai"
+    }
+  }
+}

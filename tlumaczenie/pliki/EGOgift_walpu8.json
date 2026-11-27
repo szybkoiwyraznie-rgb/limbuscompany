@@ -1,0 +1,346 @@
+{
+  "entries": {
+    "dataList[id=19236].desc": {
+      "pl": "Gdy w turze ginie sojusznik lub wróg, wszystkie jednostki następną turę zyskują <style=\"upgradeHighlight\">2</style> [Vulnerable] (1 raz na falę)\n- W tej samej turze, w której wszystkie jednostki zyskały [Vulnerable] tym efektem, przy wygranym Starciu sojusznika wszyscy sojusznicy tracą 1 [Vulnerable], a na wszystkich wrogów nakłada 4 [Laceration] i +2 do Licznika [Laceration] (<style=\"upgradeHighlight\">2</style> razy na turę)",
+      "kr_sha256": "677d2039db694add6b6395add577dcf9be006d409c056c8685f1aa83f19638ed",
+      "en_sha256": "d0bc7672d741ec6584d6736992153a1c489a4664cb1202633c6f2c6c3d09251e",
+      "origin": "ai"
+    },
+    "dataList[id=19236].name": {
+      "pl": "Harmoniki+",
+      "kr_sha256": "219e56dc7c18e49f5606a2d18a23a18aea2c7fe6903219d0c42d94f7790da0f2",
+      "en_sha256": "deffd759f03e4c190cd4af42ca87e685995fb90629e3f4bec7dc9f2b0ea01d05",
+      "origin": "ai"
+    },
+    "dataList[id=19236].simpleDesc[abilityID=192361].simpleDesc": {
+      "pl": "Zmniejsza [Vulnerable] wszystkich sojuszników i nakłada [Laceration] oraz Licznik [Laceration] na wszystkich wrogów",
+      "kr_sha256": "5705aad0453751db48aa3bd679422658de5d5ddde0bf5e104b0050b28da45a19",
+      "en_sha256": "7012608bb48090f644cc61d2533bfaa388f185f2266dc1b58c58b886460c8dfa",
+      "origin": "ai"
+    },
+    "dataList[id=19236].simpleDesc[abilityID=19236].simpleDesc": {
+      "pl": "Następna tura zyskuje [Vulnerable]",
+      "kr_sha256": "2ec58dd8d9f122ad22d686a3456b47a1a9d9487c403be902b087828a17bd26ea",
+      "en_sha256": "50d3244ee4236949c218370b54d374280e95c63d69d186bdeaed5d8d136fd6f6",
+      "origin": "ai"
+    },
+    "dataList[id=19237].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #3, <style=\"upgradeHighlight\">#4</style>]\n\nNa początku tury zyskuje 1 [TensionUp]\n\nPrzy trafieniu z szansą 25% nakłada 1 [TensionUp] na siebie i 1 losowego sojusznika\n- Jeżeli to Umiejętność nakładająca Siłę lub Licznik [Laceration] albo [Combustion] (łącznie z wariantami Szczególnymi), szansę podnosi do <style=\"upgradeHighlight\">75</style>%",
+      "kr_sha256": "ba26d4fc99a79dcc479cbf5762e8ceb1ed626739c9df9236760b140ba7812453",
+      "en_sha256": "e2b44cb308b30c0c3fc83b09a05d6649dfb7b7519863ee376f9741fc9f0ce89d",
+      "origin": "ai"
+    },
+    "dataList[id=19237].name": {
+      "pl": "Walking Bass+",
+      "kr_sha256": "159695badfbfcf747650daf7b755587d15eabf8af48ffdf0bd2e2bb10e379bdc",
+      "en_sha256": "e9d752d05e6e79f10e9765eff9c81ec24f299aed660661074cea93967de0fd4b",
+      "origin": "ai"
+    },
+    "dataList[id=19237].simpleDesc[abilityID=192371].simpleDesc": {
+      "pl": "Nakłada [TensionUp] na siebie i 1 losowego sojusznika",
+      "kr_sha256": "9a12808a145f558adb2502f97474c1c458329f07c666151f6407453b525328ec",
+      "en_sha256": "4ba50714f8d8f0bdfd99b19b5334d6579c3b88dd5febaef692c197f89498f6d6",
+      "origin": "ai"
+    },
+    "dataList[id=19237].simpleDesc[abilityID=19237].simpleDesc": {
+      "pl": "Zyskuje [TensionUp]",
+      "kr_sha256": "7d4af8a2b97f822aea328eb87ed436ddfb5fd3cbd57152b4070d8db438dc6745",
+      "en_sha256": "93362bdf24086ae5d8be4e2fd17226b6f3f672e426627739ab913560d023b677",
+      "origin": "ai"
+    },
+    "dataList[id=29236].desc": {
+      "pl": "Gdy w turze ginie sojusznik lub wróg, wszystkie jednostki następną turę zyskują <style=\"upgradeHighlight\">3</style> [Vulnerable] (1 raz na falę)\n- W tej samej turze, w której wszystkie jednostki zyskały [Vulnerable] tym efektem, przy wygranym Starciu sojusznika wszyscy sojusznicy tracą 1 [Vulnerable], a na wszystkich wrogów nakłada 4 [Laceration] i +2 do Licznika [Laceration] (<style=\"upgradeHighlight\">3</style> razy na turę)",
+      "kr_sha256": "ee68146bd24dc0f591c50de4ba7b48ebff874113b71c05e0b2ebeaa34d16c14c",
+      "en_sha256": "2b1c1744f04efb245f99d47a2c04600e7ec4dbdfb3ecb551b5fab8946119ec0b",
+      "origin": "ai"
+    },
+    "dataList[id=29236].name": {
+      "pl": "Harmoniki++",
+      "kr_sha256": "fdf8dc8947bba8130e504a1957e1796137380c960e7677099dc8c7c32d84cf5b",
+      "en_sha256": "c916132796ee8468a6a0a0692a779d70c12eafd03e64f1fa03c354180bc62831",
+      "origin": "ai"
+    },
+    "dataList[id=29236].simpleDesc[abilityID=292361].simpleDesc": {
+      "pl": "Zmniejsza [Vulnerable] wszystkich sojuszników i nakłada [Laceration] oraz Licznik [Laceration] na wszystkich wrogów",
+      "kr_sha256": "5705aad0453751db48aa3bd679422658de5d5ddde0bf5e104b0050b28da45a19",
+      "en_sha256": "7012608bb48090f644cc61d2533bfaa388f185f2266dc1b58c58b886460c8dfa",
+      "origin": "ai"
+    },
+    "dataList[id=29236].simpleDesc[abilityID=29236].simpleDesc": {
+      "pl": "Następna tura zyskuje [Vulnerable]",
+      "kr_sha256": "2ec58dd8d9f122ad22d686a3456b47a1a9d9487c403be902b087828a17bd26ea",
+      "en_sha256": "50d3244ee4236949c218370b54d374280e95c63d69d186bdeaed5d8d136fd6f6",
+      "origin": "ai"
+    },
+    "dataList[id=29237].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #3, #4]\n\nNa początku tury zyskuje 1 [TensionUp]\n\nPrzy trafieniu z szansą 25% nakłada 1 [TensionUp] na siebie i <style=\"upgradeHighlight\">2</style> losowych sojuszników\n- Jeżeli to Umiejętność nakładająca Siłę lub Licznik [Laceration] albo [Combustion] (łącznie z wariantami Szczególnymi), szansę podnosi do <style=\"upgradeHighlight\">100</style>%",
+      "kr_sha256": "4e7abcb993a28bdaa95530f39530a4bac616b9a63d8aaa7ce2d10074211268a5",
+      "en_sha256": "8b0b127b36e0c7b19465ec7ed0165e838df32eee8dbe63210169f6b3e31dfc8e",
+      "origin": "ai"
+    },
+    "dataList[id=29237].name": {
+      "pl": "Walking Bass++",
+      "kr_sha256": "0c09aa309dc2cd765f8a3c4b7eb4dffb9a24545c9ec0182b4947cc338d712447",
+      "en_sha256": "7539155e6fb75bf066ca1850bf16852e328c4227de091fc39abff69d8c2f8e5c",
+      "origin": "ai"
+    },
+    "dataList[id=29237].simpleDesc[abilityID=292371].simpleDesc": {
+      "pl": "Nakłada [TensionUp] na siebie i 2 losowych sojuszników",
+      "kr_sha256": "9f2abd324d30875112345bc2100cb07fad2cc1f260285a046279341f1196e265",
+      "en_sha256": "79f4878cb7056710cb70fc649a3a5edc4059f303d8a5fefa26f8b1fcb10247ed",
+      "origin": "ai"
+    },
+    "dataList[id=29237].simpleDesc[abilityID=29237].simpleDesc": {
+      "pl": "Zyskuje [TensionUp]",
+      "kr_sha256": "7d4af8a2b97f822aea328eb87ed436ddfb5fd3cbd57152b4070d8db438dc6745",
+      "en_sha256": "93362bdf24086ae5d8be4e2fd17226b6f3f672e426627739ab913560d023b677",
+      "origin": "ai"
+    },
+    "dataList[id=9233].desc": {
+      "pl": "Przy użyciu Umiejętności zyskującej lub zużywającej [Bullet] następna tura zyskuje 1 [Agility] i 2 [AttackUp] (1 raz na turę na Tożsamość)\n- Umiejętności nakładające Siłę, Licznik [Sinking] lub Szczególne Zatonięcie zadają +(20 / liczba Monet)% obrażeń",
+      "kr_sha256": "3f8369bc756ec4d2dde27979e52c4689b9e56ddc732a4dbda1beab8a2c152252",
+      "en_sha256": "545b2bb7c57f35b68138a8a518866386a1570c65bbc68b5eb519185bb7db77bc",
+      "origin": "ai"
+    },
+    "dataList[id=9233].name": {
+      "pl": "Zaszumiona Krótkofalówka",
+      "kr_sha256": "3e7277e196f2bc0c9df349468969713bf266b88e45fb8c6ee7086d41f28ea7f7",
+      "en_sha256": "35268e297f756d8a332720995d689d886eb491f6fbf01b92ec2c37c8d0d45e8b",
+      "origin": "ai"
+    },
+    "dataList[id=9233].simpleDesc[abilityID=92331].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "24d6bbe45bff414229442d04d673e34ad588d7da0b835a3f11ecee48e391aa8f",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9233].simpleDesc[abilityID=9233].simpleDesc": {
+      "pl": "Następna tura zyskuje [Agility] i [AttackUp]",
+      "kr_sha256": "d82e7b05ca80c2622b0e6dd6cb22a8eb5c555beaeb71cd94818bd2579639bb36",
+      "en_sha256": "3301c5a3183ba5831882a830c3f16b635d426e9a0c225941d3e7fc56e5357617",
+      "origin": "ai"
+    },
+    "dataList[id=9234].desc": {
+      "pl": "Przy użyciu Umiejętności zyskującej lub zużywającej [Bullet] następna tura zyskuje 1 [Agility] i 1 [Enhancement] (1 raz na turę na Tożsamość) \n- Umiejętności nakładające Siłę, Licznik [Laceration] lub Szczególne Krwawienie zadają +(20 / liczba Monet)% obrażeń",
+      "kr_sha256": "56309d10080c8ef742664ab9c63a5cd110396d80723a1c5e20c0625fa0e44e14",
+      "en_sha256": "a1de07ae10aee342d198e929cfb2d6b231764bf359d0dcef76685f95f8d89313",
+      "origin": "ai"
+    },
+    "dataList[id=9234].name": {
+      "pl": "Naszyjnik w Kształcie Dzioba",
+      "kr_sha256": "c00dfb2cea947c1cc46991abb3ba7248d255c0921b7fe65a9b3772cb68232153",
+      "en_sha256": "b38d444bcfdf04a638b3e990e38de9078ad4b98477fc1a38dba6987874efb25a",
+      "origin": "ai"
+    },
+    "dataList[id=9234].simpleDesc[abilityID=92341].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "24d6bbe45bff414229442d04d673e34ad588d7da0b835a3f11ecee48e391aa8f",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9234].simpleDesc[abilityID=9234].simpleDesc": {
+      "pl": "Następna tura zyskuje [Agility] i [Enhancement]",
+      "kr_sha256": "6bb223120020a5941affbcc8362f83e0f6bf29ce1a1772544785ff33053e4e0d",
+      "en_sha256": "6a334ffcf7a8dc0fddad609ff772eb5097792f0b4af5f0ff5ae1c413bf518a31",
+      "origin": "ai"
+    },
+    "dataList[id=9235].desc": {
+      "pl": "Efekty tego Daru E.G.O są wzmocnione zależnie od liczby Tożsamości w składzie z Umiejętnościami zyskującymi lub zużywającymi [Bullet] (z wyjątkiem Umiejętności E.G.O; liczy wszystkie jednostki składu)\n\n- Przy 2+\nPrzy użyciu Umiejętności zyskującej lub zużywającej [Bullet] następna tura zyskuje 2 [Agility] i 4 [AttackUp] (1 raz na Tożsamość na turę)\n\n- Przy 5+\nUmiejętności używane przez Tożsamości zyskujące lub zużywające [Bullet]: +1 do Mocy Starcia, +10% obrażeń\nUmiejętności zyskujące lub zużywające [Bullet] zadają +(100 / liczba Monet)% obrażeń\nJeżeli dotknięta jednostka zużyła całe [Bullet], na początku następnej tury zyskuje 4 [Bullet] (1 raz na Tożsamość na walkę)\n\n- Przy 8+\nNa początku tury: nakłada 1 [DesperadoBuff] na Tożsamości zyskujące lub zużywające [Bullet]\n• Jeżeli dotknięta jednostka nie zużyła [Bullet] w poprzedniej turze, nakłada dodatkowo 1 [DesperadoBuff]\nNa koniec walki: zadaje (suma wszystkich [DesperadoBuff] sojuszników x 3) obrażeń Kłucia 1 losowemu wrogowi (maks. 30)\n• Następnie powtarza powyższy efekt (liczba Tożsamości w składzie zyskujących lub zużywających [Bullet] - 1) razy",
+      "kr_sha256": "6d69d310c3f436ae67abbdf63c8610d782ada8c213f6d6e65c3703c74fa33603",
+      "en_sha256": "9fbd53f2897d16aad01b3829a91269bbbde2242fc86faa5caf6c1c0cf25f467c",
+      "origin": "ai"
+    },
+    "dataList[id=9235].name": {
+      "pl": "Desperado",
+      "kr_sha256": "e06917c0efa455e16e64191c7b9d4dba61d89086711ef116d9c05ca631242978",
+      "en_sha256": "57dec91139118eac31a64cc9c9914b6c2068602a27d3e2a3383cb78e4436e12f",
+      "origin": "ai"
+    },
+    "dataList[id=9235].simpleDesc[abilityID=92351].simpleDesc": {
+      "pl": "Zyskuje Moc Starcia [TabExplain] i zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "6788bcbee52ef11705babafdd68e548afc80433a1f71473e795c7fd34935c06e",
+      "en_sha256": "b1e79f460752cb68b355ded80e50a914c72293210c745654e9fd7b7267bdf5dd",
+      "origin": "ai"
+    },
+    "dataList[id=9235].simpleDesc[abilityID=92352].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "eeb3ab7df094d64d8fa9f6900d6f90a4d57b9d3327a1cc24148942efd9c22eac",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9235].simpleDesc[abilityID=92353].simpleDesc": {
+      "pl": "Zyskuje [Bullet]",
+      "kr_sha256": "9527d87e264a564924da6db24efd44a9b87908d80ec6cdb2962086df7844bb4f",
+      "en_sha256": "fd2fba0df3ffc1135aec031b88a5883488c8eb8e5e320a1ca00638284ea947d0",
+      "origin": "ai"
+    },
+    "dataList[id=9235].simpleDesc[abilityID=92354].simpleDesc": {
+      "pl": "Nakłada [DesperadoBuff]. Nakłada dodatkowy [DesperadoBuff] przy spełnionych warunkach",
+      "kr_sha256": "46e51017697aac193140307640407201c7859f04adf7b7e98658d93ba9b57657",
+      "en_sha256": "1f42d900476081f0121a8c9e54fe608ccf9320616e847b0282339aa7d30bfab5",
+      "origin": "ai"
+    },
+    "dataList[id=9235].simpleDesc[abilityID=92355].simpleDesc": {
+      "pl": "Zadaje obrażenia Kłucia 1 losowemu wrogowi",
+      "kr_sha256": "8e0385727fafdfc35895d4f691216d261a7d238984c91795684be94b5d25149c",
+      "en_sha256": "7933aa79fb8ffb16840af5d94fc3908727e36b2a8e9daafb413b39c11d45ca1a",
+      "origin": "ai"
+    },
+    "dataList[id=9235].simpleDesc[abilityID=9235].simpleDesc": {
+      "pl": "Następna tura zyskuje [Agility] i [AttackUp]",
+      "kr_sha256": "d82e7b05ca80c2622b0e6dd6cb22a8eb5c555beaeb71cd94818bd2579639bb36",
+      "en_sha256": "3301c5a3183ba5831882a830c3f16b635d426e9a0c225941d3e7fc56e5357617",
+      "origin": "ai"
+    },
+    "dataList[id=9236].desc": {
+      "pl": "Gdy w turze ginie sojusznik lub wróg, wszystkie jednostki następną turę zyskują 1 [Vulnerable] (1 raz na falę)\n- W tej samej turze, w której wszystkie jednostki zyskały [Vulnerable] tym efektem, przy wygranym Starciu sojusznika wszyscy sojusznicy tracą 1 [Vulnerable], a na wszystkich wrogów nakłada 4 [Laceration] i +2 do Licznika [Laceration] (1 raz na turę)",
+      "kr_sha256": "77d4eeb4c10d9cad5dd4df33cdd03bc63288dff47dcbb1fbcc647265811858cf",
+      "en_sha256": "e80b957c2c43d2225ec1f90b8ca51f09b6d84cf677325f3fd4e62f7a64862263",
+      "origin": "ai"
+    },
+    "dataList[id=9236].name": {
+      "pl": "Harmoniki",
+      "kr_sha256": "b03997fa8c4663b17ece5a45cc4ce24a14a3bea506e3327d99e47985ae173ade",
+      "en_sha256": "adc7201334d6ba30f087660d52cae660b1fefa469661fe02c5cdc2169b4235e0",
+      "origin": "ai"
+    },
+    "dataList[id=9236].simpleDesc[abilityID=92361].simpleDesc": {
+      "pl": "Zmniejsza [Vulnerable] wszystkich sojuszników i nakłada [Laceration] oraz Licznik [Laceration] na wszystkich wrogów",
+      "kr_sha256": "5705aad0453751db48aa3bd679422658de5d5ddde0bf5e104b0050b28da45a19",
+      "en_sha256": "7012608bb48090f644cc61d2533bfaa388f185f2266dc1b58c58b886460c8dfa",
+      "origin": "ai"
+    },
+    "dataList[id=9236].simpleDesc[abilityID=9236].simpleDesc": {
+      "pl": "Następna tura zyskuje [Vulnerable]",
+      "kr_sha256": "2ec58dd8d9f122ad22d686a3456b47a1a9d9487c403be902b087828a17bd26ea",
+      "en_sha256": "50d3244ee4236949c218370b54d374280e95c63d69d186bdeaed5d8d136fd6f6",
+      "origin": "ai"
+    },
+    "dataList[id=9237].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #3]\n\nNa początku tury zyskuje 1 [TensionUp]\n\nPrzy trafieniu z szansą 25% nakłada 1 [TensionUp] na siebie i 1 losowego sojusznika\n- Jeżeli to Umiejętność nakładająca Siłę lub Licznik [Laceration] albo [Combustion] (łącznie z wariantami Szczególnymi), szansę podnosi do 50%",
+      "kr_sha256": "520732cbbd7433ae6eee41a595ba972f5432f12d8f842b452d2b47c621625ae6",
+      "en_sha256": "91df7149b6596d578c5b1bb62e1c2452335c5938cd1e6d6b34f0e195a502eede",
+      "origin": "ai"
+    },
+    "dataList[id=9237].name": {
+      "pl": "Walking Bass",
+      "kr_sha256": "f9168f42285f257b29e90e05ba62d24202d2ebc019db26afa4facd43e74c4280",
+      "en_sha256": "c5deae8e7ecd2e613f46b72cb0eca19fd9972212fef3d257d7d0b8fe1879851e",
+      "origin": "ai"
+    },
+    "dataList[id=9237].simpleDesc[abilityID=92371].simpleDesc": {
+      "pl": "Nakłada [TensionUp] na siebie i 1 losowego sojusznika",
+      "kr_sha256": "9a12808a145f558adb2502f97474c1c458329f07c666151f6407453b525328ec",
+      "en_sha256": "4ba50714f8d8f0bdfd99b19b5334d6579c3b88dd5febaef692c197f89498f6d6",
+      "origin": "ai"
+    },
+    "dataList[id=9237].simpleDesc[abilityID=9237].simpleDesc": {
+      "pl": "Zyskuje [TensionUp]",
+      "kr_sha256": "7d4af8a2b97f822aea328eb87ed436ddfb5fd3cbd57152b4070d8db438dc6745",
+      "en_sha256": "93362bdf24086ae5d8be4e2fd17226b6f3f672e426627739ab913560d023b677",
+      "origin": "ai"
+    },
+    "dataList[id=9238].desc": {
+      "pl": "Gdy sojusznik trafi wroga Umiejętnością nakładającą Siłę, Licznik [Sinking] lub Szczególne Zatonięcie, nakłada 1 [PinkPetals]\n- +1 dodatkowego [PinkPetals] za każde 5 Siły [Sinking] wroga (maks. 4)",
+      "kr_sha256": "ff48a2a5745e4b1089f9ca96db794ce2ab505fd679a2dc21ec9d205da28babba",
+      "en_sha256": "01fbef8aae7b741046e0b43bc96208a0822a4dc154655417d9031870b5e8ba83",
+      "origin": "ai"
+    },
+    "dataList[id=9238].name": {
+      "pl": "Różowe Płatki",
+      "kr_sha256": "50af994f92b98fda8a1a581bd57f23183f2088576d375b9fe6e2e96b80db75f9",
+      "en_sha256": "26f254f9a5c877025f5ae67cb439681168ab65115823935457731dfe23c9c48f",
+      "origin": "ai"
+    },
+    "dataList[id=9238].simpleDesc[abilityID=9238].simpleDesc": {
+      "pl": "Nakłada [PinkPetals]",
+      "kr_sha256": "c285cdc57397be4329b8ed4b1b687bbd04d3b0b7c6fb5caeda0d369b68116451",
+      "en_sha256": "906b5909f25a1c405abd41147fa006ac710504dbdafe87a28f7d3c33f1e1fe15",
+      "origin": "ai"
+    },
+    "dataList[id=9239].desc": {
+      "pl": "Przy trafieniu wroga Umiejętnością Kłucia następna tura zyskuje 1 [Agility] i 1 [PenetrateDamageUp] (2 razy na turę na Tożsamość)\n- Jeżeli ta Umiejętność pokona wroga, dodatkowo zyskuje 1 [Agility] i 2 [PenetrateDamageUp] następnej tury (1 raz na turę na Tożsamość)\n\nGdy sojusznik trafi wroga Umiejętnością nakładającą Siłę, Licznik [Sinking] lub Szczególne Zatonięcie, nakłada 2 [PinkPetals]\n- +1 dodatkowego [PinkPetals] za każde 5 Siły [Sinking] wroga (maks. 4)\n- Jeżeli wróg ma 10+ wartości [PinkPetals], przy trafieniu nakłada 2 [Vibration] (3 razy na turę)\n\nNa koniec tury: wrogom (lub Partiom Anomalii) z sumą Sił [Sinking] i [Vibration] wynoszącą 5+ nakłada następnej tury 2 [Binding] i 3 [DefenseDown]\n- Jeżeli suma Sił [Sinking] i [Vibration] celu wynosi 10+, efekt wzmocniony: nakłada 2 [Binding], 1 [Paralysis] i 4 [DefenseDown]\n\nNa koniec tury: jeżeli wszyscy wrogowie mają [PinkPetals], wszyscy sojusznicy następnej tury zyskują 1 [Enhancement]",
+      "kr_sha256": "c81a9d2f091c9cd4f19c60edcc2fb2c9d5f74e99ae292d9917ba80bd4321bdaa",
+      "en_sha256": "93be4c706923f0f9fc7f100de261d69b3cd25265c34cce381b9f088db08de11e",
+      "origin": "ai"
+    },
+    "dataList[id=9239].name": {
+      "pl": "Różowy Bukiet",
+      "kr_sha256": "fef4a5ca883c795c73fed0acb087e195bf4fd601c925c138a75b82322ddea04b",
+      "en_sha256": "a52ef1294096afd6eca947925c62673654330a1aeb07efc3cdc2c6800f232596",
+      "origin": "ai"
+    },
+    "dataList[id=9239].simpleDesc[abilityID=92391].simpleDesc": {
+      "pl": "Następna tura zyskuje 1 [Agility] i 2 [PenetrateDamageUp]",
+      "kr_sha256": "307f8c9ca1f8c2179811a54871ed5782d478aa929cdb3a85f8e34993292a1f74",
+      "en_sha256": "49c266e7f4638e91ec7aac4f68510dc67cc11a6fdb8b9fb1f4dcca3bfbc1bcab",
+      "origin": "ai"
+    },
+    "dataList[id=9239].simpleDesc[abilityID=92392].simpleDesc": {
+      "pl": "Nakłada [PinkPetals]. Nakłada [Vibration] przy spełnionych warunkach",
+      "kr_sha256": "eda1c137fefbe29852f1c07e0fc123a14e75a0305f6776802543551b69269e4a",
+      "en_sha256": "efd5b9a4defc9655ab59ca235ed4ebf178599efff37e30e3715747d9add573e3",
+      "origin": "ai"
+    },
+    "dataList[id=9239].simpleDesc[abilityID=92393].simpleDesc": {
+      "pl": "Nakłada [Binding] i [DefenseDown] następnej tury. Przy spełnionych warunkach nakłada [Binding], [Paralysis] i [DefenseDown]",
+      "kr_sha256": "b581dfd892d56671e171210bde0e5f94ad3d0a0bfe28d7fff2c0510d2780d470",
+      "en_sha256": "e68512436befa893260276a302e3de22a845a5a3638b0e135c5ab7bded066e32",
+      "origin": "ai"
+    },
+    "dataList[id=9239].simpleDesc[abilityID=92394].simpleDesc": {
+      "pl": "Wszyscy sojusznicy następnej tury zyskują [Enhancement]",
+      "kr_sha256": "10def36afcf83b9571218584e6bd53850086a259243e67bb69149429919382da",
+      "en_sha256": "6c7d1891651059145717ff295ec02cb921b79776659ca775407863814bbad080",
+      "origin": "ai"
+    },
+    "dataList[id=9239].simpleDesc[abilityID=9239].simpleDesc": {
+      "pl": "Następna tura zyskuje [Agility] i [PenetrateDamageUp]",
+      "kr_sha256": "5a5faefea77486bdc72361334117e64b96009909ade4dd2be7653200c311ac2f",
+      "en_sha256": "737d7c6027fcfb25f2da2e3c3371179a6ce25362772de13bbe56779ea0d36e70",
+      "origin": "ai"
+    },
+    "dataList[id=9240].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #6]\n\nPoczątek walki: zyskuje [QueenBeepheromone]\n\nOtrzymuje -15% obrażeń od wrogów z [Combustion]\n\nNa koniec tury: nakłada [QueenBeeMark] następnej tury na 1 wroga (w starciu skupionym liczone per Część), który zadał tej jednostce najwięcej obrażeń\n- Jeżeli sojusznicy nie otrzymali od wrogów żadnych obrażeń, nakłada [QueenBeeMark] następnej tury na 1 losowego wroga (w starciu skupionym liczone per Część)",
+      "kr_sha256": "8a111b1b624b323f87a14aad38a2863ce0b28e88241c2bb52e0809785f4c3e85",
+      "en_sha256": "54323d39afd4e67535e82805f807565d6a7ac5b04f8a21dd2fbb47c2f74c46c0",
+      "origin": "ai"
+    },
+    "dataList[id=9240].name": {
+      "pl": "Perfumy z Mleczka Królowej",
+      "kr_sha256": "cc39e356d6b222aa7415dc5034d0fa39417d5a0d19927421f7ecda5225af78bc",
+      "en_sha256": "423dd7496de9cc71416beab8981dd4f6e694ef725689a8f4fc1ca507b20c0286",
+      "origin": "ai"
+    },
+    "dataList[id=9240].simpleDesc[abilityID=92401].simpleDesc": {
+      "pl": "Nakłada [QueenBeeMark]",
+      "kr_sha256": "7a3db408d4847a70ab94d60a419ad38b2d3cecf796d067385372e3f4ceab434e",
+      "en_sha256": "7729e0a914b6ac6074ea77b520f693826ef952694346258bee591a47f59e0645",
+      "origin": "ai"
+    },
+    "dataList[id=9240].simpleDesc[abilityID=9240].simpleDesc": {
+      "pl": "Zyskuje [QueenBeepheromone]",
+      "kr_sha256": "86cbd9c6df23c4e7aa99b468953a77b0e54c5b25d7b9e674cc96f94b8ccecef5",
+      "en_sha256": "474fa2cc534f7147be32bef8cb855374471844c52aa445c2d8adf9cb6821123c",
+      "origin": "ai"
+    },
+    "dataList[id=9241].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #1]\n\nNa koniec tury, w której użyto Umiejętności ataku, odzyskuje 5 SP\n- Następnie, jeżeli SP jest pełne, a dotknięty sojusznik jest Tożsamością frakcji Lobotomii, następna tura zyskuje 1 [PlusCoinValueUp]",
+      "kr_sha256": "314bb354be64a3040c9d568e023710f513751c6ebdb79637677e6a7d35ad8631",
+      "en_sha256": "449d1925f7d71eec033e0b20c1c5d8de16d81430a1c132b565c3c8bc3867bc7c",
+      "origin": "ai"
+    },
+    "dataList[id=9241].name": {
+      "pl": "Jeszcze Ciepła Kawa",
+      "kr_sha256": "83e2b936cb20916172b37ed43b619a3d0822dad9e3124f232bf28609fc40394e",
+      "en_sha256": "0338431ed80ec33cdf237f5fd9e92c7c605172d4c14cab78589bfd50f3029b01",
+      "origin": "ai"
+    },
+    "dataList[id=9241].simpleDesc[abilityID=9241].simpleDesc": {
+      "pl": "Odzyskuje SP; przy spełnionych warunkach następna tura zyskuje [PlusCoinValueUp]",
+      "kr_sha256": "49fd3563dbf48246723389bdb6db7548793e92be498c15b6678d985ee1a2ddbc",
+      "en_sha256": "ea8441d5e532699f3221238bfb86cf6749bffe1903d63c562a586183d8999477",
+      "origin": "ai"
+    }
+  }
+}

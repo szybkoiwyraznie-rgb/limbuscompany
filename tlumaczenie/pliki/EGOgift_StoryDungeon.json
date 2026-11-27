@@ -623,6 +623,402 @@
       "kr_sha256": "e2f95164ebb244c9f0d0772cde96d37c02fd59189a11e775263e9d07ed5a5e1b",
       "en_sha256": "045d196c957009eef79fd41b67226340d3675ee6cda1d0c98ae94a2e781cb911",
       "origin": "ai"
+    },
+    "dataList[id=1052].desc": {
+      "pl": "Nakładając [Combustion] Umiejętnością na wroga, dodaje +5 do Licznika [Combustion].",
+      "kr_sha256": "35f3faa016d73277496616b17933da5d5b6b5cc8d0abdae95a7f1ec2ea49e3a2",
+      "en_sha256": "50d38921936ee6a79e8bc3a0ea4f582777e0282864c27aabe07b710359f2775b",
+      "origin": "ai"
+    },
+    "dataList[id=1052].name": {
+      "pl": "Gorący i Soczysty Udek",
+      "kr_sha256": "fec2e0047552055cee7f414c2d24b643d7fc481cbf0224315b3da614abcf4d97",
+      "en_sha256": "627305e7c6919ccc6216e94ec41256772a23ae110f2a1fef7664fe698275936e",
+      "origin": "ai"
+    },
+    "dataList[id=1052].simpleDesc[abilityID=1052].simpleDesc": {
+      "pl": "Nakładając Podpalenie Umiejętnością, dodaje +5 do Licznika Podpalenia.",
+      "kr_sha256": "14fe2c0bd6aeba64767182d35cf9f403dd0e7f17f7e71a80120fd131edb51712",
+      "en_sha256": "43cbab253d92c4e8c822e969befcd9f0b8f9b45572b169adc2088b1d03e99c57",
+      "origin": "ai"
+    },
+    "dataList[id=1053].desc": {
+      "pl": "Nakładając [Burst] Umiejętnością na wroga, dodaje +5 do Licznika [Burst].",
+      "kr_sha256": "c5c68ee81f597ed2031272f42546e6e8f3158620a6dbe80306d1b5b6cef97bfd",
+      "en_sha256": "3f0df540ea460a4926c7287a5981683086e20fea3e2258bb4629492d097a302a",
+      "origin": "ai"
+    },
+    "dataList[id=1053].name": {
+      "pl": "Sucha Do Kości Pierś",
+      "kr_sha256": "90924f974771ebd4cc2abb3b501ae051f81c3afed520d958dc3b58f2903a87f5",
+      "en_sha256": "10fb27fcf7c8bd307a7885dead1473ff4d775f721664bd1cd7480d053c2c3cba",
+      "origin": "ai"
+    },
+    "dataList[id=1053].simpleDesc[abilityID=1053].simpleDesc": {
+      "pl": "Nakładając Rozdarcie Umiejętnością, dodaje +5 do Licznika Rozdarcia.",
+      "kr_sha256": "e5b52f695889b3a3b880a155fff744dcad8bf93ba06ccc5701f0e2dcbea2b817",
+      "en_sha256": "482b67a9b7e07f8e3ffe8c2e656244b3bdaf6c58ae7d5373015e51ee9c7ac774",
+      "origin": "ai"
+    },
+    "dataList[id=1054].desc": {
+      "pl": "Przeciw przeciwnikom o niższej Prędkości sojusznik zyskuje Moc Starcia równą (Prędkość/2) (maks. 3).",
+      "kr_sha256": "37afe645ce7df279f4c8f54872f2e4a087eaf961d54c532a8043ead980865dd3",
+      "en_sha256": "7f544d91a3f3a4b898573fac60ec30097f0324541efcfa22b07935ec1ce22ec8",
+      "origin": "ai"
+    },
+    "dataList[id=1054].name": {
+      "pl": "Marynata Tango",
+      "kr_sha256": "e423015d96dd653e13be59745de96f2933a2044078b4613f0c20c34f3f8594c2",
+      "en_sha256": "7e19be6b5a7626ab90881928f29d3e8f6fd16c45af15e0d76a7db96b3313e173",
+      "origin": "ai"
+    },
+    "dataList[id=1054].simpleDesc[abilityID=1054].simpleDesc": {
+      "pl": "Zyskuje +(Prędkość/2) Mocy Starcia.",
+      "kr_sha256": "e1027bd5643aa49096467776110aafcbe2171ee43326e04e1997d3993633e0c2",
+      "en_sha256": "fa7717863c728e8a03069401c58c30555ec421066634bf394e537de1e1cf7f8a",
+      "origin": "ai"
+    },
+    "dataList[id=1055].desc": {
+      "pl": "Dotyczy pierwszej Umiejętności, która zada w tej turze obrażenia wrogowi.\n\nNakłada Moc [Laceration] równą (zadanych obrażeń/3).",
+      "kr_sha256": "820bd703a54ccc93a7e822a71a0d5f9812d14c22c348c9ba4dc65ad671675114",
+      "en_sha256": "d7b9c148708947659570435c854cecbd2a9da17dfd6265822f037fe076a2ba54",
+      "origin": "ai"
+    },
+    "dataList[id=1055].name": {
+      "pl": "Zanieczyszczona Igła i Nitka",
+      "kr_sha256": "321c425dd8e868c3a07894b9e0b3667aa20b8cca4e751e49972dcc81db00a3db",
+      "en_sha256": "3eac3f654e2d59672e01162f6026c9cbc271132c7e78088f507af8fa4283f0a4",
+      "origin": "ai"
+    },
+    "dataList[id=1055].simpleDesc[abilityID=1055].simpleDesc": {
+      "pl": "Nakłada (zadane obrażenia/3) Siły Krwawienia",
+      "kr_sha256": "c42168bd232866994959208a5ae5b7d0c78795ed2fac7704c4bfd3553e5aec20",
+      "en_sha256": "044a48afc8cd52999725a79e8d53167b4fbc6eb94f08ea63b693c5201b2d1ced",
+      "origin": "ai"
+    },
+    "dataList[id=1056].desc": {
+      "pl": "Za każdą turę pierwsza Umiejętność, która zada wrogowi obrażenia, zadaje dodatkowe obrażenia stałe równe (zadanych obrażeń/2).",
+      "kr_sha256": "27af62825050b24e7b0958618b93e17fb139a3d34d7e9cf44c30545b4529e4c0",
+      "en_sha256": "551e87acde48fb35d686ac00009b97048de6a341e56915fda41817721f6de4b4",
+      "origin": "ai"
+    },
+    "dataList[id=1056].name": {
+      "pl": "Ostra Igła i Nitka",
+      "kr_sha256": "ccd6aad9cbc13ee496babf08e6caecc7cddb468f7e957f9edfdfacdddc047e4c",
+      "en_sha256": "9839881542f3e80d239f682ca574dd4d7fd1811a9bd817b7f935d0518c701ea3",
+      "origin": "ai"
+    },
+    "dataList[id=1056].simpleDesc[abilityID=1056].simpleDesc": {
+      "pl": "Zadaje dodatkowe obrażenia stałe równe (zadanych obrażeń/2)",
+      "kr_sha256": "d22e073fea61b7d3bf658d96e3a5a55ddda01b5db0eafe6a76b61d817cc428f0",
+      "en_sha256": "e4f6468f73d79f22b13c7ec86112a54c6588fcf5a573df8ff72c547549a1cb62",
+      "origin": "ai"
+    },
+    "dataList[id=2001].desc": {
+      "pl": "Na początku tury: jeżeli któryś sojusznik ma HP poniżej 40%, leczy go do 100% Maks. HP (1 raz na piętro)",
+      "kr_sha256": "a12d72ea3218f77e7f7e7473eec7fe6c6f532efe9ba99710d819fb570b334041",
+      "en_sha256": "aa826f4838f4f44af2e3ed2b94fb87b340cd5902c1ba412bb9c7f5ed56a9496c",
+      "origin": "ai"
+    },
+    "dataList[id=2001].name": {
+      "pl": "Mała Ampułka",
+      "kr_sha256": "8976a95e8043a43afa4d7f9aebf2ccef1eb13fbbc1b239b0dc47b9bc065bb6e5",
+      "en_sha256": "ae27deaa5721889cd14a0afaeefbde2752edc561077040f81adf1a91feb339f5",
+      "origin": "ai"
+    },
+    "dataList[id=2001].simpleDesc[abilityID=2001].simpleDesc": {
+      "pl": "Warunkowe leczenie 100% HP",
+      "kr_sha256": "77d8e057aa36df65dc7baeb2fc2db7fdb6c8f4dfd464d57004a4992c97dd2da5",
+      "en_sha256": "0e4bc584965469082cdf09ce98074632fb33137a02d333f7853bc36d2ecfe11c",
+      "origin": "ai"
+    },
+    "dataList[id=2002].desc": {
+      "pl": "Na początku 1. tury każdej walki: Licznik Zasobu E.G.O losowego posiadanego Grzechu +2",
+      "kr_sha256": "d9a844db20adc47eccfdabe90bc71752639b773f5491f8ab713829ac91cb08c0",
+      "en_sha256": "5f9b5e6fa940580b45093281dc5586000251445ec20e3a0efb921a136851b409",
+      "origin": "ai"
+    },
+    "dataList[id=2002].name": {
+      "pl": "Odłamek Rozpadniętego Jaja",
+      "kr_sha256": "dc270281c27aeef639a8fb4b73a18e90fcd57d4500dbcd0940661b50ffed4a17",
+      "en_sha256": "efed0b13ae8af73b04d1f1f6210851e3cf3e6eabc5baf4fd267eb2a989fdb32a",
+      "origin": "ai"
+    },
+    "dataList[id=2002].simpleDesc[abilityID=2002].simpleDesc": {
+      "pl": "Zyskuje 2 Zasobów E.G.O losowego posiadanego Grzechu",
+      "kr_sha256": "dd535359ab91e008f3615ff8132191361e2f5bb4f6d4b8ba62108885685ba4bb",
+      "en_sha256": "d589b4e7d3a2eee3916713d54bf089fdc17f45bccc578671ab3c665ad569694f",
+      "origin": "ai"
+    },
+    "dataList[id=2003].desc": {
+      "pl": "Umiejętności Obżarstwa zadają +10% obrażeń",
+      "kr_sha256": "c0d2777239a1b411b9f10faceec8ab923bee7be0b2af6d4b26799def9dad3566",
+      "en_sha256": "055f834ed66d03c46088f76c72390509cee731773deef1186b162eec4b96a631",
+      "origin": "ai"
+    },
+    "dataList[id=2003].name": {
+      "pl": "Chłodne Złudzenie",
+      "kr_sha256": "10a449e13e363e6f3b6fc256472cdae4ea068649ec22de0b15f53e525c255a9f",
+      "en_sha256": "28a2a63bb47a8ea6535715b54201756f6ff3b497c23aab65a95391cf67a3f140",
+      "origin": "ai"
+    },
+    "dataList[id=2003].simpleDesc[abilityID=2003].simpleDesc": {
+      "pl": "Umiejętności Obżarstwa: +10% obrażeń",
+      "kr_sha256": "c0d2777239a1b411b9f10faceec8ab923bee7be0b2af6d4b26799def9dad3566",
+      "en_sha256": "7d6e820b96c6886bcc5cd0f657811247553f831742d01b3a8552fcd74aeb4ad7",
+      "origin": "ai"
+    },
+    "dataList[id=2004].desc": {
+      "pl": "Umiejętności Pychy zadają +10% obrażeń",
+      "kr_sha256": "1247deccd9d7e56e1108ad92a8020745bae4b134518da9c65c2d82fb8fb438e5",
+      "en_sha256": "fd9675fe928515dfc486a931e5a8ae77d773a288d4fb76621d8109e8d149f1a3",
+      "origin": "ai"
+    },
+    "dataList[id=2004].name": {
+      "pl": "Ostre Złudzenie",
+      "kr_sha256": "e54f83e1b093994a2de6f0ab036c801c5d6cc2c620494c9e4f32961ee3742cef",
+      "en_sha256": "d3f3fa9b376210ec2de06f3af608bc5e669e37967ff4ad8c6b7fe3a269a562c7",
+      "origin": "ai"
+    },
+    "dataList[id=2004].simpleDesc[abilityID=2004].simpleDesc": {
+      "pl": "Umiejętności Pychy: +10% obrażeń",
+      "kr_sha256": "1247deccd9d7e56e1108ad92a8020745bae4b134518da9c65c2d82fb8fb438e5",
+      "en_sha256": "612efa7ffb9779538163cc24f6fbc488737ddaa51555ee6488c683be27f81d9b",
+      "origin": "ai"
+    },
+    "dataList[id=2005].desc": {
+      "pl": "Umiejętności Lenistwa zadają +10% obrażeń",
+      "kr_sha256": "d89e3c9b5f6729ea7a14fee515e85345fe06642f2edf7ac3d66a29bc732d8e89",
+      "en_sha256": "12c475c2ed099806490b88b6009e8576ff6e2d43f492b9225047e155c7d8d016",
+      "origin": "ai"
+    },
+    "dataList[id=2005].name": {
+      "pl": "Pachnące Złudzenie",
+      "kr_sha256": "f8db374861b04e9ed1b7d3edab891e6f8863c60f1cdc33cc0a767c546fa52c99",
+      "en_sha256": "fbfd90001723b057f1a0b9311588edf841c8104df0d84757a8fe425a2a51a0fd",
+      "origin": "ai"
+    },
+    "dataList[id=2005].simpleDesc[abilityID=2005].simpleDesc": {
+      "pl": "Umiejętności Lenistwa: +10% obrażeń",
+      "kr_sha256": "d89e3c9b5f6729ea7a14fee515e85345fe06642f2edf7ac3d66a29bc732d8e89",
+      "en_sha256": "71014218a24b1c67958cfd1674f9947ab20881e087f1c85bce192fbcf17e0420",
+      "origin": "ai"
+    },
+    "dataList[id=2006].desc": {
+      "pl": "Gdy SP poniżej 0, Umiejętności Posępności i Lenistwa mają +1 do Mocy Końcowej",
+      "kr_sha256": "9c377e619f688e4726e6e076607f1e3964b2d34ee77d1e7e5a46d856566dd565",
+      "en_sha256": "c85e2c6b42ab0f563ebc42e893f35dc702c80d5d119a6c694c57e64c76be07d1",
+      "origin": "ai"
+    },
+    "dataList[id=2006].name": {
+      "pl": "Ślad Gwiazd",
+      "kr_sha256": "9ec72ec7b199ec5f30184c930b2635e4a34e543f7796dd240a71a49ca7f60c4e",
+      "en_sha256": "1002e10997835f5e93860d70890f081f803be6bbcb28540fae24ee5b0ce15eeb",
+      "origin": "ai"
+    },
+    "dataList[id=2006].simpleDesc[abilityID=2006].simpleDesc": {
+      "pl": "Umiejętności Posępności i Lenistwa: +1 do Mocy Końcowej, gdy SP poniżej 0",
+      "kr_sha256": "9c377e619f688e4726e6e076607f1e3964b2d34ee77d1e7e5a46d856566dd565",
+      "en_sha256": "014329bd3fa71ad1ccc30a821f29e071e6d55f073858eb60ce3be3776661e197",
+      "origin": "ai"
+    },
+    "dataList[id=2007].desc": {
+      "pl": "Nakładając Zatonięcie Umiejętnością, z szansą 50% nakłada dodatkowo 1 Siłę Zatonięcia",
+      "kr_sha256": "3a4a61bf0538f9bcd9731dee1ae299d2e593dee8c71e3b30d02f30e4b814658f",
+      "en_sha256": "00f83986ea04f8fb207595e78850b589420ccdf904398b3c4d7b2a1e2a25f796",
+      "origin": "ai"
+    },
+    "dataList[id=2007].name": {
+      "pl": "Korzenny Pąk",
+      "kr_sha256": "25cb8dcf947900488556fc18fe2c9a2fc56365711fb14d2a19972523fa71f9f2",
+      "en_sha256": "ad25c88712b19d34ae68ae65a30a0fe3df62e23953aa69dcc00effd62d3aab74",
+      "origin": "ai"
+    },
+    "dataList[id=2007].simpleDesc[abilityID=2007].simpleDesc": {
+      "pl": "Nakładając Zatonięcie Umiejętnością, z szansą 50% nakłada dodatkowo 1 Siłę Zatonięcia",
+      "kr_sha256": "3a4a61bf0538f9bcd9731dee1ae299d2e593dee8c71e3b30d02f30e4b814658f",
+      "en_sha256": "00f83986ea04f8fb207595e78850b589420ccdf904398b3c4d7b2a1e2a25f796",
+      "origin": "ai"
+    },
+    "dataList[id=2008].desc": {
+      "pl": "Otrzymuje -10% obrażeń od Gniewu\nPo otrzymaniu obrażeń następnej tury zyskuje 1 Wzrost Mocy Ataku (wywołuje 1 raz na turę na Grzesznika)",
+      "kr_sha256": "525781a1517fae162847e2bb8a5a44bdf63681fec34b8f4a955abe163cdb195c",
+      "en_sha256": "5f046806d94f26bf594693931a6197f67cfc4e39039d7cd7aac9c3351dc7a885",
+      "origin": "ai"
+    },
+    "dataList[id=2008].name": {
+      "pl": "Gorące Łzy",
+      "kr_sha256": "3c8f6164a44fbb3ac78f868aa509f10c496d6f600b5d06f0e3690cac59a7cabd",
+      "en_sha256": "f8e803226975192e18c692ff6486154ce5dd126f26179aa5563dfbeb98bab4e5",
+      "origin": "ai"
+    },
+    "dataList[id=2008].simpleDesc[abilityID=200901].simpleDesc": {
+      "pl": "Po otrzymaniu obrażeń następnej tury zyskuje 1 Wzrost Mocy Ataku",
+      "kr_sha256": "e227a8eb5b606de9a6eb12e200bde87983935b19c4abf20a73182995e5e0eca0",
+      "en_sha256": "19cd741ef7417cfb633565a2e80f1f375c5711a2e6877c5fba2f664ff3beb149",
+      "origin": "ai"
+    },
+    "dataList[id=2008].simpleDesc[abilityID=2009].simpleDesc": {
+      "pl": "Otrzymuje mniej obrażeń od Gniewu",
+      "kr_sha256": "1999074a82c9d90e4fc0aab2e445d164b5223b83ecdee4ae8f591f15a0335440",
+      "en_sha256": "849a1a8bba5adf794d54bdb4b6af44c4b3b764ea527942a3934a1a7a22407b0f",
+      "origin": "ai"
+    },
+    "dataList[id=2009].desc": {
+      "pl": "Po otrzymaniu obrażeń następnej tury zyskuje 1 Ochrony (wywołuje 1 raz na turę na Grzesznika)",
+      "kr_sha256": "4c5e6ffedcde5d005a517a5abdb6a13b74de5e23f5ce0d1c9d3e3c4fe3d10506",
+      "en_sha256": "f4f1ddc22ee24d8bc4421dc01104dfcaf31e5115ac3e21bf152ea481951dc2c1",
+      "origin": "ai"
+    },
+    "dataList[id=2009].name": {
+      "pl": "Wystygłe Łzy",
+      "kr_sha256": "5570161758177ec9d13e723033951c95274a792afa791409498d018b4ec4597d",
+      "en_sha256": "1d4448e7a763c12e4411357937e74de5f9a4e147efb346658ec39210664fbe9a",
+      "origin": "ai"
+    },
+    "dataList[id=2009].simpleDesc[abilityID=2009].simpleDesc": {
+      "pl": "Po otrzymaniu obrażeń następnej tury zyskuje 1 Ochrony",
+      "kr_sha256": "cf7bae88abe9776c9f84196fab65eba5e5ffe3ad8c206d578e6729338cf48ed8",
+      "en_sha256": "cf2c92c090e835fa5ac86930490a20e016550523928e855396ecf263cfa54c1f",
+      "origin": "ai"
+    },
+    "dataList[id=2010].desc": {
+      "pl": "Umiejętności Pychy i Zawiści mają +1 do Mocy Starcia w Starciu",
+      "kr_sha256": "2a47d26ecc8a4a0e0ca0d05750a62f4ad8e239fd82aa909b485e335363780fcf",
+      "en_sha256": "2cc867e31360a94a081cf1d7a3879cb5454cb51268af3c886fe74fd84d6a0346",
+      "origin": "ai"
+    },
+    "dataList[id=2010].name": {
+      "pl": "Pamięć Odłamków",
+      "kr_sha256": "6f26473273cbb78af60355e92c044e938f04e409f533123fa78259405957714b",
+      "en_sha256": "aca2c020a3169b913b35668e931241362e036fc10e0a6ee49d2abd7cde849c25",
+      "origin": "ai"
+    },
+    "dataList[id=2010].simpleDesc[abilityID=2010].simpleDesc": {
+      "pl": "Umiejętności Pychy i Zawiści: +1 do Mocy Starcia w Starciu",
+      "kr_sha256": "2a47d26ecc8a4a0e0ca0d05750a62f4ad8e239fd82aa909b485e335363780fcf",
+      "en_sha256": "b6ef81f074cacd61a79e4884214cac8ec96dd2c510fcf83b273b02a53f3619a2",
+      "origin": "ai"
+    },
+    "dataList[id=2011].desc": {
+      "pl": "Otrzymuje -10% obrażeń od Pychy\n\n<i>„Chciałem rozfrunąć na wiatr w młodej zieleni, czując, jak w drżące serce wbijają się ziarna niczym nasiona w bruzdy.”</i>",
+      "kr_sha256": "6c14de6721e65e45e2b024a9e592cc355e3b5368204fa06c2deaee8dfd063534",
+      "en_sha256": "e04023d459b7088cdf337f495c7254b112ff33e45989ee9e2cc3d9c1e4d1a58a",
+      "origin": "ai"
+    },
+    "dataList[id=2011].name": {
+      "pl": "Odłamek Rozdartej Wiosny",
+      "kr_sha256": "84cd4cd97b61346cd3cd5fb280cbac78cc5cf080b2398b52916166468431bd0c",
+      "en_sha256": "1ef9af6600db02852231a11db5a5d24259b1d3c92c1eb3d436a4ca3f1e436b1d",
+      "origin": "ai"
+    },
+    "dataList[id=2011].simpleDesc[abilityID=2011].simpleDesc": {
+      "pl": "Otrzymuje -10% obrażeń od Pychy",
+      "kr_sha256": "4cdea1836012c59eeb25f0e8934ee0742f4f1afc85c0de2b8d78f23b6efa20f7",
+      "en_sha256": "06f4e3ef0803a53c14b936c160b4c4a1b19a9a4124ba8c004d78130ff01c8a41",
+      "origin": "ai"
+    },
+    "dataList[id=2012].desc": {
+      "pl": "Otrzymuje -10% obrażeń od Obżarstwa\n\n<i>„Nie widziałem sensu w zgadywaniu kaprysów pogody. Czekałem po prostu, aż wszystko ucichnie, wypatrując dnia, który ma nadejść.”</i>",
+      "kr_sha256": "3558cb55c8f48712b7bdc49049b691164d26411d02312dae9274d5649840f52b",
+      "en_sha256": "bb3d0c4d22ec2e480d8e40eb396343e9e5130b62bb481e541fda977fdbaa9153",
+      "origin": "ai"
+    },
+    "dataList[id=2012].name": {
+      "pl": "Odłamek Rozdartego Lata",
+      "kr_sha256": "0e89a5c90fe656aaa8152c93ff2e30643890487e722624d52ee91846dc8e6352",
+      "en_sha256": "12a0f11906ae01b861e187e45fa80d46d655b01483ecc04ad06029bc4f0d78e4",
+      "origin": "ai"
+    },
+    "dataList[id=2012].simpleDesc[abilityID=2012].simpleDesc": {
+      "pl": "Otrzymuje -10% obrażeń od Obżarstwa\n\n<i>„Ależ byłem lekkomyślny, mniemając, że wystarczy patrzeć z ukosa, jak świat mnie przenika, aż wsiąknie… Zrozumienie przychodzi zbyt późno.”</i>",
+      "kr_sha256": "3169f3150014f6130f3febbd2c4fb34f3dd315e7d6b7132c47dadd37b58c9581",
+      "en_sha256": "7fd29f393c0fd55e13c87075935e220826cfdea0a7472aa4990498bcbac17d03",
+      "origin": "ai"
+    },
+    "dataList[id=2013].desc": {
+      "pl": "Otrzymuje -10% obrażeń od Posępności\n\n<i>„Ależ byłem lekkomyślny, mniemając, że wystarczy patrzeć z ukosa, jak świat mnie przenika, aż wsiąknie… Zrozumienie przychodzi zbyt późno.”</i>",
+      "kr_sha256": "e2b58e1f322177aab9d449fa7260ead463b49f58c9876aa6a78d97e95ca5f307",
+      "en_sha256": "504cc5b6d2a704eee03e3353a4fada61c4ad729f1bbc32e43364ca237dbe8906",
+      "origin": "ai"
+    },
+    "dataList[id=2013].name": {
+      "pl": "Odłamek Rozdartej Jesieni",
+      "kr_sha256": "f8dc9009bea04513781f0091aa0362348177ec7d42948003309e29c70c6ffc23",
+      "en_sha256": "de4ff754d60e5ac0c5d9609e1d22f27e11a19b9d956f57bd83242065dd2ad543",
+      "origin": "ai"
+    },
+    "dataList[id=2013].simpleDesc[abilityID=2013].simpleDesc": {
+      "pl": "Otrzymuje -10% obrażeń od Posępności",
+      "kr_sha256": "bbecd1f4e9232acb61e6b16b453229c473107f84491c58943dbf92fcbbcdd984",
+      "en_sha256": "14321980af1302f08d39719d1790272d4a582ab3f9b3b40f6ee1c8278260bdf4",
+      "origin": "ai"
+    },
+    "dataList[id=2014].desc": {
+      "pl": "Otrzymuje -10% obrażeń od Lenistwa\n\n<i>„Wybuch Ligi Dziewięciu roztrzaskał wszystko, co było, i wszystko we mnie również stanęło.”</i>",
+      "kr_sha256": "b594cc899f42fe91db029102f085d43a36e9c3445274ecbdfe12049e8fe01a37",
+      "en_sha256": "ddb1ddb83e779612ef2e97111f84f8d5ed5664a37c461ff878d3c031309d38d4",
+      "origin": "ai"
+    },
+    "dataList[id=2014].name": {
+      "pl": "Odłamek Rozdartej Zimy",
+      "kr_sha256": "badca68f077a4eaff652376292b5c16fa5a637220f1c036e529661f7676f8101",
+      "en_sha256": "2cae20a7b1dc7c4c73eaf74705972ba4d44267750cb3f21c129ebe6aaeda2fae",
+      "origin": "ai"
+    },
+    "dataList[id=2014].simpleDesc[abilityID=2014].simpleDesc": {
+      "pl": "Otrzymuje -10% obrażeń od Lenistwa",
+      "kr_sha256": "ddd434d9c95810acb93e4a10e6f76dd77fe7f01bb14be878e741eb3dd19b22c6",
+      "en_sha256": "0c91ba35b8bcebc236a89b0dd9929d5791b57882eb5354342b34e0a8d5c36dbd",
+      "origin": "ai"
+    },
+    "dataList[id=2015].desc": {
+      "pl": "Umiejętności Yi Sanga mają +2 do Mocy Końcowej.\nPo śmierci sojusznika: pozostali sojusznicy na koniec tury następnej tury zyskują 1 Pośpiechu i 1 Wzrost Mocy Ataku (1 raz na turę)\n\n<i>„Spoglądając wstecz na nasze ślady… wszyscy traciliśmy tak wiele.”</i>",
+      "kr_sha256": "4e854e47f8701624250236152a57efe3be12db4f8a99fa3ac4786bbef6b53a91",
+      "en_sha256": "a9f7e36616bc99f4f5560aa3102c76b31b8cb8a961e22dc383eca116d1d03f59",
+      "origin": "ai"
+    },
+    "dataList[id=2015].name": {
+      "pl": "Odłamek Zerwanej Więzi",
+      "kr_sha256": "1302f6628b38e5690b926b20c2dba6bdf0fca9165134fd5655f2b7bd187428a2",
+      "en_sha256": "5a85cc23600363fa2399b1927305bf4dbc5b031df6d917a2c01997196f5b1841",
+      "origin": "ai"
+    },
+    "dataList[id=2015].simpleDesc[abilityID=201501].simpleDesc": {
+      "pl": "Po śmierci sojusznika: pozostali sojusznicy następną turę zyskują 1 Pośpiechu i 1 Wzrost Mocy Ataku (1 raz na turę)",
+      "kr_sha256": "bddfc445e97b724a5ff83adb8aaef874027d5b2cac4d2b9cb6ee4fa85a5cdccf",
+      "en_sha256": "29e85f23b00e51b493900e9d8481a9030e3a9f06b4d715ac7d3fc41cb6df8185",
+      "origin": "ai"
+    },
+    "dataList[id=2015].simpleDesc[abilityID=2015].simpleDesc": {
+      "pl": "Umiejętności Yi Sanga mają +2 do Mocy Końcowej",
+      "kr_sha256": "6fa5f037f9d987b62b26a70a22469e14725dad55073a08de47fd44f3321708c1",
+      "en_sha256": "2c3dfc9a9a57810e15727dbc761dca7f87345b1eb04d30ab0565df7314d88297",
+      "origin": "ai"
+    },
+    "dataList[id=2016].desc": {
+      "pl": "Poziom Yi Sanga rośnie do 35.\nPoziomy Synchronizacji Yi Sanga i Splotu Nici jego E.G.O rosną do poziomu 3\n\n<i>„Nie byliśmy ani ambitnymi lotrikami, ani chciwymi sępami — byliśmy tylko dziećmi, które pokochały technologię.”</i>",
+      "kr_sha256": "3b023baa4fe7a38bf83977b69afa58109c0ff879d3984fab9c8e1839351bad45",
+      "en_sha256": "9dec23228c7a430dc5840b045514d82e91c357a72c734df4a1f9bd8da709b882",
+      "origin": "ai"
+    },
+    "dataList[id=2016].name": {
+      "pl": "Odłamek Przywoływanej Pamięci",
+      "kr_sha256": "d8997894bb52f6a9f57d10a30f03dedbf799d2030a45f6012674fd2db97df65f",
+      "en_sha256": "4201ab4591e9f8f45affb8a84cae13b42055099e20e0af69196f96fe208a6fb0",
+      "origin": "ai"
+    },
+    "dataList[id=2016].simpleDesc[abilityID=201601].simpleDesc": {
+      "pl": "Poziomy Synchronizacji Yi Sanga i Splotu Nici jego E.G.O rosną do poziomu 3",
+      "kr_sha256": "6ac4c0e93d557c5c661b15443be6cbb956cd6e317ce8802dec7e61dbf0bd7035",
+      "en_sha256": "f1227e69c5dff92c8ee6c07ae91f6c8cb166db4c1aa1eb7827da2347285d2ca7",
+      "origin": "ai"
+    },
+    "dataList[id=2016].simpleDesc[abilityID=2016].simpleDesc": {
+      "pl": "Poziom Yi Sanga rośnie do 35.",
+      "kr_sha256": "43c9e8a2472dd350994086b296401ae489d481b7c4a59fbfedf2db9e8067f4a4",
+      "en_sha256": "02df39aa8313baefe203aae7487f0af0379fd5489f52b29ff6078bb7912a2284",
+      "origin": "ai"
     }
   }
 }

@@ -1,0 +1,238 @@
+{
+  "entries": {
+    "dataList[id=9831].desc": {
+      "pl": "Zadaje +10% obrażeń wrogom\n- +1% dodatkowych obrażeń za każdego pokonanego wroga lub każdą zniszczoną Część w tej walce (dodatkowo maks. +20%).\n- Działa także przy wielokrotnym niszczeniu tej samej Części.\n- Jeżeli wśród wrogów jest Morski Terror, powyższy efekt osiąga maksimum bez spełniania warunków.",
+      "kr_sha256": "1a7ee0e31c8442ca1c50552291a72b4401233685c822d17c4e343e24d549d0a9",
+      "en_sha256": "807a8df4468f6df8d37040578d235b852afb69351c6f10136c2693210d5e7e02",
+      "origin": "ai"
+    },
+    "dataList[id=9831].name": {
+      "pl": "Notatki o Morskim Terrorze",
+      "kr_sha256": "4696d01d5b9d4ea5d061d97b92f3c5ce5d2349926f91740cd16bd3de35df934f",
+      "en_sha256": "6a44f4082d58acb9acbe47345053c2ccbad85ce5079497736e32a2cca9a8fa24",
+      "origin": "ai"
+    },
+    "dataList[id=9831].simpleDesc[abilityID=9831].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń",
+      "kr_sha256": "ddcaf4a404c01db9d6eb128da5297eda3c0d4e7740861fc3d73eaa961b15feea",
+      "en_sha256": "9c84373452281ddd1e1615423bc0e05af41ca864ab48d5c0a009492e2678f459",
+      "origin": "ai"
+    },
+    "dataList[id=9832].desc": {
+      "pl": "Przy użyciu Umiejętności z Monetą Plus odzyskuje 5 SP, przy użyciu Umiejętności z Monetą Minus traci 5 SP (ten efekt nie obniży SP poniżej -40, 1 raz na turę na Tożsamość).\n\nNa początku tury: przy pełnym SP lub SP ≤ -30 zyskuje 1 [ResultEnhancement] i 2 [Protection].",
+      "kr_sha256": "d2a5494442231da272694305647f9a0facb6c2391330dcf0fd07204ac3d5de28",
+      "en_sha256": "d611090e56041065f3a47c87b0f144e839c0ed54fa8d6033f8f07b3c432a8803",
+      "origin": "ai"
+    },
+    "dataList[id=9832].name": {
+      "pl": "Kompas Kuty ze Złota",
+      "kr_sha256": "494ed27adf14cea490ec4cc108dc08125f2d907cb053104c8cbf509aaf9ed3c3",
+      "en_sha256": "f9f27e32fbb0f0a9fa2ed7660587192c0ee6d35dfc3492454fd19d56754f4fc2",
+      "origin": "ai"
+    },
+    "dataList[id=9832].simpleDesc[abilityID=98321].simpleDesc": {
+      "pl": "Przy pełnym SP lub SP ≤ -30 zyskuje Wzrost Mocy i Ochronę",
+      "kr_sha256": "17cd195875eff38b822d76689e4c05d8615c7dd763599c62b4830295bae8356f",
+      "en_sha256": "2db7cab55dcbe93fa8b6f46d3ace2e683e66c9b632196acbceee399cbd904402",
+      "origin": "ai"
+    },
+    "dataList[id=9832].simpleDesc[abilityID=9832].simpleDesc": {
+      "pl": "Przy użyciu Umiejętności odzyskuje lub traci SP zależnie od jej Monet",
+      "kr_sha256": "388aff7943b4d4d6c54d993ff7b01756212b5a120f304a312db12bcd73dc46ce",
+      "en_sha256": "ce70a3e67ffcf05e1e852496bea3b2b57523f436113c1a35b23747d6316b497e",
+      "origin": "ai"
+    },
+    "dataList[id=9833].desc": {
+      "pl": "W walce z bossem na początku tury: +1 do 3 najmniej posiadanych Zasobów E.G.O.\n\nNa koniec tury: jeżeli w tej turze użyto Umiejętności E.G.O, +3 do najmniej posiadanego Zasobu E.G.O (1 raz na turę).",
+      "kr_sha256": "4a9ee464e384b7a6a75ef67eb13235c4a924ca63ac4f3a61da9934f9443e80f5",
+      "en_sha256": "56e44fc1399108f016388d2a88f7057a6aae9887a824815aea29b657890cc909",
+      "origin": "ai"
+    },
+    "dataList[id=9833].name": {
+      "pl": "Komplet Srebrnych Kluczy",
+      "kr_sha256": "0ec162ffde8f1f5c8336c530f5fb87292a6900473511c6234402c9cd8915b105",
+      "en_sha256": "93d5b63b07f50bc204b0fb0049507d7c34f02210c107d5c020967c3d9cf12de2",
+      "origin": "ai"
+    },
+    "dataList[id=9833].simpleDesc[abilityID=98331].simpleDesc": {
+      "pl": "+3 do najmniej posiadanego Zasobu E.G.O",
+      "kr_sha256": "81f4e16117366ffab461463a733641da3653af5b93a01794db620ab37edd70df",
+      "en_sha256": "b58dde359feeb50dfb2aae03e20f3dd1efe3c1f9d4ea8ded7c42727236fa84ca",
+      "origin": "ai"
+    },
+    "dataList[id=9833].simpleDesc[abilityID=9833].simpleDesc": {
+      "pl": "+1 do 3 najmniej posiadanych Zasobów E.G.O",
+      "kr_sha256": "3e4ccc06ebc21918bab29385422f79f8888c7691f53779e51b49b1f23adcf83a",
+      "en_sha256": "f6dd3d35425494208a1547b992149ab7fa94ec385d4e75b4b672e89f8792929c",
+      "origin": "ai"
+    },
+    "dataList[id=9834].desc": {
+      "pl": "Na początku tury: nakłada 3 [DefenseDown] na wszystkich wrogów (lub Partie Anomalii).\n- Jeżeli wśród wrogów jest Morski Terror, efekt jest wzmocniony: zamiast tego nakłada 7 [DefenseDown].",
+      "kr_sha256": "707134dc44d3a908e341a91737a3429a470f056469c5ac8e805c4bb4697f4976",
+      "en_sha256": "99a3c753b4b853e6c12bb0538a3239828ceff0b0493f3e708e5b89a7b0cee532",
+      "origin": "ai"
+    },
+    "dataList[id=9834].name": {
+      "pl": "Suszone Mięso Morskiego Terroru",
+      "kr_sha256": "ce764b30d2759f396515ada6901d20160cb79cc678129d53269171846b89976c",
+      "en_sha256": "b1b94b7631d7464a8810c77673e24c374bf1450a3311bdca7026f3a6175d2780",
+      "origin": "ai"
+    },
+    "dataList[id=9834].simpleDesc[abilityID=9834].simpleDesc": {
+      "pl": "Nakłada Spadek Poziomu Obrony",
+      "kr_sha256": "669db5abb80ab60e61ea14632db54280a1f5a648aaf3d6d3a741ad79d644fa96",
+      "en_sha256": "a550233d7487f7f137ffc05a8673ce243c05e4337c739b40ee3c2597cd1f1cc7",
+      "origin": "ai"
+    },
+    "dataList[id=9835].desc": {
+      "pl": "[Efekt dla Tożsamości z najwcześniejszą kolejnością Przydziału]\n\nPierwsza użyta w turze Umiejętność ataku zyskuje +3 do Mocy Końcowej.\nJeżeli to Umiejętność E.G.O, efekt jest wzmocniony: zamiast tego +4 do Mocy Końcowej i +25% obrażeń.\n\nPoczątek Walki: jeżeli jednostka posiada [NervousImpairment], zużywa do 4 jego wartości i zamiast tego zyskuje (zużyta wartość x 2) [Combustion].",
+      "kr_sha256": "d4957507ef1b7a5d47ba6037f83ac13341af27e7b35c77577734cc047bd158d9",
+      "en_sha256": "72033a45d66884ea624538754c5f5a7b75c446771fb1a1d480dbd462f2aed6a9",
+      "origin": "ai"
+    },
+    "dataList[id=9835].name": {
+      "pl": "Jaskrawo Świecąca Lampa",
+      "kr_sha256": "df5bbb40ff480aaebe30775e283836a0603dd8a85c019a00967b596b2125efdd",
+      "en_sha256": "40e116fa079f0d778b21fa42c882ff247b7cf9dee46cc48d1b23d788964992a3",
+      "origin": "ai"
+    },
+    "dataList[id=9835].simpleDesc[abilityID=98351].simpleDesc": {
+      "pl": "Pierwsza użyta w tej turze Umiejętność ataku zyskuje Moc Końcową i zadaje więcej obrażeń",
+      "kr_sha256": "446f18fe8c29cad33db862e5e9b0a3729e8d57d7aca40ef9d4ea6d29b49cf0b9",
+      "en_sha256": "ae4fbfbbf3226a1a4869634bd35afc5612e424df73edc292b08dae2fed88ae6b",
+      "origin": "ai"
+    },
+    "dataList[id=9835].simpleDesc[abilityID=98352].simpleDesc": {
+      "pl": "Jeżeli jednostka ma Uszkodzenie Nerwów, zużywa je i zyskuje proporcjonalne Podpalenie",
+      "kr_sha256": "9b2098ff64138e02451fbd59598095f9eaf8c53037545c183c38350dd4daa3fa",
+      "en_sha256": "94fbf5e1fa8105486c3f07e5a986099ab5eb89d0b6edd663e346259cc988ecda",
+      "origin": "ai"
+    },
+    "dataList[id=9835].simpleDesc[abilityID=9835].simpleDesc": {
+      "pl": "Pierwsza użyta w tej turze Umiejętność ataku zyskuje Moc Końcową",
+      "kr_sha256": "6e6cb7987cdc12af19eeff2ffd61698db631fff1319d5fecb64a3180830f8c7f",
+      "en_sha256": "0816d57824f972b597744fe7a951a9da204e10de183b91f0d85ce4406df5c9e8",
+      "origin": "ai"
+    },
+    "dataList[id=9836].desc": {
+      "pl": "Przy trafieniu atakiem Umiejętnością ataku (łącznie z Umiejętnościami E.G.O) w pojedynczy cel (lub Partię Anomalii) zadaje +10% obrażeń.\nJeżeli Umiejętność nakłada Siłę, Licznik [Sinking] lub Szczególne Zatonięcie, efekt jest wzmocniony: zamiast tego +25% obrażeń.\n\n[Efekt wyłącznie dla E.G.O Ishmaela — Elegia Przypływu]\nJeżeli ta Umiejętność E.G.O celuje w 1 wroga, jej ostatnia Moneta zyskuje +4 Moc Monety i zadaje +20% obrażeń.",
+      "kr_sha256": "9b1538411d462f04c4b3128aeb8e3e6f878dafb8864fc0cc0a9759d8e3944d44",
+      "en_sha256": "f76cbc9435b8d0cbc79078aa17ed542e66bc48c9f449d32f04005e53882cc446",
+      "origin": "ai"
+    },
+    "dataList[id=9836].name": {
+      "pl": "Zestarzałe Nuty",
+      "kr_sha256": "0179d81ac392a86edf11e25767fa50fbc8998f9ff04ae43368249e8a9bf125de",
+      "en_sha256": "4f4abd39252427a4bb93534d7f8d3507f66479add5092ff0d0a09090dd329936",
+      "origin": "ai"
+    },
+    "dataList[id=9836].simpleDesc[abilityID=98361].simpleDesc": {
+      "pl": "Przy trafieniu Umiejętnością o Wadze Ataku 1 nakładającą Zatonięcie zadaje więcej obrażeń",
+      "kr_sha256": "ac771739e3b7df1ae253406d891c8c72e23ffdcca50f48bb5f161ac922620f38",
+      "en_sha256": "43f2e94325f1f2e9a92b3b7de3c8eaf74bf6dd1c9f67ccb06ca1c99c6d65dd7a",
+      "origin": "ai"
+    },
+    "dataList[id=9836].simpleDesc[abilityID=98362].simpleDesc": {
+      "pl": "Wzmacnia E.G.O Ishmaela — Elegia Przypływu",
+      "kr_sha256": "330cba896211a6d4718f71ba92843035c4700d44930e086e7055b1e7d3eb8d7c",
+      "en_sha256": "815967f59cf5ea77ebb73095ac9d08d855cb777bad00710c5aacb2e07a3608bb",
+      "origin": "ai"
+    },
+    "dataList[id=9836].simpleDesc[abilityID=9836].simpleDesc": {
+      "pl": "Przy trafieniu atakiem Umiejętnością o Wadze Ataku 1 zadaje więcej obrażeń",
+      "kr_sha256": "d22d4a3913ea0d95fb74ed60693861cfcce0f072a69594e3a48f660397a484e3",
+      "en_sha256": "1e9c9cebaef010842a19df0b53df0498c4bc3f3f85c230416b5431a06685f0ca",
+      "origin": "ai"
+    },
+    "dataList[id=9837].desc": {
+      "pl": "Na początku tury: wszyscy sojusznicy zyskują 2 [TakeHpHealIncrease].\nTożsamości z Umiejętnościami ataku nakładającymi Siłę lub Licznik [Burst] zyskują zamiast tego 4 [TakeHpHealIncrease].\n\n[Efekt wyłącznie dla E.G.O Faust — Rozkaz : Roztopienie]\nNadwyżka HP wyleczona efektem lub Pasywką tej Umiejętności E.G.O zamienia się w Tarczę",
+      "kr_sha256": "4f57e8e32ffacea56e306c3b0ea9fb2db43baf7bd3dd65c822b419b2e2f32492",
+      "en_sha256": "78638d899546865c248a4ad38c1a89cf7162420b4d32e20d817f5b5f9e7b2e84",
+      "origin": "ai"
+    },
+    "dataList[id=9837].name": {
+      "pl": "Metalowy Konstrukt",
+      "kr_sha256": "3ed08f7821231e88520239be31a0763843571dbd5d53afccbba15d21a95a6959",
+      "en_sha256": "941688373b1588366adf5a92b7dd0db11eea301e95647c5e8e34299144890b72",
+      "origin": "ai"
+    },
+    "dataList[id=9837].simpleDesc[abilityID=98371].simpleDesc": {
+      "pl": "Zyskuje Wzrost Leczenia HP",
+      "kr_sha256": "1c51a0558c154e58086b9395496da11547c86414aac0567154f1470085fe0cb2",
+      "en_sha256": "229707fd2b543cce569e6e3f4691426e2f60dd1548a621f93b3102261d23e201",
+      "origin": "ai"
+    },
+    "dataList[id=9837].simpleDesc[abilityID=98372].simpleDesc": {
+      "pl": "Wzmacnia E.G.O Faust — Rozkaz : Roztopienie",
+      "kr_sha256": "e0caf38d81bb5bd31d225af995a96bd0db91f086c5f78f35d8427d1e3c2d0e53",
+      "en_sha256": "9279ff313fd1d586790216cf7784d44a4032fc369bd70c12feed816385a6a1a7",
+      "origin": "ai"
+    },
+    "dataList[id=9837].simpleDesc[abilityID=9837].simpleDesc": {
+      "pl": "Zyskuje Wzrost Leczenia HP",
+      "kr_sha256": "1c51a0558c154e58086b9395496da11547c86414aac0567154f1470085fe0cb2",
+      "en_sha256": "229707fd2b543cce569e6e3f4691426e2f60dd1548a621f93b3102261d23e201",
+      "origin": "ai"
+    },
+    "dataList[id=9838].desc": {
+      "pl": "Na początku tury: wszyscy sojusznicy odzyskują 5 SP. Przy pełnym SP zamiast tego zyskuje [Breath] równe nadwyżce SP (maks. 5).\nPrzy użyciu Umiejętności ataku nakładającej lub zyskującej Siłę, Licznik [Breath] zyskuje 2 Licznika [Breath] (1 raz na turę na Tożsamość).\n\n[Efekt wyłącznie dla E.G.O Hong Lu — Pozostać Sobą]\n- Przebudzenie: przy użyciu tej Umiejętności E.G.O zamiast zużywać SP odzyskuje SP równe kosztowi\n- Korozja: przy użyciu tej Umiejętności E.G.O zużywane SP -50%",
+      "kr_sha256": "0967f3d4a8b7c4ad155397b09c58f64a4c6cb953ad3ef08702e2c81ee6d3181d",
+      "en_sha256": "3bbe6a3dc11a231539fa8fe4f3f1014bd894d44fdcc716f4b1560e1292382c5c",
+      "origin": "ai"
+    },
+    "dataList[id=9838].name": {
+      "pl": "Kielich z Uwięzionym Księżycem",
+      "kr_sha256": "cde47b016ed81f4b5b9ff6b54d45568cdc2f88cc8e6513a89dab1144fc4afcfb",
+      "en_sha256": "a746a83892e3f9702005439c93ec5ff9cf5f74de72735dca87f98bb8dda4b475",
+      "origin": "ai"
+    },
+    "dataList[id=9838].simpleDesc[abilityID=98381].simpleDesc": {
+      "pl": "Przy użyciu Umiejętności nakładającej lub zyskującej Oddech zyskuje Licznik Oddechu",
+      "kr_sha256": "62e5006150cddb822d45728f941fd69d7aaf08b1e7ce3c14c2f3aa4739b0636b",
+      "en_sha256": "306b94eccc271665473dc4bd3872b903370f63edcb5cf97e7bfdf511595b32a4",
+      "origin": "ai"
+    },
+    "dataList[id=9838].simpleDesc[abilityID=98382].simpleDesc": {
+      "pl": "Wzmacnia E.G.O Hong Lu — Pozostać Sobą",
+      "kr_sha256": "ed877f3c3e2116a29fe5eaa606f5e3b3c7a1e2a609116ec1d3d8de36f86b2887",
+      "en_sha256": "30ddb14a5af0995f8c4a914d5bf1e0c3f4e01544fe8cb14d0468debe2e5dccd3",
+      "origin": "ai"
+    },
+    "dataList[id=9838].simpleDesc[abilityID=9838].simpleDesc": {
+      "pl": "Odzyskuje SP. Przy pełnym SP zamiast tego zyskuje Oddech",
+      "kr_sha256": "627c78c8627fc2f6aae4a1850b6e69fd7648caab6fb8291a5b9ac1d7aacb6cb3",
+      "en_sha256": "7be824fcec41a6669ba372aef02912a0f3d4ddcaaecf3a95086d5c8a9f1b9dbb",
+      "origin": "ai"
+    },
+    "dataList[id=9839].desc": {
+      "pl": "Umiejętności o Wadze Ataku 2+ zadają +15% obrażeń.\nUmiejętności nakładające Siłę, Licznik [Vibration] lub Szczególny Wstrząs zadają zamiast tego +(15 + Waga Ataku x 5)% obrażeń (maks. 50%).\n\n[Efekt wyłącznie dla E.G.O Gregor — Nieoślepiająca Chwała]\n- Przebudzenie: za każde ponowne użycie Monety Umiejętności E.G.O zadaje +20% obrażeń (maks. 60%)\n- Korozja: przed atakiem zyskuje 1 [AttackDmgUp] za każde zużyte 10 [MlynarWaiting] (maks. 4)",
+      "kr_sha256": "b2f2b6c597e0c4eae3866504c020f703aef11361d02cf1e137328846bcb129d9",
+      "en_sha256": "f746c1150d7bcc8196ef9b57182fb5f68c8b669cdb7a9d14ae89a6a45c193c37",
+      "origin": "ai"
+    },
+    "dataList[id=9839].name": {
+      "pl": "Starodawny Otwieracz do Listów",
+      "kr_sha256": "3a91728a992992c60cd61703eb40dd7aa10fa0fbd6cb21a2564c465e472fffed",
+      "en_sha256": "7eb644244139b0f40619c78cbbbc264da18673f917347a7972b77ee621e3d4c2",
+      "origin": "ai"
+    },
+    "dataList[id=9839].simpleDesc[abilityID=98391].simpleDesc": {
+      "pl": "Umiejętności nakładające Wstrząs o Wadze Ataku 2+ zadają więcej obrażeń",
+      "kr_sha256": "94c632bd2f8838e91ed3b63f10c53062faf7e9c121cb6c11d27e45454f36389f",
+      "en_sha256": "9561c1caff536349a0d51dd4c4edc39d1f691999ebc9cfe1d6314fc0e4e24be2",
+      "origin": "ai"
+    },
+    "dataList[id=9839].simpleDesc[abilityID=98392].simpleDesc": {
+      "pl": "Wzmacnia E.G.O Gregor — Nieoślepiająca Chwała",
+      "kr_sha256": "4967cffc62a242c24837bf2af6abaabeec4ea567c3b7f42f44fbe9b62c8b89a5",
+      "en_sha256": "8d43c3136d228c32e8a2238f9b77053e9b781f8cc5d86602fd1555d35e6c4287",
+      "origin": "ai"
+    },
+    "dataList[id=9839].simpleDesc[abilityID=9839].simpleDesc": {
+      "pl": "Umiejętności o Wadze Ataku 2+ zadają więcej obrażeń",
+      "kr_sha256": "f57702d884db62e7867ee4166a0d7dc7b8e5fd8e707245f21997e430d4a882e2",
+      "en_sha256": "f21c39b3f25d67a41d0b0030fdd3afa49b3ae93fae1643f94899ed75a9a24739",
+      "origin": "ai"
+    }
+  }
+}

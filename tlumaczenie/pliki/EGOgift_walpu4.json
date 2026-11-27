@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=9744].desc": {
+      "pl": "Za każde nałożenie Siły [Laceration] lub Szczególnego Krwawienia wrogu efektem Podstawowej Umiejętności ataku zwiększa Licznik [Laceration] celu o 2 (wywołuje 3 razy na turę w sumie dla wszystkich Tożsamości)\n\nZadaje +1% obrażeń za każdy Licznik [Laceration] celu (maks. 20%)",
+      "kr_sha256": "644cfebc654fb76b1b664c8cab1207b95b2277258d6c93daae375b221efed3d4",
+      "en_sha256": "d0202b9dd8b9a60b691f024c15ef32936fd2177053887b4d2e9ec6e500df8745",
+      "origin": "ai"
+    },
+    "dataList[id=9744].name": {
+      "pl": "Synowska Miłość",
+      "kr_sha256": "4218bfd6a69004294f673039e63a4164de781a064d9772f8c86fb8ce1f02d844",
+      "en_sha256": "3c9da8d5dc24d429751fce5be4b9aefb50f03aa964ff2f7f1fcaae18c249fe9a",
+      "origin": "ai"
+    },
+    "dataList[id=9744].simpleDesc[abilityID=9744].simpleDesc": {
+      "pl": "Zwiększa Licznik [Laceration] celu i zadaje więcej obrażeń",
+      "kr_sha256": "1205cbc30e536705bab53448131ca0b253d822c8d6ea6d7067938f5b52cc00f1",
+      "en_sha256": "1b830b47f6ec5eead91afff5cd020fe0d898c534a06b90aa29ab37db9f341454",
+      "origin": "ai"
+    },
+    "dataList[id=9745].desc": {
+      "pl": "Podstawowe Umiejętności ataku zużywają dodatkowo połowę zużywanych Liczników [Charge] lub Szczególnego Ładowania\nZadaje +2% obrażeń za każdy Licznik [Charge] lub Szczególne Ładowanie zużyte przez Podstawowe Umiejętności ataku (maks. 20%)",
+      "kr_sha256": "2ac0d6c9cf797ebb746ba2ab80e8b10cd8b504dd569c7c31f0d93c37063d8769",
+      "en_sha256": "32ed57ff367249f62bf27888e1b35411b5850cd3b935d17db5cf3b01e48b4372",
+      "origin": "ai"
+    },
+    "dataList[id=9745].name": {
+      "pl": "Przesunięty Tranzystor",
+      "kr_sha256": "fa06a258d008ab91865130cbf54c9c1f3ae79f5cd3e18b108c5c2f0d60a17e8a",
+      "en_sha256": "3c52e229e644775a1514e23a8dd92f541b488bfa5a358493344186fe575f897b",
+      "origin": "ai"
+    },
+    "dataList[id=9745].simpleDesc[abilityID=9745].simpleDesc": {
+      "pl": "Zużywa dodatkowe Liczniki [Charge] lub Szczególne Ładowanie, by zadawać więcej obrażeń",
+      "kr_sha256": "74c41041931a950211e2eeb9771d068e7ff3362db57d14a8c62813f819b86752",
+      "en_sha256": "0576bdd9975bcc80b0b8ce9ee53740fc25f59984d5cd9513dc41eebd672cda45",
+      "origin": "ai"
+    },
+    "dataList[id=9746].desc": {
+      "pl": "Gdy po Starciu Umiejętnością ataku nakładającą Siłę, Licznik [Sinking] lub Szczególne Zatonięcie zadaje nią obrażenia, przy trafieniu nakłada Siłę [Sinking] równą liczbie stoczonych Starć (maks. nakład 3, wywołuje 3 razy na turę)",
+      "kr_sha256": "1688b0bc9348f2a0290caa48e8c0103999fb04d765a4a20c5683321b8e6715c3",
+      "en_sha256": "546732d004e520ba212ee1d06a4a46df94fe1447db28ba2e87b2c77b335de950",
+      "origin": "ai"
+    },
+    "dataList[id=9746].name": {
+      "pl": "Gaz Przyspieszający Zanieczyszczenie Umysłu",
+      "kr_sha256": "62cf1ee330b6bfa9cfd4a6833685738c45854aa5727199bc0c982da87d8a207c",
+      "en_sha256": "132439709cf2b112faba4e20ca6ea5e46ceaa722a1f3d696223a8363ee7af206",
+      "origin": "ai"
+    },
+    "dataList[id=9746].simpleDesc[abilityID=9746].simpleDesc": {
+      "pl": "Nakłada Siłę [Sinking] równą liczbie Starć",
+      "kr_sha256": "be55091af5488015e9a4fac81cee5b3f670d7f73c890f9499792dbd1fbdae66b",
+      "en_sha256": "fe8d5d7b464773558d50f7a98a1383466496ab188e1b3d68b50e8a19909d10af",
+      "origin": "ai"
+    },
+    "dataList[id=9747].desc": {
+      "pl": "Gdy wróg ma stracić lub zużyć Liczniki [Sinking]: z szansą (Siła [Sinking] celu)% nakłada +1 Licznika [Sinking] tuż przed utratą lub zużyciem (wywołuje 3 razy na turę, maks. 100%)\n- Podnosi bazową szansę o (najwyższy Rezonans x 2)% (maks. 12%)\n- Jeżeli ten najwyższy Rezonans to Rezonans Posępności lub Zawiści, nakłada +1 Licznika [Sinking]",
+      "kr_sha256": "fa574be256acab5f2bed693a33150ae2d74e7607e7e717edb6ab5f9d93691afe",
+      "en_sha256": "670126faeb5e341ecc8dc302e3f16ef92592f28cbcc2c6550eeecaeb4cc13116",
+      "origin": "ai"
+    },
+    "dataList[id=9747].name": {
+      "pl": "Wyciekła Enkefalina",
+      "kr_sha256": "583e71373b7aee483bcc0d21586a72fde6da3c79a76c4c3f273b039522850088",
+      "en_sha256": "915aa88a5a028ac8c2a3026b63c4226e74e19674e03f94a28debd3184a610434",
+      "origin": "ai"
+    },
+    "dataList[id=9747].simpleDesc[abilityID=9747].simpleDesc": {
+      "pl": "Z szansą (Siła [Sinking])% nakłada Licznik [Sinking] tuż przed utratą lub zużyciem [Sinking]",
+      "kr_sha256": "fa442b9413823b6c428e2b9c34f1d834b13d81547322c2a0bc30e134a9af84f4",
+      "en_sha256": "22297ec07f88802720d592bf60b54dab238d85b846ada8055e443fd788c3b30f",
+      "origin": "ai"
+    },
+    "dataList[id=9748].desc": {
+      "pl": "Po wygranym Starciu odzyskuje SP równe liczbie stoczonych Starć (maks. 3)\nJeżeli jednostka odzyskuje SP mając 45+, następna tura zyskuje (liczba Starć/2) [AttackUp] (maks. 3)",
+      "kr_sha256": "84c299b036c21259e793a024694b2d450fb4e91310ba33999f1b22933e99b42f",
+      "en_sha256": "1a0152321bafdd1a0c98f57d53db7953c52d7e36a2953d7f794bf35822f3c269",
+      "origin": "ai"
+    },
+    "dataList[id=9748].name": {
+      "pl": "Nędza",
+      "kr_sha256": "3b487b98976eb6657006c312a0cc26a7b07bdeba89ee404676045ceade33cb84",
+      "en_sha256": "1f38b9a4908dac229161652b51ef7813760109960efaf0d5481243568bbf1b7a",
+      "origin": "ai"
+    },
+    "dataList[id=9748].simpleDesc[abilityID=9748].simpleDesc": {
+      "pl": "Po wygranym Starciu odzyskuje SP równe liczbie Starć",
+      "kr_sha256": "fd342e5a3228262da2c13a9e3ba744cefef024ba75c5b113ca70944a02d8d56b",
+      "en_sha256": "d6ec816b70d9d62aa239c522547351e553238e56e7d37dba2e4aefec27369d22",
+      "origin": "ai"
+    },
+    "dataList[id=9749].desc": {
+      "pl": "Na początku tury: 1 sojusznik z najniższym SP odzyskuje 8 SP (z wyjątkiem Paniki i Korozji E.G.O)\nJeżeli jego SP było pełne, +1 do Mocy Starcia w tej turze\nW tej turze: [MentalSystemResultIncrease_Typo] +1, [MentalSystemResultDecrease_Typo] -1",
+      "kr_sha256": "2cc38d8996c1001552ed1977d7c6f2bf0163bf9fddebce3de6c0f73af9c93d90",
+      "en_sha256": "2de2f15995ad5e368a68e14565f4a456be385d67f68f70f1069e4bf0b0e3b66d",
+      "origin": "ai"
+    },
+    "dataList[id=9749].name": {
+      "pl": "Korona z Cierni",
+      "kr_sha256": "373df9310d7e5e6c68988806db387d7187e5e9d127a580aeb0f1020aa4e7776a",
+      "en_sha256": "3eda1b8a3b6f7ad4d30a7a2b28c8fa447f008d75fedf1ea58482798682cbacfa",
+      "origin": "ai"
+    },
+    "dataList[id=9749].simpleDesc[abilityID=9749].simpleDesc": {
+      "pl": "Na początku tury: 1 sojusznik z najniższym SP odzyskuje 8 SP",
+      "kr_sha256": "d7da0e30c5b2cc0d8b3536ed22953cfb2a8dcfb085df5189de02d0bcf7bb01bf",
+      "en_sha256": "b1a5555ce161f5026c75ad4cf38168fe5581a573e1bdaa83bff06d30ba82a5e3",
+      "origin": "ai"
+    },
+    "dataList[id=9750].desc": {
+      "pl": "Gdy Podstawowa Umiejętność ataku zmniejsza własne SP, zużywa o 1 mniej\nJeżeli cel posiada [Sinking], zadaje +2% obrażeń za każdą Monetę Awersową wyrzuconą przez tę Umiejętność ataku (maks. 16%)",
+      "kr_sha256": "544b6d4db75aa0e06c65550a3c49075b8ee64ee0d182f41ef8d29526db3b52a6",
+      "en_sha256": "d29722128ada52f41888a31cdc9c020494367748e771065cd4866ab2cc2e0b9b",
+      "origin": "ai"
+    },
+    "dataList[id=9750].name": {
+      "pl": "Odpoczynek",
+      "kr_sha256": "756df8bc88bf92c0a3745caca4d91a57e74bcae7d64ca2812dba5a3e1c546bfd",
+      "en_sha256": "05863ec2c378927634badbb44e31103dc47f0a0f4df78ae2fcbcc4d915899f5e",
+      "origin": "ai"
+    },
+    "dataList[id=9750].simpleDesc[abilityID=97501].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń, jeżeli cel posiada Zatonięcie",
+      "kr_sha256": "8f73d6adc21e39d3b2659a4c22f37155c0ee2e9dc590c90777694fa455705a5c",
+      "en_sha256": "4f870bb08a90b67c1952c2aae046720062967a406bc24ed2c0e59db1f85e4533",
+      "origin": "ai"
+    },
+    "dataList[id=9750].simpleDesc[abilityID=9750].simpleDesc": {
+      "pl": "Gdy Podstawowa Umiejętność ataku zmniejsza własne SP, zużywa o 1 mniej",
+      "kr_sha256": "0cf661e2a27a3508fee60d2160c6eccc6c96290d433a2ae8204139e503132521",
+      "en_sha256": "ff78d229c8c605e632a189d9da90e3d378b9f4e9a4c24cbb9c90364005c586e6",
+      "origin": "ai"
+    }
+  }
+}

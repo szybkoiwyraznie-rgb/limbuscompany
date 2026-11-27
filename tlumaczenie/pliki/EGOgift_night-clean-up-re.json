@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=9269].desc": {
+      "pl": "Przy trafieniu atakiem Umiejętnością obuchową leczy HP równe 5% obrażeń zadanych przez tego sojusznika\n\nPrzy trafieniu Umiejętnością Kontry odzyskuje 5 SP (2 razy na turę na Tożsamość)",
+      "kr_sha256": "783aec9b16b7d005207821f90f8b5808e905200a810f0da6e4c7d56f13dddce4",
+      "en_sha256": "7039b8f463e9ae88e1a8fa74efc78f72ab337c147c98bcd41e401121181a6fd2",
+      "origin": "ai"
+    },
+    "dataList[id=9269].name": {
+      "pl": "Boomboks na Efektowne Wejścia",
+      "kr_sha256": "5da9f886996cb01e3033f3871832a66f47d26b1b5d36f0038d1d744a01c0a227",
+      "en_sha256": "705c8b6b69183ce472cada654682ee4dd9d3cee3af56e7f9f3f39bb4cac4058e",
+      "origin": "ai"
+    },
+    "dataList[id=9269].simpleDesc[abilityID=92691].simpleDesc": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=9269].simpleDesc[abilityID=9269].simpleDesc": {
+      "pl": "Leczy HP zależnie od zadanych obrażeń",
+      "kr_sha256": "69801ffb18754ee87e0b34a66381f2d3018177c4dfbef4c08ee3ab9e3ee45062",
+      "en_sha256": "7e2bc977018d5ee1613554405f3144d02241c384e6a34bd4b3536055edcdf620",
+      "origin": "ai"
+    },
+    "dataList[id=9270].desc": {
+      "pl": "Gdy sojusznik zostanie trafiony: +4 do Licznika [Laceration] atakującego, a trafiony sojusznik zyskuje 3 [AttackUp] (1 raz na Umiejętność)\n\nPodstawowe Umiejętności Tożsamości frakcji Środkowego zyskują +1 do Mocy Bazowej i zadają +(30 / liczba Monet)% obrażeń\n- Na początku tury, gdy na polu są co najmniej 3 Tożsamości frakcji Środkowego, zamiast tego +1 do Mocy Bazowej i +(60 / liczba Monet)% obrażeń\n- Gdy jest ich 5+, zamiast tego +2 do Mocy Bazowej i +(90 / liczba Monet)% obrażeń\n\nPrzy trafieniu atakiem Umiejętnością obuchową leczy HP równe 10% obrażeń zadanych przez tego sojusznika\n\nPrzy trafieniu Umiejętnością Kontry odzyskuje 5 SP (2 razy na turę na Tożsamość)\n\nNa koniec tury: jeżeli sojusznik, który na Początku Walki miał Umiejętność Kontry, nie użył jej w tej turze, następnej tury zyskuje 1 [PlusCoinValueUp] i 1 [MinusCoinValueDown]",
+      "kr_sha256": "897ffbf1b9d637e19f522de19532a4e1726dbaddcffd2682c36dcd374f899204",
+      "en_sha256": "772f738c794f46790103432933ec1992ac488e83328beb5d4370d10f88681b8c",
+      "origin": "ai"
+    },
+    "dataList[id=9270].name": {
+      "pl": "WEJŚCIE: B.B.",
+      "kr_sha256": "52793a39fbea2f47363877390a9ad5f1ef56064592c47e798a6e8cb28b65ec3b",
+      "en_sha256": "6b53dabab2cb3c977830e8fc34a2b695ee4fbaa49169af2dbc182c3af35a843b",
+      "origin": "ai"
+    },
+    "dataList[id=9270].simpleDesc[abilityID=92701].simpleDesc": {
+      "pl": "Zyskuje Moc Bazową [TabExplain] i zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "884e3ef228e4b401cb827d27be6c60b937536cf35451b09fb22e756a943357a5",
+      "en_sha256": "abaed4e0f51a9a0727a29ad0d8f59a2dd4b02eddc58256a4ca001bb748f8686f",
+      "origin": "ai"
+    },
+    "dataList[id=9270].simpleDesc[abilityID=92702].simpleDesc": {
+      "pl": "Leczy HP zależnie od zadanych obrażeń",
+      "kr_sha256": "69801ffb18754ee87e0b34a66381f2d3018177c4dfbef4c08ee3ab9e3ee45062",
+      "en_sha256": "7e2bc977018d5ee1613554405f3144d02241c384e6a34bd4b3536055edcdf620",
+      "origin": "ai"
+    },
+    "dataList[id=9270].simpleDesc[abilityID=92703].simpleDesc": {
+      "pl": "Odzyskiwanie Poczytalności",
+      "kr_sha256": "2c14d529b4f16b49575dac17433c9671632a376fa47eb920ae718ec68b5f38fa",
+      "en_sha256": "433ce65a9e9d65faaa883d8d0fa2a99fd9a5fefc0d6b7ec463e8d07fc4aeffed",
+      "origin": "ai"
+    },
+    "dataList[id=9270].simpleDesc[abilityID=92704].simpleDesc": {
+      "pl": "Następna tura zyskuje [PlusCoinValueUp] i [MinusCoinValueDown]",
+      "kr_sha256": "d2de5b93ea2485f429a9338196ed56f80b14b017d2b8a3c9f0045222c73e0b92",
+      "en_sha256": "b7a07308512e37574d8a3688ac702ef4a04e70aeb3ed72d20a1b726736ff4933",
+      "origin": "ai"
+    },
+    "dataList[id=9270].simpleDesc[abilityID=9270].simpleDesc": {
+      "pl": "+Licznika [Laceration] atakującego; trafiony sojusznik zyskuje [AttackUp]",
+      "kr_sha256": "f1be42cfadad96afadae8ef7d135c4ebc27699e8e7b7c400bbae6d481809e1a3",
+      "en_sha256": "2807cc812f49518e5b97a73ff2a8a0e9d120c253af28f0af0ea42b41429a7766",
+      "origin": "ai"
+    },
+    "dataList[id=9271].desc": {
+      "pl": "Gdy Tożsamość frakcji Heishou - Gałąź Mao po raz pierwszy pojawia się w walce, jej minimalna Prędkość jest utrzymywana na 10 przez 1 turę (przy minimalnej Prędkości 10+ ten efekt nie działa)\n\nJeżeli jednostka posiada [LegStrength], jej Podstawowe Umiejętności zyskują +1 do Mocy Starcia i zadają +10% obrażeń",
+      "kr_sha256": "63a4b24337d962fd82cceff9058b7cc69f172e7cd87bcab2dc3bc40d6d8d59c7",
+      "en_sha256": "12a160d6f3c3a5db02f6c9e6c073f5d611c9545cc6ddffa083af7ac036d413be",
+      "origin": "ai"
+    },
+    "dataList[id=9271].name": {
+      "pl": "Heishou - Mao",
+      "kr_sha256": "4db16e298eb40e137216014941e1527d14570c2253e9298b54daf0bab68a3575",
+      "en_sha256": "a84b46da2c2970c7491da9505260dd770acb935c72a472589cc9bf63edafb74e",
+      "origin": "ai"
+    },
+    "dataList[id=9271].simpleDesc[abilityID=92711].simpleDesc": {
+      "pl": "Zyskuje Moc Starcia [TabExplain] i zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "6788bcbee52ef11705babafdd68e548afc80433a1f71473e795c7fd34935c06e",
+      "en_sha256": "b1e79f460752cb68b355ded80e50a914c72293210c745654e9fd7b7267bdf5dd",
+      "origin": "ai"
+    },
+    "dataList[id=9271].simpleDesc[abilityID=9271].simpleDesc": {
+      "pl": "Utrzymuje minimalną wartość Prędkości",
+      "kr_sha256": "65b7812eae28b2623bf2c159d33a9741a59997df11defd24c8808349780e791b",
+      "en_sha256": "ae22aab20399409ba838e31c22eac895e5dabb125e7ab50c41c26986767c35d0",
+      "origin": "ai"
+    },
+    "dataList[id=9272].desc": {
+      "pl": "Gdy Tożsamość frakcji Heishou - Gałąź Mao po raz pierwszy pojawia się w walce, jej minimalna Prędkość jest utrzymywana na 10 przez 3 tury (przy minimalnej Prędkości 10+ ten efekt nie działa)\n\nZa każdą wartość [LegStrength] Podstawowe Umiejętności zyskują +1 do Mocy Starcia i zadają +10% obrażeń\n\nNakładając [BurstAgility], nakłada go dodatkowo na 2 wrogów bez [BurstAgility] (1 raz na turę; w starciach skupionych liczone per Część)\n\nGdy Prędkość jednostki jest większa niż Prędkość celu, jej Umiejętności nakładają dodatkowo (różnica Prędkości / 3) Siły [Burst] lub Licznika [Burst] (maks. 3)\n\nNa koniec tury: sojusznicy frakcji Heishou - Gałąź Mao następną turę zyskują 2 [Agility]\nGdy Prędkość sojusznika jest większa niż Prędkość celu albo gdy używa Ataku Jednostronnego, zadaje +10% obrażeń Cięcia za każdą (różnica Prędkości / 3) (maks. 30%)\nGdy Prędkość sojusznika jest większa niż Prędkość celu, otrzymuje -10% obrażeń za każdą (różnica Prędkości / 3) (maks. 30%)",
+      "kr_sha256": "51426248aebd7848c46a5a442e8770d4fbd4b6c7d77c95c04c04c9af151d4407",
+      "en_sha256": "f0d180dfb90c7bcb5aa210ad62f758d5fd17ce09d47728abd29975146f2ed821",
+      "origin": "ai"
+    },
+    "dataList[id=9272].name": {
+      "pl": "Skradanie się w Cieniu",
+      "kr_sha256": "3e88f5082ff60b827156aa17ddfda7d24e46a534f7c5b5d29afc0e7b393d6a5d",
+      "en_sha256": "fc7c9306c5d5e8908d73caf5f9a4c1014cc595af1290406d5b3bb44ca112a4da",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=92721].simpleDesc": {
+      "pl": "Zyskuje Moc Starcia [TabExplain] i zadaje więcej obrażeń [TabExplain]",
+      "kr_sha256": "6788bcbee52ef11705babafdd68e548afc80433a1f71473e795c7fd34935c06e",
+      "en_sha256": "b1e79f460752cb68b355ded80e50a914c72293210c745654e9fd7b7267bdf5dd",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=92722].simpleDesc": {
+      "pl": "Nakłada dodatkowo [BurstAgility]",
+      "kr_sha256": "44a1786a2a0e3260de1be80d0da272c872d85ff13b2608f875af5aeb72883171",
+      "en_sha256": "70294c85e68ed2c94205665127255a13c006a1c6fa71b1112faf522d0e6fefe7",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=92723].simpleDesc": {
+      "pl": "Umiejętności nakładają dodatkowo [Burst] lub Licznik [Burst]",
+      "kr_sha256": "b020a659ca3b161cf9630d8bd2a2e66f6169ae3cb7d0da0f89bd502221f4e463",
+      "en_sha256": "c69f798599426c93959061e5ad5a5f11cb7a0a46fa31c116e0eed2e2cb251fb8",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=92724].simpleDesc": {
+      "pl": "Na koniec tury następna tura zyskuje [Agility]",
+      "kr_sha256": "98eb94e678a7c2231a388f86408854a127c727fc1d657ded3afc511a8de60518",
+      "en_sha256": "ea822c4fd7dc5e3316495981b3de35de6c7787eb1edf9aeb2bb52e9d5ee24078",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=92725].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń Cięcia [TabExplain]",
+      "kr_sha256": "e7b1be183f10615bb10e62c2353c33f3a0415700664d3d85638123786f9653b2",
+      "en_sha256": "149a908668c7ac349d817cbcfdeb389564bb3fce0e247f0cac808a7ad1d6f052",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=92726].simpleDesc": {
+      "pl": "Otrzymuje mniej obrażeń [TabExplain]",
+      "kr_sha256": "ffda1597ff163b584e34c3da9e9b28f46c37589257045a3fbc85f59ff637a66c",
+      "en_sha256": "c12f70b6ebdf5ef14943cd3c2d44cd05c1b2dd91edbb1f742c38edb105e9187c",
+      "origin": "ai"
+    },
+    "dataList[id=9272].simpleDesc[abilityID=9272].simpleDesc": {
+      "pl": "Utrzymuje minimalną wartość Prędkości",
+      "kr_sha256": "65b7812eae28b2623bf2c159d33a9741a59997df11defd24c8808349780e791b",
+      "en_sha256": "ae22aab20399409ba838e31c22eac895e5dabb125e7ab50c41c26986767c35d0",
+      "origin": "ai"
+    }
+  }
+}

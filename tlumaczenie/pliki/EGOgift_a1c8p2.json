@@ -1,0 +1,376 @@
+{
+  "entries": {
+    "dataList[id=2061].desc": {
+      "pl": "Hong Lu zadaje +0,5% obrażeń za każdą posiadaną Monetę\n\n<i><color=#a16a3b>Artefakt używany w 2. rundzie Egzaminu na Głowę Rodu. Kandydat, który straci wszystkie Monety — czy przez zgubienie, czy siłą — odpada natychmiast.</color></i>",
+      "kr_sha256": "b7c79efd832216d2c46d462bce3b3a240b003b48e53177e4fdc9e0f56f24d212",
+      "en_sha256": "1ac8f1b70222941f0b42b06038dfee4b500c1cc4bd82b2ad5b0c4e2a99483a31",
+      "origin": "ai"
+    },
+    "dataList[id=2061].name": {
+      "pl": "Monety",
+      "kr_sha256": "cde4842b8ab41342df4067accdb7fabc1e8b372b0197a8cbec325dbd2f227e16",
+      "en_sha256": "0241ccff2d40af7af8a4fc02272c47a30d15dbdfb36e3266d1296212574f328e",
+      "origin": "ai"
+    },
+    "dataList[id=2061].simpleDesc[abilityID=2061].simpleDesc": {
+      "pl": "Hong Lu zadaje +0,5% obrażeń za każdą posiadaną Monetę",
+      "kr_sha256": "362bdba808f4d762cda825837a2805fc571174a8ae3230296f4bbcf480cf9852",
+      "en_sha256": "e0cbd50e3aef34072be7cf5e5b92951e583f2c3e4e186390a00cf4a2a223249b",
+      "origin": "ai"
+    },
+    "dataList[id=2062].desc": {
+      "pl": "Połamana i znoszona karta wstępu.\nMoże otwiera jakieś drzwi?",
+      "kr_sha256": "eb77f07fed55d85ffee8fcec2c7f05809ecc92d86b1a117a87ff7e4cdfba1d58",
+      "en_sha256": "c424cc471463dcbe8f1d1e41bde77841e9375d1b160f96701d7ac93fe5647f1b",
+      "origin": "ai"
+    },
+    "dataList[id=2062].name": {
+      "pl": "Znoszona Karta Wstępu",
+      "kr_sha256": "86c55b967aab9ee223f43c10b533e508534af27a1842c0c42fa50abb929bbf44",
+      "en_sha256": "ef8c16922fb39f5cd85a43c2fb29b4ac3971bc4a1eb6da63e228a031beff0286",
+      "origin": "ai"
+    },
+    "dataList[id=2063].desc": {
+      "pl": "Koniec tury: 1 sojusznik z najniższym SP odzyskuje 10 SP.",
+      "kr_sha256": "219fb30b28fb789dd3ee8049cb22414aad9c4db027b0dc48565abf9782c1bd18",
+      "en_sha256": "a1d3d9ba3092ad981dbce607b0399b129ea26ce9c8ec8b476ad69b73b2df12ed",
+      "origin": "ai"
+    },
+    "dataList[id=2063].name": {
+      "pl": "Pigułka Króla Niebios",
+      "kr_sha256": "3c9fde742268f437dff734878b1a37cc65ffad6cf9d8247313f537387f5f6c84",
+      "en_sha256": "2aacf58f125b21a4528c5bbaa68ad8c123c8241c818dd9dd6fbea61cbc1e7da7",
+      "origin": "ai"
+    },
+    "dataList[id=2063].simpleDesc[abilityID=2063].simpleDesc": {
+      "pl": "Na koniec każdej tury: 1 sojusznik z najniższym SP odzyskuje 10 SP",
+      "kr_sha256": "34cb9bb6f90c8cd65c9c438fbc9f01e31a91f5d6220de69dc21854c73eff7167",
+      "en_sha256": "6f88f0e442e05794d2d2706caa9608c99d286b9d970565c72967ada12252d069",
+      "origin": "ai"
+    },
+    "dataList[id=2064].desc": {
+      "pl": "Koniec tury: 1 sojusznik z najniższym procentem HP odzyskuje HP równe 5% jego Maks. HP (zaokrąglenie w dół).",
+      "kr_sha256": "b3dfc0b62468e8f9343fadf6274077b5fa108c7e879a28bf44a345bfbef86818",
+      "en_sha256": "25a1bced36692f9b092944196ecc061b0011139d57199010ed029dc941dc9472",
+      "origin": "ai"
+    },
+    "dataList[id=2064].name": {
+      "pl": "Granulat Spokojnego Lotosu",
+      "kr_sha256": "c648c5a62fa59d22f3b42b13778d1f950b7e0adc0bec844e48372575fd99e5bc",
+      "en_sha256": "01f58f91af8731a8877105a5f90baf9858574a9b8e298bdba93ca3de2eeeee17",
+      "origin": "ai"
+    },
+    "dataList[id=2064].simpleDesc[abilityID=2064].simpleDesc": {
+      "pl": "Leczony odzyskuje 5% HP",
+      "kr_sha256": "179ce17a8cde3c92da866f20852e65cde9227780463fbbd2a527bd41f2227dc6",
+      "en_sha256": "91fefc588dad6e1153c13b363081c4f33569cf7bd481595e1d807b812d2547fb",
+      "origin": "ai"
+    },
+    "dataList[id=2065].desc": {
+      "pl": "Na początku tury: 1 sojusznik z najniższym procentem HP spośród rannych zadaje +(brakujący procent HP / 4)% obrażeń (zaokrąglenie w dół).",
+      "kr_sha256": "9696c63841ec8dec0dee931952d8ee357b2a3b463f8e0e561e1db4d224d85a15",
+      "en_sha256": "aa4bc52a7618c0616d4b5f72dbdfebd26244e6ee2ab778c04f88eacd1d432476",
+      "origin": "ai"
+    },
+    "dataList[id=2065].name": {
+      "pl": "Granulat Krwawego Kwiatu",
+      "kr_sha256": "8294c6bb7b6511e2c0264a596210df1a4d422540991fecc1e9aba208a9ed3f8a",
+      "en_sha256": "488e87a508a2c666070398604b355a186f7c549a94a4f2ec377ebf0f911f89e4",
+      "origin": "ai"
+    },
+    "dataList[id=2065].simpleDesc[abilityID=2065].simpleDesc": {
+      "pl": "Leczony zadaje +(brakujący procent HP / 4)% obrażeń",
+      "kr_sha256": "848e1f66ac1e5ec62219c381dce7ad84e1be24b66850cfeadea4c4889ec29b21",
+      "en_sha256": "3eb04c68b9410ef0f2761e59fa2699fff2d595dc5839df6aeca0ffb00c863508",
+      "origin": "ai"
+    },
+    "dataList[id=2066].desc": {
+      "pl": "Na początku tury: 1 sojusznik z najwyższym Maks. HP zyskuje tyle [DefenseUp], ile razy w tej walce był trafiony atakami Umiejętności wrogów (maks. 6).",
+      "kr_sha256": "b9603044f5d6670ff8428e83acd887376134cc137d2bf71831d8acb5f08fa9cf",
+      "en_sha256": "8631eed96532ffec400f05efa8f54fba4c682d55a33ca4c9dda4410d9463753e",
+      "origin": "ai"
+    },
+    "dataList[id=2066].name": {
+      "pl": "Granulat Wytrwałości",
+      "kr_sha256": "8f7b107e65d77253a4d6904e8b797057bc90f520af4dbcf444907ffb73e7009f",
+      "en_sha256": "d8336c2a3ef3042b44eae3a5892e5c862efd6aec1a56ee29ca476c3e065a33cc",
+      "origin": "ai"
+    },
+    "dataList[id=2066].simpleDesc[abilityID=2066].simpleDesc": {
+      "pl": "Zyskuje Wzrost Poziomu Obrony równy liczbie otrzymanych trafień",
+      "kr_sha256": "2dd4b1bea8588a1f68f8288caefc09908702cdab6c72e555254684d8a5042916",
+      "en_sha256": "fbd590269cc86b006146c5e33305287349c17967fe8027727c32e6f44d457f90",
+      "origin": "ai"
+    },
+    "dataList[id=2067].desc": {
+      "pl": "Na początku każdej tury: nakłada 3 Siły [Burst] i +1 do Licznika [Burst] na wszystkich wrogów bez [Burst] (w starciu skupionym na wszystkich Częściach).\n\n<i><color=#a16a3b>Niech płynąca woda i opadający kwiat będą równie bezlitosne.</color></i>",
+      "kr_sha256": "f0130e71345bf74a444cd2a38dcb8d0f3ea1dcbebca9ca1fdce2643f50495ab9",
+      "en_sha256": "d8f584c25596f0255c6b1078942592714a4613e7a50239b98293d9654e4ab162",
+      "origin": "ai"
+    },
+    "dataList[id=2067].name": {
+      "pl": "Kwiat w Zwierciadle",
+      "kr_sha256": "78b7a533a5d67db9921b701c0309c5633cbb62cab89d43d87d90dcbcdf82797c",
+      "en_sha256": "143c3a0b71859b45a01783640560a07bbce94add05fe779b42fc43f2efde1aa5",
+      "origin": "ai"
+    },
+    "dataList[id=2067].simpleDesc[abilityID=2067].simpleDesc": {
+      "pl": "Nakłada 3 Siły Rozdarcia i +1 do Licznika Rozdarcia na wszystkich wrogów bez Rozdarcia",
+      "kr_sha256": "fb6499c5a0ebc790b6c45cbf226a41c20e73a400101b489daab4ed7b4be67658",
+      "en_sha256": "7e7eb5cec5cb3d68b5d8f2427f0bbb6c14786e86948d406b7ed45e0c06d35f07",
+      "origin": "ai"
+    },
+    "dataList[id=2068].desc": {
+      "pl": "Na początku pierwszej tury walki: wszystkie Tożsamości na polu tracą 5 SP i przez 3 tury zyskują 1 [ShamrockResultUp] i 1 [ShamrockDamageUp].",
+      "kr_sha256": "147c3f34791a6801be7acff10e05bff92592123af9ee225672c515b2a19403a4",
+      "en_sha256": "d1d4a99593850297004c80b69b012a04905113ff98f507394946c82a37e0e6ff",
+      "origin": "ai"
+    },
+    "dataList[id=2068].name": {
+      "pl": "Przeklęty Dokument",
+      "kr_sha256": "ddf0c7e804fac6a4937bd9d896b6f6d6e01856536cf7084d71e94a7ba632829c",
+      "en_sha256": "10f302a818bd400853d31c28b2f7824a5b73d1d4bc8add2e9254cf5aa71c3a87",
+      "origin": "ai"
+    },
+    "dataList[id=2068].simpleDesc[abilityID=2068].simpleDesc": {
+      "pl": "Rozstawione Tożsamości tracą 5 SP; dotknięte jednostki zyskują Wzrost Mocy Obżarstwa i Wzrost Obrażeń Obżarstwa na 3 tury",
+      "kr_sha256": "602b6ccbe00675a8673abf408e630f256a880f7a5fe464329d889ccc2222296f",
+      "en_sha256": "0f03ede69a7003185a971dc77a300d0ab8654f14706e3acb906ca18e3243c73a",
+      "origin": "ai"
+    },
+    "dataList[id=2069].desc": {
+      "pl": "Na początku pierwszej tury walki: wszystkie Tożsamości na polu tracą 5 SP i na czas tej walki zyskują 1 [ShamrockResultUp] i 1 [ShamrockDamageUp].\nPo przegranej Starciu: traci 5 SP, a ostatnia Moneta tej Umiejętności staje się [SuperCoin]. (z wyjątkiem Umiejętności E.G.O; 1 raz na turę na Tożsamość).",
+      "kr_sha256": "708e109384bd900b6c17e2b9d0d0e70453d5fd3b8013445404a19b7e6e077752",
+      "en_sha256": "407a0b3784910995aed59a6d981387aa3fc79e225d1c0c53179806d9df636613",
+      "origin": "ai"
+    },
+    "dataList[id=2069].name": {
+      "pl": "Dokument Przesiąknięty Szaleństwem",
+      "kr_sha256": "ccb89a037f096d95cac59c8b7579e309e40f5a8f3a5507d6f321a1fdd5c1847c",
+      "en_sha256": "62921a7d36764e897b27075615162e49310de0c9727aafb0f2a0ce75c3fa14c9",
+      "origin": "ai"
+    },
+    "dataList[id=2069].simpleDesc[abilityID=20691].simpleDesc": {
+      "pl": "Po przegranej Starciu traci 5 SP. Ostatnia Moneta Umiejętności staje się Monetą Niezniszczalną",
+      "kr_sha256": "48d9beccb2b288480f2caa191ff5eb943905405b06ec0ea677215136d1ad3a6a",
+      "en_sha256": "5407dcdac84b25bd180ebca884c367fac8241aa19f760a56be053600051ed7ed",
+      "origin": "ai"
+    },
+    "dataList[id=2069].simpleDesc[abilityID=2069].simpleDesc": {
+      "pl": "Rozstawione w walce Tożsamości tracą 5 SP; dotknięte zyskują Wzrost Mocy Obżarstwa i Wzrost Obrażeń Obżarstwa na czas tej walki",
+      "kr_sha256": "2b81e1b41be34385f5bca1dd7c122b06af7f4472e5f86422af40fe612c97bbd6",
+      "en_sha256": "6ef59372be2e3d8889d803d8c8a175ebf97b81bf2754f260facdc82ee92ccc59",
+      "origin": "ai"
+    },
+    "dataList[id=2070].desc": {
+      "pl": "Przy trafieniu atakiem we wroga z co najmniej 5 Siły Rozdarcia zyskuje 1 Siłę Oddechu i +1 do własnego Licznika Oddechu (maks. 3 razy na Umiejętność).\n\n<i><color=#a16a3b>Niech płynąca woda i opadający kwiat będą równie bezlitosne.</color></i>",
+      "kr_sha256": "8913f0e6cf5b47f488ad491e8de6f5965a59d91936a0ef9f2c8b20957d525564",
+      "en_sha256": "98a28fcc134fc043dc6ed38c03caedd1a441dcd31a4701aa4a227fc2b6c942a5",
+      "origin": "ai"
+    },
+    "dataList[id=2070].name": {
+      "pl": "Księżyc w Wodzie",
+      "kr_sha256": "374e7c1113c3c892329207dfb612cbaf64b70f93134cdca7cefdcda39bd8020f",
+      "en_sha256": "aed6f36e007009d137623469a34c305ed16ecd4eefbda5f451ab7efac7b9623e",
+      "origin": "ai"
+    },
+    "dataList[id=2070].simpleDesc[abilityID=2070].simpleDesc": {
+      "pl": "Przy trafieniu atakiem we wroga z co najmniej 5 Rozdarcia zyskuje Siłę Oddechu i Licznik Oddechu",
+      "kr_sha256": "23fc8995e24889d786bae51eca99e45d2fff7902e2de8c9b3d862602138540f0",
+      "en_sha256": "0b196d8054b4c3d41e2784709b794100871727dd32c014bd00266f434e4825bf",
+      "origin": "ai"
+    },
+    "dataList[id=2071].desc": {
+      "pl": "Umiejętności nakładające [Burst]: +1 do Mocy Starcia, +10% obrażeń\nNa koniec ataku: jeżeli cel z co najmniej 15 Siły [Burst] ginie, Tożsamość, która go pokonała, następnej tury zyskuje 2 [AttackUp] (maks. 3 razy na Umiejętność).\n\n<i><color=#a16a3b>Pod lodowatym blaskiem księżyca grzeję duszę kwiatu</color></i>",
+      "kr_sha256": "de82301dd36ae897db10c06cf9c690e4b640627c0f78771f9b5657a9ff203256",
+      "en_sha256": "810af6d1bcfc72f5cef892f6fe1d80c2925148b3cac7a80e697aaf4d65fd9e6d",
+      "origin": "ai"
+    },
+    "dataList[id=2071].name": {
+      "pl": "Kwiatowy Grób",
+      "kr_sha256": "731f0162baae8204689090e28495898ece34463cf6d088e14ea6d300f4c22487",
+      "en_sha256": "dcc460b15fd48fd485364fd2c9f72282a817664039a994498f14ef680f695a5f",
+      "origin": "ai"
+    },
+    "dataList[id=2071].simpleDesc[abilityID=20712].simpleDesc": {
+      "pl": "Jeżeli cel z co najmniej 15 Rozdarcia ginie, pokonująca go jednostka następnej tury zyskuje 2 Wzrosty Poziomu Ataku",
+      "kr_sha256": "063a7462bf5c08cca251f17c8f19de6e1b675016b2a6d641d523b4a837e812a9",
+      "en_sha256": "5dae4b9189134f2a3eee900ea443d6839e314e65e5bddc6a92a21a9041640907",
+      "origin": "ai"
+    },
+    "dataList[id=2071].simpleDesc[abilityID=2071].simpleDesc": {
+      "pl": "Umiejętności nakładające Rozdarcie: +1 do Mocy Starcia, +10% obrażeń",
+      "kr_sha256": "0e4d7865a60d1417c1abd209f50a2a50b211bfeae83855dd5b316100b858ec13",
+      "en_sha256": "0d9407a9e69bc2b2b97a214569f91a4f22243daffe9684efd335eab015a97bf0",
+      "origin": "ai"
+    },
+    "dataList[id=2072].desc": {
+      "pl": "Za każde zużycie 10 łącznych Liczników [Charge] w tej walce zyskuje 1 [Charge].\nNa koniec tury, przy 2+ [Charge], następnej tury zyskuje 1 [ParryingResultUp].\nPrzy trafieniu Umiejętnością, która zużyła 5+ Liczników [Charge], nakłada 1 Siłę [Burst] (3 razy na Umiejętność)",
+      "kr_sha256": "7d9bbe264b32c514800284145262601c40a153b9cc7d1b47a086a64abdaa7d91",
+      "en_sha256": "234867967755db3bf660dd6ffeb72de6c9f8902582aad8e0437afc7ae1709192",
+      "origin": "ai"
+    },
+    "dataList[id=2072].name": {
+      "pl": "Talizman Pioruna",
+      "kr_sha256": "c5c2fdabae65a1053a202e4ad28e660c5b683bf8236051472e07bb2f356d273d",
+      "en_sha256": "f0f4819af413a881c869aaa78e2d3a41c3d61a527f1623e4e02466e37b1a2df0",
+      "origin": "ai"
+    },
+    "dataList[id=2072].simpleDesc[abilityID=20721].simpleDesc": {
+      "pl": "Przy 2+ Ładowania następnej tury zyskuje 1 Wzrost Mocy Starcia",
+      "kr_sha256": "b1d7e6ca61f9c2e9630d69ed9c09dce4620a0a40ba111ef92399dbaf22a7e001",
+      "en_sha256": "e31dcb8c676b69cc4e8a094e62446bba5f29ff314fb761a42851ddb69d97cf67",
+      "origin": "ai"
+    },
+    "dataList[id=2072].simpleDesc[abilityID=20722].simpleDesc": {
+      "pl": "Przy trafieniu Umiejętnością, która zużyła 5+ Liczników Ładowania, nakłada 1 Rozdarcie",
+      "kr_sha256": "aa94244720be3e8a1a885973ea3240f28fb4787b2eb3319acab5f758ea7529f8",
+      "en_sha256": "a57210598a30068b9a2784f3335b74d53e11c9f6cc011d5826f2dd77d2417bca",
+      "origin": "ai"
+    },
+    "dataList[id=2072].simpleDesc[abilityID=2072].simpleDesc": {
+      "pl": "Za każde zużycie 10 Liczników Ładowania zyskuje 1 Ładowanie",
+      "kr_sha256": "cee5d82cae18fd6d17b4171f02ceeb7e6625e3c319b1641c3910fccb9d04ab59",
+      "en_sha256": "a0e15da141e695365084ced6f8471c2ffc74ddae81e4736056cfddb8ddfb250c",
+      "origin": "ai"
+    },
+    "dataList[id=2073].desc": {
+      "pl": "Umiejętności Obżarstwa zadają +10% obrażeń wrogom z nałożonym Obrzędem Śmierci.\nNa początku walki: ostatnia Moneta Umiejętności używanej przez Tożsamości z SP ≤ -15 staje się [SuperCoin] (1 raz na turę na Tożsamość; zaczynając od Umiejętności w najbardziej lewym slocie; z wyjątkiem Umiejętności E.G.O).",
+      "kr_sha256": "4d86d4be81c888d5a7515787605415dda4bf90027f5bde89ca18f0d71965cf68",
+      "en_sha256": "adf34bc3a8bcf00b9156d54b3f8aa608484afed3158a0a172f0e6ee66c086c89",
+      "origin": "ai"
+    },
+    "dataList[id=2073].name": {
+      "pl": "Talizman Rozbijający Serca",
+      "kr_sha256": "de0c5036775ce80aeb324d568d7bd82f68d4dfa0de5e21a60c96380c82f20701",
+      "en_sha256": "656ac13c9dd1f89e9e9d62136e78c9ea4495c726200c900dfebcc88ed01ef41c",
+      "origin": "ai"
+    },
+    "dataList[id=2073].simpleDesc[abilityID=20731].simpleDesc": {
+      "pl": "Przy SP ≤ -15: ostatnia Moneta użytej Umiejętności staje się Monetą Niezniszczalną",
+      "kr_sha256": "95347343505f9a6e2bd2f1d8e647a0b4e31d00b200d45c611e82bb0806c1f265",
+      "en_sha256": "924b706602a4863b2d92daa5bb0fd84d71825bcb44483d79c3be77311e15e844",
+      "origin": "ai"
+    },
+    "dataList[id=2073].simpleDesc[abilityID=2073].simpleDesc": {
+      "pl": "Umiejętności Obżarstwa zadają +10% obrażeń wrogom z nałożonym Obrzędem Śmierci",
+      "kr_sha256": "37f48c5bb20570777b4a00f6deada0cadf066afbdaf9f5df97359b406dbc202c",
+      "en_sha256": "a330dfec504e023f04adf77d0d39f92a39e6d48d25d0e08ebb378184419ae03b",
+      "origin": "ai"
+    },
+    "dataList[id=2074].desc": {
+      "pl": "+1 do Mocy Starcia, gdy HP nie jest pełne.\nPrzy trafieniu Tożsamość zadaje +1% obrażeń za każdą (Siłę [Laceration] celu + Licznik [Laceration] celu) (maks. 20%)",
+      "kr_sha256": "662926ad9d261f92c91a80270ad0829bf3328311fe1724db64363f7dfe745ca9",
+      "en_sha256": "e0b683701880d5871af4a420d782c9e2fc618cf17c2570c55c0d3535eba88fe3",
+      "origin": "ai"
+    },
+    "dataList[id=2074].name": {
+      "pl": "Ostrze Przecinające Krew",
+      "kr_sha256": "8130dff6a99bc459cbe14766066f792c16a9004fb93b6f40cf8d6916dfb1b359",
+      "en_sha256": "a6743456a57c4dafdfa134ff0c4b37b58c1a0275aeb97a9d2d2a4ec14ba5ea2f",
+      "origin": "ai"
+    },
+    "dataList[id=2074].simpleDesc[abilityID=20741].simpleDesc": {
+      "pl": "Przy trafieniu zadaje +1% obrażeń za każdą (Siłę Krwawienia celu + Licznik Krwawienia celu)",
+      "kr_sha256": "80bf890c4d476a051adc0a6511140242d2c4d32522af9b1bb3af39bc646082b2",
+      "en_sha256": "480e9fe2fcebaf223c9f4813100466f9a4645a9eceac99b00042b5ee28fdf658",
+      "origin": "ai"
+    },
+    "dataList[id=2074].simpleDesc[abilityID=2074].simpleDesc": {
+      "pl": "Gdy HP nie jest pełne: +1 do Mocy Starcia",
+      "kr_sha256": "9f0805072eea93cfc4825ec21ee743ef37555a0a24ac6d6ff20a3a1f82f34cbb",
+      "en_sha256": "3f30e053a02806afb2db53d5691f649c1279915a443d18778b6e8dcf4559461d",
+      "origin": "ai"
+    },
+    "dataList[id=2075].desc": {
+      "pl": "Po otrzymaniu obrażeń następnej tury zyskuje +1 do Mocy Końcowej Umiejętności i +10% obrażeń (działa również przy obrażeniach własnych).\nGdy otrzymane obrażenia sprowadzą HP do 1, odzyskuje HP równe 50% Maks. HP, a dotknięta Tożsamość zyskuje 2 [Enhancement] na początku tury na czas tej walki (1 raz na walkę).",
+      "kr_sha256": "fad80c683659e5b454cad8a4ec9eac351f897155f3ad1811e174098f115235ed",
+      "en_sha256": "36dee0de0709cada2bedf474c352b98d86bea64cb4c73006cd6d71af2fbb6abd",
+      "origin": "ai"
+    },
+    "dataList[id=2075].name": {
+      "pl": "Granulat Jin Gang",
+      "kr_sha256": "53af1d37ce00d44d3c7323fc05c7d40d2799c53f7ddeac4751a6908a26007f11",
+      "en_sha256": "63a8618a871a39f4752a1fab262ac8a54c738ec6088d79858c888afecb5baed9",
+      "origin": "ai"
+    },
+    "dataList[id=2075].simpleDesc[abilityID=20751].simpleDesc": {
+      "pl": "Leczy 50% Maks. HP i na czas tej walki zyskuje 2 Wzrosty Mocy Ataku",
+      "kr_sha256": "3d3c39c4a7533e46f309bb6b6163f970979e8735c7bd442a23166c8855a9caa6",
+      "en_sha256": "7e9610ff8e906017f06dffc7f5baee9285a1191893dcf77b95799620bdb7cdcb",
+      "origin": "ai"
+    },
+    "dataList[id=2075].simpleDesc[abilityID=2075].simpleDesc": {
+      "pl": "Następnej tury: +1 do Mocy Końcowej Umiejętności, +10% obrażeń",
+      "kr_sha256": "7ea3f0aa8da9a36d14706165eb0b44d3096287b4d287e92c81c4a69b78724556",
+      "en_sha256": "0517c557662bd3bd9e0c244bbbf46d9ef26faf6f5463b3db821e57ac805bc947",
+      "origin": "ai"
+    },
+    "dataList[id=2076].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach #1, #8]\nNa koniec ataku: jeżeli cel ginie, zyskuje 2 Siły [Breath] i +2 do Licznika [Breath].\nNa czas tej walki: za każdego wroga pokonanego na koniec ataku +1 do Poziomu Ataku (maks. 3).",
+      "kr_sha256": "81789fda83de9755ed16ab3ba3b3e670812a40f140cf53ec5bde5f7f1217908c",
+      "en_sha256": "cd8951dc7a642fa88dbb641b9a6832249d64e368db014ce99a5de06b478a57af",
+      "origin": "ai"
+    },
+    "dataList[id=2076].name": {
+      "pl": "Wyblakły Plakat",
+      "kr_sha256": "d593655d68cedf053d01d3f264b36fad4c2b8412e167a8485c5143a206aefc0d",
+      "en_sha256": "1fc9b6bd0e3833acf702dac73737106bfa0c6d88517b880adb77328177c576f8",
+      "origin": "ai"
+    },
+    "dataList[id=2076].simpleDesc[abilityID=20761].simpleDesc": {
+      "pl": "+1 do Poziomu Ataku za każdego pokonanego wroga",
+      "kr_sha256": "6e82ce17e88d469fecc5ec30d4d1c3e3728e2c0fafa11edbcfd0450b965263ce",
+      "en_sha256": "5692be1345193c5c4a65c1a4c995622ff08149c1f7a3080ea5cb8a16b9a4789b",
+      "origin": "ai"
+    },
+    "dataList[id=2076].simpleDesc[abilityID=2076].simpleDesc": {
+      "pl": "Zyskuje 2 Siły Oddechu i +2 do Licznika Oddechu",
+      "kr_sha256": "108a0c9a3a1a9b51054a1d90bfb3ddcd106ebbfd08333b05aed53bfffe22469a",
+      "en_sha256": "04b05cdd131d4c992f2faa2a5edb3b84a1d1e8a543fdf02db5e16bb048334cb6",
+      "origin": "ai"
+    },
+    "dataList[id=2077].desc": {
+      "pl": "Sojusznik wchodzący z Rezerwy zyskuje 1 [ParryingResultUp] na 3 tury.",
+      "kr_sha256": "66aca0fbcb9e24b04c9c21f4a4b7dd2ed19eb536b43b33df25affdb5d3df2d10",
+      "en_sha256": "588f21fb5db94ccc8822467108ef1d7f9bc4bfaaa8e932c0f40dc2c4b6e90d6b",
+      "origin": "ai"
+    },
+    "dataList[id=2077].name": {
+      "pl": "Głębokie Ślady Pazurów",
+      "kr_sha256": "0d151246e89e804e7e5dee71fabbb4ea09f593d3063ae4dbeafaa3588beae33b",
+      "en_sha256": "0a0a77191fbc14c63ecf170acebdccc2e6f37a4a4f47549de16fac87680f6d01",
+      "origin": "ai"
+    },
+    "dataList[id=2077].simpleDesc[abilityID=20771].simpleDesc": {
+      "pl": "Po wejściu z Rezerwy zyskuje 1 Wzrost Mocy Starcia na 3 tury",
+      "kr_sha256": "5ad6384f11a8e49152a61ccf5a1cf799e18ae9ced2b72f8a206aab763123058e",
+      "en_sha256": "9a66853a5c8fe7e65bc92f840e0b079838ff37397708c111400b1a6cba9c8176",
+      "origin": "ai"
+    },
+    "dataList[id=2078].desc": {
+      "pl": "Poziom Hong Lu rośnie do 55\nPoziomy Synchronizacji Hong Lua i Splotu Nici jego E.G.O rosną do poziomu 4\n\n<i><color=#a16a3b>„Pamiętajcie dzień zagłady Rodu Kong,\nktóry za winy bezmiernie ciężkie poniósł zagładę domu.\nCzyn złamania praw Hongyuan nie budzi litości — jedynie śmiech.\nTak wiec odwet niechybnie nadejdzie.”</color></i>",
+      "kr_sha256": "51cd9f8be6f71cbd0b6e2eea98865fb2fb76f110113e488c8829677e7c126353",
+      "en_sha256": "c6bfc12d2f4ccdb05c4c46a7f35b8f9f9b19b1625b93b98d5774f475cd106f2c",
+      "origin": "ai"
+    },
+    "dataList[id=2078].name": {
+      "pl": "Pamięć Dnia Zagłady Rodu Kong",
+      "kr_sha256": "b4d30ee5d5591d7b93fd309b86bea8ff7fde8fcd6095ce9dac2dedef45dbdbd4",
+      "en_sha256": "d3bb8f2fe589f62c1f5c05a399b3fb3326291b85be82469fd3ab56e54ca2ebc1",
+      "origin": "ai"
+    },
+    "dataList[id=2079].desc": {
+      "pl": "Połamana i znoszona czerwona karta wstępu.\nMoże otwiera jakieś drzwi?",
+      "kr_sha256": "0c0d31d693b118a617d75d19a6a332b6447e1211c99f5871c32ddc5f54f45c0d",
+      "en_sha256": "01cd12e48998d42a08941717b1190f5ba613f1961472970770c7e4ae63101867",
+      "origin": "ai"
+    },
+    "dataList[id=2079].name": {
+      "pl": "Czerwona Karta Wstępu",
+      "kr_sha256": "e2856eee2104a28ffaa484285015b4ef17e08069fd0f3077a96152d45d5a1f28",
+      "en_sha256": "2bff109fde2c074d7068a66effa88979a11d84490bae7dec8b92c1e99de395ab",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=19267].desc": {
+      "pl": "Maks. Siła [Combustion] <style=\"upgradeHighlight\">+21</style>\n\nPierwsza nakładana w walce wartość Siły [Combustion] jest 3-krotnie większa (1 raz na walkę)\n\nGdy wróg otrzymuje obrażenia [Combustion] od wywołania [Combustion], zadaje mu obrażenia Gniewu równe Sile [Combustion]\n\nUmiejętności nakładające Siłę, Licznik [Combustion] lub Szczególne Podpalenie zadają <style=\"upgradeHighlight\">+25%</style> obrażeń",
+      "kr_sha256": "6563846015792f27e02a03eeec208eae578f4b913c1e11e9ac348f02b9390536",
+      "en_sha256": "2470573306bb2ab3627668e5bf6fc940fc9b374b843918c8c940a486a15e7851",
+      "origin": "ai"
+    },
+    "dataList[id=19267].name": {
+      "pl": "Rozżarzony Mosiądz+",
+      "kr_sha256": "c80d32d7ef1820c8a08009dfd8bc1323f74df2fe3501659336edc98ba9734da6",
+      "en_sha256": "f63b03b52e131da9893af37da96d66199403175fc2690b54cdd5ca8ef770c8eb",
+      "origin": "ai"
+    },
+    "dataList[id=29267].desc": {
+      "pl": "Maks. Siła [Combustion] +21\n\nPierwsza nakładana w walce wartość Siły [Combustion] jest 3-krotnie większa (1 raz na walkę)\n\nGdy wróg otrzymuje obrażenia [Combustion] od wywołania [Combustion], zadaje mu obrażenia Gniewu równe (Siła [Combustion] x <style=\"upgradeHighlight\">1,5</style>)\n\nUmiejętności nakładające Siłę, Licznik [Combustion] lub Szczególne Podpalenie zadają <style=\"upgradeHighlight\">+30%</style> obrażeń",
+      "kr_sha256": "53cbebccbee1a3e00148668b0d1f823839c3109856c52fcdece9a13ea9641427",
+      "en_sha256": "8744389a5c08cc07d3980c2c1fc3de78fd8fc6d7e2de2ad2515d447de3937bee",
+      "origin": "ai"
+    },
+    "dataList[id=29267].name": {
+      "pl": "Rozżarzony Mosiądz++",
+      "kr_sha256": "6def8d2d8c3d1b737e4c7808f7c1c2e21a694cfe112db99e3c3cae0621bfd8ab",
+      "en_sha256": "8967f6a640a09290e29ffd309f9ac8b072ebc04dba804ce3644114f946ea1e53",
+      "origin": "ai"
+    },
+    "dataList[id=9260].desc": {
+      "pl": "Jeżeli w ciągu jednej tury Tożsamość zużyła Podstawowymi Umiejętnościami co najmniej 10 Liczników [Charge], następnej tury jej Podstawowe Umiejętności zadają +20% obrażeń (z wyjątkiem Szczególnego Ładowania o stałej Mocy)\n- Jeżeli zużyte [Charge] było Szczególnym Ładowaniem, następnej tury nakładane [Laceration] zyskują +1 do Mocy i Licznika",
+      "kr_sha256": "f071eb2cf120248cc25323bb7898e6270c8e52474af09196ddd2e255da803c49",
+      "en_sha256": "f49ffe4c9cc516356b29a0dae79c7879ca5cef6809c6770cda1efe926cd9b243",
+      "origin": "ai"
+    },
+    "dataList[id=9260].name": {
+      "pl": "Dzieło : Pulsowanie",
+      "kr_sha256": "3eb40cbcf608b55d3b260fa12a5099395a972a9c858ed0c58cce1ebd026124e8",
+      "en_sha256": "4c08544577ec817051fe983d994bcfe1ffa6518fe1d7c388d9f1635180b91a29",
+      "origin": "ai"
+    },
+    "dataList[id=9261].desc": {
+      "pl": "Umiejętności obuchowe zadają +20% obrażeń wrogom z SP ≤ 15 lub z co najmniej 35 Siły [Sinking] (Siła Zatonięcia liczona per Część)\n- Jeżeli dana Umiejętność obuchowa nakłada Moc, Licznik [Laceration] lub Szczególne Krwawienie albo jest Umiejętnością Posępności, i trafi, następnej tury zyskuje 1 [Enhancement] (1 raz na turę na Tożsamość)",
+      "kr_sha256": "759c687338dc6de657d4b833971217130827bb2a49def23d79456a213df0dcb6",
+      "en_sha256": "b1de5277afb9a5e172a54b667fdc46dc813bf9d6fe15948edfb23c59408bd16f",
+      "origin": "ai"
+    },
+    "dataList[id=9261].name": {
+      "pl": "Dzieło : Dzikość",
+      "kr_sha256": "a9504722301716a5b17ffd243106367cb20535155e83116885e059ce010e4049",
+      "en_sha256": "4b2d5e65b9477ff8d97fd687b028522a9af56490f16187499865da8282a8bd1d",
+      "origin": "ai"
+    },
+    "dataList[id=9262].desc": {
+      "pl": "Po zakończeniu ataku Tożsamości frakcji Serdecznego nakłada na cel 1 losowe Osłabienie Odporności fizycznej (2 razy na turę)\n\nTożsamości frakcji Serdecznego zadają +10% obrażeń",
+      "kr_sha256": "23ee7e28b99eeebc037f93d01c29aa4e2e3461ede89444bceb127f505aee8150",
+      "en_sha256": "c1122d3dcbab9b32e3c07ece2aa479aeda6a4f716ab07edf2003abbd9c92b9e7",
+      "origin": "ai"
+    },
+    "dataList[id=9262].name": {
+      "pl": "Szkielet Wszystkiego",
+      "kr_sha256": "c1ac71819d534b6daf0ee8fa045f262867023901fbc00c2ad2eb07c849254502",
+      "en_sha256": "9ee24005ff4bff99b1aa8d2415b9db3b621d886bd23d97bec3531b7e0fb3cffb",
+      "origin": "ai"
+    },
+    "dataList[id=9263].desc": {
+      "pl": "Wywołuje na początku tury, gdy na polu są co najmniej 2 Tożsamości frakcji Serdecznego (liczą się tylko Tożsamości na polu).\n\nTrafienie Podstawową Umiejętnością Tożsamości frakcji Serdecznego — Szkoły Korporyzmu nakłada na cel 1 [SlashResistDown] (1 raz na Umiejętność, 2 razy na turę)\n\nTożsamości frakcji Serdecznego zadają +20% obrażeń\n\nNa początku tury: gdy suma Sił [Laceration] wszystkich wrogów wynosi 99+, Tożsamości frakcji Serdecznego — Szkoły Korporyzmu zyskują 1 [RingFingerPhysical]",
+      "kr_sha256": "feffb4d7f71f7fa6c1a571d6bc5853ce72459212e6680f4c7c51fc9380267449",
+      "en_sha256": "80e60759ff5d2728154a3c16f6a6c83e12afcbc331c258b12b15b9a45642e9b6",
+      "origin": "ai"
+    },
+    "dataList[id=9263].name": {
+      "pl": "Dzieło : Ewoluujące Pulsowanie",
+      "kr_sha256": "479d74f5b3f149c1f4ee642befd8f49b0bba600d8cdee4f61418fe3f2afe0ae4",
+      "en_sha256": "745e4664a71eb97475b8f818a08a67b466fb29f6d117a58fe2044687bf46c28d",
+      "origin": "ai"
+    },
+    "dataList[id=9264].desc": {
+      "pl": "Wywołuje na początku tury, gdy na polu są co najmniej 2 Tożsamości frakcji Serdecznego (liczą się tylko Tożsamości na polu).\n\nTrafienie Podstawową Umiejętnością Tożsamości frakcji Serdecznego — Szkoły Fowizmu nakłada na cel 1 [HitResistDown] (1 raz na Umiejętność, 2 razy na turę)\n\nTożsamości frakcji Serdecznego zadają +20% obrażeń\n\nNa początku tury: gdy suma Sił [Laceration] wszystkich wrogów wynosi 99+, Tożsamości frakcji Serdecznego — Szkoły Fowizmu zyskują 1 [RingFingerFauvism]",
+      "kr_sha256": "24c6af250f1d3b35093dd5247a81f949b7265ef1187c449c78882aeb9741402e",
+      "en_sha256": "2f94822baaafb30ff26b244c076f54ab46cf26ba062f595778755715a186758c",
+      "origin": "ai"
+    },
+    "dataList[id=9264].name": {
+      "pl": "Dzieło : Wypchana Dzikość",
+      "kr_sha256": "eef65566b4d2ea57c34b3c315441a62e56ee950d80de3dce4164a1255ae82cfb",
+      "en_sha256": "7f46e4895349904052385441c77bb48fd5a76200446c9d6a0e1bb896e5f8d7d2",
+      "origin": "ai"
+    },
+    "dataList[id=9265].desc": {
+      "pl": "Jeżeli Odporność obuchowa celu wynosi 1,5 lub mniej, jej Odporność obuchowa +0,3.",
+      "kr_sha256": "a92f53fbb671eedbe00f5b843c3558b1a03e20b34ba9833076c403785bdde3b2",
+      "en_sha256": "e4b4a994b74eb81ffc832775b09903c13b732e161d45c0dc77c5c6f5844799cf",
+      "origin": "ai"
+    },
+    "dataList[id=9265].name": {
+      "pl": "Kastety w Stylu Środkowego",
+      "kr_sha256": "3740c358f5bbc897be33becbb6b1cc3300e21401a1b6a61d504214c73e1e5fcf",
+      "en_sha256": "371dbd45e9c5a2c5ceb00ca48b76121f9fdcc94430837d6afa96122b998dedf3",
+      "origin": "ai"
+    },
+    "dataList[id=9266].desc": {
+      "pl": "Na koniec ataku Umiejętnością o Wadze Ataku 2+: +# trafień we wroga / 2 Zasobu E.G.O Grzechu użytej Umiejętności. (zaokrąglenie w dół, maks. 5 na Umiejętność)\n\nPrzy trafieniu krytycznym Umiejętnością o Wadze Ataku 2+: na koniec ataku +# Monet, które trafiły krytycznie, Zasobu E.G.O najmniej posiadanego Grzechu. (maks. 3)",
+      "kr_sha256": "b9de10f6cb9fdd45ac197f75b16d0eda728c210cf7a20abfe9a9e17077549c0f",
+      "en_sha256": "d04daa5f984f4258cd5bde7077b0c27b268399a378ac563b5cd014f79e06938d",
+      "origin": "ai"
+    },
+    "dataList[id=9266].name": {
+      "pl": "Pusta Klatka",
+      "kr_sha256": "fa9e0a22dd3cccf63c8addaa47f5d4a0ac50cb92fc32fad4741e603446e3652a",
+      "en_sha256": "1038a6dfa459007adc75ed6750594402fb59b0bda53453005cab9a9b7a4c8f89",
+      "origin": "ai"
+    },
+    "dataList[id=9267].desc": {
+      "pl": "Maks. Siła [Combustion] +11\n\nPierwsza nakładana w walce wartość Siły [Combustion] jest 3-krotnie większa (1 raz na walkę)\n\nGdy wróg otrzymuje obrażenia [Combustion] od wywołania [Combustion], zadaje mu obrażenia Gniewu równe Sile [Combustion]\n\nUmiejętności nakładające Siłę, Licznik [Combustion] lub Szczególne Podpalenie zadają +20% obrażeń",
+      "kr_sha256": "6002aa5d45829b81a76b42bd58ae21ea4125b2dc3c6f85a24196335083cbd55f",
+      "en_sha256": "994415071d7991fad3ed574c66c6f63e14a8cdcdca2854b7217e84bd7d7deb48",
+      "origin": "ai"
+    },
+    "dataList[id=9267].name": {
+      "pl": "Rozżarzony Mosiądz",
+      "kr_sha256": "c7c223d6630f37a9bf7ccaee822d71db55f135cd7f88e65fd757d00eea7f7b2e",
+      "en_sha256": "4abce2d1b7fea5bbb8091f25b509a3f4cc03a784664f998976c50f065252f75f",
+      "origin": "ai"
+    },
+    "dataList[id=9268].desc": {
+      "pl": "Na koniec tury: tyle Tożsamości frakcji Serdecznego, ile wrogów posiada [Laceration] (losowo), następnej tury zyskuje 1 Wzrost Obrażeń losowego Grzechu (maks. 1 raz na turę na Tożsamość; w starciu skupionym liczone per Część)\n\nTożsamości frakcji Serdecznego zadają +10% obrażeń",
+      "kr_sha256": "dd483316297864489b080983a455ab7a56b707c249199c9592f5130b75206c68",
+      "en_sha256": "aa661c6f29f7ee01d13f1d24fc3f076e317226b0d4298319f3e80ceb22f73378",
+      "origin": "ai"
+    },
+    "dataList[id=9268].name": {
+      "pl": "Instynkt Wszystkiego",
+      "kr_sha256": "a3d342d5580f5702ec13787dd1d89e6e177d6401246c37d4d21c0b76cd1ad10c",
+      "en_sha256": "2358c455085013fe1ba711387299a29d2b13bf4d72431925d4c2e3ac096b591f",
+      "origin": "ai"
+    }
+  }
+}

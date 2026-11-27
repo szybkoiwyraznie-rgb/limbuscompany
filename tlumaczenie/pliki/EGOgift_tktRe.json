@@ -1,0 +1,220 @@
+{
+  "entries": {
+    "dataList[id=19812].desc": {
+      "pl": "Wywołując [Switch_Vibration] lub [FusionVibration] na wrogu, wywołuje [VibrationExplosion] na celu (<style=\"upgradeHighlight\">2 razy</style> na turę na Tożsamość)",
+      "kr_sha256": "90634f0491c7e0540943bf86ef393afb29d713a351b87369eddeec6694255e10",
+      "en_sha256": "3d9c4a5edbc0ceca251daae24c306c269b835695dfd2dfa94a0a47686292d464",
+      "origin": "ai"
+    },
+    "dataList[id=19812].name": {
+      "pl": "Przepleciony Czas+",
+      "kr_sha256": "e57538089045aad968df52d6a40a1af560913b4fe5b15083e87bd3cc1bb8d12a",
+      "en_sha256": "e31e3433285089d572f0d0503c19d514e162a5eaf1a42f6db18e59632189fdfb",
+      "origin": "ai"
+    },
+    "dataList[id=19812].simpleDesc[abilityID=19812].simpleDesc": {
+      "pl": "Wywołuje Wyładowanie Wstrząsu na celu",
+      "kr_sha256": "0686dfd485c79e7d48f4990e893ee0bcc446d63b6e5bba18bacec08f99223b94",
+      "en_sha256": "987459b78fd04a7068f5d287493569e1e72bb1e7e7cf7eb097b2d831b986956b",
+      "origin": "ai"
+    },
+    "dataList[id=19813].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach <style=\"upgradeHighlight\">#2</style>, #3]\n\nGdy HP spadłoby do 0, nie spada poniżej 1 i natychmiast leczy 80% Maks. HP. Dochodzi do siebie z Oszołomienia (wywołuje 1 raz na walkę na Tożsamość, zaokrąglenie w górę)\nPo wywołaniu efektu tego Daru E.G.O od następnej tury do końca walki na początku tury zyskuje 2 [Enhancement] i 1 [Vulnerable]\nJeżeli dotknięta jednostka jest pracownikiem T Corp., przy zdobywaniu [TimeRentalTwoPersonality] zyskuje 1 dodatkowo\nJeżeli dotknięta jednostka jest pracownikiem T Corp. i cel posiada [TimeSuspend], Umiejętności ataku zadają +<style=\"upgradeHighlight\">12,5</style>% obrażeń",
+      "kr_sha256": "a22e594f7519ea4ff2e0699eb9ff2330a50af207dbc288fd2b0ef7ea9b4f9365",
+      "en_sha256": "1a9b89279a655481716836c66467452d9de3466f5ba6605872925c3ee5942db2",
+      "origin": "ai"
+    },
+    "dataList[id=19813].name": {
+      "pl": "Awaryjna Odznaka Śledczego+",
+      "kr_sha256": "a636c17628778014f2211878f11e45a28d5b1fd67d43634ea46b7c9d3a3f74d3",
+      "en_sha256": "e6a35ff58e085541771b91fde13c5179bcd8759c4904c0f0059a87f2d72ce239",
+      "origin": "ai"
+    },
+    "dataList[id=19813].simpleDesc[abilityID=198131].simpleDesc": {
+      "pl": "Przy zdobywaniu Pożyczonego Czasu zyskuje dodatkowy",
+      "kr_sha256": "6a1bf8844e51da409e689088b5cf6a81cb5f03770265c7e18cf0de9a84feec15",
+      "en_sha256": "9e4518117df1d60f16c3dbc7f8f2f618528dcb6392199efa9ad1f5a27ba31ee2",
+      "origin": "ai"
+    },
+    "dataList[id=19813].simpleDesc[abilityID=198132].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń, jeżeli jednostka posiada Moratorium Czasowe",
+      "kr_sha256": "2fd6e33696b435f166ceecbcd2fab0ab0856e910a8c8789da20373fa1bfdddf2",
+      "en_sha256": "e0044ed15e16c5e1f407a092aff2e60c554ec7a96805a2c7b8ff2e2ae35ff908",
+      "origin": "ai"
+    },
+    "dataList[id=19813].simpleDesc[abilityID=19813].simpleDesc": {
+      "pl": "HP nie spada poniżej 1, a jednostka natychmiast leczy 80% Maks. HP",
+      "kr_sha256": "23658c2cb1ba068cbe95f5983dc5b2f55e3ff0000b4f426cf6e2ed160eec1149",
+      "en_sha256": "11b822282b0641bb4b321a0afbcfb67ca8a092a424358d6785fd91690c151165",
+      "origin": "ai"
+    },
+    "dataList[id=19814].desc": {
+      "pl": "Na początku tury: u <style=\"upgradeHighlight\">2 Tożsamości</style> z największym Licznikiem [Vibration] wywołuje [FusionVibration], zamieniając ich [Vibration] na [VibrationDistribution]",
+      "kr_sha256": "eea5440a738e12b6216afee08d0ba107cedd9f4d07ebfad9bc8aae9f60e3494f",
+      "en_sha256": "9d2e232c8e1859dac909a693f40e6d9ed2fd2eaa5dd6fa4ba4246a5e80609012",
+      "origin": "ai"
+    },
+    "dataList[id=19814].name": {
+      "pl": "Sekwencer Wymuszonego Splątania+",
+      "kr_sha256": "da583abbd1ae9c7ac0b3f9240fc9b17571d9d214974b0959b1126a523053ebc7",
+      "en_sha256": "1afe7d89e63a9f85332e8afcb2e0bdf4da87cd3f8bc157620254f35e6bd99cc5",
+      "origin": "ai"
+    },
+    "dataList[id=19814].simpleDesc[abilityID=19814].simpleDesc": {
+      "pl": "Wywołuje Splątanie Amplitudy w Wstrząs - Dystrybucja",
+      "kr_sha256": "6655fe7bd0ef4a2f07bccbd4e0a6c2b61bef2da9a914298f6187a61cec01c434",
+      "en_sha256": "9aee5f5cfcdad85d7ad5f1a144e066d7d64d49f191e4f5248e56993ea07ca9ae",
+      "origin": "ai"
+    },
+    "dataList[id=29812].desc": {
+      "pl": "Wywołując [Switch_Vibration] lub [FusionVibration] na wrogu, wywołuje [VibrationExplosion] na celu (<style=\"upgradeHighlight\">3 razy</style> na turę na Tożsamość)",
+      "kr_sha256": "b23af3f2b3b98409ff204291d5b117d2a237fa59f9c0dd631de2d9e6a94970eb",
+      "en_sha256": "fc716a9441aad83c5deba389b20b293c0786719aab0b59c421d7a59eeb7e7f14",
+      "origin": "ai"
+    },
+    "dataList[id=29812].name": {
+      "pl": "Przepleciony Czas++",
+      "kr_sha256": "1812494f487128864d8cb992a4f5eaa43f396f68df3c84514eecb7edafa514d9",
+      "en_sha256": "59b743e37ac5abbc1dd906ecfa7fe30278974e4109a5745e7a366917189a3a01",
+      "origin": "ai"
+    },
+    "dataList[id=29812].simpleDesc[abilityID=29812].simpleDesc": {
+      "pl": "Wywołuje Wyładowanie Wstrząsu na celu",
+      "kr_sha256": "0686dfd485c79e7d48f4990e893ee0bcc446d63b6e5bba18bacec08f99223b94",
+      "en_sha256": "987459b78fd04a7068f5d287493569e1e72bb1e7e7cf7eb097b2d831b986956b",
+      "origin": "ai"
+    },
+    "dataList[id=29813].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziałach <style=\"upgradeHighlight\">#1</style>, #2, #3]\n\nGdy HP spadłoby do 0, nie spada poniżej 1 i natychmiast leczy 80% Maks. HP. Dochodzi do siebie z Oszołomienia (wywołuje 1 raz na walkę na Tożsamość, zaokrąglenie w górę)\nPo wywołaniu efektu tego Daru E.G.O od następnej tury do końca walki na początku tury <style=\"upgradeHighlight\">zyskuje 2 [Enhancement]</style>\nJeżeli dotknięta jednostka jest pracownikiem T Corp., przy zdobywaniu [TimeRentalTwoPersonality] zyskuje <style=\"upgradeHighlight\">2</style> dodatkowo\nJeżeli dotknięta jednostka jest pracownikiem T Corp. i cel posiada [TimeSuspend], Umiejętności ataku zadają +<style=\"upgradeHighlight\">15</style>% obrażeń",
+      "kr_sha256": "fc833b8be919d11083bd9963b6df810cfe6e99f8213912badf780751a5b7177e",
+      "en_sha256": "ab07800b723d5d1a4e141d0207bd95b5bb76c9c13ccfdfd8b53dfc2b5ef24b91",
+      "origin": "ai"
+    },
+    "dataList[id=29813].name": {
+      "pl": "Awaryjna Odznaka Śledczego++",
+      "kr_sha256": "bf3d49bd5783a6b8b4279e95f362c52fb3106e04dbeb46fd8f207514f6e1625f",
+      "en_sha256": "9ef5acc48d4acf3ff8ef5ee7ef06c67a793b9b50289aa75e60599c059fb1e329",
+      "origin": "ai"
+    },
+    "dataList[id=29813].simpleDesc[abilityID=298131].simpleDesc": {
+      "pl": "Przy zdobywaniu Pożyczonego Czasu zyskuje dodatkowy",
+      "kr_sha256": "6a1bf8844e51da409e689088b5cf6a81cb5f03770265c7e18cf0de9a84feec15",
+      "en_sha256": "9e4518117df1d60f16c3dbc7f8f2f618528dcb6392199efa9ad1f5a27ba31ee2",
+      "origin": "ai"
+    },
+    "dataList[id=29813].simpleDesc[abilityID=298132].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń, jeżeli jednostka posiada Moratorium Czasowe",
+      "kr_sha256": "2fd6e33696b435f166ceecbcd2fab0ab0856e910a8c8789da20373fa1bfdddf2",
+      "en_sha256": "e0044ed15e16c5e1f407a092aff2e60c554ec7a96805a2c7b8ff2e2ae35ff908",
+      "origin": "ai"
+    },
+    "dataList[id=29813].simpleDesc[abilityID=29813].simpleDesc": {
+      "pl": "HP nie spada poniżej 1, a jednostka natychmiast leczy 80% Maks. HP",
+      "kr_sha256": "23658c2cb1ba068cbe95f5983dc5b2f55e3ff0000b4f426cf6e2ed160eec1149",
+      "en_sha256": "11b822282b0641bb4b321a0afbcfb67ca8a092a424358d6785fd91690c151165",
+      "origin": "ai"
+    },
+    "dataList[id=29814].desc": {
+      "pl": "Na początku tury: u <style=\"upgradeHighlight\">3 </style>Tożsamości z największym Licznikiem [Vibration] wywołuje [FusionVibration], zamieniając ich [Vibration] na [VibrationDistribution]",
+      "kr_sha256": "9b2fb14088bd8f1f56410221f9a47ec72f597c71b424b08a15806a40a10b0e00",
+      "en_sha256": "7af10abe0919360b8857207824835cdc11a7c38eabf93e7ab9571776a07e0629",
+      "origin": "ai"
+    },
+    "dataList[id=29814].name": {
+      "pl": "Sekwencer Wymuszonego Splątania++",
+      "kr_sha256": "4e6608154b991bd2ff832bc12cd87bb24ff436223edd890987d346096360e554",
+      "en_sha256": "4a62307a601d2a004edae7cd017a365b8b1fefd13d7ea88647fb13023f4b716c",
+      "origin": "ai"
+    },
+    "dataList[id=29814].simpleDesc[abilityID=29814].simpleDesc": {
+      "pl": "Wywołuje Splątanie Amplitudy w Wstrząs - Dystrybucja",
+      "kr_sha256": "6655fe7bd0ef4a2f07bccbd4e0a6c2b61bef2da9a914298f6187a61cec01c434",
+      "en_sha256": "9aee5f5cfcdad85d7ad5f1a144e066d7d64d49f191e4f5248e56993ea07ca9ae",
+      "origin": "ai"
+    },
+    "dataList[id=9812].desc": {
+      "pl": "Wywołując [Switch_Vibration] lub [FusionVibration] na wrogu, wywołuje [VibrationExplosion] na celu (1 raz na turę na Tożsamość)",
+      "kr_sha256": "fb9cf1521e10460e8c66d67370dd5cf5ab485f6e07f5ae9b96fb46b7963b0560",
+      "en_sha256": "74e95385bc29e88d79aa2fc4158c8c9cdaf74fe39eeecf397fce62194ca5d879",
+      "origin": "ai"
+    },
+    "dataList[id=9812].name": {
+      "pl": "Przepleciony Czas",
+      "kr_sha256": "9ac647eac02bc06992140d2cd285d8383a5c3a414b03473a0fe75951ab1b0650",
+      "en_sha256": "4a0a19cbaa2af89c1882e0e28901ec7ede560af7b721a2e306f7091816bf1e45",
+      "origin": "ai"
+    },
+    "dataList[id=9812].simpleDesc[abilityID=9812].simpleDesc": {
+      "pl": "Wywołuje Wyładowanie Wstrząsu na celu",
+      "kr_sha256": "0686dfd485c79e7d48f4990e893ee0bcc446d63b6e5bba18bacec08f99223b94",
+      "en_sha256": "987459b78fd04a7068f5d287493569e1e72bb1e7e7cf7eb097b2d831b986956b",
+      "origin": "ai"
+    },
+    "dataList[id=9813].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #3]\n\nGdy HP spadłoby do 0, nie spada poniżej 1 i natychmiast leczy 80% Maks. HP. Dochodzi do siebie z Oszołomienia (wywołuje 1 raz na walkę na Tożsamość, zaokrąglenie w górę)\nPo wywołaniu efektu tego Daru E.G.O od następnej tury do końca walki na początku tury zyskuje 2 [Enhancement] i 1 [Vulnerable]\nJeżeli dotknięta jednostka jest pracownikiem T Corp., przy zdobywaniu [TimeRentalTwoPersonality] zyskuje 1 dodatkowo\nJeżeli dotknięta jednostka jest pracownikiem T Corp. i cel posiada [TimeSuspend], Umiejętności ataku zadają +10% obrażeń",
+      "kr_sha256": "9dc150fa54d06e06fdc572d6d44653185b2b11a4a5824909eb13484a829a2faf",
+      "en_sha256": "82c8eb47e910cd6f761052ea139adcb8c41f4283b1ce7caf9e0a5bedaaadcd85",
+      "origin": "ai"
+    },
+    "dataList[id=9813].name": {
+      "pl": "Awaryjna Odznaka Śledczego",
+      "kr_sha256": "1a7cd178afb8ac764e4db66dc71eb4b3788bf50c7b27806da318f10e180c0b09",
+      "en_sha256": "ea793364c59a95b102bb637a4b9093341faa3157411c8ba63e5f49fe361ca995",
+      "origin": "ai"
+    },
+    "dataList[id=9813].simpleDesc[abilityID=98131].simpleDesc": {
+      "pl": "Przy zdobywaniu Pożyczonego Czasu zyskuje dodatkowy",
+      "kr_sha256": "6a1bf8844e51da409e689088b5cf6a81cb5f03770265c7e18cf0de9a84feec15",
+      "en_sha256": "9e4518117df1d60f16c3dbc7f8f2f618528dcb6392199efa9ad1f5a27ba31ee2",
+      "origin": "ai"
+    },
+    "dataList[id=9813].simpleDesc[abilityID=98132].simpleDesc": {
+      "pl": "Zadaje więcej obrażeń, jeżeli jednostka posiada Moratorium Czasowe",
+      "kr_sha256": "2fd6e33696b435f166ceecbcd2fab0ab0856e910a8c8789da20373fa1bfdddf2",
+      "en_sha256": "e0044ed15e16c5e1f407a092aff2e60c554ec7a96805a2c7b8ff2e2ae35ff908",
+      "origin": "ai"
+    },
+    "dataList[id=9813].simpleDesc[abilityID=9813].simpleDesc": {
+      "pl": "HP nie spada poniżej 1, a jednostka natychmiast leczy 80% Maks. HP",
+      "kr_sha256": "23658c2cb1ba068cbe95f5983dc5b2f55e3ff0000b4f426cf6e2ed160eec1149",
+      "en_sha256": "11b822282b0641bb4b321a0afbcfb67ca8a092a424358d6785fd91690c151165",
+      "origin": "ai"
+    },
+    "dataList[id=9814].desc": {
+      "pl": "Na początku tury: u 1 Tożsamości z największym Licznikiem [Vibration] wywołuje [FusionVibration], zamieniając jej [Vibration] na [VibrationDistribution]",
+      "kr_sha256": "c54160b925a0d58b08ecb7bdf24f023f3e9910af326cb5502c0c59d35cb03cef",
+      "en_sha256": "62a0d71329838da76c99b3e8d5328ec18890249e61a1ada314a1df9021931432",
+      "origin": "ai"
+    },
+    "dataList[id=9814].name": {
+      "pl": "Sekwencer Wymuszonego Splątania",
+      "kr_sha256": "a5a938ea90c9cfad7d3095fe26b828dd9eb82b19fbbad301233cce9e0732f51c",
+      "en_sha256": "32f67b1dba72187fd3c66ab8f422a7467117fef3985d5068386d2073b49fda09",
+      "origin": "ai"
+    },
+    "dataList[id=9814].simpleDesc[abilityID=9814].simpleDesc": {
+      "pl": "Wywołuje Splątanie Amplitudy w Wstrząs - Dystrybucja",
+      "kr_sha256": "6655fe7bd0ef4a2f07bccbd4e0a6c2b61bef2da9a914298f6187a61cec01c434",
+      "en_sha256": "9aee5f5cfcdad85d7ad5f1a144e066d7d64d49f191e4f5248e56993ea07ca9ae",
+      "origin": "ai"
+    },
+    "dataList[id=9816].desc": {
+      "pl": "[Efekt wyłącznie dla Tożsamości na Przydziale #1]\n\nDziała dla Tożsamości z Podstawowymi Umiejętnościami ataku nakładającymi Siłę lub Licznik [Vibration] albo posiadającymi efekt [VibrationExplosion]\nPoczątek walki: zyskuje 5 [UltraPrecisionTimeAcceleration]",
+      "kr_sha256": "00b699b9db2556a8fcf34fefe3a6e72cfb18534ae16d86d036477b0bd1542e02",
+      "en_sha256": "93b1c551032a54c8d050b2533d7723a2685f25da2aa76de816fdf889edc1e4b8",
+      "origin": "ai"
+    },
+    "dataList[id=9816].name": {
+      "pl": "Mikroprecyzyjny Akcelerator Czasu",
+      "kr_sha256": "e71d9d9ae113fc78b865845100381bd12b59975d3513bfc8143751cfd38517f1",
+      "en_sha256": "46b1effb3c21e4273aa1bc6f17f817f449245a472a0e07ecd49f485da108db28",
+      "origin": "ai"
+    },
+    "dataList[id=9816].simpleDesc[abilityID=9816].simpleDesc": {
+      "pl": "Zyskuje 5 Mikroprecyzyjnego Przyspieszenia Czasu",
+      "kr_sha256": "925206de53000adcb84081700941ff0c19211ef2b254f8026fbaddc763eb6ab1",
+      "en_sha256": "3deae61c714e3056bf26c8ab93d471918388aec68a63243d5d7df4c133b2028c",
+      "origin": "ai"
+    }
+  }
+}
