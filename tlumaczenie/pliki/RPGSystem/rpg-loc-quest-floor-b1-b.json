@@ -150,10 +150,40 @@
       "en_sha256": "0142ec2081e87c185245f429b65e41f644148a0d26627e32d3c64b67f3356a93",
       "origin": "ai"
     },
+    "dataList[key=Q-1010].description": {
+      "pl": "Kazaliśmy Pwie wybrać schody ruchome, które mu się spodobają. Określmy, czym jest wybrane przez niego.",
+      "kr_sha256": "c8ba5d4446b34e42dbd56d7a91a79f2a862a7d7702a70cc9e7f660752145a0b1",
+      "en_sha256": "8d050c368b2d9299c211a8167774bc2ed781e237a90ad6cdbfdac3d707639f1d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1010].steps[#0].goalDescription1": {
+      "pl": "Wybieramy schody ruchome",
+      "kr_sha256": "e9a8dbf6f78c6dfa33bbe21c9425ad097aaafcd489bd81595e79af24e014f2b1",
+      "en_sha256": "ff4796e9fafea4e9a69f2c7f08165255fc920059d6a3642ff022458b40c8ad01",
+      "origin": "ai"
+    },
     "dataList[key=Q-1010].title": {
       "pl": "Wybierz schody ruchome",
       "kr_sha256": "e9a8dbf6f78c6dfa33bbe21c9425ad097aaafcd489bd81595e79af24e014f2b1",
       "en_sha256": "ff4796e9fafea4e9a69f2c7f08165255fc920059d6a3642ff022458b40c8ad01",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].description": {
+      "pl": "Wjedźmy schodami ruchomymi w dół, na poziom -2.",
+      "kr_sha256": "a489355d6d78ff8537882b15e3188e6df2442a418007ca16dda537aedde77f6e",
+      "en_sha256": "a19b04c39377d942014ac24fe78595cb2cdd52c4ac264b8e023e86d74958dc99",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].steps[#0].goalDescription1": {
+      "pl": "Udaj się do schodów na poziom -2",
+      "kr_sha256": "b453cefea1e0c5afdc0397e9f551555a5ac85e5bf87db2e5af4ca561be2f8b1b",
+      "en_sha256": "f735f2488b24773cdbd5680a46b7b5c050152f71f10b2a97083ec7af6851b6f0",
+      "origin": "ai"
+    },
+    "dataList[key=Q-1011].title": {
+      "pl": "Udaj się do schodów na poziom -2",
+      "kr_sha256": "b453cefea1e0c5afdc0397e9f551555a5ac85e5bf87db2e5af4ca561be2f8b1b",
+      "en_sha256": "f735f2488b24773cdbd5680a46b7b5c050152f71f10b2a97083ec7af6851b6f0",
       "origin": "ai"
     }
   }

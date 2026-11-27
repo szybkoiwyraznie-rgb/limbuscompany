@@ -1,0 +1,244 @@
+{
+  "entries": {
+    "dataList[key=Q-2001].description": {
+      "pl": "Dotarliśmy na poziom -2. Widać ciasną kolejkę czekającą na Złoty Barwnik. Zagadajmy Nakeda, który handlował z nami ostatnio.",
+      "kr_sha256": "dc9c3bfcbba60feccd74db8669c498e95ff9d9c12f0dd7898f020444f8b2e23b",
+      "en_sha256": "9f471f75f78aff81223fff8baf4c4d2686d12a70f6c34b692323073994bf6049",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2001].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Nakeda",
+      "kr_sha256": "2067bc1b938ffb81d593c5f1bf09ab21c78d1a66d1bb1ea4d3349342317ab016",
+      "en_sha256": "ab1d1d8cbe71cd49d15d89bcafc9bb5221213b05a95445813c01097135a7546b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2001].title": {
+      "pl": "Rozejrzyj się na poziomie -2",
+      "kr_sha256": "816bcf20d8af649477797798e63c30424af6ae65763eb022596ddf0b003073f9",
+      "en_sha256": "34eab12e0fdc173c24a88311f2c0454b98754fea5992683be7d56654a0c8c9b1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].description": {
+      "pl": "Dotarliśmy na poziom -2. Widać ciasną kolejkę czekającą na Złoty Barwnik. Zagadajmy Nakeda, który handlował z nami ostatnio.",
+      "kr_sha256": "dc9c3bfcbba60feccd74db8669c498e95ff9d9c12f0dd7898f020444f8b2e23b",
+      "en_sha256": "9f471f75f78aff81223fff8baf4c4d2686d12a70f6c34b692323073994bf6049",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Nakeda",
+      "kr_sha256": "2067bc1b938ffb81d593c5f1bf09ab21c78d1a66d1bb1ea4d3349342317ab016",
+      "en_sha256": "ab1d1d8cbe71cd49d15d89bcafc9bb5221213b05a95445813c01097135a7546b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].steps[#1].goalDescription1": {
+      "pl": "Odepchnij nacierających Le Noir",
+      "kr_sha256": "9d804323842e33a611e86480450a3c0f15b050a40f2087b3611130c25233c3b3",
+      "en_sha256": "045e4a392f850eb7bdf76700e9d35d3530f860c47c16859b574952d975e039d0",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].steps[#2].goalDescription1": {
+      "pl": "Ogarnij sytuację po walce",
+      "kr_sha256": "8be59ca11e2324b5aadca130f6d5554636fc247d1d7e160a786e22c898012b24",
+      "en_sha256": "24d94b1a5bf5926878eaaffd5b187a3b7e561ff95eb3ba47c9df10620c28d5a3",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2002].title": {
+      "pl": "Zagadaj Nakeda",
+      "kr_sha256": "2067bc1b938ffb81d593c5f1bf09ab21c78d1a66d1bb1ea4d3349342317ab016",
+      "en_sha256": "ab1d1d8cbe71cd49d15d89bcafc9bb5221213b05a95445813c01097135a7546b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2003].description": {
+      "pl": "Le Noir ruszyły na nas. Na razie trzeba znaleźć drogę jeszcze głębiej w podziemia. Zapytajmy Paletę w Farbiarni, jak zejść na dół.",
+      "kr_sha256": "1dce84f9a681ebc1af3e2890187d9f7086e2c314c2be3fecac73fd51e3484624",
+      "en_sha256": "a48d37ba76b02f9da9af0ee6c32e9bef2760bc9231c7cba3470cb06c99594606",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2003].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Farbiarni",
+      "kr_sha256": "6a3c4df03571eb628a6cf84350f7f4ecec2cfdc5f2208d5f2ab42e23fb526496",
+      "en_sha256": "490a187826de77cd1390b655001d36f40d5551be5036fa676bacf49c27df6e6e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2003].title": {
+      "pl": "Udaj się do Farbiarni",
+      "kr_sha256": "6a3c4df03571eb628a6cf84350f7f4ecec2cfdc5f2208d5f2ab42e23fb526496",
+      "en_sha256": "490a187826de77cd1390b655001d36f40d5551be5036fa676bacf49c27df6e6e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004A].description": {
+      "pl": "Paleta chyba chce Kolorową Przędzę trzymaną przez Kierownika Piętra -2. Aby spełnić prośbę Palety, udamy się do Gniazda Przędzy.",
+      "kr_sha256": "72847161fe053a3bf6466a04c2813bfe69dc5c5cd41c849ada543fc9349da8b4",
+      "en_sha256": "8863ac3ebe91ba1e66c82196016f468e83cfe3abbf23078f944d1dcee4f6bd8f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004A].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Gniazda Przędzy",
+      "kr_sha256": "75a35ede76e73b475b8dff3663712512b2c8db9d13827f853ad5fa7915088d52",
+      "en_sha256": "1624660adfbd7d479c69621896585bc2c2903f2c2a411ed323b715637bdc1151",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004A].title": {
+      "pl": "Udaj się do Gniazda Przędzy",
+      "kr_sha256": "75a35ede76e73b475b8dff3663712512b2c8db9d13827f853ad5fa7915088d52",
+      "en_sha256": "1624660adfbd7d479c69621896585bc2c2903f2c2a411ed323b715637bdc1151",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004].description": {
+      "pl": "Le Noir ruszyły na nas. Na razie trzeba znaleźć drogę jeszcze głębiej w podziemia. Zapytajmy Paletę w Farbiarni, jak zejść na dół.",
+      "kr_sha256": "1dce84f9a681ebc1af3e2890187d9f7086e2c314c2be3fecac73fd51e3484624",
+      "en_sha256": "a48d37ba76b02f9da9af0ee6c32e9bef2760bc9231c7cba3470cb06c99594606",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004].steps[#0].goalDescription1": {
+      "pl": "Udaj się do Farbiarni",
+      "kr_sha256": "6a3c4df03571eb628a6cf84350f7f4ecec2cfdc5f2208d5f2ab42e23fb526496",
+      "en_sha256": "490a187826de77cd1390b655001d36f40d5551be5036fa676bacf49c27df6e6e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2004].title": {
+      "pl": "Udaj się do Farbiarni",
+      "kr_sha256": "6a3c4df03571eb628a6cf84350f7f4ecec2cfdc5f2208d5f2ab42e23fb526496",
+      "en_sha256": "490a187826de77cd1390b655001d36f40d5551be5036fa676bacf49c27df6e6e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2005].steps[#0].goalDescription1": {
+      "pl": "Zabij Le Noir",
+      "kr_sha256": "cfc7d70fa341dca7a87938558d9e01e62175e5a20bbedddf88215a67a732f915",
+      "en_sha256": "6321f0f3c279185d0ff49e6d1efeee3017c54f369355090ef73ee044c43abc47",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2005].title": {
+      "pl": "Zabij Le Noir",
+      "kr_sha256": "cfc7d70fa341dca7a87938558d9e01e62175e5a20bbedddf88215a67a732f915",
+      "en_sha256": "6321f0f3c279185d0ff49e6d1efeee3017c54f369355090ef73ee044c43abc47",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2006].description": {
+      "pl": "Kolejni Le Noir zagradzają drogę. Rozprawiajmy się z nimi i idźmy dalej.",
+      "kr_sha256": "dee24c92ba627fa2d657b7d2ce1f4ff93a4883a5f46174aa5dd82aef2b5d467b",
+      "en_sha256": "f15023442a67f2ea91228af5f9b48e0b3079606116f380e8c891d63528572d92",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2006].steps[#0].goalDescription1": {
+      "pl": "Zabijaj Le Noir dalej",
+      "kr_sha256": "21a1f304ec6ed0bd32b625e0ba3fb0ebdad22118f54ef46bfc30ababfe38583a",
+      "en_sha256": "5eac9f8f7867ce2912df69af922ef2567888598cc7874298a5b81fe44e4a106f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2006].title": {
+      "pl": "Zabij Le Noir (2)",
+      "kr_sha256": "e6b78634b306d0022e6c95aacee05cb92c393900dcdd53d1c42fd97d00017370",
+      "en_sha256": "dcf4119b0ef0a5fa0f4bf686a60c1023d19f7725b2e84ede36094355f3fe113f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2007].description": {
+      "pl": "Le Noir zagradzające drogę są rozprawione. Teraz dotrzyjmy do Gniazda Przędzy.",
+      "kr_sha256": "ffb0ab843247ec29075e55bb895d6d016125ab1f77eb7a99bddf91c32b8b8696",
+      "en_sha256": "3bda480a7cfe08b4899eaa32f8599ee925dbad3b21040d7a2f45e453a947ba86",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2007].steps[#0].goalDescription1": {
+      "pl": "Idź dalej do Gniazda Przędzy",
+      "kr_sha256": "a78606e9126d877949d255442959112b69dc1039ccd31deeae81f87653abedc2",
+      "en_sha256": "28d12fe0d97b5936eaf96da44c80f885f5933965582cb11ededaa0a189a96b4c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2007].title": {
+      "pl": "Idź dalej do Gniazda Przędzy",
+      "kr_sha256": "a78606e9126d877949d255442959112b69dc1039ccd31deeae81f87653abedc2",
+      "en_sha256": "28d12fe0d97b5936eaf96da44c80f885f5933965582cb11ededaa0a189a96b4c",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2008].description": {
+      "pl": "Dotarliśmy do Gniazda Przędzy. Zagadajmy Kierownika Piętra -2.",
+      "kr_sha256": "9c14d3da0ca87d74891280b450080b7a6967f63159417de7b57b0ea79188bcd3",
+      "en_sha256": "995103d010d71764a188d0d13f35fc27302258f26fdf7d954c9e56d3284b2d4e",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2008].steps[#0].goalDescription1": {
+      "pl": "Zagadaj Kierownika Piętra -2",
+      "kr_sha256": "110baba3927a41413c158323d80303cef0af8b4f34e019aaf9c6a79634004f31",
+      "en_sha256": "0676417f9841ddaad28990a014f023634526f18268bb4f696702b9db16701f9d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2008].steps[#1].goalDescription1": {
+      "pl": "Zabij Kierownika Piętra -2",
+      "kr_sha256": "ecfd93aeefc197a9958ff9329fb82644f87585e4c3fb6f277b58df2ecf5268bd",
+      "en_sha256": "f829ca6cdda8cc7026a7f5c16fe16d844bd5665f1d18caf88b6755bb46c40a68",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2008].steps[#2].goalDescription1": {
+      "pl": "Zdobądź Kolorową Przędzę",
+      "kr_sha256": "e8ce72ba02aa357858db3dcf11e1ee8fdc20915a0da0902ced04657f073fef16",
+      "en_sha256": "f83616ccb5b4fc4f81b09c9bbe22f39805c605fad917e15a6af3a0a4f99005a8",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2008].title": {
+      "pl": "Zagadaj Kierownika Piętra -2",
+      "kr_sha256": "110baba3927a41413c158323d80303cef0af8b4f34e019aaf9c6a79634004f31",
+      "en_sha256": "0676417f9841ddaad28990a014f023634526f18268bb4f696702b9db16701f9d",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2009].description": {
+      "pl": "Zdobyliśmy od Kierownika Piętra -2 Kolorową Przędzę. Teraz wróćmy do Farbiarni i przekażmy ją Palecie.",
+      "kr_sha256": "34f1ec923d6b8d7c19a6158705baf2ecf6a8fa9913c16bc48b4870aee1aa7e99",
+      "en_sha256": "8863ac3ebe91ba1e66c82196016f468e83cfe3abbf23078f944d1dcee4f6bd8f",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2009].steps[#0].goalDescription1": {
+      "pl": "Przekaż Przędzę Palecie",
+      "kr_sha256": "dad6b5b8d70f1580142861d80b05243a9a1d17f3a7a92dab38abee911eec3c24",
+      "en_sha256": "b44e4aa7410cb2ade7fad5d08fcb699f6062899b4199688b75f3a0ab1ec8aa94",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2009].title": {
+      "pl": "Przekaż Przędzę Palecie",
+      "kr_sha256": "dad6b5b8d70f1580142861d80b05243a9a1d17f3a7a92dab38abee911eec3c24",
+      "en_sha256": "b44e4aa7410cb2ade7fad5d08fcb699f6062899b4199688b75f3a0ab1ec8aa94",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010A].description": {
+      "pl": "Dotarliśmy do schodów ruchomych na poziom -3. Zejdźmy nim na dół.",
+      "kr_sha256": "a38969183cbca2b21327a7c2f75a3691c7030b4e4ab3b6707090d8a60792094a",
+      "en_sha256": "45f03693e6fb0e7b0d00a3a94c260c08720e0cb7031e28b0af8c56d1c273189b",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010A].steps[#0].goalDescription1": {
+      "pl": "Zejdź na poziom -3",
+      "kr_sha256": "f08a17fd48def7cd185c37f596c836cc3232c4ee1859f704c7df88ad16e06ada",
+      "en_sha256": "1bb51c83c5e2c701147e1297069fba27385661180832690eeab2ab2e9a9c0e85",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010A].steps[#1].goalDescription1": {
+      "pl": "Rozejrzyj się na poziomie -3",
+      "kr_sha256": "e938f827a34cc246b6fe0b3f9ec3af28f794d30c680dcc24ac4bdeb549cc8083",
+      "en_sha256": "d637ab80c5e0319b1b813b48c1dc36c7851c767918bdb79f557374d0b084b6e1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010A].title": {
+      "pl": "Zejdź na poziom -3",
+      "kr_sha256": "f08a17fd48def7cd185c37f596c836cc3232c4ee1859f704c7df88ad16e06ada",
+      "en_sha256": "1bb51c83c5e2c701147e1297069fba27385661180832690eeab2ab2e9a9c0e85",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].description": {
+      "pl": "Paleta dotrzymała słowa i zdradziła położenie schodów ruchomych na poziom -3. Udamy się do nich i zejdziemy niżej.",
+      "kr_sha256": "c9575c89f9a6375834b3df796a6775494abc70878544058043bf5763ee1634c5",
+      "en_sha256": "8744aea553c21de6e7cc4bbd834fd62cf9f78fe6277788d5ffce152d035f52e1",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].steps[#0].goalDescription1": {
+      "pl": "Udaj się do schodów na poziom -3",
+      "kr_sha256": "8b1cc5069a6caa0aed04688aa5847734dfbd3f39528d963a495f6b68deae9d8d",
+      "en_sha256": "58d165c87a83ba3eaadbf948e037df52d1942bcfc7b173062507d11533f45fe8",
+      "origin": "ai"
+    },
+    "dataList[key=Q-2010].title": {
+      "pl": "Udaj się do schodów na poziom -3",
+      "kr_sha256": "8b1cc5069a6caa0aed04688aa5847734dfbd3f39528d963a495f6b68deae9d8d",
+      "en_sha256": "58d165c87a83ba3eaadbf948e037df52d1942bcfc7b173062507d11533f45fe8",
+      "origin": "ai"
+    }
+  }
+}

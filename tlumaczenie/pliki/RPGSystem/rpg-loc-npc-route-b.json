@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[key=N400041].displayName": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    },
+    "dataList[key=N400042].displayName": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    },
+    "dataList[key=N400043].displayName": {
+      "pl": "Pwie",
+      "kr_sha256": "d06092e6359b46bf074cfe9b9933bef77fdcf1e1788017715f57c3ceac62599d",
+      "en_sha256": "f5751f43077d816cbcc3811b13c8d0e3e65495f574cedaea6cb56dcd80dd1e5e",
+      "origin": "ai"
+    },
+    "dataList[key=N999101].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N999102].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N999103].displayName": {
+      "pl": "Maison du Noir",
+      "kr_sha256": "15d27f53d2c04cac213bf91d2109b6f648582022225f36af45ea669702804e9d",
+      "en_sha256": "d24d3609c17bbd66b91ce241d85c27a239ce47b63477a3ee9173f45b852d21e8",
+      "origin": "ai"
+    },
+    "dataList[key=N999104].displayName": {
+      "pl": "Pracownik Maison du Noir",
+      "kr_sha256": "130f4c93767f6b616c4e02bbdcab73f782c16b3ffd0a5e71a541626cccc0444b",
+      "en_sha256": "7bd9213cf11f00c8f8c3439f4cfd058c70e77fbd1c5073b30d1532ce6221ed3d",
+      "origin": "ai"
+    },
+    "dataList[key=N999105].displayName": {
+      "pl": "Pracownik Salonu Contempora Le Noir",
+      "kr_sha256": "3019ebdf2066f71a83528823a31f05b072f96b3042b09c57308c0aca16e4b96b",
+      "en_sha256": "8a3a72b0dc253aa38b720badf72a2aee4dc2c0e2ee5f8a42dc38e643aeb5032b",
+      "origin": "ai"
+    },
+    "dataList[key=N999106].displayName": {
+      "pl": "Pracownik Salonu Obuwia Le Noir",
+      "kr_sha256": "e4b2c1509e9840fdd6b3cec90ea02b75b5e1ea5398d95691b3abe0387ffd0ab0",
+      "en_sha256": "01c7bc21095a1205c21e7351a616146ddd8fa7bebbd371167d993eccc13ee93d",
+      "origin": "ai"
+    }
+  }
+}

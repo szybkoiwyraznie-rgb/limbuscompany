@@ -1,0 +1,154 @@
+{
+  "entries": {
+    "dataList[key=N203006].displayName": {
+      "pl": "Oswojona Skóra",
+      "kr_sha256": "9bf03a84eccc19be03dd5c5daa3dee5105d3b44fafe0500bf998ce8005748746",
+      "en_sha256": "380728cafee1acf8817f1d344257150e2e9ff7e531a13959c308fe48b85b5e04",
+      "origin": "ai"
+    },
+    "dataList[key=N203008].displayName": {
+      "pl": "Pełzająca Skóra",
+      "kr_sha256": "77c4b44c38cc61bd608e5f52dda1dc969194d84e27975ef7e4611d63aded3daf",
+      "en_sha256": "fdace1115f818875b62480756bc1a5bbbc200fccfbae8fc0c90ce5d41d323c22",
+      "origin": "ai"
+    },
+    "dataList[key=N203010].displayName": {
+      "pl": "Skórzana Rękawica",
+      "kr_sha256": "dd665b29b1e1924cfbffeb906ee3cbdc7dc34ef6e2c75fc8c941fc3e93b5931d",
+      "en_sha256": "d1281ce9db094dc1e299f98bfbfbed65c5fb0fbc876e17578759b0e3454c4764",
+      "origin": "ai"
+    },
+    "dataList[key=N203014].displayName": {
+      "pl": "Czarna Nić",
+      "kr_sha256": "c174d552171dbaf4b44c59359a99b8b75ec5781b866b6b29c2ecdd3c4d0a59f1",
+      "en_sha256": "9a14c91ec91cdae228c648757c0c5c1f086ee44832012b0e30b3e3cad6f147d8",
+      "origin": "ai"
+    },
+    "dataList[key=N203101].displayName": {
+      "pl": "Porzucona Skóra",
+      "kr_sha256": "b1bcd7f78e6fcbf8262bcb11da42c773d245a1c0189ec57c7e6c0b9ff72fcc20",
+      "en_sha256": "02817f5f19aa09b69f47829c49fb8effd3d46b9fef13f3af0f3abb83022e870d",
+      "origin": "ai"
+    },
+    "dataList[key=N203102].displayName": {
+      "pl": "Rozwścieczona Porzucona Skóra",
+      "kr_sha256": "2ffd87ab68da250b8d2b887f1344d78d70a6861e5065622abefe1306dc97e3dc",
+      "en_sha256": "4a2c0d301da0f37897d38fcb5ef609754b74fdad57df511efc0b40a50d3b9d37",
+      "origin": "ai"
+    },
+    "dataList[key=N203103].displayName": {
+      "pl": "Rękawica ze Złotej Skóry",
+      "kr_sha256": "a795a82b6d08ccd87452a82f649e8774fb697b4a091136e9082bd06ef7f647f7",
+      "en_sha256": "9c053e789081d292834ea1729777b123d4886033993342c9910643f68c6396a0",
+      "origin": "ai"
+    },
+    "dataList[key=N203104].displayName": {
+      "pl": "Skórzany Ojciec",
+      "kr_sha256": "1b90ce4618358386be5f08c837b31167c661feed645797d612b3a64d197fcbb2",
+      "en_sha256": "4a9336ca9099968366369a03cee620520a4d858f446b86daf441242be52d902e",
+      "origin": "ai"
+    },
+    "dataList[key=N203105].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N203106].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N203107].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N203108].displayName": {
+      "pl": "Skórzana Rękawica",
+      "kr_sha256": "dd665b29b1e1924cfbffeb906ee3cbdc7dc34ef6e2c75fc8c941fc3e93b5931d",
+      "en_sha256": "d1281ce9db094dc1e299f98bfbfbed65c5fb0fbc876e17578759b0e3454c4764",
+      "origin": "ai"
+    },
+    "dataList[key=N203109].displayName": {
+      "pl": "Portfel z Denimu",
+      "kr_sha256": "65a0b39cf3e48603cea8d3c108f9dfaed94d04e3e703491278b8c5b644c575ca",
+      "en_sha256": "e5080affdfbc1872d58bc5466a9f3070a73bfd41af2f544b587f30650ccd7254",
+      "origin": "ai"
+    },
+    "dataList[key=N203110].displayName": {
+      "pl": "Rękawica z Poduszką na Szpilki",
+      "kr_sha256": "710bb52506edb4302888ac3434bae71516ed20ced90bac359adfe1250c80e3d8",
+      "en_sha256": "996380c15b0845e55962ccaff6782884662979dd8a9d71831df990c1aa9eea73",
+      "origin": "ai"
+    },
+    "dataList[key=N203111].displayName": {
+      "pl": "Rozmiękające Żółte Łzy",
+      "kr_sha256": "28149f515c794aaa851c11524f0efb249edd158b6d0fa45db804df39a717d282",
+      "en_sha256": "033043d1a992bda3c0d515a2c8daf28309dfa9eb71950f931bd1fc8a22bd6a9b",
+      "origin": "ai"
+    },
+    "dataList[key=N203112].displayName": {
+      "pl": "Ropiejące Czerwone Łzy",
+      "kr_sha256": "57437011d00f98f73c0dd1e905290ba6d65458c225bd556a77d6c89e6bcc5985",
+      "en_sha256": "c6b44361f8be266532da9ac66e8bc47d7f555d856448c6f998eda0f795af5beb",
+      "origin": "ai"
+    },
+    "dataList[key=N203113].displayName": {
+      "pl": "Przepełnione Niebieskie Łzy",
+      "kr_sha256": "c7c5b9b3056a9bb5f54d877fd90ebb8b5269898725ab6b0b7c4aa07c5c20b537",
+      "en_sha256": "9eb5746c1b24586a03fe34a9e5886eda3a82bf01c6456130ba4608bc8d0aee19",
+      "origin": "ai"
+    },
+    "dataList[key=N203114].displayName": {
+      "pl": "Wirująca Karuzela",
+      "kr_sha256": "44e004e02c5131bff044df03d73fda1883dee78748b7a7f355645b0efd48d43a",
+      "en_sha256": "2a0c799f9f180c8d1a83d243fcab5e22019c305ee2f2860f1e6b56b2de8e43d2",
+      "origin": "ai"
+    },
+    "dataList[key=N203115].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N203116].displayName": {
+      "pl": "Pracownik Le Rouge [Napromieniony]",
+      "kr_sha256": "47700443d32cb17e94e9d86dc52a5d6a7d080cb2fe3f83fd75e2c8892007a1b3",
+      "en_sha256": "3c448a7900901ddb9947c97f0f07419ad80e66268d079ec303b4d4687ed019a8",
+      "origin": "ai"
+    },
+    "dataList[key=N203117].displayName": {
+      "pl": "Zbrylona Pełzająca Skóra",
+      "kr_sha256": "07f01f150c468a239c3499dc9e96cdf289cf2555225e464a967e29f20abf7cee",
+      "en_sha256": "4654bc21f3a4e8d4177dc5efa0251c1f793c7028dae896d2a515c0067fabf9b2",
+      "origin": "ai"
+    },
+    "dataList[key=N203118].displayName": {
+      "pl": "Poduszka na Szpilki",
+      "kr_sha256": "fa6daa484d16481d98551786eb51057f3f7a6f9106f62ce27ea78b440237f61f",
+      "en_sha256": "dd9ed80c8d061b05b88703a9db08a41326747af3ff5564a2c8e92e454883247f",
+      "origin": "ai"
+    },
+    "dataList[key=N203119].displayName": {
+      "pl": "Wygarbowany Więzień",
+      "kr_sha256": "785b2e474dfd43bf6ac19b370516f61b2cb0bd500967ad7d870b9f0b377590c8",
+      "en_sha256": "60a533d5fbfc4b153c209ae9ad10e912b41668b4beb9f73201d0eb106a82aaa7",
+      "origin": "ai"
+    },
+    "dataList[key=N203120].displayName": {
+      "pl": "Pełzająca Skóra",
+      "kr_sha256": "77c4b44c38cc61bd608e5f52dda1dc969194d84e27975ef7e4611d63aded3daf",
+      "en_sha256": "fdace1115f818875b62480756bc1a5bbbc200fccfbae8fc0c90ce5d41d323c22",
+      "origin": "ai"
+    },
+    "dataList[key=N203121].displayName": {
+      "pl": "Oswojona Skóra",
+      "kr_sha256": "9bf03a84eccc19be03dd5c5daa3dee5105d3b44fafe0500bf998ce8005748746",
+      "en_sha256": "380728cafee1acf8817f1d344257150e2e9ff7e531a13959c308fe48b85b5e04",
+      "origin": "ai"
+    }
+  }
+}

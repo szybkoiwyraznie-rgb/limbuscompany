@@ -1,0 +1,190 @@
+{
+  "entries": {
+    "dataList[key=N202202].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N202203].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N202204].displayName": {
+      "pl": "Czerwona Igiełka",
+      "kr_sha256": "d03fabd25c19b9121c46dec47a86197bfebbdb53c6d9f147cd1f48d7618d13ae",
+      "en_sha256": "e6cc96ba629c02e0bb743cbab27ec5eeef5b1fff7dbbd93dfca675b296acd96e",
+      "origin": "ai"
+    },
+    "dataList[key=N202206].displayName": {
+      "pl": "Zielona Igiełka",
+      "kr_sha256": "cd435a1de912a3bd953d2fe1d9a082ac816289ab17ba4a62bedbb718eb9ef10a",
+      "en_sha256": "4d5ddc7875a459916ad9758b18bc13a34e84221aa17b85081a49d6ccec70d8b7",
+      "origin": "ai"
+    },
+    "dataList[key=N202207].displayName": {
+      "pl": "Pracownik Le Noir",
+      "kr_sha256": "9c276a618eca19b6e8cf4a9edb70a13fde7830bac1a4d245f456a53b789feec5",
+      "en_sha256": "b65be5f49f08d9b287aae5587aca25daa5447dca4039ab44335896edad325c76",
+      "origin": "ai"
+    },
+    "dataList[key=N202208].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N202211].displayName": {
+      "pl": "Rozmiękające Żółte Łzy",
+      "kr_sha256": "28149f515c794aaa851c11524f0efb249edd158b6d0fa45db804df39a717d282",
+      "en_sha256": "033043d1a992bda3c0d515a2c8daf28309dfa9eb71950f931bd1fc8a22bd6a9b",
+      "origin": "ai"
+    },
+    "dataList[key=N202212].displayName": {
+      "pl": "Ropiejące Czerwone Łzy",
+      "kr_sha256": "57437011d00f98f73c0dd1e905290ba6d65458c225bd556a77d6c89e6bcc5985",
+      "en_sha256": "c6b44361f8be266532da9ac66e8bc47d7f555d856448c6f998eda0f795af5beb",
+      "origin": "ai"
+    },
+    "dataList[key=N202213].displayName": {
+      "pl": "Przepełnione Niebieskie Łzy",
+      "kr_sha256": "c7c5b9b3056a9bb5f54d877fd90ebb8b5269898725ab6b0b7c4aa07c5c20b537",
+      "en_sha256": "9eb5746c1b24586a03fe34a9e5886eda3a82bf01c6456130ba4608bc8d0aee19",
+      "origin": "ai"
+    },
+    "dataList[key=N202214].displayName": {
+      "pl": "Kapłan Le Noir",
+      "kr_sha256": "f3fe2eaf7e99d653ab75571b9316db8d71e713c4f85df89124ea3a20e667976d",
+      "en_sha256": "33e66383ad7f9bda7ba0d1bd3722bad54ace65b2d894eea32c2632fde3b25934",
+      "origin": "ai"
+    },
+    "dataList[key=N202215].displayName": {
+      "pl": "Pracownik Maison du Noir",
+      "kr_sha256": "130f4c93767f6b616c4e02bbdcab73f782c16b3ffd0a5e71a541626cccc0444b",
+      "en_sha256": "7bd9213cf11f00c8f8c3439f4cfd058c70e77fbd1c5073b30d1532ce6221ed3d",
+      "origin": "ai"
+    },
+    "dataList[key=N202216].displayName": {
+      "pl": "Pracownik Salonu Obuwia Le Noir",
+      "kr_sha256": "e4b2c1509e9840fdd6b3cec90ea02b75b5e1ea5398d95691b3abe0387ffd0ab0",
+      "en_sha256": "01c7bc21095a1205c21e7351a616146ddd8fa7bebbd371167d993eccc13ee93d",
+      "origin": "ai"
+    },
+    "dataList[key=N202217].displayName": {
+      "pl": "Pracownik Salonu Contempora Le Noir",
+      "kr_sha256": "3019ebdf2066f71a83528823a31f05b072f96b3042b09c57308c0aca16e4b96b",
+      "en_sha256": "8a3a72b0dc253aa38b720badf72a2aee4dc2c0e2ee5f8a42dc38e643aeb5032b",
+      "origin": "ai"
+    },
+    "dataList[key=N202271].displayName": {
+      "pl": "Rozwścieczony Kapłan Le Noir",
+      "kr_sha256": "ca0106cc6c7dacfc05c1389336e3b668c11829893a9d0ca672dfe78a55b26618",
+      "en_sha256": "f44f5f44a9c872777d3adb88106e15f9ffc2512d648a89219872b988a0a97a6b",
+      "origin": "ai"
+    },
+    "dataList[key=N202272].displayName": {
+      "pl": "Rozwścieczony Pracownik Le Noir",
+      "kr_sha256": "3ef2b9c9245e2173259f68ad4e847f242c2d40b939d4f75d98a6a8099504a8e3",
+      "en_sha256": "305c8e568441274eb155c660f5142e13cc66b8c07f42d2cc864b73c81b9f3c37",
+      "origin": "ai"
+    },
+    "dataList[key=N202273].displayName": {
+      "pl": "Rozwścieczona Czerwona Igiełka",
+      "kr_sha256": "5f7da87880abe16aa33bd93af6739eb5053b457a3b1b1a03d1d1eb63795170a9",
+      "en_sha256": "19027ec8591d53c1393bb3a69ae8306e78b4cf13fbf98dc76ef631b3c1c376d6",
+      "origin": "ai"
+    },
+    "dataList[key=N202274].displayName": {
+      "pl": "Rozwścieczona Zielona Igiełka",
+      "kr_sha256": "eb5cb8be43a1a51f2d46612058cab025f80a8be5d75d6eb1ad4b85473e8f7fd2",
+      "en_sha256": "e0f4c37afe3e854aad22b8af7acd8d422da1b6150b4665ebaf380477ea7c938f",
+      "origin": "ai"
+    },
+    "dataList[key=N202275].displayName": {
+      "pl": "Rozwścieczone Rozmiękające Żółte Łzy",
+      "kr_sha256": "ba04635fa69791f3a3affaa15bf61b9cd840d161ad10a689e79295ed46799f11",
+      "en_sha256": "12105308e0595c56a730a7faa293acadd7e6b0e705ea959852a43f53dc5d81d9",
+      "origin": "ai"
+    },
+    "dataList[key=N202276].displayName": {
+      "pl": "Rozwścieczone Ropiejące Czerwone Łzy",
+      "kr_sha256": "5050be9e77b5c84d5548e6afd50805c3380ea301d7c18b92a0e3ec01e4b95c7f",
+      "en_sha256": "25d9eb02ddd7b8eea7839bd1f7ba19a8c128bc49c79a9e59c87963bc062c5d59",
+      "origin": "ai"
+    },
+    "dataList[key=N202277].displayName": {
+      "pl": "Rozwścieczone Przepełnione Niebieskie Łzy",
+      "kr_sha256": "10510c9494b99cf7b5c5e4c5f4f384d7304e17be1026e1bcc8f96b1625387a0e",
+      "en_sha256": "2154005b9cddc7d082a53f6208b54ef57813d0fd89fb0bb8a270f1cd992a7344",
+      "origin": "ai"
+    },
+    "dataList[key=N202278].displayName": {
+      "pl": "Rozwścieczony Kapłan Le Noir",
+      "kr_sha256": "ca0106cc6c7dacfc05c1389336e3b668c11829893a9d0ca672dfe78a55b26618",
+      "en_sha256": "f44f5f44a9c872777d3adb88106e15f9ffc2512d648a89219872b988a0a97a6b",
+      "origin": "ai"
+    },
+    "dataList[key=N202279].displayName": {
+      "pl": "Rozwścieczony Pracownik Le Noir",
+      "kr_sha256": "3ef2b9c9245e2173259f68ad4e847f242c2d40b939d4f75d98a6a8099504a8e3",
+      "en_sha256": "305c8e568441274eb155c660f5142e13cc66b8c07f42d2cc864b73c81b9f3c37",
+      "origin": "ai"
+    },
+    "dataList[key=N202280].displayName": {
+      "pl": "Rozwścieczona Czerwona Igiełka",
+      "kr_sha256": "5f7da87880abe16aa33bd93af6739eb5053b457a3b1b1a03d1d1eb63795170a9",
+      "en_sha256": "19027ec8591d53c1393bb3a69ae8306e78b4cf13fbf98dc76ef631b3c1c376d6",
+      "origin": "ai"
+    },
+    "dataList[key=N202281].displayName": {
+      "pl": "Rozwścieczona Zielona Igiełka",
+      "kr_sha256": "eb5cb8be43a1a51f2d46612058cab025f80a8be5d75d6eb1ad4b85473e8f7fd2",
+      "en_sha256": "e0f4c37afe3e854aad22b8af7acd8d422da1b6150b4665ebaf380477ea7c938f",
+      "origin": "ai"
+    },
+    "dataList[key=N202290].displayName": {
+      "pl": "Kierownik Piętra -2",
+      "kr_sha256": "5dc66910f2075edb5351cc55f6bc13906b08ea7dbc7853b7762c94a41d1e0149",
+      "en_sha256": "6a9e6d305e2f87c7110241ce21227a7356af2bb3020f4e22136c77bdd2db7a9c",
+      "origin": "ai"
+    },
+    "dataList[key=N202291].displayName": {
+      "pl": "Czerwona Przędza Obłudy",
+      "kr_sha256": "6904109c7bb47bfd398733e9395c86e058a860c7ba03559b056af12c9fa9c7da",
+      "en_sha256": "300bd1f72520073f2c1e95e879ff1395eedde3738067ef62f862216a9f061a78",
+      "origin": "ai"
+    },
+    "dataList[key=N202292].displayName": {
+      "pl": "Biała Przędza Oszustwa",
+      "kr_sha256": "73a5a0ae2d73fbecb4cf0882a7951e9957ac1eece6874f94a65de2b48e03acd7",
+      "en_sha256": "90acc99b8872e504b2b0e6f00d6af5b8aca5461e615af03d3b877ad3c85a45c9",
+      "origin": "ai"
+    },
+    "dataList[key=N202293].displayName": {
+      "pl": "Niebieska Przędza Zaniedbania",
+      "kr_sha256": "24dec772d93c69625cd5f160c1fb3c308e06d17a15984e9b65a3a7be79f93b3a",
+      "en_sha256": "79452e006eb4d78a359a49770196773f36f57c2ec2e9a55bac1c03972ed9df20",
+      "origin": "ai"
+    },
+    "dataList[key=N202294].displayName": {
+      "pl": "Rozmiękające Żółte Łzy",
+      "kr_sha256": "28149f515c794aaa851c11524f0efb249edd158b6d0fa45db804df39a717d282",
+      "en_sha256": "033043d1a992bda3c0d515a2c8daf28309dfa9eb71950f931bd1fc8a22bd6a9b",
+      "origin": "ai"
+    },
+    "dataList[key=N202295].displayName": {
+      "pl": "Ropiejące Czerwone Łzy",
+      "kr_sha256": "57437011d00f98f73c0dd1e905290ba6d65458c225bd556a77d6c89e6bcc5985",
+      "en_sha256": "c6b44361f8be266532da9ac66e8bc47d7f555d856448c6f998eda0f795af5beb",
+      "origin": "ai"
+    },
+    "dataList[key=N202296].displayName": {
+      "pl": "Przepełnione Niebieskie Łzy",
+      "kr_sha256": "c7c5b9b3056a9bb5f54d877fd90ebb8b5269898725ab6b0b7c4aa07c5c20b537",
+      "en_sha256": "9eb5746c1b24586a03fe34a9e5886eda3a82bf01c6456130ba4608bc8d0aee19",
+      "origin": "ai"
+    }
+  }
+}

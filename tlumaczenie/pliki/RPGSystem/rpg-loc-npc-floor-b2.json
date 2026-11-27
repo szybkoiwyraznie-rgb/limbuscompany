@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[key=N202001].displayName": {
+      "pl": "Siostra Kromer",
+      "kr_sha256": "319351aca812254025b20f7ece84a7e3b7e3bc7188dc2605530ab600feddd4b8",
+      "en_sha256": "3ee72c65677d9d6687a3be39a8c914313dcf9937510f7aef782e6f230e0eb383",
+      "origin": "ai"
+    },
+    "dataList[key=N202002].displayName": {
+      "pl": "Kierownik Piętra -2",
+      "kr_sha256": "5dc66910f2075edb5351cc55f6bc13906b08ea7dbc7853b7762c94a41d1e0149",
+      "en_sha256": "6a9e6d305e2f87c7110241ce21227a7356af2bb3020f4e22136c77bdd2db7a9c",
+      "origin": "ai"
+    },
+    "dataList[key=N202003].displayName": {
+      "pl": "Czerwona Igiełka",
+      "kr_sha256": "d03fabd25c19b9121c46dec47a86197bfebbdb53c6d9f147cd1f48d7618d13ae",
+      "en_sha256": "e6cc96ba629c02e0bb743cbab27ec5eeef5b1fff7dbbd93dfca675b296acd96e",
+      "origin": "ai"
+    },
+    "dataList[key=N202004].displayName": {
+      "pl": "Igiełka w Kolejce",
+      "kr_sha256": "c810e941a1c066d7d9b6152249432bac44518ac861d115cd3f04ff6cd41792ba",
+      "en_sha256": "d5baad9b45b55cdbcfbd7d512e705f6d269394cc6ee7c594d3132042ba71b710",
+      "origin": "ai"
+    },
+    "dataList[key=N202005].displayName": {
+      "pl": "Le Noir w Kolejce",
+      "kr_sha256": "a578133d8093d581d2fc2280f510deb2b02164b9051c8baba44b8bf5d49c6d85",
+      "en_sha256": "26cb60d76338241494843d19f6e77495075d899ae5c7a0d13c04c251f6065fe4",
+      "origin": "ai"
+    },
+    "dataList[key=N202006].displayName": {
+      "pl": "Naked",
+      "kr_sha256": "2fc9eb57b6a0d1a1b384d1a13291bba7c882a5d247a6fcd7f3f6284c6f839f22",
+      "en_sha256": "472fd90235af5ed4042f26acb5df9c335dd3d9d1407303388cbd8d2714605d22",
+      "origin": "ai"
+    },
+    "dataList[key=N202015].displayName": {
+      "pl": "Paleta",
+      "kr_sha256": "8fd7bf321f4cb1420582365f54f6daa1ac232e29d435d31c240bdd76171dda13",
+      "en_sha256": "85794effd6e85e5612a80a6fcbf2e613e534500eb2ca2f312bd16c76f44082bf",
+      "origin": "ai"
+    },
+    "dataList[key=N202021].displayName": {
+      "pl": "Król Szycia",
+      "kr_sha256": "36813d01500ae7954abcef8e0a4493e7e62b3baa76e25eb30f5395f4f2e5ae9b",
+      "en_sha256": "76a23e18584ea3c10bdc756cc38364b869f49cabf3749ddc090471f474e24211",
+      "origin": "ai"
+    },
+    "dataList[key=N202022].displayName": {
+      "pl": "Putty",
+      "kr_sha256": "4ff97d99c8605be8f3de3ca9fbee9eeae2f35397dd1436167f7aa7fcd01e55d6",
+      "en_sha256": "9b5fdd443bbeeaa19405d20abfd7866b4a65cd4e82b82f50e68f6a4a53c40a76",
+      "origin": "ai"
+    },
+    "dataList[key=N202025].displayName": {
+      "pl": "Pracująca Igiełka",
+      "kr_sha256": "b686667d4891e980eda41835290c1cbf764b38cface529067434fdd4b1939d9f",
+      "en_sha256": "e33a7a93cefda5ee4b145a91a56e1d82172183b0a233b47d41ebe04d9f8f7145",
+      "origin": "ai"
+    },
+    "dataList[key=N202026].displayName": {
+      "pl": "Pracująca Igiełka",
+      "kr_sha256": "b686667d4891e980eda41835290c1cbf764b38cface529067434fdd4b1939d9f",
+      "en_sha256": "e33a7a93cefda5ee4b145a91a56e1d82172183b0a233b47d41ebe04d9f8f7145",
+      "origin": "ai"
+    },
+    "dataList[key=N202027].displayName": {
+      "pl": "Pracująca Igiełka",
+      "kr_sha256": "b686667d4891e980eda41835290c1cbf764b38cface529067434fdd4b1939d9f",
+      "en_sha256": "e33a7a93cefda5ee4b145a91a56e1d82172183b0a233b47d41ebe04d9f8f7145",
+      "origin": "ai"
+    },
+    "dataList[key=N202028].displayName": {
+      "pl": "Igiełka w Kolejce",
+      "kr_sha256": "c810e941a1c066d7d9b6152249432bac44518ac861d115cd3f04ff6cd41792ba",
+      "en_sha256": "d5baad9b45b55cdbcfbd7d512e705f6d269394cc6ee7c594d3132042ba71b710",
+      "origin": "ai"
+    },
+    "dataList[key=N202029].displayName": {
+      "pl": "Igiełka w Kolejce",
+      "kr_sha256": "c810e941a1c066d7d9b6152249432bac44518ac861d115cd3f04ff6cd41792ba",
+      "en_sha256": "d5baad9b45b55cdbcfbd7d512e705f6d269394cc6ee7c594d3132042ba71b710",
+      "origin": "ai"
+    },
+    "dataList[key=N202030].displayName": {
+      "pl": "Le Noir w Kolejce",
+      "kr_sha256": "a578133d8093d581d2fc2280f510deb2b02164b9051c8baba44b8bf5d49c6d85",
+      "en_sha256": "26cb60d76338241494843d19f6e77495075d899ae5c7a0d13c04c251f6065fe4",
+      "origin": "ai"
+    },
+    "dataList[key=N202035].displayName": {
+      "pl": "Zmatowiały Złoty Kokon",
+      "kr_sha256": "f593e3993a2e63f8cd9e6816484b60823d37ba8f8b84e3c57fdacc64df301e05",
+      "en_sha256": "21026f4a49184f27c7a7308f0a00bd3d2948d52da4ad3878c36af9ebee33aab0",
+      "origin": "ai"
+    }
+  }
+}
