@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=8161].name": {
+      "pl": "Peccatulum Irae??",
+      "kr_sha256": "136e9454c7164097730ccac9e2c9c1f2a705a1e969aa177c87dd303667afd309",
+      "en_sha256": "af8a7313eace0b80fd39f91499e8fd1290595f6e792d0695adbe8292444f26ea",
+      "origin": "ai"
+    },
+    "dataList[id=816602].name": {
+      "pl": "The Chain",
+      "kr_sha256": "598e6c0c7ea45b78b41573a068a450e0a6040b5c97dc967f12cc74710f785dbd",
+      "en_sha256": "b47dea3511fb0f96e94df1f7ed7912030b031f220b1a7d126872820ad3e82735",
+      "origin": "ai"
+    },
+    "dataList[id=8166].name": {
+      "pl": "Heathcliff, The Heartbroken",
+      "kr_sha256": "8e6040711e34cc14779a0a90fbb63969edf184db7b94712ccde0c4a8d3f836ec",
+      "en_sha256": "858a393fbc4ff220f3df60d5587efc90782d47520a523eb295047c314bd03aea",
+      "origin": "ai"
+    },
+    "dataList[id=8167].name": {
+      "pl": "Josephine of the Wild Hunt",
+      "kr_sha256": "56e3674f3abd332f6fbf6f3f441d4483776bc01eff9d2d4a555a6d39d42fdf4d",
+      "en_sha256": "7b5360ffa3874bf92b867196702ba67eb036e5cac26b585cbd5072bc751a17c4",
+      "origin": "ai"
+    },
+    "dataList[id=8168].name": {
+      "pl": "Hindley of the Wild Hunt",
+      "kr_sha256": "f8f77c8c0f088fc22bcc8728595aee01c64ae2537f7a48081c6df911af1a86a7",
+      "en_sha256": "b3dfef012de49e8249b0651f4e1dd292485791e8fdd453417be4ed7f6ff5eda4",
+      "origin": "ai"
+    },
+    "dataList[id=8169].name": {
+      "pl": "Linton of the Wild Hunt",
+      "kr_sha256": "32293b6b4383da1987c881c311e952b25ba3d788f124afcdbfaa76163025e588",
+      "en_sha256": "169299187e486bf3915fbf24b16cc61153f4178de7c843bdaadd1f361cfdc324",
+      "origin": "ai"
+    },
+    "dataList[id=8170].name": {
+      "pl": "The Reaved Lamenter of the Wild Hunt",
+      "kr_sha256": "595e1790ea034547f401911442a309859db4fa1d42bf414443710effc13fefa6",
+      "en_sha256": "ee20ad3a90bc6c60c719b7d615a6dedd97231bd6a44fd22e98b1834b08c27d53",
+      "origin": "ai"
+    },
+    "dataList[id=8171].name": {
+      "pl": "Nelly",
+      "kr_sha256": "c595b92faaa82b9c4cfbb8608364c59f25047b940cc6b41465fdf55b3c2895e4",
+      "en_sha256": "35bfdf65c705f454159c6d84e368245c7e1c0787c9e60d63da36a54b6f99df79",
+      "origin": "ai"
+    },
+    "dataList[id=8172].name": {
+      "pl": "Erlking Heathcliff",
+      "kr_sha256": "0215b6aae4924317c73242213ee8a7bf07c77e66ebcfa596c84417c9d57ca2d1",
+      "en_sha256": "f5055ae8872cdab767f38651fc6a7d9078c6e772729b6592429e7eeddd15f009",
+      "origin": "ai"
+    },
+    "dataList[id=8173].name": {
+      "pl": "Erlking Heathcliff",
+      "kr_sha256": "0215b6aae4924317c73242213ee8a7bf07c77e66ebcfa596c84417c9d57ca2d1",
+      "en_sha256": "f5055ae8872cdab767f38651fc6a7d9078c6e772729b6592429e7eeddd15f009",
+      "origin": "ai"
+    },
+    "dataList[id=8174].name": {
+      "pl": "Every Catherine",
+      "kr_sha256": "b7aa386897433efda52db3dff946ddcfb8d047bd1d7a4f447d4063d4fdcb18e7",
+      "en_sha256": "f48b086e99c184cde3e2ee6fc91075504abff91181a2691b1d0ecb00e90df47f",
+      "origin": "ai"
+    },
+    "dataList[id=819201].name": {
+      "pl": "Left Hand",
+      "kr_sha256": "a980a213b1d3c30601b82873c1b84ad0fc10d99093570b3d6646ff4b8c28b2e1",
+      "en_sha256": "2a8329337b61e64f7a08f4ad95f983eb3efff03f73f10355f4291d1e21492714",
+      "origin": "ai"
+    },
+    "dataList[id=8192].name": {
+      "pl": "Left Hand of Every Catherine",
+      "kr_sha256": "99378790003d72152c9c6f4bfa3c33d5765ec10e0218f32143f2fb06d3cc2b68",
+      "en_sha256": "7645d5bee46cc7079b310f2eb7d15e273d779f2174fe839d2e26cdde49bf6ee4",
+      "origin": "ai"
+    },
+    "dataList[id=819301].name": {
+      "pl": "Right Hand",
+      "kr_sha256": "3e8c5f7fa68d11c1a56c8b5fb1c72ed88589fe0eeb8cd2ce0326e1aa9429afaa",
+      "en_sha256": "b961ce6304f7180fe7d4dce49782433fb33a9b6823cc168fc04466a7c28c47e1",
+      "origin": "ai"
+    },
+    "dataList[id=8193].name": {
+      "pl": "Right Hand of Every Catherine",
+      "kr_sha256": "d4a24fb9a1eb4fcfa89f47cc7cdca12fc7da2cc91663e1b04484b79074ddff7f",
+      "en_sha256": "edf8ce53d1d13caa32df3702e793687397fecbf648e7fa4ce629fc0bbb965570",
+      "origin": "ai"
+    },
+    "dataList[id=9999].name": {
+      "pl": "Vergilius",
+      "kr_sha256": "c17124f4fb2ab4276f551a7e1bf05b8cc4c900b7ae180a011d42f66344f5aea9",
+      "en_sha256": "e449e72b3014d1b6ab496b37e0d75809028066486a9cf88c7b7a4636a88e568c",
+      "origin": "ai"
+    }
+  }
+}

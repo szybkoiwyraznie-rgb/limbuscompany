@@ -1,0 +1,202 @@
+{
+  "entries": {
+    "dataList[id=9012801].desc": {
+      "pl": "podczas Starcia, Moc Starcia -1",
+      "kr_sha256": "dbf3aefd0f6eaba8879341728d28f764c2aa947c491f44d9f02df7567a3144e9",
+      "en_sha256": "5f20c3014ee87245a8e6421420db7ea42012f9e6695e2c56fe7bc5bd75087e2f",
+      "origin": "ai"
+    },
+    "dataList[id=9012801].name": {
+      "pl": "Lenient Rule Fulfillment",
+      "kr_sha256": "6eb9f38f3026820e6538922ed1ecf379ea2e57bda611a8f03ff1b537ff5ebd61",
+      "en_sha256": "09e03d8571c50117a03ff4c6a6a15b1192d61fe19d4fe1079aa0a7b27941ef5b",
+      "origin": "ai"
+    },
+    "dataList[id=9012801].summary": {
+      "pl": "Moc Starcia -1",
+      "kr_sha256": "7ecf390c19f3b6c1562e02ed0b8eb41ca4d17f35ef8d116a0d57216a91052c08",
+      "en_sha256": "fc6e0e5ca7adebd355a4e33290da7a050bc7bb07be21baae4dd8e82c1f8cae56",
+      "origin": "ai"
+    },
+    "dataList[id=9012802].desc": {
+      "pl": "przy trafieniu w cel z [Laceration] przywraca 2 SP",
+      "kr_sha256": "1647a987c3b4918bc01f8ed6fbcd1b1ad2b87a0341db8d254a231e4bce20460f",
+      "en_sha256": "6d86fc0c3c729bcc7ea069208748d2e23714a7963dc168f48e75337e7fe9c5b0",
+      "origin": "ai"
+    },
+    "dataList[id=9012802].name": {
+      "pl": "Bloody Point",
+      "kr_sha256": "2a521c629807accb6f99af7147a27ca73318e212c3d36030a2b8b16802e53a9e",
+      "en_sha256": "4f69935217f6dded462dc132927b0449e22132ef7ac64d3646708fbc51c79c92",
+      "origin": "ai"
+    },
+    "dataList[id=9012802].summary": {
+      "pl": "przywraca 2 SP",
+      "kr_sha256": "3690a60d9ee2c713b49e873f1f724f28326b0f62dd54aa2e8bfebbfd20b42b6a",
+      "en_sha256": "44a6100eae5437c21ca0ad8215e0c4442adf2f5d61fe31c79d10195072b1ca4f",
+      "origin": "ai"
+    },
+    "dataList[id=9013001].desc": {
+      "pl": "gdy sojusznik zostaje pokonany, zyskuje 1 Slot w następnej turze (maks. 2)",
+      "kr_sha256": "01f1684b166fbbc54445b47d073c83c96e2534e9fdc1f65e15d0cc8f0b5c628f",
+      "en_sha256": "b35f9543ec924cc71d4ad9509c590a6495abe58c34cd300bd21a8af37f27684d",
+      "origin": "ai"
+    },
+    "dataList[id=9013001].name": {
+      "pl": "Reinforcements",
+      "kr_sha256": "7cf75b31228f60d47f54a45f088e958c20e05c71c863bb70aa85666501d00c4a",
+      "en_sha256": "66c6d3c2c45da50c302889a232ff86ff1a16f49c6b9f07f10dbc21fee5d493f4",
+      "origin": "ai"
+    },
+    "dataList[id=9013101].desc": {
+      "pl": "podczas Starcia, Moc Starcia +1",
+      "kr_sha256": "0dc83d8c2cefa7085ffc370f21fa68a8bbf62577a349de949f99a3c58263b7a4",
+      "en_sha256": "20fce2fb07f4005ec9be05054833a822b5e221d8ed23848076927887395c24d0",
+      "origin": "ai"
+    },
+    "dataList[id=9013101].name": {
+      "pl": "Natural Style",
+      "kr_sha256": "d90154e7c77c1ead23fce36969f11d9871f8f0bd3ee0a78ad73f34a5f9fcce54",
+      "en_sha256": "76c64189512469b1e448d6dfa805964b231fe00828b5784b844115d61187798e",
+      "origin": "ai"
+    },
+    "dataList[id=9013101].summary": {
+      "pl": "Moc Starcia +1",
+      "kr_sha256": "aead141ecfbed3ac2f0b7b26ebce09e09ff8d87ed087d9f68e6d28a2ef441653",
+      "en_sha256": "baaa4fc8c8714120770e182c094d5bfa33a360a4e789cba2e420e10168714feb",
+      "origin": "ai"
+    },
+    "dataList[id=9013102].desc": {
+      "pl": "przy trafieniu w cel z [Laceration] przywraca 2 SP",
+      "kr_sha256": "1647a987c3b4918bc01f8ed6fbcd1b1ad2b87a0341db8d254a231e4bce20460f",
+      "en_sha256": "6d86fc0c3c729bcc7ea069208748d2e23714a7963dc168f48e75337e7fe9c5b0",
+      "origin": "ai"
+    },
+    "dataList[id=9013102].name": {
+      "pl": "Sanguine Pointillism",
+      "kr_sha256": "81ad6f93af4a54819afa59a0f23814384a9506883f82d17f2ec14d475c9b267e",
+      "en_sha256": "25157572eb5522ec273abfe9b5201c0ecf161a82c455940c1c0d055cd9b75a18",
+      "origin": "ai"
+    },
+    "dataList[id=9013301].desc": {
+      "pl": "gdy sojusznik zostaje pokonany, zyskuje 1 Slot w następnej turze (maks. 2)",
+      "kr_sha256": "01f1684b166fbbc54445b47d073c83c96e2534e9fdc1f65e15d0cc8f0b5c628f",
+      "en_sha256": "b35f9543ec924cc71d4ad9509c590a6495abe58c34cd300bd21a8af37f27684d",
+      "origin": "ai"
+    },
+    "dataList[id=9013301].name": {
+      "pl": "Reinforcements",
+      "kr_sha256": "7cf75b31228f60d47f54a45f088e958c20e05c71c863bb70aa85666501d00c4a",
+      "en_sha256": "66c6d3c2c45da50c302889a232ff86ff1a16f49c6b9f07f10dbc21fee5d493f4",
+      "origin": "ai"
+    },
+    "dataList[id=9013302].desc": {
+      "pl": "wygrana w Starciu: wszyscy sojusznicy (łącznie z tą jednostką) przywracają po 3 SP",
+      "kr_sha256": "61e75b49e687ace1330b6dacb94248ef8ffe79a1939f286fe7628d90243a006e",
+      "en_sha256": "7ab2915b1f0a558edfe0c63c4eb6a7457bbd0d29434ce6108fdf1936fedcdd82",
+      "origin": "ai"
+    },
+    "dataList[id=9013302].name": {
+      "pl": "A Single Point of Art",
+      "kr_sha256": "63a5d153f001543c9607fa0bd6993dcb505bd2e8d4a3af3f626c0874885162fe",
+      "en_sha256": "eb3ba59e85415169bce65ba925b730292baa1df15838cdd6000d6b131c7b1000",
+      "origin": "ai"
+    },
+    "dataList[id=9101501].desc": {
+      "pl": "Koniec tury: jeżeli SP tej jednostki wynosi -10 lub mniej, zyskuje 3 [AttackUp] w następnej turze.",
+      "kr_sha256": "eefef0274925ef764a3d62a18f7f6c2489539020c63532cb350ff6960e2907e4",
+      "en_sha256": "63ab2a26a66af2e001b1c50007cc1d783d5e864541fadcb963f2b97788dab2e9",
+      "origin": "ai"
+    },
+    "dataList[id=9101501].name": {
+      "pl": "Body Augment - Phys. Boost",
+      "kr_sha256": "0f3a8e7d773abfbd2ecd9aa46d457e5e897b25b89c76653ca0ca479e419b0a0c",
+      "en_sha256": "3d9938adc5e0405db411bc55aa55bcfa3d07e2cf081a743730ce98b70038ee59",
+      "origin": "ai"
+    },
+    "dataList[id=9101502].desc": {
+      "pl": "gdy sojusznik zostaje pokonany, zyskuje 1 Slot w następnej turze (maks. 3)",
+      "kr_sha256": "8c15ae8ba9c60df104886fa0625a3e8ab93e8b774dc46571bb6d5a7b7869f32f",
+      "en_sha256": "f9d98e6e269920af2ecca7d691f91ef3a04322613b84b7d744796bce1a79af2e",
+      "origin": "ai"
+    },
+    "dataList[id=9101502].name": {
+      "pl": "Reinforcements",
+      "kr_sha256": "7cf75b31228f60d47f54a45f088e958c20e05c71c863bb70aa85666501d00c4a",
+      "en_sha256": "66c6d3c2c45da50c302889a232ff86ff1a16f49c6b9f07f10dbc21fee5d493f4",
+      "origin": "ai"
+    },
+    "dataList[id=9101503].desc": {
+      "pl": "jeżeli jest w Panice, na koniec tury SP wraca do 0.",
+      "kr_sha256": "9df25427ce7a2c920aff93847db75927280e5ecbb434c31564a9233ce0294224",
+      "en_sha256": "9183bd86b9ea4d783cb99818225192178f783155e47f301e585a7e7595a4f19c",
+      "origin": "ai"
+    },
+    "dataList[id=9101503].name": {
+      "pl": "Body Augment - Cooldown",
+      "kr_sha256": "a6c0e3cab3ec32052e78c58f225dc97ab323e1ad665e920c56680f1ac86ae381",
+      "en_sha256": "2258e112ac1359ed031ad66238447d4db848701fd10cd43bdf4ee7e5c6515943",
+      "origin": "ai"
+    },
+    "dataList[id=9101504].desc": {
+      "pl": "za każdego pokonanego sojusznika zyskuje 2 [AttackDown] od następnej tury.",
+      "kr_sha256": "3bcf30d7af1c9b0dada307b888e8b6bc28fc0a16129d2155a6422648ee3022c2",
+      "en_sha256": "bb5c89765f49736b5a4cd556f2a18c871ee31211ec5a2cfaf8f3917bc65fea8c",
+      "origin": "ai"
+    },
+    "dataList[id=9101504].name": {
+      "pl": "This Can't Be",
+      "kr_sha256": "32b789a5348b37f5887ba4d01baa3bb2c758d4f19682812be08f46aff9b2666c",
+      "en_sha256": "7dcb68ef212c6289050eb702866df8a803fae560271ce5bb74960d81a07d4c16",
+      "origin": "ai"
+    },
+    "dataList[id=9101505].desc": {
+      "pl": "jeżeli wygrywa w 5. Starciu lub późniejszym, zadaje +50% obrażeń",
+      "kr_sha256": "be11e1d1d9b32fe1d017a67c6a20f372ff250e4c7501fc05d359b20cf74a1cdb",
+      "en_sha256": "e42a1acb9bc872f3e5b34fbfe33590bef0ef58041894ffd412d9a0afca9a6012",
+      "origin": "ai"
+    },
+    "dataList[id=9101505].name": {
+      "pl": "This Time, I Win...!",
+      "kr_sha256": "1fda15b608b45dea835e785562c7c3e1c985c6a97bbef56889943b0077f87c92",
+      "en_sha256": "b2220b948ed3ce4ac315c60c53d95d81583c3643101946796fb7cba4428dbe92",
+      "origin": "ai"
+    },
+    "dataList[id=9101601].desc": {
+      "pl": "Początek tury: nakłada 1 [Enhancement] na 2 innych sojuszników z najmniejszym SP\nna czas tej walki zyskuje 1 Slot za każdym razem, gdy sojusznik zostaje pokonany",
+      "kr_sha256": "7b325da18bf9a949a4c366de1ffa279b7ae514c059a3347717f29c928502d1f7",
+      "en_sha256": "d3aa89092bf21be2525438630dd89b301c07ff97bc789f1b16cc7fbaac76cde9",
+      "origin": "ai"
+    },
+    "dataList[id=9101601].name": {
+      "pl": "Dead Rabbits Boss?",
+      "kr_sha256": "13d47563af1f5367314cd66eb9eab2fcd4f09c84f40070ea76dcb5efb2afebca",
+      "en_sha256": "a8267518da3ea86f89eb981f1fd09dce71a6b4cbd156cc293ee870491c58e239",
+      "origin": "ai"
+    },
+    "dataList[id=9101604].desc": {
+      "pl": "gdy wróg pokonuje sojusznika, zyskuje 1 [Enhancement] i 1 [Agility] w następnej turze (do 3 razy na turę)",
+      "kr_sha256": "854cb83f9f952fffce760aa39ccb423a6a9ac21baa3288f923f8a93a92568ed3",
+      "en_sha256": "aca427a3dba20df2f3e07288d686243abd38635ef54d92d09632ba20c3b3ea62",
+      "origin": "ai"
+    },
+    "dataList[id=9101604].name": {
+      "pl": "Useless Fools...",
+      "kr_sha256": "6e605ea3f9f4f1a159830ea97f7b7cb6c97c087250149ba015a29043ead364e3",
+      "en_sha256": "72a3a2156d749208be061589a7476d5cbffa23e1a545dd7d77ae17fae6ca40b7",
+      "origin": "ai"
+    },
+    "dataList[id=9101605].desc": {
+      "pl": "przy trafieniu zadaje dodatkowe obrażenia Przebijające równe 50% zadanych obrażeń",
+      "kr_sha256": "2fa0db1cbae369417d58790875c1b4a83ce017269fa1058edbf16d3360c80d26",
+      "en_sha256": "e21c3dbc9643262d0ab13492cda1292f85448606cc1a7fe106f60bd776ecb5f4",
+      "origin": "ai"
+    },
+    "dataList[id=9101605].name": {
+      "pl": "Spiked Bat",
+      "kr_sha256": "7d6aa76bb7108698211e34a7aa81d1815dc6c531634bfe388c6a1ad9ae5dbaff",
+      "en_sha256": "3c0b0f0245bd60224b7462caebf669bed83524c87a633fb8da540aff4ad9c40b",
+      "origin": "ai"
+    }
+  }
+}

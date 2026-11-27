@@ -1,0 +1,131 @@
+672||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 부정적인 효과가 5개 이상이면, 이 코인 재사용 (2회)|[OnSucceedAttack] If target has 5+ negative effects, reuse this coin (2 times max)
+673||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 대상의 해제 가능한 부정적인 효과 무작위 하나 제거|[OnSucceedAttack] Remove 1 random removable negative effect applied on target
+674||(ulepszenie 1) — nazwa] ...|...
+675||(ulepszenie 1) — opis] [OnSucceedEvade] 정신력 5 회복 (최대 2회)|[OnSucceedEvade] Heal 5 SP (2 times max)
+676||Pasywka wroga [816101] — nazwa] 죄악 내성|Sin Nullification
+677||Pasywka wroga [816101] — opis] 흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Combustion] 피해 80% 감소.|Unless this unit is Staggered or Part Broken, take 80% less [Combustion] damage.
+678||Pasywka wroga [816102] — nazwa] 화염 전이|Proliferating Flame
+679||Pasywka wroga [816102] — opis] 대상에게 [Combustion]이 있을 때, 적중시 대상의 [Combustion] 절반만큼 [Combustion]을 조작 패널 양옆 인격에게 부여함.|If the target has [Combustion]: On Hit, spread half of [Combustion] on target to 2 units adjacent to the target on the Dashboard.
+680||Pasywka wroga [816601] — nazwa] 뒤엉킨 사냥|Chaotic Hunt
+681||Pasywka wroga [816601] — opis] 합 승리시, 다음 합에서 합 위력 -1 (최대 2)\n합 패배시, 다음 합에서 합 위력 +1 (최대 2)|Clash Win: Clash Power -1 for the next Clash (max 2)\nClash Lose: Clash Power +1 for the next Clash (max 2)
+682||Pasywka wroga [816602] — nazwa] 포기한 인간성|Humanity Abandoned
+683||Pasywka wroga [816602] — opis] 턴 시작시, [AttackDmgUp] 2 얻음.|Turn Start: gain 2 [AttackDmgUp].
+684||Pasywka wroga [816603] — nazwa] 자루|Sack
+685||Pasywka wroga [816603] — opis] - 사슬이 있는 동안에는 모든 부위가 [Enhancement]를 1, [AttackDmgUp]를 2 얻음\n- 사슬이 파괴시 이번 스테이지동안 턴 종료시 다음 턴에 [Binding]을 2 얻고 물리 내성이 0.7 증가함|- When this unit has the Chain, all Parts gain 1 [Enhancement] and 2 [AttackDmgUp]\n- When the Chain is broken, starting next turn, gain 2 [Binding] and +0.7 to all physical resistances until the end of this Encounter
+686||Pasywka wroga [816604] — nazwa] 르쌍티망|Ressentiment
+687||Pasywka wroga [816604] — opis] 자신의 체력이 35%이하일 때, 대상이 자신보다 현재 체력 비율이 높으면 합 위력 +2|When this unit has 35% or less HP: If the target has a higher HP percentage than this unit, Clash Power +2
+689||Pasywka wroga [816605] — opis] 자신의 현재 체력 비율이 30%이하가 되었다면\n- 타격 스킬의 피해량 +20%\n- 턴이 지남에 따라 [Enhancement] 1, [Vulnerable] 2씩 추가로 얻음. (최대 3회)|If this Unit's current HP percentage is 30% or less:\n- Blunt Skills Deal +20% damage\n- Gain 1 [Enhancement] and 2 [Vulnerable] with every turn that passes. (3 times max)
+690||Pasywka wroga [816606] — nazwa] 지옥의 사냥개|Infernal Hound
+691||Pasywka wroga [816606] — opis] 사슬 파괴시, 무작위 적에게 [AaCfPcBg] 부여.\n다음 턴부터 [AaCfPcBg]을 지닌 인격 우선 공격함.|When the Chain is broken, inflict [AaCfPcBg] to a random enemy.\nStarting next turn, prioritize target with [AaCfPcBg].
+692||Pasywka wroga [817101] — nazwa] 우위|Superiority
+693||Pasywka wroga [817101] — opis] 합 승리시 대상보다 속도가 빠르다면, 정신력 3 회복|Clash Win: If this unit's Speed is faster than the target's, heal 3 SP
+694||Pasywka wroga [817102] — nazwa] 불속지객|The Uninvited
+695||Pasywka wroga [817102] — opis] 흐트러짐 상태의 적이 있다면, 공격 스킬로 대상을 우선 지정함.\n흐트러짐 상태의 적 적중시, 피해량 +20%|If there are Staggered enemies, this unit prioritizes Staggered targets with its Attack Skills\nDeal +20% damage to Staggered enemies On Hit
+696||Pasywka wroga [817103] — nazwa] 응접도 제 9식 결박|Receiving Arts 9: Binding
+697||Pasywka wroga [817103] — opis] 패턴이 변경되고부터 전투 종료시 다음 턴에 [AaCfPcBc]이 없는 무작위 인격 한명에게 다음 턴에 [AaCfPcBc] 부여|After this unit gains a new pattern, and after Combat End, inflict [AaCfPcBc] to a random Identity without [AaCfPcBc] next turn
+698||Pasywka wroga [817104] — nazwa] 포박 해제|Release From Binds
+699||Pasywka wroga [817104] — opis] 흐트러짐 상태가 되면, 수치가 2 이하인 모든 [AaCfPcBc] 제거|All [AaCfPcBc] less than or equal to 2 expires when this unit is Staggered
+700||Pasywka wroga [817201] — nazwa] 번지는 감정|Spreading Emotions
+701||Pasywka wroga [817201] — opis] 자신과 동일한 속성의 폭발하는 감정 효과를 가진 아군이 사망하면, 자신의 폭발하는 감정 효과가 제거되며, 나머지 아군을 모두 사망시키고, 다음 턴에 [AaCfPbBd]을 얻음.\n해당 속성의 폭발하는 감정 효과, 해당 속성의 보호가 모든 수감자에게 부여됨.|When an ally with the same Affinity to this unit's Explosive Emotions effect is defeated: lose Explosive Emotions effect on self, kill all other allies, and gain [AaCfPbBd] next turn.\nAll Sinners gain the effects of the corresponding Explosive Emotions effect, and protection against the corresponding Affinity.
+702||Pasywka wroga [817202] — nazwa] 맺힌 원한|Amalgamated Resentment
+703||Pasywka wroga [817202] — opis] 폭발하는 감정 효과가 있는 동안 모든 스킬의 속성이 해당 속성으로 변경됨.\n폭발하는 감정 효과가 제거된 후에도 해당 페이즈동안 변경된 스킬 속성이 유지됨.|When this unit has an Explosive Emotions effect, all Skill Affinities are replaced with the corresponding Affinity.\nEven after the Explosive Emotions effect expires, the changed Skill Affinities remain changed for the rest of the Phase.
+704||Pasywka wroga [817203] — nazwa] 끝나지 않은 복수|Continuing Revenge
+705||Pasywka wroga [817203] — opis] 체력이 최대 체력의 75%, 35%가 될 때마다 패턴이 변경됨.\n패턴 변경 시 자신에게 부여된 부정적인 효과의 위력, 횟수를 절반으로 감소|Gains a new pattern at 75% and 35% of max HP.\nWhen this unit gains a new pattern, halve the Potency and Count of every negative effect on self
+706||Pasywka wroga [9101602] — nazwa] 적의|Antagonism
+707||Pasywka wroga [9101602] — opis] 대상이 자신보다 현재 체력이 높으면 합 위력 +2, 피해량 +20%|If the target's current HP is higher than this unit's, Clash Power +2 and deal +20% damage
+708||Pasywka wroga [9101603] — nazwa] 기다린 순간|Long-awaited Moment
+709||Pasywka wroga [9101603] — opis] 합 승리 시 자신의 정신력 5 회복\n히스클리프에게 합 패배 시 정신력 감소 10, 다음 턴에 [Binding] 2를 얻음. (턴 당 1회)\n한 턴 동안 히스클리프에게 공격을 적중하지 못했으면, 턴 종료 시 정신력 감소 5|Clash Win: Heal 5 SP on self\nClash Lose against Heathcliff: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit against Heathcliff this turn, lose 5 SP at Turn End
+710||Pasywka wroga [9101606] — nazwa] 오기|Vying Spirit
+711||Pasywka wroga [9101606] — opis] 자신의 체력이 낮아질수록 방어 레벨 증가\n(자신의 잃은 체력 10% 당 방어 레벨 +1. 소수점 버림)|The lower this unit's HP gets, the higher this unit's Defense Level gets\nDefense Level +1 for every 10% missing HP on self (rounded down)
+713||Pasywka wroga [821601] — opis] 체력이 1이 되면, 사망하지 않고 체력이 1로 유지된다.|Cannot be defeated at 0 HP. HP does not drop below 1.
+714||Pasywka wroga [817401] — nazwa] 또 다른 인격|A Distant Identity
+715||Pasywka wroga [817401] — opis] 턴 종료 시 양손의 체력이 1이 되면, 행동 불가 상태가 된다.|Turn End: If both Hands are at 1 HP, become Immobilized.
+716||Pasywka wroga [817402] — nazwa] 싸늘한 몸|Cold Body
+717||Pasywka wroga [817402] — opis] 체력이 1 미만으로 감소하지 않는다.|HP does not drop below 1.
+718||Pasywka wroga [817403] — nazwa] 흔들리는 자아|A Shaky Ego
+719||Pasywka wroga [817403] — opis] 턴 종료 시 양손의 체력이 1이 되면, 다음 턴에 보호막을 얻는다.\n보호막을 전부 제거하면, 행동 불가 상태가 된다.|Turn End: If both Hands are at 1 HP, gain Shield next turn.\nOnce the Shield is fully depleted, become Immobilized.
+720||Pasywka wroga [819201] — nazwa] 불행을 끊는 손|Misery-severing Hand
+721||Pasywka wroga [819201] — opis] 체력이 1이 된 턴의 다음 턴 종료 시 다른 손의 체력이 2 이상이면, 해당 손의 현재 체력의 50%만큼 자신의 체력을 회복한다. (소수점 버림)|If the other Hand is at 2+ HP at the next Turn End after the turn in which this Hand reaches 1 HP, this unit heals HP equal to 50% of the other Hand's HP. (rounded down)
+723||Pasywka wroga [821401] — opis] 체력이 1인 동안 흐트러짐 상태가 되고, 체력이 1 미만으로 감소하지 않는다.|Become Staggered as long as this unit's HP is at 1. The HP does not drop below 1.
+724||Pasywka wroga [817404] — nazwa] 찢긴 마음|Broken Heart
+725||Pasywka wroga [817404] — opis] 턴 시작 시 체력이 2 이상인 손이 있으면, [Protection] 10을 얻고, 모든 내성이 0.2로 변경된다.\n턴 시작 시 양손의 체력이 1이면, [Protection]가 해제되고, 내성이 원래 값으로 돌아온다.|Turn Start: If there is a Hand with 2+ HP, gain 10 [Protection], and all Resistance values become 0.2.\nTurn Start: If both Hands are at 1 HP, [Protection] expires, and all Resistance values revert to default values.
+726||Pasywka wroga [817405] — nazwa] 모든 히스클리프를 위하여|For Every Heathcliff
+727||Pasywka wroga [817405] — opis] 히스클리프와 합 진행 시 합 위력 -3, 히스클리프에게 가하는 피해량 -50%\n히스클리프가 사망하면 전투 패배|When Clashing against Heathcliff, Clash Power -3 and deal -50% damage against Heathcliff\nWins Encounter if Heathcliff dies
+728||Pasywka wroga [816408] — nazwa] 복수의 시간|Moment of Vengeance
+729||Pasywka wroga [816408] — opis] 합 승리 시 자신의 정신력 5 회복\n합 패배 시 정신력 감소 10, 다음 턴에 [Binding] 2를 얻음. (턴 당 1회)\n한 턴 동안 공격을 적중하지 못했으면, 턴 종료 시 정신력 감소 5|Clash Win: Heal 5 SP on self\nClash Lose: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit this turn, lose 5 SP at Turn End
+730||Pasywka wroga [9101607] — nazwa] 퇴각 불가|Cannot Retreat
+731||Pasywka wroga [9101607] — opis] 이번 전투동안 히스클리프 인격의 퇴각 관련 기능이 작동하지 않음.|For the duration of this Encounter, Retreat functions will not activate for Heathcliff Identities.
+732||Pasywka wroga [816103] — nazwa] 분노 폭발|Erupting Wrath
+733||Pasywka wroga [816103] — opis] 사망 시, 모든 적에게 [Combustion] 12 부여, [Combustion] 횟수 8 증가|On death, inflict 12 [Combustion] and +8 [Combustion] Count on all enemies
+734||Pasywka wroga [816104] — nazwa] 악몽|Nightmare
+735||Pasywka wroga [816104] — opis] 이번 턴 자신을 포함한 아군이 합에서 패배하거나 적의 공격으로 피해를 받으면, [AttackUp] 1 얻고 정신력 1 회복 (최대 12회)|In a turn, if an allied unit(including this unit) loses a Clash or takes damage from enemy attacks, gain 1 [AttackUp] and heal 1 SP (max 12 times)
+736||Pasywka wroga [9013601] — nazwa] 다...|ies...
+737||Pasywka wroga [9013601] — opis] 턴 종료시 흐트러짐 상태가 되었을 때, 흐트러짐 상태에서 벗어나고 정신력 20 회복. 다음 턴에 공격 레벨 증가 1 얻음. (최대 1)|Turn End: if Staggered, recover from the Staggered state and heal 20 SP. Gain 1 Offense Level Up next turn. (one time max)
+738||Pasywka wroga [9013602] — nazwa] 치...|Yo...
+739||Pasywka wroga [9013602] — opis] 턴 종료 시 패닉 상태에서 벗어났다면, 다음 턴에 공격 위력 증가 1 얻음|Turn End: if this unit recovered from Panic, gain 1 Attack Power Up next turn
+740||Pasywka wroga [9013603] — nazwa] 것...|ool...
+741||Pasywka wroga [9013603] — opis] 대상이 자신보다 속도가 낮다면, 합 위력 +2|If this unit's Speed is faster than the target's, Clash Power +2
+742||Pasywka wroga [9013604] — nazwa] 가...|oice...!
+743||Pasywka wroga [9013604] — opis] 한 공격 스킬의 모든 코인이 적중했을 때, 코인이 모두 앞면이라면, 정신력 10 회복|Heal 10 SP when every Coin of an Attack Skill hits heads
+744||Pasywka wroga [9013606] — nazwa] 위…|Threa...
+745||Pasywka wroga [9013606] — opis] 합 진행 시, 합 위력 -1, 자신의 체력 10 피해 (이 피해로 체력이 0이 되지않음)|In a Clash, Clash Power -1; take 10 HP damage on self with each Clash (this effect does not reduce this unit's HP to 0)
+746||Pasywka wroga [9013607] — nazwa] 기...리|Opp... tta
+747||Pasywka wroga [9013607] — opis] 합 패배시, 공격 레벨 증가 3 얻음. (턴 당 1회)|Upon Clash Lose, gain 3 Offense Level Up. (Once per turn)
+748||Pasywka wroga [9013701] — nazwa] 육체...증폭|Bod... ...st
+749||Pasywka wroga [9013701] — opis] 턴 종료 시 자신의 정신력이 -10 이하일 때, 다음 턴에 공격 레벨 증가 3 얻음.|Turn End: if this unit's SP is at -10 or less, gain 3 Offense Level Up next turn.
+750||Pasywka wroga [9013804] — nazwa] 뚜...|Tou...
+752||Pasywka wroga [9013801] — nazwa] 정...|Hou...
+753||Pasywka wroga [9013801] — opis] 공격 스킬 사용 시 대상의 체력이 70이하일 때, 기본 위력 +1, 피해량 +20%|When using an Attack Skill, if target's HP is below 70, gain Base Power +1 and deal +20% damage
+754||Pasywka wroga [9013802] — nazwa] ...몰이|...erding
+755||Pasywka wroga [9013802] — opis] 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +2, 피해량 +20%|When using a Skill, if this unit's Speed is faster than the target's, gain Clash Power +2 and deal +20% damage
+756||Pasywka wroga [817001] — nazwa] ...감|...rity
+758||Pasywka wroga [817002] — nazwa] 향...|Dir...
+760||Pasywka wroga [817003] — nazwa] 포...|Pred...
+762||Pasywka wroga [817004] — nazwa] ...식|...ked
+764||Wróg / część [90152] — nazwa] 차려입은 피주머니|Well-dressed Bloodbag
+765||Wróg / część [90152] — opis] 잡몹|Unit
+766||Wróg / część [90153] — nazwa] 꾸며진 피주머니|Embellished Bloodbag
+768||Wróg / część [90154] — nazwa] 미쳐버린 멋장이 혈귀|Insane Fashionista Bloodfiend
+770||Wróg / część [90155] — nazwa] 실성한 멋장이 혈귀|Mad Fashionista Bloodfiend
+772||Wróg / część [90156] — nazwa] 도전적인 송곳니 사냥 사무소 해결사|Combative Fanghunt Office Fixer
+774||Wróg / część [90157] — nazwa] 자존심 강한 송곳니 사냥 사무소 해결사|Prideful Fanghunt Office Fixer
+776||Wróg / część [90160] — nazwa] 나쁜 도적|No-good Bandit
+778||Wróg / część [90161] — nazwa] 무시무시한 곰|Big, Scary Bear
+780||Wróg / część [8371] — nazwa] 서부 섕크 3과 까미유|Cinq West Section 3 Camille
+782||Wróg / część [8372] — nazwa] ???|???
+784||(ulepszenie 1) — nazwa] 알레|Allez
+785||(ulepszenie 1) — opis] [WhenUse] [DuelDeclaration_Camille] 부여\n[WhenUse] 자신의 [Breath] 5 얻음\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[WhenUse] Inflict [DuelDeclaration_Camille]\n[WhenUse] Gain 5 [Breath]\n[WinDuel] Gain +2 [Breath] Count
+786||(ulepszenie 1) — nazwa] 꾸드르와|Coup Droit
+787||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 2 얻음|[WhenUse] Gain 2 [Breath]
+788||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Breath] Count
+789||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 속도가 7 이상이면, [Burst] 3 부여|[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst]
+790||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 3 얻음|[OnSucceedAttack] Gain 3 [Breath]
+792||(ulepszenie 1) — nazwa] 팡트|Fente
+793||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]이 7 이상이면, 코인 위력 +2\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[WhenUse] At 7+ [Breath], Coin Power +2\n[WinDuel] Gain +2 [Breath] Count
+795||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 속도가 7 이상이면, [Burst] 횟수 3 증가|[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] Count
+796||(ulepszenie 1) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] 크리티컬 피해량 +50%|[CriticalOnSucceedAttack] +50% Damage on Critical Hit
+797||(ulepszenie 1) — nazwa] 살뤼|Salut
+798||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 공격자보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 3)|[WhenUse] If this unit's Speed is faster than the target's, Coin Power +1 (Coin Power +1 for every 2 Speed difference; max 3)
+799||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 4 증가|[OnSucceedAttack] Gain +4 [Breath] Count
+800||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 속도가 7 이상이면, [Burst] 3 부여, [Burst] 횟수 1 증가|[OnSucceedAttack] At 7+ Speed, inflict 3 [Burst] and +1 [Burst] Count
+801||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 5 얻음|[OnSucceedAttack] Gain 5 [Breath]
+805||(ulepszenie 1) — moneta 4, efekt 1 — opis] [CriticalOnSucceedAttack] 크리티컬 피해량 +100%|[CriticalOnSucceedAttack] +100% Damage on Critical Hit
+806||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 [Burst]당 피해량 +5% (최대 50%)|[OnSucceedAttack] Deal +5% damage for every [Burst] on the target (Max 50%)
+807||(ulepszenie 1) — nazwa] 응수|Parry
+808||(ulepszenie 1) — opis] [WinDuel] 합 횟수에 비례하여 피해량이 증가 (합 횟수 1당 +10%. 최대 50%)\n[WinDuel] 다음 턴에 [Agility] 2 얻음\n[DefeatDuel] 다음 턴에 [Binding] 2 얻음|[WinDuel] Deal more damage based on number of Clashes (+10% damage for every Clash, max 50%)\n[WinDuel] Gain 2 [Agility] next turn\n[DefeatDuel] Gain 2 [Binding] next turn
+810||(ulepszenie 1) — nazwa] 데팡시브|Défensive
+811||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Agility] 1 얻음|[OnSucceedEvade] Gain 1 [Agility] next turn
+812||(ulepszenie 1) — nazwa] 예쁘게 오려줄게!|I'll Cut You Up All Pretty!
+813||(ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 6 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Laceration] 5 당, 코인 위력 +1 (최대 3)|[WhenUse] If target has 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 3)
+815||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] ([BloodScissor] 단계 - 1)에 비례하여, 코인 재사용 1회 (최대 2)|[OnSucceedAttack] Reuse Coin ([BloodScissor] Stage - 1) times (max 2)
+816||(ulepszenie 1) — nazwa] 더욱 날카롭게|Even Sharper
+817||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 20 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻고 정신력 3 회복.\n- 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 30을 얻음\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 합 위력 +1\n[WhenUse] 자신의 [Laceration] 5 당, 코인 위력 +1 (최대 2)|[WhenUse] Consume up to 20 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n- If this unit failed to consume [BloodDinner] with this Skill, gain 30 [Laceration]\n[WhenUse] If target has 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 for every 5 [Laceration] on self (max 2)
+820||(ulepszenie 1) — nazwa] 싹둑!!|SNIP!!
+821||(ulepszenie 1) — opis] [WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻고 정신력 3 회복\n[WhenUse] 대상에게 [LineCutting]이 있으면, 합 위력 +5\n[LineCutting]에게 적중 시마다 정신력 5 회복|[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If target has [LineCutting], Clash Power +5\nHeal 5 SP on every hit against [LineCutting]
+824||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 부여|[OnSucceedAttack] Inflict +3 [Laceration] Count
+825||(ulepszenie 1) — nazwa] 너도 같이 오려줄게!|I'll Cut You Up Too!
+826||(ulepszenie 1) — opis] [BeforeAttack] [BloodScissor] 단계에 비례하여 공격 가중치 +1 (최대 2)\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻고 정신력 3 회복\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 합 위력 +2|[BeforeAttack] Atk Weight +1 for every Stage of [BloodScissor] (max 2)\n[WhenUse] Consume up to 30 [BloodDinner]; gain 1 [BloodScissor] and heal 3 SP for every 10 [BloodDinner] consumed\n[WhenUse] If target has 6+ [Laceration], Clash Power +2
+827||(ulepszenie 1) — moneta 1, efekt 1 — opis] [SuperCoin]|[SuperCoin]
+828||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [BloodScissorScars] 1 부여|[OnSucceedAttack] Inflict 1 [BloodScissorScars] next turn
+829||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttackHead] [Laceration] 5 부여, [Laceration] 횟수 2 증가|[OnSucceedAttackHead] Inflict 5 [Laceration] and +2 [Laceration] Count
+830||(ulepszenie 1) — nazwa] 이번에는 네 차례야|Now, It's Your Turn

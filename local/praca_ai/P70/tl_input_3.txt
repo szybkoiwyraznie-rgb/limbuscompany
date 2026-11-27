@@ -1,0 +1,131 @@
+426||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 이 스킬의 모든 코인이 적중했다면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If every Coin of this Skill hits, reuse this Coin (1 time max)
+427||(ulepszenie 1) — nazwa] 반사적 복수|Reflexive Revenge
+428||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+430||(ulepszenie 1) — nazwa] 불청객 표시|Mark Interloper
+431||(ulepszenie 1) — opis] [WhenUse] [AaCfPcBb] 1 부여|[WhenUse] Inflict 1 [AaCfPcBb]
+432||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+433||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseUp] 1 얻음|[OnSucceedAttack] Gain 1 [DefenseUp] next turn
+434||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Breath] 2 얻음|[OnSucceedAttack] Gain 2 [Breath]
+435||(ulepszenie 1) — nazwa] 응접도 1식 사냥|Receiving Arts 1: The Hunt
+436||(ulepszenie 1) — opis] [WhenUse] 대상에게 [AaCfPcBb]이 있다면, 합 위력 +1\n[WinDuel] 다음 턴에 [Agility] 1 얻음|[WhenUse] If target has [AaCfPcBb], Clash Power +1\n[WinDuel] Gain 1 [Agility] next turn
+437||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttack] Inflict 1 [Paralysis] next turn
+438||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Breath] 3 얻음|[OnSucceedAttack] Gain 3 [Breath]
+440||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [AaCfPcBb] 1 부여|[OnSucceedAttack] Inflict 1 [AaCfPcBb]
+441||(ulepszenie 1) — nazwa] 응접도 1역식 사냥|Reverse Receiving Arts 1: The Hunt
+444||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Breath] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Breath] Count
+447||(ulepszenie 1) — nazwa] 불청객 위압|Overwhelm Interloper
+448||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 빠르다면, 합 위력 +2|[WhenUse] If this unit's Speed is faster than the target's, Clash Power +2
+452||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 대상의 부정적인 효과가 3개 이상이면,이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 3+ negative effects, reuse this Coin (1 time max)
+453||(ulepszenie 1) — nazwa] 응접도 제 2식 붕괴|Receiving Arts 2: Collapse
+454||(ulepszenie 1) — opis] [WhenUse] 대상에게 [AaCfPcBb]이 있다면, 합 위력 +10|[WhenUse] If target has [AaCfPcBb], Clash Power +10
+455||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 흐트러짐 바가 없다면, 200만큼 체력 피해를 줌.|[OnSucceedAttack] If the target does not have a Stagger Threshold, deal 200 HP damage.
+456||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 200만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 200
+457||(ulepszenie 1) — nazwa] 응접도 제 7식 포착|Receiving Arts 7: Capture
+458||(ulepszenie 1) — opis] [StartBattle] [AaCfPcBb]을 가진 적만큼 가중치 증가\n[WhenUse] 메인 타겟보다 속도가 3이상 빠르다면, 참격 내성 약화 2 부여\n[WhenUse] 대상에게 [AaCfPcBb]이 있다면, 합 위력 +8\n[EndBattle] 모든 [AaCfPcBb] 제거|[StartBattle] Gain Atk Weight equal to the number of enemies with [AaCfPcBb]\n[WhenUse] If this unit's Speed is faster than the main target's by 3 or more, inflict 2 Slash Resist Down\n[WhenUse] If target has [AaCfPcBb], Clash Power +8\n[EndBattle] All [AaCfPcBb] expires
+464||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 부정적인 효과가 4개 이상이면, 피해량의 30%만큼 참격 피해|[OnSucceedAttack] If target has 4+ negative effects, deal 30% of damage dealt as bonus Slash damage
+465||(ulepszenie 1) — nazwa] 불청객 잡이|Interloper Apprehension
+466||(ulepszenie 1) — opis] [AaCfPcBc]이 있는 대상 우선 공격\n[DefeatDuel] 대상이 [AaCfPcBc]을 가지고 있다면, [AaCfPcBc] 소멸|Prioritizes targets with [AaCfPcBc]\n[DefeatDuel] If target has [AaCfPcBc] [AaCfPcBc] expires
+468||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 6 부여|[OnSucceedAttack] Inflict 6 [DefenseDown] next turn
+469||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상의 속도보다 3이상 빠르면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (1 time max)
+470||(ulepszenie 1) — nazwa] 응접도 제 3식 결속|Receiving Arts 3: Binding
+471||(ulepszenie 1) — opis] [WhenUse] 대상이 [AaCfPcBc]을 가지고 있다면, 기본 위력 +5\n[WhenUse] 대상이 [AaCfPcBc]을 가지고 있다면, [AaCfPcBc] 1 부여|[WhenUse] If target has [AaCfPcBc], Base Power +5\n[WhenUse] If target has [AaCfPcBc], inflict 1 [AaCfPcBc]
+477||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 3 부여|[OnSucceedAttack] Inflict 3 [DefenseDown] next turn
+478||(ulepszenie 1) — moneta 4, efekt 2 — opis] [OnSucceedAttack] 대상의 부정적인 효과가 3개 이상이면,이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 3+ negative effects, reuse this coin (1 time max)
+480||(ulepszenie 1) — opis] [OnSucceedEvade] 정신력 5 회복\n[OnSucceedEvade] 다음 턴만 슬롯 1개 증가. (최대 1번)|[OnSucceedEvade] Heal 5 SP\n[OnSucceedEvade] Gain 1 more Slot just for the next Turn. (1 time max)
+481||(ulepszenie 1) — nazwa] 응접도 제 9식 와해|Receiving Arts 9: Dissolution
+482||(ulepszenie 1) — opis] [AaCfPcBc]이 있는 대상 우선 공격\n대상에게 [AaCfPcBc]이 있다면, 합 위력 +10\n[AaCfPcBc]이 없는 대상일 경우 이 스킬의 피해량 0이 됨.|Prioritizes targets with [AaCfPcBc]\nIf target has [AaCfPcBc], Base Power +10\nIf the target does not have [AaCfPcBc], this Skill deals 0 damage.
+483||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 상태로 만듦.|[OnSucceedAttack] Stagger target.
+484||(ulepszenie 1) — nazwa] 파탄난 유리 세계로 얽힌 검|Fused Blade of Ruined Mirror Worlds
+485||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가. [Sinking] 3 부여|[OnSucceedAttack] Inflict +3 [Sinking] Count. Inflict 3 [Sinking]
+490||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상의 [Sinking]만큼 [Laceration] 부여|[OnSucceedAttack] Inflict [Laceration] equal to [Sinking] on target
+491||(ulepszenie 1) — nazwa] 원한풀기|Resolving Grudges
+492||(ulepszenie 1) — opis] 대상의 [Sinking]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Sinking] 횟수 3 증가|If target has 5+ [Sinking], Clash Power +1\nIf target has 5+ [Laceration], Clash Power +1\n[WinDuel] Inflict +3 [Sinking] Count
+496||(ulepszenie 1) — nazwa] 돌아온 악몽의 복수귀|The Nightmarish Vengeance, Returned
+497||(ulepszenie 1) — opis] [CantChangeTarget]\n[WhenUse] 대상에게 [AaCfPbBa]이 없으면 합 위력 +10\n[DefeatDuel] 다음 턴에 취약 3 얻음|[CantChangeTarget]\n[WhenUse] If the target does not have [AaCfPbBa], Clash Power +10\n[DefeatDuel] Gain 3 Fragile next turn
+499||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Sinking] 8 부여|[OnSucceedAttack] Inflict 8 [Sinking]
+500||(ulepszenie 1) — nazwa] 죽도록 달려라 듀라한이여|Ride for Death, Dullahan
+501||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 대상에게 [AaCfPbBb]가 있으면 피해량 -100%|[CantDuel]\n[WhenUse] If target has [AaCfPbBb], deal -100% damage
+502||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 5 부여|[OnSucceedAttack] Inflict 5 [Sinking]
+503||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Sinking] Count
+504||(ulepszenie 1) — nazwa] 파탄의 와일드헌트|Wild Hunt of Desolation
+505||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 대상에게 [AaCfPbBc]가 있으면 피해량 -100%\n[WhenUse] 생존한 아군 수 1명 당 피해량 +25%|[CantDuel]\n[WhenUse] If target has [AaCfPbBc], deal -100% damage\n[WhenUse] Deal +25% damage for every surviving ally
+506||(ulepszenie 1) — nazwa] 견뎌내기|Withstand
+507||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [Enhancement] 1 얻음 (턴 당 1회)|[WhenUse] Gain 1 [Enhancement] next turn (once per turn)
+508||(ulepszenie 1) — nazwa] 슬픔과 절규를 내뿜는 유리조각|Glass Shard of Wailing Sorrow
+510||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 3 부여|[OnSucceedAttack] Inflict 3 [Sinking]
+512||(ulepszenie 1) — nazwa] 대검 베기|Greatsword Rend
+513||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가, [Sinking] 3 부여|[OnSucceedAttack] Inflict +3 [Sinking] Count and 3 [Sinking]
+519||(ulepszenie 1) — nazwa] 워더링하이츠여. 나의 부름에 응하도록|Heed My Call, Wuthering Heights
+520||(ulepszenie 1) — opis] [CantDuel]\n[WhenUse] 다음 턴에 와일드 헌트 유닛 1명 생성|[CantDuel]\n[WhenUse] Generate 1 Wild Hunt[TabExplain] unit next turn
+521||(ulepszenie 1) — nazwa] 네 놈도 이 관에 담아주지|You’ll Get Shoved In This Coffin Too
+522||(ulepszenie 1) — opis] [CantDuel]\n[StartBattle] 이번 턴에 [VibrationExplosion], 흐트러짐 손상 효과로 받는 흐트러짐 피해 + 100%\n[WhenUse] 다음 턴에 자신을 포함한 모든 아군에게 [Enhancement] 3, [AttackDmgUp] 3 부여|[CantDuel]\n[StartBattle] +100% to the amount of Stagger Threshold raised from [VibrationExplosion] and any other Stagger Threshold raising effects\n[WhenUse] Apply 3 [Enhancement] and 3 [AttackDmgUp] to all allies, including this unit next turn
+523||(ulepszenie 1) — nazwa] 히스클리프들의 목을 벤다|Behead Heathcliffs
+526||(ulepszenie 1) — nazwa] 빈 관의 철퇴|Hollow Coffin Mace
+530||(ulepszenie 1) — moneta 2, efekt 1 — opis] [Sinking] 5 부여|Inflict 5 [Sinking]
+531||(ulepszenie 1) — moneta 3, efekt 1 — opis] [Sinking] 횟수 5 증가|Inflict +5 [Sinking] Count
+534||(ulepszenie 1) — nazwa] 마왕이 다녀가면 슬픔과 절규만이 남는다.|Sorrow and Lament In The Erlking's Wake.
+535||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 4, [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Sinking] and 4 [Laceration]
+536||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 2, [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Sinking] Count and +2 [Laceration] Count
+539||(ulepszenie 1) — nazwa] 모든 히스클리프는 죽어야만 한다...|Every Heathcliff Must Die...
+540||(ulepszenie 1) — opis] [CantChangeTarget]\n[CantDuel]\n이번 턴동안 흐트러짐 상태가 되지 않음|[CantChangeTarget]\n[CantDuel]\nDoes not get Staggered this turn
+541||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 최대 체력의 100%만큼 피해를 줌|[OnSucceedAttack] Deal damage equal to 100% of the target's max HP
+542||(ulepszenie 1) — nazwa] 소용 없어|It's All Pointless
+543||(ulepszenie 1) — nazwa] 그가 불행하지 않은 세상을 위해|For a World Without His Suffering
+544||(ulepszenie 1) — opis] [CantDuel]\n[StartBattle] 자신을 제외한 모든 아군에게 [Vulnerable] 2, [Enhancement] 2 부여\n[StartBattle] 다음 턴에 [Binding], [AttackDmgUp] 5 얻음|[CantDuel]\n[StartBattle] Apply 2 [Vulnerable] and 2, [Enhancement] to all other allies\n[StartBattle] Gain 5 [Binding] and 5 [AttackDmgUp] next turn
+545||(ulepszenie 1) — nazwa] 모든 캐서린은 죽어야해|Every Catherine Must Die
+546||(ulepszenie 1) — opis] [CantDuel]\n모든 손의 체력이 1이면 피해량이 0이 됨\n[StartBattle] 자신을 제외한 모든 아군에게 [Vulnerable] 2, [Enhancement] 2 부여\n[EndSkill] [AaCfPcBn] 1 얻음|[CantDuel]\nIf all Hands' HP are at 1, deal 0 damage\n[StartBattle] All other allies gain 2 [Vulnerable] and 2 [Enhancement]\n[EndSkill] Gain 1 [AaCfPcBn]
+547||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [AaCfPcBn] 부여|[OnSucceedAttack] Inflict [AaCfPcBn]
+548||(ulepszenie 1) — nazwa] 찢어지는 마음|Breaking Heart
+549||(ulepszenie 1) — opis] [EndSkill] [AaCfPcBn] 1 얻음|[EndSkill] Gain 1 [AaCfPcBn]
+550||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 최대 체력의 15%만큼 피해|[OnSucceedAttack] Deal damage equal to 15% of max HP
+552||(ulepszenie 1) — nazwa] 비통한 눈물|Tears of Sorrow
+553||(ulepszenie 1) — nazwa] 비극의 손아귀|Clutch of Tragedy
+556||(ulepszenie 1) — nazwa] 절망의 손아귀|Clutch of Despair
+559||(ulepszenie 1) — nazwa] 무의미한 발악|Meaningless Writhing
+561||(ulepszenie 1) — nazwa] 남은 것은 고통 뿐...|Misery is All That Remains...
+562||(ulepszenie 1) — opis] [DefeatDuel] [AaCfPcBn] 1 얻음|[DefeatDuel] Gain 1 [AaCfPcBn]
+564||(ulepszenie 1) — nazwa] 잡히지 않는 영혼|Soul Out of Reach
+565||(ulepszenie 1) — nazwa] 치워...|I'll Remo...
+570||(ulepszenie 1) — nazwa] ...놈|... Bastard
+571||(ulepszenie 1) — opis] 대상보다 속도가 빠르다면, 합 위력+2|If this unit's Speed is faster than the target's, Clash Power +2
+575||(ulepszenie 1) — nazwa] 내 집...|This is My...
+583||(ulepszenie 1) — nazwa] 은…|Get...
+584||(ulepszenie 1) — opis] 히스클리프 우선 공격\n[WhenUse] 속도가 가장 낮은 적일 경우, 기본 위력 +3\n[WhenUse] 다음 턴에 [AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5 부여|Prioritizes Heathcliff\n[WhenUse] If the target is the enemy with the slowest Speed, Base Power +3\n[WhenUse] Inflict [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], and 5 [Binding]
+587||(ulepszenie 1) — nazwa] 줘…!!|Back...!!
+594||(ulepszenie 1) — nazwa] 끼가…|ttle...
+595||(ulepszenie 1) — opis] [AaCfPbBe]을 가지고 있는 대상 우선 공격\n대상의 속도가 자신보다 3 이상 낮다면, 이 스킬 재사용 (최대 1)|Prioritizes targets with [AaCfPbBe]\nIf this unit's Speed is faster than the target by 3 or more, reuse this Skill (1 time max)
+598||(ulepszenie 1) — nazwa] 가...|Gua...
+600||(ulepszenie 1) — nazwa] ...피|... de
+602||(ulepszenie 1) — nazwa] 여긴...!|This Is...!
+609||(ulepszenie 1) — nazwa] ...크|...nocking
+610||(ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking]이 5이상이면, [AttackDown] 1 부여|[WhenUse] If target has 5+ [Sinking], inflict 1 [AttackDown]
+611||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 4 부여|[OnSucceedAttack] Inflict 4 [Sinking]
+615||(ulepszenie 1) — nazwa] ...시간|...to Clean
+616||(ulepszenie 1) — opis] [WhenUse] 대상의 정신력이 10이하라면, [AttackDown] 2 부여\n[WinDuel] [Vulnerable] 1 부여|[WhenUse] If the target is at 10 or less SP, inflict 2 [AttackDown]\n[WinDuel] Inflict 1 [Vulnerable]
+617||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [PlusCoinValueDown] 1 부여|[OnSucceedAttack] Inflict 1 [PlusCoinValueDown] next turn
+619||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable] next turn
+620||(ulepszenie 1) — nazwa] 대로...!|...mmands...!
+621||(ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 3당 기본 위력 +1 (최대 3)\n[WinDuel] 모든 아군 정신력 5 회복|[WhenUse] Base Power +1 for every 3 [Sinking] on target (max 3)\n[WinDuel] All allies heal 5 SP
+623||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Sinking] 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 [Sinking] Count
+628||(ulepszenie 1) — nazwa] 먼지...|...of Dust
+629||(ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 6당, 기본 위력 +1 (최대 3)\n[WhenUse] 대상의 [Sinking] 6당, 피해량 +10% (최대 30%)|[WhenUse] Base Power +1 for every 6 [Sinking] on target (max 3)\n[WhenUse] Deal +10% damage for every 6 [Sinking] Count on target (max 30%)
+630||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소|[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1
+632||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘|[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target.
+634||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 대상의 [Sinking] 횟수가 3이상이면, 이 코인 재사용. (최대 2회)|[OnSucceedAttack] If target has 3+ [Sinking] Count, Reuse this Coin (twice)
+635||(ulepszenie 1) — nazwa] 쥐새끼...|Slipp...
+636||(ulepszenie 1) — opis] 턴 종료 시 보호막이 남아있다면, 50만큼 흐트러짐 회복|If this unit has remaining Shield HP at Turn End, lower Stagger threshold by 50
+637||(ulepszenie 1) — nazwa] 잡배놈...|Damn Pl...
+644||(ulepszenie 1) — nazwa] 단추...|Make Things...
+645||(ulepszenie 1) — opis] [WinDuel] 대상의 [AttackDown]가 2 이상이면, 기본 위력 +1\n[WhenUse] 대상에게 [DefenseDown]이 있다면, 피해량 30%만큼 타격 피해 입힘|[WinDuel] If target has 2+ [AttackDown], Base Power +1\n[WhenUse] If target has [DefenseDown], deal 30% of damage dealt as bonus Blunt damage
+649||(ulepszenie 1) — nazwa] ...주마|... ove You
+650||(ulepszenie 1) — opis] 부정적인 효과가 가장 많은 대상 우선 공격\n[WinDuel] 대상의 [DefenseDown] 3당 코인 위력 +1 (최대 3)|Prioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [DefenseDown] on target (max 3)
+655||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (1회)|[OnSucceedAttackHead] If target has 3+ negative effects, reuse this coin (once)
+657||(ulepszenie 1) — opis] [StartBattle] 살아있는 아군 수당 보호막 체력 20을 추가로 얻음|[StartBattle] Gain 20 additional Shield HP for every surviving ally
+658||(ulepszenie 1) — nazwa] 마르...|Marc...
+660||(ulepszenie 1) — nazwa] ...트|...te
+661||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 2개 이상이면, 기본 위력 +1|[WhenUse] If target has 2+ negative effects, Base Power +1
+663||(ulepszenie 1) — nazwa] 플...쉬|Fl...he
+664||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1|[WhenUse] If target has 4+ negative effects, Coin Power +1
+668||(ulepszenie 1) — nazwa] 꾸...와|Cou...oit
+669||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +2\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 피해량 +30%|[WhenUse] If target has 5+ negative effects, Base Power +2\n[WhenUse] If target has 5+ negative effects, deal +30% damage
+670||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable]

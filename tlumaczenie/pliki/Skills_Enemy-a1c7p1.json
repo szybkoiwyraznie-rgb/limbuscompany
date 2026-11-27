@@ -1,0 +1,238 @@
+{
+  "entries": {
+    "dataList[id=9015201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=9015201].levelList[level=1].name": {
+      "pl": "Hardblood Stab",
+      "kr_sha256": "2133f7eaccb20d78bcbff90201ae6fbfeb366e3722d0ebbf1496f19f323b811f",
+      "en_sha256": "2d1ef151d7a7a751578b2d021fde2f0f63ccc16aa3b532b032f2b3fb5bba967a",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy 6+ [Laceration], zyskuje 1 [HardenedBlood]",
+      "kr_sha256": "9dcf2afda31d89e716a439ba240c74871a4bf5a76c707eb7aa5af4a69e66dbac",
+      "en_sha256": "42993fadc628a44dd5767aee0682d36b91aed9adff218656d2e8983450e4a1f2",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Laceration]",
+      "kr_sha256": "21b99775ca61d4445ccdd6565942c137abd4935a700e640b1bef5162158a5b9f",
+      "en_sha256": "100e5315b44955581e33bf9d76af14ff46a90f82ebab6cb2b95285a3cc3cd6f9",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 8 [Laceration] i 1 [BloodScissor].",
+      "kr_sha256": "08d2cc764348e35ac982be0d0780231643d3134712db8143d2489d2b14452562",
+      "en_sha256": "3834130b1ca2a8e5c1419510667a2fa7997e1a6b6ce20148957ce7ac0f68afe0",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 8+ [Laceration], zadaje +20% obrażeń",
+      "kr_sha256": "45c591e07a55ad2780d76d9360809d4c442dd820bd7a6bad6b2d9aa4b30bec5b",
+      "en_sha256": "682e2d876292e32c47ceb64a71f6c821a9384a7955a1bf39d4bb688dcf9b1499",
+      "origin": "ai"
+    },
+    "dataList[id=9015202].levelList[level=1].name": {
+      "pl": "Hardblood Cleave",
+      "kr_sha256": "c460dc2072de188e02ebcfe4607f1cd526363ae8789083a5cc6d11c556ba4afa",
+      "en_sha256": "6ac9914a2c841e64fa7401597affc495c94131fbdff964124a68dc642490ade7",
+      "origin": "ai"
+    },
+    "dataList[id=9015203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i 2 Licznika [Laceration]",
+      "kr_sha256": "fdcf7493894efbe53ee728f047380a1dcd798949feb28cb02cf8ae4aa43b5131",
+      "en_sha256": "77ea60a941795d57129e3200a940be704d9141aaa876ab3a25c1006ae3cd33c5",
+      "origin": "ai"
+    },
+    "dataList[id=9015203].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca HP równe ([Laceration] celu)% Maks. HP (maks. 20%)",
+      "kr_sha256": "0d336347614ae095bbc3ef7cbabae85cf8f8e05116775885b7d5319a16f712e9",
+      "en_sha256": "4b1e9dc165d853a14c01ceaba1270b4789fa2f8811811121cc07c1f1d2b93050",
+      "origin": "ai"
+    },
+    "dataList[id=9015203].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 6+ [Laceration], Moc Bazowa +1\nzadaje +5% obrażeń za każde [HardenedBlood] (maks. 25%)\n[EndSkill] zużywa całe [HardenedBlood] i [BloodScissor]",
+      "kr_sha256": "0b1a3f26b4f654b743305bc076b1d6ca227038ac7129a4123249fb9a7d609096",
+      "en_sha256": "2d2930b123382da48b11e21bd058c9dd0bc4f06e7a878f4d46131e3274762e29",
+      "origin": "ai"
+    },
+    "dataList[id=9015203].levelList[level=1].name": {
+      "pl": "Hardblood Powercleave",
+      "kr_sha256": "185872c2c8a8c84de18429fc396752984fbf489dfc8740755bf9fcdd8d92141a",
+      "en_sha256": "a6f6835423dbc75c0c067bef4c9d7327c55ecc78b787a251c18540ad224f6074",
+      "origin": "ai"
+    },
+    "dataList[id=9015204].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Laceration]",
+      "kr_sha256": "f57b8d3c5003cf40bf19533198932431a07e5e8647f7ab0c01d8647b61c81116",
+      "en_sha256": "f8b2ecdf9efc30a8f16e03255f91b08d962add2a52be935933758f7b9adfbe3f",
+      "origin": "ai"
+    },
+    "dataList[id=9015204].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde [HardenedBlood] tej jednostki",
+      "kr_sha256": "ace938d95acf0a5c4003659e7ca268331efc459e8bacbef5eb54392687253ac7",
+      "en_sha256": "9b1247e17ebbdc244d51e52825febd159f36cbeaa6131668bf800aab79db9b9e",
+      "origin": "ai"
+    },
+    "dataList[id=9015204].levelList[level=1].name": {
+      "pl": "Counter",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=9015301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=9015301].levelList[level=1].name": {
+      "pl": "Hardblood Wedge",
+      "kr_sha256": "5f7d6c7451890529e0b53f2ba2ef430afcd7106baf347bcfbf9a3b3f6be930a8",
+      "en_sha256": "dd2272082aaae1da0ec2923c76c4a837f6468358548b974cb2335ee86498fd98",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy 6+ [Laceration], zyskuje 1 [HardenedBlood]",
+      "kr_sha256": "9dcf2afda31d89e716a439ba240c74871a4bf5a76c707eb7aa5af4a69e66dbac",
+      "en_sha256": "42993fadc628a44dd5767aee0682d36b91aed9adff218656d2e8983450e4a1f2",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Licznika [Laceration]",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 8 [Laceration] i 1 [BloodScissor].",
+      "kr_sha256": "08d2cc764348e35ac982be0d0780231643d3134712db8143d2489d2b14452562",
+      "en_sha256": "3834130b1ca2a8e5c1419510667a2fa7997e1a6b6ce20148957ce7ac0f68afe0",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 4+ [Laceration], zadaje +10% obrażeń",
+      "kr_sha256": "c063ab842ec7f8f107d387cd5a3e0772578a1f99d19357cd0b80b5b5251c14d3",
+      "en_sha256": "c8f3367150637878f5db3b92d08df430b7783f4a6f2c8bb5ed862aa7e42fb27f",
+      "origin": "ai"
+    },
+    "dataList[id=9015302].levelList[level=1].name": {
+      "pl": "Hardblood Chop",
+      "kr_sha256": "69b6bddec3acf776ec9e23d5308369dd78b4a9e142fb5dda0d02c5662ee293ba",
+      "en_sha256": "3e16998c63b4f9f5a48633a8d5e88124ff61fc49c535cde583690370f79b5a76",
+      "origin": "ai"
+    },
+    "dataList[id=9015303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration] i 2 Licznika [Laceration]",
+      "kr_sha256": "fdcf7493894efbe53ee728f047380a1dcd798949feb28cb02cf8ae4aa43b5131",
+      "en_sha256": "77ea60a941795d57129e3200a940be704d9141aaa876ab3a25c1006ae3cd33c5",
+      "origin": "ai"
+    },
+    "dataList[id=9015303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca HP równe ([Laceration] celu)% Maks. HP (maks. 20%)",
+      "kr_sha256": "0d336347614ae095bbc3ef7cbabae85cf8f8e05116775885b7d5319a16f712e9",
+      "en_sha256": "4b1e9dc165d853a14c01ceaba1270b4789fa2f8811811121cc07c1f1d2b93050",
+      "origin": "ai"
+    },
+    "dataList[id=9015303].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 6+ Licznika [Laceration], Moc Bazowa +1\nzadaje +5% obrażeń za każde [HardenedBlood] (maks. 25%)\n[EndSkill] zużywa całe [HardenedBlood] i [BloodScissor]",
+      "kr_sha256": "47e509ecfc8412d19b12390f040ac731d4884354a689699aa662f7e829675831",
+      "en_sha256": "35035b8a54f5b60faeb13648ba6cbad0b85f419d3776c45bd6f226093dd18b6b",
+      "origin": "ai"
+    },
+    "dataList[id=9015303].levelList[level=1].name": {
+      "pl": "Hardblood Powerchop",
+      "kr_sha256": "9302c91694142dec63d730eca0c4410bc407795b47e8e194cb16344d76a1d2a1",
+      "en_sha256": "f59e7d0d93910dec0b082be60e628fed06c660608b1787e56df6fd253e484d0d",
+      "origin": "ai"
+    },
+    "dataList[id=9015304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Laceration]",
+      "kr_sha256": "f57b8d3c5003cf40bf19533198932431a07e5e8647f7ab0c01d8647b61c81116",
+      "en_sha256": "f8b2ecdf9efc30a8f16e03255f91b08d962add2a52be935933758f7b9adfbe3f",
+      "origin": "ai"
+    },
+    "dataList[id=9015304].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde [HardenedBlood] tej jednostki",
+      "kr_sha256": "ace938d95acf0a5c4003659e7ca268331efc459e8bacbef5eb54392687253ac7",
+      "en_sha256": "9b1247e17ebbdc244d51e52825febd159f36cbeaa6131668bf800aab79db9b9e",
+      "origin": "ai"
+    },
+    "dataList[id=9015304].levelList[level=1].name": {
+      "pl": "Counter",
+      "kr_sha256": "3690acde30b8feb284afac918def49647698c65cc98ef2849e7bad69341fec13",
+      "en_sha256": "a78cfdf4acfc294235d591aeb71a207048d6733d3019b68d69647b8c55d45d33",
+      "origin": "ai"
+    },
+    "dataList[id=9015401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=9015401].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=9015401].levelList[level=1].name": {
+      "pl": "It's a Festival, a Festival!",
+      "kr_sha256": "0385b834c8e32df8c7286f547b3de83487e7f877aae632aa409c4fce693a718a",
+      "en_sha256": "bd422e178f50ca6cf7f7d0c71931e64262aec72f6ca9de9dd6abaad6dc92df62",
+      "origin": "ai"
+    },
+    "dataList[id=9015402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Licznika [Laceration]",
+      "kr_sha256": "b87a9ac961e1a11dea86ed68d2399dabb7a59d421fa2c8a2282604ce9220dd02",
+      "en_sha256": "fe0b07fbf5afb250881a0307cfe866feb865b0bb2e6d9270bd6ad3845fe05a60",
+      "origin": "ai"
+    },
+    "dataList[id=9015402].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 5+ [Laceration], zyskuje 1 [HardenedBlood]",
+      "kr_sha256": "bb74e895cfdab8727c82537582e29fa960a50b198a89421b34fad247e4e8d585",
+      "en_sha256": "2ef65347a69078c7f42e773b92b33832bc984b32dbcca7e1dce0e64bf7018491",
+      "origin": "ai"
+    },
+    "dataList[id=9015402].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 6+ [Laceration], zadaje +20% obrażeń",
+      "kr_sha256": "8e6359bf80807af755b678365ceadf6ab1b99bf837e94a6ce01156aa8af2559b",
+      "en_sha256": "415457f05d5282286e4f223e115a84c66e0106047d337246d7e11995ddeb963b",
+      "origin": "ai"
+    },
+    "dataList[id=9015402].levelList[level=1].name": {
+      "pl": "Let's Dress Up",
+      "kr_sha256": "9b87bf561517c47eb165a594b1c08cce3c8bb43f39171e3e7e731649941173ee",
+      "en_sha256": "5d6581c041a8c19505cf4037556754bce923fe9a0402fffdb6d228e0e2c8db33",
+      "origin": "ai"
+    }
+  }
+}
