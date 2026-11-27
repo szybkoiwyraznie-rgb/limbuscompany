@@ -1,0 +1,142 @@
+{
+  "entries": {
+    "dataList[key=I990003].description": {
+      "pl": "Lina. Lina unieruchamia cel w inny sposób niż gwóźdź. Między wbijaniem a wiązaniem jest przepaść różnic.",
+      "kr_sha256": "6461c5db1fa964c14b05d51171405528740ecf2fba798b78c0cf6324a6e08f73",
+      "en_sha256": "c72e885c61540154f6309e157b7571411fb021d52882f9231482eebdf3676ce4",
+      "origin": "ai"
+    },
+    "dataList[key=I990003].displayName": {
+      "pl": "Lina",
+      "kr_sha256": "ba91c477b80db8e196ddd2b10df4370a940f264e94cc9c7c8cd9ab85d0ef0e0d",
+      "en_sha256": "b6337bdcf05e243e2e92750e7b156ae2d4a135f2cdcda2a8f1f5a37055af13a2",
+      "origin": "ai"
+    },
+    "dataList[key=I990005].description": {
+      "pl": "Można zwalniać bez końca, ale doskonały bezruch nie istnieje. Tego nie da się wyobrazić nawet jako pojęcie. Taka jest budowa człowieka.\nWładza Strażnika urzeczywistnia tę niemożliwość: „Bezruch”.\n„Nie, to nie ja. Nie zgadzam się na bezruch” — te słowa rwą się z wnętrza na przekór wyrokowi.\nZłame to, co zamarło. Zbuntuje się.\nBo to odczucie już zaczęło w nim kipieć.",
+      "kr_sha256": "6eea00cdcf1db54060136f2cf4768f1a2fcfb57817a706f5f197804d1e1ee9f3",
+      "en_sha256": "1ccd6a913ee8b539669419fdc980dcce958af78045d8890cf0af0d9f925c2820",
+      "origin": "ai"
+    },
+    "dataList[key=I990005].displayName": {
+      "pl": "Bezruch",
+      "kr_sha256": "7a39039ca2ca3a324765ceafc87cdc087aba05c3724c48a07e90b47ea094512c",
+      "en_sha256": "88939fa793a3e79692da14bb58d45ae01993bc394d1fccca1c97efe017cbec96",
+      "origin": "ai"
+    },
+    "dataList[key=I990005].statText": {
+      "pl": "W Symbolicznym <color=#F8C200>czas ładowania Garde 3. poziomu</color> skraca się do czasu Garde 1. poziomu\n- Po naładowaniu <color=#F8C200>Garde</color> uruchamia się zawsze jako <color=#F8C200>3. poziom</color>\n\nW Symbolicznym <color=#F8C200>Atak Kombo 2</color> zyskuje +1 pole szerokości w lewo i w prawo\n- Dodany zakres boczny nie podlega efektom zwiększania zasięgu\n\nW walce w Symbolicznym, gdy Strażnik przywoła gracza w określone miejsce,\n- gracz może niszczyć spadające na to miejsce świece (zburzenie świecy <color=#00ff9c>leczy</color> o 1 <color=#00ff9c>HP</color>)\n- <color=#fe4b48>Obrażenia</color> otrzymywane od Strażnika w tej walce -25%",
+      "kr_sha256": "5904b1c936b744018eb90bb94250ac9cdefb95242d3ab208588b9d89e249a329",
+      "en_sha256": "acdce5f1f148ee8da8b8bd6187494e94a9a29dbd8db7d69b39cffea4a39f8fe1",
+      "origin": "ai"
+    },
+    "dataList[key=I990430].description": {
+      "pl": "Jak każdy obcy wszedł przez 1. piętro, stał się klientem i po długim czasie przetrwał tyle, by wspiąć się na Kierownika Piętra. To rzecz stworzona przez tę istotę.\nPrzetrwał upływ czasu i epokę — aż przetrwanie stało się jego naturą.",
+      "kr_sha256": "a485fcc653b91b30be98046f5c6aa2086192e4059a732497aed6327853d704c2",
+      "en_sha256": "f9e2c387f079e7279329763c81a6c28eb6ab4546ebd47e3a7ddeb5f1d7f6f38e",
+      "origin": "ai"
+    },
+    "dataList[key=I990430].displayName": {
+      "pl": "Wytarta Broszka",
+      "kr_sha256": "0a823a930cf80b2291e15089d2e3a3ad91ae30b534866ae92bec558d8a58f77b",
+      "en_sha256": "d38ced544586ab7e1094d12d9bfb522e6ea0d5c05002974d404596036d611500",
+      "origin": "ai"
+    },
+    "dataList[key=I990430].statText": {
+      "pl": "W walce w Zacienionym, gdy sojusznik zostanie wybrany jako cel ataku wroga z Wagą Ataku, tuż przed trafieniem nakłada mu Tarczę równą 15% jego maksymalnego <color=#00ff9c>HP</color>\n- 2 razy na potyczkę\n\nW walce w Zacienionym, gdy zginie sojusznik albo wróg, następnej tury nakłada wszystkim wrogom 2 <color=#F8C200>Spętanie</color>\n- Raz na turę",
+      "kr_sha256": "9d03f4321cc7229367793327151304534d3d3d7723e3703026a77c7172ef2901",
+      "en_sha256": "af4ec2afcf534054ac49dbf4d6394bc03ab5ef7651a66580c4db6354c25bb41b",
+      "origin": "ai"
+    },
+    "dataList[key=I990502].description": {
+      "pl": "Miał wyznaczoną rolę. Pracę.\nTa praca była zmanualizowana i uformowana: chodził do Wieży Sisyphe, powtarzał te same słowa i nadawał te same audycje.\nJak każdy pracownik czekał na koniec zmiany.\nA jednak trzymał się jednego przekonania: że System Sisyphe musi istnieć i być utrzymywany — dla N Corp. i dla miasta jako całości.\nJako Ten, Kto Przybija, i ten, komu powierzono młot, to przekonanie trwało w nim głęboko.",
+      "kr_sha256": "ca476854edff51a5c182b0d2454868ca9cecc86cef3e65e14cf3550162787a99",
+      "en_sha256": "2305192cd0e596484e401fd2d35e9cd85f4bd1986dca2326bef97cc65b07819f",
+      "origin": "ai"
+    },
+    "dataList[key=I990502].displayName": {
+      "pl": "Autorytet",
+      "kr_sha256": "961d7f7ab4fb267fba536d1d57ae666cce8561bda6ba2826a035481ebaeb9fe0",
+      "en_sha256": "b80e403d2645d45e3503a6575390f40760515800fc9199c522bb2466c9132f1d",
+      "origin": "ai"
+    },
+    "dataList[key=I990502].statText": {
+      "pl": "W walce w Zacienionym, na początku Starcia z celem o wyższej Szybkości, nakłada na niego następnnej tury 1 <color=#F8C200>Spętanie</color>\n- Raz na turę\n\nW walce w Zacienionym +10% <color=#fe4b48>Obrażeń</color> wobec celów o niższej Szybkości",
+      "kr_sha256": "539757c379f7ec924d7f5477290fa94d41783bdad0c7c67df5d148603e77d10a",
+      "en_sha256": "e4b01c5a34f9682b97ac564189e23076fd2e9f8ca279a71da8de7a7db777411e",
+      "origin": "ai"
+    },
+    "dataList[key=I990503].description": {
+      "pl": "Jeść i jeść — a głód zawsze wraca. Wszyscy są tacy sami; różni się tylko tempo. Nawet pełny brzuch znów opróżni się.\nU tego dziecka ta przerwa jest po prostu nienaturalnie krótsza: narodziło się z głodu, narodziło się z oczekiwaniem, że będzie nieustannie pożerać.\nNarodziło się przybite do roli boga, który nigdy nie może przestać się karmić.",
+      "kr_sha256": "92634ec0ff6334d35d5af66b779cfcc12004e9b346df711bfb606ea5327ab246",
+      "en_sha256": "a829e1434795e32ef4d6ad46c3cf1ff1eeb6d38c9195b3aebc2fcb3715ff0f80",
+      "origin": "ai"
+    },
+    "dataList[key=I990503].displayName": {
+      "pl": "Spożycie",
+      "kr_sha256": "a2f986f71aab9cd26340eb6fde228d8ea3ec8f15bcbb03bd972d76c7aa818ba1",
+      "en_sha256": "36fad7931ef8cf0312837feba838e8721fa10adff056bb72b9050e7c1dd28528",
+      "origin": "ai"
+    },
+    "dataList[key=I990503].statText": {
+      "pl": "W walce w Zacienionym wygrana w Starciu <color=#00ff9c>leczy</color> o (Moc Końcowa Umiejętności x 1.5) <color=#00ff9c>HP</color> (raz na turę na Tożsamość)\n- Dla Umiejętności E.G.O stosuje się x1 zamiast x1.5 (zaokrąglone w dół)\n- Tożsamość wyleczona tym efektem zyskuje w następnej turze 1 <color=#fe4b48>Zwiększenie Obrażeń</color> (raz na turę na Tożsamość)",
+      "kr_sha256": "551472b3258f1164b9ca34450f0d9800f249d1c8c806a6f311fb41f568119c30",
+      "en_sha256": "b679f716fd06b690895fa8b5dd6b6d565fdc9cc047c90b20017c7f0796e00222",
+      "origin": "ai"
+    },
+    "dataList[key=I990931].description": {
+      "pl": "Szal podarowany przez kobietę w błękicie przypominającą Demiana. Noszenie go daje dziwne poczucie, że chroni przed wszystkim.\nNiewiadomo, czy to litość nad porażką, czy wsparcie na dalszą drogę — czuje się ciepło podobne do morza.\nMorze straszy niedostępnością głębin, a jednak wydaje się, że mogłoby objąć wszystko.",
+      "kr_sha256": "fab0a6fb53e848066146d00a230394500610ff4182b4d020b3c8683c622ba6f5",
+      "en_sha256": "25815c74799b748ba95acd8e8d983e9249a17bee6d334295525294b5fb2bcc69",
+      "origin": "ai"
+    },
+    "dataList[key=I990931].displayName": {
+      "pl": "Szal",
+      "kr_sha256": "634f23a72357e4022c83997310bd91ed3bded90dffe93f85543474bf459eef19",
+      "en_sha256": "5c22a749ac7d738d70cdbe77ca6daecb3c368304611d7859ff20e7945a4a361e",
+      "origin": "ai"
+    },
+    "dataList[key=I990931].statText": {
+      "pl": "<color=#fe4b48>Obrażenia</color> ataku w Symbolicznym +350\nW Symbolicznym <color=#00ff9c>HP</color> nie spada poniżej 1",
+      "kr_sha256": "4ce73871ec7afae0ac8a51097b3ec71fa2f9c54cfc2d9240d756b2421caeda6f",
+      "en_sha256": "f7d16b018bcf17bc36d084fbe408247fc0300e36e3347e1adaa29d181e95eb8e",
+      "origin": "ai"
+    },
+    "dataList[key=I990935].description": {
+      "pl": "Ten przechodził przez czasy wraz z samym Grand Magasin, zszywając blizny tkaniną.\nTo dowód zwycięstwa nad tym, co przetrwało ciężar czasu i ostatecznie pod nim runęło.",
+      "kr_sha256": "7ae0f36ba253d34094ed8fd7061f8b811d841ed3000428d0d8eca7854e492bcc",
+      "en_sha256": "aa18690d3f9f54042ef02c8e8c72ac50cfde7c6ad3da3b8ee15525df5af83e34",
+      "origin": "ai"
+    },
+    "dataList[key=I990935].displayName": {
+      "pl": "Wachlarz Wycierany Czasem",
+      "kr_sha256": "250628dd7aa13f2b232d104ddbd34d0b0e963c5c07481372622098c588ac41fa",
+      "en_sha256": "1e170398457f799390f68173be7bfd8bc2ee28cb750ceb890d0bf093534f6f0b",
+      "origin": "ai"
+    },
+    "dataList[key=I990935].statText": {
+      "pl": "W walce w Zacienionym:\nTożsamości „Sisyphe” zadają +10% <color=#fe4b48>obrażeń</color> wrogom",
+      "kr_sha256": "c8b45792fcef7db8ef29026f6db294d81f833d6f970b31289399caa8ffc70855",
+      "en_sha256": "aa1b43c18b015bc6507e2562435cb0f9e3ab90f883aacf2b18837525e6f9ea3a",
+      "origin": "ai"
+    },
+    "dataList[key=I990936].description": {
+      "pl": "Kwiatowe pantofelki, niegdyś przesycone aromatem wiosny, pokrył śluz — wyglądają tak, jakby nie były już tymi pantofelkami.\nA jednak spod tej lepkiej plamy wyłania się delikatny powiew wiosny...\nSubtelny aromat, który przywodzi na myśl dni chodzenia u boku Pwie.",
+      "kr_sha256": "6b265cfab0de550c57db4eb65fa1da310b7892d4d22ab34f60d3435c2d54f786",
+      "en_sha256": "d9a191a209429074494923e65a34bb649266a63d5722f25c6724b980bf5d674f",
+      "origin": "ai"
+    },
+    "dataList[key=I990936].displayName": {
+      "pl": "Szkarłatne Kwiatowe Pantofelki",
+      "kr_sha256": "2619d5b4f9a9342f134e8b9d9a6c8db3d6d5b4654fe6e9ca2350e8bd740ad1a9",
+      "en_sha256": "ea36065fb6f8cf396bf3f3344d179e3eea4a0e7397ebdee1e45bc7b4d2d7d106",
+      "origin": "ai"
+    },
+    "dataList[key=I990936].statText": {
+      "pl": "W walce w Zacienionym, na początku tury, 1 Tożsamość w Ogłuszeniu z najniższym HP <color=#F8C200>zdejmuje Ogłuszenie</color>. Następnie <color=#00ff9c>leczy</color> ją o 20% jej maksymalnego HP. Jeśli to Tożsamość „Le Rouge”, zamiast leczenia zyskuje 2 <color=#fe4b48>Zwiększenie Mocy Ataku</color> (maks. 2 razy na potyczkę)",
+      "kr_sha256": "3fc875d62f3666b1b676dc87d04c7696b656ccd222839b511cb12616d05b95f8",
+      "en_sha256": "df72dff30e9afad2173277bf1f2a714a9d93cce3879b421143855b34ad5d9107",
+      "origin": "ai"
+    }
+  }
+}
