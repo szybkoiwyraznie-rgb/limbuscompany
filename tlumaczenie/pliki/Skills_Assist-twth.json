@@ -1,0 +1,286 @@
+{
+  "entries": {
+    "dataList[id=40003701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "e47ee5ffd4964d4ca3fb0a4127bdc1212ebe8541da9b119696ce24eead0aecd9",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "e47ee5ffd4964d4ca3fb0a4127bdc1212ebe8541da9b119696ce24eead0aecd9",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 3 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "e47ee5ffd4964d4ca3fb0a4127bdc1212ebe8541da9b119696ce24eead0aecd9",
+      "en_sha256": "c133ca6195fd42754995b8f84493b45c65692c89b38e0ebcad05831143a556f9",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "aa2930c515db84d29a597d0316c9e892e47e09c8807bf752187ef72fc6f557f6",
+      "en_sha256": "ae9a903114fbfba1ff5aadfd1586b5fd42a3a5c25131166b6de7919ae88b5c18",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 3+ ([Combustion] + [Laceration]), Moc Końcowa +2",
+      "kr_sha256": "59ec0f5e5a95f272947b1c87e61520268b3a37ae0f6809c27d9c4c8661d7506f",
+      "en_sha256": "f3555fe12e762f37916569f206a329c364348b34680707342b08cab8e0f7aeec",
+      "origin": "ai"
+    },
+    "dataList[id=40003701].levelList[level=1].name": {
+      "pl": "Time for Some Warm-up!",
+      "kr_sha256": "ff455bd614b3d45668578ea0930029f5f221931a1cbef53b1f9fb8288f03d1b9",
+      "en_sha256": "0a89bfe5f441dad6cc81451cc6821f51506987f2fd38a10dbb83838464d87f6f",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "af90ba81c9453b9472f07e7c10e06c9ba3b7a778cee725da76d37f2198d6b93c",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 5",
+      "kr_sha256": "7a37a77381346c6683277ad2dbf1e82f1d70c20fcb4117a0e498fd62317539c6",
+      "en_sha256": "d9ede7ddbd345e90701adc2daba0b1a2a6857ba4a8fceb8c15232540e2e86116",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "af90ba81c9453b9472f07e7c10e06c9ba3b7a778cee725da76d37f2198d6b93c",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 5",
+      "kr_sha256": "7a37a77381346c6683277ad2dbf1e82f1d70c20fcb4117a0e498fd62317539c6",
+      "en_sha256": "d9ede7ddbd345e90701adc2daba0b1a2a6857ba4a8fceb8c15232540e2e86116",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy 3+ [ResentmentSpiderDaughterTwo] używa tej Monety ponownie 3 razy",
+      "kr_sha256": "4340fc12b3271685171df8f4ff35bcdcceec521ae81764e89b16fae27b18f03e",
+      "en_sha256": "264762372f235b3f369748711d728fdf907944ef6fabcfd43a0a62d9a9ca70eb",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].desc": {
+      "pl": "jeżeli cel ma 3+ ([Combustion] + [Laceration]), Moc Końcowa +2\n[WhenUse] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], nakłada 2 [Laceration] przy trafieniu Monetą",
+      "kr_sha256": "113c61e26348842f704312070f5993d65629de0c51f64d27cb1b993c83595f91",
+      "en_sha256": "425fdbf66b3222902ca88dbfb07f73110daf617c0894a4fba3b511437ab59bf7",
+      "origin": "ai"
+    },
+    "dataList[id=40003702].levelList[level=1].name": {
+      "pl": "Totally Badass Ass-kicking",
+      "kr_sha256": "9b30ed4e1cff2cc3119759ff72a4b2932eb48802795d1cf7a5fc2d030c50c574",
+      "en_sha256": "d0b27c35a2c39ededc203db254c56162edfb500f4b8b3884892632c9e712ed2c",
+      "origin": "ai"
+    },
+    "dataList[id=40003703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=40003703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40003703].levelList[level=1].desc": {
+      "pl": "Ta Umiejętność aktywuje efekty Termicznego Ostrza[TabExplain], gdy jest w stanie [HeatingWireOnSpiderTwo]\njeżeli cel ma 3+ ([Combustion] + [Laceration]), Moc Monety +1\n[WhenUse] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], zwiększa przy trafieniu Monetą Licznik [Laceration] celu o 1\n[EndSkill] przy 3+ [ResentmentSpiderDaughterTwo] zyskuje 1 [VioletDamageUp] w następnej turze",
+      "kr_sha256": "7cc36717b01644add16a5dba6dfd9b21f740b5e0c5424f51a21cf2f533ff0fdd",
+      "en_sha256": "1b90328498e3f85ea347ae868e7a1cd9b1f45ab78c66fef8503df9bafd506429",
+      "origin": "ai"
+    },
+    "dataList[id=40003703].levelList[level=1].name": {
+      "pl": "Disemboweling!",
+      "kr_sha256": "83ec59b0ae6947279fb8b765b165ae503e2915d0e8a5b6cad8a41c6db8564a54",
+      "en_sha256": "bb352c5ec1017b1d365c070bef2d3f66d824def7958726730116c5e40decf22b",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "af90ba81c9453b9472f07e7c10e06c9ba3b7a778cee725da76d37f2198d6b93c",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "aa2930c515db84d29a597d0316c9e892e47e09c8807bf752187ef72fc6f557f6",
+      "en_sha256": "ae9a903114fbfba1ff5aadfd1586b5fd42a3a5c25131166b6de7919ae88b5c18",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].desc": {
+      "pl": "Ta Umiejętność aktywuje efekty Termicznego Ostrza[TabExplain], gdy jest w stanie [HeatingWireOnSpiderTwo]\njeżeli cel ma 3+ ([Combustion] + [Laceration]), Moc Monety +1\n[WhenUse] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], zwiększa przy trafieniu Monetą Licznik [Laceration] celu o 1",
+      "kr_sha256": "b56266a76cc84f899e7857f52f60f0124fc2f9e65fe90a62267445381184e12f",
+      "en_sha256": "c5b8be2c8dc82e5122a51ba7d0b7c1313167ff33ca33776eac3630b9830e77a7",
+      "origin": "ai"
+    },
+    "dataList[id=40003704].levelList[level=1].name": {
+      "pl": "Crossing Dervish!",
+      "kr_sha256": "7514acb50b42ba3e496b9f88da0bdc6125ecf6983d8798f1d607b733da139d4d",
+      "en_sha256": "65b05ca4de62cc2b671041580a216f1bb98855b78ef9633c1e17072a347abc00",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje 5 dodatkowych obrażeń Uderzeniem",
+      "kr_sha256": "af90ba81c9453b9472f07e7c10e06c9ba3b7a778cee725da76d37f2198d6b93c",
+      "en_sha256": "d2bc47b9c2064d83d7fc73a38e3dcf3bfcf6d6c776ce4b265ae7e3005233b062",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 5",
+      "kr_sha256": "7a37a77381346c6683277ad2dbf1e82f1d70c20fcb4117a0e498fd62317539c6",
+      "en_sha256": "d9ede7ddbd345e90701adc2daba0b1a2a6857ba4a8fceb8c15232540e2e86116",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#4].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].coinlist[#4].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "bbed05824b047b12101c30042f117fb9f3984dc6e838850acfb8f02e10b79efe",
+      "en_sha256": "6d9da4163ca62fd9f338c03646329421187a03cdab80a3ba43621674f14d27d9",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].desc": {
+      "pl": "Ta Umiejętność aktywuje efekty Termicznego Ostrza[TabExplain], gdy jest w stanie [HeatingWireOnSpiderTwo]\njeżeli cel ma 3+ ([Combustion] + [Laceration]), Moc Monety +1\n[WhenUse] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], zwiększa przy trafieniu Monetą Licznik [Laceration] celu o 1\n[WhenUse] przy HP tej jednostki 40% lub mniej albo przy 2+ [ReinforcedTattooSpiderDaughterTwo] zadaje +60% obrażeń\n[WhenUse] przy 2+ [ResentmentSpiderDaughterTwo] 50% szansy na nałożenie 1 [Paralysis] przy trafieniu Monetą\n[EndSkill] zużywa wszystkie [ResentmentSpiderDaughterTwo] tej jednostki",
+      "kr_sha256": "c38d3dad5e3ead1eb1211a35ba62665133b81bfb8e3899e00c533166c032ff73",
+      "en_sha256": "7748cc07449d1acd0a1262d6302080be2283f439a44a28a97735d52b6ce4e28e",
+      "origin": "ai"
+    },
+    "dataList[id=40003705].levelList[level=1].name": {
+      "pl": "Violet~ Breaking Slam!",
+      "kr_sha256": "93d8188ddf7cf41a632075ddab58b145aa2a9596f35542a28c1ab260b871fdd1",
+      "en_sha256": "38c68325906389cbf359ff3235f640aefdf7a1a2a7e5f46d4b2d6ecec622844a",
+      "origin": "ai"
+    },
+    "dataList[id=40003706].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Laceration] o 2",
+      "kr_sha256": "2ab51e9513a490afe9e5eb526f07dfe0668c107d7b49337d7c67bc28a9d14dbc",
+      "en_sha256": "7fd68e5d1d9574d86b985649601e37721ecd966124bc0584c11102ceceac4e72",
+      "origin": "ai"
+    },
+    "dataList[id=40003706].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Laceration]",
+      "kr_sha256": "d682ba8189394bc77f79535ff626971d37784241da00aaa48a0030db194d8f4b",
+      "en_sha256": "a9a54e26a99267eb4c51322fd70f7b6a92b8a276ccb07af17f7a022744f9998d",
+      "origin": "ai"
+    },
+    "dataList[id=40003706].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] obniża Próg Oszołomienia użytkownika o 10",
+      "kr_sha256": "dc420f3abaabe8dd431c7c4e6865670c67a9a7436d7e1f2bcf3077a061843506",
+      "en_sha256": "4d23d411e63fb71f4cfbc47fa8ce247adee04bb71cbb5e067218435bead8a544",
+      "origin": "ai"
+    },
+    "dataList[id=40003706].levelList[level=1].desc": {
+      "pl": "Ta Umiejętność aktywuje efekty Termicznego Ostrza[TabExplain], gdy jest w stanie [HeatingWireOnSpiderTwo]\nprzy otrzymaniu trafienia używa tej Umiejętności ponownie 1 raz za każde 1 [ReinforcedTattooSpiderDaughterTwo] tej jednostki (maks. 2 razy)\n[WhenUse] jeżeli ta jednostka ma [ReinforcedTattooSpiderDaughterTwo], nakłada 1 [Laceration] przy trafieniu Monetą\n[WhenUse] przy HP tej jednostki 40% lub mniej albo przy 2+ [ReinforcedTattooSpiderDaughterTwo] zadaje +40% obrażeń",
+      "kr_sha256": "68a95944b895cc967665a4cc2c72d798dace73ecd5aee0cc25e11cf3abb3de13",
+      "en_sha256": "bd0d4f24b98162fad12f7a0d8d23962f52fd5a675ae1349c4c43eb72c2dd09f6",
+      "origin": "ai"
+    },
+    "dataList[id=40003706].levelList[level=1].name": {
+      "pl": "I'll Get You Back for This...!",
+      "kr_sha256": "d85133885d1fd0b0e499936e8a1b8000b3966a5d2d24cf30483ea65659198c6f",
+      "en_sha256": "193e89231a50fbbc1a6fddc66fe881ddd642b0ea14bfa5e4ca18516e9833db97",
+      "origin": "ai"
+    }
+  }
+}

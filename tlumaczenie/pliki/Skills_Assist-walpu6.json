@@ -1,0 +1,172 @@
+{
+  "entries": {
+    "dataList[id=40000301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=40000301].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Burst]",
+      "kr_sha256": "a28e9afe08f88e1ecd2913ef80802532ad580f4604ebfe629824ff8b1f970e9e",
+      "en_sha256": "e056a9fb376fbe315789f524ba2987464255c0690d67dbecb50f5057b06440de",
+      "origin": "ai"
+    },
+    "dataList[id=40000301].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Bazowa +1 za każde 5 ([Burst] + [Sinking]) celu (maks. 2)\n[WhenUse] zyskuje 10 Licznika [PowerOfLoveAndJustice]",
+      "kr_sha256": "0514376adfe52bc308d99f076aeca8c952dcb562b3d9fc65bfafbd5a939e0ccc",
+      "en_sha256": "2b3e25fa67099f70e6b9a48a6ee7dba38b6cdd4d88cc8714a4abffcaf93d819c",
+      "origin": "ai"
+    },
+    "dataList[id=40000301].levelList[level=1].name": {
+      "pl": "With Love!",
+      "kr_sha256": "82744ceff18186d629f3cc6dbb951dbf1c89120a29fdbe035280dd21b7c43c88",
+      "en_sha256": "37a2a855198299fee8b64125d255387a7421ac88cb24b29b3b2baf83861e809c",
+      "origin": "ai"
+    },
+    "dataList[id=40000302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zwiększa Licznik [Burst] o 2",
+      "kr_sha256": "536f01ba3daa85701f93372ada3ed5934b4323fd4ec39b5fead5b3328a2b8711",
+      "en_sha256": "dd02ed0880b421f4b3a6e944d87d36072d86e4b13a4a04dd5a698d874e7b61dc",
+      "origin": "ai"
+    },
+    "dataList[id=40000302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 10+ ([Burst] + [Sinking]), nakłada 1 [Binding] w następnej turze",
+      "kr_sha256": "190cbf0a949e0491f7ecc9cd0df772fa51e106c7a44ae51391bcf521940716ef",
+      "en_sha256": "2ebd4c10f7606e250203333b3dbf4c42214c0a9958c7cb8e4e59c97ce3361148",
+      "origin": "ai"
+    },
+    "dataList[id=40000302].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 7 ([Burst] + [Sinking]) celu (maks. 2)\n[WhenUse] zyskuje 10 Licznika [PowerOfLoveAndJustice]",
+      "kr_sha256": "ca4d77190921e482d37d875148ec62c92bc39d5723f502820840cdb96308f637",
+      "en_sha256": "399839db8d58204c4b9f75765a1b5790560d6f6b1dc8c91f14825d3dd479c3c0",
+      "origin": "ai"
+    },
+    "dataList[id=40000302].levelList[level=1].name": {
+      "pl": "In the Name of Justice!",
+      "kr_sha256": "2a94f19f9db25aa8fd3a962b908516a32892c1176a7c4d33371d93c447281488",
+      "en_sha256": "71d520cbaf5015d02c6be1981a56b3361857e5ba3c52a0c736185443c69ae195",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest wrogiem, nakłada 1 [Burst]",
+      "kr_sha256": "e95420907dae0f60698eaf89195b4b15523044945e5ac309eefe39ea916a182c",
+      "en_sha256": "4f9fb9d19452144edd4198b5f3e2d078cae1da23432f87bf463252f1c5997048",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest sojusznikiem, przywraca 5 HP",
+      "kr_sha256": "78131e08e6a5eb1b840832ba6b4bbab0f0df9e85fb7067778493d2f935cd7f82",
+      "en_sha256": "d6c5983915ebc108168cb44ce7338aa4a518659f4491726450f153e52e1ce3fe",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest wrogiem, nakłada 1 [Burst]",
+      "kr_sha256": "e95420907dae0f60698eaf89195b4b15523044945e5ac309eefe39ea916a182c",
+      "en_sha256": "4f9fb9d19452144edd4198b5f3e2d078cae1da23432f87bf463252f1c5997048",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest sojusznikiem, przywraca 5 HP",
+      "kr_sha256": "78131e08e6a5eb1b840832ba6b4bbab0f0df9e85fb7067778493d2f935cd7f82",
+      "en_sha256": "d6c5983915ebc108168cb44ce7338aa4a518659f4491726450f153e52e1ce3fe",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest wrogiem, nakłada 1 [Burst]",
+      "kr_sha256": "e95420907dae0f60698eaf89195b4b15523044945e5ac309eefe39ea916a182c",
+      "en_sha256": "4f9fb9d19452144edd4198b5f3e2d078cae1da23432f87bf463252f1c5997048",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel jest sojusznikiem, przywraca 5 HP",
+      "kr_sha256": "78131e08e6a5eb1b840832ba6b4bbab0f0df9e85fb7067778493d2f935cd7f82",
+      "en_sha256": "d6c5983915ebc108168cb44ce7338aa4a518659f4491726450f153e52e1ce3fe",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].desc": {
+      "pl": "głównie celuje w „Rycerza Rozpaczy”\ncele poboczne: sojusznik z największą liczbą [ColdBlackTear]\n- w razie braku — sojusznik z najmniejszym HP\nzadaje sojusznikom 0 obrażeń i nie aktywuje efektów [Sinking] ani [ColdBlackTear]\n\n[WinDuel] usuwa 1 [ColdBlackTear] z sojusznika będącego celem pobocznym",
+      "kr_sha256": "1f11983e96338f3992c055438c9fe31631b1ccd7afc3cf1521957bc4d523306a",
+      "en_sha256": "0489a0bb67928fe21bfc88031c2e797a88030afcf4b99721d1fb1278b32e7788",
+      "origin": "ai"
+    },
+    "dataList[id=40000303].levelList[level=1].name": {
+      "pl": "Arcana Beats",
+      "kr_sha256": "5515c4f8e1e111d01322fc5cc6a445ba263f5b24bcd50b0739292bec01dac217",
+      "en_sha256": "2291a43462aed2c383bcd00a4af31cdd22aeb3177df0af3f7d0b19e1c379518c",
+      "origin": "ai"
+    },
+    "dataList[id=40000304].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 1 [ChasingArcana]\n[StartBattle] zyskuje 50 Tarczy\n[StartBattle] zyskuje 20 [Aggro] w następnej turze",
+      "kr_sha256": "9f2c5a04f9b95ccf0b85989dc7e7ea0de5d2bb814d6ebe6613eedfe716bc5ce3",
+      "en_sha256": "9993033dbe58886b92c705aeb90b3434d29438aa59e73aeecf014f0e55948314",
+      "origin": "ai"
+    },
+    "dataList[id=40000304].levelList[level=1].name": {
+      "pl": "Looks Like I'll Have to Use This Power!",
+      "kr_sha256": "fb5085b4f8d28084b56eb78517bc9ad746f533f8800cbc069d6b099e263e363f",
+      "en_sha256": "c4c39ee0bf7580a416d60181d6922427567fb6c08840877bc573151ff576bd6e",
+      "origin": "ai"
+    },
+    "dataList[id=40000305].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 50 Tarczy\n[StartBattle] zyskuje 20 [Aggro] w następnej turze\n[EndBattle] gdy nie ma pozostałej Tarczy, wycofuje się",
+      "kr_sha256": "7a76a0b50d61fb75d6bd15e8e8e6e97c89062fd110c508cb08bfa004cb2bb5a5",
+      "en_sha256": "1e0bd22362fdbd2e52efd0f3e44f4fe3c35e4a32e6d0fc83240d0e8c706767e0",
+      "origin": "ai"
+    },
+    "dataList[id=40000305].levelList[level=1].name": {
+      "pl": "Chanting - Arcana Slave",
+      "kr_sha256": "e1e3c30800ff5e0b4a7860624e5655562c733797c428569254c9eef700fc8234",
+      "en_sha256": "ca37d55081b422033de30b5858c74103f727eccd7a3922dcaa962b10b13c7d53",
+      "origin": "ai"
+    },
+    "dataList[id=40000306].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] ustawia HP celu na (100 - (Stos [CollapsedPride] x 33))% aktualnego HP",
+      "kr_sha256": "15c1ed04fefd053c50dc62e1eafe289f37daca1caa360b12a815ad5bfbb6c061",
+      "en_sha256": "7ad1099135b3415b9440c9ba3d1d71fb3fd54872a99cee1098585fa295f0f03b",
+      "origin": "ai"
+    },
+    "dataList[id=40000306].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nnie zadaje obrażeń Mieczowi Zapomnianego Rycerza[TabExplain]\nkończy turę po trafieniu wroga z [WornOutKnight]\n[EndBattle] zyskuje [UsedTooMuchPower]",
+      "kr_sha256": "c510527e8d112b8812cdf837228be7a957a2a3136518267df5872e602604ff36",
+      "en_sha256": "b48091670921e1c465edfd5dd8bc165bb99fb23437f6f4021fa0e4c48725e9b6",
+      "origin": "ai"
+    },
+    "dataList[id=40000306].levelList[level=1].name": {
+      "pl": "ARCANA SLAVE",
+      "kr_sha256": "c70600ff6a0cd7c2c35f870a670631794e65f6ce103f55e485cc310eb2ef6dae",
+      "en_sha256": "c6e05d5a592a050e7780fbe73d98249d0815a2be8971835b3877527c5f3ec334",
+      "origin": "ai"
+    },
+    "dataList[id=40000307].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zadaje (Stos [CollapsedPride] x 200) obrażeń stałych",
+      "kr_sha256": "83d8e191e5522f7a630f4a156de95dba59154b14888c3a01d663e8cb5c321046",
+      "en_sha256": "98b4335422d65eb54717a17d4c1282fd7eec414edb1f8f1200dc8d4438056b44",
+      "origin": "ai"
+    },
+    "dataList[id=40000307].levelList[level=1].desc": {
+      "pl": "[CantDuel]\nzadaje obrażenia wyłącznie efektami Monet\nnie zadaje obrażeń Mieczowi Łamiącemu Serce, Mieczowi Rozdzierającemu Serce ani Mieczowi Przebijającemu Serce\nkończy turę po trafieniu wroga z [WornOutKnight] i HP 600 lub mniej\n[EndBattle] zyskuje [UsedTooMuchPower]",
+      "kr_sha256": "d5ff4972d6ed59f712d79ea049e826303e57926dfddc8a130b9765ef857e1bf4",
+      "en_sha256": "6d53518760c940dfcc14db92b7b0f74bb2986ca3d1610fc225fed76f9449dece",
+      "origin": "ai"
+    },
+    "dataList[id=40000307].levelList[level=1].name": {
+      "pl": "ARCANA SLAVE",
+      "kr_sha256": "c70600ff6a0cd7c2c35f870a670631794e65f6ce103f55e485cc310eb2ef6dae",
+      "en_sha256": "c6e05d5a592a050e7780fbe73d98249d0815a2be8971835b3877527c5f3ec334",
+      "origin": "ai"
+    },
+    "dataList[id=40000308].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 1 [ChasingArcanahard]\n[StartBattle] zyskuje 50 Tarczy\n[StartBattle] zyskuje 20 [Aggro] w następnej turze",
+      "kr_sha256": "524d32b76833aa97a9c55ef6a55666edb1b6712e12d45b097ea7d977630ea6d2",
+      "en_sha256": "0dac3888fd9e9e9eab9e2e9b9adb141ddc3edc6117371375bfe146b02d853855",
+      "origin": "ai"
+    },
+    "dataList[id=40000308].levelList[level=1].name": {
+      "pl": "Looks Like I'll Have to Use This Power!",
+      "kr_sha256": "fb5085b4f8d28084b56eb78517bc9ad746f533f8800cbc069d6b099e263e363f",
+      "en_sha256": "c4c39ee0bf7580a416d60181d6922427567fb6c08840877bc573151ff576bd6e",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=146501].desc": {
+      "pl": "Na początku etapu: zyskuje 5 [NoirBindArmor]\nPoczątek tury: zyskuje Tarczę równą (Stosy [NoirBindArmor])% Maks. HP tej jednostki",
+      "kr_sha256": "b1c72682edcae5f851874fcf7058ef7250746c658be1b9fa51e39c5e8eb2ee3e",
+      "en_sha256": "d3a443d4a0c597d9cdff81e214f6d047266b2601df04a0fb2fd5397e584ac038",
+      "origin": "ai"
+    },
+    "dataList[id=146501].flavor": {
+      "pl": "Tkanina Le Noir trzyma ciało jak zbroję, eksponując je pod twardą, niezmienną sylwetką.",
+      "kr_sha256": "5d1c9a71e8c8f2c685deb9bc206813940c111b745e3a806e69ee65efdfed3952",
+      "en_sha256": "8cac25a43808e04b0d2ab840cb6e2b80cf61a2cda5d3dc589705dd707b5151e8",
+      "origin": "ai"
+    },
+    "dataList[id=146501].name": {
+      "pl": "Le Noir: Fabric",
+      "kr_sha256": "d123c5395d881d4693ae1bb17715e3d533641be5b3e240abea5ceed6f3e89d9c",
+      "en_sha256": "9d372b95f01e3da69c4a7ac8bf5979253ee97315da44866c1f3b2d93241c1584",
+      "origin": "ai"
+    },
+    "dataList[id=146502].desc": {
+      "pl": "zadaje +10% obrażeń i otrzymuje +10% obrażeń od celu za każde 1 [NoirNoComply] celu\nzadaje +200% obrażeń celom mającym 3 [NoirNoComply]",
+      "kr_sha256": "0404247479dfb9a9b3c8ba13564fc91029befb700d97bfe2f8d2229652c28f8b",
+      "en_sha256": "5a35c3b690a867ea321be339060458e2eedf81b0a8dbb7913032052c66710692",
+      "origin": "ai"
+    },
+    "dataList[id=146502].flavor": {
+      "pl": "Le Noir obsługuje swoich szanowanych klientów w ścisłej zgodzie z podręcznikiem zarządzania Centrali.",
+      "kr_sha256": "381557de4c6d164abe0e2a351254c22a334d4f1c331686d8951396fef12688c0",
+      "en_sha256": "6be2f23347bb3ab680c175ee7955b048f5f4981f43793eade84bea4b763f5415",
+      "origin": "ai"
+    },
+    "dataList[id=146502].name": {
+      "pl": "Ushering Customers",
+      "kr_sha256": "0046bf1e9c891c476a41a67507719ceee775937afd4a4b06cc0d48712582b8b7",
+      "en_sha256": "34395cb5ecbf04d7e43b9618986ca37b209713e268802d455041062282d0c6d8",
+      "origin": "ai"
+    },
+    "dataList[id=146503].desc": {
+      "pl": "zyskuje 1 [NoirBindArmor] za każde 3 łącznie zużyte Liczniki [ChargeNoir] tej jednostki w tej walce\nzyskuje 1 [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce",
+      "kr_sha256": "66a89e0691c5ec1ee73cc747a121ee103358e53e2f6b189c9714624e5ed56d7f",
+      "en_sha256": "c2f8a43fc13001cf63955ef36c1ad01736436d69164879c829619036a658bb96",
+      "origin": "ai"
+    },
+    "dataList[id=146503].flavor": {
+      "pl": "Siła zostaje sprężona, skupiona i utrwalona. Czasem potrzeba więcej siły, by powstrzymać zmianę, niż ją wywołać.",
+      "kr_sha256": "3e79f8c381c71f64fff9bb4f3d5bb8460c0cb810e4998a920a33532dce2ad12c",
+      "en_sha256": "16236fac480e333be8909bfb20786099a803dbe97ed5bc550b79e8f3fddd1cb5",
+      "origin": "ai"
+    },
+    "dataList[id=146503].name": {
+      "pl": "Preservation",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "9ca6fa0d8440abbca9060a1171352e63c6c6da19cd1d4cfec3291675beeab390",
+      "origin": "ai"
+    },
+    "dataList[id=146603].desc": {
+      "pl": "Przy pierwszym pojawieniu się w walce zyskuje 10 Licznika [ChargeRouge]\n\nzyskuje 1 [ChargeRouge] za każde 10 łącznie zużytych Liczników [ChargeRouge] tej jednostki w tej walce",
+      "kr_sha256": "c2f860b03b9bdac9acfb93086e691e7eca868f9331a7999d7e2e9eef39af1072",
+      "en_sha256": "e222de9e0fae8b063ae5a18d280ea188d60b3342490afcab1d402b3fd8d5789a",
+      "origin": "ai"
+    },
+    "dataList[id=146603].name": {
+      "pl": "Metabolic Action and Reaction",
+      "kr_sha256": "2726e5cd67a73e950da46c7344bc2b2966a2fb78ba15bec44fa60f2fa32e61ec",
+      "en_sha256": "d5f977c5a66eb5fcb6a9ae860659866a38379bf154bfe7f67452deebdbc0c99d",
+      "origin": "ai"
+    },
+    "dataList[id=149401].desc": {
+      "pl": "Koniec tury: zyskuje lub traci do 10 Licznika [ChargeRouge]\n\nPrzy trafieniu, jeżeli atakujący użył Umiejętności zyskujących [Charge], przenosi na atakującego 1 Licznika [ChargeRouge] jako 1 Licznika [Charge] (1 raz na Umiejętność atakującego)\nza każde uruchomienie powyższego efektu zyskuje 1 [AttackUp]\nPoczątek tury: zużywa do 5 nadmiarowych Liczników [ChargeRouge] tej jednostki powyżej 15, aby przywrócić (zużyte Liczniki [ChargeRouge])% HP",
+      "kr_sha256": "941e5af327756598f125f91f043db354ea60146035da107c8471d59c5c59aa2e",
+      "en_sha256": "1d7e5cbd5f93eaf8785c2c498019c7094b1a721bd817b8001c4c099d9c89052e",
+      "origin": "ai"
+    },
+    "dataList[id=149401].name": {
+      "pl": "Le Rouge: Jacket",
+      "kr_sha256": "3b2e8f3fcdc5e22843faf79b683e8ef2b92d9ef32198c85209b27be6b4f6cf7c",
+      "en_sha256": "4cfdb8ac3692f5d596f5d8017525a90b3c1581c469809877dcc7c28dcd6e6e98",
+      "origin": "ai"
+    },
+    "dataList[id=149402].name": {
+      "pl": "Myofiber Denim",
+      "kr_sha256": "febc6c0dc526e07cab99be7dd7c07a4bbdde4f231da9c84e3ebd2a44a4acd2d5",
+      "en_sha256": "0f42f7d7fea210352b2616fc1fa9a596dadbc1c9a3067c4e6417f0f7de297336",
+      "origin": "ai"
+    }
+  }
+}
