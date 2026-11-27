@@ -653,4 +653,6 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
   tożsamościowa (159/159). Testy: 69/69 (nowe 4 w
   `tests/test_md_table_align.py`, port z mtgcrawler + idempotencja).
 - **Dostawa:** paczka `LCB_Czytanki_PL_2026-11-27.zip` odświeżona na
-  Dysku Google (patrz dostawa w E-017; nowa rewizja tego samego pliku).
+  Dysku Google (`1Fz9csdM4jhg1TAOIUNastxaP_yKAqrdh`, `2 125 507` B,
+  61 plików MD; wcześniejsza wersja `1RVUhsYgyv2Hs6hwqliS8JwAZOXzusKzs`
+  z E-017 przeniesiona do kosza).
