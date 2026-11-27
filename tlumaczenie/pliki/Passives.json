@@ -8183,6 +8183,738 @@
       "kr_sha256": "9a521b544aa699e7b63cf9d3f7abbf6087113146756d10c7353551419d5eb98c",
       "en_sha256": "10d04002613cc2910b41236ad0b0d047c3cd910c44f8f7b4fca17a2a1c0d38eb",
       "origin": "ai"
+    },
+    "dataList[id=1120101].desc": {
+      "pl": "Odzyskuje 5 HP na początku fazy walki",
+      "kr_sha256": "a74f425244568c11b7b12b0827cabdaa8ba95468604649bb966b961c73335a8d",
+      "en_sha256": "36317dff9fe5b1d4ff08d307144bba09b750ab183ae2eb31a8ebad8a8c6bf7ef",
+      "origin": "ai"
+    },
+    "dataList[id=1120101].name": {
+      "pl": "Wymuszona Egzystencja",
+      "kr_sha256": "4281dcf1a7c9783529b1364a1af00d43b6a511991051f0ac4c1de31c80976a20",
+      "en_sha256": "78144f0ac3fc061173514a93713477e4f5eb0630a8bc608174ca8ea2d24fc7d7",
+      "origin": "ai"
+    },
+    "dataList[id=1120121].desc": {
+      "pl": "Na początku fazy walki 1 Sojusznik z najniższym HP odzyskuje 5 HP",
+      "kr_sha256": "2af40effb91477f61606c634b1e9b18c7726d093852ca53ee6a30b26831c73b6",
+      "en_sha256": "0f981f08fb3e1535180577f9532f51d070ac4a7b6fe378545ddc5d4c84e2b03c",
+      "origin": "ai"
+    },
+    "dataList[id=1120121].name": {
+      "pl": "Kod Genowy G-0",
+      "kr_sha256": "514d1da5ea310760e761262b8f2044e2f37d111dcc513d18dbfe91d63992ac08",
+      "en_sha256": "dd13cffd38fa19e8393eb8c141bd54c8dc31717b6e84c895e213edb205d48a4a",
+      "origin": "ai"
+    },
+    "dataList[id=1120201].desc": {
+      "pl": "Monety od 3. włącznie nakładają 1 Podpalenia przy trafieniu",
+      "kr_sha256": "80b3ca18e9bf9d8a48fbfaecdda7cf60e6fddb514a9bac57ed2467cbbb35cbc9",
+      "en_sha256": "193ea2e01d9cc3702017f5eb139529d8509ae9082625aff54641fbe78f8ba668",
+      "origin": "ai"
+    },
+    "dataList[id=1120201].name": {
+      "pl": "Zapłon",
+      "kr_sha256": "b3e00bf06a8d83ed2ed4fe3d0d6e3bd51ef052c2bd06a46eb64a21c26cbbb5ae",
+      "en_sha256": "ae1c32802c317848e255a2aaab2253a3ce709012976d1016129249ad47696c7a",
+      "origin": "ai"
+    },
+    "dataList[id=1120221].desc": {
+      "pl": "1 Sojusznik z najniższą Szybkością zadaje +30% obrażeń monetami po 3 pierwszych monetach",
+      "kr_sha256": "70332e4863a9bb3ffac2f04b4836ff957e1fb8ce418744de459090d4d94533f8",
+      "en_sha256": "c46a331d0f955a3664a5f234c720bf8a9a858b20d05a8be89bc9b17b05b486ee",
+      "origin": "ai"
+    },
+    "dataList[id=1120221].name": {
+      "pl": "Pędzące Serce",
+      "kr_sha256": "e5675e29e0d3b3f9b04cf38da0b1e0dc735b7247790f05e70b632308f8dc66ae",
+      "en_sha256": "939d54f1e4ecf15831e4877b12249c0c33e66b049c8d3084ed7aa1e5c8567eec",
+      "origin": "ai"
+    },
+    "dataList[id=1120301].desc": {
+      "pl": "Przy HP poniżej 25% odzyskuje 5% Maks. HP przy wygranej w starciu",
+      "kr_sha256": "3179b092b2843155b87e970bfc2d9f571ec9a7084d7d3711519b9721d3e22204",
+      "en_sha256": "1c568ebcebf098ed2563e8bdac6c3e52a69a3b31dd57cbdf1a995e44522c4413",
+      "origin": "ai"
+    },
+    "dataList[id=1120301].name": {
+      "pl": "Awaryjne Racje Żywnościowe",
+      "kr_sha256": "1bcb2dbc89736ffda569015af41c75ec5fc69fc6be7d592fa18c7ded4af7b1a5",
+      "en_sha256": "99b72a4df159aed8762a8eab38d5f83c128b19f8af678f3699048bee8f14f5f8",
+      "origin": "ai"
+    },
+    "dataList[id=1120321].desc": {
+      "pl": "1 Sojusznik z najniższym HP odzyskuje 5 HP po wygranej w starciu",
+      "kr_sha256": "79932a3f83f204c2f012e4614125a4d25be2cdcc79543c9c213bab2cdea19caa",
+      "en_sha256": "ec201ba9319960c1b794d9eb7301fcdfea9ceaeb74bd4f95d40ca6de343bd899",
+      "origin": "ai"
+    },
+    "dataList[id=1120321].name": {
+      "pl": "Kod Genowy G-3",
+      "kr_sha256": "4cac89f8ce789caecf87cb0762d5f2cdaf14d4719337cd8f863dafa170781564",
+      "en_sha256": "0e7484d9bb1fa59db7b24de81f52eb7dc8c380960508fad3c0ac362874d64957",
+      "origin": "ai"
+    },
+    "dataList[id=1120401].desc": {
+      "pl": "Odzyskuje 8 HP na początku fazy walki",
+      "kr_sha256": "181b8207048c1e8bf3d709ad963cd4f0d09795262427d08286f100e2ef37751e",
+      "en_sha256": "e0f2d93f7def6a5745efff70407dfff96f9f8b2ff5d092a313424c4a4e4d9042",
+      "origin": "ai"
+    },
+    "dataList[id=1120401].name": {
+      "pl": "Zapakowane Placuszki",
+      "kr_sha256": "a53a725e46a1b3c8a05352d0ed8a26ad43b69fd3cc051c7d2b7d824e5af057d9",
+      "en_sha256": "550c5f326751ae136a1750e7e48b3087f1cd9bb3ae87a69333dc05648d22edff",
+      "origin": "ai"
+    },
+    "dataList[id=1120421].desc": {
+      "pl": "Na początku fazy walki 1 Sojusznik z najniższym HP odzyskuje 5 HP\nZwiększa leczenie pasywki „Ruch Kuchenny” Szef Kuchni Ryōshū R.B.O.P. o 5",
+      "kr_sha256": "c6f0545efa6a3c5ef35ceca50509e8bdea6983dd088d96f541733d3cf197e011",
+      "en_sha256": "7ef3cc6c10435fc6bcc0792c07fae5e014aca5952e035e0a55e1984ffd45d076",
+      "origin": "ai"
+    },
+    "dataList[id=1120421].name": {
+      "pl": "Pomoc Kuchenna",
+      "kr_sha256": "d5f8ff07523b2029696fe2eb9d12700e4d316cb7388f8478cc14a676edfbdca9",
+      "en_sha256": "90612936b468cf862dab8260cda5036a9b1c61977252403da77918890f927f28",
+      "origin": "ai"
+    },
+    "dataList[id=1120501].desc": {
+      "pl": "Nakłada +1 Rozdarcia na cele posiadające [Vibration]",
+      "kr_sha256": "1e57c81121d8d2673adef7974844a81060dd0530eb4c32f5dfcded0f317878c0",
+      "en_sha256": "c59d8ef83b5884c4091bcf80e734df2ccb529a1d982c05163434360887cefc6d",
+      "origin": "ai"
+    },
+    "dataList[id=1120501].name": {
+      "pl": "Pilnik Pionowy w Ruchu",
+      "kr_sha256": "b24c532949ae53c33eeebf9f8f19849177c8656ec0788ac5ca3c0f1e405854df",
+      "en_sha256": "08be08805467e553eccf9cbf2de6f61586ac69a216cf2fec5e3041b472c17c98",
+      "origin": "ai"
+    },
+    "dataList[id=1120521].desc": {
+      "pl": "1 Sojusznik z najniższą Szybkością nakłada +1 Rozdarcia na cele posiadające [Vibration]",
+      "kr_sha256": "959b15632339732089c0898c830ae0daa85f873ec9b1d81554a2e1f5b6bca717",
+      "en_sha256": "c17ac51bee84047d408b8d16760685a4121efe87ee95cfcc0ca15172eaef19ef",
+      "origin": "ai"
+    },
+    "dataList[id=1120521].name": {
+      "pl": "Konserwacja Pilnika",
+      "kr_sha256": "35037c73077b5eb071bb478f66621772c4e5d3ddc411a85b08fda873ed69bb43",
+      "en_sha256": "c744fd31e00b0dbe1a4c169228237e22de426bbd6b0b6e0075bfc38d2c512650",
+      "origin": "ai"
+    },
+    "dataList[id=1120601].desc": {
+      "pl": "Na początku fazy walki, jeżeli jest celem 2 lub więcej ataków, zyskuje 2 Wzrost Poziomu Obrony\nNa początku fazy walki, jeżeli HP wynosi 50% lub mniej, zyskuje 3 Wzrost Poziomu Obrony",
+      "kr_sha256": "d903e1429b6157f295b7cc7be89d12c44edd31516f049d1561cad626e6712e3b",
+      "en_sha256": "7c78c6a2aa19f9fa38f0702d27874d1960130baa75ac7b1350140789ac5aec63",
+      "origin": "ai"
+    },
+    "dataList[id=1120601].name": {
+      "pl": "Tarcza Bojowa",
+      "kr_sha256": "b85efbb4e356b7ead344f8e0051960f8c4b7a661be365ba0e25179a347413f15",
+      "en_sha256": "f6d32cc5e0d78a664d448435ac214087016131629967c23d587998a4d61c16d1",
+      "origin": "ai"
+    },
+    "dataList[id=1120621].desc": {
+      "pl": "Jeżeli 1 Sojusznik z najwyższym Maks. HP jest celem 2 lub więcej ataków, zyskuje 3 Wzrost Poziomu Obrony",
+      "kr_sha256": "829ff0d289d0e0b067eecd8fbc65bdb3bc4f762d89de07d8c3613fa55b12a274",
+      "en_sha256": "0777fb88513bc1877a662e98c479516e7af2666cebf7e0f467ffbab20ef1a940",
+      "origin": "ai"
+    },
+    "dataList[id=1120621].name": {
+      "pl": "Twoja Tarcza",
+      "kr_sha256": "04d20e3b652c67d6356bbe6ce03e44514a98c3feea66b9fa3461b6e066bf70b7",
+      "en_sha256": "a1b93eb015d1a773a1dad0dd6812190db378b7f7fd1b28eda39c8ded5ce8803c",
+      "origin": "ai"
+    },
+    "dataList[id=1120701].desc": {
+      "pl": "- Przy trafieniu orłem w cele posiadające <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> zyskuje <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>. (maks. 4)\n- Jeżeli nie ma [Bullet], przy trafieniu krytycznym zamiast tego zużywa całe <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>, zadając dodatkowe obrażenia równe (5 x zużyte <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>)% zadanych obrażeń.",
+      "kr_sha256": "1583ec838d5c37a2cbbcc201184a8c2533ee6c01d46650b2926f07b820226d52",
+      "en_sha256": "fbed70431eec01b2842a1f7b68b6abeef363fd9d1d5a7ecee84355fb4ff77c03",
+      "origin": "ai"
+    },
+    "dataList[id=1120701].name": {
+      "pl": "Naboje Są Drogie",
+      "kr_sha256": "007888f08c8117394e2996d84f08917d0051045c596189ddae1b246f67151dac",
+      "en_sha256": "b51fdd082b85ba65e9716747c5ebbd8326bd503e670a7f81b9415293ee700e9c",
+      "origin": "ai"
+    },
+    "dataList[id=1120702].desc": {
+      "pl": "<style=\"highlight\">- Zawsze Aktywne: Rozpoczyna spotkania z 7 Amunicją</style>\n- Przy trafieniu orłem w cele posiadające <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Krwawienie</link></u></color> zyskuje <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>. (maks. 4)\n<style=\"highlight\">- Przy trafieniu monetą zużywającą Amunicję zużywa całe <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>, zadając dodatkowe obrażenia równe (25 x zużyte <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>)% zadanych obrażeń.</style>\n- Jeżeli nie ma [Bullet], przy trafieniu krytycznym zamiast tego zużywa całe <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>, zadając dodatkowe obrażenia równe (5 x zużyte <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Nieprawne Wzbogacenie</link></u></color>)% zadanych obrażeń",
+      "kr_sha256": "b250f8b4f19fe360bb066373602a95ba77d6a93abf3580bebe933abbec47ee77",
+      "en_sha256": "f490845ebbfc6c66efab662755c489be9553e265d2bd3b7ec387dd540db99304",
+      "origin": "ai"
+    },
+    "dataList[id=1120702].name": {
+      "pl": "Naboje Są Drogie",
+      "kr_sha256": "007888f08c8117394e2996d84f08917d0051045c596189ddae1b246f67151dac",
+      "en_sha256": "b51fdd082b85ba65e9716747c5ebbd8326bd503e670a7f81b9415293ee700e9c",
+      "origin": "ai"
+    },
+    "dataList[id=1120721].desc": {
+      "pl": "Gdy 1 Sojusznik z największą liczbą <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Oddechu</link></u></color> pokona wroga, zyskuje 1 Wzrostu Obrażeń Przebijających w nast. turze. (1 raz na turę)",
+      "kr_sha256": "effccd2fadab2af7ad7a5a636ece1ad1f05343fc521dcb2214c441472778918d",
+      "en_sha256": "4d2cb23ec0188ceab74b31e4d50f70213255a8dd4c568d94cf3b8928a6a62353",
+      "origin": "ai"
+    },
+    "dataList[id=1120721].name": {
+      "pl": "Nowy Przewód Oddechowy",
+      "kr_sha256": "646dc6e3c550f864d93d49d56fde5b5cee4d1a43d16ae357e100b1da65982e34",
+      "en_sha256": "d7ee3e64558a227a58f5c5b246fb4eafea012be78c86849c26d0303296137e78",
+      "origin": "ai"
+    },
+    "dataList[id=1120801].desc": {
+      "pl": "Przy wygranej w starciu nakłada 1 [Laceration] (3 razy na turę)",
+      "kr_sha256": "777dd5ef10081d7cd42d00bffe1fcbb812127142ca3cd841660384adf61ab0b0",
+      "en_sha256": "a25178c42e5c74c57a22f69abd9b0c284617ef717470e1ab0dbfa13d6ea6ff7e",
+      "origin": "ai"
+    },
+    "dataList[id=1120801].name": {
+      "pl": "Klinga Czarnego Obłoku",
+      "kr_sha256": "84160b15fea33de16a223dd7718e4e4519dc6f45f1b4d2d55893d6502d3af9ad",
+      "en_sha256": "73d0f8c98753701fd9a5a9a0bee5c8ee6a5f58c657426d70b7bb32e23d8b9959",
+      "origin": "ai"
+    },
+    "dataList[id=1120821].desc": {
+      "pl": "Gdy 1 Sojusznik z najniższą Szybkością trafi wroga z 10+ [Laceration], nakłada 1 Spadek Poziomu Ataku w następnej turze (3 razy na turę)",
+      "kr_sha256": "234f678228b188b1eed6285799a57ab4239f3fd2e93b87293a7000e0da0d4a28",
+      "en_sha256": "bebb67f39644ae7e437824d98fd7af3454f8754ca23f3bfdafe69fe2eda70b25",
+      "origin": "ai"
+    },
+    "dataList[id=1120821].name": {
+      "pl": "Styl Czarnej Chmury",
+      "kr_sha256": "252d72f05377f120dadcd52a23d5f501203f0d292d9c89e7fbc8c3b179498f56",
+      "en_sha256": "adf88773286a8422a00a0d3c990d6d38bb6e2a61f83382e12d58f155db56e999",
+      "origin": "ai"
+    },
+    "dataList[id=1120831].desc": {
+      "pl": "Gdy 1 Sojusznik z najniższą Szybkością trafi wroga z 7+ [Laceration], nakłada 1 Spadek Poziomu Ataku w następnej turze (3 razy na turę)",
+      "kr_sha256": "f8034ec47447f90a4598a898e92c06bc41f174d63c7da822f663cc878a7f0f5c",
+      "en_sha256": "8bf0333a54a8bad01894b51e8391f600fb640e6436ae930102cc9cf780d2e3de",
+      "origin": "ai"
+    },
+    "dataList[id=1120831].name": {
+      "pl": "Styl Czarnej Chmury",
+      "kr_sha256": "252d72f05377f120dadcd52a23d5f501203f0d292d9c89e7fbc8c3b179498f56",
+      "en_sha256": "adf88773286a8422a00a0d3c990d6d38bb6e2a61f83382e12d58f155db56e999",
+      "origin": "ai"
+    },
+    "dataList[id=1120901].desc": {
+      "pl": "- Na początku walki zyskuje 1 [AttackDmgUp] i 1 [Vulnerable] za każde 5 różnicy Poczytalności względem ostatniego początku tury (maks. 3)\n- Zadaje +1% obrażeń za każde 1 Mocy [Sinking] celu (maks. 20%)",
+      "kr_sha256": "c2b844aa5d7bfc19267be197f93a71fd9d917fcad12f09eb930069d4fd52d801",
+      "en_sha256": "e866133bfc6947e77b829f9ae03ead2d0aeab900dd65dea9d033b3ead1de8c1b",
+      "origin": "ai"
+    },
+    "dataList[id=1120901].name": {
+      "pl": "Nieskończone Koszmary",
+      "kr_sha256": "c78c089d784aa9e55467e6598e768ce70208b9dd6aaf61d193cae8febc330a7f",
+      "en_sha256": "bf8ecb6a5a60d05422b0aa2c7b78bd66b5ae27693312669036bb1c9b3c9ee7ec",
+      "origin": "ai"
+    },
+    "dataList[id=1120911].desc": {
+      "pl": "- Na początku walki zyskuje 1 [AttackDmgUp] i 1 [Vulnerable] za każde 5 różnicy Poczytalności względem ostatniego początku tury (maks. 5)\n- Zadaje +2% obrażeń za każde 1 Mocy [Sinking] celu (maks. 40%)",
+      "kr_sha256": "f4a47dca0ebd6e5324e7f7d24f6016f93a5f739872de162db0de2fa56e1fc475",
+      "en_sha256": "4967689629c586ec58e3675401b53022ee45903b053549242c0062dd282338d4",
+      "origin": "ai"
+    },
+    "dataList[id=1120911].name": {
+      "pl": "Nieskończone Koszmary",
+      "kr_sha256": "c78c089d784aa9e55467e6598e768ce70208b9dd6aaf61d193cae8febc330a7f",
+      "en_sha256": "bf8ecb6a5a60d05422b0aa2c7b78bd66b5ae27693312669036bb1c9b3c9ee7ec",
+      "origin": "ai"
+    },
+    "dataList[id=1120921].desc": {
+      "pl": "Na początku walki 1 Sojusznik z najniższą Poczytalnością traci 7 Poczytalności i zyskuje 1 [AzureDamageUp]",
+      "kr_sha256": "ba6504eac3c8ae6632c9784231305131fdf03152347e0f16c70583d8eaf83c0d",
+      "en_sha256": "2d1cbdbf457f35e28efee81a19f6c313405f6ea388f350074d70c6a7af7baf67",
+      "origin": "ai"
+    },
+    "dataList[id=1120921].name": {
+      "pl": "Udręka",
+      "kr_sha256": "8d7337afe9474a39f2550ca732d4e48c800298d2f96fdb4b4167e52d8f3812d6",
+      "en_sha256": "d611ed6e7192c60f4a492df321ea12cc0f11edad72cbc692c0da5f2ecf536b65",
+      "origin": "ai"
+    },
+    "dataList[id=1120931].desc": {
+      "pl": "Na początku walki 1 Sojusznik z najniższą Poczytalnością traci 5 Poczytalności i zyskuje 1 [AzureDamageUp]",
+      "kr_sha256": "b9f74c646c5b85ad3cea50d4edccc241069d09846ccc8c245dde31123767d04e",
+      "en_sha256": "5bb7bc4eef854927270433fa2b79bdf9575e7c5e5e8acf610be037b886974007",
+      "origin": "ai"
+    },
+    "dataList[id=1120931].name": {
+      "pl": "Udręka",
+      "kr_sha256": "8d7337afe9474a39f2550ca732d4e48c800298d2f96fdb4b4167e52d8f3812d6",
+      "en_sha256": "d611ed6e7192c60f4a492df321ea12cc0f11edad72cbc692c0da5f2ecf536b65",
+      "origin": "ai"
+    },
+    "dataList[id=1121001].desc": {
+      "pl": "Na koniec tury odzyskuje Sojusznik z najniższą Poczytalnością ((10 - stosy [WornHeartGreg])/2) Poczytalności (z wyłączeniem siebie oraz sojuszników w stanie Paniki lub Korozji E.G.O; zaokrąglone w dół)\nW tym spotkaniu, gdy otrzymuje obrażenia sprowadzające HP do 0, nie otrzymuje ich, a jego HP utrzymuje się na poziomie 1 przez turę. (1 raz na spotkanie)",
+      "kr_sha256": "e8c5237ee4e76a29fd403754a9b697a8460bd257306b2f1a6ff91d0abbf30920",
+      "en_sha256": "8a4ba630320b8a0a43190ac75dcaa1aadb91ad1e0ba23d25f7fad233b891d7ea",
+      "origin": "ai"
+    },
+    "dataList[id=1121001].name": {
+      "pl": "Samodestrukcyjne Poświęcenie",
+      "kr_sha256": "aa3c3ec7e36bd3e352cb37ad65f40ab91b5ecf3300f7802617efd4c975fd372e",
+      "en_sha256": "3490e6ca6cab017906a3428d60ffdbad14b676c368cc19e6ae3b398bf43c875b",
+      "origin": "ai"
+    },
+    "dataList[id=1121002].desc": {
+      "pl": "Jeżeli ta jednostka jest na polu albo znajduje się wśród jednostek mogących wejść na pole w tym spotkaniu, od 1. tury zwiększa [BloodDinner] o wartość obrażeń [Laceration] otrzymanych łącznie przez wszystkie jednostki.\nGdy ta jednostka wchodzi na pole, śpiąca krew przesiąkająca pole bitwy wynurza się na powierzchnię.",
+      "kr_sha256": "ad78faa96a70f7f81b414fac3be70178c7dfeec11ac70015a7514d1b7e9ebc0e",
+      "en_sha256": "1a423d3cde438d2c39eb82870f85c6565c6897d5b8439ed7726327e3b148131a",
+      "origin": "ai"
+    },
+    "dataList[id=1121002].name": {
+      "pl": "Krwawa Uczta",
+      "kr_sha256": "f5700dcc78928782572f472a62c7e0593254d34c4f4fff89ceaf59d0571c5411",
+      "en_sha256": "cf9136a9b13a7e14df15e39eae75ce74e860e431241fa8fe1a80bc223afb7591",
+      "origin": "ai"
+    },
+    "dataList[id=1121011].desc": {
+      "pl": "Na koniec tury odzyskuje Sojusznik z najniższą Poczytalnością (10 - stosy [WornHeartGreg]) Poczytalności (z wyłączeniem siebie oraz sojuszników w stanie Paniki lub Korozji E.G.O)\nW tym spotkaniu, gdy otrzymuje obrażenia sprowadzające HP do 0, nie otrzymuje ich, a jego HP utrzymuje się na poziomie 1 przez turę. (1 raz na spotkanie)",
+      "kr_sha256": "32f90d1ddadefcf3941176eb697e55fc6729e80b67ef2b9a4c92cd75c9e06095",
+      "en_sha256": "5627a0fce046be2208fb393194a912bbaa4cc9e6901c8950873f6abf63f70ab5",
+      "origin": "ai"
+    },
+    "dataList[id=1121011].name": {
+      "pl": "Samodestrukcyjne Poświęcenie",
+      "kr_sha256": "aa3c3ec7e36bd3e352cb37ad65f40ab91b5ecf3300f7802617efd4c975fd372e",
+      "en_sha256": "3490e6ca6cab017906a3428d60ffdbad14b676c368cc19e6ae3b398bf43c875b",
+      "origin": "ai"
+    },
+    "dataList[id=1121021].desc": {
+      "pl": "1 Sojusznik z najniższym procentem HP odzyskuje 3 HP przy trafieniu (3 razy na turę)",
+      "kr_sha256": "29cee206c1b754b1b92204ff334a32f320b01aaa1e921f3d14286703077d3f9a",
+      "en_sha256": "0ab2585ab02400d3f0fa5435c44300a8dada18222d5e59a726dc08cdddc60b74",
+      "origin": "ai"
+    },
+    "dataList[id=1121021].name": {
+      "pl": "Krwawe Sztuki Don Quixote 6: Bicz",
+      "kr_sha256": "859d918080f07612729bfc4a75e91457677a53892f455c9435e0c233f7989051",
+      "en_sha256": "e2a5668c71a3b6672d1764084ba2f44470c59231e876e30da9a0ac97eee576dc",
+      "origin": "ai"
+    },
+    "dataList[id=1121031].desc": {
+      "pl": "1 Sojusznik z najniższym procentem HP odzyskuje 3 HP przy trafieniu (3 razy na turę)\n- Jeżeli trafiony cel miał [Laceration], odzyskuje dodatkowo 3 HP",
+      "kr_sha256": "7e970634d61ebc44e243151dd7cafec680212ce3e42f9d00210a7bf35b435902",
+      "en_sha256": "f78d1afe70da358a7f276239c50018df6b9e9ad0e9f22e01359ca9dc252da9f7",
+      "origin": "ai"
+    },
+    "dataList[id=1121031].name": {
+      "pl": "Krwawe Sztuki Don Quixote 6: Bicz",
+      "kr_sha256": "859d918080f07612729bfc4a75e91457677a53892f455c9435e0c233f7989051",
+      "en_sha256": "e2a5668c71a3b6672d1764084ba2f44470c59231e876e30da9a0ac97eee576dc",
+      "origin": "ai"
+    },
+    "dataList[id=1121101].desc": {
+      "pl": "Zadaje +0.2% obrażeń za każde [FirePunchFuel] i [FirePunchFuelOverheated] zużyte w tym spotkaniu (maks. 40%)\n- Jeżeli główny cel jest <Krwiożercą>, <Wornikiem Krwi> albo ma 30+ (suma [Combustion] i Licznika [Combustion]), zadaje zamiast tego +0.3% obrażeń (maks. 60%)\n\nPrzy 1+ [FirePunchFuel] lub [FirePunchFuelOverheated], gdy Ogłusza albo pokonuje wrogów posiadających [Combustion], zwiększa Licznik [Combustion] o 2 u 2 losowych wrogów bez [Combustion] albo z najniższym Licznikiem [Combustion] (1 raz na turę)\n- W walkach skupionych Party nakłada na Party",
+      "kr_sha256": "16a8968634c038995fb78b36c844b9fd8b57e6e76b92302485eddb5044f4be6e",
+      "en_sha256": "3666e8b5eacb7e5956808b6d698046a1dbbcd5545dd597b80903819907864526",
+      "origin": "ai"
+    },
+    "dataList[id=1121101].name": {
+      "pl": "Jedyny, który przeżyłem...",
+      "kr_sha256": "c82f6c512689cdc5c52aaeeb937a363ae7cc50147dcd0eccde906d7939e33927",
+      "en_sha256": "2259c6d4f5d731ad0b6ca456a287504029596b0e2a2024907e141bb43851f853",
+      "origin": "ai"
+    },
+    "dataList[id=1121101].summary": {
+      "pl": "Zadaje więcej obrażeń zależnie od zużytego [FirePunchFuel] i [FirePunchFuelOverheated][TabExplain]\nZwiększa Licznik [Combustion] u 2 losowych wrogów (1 raz na turę)",
+      "kr_sha256": "9abfed200dc770dfa2217f68dd3fb26ac9ea8215e0692d9e3a9f1272de2430a4",
+      "en_sha256": "a94667d30edbb6f82ed4d1157c7a11ea215288275a48b92649225297455b49d6",
+      "origin": "ai"
+    },
+    "dataList[id=1121102].desc": {
+      "pl": "Rozpoczyna spotkania ze 100 [FirePunchFuel]\n- Przy ponad 50 stosach pozostaje [FirePunchFuel]\n- Przy 50 lub mniej stosach każde [FirePunchFuel] staje się [FirePunchFuelOverheated]",
+      "kr_sha256": "b2d8553b654d46344237379e8ac7874220342588ec3f455782d4d7b37d8b6d51",
+      "en_sha256": "dfb68fde44dbbbd12c916830d208861811cbc330668ecce4d50b3b38eb1d2be8",
+      "origin": "ai"
+    },
+    "dataList[id=1121102].name": {
+      "pl": "Specjalne Paliwo Warsztatu z Dystryktu 12",
+      "kr_sha256": "a8d5961d5df20677c8d3be8b49c1cab572127c4472d725fa1c69f486e05488ee",
+      "en_sha256": "41043bdf01b353b809625b6bb4d197db3917f895c2879e910cc46779e0156a30",
+      "origin": "ai"
+    },
+    "dataList[id=1121121].desc": {
+      "pl": "1 Tożsamość z najwyższą Szybkością: przy trafieniu zadaje +5% obrażeń Gniewu za każde 6 [Combustion] celu (maks. 20%)",
+      "kr_sha256": "0643e1a927edf0720b7ebd0cbbba80d9e7c3f6726cc7b1996e73ec951f64572c",
+      "en_sha256": "dd01d07cdc35234f905f3a53800aed578157f76c178f1482b60c7ee39e85fe25",
+      "origin": "ai"
+    },
+    "dataList[id=1121121].name": {
+      "pl": "Mam nadzieję, że to mundury naszego Biura...",
+      "kr_sha256": "986956ee4cb11496591aaa13cc7ad8dd62062973cc8bce4436d711378aecf920",
+      "en_sha256": "1419afc3f4052275da495d339255195317b376ec169d38b4308e93f115916f91",
+      "origin": "ai"
+    },
+    "dataList[id=1121201].desc": {
+      "pl": "Jeżeli cel ma [BurstPoison], zadaje +5% obrażeń za każde 1 stosu [SnakeStance] (maks. 15%)\nJeżeli zużycie [BurstPoison] obniżyło jego wartość do 0, zyskuje 1 [PenetrateDamageUp] w następnej turze (maks. 2)",
+      "kr_sha256": "8e2b1f5c41bc19c0eae6741fe347852b632b9fbee189586deccd5887f21100bd",
+      "en_sha256": "1345906b9fbab4cce9f7d7cea3d02aae2cbca393b7b0bf61278c2b1c772638f7",
+      "origin": "ai"
+    },
+    "dataList[id=1121201].name": {
+      "pl": "Mutacja Heishou [Si]",
+      "kr_sha256": "b9269f9d8697ffd88c9dded17faac780e158b066f0396311b3ed16c9ca9395ee",
+      "en_sha256": "3e5f514340d1459e79482321f782ff8ec5e055b544bf3e467ae481b16d13877f",
+      "origin": "ai"
+    },
+    "dataList[id=1121221].desc": {
+      "pl": "Jeżeli ginie w tym spotkaniu: każdej tury na początku walki nakłada 2 [Breath] na 1 Tożsamość, która Weszła z rezerwy, spośród najwcześniejszych w kolejności Przydziału",
+      "kr_sha256": "7c360a25bc8feec4a3c27f2743deae9971905d2d680b34b0f599c4c1df46bd23",
+      "en_sha256": "f3ba4386331cc5d911de3754fd88183c3e3cad1384f3eb60539b6fa60a1f1ece",
+      "origin": "ai"
+    },
+    "dataList[id=1121221].name": {
+      "pl": "Giętki jak Wąż, Rozciągliwy i Nagły",
+      "kr_sha256": "51ece713e220128c5e1dc4c7c9c3d71ed6bbe895bbb4d2f44c043e620d1abcca",
+      "en_sha256": "7c9f5b8cc4a94c89d202c604b0bd18e0676743d01259756fcc82f09932102b89",
+      "origin": "ai"
+    },
+    "dataList[id=1121301].desc": {
+      "pl": "Przy pokonaniu wroga albo zniszczeniu Party zyskuje 1 [PenetrateResultUp] w następnej turze (1 raz na turę)\n\nPrzy użyciu podstawowej Umiejętności ataku, jeżeli Szybkość celu jest niższa, nakłada 1 [Disarming] na cel za każde 2 różnicy Szybkości (maks. 1 na turę)\n\nNa koniec ataku podstawową Umiejętnością sojusznika, jeżeli wróg (Rdzeń) ma 20% HP lub mniej, stosuje „Mercé” na celu (1 raz na turę)",
+      "kr_sha256": "5888ccf605707a2665ed18d25c6272bcd9a5736f2cd79b45f4488e4d68c430a2",
+      "en_sha256": "74440bc7c154ef02469a6a27b259e58727617515e591225d90ddafc5f52a3b37",
+      "origin": "ai"
+    },
+    "dataList[id=1121301].name": {
+      "pl": "Egzekutor Czystki Famiglie",
+      "kr_sha256": "ae2c23c48113796875b79fa71b620a95a43dccf5fde1d7c28582ecfb85c4bdf2",
+      "en_sha256": "796435343acace45e1a4f684ca62ef3b14b6b91e0f3141103a284ad895991e6a",
+      "origin": "ai"
+    },
+    "dataList[id=1121301].summary": {
+      "pl": "Zyskuje [PenetrateResultUp]\nNakłada [Disarming]\nStosuje „Mercé”",
+      "kr_sha256": "9588fd9c3bbf7da48f4e5342595c8f8634c0206be76d944cdabd4a1844228348",
+      "en_sha256": "9eba315560cd77a6984188feb3befcb9e9668f90d592dbe2ec8ac2193da4857f",
+      "origin": "ai"
+    },
+    "dataList[id=1121302].desc": {
+      "pl": "Umiejętność „Mercé” Szydła Nocy Capitano Gregor może być użyta maks. 2 razy na turę, z wyjątkiem ponownego użycia zewnętrznymi efektami",
+      "kr_sha256": "ee742909b7cc537629c9c7a98ed8d7643782afd07dd834c29fd0b7a288c949b7",
+      "en_sha256": "86e6d20b9b28218bf1ea5f499dfb90a615ebfe6e2fe036fa63790c94577f95d1",
+      "origin": "ai"
+    },
+    "dataList[id=1121302].name": {
+      "pl": "Miłosierdzie bez Bólu",
+      "kr_sha256": "912b7e5a92be48b9ef264092c0f30df79718041c70614efc795e78d3d2eeaa85",
+      "en_sha256": "91afeecaab957201fc57c1d2d83ee9939843036e54b9a18fb32e284da631d6c0",
+      "origin": "ai"
+    },
+    "dataList[id=1121302].summary": {
+      "pl": "Stosuje „Mercé”",
+      "kr_sha256": "8d6219d9648755e01aa11bfd2836f9cb474716b5f0e8a077294ceb14296b5238",
+      "en_sha256": "bd34811648c41496f1c468dcf6ab0916c9d345d404b44e1c76e1432009393004",
+      "origin": "ai"
+    },
+    "dataList[id=1121311].desc": {
+      "pl": "Przy pokonaniu wroga albo zniszczeniu Party zyskuje 2 [PenetrateResultUp] w następnej turze (1 raz na turę)\n\nPrzy użyciu podstawowej Umiejętności ataku, jeżeli Szybkość celu jest niższa, nakłada 1 [Disarming] na cel za każde 2 różnicy Szybkości (maks. 2 na turę)\n\nNa koniec ataku podstawową Umiejętnością sojusznika, jeżeli wróg (Rdzeń) ma 20% HP lub mniej, stosuje „Mercé” na celu (1 raz na turę)\n- Jeżeli po ataku przeżył tylko 1 wróg, ta pasywka uruchamia się także wtedy, gdy cel jest Ogłuszony",
+      "kr_sha256": "821d7b8509a299035b57966e3920f1af7714c65d6ac98e35c2732a5fe59d9bdb",
+      "en_sha256": "e53bc7ee70de45244a89dbcbd889fbdda02685856e0d32ab51e6ac95aabe3b3f",
+      "origin": "ai"
+    },
+    "dataList[id=1121311].name": {
+      "pl": "Egzekutor Czystki Famiglie",
+      "kr_sha256": "ae2c23c48113796875b79fa71b620a95a43dccf5fde1d7c28582ecfb85c4bdf2",
+      "en_sha256": "796435343acace45e1a4f684ca62ef3b14b6b91e0f3141103a284ad895991e6a",
+      "origin": "ai"
+    },
+    "dataList[id=1121311].summary": {
+      "pl": "Zyskuje [PenetrateResultUp]\nNakłada [Disarming]\nStosuje „Mercé”",
+      "kr_sha256": "9588fd9c3bbf7da48f4e5342595c8f8634c0206be76d944cdabd4a1844228348",
+      "en_sha256": "9eba315560cd77a6984188feb3befcb9e9668f90d592dbe2ec8ac2193da4857f",
+      "origin": "ai"
+    },
+    "dataList[id=1121321].desc": {
+      "pl": "1 Sojusznik z najwyższą Szybkością: przy użyciu podstawowej Umiejętności ataku, jeżeli Szybkość głównego celu jest niższa, nakłada 1 [Disarming] na cel za każde 3 różnicy Szybkości (maks. 2 na turę)",
+      "kr_sha256": "092b71c63625462d30073f97c2b64a2e44ecfa594ad173578b71faae1702ef92",
+      "en_sha256": "2ce6c00406b52cf3b8cf4998f43caa155539938d15d0b13ad9dc35e27103eb2c",
+      "origin": "ai"
+    },
+    "dataList[id=1121321].name": {
+      "pl": "Celowanie w Szparę",
+      "kr_sha256": "2f5988836d7b39e72c39db0580d4463540638b53b6c38b71d25d290d4b978c5a",
+      "en_sha256": "02d9fb6c9fea07255f3ceaaddeeb3ae1da25bacb9241a0de1a44c4596184db72",
+      "origin": "ai"
+    },
+    "dataList[id=1121321].summary": {
+      "pl": "Nakłada [Disarming]",
+      "kr_sha256": "bb0b08cac005090d1c208cbb3bc7bd6d2471f4e2f01cd2d23f94ea0a39f48df1",
+      "en_sha256": "c2f655f647f56c6b75c838e08ecf493bddb3fe41d56daace98a9fc067c42a79d",
+      "origin": "ai"
+    },
+    "dataList[id=1121401].desc": {
+      "pl": "Na początku walki zyskuje 1 [LanternGregBigBird]\n\nNa początku walki odzyskuje 3 Poczytalności, jeżeli istnieje wróg z [DelusionGregBigBird]\n\nNa koniec tury nakłada [ObedienceGregBigBird] w następnej turze na sojusznika z najwcześniejszą kolejnością Przydziału, który nie spełnia poniższych warunków:\n- Jest tą jednostką\n- Jest sojusznikiem posiadającym [ObedienceGregBigBird]\n- Jest sojusznikiem, który nie może odzyskiwać Poczytalności przez stany takie jak Panika lub Korozja",
+      "kr_sha256": "24db58baaab61ec3aa98cf79cc0e43f80de15bc801ada421706cc0b1d8e364f7",
+      "en_sha256": "d0b4740289c138613cf58675d028b7b8b9240fcc66d252bfac4d82795ec054d8",
+      "origin": "ai"
+    },
+    "dataList[id=1121401].name": {
+      "pl": "Oczy Jasne jak Lampy",
+      "kr_sha256": "a7dd915b771f33a349377996ae775e709e6628d2a24cec0faca613c4974d8846",
+      "en_sha256": "06c20e7d79ab05b94fae2c8782a8214ab48537b4a101255c7e32e7b361695756",
+      "origin": "ai"
+    },
+    "dataList[id=1121402].desc": {
+      "pl": "Na początku tury zyskuje 1 [LanternGregBigBird]\n\nMinimalna i maksymalna Szybkość nie podlegają zmianom zewnętrznych efektów\n\nPrzy łańcuchowaniu Umiejętności może przekierować celowanie Umiejętności ataku na siebie niezależnie od Szybkości (wyłącznie w walkach skupionych)\n\nZamiast zyskiwać [Agility], zyskuje 1 [ParryingResultUp] (1 raz na turę)\n- Po uruchomieniu tego efektu nie może zyskiwać [Agility] do końca tury",
+      "kr_sha256": "a4f18ded6b1199b3c7773de88633b0b1808684f0e8b97642156e2d29fa785774",
+      "en_sha256": "4373007eb906f4c0884787086279bcb591f895dc707f9999efd58db40508f474",
+      "origin": "ai"
+    },
+    "dataList[id=1121402].name": {
+      "pl": "Olśniewająca Lampa",
+      "kr_sha256": "cc3d53e38e0d156502e938375928dc34016cbc8fcf1edde9b89b5c5b51b93642",
+      "en_sha256": "cec73b6454e3704ab1118c6e3fbfbc7e12785898bdf36ba170c62ac120f18dfe",
+      "origin": "ai"
+    },
+    "dataList[id=1121403].desc": {
+      "pl": "Na początku tury zyskuje 1 [DefenseUp] za każdego sojusznika wyposażonego w Sprzęt E.G.O (maks. 3)\n\nGdy sojusznik ginie, zyskuje 2 [PenetrateDamageUp] w następnej turze (1 raz na turę)",
+      "kr_sha256": "6ba0f55a1cf0f1458915de5dd36cd67bf48b5bc92ba07c2968c2a9b7b38e3afd",
+      "en_sha256": "d33f11ca26d3b1a4a0948e4ffcbd87e66d9560f21cde121e65f4473332b23bf2",
+      "origin": "ai"
+    },
+    "dataList[id=1121403].name": {
+      "pl": "Podręcznik Wprawy w Sprzęcie E.G.O",
+      "kr_sha256": "6651eb963b86cf98c0f8a716406c70030ffdd51b0a62b1170139eda7c8c01048",
+      "en_sha256": "5033deb3fdaa20a5dc92d7220a863b7394f14e3d7f5b2e2c9a5aa8ba1c8318cd",
+      "origin": "ai"
+    },
+    "dataList[id=1121411].desc": {
+      "pl": "Na początku walki zyskuje 1 [LanternGregBigBird] <style=\"highlight\">za każde 2 Rezonansu Posępności (maks. 3)</style>\n\nNa początku walki odzyskuje <style=\"highlight\">5</style> Poczytalności, jeżeli istnieje wróg z [DelusionGregBigBird]\n\nNa koniec tury nakłada [ObedienceGregBigBird] w następnej turze na sojusznika z najwcześniejszą kolejnością Przydziału, który nie spełnia poniższych warunków:\n- Jest tą jednostką\n- Jest sojusznikiem posiadającym [ObedienceGregBigBird]\n- Jest sojusznikiem, który nie może odzyskiwać Poczytalności przez stany takie jak Panika lub Korozja",
+      "kr_sha256": "0935ebfb161300054fe5d471ba22d0e1e1a9dd74e55162a55eb8928df0263ae1",
+      "en_sha256": "3d08fc1e62208c2f94b10bd286befc1473cc5e726bac347b3d90e76a8d443648",
+      "origin": "ai"
+    },
+    "dataList[id=1121411].name": {
+      "pl": "Oczy Jasne jak Lampy",
+      "kr_sha256": "a7dd915b771f33a349377996ae775e709e6628d2a24cec0faca613c4974d8846",
+      "en_sha256": "06c20e7d79ab05b94fae2c8782a8214ab48537b4a101255c7e32e7b361695756",
+      "origin": "ai"
+    },
+    "dataList[id=1121421].desc": {
+      "pl": "Na koniec tury stosuje poniższe efekty na sojusznika z najwcześniejszą kolejnością Przydziału, który posiada negatywne efekty\n- Zyskuje +4 [Aggro] do lewego slotu w następnej turze\n- Zyskuje 1 [HitDamageUp] w następnej turze",
+      "kr_sha256": "cf3910ba8ae46b9b6feb8749542afe322a8df7a7748ac82cc223808e27b9d936",
+      "en_sha256": "6acb1377819448618c19451cf099f50db3843af2c45dbad10cd345888e3c2e42",
+      "origin": "ai"
+    },
+    "dataList[id=1121421].name": {
+      "pl": "Czy Było Jeszcze Więcej Życiów do Uratowania?",
+      "kr_sha256": "187f430603f1f047e538da111dc4bc9c265437196cd002d8c7e204730f46757a",
+      "en_sha256": "be3db472ad6285a92e211e3fa7cccb34ed5b7ee6c81817059f3e92bf06a82d8e",
+      "origin": "ai"
+    },
+    "dataList[id=1121501].desc": {
+      "pl": "Na początku walki zyskuje +5 Licznika [Charge] (1 raz na spotkanie)\n\nNa koniec walki, przy ponad 12 Licznika [Charge], zużywa nadmiarowe Liczniki [Charge] do 8 i zwiększa Licznik [Charge] 1 sojusznika o połowę zużytych z tego efektu Liczników (min. 1, zaokrąglone w dół)\n- Ten efekt najpierw wybiera sojusznika z najniższym Licznikiem [Charge] spośród sojuszników z wcześniejszą kolejnością Przydziału\n- Jeżeli na polu nie ma sojuszników z wcześniejszą kolejnością Przydziału albo ma 3+ [Charge], ten efekt jest nieaktywny\n\nPrzy Rezonansie Posępności lub Zazdrości 3+, zwiększa Licznik [Charge] sojuszników z wcześniejszą kolejnością Przydziału o 2 w następnej turze\n- Nakłada w kolejności Przydziału na (wyższy Rezonans spośród Posępności i Zazdrości - 2) sojuszników (maks. 3)\n- Przy 3+ [Charge] zamiast tego zwiększa Licznik [Charge] sojuszników o 4\n- Jeżeli na polu nie ma sojuszników z wcześniejszą kolejnością Przydziału, zamiast tego zwiększa własny Licznik [Charge] o 4",
+      "kr_sha256": "87426f0c1f362a09ed31237ec0a714fae44918d12364ddb653461a4fe674e696",
+      "en_sha256": "6d0cfc30d8198279a86872db1bf39ba90c8b34ee3e6329f1d228f56bc655a11b",
+      "origin": "ai"
+    },
+    "dataList[id=1121501].name": {
+      "pl": "Prowadź. Zapewnię ci wsparcie.",
+      "kr_sha256": "a6f017d471272e95d55d93a9b6ac5b30c79b5d970ad972c4aa483d78712a94c0",
+      "en_sha256": "ba4c458cfd05824573388175cab368a7dcf9c797de52af83da7ab044ba157860",
+      "origin": "ai"
+    },
+    "dataList[id=1121502].desc": {
+      "pl": "Zyskuje 1 [Charge] za każde łączne zużycie 10 Licznika [Charge] podczas walki\nKażdy zyskiwany [ChargeForceField] jest przekształcany w [HighVoltageExoshell]\n\nPrzy 3+ [Charge] Minimalna i Maksymalna Szybkość +1\n\nW tym spotkaniu, gdy otrzymuje obrażenia sprowadzające HP do 0, zyskuje (5 + [Charge] x 3) [SelfChargeAlly] (maks. 20, 1 raz na spotkanie)",
+      "kr_sha256": "0435e84ce85b98a06cb51fe9d0412a858ab4ad3e8f21f682331c447b6c3fbe88",
+      "en_sha256": "b32cf055bd2b5ff53300de8d62030dfb9db5042b206346ad437f9081c595f6d7",
+      "origin": "ai"
+    },
+    "dataList[id=1121502].name": {
+      "pl": "Niedająca Się Zgubić Wytrwałość",
+      "kr_sha256": "0ac7700c1f1d3b4715609db2aa2b5ffc22e03c9960e7baa3253a96db3e9bc471",
+      "en_sha256": "506454f12edff6c2714bda5755c0e1fa356a8fe8f9ec9f1e9f900d9d8c187ee5",
+      "origin": "ai"
+    },
+    "dataList[id=1121503].desc": {
+      "pl": "Na początku tury, jeżeli 3+ sojuszników (włącznie z tą jednostką) nosi Sprzęt E.G.O, ona i wszyscy ci sojusznicy zyskują 1 [AttackUp]\n\nGdy zużywa Licznik [Charge] efektem pasywki E.G.O AEDD Gregor i ma 12 lub mniej Licznika [Charge], przy trafieniu orłem zamiast zużywać 2 Licznika [Charge], traci po 4 Tarczy albo HP, aby uruchomić efekt pasywki E.G.O\n- Uruchamia się wyłącznie przy HP 25% lub wyższym",
+      "kr_sha256": "ffb04f7f64d941161b3a3f37c298e30d7dbeabe61db7f9c674009de011a9ee52",
+      "en_sha256": "70ce15fd8bffde933a70517af54b28ff1c716b8a57da6b1d8f8709c51517c5f3",
+      "origin": "ai"
+    },
+    "dataList[id=1121503].name": {
+      "pl": "Wsparcie Wyładowania Przemiennego",
+      "kr_sha256": "8b8d51a5b5eca036d49823995b4fb71cd02b0c8a6986fb8f952dd8b350f3f541",
+      "en_sha256": "c85ecb56fe7c0f084190070d5c5945e02cb1879b56b6ce5434a40fd3aba66d7c",
+      "origin": "ai"
+    },
+    "dataList[id=1121511].desc": {
+      "pl": "Na początku walki zyskuje +<style=\"highlight\">10</style> Licznika [Charge] (1 raz na spotkanie)\n\nNa koniec walki, przy ponad 12 Licznika [Charge], zużywa nadmiarowe Liczniki [Charge] do 8 i zwiększa Licznik [Charge] 1 sojusznika o połowę zużytych z tego efektu Liczników <style=\"highlight\">(zaokrąglone w górę)</style>\n- Ten efekt najpierw wybiera sojusznika z najniższym Licznikiem [Charge] spośród sojuszników z wcześniejszą kolejnością Przydziału\n- Jeżeli na polu nie ma sojuszników z wcześniejszą kolejnością Przydziału albo ma 3+ [Charge], ten efekt jest nieaktywny\n\nPrzy Rezonansie Posępności lub Zazdrości <style=\"highlight\">2</style>+, zwiększa Licznik [Charge] sojuszników z wcześniejszą kolejnością Przydziału o 2 w następnej turze\n- Nakłada w kolejności Przydziału na (wyższy Rezonans spośród Posępności i Zazdrości - <style=\"highlight\">1</style>) sojuszników (maks. 3)\n- Przy 3+ [Charge] zamiast tego zwiększa Licznik [Charge] sojuszników o 4\n- Jeżeli na polu nie ma sojuszników z wcześniejszą kolejnością Przydziału, zamiast tego zwiększa własny Licznik [Charge] o 4",
+      "kr_sha256": "1eb1568ae7fa581146cb9b97c86c4a817863822da7a7ce08e7fdd6047f901064",
+      "en_sha256": "f8dff46d77f2117d7d8363852ef06bfb957db88de9e0468247d768888f93bf7d",
+      "origin": "ai"
+    },
+    "dataList[id=1121511].name": {
+      "pl": "Prowadź. Zapewnię ci wsparcie.",
+      "kr_sha256": "a6f017d471272e95d55d93a9b6ac5b30c79b5d970ad972c4aa483d78712a94c0",
+      "en_sha256": "ba4c458cfd05824573388175cab368a7dcf9c797de52af83da7ab044ba157860",
+      "origin": "ai"
+    },
+    "dataList[id=1121521].desc": {
+      "pl": "Na koniec tury 2 sojuszników z najwcześniejszą kolejnością Przydziału każdy odzyskuje HP równy sumie Licznika [Charge] i zużytego Specjalnego Ładowania przez ich własne Umiejętności ataku w tej turze (maks. 10)",
+      "kr_sha256": "e552ecdbcee417b4da6ce78cb8280d24c1703b489913d46b0c6c4cc95c589794",
+      "en_sha256": "31f9ac807e54fa06caa305115735a48ce17bfb7dbd89f3dc84f6d817d78af22c",
+      "origin": "ai"
+    },
+    "dataList[id=1121521].name": {
+      "pl": "Defibrylacja",
+      "kr_sha256": "54d0d511adbd3d2a7c56f163e3217275946a5b48ddd34bd84e04f0dfd10c368a",
+      "en_sha256": "19c8304db593e5dbdeb7af5fe6fa7c1ecf56c5a45d9d25cf7e059df8e9489fd6",
+      "origin": "ai"
+    },
+    "dataList[id=1121531].desc": {
+      "pl": "Na koniec tury <style=\"highlight\">3</style> sojuszników z najwcześniejszą kolejnością Przydziału każdy odzyskuje HP równy sumie Licznika [Charge] i zużytego Specjalnego Ładowania przez ich własne Umiejętności ataku w tej turze (maks. 10)",
+      "kr_sha256": "c445d0f42dc35c3761a972e25fe1fa37967f8db433ecb08cbae975a54feb9309",
+      "en_sha256": "2bcb22d4c3cbcfd313bf3c11dc0359dc14e481cab957d9395c46a895207b6a72",
+      "origin": "ai"
+    },
+    "dataList[id=1121531].name": {
+      "pl": "Defibrylacja",
+      "kr_sha256": "54d0d511adbd3d2a7c56f163e3217275946a5b48ddd34bd84e04f0dfd10c368a",
+      "en_sha256": "19c8304db593e5dbdeb7af5fe6fa7c1ecf56c5a45d9d25cf7e059df8e9489fd6",
+      "origin": "ai"
+    },
+    "dataList[id=1121601].desc": {
+      "pl": "Gdy inne Tożsamości Biura Świtu[TabExplain] spełnią poniższe warunki, Biuro Świtu[TabExplain] Rep Gregor stosuje Umiejętność „Błysk Świtu” przeciwko wskazanemu wrogowi (1 raz na turę na Tożsamość)\n- Na koniec ataku podstawową Umiejętnością: jeżeli trafiony wróg został Ogłuszony, stosuje „Błysk Świtu” przeciwko temu wrogowi\n(nie uruchamia się, jeżeli ten wróg był już Ogłuszony przed rozpoczęciem ataku tej Umiejętności)\n- Na koniec ataku Umiejętnościami „Wyrzut”, „Wyrzut - Zenit[TabExplain]” i „Rozczłonkowanie w Południe[TabExplain]” Biura Świtu[TabExplain] Fikser Faust albo „Stygmatyzacja” i „Płonący[TabExplain] Cios” Biura Świtu[TabExplain] Fikser Sinclair stosuje „Błysk Świtu” na trafionym wrogu (najpierw Ogłuszeni)\n\nJeżeli Biuro Świtu[TabExplain] Fikser Sinclair jest na polu bitwy, przy trafieniu dodatkową monetą podstawowych Umiejętności Biura Świtu[TabExplain] Rep Gregor zadaje dodatkowo obrażenia Gniewu równe Mocy [Combustion] wskazanego wroga (maks. 10, maks. 20 na turę)\n- Traktowane jako uruchomienie [Combustion]",
+      "kr_sha256": "2db2dbad35297ef3f3fc6ce1b8f565f262214e303580d009cf5c3dd458ec37b0",
+      "en_sha256": "2dcad2e95e988081375fdb5242aff47b9befc186345f70f1f474a30d8d4cf6c4",
+      "origin": "ai"
+    },
+    "dataList[id=1121601].flavor": {
+      "pl": "Broń warsztatowa klasy A+, niezmienny towarzysz swojego właściciela, <i>Fiksera Świtu</i>, od pierwszych dni pracy Fiksera, przez Wojnę Dymu i jej następstwa. Każdy dobrze wykonany kontrakt przydawał sławy Warsztatowi Stigma, który w dowodzie wdzięczności wielokrotnie ulepszał i rozbudowywał możliwości tej broni. Tak jak z czasem budowała się ugruntowana renoma Fiksera, tak i ten miecz był kuty, przekuwany i dostrajany przez lata.\nMorgenfeuer, niegdyś oceniane jako broń klasy S, nieuchronnie traciło żar i ostrość w schyłkowych latach Fiksera Świtu, gdy ten wycofał się z pierwszej linii na rzecz kształcenia następnego pokolenia.",
+      "kr_sha256": "c1769bb349e66acb616cbd5b0c687a71591a28e977117ab1c266cbbf83f95469",
+      "en_sha256": "596248e9698e152ad34184115ff960fdcfcae20a19aa4fb8d09e75055762aa9b",
+      "origin": "ai"
+    },
+    "dataList[id=1121601].name": {
+      "pl": "Morgenfeuer [Warsztat Stigma]",
+      "kr_sha256": "84c5011eaf128b31941bb5c23a9d87d47d0d20614d03c6e77be2624f964d49e8",
+      "en_sha256": "e5ec6cbdb15e4fcbd5fe964a1aea4d7c447723c63be5b259ef7edeba6591f8bd",
+      "origin": "ai"
+    },
+    "dataList[id=1121601].summary": {
+      "pl": "Po spełnieniu warunków zadaje obrażenia Gniewu zależnie od Mocy Podpalenia",
+      "kr_sha256": "da5b6cd9808c497820b44387a05b37a2991acef51737796afb219fd01897df1b",
+      "en_sha256": "733c002efe9d3464dcdfd89cdcee55210b41a8e2c8e86a3f7970b64de1f9eb2b",
+      "origin": "ai"
+    },
+    "dataList[id=1121602].desc": {
+      "pl": "Przy pierwszym wejściu na scenę zyskuje 0 stosów [StigmaWorkshopHandStep1]\n\nNie może zostać Ogłuszona obrażeniami [Combustion] ani stracić HP poniżej 1 przez obrażenia [Combustion]\nOtrzymuje -50% obrażeń z efektów [Combustion] (zaokrąglone w dół)\n- Przy HP poniżej 50% efekt wzmacnia się: otrzymuje -75% obrażeń z efektów [Combustion] (zaokrąglone w dół)",
+      "kr_sha256": "cee8f06ef99cf0a3dceec6b27e3ce39128152eb285f031065898921c568273fa",
+      "en_sha256": "d68ad4037903d44a1cf8dfcc653a9d4edc91fa2d470a1672026c370955b65c5b",
+      "origin": "ai"
+    },
+    "dataList[id=1121602].name": {
+      "pl": "Fikser o Świcie",
+      "kr_sha256": "9acb7d0c46c0560bab54a7544efd0d6f870ca5edca2be5ccc8d90d5e130394c9",
+      "en_sha256": "7e50f4d19aa899e994e9cbea4c72822271b8227e35e01dbf8dd6b859aedf8efb",
+      "origin": "ai"
+    },
+    "dataList[id=1121603].desc": {
+      "pl": "Przy pierwszym wejściu na scenę, jeżeli na polu bitwy jest 2+ Tożsamości sojuszników z Biura Świtu[TabExplain] (włącznie z tą jednostką), nakłada stosy [DawnTeam] na wszystkie Tożsamości Biura Świtu[TabExplain] równy ich liczbie na polu\n\nJeżeli Biuro Świtu[TabExplain] Fikser Sinclair jest na polu bitwy, uruchamia poniższe efekty:\n- Biuro Świtu[TabExplain] Fikser Sinclair zyskuje [DawnGregor]\n- Na początku tury, jeżeli Biuro Świtu[TabExplain] Rep Gregor jest pokonane, zamienia [DawnGregor] Biura Świtu[TabExplain] Fikser Sinclair w [DawnGregorDying]\n- Na początku tury, jeżeli HP Biura Świtu[TabExplain] Fikser Sinclair jest poniżej 50%, nakłada na niego [RunSinclair] (1 raz na spotkanie)",
+      "kr_sha256": "25a356dad13c4d63aa3b81272c3b5af073beb256a07148fc258ac6200bbf3733",
+      "en_sha256": "bfc4e6ee8dd00644c3cc5d2f09391f2866953f6da9929d944126142c5422aef7",
+      "origin": "ai"
+    },
+    "dataList[id=1121603].name": {
+      "pl": "Biuro Świtu",
+      "kr_sha256": "66f216aa28436977b6d6a4b78f286d88d47a112721d1e6b08136862968a74980",
+      "en_sha256": "a91eb4b0f9898e739db1453e70a833cef94df8c299c897f8c8a0784ae8229fbe",
+      "origin": "ai"
+    },
+    "dataList[id=1121611].desc": {
+      "pl": "Posiadając [DawnLight], przy trafieniu podstawową Umiejętnością ataku zyskuje 2 stosy [StigmaWorkshopHandStep1]\n\nGdy inne Tożsamości Biura Świtu[TabExplain] spełnią poniższe warunki, Biuro Świtu[TabExplain] Rep Gregor stosuje Umiejętność „Błysk Świtu” przeciwko wskazanemu wrogowi (1 raz na turę na Tożsamość)\n- Na koniec ataku podstawową Umiejętnością: jeżeli trafiony wróg został Ogłuszony, stosuje „Błysk Świtu” przeciwko temu wrogowi\n(nie uruchamia się, jeżeli ten wróg był już Ogłuszony przed rozpoczęciem ataku tej Umiejętności)\n- Na koniec ataku Umiejętnościami „Wyrzut”, „Wyrzut - Zenit[TabExplain]” i „Rozczłonkowanie w Południe[TabExplain]” Biura Świtu[TabExplain] Fikser Faust albo „Stygmatyzacja” i „Płonący[TabExplain] Cios” Biura Świtu[TabExplain] Fikser Sinclair stosuje „Błysk Świtu” na trafionym wrogu (najpierw Ogłuszeni)\n\nJeżeli Biuro Świtu[TabExplain] Fikser Sinclair jest na polu bitwy, przy trafieniu dodatkową monetą podstawowych Umiejętności Biura Świtu[TabExplain] Rep Gregor zadaje dodatkowo obrażenia Gniewu równe Mocy [Combustion] wskazanego wroga (maks. 10, maks. 20 na turę)\n- Traktowane jako uruchomienie [Combustion]",
+      "kr_sha256": "721439d2c4188f32ee389902149b38b78c13105a5646eb62ae21acd8ef0f9a07",
+      "en_sha256": "f2f1f9ce87bc4083fcc9926ad26cf6173857384b851c78b178e14ba7cedcb981",
+      "origin": "ai"
+    },
+    "dataList[id=1121611].flavor": {
+      "pl": "Broń warsztatowa klasy A+, niezmienny towarzysz swojego właściciela, <i>Fiksera Świtu</i>, od pierwszych dni pracy Fiksera, przez Wojnę Dymu i jej następstwa. Każdy dobrze wykonany kontrakt przydawał sławy Warsztatowi Stigma, który w dowodzie wdzięczności wielokrotnie ulepszał i rozbudowywał możliwości tej broni. Tak jak z czasem budowała się ugruntowana renoma Fiksera, tak i ten miecz był kuty, przekuwany i dostrajany przez lata.\nMorgenfeuer, niegdyś oceniane jako broń klasy S, nieuchronnie traciło żar i ostrość w schyłkowych latach Fiksera Świtu, gdy ten wycofał się z pierwszej linii na rzecz kształcenia następnego pokolenia.",
+      "kr_sha256": "c1769bb349e66acb616cbd5b0c687a71591a28e977117ab1c266cbbf83f95469",
+      "en_sha256": "596248e9698e152ad34184115ff960fdcfcae20a19aa4fb8d09e75055762aa9b",
+      "origin": "ai"
+    },
+    "dataList[id=1121611].name": {
+      "pl": "Morgenfeuer [Warsztat Stigma]",
+      "kr_sha256": "84c5011eaf128b31941bb5c23a9d87d47d0d20614d03c6e77be2624f964d49e8",
+      "en_sha256": "e5ec6cbdb15e4fcbd5fe964a1aea4d7c447723c63be5b259ef7edeba6591f8bd",
+      "origin": "ai"
+    },
+    "dataList[id=1121611].summary": {
+      "pl": "Zyskuje stosy [StigmaWorkshopHandStep1]\nPo spełnieniu warunków zadaje obrażenia Gniewu zależnie od Mocy Podpalenia",
+      "kr_sha256": "532d6439647db453e761a9dd4e9a13ba65d3e3caa854c94f81d3e82c08525007",
+      "en_sha256": "a4032e67f0a15a8e1592bf530dc978668a1606485a24939344fa3eaa60f7e77a",
+      "origin": "ai"
+    },
+    "dataList[id=1121621].desc": {
+      "pl": "1 Sojusznik z najwyższym obecnym HP nakłada 2 [Vibration] przy trafieniu wrogów posiadających [Combustion] (1 raz na turę)\n- Jeżeli ten wróg ma 10+ [Combustion], przy trafieniu ostatnią monetą wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1 (1 raz na turę)",
+      "kr_sha256": "3a5bf717a1815dcc5efc92cb8d3980620e8e4f41c74961dbd7c4bc24cdc1d5bb",
+      "en_sha256": "4e8b02345722932f697f80360d0a74a5dcc8e19d91fc9140a6925e86ea5813c4",
+      "origin": "ai"
+    },
+    "dataList[id=1121621].flavor": {
+      "pl": "Proteza wyprodukowana specjalnie dla Fiksera Świtu przez Warsztat Stigma — warsztat normalnie wyspecjalizowany w broni krawędziowej. Jeżeli osoba nie rozumiejąca specyfiki Warsztatu Stigma spróbuje użyć tej żarzącej się protezy, jej żar stopi ciało użytkownika.",
+      "kr_sha256": "b3bb0d70955d3fe642d1cd62f091235214095474adf88bbc9d2fbfb274c000db",
+      "en_sha256": "7901d1ba9a10c57ffd26dfc899000667faf3e7816430fa309192531503610f0d",
+      "origin": "ai"
+    },
+    "dataList[id=1121621].name": {
+      "pl": "Proteza Warsztatu Stigma",
+      "kr_sha256": "ded279fdc05bade04b713dfbe00cfcef6f07d67457ffb56f4464dd93b0276ca9",
+      "en_sha256": "059e73e55695060db07b28172f7bcb8764c51b190bdd44cebad9fd9dd9f03a2d",
+      "origin": "ai"
+    },
+    "dataList[id=1121701].desc": {
+      "pl": "— opis] Na początku walki zyskuje 1 [RougeGregAutoHeal]\nNa początku walki zwiększa Licznik [ChargeRougeAlly] o Rezonans Żądzy (maks. 7)",
+      "kr_sha256": "6d9fed26dc09f0ba0bc2c8fff8b57ba4de0837fe1185949aa9e0d5d09fe621e5",
+      "en_sha256": "1dd51b87de53018c40755f3b54946a45cc58f1baa88afaa2e4fd5346cf0953ce",
+      "origin": "ai"
+    },
+    "dataList[id=1121701].name": {
+      "pl": "— nazwa] Dobrze, zatem kręcę kołowrotkiem.",
+      "kr_sha256": "400b3fa7950f46c7a12f8f67c3e03a8a76265d98b0bf06383830052371bbe4f1",
+      "en_sha256": "6ed90436b6ec49f464bf653ab320dd2ae777548ef8e63388ac32bd7f852fc41f",
+      "origin": "ai"
+    },
+    "dataList[id=1121702].desc": {
+      "pl": "— opis] Zyskuje 1 Mocy [ChargeRougeAlly] za każde łączne zużycie 10 Licznika [ChargeRougeAlly] podczas walki\n\nJeżeli Haute Couture::Szkarłatny Bóg Le Rouge Sinclair jest na polu bitwy, nakłada 1 [GoldBuffet]\n\nNa początku tury, przy maksymalnej wartości [RougeGregWarmUp], sojusznik Tożsamości Haute Couture::Szkarłatny Bóg Le Rouge Sinclair zyskuje poniższe efekty podczas stanu [TransformSinclair] (1 raz na spotkanie)\n\n- Zyskuje 1 [RougeFamilySinclair]\n- Maksymalny limit Licznika [ChargeRougeAlly] +5\n- Zyskuje +5 Licznika [ChargeRougeAlly] przed użyciem Umiejętności „La Voracité” i „La Castration”",
+      "kr_sha256": "28eacbf0751b773cf274ff39dfc4e6b6f8d731cfdad685a977abf9b6fc79ffb4",
+      "en_sha256": "8d5ff8e016b6c217489fff97e59c93414ead90afcb11f4155aba488d9aec5a65",
+      "origin": "ai"
+    },
+    "dataList[id=1121702].name": {
+      "pl": "— nazwa] Nowy Głos... Nowy, <i>Szkarłatny</i> Głos",
+      "kr_sha256": "d1e4ba2713368274e384a90d4950fbc3b704787bd997586a216f37a47b5f3b0a",
+      "en_sha256": "63f19256d01cd5cb48552a9aa376f1e0e3325654308ae62b6dad8354c4312fa0",
+      "origin": "ai"
+    },
+    "dataList[id=1121703].desc": {
+      "pl": "— opis] Efekty zużywające HP z jej podstawowych Umiejętności nie Ogłuszają jej ani nie obniżają HP poniżej 1 (przy 1 HP efekty podstawowych Umiejętności zużywające HP uruchamiają się bez zużycia)\n\nNa koniec ataku Umiejętnością Żądzy użytej na wrogu przez sojusznika posiadającego [RougeGregLink] stosuje Umiejętność „Wyciągnięcie Nići” na głównym celu tego ataku (1 raz na turę)\n- Jeżeli główny cel już zginął, stosuje „Wyciągnięcie Nići” na losowym wrogu\n- Stosując „Wyciągnięcie Nići” tym efektem zyskuje 1 [RougeGregWarmUp]",
+      "kr_sha256": "1910129bea015acf9ef2ffcd08a5134c3b6bf0a4dc9e679aa0a130f5004e95df",
+      "en_sha256": "76c851804349e7ea0bba1ba09c170542c6debbea92c9bff6cde8755833ea4c15",
+      "origin": "ai"
+    },
+    "dataList[id=1121703].name": {
+      "pl": "— nazwa] Kłębek Splątany w Węzeł",
+      "kr_sha256": "ab2ac9226cdd811b356df226b8e4f06f1d7eab851ac960bbaee084e08aa8db38",
+      "en_sha256": "1f260e66509905337793cb8887ce0242387cb7f2da5ded70adf53f40bc81a356",
+      "origin": "ai"
+    },
+    "dataList[id=1121721].desc": {
+      "pl": "— opis] Na początku walki nakłada 1 [RougeGregAutoHeal] na 1 Sojusznika z najniższym procentem HP",
+      "kr_sha256": "3fdf9670c47e3eb78998d6eac985eb55688b9b608c4dfd14c66da020219cb598",
+      "en_sha256": "c462a06b272ce447a85901c2d77f596cb3eaa97316530f9c6324ac5b4a9ff037",
+      "origin": "ai"
+    },
+    "dataList[id=1121721].name": {
+      "pl": "— nazwa] Łatanie",
+      "kr_sha256": "0a16a0945f76584eca8e15fc547c12f9918354a1e8a1cd7c84e389879699b029",
+      "en_sha256": "16f9697c3474d3d1a9e25abda76e90f1da6fc43aa426a108b7bc264e3449cb00",
+      "origin": "ai"
     }
   }
 }

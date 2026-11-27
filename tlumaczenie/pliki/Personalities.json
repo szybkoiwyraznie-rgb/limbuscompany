@@ -4320,6 +4320,414 @@
       "en_sha256": "63f0da526563f545d8e4e72d4cf7eb8c9e4beb8bf67279c913e8a1b3823a6f8c",
       "origin": "ai"
     },
+    "dataList[id=11201].desc": {
+      "pl": "Pierwsza Tożsamość Gregor",
+      "kr_sha256": "a616e357695aa47c87952853e69b329dda941b3c27de556a10c06026e44a4dc1",
+      "en_sha256": "9b75193f77943a148bc9542aa1ec52825bf675cbd338c5c78df5efbfa8b76562",
+      "origin": "ai"
+    },
+    "dataList[id=11201].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11201].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11201].title": {
+      "pl": "LCB\nGrzesznik",
+      "kr_sha256": "62fc6ddc6e9747f9fdbaccf6fbfb4620c2b0a82f423636490171b2ab6c529ae9",
+      "en_sha256": "aca04260f3990debe638b5fa44cb402ba1267cc6048be7ba53b6714ea8b42542",
+      "origin": "ai"
+    },
+    "dataList[id=11202].desc": {
+      "pl": "Druga Tożsamość Gregor",
+      "kr_sha256": "c8c4baa47147938acad23385f0a9fc63e9f84c260176cfbbb1b5eaf6a8729208",
+      "en_sha256": "740de271cbe19e7198f79dbb73636f2aa113d1783e2ab0451a0c6a3b2a508932",
+      "origin": "ai"
+    },
+    "dataList[id=11202].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11202].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11202].title": {
+      "pl": "Południowe Stowarzyszenie Liu\nSekcja 6",
+      "kr_sha256": "e93bec226e838b0e729b643a795b9b4d1abf575020bec22c5be5021b7482da2c",
+      "en_sha256": "e505453e45fd3e0b2a65cc6bd0e2cdc060cf6fe379ccea26c40c9bae039b3f85",
+      "origin": "ai"
+    },
+    "dataList[id=11203].desc": {
+      "pl": "Trzecia Tożsamość Gregor",
+      "kr_sha256": "6676d5851b0c18ae54ec0d26be58b353f93ed2a2850d18159aac520c456f34ab",
+      "en_sha256": "744c2f06b3a51ac11a483e61d7067eb263ba9d3e5a3e34b075c13380b79e35f4",
+      "origin": "ai"
+    },
+    "dataList[id=11203].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11203].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11203].title": {
+      "pl": "Korp. G\nPierwszy Porucznik",
+      "kr_sha256": "76e9db48b1ac210114ef6bbf9ae97c1c73005a1a9621f5a1be21ff31ac482c5e",
+      "en_sha256": "bb0e5eadd1b89a96513645d17e4f0cd004eebe12a680c0b5f471292441b46533",
+      "origin": "ai"
+    },
+    "dataList[id=11204].desc": {
+      "pl": "Czwarta Tożsamość Gregor",
+      "kr_sha256": "354c040e3323531a91aa99bd129b29195cedeb847712f5fc12ea33a7f0449d0a",
+      "en_sha256": "d7c9a4981836db42c8b4d67eb5e48833a8f1fb78f4efc771d0d41adae994d6e3",
+      "origin": "ai"
+    },
+    "dataList[id=11204].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11204].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11204].title": {
+      "pl": "R. B. O. P.\nSous-chef",
+      "kr_sha256": "bb4f7a2a0751a0b8c0b8da0dff774d3206cf87c68ecf5809fef90554300540c3",
+      "en_sha256": "108c70b0c5a7e179422aba0b2b28cd02c191e061fd20fde207f0447ffdb9ddaf",
+      "origin": "ai"
+    },
+    "dataList[id=11205].desc": {
+      "pl": "Piąta Tożsamość Gregor",
+      "kr_sha256": "6ff378b21e050f2c73907559fe2b4d6081058a5dfcddbc506155e72a56a4efa3",
+      "en_sha256": "4bd5d3d188d6aafbc12961101440dc2d449b30a5b69c4029b88eb87b8ad647aa",
+      "origin": "ai"
+    },
+    "dataList[id=11205].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11205].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11205].title": {
+      "pl": "Warsztat Różanego Klucza\nFikser",
+      "kr_sha256": "c2927098384cc3360286ce4b3245f6901292463398b0cceab65d2f8f3f6e773a",
+      "en_sha256": "25159dcbe342a3777e4c45d4e255d0ab25c1fff495b0f3ad685dc5dfa29c68ee",
+      "origin": "ai"
+    },
+    "dataList[id=11206].desc": {
+      "pl": "Szósta Tożsamość Gregor",
+      "kr_sha256": "f452860bf02d32e840cbfcfd7a8a238f4bb6c844c1c7f8e47682a2a00a0b64fc",
+      "en_sha256": "1a0fb8e41e48b7c55fc495672f40030a882c5d461c01068eef75e7b953a3e492",
+      "origin": "ai"
+    },
+    "dataList[id=11206].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11206].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11206].title": {
+      "pl": "Południowe Stowarzyszenie Zwei\nSekcja 4",
+      "kr_sha256": "bcb6e6015a8c5d91151c4f6b64d7aa8216f556757ccda574b7adef733913bf9e",
+      "en_sha256": "8be23922f00e5abb09df67ea898b5365e2b756da536d305bd7b5980f3117c0fe",
+      "origin": "ai"
+    },
+    "dataList[id=11207].desc": {
+      "pl": "Siódma Tożsamość Gregor",
+      "kr_sha256": "d1d657121aad23bef636ec0f04f635a3e9015dbbefcd137a718302ae38f2e5c0",
+      "en_sha256": "aab92c35fb11bb6c8d26fc173b044e70db2a288ba1eaf777cfed4f39e84bcee2",
+      "origin": "ai"
+    },
+    "dataList[id=11207].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11207].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11207].title": {
+      "pl": "Piraci Podwójnego Haka\nPierwsza Oficer",
+      "kr_sha256": "7e6e2de574a7e9aad51d93b3af8316a9614ba1e5a23672244d00f7332dd5866f",
+      "en_sha256": "089cffe5dea7c068971b5d9768467c77339824a38a6216cb9b3b5aaa093b8a02",
+      "origin": "ai"
+    },
+    "dataList[id=11208].desc": {
+      "pl": "Ósma Tożsamość Gregor",
+      "kr_sha256": "58b3d99902be72c6babdac75600bf92f83469f38add0086c3c6745269a8a4ff0",
+      "en_sha256": "5c32468a86869d8f8692b8a63bd0125ef350cf2c92f97a364e42fe52b31ac2d1",
+      "origin": "ai"
+    },
+    "dataList[id=11208].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11208].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11208].title": {
+      "pl": "Klan Kurokumo\nKapitan",
+      "kr_sha256": "ba28b856e6475d18786c6d012768da94f8e79ec513b141867658e9ef1b7ba13a",
+      "en_sha256": "95f1f498735ebd873f8ac659617ee7fb9b2255a5f37b0f1e28835b183c772855",
+      "origin": "ai"
+    },
+    "dataList[id=11209].desc": {
+      "pl": "Dziewiąta Tożsamość Gregor",
+      "kr_sha256": "9a0d09a31930ff3b99f7ee1cfa0d0d402430ba6906ecec20764a78a6be6e8051",
+      "en_sha256": "63d686e5f6ba46780fa520601c6bf4bbb4aa0bf786a76a06d81635fb5cbf391b",
+      "origin": "ai"
+    },
+    "dataList[id=11209].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11209].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11209].title": {
+      "pl": "Rodzina Edgar\nNastępca",
+      "kr_sha256": "6d4894a02e1e93fedf416229f6675dd5cba6c2eed894efd7246537f57f9e5196",
+      "en_sha256": "012d996b727d269dea13a642df9cb1551cc49c506e142bb47f4837b3a1e83930",
+      "origin": "ai"
+    },
+    "dataList[id=11210].desc": {
+      "pl": "Dziesiąta Tożsamość Gregor",
+      "kr_sha256": "06d670c8d6ad937e22dd37bae8e8a111d513ec4e5cd782decc33bf8ac62f5f84",
+      "en_sha256": "4fabcbf817839111c1489b642e9c4d691909c62aa8aeb9a133aa0c09ab9e83cd",
+      "origin": "ai"
+    },
+    "dataList[id=11210].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11210].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11210].title": {
+      "pl": "Kapłan\nz La Manchaland",
+      "kr_sha256": "3a6d347a4b873ceebba00c60abfe9079aa5af8f802bdcab817a9ad924a5cd750",
+      "en_sha256": "0d131125448bb3d457efd230dd3e460477f86061235e0077951dde9cc4d5240e",
+      "origin": "ai"
+    },
+    "dataList[id=11211].desc": {
+      "pl": "Jedenasta Tożsamość Gregor",
+      "kr_sha256": "e801058405178e2ae227ccb02d9e6eed138e4adc20e6fc9cedc791b859af44e3",
+      "en_sha256": "6021fa171ddcb48a563d737072c2fb595330769a28758cca9accc8e2307425d7",
+      "origin": "ai"
+    },
+    "dataList[id=11211].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11211].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11211].title": {
+      "pl": "Biuro Ognistej Pięści\nOcalały",
+      "kr_sha256": "45a4b770714fee51804504000bb28827f698f155b19af4129c71f7376c3fb8b6",
+      "en_sha256": "9be8a60b4f90211661d7896ae30e6528a16e5dc1edb162ac397793d44cc3be83",
+      "origin": "ai"
+    },
+    "dataList[id=11212].desc": {
+      "pl": "Dwunasta Tożsamość Gregor",
+      "kr_sha256": "656186a876a122783ae91b56b0ea0014560624229ad29597f8d827eed07ef9a3",
+      "en_sha256": "b0aaba3a83abd0c547063c0e234deaff71085ad708450aadf0494ce24c0675dd",
+      "origin": "ai"
+    },
+    "dataList[id=11212].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11212].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11212].title": {
+      "pl": "Wataha Heishou - Gałąź Si",
+      "kr_sha256": "538a629d14b9150b504d932ecd4e7c923d329d89becd8342e7291f28faa1cf33",
+      "en_sha256": "b254fd115fbfd14892aa1165f82308ab6296ee38e1f8e5a9ec35e06b0c97e947",
+      "origin": "ai"
+    },
+    "dataList[id=11213].desc": {
+      "pl": "Trzynasta Tożsamość Gregor",
+      "kr_sha256": "d4c1d98801957f480e2f3819b43fe37fef33842c31577e8e385f6db03e2789b6",
+      "en_sha256": "75c2442dfa6ad451c1edd7d9eb88087886b749df3fde7a24cb35cde47a2febfd",
+      "origin": "ai"
+    },
+    "dataList[id=11213].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11213].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11213].title": {
+      "pl": "Szydła Nocy\nCapitano",
+      "kr_sha256": "178a35c3c10be0900ad2b393d75cb4691379c2ed3af9fc6370e78d3dbdfeb7f9",
+      "en_sha256": "ebdb8daec865c021ce963db552f5d817b25affb46441343f395fa61de510cd87",
+      "origin": "ai"
+    },
+    "dataList[id=11214].desc": {
+      "pl": "Czternasta Tożsamość Gregor",
+      "kr_sha256": "26b14f579ed354ef63e5999ce44ad0715adbb14ea37ccaf706b8aabced79482c",
+      "en_sha256": "7ff486dcf2305cfaffb4b6864877fc92b62bb63582ab5938ab5fc1a04ef7529c",
+      "origin": "ai"
+    },
+    "dataList[id=11214].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11214].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11214].title": {
+      "pl": "Lobotomy E.G.O::\nLamp",
+      "kr_sha256": "5a3904f859de34806c99f570fcc4c51c959131b5501254649e3b157a7dbe2e6d",
+      "en_sha256": "0d459ef7620fd1ba7a06ef02868ed166ba85793abc415d6fe95b38b8c384b7cb",
+      "origin": "ai"
+    },
+    "dataList[id=11215].desc": {
+      "pl": "Piętnasta Tożsamość Gregor",
+      "kr_sha256": "36c38920d02339af46b6814d8b22ee2395003d58a27895a165601831b751db8c",
+      "en_sha256": "9dead3007ae3cbac1b092627d8762b8e28e864bfae5a3dc46300c981133a84b9",
+      "origin": "ai"
+    },
+    "dataList[id=11215].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11215].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11215].title": {
+      "pl": "LCE E.G.O::\nAEDD",
+      "kr_sha256": "1f3a65e44f3d4eba08fcbbcdc57079032fb8334d50c10885c55642132f35cf61",
+      "en_sha256": "1f3a65e44f3d4eba08fcbbcdc57079032fb8334d50c10885c55642132f35cf61",
+      "origin": "ai"
+    },
+    "dataList[id=11216].desc": {
+      "pl": "Szesnasta Tożsamość Gregor",
+      "kr_sha256": "a26a703e8e8ed331ecb034a30f9bf903cd2832f429d7fbe2f00cb5491b92b1a9",
+      "en_sha256": "9b977c6568ea58949c063aba028c1b83ad1b35fc36b67c302f0dfcccd0427a43",
+      "origin": "ai"
+    },
+    "dataList[id=11216].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11216].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11216].title": {
+      "pl": "Biuro Świtu\nRep",
+      "kr_sha256": "21d6fb210682f63edb07149022cc36cb42d1cf00e4e3d095e9dc14ce893471c2",
+      "en_sha256": "b051e2306a24c0a35863c3b36a22c79998988ea907e9879951d8047f8ff79a55",
+      "origin": "ai"
+    },
+    "dataList[id=11217].desc": {
+      "pl": "Siedemnasta Tożsamość Gregor",
+      "kr_sha256": "6cd062d918d4f6e0ee2c5abc3ef0dd1558b9aa4d4e2fcf56309c118668bb99aa",
+      "en_sha256": "824b929b5d7d95ebc7b952638ada79a17f2a1de9cff18d5722db5cb35f6013ab",
+      "origin": "ai"
+    },
+    "dataList[id=11217].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11217].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=11217].title": {
+      "pl": "Haute Couture::\nLe Rouge B2F Kłębowisko Kłębek",
+      "kr_sha256": "bcab51160bd80d19ba65958532371bd8b2174de80cb050456e7f8ca32436e11e",
+      "en_sha256": "30b6e39c858794d4b784d9a83c49809792c9dcfdd4bdaa22dbe36c2079fa25f6",
+      "origin": "ai"
+    },
     "dataList[id=40501].desc": {
       "pl": "Reflectrial][lairtcelfeR - nagroda limitowana Mnestic Experience",
       "kr_sha256": "4648737e132b1d79e93aaa851290255fd2b99f1aff744cce161872420e10a4ae",

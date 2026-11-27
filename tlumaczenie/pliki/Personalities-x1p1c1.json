@@ -263,6 +263,30 @@
       "kr_sha256": "b8fc3f195233163c1367b572e49924ceb6ca5e82bf33f0a5aae0fcbca2decdc7",
       "en_sha256": "8ec813acadeafc17df4245f73545dd37b5cf113e88d0e5d0b695ac8b2a93b129",
       "origin": "ai"
+    },
+    "dataList[id=400036].desc": {
+      "pl": "??? Tożsamość Gregor",
+      "kr_sha256": "1b4ac045e79757349f472388c8505aa6561762c6358ec943b52a3e0741cb29c1",
+      "en_sha256": "bfdc717ccdb8056f19439783eca510170e25a88ebe214eb44af3541a528efa33",
+      "origin": "ai"
+    },
+    "dataList[id=400036].name": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=400036].nameWithTitle": {
+      "pl": "Gregor",
+      "kr_sha256": "4ebcc8275825abfd08fe88d8abcbfb1643d12082ab7223d1605df8850e42189e",
+      "en_sha256": "203badbe14debb8e33e848efeeb804dd7d9c4dee3cdc6acdd7ec9584a886ff4e",
+      "origin": "ai"
+    },
+    "dataList[id=400036].title": {
+      "pl": "Grzesznik Grupy Penglów",
+      "kr_sha256": "93f4e6488570d9ac0100376ba007299eba329d6e809538322d99e40c66c79bf6",
+      "en_sha256": "69c0d4d20a97eec459e33080764a7b7db6f1db74d559abadf13cd500f6d7b55c",
+      "origin": "ai"
     }
   }
 }

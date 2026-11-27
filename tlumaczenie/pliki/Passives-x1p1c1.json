@@ -263,6 +263,30 @@
       "kr_sha256": "9afda83186bc6a239324303b15223a8ca2bc2c713b4bb352224bc3d2252c2e20",
       "en_sha256": "5301ded41a332bee33e55bc6e9444d10c7407b53c79403d96f5648533a0ab4ca",
       "origin": "ai"
+    },
+    "dataList[id=40003601].desc": {
+      "pl": "Odzyskuje 5 HP na początku fazy walki",
+      "kr_sha256": "a74f425244568c11b7b12b0827cabdaa8ba95468604649bb966b961c73335a8d",
+      "en_sha256": "36317dff9fe5b1d4ff08d307144bba09b750ab183ae2eb31a8ebad8a8c6bf7ef",
+      "origin": "ai"
+    },
+    "dataList[id=40003601].name": {
+      "pl": "— nazwa] Wymuszona Egzystencja",
+      "kr_sha256": "bd3ef33e5fb6b9ac91071e35863522cfaa0fa649fe7c546ddb16b96cab8d3d42",
+      "en_sha256": "c16b3e52f05a7eeb63010c981b34a3566d4d72b14ec751764fd651869a17d29c",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].desc": {
+      "pl": "Na początku fazy walki 1 Sojusznik z najniższym HP odzyskuje 5 HP",
+      "kr_sha256": "2af40effb91477f61606c634b1e9b18c7726d093852ca53ee6a30b26831c73b6",
+      "en_sha256": "0f981f08fb3e1535180577f9532f51d070ac4a7b6fe378545ddc5d4c84e2b03c",
+      "origin": "ai"
+    },
+    "dataList[id=40003602].name": {
+      "pl": "— nazwa] Kod Genowy G-0",
+      "kr_sha256": "e158ec99f7bafc61dc9af779b468b4e206c3b16169f216acd7e64677f170934e",
+      "en_sha256": "b958a22182101864d3b8adc7a18ffae51f6c03b97d980e68924088e443edca69",
+      "origin": "ai"
     }
   }
 }
