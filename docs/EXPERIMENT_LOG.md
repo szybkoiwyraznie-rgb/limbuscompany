@@ -604,7 +604,8 @@ liczbami, ograniczenia. Bez tekstów gry i prywatnych ścieżek. Najnowsze na do
   pasywka z wymaganiami, kwestie E.G.O. Identyfikator Grzesznika = cyfry 2–3
   id karty (`20101` → 1, `21201` → 12); warianty sezonowe (np. `2010112`
   z `ego-skill-a1c9p3`) etykietowane „Wariant”. Gra dopisuje adnotacje po
-  tokenach („[Motyl](Żyjącego)”) — generator łamie sąsiedztwo `](` → `] (`,
+  tokenach („[Motyl]” z dopiskiem „Żyjącego”) — generator łamie sąsiedztwo
+  nawiasu kwadratowego z okrągłym (znaki `]` i `(` obok siebie),
   by checker dokumentacji nie czytał tego jako linku.
 - **Czytanki PL (fallback EN):** `czytanki/fabula_PL` (36 rozdziałów),
   `czytanki/plik_ID_PL`, `czytanki/plik_EGO_PL` — wejście: produkcyjna
