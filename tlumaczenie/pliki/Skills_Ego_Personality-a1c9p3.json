@@ -1,0 +1,58 @@
+{
+  "entries": {
+    "dataList[id=2010112].levelList[level=4].abName": {
+      "pl": "Yi Sang",
+      "kr_sha256": "e6e77b83100b28e797f155f37162ee0a171cb2b4193e24205fbc9debf6cca32e",
+      "en_sha256": "ede46a6556f58fcd83c48b4ae8b59fd1146a044b6b4efe8e310e42e25ef9b48f",
+      "origin": "ai"
+    },
+    "dataList[id=2010112].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Reduction] w tej i następnej turze",
+      "kr_sha256": "68630052856ca9368ec544b4c3b5aa7d70349975247298520c4b3e3db866c013",
+      "en_sha256": "b164db84ae71e5a62169ca712c0903ec78600ebebc29808c68bb08d37e27d811",
+      "origin": "ai"
+    },
+    "dataList[id=2010112].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada na wszystkich sojuszników 3 [Agility] następnej tury",
+      "kr_sha256": "db893a871f9ebab45633d0f775f0c9acaccefc7dfcc665c00336bdc466154160",
+      "en_sha256": "709fb7a31bcf9a078457be8fb68873630bfe496378eea7df0ab96742a97b4123",
+      "origin": "ai"
+    },
+    "dataList[id=2010112].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 2 [Binding]",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=2010112].levelList[level=4].name": {
+      "pl": "Widok Oka Wrony",
+      "kr_sha256": "29626d3b2291abc80cfa5252d2c35ffdbc94b73e4b0d1be1a4b9d1727fb0a3c5",
+      "en_sha256": "e234a09d8e86c080c4dc2e5f9afd914a21791bdb3157288c5b9a45a0292f6da0",
+      "origin": "ai"
+    },
+    "dataList[id=2030112].levelList[level=4].abName": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=2030112].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Laceration]",
+      "kr_sha256": "4dbdf8afffde86221c4a31d45b3f55cd98615327cc3d90cce01d7ec0ec5ca353",
+      "en_sha256": "e9483684f4479b2c06109d756f8801f2a51a63f7fad739898065a3377e6a203f",
+      "origin": "ai"
+    },
+    "dataList[id=2030112].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Odzyskuje HP równe 50% zadanych obrażeń",
+      "kr_sha256": "48f769d88c6ebd9f5a694a9edb40e0580fa78d683b76c129c39c80d637943438",
+      "en_sha256": "f63416514e5fd28551a8a2a546735cb46106948fe6eb29fa72c3f1c8a65e831c",
+      "origin": "ai"
+    },
+    "dataList[id=2030112].levelList[level=4].name": {
+      "pl": "La Sangre de Sancho",
+      "kr_sha256": "a95de870d52ab519904c84158ea2d08c2f92f07c33ded67942a438566370da31",
+      "en_sha256": "3e71445c66939a1ec8606e14cb4125744def27f3238ffe8267fea0ccd20d191c",
+      "origin": "ai"
+    }
+  }
+}

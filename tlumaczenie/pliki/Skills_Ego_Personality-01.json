@@ -1,0 +1,1702 @@
+{
+  "entries": {
+    "dataList[id=2010611].levelList[level=1].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada 1 [Binding] następnej tury",
+      "kr_sha256": "03cd925a82d80e4bbaf62ca748523a631f9dfe99b63d708ee0510dcfa9c9204b",
+      "en_sha256": "b089f8cccb65783ae4a91d01f4d60125852bc4cb97c8becc5a98f40afcc2193f",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=1].desc": {
+      "pl": "[EndSkill] losowo nakłada (6 + Rezonansu Posępności) [Sinking] między cele ataku",
+      "kr_sha256": "73b449dae0b2a64f60957632ac942c6992d81630cb1ac6a6d4f930661e868bab",
+      "en_sha256": "1234217055f44ad0f5c7caae7bc1b9d8c315ba44b6587974366430baa1b2ed45",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=1].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=3].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "0b369d27f1003be6c9f79a1f00a8a5effdf977549e0a28bd0d965c4ff381444d",
+      "en_sha256": "c3bbe57e2697ce17fbb629a0096dfd96f34473bcc72a181fc16c08297f6e230d",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=3].desc": {
+      "pl": "[EndSkill] losowo nakłada (6 + Rezonansu Posępności) [Sinking] między cele ataku",
+      "kr_sha256": "73b449dae0b2a64f60957632ac942c6992d81630cb1ac6a6d4f930661e868bab",
+      "en_sha256": "1234217055f44ad0f5c7caae7bc1b9d8c315ba44b6587974366430baa1b2ed45",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=3].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=4].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "0b369d27f1003be6c9f79a1f00a8a5effdf977549e0a28bd0d965c4ff381444d",
+      "en_sha256": "c3bbe57e2697ce17fbb629a0096dfd96f34473bcc72a181fc16c08297f6e230d",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=4].desc": {
+      "pl": "[EndSkill] losowo nakłada (6 + (<style=\"highlight\">Rezonans Posępności x 1,5</style>)) [Sinking] między cele ataku",
+      "kr_sha256": "c395cb15c4f7db94880923b09aa5c43005d0224ae0c1979c62817902616566ea",
+      "en_sha256": "d6c99db3bc7b21f33759243e78166196aee6c865605cea742035166263129f2b",
+      "origin": "ai"
+    },
+    "dataList[id=2010611].levelList[level=4].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=1].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]. Nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "86371aa896ef403c09417cfb3d0b7826247cc09d6cfea91a5fa871b7add46609",
+      "en_sha256": "38951b7dfc2c5f3d6fe6b8dea9ab374e114c86d6500e76527aa222ba537be841",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada 1 [Binding] następnej tury",
+      "kr_sha256": "03cd925a82d80e4bbaf62ca748523a631f9dfe99b63d708ee0510dcfa9c9204b",
+      "en_sha256": "b089f8cccb65783ae4a91d01f4d60125852bc4cb97c8becc5a98f40afcc2193f",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel",
+      "kr_sha256": "4eae61565d235114765e936c55d41dd680306f2ea9c02f05f8eca693e7aac37e",
+      "en_sha256": "33c3b72fe8f944ede8c07f6fc3815824736d997dca764aaeb0b0ecbb9dfea79d",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=1].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=3].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]. Nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "86371aa896ef403c09417cfb3d0b7826247cc09d6cfea91a5fa871b7add46609",
+      "en_sha256": "38951b7dfc2c5f3d6fe6b8dea9ab374e114c86d6500e76527aa222ba537be841",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada 1 [Binding] następnej tury",
+      "kr_sha256": "03cd925a82d80e4bbaf62ca748523a631f9dfe99b63d708ee0510dcfa9c9204b",
+      "en_sha256": "b089f8cccb65783ae4a91d01f4d60125852bc4cb97c8becc5a98f40afcc2193f",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy Rezonansie Posępności 3+ Waga Ataku +1",
+      "kr_sha256": "6b08313656bbb59c76f15c1ce06ddb58f0f3801c6c3efda4a1c199b6e3a3be1c",
+      "en_sha256": "92e04139914554655e5f5275e6221c750ce850215b1f59a9a364d139c751ae93",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=3].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=4].abName": {
+      "pl": "Portret Pewnego Dnia",
+      "kr_sha256": "a5dc48ce22a96fec65fe1c76c189df3700c58f7f3531ee13fed4b8ecfa0dbd52",
+      "en_sha256": "c360db77dc45ca0c2fda0d92dea73c31af5f3dc0960f0584dcab1d6989627ffa",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Sinking]. Nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "86371aa896ef403c09417cfb3d0b7826247cc09d6cfea91a5fa871b7add46609",
+      "en_sha256": "38951b7dfc2c5f3d6fe6b8dea9ab374e114c86d6500e76527aa222ba537be841",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 6+ [Sinking], nakłada 2 [Binding] następnej tury",
+      "kr_sha256": "0b369d27f1003be6c9f79a1f00a8a5effdf977549e0a28bd0d965c4ff381444d",
+      "en_sha256": "c3bbe57e2697ce17fbb629a0096dfd96f34473bcc72a181fc16c08297f6e230d",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] przy Rezonansie Posępności 3+ Waga Ataku +1\n[BeforeAttack] przy Rezonansie Posępności 5+ dodatkowo Waga Ataku +1",
+      "kr_sha256": "f385e499a147a38814b24340761ff0c97db0b9ac257a7851ba91e9536bee9676",
+      "en_sha256": "510c654b2ab3af8e150b48391a7aa3f5ccec6d84fcc102d41daad99d51627e7d",
+      "origin": "ai"
+    },
+    "dataList[id=2010621].levelList[level=4].name": {
+      "pl": "Dni Przeszłe",
+      "kr_sha256": "c3b811d568cbbcb758f25121338688d6394daff99e04e1ea9df47a0909790998",
+      "en_sha256": "0286b189a0626c9a14bb13d0fb849380fbe1d955050f4536d326aa5f614b4f17",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].abName": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celowi głównemu.",
+      "kr_sha256": "b3a3e701ba83d62f968c0e16b35bacbcdb2b33d4b6cf71fa9ee13833c707e894",
+      "en_sha256": "92cfb05cbf83b169da77d96dbfc548e0ee05bf4c280e8560022f0e8ff3bc08b5",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje +8% obrażeń za każdy [BoseProjektil] (maks. 56%)",
+      "kr_sha256": "6555656f2db96f9e8c58d8875a04ea5a0587f943c2eb07fc3b84f8e4f8f876ef",
+      "en_sha256": "f673b7a824c346856cd7e9a9009a3698eeaf3ff27492e33db994e550d1e85a4f",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[AllyKill] nakłada 2 [Breath] sobie i 2 losowym sojusznikom",
+      "kr_sha256": "2de551bff896cf48bf6e8633f3a89b9c0c7ff477d394b48b116dd039241c58f5",
+      "en_sha256": "136ad22a4d558646bce929bd209c01a411a839517977636884a6af0e5ce0afc6",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[AllyKillFail] zyskuje 1 [Breath]",
+      "kr_sha256": "2c17ea5e16d59d7b9c2813c7303c332417d827593f1e15b0f665273058c9fe88",
+      "en_sha256": "9ea569f5835039ed9f0e0e7079ee000c5c7f0244d824bde437ef5d481b48a11b",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celom pobocznym\n- jeżeli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia",
+      "kr_sha256": "f695d01da9ced508b7ff63d0c925bbba01548111b0ae60ba7841f263d1680015",
+      "en_sha256": "fdf4e2d3a5a11d71c5f8226877c9a76b25fbe4249e255ab66eb89ba6d7eb3c27",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "+2% obrażeń krytycznych za każdy [BoseProjektil] (maks. 14%)",
+      "kr_sha256": "4fbd604311a31df58fc0ebad326b8abeb1c08fcb0d1ad119d74f5ac77ca5bd20",
+      "en_sha256": "b997447d705429cf6ab1188eb03443cf8cdba1b6a31a07eeaf7d36c7b3cf6487",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Nakłada 2 [Laceration]",
+      "kr_sha256": "1bdbe72ba23168a60dd18e4ae48c01de65625a43352a29f03ebe7bc30b2a6aa8",
+      "en_sha256": "71f2df8d3bce8032f4f0c0b84b7a4ca76ed732be55deef3a62294eca63c4dae8",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].desc": {
+      "pl": "Priorytet ataku: cele z najniższym HP (najpierw sojusznicy)\n[BeforeAttack] zyskuje (najwyższego Rezonansu + 1) [BoseProjektil] (maks. 7)\n[BeforeAttack] zyskuje 1 [Breath] za każdy [BoseProjektil] (maks. 7)\n[EndSkill] zużywa wszystkie [BoseProjektil]",
+      "kr_sha256": "6f4a826614c2d59ff7970ac7ec34ce250dad3a123ef2aea8cbe4aa6be396aaae",
+      "en_sha256": "f16ebd77794ab24c122df66b9959b10e91cbe54c246143cd57eb2a6dbdda485b",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=1].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].abName": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celowi głównemu.<style=\"highlight\"></style>",
+      "kr_sha256": "017b69e1010a3d1e423d0e25b6cd1f4fe73353b12eb18ea2688d12562df70ccc",
+      "en_sha256": "83820610dbb769ad34f4239bcb51e3b69a92d4857705349a0ea94320e415aa6f",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje <style=\"highlight\">+10%</style> obrażeń za każdy [BoseProjektil] (maks. <style=\"highlight\">70%</style>)",
+      "kr_sha256": "6740d9c832b3307269578ea65e052b819864fa60785ce4638bec0cd3b0430d68",
+      "en_sha256": "1b516cff1e591394a420bc9be23d9ab06fdf5565ec2d033eeb06273f7499b6d4",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[AllyKill] nakłada 3 [Breath] sobie i 2 losowym sojusznikom<style=\"highlight\"></style>",
+      "kr_sha256": "9a1db94aeb2aca6395fadb17f5e5c0357889a9e036d655162582afb294267de5",
+      "en_sha256": "c3835f7e36cd05273e82857b981005f15d73e3b8ce83472ad2a54c9a35fc2998",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[AllyKill] +1 zasobu E.G.O Grzechu Umiejętności 1 zabitego sojusznika</style>",
+      "kr_sha256": "26516faff7b2dbcf678006a1c464badc2d0feb5fe1a4880b67dd0b1c0cfac356",
+      "en_sha256": "22d00ebe4c9bdb7f10eef5ebfee9e202840c6724669e2efbd969827840250987",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[AllyKillFail] zyskuje <style=\"highlight\">3</style> [Breath]",
+      "kr_sha256": "4f6c10a7d19eadbece54a8345ceb360f6ae622f4f91961584a6fedddd22ed3e8",
+      "en_sha256": "f9c358aff0e9fcfc47f8a95250d768b1668a575f69cef3e5bad7dea438fc65e2",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celom pobocznym\n- jeżeli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>",
+      "kr_sha256": "cce18a80534b86daf2d1636e0081e705ad012e059fea195fbeb4672f8388effa",
+      "en_sha256": "bc8b7d222d03396a87c87995ae218701110aae005afa85f1ecfb3c7cb9534874",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">+5%</style> obrażeń krytycznych za każdy [BoseProjektil] (maks. <style=\"highlight\">35%</style>)",
+      "kr_sha256": "24b9964dfbd0bd64af7bbe7f41e807e95a9984ac497d7df21b809eef9358fcbb",
+      "en_sha256": "11bccc47a2ec6543f8980a4cbb60c7cd19fd4941428fc5e8a2a223cbdf8985b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Nakłada 2 [Laceration]<style=\"highlight\"></style>",
+      "kr_sha256": "628cd007a7d1d34044ca3f6327589e25b1b8c6690b49ce8388e9bdb2635d441b",
+      "en_sha256": "4fa73c96337d7aae1795b6ac838f9bf451d0074e0bdf50685799debf6fa7ba65",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].desc": {
+      "pl": "Priorytet ataku: cele z najniższym HP (najpierw sojusznicy)\n[BeforeAttack] zyskuje (najwyższego Rezonansu + 1) [BoseProjektil] (maks. 7)\n[BeforeAttack] zyskuje 1 [Breath] za każdy [BoseProjektil] (maks. 7)\n[EndSkill] zużywa wszystkie [BoseProjektil]<style=\"highlight\"></style>",
+      "kr_sha256": "d8b3fa025ee6b2fc673445e8bdd3c4309041a367b68e60e19b46ad55d3659364",
+      "en_sha256": "c0bff7d18b50903128629e5bff7f9a33ed788cb392a8ae66387be01933f604f9",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=3].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].abName": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celowi głównemu.<style=\"highlight\"></style>",
+      "kr_sha256": "017b69e1010a3d1e423d0e25b6cd1f4fe73353b12eb18ea2688d12562df70ccc",
+      "en_sha256": "83820610dbb769ad34f4239bcb51e3b69a92d4857705349a0ea94320e415aa6f",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje <style=\"highlight\">+15%</style> obrażeń za każdy [BoseProjektil] (maks. <style=\"highlight\">105%</style>)",
+      "kr_sha256": "a76adbf64a077c7a477b641c8b3acfab70e479453c4cd72d40c1606ee2b7cbb2",
+      "en_sha256": "324588343e30a042cf033bbbc7cd02b2a3ac2458e52cda9ca6ef527e3eab6ac6",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[AllyKill] nakłada 3 [Breath] sobie i 2 losowym sojusznikom<style=\"highlight\"></style>",
+      "kr_sha256": "9a1db94aeb2aca6395fadb17f5e5c0357889a9e036d655162582afb294267de5",
+      "en_sha256": "c3835f7e36cd05273e82857b981005f15d73e3b8ce83472ad2a54c9a35fc2998",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[AllyKill] +1 zasobu E.G.O Grzechów Umiejętności 1 i 2 zabitego sojusznika</style>",
+      "kr_sha256": "63f58e81f21656f807d0a8820395d7075bdec0e74952c7153b51c2915d930021",
+      "en_sha256": "4cac3812a590482c20a68b7010a9a5fc66b0c7dad25cd00aa0e604a21b134100",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[AllyKillFail] zyskuje <style=\"highlight\">3</style> [Breath]",
+      "kr_sha256": "4f6c10a7d19eadbece54a8345ceb360f6ae622f4f91961584a6fedddd22ed3e8",
+      "en_sha256": "f9c358aff0e9fcfc47f8a95250d768b1668a575f69cef3e5bad7dea438fc65e2",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celom pobocznym\n- jeżeli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>",
+      "kr_sha256": "cce18a80534b86daf2d1636e0081e705ad012e059fea195fbeb4672f8388effa",
+      "en_sha256": "bc8b7d222d03396a87c87995ae218701110aae005afa85f1ecfb3c7cb9534874",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">+9%</style> obrażeń krytycznych za każdy [BoseProjektil] (maks. <style=\"highlight\">63%</style>)",
+      "kr_sha256": "93cbc536818146678857f0ee9b878f0520bc6b09e557353be3f7a61ebafbb57f",
+      "en_sha256": "16b47818fe4fe9a504980988523b15025b92b428cc79ced029734a195d7690a6",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada <style=\"highlight\">3</style> [Laceration]",
+      "kr_sha256": "6b9df235685ea19999a10cba6b49abcd3ebdc0b3147e709984cd305f654fce9b",
+      "en_sha256": "322b3dfdcd51721a05beb68f664c47af210c80e54a28a0ba80fb3cc9b8136952",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].desc": {
+      "pl": "Priorytet ataku: cele z najniższym HP (najpierw sojusznicy)\n[BeforeAttack] zyskuje (najwyższego Rezonansu + 1) [BoseProjektil] (maks. 7)\n<style=\"highlight\">- jeżeli to Rezonans Pychy, zamiast tego zyskuje (najwyższy Rezonans x 2) [BoseProjektil] (maks. 7)</style>\n[BeforeAttack] zyskuje 1 [Breath] za każdy [BoseProjektil] (maks. 7)\n[EndSkill] zużywa wszystkie [BoseProjektil]",
+      "kr_sha256": "7416b7e5f8d46ddb916c722e1b2eeeb8615474bd17e99e94d6938ef0f41c10f3",
+      "en_sha256": "adae2225f95cc1f56012a7e0f6a333d01ab3b64ea39ab372b4d0ce567a0c0ec2",
+      "origin": "ai"
+    },
+    "dataList[id=2010711].levelList[level=4].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].abName": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celowi głównemu.",
+      "kr_sha256": "b3a3e701ba83d62f968c0e16b35bacbcdb2b33d4b6cf71fa9ee13833c707e894",
+      "en_sha256": "92cfb05cbf83b169da77d96dbfc548e0ee05bf4c280e8560022f0e8ff3bc08b5",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje +10% obrażeń za każdy [BoseProjektil] (maks. 70%)",
+      "kr_sha256": "27cbb090809c9302874e2c531359056e0c40a9cbbcb3c7f705d1e3fa3a1edb68",
+      "en_sha256": "8fb4cd03890bced0c5f3a48f1a796f011efbead476ac271577417c86d15a4870",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje +2% obrażeń za każdy własny [Breath] (maks. 50%)",
+      "kr_sha256": "1dd2ad7162f59b8032eda87f37410628dfca114e8c0aef7058108e6ff4d2b8e2",
+      "en_sha256": "7c0b7b6b01c42ce17b2294f4d8079c015e8b58c5f0b6761ea13030ec9d4f412d",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[AllyKill] nakłada 2 [Breath] sobie i 3 losowym sojusznikom",
+      "kr_sha256": "4d5dd14fe68274a3cb0bba1293db982db1ab705c812a2a3019509ed8b4365b69",
+      "en_sha256": "851773703931b233867cd57249e3cc556f6120673628e1fa3b8f3dbed2387595",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[AllyKill] następna Moneta zadaje +2% obrażeń za każdy [BoseProjektil] (maks. 14%)",
+      "kr_sha256": "6fbc3663328db2635741a26c8d38e7086c1a9913eb1f2f90380f327866c79117",
+      "en_sha256": "4f50cfdee90ec7a608ca061210665bf6ff3004e2ca6b8a17e3c08178d4ab4435",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#5].desc": {
+      "pl": "[AllyKill] +1 zasobu E.G.O Grzechów Umiejętności 1 i 2 zabitego sojusznika",
+      "kr_sha256": "0abbc76717110a6e619bbf6565e89ca64fe7b656430c2810e684e104ea940c46",
+      "en_sha256": "9f0687c85a4935e6bf7561b776ea148d7eb5e62adfca15d8ace8e4ac9e4b85ea",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#0].coindescs[#6].desc": {
+      "pl": "[AllyKillFail] zyskuje 1 [Breath]",
+      "kr_sha256": "2c17ea5e16d59d7b9c2813c7303c332417d827593f1e15b0f665273058c9fe88",
+      "en_sha256": "9ea569f5835039ed9f0e0e7079ee000c5c7f0244d824bde437ef5d481b48a11b",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celom pobocznym\n- jeżeli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia",
+      "kr_sha256": "f695d01da9ced508b7ff63d0c925bbba01548111b0ae60ba7841f263d1680015",
+      "en_sha256": "fdf4e2d3a5a11d71c5f8226877c9a76b25fbe4249e255ab66eb89ba6d7eb3c27",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "+2% obrażeń krytycznych za każdy [BoseProjektil] (maks. 14%)",
+      "kr_sha256": "4fbd604311a31df58fc0ebad326b8abeb1c08fcb0d1ad119d74f5ac77ca5bd20",
+      "en_sha256": "b997447d705429cf6ab1188eb03443cf8cdba1b6a31a07eeaf7d36c7b3cf6487",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada 3 [Laceration]",
+      "kr_sha256": "1c7730379c171a481f340841eda6138f04640d782583e51e21af94edbb221ff6",
+      "en_sha256": "41a6a39176085adb92cab88f6a8de105a8749d450ebaa2aece97e10f146ed93f",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cele z najniższym HP (najpierw sojusznicy)\n[BeforeAttack] zyskuje (najwyższego Rezonansu + 1) [BoseProjektil] (maks. 7)\n[BeforeAttack] zadaje +2% obrażeń za każdy [BoseProjektil] (maks. 14%)\n[BeforeAttack] zyskuje 1 [Breath] za każdy [BoseProjektil] (maks. 7)\n[EndSkill] zużywa wszystkie [BoseProjektil]",
+      "kr_sha256": "5943d757d02fb61e492023fa5c5b46182108531fac22128379dfb60e0b039944",
+      "en_sha256": "c4a21c0c8a20149613fa435e7d0cdd3c7aa02fa1f3be120c47a2565e0a6b21e3",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=1].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].abName": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celowi głównemu.<style=\"highlight\"></style>",
+      "kr_sha256": "017b69e1010a3d1e423d0e25b6cd1f4fe73353b12eb18ea2688d12562df70ccc",
+      "en_sha256": "83820610dbb769ad34f4239bcb51e3b69a92d4857705349a0ea94320e415aa6f",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje <style=\"highlight\">+12%</style> obrażeń za każdy [BoseProjektil] (maks. <style=\"highlight\">84%</style>)",
+      "kr_sha256": "00099865a2da52b1102bb19098d919bdb65da82f3d8b981646825a2615395e0d",
+      "en_sha256": "91735f38c62cbae07d72841aa5820516223866d327ebd306ae7c9a8e8440c34c",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje +2% obrażeń za każdy własny [Breath] (maks. 50%)<style=\"highlight\"></style>",
+      "kr_sha256": "9177adc10803dd8776fb51ba2e9936db8b3a42f6324a4ea0a7492670a5435e4d",
+      "en_sha256": "4dcb2645a9eb387891e01c7556ef1ea180e71c7f8e461bc2f433e66679c1a5d1",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#3].desc": {
+      "pl": "[AllyKill] nakłada 3 [Breath] sobie i <style=\"highlight\">4</style> losowym sojusznikom",
+      "kr_sha256": "3d33167c2d9c5495768d7046c8006259b27b9e91185f030ef25cb4d5f81ade47",
+      "en_sha256": "5b8beef600640c82e4afa7bb297193227f50149684e4659e13edfb8ff41558e8",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[AllyKill] następna Moneta zadaje <style=\"highlight\">+5%</style> obrażeń za każdy [BoseProjektil] (maks. <style=\"highlight\">35%</style>)",
+      "kr_sha256": "810c44a6aa0bf8c478c8a0b13e9bafe974e6cc5323ffc9bc37b0e06fffe810c2",
+      "en_sha256": "35702d3eb32bb8cead53bcd5e6aac0d5798eb62a6de8d303ff1b8c889cf4ca6e",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#5].desc": {
+      "pl": "<style=\"highlight\">[AllyKill] +1 zasobu E.G.O Grzechów Umiejętności 1, 2 i 3 zabitego sojusznika</style>",
+      "kr_sha256": "39d1d9b7f1ee9c45c66eb26733da0a76e2fdfec6cb6aab17d5b8a66cff28bb84",
+      "en_sha256": "08f675ca6248a13ce03ae7b3a46be1a1908c8103b70090178cf5ecba1e4d231f",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#0].coindescs[#6].desc": {
+      "pl": "[AllyKillFail] zyskuje <style=\"highlight\">2</style> [Breath]",
+      "kr_sha256": "9d0fb054950d93b5883b9a8459d1329ec794608632b948b1d350ce1ce6c5c05c",
+      "en_sha256": "3c25d7accf90740b968a69382a00472c918a764afaa2e4e33e50640e1f9885c7",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celom pobocznym\n- jeżeli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>",
+      "kr_sha256": "cce18a80534b86daf2d1636e0081e705ad012e059fea195fbeb4672f8388effa",
+      "en_sha256": "bc8b7d222d03396a87c87995ae218701110aae005afa85f1ecfb3c7cb9534874",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">+3%</style> obrażeń krytycznych za każdy [BoseProjektil] (maks. <style=\"highlight\">21%</style>)",
+      "kr_sha256": "b81f1a0e2c472461c34d4670a4a6fa77d56f9e061a37ade27e713ea6b9b3f59b",
+      "en_sha256": "95836200b38713934a0bae93863e12b900ff2e82718744b50d982341ab896f3d",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada <style=\"highlight\">4</style> [Laceration]",
+      "kr_sha256": "c1b116ff87470893611e2d855799a1dbc4db00c4f56e0223b7563dc23bff1264",
+      "en_sha256": "4b8766a38ea0142e33dcf752feb0abf4a2d8dc27ab82dfe9af9a5adf1307209d",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cele z najniższym HP (najpierw sojusznicy)\n[BeforeAttack] zyskuje (najwyższego Rezonansu + 1) [BoseProjektil] (maks. 7)\n[BeforeAttack] zadaje <style=\"highlight\">+3%</style> obrażeń za każdy [BoseProjektil] (maks. <style=\"highlight\">21%</style>)\n[BeforeAttack] zyskuje 1 [Breath] za każdy [BoseProjektil] (maks. 7)\n[EndSkill] zużywa wszystkie [BoseProjektil]",
+      "kr_sha256": "b7d313c8d1bca90b84be6b4643c85fb556ba755f6290e515142f2860a41575b8",
+      "en_sha256": "00d7394ae945a2d1f22bca0dbea02b9dc002d8c92fe538235cfe6b28ea6bed63",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=3].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].abName": {
+      "pl": "Der Fluchschütze",
+      "kr_sha256": "1f9d73b27beedb97ca9a33e21af9249434160212473d97a11be86930378fb0fc",
+      "en_sha256": "2b8e4074aa3fe1d16dd33620a31cfd47bc5c93d661da9a8dfc54a8b964254720",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celowi głównemu.<style=\"highlight\"></style>",
+      "kr_sha256": "017b69e1010a3d1e423d0e25b6cd1f4fe73353b12eb18ea2688d12562df70ccc",
+      "en_sha256": "83820610dbb769ad34f4239bcb51e3b69a92d4857705349a0ea94320e415aa6f",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje +15% obrażeń za każdy [BoseProjektil] (maks. 105%)<style=\"highlight\"></style>",
+      "kr_sha256": "a0e1301a8bc3e1473c24f0c7813bcbaef94d76ba706d30d98422440beb41d222",
+      "en_sha256": "a4ca0fae8b44e42a165b445bd53244c1357a6337bce5250e49709a643657c803",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "Jeżeli cel główny jest sojusznikiem, zadaje +2% obrażeń za każdy własny [Breath] (maks. 50%)<style=\"highlight\"></style>",
+      "kr_sha256": "9177adc10803dd8776fb51ba2e9936db8b3a42f6324a4ea0a7492670a5435e4d",
+      "en_sha256": "4dcb2645a9eb387891e01c7556ef1ea180e71c7f8e461bc2f433e66679c1a5d1",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">Zadaje +30% obrażeń przy trafieniu krytycznym</style>",
+      "kr_sha256": "01a6c40ca4ef9b08f05a3b3b056daa8b80072726e48b05d630fc36a7c69cce81",
+      "en_sha256": "95fbbf4f274077ae941dfac36aa665842437f32e0f68d08bfa208fa03f296c47",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#4].desc": {
+      "pl": "[AllyKill] nakłada 3 [Breath] sobie i <style=\"highlight\">4</style> losowym sojusznikom",
+      "kr_sha256": "8e5949226c55ec040c09bc36319740846ee0bbbb0d118ff95dd2eb7385a2f00d",
+      "en_sha256": "3fc22237b5d26ce6b3c36733a59970a43b8e803de5338d119a267fc35068b449",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#5].desc": {
+      "pl": "[AllyKill] następna Moneta zadaje <style=\"highlight\">+7%</style> obrażeń za każdy [BoseProjektil] (maks. <style=\"highlight\">49%</style>)",
+      "kr_sha256": "f10eb000d38f8a9015f370ae7eb4797779dcc278a422a12b5db42749bd0410ac",
+      "en_sha256": "d32eb7fe19ba740ceed7844d8bf7196b40a84e965de6cd9b99b6318af614f833",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#6].desc": {
+      "pl": "[AllyKill] +1 zasobu E.G.O Grzechów Umiejętności 1, 2 i 3 zabitego sojusznika<style=\"highlight\"></style>",
+      "kr_sha256": "b4fa283d384f1d3ad1db8210dc9a8ece36a506ec24a4fcb10ce17cfddfc42cdf",
+      "en_sha256": "56618a0d4d81954b8bd654bd309ce97b8c5d5a54ca452fecf73ec4bbbea4001c",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#0].coindescs[#7].desc": {
+      "pl": "[AllyKillFail] zyskuje <style=\"highlight\">3</style> [Breath]",
+      "kr_sha256": "4f6c10a7d19eadbece54a8345ceb360f6ae622f4f91961584a6fedddd22ed3e8",
+      "en_sha256": "f9c358aff0e9fcfc47f8a95250d768b1668a575f69cef3e5bad7dea438fc65e2",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "Ta Moneta zadaje obrażenia tylko celom pobocznym\n- jeżeli pierwsza Moneta nie zabiła sojusznika, 1 losowy cel poboczny otrzymuje obrażenia<style=\"highlight\"></style>",
+      "kr_sha256": "cce18a80534b86daf2d1636e0081e705ad012e059fea195fbeb4672f8388effa",
+      "en_sha256": "bc8b7d222d03396a87c87995ae218701110aae005afa85f1ecfb3c7cb9534874",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "<style=\"highlight\">+4% obrażeń krytycznych za każdy [BoseProjektil] (maks. 28%)</style>",
+      "kr_sha256": "b4a305a5abcee2c16bbab43f968059fdefe8aac5da00dce04a576340e84dc628",
+      "en_sha256": "5461170c73f333f4d9d6b122a2a6ecb5577008969feeb127a0f9957cc18a5553",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] nakłada <style=\"highlight\">5</style> [Laceration]",
+      "kr_sha256": "8668fcf0b474f68e5f39d183de1d90d8ff70c84a9a104cf504d0d18275a00595",
+      "en_sha256": "bb978a1dd747e707e7254203ded9d6b212cc730ab42b8b68e327160778ba4c7f",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nPriorytet ataku: cele z najniższym HP (najpierw sojusznicy)\n[BeforeAttack] zyskuje (najwyższego Rezonansu + 1) [BoseProjektil] (maks. 7)\n<style=\"highlight\">- jeżeli to Rezonans Pychy, zamiast tego zyskuje (najwyższy Rezonans x 2) [BoseProjektil] (maks. 7)</style>\n[BeforeAttack] zadaje <style=\"highlight\">+4%</style> obrażeń za każdy [BoseProjektil] (maks. 28%)\n[BeforeAttack] zyskuje 1 [Breath] za każdy [BoseProjektil] (maks. 7)\n[EndSkill] zużywa wszystkie [BoseProjektil]",
+      "kr_sha256": "07ba2bf25d647c51bd3a7a87b3cde9c675ce19384658d3f057d1fdd70ab1cf6b",
+      "en_sha256": "9930983fee00ec2ec11b78f5d2537f198ee1f0599d7a6177adedbfab7a52fda7",
+      "origin": "ai"
+    },
+    "dataList[id=2010721].levelList[level=4].name": {
+      "pl": "Mroczny Pocisk",
+      "kr_sha256": "e9d43a5a1796343dd6355379bd406d0a6bdbdec45dc2d5e6b5bd506760ca5d49",
+      "en_sha256": "edf02308fdfe774b6b7ac84410f1aaba014cf7ec92cd8db49d685b13ee535bb8",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ThreeMirrorpartYiSang] w tej i następnej turze",
+      "kr_sha256": "85e3222dae59b5ed49270807a33a1b6e82f1b54494de69d828b72afb1cfd5f1f",
+      "en_sha256": "4f0d8e8ac987da07a22cab87126c316d22e7fac7a3360c02370802ec9f100284",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Combustion] równe ([Sinking] na celu / 3) (maks. 5, zaokrąglone w dół)",
+      "kr_sha256": "d98e478f55f556cabd4db5f3cd0557225168ec3b1a399e14de2401dd5e4e61c8",
+      "en_sha256": "0b9e785c30f8b9bf924e02b737712ff26d4af768c370f10013a474204688d11c",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "e673ac3224cccd239be9bf3e4f25cc8e04b44545f8dd10ba9136d5c11f44f282",
+      "en_sha256": "0edd1f1fda108ac829e382034188ed80a835da97f44443a4001c67db5c17260c",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] aktykuje [Combustion] na celu 1 raz; następnie zmniejsza Licznik [Combustion] celu o 1",
+      "kr_sha256": "3bdf2216a00d4b80695b44cf68bb9aa176597e94731da4faafe452ad9d749f11",
+      "en_sha256": "b2ca742adaacc0e4495a2ba9f56b2a15d82b4bee3bcdafef925180b5a483766e",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n- jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Breath] (maks. 2, zaokrąglone w dół)",
+      "kr_sha256": "8ec276c1b3c7019b6cd6beab9ad4a90418d8bbe9fa057506f2259937765ab231",
+      "en_sha256": "bfc6131c85dbcfe0815cfc87ace739f4d10b4fb4f7c80716a1467b822054aba8",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=1].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Combustion]",
+      "kr_sha256": "2ded9a981374ef75f098d42e5a47ce468c76d02842ce287871c06a5b0e83b251",
+      "en_sha256": "93c452f397a64277ed2885186e856e2310c547138706b32097ab09a13716bdff",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o <style=\"highlight\">2</style>",
+      "kr_sha256": "e03f398fce7ef6ddf8875e73abb1f524c65578633d7e3bff8b959e6061cde0ac",
+      "en_sha256": "f7c4c53c017507a52a5188a4056a554f7a2e83fdf21b738088f3d902d6006fe7",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ThreeMirrorpartYiSang] w tej i następnej turze",
+      "kr_sha256": "85e3222dae59b5ed49270807a33a1b6e82f1b54494de69d828b72afb1cfd5f1f",
+      "en_sha256": "4f0d8e8ac987da07a22cab87126c316d22e7fac7a3360c02370802ec9f100284",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Combustion] równe ([Sinking] na celu / 3) (maks. 5, zaokrąglone w dół)",
+      "kr_sha256": "d98e478f55f556cabd4db5f3cd0557225168ec3b1a399e14de2401dd5e4e61c8",
+      "en_sha256": "0b9e785c30f8b9bf924e02b737712ff26d4af768c370f10013a474204688d11c",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "e673ac3224cccd239be9bf3e4f25cc8e04b44545f8dd10ba9136d5c11f44f282",
+      "en_sha256": "0edd1f1fda108ac829e382034188ed80a835da97f44443a4001c67db5c17260c",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] aktykuje [Combustion] na celu 1 raz; następnie zmniejsza Licznik [Combustion] celu o 1",
+      "kr_sha256": "3bdf2216a00d4b80695b44cf68bb9aa176597e94731da4faafe452ad9d749f11",
+      "en_sha256": "b2ca742adaacc0e4495a2ba9f56b2a15d82b4bee3bcdafef925180b5a483766e",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].desc": {
+      "pl": "<style=\"highlight\">[BeforeAttack] jeżeli suma [Combustion] i [Sinking] celu głównego wynosi 15+, +1 do Mocy Monety</style>\n[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n- jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Breath] (maks. 2, zaokrąglone w dół)",
+      "kr_sha256": "d2079ce9db0ec68a2255da8eb6958ca89c11e71fb550b4376fd7568662f3c973",
+      "en_sha256": "293c0edb2ed04946e4c68cc315dccbbe366ebdc9e3b30c7f7658cd0f11b1c2b9",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=3].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] o <style=\"highlight\">3</style>",
+      "kr_sha256": "b9a679261cdaecbf9b313f8e24dd3a0cb40d1cb7d9d2966c7a52bce5120610a0",
+      "en_sha256": "cad3e57f5d719c4ef830a220f2ea50765286136e0e04c71775489de957de1d0d",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] nakłada 1 [ThreeMirrorpartYiSang] w tej i następnej turze",
+      "kr_sha256": "85e3222dae59b5ed49270807a33a1b6e82f1b54494de69d828b72afb1cfd5f1f",
+      "en_sha256": "4f0d8e8ac987da07a22cab87126c316d22e7fac7a3360c02370802ec9f100284",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada [Combustion] równe ([Sinking] na celu / 3) (maks. 5, zaokrąglone w dół)",
+      "kr_sha256": "d98e478f55f556cabd4db5f3cd0557225168ec3b1a399e14de2401dd5e4e61c8",
+      "en_sha256": "0b9e785c30f8b9bf924e02b737712ff26d4af768c370f10013a474204688d11c",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "e673ac3224cccd239be9bf3e4f25cc8e04b44545f8dd10ba9136d5c11f44f282",
+      "en_sha256": "0edd1f1fda108ac829e382034188ed80a835da97f44443a4001c67db5c17260c",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] aktykuje [Combustion] na celu 1 raz; następnie zmniejsza Licznik [Combustion] celu o 1",
+      "kr_sha256": "3bdf2216a00d4b80695b44cf68bb9aa176597e94731da4faafe452ad9d749f11",
+      "en_sha256": "b2ca742adaacc0e4495a2ba9f56b2a15d82b4bee3bcdafef925180b5a483766e",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].desc": {
+      "pl": "[BeforeAttack] jeżeli cel główny ma <style=\"highlight\">10</style>+ ([Combustion] + [Sinking]), +1 do Mocy Monety\n[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n- jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Breath] (maks. 2, zaokrąglone w dół)",
+      "kr_sha256": "7af05927db21ab2c89ecbeeee611c189ad87a7502d0041ed473de14852ca8a6c",
+      "en_sha256": "2fac6c5d56caa82c2a329fe3734b88b6aa93c4d835dce6577ce383f69e5ba5d0",
+      "origin": "ai"
+    },
+    "dataList[id=2010811].levelList[level=4].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 1 [Combustion]",
+      "kr_sha256": "ef9190bec7964b69bd9bd80b0cd455264f6eec2f0cd124b483c47e0eeb13249e",
+      "en_sha256": "8201d3f3b559a7e83986b8b9e75503e9a96b674fa181eeb5b360909508a8d4a7",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 1",
+      "kr_sha256": "1450055a1c250e23cdfa9a08e2293798d15db60f6246c67d3d6608fbddd49224",
+      "en_sha256": "46ac38586625040c731091aa28fbba27454e07158784bacd7866f65ea03ecf25",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ThreeMirrorpartYiSang] w tej i następnej turze",
+      "kr_sha256": "ec907e0ba49c3c6b962f462076b4d219b2dca1a2f352519e5f4a7c3e5d8a95d0",
+      "en_sha256": "6eaff35e6f42ed8eb65ff6dda72902d7a7a4ebe7b9774defa72ad51667b178e6",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]",
+      "kr_sha256": "030de122b5e406a0818bf7cac3af7062454349b2021ecf73f6ce73004bd9b5e1",
+      "en_sha256": "6372616ad39f0d18794dce9b9956c66376ce1773d6aed2f2145e43ec43585c45",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "e673ac3224cccd239be9bf3e4f25cc8e04b44545f8dd10ba9136d5c11f44f282",
+      "en_sha256": "0edd1f1fda108ac829e382034188ed80a835da97f44443a4001c67db5c17260c",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnStartCoin] zadaje +10% obrażeń za każde 10 ([Combustion] + [Sinking]) na wszystkich celach (maks. 40%)",
+      "kr_sha256": "4436e9c5cfe7999500244f75138621f962a7e7898cf52660ebf9ff832f9d07a1",
+      "en_sha256": "25d392ecfcc1b9ecefe5a0d3294ee7cc12822ff26e2ac3617cf12908c834e7ea",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#3].coindescs[#1].summary": {
+      "pl": "[OnStartCoin] za każde 10 ([Combustion] + [Sinking]) na wszystkich celach — <noparse>Wzrost Obrażeń</noparse>",
+      "kr_sha256": "bec8aae5167bab468aab05f44cc006deb6ff23d02ec2f06958634b1b011964b2",
+      "en_sha256": "0a0d82cc0bc54ce6dfaa5954dfb0532b798095e2d2c08a917fa7b36c7dc95970",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] aktykuje [Combustion] na celu 1 raz; następnie zmniejsza Licznik [Combustion] celu o 1",
+      "kr_sha256": "3bdf2216a00d4b80695b44cf68bb9aa176597e94731da4faafe452ad9d749f11",
+      "en_sha256": "b2ca742adaacc0e4495a2ba9f56b2a15d82b4bee3bcdafef925180b5a483766e",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nPrzy każdym trafieniu Monety zyskuje 5 [Combustion]; przy użyciu ostatniej Monety +1 do Mocy Końcowej (maks. 3, 1 raz na Monetę)\n[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n- jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Breath] (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -1 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -4)",
+      "kr_sha256": "588a11d45ae2154afe52ea049b8a453632195a2950ce4f9dd637df318af084ed",
+      "en_sha256": "ed1b60e6ea65dc108cb45c9b227192ea5f0efea9572f1cc94af1dc7f39bf7652",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=1].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">2</style> [Combustion]",
+      "kr_sha256": "2ded9a981374ef75f098d42e5a47ce468c76d02842ce287871c06a5b0e83b251",
+      "en_sha256": "93c452f397a64277ed2885186e856e2310c547138706b32097ab09a13716bdff",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o <style=\"highlight\">2</style>",
+      "kr_sha256": "e03f398fce7ef6ddf8875e73abb1f524c65578633d7e3bff8b959e6061cde0ac",
+      "en_sha256": "9879209fda5ec28b0ee19ba6e1f45d125d5936b1e39467d4ab8386f9cd8523b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ThreeMirrorpartYiSang] w tej i następnej turze",
+      "kr_sha256": "ec907e0ba49c3c6b962f462076b4d219b2dca1a2f352519e5f4a7c3e5d8a95d0",
+      "en_sha256": "6eaff35e6f42ed8eb65ff6dda72902d7a7a4ebe7b9774defa72ad51667b178e6",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada <style=\"highlight\">3</style> [Combustion]",
+      "kr_sha256": "9fca55b3f4c75eca42f7748df59002760509da0547c06631b66f860422b5a8b3",
+      "en_sha256": "307edd036adceaa9ed9cf4bb2637847025de2c1a8f3ca02914b66bb7f51665a8",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "e673ac3224cccd239be9bf3e4f25cc8e04b44545f8dd10ba9136d5c11f44f282",
+      "en_sha256": "0edd1f1fda108ac829e382034188ed80a835da97f44443a4001c67db5c17260c",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnStartCoin] zadaje +10% obrażeń za każde 10 ([Combustion] + [Sinking]) na wszystkich celach (maks. <style=\"highlight\">50</style>%)",
+      "kr_sha256": "8f94f7d37826def25c0a910be14c163682727479bfc8b0f2a31178eba6cb7837",
+      "en_sha256": "27700b55fcb68af0d954dcca9ddf913b153eea720544f6d6268e626f2aff0249",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#3].coindescs[#1].summary": {
+      "pl": "[OnStartCoin] za każde 10 ([Combustion] + [Sinking]) na wszystkich celach — <noparse>Wzrost Obrażeń</noparse>",
+      "kr_sha256": "bec8aae5167bab468aab05f44cc006deb6ff23d02ec2f06958634b1b011964b2",
+      "en_sha256": "0a0d82cc0bc54ce6dfaa5954dfb0532b798095e2d2c08a917fa7b36c7dc95970",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] aktykuje [Combustion] na celu 1 raz; następnie zmniejsza Licznik [Combustion] celu o 1",
+      "kr_sha256": "3bdf2216a00d4b80695b44cf68bb9aa176597e94731da4faafe452ad9d749f11",
+      "en_sha256": "b2ca742adaacc0e4495a2ba9f56b2a15d82b4bee3bcdafef925180b5a483766e",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nPrzy każdym trafieniu Monety zyskuje <style=\"highlight\">4</style> [Combustion]; przy użyciu ostatniej Monety +1 do Mocy Końcowej (maks. 3, 1 raz na Monetę)\n[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n- jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Breath] (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -1 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -4)",
+      "kr_sha256": "399accc537aa852e93fceccc07aa8a2e2c63793640079c751f7b06bf45ce5116",
+      "en_sha256": "4b65a14b02ae702a6949bedaef4a12313680cba577793a8cfdca632531a705b8",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=3].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].abName": {
+      "pl": "Motyl Splątanych Życiów [羅生蝶]",
+      "kr_sha256": "33b402760ba3922685cbf26045f0530b23f051e69351e17f7ff26d1c032a8371",
+      "en_sha256": "fb2533199f905841ce1f031261966aac8dc36dc8ee1f84ca03fe42d2301799b1",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Combustion]<style=\"highlight\"></style>",
+      "kr_sha256": "f227413da9bcef947d829edb37d00c0cd4bbbfabc2bb119d20a0deb3965f6a6b",
+      "en_sha256": "4f1cb2e119776bc7dd685eca3efe2c7e9341e7445035b52e6892f8817179a774",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa Licznik [Sinking] o <style=\"highlight\">3</style>",
+      "kr_sha256": "b9a679261cdaecbf9b313f8e24dd3a0cb40d1cb7d9d2966c7a52bce5120610a0",
+      "en_sha256": "cad3e57f5d719c4ef830a220f2ea50765286136e0e04c71775489de957de1d0d",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [ThreeMirrorpartYiSang] w tej i następnej turze",
+      "kr_sha256": "ec907e0ba49c3c6b962f462076b4d219b2dca1a2f352519e5f4a7c3e5d8a95d0",
+      "en_sha256": "6eaff35e6f42ed8eb65ff6dda72902d7a7a4ebe7b9774defa72ad51667b178e6",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada <style=\"highlight\">4</style> [Combustion]",
+      "kr_sha256": "b4bd7451599117790895c2453cd2b7c1ee65c6bc7cad2cec9ec4d66738a46cf4",
+      "en_sha256": "3510bbd6c9bdc6abbd6d5ad606e21631c2831f571ee2488bfd71d34bc82a15f0",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[CriticalOnSucceedAttack] Zwiększa Licznik [Combustion] celu o 1",
+      "kr_sha256": "e673ac3224cccd239be9bf3e4f25cc8e04b44545f8dd10ba9136d5c11f44f282",
+      "en_sha256": "0edd1f1fda108ac829e382034188ed80a835da97f44443a4001c67db5c17260c",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnStartCoin] zadaje +10% obrażeń za każde 10 ([Combustion] + [Sinking]) na wszystkich celach (maks. <style=\"highlight\">60</style>%)",
+      "kr_sha256": "a040222f63d606f39dd5a6cc2bb61d0f3a9bf7afb5b3a8d0cc6163e58bee26c8",
+      "en_sha256": "c1801e6117aa654fc89ecf8cbb1003a55d1adfe951010fae7b85eaeef7aa4803",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#3].coindescs[#1].summary": {
+      "pl": "[OnStartCoin] za każde 10 ([Combustion] + [Sinking]) na wszystkich celach — <noparse>Wzrost Obrażeń</noparse>",
+      "kr_sha256": "bec8aae5167bab468aab05f44cc006deb6ff23d02ec2f06958634b1b011964b2",
+      "en_sha256": "0a0d82cc0bc54ce6dfaa5954dfb0532b798095e2d2c08a917fa7b36c7dc95970",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].coinlist[#3].coindescs[#2].desc": {
+      "pl": "[UnBrokenCoinOnSucceedAttack] aktykuje [Combustion] na celu 1 raz; następnie zmniejsza Licznik [Combustion] celu o 1",
+      "kr_sha256": "3bdf2216a00d4b80695b44cf68bb9aa176597e94731da4faafe452ad9d749f11",
+      "en_sha256": "b2ca742adaacc0e4495a2ba9f56b2a15d82b4bee3bcdafef925180b5a483766e",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\nPrzy każdym trafieniu Monety zyskuje <style=\"highlight\">3</style> [Combustion]; przy użyciu ostatniej Monety +1 do Mocy Końcowej (maks. 3, 1 raz na Monetę)\n[BeforeAttack] zyskuje (najwyższego Rezonansu) [Breath] (maks. 7)\n- jeżeli to Rezonans Absolutny, dodatkowo zyskuje +(najwyższy Rezonans / 3) Licznika [Breath] (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -1 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -4)",
+      "kr_sha256": "75669886fc1708dfbbf38587472f82616830d35c720d96f734487d8f168fc6d5",
+      "en_sha256": "4d56efecad42dad06ec28494be2a6193d0ad7bb259a96755a4e827796975aad0",
+      "origin": "ai"
+    },
+    "dataList[id=2010821].levelList[level=4].name": {
+      "pl": "Wielki Trichiliokosm [三千大世界]",
+      "kr_sha256": "f2fa956ef2c8420fb77e3574b6e3ec7f277db0bf4e532f3165c1ca66c34a6883",
+      "en_sha256": "c3d873ec9632f5ca505c4aa4906af8d5b4c48a713cc0f4999e79e6fce50d7e6a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].abName": {
+      "pl": "Pogrzeb Martwych Motyli",
+      "kr_sha256": "970c785f3dd42ed1b17ccf4330032538938f8f8054577a16ad86643b590b29c4",
+      "en_sha256": "b54e2b1829e9106d125abc362d2e4fd6b254737fe467a7c1a36d155f4ee09594",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 losowego [SinkingWhite]",
+      "kr_sha256": "5eebc23b70b617d4102d0662691d6a8fe7be4189dc1bdb8bab108f3c7d36d6b7",
+      "en_sha256": "c2ae9cbd0f82974f11cbf1a1cdcbc3461f419d3c3583c29e5f4ba284ccd289c1",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 losowych [SinkingWhite]",
+      "kr_sha256": "58ddceafebcde606665339388362aa847962beb269554d044a2d4a306373fa89",
+      "en_sha256": "7a4a864dcd0485cba377586932f761f3f7f694ccf99a9278dd0f80a7143c94d3",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 losowych [SinkingWhite]",
+      "kr_sha256": "58ddceafebcde606665339388362aa847962beb269554d044a2d4a306373fa89",
+      "en_sha256": "7a4a864dcd0485cba377586932f761f3f7f694ccf99a9278dd0f80a7143c94d3",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 losowych [SinkingWhite]",
+      "kr_sha256": "bf1dfa57bd549c2429715dc07910ee13d4b411ee7a88ea6dfa69c54cbce49139",
+      "en_sha256": "9bc7f4c5cedf8b3cae6f7d559077d9a24282a4f2b771cbbfc5557d05a5862738",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#1].desc": {
+      "pl": "Zużywa wszystkie posiadane [BulletLament]",
+      "kr_sha256": "24efd99e813222def14a8a42fdb78281f97942542fcd68ab471605ddf175c2c2",
+      "en_sha256": "097dc3dda8537786a6b8bb365293bebde3beecd22016ac4ce01415221cc213fe",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Sinking]",
+      "kr_sha256": "fef267b349aa015a8389307254515371b7559a730fbf4846f648dcd888800129",
+      "en_sha256": "26ed566dfd796e1d4d0b8632236f0ad5b94a46bc300c601bf3d665cc4a2e0353",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [SinkingWhite](Żyjącego)",
+      "kr_sha256": "57cf168a9a9f01b26cef35787571f44e1bad02167740a4e466b04f74c45ab00f",
+      "en_sha256": "4333f681854a527fe544846321f03019b553b1afbe17357b89cead4fd8158b71",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#5].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [SinkingWhite](Zmarłego)",
+      "kr_sha256": "24482ba182231015854774a7a9dc890c3b099efbfb1bafb5c8b62aef25f2a047",
+      "en_sha256": "ec4b9912666ccf807c4f741a446db8962322aeaffa46ec4e79071b6c990eab5f",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].coinlist[#4].coindescs[#6].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "73ae459a1cdf1235bd958a2be8d1a9b9de28fb23095c5d7eb25472eed7c96dd9",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].desc": {
+      "pl": "[WideAreaRampage]\nPrzy nakładaniu [SinkingWhite] efektami tej Umiejętności: (szansa na wypadnięcie awersu)% szansy na nałożenie Zmarłego. Jeżeli ta jednostka nie nałożyła Zmarłego, nakłada Żyjącego. (każdy stos [SinkingWhite] liczony osobno)\n\nJeżeli tej Umiejętności użyło Lobotomy E.G.O::Solemn Lament Yi Sang:\n- [BeforeAttack] zyskuje losowy zestaw (Rezonansu Posępności + 1) [BulletLament] (maks. 7)\n- [EndSkill] [ReloadLament]",
+      "kr_sha256": "7ef829268c80662a2e68ee79fb74a03a44f705baa4cb37964675748f507e4256",
+      "en_sha256": "168a22f52bca1688e3a910ce583e3a438e506abae9fcd717c9e6760109c073a0",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=1].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].abName": {
+      "pl": "Pogrzeb Martwych Motyli",
+      "kr_sha256": "970c785f3dd42ed1b17ccf4330032538938f8f8054577a16ad86643b590b29c4",
+      "en_sha256": "b54e2b1829e9106d125abc362d2e4fd6b254737fe467a7c1a36d155f4ee09594",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 losowego [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "9b3fddd2183df2e001e1df4cc2e3e62cf0ac2e3094f0c7bac0188de7a27dad0b",
+      "en_sha256": "44df4cdd2844ea3c23ba702420ac435b9a0c3272116a789caa5bcff5200c9505",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 losowych [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "c295e8d5dbff0c1313ab908defcd786f537a09555b3f96dcc3c00aa1ab03f1fb",
+      "en_sha256": "fc465af942ff59ef6181f106afc0b8a5f3433b090abd83e645941533b2fe1b2a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 losowych [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "c295e8d5dbff0c1313ab908defcd786f537a09555b3f96dcc3c00aa1ab03f1fb",
+      "en_sha256": "fc465af942ff59ef6181f106afc0b8a5f3433b090abd83e645941533b2fe1b2a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 losowych [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "3acf179e47c808e8f6c38ac328acb0d9a0029f44fd7274688b1d6c49f78f307f",
+      "en_sha256": "395a2d8607102e64929b769cba646788d7f528808a17415940f5f555ae074e31",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#1].desc": {
+      "pl": "zużywa wszystkie posiadane [BulletLament]<style=\"highlight\"></style>",
+      "kr_sha256": "9394bc60dfcb3d821084eba702b86d73650567805e9c344a17b42ca27b9599df",
+      "en_sha256": "08b0810bf37427307f2e6680ff65a5b939772542d4ce305a631e653e233a3e22",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "2c97f3ebc9f13ae5405ba5fcc36f278f558a4b69f5d08b017e1a7ae5f23f3957",
+      "en_sha256": "a980f82e651accff8b77b8893e75fc3eab0bb1653afc5ad8b7851519377f1f7e",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "e3da8ffc4bbfb60e71bdd93ce557ada4ee5cf34a46cdb8ab7967751bfd5a3d9e",
+      "en_sha256": "fe719c6fcdded468be9e3dcf3b51baeebd02e2508de96623f77023331256eca1",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [SinkingWhite](Żyjącego)<style=\"highlight\"></style>",
+      "kr_sha256": "eab3f114d1d2530162dbc47dcbb64c2948a36750f3391ce29824f3f608620031",
+      "en_sha256": "5e61ff0fc6bada49cdeb01a9dd61806cbf36920a2d486c458d4bbcc64bf4a73c",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#5].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [SinkingWhite](Zmarłego)<style=\"highlight\"></style>",
+      "kr_sha256": "cf22c2797bdf2b5cd324bf7ed9f8cd4baa6d8ffae48fa2012641077146f6d1cc",
+      "en_sha256": "56fcf9935abdcfed7b552048cf7bbc45cde3a4834d40f579539be2f73dc57c4b",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#6].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] o 1<style=\"highlight\"></style>",
+      "kr_sha256": "7fb833cdf152653efa548a0d1a1c21a4b195cf063d6daf48dcb44cc0b6972425",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#7].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] zadaje obrażenia Posępności równe sumie wszystkich [SinkingWhite] celu</style>",
+      "kr_sha256": "7a05e184979a91983635af297a1322345d072db10afb8dcf3f32a062c413b5df",
+      "en_sha256": "75eed1df1406b8b0685aa7701431b6cab171a7ad71194492e296612d96d2e97a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].coinlist[#4].coindescs[#8].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] zadaje obrażenia Posępności równe ([BulletLament] zużyte przez tę Monetę x 2)% końcowych obrażeń tej Monety</style>",
+      "kr_sha256": "f804ee77a21f04d8cd2aad65d1f72b9f47f4cec8f3aad5ada3c52519620855ed",
+      "en_sha256": "923dbba845ead29bcce59217f6c862496c3ef4e37f5aa89e00c440e9405c4f71",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].desc": {
+      "pl": "[WideAreaRampage]\nPrzy nakładaniu [SinkingWhite] efektami tej Umiejętności: (szansa na wypadnięcie awersu)% szansy na nałożenie Zmarłego. Jeżeli ta jednostka nie nałożyła Zmarłego, nakłada Żyjącego. (każdy stos [SinkingWhite] liczony osobno)\n\nJeżeli tej Umiejętności użyło Lobotomy E.G.O::Solemn Lament Yi Sang:\n- [BeforeAttack] zyskuje losowy zestaw (Rezonansu Posępności + 1) [BulletLament] (maks. 7)\n- [EndSkill] [ReloadLament]",
+      "kr_sha256": "7ef829268c80662a2e68ee79fb74a03a44f705baa4cb37964675748f507e4256",
+      "en_sha256": "168a22f52bca1688e3a910ce583e3a438e506abae9fcd717c9e6760109c073a0",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=3].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].abName": {
+      "pl": "Pogrzeb Martwych Motyli",
+      "kr_sha256": "970c785f3dd42ed1b17ccf4330032538938f8f8054577a16ad86643b590b29c4",
+      "en_sha256": "b54e2b1829e9106d125abc362d2e4fd6b254737fe467a7c1a36d155f4ee09594",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 losowego [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "9b3fddd2183df2e001e1df4cc2e3e62cf0ac2e3094f0c7bac0188de7a27dad0b",
+      "en_sha256": "44df4cdd2844ea3c23ba702420ac435b9a0c3272116a789caa5bcff5200c9505",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#0].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 1</style>",
+      "kr_sha256": "7782add5d6f76f34067fe9306b7bcd5690461e558dc0bdce9ae77733832608bd",
+      "en_sha256": "46e2d82830c80456aa0f27d3b553f6b33a4576524f389b65c9a821cce5d6ecc7",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 losowych [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "c295e8d5dbff0c1313ab908defcd786f537a09555b3f96dcc3c00aa1ab03f1fb",
+      "en_sha256": "fc465af942ff59ef6181f106afc0b8a5f3433b090abd83e645941533b2fe1b2a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 1</style>",
+      "kr_sha256": "7782add5d6f76f34067fe9306b7bcd5690461e558dc0bdce9ae77733832608bd",
+      "en_sha256": "46e2d82830c80456aa0f27d3b553f6b33a4576524f389b65c9a821cce5d6ecc7",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 losowych [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "c295e8d5dbff0c1313ab908defcd786f537a09555b3f96dcc3c00aa1ab03f1fb",
+      "en_sha256": "fc465af942ff59ef6181f106afc0b8a5f3433b090abd83e645941533b2fe1b2a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 1</style>",
+      "kr_sha256": "7782add5d6f76f34067fe9306b7bcd5690461e558dc0bdce9ae77733832608bd",
+      "en_sha256": "46e2d82830c80456aa0f27d3b553f6b33a4576524f389b65c9a821cce5d6ecc7",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 losowych [SinkingWhite]<style=\"highlight\"></style>",
+      "kr_sha256": "3acf179e47c808e8f6c38ac328acb0d9a0029f44fd7274688b1d6c49f78f307f",
+      "en_sha256": "395a2d8607102e64929b769cba646788d7f528808a17415940f5f555ae074e31",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#3].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] Zwiększa Licznik [Sinking] celu o 1</style>",
+      "kr_sha256": "7782add5d6f76f34067fe9306b7bcd5690461e558dc0bdce9ae77733832608bd",
+      "en_sha256": "46e2d82830c80456aa0f27d3b553f6b33a4576524f389b65c9a821cce5d6ecc7",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#3].coindescs[#3].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada w tej i następnej turze 1 [AzureTakeDamageUp] i 1 [AzureResistDown]</style>",
+      "kr_sha256": "af827c8d0f8d7da219d6cfb41f676566d5d4a61c9a70b12bc4afdd19c63638c2",
+      "en_sha256": "6df324f277c5a82ac974a23ec744be7123ab3be8aea9415d43017c6bafbf6ce4",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#1].desc": {
+      "pl": "zużywa wszystkie posiadane [BulletLament]<style=\"highlight\"></style>",
+      "kr_sha256": "9394bc60dfcb3d821084eba702b86d73650567805e9c344a17b42ca27b9599df",
+      "en_sha256": "08b0810bf37427307f2e6680ff65a5b939772542d4ce305a631e653e233a3e22",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "2c97f3ebc9f13ae5405ba5fcc36f278f558a4b69f5d08b017e1a7ae5f23f3957",
+      "en_sha256": "a980f82e651accff8b77b8893e75fc3eab0bb1653afc5ad8b7851519377f1f7e",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 3 [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "e3da8ffc4bbfb60e71bdd93ce557ada4ee5cf34a46cdb8ab7967751bfd5a3d9e",
+      "en_sha256": "fe719c6fcdded468be9e3dcf3b51baeebd02e2508de96623f77023331256eca1",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [SinkingWhite](Żyjącego)<style=\"highlight\"></style>",
+      "kr_sha256": "eab3f114d1d2530162dbc47dcbb64c2948a36750f3391ce29824f3f608620031",
+      "en_sha256": "5e61ff0fc6bada49cdeb01a9dd61806cbf36920a2d486c458d4bbcc64bf4a73c",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#5].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [SinkingWhite](Zmarłego)<style=\"highlight\"></style>",
+      "kr_sha256": "cf22c2797bdf2b5cd324bf7ed9f8cd4baa6d8ffae48fa2012641077146f6d1cc",
+      "en_sha256": "56fcf9935abdcfed7b552048cf7bbc45cde3a4834d40f579539be2f73dc57c4b",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#6].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] o 1<style=\"highlight\"></style>",
+      "kr_sha256": "7fb833cdf152653efa548a0d1a1c21a4b195cf063d6daf48dcb44cc0b6972425",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#7].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Posępności równe sumie wszystkich [SinkingWhite] celu<style=\"highlight\"></style>",
+      "kr_sha256": "365e1f586ae0fa656ec33ae421575bbae9b65ed7f53e3ed372fa053fb6480bdf",
+      "en_sha256": "e4c1570132e47a218cf46b6a20627ac433b01ee346ab70b1cc03bf61581859c0",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].coinlist[#4].coindescs[#8].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Posępności równe ([BulletLament] zużyte przez tę Monetę x 2)% końcowych obrażeń tej Monety<style=\"highlight\"></style>",
+      "kr_sha256": "6832c312bec21faacd608f83119cad0715977f1419a7869c84ac55ddd2fe6ec2",
+      "en_sha256": "cf97e453fd685a59fb89b2eb5b1747e1d43b54c2e37452d856e5e3567b59f53f",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].desc": {
+      "pl": "[WideAreaRampage]\nPrzy nakładaniu [SinkingWhite] efektami tej Umiejętności: (szansa na wypadnięcie awersu)% szansy na nałożenie Zmarłego. Jeżeli ta jednostka nie nałożyła Zmarłego, nakłada Żyjącego. (każdy stos [SinkingWhite] liczony osobno)\n<style=\"highlight\">+1 do Mocy Starcia za każde 4 (sumy [Sinking] i obu [SinkingWhite]) na celu głównym (maks. 4)</style>\n\nJeżeli tej Umiejętności użyło Lobotomy E.G.O::Solemn Lament Yi Sang:\n- [BeforeAttack] zyskuje losowy zestaw (Rezonansu Posępności + 1) [BulletLament] (maks. 7)\n- [EndSkill] [ReloadLament]",
+      "kr_sha256": "6de9b3512a77a1ffcc85d18ad4be88c8c20eea416da807f7945ee7a91dd68ab5",
+      "en_sha256": "c76dabb8b8243680d1bd8f649c4e72a9019bfe7aff29c258aa8a3263e42b3a12",
+      "origin": "ai"
+    },
+    "dataList[id=2010911].levelList[level=4].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].abName": {
+      "pl": "Pogrzeb Martwych Motyli",
+      "kr_sha256": "970c785f3dd42ed1b17ccf4330032538938f8f8054577a16ad86643b590b29c4",
+      "en_sha256": "b54e2b1829e9106d125abc362d2e4fd6b254737fe467a7c1a36d155f4ee09594",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SinkingWhite](Żyjącego)",
+      "kr_sha256": "2a1eaf5c542e73049e6a4527d849aa4411862878ec9cadde9c3f965dd822ecf3",
+      "en_sha256": "306dcb94edea9e57c1eb81cfedfabd6c509b09b6382998e14bca70868786407d",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SinkingWhite](Zmarłego)",
+      "kr_sha256": "49129ad8256b5fdfa28c5003d2633a5ceb9316bd736990182210666654a16bc5",
+      "en_sha256": "c5ef5486c09a5d228f557819919ced90d7a3c56d5b6acafc46e0aea6a5b5b773",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]",
+      "kr_sha256": "744114abe6b484f407bdc67c6e58b582a88cffbaaa4c595c4d781adc0b1930bc",
+      "en_sha256": "c33ffece8088828c07f64fbe0972e4730cfdf210fc4d2ad8c189cd06fe2ec71f",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "73ae459a1cdf1235bd958a2be8d1a9b9de28fb23095c5d7eb25472eed7c96dd9",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje +(najwyższy Rezonans / 2) Wagi Ataku (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -2 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -6)",
+      "kr_sha256": "99a37fc4c2cae9afdfa36836a024af2d60acc67dfed8f407c658dd982edecae7",
+      "en_sha256": "92e0eb22ad5e667b35befd272ffae80c2a8b9da68c2012a66f587eecedf356f4",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=1].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].abName": {
+      "pl": "Pogrzeb Martwych Motyli",
+      "kr_sha256": "970c785f3dd42ed1b17ccf4330032538938f8f8054577a16ad86643b590b29c4",
+      "en_sha256": "b54e2b1829e9106d125abc362d2e4fd6b254737fe467a7c1a36d155f4ee09594",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SinkingWhite](Żyjącego)<style=\"highlight\"></style>",
+      "kr_sha256": "3a737ed7f0835ca310fe08788d80b69f0dba546dd28e5d0dbe68f8d92dc90bd5",
+      "en_sha256": "38644a7c85dd238e678dc8fea59cdaad7b4d735fbe3f9e26b868785dba4b7cde",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SinkingWhite](Zmarłego)<style=\"highlight\"></style>",
+      "kr_sha256": "876f2e050151a6e543fa851044cc798b0e4c39e6870167179160e03d2560d303",
+      "en_sha256": "433eff29bb54a28416629598bcc13a63c964ef232dd2b1e29b0448eeefbde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "db724a9d91ec5637e65758053f44e6e3f68e7a400d09947abd7cc6dc603461db",
+      "en_sha256": "e1006245c9e14d8b464217f20c3ff0d4833161ccb802096c0958f91b4765ce0f",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "a7bc856b89e56f270cab6652363213b010b83b02acc5268c142c773dbee0a5f5",
+      "en_sha256": "a258f27be66c6d9671c9ee017b4e57f09b21f7eee8e4e1e415b132fa74b1ba85",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] o 1<style=\"highlight\"></style>",
+      "kr_sha256": "7fb833cdf152653efa548a0d1a1c21a4b195cf063d6daf48dcb44cc0b6972425",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].coinlist[#2].coindescs[#4].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] zadaje obrażenia Posępności równe sumie wszystkich [SinkingWhite] celu</style>",
+      "kr_sha256": "7a05e184979a91983635af297a1322345d072db10afb8dcf3f32a062c413b5df",
+      "en_sha256": "75eed1df1406b8b0685aa7701431b6cab171a7ad71194492e296612d96d2e97a",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n[BeforeAttack] zyskuje +(najwyższy Rezonans / 2) Wagi Ataku (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -2 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -6)",
+      "kr_sha256": "99a37fc4c2cae9afdfa36836a024af2d60acc67dfed8f407c658dd982edecae7",
+      "en_sha256": "92e0eb22ad5e667b35befd272ffae80c2a8b9da68c2012a66f587eecedf356f4",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=3].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].abName": {
+      "pl": "Pogrzeb Martwych Motyli",
+      "kr_sha256": "970c785f3dd42ed1b17ccf4330032538938f8f8054577a16ad86643b590b29c4",
+      "en_sha256": "b54e2b1829e9106d125abc362d2e4fd6b254737fe467a7c1a36d155f4ee09594",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SinkingWhite](Żyjącego)<style=\"highlight\"></style>",
+      "kr_sha256": "3a737ed7f0835ca310fe08788d80b69f0dba546dd28e5d0dbe68f8d92dc90bd5",
+      "en_sha256": "38644a7c85dd238e678dc8fea59cdaad7b4d735fbe3f9e26b868785dba4b7cde",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [SinkingWhite](Zmarłego)<style=\"highlight\"></style>",
+      "kr_sha256": "876f2e050151a6e543fa851044cc798b0e4c39e6870167179160e03d2560d303",
+      "en_sha256": "433eff29bb54a28416629598bcc13a63c964ef232dd2b1e29b0448eeefbde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#1].coindescs[#2].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] nakłada w tej i następnej turze 1 [AzureTakeDamageUp] i 1 [AzureResistDown]</style>",
+      "kr_sha256": "af827c8d0f8d7da219d6cfb41f676566d5d4a61c9a70b12bc4afdd19c63638c2",
+      "en_sha256": "6df324f277c5a82ac974a23ec744be7123ab3be8aea9415d43017c6bafbf6ce4",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[SuperCoin]<style=\"highlight\"></style>",
+      "kr_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "en_sha256": "d781ccf0f1f5539db4f8a9e98966a92216df6a8e2fee9269bafd90cb889ced78",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Sinking]<style=\"highlight\"></style>",
+      "kr_sha256": "db724a9d91ec5637e65758053f44e6e3f68e7a400d09947abd7cc6dc603461db",
+      "en_sha256": "e1006245c9e14d8b464217f20c3ff0d4833161ccb802096c0958f91b4765ce0f",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]<style=\"highlight\"></style>",
+      "kr_sha256": "a7bc856b89e56f270cab6652363213b010b83b02acc5268c142c773dbee0a5f5",
+      "en_sha256": "a258f27be66c6d9671c9ee017b4e57f09b21f7eee8e4e1e415b132fa74b1ba85",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#2].coindescs[#3].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] o 1<style=\"highlight\"></style>",
+      "kr_sha256": "7fb833cdf152653efa548a0d1a1c21a4b195cf063d6daf48dcb44cc0b6972425",
+      "en_sha256": "43faffcf1e44722ec30e7725adaf18e51abee18a6eb0c8edf2e7c74b734b6d1a",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#2].coindescs[#4].desc": {
+      "pl": "[OnSucceedAttack] zadaje obrażenia Posępności równe sumie wszystkich [SinkingWhite] celu<style=\"highlight\"></style>",
+      "kr_sha256": "365e1f586ae0fa656ec33ae421575bbae9b65ed7f53e3ed372fa053fb6480bdf",
+      "en_sha256": "e4c1570132e47a218cf46b6a20627ac433b01ee346ab70b1cc03bf61581859c0",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].coinlist[#2].coindescs[#5].desc": {
+      "pl": "<style=\"highlight\">[OnSucceedAttack] zadaje obrażenia Posępności równe Siły [Sinking] celu</style>",
+      "kr_sha256": "0a2ddab6074c20f9e646b0cd35dc9eb127b9355568b9190b8416d59d3458bc5e",
+      "en_sha256": "53e680407dad04da9ff65fc1d6c722809dddc10cc672caa2d0905ba8a5ff547b",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].desc": {
+      "pl": "[CantIdentify]\nAtakuje losowy cel\n<style=\"highlight\">+1 do Mocy Starcia za każde 4 (sumy [Sinking] i obu [SinkingWhite]) na celu głównym (maks. 4)</style>\n[BeforeAttack] zyskuje +(najwyższy Rezonans / 2) Wagi Ataku (maks. 2, zaokrąglone w dół)\n[BeforeAttack] -2 do Mocy Bazowej za każdą zniszczoną Monetę (maks. -6)",
+      "kr_sha256": "2bc396129ed33dbb0959b712e43f82069b433633a8a93898df0e97459dfdf7b1",
+      "en_sha256": "8fbe54247760a5e7cf159ed86458b1be98a5c8f3e5cf0e0af5875afabec69a40",
+      "origin": "ai"
+    },
+    "dataList[id=2010921].levelList[level=4].name": {
+      "pl": "Uroczysty Lament",
+      "kr_sha256": "3610db6b86f58b004efa2668b16a008ec072e42ad51785908c8b761a27888cf8",
+      "en_sha256": "6f22b8f6a5c6b5208fc9b0c575e30e966b61d7d79efe7bae917ae35bb112c0c3",
+      "origin": "ai"
+    }
+  }
+}

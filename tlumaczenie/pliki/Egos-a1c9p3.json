@@ -1,0 +1,28 @@
+{
+  "entries": {
+    "dataList[id=201011].desc": {
+      "pl": "Sprzęt E.G.O wyłącznie na filmową sekwencję bojową Yi Sanga",
+      "kr_sha256": "c19b453f436e1770fe222c0d19a21e2fc95f05a598ae7196cfe6b723fbc9a882",
+      "en_sha256": "3b54877aad9ad7e7a1b54094ac042fea410a01ae1926a3e9f7e74670efcabfb5",
+      "origin": "ai"
+    },
+    "dataList[id=201011].name": {
+      "pl": "Widok Oka Wrony",
+      "kr_sha256": "29626d3b2291abc80cfa5252d2c35ffdbc94b73e4b0d1be1a4b9d1727fb0a3c5",
+      "en_sha256": "e234a09d8e86c080c4dc2e5f9afd914a21791bdb3157288c5b9a45a0292f6da0",
+      "origin": "ai"
+    },
+    "dataList[id=203011].desc": {
+      "pl": "Sprzęt E.G.O wyłącznie na filmową sekwencję bojową Don Kichota",
+      "kr_sha256": "43b22fc18920f54626e7dc8ff1f736eeb880a6ea9179e1aad78bd4875cf8a6fb",
+      "en_sha256": "c8b61e5ca2d2c5cfbbb6087d692c403d20ca129ff8b558485f8eda82204e2940",
+      "origin": "ai"
+    },
+    "dataList[id=203011].name": {
+      "pl": "La Sangre de Sancho",
+      "kr_sha256": "a95de870d52ab519904c84158ea2d08c2f92f07c33ded67942a438566370da31",
+      "en_sha256": "3e71445c66939a1ec8606e14cb4125744def27f3238ffe8267fea0ccd20d191c",
+      "origin": "ai"
+    }
+  }
+}
