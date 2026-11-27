@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=9008801].desc": {
+      "pl": "gdy zostaje pokonana w walce, zadaje 10 obrażeń SP jednostce, która atakowała ją jako ostatnia",
+      "kr_sha256": "9b0a67c2449bc924b991da68e7274e5d980caa34c5b204ac8aa4f690279df8b7",
+      "en_sha256": "29a9f29fcddc577e3873946474acc5bfc29f9c14856f6cf4b79a7ba82ffc901f",
+      "origin": "ai"
+    },
+    "dataList[id=9008801].name": {
+      "pl": "Ineffable Shape",
+      "kr_sha256": "05f1f4ded0737ba57b0f019a5c4cd774a9bd636514424f0ca62a5d5445908669",
+      "en_sha256": "84ab7efc919b4ca1643e51408c0248293a7315fc96bc1890ebe61fc065e04ad0",
+      "origin": "ai"
+    }
+  }
+}

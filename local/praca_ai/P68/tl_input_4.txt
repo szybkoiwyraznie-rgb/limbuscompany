@@ -1,0 +1,131 @@
+565||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 피해량의 50%만큼 체력 회복|[OnSucceedAttack] Heal by 50% of damage dealt
+566||(ulepszenie 1) — nazwa] 파도의 손아귀|Clutch of the Waves
+567||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 2 증가|[OnSucceedAttack] Inflict +2 Sinking Count
+568||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 출혈 2 부여|[OnSucceedAttackHead] Inflict 2 Bleed
+571||(ulepszenie 1) — nazwa] 울부짖는 물결|Shrieking Waves
+572||(ulepszenie 1) — opis] 대상의 침잠 위력 5당 피해량 +20%\n대상의 정신력이 0 미만이면 피해량 +10%|Damage +20% per 5 Sinking Potency on target\nIf target's SP is below 0, deal +10% damage
+573||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠쇄도|[OnSucceedAttack] Sinking Deluge
+576||(ulepszenie 1) — nazwa] 저기 저기봐|There, There They Are
+577||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+578||(ulepszenie 1) — nazwa] 얘들아 손님이다|We've Got Company, Boys
+581||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 1 증가|[OnSucceedAttack] Inflict +1 Bleed Count
+582||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead]  출혈 4 부여|[OnSucceedAttackHead] Inflict 4 Bleed
+583||(ulepszenie 1) — nazwa] 전투 지휘|Battle Command
+584||(ulepszenie 1) — opis] [WhenUse] 이번 턴에 호흡 5 얻음|[WhenUse] Gain 5 Poise this turn
+585||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신을 제외한 모든 아군에게 다음 턴에 보호 2, 공격 위력 증가 1 부여|[OnSucceedAttack] Apply 2 Protection, 1 Attack Power Up to all other allies next turn
+586||(ulepszenie 1) — nazwa] 헛점 발견! 격발!|Weakness Spotted! Fire!
+587||(ulepszenie 1) — opis] 대상의 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>이 5이상일 때, 합 위력 +2|If target has 5+ <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u>, Clash Power +2
+588||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 4 부여|[OnSucceedAttack] Inflict 4 Bleed
+589||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 출혈 4 부여|[OnSucceedAttackHead] Inflict 4 Bleed
+590||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 3 부여\n대상의 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>만큼 추가 피해|[OnSucceedAttack] Inflict 3 Bleed Count\nDeal bonus damage equal to <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> on target
+591||(ulepszenie 1) — moneta 2, efekt 2 — opis] 탄환 1 소모|Spend 1 Ammo
+592||(ulepszenie 1) — nazwa] 회피|Evade
+593||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 호흡 5 얻음.\n[OnSucceedEvade]다음 턴에 모든 아군에게 호흡 2 부여.|[OnSucceedEvade] Gain 5 Poise next turn.\n[OnSucceedEvade] Apply 2 Poise to all allies next turn.
+595||(ulepszenie 1) — opis] [WinDuel] 대상의 3등급 스킬의 코인 위력, 갯수를 가져와 사용함|[WinDuel] Copies the target's Skill 3 Coin Power and Coin Count and uses them as its own
+596||Pasywka wroga [9008301] — nazwa] 고래와의 연결|Cetacean Strand
+597||Pasywka wroga [9008301] — opis] 이 캐릭터가 사망하면 구멍 손바닥 고래에게 피해를 준다.|Whale of the Porous Hand takes damage when this unit is defeated.
+598||Pasywka wroga [9008302] — nazwa] 연결된 아픔|Connected Pain
+599||Pasywka wroga [9008302] — opis] 사망한다면, 연결된 인어들에게 체력 10의 피해를 주고 다음 턴에 피해량 증가 2를 부여.\n연결된 인어들은 해당 피해로 체력이 1이하로 떨어지지 않음.|Upon death, deal 10 damage to connected Mermaids. Then, apply 2 Damage Up next turn.\nThis effect cannot drop the connected Mermaids' HP below 1.
+600||Pasywka wroga [9008401] — nazwa] 여유로운 호흡|Easy Breathing
+601||Pasywka wroga [9008401] — opis] <sprite name="Breath"><color=#f8c200><u><link="Breath">호흡</color></link></u>이 있을 때, 합 승리 시 <sprite name="Breath"><color=#f8c200><u><link="Breath">호흡</color></link></u>을 5 얻음.|If this unit has <sprite name="Breath"><color=#f8c200><u><link="Breath">Poise</color></link></u>, gain 5 <sprite name="Breath"><color=#f8c200><u><link="Breath">Poise</color></link></u> upon Clash Win.
+602||Pasywka wroga [9008402] — nazwa] 동전의 양면|Two Sides Of a Coin
+603||Pasywka wroga [9008402] — opis] 매 턴마다 첫번째 코인 적중시 앞면이면 다음 턴에 피해량 증가 1을 얻음.\n첫번째 코인 적중시 뒷면이면 다음 턴에 피해량 감소 1을 얻음|Every turn, if the first Coin 'Heads Hits', gain 1 Damage Up next turn.\nIf the first Coin 'Tails Hits', gain 1 Damage Down next turn.
+604||Pasywka wroga [9008601] — nazwa] 거기 따끔하지 않아?|Ain't That a Prick?
+605||Pasywka wroga [9008601] — opis] 적중시 대상에게 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>이 있다면, 대상의 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>만큼 정신력 회복|On Hit, if target has <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u>, regain SP equal to <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> on target
+606||Pasywka wroga [9008701] — nazwa] 최전선으로!!|To the Front Lines!!
+607||Pasywka wroga [9008701] — opis] 속도가 1일 때, <sprite name="Protection"><color=#f8c200><u><link="Protection">보호</color></link></u>를 얻으면 1 추가로 얻음.|When gaining Protection, gain 1 additional <sprite name="Protection"><color=#f8c200><u><link="Protection">Protection</color></link></u> if this unit's Speed is at 1
+611||Pasywka wroga [9101201] — opis] 매 턴마다 첫번째 코인이 앞면이면 다음 턴에 피해량 증가 2, 공격 위력 증가 1을 얻음.\n첫번째 코인이 뒷면이면 다음 턴에 피해량 감소 2, 공격 위력 감소 1을 얻음|Every turn, if the first Coin 'Heads Hits', gain 2 Damage Up and 1 Attack Power Up next turn.\nIf the first Coin 'Tails Hits', gain 2 Damage Down and 1 Attack Power Down next turn.
+612||Pasywka wroga [9101202] — nazwa] 잠깐… 다가오지마!|No... Get Away From Me!
+613||Pasywka wroga [9101202] — opis] 합 패배시, 호흡 4, 호흡 횟수 3 증가.|Upon Clash Lose, gain 4 Poise and 3 Poise Count.
+614||Pasywka wroga [9101203] — nazwa] 환호하라!|Huzzah, Men!
+615||Pasywka wroga [9101203] — opis] 크리티컬 적중시 다음 턴에 더하기 코인 강화 1를 얻음.\n자신의 정신력 15 회복.\n자신을 제외한 모든 아군의 정신력 10 회복\n(매 턴마다 한 번 발동)|On Critical Hit, gain 1 Plus Coin Boost next turn.\nHeal 15 SP on self.\nAll other allies heal 10 SP.\n(Activates once per turn)
+616||Pasywka wroga [9101204] — nazwa] 뭣들 하는 거야?|What Are You Doing?!
+617||Pasywka wroga [9101204] — opis] 전투에서 붙잡혔을 때, 모든 아군의 정신력 -30|Being captured in this encounter causes all allies to lose 30 SP
+619||Pasywka wroga [9101205] — opis] 적중시 대상에게 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>이 있다면, 대상의 <sprite name="Laceration"><color=#e30000><u><link="Laceration">출혈</color></link></u>만큼 정신력 회복|If target has <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> On Hit, regain SP equal to <sprite name="Laceration"><color=#e30000><u><link="Laceration">Bleed</color></link></u> on target
+622||Wróg / część [90088] — nazwa] 천가닥 줄기 고래 인어|Whale of the Thousand Strands Mermaid
+624||Wróg / część [90089] — nazwa] 창백한 흰색 인어|Pallid White Mermaid
+626||Wróg / część [90090] — nazwa] 창백한 푸른 인어|Pallid Blue Mermaid
+628||Wróg / część [90091] — nazwa] 창백한 얽힌 인어|Pallid Entwined Mermaid
+630||Wróg / część [90092] — nazwa] 창백해진 것-방패|Pallidified Thing-Shield
+632||Wróg / część [90093] — nazwa] 창백해진 것-곤봉|Pallidified Thing-Club
+634||Wróg / część [90094] — nazwa] 창백해진 것-해적|Pallidified Thing-Pirate
+636||Wróg / część [90095] — nazwa] 창백해진 것-갈고리|Pallidified Thing-Hook
+638||Wróg / część [90096] — nazwa] 든든한 중지 작은 아우|Sturdy Little Brother of the Middle
+640||Wróg / część [90097] — nazwa] 엄격한 중지 작은 아우|Stern Little Brother of the Middle
+650||Wróg / część [8099] — nazwa] 리카르도|Ricardo
+654||Wróg / część [90100] — nazwa] 창백하고도 푸른 인어|Pallid and Blue Mermaid
+670||(ulepszenie 1) — nazwa] 주먹질|Punching
+671||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 타격 추가 피해 3|[OnSucceedAttack] Deal 3 Blunt bonus damage
+673||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze
+674||(ulepszenie 1) — nazwa] 발길질|Kicking
+675||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 타격 추가 피해 5|[OnSucceedAttack] Deal 5 Blunt bonus damage
+677||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze next turn
+678||(ulepszenie 1) — nazwa] 되갚기|Payback
+679||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 5 감소|[OnSucceedAttack] Target loses 5 SP
+680||(ulepszenie 1) — nazwa] 위압|Domineer
+681||(ulepszenie 1) — opis] [StartBattle] 모든 아군에게 공격 위력 증가 1 부여\n[StartBattle] 정신력이 가장 낮은 적 2명에게 공격 위력 감소 2 부여|[StartBattle] Apply 1 Attack Power Up to all allies\n[StartBattle] Inflict 2 Attack Power Down to 2 enemies with the least SP
+682||(ulepszenie 1) — nazwa] 내 몸에 새겨봐라|Make this Memorable
+683||(ulepszenie 1) — opis] [StartBattle] [AaCePbBi] 2를 얻음. 다음 턴에 속박 5를 얻음.|[StartBattle] Gain 2 [AaCePbBi]. Gain 5 Bind next turn.
+684||(ulepszenie 1) — nazwa] 뒤통수 조심!|Watch Your Back!
+685||(ulepszenie 1) — opis] 대상의 정신력이 0 미만인 경우, 코인 위력 +3|If target has less than 0 SP, Coin Power +3
+686||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 정신력 10 회복|[OnSucceedAttack] Heal 10 SP on self
+687||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 속박 2, 공격 위력 감소 2 부여|[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn
+688||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 정신력 20 감소|[OnSucceedAttack] Target loses 20 SP
+689||(ulepszenie 1) — nazwa] 다들 집합|Assemble
+690||(ulepszenie 1) — opis] [StartBattle] 다음 턴에 아군 2명 소환|[StartBattle] Summon 2 allies next turn
+691||(ulepszenie 1) — nazwa] 원한 곱씹기|Swear Vengeance
+692||(ulepszenie 1) — opis] [StartBattle] [AaCePbBi] 2를 얻음. 다음 턴에 속박 5, 피해량 증가 5를 얻음.|[StartBattle] Gain 2 [AaCePbBi]. Gain 5 Bind and 5 Damage Up next turn.
+693||(ulepszenie 1) — nazwa] 내 헤어쿠포오오오온!!!|MY HAIR COUPOOOOOOOOOOONS!!!
+694||(ulepszenie 1) — opis] 메인 공격 대상의 정신력이 0 미만인 경우, 최종 위력 +5|If the main target has less than 0 SP, Final Power +5
+695||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 흐트러짐 손상 30|[OnSucceedAttack] Raise Stagger Threshold by 30
+697||(ulepszenie 1) — nazwa] 두려움 심기|Sow Fear
+698||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackTail] 대상의 정신력 피해 2|[OnSucceedAttackTail] Deal 2 SP damage
+700||(ulepszenie 1) — nazwa] 공포 새기기|Engrave Horror
+701||(ulepszenie 1) — opis] [WinDuel] 대상의 정신력 피해 5, 자신의 체력 10만큼 회복|[WinDuel] Deal 10 SP damage to target; this unit heals 10 HP
+702||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 1 부여|[OnSucceedAttack] Inflict 1 Bind next turn
+703||(ulepszenie 1) — nazwa] 공포 수확|Reap Horror
+704||(ulepszenie 1) — opis] 대상의 정신력이 20미만이면, 이 공격의 체력 회복량 20% 추가 회복|If target’s SP is below 20, heal 20% more HP from this attack
+705||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackTail] 대상의 정신력 피해 3|[OnSucceedAttackTail] Deal 3 SP damage
+709||(ulepszenie 1) — nazwa] 정신 마비|Paralyze Mind
+710||(ulepszenie 1) — opis] 대상의 정신력이 -15미만이면, 피해량 +50%|If target's SP is below -15, deal +50% damage
+711||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 2 부여|[OnSucceedAttack] Inflict 2 Paralyze next turn
+713||(ulepszenie 1) — nazwa] -... - ..-|-... - ..-
+716||(ulepszenie 1) — nazwa] -- ... -.-|-- ... -.-
+717||(ulepszenie 1) — opis] [WinDuel] 창백한 소음 1 부여|[WinDuel] Inflict 1 Pallid Noise
+719||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 침잠 횟수 3 증가|[OnSucceedAttackHead] Inflict +3 Sinking Count
+720||(ulepszenie 1) — nazwa] ...- .|...- .
+721||(ulepszenie 1) — opis] 자신을 제외한 살아있는 백화 상태의 아군이 있다면, 아군당 최종 위력 +1|Final Power +1 for each surviving Pallidified ally (not counting this unit)
+722||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 피해량의 40%만큼 체력 회복|[OnSucceedAttack] Heal by 40% of damage dealt
+723||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 가지고있는 버프 하나를 다음 턴에 자신이 얻음.\n(공격 위력 증가, 신속, 피해량 증가, <sprite name="Protection"><color=#f8c200><u><link="Protection">보호</link></u></color>에 한함)|[OnSucceedAttack] Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name="Protection"><color=#f8c200><u><link="Protection">Protection</link></u></color>)
+725||(ulepszenie 1) — nazwa] ..-. .|..-. .
+728||(ulepszenie 1) — nazwa] ..-. . --|..-. . --
+732||(ulepszenie 1) — nazwa] .-.. -|.-.. -
+733||(ulepszenie 1) — opis] [WinDuel] 자신을 제외한 살아있는 백화 상태의 아군 수당 대상의 정신력 피해 1|[WinDuel] Deal 1 SP damage to target for each surviving Pallidified ally (not counting this unit)
+735||(ulepszenie 1) — moneta 1, efekt 2 — opis] 대상이 가지고있는 버프 하나를 다음 턴에 자신이 얻음.\n(공격 위력 증가, 신속, 피해량 증가, <sprite name="Protection"><color=#f8c200><u><link="Protection">보호</link></u></color>에 한함)|Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name="Protection"><color=#f8c200><u><link="Protection">Protection</link></u></color>)
+737||(ulepszenie 1) — nazwa] -... .…|-... .…
+738||(ulepszenie 1) — opis] 대상에게 <sprite name="Sinking"><color=#e30000><u><link="Sinking">침잠</link></u></color>이 있다면, 체력 회복 효과가 체력이 가장 낮은 백화 상태의 아군 1명에게 같이 적용됨|If target has <sprite name="Sinking"><color=#e30000><u><link="Sinking">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP
+740||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 침잠 1 부여|[OnSucceedAttackHead] Inflict 1 Sinking
+743||(ulepszenie 1) — nazwa] .--- .|.--- .
+746||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 창백한 소음 2 부여|[OnSucceedAttack] Inflict 2 Pallid Noise
+747||(ulepszenie 1) — nazwa] -. .…|-. .…
+748||(ulepszenie 1) — opis] [WhenUse] 대상에게 <sprite name="AaCePbBa"><color=#e30000><u><link="AaCePbBa">창백한 소음</link></u></color>이 있을 때, 자신을 제외한 체력이 가장 낮은 백화 상태의 아군 체력 30 회복|[WhenUse] If target has <sprite name="AaCePbBa"><color=#e30000><u><link="AaCePbBa">Pallid Noise</link></u></color>, all other Pallidified allies heal 30 HP
+750||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 체력 20 회복|[OnSucceedAttack] Heal 20 HP on self
+751||(ulepszenie 1) — nazwa] -- . -.-|-- . -.-
+752||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 3 부여|[OnSucceedAttack] Inflict 3 Tremor
+754||(ulepszenie 1) — nazwa] -... .-|-... .-
+755||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 자신을 제외한 무작위 아군 1명에게 보호 1 부여. 대상이 백화 상태면 추가로 1 부여|[WhenUse] Apply 1 Protection to 1 other random ally next turn. If the ally is a Pallidified ally, apply 1 additional Protection.
+756||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 횟수 4 증가|[OnSucceedAttack] Inflict +4 Tremor Count
+757||(ulepszenie 1) — nazwa] -.-. ..-|-.-. ..-
+758||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 진동 폭발|[OnSucceedAttack] Trigger Tremor Burst
+759||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 진동 횟수 2 감소|[OnSucceedAttack] Reduce Tremor Count by 2
+760||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 창백한 소음 1 부여|[OnSucceedAttack] Inflict 1 Pallid Noise
+761||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 10 부여, 파열 횟수 4 증가|[OnSucceedAttack] Inflict 10 Rupture and +4 Rupture Count
+762||(ulepszenie 1) — nazwa] .--. .|.--. .
+763||(ulepszenie 1) — opis] [StartBattle] 다음 턴에 자신을 제외한 백화 상태의 아군 2명당 보호 1 얻음\n보호막이 있는 동안 피격 시 공격자에게 진동 1 부여|[StartBattle] Gain 1 Protection for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, inflict 1 Tremor to the attacker
+765||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 방어 레벨 감소 2 부여|[OnSucceedAttack] Inflict 2 Defense Level Down
+766||(ulepszenie 1) — nazwa] .-.. .|.-.. .
+767||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 자신을 제외한 무작위 백화 상태의 아군 1명에게 피해량 증가 1을 부여|[WhenUse] Apply 1 Damage Up to 1 other random Pallidified ally next turn
+768||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 마비 2 부여|[OnSucceedAttack] Inflict 2 Paralyze
+769||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 창백한 소음 1 부여|[OnSucceedAttackHead] Inflict 1 Pallid Noise
+770||(ulepszenie 1) — nazwa] .-.. .-|.-.. .-
+771||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 자신을 포함한 백화 상태의 무작위 아군 1명에게 공격 위력 증가 1을 부여|[WhenUse] Apply 1 Damage Up to 1 random Pallidified ally next turn

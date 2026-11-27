@@ -1,0 +1,982 @@
+{
+  "entries": {
+    "dataList[id=148501].desc": {
+      "pl": "stosuje efekt [PanicChangeLock]\nKoniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 30\n\nNa początku etapu:\n- rozpoczyna z 50% HP\n- zyskuje 2 [UnstableConnection]\n\nw turze 3 używa potężnej Umiejętności\n- podczas tej tury, przy trafieniu przez Grzesznika, zyskuje 1 [ParryingResultDown] (1 raz na Grzesznika)\n\ngdy HP tej jednostki spadnie do 1 lub poniżej albo po zakończeniu tury 3, zmienia Fazę",
+      "kr_sha256": "43a540290efafeede8592a3f1d4d0c40a74ea5b3471cb0149022b4b1294a12cd",
+      "en_sha256": "ac71cb2848a5567526e0be5828052468c2c7b7ee4f427f96a6a210addf6b8afd",
+      "origin": "ai"
+    },
+    "dataList[id=148501].flavor": {
+      "pl": "Namiestnik Obsydianowego Boga, wymierzający karę tym, którzy zeszli z drogi.",
+      "kr_sha256": "a386a52610aee62d67417752e818dc554f27096d4df062835ac8ccda12b9650b",
+      "en_sha256": "229a35d141dd43b76081d110db4d8b2e3c03dd398eb69f454a161c0497d9b1f6",
+      "origin": "ai"
+    },
+    "dataList[id=148501].name": {
+      "pl": "Vicarius Dei",
+      "kr_sha256": "2eb70fee7fdea8611ce3ae1a32b79f606fab06fd8004dc3c2080c23f29c60efc",
+      "en_sha256": "da7d988f46c31982c87cb26515d7c626ee003cbc4f1bbee5e1c5bf2401e1a1a7",
+      "origin": "ai"
+    },
+    "dataList[id=148501].summary": {
+      "pl": "używa potężnej Umiejętności w turze 3\nzmienia Fazę po zakończeniu tury 3",
+      "kr_sha256": "773a20be19d4f78359c9d1c0ed84f48a89f5978e1bc25973aece040bc94a142b",
+      "en_sha256": "0dd2ed35b5dfeb3172bdbd3e865ee7bbe3d22943175b786aedd5faffa626c762",
+      "origin": "ai"
+    },
+    "dataList[id=148502].desc": {
+      "pl": "Początek tury: <color=#ff6000><mark=#ff000040><b><u>przywołuje 2 Candle of Retribution</u></b></mark></color>\n- z każdą kolejną turą przywołuje na początku tury <color=#ff6000><mark=#ff000040><b><u>+1 więcej Candle of Retribution</u></b></mark></color>\n- na polu może istnieć maks. 4 Candle of Retribution\n\nza każdym razem, gdy Candle of Retribution zostanie zniszczone, The Warden zyskuje 1 [Vulnerable]\n\nprzy użyciu Umiejętności:\n- jeżeli główny cel ma <color=#ff6000><mark=#ff000040><b><u>Szybkość 1</u></b></mark></color>, wszystkie Monety Umiejętności tej jednostki\nzamieniają się w [SuperCoin]y, Moc Końcowa +2, zadaje +100% obrażeń\n- jeżeli na polu nie ma Candle of Retribution, Moc Starcia -1",
+      "kr_sha256": "4b62a6835521dca609fe210b8d63323878a5e14c9726be7ea87c4b0fb4d44263",
+      "en_sha256": "b47edcab2dcced9240186934997542d9201a4c24997e37dc0ed1e5d324315f08",
+      "origin": "ai"
+    },
+    "dataList[id=148502].flavor": {
+      "pl": "Świeca, która spada na grzeszników ośmielających się przeciwstawić losowi wyznaczonemu przez dom towarowy.",
+      "kr_sha256": "87b676e2d6824bfc01d65584ac8d6f847437d160208fbbd3c296429c49e650ca",
+      "en_sha256": "b71cbcca3a208a099eb5dd44617d23bb8bf1e70a8d278427ce32eb6792be4e9e",
+      "origin": "ai"
+    },
+    "dataList[id=148502].name": {
+      "pl": "Hallowed Candles of Retribution",
+      "kr_sha256": "6514233c06fe671fb5ae0d15915ab6fd0b04f4690a5cd94e6ed7b24eec56144d",
+      "en_sha256": "87e24428f60ac3848813351c79f6264ba6010a992724db0e6240a3aec5fd4f1f",
+      "origin": "ai"
+    },
+    "dataList[id=148502].summary": {
+      "pl": "przywołuje Candle of Retribution co turę, zyskuje [Vulnerable] gdy Candle zostanie zniszczone\njeżeli główny cel ma Szybkość 1, wzmacnia Umiejętność",
+      "kr_sha256": "65915a112395c0a46198bc6a3047bd256b0575ec2c2574b1433a1be0e4ec9637",
+      "en_sha256": "59daf0eb5da45a06c777fe5c3e40854fb7348b9ebd82a928bc72249d68991fdb",
+      "origin": "ai"
+    },
+    "dataList[id=148503].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>ta jednostka nie traci SP z powodu efektów [Sinking]</u></b></mark></color>; zamiast tego, gdy efekt [Sinking] się uruchamia, otrzymuje obrażenia Posępności równe Siły Zatonięcia\n\nprzy trafieniu przez Grzesznika, ten Grzesznik zyskuje 1 Licznika [Sinking] (maks. 2 na turę na Grzesznika)",
+      "kr_sha256": "59611b2ed24e7edf6b2a45cb89951ef36b4b009054faa36fd723b0a676280113",
+      "en_sha256": "90eaaea1694a0a8a248c6621b8d2b9e5d465d8b1ba0a78d0b28ea89360a63c3f",
+      "origin": "ai"
+    },
+    "dataList[id=148503].name": {
+      "pl": "Tears shall soak the cloth",
+      "kr_sha256": "3bdf1679062a3890f9148b3c034a533ac56aa12940036d2a01a0e5dc3338f4b3",
+      "en_sha256": "ab8f3aa3d753f33a5760c71a12e2ec50cf36a44ed9c0d29bf07716d2d099ff46",
+      "origin": "ai"
+    },
+    "dataList[id=148503].summary": {
+      "pl": "otrzymuje obrażenia Posępności z [Sinking] zamiast tracić SP\nprzy trafieniu atakujący zyskuje Licznik [Sinking]",
+      "kr_sha256": "09f05dfb2c5a51e092acf5567e97bdb740ead4df641a2c769bbb9181f175def6",
+      "en_sha256": "c708c9b2b05f11e31ac488feaf47cccaef8d70224fa913c63f19a97247867494",
+      "origin": "ai"
+    },
+    "dataList[id=148504].desc": {
+      "pl": "zyskuje 1 Siły [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce\n\nPoczątek tury: jeżeli Siła [ChargeNoir] tej jednostki jest niższa niż 3, a Liczniki [ChargeNoir] niższe niż 10, zyskuje 5 Licznika [ChargeNoir]\n\nefekt [ChargeNoir] „Koniec tury: traci 1 Licznika” się nie uruchamia",
+      "kr_sha256": "e3e4d4a02f342c5748f65f45f84bc80e28e26b8334c2b575f9fc28da4406e986",
+      "en_sha256": "94e0536c9e15fc8b88666a4cd4b26a565e0f24a427584c75b294b2af3cfbb15a",
+      "origin": "ai"
+    },
+    "dataList[id=148504].flavor": {
+      "pl": "W Systemie Sisyphe ta konserwacja jest konserwowana w sposób doskonały.",
+      "kr_sha256": "ea5dcfc5ea7c14964ee74d194316ee5d7de3a9d58f8a055b97c533a89c0f5074",
+      "en_sha256": "bd482746bca1a83cb537f00fe6f35df171c9cdd80bfb16311bee24a045f660ad",
+      "origin": "ai"
+    },
+    "dataList[id=148504].name": {
+      "pl": "Perfect Conservation",
+      "kr_sha256": "3158b6e1fe0733a1f5fa9c0572780d8e50b13ef47f29513e95a63515c402be35",
+      "en_sha256": "470b9bd63f5531b0e7ec57642081ae3f5066b23ee224f3d9a933be5b0059f5b0",
+      "origin": "ai"
+    },
+    "dataList[id=148504].summary": {
+      "pl": "zyskuje Siłę [ChargeNoir] przy łącznym zużyciu Liczników [ChargeNoir]\nLiczniki [ChargeNoir] nie maleją na Koniec tury",
+      "kr_sha256": "9e7b7de3666049b24dc4a607398ad290e4513dbfb5901c008e79f132a6f71d87",
+      "en_sha256": "b064dc8980da747dccb07ac2fbff7375f8aae0a157f73a7408639d66966c07df",
+      "origin": "ai"
+    },
+    "dataList[id=148511].desc": {
+      "pl": "Na początku etapu: Meursault zyskuje [MeursaultBuffWarderFirstPhase]\n\nPoczątek tury: losowi Grzesznicy zyskują [GoldenHideWarderFirstPhase] i [GoldenFabricWarderFirstPhase]",
+      "kr_sha256": "fbb8b21b0e509f2bd05f6ef30c606ad56b06a7c9ad7111044224b9f8919df0d7",
+      "en_sha256": "36cf48c4ae5cd1c568b5c070f1d9d617ee2107c1c46ad092e479506e544b174f",
+      "origin": "ai"
+    },
+    "dataList[id=148511].flavor": {
+      "pl": "\"That which betokeneth stillness and change... is reserved for none but God...!!\"",
+      "kr_sha256": "94db580bce7771d44132cfb518340bd87bb67fede8ca81ed518363713be61ed4",
+      "en_sha256": "84a9498162e0c705e52e08374bef23c5f3283e29cd4e8c56220e487d84f58eb5",
+      "origin": "ai"
+    },
+    "dataList[id=148511].name": {
+      "pl": "... Impossible!",
+      "kr_sha256": "758e61edf9a05f1f1c09102a4c164cdb47bf92ba5ba8c3bec116f4c8df77c74b",
+      "en_sha256": "4da0dc23a8ab789ab3acacf6ace75a1b965f8173bd9f60838d4c1aa143d6f6d4",
+      "origin": "ai"
+    },
+    "dataList[id=148511].summary": {
+      "pl": "Meursault zyskuje [MeursaultBuffWarderFirstPhase]\nco turę losowi Grzesznicy zyskują [GoldenHideWarderFirstPhase] i [GoldenFabricWarderFirstPhase]",
+      "kr_sha256": "425cbd806b63e5c8d8076028a9abf040e7d782ed6f56b8e979c40a01f0c2726e",
+      "en_sha256": "13077acc0e67cdc9e6d0c8b501fd4d68003b47de5c4a252b962e0fcbe2203a12",
+      "origin": "ai"
+    },
+    "dataList[id=148601].desc": {
+      "pl": "stosuje efekt [PanicChangeLock]\nKoniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 30\n\nna pierwszym Początku tury po pojawieniu się:\n- SP zmienia się na 45\n- zyskuje 0 [EncompassingVoiceSecondPhase] i 1 [LeaderVoiceSecondPhase]\n- Siła i Liczniki [ChargeNoir] dziedziczone z poprzedniej Fazy",
+      "kr_sha256": "df6df9b19843c5532b6dfacfb18602a6d34371730629d70bcfdaa676a1b2079e",
+      "en_sha256": "1d7e4a1397ae61d8d710dad99c4c0be4adae4fbec3d5feaf99c73ad771f17eae",
+      "origin": "ai"
+    },
+    "dataList[id=148601].name": {
+      "pl": "As Ordained by the Rule of Conservation",
+      "kr_sha256": "ed015bcce3f518c6cd72420b1fe0ad7fc5e866b27a5db2e1f102fcfb81d7133c",
+      "en_sha256": "47117fbc040793f030cce6f8e4459d58172aa006d259e4f773c89dd121d29cec",
+      "origin": "ai"
+    },
+    "dataList[id=148601].summary": {
+      "pl": "[PanicChangeLock]\nSiła i Liczniki [ChargeNoir] dziedziczone z poprzedniej Fazy",
+      "kr_sha256": "67ba0d38e3a2e7de93f0ec542a102e9b3962b295257314c87c603eb66ab3da82",
+      "en_sha256": "ae54a018d5709225f100fb8c207f8cc74d8e1e4e1149780e06942e0cc70e6f50",
+      "origin": "ai"
+    },
+    "dataList[id=148602].desc": {
+      "pl": "Początek tury: jeżeli ta jednostka ma [SpreadingVoiceSecondPhase], przybiera nowy wzorzec i <color=#ff6000><mark=#ff000040><b><u>używa potężnej Umiejętności „Judgment... Sentencing... Condemnation!”</u></b></mark></color>\n- Szybkość min. i maks. +20 w tej turze\n- gdy <color=#ff6000><mark=#ff000040><b><u>The Warden przegra Starcie w tym wzorcu</u></b></mark></color>, w następnej turze przybiera zmieniony wzorzec i <color=#ff6000><mark=#ff000040><b><u>używa potężnej Umiejętności „Death Unto the Condemned”</u></b></mark></color>\n\nza każdą konwersją [SpreadingVoiceSecondPhase] i [EncompassingVoiceSecondPhase] <color=#ff6000><mark=#ff000040><b><u>przywraca 45 SP</u></b></mark></color> i <color=#ff6000><mark=#ff000040><b><u>zyskuje 1 [LeaderVoiceSecondPhase]</u></b></mark></color>\n\nprzy HP 50% lub mniej, kończy turę (z wyjątkiem pewnych Umiejętności); jeżeli jest Oszołamiona, dochodzi do siebie\nprzy HP 1 lub mniej, zmienia Fazę",
+      "kr_sha256": "b0b130ae6b9674ecc0945be1b01bc46a2b3ae5c1b5ed4c7feac9f4f72c5d8835",
+      "en_sha256": "ca57828a0b03633b0f46e4773159207d1d6476bef5068845417c3e9b7542f4d0",
+      "origin": "ai"
+    },
+    "dataList[id=148602].flavor": {
+      "pl": "Ci, którzy nie zdołali odkupić się karą… zginą w Dniu Sądu.",
+      "kr_sha256": "0419feb2a0d10c75f332f8be5cb9d8c4c5286929a64a2c57a71ccf18528eea0a",
+      "en_sha256": "552bbb02a81077674739d4964647f86a0fc91956314c7613ce4a4eb1abc4c7a9",
+      "origin": "ai"
+    },
+    "dataList[id=148602].name": {
+      "pl": "Dies Irae",
+      "kr_sha256": "040fb6f7a1b5591d4125d82035a4486395d071952f2d97a5c7e10afbb59eab72",
+      "en_sha256": "b8d36270d4ad358e44adcc64a900b7f7938d8cc7fac30035105384b8806b8617",
+      "origin": "ai"
+    },
+    "dataList[id=148602].summary": {
+      "pl": "jeżeli ta jednostka ma [SpreadingVoiceSecondPhase], używa potężnej Umiejętności\npo przegranej w Starciu w tym wzorcu używa „Death Unto the Condemned” w następnej turze",
+      "kr_sha256": "fef8dd6746fe71172a5b2dd19639f602def30726210581c48b74c9e3fe213ff6",
+      "en_sha256": "d33dc00b1ccf1bd5206856208f71bcc025dc10699b61b87ba581f9591be3312c",
+      "origin": "ai"
+    },
+    "dataList[id=148603].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>ta jednostka nie traci SP z powodu efektów [Sinking]</u></b></mark></color>; zamiast tego otrzymuje obrażenia Posępności równe Siły Zatonięcia\n\nprzy trafieniu przez Grzesznika, ten Grzesznik zyskuje 1 Licznika [Sinking] (2 razy na turę na Grzesznika)\n\nta jednostka nie może zyskać Siły [Breath] powyżej 20; <color=#ff6000><mark=#ff000040><b><u>zamiast tego przywraca SP równe nadmiarowi zyskanej Siły [Breath]</u></b></mark></color>",
+      "kr_sha256": "f832a0d1f254dea3530147e5f342338e2cab5e7854817f8b4169fdd5cfa58b3c",
+      "en_sha256": "20b9dfa35d2364f95b40fb4458bcaaa6e9fc06a62a2b24110ce2c198ca9e7cc1",
+      "origin": "ai"
+    },
+    "dataList[id=148603].name": {
+      "pl": "Tears shall soak the cloth, cloth shall close about the throat...",
+      "kr_sha256": "eb669e422e10297fb664c8ecea8408467d0715959e7c2b130891bd69c6577863",
+      "en_sha256": "740024d29943cccb09e85128e2d1823af5b63d37a3eabc1a3801aa4cc5b54297",
+      "origin": "ai"
+    },
+    "dataList[id=148603].summary": {
+      "pl": "otrzymuje obrażenia Posępności z [Sinking] zamiast tracić SP\nprzy trafieniu atakujący zyskuje Licznik [Sinking]",
+      "kr_sha256": "09f05dfb2c5a51e092acf5567e97bdb740ead4df641a2c769bbb9181f175def6",
+      "en_sha256": "c708c9b2b05f11e31ac488feaf47cccaef8d70224fa913c63f19a97247867494",
+      "origin": "ai"
+    },
+    "dataList[id=148604].desc": {
+      "pl": "zyskuje 1 Siły [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce\n\nPoczątek tury: jeżeli Siła [ChargeNoir] tej jednostki jest niższa niż 5, a Liczniki [ChargeNoir] niższe niż 10, zyskuje 5 Licznika [ChargeNoir]\n\nefekt [ChargeNoir] „Koniec tury: traci 1 Licznika” się nie uruchamia\n\nprzy 5+/10+ Siły [ChargeNoir] maks. wartość Liczników [ChargeNoir] +5/+10",
+      "kr_sha256": "cd32271ca4e73efabf841041ff334f5392d62099cb7240dcdde0b38b333b5f26",
+      "en_sha256": "6c96a1da65b4acf360aee1fe28496eaa90e77730994b4f34f290fb7ec564a313",
+      "origin": "ai"
+    },
+    "dataList[id=148604].flavor": {
+      "pl": "W Systemie Sisyphe ta konserwacja jest konserwowana w sposób doskonały.",
+      "kr_sha256": "ea5dcfc5ea7c14964ee74d194316ee5d7de3a9d58f8a055b97c533a89c0f5074",
+      "en_sha256": "bd482746bca1a83cb537f00fe6f35df171c9cdd80bfb16311bee24a045f660ad",
+      "origin": "ai"
+    },
+    "dataList[id=148604].name": {
+      "pl": "Perfect Conservation",
+      "kr_sha256": "3158b6e1fe0733a1f5fa9c0572780d8e50b13ef47f29513e95a63515c402be35",
+      "en_sha256": "470b9bd63f5531b0e7ec57642081ae3f5066b23ee224f3d9a933be5b0059f5b0",
+      "origin": "ai"
+    },
+    "dataList[id=148604].summary": {
+      "pl": "zyskuje Siłę [ChargeNoir] przy łącznym zużyciu Liczników [ChargeNoir]\nLiczniki [ChargeNoir] nie maleją na Koniec tury",
+      "kr_sha256": "9e7b7de3666049b24dc4a607398ad290e4513dbfb5901c008e79f132a6f71d87",
+      "en_sha256": "b064dc8980da747dccb07ac2fbff7375f8aae0a157f73a7408639d66966c07df",
+      "origin": "ai"
+    },
+    "dataList[id=148605].desc": {
+      "pl": "gdy The Warden nakłada [ConfessionSecondPhase] na Grzeszników efektami swoich Umiejętności, stosuje się:\n- następujące efekty są <color=#ff6000><mark=#ff000040><b><u>łącznie nazywane [ConfessionSecondPhase]:</u></b></mark></color>\n  · [RestrainingNailSecondPhase]\n  · [ExecutionNailSecondPhase]\n  · [CeremonialNail]\n  · [MarkingNail]\n- gdy The Warden nakłada Nail[TabExplain] lub Hammernail na Grzeszników, <color=#ff6000><mark=#ff000040><b><u>pozostaje wyłącznie ostatnio nałożony efekt</u></b></mark></color>; Stosy między Nail[TabExplain] a Hammernail sumują się\n- <color=#ff6000><mark=#ff000040><b><u>Hammernail nie zamienia się w Nail[TabExplain]</u></b></mark></color>\n\nprzy trafieniu Grzesznika <color=#ff6000><mark=#ff000040><b><u>zadaje +3% obrażeń za każdą 1 [ConfessionSecondPhase] celu</u></b></mark></color> (maks. 27%, osobno dla każdego celu)\n\nPoczątek tury: <color=#ff6000><mark=#ff000040><b><u>jeżeli HP The Warden wynosi 50% lub mniej</u></b></mark></color>, wszystkie Umiejętności nakładają <color=#ff6000><mark=#ff000040><b><u>dodatkowo +1 [ConfessionSecondPhase]</u></b></mark></color>",
+      "kr_sha256": "829fbbb163192c08c7129a3fcc64a7feaac4294323c708f20fcf8c09e1097f8a",
+      "en_sha256": "522aeb5558c22fe7d148612394e79896774702592d063a6d599117c6cb07e75e",
+      "origin": "ai"
+    },
+    "dataList[id=148605].name": {
+      "pl": "Implements of Confession",
+      "kr_sha256": "9318ecee88b233ce5bacbfdec06229479ac42c86129f3c3a486b24d092f5ea1f",
+      "en_sha256": "31f818b5f2bba5c839c7c3308008d3886fb2b436fa19616b5c12c37cc5e9ac5f",
+      "origin": "ai"
+    },
+    "dataList[id=148605].summary": {
+      "pl": "zadaje więcej obrażeń zależnie od [ConfessionSecondPhase] celu\nprzy HP tej jednostki 50% lub mniej nakłada więcej [ConfessionSecondPhase]",
+      "kr_sha256": "7473c8258bb538b88aeff2c2fa07c4dfec9b9275168f37374f6eb061d1679aad",
+      "en_sha256": "fe9db30743b196dc576bb5050c90f1639fad7d87f25796b69b4d9891a1ec07ef",
+      "origin": "ai"
+    },
+    "dataList[id=148611].desc": {
+      "pl": "Początek tury: losowi Grzesznicy zyskują [GoldenHideWarderSecondPhase] i [GoldenFabricWarderSecondPhase]",
+      "kr_sha256": "b86d6c843254f4cb080f329a08ed3a311cb3fb0fee52d3230598b1e3eb054e8a",
+      "en_sha256": "ec008073f36c8da57f9883aa07aa8a08752a3bd96c451289459e29cffbfedcee",
+      "origin": "ai"
+    },
+    "dataList[id=148611].flavor": {
+      "pl": "\"That which betokeneth stillness and change... is reserved for none but God...!!\"",
+      "kr_sha256": "94db580bce7771d44132cfb518340bd87bb67fede8ca81ed518363713be61ed4",
+      "en_sha256": "84a9498162e0c705e52e08374bef23c5f3283e29cd4e8c56220e487d84f58eb5",
+      "origin": "ai"
+    },
+    "dataList[id=148611].name": {
+      "pl": "... Impossible!",
+      "kr_sha256": "758e61edf9a05f1f1c09102a4c164cdb47bf92ba5ba8c3bec116f4c8df77c74b",
+      "en_sha256": "4da0dc23a8ab789ab3acacf6ace75a1b965f8173bd9f60838d4c1aa143d6f6d4",
+      "origin": "ai"
+    },
+    "dataList[id=148611].summary": {
+      "pl": "co turę losowi Grzesznicy zyskują [GoldenHideWarderSecondPhase] i [GoldenFabricWarderSecondPhase]",
+      "kr_sha256": "c25efcd877319a58b2e168607cfcdec7ba54e8a7166f1290f34946c5e75fee67",
+      "en_sha256": "1f6792081db25e6bb441e022fdd6085860349f2702ad386d138cb788dc521513",
+      "origin": "ai"
+    },
+    "dataList[id=148701].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>przy 10+ Starciach</u></b></mark></color>, ta Umiejętność <color=#ff6000><mark=#ff000040><b><u>zyskuje Moc Starcia równą (liczba stoczonych Starć)</u></b></mark></color>\n\nDla [Combustion], [Laceration], [Vibration], [Burst], [Sinking]:\n- <color=#ff6000><mark=#ff000040><b><u>maks. wartość Siły: 50\n- maks. wartość Liczników: 15</u></b></mark></color>\n- otrzymuje -50% obrażeń od powyższych efektów\n\nstosuje efekt [PanicChangeLock], a <color=#ff6000><mark=#ff000040><b><u>SP tej jednostki nie spada poniżej 0</u></b></mark></color>\n\nna pierwszym Początku tury po pojawieniu się:\n- SP zmienia się na 45\n- zyskuje 0 [EncompassingVoiceThirdPhase] i 1 [LeaderVoiceThirdPhase]\n- Siła i Liczniki [ChargeNoir] dziedziczone z poprzedniej Fazy",
+      "kr_sha256": "7cfa5c409f9411c2fe3813fc105bb20d75926061e0d47d6bb04868e0e757d106",
+      "en_sha256": "e7ae734d9beea601d5653818fc01ef87fdce03d258bcdc168b507a09c50102e6",
+      "origin": "ai"
+    },
+    "dataList[id=148701].name": {
+      "pl": "\"As Ordained by the Rule of Conservation\"",
+      "kr_sha256": "f8e606ee8cccb1e05f88ecf69c9f84912ed74fb677f4cbada91c3a20608d1123",
+      "en_sha256": "0e3d94456d751c86d17467b79624f768311eb848a3e0c5022ddb1b295495f8bd",
+      "origin": "ai"
+    },
+    "dataList[id=148701].summary": {
+      "pl": "przy 10+ Starciach zyskuje Moc Starcia\notrzymuje mniej obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]",
+      "kr_sha256": "c631de8c22280c188875b6c19825f1b357fb8a9f95ac58a1617587d5a79dfb26",
+      "en_sha256": "32ea8bcbcfd858a2d928daeb85b234a7135e0887f78a5c2d5272b32434edf420",
+      "origin": "ai"
+    },
+    "dataList[id=148702].desc": {
+      "pl": "Początek tury: jeżeli ta jednostka ma [SpreadingVoiceThirdPhase], przybiera nowy wzorzec i używa <color=#ff6000><mark=#ff000040><b><u>potężnej Umiejętności „Do you seriously mean to break the Sisyphe System?”</u></b></mark></color>\n- Szybkość min. i maks. +20 w tej turze\n- gdy <color=#ff6000><mark=#ff000040><b><u>The Chaplain przegra Starcie</u></b></mark></color> w tym wzorcu, w następnej turze przybiera zmieniony wzorzec i używa <color=#ff6000><mark=#ff000040><b><u>potężnej Umiejętności „Systemwide Ban”</u></b></mark></color>\n\nza każdą konwersją [SpreadingVoiceThirdPhase] i [EncompassingVoiceThirdPhase] <color=#ff6000><mark=#ff000040><b><u>przywraca 45 SP</u></b></mark></color> i <color=#ff6000><mark=#ff000040><b><u>zyskuje 1 [LeaderVoiceThirdPhase]</u></b></mark></color>",
+      "kr_sha256": "2e404545dbf49315be2842787c022887a5c74630af9d11308b45cd40862ad847",
+      "en_sha256": "e5fac50e9f09c1c874ff2f9d1412796cfd54acc58626c117fa7e2b559c91d4b5",
+      "origin": "ai"
+    },
+    "dataList[id=148702].flavor": {
+      "pl": "Skoro kara nie wystarczyła, byś się zrewidował, to czas na sąd. Na taki, który cię zabije.",
+      "kr_sha256": "a173b15b60b6b78aaaf52cc659ffdc972dd9c998d83f055fb57b4b40804d50e7",
+      "en_sha256": "fd4a805d98ed26c9730dc228dd8f8b72aa98603f34d2759ac6efb8f5ac113727",
+      "origin": "ai"
+    },
+    "dataList[id=148702].name": {
+      "pl": "\"Dies Irae\"",
+      "kr_sha256": "e120f00923a19bf15837e63b1b9a3b9c8697c0d7b3097cb8637f34ea875db2bc",
+      "en_sha256": "87e84c8a0c06cbcdbf573495523071b2fc7fbbeb896e04d1d130da1308dc1214",
+      "origin": "ai"
+    },
+    "dataList[id=148702].summary": {
+      "pl": "jeżeli ta jednostka ma [SpreadingVoiceThirdPhase], używa potężnej Umiejętności\npo przegranej w Starciu w tym wzorcu używa „Systemwide Ban” w następnej turze",
+      "kr_sha256": "c40cb353f7d12562c83ea9e0c8074651e5f58124920e0a1039d61720ba63bbf3",
+      "en_sha256": "8f152dbc1b00d834287213b719155cd9c6d21b03ccc72194696b3e7a528199a5",
+      "origin": "ai"
+    },
+    "dataList[id=148703].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>ta jednostka nie traci SP z powodu efektów [Sinking]</u></b></mark></color>; zamiast tego, gdy efekt [Sinking] się uruchamia, otrzymuje obrażenia Posępności równe Siły Zatonięcia\n\nprzy trafieniu przez Grzesznika, ten Grzesznik zyskuje 1 Licznika [Sinking] (maks. 2 na turę na Grzesznika)\n\nta jednostka nie może zyskać Siły [Breath] powyżej 20; <color=#ff6000><mark=#ff000040><b><u>zamiast tego przywraca SP równe nadmiarowi zyskanej Siły [Breath]</u></b></mark></color>\n\nprzy wywołaniu [VibrationExplosion] na Grzesznikach, jeżeli <color=#ff6000><mark=#ff000040><b><u>atakowany Grzesznik nie ma Progu Oszołomienia</u></b></mark></color>, zamiast obrażeń Oszołamienia zadaje <color=#ff6000><mark=#ff000040><b><u>obrażenia Lenistwa równe (Siła [Vibration] celu / 2)</u></b></mark></color> (z wyłączeniem oszołamionych celów; rozpatrywane osobno dla każdego celu)",
+      "kr_sha256": "c99cd0da4bb86990a0ce05a6eb2d7191b0272a05260d285a89cc4bcb372e74c4",
+      "en_sha256": "350ba5138597332e85dc99e935393f56bf343490d457fdea908829c29b34cd92",
+      "origin": "ai"
+    },
+    "dataList[id=148703].flavor": {
+      "pl": "“About time you started 'praying,' don't you think?”",
+      "kr_sha256": "a9c5fb59953ade2205bfe6e76b3564019ec4a0f35af0f25e068114ca007c9ded",
+      "en_sha256": "05c0020525840d2e05572afff14f36e456c229eae967c8339cd3bc0188c364b9",
+      "origin": "ai"
+    },
+    "dataList[id=148703].name": {
+      "pl": "Tears shall soak the cloth, cloth shall close about the throat... now I can't even remember what's next.",
+      "kr_sha256": "82ea55879a8181ad82592e12499c28de6831d794dcee06ff6d7845c6a7d8a9ca",
+      "en_sha256": "89fb56e0d16b35e3b69716272f6b8af01730111171cf6bd8c9caf01a97aafafd",
+      "origin": "ai"
+    },
+    "dataList[id=148703].summary": {
+      "pl": "przy trafieniu atakujący zyskuje Licznik [Sinking]\nprzy [VibrationExplosion] zadaje obrażenia Lenistwa, jeżeli cel nie ma Progu Oszołomienia",
+      "kr_sha256": "1f4f97ea84d5f4c6c709f76546f7d8d81d46cb97642fc92a24600dac152b6b95",
+      "en_sha256": "3c195afe05f29439310b9854058b63e3cb577a3134e56bed1d9e52a4fb4873db",
+      "origin": "ai"
+    },
+    "dataList[id=148704].desc": {
+      "pl": "zyskuje 1 Siły [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce\n\nPoczątek tury: jeżeli Siła [ChargeNoir] tej jednostki jest niższa niż 10, a Liczniki [ChargeNoir] niższe niż 10, zyskuje 5 Licznika [ChargeNoir]\n\nefekt [ChargeNoir] „Koniec tury: traci 1 Licznika” się nie uruchamia\n\nprzy 5+/10+ Siły [ChargeNoir] maks. wartość Liczników [ChargeNoir] +5/+10",
+      "kr_sha256": "bb14262027c7a22531a315ae4272d364088a0d35b7faf402856115d329f2b091",
+      "en_sha256": "53bae3f8f4935359526bab327e09d004b3eafd569a4be1ce9a08cca30f9d4eee",
+      "origin": "ai"
+    },
+    "dataList[id=148704].flavor": {
+      "pl": "W Systemie Sisyphe ta konserwacja jest konserwowana w sposób doskonały.",
+      "kr_sha256": "ea5dcfc5ea7c14964ee74d194316ee5d7de3a9d58f8a055b97c533a89c0f5074",
+      "en_sha256": "bd482746bca1a83cb537f00fe6f35df171c9cdd80bfb16311bee24a045f660ad",
+      "origin": "ai"
+    },
+    "dataList[id=148704].name": {
+      "pl": "Perfect Conservation",
+      "kr_sha256": "3158b6e1fe0733a1f5fa9c0572780d8e50b13ef47f29513e95a63515c402be35",
+      "en_sha256": "470b9bd63f5531b0e7ec57642081ae3f5066b23ee224f3d9a933be5b0059f5b0",
+      "origin": "ai"
+    },
+    "dataList[id=148704].summary": {
+      "pl": "zyskuje Siłę [ChargeNoir] przy łącznym zużyciu Liczników [ChargeNoir]\nLiczniki [ChargeNoir] nie maleją na Koniec tury",
+      "kr_sha256": "9e7b7de3666049b24dc4a607398ad290e4513dbfb5901c008e79f132a6f71d87",
+      "en_sha256": "b064dc8980da747dccb07ac2fbff7375f8aae0a157f73a7408639d66966c07df",
+      "origin": "ai"
+    },
+    "dataList[id=148705].desc": {
+      "pl": "gdy The Chaplain nakłada [ConfessionThirdPhase] na Grzeszników efektami swoich Umiejętności, stosuje się:\n- następujące efekty są <color=#ff6000><mark=#ff000040><b><u>łącznie nazywane [ConfessionThirdPhase]</u></b></mark></color>:\n  · [RestrainingNailThirdPhase]\n  · [ExecutionNailThirdPhase]\n  · [GoldenNail]\n- gdy The Chaplain nakłada Nail[TabExplain] na Grzeszników, <color=#ff6000><mark=#ff000040><b><u>pozostaje wyłącznie ostatnio nałożony efekt</u></b></mark></color>; Stosy między efektami sumują się\n<color=#ff6000><mark=#ff000040><b><u>- [RestrainingNailThirdPhase] i [ExecutionNailThirdPhase] nie zamieniają się w [GoldenNail]</u></b></mark></color>\n\nprzy trafieniu Grzesznika <color=#ff6000><mark=#ff000040><b><u>zadaje +5% obrażeń za każdą 1 [ConfessionThirdPhase]</u></b></mark></color> na celu (maks. 45%, osobno dla każdego celu)\n\nPoczątek tury: <color=#ff6000><mark=#ff000040><b><u>jeżeli HP The Chaplain wynosi 50% lub mniej</u></b></mark></color>, wszystkie Umiejętności nakładają <color=#ff6000><mark=#ff000040><b><u>dodatkowo +1 [ConfessionThirdPhase]</u></b></mark></color>",
+      "kr_sha256": "bda6138ad81e9cbc96ffb68ae175e2ad0ad22335042b89d057a3cbd77dc6ef24",
+      "en_sha256": "c5cf50bfc8edb1660074d728cb2f317510752f7c01c1e3fa4bb7b6c26e4433b5",
+      "origin": "ai"
+    },
+    "dataList[id=148705].flavor": {
+      "pl": "\"According to the manual... when this happens, everything has to be readjusted. It's all been laid out in the regulations already. You can see it right here in the manual... ah. Right. You can't see this from where you are.\"",
+      "kr_sha256": "3ce97d8c96d4654816d7531d606a37e62bfbe045e4a59f4b45139f5c66077b28",
+      "en_sha256": "84d8cf2f7c6f2302089309d8614f1fbd805f22196a35686b5d7e5e504a1f2b3e",
+      "origin": "ai"
+    },
+    "dataList[id=148705].name": {
+      "pl": "Sisyphe System Maintenance Tool",
+      "kr_sha256": "6876906da95aee1fae099a48a7e1474a84e6247579383bdbe73c609f44b85921",
+      "en_sha256": "5810d38491f96520ca20f4bb22735dc6807bbc8ed790fc6539cdd01762579450",
+      "origin": "ai"
+    },
+    "dataList[id=148705].summary": {
+      "pl": "zadaje więcej obrażeń zależnie od [ConfessionThirdPhase] celu\nprzy HP tej jednostki 50% lub mniej nakłada więcej [ConfessionThirdPhase]",
+      "kr_sha256": "ddb5a9b535362e4fbc84b5c723077929da6d590059b5be21a7a151779a9110ef",
+      "en_sha256": "91243adbbbc8186c0a3bdd85bd607ff7245c05cfcb521d2448ef2c8498154212",
+      "origin": "ai"
+    },
+    "dataList[id=148706].desc": {
+      "pl": "Koniec tury: gdy Siła [ChargeNoir] przekroczy 10, zużywa nadwyżkę Siły [ChargeNoir] i zyskuje (zużyta Siła [ChargeNoir]) [Dominion]\n- po zużyciu całego [Dominion] efektami tej pasywki ten efekt się nie uruchamia\n\ngdy HP tej jednostki po raz pierwszy w tej walce <color=#ff6000><mark=#ff000040><b><u>spadnie do 33% lub mniej, przybiera nowy wzorzec</u></b></mark></color>\n- zużywa cały [Dominion] tej jednostki i <color=#ff6000><mark=#ff000040><b><u>zyskuje trwałą Tarczę równą (25 + Stosy [Dominion])% Maks. HP tej jednostki</u></b></mark></color>\n- traci trwale Poziom Obrony równy zużytym Stosom [Dominion]",
+      "kr_sha256": "7b8aab4d644aee9b4ce7eeb3c7a79494d78a9d130a7a7832b242ea8c2a2dc39a",
+      "en_sha256": "36b540fb1240914a456dfbb43011fa000069015ef4406feabe9e56449a61cfc2",
+      "origin": "ai"
+    },
+    "dataList[id=148706].flavor": {
+      "pl": "„Mówcie, co chcecie — System Sisyphe jest czymś, czego N Corp. bezwzględnie potrzebuje. Jeżeli ten system się zawali... wrócimy do barbarzyństwa.”\n\n„A zatem, jak głosi instrukcja — nie wyjdziecie z tego domu towarowego. Wyjątków nie ma.”",
+      "kr_sha256": "9caf29957df5d2bfb4754f974d4ceaf97cd87f16b3eebd635ad4b0343763b571",
+      "en_sha256": "32b612911bb319f5f808ba82447856fe290412fccebfe0acbf9a0f3057101435",
+      "origin": "ai"
+    },
+    "dataList[id=148706].name": {
+      "pl": "All right. Time to clock out.",
+      "kr_sha256": "f68e954cfac34dde5bd39bd7ec2ea7a078217ef3c087e420d05db9c417649857",
+      "en_sha256": "3ce4150b5decb5b28a884bf0d4e861d7e60aa109f6ccd9d78b3ec6a33cafa061",
+      "origin": "ai"
+    },
+    "dataList[id=148706].summary": {
+      "pl": "nadwyżka Siły [ChargeNoir] powyżej 10 zamienia się w [Dominion]\nprzy HP 33% lub mniej zmienia wzorzec i zyskuje Tarczę",
+      "kr_sha256": "36c61d5ed41f7328a0706ed7dd5a0b3f7077acb8683fd4e7124b4af44ae5167e",
+      "en_sha256": "e500101102cdbb7f9716cfed1ab237368d40271791c1c5e4cc409ca55d2ac85e",
+      "origin": "ai"
+    },
+    "dataList[id=148711].desc": {
+      "pl": "Początek tury: losowi Grzesznicy zyskują [GoldenHideWarderThirdPhase] i [GoldenFabricWarderThirdPhase]\n\n<color=#ff6000><mark=#ff000040><b><u>gdy „Zarządca” podejmie określone działanie, The Chaplain zadaje losowemu Grzesznikowi obrażenia proporcjonalne do Maks. HP tego Grzesznika i nakłada na niego [GoldenNail]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>gdy HP spadnie poniżej 50%, The Chaplain manipuluje swoim statusem na poziomie systemu</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>przywraca HP i SP do maksimum i usuwa wszystkie negatywne efekty z siebie</u></b></mark></color>",
+      "kr_sha256": "6588ca37562e197863372e5375bf4716a1f6e3a0d93ff13325d166cb3513c3a7",
+      "en_sha256": "24f3f1fbacedb269fc4f1311adfa13aa5b0ef6f61e221f0ee1a3a8c32ab47a05",
+      "origin": "ai"
+    },
+    "dataList[id=148711].flavor": {
+      "pl": "\"No system's glitch-free all the time, of course, but a bug this bad...? Tsk. Looks like I'll have to call maintenance.\"",
+      "kr_sha256": "afaf5a8a29ed2150e4ea3b33496db2e3364041e122d789236725af2c608eac0d",
+      "en_sha256": "83e23ba90fd6fbb13fa886f9cb7d7d08af787fae3766e8e8827558e195367dde",
+      "origin": "ai"
+    },
+    "dataList[id=148711].name": {
+      "pl": "Goddammit. How did you manage to find a glitch like that?",
+      "kr_sha256": "9f668849675aae9ac761826d6470852e1cdf4d0c1c97095f4e8a59eb1f857395",
+      "en_sha256": "a29426d90ee0f1673f42945f0481058b94ba7fd041ed54b5e504988380aaefa4",
+      "origin": "ai"
+    },
+    "dataList[id=148711].summary": {
+      "pl": "co turę losowi Grzesznicy zyskują [GoldenHideWarderThirdPhase] i [GoldenFabricWarderThirdPhase]\nprzy HP poniżej 50% pełne przywrócenie HP i usunięcie negatywnych efektów",
+      "kr_sha256": "055f242b809e450b8aa88ba279f891cdc04a4ad5e15467c8c955170809befbe7",
+      "en_sha256": "a9eb8f6e4bc7242fd981e1dc0567945b60caab0d86d179dea7d9a89aa53970a3",
+      "origin": "ai"
+    },
+    "dataList[id=151701].desc": {
+      "pl": "Koniec tury: nie traci Liczników [ChargeRouge]\nzyskuje 1 Licznika [ChargeRouge] za każdym razem, gdy obrażenia [Laceration] uruchamiają się w walce\nPoczątek tury: przywraca 2 SP za każdą 1 Licznika [ChargeRouge] tej jednostki",
+      "kr_sha256": "59c9a3b376f6a40f5786a8811075926da1220bd05830bf53953e51bbc35f0873",
+      "en_sha256": "739ae2fefd01854ff7c4ddf5e9985014f7462fda126d6a38905fa4d10b2a30c2",
+      "origin": "ai"
+    },
+    "dataList[id=151701].flavor": {
+      "pl": "Puls odczuwany całym ciałem, lecz poza zasięgiem słów — suma wszystkich pulsacji rodzących się z samej natury.",
+      "kr_sha256": "772d740b373899789a48bf9afaea8f7cfffb9b110fc1e6f165fe8622be51c0d1",
+      "en_sha256": "11163cf7f29fab94bd9bfbedc2bf09b5173ee59f9946688aa9f629eeda7bfc08",
+      "origin": "ai"
+    },
+    "dataList[id=151701].name": {
+      "pl": "La Jouissance Autre",
+      "kr_sha256": "bb8eb91d9935d320eeea8e60563b5d7f06d137feace774b3613f8135da76e86a",
+      "en_sha256": "d68bc5cdc97ec82d7cc30c730e6b62db56a6c11ad3ab2173d84cdbd33c264c7e",
+      "origin": "ai"
+    },
+    "dataList[id=151701].summary": {
+      "pl": "zyskuje Licznik Pulsacji",
+      "kr_sha256": "0ffba11c2acbb572a9c160e15b950350a4dd6d901721ff68231c3457d193c836",
+      "en_sha256": "f123a47ca2e2dacf816071608e1eadf93bd4f6f15d2c2007d012ca5e62f01074",
+      "origin": "ai"
+    },
+    "dataList[id=151702].desc": {
+      "pl": "rozpoczyna tę walkę z 50% utraconego HP\nNa początku etapu: nakłada [BuffetScruple] na wszystkich wrogów (łącznie z jednostkami w rezerwie)\n\nprzy użyciu Umiejętności, <color=#ff6000><mark=#ff000040><b><u>jeżeli cel ma [BuffetScruple]</u></b></mark></color>, traci 10 SP",
+      "kr_sha256": "3e7b5c0687b74160cecfef6f3429f63cffb34ecfbf7e6e60f4b53251db467567",
+      "en_sha256": "1011c5c1f8567cfadd49eed17a24e9f1e569d399e3644a96cb971c1de8dd450e",
+      "origin": "ai"
+    },
+    "dataList[id=151702].flavor": {
+      "pl": "... Jesteście na samym skraju mojego ciała, a mimo to, jakoś tak, zakorzenieni jesteście także w jego najgłębszej części.",
+      "kr_sha256": "18e291c017264076b83899b658fb7832ee71e503deaf28f1445afc12b5952966",
+      "en_sha256": "85bfec432ee1953b3e8dd2fa1c510fd434a83ab68d43bf14396571f35525fb9f",
+      "origin": "ai"
+    },
+    "dataList[id=151702].name": {
+      "pl": "L'Extimité",
+      "kr_sha256": "bfa2eb47735bfd4f48dbdfbf8da5b8f58f4a11fde7912c4f4dec70a556695bb5",
+      "en_sha256": "b5d3d693c4a5aaeb9c5578d509f4cfe483fcc96053143cba686a6afb75e7a7ba",
+      "origin": "ai"
+    },
+    "dataList[id=151702].summary": {
+      "pl": "traci SP",
+      "kr_sha256": "499d96e4cde46c4a1d27304542110900cdc225d3037959bdd512758cc7ef88de",
+      "en_sha256": "301f6a3218ae0e375c084421d33d832f385b1ea641c6b43a75b6a6310f7e5981",
+      "origin": "ai"
+    },
+    "dataList[id=151703].desc": {
+      "pl": "gdy Grzesznik mający [BuffetScruple] wygra Starcie z określoną Umiejętnością, <color=#ff6000><mark=#ff000040><b><u>The Crimson God zyskuje 1 [BuffetDream]</u></b></mark></color>\ngdy The Crimson God osiągnie 5 Stosów [BuffetDream], przybiera nowy wzorzec; wygranie Starcia z Umiejętnością w tym nowym wzorcu wygrywa walkę\n\npodnosi maks. wartość Siły i Liczników [Combustion], [Laceration], [Vibration], [Burst] i [Sinking] odpowiednio do 50 i 15\n\notrzymuje -50% obrażeń HP i SP od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\n- Panika zablokowana\n- Koniec tury: jeżeli ta jednostka jest w Panice, jej SP wynosi 0",
+      "kr_sha256": "6341a41302085b7b2297fab090745128f32fd5fe40acf6e6412871aed9f8445c",
+      "en_sha256": "1e1ba15c783d5c315f45174fc17708ab7d8c1e33a688530299e42e4dd46a0308",
+      "origin": "ai"
+    },
+    "dataList[id=151703].flavor": {
+      "pl": "Zobaczyłem swoje odbicie w wodzie. Moje ciało zostało... ukończone...",
+      "kr_sha256": "0ae42f072c7094db0df5630e8351f335a6c5061df0eae6cc5dc3c0cb4b3916b1",
+      "en_sha256": "43c72d112cebef26cd913bc232ebc88597313fa2d713b286c4dc8cdf2ae7b9ce",
+      "origin": "ai"
+    },
+    "dataList[id=151703].name": {
+      "pl": "Le Moi",
+      "kr_sha256": "c16f55122357b702f62c103fc3037e35d564c93003b9716a9ccf1dff8a7edbe2",
+      "en_sha256": "925a636f7b07186593ee2607c8fe4fd4bc63d8645d74c158297bc90de143a876",
+      "origin": "ai"
+    },
+    "dataList[id=151704].desc": {
+      "pl": "gdy sojusznik przechodzi w Oszołamienie z powodu obrażeń, <color=#ff6000><mark=#ff000040><b><u>przywraca sojusznika z Oszołamienia, po czym używa Umiejętności „Le Manque-à-être” wywołującej <noparse>Atak Wsparcia</noparse> tego sojusznika</u></b></mark></color> (1 raz na turę)\n\npo śmierci sojusznika, na początku następnej tury przywołuje Ripped Flesh of the Crimson God posiadającego 3 [BuffetRevival]",
+      "kr_sha256": "5bcfeb5be13f65cc7e12cac0f2071fb340285c71969449c5ea6d6b151f53bba8",
+      "en_sha256": "3da10d15baa5b017e377bc4077cb5a366d948610da1188fc221336bd27183a7d",
+      "origin": "ai"
+    },
+    "dataList[id=151704].flavor": {
+      "pl": "Przemoc powodująca, że rzeczy powstają. Bóg Rouge posiada władzę narodzin.\n\nDokąd podąża świadomość, gdy umieramy? A zanim się rodzimy — skąd się bierze?\n\nOdesłanie jej tam i wyrwanie jej stamtąd... to działanie tej samej brutalnej władzy.",
+      "kr_sha256": "2dbf97b0ad60593974bd8b040dfdcd13a121f855eccd47b79b6a3b2832a9c453",
+      "en_sha256": "b271bc5cb06294132e372ddfc99a23e49092217088353a1c36d8844776c87084",
+      "origin": "ai"
+    },
+    "dataList[id=151704].name": {
+      "pl": "Pouvoirs de la vie",
+      "kr_sha256": "fda28661f0ed26eea96e99a0bc3a72d43a8e62e7c42a834ac7eb835e133fedcc",
+      "en_sha256": "49e9eb60e12fe1d0d1e259a3585ef9e63fa062bc0e7becfb9b334c2e7bdbd93b",
+      "origin": "ai"
+    },
+    "dataList[id=151705].desc": {
+      "pl": "Początek tury: jeżeli ta jednostka nie ma [BuffetRouge] i ma 15+ Licznika [ChargeRouge], zużywa wszystkie Liczniki [ChargeRouge] i zyskuje Stosy [BuffetRouge] do maksimum; następnie przywraca 2 SP za każdą 1 zużytego Licznika [ChargeRouge]\n\nprzy użyciu Umiejętności, jeżeli ta jednostka nie ma [BuffetRouge] i ma 10+ Licznika [ChargeRouge], zużywa 10 Licznika [ChargeRouge], aby zyskać Moc Monety +1",
+      "kr_sha256": "e544d155e4e81f00b4db52c424c29165570352cbc6fa5608943b20376f23afef",
+      "en_sha256": "f041ef176157547fd379ad7bf8bc255bb49056031d924c15ad2b958f6232c025",
+      "origin": "ai"
+    },
+    "dataList[id=151705].flavor": {
+      "pl": "Smakowanie rozkoszy życia podlega warunkom. A skoro podlega warunkom, cielesna rozkosz ma granice i kres — i z konieczności kończy się fiaskiem.\n\nWyznaczone limity i kres przesądziły o tym.",
+      "kr_sha256": "134d0060af205c03a3adef08932d3d4585ec64179419b4549204be525f138963",
+      "en_sha256": "5958e212fb10b8743b821e5272fe6cf14a693a93b210717194c5c7936fbde7e9",
+      "origin": "ai"
+    },
+    "dataList[id=151705].name": {
+      "pl": "La Jouissance phallique",
+      "kr_sha256": "8d9495620a556a10e3b3afc49bbd9dadbf9c59897180a33c962342aea1013a5f",
+      "en_sha256": "b3901451ba8627b6a79e0c689b236fe20c62623a40889e47ce6af6f2a1fee931",
+      "origin": "ai"
+    },
+    "dataList[id=151705].summary": {
+      "pl": "zużywa Licznik Pulsacji, aby zyskać Moc Monety",
+      "kr_sha256": "d8594a314fc62e2ef8b26f9552d5df5d2a844cd9faaaec7751826b7371698323",
+      "en_sha256": "282ef25e374db642ba45e50196753acbd6030cf94db2c90805b947e2b28e16dd",
+      "origin": "ai"
+    },
+    "dataList[id=151706].desc": {
+      "pl": "po zakończeniu ataku, jeżeli główny cel ma <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>,\nużywa <color=#ff6000><mark=#ff000040><b><u>potężnej Umiejętności</u></b></mark></color> przeciwko zaatakowanemu głównemu celowi (1 raz na turę)",
+      "kr_sha256": "a74155948b9e14f900970bf7763e91cff4bccd3dbf62ff615c02e305697383a0",
+      "en_sha256": "13baa6623187cf31ff1a62d813aa6572032149aae2b2999b75c7da4ff4a75970",
+      "origin": "ai"
+    },
+    "dataList[id=151706].flavor": {
+      "pl": "Wypchnięty narząd zostaje wbity w innego i woła mnie spoza granicy.\n\nCzy ten przymus powrotu do miejsca narodzin to popęd śmierci, czy popęd życia?",
+      "kr_sha256": "8c875d867d9ff1d6dc4de01c3ed397028add02ca94cb4f17a159e0b390573a41",
+      "en_sha256": "084b997e7e5f6946fbaadee9c61badd64b33bb5f6f4b321d9f067b13fe9e4f45",
+      "origin": "ai"
+    },
+    "dataList[id=151706].name": {
+      "pl": "La Moisson",
+      "kr_sha256": "0eb85e4ec55b88faca08e62128414be4dc73b8b45e3f887d5748ac39e45027a5",
+      "en_sha256": "95c6d92f28a50997bad47fa9ca40efa32c2279c068736447c0c5e0ac3654a1d8",
+      "origin": "ai"
+    },
+    "dataList[id=151707].desc": {
+      "pl": "zyskuje 1 Siły Pulsacji za każde 10 łącznie zużytych Liczników [ChargeRouge] tej jednostki w tej walce\n\nzyskuje wszystkie poniższe efekty zależnie od Siły [ChargeRouge] tej jednostki:\n- 1+: zadaje +(Siła [ChargeRouge] x 20)% obrażeń, jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu\n- 2+: Moc Końcowa Umiejętności +1\n- 3+: Umiejętności nakładają dodatkowo +1 Siły [Laceration]\n- 4+: Moc Monety Umiejętności +1\n- 5+: nie traci Stosów [BuffetRouge]",
+      "kr_sha256": "47320ae080c2d6bb67d94dbb9a945e126852e3323287aa7fcf4413ae80ceaaa3",
+      "en_sha256": "8be11ea5c0814d32463deaa2b911f25424e1d64655495c841f7875fb3f1f6a2c",
+      "origin": "ai"
+    },
+    "dataList[id=151707].flavor": {
+      "pl": "Przeznaczona i nieunikniona pożądliwość żyjących, tych, którzy przyszli na świat.\nPotrzeba jak przekleństwo, której nieuchronność przeplata się z losem.",
+      "kr_sha256": "d9d91ae2f0a21e2d899dddc6553ac8f3a7d80a5a5c100798ec7b0d65efe107d6",
+      "en_sha256": "4bc4fecd412915d15d61704b19425758d04cfe88f2f3de16aa44776eea0d5718",
+      "origin": "ai"
+    },
+    "dataList[id=151707].name": {
+      "pl": "Le Besoin",
+      "kr_sha256": "f93668524c8d40ac37b02b0701295658d46b41bff8710da64a5d5a453874c55a",
+      "en_sha256": "9c98adc047990104d43557dbd5058b01da6658d66875998c0fd67ede72492c7b",
+      "origin": "ai"
+    },
+    "dataList[id=151707].summary": {
+      "pl": "wzmacnia Umiejętności zależnie od Siły Pulsacji",
+      "kr_sha256": "481968a6dddef1c8497c17d99a3baf9b3535188625e1b063afd8fc479da8dd5c",
+      "en_sha256": "76a05415171bc2220343a8478960788645dfaa43c2d3324448cd950facbba62b",
+      "origin": "ai"
+    },
+    "dataList[id=151708].desc": {
+      "pl": "jeżeli spełniony jest 1 z poniższych warunków, przybiera nowy wzorzec:\n- <color=#ff6000><mark=#ff000040><b><u>posiada 3 Stosy [BuffetDream]</u></b></mark></color>\n- aktualne HP spada poniżej 25% Maks. HP",
+      "kr_sha256": "c21f44f6d6369074e2ae33c3a759f338cd6c410c21a07af6b88b4a9da17e55bc",
+      "en_sha256": "c6de100990cd993a42f772326cabf21a7e3ac86b57ebca0a2c66ae3398deb02f",
+      "origin": "ai"
+    },
+    "dataList[id=151708].flavor": {
+      "pl": "Keep teaching me things... I wanna go with you...",
+      "kr_sha256": "829b863d011dd6d100855906388f2b21d486e75be219edbc24a2c81277998535",
+      "en_sha256": "fc70a23e763bf8591a56c9ae5bdf0bc853fb5c86e6b8e74bb16d8846e98c6334",
+      "origin": "ai"
+    },
+    "dataList[id=151708].name": {
+      "pl": "Time to Answer",
+      "kr_sha256": "7ebf59e0404c7be52532122e99936318f1fed5d92e97533f33a3cf91210be980",
+      "en_sha256": "b128e1d2a026c5f32440e82d7b11455f374cd368b07bf4d7e81d8798c1cb0891",
+      "origin": "ai"
+    },
+    "dataList[id=151709].desc": {
+      "pl": "Początek tury: zyskuje 2 [Protection] za każdego Le Rouge Senior Staff na polu\n- traci 2 [Protection] za każdym razem, gdy Le Rouge Senior Staff zostanie pokonany\n\njeżeli <color=#ff6000><mark=#ff000040><b><u>wszyscy Le Rouge Senior Staff zostali pokonani</u></b></mark></color>, stosuje następujące efekty:\n- zyskuje 2 [Vulnerable]\n- przy użyciu Umiejętności, jeżeli cel <color=#ff6000><mark=#ff000040><b><u>ma [BuffetScruple], Moc Monety -1</u></b></mark></color>",
+      "kr_sha256": "097b4e489f3d0db4bcb5639f0399852660c159de6bfe6064625f8788c428f76a",
+      "en_sha256": "7bb1c868dc69376fa90eded476999188b8fbb4acf6520fa141419c0c79a24c9a",
+      "origin": "ai"
+    },
+    "dataList[id=151709].flavor": {
+      "pl": "Will you still... hold my hand?",
+      "kr_sha256": "ade061b3ee3d037b0460e2b75a58045f4859aff23529334f9c05f7a19c6bf397",
+      "en_sha256": "13c17a5e2bad506b543aa57b6ed1a203e5d8a404294e3116f12a05baa990861d",
+      "origin": "ai"
+    },
+    "dataList[id=151709].name": {
+      "pl": "The hand they could neither push away nor hold",
+      "kr_sha256": "1a96132686583be648deff97db7195ad134ae41bcec081a2d066198e967f34ef",
+      "en_sha256": "dfcf8c6281d434aa5709eb2bbe142be1c8422ad8aa2df0660b96d92f83a6c55d",
+      "origin": "ai"
+    },
+    "dataList[id=151709].summary": {
+      "pl": "traci Moc Monety",
+      "kr_sha256": "41a1fbc95152bb69b511920106bb60d3eb882d293fdc3e5780bf2d5253be2f45",
+      "en_sha256": "f7e332cd970cbd27ef4605776f2267800f4a2ea8647be2b4030e4b79b626eb33",
+      "origin": "ai"
+    },
+    "dataList[id=151801].desc": {
+      "pl": "gdy [BuffetRevival] wygasa, wraca do postaci Le Rouge Senior Staff; przywraca 5 SP za każde 10 HP, które pozostały tej jednostce w postaci Ripped Flesh of the Crimson God; zyskuje 2 Licznika [ChargeRouge]\n- jeżeli zyskane Liczniki [ChargeRouge] osiągnęły 10+, zużywa wszystkie Liczniki [ChargeRouge]; następnie zyskuje 1 [BuffetRouge] w następnej turze za każde 5 zużytych Stosów",
+      "kr_sha256": "d3b503f367b806a836afcc2dc12a9a59b450c49af1888d70a6cd180992481222",
+      "en_sha256": "c88893c3925bc056d667ae2bb06bde30aa6af3e95eed561d589c1019af994cdb",
+      "origin": "ai"
+    },
+    "dataList[id=151801].name": {
+      "pl": "Body Forced to Live Again",
+      "kr_sha256": "6fceb8c81f77128dc17fe8ef0d7904c758893fc76e1c91c7050b8db317357374",
+      "en_sha256": "34cabd315f6f04a808411a12159cfede227c5d4ea19dea2a1ef91eb83f8561e0",
+      "origin": "ai"
+    },
+    "dataList[id=151802].desc": {
+      "pl": "Grzesznicy nie mogą wskazać tej jednostki jako celu",
+      "kr_sha256": "4240477a6f9765cacdeb81016ed046b20d448cb7461194ba82a678b60ccbb36e",
+      "en_sha256": "ca1eadf1377cdca8e6a67b5f3d32a4d4779a5c4b9c39f31d0b244fbe17bf4c0d",
+      "origin": "ai"
+    },
+    "dataList[id=151802].name": {
+      "pl": "Flesh Gummed to the Ground",
+      "kr_sha256": "b61b6a3c9ccd0a5456a8ec97372ef18c2c63c652b4f92e61c5bcefbf2a4350a0",
+      "en_sha256": "f2f58a88f96a07d54479c774dbe4debf104494ae5946b148fdde91906f576cf7",
+      "origin": "ai"
+    },
+    "dataList[id=152001].desc": {
+      "pl": "Koniec tury: nakłada w następnej turze <color=#ff6000><mark=#ff000040><b><u>2 [Binding]</u></b></mark></color> na wszystkich Grzeszników\n- ten efekt nie uruchamia się po zmianie Fazy",
+      "kr_sha256": "21d89b7e086590ec48a4f8eca230c47f0c9d19ee2140ac4a344ac23a0d80231f",
+      "en_sha256": "eaa82889ee234c0575f2ea4d01bf088a42b37e877d0e4da1df1af7119fe4efcb",
+      "origin": "ai"
+    },
+    "dataList[id=152001].flavor": {
+      "pl": "Niech grzesznik będzie związany.",
+      "kr_sha256": "587e53881a0240ab4f5e8c6fa199ec3832c6d9184b81c2e40bd36bfabb668aeb",
+      "en_sha256": "f3f1089f254a5a7a1571edc4e1eaeccd27fa99469cfbce18013f8c442108217a",
+      "origin": "ai"
+    },
+    "dataList[id=152001].name": {
+      "pl": "Chastening Bonds",
+      "kr_sha256": "1c9f21d145bef1aada5181190c6a904ac46799723191f96244e187ed6324b186",
+      "en_sha256": "46e6e857d992e0447b9161d15b54c0acd9667be953705bb9b5dd257f2e17ccdc",
+      "origin": "ai"
+    },
+    "dataList[id=152001].summary": {
+      "pl": "nakłada [Binding] na wszystkich Grzeszników w następnej turze",
+      "kr_sha256": "e073d38d0779bdcc0bce6896e74e58a8947d7d4e3286f9e6c97a123085bb3d66",
+      "en_sha256": "3519ba49ba9090e1d4dcaf80e33cc853dfb07d8e8f41a4737b0aae0b2a2a04e6",
+      "origin": "ai"
+    },
+    "dataList[id=152002].desc": {
+      "pl": "gdy ta jednostka zostanie wskazana jako cel dodatkowy Umiejętności Grzesznika, otrzymuje -50% obrażeń od tej Umiejętności\n\npo śmierci:\n- daje 1 zasób E.G.O dla wszystkich Afinności\n- ostatni Grzesznik, który zaatakował tę jednostkę, przywraca 5 SP\n  · jeżeli ten Grzesznik ma [Binding], zamiast tego przywraca 10 SP\n  · jeżeli nie można ustalić ostatniego Grzesznika, efekty uruchamiają się na Grzeszniku z najniższym SP",
+      "kr_sha256": "023f51fa69831b1c968711d807a89eca1ea565275c9398023438f45f45408cdf",
+      "en_sha256": "8dd7c6ea94ce7ae8eb0796e9307d3efd58294d43e2146e1851d444c18f5f85c9",
+      "origin": "ai"
+    },
+    "dataList[id=152002].name": {
+      "pl": "Sin Aflame",
+      "kr_sha256": "689558e74d23395d205c2792cb984a9791b465f994d0e13baf84bd94a7d516f3",
+      "en_sha256": "6bd45647d366dfeaef4d480ab82f259c91bb60f83f91341911d433869cfe60a6",
+      "origin": "ai"
+    },
+    "dataList[id=152002].summary": {
+      "pl": "otrzymuje mniej obrażeń jako cel dodatkowy\npo śmierci daje zasób E.G.O; przywraca SP atakującemu",
+      "kr_sha256": "25387a3732d3772d1f74e985e902d2ce6242910a5d699af6ae64feb1d36c74d0",
+      "en_sha256": "89dc0cc88a40e94e038128dc16678900a8964982dbb2049d2f47ff968d2e83af",
+      "origin": "ai"
+    },
+    "dataList[id=152101].desc": {
+      "pl": "zyskuje 1 Siły [ChargeRouge] za każde 10 łącznie zużytych Liczników [ChargeRouge] tej jednostki w tej walce\nprzy użyciu Umiejętności, przy 3+ Siły [ChargeRouge], Moc Monety +1\n\nzyskuje Poziom Ataku +1 (maks. 3) i zadaje +20% obrażeń (maks. 60%) za każde 20% utraconego HP",
+      "kr_sha256": "0cab140cc4cc0b9e86ebb318696bfef6ddffbe81ee467d6bebe014dff1243337",
+      "en_sha256": "2a969358ed88101868a01e377ac7f331abaacefdb28a253a6494887287f6cdb7",
+      "origin": "ai"
+    },
+    "dataList[id=152101].name": {
+      "pl": "Emptiness Begets Satiation",
+      "kr_sha256": "2799ab455941e91cc30f8a8f9f6f1067cddeb317a1f25acd62d94ea31df1cdc6",
+      "en_sha256": "2cba5276be1a5649025fff5f1992aa282033e8f69f316b53d8fb3f1cfc74ca2e",
+      "origin": "ai"
+    },
+    "dataList[id=152101].summary": {
+      "pl": "zyskuje Moc Monety",
+      "kr_sha256": "bf5c2f7caf0566d5727d3311c773e60fc5d72f182b7b3d22268aa293e274bd3f",
+      "en_sha256": "8e383fecb177f664831ae26c492a26e77c42d41f19fbc22373011662524bb135",
+      "origin": "ai"
+    },
+    "dataList[id=152102].desc": {
+      "pl": "priorytet: cele o Szybkości niższej niż własna\n\nprzy użyciu Umiejętności, jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, zyskuje Poziom Ataku równy różnicy Szybkości\n\nPoczątek tury: przy 3+ Siły [ChargeRouge] używa potężnej Umiejętności",
+      "kr_sha256": "58ada91c5f76af653cbc20926ec987b5b33a933753e0a2a8b6f8d61517ed5b20",
+      "en_sha256": "e8d6b226af0f10a4fb49929c4c9b2812bcd7a36e6cd5ad5f1fa069f827e8edb4",
+      "origin": "ai"
+    },
+    "dataList[id=152102].flavor": {
+      "pl": "Pulsujący drapieżcy polują na powolne karki, a ich śmiertelność zależy od różnicy prędkości.",
+      "kr_sha256": "8acae5adf3445e95c2ff9ef989e3a60f7f3793dae7a91c487f0812c05ff5d0a8",
+      "en_sha256": "a799a380c6337ecb580b9acb1a31ca8d18def1b607f2b14cb7812670f4379000",
+      "origin": "ai"
+    },
+    "dataList[id=152102].name": {
+      "pl": "The Sickle Seeks the Slow",
+      "kr_sha256": "60ed26fce7bbe02d4eaae3a79555c617aa7863718999190ebb8ff50fab009a80",
+      "en_sha256": "c3a5c047c62f705f9cc8b57767b60ccf2fc2178c13cf3b46aaac4c9b0dcb1a12",
+      "origin": "ai"
+    },
+    "dataList[id=152103].desc": {
+      "pl": "gdy The Crimson God jest na polu, ta jednostka nie traci Liczników [ChargeRouge] na Koniec tury\n\ngdy przechodzi w Oszołamienie od trafienia: gdy ta jednostka dochodzi do siebie po Oszołamieniu dzięki Umiejętności The Crimson God, używa „With sickles mine I answer your calling!” jako atak jednostronny na atakującego",
+      "kr_sha256": "968a2a7676fd591594e23e5d257857e671d5f51809ace1c6febe8f0a71661a58",
+      "en_sha256": "9c19683d3c90630483e96d9870f92a4bcdd5563745e036313dedf28ec34335d6",
+      "origin": "ai"
+    },
+    "dataList[id=152103].flavor": {
+      "pl": "Oddech i tętno nie ustają. Nawet jeśli chcą się zatrzymać — nie ustają.",
+      "kr_sha256": "4e32bfd775bd53a3a04027401914dfd5f2d7d3658162c0f88b95014146d79cff",
+      "en_sha256": "00d966038794af1065933e499b3812c4d2554b882d1a09cb6708c11008b7f10d",
+      "origin": "ai"
+    },
+    "dataList[id=152103].name": {
+      "pl": "Persistent Pulsation Beside The Cherished One",
+      "kr_sha256": "af977063338740e62eefdba9180d821e8923ec7bf98f2bdd9bf6b97c09993c72",
+      "en_sha256": "ed64f96b5152b75dc0063c6657f95124bb8014e03e6c34558e0e70624cca9e20",
+      "origin": "ai"
+    },
+    "dataList[id=152104].desc": {
+      "pl": "po śmierci daje 2 zasoby E.G.O losowej Afinności spośród Afinności z najmniejszą liczbą zasobów",
+      "kr_sha256": "1192da85d128cec3a035d18447c0f3824765f5f346f76e9deab771f92d77c43a",
+      "en_sha256": "608bc17e8bd80856c68fcaa65167ee18e4e93c09a0b2bd83c61ec742862a9351",
+      "origin": "ai"
+    },
+    "dataList[id=152104].flavor": {
+      "pl": "Ślady czyjegoś życia — tego, kto żyje, i tego, który żył.",
+      "kr_sha256": "ea5c3567efdcd8fbf8ae91bba0ea705e34c4160d9852e68375ef85996cc7813e",
+      "en_sha256": "bf20ec7c20775f32d75bd9109c225c1000d88ab96358e61851baa80a83268087",
+      "origin": "ai"
+    },
+    "dataList[id=152104].name": {
+      "pl": "Traces of Life",
+      "kr_sha256": "4b7ee08fa679069044d69382581d3c8ff84a52ef98b1d51d098dc93ab1fa1ed3",
+      "en_sha256": "c605527aab408886f78a5527f20c5f01759260748730391100810cbd165b26ae",
+      "origin": "ai"
+    },
+    "dataList[id=152105].desc": {
+      "pl": "<color=#ff6000><mark=#ff000040><b><u>jeżeli ta jednostka ma [BuffetRouge]</u></b></mark></color>, uruchamia następujące efekty:\n- otrzymuje -50% obrażeń od Umiejętności\n- Początek tury: przywraca SP do maksimum i zyskuje 1 [ChargeRouge]; zyskuje 5 Licznika [ChargeRouge]",
+      "kr_sha256": "3002d3107002b3c617807af9afdc6180905a2be41f4a73d91b189c7002fad5c4",
+      "en_sha256": "fe91b75e2b1f3d37172ed045fae8f9f91afd78c16f871b017b81d0b671f9c1bf",
+      "origin": "ai"
+    },
+    "dataList[id=152105].flavor": {
+      "pl": "Przyjmuje tę władzę całym ciałem.",
+      "kr_sha256": "b3afbc4070c21be26bf41b60a1034bf5d2792e4211a6151c8602de3cf95b2bd4",
+      "en_sha256": "f647395fb32510e7e4b0f373e30980edea674626897e99e1f4c77eddd3731226",
+      "origin": "ai"
+    },
+    "dataList[id=152105].name": {
+      "pl": "Blessings Upon the Flesh",
+      "kr_sha256": "1e0125ca714d7c7e228bad21c89e93048e13c5a9d82aecc14506256bb5f8f0ce",
+      "en_sha256": "87eb59dadb5715f81763d6d2af7bf32876d7c35aad9489360e9f04b105fb95a1",
+      "origin": "ai"
+    },
+    "dataList[id=152201].desc": {
+      "pl": "zyskuje 1 Siły [ChargeKhaki] za każde 10 łącznie zużytych Liczników [ChargeKhaki] tej jednostki w tej walce\n- efekt [ChargeKhaki] „Koniec tury: traci 1 Licznika” się nie uruchamia\n\nKoniec tury: zyskuje Siłę [Breath] równą Licznikom [ChargeKhaki] tej jednostki (maks. 10)\nKoniec tury: zyskuje Licznik [Breath] równy Sile [ChargeKhaki] tej jednostki (maks. 5)\n\notrzymuje -60% obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\n- podniesienie Progu Oszołomienia przez [Vibration] zmniejsza się o 60%\n\nprzy 10+ Starciach z tym samym celem zyskuje Moc Starcia równą (liczba Starć / 10)",
+      "kr_sha256": "98b468e3c786a5a8cf118747f8d403286b53f311f4a4bafff9fd5f05a340c085",
+      "en_sha256": "5540e56c8a56fe15f0cb0b65b8342c9160dc264c3204dfa67bbb0495e8dd26c6",
+      "origin": "ai"
+    },
+    "dataList[id=152201].flavor": {
+      "pl": "Samooszukiwanie.\n\nUcieczka od świata — od świata strachu i niepokoju. Ucieczki szuka się znów i znów.\n\nWbiega na scenę, przybijając się na dobre do miejsca. Jak aktor na scenie, wciela się w rolę całkowicie. Całkowite zanurzenie przechodzi w oszustwo, a oszustwo w samooszukiwanie.",
+      "kr_sha256": "9893321e5c6daf89898e399b40caaf0b08ce523e0e9ede9f97c5da98e380c682",
+      "en_sha256": "854653097e52c8e3f7c80f4fd01b29469b8972782a38aba9880b354feded9c06",
+      "origin": "ai"
+    },
+    "dataList[id=152201].name": {
+      "pl": "Mauvaise Foi",
+      "kr_sha256": "7ab07be949d52954738d1aa7113148fcb12251e346f7566e843c80915dfe5510",
+      "en_sha256": "c56b1b0665a675c5a5e8db7239f9189643ae6ff88969692144f8cd9bf89da1e2",
+      "origin": "ai"
+    },
+    "dataList[id=152202].desc": {
+      "pl": "przy 4+ Starciach w jednym Starciu:\n- od 3. Starcia zwycięzca 3. Starcia zadaje +15% obrażeń za każde wygrane 4. Starcie (maks. 3 razy)\n- jeżeli Umiejętność, która wygrała Starcie, wygrała też pierwsze Starcie, Moc Końcowa +1",
+      "kr_sha256": "6e30770efddcc1fe87db405f6b7f2d93e74f9995ffc5d8e3b746f874ea08467b",
+      "en_sha256": "7de2464761c3469b0a89968e73b02f3c62897bb08c696cf169a7ad9aa5d93179",
+      "origin": "ai"
+    },
+    "dataList[id=152202].flavor": {
+      "pl": "It was a shared experience, wasn't it?",
+      "kr_sha256": "53c4f2164b91f6a0f1c731a67ea200d7f7ca0249dc830a2b09691a4e298e2ce4",
+      "en_sha256": "ee0b39117d25be3eade4bcfefb8baf152f57eba2518bb820de761b33f57cfb88",
+      "origin": "ai"
+    },
+    "dataList[id=152202].name": {
+      "pl": "Remember the rhythm of the waltz?",
+      "kr_sha256": "b54760b28c33129dad0a94d1e916490981e909658f2cff49cfdd29375cf2f087",
+      "en_sha256": "981830f463515f648e5e4dd39484f19a649c515bd0eebedd0f28c353e5642aa0",
+      "origin": "ai"
+    },
+    "dataList[id=152203].desc": {
+      "pl": "<color=#ff6000><mark color=#ff000040><b><u>co 3 tury przywołuje 3 „Grand Magasin Sisyphe Blueprint”</u></b></mark></color> i zyskuje Tarczę równą Maks. HP tej jednostki\n- w tej turze, gdy przechodzi w Oszołamienie, dochodzi do siebie i nie może ponownie przejść w Oszołamienie przez resztę tej tury\n\n<color=#ff6000><mark color=#ff000040><b><u>po zabiciu „Grand Magasin Sisyphe Blueprint” Umiejętnością „Focusing” zyskuje [JeanneDesign]</u></b></mark></color>\n\n<color=#ff6000><mark color=#ff000040><b><u>przy 3 [JeanneDesign] zamienia [JeanneDesign] w [JeanneManager]</u></b></mark></color>\n<color=#ff6000><mark color=#ff000040><b><u>jeżeli nie zabiła ani jednego „Grand Magasin Sisyphe Blueprint” swoją Umiejętnością „Focusing”</u></b></mark></color>, zyskuje 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "c5c483a6765386ee35c4a280dd45f83ce84ec47338aff5f2d0adc8600a5eff77",
+      "en_sha256": "cb1cf80febb7cfa49ac91e05c7403a53a06ee687f09811619821800f8899e422",
+      "origin": "ai"
+    },
+    "dataList[id=152203].flavor": {
+      "pl": "Jeden z czterech Gigantów Wieży Sisyphe.\n\nSpośród nich jest architektką Systemu Sisyphe — krawcową, projektantką; wykonawczynią roli, zawodu albo czegokolwiek, co wznosi świat zgodnie z jej własnym punktem widzenia.\n\nWykrojone na jej miarę, przybite na miejscu, uszyte kawałek po kawałku — to sartorialny świat ukształtowany tak, by mogła spojrzeć na niego bez mdłości.\n\nTo jest Grand Magasin Sisyphe.",
+      "kr_sha256": "eeed2bae9bc1e715d2fdc564e2b60e8006cac0597df2231638ca6be144796e9d",
+      "en_sha256": "ed62c8ff912a55b58b6bade86c040bc832f5168667ded9f955248425652e25ea",
+      "origin": "ai"
+    },
+    "dataList[id=152203].name": {
+      "pl": "Sartre",
+      "kr_sha256": "4c2d91287a5fd30fef60efb242d5b4ca7b50a301adf1feda21132ec82ee4c2ca",
+      "en_sha256": "962182c84542e1d462b156fa165672f78e5f42efdabeb5ffd2ef2db59f2272b8",
+      "origin": "ai"
+    },
+    "dataList[id=152204].desc": {
+      "pl": "rozpoczyna tę walkę z 45 SP\n\ngdy Meursault zostanie pokonany, Grzesznicy przegrywają tę walkę\n\n<color=#ff6000><mark color=#ff000040><b><u>przy HP 50% lub mniej</u></b></mark></color>, przestaje otrzymywać obrażenia i zmienia Fazę\n- przy zmianie Fazy usuwa wszystkie usuwalne negatywne efekty z siebie",
+      "kr_sha256": "961518b82e7885910c48071dd0a011a5709c7d4c578a2b4491faf5864c7c4885",
+      "en_sha256": "02a4e0fc294c29bb80774ba5954174bbf5b69629eda69780716ce180aea27e68",
+      "origin": "ai"
+    },
+    "dataList[id=152204].flavor": {
+      "pl": "Nie chcę, żebyś wychodził na zewnątrz.\n\nChodź raczej ze mną na następną scenę, ma puce.",
+      "kr_sha256": "658a5ecf2150c1a0483819fc0735cc7aa5ae6c9033e1ff30ca414248033634a7",
+      "en_sha256": "0d22ab3d90fadbb7ba0cf30eff510cb6328e2999547de83b6833d603b1ce6f3b",
+      "origin": "ai"
+    },
+    "dataList[id=152204].name": {
+      "pl": "You know, I...",
+      "kr_sha256": "ef5a896303d876d52d67d23e9cb70f95f9ac62a763dab81abf0967dda4c51e5b",
+      "en_sha256": "c29c94fd14d018cd6cb5ac5baa00776eb7131815b2a0e74a3925bf796e456b5d",
+      "origin": "ai"
+    },
+    "dataList[id=152301].desc": {
+      "pl": "nie otrzymuje żadnych obrażeń w tej Fazie\n\nPoczątek tury (1 raz na walkę):\n- Jeanne zyskuje 1 [JeannePartnerTwo] i 1 [JeannePathos]\n- Meursault zyskuje 1 [JeannePartner] i 1 [JeanneLogos]\n\nprzy otrzymaniu ataku jednostronnego albo przegranej w Starciu uruchamia Umiejętność „We had our little quarrels, yes.”\n<color=#ff6000><mark color=#ff000040><b><u>generuje unikalną Umiejętność w górnym slocie Umiejętności Meursaulta</u></b></mark></color>",
+      "kr_sha256": "19e5d73aa949adf5e34d0f61c24c6037e1646dcfe7d589e16cb7e1c34bd6b2e6",
+      "en_sha256": "9e6b9df1d3f0bbceb99a03a71b57fb2018188d0e81d8a93e3649a7ab20f4ffc5",
+      "origin": "ai"
+    },
+    "dataList[id=152301].flavor": {
+      "pl": "That waltz in your memory—let's re-experience it.",
+      "kr_sha256": "77555765463a0eb09c7f61e47bbeea1b15bbcf60c8466f55165312db2ea19c6f",
+      "en_sha256": "180b3c74dc47cc7fc80d52fe90817556626c99e03c9785acb0bfe7f3c407e919",
+      "origin": "ai"
+    },
+    "dataList[id=152301].name": {
+      "pl": "Remember the experience of the waltz?",
+      "kr_sha256": "d09207c6302aed19e1e348ee40aab1eee4d8549967691984084e3d463a9da598",
+      "en_sha256": "3ed2cf0debe1884cb9790806e96caa979ee9ea45f9ad74127ab4c313168e8f91",
+      "origin": "ai"
+    },
+    "dataList[id=152302].desc": {
+      "pl": "gdy Meursault zostanie pokonany, Grzesznicy przegrywają tę walkę\n\nKoniec aktualnej Umiejętności: <color=#ff6000><mark color=#ff000040><b><u>przy 100 [JeannePathos]</u></b></mark></color>, zmienia Fazę\n- przy zmianie Fazy usuwa wszystkie usuwalne negatywne efekty z siebie",
+      "kr_sha256": "ce3581dfed1cad896fdeb35aad8aad130550ecb3e7169dea80c466a2320dfda8",
+      "en_sha256": "f49e3023e69d8e1c06516e7cd61b4e44faaca9ad51f3c897220b45bd530f9395",
+      "origin": "ai"
+    },
+    "dataList[id=152302].flavor": {
+      "pl": "Feeling dizzy? But the climax comes next.",
+      "kr_sha256": "ddc9782a79d9ece45a296da92574e04bab5a0fc05a650ab5212dd38a9dfc1f54",
+      "en_sha256": "3748feeb7401b6cc31e9c441e835add5886634e8c9f6a1e9cdef1bab54678b7d",
+      "origin": "ai"
+    },
+    "dataList[id=152302].name": {
+      "pl": "La Nausée",
+      "kr_sha256": "a6c28149a68a894e5cb3ebff8e4f1ba97aae0765cf69dbe3a41edf97462a5ea4",
+      "en_sha256": "f34c00adbf548526e957fad988e34df51f53398cae0c51b611fa072a5ead92ff",
+      "origin": "ai"
+    },
+    "dataList[id=152401].desc": {
+      "pl": "gdy HP Jeanne spadnie do 10% lub mniej...",
+      "kr_sha256": "e0bf7e051f390531bf421590779110eaa37a794b07513b2cffe5fd85b864a692",
+      "en_sha256": "5d249a738248e76b6ef50b28e9697e2387de72e7c26d86761ba3329bdc06009e",
+      "origin": "ai"
+    },
+    "dataList[id=152401].flavor": {
+      "pl": "Żyjemy w piekle, gdzie na zawsze jesteśmy przybici pod spojrzeniem innych. Więc... powiedz mi wszystko, co czujesz, Meur. Wyrok możesz wydać dopiero później, prawda?",
+      "kr_sha256": "d88aae443005e7e28ae5c03f6d12f81265b11480b8de96ddccace0533880dec1",
+      "en_sha256": "92d58a79813e5e2ba8799588e69976a99b41eec92e413d7c71ec5d4ce63f654d",
+      "origin": "ai"
+    },
+    "dataList[id=152401].name": {
+      "pl": "L'enfer, c'est les autres",
+      "kr_sha256": "6169a593f9faf45dec6955a7037c839643c292de9849d0d53789d2f12b44d6e3",
+      "en_sha256": "e087c13eda57f86635df5d9ea3ecfae590f65f72f92b4636c510f9877760dfa6",
+      "origin": "ai"
+    },
+    "dataList[id=152402].desc": {
+      "pl": "SP tej jednostki jest stałe i wynosi 45\n\nPoczątek tury: przywołuje „Sisyphe System Blueprint - Le Rouge” i „Sisyphe System Blueprint - Le Noir” tak, by na polu było po 2 z każdego\n\nod 2. tury po zmianie Fazy zamienia 1 jednostkę Blueprint w postać „Jeanne Sartre, the Sartorial Tailor”\n- priorytet: jednostki Blueprint bez [Vulnerable]\n- z wyłączeniem jednostki Blueprint, która przeszła w stan „Jeanne Sartre, the Sartorial Tailor” w poprzedniej turze\n- jeżeli jest Oszołamiona, dochodzi do siebie\n\npo wejściu w stan „Jeanne Sartre, the Sartorial Tailor” używa Umiejętności „At least on this stage, everything's set and fixed.”\n- jeżeli Umiejętność Meursaulta wygra Starcie z „At least on this stage, everything's set and fixed.”, ta jednostka Blueprint od następnej tury zyskuje 5 [Vulnerable] co turę\n\nza każdym razem, gdy stan „Jeanne Sartre, the Sartorial Tailor” zostanie zdeaktywowany, od następnej tury 1 jednostka Blueprint wyposaża Umiejętność Jeanne „Rights: Ban”\n- liczba jednostek Blueprint wyposażających Umiejętności Jeanne rośnie łącznie o 1\n\npokonanie jednostki Blueprint uruchamia następujące efekty:\n- Jeanne traci 5% HP\n- wszystkie pozostałe jednostki Blueprint zyskują 1 [JeanneBlueprint]\n- od następnej tury 1 jednostka Blueprint wyposaża Umiejętność Jeanne „Rights: Gaze” zamiast „Rights: Ban”",
+      "kr_sha256": "de613098e7b76b9d6963cfe8220bec6846866008a2b02bbfa332ee3542813012",
+      "en_sha256": "9a794e20eef5f3fe909550b45e2e2b5750cd496ed307c3963484d40ebce86307",
+      "origin": "ai"
+    },
+    "dataList[id=152402].flavor": {
+      "pl": "Dla Jeanne dom towarowy był światem, który mogła postrzegać najwygodniej.\n\nOtrzymała biurko Giganta Le Kaki — rolę, która miała pozostać neutralna. Ale jak sam możesz zobaczyć... chciała rozkwitać we wszystkich tych wspaniałych barwach bardziej niż ktokolwiek. Chciała płonąć pasją, Meur, stać na scenie i tańczyć z tobą.\n\nNiestety nie mogła sobie na to pozwolić. Zbyt wiele spojrzeń, zbyt wiele oczekiwań... aż owinęły się wokół niej jak łańcuchy. Nie mogła rozkwitnąć tak, jak pragnęła. Nawet kiełkujące pragnienie musiała ukryć.\n\nNie mogę usunąć mdłości Jeanne, ale mogę dać jej szansę na bycie sobą — na rozkwitanie bez oglądania się na czyjś wzrok, w tym świecie, w który ją wrzucono. Może, gdy zanurzy się w tej pasji, na chwilę zapomni o mdłościach.\n\nI... nie sądzę, żeby tylko Jeanne tego potrzebowała. Wszyscy w Mieście. Mogą odmówić, ale wierzę, że każdy zasługuje na tę samą szansę.",
+      "kr_sha256": "73081cc35c6219b861eb7057c9589c3ebcdb2b227cb2cdbeef77d17583d4f8a2",
+      "en_sha256": "040ae32748f7974bc81c5f0c0b88f432386642e56b22dd382a7c53d081b1cb01",
+      "origin": "ai"
+    },
+    "dataList[id=152402].name": {
+      "pl": "Gaze: Grand Magasin Sisyphe",
+      "kr_sha256": "7fa807e6d979901e2988deabbbf802b599c07f91cabd229040c0c394d0ed3772",
+      "en_sha256": "c1b1fb26099ba2f54d4faa605e8966419d321f08f1ac1e56e38a7fdc73d23045",
+      "origin": "ai"
+    },
+    "dataList[id=152501].desc": {
+      "pl": "w trakcie walki <color=#ff6000><mark color=#ff000040><b><u>bezpośrednio przed pierwszym otrzymanym trafieniem</u></b></mark></color> <color=#ff6000><mark color=#ff000040><b><u>używa wyposażonego „Department Store Blueprint”</u></b></mark></color> niezależnie od tego, jak Umiejętności tej jednostki są Łączone (1 raz na turę)\n\notrzymuje -50% obrażeń od podstawowych Umiejętności\n\n<color=#ff6000><mark color=#ff000040><b><u>otrzymuje +100% obrażeń od Umiejętności E.G.O</u></b></mark></color>\n\nta jednostka zostaje pokonana, gdy zostanie trafiona Umiejętnością „Focusing” „Jeanne Sartre, the Sartorial Tailor”",
+      "kr_sha256": "2ef0b32dba6cbc0762fe1d7fad95453115e9f03e4d494ab9566d08b413ad1ac9",
+      "en_sha256": "96fdea6439939b01df9331403ca50f5cd280908be62b532de142c55e27fdf17c",
+      "origin": "ai"
+    },
+    "dataList[id=152501].flavor": {
+      "pl": "This is the department store's blueprint.",
+      "kr_sha256": "fc04fbe258ba7a4cb2d0e8aa09a8d4ef595c46881888b45085900a29d4998c34",
+      "en_sha256": "74a957e0581fee96b4d0694c7a1926043d1018ad47e5079b01b93cdb8ef04e41",
+      "origin": "ai"
+    },
+    "dataList[id=152501].name": {
+      "pl": "Outfit Ensemble Blueprint",
+      "kr_sha256": "73073ea9bf174dc9e9fa0db6372bffbc19a7baa480cf70082a42fc654c1d9c7d",
+      "en_sha256": "0a59ae72da993533f5039aae74f9f4f7b7989c9d3abc606649bd3c21ac25ad37",
+      "origin": "ai"
+    },
+    "dataList[id=152502].desc": {
+      "pl": "gdy zostaje pokonany Umiejętnością Grzesznika, daje po 1 zasobie E.G.O z 5 Afinności E.G.O z najmniejszą ilością zasobów (łącznie 5 zasobów)\n(jeżeli 2 lub więcej Afinności ma tyle samo zasobów, rozdzielane losowo)",
+      "kr_sha256": "0b9813e2506243d1d4e9f2de65714bb78d42c29ffc48029aa90f8a39bce0a3f6",
+      "en_sha256": "63b7f874da98a38dc1ce04244d1983d483f0d67f77b95de0123b070436d4ebae",
+      "origin": "ai"
+    },
+    "dataList[id=152502].flavor": {
+      "pl": "Undesigned design.",
+      "kr_sha256": "d8fa67c3a04d0e37a2ff0ec8f1f5ee3b2b5aea077e6417446c73d83b0e69eaf7",
+      "en_sha256": "fac64855743e44647075d1d567105771a06cd698b70ba89aa64794a4c76a2b16",
+      "origin": "ai"
+    },
+    "dataList[id=152502].name": {
+      "pl": "Blueprint of the Self",
+      "kr_sha256": "4412ef765f7f074391d6ad3f4ccf54abe8dba976bed8e666188552447f3058c2",
+      "en_sha256": "f6b8a1df51c59cf8cbffb93150978029bfbfa5f3520bac99cc4f0d59fb4107a3",
+      "origin": "ai"
+    },
+    "dataList[id=152601].desc": {
+      "pl": "w Starciach z tym samym celem zyskuje Moc Starcia +1 za każde 10 Starć\n\nod tury po pojawieniu się na polu 1 jednostka Blueprint przechodzi w <color=#ff6000><mark color=#ff000040><b><u>stan „Jeanne Sartre, the Sartorial Tailor”</u></b></mark></color>\n- priorytet: jednostki Blueprint bez [Vulnerable]\n- z wyłączeniem jednostki Blueprint, która przeszła w stan „Jeanne Sartre, the Sartorial Tailor” w poprzedniej turze\n- jeżeli jest Oszołamiona, dochodzi do siebie\n\npo wejściu w stan „Jeanne Sartre, the Sartorial Tailor” używa <color=#ff6000><mark color=#ff000040><b><u>Umiejętności „At least on this stage, everything's set and fixed.”</u></b></mark></color>\n- jeżeli <color=#ff6000><mark color=#ff000040><b><u>Umiejętność Meursaulta wygra Starcie</u></b></mark></color> z „At least on this stage, everything's set and fixed.”, ta jednostka Blueprint <color=#ff6000><mark color=#ff000040><b><u>zyskuje 5 [Vulnerable] co turę</u></b></mark></color> od następnej tury\n\npokonanie jednostki Blueprint uruchamia następujące efekty:\n- <color=#ff6000><mark color=#ff000040><b><u>Jeanne traci 5% HP</u></b></mark></color>\n- wszystkie pozostałe jednostki Blueprint zyskują 1 [JeanneBlueprint]",
+      "kr_sha256": "c1a9b789cff6e13016967649fedca1d37656319f53d70e6018645341ddb9b9b4",
+      "en_sha256": "6966c6815b8735a93cc3b9f8913afddb3268849374270ba09dd3d72af7c334c5",
+      "origin": "ai"
+    },
+    "dataList[id=152601].name": {
+      "pl": "Pattern: Grand Magasin Sisyphe",
+      "kr_sha256": "767cd50fab3bcb7975975c7cdbae466bd0863393f637f018868f9fbd984fb2a0",
+      "en_sha256": "3ee52320101d14724a0e19428f5b51e8acbe5f412a48d405fb15a1fe06a76f80",
+      "origin": "ai"
+    },
+    "dataList[id=152602].desc": {
+      "pl": "zyskuje 1 Siły [ChargeRouge] za każde 10 łącznie zużytych Liczników [ChargeRouge] tej jednostki w tej walce\n\nefekty Umiejętności tej jednostki nie mogą obniżyć jej HP poniżej 1",
+      "kr_sha256": "c9646519a75a087511bae7c4bed2ec6ab5ebc5938fd616c495f9dc61981ac5cd",
+      "en_sha256": "bf1a7d6869fa11cd2110ebb718748b5923ef14aae5000d6ef9420066f27d678f",
+      "origin": "ai"
+    },
+    "dataList[id=152602].flavor": {
+      "pl": "Spożywa, uzupełnia, zużywa, znów spożywa.\nProste powtórzenia rodzą się z tęsknoty.",
+      "kr_sha256": "ffd207cdd7dfbea35de1c303bd8b86485c21bbc74160f256b9c2e358ed8ba43d",
+      "en_sha256": "2dda9f05a77ac677cec3b95136a16def5c6fef2a20a287a91c665bea44fa4a1e",
+      "origin": "ai"
+    },
+    "dataList[id=152602].name": {
+      "pl": "Metabolic Action and Reaction",
+      "kr_sha256": "2726e5cd67a73e950da46c7344bc2b2966a2fb78ba15bec44fa60f2fa32e61ec",
+      "en_sha256": "d5f977c5a66eb5fcb6a9ae860659866a38379bf154bfe7f67452deebdbc0c99d",
+      "origin": "ai"
+    },
+    "dataList[id=152701].desc": {
+      "pl": "zyskuje 1 Siły [ChargeNoir] za każde 10 łącznie zużytych Liczników [ChargeNoir] tej jednostki w tej walce",
+      "kr_sha256": "ea487dee5427539941f3b412408c4fa60f3046ac916380007c9c02c5060bae85",
+      "en_sha256": "0a632633d11b33227928a59ad54076d9d26c4e3d2539406e8ae7b3a00eeff093",
+      "origin": "ai"
+    },
+    "dataList[id=152701].flavor": {
+      "pl": "Siła jest sprężana, zbierana i umacniana na miejscu. Czasem, żeby zapobiec zmianie, potrzeba większej siły niż by ją wywołać.",
+      "kr_sha256": "3e79f8c381c71f64fff9bb4f3d5bb8460c0cb810e4998a920a33532dce2ad12c",
+      "en_sha256": "16236fac480e333be8909bfb20786099a803dbe97ed5bc550b79e8f3fddd1cb5",
+      "origin": "ai"
+    },
+    "dataList[id=152701].name": {
+      "pl": "Conservation",
+      "kr_sha256": "cb5195070b54c5ad248fe736df48dc198352051f04a57ce223980e1141befa68",
+      "en_sha256": "e43f60bbc4e69bac962d92f4e903eb284d459dd45574a3cdc7d767b5943fb26d",
+      "origin": "ai"
+    }
+  }
+}
