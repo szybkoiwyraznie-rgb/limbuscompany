@@ -1,0 +1,280 @@
+{
+  "entries": {
+    "dataList[id=9009801].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 4 Krwawienia",
+      "kr_sha256": "638b7452497477b83cfa4674a174fa6393c122662d54c62ce4e4245168894d5e",
+      "en_sha256": "f0cfafb6a1370af36aae80940e40efef37ecd0d438a45d58f4a6f96ba026d273",
+      "origin": "ai"
+    },
+    "dataList[id=9009801].levelList[level=1].name": {
+      "pl": "Stab",
+      "kr_sha256": "516b20ce6bf7447a58dd576d4b38bb6f94e70e687f529545011fccdc37bd7e9b",
+      "en_sha256": "289a9c9cffb746ba9e0b6dbd10fc984da5cf6b3cb08f9c3c062baf162cc1cf25",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "60d720e11f31a04d4f3fe52db89ca367b22de525ccfc733a4827cc4841b6879e",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "60d720e11f31a04d4f3fe52db89ca367b22de525ccfc733a4827cc4841b6879e",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Krwawienia",
+      "kr_sha256": "b4c96f772619b6e7aeb9e8dfaf2d34105ae28347df5a78e1cbcb5cf03b0a98e7",
+      "en_sha256": "60d720e11f31a04d4f3fe52db89ca367b22de525ccfc733a4827cc4841b6879e",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].levelList[level=1].desc": {
+      "pl": "[WinDuel] przywraca 5 SP.\nzadaje +5% obrażeń za każde [Laceration] celu",
+      "kr_sha256": "2de6178136413baf79d58091ba5987e4f35941388bf2c5e9902c28add22b9394",
+      "en_sha256": "34877002e2e01c829c853ad54b20e615be8120d06b3a8d3e58be0432e8051155",
+      "origin": "ai"
+    },
+    "dataList[id=9009802].levelList[level=1].name": {
+      "pl": "Tear Up Wound",
+      "kr_sha256": "28a3369f33a79c23a4cd372145f5c5f8123ee80cdfbf1f672d5423dc1d902585",
+      "en_sha256": "b78f821b5e4617c74b8d09e5c60ec4d47b2fbc25fda973c7b22e5d6d2ea7d307",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 5 Oddechu",
+      "kr_sha256": "281f26ed725b59eba04138eb2adf13e0780c14f2f37249b19167941dcddf73d3",
+      "en_sha256": "766e34c79720857f3da713bf76fe41f7d1d026a123e33e6bf76ffa9e17633599",
+      "origin": "ai"
+    },
+    "dataList[id=9009803].levelList[level=1].name": {
+      "pl": "Protect the Town!",
+      "kr_sha256": "ba10d2a95232c30d22887e63b69ebb065530beec4b50332698d4a33574f49e18",
+      "en_sha256": "f457a9d19406d044e58526af4b350a54013b01996b2b9899a22b7b00cddbf987",
+      "origin": "ai"
+    },
+    "dataList[id=9009804].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Wiązania i 2 Spadek Obrażeń w następnej turze",
+      "kr_sha256": "a42359b5400e3b8304de266e58fb8a261203590f48a86efb00948c81ffb4ded8",
+      "en_sha256": "58fafde588d38a7d27a85837f8c2843dd4f2e91c3c783870b133fb8fa46f0977",
+      "origin": "ai"
+    },
+    "dataList[id=9009804].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 5 Oddechu i 2 Licznika Oddechu",
+      "kr_sha256": "16dd544ba6a6d0884803dc98a60274daf9f591601e39f88f8b690c68a00c977a",
+      "en_sha256": "ab6535c42119a31218b80fe6b8d2a00f31927f5b47ba14b380b8764432fffa00",
+      "origin": "ai"
+    },
+    "dataList[id=9009804].levelList[level=1].name": {
+      "pl": "Javelin",
+      "kr_sha256": "e7ccbf856f11b16ab72985246f825995d17c1bac1fdbbfdafda5c2aa43a3c0e2",
+      "en_sha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+      "origin": "ai"
+    },
+    "dataList[id=9009805].levelList[level=1].desc": {
+      "pl": "przy trafieniu, gdy ta jednostka ma Tarczę, zyskuje 1 Wzrost Poziomu Ataku w następnej turze",
+      "kr_sha256": "7efcf11a9e321a5da82e3992eb2d957904acaf90bcc59c0481b0382313287f60",
+      "en_sha256": "fb501ef88a981f32686ee0e0b22fed4ef96cb77c87ca9fc40037c5058ead8d24",
+      "origin": "ai"
+    },
+    "dataList[id=9009805].levelList[level=1].name": {
+      "pl": "Guard",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=9009901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 Licznika Krwawienia",
+      "kr_sha256": "3d05dcfa58ae39348c7601f14141ecbb8b722c98bdf194eaa6a7939f8a69afea",
+      "en_sha256": "b3147887347ce87b612fc1593be37a9190faccf8ff344301d3f42562bac8511d",
+      "origin": "ai"
+    },
+    "dataList[id=9009901].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 1 Licznika Krwawienia",
+      "kr_sha256": "c947e41723f87ca222d3eefffb3a1c41447d4c3a5da93820effbcae6313e0cc5",
+      "en_sha256": "2ee8aa8eee792fd920bc42b796107c44e110dd1f3af47e28481340594f08a3a9",
+      "origin": "ai"
+    },
+    "dataList[id=9009901].levelList[level=1].name": {
+      "pl": "Quick Jabs",
+      "kr_sha256": "a28b69aaa9d0e5fbf606519668d43eb16684c6ff9529a82e80dc265ed01370df",
+      "en_sha256": "2b7a4c74d12d116bf615ee1da61517f6af3c108fc70f565d8b38c32ee6ad7679",
+      "origin": "ai"
+    },
+    "dataList[id=9009902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika Krwawienia",
+      "kr_sha256": "6ceab509a54633259b84e415a3a2235a349d564c34a3832000c04191e9e66442",
+      "en_sha256": "c255b5f313c44e2b133386ec4543b486c341675a2118e1917f111fff70c29df5",
+      "origin": "ai"
+    },
+    "dataList[id=9009902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika Krwawienia",
+      "kr_sha256": "6ceab509a54633259b84e415a3a2235a349d564c34a3832000c04191e9e66442",
+      "en_sha256": "c255b5f313c44e2b133386ec4543b486c341675a2118e1917f111fff70c29df5",
+      "origin": "ai"
+    },
+    "dataList[id=9009902].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika Krwawienia",
+      "kr_sha256": "6ceab509a54633259b84e415a3a2235a349d564c34a3832000c04191e9e66442",
+      "en_sha256": "c255b5f313c44e2b133386ec4543b486c341675a2118e1917f111fff70c29df5",
+      "origin": "ai"
+    },
+    "dataList[id=9009902].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Licznika Krwawienia",
+      "kr_sha256": "6ceab509a54633259b84e415a3a2235a349d564c34a3832000c04191e9e66442",
+      "en_sha256": "c255b5f313c44e2b133386ec4543b486c341675a2118e1917f111fff70c29df5",
+      "origin": "ai"
+    },
+    "dataList[id=9009902].levelList[level=1].desc": {
+      "pl": "[WinDuel] przywraca 5 SP.\nzadaje +5% obrażeń za każde [Laceration] celu",
+      "kr_sha256": "2de6178136413baf79d58091ba5987e4f35941388bf2c5e9902c28add22b9394",
+      "en_sha256": "34877002e2e01c829c853ad54b20e615be8120d06b3a8d3e58be0432e8051155",
+      "origin": "ai"
+    },
+    "dataList[id=9009902].levelList[level=1].name": {
+      "pl": "Carve Wound",
+      "kr_sha256": "06734f4712239d7b5dde031cc770e41df605c6fae2d75d411dd327ab15d33c98",
+      "en_sha256": "7901420e32bb903dda8fc33343741a44a9b5be1d5ad29c75af0e394b77cc5905",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje 1 Licznika Oddechu",
+      "kr_sha256": "170b48036df95227d4650bed313e0004da45940e7bdda9d9857a5e8b62d9669f",
+      "en_sha256": "485ed4246c28120a45051564aa71bc944ed8daddad3799354830cd26052064ca",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przywraca 4 SP",
+      "kr_sha256": "573639fb25ff90a314b3346d8cd2b8f21dcdfcbd360b20fd8a04eecb74cc0d78",
+      "en_sha256": "334270debc4abc822578330756c74d7280db1c702597fd1b1503658ec923e38d",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 5 Oddechu",
+      "kr_sha256": "281f26ed725b59eba04138eb2adf13e0780c14f2f37249b19167941dcddf73d3",
+      "en_sha256": "766e34c79720857f3da713bf76fe41f7d1d026a123e33e6bf76ffa9e17633599",
+      "origin": "ai"
+    },
+    "dataList[id=9009903].levelList[level=1].name": {
+      "pl": "Protect the Town!",
+      "kr_sha256": "ba10d2a95232c30d22887e63b69ebb065530beec4b50332698d4a33574f49e18",
+      "en_sha256": "f457a9d19406d044e58526af4b350a54013b01996b2b9899a22b7b00cddbf987",
+      "origin": "ai"
+    },
+    "dataList[id=9009904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Wiązania i 2 Kruchości w następnej turze",
+      "kr_sha256": "b026954e025e4db3b39f5453b0fa395455a7df0bad647e4aaaae272d94d764a9",
+      "en_sha256": "a78e07da5c57d36c297b3da4c9d9752d620f45baad7ab4836ab1ee86a8228b03",
+      "origin": "ai"
+    },
+    "dataList[id=9009904].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 5 Oddechu i 2 Licznika Oddechu",
+      "kr_sha256": "16dd544ba6a6d0884803dc98a60274daf9f591601e39f88f8b690c68a00c977a",
+      "en_sha256": "ab6535c42119a31218b80fe6b8d2a00f31927f5b47ba14b380b8764432fffa00",
+      "origin": "ai"
+    },
+    "dataList[id=9009904].levelList[level=1].name": {
+      "pl": "Javelin",
+      "kr_sha256": "e7ccbf856f11b16ab72985246f825995d17c1bac1fdbbfdafda5c2aa43a3c0e2",
+      "en_sha256": "3331d5456d2d5b84ac4bc46eb8807cd4b4d2b5f0cd17aa54ad0ccc0362ea8c72",
+      "origin": "ai"
+    },
+    "dataList[id=9009905].levelList[level=1].desc": {
+      "pl": "[OnSucceedEvade] zyskuje 1 Wzrost Poziomu Ataku w następnej turze (maks. 3)",
+      "kr_sha256": "7cd720abfdb37342e72cc1771acfecc7e8fec02fadc6f68075961f9077be0274",
+      "en_sha256": "c37e4de08e50a542fa6c3c725ead78628cba8cac95160f1c8a55f46a1df09319",
+      "origin": "ai"
+    },
+    "dataList[id=9009905].levelList[level=1].name": {
+      "pl": "Evade",
+      "kr_sha256": "36ef7ada0ab2d08d5368ed6d46474882fa1cbad2847f0823b82be92924a17c21",
+      "en_sha256": "53e75daf07ad06bd061504213f73a96169e4ef57d29831d888bf4c38187e2824",
+      "origin": "ai"
+    }
+  }
+}

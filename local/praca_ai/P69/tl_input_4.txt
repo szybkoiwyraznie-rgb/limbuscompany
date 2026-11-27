@@ -1,0 +1,131 @@
+654||(ulepszenie 1) — opis] [WhenUse] 대상의 정신력 3 피해\n[WhenUse] 대상에게 [Burst]이 있다면, [Burst] 위력 4당 기본 위력 +1 (최대 3)|[WhenUse] Inflict 3 SP damage\n[WhenUse] If target has [Burst], Base Power +1 for every 4 [Burst] Potency on target (max 3)
+656||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 6 부여|[OnSucceedAttack] Inflict 6 [Laceration]
+657||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [DefenseDown] 3 부여|[OnSucceedAttack] Inflict 3 [DefenseDown]
+659||(ulepszenie 1) — nazwa] 반...|Cou...
+660||(ulepszenie 1) — opis] 대상에게 [Burst]이 있다면, 최종 위력+ 1|If target has [Burst], Final Power +1
+661||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+662||(ulepszenie 1) — nazwa] 비…켜라|M...ove
+664||(ulepszenie 1) — nazwa] 막지…라|Get... Out of My...
+666||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [AttackDown] 2 부여|[OnSucceedAttack] Inflict 2 [AttackDown]
+670||(ulepszenie 1) — nazwa] 돌…파|Break...through
+671||(ulepszenie 1) — opis] [WhenUse] 대상의 정신력 3 피해\n[WhenUse] 대상에게 [Burst]이 있다면, [Burst] 횟수 3당 기본 위력 +1 (최대 3)|[WhenUse] Inflict 3 SP damage\n[WhenUse] If target has [Burst], Base Power +1 for every 3 [Burst] Count on target (max 3)
+673||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Laceration] 8 부여|[OnSucceedAttack] Inflict 8 [Laceration]
+674||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [AttackDown] 3 부여|[OnSucceedAttack] Inflict 3 [AttackDown]
+676||(ulepszenie 1) — nazwa] ...격|...nter...
+679||(ulepszenie 1) — nazwa] 방어 파괴술|Defense Nullification Technique
+680||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여|[OnSucceedAttack] Inflict 2 [DefenseDown] next turn
+681||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [DefenseDown] 1 부여|[OnSucceedAttackHead] Inflict 1 [DefenseDown] next turn
+682||(ulepszenie 1) — nazwa] 약점 파악|Grasping Vulnerabilities
+683||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 빠르다면, 자신의 정신력 3 회복|[WhenUse] If this unit's Speed is faster than the target's, heal 3 SP on self
+684||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+685||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Vulnerable] 1 부여|[OnSucceedAttackHead] Inflict 1 [Vulnerable]
+687||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttackHead] Inflict 1 [Vulnerable] next turn
+688||(ulepszenie 1) — nazwa] 갑주 파쇄|Armor Fracture
+689||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 빠르다면, [SlashResistDown] 1 부여|[WhenUse] If this unit's Speed is faster than the target's, inflict 1 [SlashResistDown]
+690||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+695||(ulepszenie 1) — opis] [OnSucceedEvade] 자신의 정신력 3 회복|[OnSucceedEvade] Heal 3 SP on self
+696||(ulepszenie 1) — nazwa] 맞받아치기|Counterattack
+697||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여|[OnSucceedAttack] Inflict 2 [AttackDown] next turn
+698||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackDown] 1 부여|[OnSucceedAttackHead] Inflict 1 [AttackDown] next turn
+699||(ulepszenie 1) — nazwa] 제압술|Neutralization Technique
+702||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Paralysis] 2 부여|[OnSucceedAttackHead] Inflict 2 [Paralysis]
+705||(ulepszenie 1) — nazwa] 동작 제압|Immobilisation
+707||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Paralysis] 2 부여|[OnSucceedAttack] Inflict 2 [Paralysis]
+713||(ulepszenie 1) — nazwa] 빗겨쳐내기|Parrying
+715||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [DefenseDown] 2 부여|[OnSucceedAttackHead] Inflict 2 [DefenseDown] next turn
+716||(ulepszenie 1) — nazwa] 저지술|Suppression
+717||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 빠르다면, 자신의 정신력 5 회복|[WhenUse] If this unit's Speed is faster than the target's, heal 5 SP on self
+718||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 2 얻음|[OnSucceedAttack] Gain 2 [Agility] next turn
+722||(ulepszenie 1) — nazwa] 동체 속박술|Restraining Technique
+723||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 빠르다면, [SlashResistDown] 2 부여|[WhenUse] If this unit's Speed is faster than the target's, inflict 2 [SlashResistDown]
+724||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable]
+725||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [DefenseDown] 3 부여|[OnSucceedAttackHead] Inflict 3 [DefenseDown]
+728||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Agility] 3 얻음|[OnSucceedAttack] Gain 3 [Agility] next turn
+729||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [SlashResistDown] 2 부여|[OnSucceedAttack] Inflict 2 [SlashResistDown] next turn
+731||(ulepszenie 1) — nazwa] 정리정돈|Housekeeping
+732||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 빠르다면, 합 위력 +3|[WhenUse] If this unit's Speed is faster than the target's, Clash Power +3
+733||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 15 부여, [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict 15 [Laceration] and +3 [Laceration] Count
+735||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 대상보다 속도가 3이상 빠르면, 이 스킬 재사용 (1회)|[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Skill (once)
+737||(ulepszenie 1) — opis] [OnSucceedEvade] 자신의 정신력 5 회복|[OnSucceedEvade] Heal 5 SP on self
+738||(ulepszenie 1) — nazwa] 쥐잡기|Ratcatching
+739||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]
+740||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Laceration] Count
+741||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Binding] 1 부여|[OnSucceedAttackHead] Inflict 1 [Binding] next turn
+742||(ulepszenie 1) — nazwa] 비틀기|Twisting
+743||(ulepszenie 1) — opis] [WinDuel] 대상의 체력이 100%라면, 피해량 +30%\n[DefeatDuel] [DefenseDown] 3 얻음|[WinDuel] If the target's HP is at 100%, deal +30% damage\n[DefeatDuel] Gain 3 [DefenseDown]
+745||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Laceration] 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 [Laceration] Count
+746||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력이 5이상이면, 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttack] If target has 5+ [Laceration] Potency, inflict 1 [Paralysis] next turn
+747||(ulepszenie 1) — nazwa] 상처 비집기|Exacerbate Wound
+748||(ulepszenie 1) — opis] [WinDuel] [SlashResultUp] 1 얻음|[WinDuel] Gain 1 [SlashResultUp]
+751||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여|[OnSucceedAttackHead] Inflict 2 [Binding] next turn
+752||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력이 7이상이면, 피해량의 20%만큼 추가 피해|[OnSucceedAttack] If target has 7+ [Laceration] Potency, deal 20% of damage dealt as bonus damage
+756||(ulepszenie 1) — nazwa] 신경 비집기|Nerve Mutilation
+763||(ulepszenie 1) — nazwa] 쥐사냥|Rat Hunt
+764||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration]
+765||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+767||(ulepszenie 1) — nazwa] 쥐몰이|Rat Herding
+768||(ulepszenie 1) — opis] [WinDuel] 대상의 체력이 80%이상이라면, 피해량 +50%\n[DefeatDuel] [DefenseDown] 2 얻음|[WinDuel] If the target's HP is at 80%+, deal +50% damage\n[DefeatDuel] Gain 2 [DefenseDown]
+771||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력이 5이상이면, 피해량의 20%만큼 추가 피해 입힘|[OnSucceedAttack] If target has 5+ [Laceration] Potency, deal 20% of damage dealt as bonus damage
+772||(ulepszenie 1) — nazwa] 불청객 처리술|Interloper Banishment
+773||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 3이상 빠르면, 이 스킬 재사용 (최대 1)|[WhenUse] If this unit's Speed is faster than target's by 3 or more, reuse this Skill (once)
+774||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 10 부여|[OnSucceedAttack] Inflict 10 [Laceration]
+776||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력만큼 흐트러짐 손상을 입힘|[OnSucceedAttack] Raise target's Stagger Threshold by value equal to [Laceration] on target
+778||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력이 12이상이면, [AttackDown] 3 부여|[OnSucceedAttack] If target has 12+ [Laceration], inflict 3 [AttackDown]
+779||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 대상의 [Laceration] 위력이 15이상이면, 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] If target has 15+ [Laceration] Potency, inflict 2 [Vulnerable] next turn
+780||(ulepszenie 1) — nazwa] 상자 수여|Box Conferment
+781||(ulepszenie 1) — opis] [WhenUse] 대상보다 속도가 3이상 빠르면, 합 위력 +2\n[WinDuel] 자신의 정신력 10 회복|[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Clash Power +2\n[WinDuel] Heal 10 SP on self
+784||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Combustion] 10 부여|[OnSucceedAttack] Inflict 10 [Combustion]
+787||(ulepszenie 1) — nazwa] 청소 시작|Housekeeping Start
+791||(ulepszenie 1) — nazwa] 불청객 맞이|Interloper Reception
+792||(ulepszenie 1) — opis] [WinDuel] [PlusCoinValueUp] 1 얻음\n[DefeatDuel] [Sinking] 3 얻음|[WinDuel] Gain 1 [PlusCoinValueUp]\n[DefeatDuel] Gain 3 [Sinking]
+793||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Sinking] 8 부여|[OnSucceedAttack] Inflict 8 [Sinking]
+794||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Sinking] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Sinking] Count
+795||(ulepszenie 1) — nazwa] 접객도 2식 구속|Reception Arts 2: Bind
+796||(ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 위력 5당, 기본 위력 +1 (최대 2)|[WhenUse] Base Power +1 for every 5 [Sinking] Potency on target (max 2)
+797||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 1 부여|[OnSucceedAttack] Inflict 1 [Binding] next turn
+801||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking] 위력이 8이상이면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 8+ [Sinking] Potency, Reuse this Coin (1 time max)
+802||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] [DefenseDown] 4, [Vulnerable] 1 부여|[OnSucceedAttackHead] Inflict 4 [DefenseDown] 4 and 1 [Vulnerable]
+804||(ulepszenie 1) — opis] 턴 종료 시 보호막이 남아있다면, 10만큼 흐트러짐 회복\n보호막 체력을 전부 소모했다면, 마지막 공격자 정신력 10 회복|If this unit has remaining Shield HP at Turn End, lower Stagger threshold by 10\nIf this unit's Shield HP is depleted, the last attacker heals 10 SP
+805||(ulepszenie 1) — nazwa] 청소 개시|Commence Housekeeping
+808||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [Paralysis] 1 부여|[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn
+809||(ulepszenie 1) — nazwa] 불청객 응대|Interloper Response
+813||(ulepszenie 1) — nazwa] 접객도 2식 탈력|Reception Arts 2: Topple
+814||(ulepszenie 1) — opis] 대상의 [Sinking] 위력 5당, 기본 위력 +1 (최대 2)|Base Power +1 for every 5 [Sinking] Potency on target (max 2)
+819||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking] 횟수 4이상이면, 이 코인 재사용 (최대 1회)|[OnSucceedAttack] If target has 4+ [Sinking] Count, Reuse this Coin (1 time max)
+820||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackDown] 4, [Paralysis] 1 부여|[OnSucceedAttackHead] Inflict 4 [AttackDown] and 1 [Paralysis] next turn
+823||(ulepszenie 1) — nazwa] 노크|Knocking
+824||(ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 위력이 5이상이면, [AttackDown] 1 부여|[WhenUse] If target has 5+ [Sinking] Potency, inflict 1 [AttackDown]
+829||(ulepszenie 1) — nazwa] 청소 시간이다!|Time to Clean!
+830||(ulepszenie 1) — opis] [WhenUse] 대상의 정신력이 10이하라면, [AttackDown] 2 부여\n[WinDuel] [Vulnerable] 1 부여|[WhenUse] If the target is at 10 or less SP, inflict 2 [AttackDown]\n[WinDuel] Inflict 1 [Vulnerable]
+831||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 더하기 코인 약화 1 부여|[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn
+833||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여|[OnSucceedAttack] Inflict 2 [Vulnerable] next turn
+834||(ulepszenie 1) — nazwa] 마님의 분부대로...!|As Mistress Commands...!
+835||(ulepszenie 1) — opis] [WhenUse] 대상의 [Sinking] 위력 3당 기본 위력 +1 (최대 3)\n[WinDuel] 모든 아군 정신력 5 회복|[WhenUse] Base Power +1 for every 3 [Sinking] Potency on target (max 3)\n[WinDuel] All allies heal 5 SP
+837||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Sinking] 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 [Sinking] Count
+840||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [EchoOfMansion] 2 부여|[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn
+843||(ulepszenie 1) — nazwa] 먼지...한 톨 없이!|Not Even a Speck of Dust!
+844||(ulepszenie 1) — opis] [StartBattle] 자신을 포함한 모든 아군에게 [AttackUp] 3, 정신력 15 회복\n[StartBattle] 자신을 제외한 모든 아군에게 [Vulnerable] 1 부여|[StartBattle] Apply 3 [AttackUp] and heal 15 SP for all allies, including this unit\n[StartBattle] Inflict 1 [Vulnerable] to all other allies
+845||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상의 [Sinking] 위력만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소|[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] Potency on target. Reduce [Sinking] Count on target by 1
+849||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] 대상의 [Sinking] 횟수가 3이상이면, 이 코인 재사용. (최대 2회)|[OnSucceedAttack] If target has 3+ [Sinking] Count, Reuse this Coin (twice)
+850||(ulepszenie 1) — nazwa] 쥐새끼 같은 놈!|Slippery Rat!
+851||(ulepszenie 1) — opis] 턴 종료 시 보호막이 남아있다면, 50만큼 흐트러짐 회복\n보호막 체력을 전부 소모했다면, 모든 적의 정신력 10 회복|If this unit has remaining Shield HP at Turn End, lower Stagger threshold by 50\nIf this unit's Shield HP is depleted, all enemies heal 10 SP
+853||Pasywka wroga [9011601] — nazwa] 너로...구|It's... you...
+854||Pasywka wroga [9011601] — opis] 전투 시작 시 체력이 가장 낮은 적이라면, 피해량 +10%|Deal +10% damage to targets with the least HP
+855||Pasywka wroga [9011601] — podsumowanie] 피해량 +10%|Damage +10%
+856||Pasywka wroga [9011801] — nazwa] ...|...
+857||Pasywka wroga [9011801] — opis] 합 패배시, 대상의 정신력 3 피해|Target takes 3 SP damage if this unit loses the clash
+858||Pasywka wroga [9011801] — podsumowanie] 대상의 정신력 3 피해|Target takes 3 SP damage
+859||Pasywka wroga [9012001] — nazwa] 정돈|Cleaning
+860||Pasywka wroga [9012001] — opis] 스킬 사용시 대상의 체력이 50%미만일 때, 스킬 위력 +1|When using a Skill, if target's HP is below 50%, Skill Power +1
+861||Pasywka wroga [9012001] — podsumowanie] 스킬 위력 +1|Skill Power +1
+862||Pasywka wroga [9012201] — nazwa] 정리|Organizing
+863||Pasywka wroga [9012201] — opis] 스킬 사용 시 대상의 체력이 50%미만일 때, 피해량 +30%|When using a Skill, if target's HP is below 50%, deal +30% damage
+864||Pasywka wroga [9012201] — podsumowanie] 피해량 +30%|Damage +30%
+865||Pasywka wroga [9012301] — nazwa] 독 안에 든 쥐|Dead End
+866||Pasywka wroga [9012301] — opis] 스킬 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +1|When using a Skill, if this unit's Speed is faster than the target's, Clash Power +1
+867||Pasywka wroga [9012301] — podsumowanie] 합 위력 +1|Clash Power +1
+869||Pasywka wroga [9012501] — opis] 스킬 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +1, 피해량 +20%|When using a Skill, if this unit's Speed is faster than the target's, gain Clash Power +1 and deal +20% damage
+870||Pasywka wroga [9012501] — podsumowanie] 합 위력 +1, 피해량 +20%|Clash Power +1, deal +20% damage
+871||Pasywka wroga [9012601] — nazwa] 최선을... 다하겠습니다|I Will... Do My Best
+872||Pasywka wroga [9012601] — opis] 턴 종료시 흐트러짐 상태가 되었을 때, 정신력 12 회복. 다음 턴에 방어 레벨 감소 2 얻음. (최대 1회)|Turn End: if Staggered, heal 12 SP. Gain 2 Defense Level Down next turn. (one time max)
+873||Pasywka wroga [9012602] — nazwa] 죄송합니다...마님!|Apologies... Mistress!

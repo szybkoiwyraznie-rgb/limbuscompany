@@ -1,0 +1,131 @@
+216||(ulepszenie 1) — opis] [WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%|[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target
+217||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 2 부여|[OnSucceedAttack] Inflict 2 Bleed
+220||(ulepszenie 1) — nazwa] 마을을 지켜!|Protect the Town!
+221||(ulepszenie 1) — opis] [WhenUse] 호흡 5를 얻음|[WhenUse] Gain 5 Poise
+222||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 호흡 횟수 1 증가|[OnSucceedAttack] Gain +1 Poise Count
+223||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 정신력 4 회복|[OnSucceedAttack] Heal 4 SP
+230||(ulepszenie 1) — nazwa] 결박용 투창|Tangling Javelin
+231||(ulepszenie 1) — opis] [WhenUse] 호흡 5, 호흡 횟수 2를 얻음|[WhenUse] Gain 5 Poise and +2 Poise Count
+232||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 결박 부여|[OnSucceedAttack] Inflict Tangle
+233||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 Bind next turn
+234||(ulepszenie 1) — nazwa] 가드|Guard
+235||(ulepszenie 1) — opis] 보호막이 있는 동안 피격 시, 다음 턴 공격 레벨 증가 1을 얻음.|When attacked while this unit has Shield, gain 1 Offense Level Up next turn
+236||(ulepszenie 1) — nazwa] 연속 찌르기|Quick Jabs
+237||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 출혈 횟수 2 증가|[OnSucceedAttackHead] Inflict +2 Bleed Count
+238||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 출혈 횟수 1 증가|[OnSucceedAttackHead] Inflict +1 Bleed Count
+239||(ulepszenie 1) — nazwa] 상처 파고들기|Carve Wound
+241||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 1 증가|[OnSucceedAttack] Inflict +1 Bleed Count
+255||(ulepszenie 1) — nazwa] 포획용 투창|Capturing Javelin
+257||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 포획 부여|[OnSucceedAttack] Inflict Capture
+259||(ulepszenie 1) — nazwa] 회피|Evade
+260||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 공격 레벨 증가 1을 얻음 (최대 3)|[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)
+261||(ulepszenie 1) — nazwa] 사냥 시작|Starting Hunt
+262||(ulepszenie 1) — opis] [StartBattle] 다음 턴에 아군 4명 소환\n[WhenUse] 다음 턴에 대상에게 사냥감의 징표 부여|[StartBattle] Summon 4 allies next turn\n[WhenUse] Apply Prey Mark next turn
+263||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+264||(ulepszenie 1) — nazwa] 작살질|Harpooning
+266||(ulepszenie 1) — nazwa] 꿰뚫는 작살|Piercing Harpoon
+267||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 공격 레벨 감소 3 부여|[OnSucceedAttack] Inflict 3 Offense Level Down
+269||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 출혈 4 부여|[OnSucceedAttack] Inflict 4 Bleed
+270||(ulepszenie 1) — nazwa] 심호흡|Deep Breath
+271||(ulepszenie 1) — opis] [StartBattle] 호흡 10, 호흡 횟수 5을 얻음.\n이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n턴 종료 시 자신을 제외하고 생존한 아군 수만큼 다음 턴에 [PlusCoinValueUp]를 얻음.|[StartBattle] Gain 10 Poise and +10 Poise Count.\nCritical Hits do not consume Poise Count with this Skill.\nTurn End: Gain [PlusCoinValueUp] next turn by the number of surviving other allies.
+272||(ulepszenie 1) — nazwa] 반격|Counter
+273||(ulepszenie 1) — opis] 이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음|Critical Hits do not consume Poise Count with this Skill.
+274||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 2 증가|[OnSucceedAttack] Inflict +2 Bleed Count
+275||(ulepszenie 1) — nazwa] 사냥감 추적|Stalk Prey
+276||(ulepszenie 1) — opis] 크리티컬 시 피해량 +30%|+30% Damage on Critical Hit
+277||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 1 부여|[OnSucceedAttack] Inflict 1 Bleed
+279||(ulepszenie 1) — moneta 2, efekt 2 — opis] [CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상|[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt
+280||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed
+281||(ulepszenie 1) — nazwa] 숨통 끊기|Cut Throat
+282||(ulepszenie 1) — opis] 이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n대상의 [Laceration]당 피해량 +5%\n[WhenUse] 자신에게 호흡이 없는 경우, 턴 종료 시 흐트러짐 상태가 됨.|This Skill does not consume Poise Count upon Critical Hit.\nDeal +5% damage for every [Laceration] on target\n[WhenUse] Staggered at Turn End if this unit does not have Poise on self.
+283||(ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 시 피해량 50%|+50% Damage on Critical Hit
+284||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 흐트러짐 상태로 만듦|[OnSucceedAttack] Stagger target next turn
+285||(ulepszenie 1) — nazwa] 깊은 호흡|Deep Breathing
+286||(ulepszenie 1) — opis] [StartBattle] 호흡 3, 호흡 횟수 5를 얻음.\n이번 턴동안 자신의 호흡 위력만큼 최종 위력이 증가함.\n이번 턴동안 피격 시 호흡 횟수 1 잃음.|[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potency on self.\nFor this turn, lose 1 Poise Count when attacked.
+287||(ulepszenie 1) — nazwa] 생존의 오기|To Survive
+289||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복|[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt
+292||(ulepszenie 1) — nazwa] 지켜...야해|Must... Protect
+293||(ulepszenie 1) — opis] [TurnStartBattle] 이 스킬을 사용할 때 자신의 원호 방어 보호막 수치가 0보다 크면 원호 방어가 발동함.\n[StartBattle] 최대 체력의 10%만큼 원호 방어 보호막 을 얻음.|[TurnStartBattle] Upon using this Skill, if this unit has more than 0 Assist Barrier, activate Assist Defense.\n[StartBattle] Gain 10% of max HP as Assist Barrier.
+294||(ulepszenie 1) — nazwa] 근성의 작살|Persistent Harpoon
+295||(ulepszenie 1) — opis] 스타벅과 동일한 대상 공격 시 최종 위력 +2|Final Power +1 when attacking the same target as Starbuck
+299||(ulepszenie 1) — nazwa] 사냥... 끝내야해|Must Finish Hunt...
+300||(ulepszenie 1) — opis] 이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n대상의 [Laceration]당 피해량 +5%|Critical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration] on target
+302||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 대상을 흐트러짐 상태로 만듦|[OnSucceedAttack] Stagger target next turn
+303||(ulepszenie 1) — nazwa] 후벼파기|Impale
+304||(ulepszenie 1) — opis] [WhenUse] 호흡 횟수 3 증가|[WhenUse] Gain +3 Poise Count
+308||(ulepszenie 1) — nazwa] 뚫어내기|Piercing Thrust
+310||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 1 부여|[OnSucceedAttack] Inflict 1 Fragile next turn
+311||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 방어 레벨 감소 2 부여|[OnSucceedAttack] Inflict 2 Defense Level Down next turn
+312||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 이 코인 재사용 1회 (최대 3회)|[OnSucceedAttackHead] Reuse this Coin once (Max 3)
+313||(ulepszenie 1) — nazwa] 명령을 받들어...|I Follow Orders...
+314||(ulepszenie 1) — opis] [TurnStartBattle] 퀴케그의 원호 방어 보호막 수치가 0보다 크면 원호 공격 효과가 발동함|[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Assist Attack
+316||(ulepszenie 1) — nazwa] 급습|Ambush
+317||(ulepszenie 1) — opis] 크리티컬 시 피해량 50%\n대상의 [Laceration]당 피해량 +5%|Deal +50% damage with Critical Hit\nDeal +5% damage per [Laceration] on target
+318||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+320||(ulepszenie 1) — nazwa] 두려움의 탄식|Fearful Sigh
+321||(ulepszenie 1) — opis] [WhenUse] 호흡 횟수 6 증가|[WhenUse] Gain +6 Poise Count
+325||(ulepszenie 1) — nazwa] 투지의 작살|Determined Harpoon
+326||(ulepszenie 1) — opis] 퀴케그와 동일한 대상 공격 시 최종 위력 +2|Final Power +2 when attacking the same target as Queequeg
+328||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 방어 레벨 감소 5 부여|[OnSucceedAttack] Inflict 5 Defense Level Down next turn
+330||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackTail] 이 코인 재사용 1회 (최대 3회)|[OnSucceedAttackTail] Reuse this Coin once (Max 3)
+331||(ulepszenie 1) — nazwa] 나가기 위해서라면...|To Escape...
+332||(ulepszenie 1) — opis] 크리티컬 시 피해량 100%\n대상의 [Laceration]당 피해량 +5%|Deal +100% damage with Critical Hit\nDeal +5% damage per [Laceration] on target
+335||(ulepszenie 1) — nazwa] 내 지시에 복종해|Obey My Orders
+336||(ulepszenie 1) — opis] [WhenUse] 자신과 자신을 제외하고 정신력이 가장 낮은 아군 1명의 정신력 10 회복|[WhenUse] Heal 10 SP for self and 1 other ally with the least SP
+337||(ulepszenie 1) — nazwa] 내 주위에 서라!|To Me!
+338||(ulepszenie 1) — opis] [StartBattle] 퀴케그에게 다음 턴에 원호 방어 명령을 내림. 자신이 흐트러짐 상태가 되면 명령이 취소됨.|[StartBattle] Order Queequeg to activate Assist Defense next turn. Order is canceled when this unit is Staggered.
+339||(ulepszenie 1) — nazwa] 끝까지 추적해!|Track Them to the End!
+340||(ulepszenie 1) — opis] [StartBattle] 스타벅에게 다음 턴에 원호 공격 명령을 내림. 자신이 흐트러짐 상태가 되면 명령이 취소됨.\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여|[StartBattle] Order Starbuck to activate Assist Attack next turn. Order is canceled when this unit is Staggered.\n[WhenUse] Apply 1 Prey Mark next turn
+341||(ulepszenie 1) — nazwa] 노련한 작살질|Veteran's Harpoon
+344||(ulepszenie 1) — nazwa] 불 같은 작살|Burning Harpoon
+345||(ulepszenie 1) — opis] 메인 공격 대상이 보유한 부정적인 효과 1개당 최종 위력 +1 (최대 5)\n대상의 [Laceration]당 피해량 +5%|Final Power +1 for every negative effect on main target (Max 5)\nDeal +5% damage per [Laceration] on target
+346||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여|[OnSucceedAttack] Inflict 3 Bleed
+348||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 출혈만큼 화상 부여|[OnSucceedAttack] Inflict Burn by Bleed on target
+349||(ulepszenie 1) — nazwa] 바보 같으니!|Foolishness!
+350||(ulepszenie 1) — opis] [WhenUse] 자신의 정신력 5 회복\n[OnSucceedEvade] 대상의 정신력 5 감소|[WhenUse] Heal 5 SP\n[OnSucceedEvade] Target loses 5 SP
+351||(ulepszenie 1) — nazwa] 숨결을 토해내라!|Exhale!
+352||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 사냥감의 징표 1 부여\n[WinDuel] 호흡 4 얻음|[WhenUse] Inflict 1 Prey Mark next turn\n[WinDuel] Gain 4 Poise
+353||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신을 제외한 아군 2명에게 호흡 4 부여.\n아군이 없는 경우, 대신 호흡 횟수 2 증가|[OnSucceedAttack] Apply 4 Poise to 2 other allies.\nIf there are no other allies, gain 2 Poise Count instead.
+354||(ulepszenie 1) — nazwa] 마지막 공포를 날려주마!|Be Fearless!
+355||(ulepszenie 1) — opis] [WhenUse] 자신의 정신력 10 회복. 자신을 제외하고 정신력이 가장 높은 아군 1명의 정신력 10 감소|[WhenUse] Heal 10 SP on self. 1 other ally with the highest SP loses 10 SP
+356||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 횟수 1 증가|[OnSucceedAttack] Inflict +1 Burn Count
+357||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여|[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn
+362||(ulepszenie 1) — nazwa] 죽음의 담금질|Tempering of Death
+363||(ulepszenie 1) — opis] [WhenUse] 정신력이 가장 낮은 아군 1명에게 거역할 수 없는 명령 을 내림\n[DefeatDuel] 정신력이 가장 낮은 아군 1명 흐트러짐 손상 20|[WhenUse] Apply Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] Raise Stagger Threshold by 20 for 1 ally with the lowest SP
+364||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 2 부여|[OnSucceedAttack] Inflict 2 Fragile
+365||(ulepszenie 1) — nazwa] 덤벼봐라!|Strike Me Down!
+370||(ulepszenie 1) — nazwa] 찔러 죽이기|Stab to Kill
+371||(ulepszenie 1) — opis] 최대 체력이 가장 낮은 대상 공격|Targets the unit with the least Max HP
+372||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 공격 레벨 감소 6 부여|[OnSucceedAttack] Inflict 6 Offense Level Down
+374||(ulepszenie 1) — nazwa] 불멸의 영혼|Undying Soul
+375||(ulepszenie 1) — opis] 회피 실패 시에도 재사용 (최대 2회)\n[OnDefeatEvade] 핍의 자아 2 감소|Re-use Evade upon Evade failure (Up to 2 times)\n[OnDefeatEvade] Lose 2 Pip's Ego
+376||(ulepszenie 1) — nazwa] 흐릿한 결백|Murky Innocence
+377||(ulepszenie 1) — opis] [DefeatDuel] 수비 위력 감소 2 얻음. 자신의 정신력 10 감소|[DefeatDuel] Gain 2 Defense Power Down. Lose 10 SP on self
+378||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 창백한 소음 1 부여|[OnSucceedAttackHead] Inflict 1 Pallid Noise
+379||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 마비 1 부여|[OnSucceedAttack] Inflict 1 Paralyze
+381||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 속박 1 부여|[OnSucceedAttack] Inflict 1 Bind next turn
+382||(ulepszenie 1) — nazwa] 죄책감의 무게|Weight of Guilt
+383||(ulepszenie 1) — opis] 최대 체력이 가장 낮은 대상 3명 공격\n[StartBattle] 핍의 자아 5당 기본 위력 +2, 공격 가중치 +1\n[WhenUse] 핍의 자아 3 감소|Targets 3 units with the least Max HP\n[StartBattle] Gain Base Power +2 and Atk Weight +1 for every 5 Pip's Ego\n[WhenUse] Lose 3 Pip's Ego
+384||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 창백한 소음 1 부여|[OnSucceedAttack] Inflict 1 Pallid Noise
+385||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 손상 30|[OnSucceedAttack] Raise Stagger Threshold by 30
+386||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttackHead] 대상의 정신력 10 감소|[OnSucceedAttackHead] Target loses 10 SP
+387||(ulepszenie 1) — nazwa] 뒤덮힌 두려움|Swathed Fear
+388||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 사냥감의 징표 1 부여|[WhenUse] Inflict 1 Prey Mark next turn
+390||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 출혈 3 부여, 출혈 횟수 4 증가|[OnSucceedAttack] Inflict 3 Bleed and +4 Bleed Count
+391||(ulepszenie 1) — nazwa] 꿰뚫린 나약함|Punctured Weakness
+394||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 공격 레벨 감소 3 부여|[OnSucceedAttack] Inflict 3 Offense Level Down next turn
+395||(ulepszenie 1) — nazwa] 탄식의 메아리|Echoing Cry
+396||(ulepszenie 1) — opis] 대상의 출혈 1 당 피해량 +5%\n대상에게 사냥감의 징표 가 없으면 코인 위력 +1\n[DefeatDuel] 정신력 5 감소|Deal +5% damage for every 1 Bleed on target\nIf target does not have Prey Mark, Coin Power +1\n[DefeatDuel] Lose 5 SP
+398||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 무작위 적 3명에게 정신 피해 3|[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies
+407||(ulepszenie 1) — moneta 5, efekt 3 — opis] [OnSucceedAttack] 스타벅의 자아 10당 마지막 코인 1회 재사용|[OnSucceedAttack] Reuse the final Coin once for every 10 Starbuck's Ego
+408||(ulepszenie 1) — nazwa] 혼탁한 궤적|Clouded Path
+410||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 피해량 감소 2 부여|[OnSucceedAttack] Inflict 2 Damage Down
+414||(ulepszenie 1) — nazwa] 탈색된 참회|Bleached Atonement
+415||(ulepszenie 1) — opis] [WhenUse] 퀴케그의 자아 5 감소\n[WinDuel] 방어 레벨 증가 6 얻음\n[DefeatDuel] 정신력 5 감소|[WhenUse] Lose 5 Queequeg's Ego\n[WinDuel] Gain 6 Defense Level Up\n[DefeatDuel] Lose 5 SP
+416||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 창백한 소음 2 부여|[OnSucceedAttack] Inflict 2 Pallid Noise
+417||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상을 흐트러짐 상태로 만듦|[OnSucceedAttack] Stagger target
+418||(ulepszenie 1) — nazwa] 퍼져나오는 백화|Insidious Pallidification
+419||(ulepszenie 1) — opis] [StartBattle] 최대 체력의 10%만큼 보호막을 얻음. 퀴케그의 자아 1 당 최대 체력의 0.5%만큼 보호막을 추가로 얻음.\n 보호막이 있는동안 피격 시 대상의 정신력 5 감소.\n피격 시 퀴케그의 자아 10당 스킬 1회 재사용|[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.5% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego
+422||(ulepszenie 1) — nazwa] 예언을 멸시치 말라|Scorn Not the Prophecy
+423||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Combustion] 5 부여, [Combustion] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Count on target
+441||(ulepszenie 1) — nazwa] 투창|Javelin

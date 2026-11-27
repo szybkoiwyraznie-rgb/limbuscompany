@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=8159].name": {
+      "pl": "Peccatulum Pigritiae?",
+      "kr_sha256": "3467756d37010d0ca57c4ba968de0ceacca3fbe7d8676c899427808eb0246a89",
+      "en_sha256": "9bd7a4e8d5f4eadd039f084c89096c2123f4cf11a38a8ff683f1ca62c80ec578",
+      "origin": "ai"
+    },
+    "dataList[id=8160].name": {
+      "pl": "Peccatulum Gulae?",
+      "kr_sha256": "024128f3c0dbb617f571b7ea7876b942a5db47e1682f359a58f3d24e01e7cd3e",
+      "en_sha256": "3a85ffe9e50a335ad25b55ad8fa1a9564edbc3eb9bede8c73dc2256911713213",
+      "origin": "ai"
+    },
+    "dataList[id=8162].name": {
+      "pl": "Bizarre Dead Rabbits Henchman",
+      "kr_sha256": "d48ef9d645dc41d307685a4b162bfbe9dde04a558500f99592f623b2d6b449ed",
+      "en_sha256": "a303b596b159c646b76890855065299c73dda28936a0fd09e2ecd81cf8f13668",
+      "origin": "ai"
+    },
+    "dataList[id=8163].name": {
+      "pl": "Veiled Dead Rabbits Henchman",
+      "kr_sha256": "afd839655ff2a76280ffe9838cc2c4ed5343953e4771d963f4764a6815e0a154",
+      "en_sha256": "222293d6c086e41c2a74e06a1faa28567e6a789c973dae70733bfa7d023fa56a",
+      "origin": "ai"
+    },
+    "dataList[id=8164].name": {
+      "pl": "Heathcliff?",
+      "kr_sha256": "03d94d276394bbd701e76eaed74ff9e7deaaa0ab1905d1beba469d2b3127fbd1",
+      "en_sha256": "a08926f6b09fb5a48945a33e13ef51a0ae63eabac25e5058d15047c23050ffb6",
+      "origin": "ai"
+    },
+    "dataList[id=8165].name": {
+      "pl": "Hindley, The Reaved Lamenter",
+      "kr_sha256": "6c33ddc95738b771d6f3a23d742dc0ab55bb60d6cd0b063dc1e9dc6e48f9e535",
+      "en_sha256": "02977d433dbf89306282959a2aa0c3a301459ed9636389ce3aea67ba3adb5e35",
+      "origin": "ai"
+    },
+    "dataList[id=8204].name": {
+      "pl": "Dead Rabbits Boss",
+      "kr_sha256": "a2defe41e5f81c3563a8eaf9e6057204dc785a68c06f9133a3eb7e2f98be44ff",
+      "en_sha256": "e42bb334c552fa75f4686e26a942bb1aa0fa1fcf36665bd10af3065eed2c6495",
+      "origin": "ai"
+    },
+    "dataList[id=90128].name": {
+      "pl": "Stubborn Öufi Fixer",
+      "kr_sha256": "6dcb7cf4e0aed726e5c3d86342e7e00fffdc1abe0bd545789c7c4a521cc34710",
+      "en_sha256": "17ac8a3076c9b4ca42ebfe33e729922009b3ea81b237de71c69dc90311ebe723",
+      "origin": "ai"
+    },
+    "dataList[id=90129].name": {
+      "pl": "Precise Öufi Fixer",
+      "kr_sha256": "96c5da3a899ab0eac589ec42bfbd4827735b5542e2c23431ea694d1f31ec2316",
+      "en_sha256": "dde73836592a58ed2a4613cada3acc08acfe527fa78ab06782e7725ab380d3bf",
+      "origin": "ai"
+    },
+    "dataList[id=90130].name": {
+      "pl": "Öufi Assoc. Director",
+      "kr_sha256": "df5716cf53a5d761d919685b0f1780191e74551d7e2b61d4d12cde20bb45bcc7",
+      "en_sha256": "13fe28d565d6cbb0ca046b9026bfcfde28b210158f2f595d26cb013288bef971",
+      "origin": "ai"
+    },
+    "dataList[id=90131].name": {
+      "pl": "Enamored Researcher of the Ring?",
+      "kr_sha256": "14a59093267cd02f794f3c1e84898d14c127236d6edaf4326acc737080c3c9a7",
+      "en_sha256": "32ac4c78601124eaec137333b8dd922402b3e5560184be826a423c1de49db70e",
+      "origin": "ai"
+    },
+    "dataList[id=90132].name": {
+      "pl": "Mad Researcher of the Ring?",
+      "kr_sha256": "b88c0d84b81989ef96b72a97b164e369095952a0bb923e2e55a01e7dd1685feb",
+      "en_sha256": "b79ea311c6a995d7665cb4b261ed06e337a1611d487770c644c9002de8903f93",
+      "origin": "ai"
+    },
+    "dataList[id=90133].name": {
+      "pl": "Pointillist Researcher of the Ring?",
+      "kr_sha256": "51f2ba4d11a8abe70c955e0870c3aaa68bc159f0879bb3b86cbbb0eb17cfa313",
+      "en_sha256": "f471b4405c25b5309775fa121d88c27f80bb76fe3c7f955120f74b755414db81",
+      "origin": "ai"
+    },
+    "dataList[id=90134].name": {
+      "pl": "Bizarre Dead Rabbits Henchman",
+      "kr_sha256": "d48ef9d645dc41d307685a4b162bfbe9dde04a558500f99592f623b2d6b449ed",
+      "en_sha256": "a303b596b159c646b76890855065299c73dda28936a0fd09e2ecd81cf8f13668",
+      "origin": "ai"
+    },
+    "dataList[id=90135].name": {
+      "pl": "Veiled Dead Rabbits Henchman",
+      "kr_sha256": "afd839655ff2a76280ffe9838cc2c4ed5343953e4771d963f4764a6815e0a154",
+      "en_sha256": "222293d6c086e41c2a74e06a1faa28567e6a789c973dae70733bfa7d023fa56a",
+      "origin": "ai"
+    },
+    "dataList[id=91015].name": {
+      "pl": "Hindley",
+      "kr_sha256": "85df691b75ff61152fca02787462b650a2f8791f775b19a036afad9f3072f4da",
+      "en_sha256": "691d800cdf5c1f51f0c06158014bf552c70e611e959ddfcad8a6e4900d6bc122",
+      "origin": "ai"
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "entries": {
+    "dataList[id=810001].desc": {
+      "pl": "jeżeli Candle są zgaszone i przywrócone do pełni HP, zyskuje odporność, dopóki wszystkie Candle nie zostaną zapalone ponownie.\ngdy wszystkie Candle są zapalone, traci odporność.",
+      "kr_sha256": "94f668538f4d9fc1f9adb952e9c53f823010e0c3d6a32dd052c305c730e3d542",
+      "en_sha256": "adb5ca80c005eaa2f126beb87a8085e308a18150126dfa8a9b1108c378e54b10",
+      "origin": "ai"
+    },
+    "dataList[id=810001].name": {
+      "pl": "The All-Illuminating Light",
+      "kr_sha256": "ba77ec07cab73de2d8ae1b28fcfc2a51a489146734ddcf2672d9cdbcf0d091cf",
+      "en_sha256": "38f9d355f81731ca6f6ed0859c3a71a3c8447006930ae34776e7fe87c2205964",
+      "origin": "ai"
+    },
+    "dataList[id=810002].desc": {
+      "pl": "co 4 tury od zgaszenia światła, jeżeli są zgaszone Candle, zapala je sama. HP wszystkich Candle spada do 1.",
+      "kr_sha256": "2ff049921344ec9c47b3db72f1f8f48dc375bf1b5b8330b861357d5e3efa4911",
+      "en_sha256": "d0ee577413d60377491e86fd233a45e2384ec666ae0bbd4b3db526ae8e8feaf7",
+      "origin": "ai"
+    },
+    "dataList[id=810002].name": {
+      "pl": "Darkness Deterred",
+      "kr_sha256": "2fd1d67c8f5ce11e85323dd012ff9679dbd64c6e5a5a457b8d386e690173e8f0",
+      "en_sha256": "4184d256e8d83f56a4a8bd0351c931a74d0eb7987e5b80ce9880ac2d16c37ffd",
+      "origin": "ai"
+    },
+    "dataList[id=810101].desc": {
+      "pl": "Początek tury: jeżeli jej Green Slime wynosi 0, przechodzi w Oszołamienie. Odporności Afinności Pearl maleją o 0.5 każda.\ngdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.",
+      "kr_sha256": "2f0e3d5c9326dc901e6ead9252550c009388543d0c0d30c71d7256019043c841",
+      "en_sha256": "7f5736152ebf73ee1a3a85426e9962cf783350e21611c731007d8c616dd15ea1",
+      "origin": "ai"
+    },
+    "dataList[id=810101].name": {
+      "pl": "Exposed Pearl",
+      "kr_sha256": "49d3e2937e168b6453367b3e038834bf10131601cb9077b225ee2e5aeb72e65c",
+      "en_sha256": "9367aa02efa6d2d1bf50c3b81d468e05cb2dc73c599f7d6a52736f1864ee934f",
+      "origin": "ai"
+    },
+    "dataList[id=810102].desc": {
+      "pl": "przy 10% HP Korpusu przybiera nowy wzorzec.",
+      "kr_sha256": "59f43b700062b298fbc2a3a8b89db1fc2f9abc35e3c2213c60527642b0f1eda4",
+      "en_sha256": "efa5963112a5538743ecb05fa12c847c4f7c9c3afd536d1e2d7a4b12f7a01fa5",
+      "origin": "ai"
+    },
+    "dataList[id=810102].name": {
+      "pl": "Cracked Shell",
+      "kr_sha256": "b8c44874e2c877837b96a27d8f1857f176bd071741f758504575cecaf04ba31f",
+      "en_sha256": "ee744fffa021b5da240fb41c59298f88a1d38881b82d2671c9b29581f365ed68",
+      "origin": "ai"
+    },
+    "dataList[id=810103].desc": {
+      "pl": "część Shell zachowuje swoje odporności nawet w Oszołamieniu.",
+      "kr_sha256": "60328ed5f3e974698d40ecd2459d90b464c3ef1bf8bd69d39e807e78dd94284b",
+      "en_sha256": "8a5c3c6e4b9539798bb7c788038deda0aac62217e675edc249642228c13427f4",
+      "origin": "ai"
+    },
+    "dataList[id=810103].name": {
+      "pl": "Solid Shell",
+      "kr_sha256": "1ff5e175cbb7c152c2200dcdb00b063fbfc4a0c63497bb96c4d964ec30eed8d4",
+      "en_sha256": "878e5002fe01081d14f737e37a245311eecf3cedb4119179ff3b3864b904806c",
+      "origin": "ai"
+    },
+    "dataList[id=810104].desc": {
+      "pl": "w turze użycia Devouring Fluid Szybkość tej części wynosi 1.",
+      "kr_sha256": "31fe1037841cad2cbba1c5a4b86d7a3ac318b8502e305cc82ebf9f0c00a523ff",
+      "en_sha256": "0248814dee30d678e9b4b24d4fd685882dc3e4325ddcd11134bfea7a25dc24c9",
+      "origin": "ai"
+    },
+    "dataList[id=810104].name": {
+      "pl": "Gathering Slime",
+      "kr_sha256": "b7851abe4878f0c4e8123fc88987c78c98bad13b9d773d54815bff187597f5df",
+      "en_sha256": "0a13f8c80583cd0563f16804bce8e81a8cb9210a99eb332677ffc722c3070459",
+      "origin": "ai"
+    },
+    "dataList[id=810201].desc": {
+      "pl": "gdy część Fluorescence zostaje zniszczona, nakłada [AaCePcBb] wszystkim wrogom.\nczęść Fluorescence odrasta po 2 turach.",
+      "kr_sha256": "488b503b0ef762ac376f0ab92ab6bdd5761b52efd4002313d50ec840b5c9900c",
+      "en_sha256": "6f73d7a19221137de2b6c134fcc7343aca81d543fe6ccf26897ebad193470d1c",
+      "origin": "ai"
+    },
+    "dataList[id=810201].name": {
+      "pl": "Expanding Oxygen",
+      "kr_sha256": "b0b0763e2ad1e0570d679d8616b36971f4469386c0d6edcef93f7715b67c290e",
+      "en_sha256": "cac78363c9c4d315941d70f876b6f3754f348acf597d65811f8f464cc12650a4",
+      "origin": "ai"
+    },
+    "dataList[id=810202].desc": {
+      "pl": "od 2. tury, jeżeli część Fluorescence nie jest zniszczona, zyskuje 8 Oddechu w tej turze.\nzwiększa Licznik Oddechu o 3. od 2. tury, jeżeli część Fluorescence jest zniszczona, zyskuje w tej turze 2 Paraliżu i 2 Spadek Obrażeń.",
+      "kr_sha256": "a5e2555d0e3c4e7534f68a117974f358965867d3448af7013903a71937c27bc3",
+      "en_sha256": "00d855c9876c48be963e9cfab4fa41386e60879471b9fd05292e69483beab3ea",
+      "origin": "ai"
+    },
+    "dataList[id=810202].name": {
+      "pl": "Underwater Breathing",
+      "kr_sha256": "691322dacc16c1fac6b4153d9e186dbad2d16919e4291cd1fa611c64ce655016",
+      "en_sha256": "620f621f36fef2c2a8b9dca928a59739260b074b17188b8924c2dd4e2ed1f048",
+      "origin": "ai"
+    },
+    "dataList[id=810203].desc": {
+      "pl": "od 2. tury nakłada 1 Wiązania i 1 Paraliżu Tożsamościom bez [AaCePcBb]; Tożsamości bez [AaCePcBb] tracą 3 SP.",
+      "kr_sha256": "ebdd93b7bca436a2ae4f824af43bbe6fed4f289236c21774e22095140ec3f9c2",
+      "en_sha256": "eefc4702e33b78cff7f09a1bd079055f6aa32afcccdfe43adf96ed4c2ab8cd73",
+      "origin": "ai"
+    },
+    "dataList[id=810203].name": {
+      "pl": "Siltcurrent",
+      "kr_sha256": "a1a7789d9b5522d4bb3a6081d3bc34189f7afdd577204571622615ea96df29e7",
+      "en_sha256": "c6305bdb167ac6432f6163360c7262afadc1c689abf8ef8bb0271bea794addd6",
+      "origin": "ai"
+    },
+    "dataList[id=810301].desc": {
+      "pl": "Początek tury: przy SP innym niż -45 przywraca (liczba innych żyjących sojuszników x 5) SP.\nPoczątek tury: przy SP równym -45, na koniec tury dochodzi do siebie z Paniki i SP wraca do 0.",
+      "kr_sha256": "7a12915c546b8327a3911188bfdc3bfaac9dcc4ae1b53da91273ebc20586264b",
+      "en_sha256": "2483167e56d95ca5248975c1eb53e098258590a4a900bcb08ba53f1ecc4b3e84",
+      "origin": "ai"
+    },
+    "dataList[id=810301].name": {
+      "pl": "Captain's Orders",
+      "kr_sha256": "305cf78f83744d874e9d0c1a1ce652a13dbbc3e7a97d2f5d4b57859a1e29b5d7",
+      "en_sha256": "5ce0a08d3450c334dbec5f830cdf4aac21924c0c1158976442e10ed9ec94d5bf",
+      "origin": "ai"
+    },
+    "dataList[id=810302].desc": {
+      "pl": "za każdym razem, gdy ginie sojusznik frakcji Pequod Town, traci 1 Licznika Oddechu i 10 SP.",
+      "kr_sha256": "9693dae48855d37b14592fc0ebd0f3c43f0890c14da77ff6fde5c42ba232c69b",
+      "en_sha256": "9b4a76ccdee6f709b67e40f828f6482a7ce01dedf5dc364ab1daeb3e013481af",
+      "origin": "ai"
+    },
+    "dataList[id=810302].name": {
+      "pl": "Mutilated Tattoos",
+      "kr_sha256": "ebf0508c9c6724b70f8434f771c08b1399f685c1f0d159d4b864bbb13dee4fbd",
+      "en_sha256": "3fbc8b0339be4362f68924d4246716a3bb3c0570e149244139ec634ffd0f6e37",
+      "origin": "ai"
+    },
+    "dataList[id=810303].desc": {
+      "pl": "im niższe HP tej jednostki, tym więcej obrażeń zadają jej Umiejętności.",
+      "kr_sha256": "3c006bb3671490502f03d74571bbf2869a797cf8e438e338f71c4a49854c8874",
+      "en_sha256": "8d8ec638bbc9b14e69b187cd843258d62b855b5074d794fbf295244379e7ba12",
+      "origin": "ai"
+    },
+    "dataList[id=810303].name": {
+      "pl": "The Indomitable Harpooneer",
+      "kr_sha256": "c6a8e525fad450902d0f95284871d801e12915d1c0b9c08d436361899533fca6",
+      "en_sha256": "6cf80c6d6aa6775ca534a236c400dc7e6ca2a235efcc284fbd33f644c24636cf",
+      "origin": "ai"
+    },
+    "dataList[id=810304].desc": {
+      "pl": "Koniec tury: przy 50% Maks. HP lub mniej przechodzi do Fazy 2.\ndo rozpoczęcia Fazy 2 jej HP nie spada poniżej 1.\nPoczątek Fazy 2: przywraca HP do 50% Maks. HP i przywołuje 4 sojuszników; na początku każdej tury nakłada [AaCePcBj] na 1 wroga z najniższym procentem aktualnego HP.",
+      "kr_sha256": "0b879d9bd8d081aab27eda9f49f165d325bd2f745861e4465fbb4c77d7ed45c7",
+      "en_sha256": "35b7e58a33b88f61dc4faa99cae8274015aa3bcff5efc2b3ce2cfe7e26d6ec87",
+      "origin": "ai"
+    },
+    "dataList[id=810304].name": {
+      "pl": "Injected Hatred and Animosity",
+      "kr_sha256": "b03987c3aaf46c7f952932f17ecd78cb25db52fe93ccc5df81261e843793c26e",
+      "en_sha256": "1f00596ee7634f00cf86c70c969bb0c0acaf949da4a7e7d7ab84cdced8f798db",
+      "origin": "ai"
+    },
+    "dataList[id=810305].desc": {
+      "pl": "przy 1 HP przywraca HP do 50% Maks. HP i zyskuje 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)",
+      "kr_sha256": "718ae738ff9c0f309542ac9e8ffcd8bce6b33a731e26f39417712945e3f2ba5c",
+      "en_sha256": "ae1c034b9135bc3ee0c35fc5524ef6ba63cea501888febc4e0cbad6a00b0f8cf",
+      "origin": "ai"
+    },
+    "dataList[id=810305].name": {
+      "pl": "Engraved Hatred and Animosity",
+      "kr_sha256": "dbc6c91ec75407f803b59c900fa9586ffe320fe48f6a0b5ae16f79cca4c67f95",
+      "en_sha256": "eb115e6ef535e63cf8207df653686515c7d42a734b47c21f5954a8c934978c55",
+      "origin": "ai"
+    },
+    "dataList[id=810306].desc": {
+      "pl": "gdy przechodzi w Oszołamienie i przy SP poniżej 0 na koniec tury, jej SP wraca do 0.",
+      "kr_sha256": "088cc59550cf4cd0d85f05c489ea4114c7bb885653768b07452e25a5d2e413ce",
+      "en_sha256": "06c07eab409a12a876115e97041900ff0996ee66a6a5d792fbd0877b3f4282e5",
+      "origin": "ai"
+    },
+    "dataList[id=810306].name": {
+      "pl": "Clouded Mind",
+      "kr_sha256": "8e7cf2555befa1692082d49c6ce1307a0e0b81b81a2bbffc3a665a12d84a043a",
+      "en_sha256": "446cb9ab7af0c0b43c2b7f250e8c6298f59c2274d564e283cef35e062b942ce9",
+      "origin": "ai"
+    },
+    "dataList[id=810401].desc": {
+      "pl": "Koniec tury: przy 50% HP lub mniej zyskuje 2 Pośpiechu i 2 Wzrost Mocy Ataku w następnej turze. (1 raz na walkę)",
+      "kr_sha256": "f2dd6406dcf9b7ebb196a0335efeb0049993abf0a3802e420b28f5d09b372011",
+      "en_sha256": "a9f27f75c6054ef7efe8238a7ff70cd83e2704ad86694c66067062b19020e4f5",
+      "origin": "ai"
+    },
+    "dataList[id=810401].name": {
+      "pl": "Engraved Hatred and Animosity",
+      "kr_sha256": "dbc6c91ec75407f803b59c900fa9586ffe320fe48f6a0b5ae16f79cca4c67f95",
+      "en_sha256": "eb115e6ef535e63cf8207df653686515c7d42a734b47c21f5954a8c934978c55",
+      "origin": "ai"
+    },
+    "dataList[id=810402].desc": {
+      "pl": "przy trafieniu krytycznym nakłada o 1 więcej negatywnych Efektów efektami Umiejętności.",
+      "kr_sha256": "46e98b47159aaf67098c6101df01ff4221192a28487bd8b96d3dce9eccea2633",
+      "en_sha256": "e0fa2e17c724a0f98b4e8a7cd0bd6da2047b6f8c4d886b602deeaffb452a0468",
+      "origin": "ai"
+    },
+    "dataList[id=810402].name": {
+      "pl": "Puncturing Harpoon",
+      "kr_sha256": "0fbafecf71a7c154c96747cbd4868087dcfda072448e4ddea44be073c83f5772",
+      "en_sha256": "99c4df90249e0825cdbae705ab8daafebf1fe23ac5927f21b1eaa44c325d1d11",
+      "origin": "ai"
+    },
+    "dataList[id=810501].desc": {
+      "pl": "Początek tury: przy SP innym niż -45 przywraca 15 SP.\nKoniec tury: jeżeli jest w Panice, dochodzi do siebie i SP wraca do 0.",
+      "kr_sha256": "0539b6a5eb962e14e7447e68553556727164a10524977b9a46f6fd3611f37620",
+      "en_sha256": "b827330c4e57cbaad92561921e8bec623f75c10956844d6894a3761006a7c421",
+      "origin": "ai"
+    },
+    "dataList[id=810501].name": {
+      "pl": "Captain of the Pequod",
+      "kr_sha256": "1f357d91fd824657e6a7d033d52b0b13147cd009bdca0ad15eb9b1171d514ab0",
+      "en_sha256": "fc582cfd2fc6d28a1be816fe03bbfa59537a1567cf66d4fc9a6b292b4480f6f6",
+      "origin": "ai"
+    },
+    "dataList[id=810503].desc": {
+      "pl": "gdy ta jednostka przechodzi w Oszołamienie, na koniec tury, jeżeli SP wszystkich pozostałych sojuszników jest poniżej 0, ich SP wraca do 0.",
+      "kr_sha256": "9165f02e75a884def5930f3b5f20d61b74e8dcfd80bb9c99df09fa850dbfce2f",
+      "en_sha256": "bc810844d517d49fb72f5b76ca8bdb3fa569d6837ef3e8d28fa72c4a59fe0585",
+      "origin": "ai"
+    },
+    "dataList[id=810503].name": {
+      "pl": "Muddled Orders",
+      "kr_sha256": "3c0e328032e16522d72593b6c81bd5c8e58ea7849fb448fec9e8fe4b7fa537f5",
+      "en_sha256": "bac98634568047530953f4c255e25aaef9bda940be8e35ba1123849445483e71",
+      "origin": "ai"
+    },
+    "dataList[id=810504].desc": {
+      "pl": "Początek Fazy 2: przywraca HP do maksimum; Queequeg i Starbuck nie uruchamiają już pasywki Captain's Orders. Ponadto Queequeg nie przechodzi w Oszołamienie, nawet gdy wartość jej Bariery Wsparcia osiągnie 0.",
+      "kr_sha256": "22e3d79eabded5d0723a86037ac86f3db2da531494902f2ff9a94d4c88d0c39a",
+      "en_sha256": "98de4bd0cfc6bcdbe0d67bef92d0eb4902e7a1eeb5b45af92f65c1217839ae12",
+      "origin": "ai"
+    },
+    "dataList[id=810504].name": {
+      "pl": "Coldhearted Decision",
+      "kr_sha256": "c2b4aa7a112b818fcb7b0783a3c0c093c08afd4d5dd8cf9609aa4c95aa0bb403",
+      "en_sha256": "86ac2d62aefea0058d67de48aea54fa0f45fe9f585bbea7d4584e22bb41e673f",
+      "origin": "ai"
+    },
+    "dataList[id=810601].desc": {
+      "pl": "Początek tury: przy SP innym niż -45 przywraca 15 SP.\nKoniec tury: jeżeli jest w Panice, dochodzi do siebie, SP wraca do 0, a w następnej turze zyskuje 2 Wzrost Mocy Ataku i 2 Wzrost Mocy Obrony.",
+      "kr_sha256": "8dfcb480f4dea57d866bbd98b4730cf7b353ea033e17d31ed6731f464fa6bb80",
+      "en_sha256": "24a77ad539efce1f6d297df949ffd0438b69dad6d68862434f0c57f01f8e2115",
+      "origin": "ai"
+    },
+    "dataList[id=810601].name": {
+      "pl": "Ahab",
+      "kr_sha256": "ac4894adc74717a5896bf26c40bb7b6c2956697328cebdccb62be3be0fb8fca8",
+      "en_sha256": "d155203be2cd4151372961ace4e05da65d923b1498f9d7549c2e2ca51ec6a597",
+      "origin": "ai"
+    },
+    "dataList[id=810602].desc": {
+      "pl": "Początek fazy: zyskuje 20 Pipów.\nKoniec tury: przywraca 3 SP za każde 1 Pipy.\nKoniec tury: jeżeli [AaCePcBo] wynosi 0, przechodzi w Oszołamienie w następnej turze.",
+      "kr_sha256": "723a5ca4d4e7913b57a587a54d995cfc498615dc54c315e8e7ec1284cb4dab6f",
+      "en_sha256": "2618df76afc0bb8336510699c343cb25572f9f3e7f16194547b769811015017a",
+      "origin": "ai"
+    },
+    "dataList[id=810602].name": {
+      "pl": "Pip's Sin and Innocence",
+      "kr_sha256": "bfa79ba829514776654fed49bd9c6ae035849e026bfe577e62e0e997e215c713",
+      "en_sha256": "d5dbb2337e5ec66cf06c9d12290757d26be4ba46a3ea06e58efea4a1d39515ea",
+      "origin": "ai"
+    },
+    "dataList[id=810603].desc": {
+      "pl": "Początek fazy: zyskuje 20 Ego Starbuck.\npo przegranej w Starciu z celem mającym [AaCePcBj] traci 1 [AaCePcBp] za każdą Monetę zniszczoną w Starciu.\nPoczątek tury: zyskuje 1 Ochrony za każde 5 Ego Starbuck.\nKoniec tury: jeżeli [AaCePcBp] wynosi 0, przechodzi w Oszołamienie w następnej turze.",
+      "kr_sha256": "353fb46685726ce76bfeb054274ad72ad51a20eded6901e404411dbbca62d83c",
+      "en_sha256": "781cb57af1c516d9c9560f056061a03a0472d79e22aef136234b857e23e09947",
+      "origin": "ai"
+    },
+    "dataList[id=810603].name": {
+      "pl": "Starbuck's Fears",
+      "kr_sha256": "38a11f895237b08a6ef44ed1cacf533000e17391bbadfdac5e1f2f832d1f4064",
+      "en_sha256": "48bc6894184d80c60816c39246e85ab5eaa5cf655c148d96a965c39c2f02d6bb",
+      "origin": "ai"
+    },
+    "dataList[id=810604].desc": {
+      "pl": "w tej fazie, przy trafieniu krytycznym, nakłada o 1 więcej negatywnych Efektów efektami Umiejętności.",
+      "kr_sha256": "49de7b4af88dee1ce48c4f382cac7b2883eb4b9bcdb4002c7b6bb8269087470d",
+      "en_sha256": "9914ec188dcb56da0dd8f640526cff242e1dc56163356709f042e9ef2d59d5d3",
+      "origin": "ai"
+    },
+    "dataList[id=810604].name": {
+      "pl": "Puncturing Harpoon",
+      "kr_sha256": "0fbafecf71a7c154c96747cbd4868087dcfda072448e4ddea44be073c83f5772",
+      "en_sha256": "99c4df90249e0825cdbae705ab8daafebf1fe23ac5927f21b1eaa44c325d1d11",
+      "origin": "ai"
+    },
+    "dataList[id=810605].desc": {
+      "pl": "Początek fazy: zyskuje 30 Ego Queequeg.\nKoniec tury: jeżeli ta jednostka ma pozostałą Tarczę, odzyskuje 5 Ego Queequeg; jeżeli Tarczy nie ma, traci 10 [AaCePcBq].\nKoniec tury: jeżeli [AaCePcBq] wynosi 0, przechodzi w Oszołamienie w następnej turze.",
+      "kr_sha256": "c7e3791a37a1a775a0da44f6c54c7df994848127732c323620bed47573d0dc17",
+      "en_sha256": "6180024c8e338af7351e2a70934e89e52b3bc6b003e31cc7331e12ada5b9b5ac",
+      "origin": "ai"
+    },
+    "dataList[id=810605].name": {
+      "pl": "Queequeg's Atonement",
+      "kr_sha256": "bf8bab514d7a2dedfc6e1600051322078613f617a57be1f0056eecf97a089970",
+      "en_sha256": "031cb1a37e688bda389428a2912ff39283e507e08ec6bddeff1cd2d3a546a63e",
+      "origin": "ai"
+    },
+    "dataList[id=810606].desc": {
+      "pl": "w tej fazie im niższe HP tej jednostki, tym więcej obrażeń zadaje jej Umiejętnościami.\nzadaje o 1% więcej obrażeń za każde 0.75% utraconego HP\n(maks. 100%; maksimum przy 25% HP)",
+      "kr_sha256": "00aea617b28a205bda94f71ac73065094de574f4f9332cffbd9d6e6e7dfd45e6",
+      "en_sha256": "be147c5f3ed8489ddcbad056da397c6a97489a4d8f61ca5cbd6c13b266547066",
+      "origin": "ai"
+    },
+    "dataList[id=810606].name": {
+      "pl": "The Indomitable Harpooneer",
+      "kr_sha256": "c6a8e525fad450902d0f95284871d801e12915d1c0b9c08d436361899533fca6",
+      "en_sha256": "6cf80c6d6aa6775ca534a236c400dc7e6ca2a235efcc284fbd33f644c24636cf",
+      "origin": "ai"
+    },
+    "dataList[id=810607].desc": {
+      "pl": "za każdym razem, gdy zyskuje Ego innych postaci, Poziom Ataku i Poziom Obrony rosną\npo przegranej w Starciu z określoną Umiejętnością traci SP",
+      "kr_sha256": "326aa074faebb037282d5c483394649ac77bce39d9e2c28a0ff9c5310a3983bb",
+      "en_sha256": "203ce465a0e43ab4aa373a5cf3d1cec450d871613e4634e4c8c6bb696b175012",
+      "origin": "ai"
+    },
+    "dataList[id=810607].name": {
+      "pl": "Price of Nobility",
+      "kr_sha256": "9159dadd4d11d3dd5a840dca91a1d8fff351d8dba550f505d335a58bc3d6d553",
+      "en_sha256": "6271a60dd56d5cc06bb5919bd8928ca850a1b3a19a2523710ac73d928cca320a",
+      "origin": "ai"
+    },
+    "dataList[id=810701].desc": {
+      "pl": "HP nie spada poniżej 1.\nprzy 1 HP zapala Candle i używa Umiejętności ataku.",
+      "kr_sha256": "1f380b0f875e53b687a9605690be3cba7e4dee6f20a01146ccb67e8cace1bd7d",
+      "en_sha256": "d86fac8bde8c19e6dc6827e7c888442710ef67f43743df6df27bb9b70af48e50",
+      "origin": "ai"
+    },
+    "dataList[id=810701].name": {
+      "pl": "Burning Embers",
+      "kr_sha256": "9ef0f9631d5b50e75d2d3ae60715dab7d9023d07332b09196c20024e75621817",
+      "en_sha256": "3707853c32a0100d087d5737b4c7853ce74d1373c738c96ddacff212e59a3246",
+      "origin": "ai"
+    },
+    "dataList[id=810702].desc": {
+      "pl": "gdy wszystkie Candle są zapalone, używa Umiejętności obrony.\ngdy Tarcza się wyczerpie, Candle gasną w następnej turze.",
+      "kr_sha256": "3ce58aa0ef3be25e90f6b82346b9b82b66b3e7dfe92160299bf962f63bb21fc7",
+      "en_sha256": "13e10e47bf31b75467f82483d2b4c34139dea44c445fbdf772bfc411cdd44507",
+      "origin": "ai"
+    },
+    "dataList[id=810702].name": {
+      "pl": "Sinking Darkness",
+      "kr_sha256": "a5cc795d42a5ca52c116d0e596ca9ee7817b252c7519be7c76f5d5373b6573d3",
+      "en_sha256": "13c89f47457718a3d56f5911e785ab3b2b6c389b277f9dc24cee80488a2fc52d",
+      "origin": "ai"
+    },
+    "dataList[id=810801].desc": {
+      "pl": "otrzymuje obrażenia tylko przy wartości równej lub wyższej niż 12.\nobrażenia poniżej 12 są zerowane.",
+      "kr_sha256": "5f93b0339c63fff7ea84177f52a3be8451f8819acd6152c83569f4209bc9f164",
+      "en_sha256": "15abe9f2cf41c4032e02cdf632cbfb3e7009cecc599753e87efb45f362f1de58",
+      "origin": "ai"
+    },
+    "dataList[id=810801].name": {
+      "pl": "Harden",
+      "kr_sha256": "237649b87dd9b0684b119a01bd6bd9078f0feb082e53b7bae47b7584e7c88de1",
+      "en_sha256": "949dbd463e0447f4d2a4e139a0ba8ab3732bc2a193287d9e6653d182180f1c78",
+      "origin": "ai"
+    },
+    "dataList[id=810802].desc": {
+      "pl": "gdy Dream-Devouring Siltcurrent użyje Blind Obsession, a ta jednostka nie zostanie zniszczona do końca tury, zadaje 20 obrażeń losowej Tożsamości.",
+      "kr_sha256": "f3161a8897af5af1a7b29694777fc889c05798f1af66b588870001b028831cbc",
+      "en_sha256": "e23e962eda30873627578c1c0d7087d567d37ecae6f0fb7a3cd8123128283db6",
+      "origin": "ai"
+    },
+    "dataList[id=810802].name": {
+      "pl": "Rolling Flotsam",
+      "kr_sha256": "d57768695f77484c7d10a3f774f06358a16feb7f5322de9514fe4b6dca00095e",
+      "en_sha256": "e1bd8cf5d586f6cc0cd7fcdeb3250e4cd7fa147fbee8eec1853176a2b7ef1129",
+      "origin": "ai"
+    },
+    "dataList[id=810803].desc": {
+      "pl": "przy śmierci HP nie spada poniżej 1.\nstaje się Destroyed Flotsam.",
+      "kr_sha256": "837c7796a921fd88fb9d02af426d16bd313b018ffd3393a02bad4a221d95a441",
+      "en_sha256": "bf58196c3be8cd03d09c55744501794e7f8acbc719b6f2f0a8c4008838fcb4a0",
+      "origin": "ai"
+    },
+    "dataList[id=810803].name": {
+      "pl": "Destroyed Flotsam",
+      "kr_sha256": "1a7a7374c689f4b644eb96658dac224a8c101a58b1fe5ac6e90d3cce52d9d2fc",
+      "en_sha256": "c726ee69d1ea95a97b0fa5051462b6ea08e1b66a17e937a9cb1b945ff3d0629a",
+      "origin": "ai"
+    },
+    "dataList[id=810901].desc": {
+      "pl": "gdy zostaje pokonana przez Ambling Pearl, Ambling Pearl zyskuje 3 Green Slime.",
+      "kr_sha256": "c54dede9af448cf3f51f038f0fdbcc4448373a1f952f221eb391f16b914d0fd2",
+      "en_sha256": "1f2fbc6c1fa28fa83cca468e9c1ccd84e604da4990c7818b1cf5f534084f53e8",
+      "origin": "ai"
+    },
+    "dataList[id=810901].name": {
+      "pl": "Green Slime",
+      "kr_sha256": "00c5339a42d34ae9b39f223f708751fb14b8a298c20ccd286a1addbeac42ae70",
+      "en_sha256": "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9",
+      "origin": "ai"
+    },
+    "dataList[id=810902].desc": {
+      "pl": "Koniec tury: nakłada (2 + liczba żyjących Green Slime) Zatrucia wszystkim wrogom.",
+      "kr_sha256": "2421b33c42519c5845c73ee3799bb09daa6dd1a2b643fe7f393070cde308aad8",
+      "en_sha256": "5998cf2ad00e3893123a4ada695ec67a10c448ab1eae7a3f80c2141c52034457",
+      "origin": "ai"
+    },
+    "dataList[id=810902].name": {
+      "pl": "Contaminating Slime",
+      "kr_sha256": "80f6217ef6c4f20bb2d268211f9ecbcd6ead903fee0271210c89a6b4567cf483",
+      "en_sha256": "6ff3dd1a89a2f48773ddd839def78839954a0140cdf0972a46dedc35f9f212e4",
+      "origin": "ai"
+    },
+    "dataList[id=813601].desc": {
+      "pl": "HP nie spada poniżej 1.\nprzy 1 HP zapala Candle i używa Umiejętności ataku.",
+      "kr_sha256": "1f380b0f875e53b687a9605690be3cba7e4dee6f20a01146ccb67e8cace1bd7d",
+      "en_sha256": "d86fac8bde8c19e6dc6827e7c888442710ef67f43743df6df27bb9b70af48e50",
+      "origin": "ai"
+    },
+    "dataList[id=813601].name": {
+      "pl": "Burning Embers",
+      "kr_sha256": "9ef0f9631d5b50e75d2d3ae60715dab7d9023d07332b09196c20024e75621817",
+      "en_sha256": "3707853c32a0100d087d5737b4c7853ce74d1373c738c96ddacff212e59a3246",
+      "origin": "ai"
+    },
+    "dataList[id=813602].desc": {
+      "pl": "gdy wszystkie Candle są zapalone, używa Umiejętności obrony.\ngdy Tarcza się wyczerpie, Candle gasną w następnej turze.",
+      "kr_sha256": "3ce58aa0ef3be25e90f6b82346b9b82b66b3e7dfe92160299bf962f63bb21fc7",
+      "en_sha256": "13e10e47bf31b75467f82483d2b4c34139dea44c445fbdf772bfc411cdd44507",
+      "origin": "ai"
+    },
+    "dataList[id=813602].name": {
+      "pl": "Sinking Darkness",
+      "kr_sha256": "a5cc795d42a5ca52c116d0e596ca9ee7817b252c7519be7c76f5d5373b6573d3",
+      "en_sha256": "13c89f47457718a3d56f5911e785ab3b2b6c389b277f9dc24cee80488a2fc52d",
+      "origin": "ai"
+    },
+    "dataList[id=813701].desc": {
+      "pl": "Początek tury: jeżeli jej Green Slime wynosi 0, przechodzi w Oszołamienie. Odporności Afinności Pearl maleją o 0.5 każda.\ngdy dochodzi do siebie z Oszołamienia, zyskuje 10 Green Slime.",
+      "kr_sha256": "2f0e3d5c9326dc901e6ead9252550c009388543d0c0d30c71d7256019043c841",
+      "en_sha256": "7f5736152ebf73ee1a3a85426e9962cf783350e21611c731007d8c616dd15ea1",
+      "origin": "ai"
+    },
+    "dataList[id=813701].name": {
+      "pl": "Exposed Pearl",
+      "kr_sha256": "49d3e2937e168b6453367b3e038834bf10131601cb9077b225ee2e5aeb72e65c",
+      "en_sha256": "9367aa02efa6d2d1bf50c3b81d468e05cb2dc73c599f7d6a52736f1864ee934f",
+      "origin": "ai"
+    },
+    "dataList[id=813702].desc": {
+      "pl": "przy 10% HP Korpusu przybiera nowy wzorzec.",
+      "kr_sha256": "59f43b700062b298fbc2a3a8b89db1fc2f9abc35e3c2213c60527642b0f1eda4",
+      "en_sha256": "efa5963112a5538743ecb05fa12c847c4f7c9c3afd536d1e2d7a4b12f7a01fa5",
+      "origin": "ai"
+    },
+    "dataList[id=813702].name": {
+      "pl": "Cracked Shell",
+      "kr_sha256": "b8c44874e2c877837b96a27d8f1857f176bd071741f758504575cecaf04ba31f",
+      "en_sha256": "ee744fffa021b5da240fb41c59298f88a1d38881b82d2671c9b29581f365ed68",
+      "origin": "ai"
+    },
+    "dataList[id=813703].desc": {
+      "pl": "część Shell zachowuje swoje odporności nawet w Oszołamieniu.",
+      "kr_sha256": "60328ed5f3e974698d40ecd2459d90b464c3ef1bf8bd69d39e807e78dd94284b",
+      "en_sha256": "8a5c3c6e4b9539798bb7c788038deda0aac62217e675edc249642228c13427f4",
+      "origin": "ai"
+    },
+    "dataList[id=813703].name": {
+      "pl": "Solid Shell",
+      "kr_sha256": "1ff5e175cbb7c152c2200dcdb00b063fbfc4a0c63497bb96c4d964ec30eed8d4",
+      "en_sha256": "878e5002fe01081d14f737e37a245311eecf3cedb4119179ff3b3864b904806c",
+      "origin": "ai"
+    },
+    "dataList[id=813704].desc": {
+      "pl": "w turze użycia Devouring Fluid Szybkość tej części wynosi 1.",
+      "kr_sha256": "31fe1037841cad2cbba1c5a4b86d7a3ac318b8502e305cc82ebf9f0c00a523ff",
+      "en_sha256": "0248814dee30d678e9b4b24d4fd685882dc3e4325ddcd11134bfea7a25dc24c9",
+      "origin": "ai"
+    },
+    "dataList[id=813704].name": {
+      "pl": "Gathering Slime",
+      "kr_sha256": "b7851abe4878f0c4e8123fc88987c78c98bad13b9d773d54815bff187597f5df",
+      "en_sha256": "0a13f8c80583cd0563f16804bce8e81a8cb9210a99eb332677ffc722c3070459",
+      "origin": "ai"
+    },
+    "dataList[id=813801].desc": {
+      "pl": "gdy zostaje pokonana przez Ambling Pearl, Ambling Pearl zyskuje 3 Green Slime.",
+      "kr_sha256": "c54dede9af448cf3f51f038f0fdbcc4448373a1f952f221eb391f16b914d0fd2",
+      "en_sha256": "1f2fbc6c1fa28fa83cca468e9c1ccd84e604da4990c7818b1cf5f534084f53e8",
+      "origin": "ai"
+    },
+    "dataList[id=813801].name": {
+      "pl": "Green Slime",
+      "kr_sha256": "00c5339a42d34ae9b39f223f708751fb14b8a298c20ccd286a1addbeac42ae70",
+      "en_sha256": "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9",
+      "origin": "ai"
+    },
+    "dataList[id=813802].desc": {
+      "pl": "Koniec tury: nakłada (2 + liczba żyjących Green Slime) Zatrucia wszystkim wrogom.",
+      "kr_sha256": "2421b33c42519c5845c73ee3799bb09daa6dd1a2b643fe7f393070cde308aad8",
+      "en_sha256": "5998cf2ad00e3893123a4ada695ec67a10c448ab1eae7a3f80c2141c52034457",
+      "origin": "ai"
+    },
+    "dataList[id=813802].name": {
+      "pl": "Contaminating Slime",
+      "kr_sha256": "80f6217ef6c4f20bb2d268211f9ecbcd6ead903fee0271210c89a6b4567cf483",
+      "en_sha256": "6ff3dd1a89a2f48773ddd839def78839954a0140cdf0972a46dedc35f9f212e4",
+      "origin": "ai"
+    },
+    "dataList[id=813901].desc": {
+      "pl": "gdy część Fluorescence zostaje zniszczona, nakłada [AaCePcBb] wszystkim wrogom.\nczęść Fluorescence odrasta po 2 turach.",
+      "kr_sha256": "488b503b0ef762ac376f0ab92ab6bdd5761b52efd4002313d50ec840b5c9900c",
+      "en_sha256": "6f73d7a19221137de2b6c134fcc7343aca81d543fe6ccf26897ebad193470d1c",
+      "origin": "ai"
+    },
+    "dataList[id=813901].name": {
+      "pl": "Expanding Oxygen",
+      "kr_sha256": "b0b0763e2ad1e0570d679d8616b36971f4469386c0d6edcef93f7715b67c290e",
+      "en_sha256": "cac78363c9c4d315941d70f876b6f3754f348acf597d65811f8f464cc12650a4",
+      "origin": "ai"
+    },
+    "dataList[id=813902].desc": {
+      "pl": "od 2. tury, jeżeli część Fluorescence nie jest zniszczona, zyskuje 8 Oddechu w tej turze.\nzwiększa Licznik Oddechu o 3. od 2. tury, jeżeli część Fluorescence jest zniszczona, zyskuje w tej turze 2 Paraliżu i 2 Spadek Obrażeń.",
+      "kr_sha256": "a5e2555d0e3c4e7534f68a117974f358965867d3448af7013903a71937c27bc3",
+      "en_sha256": "00d855c9876c48be963e9cfab4fa41386e60879471b9fd05292e69483beab3ea",
+      "origin": "ai"
+    },
+    "dataList[id=813902].name": {
+      "pl": "Underwater Breathing",
+      "kr_sha256": "691322dacc16c1fac6b4153d9e186dbad2d16919e4291cd1fa611c64ce655016",
+      "en_sha256": "620f621f36fef2c2a8b9dca928a59739260b074b17188b8924c2dd4e2ed1f048",
+      "origin": "ai"
+    },
+    "dataList[id=813903].desc": {
+      "pl": "od 2. tury nakłada 1 Wiązania i 1 Paraliżu Tożsamościom bez [AaCePcBb]; Tożsamości bez [AaCePcBb] tracą 3 SP.",
+      "kr_sha256": "ebdd93b7bca436a2ae4f824af43bbe6fed4f289236c21774e22095140ec3f9c2",
+      "en_sha256": "eefc4702e33b78cff7f09a1bd079055f6aa32afcccdfe43adf96ed4c2ab8cd73",
+      "origin": "ai"
+    },
+    "dataList[id=813903].name": {
+      "pl": "Siltcurrent",
+      "kr_sha256": "a1a7789d9b5522d4bb3a6081d3bc34189f7afdd577204571622615ea96df29e7",
+      "en_sha256": "c6305bdb167ac6432f6163360c7262afadc1c689abf8ef8bb0271bea794addd6",
+      "origin": "ai"
+    },
+    "dataList[id=814001].desc": {
+      "pl": "otrzymuje obrażenia tylko przy wartości równej lub wyższej niż 12.\nobrażenia poniżej 12 są zerowane.",
+      "kr_sha256": "5f93b0339c63fff7ea84177f52a3be8451f8819acd6152c83569f4209bc9f164",
+      "en_sha256": "15abe9f2cf41c4032e02cdf632cbfb3e7009cecc599753e87efb45f362f1de58",
+      "origin": "ai"
+    },
+    "dataList[id=814001].name": {
+      "pl": "Harden",
+      "kr_sha256": "237649b87dd9b0684b119a01bd6bd9078f0feb082e53b7bae47b7584e7c88de1",
+      "en_sha256": "949dbd463e0447f4d2a4e139a0ba8ab3732bc2a193287d9e6653d182180f1c78",
+      "origin": "ai"
+    },
+    "dataList[id=814002].desc": {
+      "pl": "gdy Dream-Devouring Siltcurrent użyje Blind Obsession, a ta jednostka nie zostanie zniszczona do końca tury, zadaje 20 obrażeń losowej Tożsamości.",
+      "kr_sha256": "f3161a8897af5af1a7b29694777fc889c05798f1af66b588870001b028831cbc",
+      "en_sha256": "e23e962eda30873627578c1c0d7087d567d37ecae6f0fb7a3cd8123128283db6",
+      "origin": "ai"
+    },
+    "dataList[id=814002].name": {
+      "pl": "Rolling Flotsam",
+      "kr_sha256": "d57768695f77484c7d10a3f774f06358a16feb7f5322de9514fe4b6dca00095e",
+      "en_sha256": "e1bd8cf5d586f6cc0cd7fcdeb3250e4cd7fa147fbee8eec1853176a2b7ef1129",
+      "origin": "ai"
+    },
+    "dataList[id=814003].desc": {
+      "pl": "przy śmierci HP nie spada poniżej 1.\nstaje się Destroyed Flotsam.",
+      "kr_sha256": "837c7796a921fd88fb9d02af426d16bd313b018ffd3393a02bad4a221d95a441",
+      "en_sha256": "bf58196c3be8cd03d09c55744501794e7f8acbc719b6f2f0a8c4008838fcb4a0",
+      "origin": "ai"
+    },
+    "dataList[id=814003].name": {
+      "pl": "Destroyed Flotsam",
+      "kr_sha256": "1a7a7374c689f4b644eb96658dac224a8c101a58b1fe5ac6e90d3cce52d9d2fc",
+      "en_sha256": "c726ee69d1ea95a97b0fa5051462b6ea08e1b66a17e937a9cb1b945ff3d0629a",
+      "origin": "ai"
+    },
+    "dataList[id=814101].desc": {
+      "pl": "jeżeli Candle są zgaszone i przywrócone do pełni HP, zyskuje odporność, dopóki wszystkie Candle nie zostaną zapalone ponownie.\ngdy wszystkie Candle są zapalone, traci odporność.",
+      "kr_sha256": "94f668538f4d9fc1f9adb952e9c53f823010e0c3d6a32dd052c305c730e3d542",
+      "en_sha256": "adb5ca80c005eaa2f126beb87a8085e308a18150126dfa8a9b1108c378e54b10",
+      "origin": "ai"
+    },
+    "dataList[id=814101].name": {
+      "pl": "The All-Illuminating Light",
+      "kr_sha256": "ba77ec07cab73de2d8ae1b28fcfc2a51a489146734ddcf2672d9cdbcf0d091cf",
+      "en_sha256": "38f9d355f81731ca6f6ed0859c3a71a3c8447006930ae34776e7fe87c2205964",
+      "origin": "ai"
+    },
+    "dataList[id=814102].desc": {
+      "pl": "co 4 tury od zgaszenia światła, jeżeli są zgaszone Candle, zapala je sama. HP wszystkich Candle spada do 1.",
+      "kr_sha256": "2ff049921344ec9c47b3db72f1f8f48dc375bf1b5b8330b861357d5e3efa4911",
+      "en_sha256": "d0ee577413d60377491e86fd233a45e2384ec666ae0bbd4b3db526ae8e8feaf7",
+      "origin": "ai"
+    },
+    "dataList[id=814102].name": {
+      "pl": "Darkness Deterred",
+      "kr_sha256": "2fd1d67c8f5ce11e85323dd012ff9679dbd64c6e5a5a457b8d386e690173e8f0",
+      "en_sha256": "4184d256e8d83f56a4a8bd0351c931a74d0eb7987e5b80ce9880ac2d16c37ffd",
+      "origin": "ai"
+    }
+  }
+}

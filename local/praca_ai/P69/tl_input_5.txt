@@ -1,0 +1,36 @@
+874||Pasywka wroga [9012602] — opis] 턴 종료 시 패닉 상태에서 벗어났다면, 다음 턴에 공격 위력 증가 1 얻음|Turn End: if this unit recovered from Panic, gain 1 Attack Power Up next turn
+875||Pasywka wroga [9012602] — podsumowanie] 다음 턴에 공격 위력 증가 1 얻음|Gain 1 Attack Power Up next turn
+876||Pasywka wroga [9101401] — nazwa] 제대로 치워주지...|I'll Clean You Up...
+877||Pasywka wroga [9101401] — opis] 턴 종료시 흐트러짐 상태가 되었을 때, 흐트러짐 상태에서 벗어나고 정신력 20 회복. 다음 턴에 공격 레벨 증가 1 얻음. (최대 1)|Turn End: if Staggered, recover from the Staggered state and heal 20 SP. Gain 1 Offense Level Up next turn. (1 max)
+878||Pasywka wroga [9101402] — nazwa] 무례한 것!|Insolent Fool!
+879||Pasywka wroga [9101402] — opis] 대상이 자신보다 속도가 낮다면, 합 위력 +2|If this unit's Speed is faster than the target's, Clash Power +2
+880||Pasywka wroga [9101402] — podsumowanie] 합 위력 +2|Clash Power +2
+881||Pasywka wroga [9101403] — nazwa] 마님의 소리가...!|The Mistress's Voice...!
+882||Pasywka wroga [9101403] — opis] 한 공격 스킬의 코인이 모두 앞면이라면, 정신력 10 회복|Heal 10 SP when every Coin of an Attack Skill flips heads
+883||Pasywka wroga [9101403] — podsumowanie] 정신력 10 회복|Heal 10 SP
+884||Pasywka wroga [9101404] — nazwa] 마님, 보고 계신가요?!|Will You Witness Me, Mistress?!
+885||Pasywka wroga [9101404] — opis] 공격시 대상에게 침잠이 있고 대상의 정신력이 -15이하라면, 다음 턴에 공격 레벨 증가 3 얻음. (대상당 한 번)|If the target has Sinking, and if the target has -15 or less SP, gain 3 Offense Level Up next turn. (once per target)
+886||Pasywka wroga [9999999] — nazwa] 패닉 회복|Panic Recovery
+887||Pasywka wroga [9999999] — opis] 턴 종료 시 패닉 상태라면 정신력이 0이됨.|Turn End: if in Panic, reset SP to 0.
+888||Pasywka wroga [9999998] — nazwa] 패닉 변경 불가|Fixed Panic
+889||Pasywka wroga [9999998] — opis] 패닉 유형을 변경하는 버프 획득 시, 패닉 유형이 변경되지 않음. 대신 정신력이 없는 대상에게 부여되는 효과가 부여됨|This unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against Non-SP Units.
+890||Wróg / część [90128] — nazwa] 완고한 외우피 해결사|Stubborn Öufi Fixer
+891||Wróg / część [90129] — nazwa] 철저한 외우피 해결사|Precise Öufi Fixer
+892||Wróg / część [90130] — nazwa] 외우피 해결사 부장|Öufi Assoc. Director
+893||Wróg / część [90131] — nazwa] 심취한 약지 연구원?|Enamored Researcher of the Ring?
+894||Wróg / część [90132] — nazwa] 광적인 약지 연구원?|Mad Researcher of the Ring?
+895||Wróg / część [90133] — nazwa] 점묘파 약지 연구원?|Pointillist Researcher of the Ring?
+896||Wróg / część [91015] — nazwa] 힌들리|Hindley
+897||Wróg / część [8204] — nazwa] 데드레빗츠 보스|Dead Rabbits Boss
+898||Wróg / część [8159] — nazwa] 나태 죄종?|Peccatulum Pigritiae?
+899||Wróg / część [8160] — nazwa] 탐식 죄종?|Peccatulum Gulae?
+900||Wróg / część [8162] — nazwa] 기묘한 데드레빗츠 단원|Bizarre Dead Rabbits Henchman
+901||Wróg / część [8163] — nazwa] 뒤덮인 데드레빗츠 단원|Veiled Dead Rabbits Henchman
+902||Wróg / część [8164] — nazwa] 히스클리프?|Heathcliff?
+903||Wróg / część [8165] — nazwa] 빼앗겨 울부짖는 힌들리|Hindley, The Reaved Lamenter
+906||(ulepszenie 1) — nazwa] 손아귀|Grasp
+909||(ulepszenie 1) — nazwa] 돌 쌓기|Piling Rocks
+910||(ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 5 이상이면, 합 위력 +1|[WhenUse] If target has 5+ [Vibration], Clash Power +1
+911||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Vibration] Count
+913||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Vibration] 8 부여|[OnSucceedAttack] Inflict 8 [Vibration]
+915||(ulepszenie 1) — nazwa] 나태한 짓누름|Slothful Press

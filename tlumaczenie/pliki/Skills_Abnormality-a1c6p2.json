@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=815901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]. Zwiększa Licznik [Vibration] o 2",
+      "kr_sha256": "814f49e5db030221235058973ba8a96776e34e73b5787207d1f76b1a01d146de",
+      "en_sha256": "c79f3c3a2b473310b3d68b8494c2a91412e6837617323768d5bd562c01fd62e4",
+      "origin": "ai"
+    },
+    "dataList[id=815901].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "31ebd2c5d7475414d89e745410a64d7165926b15b782494f5bd274af274a1aa1",
+      "en_sha256": "377d022e64a84368106da3f917026029bde614c9a7994e0c595dfe8209ee7197",
+      "origin": "ai"
+    },
+    "dataList[id=815901].levelList[level=1].name": {
+      "pl": "Grasp",
+      "kr_sha256": "0d3b4e4bcb7ffe7c67d42376c28db0a89bdfb391b22a3b0aa59cfc134150aca3",
+      "en_sha256": "e2e6278f2626a45a4eed1c6f8a549576757c59ec24bb9057961a07158559790b",
+      "origin": "ai"
+    },
+    "dataList[id=815902].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Licznika [Vibration]",
+      "kr_sha256": "f75b0372b2e6bc7d1a86d8955c4b59655ea22d1c005628d2f27db58d3a5f1381",
+      "en_sha256": "0d0a8b310ae73d7837df8e76ee61e270e33df641c1b545167c371fa5d39e68f2",
+      "origin": "ai"
+    },
+    "dataList[id=815902].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Paralysis] w następnej turze",
+      "kr_sha256": "4000cc413a7856791a3417d453386b42b675217d903583f684a46b9021916364",
+      "en_sha256": "7b458c4b48cde39483eb2455e90bce854b7bb9835460657f98b8c22bc052a946",
+      "origin": "ai"
+    },
+    "dataList[id=815902].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Vibration]",
+      "kr_sha256": "dea7ef23a69522a01292fdd3177f75f82941e3367e79220f3b0b99d27dc1ddc4",
+      "en_sha256": "0ef6ce32ca2e11ea3b66c6accabd4638ac223e4ce513336fd7e1d13223346942",
+      "origin": "ai"
+    },
+    "dataList[id=815902].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [AttackDown] w następnej turze",
+      "kr_sha256": "001b75af3516d5a869406cf7f0c3d8445d3e2f3192e5626cb3e912b92c0a070d",
+      "en_sha256": "7257bdad5ae0797a986c0a35b3e13968db1abd61de35191103333d3e03ca14f0",
+      "origin": "ai"
+    },
+    "dataList[id=815902].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ [Vibration], Moc Starcia +1",
+      "kr_sha256": "c6a8cb7b05dd51b1236901b6220afc4a2d8e499bcaa2850b24fe29a3be685f44",
+      "en_sha256": "4d62ce964f8874379cc83826dc1d3f45f5bddb777422d409fa56e26759d700b0",
+      "origin": "ai"
+    },
+    "dataList[id=815902].levelList[level=1].name": {
+      "pl": "Piling Rocks",
+      "kr_sha256": "cda4ef397e162c931a485a84321585e880103d2aaf4eed48b406a0bfaa8b03cf",
+      "en_sha256": "cab13b9d8a183a83c0c98c0975af9543ca2997bc495995ffcbc18c375c15951a",
+      "origin": "ai"
+    },
+    "dataList[id=815903].levelList[level=1].name": {
+      "pl": "Slothful Press",
+      "kr_sha256": "1dfc5f5568a736f0bec95d5c3fbd0ebfb6ac8f6ad67b823a7cc09b694ece223e",
+      "en_sha256": "c36dbc807f36aff6be9b3a5cbfccac882cb9446f46fbd0cf5e09684e6e456a6c",
+      "origin": "ai"
+    }
+  }
+}

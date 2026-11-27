@@ -1,0 +1,226 @@
+{
+  "entries": {
+    "dataList[id=9011601].desc": {
+      "pl": "zadaje +10% obrażeń celom z najniższym HP",
+      "kr_sha256": "4afa3563247f7ac9437a49eb67a8d5db620f19a58176f4b37703d659888dc987",
+      "en_sha256": "933d5efe9e366fc8f2ac7b26ff91f6e4d55b6f00826752de042f2c07e80e053a",
+      "origin": "ai"
+    },
+    "dataList[id=9011601].name": {
+      "pl": "It's... you...",
+      "kr_sha256": "cd4ef14037b120bc8df73deaf75f88517c5377757977d5fd11271d4c7f07ea83",
+      "en_sha256": "ca49ef79b09028e6c44a650370a2ba86828370d625fe1bf1cc2b56e45eac6689",
+      "origin": "ai"
+    },
+    "dataList[id=9011601].summary": {
+      "pl": "zadaje +10% obrażeń",
+      "kr_sha256": "7c44fe1fa783e824da33a389adfbbf37bf29a1f6b78b8e09a8a5a5f20a6b7044",
+      "en_sha256": "d3f4887274c39f2165ceeab1e5333f54d1cf50d9ce5fd06ada45c8d10a25d7f7",
+      "origin": "ai"
+    },
+    "dataList[id=9011801].desc": {
+      "pl": "po przegranej w Starciu cel otrzymuje 3 obrażeń SP",
+      "kr_sha256": "7ec2ef2d4cba93ffe9cd9550309ca9c08319dd16d1f02f1b48a019a4e93a572f",
+      "en_sha256": "71d53720999de93b6b69d154e2baf1462ab45542ba21040d62f68835879afbae",
+      "origin": "ai"
+    },
+    "dataList[id=9011801].name": {
+      "pl": "...",
+      "kr_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "en_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+      "origin": "ai"
+    },
+    "dataList[id=9011801].summary": {
+      "pl": "cel otrzymuje 3 obrażeń SP",
+      "kr_sha256": "4fd2d324ebee59174c528bd2a5222caaa1de48bff42a7a4f8ebdf6878197b660",
+      "en_sha256": "5033b6f18057ad574782e6bc28f08414736d5ba0382939dcabfbbfe8709781cf",
+      "origin": "ai"
+    },
+    "dataList[id=9012001].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli HP celu jest poniżej 50%, Moc Umiejętności +1",
+      "kr_sha256": "6923582c0da9b283c79e5505d2011f400cdbc470f8d26bbf2f34fd9f648256e0",
+      "en_sha256": "763476774a034568e9e39b397049b3597915cb1c710cf25a595a6a7695a0d4ee",
+      "origin": "ai"
+    },
+    "dataList[id=9012001].name": {
+      "pl": "Cleaning",
+      "kr_sha256": "8de86a5bcd2a3ce8477742c017a5d1b74979a83f022e37190bd8b241d6688dd8",
+      "en_sha256": "019f34ed2b1963f41817f326ac4a06d6fc93ed5cad0305b701ed27359c6d9b70",
+      "origin": "ai"
+    },
+    "dataList[id=9012001].summary": {
+      "pl": "Moc Umiejętności +1",
+      "kr_sha256": "c17077b00a5a644d4206e262cf10cacf01be4137b5eea236c0f406e83c401984",
+      "en_sha256": "2ddb8c07eb5ae09b825ffac9ffea8c91afb7e968868104fd73a011ceb5d78338",
+      "origin": "ai"
+    },
+    "dataList[id=9012201].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli HP celu jest poniżej 50%, zadaje +30% obrażeń",
+      "kr_sha256": "98514a8e5987dad5ca5db2589d63266e9181b51d9eae185a65dc91470876f0d1",
+      "en_sha256": "b5b3095791d124d1765696efcde3f435f24c0edcc127dc557d81da919edd4b0b",
+      "origin": "ai"
+    },
+    "dataList[id=9012201].name": {
+      "pl": "Organizing",
+      "kr_sha256": "829a277fc72022a6ce357df65f7c43ed810117b2f8e2cf2d66087f0ac2fca10e",
+      "en_sha256": "964841a84edb6f28199f48968b60d32ffb2fff9338ce96ad41eccfc86762aee2",
+      "origin": "ai"
+    },
+    "dataList[id=9012201].summary": {
+      "pl": "zadaje +30% obrażeń",
+      "kr_sha256": "26041d1d3dc7e48429ea4038d4da5ff96f613907ce8703cead60fe9a84b39b23",
+      "en_sha256": "ad9deb3bfc7a73760b99336f4f8abf1681d9b55e5dd5dea2b1edc0777f33a55a",
+      "origin": "ai"
+    },
+    "dataList[id=9012301].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, Moc Starcia +1",
+      "kr_sha256": "b7c9282e316c6277cd098c3ad0d0b77916f9b737ab61cf83c77d497996226246",
+      "en_sha256": "3f9897bd337132658abc4eebdf06f4b46d2b3bc484e50d5244d5ffd7242b6a69",
+      "origin": "ai"
+    },
+    "dataList[id=9012301].name": {
+      "pl": "Dead End",
+      "kr_sha256": "19534b42a1a004c9494320fd6b4fcb19d69d1e0f06fe77bf4997e6f588193e52",
+      "en_sha256": "73b99854f4d7eabcb712ba8c274fc485e4157d4dc680e9d2918651c5200a8220",
+      "origin": "ai"
+    },
+    "dataList[id=9012301].summary": {
+      "pl": "Moc Starcia +1",
+      "kr_sha256": "aead141ecfbed3ac2f0b7b26ebce09e09ff8d87ed087d9f68e6d28a2ef441653",
+      "en_sha256": "baaa4fc8c8714120770e182c094d5bfa33a360a4e789cba2e420e10168714feb",
+      "origin": "ai"
+    },
+    "dataList[id=9012501].desc": {
+      "pl": "przy użyciu Umiejętności, jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, Moc Starcia +1 i zadaje +20% obrażeń",
+      "kr_sha256": "7f3e4136f3accbe8ca66cf2d636ec9c4373b9c5eee2430484ca48f3d4f291e37",
+      "en_sha256": "33c626cf189e24faaa03ea4a33c90f1b80e128ce0d26ee92cb178f48181df624",
+      "origin": "ai"
+    },
+    "dataList[id=9012501].name": {
+      "pl": "Rat Hunt",
+      "kr_sha256": "5ce2687368cb177f64df1602e5cd79931636c2b29284cd38bec2c571b8595459",
+      "en_sha256": "b138b07569ccf7296c92da957246434fa3ebfc7fb572ec824552d3aca36c5692",
+      "origin": "ai"
+    },
+    "dataList[id=9012501].summary": {
+      "pl": "Moc Starcia +1, zadaje +20% obrażeń",
+      "kr_sha256": "01b700105f2aaa5938d7edeba91d27bb7eab7a47bccb514e63e607f4d4bb8b7f",
+      "en_sha256": "7cc0b29af0f738b09af391b20d3b4973b319cf78fb172f3f30fb3cc4146e0d7b",
+      "origin": "ai"
+    },
+    "dataList[id=9012601].desc": {
+      "pl": "Koniec tury: jeżeli przechodzi w Oszołamienie, przywraca 12 SP. Zyskuje 2 Spadek Poziomu Obrony (maks. 1).",
+      "kr_sha256": "8fc116eaddb5df90e161047a682acffc6270edd6199a31dc6288cd64a3df15b6",
+      "en_sha256": "e5d0fbcf49c0b194ef6713b182a6b7f51d8e64c2bc4853bcd34f600b2dfc5854",
+      "origin": "ai"
+    },
+    "dataList[id=9012601].name": {
+      "pl": "I Will... Do My Best",
+      "kr_sha256": "70691429894e2e419ff9fed80c49192ec5a7fdc8199489fa639a27a0a4eb1724",
+      "en_sha256": "30db862dd54ab219670f6ff41e0b2ab746c2ab542fbddcff72cdec20febd9b1d",
+      "origin": "ai"
+    },
+    "dataList[id=9012602].desc": {
+      "pl": "Koniec tury: jeżeli dochodzi do siebie z Paniki, zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "21585a8a52e83ff103a546a6862298c19766cbee4864787e15b2f5007bc04980",
+      "en_sha256": "9372125467d2bdbd093082bd1f97270e92b5dfaec2de7283a97c0cac009adf10",
+      "origin": "ai"
+    },
+    "dataList[id=9012602].name": {
+      "pl": "Apologies... Mistress!",
+      "kr_sha256": "359484146d1b9443ce70f903cd0f22ffac3be5c48978f8c99e5f5a1a02dcca7f",
+      "en_sha256": "b7a070dbb4e4ad80d757838fbbcae7fa944d82bb7ad16391fc96ddbaf3373f78",
+      "origin": "ai"
+    },
+    "dataList[id=9012602].summary": {
+      "pl": "zyskuje 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "ccb38797577bfea7794a093e4858d3bd9393249c45db803c45462ea4ebc75249",
+      "en_sha256": "bad2df4cae123133eb7d0087924aff79defe3c9835a47bef50d347bf22ee7afb",
+      "origin": "ai"
+    },
+    "dataList[id=9101401].desc": {
+      "pl": "Koniec tury: jeżeli przechodzi w Oszołamienie, dochodzi do siebie i przywraca 20 SP. Zyskuje 1 Wzrost Poziomu Ataku w następnej turze (maks. 1).",
+      "kr_sha256": "9d4117b184272083ca7701dda4825181371f9400b496c94ca8a64aac19496d9c",
+      "en_sha256": "f3503ca86538f3d1b1a28cc59adc9a547cf7368b81f8ee21bb1fcf8d0585a4a8",
+      "origin": "ai"
+    },
+    "dataList[id=9101401].name": {
+      "pl": "I'll Clean You Up...",
+      "kr_sha256": "526cd9a5bac8028e8a78e97ed1e68ff8dc431aa032b45f636ce5f2b326c56ae4",
+      "en_sha256": "00345e3befcfe264bccee165fec666e3785969f1ac616fe139934e7a03a774d1",
+      "origin": "ai"
+    },
+    "dataList[id=9101402].desc": {
+      "pl": "jeżeli Szybkość tej jednostki jest wyższa niż Szybkość celu, Moc Starcia +2",
+      "kr_sha256": "91a73e94951a09238e069e76fc8ddcf78a41dad7cd831ce14ccd505ede35b1a3",
+      "en_sha256": "2bbd4788f84e64c3399248c64f05cbb382aad3b3b94ef51cf431346eab757cb5",
+      "origin": "ai"
+    },
+    "dataList[id=9101402].name": {
+      "pl": "Insolent Fool!",
+      "kr_sha256": "2815a1d4e42f906891adfbe5d10b13e2c88b5231127fb37ebd6c9075c47e2847",
+      "en_sha256": "928b162327715d32a5e790a34ad34376b48bd50b04f0d0ffb6bdbf6a254e8d0f",
+      "origin": "ai"
+    },
+    "dataList[id=9101402].summary": {
+      "pl": "Moc Starcia +2",
+      "kr_sha256": "6a18acce0994763c7f65350a8fec49dc2134ef041d544369a69d076fe4edf3af",
+      "en_sha256": "2ec5ee04c3785930352f4ded82b01639a5622e8b3e8a6887e1fbbe4c33c6a9dc",
+      "origin": "ai"
+    },
+    "dataList[id=9101403].desc": {
+      "pl": "przywraca 10 SP, gdy wszystkie Monety Umiejętności ataku wypadną Awersami",
+      "kr_sha256": "9c7265b2696ed8cca49f6a39ed6100d6e139b4e2da62cacf7238c4f3fa19cba7",
+      "en_sha256": "c47b125bea545420d48b858d41f4461f5884efc089cef278809fd7094854ba82",
+      "origin": "ai"
+    },
+    "dataList[id=9101403].name": {
+      "pl": "The Mistress's Voice...!",
+      "kr_sha256": "4ed11446fb722238de10b317af6fa4972827f63b05bc32a8055d11d76807a047",
+      "en_sha256": "144325dc4d5e81cdad6d4b5cfd7e328c2128b9bd7d8ff055f0a75e000b5cbc3e",
+      "origin": "ai"
+    },
+    "dataList[id=9101403].summary": {
+      "pl": "przywraca 10 SP",
+      "kr_sha256": "eac93e659c96ece49503592b759c9f03c14b8d924a328b74e2617e67b7a71782",
+      "en_sha256": "918d3ff7b0bd47a4ce88ce406306a34b66bc63f4e73fbc5a7fd1d67afd267d10",
+      "origin": "ai"
+    },
+    "dataList[id=9101404].desc": {
+      "pl": "przy ataku, jeżeli cel ma Zatonięcie i SP celu wynosi -15 lub mniej, zyskuje 3 Wzrost Poziomu Ataku w następnej turze. (1 raz na cel)",
+      "kr_sha256": "da511f615fa041a59c891e2d3e64141aafc73b1ff31488dddca4b0236d636542",
+      "en_sha256": "80f01c6c1ad1cd29617cde29a706df00effa958660618068e4ddcd9cfcde00c5",
+      "origin": "ai"
+    },
+    "dataList[id=9101404].name": {
+      "pl": "Will You Witness Me, Mistress?!",
+      "kr_sha256": "864cfb39df60eb350a2105e0cd8f885b6f383c59073eead1f481987cb9cce933",
+      "en_sha256": "a8b3d2bc4a5da5013fd855e71c021cd449965a073503a5bac1da8c86a6212d9f",
+      "origin": "ai"
+    },
+    "dataList[id=9999998].desc": {
+      "pl": "gdy ta jednostka zyskuje Efekt zmieniający typ Paniki, typ Paniki się nie zmienia. Zamiast tego nakładany jest efekt nakładany na jednostki bez SP.",
+      "kr_sha256": "3e75bb1e1ed2c18b6cbffe44559244cf9808946e11815a8445f8823204718af2",
+      "en_sha256": "80b56172152e3c3e233ed29bffa2962e32b93653e16c423865f7a96488389a44",
+      "origin": "ai"
+    },
+    "dataList[id=9999998].name": {
+      "pl": "Panika zablokowana",
+      "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
+      "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=9999999].desc": {
+      "pl": "Koniec tury: jeżeli jest w Panice, SP wraca do 0.",
+      "kr_sha256": "0646936d317fa881c2c9e83d774d48dfba9a2193e4f6417f7a908bd2936aa170",
+      "en_sha256": "9945b3ea15ea285421ab81feb5d610e0ace1710fceb7a0cbf75d4fba97686dc4",
+      "origin": "ai"
+    },
+    "dataList[id=9999999].name": {
+      "pl": "Panic Recovery",
+      "kr_sha256": "e3eea3f6529e6ea9565259f8e85095edeb4be438bbfe369a0fada18fd86a7598",
+      "en_sha256": "a1848737a6c2cddb3006496555ff7af839eee9d501150244fb99855fcccf2d14",
+      "origin": "ai"
+    }
+  }
+}

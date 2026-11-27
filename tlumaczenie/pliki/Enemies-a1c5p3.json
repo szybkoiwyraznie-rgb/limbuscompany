@@ -1,0 +1,412 @@
+{
+  "entries": {
+    "dataList[id=810001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8100].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8100].name": {
+      "pl": "Skin Prophet",
+      "kr_sha256": "07abae8db0facb76f4dbe5f2d3d59136ab72c6e402c2f3de3ceb224536d1e9c1",
+      "en_sha256": "868833435b84a114a9d401c0932e200e0dbb20e164e88edb1ef1bc6d917d0643",
+      "origin": "ai"
+    },
+    "dataList[id=810101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810101].name": {
+      "pl": "Shell",
+      "kr_sha256": "d7751cf145cf30006a71c95ced6ed42816eabd8a3b07c0653ba01340c275fd1d",
+      "en_sha256": "a733285486d5438327c37af6e6e84a69a6c6f22aae74b94d33cf88c6eeda93cc",
+      "origin": "ai"
+    },
+    "dataList[id=810102].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810102].name": {
+      "pl": "Pearl",
+      "kr_sha256": "848b5fef2795e793624b40e4c5f9eb8dccb3dcf0d7ecc42bc810e7bd83b190a3",
+      "en_sha256": "72bc556112e9538a2433f0a9b87b032eae43c69e367e9dca1b176929dcf20ed5",
+      "origin": "ai"
+    },
+    "dataList[id=8101].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8101].name": {
+      "pl": "Ambling Pearl",
+      "kr_sha256": "1a86c81bb57c016cc6c123814ddde49be3db56b5d1da8ca1b06df7643a47154d",
+      "en_sha256": "0e65a532c2cef06d90e58f284c6154aa456d6771d475e60f2aea5eb7fc67adb7",
+      "origin": "ai"
+    },
+    "dataList[id=810201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=810202].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810202].name": {
+      "pl": "Fluorescence",
+      "kr_sha256": "300da56fdce5d81048fb1cd5646501f4fef17bba06802d57038e72da65710032",
+      "en_sha256": "c76e27598822c367c1af2e7bb3a29defa9162d0d7cde155ae056a0cbed86aaac",
+      "origin": "ai"
+    },
+    "dataList[id=8102].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8102].name": {
+      "pl": "Dream-Devouring Siltcurrent",
+      "kr_sha256": "35d15affa2313737956cb7bcb4281e5bd2839ccc2f2d61d7996ae7ebd858a104",
+      "en_sha256": "04356d67cf95999c37bba59122986c26ba4a60c0073e0c05b64c9334d7abb3b7",
+      "origin": "ai"
+    },
+    "dataList[id=810301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=81032].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=81032].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=8103].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8103].name": {
+      "pl": "???",
+      "kr_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "en_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "origin": "ai"
+    },
+    "dataList[id=810401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8104].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8104].name": {
+      "pl": "Starbuck",
+      "kr_sha256": "72bc39abc5b086a44b2957adb7cf1e05785299f33780954fcbcf1f618fc66a8a",
+      "en_sha256": "3c6b05d0fb0da56eb04549ce2bf746e50e4966136b8963dbfeb7aa23d017d25b",
+      "origin": "ai"
+    },
+    "dataList[id=810501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=81052].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=81052].name": {
+      "pl": "Ahab",
+      "kr_sha256": "ac4894adc74717a5896bf26c40bb7b6c2956697328cebdccb62be3be0fb8fca8",
+      "en_sha256": "d155203be2cd4151372961ace4e05da65d923b1498f9d7549c2e2ca51ec6a597",
+      "origin": "ai"
+    },
+    "dataList[id=8105].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8105].name": {
+      "pl": "Ahab",
+      "kr_sha256": "ac4894adc74717a5896bf26c40bb7b6c2956697328cebdccb62be3be0fb8fca8",
+      "en_sha256": "d155203be2cd4151372961ace4e05da65d923b1498f9d7549c2e2ca51ec6a597",
+      "origin": "ai"
+    },
+    "dataList[id=810601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=81062].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=81062].name": {
+      "pl": "Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "d4a420ec1e64a8706464d9209a40f3186bc23ab4d4b57abcc9fadeeaa31663e7",
+      "en_sha256": "4778e4924bcb57d566316b510071b4b698b5904d06597d3f03a5a16691d60c5a",
+      "origin": "ai"
+    },
+    "dataList[id=81063].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=81063].name": {
+      "pl": "Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "d4a420ec1e64a8706464d9209a40f3186bc23ab4d4b57abcc9fadeeaa31663e7",
+      "en_sha256": "4778e4924bcb57d566316b510071b4b698b5904d06597d3f03a5a16691d60c5a",
+      "origin": "ai"
+    },
+    "dataList[id=8106].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8106].name": {
+      "pl": "Effloresced E.G.O::GasHarpoon",
+      "kr_sha256": "d4a420ec1e64a8706464d9209a40f3186bc23ab4d4b57abcc9fadeeaa31663e7",
+      "en_sha256": "4778e4924bcb57d566316b510071b4b698b5904d06597d3f03a5a16691d60c5a",
+      "origin": "ai"
+    },
+    "dataList[id=810701].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810701].name": {
+      "pl": "Candle",
+      "kr_sha256": "14e215cd12f137bea8577afe6d573f4b288055452859d0924c435f78d1aa1491",
+      "en_sha256": "75656ad6e09976f20e0cde80f7f741b28a78ee39a9c55941ac835e99bd01f7a7",
+      "origin": "ai"
+    },
+    "dataList[id=8107].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8107].name": {
+      "pl": "Candle",
+      "kr_sha256": "14e215cd12f137bea8577afe6d573f4b288055452859d0924c435f78d1aa1491",
+      "en_sha256": "75656ad6e09976f20e0cde80f7f741b28a78ee39a9c55941ac835e99bd01f7a7",
+      "origin": "ai"
+    },
+    "dataList[id=810801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810801].name": {
+      "pl": "Flotsam",
+      "kr_sha256": "005d454addbadf84734be292d867746901024b3171abbd5f80df48202fc79fe2",
+      "en_sha256": "8421155469efa2e65ae6b27e74b3ee7abf4b6d4304820d6bb7a1908cf758fb2f",
+      "origin": "ai"
+    },
+    "dataList[id=8108].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8108].name": {
+      "pl": "Flotsam",
+      "kr_sha256": "005d454addbadf84734be292d867746901024b3171abbd5f80df48202fc79fe2",
+      "en_sha256": "8421155469efa2e65ae6b27e74b3ee7abf4b6d4304820d6bb7a1908cf758fb2f",
+      "origin": "ai"
+    },
+    "dataList[id=810901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=810901].name": {
+      "pl": "Green Slime",
+      "kr_sha256": "00c5339a42d34ae9b39f223f708751fb14b8a298c20ccd286a1addbeac42ae70",
+      "en_sha256": "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9",
+      "origin": "ai"
+    },
+    "dataList[id=8109].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8109].name": {
+      "pl": "Green Slime",
+      "kr_sha256": "00c5339a42d34ae9b39f223f708751fb14b8a298c20ccd286a1addbeac42ae70",
+      "en_sha256": "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9",
+      "origin": "ai"
+    },
+    "dataList[id=811001].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811001].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8110].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8110].name": {
+      "pl": "Blinded Pequod Town Villager",
+      "kr_sha256": "097d57895cffafac5a02a8f1dbc9cd7c16b139fc8ba4ed4403b7dc5a9ce9b1ca",
+      "en_sha256": "c3f39364b0c5a65e4a331ed227d7c014b1679e2001146c8951d65e9854bb0b39",
+      "origin": "ai"
+    },
+    "dataList[id=811101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811101].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8111].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8111].name": {
+      "pl": "Gagged Pequod Town Villager",
+      "kr_sha256": "3c78cd770dabef860d8812034772517befee29e2f9eca214106a8a66772ae653",
+      "en_sha256": "acc3fd6ce4b4fcf947c61f9614923f10e7f6650cb3e30933074cd9599ceb978d",
+      "origin": "ai"
+    },
+    "dataList[id=811201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811201].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8112].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8112].name": {
+      "pl": "Queequeg",
+      "kr_sha256": "acd5214782254738f27301b03e96d4e285d25939311e6abfbdf673ca9ad9f1f1",
+      "en_sha256": "dff5ff6c1934cf274d45ebd286917d3a5c27ac65af289f9489b464776cd18ac1",
+      "origin": "ai"
+    },
+    "dataList[id=90098].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90098].name": {
+      "pl": "Blinded Pequod Town Villager",
+      "kr_sha256": "097d57895cffafac5a02a8f1dbc9cd7c16b139fc8ba4ed4403b7dc5a9ce9b1ca",
+      "en_sha256": "c3f39364b0c5a65e4a331ed227d7c014b1679e2001146c8951d65e9854bb0b39",
+      "origin": "ai"
+    },
+    "dataList[id=90099].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90099].name": {
+      "pl": "Gagged Pequod Town Villager",
+      "kr_sha256": "3c78cd770dabef860d8812034772517befee29e2f9eca214106a8a66772ae653",
+      "en_sha256": "acc3fd6ce4b4fcf947c61f9614923f10e7f6650cb3e30933074cd9599ceb978d",
+      "origin": "ai"
+    }
+  }
+}
