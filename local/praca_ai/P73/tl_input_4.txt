@@ -1,0 +1,131 @@
+598||(ulepszenie 1) — opis] 대상의 [Laceration]이 4 이상이면, 코인 위력 +1|If target has 4+ [Laceration], Coin Power +1
+599||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 4 부여|[OnSucceedAttack] Inflict 4 [Laceration]
+602||(ulepszenie 1) — moneta 2, efekt 3 — opis] 이 코인에서 적중 시, 입힌 체력 피해량의 30%만큼 체력 회복|On Hit using this Coin, heal 30% of the HP damage dealt
+603||(ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttackHead] 이 코인 재사용 (스킬 당 최대 3회)|[OnSucceedAttackHead] Reuse this Coin (3 times per Skill)
+604||(ulepszenie 1) — nazwa] 333..1973|333..1973
+605||(ulepszenie 1) — opis] [StartBattle] [Persistent] 4 얻음|[StartBattle] Gain 4 [Persistent]
+607||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 흐트러짐 5 회복|[OnSucceedAttack] Lower user's Stagger Threshold by 5
+609||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 출혈 횟수 3 증가|[OnSucceedAttack] Inflict +3 Bleed Count
+610||(ulepszenie 1) — nazwa] 가족을 위하여|For the Family
+611||(ulepszenie 1) — opis] [StartBattle] 무작위 아군 2명에게 [Protection] 1 부여|[StartBattle] Apply 1 [Protection] to 2 random allies
+612||(ulepszenie 1) — nazwa] 뒷골목의 밤|Night in the Backstreets
+614||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 체력 8 회복|[OnSucceedAttack] Heal 8 HP
+618||(ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] 흐트러짐 8 회복|[OnSucceedAttack] Lower user's Stagger Threshold by 8
+619||(ulepszenie 1) — moneta 2, efekt 4 — opis] [OnSucceedAttack] 대상의 [Laceration] 1 회 발동 ([Laceration] 횟수 1 감소)|[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)
+620||(ulepszenie 1) — nazwa] 갑작스런 공격|Sudden Strike
+623||(ulepszenie 1) — nazwa] 근육 베기|Muscle Slice
+628||(ulepszenie 1) — nazwa] 무분별한 공격|Indiscriminate Attack
+629||(ulepszenie 1) — opis] [WhenUse] 자신의 속도가 7 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration]이 4 이상이면, 코인 위력 +1\n[WinDuel] 합 횟수에 비례하여 피해량이 증가 (합 횟수 1당 +5% 최대 50%)\n[WinDuel] [Laceration] 5 부여|[WhenUse] At 7+ Speed, Coin Power +1\n[WhenUse] If target has 4+ [Laceration], Coin Power +1\n[WinDuel] Deal more damage based on Clash count (+5% per Clash count, max 50%)\n[WinDuel] Inflict 5 [Laceration]
+634||(ulepszenie 1) — nazwa] 가르기|Slice
+636||(ulepszenie 1) — nazwa] 근육 상처내기|Muscle Wound
+641||(ulepszenie 1) — nazwa] 신속한 공격|Swift Attack
+649||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 3 이상이면, 합 위력 +1|[WhenUse] If target has 3+ [Burst], Clash Power +1
+651||(ulepszenie 1) — nazwa] 억제|Restraint
+655||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack]  자신의 (속도 / 4)만큼 이 코인을 재사용함 (최대 2번)|[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 4) times (max 2)
+656||(ulepszenie 1) — nazwa] 쾌격|Feather Strike
+657||(ulepszenie 1) — opis] 자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 3)\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 3 증가|If this unit's Speed is faster than the target's gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count
+663||(ulepszenie 1) — moneta 3, efekt 3 — opis] [OnSucceedAttack] [LegStrength] 3 얻음|[OnSucceedAttack] Gain 3 [LegStrength]
+664||(ulepszenie 1) — nazwa] 준비 동작|The Windup
+665||(ulepszenie 1) — opis] [DuelCounter]\n[WinDuel] 다음 턴에 [Agility]을 3 얻음|[DuelCounter] \n[WinDuel] Gain 3 [Agility] next turn
+666||(ulepszenie 1) — nazwa] 추격|Pursuit
+669||(ulepszenie 1) — nazwa] 압도|Overwhelm
+673||(ulepszenie 1) — moneta 2, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] 자신의 (속도 / 4)만큼 이 코인을 재사용함 (최대 2번)|[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 4) times (max 2)
+674||(ulepszenie 1) — nazwa] 암격|Umbra Strike
+677||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 1 부여|[OnSucceedAttack] Inflict 1 [Burst]
+684||(ulepszenie 1) — nazwa] 명치 노리기|Aim for the Solar Plexus
+686||(ulepszenie 1) — nazwa] 머리 후리기|Right in the Dome
+687||(ulepszenie 1) — opis] [WhenUse] 대상이 [MiddleFingerBook]이면, 이 스킬에서 부여하는 [DefenseDown] 2 추가 부여|[WhenUse] If target has [MiddleFingerBook], inflict 2 additional [DefenseDown] with this Skill
+690||(ulepszenie 1) — nazwa] 복부 으깨기|Gut Crush
+691||(ulepszenie 1) — opis] [WhenUse] 대상이 [MiddleFingerBook]이면, 이 스킬에서 부여하는 [AttackDown] 1 추가 부여|[WhenUse] If target has [MiddleFingerBook], inflict 1 additional [AttackDown] with this Skill
+692||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 [AttackDown] 1 부여|[OnSucceedAttackHead] Inflict 1 [AttackDown] next turn
+693||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상이 [MiddleFingerBook]이면, 다음 턴에 [PlusCoinValueUp] 1 얻음|[OnSucceedAttack] If target has [MiddleFingerBook], gain 1 [PlusCoinValueUp] next turn
+696||(ulepszenie 1) — nazwa] 너희 모두 복수 상대다!|Vengeance awaits you all!
+697||(ulepszenie 1) — opis] 대상의 [MiddleFingerBook] 수치 2 당, 피해량 +10% (최대 50%)\n[BeforeAttack] 자신의 체력이 40% 이하일 때, 가중치 +1\n[WhenUse] 메인 타겟이 [MiddleFingerBook]이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\n[WhenUse] [MiddleFingerBook]인 모든 적 3명 당, 코인 위력 +1 (최대 2)\n[WhenUse] 메인 타겟의 [MiddleFingerBook] 2 당, 합 위력 +1 (최대 5)\n[EndSkill] [MiddleFingerBook]을 사망시켰다면, 다음 턴에 [PlusCoinValueUp] 1 얻음 (턴 당 최대 2)\n[EndSkill] 공격 당한 모든 대상의 [MiddleFingerBook] 제거|Deal +10% damage for every 2 [MiddleFingerBook] on the target (max 50%)\n[BeforeAttack] At 40% or less HP, gain Atk Weight +1\n[WhenUse] If the main target has [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] Coin Power +1 for every 3 enemy with [MiddleFingerBook] (max 2)\n[WhenUse] Clash Power +1 for every 2 [MiddleFingerBook] on the main target (max 5)\n[EndSkill] If this unit killed a target with [MiddleFingerBook], gain 1 [PlusCoinValueUp] next turn (2 times per turn)\n[EndSkill] Remove [MiddleFingerBook] on all targets that were hit
+698||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여|[OnSucceedAttack] Inflict 3 [Paralysis] next turn
+699||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3 부여|[OnSucceedAttack] Inflict 3 [Binding] next turn
+700||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 2 부여|[OnSucceedAttack] Inflict 2 [Reduction] next turn
+701||(ulepszenie 1) — nazwa] 기회 잡기|Seize ya Chance
+702||(ulepszenie 1) — opis] [BeforeHit] 대상의 [MiddleFingerBook] 수치당, 보호막 5 얻음 (턴 당 1회, 최대 50)\n[WhenUse] 대상의 [MiddleFingerBook] 수치가 5 이상이면, 기본 위력 +3, [DefenseDown] 4 부여|[BeforeHit] Gain 5 Shield for every [MiddleFingerBook] on the target (once per turn; max 50)\n[WhenUse] If target has 5+ [MiddleFingerBook], Base Power +3; inflict 4 [DefenseDown]
+703||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 20만큼 흐트러짐 손상|[OnSucceedAttack] Raise Stagger Threshold by 20
+704||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 15만큼 고정 체력 피해|[OnSucceedAttack] Deal 15 fixed HP damage
+707||Pasywka wroga [112601] — nazwa] 부여받은 명령|Bestowed Mission
+708||Pasywka wroga [112601] — opis] 스테이지 시작 시, [WeighedMurderousIntend]를 얻음|Encounter Start: gain [WeighedMurderousIntend]
+709||Pasywka wroga [112603] — nazwa] 각력[묘]|Strider [Mao]
+710||Pasywka wroga [112603] — opis] 자신보다 속도가 낮은 대상 공격 시, 부여하는 [Burst] 혹은 [Burst] 횟수 +2, 피해량 +10%|When attacking targets with slower Speed than this unit's, inflict +1 more [Burst] or [Burst] Count and deal +10% damage
+711||Pasywka wroga [112602] — nazwa] 기세[묘]|Vigor [Mao]
+712||Pasywka wroga [112602] — opis] [BurstAgility]을 가지고 있는 적 적중시, 대상의 [Burst] 횟수 2 증가 (턴 당 최대 6)|On Hit against enemy with [BurstAgility]: inflict +2 [Burst] Count on the target (6 times per turn)
+713||Pasywka wroga [112604] — nazwa] 압도[묘]|Dominator [Mao]
+714||Pasywka wroga [112604] — opis] 스킬 사용 시 자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1|On Skill Use, if this unit's Speed is faster than the target's by 2 or more, Coin Power +1
+715||Pasywka wroga [112701] — nazwa] 작은 형님|The Big Brother
+716||Pasywka wroga [112701] — opis] 턴 시작 시 자신을 포함한 모든 아군의 정신력 10 회복\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -20%|Turn Start: all allies, including this unit, heal 10 SP\nTake -20% damage from [Combustion], [Laceration], [Vibration], [Burst], [Sinking]
+717||Pasywka wroga [112702] — nazwa] 원한 문신|Vengeance Tattoo
+718||Pasywka wroga [112702] — opis] 이번 전투에서 중지 소속 아군이 사망할 때마다 [AttackUp] 1을 얻음 (최대 5)|Every time a Middle ally is killed in this encounter, gain 1 [AttackUp] (max 5)
+719||Pasywka wroga [112703] — nazwa] 조금 더 퍼석해져버린 머리|Deeper in the World of Bristly
+720||Pasywka wroga [112703] — opis] 합에서 2회 패배하면, 다음 턴에 [DefenseDown] 6을 얻음|If this unit loses 2 Clashes, gain 6 [DefenseDown] next turn
+721||Pasywka wroga [112704] — nazwa] 앙갚음 장부|The Book of Vengeance
+722||Pasywka wroga [112704] — opis] 자신 또는 아군 중지 조직원이 피격 시, 공격자에게 [MiddleFingerBook]을 1 부여하고, 다음 턴에 [AttackUp] 1 얻음 (턴 당 최대 5)\n- 아군 중지 조직원이 스킬로 사망 시, 공격자에게 [MiddleFingerBook] 2 추가 부여|When this unit or its ally is hit, inflict 1 [MiddleFingerBook] against the attacker, then gain 1 [AttackUp] next turn (max 5 per turn)\n- When an allied unit from The Middle is killed by a Skill, inflict 2 additional [MiddleFingerBook] against the attacker
+723||Pasywka wroga [112705] — nazwa] 전투 부상|Wounded in Battle
+724||Pasywka wroga [112705] — opis] 최대 체력의 40% 만큼 체력이 감소한 상태로 전투 시작 (부위 포함)|Begins Encounter with 40% less HP (including Parts)
+725||Pasywka wroga [112707] — nazwa] 머리 털기|Brush it Off
+726||Pasywka wroga [112707] — opis] 패닉 상태가 되면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.|When in panic, recover from panic at the start of the next turn and reset SP to 0.
+727||Wróg / część [90101] — nazwa] 초록 노움|Leafy Gnome
+728||Wróg / część [90101] — opis] 적 잡몹|Enemy Unit
+729||Wróg / część [90102] — nazwa] 빨간 노움|Cherry Gnome
+731||Wróg / część [90103] — nazwa] 검은 노움|Shadowy Gnome
+733||Wróg / część [90104] — nazwa] 실장 노움|Manager Gnome
+735||Wróg / część [811401] — nazwa] 몸통|Body
+736||Wróg / część [811401] — opis] 부위|Part
+743||Wróg / część [8113] — nazwa] 산타타|Santata
+747||Wróg / część [811302] — nazwa] 선물 주머니|Gift Sack
+749||Wróg / część [90105] — nazwa] 도도루|Dodoru
+751||(ulepszenie 1) — nazwa] 기쁨이 되시지요|Be The Joy
+752||(ulepszenie 1) — opis] [WhenUse] 자신의 [Charge] 횟수 2 증가|[WhenUse] Gain +2 [Charge] Count
+753||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 다음 턴에 [Binding] 3 부여|[OnSucceedAttack] Inflict 3 [Binding] on target next turn
+755||(ulepszenie 1) — nazwa] 위안이 되시지요|Be The Comfort
+757||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 3 증가|[OnSucceedAttack] Gain +3 [Breath] Count
+758||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] [Breath] 3 얻음|[OnSucceedAttack] Gain 3 [Breath]
+759||(ulepszenie 1) — moneta 2, efekt 1 — opis] [CriticalOnSucceedAttack] 가지고 있는 [Breath]만큼 [Breath]얻음|[CriticalOnSucceedAttack] Gain [Breath] equal to [Breath] on self
+761||(ulepszenie 1) — nazwa] 선물이랍니다|Here's a Gift
+762||(ulepszenie 1) — opis] 대상에게 [Binding]이 있다면, 자신이 더 빠를 경우 자신과의 속도 차이만큼 합 위력이 증가|If target has [Binding], and if this unit has a faster Speed, gain Clash Power equal to the Speed difference
+764||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [Breath] 2 얻음, 자신의 [Breath] 횟수 3 증가|[OnSucceedAttack] Gain 2 [Breath] and +3 [Breath] Count
+765||(ulepszenie 1) — moneta 1, efekt 3 — opis] [CriticalOnSucceedAttack] 다음 턴에 [Paralysis] 3 부여|[CriticalOnSucceedAttack] Inflict 3 [Paralysis] next turn
+766||(ulepszenie 1) — nazwa] 포장하겠어요|Let's Get Packing
+767||(ulepszenie 1) — opis] 자신에게 [AaCeSeBa]가 있다면, 코인 효과에 다음 턴에 [Paralysis] 1 부여 추가\n가장 느린 대상 우선 공격\n[EndBattle] 모든 [Charge] 횟수 소모|If this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] next turn' to Coin effects\nTargets the unit with the slowest Speed\n[EndBattle] Spend all [Charge] Count
+768||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음.|[OnSucceedAttack] Gain 3 [Breath].
+769||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 자신의 [Breath]만큼 추가 피해|[OnSucceedAttack] Deal bonus damage equal to [Breath] on self
+770||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] [Breath] 1 얻음, 자신의 [Breath] 횟수 3 증가|[OnSucceedAttack] Gain 1 [Breath] and +3 [Breath] Count
+771||(ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis] 중 무작위 1개 효과를 3 부여|[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Inflict or apply 3 of the selected effect.
+772||(ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] 자신의 [Charge] 횟수만큼 대상의 정신력을 감소|[OnSucceedAttack] Target loses SP equal to [Charge] Count on this unit
+773||(ulepszenie 1) — moneta 3, efekt 3 — opis] [EnemyKill] 모든 적의 정신력 10 감소.|[EnemyKill] All enemies lose 10 Sp.
+774||(ulepszenie 1) — moneta 3, efekt 4 — opis] [EnemyKillFail] 다음 턴에 [Paralysis] 2 얻음.|[EnemyKillFail] Gain 2 [Paralysis] next turn.
+775||(ulepszenie 1) — nazwa] 선물 준비 시간이에요|Time to Get Boxed
+776||(ulepszenie 1) — opis] 보호막 체력이 전부 소모되었다면, 다음 턴에 흐트러짐.\n보호막 체력이 남아있다면, 다음 턴에 [Enhancement] 2 얻음|If Shield HP is completely depleted, get Staggered next turn.\nIf there is remaining Shield HP, gain 2 [Enhancement] next turn
+777||(ulepszenie 1) — nazwa] 인간있움|Human-omes!
+778||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 4 얻음|[OnSucceedAttack] Gain 4 [Breath]
+779||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음|[OnSucceedAttack] Gain 3 [Breath]
+780||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가|[OnSucceedAttackHead] Gain +1 [Breath] Count
+781||(ulepszenie 1) — moneta 2, efekt 3 — opis] [CriticalOnSucceedAttack] [Paralysis] 2 부여|[CriticalOnSucceedAttack] Inflict 2 [Paralysis]
+782||(ulepszenie 1) — nazwa] 포획하움|Capture them-ome
+783||(ulepszenie 1) — opis] [WinDuel] 정신력 5 회복|[WinDuel] Heal 5 SP
+786||(ulepszenie 1) — moneta 1, efekt 3 — opis] 크리티컬 피해량 +40%|+40% Damage on Critical Hit
+787||(ulepszenie 1) — nazwa] 움움!!|Ome, Ome!!
+788||(ulepszenie 1) — moneta 1, efekt 1 — opis] 크리티컬 피해량 +30%|+30% Damage on Critical Hit
+791||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신의 [Breath] 횟수 2 증가|[OnSucceedAttack] Gain +2 [Breath] Count
+792||(ulepszenie 1) — nazwa] 싱싱하움|Fresh Meat-omes
+793||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음, 자신의 [Breath] 횟수 2 증가|[OnSucceedAttack] Gain 2 [Breath] and +2 [Breath] Count
+796||(ulepszenie 1) — moneta 2, efekt 3 — opis] [CriticalOnSucceedAttack] 다음 턴에 [Binding] 3 부여|[CriticalOnSucceedAttack] Inflict 3 [Binding] next turn
+797||(ulepszenie 1) — nazwa] 팔팔하움|Lookin' Lively-ome!
+801||(ulepszenie 1) — nazwa] 막았움!|No Use-ome!
+802||(ulepszenie 1) — opis] [EndBattle] 보호막 체력이 남아있다면, 다음 턴에 [Enhancement] 1 얻음.|[EndBattle] If this unit has Shield, gain 1 [Enhancement] next turn.
+803||(ulepszenie 1) — nazwa] 가구로 만들겠움|Turn Ya Into Furniture-omes!
+808||(ulepszenie 1) — nazwa] 얼른 옮기겠움|Let's Get It Moving-ome
+813||(ulepszenie 1) — nazwa] 헤움헤움~|Hoom Hoom~
+814||(ulepszenie 1) — opis] [OnSucceedEvade] 다음 턴에 [Breath] 5얻음. 자신의 [Breath] 횟수 2 증가.\n[OnDefeatEvade] 10만큼 흐트러짐 손상|[OnSucceedEvade] Gain 5 [Breath] and +2 [Breath] Count.\n[OnDefeatEvade] Raise Stagger Threshold by 10
+815||(ulepszenie 1) — nazwa] 놓치지 않겠움|I'll Get You-ome
+817||(ulepszenie 1) — moneta 1, efekt 2 — opis] [CriticalOnSucceedAttack] 다음 턴에 [Binding] 2 부여|[CriticalOnSucceedAttack] Inflict 2 [Binding] next turn
+818||(ulepszenie 1) — nazwa] 노다지움|We Struck Gold-ome!
+820||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 2 얻음. 자신의 [Breath] 횟수 3 증가|[OnSucceedAttack] Gain 2 [Breath] and +3 [Breath] Count
+822||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Breath] 3 얻음. 자신의 [Breath] 횟수 1 증가|[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count
+824||(ulepszenie 1) — nazwa] 산지 직송이움!|Local Raw Material-omes!
+825||(ulepszenie 1) — opis] [WinDuel] [Breath] 3 얻음|[WinDuel] Gain 3 [Breath]
+826||(ulepszenie 1) — moneta 1, efekt 1 — opis] [CriticalOnSucceedAttack] 마지막 코인 피해량 +20%|[CriticalOnSucceedAttack] Damage +20% for the last Coin

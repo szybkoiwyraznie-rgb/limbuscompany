@@ -1,0 +1,36 @@
+830||(ulepszenie 1) — moneta 3, efekt 1 — opis] [CriticalOnSucceedAttack] 자신의 [Breath] 횟수를 소모하지 않음. [Breath]만큼 추가 타격 피해 입힘|[CriticalOnSucceedAttack] Does not consume [Breath] Count. Deal bonus Blunt damage equal to [Breath]
+832||(ulepszenie 1) — opis] [EndBattle] 보호막 체력이 남아있다면, 다음 턴에 [Enhancement] 2 얻음.|[EndBattle] If this unit has Shield, gain 2 [Enhancement] next turn.
+833||Pasywka wroga [811301] — nazwa] 산타타의 웃음|Santata's Guffaw
+834||Pasywka wroga [811301] — opis] [Charge] 횟수가 10이상이면, 다음 턴에 [AaCeSeBa]를 얻음.\n본체 체력이 30%이하가 되면, 매 턴마다 [AaCeSeBa]를 얻음.|At 10+ [Charge] Count, gain [AaCeSeBa] next turn.\nAt 30%- Core HP, gain [AaCeSeBa] every turn.
+835||Pasywka wroga [811302] — nazwa] 전구 방전|Lights Out
+836||Pasywka wroga [811302] — opis] 흐트러짐 상태가 되면, 모든 [Charge] 횟수 잃음.|Lose all [Charge] Count when this unit is Staggered.
+837||Pasywka wroga [811303] — nazwa] 흩어지는 호흡|Scattering Breath
+838||Pasywka wroga [811303] — opis] 공격 스킬에 피격시 [Breath] 횟수 1 감소|Lose 1 [Breath] when hit by an Attack Skill
+839||Pasywka wroga [811304] — nazwa] 선물을 담을 수 없어요!!|I CAN'T BAG THE GIFTS!!
+840||Pasywka wroga [811304] — opis] 선물 주머니 부위가 파괴되었다면, 포장하겠어요 기본 위력 -2|Base Power -2 to 'Let's Get Packing' if the Gift Sack Part is broken.
+841||Pasywka wroga [9010101] — nazwa] 싱싱한 인간이움|Fresh Human-omes!
+842||Pasywka wroga [9010101] — opis] 살아있는 적 수당 앞면 확률 2% 증가. (최대 95%)|Every surviving enemy gives this unit +2% chance to flip Heads. (Max 95%)
+843||Pasywka wroga [9010102] — nazwa] 내 몫이움|Mine-omes
+844||Pasywka wroga [9010102] — opis] 턴 종료 시 살아있는 적보다 살아있는 아군이 적을 때, 다음 턴에 [Agility] 1, [Enhancement] 1을 얻음.|Turn End: when there are more surviving enemies than surviving allies, gain 1 [Agility] and 1 [Enhancement] next turn.
+845||Wróg / część [1079] — nazwa] 산초|Sancho
+846||Wróg / część [1079] — opis] 본체|Core
+847||Wróg / część [1080] — nazwa] 나태 죄종??|Peccatulum Pigritiae??
+849||Wróg / część [1081] — nazwa] 우울 죄종??|Peccatulum Morositatis??
+851||Wróg / część [1082] — nazwa] 뒤틀린 호엔하임|Distorted Hohenheim
+855||Wróg / część [90181] — nazwa] 검열된 로보토미 3등급 직원|Censored Lobotomy Corp. L3 Agent
+857||Wróg / część [90182] — nazwa] 검열된 로보토미 2등급 직원|Censored Lobotomy Corp. L3 Agent
+859||Wróg / część [1098] — nazwa] 질투 죄종?|Peccatulum Invidiae?
+861||Wróg / część [1100] — nazwa] 질투 죄종|Peccatulum Invidiae
+863||(ulepszenie 1) — nazwa] 바위 세례|Stoneshower
+864||(ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 5 이상이면, 기본 위력 +1|[WhenUse] If target has 5+ [Vibration], Base Power +1
+865||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 8 부여|[OnSucceedAttack] Inflict 8 [Vibration]
+867||(ulepszenie 1) — nazwa] 돌 모으기|Gather Stones
+868||(ulepszenie 1) — opis] [WinDuel] 대상에게 [Vibration]이 있으면, 기본 위력 +2|[WinDuel] If target has [Vibration], Base Power +2
+870||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] [VibrationExplosion]. [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+871||(ulepszenie 1) — nazwa] 솟아나는 나태|Rising Sloth
+872||(ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration] 3 당, 코인 위력 +1 (최대 3)\n[WinDuel] 대상의 [Vibration] 5 당, 이 스킬의 공격 가중치 +1 (최대 2)|[WhenUse] Coin Power +1 for every 3 [Vibration] on target (max 3)\n[WinDuel] This Skill gains Atk Weight +1 for every 5 [Vibration] on the target (max 2)
+873||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [VibrationEcho]으로 [Switch_Vibration]|[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]
+874||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상의 [Vibration] 횟수 2 당, [VibrationExplosion] 1회 (최대 2회). [Vibration] 횟수 2 감소|[OnSucceedAttack] Trigger [VibrationExplosion] once for every [Vibration] Count on the target (max 2); then, reduce target's [Vibration] Count by 2
+875||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Vibration] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Vibration] Count
+877||(ulepszenie 1) — opis] 보호막 체력이 있는 동안 피격 시, 공격자에게 [Vibration] 2 부여\n[WhenUse] 보호 3 얻음.|Inflict 2 [Vibration] against the Attacker when hit as long as there is remaining Shield HP\n[WhenUse] Gain 3 Protection
+878||(ulepszenie 1) — nazwa] 잠식 충돌|Decay Collission

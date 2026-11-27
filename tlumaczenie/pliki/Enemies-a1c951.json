@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=811301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811301].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=811302].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811302].name": {
+      "pl": "Gift Sack",
+      "kr_sha256": "73d499ccfa2c8f7df9de381da2909b41f2a5d7c168db5c60ebdace9c6ccc78e0",
+      "en_sha256": "c435c491f4203c7ec78b2d993f92e0bad7910ea552822feca07d28b3afb7e619",
+      "origin": "ai"
+    },
+    "dataList[id=8113].desc": {
+      "pl": "wroga jednostka",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=8113].name": {
+      "pl": "Santata",
+      "kr_sha256": "641f924256649d3435c57970f5e68d06a9a278c217f16ce73a248209d82f69a8",
+      "en_sha256": "5c4da9674b3e14c635d0888a0658e03db8387b37e9a2e1140a0b7cbaecf4b1f0",
+      "origin": "ai"
+    },
+    "dataList[id=811401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811401].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=811501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=811601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=811601].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=813501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=813501].name": {
+      "pl": "Korpus",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=90101].desc": {
+      "pl": "wroga jednostka",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90101].name": {
+      "pl": "Leafy Gnome",
+      "kr_sha256": "3fd59ef390d82f2697b38fb68c91e08f76b834450f1fd4537ce376136be5721d",
+      "en_sha256": "264b902368685324b2636207ae2abc885b67970887a48349fe25023a9e2395cd",
+      "origin": "ai"
+    },
+    "dataList[id=90102].desc": {
+      "pl": "wroga jednostka",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90102].name": {
+      "pl": "Cherry Gnome",
+      "kr_sha256": "4d83153175c82e160299f3525c4ec63e872938642d4294c657bb1dcf15451ec7",
+      "en_sha256": "60be59104c1048d8f9916587157ac654625c56f01369cac5b09c00c46d0b99b4",
+      "origin": "ai"
+    },
+    "dataList[id=90103].desc": {
+      "pl": "wroga jednostka",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90103].name": {
+      "pl": "Shadowy Gnome",
+      "kr_sha256": "622a72b0369147074a07f4f12422ad32c1cafc1da5d6da3f90250f10563a4520",
+      "en_sha256": "cdb2e7e2ac04b7e2eee465b3ec5f02c25b1b7777f46e185f0aaec23c76bbec3f",
+      "origin": "ai"
+    },
+    "dataList[id=90104].desc": {
+      "pl": "wroga jednostka",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90104].name": {
+      "pl": "Manager Gnome",
+      "kr_sha256": "de383bb4f4b0d500a5ec084955f86f0aa7bb813d9f2b2686253db8d169ad06d7",
+      "en_sha256": "4ea1b368fd13c8c0ac9c6ac233ed3218e1916148394ab2ded00c4efea3eab580",
+      "origin": "ai"
+    },
+    "dataList[id=90105].desc": {
+      "pl": "wroga jednostka",
+      "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
+      "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
+      "origin": "ai"
+    },
+    "dataList[id=90105].name": {
+      "pl": "Dodoru",
+      "kr_sha256": "eb6a28b4ea82799ba103984ec3b02bb932e4ebc77254485385e85f00c0c575f6",
+      "en_sha256": "67a28452d7aed099f857aa17ba2f9dcc88c8d69a826aa7d24e7928fa59bfd0ff",
+      "origin": "ai"
+    }
+  }
+}

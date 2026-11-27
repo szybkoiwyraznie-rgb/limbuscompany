@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=108001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Vibration]",
+      "kr_sha256": "dea7ef23a69522a01292fdd3177f75f82941e3367e79220f3b0b99d27dc1ddc4",
+      "en_sha256": "0ef6ce32ca2e11ea3b66c6accabd4638ac223e4ce513336fd7e1d13223346942",
+      "origin": "ai"
+    },
+    "dataList[id=108001].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Licznika [Vibration]",
+      "kr_sha256": "f75b0372b2e6bc7d1a86d8955c4b59655ea22d1c005628d2f27db58d3a5f1381",
+      "en_sha256": "0d0a8b310ae73d7837df8e76ee61e270e33df641c1b545167c371fa5d39e68f2",
+      "origin": "ai"
+    },
+    "dataList[id=108001].levelList[level=1].desc": {
+      "pl": "[WhenUse] jeżeli cel ma 5+ [Vibration], Moc Bazowa +1",
+      "kr_sha256": "5ee251dbe3700198b209befa9358d50c99f043b2b3f95f47a37566acd2ba28cc",
+      "en_sha256": "a2f3db50aed4ac78d3f0fdfcb97c1ce177ca41490181ca022c4a134babdaf52a",
+      "origin": "ai"
+    },
+    "dataList[id=108001].levelList[level=1].name": {
+      "pl": "Stoneshower",
+      "kr_sha256": "d73233e0b95fffea221d1b813c4201914588745434eec2b7c16953d0d076ad32",
+      "en_sha256": "cdad90a9f09a792914af4accb57bb3fbc0e6888cb3db3abe5c151a92e56fc9a3",
+      "origin": "ai"
+    },
+    "dataList[id=108002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 8 [Vibration]",
+      "kr_sha256": "dea7ef23a69522a01292fdd3177f75f82941e3367e79220f3b0b99d27dc1ddc4",
+      "en_sha256": "0ef6ce32ca2e11ea3b66c6accabd4638ac223e4ce513336fd7e1d13223346942",
+      "origin": "ai"
+    },
+    "dataList[id=108002].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]; następnie zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "73ae459a1cdf1235bd958a2be8d1a9b9de28fb23095c5d7eb25472eed7c96dd9",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=108002].levelList[level=1].desc": {
+      "pl": "[WinDuel] jeżeli cel ma [Vibration], Moc Bazowa +2",
+      "kr_sha256": "f3447ca2b93fc32233addfe257e9457dca328c2a2bab06c83f711355d95bc01c",
+      "en_sha256": "adf5a32e801715e6735d40ef7d8b7202375528b5584f471d9833e3025714d6af",
+      "origin": "ai"
+    },
+    "dataList[id=108002].levelList[level=1].name": {
+      "pl": "Gather Stones",
+      "kr_sha256": "5d8cc07d69c0dd68e8616a508687be0af762a05bf9ad944f7a8a0f9c3755b34f",
+      "en_sha256": "18af03de5989106ba7f36674a87d82ec91d74992ac3aded864c3a621b0d339c2",
+      "origin": "ai"
+    },
+    "dataList[id=108003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [Switch_Vibration], przekształcając je w [VibrationEcho]",
+      "kr_sha256": "688eb84ebd8b0c10f870e5127a02f8a37c9b97c062be0019f22eb25416867e94",
+      "en_sha256": "cdceeb62eff96b2dc06f23e1e7fc6ef5c8e10a03cc3935a4c8514d8b75bbcbab",
+      "origin": "ai"
+    },
+    "dataList[id=108003].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion] raz za każde 2 Liczniki [Vibration] celu (maks. 2 razy); następnie zmniejsza Licznik [Vibration] celu o 2",
+      "kr_sha256": "d910a0f1d204f683e58eaad9ac36858ccbb144dc436e7d9118a0492c451930da",
+      "en_sha256": "f5a81ad19f20e8ffa9ab980f18a7d166edc22eb37eaedef79ad4277c87c1b505",
+      "origin": "ai"
+    },
+    "dataList[id=108003].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Licznika [Vibration]",
+      "kr_sha256": "9e03814a3dfdfbefc77a1bf0779d263eef8c512afc12e51cca2326752d8a818d",
+      "en_sha256": "fae65a7df9bc1364fd7d9b94470fe6da97d39e7da98f46bf4440021581a75673",
+      "origin": "ai"
+    },
+    "dataList[id=108003].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Monety +1 za każde 3 [Vibration] celu (maks. 3)\n[WinDuel] ta Umiejętność zyskuje Wagę Ataku +1 za każde 5 [Vibration] celu (maks. 2)",
+      "kr_sha256": "bef337d7abcf1f2673b9b964d74c5e1aef259d462b1092f9ec72842599070b0e",
+      "en_sha256": "19b5a3828b6dcc79a6eb89b439e9a123dc78015459bc515a06173f6eef3aec63",
+      "origin": "ai"
+    },
+    "dataList[id=108003].levelList[level=1].name": {
+      "pl": "Rising Sloth",
+      "kr_sha256": "057b75b39eb6c14119f13ba6c2a8027c504bbafb0c507100338fad929226112f",
+      "en_sha256": "ab88deaee33c808eb2182251cf58c56e80376555ae607d431e0411167138e691",
+      "origin": "ai"
+    },
+    "dataList[id=108004].levelList[level=1].desc": {
+      "pl": "przy otrzymaniu trafienia, dopóki pozostało HP Tarczy, nakłada 2 [Vibration] atakującemu\n[WhenUse] zyskuje 3 Ochrony.",
+      "kr_sha256": "a4a5276fe22ae6387abf849b571940d7146bd1cdc3c7362821127a807ccd2420",
+      "en_sha256": "c62dbc985d2419ee47099f21f12287f159593a9d4e3f09f70e6d5c563d437329",
+      "origin": "ai"
+    },
+    "dataList[id=108004].levelList[level=1].name": {
+      "pl": "Guard",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=108101].levelList[level=1].name": {
+      "pl": "Decay Collission",
+      "kr_sha256": "cc2e5b1041f793342ec123909d69455e5e13c2aba77bc7cde981c5870e8d0935",
+      "en_sha256": "fcbbf106e9e92836b9345fd574aba47c407e9f65776609085218b6446fa58077",
+      "origin": "ai"
+    }
+  }
+}
