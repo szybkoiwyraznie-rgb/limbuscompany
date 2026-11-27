@@ -47,6 +47,30 @@
       "kr_sha256": "83eea7a79271ddb296a6f1b995b2cc31a194ecd2acfd2d0fd0f680804cb3ac6f",
       "en_sha256": "608b52bccf15d800bcecffbb3df313f3a03f044bb8ce733beb3de6398f370384",
       "origin": "ai"
+    },
+    "dataList[id=400027].desc": {
+      "pl": "Tożsamość ??? Don Quixote",
+      "kr_sha256": "4c4e1e736c320951ff946b2d8166784de8028ae9dcf38369c23e6fbedf076a4e",
+      "en_sha256": "743221cc18b612027c80ac4a76947a9a044b06e522c09bbcec150ac34eae987f",
+      "origin": "ai"
+    },
+    "dataList[id=400027].name": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=400027].nameWithTitle": {
+      "pl": "Don Quixote",
+      "kr_sha256": "8fd85ab396aeecdb6f5c344277292bd6d0b0ffdc3568cf41e2df889e76f41bfc",
+      "en_sha256": "20ca82105a33e01a508a42c5fe4af89a6e16c5a1f3c99e15af3becf39282e08e",
+      "origin": "ai"
+    },
+    "dataList[id=400027].title": {
+      "pl": "Grzesznik Grupy Słoników",
+      "kr_sha256": "e3ff65f113edf3741e9a0f7a6a72b8b12e7073b938edcb62978a3d6dae098246",
+      "en_sha256": "0581df0aafa20368d7fdbec7fed1f8ab595a6ac72faaf38c0e98f0686659f8fb",
+      "origin": "ai"
     }
   }
 }

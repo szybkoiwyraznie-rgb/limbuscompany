@@ -47,6 +47,30 @@
       "kr_sha256": "320ff44acb0611d3d7819437b029e1b3ee52141f85789b71da431ddf0cc29713",
       "en_sha256": "1105798465c74d4d82ebfd97dcbca7802dc89c8f17ba577e91c406e7b4553069",
       "origin": "ai"
+    },
+    "dataList[id=40002701].desc": {
+      "pl": "Po wygranym Starciu zadaje +10% obrażeń tą Umiejętnością",
+      "kr_sha256": "508f05beffc80ecb822294905702d581a0fc89891f91b7e35446a63e3eab977c",
+      "en_sha256": "8538f2790d34118ed16fef5361c98b7af8b0232119994d3408506782b48d300d",
+      "origin": "ai"
+    },
+    "dataList[id=40002701].name": {
+      "pl": "Wicheous Retwibyushun",
+      "kr_sha256": "975e2314c371a66d6b8566b5df05f2d467ff00bfb15562044e3063b16d771ae6",
+      "en_sha256": "482367c93a6c18854d165d3ff7250e6ce684700406b1cb4369364515048d0b86",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].desc": {
+      "pl": "1 Sojusznik z najwyższą Poczytalnością: Umiejętności Kłucia zadają +10% obrażeń",
+      "kr_sha256": "efa3a773476c98abff6edf07f3ea532e5d8efe79a0198f9928fd6ca8b2c1a098",
+      "en_sha256": "ecf26b8b150f20c0474c2b2cfc043486b387b37ceb71a21f88d096ac88a5df38",
+      "origin": "ai"
+    },
+    "dataList[id=40002702].name": {
+      "pl": "Wsparcie",
+      "kr_sha256": "4c612bbe2171dfdacdd3dfa65b642b2a21f39cde5c4e51651062c6c3f4bc107b",
+      "en_sha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3",
+      "origin": "ai"
     }
   }
 }
