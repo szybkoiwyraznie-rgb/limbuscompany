@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=7104701].desc": {
+      "pl": "na początku tury: przywraca 3% HP\nprzy mniej niż 50% HP, dodatkowo przywraca 5% HP",
+      "kr_sha256": "7ed310d98c514e40d7ee451e6d7d68e07ae55a9cecab307689bb04182aaa7dee",
+      "en_sha256": "a28d75641b2cedabd6f1f1a5f5d70529d960c1d63f6d45dca3ec887f5dc18781",
+      "origin": "ai"
+    },
+    "dataList[id=7104701].name": {
+      "pl": "HP Bullets",
+      "kr_sha256": "376fbf1e52c4ed5cec3d56382e1a532b7e53d0b5e2de563a78ba227c3e55444f",
+      "en_sha256": "d45add37d7bc9689c7012ef5d7aa1232c344b3c8955d20b9072bec05eaa748bb",
+      "origin": "ai"
+    },
+    "dataList[id=7105001].desc": {
+      "pl": "na początku tury: zyskuje 2 [AttackDmgUp] i 2 [Vulnerable].",
+      "kr_sha256": "54dab9d79331d7610682db91699139377f76c28b131f1c5237af330c31369bfe",
+      "en_sha256": "ca06bb0a8daa1932e7609cff7920ab1cb7c419c429078b3ec5b5ddddac744580",
+      "origin": "ai"
+    },
+    "dataList[id=7105001].name": {
+      "pl": "Overloaded HP Bullet",
+      "kr_sha256": "633cf47c8ee13788160f974b681dd4be80e77ba49079055b6d0318ddd96c4613",
+      "en_sha256": "b722da730392c954dbe15e1bc0ff836f8382ae8b5fc3881c7473fd560f6da18c",
+      "origin": "ai"
+    },
+    "dataList[id=7105002].desc": {
+      "pl": "na początku tury: jeżeli HP jednostki nie jest pełne, przywraca 25% HP (maks. 3 razy)",
+      "kr_sha256": "1d486b4e4b4ce89b0d562d7f08147cff64dca35d674e5380c2ed669d4e1913ef",
+      "en_sha256": "714f15a62a26773ba456e445cf72cdfee78aa6a19ca552a1044bdba97eb3c281",
+      "origin": "ai"
+    },
+    "dataList[id=7105002].name": {
+      "pl": "HP Ampule Injection",
+      "kr_sha256": "0f745a282c8b6281e9b9c963a3de10b390d70b87e544648d40deae452065459c",
+      "en_sha256": "1a4e166d6e92dc559535e02e6e96a500b7630104c16081da357029e5a16b0d49",
+      "origin": "ai"
+    },
+    "dataList[id=7105101].desc": {
+      "pl": "na początku tury: przywraca 3% HP\nprzy mniej niż 50% HP, dodatkowo przywraca 5% HP",
+      "kr_sha256": "7ed310d98c514e40d7ee451e6d7d68e07ae55a9cecab307689bb04182aaa7dee",
+      "en_sha256": "a28d75641b2cedabd6f1f1a5f5d70529d960c1d63f6d45dca3ec887f5dc18781",
+      "origin": "ai"
+    },
+    "dataList[id=7105101].name": {
+      "pl": "HP Bullets",
+      "kr_sha256": "376fbf1e52c4ed5cec3d56382e1a532b7e53d0b5e2de563a78ba227c3e55444f",
+      "en_sha256": "d45add37d7bc9689c7012ef5d7aa1232c344b3c8955d20b9072bec05eaa748bb",
+      "origin": "ai"
+    },
+    "dataList[id=7105102].desc": {
+      "pl": "jeżeli HP tej jednostki jest wyższe niż celu, zyskuje Moc Starcia +(różnica HP / 50) (maks. 3)\njeżeli jednostka zyskała Moc Starcia dzięki powyższemu efektowi, po zakończeniu ataku zyskuje 1 [Vulnerable]",
+      "kr_sha256": "c4be5f83383008d7ddbf8ccc5fa7c64948d890565ba6482fd30643430876e70d",
+      "en_sha256": "073fe66426b3aeb6979b3702b0a174e770a9db73e8b0f3d069a132569627436d",
+      "origin": "ai"
+    },
+    "dataList[id=7105102].name": {
+      "pl": "Tango Marinade",
+      "kr_sha256": "f36a632e037106c3400adce65de210658f7feeea97a609814d5ebb05dfee5ada",
+      "en_sha256": "7e19be6b5a7626ab90881928f29d3e8f6fd16c45af15e0d76a7db96b3313e173",
+      "origin": "ai"
+    },
+    "dataList[id=7105501].desc": {
+      "pl": "na początku tury: przywraca 3% HP\nprzy mniej niż 50% HP, dodatkowo przywraca 5% HP",
+      "kr_sha256": "7ed310d98c514e40d7ee451e6d7d68e07ae55a9cecab307689bb04182aaa7dee",
+      "en_sha256": "a28d75641b2cedabd6f1f1a5f5d70529d960c1d63f6d45dca3ec887f5dc18781",
+      "origin": "ai"
+    },
+    "dataList[id=7105501].name": {
+      "pl": "HP Bullets",
+      "kr_sha256": "376fbf1e52c4ed5cec3d56382e1a532b7e53d0b5e2de563a78ba227c3e55444f",
+      "en_sha256": "d45add37d7bc9689c7012ef5d7aa1232c344b3c8955d20b9072bec05eaa748bb",
+      "origin": "ai"
+    },
+    "dataList[id=7105502].desc": {
+      "pl": "przy trafieniu Rewersem, nakłada 3 [Sinking]",
+      "kr_sha256": "33e4c2512e4b0dccf850154cd0c293d1085137a0c728f3e95b32bf98f642f189",
+      "en_sha256": "a20d4f0ea6f8ebd0e9f143f035ed7e4b2da708f4831fc8b75998a47942f8632b",
+      "origin": "ai"
+    },
+    "dataList[id=7105502].name": {
+      "pl": "Floods of Sorrow",
+      "kr_sha256": "57a3cad19df1ef079ce79493d703d6782e4b099d4e32f3ce94f4384c50754da5",
+      "en_sha256": "13f0029f02348217e60144d66d1353190e764bcc90283472390405777d9060e2",
+      "origin": "ai"
+    },
+    "dataList[id=7105503].desc": {
+      "pl": "na koniec tury: traci 5 Poczytalności",
+      "kr_sha256": "f839fab31d7afc76aad16efa9b9b48b6a6f6b40be4f07b55a83727a02f6610bf",
+      "en_sha256": "402fed485817bb18eefff3ebdc0c408ed51ec51a877b33f1937d31417efe255d",
+      "origin": "ai"
+    },
+    "dataList[id=7105503].name": {
+      "pl": "Overflowing Sorrow",
+      "kr_sha256": "55bb6cbae62444e305e35d96601de0cbe98c852b6d1929f7017ac036d1d0069a",
+      "en_sha256": "f566e284a1d66969e755444af00f288952331c70b3e4429b42abe6d0e23e800a",
+      "origin": "ai"
+    },
+    "dataList[id=7105701].desc": {
+      "pl": "na początku tury: przywraca 5% HP.",
+      "kr_sha256": "44df7c4f7e907561227dd75e4ddd169bf7c4783283cd73cc4f3bd930fbd89b31",
+      "en_sha256": "ce850149bc4a3c24132d74aaa73738e453ded2cccc8549b550252bb25494464d",
+      "origin": "ai"
+    },
+    "dataList[id=7105701].name": {
+      "pl": "Healing Ampule Injection",
+      "kr_sha256": "212d2e0f1e2ecdd2a570f15e55a9af91e4a1d5beab4880a885a7a67a1fcbf982",
+      "en_sha256": "518812f4f998512a6a2fe718f4da8bf189bff4996ad2c6f5be0c914bfa00beea",
+      "origin": "ai"
+    },
+    "dataList[id=7105801].desc": {
+      "pl": "na początku tury, zyskuje 2 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "a922bbf4f335bdbb4b3736c06949c602399d82fc0425ec468fe2f712eda40f07",
+      "en_sha256": "16e5fd4ddbc09a4798a173a36c338c0b9d23f84f071b6f3f6fbe5aa7e2935353",
+      "origin": "ai"
+    },
+    "dataList[id=7105801].name": {
+      "pl": "Overloaded HP Bullet",
+      "kr_sha256": "633cf47c8ee13788160f974b681dd4be80e77ba49079055b6d0318ddd96c4613",
+      "en_sha256": "b722da730392c954dbe15e1bc0ff836f8382ae8b5fc3881c7473fd560f6da18c",
+      "origin": "ai"
+    },
+    "dataList[id=7105802].desc": {
+      "pl": "przy mniej niż 25% HP, przywraca do 40% Maks. HP (maks. 1 raz)",
+      "kr_sha256": "7e33d059602aaef38f9a2313bd35e0e6725b60af7e6d257de56e225bbb273088",
+      "en_sha256": "9e9ad1864fc32fdd38198b6b2545cf9e3d46ae47b402767a7620be31de47bcad",
+      "origin": "ai"
+    },
+    "dataList[id=7105802].name": {
+      "pl": "Emergency Ampule Administration",
+      "kr_sha256": "3070f925c95c9ce8c41bb282cd8f35787a42f644fd89dd9643efc2f19d9e91f2",
+      "en_sha256": "4e5add148613da6da76d9ff181b1ded6cf7f1e05c11600b72c4ebf2e2ae1d4a8",
+      "origin": "ai"
+    }
+  }
+}

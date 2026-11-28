@@ -1,0 +1,76 @@
+{
+  "entries": {
+    "dataList[id=9007701].desc": {
+      "pl": "przy mniej niż 70% HP, wskazuje innego sojusznika z najniższym aktualnym HP.\natakując sojusznika, przywraca HP równe zadanym obrażeniom.\nzabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.",
+      "kr_sha256": "32370de3837edd4b00a2ee27d4b876edf673b19936faaeb0d6cd3920ee631313",
+      "en_sha256": "49f8cd9769a74fff06add7efc96458b16bf6045b2d744326bc78cd6745200782",
+      "origin": "ai"
+    },
+    "dataList[id=9007701].name": {
+      "pl": "A Crab-eat-crab World",
+      "kr_sha256": "0f77403769daf9a2d26c7a4e8c0af51f658b4395d132b068154c6465869afde2",
+      "en_sha256": "9087580569619760ea92561eb07814a53a742cf5e177ada5123acbf07c34dc85",
+      "origin": "ai"
+    },
+    "dataList[id=9007801].desc": {
+      "pl": "przy mniej niż 70% HP, wskazuje innego sojusznika z najniższym aktualnym HP.\natakując sojusznika, przywraca HP równe zadanym obrażeniom.\nzabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.",
+      "kr_sha256": "32370de3837edd4b00a2ee27d4b876edf673b19936faaeb0d6cd3920ee631313",
+      "en_sha256": "49f8cd9769a74fff06add7efc96458b16bf6045b2d744326bc78cd6745200782",
+      "origin": "ai"
+    },
+    "dataList[id=9007801].name": {
+      "pl": "A Crab-eat-crab World",
+      "kr_sha256": "0f77403769daf9a2d26c7a4e8c0af51f658b4395d132b068154c6465869afde2",
+      "en_sha256": "9087580569619760ea92561eb07814a53a742cf5e177ada5123acbf07c34dc85",
+      "origin": "ai"
+    },
+    "dataList[id=9007901].desc": {
+      "pl": "przy mniej niż 70% HP, wskazuje innego sojusznika z najniższym aktualnym HP.\natakując sojusznika, przywraca HP równe zadanym obrażeniom.\nzabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.",
+      "kr_sha256": "32370de3837edd4b00a2ee27d4b876edf673b19936faaeb0d6cd3920ee631313",
+      "en_sha256": "49f8cd9769a74fff06add7efc96458b16bf6045b2d744326bc78cd6745200782",
+      "origin": "ai"
+    },
+    "dataList[id=9007901].name": {
+      "pl": "A Crab-eat-crab World",
+      "kr_sha256": "0f77403769daf9a2d26c7a4e8c0af51f658b4395d132b068154c6465869afde2",
+      "en_sha256": "9087580569619760ea92561eb07814a53a742cf5e177ada5123acbf07c34dc85",
+      "origin": "ai"
+    },
+    "dataList[id=9008001].desc": {
+      "pl": "przy mniej niż 70% HP, wskazuje innego sojusznika z najniższym aktualnym HP.\natakując sojusznika, przywraca HP równe zadanym obrażeniom.\nzabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.",
+      "kr_sha256": "32370de3837edd4b00a2ee27d4b876edf673b19936faaeb0d6cd3920ee631313",
+      "en_sha256": "49f8cd9769a74fff06add7efc96458b16bf6045b2d744326bc78cd6745200782",
+      "origin": "ai"
+    },
+    "dataList[id=9008001].name": {
+      "pl": "A Crab-eat-crab World",
+      "kr_sha256": "0f77403769daf9a2d26c7a4e8c0af51f658b4395d132b068154c6465869afde2",
+      "en_sha256": "9087580569619760ea92561eb07814a53a742cf5e177ada5123acbf07c34dc85",
+      "origin": "ai"
+    },
+    "dataList[id=9008101].desc": {
+      "pl": "przy mniej niż 70% HP, wskazuje innego sojusznika z najniższym aktualnym HP.\natakując sojusznika, przywraca HP równe zadanym obrażeniom.\nzabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.",
+      "kr_sha256": "32370de3837edd4b00a2ee27d4b876edf673b19936faaeb0d6cd3920ee631313",
+      "en_sha256": "49f8cd9769a74fff06add7efc96458b16bf6045b2d744326bc78cd6745200782",
+      "origin": "ai"
+    },
+    "dataList[id=9008101].name": {
+      "pl": "A Crab-eat-crab World",
+      "kr_sha256": "0f77403769daf9a2d26c7a4e8c0af51f658b4395d132b068154c6465869afde2",
+      "en_sha256": "9087580569619760ea92561eb07814a53a742cf5e177ada5123acbf07c34dc85",
+      "origin": "ai"
+    },
+    "dataList[id=9008102].desc": {
+      "pl": "na początku walki: zyskuje 1 Molted Shell Shot",
+      "kr_sha256": "92902026aa4fac95e39bee3e3799f82af8ad6af7aca9bf0c445c1bdc31d256ed",
+      "en_sha256": "9fd56b3398a39ef0a7859341220486d9b0f5ba812511974e5bc20e80487f7c88",
+      "origin": "ai"
+    },
+    "dataList[id=9008102].name": {
+      "pl": "Molted Shell Shot",
+      "kr_sha256": "ed8c22fbb9a898638f6fbf6a578c05d6c04535dcc4ab539656d215f29cfa41a4",
+      "en_sha256": "694a04b9186a0578144a2828bddb9bf802bf7b7011387094ce7f0d670df44350",
+      "origin": "ai"
+    }
+  }
+}

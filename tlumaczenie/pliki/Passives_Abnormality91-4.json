@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "dataList[id=806301].desc": {
+      "pl": "gdy głowa zostaje zniszczona, Umiejętności tej Części mają Moc Końcową -2",
+      "kr_sha256": "3224dd7db298d4042c467c2339c31b26025a5351b14bdb3299d39c72fbe9113c",
+      "en_sha256": "b610f0fbe28f0bce1f3917e4aafdc41753754629e5d4d96674aabf4ee7c2d9b8",
+      "origin": "ai"
+    },
+    "dataList[id=806301].name": {
+      "pl": "Ferocious Acidic Crust",
+      "kr_sha256": "95f0b85a55eba57844a10c8525731d9d27e072120df1f139020e3be465d2982f",
+      "en_sha256": "c43e44509b9391325beef82d826db4c9937d936a5c89ffbc4cd6cf3db4223102",
+      "origin": "ai"
+    },
+    "dataList[id=806302].desc": {
+      "pl": "gdy muszla zostaje zniszczona, Umiejętności tej Części mają Moc Końcową -2",
+      "kr_sha256": "adfc5c0002638bbd95c6b1380a445c59c4cf351baa72482ad19bdf1ceee9e290",
+      "en_sha256": "38161ab5a51b0123528f70c60bd463c9990e551b5e6631753aea6c9d5fec34c4",
+      "origin": "ai"
+    },
+    "dataList[id=806302].name": {
+      "pl": "Stolen Rupturing Shell",
+      "kr_sha256": "4e5f2f3fb5968cd87c806733dc42ff3a4f193118eacf948a2f20b1663377acbb",
+      "en_sha256": "dba0112de4748ab2434a82b0298a4ef00f15aa1420d745eec02b492040010270",
+      "origin": "ai"
+    },
+    "dataList[id=806303].desc": {
+      "pl": "gdy ta jednostka zabije swojego sojusznika, przywraca HP równe 5% Maks. HP.\nna koniec tury, jeżeli przywróciła 15% Maks. HP dzięki powyższemu efektowi, odnawia muszlę.",
+      "kr_sha256": "78f0f3abafdd92e67441e0df3c5c5aca5f134372278c7839d4b8ecd7d08cb19a",
+      "en_sha256": "e19eac035af5ff73ac653c175c643ad03aedc9ad870ebd3bfda620983ebda925",
+      "origin": "ai"
+    },
+    "dataList[id=806303].name": {
+      "pl": "Emergency Nutrient Supply",
+      "kr_sha256": "c26d04949393f5b76881e6bdc2677d7a32ddf12837a47dc2a91cafd6d7fee033",
+      "en_sha256": "99e45d6388909ba89a659abfaa8290816452be7c02f0a833ad1fc6594f5a8b32",
+      "origin": "ai"
+    },
+    "dataList[id=806304].desc": {
+      "pl": "przy mniej niż 70% HP, Umiejętności Brutal Pummelling, Powerful! Pummel i Foaming wskazują innego sojusznika z najniższym aktualnym HP.\natakując sojusznika, przywraca HP równe zadanym obrażeniom.\nzabijając sojusznika, przywraca HP równe podwojonym zadanym obrażeniom.",
+      "kr_sha256": "8e602e1ec5f6af42bcee7d5ab1f72c4612c6e91e95d735ddc5440f59f3e5865b",
+      "en_sha256": "70acc0f121d6beaee4210ee9cb8abd09c466a12898073a0af24139cf05e011a2",
+      "origin": "ai"
+    },
+    "dataList[id=806304].name": {
+      "pl": "A Crab-eat-crab World",
+      "kr_sha256": "0f77403769daf9a2d26c7a4e8c0af51f658b4395d132b068154c6465869afde2",
+      "en_sha256": "9087580569619760ea92561eb07814a53a742cf5e177ada5123acbf07c34dc85",
+      "origin": "ai"
+    },
+    "dataList[id=806305].desc": {
+      "pl": "na początku tury: wszyscy wrogowie tracą 10 Poczytalności",
+      "kr_sha256": "9f85e1b762ab78ea725364b3665264e15ca19473e4020f479bd05318d39cf3f4",
+      "en_sha256": "a04356b8ffbfa56791d56416783858bf547ae1ec0c4178b53004f4717dccd012",
+      "origin": "ai"
+    },
+    "dataList[id=806305].name": {
+      "pl": "Looming Presence",
+      "kr_sha256": "f6c32a2eeb6a23d3f6a6980bbdfc28541b66225295903107c3fa2ff82c6b5d19",
+      "en_sha256": "15b51c540a243c32e254e9ccda5b653ca2f79e999fa0c9964964203d8c786090",
+      "origin": "ai"
+    }
+  }
+}

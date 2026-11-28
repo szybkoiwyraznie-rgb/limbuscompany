@@ -1,0 +1,316 @@
+{
+  "entries": {
+    "dataList[id=139001].desc": {
+      "pl": "Bitwa przechodzi do następnej fazy po pokonaniu wszystkich Clay Dollów",
+      "kr_sha256": "3df25a3e0f77d530ce76ca03f755fe860473b56f17d5c1a9f7f8d80c82238c73",
+      "en_sha256": "3266657002a3e484df7929d34fac6991c3f24241cfc28b0d5d4d219ecfc62daa",
+      "origin": "ai"
+    },
+    "dataList[id=139001].name": {
+      "pl": "Let the Blood Festival Flow",
+      "kr_sha256": "749ab41e53aefe9605c1cf0cea2ada65f63ef5e6563f5be7a92622c82b89db5f",
+      "en_sha256": "eb407eaee0ca6c989a4d99bfa49ecfea5347e863aa281a23c969a24d279b2eea",
+      "origin": "ai"
+    },
+    "dataList[id=139003].desc": {
+      "pl": "jeżeli oba Ramiona zostaną zniszczone lub HP Core spadnie do 70%, bitwa przechodzi do następnej fazy",
+      "kr_sha256": "1f878186abefe35243eb4dbc8301257a8958ace5523cdef83bcb14c34cdb30b6",
+      "en_sha256": "d4146a4b74f242bce40e1a9d4cda138e8782eeeaa797c314898b8c09b741dd24",
+      "origin": "ai"
+    },
+    "dataList[id=139003].name": {
+      "pl": "Let the Fire Festival Ignite",
+      "kr_sha256": "f9a707470e3185bb8586447de0549b9f6ee8b35ee766fc04910888e5a325524a",
+      "en_sha256": "d1f3583d56ca1ad1d0720c3cd7202c454489ec104890f63acb01c8cd804f2d6c",
+      "origin": "ai"
+    },
+    "dataList[id=139004].desc": {
+      "pl": "Podczas 3. fazy, nakłada 7 [Combustion] wszystkim wrogom co turę",
+      "kr_sha256": "13745ac89be8fedbc8bd4ed634609b35ac75caa8ad26c9f0fbfea4f1774f84b2",
+      "en_sha256": "986eaa9ecf2b07419c7e05c906d408b0bb5995e5de61c889239189349c3c38af",
+      "origin": "ai"
+    },
+    "dataList[id=139004].name": {
+      "pl": "Frenzy",
+      "kr_sha256": "2668bc818e5bb92383e10eda13c33daaac9eb267906aae71b48ac507176b6e9e",
+      "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
+      "origin": "ai"
+    },
+    "dataList[id=139006].desc": {
+      "pl": "gdy HP Core spadnie do 25% lub mniej, bitwa przechodzi do następnej fazy",
+      "kr_sha256": "2524822d342aa6432e9e1d5626d5882762091faca92cb475e3f4b09f02b25de8",
+      "en_sha256": "53cdbc130e95e6c0d689134f7324cbc93e8d564457763dc1adc3e41d0a379341",
+      "origin": "ai"
+    },
+    "dataList[id=139006].name": {
+      "pl": "Let the Star Festival Fall",
+      "kr_sha256": "8ac2c89a5241a927a4b65f934be01397d701466999e7c731db3f98de00101469",
+      "en_sha256": "71838c272e46d9bfc91eb63144e0c225867484191e2e74ff99a381a13ec8cd9e",
+      "origin": "ai"
+    },
+    "dataList[id=139101].desc": {
+      "pl": "nie ginie przy 0 HP; zamiast tego pozostaje na arenie jako jednostka niezdolna do działania, której nie można wybrać jako celu.\nZostaje pokonana razem z Doomsday Calendar",
+      "kr_sha256": "cece458fffa6b103732411be6ada8806093a45c2710235073dd90c769834bd9b",
+      "en_sha256": "b138138d3d86f921372a9285bf94f5fe7fc36456480800c85052b2f0c78af5fc",
+      "origin": "ai"
+    },
+    "dataList[id=139101].name": {
+      "pl": "Idolatry",
+      "kr_sha256": "dd2798fe89747f3116d8600305246850852fe2547e4f6cfd15a72dd6bd0845a8",
+      "en_sha256": "568ee030e91b2a7e17ebc165c1cba529dfd2205baa7bc066afd9cc2a98be8c52",
+      "origin": "ai"
+    },
+    "dataList[id=139301].desc": {
+      "pl": "przy 50+ [AccumulatedPastMirror], jeżeli HP Core wynosi 80%- lub mniej, na koniec tury Core przywraca 200 HP, zużywając 50 [AccumulatedPastMirror]",
+      "kr_sha256": "344ad863a39ea0aa1a9044717f7c8c33b8c2b610df65af0f4f8fc9888490153e",
+      "en_sha256": "982eb310cc840587bfc05f53d26b1c6f3bb236ffb47b5171b5151e3bc8108ad5",
+      "origin": "ai"
+    },
+    "dataList[id=139301].name": {
+      "pl": "Returning Past",
+      "kr_sha256": "1bab7148a7867b94a160a9b9cfd2fa585d0c15053fda0a15a36eb6c02f192a40",
+      "en_sha256": "63db7c9f852bd9403bb39905c3266feb093e25913e119110870fe23020f188c1",
+      "origin": "ai"
+    },
+    "dataList[id=139302].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, zużywa cały [AccumulatedPastMirror]\ngdy Korpus zostaje zniszczony, od następnej tury do końca walki wszystkie Typy Ataku i Atrybuty stają się Nieskuteczne (0,5)",
+      "kr_sha256": "04b2f354374f1d8f5a2607c542e6168f46e2cd3f6bfb6e7f17e159169f3e9290",
+      "en_sha256": "ee6b41777ea237a6b924757f6ff0c3b7552543809191da6519fbda392d2711fb",
+      "origin": "ai"
+    },
+    "dataList[id=139302].name": {
+      "pl": "Misplaced Past",
+      "kr_sha256": "26c33cdbda2c30243389df54fe4226dd72a62a32829ae15d2b74a28dcd82fa2a",
+      "en_sha256": "9aca948cbd6a7360624a0a031dc82af509d9c479d855e7b9ddd883dc6c0d8c3b",
+      "origin": "ai"
+    },
+    "dataList[id=139303].desc": {
+      "pl": "gdy Steam Blaster zostaje zniszczony, wszystkie Części tracą cały [Breath]\npo zniszczeniu Steam Blastera, za każdym razem, gdy jednostka zyskuje [Breath], zyskuje [Vulnerable] w liczbie równej zyskanemu [Breath]\npo zniszczeniu Steam Blastera, traci 1 [Breath] przy użyciu Umiejętności ataku",
+      "kr_sha256": "ac47e341882b46348b6c1d67d7e87d7f743a9f00cf482072144d26f1b37f7e8b",
+      "en_sha256": "3321a067cdb0918bde08b5b71b5764bdc6ed252a69e7f3b27a2d70b348dd0b0c",
+      "origin": "ai"
+    },
+    "dataList[id=139303].name": {
+      "pl": "Broken Exhaust Port",
+      "kr_sha256": "29793e8d1bd3cd5bee77a1d82aa19194012c4d1eb04ed04f11070e8d6eeb655a",
+      "en_sha256": "0f29f5b3543476a222621e38044f417995941effa94fdf98d9e91ffde7940342",
+      "origin": "ai"
+    },
+    "dataList[id=139304].desc": {
+      "pl": "gdy Steam Blaster zostanie trafiony, traci 1 [Breath] i 1 Licznik [Breath]",
+      "kr_sha256": "8dcf2c91ad2145de768c0a3bd8641cc7eabf9050e868b639b4dcf21d4e167fe2",
+      "en_sha256": "e71bb5ac6bbc11d8a52be2a5af19e2714b554a4f36620f16ef5b40f81beddfd9",
+      "origin": "ai"
+    },
+    "dataList[id=139304].name": {
+      "pl": "Leaking Steam",
+      "kr_sha256": "cdda12966abd6a008d8459fa774ba35ae1757c8849a3269a9670c9f7af27e881",
+      "en_sha256": "a2c2055124f562b56ba64c1fe05658b835e61572a1f3a0ec1f79a4da5b87ead6",
+      "origin": "ai"
+    },
+    "dataList[id=139305].desc": {
+      "pl": "jeżeli [AccumulatedPastMirror] jest liczbą nieparzystą, zyskuje 3 [Vulnerable] i [AttackDmgUp]\njeżeli jest liczbą parzystą, zyskuje 3 [Protection] i [AttackDmgDown]",
+      "kr_sha256": "3b9c974fb318d8d6b1bafa7403da2425e7490991265beaa2e24c2259867bd3a7",
+      "en_sha256": "2e39cc77da2c53533aa0a788aa32368a04a15b996ec502d717d12f276e0d52ca",
+      "origin": "ai"
+    },
+    "dataList[id=139305].name": {
+      "pl": "Metronome",
+      "kr_sha256": "b0e9ccda247047ada33d11b2010810d7ef472469ab451988dbe2595167a58e96",
+      "en_sha256": "3634f1227eddd94bde97ddff138a4d7dde0e0774468f81cde68afcab6f9a6c6d",
+      "origin": "ai"
+    },
+    "dataList[id=139401].desc": {
+      "pl": "na koniec tury: przywraca 5 HP za każdą obecną na polu bitwy Raw Chicken",
+      "kr_sha256": "bb3af91d502ec058bc48292da70a48da9d712d89c1c75410276e1db37d503761",
+      "en_sha256": "75bbbdea5e8746684e0ae96808e210a8c6ecb09d0f9a36285152bfd0b4aac0eb",
+      "origin": "ai"
+    },
+    "dataList[id=139401].name": {
+      "pl": "Vigorous Volaille",
+      "kr_sha256": "e55ca06fa9f485a6c948a4b1469d830d262b331e9195187ed47193e1c10ee628",
+      "en_sha256": "e255f810e3560123b528747eeb4f59c985cbabc0006e3ce13e5a0d879dc84fb6",
+      "origin": "ai"
+    },
+    "dataList[id=139402].desc": {
+      "pl": "na koniec tury: zadaje 5 obrażeń Poczytalności wszystkim wrogom za każdą obecną na polu bitwy Raw Chicken",
+      "kr_sha256": "3b40a9d7b75fdbf0a76c4af5e9964b2fc9c38a178dfee2ab7302981e07023e4e",
+      "en_sha256": "3703b471187f29b992b8812e2d853c7bfc1f6b36b83a29c93b26cce7f3c25b3a",
+      "origin": "ai"
+    },
+    "dataList[id=139402].name": {
+      "pl": "Gloomy Gallus",
+      "kr_sha256": "1653d5316683f4073e4f0475fc0c131dd77dc5638da58753df5c90e1ba8c4b59",
+      "en_sha256": "e44a2fb5ec2a8a52ea70abc53bea3e73ccad2c0ac1ccf3eecb0cacee85feafbd",
+      "origin": "ai"
+    },
+    "dataList[id=139403].desc": {
+      "pl": "gdy Część zostaje zniszczona, co turę zyskuje 1 [Vulnerable] za każdą Raw Chicken, która padła przed zniszczeniem tej Części",
+      "kr_sha256": "c1ec9e58fdc446c67435038ca021a3608eebb546600b8bd116d3624561101a04",
+      "en_sha256": "50b1a3bb2045115e4a3c8d826ac389045d35ab058ef40dfcd66c2eb768347f0f",
+      "origin": "ai"
+    },
+    "dataList[id=139403].name": {
+      "pl": "Fragile Fowl",
+      "kr_sha256": "c0ebae917e60d8f8100d654052f5c6e3e1c9a2ef7d949c6e52d45da3f3fb874e",
+      "en_sha256": "e375591a2f39dd1253114015ecf8275b48d729179ed57b65cdbfdd78aa551ba3",
+      "origin": "ai"
+    },
+    "dataList[id=139404].desc": {
+      "pl": "jeżeli Część nie jest zniszczona, co turę zyskuje 1 [AttackDmgUp] za każdą żywą Raw Chicken",
+      "kr_sha256": "2195e7178379cdc737f421ccdf15597d7d8429e2850d0f5a8e136dd47f07690f",
+      "en_sha256": "2ba2dfc81241ae00ea87a69146e502c9e94fe47b561b3facb454832de7a6dfe4",
+      "origin": "ai"
+    },
+    "dataList[id=139404].name": {
+      "pl": "Powerful Poussin",
+      "kr_sha256": "3b86fdeeb2f51f0fe6797f91f03257e03a58184d7438baaa1f78570c21c2d1dc",
+      "en_sha256": "d9ced45e161a056f658901ee4e24b881798c7d1211cde813792cb11148b23b8f",
+      "origin": "ai"
+    },
+    "dataList[id=139501].desc": {
+      "pl": "na koniec tury: zadaje 3 obrażeń Poczytalności losowemu wrogowi",
+      "kr_sha256": "b7c289321e1341cec756c9d28aaab46615114b57792d279808591b7f3b1ee48d",
+      "en_sha256": "0ae3a9a44e12ac5bac475dfa58cfdf3e8e224a73a4f5d4aeeff30d8fc9e08992",
+      "origin": "ai"
+    },
+    "dataList[id=139501].name": {
+      "pl": "Bongy Chicken Struts",
+      "kr_sha256": "a05580cd3f55f092efdcb15297dece36dcd4dd7848e9190e405b6fbaf4363d04",
+      "en_sha256": "a840286192394a2886fb907e3de327938e2d419f005d300a94321f218118a34a",
+      "origin": "ai"
+    },
+    "dataList[id=139701].desc": {
+      "pl": "na koniec tury: nakłada 2 [AttackDmgUp] i 2 [Protection] na wszystkich sojuszników w następnej turze, włączając tę jednostkę",
+      "kr_sha256": "54c57fefa800e5bdbc566b1e202b9c00b532b3f891ad76fd23aaa02cb2eb79cb",
+      "en_sha256": "ba38186a4fa6d58a04452db895aa5db2bf807a4a197e54a6b235a4927ae5d6a1",
+      "origin": "ai"
+    },
+    "dataList[id=139701].name": {
+      "pl": "Bongy Chicken Beefs Up",
+      "kr_sha256": "29fbb315df9dcc3e0f110cfc550907ef922221f23e6345319a45ec62accb9064",
+      "en_sha256": "ba87ecfcdba72976a344a1677ab3a48752e4bb23bd376a18c725a572c10a5518",
+      "origin": "ai"
+    },
+    "dataList[id=141001].desc": {
+      "pl": "jeżeli jednostka ma [BloodPocket]:\n- odporność Korpusa na Gniew -50%\n- odporność Korpusa na Posępność +50%",
+      "kr_sha256": "fbd6a15090c84e0c1fcc92ae8953181bc90fcf91646429e9b0cc433995781363",
+      "en_sha256": "325ba646eaaebc497659710937aa7fc7c2ce889749204083ededd328ffecbf6e",
+      "origin": "ai"
+    },
+    "dataList[id=141001].name": {
+      "pl": "Blood Sac",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "1b1ed9a6bdd8fa3dcbc36493d7b51de8b707983c722984a33bf780d7e9118831",
+      "origin": "ai"
+    },
+    "dataList[id=141002].desc": {
+      "pl": "jeżeli jednostka ma [WaterPocket], Core przywraca HP równe (Stos x 20)",
+      "kr_sha256": "d6b3959afa13fd96bde1e8a827fe642950d11b97e7333cbfc4150a0968096f22",
+      "en_sha256": "780599a3537dc5b77dde83b2d09718fd99ec352ada6d99c8c33ae66aba4fcbff",
+      "origin": "ai"
+    },
+    "dataList[id=141002].name": {
+      "pl": "Fluid Sac",
+      "kr_sha256": "9483c804aa854dfda95aae7da80c2eaa8ebc564a30b9a991cafd25605cbb6d70",
+      "en_sha256": "24e873fb91cd8b65080f1cf8a87cd74c3ef06ee68fe8107813d60d94d1e4213b",
+      "origin": "ai"
+    },
+    "dataList[id=141003].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, po wygranej w Starciu aktywuje [Laceration] wroga 1 raz i zmniejsza Licznik [Laceration] o 1",
+      "kr_sha256": "dffc8c5894ab0287e72d5cf83c756e5cba8c22891b5df41a85f37dbda66578f9",
+      "en_sha256": "1e735ef7e78e33a19367473ca4f49753affaa4c985475305b58ce68e75f93109",
+      "origin": "ai"
+    },
+    "dataList[id=141003].name": {
+      "pl": "Ruptured Blood Sac",
+      "kr_sha256": "4151384c8eeb9567239adabb4009a97ebec2fb1c3b70477af7754d45a5f5bea6",
+      "en_sha256": "6c9014a8da708a79d57178a39382dedf8d190797198d416967b74311066dc9d3",
+      "origin": "ai"
+    },
+    "dataList[id=141004].desc": {
+      "pl": "nakłada 1 [PlayingWithWaterTogetherMirror] na cel, który poprowadził Starcie przeciwko Umiejętności tej jednostki Umiejętnością tego samego Typu Ataku (1 raz na Umiejętność, 3 razy na turę)\n- jeżeli była to Umiejętność Uderzenia, zamiast tego nakłada 2 [PlayingWithWaterTogetherMirror]",
+      "kr_sha256": "660ec0bcb5f044583e24d2c686c8c300ad74ec08121fdc5b80bd0db3c03c3586",
+      "en_sha256": "9a47a60ce985d8b0e7171fa42c172d87ff0444ca557252603fe7965daa87a7a5",
+      "origin": "ai"
+    },
+    "dataList[id=141004].name": {
+      "pl": "Splash Around",
+      "kr_sha256": "cad1a9e3906856fdefafcb53211b9209f766245eba2a00b57bd1cd796848d33b",
+      "en_sha256": "0480a2ab6bafb62a24d1e431703ff1e3b9e4bedb6a37591e2bbe8330a84a1bbd",
+      "origin": "ai"
+    },
+    "dataList[id=141101].desc": {
+      "pl": "jeżeli jednostka ma [WaterPocket], Core przywraca HP równe (Stos x 30)",
+      "kr_sha256": "b3d8df92df8a73f2f73f998b8c74effa7e3be7e2a6cb029deb18e223acaa0a26",
+      "en_sha256": "f04c22f07fdb8c16646a22f8252ae97e37ef8b570cb96be4e9e2e4504d1e26cd",
+      "origin": "ai"
+    },
+    "dataList[id=141101].name": {
+      "pl": "Fluid Sac",
+      "kr_sha256": "9483c804aa854dfda95aae7da80c2eaa8ebc564a30b9a991cafd25605cbb6d70",
+      "en_sha256": "24e873fb91cd8b65080f1cf8a87cd74c3ef06ee68fe8107813d60d94d1e4213b",
+      "origin": "ai"
+    },
+    "dataList[id=141102].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, po wygranej w Starciu aktywuje [Laceration] wroga 2 razy i zmniejsza Licznik [Laceration] o 2",
+      "kr_sha256": "194daf688dd59beffdee93e9de41a975c8b9141a578376893bb88057568864ed",
+      "en_sha256": "de49378a635c12927e091bd2785efd93d71ea93acb446702f83bc33b58f9d777",
+      "origin": "ai"
+    },
+    "dataList[id=141102].name": {
+      "pl": "Ruptured Blood Sac",
+      "kr_sha256": "4151384c8eeb9567239adabb4009a97ebec2fb1c3b70477af7754d45a5f5bea6",
+      "en_sha256": "6c9014a8da708a79d57178a39382dedf8d190797198d416967b74311066dc9d3",
+      "origin": "ai"
+    },
+    "dataList[id=141201].desc": {
+      "pl": "jeżeli jednostka ma [BloodPocket]:\n- odporność Korpusa na Gniew -35%\n- odporność Korpusa na Posępność +35%",
+      "kr_sha256": "27e6a9bb4086b2a4e2d70869a70ba13e7cbc513a1bbb96f42a6ba89dad86bea2",
+      "en_sha256": "7c99e34d8f4b53a38617a219f965aa5a3cddd8c61490e5d90cb43c79e4a52f22",
+      "origin": "ai"
+    },
+    "dataList[id=141201].name": {
+      "pl": "Blood Sac",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "1b1ed9a6bdd8fa3dcbc36493d7b51de8b707983c722984a33bf780d7e9118831",
+      "origin": "ai"
+    },
+    "dataList[id=141202].desc": {
+      "pl": "jeżeli jednostka ma [WaterPocket], Core przywraca HP równe (Stos x 35)",
+      "kr_sha256": "cca89bf73c9d4a27e5a7bb27bf4c0bb55f6f1ccf76e3689941e6c3831a1da857",
+      "en_sha256": "f130af6c363b35a82421a4f46e3748b1c60c336bdb5645205bc4d731d9efe3bb",
+      "origin": "ai"
+    },
+    "dataList[id=141202].name": {
+      "pl": "Fluid Sac",
+      "kr_sha256": "9483c804aa854dfda95aae7da80c2eaa8ebc564a30b9a991cafd25605cbb6d70",
+      "en_sha256": "24e873fb91cd8b65080f1cf8a87cd74c3ef06ee68fe8107813d60d94d1e4213b",
+      "origin": "ai"
+    },
+    "dataList[id=141203].desc": {
+      "pl": "gdy Korpus zostaje zniszczony, po wygranej w Starciu aktywuje [Laceration] wroga 3 razy i zmniejsza Licznik [Laceration] o 3",
+      "kr_sha256": "5c8306ccfaea76a9be10f704f2e06fe2e4d045a1210aaf5fbc8c5dd20ccdb4e0",
+      "en_sha256": "6cdfee505577b980043f1d22cffae829590c32b682d429a699b7f7de61f57979",
+      "origin": "ai"
+    },
+    "dataList[id=141203].name": {
+      "pl": "Ruptured Blood Sac",
+      "kr_sha256": "4151384c8eeb9567239adabb4009a97ebec2fb1c3b70477af7754d45a5f5bea6",
+      "en_sha256": "6c9014a8da708a79d57178a39382dedf8d190797198d416967b74311066dc9d3",
+      "origin": "ai"
+    },
+    "dataList[id=141204].desc": {
+      "pl": "jeżeli cel nie ma [PlayingWithWaterTogetherMirror], zyskuje następujące efekty:\n- zadaje +80% obrażeń\n- przy trafieniu ostatnią Monetą Umiejętności, uruchamia [VibrationExplosion]; następnie zmniejsza Licznik [Vibration] celu o 1\n\njeżeli cel ma [PlayingWithWaterTogetherMirror], zyskuje następujące efekty:\n- zadaje o 50% mniej obrażeń\n- otrzymuje +10% obrażeń za każdy Stos [PlayingWithWaterTogetherMirror] celu (maks. 100%)\n\njeżeli nikt nie ma [PlayingWithWaterTogetherMirror], zyskuje następujące efekty:\n- przy trafieniu Umiejętnością, nakłada 5 [Laceration]\n- przy trafieniu ostatnią Monetą Umiejętności, aktywuje [Laceration] 1 raz; następnie zmniejsza Licznik [Laceration] celu o 1",
+      "kr_sha256": "1b170fdafc85142fb14e308b5dd44d1f1d4e3c11fb5eb248daa2d48c82b4fd6a",
+      "en_sha256": "a1ac0ee24bd031d9d26ad95da1733d460eab641ff61fe511f8d283577f493203",
+      "origin": "ai"
+    },
+    "dataList[id=141204].name": {
+      "pl": "SplishSplashSplish",
+      "kr_sha256": "df4009a47c2a191621e035837bd47226901b30f9357596055d69b3761dba05dd",
+      "en_sha256": "20d8050a77c966d6ab48d3571276217b76fb8f084a42b8a56aee314df44fabe8",
+      "origin": "ai"
+    }
+  }
+}

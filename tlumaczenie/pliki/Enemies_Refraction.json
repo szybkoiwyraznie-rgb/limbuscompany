@@ -1,0 +1,148 @@
+{
+  "entries": {
+    "dataList[id=850101].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=850101].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8501].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8501].name": {
+      "pl": "Recollected Awry Soldier",
+      "kr_sha256": "5ab69b821629ec120a4dc618de94a08b84475258bde2dff2bee8b09881a892fa",
+      "en_sha256": "488cd645780e1f5ec11c6df1bf2369383a5decbb1feb764c334e573216421918",
+      "origin": "ai"
+    },
+    "dataList[id=850201].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=850201].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8502].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8502].name": {
+      "pl": "Recollected Wallowing Soldier",
+      "kr_sha256": "efc922913563df661a28730ca5be4a483d50ad5cf9002ce3c830ee6e7faa6844",
+      "en_sha256": "ec145cca51fcfad584721454995221395600fecc70d4fdfa364aaed23250afec",
+      "origin": "ai"
+    },
+    "dataList[id=850301].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=850301].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8503].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8503].name": {
+      "pl": "Recollected Overtaken Soldier",
+      "kr_sha256": "bff39fa064e59caee93bedcf4ce1b911c69e56c4cb9d837dc57ada5868526a85",
+      "en_sha256": "4f45411c0f9d815f707d16335124c76865caab9b0a417be5f4bbaba8fb546f11",
+      "origin": "ai"
+    },
+    "dataList[id=850401].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=850401].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8504].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8504].name": {
+      "pl": "Recollected Festered G Corp. H. Manager",
+      "kr_sha256": "9b76ba2bd3ce69bd11ffeb824d987e691b2f60e10afb202395d5e833d651c05f",
+      "en_sha256": "bf4afa22ce6ca39cb25e5afcb821be1397ca403ee430005593e5c64d82f475db",
+      "origin": "ai"
+    },
+    "dataList[id=850501].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=850501].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8505].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8505].name": {
+      "pl": "Mariachi Alegre",
+      "kr_sha256": "d94e77770ed5db285ae13154d2538ba4fb86c853c6d1c35ece7e0dcc7eefce32",
+      "en_sha256": "2ef6d87593768625ed7443c4831870af7f5f90dee9ef8564e2b9ba9ead4ba741",
+      "origin": "ai"
+    },
+    "dataList[id=850601].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=850601].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8506].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8506].name": {
+      "pl": "Mariachi Vivaz",
+      "kr_sha256": "7dda120c0abfb389b5c15a9558ad92884990574329e2f526c5b049a4a54ad9bb",
+      "en_sha256": "2b894c36c23a0485848e4ae9f69c0295a9bb18afa36204a0385a5542a2f5f7d6",
+      "origin": "ai"
+    }
+  }
+}

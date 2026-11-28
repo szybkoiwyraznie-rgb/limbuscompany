@@ -2316,6 +2316,18 @@
       "en_sha256": "c168f52a7e770f00adc2d0c284a080a52a9e3e40d6e8c747c0a744de498e9ffe",
       "origin": "ai"
     },
+    "dataList[id=9007003].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przy 5+ Licznikach Ładowania, zużywa wszystkie Liczniki Ładowania, by zadać +10% obrażeń za każdy Licznik",
+      "kr_sha256": "1fe0d74b39b34334aaa8308ffab54eb6161c7d79929a40858a0b2630b7db4813",
+      "en_sha256": "09ef9b13e93c8e2ccce3adb4fb155f5dd8b0210469d042d8e98609121a222dd7",
+      "origin": "ai"
+    },
+    "dataList[id=9007003].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Sprzężonego Czasu",
+      "kr_sha256": "49e197fbf2b22792a4e8acfd93cd122336d3bd3aab98e34e4cf525741f1cb970",
+      "en_sha256": "f7946280d15f6c190644b146a77d3e94338e3399465ebbaf951084bb53ce686d",
+      "origin": "ai"
+    },
     "dataList[id=9007003].levelList[level=1].desc": {
       "pl": "[StartBattle] zyskuje +3 Liczników Ładowania\n[WhenUse] przy 5+ Licznikach Ładowania, Moc Starcia +2\nw następnej turze nie może działać",
       "kr_sha256": "81a8117df09f41e4c28dc213eae2d5dab80daf30b32efa283951bc69d949ecf7",
@@ -2326,6 +2338,114 @@
       "pl": "Accelerating Moment",
       "kr_sha256": "011c6506180c9ebcaebeda2f886bae6f6a3b2d53f622514b46011d9f6e9e6af0",
       "en_sha256": "175fcc29cec5ee8efa058f62907badbd9535ecd38155e1201c16c4b2f179c65c",
+      "origin": "ai"
+    },
+    "dataList[id=9007004].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje 3 [TimeRental] i +1 Licznika Ładowania",
+      "kr_sha256": "db9d459f773772dcf0e51ac4f64fed3e70f2fedd5b07ce667c508aad85bfbc57",
+      "en_sha256": "5bfede90d19c06c0633056587dd7523afa3691acbf0ec4dfd4bd9b60d848cb1d",
+      "origin": "ai"
+    },
+    "dataList[id=9007004].levelList[level=1].name": {
+      "pl": "Wypożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "f02a901f1eb249eb6e8403a1041d1c00f2e793c0b443d5021234c5a353da3461",
+      "origin": "ai"
+    },
+    "dataList[id=9007101].levelList[level=1].name": {
+      "pl": "Proximity Shooting",
+      "kr_sha256": "5916a5a9400b78f7b8409bf9d839a7317fae114c1ecf3abbd213a2d0d2823475",
+      "en_sha256": "e4236916635a983b13cb5a64a5e3743c618b837ec0df07dd7055901fe775b98c",
+      "origin": "ai"
+    },
+    "dataList[id=9007102].levelList[level=1].name": {
+      "pl": "Retreat; Retreat;",
+      "kr_sha256": "11e861efc8bb66204afd3f38c0dc25aee1d08d3073a592a49d72e8b22859371b",
+      "en_sha256": "b86a8c10e81c805bda09fc3f6c960e191477446c0ba80ca9b0763230bdcffcc7",
+      "origin": "ai"
+    },
+    "dataList[id=9007103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel traci 5 Poczytalności",
+      "kr_sha256": "3b0256bd5948e557b6f016e21d46da70cd96ef53a744227fe017ad593b58bd36",
+      "en_sha256": "02698cc4d342e3476e7c1034f6b9fddb9b7ad00a39d33782dfa2cce28a930c72",
+      "origin": "ai"
+    },
+    "dataList[id=9007103].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] cel traci 5 Poczytalności",
+      "kr_sha256": "9f0e138b9e8566f589f3f7c24c7deb67808f0a10d215e654a7976afc205fa411",
+      "en_sha256": "ec934456df9df93ba1fc59a2866bad5fe648cd33481d14749a09bc61128ca38c",
+      "origin": "ai"
+    },
+    "dataList[id=9007103].levelList[level=1].name": {
+      "pl": "Flash; Flash;",
+      "kr_sha256": "3d61be164e03ac295150a34ff0c04218fe9513cc930a887ca2591312f4aa8f85",
+      "en_sha256": "6347b647c3e7a0498a6337bf1dfe9948ae4c778cd92e6cc219a046e175614404",
+      "origin": "ai"
+    },
+    "dataList[id=9007104].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Spętania i 3 Paraliżu w następnej turze.",
+      "kr_sha256": "8cdb0901783c7a8d4686c719be1c16061c04a4392d62975fda5ce4f0048f6935",
+      "en_sha256": "63e3a81ac92797cc8b36bed6e7443288e38758c3df8e3d3316fe105e4da68258",
+      "origin": "ai"
+    },
+    "dataList[id=9007104].levelList[level=1].name": {
+      "pl": "Arresting.",
+      "kr_sha256": "e5ad423deb46c1d22ba0526d1ada40607e9293120be6ab0b1211defa799dea64",
+      "en_sha256": "9998c7db33723078bf5adc477faee11fe5ca8ae8a1b4d1c1526f35d36620dbf1",
+      "origin": "ai"
+    },
+    "dataList[id=9008201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9008201].levelList[level=1].name": {
+      "pl": "Suspicious Individuals",
+      "kr_sha256": "16da4af6f96cafdbfb3df03f6cd7af16542d9cbd757f54e02a2c1a1c07728c2f",
+      "en_sha256": "5cdd9c9c80c760252e31137125045d478bbd4ffc82b89c6448d5d967c79df0b8",
+      "origin": "ai"
+    },
+    "dataList[id=9008202].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttackHead] Nakłada 3 Rozdarcia",
+      "kr_sha256": "9985392761e5d94da2127f045060fd98a62248167749ff9a61d8d2040de0a5bb",
+      "en_sha256": "a578d395d7cf028a704188d389e6289ec0f47f245590dc17f7ac384a10464eb6",
+      "origin": "ai"
+    },
+    "dataList[id=9008202].levelList[level=1].name": {
+      "pl": "Powstrzymanie",
+      "kr_sha256": "80032b543c1e845c00b5bffce2964a5bf6137477a5d62088e9cb8a7c4e28a642",
+      "en_sha256": "ed48b3479d20b4e8ed6c4df1380096a0deb5025c0c79d7608560da3bed3ae9a3",
+      "origin": "ai"
+    },
+    "dataList[id=9008203].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "jeżeli Moneta 1 wypadnie jako Awers, +10% obrażeń",
+      "kr_sha256": "6bc1309952af9c96638eb3ae5fcff130e52fea1ce0ccc723e827aec8dd6b4ff1",
+      "en_sha256": "0bf0343e0da382467a4051e3596328a31983c8a7e1463defc52f4d7ef27ad546",
+      "origin": "ai"
+    },
+    "dataList[id=9008203].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "jeżeli Moneta 2 wypadnie jako Awers, +10% obrażeń",
+      "kr_sha256": "cba714c4f1a50a65eecaa88bc39336bd85b7ae74c345fe43ac9345f6745f9f5f",
+      "en_sha256": "c5c5da2b1a60855a94d60c2da965da91130b3c4a9ff83c973ae7df3e67cd8c9e",
+      "origin": "ai"
+    },
+    "dataList[id=9008203].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "jeżeli Monety 2 i 3 wypadną jako Awers, +30% obrażeń",
+      "kr_sha256": "819e40e00cfa1b3928a14fd5f0822f8311cc43771aa36451033e4912dc16b42e",
+      "en_sha256": "433dabf2aef624b8b6f4036b92c0b419c58f3c418cb05880502d84940a8d5477",
+      "origin": "ai"
+    },
+    "dataList[id=9008203].levelList[level=1].desc": {
+      "pl": "priorytet: cel z największym HP",
+      "kr_sha256": "2ab0912e7b961b2827ef996a65db441bea1f82da7c95213013713f375600f83d",
+      "en_sha256": "9e5faf230b07ad9680a2a6683232507dd280fbda859815e01bd3e4317cee3fe0",
+      "origin": "ai"
+    },
+    "dataList[id=9008203].levelList[level=1].name": {
+      "pl": "No Trespassing",
+      "kr_sha256": "032a3cfe31e9cac85788f34441e0c2b817437d7d0de990330dc4e1572aa4eb35",
+      "en_sha256": "fc4938e6fd5fcfc8857c223da07f7b611bb335264266bf4639cbfaedf662fb20",
       "origin": "ai"
     },
     "dataList[id=9100101].levelList[level=1].name": {

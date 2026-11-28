@@ -1,0 +1,131 @@
+643||[podstawowe] Pasywka wroga [9100401] — opis] 매 턴마다 자신 포함 모든 아군 정신력 10 회복\n자신의 정신력 20 이상이면 턴 시작 시 공격 위력 증가, 수비 위력 증가 1 얻음|At the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 Attack Power Up and 1 Defense Power Up at turn start.
+644||[podstawowe] Pasywka wroga [9100402] — nazwa] 파티 종료|Se Acabó la Fiesta
+645||[podstawowe] Pasywka wroga [9100402] — opis] 이 캐릭터가 사망하면 모든 아군 정신력 -45|
+646||[podstawowe] Pasywka wroga [9002801] — nazwa] HP탄|
+647||[podstawowe] Pasywka wroga [9002801] — opis] 턴 시작 시 체력 15 회복\n체력이 50%미만이면 체력 15 추가 회복|At the start of the turn, heal 15 HP.\nAt less than 50% HP, heal 15 additional HP.
+648||[podstawowe] Pasywka wroga [9003201] — nazwa] 고귀한 희생있도다|Noble be Thy Sacrifice
+649||[podstawowe] Pasywka wroga [9003201] — opis] 아군이 사망하면 다음 턴 시작 시 공격 위력 증가 1을 얻는다.|When an ally is defeated, gain 1 Attack Power Up next turn.
+650||[podstawowe] Pasywka wroga [9003801] — nazwa] 처단의 기쁨|Joy of Execution
+651||[podstawowe] Pasywka wroga [9003801] — opis] 적을 처치하면 다음 턴 시작 시 피해량 증가 2를 얻는다.|After defeating an enemy, gain 2 Damage Up next turn.
+652||[podstawowe] Pasywka wroga [9100501] — nazwa] 쥐는 자의 망치|Hammer of the One Who Grips
+653||[podstawowe] Pasywka wroga [9100501] — opis] 이 캐릭터가 살아있는동안 모든 아군이 턴 시작 시 정신력 10 회복\n이 캐릭터가 사망하면 모든 아군 정신력 -45|At the start of the turn, all allies heal 10 SP.\nWhen this unit is defeated, all its allies lose 45 SP.
+654||[podstawowe] Pasywka wroga [9100601] — nazwa] 집념|Persistence
+655||[podstawowe] Pasywka wroga [9100601] — opis] 체력이 50% 미만이 되면, 다음 턴 시작 시 자신에게 부여된 부정적인 효과를 제거하고, 매 턴마다 광신 4, 공격 위력 증가 1, 수비 위력 증가 1을 얻는다.|When HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn.
+656||[podstawowe] Pasywka wroga [9100502] — nazwa] 두드릴지라|Thou Shalt Hammer
+657||[podstawowe] Pasywka wroga [9100502] — opis] 자신에게 광신이 있을 때 피해량 +50%|If this unit is Fanatic, deal +50% damage.
+658||[podstawowe] Pasywka wroga [9004601] — nazwa] 기계 정신|Mechanical Mentality
+659||[podstawowe] Pasywka wroga [9004601] — opis] 정신력이 0에 고정됨.|Sanity is fixed at 0.
+660||[podstawowe] Pasywka wroga [9004602] — nazwa] 단단한 외피|Solid Exterior
+661||[podstawowe] Pasywka wroga [9004602] — opis] <sprite name="Laceration"><color=#f8c200><u><link="Laceration">출혈</color></link></u>과 <sprite name="Combustion"><color=#f8c200><u><link="Combustion">화상</color></link></u>에 입는 피해 반감.|Take half as much damage from <sprite name="Laceration"><color=#f8c200><u><link="Laceration">Bleed</color></link></u> and <sprite name="Combustion"><color=#f8c200><u><link="Combustion">Burn</color></link></u>.
+662||[podstawowe] Pasywka wroga [9004603] — nazwa] 흔들림 주의|Caution: Unsteady
+663||[podstawowe] Pasywka wroga [9004603] — opis] 자신이 받는 진동 폭발에 의한 흐트러짐 손상 +50%|This unit's stagger threshold rises by 50% more when affected by Tremor Burst
+664||[podstawowe] Pasywka wroga [9004604] — nazwa] 파손 주의|Caution: Delicate
+665||[podstawowe] Pasywka wroga [9004604] — opis] 자신이 받는 <sprite name="Burst"><color=#f8c200><u><link="Burst">파열</color></link></u>에 의한 피해 +30% (소수점 버림)|Take +30% damage from <sprite name="Burst"><color=#f8c200><u><link="Burst">Rupture</color></link></u> (Rounded down)
+666||[podstawowe] Pasywka wroga [9004901] — nazwa] 파손 기능 손상|Damageable Disuniter
+667||[podstawowe] Pasywka wroga [9004901] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 파열, 파열 횟수 1 감소|After being staggered, inflict 1 less Rupture and Rupture Count
+668||[podstawowe] Pasywka wroga [9005001] — nazwa] 흔들림 기능 손상|Damageable Thumper
+669||[podstawowe] Pasywka wroga [9005001] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 진동, 진동 횟수 1 감소|After being staggered, inflict 1 less Tremor and Tremor Count
+670||[podstawowe] Pasywka wroga [9100701] — nazwa] 공격 기능 과열|Overheating Attack Function
+671||[podstawowe] Pasywka wroga [9100701] — opis] 자신의 공격으로 흐트러짐 상태를 만들었다면, 다음 턴에 피해량 증가 3 얻음|When staggering a unit with an attack, gain 3 Damage Up next turn.
+672||[podstawowe] Pasywka wroga [9100702] — nazwa] 파손 기능 완전 손상|Breakable Disuniter
+673||[podstawowe] Pasywka wroga [9100702] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 파열, 파열 횟수 3 감소|After being staggered, inflict 3 less Rupture and Rupture Count
+674||[podstawowe] Pasywka wroga [9100703] — nazwa] 흔들림 기능 완전 손상|Breakable Thumper
+675||[podstawowe] Pasywka wroga [9100703] — opis] 흐트러짐 상태가 된다면, 이후로 부여하는 진동, 진동 횟수 3 감소|After being staggered, inflict 3 less Tremor and Tremor Count
+676||[podstawowe] Pasywka wroga [9100801] — nazwa] 스패너 가동|Spanner Up
+677||[podstawowe] Pasywka wroga [9100801] — opis] 턴동안 앞면 적중한 코인 수만큼 공진을 얻음. (최대 10)|Gain Resonant by the number of heads Coins that successfully hit during a turn. (Max 10)
+678||[podstawowe] Pasywka wroga [9100802] — nazwa] 장미스패너 공방 대표|Rosespanner Workshop Rep
+679||[podstawowe] Pasywka wroga [9100802] — opis] 웨이브동안 죽은 아군 수만큼 진동을 추가 부여|Inflict more Tremor by the number of allies that have died this wave
+680||[podstawowe] Pasywka wroga [9100803] — nazwa] 마지막인건가요|Guess I'm the Last
+681||[podstawowe] Pasywka wroga [9100803] — opis] 혼자 남으면 매 턴마다 공진 1, 진동 동화 1 얻음.|When alone, gain 1 Resonant and 1 Tremor Sync every turn.
+682||[podstawowe] Pasywka wroga [9100804] — nazwa] 어쩔 수 없네요|I've Got No Choice
+683||[podstawowe] Pasywka wroga [9100804] — opis] 혼자 남았을 때, 자신을 마지막으로 공격한 사람을 다음 턴에 지정함.|When alone, marks the last unit that attacked this character as a target next turn.
+684||[podstawowe] Pasywka wroga [9100901] — nazwa] 얽혀오는 저주 부적|Entangling Curse Talisman
+685||[podstawowe] Pasywka wroga [9100901] — opis] 턴동안 진행한 합만큼 얽혀온 저주 부적을 얻음.|Gain Entangled Curse Talismans by the number of clashes the unit engaged in during a turn.
+686||[podstawowe] Pasywka wroga [9100902] — nazwa] 옭아매인 저주 부적|Strangling Curse Talisman
+687||[podstawowe] Pasywka wroga [9100902] — opis] 얽혀온 저주 부적이 10이라면, 10만큼 흐트러짐 손상. 전부 소멸.|At 10 Entangled Curse Talismans, raise stagger threshold by 10, then remove the status.
+688||[podstawowe] Pasywka wroga [9100903] — nazwa] 증식하는 저주 부적|Multiplying Curse Talisman
+689||[podstawowe] Pasywka wroga [9100903] — opis] 체력이 30%이하일 때, 부여하는 다시 붙여진 저주 부적 +1|At 30% or less HP, inflict +1 Reattached Curse Talisman
+690||[podstawowe] Pasywka wroga [9100904] — nazwa] 침식하는 저주 부적|Encroaching Curse Talisman
+691||[podstawowe] Pasywka wroga [9100904] — opis] 체력이 30%이하일 때, 공격 종료 시 대상에게 다시 붙여진 저주 부적이 5이상이라면 다음 턴에 마비 2 부여|At 30% or less HP, if the target has 5+ Reattached Curse Talisman after an attack is finished, inflict 2 Paralyze next turn.
+692||[podstawowe] Pasywka wroga [9006201] — nazwa] 흘러오는 우울|
+693||[podstawowe] Pasywka wroga [9006201] — opis] 뒷면 적중 시 침잠 2 부여|Tails Coins inflict 2 Sinking
+694||[podstawowe] Pasywka wroga [9006202] — nazwa] 넘쳐흐르는 슬픔|
+695||[podstawowe] Pasywka wroga [9006202] — opis] 턴 종료 시, 자신의 정신력 5 감소|At the end of the turn, lose 5 SP
+696||[podstawowe] Pasywka wroga [9006101] — nazwa] 취기|Intoxication
+697||[podstawowe] Pasywka wroga [9006101] — opis] 가지고 있는 고양이 5일 때, 취기를 5 얻음.|At 5 Morale Boost, gain 5 Tipsy.
+698||[podstawowe] Pasywka wroga [9006102] — nazwa] 숙취 해소|Hangover Cure
+699||[podstawowe] Pasywka wroga [9006102] — opis] 가지고 있는 취기가 5일 때, 수비 스킬을 사용함.|At 5 Tipsy, uses a defense skill.
+700||[podstawowe] Pasywka wroga [9006801] — nazwa] 회복 앰플 주입|
+701||[podstawowe] Pasywka wroga [9006801] — opis] 턴 시작 시 체력 20 회복|At the start of the turn, heal 20 HP.
+702||[podstawowe] Pasywka wroga [9006802] — nazwa] 긴급 앰플 투약|
+703||[podstawowe] Pasywka wroga [9006802] — opis] 체력이 25%미만이면 전체 체력의 40%까지 회복 (최대 1회)|At less than 25% HP, heal up to 40% of Max HP (One-time only)
+704||[podstawowe] Pasywka wroga [9007001] — nazwa] 황금 시간|Golden Time
+705||[podstawowe] Pasywka wroga [9007001] — opis] 턴 종료 시 체력이 12% ~ 24%사이로 남았을 때, 전체 체력의 65%만큼 즉시 회복. 흐트러짐 상태 해제. (최대 1회)|At the end of the turn, if the HP is between 12% and 24%, instantly heal up to 65% of Max HP, and recover from stagger. (One-time only)
+706||[podstawowe] Pasywka wroga [9007002] — nazwa] 시간 역행 반동|Time Reversion Retroaction
+707||[podstawowe] Pasywka wroga [9007002] — opis] 황금 시간 발동 이후, 턴 종료 시 취약 3 얻음|After activating Golden Time, gain 3 Fragile at turn end.
+708||[podstawowe] Pasywka wroga [9005401] — nazwa] 공포 장치|Terror Device
+709||[podstawowe] Pasywka wroga [9005401] — opis] 아군이 아군에게 공격할 때, 정신력 3 피해|When an ally attacks another ally, deal 3 SP damage
+710||[podstawowe] Pasywka wroga [9006901] — nazwa] 회복 앰플 주입|
+711||[podstawowe] Pasywka wroga [9006901] — opis] 턴 시작 시 체력 20 회복|
+712||[podstawowe] Pasywka wroga [9006902] — nazwa] 긴급 앰플 투약|
+713||[podstawowe] Pasywka wroga [9006902] — opis] 체력이 25%미만이면 전체 체력의 40%까지 회복 (최대 1회)|
+714||[podstawowe] Pasywka wroga [9006803] — nazwa] 긴급 앰플 과부하|Emergency Ampule Overdose
+715||[podstawowe] Pasywka wroga [9006803] — opis] 체력이 1 이하로 떨어지지 않음.\n턴 시작 시 체력이 60 이하라면, 강화 상태가 된다.|HP does not drop below 1;\nIf at 60- HP at the start of the turn, enter a powered-up state.
+716||[podstawowe] Pasywka wroga [9007701] — nazwa] 게판|
+717||[podstawowe] Pasywka wroga [9007701] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.|At less than 70% HP, targets another ally with the least current HP.\nWhen attacking an ally, heals HP by the damage dealt.\nWhen defeating an ally, heals HP by double the damage dealt.
+718||[podstawowe] Pasywka wroga [9007801] — nazwa] 게판|
+719||[podstawowe] Pasywka wroga [9007801] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.|
+720||[podstawowe] Pasywka wroga [9007901] — nazwa] 게판|
+721||[podstawowe] Pasywka wroga [9007901] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.|
+722||[podstawowe] Pasywka wroga [9008001] — nazwa] 게판|
+723||[podstawowe] Pasywka wroga [9008001] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.|
+724||[podstawowe] Pasywka wroga [9008101] — nazwa] 게판|
+725||[podstawowe] Pasywka wroga [9008101] — opis] 자신이 체력이 70% 미만이면, 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.|
+726||[podstawowe] Pasywka wroga [9008102] — nazwa] 오래된 게딱지 탄|Molted Shell Shot
+727||[podstawowe] Pasywka wroga [9008102] — opis] 스테이지 시작 시, 오래된 게딱지 탄을 1 얻음|Encounter Start: Gain 1 Molted Shell Shot
+728||[podstawowe] Pasywka wroga [1010311] — nazwa] 냉정|Poised
+729||[podstawowe] Pasywka wroga [1010311] — opis] 합 승리 시 호흡 횟수 1 증가\n호흡 횟수 5당 코인 위력 +1 (최대 3)|On Clash Win, gain +1 [Breath] Count\nCoin Power +1 for every 5 [Breath] Count (max 3)
+730||[podstawowe] Pasywka wroga [1020211] — nazwa] 자가충전|Self-charging
+731||[podstawowe] Pasywka wroga [1020211] — opis] 공격 종료 시 충전 횟수 1 증가\n공격 종료 시 무작위 아군의 충전 횟수 1 증가|Gain +1 [Charge] Count at Attack End\nA random ally gains +1 [Charge] Count at Attack End
+732||[podstawowe] Pasywka wroga [1050311] — nazwa] 견뎌내기|Enduring Spirit
+733||[podstawowe] Pasywka wroga [1050311] — opis] 피격 시 충전 횟수 1 증가 (최대 6회)\n합 패배 시 충전 횟수 1 증가 (최대 6회, 피격 시 조건과 별도로 판정)|When attacked, gain +1 Charge Count. (Up to 6 times)\nAfter losing a clash, gain +1 Charge Count. (Up 6 times, counted independently of hits taken)
+734||[podstawowe] Pasywka wroga [1070411] — nazwa] 젠장...|Bugger…
+735||[podstawowe] Pasywka wroga [1070411] — opis] 아군이 사망하면 다음 턴 시작 시 정신력이 10 감소하고, 타격 위력 증가 1을 얻음\n생존한 N사 광신도가 파티에 자신 포함 4명 이상 있을 때 코인 위력 +1|When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn.\nIf 4 or more surviving units in the team, including this unit, are 'N Corp. Fanatics', Coin Power +1.
+736||[podstawowe] Pasywka wroga [1100211] — nazwa] 살수|Slayer
+737||[podstawowe] Pasywka wroga [1100211] — opis] 연결한 죄 중 마지막 죄의 마지막 코인의 피해량 +20%\n자신을 제외한 아군의 스킬로 호흡 횟수가 증가할 때 50% 확률로 자신의 호흡 횟수 1 증가|The last Coin on the last skill in the chain deals +20% damage.\nWhenever an ally other than this unit gains Poise Count, this unit gains +1 Poise Count at a 50% chance.
+738||[podstawowe] Pasywka wroga [1100211] — podsumowanie] 연결한 죄 중 마지막 죄의 마지막 코인의 피해량 +20%. 호흡 횟수 추가 증가|The last Coin on the last Skill in the chain deals +20% damage. Gain additional Poise Count
+739||[podstawowe] Pasywka wroga [1020411] — nazwa] 휘파람|Whistles
+740||[podstawowe] Pasywka wroga [1020411] — opis] 전투 시작 시 정신력이 가장 낮은 아군 2명의 정신력 15 회복.\n대상이 N사 광신도면 광신 2 부여|Combat Start: Heal 15 SP for 2 allies that have the lowest SP\nIf the ally is an "N Corp. Fanatic", also apply 2 [AssemblePersonality]
+741||[podstawowe] Pasywka wroga [1020431] — nazwa] 속삭임|Whispers
+742||[podstawowe] Pasywka wroga [1020431] — opis] 전투 시작 시 정신력이 가장 낮은 아군 1명의 정신력 15 회복.\n대상이 N사 광신도면 광신 2 부여|Combat Start: Heal 15 SP for 1 ally that has the lowest SP\nIf the ally is an "N Corp. Fanatic", also apply 2 [AssemblePersonality]
+743||[podstawowe] Pasywka wroga [1100511] — nazwa] 광염|Mad Flame
+744||[podstawowe] Pasywka wroga [1100511] — opis] 합 승리, 적 처치 시 회복하는 정신력 50% 감소\n생존한 N사 광신도가 자신을 포함하여 5명 이상 있을 때, N사 광신도들의 피해량 +10%|Heal 50% less SP from winning a clash or defeating an enemy.\nIf 5 or more surviving units, including this unit, are 'N Corp. Fanatics', they deal +10% damage.
+745||[podstawowe] Pasywka wroga [1070311] — nazwa] 풀 뜯을 준비|Raring to Graze
+746||[podstawowe] Pasywka wroga [1070311] — opis] 다음 턴 시작 시 (분노 공명 수)만큼 충전 횟수 증가.\n충전 횟수가 5 이상이면 신속 1, 공격 위력 증가 1을 얻음\n상시 발동: 스테이지 시작 시 탄환 +3|Gain (Wrath Reson.) Charge Count next turn.\nAt 5+ Charge Count, gain 1 Haste and Attack Power Up.\nAlways Activate: At the start of the stage, gain +3 Ammo.
+747||[podstawowe] Pasywka wroga [1050611] — nazwa] rrR-#4 슈트 가압 가동|Activate rrR-#4 Suit Pressurization
+748||[podstawowe] Pasywka wroga [1050611] — opis] 턴 종료 시 충전 횟수 5당 다음 턴의 속도 최대 값 +2 (최대 6)\n턴 시작 시 충전 횟수가 5 이상 있으면 자신의 가장 오른쪽 슬롯 1개에 도발치 3 상승.|At the end of the turn, gain +2 Max Speed per 5 Charge Count next turn. (Max 6)\nAt the start of the turn, if at 5+ Charge Count, gain 3 Aggro to this unit's rightmost slot.
+749||[podstawowe] Pasywka wroga [1080511] — nazwa] 차오르는 액체|Filling Fluid
+750||[podstawowe] Pasywka wroga [1080511] — opis] 공격 스킬로 대상의 체력에 피해를 주지 못한 경우, 다음 턴에 최대 체력의 10%만큼 보호막을 얻음 (최대 30)|If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 10% of Max HP next turn. (Max 30)
+751||[podstawowe] Pasywka wroga [1080211] — nazwa] 뇌파집속|Brainwave Focus
+752||[podstawowe] Pasywka wroga [1080211] — opis] 전투 시작 시 공격 위력 증가를 (우울 공명 수/3)만큼 얻음\n턴 종료 시 이번 턴에 피해를 주지 못한 경우 정신력 -15|At the start of the combat phase, gain (Gloom Reson. / 3) Attack Power Up.\nIf this unit fails to deal damage this turn, lose 15 SP at the end of the turn.
+753||[podstawowe] Pasywka wroga [1040511] — nazwa] 차원 마검|Dimensional Demon Edge
+754||[podstawowe] Pasywka wroga [1040511] — opis] 적 처치 시 충전 횟수 3 증가 (턴 당 최대 3회 발동)|Upon defeating an enemy, gain +3 Charge Count (3 times per turn)
+755||[podstawowe] Pasywka wroga [1040531] — nazwa] 차원 굴절 칼날 - Type: Blade Mk7|Dimensional Refraction Edge - Type: Blade Mk7
+756||[podstawowe] Pasywka wroga [1040531] — opis] 최대 체력이 가장 낮은 아군 1명이 적 처치 시 충전 횟수 3 증가 (턴 당 최대 1회 발동)|When an ally with the lowest Max HP defeats an enemy, they gain +3 Charge Count (Once per turn)
+757||[podstawowe] Pasywka wroga [1060611] — nazwa] 익숙해진 정리 업무|Cleanup Mastery
+758||[podstawowe] Pasywka wroga [1060611] — opis] 전투 시작 시 충전 횟수가 5 이상 있으면, 다음 턴에 신속 2를 얻음.<style="highlight">충전 횟수가 10 이상 있으면, 신속 1을 추가로 얻음.</style>|If at 5+ Charge Count at the start of the combat phase, gain 2 Haste. <style="highlight">At 10+ Charge Count, gain 1 additional Haste.</style>
+759||[refraction] Wróg / część [8501] — nazwa] 기억속 어긋난 패잔병|Recollected Awry Soldier
+760||[refraction] Wróg / część [8501] — opis] 본체|Core
+761||[refraction] Wróg / część [850101] — nazwa] 몸통|Body
+762||[refraction] Wróg / część [850101] — opis] 부위|Part
+763||[refraction] Wróg / część [8502] — nazwa] 기억속 절망하는 패잔병|Recollected Wallowing Soldier
+764||[refraction] Wróg / część [8502] — opis] 본체|
+765||[refraction] Wróg / część [850201] — nazwa] 몸통|
+766||[refraction] Wróg / część [850201] — opis] 부위|
+767||[refraction] Wróg / część [8503] — nazwa] 기억속 침식된 패잔병|Recollected Overtaken Soldier
+768||[refraction] Wróg / część [8503] — opis] 본체|
+769||[refraction] Wróg / część [850301] — nazwa] 몸통|
+770||[refraction] Wróg / część [850301] — opis] 부위|
+771||[refraction] Wróg / część [8504] — nazwa] 기억속 짓물린 G사 부장|Recollected Festered G Corp. H. Manager
+772||[refraction] Wróg / część [8504] — opis] 본체|
+773||[refraction] Wróg / część [850401] — nazwa] 몸통|
