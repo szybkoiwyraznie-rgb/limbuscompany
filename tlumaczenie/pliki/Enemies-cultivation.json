@@ -1,0 +1,88 @@
+{
+  "entries": {
+    "dataList[id=1247].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1247].name": {
+      "pl": "Wei",
+      "kr_sha256": "82d1fdbb831eebe57e56b03b3d419179c17d75de65e826cc6812bcab8c74a421",
+      "en_sha256": "2dcb4a7bc26fe049a62e8baccb65f8bcf7b948b3ce86cd5c2eee416c30cbd3e7",
+      "origin": "ai"
+    },
+    "dataList[id=1272].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1272].name": {
+      "pl": "True Night Drifter of the Drunken Palm",
+      "kr_sha256": "fa2cdd0dcf51ad2ecfe7032b7ef6b5d8c138f5256672d570247cd9be32639497",
+      "en_sha256": "41e6710f0b398f45e7dbd1c6cb2e3dd34738e7b1fc493b8dd504c5340ed84fdf",
+      "origin": "ai"
+    },
+    "dataList[id=1286].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1286].name": {
+      "pl": "Night Drifter of the Drunken Palm",
+      "kr_sha256": "ef428ef75f50ab3be22b192fb09a47e1a471a26d7dcfd3937341bc5e86108893",
+      "en_sha256": "2a9e406febc668cfa051473c0c56387ca78fdd46cbd4a402574a47e7024a78ca",
+      "origin": "ai"
+    },
+    "dataList[id=1287].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=1287].name": {
+      "pl": "Sinclair",
+      "kr_sha256": "938bebd5a73c5f421d45abc111557826fcb011f6aa67416c4b1cc9ac689311a4",
+      "en_sha256": "91249fea1f9a592b2a3f9d3effee7ed11e2155bf4fd6957d621d4b9827fad871",
+      "origin": "ai"
+    },
+    "dataList[id=90215].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90215].name": {
+      "pl": "Heishou Pack - Si : Veilstriker",
+      "kr_sha256": "881bf044f6e457c28f32a5b84703b503198e5a2e9e56d1431d432e41601a46d3",
+      "en_sha256": "6d48ff976b83070613c3568794076f034e74b4c4edfa870ed7bfea3229e76765",
+      "origin": "ai"
+    },
+    "dataList[id=90216].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90216].name": {
+      "pl": "Heishou Pack - Si : Shadestriker",
+      "kr_sha256": "461f9b4c5ebf8f0caac811e27103f1d8342a60fef549ac1e9469a5fb2cdda621",
+      "en_sha256": "a39abf94713ad8a81e29de206d4642d77f8a4ee942f9898026f9e5b48f25113c",
+      "origin": "ai"
+    },
+    "dataList[id=91023].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91023].name": {
+      "pl": "Heishou Pack - Si : Depthstriker",
+      "kr_sha256": "422be10de8e1835e0c259d33a81ae076b426870ed59622a3570e6150ad62fec2",
+      "en_sha256": "b726f34a5a3ba8f0dded8433574703c95d729822f984e93b6116c576f7fabed6",
+      "origin": "ai"
+    }
+  }
+}

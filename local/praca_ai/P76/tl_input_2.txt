@@ -1,0 +1,131 @@
+219||(ulepszenie 1) — opis] [WhenUse] 현재 생존한 아군 2명 당 기본 위력 +6 (최대 12)\n[OnSucceedEvade] [Breath] 3 얻음\n[EndBattle] [Breath] 횟수 2 얻음|[WhenUse] Base Power +6 for every 2 surviving ally (max 12)\n[OnSucceedEvade] Gain 3 [Breath]\n[EndBattle] Gain +2 [Breath] Count
+220||(ulepszenie 1) — nazwa] 진진종참|True Decapitation Deathblow
+221||(ulepszenie 1) — opis] [StartBattle] 이 스킬이 종료되기 전까지 체력이 1 이하가 되지 않음.\n[WhenUse] [AttackUp] 10 얻음\n[WhenUse] [Enhancement] 5 얻음\n[WhenUse] [AttackDmgUp] 10 얻음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[StartBattle] HP does not drop below 1 before this Skill ends.\n[WhenUse] Gain 10 [AttackUp]\n[WhenUse] Gain 5 [Enhancement]\n[WhenUse] Gain 10 [AttackDmgUp]\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+224||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [SipOfAlcohol] 5 얻음|[OnSucceedAttack] Gain 5 [SipOfAlcohol]
+225||(ulepszenie 1) — nazwa] 내려치기|Downward Slam
+227||(ulepszenie 1) — nazwa] 연속 휘두르기|Stick Combo
+228||(ulepszenie 1) — opis] [WinDuel] 피해량 +30%|[WinDuel] Deal +30% damage
+229||(ulepszenie 1) — nazwa] 세차게 휘두르기|Powerful Swing
+230||(ulepszenie 1) — opis] [WinDuel] [Enhancement] 1 얻음|[WinDuel] Gain 1 [Enhancement]
+231||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] [Burst] 1 부여|[OnSucceedAttackHead] Inflict 1 [Burst]
+234||(ulepszenie 1) — nazwa] 반격|Counter
+235||(ulepszenie 1) — nazwa] 성장|Growth
+236||(ulepszenie 1) — opis] [DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+238||(ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 횟수 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict +2 [Burst] Count
+240||(ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Burst]
+242||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Burst] 횟수 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict +3 [Burst] Count
+244||(ulepszenie 1) — moneta 4, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 피해량 +20%|[UnBrokenCoinOnSucceedAttack] Deal +20% damage
+246||(ulepszenie 1) — moneta 5, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 피해량 +50%|[UnBrokenCoinOnSucceedAttack] Deal +50% damage
+247||(ulepszenie 1) — nazwa] 부령술(符靈術) - 사기 폭주|Spirit Talisman School - Vilerage
+248||(ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 4당, 최종 위력 +1 (최대 4)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해, 효과로 대상이 흐트러지지 않음|[WhenUse] Final Power +1 for every 4 [Burst] on target (max 4)\n[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+251||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [OminousTalisman] 10 부여|[OnSucceedAttack] Inflict 10 [OminousTalisman]
+256||(ulepszenie 1) — moneta 3, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 대상의 [OminousTalisman] 전부 소모|[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target
+257||(ulepszenie 1) — nazwa] 이야..|Oh, damn...
+259||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+260||(ulepszenie 1) — nazwa] 이런 병정 놀이 같은..|What is this foolish pretend-fight?
+261||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+262||(ulepszenie 1) — nazwa] ...|...
+263||(ulepszenie 1) — opis] [WhenUse] 대상의 부정적인 효과가 3개 이상이면, 기본 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)\n[DefeatDuel] [Vulnerable] 1 얻음|[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[DefeatDuel] Gain 1 [Vulnerable]
+266||(ulepszenie 1) — moneta 1, efekt 3 — opis] 정신력 5 피해|Deal 5 SP damage
+270||(ulepszenie 1) — nazwa] 애들 장난하나?|What's this Child's Play?
+271||(ulepszenie 1) — opis] [WhenUse] 정신력 15 회복\n[WhenUse] 대상의 부정적인 효과가 3개 이상이면, 기본 위력 +1|[WhenUse] Heal 15 SP\n[WhenUse] If target has 3+ types of negative effects, Base Power +1
+274||(ulepszenie 1) — nazwa] 신장수(伸長手)|Elongating Palm
+275||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 10 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Breath] 횟수 2 증가|[WhenUse] Coin Power +1 for every 10 ([Breath] on self + [Burst] on target) (max 2)\n[WhenUse] Gain +2 [Breath] Count
+276||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Breath] 4 얻음|[OnSucceedAttack] Gain 4 [Breath]
+277||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [BurstPoison]이 있으면, [Burst] 횟수 2 증가|[OnSucceedAttack] If target has [BurstPoison], inflict +2 [Burst] Count
+278||(ulepszenie 1) — nazwa] 사관완(蛇貫腕)|Puncturing Serpent Arm
+279||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 8 당 코인 위력 +1 (최대 3)|[WhenUse] Coin Power +1 for every 8 ([Breath] on self + [Burst] on target) (max 3)
+282||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상에게 [BurstPoison]이 있으면, [Burst] 2 부여|[OnSucceedAttack] If target has [BurstPoison], inflict 2 [Burst]
+283||(ulepszenie 1) — nazwa] 은격관사(隱擊貫蛇)|Serpent's Concealed Puncture
+284||(ulepszenie 1) — opis] 자신에게 [SnakeStance], 대상에게 [BurstPoison]이 있다면 합 불가 스킬이 됨\n자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 4 당 코인 위력 +1 (최대 10)\n[WinDuel] [Burst] 횟수 2, 자신의 [Breath] 횟수 2 증가|If this unit has [SnakeStance] and target has [BurstPoison], this Skill becomes an Unclashable Skill\nCoin Power +1 for every 4 ([Breath] on self + [Burst] on target) (max 10)\n[WinDuel] Inflict +2 [Burst] Count and gain +2 [Breath] Count
+285||(ulepszenie 1) — moneta 1, efekt 1 — opis] 자신의 [SnakeStance]당, 피해량 +25% (최대 50%)|Deal +25% damage for every [SnakeStance] on self (max 50%)
+286||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [SnakeStance]당 [BurstPoison] 3 소모 (턴 당 최대 5)|[OnSucceedAttack] Consume 3 [BurstPoison] for every [SnakeStance] on self (max 5 per turn)
+287||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Burst] 8 부여|[OnSucceedAttack] Inflict 8 [Burst]
+288||(ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] 다음 턴에 [BurstPoison] 부여|[OnSucceedAttack] Inflict [BurstPoison] next turn
+289||(ulepszenie 1) — nazwa] 기회를 보지|Eyeing for a Chance
+290||(ulepszenie 1) — opis] [CanDuelGuard]\n[WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 2)\n[WhenUse] [SnakeStance] 3 얻음 (스킬당 1회)|[CanDuelGuard]\n[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Gain 3 [SnakeStance] (once per Skill)
+292||(ulepszenie 1) — nazwa] 신장완(伸長腕)|Elongating Arm
+296||(ulepszenie 1) — nazwa] 사감완(蛇噛腕)|Gnawing Serpent Arm
+300||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 대상에게 [BurstPoison]이 있으면, [Burst] 횟수 1 증가|[OnSucceedAttack] If target has [BurstPoison], inflict +1 [Burst] Count
+301||(ulepszenie 1) — nazwa] 음격관사(陰擊貫蛇)|Serpent's Shadowed Puncture
+302||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 8 당 코인 위력 +1 (최대 4)\n[WinDuel] [Burst] 횟수 2 증가\n[WinDuel] 자신의 [Breath] 횟수 2 증가|[WhenUse] Coin Power +1 for every 8 ([Breath] on self + [Burst] on target) (max 4)\n[WinDuel] Inflict +2 [Burst] Count\n[WinDuel] Gain +2 [Breath] Count
+304||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [BurstPoison] 부여 (스킬당 1회)|[OnSucceedAttack] Inflict [BurstPoison] next turn (once per Skill)
+306||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 자신에게 [SnakeStance]이 있으면, 이 코인 1회 재사용 (스킬당 1회)|[OnSucceedAttack] If this unit has [SnakeStance], Reuse this Coin once (once per Skill)
+307||(ulepszenie 1) — moneta 2, efekt 3 — opis] - 재사용 코인의 피해량 -70%|- The Reused Coin deals -70% damage
+308||(ulepszenie 1) — nazwa] 기회를 찾지|Observe for a Chance
+311||(ulepszenie 1) — nazwa] 변형신완(變形伸腕)|Mutated Elongating Arm
+312||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 10 당 코인 위력 +1 (최대 2)\n[WinDuel] 자신의 [Breath] 횟수 3 증가|[WhenUse] Coin Power +1 for every 10 ([Breath] on self + [Burst] on target) (max 2)\n[WinDuel] Gain +3 [Breath] Count
+316||(ulepszenie 1) — moneta 1, efekt 4 — opis] [CriticalOnSucceedAttack] 자신에게 [Breath]이 10 이상 있으면, [SnakeStance] 1 얻고 코인 1회 재사용 (스킬당 1회, 턴 당 [SnakeStance] 최대 획득량: 2)|[CriticalOnSucceedAttack] If this unit has 10+ [Breath], gain 1 [SnakeStance] and Reuse Coin once (once per Skill; can gain up to 2 [SnakeStance] per turn)
+317||(ulepszenie 1) — nazwa] 사신장완(蛇伸長腕)|Elongating Serpent Arm
+318||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 8 당 코인 위력 +1 (최대 3)\n[BeforeAttack] 자신에게 [SnakeStance]이 있으면, 공격 가중치 2 증가\n- [WideAreaRampage] 스킬이 됨.\n- 같은 대상을 공격했을 경우, 대상의 [Burst] 횟수가 2 이하면, [Burst] 횟수 1 증가, [BurstPoison] 1 소모\n[WinDuel] 모든 대상에게 [Burst] 횟수 1 증가|[WhenUse] Coin Power +1 for every 8 ([Breath] on self + [Burst] on target) (max 3)\n[BeforeAttack] If this unit has [SnakeStance], gain +2 Atk Weight\n- Becomes a [WideAreaRampage] Skill\n- When attacking the same target, if target has 2 or fewer [Burst] Count, inflict +1 [Burst] Count and consume 1 [BurstPoison]\n[WinDuel] Inflict +1 [Burst] Count on all targets
+325||(ulepszenie 1) — nazwa] 사첨관극(蛇尖貫極)|Serpent's Keenlance
+326||(ulepszenie 1) — opis] 자신에게 [SnakeStance], 대상에게 [BurstPoison]이 있다면 합 불가 스킬이 됨\n[WhenUse] 자신의 [Breath] 위력과 대상의 [Burst] 위력의 합 4 당 코인 위력 +1 (최대 10)\n[WinDuel] [Burst] 횟수 2, 자신의 [Breath] 횟수 3 증가|If this unit has [SnakeStance] and target has [BurstPoison], this Skill becomes an Unclashable Skill\n[WhenUse] Coin Power +1 for every 4 ([Breath] on self + [Burst] on target) (max 10)\n[WinDuel] Inflict +2 [Burst] Count and gain +3 [Breath] Count
+327||(ulepszenie 1) — moneta 1, efekt 1 — opis] 자신에게 [SnakeStance]이 있으면, 피해량 +100%|If this unit has [SnakeStance], deal +100% damage
+328||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 자신의 [SnakeStance]당 [BurstPoison] 5 소모 (턴 당 1회)|[OnSucceedAttack] Consume 5 [BurstPoison] for every [SnakeStance] on self (once per turn)
+329||(ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] [Burst] 10 부여|[OnSucceedAttack] Inflict 10 [Burst]
+331||(ulepszenie 1) — nazwa] 기회를 노리지|Wait for a Chance
+332||(ulepszenie 1) — opis] [CanDuelGuard]\n[WhenUse] 대상의 [Burst] 4당, 코인 위력 +1 (최대 3)\n[WhenUse] [SnakeStance] 3 얻음 (스킬당 1회)|[CanDuelGuard]\n[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 3)\n[WhenUse] Gain 3 [SnakeStance] (once per Skill)
+334||Pasywka wroga [124701] — nazwa] 전 흑수 - 오 필두|Former Heishou - Wu Adept
+335||Pasywka wroga [124701] — opis] 스테이지 시작 시 정신력이 -15로 감소하고, [LegStrengthHorse] 3, [CrazyWei] 1 얻음\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -50% (소수점 버림)\n\n자신의 [SuperCoin]이 파괴된 채 적중시, 대상의 [Burst] 효과를 발동하지 않음 (횟수 차감 없음)\n\n흐트러진 적에게 피해량 +50%|Encounter Start: reset this unit's SP to -15 and gain 3 [LegStrengthHorse] and 1 [CrazyWei]\nTake -50% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] (rounded down)\n\nIf this unit hits with a Cracked [SuperCoin], it does not activate the target's [Burst] effect (does not consume Count either)\n\nDeal +50% damage against Staggered enemies
+336||Pasywka wroga [124702] — nazwa] 짓밟아서… 으깨드리겠습니다|I will trample... and crush you to mulch
+337||Pasywka wroga [124702] — opis] 자신에게 [LegStrengthHorse]가 있으면, [VibrationExplosion]을 적중 시킬 때 마다 대상이 메인 타겟이면 [ConcussionWei]을 1 부여함|If this unit has [LegStrengthHorse], inflict 1 [ConcussionWei] against the main target when this unit triggers [VibrationExplosion] against the main target
+338||Pasywka wroga [124703] — nazwa] 혼비중천(魂飛中天)|Soul Lost in Daylight (魂飛中天)
+339||Pasywka wroga [124703] — opis] 자신에게 [LegStrengthHorse]가 있으면, [Vibration]이 없는 대상에게 [VibrationExplosion] 효과가 있는 코인 적중시 [ReboundWei] 1 획득 ([ReboundWei]이 최댓값이라면 획득하지 않음)\n\n턴 종료 시 자신의 [ReboundWei]이 최댓값이라면 전부 소모하고 다음 턴에 [LegStrengthHorse]1 감소|If this unit has [LegStrengthHorse], gain 1 [ReboundWei] when hitting with a Skill that triggers [VibrationExplosion] against targets without [Vibration] (does not gain any [ReboundWei] if its Stack is already maxed)\n\nTurn End: if this unit's [ReboundWei] Stack is maxed, consume all of it; then, lose 1 [LegStrengthHorse] next turn
+340||Pasywka wroga [124704] — nazwa] 그 더러운 비늘 하나 남지 않도록…|I'll scrape every filthy scale off your skin...
+341||Pasywka wroga [124704] — opis] 턴 시작 시 자신의 속도 2 당 [AttackUp] 1 얻음 (최대 2)\n자신의 속도가 5 이상이면, 추가로 [SlashDamageUp] 1, [HitDamageUp] 1 얻음|Turn Start: gain 1 [AttackUp] for every 2 Speed this unit has (max 2)\nAt 5+ Speed, gain 1 [SlashDamageUp] and 1 [HitDamageUp] as well
+342||Pasywka wroga [124705] — nazwa] 감히 이곳이 어디라고…!|Intrepid trespasser...!
+343||Pasywka wroga [124705] — opis] 합에서 졌을 경우 합을 진행했던 대상의 코인이 더하기 코인이라면 대상의 정신력 5 회복 시키거나, 빼기 코인이라면 대상의 정신력 5 감소 시키고(정신력이 -40 이하라면 이 효과를 받지 않음) 대상이 사용했던 스킬 속성의 E.G.O 자원 +2. (턴 당 3회 발동)\n- 해당 스킬이 분노 혹은 탐식 속성 스킬이라면 가장 부족한 E.G.O 자원 추가로 +2.|On Clash Lose: if the target's Coin was a Plus Coin, target heals 5 SP; if the target's Coin was a Minus Coin, target loses 5 SP (does not activate if the target's SP is at -40 or less). Then, give 2 E.G.O resources to the Affinity of the Skill the target used (3 times per turn)\n- If the Skill's Affinity was Wrath or Gluttony, give 2 E.G.O resources of the least-owned Affinities as well
+344||Pasywka wroga [127201] — nazwa] 그간의 피해|Damage Taken
+345||Pasywka wroga [127201] — opis] 전투 중 피해를 입었을 때, 해당 턴동안 가하는 피해량 +20%\n전투 중 합 패배시 해당 스킬로부터 받는 피해량 +15%|When taking damage during the combat phase: +20% damage for the turn\nDuring the combat phase: On Clash Lose, take +15% damage from the Skill
+346||Pasywka wroga [127202] — nazwa] 만취 수행|Plastered Training
+347||Pasywka wroga [127202] — opis] 자신의 잃은 체력 1%당 가하는 피해량 +2% (최대 100%)|Deal +2% damage for every 1% missing HP on self (max 100%)
+348||Pasywka wroga [127203] — nazwa] 술과 함께라면 아무것도 두려울 것이 없지|I've got nothing to fear with a bottle of wine by my side
+349||Pasywka wroga [127203] — opis] 턴 시작 시 자신의 [SipOfAlcoholJin]이 최대 값이라면 2 소모하고 [DrunkAwakening]을 획득함|Turn Start: at max [SipOfAlcoholJin] Stack, consume 2 of its Stack and gain [DrunkAwakening]
+351||Pasywka wroga [127204] — opis] 스테이지 시작 시 정신력이 10으로 증가함\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -50% (소수점 버림)\n\n수감자에게 받는 피해량 -30%\n\n전 턴에 [SipOfAlcoholJin]을 2 이상 얻었다면 턴 시작 시 자신의 잃은 체력 10%당 정신력 5 회복 (최대 40)\n\n페이즈 변환 시 자신이 흐트러짐 상태라면 해제함|Encounter Start: reset this unit's SP to 10\nTake -50% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] (rounded down)\n\nTake -30% damage from Sinners\n\nIf this unit gained 2 or more [SipOfAlcoholJin] last turn, heal 5 SP for every 10% missing HP at Turn Start (max 40)\n\nWhen entering a new phase, if this unit is Staggered, recover from Stagger
+352||Pasywka wroga [127205] — nazwa] 혈적성하(血滴成河)|River of Blooddrops (血滴成河)
+353||Pasywka wroga [127205] — opis] 턴 종료 시 [Laceration]이 10 이상인 적이 한 명이라도 있을 경우 발동함\n[Laceration]을 가지고 있는 적에게 [Laceration] 5 당 [DrunkBlood]를 1 부여함 (적 당 3회)|Activates if at least 1 enemy has 10+ [Laceration] at Turn End\nAgainst enemies with [Laceration], inflict 1 [DrunkBlood] for every 5 [Laceration] they have (3 times per enemy)
+354||Pasywka wroga [124801] — nazwa] 대련 종료|Sparring Complete
+355||Pasywka wroga [124801] — opis] 자신의 체력이 20% 미만으로 감소하면, 전투 종료|Ends Encounter when this unit's HP drops below 20%
+356||Pasywka wroga [124901] — nazwa] 회로 반전|Reversed Circuitry
+357||Pasywka wroga [124901] — opis] 턴 시작시 자신의 [Charge] 횟수가 10 미만이면, 자신의 최대 체력의 5%를 소모하여 [Charge] 횟수 5 얻음\n턴 종료시 자신의 [Charge] 횟수가 15 이상이면, [Charge] 횟수를 5 소모하여 자신의 최대 체력의 5% 회복|Turn Start: at less than 10 [Charge] Count, consume 5% HP on self to gain +5 [Charge] Count\nTurn End: at 15+ [Charge] Count, consume 5 [Charge] Count to heal 5% HP on self
+358||Pasywka wroga [125001] — nazwa] 조금 내려놓은 짐|Slightly Relieved Burdens
+359||Pasywka wroga [125001] — opis] 턴 시작시 정신력 5 회복\n턴 시작시 자신의 정신력이 20 이상이면, [Enhancement] 1 얻음|Turn Start: heal 5 SP\nTurn Start: at 20+ SP, gain 1 [Enhancement]
+360||Pasywka wroga [125002] — nazwa] 책임의 무게|Burden of Responsibility
+361||Pasywka wroga [125002] — opis] 이번 전투에서 자신의 체력이 최대 체력의 절반 이하가 되면, 다음 턴부터 매 턴 [AttackDmgUp] 2 얻음|If this unit's HP drops below 50% or less in this Encounter, starting from the next turn, gain 2 [AttackDmgUp] every turn
+362||Pasywka wroga [125101] — nazwa] 공포정치|Rule by Fear
+363||Pasywka wroga [125101] — opis] 대상의 정신력이 0 미만이면, 0보다 낮은 정신력 1 당 가하는 피해량 +3%|If the target has less than 0 SP: deal even more damage the further the target's SP is from 0 (+3% damage per 1 SP)
+364||Pasywka wroga [125102] — nazwa] 재밌을 것 같지 않나?|It's going to be so much fun, hmm?
+365||Pasywka wroga [125102] — opis] 모든 대상이 부정적인 효과를 얻을 때마다, [AttackUp] 1, [DefenseUp] 1 얻음|Gain 1 [AttackUp] and 1 [DefenseUp] every time any target gains a negative effect
+366||Pasywka wroga [125103] — nazwa] 비틀린 의지|Twisted Determination
+367||Pasywka wroga [125103] — opis] 합 승리 시, 정신력 5 회복\n합 패배 시, [Enhancement] 1 얻음|On Clash Win, heal 5 SP\nOn Clash Lose, gain 1 [Enhancement]
+368||Pasywka wroga [9021501] — nazwa] 기회는 지금|Now's Our Chance
+369||Pasywka wroga [9021501] — opis] 턴동안 자신이 [BurstPoison]을 소모 시켜 수치를 0으로 만들었으면, 다음 턴에 [PenetrateDamageUp] 1 얻음 (최대 2)|For a turn, if this unit reduced the target's [BurstPoison] down to 0 Stack, gain 1 [PenetrateDamageUp] next turn (max 2)
+370||Pasywka wroga [9021502] — nazwa] 사독(蛇毒)|Snake Venom
+371||Pasywka wroga [9021502] — opis] 대상에게 [BurstPoison]이 있으면, 자신의 [SnakeStance]당 가하는 피해량 +2.5% (최대 7.5%)|If target has [BurstPoison], deal +2.5% damage for every [SnakeStance] on self (max 7.5%)
+372||Pasywka wroga [9102301] — nazwa] 약점이 보인다|I See Your Weakness
+373||Pasywka wroga [9102301] — opis] [WideAreaRampage] 공격을 할 때, 같은 대상을 공격했다면 피해량 +20%, 부여하는 [Burst] 위력 혹은 [Burst] 횟수 +1|When using an [WideAreaRampage] attack, when attacking the same target, deal +20% damage and inflict +1 more [Burst] Potency or Count
+374||Pasywka wroga [9102302] — nazwa] 기회가 보인다|I Spy an Opportunity
+376||Pasywka wroga [9102303] — nazwa] 사극독(蛇極毒)|Snake Deathvenom
+377||Pasywka wroga [9102303] — opis] 대상에게 [BurstPoison]이 있으면, 자신의 [SnakeStance]당 가하는 피해량 +5% (최대 15%)|If target has [BurstPoison], deal +5% damage for every [SnakeStance] on self (max 15%)
+378||Pasywka wroga [9102601] — nazwa] 각오|Determination
+379||Pasywka wroga [9102601] — opis] 흐트러짐이 풀릴 때, [Enhancement] 1 얻음|When recovering from Stagger, gain 1 [Enhancement]
+380||Pasywka wroga [9102602] — nazwa] 수업의 성과|Fruits of Education
+381||Pasywka wroga [9102602] — opis] 스테이지 입장 시, 수업으로 얻는 지/용/인의 합에 비례하여 [StudyStatSinclair] 획득|Upon entering the Stage, gain [StudyStatSinclair] based on the sum of Zhi, Yong, and Ren gained from classes
+382||Pasywka wroga [9102603] — nazwa] 내면에 귀를 기울인다면…|If I lend my ear to the inner self...
+383||Pasywka wroga [9102603] — opis] 턴 시작 시, 흐트러짐 상태면 흐트러짐 해제하고 [StudySignSinclair] 획득(전투 당 1회)\n- 이후 모든 스킬 사용 시, 파괴 불가 코인으로 변경됨|Turn Start: if this unit is Staggered, recover from Stagger; then, gain [StudySignSinclair] (once per Encounter)\n- Every Skill used after this activates becomes Unbreakable Coins
+384||Wróg / część [1448] — nazwa] 추노꾼 - 제압|Ch'unokkun - Incapacitate
+386||Wróg / część [1449] — nazwa] 추노꾼 - 포박|Ch'unokkun - Bind
+388||Wróg / część [1450] — nazwa] 섬광 현상 - 임경업|Flash Phenomenon - Im Gyeong-eop
+390||Wróg / część [1452] — nazwa] 차가운 N사 2등급 직원|Icy N Corp. Class 2 Staff
+392||Wróg / część [1453] — nazwa] 조용한 N사 2등급 직원|Reticent N Corp. Class 2 Staff
+394||Wróg / część [91057] — nazwa] 원망하는 검계 살수|Hateful Blade Lineage Salsu
+396||Wróg / część [91058] — nazwa] 한 서린 검계 살수|Resentful Blade Lineage Salsu
+398||Wróg / część [1451] — nazwa] 심상 속 임경업|Imagined Im Gyeong-eop
+400||(ulepszenie 1) — nazwa] 오랏줄 죄기|Constricting Ohra Bonds
+401||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 6 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n- 대상보다 속도가 빠르면, 자신의 [Breath] 횟수 1 추가 증가|[WhenUse] At 6+ ([Breath] on self + [Laceration] on target), Base Power +1\n[WhenUse] Gain +3 [Breath] Count\n- If this unit's Speed is faster than the target's, gain an additional +1 [Breath] Count
+404||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [ScratchesHurt] 1 부여|[OnSucceedAttack] Inflict 1 [ScratchesHurt] next turn
+405||(ulepszenie 1) — nazwa] 힘줄 베기|Hamstringing
+406||(ulepszenie 1) — opis] [WhenUse] 자신의 [Breath]과 대상의 [Laceration]의 합 6당, 기본 위력 +1 (최대 2)\n[WhenUse] 대상보다 속도가 빠르면, 마지막 코인이 [SuperCoin]으로 변경됨\n[WhenUse] [Breath] 2 얻음, 자신의 [Breath] 횟수 3 증가\n[WhenUse] 대상보다 속도가 빠르면, [Breath] 3 얻음|[WhenUse] Base Power +1 for every 6 ([Breath] on self + [Laceration] on target) (max 2)\n[WhenUse] If this unit's Speed is faster than the target's, convert the final Coin into [SuperCoin]\n[WhenUse] Gain 2 [Breath] and +3 [Breath] Count\n[WhenUse] If this unit's Speed is faster than the target's, gain 3 [Breath]
+407||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+408||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Laceration]
+409||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [ScratchesHurt] 2 부여|[OnSucceedAttack] Inflict 2 [ScratchesHurt] next turn

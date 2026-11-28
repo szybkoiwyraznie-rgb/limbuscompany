@@ -1,0 +1,131 @@
+704||Pasywka wroga [146001] — nazwa] 장소형 뒤틀림: 현상소|Location-type Distortion: Photo Lab
+705||Pasywka wroga [146001] — opis] 이 유닛은 사망하지 않고, 자신을 메인 타겟 대상으로 한 스킬 피해만 적용되며, 그 외의 피해를 받지 않음 \n\n속도가 1로 고정됨\n\n스테이지 등장 후 턴 시작시, [PhotoTransitionChoiCamera]을 3 얻음\n\n<color=#ff6000><mark color=#ff000040><b><u>자신의 체력이 1이 되거나 턴 시작시 [PhotoTransitionChoiCamera]이 0이면</color></mark></b></u>, 아래 효과 적용\n- N사 2등급 직원과 자신을 소멸 시킴\n- 임경업을 복귀시킴\n- 맵을 변경함|This unit cannot be killed, and does not take any damage from sources other than Skill damage from Skills attacking this unit as the main target\n\nThis unit's Speed is fixed to 1\n\nTurn Start after entering the Encounter: Gain 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>If this unit's HP reaches 1, or if [PhotoTransitionChoiCamera] reaches 0 Stack at Turn Start</color></mark></b></u>, activate the following:\n- Remove self and N Corp. Class 2 Staff from the Encounter\n- Return Im Gyeong-eop to the Encounter\n- Move the battle to a different location
+706||Pasywka wroga [146002] — nazwa] 기억에서 기록으로|From Memory to Record
+707||Pasywka wroga [146002] — opis] S사에서 N사로 돌아온 턴이면, 전투 시작 시 모든 수감자들의 정신력 15 회복|Combat Start: If the battlefield has returned from S Corp. to N Corp. this turn, heal 15 SP for all Sinners
+708||Pasywka wroga [9105701] — nazwa] 살수본위|Bearing of a Salsu
+709||Pasywka wroga [9105701] — opis] 자신의 [Breath] 횟수가 1이면, [Breath] 횟수가 감소하지 않는 대신 자신의 체력 10 감소 (이 효과로 흐트러지지 않고, 체력이 1 미만이 되지 않음)\n\n기본 스킬의 크리티컬 피해량이 (자신의 잃은 체력 비율 / 2)만큼 증가함 (최대 50%)|At 1 [Breath] Count, lose 10 HP instead of losing [Breath] Count (this effect cannot Stagger this unit and does not drop this unit's HP below 1)\n\nDeal +(missing HP percentage on self / 2) damage on Critical Hit using Base Skills (max 50%)
+710||Pasywka wroga [9105702] — nazwa] 함께 쉬었던 숨|A Breath Taken Together
+711||Pasywka wroga [9105702] — opis] 자신의 스킬 및 코인 효과로 [Breath] 위력을 얻을 때, [Breath]이 없거나 [Breath] 위력이 가장 낮은 아군 1명에게 [Breath] 1 부여 (턴당 최대 5회)\n\n턴 시작 시 전장에 김삿갓이 있으면, [SlashDamageUp] 1 얻고 자신의 [Laceration] 횟수 2 증가|When gaining [Breath] Potency using this unit's own Skills and Coin effects, apply 1 [Breath] on an ally that does not have [Breath] or has the lowest [Breath] Potency (5 times per turn)\n\nTurn Start: If Bamboo-hatted Kim is on the field, gain 1 [SlashDamageUp] and +2 [Laceration] Count
+713||Pasywka wroga [9105703] — opis] 합 패배 시 [RegretSCorp] 1 얻음|On Clash Lose, gain 1 [RegretSCorp]
+714||Pasywka wroga [9105704] — nazwa] 마지막 숨|The Last Breath
+715||Pasywka wroga [9105704] — opis] 자신이 사망했으면, 다음 턴 시작 시 모든 검계 소속 아군에게 [Breath] 5 부여, [Breath] 횟수 2 증가\n\n턴 시작 시 [Breath] 위력이 20 이상이면, 맨 왼쪽 슬롯에 ‘연참’ 장착|If this unit is defeated, apply 5 [Breath] and +2 [Breath] Count on all Blade Lineage allies at the next Turn Start\n\nTurn Start: At 20+ [Breath] Potency, equip "Slash Series" on the leftmost Slot
+718||Wróg / część [8999] — nazwa] 꼬미와 베르길리우스?|Kkomi and Vergilius?
+720||(ulepszenie 1) — nazwa] 사탕 줘.|Gimme Candy.
+721||(ulepszenie 1) — opis] [CandyForCharon]을 가진 대상 우선 공격\n[EndSkill] 대상에게 [CandyForCharon]이 없다면, [CandyForCharon]을 부여함|Prioritizes targets with [CandyForCharon]\n[EndSkill] If the target does not have [CandyForCharon], inflict [CandyForCharon]
+723||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 대상에게 [CandyForCharon]이 있으면, 대상은 다음 턴 흐트러짐 상태가 됨.|[OnSucceedAttack] If target has [CandyForCharon], the target becomes Staggered next turn.
+724||(ulepszenie 1) — nazwa] 없어. 사탕.|No Candy.
+725||(ulepszenie 1) — nazwa] 너희들…|You...
+728||(ulepszenie 1) — nazwa] …꼬미가, 화났어.|... Kkomi's angry.
+729||(ulepszenie 1) — opis] [BeforeAttack] [CandyForCharon]을 가진 인격 수만큼 공격 가중치 증가\n[WhenUse] [CandyForCharon]을 가진 인격 수만큼 합 위력이 증가|[BeforeAttack] Gain Atk Weight equal to number of enemies with [CandyForCharon]\n[WhenUse] Gain Clash Power equal to the number of enemies with [CandyForCharon]
+732||(ulepszenie 1) — nazwa] 부릉부릉|Vroom-Vroom
+733||(ulepszenie 1) — opis] [WhenUse] [CandyForCharon]을 가진 인격 수만큼 합 위력이 증가\n[CandyForCharon]을 가진 인격 수만큼 피해량 +10% (최대 100%)|[WhenUse] Gain Clash Power equal to the number of Identities with [CandyForCharon]\nDeal +10% damage for every Identity with [CandyForCharon] (max 100%)
+734||(ulepszenie 1) — nazwa] 때렸어. 꼬미를|You hit Kkomi.
+735||(ulepszenie 1) — opis] [WhenUse] 다음 턴에 [ParryingResultUp] 2, [Agility] 2 얻음|[WhenUse] Gain 2 [ParryingResultUp] and 2 [Agility] next turn
+736||Pasywka wroga [899901] — nazwa] 사탕 있어?|Got Candy?
+737||Pasywka wroga [899901] — opis] 편성 순서가 가장 빠른 인격 순서로 [CandyForCharon]이 없는 적 1명에게 턴 시작 시 [CandyForCharon]을 부여함|Turn Start: in Deployment Order, inflict [CandyForCharon] against 1 enemy without [CandyForCharon]
+738||Pasywka wroga [899902] — nazwa] 붉은 기운|The Red Aura
+739||Pasywka wroga [899902] — opis] 스테이지 시작 시, 베르길리우스가 스테이지동안 유지되는 보호막 일정량 얻음\n보호막이 사라지면, 해당 턴 종료됨|Encounter Start: Vergilius gains a certain amount of Shield that lasts for the duration of the Encounter\nTurn ends when the Shield is broken
+740||Pasywka wroga [899903] — nazwa] 부릉부릉. 화났어|Vroom-vroom. Angry now
+741||Pasywka wroga [899903] — opis] 보호막이 소모되면, 패턴 변경됨\n- 속도가 20으로 고정됨\n- 체력 피해를 더 이상 받지 않음|When the Shield is depleted, gains a new pattern\n- Fix Speed to 20\n- No longer takes any HP damage
+743||Wróg / część [124301] — opis] 베르길리우스|Vergilius
+744||Wróg / część [124302] — nazwa] 꼬미|Kkomi
+746||(ulepszenie 1) — nazwa] 깊은 찌르기|Deep Thrust
+747||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 6 부여|[OnSucceedAttack] Inflict 6 Bleed next turn
+748||(ulepszenie 1) — nazwa] 쥐어짐|The Gripping
+749||(ulepszenie 1) — opis] [StartBattle] 다음 턴동안 대상을 주시함|[StartBattle] Gazes into the target for the next turn
+750||(ulepszenie 1) — nazwa] 광소|Cackle
+751||(ulepszenie 1) — opis] [WhenUse] 대상에게 정신피해 10|[WhenUse] Deal 10 SP damage
+752||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음|[OnSucceedAttack] Gain 1 Attack Power Up next turn
+753||(ulepszenie 1) — nazwa] 죄악을 꿰뚫는 못|Sin-skewering Nail
+754||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 N사의 못 1 부여|[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn
+757||(ulepszenie 1) — nazwa] 정화|Purify
+758||(ulepszenie 1) — opis] [WhenUse] 대상 체력이 30%미만이면 스킬 위력 +2|[WhenUse] If target’s HP is below 30%, Skill Power +2
+759||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] N사의 못 1 부여|[OnSucceedAttack] Inflict 1 N Corp’s Nails
+762||(ulepszenie 1) — moneta 4, efekt 1 — opis] [OnSucceedAttack] 대상에게 N사의 못이 5이상 있으면, 흐트러짐 상태로 만들고 N사의 못을 없앰|[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them and remove the Nails
+763||(ulepszenie 1) — nazwa] 처단할지어다!|I Shall Claim Your Life!
+764||(ulepszenie 1) — opis] [DefeatDuel] 흐트러짐 상태가 됨|[DefeatDuel] User becomes Staggered
+765||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상을 흐트러짐 상태로 만들고, 다음 턴에 취약 10 부여|[OnSucceedAttack] Stagger target and inflict 10 Fragile next turn
+766||(ulepszenie 1) — nazwa] 가소로워|You Are Nothing
+767||(ulepszenie 1) — opis] [OnSucceedEvade] 대상에게 정신피해 5|[OnSucceedEvade] Deal 5 SP damage
+768||(ulepszenie 1) — nazwa] 첫 사람의 날개|Protoplast’s Wings
+770||(ulepszenie 1) — nazwa] 무구한 날개짓|Innocent Flutters
+771||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 1 부여|[OnSucceedAttack] Inflict 1 Bind next turn
+772||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 마비 1 부여|[OnSucceedAttack] Inflict 1 Paralyze next turn
+779||(ulepszenie 1) — nazwa] 부러진 날개|Broken Wings
+789||(ulepszenie 1) — nazwa] 격노한 날개짓|Enraged Flutters
+790||(ulepszenie 1) — nazwa] 고결한 정화|Noble Purification
+791||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 1 부여|[OnSucceedAttack] Inflict 1 Fragile next turn
+792||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 출혈 2 부여|[OnSucceedAttack] Inflict 2 Bleed next turn
+797||(ulepszenie 1) — nazwa] 영예로운 쥐어짐|Honorable Grip
+798||(ulepszenie 1) — opis] [WhenUse] 대상의 체력이 30%미만이면 피해량 +100%|[WhenUse] If target’s HP is below 30%, +100% Damage
+799||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상의 체력이 30% 미만이면 즉시 처치하고, 체력을 30 회복\n다음 턴에 공격 위력 증가를 2 얻음|[OnSucceedAttackHead] If target’s HP is below 30%, kill them and heal 30 HP\nGain 2 Attack Power Up next turn
+800||(ulepszenie 1) — nazwa] 참회하라!!|Repent!!
+802||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 취약 5 부여|[OnSucceedAttack] Inflict 5 Fragile next turn
+803||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed next turn
+804||(ulepszenie 1) — nazwa] 온전한 살덩이|Peerless Flesh
+805||(ulepszenie 1) — nazwa] 손뼉치기|Clap
+806||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여|[OnSucceedAttack] Inflict 1 Attack Power Down next turn
+807||(ulepszenie 1) — nazwa] 강한 손뼉치기|Powerful Clap
+808||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 공격 위력 감소 3 부여|[OnSucceedAttackHead] Inflict 3 Attack Power Down next turn
+809||(ulepszenie 1) — nazwa] 꼬리치기|Tail Whip
+811||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 취약 3 부여|[OnSucceedAttackHead] Inflict 3 Fragile next turn
+812||(ulepszenie 1) — nazwa] 주머니 압박|Pressing Sac
+813||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 3 부여|[OnSucceedAttack] Inflict 3 Bind next turn
+814||(ulepszenie 1) — nazwa] 혈사포|Blood Cannon
+815||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 5 부여|[OnSucceedAttack] Inflict 5 Bleed
+816||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 출혈 20 부여|[OnSucceedAttackHead] Inflict 20 Bleed
+817||(ulepszenie 1) — nazwa] 종혈|Clotting
+818||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 출혈 30 부여|[OnSucceedAttackHead] Inflict 30 Bleed
+819||(ulepszenie 1) — nazwa] 할퀴기|Claw
+820||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 출혈 2 부여.|[OnSucceedAttack] Inflict 2 Bleed next turn
+821||(ulepszenie 1) — nazwa] 등압|Constant Voltage
+822||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 1 부여.|[OnSucceedAttack] Inflict 1 Rupture next turn
+823||(ulepszenie 1) — nazwa] 등압추격|Electromotive Pursuit
+825||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 4 부여.|[OnSucceedAttackHead] Inflict 4 Rupture next turn
+826||(ulepszenie 1) — nazwa] 하울링|Howl
+827||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여.|[OnSucceedAttack] Inflict 2 Bind next turn
+828||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 수비 위력 감소 4 부여.|[OnSucceedAttackHead] Inflict 4 Defense Power Down
+829||(ulepszenie 1) — nazwa] 전격 하울링|Electrified Howl
+830||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 파열 3 부여.|[OnSucceedAttackHead] Inflict 3 Rupture next turn
+831||(ulepszenie 1) — nazwa] 피뢰|Lightning Rod
+832||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 2 부여.|[OnSucceedAttack] Inflict 2 Rupture next turn
+833||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 파열 5 부여.|[OnSucceedAttackHead] Inflict 5 Rupture next turn
+834||(ulepszenie 1) — nazwa] 적뢰|Red Bolts
+835||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 파열 10 부여.|[OnSucceedAttack] Inflict 10 Rupture next turn
+837||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 속박 2 부여|[OnSucceedAttack] Inflict 2 Bind next turn
+839||(ulepszenie 1) — nazwa] 물어뜯기|Bite
+840||(ulepszenie 1) — opis] [WhenUse] 자가 충전 2 얻음\n[DefeatDuel] 자가 충전 1 소모|[WhenUse] Gain 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge
+841||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 출혈 3 부여, 출혈 횟수 2 증가|[OnSucceedAttack] Inflict 3 Bleed and +2 Bleed Count
+842||(ulepszenie 1) — nazwa] 꼬리찌르기|Tail Poke
+846||(ulepszenie 1) — nazwa] 감아 조이기|Wrapping Coil
+848||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 취약 2 부여|[OnSucceedAttack] Inflict 2 Fragile
+849||(ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 속박 2 부여|[OnSucceedAttackHead] Inflict 2 Bind next turn
+850||(ulepszenie 1) — nazwa] 전류 주입|Electric Load
+851||(ulepszenie 1) — opis] [WhenUse] 자가 충전 1 얻음\n대상에게 마비가 있다면 피해량 +10%|[WhenUse] Gain 1 Self-charge\nDeal +10% damage to targets with Paralyze
+852||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze
+853||(ulepszenie 1) — nazwa] 전기 방류|Electric Release
+856||(ulepszenie 1) — nazwa] 전기 방출|Electric Discharge
+857||(ulepszenie 1) — opis] [WhenUse] 자가 충전 1 얻음\n대상에게 마비가 있다면 피해량 +20%|[WhenUse] Gain 1 Self-charge\nDeal +20% damage to targets with Paralyze
+859||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 마비 5 부여|[OnSucceedAttack] Inflict 5 Paralyze
+860||(ulepszenie 1) — nazwa] 초고압 전기 방출|High-voltage Electric Discharge
+861||(ulepszenie 1) — opis] 가지고 있는 자가 충전 전부 소모|Spend all Self-charge
+863||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상이 축전 상태일 때, 최종 피해량의 40%만큼 고정 피해|[OnSucceedAttack] If target has Capacitor, deal 40% of damage dealt as fixed damage
+864||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttack] 마비 3, 축전 1 부여|[OnSucceedAttack] Inflict 3 Paralyze and 1 Capacitor
+865||(ulepszenie 1) — nazwa] 똬리틀기|Coil Up
+866||(ulepszenie 1) — opis] 이 스킬이 슬롯에 있을 때 머리 부위 현재 체력만큼 보호막 얻음.|If this skill is on a slot, gain Shield by the head's current HP
+867||(ulepszenie 1) — nazwa] 꿈틀거리는 머리|Wriggling Head
+868||(ulepszenie 1) — opis] 체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 2 소모\n[DefeatDuel] 자가 충전 2 소모|Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge
+870||(ulepszenie 1) — nazwa] 꿈틀거리는 꼬리|Wriggling Tail
+871||(ulepszenie 1) — opis] 체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 2 소모\n[DefeatDuel] 자가 충전 3 소모|Targets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge
+873||(ulepszenie 1) — nazwa] 침울한 신음|Gloomy Moan
+874||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 3 부여|[OnSucceedAttack] Inflict 3 Sinking
+875||(ulepszenie 1) — nazwa] 몰아치는 침잠|Raging Withdrawal
+876||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 2 증가|[OnSucceedAttack] Inflict +2 Sinking Count
+878||(ulepszenie 1) — nazwa] 슬픔의 반동|Sorrowful Recoil
+879||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 3 증가|[OnSucceedAttack] Inflict +3 Rupture Count
+880||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 2 부여|[OnSucceedAttack] Inflict 2 Rupture
+881||(ulepszenie 1) — nazwa] 슬픔의 격류|Sorrowful Torrent
+882||(ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count
+883||(ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 3 부여|[OnSucceedAttack] Inflict 3 Rupture
+884||(ulepszenie 1) — moneta 2, efekt 2 — opis] [OnSucceedAttackHead] 파열 2 부여|[OnSucceedAttackHead] Inflict 2 Rupture
+885||(ulepszenie 1) — nazwa] 무언가를 찾는 울음소리|Cries Seeking Something

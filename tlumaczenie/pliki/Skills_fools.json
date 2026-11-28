@@ -1,0 +1,100 @@
+{
+  "entries": {
+    "dataList[id=899901].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=899901].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma [CandyForCharon], w następnej turze wpada w Oszołamienie.",
+      "kr_sha256": "12893f9060f1592716ad8b2a9b456c9ec3bc74b696ccac963a1414d1fde26c11",
+      "en_sha256": "bb2d2acc097888708a1ec3c1cab3e0ebf37b212b0c765485e435345496e0b3ff",
+      "origin": "ai"
+    },
+    "dataList[id=899901].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [CandyForCharon]\n[EndSkill] jeżeli cel nie ma [CandyForCharon], nakłada [CandyForCharon]",
+      "kr_sha256": "b0354879cfa59ec465f9fe7a0bf680331588e07c49a4b0e14302be7b4e5604a4",
+      "en_sha256": "527af17523f960a515c5b6997f1b93d078cbad12c4f99b9e96ad7751b978e75e",
+      "origin": "ai"
+    },
+    "dataList[id=899901].levelList[level=1].name": {
+      "pl": "Gimme Candy.",
+      "kr_sha256": "683d32678d670bc011d95ed91b1fb099b6f68df5672375a1b5e19b8c91c86d23",
+      "en_sha256": "8b173aee375f1fef3405673139eb13cf3cd11783bc85e20d26d45a3b166374ec",
+      "origin": "ai"
+    },
+    "dataList[id=899902].levelList[level=1].name": {
+      "pl": "No Candy.",
+      "kr_sha256": "e140261a673ec84b3d2d34606057bab9486812307ef04b1c62cd0b6e8bb5f82d",
+      "en_sha256": "a4713194f7522c2178c11f62f99f6ecf6ae3b42787c8405c20147469cbaa31d6",
+      "origin": "ai"
+    },
+    "dataList[id=899903].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=899903].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=899903].levelList[level=1].name": {
+      "pl": "You...",
+      "kr_sha256": "a5cd4b36c814e87dd5f34cb61c4339f1b354d5432c0937f36016813968aba510",
+      "en_sha256": "14f72cf6bd7baf104d35dbf802270fcc2760db9cc85767900bdc11fbf261a037",
+      "origin": "ai"
+    },
+    "dataList[id=899904].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=899904].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[SuperCoin]",
+      "kr_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "en_sha256": "be272c4a73a2034128f0e4e50da1c7788fbf3c4b2794a10c384e607904c735d5",
+      "origin": "ai"
+    },
+    "dataList[id=899904].levelList[level=1].desc": {
+      "pl": "[BeforeAttack] zyskuje Wagę Ataku równą liczbie wrogów z [CandyForCharon]\n[WhenUse] zyskuje Moc Starcia równą liczbie wrogów z [CandyForCharon]",
+      "kr_sha256": "ceeb598936d1de0c3cca80eed99f3a6154b5114e8b76b5bd04971f24dd891fe9",
+      "en_sha256": "9722e899598c780dc22d02b8e1bb521373df6dd9c0b9ffc10db3f0f7d2418dce",
+      "origin": "ai"
+    },
+    "dataList[id=899904].levelList[level=1].name": {
+      "pl": "... Kkomi's angry.",
+      "kr_sha256": "cda33222088453bc3372ff3d8bfd1b0273f80af74b08b6a276d22ae8042acacd",
+      "en_sha256": "522331898015a3ea2f3344cd2a975ca010af0f9af5156b86a7a1c57a8294826c",
+      "origin": "ai"
+    },
+    "dataList[id=899905].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje Moc Starcia równą liczbie Tożsamości z [CandyForCharon]\nzadaje +10% obrażeń za każdą Tożsamość z [CandyForCharon] (maks. 100%)",
+      "kr_sha256": "1d6f3de5645c41a0ad02d89762d4dc1b15b72f66c0dee8398a44f9d4627a15d8",
+      "en_sha256": "b9dd71356b3617aed940abee76c22489c66fe9ea3a85e31bc5a0658cd238a193",
+      "origin": "ai"
+    },
+    "dataList[id=899905].levelList[level=1].name": {
+      "pl": "Vroom-Vroom",
+      "kr_sha256": "3341cbe43e528465289d37b966c52bcd9f5bef4b964acd3600e13d4972491f45",
+      "en_sha256": "4bb14541b5cb7c31e204a12d3818397c296854cb3cea5a1929c583195f4b9248",
+      "origin": "ai"
+    },
+    "dataList[id=899906].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 2 [ParryingResultUp] i 2 [Agility] w następnej turze",
+      "kr_sha256": "73f01977bfec2e80208c38ed9c8b945fed6b186c21dab12e0401370f907a4c8c",
+      "en_sha256": "99e8320072d5af66d0349ec1ba8637adec2414c4c765ea2c3e7e1c4a3bf9b10d",
+      "origin": "ai"
+    },
+    "dataList[id=899906].levelList[level=1].name": {
+      "pl": "You hit Kkomi.",
+      "kr_sha256": "c68803f7daba5dcbe7644c74ce35944e1ac3b798bf4c81f917b20ae9a3bf4d82",
+      "en_sha256": "eb42d4c0a1f6d40248e6ae86f20a03fcddbd883567acd5162125db2311bd6a9d",
+      "origin": "ai"
+    }
+  }
+}

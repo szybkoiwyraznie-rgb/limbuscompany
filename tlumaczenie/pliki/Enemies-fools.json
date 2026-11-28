@@ -1,0 +1,16 @@
+{
+  "entries": {
+    "dataList[id=8999].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8999].name": {
+      "pl": "Kkomi and Vergilius?",
+      "kr_sha256": "1b3a2d968f5e20676a9962db5802ab209e7cd71828010b6fc9640af023bd3cfd",
+      "en_sha256": "d09754c6e01cc794b1035d75cc5ba3019819e45989be61c585dfd9a855c5458d",
+      "origin": "ai"
+    }
+  }
+}
