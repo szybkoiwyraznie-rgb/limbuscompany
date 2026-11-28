@@ -238,11 +238,15 @@ zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
   `BgmLyrics_Pv`, motywy bossów, utwory z napisów końcowych); tytuły =
   identyfikatory plików gry, wiersze w kolejności tabeli;
 * `06_deployment_PL` — deploymenty misji (wzór SRW `srwy_mission_deployments.md`,
-  generator `tools/build_deployments.py`): per część etapów pula przeciwników
+  generator `tools/build_deployments.py`), dwie sekcje: **(1) Etapy i ich
+  przeciwnicy** — 482 etapy w kolejności gry (Prolog → Canto I–X → Intervalla
+  i wydarzenia) z dokładnymi falami przeciwników (`battle-story`, uzupełniająco
+  `battle-ab`); **(2) Szczegóły przeciwników** — per część etapów pula wrogów
   (tabele StaticData `enemy` i `abnormality-unit`, poza proceduralnymi
   Lustrzanymi Lochami), statystyki (poziom, HP, szybkość, sloty, progi
   oszołomienia, odporności), opisy, umiejętności z mocami monet i pasywki,
-  anatomia Anomalii (części) oraz znane fale walk z Anomaliami (`battle-ab`).
+  anatomia Anomalii (części). Nazwy jednostek mapowane przez pole `nameID`
+  (787 jednostek); „jednostka NNNNN" = celowo nienazwane w danych.
 
 Poza zakresem: `TutorialMainUIText` (przechadzki po interfejsie),
 `TutorialMirrorDungeon`, starsze zestawy `TutorialDesc*` (poprzednia wersja

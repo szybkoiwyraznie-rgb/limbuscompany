@@ -770,3 +770,19 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
 - **Testy:** `76/76` po importach i przebudowach. `docs/CZYTANKI.md`
   (seria META: 7 plików + opisy 05/06) i `docs/STATUS.md` (odnośnik do v5)
   zaktualizowane.
+
+- **Poprawka tej samej sesji (reagując na trudność z nawigacją pliku
+  `06_deployment`):** generator przepisany na układ dwusekcyjny. Sekcja
+  **„1. Etapy i ich przeciwnicy”** (na początku pliku): **482 etapy** w
+  kolejności gry z dokładnymi falami — źródło `battle-story` (457 stage'ów
+  z `waveList`, w tym `stage_Tutorial` = Prolog 0-1…0-4), uzupełniająco
+  `battle-ab` (172; 85 kolizji z battle-story — walka fabularna wygrywa).
+  Sekcja „2. Szczegóły przeciwników” bez zmian (1044 jednostek). Famy z
+  plików `StageNode*` rozplątane: `StageNode1-N` = **Canto N** (nie „część
+  Canto 1”), `StageNode1-0` = Prolog, `StageNode91-N` = Intervallo 910N;
+  chronologia: Canto N → 91-N → Canto N+1. Nazwy jednostek: pole `nameID`
+  (787 wrogów/anomalii + 321 enemy rows) → wpis lokalizacji o tym id
+  (np. 1131 → 90185 „Heishou Pack - Mao: Featherstriker”); bez nazwy zostało
+  6 jednostek (bestie Prologu 99001–99003 Lion/Wolf/Panther — tytuł etapu
+  „Pantera, Lew i Wilk” to potwierdza — i 3 podobne). Instrukcja obsługi
+  pliku w jego nagłówku („Jak czytać ten plik”). Testy 76/76.
