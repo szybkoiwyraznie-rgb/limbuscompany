@@ -2282,7 +2282,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P83_3c_przeciwnicy_i_anomalie_cz19.
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856401].name
    limit: do 40 znaków
    EN: Hatred
-   PL: Hatred
+   PL: Nienawiść
 442. [[refraction2] Pasywka wroga [856401] — opis] 피격 시 마다 다음 턴에 공격 레벨 증가 1, 방어 레벨 감소 1을 얻음
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856401].desc
    limit: do 120 znaków
@@ -2292,7 +2292,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P83_3c_przeciwnicy_i_anomalie_cz19.
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856402].name
    limit: do 40 znaków
    EN: Embers
-   PL: Embers
+   PL: Żar
 444. [[refraction2] Pasywka wroga [856402] — opis] 피격으로 사망 시 대상에게 받은 피해량만큼 피해를 주고, 화상 5 부여
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856402].desc
    limit: do 120 znaków
@@ -2312,7 +2312,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P83_3c_przeciwnicy_i_anomalie_cz19.
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856404].name
    limit: do 40 znaków
    EN: Boiling Wrath
-   PL: Boiling Wrath
+   PL: Wrzący Gniew
 448. [[refraction2] Pasywka wroga [856404] — opis] 강화 상태일 때 스킬의 효과로 부여하는 화상 +1.\n강화 상태에서 사망 시 모든 아군에게 화상 횟수 4 부여
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856404].desc
    limit: do 170 znaków
@@ -2405,7 +2405,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P83_3c_przeciwnicy_i_anomalie_cz19.
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856701].name
    limit: do 40 znaków
    EN: Hunger
-   PL: Hunger
+   PL: Głód
 468. [[refraction2] Pasywka wroga [856701] — opis] 턴 종료 시 이번 턴에 피해를 주지 못한 경우 파열 취약 2를 얻음
    źródło: Passives_Abnormality_Refraction2.json :: dataList[id=856701].desc
    limit: do 120 znaków

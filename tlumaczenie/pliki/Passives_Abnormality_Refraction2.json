@@ -799,7 +799,7 @@
       "origin": "ai"
     },
     "dataList[id=856401].name": {
-      "pl": "Hatred",
+      "pl": "Nienawiść",
       "kr_sha256": "4449f2d676a88894247f64e5dbb6a68d6d87a21bcc2330b2431ca5e870ce4551",
       "en_sha256": "4b650147947cf39ec4e9f102af862cabcce8c0b8a85e1dd21064950c6b5c924d",
       "origin": "ai"
@@ -811,7 +811,7 @@
       "origin": "ai"
     },
     "dataList[id=856402].name": {
-      "pl": "Embers",
+      "pl": "Żar",
       "kr_sha256": "6abd158bb1cda236663cd8debc628cb2a21f6267f85cc5c4c64180cc5e5a0769",
       "en_sha256": "8b110a049214c6d8c3107fc0a58480af35fa538296792c8dd7d3af5d6cc8adf8",
       "origin": "ai"
@@ -835,7 +835,7 @@
       "origin": "ai"
     },
     "dataList[id=856404].name": {
-      "pl": "Boiling Wrath",
+      "pl": "Wrzący Gniew",
       "kr_sha256": "0ecbbbdee395c1fef5c54fadf74ad042094dd1e8b3ed546072fc51916c60456e",
       "en_sha256": "2c032af19935f6805bed25657c9533b0cd3c0a2b80fb707a7088c00f3de99542",
       "origin": "ai"
@@ -955,7 +955,7 @@
       "origin": "ai"
     },
     "dataList[id=856701].name": {
-      "pl": "Hunger",
+      "pl": "Głód",
       "kr_sha256": "93cd6e5524d53382ca63ba707fb3500fc5f986dfee104cee9773380d1cbd7f1e",
       "en_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
       "origin": "ai"
