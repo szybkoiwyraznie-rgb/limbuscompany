@@ -848,7 +848,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P82_3c_przeciwnicy_i_anomalie_cz18.
    tokeny: zachowaj dokładnie: [OnSucceedAttack]
    znaczenie tagów: [OnSucceedAttack] = [적중시] / [On Hit]
    EN: [OnSucceedAttack] Spend 2 Charge to inflict 5 Burn
-   PL: [OnSucceedAttack] zużywa 2 Ładowania, by nakłać 5 Podpalenia
+   PL: [OnSucceedAttack] zużywa 2 Ładowania, by nałożyć 5 Podpalenia
 209. [Umiejętność wroga [851906] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 충전 횟수 2소모하여, 화상 5 부여
    źródło: Skills_Abnormality_Refraction.json :: dataList[id=851906].levelList[level=1].coinlist[#1].coindescs[#0].desc
    (powtórzenie elementu 208 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)

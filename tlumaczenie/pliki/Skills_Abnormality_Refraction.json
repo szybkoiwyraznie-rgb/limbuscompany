@@ -235,13 +235,13 @@
       "origin": "ai"
     },
     "dataList[id=851906].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
-      "pl": "[OnSucceedAttack] zużywa 2 Ładowania, by nakłać 5 Podpalenia",
+      "pl": "[OnSucceedAttack] zużywa 2 Ładowania, by nałożyć 5 Podpalenia",
       "kr_sha256": "47739ee9369be02157b9a9a637115e83fb6fb9f8420801da2461f18fe00da32b",
       "en_sha256": "399e1ed3698d54e71b131cab309c17d0be01b28d7e0121d9396249a6b5d1da9e",
       "origin": "ai"
     },
     "dataList[id=851906].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
-      "pl": "[OnSucceedAttack] zużywa 2 Ładowania, by nakłać 5 Podpalenia",
+      "pl": "[OnSucceedAttack] zużywa 2 Ładowania, by nałożyć 5 Podpalenia",
       "kr_sha256": "47739ee9369be02157b9a9a637115e83fb6fb9f8420801da2461f18fe00da32b",
       "en_sha256": "399e1ed3698d54e71b131cab309c17d0be01b28d7e0121d9396249a6b5d1da9e",
       "origin": "ai"
