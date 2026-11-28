@@ -32,7 +32,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUT = ROOT / "index"
 STATIC_TABLES = ("storytheater-main", "storytheater-other", "storytheater-personality", "storytheater-mirrorworld",
                  "story", "battle-story", "battle-ab", "RPGSystem", "personality", "skill", "personality-passive",
-                 "passive")
+                 "passive", "enemy", "abnormality-unit", "abnormality-part")
 
 
 def _localize_members(source: Path, lang: str) -> list[tuple[str, bytes]]:

@@ -77,6 +77,21 @@
     "pliki": 78,
     "bajty": 239259,
     "sha256": "7b81d0a3bd290110c132bdd439d2cd2cd66ebb9f48bf0808d18ea01ea6c52ad6"
+   },
+   "enemy": {
+    "pliki": 42,
+    "bajty": 2538047,
+    "sha256": "53d292a5c30c129090a3ddd09f1c5e59ed072ebe9cedfc8af08683a9ba870063"
+   },
+   "abnormality-unit": {
+    "pliki": 68,
+    "bajty": 6806555,
+    "sha256": "be1ccab3fbf11486ce19318bb000b6ad9a64a8445e177f8976767c345a057ccf"
+   },
+   "abnormality-part": {
+    "pliki": 67,
+    "bajty": 2571845,
+    "sha256": "8038707e9c298beb1f245a213ae2be35c72c8fe2f587d2e460dcc2bc095c64ae"
    }
   }
  }

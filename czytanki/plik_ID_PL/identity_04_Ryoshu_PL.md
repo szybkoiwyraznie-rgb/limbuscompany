@@ -575,7 +575,7 @@ Po pokonaniu wroga zyskuje +2 Licznika Ładowania (maks. 3 razy na turę)
 
 *od ulepszenia 4; posiadane 5× Pycha*
 
-Upon defeating an enemy, gain +3 Charge Count (3 times per turn)
+po pokonaniu wroga zyskuje +3 Liczniki Ładowania (uruchamia się maks. 3 razy na turę)
 
 #### Pasywka wsparcia: Wymienna Ostrze Załamująca Wymiary - Type: Blade Mk7
 
@@ -587,7 +587,7 @@ Gdy Sojusznik z najniższym Maks. HP pokonuje wroga, zyskuje +2 Licznika Ładowa
 
 *od ulepszenia 4; posiadane 5× Pycha*
 
-When an ally with the lowest Max HP defeats an enemy, they gain +3 Charge Count (Once per turn)
+gdy sojusznik z najniższym Maks. HP pokona wroga, zyskuje on +3 Liczniki Ładowania (uruchamia się 1 raz na turę)
 
 #### Kwestie
 

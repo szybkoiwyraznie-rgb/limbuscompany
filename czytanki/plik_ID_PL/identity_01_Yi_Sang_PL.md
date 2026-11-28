@@ -332,8 +332,8 @@ Po wygranej Starciu zyskuje +1 Licznika Oddechu
 
 *od ulepszenia 4; posiadane 4× Pycha*
 
-On Clash Win, gain +1 [Oddech] Count  
-Coin Power +1 for every 5 [Oddech] Count (max 3)
+po wygranej w Starciu, zyskuje +1 Licznik [Oddech]  
+Moc Monet +1 za każde 5 Liczników [Oddech] (maks. 3)
 
 #### Pasywka wsparcia: Darowanie
 
@@ -1606,7 +1606,7 @@ Po śmierci 1 sojusznika z najniższym obecnym HP zyskuje po 2 zasobów E.G.O dl
 - **Commencing Attack:** Subject suppressed.
 - **Enemy Stagger:** Hm. Thus I leave a recording of this weakness.
 - **Staggered:** Ngh...
-- **Enemy Killed:** Suppression complete.
+- **Enemy Killed:** Stłumienie kompletne.
 - **Death:** Haah... yet... there is so much of the unknown... in this world... to be learned...
 - **Check Passed:** A clear, crisp vision of a solution appeared before me.
 - **Check Failed:** Perchance this issue may be set aside as a long-term research goal...?

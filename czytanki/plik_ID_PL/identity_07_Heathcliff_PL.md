@@ -339,9 +339,9 @@ Przy 5+ Liczniku Ładowania zyskuje 1 [Pośpiech] i Wzrost Mocy Ataku.
 
 *od ulepszenia 4; rezonans 3× Gniew*
 
-Gain (Wrath Reson.) Charge Count next turn.  
-At 5+ Charge Count, gain 1 Haste and Attack Power Up.  
-Always Activate: At the start of the stage, gain +3 Ammo.
+w następnej turze zyskuje Liczniki Ładowania równe (Rezonansowi Gniewu).  
+przy 5+ Licznikach Ładowania, zyskuje 1 Pośpiechu i Wzrost Mocy Ataku.  
+Zawsze aktywne: na początku etapu, zyskuje +3 Amunicji.
 
 #### Pasywka wsparcia: Upór
 
@@ -453,8 +453,8 @@ Gdy sojusznik ginie, na początku następnej tury traci 10 Poczytalności i zysk
 
 *od ulepszenia 4; posiadane 2× Zawiść*
 
-When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn.  
-If 4 or more surviving units in the team, including this unit, are 'N Corp. Fanatics', Coin Power +1.
+gdy ginie sojusznik, na początku następnej tury traci 10 Poczytalności i zyskuje 1 Wzrost Mocy Uderzenia  
+jeżeli w drużynie, włącznie z tą jednostką, przetrwa 4 lub więcej Fanatyków Korp. N, Moc Monet +1.
 
 #### Pasywka wsparcia: Recytacja
 
@@ -2898,7 +2898,7 @@ Gdy 1 Sojusznik z najwyższą Szybkością wygrywa starcie podstawową Umiejętn
 - **Post-Uptie Chat 1:** Among the apprentices... Ishmael's bit the dust, Sinclair's turned his coat, and only... Miss Don Quixote and Faust remain. If I'm ever gettin' away from here, or killin' her.... now's the best time. No, not yet. Might have a better shot at it after we fight off the assault. Yeah, she'll be proper done in by then. For now, focus on helping Master...
 - **Post-Uptie Chat 2:** The thrashings, the humiliation, the scorn... I could endure 'em all. I just had to weather 'em like I always did an' let 'em pass over me. Despite all that, I decided to kill my master because... because I finally realized something. That her abuse was... here to stay.
 - **Idle:** Maybe I can kill her now. Maybe this is my chance.
-- **Uptying:** In one-on-one duels, my Palermitan Style has the advantage.
+- **Uptying:** W pojedynku jeden na jeden moja palermitańska szkoła daje przewagę.
 - **Deployment:** As the propriety of honorable combat dictates... One daft prick at a time.
 - **Stage Entry:** I swear, as soon as this battle's over, I'll...
 - **Viewed in Battle:** *When faced with a superior opponent, lock and redirect the force of their attack... When outnumbered, lower the stance and...*

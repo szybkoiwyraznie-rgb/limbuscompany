@@ -216,8 +216,8 @@ Zyskuje 1 Licznik Ładowania na koniec ataku
 
 *od ulepszenia 4; posiadane 4× Zawiść*
 
-Gain +1 [Ładowanie] Count at Attack End  
-A random ally gains +1 [Ładowanie] Count at Attack End
+po zakończeniu ataku, zyskuje +1 Licznik [Ładowanie]  
+po zakończeniu ataku, losowy sojusznik zyskuje +1 Licznik [Ładowanie]
 
 #### Pasywka wsparcia: Krótkofalówka
 
@@ -449,8 +449,8 @@ Jeżeli celem jest Fanatyk Korporacji N, nakłada 1 Fanatyzmu
 
 *od ulepszenia 4; rezonans 4× Żądza*
 
-Combat Start: Heal 15 SP for 2 allies that have the lowest SP  
-If the ally is an "N Corp. Fanatic", also apply 2 [Fanatyzm]
+na początku walki: przywraca 15 Poczytalności 2 sojusznikom z najniższą Poczytalnością.  
+jeżeli sojusznik jest Fanatykiem Korp. N, nakłada dodatkowo 2 [Fanatyzm]
 
 #### Pasywka wsparcia: Szepty
 
@@ -463,8 +463,8 @@ Jeżeli celem jest Fanatyk Korporacji N, nakłada 1 Fanatyzmu
 
 *od ulepszenia 4; rezonans 3× Żądza*
 
-Combat Start: Heal 15 SP for 1 ally that has the lowest SP  
-If the ally is an "N Corp. Fanatic", also apply 2 [Fanatyzm]
+na początku walki: przywraca 15 Poczytalności 1 sojusznikowi z najniższą Poczytalnością.  
+jeżeli sojusznik jest Fanatykiem Korp. N, nakłada 2 [Fanatyzm]
 
 #### Kwestie
 

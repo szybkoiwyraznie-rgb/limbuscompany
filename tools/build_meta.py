@@ -72,6 +72,11 @@ L = {
         "splashes": "Splashe pobierania patcha",
         "sinners": "Akta Grzeszników (introdukcje)",
         "sinner": "Grzesznik #{n} — {name}",
+        "songs": "Piosenki (BgmLyrics)",
+        "song": "Piosenka: {name}",
+        "song_file": "*(plik `{file}`, {n} wierszy)*",
+        "song_untranslated_all": "Wersja angielska — bez przekładu.",
+        "song_untranslated_partial": "Wierszy bez przekładu: {k}/{n}.",
         "spis": "„Plik META” — spis serii",
         "file": "Plik",
         "content": "Zawartość",
@@ -95,6 +100,11 @@ L = {
         "splashes": "Patch-download splash screens",
         "sinners": "Sinner dossiers (introductions)",
         "sinner": "Sinner #{n} — {name}",
+        "songs": "Songs (BgmLyrics)",
+        "song": "Song: {name}",
+        "song_file": "*(file `{file}`, {n} lines)*",
+        "song_untranslated_all": "English version — no translation yet.",
+        "song_untranslated_partial": "Untranslated lines: {k}/{n}.",
         "spis": "\"META file\" — series contents",
         "file": "File",
         "content": "Contents",
@@ -367,6 +377,77 @@ def build_sinner_file(texts: Texts, lang: str) -> tuple[str, int]:
     return "\n".join(out).rstrip() + "\n", total
 
 
+# ---------------------------------------------------------------- file 05
+
+
+def _en_texts(texts: Texts) -> Texts | None:
+    """Tabela EN do wykrywania wpisów bez przekładu (PL == EN)."""
+    if texts.lang == "en":
+        return None
+    en = getattr(texts, "_en_texts", None)
+    if en is None:
+        from tools.localize import Snapshot as _Snapshot
+        en = Texts(_Snapshot.open(ROOT / "index" / "localize"), "en")
+        texts._en_texts = en
+    return en
+
+
+def build_songs_file(texts: Texts, lang: str) -> tuple[str, int]:
+    lbl = _t(texts, lang)
+    en_texts = _en_texts(texts)
+    files = sorted(name for name in texts.names() if name.startswith("BgmLyrics/"))
+    order = sorted(files, key=lambda n: (0 if n.endswith("_Pv.json") else 1, n))
+    out = [
+        f"# {GAME} — Piosenki",
+        "",
+        lbl["reader"],
+        "",
+        "Słowa piosenek z tabel `BgmLyrics` (folder `BgmLyrics/`): piosenka Prologu"
+        " (`BgmLyrics_Pv`), motywy bossów i zwiastunów, utwory z napisów końcowych."
+        " Tytuły to identyfikatory plików gry — oficjalnych tytułów utworów dane"
+        " nie przechowują. Wiersze w kolejności tabeli.",
+        "",
+        f"## {lbl['songs']}",
+        "",
+    ]
+    total = 0
+    for name in order:
+        rows = sorted(texts.table(name), key=lambda r: int(re.sub(r"\D", "", str(r.get("id", ""))) or 0))
+        lines = []
+        untranslated = 0
+        for row in rows:
+            content = to_markdown(row.get("content"), texts.keywords)
+            if not content:
+                continue
+            lines.append(content)
+            total += 1
+            if en_texts is not None:
+                en_rows = {str(r.get("id")): r for r in en_texts.table(name)}
+                if str(en_rows.get(str(row.get("id")), {}).get("content")) == str(row.get("content")):
+                    untranslated += 1
+        suffix = re.sub(r"^BgmLyrics/EN_BgmLyrics_|^BgmLyrics/BgmLyrics_", "", name[:-5])
+        out += [f"## {lbl['song'].format(name=suffix)}", ""]
+        out += [lbl["song_file"].format(file=name, n=len(lines)), ""]
+        if lines:
+            if untranslated == len(lines) and untranslated:
+                out += [f"*{lbl['song_untranslated_all']}*", ""]
+            elif untranslated:
+                out += [f"*{lbl['song_untranslated_partial'].format(k=untranslated, n=len(lines))}*", ""]
+            out += ["  \n".join(lines), ""]
+    if not total:
+        return "", 0
+    return "\n".join(out).rstrip() + "\n", total
+
+
+# ---------------------------------------------------------------- file 06
+
+
+def build_deployments_wrapper(texts: Texts, lang: str) -> tuple[str, int]:
+    from tools.build_deployments import build_deployments_file
+
+    return build_deployments_file(texts, lang)
+
+
 # ---------------------------------------------------------------- spis
 
 
@@ -377,7 +458,8 @@ def build_index_file(files: dict[str, tuple[str, int]], lang: str) -> str:
         "",
         "Czwarta seria Czytanek: elementy spoza trzech głównych grup"
         " (fabuła / plik ID / plik E.G.O) — teksty tutoriali z misji, Notatki"
-        " Dantego, splashe pobierania patcha i akta Grzeszników.",
+        " Dantego, splashe pobierania patcha, akta Grzeszników, piosenki i"
+        " deploymenty misji (przeciwnicy ze statystykami).",
         "",
         "Poza zakresem serii (osobne grupy albo teksty interfejsu bez treści"
         " fabularnej): `TutorialMainUIText` (przechadzki po interfejsie),"
@@ -411,6 +493,8 @@ def main(argv: list[str] | None = None) -> int:
             (f"02_notatki_dantego_{suffix}.md", "Notatki Dantego (encyklopedia świata)", build_notes_file),
             (f"03_splashe_pobierania_{suffix}.md", "Splashe pobierania patcha", build_splash_file),
             (f"04_akta_grzesznikow_{suffix}.md", "Akta Grzeszników (introdukcje)", build_sinner_file),
+            (f"05_piosenki_{suffix}.md", "Piosenki (BgmLyrics)", build_songs_file),
+            (f"06_deployment_{suffix}.md", "Deploymenty misji (przeciwnicy i statystyki)", build_deployments_wrapper),
         ]
         for file_name, title, builder in pieces:
             text, count = builder(texts, args.lang)

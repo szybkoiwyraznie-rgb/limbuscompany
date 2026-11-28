@@ -722,3 +722,51 @@ prawostronnie przez `---:` — a nie jako gołe wiersze `|---|---|`;
   Poprzednie wersje przeniesione do kosza: paczka v3
   (`1C8LtGyPaKaJ_BdK5bJ7CkAGZWDmrJtGt`) i Czytanki z E-018
   (`1Fz9csdM4jhg1TAOIUNastxaP_yKAqrdh`).
+
+## E-021 · 2026-11-28 · Patch v5, deploymenty misji i piosenki w Czytankach (fakt z pomiaru)
+
+- **Zadania właściciela:** (1) nowy patch PL z magazynu tłumaczenia → Dysk;
+  (2) nowe pliki w dziale `plik_META_PL` — piosenki + deployment misji
+  (przeciwnicy ze statystykami); (3) nowe Czytanki → Dysk.
+- **Nowe tabele StaticData (import_data.py, `STATIC_TABLES` +3):** `enemy`
+  (42 pliki), `abnormality-unit` (68), `abnormality-part` (67) — lustro
+  `LEAGUE-OF-NINE/OpenLethe` @ `8f24cba5` (ten sam commit co reszta indeksu;
+  nowszy commit danych `281f0bf9` tylko dodaje pliki — nie mieszać).
+  `index/MANIFEST.json` bez zmiany `zrodlo`, 3 nowe tabele z SHA-256.
+- **PRIORYTET-1 + P84-REDO w paczce:** nazwy wrogów/skilli (1878 liści) i
+  piosenka Prologu (`BgmLyrics_Pv`) weszły do patcha v5.
+- **`tools/build_deployments.py` (nowy):** plik `06_deployment_<LANG>.md` —
+  per część etapów (70 rodzin z tabel `enemy`/`abnormality-unit`, poza
+  `mirrordungeon*`/`schema-craft`/`shadowenemy`): lista etapów (`StageNode`)
+  i pula przeciwników; **406 jednostek** (wrogowie + Anomalie z częściami),
+  **5134 sekcji** (statystyki/umiejętności/pasywki), **172 etapów** ze znanymi
+  falami (`battle-ab` → `waveList`). Statystyki: poziom, HP (+/poziom),
+  szybkość, sloty akcji, progi oszołomienia, odporności (atak ×2/×1,5/… i 9
+  typów obrażeń), umiejętności (grzech/typ/moc bazowa/moc monety/monety/cele —
+  sin z `AttributeText`, typy z `BattleUIText`, konwencje renderu z
+  `build_profiles`), pasywki z opisami; PL z fallbackiem EN (liczba bez
+  przekładu podana w „Zakresie"). Odporność ×1 pomijana (notacja „wszystkie ×1").
+- **`tools/build_meta.py`:** dołożone pliki `05_piosenki_<LANG>.md`
+  (17 piosenek `BgmLyrics`, **662 wierszy**; Pv przetłumaczona, pozostałe EN z
+  adnotacją) i `06_deployment` (wrapper na `build_deployments_file`); spis serii
+  (7 plików) aktualizowany automatycznie. Lekcja przy okazji: `edit_file`
+  zapisuje teksty literalnie — sekwencje `"\n"` w nowych stringach sprawdzić
+  w zbudowanym pliku (`cat -A`), zanim odda się wydanie.
+- **Czytanki PL przebudowane** z `local/cz_snapshot` (paczka v5 rozpakowana →
+  `Lang/Polski`): `fabula_PL` 37, `plik_ID_PL` 12, `plik_EGO_PL` 12,
+  `plik_META_PL` 7 — razem **68 plików MD**.
+- **Patch v5 (`dist/LCB_PL_Polski_26917622.zip`):** `7 607 934` B, SHA-256
+  `b658c6d3f6d94e92e52b051429e7c56dbcbd1304382be56502edb45f0a601f57`,
+  `2 422` plików JSON (`1 420` zmodyfikowanych), **`85 391 / 193 309` =
+  `44,17%`** przetłumaczonych liści (v4: 34,16%), `0` znaczników diagnostycznych.
+- **Dostawa na Dysk Google (folder kanału):** paczka
+  `LCB_PL_Polski_26917622_v5.zip` (`1y6cvYlnA_peim__XTGh28R-KSs-qUEkn`) i
+  Czytanki `LCB_Czytanki_PL_2026-11-28_v3.zip`
+  (`1AcF5S8ttUPWih0qSZx6L1497Iu9d2FbV`, `2 444 164` B, SHA-256
+  `b1dd9e6a8feec01ac53acd73da010ca695f81d23ac77af07eb4d99ce7e9a106f`).
+  Poprzednie wersje przeniesione do kosza (odzyskiwalne): paczka v4
+  (`1oAwOD_r6cKf-GjXx7Fh5mbdbgUqPPABr`) i Czytanki v2
+  (`1-6eX0Uy6U_tGT4C8vHAknZyRjshifjaC`).
+- **Testy:** `76/76` po importach i przebudowach. `docs/CZYTANKI.md`
+  (seria META: 7 plików + opisy 05/06) i `docs/STATUS.md` (odnośnik do v5)
+  zaktualizowane.

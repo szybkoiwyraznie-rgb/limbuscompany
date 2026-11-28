@@ -2589,7 +2589,7 @@ Nakłada poniższe efekty na Tożsamość przydzieloną najwcześniej na pozycji
 - **Deployment:** Back for another look? Knew you'd pine for my work.
 - **Stage Entry:** Let's tear open some flesh and get more red into the mix.
 - **Viewed in Battle:** Careful. You're undressing the artwork with your eyes.
-- **Commencing Attack:** With a palette of colors out of this world.
+- **Commencing Attack:** Paletą barw, jakiej nie zobaczysz nigdzie indziej.
 - **Enemy Stagger:** What's wrong? Did my claws get under your skin?
 - **Staggered:** Hmm. This material's got more bite than it looks.
 - **Enemy Killed:** Adieu.

@@ -699,7 +699,7 @@ Na początku walki przy 5+ Liczniku Ładowania zyskuje 2 Pośpiechu w następnej
 
 *od ulepszenia 4; posiadane 3× Pycha*
 
-If at 5+ Charge Count at the start of the combat phase, gain 2 Haste. At 10+ Charge Count, gain 1 additional Haste.
+jeżeli na początku fazy walki ma 5+ Liczników Ładowania, zyskuje 2 Pośpiechu. przy 10+ Licznikach Ładowania, dodatkowo zyskuje 1 Pośpiechu.
 
 #### Pasywka wsparcia: Przekazanie Podręcznika Oczyszczania
 

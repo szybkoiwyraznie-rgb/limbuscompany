@@ -3312,7 +3312,7 @@ Gdy 1 Sojusznik z najwyższą Szybkością użyje Umiejętności do Starcia, nak
 - **Idle:** ... How long is that punk going to leech on our Office? Prithee, practice patience! Thou recallest Lady Outis's reassurance, dost thou not? He shall depart anon following this contract's completion.
 - **Uptying:** Hey, don't glare at us now. We just poked you to make sure. Heh heh, I had heard that thou wert supposed to be "nice"—I expect naught else but the maximum generosity from thee!
 - **Deployment:** Prithee, young Sinclair! Stay clear of position mine!
-- **Stage Entry:** I shall clear the way forth!
+- **Stage Entry:** Otworzę drogę!
 - **Viewed in Battle:** I must invest my focus entirely upon this battlefield before us! If it's urgent, take it to young Sinclair!
 - **Commencing Attack:** Skewer!
 - **Enemy Stagger:** Thou'rt like a book opened!

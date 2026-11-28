@@ -218,7 +218,7 @@ wynika z numeracji plików, nie z przejścia gry; Czytanka mówi to wprost.
 
 ## „Plik META” — elementy spoza trzech głównych grup (E-020)
 
-Czwarta seria (`tools/build_meta.py` → `czytanki/plik_META_PL`, 5 plików)
+Czwarta seria (`tools/build_meta.py` → `czytanki/plik_META_PL`, 7 plików)
 zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
 
 * `01_teksty_z_misji_PL` — teksty tutoriali bojowych pogrupowane po etapach
@@ -233,7 +233,16 @@ zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
 * `03_splashe_pobierania_PL` — ekrany z lore Miasta podczas pobierania
   patcha (`FileDownloadDesc`);
 * `04_akta_grzesznikow_PL` — akta osobowe Grzeszników #1–#12
-  (`IntroduceCharacter`; imiona z `Characters`).
+  (`IntroduceCharacter`; imiona z `Characters`);
+* `05_piosenki_PL` — słowa piosenek z tabel `BgmLyrics` (piosenka Prologu
+  `BgmLyrics_Pv`, motywy bossów, utwory z napisów końcowych); tytuły =
+  identyfikatory plików gry, wiersze w kolejności tabeli;
+* `06_deployment_PL` — deploymenty misji (wzór SRW `srwy_mission_deployments.md`,
+  generator `tools/build_deployments.py`): per część etapów pula przeciwników
+  (tabele StaticData `enemy` i `abnormality-unit`, poza proceduralnymi
+  Lustrzanymi Lochami), statystyki (poziom, HP, szybkość, sloty, progi
+  oszołomienia, odporności), opisy, umiejętności z mocami monet i pasywki,
+  anatomia Anomalii (części) oraz znane fale walk z Anomaliami (`battle-ab`).
 
 Poza zakresem: `TutorialMainUIText` (przechadzki po interfejsie),
 `TutorialMirrorDungeon`, starsze zestawy `TutorialDesc*` (poprzednia wersja

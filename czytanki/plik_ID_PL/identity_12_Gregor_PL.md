@@ -1928,7 +1928,7 @@ Na koniec ataku podstawową Umiejętnością sojusznika, jeżeli wróg (Rdzeń) 
 - **Commencing Attack:** Let's deal with this quickly.
 - **Enemy Stagger:** Is this your weak spot?
 - **Staggered:** Gah...
-- **Enemy Killed:** You were full of openings.
+- **Enemy Killed:** Pełen był dziur w obronie.
 - **Death:** I guess running away... did nothing to unseal our fate...
 - **Check Passed:** Anything else left? Let's deal with it fast.
 - **Check Failed:** ... If only hard work guaranteed results.

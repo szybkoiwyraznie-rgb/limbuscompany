@@ -247,8 +247,8 @@ Na początku następnej tury zyskuje Wzrost Mocy Ataku równy (Rezonans Posępno
 
 *od ulepszenia 4; rezonans 3× Posępność*
 
-At the start of the combat phase, gain (Gloom Reson. / 3) Attack Power Up.  
-If this unit fails to deal damage this turn, lose 15 SP at the end of the turn.
+na początku fazy walki zyskuje Wzrost Mocy Ataku w liczbie równej (Rezonans Posępności / 3)  
+jeżeli jednostka nie zada obrażeń w tej turze, traci 15 Poczytalności na koniec tury.
 
 #### Pasywka wsparcia: Upór
 
@@ -607,7 +607,7 @@ Jeżeli w turze nie zada obrażeń HP Umiejętnością ataku, zyskuje w następn
 
 *od ulepszenia 4; posiadane 3× Posępność*
 
-If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 10% of Max HP next turn. (Max 30)
+jeżeli jednostka nie zada obrażeń HP Umiejętnościami ataku w turze, zyskuje Tarczę równą 10% Maks. HP w następnej turze. (maks. 30)
 
 #### Pasywka wsparcia: Żrący Śluz
 

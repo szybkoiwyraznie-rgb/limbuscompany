@@ -234,8 +234,8 @@ Ostatnia moneta ostatniej Umiejętności w łańcuchu zadaje +20% obrażeń
 
 *od ulepszenia 4; rezonans 2× Pycha*
 
-The last Coin on the last skill in the chain deals +20% damage.  
-Whenever an ally other than this unit gains Poise Count, this unit gains +1 Poise Count at a 50% chance.
+ostatnia Moneta ostatniej Umiejętności w łańcuchu zadaje +20% obrażeń.  
+za każdym razem, gdy sojusznik inny niż ta jednostka zyskuje Licznik Poise, ta jednostka zyskuje +1 Licznik Poise z szansą 50%.
 
 #### Pasywka wsparcia: Krwawe Dłonie
 
@@ -598,8 +598,8 @@ Odzyskuje o 50% mniej Poczytalności za wygrane starcie lub pokonanie wroga
 
 *od ulepszenia 4; posiadane 2× Gniew*
 
-Heal 50% less SP from winning a clash or defeating an enemy.  
-If 5 or more surviving units, including this unit, are 'N Corp. Fanatics', they deal +10% damage.
+przywraca o 50% mniej Poczytalności za wygraną w Starciu lub pokonanie wroga.  
+jeżeli 5 lub więcej żywych jednostek, włącznie z tą jednostką, to Fanatyków Korp. N, zadają one +10% obrażeń.
 
 #### Pasywka wsparcia: Osaczanie
 
@@ -2925,7 +2925,7 @@ Na koniec ataku Umiejętnością ataku ten sojusznik odzyskuje 5% Maks. HP (min.
 - **Viewed in Battle 1:** ... Why did you call me?
 - **Viewed in Battle 2:** ... If you have questions to ask, raise your hand and wait. I will answer them one at a time.
 - **Commencing Attack 1:** I can't stop myself anymore.
-- **Commencing Attack 2:** Pour forth.
+- **Commencing Attack 2:** Wylewajcie się.
 - **Enemy Staggered 1:** Move...
 - **Enemy Staggered 2:** I drink when my throat burns with thirst.
 - **Staggered 1:** It hurts...

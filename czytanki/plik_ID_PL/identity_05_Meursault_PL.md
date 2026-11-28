@@ -347,8 +347,8 @@ Przy trafieniu zyskuje +1 Licznika Ładowania. (maks. 6 razy)
 
 *od ulepszenia 4; posiadane 3× Zawiść*
 
-When attacked, gain +1 Charge Count. (Up to 6 times)  
-After losing a clash, gain +1 Charge Count. (Up 6 times, counted independently of hits taken)
+przy trafieniu, zyskuje +1 Licznik Ładowania. (do 6 razy)  
+po przegranej w Starciu, zyskuje +1 Licznik Ładowania. (do 6 razy, liczone niezależnie od otrzymanych trafień)
 
 #### Pasywka wsparcia: Milczenie
 
@@ -728,8 +728,8 @@ Na koniec tury Maks. Szybkość +2 (maks. 6) w następnej turze za każde 5 Licz
 
 *od ulepszenia 4; posiadane 5× Zawiść*
 
-At the end of the turn, gain +2 Max Speed per 5 Charge Count next turn. (Max 6)  
-At the start of the turn, if at 5+ Charge Count, gain 3 Aggro to this unit's rightmost slot.
+na koniec tury, za każde 5 Liczników Ładowania, Maks. Szybkość +2 w następnej turze. (maks. 6)  
+na początku tury, przy 5+ Licznikach Ładowania, zyskuje 3 Aggro na najbardziej wysuniętym na prawo slocie tej jednostki.
 
 #### Pasywka wsparcia: Trening Manewrowy
 
