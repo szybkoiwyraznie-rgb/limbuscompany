@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=863001].name": {
-      "pl": "Melee Combat",
+      "pl": "Walka Wręcz",
       "kr_sha256": "8d48200582edabe5b9674fff03c42905796e2ba13214ab978828755d43040693",
       "en_sha256": "e5e8c7833f6074c6319801d9cd14b31f04e4151dd05e4d6ad91bbfdea4e899a1",
       "origin": "ai"
@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=863002].name": {
-      "pl": "Charge Forth",
+      "pl": "Szarża",
       "kr_sha256": "4f98c06be3a21b9bdd2315b641c64d6e2f3cfab13d21516abc46bf26468ec9c4",
       "en_sha256": "7195caf836b01f4af8b49681eca5924b0806c1766247234bb832000009a82043",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=863202].name": {
-      "pl": "Deep Breath",
+      "pl": "Głęboki Wdech",
       "kr_sha256": "83337333dafa5d66eeb4bc6939edccd18de9c870bded1e2955aafa43e7f8d619",
       "en_sha256": "8f8d76b7e801d45220934647817151e1cd466b866ffc97611dc4f02830177a6b",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=863305].name": {
-      "pl": "Refracted Sin",
+      "pl": "Załamany Grzech",
       "kr_sha256": "dea30bcc9add22c0fab93d0b60b6373fc84042d89be36b4c9ff4cc7d901d46df",
       "en_sha256": "9f8de9a9d9fbff71a2bd13aacc430d84c2fde4a260d7e829c75f5ea2141e9cb2",
       "origin": "ai"

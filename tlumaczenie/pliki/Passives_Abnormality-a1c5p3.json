@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=810101].name": {
-      "pl": "Exposed Pearl",
+      "pl": "Obnażona Perła",
       "kr_sha256": "49d3e2937e168b6453367b3e038834bf10131601cb9077b225ee2e5aeb72e65c",
       "en_sha256": "9367aa02efa6d2d1bf50c3b81d468e05cb2dc73c599f7d6a52736f1864ee934f",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=810104].name": {
-      "pl": "Gathering Slime",
+      "pl": "Zbierający Się Śluz",
       "kr_sha256": "b7851abe4878f0c4e8123fc88987c78c98bad13b9d773d54815bff187597f5df",
       "en_sha256": "0a13f8c80583cd0563f16804bce8e81a8cb9210a99eb332677ffc722c3070459",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=810202].name": {
-      "pl": "Underwater Breathing",
+      "pl": "Oddychanie Pod Wodą",
       "kr_sha256": "691322dacc16c1fac6b4153d9e186dbad2d16919e4291cd1fa611c64ce655016",
       "en_sha256": "620f621f36fef2c2a8b9dca928a59739260b074b17188b8924c2dd4e2ed1f048",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=810304].name": {
-      "pl": "Injected Hatred and Animosity",
+      "pl": "Wstrzyknięta Nienawiść i Wrogość",
       "kr_sha256": "b03987c3aaf46c7f952932f17ecd78cb25db52fe93ccc5df81261e843793c26e",
       "en_sha256": "1f00596ee7634f00cf86c70c969bb0c0acaf949da4a7e7d7ab84cdced8f798db",
       "origin": "ai"
@@ -403,7 +403,7 @@
       "origin": "ai"
     },
     "dataList[id=810902].name": {
-      "pl": "Contaminating Slime",
+      "pl": "Skażający Śluz",
       "kr_sha256": "80f6217ef6c4f20bb2d268211f9ecbcd6ead903fee0271210c89a6b4567cf483",
       "en_sha256": "6ff3dd1a89a2f48773ddd839def78839954a0140cdf0972a46dedc35f9f212e4",
       "origin": "ai"
@@ -439,7 +439,7 @@
       "origin": "ai"
     },
     "dataList[id=813701].name": {
-      "pl": "Exposed Pearl",
+      "pl": "Obnażona Perła",
       "kr_sha256": "49d3e2937e168b6453367b3e038834bf10131601cb9077b225ee2e5aeb72e65c",
       "en_sha256": "9367aa02efa6d2d1bf50c3b81d468e05cb2dc73c599f7d6a52736f1864ee934f",
       "origin": "ai"
@@ -475,7 +475,7 @@
       "origin": "ai"
     },
     "dataList[id=813704].name": {
-      "pl": "Gathering Slime",
+      "pl": "Zbierający Się Śluz",
       "kr_sha256": "b7851abe4878f0c4e8123fc88987c78c98bad13b9d773d54815bff187597f5df",
       "en_sha256": "0a13f8c80583cd0563f16804bce8e81a8cb9210a99eb332677ffc722c3070459",
       "origin": "ai"
@@ -499,7 +499,7 @@
       "origin": "ai"
     },
     "dataList[id=813802].name": {
-      "pl": "Contaminating Slime",
+      "pl": "Skażający Śluz",
       "kr_sha256": "80f6217ef6c4f20bb2d268211f9ecbcd6ead903fee0271210c89a6b4567cf483",
       "en_sha256": "6ff3dd1a89a2f48773ddd839def78839954a0140cdf0972a46dedc35f9f212e4",
       "origin": "ai"
@@ -523,7 +523,7 @@
       "origin": "ai"
     },
     "dataList[id=813902].name": {
-      "pl": "Underwater Breathing",
+      "pl": "Oddychanie Pod Wodą",
       "kr_sha256": "691322dacc16c1fac6b4153d9e186dbad2d16919e4291cd1fa611c64ce655016",
       "en_sha256": "620f621f36fef2c2a8b9dca928a59739260b074b17188b8924c2dd4e2ed1f048",
       "origin": "ai"

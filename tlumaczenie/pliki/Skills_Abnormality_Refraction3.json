@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=857804].levelList[level=1].name": {
-      "pl": "Flourishing Gossypium",
+      "pl": "Pokrywająca Bawełna",
       "kr_sha256": "e3380c9716d1252abcfbef2374a1d1e33d8ab7b2ca59a03e4ff821b79215aca0",
       "en_sha256": "c5c3a3593edd26590f0e6e0d82b8900ef6e09e368dd78c3a21f72b5a06580e9f",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=857805].levelList[level=1].name": {
-      "pl": "Scattering Gossypium",
+      "pl": "Rozsypująca Się Bawełna",
       "kr_sha256": "e769584741c7634aeea061d588dd16ab47b0537d3374c8d6b555d9eb832c6b8e",
       "en_sha256": "717a6daf7704dde90a884f9f5b879243c64822f3128504071f9efe8d1d65b984",
       "origin": "ai"
@@ -367,7 +367,7 @@
       "origin": "ai"
     },
     "dataList[id=857807].levelList[level=1].name": {
-      "pl": "Encroaching Gossypium",
+      "pl": "Zalewająca Bawełna",
       "kr_sha256": "b4508837130f5ea68702d664e021b884ab90ad1bb3b69fcde228710fb6084e3a",
       "en_sha256": "479d4ac403cfe24056103235536b319028cbf34a81c0c70b046606d31240c8b8",
       "origin": "ai"
@@ -403,7 +403,7 @@
       "origin": "ai"
     },
     "dataList[id=857808].levelList[level=1].name": {
-      "pl": "Scattering Red-stained Gossypium",
+      "pl": "Rozsypująca Się Czerwono Ubarwiona Bawełna",
       "kr_sha256": "b7555852ad18895a0f9b8c0af3962ff29c41135a44bb52a1b68a1df2fa575684",
       "en_sha256": "9bc62d499485bc2b5f14016d1ce54eb94648f68957b4c3febc05eb271f8e2915",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=858501].levelList[level=1].name": {
-      "pl": "It Shall Penetrate",
+      "pl": "Przebijie",
       "kr_sha256": "c4685e5ffd2b06df222ef806ebde8d3141f15dd6b738f127e0f2029789f231c3",
       "en_sha256": "5e29f2a955bb9cb29aa6646fc8c244b7f66274575c3484c965889a08bdd36bc1",
       "origin": "ai"
@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=858502].levelList[level=1].name": {
-      "pl": "It Shall Be Insidious",
+      "pl": "Powoli Wsiąknie",
       "kr_sha256": "658235d400db7393077c6970b404c29811875e375bb7a37d6f95bc15586f7487",
       "en_sha256": "ca2e17a34f6b9352f464322cb3f057090c898fe54e12b519dfbb11b1b9f5720f",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=858503].levelList[level=1].name": {
-      "pl": "It Shall Grip",
+      "pl": "Uściska",
       "kr_sha256": "52977aa3fa2f65fd38d68fd2f455ad2dd0e6cd0b21a91f502da76cc95521cb2e",
       "en_sha256": "4e9800b0c3f8ff8e30215772e9bb359e3c6201c88c8f1c93e9f03b2a8ff38095",
       "origin": "ai"
@@ -547,7 +547,7 @@
       "origin": "ai"
     },
     "dataList[id=858504].levelList[level=1].name": {
-      "pl": "It Shall Constrict",
+      "pl": "Skuje",
       "kr_sha256": "981458652ae8b406b16bb2a80108d972476d4c663d563e5bdf2db55aee32ab28",
       "en_sha256": "55e4b0ae35f966b0d8b7777683dc1515a82f2c35f178b66d33889e1eb1541359",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=858505].levelList[level=1].name": {
-      "pl": "It Shall Shun",
+      "pl": "Ominie",
       "kr_sha256": "b3ff77a85c15dc2106c354aee4965785a82a420ddb6cef7decf0f2964bad93e3",
       "en_sha256": "133843e0664b6ed8b4f52d32399f9c90f09de0f6876dec26f59caac5629dfa49",
       "origin": "ai"
@@ -613,7 +613,7 @@
       "origin": "ai"
     },
     "dataList[id=858506].levelList[level=1].name": {
-      "pl": "And it Shall Contempt All",
+      "pl": "I Wszystkim Pogardzi",
       "kr_sha256": "6d0176bbf9026c0615e011e4dfc8283f6a8589b4812d6730c5f105f7debc19a9",
       "en_sha256": "1716c7fd4d73d38b59fe3f29494b8fa42dd8c953d9b85873744f6a6e1586a548",
       "origin": "ai"

@@ -487,7 +487,7 @@
       "origin": "ai"
     },
     "dataList[id=8518].name": {
-      "pl": "Refracted Alleyway Watchdog",
+      "pl": "Załamany Pies Stróżujący Zaułków",
       "kr_sha256": "fe79e9c3830eb80aa8c303c65220a442295990b9a295874e9e0362226eb999a1",
       "en_sha256": "0a356ca669b309cdb2f5fd68528f2f03a9d25476c6a0a73b304bdc7dfa1b46b1",
       "origin": "ai"
@@ -1075,7 +1075,7 @@
       "origin": "ai"
     },
     "dataList[id=8537].name": {
-      "pl": "Refracted Headless Ichthys",
+      "pl": "Załamany Bezgłowy Ichtis",
       "kr_sha256": "5dd1a596c6285693975ee000d98d4b194f3060c03da9063fa2898344fdb6e0d5",
       "en_sha256": "e5a6fde56c4887af460ba7dd078db7351eeef6c5827175ab5f2556a42482548f",
       "origin": "ai"

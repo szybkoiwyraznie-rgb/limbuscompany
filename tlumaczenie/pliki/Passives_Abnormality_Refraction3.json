@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=857301].name": {
-      "pl": "Exposed Pearl",
+      "pl": "Obnażona Perła",
       "kr_sha256": "49d3e2937e168b6453367b3e038834bf10131601cb9077b225ee2e5aeb72e65c",
       "en_sha256": "9367aa02efa6d2d1bf50c3b81d468e05cb2dc73c599f7d6a52736f1864ee934f",
       "origin": "ai"
@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=857302].name": {
-      "pl": "Gathering Slime",
+      "pl": "Zbierający Się Śluz",
       "kr_sha256": "b7851abe4878f0c4e8123fc88987c78c98bad13b9d773d54815bff187597f5df",
       "en_sha256": "0a13f8c80583cd0563f16804bce8e81a8cb9210a99eb332677ffc722c3070459",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=857401].name": {
-      "pl": "Contaminating Slime",
+      "pl": "Skażający Śluz",
       "kr_sha256": "80f6217ef6c4f20bb2d268211f9ecbcd6ead903fee0271210c89a6b4567cf483",
       "en_sha256": "6ff3dd1a89a2f48773ddd839def78839954a0140cdf0972a46dedc35f9f212e4",
       "origin": "ai"
@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=857501].name": {
-      "pl": "Underwater Breathing",
+      "pl": "Oddychanie Pod Wodą",
       "kr_sha256": "691322dacc16c1fac6b4153d9e186dbad2d16919e4291cd1fa611c64ce655016",
       "en_sha256": "620f621f36fef2c2a8b9dca928a59739260b074b17188b8924c2dd4e2ed1f048",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=857701].name": {
-      "pl": "Flaming Ember",
+      "pl": "Płonący Ognik",
       "kr_sha256": "7c57284dc078decf86e14ddf1ff808a9ad3461357dfdd70b2ecfc6cda5f0c356",
       "en_sha256": "16793ca13d9020683f8311924dce4b3506547518a03be158dec89fffcd46c795",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=857702].name": {
-      "pl": "Interlocking Ardor Blossom",
+      "pl": "Zazębujący się Szkarłatny Płomień",
       "kr_sha256": "9e23feb0959075b0dd95d643631ec5de7f3b8b3594374e19774952434eaace4e",
       "en_sha256": "6636abae6b7dd0315e8cd06fd6fbc7205c057283608b0ff5a3b2ebf3a78d3a16",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=857703].name": {
-      "pl": "The Last Ember",
+      "pl": "Ostatni Ognik",
       "kr_sha256": "220dfc22d21f1d5035430b98f6d4e7b537bd05c40b1ddf818dac2abdd61a4e13",
       "en_sha256": "11a747dc5b2a8f7b1ab91eb442a4d5b7a36c8e3c4552068abf6d1397b0ab77e9",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=857806].name": {
-      "pl": "Flowering Gossypium",
+      "pl": "Rozkwitająca Bawełna",
       "kr_sha256": "9e05ad50c2860d5403f3eb9875ea11eef7623b8592e0b6aa0c9707d0cd9c51da",
       "en_sha256": "347a3c25f228a549a57350728c1660f92e07a8a659997d9bba614be13463147a",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=858801].name": {
-      "pl": "Injected Hatred and Animosity",
+      "pl": "Wstrzyknięta Nienawiść i Wrogość",
       "kr_sha256": "b03987c3aaf46c7f952932f17ecd78cb25db52fe93ccc5df81261e843793c26e",
       "en_sha256": "1f00596ee7634f00cf86c70c969bb0c0acaf949da4a7e7d7ab84cdced8f798db",
       "origin": "ai"

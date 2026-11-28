@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=130802].name": {
-      "pl": "Uncovered Abyss",
+      "pl": "Odsłonięta Otchłań",
       "kr_sha256": "0e7ceb54804ad594cb69763af3b5813f1bf3221d1321fa80c72ef557317b8405",
       "en_sha256": "6707a4fc853592d6b7ce2c8b7e966596463360cae58382f311dcfb4b7278e554",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=130804].name": {
-      "pl": "Broken Stump",
+      "pl": "Zniszczony Pniak",
       "kr_sha256": "18d051611245676c89083ce5741b33861f295133f155e58860491bcdd190d968",
       "en_sha256": "414669f7869733e506126a4ed743a76c14b5e1141eacc74bdfb237d4a6d1f1e4",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=130805].name": {
-      "pl": "Evolving Lure",
+      "pl": "Ewoluujący Wabik",
       "kr_sha256": "6a75ab50eefcc2ab8a71c5d27f4bc3a4d8a8bb9355e6da9c7f3ee2a5c99f4926",
       "en_sha256": "55e3a7e57862951c0df008d71c6d4014dc344f253547aad0e3260a3510d98cc3",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=130806].name": {
-      "pl": "Fairy Dust",
+      "pl": "Pył Wróżek",
       "kr_sha256": "ed3744540f1e200974811a3554b475e324abbaae477408675fc68725343a587e",
       "en_sha256": "787b5e39da68c74739a33e66612f54d332e51d88fc8af37c24b27d9e77057981",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=130901].name": {
-      "pl": "Dimensional Escape",
+      "pl": "Wymiarowa Ucieczka",
       "kr_sha256": "f794395f7b24303e4d9cb3c802846787debadf467117e80a1f3d0ba4178b9798",
       "en_sha256": "f38d7e02d1486d2602c739fd6280e00ee48e456aef2a56058341dbfd3182b8bf",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=130902].name": {
-      "pl": "Trapped Dimensional Escape",
+      "pl": "Uwięziona Wymiarowa Ucieczka",
       "kr_sha256": "040cc9c6d835fd9c4b831531b9a06b5008c768b199822d0c725d6fa2c7dcc82e",
       "en_sha256": "c2d6322eade19675e1fc01d29cf554df9a74843881b7bf67dded8753df82a292",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=130903].name": {
-      "pl": "Regenerate Dimensional Refraction Blade",
+      "pl": "Odbudowa Wymiarowego Ostrza Załamania",
       "kr_sha256": "2a10d1487644b4a846ca6399a604d8bb00d6fa3fa3690740e2735cfd77773485",
       "en_sha256": "11c86b14fec53c1a92d625f8496d8e24310696782be3d8c435c27b9fdb0cb22e",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=130904].name": {
-      "pl": "Forced Dimensional Breach Attempt - Partial Deterrence Release",
+      "pl": "Próba Wymuszonego Otwarcia Wymiaru - Częściowe Zwolnienie Powstrzymania",
       "kr_sha256": "d7e0bb7e8314c778e70649bb7561be37d5eefae72b794dfd46d6e7a830a83836",
       "en_sha256": "e4407a8f8fb0d43a9afd88de390230188cb5c079c7ab5dea1e89e4da2665baa9",
       "origin": "ai"

@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=860506].levelList[level=1].name": {
-      "pl": "My Master",
+      "pl": "Mój Pan",
       "kr_sha256": "d8180490d74918136e0eedfb2bacb07c582db19b03d6c5fe52737f12433902ea",
       "en_sha256": "45dc12acde75705f999a60ddd642922bb716d8815316766ae540d256f10b9a88",
       "origin": "ai"
@@ -193,13 +193,13 @@
       "origin": "ai"
     },
     "dataList[id=860601].levelList[level=1].name": {
-      "pl": "Master...?",
+      "pl": "Panie...?",
       "kr_sha256": "e91b449dcc7aaafd3465b52daf271591d6c2ebad1e4bde6552d8d30b73d2f37a",
       "en_sha256": "62a58d65037ab4b92d8416cda0e0b8b13d673c348db0dceb568364986c5903ee",
       "origin": "ai"
     },
     "dataList[id=860602].levelList[level=1].name": {
-      "pl": "Master's Portrait",
+      "pl": "Portret Pana",
       "kr_sha256": "426dacb7a0dc82543ebb8d9d1d2c7a4478701615f0610ec5b79e6535a03fd1d9",
       "en_sha256": "2a40e67166dd8df1aac7f89361e601b44c9d828cd8d5ff6daed48fa85b6be0fa",
       "origin": "ai"

@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=8630].name": {
-      "pl": "Refracted Der Fluchschütze",
+      "pl": "Załamany Strzelec Przeklętej Kuli",
       "kr_sha256": "d47e52193cd2bc39594589af80d15a0017d6fc0311694b86bd6f68b997c3fe0c",
       "en_sha256": "d1e43beb0c6534905702c9f7eda1056bd5041cfc10b198b7dfe8285c1cdcd582",
       "origin": "ai"
@@ -19,7 +19,7 @@
       "origin": "ai"
     },
     "dataList[id=8631].name": {
-      "pl": "Refracted Old G Corp. Head Manager",
+      "pl": "Załamany Były Szef Wydziału G Corp.",
       "kr_sha256": "49b7435e13b9810a8a073aa0e21a60f71ae6ef59f8ddc48a83cc5d6d620461ea",
       "en_sha256": "a49f40b62074171c70a2298515fa44635ed22893f01790afd15320711fe2e684",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=8632].name": {
-      "pl": "Refracted Sleeping Bag of a Bygone Day",
+      "pl": "Załamany Śpiwór Dni Przeszłych",
       "kr_sha256": "8eebd20ada8e7f130a0869479c65b67babdd4aa81f45b711a4445bb32798183a",
       "en_sha256": "8a050ebb0ef9e9a11c3293718080cb4c0858144b0f36d998cd7fc287b76111ca",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=8633].name": {
-      "pl": "Refracted Four-hundred Roses",
+      "pl": "Załamane Czterysta Róż",
       "kr_sha256": "a819b463b6eb15b4d55b293bf56288e2144db58b70faacabc832d88ec002b209",
       "en_sha256": "d21874e281fb6e4db6ab3ef55c117fdcd232f5adf6a134d025fd3d54c5a71115",
       "origin": "ai"
@@ -115,7 +115,7 @@
       "origin": "ai"
     },
     "dataList[id=8634].name": {
-      "pl": "The Refracted Barber",
+      "pl": "Załamany Fryzjer",
       "kr_sha256": "c0a08ddf6076b6b4f1c3c6d739fbe69d8556839d0a78dc803c87a56f00b91964",
       "en_sha256": "bf7c2d660fdd5346568bda4c38fdcc75ac39759b35a5ee3854152dd2db745df8",
       "origin": "ai"
@@ -127,7 +127,7 @@
       "origin": "ai"
     },
     "dataList[id=8635].name": {
-      "pl": "Refracted Hurting Teddy Bear",
+      "pl": "Załamany Cierpiący Teddy",
       "kr_sha256": "c3f91119421e8ad7949fba9cadb47a278d4ff3375812152ce4af8a7392b3166f",
       "en_sha256": "f2b575e8dd893cba4e0bfef8014790b9448e3b96f2ec3febbb4da03ab3e6c15a",
       "origin": "ai"
@@ -139,7 +139,7 @@
       "origin": "ai"
     },
     "dataList[id=8636].name": {
-      "pl": "Refracted Rose Hunter",
+      "pl": "Załamany Łowca Róż",
       "kr_sha256": "a187767480a40bc7a240585062f4e920ed76f84bad97d91f17996ee779266b24",
       "en_sha256": "3e58fbadc22b256e05bf0dc6e1e51cf9f7e70db33a1bbed1a0e3f5fc2296fa31",
       "origin": "ai"
@@ -151,7 +151,7 @@
       "origin": "ai"
     },
     "dataList[id=8637].name": {
-      "pl": "Refracted Barbed Lasso",
+      "pl": "Załamane Kolczaste Lasso",
       "kr_sha256": "ae5c93dab0653066158692ba829b0d5b42b75f7a6d9bac603a074f800a21bf15",
       "en_sha256": "47580f32c18b1e670306ec35323421687a00a7569f5f4351cc5edfbd8caf5109",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=8638].name": {
-      "pl": "Refracted Dulcinea",
+      "pl": "Załamana Dulcynea",
       "kr_sha256": "fb4516536e0f0d76ef436d79580ea746e14800d4b551009d3783ba66739ba858",
       "en_sha256": "764c35322496ad8cbbdf00537c5d12aa9f27f75d94f4c096441b213436fca322",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=8639].name": {
-      "pl": "Refracted Bloodbag of the Painful Parade",
+      "pl": "Załamany Worek Krwi Bolesnej Parady",
       "kr_sha256": "dbf62b76cd437010462456b70302fa74275f7c243689976c7dbe4df1d003ce5f",
       "en_sha256": "36664438459a28c3bb95da56b5dd4cd9ebab752ccfe7c803357c767b4148cc17",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=8640].name": {
-      "pl": "Refracted Bloodbag of the Rear Parade",
+      "pl": "Załamany Worek Krwi Tylnej Parady",
       "kr_sha256": "95c696aeda8df9ba03c69184efefdebf334a7db74868c21baac915e62bac03e4",
       "en_sha256": "7b1d89570c3d5412948943fc518981486ceaa589809bb1fe2574968b5d98ea38",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=8641].name": {
-      "pl": "Refracted Bloodfiend of the Happy Parade",
+      "pl": "Załamany Krwiożerca Szczęśliwej Parady",
       "kr_sha256": "d24c4e5a099d1948d576bbbd4e8838cf9031625db9fd4a632c0c44b19236cbae",
       "en_sha256": "15e7be4f94ac69fc660d5345dfcf21439017707ea7d9a86ddab6f0ca58bc805d",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=8642].name": {
-      "pl": "Refracted Bloodfiend of the Joyful Parade",
+      "pl": "Załamany Krwiożerca Wesołej Parady",
       "kr_sha256": "64278fdcd40522b4d6ba2a02b06870ec1e8f8f74f7518d7cb758d393160d5544",
       "en_sha256": "eb7c31c47dd6449bd945d69483f77bba7384e99d0fec2cf18e0adb3f4f36e6b3",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=8643].name": {
-      "pl": "The Refracted Priest",
+      "pl": "Załamany Ksiądz",
       "kr_sha256": "d0ee686fb0a42c68e0a6b4fb40c5e4c3b822341596bfd53a2f388f1c4c42186a",
       "en_sha256": "0f8c116cf250f88196894f632cbee83cc4a560d8d8b30e7cc2d86f6f03b2e1c8",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=8644].name": {
-      "pl": "The Refracted Barber",
+      "pl": "Załamany Fryzjer",
       "kr_sha256": "c0a08ddf6076b6b4f1c3c6d739fbe69d8556839d0a78dc803c87a56f00b91964",
       "en_sha256": "bf7c2d660fdd5346568bda4c38fdcc75ac39759b35a5ee3854152dd2db745df8",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=8645].name": {
-      "pl": "Refracted Dulcinea",
+      "pl": "Załamana Dulcynea",
       "kr_sha256": "fb4516536e0f0d76ef436d79580ea746e14800d4b551009d3783ba66739ba858",
       "en_sha256": "764c35322496ad8cbbdf00537c5d12aa9f27f75d94f4c096441b213436fca322",
       "origin": "ai"
@@ -259,7 +259,7 @@
       "origin": "ai"
     },
     "dataList[id=8646].name": {
-      "pl": "Refracted Combative Fanghunt Office Fixer",
+      "pl": "Załamany Bojowy Fikser Biura Łowców Kłów",
       "kr_sha256": "315ace970dd73f3d242c3fb674ec522846f6b300f18260c9ea0480a9ca69dbd7",
       "en_sha256": "9e622f1d2ee18a19f6a7d4425762314b965262408c70ae68dd395a572cf90878",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=8647].name": {
-      "pl": "Refracted Prideful Fanghunt Office Fixer",
+      "pl": "Załamany Dumny Fikser Biura Łowców Kłów",
       "kr_sha256": "3318ad31f609aaec96827d8219bc436d7f2dd719b76ac62ecc07321145d254de",
       "en_sha256": "80c1382628b23014eebe751240bd9eaf107ed53119282ec7a25aab106f400b48",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=8648].name": {
-      "pl": "Refracted Peccatulum Pigritiae??",
+      "pl": "Załamane Peccatulum Lenistwa??",
       "kr_sha256": "a1f72f0162000f4e0e0b9e2c45b99a49cf972902322a42a7607adda16fbc9ca4",
       "en_sha256": "8c0375c00d2a98e55343f9f2dc65c7be18426d5fc6d52eddf0243c99eac4218e",
       "origin": "ai"
@@ -295,7 +295,7 @@
       "origin": "ai"
     },
     "dataList[id=8649].name": {
-      "pl": "Refracted Peccatulum Morositatis??",
+      "pl": "Załamane Peccatulum Posępności??",
       "kr_sha256": "07c6430d52ec314c0d0272a2daf621c72329a00967b142bd115cfe496f071d5e",
       "en_sha256": "9b8d0f2d2e0b7eb86f4cdfd21ab44f8c838258d23560dd38bc103ba58fd9b406",
       "origin": "ai"
@@ -307,7 +307,7 @@
       "origin": "ai"
     },
     "dataList[id=8650].name": {
-      "pl": "Refracted Distorted Hohenheim",
+      "pl": "Załamany Distorted Hohenheim",
       "kr_sha256": "61c0e997a962b793efbd03389f9d5e280fceb26c0840a77e493de88cc02a6d5a",
       "en_sha256": "00ba9a026a05f7d1c6e1da2279ee6110048f69aff51330160588369685ece8e6",
       "origin": "ai"
@@ -319,7 +319,7 @@
       "origin": "ai"
     },
     "dataList[id=8651].name": {
-      "pl": "Refracted Despairing Bloodbag",
+      "pl": "Załamany Rozpaczający Worek Krwi",
       "kr_sha256": "a5cdcc0dc6cfdd416ed035d4900eba02df57ca344784506721dba9c9d82ae3de",
       "en_sha256": "383528b77739eb04a5c36863d885a18e8bb9d4d4f7c62fd33cb242d0f0c107cd",
       "origin": "ai"
@@ -331,7 +331,7 @@
       "origin": "ai"
     },
     "dataList[id=8652].name": {
-      "pl": "Refracted Disgraced Bloodbag",
+      "pl": "Załamany Upadły Worek Krwi",
       "kr_sha256": "a4514dd513c3a0921e1e8f156b3c06e8ff4d63129d0ba4a89caab65c2270f24e",
       "en_sha256": "9509c67c537b0c83f3a72f7d15797c345c45f5f86ff8c1945f45145d50d1aef4",
       "origin": "ai"
@@ -343,7 +343,7 @@
       "origin": "ai"
     },
     "dataList[id=8683].name": {
-      "pl": "Refracted Peccatulum Irae??",
+      "pl": "Załamane Peccatulum Gniewu??",
       "kr_sha256": "d1a15994f1129b3738a129af34721b56aa45944cbb894bf505b55181441a5f80",
       "en_sha256": "23c3a02433bc419e13881bb3a163f9bdea6e26cc59e8b24c03880de6882030a4",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=8684].name": {
-      "pl": "Refracted Downcast Veteran",
+      "pl": "Załamany Zmroczony Rozbity Żołnierz",
       "kr_sha256": "52444b707eb9bf549e30b1a7cd757f1702d4e9a4eacc9871db03f9c617e48807",
       "en_sha256": "a13128edd0b80bed81799b049fd6b1598c4c4e1f5b0445ceb63ce108a60689b3",
       "origin": "ai"

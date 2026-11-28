@@ -129,3 +129,14 @@ Nowe lekcje z tego projektu dopisuj na końcu, z datą i odnośnikiem do wpisu w
     Language`; wewnątrz `Font/{Context,Title}/` trzymaj wyłącznie pliki
     czcionek (licencje osobno), a na przyciskach UI pilnuj limitów długości, bo
     stałe ramki nie zmniejszają czcionki automatycznie.
+
+31. **Zasada nazw: fonetyka vs. konkretne znaczenie — jedna dla całej gry.** (LCB,
+    2026-11-25, decyzja właściciela.) Jeżeli literacja koreańska podaje fonetyczną
+    nazwę obcą (angielską, łacińską, japońską, chińską — 크로머, 바바 야가, 클로버,
+    보스, 홍옥), zostaje zapis alfabetem łacińskim 1:1 z EN. Jeżeli koreański wyraz
+    znaczy coś konkretnego (불한당=Chuligan, 굴절된=Załamany, 목화=Bawełna,
+    인어=Syrena, 주인님=Pan), tłumaczymy na polski. Zasada obowiązuje **wszędzie** —
+    też tam, gdzie wcześniejsze checkpointy (P78, P84) świadomie zostawiły nazwy
+    1:1; redo takich decyzji: PRIORYTET-1 i P84-REDO w `SLOWNIK_TERMINOW.md`.
+    Kanony rodzin bierz z `local/krmap.json` i już przetłumaczonych plików,
+    zamiast wymyślać na nowo; niespójne warianty notuj w SŁOWNIKU do ujednolicenia.
