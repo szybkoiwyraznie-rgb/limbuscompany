@@ -1,0 +1,131 @@
+459||Umiejętność wroga [951301] (ulepszenie 1) — nazwa] 거친 못질|Rough Nailing
+460||Umiejętność wroga [951301] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Nail] 1, [Laceration] 1 부여|[OnSucceedAttack] Inflict 1 [Nail] and 1 [Laceration] next turn
+463||Umiejętność wroga [951302] (ulepszenie 1) — nazwa] 감히!|You dare!
+465||Umiejętność wroga [951303] (ulepszenie 1) — nazwa] 공격적인 설파|Aggressive Preaching
+466||Umiejętność wroga [951303] (ulepszenie 1) — opis] [DefeatDuel] 다음 턴에 [Vulnerable] 2 얻음|[DefeatDuel] Gain 2 [Vulnerable] next turn
+468||Umiejętność wroga [951304] (ulepszenie 1) — nazwa] 거친 이단 심판|Assertive Inquisition
+469||Umiejętność wroga [951304] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] [Nail] 2 부여|[OnSucceedAttackHead] Inflict 2 [Nail]
+470||Umiejętność wroga [951304] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Nail]이 5 이상이면, 다음 턴에 [Binding] 10 부여|[OnSucceedAttack] If target has 5+ [Nail], inflict 10 [Binding] next turn
+471||Umiejętność wroga [951401] (ulepszenie 1) — nazwa] 드센 망치질|Vigorous Hammering
+472||Umiejętność wroga [951401] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3, [Paralysis] 2 부여|[OnSucceedAttack] Inflict 3 [Binding] and 2 [Paralysis] next turn
+475||Umiejętność wroga [951403] (ulepszenie 1) — nazwa] 압도적인 설파|Oppressive Preaching
+476||Umiejętność wroga [951403] (ulepszenie 1) — opis] [DefeatDuel] 다음 턴에 [Reduction] 2 얻음|[DefeatDuel] Gain 2 [Reduction] next turn
+481||Umiejętność wroga [951501] (ulepszenie 1) — nazwa] 꿰뚫는 못|Thrusting Nail
+483||Umiejętność wroga [951501] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Nail] 4 부여|[OnSucceedAttack] Inflict 4 [Nail] next turn
+484||Umiejętność wroga [951502] (ulepszenie 1) — nazwa] 단단한 믿음|Hardy Faith
+486||Umiejętność wroga [951503] (ulepszenie 1) — nazwa] 집결|Congregate
+487||Umiejętność wroga [951503] (ulepszenie 1) — opis] [WinDuel] 무작위 아군 2명에게 다음 턴에 광신 1 부여|[WinDuel] Apply 1 Fanatic to 2 random allies next turn
+489||Umiejętność wroga [951504] (ulepszenie 1) — nazwa] 육중한 이단 심판|Ponderous Inquisition
+491||Umiejętność wroga [951504] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 대상의 [Nail]이 5 이상이면, 다음 턴에 [Reduction] 10, [Paralysis] 10 부여|[OnSucceedAttack] If target has 5+ [Nail], inflict 10 [Reduction] and 10 [Paralysis] next turn
+492||Umiejętność wroga [951601] (ulepszenie 1) — nazwa] 다스리는 망치|Ruling Hammer
+494||Umiejętność wroga [951601] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 3, [Reduction] 2 부여|[OnSucceedAttack] Inflict 3 [Binding] and 2 [Reduction] next turn
+503||Umiejętność wroga [951701] (ulepszenie 1) — nazwa] 대못 박기|Spike Drive
+504||Umiejętność wroga [951701] (ulepszenie 1) — opis] 자신의 체력이 50%미만일 때, 부여하는 [Nail] +1|At less than 50% HP, inflict +1 more [Nail]
+507||Umiejętność wroga [951701] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Nail] 3 부여|[OnSucceedAttack] Inflict 3 [Nail] next turn
+509||Umiejętność wroga [951702] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Laceration] 5 부여|[OnSucceedAttack] Inflict 5 [Laceration] next turn
+510||Umiejętność wroga [951702] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 4 부여|[OnSucceedAttack] Inflict 4 [Binding] next turn
+511||Umiejętność wroga [951703] (ulepszenie 1) — nazwa] 굳센 믿음|Stalwart Faith
+512||Umiejętność wroga [951703] (ulepszenie 1) — opis] [WhenUse] [Protection] 2 얻음|[WhenUse] Gain 2 [Protection]
+513||Umiejętność wroga [951704] (ulepszenie 1) — nazwa] 대업을 수행하라...!|The Great Task Will Be Done…!
+514||Umiejętność wroga [951704] (ulepszenie 1) — opis] [WhenUse] 아군 전체에게 다음 턴에 광신 1 부여|[WhenUse] Apply 1 Fanatic to all allies next turn
+516||Umiejętność wroga [951705] (ulepszenie 1) — nazwa] 죄를... 씻어내노라!|Be Cleansed… of Sin!
+517||Umiejętność wroga [951705] (ulepszenie 1) — opis] 대상에게 [Nail]이 있으면, 피해량 +50%|If target has [Nail], deal +50% damage
+518||Umiejętność wroga [951705] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Nail] 5 부여|[OnSucceedAttack] Inflict 5 [Nail]
+519||Umiejętność wroga [951705] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 대상의 [Nail]이 5 이상이면, 흐트러짐 상태로 만듦|[OnSucceedAttack] If target has 5+ [Nail], Stagger target.
+520||Umiejętność wroga [951706] (ulepszenie 1) — nazwa] 이단 말살|Annihilate Heretics
+521||Umiejętność wroga [951706] (ulepszenie 1) — opis] 대상에게 [Nail]이 있으면, 피해량 +100%|If target has [Nail], deal +100% damage
+522||Umiejętność wroga [951706] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 10 부여|[OnSucceedAttack] Inflict 10 [Burst] next turn
+523||Umiejętność wroga [951706] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 5 부여|[OnSucceedAttack] Inflict 5 [Vulnerable] next turn
+524||Umiejętność wroga [951801] (ulepszenie 1) — nazwa] 할퀴기|Claw
+525||Umiejętność wroga [951801] (ulepszenie 1) — opis] [WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +2 (최대 6)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +20% (최대 80%)|[WhenUse] +2 Coin Power for every [DogThunder] on self (max 6)\n[WhenUse] Deal +20% damage for every 5 ([Laceration] + [Burst] on target) (max 80%)
+526||Umiejętność wroga [951801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Laceration] 10 부여|[OnSucceedAttack] Inflict 10 [Laceration] next turn
+527||Umiejętność wroga [951802] (ulepszenie 1) — nazwa] 등압|Constant Voltage
+529||Umiejętność wroga [951802] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 5 부여|[OnSucceedAttack] Inflict 5 [Burst] next turn
+530||Umiejętność wroga [951803] (ulepszenie 1) — nazwa] 등압추격|Electromotive Pursuit
+531||Umiejętność wroga [951803] (ulepszenie 1) — opis] [WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +15% (최대 60%)|[WhenUse] +1 Coin Power for every [DogThunder] on self (max 3)\n[WhenUse] Deal +15% damage for every 5 ([Laceration] + [Burst] on target) (max 60%)
+533||Umiejętność wroga [951803] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 횟수 4 증가|[OnSucceedAttack] Inflict +4 [Burst] Count next turn
+534||Umiejętność wroga [951804] (ulepszenie 1) — nazwa] 하울링|Howl
+535||Umiejętność wroga [951804] (ulepszenie 1) — opis] [DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+537||Umiejętność wroga [951804] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Paralysis] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis]
+538||Umiejętność wroga [951804] (ulepszenie 1) — moneta 1, efekt 3 — opis] [OnSucceedAttack] 다음 턴에 [Binding] 2 부여|[OnSucceedAttack] Inflict 2 [Binding] next turn
+539||Umiejętność wroga [951804] (ulepszenie 1) — moneta 1, efekt 4 — opis] [OnSucceedAttack] 수비 위력 감소 4 부여|[OnSucceedAttack] Inflict 4 Defense Power Down
+540||Umiejętność wroga [951805] (ulepszenie 1) — nazwa] 전격 하울링|Electrified Howl
+545||Umiejętność wroga [951806] (ulepszenie 1) — nazwa] 피뢰|Lightning Rod
+546||Umiejętność wroga [951806] (ulepszenie 1) — opis] [WhenUse] 자신의 [DogThunder] 1당, 코인 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +20% (최대 80%)|[WhenUse] +1 Coin Power for every [DogThunder] on self (max 3)\n[WhenUse] Deal +20% damage for every 5 ([Laceration] + [Burst] on target) (max 80%)
+547||Umiejętność wroga [951806] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 5 부여, [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict 5 [Burst] and +2 [Burst] Count next turn
+548||Umiejętność wroga [951807] (ulepszenie 1) — nazwa] 적뢰|Red Bolts
+549||Umiejętność wroga [951807] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]과 [Burst]의 합 5당, 피해량 +15% (최대 60%)|[WhenUse] Deal +15% damage for every 5 ([Laceration] + [Burst]) on target (max 60%)
+551||Umiejętność wroga [951807] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count next turn
+558||Umiejętność wroga [951901] (ulepszenie 1) — opis] [WhenUse] [Charge] 횟수 4 증가|[WhenUse] Gain +4 [Charge] Count
+560||Umiejętność wroga [951902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [PlusCoinValueDown] 1 부여|[OnSucceedAttack] Inflict 1 [PlusCoinValueDown] next turn
+563||Umiejętność wroga [951903] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis] next turn
+565||Umiejętność wroga [951904] (ulepszenie 1) — opis] [WhenUse] [Charge] 횟수 전부 소모\n[DefeatDuel] 다음 턴에 마을 주민의 심장 노출|[WhenUse] Consume all [Charge] count\n[DefeatDuel] Expose Heart of the Townsfolk next turn
+566||Umiejętność wroga [951904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 [Duress] 부여|[OnSucceedAttack] Inflict [Duress] on target
+569||Umiejętność wroga [951905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Combustion] 10 부여|[OnSucceedAttack] Inflict 10 [Combustion]
+571||Umiejętność wroga [951906] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 흐트러짐 상태가 됨|[WhenUse] Become Staggered next turn
+572||Umiejętność wroga [951906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Charge] 횟수 2 소모하여, [Combustion] 10 부여|[OnSucceedAttack] Consume 2 [Charge] Count to inflict 10 [Combustion]
+575||Umiejętność wroga [951907] (ulepszenie 1) — opis] [WhenUse] [Protection] 5 얻음\n[WhenUse] 다음 턴에 [HitDamageUp] 10 얻음\n[EndBattle] 흐트러짐 상태가 아니면, 다음 턴에 [Vulnerable] 5 얻음|[WhenUse] Gain 5 [Protection]\n[WhenUse] Gain 10 [HitDamageUp] next turn\n[EndBattle] Gain 5 [Vulnerable] next turn unless Staggered
+578||Umiejętność wroga [951909] (ulepszenie 1) — opis] [CantDuel]\n[CantChangeTarget]\n체력이 가장 많은 대상 공격\n[WhenUse] [Charge] 전부 소모|[CantDuel]\n[CantChangeTarget]\nTargets the unit with the most HP\n[WhenUse] Consume all [Charge]
+580||Umiejętność wroga [952101] (ulepszenie 1) — nazwa] 손뼉치기|Clap
+581||Umiejętność wroga [952101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 1 부여|[OnSucceedAttack] Inflict 1 [Reduction] next turn
+582||Umiejętność wroga [952102] (ulepszenie 1) — nazwa] 강한 손뼉치기|Powerful Clap
+583||Umiejętność wroga [952102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Reduction] 3 부여|[OnSucceedAttack] Inflict 3 [Reduction] next turn
+584||Umiejętność wroga [952103] (ulepszenie 1) — nazwa] 꼬리치기|Tail Whip
+585||Umiejętność wroga [952103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable] next turn
+586||Umiejętność wroga [952103] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vulnerable] 3 부여|[OnSucceedAttack] Inflict 3 [Vulnerable] next turn
+587||Umiejętność wroga [952104] (ulepszenie 1) — nazwa] 주머니 압박|Pressing Sac
+589||Umiejętność wroga [952105] (ulepszenie 1) — nazwa] 혈사포|Blood Cannon
+590||Umiejętność wroga [952105] (ulepszenie 1) — opis] [DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[DefeatDuel] Deal -50% damage and damage dealt by this Skill cannot Stagger the target
+592||Umiejętność wroga [952105] (ulepszenie 1) — moneta 1, efekt 2 — opis] 대상에게 부정적인 효과가 있으면, 피해량 +50%|If target has a negative effect, deal +50% damage
+593||Umiejętność wroga [952105] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 20 부여|[UnBrokenCoinOnSucceedAttack] Inflict 20 [Laceration]
+594||Umiejętność wroga [952106] (ulepszenie 1) — nazwa] 종혈|Clotting
+597||Umiejętność wroga [952106] (ulepszenie 1) — moneta 1, efekt 2 — opis] 대상에게 부정적인 효과가 있으면, 피해량 +100%|If target has a negative effect, deal +100% damage
+598||Umiejętność wroga [952106] (ulepszenie 1) — moneta 1, efekt 3 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 30 부여|[UnBrokenCoinOnSucceedAttack] Inflict 30 [Laceration]
+599||Umiejętność wroga [952201] (ulepszenie 1) — nazwa] 기괴한 눈동자|Eerie Eyes
+600||Umiejętność wroga [952201] (ulepszenie 1) — opis] [WhenUse] 대상의 정신력이 0미만이면, 기본 위력 +2\n[WhenUse] [AggressiveBokgak] 1 얻음|[WhenUse] If target has less than 0 SP, Base Power +2\n[WhenUse] Gain 1 [AggressiveBokgak]
+603||Umiejętność wroga [952202] (ulepszenie 1) — nazwa] 어설픈 모방|Imperfect Imitation
+604||Umiejętność wroga [952202] (ulepszenie 1) — opis] 피격 당한 공격을 모방하여 사용\n[WhenUse] 대상에게 정신력 피해 10\n[WhenUse] [AggressiveBokgak] 2 얻음|Copies a Skill that hit this unit\n[WhenUse] Deal 10 SP damage\n[WhenUse] Gain 2 [AggressiveBokgak]
+605||Umiejętność wroga [952203] (ulepszenie 1) — nazwa] 껍데기 고치기|Adjust Shell
+606||Umiejętność wroga [952203] (ulepszenie 1) — opis] [WhenUse] 대상의 정신력이 0미만이면, 기본 위력 +2\n[WhenUse] [AggressiveBokgak] 5 얻음\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|[WhenUse] If target has less than 0 SP, Base Power +2\n[WhenUse] Gain 5 [AggressiveBokgak]\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+609||Umiejętność wroga [952204] (ulepszenie 1) — nazwa] 뼈 폭발|Bone Blast
+611||Umiejętność wroga [952204] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 횟수 3 증가|[OnSucceedAttack] Inflict +3 [Laceration] Count
+612||Umiejętność wroga [952204] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Laceration] 10 부여|[OnSucceedAttack] Inflict 10 [Laceration]
+627||Umiejętność wroga [952401] (ulepszenie 1) — nazwa] 돌격|Raid
+628||Umiejętność wroga [952401] (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 3 이상이면, 코인 위력 +1|[WhenUse] If target has 3+ [Vibration], Coin Power +1
+629||Umiejętność wroga [952401] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 2 부여|[OnSucceedAttack] Inflict 2 [Vibration]
+632||Umiejętność wroga [952402] (ulepszenie 1) — nazwa] 표적 무력화|Neutralize Target
+634||Umiejętność wroga [952402] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 [Vibration] 3 부여|[OnSucceedAttack] Inflict 3 [Vibration] next turn
+635||Umiejętność wroga [952402] (ulepszenie 1) — moneta 3, efekt 1 — opis] [OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소|[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1
+636||Umiejętność wroga [952403] (ulepszenie 1) — nazwa] HP탄 활성화|Activate HP Bullet
+637||Umiejętność wroga [952403] (ulepszenie 1) — opis] [WhenUse] 체력 20 회복|[WhenUse] Heal 20 HP
+638||Umiejętność wroga [952404] (ulepszenie 1) — nazwa] 진압|Takedown
+639||Umiejętność wroga [952404] (ulepszenie 1) — opis] [WhenUse] 대상의 [Vibration]이 4 이상이면, 기본 위력 +2|[WhenUse] If target has 4+ [Vibration], Base Power +2
+640||Umiejętność wroga [952404] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vibration] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Vibration] Count
+643||Umiejętność wroga [952502] (ulepszenie 1) — nazwa] 방호|Shelter
+644||Umiejętność wroga [952502] (ulepszenie 1) — opis] [WinDuel] 무작위 아군 2명에게 다음 턴에 [ResultEnhancement] 1 부여|[WinDuel] Apply 1 [ResultEnhancement] to 2 random allies next turn
+645||Umiejętność wroga [952503] (ulepszenie 1) — nazwa] 엄호|Cover
+646||Umiejętność wroga [952503] (ulepszenie 1) — opis] [WhenUse] 자신을 제외한 무작위 아군 1명에게 다음 턴에 [Protection] 2 부여|[WhenUse] Apply 2 [Protection] to 1 random other ally next turn
+647||Umiejętność wroga [952503] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Vulnerable] 1 부여|[OnSucceedAttack] Inflict 1 [Vulnerable]
+649||Umiejętność wroga [952601] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 4 이상이면, 기본 위력 +2|[WhenUse] If target has 4+ [Burst], Base Power +2
+652||Umiejętność wroga [952602] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)|[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)
+653||Umiejętność wroga [952602] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 3 부여|[OnSucceedAttack] Inflict 3 [Burst]
+656||Umiejętność wroga [952603] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst] 3당, 코인 위력 +1 (최대 2)\n[DefeatDuel] 체력 10 회복|[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\n[DefeatDuel] Heal 10 HP
+657||Umiejętność wroga [952603] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Burst] 횟수 2 증가|[OnSucceedAttack] Inflict +2 [Burst] Count
+659||Umiejętność wroga [952603] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] ([Burst] X [Burst] 횟수)만큼 체력 피해. 대상의 [Burst] 전부 소모|[UnBrokenCoinOnSucceedAttack] Deal ([Burst] x [Burst] Count) HP damage, then consume all [Burst] on target
+661||Umiejętność wroga [952701] (ulepszenie 1) — opis] [WhenUse] 대상의 [Burst]이 3 이상이면, 기본 위력 +2|[WhenUse] If target has 3+ [Burst], Base Power +2
+668||Umiejętność wroga [952703] (ulepszenie 1) — opis] 체력이 가장 높은 대상 우선 공격\n[WhenUse] 대상에게 [Burst]이 있다면, 코인 위력 +1\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|Targets the unit with the most HP\n[WhenUse] If target has [Burst], Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+672||Umiejętność wroga [952703] (ulepszenie 1) — moneta 2, efekt 2 — opis] 1코인이 앞면이면 피해량 +10%|If Coin 1 lands Heads, deal +10% damage
+673||Umiejętność wroga [952703] (ulepszenie 1) — moneta 2, efekt 3 — opis] [OnSucceedAttack] [Burst] 2 부여|[OnSucceedAttack] Inflict 2 [Burst]
+675||Umiejętność wroga [952703] (ulepszenie 1) — moneta 3, efekt 2 — opis] 2코인이 앞면이라면 피해량 +10%|If Coin 2 lands Heads, deal +10% damage
+678||Umiejętność wroga [952703] (ulepszenie 1) — moneta 4, efekt 2 — opis] 2, 3코인이 앞면이라면 피해량 +30%|If Coins 2 & 3 land Heads, deal +30% damage
+679||Umiejętność wroga [952703] (ulepszenie 1) — moneta 4, efekt 3 — opis] [OnSucceedAttack] ([Burst] X [Burst] 횟수)만큼 체력 피해. 대상의 [Burst] 전부 소모|[OnSucceedAttack] Deal ([Burst] x [Burst] Count) HP damage, then consume all [Burst] on target
+680||Umiejętność wroga [952801] (ulepszenie 1) — nazwa] 거친 할퀴기|Violent Scratch
+681||Umiejętność wroga [952801] (ulepszenie 1) — opis] [WhenUse] 대상의 [Laceration]이 3 이상이면, 코인 위력 +1|[WhenUse] If target has 3+ [Laceration], Coin Power +1
+682||Umiejętność wroga [952801] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] [Laceration] 2 부여|[OnSucceedAttack] Inflict 2 [Laceration]
+685||Umiejętność wroga [952802] (ulepszenie 1) — nazwa] 광적인 돌진|Rabid Ram
+686||Umiejętność wroga [952802] (ulepszenie 1) — opis] 체력이 가장 낮은 적 공격\n[WhenUse] 대상의 [Laceration]이 3 이상이면, 코인 위력 +1|Prioritizes targets with the least HP\n[WhenUse] If target has 3+ [Laceration], Coin Power +1
+689||Umiejętność wroga [952803] (ulepszenie 1) — nazwa] 갈기갈기|Tear Apart
+690||Umiejętność wroga [952803] (ulepszenie 1) — opis] 체력이 가장 낮은 적 공격\n[WhenUse] 대상의 [Laceration]이 3 이상이면, 코인 위력 +1\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음|Targets the unit with the least HP\n[WhenUse] If target has 3+ [Laceration], Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target
+692||Umiejętność wroga [952803] (ulepszenie 1) — moneta 1, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] [Laceration] 3 부여|[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]
+694||Umiejętność wroga [952803] (ulepszenie 1) — moneta 2, efekt 2 — opis] [UnBrokenCoinOnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여|[UnBrokenCoinOnSucceedAttack] Inflict 2 [Vulnerable] next turn
+696||Umiejętność wroga [952803] (ulepszenie 1) — moneta 3, efekt 2 — opis] [OnSucceedAttack] [Laceration] 3 부여|[OnSucceedAttack] Inflict 3 [Laceration]

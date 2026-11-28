@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=850101].desc": {
+      "pl": "na początku tury, jeżeli ma mniej niż 50% HP, przywraca 20% Maks. HP.",
+      "kr_sha256": "9c3b9600c7fa797d6f86ae895af9d878d146f2f680d7f65b742c8086d84a031d",
+      "en_sha256": "d69a4ab5162e6781204cb46392cd0fb2eb2f0b868f2bf048d721a0c58159c226",
+      "origin": "ai"
+    },
+    "dataList[id=850101].name": {
+      "pl": "Reminisced Augmentation",
+      "kr_sha256": "c42043f81b57e678cb7af0ae73db1426bc2973dcd2b23d4ec4a73ddd2ab94dcb",
+      "en_sha256": "9c26516d2cb5be823d843fcd9269ba4a1160ad9566591a79a543f458e346f132",
+      "origin": "ai"
+    },
+    "dataList[id=851001].desc": {
+      "pl": "po przegranej w Starciu zyskuje 1 Wrażliwości.",
+      "kr_sha256": "d655b4c7e79fc6dd22606c669dd0ebb54f3518580baf028eba3c6c371d239a01",
+      "en_sha256": "fd3dffa5b266bab357dc7e2b388e3fc90922d2b6fa7a09217d7199d43c246093",
+      "origin": "ai"
+    },
+    "dataList[id=851001].name": {
+      "pl": "Gloomy Noises",
+      "kr_sha256": "a86e8f707b1a93bc42983bb8bcffe166b88649a595dfd767a5321945cd648df0",
+      "en_sha256": "671d912f2bcc144b8a48461c92cff1fe32f1d8783d5ebdca904c5ca7a28ab2ee",
+      "origin": "ai"
+    },
+    "dataList[id=851002].desc": {
+      "pl": "gdy Część-Oko zostaje zniszczona, wróg z najniższą Poczytalnością traci 35 Poczytalności.",
+      "kr_sha256": "72921081a210d76c39aaec90cc44a80d9adb5b613557d44b20a9c4ca21fcba08",
+      "en_sha256": "00dfc80438ca139f248c55b15e64b00f8fffc35a9d90070fb3962f6e19426879",
+      "origin": "ai"
+    },
+    "dataList[id=851002].name": {
+      "pl": "Blue Resin",
+      "kr_sha256": "97dc5b03f4e19848af8ff6626d79fbf3b1803ee59ffe873d077fedc32cfb9cf7",
+      "en_sha256": "8b6cc5c5aec54939468d56a4466baaf73d839ee5853552750b1a6d64bb1d7dda",
+      "origin": "ai"
+    },
+    "dataList[id=851003].desc": {
+      "pl": "na początku tury, jeżeli Część jest zniszczona, zyskuje 3 Wrażliwości.",
+      "kr_sha256": "983dee8d180a054f051ddb4c56ff786fd6218353a576af87441d028e6b4981e5",
+      "en_sha256": "a6a9961c5ef9b154b4f3367219d7fa98cf601f516b003cdf77fba16a6d2ad43e",
+      "origin": "ai"
+    },
+    "dataList[id=851003].name": {
+      "pl": "Septic Weakness",
+      "kr_sha256": "434504e964dfc840430b4a7fef37b2fd4c1fe82259c77d5a5af1d22b1d3f4c2e",
+      "en_sha256": "3756c19b425e40fff145e8bb3142c59f84f8952fbc8e426fe76dd81dccb90ee6",
+      "origin": "ai"
+    },
+    "dataList[id=851901].desc": {
+      "pl": "na początku tury, jeżeli ma 10+ Liczników Ładowania, zmienia wzór zachowania.",
+      "kr_sha256": "289e61cba8c519266fa46f6e7572565c95f7b394b952ae19d3291349964b4a60",
+      "en_sha256": "f6ffdd9c364f1898ea3f201c81273a94b8a8ec06f29f39fe5a35d09a2a542b1d",
+      "origin": "ai"
+    },
+    "dataList[id=851901].name": {
+      "pl": "Initiating Town Tour",
+      "kr_sha256": "ec7a8a55b311a3ffa20ebf5541b9e26bf951b576bbebf5fba6e73dc01d3a5dba",
+      "en_sha256": "d53c75319f0dfe6f2bae8fac70f5bc7f8ca68c286042745aadf9ac94f6888e46",
+      "origin": "ai"
+    },
+    "dataList[id=852001].desc": {
+      "pl": "gdy ta jednostka zostaje pokonana, Kqe-1j-23 otrzymuje 100 obrażeń i w następnej turze przechodzi w stan Oszołamienia.\npóźniej, do końca walki, traci Umiejętności wykorzystujące ramiona.",
+      "kr_sha256": "971f41c94d59ad5b600654845f6e0805b958f36495320e08d57c1f5c029fa4d3",
+      "en_sha256": "30a2a01c14aa9e06b327ae38cfbc273fe0953b8b4890f1b26b66e42a1b9add2d",
+      "origin": "ai"
+    },
+    "dataList[id=852001].name": {
+      "pl": "Damage Detected!",
+      "kr_sha256": "a987750cde8466af1fa7e453c5bb1f8668a4d3f524e1a9099484ff39f9efdd46",
+      "en_sha256": "eb52bb18652d05acdf4d318cb85e93e07f7f173aeb1233d6af01e480d96d51d3",
+      "origin": "ai"
+    },
+    "dataList[id=852101].desc": {
+      "pl": "na początku tury, jeżeli HP wynosi 60 lub mniej, wchodzi w stan wzmocnienia.",
+      "kr_sha256": "c0902449f440306b783032baa19e9910d0648164077434bcef04ccf45e606269",
+      "en_sha256": "af1027a7da23595f908150874aa1e6bc8f6dcc174d21d0720a1f4c3ed773db3e",
+      "origin": "ai"
+    },
+    "dataList[id=852101].name": {
+      "pl": "Overload",
+      "kr_sha256": "9fd698ba5d34442f097bf678d8a2b0659ab225d585c2727b77b80bc698d341f6",
+      "en_sha256": "3b782428828dd6d141cd5eb1e5ef18bf693db784f3ef6a647e072ab86edf9172",
+      "origin": "ai"
+    },
+    "dataList[id=852102].desc": {
+      "pl": "na początku tury: jeżeli HP jednostki nie jest pełne, przywraca 25% HP (maks. 3 razy; dochodzi do siebie z Oszołamienia, jeżeli jest Oszołamiona)",
+      "kr_sha256": "8e4d6463ecf3981d883037def372d0f1d26e6b5031113f57ce233a25080399eb",
+      "en_sha256": "7c299832aeac81ce859519cf5ad00e29a04fbbdf32f1ed9b547e66a7c425ad7f",
+      "origin": "ai"
+    },
+    "dataList[id=852102].name": {
+      "pl": "HP Ampule Injection",
+      "kr_sha256": "0f745a282c8b6281e9b9c963a3de10b390d70b87e544648d40deae452065459c",
+      "en_sha256": "1a4e166d6e92dc559535e02e6e96a500b7630104c16081da357029e5a16b0d49",
+      "origin": "ai"
+    },
+    "dataList[id=852301].desc": {
+      "pl": "na początku tury, zyskuje 2 Wzrost Obrażeń i 2 Wrażliwości.",
+      "kr_sha256": "8875337171be9d0a43d49286d3a5b2280ad42b4f2fe783a1ddc1451f88a2a2bd",
+      "en_sha256": "2cf8c8db244476a364ffa1b5181d5083afe5feec31fb63b8a158dfaeb2730e17",
+      "origin": "ai"
+    },
+    "dataList[id=852301].name": {
+      "pl": "Overloaded HP Bullet",
+      "kr_sha256": "633cf47c8ee13788160f974b681dd4be80e77ba49079055b6d0318ddd96c4613",
+      "en_sha256": "b722da730392c954dbe15e1bc0ff836f8382ae8b5fc3881c7473fd560f6da18c",
+      "origin": "ai"
+    },
+    "dataList[id=852701].desc": {
+      "pl": "na początku tury, jeżeli sojusznik jest obecny, zyskuje 10 Ochrony.",
+      "kr_sha256": "412b49feaf55ec756451020510a429213e3a5c3874a8b2baa7e6c494c74d111b",
+      "en_sha256": "fa63a5c8d0543ea6d4c939dff4baeeb9b1f427e0dbe54514cd81e6587be55537",
+      "origin": "ai"
+    },
+    "dataList[id=852701].name": {
+      "pl": "Dhyāna",
+      "kr_sha256": "2c7acf59af704efb1cb39009e065a97d62b6d6ed9741e14e51dc32022648f1d5",
+      "en_sha256": "fe8059512243fd7cd6ae039d50038a6859ca35e01bbf1de3cd2f5c6da8697be4",
+      "origin": "ai"
+    },
+    "dataList[id=852702].desc": {
+      "pl": "NOT FOR SEEING OR LOOKING AT",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "1abb0ffc56c94fbf0ab8715317300e6ea0e56d345cccdfda1b980f47b06440f0",
+      "origin": "ai"
+    },
+    "dataList[id=852702].name": {
+      "pl": "ANIKSHANA",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "1dc9ba0b64a8256b98487d403398a522ff6707ded6e23ad5eaac42c829458144",
+      "origin": "ai"
+    },
+    "dataList[id=852703].desc": {
+      "pl": "wszystkie jednostki przenoszą 10 Karmy na swoje cele po udanym ataku.\n(+5 za każde starcie.)\nKarma nie jest przenoszona na My Form Empties, dopóki żyją jego sojusznicy.",
+      "kr_sha256": "d9a35c58c08ab52e9591435422e2acba6e9760a55c057a8b1c5c64faffb5b1b9",
+      "en_sha256": "4d61ae5eb74f7e2c8c8dbcf29f883952f689bb569236d9507d7b4aad489f49f4",
+      "origin": "ai"
+    },
+    "dataList[id=852703].name": {
+      "pl": "Cyclical Karma",
+      "kr_sha256": "656645b28ad534884624cbcacfd29e9602c755e4d963545c9254a17a1eec8dcb",
+      "en_sha256": "c539442eb96381cf3335145048afd81d904a85a732b01387667dbd586768bc67",
+      "origin": "ai"
+    },
+    "dataList[id=852704].desc": {
+      "pl": "na początku tury, jeżeli Mūrti jest zniszczone, nakłada 30 Karmy i 3 Wrażliwości losowemu innemu sojusznikowi, po czym wchodzi w tryb Anatman (Non-Self).\nw tym stanie zachowanie Anomalii się zmienia, a wszystkie jej ataki celują bez rozróżniania jednostek.",
+      "kr_sha256": "7753bd57f67f984a95ea584bc416e9b0e70533f53c2008001ac6b4c851494295",
+      "en_sha256": "67f50884d21d7c8b3551b5095e4a249eea03119946eb66e7fa31cfb682e47239",
+      "origin": "ai"
+    },
+    "dataList[id=852704].name": {
+      "pl": "Anatman",
+      "kr_sha256": "6713bb6a43498f1c711b2200d07e35caa9669b8df24dfc11a8fafb85199530e5",
+      "en_sha256": "5eae79f9d6e49ac270afb74fbefc32fb4381edb5e4381d4d290aa03321bd2293",
+      "origin": "ai"
+    },
+    "dataList[id=852705].desc": {
+      "pl": "za każdym razem, gdy Mūrti odrasta, jej Maks. HP rośnie o 20%.",
+      "kr_sha256": "11599dca6e499c58c39cf0af779197497d4a51d08ee06032075aae843d18c184",
+      "en_sha256": "11080f95bbdc19aaa7523f520c6d71bef294242c152c130f1c1415b59cf18d96",
+      "origin": "ai"
+    },
+    "dataList[id=852705].name": {
+      "pl": "Nirmāna",
+      "kr_sha256": "d1a537bb70f1b6f2466ca3ff40caa32b2936e2b96cf40a25b4fd00e379fa349f",
+      "en_sha256": "7d8287c6c1beeb7a2df615b328146397b6b2268e3c4a2037dd9abd8064c68ebf",
+      "origin": "ai"
+    },
+    "dataList[id=852706].desc": {
+      "pl": "SEE OF NO TEXT HERE\nHEAR OF NO TEXT HERE\nSPEAK OF NO TEXT HERE",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "6c7cc4dbb9904d5dece2da5f2f48ea18bb025d47d4bd61a050cc3c18c46d74eb",
+      "origin": "ai"
+    },
+    "dataList[id=852706].name": {
+      "pl": "THREE WISE TEXTS",
+      "kr_sha256": "97a8faf6f9f60c96aa0c7a44df6cde370b0326cadf605b19c8f1549a4cbc9d06",
+      "en_sha256": "c5fee3f5a70cbf5ebbb9df869dfbd75a4ea60a7567744bafcb71d42ad4763258",
+      "origin": "ai"
+    },
+    "dataList[id=852707].desc": {
+      "pl": "na początku tury, w pełni przywraca HP.",
+      "kr_sha256": "7cd81417adb62765150d1f1d0f68240fe07168db2a902227de765d255d55a0a6",
+      "en_sha256": "5baaf000da1ff90669c9197f8515b38e6e9d513c53dbfd33c623fa7f0c2ebde0",
+      "origin": "ai"
+    },
+    "dataList[id=852707].name": {
+      "pl": "Bhaishajya",
+      "kr_sha256": "4e9d481fcca134ca2b1743b591dc8b5d907052a2c9d2759ec352ad9c939eab10",
+      "en_sha256": "a1b9b1be5016a1d567dbb054b94d94acf2d026fe972ad2f1c52fb44c2fb87d03",
+      "origin": "ai"
+    }
+  }
+}

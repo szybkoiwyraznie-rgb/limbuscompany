@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=1020411].desc": {
-      "pl": "na początku walki: przywraca 15 Poczytalności 2 sojusznikom z najniższą Poczytalnością.\njeżeli sojusznik jest „N Corp. Fanatic”, nakłada dodatkowo 2 [AssemblePersonality]",
+      "pl": "na początku walki: przywraca 15 Poczytalności 2 sojusznikom z najniższą Poczytalnością.\njeżeli sojusznik jest Fanatykiem Korp. N, nakłada dodatkowo 2 [AssemblePersonality]",
       "kr_sha256": "f44ae75ebf38fe9680e94c0386b06773be23df694c6da771dd01abd8d8d0e4bb",
       "en_sha256": "56bb32cd65f3655192a9bc18bfb0fd2450c1472d5a9116c46d35c723800ee7e2",
       "origin": "ai"
@@ -37,7 +37,7 @@
       "origin": "ai"
     },
     "dataList[id=1020431].desc": {
-      "pl": "na początku walki: przywraca 15 Poczytalności 1 sojusznikowi z najniższą Poczytalnością.\njeżeli sojusznik jest „N Corp. Fanatic”, nakłada 2 [AssemblePersonality]",
+      "pl": "na początku walki: przywraca 15 Poczytalności 1 sojusznikowi z najniższą Poczytalnością.\njeżeli sojusznik jest Fanatykiem Korp. N, nakłada 2 [AssemblePersonality]",
       "kr_sha256": "43263e237196bb79065bda8c7b9e38e738c6ea31d2e50684b0de16e2bbb9ed73",
       "en_sha256": "5bfe5612708e16ca2d42355a63ab607dbc78101a9ea800c42f7b23c1c6e2a898",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=1070411].desc": {
-      "pl": "gdy ginie sojusznik, na początku następnej tury traci 10 Poczytalności i zyskuje 1 Wzrost Mocy Uderzenia\njeżeli w drużynie, włącznie z tą jednostką, przetrwa 4 lub więcej „N Corp. Fanatics”, Moc Monet +1.",
+      "pl": "gdy ginie sojusznik, na początku następnej tury traci 10 Poczytalności i zyskuje 1 Wzrost Mocy Uderzenia\njeżeli w drużynie, włącznie z tą jednostką, przetrwa 4 lub więcej Fanatyków Korp. N, Moc Monet +1.",
       "kr_sha256": "1f6a08d0f8860616d7939edcf751c2609a2c6082b23b1b91812d4ba16a534579",
       "en_sha256": "b6134913f05e19d1c03adcfd02e25b7e6d5a38b9dda8c43b8d4a3c9e17806bd3",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=1100511].desc": {
-      "pl": "przywraca o 50% mniej Poczytalności za wygraną w Starciu lub pokonanie wroga.\njeżeli 5 lub więcej żywych jednostek, włącznie z tą jednostką, to „N Corp. Fanatics”, zadają one +10% obrażeń.",
+      "pl": "przywraca o 50% mniej Poczytalności za wygraną w Starciu lub pokonanie wroga.\njeżeli 5 lub więcej żywych jednostek, włącznie z tą jednostką, to Fanatyków Korp. N, zadają one +10% obrażeń.",
       "kr_sha256": "9cf7cf35792f650336032aae00b6bebb0052ee37680a071729bc3ca0fe335017",
       "en_sha256": "b37be5ce81dfe482eb2e87e2dd81f7eed59860b31248346074c260737b46e107",
       "origin": "ai"

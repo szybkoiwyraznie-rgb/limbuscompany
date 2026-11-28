@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=9100502].desc": {
-      "pl": "jeżeli ta jednostka ma Fanatic, zadaje +50% obrażeń.",
+      "pl": "jeżeli ta jednostka ma Fanatyzm, zadaje +50% obrażeń.",
       "kr_sha256": "6465b942b84e4637e538e16071f34d839a9bf06cf2a6b6f3032eb566f33c314a",
       "en_sha256": "406c68f2e8b01d83eb69abc6a5fc551a352d3ce17440d8fd9f67d430cc615804",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=9100601].desc": {
-      "pl": "gdy HP spadnie poniżej 50%, w następnej turze usuwa wszystkie negatywne efekty statusowe, a następnie co turę zyskuje 4 Fanatic, 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony.",
+      "pl": "gdy HP spadnie poniżej 50%, w następnej turze usuwa wszystkie negatywne efekty statusowe, a następnie co turę zyskuje 4 Fanatyzmu, 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony.",
       "kr_sha256": "7c63661f2c04854a1764ae6a9c52904a70795aaf02a20f0a4717f093035746aa",
       "en_sha256": "c0a5670d71e7955e0000173e4a72270cbcd6c28e2083a33aa9d0ed8fedd4a052",
       "origin": "ai"

@@ -1,0 +1,808 @@
+{
+  "entries": {
+    "dataList[id=853901].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=853901].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=853902].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=853902].name": {
+      "pl": "Head",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=8539].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8539].name": {
+      "pl": "Refracted Drifting Fox",
+      "kr_sha256": "171ed0022da528654d91d2fc663caa69f06112200b2dda629313279884fdb510",
+      "en_sha256": "4b01a41dc507ca5139d4d56ba11c472981e72c46a990c135cf8180c65caeda2b",
+      "origin": "ai"
+    },
+    "dataList[id=854001].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854001].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8540].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8540].name": {
+      "pl": "Refracted Old Umbrella",
+      "kr_sha256": "51fc6068be92b1ea732096ee7b0dd6f68169637e811092a25cc486e5d4557b49",
+      "en_sha256": "177bca649e50f1f1ebb6d694bb225b90a63dfea0ae611ed2824f9a136575b8e1",
+      "origin": "ai"
+    },
+    "dataList[id=854101].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854101].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=854102].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854102].name": {
+      "pl": "Head",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=8541].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8541].name": {
+      "pl": "Refracted Shock Centipede",
+      "kr_sha256": "271683ba294efba5fb1efe83ddb4276a349fc18febce41f2c070e550e8af8542",
+      "en_sha256": "86d9da3336d69402419dbf63cd328784f7b1e476202fa8919f60c365aeb0bee9",
+      "origin": "ai"
+    },
+    "dataList[id=854201].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854201].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=854202].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854202].name": {
+      "pl": "Left Arm",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=8542].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8542].name": {
+      "pl": "Refracted Fairy Gentleman",
+      "kr_sha256": "1d00e1cf301018bca9067dfccf47dcf5aad36e459dc0e4b8266b701185b4291b",
+      "en_sha256": "dd7fc65767106fea0cd440cc6a977c990eb59bb6e5b47e0a9f07c465de4a973a",
+      "origin": "ai"
+    },
+    "dataList[id=854301].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854301].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8543].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8543].name": {
+      "pl": "Refracted Fairy Wine",
+      "kr_sha256": "c8c46b3c26bf49cc33e853a6499aef38621c9aa74e68aa50168047490d86e572",
+      "en_sha256": "f321a7cdbfcae6d319e016987de155cb1676b3775a74610a91c2e579627eb635",
+      "origin": "ai"
+    },
+    "dataList[id=854401].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854401].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=854402].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854402].name": {
+      "pl": "Right Arm",
+      "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
+      "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
+      "origin": "ai"
+    },
+    "dataList[id=8544].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8544].name": {
+      "pl": "Refracted So That No One Will Cry",
+      "kr_sha256": "7505ee80eb2f9f12563b0d4b9683f6b6fa27512dbb25c4649b24698de760b47e",
+      "en_sha256": "cd144916d08b4aec292856b2980c07f544cbdb99294a6568a14a1bac77d23b10",
+      "origin": "ai"
+    },
+    "dataList[id=854501].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854501].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=854502].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854502].name": {
+      "pl": "Left Arm",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=854503].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854503].name": {
+      "pl": "Head",
+      "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
+      "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "origin": "ai"
+    },
+    "dataList[id=8545].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8545].name": {
+      "pl": "Refracted Fairy-Long-Legs",
+      "kr_sha256": "9e1052a3e1a1872b60f3920e3a8c106842f0d92510983e54f66f6a3da31ed951",
+      "en_sha256": "03bef18aeb441a04268ba78e1d41c730bd1da20a41f861cf7be21130cc61bfa3",
+      "origin": "ai"
+    },
+    "dataList[id=854601].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854601].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8546].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8546].name": {
+      "pl": "Refracted Clover",
+      "kr_sha256": "c2f2d246a4b08f6f81a15cbda0dc35ce3230bb244f79610c626f978deb06f960",
+      "en_sha256": "9fcfd334e393a58f76bc0e3040767e8e0ba27855272e225760ab6edf38b95cdb",
+      "origin": "ai"
+    },
+    "dataList[id=854701].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854701].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=854702].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854702].name": {
+      "pl": "Left Arm",
+      "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
+      "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
+      "origin": "ai"
+    },
+    "dataList[id=8547].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8547].name": {
+      "pl": "Refracted Fairy Gentleman",
+      "kr_sha256": "1d00e1cf301018bca9067dfccf47dcf5aad36e459dc0e4b8266b701185b4291b",
+      "en_sha256": "dd7fc65767106fea0cd440cc6a977c990eb59bb6e5b47e0a9f07c465de4a973a",
+      "origin": "ai"
+    },
+    "dataList[id=854801].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854801].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8548].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8548].name": {
+      "pl": "Refracted Fairy Wine",
+      "kr_sha256": "c8c46b3c26bf49cc33e853a6499aef38621c9aa74e68aa50168047490d86e572",
+      "en_sha256": "f321a7cdbfcae6d319e016987de155cb1676b3775a74610a91c2e579627eb635",
+      "origin": "ai"
+    },
+    "dataList[id=854901].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854901].name": {
+      "pl": "Fairy",
+      "kr_sha256": "43eb83ab9d89fdb31b12a68cadfdb6465ad4b001601707436399bce8f3c62898",
+      "en_sha256": "f46be28784b8ddccadb028609a20c49b9e090adaff43091527d03d214aac6fe5",
+      "origin": "ai"
+    },
+    "dataList[id=854902].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=854902].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8549].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8549].name": {
+      "pl": "Refracted Faelantern",
+      "kr_sha256": "4f62a54e6d43eb7efab7705361c86b905e3289917f15b0e92ab746b9cfd6a992",
+      "en_sha256": "08128e313be76adb05292ebe9588546c55fc2fe7c24908d947c03c58d9d8ff1d",
+      "origin": "ai"
+    },
+    "dataList[id=855001].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855001].name": {
+      "pl": "Left Blade",
+      "kr_sha256": "f19debd4fb8f3a30acf83dfb48c8f09b6fbe5ea8cfff2bd88af680f9752bfc04",
+      "en_sha256": "1d3f1b48e7b097d51ad9e79ab43775f34145361d3c72c712e007c5aa476a2eff",
+      "origin": "ai"
+    },
+    "dataList[id=855002].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855002].name": {
+      "pl": "Right Blade",
+      "kr_sha256": "43706f740a557a00d2b9f71f18cf7adcab51f916fc6192023ddb371196a6f874",
+      "en_sha256": "8feb9cb1a62b681c14922e40bb4147c01820c351e915601786532661d55de457",
+      "origin": "ai"
+    },
+    "dataList[id=8550].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8550].name": {
+      "pl": "Refracted Wayward Passenger",
+      "kr_sha256": "139d3226fd0798c881226177019af21c3a9eb936fb23451ae2d84a4b533c9eb4",
+      "en_sha256": "2d3d7d8af8cba2c8245b0876860e85a9d824e11d10f851c8e9ca5e96aca512f6",
+      "origin": "ai"
+    },
+    "dataList[id=855101].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855101].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8551].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8551].name": {
+      "pl": "Refracted T Corp. Class 3 Collector",
+      "kr_sha256": "8e49f3c05a495d91f540b18b72a1a8899198e939d8dbd5d4f0e7cd836f3f8f71",
+      "en_sha256": "e3cf13d07b817d3dcecaba346b4f04712decbf8d74089d5062b8557cc5e54bf0",
+      "origin": "ai"
+    },
+    "dataList[id=855501].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855501].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=855502].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855502].name": {
+      "pl": "Steam Blaster",
+      "kr_sha256": "46200ca1abd4bc98cd0810e8941b4a0599e16405b2790930ed4c717860d2a0cb",
+      "en_sha256": "b5b81c701c59afac014f88a1d92088faf8e36bcfb64deeb731d0ca1610fd411f",
+      "origin": "ai"
+    },
+    "dataList[id=8555].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8555].name": {
+      "pl": "Refracted Steam Transport Machine",
+      "kr_sha256": "41eec9809e4158ed1d22839a56ec6067873e9adbf84a5630e07b27e19444d2a4",
+      "en_sha256": "b4726be9f8231336d9a1c94d3990f47968a40cbf8e5cd89267bbda449c2e45f3",
+      "origin": "ai"
+    },
+    "dataList[id=855601].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855601].name": {
+      "pl": "Signpost",
+      "kr_sha256": "abeba5a587bf2e6568cdd8a2b21daa104647ff5f3c0c46e65e7cb1f4cb295e99",
+      "en_sha256": "26fa2068c8c7ef3dac91242456faadfeaa66d69ba050a9927108fa4876a96294",
+      "origin": "ai"
+    },
+    "dataList[id=855602].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855602].name": {
+      "pl": "Flesh",
+      "kr_sha256": "d804a5a98c800c56a6e44a1b2a859dfcb9e7daf9e1d7dbcac0c15df83b5f7097",
+      "en_sha256": "6d3640e3df06b59f0d28e2462de04abe62f1af09f6a644280990333f1569568d",
+      "origin": "ai"
+    },
+    "dataList[id=8556].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8556].name": {
+      "pl": "Refracted Sign of Roses",
+      "kr_sha256": "4e1514b54000b8426f93bca2a38eacb13bcc2e38f6bbb45fe2834edadf07a48f",
+      "en_sha256": "773b218fb6777e1cf56bbaac423a94b3523570ffef3208378d524b14d1915773",
+      "origin": "ai"
+    },
+    "dataList[id=855701].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855701].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8557].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8557].name": {
+      "pl": "Refracted T Corp. Class 3 Collector",
+      "kr_sha256": "8e49f3c05a495d91f540b18b72a1a8899198e939d8dbd5d4f0e7cd836f3f8f71",
+      "en_sha256": "e3cf13d07b817d3dcecaba346b4f04712decbf8d74089d5062b8557cc5e54bf0",
+      "origin": "ai"
+    },
+    "dataList[id=855801].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855801].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8558].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8558].name": {
+      "pl": "Refracted T Corp. Class 3 Collector",
+      "kr_sha256": "8e49f3c05a495d91f540b18b72a1a8899198e939d8dbd5d4f0e7cd836f3f8f71",
+      "en_sha256": "e3cf13d07b817d3dcecaba346b4f04712decbf8d74089d5062b8557cc5e54bf0",
+      "origin": "ai"
+    },
+    "dataList[id=855901].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=855901].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8559].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8559].name": {
+      "pl": "Refracted T Corp. Class 3 Collector",
+      "kr_sha256": "8e49f3c05a495d91f540b18b72a1a8899198e939d8dbd5d4f0e7cd836f3f8f71",
+      "en_sha256": "e3cf13d07b817d3dcecaba346b4f04712decbf8d74089d5062b8557cc5e54bf0",
+      "origin": "ai"
+    },
+    "dataList[id=856001].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856001].name": {
+      "pl": "Dimension",
+      "kr_sha256": "4a6d43705ae175fc83c74919a2b947de2fa52be0196ebdda90e0b424bb5cd7b9",
+      "en_sha256": "0bc70684cf306b3ed9ab68fd40654349b8fdf96b2e6cdce61edc53442d7f738f",
+      "origin": "ai"
+    },
+    "dataList[id=8560].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8560].name": {
+      "pl": "Refracted Hemorrhaging Dimension",
+      "kr_sha256": "f03854c23915b24e7040126d95e200d01e8991e018614a9a25d743900d61e615",
+      "en_sha256": "232dc04fd8ac7558123a2df3c3eecdfedb607649fa65c11895e727626ed79db6",
+      "origin": "ai"
+    },
+    "dataList[id=856101].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856101].name": {
+      "pl": "Dimension",
+      "kr_sha256": "4a6d43705ae175fc83c74919a2b947de2fa52be0196ebdda90e0b424bb5cd7b9",
+      "en_sha256": "0bc70684cf306b3ed9ab68fd40654349b8fdf96b2e6cdce61edc53442d7f738f",
+      "origin": "ai"
+    },
+    "dataList[id=8561].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8561].name": {
+      "pl": "Refracted Poisonous Dimension",
+      "kr_sha256": "cad7f0293888dbcccd6bf9625a65a448fffc10e10080df21262b4cc838d28f7b",
+      "en_sha256": "b769498654abf3f5677010483993c3d47d8080aae166d91955831cb76c64ae0a",
+      "origin": "ai"
+    },
+    "dataList[id=856201].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856201].name": {
+      "pl": "Dimension",
+      "kr_sha256": "4a6d43705ae175fc83c74919a2b947de2fa52be0196ebdda90e0b424bb5cd7b9",
+      "en_sha256": "0bc70684cf306b3ed9ab68fd40654349b8fdf96b2e6cdce61edc53442d7f738f",
+      "origin": "ai"
+    },
+    "dataList[id=8562].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8562].name": {
+      "pl": "Refracted Tremoring Dimension",
+      "kr_sha256": "a9a7b750035c209e81c5576f36155e0ab8ca3799602fdf5e4a3e4a2f899a20f6",
+      "en_sha256": "5e9c064d1c944b9c05f5dddfd658823ec7fe69b97a76c15c223b8b92d2bcd2f3",
+      "origin": "ai"
+    },
+    "dataList[id=856301].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856301].name": {
+      "pl": "Dimension",
+      "kr_sha256": "4a6d43705ae175fc83c74919a2b947de2fa52be0196ebdda90e0b424bb5cd7b9",
+      "en_sha256": "0bc70684cf306b3ed9ab68fd40654349b8fdf96b2e6cdce61edc53442d7f738f",
+      "origin": "ai"
+    },
+    "dataList[id=8563].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8563].name": {
+      "pl": "Refracted Electrifying Dimension",
+      "kr_sha256": "9fec8a33fe0f6d275d7249d4601018b550e67a28207772c7c44097f827da899a",
+      "en_sha256": "231ebc33fbfa702578e4ef32741553f7aa2acafce11562efaebd3a704e9d65ce",
+      "origin": "ai"
+    },
+    "dataList[id=856401].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856401].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8564].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8564].name": {
+      "pl": "Refracted Wrath-drenched Rose",
+      "kr_sha256": "d7afc65b3264998cee27cce5a81f189e08f503db328497e2b13b215d011d8b32",
+      "en_sha256": "9f2726d69f66862d15c92df8087b1a82c42ee6b7f149760cf86a4364a982443c",
+      "origin": "ai"
+    },
+    "dataList[id=856501].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856501].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8565].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8565].name": {
+      "pl": "Refracted Lust-drenched Rose",
+      "kr_sha256": "db23def92677b5e6f09b98a9692dd87343ccf9a4500eccf7e418e1b95e02d0f8",
+      "en_sha256": "d103c99594c0f0d348228454d8301df66020848530db307a8e3f6cc1e0f00692",
+      "origin": "ai"
+    },
+    "dataList[id=856601].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856601].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8566].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8566].name": {
+      "pl": "Refracted Sloth-drenched Rose",
+      "kr_sha256": "8f2198d2a988c3b1d870acf3b8bc89af0e2fad65e16ff40adb56244099a3acab",
+      "en_sha256": "ef708d8b40e27b36c5ff99560fa5538716ead5fdc1ca0a474131fd757175cb9d",
+      "origin": "ai"
+    },
+    "dataList[id=856701].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856701].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8567].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8567].name": {
+      "pl": "Refracted Gluttony-drenched Rose",
+      "kr_sha256": "e50f0cbaba075cf2d78c11fc53a711f6a2701b59d7da4e0f2e39411f159909ae",
+      "en_sha256": "d1a066c75225904632b21543660a1ed1eeb67bbbe5dc4861b0c5f86af667e8fb",
+      "origin": "ai"
+    },
+    "dataList[id=856801].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856801].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8568].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8568].name": {
+      "pl": "Refracted Gloom-drenched Rose",
+      "kr_sha256": "db3781e2903ed8fba81d073c4f8fcd4d09056c063da031f1a0e7190089759e7c",
+      "en_sha256": "938840ac9620f238f0771d479c76230a38fa2902aa77f54595e9b59152cc3e47",
+      "origin": "ai"
+    },
+    "dataList[id=856901].desc": {
+      "pl": "Part",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=856901].name": {
+      "pl": "Flower",
+      "kr_sha256": "1543c99e8fd9f44ded8ed7f857cbe972fb95d2e236d6f160c41083a149d650a6",
+      "en_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "origin": "ai"
+    },
+    "dataList[id=8569].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8569].name": {
+      "pl": "Refracted Pride-drenched Rose",
+      "kr_sha256": "5f8b0265f73aa4ae3d62b734339f4e1b3d31c4bd922066e7d28bbf01e1ae19e6",
+      "en_sha256": "466bb02f52d94eaf94caf6b4e3cff382cedaa83b82dc0b201298f518ba48ff7b",
+      "origin": "ai"
+    }
+  }
+}

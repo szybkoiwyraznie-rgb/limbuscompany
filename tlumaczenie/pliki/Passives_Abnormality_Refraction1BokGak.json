@@ -1,0 +1,424 @@
+{
+  "entries": {
+    "dataList[id=950101].desc": {
+      "pl": "na początku tury, przy mniej niż 50% HP, przywraca 20% HP",
+      "kr_sha256": "95edb6fae1cde8455e64276004a53b2767dc1734f5ea9bd0d16c566fad51d1f4",
+      "en_sha256": "47eb49aafe3d99a1edc57ae8fc0ccc85ba8111e41901f5e55caa4ae086507339",
+      "origin": "ai"
+    },
+    "dataList[id=950101].name": {
+      "pl": "Reminisced Augmentation",
+      "kr_sha256": "c42043f81b57e678cb7af0ae73db1426bc2973dcd2b23d4ec4a73ddd2ab94dcb",
+      "en_sha256": "9c26516d2cb5be823d843fcd9269ba4a1160ad9566591a79a543f458e346f132",
+      "origin": "ai"
+    },
+    "dataList[id=950901].desc": {
+      "pl": "na początku tury, przy mniej niż 50% HP, zyskuje 1 [Enhancement] i 1 [Endurance]",
+      "kr_sha256": "804bc03760a707cadce710f73f39e0fa5db8949b5bfd64986632906845a451d7",
+      "en_sha256": "2a9f6bc8d9854a6ab1acb5acbc253a1ef860524174823730d735c7fa5f74fc42",
+      "origin": "ai"
+    },
+    "dataList[id=950901].name": {
+      "pl": "Hora de Fiesta",
+      "kr_sha256": "8cdff5edb4779eab693c6bc84617c8a77aa75aaf5570551e995801e27066a8c9",
+      "en_sha256": "1ea65126c6d4a4bd700608791069b9c2216ae524f3e273d6f1226501bbba783f",
+      "origin": "ai"
+    },
+    "dataList[id=951001].desc": {
+      "pl": "gdy Część-Oko zostaje zniszczona, wróg z najniższą Poczytalnością traci 35 Poczytalności",
+      "kr_sha256": "1f9eb03c4f90e9963262f29cb8faf567e085e8fae500c8c81058eb94d4c32518",
+      "en_sha256": "b95a965446feffc9352e20b38652517b45c02c6094bc7ccf7c5ae685979d061c",
+      "origin": "ai"
+    },
+    "dataList[id=951001].name": {
+      "pl": "Blue Resin",
+      "kr_sha256": "97dc5b03f4e19848af8ff6626d79fbf3b1803ee59ffe873d077fedc32cfb9cf7",
+      "en_sha256": "8b6cc5c5aec54939468d56a4466baaf73d839ee5853552750b1a6d64bb1d7dda",
+      "origin": "ai"
+    },
+    "dataList[id=951701].desc": {
+      "pl": "gdy sojusznik ginie, zyskuje 1 [Enhancement] w następnej turze",
+      "kr_sha256": "d47a8ceab480f11887b8a62f027b6f2fcc1d97d4ab735e88b257a496c5af38c1",
+      "en_sha256": "bf9b30dbcc0693fed51e58511d92dfb824c16846b47b7fa6f39aa80b64c88499",
+      "origin": "ai"
+    },
+    "dataList[id=951701].name": {
+      "pl": "Noble be Thy Sacrifice",
+      "kr_sha256": "cef65aed7cec6b44817063964c5075a072a0c5ede86c99b5930393ac72a12067",
+      "en_sha256": "c7884d915f591789965b9f47ef213d8becbc7716aa7674223839051a49152fbe",
+      "origin": "ai"
+    },
+    "dataList[id=951702].desc": {
+      "pl": "po pokonaniu wroga, zyskuje 2 [AttackDmgUp] w następnej turze",
+      "kr_sha256": "96ea383cbf93622d570b77dc78b6ba9207e92101c421a0c2c3fcf1039814a7e2",
+      "en_sha256": "4492a4731409502d4ef6d1fa509cbca393bbd1ef287cebe9a0ece823c1c014d8",
+      "origin": "ai"
+    },
+    "dataList[id=951702].name": {
+      "pl": "Joy of Execution",
+      "kr_sha256": "a6eba48ebded3b5516247a383eaca6bd549fd0d5894e17bc3a5fe3f2d0cd720b",
+      "en_sha256": "608cfbc368c361d896dbc665df785e1a199ba455295b91facffdf3cdc85ebe91",
+      "origin": "ai"
+    },
+    "dataList[id=951703].desc": {
+      "pl": "na początku tury: jeżeli ta jednostka ma [Assemble], zyskuje 5 [AttackDmgUp]",
+      "kr_sha256": "c834a080e70109cb5f4bdee75ccca37f94d232785c624a12f30f2cfdced1369a",
+      "en_sha256": "e119ae6d747946173495fa65971e3c90044377e1e1790d4aa41d5e10ab000d61",
+      "origin": "ai"
+    },
+    "dataList[id=951703].name": {
+      "pl": "Thou Shalt Hammer",
+      "kr_sha256": "4ed6b5288282d388af6289ffc8ed158675f93435399c1dbbc1350c769625218f",
+      "en_sha256": "957957bac2831d80e59a5a4d8ae83f16e3b7f9281689966a42d45a6f892c69cf",
+      "origin": "ai"
+    },
+    "dataList[id=951801].desc": {
+      "pl": "gdy Słup Telekomunikacyjny zostanie trafiony, nakłada w tej turze 2 [ElectricShock] na atakującego.\nprzy 5+ [DogThunder], począwszy od następnej tury, każda Część nakłada przy trafieniu 3 [ElectricShock] w tej turze.\n(działa, dopóki [DogThunder] nie spadnie do 0)\ngdy zostanie trafiona atakiem atrybutu Lenistwa, nakładana liczba [ElectricShock] zostaje zmniejszona o połowę (zaokrąglona w górę)",
+      "kr_sha256": "d23325613d1d66871c4f2f77bcbeafd0e49f3164b30b97233ecd90638bba68d2",
+      "en_sha256": "2fd94ee3733a0a62b1f0dae1daf6033aa41aed136acc0502b16980f6c9ff372f",
+      "origin": "ai"
+    },
+    "dataList[id=951801].name": {
+      "pl": "Lightning Rod",
+      "kr_sha256": "4cf9bee50242b3b7e2c292af572217ebfdb21f178a5ef3158d84109efdf9c080",
+      "en_sha256": "5d907e09f9c22fec429d7e0e83ddf443cd4f6d0204328c3d7203456032a48dab",
+      "origin": "ai"
+    },
+    "dataList[id=951802].desc": {
+      "pl": "dopóki Słup Telekomunikacyjny nie zostanie zniszczony, zyskuje 1 [DogThunder] po ataku\nza każdym razem, gdy Słup Telekomunikacyjny zostanie trafiony atakiem, traci 1 [DogThunder]",
+      "kr_sha256": "fbb3fdb37e3da696535e3b1de3f1d8263b5ac9bfa4fc659bf1b4f2f46f4f7911",
+      "en_sha256": "2f8bfc1b70151153f175061fea0be55dc788297aea7edadf2d16ae620b53bea3",
+      "origin": "ai"
+    },
+    "dataList[id=951802].name": {
+      "pl": "Lightning",
+      "kr_sha256": "cb427961331d503d491757460c23345ce4194040dee5178d4595ef81e3385109",
+      "en_sha256": "41e68f2cdb3806bb899cb2f3c3d80a2171f37c85b60e8e486742234e4e5f5738",
+      "origin": "ai"
+    },
+    "dataList[id=951803].desc": {
+      "pl": "gdy Słup Telekomunikacyjny zostaje Oszołamiony lub zniszczony, [DogThunder] spada do 0;\nwszystkie Umiejętności ataku Alleyway Watchdog zostają w tej turze anulowane",
+      "kr_sha256": "4414433ccf3e78a9a557b4f5dfc02f4ddd48c64dbf43a9eb7d8ce91470df6285",
+      "en_sha256": "3ce2c0a513e6f4c48b5d8ba003ee4c378243681b745b3269c99e880c476256d2",
+      "origin": "ai"
+    },
+    "dataList[id=951803].name": {
+      "pl": "Breaking Pieces",
+      "kr_sha256": "838348bf714ba35f654c45ec550648c4ad4968875c694443c287dd044b42050c",
+      "en_sha256": "ce8ab6783caa0cf8b621bfc6b4b3bcf8a26a52c81ea20d0103d064c96ca54622",
+      "origin": "ai"
+    },
+    "dataList[id=951901].desc": {
+      "pl": "na początku tury, jeżeli ma 10+ Liczników [Charge], zmienia wzór",
+      "kr_sha256": "c84d268273b0cf5424a594dfe2da0e6c046ba2e08219bde10aae440ec1981d78",
+      "en_sha256": "6df7131742271eeebe6e7812276ef5c0b574f8867ecf6535966e7b0055d9e38b",
+      "origin": "ai"
+    },
+    "dataList[id=951901].name": {
+      "pl": "Initiating Town Tour",
+      "kr_sha256": "ec7a8a55b311a3ffa20ebf5541b9e26bf951b576bbebf5fba6e73dc01d3a5dba",
+      "en_sha256": "d53c75319f0dfe6f2bae8fac70f5bc7f8ca68c286042745aadf9ac94f6888e46",
+      "origin": "ai"
+    },
+    "dataList[id=952001].desc": {
+      "pl": "w chwili śmierci kqe-1j-23 otrzymuje 100 obrażeń, w następnej turze przechodzi w stan Oszołamienia, a przez resztę walki nie może używać Umiejętności nakładających [Duress]",
+      "kr_sha256": "a635895de9a34c00567a6ee4f7e1bd10230e29a506acd7d6caac858dcbffb4ce",
+      "en_sha256": "c1064b0d470cc4ee7365ea4038367c5215b2cc751a696658d63c49e5e09b5d82",
+      "origin": "ai"
+    },
+    "dataList[id=952001].name": {
+      "pl": "Damage Detected!",
+      "kr_sha256": "a987750cde8466af1fa7e453c5bb1f8668a4d3f524e1a9099484ff39f9efdd46",
+      "en_sha256": "eb52bb18652d05acdf4d318cb85e93e07f7f173aeb1233d6af01e480d96d51d3",
+      "origin": "ai"
+    },
+    "dataList[id=952101].desc": {
+      "pl": "jeżeli jednostka ma [BloodPocket]:\n- odporność Korpusa na Gniew -50%\n- odporność Korpusa na Posępność +50%",
+      "kr_sha256": "fbd6a15090c84e0c1fcc92ae8953181bc90fcf91646429e9b0cc433995781363",
+      "en_sha256": "325ba646eaaebc497659710937aa7fc7c2ce889749204083ededd328ffecbf6e",
+      "origin": "ai"
+    },
+    "dataList[id=952101].name": {
+      "pl": "Blood Sac",
+      "kr_sha256": "47d3096951d3359200b84e1d056019c949853b1943ec56e802b15161b4e976f5",
+      "en_sha256": "1b1ed9a6bdd8fa3dcbc36493d7b51de8b707983c722984a33bf780d7e9118831",
+      "origin": "ai"
+    },
+    "dataList[id=952102].desc": {
+      "pl": "jeżeli jednostka ma [WaterPocket], Core przywraca HP równe (Stos x 20)",
+      "kr_sha256": "d6b3959afa13fd96bde1e8a827fe642950d11b97e7333cbfc4150a0968096f22",
+      "en_sha256": "780599a3537dc5b77dde83b2d09718fd99ec352ada6d99c8c33ae66aba4fcbff",
+      "origin": "ai"
+    },
+    "dataList[id=952102].name": {
+      "pl": "Fluid Sac",
+      "kr_sha256": "9483c804aa854dfda95aae7da80c2eaa8ebc564a30b9a991cafd25605cbb6d70",
+      "en_sha256": "24e873fb91cd8b65080f1cf8a87cd74c3ef06ee68fe8107813d60d94d1e4213b",
+      "origin": "ai"
+    },
+    "dataList[id=952201].desc": {
+      "pl": "na początku tury zyskuje [Enhancement] i [Protection] w liczbie równej Stosom [AggressiveBokgak]",
+      "kr_sha256": "dde1b905fe0a624d3352503788654ed4e34b7d3c616184931dcd39bec2e6901b",
+      "en_sha256": "631d04629e1c3c6c05d307c48e80ab81983e8045d6840ad854e97d965373c85b",
+      "origin": "ai"
+    },
+    "dataList[id=952201].name": {
+      "pl": "Pulsating Arms",
+      "kr_sha256": "7ffd160b3a2f5c70bacd01f6b5a975d3cba32e7f0e349876b8d29785165d0756",
+      "en_sha256": "381e4b3f0d17863e48f66a7bd0f7015f129690a6acb102489e50b2b9ae38faf7",
+      "origin": "ai"
+    },
+    "dataList[id=952202].desc": {
+      "pl": "traci 1 [AggressiveBokgak] za każdym razem, gdy jednostka otrzyma obrażenia od ataków",
+      "kr_sha256": "28912c86c49deb1784128d2e6b342887c3c0ec676c8cf3134cb217833a4fc9c2",
+      "en_sha256": "e343d3b8f8f70c619f2bc73ba0b01ebf4f5b383dcae45feef22f7813d26e8d6e",
+      "origin": "ai"
+    },
+    "dataList[id=952202].name": {
+      "pl": "Damaged Arms",
+      "kr_sha256": "220ea9e96ba0eb00eccbf58f97b942c682f6c99757600f4267e5ca89f6f5c5f6",
+      "en_sha256": "ddb48969140a24f087ed8bba17d6ae9f605d3dd535306d12750921be4bc961f3",
+      "origin": "ai"
+    },
+    "dataList[id=952203].desc": {
+      "pl": "na koniec tury, jeżeli jednostka nie otrzymała obrażeń od ataków w tej turze, przywraca 5% HP i zyskuje 1 [AggressiveBokgak]",
+      "kr_sha256": "14aacbff3d3cb7f7c0b721da8bf02eedf0617350dd1ed03b1a72171053d2172e",
+      "en_sha256": "51e43be5b3f33c2af9a2c8b7121d86bbfbf8a2283e4bd8bac94614399f9ac272",
+      "origin": "ai"
+    },
+    "dataList[id=952203].name": {
+      "pl": "Regenerating Shell",
+      "kr_sha256": "3410b9b9fa553b935a22edec950b30505475161d320ed4135098f24dffdfec35",
+      "en_sha256": "48b3adbc33fc07ba39638013600d963183985585a897b2a83f1cc75aa7358bd6",
+      "origin": "ai"
+    },
+    "dataList[id=952204].desc": {
+      "pl": "zachowanie zależy od Stosów [AggressiveBokgak].\nprzy 4+ [AggressiveBokgak] używa umiejętności agresywnych, a przy mniej niż 4 — defensywnych",
+      "kr_sha256": "387ed2d4e6494917216862a42471855bd69aae887b8953c8dc2f83d1a1498fbb",
+      "en_sha256": "e78865fa5a065eed47acacdd52054c7d2f9755aa7f7f41450e5ac6e070b95638",
+      "origin": "ai"
+    },
+    "dataList[id=952204].name": {
+      "pl": "Frantic Eyes",
+      "kr_sha256": "ce208399403ba7bb1668616a734812faa5a55347f41f64e26a4cadabb5a5366e",
+      "en_sha256": "b4cad6d2e8e0339cadf434db227aa0557def4b60a2525918c9d21c3b7deeacc3",
+      "origin": "ai"
+    },
+    "dataList[id=952401].desc": {
+      "pl": "na początku tury przywraca 15 HP\nprzy mniej niż 50% HP, dodatkowo przywraca 15 HP",
+      "kr_sha256": "509346f6f32e144e2738cd14725aa912b45b367187097b409f99b4a9a9c38f26",
+      "en_sha256": "6d6e947ec7fe150451ed0fdb4bf70427b922b8e1893d5648647578b038f5ef20",
+      "origin": "ai"
+    },
+    "dataList[id=952401].name": {
+      "pl": "HP Bullets",
+      "kr_sha256": "376fbf1e52c4ed5cec3d56382e1a532b7e53d0b5e2de563a78ba227c3e55444f",
+      "en_sha256": "d45add37d7bc9689c7012ef5d7aa1232c344b3c8955d20b9072bec05eaa748bb",
+      "origin": "ai"
+    },
+    "dataList[id=952701].desc": {
+      "pl": "na początku tury: zyskuje 2 [AttackDmgUp] i 2 [Vulnerable]",
+      "kr_sha256": "d297d4d38f104278e9db5149529ad08e8845734dbf64cd61adc2a50ae64c179b",
+      "en_sha256": "6237642cd113eb3a2d979735b037a9ece45b7f01608b6ad752669cab13ea1c60",
+      "origin": "ai"
+    },
+    "dataList[id=952701].name": {
+      "pl": "Overloaded HP Bullet",
+      "kr_sha256": "633cf47c8ee13788160f974b681dd4be80e77ba49079055b6d0318ddd96c4613",
+      "en_sha256": "b722da730392c954dbe15e1bc0ff836f8382ae8b5fc3881c7473fd560f6da18c",
+      "origin": "ai"
+    },
+    "dataList[id=952702].desc": {
+      "pl": "na początku tury: jeżeli HP jednostki nie jest pełne, przywraca 25% HP (maks. 3 razy; dochodzi do siebie z Oszołamienia, jeżeli jest Oszołamiona)",
+      "kr_sha256": "8e4d6463ecf3981d883037def372d0f1d26e6b5031113f57ce233a25080399eb",
+      "en_sha256": "7c299832aeac81ce859519cf5ad00e29a04fbbdf32f1ed9b547e66a7c425ad7f",
+      "origin": "ai"
+    },
+    "dataList[id=952702].name": {
+      "pl": "HP Ampule Injection",
+      "kr_sha256": "0f745a282c8b6281e9b9c963a3de10b390d70b87e544648d40deae452065459c",
+      "en_sha256": "1a4e166d6e92dc559535e02e6e96a500b7630104c16081da357029e5a16b0d49",
+      "origin": "ai"
+    },
+    "dataList[id=952801].desc": {
+      "pl": "przy trafieniu zyskuje 1 [AggressiveBokgak]\nna koniec tury, przy 4+ [AggressiveBokgak], wchodzi w stan [Enrage]",
+      "kr_sha256": "8d2a75af4c2d6267d90f4244d84f72a984f53e151c5168629d926523b2bc8d50",
+      "en_sha256": "24f40bb77ca73c6a2f5d1b469a5e5d36dc7b6078680756eaab17e9c120b3925b",
+      "origin": "ai"
+    },
+    "dataList[id=952801].name": {
+      "pl": "Amplified Aggression",
+      "kr_sha256": "98f82d3d11842e56469c72d894b22d82a6634f721580f6f2e535473151dcda13",
+      "en_sha256": "eed31a997a353eea205d3f51cc2ae9653bd7fe4f69716f6d037b9fa779965068",
+      "origin": "ai"
+    },
+    "dataList[id=952802].desc": {
+      "pl": "w stanie [Enrage] zyskuje 3 [Enhancement] i 3 [Vulnerable], zmienia wzór Umiejętności i nie zyskuje [AggressiveBokgak] przy trafieniach",
+      "kr_sha256": "8596a1a61e11a3d4a46152ce94788da59fdd068117ddef85417e262b6dbdecba",
+      "en_sha256": "7631fab285cdf08bf9939691baa6d6586ba36fc0b88cdfac97ec4cfb6f9d6861",
+      "origin": "ai"
+    },
+    "dataList[id=952802].name": {
+      "pl": "Frenzy",
+      "kr_sha256": "0ff25a2c05e21fd17aaec38bf0fbdc72b0e3caeffeee0b6983572d2d23611175",
+      "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
+      "origin": "ai"
+    },
+    "dataList[id=952803].desc": {
+      "pl": "przy mniej niż 50% HP wchodzi w stan [Enrage] co turę",
+      "kr_sha256": "ce85591c072503c50fa882dc6f5ca8e157c23fd1ce5aff61b522210afc23f6fe",
+      "en_sha256": "a19edb8b6370e263e617639eb44844a41b5c14defad0a26303db71e698db4595",
+      "origin": "ai"
+    },
+    "dataList[id=952803].name": {
+      "pl": "Shimmering Rage",
+      "kr_sha256": "6010f48f009be59792fa0f8d3a5c1bf6956bd7bcd8e85c020eea8718e37ed897",
+      "en_sha256": "82afb2151d2e4f0d35a1c3355039828337881e14e5c28fca52559098fdeed4c6",
+      "origin": "ai"
+    },
+    "dataList[id=952901].desc": {
+      "pl": "na początku tury, jeżeli ma mniej niż 50% HP, przy trafieniu nakłada na atakującego 3 [Poison]",
+      "kr_sha256": "b6616dcd55a4da6e57ee527672aaaa635bbcbf29dea7ea74ea8e4b9309617495",
+      "en_sha256": "acd9afed8fe6309e938e3a978dd8d3794ea0bd4ba28c099f0d11dcb81d09cbdb",
+      "origin": "ai"
+    },
+    "dataList[id=952901].name": {
+      "pl": "Rotting Skin",
+      "kr_sha256": "be4362a4bcb32bcd77f4ce8f0e3857a60a0e76db4202ea81dd36f1e3116c0a2d",
+      "en_sha256": "b4f1554b3d80cad5fe04051f956f87c3f8a5447c7152efce7e4669bb195c8ef7",
+      "origin": "ai"
+    },
+    "dataList[id=952902].desc": {
+      "pl": "po zniszczeniu tej Części, jeżeli pod koniec następnej tury drugie Ramię nie zostało zniszczone, odrasta ono z HP równym HP tamtego ramienia, a Core przywraca HP równe HP odrośniętego Ramienia\n\npo zniszczeniu obu ramion zmienia wzór Umiejętności",
+      "kr_sha256": "b0d1da82ff52328416c16fe25358999823329101941946b02bf9f4ce868ac10b",
+      "en_sha256": "1bfb082fc0bd469518b970459154365c70e8603dc97092846e6381328aa0dfa2",
+      "origin": "ai"
+    },
+    "dataList[id=952902].name": {
+      "pl": "Molt",
+      "kr_sha256": "558eb22fa6c0fcc8a4eecfa361afc504ad6024827fbd1bc9e08b0f01e992ab02",
+      "en_sha256": "f716c5fd8cfd127490138852c8e25ffb708f00882043f38d64c8fa1183406ab5",
+      "origin": "ai"
+    },
+    "dataList[id=952903].desc": {
+      "pl": "co turę zyskuje 5 [Vulnerable] i nakłada 10 [Poison] wszystkim wrogom",
+      "kr_sha256": "0314a1da5123b23041590557095bf6d26589c32666ba21b1fa24192984a297c0",
+      "en_sha256": "1e6e6539e8a9e66a865f30f8a9c84b9d9bb004425b50f15f26cc01d8f4ab55a9",
+      "origin": "ai"
+    },
+    "dataList[id=952903].name": {
+      "pl": "Pained Writhing",
+      "kr_sha256": "dcef8aa70a6328797a778c545299963ecb08388a03507a9fb2da4b653ea6af47",
+      "en_sha256": "ed1f1424ebabde5e33f7dbe7f5643d5bb3c842a983ec67e72fe5ee1fe47eed6b",
+      "origin": "ai"
+    },
+    "dataList[id=952904].desc": {
+      "pl": "zachowanie zależy od Stosów [AggressiveBokgak].\nprzy 4+ Stosach [AggressiveBokgak] używa umiejętności agresywnych, a przy 0 — defensywnych",
+      "kr_sha256": "1b62fe7ce83306cb4c8c6d96cafc01cba42fa70c5c95d6bd641f08999e6e370e",
+      "en_sha256": "59637f00b427674d46800c4e816aa728e1650c82a0d831e434be1c82d6113fe6",
+      "origin": "ai"
+    },
+    "dataList[id=952904].name": {
+      "pl": "Wriggling Instincts",
+      "kr_sha256": "a77f6c2b62c0bd26497de222876d4629789f95adca31c8b0fa3ad8dd4785a9a9",
+      "en_sha256": "ad7b5aa0c04c5f041288276afc841f5f22ba9583b2b66a9b6d166d721c0c1295",
+      "origin": "ai"
+    },
+    "dataList[id=953301].desc": {
+      "pl": "począwszy od 3. tury, wchodzi w stan [Cromer_Ecstasy] co 2 tury",
+      "kr_sha256": "62a2990cf58cd018f76c61e11073a8673aaa8caa5634bfee432415e8ecb1c17d",
+      "en_sha256": "559572558bdb6c2b574971ff7589dba35f2e776e764a8b5d2f6c09320535fc7e",
+      "origin": "ai"
+    },
+    "dataList[id=953301].name": {
+      "pl": "Overflowing Ecstasy",
+      "kr_sha256": "650f20eab0ddb68bddbace628105a1e846827792c19d708d71c0227f8999bfb0",
+      "en_sha256": "1bdcd07b615ee1ed3cb750b0e157bd80a54a96774e6fe99cbe030f2e6643b764",
+      "origin": "ai"
+    },
+    "dataList[id=953302].desc": {
+      "pl": "na koniec tury, jeżeli HP głównego korpusu Kromer spadnie poniżej 50%, wchodzi w stan [Cromer_Madness] na pozostałe tury",
+      "kr_sha256": "dc32a44e2eae65fa2d378928ad06ac08535c28d67eba1734f01bf4b23cc3bbae",
+      "en_sha256": "da549e91ae0e3bbde7a64157fad99fb6746c4c226b3aa30ff14506a1ae62d7d4",
+      "origin": "ai"
+    },
+    "dataList[id=953302].name": {
+      "pl": "Blooming Purity",
+      "kr_sha256": "3f8141790a0ba56eaf70e016d99e2502d761967ce9087e95802279dc9d3542cf",
+      "en_sha256": "cbd4306aa74dffcea61779b5e12f9e81e33ae1faf21c8b91dc6c2b5639751641",
+      "origin": "ai"
+    },
+    "dataList[id=953303].desc": {
+      "pl": "gdy Ramię zostaje zniszczone, ta Część zyskuje 2 [Reduction]",
+      "kr_sha256": "60cd56150eb10495861ae560e8959555b66a86921b9e4f2c97d90b45554a855e",
+      "en_sha256": "ae1ccdfa627635517a979c9d6dfebbed91920efb23a3db7fcac3b129689a1b1f",
+      "origin": "ai"
+    },
+    "dataList[id=953303].name": {
+      "pl": "Flawless Flesh",
+      "kr_sha256": "6bc84a2b705d1f556e033509a4262c11ff203335f52c5323d1c919e6cd78d261",
+      "en_sha256": "2ddfee0115f276f774d17016144c132abf07f0e4108b739433bab20545f95099",
+      "origin": "ai"
+    },
+    "dataList[id=953401].desc": {
+      "pl": "jeżeli są żyjący sojusznicy, zyskuje 10 [Protection] na początku każdej tury",
+      "kr_sha256": "ef260bc0417537390ac57888f49157795e64fa0e997ea13ebdc184e9727bd222",
+      "en_sha256": "d5eae533cfa9b1aa599c5ac496f8ff6ed0878b20e51fd5b944277d17f07b0b5d",
+      "origin": "ai"
+    },
+    "dataList[id=953401].name": {
+      "pl": "Dhyāna",
+      "kr_sha256": "2c7acf59af704efb1cb39009e065a97d62b6d6ed9741e14e51dc32022648f1d5",
+      "en_sha256": "fe8059512243fd7cd6ae039d50038a6859ca35e01bbf1de3cd2f5c6da8697be4",
+      "origin": "ai"
+    },
+    "dataList[id=953402].desc": {
+      "pl": "wszystkie jednostki przenoszą 10 [Cycle] na swoje cele przy trafieniu\n(stos przenoszonego [Cycle] rośnie o 5 za każde starcie)\n[Cycle] nie jest przenoszona na My Form Empties, dopóki żyją jego sojusznicy",
+      "kr_sha256": "f6ae9100f7143b77403fb12001845d8b57cee9719fc3b4218fee55ff4bfdd146",
+      "en_sha256": "89a0fa5d14099429cf469947f902e06587276ed11ae67461dd77919f24e3829a",
+      "origin": "ai"
+    },
+    "dataList[id=953402].name": {
+      "pl": "Cyclical Karma",
+      "kr_sha256": "656645b28ad534884624cbcacfd29e9602c755e4d963545c9254a17a1eec8dcb",
+      "en_sha256": "c539442eb96381cf3335145048afd81d904a85a732b01387667dbd586768bc67",
+      "origin": "ai"
+    },
+    "dataList[id=953403].desc": {
+      "pl": "na początku tury, jeżeli Mūrti jest zniszczone, nakłada 30 [Cycle] i 3 [Vulnerable] losowemu innemu sojusznikowi, zmienia wzór Umiejętności i wchodzi w tryb Anatman (Non-Self) celujący bez rozróżniania jednostek.",
+      "kr_sha256": "6545b184c3a4778669ac2e87405f4c30a70ca49e14ba0ed16db385e9d7b8041e",
+      "en_sha256": "039171df61393436ae971fdaa766d4901f2d213ade90f7e6e00582528cc05bda",
+      "origin": "ai"
+    },
+    "dataList[id=953403].name": {
+      "pl": "Anatman",
+      "kr_sha256": "6713bb6a43498f1c711b2200d07e35caa9669b8df24dfc11a8fafb85199530e5",
+      "en_sha256": "5eae79f9d6e49ac270afb74fbefc32fb4381edb5e4381d4d290aa03321bd2293",
+      "origin": "ai"
+    },
+    "dataList[id=953404].desc": {
+      "pl": "za każdym razem, gdy Mūrti odrasta, jej Maks. HP rośnie o 20%.",
+      "kr_sha256": "719b0524d80da763f4b22e06aec0adeae1be0266923da6173471ab6645ec9c61",
+      "en_sha256": "11080f95bbdc19aaa7523f520c6d71bef294242c152c130f1c1415b59cf18d96",
+      "origin": "ai"
+    },
+    "dataList[id=953404].name": {
+      "pl": "Nirmāna",
+      "kr_sha256": "d1a537bb70f1b6f2466ca3ff40caa32b2936e2b96cf40a25b4fd00e379fa349f",
+      "en_sha256": "7d8287c6c1beeb7a2df615b328146397b6b2268e3c4a2037dd9abd8064c68ebf",
+      "origin": "ai"
+    },
+    "dataList[id=953501].desc": {
+      "pl": "na początku tury, w pełni przywraca HP.",
+      "kr_sha256": "f9525cb8bd0787658a4cf1120fb5766a8bef2614f75199628f5125b769abbdc4",
+      "en_sha256": "78cbb61a340b0f2934dcc0ee3ea068858f280df034dadd13675e54f30857b0b9",
+      "origin": "ai"
+    },
+    "dataList[id=953501].name": {
+      "pl": "Bhaishajya",
+      "kr_sha256": "4e9d481fcca134ca2b1743b591dc8b5d907052a2c9d2759ec352ad9c939eab10",
+      "en_sha256": "a1b9b1be5016a1d567dbb054b94d94acf2d026fe972ad2f1c52fb44c2fb87d03",
+      "origin": "ai"
+    }
+  }
+}

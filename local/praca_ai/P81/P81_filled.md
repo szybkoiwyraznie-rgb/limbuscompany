@@ -3201,7 +3201,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P81_3c_przeciwnicy_i_anomalie_cz17.
    źródło: Passives_Enemy.json :: dataList[id=9100601].desc
    limit: do 190 znaków
    EN: When HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn.
-   PL: gdy HP spadnie poniżej 50%, w następnej turze usuwa wszystkie negatywne efekty statusowe, a następnie co turę zyskuje 4 Fanatic, 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony.
+   PL: gdy HP spadnie poniżej 50%, w następnej turze usuwa wszystkie negatywne efekty statusowe, a następnie co turę zyskuje 4 Fanatyzmu, 1 Wzrost Mocy Ataku i 1 Wzrost Mocy Obrony.
 656. [[podstawowe] Pasywka wroga [9100502] — nazwa] 두드릴지라
    źródło: Passives_Enemy.json :: dataList[id=9100502].name
    limit: do 40 znaków
@@ -3211,7 +3211,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P81_3c_przeciwnicy_i_anomalie_cz17.
    źródło: Passives_Enemy.json :: dataList[id=9100502].desc
    limit: do 120 znaków
    EN: If this unit is Fanatic, deal +50% damage.
-   PL: jeżeli ta jednostka ma Fanatic, zadaje +50% obrażeń.
+   PL: jeżeli ta jednostka ma Fanatyzm, zadaje +50% obrażeń.
 658. [[podstawowe] Pasywka wroga [9004601] — nazwa] 기계 정신
    źródło: Passives_Enemy.json :: dataList[id=9004601].name
    limit: do 40 znaków
@@ -3585,7 +3585,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P81_3c_przeciwnicy_i_anomalie_cz17.
    limit: do 230 znaków
    tokeny: zachowaj dokładnie: \n
    EN: When an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn.\nIf 4 or more surviving units in the team, including this unit, are 'N Corp. Fanatics', Coin Power +1.
-   PL: gdy ginie sojusznik, na początku następnej tury traci 10 Poczytalności i zyskuje 1 Wzrost Mocy Uderzenia\njeżeli w drużynie, włącznie z tą jednostką, przetrwa 4 lub więcej „N Corp. Fanatics”, Moc Monet +1.
+   PL: gdy ginie sojusznik, na początku następnej tury traci 10 Poczytalności i zyskuje 1 Wzrost Mocy Uderzenia\njeżeli w drużynie, włącznie z tą jednostką, przetrwa 4 lub więcej Fanatyków Korp. N, Moc Monet +1.
 736. [[podstawowe] Pasywka wroga [1100211] — nazwa] 살수
    źródło: Passives_check4.json :: dataList[id=1100211].name
    limit: do 40 znaków
@@ -3613,7 +3613,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P81_3c_przeciwnicy_i_anomalie_cz17.
    tokeny: zachowaj dokładnie: \n, [AssemblePersonality]
    znaczenie tagów: [AssemblePersonality] = 광신 / Fanatic
    EN: Combat Start: Heal 15 SP for 2 allies that have the lowest SP\nIf the ally is an "N Corp. Fanatic", also apply 2 [AssemblePersonality]
-   PL: na początku walki: przywraca 15 Poczytalności 2 sojusznikom z najniższą Poczytalnością.\njeżeli sojusznik jest „N Corp. Fanatic”, nakłada dodatkowo 2 [AssemblePersonality]
+   PL: na początku walki: przywraca 15 Poczytalności 2 sojusznikom z najniższą Poczytalnością.\njeżeli sojusznik jest Fanatykiem Korp. N, nakłada dodatkowo 2 [AssemblePersonality]
 741. [[podstawowe] Pasywka wroga [1020431] — nazwa] 속삭임
    źródło: Passives_check4.json :: dataList[id=1020431].name
    limit: do 40 znaków
@@ -3625,7 +3625,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P81_3c_przeciwnicy_i_anomalie_cz17.
    tokeny: zachowaj dokładnie: \n, [AssemblePersonality]
    znaczenie tagów: [AssemblePersonality] = 광신 / Fanatic
    EN: Combat Start: Heal 15 SP for 1 ally that has the lowest SP\nIf the ally is an "N Corp. Fanatic", also apply 2 [AssemblePersonality]
-   PL: na początku walki: przywraca 15 Poczytalności 1 sojusznikowi z najniższą Poczytalnością.\njeżeli sojusznik jest „N Corp. Fanatic”, nakłada 2 [AssemblePersonality]
+   PL: na początku walki: przywraca 15 Poczytalności 1 sojusznikowi z najniższą Poczytalnością.\njeżeli sojusznik jest Fanatykiem Korp. N, nakłada 2 [AssemblePersonality]
 743. [[podstawowe] Pasywka wroga [1100511] — nazwa] 광염
    źródło: Passives_check4.json :: dataList[id=1100511].name
    limit: do 40 znaków
@@ -3636,7 +3636,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P81_3c_przeciwnicy_i_anomalie_cz17.
    limit: do 210 znaków
    tokeny: zachowaj dokładnie: \n
    EN: Heal 50% less SP from winning a clash or defeating an enemy.\nIf 5 or more surviving units, including this unit, are 'N Corp. Fanatics', they deal +10% damage.
-   PL: przywraca o 50% mniej Poczytalności za wygraną w Starciu lub pokonanie wroga.\njeżeli 5 lub więcej żywych jednostek, włącznie z tą jednostką, to „N Corp. Fanatics”, zadają one +10% obrażeń.
+   PL: przywraca o 50% mniej Poczytalności za wygraną w Starciu lub pokonanie wroga.\njeżeli 5 lub więcej żywych jednostek, włącznie z tą jednostką, to Fanatyków Korp. N, zadają one +10% obrażeń.
 745. [[podstawowe] Pasywka wroga [1070311] — nazwa] 풀 뜯을 준비
    źródło: Passives_check4.json :: dataList[id=1070311].name
    limit: do 40 znaków

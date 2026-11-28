@@ -1,0 +1,131 @@
+1||[refraction] Wróg / część [8507] — nazwa] 위협적인 철공회 조직원|Threatening Tieqiu Crewman
+2||[refraction] Wróg / część [8507] — opis] 본체|Core
+3||[refraction] Wróg / część [850701] — nazwa] 몸통|Body
+4||[refraction] Wróg / część [850701] — opis] 부위|Part
+5||[refraction] Wróg / część [8508] — nazwa] 몸 푸는 철공회 조직원|Flexing Tieqiu Crewman
+9||[refraction] Wróg / część [8509] — nazwa] 아이드|Aida
+13||[refraction] Wróg / część [8510] — nazwa] 울음 두꺼비|Blubbering Toad
+17||[refraction] Wróg / część [851002] — nazwa] 왼쪽 눈|Left Eye
+19||[refraction] Wróg / część [851003] — nazwa] 오른쪽 눈|Right Eye
+21||[refraction] Wróg / część [8511] — nazwa] 받드는 N사 이단 심문관|Servile N Corp. Inquisitor
+22||[refraction] Wróg / część [8511] — opis] 적 잡몹|Enemy Unit
+25||[refraction] Wróg / część [8512] — nazwa] 따르는 N사 이단 심문관|Compliant N Corp. Inquisitor
+29||[refraction] Wróg / część [8513] — nazwa] 고문하는 N사 이단 심문관|Scourging N Corp. Inquisitor
+33||[refraction] Wróg / część [8514] — nazwa] 심문에 능한 N사 이단 심문관|Interrogative N Corp. Inquisitor
+37||[refraction] Wróg / część [8515] — nazwa] 집착하는 N사 이단 심문관|Obsessive N Corp. Inquisitor
+41||[refraction] Wróg / część [8516] — nazwa] 으뜸 기쁨의 N사 이단 심문관|Joyous N Corp. Inquisitor
+45||[refraction] Wróg / część [8517] — nazwa] 집념의 귀도|Guido the Persistent
+49||[refraction] Wróg / część [8518] — nazwa] 굴절된 골목파수견|Refracted Alleyway Watchdog
+53||[refraction] Wróg / część [851802] — nazwa] 전봇대|Telepole
+55||[refraction] Wróg / część [851803] — nazwa] 사람|Person
+57||[refraction] Wróg / część [851804] — nazwa] 머리|Head
+59||[refraction] Wróg / część [8519] — nazwa] kqe-1j-23|Kqe-1j-23
+63||[refraction] Wróg / część [8520] — nazwa] 마을 주민의 심장|Heart of the Townsfolk
+65||[refraction] Wróg / część [852001] — nazwa] 심장|Heart
+67||[refraction] Wróg / część [8521] — nazwa] K사 3등급 직원|K Corp. Class 3 Staff
+71||[refraction] Wróg / część [8522] — nazwa] 모든 것이 있는 이단 심문관|Everything There of an Inquisitor
+75||[refraction] Wróg / część [8523] — nazwa] K사 3등급 직원 - 강화|K Corp. Class 3 Empowered Staff
+79||[refraction] Wróg / część [8524] — nazwa] 단수어|Headless Ichthys
+83||[refraction] Wróg / część [852402] — nazwa] 왼다리|Left Leg
+85||[refraction] Wróg / część [852403] — nazwa] 오른다리|Right Leg
+87||[refraction] Wróg / część [852404] — nazwa] 꼬리|Tail
+89||[refraction] Wróg / część [8525] — nazwa] 꿈틀거리는 이단 심문관|Slithering Inquisitor
+93||[refraction] Wróg / część [852502] — nazwa] 왼팔|Left Arm
+95||[refraction] Wróg / część [852503] — nazwa] 오른팔|Right Arm
+97||[refraction] Wróg / część [8526] — nazwa] 온전한 인간을 꿈꾸는 크로머|Kromer the Dreamer of Human Wholeness
+103||[refraction] Wróg / część [852603] — nazwa] 큰입|Maw
+105||[refraction] Wróg / część [8527] — nazwa] 나는 비워내느니|My Form Empties
+107||[refraction] Wróg / część [852701] — nazwa] 불상|Buddha Mūrti
+109||[refraction] Wróg / część [852702] — nazwa] 석좌|Stone Seat
+111||[refraction] Wróg / część [8528] — nazwa] 이끌린 귀도|Lured Guido
+115||[refraction] Wróg / część [8529] — nazwa] 이끌린 아이드|Lured Aida
+119||[refraction] Wróg / część [8530] — nazwa] 이끌린 짓물린 G사 부장|Lured Festered G Corp. H. Manager
+123||[refraction] Wróg / część [8531] — nazwa] 침착한 K사 검문소 요원|Calm K Corp. Checkpoint Security
+127||[refraction] Wróg / część [8532] — nazwa] 든든한 K사 검문소 요원|Reliable K Corp. Checkpoint Security
+131||[refraction] Wróg / część [8533] — nazwa] 크로머|Kromer
+139||[refraction] Wróg / część [8535] — nazwa] 나아가려 하는 이단심문관|Proceeding Inquisitor
+143||[refraction] Wróg / część [8536] — nazwa] 네 발 짐승|Four-legged Beast
+147||[refraction] Wróg / część [8537] — nazwa] 굴절된 단수어|Refracted Headless Ichthys
+157||[refraction] Wróg / część [8538] — nazwa] 골목파수견|Alleyway Watchdog
+167||Umiejętność wroga [851001] (ulepszenie 1) — nazwa] 울음 찰싹|Crying Slap
+168||Umiejętność wroga [851001] (ulepszenie 1) — opis] [WhenUse] 대상의 정신력 -15|[WhenUse] Target loses 15 SP
+169||Umiejętność wroga [851001] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 침잠 5, 침잠 횟수 5 부여|[OnSucceedAttackHead] Inflict 5 Sinking and +5 Sinking Count
+170||Umiejętność wroga [851002] (ulepszenie 1) — nazwa] 우울음 철썩|Gloomy Slap
+171||Umiejętność wroga [851002] (ulepszenie 1) — opis] [StartDuel] 대상의 정신력 +5|[StartDuel] Target heals 5 SP
+172||Umiejętność wroga [851002] (ulepszenie 1) — moneta 1, efekt 1 — opis] [AlwaysUse] 피해의 절반만큼 정신력 피해를 입힘|[AlwaysUse] Deal SP damage by half of damage displayed
+173||Umiejętność wroga [851002] (ulepszenie 1) — moneta 1, efekt 2 — opis] [AlwaysUse] 피해는 0이 됨|[AlwaysUse] No HP damage is dealt
+174||Umiejętność wroga [851003] (ulepszenie 1) — nazwa] 녹아내릴 눈알|Melty Eyeball
+175||Umiejętność wroga [851003] (ulepszenie 1) — opis] [WhenUse] 대상의 정신력 -5\n정신력이 0 미만인 대상 공격 시 피해량 +10%|[WhenUse] Target loses 5 SP\nIf target’s SP is below 0, +10% Damage
+176||Umiejętność wroga [851003] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 침잠만큼 추가 체력 피해|[OnSucceedAttackHead] Deal bonus damage by target’s Sinking
+177||Umiejętność wroga [851003] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 침잠만큼 추가 정신력 피해|[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking
+178||Umiejętność wroga [851004] (ulepszenie 1) — nazwa] 몰아치는 우울|Gushing Gloom
+179||Umiejętność wroga [851004] (ulepszenie 1) — opis] [WhenUse] 대상의 정신력 -5\n침잠이 가장 많은 대상 우선 공격|[WhenUse] Target loses 5 SP\nTargets the enemy with the most Sinking
+180||Umiejętność wroga [851004] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 침잠 횟수 3 부여|[OnSucceedAttack] Inflict +3 Sinking Count
+183||Umiejętność wroga [851005] (ulepszenie 1) — nazwa] 눈알추|Eyeball Weight
+184||Umiejętność wroga [851005] (ulepszenie 1) — opis] [DefeatDuel] 모든 스킬 취소.\n[DefeatDuel] 취약 3 얻음\n정신력이 0 미만인 대상 공격 시 피해량 +10%|[DefeatDuel] Cancel all skills\n[DefeatDuel] Gain 3 Fragile\nIf the target is below 0 SP, +10% Damage
+185||Umiejętność wroga [851005] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 대상이 가지고 있는 침잠, 침잠 횟수를 2배로 만듦|[OnSucceedAttackHead] Double target’s Sinking and its Count
+186||Umiejętność wroga [851006] (ulepszenie 1) — nazwa] 녹아내린 눈알|Melted Eyeball
+192||Umiejętność wroga [851008] (ulepszenie 1) — nazwa] 꾸엉|Croohoo
+193||Umiejętność wroga [851008] (ulepszenie 1) — opis] [StartBattle] 보호 2 얻음|[StartBattle] Gain 2 Protection
+194||Umiejętność wroga [851901] (ulepszenie 1) — nazwa] 마을 견학 캠페인 준비|Booting Town Tour
+195||Umiejętność wroga [851901] (ulepszenie 1) — opis] [WhenUse] 충전 횟수 4 증가|[WhenUse] Gain +4 Charge Count
+196||Umiejętność wroga [851902] (ulepszenie 1) — nazwa] 견학 환영 인사|Welcome to the Tour
+197||Umiejętność wroga [851902] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 다음 턴에 더하기 코인 약화 1 부여|[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn
+198||Umiejętność wroga [851903] (ulepszenie 1) — nazwa] 협조하십시오!|Please Cooperate!
+199||Umiejętność wroga [851903] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 마비 3 부여|[OnSucceedAttack] Inflict 3 Paralyze next turn
+200||Umiejętność wroga [851904] (ulepszenie 1) — nazwa] 전입 신고 처리|Processing Transfer Reg
+201||Umiejętność wroga [851904] (ulepszenie 1) — opis] [WhenUse] 충전 횟수 전부 소모|[WhenUse] Spend all Charge Count
+202||Umiejętność wroga [851904] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 구속 부여.|[OnSucceedAttack] Put target in Captivity
+203||Umiejętność wroga [851905] (ulepszenie 1) — nazwa] 이제부터 잘 부탁드려요. 이웃씨|Pleased to Meet You, Dear Neighbor
+204||Umiejętność wroga [851905] (ulepszenie 1) — opis] [CantDuel]\n잡고 있는 대상 공격|[CantDuel]\nAttacks target in Captivity
+205||Umiejętność wroga [851905] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 화상 10 부여|[OnSucceedAttack] Inflict 10 Burn
+206||Umiejętność wroga [851906] (ulepszenie 1) — nazwa] 시스템 이상 감지|System Error Detected
+207||Umiejętność wroga [851906] (ulepszenie 1) — opis] 다음 턴에 흐트러짐 상태가 됨|Become Staggered next turn
+208||Umiejętność wroga [851906] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 충전 횟수 2소모하여, 화상 5 부여|[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn
+210||Umiejętność wroga [851907] (ulepszenie 1) — nazwa] 전산 처리 진행 중|Processing Computation
+211||Umiejętność wroga [851907] (ulepszenie 1) — opis] [WhenUse] 보호 5를 얻음|[WhenUse] Gain 5 Protection
+212||Umiejętność wroga [851908] (ulepszenie 1) — nazwa] 재부팅 중...|Rebooting…
+213||Umiejętność wroga [851909] (ulepszenie 1) — nazwa] 신규 전입 신고 처리|Processing Transfer Reg
+214||Umiejętność wroga [851909] (ulepszenie 1) — opis] [CantDuel]\n[CantChangeTarget]\n체력이 가장 많은 대상 공격\n[WhenUse] 충전 전부 소모|[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse] Spend all Charge
+216||Umiejętność wroga [852101] (ulepszenie 1) — nazwa] 출입 금지|Do Not Enter
+217||Umiejętność wroga [852101] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 1 부여|[OnSucceedAttackHead] Inflict 1 Rupture
+218||Umiejętność wroga [852102] (ulepszenie 1) — nazwa] 진압|Subdue
+219||Umiejętność wroga [852102] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttackHead] 파열 3 부여|[OnSucceedAttackHead] Inflict 3 Rupture
+220||Umiejętność wroga [852102] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 3 증가|[OnSucceedAttack] Inflict +3 Rupture Count
+221||Umiejętność wroga [852103] (ulepszenie 1) — nazwa] 출입 차단|Forbid Entry
+222||Umiejętność wroga [852103] (ulepszenie 1) — opis] [DefeatDuel] 체력 10 회복|[DefeatDuel] Heal 10 HP
+223||Umiejętność wroga [852103] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 파열 횟수 2 증가|[OnSucceedAttack] Inflict +2 Rupture Count
+224||Umiejętność wroga [852103] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttackHead] 파열 위력만큼 체력 피해\n상대 파열 전부 소모.|[OnSucceedAttackHead] Deal HP damage equal to Rupture Potency\nRemove all Rupture from target
+225||Umiejętność wroga [852301] (ulepszenie 1) — nazwa] 거수자 발견|Suspicious Individuals
+227||Umiejętność wroga [852302] (ulepszenie 1) — nazwa] 제압|Restrain
+229||Umiejętność wroga [852303] (ulepszenie 1) — nazwa] 거수자 차단|No Trespassing
+230||Umiejętność wroga [852303] (ulepszenie 1) — opis] 체력이 가장 높은 대상 우선 공격|Targets the unit with the most HP
+231||Umiejętność wroga [852303] (ulepszenie 1) — moneta 2, efekt 1 — opis] 1코인이 앞면이라면 피해량 +10%|If Coin 1 lands Heads, +10% Damage
+232||Umiejętność wroga [852303] (ulepszenie 1) — moneta 3, efekt 1 — opis] 2코인이 앞면이라면 피해량 +10%|If Coin 2 lands Heads, +10% Damage
+233||Umiejętność wroga [852303] (ulepszenie 1) — moneta 4, efekt 1 — opis] 2, 3코인이 앞면이라면 피해량 +30%|If Coins 2 & 3 land Heads, +30% Damage
+234||Umiejętność wroga [852701] (ulepszenie 1) — nazwa] 보시|Dāna
+235||Umiejętność wroga [852701] (ulepszenie 1) — opis] [WhenUse] 자신을 제외한 아군 1명에게 보호 2 부여|[WhenUse] Apply 2 Protection to a random other ally
+236||Umiejętność wroga [852701] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 피해량 감소 3 부여|[OnSucceedAttack] Inflict 3 Damage Down next turn
+237||Umiejętność wroga [852702] (ulepszenie 1) — nazwa] 설법|Expound Sutras
+238||Umiejętność wroga [852702] (ulepszenie 1) — opis] [WhenUse] 자신을 제외한 아군 1명에게 공격 위력 증가 2 부여|[WhenUse] Apply 2 Attack Power Up to a random other ally
+239||Umiejętność wroga [852702] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 무작위 아군 1명에게 피해량 증가 2 부여|[OnSucceedAttack] Apply 2 Attack Power Up to a random other ally next turn
+240||Umiejętność wroga [852703] (ulepszenie 1) — nazwa] 마하수리|Mahāsrī
+241||Umiejętność wroga [852703] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 보호 3 부여|[WhenUse] Give 3 Protection next turn
+242||Umiejętność wroga [852704] (ulepszenie 1) — nazwa] 사바하|Svāhā
+243||Umiejętność wroga [852704] (ulepszenie 1) — opis] [WhenUse] 다음 턴에 피해량 증가 3 부여|[WhenUse] Give 3 Damage Up next turn
+244||Umiejętność wroga [852705] (ulepszenie 1) — nazwa] 반야바라밀|Prajñāpāramitā
+245||Umiejętność wroga [852705] (ulepszenie 1) — opis] [CantIdentify] 업보가 가장 높은 대상에게 사용\n대상의 업보에 비례하여 피해량 증가(업보당 +2%)\n업보가 없는 대상에게는 피해량 -50%|[CantIdentify] Targets the unit with the most Karma\nDeal more damage based on target’s Karma (+2% per Count)\nIf target has no Karma, -50% Damage
+246||Umiejętność wroga [852705] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 대상에게 업보가 있으면 업보 50 부여|[OnSucceedAttack] If target has Karma, inflict 50 Karma
+247||Umiejętność wroga [852706] (ulepszenie 1) — nazwa] 참선|Dhyāna
+248||Umiejętność wroga [852706] (ulepszenie 1) — opis] [WinDuel] 자신에게 부여된 부정적 효과를 절반으로 감소시킴|[WinDuel] Halve negative status effects on this unit
+249||Umiejętność wroga [852706] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여|[OnSucceedAttack] Inflict 2 Attack Power Down next turn
+250||Umiejętność wroga [852707] (ulepszenie 1) — nazwa] 강제공양|Compulsory Offering
+251||Umiejętność wroga [852707] (ulepszenie 1) — opis] [DefeatDuel] 자신을 제외한 무작위 아군 1명에게 업보 20 부여|[DefeatDuel] Apply 20 Karma to a random other ally next turn
+252||Umiejętność wroga [852707] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 업보를 20 부여|[OnSucceedAttack] Inflict 20 Karma
+253||Umiejętność wroga [852708] (ulepszenie 1) — nazwa] 죽비타작|Sluggard Waker
+255||Umiejętność wroga [852708] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 업보를 10 부여|[OnSucceedAttack] Inflict 10 Karma
+257||Umiejętność wroga [852709] (ulepszenie 1) — nazwa] 만트라|Mantra
+258||Umiejętność wroga [852709] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 무작위 속성의 E.G.O 자원을 3개 제거|[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity
+261||Umiejętność wroga [852710] (ulepszenie 1) — opis] [CantDuel]|[CantDuel]
+262||Umiejętność wroga [852710] (ulepszenie 1) — moneta 1, efekt 1 — opis] [OnSucceedAttack] 순환 1 부여|[OnSucceedAttack] Inflict 1 Samsara
+263||Umiejętność wroga [852710] (ulepszenie 1) — moneta 1, efekt 2 — opis] [OnSucceedAttackHead] 다음 턴에 마비 3 부여|[OnSucceedAttackHead] Inflict 3 Paralyze next turn
