@@ -43,7 +43,7 @@
       "origin": "ai"
     },
     "dataList[id=836602].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=836603].name": {
-      "pl": "Right Arm",
+      "pl": "Prawe Ramię",
       "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
       "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
       "origin": "ai"

@@ -7,7 +7,7 @@
       "origin": "ai"
     },
     "dataList[id=853901].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -19,13 +19,13 @@
       "origin": "ai"
     },
     "dataList[id=853902].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8539].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -43,13 +43,13 @@
       "origin": "ai"
     },
     "dataList[id=854001].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8540].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -67,7 +67,7 @@
       "origin": "ai"
     },
     "dataList[id=854101].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -79,13 +79,13 @@
       "origin": "ai"
     },
     "dataList[id=854102].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8541].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -103,7 +103,7 @@
       "origin": "ai"
     },
     "dataList[id=854201].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -115,13 +115,13 @@
       "origin": "ai"
     },
     "dataList[id=854202].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
     },
     "dataList[id=8542].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -139,13 +139,13 @@
       "origin": "ai"
     },
     "dataList[id=854301].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8543].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -163,7 +163,7 @@
       "origin": "ai"
     },
     "dataList[id=854401].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -175,13 +175,13 @@
       "origin": "ai"
     },
     "dataList[id=854402].name": {
-      "pl": "Right Arm",
+      "pl": "Prawe Ramię",
       "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
       "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
       "origin": "ai"
     },
     "dataList[id=8544].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -199,7 +199,7 @@
       "origin": "ai"
     },
     "dataList[id=854501].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -211,7 +211,7 @@
       "origin": "ai"
     },
     "dataList[id=854502].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
@@ -223,13 +223,13 @@
       "origin": "ai"
     },
     "dataList[id=854503].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8545].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -247,13 +247,13 @@
       "origin": "ai"
     },
     "dataList[id=854601].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8546].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -271,7 +271,7 @@
       "origin": "ai"
     },
     "dataList[id=854701].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -283,13 +283,13 @@
       "origin": "ai"
     },
     "dataList[id=854702].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
     },
     "dataList[id=8547].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -307,13 +307,13 @@
       "origin": "ai"
     },
     "dataList[id=854801].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8548].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -343,13 +343,13 @@
       "origin": "ai"
     },
     "dataList[id=854902].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8549].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=8550].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -403,13 +403,13 @@
       "origin": "ai"
     },
     "dataList[id=855101].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8551].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -427,7 +427,7 @@
       "origin": "ai"
     },
     "dataList[id=855501].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -445,7 +445,7 @@
       "origin": "ai"
     },
     "dataList[id=8555].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -481,7 +481,7 @@
       "origin": "ai"
     },
     "dataList[id=8556].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -499,13 +499,13 @@
       "origin": "ai"
     },
     "dataList[id=855701].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8557].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -523,13 +523,13 @@
       "origin": "ai"
     },
     "dataList[id=855801].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8558].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -547,13 +547,13 @@
       "origin": "ai"
     },
     "dataList[id=855901].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8559].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -577,7 +577,7 @@
       "origin": "ai"
     },
     "dataList[id=8560].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -601,7 +601,7 @@
       "origin": "ai"
     },
     "dataList[id=8561].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -625,7 +625,7 @@
       "origin": "ai"
     },
     "dataList[id=8562].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -649,7 +649,7 @@
       "origin": "ai"
     },
     "dataList[id=8563].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -673,7 +673,7 @@
       "origin": "ai"
     },
     "dataList[id=8564].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -697,7 +697,7 @@
       "origin": "ai"
     },
     "dataList[id=8565].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -721,7 +721,7 @@
       "origin": "ai"
     },
     "dataList[id=8566].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=8567].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -769,7 +769,7 @@
       "origin": "ai"
     },
     "dataList[id=8568].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -793,7 +793,7 @@
       "origin": "ai"
     },
     "dataList[id=8569].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -817,7 +817,7 @@
       "origin": "ai"
     },
     "dataList[id=8570].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"

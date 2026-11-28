@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=9018403].levelList[level=1].name": {
-      "pl": "Wild Swipe",
+      "pl": "Atak na Oślep",
       "kr_sha256": "194e20744f216d4e83d90e58f62ee14eb3465967470fffe54fe8fe1c6b05d411",
       "en_sha256": "0a04d24a44ff839c2cee72d3b6fb7fabfaf9ba70575e82183233c18e6a7ad039",
       "origin": "ai"
@@ -667,7 +667,7 @@
       "origin": "ai"
     },
     "dataList[id=9019401].levelList[level=1].name": {
-      "pl": "Slice",
+      "pl": "Rozcięcie",
       "kr_sha256": "ed8c4301cb5e0ca439e377eed4bd9f4201c6574e6e0c580dbe7ec8d5e67cb383",
       "en_sha256": "87bd786502645b41722cc9421c3b8b79c1a64b1ab6e44eb856cdf1c1efc54b1d",
       "origin": "ai"

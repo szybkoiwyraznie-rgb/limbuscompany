@@ -19,19 +19,19 @@
       "origin": "ai"
     },
     "dataList[id=874102].name": {
-      "pl": "Right Arm",
+      "pl": "Prawe Ramię",
       "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
       "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
       "origin": "ai"
     },
     "dataList[id=8741].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8741].name": {
-      "pl": "So That No One Will Cry",
+      "pl": "By Nikt Nie Płakał",
       "kr_sha256": "2c54ae6796f8f632ca927767e50556d5f7ea02e127cf782f8a6fc4423a34d8c6",
       "en_sha256": "5b0d4e31944a59cebca590808f82da35e272f3b52ec801ab3aa76c70685b457e",
       "origin": "ai"
@@ -55,19 +55,19 @@
       "origin": "ai"
     },
     "dataList[id=874202].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8742].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8742].name": {
-      "pl": "Drifting Fox",
+      "pl": "Błędny Lis",
       "kr_sha256": "89816fbc3d677c96a580e8d7787174df113e4d53ae315fa8752e23e2cfb18655",
       "en_sha256": "e2489665ce5d9394091f7c4661aed43aeedab65fa54aa178dc5870a4a83000a9",
       "origin": "ai"
@@ -79,19 +79,19 @@
       "origin": "ai"
     },
     "dataList[id=874301].name": {
-      "pl": "Umbrella",
+      "pl": "Parasol",
       "kr_sha256": "8b6f9142a49be5004b826f6fa230097437e7e73849a3fd80aab2f39ca9c4239c",
       "en_sha256": "e4d775da5e6b87af8a0d5e19d5f25a31681e3c38243577ed4e6580ff5c0316d7",
       "origin": "ai"
     },
     "dataList[id=8743].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8743].name": {
-      "pl": "Old Umbrella",
+      "pl": "Stary Parasol",
       "kr_sha256": "e600f390be1b6d653bbfa81d13f2337eee32d83e9532d22ef739d439b1dcc576",
       "en_sha256": "9639c6881760ceeb749cc289d1c55d0f596dde550e2863b4192882d5c9b6b7cd",
       "origin": "ai"
@@ -115,19 +115,19 @@
       "origin": "ai"
     },
     "dataList[id=874402].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
     },
     "dataList[id=8744].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8744].name": {
-      "pl": "Fairy Gentleman",
+      "pl": "Wróżkowy Dżentelmen",
       "kr_sha256": "e23e5a9a7e2c1c1d68583f7f74a8a123325ae1fc90cc99cbe0c86f75d7b1b0f0",
       "en_sha256": "9e73cfce0aad0c0e914038930f9d254c361d6e551c16a7797e29a2293f8535b8",
       "origin": "ai"
@@ -139,19 +139,19 @@
       "origin": "ai"
     },
     "dataList[id=874501].name": {
-      "pl": "Wine Barrel",
+      "pl": "Beczka Wina",
       "kr_sha256": "7fa2832006774d8a53c94f2aff1516bef03d0472471ca31676e9f09168276e32",
       "en_sha256": "40352298236059364679cf137c1a1d8c5e1c1dad3527a3a5f631813129a230ab",
       "origin": "ai"
     },
     "dataList[id=8745].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8745].name": {
-      "pl": "Fairy Wine",
+      "pl": "Wino Wróżek",
       "kr_sha256": "8e8b5db1eb126bda14ac0a45ab8cb41439071c8dc247c42dac6f9a2ed0adb9e5",
       "en_sha256": "7241d6136a309ddf6a1099ed2d7d8486868743cd3f8b2731e062e8e0a13ad2ff",
       "origin": "ai"
@@ -175,7 +175,7 @@
       "origin": "ai"
     },
     "dataList[id=874602].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
@@ -187,19 +187,19 @@
       "origin": "ai"
     },
     "dataList[id=874603].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8746].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8746].name": {
-      "pl": "Fairy-Long-Legs",
+      "pl": "Długonoga Wróżka",
       "kr_sha256": "3f9fdc150789304a9c321e502144e7f271541222a769fdd130571b5f204cfd20",
       "en_sha256": "a7430a50b0b5cb78f5cc5503028f7e61f6df160ad67db8d5b58152bf2def9804",
       "origin": "ai"
@@ -217,13 +217,13 @@
       "origin": "ai"
     },
     "dataList[id=8747].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8747].name": {
-      "pl": "Giant Leaf",
+      "pl": "Wielki Liść",
       "kr_sha256": "451874ab24e38264b98a918086c2af03fb46168ecbfd68933c2df76ff69ca175",
       "en_sha256": "9c714d11211cb79a8968a54febb20dcfe2fda35358ec62571e7bb3cca6805058",
       "origin": "ai"
@@ -247,19 +247,19 @@
       "origin": "ai"
     },
     "dataList[id=874802].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8748].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8748].name": {
-      "pl": "Brazen Bull - Tearful",
+      "pl": "Spiżowy Byk — Łzawiący",
       "kr_sha256": "1c5404374e42d495151949e75d4b56fca0555a5ee1f7f915e30087ffc610925c",
       "en_sha256": "6074430456a3f06815d5d23e7a71bc47e108fc2523d05c13c5733d2744b8cca2",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=8749].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -295,19 +295,19 @@
       "origin": "ai"
     },
     "dataList[id=875001].name": {
-      "pl": "Heart",
+      "pl": "Serce",
       "kr_sha256": "30483f3eb547bac0e5d4a46745832fed67ffcb4b431f6232932c7a2b5dcb6756",
       "en_sha256": "770af9d180375fa9c3d29a50c124a04f538b277e1ed94ec20be8e244820d6534",
       "origin": "ai"
     },
     "dataList[id=8750].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8750].name": {
-      "pl": "Heart of the Townsfolk",
+      "pl": "Serce Mieszkańca Miasteczka",
       "kr_sha256": "f93bf33081807214d7fbc1f239e2c07aa375e908145d6c724c6d8188a4bf0cc8",
       "en_sha256": "8fa6b1691c0d371b207810914d5c0ef864c07b8ccf14344e0074acc22834dca9",
       "origin": "ai"
@@ -331,7 +331,7 @@
       "origin": "ai"
     },
     "dataList[id=875102].name": {
-      "pl": "Left Eye",
+      "pl": "Lewe Oko",
       "kr_sha256": "275a02cbc68937de699f63afe378c84ad71842dd05b38c71678481e72df70f62",
       "en_sha256": "4c96d10f1b2a258854c50e881da84c6d1f2e8fb9ce0d4209858a6fd8dce33190",
       "origin": "ai"
@@ -343,25 +343,25 @@
       "origin": "ai"
     },
     "dataList[id=875103].name": {
-      "pl": "Right Eye",
+      "pl": "Prawe Oko",
       "kr_sha256": "098bc9b2cf5711c6286d9307bc053fe6077fe01bb0e4f3298d884d8fa10d6b2b",
       "en_sha256": "e61f105538b06eca91802f8432ef7058b606ba5ad331b10fdd091e8736f8a9be",
       "origin": "ai"
     },
     "dataList[id=8751].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8751].name": {
-      "pl": "Blubbering Toad",
+      "pl": "Szlochająca Ropucha",
       "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
       "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
       "origin": "ai"
     },
     "dataList[id=90083].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -373,7 +373,7 @@
       "origin": "ai"
     },
     "dataList[id=90084].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -385,7 +385,7 @@
       "origin": "ai"
     },
     "dataList[id=90085].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=90086].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=90087].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -421,7 +421,7 @@
       "origin": "ai"
     },
     "dataList[id=91011].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=91012].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -445,121 +445,121 @@
       "origin": "ai"
     },
     "dataList[id=97401].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97401].name": {
-      "pl": "Terrified K Corp. Checkpoint Security",
+      "pl": "Przerażony Strażnik Punktu Kontrolnego K Corp.",
       "kr_sha256": "bc8901a5b2387c69022f5788c15a84b9b6fe28f02bb8b3a2eeec344b6f08fbbb",
       "en_sha256": "910f16333a2ff4e1d1635a209d99667e0bb03fe5e350b4c3ebfa51553c1ff9b2",
       "origin": "ai"
     },
     "dataList[id=97402].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97402].name": {
-      "pl": "Stiffened K Corp. Checkpoint Security",
+      "pl": "Skamieniały Strażnik Punktu Kontrolnego K Corp.",
       "kr_sha256": "ff5aa12aff31d9762db64458655431390cce3590996b6b9d1c6fdf3ffab4d46a",
       "en_sha256": "422ab5484ec42d701b70d082a7efb72d06de790c8bf46cb69c34ac33abfc6b6d",
       "origin": "ai"
     },
     "dataList[id=97403].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97403].name": {
-      "pl": "Threatened K Corp. Class 1 Staff",
+      "pl": "Zastraszony Pracownik 1. Klasy K Corp.",
       "kr_sha256": "0352ed93e2d905787588b0931602c6f89b943e124bd61b57752daabbde0f68de",
       "en_sha256": "083c38da8161c81ea1d868a6b1714ae69761e70a850fe4bff5e6c98982ccea30",
       "origin": "ai"
     },
     "dataList[id=97404].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97404].name": {
-      "pl": "Unnerved K Corp. Class 1 Staff",
+      "pl": "Zaniepokojony Pracownik 1. Klasy K Corp.",
       "kr_sha256": "e1d8b1134e78076cffa685feb6f8d4e2ef2a5107dd118757516a0444276e50e4",
       "en_sha256": "c96a69f1e8c5123c0168d5f0189c0ea3c435c2a7bc14818b6f6911104cdd5d04",
       "origin": "ai"
     },
     "dataList[id=97405].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97405].name": {
-      "pl": "Hacked K Corp. Regen Drone",
+      "pl": "Zhakowany Dron Regeneracyjny K Corp.",
       "kr_sha256": "02fc6a36170ad913bfef40bd9026463cd22eebafeff79eb0d168056c9a7ae9a2",
       "en_sha256": "65817a48258e2e2f1bc60c58d96b84309792914d051615a12d9084e0e7241dcb",
       "origin": "ai"
     },
     "dataList[id=97406].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97406].name": {
-      "pl": "Revived K Corp. Security",
+      "pl": "Ożywiony Strażnik K Corp.",
       "kr_sha256": "e1b859357fcfe5249ad8927ff707146b1bebf425ff53f1b5111d82e45f05feb8",
       "en_sha256": "c837e1883d921e0e870e7bfa7219dd2216bcc37f68c8251552dc55bdd3127663",
       "origin": "ai"
     },
     "dataList[id=97407].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97407].name": {
-      "pl": "Revived K Corp. Security",
+      "pl": "Ożywiony Strażnik K Corp.",
       "kr_sha256": "e1b859357fcfe5249ad8927ff707146b1bebf425ff53f1b5111d82e45f05feb8",
       "en_sha256": "c837e1883d921e0e870e7bfa7219dd2216bcc37f68c8251552dc55bdd3127663",
       "origin": "ai"
     },
     "dataList[id=97408].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97408].name": {
-      "pl": "Revived K Corp. Class 1 Staff",
+      "pl": "Ożywiony Pracownik 1. Klasy K Corp.",
       "kr_sha256": "5ef0c900cec119a3d5dfcb3228c890e0c3fed65cc657c619a931249ee2cb4ff8",
       "en_sha256": "71cf6323a2ddd1e8ccf952fdcc31d6ff2182b56a78d6223343116cbeca9226b1",
       "origin": "ai"
     },
     "dataList[id=97409].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97409].name": {
-      "pl": "Revived K Corp. Class 1 Staff",
+      "pl": "Ożywiony Pracownik 1. Klasy K Corp.",
       "kr_sha256": "5ef0c900cec119a3d5dfcb3228c890e0c3fed65cc657c619a931249ee2cb4ff8",
       "en_sha256": "71cf6323a2ddd1e8ccf952fdcc31d6ff2182b56a78d6223343116cbeca9226b1",
       "origin": "ai"
     },
     "dataList[id=97410].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=97410].name": {
-      "pl": "Revived K Corp. Class 3 Empowered Staff",
+      "pl": "Ożywiony Pracownik 3. Klasy K Corp. — Wzmocniony",
       "kr_sha256": "053b47bf79d74d35d60b6c85d8f1f92fb78051ce38f116bedb302244093905c9",
       "en_sha256": "354d7c1d784060d47f72e4dc84e0ea5d9e15670dd39f0444dc2ed3528a375a0e",
       "origin": "ai"

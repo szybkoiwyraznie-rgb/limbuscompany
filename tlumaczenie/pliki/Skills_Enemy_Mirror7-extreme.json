@@ -25,7 +25,7 @@
       "origin": "ai"
     },
     "dataList[id=7104701].levelList[level=1].name": {
-      "pl": "Raid",
+      "pl": "Szturm",
       "kr_sha256": "7bfcad71ec5cdb5d2aa8e49accec9733cf7a59ac013ee8259bd7d63ef17b34b9",
       "en_sha256": "7dabeb6342b33d863483f6c40284dd16b780f9a7f41bebbeed9e61e9c6f76497",
       "origin": "ai"
@@ -49,7 +49,7 @@
       "origin": "ai"
     },
     "dataList[id=7104702].levelList[level=1].name": {
-      "pl": "Neutralize Target",
+      "pl": "Unieszkodliwienie Celu",
       "kr_sha256": "1a9c411c06aae5c3b3f66d651a3aed042915fdebeddf6ce115eb2c42c1b904f2",
       "en_sha256": "73fb327166af80738dfec0140cddde0a6039ec5724aeeb445c3b28ade33bca19",
       "origin": "ai"
@@ -61,7 +61,7 @@
       "origin": "ai"
     },
     "dataList[id=7104703].levelList[level=1].name": {
-      "pl": "Activate HP Bullet",
+      "pl": "Aktywacja Pocisków HP",
       "kr_sha256": "8e558e9d37439c562574a07fee365c86e9b5943348e523812b8aebc424e1847c",
       "en_sha256": "8be74878ef2b3db5eeda9d6ed6605d3a2933248a2432411e7b0c4ce4ae02fe71",
       "origin": "ai"
@@ -79,7 +79,7 @@
       "origin": "ai"
     },
     "dataList[id=7104704].levelList[level=1].name": {
-      "pl": "Takedown",
+      "pl": "Stłumienie",
       "kr_sha256": "25719563dd7545c67e65d145e11ba77ad4153dd45a4f9f58e95a3a5273c1cecc",
       "en_sha256": "d4e3275abcae6ce4a31f3797b2940aef3ee8c7b78c712d601ad51a94918c5191",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=7104801].levelList[level=1].name": {
-      "pl": "Activate HP Bullet",
+      "pl": "Aktywacja Pocisków HP",
       "kr_sha256": "8e558e9d37439c562574a07fee365c86e9b5943348e523812b8aebc424e1847c",
       "en_sha256": "8be74878ef2b3db5eeda9d6ed6605d3a2933248a2432411e7b0c4ce4ae02fe71",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=7104803].levelList[level=1].name": {
-      "pl": "Cover",
+      "pl": "Osłona",
       "kr_sha256": "a0380760d1510904caf185b81cb3081769a552cc7518c77521721e70ed7f4daa",
       "en_sha256": "fa8d84566676ee2ee6627116304e7eef7c9b06875d230435a4b23264fcc34f98",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=7104903].levelList[level=1].name": {
-      "pl": "Forbid Entry",
+      "pl": "Blokada Wejścia",
       "kr_sha256": "9a1c17324ae7647bfbdd42f43186bc7be2ade1edf9132efe48188f2f790280ec",
       "en_sha256": "208528a9841f9f658ea55928edbcf921ea71461600e19a9caefa172e73faab88",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=7105001].levelList[level=1].name": {
-      "pl": "Suspicious Individuals",
+      "pl": "Wykryto Podejrzanych",
       "kr_sha256": "16da4af6f96cafdbfb3df03f6cd7af16542d9cbd757f54e02a2c1a1c07728c2f",
       "en_sha256": "5cdd9c9c80c760252e31137125045d478bbd4ffc82b89c6448d5d967c79df0b8",
       "origin": "ai"
@@ -283,7 +283,7 @@
       "origin": "ai"
     },
     "dataList[id=7105003].levelList[level=1].name": {
-      "pl": "No Trespassing",
+      "pl": "Blokada Podejrzanych",
       "kr_sha256": "032a3cfe31e9cac85788f34441e0c2b817437d7d0de990330dc4e1572aa4eb35",
       "en_sha256": "fc4938e6fd5fcfc8857c223da07f7b611bb335264266bf4639cbfaedf662fb20",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=7105101].levelList[level=1].name": {
-      "pl": "Kii",
+      "pl": "Skrii",
       "kr_sha256": "f2461ede022f5aa0f4ab6088a53bb773890b557a7568b87a55b3efd27a6b5be1",
       "en_sha256": "fd4244f74325a2f7b8a6ea79e5fd1344be5097de4f33bd1e168c1dec842304ff",
       "origin": "ai"
@@ -325,7 +325,7 @@
       "origin": "ai"
     },
     "dataList[id=7105102].levelList[level=1].name": {
-      "pl": "Kiih",
+      "pl": "Skriik",
       "kr_sha256": "e640900e7577c4275350ed6cd04f057d292e7f6fab3e2a50553a2d4d0a8b992d",
       "en_sha256": "155a8cab79abb1debcd0c34cdd3f2e4d364ffcf3745e6de7a3a2e9b466f2b88e",
       "origin": "ai"
@@ -355,7 +355,7 @@
       "origin": "ai"
     },
     "dataList[id=7105201].levelList[level=1].name": {
-      "pl": "Kiih",
+      "pl": "Skriik",
       "kr_sha256": "e640900e7577c4275350ed6cd04f057d292e7f6fab3e2a50553a2d4d0a8b992d",
       "en_sha256": "155a8cab79abb1debcd0c34cdd3f2e4d364ffcf3745e6de7a3a2e9b466f2b88e",
       "origin": "ai"
@@ -379,7 +379,7 @@
       "origin": "ai"
     },
     "dataList[id=7105202].levelList[level=1].name": {
-      "pl": "Kiieeh",
+      "pl": "Skriiiek",
       "kr_sha256": "fc7e33f255049abedef70242e47b7f335b0f1c8905d86cf6268547984fd2c25a",
       "en_sha256": "424e18032644d14ec5cc4efb1aa81d6623bbff7d1b5fa4ee173397954ce954a3",
       "origin": "ai"
@@ -409,7 +409,7 @@
       "origin": "ai"
     },
     "dataList[id=7105301].levelList[level=1].name": {
-      "pl": "Kigik!",
+      "pl": "Skrik!",
       "kr_sha256": "3559065530cdbdedd69e837c61bd99c7e2f0d0ad693ff63774729efe5027a3aa",
       "en_sha256": "2621f31083c1ae768373507f25db3a6ead02c16fc6ad3612bb690c9678973d76",
       "origin": "ai"
@@ -433,7 +433,7 @@
       "origin": "ai"
     },
     "dataList[id=7105302].levelList[level=1].name": {
-      "pl": "Kieek!",
+      "pl": "Skiek!",
       "kr_sha256": "102178556ed08d1f16faa0b60cee66fcfc94c66daac4dd6b4c20ac8b11f304d4",
       "en_sha256": "76655642c345539cad6ecbc1392b217605c5535c960467b64aac50ed688ced0c",
       "origin": "ai"
@@ -469,7 +469,7 @@
       "origin": "ai"
     },
     "dataList[id=7105401].levelList[level=1].name": {
-      "pl": "Kigigiik",
+      "pl": "Skrikiik",
       "kr_sha256": "39efc2bb5eaf67edf082dc725a6096bd80c1b1c5d7dbcbf87e9ea17d726f38b3",
       "en_sha256": "18f884f541a6d4f3b24b0342d69fd3536d96ab377358f9c0e0b13a9d529620dd",
       "origin": "ai"
@@ -493,7 +493,7 @@
       "origin": "ai"
     },
     "dataList[id=7105402].levelList[level=1].name": {
-      "pl": "Kigigiik",
+      "pl": "Skrikiik",
       "kr_sha256": "39efc2bb5eaf67edf082dc725a6096bd80c1b1c5d7dbcbf87e9ea17d726f38b3",
       "en_sha256": "18f884f541a6d4f3b24b0342d69fd3536d96ab377358f9c0e0b13a9d529620dd",
       "origin": "ai"
@@ -517,7 +517,7 @@
       "origin": "ai"
     },
     "dataList[id=7105403].levelList[level=1].name": {
-      "pl": "Kieegikhik",
+      "pl": "Skriikki",
       "kr_sha256": "9ae6237f20675679c02a6cf4a55ed3f7b6e6af6574c545daab1c05734f99ba1e",
       "en_sha256": "5e31266fd016525baa4b4208f8fad6b73e17d771b25c249ee26994764b9d5b43",
       "origin": "ai"
@@ -559,7 +559,7 @@
       "origin": "ai"
     },
     "dataList[id=7105501].levelList[level=1].name": {
-      "pl": "Raid",
+      "pl": "Szturm",
       "kr_sha256": "7bfcad71ec5cdb5d2aa8e49accec9733cf7a59ac013ee8259bd7d63ef17b34b9",
       "en_sha256": "7dabeb6342b33d863483f6c40284dd16b780f9a7f41bebbeed9e61e9c6f76497",
       "origin": "ai"
@@ -589,7 +589,7 @@
       "origin": "ai"
     },
     "dataList[id=7105502].levelList[level=1].name": {
-      "pl": "Neutralize Target",
+      "pl": "Unieszkodliwienie Celu",
       "kr_sha256": "1a9c411c06aae5c3b3f66d651a3aed042915fdebeddf6ce115eb2c42c1b904f2",
       "en_sha256": "73fb327166af80738dfec0140cddde0a6039ec5724aeeb445c3b28ade33bca19",
       "origin": "ai"
@@ -601,7 +601,7 @@
       "origin": "ai"
     },
     "dataList[id=7105503].levelList[level=1].name": {
-      "pl": "Activate HP Bullet",
+      "pl": "Aktywacja Pocisków HP",
       "kr_sha256": "8e558e9d37439c562574a07fee365c86e9b5943348e523812b8aebc424e1847c",
       "en_sha256": "8be74878ef2b3db5eeda9d6ed6605d3a2933248a2432411e7b0c4ce4ae02fe71",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=7105602].levelList[level=1].name": {
-      "pl": "Blockade",
+      "pl": "Powstrzymanie",
       "kr_sha256": "a3df5b29809c0bef64ffdcbb5bdef46612083cef89998dc9d0641c4038d57a05",
       "en_sha256": "54b3013a168c4991f99accd2a9405ed9ca2f7f313b4158b6dc47a5f4187cc474",
       "origin": "ai"
@@ -661,7 +661,7 @@
       "origin": "ai"
     },
     "dataList[id=7105603].levelList[level=1].name": {
-      "pl": "Cover",
+      "pl": "Osłona",
       "kr_sha256": "a0380760d1510904caf185b81cb3081769a552cc7518c77521721e70ed7f4daa",
       "en_sha256": "fa8d84566676ee2ee6627116304e7eef7c9b06875d230435a4b23264fcc34f98",
       "origin": "ai"
@@ -727,7 +727,7 @@
       "origin": "ai"
     },
     "dataList[id=7105703].levelList[level=1].name": {
-      "pl": "Forbid Entry",
+      "pl": "Blokada Wejścia",
       "kr_sha256": "9a1c17324ae7647bfbdd42f43186bc7be2ade1edf9132efe48188f2f790280ec",
       "en_sha256": "208528a9841f9f658ea55928edbcf921ea71461600e19a9caefa172e73faab88",
       "origin": "ai"
@@ -745,7 +745,7 @@
       "origin": "ai"
     },
     "dataList[id=7105801].levelList[level=1].name": {
-      "pl": "Suspicious Individuals",
+      "pl": "Wykryto Podejrzanych",
       "kr_sha256": "16da4af6f96cafdbfb3df03f6cd7af16542d9cbd757f54e02a2c1a1c07728c2f",
       "en_sha256": "5cdd9c9c80c760252e31137125045d478bbd4ffc82b89c6448d5d967c79df0b8",
       "origin": "ai"
@@ -823,7 +823,7 @@
       "origin": "ai"
     },
     "dataList[id=7105803].levelList[level=1].name": {
-      "pl": "No Trespassing",
+      "pl": "Blokada Podejrzanych",
       "kr_sha256": "032a3cfe31e9cac85788f34441e0c2b817437d7d0de990330dc4e1572aa4eb35",
       "en_sha256": "fc4938e6fd5fcfc8857c223da07f7b611bb335264266bf4639cbfaedf662fb20",
       "origin": "ai"

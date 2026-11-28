@@ -1,43 +1,43 @@
 {
   "entries": {
     "dataList[id=1288].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1288].name": {
-      "pl": "The Last Knight",
+      "pl": "Ostatni Rycerz",
       "kr_sha256": "d2bc0bf6bc6b39dbc646a9775bd2dc269332a0f8e466616127c752068cf54ca6",
       "en_sha256": "1ca23c2971d340c9b4227a47b28f02d0cf71db4c7c81f2671efd1867280cb0e4",
       "origin": "ai"
     },
     "dataList[id=1289].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1289].name": {
-      "pl": "Swift Cultist of the Deep",
+      "pl": "Zwinny Wyznawca Głębin",
       "kr_sha256": "dffc4249dbeb38977196c72b8c91459ba81739446c6c3775f9ee901a339e9720",
       "en_sha256": "d8f0de263d919ba45352db4a6d70a51761055cb51fbc4ab466bde2b553bb6896",
       "origin": "ai"
     },
     "dataList[id=1290].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1290].name": {
-      "pl": "Steadfast Cultist of the Deep",
+      "pl": "Wytrwały Wyznawca Głębin",
       "kr_sha256": "1403472e4ac70aca1da25a8c9200f7f7fa8e7884d8c0d5d4a27dc6551fcaaa40",
       "en_sha256": "db2db1329239c60819121ebc55c0ba307d284d073dd377f2bac3a16ca9c296b5",
       "origin": "ai"
     },
     "dataList[id=1291].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -49,79 +49,79 @@
       "origin": "ai"
     },
     "dataList[id=1292].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1292].name": {
-      "pl": "Shell Sea Runner",
+      "pl": "Biegacz Wybrzeża",
       "kr_sha256": "8acc81a9142326a862f5e6f1809547be9298c9768d471838f86a34757428c89d",
       "en_sha256": "d8d693590842ec8d361aca83e7d0337c9da3d561be3eb7d61834f41742e0a0cb",
       "origin": "ai"
     },
     "dataList[id=1293].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1293].name": {
-      "pl": "Deep Sea Slider",
+      "pl": "Ślizgacz Morskiej Niziny",
       "kr_sha256": "051bce44492bb36756f9b73f798d1811149a69c13303284ddbadc4d3f1ce20d5",
       "en_sha256": "6d0bc2343c54cebbdbd4dcb77bbcb0f9f1c56531d55ddf445772c48249f8add9",
       "origin": "ai"
     },
     "dataList[id=1294].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1294].name": {
-      "pl": "Basin Sea Reaper",
+      "pl": "Żniwiarz Morskiej Niecki",
       "kr_sha256": "4ab12dd3ef213abaebba0ce0884691ecc45c1914579721ae4f27b421c115d49a",
       "en_sha256": "ccf9827be9a0a3dc22894952d2f35fe47729f925c2d75d006509b68f89bad9d6",
       "origin": "ai"
     },
     "dataList[id=1295].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1295].name": {
-      "pl": "Nethersea Founder",
+      "pl": "Założyciel Głębin",
       "kr_sha256": "3a6dd3f56fa8e5d8e4c90b460329d1e0db13d3cf5ed115304b85fe77776e14a3",
       "en_sha256": "faed911d154cd8f01fcf9a1762ef58a5344f7738ff74aadb2d60d3dc8230abe9",
       "origin": "ai"
     },
     "dataList[id=1296].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1296].name": {
-      "pl": "Nethersea Spewer",
+      "pl": "Wydzielacz Głębin",
       "kr_sha256": "427e0d2b3a7f3ca330ad4d764765de3bbe9ac21c5d0cb94d8227d702c7f952ce",
       "en_sha256": "6c0957045b23b577e5764d8f8cdb5c1fe6ac83da15a82f6f36365d34dfa22593",
       "origin": "ai"
     },
     "dataList[id=1297].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1297].name": {
-      "pl": "Mayors, the Yearning Flotsam",
+      "pl": "Mayors, Tęskniący Dryf",
       "kr_sha256": "6350803296394a10781ecdd3b0d2204ecf88ae20a8e285646eb0bb81b2716eeb",
       "en_sha256": "c0f98c9c6129150e639b03b2b1eb0f40093621155cc481e91fb5601929e8ec09",
       "origin": "ai"
     },
     "dataList[id=1298].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -139,79 +139,79 @@
       "origin": "ai"
     },
     "dataList[id=129901].name": {
-      "pl": "Device",
+      "pl": "Urządzenie",
       "kr_sha256": "e13f0cd95a1889b76fd0fd96c43af02c6fa2265d5dafc50f8dc2425aa541754c",
       "en_sha256": "6ba0bdeccb426d7b2ccb601c4e07015f50b6b427ec52c93a3b95f2245b67bdd4",
       "origin": "ai"
     },
     "dataList[id=1299].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=1299].name": {
-      "pl": "Hand of the Saint",
+      "pl": "Dłoń Świętego",
       "kr_sha256": "0968a0eedb450aa7bd9c447c1852e5e97f8be3f787331f8d776ebf124baa1a9c",
       "en_sha256": "62f599ca33c2a390450e4653e8202ca7067f59bc9dde7c40ebd33736c1ef1adb",
       "origin": "ai"
     },
     "dataList[id=91027].desc": {
-      "pl": "Regular Enemy",
+      "pl": "Standardowy Wróg",
       "kr_sha256": "25329d1d3d62463c8aae7d7297be9b0a023efb169fdda8a18cdc26a444c88b14",
       "en_sha256": "28140ff2f21f096290efafc64cd464087ace75812579ed922cda2bae9681170f",
       "origin": "ai"
     },
     "dataList[id=91027].name": {
-      "pl": "Shell Sea Runner",
+      "pl": "Biegacz Wybrzeża",
       "kr_sha256": "8acc81a9142326a862f5e6f1809547be9298c9768d471838f86a34757428c89d",
       "en_sha256": "d8d693590842ec8d361aca83e7d0337c9da3d561be3eb7d61834f41742e0a0cb",
       "origin": "ai"
     },
     "dataList[id=91028].desc": {
-      "pl": "Regular Enemy",
+      "pl": "Standardowy Wróg",
       "kr_sha256": "25329d1d3d62463c8aae7d7297be9b0a023efb169fdda8a18cdc26a444c88b14",
       "en_sha256": "28140ff2f21f096290efafc64cd464087ace75812579ed922cda2bae9681170f",
       "origin": "ai"
     },
     "dataList[id=91028].name": {
-      "pl": "Deep Sea Slider",
+      "pl": "Ślizgacz Morskiej Niziny",
       "kr_sha256": "051bce44492bb36756f9b73f798d1811149a69c13303284ddbadc4d3f1ce20d5",
       "en_sha256": "6d0bc2343c54cebbdbd4dcb77bbcb0f9f1c56531d55ddf445772c48249f8add9",
       "origin": "ai"
     },
     "dataList[id=91029].desc": {
-      "pl": "Regular Enemy",
+      "pl": "Standardowy Wróg",
       "kr_sha256": "25329d1d3d62463c8aae7d7297be9b0a023efb169fdda8a18cdc26a444c88b14",
       "en_sha256": "28140ff2f21f096290efafc64cd464087ace75812579ed922cda2bae9681170f",
       "origin": "ai"
     },
     "dataList[id=91029].name": {
-      "pl": "Basin Sea Reaper",
+      "pl": "Żniwiarz Morskiej Niecki",
       "kr_sha256": "4ab12dd3ef213abaebba0ce0884691ecc45c1914579721ae4f27b421c115d49a",
       "en_sha256": "ccf9827be9a0a3dc22894952d2f35fe47729f925c2d75d006509b68f89bad9d6",
       "origin": "ai"
     },
     "dataList[id=91030].desc": {
-      "pl": "Regular Enemy",
+      "pl": "Standardowy Wróg",
       "kr_sha256": "25329d1d3d62463c8aae7d7297be9b0a023efb169fdda8a18cdc26a444c88b14",
       "en_sha256": "28140ff2f21f096290efafc64cd464087ace75812579ed922cda2bae9681170f",
       "origin": "ai"
     },
     "dataList[id=91030].name": {
-      "pl": "Nethersea Founder",
+      "pl": "Założyciel Głębin",
       "kr_sha256": "3a6dd3f56fa8e5d8e4c90b460329d1e0db13d3cf5ed115304b85fe77776e14a3",
       "en_sha256": "faed911d154cd8f01fcf9a1762ef58a5344f7738ff74aadb2d60d3dc8230abe9",
       "origin": "ai"
     },
     "dataList[id=91031].desc": {
-      "pl": "Regular Enemy",
+      "pl": "Standardowy Wróg",
       "kr_sha256": "25329d1d3d62463c8aae7d7297be9b0a023efb169fdda8a18cdc26a444c88b14",
       "en_sha256": "28140ff2f21f096290efafc64cd464087ace75812579ed922cda2bae9681170f",
       "origin": "ai"
     },
     "dataList[id=91031].name": {
-      "pl": "Nethersea Spewer",
+      "pl": "Wydzielacz Głębin",
       "kr_sha256": "427e0d2b3a7f3ca330ad4d764765de3bbe9ac21c5d0cb94d8227d702c7f952ce",
       "en_sha256": "6c0957045b23b577e5764d8f8cdb5c1fe6ac83da15a82f6f36365d34dfa22593",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=91032].name": {
-      "pl": "Hand of the Saint",
+      "pl": "Dłoń Świętego",
       "kr_sha256": "0968a0eedb450aa7bd9c447c1852e5e97f8be3f787331f8d776ebf124baa1a9c",
       "en_sha256": "62f599ca33c2a390450e4653e8202ca7067f59bc9dde7c40ebd33736c1ef1adb",
       "origin": "ai"

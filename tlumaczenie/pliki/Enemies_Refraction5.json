@@ -1,7 +1,7 @@
 {
   "entries": {
     "dataList[id=8630].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=8631].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=863201].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
@@ -55,13 +55,13 @@
       "origin": "ai"
     },
     "dataList[id=863203].name": {
-      "pl": "Person",
+      "pl": "Człowiek",
       "kr_sha256": "389e7564ae2551b4f94dbea3458906b7afb8851da988aa1a85992fcc1dd3d346",
       "en_sha256": "6007db63e18e532c7399975ed77d2e3900810aa75cad165b8d2e5d8b08085c3d",
       "origin": "ai"
     },
     "dataList[id=8632].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -91,13 +91,13 @@
       "origin": "ai"
     },
     "dataList[id=863302].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8633].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -109,7 +109,7 @@
       "origin": "ai"
     },
     "dataList[id=8634].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=8635].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=8636].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=8637].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=8638].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=8639].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=8640].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -193,7 +193,7 @@
       "origin": "ai"
     },
     "dataList[id=8641].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=8642].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -217,7 +217,7 @@
       "origin": "ai"
     },
     "dataList[id=8643].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -229,7 +229,7 @@
       "origin": "ai"
     },
     "dataList[id=8644].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -241,7 +241,7 @@
       "origin": "ai"
     },
     "dataList[id=8645].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -253,7 +253,7 @@
       "origin": "ai"
     },
     "dataList[id=8646].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -265,7 +265,7 @@
       "origin": "ai"
     },
     "dataList[id=8647].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -277,7 +277,7 @@
       "origin": "ai"
     },
     "dataList[id=8648].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -289,7 +289,7 @@
       "origin": "ai"
     },
     "dataList[id=8649].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=8650].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -313,7 +313,7 @@
       "origin": "ai"
     },
     "dataList[id=8651].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -325,7 +325,7 @@
       "origin": "ai"
     },
     "dataList[id=8652].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -337,7 +337,7 @@
       "origin": "ai"
     },
     "dataList[id=8683].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=8684].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"

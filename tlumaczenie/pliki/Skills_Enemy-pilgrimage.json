@@ -13,7 +13,7 @@
       "origin": "ai"
     },
     "dataList[id=9102701].levelList[level=1].name": {
-      "pl": "Bite",
+      "pl": "Gryzienie",
       "kr_sha256": "f2a6f92047a8143ff4c57a92c5176f3e3004cf63b2ae696578d330901f3bbc39",
       "en_sha256": "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad",
       "origin": "ai"
@@ -31,7 +31,7 @@
       "origin": "ai"
     },
     "dataList[id=9102702].levelList[level=1].name": {
-      "pl": "Assault",
+      "pl": "Natarcie",
       "kr_sha256": "6ea52186e3a273e705de98bdfd41977faa62152d23f67ea13a404472802c3230",
       "en_sha256": "dc5520573a9f4e46a7c42f1bdacc7a2ac40392969a4c2f244b2bc11807f4b8d1",
       "origin": "ai"
@@ -55,7 +55,7 @@
       "origin": "ai"
     },
     "dataList[id=9102801].levelList[level=1].name": {
-      "pl": "Slam Down",
+      "pl": "Rozbicie",
       "kr_sha256": "da2b793754905366d755c754f52f0bfc32bebd558d664e9447b59ed41045085e",
       "en_sha256": "0bbbc39a422e402e92a5d8ae48eb7d5fcdd99c2206ddb8fc26ee93c65e19a0db",
       "origin": "ai"
@@ -91,7 +91,7 @@
       "origin": "ai"
     },
     "dataList[id=9102802].levelList[level=1].name": {
-      "pl": "Ripping Mutilation",
+      "pl": "Rozrzucanie Strzępów",
       "kr_sha256": "4830c189e861fbef48c6e76d489057515b42e60eef96461f4857c5e9a10df012",
       "en_sha256": "1257a6ca3d3203a1cd61643cac0f7a0c0b6ff8056079723643f97669e0ecf3fa",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=9102901].levelList[level=1].name": {
-      "pl": "Incision of Life",
+      "pl": "Skrawkowanie Życia",
       "kr_sha256": "83fc2593ffeb9ee8ac97cbe9b6477ec9ed607c40eb79c79af9d4b8cf069de9b9",
       "en_sha256": "f3347622758e66c8766d6f2f3edf79c8b3b303824b047c4eafbefdee5bb82326",
       "origin": "ai"
@@ -187,7 +187,7 @@
       "origin": "ai"
     },
     "dataList[id=9102902].levelList[level=1].name": {
-      "pl": "Frenzy",
+      "pl": "Furia",
       "kr_sha256": "0ff25a2c05e21fd17aaec38bf0fbdc72b0e3caeffeee0b6983572d2d23611175",
       "en_sha256": "148b8f01ccb30c07d3bd3fb26370f7976cdc4a08a1e1d2c6be996306d8cc274e",
       "origin": "ai"
@@ -205,7 +205,7 @@
       "origin": "ai"
     },
     "dataList[id=9102903].levelList[level=1].name": {
-      "pl": "Reap Nutrients",
+      "pl": "Zbiór Substancji Odżywczych",
       "kr_sha256": "e19607da22db4e9fbe7f4a377643a88d844ea6a12d60b47ba2d3098aa1c3674a",
       "en_sha256": "5d7d8c9a91545b22703c3f66af339665a3de6efeb885d65c2de82e32c8c225f1",
       "origin": "ai"
@@ -247,7 +247,7 @@
       "origin": "ai"
     },
     "dataList[id=9103001].levelList[level=1].name": {
-      "pl": "Lacerating Bite",
+      "pl": "Rozcinający Zagryz",
       "kr_sha256": "cc8f13cc7c947a5d0097d29261a415a2c84fd2608f522487c5d685a155feabb8",
       "en_sha256": "9deb6e3be03cdcef1591afe553028f6ac7dbbfc8d7bc269d591cee704257d8e9",
       "origin": "ai"
@@ -301,7 +301,7 @@
       "origin": "ai"
     },
     "dataList[id=9103002].levelList[level=1].name": {
-      "pl": "Persistent Devouring",
+      "pl": "Nieustanne Żerowanie",
       "kr_sha256": "97686865eb150cea58b898118fd37b6704503196d255a72164177f78c40e1e29",
       "en_sha256": "cc33563d938611fbdc392d9410050612fb466ea7fc848f92e19f681890a30ead",
       "origin": "ai"
@@ -349,7 +349,7 @@
       "origin": "ai"
     },
     "dataList[id=9103101].levelList[level=1].name": {
-      "pl": "Puncturing of Life",
+      "pl": "Przebicie Życia",
       "kr_sha256": "b0dceee522ac3fdbe3427fb5a2bfd202c484283175da2cc53388a45216b3c574",
       "en_sha256": "dc940019a7159d7f0bee3a364c61ef99b7bade56b9435094d6953be0e17bd301",
       "origin": "ai"
@@ -397,7 +397,7 @@
       "origin": "ai"
     },
     "dataList[id=9103102].levelList[level=1].name": {
-      "pl": "Discharge",
+      "pl": "Wyrzut",
       "kr_sha256": "0e83c090e4cf8de7e59f82159bc0f0e4a3c2ac43b05bf3a85ad9cf5df4e765df",
       "en_sha256": "1de694364549a0059c4f2b2ef78036425dadd89897070f9881db785ecad195b5",
       "origin": "ai"

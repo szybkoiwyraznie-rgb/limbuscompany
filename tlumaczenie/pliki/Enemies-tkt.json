@@ -7,13 +7,13 @@
       "origin": "ai"
     },
     "dataList[id=827701].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8277].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -85,7 +85,7 @@
       "origin": "ai"
     },
     "dataList[id=8278].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -97,19 +97,19 @@
       "origin": "ai"
     },
     "dataList[id=827901].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=827901].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8279].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -121,7 +121,7 @@
       "origin": "ai"
     },
     "dataList[id=90140].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -133,7 +133,7 @@
       "origin": "ai"
     },
     "dataList[id=90141].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -145,7 +145,7 @@
       "origin": "ai"
     },
     "dataList[id=90142].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -157,7 +157,7 @@
       "origin": "ai"
     },
     "dataList[id=90143].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -169,7 +169,7 @@
       "origin": "ai"
     },
     "dataList[id=90144].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -181,7 +181,7 @@
       "origin": "ai"
     },
     "dataList[id=91017].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"

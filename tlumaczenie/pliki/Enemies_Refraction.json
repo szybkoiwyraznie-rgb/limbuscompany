@@ -7,19 +7,19 @@
       "origin": "ai"
     },
     "dataList[id=850101].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8501].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8501].name": {
-      "pl": "Recollected Awry Soldier",
+      "pl": "Zdeformowany Żołnierz Ze Wspomnień",
       "kr_sha256": "5ab69b821629ec120a4dc618de94a08b84475258bde2dff2bee8b09881a892fa",
       "en_sha256": "488cd645780e1f5ec11c6df1bf2369383a5decbb1feb764c334e573216421918",
       "origin": "ai"
@@ -31,19 +31,19 @@
       "origin": "ai"
     },
     "dataList[id=850201].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8502].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8502].name": {
-      "pl": "Recollected Wallowing Soldier",
+      "pl": "Rozpaczający Żołnierz Ze Wspomnień",
       "kr_sha256": "efc922913563df661a28730ca5be4a483d50ad5cf9002ce3c830ee6e7faa6844",
       "en_sha256": "ec145cca51fcfad584721454995221395600fecc70d4fdfa364aaed23250afec",
       "origin": "ai"
@@ -55,19 +55,19 @@
       "origin": "ai"
     },
     "dataList[id=850301].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8503].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8503].name": {
-      "pl": "Recollected Overtaken Soldier",
+      "pl": "Skorodowany Żołnierz Ze Wspomnień",
       "kr_sha256": "bff39fa064e59caee93bedcf4ce1b911c69e56c4cb9d837dc57ada5868526a85",
       "en_sha256": "4f45411c0f9d815f707d16335124c76865caab9b0a417be5f4bbaba8fb546f11",
       "origin": "ai"
@@ -79,19 +79,19 @@
       "origin": "ai"
     },
     "dataList[id=850401].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8504].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8504].name": {
-      "pl": "Recollected Festered G Corp. H. Manager",
+      "pl": "Szef Wydziału G Corp. Ze Wspomnień — Zgniły",
       "kr_sha256": "9b76ba2bd3ce69bd11ffeb824d987e691b2f60e10afb202395d5e833d651c05f",
       "en_sha256": "bf4afa22ce6ca39cb25e5afcb821be1397ca403ee430005593e5c64d82f475db",
       "origin": "ai"
@@ -103,19 +103,19 @@
       "origin": "ai"
     },
     "dataList[id=850501].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8505].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8505].name": {
-      "pl": "Mariachi Alegre",
+      "pl": "Wesoły Członek Gangu Mariachi",
       "kr_sha256": "d94e77770ed5db285ae13154d2538ba4fb86c853c6d1c35ece7e0dcc7eefce32",
       "en_sha256": "2ef6d87593768625ed7443c4831870af7f5f90dee9ef8564e2b9ba9ead4ba741",
       "origin": "ai"
@@ -127,19 +127,19 @@
       "origin": "ai"
     },
     "dataList[id=850601].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8506].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8506].name": {
-      "pl": "Mariachi Vivaz",
+      "pl": "Ożywiony Członek Gangu Mariachi",
       "kr_sha256": "7dda120c0abfb389b5c15a9558ad92884990574329e2f526c5b049a4a54ad9bb",
       "en_sha256": "2b894c36c23a0485848e4ae9f69c0295a9bb18afa36204a0385a5542a2f5f7d6",
       "origin": "ai"
@@ -151,19 +151,19 @@
       "origin": "ai"
     },
     "dataList[id=850701].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8507].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8507].name": {
-      "pl": "Threatening Tieqiu Crewman",
+      "pl": "Zagrażający Członek Gangu Tieqiu",
       "kr_sha256": "16aa9d15797c78b4978b97954b10f4b40e6b322f152f8626576dd4c69b33e014",
       "en_sha256": "0461258e021195ca79e33c1c955e2f2cc6cbef25f78847947a98965dcae30296",
       "origin": "ai"
@@ -175,19 +175,19 @@
       "origin": "ai"
     },
     "dataList[id=850801].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8508].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8508].name": {
-      "pl": "Flexing Tieqiu Crewman",
+      "pl": "Rozgrzewający Się Członek Gangu Tieqiu",
       "kr_sha256": "c7d4a4a74b214e1e34e9b67090ab25ae045a38c6dc2032caa8696467beb1157c",
       "en_sha256": "46e990b64f582b4deaf1395901d1816b424c2c74f15f05dd56c4718c271d2bb2",
       "origin": "ai"
@@ -199,19 +199,19 @@
       "origin": "ai"
     },
     "dataList[id=850901].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8509].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8509].name": {
-      "pl": "Aida",
+      "pl": "Ayed",
       "kr_sha256": "5e62359d6e53be5266a4d06f59039f0e985acf933daa1599a20ef785f9c9a8a4",
       "en_sha256": "f7f21812a0a649f894c0dfef001500271b54b53773cb9ca50687dad2d8bb5db3",
       "origin": "ai"
@@ -223,7 +223,7 @@
       "origin": "ai"
     },
     "dataList[id=851001].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -235,7 +235,7 @@
       "origin": "ai"
     },
     "dataList[id=851002].name": {
-      "pl": "Left Eye",
+      "pl": "Lewe Oko",
       "kr_sha256": "275a02cbc68937de699f63afe378c84ad71842dd05b38c71678481e72df70f62",
       "en_sha256": "4c96d10f1b2a258854c50e881da84c6d1f2e8fb9ce0d4209858a6fd8dce33190",
       "origin": "ai"
@@ -247,19 +247,19 @@
       "origin": "ai"
     },
     "dataList[id=851003].name": {
-      "pl": "Right Eye",
+      "pl": "Prawe Oko",
       "kr_sha256": "098bc9b2cf5711c6286d9307bc053fe6077fe01bb0e4f3298d884d8fa10d6b2b",
       "en_sha256": "e61f105538b06eca91802f8432ef7058b606ba5ad331b10fdd091e8736f8a9be",
       "origin": "ai"
     },
     "dataList[id=8510].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8510].name": {
-      "pl": "Blubbering Toad",
+      "pl": "Szlochająca Ropucha",
       "kr_sha256": "123640286422e5594e004103cc561e2f9dda7b7c4f76a3cd941484b0c097a0fe",
       "en_sha256": "f77301ee2ec147ec7b5f0c99f40d4450782c11c8c3dd51d78210d6c6c5197f3d",
       "origin": "ai"
@@ -271,19 +271,19 @@
       "origin": "ai"
     },
     "dataList[id=851101].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8511].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8511].name": {
-      "pl": "Servile N Corp. Inquisitor",
+      "pl": "Hołdujący Inkwizytor N Corp.",
       "kr_sha256": "27259e30ef02f314fa7a0f8a9a480c514f2ca96e2efff9296e753aaaf9069133",
       "en_sha256": "cc3baca9690762ba37fd35d786dedebcc365ea8c6c80452c941913e027e60fa4",
       "origin": "ai"
@@ -295,19 +295,19 @@
       "origin": "ai"
     },
     "dataList[id=851201].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8512].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8512].name": {
-      "pl": "Compliant N Corp. Inquisitor",
+      "pl": "Uległy Inkwizytor N Corp.",
       "kr_sha256": "8d09e0d950e0b0a802353eab309db0674ff3a387cc9874b4a830462ae335842f",
       "en_sha256": "123bed6b9beffdbe7c0ca20604a0887163758734d6a65b764f872415dbc5c493",
       "origin": "ai"
@@ -319,19 +319,19 @@
       "origin": "ai"
     },
     "dataList[id=851301].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8513].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8513].name": {
-      "pl": "Scourging N Corp. Inquisitor",
+      "pl": "Torturujący Inkwizytor N Corp.",
       "kr_sha256": "dff5cb7e3ab91326449fdec468cdb6e0b4a5e7e0d762e292edb2d42d4eadf8a8",
       "en_sha256": "1572174704f63f6a912f5204a9fa821291c3f93384a05f5f4c0a8f48be8c62d2",
       "origin": "ai"
@@ -343,19 +343,19 @@
       "origin": "ai"
     },
     "dataList[id=851401].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8514].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8514].name": {
-      "pl": "Interrogative N Corp. Inquisitor",
+      "pl": "Przesłuchujący Inkwizytor N Corp.",
       "kr_sha256": "08e3a84a0c0e559584b068cd1acf152e910c72df2005fbdf6711414e1ceece6e",
       "en_sha256": "b662f97371962a48f7ae44f1c57653886b6b70ab844854864af8b41c49c9a173",
       "origin": "ai"
@@ -367,19 +367,19 @@
       "origin": "ai"
     },
     "dataList[id=851501].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8515].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8515].name": {
-      "pl": "Obsessive N Corp. Inquisitor",
+      "pl": "Obsesyjny Inkwizytor N Corp.",
       "kr_sha256": "a24377c54d728a46af8376e6edb2259b6a5167b085500df1826797f71d3b9b7a",
       "en_sha256": "a47ba03d13cc801168e3903ebdf064b811c652be704842bdb1ea5d98b759772d",
       "origin": "ai"
@@ -391,19 +391,19 @@
       "origin": "ai"
     },
     "dataList[id=851601].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8516].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8516].name": {
-      "pl": "Joyous N Corp. Inquisitor",
+      "pl": "Najwyższej Radości Inkwizytor N Corp.",
       "kr_sha256": "bbd7d314611a2beb63be0dec4f4bd2a76c7da934a2f52f22fdadd2e2ad90c1ca",
       "en_sha256": "2359e7e21df1e60683db2bff507884223abb13e45e162fe01fcb8f306a1181c2",
       "origin": "ai"
@@ -415,19 +415,19 @@
       "origin": "ai"
     },
     "dataList[id=851701].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8517].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8517].name": {
-      "pl": "Guido the Persistent",
+      "pl": "Guido Wytrwały",
       "kr_sha256": "f4cc5a717167c14236068613edf0bd5e7bd1803d3462a6c0b111c54afdf4b9ca",
       "en_sha256": "638368fbc22e2b4aabbc48bc7a835058f2511505d2c0b8f09efd2e36b19df37d",
       "origin": "ai"
@@ -439,7 +439,7 @@
       "origin": "ai"
     },
     "dataList[id=851801].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -451,7 +451,7 @@
       "origin": "ai"
     },
     "dataList[id=851802].name": {
-      "pl": "Telepole",
+      "pl": "Słup Energetyczny",
       "kr_sha256": "e196e21cea900937abccc75582e9a804d3ed23f8934d4fb714a234550b4f8f2f",
       "en_sha256": "5f63bcb4a0a15558433f22b4159c953d171cb104262308b5f7084bafd426f643",
       "origin": "ai"
@@ -463,7 +463,7 @@
       "origin": "ai"
     },
     "dataList[id=851803].name": {
-      "pl": "Person",
+      "pl": "Człowiek",
       "kr_sha256": "389e7564ae2551b4f94dbea3458906b7afb8851da988aa1a85992fcc1dd3d346",
       "en_sha256": "6007db63e18e532c7399975ed77d2e3900810aa75cad165b8d2e5d8b08085c3d",
       "origin": "ai"
@@ -475,13 +475,13 @@
       "origin": "ai"
     },
     "dataList[id=851804].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8518].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -499,13 +499,13 @@
       "origin": "ai"
     },
     "dataList[id=851901].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8519].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -523,19 +523,19 @@
       "origin": "ai"
     },
     "dataList[id=852001].name": {
-      "pl": "Heart",
+      "pl": "Serce",
       "kr_sha256": "30483f3eb547bac0e5d4a46745832fed67ffcb4b431f6232932c7a2b5dcb6756",
       "en_sha256": "770af9d180375fa9c3d29a50c124a04f538b277e1ed94ec20be8e244820d6534",
       "origin": "ai"
     },
     "dataList[id=8520].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8520].name": {
-      "pl": "Heart of the Townsfolk",
+      "pl": "Serce Mieszkańca Miasteczka",
       "kr_sha256": "f93bf33081807214d7fbc1f239e2c07aa375e908145d6c724c6d8188a4bf0cc8",
       "en_sha256": "8fa6b1691c0d371b207810914d5c0ef864c07b8ccf14344e0074acc22834dca9",
       "origin": "ai"
@@ -547,13 +547,13 @@
       "origin": "ai"
     },
     "dataList[id=852101].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8521].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -571,19 +571,19 @@
       "origin": "ai"
     },
     "dataList[id=852201].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8522].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8522].name": {
-      "pl": "Everything There of an Inquisitor",
+      "pl": "Inkwizytor Mający Wszystko",
       "kr_sha256": "3be4db2922e0714aaab2b920bcfeceb4b5f708790dd3b4e2b91bad4b91d9ba19",
       "en_sha256": "4c20ec671fa85a60b201280517389ca0f39592b255016509169fe9f001c41cf5",
       "origin": "ai"
@@ -595,13 +595,13 @@
       "origin": "ai"
     },
     "dataList[id=852301].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8523].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -619,7 +619,7 @@
       "origin": "ai"
     },
     "dataList[id=852401].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -631,7 +631,7 @@
       "origin": "ai"
     },
     "dataList[id=852402].name": {
-      "pl": "Left Leg",
+      "pl": "Lewa Noga",
       "kr_sha256": "e55197e805336958a8da89619c6c0ed87194ae009135338fc3656b00f509b3e9",
       "en_sha256": "5741f1abec7356a6dfcb13c1b6175f597f7b842a483bfbf95e1450b5039b9a68",
       "origin": "ai"
@@ -643,7 +643,7 @@
       "origin": "ai"
     },
     "dataList[id=852403].name": {
-      "pl": "Right Leg",
+      "pl": "Prawa Noga",
       "kr_sha256": "4a46c65aa8c6fe49aa0fcff4f50826d5555e6a04b0f3e1c1d274cfab1c1b10cd",
       "en_sha256": "e52c04731d00624eb0953ec920e302e014f0ef721a2b054a3cedfeafa659642d",
       "origin": "ai"
@@ -655,19 +655,19 @@
       "origin": "ai"
     },
     "dataList[id=852404].name": {
-      "pl": "Tail",
+      "pl": "Ogon",
       "kr_sha256": "906127f7d7957123454ed2ce2a26af684aec7c7fe72c61ea42a765834b7a6a35",
       "en_sha256": "ae9c3bd11f760426e0edff0fbb001a66b4d447cf32b8442980888349ff33b01b",
       "origin": "ai"
     },
     "dataList[id=8524].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8524].name": {
-      "pl": "Headless Ichthys",
+      "pl": "Bezgłowy Ichtis",
       "kr_sha256": "b4f6872f9cd092e6b1d3a3099cd7b873be9d5292431fea651a91b11291e45047",
       "en_sha256": "a8fa217d2974000b703cfab2e142f009e2d799d6a9abebdbbc2d292307c9f24b",
       "origin": "ai"
@@ -679,7 +679,7 @@
       "origin": "ai"
     },
     "dataList[id=852501].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -691,7 +691,7 @@
       "origin": "ai"
     },
     "dataList[id=852502].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
@@ -703,19 +703,19 @@
       "origin": "ai"
     },
     "dataList[id=852503].name": {
-      "pl": "Right Arm",
+      "pl": "Prawe Ramię",
       "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
       "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
       "origin": "ai"
     },
     "dataList[id=8525].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8525].name": {
-      "pl": "Slithering Inquisitor",
+      "pl": "Wijący Się Inkwizytor",
       "kr_sha256": "00af82605e8e0dac1058e63d9430625f91b74662e05f0ba8d99502490c98e19e",
       "en_sha256": "113e48fdc89450fa1dd4ef9d2889ae99e8e9f68e183f4bf4d1dcc9298dfd9c54",
       "origin": "ai"
@@ -727,7 +727,7 @@
       "origin": "ai"
     },
     "dataList[id=852601].name": {
-      "pl": "Right Arm",
+      "pl": "Prawe Ramię",
       "kr_sha256": "8116b8da30fa2cc1bec1c2fb72e2cd67a48e5185f45d5e10a59891ef2a68072d",
       "en_sha256": "8cb8d6a5b7c972ad8557416121363052a28150337f83df29b535c11661098520",
       "origin": "ai"
@@ -739,7 +739,7 @@
       "origin": "ai"
     },
     "dataList[id=852602].name": {
-      "pl": "Left Arm",
+      "pl": "Lewe Ramię",
       "kr_sha256": "a6fdeb0f44714c5ce972713abba097e6413dce7a8e295e68ca3cab9f894b5065",
       "en_sha256": "d78b75f4f1e8812f57cd420f8850e3a4a586f555a420408329d7ab954e4dcd25",
       "origin": "ai"
@@ -751,19 +751,19 @@
       "origin": "ai"
     },
     "dataList[id=852603].name": {
-      "pl": "Maw",
+      "pl": "Wielka Paszcza",
       "kr_sha256": "87ebc58a9fcc4733880512bce506bc49d9ffda3dc19db1c8564f519c12c33192",
       "en_sha256": "defdc8a7899c22b4526d16dabe39ea04dffbf67eb125ceb2fd1ec2c25618f6f3",
       "origin": "ai"
     },
     "dataList[id=8526].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8526].name": {
-      "pl": "Kromer the Dreamer of Human Wholeness",
+      "pl": "Kromer Marząca o Ludzkiej Pełni",
       "kr_sha256": "924d7b67413dd31189a8a08eae34aa660361b2cac85f1b1efa43e8995774d000",
       "en_sha256": "e7b7b56b45f45c22a8531c742bd844a5bb7e9308cd07f922221eba16aaddc141",
       "origin": "ai"
@@ -775,7 +775,7 @@
       "origin": "ai"
     },
     "dataList[id=852701].name": {
-      "pl": "Buddha Mūrti",
+      "pl": "Posąg Buddy",
       "kr_sha256": "c203afc4da46394449860b51c291a57f5f8ef9b6e48ca7e4971f0a21653c05a6",
       "en_sha256": "4c3b041eca59936efa08164a4233480ca8a286f00d8a88bdf2590dcae9c982eb",
       "origin": "ai"
@@ -787,19 +787,19 @@
       "origin": "ai"
     },
     "dataList[id=852702].name": {
-      "pl": "Stone Seat",
+      "pl": "Kamienny Tron",
       "kr_sha256": "4c0ba2644ac36da5fc04113f41595900ecff18c3082122b6a8871fd3fb845669",
       "en_sha256": "d0f522d802428f734f039262815b23619996fadd1ffe79fee1e06d5b5257e188",
       "origin": "ai"
     },
     "dataList[id=8527].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8527].name": {
-      "pl": "My Form Empties",
+      "pl": "Forma, Którą Wypełnia Pustka",
       "kr_sha256": "431f49d42256146bef82208002335a14c228820268c318c7575b7cb001d57aa2",
       "en_sha256": "91a22cada51b386a9180bc8d7d16216dbbd8c3046fcd307f450c40c55abb581d",
       "origin": "ai"
@@ -811,19 +811,19 @@
       "origin": "ai"
     },
     "dataList[id=852801].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8528].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8528].name": {
-      "pl": "Lured Guido",
+      "pl": "Zwabiony Guido",
       "kr_sha256": "68c7b043e77ffaedc82e15ab6cda3ff9fa03bced22eb906f0e89f737cb3ce34b",
       "en_sha256": "9c203fb7cc235cea2f211b142b4f44922a66d925631c7ee752bea4e5090f3b37",
       "origin": "ai"
@@ -835,19 +835,19 @@
       "origin": "ai"
     },
     "dataList[id=852901].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8529].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8529].name": {
-      "pl": "Lured Aida",
+      "pl": "Zwabiony Ayed",
       "kr_sha256": "d93107518f5edf65d36e315dbc87a33ffc5308b4ab8cf97d597d68ecce672a7e",
       "en_sha256": "e37fe3bf686a9c66d37c336a3a56d86a00f6c3c62658f11414d097c02065abd9",
       "origin": "ai"
@@ -859,19 +859,19 @@
       "origin": "ai"
     },
     "dataList[id=853001].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8530].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8530].name": {
-      "pl": "Lured Festered G Corp. H. Manager",
+      "pl": "Zwabiony Zgniły Szef Wydziału G Corp.",
       "kr_sha256": "8e482154815e2aa3414931d6647958b8d586727f6a868fc8c63db40fa8396706",
       "en_sha256": "eed842d6b15d2a513e4e5e3570d8907018e2515db76da08389e89bc2167e507d",
       "origin": "ai"
@@ -883,19 +883,19 @@
       "origin": "ai"
     },
     "dataList[id=853101].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8531].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8531].name": {
-      "pl": "Calm K Corp. Checkpoint Security",
+      "pl": "Spokojny Strażnik Punktu Kontrolnego K Corp.",
       "kr_sha256": "813d0f6f7c2cc55f0d7a9894f21167c7be916baf394eaf039e8e0f2537713397",
       "en_sha256": "8f415dda2a3bfbdf8d91b90c124d0317d31900264e899d0b742813efedfeb0fd",
       "origin": "ai"
@@ -907,19 +907,19 @@
       "origin": "ai"
     },
     "dataList[id=853201].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8532].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
     },
     "dataList[id=8532].name": {
-      "pl": "Reliable K Corp. Checkpoint Security",
+      "pl": "Solidny Strażnik Punktu Kontrolnego K Corp.",
       "kr_sha256": "3580008d08fd80a38cbc975b6485eed6b8985d21acd6612615cb0b4309663858",
       "en_sha256": "bab9a4f1e291d2d29b91da0ea9b6375c020b526096369a4a8b723a6bfc45eb4f",
       "origin": "ai"
@@ -931,13 +931,13 @@
       "origin": "ai"
     },
     "dataList[id=853301].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8533].desc": {
-      "pl": "Enemy Unit",
+      "pl": "Zwykły Wróg",
       "kr_sha256": "42024df52304b0df9047f72f390d0c87a98c5d8459578b412455211633193be5",
       "en_sha256": "378e82eca977014e1d1523d4fcfbee7a7f6318c75448bddf7950a2def85aeaf3",
       "origin": "ai"
@@ -955,13 +955,13 @@
       "origin": "ai"
     },
     "dataList[id=853401].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8534].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -979,19 +979,19 @@
       "origin": "ai"
     },
     "dataList[id=853501].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8535].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8535].name": {
-      "pl": "Proceeding Inquisitor",
+      "pl": "Inkwizytor Idący Naprzód",
       "kr_sha256": "99ceeda3d0af460078762f476ece75f731ecd70c01ed677f08de606816dd130d",
       "en_sha256": "83a76ede23268ccfb09cdcfa0f70cc0d046c8a9211ad0f6d6f618786a38ee7fe",
       "origin": "ai"
@@ -1003,19 +1003,19 @@
       "origin": "ai"
     },
     "dataList[id=853601].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
     },
     "dataList[id=8536].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8536].name": {
-      "pl": "Four-legged Beast",
+      "pl": "Czteronoga Bestia",
       "kr_sha256": "4b2e97590b8b6c37dddd925562bdc33fb600662c3797f2a6672312c84d890ea2",
       "en_sha256": "af7d1aadd908f5a331a6ffdd08eef3b31c60f75443479b6192de3203c2f8f368",
       "origin": "ai"
@@ -1027,7 +1027,7 @@
       "origin": "ai"
     },
     "dataList[id=853701].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -1039,7 +1039,7 @@
       "origin": "ai"
     },
     "dataList[id=853702].name": {
-      "pl": "Left Leg",
+      "pl": "Lewa Noga",
       "kr_sha256": "e55197e805336958a8da89619c6c0ed87194ae009135338fc3656b00f509b3e9",
       "en_sha256": "5741f1abec7356a6dfcb13c1b6175f597f7b842a483bfbf95e1450b5039b9a68",
       "origin": "ai"
@@ -1051,7 +1051,7 @@
       "origin": "ai"
     },
     "dataList[id=853703].name": {
-      "pl": "Right Leg",
+      "pl": "Prawa Noga",
       "kr_sha256": "4a46c65aa8c6fe49aa0fcff4f50826d5555e6a04b0f3e1c1d274cfab1c1b10cd",
       "en_sha256": "e52c04731d00624eb0953ec920e302e014f0ef721a2b054a3cedfeafa659642d",
       "origin": "ai"
@@ -1063,13 +1063,13 @@
       "origin": "ai"
     },
     "dataList[id=853704].name": {
-      "pl": "Tail",
+      "pl": "Ogon",
       "kr_sha256": "906127f7d7957123454ed2ce2a26af684aec7c7fe72c61ea42a765834b7a6a35",
       "en_sha256": "ae9c3bd11f760426e0edff0fbb001a66b4d447cf32b8442980888349ff33b01b",
       "origin": "ai"
     },
     "dataList[id=8537].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
@@ -1087,7 +1087,7 @@
       "origin": "ai"
     },
     "dataList[id=853801].name": {
-      "pl": "Body",
+      "pl": "Tułów",
       "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
       "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
       "origin": "ai"
@@ -1099,7 +1099,7 @@
       "origin": "ai"
     },
     "dataList[id=853802].name": {
-      "pl": "Telepole",
+      "pl": "Słup Energetyczny",
       "kr_sha256": "e196e21cea900937abccc75582e9a804d3ed23f8934d4fb714a234550b4f8f2f",
       "en_sha256": "5f63bcb4a0a15558433f22b4159c953d171cb104262308b5f7084bafd426f643",
       "origin": "ai"
@@ -1111,7 +1111,7 @@
       "origin": "ai"
     },
     "dataList[id=853803].name": {
-      "pl": "Person",
+      "pl": "Człowiek",
       "kr_sha256": "389e7564ae2551b4f94dbea3458906b7afb8851da988aa1a85992fcc1dd3d346",
       "en_sha256": "6007db63e18e532c7399975ed77d2e3900810aa75cad165b8d2e5d8b08085c3d",
       "origin": "ai"
@@ -1123,19 +1123,19 @@
       "origin": "ai"
     },
     "dataList[id=853804].name": {
-      "pl": "Head",
+      "pl": "Głowa",
       "kr_sha256": "74eee3ddf202a62b75965f70444cc4c09538e67a005a6da657d3043a8e25ce39",
       "en_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
       "origin": "ai"
     },
     "dataList[id=8538].desc": {
-      "pl": "Core",
+      "pl": "Główne Ciało",
       "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
       "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
       "origin": "ai"
     },
     "dataList[id=8538].name": {
-      "pl": "Alleyway Watchdog",
+      "pl": "Pies Stróżujący Zaułków",
       "kr_sha256": "c4f0cb1fa9dbfc6198496adb1e4756fc86484268658a0eeaf69b070e3b2760b3",
       "en_sha256": "c80a0ef10c8fb477b5ac1b5cfe46e25ae2119d761a3158d3a93536388b64ce7a",
       "origin": "ai"

@@ -1,0 +1,136 @@
+{
+  "entries": {
+    "dataList[id=0].content": {
+      "pl": "... Cmh.",
+      "kr_sha256": "a30ee6e67b3ef8b89ea13387c401e4c37ab714caca50d9677acd532ceac39f94",
+      "en_sha256": "ba20253a77ee0c067e9caa80c76b6764841e8c01659fa16de58c2da4f0f5dbc4",
+      "origin": "ai"
+    },
+    "dataList[id=10].content": {
+      "pl": "Połknęliśmy czas\\nCofajmy",
+      "kr_sha256": "8f039212a0b1fe9aef3d95d1e94d8a5112b02b0ede5695df073c12d4692319b8",
+      "en_sha256": "1e89158b4fdd05f06c43a6939bb9c834db0d9f0520fb6e5d878c319f7c42dbc8",
+      "origin": "ai"
+    },
+    "dataList[id=11].content": {
+      "pl": "Zawodźcie\\nJeśli chciałeś, żebym żył",
+      "kr_sha256": "d298fc3374d420edfd1173fdc16c6efeb156e47991f90b86b0aaf4d5f9869230",
+      "en_sha256": "7c6baf561e8a97620be4f2fcf75f4194ad20cd591966bb98a8d126dced635c9d",
+      "origin": "ai"
+    },
+    "dataList[id=12].content": {
+      "pl": "Jeśli chciałeś, żebym wybaczył",
+      "kr_sha256": "9c03e688cbc438e8f7d4780c149363e65f87f753c93031803233c6d020af7ee9",
+      "en_sha256": "18e461580e5fb893271b96fc5de05f191c66a5068cfc8c09e66195ada4ce646b",
+      "origin": "ai"
+    },
+    "dataList[id=13].content": {
+      "pl": "Jeśli chciałeś, byśmy udawali\\nludzi cywilizowanego społeczeństwa",
+      "kr_sha256": "9426ba1acabec7bdc3d053c753b13c6a7ad1724828819fa4b3f034cb490f4b71",
+      "en_sha256": "6d5942eb7ae7d4c459dd9844e4b5bc82bac50c432c23108d2105d3599a925cc2",
+      "origin": "ai"
+    },
+    "dataList[id=14].content": {
+      "pl": "W każdej pętli, w której umieramy\\n(w każdej pętli, w której umieramy)",
+      "kr_sha256": "060473b7333c63c223d814f46da55d3f13d54e3a67c1d9af9c90d1d1960a5351",
+      "en_sha256": "bba7ca75fcf4cd0d3d8f168f56724e8b3944b647f69b8b55b2c38dbbda7609bc",
+      "origin": "ai"
+    },
+    "dataList[id=15].content": {
+      "pl": "Sprawiedliwość w moim wnętrzu,\\nhonor, który mnie broni,\\nusprawiedliwia mój grzech",
+      "kr_sha256": "f74581f8afc3c1c0c4fd0b0b09c76552443c825425e9a36b093cb9cf432a5428",
+      "en_sha256": "4ca093e9d24c7f7542d1c1d8faa5c260f5ba3135ac3e98ba0d296043a58db949",
+      "origin": "ai"
+    },
+    "dataList[id=16].content": {
+      "pl": "Zawodźcie\\nCzemu śmierć przerywa mą torturę?",
+      "kr_sha256": "f857adccd00c8d22648280809814f3bd3026e4625839aef9945e79cc9f72d5ff",
+      "en_sha256": "db39a930d5a063065ec92214563ac6b09a9428a021839c8826d4349fb55e3a39",
+      "origin": "ai"
+    },
+    "dataList[id=17].content": {
+      "pl": "Czemu nikt nie może poczuć mojego bólu?",
+      "kr_sha256": "e811055cafaee623ce5407aeaac834359c49cbe0c31b5323f487435d864e0efb",
+      "en_sha256": "a5dc1b7ddb41fb59011c4b86d342e7ae0caa0fd61d6aa040080ab4229476f06b",
+      "origin": "ai"
+    },
+    "dataList[id=18].content": {
+      "pl": "Czemu korona chwały\\nspada na najokrutniejszych?",
+      "kr_sha256": "6807e9145af2081fba15e7727211901d5a55ecdcaddd17bac1eb860e04e66727",
+      "en_sha256": "9b46dd5c29b4b053bc2a98f32fc907465929b4f0991dad1687443f8672ac567a",
+      "origin": "ai"
+    },
+    "dataList[id=19].content": {
+      "pl": "W tym piekle\\n(w piekle)",
+      "kr_sha256": "bf7ba01ce542dfb215b98f469e26e5370b7ce12b3398625b30b4df956f6dec10",
+      "en_sha256": "cc5b8def3d0758075d57f24df95d7597c50834f6b0205668ade51ca653618c57",
+      "origin": "ai"
+    },
+    "dataList[id=1].content": {
+      "pl": "Już odjeżdżamy, wrrum-wrrum.",
+      "kr_sha256": "ec5d44e4cede109325e67c81c3320e699a3c9e8171958a5e64b3c5a67ab37163",
+      "en_sha256": "4736c0b0bcbaeb0f1bb53d32e96c645b725c7008aa61a880cc1c96fd5a0e5146",
+      "origin": "ai"
+    },
+    "dataList[id=20].content": {
+      "pl": "Które sami zbudowaliśmy",
+      "kr_sha256": "1235d83d48925f489cb3fb28fec55f4f125dafc422e8633a93a1b1618a9eb9f4",
+      "en_sha256": "67d48e882c55d30fb60d33cd1efffd0495e8104fadc0277d24b5b4adf4a00719",
+      "origin": "ai"
+    },
+    "dataList[id=21].content": {
+      "pl": "W tym piekle wskrzeszając się nawzajem",
+      "kr_sha256": "0a54167f02eac72d693029b34734fc4fe936b070439ff56630eeeca68581d8c6",
+      "en_sha256": "10a749c67bff40dc88c43a012ab70d20eb91be12e475dbe258572b123b898c3f",
+      "origin": "ai"
+    },
+    "dataList[id=2].content": {
+      "pl": "Kierunek — piekło.",
+      "kr_sha256": "e078cba147a2c600e057c70e4e97b7830ca645fbd3ba930390dab69f4c546b0e",
+      "en_sha256": "b6e205afdbf9e55a470c667d206ef4db3bb4424fd49af384d59b0fb69653f0fe",
+      "origin": "ai"
+    },
+    "dataList[id=3].content": {
+      "pl": "Szedłem drogą",
+      "kr_sha256": "2638a1a5ff2cbbcc57f9d4fa6352c8ad300f65e0ffa86f3995abeefeca28ac3a",
+      "en_sha256": "d0eeaa31b5c50782390e7f04df48de87be7e3a67b61b0251e599b2f28dee1713",
+      "origin": "ai"
+    },
+    "dataList[id=4].content": {
+      "pl": "Drogą prowadzącą w przeszłość",
+      "kr_sha256": "50047eb52014b9c04b47686265ce3bfdcccd6dbca935a55925972bf9b0467923",
+      "en_sha256": "d85225da965603537521fe6871c5883dec59dbeaf4f1ab40c32faced8e23fe31",
+      "origin": "ai"
+    },
+    "dataList[id=5].content": {
+      "pl": "Z wyciągniętej gałęzi ukradłem coś",
+      "kr_sha256": "77bc7dcc3a6d804034fa92b7a241e8172114e9f3c1840708ecb0d8559e19b214",
+      "en_sha256": "197aae0ad9b3eb0e6afdac0f63b055ae6fc52ea8e5ad2d0d25c0256927ddd61c",
+      "origin": "ai"
+    },
+    "dataList[id=6].content": {
+      "pl": "Przyjaciela żałujących\\n— zakazany owoc",
+      "kr_sha256": "2c7a06e125bd95ca3cffaa58710c9079e6bd9cbecdfdd7381cc2c65fe5cfc5ae",
+      "en_sha256": "0eca07af5bfa39d1c3d509d701a0eb580616e18e0af9f57cf90ee94372ba80e4",
+      "origin": "ai"
+    },
+    "dataList[id=7].content": {
+      "pl": "Odgryzam skórkę\\nŻując jego czuły miąższ",
+      "kr_sha256": "94bda0dda9f900d2fd2dc56843ec0b2a2372a490077ddef671364bd4391c161d",
+      "en_sha256": "53de17aff7409414b8797028ca2e165da2f21ebd47d8d6586a01a2238efc5e75",
+      "origin": "ai"
+    },
+    "dataList[id=8].content": {
+      "pl": "Połknąłem kryjącą w środku letnią ropę",
+      "kr_sha256": "c01c5eb7152b3bcd31e16c7778137d4f6bc49b3fd0c3465e4dbbd61383e6a9bf",
+      "en_sha256": "0723d07f673613ba0929ebce62cc902bd7ec040d0f1621164ccab4ed30043a0d",
+      "origin": "ai"
+    },
+    "dataList[id=9].content": {
+      "pl": "I stałeś się tym „mną”, którym tak gardziłeś.",
+      "kr_sha256": "ad9fced23ab757eca5bbbecda276b2bdb99014791215e75ca604b0ac18a66277",
+      "en_sha256": "ff1dc3f5eeafad5db83e78d8e79c6d69d8c310b71a3d09694e03c58ff67c861c",
+      "origin": "ai"
+    }
+  }
+}
