@@ -64,7 +64,7 @@
 "566": "[OnSucceedAttack] nakłada [Duress] na cel",
 "569": "[OnSucceedAttack] nakłada 10 [Combustion]",
 "571": "[WhenUse] w następnej turze przechodzi w stan Oszołamienia",
-"572": "[OnSucceedAttack] zużywa 2 Liczniki [Charge], by nakłać 10 [Combustion]",
+"572": "[OnSucceedAttack] zużywa 2 Liczniki [Charge], by nałożyć 10 [Combustion]",
 "575": "[WhenUse] zyskuje 5 [Protection]\n[WhenUse] zyskuje 10 [HitDamageUp] w następnej turze\n[EndBattle] jeżeli nie jest Oszołamiona, zyskuje 5 [Vulnerable] w następnej turze",
 "578": "[CantDuel]\n[CantChangeTarget]\nceluje w jednostkę z największym HP\n[WhenUse] zużywa całe [Charge]",
 "580": "Clap",

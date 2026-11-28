@@ -1537,13 +1537,13 @@
       "origin": "ai"
     },
     "dataList[id=951906].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
-      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Charge], by nakłać 10 [Combustion]",
+      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Charge], by nałożyć 10 [Combustion]",
       "kr_sha256": "01d78e6d525a069ce0404b82c619206b8c9553be61e0bd4430a27c0d04684d2b",
       "en_sha256": "105e6e6458c73d9640a20fd35ef24c69704c9d764c210527c5162892f5c1a2c3",
       "origin": "ai"
     },
     "dataList[id=951906].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
-      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Charge], by nakłać 10 [Combustion]",
+      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Charge], by nałożyć 10 [Combustion]",
       "kr_sha256": "01d78e6d525a069ce0404b82c619206b8c9553be61e0bd4430a27c0d04684d2b",
       "en_sha256": "105e6e6458c73d9640a20fd35ef24c69704c9d764c210527c5162892f5c1a2c3",
       "origin": "ai"

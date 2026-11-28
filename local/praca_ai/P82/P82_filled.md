@@ -2698,7 +2698,7 @@ Po wypełnieniu zapisz plik jako `zwrotki/ai/P82_3c_przeciwnicy_i_anomalie_cz18.
    tokeny: zachowaj dokładnie: [OnSucceedAttack], [Charge], [Combustion]
    znaczenie tagów: [OnSucceedAttack] = [적중시] / [On Hit]; [Charge] = 충전 / Charge; [Combustion] = 화상 / Burn
    EN: [OnSucceedAttack] Consume 2 [Charge] Count to inflict 10 [Combustion]
-   PL: [OnSucceedAttack] zużywa 2 Liczniki [Charge], by nakłać 10 [Combustion]
+   PL: [OnSucceedAttack] zużywa 2 Liczniki [Charge], by nałożyć 10 [Combustion]
 573. [Umiejętność wroga [951906] (ulepszenie 1) — moneta 2, efekt 1 — opis] [OnSucceedAttack] [Charge] 횟수 2 소모하여, [Combustion] 10 부여
    źródło: Skills_Abnormality_Refraction1_bokgak.json :: dataList[id=951906].levelList[level=1].coinlist[#1].coindescs[#0].desc
    (powtórzenie elementu 572 — nie wpisuj tu nic, tłumaczenie dziedziczy się samo)
