@@ -16,6 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from tools.build_meta import build_index_file, build_mission_file, build_notes_file, build_sinner_file, build_splash_file
 from tools.lcb_text import Texts
 from tools.localize import Snapshot
+from tools.static_data import StaticData
 
 
 def _doc(rows: list[dict]) -> bytes:
@@ -52,6 +53,7 @@ def _fixture() -> dict[str, bytes]:
         ]),
         "StoryTheaterDanteNoteDetail.json": _doc([
             {"id": "DanteNoteDetail_1", "title": "", "desc": "- Synthetic note line one\\n- Synthetic note line two"},
+            {"id": "DanteNoteDetail_2", "title": "", "desc": "Synthetic plain paragraph"},
         ]),
         "FileDownloadDesc.json": _doc([
             {"id": "FileDownload_Desc_01", "title": "Synthetic splash title"},
@@ -83,6 +85,25 @@ class BuildMetaTests(unittest.TestCase):
     def tearDown(self) -> None:
         self._tmp.cleanup()
 
+    def _synthetic_static(self) -> Path:
+        """Minimal StaticData tree for the notes file (marker dir + dante tables)."""
+        base = Path(self._tmp.name) / "static-data"
+        (base / "storytheater-main").mkdir(parents=True, exist_ok=True)
+        tree = {"list": [{"mainCategory": {"id": 1, "name": "City"}, "middleCategoryList": [
+            {"middleCategory": {"id": 101, "name": "Limbuscompany", "danteNoteDetailId": [1, 2]}},
+        ]}]}
+        detail = {"list": [
+            {"id": 1, "openOrder": 1, "titleOrder": 1, "days": "984.4.20"},
+            {"id": 2, "openOrder": 2, "titleOrder": 2, "days": "984.4.21"},
+        ]}
+        (base / "storytheater-dantenote").mkdir(parents=True, exist_ok=True)
+        (base / "storytheater-dantenote" / "storytheater-dantenote-1.json").write_text(
+            json.dumps(tree, ensure_ascii=False), encoding="utf-8")
+        (base / "storytheater-dantenote-detail").mkdir(parents=True, exist_ok=True)
+        (base / "storytheater-dantenote-detail" / "storytheater-dantenote-detail-1.json").write_text(
+            json.dumps(detail, ensure_ascii=False), encoding="utf-8")
+        return base
+
     def test_missions_grouped_by_stage_with_markup_stripped(self) -> None:
         text, count = build_mission_file(self.texts, "en")
         self.assertIn("### Etap 0-1 · Synthetic stage zero", text)
@@ -106,12 +127,17 @@ class BuildMetaTests(unittest.TestCase):
         self.assertIn("Synthetic mission text two  \nsecond line", text)
 
     def test_notes_keywords_and_details(self) -> None:
-        text, count = build_notes_file(self.texts, "en")
+        static = StaticData(self._synthetic_static())
+        text, count = build_notes_file(self.texts, "en", static=static)
         self.assertIn("- **Synthetic City**", text)
         self.assertIn("- **Synthetic Limbus**", text)
-        self.assertIn("> - Synthetic note line one", text)
-        self.assertIn("> - Synthetic note line two", text)
-        self.assertEqual(count, 3)
+        self.assertIn("## Synthetic Limbus", text)
+        self.assertIn("### Zapiski #1 - 984.4.20", text)
+        self.assertIn("### Zapiski #2 - 984.4.21", text)
+        # source bullets stay bullets, plain lines become paragraphs
+        self.assertIn("- Synthetic note line one\n\n- Synthetic note line two", text)
+        self.assertNotIn("> - Synthetic note line one", text)
+        self.assertEqual(count, 4)
 
     def test_splash_title_desc_pairs(self) -> None:
         text, count = build_splash_file(self.texts, "en")

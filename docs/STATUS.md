@@ -91,7 +91,7 @@ interfejsu głównego, `197` mówców/tytułów/miejsc) oraz tymczasowy przekła
    - dać sygnał do rozpoczęcia tłumaczenia `AI-tymczasowe` (np. od **Fali 1**:
      `P01`–`P14` — rdzeń UI, ustawienia, tryby, samouczki i słownik bazowy walki,
      lub równolegle na kilku sesjach Arena według `docs/PLAN_TLUMACZENIA_AI.md`),
-   - przetestować w grze paczkę `LCB_PL_Polski_26917622_v6.zip` z Dysku Google (poprawki Czytanek: v9) i
+   - przetestować w grze paczkę `LCB_PL_Polski_26917622_v6.zip` z Dysku Google (poprawki Czytanek: v10) i
      przekazywać kolejne zwrotki Tłumacza.
 2. **Agenci (po sygnale właściciela):** realizować paczki `P01`–`P87` według
    `paczki_ai/SLOWNIK_TERMINOW.md` → `zwrotki/ai/PXX_*.md` →

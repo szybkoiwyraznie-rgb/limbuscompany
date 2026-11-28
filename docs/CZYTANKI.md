@@ -228,7 +228,11 @@ zbiera teksty spoza fabuły, kart Tożsamości i kart E.G.O:
   i E.G.O), wskazówki w walce (`BattleHint*`) i okna pop-up tutoriali
   (`TutorialPopUpDesc`);
 * `02_notatki_dantego_PL` — hasła glosariusza świata (`StoryTheaterDanteNote*`)
-  i pełne pierwszoosobowe wpisy („Zapiski”, `StoryTheaterDanteNoteDetail*`);
+  i pełne pierwszoosobowe wpisy („Zapiski", `StoryTheaterDanteNoteDetail*`);
+  tytuły wpisów i kolejność wg drzewa encyklopedii z StaticData
+  (`storytheater-dantenote*`, E-026), każdy zapis z nagłówkiem
+  „Zapiski #N - data" (numer `titleOrder`, data `days` z danych gry);
+  wiersze z „- " w danych = punkty listy, pozostałe = akapity;
   wpisy bez przekładu pozostają w oryginale;
 * `03_splashe_pobierania_PL` — ekrany z lore Miasta podczas pobierania
   patcha (`FileDownloadDesc`);

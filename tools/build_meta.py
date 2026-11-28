@@ -32,6 +32,7 @@ if __package__ in (None, ""):
 from tools.lcb_text import Texts, stage_label, to_markdown
 from tools.localize import Snapshot
 from tools.md_table_align import align_markdown_tables
+from tools.static_data import StaticData
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -264,21 +265,65 @@ def build_mission_file(texts: Texts, lang: str) -> tuple[str, int]:
 # ---------------------------------------------------------------- file 02
 
 
-def build_notes_file(texts: Texts, lang: str) -> tuple[str, int]:
+def _dante_note_tree(static: StaticData) -> tuple[list[tuple[str, list[int]]], dict[int, dict]]:
+    """Drzewo encyklopedii Notatek Dantego ze StaticData: kategorie z zapiskami
+    w kolejności z danych gry + metadane zapisków (``titleOrder``, ``days``)."""
+    entries: list[tuple[str, list[int]]] = []
+    for _, doc in static.documents("storytheater-dantenote"):
+        rows = doc.get("list", []) if isinstance(doc, dict) else doc
+        for main in rows:
+            for midnode in main.get("middleCategoryList") or []:
+                mc = midnode.get("middleCategory") or {}
+                if mc.get("danteNoteDetailId"):
+                    entries.append((str(mc["name"]),
+                                    [int(i) for i in mc["danteNoteDetailId"]]))
+                for smnode in midnode.get("smallCategoryList") or []:
+                    sc = smnode.get("smallCategory") or {}
+                    if sc.get("danteNoteDetailId"):
+                        entries.append((str(sc["name"]),
+                                        [int(i) for i in sc["danteNoteDetailId"]]))
+                    for sd in smnode.get("smallDetailCategoryList") or []:
+                        if sd.get("danteNoteDetailId"):
+                            entries.append((str(sd["name"]),
+                                            [int(i) for i in sd["danteNoteDetailId"]]))
+    meta: dict[int, dict] = {}
+    for _, doc in static.documents("storytheater-dantenote-detail"):
+        rows = doc.get("list", []) if isinstance(doc, dict) else doc
+        for row in rows:
+            meta[int(row["id"])] = row
+    return entries, meta
+
+
+def _note_blocks(text: str) -> list[str]:
+    """Treść zapisków jako bloki: wiersze zaczynające się od ``- `` = punkty
+    listy, pozostałe = akapity; bloki rozdzielone pustą linią."""
+    out: list[str] = []
+    for line in (ln.strip() for ln in text.split("\n")):
+        if not line:
+            continue
+        out += [line, ""]
+    return out
+
+
+def build_notes_file(texts: Texts, lang: str, static: StaticData | None = None) -> tuple[str, int]:
     lbl = _t(texts, lang)
+    static = static or StaticData(ROOT / "index" / "static-data")
     out = [
         f"# {GAME} — Notatki Dantego (encyklopedia świata)",
         "",
         lbl["reader"],
         "",
         "Hasła odsyłaczowe encyklopedii Dantego (`StoryTheaterDanteNote*`) oraz"
-        " pełne wpisy w pierwszoosobowym stylu zapisków (`StoryTheaterDanteNoteDetail*`)."
+        " pełne wpisy w pierwszoosobowym stylu zapisków (`StoryTheaterDanteNoteDetail*`);"
+        " tytuły wpisów, numery i daty zapisków wg drzewa encyklopedii z danych gry"
+        " (`storytheater-dantenote*` w StaticData)."
         f" {lbl['fallback']}",
         "",
         f"## {lbl['notes_kw']}",
         "",
     ]
     kw_total = 0
+    titles: dict[str, str] = {}
     for n, name in _set_files(texts, "StoryTheaterDanteNote", exclude="StoryTheaterDanteNoteDetail"):
         out += [f"### {lbl['notes_kw_set'].format(n=n)}", ""]
         count = 0
@@ -286,18 +331,32 @@ def build_notes_file(texts: Texts, lang: str) -> tuple[str, int]:
             word = to_markdown(row.get("content"), texts.keywords)
             if word:
                 out.append(f"- **{word}**")
+                titles[str(row.get("id", ""))] = word
                 count += 1
         kw_total += count
         out.append("")
-    out += [f"## {lbl['notes_detail']}", ""]
+    descs: dict[int, str] = {}
+    for _, name in _set_files(texts, "StoryTheaterDanteNoteDetail"):
+        for row in _rows(texts, name):
+            match = re.fullmatch(r"DanteNoteDetail_(\d+)", str(row.get("id", "")))
+            if match:
+                descs[int(match.group(1))] = str(row.get("desc", "") or "")
+    entries, note_meta = _dante_note_tree(static)
     entry_total = 0
-    for n, name in _set_files(texts, "StoryTheaterDanteNoteDetail"):
-        out += [f"### {lbl['notes_detail_set'].format(n=n)}", ""]
-        for row in sorted(texts.table(name), key=lambda r: int(re.sub(r"\D", "", str(r.get("id", ""))) or 0)):
-            content = to_markdown(row.get("desc"), texts.keywords)
+    for cname, ids in entries:
+        notes = []
+        for did in sorted(ids, key=lambda i: int(note_meta[i]["titleOrder"])):
+            content = to_markdown(descs.get(did, ""), texts.keywords)
             if content:
-                out += [_quote(content), ""]
-                entry_total += 1
+                notes.append((did, content))
+        if not notes:
+            continue
+        out += [f"## {titles.get(cname, cname)}", ""]
+        for did, content in notes:
+            rec = note_meta[did]
+            out += [f"### Zapiski #{rec['titleOrder']} - {rec['days']}", ""]
+            out += _note_blocks(content)
+            entry_total += 1
     if not kw_total and not entry_total:
         return "", 0
     return "\n".join(out).rstrip() + "\n", kw_total + entry_total

@@ -945,3 +945,37 @@ kolizjach z story.
   `2f198dc2c7a7743b044abc1ba2c47625d1d73355f9d95f0d728038eaee06ea25`;
   Drive `1ZdqbWMCSPpIK6eUhSpTcWXDRhsvC9r0R`; v8 w koszu. Patch v6 bez zmian.
 - **Testy:** `76/76`. `docs/CZYTANKI.md` i `docs/STATUS.md` zaktualizowane.
+
+## E-026 · 2026-11-28 · Format „Notatek Dantego": tytuły wpisów, numery i daty zapisków (zgłoszenie właściciela) — Czytanki v10
+
+**Zgłoszenie:** `02_notatki_dantego_PL.md` bez tytułów wpisów, nagłówków i dat
+zapisków — wszystkie wiersze treści jako cytaty blokowe „> ".
+
+**Diagnoza:** stary `build_notes_file` renderował zestawy lokalizacji płasko
+(cytaty), bez struktury encyklopedii. Struktura jest w StaticData:
+`storytheater-dantenote/storytheater-dantenote-1.json` = drzewo (main City →
+middle → small → smallDetail, każda kategoria z listą
+`danteNoteDetailId`), a `storytheater-dantenote-detail-1..10.json` = metadane
+zapisków {id, `titleOrder`, `days`}. Walidacja danych: 98 kategorii z
+zapiskami / 176 id (43 i 61 nie istnieją w danych gry), `titleOrder` w każdej
+kategorii = sekwencja 1..K, każda kategoria ma hasło w słowniku PL.
+
+**Fix (`tools/build_meta.py` + `index/static-data`):**
+- tabele `storytheater-dantenote` + `storytheater-dantenote-detail` dograne z
+  OpenLethe (`origin/main 281f0bf9`) do `index/static-data/`;
+- `build_notes_file(texts, lang, static=None)`: wpisy jako `## <hasło>`
+  (mapowanie nazwy kategorii → hasło ze `StoryTheaterDanteNote*`), zapiski
+  jako `### Zapiski #<titleOrder> - <days>` (kolejność wg danych gry); treść:
+  wiersze zaczynające się od „- " = punkty listy, pozostałe = akapity
+  (każdy wiersz osobnym blokiem); koniec cytatu blokowego „> ";
+- zniknął podział na „Zapiski — zestaw N" (techniczne okna odblokowań;
+  kolejność teraz = drzewo encyklopedii);
+- test `test_notes_keywords_and_details` na syntetycznym StaticData
+  (drzewo + metadane w fixturze) — licznik 4.
+- **Wynik:** 98 wpisów / 176 zapisków; Złote Gałęzie = #1–#4
+  (984.4.26 → 985.2.22) zgodnie z danymi.
+- **Czytanki v10:** `dist/LCB_Czytanki_PL_2026-11-28_v10.zip` = 99 plików MD,
+  2 535 896 B, SHA-256
+  `c2adc62b19782393df66d48a7973c8f6df863355f351c397c38bdc4c337255aa`;
+  Drive `1zKaj-GkRTzrL_lI8AYHVl4eucpzNGu1B`; v9 w koszu. Patch v6 bez zmian.
+- **Testy:** `76/76`.
