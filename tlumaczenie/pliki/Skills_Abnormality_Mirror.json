@@ -1062,10 +1062,406 @@
       "en_sha256": "1ff8e85c5602829018b797c1ed65521dc42751a05b98888c16719ad57b7705c9",
       "origin": "ai"
     },
+    "dataList[id=809005].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma Uniesienie, zadaje +100% obrażeń za każdy Licznik",
+      "kr_sha256": "9d3120f0bbb03960453d96e47ece7457ba1cf2244634caa9e6c87d6836d793fa",
+      "en_sha256": "85dcd42bfeb6582cb1ba932d187e2ed6fec2d681c9559a96c671d0a28ab30636",
+      "origin": "ai"
+    },
+    "dataList[id=809005].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma Pijacki Nastrój, zadaje 0 obrażeń, a użytkownik traci 50 HP",
+      "kr_sha256": "a7bd39540a1885741bfc794205796992b4dd71f0723d3c57ce38fd28ba81028a",
+      "en_sha256": "3576f26a48c4006a25353b293dee62a1a9572a87b45757298588ce0c791315c2",
+      "origin": "ai"
+    },
+    "dataList[id=809005].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] usuwa całe Uniesienie albo Pijacki Nastrój",
+      "kr_sha256": "ac329de4618d046d7c332bca8669a40af6842768271d2fc65c2475636a03a500",
+      "en_sha256": "f8a473c88871023740e4d64044cea8b874dfc61059d687f7c90f494095ce3ce2",
+      "origin": "ai"
+    },
+    "dataList[id=809005].levelList[level=1].desc": {
+      "pl": "priorytet: wrogowie z Uniesieniem\njeżeli cel nie ma Pijackiego Nastroju, Moc Starcia +5",
+      "kr_sha256": "563342cb85054b342b0980e91cccdca3a8a59af78347a1b5bd33bb18d8801e6e",
+      "en_sha256": "cb8b114a1c243b08beefb14c38a0f5f9f09f7f519e9cbff4ba29a197d6aedb70",
+      "origin": "ai"
+    },
     "dataList[id=809005].levelList[level=1].name": {
       "pl": "I'll Have This!",
       "kr_sha256": "77da2661345aa4c4b861dfc13b57f0f47d36d65a0bc779b1fcfd23b6668d75a8",
       "en_sha256": "1ff8e85c5602829018b797c1ed65521dc42751a05b98888c16719ad57b7705c9",
+      "origin": "ai"
+    },
+    "dataList[id=809006].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli jednostka zaatakowała Fairy Wine, w następnej turze przywraca 10% HP i zyskuje 2 Wzrostu Mocy Ataku, 2 Pośpiechu i 2 Ochrony.",
+      "kr_sha256": "badb5c647ffd59cdcd88212e2b3650ab098ff75bfc963462bbb8bc96304e514c",
+      "en_sha256": "301538f5765b013e8a037d95ebff8cb9a9f510ae8d0e6176b8fa2d5857d29300",
+      "origin": "ai"
+    },
+    "dataList[id=809006].levelList[level=1].desc": {
+      "pl": "priorytet: Fairy Wine",
+      "kr_sha256": "b7e2f4382f7622414a47add9fe91f6f4f9cc68dd1f6501f4ca0dd4b42a448193",
+      "en_sha256": "a66cb812bcf15f8c31dbb14f48a30c7e052c975fb157aeb9daf9655328d5f4a7",
+      "origin": "ai"
+    },
+    "dataList[id=809006].levelList[level=1].name": {
+      "pl": "Not This Time!",
+      "kr_sha256": "f8c281ee7ed975d16920452ccb98856cb94628bdc71f400d465e921e6e715f0b",
+      "en_sha256": "ce1af2b613bd9adc46bd84b5ea6a9ffaeefca6f79a14d8863227a1d71d5b5304",
+      "origin": "ai"
+    },
+    "dataList[id=809007].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje 1 Spętania w następnej turze",
+      "kr_sha256": "798d4c99dcaeef421f5b1ac725e7909dc1534a1c62288ed80422b198e74b149c",
+      "en_sha256": "03ef6aae513ee4b3dfc61a33376ad96c6336d4eda175570db9e216a6324cc2dd",
+      "origin": "ai"
+    },
+    "dataList[id=809007].levelList[level=1].name": {
+      "pl": "You Like This Brew?",
+      "kr_sha256": "ff4087317c92e2c334e0c07d2a21ce9848bc2a026fc49cc9f5fc48c4e0e0b854",
+      "en_sha256": "f2db503945449cdebf941b807e5d7c17ffb751b27d96dfd9a2e3339afed0754a",
+      "origin": "ai"
+    },
+    "dataList[id=809101].levelList[level=1].desc": {
+      "pl": "[WhenUse] przekształca Uniesienie przeciwnika w Pijacki Nastrój zgodnie z jego Licznikiem",
+      "kr_sha256": "28c2b32bbc3a959bc696ad7b82d3aa60cf518099972ca73cc5138e1be7fde63d",
+      "en_sha256": "baf9075ddb64549d33a63be391af7b47027fea5a8e934cd1d48f040deb1d6ce6",
+      "origin": "ai"
+    },
+    "dataList[id=809101].levelList[level=1].name": {
+      "pl": "Fairy Wine",
+      "kr_sha256": "8e8b5db1eb126bda14ac0a45ab8cb41439071c8dc247c42dac6f9a2ed0adb9e5",
+      "en_sha256": "7241d6136a309ddf6a1099ed2d7d8486868743cd3f8b2731e062e8e0a13ad2ff",
+      "origin": "ai"
+    },
+    "dataList[id=809201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma Krwawienie, nakłada 1 Paraliżu",
+      "kr_sha256": "fd5ff6f089148c7b53f4092135251fcce796051ba01ebb58e8bcbf399034ddca",
+      "en_sha256": "e46767fbd70b0e6dfd57d574130032b2e2b862aaa8b922b22aa5e1201e9e7c96",
+      "origin": "ai"
+    },
+    "dataList[id=809201].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika Krwawienia",
+      "kr_sha256": "ff7f5efcead0e79fd9af3c9d6aa9e92150b01a52b40c9a0d258d89438af32621",
+      "en_sha256": "1a2814f69f7c014e9a554cb59a535717a65d94e9b3dd80dec4992e8609b2ae30",
+      "origin": "ai"
+    },
+    "dataList[id=809201].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 2+ Liczników Krwawienia, nakłada 5 Krwawienia.",
+      "kr_sha256": "89f30c3b9ff36ca1ccc0c4010fdab4237a97b792429cae4836dcdc9deee57014",
+      "en_sha256": "ea98d3acced2925324de4eef01774c6eeba0110cace5934c0fd304b326248001",
+      "origin": "ai"
+    },
+    "dataList[id=809201].levelList[level=1].name": {
+      "pl": "Skim Wounds",
+      "kr_sha256": "b20806e19382ccc584bf967557b80d438a65264e43c99d8eeaac7b0fa0ffea33",
+      "en_sha256": "8c504685be9f9d42da5ae9c4dfc2a1883b8def8a2ddc17d80bb1e1be3e84bba5",
+      "origin": "ai"
+    },
+    "dataList[id=809202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma Krwawienie, nakłada 1 Spętania w następnej turze",
+      "kr_sha256": "203c53eb009836b96a520b3e48948135085a9b7255e97e4990ebd0b203c8d755",
+      "en_sha256": "c8b3f975a1453b6e50248368e8c080553e61f82fe0b834966eedc3ab839b1910",
+      "origin": "ai"
+    },
+    "dataList[id=809202].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Krwawienia",
+      "kr_sha256": "60958c4f6852ed172e8ac792a696c2ed8f99fdf2176036c5f98893903436f791",
+      "en_sha256": "dadc1cc6f019d8d215761e751fba0943493613b656b55c92d35afe3cba6172e1",
+      "origin": "ai"
+    },
+    "dataList[id=809202].levelList[level=1].name": {
+      "pl": "Entangled Injury",
+      "kr_sha256": "714344e500cc7293adb41c750b86d8cb06fd87bc7499bf6c70f68a11eeb81e03",
+      "en_sha256": "dd2f86864936265cc6e06d5fead4600d8f33b7edce04e48ec99de1917267f33e",
+      "origin": "ai"
+    },
+    "dataList[id=809203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Krwawienia",
+      "kr_sha256": "60958c4f6852ed172e8ac792a696c2ed8f99fdf2176036c5f98893903436f791",
+      "en_sha256": "dadc1cc6f019d8d215761e751fba0943493613b656b55c92d35afe3cba6172e1",
+      "origin": "ai"
+    },
+    "dataList[id=809203].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma Krwawienie, przywraca 20 HP",
+      "kr_sha256": "fe7e11933b6fdc631cf302bce67d7af273be8545de050538bf9443dd1271c5f8",
+      "en_sha256": "1ddf44673df6980b3b643f6fef73845f646f1892946fdf4eea1d8205a505cecd",
+      "origin": "ai"
+    },
+    "dataList[id=809203].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 2+ Liczników Krwawienia, nakłada 5 Krwawienia.",
+      "kr_sha256": "89f30c3b9ff36ca1ccc0c4010fdab4237a97b792429cae4836dcdc9deee57014",
+      "en_sha256": "ea98d3acced2925324de4eef01774c6eeba0110cace5934c0fd304b326248001",
+      "origin": "ai"
+    },
+    "dataList[id=809203].levelList[level=1].name": {
+      "pl": "Smeared Flesh",
+      "kr_sha256": "19fae44876783df7f59112fa843a6307f11a3e7fce339a48167acdc906b1f6d9",
+      "en_sha256": "d2fa128e0b2eda94eba05071ccf3bf3b7f12d24bf5a8b7d9d65a8bb87a287d6b",
+      "origin": "ai"
+    },
+    "dataList[id=809204].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa wszystkie Liczniki Krwawienia",
+      "kr_sha256": "96b6496f379b28ffca822fd631a856bca4a390f0e8e93d2baf2a357ef5de0b8e",
+      "en_sha256": "21061cf192f1486bfbe0840d5d5e27b48f328996c6f422d57eb622a3f5332dc2",
+      "origin": "ai"
+    },
+    "dataList[id=809204].levelList[level=1].desc": {
+      "pl": "[WhenUse] tworzy Giant Clover w następnej turze\n[DefeatDuel] Giant Clover powstaje z 70% HP.",
+      "kr_sha256": "94171583ce7776020dc44b45901bf21554ccddb3cac804e778919099857a2a85",
+      "en_sha256": "b261ad8466e3f38a85c27fdaf0ddedda71cf78f33dee16711e1bf761abcb3526",
+      "origin": "ai"
+    },
+    "dataList[id=809204].levelList[level=1].name": {
+      "pl": "Casting Shade",
+      "kr_sha256": "09b3740a3059abaa6158a83e585985ae2c49b2897e542e2e72de3cf4230892fb",
+      "en_sha256": "e0b37ab990f0de1c7225e8df94912d752b6f1d8469e88d3ecc24373a19a66396",
+      "origin": "ai"
+    },
+    "dataList[id=809205].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przywraca 1% Maks. HP za każde Krwawienie celu\nzużywa wszystkie Liczniki Krwawienia",
+      "kr_sha256": "46b397f67a64f28fe36264b311622366a2100d2788717ed1c4c9ea657d6a0610",
+      "en_sha256": "a6428f675292890fdae9c9e7464e0fa17c981afd3be6bde7f58531300152acaf",
+      "origin": "ai"
+    },
+    "dataList[id=809205].levelList[level=1].name": {
+      "pl": "Churning",
+      "kr_sha256": "0ee9f8952a4fc208c3d784b6212d84c05599bd6a354c58470f7f21040312bddb",
+      "en_sha256": "7284ba05a437ca53d48b27a30b89cac7e1dbe8412ec3ecb9b511e4d17d694a46",
+      "origin": "ai"
+    },
+    "dataList[id=809401].levelList[level=1].name": {
+      "pl": "Sprout",
+      "kr_sha256": "be508c61def785256a21934e645731bacc3dbd81832a28481e284d1fa5325900",
+      "en_sha256": "badd2252b629e326bf47991a3573829cc1f0ccb783ca7b554de803fc38a0e7eb",
+      "origin": "ai"
+    },
+    "dataList[id=809402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[DefeatDuel] otrzymuje 20 obrażeń",
+      "kr_sha256": "4d5b0a3d32311eac7c40e322c5fc597b1c0278f854262a4afaf0edcc8f1db9f8",
+      "en_sha256": "18122627792433970c1690dfa73c0abe453a0573af2237cabba1eb0929f1156e",
+      "origin": "ai"
+    },
+    "dataList[id=809402].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[DefeatDuel] traci 1 Złotego Połysku",
+      "kr_sha256": "50498dacf69d34f74a770020fb357787b77f873037d6d07696d07f5b0d723400",
+      "en_sha256": "bce44827da380093be7275c3567f61efc50dca1662bbc8a820e065cc598c832c",
+      "origin": "ai"
+    },
+    "dataList[id=809402].levelList[level=1].name": {
+      "pl": "Golden Fruit",
+      "kr_sha256": "36961f3f27b791794622b296de9a58562e12fd3a89b94c2e67cf796abef39cef",
+      "en_sha256": "73bd4e66f4e2db0acf57ff56b43c36d83c3e4e76aab08989a8d75eefe30eb280",
+      "origin": "ai"
+    },
+    "dataList[id=809403].levelList[level=1].name": {
+      "pl": "Solid Gold",
+      "kr_sha256": "11cb09a10630bc295c65040aca957ea584b84ddc4b3b289185cfa96c232bc5ec",
+      "en_sha256": "1e3ac5db994e5a7f0dac2456d9ce3baa43c04f1f86f7e9014d46055896d72f82",
+      "origin": "ai"
+    },
+    "dataList[id=809501].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Core przywraca 3 HP",
+      "kr_sha256": "aae7aa9f94c51a91751aec2eda40a0cecea378a41a63e715e5b8e8e8786ba0af",
+      "en_sha256": "3ccf09918daa28132fc6d8c3c024151df5e39c5d49f7ae33c2ad3ef9316a402f",
+      "origin": "ai"
+    },
+    "dataList[id=809501].levelList[level=1].name": {
+      "pl": "Absorb Nutrients",
+      "kr_sha256": "f8d7c6128f8fa0d8eb8d5d757e923e268c72a2e56a9bca60c115ab5bebceaa2a",
+      "en_sha256": "db0cb59425247eae61c901b669bf20899bd7ff2f1f8ceb99ffaac524cc59a0b6",
+      "origin": "ai"
+    },
+    "dataList[id=809502].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika Krwawienia w następnej turze",
+      "kr_sha256": "dbf9d30236f1fc4e387201538ff5af70d204a2a1ae213fb01228c01ef548b496",
+      "en_sha256": "46ba35de056cba6b91f4a2e7af100d3a0d30d6907dacdd88fc5dccee850d80a4",
+      "origin": "ai"
+    },
+    "dataList[id=809502].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Wrażliwości w następnej turze",
+      "kr_sha256": "de917e4fadee1990bb6f0ff70fc808f8ee378ff439b0eaae0b1cd0346c177f0f",
+      "en_sha256": "701dd90f66e5623eb105541b9fd13f8442e33d7b6bde98831a35b261c052c0ae",
+      "origin": "ai"
+    },
+    "dataList[id=809502].levelList[level=1].name": {
+      "pl": "Deteriorating Flesh",
+      "kr_sha256": "1d0a40a97a8c473d087fcd8cb9762f04441cd63f5d25ef9a31eb8359847be9a3",
+      "en_sha256": "04ecf040c4c0cbec74c0e49f2374a77efb0c551f4ca44b8ab5c29596edf28065",
+      "origin": "ai"
+    },
+    "dataList[id=809503].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Core przywraca 10 HP",
+      "kr_sha256": "0aebbbcde8593eb5184720f4c3431e9cd9e8c1f07f5d56f38fcb3a8c9ffa6a81",
+      "en_sha256": "307c5a2faea232be272b6be1de831728ab35ff2c92f269e05117ffd897cd70b7",
+      "origin": "ai"
+    },
+    "dataList[id=809503].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 Krwawienia w następnej turze",
+      "kr_sha256": "c6221bf88303e4e4b18452aa0ab672aeec8ea43eeb16ccb0c899323931a7e7a3",
+      "en_sha256": "cdd7b8ca263fb1e1362e0ce63d0808372aa95b3fb086cbc37301ac82815fc07c",
+      "origin": "ai"
+    },
+    "dataList[id=809503].levelList[level=1].name": {
+      "pl": "Entangle",
+      "kr_sha256": "310da02bd21e76527175e12c38301184c534d8e28d2991f9cdfde02e1a1ad3b6",
+      "en_sha256": "45fe07b35406916f9bbb449212d1b211797c635b1a766069a3c628283231734e",
+      "origin": "ai"
+    },
+    "dataList[id=809601].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Podpalenia",
+      "kr_sha256": "d396ae1e9fab2f0f88e29d78e6ff08d82de29151f5bcedbb03575f2ae21b57f4",
+      "en_sha256": "9773fd4d5a1e17a48087f61356c9bb365ae548055b2ae81c3e61f18ba5300870",
+      "origin": "ai"
+    },
+    "dataList[id=809601].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 Podpalenia",
+      "kr_sha256": "d396ae1e9fab2f0f88e29d78e6ff08d82de29151f5bcedbb03575f2ae21b57f4",
+      "en_sha256": "9773fd4d5a1e17a48087f61356c9bb365ae548055b2ae81c3e61f18ba5300870",
+      "origin": "ai"
+    },
+    "dataList[id=809601].levelList[level=1].name": {
+      "pl": "Ram",
+      "kr_sha256": "1b425c010681d9af97ed40323be42084e8dacbbcdd5e02dc2d6c99c6f7211c88",
+      "en_sha256": "76e11af94d353c6edf577441a23d0f5ebe7b3beb5fc36afd05987c3c14b46830",
+      "origin": "ai"
+    },
+    "dataList[id=809602].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika Podpalenia",
+      "kr_sha256": "83784435c09ee0eef548b8569ba39ff71967637bef7f562f9a04e6fa3df362df",
+      "en_sha256": "96fc1ef9ad58bc8ed0e13ace76372ea6158b2d5c2172ccaf23eff4d60ecc78f2",
+      "origin": "ai"
+    },
+    "dataList[id=809602].levelList[level=1].name": {
+      "pl": "Pin Down",
+      "kr_sha256": "da6cc9c7e202b8746178d8e6f2d560716fa129a6e5b0b5ad0b08dc713b1a8cf6",
+      "en_sha256": "537c6d819d591dd0f767a547a5a66aa4bb988fbfc6672faf1642e26e6d6305a9",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Podpalenia",
+      "kr_sha256": "bba04b1aaf9b2e90f0ca8f1a986b34f8d5bb9cca000e85c86d93ffa2943a6f4c",
+      "en_sha256": "babedc42942282fe2b1cb75549cfa43939a6dd832701cd93fdba1f4913b0d975",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "64cadef2e5bbbfacd6521d08e3b2daa69158d66f167877a03c34f15a562356ce",
+      "en_sha256": "8e84d0498f58e220ce419ca9d3434c3690f4c08848fa0705e737a1618fbca665",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Podpalenia",
+      "kr_sha256": "bba04b1aaf9b2e90f0ca8f1a986b34f8d5bb9cca000e85c86d93ffa2943a6f4c",
+      "en_sha256": "babedc42942282fe2b1cb75549cfa43939a6dd832701cd93fdba1f4913b0d975",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "64cadef2e5bbbfacd6521d08e3b2daa69158d66f167877a03c34f15a562356ce",
+      "en_sha256": "8e84d0498f58e220ce419ca9d3434c3690f4c08848fa0705e737a1618fbca665",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Podpalenia",
+      "kr_sha256": "bba04b1aaf9b2e90f0ca8f1a986b34f8d5bb9cca000e85c86d93ffa2943a6f4c",
+      "en_sha256": "babedc42942282fe2b1cb75549cfa43939a6dd832701cd93fdba1f4913b0d975",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia o 20% zadanych obrażeń",
+      "kr_sha256": "64cadef2e5bbbfacd6521d08e3b2daa69158d66f167877a03c34f15a562356ce",
+      "en_sha256": "8e84d0498f58e220ce419ca9d3434c3690f4c08848fa0705e737a1618fbca665",
+      "origin": "ai"
+    },
+    "dataList[id=809603].levelList[level=1].name": {
+      "pl": "Charge In",
+      "kr_sha256": "89de63b723a67ced124061a5694cdd6e09d20c291815c9c5c981c7466f74c67e",
+      "en_sha256": "d1cca637781704bfbb948b35768ec09c92920bf37becd2be7ebdebd62037a7e3",
+      "origin": "ai"
+    },
+    "dataList[id=809604].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] cel traci 15 SP",
+      "kr_sha256": "b696c2b5ff70e46a7b1e83c0fac6d514d019f3fd5e110f0f84dfc8e4b2613b07",
+      "en_sha256": "2f2a953c6d2613b876cff30de09a14b6a6a41b3558a5639f8149ca90cf695160",
+      "origin": "ai"
+    },
+    "dataList[id=809604].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] podnosi Próg Oszołomienia celu o 50% zadanych obrażeń",
+      "kr_sha256": "18972f33bc0b243f176d6b6db6d1e5e879b0888585ec234d2de1c4e1ba983d2d",
+      "en_sha256": "69aad7f65d32102e13d411b3fe37c3cf3b1df6d74c1f4b54e33db54fba4d2d30",
+      "origin": "ai"
+    },
+    "dataList[id=809604].levelList[level=1].desc": {
+      "pl": "[DefeatDuel] zyskuje 1 Nierozwiązany Smutek",
+      "kr_sha256": "722ed4b9ce91767e048fd6195caeebba0337ed19c43ddbfa6f2536b50dd03526",
+      "en_sha256": "b22e5997da393b68e310a6243cc80a3961a766e46c83c1664ca59cb3412eb5dd",
+      "origin": "ai"
+    },
+    "dataList[id=809604].levelList[level=1].name": {
+      "pl": "Overflowing Sorrow",
+      "kr_sha256": "55bb6cbae62444e305e35d96601de0cbe98c852b6d1929f7017ac036d1d0069a",
+      "en_sha256": "f566e284a1d66969e755444af00f288952331c70b3e4429b42abe6d0e23e800a",
+      "origin": "ai"
+    },
+    "dataList[id=809605].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Chwiejne Emocje",
+      "kr_sha256": "fc2d1ee6163ec0c67115040b15d674b247a15ee77dfbde9230f15e243422c4e0",
+      "en_sha256": "6f78af9dc8265622d99598a05e94660eda5166d40c5e6cd6bc43cf707d7b9633",
+      "origin": "ai"
+    },
+    "dataList[id=809605].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada +3 Licznika Zatonięcia",
+      "kr_sha256": "e47baa739c02852cac346bd7f620bdee75ac01145221eb73b2130d63a15608ae",
+      "en_sha256": "510ed015e08ec10461f206f4d5febda3edd0182b7fa289409f82793175f6fa9f",
+      "origin": "ai"
+    },
+    "dataList[id=809605].levelList[level=1].desc": {
+      "pl": "[WinDuel] zyskuje 1 Pośpiech i 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "fe2d255f885ac16c60d55b726ada0f88da75edc4da2812753f22cede839ad264",
+      "en_sha256": "ba3f75bb6c1532c4ee8334a4b8593195d2f9c216210c9c6227616d08d8709570",
+      "origin": "ai"
+    },
+    "dataList[id=809605].levelList[level=1].name": {
+      "pl": "Heated Cries",
+      "kr_sha256": "d9dcb173016eed0d7a08266036bb579fdea0cbfaaef66c6a247b73b7290779c3",
+      "en_sha256": "59e4fbecc22872024fc7e59f5e4dc64c93e715d4c42fee94d7ed7a5cb2041305",
+      "origin": "ai"
+    },
+    "dataList[id=809606].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Chwiejne Emocje",
+      "kr_sha256": "fc2d1ee6163ec0c67115040b15d674b247a15ee77dfbde9230f15e243422c4e0",
+      "en_sha256": "6f78af9dc8265622d99598a05e94660eda5166d40c5e6cd6bc43cf707d7b9633",
+      "origin": "ai"
+    },
+    "dataList[id=809606].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=809606].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 Chwiejne Emocje",
+      "kr_sha256": "fc2d1ee6163ec0c67115040b15d674b247a15ee77dfbde9230f15e243422c4e0",
+      "en_sha256": "6f78af9dc8265622d99598a05e94660eda5166d40c5e6cd6bc43cf707d7b9633",
+      "origin": "ai"
+    },
+    "dataList[id=809606].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 Zatonięcia",
+      "kr_sha256": "475d4577967188712a8f339c7c7e17abe8d1b39f4351457746431288d3f28b53",
+      "en_sha256": "26dece406cc812919d013a58f28f815e3c029f455e063f0606a0dca5014963cb",
+      "origin": "ai"
+    },
+    "dataList[id=809606].levelList[level=1].desc": {
+      "pl": "[WinDuel] zyskuje 1 Pośpiech i 1 Wzrost Mocy Ataku w następnej turze",
+      "kr_sha256": "fe2d255f885ac16c60d55b726ada0f88da75edc4da2812753f22cede839ad264",
+      "en_sha256": "ba3f75bb6c1532c4ee8334a4b8593195d2f9c216210c9c6227616d08d8709570",
+      "origin": "ai"
+    },
+    "dataList[id=809606].levelList[level=1].name": {
+      "pl": "Heated Screams",
+      "kr_sha256": "da58498821dffb4732618690dc218ec7e947a3794996fc9518d0b9365251395b",
+      "en_sha256": "b8b74af3ce5ac7f5ece52dd29bd7843420e8c2303bc2b918db70af9512f68d77",
       "origin": "ai"
     }
   }

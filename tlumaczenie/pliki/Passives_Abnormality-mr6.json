@@ -1,0 +1,196 @@
+{
+  "entries": {
+    "dataList[id=118301].desc": {
+      "pl": "Na początku każdej tury: Core i Część zyskują 900 Tarczy.\n- jeżeli jednostka z najwcześniejszą kolejnością rozmieszczenia ma [Teaching], zyskuje o 300 mniej za każdy Licznik\n- jeżeli jednostka z najwcześniejszą kolejnością rozmieszczenia ma 3+ [Teaching], jednostka nie zyskuje Tarczy przez resztę walki",
+      "kr_sha256": "5ec46f18049ce384c3e2e4e5e068c1c7de5d72dc0a65ab4bc7feceaa83444a4a",
+      "en_sha256": "4bb84efbd44ae1ae4297cbf91d5a1504fba9f8f2067f2881040b6afd13c7aa14",
+      "origin": "ai"
+    },
+    "dataList[id=118301].name": {
+      "pl": "I am yet to hear your answer.",
+      "kr_sha256": "4b1d549af713ab53cc78f56ca92752e51985fbce8b7cab0c4cdd2136296ea230",
+      "en_sha256": "44ca1fafa70ec09a16a47d6154c98698c6f79eef8b6fc808822f627702866b6e",
+      "origin": "ai"
+    },
+    "dataList[id=118701].desc": {
+      "pl": "jeżeli na początku tury istnieją jednostki przywołane przez tę jednostkę, przywraca 10 SP",
+      "kr_sha256": "9004f6443932144ec976fac7cdae8ad5da0912c87f03eda413ee6d0913400ccb",
+      "en_sha256": "15db4276f73592f09d2115bc0059ab755aac451f6d0fe5d86c2e57271c7b2566",
+      "origin": "ai"
+    },
+    "dataList[id=118701].name": {
+      "pl": "Watch this little girl...!",
+      "kr_sha256": "50320ed37958f658c11b955bd36021a9dc71262e758d123460a4e339d74ba56f",
+      "en_sha256": "90910eb3a23bc03547c9e67d2e0faebe2276a73293facdfbcd08d905a52f26c2",
+      "origin": "ai"
+    },
+    "dataList[id=124001].desc": {
+      "pl": "gdy jednostka ginie od ataku wroga lub obrażeń efektów statusów, zwiększa [BloodDinner] o 30. nie uruchamia się, jeżeli jednostka zabiła się sama.",
+      "kr_sha256": "5b804bc76953877062f388c8e6172e562072cfdba4412e79b0d578a78ef6ac17",
+      "en_sha256": "9352799754d5d03b770968b8cabecc0b2eaf3b9b055ea14bde00d420b7ca5cfe",
+      "origin": "ai"
+    },
+    "dataList[id=124001].name": {
+      "pl": "Shattering, Scattering Hardblood",
+      "kr_sha256": "17ed17078b9735db2b0f6a8f300dee8bff776900b1902f4a17af53aea18f78bd",
+      "en_sha256": "563eadb0f06644700cc18a25a7e05717da32f5980eec0d6d61e08c6e20087421",
+      "origin": "ai"
+    },
+    "dataList[id=124002].desc": {
+      "pl": "nakłada specjalny efekt na wszystkich sojuszników",
+      "kr_sha256": "43c2859d960446d27e01328b670589867213097d6759c4d3f29398fd9a4dcf75",
+      "en_sha256": "ac7eb28557132c4d9ac77bd49f5e8e2ea6cc49b3910c1305753a1fbad2c973ef",
+      "origin": "ai"
+    },
+    "dataList[id=124002].name": {
+      "pl": "Memories of the Journeys Past",
+      "kr_sha256": "dddf5d229ad70dc60e1b47d350fb919da8dae250ebcd787e990fe2449a741cb4",
+      "en_sha256": "1344a59915921002667caf851de44c98b89cb1b2c605545801ba47bbb09d5e71",
+      "origin": "ai"
+    },
+    "dataList[id=124003].desc": {
+      "pl": "na początku tury, nakłada 3 [Laceration] i zwiększa Licznik [Laceration] o 1 wszystkim wrogom",
+      "kr_sha256": "4ec9d160f5f31b78094296582782886170bbb0237669da47966db0890eefe53d",
+      "en_sha256": "98e366ff2ae4e7fb7fdde887b91c6a811b3ac60a6a6fffccf833d6a14ab3f04a",
+      "origin": "ai"
+    },
+    "dataList[id=124003].name": {
+      "pl": "Memories of the Journeys Past",
+      "kr_sha256": "dddf5d229ad70dc60e1b47d350fb919da8dae250ebcd787e990fe2449a741cb4",
+      "en_sha256": "1344a59915921002667caf851de44c98b89cb1b2c605545801ba47bbb09d5e71",
+      "origin": "ai"
+    },
+    "dataList[id=124004].desc": {
+      "pl": "na koniec tury, nakłada 1 [RegainedStrength] na Don Kichota",
+      "kr_sha256": "dbe35257fbdb2a8046257dbf268af0f8d69045f0c1144d86f8b4d31e060170f4",
+      "en_sha256": "d1795da1b77b8cae12ce9b4b27f250b7cda14b94c3168cb57e6f85d87c364076",
+      "origin": "ai"
+    },
+    "dataList[id=124004].name": {
+      "pl": "Memories of the Journeys Past",
+      "kr_sha256": "dddf5d229ad70dc60e1b47d350fb919da8dae250ebcd787e990fe2449a741cb4",
+      "en_sha256": "1344a59915921002667caf851de44c98b89cb1b2c605545801ba47bbb09d5e71",
+      "origin": "ai"
+    },
+    "dataList[id=124105].desc": {
+      "pl": "Na koniec tury: jeżeli HP 90% lub mniej, albo na koniec 2. tury, przeładowuje [BulletPropellant] i zmienia wzorzec w następnej turze\n- jeżeli jednostka jest Oszołomiona, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "3c0f5fe0620a01a09babe5d2ebe40dec49e4e7a6c9c071f0a98f64bd2460e481",
+      "en_sha256": "dd65ac61d8141af1b17e29d60b8c196df572a10ba136e725759261d1ecccc817",
+      "origin": "ai"
+    },
+    "dataList[id=124105].name": {
+      "pl": "Przeładowanie Pocisku Tygrysiego Znaku",
+      "kr_sha256": "3605648a0ec2b6530724880ebb5d934d36a013611f8439b2f5da8f0e8283a2a8",
+      "en_sha256": "47243f08d809250a6357089c60c4b9997bf8869f49a4debd2a9f3bcf634b4ad5",
+      "origin": "ai"
+    },
+    "dataList[id=124106].desc": {
+      "pl": "Na koniec tury: jeżeli HP 80% lub mniej, albo na koniec 4. tury, zmienia wzorzec w następnej turze\n- używa potężnego ataku („Tanglecleaver”), powtarzając go co 3. turę. +10 do Minimalnej i Maksymalnej Szybkości w turach, w których jednostka używa tej Umiejętności\n- na początku tej tury, zyskuje 25 [BattleSense]\n- jeżeli jednostka jest Oszołomiona, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "ddd79355289d2056b53a858cb8a106e8acebca946b07c5caaaecd92ebb795f4a",
+      "en_sha256": "acc5825ef60fe3cc02e44e4034360a0017b24a2244506c8185f250980efec2c8",
+      "origin": "ai"
+    },
+    "dataList[id=124106].name": {
+      "pl": "Lei Heng [雷橫]",
+      "kr_sha256": "cc00a00a1706a0effa66080380bf6a2a19d236e4da14c9b48e1242ec8f2006a7",
+      "en_sha256": "a93a06ac397da9cb538f85b3c70deb73bc56f15df290953ad9532d626724996c",
+      "origin": "ai"
+    },
+    "dataList[id=124107].desc": {
+      "pl": "jeżeli HP jednostki spadło do 60% lub mniej na koniec tury, albo jeżeli w następnej turze jednostka ma użyć potężnego ataku („Tanglecleaver”) po raz drugi w tej walce, zmienia wzorzec w następnej turze\n- na początku tej tury, zyskuje 1 [Irritation]\n- na początku tej tury, zyskuje 18 [BulletPropellantSpecial] i natychmiast przeładowuje\n· jeżeli jednostka zużyje całe [BulletPropellantSpecial], efekt zmienia się w [BulletPropellant], a jednostka przywołuje 2 jednostki „Stern Soldato of the Thumb” w następnej turze, aby zaopatrzyły ją w [BulletPropellantSpecial]\n- jeżeli jednostka jest Oszołomiona, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "5b707dba3ef514016c3295c602d45836ef76ab42656cc8b2e36f72ac4b6711b0",
+      "en_sha256": "eceb790a49acc6de52bed9d645ab097fdf00f2611444132cbb1b63f48ad39898",
+      "origin": "ai"
+    },
+    "dataList[id=124107].name": {
+      "pl": "Gwiazda Tianhui [天退星]",
+      "kr_sha256": "514e702ffe7f93a730e6f8b6eb080e1e8e7b2dbce7368cdf4a32ab7298d0d99a",
+      "en_sha256": "d1c7efebf5a98e3d3aa34b0589eb7d5693958a551702a1ba48f1f9ca87083ee9",
+      "origin": "ai"
+    },
+    "dataList[id=124108].desc": {
+      "pl": "Na koniec tury: jeżeli HP 40% lub mniej, albo jeżeli w następnej turze jednostka ma użyć potężnego ataku („Tanglecleaver”) po raz trzeci w tej walce, zmienia wzorzec w następnej turze\n- potężny atak „Tanglecleaver” zmienia się w „Savage Tigerslayer's Perfected Flurry of Blades”. +15 do Minimalnej i Maksymalnej Szybkości w turach, w których jednostka używa tej Umiejętności\n- zmienia [BattleSense] w [RestoredBattleSense]\n- zmienia [Irritation] w [DerivativeHugeIrritation]\n- jeżeli jednostka jest Oszołomiona, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "2b153c7bfcacf3acb2680f1dbb6ee3289897d4936a7c8558739ab1deab98ec55",
+      "en_sha256": "33724898662361bae9901e4b2aa3e8033461463a41d447506e2b33a1adee6256",
+      "origin": "ai"
+    },
+    "dataList[id=124108].name": {
+      "pl": "Lei Heng, Gwiazda Tianhui Małego Palca",
+      "kr_sha256": "31ec32d274a1110d591b4bc010c83dfbea8cf7a31b95f1f9448199b16f42f12d",
+      "en_sha256": "5635a4379350276fdd23c5a7736dbaed2a56d4d5c8eb101e4ba5dfcc21818d5a",
+      "origin": "ai"
+    },
+    "dataList[id=124112].desc": {
+      "pl": "jeżeli jednostka użyła potężnego ataku („Tanglecleaver” lub „Savage Tigerslayer's Perfected Flurry of Blades”), zyskuje w następnej turze [Complacency] równą liczbie użyć potężnych ataków w tej walce (maks. 5)",
+      "kr_sha256": "8c88e5c7ad236441372c07b348957b231e2162c96566fa3a17aaf139d84a1f86",
+      "en_sha256": "9eab523fce708b0937a84622e48a1530dec82bcda833bd146a8a64d0c2b4141e",
+      "origin": "ai"
+    },
+    "dataList[id=124112].name": {
+      "pl": "Ostrze Gwiazdy Tianhui - Przegrzanie",
+      "kr_sha256": "b1777961f058279d78a8d72bba6e7f134dc46a8750366b89c090f4c40878b661",
+      "en_sha256": "4f261ae5aa7be01cd43373a7723371efd04d57850fe15336eb9c1b739670919a",
+      "origin": "ai"
+    },
+    "dataList[id=124301].desc": {
+      "pl": "przy 10+ [FullCharon]\n- na początku tury, przechodzi w wymuszone Oszołomienie (na 1 turę)\n- na koniec tury, całkowicie usuwa [HungryCharon] i [FullCharon]",
+      "kr_sha256": "c6f09a1ed56ead5c8ad7a68313f1ae09d2d23f459affa87c6f511b1381ee61b1",
+      "en_sha256": "5ecc361b828f06016cd8d19be96935d909b644edbc8ba4b58acb231cf65391fb",
+      "origin": "ai"
+    },
+    "dataList[id=124301].name": {
+      "pl": "I'm Stuffed",
+      "kr_sha256": "545a014b0b5c2d5a6e8a0a778c4047f6c8d406dccf2bbc6ecb70fe522cf8bf34",
+      "en_sha256": "80a42931deed100ccadab515f4f29d4d20e18137aeda8b27a0b76a5f2aa52bab",
+      "origin": "ai"
+    },
+    "dataList[id=124302].desc": {
+      "pl": "początek walki: Vergilius zyskuje 1 [HungryCharon]\nprzy 3 [HungryCharon], używa dewastującego ataku („Vroom-Vroom”)\n※ nie uruchamia się przy „początku walki”, jeżeli jednostka jest Oszołomiona wskutek [FullCharon]",
+      "kr_sha256": "e94024ea1d1d26c42a45a064d6c975d182012be906bcbc61ae25227418936c10",
+      "en_sha256": "109a171b75b7bce02503e82bdd521991c8bea9718b5658eed184bb5d94d518d6",
+      "origin": "ai"
+    },
+    "dataList[id=124302].name": {
+      "pl": "Vroom-vroom. Angry now",
+      "kr_sha256": "e4ac08b81660ee38c5e00389bb920c1a8ef53e13e37a95b6e1ed248cf648188e",
+      "en_sha256": "0f98b44c6bf59c48e07665f2e4b158bdbf3aa919d64d1a9dffcff36b7dc74630",
+      "origin": "ai"
+    },
+    "dataList[id=124303].desc": {
+      "pl": "na początku tury, według kolejności rozmieszczenia Identyfikacji nakłada 1 [GiveMeCandy] na 1 wroga bez [GiveMeCandy]",
+      "kr_sha256": "d2e4ac139970fef1754343ae9b4bb8601a587828b03a82df9b693d0c39109e96",
+      "en_sha256": "71810c28393c8fd748516ac1503539b1bd44967f61398c91345994edb49dbd25",
+      "origin": "ai"
+    },
+    "dataList[id=124303].name": {
+      "pl": "Got Candy?",
+      "kr_sha256": "7d896f667bc8588e8b3f0ea1030955a83c478f236b39402ff5b56032b671e09c",
+      "en_sha256": "983ec661636498e5be06e4cdb286f5f8df3178e08b1bc65489a8326e3362b20e",
+      "origin": "ai"
+    },
+    "dataList[id=124304].desc": {
+      "pl": "nakłada 1 [GiveMeCandy] na cel, który zaatakował Kkomi",
+      "kr_sha256": "33e65cc23b02e2a786eeac5dabaf264d337cbfce797ad9e85d55fdc179f6998d",
+      "en_sha256": "acb4a55e76672a16ee9624089cffeca61c6af2e68491d7684055b3432bc77aa5",
+      "origin": "ai"
+    },
+    "dataList[id=124304].name": {
+      "pl": "Kkomi's not a Piñata",
+      "kr_sha256": "72acc1cfe7e68b64fd7106592d456f56f151666c5610e8eb8c90b42c56efc656",
+      "en_sha256": "9bdb886d077827698d0f7aabd655a6a10e04e2c0c08085a23d7cc1ad36a83b61",
+      "origin": "ai"
+    },
+    "dataList[id=814201].desc": {
+      "pl": "gdy HP spadnie poniżej 50%, używa specjalnej Umiejętności celującej w 1 jednostkę, a przez następne 2 tury nie przechodzi w Oszołamienie ani w Panikę.\njeżeli Yi Sang ma „Dueling”, Dongbaek zyskuje 1 Wzrost Mocy Ataku.\njeżeli Yi Sang wygra Starcie, wszyscy sojusznicy zyskują 3 Wzrostu Obrażeń w następnej turze.\njeżeli Dongbaek wygra Starcie, przywraca SP do maksimum.",
+      "kr_sha256": "99f306bd639917d9cd32ffb2e3116a762bcc12b53c5bf3777bc77c9a0404066b",
+      "en_sha256": "70279a6b680c9eab84a03175f4a1c576ce8b0a7c09f3fd8a00744401edbaa6ae",
+      "origin": "ai"
+    },
+    "dataList[id=814201].name": {
+      "pl": "Dueling",
+      "kr_sha256": "a79f1e9662aafa9a834d0e48c553ce43203b7504069a87dca2271a2f558c371d",
+      "en_sha256": "5108aa705ffcb4e01b21a98629b9999b93993db7799801e43932c411ed63e797",
+      "origin": "ai"
+    }
+  }
+}

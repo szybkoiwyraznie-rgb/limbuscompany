@@ -1,0 +1,124 @@
+{
+  "entries": {
+    "dataList[id=835001].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=835001].name": {
+      "pl": "Tułów",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=8350].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=8350].name": {
+      "pl": "Cassetti",
+      "kr_sha256": "3376b2b6811bfc4d460340819763f66d6df070b4beab6b33c6a73724504aa98e",
+      "en_sha256": "026a718f6e5a701bf83037df61579c846c4ccaf24bb16d8a8ec05041a4ba7c5b",
+      "origin": "ai"
+    },
+    "dataList[id=90145].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90145].name": {
+      "pl": "Żądny Krwi Bloodbag Passenger",
+      "kr_sha256": "34e0f370666d80994391ecc0554973132ca205f0aedbc3a6939804ce4b9871c4",
+      "en_sha256": "6fc2ad7d190922734de6e06e6d9e0b4be378980e83115681b3a5bebcbcdace4c",
+      "origin": "ai"
+    },
+    "dataList[id=90146].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90146].name": {
+      "pl": "Brutalny Bloodbag Passenger",
+      "kr_sha256": "28ef299bd51d8d1d8f47310a1ae146a7d32ed7b82f1573b9c3e68fb9cc8e0fa0",
+      "en_sha256": "3dec67bd8968f88597ccd2cdf54a4db2c2bf35c9eed06c4c7a1deb27e29f5889",
+      "origin": "ai"
+    },
+    "dataList[id=90147].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90147].name": {
+      "pl": "Agresywny Bloodbag Passenger",
+      "kr_sha256": "4b632f7734d2499281c4013731fa9b9350ccd4ce3a6e79862e3460724dbbad15",
+      "en_sha256": "e58d94f1698ec5355f2df6ed52996969cc1ffb7f10d275b60bdc5a9c7e759791",
+      "origin": "ai"
+    },
+    "dataList[id=90148].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90148].name": {
+      "pl": "Bezwzględny Bloodbag Agent Oczyszczania",
+      "kr_sha256": "7e96202aeecef896699ce28be51264269c4855f7abe7fac68b1e675ad14a26d2",
+      "en_sha256": "e537d525f36712e90bfd9f7fd941e66f49b7382ce10badf0ee25367ef72e80a3",
+      "origin": "ai"
+    },
+    "dataList[id=90149].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90149].name": {
+      "pl": "Dziki Bloodbag Agent Oczyszczania",
+      "kr_sha256": "0768cc55c853f8b010553e9e07560b19aa74873a3ad823d559984146880d0a36",
+      "en_sha256": "2117cc88542d3156806f00287b921fa14aedb9a1f783988e1c36503cf6b4a4c5",
+      "origin": "ai"
+    },
+    "dataList[id=90150].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90150].name": {
+      "pl": "Głodujący Bloodbag Agent Oczyszczania",
+      "kr_sha256": "a7e3749ab9b5e201f6414508595dfd42e2dd3b1a2b449c8f6b912f8a7494296c",
+      "en_sha256": "6609c0a0c0da55d8bdf13ca574ceb6306ae1f0088a09d2cfbd5f267a1f3ffd1d",
+      "origin": "ai"
+    },
+    "dataList[id=90151].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=90151].name": {
+      "pl": "Fixer z Protetyką Bloodbag",
+      "kr_sha256": "c6324edd4ecfb198c8f7b6b0221e6e5e0d42b6048bcc07d8947c5a40405e1fa5",
+      "en_sha256": "2ed9270c676c3cb56ea5648156eaaca7b4d11edbe8c837e548dbf9cff240cde1",
+      "origin": "ai"
+    },
+    "dataList[id=91018].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=91018].name": {
+      "pl": "Sasha",
+      "kr_sha256": "d5977855a1694e6e3d728ff90f4d7c14acdbe20d8382e96ade00c90f455fee56",
+      "en_sha256": "fabcad3f11442896070a804f5a6fa6c929d6f60bf17aba0c218f75dfb94c8bee",
+      "origin": "ai"
+    }
+  }
+}
