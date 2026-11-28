@@ -1,0 +1,934 @@
+{
+  "entries": {
+    "dataList[id=955002].desc": {
+      "pl": "po pojawieniu się w walce ta jednostka zyskuje [TimeEntangleFour]\njeżeli ta jednostka nie ma [TimeGapAb], zyskuje [TimeGapAb] równe (stopień [TimeEntangleDesc] x 400) (1 raz na stopień [TimeEntangleDesc])\n\nna stopniu 3 i 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>jeżeli ta jednostka straci całą wartość [TimeGapAb], wzorzec się zmienia, a w następnej turze przechodzi w Oszołamienie</u></b></mark></color>\n\nna stopniu 2 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>jeżeli ta jednostka straci całą wartość [TimeGapAb], wzorzec się zmienia</u></b></mark></color>\n\notrzymuje -30% obrażeń HP i Poczytalności od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]; [Vibration] podnosi Próg Oszołomienia o 30% mniej",
+      "kr_sha256": "c0dc03151ccb2e53e8996990fc5d3c43faef6c04c7f4d5c3b6e8778b10a1e566",
+      "en_sha256": "b14b53a7d3c9ca7567e7ad58d730134ab13f6ed3daef42306d732b6111c5a1b0",
+      "origin": "ai"
+    },
+    "dataList[id=955002].name": {
+      "pl": "Superposed Afterimage",
+      "kr_sha256": "4b8f6a1c05ec6bd18c3613363f0369aab14d9418b7004fa3550401774134d9f0",
+      "en_sha256": "8600f431bb39c872b0c9f6e264da90cfb121c68a800b316ee24003c6fec0389e",
+      "origin": "ai"
+    },
+    "dataList[id=955101].desc": {
+      "pl": "<color=#ff9000><mark=#ff000040><b><u>otrzymuje -50% obrażeń z ataków bez kontr</u></b></mark></color>\notrzymuje -50% obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\ngdy odzyskuje Poczytalność z [UnlockBuff_Base], jeżeli Poczytalność tej jednostki jest poniżej 15, przywraca ją do 15\n\nna początku walki zyskuje [BurningWoundRien_Mask] i przywraca Poczytalność do 45\n\nprzy 55% HP lub mniej, tura się kończy i rozpoczyna się nowy wzorzec\n- usuwa wszystkie efekty inne niż własne tej jednostki\n- zmienia Stos [StackRienSpecialSkill] na 0",
+      "kr_sha256": "1cc44e76041648e4db1fe9ccde058dca2e32ffc940ea94527c18fa3efe3fcc64",
+      "en_sha256": "50d2f6391e6fbfe7588383064795e95b6d688c88893d6528091fcdb06cec9866",
+      "origin": "ai"
+    },
+    "dataList[id=955101].flavor": {
+      "pl": "Czekałem na „tamtą chwilę\", tak jak nakazywała Preskrypcja.\nCzekałem, nawet gdy moja córeczka odeszła.\n\nPo pewnym czasie skontaktowało się ze mną Limbus Company, a ja zobaczyłem, że tylne drzwi są otwarte.\nWtedy urządzenie zapiszczało i dało mi znać, że przyszedł czas, by przywrócić córkę do domu.",
+      "kr_sha256": "53b4ba2b1e3d6d39d974b82f36929f5db9e8f1f54dd2a6ce9059d16ddbc8d84d",
+      "en_sha256": "cf0556845df39e4b85e1db1e87ffbf67ab680be71713a827d1a82b35a5dd8b2c",
+      "origin": "ai"
+    },
+    "dataList[id=955101].name": {
+      "pl": "Rien, The Index Nursefather",
+      "kr_sha256": "b644d0cbb6f8f8ee404b34815d478e9c0a25e94293b79409bb2deb238696d9ca",
+      "en_sha256": "155c82aff6e074ab38ce23b4150f77ced3e6ca9ad7d3f6833e9bce8bb6361498",
+      "origin": "ai"
+    },
+    "dataList[id=955102].desc": {
+      "pl": "<color=#ff9000><mark=#ff000040><b><u>każdej monecie przypisywana jest losowa broń; każda broń ma unikatowy efekt.</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nprzy użyciu Umiejętności ataku zyskuje 1 [StackRienSpecialSkill] (maks. 9)\n- można zdobyć 1 raz na Umiejętność; ta sama Umiejętność nie daje Stosu drugi raz\n\n<color=#ff9000><mark=#ff000040><b><u>na początku tury przy 9 [StackRienSpecialSkill], używa potężnej Umiejętności</u></b></mark></color>\n- po zakończeniu ataku po pierwszym użyciu zyskuje [Shin_Rien]\n- resetuje licznik zdobywania [StackRienSpecialSkill] per Umiejętność\n- Szybkość minimalna i maksymalna +15\n- na koniec tury zyskuje w następnej turze 1 [Vulnerable] i 2 [ResultReduction]\n\nprzy czwartym początku tury po pojawieniu się w walce, jeżeli [StackRienSpecialSkill] jest poniżej 9, podnosi Stos do 9, po czym zyskuje (liczba zdobytych Stosów x 3) [KarmaOfIndexRien]\n- następnie ten efekt aktywuje się co 4 tury",
+      "kr_sha256": "4463335c3aacf227c385534d3ee5a521198c34ec3e80a9bb94ae8a14671bfc01",
+      "en_sha256": "1e004729c74d7dd8088ff0badcae8e56752838c6c11c80033ebcef20c47bd583",
+      "origin": "ai"
+    },
+    "dataList[id=955102].flavor": {
+      "pl": "Wewnątrz Urządzenia chlupocze fiolka płynnego metalu zdolnego zmieniać kształt i masę — jego właściwości niemal przypominają Singularności.\nPostać, jaką przybiera płyn, zależy od Preskrypcji otrzymanej przez Urządzenie. Wytwarzana broń zależy od informacji o celu i limitu czasu wyznaczonego na dokonanie zabójstwa.\nPewnego dnia otrzymał sztylet zbyt mały do tego zadania i postanowił zaczekać, aż pojawi się inna broń. Jednak mimo zbliżającego się terminu Urządzenie nie chciało dać mu porządnej broni; nie pozostało mu nic innego, jak zabić cel widelcem.",
+      "kr_sha256": "6cb6d00065b522760095a60bf67f73ea9e251168a42f0288e81b23953b096f81",
+      "en_sha256": "61c4fde0a53536d011301a657d8ed8217d793eb494cabb2872bec3f3a2b2ffa6",
+      "origin": "ai"
+    },
+    "dataList[id=955102].name": {
+      "pl": "Oracle Device [Caduceus]",
+      "kr_sha256": "de1fcf45ed5249782658b0ad3f5d7c8dd1eedd14afdfd9229167660f5dc1cefc",
+      "en_sha256": "13bc6847a3249489b81dbd93047ce7e2df361651d075dc6907e7d57bdabf8903",
+      "origin": "ai"
+    },
+    "dataList[id=955103].desc": {
+      "pl": "na początku tury:\n- zyskuje [IndexPrescript_Base_2nd] zgodnie ze stopniem [UnlockBuff_Base]\n- nakłada [IndexPrescriptTargetToPersonality] na losowego Grzesznika i atakuje go priorytetowo\n<color=#ff9000><mark=#ff000040><b><u>- monety Umiejętności używanej przeciwko [IndexPrescriptTargetToPersonality] w całości zmieniają się w [SuperCoin]y</u></b></mark></color>\n\njeżeli podczas ataku [IndexPrescriptTargetToPersonality] zginie lub jednostka nie może już zaatakować tego celu, <color=#ff9000><mark=#ff000040><b><u>używa pozostałych, niewykorzystanych Umiejętności na losowego Grzesznika\n- priorytet: cele z najniższym aktualnym HP (poza celami z 1 HP)\n- gdy losowo wybrany Grzesznik zginie lub jego HP spadnie do 1, powtarza ten efekt na innym Grzeszniku</u></b></mark></color>\n\nzadaje +2.5% obrażeń przeciwko [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] (maks. 20%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +30% obrażeń wszystkim celom",
+      "kr_sha256": "6527f00809e083fc3e22230b2fe156e8d86d2043ed6a7b272eeb9c8864597e94",
+      "en_sha256": "cffbd1ee2f261c7c437b970ac2ad72e5fd2465d243574b574b5c4125d80f2363",
+      "origin": "ai"
+    },
+    "dataList[id=955103].flavor": {
+      "pl": "Chce pan, żebym założyła rodzinę?\n\n„To musiał być los, który nas połączył. Pomyśleć, że mogłam spotkać męża takiego jak ty...\"",
+      "kr_sha256": "146c5ebd9780505de6e197fbc2a4fea724f6a26790db67e5ca296aebe227fdb2",
+      "en_sha256": "57f22f93dc9732517cfbf823b3967f5819e1c3324a4155fad0b92b5ff589cb5a",
+      "origin": "ai"
+    },
+    "dataList[id=955103].name": {
+      "pl": "Will of the Prescript",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=955104].desc": {
+      "pl": "na koniec tury, jeżeli w tej turze wykonano [IndexPrescript_Base_2nd], przywraca 10 Poczytalności i zyskuje 3 [BlessingOfIndexPrescriptEnemy] (1 raz na turę)\n\n<color=#ff9000><mark=#ff000040><b><u>na koniec tury, jeżeli w tej turze nie wykonano [IndexPrescript_Base_2nd], zyskuje 8 [KarmaOfIndexRien]</u></b></mark></color>\n- jeżeli jednostka nie ma [UnlockBuff_Base], na koniec tury zyskuje 1 [BlessingOfIndexPrescriptEnemy]\n- przy 9 [BlessingOfIndexPrescriptEnemy] nie zyskuje [KarmaOfIndexRien]",
+      "kr_sha256": "87ac502df3636b2d2ee9ca902b97c477796c54844edd2b8d78135df58f85953e",
+      "en_sha256": "43e172c82b5ec490c8effaa34626db14ccd44e09887f49c5fa233219bc429ea2",
+      "origin": "ai"
+    },
+    "dataList[id=955104].flavor": {
+      "pl": "Chce pan, żebym stracił rodzinę?\n\n„Kochanie, wybieram się dziś na chwilę na północ.\"\n„A, i jeszcze — hej, ty. Czekam dziś na paczkę, przyniósłbyś ją za mnie, kochanie?\"",
+      "kr_sha256": "a4b38bf0155bb60b42521773fb1f22ac2cd5ebba7c80354ecacf98b528120eb2",
+      "en_sha256": "da889e81644794c3e34e4a6448e074c8e45dc882847bcf5c3cce4d0afe897423",
+      "origin": "ai"
+    },
+    "dataList[id=955104].name": {
+      "pl": "Undertake Prescript",
+      "kr_sha256": "1ffd6ae09a78acfdc55ec11bdaad2f406c96399e90ff1cc4c8d59ea0c0eab2ca",
+      "en_sha256": "60dd326db9fa452a5450e4c34c2fea9c3ca09a1d7a1a6faae7263e4d23114eb4",
+      "origin": "ai"
+    },
+    "dataList[id=955105].desc": {
+      "pl": "na koniec tury, przy 3/6/9 [BlessingOfIndexPrescriptEnemy] lub przy 95%/85%/75% HP lub mniej, zyskuje [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nprzy pierwszym końcu tury od pojawienia się w walce, jeżeli stopień [UnlockBuff_Base] jest niższy niż 1, zyskuje [UnlockBuff_Rien1]\nprzy trzecim końcu tury od pojawienia się w walce, jeżeli stopień [UnlockBuff_Base] jest niższy niż 2, zyskuje [UnlockBuff_Rien2]\n\ngdy [UnlockBuff_Base] aktywuje się przez warunek HP lub tur:\n- jeżeli Stosy [BlessingOfIndexPrescriptEnemy] są poniżej 3/6/9, podnosi je do 3/6/9\nzyskuje 5 [KarmaOfIndexRien] na początku następnej tury za każdy zdobyty Stos",
+      "kr_sha256": "bcd7c40d05a48ec0d9b28d6425f4f7db5d519dc0d946ccdb48de8d71bf4bef24",
+      "en_sha256": "78a5490fce561b469adfa5a6f89446094017afd24f8dc29ec335a4e113fdb4c0",
+      "origin": "ai"
+    },
+    "dataList[id=955105].flavor": {
+      "pl": "„Podążanie za Nakazami odblokowuje to, co zamknięte.”",
+      "kr_sha256": "654d9079fea97fe579b2f0dc2ce4b5ab43bd6644397dab4eddc4bb9ec6a95a8e",
+      "en_sha256": "82404271bfdd78306d578624c4dbea7fe5ecad625a08d6092af610a380d398a9",
+      "origin": "ai"
+    },
+    "dataList[id=955105].name": {
+      "pl": "Unlock",
+      "kr_sha256": "5da49a05ace1b6f5073832cae6c4e59653a8faa7645f62487bfa318b058e4794",
+      "en_sha256": "4ac709aa58bcfe5dca223072cd22986a2ad4e15f577c344466851b65322e416c",
+      "origin": "ai"
+    },
+    "dataList[id=955106].desc": {
+      "pl": "nakłada efekt [PanicChangeLock]\nna koniec tury, jeżeli ta jednostka jest w Panice, Poczytalność rośnie do 15",
+      "kr_sha256": "e0b934b6d9af45713325c6b02d38161efaf97122832af990a1d3809063cce780",
+      "en_sha256": "c8544291709529fd02cdd462eba0e0dd5520361207ba9575d08f0fcd1970c44a",
+      "origin": "ai"
+    },
+    "dataList[id=955106].name": {
+      "pl": "Zablokowana Panika",
+      "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
+      "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=955201].desc": {
+      "pl": "<color=#ff9000><mark=#ff000040><b><u>otrzymuje -75% obrażeń z ataków bez kontr</u></b></mark></color>\notrzymuje -75% obrażeń od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]\ngdy odzyskuje Poczytalność z [UnlockBuff_Base], jeżeli Poczytalność tej jednostki jest poniżej 30, przywraca ją do 30\n\ngdy ta jednostka wchodzi w nową fazę przy 55% HP, zyskuje następujące efekty:\n- usuwa wszystkie efekty inne niż własne tej jednostki\n- resetuje Stos [StackRienSpecialSkill] do 0\n- zyskuje [IndexPrescript_RienSecondPhase]\n- zamienia [BurningWoundRien_Mask] w [BurningWoundRien]\n- zamienia [KarmaOfIndexRien] w [KarmaOfIndexRien_2Phase], po czym zyskuje 10 Stosów tego efektu\n- jeżeli ta jednostka nie ma [Shin_Rien], natychmiast go zyskuje\n\nprzy 25% HP lub mniej zyskuje nowy wzorzec i znacznie wzmacnia pewną Umiejętność",
+      "kr_sha256": "10bd7f05f0197d2bf9801ea9ca070cc1b0b9fa7f398493d6fe8a9b94f04e0391",
+      "en_sha256": "c7ea77730c80553b25bcc5dd2231f313df5a604ddae30714d378cc846085a5bd",
+      "origin": "ai"
+    },
+    "dataList[id=955201].flavor": {
+      "pl": "Kiedyś podejrzewał, że ma stać się czyimś naśladownictwem; ponieważ nie wiedział, kogo ma odwzorować, zwątpił w Preskrypcję i niemal jej się sprzeciwił. Dopiero gdy było już za późno, zrozumiał jej zamiar i przyjął wolę Preskrypcji.\nDopiero wtedy został ukończony fałszywy ojciec.",
+      "kr_sha256": "6e0eaeb9c2dccae227e03f1318fd850951272472fee30e981f121ce01e9feb9d",
+      "en_sha256": "581b65f880712133b87e7d774ee48ce8bde80ff7b018599f71931a1612d19ffd",
+      "origin": "ai"
+    },
+    "dataList[id=955201].name": {
+      "pl": "Rien, the Father [Imitation]",
+      "kr_sha256": "58c133468a1cfc56fe2453a711433b24821ac066bbbf9eda40df6b328b526643",
+      "en_sha256": "0b9efc5d331d2a87c56bb22961296ac9011af7159fa16950cccea5076aedfcfd",
+      "origin": "ai"
+    },
+    "dataList[id=955202].desc": {
+      "pl": "<color=#ff9000><mark=#ff000040><b><u>każdej monecie przypisywana jest losowa broń; każda broń ma unikatowy efekt.</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nprzy użyciu Umiejętności ataku zyskuje 1 [StackRienSpecialSkill] (maks. 9)\n- można zdobyć 1 raz na Umiejętność; ta sama Umiejętność nie daje Stosu drugi raz\n- nie zyskuje Stosu z Umiejętności używanych tylko w specjalnym wzorcu\n\nna początku tury przy 9 [StackRienSpecialSkill], używa potężnej Umiejętności\n- resetuje licznik zdobywania [StackRienSpecialSkill] per Umiejętność\n- Szybkość minimalna i maksymalna +15\n- na koniec tury zyskuje w następnej turze 2 [Vulnerable] i 3 [ResultReduction]\n\nefekt aktywuje się od tury, w której nastąpiła zmiana fazy\n- co 3 tury, jeżeli [StackRienSpecialSkill] jest poniżej 9,\npodnosi Stos do 9, po czym zyskuje (liczba zdobytych Stosów x 5) [KarmaOfIndexRien_2Phase]",
+      "kr_sha256": "60c5c985729ce012017ae6462df75c439f2f2836ff93b196ef647551a6fb225e",
+      "en_sha256": "4d08f473786652237d59dcac2dba1df976b7b9bc9a175e9d43d90bba38dae85b",
+      "origin": "ai"
+    },
+    "dataList[id=955202].flavor": {
+      "pl": "Najlepsza broń i przekleństwo podarowane przez Hermesa, boga Miasta, którego Prescripty rozsyłane są falami radiowymi.",
+      "kr_sha256": "6a709bea0ff09d8e8fae434ca9e0eba764b10f815699d04fc685d4276ecd5c9f",
+      "en_sha256": "7353332288542a0a9fe4ffc1ac6686210cb724d3c24df14b8bb15190b1e35226",
+      "origin": "ai"
+    },
+    "dataList[id=955202].name": {
+      "pl": "Oracle Device [Caduceus] - Full Unlock",
+      "kr_sha256": "c69092d840ee66e80d871e9fbb9e9c52bd56055b3949b06f404c07b39bf1f3fb",
+      "en_sha256": "058703ce078dc9d88f511dc9934c089a51f303b3720244031d163cd210d5bf5e",
+      "origin": "ai"
+    },
+    "dataList[id=955203].desc": {
+      "pl": "na początku tury:\n- nakłada [IndexPrescriptTargetToPersonality] na losowego Grzesznika i atakuje go priorytetowo\n<color=#ff9000><mark=#ff000040><b><u>- monety Umiejętności używanej przeciwko [IndexPrescriptTargetToPersonality] w całości zmieniają się w [SuperCoin]y</u></b></mark></color>\n- zyskuje [Protection] równy wartości [BlessingOfIndexPrescriptEnemy] (maks. 9)\n<color=#ff9000><mark=#ff000040><b><u>- traci 1 Stos za każde 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\njeżeli podczas ataku [IndexPrescriptTargetToPersonality] zginie lub jednostka nie może już zaatakować tego celu, <color=#ff9000><mark=#ff000040><b><u>używa pozostałych, niewykorzystanych Umiejętności na innego losowego Grzesznika\n- priorytet: cele z najniższym aktualnym HP (poza celami z 1 HP)\n- gdy losowo wybrany Grzesznik zginie lub jego HP spadnie do 1, powtarza ten efekt na innym Grzeszniku</u></b></mark></color>\n\nzadaje +5% obrażeń przeciwko [IndexPrescriptTargetToPersonality] za każdy [BlessingOfIndexPrescriptEnemy] (maks. 40%)\n- przy 9 [BlessingOfIndexPrescriptEnemy], zamiast tego zadaje +50% obrażeń wszystkim celom\n\nefekty aktywują się od pierwszej tury po zmianie fazy:\n- na początku tury zyskuje [BlackNightmare]\n· jeżeli w poprzedniej turze użyto potężnego ataku, w tej turze [BlackNightmare] znika",
+      "kr_sha256": "59c29ea01fe4b33dbfef3a4f7b6a9d2f0a158aeaa44d0153737bc100065d7052",
+      "en_sha256": "852dacd736a370f1f439ab0d04522be5e2d329834a7a4354485d763e614d78d3",
+      "origin": "ai"
+    },
+    "dataList[id=955203].flavor": {
+      "pl": "Założyłem rodzinę.\n\n„Nie powinieneś tu być.\"\n„Moje dzieło wciąż się toczy; chcę złożyć je w spokoju, by mogło osiągnąć najdoskonalsze piękno, jakie zdołam wyrzeźbić.\"\n„...Nie mów mi, że przyszedłeś przeciwko Preskrypcji.\"",
+      "kr_sha256": "f72c5c6bdb43c5441c9930beeeb3e9842f3be2fde73636ca2ddc63de4fba12f5",
+      "en_sha256": "fc7c3a5769538860817779ce8924fe463fac604a02165d56693793a9c17da1af",
+      "origin": "ai"
+    },
+    "dataList[id=955203].name": {
+      "pl": "Will of the Prescript",
+      "kr_sha256": "2772e5e7cbf4ee6e6747944190daf44aa09359a070c901d502d6d5212b3b5e5a",
+      "en_sha256": "ad0cc32ff55317bd14b8197758b565a04a576c7f633e4a969bb8a8c633a3a8e7",
+      "origin": "ai"
+    },
+    "dataList[id=955204].desc": {
+      "pl": "na koniec tury, jeżeli w tej turze wykonano [IndexPrescript_Base_2nd], przywraca 15 Poczytalności i zyskuje 1 [BlessingOfIndexPrescriptEnemy] (1 raz na turę)\n\n<color=#ff9000><mark=#ff000040><b><u>na koniec tury, jeżeli w tej turze nie wykonano [IndexPrescript_Base_2nd], zyskuje 8 [KarmaOfIndexRien_2Phase] i traci 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color>\n- jeżeli w tej turze użyto potężnej Umiejętności, zamiast tego zyskuje 12 [KarmaOfIndexRien_2Phase] i traci 2 [BlessingOfIndexPrescriptEnemy]",
+      "kr_sha256": "c9bddc418e7fcf5bccaf86a3faa68e8f1c00534b1df6548672cfa6ab4e3074c9",
+      "en_sha256": "f71ea9d571edc12f3ed64c8c17de035f7d8fb0343bdf4213db81f8f2113786ac",
+      "origin": "ai"
+    },
+    "dataList[id=955204].flavor": {
+      "pl": "Rodzina... została... stracona.\n\n„Nie odchodź...\"\n„Nie odchodź... Tylko nie... tak... Tato... Prosimy... ratuj nas...\"",
+      "kr_sha256": "4a63ecc351968e48e21310d2f2b2c01c271b509c095375c8bda903f6bdf7b443",
+      "en_sha256": "fedb446ff2639e2e02eed03bdfc75a0be6377316226e1544755635aff95f9e68",
+      "origin": "ai"
+    },
+    "dataList[id=955204].name": {
+      "pl": "Undertake Prescript",
+      "kr_sha256": "1ffd6ae09a78acfdc55ec11bdaad2f406c96399e90ff1cc4c8d59ea0c0eab2ca",
+      "en_sha256": "60dd326db9fa452a5450e4c34c2fea9c3ca09a1d7a1a6faae7263e4d23114eb4",
+      "origin": "ai"
+    },
+    "dataList[id=955205].desc": {
+      "pl": "nakłada efekt [PanicChangeLock]\nna koniec tury, jeżeli ta jednostka jest w Panice, Poczytalność rośnie do 30",
+      "kr_sha256": "3a310a6abe2658e7283ea8c6702e5d5d2ae172eb72dcd7b9d40ae587e29e987a",
+      "en_sha256": "0ae51fbfdc3827c24af12feb8858a37dd6b2fa1e4134a1df9be242464dcfa781",
+      "origin": "ai"
+    },
+    "dataList[id=955205].name": {
+      "pl": "Zablokowana Panika",
+      "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
+      "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=955301].desc": {
+      "pl": "na początku walki nakłada 1 [ObservedPerson] na wszystkich wrogów, po czym zyskuje Moc [Breath] i Licznik [Breath] równy liczbie jednostek z [ObservedPerson]\n\nna początku tury nakłada 1 [ObservedPerson] na cele bez [ObservedPerson]\n\nza każde 10 [ObservedPerson] na celu Umiejętności tej jednostki nakładają o 1 więcej Mocy [Vibration] i Licznika [Vibration] (maks. 3)",
+      "kr_sha256": "a821a8148f4133f36adef9b6883021c3462d83abb9165a8a84bda181498f8320",
+      "en_sha256": "20c1adba43b6cfe70a92ed25937b4940627278a6ff1865340637957101274ab7",
+      "origin": "ai"
+    },
+    "dataList[id=955301].name": {
+      "pl": "Obserwacja",
+      "kr_sha256": "74ce91c9756e4fb24225653ca0b96c2c0656d02372cdbc37982e9a6591e434a1",
+      "en_sha256": "d239e9cf6a51335bf996fc5db77623d8be287e8b4d8e1cd1be3a0e00c8bbfe57",
+      "origin": "ai"
+    },
+    "dataList[id=955302].desc": {
+      "pl": "zyskuje 1 Moc [Breath] za każdym razem gdy zadaje obrażenia efektami Umiejętności ataku (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu\n\nzyskuje +1 Licznik [Breath] za każdym razem gdy otrzymuje obrażenia efektami Umiejętności ataku Grzesznika (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo +1 Licznik [Breath] przy każdym otrzymanym trafieniu\n\n<color=#ff9000><mark=#ff000040><b><u>na początku tury nakłada 3 [ResultReduction] i 5 [ObservedPerson] na Grzesznika, który w poprzedniej turze zadał tej jednostce najwięcej obrażeń\n- jeżeli cel ma 30 [ObservedPerson], zamiast tego nakłada 5 [ResultReduction]</u></b></mark></color>",
+      "kr_sha256": "e4fd1d19974af072b9d406cfd48a514bdcb9e34b6d7b9749918cef312143c624",
+      "en_sha256": "a6975a2344bf4974d91cccd08ae940198b0613adf58dc332842849150c3ff832",
+      "origin": "ai"
+    },
+    "dataList[id=955302].name": {
+      "pl": "Adaptacja",
+      "kr_sha256": "a074c1b50bb86e93cceda5d38d2732d8fe53e3556a00ebb7b85ba05eb108767f",
+      "en_sha256": "760fad859f80f60af0215ca2e277e2246783defb11824a8766a0918e9ddbf348",
+      "origin": "ai"
+    },
+    "dataList[id=955303].desc": {
+      "pl": "na początku tury <color=#ff9000><mark=#ff000040><b><u>zyskuje Tarczę równą 30% brakującego HP (HP Tarczy nie może przekroczyć 25% Maks. HP)</u></b></mark></color>\n- jeżeli ta jednostka ma [Combustion], traci (Licznik [Combustion] x 1.5)% HP Tarczy\n- Tarcza otrzymuje +100% obrażeń z efektów [Burst]\n\nna koniec tury, jeżeli Tarcza zyskana dzięki temu efektowi została zniszczona, przez resztę tej walki na początku tury zyskuje 1 [DefenseDown] za każde zniszczenie Tarczy (maks. 5)",
+      "kr_sha256": "f43a69823a0184b5a1dcf8abd6a4e156a33df4ed5daa602b5b71781a3bbef011",
+      "en_sha256": "b64399d128b1a483e31ed208df8bb9cb2a2f5335eb682e2e0be4f5795aa36813",
+      "origin": "ai"
+    },
+    "dataList[id=955303].name": {
+      "pl": "Mechanizm Obrony",
+      "kr_sha256": "10e672df4df49f6b171673f2f4c8adbec5e53c637f77d91dff76772d4c4bb5bf",
+      "en_sha256": "d79c1a27ae7ae561e0c20644233ba4839d7ee65e0bc8b5303dd82426119feb08",
+      "origin": "ai"
+    },
+    "dataList[id=955304].desc": {
+      "pl": "na koniec tury <color=#ff9000><mark=#ff000040><b><u>wyssie 10 Poczytalności Grzesznikom</u></b></mark></color> (maks. 3 Grzeszników w kolejności od najwyższej Poczytalności; nie kumuluje się na tym samym celu)\n(nie aktywuje się gdy Hohenheim jest w Panice)\n\n<color=#ff9000><mark=#ff000040><b><u>Poczytalność tej jednostki nie spada poniżej 15</u></b></mark></color>",
+      "kr_sha256": "39d5c65eb8d4f6853d353df4047c31b7779214208108555e1aea9dced1c7764d",
+      "en_sha256": "69cda2a13dd625ee4d2a9cd57795f29ec112b2575e342047ffba1cbc4b81d38c",
+      "origin": "ai"
+    },
+    "dataList[id=955304].name": {
+      "pl": "Efekt Potwierdzenia",
+      "kr_sha256": "e09382acf1e03eaf873d17af08d44db0a9b33a5f4846697d5c7e7239e3a373a3",
+      "en_sha256": "0dc6e46745b9e1522c4a5e53869fac14e7b890db2986ca309d8ed8533459e114",
+      "origin": "ai"
+    },
+    "dataList[id=955305].desc": {
+      "pl": "w 3. turze zyskuje nowy wzorzec i przygotowuje się do użycia potężnej Umiejętności.\npóźniej, na koniec tury, ten efekt aktywuje się gdy Licznik [Breath] tej jednostki wynosi 30 lub więcej\n\njeżeli w okresie przygotowań przed użyciem potężnej Umiejętności ta jednostka nie otrzymała obrażeń HP, Umiejętność zostaje znacznie wzmocniona (obrażenia przyjęte przez HP Tarczy nie liczą się)",
+      "kr_sha256": "8a745b6eee99e67f84560e795e018c4f67f1c29d973a5533afaafc4adf240663",
+      "en_sha256": "e4590acb8f351e9167fdef24890d3c66585ac2e94feac5dfbdfbcf98ef9670bd",
+      "origin": "ai"
+    },
+    "dataList[id=955305].name": {
+      "pl": "Stawianie Hipotezy",
+      "kr_sha256": "d6140443d295aa2a13c64b0c86832f1bfe63aa739763f0e01a62a27005cc5e79",
+      "en_sha256": "d0beebb8c52578d632fa87ed4eb764ea5add9bb8c9460bd576177e138e5990e3",
+      "origin": "ai"
+    },
+    "dataList[id=955306].desc": {
+      "pl": "gdy jednostka zostanie osłabiona przez Wybór, ta pasywka zastępuje 「Adaptacja」 następującymi efektami\n\nzyskuje 1 Moc [Breath] za każdym razem gdy zadaje obrażenia efektami Umiejętności ataku (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu, ale zmniejsza [ObservedPerson] celu o 3\n\nzyskuje +1 Licznik [Breath] za każdym razem gdy otrzymuje obrażenia efektami Umiejętności ataku Grzesznika (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo +1 Licznik [Breath] przy każdym otrzymanym trafieniu, ale zmniejsza [ObservedPerson] celu o 3\n\nobrażenia krytyczne nie zwiększają się i nie zmniejszają",
+      "kr_sha256": "d311824a8a4b40a1df14bcc8b154534b8d25c97eea1f6034406a004c0dbc1952",
+      "en_sha256": "51788faa5d4b9067c060f7b215d95de5c10785abf5d603f5bb87ecb262471baa",
+      "origin": "ai"
+    },
+    "dataList[id=955306].name": {
+      "pl": "Maladaptacja",
+      "kr_sha256": "0bd2b1cbd86cc9385bd3acb7c5c399aa41c9959fdf0c60c51671690696c77525",
+      "en_sha256": "a6a01cef43c00296f9e54479a01ebed10790daa9b78854f627cb7e580b6cc9da",
+      "origin": "ai"
+    },
+    "dataList[id=955307].desc": {
+      "pl": "gdy jednostka zostanie osłabiona przez Wybór, ta pasywka zastępuje 「Mechanizm Obrony」 następującymi efektami\n\nna początku tury zyskuje Tarczę równą 15% brakującego HP (HP Tarczy nie może przekroczyć 5% Maks. HP)\n- jeżeli ta jednostka ma [Combustion], traci (Licznik [Combustion] x 2)% HP Tarczy\n- Tarcza otrzymuje +150% obrażeń z efektów [Burst]\n\nna koniec tury, jeżeli Tarcza zyskana dzięki temu efektowi została zniszczona, przez resztę tej walki na początku tury zyskuje 2 [DefenseDown] za każde zniszczenie Tarczy (maks. 10)",
+      "kr_sha256": "4417e4f0434e4cb820df0ee0cccc07bc723b3e3d7f37d69fbe9d03a00f9e35d4",
+      "en_sha256": "1b3846945b55be1aff8b0c8bf8214671142f7b6ef56cdec958e28aee41c5b6c6",
+      "origin": "ai"
+    },
+    "dataList[id=955307].name": {
+      "pl": "Nieadekwatny Mechanizm Obrony",
+      "kr_sha256": "d20cde2ef034511108aeb17c5a41d9439a49c3513f64e358dc8b18988c3fa2cc",
+      "en_sha256": "2b79e18b5cacd480a4d4d629b585587a03a279d023546dfafed90a25a338faa6",
+      "origin": "ai"
+    },
+    "dataList[id=955308].desc": {
+      "pl": "gdy jednostka jest osłabiona przez Wybór, ta pasywka zastępuje 「Efekt Potwierdzenia」 następującymi efektami\n\nna początku tury <color=#ff9000><mark=#ff000040><b><u>zyskuje 3 [Vulnerable]</u></b></mark></color> i traci 15 Poczytalności\nna koniec tury wyssie 5 Poczytalności celom z wyższą Poczytalnością niż ta jednostka (maks. 3 cele; w kolejności od najwyższej Poczytalności; nie kumuluje się na tym samym celu)\n(nie aktywuje się gdy Hohenheim jest w Panice)",
+      "kr_sha256": "e3c94b534e34c66464923fb02aeea85cd36a426ac3464c6c7ce80a652054b1c7",
+      "en_sha256": "fcfec5f46c105312c3e1a51f6683af27173f3639d7eb6dc3c1751fc668be9dbc",
+      "origin": "ai"
+    },
+    "dataList[id=955308].name": {
+      "pl": "Samowątpienie",
+      "kr_sha256": "219e5318b2ca07443f21dd8a79d4fa5753b6da0fe4c909b7879cd84d08f14b3b",
+      "en_sha256": "4e8454d28ad9000f135350641ce93bc5fc96c2b8bfd9cdddf1c08093373049d1",
+      "origin": "ai"
+    },
+    "dataList[id=955309].desc": {
+      "pl": "zyskuje 1 Moc [Breath] za każdym razem gdy zadaje obrażenia efektami Umiejętności ataku (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu\n\nzyskuje +1 Licznik [Breath] za każdym razem gdy otrzymuje obrażenia efektami Umiejętności ataku Grzesznika (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo +1 Licznik [Breath] przy każdym otrzymanym trafieniu\n\n<color=#ff9000><mark=#ff000040><b><u>na początku tury nakłada 3 [ResultReduction] i 5 [ObservedPerson] na Grzesznika, który w poprzedniej turze zadał tej jednostce najwięcej obrażeń\n- jeżeli cel ma 30 [ObservedPerson], zamiast tego nakłada 5 [ResultReduction]</u></b></mark></color>",
+      "kr_sha256": "e4fd1d19974af072b9d406cfd48a514bdcb9e34b6d7b9749918cef312143c624",
+      "en_sha256": "a6975a2344bf4974d91cccd08ae940198b0613adf58dc332842849150c3ff832",
+      "origin": "ai"
+    },
+    "dataList[id=955309].name": {
+      "pl": "Adaptacja",
+      "kr_sha256": "a074c1b50bb86e93cceda5d38d2732d8fe53e3556a00ebb7b85ba05eb108767f",
+      "en_sha256": "760fad859f80f60af0215ca2e277e2246783defb11824a8766a0918e9ddbf348",
+      "origin": "ai"
+    },
+    "dataList[id=955310].desc": {
+      "pl": "na początku tury <color=#ff9000><mark=#ff000040><b><u>zyskuje Tarczę równą 30% brakującego HP (HP Tarczy nie może przekroczyć 25% Maks. HP)</u></b></mark></color>\n- jeżeli ta jednostka ma [Combustion], traci (Licznik [Combustion] x 1.5)% HP Tarczy\n- Tarcza otrzymuje +100% obrażeń z efektów [Burst]\n\nna koniec tury, jeżeli Tarcza zyskana dzięki temu efektowi została zniszczona, przez resztę tej walki na początku tury zyskuje 1 [DefenseDown] za każde zniszczenie Tarczy (maks. 5)",
+      "kr_sha256": "f43a69823a0184b5a1dcf8abd6a4e156a33df4ed5daa602b5b71781a3bbef011",
+      "en_sha256": "b64399d128b1a483e31ed208df8bb9cb2a2f5335eb682e2e0be4f5795aa36813",
+      "origin": "ai"
+    },
+    "dataList[id=955310].name": {
+      "pl": "Mechanizm Obrony",
+      "kr_sha256": "10e672df4df49f6b171673f2f4c8adbec5e53c637f77d91dff76772d4c4bb5bf",
+      "en_sha256": "d79c1a27ae7ae561e0c20644233ba4839d7ee65e0bc8b5303dd82426119feb08",
+      "origin": "ai"
+    },
+    "dataList[id=955311].desc": {
+      "pl": "gdy jednostka zostanie osłabiona przez Wybór, ta pasywka zastępuje 「Adaptacja」 następującymi efektami\n\nzyskuje 1 Moc [Breath] za każdym razem gdy zadaje obrażenia efektami Umiejętności ataku (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo 1 Moc [Breath] przy każdym trafieniu, ale zmniejsza [ObservedPerson] celu o 3\n\nzyskuje +1 Licznik [Breath] za każdym razem gdy otrzymuje obrażenia efektami Umiejętności ataku Grzesznika (maks. 15 na turę)\n- jeżeli cel ma 15+ [ObservedPerson], zyskuje dodatkowo +1 Licznik [Breath] przy każdym otrzymanym trafieniu, ale zmniejsza [ObservedPerson] celu o 3\n\nobrażenia krytyczne nie zwiększają się i nie zmniejszają",
+      "kr_sha256": "d311824a8a4b40a1df14bcc8b154534b8d25c97eea1f6034406a004c0dbc1952",
+      "en_sha256": "51788faa5d4b9067c060f7b215d95de5c10785abf5d603f5bb87ecb262471baa",
+      "origin": "ai"
+    },
+    "dataList[id=955311].name": {
+      "pl": "Maladaptacja",
+      "kr_sha256": "0bd2b1cbd86cc9385bd3acb7c5c399aa41c9959fdf0c60c51671690696c77525",
+      "en_sha256": "a6a01cef43c00296f9e54479a01ebed10790daa9b78854f627cb7e580b6cc9da",
+      "origin": "ai"
+    },
+    "dataList[id=955312].desc": {
+      "pl": "nakłada efekt [PanicChangeLock]\nna koniec tury, jeżeli ta jednostka jest w Panice, Poczytalność rośnie do 45",
+      "kr_sha256": "8df94502631e28ed39988d7ef819b95d8621749c7c13ecebab1f98535c635057",
+      "en_sha256": "3352baa320f0b58963a1cc6f2fab08fc4ddd0a7b85d557bc52b1f61e6cbc120a",
+      "origin": "ai"
+    },
+    "dataList[id=955312].name": {
+      "pl": "Zablokowana Panika",
+      "kr_sha256": "022645407df8f1f503b3d72fa79a606d0cf612893766211214b3e4678922de6c",
+      "en_sha256": "a5e1553c8afe13b2d619f5b5d64dc7dbc5f20873838ae1e557d124c8ceaeab2f",
+      "origin": "ai"
+    },
+    "dataList[id=955401].desc": {
+      "pl": "otrzymuje -30% obrażeń HP i Poczytalności od [Combustion], [Vibration], [Burst] i [Sinking]\notrzymuje -50% obrażeń od [Laceration]\n\nna początku tury, jeżeli jest Oszołamiona, dochodzi do siebie z Oszołamienia. następnie zyskuje 2 [CrimsonTakeDamageUp] i do następnej tury nie może użyć „Installation Art no. 3: Improvised Ribcage\" (1 raz na walkę)\n\nna koniec tury za każde 4 [Combustion] na sobie zyskuje 1 [DefenseDown] w następnej turze (maks. 15)",
+      "kr_sha256": "ed739ce6741563df623f3d9408754e4e2bbc5f3dd87c769c5177ba70d5f3edba",
+      "en_sha256": "c72bc4d0968ef0e85b8347df2f641810ce1ca1a3b177676c14f3554ee7041226",
+      "origin": "ai"
+    },
+    "dataList[id=955401].name": {
+      "pl": "All of My Corpus has been Given to Tibia",
+      "kr_sha256": "f906850f61410194e3c7666bd94b55131e6731ab20c101e63cf68c17159b93fa",
+      "en_sha256": "07e0b3e276e8fdcf298520d20d98f9371597be78d5caac5711a70aa6e871d54f",
+      "origin": "ai"
+    },
+    "dataList[id=955601].desc": {
+      "pl": "na początku tury, jeżeli nie ma żadnego [TagGameBuff], 1/2/3 sojuszników tej jednostki (poza nią samą) o najniższym poziomie staje się [TagGameBuff] na 3 tury (liczba objętych jednostek rośnie z każdą aktywacją tego efektu)\n\njeżeli <color=#ff9000><mark=#ff000040><b><u>efekt [TagGameBuff] wygaśnie, a jednostka z tym efektem żyje</u></b></mark></color>, aktywują się następujące efekty:\n- wszyscy Grzesznicy otrzymują stałe obrażenia równe 40% własnego HP\n- Poczytalność losowego Grzesznika zdolnego do Erozji E.G.O[TabExplain] lub Paniki zostaje wymuszona na -45\n\njeżeli Grzesznik zabije [TagGameBuff], ten Grzesznik zyskuje 1 [ResultEnhancement] na resztę tej walki (efekt kumuluje się)",
+      "kr_sha256": "1aa2cd67f7eac3466ed310ffde9d70812a9558f44ea78385379ef7afdfdd49c1",
+      "en_sha256": "6b3fe965161d8af952b20cde07c836b9b549a096dd4fd17e6a69e24c3af2040a",
+      "origin": "ai"
+    },
+    "dataList[id=955601].name": {
+      "pl": "Let's Play Tag! Here I Go!",
+      "kr_sha256": "87cd233f98e7b511415a5e9f6da55558251c215ac58c94696af908e6bdc6baa2",
+      "en_sha256": "5b25b5f01f8c864b00345f707a42506f73a0e26c6f4449070794a0e4cd71c8c6",
+      "origin": "ai"
+    },
+    "dataList[id=955602].desc": {
+      "pl": "na koniec tury, jeżeli ta jednostka jest jedynym żyjącym sojusznikiem albo HP Core wynosi 50% lub mniej, używa w następnej turze „Let's Play Together Forever~!\" (1 raz na walkę)",
+      "kr_sha256": "361fae2d7af944e967cba0eb815d5e5d262f329b1c81c70fe8ae370cb3645092",
+      "en_sha256": "e5f8233fc2371e830932103fa7198f5d5478d004272b426be909bfd6e1f80b4e",
+      "origin": "ai"
+    },
+    "dataList[id=955602].name": {
+      "pl": "Will You Play? Will You Play? Will You Play?",
+      "kr_sha256": "13b656e4bff6fe3bfe6a0de3d7c29c89610dfea5c736a818843619691a2e7d01",
+      "en_sha256": "c58c8f65c984be5918329a17a8e3153cb147ad9368c64e2416603583e295a42f",
+      "origin": "ai"
+    },
+    "dataList[id=955603].desc": {
+      "pl": "na początku tury część „Stuffed Toy\" <color=#ff9000><mark=#ff000040><b><u>zyskuje [Protection] równą liczbie sojuszników poza tą jednostką</u></b></mark></color>\n\ngdy część „Stuffed Toy\" zostanie zniszczona, Will You Play? i pozostali sojusznicy giną",
+      "kr_sha256": "2a179c1892b48055a3135544dcf4290e9934aebb023516e645dd86d42e8294b6",
+      "en_sha256": "fd15a2eee1230be78b09277737f03d09f0970768c35fbca458698e9ea11df8de",
+      "origin": "ai"
+    },
+    "dataList[id=955603].name": {
+      "pl": "No More Playtime",
+      "kr_sha256": "e306d130bcd815e3136ec140860fda67cc31126a5b0ed1345e7dc5219d034133",
+      "en_sha256": "c93d42074a5b06f09263f36f171c5c919af1b9e713cf1476c65a61ae96acd09b",
+      "origin": "ai"
+    },
+    "dataList[id=955604].desc": {
+      "pl": "<color=#ff9000><mark=#ff000040><b><u>obrażenia HP otrzymywane przez Core są stałe i wynoszą 0</u></b></mark></color>",
+      "kr_sha256": "1d9a7e7a9379a62ace34264b22612177b33ae4f759738c8d6fd66bf13d123c43",
+      "en_sha256": "02228d8575bb478adf67e7846d2a45d70ae66bbdf133e51657526713d1f3ce4d",
+      "origin": "ai"
+    },
+    "dataList[id=955604].name": {
+      "pl": "Attachment Plushie",
+      "kr_sha256": "bfff809f712add0261ac3f8133ba8717c9f4d57878967e91c4efe7c665a2d084",
+      "en_sha256": "77ab7ae21fa13d42225e440fe3f8d7e8733f5ce9514ef5c639021686d35ad500",
+      "origin": "ai"
+    },
+    "dataList[id=955701].desc": {
+      "pl": "po pojawieniu się w walce zyskuje [MiddleFingerLeashBuff]",
+      "kr_sha256": "b651aec527beb9bcfcebd7107e6d7b7699c331b29ed1388ac2a996d53265f2d9",
+      "en_sha256": "b263cbb535d0cfd2691ff7d4d169a93319a627c4ccbf23bb430bebf38b21b788",
+      "origin": "ai"
+    },
+    "dataList[id=955701].name": {
+      "pl": "Stłumiona Siła",
+      "kr_sha256": "4f90ec3e439a09722f3c754f9a7accb2c0c50cf67c0b33b8c417b95625f32207",
+      "en_sha256": "a354c7d8b6f96c7655c5dce7f5995809113bf64803a4eca8819ef0b68511366a",
+      "origin": "ai"
+    },
+    "dataList[id=956301].desc": {
+      "pl": "na początku walki zyskuje Tarczę równą 1.3% HP\nHP nie spada poniżej 90%\n\njeżeli Tarcza tej jednostki pęknie przed końcem 3. tury,\ntura natychmiast się kończy, a w następnej turze aktywuje się <color=#ff6000><mark=#ff000040><b><u>unikatowy wzorzec</u></b></mark></color>\n\npo zakończeniu ataku Umiejętności „The Quickening\": kończy walkę",
+      "kr_sha256": "c33d90aac070c3dab81cad7e9969c895c38b89826ce7a71a65a41add39db8f05",
+      "en_sha256": "21a4b93ce1935cb3557cce30205c5c5c365a32afecc5eddbf79ff59a670dab97",
+      "origin": "ai"
+    },
+    "dataList[id=956301].name": {
+      "pl": "Quickening of the Unborn",
+      "kr_sha256": "128b28d51dac10b5d5e47ef9387c9c15b27f61c700fa58b4d3852090e5ccc355",
+      "en_sha256": "a8fde7ab678eb89a3d84c734f171963bc8039108b9f5276a62ce63daff8a0b7f",
+      "origin": "ai"
+    },
+    "dataList[id=956401].desc": {
+      "pl": "Szybkość tej jednostki jest stała (1); HP tej jednostki nie spada poniżej 1\npierwszy początek tury po pojawieniu się w walce: zyskuje 333 Tarczy\n\npo zakończeniu ataku Umiejętności „Eclosion\" kończy walkę\n- jeżeli Tarcza została zniszczona, zamiast tego rozpoczyna się następna tura, pojawia się <color=#ff6000><mark=#ff000040><b><u>unikatowy Wybór</u></b></mark></color>, a następnie walka się kończy",
+      "kr_sha256": "e199657403370a1c76e279658444988e32409eaf744da87b90d18f1136865594",
+      "en_sha256": "5aedb6645021901e8c1fae0bc0fa4d95b688485b800856bcd3018f082e391673",
+      "origin": "ai"
+    },
+    "dataList[id=956401].name": {
+      "pl": "Eclosion - Life That Was",
+      "kr_sha256": "57d6d7b083952f6220d6a4370d2133f9f9c8efcc1b288aa5972c79e06e38f2a3",
+      "en_sha256": "76da34961470a9b7b10f05641733717e0d50b78c6375fd3ded275f6d82cfc951",
+      "origin": "ai"
+    },
+    "dataList[id=956402].desc": {
+      "pl": "efekty [HeatedWingScales] działają z czterokrotną siłą\n\notrzymuje +100% obrażeń z Umiejętności E.G.O",
+      "kr_sha256": "e271fbc5754757e49f4579de2b4194a92dbf8f8eda38ba5d23b14384c01f8dbb",
+      "en_sha256": "c6126c06ef1754193f084b2b28127514f00f50c1102d63b5738f7c1a42a0392b",
+      "origin": "ai"
+    },
+    "dataList[id=956402].name": {
+      "pl": "Time of Forging",
+      "kr_sha256": "3363a8c6078e4796479c94c9faf6201597f672d25ad8380d1db58d98b564ca93",
+      "en_sha256": "52a2528c22d224baebda9ce515eccf521b150eb17e05deaa01bede8e7fcdb5db",
+      "origin": "ai"
+    },
+    "dataList[id=956501].desc": {
+      "pl": "Szybkość tej jednostki jest stała (1); HP tej jednostki nie spada poniżej 1\npierwszy początek tury po pojawieniu się w walce: zyskuje 333 Tarczy\n\npo zakończeniu ataku Umiejętności „Eclosion\" kończy walkę\n- jeżeli Tarcza została zniszczona, zamiast tego rozpoczyna się następna tura, pojawia się <color=#ff6000><mark=#ff000040><b><u>unikatowy Wybór</u></b></mark></color>, a następnie walka się kończy",
+      "kr_sha256": "e199657403370a1c76e279658444988e32409eaf744da87b90d18f1136865594",
+      "en_sha256": "5aedb6645021901e8c1fae0bc0fa4d95b688485b800856bcd3018f082e391673",
+      "origin": "ai"
+    },
+    "dataList[id=956501].name": {
+      "pl": "Eclosion - Life That Is",
+      "kr_sha256": "ff854a5021d2a094f1d7e0da5cb22b296b896ab3ec3c9eb18c495d3450e16f0b",
+      "en_sha256": "14d1d9c55a5e52892bca5e108ec8f60d0e0a211c31abf4f816c17798fbc7b3f1",
+      "origin": "ai"
+    },
+    "dataList[id=956502].desc": {
+      "pl": "efekty [TransparentWingScales] działają z czterokrotną siłą\n\notrzymuje +100% obrażeń z Umiejętności E.G.O",
+      "kr_sha256": "76c7aa503a231941d93af4a3c9cbd7970b37d2fbdda694b7df95197bf8d4019d",
+      "en_sha256": "a11204436c2d141829445a69f85d9bab413deecca3129308b8417dc604f2531f",
+      "origin": "ai"
+    },
+    "dataList[id=956502].name": {
+      "pl": "Kṣaṇa of Circumvolution",
+      "kr_sha256": "e6d3cd2f31248792074e610a990d6839764ea26b25e21a8fc2cc66e0b04a8430",
+      "en_sha256": "0561be397d7f3e42100719c720e8a8c6c6a7a18598257b10297bd35d465f0b12",
+      "origin": "ai"
+    },
+    "dataList[id=956601].desc": {
+      "pl": "Szybkość tej jednostki jest stała (1); HP tej jednostki nie spada poniżej 1\npierwszy początek tury po pojawieniu się w walce: zyskuje 333 Tarczy\n\npo zakończeniu ataku Umiejętności „Eclosion\" kończy walkę\n- jeżeli Tarcza została zniszczona, zamiast tego rozpoczyna się następna tura, pojawia się <color=#ff6000><mark=#ff000040><b><u>unikatowy Wybór</u></b></mark></color>, a następnie walka się kończy",
+      "kr_sha256": "e199657403370a1c76e279658444988e32409eaf744da87b90d18f1136865594",
+      "en_sha256": "5aedb6645021901e8c1fae0bc0fa4d95b688485b800856bcd3018f082e391673",
+      "origin": "ai"
+    },
+    "dataList[id=956601].name": {
+      "pl": "Eclosion - Life That Will Be",
+      "kr_sha256": "282c9fed6d0262378465cff5aabc64b09e3f3ec0ac66aaf9009eeb3516466166",
+      "en_sha256": "041414f24808767936bb2964e8d42403b902873b3cf5010223a541a49818a455",
+      "origin": "ai"
+    },
+    "dataList[id=956602].desc": {
+      "pl": "efekty [RustedWingScales] działają z czterokrotną siłą\n\notrzymuje +100% obrażeń z Umiejętności E.G.O",
+      "kr_sha256": "afea7ee9f35e807a0da3bd8e4fd0e77d2ad41ff9024db598acd497c2aa5c08e3",
+      "en_sha256": "f4b5a6407987ee6aab1d64d0dd5a336ecaa2280467b7f387d380e5f1068b48dc",
+      "origin": "ai"
+    },
+    "dataList[id=956602].name": {
+      "pl": "Erosion of Kalpas",
+      "kr_sha256": "e86b86186d5ac4897e08ee0f9afd9ff80db8b99efd1fa0bbbce2f54269c5d1b2",
+      "en_sha256": "b53991d673241b0a7de692aaef8ae8e1c3cf6b5edb0068b244bf412fe81904e2",
+      "origin": "ai"
+    },
+    "dataList[id=9567010].desc": {
+      "pl": "gdy aktywny jest [StackPastActivate], zyskuje następujące efekty:\n- za każdym razem gdy otrzymuje trafienie od Grzesznika, nakłada na atakującego Grzesznika 1 [Combustion] i zwiększa Licznik [Combustion] o 1\n- Umiejętność „Kalpāgni\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu zadaje (Stos [StackPastActivate]/2) obrażeń Poczytalności (zaokrąglone w dół)\"\n- na początku tury nakłada 5 [TakeHpHealReduce] i 3 [CrimsonTakeDamageUp] na wszystkich Grzeszników z sumą (Moc [Combustion] + Licznik [Combustion]) 10 lub wyższą",
+      "kr_sha256": "08c26114037a5cd08163bb3228d5cb19998913225e1b1cf5e21350ed56716127",
+      "en_sha256": "0f5c25828abbc4da9d54977baa5165c8c8b3a1b2567dc406b5b2f9b5fa324188",
+      "origin": "ai"
+    },
+    "dataList[id=9567010].name": {
+      "pl": "Past [過去]",
+      "kr_sha256": "62ac79ad3220aaaec1af3d0faa56c957779c9720eefe546d890769be8967fdaa",
+      "en_sha256": "9ade8c86d8b7cbf75091e96c3f7733bb6e2c60a9329cbb8f0f69b6ded1a58f04",
+      "origin": "ai"
+    },
+    "dataList[id=9567011].desc": {
+      "pl": "gdy aktywny jest [StackPastActivate], zyskuje następujące efekty:\n<mark=#000000AA>- <color=#ff9000><s></color>za każdym razem gdy otrzymuje trafienie od Grzesznika, nakłada na atakującego\nGrzesznika 1 [Combustion] i zwiększa Licznik [Combustion] o 1<color=#ff0000></s></color></mark>\n- Umiejętność „Kalpāgni\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu zadaje (Stos [StackPastActivate]/2) obrażeń Poczytalności (zaokrąglone w dół)\"\n- na początku tury nakłada 5 [TakeHpHealReduce] i 3 [CrimsonTakeDamageUp] na wszystkich Grzeszników z sumą (Moc [Combustion] + Licznik [Combustion]) 10 lub wyższą",
+      "kr_sha256": "6f371a84be70e1613d3e3360aa47474c8a4673fdbd7b1de23ad97c6bdf954802",
+      "en_sha256": "6cc0782d70668c1539ae5bdb4893bee7e4f8d6614a9cfd9702966d4496026034",
+      "origin": "ai"
+    },
+    "dataList[id=9567011].name": {
+      "pl": "Past [過去]",
+      "kr_sha256": "62ac79ad3220aaaec1af3d0faa56c957779c9720eefe546d890769be8967fdaa",
+      "en_sha256": "9ade8c86d8b7cbf75091e96c3f7733bb6e2c60a9329cbb8f0f69b6ded1a58f04",
+      "origin": "ai"
+    },
+    "dataList[id=9567012].desc": {
+      "pl": "gdy aktywny jest [StackPastActivate], zyskuje następujące efekty:\n- za każdym razem gdy otrzymuje trafienie od Grzesznika, nakłada na atakującego Grzesznika 1 [Combustion] i zwiększa Licznik [Combustion] o 1\n<mark=#000000AA>- <color=#ff9000><s></color>Umiejętność „Kalpāgni\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu zadaje (Stos\n[StackPastActivate]/2) obrażeń Poczytalności (zaokrąglone w dół)\"<color=#ff0000></s></color></mark>\n- na początku tury nakłada 5 [TakeHpHealReduce] i 3 [CrimsonTakeDamageUp] na wszystkich Grzeszników z sumą (Moc [Combustion] + Licznik [Combustion]) 10 lub wyższą",
+      "kr_sha256": "574d0ae5b184267bea2125d89068a05d315557a45434d9137489389f68f6a93a",
+      "en_sha256": "b8482c8fb45610cb4c549bbbad441e94921606be5723960d207f46b1fd52f440",
+      "origin": "ai"
+    },
+    "dataList[id=9567012].name": {
+      "pl": "Past [過去]",
+      "kr_sha256": "62ac79ad3220aaaec1af3d0faa56c957779c9720eefe546d890769be8967fdaa",
+      "en_sha256": "9ade8c86d8b7cbf75091e96c3f7733bb6e2c60a9329cbb8f0f69b6ded1a58f04",
+      "origin": "ai"
+    },
+    "dataList[id=9567013].desc": {
+      "pl": "gdy aktywny jest [StackPastActivate], zyskuje następujące efekty:\n- za każdym razem gdy otrzymuje trafienie od Grzesznika, nakłada na atakującego Grzesznika 1 [Combustion] i zwiększa Licznik [Combustion] o 1\n- Umiejętność „Kalpāgni\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu zadaje (Stos [StackPastActivate]/2) obrażeń Poczytalności (zaokrąglone w dół)\"\n<mark=#000000AA>- <color=#ff9000><s></color>na początku tury nakłada 5 [TakeHpHealReduce] i 3 [CrimsonTakeDamageUp] na wszystkich Grzeszników z sumą (Moc [Combustion] + Licznik\n[Combustion]) 10 lub wyższą<color=#ff0000></s></color></mark>",
+      "kr_sha256": "cf50ffcad836e3e2c118432fd3c89824de7d7c64f14a459e9c1dd2e3a0140324",
+      "en_sha256": "dd48edf7c101f63f30884cd0473fa020bfe8dced19f7b19fe250159637b4f450",
+      "origin": "ai"
+    },
+    "dataList[id=9567013].name": {
+      "pl": "Past [過去]",
+      "kr_sha256": "62ac79ad3220aaaec1af3d0faa56c957779c9720eefe546d890769be8967fdaa",
+      "en_sha256": "9ade8c86d8b7cbf75091e96c3f7733bb6e2c60a9329cbb8f0f69b6ded1a58f04",
+      "origin": "ai"
+    },
+    "dataList[id=9567020].desc": {
+      "pl": "gdy aktywny jest [StackPresentActivate], zyskuje następujące efekty:\n- przy trafieniu krytycznym nie traci Liczników [Breath]; na początku tury zyskuje (2 + liczba Grzeszników) [Breath] i zwiększa Licznik [Breath]\n- Umiejętność „Smite the Wicked\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu podnosi Próg Oszołomienia o (Stos [StackPresentActivate]/2) (zaokrąglone w dół)\"\n- przy trafieniu krytycznym zadaje +((Moc [Breath] na sobie + Licznik [Breath] na sobie) x 2)% obrażeń (maks. 120%; w razie przegranej Starcia stosowana jest tylko 1/3 pełnej wartości efektu)",
+      "kr_sha256": "ba419061db4a4b8e48ff2851831c54787f6e8121d2a8b252b2f7d3fade512670",
+      "en_sha256": "f66828b9cd19b39ae55a44ddf881ed170390d33712d4b589b950ea4787d37c53",
+      "origin": "ai"
+    },
+    "dataList[id=9567020].name": {
+      "pl": "Present [現在]",
+      "kr_sha256": "9a5e85accbc9d5735dafb1ecea8f360ffce86cbaa2f026f884fb0774817d84fd",
+      "en_sha256": "6c050f05884257fd5806b1ffbe382a16037e1ade6e635b309fee8a245d61713e",
+      "origin": "ai"
+    },
+    "dataList[id=9567021].desc": {
+      "pl": "gdy aktywny jest [StackPresentActivate], zyskuje następujące efekty:\n<mark=#000000AA>- <color=#e5e5e5><s></color>przy trafieniu krytycznym nie traci Liczników [Breath]; na początku tury zyskuje (2 + liczba Grzeszników) [Breath] i zwiększa Licznik [Breath]<color=#ff0000></s></color></mark>\n- Umiejętność „Smite the Wicked\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu podnosi Próg Oszołomienia o (Stos [StackPresentActivate]/2) (zaokrąglone w dół)\"\n- przy trafieniu krytycznym zadaje +((Moc [Breath] na sobie + Licznik [Breath] na sobie) x 2)% obrażeń (maks. 120%; w razie przegranej Starcia stosowana jest tylko 1/3 pełnej wartości efektu)",
+      "kr_sha256": "ac4eda99064da5c654d5b4daedea3b3c39a1c42619950e085d27b17015e6b2b3",
+      "en_sha256": "673d077a67fd313a67e8475cda9dcb6a0463f6c9ffefe69b75a8d03c4929ca24",
+      "origin": "ai"
+    },
+    "dataList[id=9567021].name": {
+      "pl": "Present [現在]",
+      "kr_sha256": "9a5e85accbc9d5735dafb1ecea8f360ffce86cbaa2f026f884fb0774817d84fd",
+      "en_sha256": "6c050f05884257fd5806b1ffbe382a16037e1ade6e635b309fee8a245d61713e",
+      "origin": "ai"
+    },
+    "dataList[id=9567022].desc": {
+      "pl": "gdy aktywny jest [StackPresentActivate], zyskuje następujące efekty:\n- przy trafieniu krytycznym nie traci Liczników [Breath]; na początku tury zyskuje (2 + liczba Grzeszników) [Breath] i zwiększa Licznik [Breath]\n<mark=#000000AA>- <color=#e5e5e5><s></color>Umiejętność „Smite the Wicked\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu podnosi Próg Oszołomienia o (Stos [StackPresentActivate]/2) (zaokrąglone w dół)\"<color=#ff0000></s></color></mark>\n- przy trafieniu krytycznym zadaje +((Moc [Breath] na sobie + Licznik [Breath] na sobie) x 2)% obrażeń (maks. 120%; w razie przegranej Starcia stosowana jest tylko 1/3 pełnej wartości efektu)",
+      "kr_sha256": "8eff6bb149029357c85839c62935ecdb80c88b471c34c69e1c7d7627daef1f03",
+      "en_sha256": "e75ffb8bc7da82f0998f4ebf35a81716096a22386528f9f3c769afc2f8164a51",
+      "origin": "ai"
+    },
+    "dataList[id=9567022].name": {
+      "pl": "Present [現在]",
+      "kr_sha256": "9a5e85accbc9d5735dafb1ecea8f360ffce86cbaa2f026f884fb0774817d84fd",
+      "en_sha256": "6c050f05884257fd5806b1ffbe382a16037e1ade6e635b309fee8a245d61713e",
+      "origin": "ai"
+    },
+    "dataList[id=9567023].desc": {
+      "pl": "gdy aktywny jest [StackPresentActivate], zyskuje następujące efekty:\n- przy trafieniu krytycznym nie traci Liczników [Breath]; na początku tury zyskuje (2 + liczba Grzeszników) [Breath] i zwiększa Licznik [Breath]\n- Umiejętność „Smite the Wicked\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu podnosi Próg Oszołomienia o (Stos [StackPresentActivate]/2) (zaokrąglone w dół)\"\n<mark=#000000AA>- <color=#e5e5e5><s></color>przy trafieniu krytycznym zadaje +((Moc [Breath] na sobie + Licznik [Breath] na sobie) x 2)% obrażeń (maks. 120%; w razie przegranej Starcia stosowana jest tylko 1/3 pełnej wartości efektu)<color=#ff0000></s></color></mark>",
+      "kr_sha256": "71dd9bc3e07ed38919ee97ed1b345130864650c9523d0d76c27984eaa3947d3b",
+      "en_sha256": "e2a8dd61b09357ee38e439cdf5f313f4c27ef92504c0306b2a07d2df7e16c397",
+      "origin": "ai"
+    },
+    "dataList[id=9567023].name": {
+      "pl": "Present [現在]",
+      "kr_sha256": "9a5e85accbc9d5735dafb1ecea8f360ffce86cbaa2f026f884fb0774817d84fd",
+      "en_sha256": "6c050f05884257fd5806b1ffbe382a16037e1ade6e635b309fee8a245d61713e",
+      "origin": "ai"
+    },
+    "dataList[id=9567030].desc": {
+      "pl": "gdy aktywny jest [StackFutureActivate], zyskuje następujące efekty:\n- na początku tury wszyscy Grzesznicy zyskują +(3 + numer bieżącej tury/2) Licznika [Laceration] (zaokrąglone w górę)\n- Umiejętność „Bloodflower\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu przywraca sobie (Stos [StackFutureActivate] x 3) HP\"\n- za każdym razem gdy [Laceration] aktywuje się na tej jednostce lub na Grzesznikach, przywraca HP równe obrażeniom tego [Laceration] (zaokrąglone w dół)",
+      "kr_sha256": "d9d17c4fb890f4ee460dd9376f459357e019a6bb440252167762f5a8848c8a91",
+      "en_sha256": "2178b5cd6d1d4bf368332935ea81980266f9149ada3d2749911aa371873fcaa5",
+      "origin": "ai"
+    },
+    "dataList[id=9567030].name": {
+      "pl": "Future [未來]",
+      "kr_sha256": "11b30a91cb4590c06e199d8f9a9eb8fd690ceaf2427cb66519560b3ec98cba47",
+      "en_sha256": "fa71a7c42fc03a65a8ff0eebcca255d9c2e5796130fb6f8b6f80eec04f8dc5bb",
+      "origin": "ai"
+    },
+    "dataList[id=9567031].desc": {
+      "pl": "gdy aktywny jest [StackFutureActivate], zyskuje następujące efekty:\n<mark=#000000AA>- <color=#d93737><s></color>na początku tury wszyscy Grzesznicy zyskują +(3 + numer bieżącej\ntury/2) Licznika [Laceration] (zaokrąglone w górę)<color=#ff0000></s></color></mark>\n- Umiejętność „Bloodflower\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu przywraca sobie (Stos [StackFutureActivate] x 3) HP\"\n- za każdym razem gdy [Laceration] aktywuje się na tej jednostce lub na Grzesznikach, przywraca HP równe obrażeniom tego [Laceration] (zaokrąglone w dół)",
+      "kr_sha256": "318de7bff1cf499ac8b0958adcb0e0bc0e09afdafc173751aed5d36855de300f",
+      "en_sha256": "fc585d80bff05f3caaefdb6b0400bcbca1dc4e6796f4ff993c60a2e59ef7b01e",
+      "origin": "ai"
+    },
+    "dataList[id=9567031].name": {
+      "pl": "Future [未來]",
+      "kr_sha256": "11b30a91cb4590c06e199d8f9a9eb8fd690ceaf2427cb66519560b3ec98cba47",
+      "en_sha256": "fa71a7c42fc03a65a8ff0eebcca255d9c2e5796130fb6f8b6f80eec04f8dc5bb",
+      "origin": "ai"
+    },
+    "dataList[id=9567032].desc": {
+      "pl": "gdy aktywny jest [StackFutureActivate], zyskuje następujące efekty:\n- na początku tury wszyscy Grzesznicy zyskują +(3 + numer bieżącej tury/2) Licznika [Laceration] (zaokrąglone w górę)\n<mark=#000000AA>- <color=#d93737><s></color>Umiejętność „Bloodflower\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu\nprzywraca sobie (Stos [StackFutureActivate] x 3) HP\"<color=#ff0000></s></color></mark>\n- za każdym razem gdy [Laceration] aktywuje się na tej jednostce lub na Grzesznikach, przywraca HP równe obrażeniom tego [Laceration] (zaokrąglone w dół)",
+      "kr_sha256": "d000e4679cbc03501b5d9ed0079d6d97e8b3c898a73f623274a5e04b4d1715e8",
+      "en_sha256": "080d27c0945ff2b141b733242c4e6a873e64e93607a71fc5b3c1eb8f050cb0d5",
+      "origin": "ai"
+    },
+    "dataList[id=9567032].name": {
+      "pl": "Future [未來]",
+      "kr_sha256": "11b30a91cb4590c06e199d8f9a9eb8fd690ceaf2427cb66519560b3ec98cba47",
+      "en_sha256": "fa71a7c42fc03a65a8ff0eebcca255d9c2e5796130fb6f8b6f80eec04f8dc5bb",
+      "origin": "ai"
+    },
+    "dataList[id=9567033].desc": {
+      "pl": "gdy aktywny jest [StackFutureActivate], zyskuje następujące efekty:\n- na początku tury wszyscy Grzesznicy zyskują +(3 + numer bieżącej tury/2) Licznika [Laceration] (zaokrąglone w górę)\n- Umiejętność „Bloodflower\" zyskuje Moc Końcową +2, a jej ostatnia moneta zyskuje efekt „przy trafieniu przywraca sobie (Stos [StackFutureActivate] x 3) HP\"\n<mark=#000000AA>- <color=#d93737><s></color>za każdym razem gdy [Laceration] aktywuje się na tej jednostce lub na Grzesznikach, przywraca HP równe\nobrażeniom tego [Laceration] (zaokrąglone w dół)<color=#ff0000></s></color></mark>",
+      "kr_sha256": "cdff6c3b4ac6c439a74e17b2f95c33e92a598237961ea37d0af3db7a7f0fa3b9",
+      "en_sha256": "c51f6d84b189b0be466369a4887c0e700c1b268523471e71fe1d05371efacc10",
+      "origin": "ai"
+    },
+    "dataList[id=9567033].name": {
+      "pl": "Future [未來]",
+      "kr_sha256": "11b30a91cb4590c06e199d8f9a9eb8fd690ceaf2427cb66519560b3ec98cba47",
+      "en_sha256": "fa71a7c42fc03a65a8ff0eebcca255d9c2e5796130fb6f8b6f80eec04f8dc5bb",
+      "origin": "ai"
+    },
+    "dataList[id=956704].desc": {
+      "pl": "przy 10+ Starciach z tym samym celem, w Starciu Moc Starcia losowo rośnie lub maleje o (liczba Starć/10) (zaokrąglone w dół)\n\nna początku walki:\n- rozpoczyna walkę z HP równym Butterfly[TabExplain] of Entangled Lives::The Pupa (bez Tarczy)\n- zyskuje po 10 Stosów [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]\n\nprzy poniżej 66%/33% HP zyskuje nowe wzorce slotów\n- gdy HP tej jednostki po raz pierwszy w tej walce spadnie <color=#ff6000><mark=#ff000040><b><u>poniżej 66%/33%</u></b></mark></color>, w następnej turze <color=#ff6000><mark=#ff000040><b><u>zyskuje po 10 Stosów [StackPastActivate], [StackPresentActivate] i [StackFutureActivate]</u></b></mark></color>",
+      "kr_sha256": "bb3f7e711839fe8fb1649e189fb23e839a42af3ec70def7f42e14e1f5e7bd0f3",
+      "en_sha256": "a524bcbbd26aebaba6daebf09e1690291789bbc3cf13f849115dd216955a7946",
+      "origin": "ai"
+    },
+    "dataList[id=956704].name": {
+      "pl": "Causality that Threads the Past, the Present, and the Future [三世因果]",
+      "kr_sha256": "3768167e3ff2b8e31804320359721d1762d22ae48eb20fcc1e750fc475b1be46",
+      "en_sha256": "6170bd6426e4b3dd1befc5e68adeec22fdd8287165b4982d20864d65d7f55d8e",
+      "origin": "ai"
+    },
+    "dataList[id=956705].desc": {
+      "pl": "na początku tury <color=#ff6000><mark=#ff000040><b><u>aktywuje się stan czasu o najwyższej wartości</u></b></mark></color> spośród [StackPastActivate], [StackPresentActivate] i [StackFutureActivate], a jednostka używa specjalnej Umiejętności\n- jeżeli kilka stanów czasu ma najwyższą wartość, aktywny stan czasu pozostaje bez zmian\n- nieaktywne stany czasu zmieniają się odpowiednio w [StackPast], [StackPresent] lub [StackFuture]\n- gdy <color=#ff6000><mark=#ff000040><b><u>aktywny stan czasu ulegnie zmianie</u></b></mark></color>, zyskuje 1 [TimeGap]\n\n<color=#ff6000><mark=#ff000040><b><u>za każdym razem gdy Illusory Butterfly[TabExplain] of Entangled Lives::The Past / The Present / The Future zostaną trafione jako główne cele</u></b></mark></color>, Butterfly[TabExplain] of Entangled Lives::Imago traci Stos [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]\n\n<color=#ff6000><mark=#ff000040><b><u>wyższe Stosy [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]</u></b></mark></color> sprawiają, że Moc Umiejętności i obrażenia Butterfly[TabExplain] of Entangled Lives::Imago stają się <color=#ff6000><mark=#ff000040><b><u>znacznie większe</u></b></mark></color>, a <color=#ff6000><mark=#ff000040><b><u>nakładane i otrzymywane wartości statusów znacznie rosną</u></b></mark></color>",
+      "kr_sha256": "996044d355eb356d64e686dafff29e3eb97f9bd8781b6ad58a65b6e5e2dd18d6",
+      "en_sha256": "4b88f89b06e90be7647c56fbbf9c6ba49524b42156725d40b0e300ce04c65188",
+      "origin": "ai"
+    },
+    "dataList[id=956705].name": {
+      "pl": "Moment of Entangled Lives",
+      "kr_sha256": "05898259217c216cf86420d8b6919c36d7b63de044ab23cc5910523630745e2c",
+      "en_sha256": "a79a4ee57147999ccfeb9023aeb7c3fa7c9aa2a1c88e88e6720def752737d8f0",
+      "origin": "ai"
+    },
+    "dataList[id=956801].desc": {
+      "pl": "na początku walki zyskuje 3 [YesdragonSelfRefraction]\nna koniec tury zyskuje 1 [YesdragonSelfRefraction] w następnej turze\nza każdym razem gdy pasywka „Thundering Wrath\" się aktywuje, z tego efektu zyskuje o 1 [YesdragonSelfRefraction] więcej",
+      "kr_sha256": "09a5a11d07f2be82cbceb0d49fb00f0ba3d5700564310c1ba27c7e6d6cfc36f1",
+      "en_sha256": "125203069243b2990da6eb2320e11041076dbbb1d3438a0e3ed89096c0970bf7",
+      "origin": "ai"
+    },
+    "dataList[id=956801].name": {
+      "pl": "Life Hanging on a Wedge [一櫼之命]",
+      "kr_sha256": "198d90f093df10f76f11989773cd6585ed846fe92516019b1b2036d18c1a63d1",
+      "en_sha256": "9bc3bb066a179e45e458c7086b8d3620ff9ad6b37b0a342f579baed67760a847",
+      "origin": "ai"
+    },
+    "dataList[id=956802].desc": {
+      "pl": "część Inverted Scale otrzymuje obrażenia tylko z Umiejętności, dla których jest głównym celem; nie otrzymuje obrażeń z innych źródeł\ngdy część Inverted Scale zostanie trafiona, znika ze slotów Umiejętności w następnej turze; za każdy Stos [YesdragonSelfRefraction] zużyty przez Umiejętność „Wrath of the Inverted Scale\" zyskuje 1 [AttackUp] i 1 [DefenseDown]",
+      "kr_sha256": "667ab795fdcf15746be4ff06488966dceee65d9f123b365c32b1a2a846eeaf35",
+      "en_sha256": "5b22a74864d7403795375ce63bc9ea9c652eee2e244f3c1761acf544117ca81a",
+      "origin": "ai"
+    },
+    "dataList[id=956802].name": {
+      "pl": "Thundering Wrath [震怒]",
+      "kr_sha256": "f5039c89cec21930d600e1c966e1a0b408a79bb45ed4120e04e6e644038d09db",
+      "en_sha256": "4ac28d9fd1ce5287af695b991382337a6b72316cef39f4c6476240d3cafd5aa9",
+      "origin": "ai"
+    },
+    "dataList[id=956804].desc": {
+      "pl": "niezależna od [Agility] i [Binding]\notrzymuje -50% obrażeń HP od [Combustion], [Laceration], [Vibration], [Burst] i [Sinking]; [Vibration] podnosi Próg Oszołomienia o 50% mniej",
+      "kr_sha256": "8f65f09a6b595bba03b2bd89265700c5c7b5fd2668f2af62ff08a7c061cafe70",
+      "en_sha256": "e917a4ad5bece66153ed5af0cb371d544c8adecc19376046088dd1ed27f78125",
+      "origin": "ai"
+    },
+    "dataList[id=956804].name": {
+      "pl": "Dragon's Scale",
+      "kr_sha256": "e909e0eac9d2196a18bcc827dcbb32a887d752f65cd555995fee2a6a000548ba",
+      "en_sha256": "e87cb140325578cb268d1ecc21062eef448ea4542283c22c71c87a19b874494b",
+      "origin": "ai"
+    },
+    "dataList[id=956805].desc": {
+      "pl": "na początku walki część Head zyskuje Tarczę równą 100% Maks. HP tej jednostki\nna koniec tury nie traci Tarczy\ngdy Tarcza pęknie, rozpoczyna się nowa faza",
+      "kr_sha256": "4e56aa8c15edcca6895678557a8010c428ecd1a34263e9272cd7e715fdc960fb",
+      "en_sha256": "46ca2a8b7d6409a3bf1af162f3b300500e0143dbbb8b3346c3173e56f2515632",
+      "origin": "ai"
+    },
+    "dataList[id=956805].name": {
+      "pl": "The Unreachable Heavens",
+      "kr_sha256": "ced7964b2a070b6145737b829158564e8080113c88844f0e7560596eee7d17ad",
+      "en_sha256": "ba1e86f8eb439bb42166dfc94338ed3b0e0a76b5db301a75dfc28e50b0b30a03",
+      "origin": "ai"
+    },
+    "dataList[id=956901].desc": {
+      "pl": "wszystkie Części mogą być zniszczone, ale nie da się ich odciąć\nzniszczone Części po 3 turach <noparse>odrastają</noparse> z 30% HP",
+      "kr_sha256": "e8d05e7d005b1cbb96149fef8348aef190d8b86bf652126024df60b4b9966198",
+      "en_sha256": "5460cfb9a4bb8501843e923e817f8cad1d94ecc9fc7fa3e02d801a71879fbb02",
+      "origin": "ai"
+    },
+    "dataList[id=956901].name": {
+      "pl": "Tarnished Body",
+      "kr_sha256": "b68834a0b4f169d97c8d52810fd9a49131da76112a1368c53a476cf5045f2267",
+      "en_sha256": "7a9e37efdaa5eee43189986bd8223daf79ce1f4a51749c915ff8ffacdd4090b8",
+      "origin": "ai"
+    },
+    "dataList[id=956902].desc": {
+      "pl": "nie może zginąć dopóki część Flower-burying Wedge nie zostanie zniszczona",
+      "kr_sha256": "e4498eacfeca9010237c53832401c4c72f9d42fd90cec7e2ec07148ffc032290",
+      "en_sha256": "1f585bf923362304a337c63173abc9804391196bc529f38feb7ad3881077615f",
+      "origin": "ai"
+    },
+    "dataList[id=956902].name": {
+      "pl": "Life Hanging on a Wedge [一櫼之命]",
+      "kr_sha256": "198d90f093df10f76f11989773cd6585ed846fe92516019b1b2036d18c1a63d1",
+      "en_sha256": "9bc3bb066a179e45e458c7086b8d3620ff9ad6b37b0a342f579baed67760a847",
+      "origin": "ai"
+    },
+    "dataList[id=956903].desc": {
+      "pl": "gdy część Inverted Scale zostanie zniszczona, pasywka „Thundering Wrath\" nie aktywuje się\ndopóki część Inverted Scale jest zniszczona, wszystkie Części zyskują 3 [AttackUp] i 6 [DefenseDown]",
+      "kr_sha256": "5285a0ea922e92992ebd3fafd974ae0b35127304d547e10e51159c1b89de6658",
+      "en_sha256": "f267decd5bfe39d24e836b99373087286e368a4aa86dabe679944c80a1e8a7ec",
+      "origin": "ai"
+    },
+    "dataList[id=956903].name": {
+      "pl": "Broken Scale",
+      "kr_sha256": "48aebf1a0edaac619cbcccc3ebdf5d2958b99a61d1f28bacf6f42ea60b7e0dcf",
+      "en_sha256": "9b6b003c9d0d2084c7a9860c4003be1f7ad4748d36bf5688bcc7f0584e9e04f1",
+      "origin": "ai"
+    },
+    "dataList[id=956904].desc": {
+      "pl": "dopóki część Head jest zniszczona, wszystkie Części zyskują 2 [Vulnerable] co turę",
+      "kr_sha256": "b03dce896a8a727cd6b9d9031ebd73523ec1b7d5ea6b6f3cb6b6389e03f53033",
+      "en_sha256": "5807ad7ec9790287de9996e92a483b40e150ec0bae87732a3858ebaa3ec983a1",
+      "origin": "ai"
+    },
+    "dataList[id=956904].name": {
+      "pl": "Broken Skull",
+      "kr_sha256": "fde16c1961f99980cd3a53e45062d39e8b433d4d446310fd0a82826af7462d32",
+      "en_sha256": "41f0ff775425386a6e4f5950432c32d559dd021c94a050e78a44ef0959aa79dd",
+      "origin": "ai"
+    },
+    "dataList[id=956907].desc": {
+      "pl": "na początku walki zyskuje 3 [YesdragonSelfRefraction]\nna koniec tury zyskuje 1 [YesdragonSelfRefraction] w następnej turze\nza każdym razem gdy pasywka „Thundering Wrath\" się aktywuje, z tego efektu zyskuje o 1 [YesdragonSelfRefraction] więcej\n- gdy część Inverted Scale zostanie zniszczona, przyrost wartości zostaje zresetowany",
+      "kr_sha256": "22711ceda34dcccac5f536f82bca6dc0bbbcb3f30f3ac894d75a105009519d68",
+      "en_sha256": "b96ca7a9ee3c6efee404726d79833410737eaab508b4909a321c17870ce8a5b6",
+      "origin": "ai"
+    },
+    "dataList[id=956907].name": {
+      "pl": "Erumpent Flower-burying Efflorescence [梅花滿開]",
+      "kr_sha256": "8b4c8cec6b3956e70667926b6360407044c1b74c7e753ac845bb5fefd2be529d",
+      "en_sha256": "e0cde0df06e9652c1fd49c334249be0529d29d5c2b90a9753290a634c448c326",
+      "origin": "ai"
+    },
+    "dataList[id=956908].desc": {
+      "pl": "część Inverted Scale otrzymuje obrażenia tylko z Umiejętności, dla których jest głównym celem; nie otrzymuje obrażeń z innych źródeł\ngdy część Inverted Scale zostanie trafiona, znika ze slotów Umiejętności w następnej turze; za każdy Stos [YesdragonSelfRefraction] zużyty przez Umiejętność „Wrath of the Inverted Scale\" zyskuje 1 [AttackUp] i 1 [DefenseDown]",
+      "kr_sha256": "667ab795fdcf15746be4ff06488966dceee65d9f123b365c32b1a2a846eeaf35",
+      "en_sha256": "5b22a74864d7403795375ce63bc9ea9c652eee2e244f3c1761acf544117ca81a",
+      "origin": "ai"
+    },
+    "dataList[id=956908].name": {
+      "pl": "Thundering Wrath [震怒]",
+      "kr_sha256": "f5039c89cec21930d600e1c966e1a0b408a79bb45ed4120e04e6e644038d09db",
+      "en_sha256": "4ac28d9fd1ce5287af695b991382337a6b72316cef39f4c6476240d3cafd5aa9",
+      "origin": "ai"
+    },
+    "dataList[id=957001].desc": {
+      "pl": "na początku tury zyskuje Tarczę równą 300% Maks. HP Core\n- ten efekt nie aktywuje się gdy wyposażone są Umiejętności ataku\nna początku tury, jeżeli jest Oszołamiona, dochodzi do siebie z Oszołamienia",
+      "kr_sha256": "a96b4f4633d66f716bcce31d571302cd68e5272cfd7725195904088b04e8e2e3",
+      "en_sha256": "0955704d74a012fd701a78a49195fec7c5de9d02825df985eed58264857a3035",
+      "origin": "ai"
+    },
+    "dataList[id=957001].name": {
+      "pl": "Dragon's Vein [龍脈]",
+      "kr_sha256": "7d66a0ed7f29f9ebdc21f1bd2d26da9179482aeb1b4b56cab4a650a832193e5d",
+      "en_sha256": "b61fa89633293f96d378ae704c8408dcb903d1a20ea240747ebea06b0e19de49",
+      "origin": "ai"
+    },
+    "dataList[id=957002].desc": {
+      "pl": "przy otrzymaniu trafienia nakłada [YesdragonPower] na atakującego w następnej turze\n\nnatychmiast po śmierci nakłada [YesdragonPower] na wszystkich Grzeszników",
+      "kr_sha256": "91a01db8a835ab1f4fcf6cd9a0ce4b86fc53c1bbfe9fd2f3b4c0996ab3493428",
+      "en_sha256": "aee1d94725c2be4ab60281b8241b1c607e95f74592e3065806f1c646883efc1e",
+      "origin": "ai"
+    },
+    "dataList[id=957002].name": {
+      "pl": "The Dragon's Bleeding Vein",
+      "kr_sha256": "9bd91ab14dae2695bab7dc12d6091b822ea5e23197d183a4c6a2815f58024106",
+      "en_sha256": "8d446c7d7ef2da4c95f587f84e76754183b34b3493277875ee931ad0963ab20f",
+      "origin": "ai"
+    },
+    "dataList[id=957003].desc": {
+      "pl": "gdy ta jednostka otrzyma obrażenia sprowadzające jej HP do 0, w tej turze jej HP nie spada poniżej 1; dochodzi do siebie z Oszołamienia od obrażeń\nprzez resztę tury ta jednostka nie może zostać Oszołamiona ani zginąć od obrażeń, a na samym końcu tury używa Umiejętności „Impale the Self, Impurity[TabExplain] to Purge\"",
+      "kr_sha256": "4052592ad3843b340e9c9cb41a23d9cafd904f24344cbb8f75fea04242331761",
+      "en_sha256": "5b3b5cb3d28e3b4cb0ff32a609c1084ebfa788aca13a4ddfdf45522cc3d71226",
+      "origin": "ai"
+    },
+    "dataList[id=957003].name": {
+      "pl": "One Last Radiance [回光返照]",
+      "kr_sha256": "cd1b7bfb0a088d81f79ebc1674f5e8127fc731bc9f11be0b8a8e228a91b4b618",
+      "en_sha256": "d0e8f74d387731f1b417030a2d4cadf1eee8f8b4c5deb16c9354886c02cc7757",
+      "origin": "ai"
+    },
+    "dataList[id=957004].desc": {
+      "pl": "ta jednostka nie może być leczona ani korzystać z Asysty obronnej[TabExplain]\notrzymuje obrażenia tylko z Umiejętności, dla których jest głównym celem; nie otrzymuje obrażeń z innych źródeł",
+      "kr_sha256": "e5e989dd0246135a218e134a906b0a86a135aadb1109ded454342947da3d4777",
+      "en_sha256": "7008a37dea8ff82c7f5b76bab74eddcbda8769c73c43281afb282f873fc46882",
+      "origin": "ai"
+    },
+    "dataList[id=957004].name": {
+      "pl": "Lofty Energy",
+      "kr_sha256": "f78afef270f1856f8d8f324c1f2686de4c5516fa8f3c6196d828f93c3a3b4a95",
+      "en_sha256": "00affa6d1bd117b88685e35b901bdd07b81035fc5a1c1f10b3861eac1d527581",
+      "origin": "ai"
+    },
+    "dataList[id=957006].desc": {
+      "pl": "Cannot Retreat",
+      "kr_sha256": "656c9057b2bb8905af8a46e0e13b0c1cc6b05a56106c92501e9df4a9365e279f",
+      "en_sha256": "3b84215656f8b15aa293082eb5be7dbcdc72a37abd56f4a28438346bc0b50b49",
+      "origin": "ai"
+    },
+    "dataList[id=957006].name": {
+      "pl": "Refracted Egress",
+      "kr_sha256": "173d2edcc9c05a00aadd722c8e06dfda730982c3dd0f1ed145c211d5dafb3aa7",
+      "en_sha256": "73e8fb8bba6b33188d284ce166ee33b15cd422bb4ff2be3314615727318eb0b4",
+      "origin": "ai"
+    },
+    "dataList[id=957101].desc": {
+      "pl": "gdy zostanie trafiona Umiejętnością „Levinfall\" Yinglonga, natychmiast ginie i nakłada 1 [YesdragonSelfRefraction] na Yinglonga",
+      "kr_sha256": "2d9a922e7af83a9dc6501178c036a79e0b798b7356c862bd10d6e77970a3a50c",
+      "en_sha256": "1eaf88cfef9fafb289b8bf55a3f094c01fd48cd5ec0e3e6d4eb8f56ea17023fd",
+      "origin": "ai"
+    },
+    "dataList[id=957101].name": {
+      "pl": "Return to Origin [物歸原主]",
+      "kr_sha256": "c466e989322179b84eebf6411decfba7baefeb4b83aa42b035f4eac05bec4b77",
+      "en_sha256": "1097eae5c5b4756308336f11c8cbd42c35ed10562e0dfaeab5c601761fbb7d93",
+      "origin": "ai"
+    },
+    "dataList[id=957201].desc": {
+      "pl": "wyświetla aktualny Stos [StackPastActivate] jednostki Butterfly[TabExplain] of Entangled Lives::Imago\n\nza każdym razem gdy ta jednostka zostanie <color=#ff6000><mark=#ff000040><b><u>trafiona jako główny cel</u></b></mark></color>:\n- Butterfly[TabExplain] of Entangled Lives::Imago traci 1 Stos [StackPastActivate] (1 raz na monetę)\n- Grzesznik, który zaatakował tę jednostkę, przywraca 10 Poczytalności (1 raz na turę na Grzesznika)\n\njeżeli w tej turze ta jednostka <color=#ff6000><mark=#ff000040><b><u>nie została trafiona jako główny cel</u></b></mark></color>, na koniec walki Butterfly[TabExplain] of Entangled Lives::Imago zyskuje 5 Stosów [StackPastActivate]\n- jeżeli Butterfly[TabExplain] of Entangled Lives::Imago jest Oszołamione, ten efekt nie aktywuje się",
+      "kr_sha256": "e5956c42de33114b2e36909cfdde7da3b8f75ec2c98f686589605bc44e38b1ca",
+      "en_sha256": "dfbfd0bbf887d2f67c4116a4e3e5ddbb1406624faab946cf2a30413ee3fe609c",
+      "origin": "ai"
+    },
+    "dataList[id=957201].name": {
+      "pl": "The Past - Segmentation [分節]",
+      "kr_sha256": "9a279666c031bb2a612fc916b95312a4a66ebf46e337c52f1f85303d241bfdd1",
+      "en_sha256": "02311cec3cb6750eefe88acdac577f86d24f2472e9ccd9b00198cccca03c4435",
+      "origin": "ai"
+    },
+    "dataList[id=957202].desc": {
+      "pl": "Szybkość tej jednostki jest stała (1); HP tej jednostki nie spada poniżej 1\n\ngdy ta jednostka otrzymuje obrażenia HP, połowa otrzymanych obrażeń przenosi się na Butterfly[TabExplain] of Entangled Lives::Imago (zaokrąglone w dół)",
+      "kr_sha256": "f841ab299c4201bf40ab2be0f030bd6da20dca9fdb6345343735aab162815e64",
+      "en_sha256": "7d69fd85d875e74050b2b26229ff4788697a2ab873e31d959269a424a3729dbf",
+      "origin": "ai"
+    },
+    "dataList[id=957202].name": {
+      "pl": "The Past - Origination [緣起]",
+      "kr_sha256": "59ff21bc8a48bb98b1d9fe0e237fa42b1bba26d51f3200e490703a3b7e22cb34",
+      "en_sha256": "2d3defbe13923e4be39c39b9b1f253738fa0fefe51be2afc48bd1f060f043b52",
+      "origin": "ai"
+    },
+    "dataList[id=957301].desc": {
+      "pl": "wyświetla aktualny Stos [StackPresentActivate] jednostki Butterfly[TabExplain] of Entangled Lives::Imago\n\nza każdym razem gdy ta jednostka zostanie <color=#ff6000><mark=#ff000040><b><u>trafiona jako główny cel</u></b></mark></color>:\n- Butterfly[TabExplain] of Entangled Lives::Imago traci 1 Stos [StackPresentActivate] (1 raz na monetę)\n- Grzesznik, który zaatakował tę jednostkę, przywraca 10 Poczytalności (1 raz na turę na Grzesznika)\n\njeżeli w tej turze ta jednostka <color=#ff6000><mark=#ff000040><b><u>nie została trafiona jako główny cel</u></b></mark></color>, na koniec walki Butterfly[TabExplain] of Entangled Lives::Imago zyskuje 5 Stosów [StackPresentActivate]\n- jeżeli Butterfly[TabExplain] of Entangled Lives::Imago jest Oszołamione, ten efekt nie aktywuje się",
+      "kr_sha256": "f7c22ce1eeec3df8c995fe908a0c076e3a0614e439df0bd7f619a92084300952",
+      "en_sha256": "399202e925199664b2209b5129cc9f834158f412722c1f63edbe47ce6a8e5c6f",
+      "origin": "ai"
+    },
+    "dataList[id=957301].name": {
+      "pl": "The Present - Segmentation [分節]",
+      "kr_sha256": "b293c39e7b7dc75bfed544a2a4e1eeb43fc648dfb343926db44ab9b2b1f6353e",
+      "en_sha256": "6bf51f1f3a7b67d0b21547a25724cc88a576c2e042e626c62bbf09c5945f8415",
+      "origin": "ai"
+    },
+    "dataList[id=957302].desc": {
+      "pl": "Szybkość tej jednostki jest stała (1); HP tej jednostki nie spada poniżej 1\n\ngdy ta jednostka otrzymuje obrażenia HP, połowa otrzymanych obrażeń przenosi się na Butterfly[TabExplain] of Entangled Lives::Imago (zaokrąglone w dół)",
+      "kr_sha256": "f841ab299c4201bf40ab2be0f030bd6da20dca9fdb6345343735aab162815e64",
+      "en_sha256": "7d69fd85d875e74050b2b26229ff4788697a2ab873e31d959269a424a3729dbf",
+      "origin": "ai"
+    },
+    "dataList[id=957302].name": {
+      "pl": "The Present - Origination [緣起]",
+      "kr_sha256": "d1d866cb31e007d2bee27ee4b78df0ca8eb844e5d0513ddcdc89dfedfbf2e8ef",
+      "en_sha256": "011d79332fc090f7a362dec17ab7c09bd5d6d6af8b293feab6cbc16d86cf765a",
+      "origin": "ai"
+    },
+    "dataList[id=957401].desc": {
+      "pl": "wyświetla aktualny Stos [StackFutureActivate] jednostki Butterfly[TabExplain] of Entangled Lives::Imago\n\nza każdym razem gdy ta jednostka zostanie <color=#ff6000><mark=#ff000040><b><u>trafiona jako główny cel</u></b></mark></color>:\n- Butterfly[TabExplain] of Entangled Lives::Imago traci 1 Stos [StackFutureActivate] (1 raz na monetę)\n- Grzesznik, który zaatakował tę jednostkę, przywraca 10 Poczytalności (1 raz na turę na Grzesznika)\n\njeżeli w tej turze ta jednostka <color=#ff6000><mark=#ff000040><b><u>nie została trafiona jako główny cel</u></b></mark></color>, na koniec walki Butterfly[TabExplain] of Entangled Lives::Imago zyskuje 5 Stosów [StackFutureActivate]\n- jeżeli Butterfly[TabExplain] of Entangled Lives::Imago jest Oszołamione, ten efekt nie aktywuje się",
+      "kr_sha256": "f69be0d53a227910ebfe48b37f6aa08e927c49e8e6ac69c5701423c3ea327e2c",
+      "en_sha256": "ddbe05db4badffa4022402524afaab2ce68a5fc600419ba84006d61ce937a16a",
+      "origin": "ai"
+    },
+    "dataList[id=957401].name": {
+      "pl": "The Future - Segmentation [分節]",
+      "kr_sha256": "7f219fda939c79ce3e1a84eb7caf48cdd471cef4554b92085d7f08bce27c4664",
+      "en_sha256": "61aed7683812a096b8a0c621ed2d5f273d98ff3d63382627e89e07ccbe9b78ca",
+      "origin": "ai"
+    },
+    "dataList[id=957402].desc": {
+      "pl": "Szybkość tej jednostki jest stała (1); HP tej jednostki nie spada poniżej 1\n\ngdy ta jednostka otrzymuje obrażenia HP, połowa otrzymanych obrażeń przenosi się na Butterfly[TabExplain] of Entangled Lives::Imago (zaokrąglone w dół)",
+      "kr_sha256": "f841ab299c4201bf40ab2be0f030bd6da20dca9fdb6345343735aab162815e64",
+      "en_sha256": "7d69fd85d875e74050b2b26229ff4788697a2ab873e31d959269a424a3729dbf",
+      "origin": "ai"
+    },
+    "dataList[id=957402].name": {
+      "pl": "The Future - Origination [緣起]",
+      "kr_sha256": "4ce82e5ad13933cf1e7c80eea5509fa7f901124ba2ec868f5c006a71c42b2d12",
+      "en_sha256": "b0dcbec1e061a09345ae6c60d4c3b38fac3bcc6b537377425fae5cf819ca407a",
+      "origin": "ai"
+    }
+  }
+}

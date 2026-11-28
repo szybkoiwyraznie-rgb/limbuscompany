@@ -246,7 +246,13 @@ def validate_tokens(
     if net_pl not in valid_nets:
         errors.append(f"niezbalansowane znaczniki TMP w PL ({net_pl}; oczekiwano {net_kr})")
     elif net_pl == {} and order_errs:
-        errors.extend(order_errs)
+        # Parzystość strumienia tagów z KR: źródło samo bywa krzyżowo zagnieżdżone
+        # (np. przekreślenie <mark><color><s></color><color></s></color></mark>) —
+        # PL skopiowany 1:1 z KR jest poprawny mimo naruszenia LIFO.
+        pl_stream = [t.lower() for t in TMP_TAG.findall(pl_raw)]
+        kr_stream = [t.lower() for t in TMP_TAG.findall(kr_raw)]
+        if pl_stream != kr_stream:
+            errors.extend(order_errs)
 
     # Check non-empty <ruby=...> and matching count when source uses ruby
     ruby_kr = re.findall(r"<ruby=([^<>]*)>", kr_raw, flags=re.I)

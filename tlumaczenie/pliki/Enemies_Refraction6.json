@@ -1,5 +1,77 @@
 {
   "entries": {
+    "dataList[id=9550].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9550].name": {
+      "pl": "The Refracted Pinky Nursefather - Shiomi Yoru",
+      "kr_sha256": "030ab3c11cd3c8c18729c05b7326276a8fc4ffe747ef188a7ad89dad6091bd85",
+      "en_sha256": "a20948647201bcf2ff5ee7efb27a02332b5c36605309ead87e1ebf5a6612b7ce",
+      "origin": "ai"
+    },
+    "dataList[id=9551].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9551].name": {
+      "pl": "The Refracted Index Nursefather - Rien",
+      "kr_sha256": "49e35cd187ecd4d774b80286f08f9dba7b274e16562cae109be635532ae88fd2",
+      "en_sha256": "1e952ed65106eb7336e081b94a22ecd9f4f0fac9fcf4af11ac6f74ecb4518253",
+      "origin": "ai"
+    },
+    "dataList[id=9552].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9552].name": {
+      "pl": "The Refracted Index Nursefather - Rien",
+      "kr_sha256": "49e35cd187ecd4d774b80286f08f9dba7b274e16562cae109be635532ae88fd2",
+      "en_sha256": "1e952ed65106eb7336e081b94a22ecd9f4f0fac9fcf4af11ac6f74ecb4518253",
+      "origin": "ai"
+    },
+    "dataList[id=9553].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9553].name": {
+      "pl": "Refracted Distorted Hohenheim",
+      "kr_sha256": "61c0e997a962b793efbd03389f9d5e280fceb26c0840a77e493de88cc02a6d5a",
+      "en_sha256": "00ba9a026a05f7d1c6e1da2279ee6110048f69aff51330160588369685ece8e6",
+      "origin": "ai"
+    },
+    "dataList[id=9554].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9554].name": {
+      "pl": "The Refracted Ring Nursefather - Callisto",
+      "kr_sha256": "bd4a69c9f7d7dc3ba6d9512d9927c5edea54745df8bf66cb93d6e587878e7559",
+      "en_sha256": "b8f3b289c7c5ecd52da2dd0d635525e532cd31185bceb1de9ace0574d46f3167",
+      "origin": "ai"
+    },
+    "dataList[id=9555].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9555].name": {
+      "pl": "The Refracted Ring Apprentice - Albina",
+      "kr_sha256": "671d1346dc8fd21f17928e5c866acdef08cae24c740c14a6e0c7f74a437f7f28",
+      "en_sha256": "a4505968b2f36c7538f3e5e9d1476aa1baca74cc21143c71e7fe47b1bd6b8af0",
+      "origin": "ai"
+    },
     "dataList[id=955601].desc": {
       "pl": "Część",
       "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
@@ -274,6 +346,30 @@
       "pl": "Refracted Hongyu, the Crimson Jade [紅玉]",
       "kr_sha256": "4f4e965f6e7a26112cdacf60eed6026cb57d8c77500de04e443ce9ed14f08eb8",
       "en_sha256": "08e4f9693136099397e29f887c54e70fd3815da028aed5f9c50cbe6d3bb3ce7d",
+      "origin": "ai"
+    },
+    "dataList[id=957101].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=957101].name": {
+      "pl": "Flower-burying Pin",
+      "kr_sha256": "bfe0a8359a731d80705b44e4b1b6c06d20bc169e8c84d2bc836720a2c39bad85",
+      "en_sha256": "dacaa1e58a8cc5b62aafb945ec5f14a522edc3bdf357106ab4d7420e40e0161c",
+      "origin": "ai"
+    },
+    "dataList[id=9571].desc": {
+      "pl": "Core",
+      "kr_sha256": "29e5e9ea58bb791c42a61ff7a6da04024189e023da9e6daaad2650eb6116fec3",
+      "en_sha256": "70ea1983c983deacc1b61805aea3d43648afd932f346fb2e5d9b15facd4035c2",
+      "origin": "ai"
+    },
+    "dataList[id=9571].name": {
+      "pl": "Refracted Flower-burying Pin",
+      "kr_sha256": "a8e2bcf9b6548d1f47ea4f7c601e2c73e5a149ad19fc450a8a9af19628cd1e8d",
+      "en_sha256": "4ea9d6565f4851f06b757c10fd9af82e43f3e10b4a326946f0ee82c0deba8344",
       "origin": "ai"
     }
   }

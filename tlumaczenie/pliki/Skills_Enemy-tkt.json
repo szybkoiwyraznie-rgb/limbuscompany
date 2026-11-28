@@ -1,0 +1,838 @@
+{
+  "entries": {
+    "dataList[id=9014001].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje Licznik [Vibration] równy Licznikowi [Vibration] celu",
+      "kr_sha256": "39e3a3af2babcebdd302e32e2b0cb9d67dbc186071eb7b333a64c222f240550c",
+      "en_sha256": "232c3560653233f8451fcb496a0f929b2f86deb0c2b793a32e87c88201fcc672",
+      "origin": "ai"
+    },
+    "dataList[id=9014001].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +2 Licznika [Vibration]",
+      "kr_sha256": "92097d714f12acee0fd4b7547451f505ae68ce738dd98d4d592494be12d32329",
+      "en_sha256": "3e976f86972fd6ab1b45ff8291a6777bb6029d51927e472fa88532ce42269a17",
+      "origin": "ai"
+    },
+    "dataList[id=9014001].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "6fb03acee73d2aa345780d4eba9e0cb32c55bd9ec01694016e69a5db94a272b4",
+      "en_sha256": "56cb64dba0e77c03c54f15103523bb7e0cb54f19c65fbed14b29a359069525c2",
+      "origin": "ai"
+    },
+    "dataList[id=9014001].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014001].levelList[level=1].name": {
+      "pl": "Nie Przeszkadzaj",
+      "kr_sha256": "d815fa060e7a59894bb3a34bd342c388e2b684566d20aa4e9a1eeb01794bfa55",
+      "en_sha256": "dfcf5b8aa63481abbd8c8aad4eed368a289c84e209c9eb7ce5c91c4305f624a5",
+      "origin": "ai"
+    },
+    "dataList[id=9014002].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=9014002].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=9014002].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=9014002].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada +1 Licznika [Vibration]",
+      "kr_sha256": "447909511d108a3121b24fb725027dc1f702a795ee04bd2741bba2fd983ecc69",
+      "en_sha256": "55021c0ada408fdef0763113302297d6a9acf21ac8ab23b5bf8c3930fa2a9e07",
+      "origin": "ai"
+    },
+    "dataList[id=9014002].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014002].levelList[level=1].name": {
+      "pl": "My Secret Weapon",
+      "kr_sha256": "2e50d9b3fd0e95d587bf9b3240a85870e17700da38aed53199f6daf101109b16",
+      "en_sha256": "64e5dc5c0eafddbf16959dea5bdb64207b8d80406975eaa97f20a6434c369e56",
+      "origin": "ai"
+    },
+    "dataList[id=9014003].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje Licznik [Vibration] równy Licznikowi [Vibration] na sobie",
+      "kr_sha256": "eec086cf21cff9dfb9477631deedc59eae09fa2ef93e2f109b138872c67d098e",
+      "en_sha256": "49ef092ddfb3f28c36f22c3b259ce54a4955e3a4c343fed72bddbf815b3e1ea1",
+      "origin": "ai"
+    },
+    "dataList[id=9014003].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "73ae459a1cdf1235bd958a2be8d1a9b9de28fb23095c5d7eb25472eed7c96dd9",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=9014003].levelList[level=1].desc": {
+      "pl": "Moc Starcia +1 za każde 5 Liczników [Vibration] na sobie (maks. 2)\n[WhenUse] uruchamia [Switch_Vibration], zamieniając [Vibration] na sobie w [VibrationDistribution]",
+      "kr_sha256": "09aebc28fec3f2e509d636f39890663f1f52f5e6fe814443651a1208f7b62241",
+      "en_sha256": "7df09e51a363035410546124e257e47975968b2a439f38df40f0267eb02cc13b",
+      "origin": "ai"
+    },
+    "dataList[id=9014003].levelList[level=1].name": {
+      "pl": "Filthy Watch Chains!",
+      "kr_sha256": "6944c5db5a4050818f3b35d5f0c14ea9d41606adcf902c8228d87d066720ad0a",
+      "en_sha256": "886c3cf340e63543499c5041446361703f4f530ed32ec312e49bfc568461a138",
+      "origin": "ai"
+    },
+    "dataList[id=9014004].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje HP Tarczy równe 2 x (Licznik [Vibration] na sobie) (maks. 20)",
+      "kr_sha256": "a33a79f8dc2bc6d7055319e8bd192bf474d4100e27f50c9261a885bc42ccee0c",
+      "en_sha256": "9bcd645323d3eefc7092d63be70d5f1216dfe9ac43df0534351fdcfe4b619e7a",
+      "origin": "ai"
+    },
+    "dataList[id=9014004].levelList[level=1].name": {
+      "pl": "Garda",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=9014101].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje [Vibration] równy [Vibration] celu",
+      "kr_sha256": "e470e7cb46af96b5f602445fce595f4e37a51a845b7af405cf18fcdd2f43bc2a",
+      "en_sha256": "41f25a8ab1c036d01f3faed0a8580746b90400b5a1cde7975dc2eadc2dad0fa6",
+      "origin": "ai"
+    },
+    "dataList[id=9014101].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 6 [Vibration]",
+      "kr_sha256": "cdf714b2572f7a7ebba3cf2d487347094b8a655bdb177b2da2304b8ce8e82818",
+      "en_sha256": "87fd31ef94e2f1d1e6399d44caee091d96979065778c235b20d6d0104a38d5da",
+      "origin": "ai"
+    },
+    "dataList[id=9014101].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "6fb03acee73d2aa345780d4eba9e0cb32c55bd9ec01694016e69a5db94a272b4",
+      "en_sha256": "56cb64dba0e77c03c54f15103523bb7e0cb54f19c65fbed14b29a359069525c2",
+      "origin": "ai"
+    },
+    "dataList[id=9014101].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014101].levelList[level=1].name": {
+      "pl": "Outta My Way",
+      "kr_sha256": "b50b52e0a33ee6a46d48b6ea855dbcc7ddf3e007a478e4f811b548362225e334",
+      "en_sha256": "dfc37e0e00f790438c8dc481088e87feee0cac9e93910bc50ad7fa1bbd05d177",
+      "origin": "ai"
+    },
+    "dataList[id=9014102].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=9014102].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=9014102].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=9014102].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=9014102].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014102].levelList[level=1].name": {
+      "pl": "I'm Pretty Good, You Know",
+      "kr_sha256": "cc2fdd30e929b8a2be065a760b097cc78a69c13f377f4c49883da09ec74b5517",
+      "en_sha256": "d3d0894f74f0e010e5453cc91ff5655021b5ba5c648db5eabe456109d7d4df83",
+      "origin": "ai"
+    },
+    "dataList[id=9014103].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje [Vibration] równy [Vibration] celu",
+      "kr_sha256": "22cf60af0455a685346201d6c1729f1bb61ed71b700a764c60c9f7eeb3bb894f",
+      "en_sha256": "41f25a8ab1c036d01f3faed0a8580746b90400b5a1cde7975dc2eadc2dad0fa6",
+      "origin": "ai"
+    },
+    "dataList[id=9014103].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Wywołuje [VibrationExplosion]. Zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "73ae459a1cdf1235bd958a2be8d1a9b9de28fb23095c5d7eb25472eed7c96dd9",
+      "en_sha256": "0f6c4444442f17558a3920b304834e7f80ca5a07c04f0ef8740e6602dcb86723",
+      "origin": "ai"
+    },
+    "dataList[id=9014103].levelList[level=1].desc": {
+      "pl": "Moc Starcia +1 za każde 5 Liczników [Vibration] na sobie (maks. 2)\n[WhenUse] uruchamia [Switch_Vibration], zamieniając [Vibration] na sobie w [VibrationDistribution]",
+      "kr_sha256": "09aebc28fec3f2e509d636f39890663f1f52f5e6fe814443651a1208f7b62241",
+      "en_sha256": "7df09e51a363035410546124e257e47975968b2a439f38df40f0267eb02cc13b",
+      "origin": "ai"
+    },
+    "dataList[id=9014103].levelList[level=1].name": {
+      "pl": "Vile Watch Chains!",
+      "kr_sha256": "1d850e3ec7bed4f5bad9b9371ed1f3a524d3f6cccb65b31d7c3cf278f611898e",
+      "en_sha256": "65eb25277d0e5b9c290c9b7d85a96658022d572c2e258e5aa0bb187f92d4cb61",
+      "origin": "ai"
+    },
+    "dataList[id=9014104].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje HP Tarczy równe 2 x (Licznik [Vibration] na sobie) (maks. 20)",
+      "kr_sha256": "a33a79f8dc2bc6d7055319e8bd192bf474d4100e27f50c9261a885bc42ccee0c",
+      "en_sha256": "9bcd645323d3eefc7092d63be70d5f1216dfe9ac43df0534351fdcfe4b619e7a",
+      "origin": "ai"
+    },
+    "dataList[id=9014104].levelList[level=1].name": {
+      "pl": "Garda",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=9014201].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Liczników [Vibration], nakłada 1 [InterlockingTime_Re]",
+      "kr_sha256": "441deabdbf744cb993c4edb65f44103bd4c940286615e52a9118c6e63376bf62",
+      "en_sha256": "dbaa0e1f571fbb4a9101e284127d42b31c714d798ec56d946d8cb1c98688c8ef",
+      "origin": "ai"
+    },
+    "dataList[id=9014201].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Liczników [Vibration], nakłada 1 [InterlockingTime_Re]",
+      "kr_sha256": "441deabdbf744cb993c4edb65f44103bd4c940286615e52a9118c6e63376bf62",
+      "en_sha256": "dbaa0e1f571fbb4a9101e284127d42b31c714d798ec56d946d8cb1c98688c8ef",
+      "origin": "ai"
+    },
+    "dataList[id=9014201].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Vibration] o 1",
+      "kr_sha256": "b94a36d85ea07f19695fb0684a4807f8ee2d8b6fa5d06a241f9efd6462039eb4",
+      "en_sha256": "4939bbb3c9fbd532ae022225b37e5a7f889292be00415c7ef3c6e48dec6f45c0",
+      "origin": "ai"
+    },
+    "dataList[id=9014201].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zyskuje +1 Licznik [Vibration]",
+      "kr_sha256": "d6f2b27333a2ca09615eb5400da2ad0177cad59d4925c79a4d2572b99f96e5a6",
+      "en_sha256": "5b7a46ef16fb06fa1433b0221892db8b2b9fa4bd952ec7b8432579b0e0b5a17f",
+      "origin": "ai"
+    },
+    "dataList[id=9014201].levelList[level=1].name": {
+      "pl": "Collection Stop-and-search",
+      "kr_sha256": "e370389bc330fc11c135265abb0cdd1ad7fb7578b52bb0ff4f6a3fc8b6053724",
+      "en_sha256": "9b409eae1bdf5f8811c93cf17fcca4317aebc20b8777cd1e688b1f98a1546f6d",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Paralysis] w następnej turze",
+      "kr_sha256": "84854da32f0f4198c19a34b2dfea3cb309aef1e3f6ab52d95e68edf21f95ecb2",
+      "en_sha256": "35e217289b73fb512ac55373cfd44a73d8c7f7f9620fee4a407130c8a8f88bf2",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy 4+ Licznikach [Vibration], nakłada 8 [Vibration]",
+      "kr_sha256": "a389d5bdb748249cfefafe69a1febab280fc57d441bdf9c0160720ac20b770fa",
+      "en_sha256": "f3871ef1af41d625307395604ee02753fc9d0c22cbff6f2f433077a4ce4f96f7",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "edc94ef7217c7f0a7b791c647a3b91af15bf5832d03776856c9f27515df176ff",
+      "en_sha256": "5d08508f8efc38733111c08d8623a256dc1e02879a6dbdc92dd44cfc9ce9c787",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Binding] w następnej turze",
+      "kr_sha256": "5bab282978b0f24c572f47da6922571ead968bd4aeb002a1478405ca73106317",
+      "en_sha256": "5021a20127b1520d0d537fcc8e7f80925cc54fbd4b1498ebad57ddc5d6bd72ff",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy 4+ Licznikach [Vibration], zwiększa własny Licznik [Vibration] o 8",
+      "kr_sha256": "d6f6100e5918aae85c992bdbb172658229bc20946edf48cb10a6e08f8cffb1bc",
+      "en_sha256": "7a0a1bace5916a07ed77848e036bd8300cc2db417c6c381e744323cec8c0abf7",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje +2 Licznika [Vibration]\n[WhenUse] przy 4+ Licznikach [Vibration], Moc Starcia +1",
+      "kr_sha256": "478ee576df5ed1e8c26aa2dd9d4aa353aa19ba1409d3073216694c8057928302",
+      "en_sha256": "5377d8dc55466e90128472cec6173617180713d4859741bf8c00fe0473bc802f",
+      "origin": "ai"
+    },
+    "dataList[id=9014202].levelList[level=1].name": {
+      "pl": "Please Stop.",
+      "kr_sha256": "b164aa6223b4589a19885d23642af5d8406536c0271439a94e16658bf80df8dd",
+      "en_sha256": "f8ce870af3ea462f9c0220a0db05a8f3ca0475168c2d1a2ab11efc8178ddef89",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +2 Licznika [Vibration] w następnej turze",
+      "kr_sha256": "688b302b8762a1897105a47cd76d66a09914c4067dca7db4af99aeeefdcfadbc",
+      "en_sha256": "9fb394a9748106b57371791b63de28e22a92255293adec7242527d8111eb3f48",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 8+ [Vibration], nakłada 1 [InterlockingTime_Re]",
+      "kr_sha256": "ea2b4fe41e95f0b019fc412cfdb0ad5717e56b3dbc46dc624208df2b081f548e",
+      "en_sha256": "e13b83eea1354b4c4a63718dc91ae31d6f0a86591857921bb865f67c21534aaf",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy 4+ Licznikach [Vibration], nakłada 8 [Vibration]",
+      "kr_sha256": "a389d5bdb748249cfefafe69a1febab280fc57d441bdf9c0160720ac20b770fa",
+      "en_sha256": "f3871ef1af41d625307395604ee02753fc9d0c22cbff6f2f433077a4ce4f96f7",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zyskuje +2 Licznika [Vibration] w następnej turze",
+      "kr_sha256": "688b302b8762a1897105a47cd76d66a09914c4067dca7db4af99aeeefdcfadbc",
+      "en_sha256": "9fb394a9748106b57371791b63de28e22a92255293adec7242527d8111eb3f48",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 4+ Liczników [Vibration], nakłada 1 [InterlockingTime_Re]",
+      "kr_sha256": "37a73ed65f2a8007505799f21abc5438a51339de4bffa6e5b686139bd57c2f29",
+      "en_sha256": "dbaa0e1f571fbb4a9101e284127d42b31c714d798ec56d946d8cb1c98688c8ef",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#1].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy 4+ Licznikach [Vibration], zwiększa własny Licznik [Vibration] o 5",
+      "kr_sha256": "7e9477df9a5dad5b346a9887d3d0047223550e29cbbc3ae36222ef3ef7d1142b",
+      "en_sha256": "981dc47b1b2cde12b681d7cc7af8249e7bf8292a18e53675d771049c9d3607f1",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przy 7+ Licznikach [Vibration], nakłada 1 [InterlockingTime_Re]",
+      "kr_sha256": "ecb7081e9e2c876eeb5e1938bc2fdbcc2884efa6027ba37b58c97d0897266d15",
+      "en_sha256": "03cf70d590378c60bb7bd1bc83065aa3d1dda22c23f292683f9500011b44d803",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [VibrationExplosion]",
+      "kr_sha256": "fa74dc7dbcbec3ca9d673c1c4d3d1e1a5faed2c3c4a417da0d49ee1d0d800b71",
+      "en_sha256": "d08ca17026a6950293a04b2517b9b3e062dd9e57bb9372fa4cbd07f43844d05a",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] przy 4+ Licznikach [Vibration], uruchamia [Switch_Vibration] w [VibrationChain]",
+      "kr_sha256": "c49570892a9a8d0d02737959286b4529f0dc34cfc4d5cc7b7dec323bb3958223",
+      "en_sha256": "100eb485d549a917cf77ee9d3ccab40282cc107b23ea64361ffcb5d711498045",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].desc": {
+      "pl": "[WhenUse] Moc Starcia +1 za każde 5 Liczników [Vibration] na sobie (maks. 2)\n[WhenUse] przy 5+ Licznikach [Vibration], zadaje +10% obrażeń za każdy Licznik [Vibration]. (maks. 100%)\n[EndSkill] zużywa wszystkie Liczniki [Vibration] na sobie",
+      "kr_sha256": "c7ca83c05f5449acb2f351d4d3d41776d1fbcb01d7676508e6ea5ce52447e96d",
+      "en_sha256": "0d33d4f02446b7e1746ba65e9e1bf2da24a9b9fdf73e4866364e896834bf6847",
+      "origin": "ai"
+    },
+    "dataList[id=9014203].levelList[level=1].name": {
+      "pl": "Enforcing Collections.",
+      "kr_sha256": "60584709bf26747b823e7f5d4bb2ab74dbf935863f2f97596f3d988b84e3939a",
+      "en_sha256": "8bf929dbd6858d91e4cd7bc26ec97cffaf535d53758aa3c36f5bcb50788f4382",
+      "origin": "ai"
+    },
+    "dataList[id=9014204].levelList[level=1].desc": {
+      "pl": "[StartBattle] zużywa 5 Liczników [Vibration] i zyskuje +3 Licznika [TimeRentalTwo]",
+      "kr_sha256": "ceecef64397847e60381caccbecc93057b10135a14a1ae36ff9689988de4b6a8",
+      "en_sha256": "a3cbe59ba83d577eeb7649091f2db26a3590030cc6b4cccf7030e6a40e3f0f2a",
+      "origin": "ai"
+    },
+    "dataList[id=9014204].levelList[level=1].name": {
+      "pl": "Wypożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "f02a901f1eb249eb6e8403a1041d1c00f2e793c0b443d5021234c5a353da3461",
+      "origin": "ai"
+    },
+    "dataList[id=9014301].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przy 3+ Licznikach [Vibration], nakłada 3 [Vibration]",
+      "kr_sha256": "c59b56563f06955308bf65ff4697f9c5dc76687924850d3c0ad61283d9a69b27",
+      "en_sha256": "d2088454e310a91992b3b84b5fa753c648e1533df373bf5b3d526725cdafb74c",
+      "origin": "ai"
+    },
+    "dataList[id=9014301].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa własny Licznik [Vibration] o 1",
+      "kr_sha256": "e2a660e57c742b3fe60c5f10a8ee41d123ad5351ebe2da003a0494e487d77f92",
+      "en_sha256": "f0e781a95f32bbf86aa6870be8cea652671fbf64a316ba7bda6f40dc7f150999",
+      "origin": "ai"
+    },
+    "dataList[id=9014301].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014301].levelList[level=1].name": {
+      "pl": "Przygotowanie do Zbierania",
+      "kr_sha256": "e3892f05cbdcbcc9267426e930c88c32ba2ec6b7c5e93ca7d9a7c6569bc6fb65",
+      "en_sha256": "21a99f4384ae4a511edfa28ed73cd9815b146670e23fb23542ed0a4e06b983e6",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "nakłada 2 [Vibration]",
+      "kr_sha256": "4c29069506250efc8582506342054c2df871885ad842c291658a30423ec1bd1b",
+      "en_sha256": "3b40354b9f81532efbcd5a58636facdede19cabe171c8381236260634847886c",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].coinlist[#0].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "edc94ef7217c7f0a7b791c647a3b91af15bf5832d03776856c9f27515df176ff",
+      "en_sha256": "5d08508f8efc38733111c08d8623a256dc1e02879a6dbdc92dd44cfc9ce9c787",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 1 [Vulnerable] w następnej turze",
+      "kr_sha256": "1258a58dc8c295e7fc06534a58c882d686cf8889bc4872a72c52f6f7cf25606f",
+      "en_sha256": "a7925365b7512805fa8f5367ff2da98654de3fee4d351e68974976d3ab47b21c",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014302].levelList[level=1].name": {
+      "pl": "Przyspieszony Amputator Korporacji T",
+      "kr_sha256": "58d3cb1309a3a7021bfb0907198e21c899f84ab3bf4fe97bef60f6c585c97566",
+      "en_sha256": "cc2ae9dc2daff500dbb5cfa4a94754941f22a2fdab0a110a5976f1483c3bf1ae",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 2 [Vulnerable] w następnej turze",
+      "kr_sha256": "1c244844170b2a039abc19a8de5522921b277b9c22b48f9a66ef5311412c0497",
+      "en_sha256": "42a5ae8462a38a4e717bd0a6f733dca5323d3860d9e5e8da48be22a3d6cde8d7",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada w następnej turze 1 Spadku Mocy Ataku",
+      "kr_sha256": "4a9bbb71dd76eef322865e1c256284ca9afcbddfebc07ceaf324fab015ef8cd7",
+      "en_sha256": "5cd69d8db5b37bfa922d3c55f7e2b1718326eb507d35ad9b686d139aeecbb922",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] przy 5+ Licznikach [Vibration], uruchamia [Switch_Vibration] w [VibrationChain]",
+      "kr_sha256": "72c62a39b873f3b9c0468ee492b82e6a0ee005b5473e9551ebf7be62c66083a7",
+      "en_sha256": "9ed709f6cf3a8344d20c0f0f6faad64fe05c0f5c4d45a5ba84c3851211f20e15",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 5+ Licznikach [Vibration], Moc Starcia +1\n[WhenUse] zyskuje +2 Licznika [Vibration]\n[WinDuel] zużywa 3 Liczniki [Vibration] na sobie i zyskuje +1 Licznika [TimeRentalTwo]",
+      "kr_sha256": "e4dbdcb6e0bd1e50f8ed37d0906f9cb60fc9a5a3cc39fae7a1096c3361fbc4ef",
+      "en_sha256": "2d9e5fde576daf01e8aba25d338ee5908174159a190c6e556cbfad6acfee500e",
+      "origin": "ai"
+    },
+    "dataList[id=9014303].levelList[level=1].name": {
+      "pl": "Your Timepiece, If You Will.",
+      "kr_sha256": "d99c46b17eb0eac6748315d29118164a1c6b09f9c09ac744b944090613d4c5f9",
+      "en_sha256": "5b86c1af900d20456b6878616f3782dc112c5921e38cd4079a50bcf4b0d8eb01",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by nałożyć 1 Wrażliwości",
+      "kr_sha256": "b60303bca9cfae2c2e7446d9f9e0e60f9911ee047f77992dfccfce3cb9970803",
+      "en_sha256": "82429a1a2f5acc15353229d5526680b4477e118813e544aa38d50848e03df038",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by zyskać +3 Licznika [Vibration]",
+      "kr_sha256": "dd03a48434c2589e5d654c91de8cb241130ec50f5079582e055afc0d7c4a1358",
+      "en_sha256": "a7034f8f8c540e3ac19acf085c1be5520b256387da404cb7821d44fc91811974",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by nałożyć 8 [Vibration]",
+      "kr_sha256": "c7d6ea4bb9ef91c5e7e1218abcebde724738a8c512d799d92f29f7b18e264a09",
+      "en_sha256": "4f1f0dba9e06dabc23461219a76d34b87ad614363ef3e0731ab7388be202e22f",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Vibration] na sobie, by uruchomić [VibrationExplosion], po czym ponownie używa tej monety (maks. 1 raz)",
+      "kr_sha256": "ca5a24b3f244ad067986fd10c4652fd169434b3d7d6666bbfe648fe9a8383b1c",
+      "en_sha256": "625d8976aebea4b6641d53a644378ac97006fa2f613ee984b113ff1a81e1c422",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zużywa 5 Liczników [Vibration] na sobie, by nałożyć 2 [TimeAccumulation]",
+      "kr_sha256": "7d75d7f0b47da43c863fb9480e106bb5b443c89753e9bd3bbacf69ca08f25cbc",
+      "en_sha256": "8ef8001d9afac8e868acc3594b3fd770fe2baf518040e6dc5d711d9eca4942c3",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje +3 Licznika [Vibration]\n[WhenUse] Moc Bazowa +1 za każde 4 Liczniki [Vibration] na sobie (maks. 3)\n[WinDuel] zużywa 5 Liczników [Vibration] na sobie i zyskuje +3 Licznika [TimeRentalTwo]",
+      "kr_sha256": "d191c30dd40e964fddfeb1869312a1a7ebd98a84afc28bf9bc9b2030dce80c78",
+      "en_sha256": "2668b8084c57b58ca2abb38c8836dbf6133009bca56ad647facb6925749ee29e",
+      "origin": "ai"
+    },
+    "dataList[id=9014304].levelList[level=1].name": {
+      "pl": "Enforcing Collections.",
+      "kr_sha256": "60584709bf26747b823e7f5d4bb2ab74dbf935863f2f97596f3d988b84e3939a",
+      "en_sha256": "8bf929dbd6858d91e4cd7bc26ec97cffaf535d53758aa3c36f5bcb50788f4382",
+      "origin": "ai"
+    },
+    "dataList[id=9014305].levelList[level=1].desc": {
+      "pl": "[StartBattle] zużywa 4 Liczniki [Vibration] i zyskuje +3 Licznika [TimeRentalTwo]\n[StartBattle] zyskuje +2 Licznika [Vibration]",
+      "kr_sha256": "d34c32afacac7ff87b5ec18175003ad34342d9e1abe2a797434b7233fa228505",
+      "en_sha256": "63321548d0bd4e499b0989b64985eaab36a9cbdabd95145d344e3e7530b8465e",
+      "origin": "ai"
+    },
+    "dataList[id=9014305].levelList[level=1].name": {
+      "pl": "Wypożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "f02a901f1eb249eb6e8403a1041d1c00f2e793c0b443d5021234c5a353da3461",
+      "origin": "ai"
+    },
+    "dataList[id=9014401].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przy 3+ Licznikach [Vibration], nakłada 3 [Vibration]",
+      "kr_sha256": "c59b56563f06955308bf65ff4697f9c5dc76687924850d3c0ad61283d9a69b27",
+      "en_sha256": "d2088454e310a91992b3b84b5fa753c648e1533df373bf5b3d526725cdafb74c",
+      "origin": "ai"
+    },
+    "dataList[id=9014401].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttackHead] Zwiększa własny Licznik [Vibration] o 1",
+      "kr_sha256": "e2a660e57c742b3fe60c5f10a8ee41d123ad5351ebe2da003a0494e487d77f92",
+      "en_sha256": "f0e781a95f32bbf86aa6870be8cea652671fbf64a316ba7bda6f40dc7f150999",
+      "origin": "ai"
+    },
+    "dataList[id=9014401].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014401].levelList[level=1].name": {
+      "pl": "Przygotowanie do Zbierania",
+      "kr_sha256": "e3892f05cbdcbcc9267426e930c88c32ba2ec6b7c5e93ca7d9a7c6569bc6fb65",
+      "en_sha256": "21a99f4384ae4a511edfa28ed73cd9815b146670e23fb23542ed0a4e06b983e6",
+      "origin": "ai"
+    },
+    "dataList[id=9014402].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by nałożyć 2 [Paralysis] w następnej turze. nakłada 2 [Vibration]",
+      "kr_sha256": "e27b611e45a25935b2db8a42905e08bdfe22d805e2950ad74b5b02543ea3c436",
+      "en_sha256": "742206fb209895d59e13c48804f00fc28b39e74695247e5ca4a1af102921bb3b",
+      "origin": "ai"
+    },
+    "dataList[id=9014402].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "edc94ef7217c7f0a7b791c647a3b91af15bf5832d03776856c9f27515df176ff",
+      "en_sha256": "5d08508f8efc38733111c08d8623a256dc1e02879a6dbdc92dd44cfc9ce9c787",
+      "origin": "ai"
+    },
+    "dataList[id=9014402].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by nałożyć 2 [Paralysis] w następnej turze. nakłada 2 [Vibration]",
+      "kr_sha256": "e27b611e45a25935b2db8a42905e08bdfe22d805e2950ad74b5b02543ea3c436",
+      "en_sha256": "742206fb209895d59e13c48804f00fc28b39e74695247e5ca4a1af102921bb3b",
+      "origin": "ai"
+    },
+    "dataList[id=9014402].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9014402].levelList[level=1].name": {
+      "pl": "T Corp. Time Snare",
+      "kr_sha256": "41d8af5f56f8e9e36cd451080c06b483ae4991881cfca0870f576cd3f0c54df3",
+      "en_sha256": "167cfddd4657f4c1d8f6dfb26df06b62434b7504e86a07bac30e5b6fecc01c42",
+      "origin": "ai"
+    },
+    "dataList[id=9014403].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Vibration] na sobie, by nałożyć 2 [Binding] w następnej turze",
+      "kr_sha256": "d36a33439f73f8484c6421fe4cf196271f0638f185c8f4498eb51ebdbad36137",
+      "en_sha256": "a6d02eb3e8e1049d51aa064caa2c9d5410380c0834de4c011d2df4d620d88802",
+      "origin": "ai"
+    },
+    "dataList[id=9014403].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Vibration] na sobie, by nałożyć 1 [ParryingResultDown] w następnej turze",
+      "kr_sha256": "8e8de28f332e7d55fb8d239f01f45fdc782f8d8e58e3e633609c0696c678d781",
+      "en_sha256": "ee4f1a085feb19bcfb41fe17b97e2da72e6805bc412c594f92d2eee3b3515150",
+      "origin": "ai"
+    },
+    "dataList[id=9014403].levelList[level=1].desc": {
+      "pl": "[WhenUse] przy 5+ Licznikach [Vibration], Moc Starcia +1\n[WhenUse] zyskuje +2 Licznika [Vibration]\n[WinDuel] zużywa 3 Liczniki [Vibration] na sobie i zyskuje +1 Licznika [TimeRentalTwo]",
+      "kr_sha256": "e4dbdcb6e0bd1e50f8ed37d0906f9cb60fc9a5a3cc39fae7a1096c3361fbc4ef",
+      "en_sha256": "2d9e5fde576daf01e8aba25d338ee5908174159a190c6e556cbfad6acfee500e",
+      "origin": "ai"
+    },
+    "dataList[id=9014403].levelList[level=1].name": {
+      "pl": "Stand Still.",
+      "kr_sha256": "badb4ff6797ab616bc58a6d30fd7a6b3568c6a6977db241cc0c9ac5e192eec38",
+      "en_sha256": "64a25065c348f739493207c1b2d0833a6574aa8819a91d965ff844ab4eef5d23",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by nałożyć 1 Wrażliwości",
+      "kr_sha256": "b60303bca9cfae2c2e7446d9f9e0e60f9911ee047f77992dfccfce3cb9970803",
+      "en_sha256": "82429a1a2f5acc15353229d5526680b4477e118813e544aa38d50848e03df038",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by zyskać +3 Licznika [Vibration]",
+      "kr_sha256": "dd03a48434c2589e5d654c91de8cb241130ec50f5079582e055afc0d7c4a1358",
+      "en_sha256": "a7034f8f8c540e3ac19acf085c1be5520b256387da404cb7821d44fc91811974",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 1 Licznik [Vibration] na sobie, by nałożyć 8 [Vibration]",
+      "kr_sha256": "c7d6ea4bb9ef91c5e7e1218abcebde724738a8c512d799d92f29f7b18e264a09",
+      "en_sha256": "4f1f0dba9e06dabc23461219a76d34b87ad614363ef3e0731ab7388be202e22f",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 2 Liczniki [Vibration] na sobie, by uruchomić [VibrationExplosion], po czym ponownie używa tej monety (maks. 1 raz)",
+      "kr_sha256": "ca5a24b3f244ad067986fd10c4652fd169434b3d7d6666bbfe648fe9a8383b1c",
+      "en_sha256": "625d8976aebea4b6641d53a644378ac97006fa2f613ee984b113ff1a81e1c422",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].coinlist[#3].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zużywa 5 Liczników [Vibration] na sobie, by nałożyć 2 [TimeAccumulation]",
+      "kr_sha256": "7d75d7f0b47da43c863fb9480e106bb5b443c89753e9bd3bbacf69ca08f25cbc",
+      "en_sha256": "8ef8001d9afac8e868acc3594b3fd770fe2baf518040e6dc5d711d9eca4942c3",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].desc": {
+      "pl": "[WhenUse] zyskuje +3 Licznika [Vibration]\n[WhenUse] Moc Bazowa +1 za każde 4 Liczniki [Vibration] na sobie (maks. 3)\n[WinDuel] zużywa 5 Liczników [Vibration] na sobie i zyskuje +3 Licznika [TimeRentalTwo]",
+      "kr_sha256": "d191c30dd40e964fddfeb1869312a1a7ebd98a84afc28bf9bc9b2030dce80c78",
+      "en_sha256": "2668b8084c57b58ca2abb38c8836dbf6133009bca56ad647facb6925749ee29e",
+      "origin": "ai"
+    },
+    "dataList[id=9014404].levelList[level=1].name": {
+      "pl": "Enforcing Collections.",
+      "kr_sha256": "60584709bf26747b823e7f5d4bb2ab74dbf935863f2f97596f3d988b84e3939a",
+      "en_sha256": "8bf929dbd6858d91e4cd7bc26ec97cffaf535d53758aa3c36f5bcb50788f4382",
+      "origin": "ai"
+    },
+    "dataList[id=9014405].levelList[level=1].desc": {
+      "pl": "[StartBattle] zużywa 4 Liczniki [Vibration] i zyskuje +3 Licznika [TimeRentalTwo]\n[StartBattle] zyskuje +2 Licznika [Vibration]",
+      "kr_sha256": "d34c32afacac7ff87b5ec18175003ad34342d9e1abe2a797434b7233fa228505",
+      "en_sha256": "63321548d0bd4e499b0989b64985eaab36a9cbdabd95145d344e3e7530b8465e",
+      "origin": "ai"
+    },
+    "dataList[id=9014405].levelList[level=1].name": {
+      "pl": "Wypożyczony Czas",
+      "kr_sha256": "95171872520fb873df76db5551918f8e3c53e234543704204f5afdcc25f4c280",
+      "en_sha256": "f02a901f1eb249eb6e8403a1041d1c00f2e793c0b443d5021234c5a353da3461",
+      "origin": "ai"
+    },
+    "dataList[id=9101701].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=9101701].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] Nakłada 2 [Vibration]",
+      "kr_sha256": "c0d4f0654a5107aa346ad28a55692807594f74c82e0fc6fdbf7fa849da601830",
+      "en_sha256": "d97029833e2a2e72547adc11c35b159a540844df903b692cf090f9d83320df60",
+      "origin": "ai"
+    },
+    "dataList[id=9101701].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zyskuje +1 Licznik [Vibration]",
+      "kr_sha256": "d6f2b27333a2ca09615eb5400da2ad0177cad59d4925c79a4d2572b99f96e5a6",
+      "en_sha256": "5b7a46ef16fb06fa1433b0221892db8b2b9fa4bd952ec7b8432579b0e0b5a17f",
+      "origin": "ai"
+    },
+    "dataList[id=9101701].levelList[level=1].name": {
+      "pl": "Have You No Shame?",
+      "kr_sha256": "7981b0a391880d2123c8c91da6a3de23429a00613d1ebc5dfa008a0b78c4c229",
+      "en_sha256": "807634baea68b077c71eae5717299d72c4db3c752927a48fdeeaffc30f3b2997",
+      "origin": "ai"
+    },
+    "dataList[id=9101702].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=9101702].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 3 [Vibration]",
+      "kr_sha256": "d02aae2056cd6d561c84f88560aaf1d4f094a8d4f0dc7bcfc7b8468b24727b2a",
+      "en_sha256": "b54a35b72818cf21b67804fa8ae3826b6d001c63c3283e8ba5e4909693b9ab29",
+      "origin": "ai"
+    },
+    "dataList[id=9101702].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zyskuje +1 Licznik [Vibration]",
+      "kr_sha256": "d6f2b27333a2ca09615eb5400da2ad0177cad59d4925c79a4d2572b99f96e5a6",
+      "en_sha256": "5b7a46ef16fb06fa1433b0221892db8b2b9fa4bd952ec7b8432579b0e0b5a17f",
+      "origin": "ai"
+    },
+    "dataList[id=9101702].levelList[level=1].name": {
+      "pl": "I See, You Have No Shame",
+      "kr_sha256": "60a2fef6c65e94a423a132c27697d947b78bc6216c24d28f62af589a2c1b47a0",
+      "en_sha256": "ca6a2ca06ce4212bc54efc57f07a4d71d2e6887b54713d9b0393e4cf459c05a7",
+      "origin": "ai"
+    },
+    "dataList[id=9101703].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=9101703].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] przy 10+ Licznikach [Vibration] na sobie, uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "a8a9bb12794a79283a223a94f71352928f431888abfaadb7d5f19097c53b30db",
+      "en_sha256": "7ec1eb033bf2b57cb53a385e5c3ae35fd4f08aab7c0e973af3f500d472884613",
+      "origin": "ai"
+    },
+    "dataList[id=9101703].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] jeżeli cel ma 15+ Mocy [Vibration], uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "8bc6ac89c2515bb233bad2baa08307477880f99a0dd7013504b22636c9ee0a0b",
+      "en_sha256": "6c767ce2c78094b36a5ef54769ebf85ecceaaac3fd1ccb16d0fd10b4e3f170a5",
+      "origin": "ai"
+    },
+    "dataList[id=9101703].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zyskuje +1 Licznik [Vibration]",
+      "kr_sha256": "d6f2b27333a2ca09615eb5400da2ad0177cad59d4925c79a4d2572b99f96e5a6",
+      "en_sha256": "5b7a46ef16fb06fa1433b0221892db8b2b9fa4bd952ec7b8432579b0e0b5a17f",
+      "origin": "ai"
+    },
+    "dataList[id=9101703].levelList[level=1].name": {
+      "pl": "Can You Protect Them?",
+      "kr_sha256": "80c6d69aac610f589b13e281ce7d81ac3313cfee2854b4609c3fd545337b8a01",
+      "en_sha256": "b90b880af1e77f8846ff77b06a0eaa424c297e67af45ef9d7bb3f00399366384",
+      "origin": "ai"
+    },
+    "dataList[id=9101704].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=9101704].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 5 [Vibration]",
+      "kr_sha256": "de192fd20c01515008b22525b05cda1b0318e3539ad6c3a9f96740552da4b756",
+      "en_sha256": "2643f13a6e910ce0e935b2a3f93641de670ad79e42a344193bb6b1137e8afd9e",
+      "origin": "ai"
+    },
+    "dataList[id=9101704].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [Switch_Vibration] w [VibrationCollapse]",
+      "kr_sha256": "792821b6bf7bf440cbe1739212dfcc005c34cb8a1908dd1451c8394973107d79",
+      "en_sha256": "e4bc04ea97d10bb3871de91847e0d9265c1f20372f0cad91a092c76c4f08801c",
+      "origin": "ai"
+    },
+    "dataList[id=9101704].levelList[level=1].desc": {
+      "pl": "[WhenUse] Zwiększa własny Licznik [Vibration] o 2",
+      "kr_sha256": "d26f6d9f8d493c89cdd590919eeec6d5f9e121c828a346fec9a67907d73c580c",
+      "en_sha256": "ee1510fdffa50e997c3e71112ac4443f3f585affa2b0f54fa68ca3f80984e810",
+      "origin": "ai"
+    },
+    "dataList[id=9101704].levelList[level=1].name": {
+      "pl": "Can't Use That Weapon Now",
+      "kr_sha256": "3026d53716f357baa7938e158852fa8753c30b4166884506e19ba04c7704c2b5",
+      "en_sha256": "c6582bae0e8150f0db0042b57ec0465fdea4665b5da405cf7b294ce38089c376",
+      "origin": "ai"
+    },
+    "dataList[id=9101705].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Vibration]",
+      "kr_sha256": "6f4cf49831259800e4086a4506ec2e703d0885761d75d4e1c3dbcd17fd05420b",
+      "en_sha256": "7b06bd81fb5a6b746eff2e5093b61f5098f14578d75127c007e8dfdd8c14f199",
+      "origin": "ai"
+    },
+    "dataList[id=9101705].levelList[level=1].coinlist[#3].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] uruchamia [FusionVibration] w [VibrationEcho]",
+      "kr_sha256": "5959306af7051f45bb111e62dd6b3b0c3a7c05aef2158ac9bafd43776bea97d2",
+      "en_sha256": "f735b12e0c5c589deca71c5d922f5ac81a5f0deea85e643628f851058e678c4a",
+      "origin": "ai"
+    },
+    "dataList[id=9101705].levelList[level=1].desc": {
+      "pl": "priorytet: cele z [VibrationCollapse]\n[WhenUse] nakłada Licznik [Vibration] równy Licznikowi [Vibration] na sobie wszystkim pozostałym sojusznikom\n[WhenUse] uruchamia [Switch_Vibration] na wszystkich sojusznikach (łącznie z tą jednostką), zamieniając ich [Vibration] w [VibrationDistribution]",
+      "kr_sha256": "c99cdcd16ddfdb07690ad76690df24112762f5a5f4da2a75f0c63e3b5b6f13c5",
+      "en_sha256": "b603ad94aec0c29de7f7a913af9c2f470754fdf934dbf24b6fe4184ea243ab65",
+      "origin": "ai"
+    },
+    "dataList[id=9101705].levelList[level=1].name": {
+      "pl": "Ready For A Beating?",
+      "kr_sha256": "7aa53cc98cea4317094e75043bb5e29aaafd7ddca4de21185f489a24de4494a4",
+      "en_sha256": "3dcb87311807c891d09a688a14cc2adc8da397245c6f0b4c513a6f6a20bf3ae7",
+      "origin": "ai"
+    },
+    "dataList[id=9101706].levelList[level=1].desc": {
+      "pl": "[StartBattle] zyskuje HP Tarczy równe 3 x (Licznik [Vibration] na sobie) (maks. 30)",
+      "kr_sha256": "e0ff071ba32fe1cf99d07b3353d14a968e506e91c20ae5caf4b308206fbd4939",
+      "en_sha256": "63f191d616c9ca7c1d6cfd55d12e6e3bb809821dc20c1c80a2c670825d5d927a",
+      "origin": "ai"
+    },
+    "dataList[id=9101706].levelList[level=1].name": {
+      "pl": "Garda",
+      "kr_sha256": "456870007cfcb4ce80c3be5920075115e875671d71421af5dace6396d9e2cb52",
+      "en_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#0].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 10 [Vibration]",
+      "kr_sha256": "6f4cf49831259800e4086a4506ec2e703d0885761d75d4e1c3dbcd17fd05420b",
+      "en_sha256": "7b06bd81fb5a6b746eff2e5093b61f5098f14578d75127c007e8dfdd8c14f199",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#0].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe 10% obrażeń Lenistwa za każdy Licznik [Vibration] na sobie",
+      "kr_sha256": "d5e85e271922eeb08990f5f9277957aafe5f61bb46fd094758245f395dfbaf9f",
+      "en_sha256": "7c2e9f77ea133f6cff3998ee77e8cbd7ef0cc06d52c8fb6f3d882646e5e3dfc7",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#1].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] nakłada 4 Licznika [Vibration]",
+      "kr_sha256": "9e03814a3dfdfbefc77a1bf0779d263eef8c512afc12e51cca2326752d8a818d",
+      "en_sha256": "fae65a7df9bc1364fd7d9b94470fe6da97d39e7da98f46bf4440021581a75673",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#1].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zadaje dodatkowe 10% obrażeń Lenistwa za każdy Licznik [Vibration] na sobie",
+      "kr_sha256": "d5e85e271922eeb08990f5f9277957aafe5f61bb46fd094758245f395dfbaf9f",
+      "en_sha256": "7c2e9f77ea133f6cff3998ee77e8cbd7ef0cc06d52c8fb6f3d882646e5e3dfc7",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#2].coindescs[#0].desc": {
+      "pl": "[OnSucceedAttack] zużywa 3 Liczniki [Vibration] na sobie i uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "941e8309271e482aff54be6b7c5e98eeca8618b67f44c31e49d9c753b9f57569",
+      "en_sha256": "1aa023d984828d984b6c6ff6fce6b80de62572f96d23d52082adaa19f9c44534",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#2].coindescs[#1].desc": {
+      "pl": "[OnSucceedAttack] zużywa 3 Liczniki [Vibration] na sobie i uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "941e8309271e482aff54be6b7c5e98eeca8618b67f44c31e49d9c753b9f57569",
+      "en_sha256": "1aa023d984828d984b6c6ff6fce6b80de62572f96d23d52082adaa19f9c44534",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].coinlist[#2].coindescs[#2].desc": {
+      "pl": "[OnSucceedAttack] zużywa 3 Liczniki [Vibration] na sobie i uruchamia [VibrationExplosion], po czym zmniejsza Licznik [Vibration] celu o 1",
+      "kr_sha256": "941e8309271e482aff54be6b7c5e98eeca8618b67f44c31e49d9c753b9f57569",
+      "en_sha256": "1aa023d984828d984b6c6ff6fce6b80de62572f96d23d52082adaa19f9c44534",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].desc": {
+      "pl": "[CantDuel]\n[StartBattle] przenosi Licznik [Vibration] wszystkich pozostałych sojuszników na siebie; [Vibration] wszystkich sojuszników wygasa\n[StartBattle] zyskuje 1 [AttackUp] za każde 3 Liczniki [Vibration] na sobie\n[WhenUse] zyskuje 9 Liczników [Vibration]",
+      "kr_sha256": "5b2428d47783bd295758ee5df1567258f0352adfa982e5d5336c289eb925c1e0",
+      "en_sha256": "03632ce84439447926e587f18c9467f89744834a765e6b627609337d4bb6fe24",
+      "origin": "ai"
+    },
+    "dataList[id=9101707].levelList[level=1].name": {
+      "pl": "For the Greater Good",
+      "kr_sha256": "a6d392b0dca6bbf0b229a42785a470ea8510ff4fe3120fc48f0d59fed764b1e0",
+      "en_sha256": "5d47399888143817f5af1e68a6e6cf757b416f2d9262ff66365b963a3bcc40c7",
+      "origin": "ai"
+    }
+  }
+}

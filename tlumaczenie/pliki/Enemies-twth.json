@@ -1,0 +1,268 @@
+{
+  "entries": {
+    "dataList[id=141301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=141301].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1413].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=1413].name": {
+      "pl": "Impulsive Fauvist Student of the Ring",
+      "kr_sha256": "44e74b7568ffaf86ed98c10e3c68cd7fa3e92d8a05039bd6b47d7f0e3d6724ad",
+      "en_sha256": "af04f58446ec991425173b935f11ea0d15f3860064fec2b95d0646bcb9cdc78e",
+      "origin": "ai"
+    },
+    "dataList[id=141401].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=141401].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1414].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=1414].name": {
+      "pl": "Instinctive Fauvist Student of the Ring",
+      "kr_sha256": "d20199c2d16be2e75794980f243272b2b86c3987a3c77ab4e7e4fff49fb4e7b1",
+      "en_sha256": "ac3abd3efe731cf71367f2b87ca622fa53cde240f00631d24a822a7c4a92a39a",
+      "origin": "ai"
+    },
+    "dataList[id=141501].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=141501].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1415].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=1415].name": {
+      "pl": "Feral Fauvist Student of the Ring",
+      "kr_sha256": "8d6f39edf3a0805c16554a522dde2368ced4502316cc7c5e0cbbddbbd836d085",
+      "en_sha256": "ca369ac8911e48587dedad9850fc9f417ccbd92218238d6afb7314d5102caad9",
+      "origin": "ai"
+    },
+    "dataList[id=141601].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=141601].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1416].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=1416].name": {
+      "pl": "Spontaneous Fauvist Student of the Ring",
+      "kr_sha256": "db77f69f83f9e830a7de76116457f5c449ec972a92b7547db84a4f50ed15b02b",
+      "en_sha256": "1d2d39380a0f080900b692b54628381074d6142233ff7f5a778e871dfe72be48",
+      "origin": "ai"
+    },
+    "dataList[id=142201].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=142201].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1422].desc": {
+      "pl": "Fauvist Docent",
+      "kr_sha256": "63c9b717770a57383ab6677d8fa211e4719d834b09520e8443aa6e64e695037e",
+      "en_sha256": "08b23043763c9f6c058c4a9988474e38983fc8ef51108dadd651e144dc2fa20f",
+      "origin": "ai"
+    },
+    "dataList[id=1422].name": {
+      "pl": "Rufo",
+      "kr_sha256": "f0e835cf66c44c0b0e832bff328ac59c038f6ebd5ccb5bcb48f9efa73f3d014b",
+      "en_sha256": "c13a107c2ee1bfef63186306c433abbf9e1326767c9d4c2f942f219b6af7689c",
+      "origin": "ai"
+    },
+    "dataList[id=142301].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=142301].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1423].desc": {
+      "pl": "Fauvist Docent",
+      "kr_sha256": "63c9b717770a57383ab6677d8fa211e4719d834b09520e8443aa6e64e695037e",
+      "en_sha256": "08b23043763c9f6c058c4a9988474e38983fc8ef51108dadd651e144dc2fa20f",
+      "origin": "ai"
+    },
+    "dataList[id=1423].name": {
+      "pl": "Rufo",
+      "kr_sha256": "f0e835cf66c44c0b0e832bff328ac59c038f6ebd5ccb5bcb48f9efa73f3d014b",
+      "en_sha256": "c13a107c2ee1bfef63186306c433abbf9e1326767c9d4c2f942f219b6af7689c",
+      "origin": "ai"
+    },
+    "dataList[id=142801].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=142801].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1428].desc": {
+      "pl": "Prozelita The Index",
+      "kr_sha256": "158b461e848274187881367884d81027e7d4161ca66894b790f5e887feb09e20",
+      "en_sha256": "42dda4e91a60a95ad9f90a1a8f2614a12316e254fd63cfb9c7d85785ea3e4aef",
+      "origin": "ai"
+    },
+    "dataList[id=1428].name": {
+      "pl": "Prescript-chasing Proselyte of the Index",
+      "kr_sha256": "50216a9688af65ace290f5ec2d0f2700d600e07211f44f1c27ca12debd3ad9a5",
+      "en_sha256": "1a7823a92ccd8d2178e35e50604a35a9184b9e210d67ba4bc70603de2191a215",
+      "origin": "ai"
+    },
+    "dataList[id=142901].desc": {
+      "pl": "Część",
+      "kr_sha256": "e3604ccf3e0264077dda5823b570af6923b9ae4454535b1c39fa70936019eebf",
+      "en_sha256": "8570a2e1669ff057c9f9f64098c35346c82a82b5492982c6a347a36b1eb39f65",
+      "origin": "ai"
+    },
+    "dataList[id=142901].name": {
+      "pl": "Body",
+      "kr_sha256": "7e2e396e44f9f1c8e7d2e0557a3fa15e374b423411c8cd9978a1f391b53f3232",
+      "en_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "origin": "ai"
+    },
+    "dataList[id=1429].desc": {
+      "pl": "Prozelita The Index",
+      "kr_sha256": "158b461e848274187881367884d81027e7d4161ca66894b790f5e887feb09e20",
+      "en_sha256": "42dda4e91a60a95ad9f90a1a8f2614a12316e254fd63cfb9c7d85785ea3e4aef",
+      "origin": "ai"
+    },
+    "dataList[id=1429].name": {
+      "pl": "Prescript-conforming Proselyte of the Index",
+      "kr_sha256": "1b3b11395fc6fe5cddaf66aebf5803baca285b1831df49670b8053f49fc85f60",
+      "en_sha256": "0f48e291caf4240190a2202f9d2ceaa90867276a11e627c7f95bc93a54b582f5",
+      "origin": "ai"
+    },
+    "dataList[id=91034].desc": {
+      "pl": "Prozelita The Index",
+      "kr_sha256": "158b461e848274187881367884d81027e7d4161ca66894b790f5e887feb09e20",
+      "en_sha256": "42dda4e91a60a95ad9f90a1a8f2614a12316e254fd63cfb9c7d85785ea3e4aef",
+      "origin": "ai"
+    },
+    "dataList[id=91034].name": {
+      "pl": "Prescript-chasing Proselyte of the Index",
+      "kr_sha256": "50216a9688af65ace290f5ec2d0f2700d600e07211f44f1c27ca12debd3ad9a5",
+      "en_sha256": "1a7823a92ccd8d2178e35e50604a35a9184b9e210d67ba4bc70603de2191a215",
+      "origin": "ai"
+    },
+    "dataList[id=91035].desc": {
+      "pl": "Prozelita The Index",
+      "kr_sha256": "158b461e848274187881367884d81027e7d4161ca66894b790f5e887feb09e20",
+      "en_sha256": "42dda4e91a60a95ad9f90a1a8f2614a12316e254fd63cfb9c7d85785ea3e4aef",
+      "origin": "ai"
+    },
+    "dataList[id=91035].name": {
+      "pl": "Prescript-conforming Proselyte of the Index",
+      "kr_sha256": "1b3b11395fc6fe5cddaf66aebf5803baca285b1831df49670b8053f49fc85f60",
+      "en_sha256": "0f48e291caf4240190a2202f9d2ceaa90867276a11e627c7f95bc93a54b582f5",
+      "origin": "ai"
+    },
+    "dataList[id=91043].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=91043].name": {
+      "pl": "Impulsive Fauvist Student of the Ring",
+      "kr_sha256": "44e74b7568ffaf86ed98c10e3c68cd7fa3e92d8a05039bd6b47d7f0e3d6724ad",
+      "en_sha256": "af04f58446ec991425173b935f11ea0d15f3860064fec2b95d0646bcb9cdc78e",
+      "origin": "ai"
+    },
+    "dataList[id=91044].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=91044].name": {
+      "pl": "Instinctive Fauvist Student of the Ring",
+      "kr_sha256": "d20199c2d16be2e75794980f243272b2b86c3987a3c77ab4e7e4fff49fb4e7b1",
+      "en_sha256": "ac3abd3efe731cf71367f2b87ca622fa53cde240f00631d24a822a7c4a92a39a",
+      "origin": "ai"
+    },
+    "dataList[id=91045].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=91045].name": {
+      "pl": "Feral Fauvist Student of the Ring",
+      "kr_sha256": "8d6f39edf3a0805c16554a522dde2368ced4502316cc7c5e0cbbddbbd836d085",
+      "en_sha256": "ca369ac8911e48587dedad9850fc9f417ccbd92218238d6afb7314d5102caad9",
+      "origin": "ai"
+    },
+    "dataList[id=91046].desc": {
+      "pl": "Fowistyczny Student",
+      "kr_sha256": "43bce1357e1dada91bed6318ce193ac1ef0bd3aca1ab15bfad6d114ea11f0136",
+      "en_sha256": "66888d5236bc214bb764c36d3a537bdfa263b43f6933aed48336f6c51d72206b",
+      "origin": "ai"
+    },
+    "dataList[id=91046].name": {
+      "pl": "Spontaneous Fauvist Student of the Ring",
+      "kr_sha256": "db77f69f83f9e830a7de76116457f5c449ec972a92b7547db84a4f50ed15b02b",
+      "en_sha256": "1d2d39380a0f080900b692b54628381074d6142233ff7f5a778e871dfe72be48",
+      "origin": "ai"
+    }
+  }
+}
