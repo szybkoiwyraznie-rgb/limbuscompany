@@ -118,7 +118,7 @@ Hasła odsyłaczowe encyklopedii Dantego (`StoryTheaterDanteNote*`) oraz pełne 
 - **Kolej Załamania — Linia 5**
 - **H Corp.**
 - **Noc w Zaułkach**
-- **Sprzątacze**
+- **Zamiatacze**
 - **Środkowy**
 - **Serdeczny**
 
@@ -1425,7 +1425,7 @@ Ale, jak przystało na zaułki, wszędzie są tak samo kręte, tak samo popląta
 
 Ciekawe, że w jakich Zaułkach bym nie był (a byłem raptem w trzech), granica między Zaułkami a Gniazdem jest wyraźna.
 
-## Sprzątacze
+## Zamiatacze
 
 ### Zapiski #1 - 985.1.03
 

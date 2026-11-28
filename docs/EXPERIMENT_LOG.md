@@ -1047,3 +1047,17 @@ Company, Molar Boatworks, King in Binds, Peccatulum Invidiae,
 Mang (望)/Shin (心), Muga, Arayashiki,
 Nursefather/Apprentice/Proselytes/Proxies/Messengers, Tiekan, Daguanyuan,
 Butter Street, Grand Magasin Sisyphe.
+
+**Korekta E-027a (decyzja właściciela 2026-11-28: „Tłumacz ma zawsze
+rację"):** Sweeper = **Zamiatacze** (kanon Tłumacza z `Passives.json`
+„Zamiataczy"), nie „Sprzątacze" — poprawione wpisy 147 (2 wyst.) +
+kategoria `Sweeper` w store/cz_snapshot/02_notatki. Pozostałe
+propozycje terminów bez precedensu Tłumacza (Punkty Przegięcia,
+Wataha, Zakład Korekcyjny Traum Otchłani, Kamienie Księżycowe, Zespół
+Autobusu, bronie rozstrzygające) — bez zmian. **Patch v8:**
+7 614 182 B, SHA-256
+`c8744a472373cb599de9e89ff57a5fa1b4df9e18ef91e7e50bf7fb201e37eeba`;
+Drive `1MwKTmqAXlVt5wkMsok6BlZ92OP7pdcvE`; v7 w koszu. **Czytanki
+v12:** 99 plików MD, 2 571 864 B, SHA-256
+`59622a0f541fa212dbecd71140b2edbeab3b2224147aed88d997ef9df0547324`;
+Drive `1_hR7QKViW0vzBv4OychJgLUsClpBkHX5`; v11 w koszu. Testy `76/76`.
